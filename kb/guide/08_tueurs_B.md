@@ -246,3 +246,200 @@ Détail : `kb/research/batch4_killers_g4.md` §25.
 
 Détail : `kb/research/batch4_killers_g4.md` §26.
 
+## 27. The Onryō (Sadako Yamamura) [Intermédiaire]
+
+*Archétype : furtif + mobilité (TV) + condamnation (mori). Dernier rework 7.5.0 / 7.5.1. Problème connu signalé par BHVR en 10.1.0 : elle peut parfois être vue à plus de 24 m en étant démanifestée (VP).*
+
+**Données LIVE**
+
+| Paramètre | Valeur | Conf. |
+|---|---|---|
+| Vitesse / TR / taille | 4,6 m/s ; TR 24 m + berceuse 24 m ; **petite** | SS |
+| Démanifestée | Undetectable ; **invisible à > 24 m**, clignote à ≤ 24 m ; ne peut ni attaquer ni **être stun par une palette** | SS |
+| (Dé)manifestation | 1,5 s de charge, à 4,0 m/s | SS |
+| Projection | Vers n'importe quelle TV allumée : **+1 Condemned à tous les survivants à ≤ 16 m de n'importe quelle TV allumée** ; 6,9 m/s pendant 2 s après | SS |
+| TV | Allumées 30 s après le début ; éteintes **70 s** quand un survivant retire ou insère une cassette ; 45 s après une projection | SS |
+| Condemned | 7 stacks = mori possible **à terre** ; le crochet verrouille jusqu'à 3 stacks (1er) puis 6 (2e) | SS |
+| Cassettes | Insérée dans la TV indiquée : **−3 stacks** ; la porter ne fait **plus** monter le Condemned | SS |
+
+**Identification** : pas de TR ni de silhouette à > 24 m, clignotement à ≤ 24 m, TV qui s'allument, Condemned qui monte d'un coup chez tout le monde (projection) [FACT].
+
+**Ce qu'elle cherche** : un survivant qui ne regarde jamais derrière lui ; une palette jetée alors qu'elle est démanifestée (pas de stun possible) ; les survivants à 5-6 stacks [HEURISTIQUE].
+
+**Tiles** : la palette redevient normale quand elle est **manifestée** ; zones sombres et encombrées, et abords (≤ 16 m) d'une TV allumée = défavorables [HEURISTIQUE fondée sur FACT].
+
+**Counterplay par couche**
+
+- **Mécanique** : checks réguliers derrière soi pendant les gens, surtout si une TV à ≤ 16 m est allumée ou si ton Condemned vient de monter. Rappel : à > 24 m, elle est invisible, un check ne voit que les 24 m. Checker **entre deux skill checks** (un raté coûte −10 % et 3 s).
+- **Palettes** : ne jamais compter sur un stun tant qu'elle est démanifestée. Pendant ses 1,5 s de manifestation derrière toi, une palette baissée peut stun [SITUATIONNEL].
+- **Positionnel** : ne pas réparer à ≤ 16 m d'une TV allumée.
+- **Macro** : retirer les cassettes des TV proches des gens (TV éteinte 70 s) ; porter la cassette à la TV indiquée pour −3 stacks.
+- **Équipe** : partager le travail des cassettes. Après 2 crochets, 6 stacks verrouillés = un seul stack de marge.
+
+**Erreurs classiques** [HEURISTIQUE] : réparer près d'une TV allumée ou dos à la zone d'arrivée ; oublier le Condemned en endgame (mori direct à terre) ; palette sur une Onryō démanifestée.
+
+**Quand le counterplay habituel échoue** : « pas de TR = pas de tueur » échoue totalement. Contre **Iridescent Videotape**, la gestion des TV perd sa valeur : les gens reprennent la priorité.
+
+**Add-ons qui changent la décision**
+
+| Add-on | Effet LIVE | Décision du survivant |
+|---|---|---|
+| Iridescent Videotape | Projection sans Condemned et sans extinction de TV | Faire les gens au lieu de gérer les TV |
+| Tape Editing Deck | Tous commencent avec une cassette ; aura 6 s à l'insertion | Insérer quand elle est occupée ailleurs |
+| Ring Drawing | Accrocher un porteur de cassette = +1 stack à tous les autres | Ne pas garder de cassette en chase |
+| Distorted Photo | Survivants à ≤ 16 m qui la voient se manifester : cri + aura 4 s | S'éloigner dès qu'elle clignote au lieu de la regarder |
+| Remote Control | Auras à ≤ 12 m d'une TV allumée 7 s après une projection | Éviter les abords des TV au lieu de s'y cacher |
+| Yoichi's Fishing Net | Blindness dès 4 stacks | Surveiller visuellement à 4+ stacks |
+
+**Perk à connaître** : **Call of Brine** LIVE = régression 130/140/150 % pendant **90 s** (was 70 s, 10.1.0) (VM).
+
+Détail : `kb/research/batch4_killers_g4.md` §27.
+
+## 28. The Dredge [Intermédiaire]
+
+*Archétype : mobilité (casiers) + zone (Nightfall) + info. Buff 9.6.0 : 4,0 m/s pendant la charge de Gloaming (was 3,8) (VM).*
+
+**Données LIVE**
+
+| Paramètre | Valeur | Conf. |
+|---|---|---|
+| Vitesse / TR / taille | 4,6 m/s ; 32 m ; grande | SS |
+| Gloaming | Laisse un **Remnant** ; 3 jetons = 3 téléportations de casier en casier ; retour au Remnant s'il existe encore ; cooldown 10 s (4 s en Nightfall) | SS |
+| Remnant | Disparaît après la 1re téléportation **ou si un survivant le touche** | SS |
+| Casier | S'il se téléporte dans un casier **occupé**, il en ressort **en te portant** ; avertissement sonore après 8 s | SS |
+| Verrous | 0,1 s à poser ; casier verrouillé **prioritaire** ; il en sort en 2,25 s **bruyamment** | SS |
+| Nightfall | Jauge 300 ; **+6/s quand le Dredge est caché** (pas le survivant) ; +1/s par blessé (max +4) ; alerte à 85 % ; **dure 60 s** ; obscurité, Dredge Undetectable | SS |
+
+**Identification** : grande silhouette, casiers qui claquent, Remnant laissé sur la map, jauge Nightfall et alerte à 85 % [FACT].
+
+**Ce qu'il cherche** : des boucles près de casiers, un Remnant qui lui permet de couper la rotation, des chases pendant Nightfall [HEURISTIQUE].
+
+**Tiles** [HEURISTIQUE] : favorables = tiles extérieures sans casier proche. Défavorables = bâtiments bourrés de casiers.
+
+**Counterplay par couche**
+
+- **Mécanique** : ne pas se placer entre le Remnant et lui ; si le Remnant est sur ta route et qu'il n'est pas tout près, **le toucher le supprime** [FACT].
+- **Positionnel** : verrouiller les casiers près des gens actifs et des crochets. Un casier verrouillé attire sa téléportation mais l'oblige à sortir en 2,25 s bruyamment : c'est une **alarme**, pas un mur.
+- **Macro** : **ne pas se cacher en casier**. Limiter le nombre de blessés simultanés (jusqu'à +4/s sur la jauge). Un casier qui « avertit » = il est dedans : ne pas l'ouvrir.
+- **Équipe** : pendant Nightfall, rester près de tiles solides (SWF : annoncer les positions). Attendre la fin de Nightfall pour sauver n'est possible que si l'accroché vient d'entrer dans sa phase (60 s de nuit contre 70 s de phase) ; sinon, sauver par la route la plus couverte [SITUATIONNEL].
+
+**Erreurs classiques** [HEURISTIQUE] : se cacher en casier ; ignorer l'alerte 85 % ; réparer à côté d'un casier non verrouillé ; rester blessés à plusieurs. Le seed disait « se cacher en casier remplit la jauge » : faux, c'est le Dredge caché qui la remplit.
+
+**Quand le counterplay habituel échoue** : sur map intérieure pleine de casiers, verrouiller ne suffit pas → jouer les tiles extérieures ; Nightfall en endgame → se rapprocher des portes avant.
+
+**Add-ons qui changent la décision**
+
+| Add-on | Effet LIVE | Décision du survivant |
+|---|---|---|
+| Field Recorder | Partie en Nightfall au départ, Nightfall automatique au dernier gen, Exhausted au contact du Remnant | Finir le dernier gen sain et près des portes ; ne pas toucher le Remnant avec une perk d'exhaustion à garder |
+| Broken Doll | Nightfall 80 s | Ne plus attendre la fin de la nuit pour sauver (80 s > 70 s) |
+| Iridescent Wooden Plank | Exposed les 12 dernières secondes de Nightfall | Rester prudent jusqu'à la fin de la nuit |
+| Boat Key | Verrous cassés quand les portes sont alimentées | Ne plus compter sur les verrous en endgame |
+| Sacrificial Knife | En Nightfall, vaults bloqués 5 s à ≤ 16 m du casier dont il sort | Quitter la zone au lieu de viser la fenêtre proche |
+| Tilling Blade | Blindness + Haemorrhage + Mangled 80 s si blessé en Nightfall | Éviter tout coup pendant la nuit |
+
+**Perk à connaître** : **Dissolution** LIVE = n'importe quel dégât, **12/16/20 s** (le texte « attaque de base, 13/14/15 s » affiché par le wiki est le **PTB 10.2.0 — non LIVE**) (VP).
+
+Détail : `kb/research/batch4_killers_g4.md` §28.
+
+## 29. The Mastermind (Albert Wesker) [Avancé]
+
+*Archétype : mobilité + anti-loop (bonds) + infection. Buff 9.6.0 (VM). La description du pouvoir sur le wiki n'est pas à jour : les valeurs LIVE sont celles de la note 9.6.0.*
+
+**Données LIVE**
+
+| Paramètre | Valeur | Conf. |
+|---|---|---|
+| Vitesse / TR / taille | 4,6 m/s ; **40 m** ; moyenne | SS |
+| Virulent Bound | 2 jetons (recharge **5 s** chacun) ; charge 1,5 s à 3,68 m/s ; 2e bond dans une fenêtre de **2,5 s** ; ≈ 7 m puis ≈ 14 m | VM / SS |
+| Collision | Survivant **en interaction** : coup direct ; sinon saisie puis projection ; dégât seulement si le survivant heurte un obstacle | SS |
+| Palette / fenêtre | **Virulent Vault** : il **franchit** sans casser ; un survivant juste derrière est touché ; classé « special-vault » (9.5.0) | VM |
+| Casse de palette | **Seulement avec l'add-on Lab Photo** (qui supprime le franchissement) | VM |
+| Cooldowns | 1,5 s après un franchissement ; 2,7 s pour ceux qui étaient à 3 s | SS / VM |
+| Uroboros | +20 par contact de bond ; +0,8/s ; **crochet = remise à 1** ; à 100 : Hindered −4 % et **prochain contact = double dégât** | SS |
+| Sprays | 6 caisses, 2 usages ; 5 s ; Killer Instinct 4 s | SS |
+
+**Identification** : TR 40 m, bruit de charge du bond, caisses de sprays, jauge Uroboros sur les portraits [FACT].
+
+**Ce qu'il cherche** : couloirs et open (élan), fenêtres vaultées sans avance, survivants près d'un mur (dégât à la collision) ou en interaction (coup direct) [HEURISTIQUE fondée sur FACT].
+
+**Tiles** : favorables = tiles serrées et coudées, étages ; défavorables = longues lignes, fenêtres isolées, champs [HEURISTIQUE]. **Palettes** : en base, la palette baissée **reste utilisable après son passage**. Le danger est d'être **juste derrière** elle dans l'axe du bond. Après un franchissement, 1,5 s de cooldown = fenêtre pour rejouer la palette dans l'autre sens [SITUATIONNEL].
+
+**Counterplay par couche**
+
+- **Mécanique** : au son de charge (1,5 s), demi-tour ou strafe serré ; forcer le bond contre un obstacle. Ne pas réagir au 1er bond comme s'il était l'attaque (le 2e suit dans les 2,5 s).
+- **Positionnel** : en open, pas de mur ni de coéquipier juste derrière toi. Après un drop ou un vault, s'écarter latéralement.
+- **Interactions** : ne pas réparer, soigner ou décrocher quand il a un bond prêt à portée (coup direct).
+- **Macro** : l'infection critique arrive en ≈ 100 s de passif depuis la première infection : se désinfecter avant 100, spray quand il est loin (Killer Instinct 4 s). Un crochet remet l'infection à 1.
+- **Équipe** : ne pas coller un coéquipier en chase (le survivant projeté qui le percute le blesse + Deep Wound).
+
+**Erreurs classiques** [HEURISTIQUE] : courir en ligne droite entre deux tiles ; vaulter avec peu d'avance puis rester derrière ; réparer en infection critique ; **considérer la palette perdue alors qu'il l'a seulement franchie**.
+
+**Quand le counterplay habituel échoue** : sur maps ouvertes, le tile-to-tile échoue souvent → préférer les zones denses même avec moins de palettes. Avec **Lab Photo**, retour au schéma « pré-drop + départ ».
+
+**Add-ons qui changent la décision**
+
+| Add-on | Effet LIVE | Décision du survivant |
+|---|---|---|
+| Lab Photo | Casse palettes et murs au bond ; ne franchit plus les palettes | Pré-drop et départ au lieu de rejouer la palette |
+| Iridescent Uroboros Vial | Tous infectés au départ ; Exposed 30 s en infection critique | Se désinfecter bien avant 100, sprays tôt |
+| Dark Sunglasses | Undetectable 20 s quand un survivant atteint l'infection critique | Surveiller les jauges des coéquipiers comme alerte « sans TR » |
+| Loose Crank | +15 % pendant la fenêtre du 2e bond | Garder plus de distance après le 1er bond |
+| Maiden Medallion / Uroboros Virus | Blindness 60 s / aura 4 s en infection critique | Se soigner avant 100 |
+| Helicopter Stick / Bullhorn | Aura 8 s / Oblivious 30 s après un spray | Utiliser le spray loin de sa zone de réparation |
+
+**Perk à connaître** : **Superior Anatomy** LIVE = son prochain vault de fenêtre plus rapide après ton fast vault à ≤ 12 m, cooldown 25 s ; le texte du wiki (30/35/40 %, 20 s) est le **PTB 10.2.0 — non LIVE**.
+
+Détail : `kb/research/batch4_killers_g4.md` §29.
+
+## 30. The Knight (Tarhos Kovács) [Avancé]
+
+*Archétype : anti-loop (gardes) + zone (patrouilles). Buff 9.1.0 (tracé 38 m) ; **changement 10.1.1** sur les palettes contre les gardes (VM).*
+
+**Données LIVE**
+
+| Paramètre | Valeur | Conf. |
+|---|---|---|
+| Vitesse / TR / taille | 4,6 m/s ; 32 m ; moyenne | SS |
+| Tracé de patrouille | 15 m/s ; **38 m** max ; 10 s max ; orbe visible des survivants ; tracé long = Haste 5 % pour lui | VM |
+| Ordre de garde | À ≤ 6 m d'une palette baissée, d'un mur cassable ou d'un gen entamé ; durée **1,8 s** (Carnifex) ou **5 s** (Assassin, Jailer) ; gen −5 % | SS |
+| Détection | Vision 180° + LOS, **ou** Loud Noise ; le garde rejoint la position en 2,5 s, plante un **étendard**, puis chasse | SS |
+| Carnifex | Chasse 4,1 m/s 12 s ; cooldown 20 s | SS |
+| Assassin | Chasse **4,4 m/s** 12 s ; **Deep Wound** ; cooldown 30 s | SS |
+| Jailer | Patrouille 4,1 m/s 24 s ; vision **16 m** ; chasse 24 s ; cooldown 25 s | SS |
+| Fin de chasse | Toucher l'étendard (**Haste 50 % + Endurance 3 s**), **décrocher un autre survivant**, ou tenir jusqu'au bout ; minuteur **3× plus rapide** si le Knight est à ≤ 8 m de son garde | SS |
+| Palette contre un garde (10.1.1) | Baissée quand le garde est à ≥ 3 m : il doit **contourner** ; détour > **48 m** = chasse abandonnée ; baissée sur lui (< 3 m) : il **passe à travers** | VM |
+
+**Identification** : orbe de tracé, garde visible, étendard sur la map [FACT].
+
+**Ce qu'il cherche** : le « sandwich » garde + Knight de part et d'autre d'une tile ; un ordre de garde sur ta palette baissée ou ton gen [HEURISTIQUE fondée sur FACT]. Un garde ne casse pas une palette « en patrouillant » : la casse passe toujours par un ordre.
+
+**Tiles** : favorables = quitter une tile où un garde arrive pour une tile neuve ; bâtiments à plusieurs sorties. Défavorables = tile à palette unique (ordre de garde), culs-de-sac [HEURISTIQUE].
+
+**Counterplay par couche**
+
+- **Mécanique** : pendant une chasse de garde, viser l'étendard **tôt**, avant que le Knight arrive. S'il reste à ≤ 8 m de son garde, tenir le temps devient réaliste (minuteur ×3).
+- **Palettes (10.1.1)** [SITUATIONNEL] : baisser **tôt** contre un garde (≥ 3 m), jamais au contact. Limite : la plupart des tiles se contournent en bien moins de 48 m ; l'abandon concerne surtout les longs murs et les bâtiments [HYPOTHÈSE]. Le Knight lui-même casse normalement.
+- **Détection** : pas de Loud Noise (skill check raté, actions précipitées) près d'un garde en patrouille ; rester hors de sa vision (10 m, 16 m pour le Jailer).
+- **Macro** : sortir de la zone de patrouille plutôt que finir la réparation ; contre l'Assassin, mender vite le Deep Wound.
+- **Équipe** : **un unhook met fin à la chasse de garde de celui qui décroche** [FACT] : chassé près d'un crochet, décrocher te libère aussi (le Knight reste une menace).
+
+**Erreurs classiques** [HEURISTIQUE] : rester sur une tile pendant qu'un garde arrive ; oublier l'étendard ; paniquer vers une zone morte ; baisser la palette au contact du garde.
+
+**Quand le counterplay habituel échoue** : contre **Iridescent Company Banner**, les fenêtres ne sont plus fiables → palettes et changements de tile.
+
+**Add-ons qui changent la décision**
+
+| Add-on | Effet LIVE | Décision du survivant |
+|---|---|---|
+| Iridescent Company Banner | Fenêtres du tracé bloquées 25 s ; fenêtres vaultées par le chassé bloquées ; **portes bloquées pour le chassé** | Jouer palettes et changements de tile ; ne pas foncer aux portes pendant une chasse |
+| Town Watch's Torch | Knight Undetectable pendant une chasse | S'attendre au Knight sans TR |
+| Blacksmith's Hammer / Broken Hilt | Broken 60 s / Haemorrhage + Mangled 70 s si blessé par un garde | Viser l'étendard plutôt qu'accepter la blessure |
+| Grim Iron Mask / Ironworker's Tongs | Blindness 75 s / Oblivious 60 s | Surveiller visuellement |
+| Sharpened Mount | Étendards 15 % plus lents à apparaître | Partir vers l'étendard un peu plus tard |
+| Dried Horsemeat / Tattered Tabard | Chasse +4 s / patrouille +8 s | Compter des durées plus longues |
+
+**Perk à connaître** : **Nowhere to Hide** LIVE = **24 m**, 3/4/5 s ; le « 18 m » du seed était la valeur PTB 10.1.0 (VM).
+
+Détail : `kb/research/batch4_killers_g4.md` §30.
+
