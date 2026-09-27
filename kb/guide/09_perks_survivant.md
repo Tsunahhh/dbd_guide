@@ -546,3 +546,157 @@ Ces perks transforment du **temps de coffre** en objets ou en progression. Elles
 
 ---
 
+## 9.4 Archétypes de builds `[Intermédiaire → Avancé]`
+
+> **Tout cette section est [HEURISTIQUE]** : raisonnement à partir des fiches, sans taux de victoire ni donnée d'usage. Les quatre perks d'un archétype ne sont pas testées ensemble ; les listes « contre quoi » et « cas d'échec » ne sont pas exhaustives. Un archétype se choisit selon **votre rôle** dans l'équipe et **votre file** (SoloQ / SWF), puis s'ajuste après chaque partie. Marque **[PTB]** = perk modifiée au PTB 10.2.0 : archétype à revoir à la sortie de 10.2.0. Logique reprise de `kb/deliverables/PERK_DATABASE.md` §4, valeurs reprises des fiches.
+
+### 9.4.1 Chase — Lithe · Windows of Opportunity [PTB] · Parental Guidance · Lucky Break
+- **POURQUOI** : Windows montre la prochaine tile sans la chercher ; Lithe convertit un saut rapide en 3 s de +50 % Haste pour l'atteindre. Parental Guidance (5/6/7 s sans traces après un stun) et Lucky Break (sans griffures ni sang quand blessé) cassent la piste après le contact.
+- **QUAND** : cartes riches en fenêtres ; joueur qui connaît mal les cartes ; vous êtes souvent la cible de la première chase.
+- **CONTRE QUOI** : tueurs M1 qui pistent aux griffures et au sang.
+- **CAS D'ÉCHEC** : Blight, Nurse (la distance compte moins) ; zones mortes sans fenêtre ; tueurs à aura ; une seule perk d'Exhaustion. Variante : Finesse pour le premier contact en bonne santé ; Five Moves Ahead ferait doublon avec Windows en LIVE.
+
+### 9.4.2 Information — Spine Chill [PTB] · Alert · Inner Focus · Empathy
+- **POURQUOI** : quatre questions sans vocal. Le tueur me regarde-t-il (Spine Chill, 36 m) ? Où casse-t-il ou kicke-t-il (Alert, 3/4/5 s) ? Où vient-il de frapper (Inner Focus, 6/8/10 s) ? Où sont les blessés et mourants (Empathy, 64/96/128 m) ?
+- **QUAND** : SoloQ ; tueurs qui kickent les gens.
+- **CONTRE QUOI** : tueurs qui tournent entre les gens ; tueurs furtifs non Undetectable (Spine Chill).
+- **CAS D'ÉCHEC** : Undetectable, Blindness ; tueur qui ne casse rien ; aucun apport en chase ni en soin. Variante : Kindred à la place d'Empathy si le problème est le double sauvetage.
+
+### 9.4.3 Générateurs — Déjà Vu · Corrective Action · Boon: Steadfast · Repressed Alliance
+- **POURQUOI** : Déjà Vu désigne le 3-gen à casser (+4/5/6 %) ; Corrective Action transforme les ratés des alliés en Goods (ni explosion ni notification) ; Steadfast divise la régression par deux et donne +8/9/10 % dans sa zone ; Repressed Alliance bloque 15 s le gen que vous quittez.
+- **QUAND** : SoloQ contre un tueur à régression ; défense d'un groupe de gens.
+- **CONTRE QUOI** : kicks, régression passive, 3-gen.
+- **CAS D'ÉCHEC** : Shattered Hope ; Repressed Alliance bloque aussi les alliés ; DR entre bonus de réparation [HYPOTHÈSE]. Variantes : Potential Energy (finir un gen menacé d'un coup), Hyperfocus + Stake Out pour un joueur régulier aux Greats.
+
+### 9.4.4 Soin — Botany Knowledge · Self-Care · Bite the Bullet · Empathy
+- **POURQUOI** : autonomie (Self-Care), vitesse (Botany +30/40/50 %), discrétion (Bite the Bullet : soin silencieux, raté sans bruit et pénalité réduite à 3/2/1 %), repérage des blessés (Empathy). Un seul bonus de vitesse « pur » pour limiter les DR.
+- **QUAND** : SoloQ sans soigneur fiable ; grandes cartes ; tueurs qui ne reviennent pas vite.
+- **CONTRE QUOI** : tueurs M1 où chaque état de santé compte.
+- **CAS D'ÉCHEC** : perks tueur qui révèlent ou ralentissent les soigneurs ; Broken ; Mangled ; one-shots, Nurse, Blight (46 à 64 s d'auto-soin ≈ la moitié ou les deux tiers d'un gen). Variante : Resurgence à la place de Self-Care si vous êtes souvent accroché.
+
+### 9.4.5 Altruisme — Reassurance · Babysitter · We'll Make It [PTB] · We're Gonna Live Forever
+- **POURQUOI** : Reassurance choisit le moment du sauvetage (20/25/30 s de pause) ; Babysitter donne l'aura du tueur 8 s et efface les traces du décroché ; We'll Make It soigne +100 % après un décrochage ; WGLF relève +100 % et donne 6/8/10 s d'Endurance au relevé.
+- **QUAND** : vous êtes le sauveteur désigné de l'équipe.
+- **CONTRE QUOI** : camp, proxy-camp, retour au crochet.
+- **CAS D'ÉCHEC** : perks tueur qui punissent le sauveteur (chapitre 10) ; tunnel immédiat (We'll Make It rang I trop court) ; approche à 6 m qui vous fait mettre à terre ; DR entre We'll Make It et WGLF [HYPOTHÈSE]. Variante : Kindred ou Borrowed Time [PTB].
+
+### 9.4.6 Anti-tunnel — Will to Live · Off the Record · Deliverance · Lithe
+- **POURQUOI** : des fenêtres de protection qui se recouvrent après le décrochage : stun de 4 s pendant 40/50/60 s (Will to Live), Endurance et aura cachée 30/35/40 s (Off the Record), auto-décrochage après un sauvetage propre (Deliverance), relance de chase (Lithe).
+- **QUAND** : tueurs qui tunnel ; SoloQ où personne ne prend de coup pour vous.
+- **CONTRE QUOI** : le tunnel qui attend la fin des 10 s de protection de base.
+- **CAS D'ÉCHEC** : slug ; toute action voyante pendant la fenêtre ; gens tous finis (Will to Live coupée) ; Deliverance = Broken 160/140/120 s. Variante : Dead Hard (s'active après un décrochage) pour un joueur précis.
+
+### 9.4.7 Anti-slug — Unbreakable · Tenacity · Boon: Exponential · We're Gonna Live Forever
+- **POURQUOI** : à terre, Tenacity (rampe +30/40/50 %, aura illisible) vous mène au Boon ; Exponential (+90/95/100 %) ou Unbreakable (une fois) vous relèvent seul ; WGLF relève les autres deux fois plus vite avec Endurance.
+- **QUAND** : tueurs qui sluggent ; menace de 4-slug.
+- **CONTRE QUOI** : slug en fin de chase, slug de fin de partie.
+- **CAS D'ÉCHEC** : Shattered Hope ; tueur qui ramasse tout de suite ; Knock Out ; Deep Wound déjà actif. Variante : Soul Guard contre un build Hex (auto-relève sous Cursed), Buckle Up.
+
+### 9.4.8 Fin de partie — Adrenaline · No One Left Behind [PTB] · Reassurance · Clairvoyance
+- **POURQUOI** : aux portes, Adrenaline rend un état et 4 s de Haste ; NOLB accélère soins et décrochages de 50/75/100 % ; Reassurance contre le face-camp final ; Clairvoyance montre interrupteurs, trappe et crochets (64 m) après un totem.
+- **QUAND** : parties qui arrivent jusqu'aux portes.
+- **CONTRE QUOI** : camp de fin de partie, perks tueur de fin de partie.
+- **CAS D'ÉCHEC** : partie perdue avant les portes ; 3-gen (trois perks sans valeur) ; Terminus (pas de soin d'Adrenaline). **C'est l'archétype le plus spécialisé** : en pratique, gardez une perk d'endgame dans un autre build [AVIS D'EXPERT].
+
+### 9.4.9 SoloQ — Will to Live · Kindred [PTB] · Deliverance · Windows of Opportunity [PTB]
+- **POURQUOI** : sans vocal, des perks qui ne dépendent pas des coéquipiers ou qui remplacent les annonces : anti-tunnel autonome (Will to Live), auto-décrochage (Deliverance), coordination des sauvetages et détection du camp (Kindred, 8/12/16 m), tiles visibles (Windows).
+- **QUAND** : file solo.
+- **CONTRE QUOI** : tunnel ; crochets mal gérés par l'équipe.
+- **CAS D'ÉCHEC** : Deliverance exige un décrochage sûr **avant** votre crochet ; slug ; joueur qui connaît déjà les cartes (Windows perd sa valeur). Variantes : Empathy, Déjà Vu, Corrective Action.
+
+### 9.4.10 SWF — Shoulder the Burden [PTB] · Breakout · Teamwork: Throw Down · Teamwork: Full Circuit
+- **POURQUOI** : le vocal rend exploitables les effets à deux : Full Circuit (+5 %, zone Good +15/20/25 % par allié) ; Throw Down (Endurance 6/8/10 s aux alliés blessés à 24 m après un aveuglement ou un stun de palette) ; Breakout (Haste 6/8/10 %, lutte +25 %) ; Shoulder the Burden (prendre un état de crochet d'un allié tunnelé).
+- **QUAND** : équipe coordonnée avec lampes et palettes.
+- **CONTRE QUOI** : tunnel d'un joueur ; portages longs.
+- **CAS D'ÉCHEC** : perks tueur anti-sauvetage (chapitre 10) ; Shoulder the Burden rend **Exposed** 60/50/40 s ; DR probable entre Full Circuit et Soft-Spoken ; la pénalité coop (85/70/55 %) que +5 % ne compense pas. Ce build suppose des gens groupés et un suivi du porteur : il **contredit** les réflexes SoloQ « un survivant par gen » et « ne pas suivre une chase de près » (`kb/deliverables/PERK_DEDUCTION.md` §5) ; abandonnez-le dès que le tueur montre une perk qui punit ces comportements.
+
+### 9.4.11 Apprentissage — Windows of Opportunity [PTB] · Spine Chill [PTB] · Botany Knowledge · Reassurance
+- **POURQUOI** : quatre perks de difficulté 1 (fiches) qui montrent ce que le débutant ne voit pas encore (tiles, regard du tueur) et réduisent le coût des erreurs (soins plus rapides, pause du crochet pour apprendre le timing du sauvetage).
+- **QUAND** : premières parties, nouvelles cartes.
+- **CAS D'ÉCHEC** : Windows ne sert plus quand on connaît les cartes ; Spine Chill exige une ligne de vue ; deux perks reworkées au PTB 10.2.0. **Retirez une béquille** dès qu'elle ne vous apprend plus rien (exercice : 5 parties sans Windows, en nommant la tile suivante avant de la voir).
+
+### 9.4.12 Régularité — Distortion · Windows of Opportunity [PTB] · Sprint Burst · Empathy
+- **POURQUOI** : peu de conditions de déclenchement, un peu de valeur dans presque toutes les parties. Recompte sur les notes 0-3 des 176 fiches re-vérifiées : Distortion est la seule à avoir des notes non nulles sur 8 axes sur 9 ; **treize** perks sont à 7/9, dont Windows, Sprint Burst et Empathy (le choix parmi elles est **arbitraire** : pas de doublon de rôle avec Distortion, pas de condition liée aux coéquipiers).
+- **QUAND** : pour progresser sans connaître le tueur à l'avance.
+- **CONTRE QUOI** : tueurs à lecture d'aura (Distortion vous le signale).
+- **CAS D'ÉCHEC** : aucune perk n'excelle dans un axe ; contre un tueur précis, un build spécialisé fait mieux. Sprint Burst gâchée si vous courez sans raison.
+
+---
+
+## 9.5 Construire son build : la méthode `[Intermédiaire]`
+
+```
+1. RÔLE      : qui suis-je dans l'équipe ? (chaseur, réparateur, sauveteur, soigneur)
+2. PROBLÈME  : qu'est-ce qui m'a fait perdre les 5 dernières parties ?
+               (tunnel, slug, 3-gen, chases courtes, sauvetages ratés…)
+3. UN AXE PAR SLOT : 1 perk qui traite le problème + 1 perk de rôle
+               + 1 perk d'info ou d'autonomie + 1 perk libre
+4. CONTRÔLE DES CONFLITS (9.1.5) :
+   □ une seule perk d'Exhaustion (sauf Adrenaline)
+   □ pas de « bonne santé » + « blessé » qui s'annulent
+   □ pas de perk Broken + perk de soin reçu
+   □ pas deux bonus identiques (DR) ni deux perks « une instance » dans l'équipe
+   □ pas plus d'une perk d'endgame ou de « slot souvent mort »
+5. TEST : 5 parties, puis relire l'écran de fin (qu'est-ce qui s'est déclenché ?)
+```
+
+**Exemple raisonné** [HEURISTIQUE] : SoloQ, joueur moyen en chase, meurt souvent en premier par tunnel. Problème : tunnel → **Will to Live**. Rôle : réparateur → **Déjà Vu**. Autonomie / info : **Kindred**. Slot libre : **Sprint Burst** (partir avant le contact, grâce au rayon de terreur). Contrôle : une perk d'Exhaustion ; Will to Live coupée si vous réparez juste après le décrochage : **règle de jeu** à respecter pendant 40-60 s.
+
+> **Erreur fréquente** : changer tout le build après une partie perdue. Une partie ne dit presque rien (tueur, carte, équipe) ; jugez sur 5 à 10 parties le **nombre de déclenchements utiles** de chaque perk.
+
+---
+
+## 9.6 PTB 10.2.0 : ce qu'il faut anticiper (**non LIVE**) `[Avancé]`
+
+> **Tout ce qui suit est « PTB 10.2.0 — non LIVE »** (PTB du 15 au 21/09/2026, note officielle 559 lue en entier). Aucune de ces valeurs n'est en jeu aujourd'hui ; la sortie LIVE n'a pas de date officielle. Les valeurs peuvent encore changer entre le PTB et la sortie, comme en 9.1.0 (Built to Last), 9.2.0 (Road Life) ou 9.3.0 (Off the Record, Babysitter, Borrowed Time : changements PTB annulés).
+
+**31 perks survivant** du périmètre sont modifiées ; toutes ces lignes sont (VM) : note 559 + page wiki.
+
+| Perk | LIVE 10.1.2a | PTB 10.2.0 — non LIVE |
+|---|---|---|
+| Windows of Opportunity | Murs, palettes, fenêtres à 24/28/32 m, sans CD | **Fenêtres seulement**, 24 m ; saut de fenêtre +10 % ; CD 40/35/30 s après un saut |
+| Five Moves Ahead | 5 palettes **et fenêtres** | 5 palettes seulement (reste inchangé) |
+| Spine Chill | 36 m avec ligne de vue ; +2/4/6 % de vitesse d'action | 40 m **sans** ligne de vue ; pas de cri 12 s, saut +10 % 12 s, CD 40/35/30 s ; **plus de bonus d'action** |
+| Dark Sense | Aura du tueur 5/7/10 s | 8/9/10 s + palettes et fenêtres à 24 m + auras des alliés |
+| Premonition | Cône de 45° à 36 m, signal sonore, CD 60/45/30 s | Hors poursuite, 32 m sans angle, **aura du tueur 3 s**, CD 70/65/60 s |
+| Small Game | Cône sonore vers les totems | Auras des totems à 10/11/12 m |
+| Kindred | Tueur révélé à ≤ 8/12/16 m du crochet | 14/15/16 m |
+| Resilience | +3/6/9 % blessé | +7/8/9 % |
+| Bound by Obsession | +2/4/6 % ; aura 3 s | +8/9/10 % (bénédiction incluse) ; aura 4 s |
+| Calm Spirit | Coffres et totems 40/35/30 % plus lents | **+8/9/10 %** plus rapides |
+| Better Than New | +12/14/16 % | +40/45/50 % |
+| Empathic Connection | Soin des autres +25/30/35 % | +40/45/50 % |
+| We'll Make It | 30/60/90 s | 70/80/90 s |
+| No One Left Behind | Soin et décrochage +50/75/100 % | +80/90/100 % |
+| Flow State | +8/9/10 % par jeton | +13/14/15 % par jeton |
+| Solidarity | 50/60/70 %, sans médikit | 65/70/75 %, médikit autorisé |
+| Do No Harm | Great de soin +3 % fixe | +3 % par état de crochet ; +5 % de chance de skill check |
+| This Is Not Happening | Blessé : zone Great +10/20/30 % | Sans condition : Good +150/175/200 %, Great +30 % |
+| Friendly Competition | +5 % pendant 100/110/120 s | +10 % pendant 80/85/90 s |
+| Boon: Illumination | Bénir et purifier +6/8/10 % | Bénir +150/175/200 %, plus de bonus de purification |
+| Plunderer's Instinct | Auras à 32/48/64 m | Sans limite ; déverrouillage +150/175/200 % |
+| Pharmacy | Déverrouillage +75/100/125 %, Emergency Med-Kit | Bonus étendu à la fouille ; chaque coffre fouillable une fois |
+| Wake Up! | +8/10/12,5 % par survivant vivant (max 32/40/50 %) | +8/9/10 % + 20 % par **autre** survivant vivant (max 68/69/70 %) ; seul, un peu plus lent |
+| Blood Pact | Désactivée si vous êtes l'Obsession | Valeurs inchangées ; si l'Obsession porteuse est accrochée, un autre survivant devient l'Obsession |
+| Self-Preservation | Elusive 20/25/30 s | **Nerf** : 13/14/15 s |
+| Shoulder the Burden | Exposed 60/50/40 s | Blessé + **Broken 160/140/120 s** ; désactivée ensuite pour **tous** les survivants |
+| Borrowed Time | Endurance +6/8/10 s, Haste +10 s au décroché | **Rework** : Deep Wound subi avec Endurance → soin passif (mend) en 40/35/30 s |
+| Stake Out | Jetons ; Good → Great | **Rework** : jeton après 15 s caché à ≤ 24 m du tueur ; skill checks spéciaux +4 % / −4 % ; n'active plus les autres perks de skill check |
+| Slippery Meat | +3 tentatives, +2/3/4 % | **Rework** : les alliés vous décrochent 90/95/100 % plus vite ; Haste de décrochage +5 % |
+| Down to the Last | Aura illisible selon les morts ; bonus de dernier survivant | **Rework** : jetons (crochet subi ou gen, max 6) ; portes +10 %/jeton pour les autres ; dernier survivant à ≥ 3 jetons : trappe sans clé, aura masquée |
+| Road Life | Blessé, non Broken : soin +100 % (autrui compris), usage unique | Auto-soin débloqué +100 %, jusqu'à l'arrêt + 4 s ; plus de condition Broken ; **plus de bonus sur le soin d'autrui** |
+
+Hors liste : **Head On** n'a qu'un correctif de bug au PTB (un raté contre la Nurse appliquait l'Exhausted), bug probablement encore présent en LIVE [HYPOTHÈSE].
+
+**Ce que cela changerait pour les builds** [HEURISTIQUE, à revoir à la sortie] :
+- **Chase** : la note de dev veut spécialiser Windows (fenêtres) et Five Moves Ahead (palettes). L'ancien effet de Windows se retrouverait avec Windows + Five Moves Ahead, ou avec Dark Sense. Spine Chill deviendrait une perk de saut plutôt que de vitesse d'action.
+- **SoloQ** : Kindred (14 m dès le rang I), Empathic Connection, We'll Make It et No One Left Behind gagnent de la valeur ; Self-Preservation en perd (plusieurs exemplaires faisaient revenir le tueur au crochet, selon BHVR).
+- **Anti-tunnel** : Borrowed Time ne prolongerait plus les protections du décroché ; Shoulder the Burden ne pourrait plus s'enchaîner en 4-man.
+- **Perks de totem et de coffre** (Calm Spirit, Illumination, Plunderer's Instinct, Pharmacy) passent d'un coût à un gain de vitesse.
+
+> **Erreur fréquente** : jouer aujourd'hui « comme au PTB ». Tant que 10.2.0 n'est pas LIVE, Windows montre toujours les palettes, Spine Chill accélère toujours les actions et Shoulder the Burden rend toujours Exposed.
+
+Détail : note officielle 559 (`kb/sources/patches/official_559.txt`) ; fiches p23-p30, lignes « PTB 10.2.0 ». **Piège** : pour plusieurs perks (Windows of Opportunity, Wake Up!, Do No Harm, Bound by Obsession…), la page wiki affiche déjà le texte PTB comme courant ; les valeurs LIVE de ce chapitre ont été reconstruites depuis l'historique wiki et les lignes « was … » de la note 559.
+
+---
+
