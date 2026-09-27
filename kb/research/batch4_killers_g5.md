@@ -1,5 +1,9 @@
 # Lot 4 — Fiches tueur vues du survivant, groupe 5 (tueurs 31 à 37)
 
+> **Statut : WRITTEN + AUDITED (audits adversariaux §25-26 du 27/09/2026, sans web) — voir kb/audit/pass14_lot4_g4-g6.md**
+>
+> Rappels de l'audit : toutes les consignes sont des **HEURISTIC** (option par défaut, à varier contre un tueur qui l'anticipe) ; le **pré-drop n'est pas universel** (KCH §2.2) ; **2v8 ≠ 1v4** (Good Guy : seuls les buffs 9.4.2 sont prouvés 2v8 ; sa capacité à casser les palettes en 1v4 reste UNRESOLVED) ; les lignes « Équipe » supposant des rôles demandent le vocal (SWF).
+
 Couverture web : 0 élément vérifié par recherche / 7 tueurs (toutes leurs valeurs chiffrées) non re-vérifiés (quota WebSearch épuisé). Seuls les faits [AUDIT] (historique des patchs de la phase 0) ont une confiance supérieure à UNCERTAIN.
 
 - Référence : LIVE 10.1.2a (17/09/2026) ; PTB 10.2.0 (15-21/09/2026) **non LIVE**. Mode 2v8 = jamais utilisé comme valeur 1v4.
@@ -51,7 +55,7 @@ Couverture web : 0 élément vérifié par recherche / 7 tueurs (toutes leurs va
   - Ignorer un Claw Trap (révélation).
   - Supposer « pas de TR = elle est loin » après le rappel d'un drone.
   - (HEURISTIC)
-- **Adaptations avancées** : contre un drone posé **pendant** la chase, pré-jeter la palette plus tôt, car la Haste réduit la distance (SITUATIONAL). En fin de partie, les gens à 3 défendus par des drones demandent d'être à plusieurs (HEURISTIC).
+- **Adaptations avancées** : contre un drone posé **pendant** la chase, pré-jeter la palette plus tôt, car la Haste réduit la distance (SITUATIONAL). Calcul (si Hindered 10 % [AUDIT] et Haste 5 % [SEED] s'appliquent en même temps) : toi 4,0 × 0,9 = 3,6 m/s, elle 4,6 × 1,05 = 4,83 m/s → elle reprend ≈ 1,23 m/s, **deux fois plus vite** que les 0,6 m/s habituels ; 3 m d'avance durent ≈ 2,4 s. Limite : elle n'a pas d'anti-palette dans son pouvoir, donc la casse normale (2,34 s [AUDIT]) lui coûte ; l'autre option, souvent meilleure, est de **sortir du rayon du drone** avant de jouer la palette. En fin de partie, les gens à 3 défendus par des drones demandent d'être à plusieurs (HEURISTIC).
 - **Add-ons qui changent la décision** (tous [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN]) :
   - Expired Batteries → partir du principe que tout le monde a un Claw Trap dès le départ : prioriser son retrait au lieu d'ouvrir directement un gen.
   - Iridescent Unpublished Manuscript → pirater un drone ne rend plus « safe » (Undetectable 15 s + TR sur le drone) : pirater seulement si l'on sait où elle se trouve.
@@ -82,15 +86,15 @@ Couverture web : 0 élément vérifié par recherche / 7 tueurs (toutes leurs va
 - **Tiles / structures** :
   - Favorables : tiles où l'on peut casser la LOS avec **tous** les pods voisins. Structures intérieures sans surfaces de pose visibles (HEURISTIC).
   - Défavorables : grands espaces dégagés couverts par des pods en hauteur.
-  - Fenêtres vs palettes : une palette jetée alors que tu es marqué est probablement perdue à la téléportation (seed : palettes au sol détruites [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN]).
+  - Fenêtres vs palettes : une palette jetée alors que tu es marqué **et** qu'un pod te voit est probablement perdue à la téléportation (seed : palettes au sol détruites [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN]). Sans pod en vue, ou quand il te chase en personne, la palette se joue normalement (HEURISTIC).
 - **Mindgames propres** : faux contrôle de pod (il reste immobile puis reprend la chase) ; pod en angle mort derrière le survivant (HEURISTIC).
 - **Counterplay** :
-  - Mécanique : repérer chaque pod de la zone et casser sa LOS. Tant que tu n'es pas marqué, il ne peut pas se téléporter sur toi (FACT de base du pouvoir [connaissance du modèle (antérieure à mi-2026), UNCERTAIN]).
+  - Mécanique : repérer chaque pod de la zone et casser sa LOS. Tant que tu n'es pas marqué, il ne peut pas se téléporter sur toi (principe du pouvoir selon [connaissance du modèle (antérieure à mi-2026), UNCERTAIN] — **pas un FACT** : non couvert par l'audit, qui signale au contraire des erreurs du seed sur ce tueur).
   - Positionnel : quand il entre dans un pod, gagner de la distance ou couvrir la LOS au lieu de rester dans la boucle (HEURISTIC).
-  - Macro : ramasser un EMP tôt et garder un porteur par zone de chase (HEURISTIC). Ne pas se grouper (propagation 6 m [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN]).
+  - Macro : ramasser un EMP tôt et garder un porteur par zone de chase (HEURISTIC ; « un porteur par zone » suppose le vocal — en SoloQ, prendre un EMP si tu n'en vois pas chez les autres et le garder pour un Slipstream ou un groupe de pods réel). Ne pas se grouper (propagation 6 m [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN]).
   - Équipe : l'EMP d'un coéquipier peut « nettoyer » un groupe de pods sur les gens (HEURISTIC).
 - **Habitudes punissables / erreurs classiques** :
-  - Jeter la palette en étant marqué.
+  - Jeter la palette en étant marqué alors qu'un pod te voit et qu'il peut y entrer.
   - Réparer à plusieurs dans la vue d'un pod.
   - Utiliser l'EMP trop tôt, sans pods ni Slipstream à nettoyer.
   - (HEURISTIC)
@@ -124,7 +128,7 @@ Couverture web : 0 élément vérifié par recherche / 7 tueurs (toutes leurs va
 - **Counterplay** :
   - Mécanique : lire le début de l'animation de la queue et esquiver **latéralement**, pas en ligne droite (HEURISTIC). Une queue ratée donne de la distance ([connaissance du modèle (antérieure à mi-2026), UNCERTAIN], durée de cooldown non vérifiée).
   - Positionnel : amener la chase vers une tourelle posée. Poser les tourelles **avant** la chase sur les tiles forts et sur les gens (HEURISTIC).
-  - Macro : une fois hors Crawler Mode, il est un M1 simple jusqu'à la recharge. C'est la fenêtre pour tenir le tile et avancer les gens (HEURISTIC).
+  - Macro : une fois hors Crawler Mode (sorti par une tourelle, par exemple), il est un M1 simple jusqu'à la recharge ([connaissance du modèle (antérieure à mi-2026), UNCERTAIN] ; durée de recharge non vérifiée, réduite par Ovomorph selon le seed). C'est la fenêtre pour tenir le tile et avancer les gens (HEURISTIC) — sans connaître la durée, ne pas « greeder » la tile au-delà d'une ou deux boucles.
   - Équipe : poser les tourelles de façon à couvrir hooks et gens. Les remplacer après destruction (HEURISTIC).
 - **Habitudes punissables / erreurs classiques** :
   - Tenir une palette basse contre la queue.
@@ -146,7 +150,7 @@ Couverture web : 0 élément vérifié par recherche / 7 tueurs (toutes leurs va
 - **Données LIVE** :
   - Vitesse 4,4 m/s (110 %) [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN ; concordant avec connaissance du modèle]. TR 32 m [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN]. Taille petite [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN ; concordant avec connaissance du modèle].
   - Hidey-Ho 14 s, cooldown 12 s [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN]. Slice & Dice 8 m/s pendant 1,8 s [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN]. Scamper 1 s [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN].
-  - « Scamper casse la palette » : **2v8 uniquement selon l'audit** ; comportement 1v4 non vérifié.
+  - « Scamper casse la palette » : **UNRESOLVED en 1v4**. L'audit prouve seulement que les **buffs 9.4.2** étaient propres au 2v8 (le seed a donc tort de les dater et de les présenter comme 1v4). Il ne dit pas que la casse est « 2v8 uniquement » : sa liste wiki.gg Pallets ([AUDIT] STRONG_SECONDARY, « liste à reconfirmer », mode non précisé) cite au contraire le Good Guy parmi les pouvoirs qui détruisent les palettes. → Ne pas enseigner la casse 1v4 comme un fait, **ni** supposer qu'il ne peut pas casser (erreur inverse).
 - **Identification** :
   - Avant le reveal : pas de TR, faux pas (Illusory Footfalls) autour de toi pendant Hidey-Ho [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN ; concordant avec connaissance du modèle]. Petite silhouette difficile à voir derrière le décor.
   - Pouvoir en action : un dash rapide suivi d'une attaque. Passage sous une palette ou par une fenêtre en fin de dash [connaissance du modèle (antérieure à mi-2026), UNCERTAIN].
@@ -155,13 +159,13 @@ Couverture web : 0 élément vérifié par recherche / 7 tueurs (toutes leurs va
 - **Tiles / structures** :
   - Favorables : tiles avec obstacles hauts et angles serrés, qui limitent la rotation du dash. Hauteur et longues LOS pour le voir venir malgré sa taille (HEURISTIC).
   - Défavorables : grandes lignes droites, où le dash comble l'écart (HEURISTIC).
-  - Fenêtres vs palettes : le Scamper traverse les deux. Ne pas s'arrêter juste derrière une palette : garder du mouvement (HEURISTIC).
+  - Fenêtres vs palettes : le Scamper traverse les deux ([CM] UNCERTAIN). Ne pas s'arrêter juste derrière une palette : garder du mouvement (HEURISTIC). Ce conseil reste valable que le Scamper casse ou non la palette en 1v4 (UNRESOLVED) : ne jamais tenir une palette « safe » contre lui en supposant qu'elle ne sera ni franchie ni cassée.
 - **Mindgames propres** : dash annulé ou retardé, Hidey-Ho pour disparaître, puis retour en angle mort (HEURISTIC).
 - **Counterplay** :
   - Mécanique : esquive latérale tardive au moment du dash (rotation limitée, [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN]). Pas de virage anticipé qu'il pourrait suivre (HEURISTIC).
-  - Positionnel : jouer autour d'objets hauts. À 110 %, un « hold W » perd moins vite qu'à 115 % : la distance brute a plus de valeur (HEURISTIC).
+  - Positionnel : jouer autour d'objets hauts. À 110 % ([SEED] + [CM], UNCERTAIN), un « hold W » perd moins vite qu'à 115 % (il reprend 0,4 m/s au lieu de 0,6 : 10 m en 25 s au lieu de 16,7 s) — HEURISTIC. **Mais** le dash change le calcul : à 8 m/s pendant 1,8 s [SEED] il parcourt ≈ 14,4 m pendant que tu en fais 7,2 → chaque dash reprend ≈ 7 m d'un coup. La distance brute n'a donc de valeur que si elle dépasse nettement cette portée **et** qu'un obstacle permet de dévier le dash ; en ligne droite dégagée, elle ne protège pas (cohérent avec « Défavorables » ci-dessus).
   - Macro : regarder régulièrement autour de soi quand il n'y a pas de TR. Les faux pas sont des indices peu fiables (HEURISTIC).
-  - Équipe : annoncer sa position dès qu'il sort de Hidey-Ho (HEURISTIC).
+  - Équipe : annoncer sa position dès qu'il sort de Hidey-Ho (HEURISTIC ; SWF seulement — en SoloQ, se fier à ses propres checks et aux auras de perks).
 - **Habitudes punissables / erreurs classiques** :
   - Rester immobile derrière une palette abaissée en supposant qu'elle protège.
   - Courir en ligne droite dans un espace ouvert.
@@ -173,7 +177,7 @@ Couverture web : 0 élément vérifié par recherche / 7 tueurs (toutes leurs va
   - Portable TV (dash à 170 % de durée après l'alimentation des portes) → en endgame, éviter les lignes droites vers les portes. Ouvrir en équipe.
 - **Implications de carte** : maps encombrées (hautes herbes, décor) → sa petite taille l'avantage. Maps ouvertes → le survivant le voit venir (HEURISTIC).
 - **Perks fréquentes / synergies** : Pain Resonance, Friends 'til the End, Grim Embrace, Lethal Pursuer [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN]. Ses enseignables : Hex: Two Can Play (aveuglé après un stun ou une lampe → chercher le totem), Friends 'til the End (Obsession Exposed), Batteries Included (Haste près d'un gen terminé) (valeurs [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN]).
-- **Écart avec le seed** : Scamper qui casse la palette et « jouez le tile, pas la palette » : **2v8 cité comme 1v4 (FAUX en contexte 1v4 selon l'audit)**. « Très buffé début 2026 » : **IMPRÉCIS** (buffs 2v8). Tier A- : HEURISTIC non vérifiable.
+- **Écart avec le seed** : Scamper qui casse la palette « depuis 9.4.2 » présenté comme 1v4 : **FAUX sur la datation / le mode des buffs** (9.4.2 = 2v8, [AUDIT]) ; la capacité de casse en 1v4 elle-même reste **UNRESOLVED** (la liste Pallets de l'audit le cite). Le conseil du seed « jouez le tile, pas la palette » reste prudent dans les deux cas. « Très buffé début 2026 » : **IMPRÉCIS** (buffs 2v8). Tier A- : HEURISTIC non vérifiable.
 - **Sources** : [1] [2] [3]
 
 ## 35. The Unknown — archétype(s) : ranged (UVX) | furtif/mobilité (hallucinations, téléportation)
@@ -195,7 +199,7 @@ Couverture web : 0 élément vérifié par recherche / 7 tueurs (toutes leurs va
 - **Mindgames propres** : leurre laissé par la téléportation (5 s [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN]). Tir retardé pour attraper le changement de direction (HEURISTIC).
 - **Counterplay** :
   - Mécanique : bouger latéralement au moment où il relâche la charge. Ne pas s'arrêter dans une zone d'impact (HEURISTIC).
-  - Positionnel : soigner le Weakened quand on est hors de danger, en le regardant de loin (mécanique [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN]).
+  - Positionnel : se débarrasser du Weakened quand on est hors de danger, en le regardant de loin **mais à moins de 25 m** (10 s cumulées selon le seed ; au-delà de 25 m le regard ne compte pas) (mécanique [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN]). Compromis : le plus loin possible sous cette limite, avec un obstacle proche pour couper sa LOS s'il charge un tir (HEURISTIC).
   - Macro : dissiper les hallucinations proches des gens **quand il est loin** (un échec rend Weakened [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN]).
   - Équipe : ne pas être plusieurs dans la même zone d'explosion (HEURISTIC).
 - **Habitudes punissables / erreurs classiques** :
@@ -208,18 +212,19 @@ Couverture web : 0 élément vérifié par recherche / 7 tueurs (toutes leurs va
   - Slashed Backpack (une hallucination touchée explose) → ne plus dissiper un leurre sans être sain et sans le tueur loin.
   - Iridescent OSS Report (téléportation −5 s, leurres plus longs avec TR) → un TR près d'un leurre peut être faux : vérifier visuellement avant de fuir.
 - **Implications de carte** : intérieurs à plafond bas → moins de tirs en cloche ([connaissance du modèle (antérieure à mi-2026), UNCERTAIN], non vérifié). Maps ouvertes → portée maximale (HEURISTIC).
-- **Perks fréquentes / synergies** : Pain Resonance, Unforeseen, Pop, Lethal Pursuer [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN]. Ses enseignables : Unbound (Haste au vault après un stun ou une blessure), Unforeseen (TR transféré sur le gen + Undetectable → un TR soudain sur un gen frappé n'est pas le tueur), Undone (régression par token) (valeurs [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN]).
+- **Perks fréquentes / synergies** : Pain Resonance, Unforeseen, Pop, Lethal Pursuer [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN]. Ses enseignables : Unbound (Haste au vault après un stun ou une blessure), Unforeseen (TR transféré sur le gen + Undetectable → un TR soudain sur un gen frappé n'est pas le tueur), Undone (régression par token) (valeurs [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN]). ⚠ Unbound et Undone : les valeurs du seed ch8 ressemblent à la liste PTB 10.2.0 (CONFLICT-K96-01, SUSPECT PTB-comme-LIVE) et Undone est **retravaillée au PTB 10.2.0** [AUDIT] → ne retenir que le principe.
 - **Écart avec le seed** : cooldown de l'UVX 6,25 s attribué à 9.6.0 : **NON VÉRIFIABLE** (l'audit confirme seulement un buff en 9.6.0). NightLight 49,9 % : **NON VÉRIFIABLE**. Stat BHVR avril 2024 (64 % de kill au premier mois) : HISTORICAL [AUDIT].
 - **Sources** : [1] [2]
 
 ## 36. The Lich (Vecna) — archétype(s) : mobilité (Fly) | anti-loop (Mage Hand) | info (Dispelling Sphere, objets)
-- **Version** : **9.0.0** (26/06/2025), tous les sorts sont disponibles dès le début [AUDIT]. Aucun autre changement relevé jusqu'à 10.1.2a. Kill rate élevé « all MMR » selon BHVR, publication du 27/03/2026, noms seulement [AUDIT].
+- **Version** : **9.0.0** (17/06/2025 selon le registre de l'audit), tous les sorts sont disponibles dès le début [AUDIT]. Aucun autre changement relevé jusqu'à 10.1.2a. Kill rate mis en avant sur la population « broad » (toutes tranches confondues) selon BHVR, publication du 27/03/2026 (KB 540), noms seulement, sans chiffre [AUDIT].
 - **Données LIVE** :
   - Vitesse 4,6 m/s, TR 32 m [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN].
   - Fly : 8 m/s, 5 s max, cooldown 20 s, recovery 2,75 s [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN].
   - Flight of the Damned : cooldown 30 s, 5 entités, 22 m [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN].
   - Dispelling Sphere : cooldown 30 s ; désactive les objets magiques 45 s [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN].
-  - Mage Hand : cooldown 35 s ; bloque une palette debout 4 s [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN].
+  - Mage Hand : cooldown 35 s ; bloque une palette debout 4 s [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN]. Peut aussi **relever** une palette déjà tombée ([connaissance du modèle (antérieure à mi-2026), UNCERTAIN], cf. « palette qui se relève » en Identification).
+  - **Mage Hand + Vorpal Sword** : destruction **instantanée** de palette, listée par l'audit (wiki.gg Pallets, [AUDIT] STRONG_SECONDARY, « liste à reconfirmer »). Le seed ne le mentionne pas.
   - Objets magiques dans les coffres (6 coffres [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN]).
 - **Identification** :
   - Avant le reveal : coffres à objets magiques et objets magiques ramassables [connaissance du modèle (antérieure à mi-2026), UNCERTAIN]. Leur présence identifie le tueur dès le début.
@@ -232,10 +237,10 @@ Couverture web : 0 élément vérifié par recherche / 7 tueurs (toutes leurs va
   - Fenêtres vs palettes : après un Mage Hand, la fenêtre devient la ressource sûre (HEURISTIC).
 - **Mindgames propres** : Mage Hand gardé en réserve pendant que le survivant hésite à jeter. Fly utilisé comme feinte de direction (HEURISTIC).
 - **Counterplay** :
-  - Mécanique : **s'accroupir** face à Flight of the Damned sur terrain plat ([seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN], [connaissance du modèle (antérieure à mi-2026), UNCERTAIN] concordant). Jeter la palette **plus tôt** quand Mage Hand est disponible (HEURISTIC).
+  - Mécanique : **s'accroupir** face à Flight of the Damned sur terrain plat ([seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN], [connaissance du modèle (antérieure à mi-2026), UNCERTAIN] concordant). Jeter la palette **plus tôt** quand Mage Hand est disponible **puis partir immédiatement** vers la tile suivante (HEURISTIC). Pourquoi « partir » : la palette n'est pas un investissement qui lui coûte — la combinaison Mage Hand + Vorpal Sword la détruit instantanément [AUDIT SS], et Mage Hand pourrait la relever [CM] ; le pré-drop sert à éviter le coup du blocage, pas à tenir la palette (KCH §2.2 b). Limites : Mage Hand en cooldown (35 s [SEED]) → drop normal ; contre un Lich qui garde Mage Hand et attend ton pré-drop, varier (départ sans drop, fenêtre alternative).
   - Positionnel : pendant la recovery de Fly (2,75 s [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN]), prendre de la distance vers un autre tile.
   - Macro : suivre les cooldowns. Hors sorts, c'est un M1 standard (le seed le dit ; les valeurs des cooldowns ne sont pas vérifiées).
-  - Équipe : partager les objets magiques utiles. Savoir qu'ouvrir un coffre peut révéler (Killer Instinct [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN]).
+  - Équipe : partager les objets magiques utiles (SWF ; en SoloQ, ne ramasser que ce qui sert à sa propre situation). Savoir qu'ouvrir un coffre peut révéler (Killer Instinct [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN]).
 - **Habitudes punissables / erreurs classiques** :
   - Attendre à la palette jusqu'au dernier moment.
   - Courir debout dans un couloir face aux entités.
@@ -246,8 +251,8 @@ Couverture web : 0 élément vérifié par recherche / 7 tueurs (toutes leurs va
   - Iridescent Book of Vile Darkness (Flight touche les survivants accroupis ; Fly bloque les fenêtres 45 s) → ne plus crouch contre les entités, se mettre derrière un obstacle. Ne pas compter sur la fenêtre survolée.
   - Ring of Spell Storing / Pearl of Power (cooldowns réduits) → sorts plus fréquents : réduire le greed de palette.
 - **Implications de carte** : maps ouvertes → Fly et Flight of the Damned plus forts. Terrain en pente → le crouch ne protège peut-être pas (le seed précise « terrain plat ») (HEURISTIC).
-- **Perks fréquentes / synergies** : Pain Resonance, Surge, Dead Man's Switch, Barbecue & Chilli [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN]. Ses enseignables : Dark Arrogance (vault et recovery plus rapides, mais stuns plus longs → un stun de palette rapporte plus de distance), Languid Touch (Exhausted si des corbeaux s'envolent près de toi → marcher autour des corbeaux), Weave Attunement (objets au sol + auras) (valeurs [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN]).
-- **Écart avec le seed** : « sorts dès le début (9.0.0) » : **OK** [AUDIT]. « N°1 tous MMR » : **OK en substance** (BHVR cite le Lich pour le kill rate « broad », [AUDIT]). Top 5 MMR élevé et NightLight 50,1 % : **NON VÉRIFIABLE**.
+- **Perks fréquentes / synergies** : Pain Resonance, Surge, Dead Man's Switch, Barbecue & Chilli [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN]. Ses enseignables : Dark Arrogance (vault et recovery plus rapides, mais stuns plus longs → un stun de palette rapporte plus de distance ; ⚠ valeurs du seed ch8 SUSPECTES PTB-comme-LIVE, CONFLICT-K96-01), Languid Touch (Exhausted si des corbeaux s'envolent près de toi → marcher autour des corbeaux), Weave Attunement (objets au sol + auras) (valeurs [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN]).
+- **Écart avec le seed** : « sorts dès le début (9.0.0) » : **OK** [AUDIT]. Destruction instantanée de palette par Mage Hand + Vorpal Sword : **omise** par le seed (IMPRÉCIS, liste Pallets de l'audit, à reconfirmer). « N°1 tous MMR » : **OK en substance** (BHVR cite le Lich pour le kill rate « broad », [AUDIT]). Top 5 MMR élevé et NightLight 50,1 % : **NON VÉRIFIABLE**.
 - **Sources** : [1] [2]
 
 ## 37. The Dark Lord (Dracula) — archétype(s) : mobilité (chauve-souris) | ranged/zone (Hellfire) | anti-loop (loup)
@@ -265,14 +270,14 @@ Couverture web : 0 élément vérifié par recherche / 7 tueurs (toutes leurs va
 - **Ce qu'il cherche en chase** : piliers d'Hellfire pour bloquer une sortie de boucle ou une fenêtre. Pounce du loup sur une palette. Arrivée en chauve-souris directement sur le tile (HEURISTIC).
 - **Tiles / structures** :
   - Favorables : tiles longs à plusieurs palettes (seed). Obstacles qui cassent la ligne droite de l'Hellfire (HEURISTIC).
-  - Défavorables : couloirs droits (Hellfire). Palettes isolées (loup).
+  - Défavorables : couloirs droits (Hellfire). Palettes isolées (loup). Contre le loup, le **pré-drop est contre-productif** : son pouvoir casse la palette sans coût connu ([AUDIT] SS, à reconfirmer), comme le Shred du Demogorgon (KCH §2.2) → préférer une fenêtre ou une tile sans palette unique ; contre le vampire, la palette redevient une ressource normale (HEURISTIC).
   - Fenêtres vs palettes : les palettes et fenêtres servent de **points de téléportation** à la chauve-souris ([seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN]) : un tile dense en ressources lui sert aussi.
 - **Mindgames propres** : changements de forme successifs (le cooldown de 3,5 s [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN] limite l'enchaînement). Hellfire en pré-placement sur la sortie (HEURISTIC).
 - **Counterplay** :
   - Mécanique : esquive **latérale** de l'Hellfire (ligne droite) ; ne pas rester dans l'axe (HEURISTIC).
   - Positionnel : pendant la forme chauve-souris (pas d'attaque [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN ; concordant avec connaissance du modèle]), se repositionner ; anticiper l'arrivée sur la palette ou la fenêtre la plus proche.
   - Macro : ne pas laisser une traînée de Scent Orbs en ligne droite (seed). Casser le chemin (HEURISTIC).
-  - Équipe : annoncer la forme actuelle (HEURISTIC).
+  - Équipe : annoncer la forme actuelle (HEURISTIC ; SWF — en SoloQ, la berceuse de chauve-souris et les Scent Orbs sont les seuls signaux partagés).
 - **Habitudes punissables / erreurs classiques** :
   - Rester dans l'axe d'un vampire qui charge.
   - Tenir une palette seule contre le loup.
@@ -299,6 +304,8 @@ Couverture web : 0 élément vérifié par recherche / 7 tueurs (toutes leurs va
 | L4G5-03 | Skull Merchant : pas de rework en 9.x | [1] | 9.x | VERIFIED selon l'audit |
 | L4G5-04 | Skull Merchant TR 24 m | [2] seed | ? | UNCERTAIN (32 m [connaissance du modèle (antérieure à mi-2026), UNCERTAIN]) |
 | L4G5-05 | Good Guy : buffs 9.4.2 = 2v8 uniquement | [1] [3] | 9.4.2 | VERIFIED selon l'audit |
+| L4G5-05b | Good Guy cité parmi les pouvoirs qui détruisent les palettes (mode non précisé) | [1] (wiki.gg Pallets) | — | STRONG_SECONDARY, « liste à reconfirmer » ; capacité 1v4 UNRESOLVED |
+| L4G5-09b | Lich : Mage Hand + Vorpal Sword détruit une palette instantanément | [1] (wiki.gg Pallets) | — | STRONG_SECONDARY, « liste à reconfirmer » |
 | L4G5-06 | Good Guy 4,4 m/s | [2] + [connaissance du modèle (antérieure à mi-2026), UNCERTAIN] | — | UNCERTAIN |
 | L4G5-07 | Unknown buffé | [1] | 9.6.0 | VERIFIED selon l'audit (sans détail) |
 | L4G5-08 | Unknown : cooldown de l'UVX 6,25 s | [2] | 9.6.0 ? | UNCERTAIN |
@@ -324,8 +331,9 @@ Couverture web : 0 élément vérifié par recherche / 7 tueurs (toutes leurs va
 #### CONFLICT-L4G5-03 : Scamper de Good Guy qui casse les palettes en 1v4
 - Source A : seed, « depuis 9.4.2 », présenté comme 1v4.
 - Source B : audit phase 0, changements 9.4.2 propres au 2v8.
-- Hypothèse : le seed a mélangé 2v8 et 1v4.
-- Résolution : l'audit prime (preuve antérieure). Le comportement 1v4 exact reste à confirmer.
+- Source C : audit phase 0, table Palettes (wiki.gg Pallets, STRONG_SECONDARY, « liste à reconfirmer ») : le Good Guy figure parmi les destructions de palette par pouvoir, sans mode précisé.
+- Hypothèse : le seed a mélangé 2v8 et 1v4 pour la datation des buffs ; la capacité de casse elle-même existe peut-être aussi en 1v4.
+- Résolution : **partielle**. Prouvé : les buffs 9.4.2 sont propres au 2v8 (A vs B). **UNRESOLVED** : le Scamper casse-t-il les palettes en 1v4 en 10.1.2a (B vs C) ? Ne pas conclure « ne casse pas en 1v4 ».
 
 ## Écarts avec le guide seed
 
@@ -337,8 +345,8 @@ Couverture web : 0 élément vérifié par recherche / 7 tueurs (toutes leurs va
 | Skull Merchant, rework 2027 | confirmé | non | NON VÉRIFIABLE |
 | Singularity, Overclock/Overheat, EMP | valeurs détaillées | non ; zone d'erreur signalée par l'audit | NON VÉRIFIABLE (suspect) |
 | Xenomorph TR en Crawler | 24 m | non | NON VÉRIFIABLE |
-| Good Guy, Scamper qui casse la palette + counterplay associé | 1v4 depuis 9.4.2 | 2v8 [AUDIT] | FAUX (2v8 présenté comme 1v4) |
-| Good Guy « très buffé début 2026 » | oui | buffs 2v8 | IMPRÉCIS |
+| Good Guy, Scamper qui casse la palette + counterplay associé | 1v4 depuis 9.4.2 | buffs 9.4.2 = 2v8 [AUDIT] ; casse citée dans la liste Pallets (SS) | FAUX sur la datation/le mode des buffs ; capacité 1v4 UNRESOLVED |
+| Lich, casse de palette | non mentionnée | Mage Hand + Vorpal Sword = destruction instantanée (liste Pallets, SS) | IMPRÉCIS (omission) || Good Guy « très buffé début 2026 » | oui | buffs 2v8 | IMPRÉCIS |
 | Unknown UVX 6,25 s (9.6.0) | oui | buff 9.6.0 confirmé, valeur non | NON VÉRIFIABLE |
 | Lich, sorts dès le début (9.0.0) | oui | [AUDIT] | OK |
 | Lich n°1 tous MMR (BHVR) | oui | [AUDIT] | OK (noms seulement, sans chiffres) |

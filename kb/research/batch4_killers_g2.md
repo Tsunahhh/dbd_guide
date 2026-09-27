@@ -1,5 +1,7 @@
 # Lot 4 — Fiches TUEUR vues du SURVIVANT, groupe 2 (tueurs 8 à 15)
 
+> **Statut : WRITTEN + AUDITED (audits adversariaux §25-26 du 27/09/2026, sans web) — voir kb/audit/pass14_lot4_g1-g3.md**
+
 Couverture web : 0 éléments vérifiés par recherche / 8 tueurs (toutes les valeurs de pouvoir, d'add-ons et de perks) non re-vérifiés (quota WebSearch épuisé, 200/200). Seules données vérifiées : celles reprises de l'audit phase 0 [2].
 
 - Périmètre : The Huntress, The Cannibal, The Nightmare, The Pig, The Clown, The Spirit, The Legion, The Plague (seed `kb/seed/ch8_killers.txt` l. 547-844).
@@ -10,15 +12,24 @@ Couverture web : 0 éléments vérifiés par recherche / 8 tueurs (toutes les va
 > - Sources réellement utilisées : le seed ([1]), l'audit phase 0 ([2], seules données vérifiées de ce fichier) et la **mémoire du modèle** (connaissance du modèle, antérieure à mi-2026, non vérifiée cette session).
 > - **Valeur du seed sans autre source = « seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) », confiance UNCERTAIN.** Cela couvre toutes les mentions « seed : … », « valeurs du seed », « non vérifié(e) » et « NON VÉRIFIABLE » ci-dessous.
 > - Étiquette de confiance propre à ce fichier : **UNCERTAIN-MM** = « connaissance du modèle (antérieure à mi-2026), UNCERTAIN » = valeur ou mécanique tirée de la mémoire du modèle. Au mieux UNCERTAIN au sens du brief. **Ne jamais la promouvoir en LIVE sans vérification.** Beaucoup de ces tueurs ont reçu des changements 2025-2026 (Freddy 8.5.0, Clown/Pig 9.1.0, Cannibal 9.6.0, selon [2]) dont **le contenu chiffré n'a pas pu être lu**.
-> - Les conseils de counterplay sont des **HEURISTIC** ou des **EXPERT OPINION non sourcées** (consensus communautaire tel que le modèle le connaît), sans URL.
+> - Les conseils de counterplay sont des **HEURISTIC** (consensus communautaire tel que le modèle le connaît, sans URL). **Audit P14** : les anciennes étiquettes « EXPERT OPINION (non sourcée) » ont été **requalifiées en HEURISTIC** : au sens de la mission (§41), une EXPERT OPINION est la conclusion d'un expert identifiable, et aucun guide expert n'a été lu.
 > - Le lot est **à relancer en vérification** quand le budget WebSearch sera rétabli (liste précise dans « Questions ouvertes »).
 
-Légende : FACT (mécanique de base, sûre à la connaissance du modèle, mais tout de même UNCERTAIN-MM) · HEURISTIC · EXPERT OPINION · SITUATIONAL.
+Légende (révisée P14) : **FACT [AUDIT]** = mécanique vérifiée dans l'audit phase 0 [2] · **FACT de principe [UNCERTAIN-MM]** = mécanique de base connue du modèle, non vérifiée cette session (ce n'est pas un FACT au sens de §41 : ne pas la citer comme vérifiée ; toutes les anciennes mentions « (FACT) » sans source de ce fichier sont à lire ainsi) · HEURISTIC · SITUATIONAL · HYPOTHESIS. « Confiance forte » = jugement subjectif du modèle, toujours UNCERTAIN-MM.
 
 Éléments système utiles pour tous (VERIFIED dans [2]) :
 - Protections d'unhook LIVE 10.1.0 : Endurance + 10 % Haste pendant 10 s, + Elusive 10 s (sans effet une fois les gens alimentés) [2].
 - Anti-facecamp : zone 16 m, grâce de 7 s, multiplicateur 1×/2×/4× (9.3.0) [2].
-- Diminishing Returns 9.6.0 : les modificateurs identiques issus de Powers/Items/Perks/Offerings se réduisent (100/50/25/12,5/5 %) ; les add-ons sont exclus [2]. Conséquence probable (HYPOTHESIS) : un Hindered de pouvoir (Clown, Freddy) cumulé à un Hindered de perk est atténué. Liste exacte des modificateurs concernés non consultée [2].
+- Diminishing Returns 9.6.0 : les modificateurs identiques issus de Powers/Items/Perks/Offerings se réduisent (100/50/25/12,5/5 %) ; les add-ons sont exclus [2]. Conséquence probable (HYPOTHESIS) : un Hindered de pouvoir (Clown, Freddy) cumulé à un Hindered de perk est atténué. Liste exacte des modificateurs concernés : publiée dans le **manuel du jeu (9.6.1)**, non consulté [2] (correction P14 : elle existe, elle n'a simplement pas été lue).
+- Règle d'origine du TR (FACT [AUDIT], STRONG_SECONDARY) : **32 m pour les tueurs à 4,6 m/s, 24 m pour ceux à 4,4 m/s**, avec de nombreuses exceptions [2]. Indice, pas preuve par tueur : elle soutient la valeur de la mémoire pour la Pig (32 m) et pour la Spirit (24 m) ; la Huntress (20 m) est une exception.
+- Endurance, Elusive, Deep Wound (FACT [AUDIT]) : l'Endurance est annulée par une action voyante et ne protège pas sous Deep Wound ; l'Elusive supprime griffures, grognements et flaques de sang ; Deep Wound = minuteur de 20 s **en pause en courant ou pendant le mending**, mending 10 s seul / 6 s par un allié, un dégât sous Deep Wound = état mourant [2].
+
+Règles d'usage ajoutées par l'audit P14 :
+- **Options par défaut, pas règles (§26)** : chaque « Counterplay » décrit l'option par défaut contre un joueur qui utilise normalement son pouvoir. Un tueur expérimenté anticipe (Huntress qui tient la charge, Spirit qui attend immobile, Cannibal qui tap-rev pour obtenir le pré-drop) : s'il exploite ta réponse habituelle, **varier**.
+- **SoloQ / SWF (§25)** : les consignes « annoncer les boîtes fouillées » (Pig), « se réveiller mutuellement » (Nightmare), « purifier au bon moment » (Plague) supposent la communication. En **SoloQ**, se fier au HUD (état des coéquipiers, piège sur la tête, infection) et aux signaux visibles ; en **SWF**, annoncer.
+- **LIVE / PTB (§25)** : perks citées et modifiées au **PTB 10.2.0** (non LIVE, `deliverables/PERK_DATABASE.md` §1.4) : Spine Chill (rework, vérifié en résumé) ; Knock Out et Fire Up (annoncées par le seed seulement). Garder les valeurs LIVE 10.1.2a jusqu'à la sortie.
+- **Cartes** : les « Implications de carte » ne tiennent pas compte des changements de palettes 9.2.0 / 9.3.0 / 9.3.2 [2] (HEURISTIC, lots 7-8).
+- **DRILL** : utiliser DR-15 « Counterplay d'un tueur » (`kb/research/batch11_training.md` §3).
 
 ---
 
@@ -26,63 +37,63 @@ Légende : FACT (mécanique de base, sûre à la connaissance du modèle, mais t
 - **Version** : aucun rework 2025-2026 trouvé dans l'historique de [2] (9.0.0 → 10.1.2a) ; aucune recherche possible pour d'éventuels ajustements mineurs → statut LIVE présumé, UNCERTAIN.
 - **Données LIVE** (toutes UNCERTAIN-MM sauf mention) :
   - Vitesse 4,4 m/s (confiance forte) ; TR 20 m (forte), remplacé par une **berceuse** (lullaby) audible au-delà du TR (portée exacte non vérifiée ; seed : 45 m) ; grande taille (forte).
-  - **5 hachettes** de base (confiance forte). Le seed dit 7 : erreur déjà relevée par l'audit [2] (« Huntress "7 hachettes" »). Add-ons de capacité en plus (+1/+2, noms et valeurs non vérifiés).
+  - **5 hachettes** de base : **UNCERTAIN-MM** (corrigé P14, était « confiance forte »). Le seed dit 7 : erreur relevée par l'audit [2] (« Huntress "7 hachettes" »), **mais l'audit ne donne pas la bonne valeur** : « 7 = FAUX » est prouvé, « 5 » vient de la mémoire du modèle. Add-ons de capacité en plus (+1/+2, noms et valeurs non vérifiés).
   - Recharge au **casier** (entrée dans le casier, animation de plusieurs secondes, durée non vérifiée).
-  - Ralentie pendant l'armement (seed 3,08 m/s : non vérifié). Hachette plus rapide et plus loin si chargée plus longtemps, trajectoire en cloche (FACT, valeurs non vérifiées).
+  - Ralentie pendant l'armement (seed 3,08 m/s : non vérifié). Hachette plus rapide et plus loin si chargée plus longtemps, trajectoire en cloche (FACT de principe [UNCERTAIN-MM], valeurs non vérifiées).
 - **Identification** :
-  - Avant le reveal : **berceuse fredonnée au lieu du battement de cœur** (FACT, identification quasi certaine). TR très court : elle arrive « de nulle part » quand la berceuse monte. Bruit de porte de casier quand elle recharge.
+  - Avant le reveal : **berceuse fredonnée au lieu du battement de cœur** (FACT de principe [UNCERTAIN-MM]). Identification **forte mais pas certaine** (P14) : d'autres tueurs ont une berceuse (le handbook cite Dark Lord et Houndmaster) ; confirmer à la silhouette ou au premier lancer. Les berceuses ne sont pas coupées par Undetectable (FACT [AUDIT], SS). TR très court : elle arrive « de nulle part » quand la berceuse monte. Bruit de porte de casier quand elle recharge.
   - Pouvoir en action : grognement ou souffle d'armement, sifflement de la hachette, hachettes plantées au sol ou dans le décor.
-  - Add-ons observables : plus de 5 lancers sans recharge = add-on de capacité ; une hachette qui met à terre d'un coup = Iridescent Head (probable).
+  - Add-ons observables : plus de 5 lancers sans recharge = add-on de capacité **ou** base différente de 5 (valeur UNCERTAIN-MM) ; une hachette qui met à terre d'un coup = Iridescent Head (probable).
   - Stratégie probable : snipes sur soins ou unhooks à découvert, chases courtes en terrain ouvert, pression à distance (HEURISTIC).
 - **Ce qu'il cherche en chase** : zones ouvertes, boucles basses (rochers bas, palettes filler), vaults prévisibles (point d'atterrissage connu), fin de boucle en ligne droite, survivant blessé qui court en ligne droite (HEURISTIC).
 - **Tiles / structures** :
-  - Favorables au survivant : murs hauts qui coupent la LOS (jungle gym, shack, main buildings, intérieurs) ; cartes intérieures ou encombrées (EXPERT OPINION).
+  - Favorables au survivant : murs hauts qui coupent la LOS (jungle gym, shack, main buildings, intérieurs) ; cartes intérieures ou encombrées (HEURISTIC).
   - Défavorables : open areas, fillers bas, champs de maïs : le maïs cache la vue mais **ne bloque pas** les hachettes (UNCERTAIN-MM).
-  - Fenêtres vs palettes : un vault de fenêtre donne un point d'atterrissage prévisible, donc ne pas vaulter si elle a une hachette armée et une LOS (HEURISTIC). Une palette basse ne bloque pas une hachette lancée par-dessus (FACT probable).
+  - Fenêtres vs palettes : un vault de fenêtre donne un point d'atterrissage prévisible, donc éviter de vaulter si elle a une hachette armée et une LOS **sur la réception** ; le vault reste possible si la réception est cachée par un mur ou si c'est la seule sortie (HEURISTIC, cohérent avec `batch11_training.md` T-Q01 cas 4). Une palette basse ne bloquerait pas une hachette lancée par-dessus : **UNCERTAIN-MM** (requalifié P14, était « FACT probable »).
   - Verticalité : elle snipe depuis les étages et les collines ; au sol sous elle, la LOS est coupée (SITUATIONAL).
 - **Mindgames propres** : fausse charge (armer puis annuler) pour provoquer un zigzag ; tenir la charge en marchant pour forcer un changement de direction ; lancer « au bout de la boucle » (HEURISTIC).
 - **Counterplay** :
-  - Mécanique : changer de direction **au moment du lâcher**, pas pendant tout l'armement (EXPERT OPINION) ; rester collé aux murs hauts ; casser la LOS plutôt que tenter une esquive en plein champ.
-  - Distance : à très courte portée elle joue au M1 ; la zone la plus dangereuse est la distance moyenne en terrain ouvert (EXPERT OPINION, non sourcée).
+  - Mécanique : changer de direction **au moment du lâcher**, pas pendant tout l'armement (HEURISTIC) ; rester collé aux murs hauts ; casser la LOS plutôt que tenter une esquive en plein champ. Limite (§26 P14) : une Huntress expérimentée **tient la charge** et attend ton changement de direction pour lancer ; si elle le fait, varier le moment (feinte de virage, ligne droite courte vers un mur) plutôt que tourner toujours au même instant.
+  - Distance : à très courte portée elle joue souvent au M1 ; la zone la plus dangereuse est la distance moyenne en terrain ouvert (HEURISTIC).
   - Positionnel : enchaîner des tiles à murs hauts ; aller vers les zones intérieures (HEURISTIC).
-  - Macro : compter ses lancers (5 de base). À 0, elle doit aller à un casier : c'est le moment de gagner de la distance ou de relancer un gen (HEURISTIC). Soigner et décrocher **derrière une LOS**.
+  - Macro : compter ses lancers (hypothèse de départ : 5, UNCERTAIN-MM ; si elle en lance un 6e, abandonner le comptage). À 0, elle doit aller à un casier : c'est le moment de gagner de la distance ou de relancer un gen (HEURISTIC). Soigner et décrocher **derrière une LOS**.
   - Équipe : pas de soins ni d'unhooks à découvert ; espacer les gens pour la forcer à marcher (4,4 m/s) (HEURISTIC).
 - **Habitudes punissables** : soigner en plein champ, courir en ligne droite, vaulter une fenêtre face à une hachette armée, trop jouer un filler bas, rester dans le maïs en croyant être protégé.
-- **Adaptations avancées / échecs du counterplay** : avec Iridescent Head, chaque lancer met à terre : ne plus jamais « tanker » un tir, zéro exposition, même pour décrocher (SITUATIONAL). Avec des add-ons de capacité, le comptage des lancers ne marche plus. Sur une carte ouverte, les murs hauts sont rares : pré-planifier la route entre tiles avant la chase.
+- **Adaptations avancées / échecs du counterplay** : avec Iridescent Head, chaque lancer met à terre : ne plus « tanker » un tir, réduire l'exposition au minimum, y compris pour décrocher (décrocher derrière une LOS ou quand elle recharge) (SITUATIONAL). Avec des add-ons de capacité, le comptage des lancers ne marche plus. Sur une carte ouverte, les murs hauts sont rares : pré-planifier la route entre tiles avant la chase.
 - **Add-ons qui changent la décision** (tous UNCERTAIN-MM) :
   - Iridescent Head (hachette à terre, capacité très réduite) → le survivant doit jouer la LOS en permanence et ne plus décrocher à découvert, au lieu de compter sur un tir survivable.
   - Add-ons de capacité (+hachettes) → ne plus compter les lancers pour temporiser ; supposer qu'elle a encore des munitions.
   - Add-ons de vitesse de hachette → esquiver plus tôt, réduire la distance moyenne.
   - Réduction de la berceuse (si portée réduite par add-on) → surveillance visuelle plus active, perks d'info.
-- **Implications de carte** : cartes ouvertes favorables à elle ; intérieurs et labyrinthes favorables au survivant (EXPERT OPINION). Les modifications de palettes 9.2.0 / 9.3.0 / 9.3.2 [2] n'ont pas été évaluées pour elle.
+- **Implications de carte** : cartes ouvertes favorables à elle ; intérieurs et labyrinthes favorables au survivant (HEURISTIC). Les modifications de palettes 9.2.0 / 9.3.0 / 9.3.2 [2] n'ont pas été évaluées pour elle.
 - **Perks fréquentes / synergies à anticiper** : non vérifiables (NightLight inaccessible). Le seed cite Lethal Pursuer, Barbecue & Chilli, Pain Resonance, Darkness Revealed. Ses teachables : Beast of Prey (Undetectable en Bloodlust), Hex: Huntress Lullaby (skill checks sans son d'avertissement et pénalités accrues), Territorial Imperative (aura au sous-sol) [description UNCERTAIN-MM].
-- **Écart avec le seed** : FAUX (« 7 hachettes », 5 de base, audit [2]) · FAUX (« plus haut kill rate global dans les stats BHVR 2026 » : [2] donne Huntress = **pick** le plus large ; le kill rate le plus haut tous MMR = Lich, et la vue d'ensemble du seed dit la même chose) · NON VÉRIFIABLE (vitesse de hachette 25-40 m/s, hitbox 0,4 m, berceuse 45 m, recharge 2 s, Beast of Prey « buff du 8.5 », kill rate NightLight 41,6 %).
+- **Écart avec le seed** : FAUX (« 7 hachettes », audit [2] ; valeur de remplacement 5 = UNCERTAIN-MM) · FAUX (« plus haut kill rate global dans les stats BHVR 2026 » : [2] donne Huntress = **pick** le plus large ; le kill rate le plus haut tous MMR = Lich, et la vue d'ensemble du seed dit la même chose) · NON VÉRIFIABLE (vitesse de hachette 25-40 m/s, hitbox 0,4 m, berceuse 45 m, recharge 2 s, Beast of Prey « buff du 8.5 », kill rate NightLight 41,6 %).
 - **Sources** : [1] [2] ; reste = mémoire du modèle.
 
 ## 9. The Cannibal (Bubba Sawyer) — archétype(s) : M1 | anti-loop (insta-down court)
 - **Version** : **buff au 9.6.0 (28/04/2026)**, VERIFIED dans [2] (« Buffs Doctor, Cannibal… ») ; contenu chiffré non lu. Refonte antérieure (système de charges + Tantrum, 2022 environ, UNCERTAIN-MM). Statut LIVE.
 - **Données LIVE** (UNCERTAIN-MM) : 4,6 m/s ; TR 32 m ; grande taille. Chainsaw Sweep : insta-down, peut toucher plusieurs survivants ; système de charges de tronçonneuse ; collision avec un obstacle pendant le sweep, ou sweep trop long → **Tantrum** (il frappe au hasard, très ralenti). Casse de palette à la tronçonneuse ≈ 1 s (STRONG_SECONDARY, [2] citant wiki.gg Pallets). Vitesse de sweep (seed 5,45 m/s « buff du 9.6.0 ») : non vérifiée.
 - **Identification** :
-  - Avant le reveal : TR 32 m classique ; bruit de tronçonneuse qui démarre. **Hillbilly vs Bubba** : Hillbilly fait des sprints longs en ligne droite et surchauffe ; Bubba fait des balayages courts de gauche à droite (FACT).
+  - Avant le reveal : TR 32 m classique ; bruit de tronçonneuse qui démarre. **Hillbilly vs Bubba** : Hillbilly fait des sprints longs en ligne droite (surchauffe selon la mémoire du modèle ; le seed décrit plutôt une jauge « Overdrive » : voir CONFLICT-L4G1-02 dans `batch4_killers_g1.md`) ; Bubba fait des balayages courts de gauche à droite (FACT de principe [UNCERTAIN-MM]).
   - Pouvoir en action : sweep latéral, Tantrum audible et visible.
   - Stratégie probable : pression sur les survivants groupés, chase courte, parfois camp près du crochet, freiné par l'anti-facecamp 9.3.0 [2] (HEURISTIC).
 - **Ce qu'il cherche en chase** : boucles courtes à palette (short loops, fillers), survivants qui gardent une palette trop longtemps, groupes, body-blocks de crochet (HEURISTIC).
 - **Tiles / structures** :
-  - Favorables : longues boucles, **fenêtres** (sans son pouvoir, il n'a aucun outil contre elles, sauf perk Bamboozle), LOS longues pour gagner du temps (EXPERT OPINION).
+  - Favorables : longues boucles, **fenêtres** (sans son pouvoir, il n'a aucun outil contre elles, sauf perk Bamboozle), LOS longues pour gagner du temps (HEURISTIC).
   - Défavorables : tiles courtes où il peut balayer autour d'une palette debout, open areas.
-  - Palettes : **faire tomber la palette tôt** quand il arme près d'une short loop (il ne traverse pas une palette tombée) ; il la casse ensuite, vite, à la tronçonneuse (HEURISTIC).
+  - Palettes : **faire tomber la palette tôt, puis partir** vers la tile suivante, quand il arme près d'une short loop (il ne traverse pas une palette tombée) ; il la casse ensuite à la tronçonneuse en ~1 s [AUDIT, SS] : la palette ne lui coûte presque rien, elle sert à éviter le balayage, pas à tenir la tile (HEURISTIC, cohérent avec le handbook §2.2 (b)). Limite : contre un tap-rev (fausse charge), un pré-drop systématique lui donne la palette gratuitement → quand il arrive en M1 sans armer, la palette redevient une palette normale (stun possible).
 - **Mindgames propres** : tap-rev (fausse charge) pour obtenir une palette prématurée ; sweep qui contourne une petite tile (HEURISTIC).
 - **Counterplay** :
-  - Mécanique : garder un obstacle entre soi et lui dès qu'il arme ; profiter d'un Tantrum pour casser la LOS (FACT sur le Tantrum, conseil = HEURISTIC).
+  - Mécanique : garder un obstacle entre soi et lui dès qu'il arme ; profiter d'un Tantrum pour casser la LOS (FACT de principe [UNCERTAIN-MM] sur le Tantrum, conseil = HEURISTIC).
   - Positionnel : privilégier fenêtres et longues boucles.
   - Macro : ne pas réparer à 2-3 sur le même gen quand il approche : un sweep peut mettre plusieurs survivants à terre (HEURISTIC).
-  - Équipe : pas de body-block de face au crochet ; décrocher en profitant de l'Endurance basekit (10 s) [2].
-- **Habitudes punissables** : garder une palette « pour le stun » au lieu de la jeter ; body-block ; se grouper ; vaulter une palette dans une ligne droite ouverte.
+  - Équipe : pas de body-block de face au crochet ; décrocher en profitant de l'Endurance basekit (10 s) [2] — réserves [AUDIT] : elle saute sur une action voyante ; son effet exact contre un balayage (coup unique) n'est pas vérifié.
+- **Habitudes punissables** : garder une palette « pour le stun » alors qu'il **arme** la tronçonneuse (contre son M1, le stun reste possible) ; body-block ; se grouper ; vaulter une palette dans une ligne droite ouverte.
 - **Adaptations avancées** : avec des add-ons de charges ou de portée (valeurs non vérifiées), jeter les palettes encore plus tôt et éviter les ouvertures moyennes ; avec Bamboozle, les fenêtres perdent de la valeur : revenir aux palettes jetées tôt et aux LOS (SITUATIONAL).
 - **Add-ons qui changent la décision** : non vérifiables cette session. Principe (HEURISTIC) : add-on de charge ou de vitesse → pré-drop plus tôt ; add-on qui réduit le risque de Tantrum → le « sweep dans le mur » ne le punit plus. Le seed cite Depth Gauge Rake, Carburettor Tuning Guide, Iridescent Flesh, sans vérification.
-- **Implications de carte** : cartes riches en fenêtres et longues boucles défavorables à lui (EXPERT OPINION). Cartes intérieures étroites : sweeps à bout portant plus faciles, risque de Tantrum plus élevé pour lui (SITUATIONAL).
+- **Implications de carte** : cartes riches en fenêtres et longues boucles défavorables à lui (HEURISTIC). Cartes intérieures étroites : sweeps à bout portant plus faciles, risque de Tantrum plus élevé pour lui (SITUATIONAL).
 - **Perks fréquentes** : le seed cite Bamboozle, Corrupt Intervention, Infectious Fright (non vérifié). Teachables : Barbecue & Chilli (orthographe officielle « Chilli »), Franklin's Demise, Knock Out.
-- **Écart avec le seed** : IMPRÉCIS / à vérifier (Knock Out : [2] classe la description du seed parmi les erreurs ; le seed décrit un effet de ralentissement après usage de palette, présenté avec des valeurs PTB 10.2 : ne pas prendre cette description pour du LIVE) · NON VÉRIFIABLE (5,45 m/s, « 3 tokens », 2 s de charge, 2,5 s de sweep, kill rate 48,5 %) · OK (buff au 9.6.0, [2]).
+- **Écart avec le seed** : IMPRÉCIS / à vérifier (Knock Out : [2] classe la description du seed parmi les erreurs ; le seed décrit un effet de ralentissement après usage de palette. Correction P14 : que ces valeurs soient celles du PTB 10.2 est une **hypothèse** de ce lot, pas un fait ; l'effet principal omis par le seed est l'aura du survivant abattu visible seulement à 32/24/16 m (SS, `BATCH_2_4_SYNTHESIS.md` §2) ; Knock Out est annoncée modifiée au PTB 10.2.0 par le seed seulement) · NON VÉRIFIABLE (5,45 m/s, « 3 tokens », 2 s de charge, 2,5 s de sweep, kill rate 48,5 %) · OK (buff au 9.6.0, [2]).
 - **Sources** : [1] [2].
 
 ## 10. The Nightmare (Freddy Krueger) — archétype(s) : zone/piège | mobilité (téléport) | info
@@ -218,7 +229,7 @@ Légende : FACT (mécanique de base, sûre à la connaissance du modèle, mais t
 
 | ID | Claim | Source | Patch | Confiance |
 |---|---|---|---|---|
-| L4G2-01 | Huntress : 5 hachettes de base (pas 7) | [2] + mémoire modèle | — | STRONG_SECONDARY (erreur relevée par l'audit) |
+| L4G2-01 | Huntress : « 7 hachettes » faux ; 5 de base | [2] (7 = erreur) + mémoire modèle (5) | — | « 7 » FAUX : audit ; « 5 » : UNCERTAIN-MM (corrigé P14, était STRONG_SECONDARY) |
 | L4G2-02 | Huntress : 4,4 m/s, TR 20 m, berceuse | mémoire modèle | — | UNCERTAIN-MM |
 | L4G2-03 | Cannibal : buff au 9.6.0 | [2] | 9.6.0 | VERIFIED dans l'audit |
 | L4G2-04 | Casse de palette à la tronçonneuse ≈ 1 s | [2] (wiki.gg Pallets) | — | STRONG_SECONDARY |
@@ -251,12 +262,12 @@ Légende : FACT (mécanique de base, sûre à la connaissance du modèle, mais t
 
 | Élément | Le guide dit | Vérifié | Verdict |
 |---|---|---|---|
-| Huntress, nombre de hachettes | 7 | 5 de base ([2]) | FAUX |
+| Huntress, nombre de hachettes | 7 | 7 relevé comme erreur ([2]) ; 5 = mémoire du modèle, UNCERTAIN | FAUX (valeur de remplacement non vérifiée) |
 | Huntress, kill rate | plus haut kill rate global BHVR 2026 | pick le plus large ; kill rate top = Lich ([2]) | FAUX |
 | Huntress, valeurs de hachette | 25-40 m/s, hitbox 0,4 m, recharge 2 s | — | NON VÉRIFIABLE |
 | Cannibal, buff 9.6.0 | oui | oui ([2]) | OK |
 | Cannibal, 5,45 m/s | buff du 9.6.0 | contenu non lu | NON VÉRIFIABLE |
-| Knock Out | ralentit après une palette ; valeurs PTB 10.2 | signalé comme erreur par [2] | IMPRÉCIS / à vérifier (lot perks tueur) |
+| Knock Out | ralentit après une palette ; valeurs PTB 10.2 (hypothèse du lot) | signalé comme erreur par [2] ; effet principal (aura à 32/24/16 m) omis | IMPRÉCIS / à vérifier (lot perks tueur) |
 | Nightmare, valeurs du pouvoir | Snares 12 %, TP 30 s, CD réveil 45 s | rework 8.5.0 non lu | NON VÉRIFIABLE |
 | Nightmare, Z-Block | « selon version » | — | IMPRÉCIS (versions mélangées) |
 | Pig, TR | 24 m | 32 m (mémoire modèle) | CONFLICT (UNRESOLVED) |

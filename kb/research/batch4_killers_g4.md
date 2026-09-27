@@ -1,5 +1,9 @@
 # Lot 4 — Fiches tueurs 23 à 30 vues du SURVIVANT (ch8_killers.txt l. 1094-1418)
 
+> **Statut : WRITTEN + AUDITED (audits adversariaux §25-26 du 27/09/2026, sans web) — voir kb/audit/pass14_lot4_g4-g6.md**
+>
+> Rappels de l'audit : toutes les consignes sont des **HEURISTIC** (option par défaut, à varier contre un tueur qui l'anticipe) ; le **pré-drop n'est pas universel** (voir `KILLER_COUNTERPLAY_HANDBOOK.md` §2.2) ; les lignes « Équipe » qui supposent une répartition des rôles demandent le vocal (SWF) — en SoloQ, les appliquer seulement sur signaux observables ; aucune fiche n'a encore de rubrique DRILL ni d'interactions perks survivant ↔ pouvoir vérifiées.
+
 **Couverture web : 0 élément vérifié par recherche / 8 tueurs (toutes valeurs) non re-vérifiés (quota WebSearch de session épuisé 200/200 avant la 1re requête de cet agent).**
 
 - Référence : LIVE 10.1.2a (17/09/2026) ; PTB 10.2.0 (15-21/09/2026) **non LIVE**, toujours étiqueté PTB. Date de travail : 27/09/2026.
@@ -34,28 +38,28 @@
 - **Tiles / structures** :
   - Favorables : tiles à murs hauts et pleins, boucles courtes où la LOS se coupe souvent, structures intérieures (main building) — HEURISTIC.
   - Défavorables : tiles bas « see-through » (rochers bas, palettes de champs), longues fenêtres de jungle gym vues de loin, couloirs droits — HEURISTIC.
-  - Fenêtres vs palettes : une fenêtre vaultée dans sa LOS l'expose à un tir en « interstice » (3 points au barème seed) → préférer les palettes posées tôt quand il est déjà chargé en lames — HEURISTIC / SITUATIONAL.
+  - Fenêtres vs palettes : une fenêtre vaultée dans sa LOS l'expose à un tir en « interstice » (3 points au barème seed) → quand il est déjà chargé en lames, préférer une palette posée un peu plus tôt, ou mieux, **casser la LOS sans vaulter** — HEURISTIC / SITUATIONAL. Limite : une palette basse ne bloque probablement pas les lames (projectiles, comme les hachettes, [CM] UNCERTAIN) ; le gain du drop anticipé est d'éviter l'animation de vault dans sa LOS, pas de le bloquer. Coût : la palette est consommée ; un Trickster qui attend le drop sans tirer la récupère gratuitement → varier (drop normal quand il n'a pas de LOS).
   - Verticalité : un dénivelé coupe la LOS mieux qu'un mur bas — HEURISTIC.
 - **Mindgames propres** : il pré-lance avant l'angle (seed) → changer de direction au coin plutôt que de courir la trajectoire attendue ; le forcer à recharger au casier crée des fenêtres de reset — HEURISTIC.
 - **Counterplay** :
-  - Mécanique : couper la LOS très souvent ; strafes latéraux larges plutôt que petits zigzags (les lames sont des projectiles, pas du hitscan — seed) — HEURISTIC.
+  - Mécanique : couper la LOS très souvent ; strafes latéraux larges plutôt que petits zigzags (les lames sont des projectiles, pas du hitscan — seed) — HEURISTIC. Calcul : en lançant il irait à 3,86 m/s [SEED] contre 4,0 m/s pour toi [AUDIT] : tu ne gagnes que 0,14 m/s (≈ 1 m toutes les 7 s) pendant ses volées → **une volée ne crée pas d'écart**, seule la LOS coupée en crée.
   - Positionnel : rester près de tiles à murs hauts ; ne pas traverser une zone ouverte quand il a des lames — HEURISTIC.
-  - Macro : laisser redescendre la Laceration (16 s sans touche — audit [2]) avant de reprendre un risque ; se soigner n'est pas forcément prioritaire si la Laceration est haute — SITUATIONAL.
-  - Équipe : au rang S, s'écarter les uns des autres et éviter l'unhook « groupé » (Main Event bloqué à < 20 m d'un accroché selon seed, UNCERTAIN) ; jouer la montre jusqu'à la fin du rang S (≤ 66 s, seed) — HEURISTIC.
+  - Macro : attention, les 16 s [AUDIT] sont le **délai avant que la Laceration commence à baisser**, pas la durée de sa disparition. Ensuite −1 charge / 4,4 s [SEED] : depuis 3 charges ≈ 16 + 3 × 4,4 ≈ 29 s sans touche ; depuis 5 charges ≈ 38 s (ordre de grandeur, UNCERTAIN). Attendre ce délai avant de reprendre un risque n'est rentable que si tu n'es pas en chase ; se soigner n'est pas forcément prioritaire si la Laceration est haute — SITUATIONAL.
+  - Équipe : au rang S, s'écarter les uns des autres et éviter l'unhook « groupé » (Main Event bloqué à < 20 m d'un accroché selon seed, UNCERTAIN) ; « jouer la montre » jusqu'à la fin du rang S (≤ 66 s, seed) veut dire **ne pas lui offrir de groupe ni de ligne ouverte**, pas arrêter les gens : 66 s d'arrêt de 3 réparateurs ≈ 198 s-survivant ≈ 2,2 gens solo perdus — HEURISTIC. En SoloQ, la notification globale est le seul signal commun : s'écarter de soi-même sans attendre d'annonce.
 - **Habitudes punissables et erreurs classiques** (HEURISTIC) :
   - Courir en ligne droite dans un champ ouvert « pour atteindre la tile suivante » avec une Laceration à 3+.
   - Vaulter une fenêtre face à lui à distance moyenne.
   - Se regrouper sur un gen quand la notification de rang S tombe.
   - Ignorer la barre de Laceration (on croit être « sain » alors qu'1-2 lames suffisent).
 - **Adaptations avancées / échecs du counterplay** (HEURISTIC) :
-  - Contre un Trickster qui garde son rang S pour l'endgame, le « jouer la montre » échoue : à portes alimentées, éviter les longues lignes vers la sortie.
+  - Contre un Trickster qui arrive au rang S en endgame, le « jouer la montre » échoue : à portes alimentées, éviter les longues lignes vers la sortie. (Peut-il **retarder** volontairement le rang S ? Mécanique non vérifiée, en tension avec la durée max de 66 s [SEED] : HYPOTHESIS.)
   - Sur une map intérieure (LOS courte), la valeur du tueur baisse fortement — ne pas sur-jouer la prudence au prix des gens.
 - **Add-ons qui changent la décision** (tous : seed, NON RE-VÉRIFIÉ, UNCERTAIN ; les effets post-rework ont pu changer en 9.5.0/9.5.2) :
   - Iridescent Photocard (Main Event plus long, auras, blocage des gens selon seed) → au rang S, quitter le gen et casser la LOS plutôt que de « finir le gen ».
   - Death Throes Compilation (recharge après Main Event) → ne pas considérer la fin du Main Event comme une fenêtre de sécurité.
   - Trick Blades (ricochet) → les murs obliques ne protègent plus totalement ; privilégier les murs perpendiculaires à sa LOS.
 - **Implications de carte** : maps ouvertes (champs, Coldwind-like, Red Forest ouverte) = avantage tueur ; maps intérieures ou très encombrées = avantage survivant — HEURISTIC. Map Trickster's Delusion (Sleepless District, 9.5.0 — audit [2]) : aucune donnée lue.
-- **Perks fréquentes / synergies** : Grim Embrace, Pain Resonance, Pop Goes the Weasel, Lethal Pursuer, No Way Out (seed, UNCERTAIN) ; Hex: Crowd Control (perk perso, reworké en 9.5.0 — audit [2]) → après des vaults de fenêtre répétés, s'attendre à des fenêtres bloquées sur les boucles déjà jouées (HEURISTIC).
+- **Perks fréquentes / synergies** : Grim Embrace, Pain Resonance, Pop Goes the Weasel, Lethal Pursuer, No Way Out (seed, UNCERTAIN) ; Hex: Crowd Control (perk perso, reworkée en 9.5.0 : bloque les 4/5/6 dernières fenêtres vaultées — audit [2]) → après des vaults de fenêtre répétés, s'attendre à des fenêtres bloquées sur les boucles déjà jouées ; c'est un Hex : le purifier supprime l'effet (HEURISTIC).
 - **Écart avec le seed** : OK pour vitesse / TR / 36 lames / 16 s (cohérent avec [2]) ; IMPRÉCIS pour No Way Out (« 12 s par token, ~60 s » vs audit « 12 s + 6/9/12 s par jeton ») ; reste NON VÉRIFIABLE (barème Style Points, 66 s, ×1,67, add-ons).
 - **Sources** : [1], [2].
 
@@ -75,12 +79,12 @@
   - Stratégie probable : contaminer tout le monde tôt pour monter en mutation, puis anti-loop — HEURISTIC.
 - **Ce qu'il cherche en chase** : survivants contaminés à 5-6,5 m derrière une palette basse ou une fenêtre ; drops de palette tardifs ; boucles courtes — HEURISTIC.
 - **Tiles / structures** :
-  - Favorables : tiles longues où l'on garde > 6,5 m de distance ; murs hauts qui coupent la trajectoire du tentacule — HEURISTIC.
+  - Favorables : tiles longues où l'on garde plus que la portée du tentacule (6,5 m en MR3 selon le seed, [SEED] UNCERTAIN : ordre de grandeur, pas une marge exacte) ; murs hauts qui coupent la trajectoire du tentacule — HEURISTIC.
   - Défavorables : petites tiles « pallet + mur bas » (couvertes par la portée en MR3), jungle gyms courts — HEURISTIC.
-  - Fenêtres vs palettes : en MR1 (connaissance du modèle, UNCERTAIN : le tentacule ne casse pas les palettes), une palette posée reste une vraie ressource ; dès MR2 il la casse à distance → pré-drop + départ vers la tile suivante plutôt que « jouer autour » — SITUATIONAL.
+  - Fenêtres vs palettes : en MR1 (connaissance du modèle, UNCERTAIN : le tentacule ne casse pas les palettes), une palette posée reste une vraie ressource ; dès MR2 il la casse à distance → pré-drop + départ vers la tile suivante plutôt que « jouer autour » — SITUATIONAL. C'est un pré-drop « parce que le pouvoir punit l'attente », pas parce que casser lui coûte (KCH §2.2 b) : la palette est perdue de toute façon. Contre un Nemesis qui ralentit avant la palette pour obtenir le pré-drop gratuit, ou pendant le cooldown du tentacule (2,25 s selon seed), alterner avec un drop normal ou un départ sans drop.
 - **Mindgames propres** : faux-charge du tentacule pour provoquer un drop ou un vault ; il peut cancel la charge — HEURISTIC.
 - **Counterplay** :
-  - Mécanique : strafe latéral au moment du son de charge (le tentacule est une ligne droite — seed) ; ne pas être à 4-6 m en ligne droite derrière lui — HEURISTIC.
+  - Mécanique : strafe latéral au moment du son de charge (le tentacule est une ligne droite — seed) ; ne pas rester **dans son axe, à 4-6 m devant lui** (portée 5 / 6,5 m [SEED]) — HEURISTIC. Un Nemesis qui feinte la charge exploite un strafe systématique : strafer au son, pas à l'animation seule.
   - Positionnel : quand vous êtes contaminé, chaque touche coûte un état de santé → jouer les tiles longues, pas les « safe » courtes — HEURISTIC.
   - Macro : prendre un vaccin quand il est loin/occupé (Killer Instinct au moment de l'usage, seed) ; les vaccins sont limités, ne pas les gaspiller en début de partie si on reste loin de lui — SITUATIONAL.
   - Équipe : éviter de laisser les zombies bloquer un gen ; les écarter avec un stun de palette seulement si ça ne coûte pas une palette clé (seed : zombies stunnables) — HEURISTIC.
@@ -120,7 +124,7 @@
 - **Counterplay** :
   - Mécanique : casser la LOS vers le portail ; arracher les chaînes immédiatement quand il ne peut pas punir — seed, HEURISTIC.
   - Positionnel : se déplacer d'une tile à l'autre en longeant le décor — HEURISTIC.
-  - Macro/équipe : **un seul** survivant gère la boîte, loin du tueur, et la résout avant le Chain Hunt ; ne pas la résoudre si le tueur est proche (téléportation, seed) — HEURISTIC.
+  - Macro/équipe : **un seul** survivant gère la boîte, loin du tueur, et la résout avant le Chain Hunt ; ne pas la résoudre si le tueur est proche (téléportation, seed) — HEURISTIC. SWF : le rôle se désigne au vocal. SoloQ : pas de désignation possible → si tu vois un coéquipier aller vers la boîte (ou la porter), ne pas y aller aussi ; si personne ne la prend et qu'elle est près de toi, la prendre toi-même plutôt que d'attendre le Chain Hunt. Coût : le porteur ne répare pas pendant ce temps.
   - Endgame : prévoir le blocage de 5 s des portes après retrait des chaînes (seed, UNCERTAIN) — SITUATIONAL.
 - **Habitudes punissables / erreurs classiques** (HEURISTIC) : traverser un champ ouvert à 10-16 m de lui ; ignorer la boîte jusqu'au Chain Hunt ; deux survivants qui se battent pour la boîte ; résoudre la boîte à côté d'un gen où le tueur patrouille.
 - **Adaptations avancées / échecs** (HEURISTIC) : avec des add-ons de portée, « coller le décor » ne suffit plus si le tueur courbe la chaîne → préférer les tiles à murs hauts qui bloquent la trajectoire de départ plutôt que les objets bas.
@@ -147,13 +151,13 @@
   - Stratégie probable : pression globale (corbeaux sur des gens lointains) puis blessures à distance à travers le décor — HEURISTIC.
 - **Ce qu'il cherche en chase** : survivants déjà Swarmed (2e corbeau = blessure à travers un mur), sorties de tile prévisibles, vaults de fenêtre en fin de boucle — HEURISTIC.
 - **Tiles / structures** :
-  - FACT relatif (seed + connaissance du modèle, UNCERTAIN) : les corbeaux traversent les murs → **les murs ne protègent pas comme contre un ranged classique**.
+  - Mécanique de principe, **pas un FACT** (seed + connaissance du modèle, UNCERTAIN ; non couverte par l'audit, et contredite par une autre phrase du seed, CONFLICT-L4G4-02) : les corbeaux traversent les murs → **les murs ne protègent pas comme contre un ranged classique**.
   - Favorables : tiles où l'on peut changer de direction souvent (le corbeau va en ligne droite) ; bâtiments avec plusieurs sorties — HEURISTIC.
   - Défavorables : longues lignes droites, couloirs, tiles à une seule sortie — HEURISTIC.
 - **Mindgames propres** : corbeau « posé » sur une sortie de tile = piège de trajectoire ; elle peut attendre votre choix de direction avant de lancer — HEURISTIC.
 - **Counterplay** :
   - Mécanique : strafe latéral net au dernier moment ; ne pas courir dans l'axe d'un corbeau posé — HEURISTIC.
-  - Si Swarmed : retirer l'essaim dès que le tueur n'est pas en chase proche, ou casier (seed) ; ne **pas** réparer avec l'essaim — HEURISTIC.
+  - Si Swarmed : retirer l'essaim dès que le tueur n'est pas en chase proche, ou casier (seed) ; éviter de réparer avec l'essaim quand elle a un corbeau disponible (un 2e corbeau = blessure, même à travers le décor) — HEURISTIC. Arbitrage : le retrait coûte ~8 s [SEED] (≈ 9 % de gen solo) ; si elle est en chase loin et sans corbeau prêt, finir un gen presque terminé peut valoir plus que ces 8 s — SITUATIONAL.
   - Macro : répartir les gens pour qu'un corbeau n'en couvre pas deux ; ne pas se regrouper en ligne — HEURISTIC.
   - Équipe : un coéquipier Swarmed est une cible facile → ne pas s'en approcher en chase (Severed Hands, seed) — SITUATIONAL.
 - **Habitudes punissables / erreurs classiques** (HEURISTIC) : se croire à l'abri derrière un mur ; réparer en étant Swarmed ; courir tout droit vers la tile suivante quand elle a un corbeau prêt.
@@ -187,7 +191,7 @@
   - Défavorables : zones sombres ou encombrées où l'on ne voit pas son approche ; zones à 16 m d'une TV allumée — HEURISTIC.
 - **Mindgames propres** : manifestation juste avant le coup ; démanifester pour traverser une palette sans risque de stun — seed, HEURISTIC.
 - **Counterplay** :
-  - Mécanique : regarder derrière soi régulièrement (checkspots) pendant les gens ; surveiller la barre de Condemned — HEURISTIC.
+  - Mécanique : regarder derrière soi régulièrement (checkspots) pendant les gens ; surveiller la barre de Condemned — HEURISTIC. Quand : surtout si une TV à moins de ~16 m [SEED] est allumée, si ton Condemned vient de monter (projection proche) ou si un coéquipier vient de la perdre de vue ; où : vers les accès du gen et la TV, pas au hasard. Coût : chaque check fait rater des skill checks si mal synchronisé (raté = −10 % + 3 s, [AUDIT]) → checker entre deux skill checks. Pas de fréquence chiffrée sourcée.
   - Positionnel : ne pas réparer à 16 m d'une TV allumée quand elle se projette (seed) — HEURISTIC.
   - Macro : gérer les cassettes : un survivant la dépose vite dans une TV **éloignée** ; retirer les cassettes des TV proches des gens à 3 pour éteindre ses points de projection — HEURISTIC.
   - Équipe : partager le travail des cassettes pour qu'aucun survivant n'approche 7 stacks ; à 5-6 stacks, jouer très prudemment — HEURISTIC.
@@ -219,8 +223,8 @@
 - **Counterplay** :
   - Mécanique : repérer le Remnant et ne pas se placer entre lui et le Dredge (seed) — HEURISTIC.
   - Positionnel : verrouiller les casiers proches des gens actifs et des crochets (seed) ; éviter de finir une chase près d'un casier non verrouillé — HEURISTIC.
-  - Macro : ne pas se cacher en casier (remplit la jauge, seed) ; limiter les survivants blessés en même temps (jauge) — HEURISTIC.
-  - Équipe : pendant Nightfall, rester près de tiles solides et se signaler les positions ; ne pas tenter de sauvetages risqués au milieu de Nightfall — SITUATIONAL.
+  - Macro : éviter de se cacher en casier (remplit la jauge selon le seed, et un casier est un point d'arrivée de sa téléportation) ; limiter les survivants blessés en même temps (jauge) — HEURISTIC. Nuance : un casier verrouillé retarde seulement son arrivée (verrou à casser en 2,25 s selon le seed) ; l'effet d'un survivant caché dans un casier verrouillé sur la jauge reste UNCERTAIN.
+  - Équipe : pendant Nightfall, rester près de tiles solides et se signaler les positions (SWF) ; éviter les sauvetages risqués au milieu de Nightfall — SITUATIONAL. Limite (calcul) : Nightfall dure 60 s selon le seed (UNCERTAIN) et une phase de crochet 70 s [AUDIT] → attendre la fin de Nightfall n'est possible que si l'accroché vient d'entrer dans sa phase ; sinon le report coûte un état de crochet, et il faut sauver quand même en prenant la route la plus couverte.
 - **Habitudes punissables / erreurs classiques** (HEURISTIC) : se cacher en casier ; ignorer la jauge ; réparer à côté d'un casier non verrouillé ; rester blessés à plusieurs.
 - **Adaptations avancées / échecs** (HEURISTIC) : sur les maps intérieures pleines de casiers, le verrouillage ne suffit pas (trop de casiers) → jouer les tiles extérieures ; si Nightfall est lancé en endgame, les portes restent le repère fixe : s'en rapprocher avant.
 - **Add-ons qui changent la décision** (seed, NON RE-VÉRIFIÉ, UNCERTAIN) :
@@ -228,8 +232,8 @@
   - Lavalier Microphone (révélation au dernier token) → après ses téléportations, s'attendre à être révélé.
   - Iridescent Wooden Plank (Exposed en fin de Nightfall) → les 12 dernières secondes de Nightfall sont les plus dangereuses : éviter la chase à ce moment.
 - **Implications de carte** : Lery's, Hawkins, RPD, main buildings chargés = beaucoup de casiers → avantage tueur ; maps extérieures ouvertes avec peu de casiers = moins de mobilité — HEURISTIC.
-- **Perks fréquentes / synergies** : Darkness Revealed (sa perk, casiers), Dissolution, Septic Touch, Pain Resonance, Grim Embrace, No Holds Barred/Deadlock (seed, UNCERTAIN). Dissolution : nerf **PTB 10.2.0** (attaque de base seulement) — **PTB, pas LIVE** ; en LIVE, considérer la palette fast-vaultée après blessure comme cassable (seed, UNCERTAIN).
-- **Écart avec le seed** : buff 9.6.0 : existence **OK** ([2]) ; contenu du buff (4 m/s en charge) NON VÉRIFIABLE ; Dissolution PTB correctement étiqueté PTB : OK.
+- **Perks fréquentes / synergies** : Darkness Revealed (sa perk, casiers), Dissolution, Septic Touch, Pain Resonance, Grim Embrace, No Holds Barred/Deadlock (seed, UNCERTAIN). Dissolution : une modification au **PTB 10.2.0** (attaque de base seulement) est **annoncée par le seed seulement** (« oui? » dans `PERK_DATABASE.md`, non vérifiée, l'audit ne la liste pas) — **PTB, pas LIVE** ; en LIVE, considérer la palette fast-vaultée après blessure comme cassable (seed, UNCERTAIN).
+- **Écart avec le seed** : buff 9.6.0 : existence **OK** ([2]) ; contenu du buff (4 m/s en charge) NON VÉRIFIABLE ; Dissolution : le seed l'étiquette bien PTB, mais l'existence même de ce changement PTB est **NON VÉRIFIABLE**.
 - **Sources** : [1], [2].
 
 ---
@@ -247,7 +251,7 @@
 - **Tiles / structures** :
   - Favorables : tiles serrées, coudées, avec objets qui bloquent le bond ; bâtiments à plusieurs étages — HEURISTIC.
   - Défavorables : longues lignes, fenêtres isolées, champs ouverts — HEURISTIC.
-  - Palettes : la palette peut être franchie ou cassée par le bond (seed + [2]) → pré-drop et départ, ne pas « tenir » une palette — SITUATIONAL.
+  - Palettes : la palette peut être franchie ou cassée par le bond (seed + [2] : Virulent Bound dans la liste des destructions instantanées, STRONG_SECONDARY, à reconfirmer) → pré-drop et départ, ne pas « tenir » une palette — SITUATIONAL. Raison : son pouvoir punit l'attente à la palette, **pas** parce que casser lui coûte (la casse est instantanée) ; la palette est perdue de toute façon (KCH §2.2 b). Limites : sans token de bond disponible (2 tokens selon seed), il redevient un M1 face à cette palette → drop normal ; contre un Mastermind qui attend le pré-drop sans lancer le bond, varier (départ sans drop, drop normal).
 - **Mindgames propres** : charge feinte ; 1er bond court pour se repositionner puis 2e bond (seed) → ne pas réagir au premier bond comme s'il était l'attaque — HEURISTIC.
 - **Counterplay** :
   - Mécanique : au son de charge, demi-tour ou strafe serré ; forcer le bond contre un obstacle — HEURISTIC.
@@ -286,7 +290,7 @@
   - Mécanique : pendant une chasse de garde, se diriger tôt vers la bannière (seed) avant que le Knight n'arrive — HEURISTIC.
   - Positionnel : ne pas jouer une boucle où garde et Knight se font face ; changer de tile — seed / HEURISTIC.
   - Macro : sortir de la zone de détection d'une patrouille plutôt que continuer la réparation ; Assassin → soigner le Deep Wound rapidement (seed) — SITUATIONAL.
-  - Équipe : un unhook met fin à la chasse (seed) → coordination possible si le garde est sur le sauveteur — SITUATIONAL.
+  - Équipe : « un unhook met fin à la chasse de garde » est une mécanique **[SEED] UNCERTAIN** (non vérifiée, possiblement modifiée par 10.1.1) → ne pas planifier un sauvetage sur cette base ; au mieux un bonus si elle se confirme.
 - **Habitudes punissables / erreurs classiques** (HEURISTIC) : rester sur une tile pendant qu'un garde arrive ; oublier la bannière ; paniquer vers une zone morte.
 - **Adaptations avancées / échecs** (HEURISTIC) : le changement 10.1.1 sur « gardes et palettes » peut invalider les conseils de palette ci-dessus → à re-vérifier avant intégration.
 - **Add-ons qui changent la décision** (seed, NON RE-VÉRIFIÉ, UNCERTAIN) :
@@ -301,6 +305,8 @@
 ---
 
 ## Claims
+
+Calculs dérivés (audit pass 14) : Trickster 4,4 vs 4,0 m/s → il reprend 0,4 m/s (10 m en 25 s, contre 16,7 s pour un tueur à 4,6 m/s) ; décroissance de Laceration ≈ 16 s + n × 4,4 s (n = charges, partie 4,4 s UNCERTAIN) ; 66 s d'arrêt × 3 réparateurs = 198 s-survivant ≈ 2,2 gens solo ; Nightfall 60 s [SEED] < phase de crochet 70 s [AUDIT].
 
 | ID | Claim | Source | Patch | Confiance |
 |---|---|---|---|---|
@@ -319,11 +325,11 @@
 | G4-13 | Dredge buffé | [2] | 9.6.0 | STRONG_SECONDARY (via audit) ; contenu UNCERTAIN |
 | G4-14 | Dredge Nightfall 60 s ; 4 m/s en charge de téléportation | [1] | 9.6.0 ? | UNCERTAIN (seed) |
 | G4-15 | Mastermind buffé | [2] | 9.6.0 | STRONG_SECONDARY (via audit) ; contenu UNCERTAIN |
-| G4-16 | Virulent Bound et gardes du Knight cassent les palettes instantanément | [2] (wiki Pallets) | — | STRONG_SECONDARY (via audit), à reconfirmer |
+| G4-16 | Virulent Bound et gardes du Knight cassent les palettes instantanément | [2] (wiki Pallets) | — | STRONG_SECONDARY (via audit), à reconfirmer ; pour le Knight, le changement 10.1.1 « gardes et palettes » a pu modifier ce point |
 | G4-17 | Knight buffé en 9.1.0 ; modifié (gardes et palettes) en 10.1.1 | [2] | 9.1.0 / 10.1.1 | STRONG_SECONDARY (via audit) ; contenu UNCERTAIN |
 | G4-18 | Nowhere to Hide LIVE : 24 m autour du gen, 3/4/5 s (18 m = PTB) | [2] | 10.1.0 | STRONG_SECONDARY (via audit) |
 | G4-19 | No Way Out : 12 s + 6/9/12 s par jeton | [2] (wiki Exit Gates) | — | STRONG_SECONDARY (via audit) |
-| G4-20 | Dissolution : attaque de base seulement | [1] | PTB 10.2.0 | PTB (non LIVE), UNCERTAIN |
+| G4-20 | Dissolution : attaque de base seulement | [1] seul (absent de l'audit) | PTB 10.2.0 (annoncé par le seed) | PTB (non LIVE), UNCERTAIN — existence du changement non vérifiée |
 
 ## Conflits
 
@@ -357,7 +363,7 @@
 | Trickster — 4,4 m/s, TR 24/44 m, 36 lames, décroissance 16 s | idem | idem [2] | OK |
 | Onryō — Call of Brine | 30/40/50 %, 90 s | idem [2] | OK |
 | Dredge / Mastermind — buffs 9.6.0 | existence + détails | existence confirmée [2], détails non lus | OK (existence) / NON VÉRIFIABLE (détails) |
-| Dredge — Dissolution | nerf PTB 10.2.0 | étiqueté PTB dans le seed | OK (étiquetage) |
+| Dredge — Dissolution | nerf PTB 10.2.0 | étiqueté PTB dans le seed ; changement absent de l'audit | OK (étiquetage) / NON VÉRIFIABLE (existence) |
 | Cenobite — retrait boutique | mars 2025 | [2] : « départ Hellraiser, 2025 », renommage 9.0.0 | NON VÉRIFIABLE |
 | Cenobite — difficulté | « très élevée » (fiche) | « élevée » (tableau d'ensemble du seed) | IMPRÉCIS (incohérence interne) |
 | Artist — « s'accroupir évite le Killer Instinct » | affirmé | aucune source | NON VÉRIFIABLE (douteux) |

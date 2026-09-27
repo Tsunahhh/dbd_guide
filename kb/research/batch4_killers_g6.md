@@ -1,5 +1,9 @@
 # Lot 4 — Fiches tueur vues du survivant, groupe 6 (tueurs 38 à 44)
 
+> **Statut : WRITTEN + AUDITED (audits adversariaux §25-26 du 27/09/2026, sans web) — voir kb/audit/pass14_lot4_g4-g6.md**
+>
+> Rappels de l'audit : toutes les consignes sont des **HEURISTIC** (option par défaut, à varier contre un tueur qui l'anticipe) ; l'étiquette EXPERT OPINION non sourcée a été **requalifiée** (HEURISTIC, ou [SEED] UNCERTAIN quand l'idée vient du seed) ; Krasue, The First, The Slasher et The Judgment ont été recoupés avec le registre de patchs de l'audit (9.2.0 → 10.1.2a) ; les lignes « Équipe » supposant des rôles demandent le vocal (SWF).
+
 Couverture web : 0 élément vérifié par recherche / 7 non re-vérifiés (quota WebSearch de la session épuisé, 200/200). Valeurs reprises de l'audit phase 0 quand il les couvre (surtout Krasue, The First, Slasher, Animatronic, Judgment) ; tout le reste vient du seed ou de la connaissance du modèle, en UNCERTAIN.
 
 - Référence : LIVE 10.1.2a (17/09/2026). PTB 10.2.0 (15-21/09/2026) **non LIVE**, jamais utilisé ici comme valeur LIVE. Mode 2v8 exclu.
@@ -8,13 +12,13 @@ Couverture web : 0 élément vérifié par recherche / 7 non re-vérifiés (quot
   1. **audit phase 0** (`kb/seed/audit_phase0.txt`) : cité avec la confiance qui y figure (VERIFIED_PRIMARY / VERIFIED_MULTI_SOURCE / STRONG_SECONDARY).
   2. **seed** : noté « seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) », confiance UNCERTAIN.
   3. **connaissance du modèle** : notée « connaissance du modèle (antérieure à mi-2026), UNCERTAIN ».
-- Le cœur de la valeur de ce fichier est l'**analyse survivant** (identification, counterplay par couche, erreurs, adaptations). Elle est étiquetée **HEURISTIC** (raisonnement à partir de la mécanique) ou **EXPERT OPINION** (consensus communautaire tel que le modèle le connaît, non re-sourcé ici).
-- Étiquettes : FACT (mécanique vérifiée par l'audit) / HEURISTIC / EXPERT OPINION / SITUATIONAL / HYPOTHESIS. Les tiers et les notes de menace sont **HEURISTIC**.
+- Le cœur de la valeur de ce fichier est l'**analyse survivant** (identification, counterplay par couche, erreurs, adaptations). Elle est étiquetée **HEURISTIC** (raisonnement à partir de la mécanique). La version initiale employait aussi **EXPERT OPINION** pour un « consensus communautaire tel que le modèle le connaît » : ce n'est pas le sens de §41 (conclusion d'un joueur expert identifiable), et aucun guide expert n'a été lu → ces passages sont **requalifiés en HEURISTIC** (audit pass 14), ou en **[SEED] UNCERTAIN** quand l'idée vient du guide seed, qui n'est pas une source experte.
+- Étiquettes : FACT (mécanique vérifiée par l'audit) / HEURISTIC / SITUATIONAL / HYPOTHESIS. Une valeur [AUDIT] STRONG_SECONDARY « à reconfirmer » est **probable**, pas un FACT ferme. Les tiers et les notes de menace sont **HEURISTIC**.
 - Abréviations : TR = terror radius ; LOS = ligne de vue ; « seed-NRV » = seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN ; « CM » = connaissance du modèle (antérieure à mi-2026), UNCERTAIN.
 
 ### Rappels système utiles pour ce groupe (audit phase 0)
 
-- Protections de décrochage LIVE 10.1.0 : Endurance + 10 % Haste pendant 10 s + Elusive 10 s, sauf une fois les générateurs alimentés (audit phase 0, patch 10.1.0, VERIFIED_PRIMARY via notes).
+- Protections de décrochage LIVE 10.1.0 : Endurance + 10 % Haste pendant 10 s + Elusive 10 s (audit phase 0, patch 10.1.0, VERIFIED_PRIMARY via notes). L'exception « ne s'applique pas une fois les générateurs alimentés » suit l'Elusive dans le texte de l'audit : ambigu (Elusive seul, ou toutes les protections ?) → ne pas compter sur l'Elusive en endgame ; pour le reste, UNCERTAIN.
 - Anti-facecamp : zone 16 m, grâce 7 s, multiplicateurs 1× / 2× / 4× (audit phase 0, 9.3.0, VERIFIED_PRIMARY).
 - Diminishing Returns (9.6.0) : les modificateurs identiques issus de **Powers**, Items, Perks et Offerings se réduisent (100 / 50 / 25 / 12,5 / 5 %). Les add-ons ne sont pas concernés (audit phase 0, VERIFIED_MULTI_SOURCE). Ça touche la Haste de pouvoir (Slasher) cumulée avec des perks de Haste (HYPOTHESIS sur l'interaction exacte, liste des modificateurs non consultée par l'audit).
 - Bloodlust : la Head Form de la Krasue en est exclue depuis la 9.2.0 (audit phase 0, VERIFIED_PRIMARY).
@@ -35,10 +39,10 @@ Couverture web : 0 élément vérifié par recherche / 7 non re-vérifiés (quot
   - *Avant le reveal* : 4,6 m/s, TR 32 m standard, rien de spécifique. Une **berceuse éloignée du TR** ou un **Killer Instinct sans tueur visible** signale une Search Command.
   - *Pouvoir en action* : aboiements, chien qui court en ligne droite devant Portia, ou chien seul qui patrouille.
   - *Add-ons observables* : un chien nettement plus rapide (Leather Harness), du Killer Instinct sans berceuse (add-on Undetectable, seed : Iridescent Wheel Handle).
-  - *Stratégie probable* : Houndsense + Deep Wound pousse à l'usure et au slug léger. Le « traîner vers soi » facilite le tunnel du survivant qu'on vient de décrocher en terrain ouvert (EXPERT OPINION).
+  - *Stratégie probable* : Houndsense + Deep Wound pousse à l'usure et au slug léger. Le « traîner vers soi » facilite le tunnel du survivant qu'on vient de décrocher en terrain ouvert (HEURISTIC ; anciennement « EXPERT OPINION », non sourcée).
 - **Ce qu'il cherche en chase** (HEURISTIC) : une **ligne droite** entre le chien et vous. Il la trouve aux sorties de tile, dans les couloirs, en terrain ouvert et dans les longs murs sans ouverture. Le chien remplace une hachette à portée moyenne, et la prise ramène la cible pour une attaque de base garantie.
 - **Tiles / structures** (HEURISTIC) :
-  - *Favorables* : tiles avec **beaucoup d'angles courts** (jungle gym, shack) où toute ligne droite est coupée en moins de 5-6 m. Palettes « safe » : une palette posée bloque le chien (seed et CM).
+  - *Favorables* : tiles avec **beaucoup d'angles courts** (jungle gym, shack) où toute ligne droite est vite coupée (les « 5-6 m » de la version initiale sont un ordre de grandeur HEURISTIC : la portée de course du chien n'est pas connue). Palettes « safe » : une palette posée bloque le chien (seed et CM, UNCERTAIN).
   - *Défavorables* : longues lignes (murs L sans fenêtre, bords de map, champs de maïs ouverts) et tiles où l'on court en ligne droite avant de tourner.
   - *Fenêtres vs palettes* : les fenêtres sont de bonnes coupures si le chien ne les franchit pas (CM, UNCERTAIN). Les palettes sont plus sûres, car une palette posée bloque durablement le chien.
   - *Verticalité* : peu d'impact direct. All-Shaking Thunder (sa perk) récompense les sauts de hauteur (SITUATIONAL).
@@ -46,19 +50,19 @@ Couverture web : 0 élément vérifié par recherche / 7 non re-vérifiés (quot
 - **Counterplay** :
   - *Mécanique* : quand le chien est lancé, **décalez-vous latéralement tard** et mettez un obstacle entre la trajectoire et vous. Une trajectoire engagée se corrige mal (HEURISTIC). Si vous êtes pris, gardez en tête qu'une palette sur la trajectoire de traîne vous libère (seed-NRV) : se faire prendre **près** d'une palette coûte moins cher qu'en terrain ouvert.
   - *Positionnel* : restez « collé » aux structures et ne traversez de l'open qu'à distance de chasse suffisante (HEURISTIC).
-  - *Macro* : réparez les gens loin de sa route de patrouille. Une berceuse de chien sur vous veut dire « je suis repéré » : quittez le gen plutôt que de finir 5 %. Soignez tôt à cause de Houndsense et du Deep Wound (HEURISTIC).
+  - *Macro* : réparez les gens loin de sa route de patrouille. Une berceuse de chien sur vous veut dire « je suis repéré » (Killer Instinct, seed) : en général, quittez le gen plutôt que de le finir. Exception chiffrée : 5 % = 4,5 s solo, ≈ 2,65 s à deux [calcul, AUDIT 90 charges / coop 85 %] — si Portia n'est ni en vue ni dans le TR, finir ces 5 % coûte souvent moins que revenir plus tard. Soignez tôt à cause de Houndsense et du Deep Wound (HEURISTIC).
   - *Équipe* : ne décrochez pas en terrain ouvert quand Portia est à moyenne distance, le chien punit les décrochages non couverts (HEURISTIC).
 - **Habitudes punissables / erreurs classiques** (HEURISTIC) : le « hold W » en ligne droite ; quitter un tile vers l'open trop tôt ; ignorer le Killer Instinct de la patrouille ; croire que l'Endurance suffit (elle raccourcit la traîne à 2 s mais ne l'annule pas, seed-NRV).
 - **Adaptations avancées** (HEURISTIC / SITUATIONAL) :
   - Contre un Portia qui garde le chien « en réserve », jouez le tile le plus longtemps possible et forcez-le à le lancer sur une trajectoire courte.
-  - Sur les maps très ouvertes, prévoyez la prochaine structure avant de quitter la vôtre : c'est un « pre-running » calculé pour ne jamais offrir plus de ~8 m de ligne.
+  - Sur les maps très ouvertes, prévoyez la prochaine structure avant de quitter la vôtre : c'est un « pre-running » calculé pour offrir le moins de ligne droite possible (« ~8 m » dans la version initiale : chiffre sans source, ordre de grandeur seulement).
   - Le counterplay habituel des tueurs M1 (« courir loin pour étirer la chase ») **échoue** ici : la distance en open est précisément sa portée idéale.
 - **Add-ons qui changent la décision** (seed-NRV, UNCERTAIN) :
   - Leather Harness (chien +20 %) → décalez-vous **plus tôt** et ne comptez plus sur un dodge tardif en open.
   - Marlinspike (Houndsense à 20 m autour du survivant attrapé) → écartez-vous de la chase en cours au lieu de rester « en soutien » à 15 m.
   - Iridescent Wheel Handle (Undetectable pendant les recherches) → la berceuse du chien n'est plus fiable, surveillez le Killer Instinct et les corbeaux.
 - **Implications de carte** (HEURISTIC) : fort sur les maps ouvertes aux longues lignes (Coldwind, Red Forest selon la génération). Plus faible sur les maps intérieures denses en angles, avec un bémol sur les longs couloirs (Hawkins, RPD, Gideon).
-- **Perks fréquentes à anticiper** (seed-NRV + HEURISTIC) : Pain Resonance, Surge, Dead Man's Switch, Barbecue & Chili, All-Shaking Thunder. → Relâchez les gens après un crochet (DMS) et évitez de rester groupés sur un gen.
+- **Perks fréquentes à anticiper** (seed-NRV + HEURISTIC) : Pain Resonance, Surge, Dead Man's Switch, Barbecue & Chili, All-Shaking Thunder. → Contre Dead Man's Switch **suspecté** (le gen **lâché** juste après un crochet se bloque, SS) : après un crochet, faire le premier lâcher sur un gen **peu avancé**, ou reprendre sans stop-and-go (cohérent avec `PERK_DEDUCTION.md`) ; « relâcher les gens » par défaut à chaque crochet coûte du temps pour rien si la perk n'est pas là. Évitez de rester groupés sur un gen (HEURISTIC).
 - **Écart avec le seed** : NON VÉRIFIABLE sur toutes les valeurs. L'orientation du seed (4 conseils tueur, 4 survivant) est lacunaire côté survivant.
 - **Sources** : [2], [3].
 
@@ -72,22 +76,22 @@ Couverture web : 0 élément vérifié par recherche / 7 non re-vérifiés (quot
   - Pouvoir « One-Eyed Terror » (seed-NRV, UNCERTAIN) :
     - **Kagune Leap** : 2 tokens (recharge 4 s chacun), cible (surface ou survivant) jusqu'à 14 m, enchaînement dans une fenêtre de 5 s. Les bonds franchissent les fenêtres et les palettes tombées. Un bond sur un survivant fait un grab-attack : blessure, Deep Wound selon le seed, et **Kagune Mark**. Un survivant marqué ne peut plus être attrapé au bond.
     - **Enraged Mode** après un grab : 3 tokens (recharge 2,5 s), vaults plus rapides, casser une palette coûte 2 tokens. Il dure tant qu'une marque existe, puis 40 s après le retrait de la dernière (50 s avec grab parfait).
-  - FACT (audit phase 0, wiki.gg Pallets, STRONG_SECONDARY, « liste à reconfirmer ») : le Ghoul figure parmi les destructions instantanées de palette via le 3e Kagune Leap **avec add-on**.
+  - Probable, pas FACT ferme (audit phase 0, wiki.gg Pallets, STRONG_SECONDARY, « liste à reconfirmer ») : le Ghoul figure parmi les destructions instantanées de palette via le 3e Kagune Leap **avec add-on**.
 - **Identification** (HEURISTIC) :
   - *Avant le reveal* : 4,6 m/s ; l'arrivée est rapide et bruyante (bonds). Voir un tueur « tiré » vers un mur ou un toit = Ghoul.
   - *Pouvoir en action* : trajectoires en arc vers des surfaces, grab au contact.
   - *Add-ons* : palette tombée détruite au 3e bond (Iridescent Eye Patch selon le seed).
-  - *Stratégie probable* : snowball en début de partie (un grab gratuit par chase), puis pression par blessures multiples. Le tunnel est facilité par sa mobilité (EXPERT OPINION).
+  - *Stratégie probable* : snowball en début de partie (un grab gratuit par chase), puis pression par blessures multiples. Le tunnel est facilité par sa mobilité (HEURISTIC ; anciennement « EXPERT OPINION », non sourcée).
 - **Ce qu'il cherche en chase** (HEURISTIC) : une LOS sur vous à ≤ 14 m en dehors d'un tile. **Le premier coup est quasi garanti** si vous êtes surpris en open. Ensuite, contre un survivant marqué, il redevient un M1 à 4,6 m/s avec des vaults accélérés et des bonds par-dessus les palettes posées.
 - **Tiles / structures** (HEURISTIC) :
-  - *Favorables* : tiles hauts et fermés (murs pleins, shacks) qui coupent la LOS ; zones à plafond bas où les bonds sur surfaces sont maladroits (EXPERT OPINION).
+  - *Favorables* : tiles hauts et fermés (murs pleins, shacks) qui coupent la LOS ; zones à plafond bas où les bonds sur surfaces sont maladroits (HEURISTIC, non sourcée ; en tension avec « un étage lui profite » ci-dessous : le plafond bas gêne la visée, l'étage ouvre des bonds verticaux).
   - *Défavorables* : l'open, les tiles bas (rochers, petites palettes), les fenêtres isolées (il les traverse au bond).
   - *Palettes* : **ne comptez pas sur une palette posée pour gagner une boucle** s'il lui reste des tokens, il la saute. Posez-la tard, pour le stun ou pour forcer une dépense, pas pour boucler autour (HEURISTIC). En Enragé, la casser lui coûte 2 tokens (seed).
   - *Verticalité* : un étage lui profite (bonds vers le haut ou le bas). Un toit n'est pas un refuge.
 - **Mindgames propres** (HEURISTIC) : viser une surface derrière vous plutôt que vous-même pour couper le tile ; retenir un token pour la sortie de palette ; feinter le bond.
 - **Counterplay** :
   - *Mécanique* : **cassez la LOS au moment où il vise**. Esquive latérale tardive au bond (le seed parle d'une visée moins magnétique après nerfs, UNCERTAIN). Après la marque, jouez-le comme un M1 et **dépensez ses tokens** (faites-le bondir inutilement), puis exploitez sa recharge (HEURISTIC).
-  - *Positionnel* : ne réparez pas en open visible de loin et gardez un tile fermé à ≤ 10 m (HEURISTIC).
+  - *Positionnel* : ne réparez pas en open visible de loin et gardez un tile fermé à proximité (« ≤ 10 m » : ordre de grandeur HEURISTIC dérivé de la portée de bond de 14 m [SEED] UNCERTAIN, pas une distance de sécurité mesurée).
   - *Macro* : sa mobilité rend la pression 3-gen et le « gen kick » mobiles, donc complétez des gens espacés. Un soin rapide des survivants marqués réduit l'Enragé si le soin retire la marque, comme l'affirme le seed (UNCERTAIN).
   - *Équipe* : il arrive vite sur les décrochages. Décrochez quand il est engagé loin, pas quand il vient de se déplacer au bond (HEURISTIC).
 - **Habitudes punissables / erreurs** (HEURISTIC) : traverser l'open « parce que le TR est loin » (il couvre 14 m par bond, en chaînes) ; compter sur une fenêtre isolée ; poser une palette tôt en pensant l'avoir bloqué.
@@ -125,7 +129,7 @@ Couverture web : 0 élément vérifié par recherche / 7 non re-vérifiés (quot
   - *Fenêtres vs palettes* : classiques. Le projectile punit les vaults prévisibles en fin de boucle.
 - **Mindgames propres** (HEURISTIC) : faux lancer (windup de 1 s annulé) ; sortie de porte Undetectable juste à côté d'un gen ; hache plantée près d'un gen ou d'une porte comme piège d'info.
 - **Counterplay** :
-  - *Mécanique* : esquive latérale **au moment du relâchement**, pas au début du windup. Surveillez sa vitesse : **sans hache, il est plus rapide mais sans projectile**. C'est le moment de gagner de la distance en boucle, pas de se découvrir en open (HEURISTIC).
+  - *Mécanique* : esquive latérale **au moment du relâchement**, pas au début du windup. Surveillez sa vitesse : **sans hache, il est plus rapide mais sans projectile**. Calcul ([SEED] 4,4 / 4,6 m/s contre 4,0 [AUDIT]) : avec la hache il reprend 0,4 m/s (10 m en 25 s), sans la hache 0,6 m/s (10 m en 16,7 s) → sans hache, tu **perds** de la distance plus vite en ligne droite ; ce n'est pas le moment de « gagner de la distance » en open, mais de **jouer la boucle** (plus de menace à distance, les tiles valent comme contre un M1) (HEURISTIC).
   - *Positionnel* : évitez de réparer dans le champ d'une porte récemment utilisée et ne restez pas dans une zone de hache plantée (révélation).
   - *Macro* : les caméras sont une **ressource d'équipe partagée avec le tueur** (batterie commune). Ne les consommez pas « pour voir », seulement quand l'info change une décision (chase en cours, tueur qui porte quelqu'un, sauvetage). Retirez la hache plantée au plus vite : un survivant Broken est une cible de tunnel (seed + HEURISTIC).
   - *Équipe* : un allié qui retire la hache met 5 s contre 8 s seul (seed). En SWF, le plus proche va retirer la hache pendant que le tueur est engagé ailleurs.
@@ -166,17 +170,17 @@ Couverture web : 0 élément vérifié par recherche / 7 non re-vérifiés (quot
 - **Counterplay** :
   - *Mécanique* : changez de direction contre la glande principale, puis cassez la LOS contre les mini-glandes. Contre le fouet, gardez de la distance, sa fenêtre de traversée est courte (seed). **Surveillez votre palier de Leech** : sous le palier I, le fouet ne blesse pas (seed-NRV), ce qui change totalement la valeur de la chase.
   - *Positionnel* : restez près d'un champignon quand votre jauge monte, et repérez les champignons en début de partie.
-  - *Macro* : mangez un champignon **avant** de franchir un palier, pas après. Le palier II rend blessé et Broken sans coup (seed). Le crochet remet le Leech à zéro selon le seed (UNCERTAIN) : ne gaspillez pas de champignon juste avant un crochet probable (SITUATIONAL).
+  - *Macro* : mangez un champignon **avant** de franchir un palier, pas après. Le palier II rend blessé et Broken sans coup (seed). Le crochet remet le Leech à zéro selon le seed (hotfix 9.2.2 **absent du résumé 9.2.2 de l'audit**, qui ne cite qu'Off the Record → NON VÉRIFIABLE) : « ne gaspillez pas de champignon juste avant un crochet probable » ne vaut **que si** ce reset existe. Si le reset n'existe pas, garder une jauge haute au crochet laisse le décroché près d'un palier dès sa libération. Tant que ce n'est pas vérifié, ne pas planifier dessus : manger quand c'est sûr, sans compter sur le crochet pour « nettoyer » (SITUATIONAL).
   - *Équipe* : le soin est inutile au palier II (Broken) : faites d'abord baisser la jauge.
 - **Habitudes punissables / erreurs** (HEURISTIC) : ignorer la jauge ; boucler une palette contre la tête comme contre un M1 ; courir en ligne droite contre la glande ; oublier qu'un TR 40 m peut être la tête **loin du corps**.
-- **Adaptations avancées** (HEURISTIC) : l'absence de Bloodlust en Head Form (FACT, audit) rend les **chases longues relativement plus viables contre la tête** que contre un tueur avec Bloodlust. En revanche, le counterplay « palettes » habituel échoue, puisqu'elle les vaulte. Privilégiez les tiles à murs et fenêtres qu'elle doit contourner, et les stuns ponctuels.
+- **Adaptations avancées** (HEURISTIC) : l'absence de Bloodlust en Head Form (FACT, audit) rend les **chases longues relativement plus viables contre la tête** que contre un tueur avec Bloodlust — mais seulement au-delà d'une certaine durée. Calcul [AUDIT] : la tête va à 4,8 m/s dès le départ, soit la vitesse d'un tueur à 4,6 m/s au palier I de Bloodlust (+0,2 m/s à 15 s). Contre un tueur à 4,6 m/s, la tête est donc **plus rapide** pendant les 15 premières secondes, égale entre 15 et 25 s, plus lente seulement après 25 s (+0,4 → 5,0 m/s) et 35 s (5,2 m/s). Elle reprend 0,8 m/s sur toi (10 m en 12,5 s, contre 16,7 s pour un tueur à 4,6 m/s sans Bloodlust). Donc : contre la tête, les **premières secondes** sont les plus dangereuses, et « étirer » ne paie qu'une fois la chase longue installée ; rappel : un tueur perd sa Bloodlust en utilisant son pouvoir [AUDIT]. En revanche, le counterplay « palettes » habituel échoue, puisqu'elle les vaulte. Privilégiez les tiles à murs et fenêtres qu'elle doit contourner, et les stuns ponctuels.
 - **Add-ons qui changent la décision** (seed-NRV) :
   - Chicken Head (tous Leeched I au départ, +2 champignons) → **le fouet blesse dès la première chase** : prenez un champignon tôt ou jouez sur une distance plus longue.
   - Shredded Gown (aura près des champignons) → mangez vite, et pas en présence d'un TR proche.
   - Queen's Sceptre (le fouet fait apparaître une glande) → après un fouet, attendez-vous à un projectile de suivi : cassez la LOS.
   - Janjira's Hand (recharge du vol à la complétion des gens) → après un gen terminé, attendez-vous à son arrivée rapide.
 - **Implications de carte** (HEURISTIC) : forte sur les maps ouvertes à murs proches (rebonds). Les maps denses en palettes perdent de la valeur contre la Head Form.
-- **Perks fréquentes** (seed-NRV) : Pain Resonance, Dissolution, Pop Goes the Weasel, No Way Out / Ravenous. → Contre Dissolution, ne vaultez pas une palette dans sa zone proche si la perk est confirmée (SITUATIONAL). Ravenous : à 4 tokens, tous les survivants crient et sont Exposed (seed-NRV).
+- **Perks fréquentes** (seed-NRV) : Pain Resonance, Dissolution, Pop Goes the Weasel, No Way Out / Ravenous. → Contre Dissolution, ne vaultez pas une palette dans sa zone proche si la perk est confirmée (SITUATIONAL). Ravenous : à 4 tokens, tous les survivants crient et sont Exposed (seed-NRV ; ⚠ valeurs du seed ch8 SUSPECTES PTB-comme-LIVE, CONFLICT-K96-01).
 - **Écart avec le seed** : vitesses et TR **OK** (audit). « Pas de Bloodlust » **OK** pour la Head Form (audit). Date **OK**. Hotfix 9.2.2 : NON VÉRIFIABLE. « N°1 en kill rate MMR élevé selon BHVR » : **OK sur le fond** (audit : « kill Krasue (high) », KB 540), mais le classement « n°1 » et les chiffres ne sont pas publiés en texte. Tier et NightLight : HEURISTIC / non vérifiés.
 - **Sources** : [1], [2].
 
@@ -197,10 +201,10 @@ Couverture web : 0 élément vérifié par recherche / 7 non re-vérifiés (quot
   - *Avant le reveal* : 4,4 m/s ; un TR qui **disparaît d'un coup** = Upside Down (Undetectable).
   - *Pouvoir en action* : charge lente puis lianes au sol ; anneaux rouges d'Undergate ; horloges sur la map.
   - *Add-ons* : Upside Down beaucoup plus fréquent (Pizza Goggles, seed) ; lianes à 2 charges (Chess Piece, seed).
-  - *Stratégie probable* : accumuler des tokens sur plusieurs survivants, puis exploiter la fenêtre Worldbreaker. Pression de gens avec Turn Back the Clock et Pop (EXPERT OPINION).
+  - *Stratégie probable* : accumuler des tokens sur plusieurs survivants, puis exploiter la fenêtre Worldbreaker. Pression de gens avec Turn Back the Clock et Pop (build du seed, [SEED] UNCERTAIN ; HEURISTIC — anciennement « EXPERT OPINION », non sourcée).
 - **Ce qu'il cherche en chase** (HEURISTIC) : prédire votre position aux sorties de palette et de fenêtre (zone retardée). Hors Worldbreaker, les lianes donnent des tokens, pas des blessures (seed) : il construit sa phase de dégâts.
 - **Tiles / structures** (HEURISTIC) :
-  - *Favorables* : boucles longues où sa vitesse de 4,4 m/s (FACT) le pénalise ; tiles offrant **plusieurs sorties** qui rendent la prédiction de zone difficile.
+  - *Favorables* : boucles longues où sa vitesse de 4,4 m/s (FACT, audit 9.4.0) le pénalise — il reprend 0,4 m/s au lieu de 0,6 (10 m en 25 s au lieu de 16,7 s), avant Bloodlust (+0,2 m/s à 15 s, perdue quand il utilise son pouvoir [AUDIT]) ; tiles offrant **plusieurs sorties** qui rendent la prédiction de zone difficile.
   - *Défavorables* : tiles à sortie unique, couloirs étroits (zone facile à placer), palettes « cassables » par les lianes.
   - *Verticalité* : peu documentée (UNCERTAIN).
 - **Mindgames propres** (HEURISTIC) : charger la liane sur la sortie de palette probable ; attendre le double-vault ; sortir de l'Upside Down derrière un tile.
@@ -208,9 +212,9 @@ Couverture web : 0 élément vérifié par recherche / 7 non re-vérifiés (quot
   - *Mécanique* : **feintes de vault et changements de direction tardifs**. La zone vise là où vous allez (seed). Quand l'anneau d'Undergate s'étend, sortez vite ou prenez un casier (seed).
   - *Positionnel* : hors Worldbreaker, bouclez longtemps en exploitant sa lenteur (seed + HEURISTIC). En Worldbreaker, raccourcissez la chase et coupez la LOS, puisque chaque liane blesse.
   - *Macro* : suivez les tokens de l'équipe. Un survivant à 4 tokens au 2e crochet risque la **mise à mort directe** (Mind Break, seed) : priorité de sauvetage et d'anti-tunnel.
-  - *Équipe* : **un seul survivant sur les horloges**, les autres sur les gens (seed : les ajouts n'aident presque pas, UNCERTAIN).
+  - *Équipe* : **un seul survivant sur les horloges**, les autres sur les gens (seed : les ajouts n'aident presque pas, UNCERTAIN). SWF : désigner au vocal. SoloQ : si un coéquipier est déjà sur une horloge (aura, icône d'action), rester sur ton gen ; les horloges n'accélèrent que la phase 1 (seed).
 - **Habitudes punissables / erreurs** (HEURISTIC) : vaulter « par réflexe » à la même sortie ; ignorer la disparition du TR (ambush Upside Down) ; envoyer toute l'équipe aux horloges ; laisser un survivant cumuler 4 tokens avant son 2e crochet.
-- **Adaptations avancées** (HEURISTIC) : le counterplay « exploiter sa vitesse de 4,4 m/s » **échoue en Worldbreaker**, où la liane devient une attaque blessante. Changez de plan au déclenchement : cherchez un tile à murs hauts plutôt qu'une longue boucle, et pensez distance plutôt que durée de chase. Le cooldown de 35 s de l'Upside Down (seed) donne une fenêtre de sécurité mesurable après chaque usage.
+- **Adaptations avancées** (HEURISTIC) : le counterplay « exploiter sa vitesse de 4,4 m/s » **échoue en Worldbreaker**, où la liane devient une attaque blessante. Changez de plan au déclenchement : cherchez un tile à murs hauts plutôt qu'une longue boucle, et pensez distance plutôt que durée de chase. Le cooldown de 35 s de l'Upside Down (seed, UNCERTAIN) donne, après chaque usage, une fenêtre **sans embuscade Upside Down** — pas une fenêtre sans danger (lianes et M1 restent disponibles ; Pizza Goggles la raccourcit).
 - **Add-ons qui changent la décision** (seed-NRV) :
   - Iridescent Soteria Chip (Undetectable au déclenchement du Worldbreaker, auras à 12 m) → au déclenchement, **quittez les gens proches** et ne comptez plus sur le TR.
   - Pizza Goggles (Upside Down plus fréquent) → la fenêtre de sécurité de 35 s n'existe plus : répartissez-vous sur la map.
@@ -224,7 +228,7 @@ Couverture web : 0 élément vérifié par recherche / 7 non re-vérifiés (quot
 
 ## 43. The Slasher (Jason Voorhees) — archétype(s) : furtif | mobilité | ranged (pics) | anti-loop
 
-- **Version** : 10.0.0 « Jason » (CHAPTER 40), 16/06/2026 (audit phase 0). **10.0.2 / 10.0.3** (06/07 et 21/07/2026) : ajustements d'add-ons (audit phase 0, sans détail). Nouvel état **Impaled** (audit phase 0). Statut LIVE.
+- **Version** : 10.0.0 « Jason » (CHAPTER 40), 16/06/2026 (audit phase 0). **10.0.2 / 10.0.3** (06/07 et 21/07/2026) : ajustements d'add-ons (audit phase 0, sans détail ; l'audit groupe les deux patchs sur une ligne et ne dit pas lequel porte les ajustements — 10.0.3 y est associé au Chaos Shuffle et à Lights Out). Nouvel état **Impaled** (audit phase 0). Statut LIVE.
 - **Données LIVE** :
   - 4,4 m/s ; 8,0 m/s en Omnipresent Evil ; TR 32 m (**audit phase 0**). Taille moyenne (seed-NRV).
   - Perks enseignables (audit phase 0) : Hex: Scared to Death, Silent Shadow, Rampage.
@@ -239,7 +243,7 @@ Couverture web : 0 élément vérifié par recherche / 7 non re-vérifiés (quot
   - *Stratégie probable* : « fog of regression » (Pop / Surge / Pain Resonance + Corrupt, seed), tunnel via Finisher au dernier crochet (HEURISTIC).
 - **Ce qu'il cherche en chase** (HEURISTIC) : réapparaître **sur la palette ou la fenêtre** que vous alliez utiliser, puis gagner la chase courte grâce à la Haste de 25 s. Hors pouvoir, pics à distance sur un survivant sain qui arrive à une palette.
 - **Tiles / structures** (HEURISTIC) :
-  - *Favorables* : zones sans palette ni fenêtre à ≤ 16 m (il ne peut réapparaître que sur ces éléments, seed) ; tiles de LOS contre les pics.
+  - *Favorables* : **pendant qu'il est en Omnipresent Evil**, zones sans palette ni fenêtre à ≤ 16 m (il ne peut réapparaître que sur ces éléments, seed) ; tiles de LOS contre les pics. Limite : une zone sans palette ni fenêtre est une zone morte dès qu'il redevient visible et te chase à 4,4 m/s : ce n'est un refuge que contre le Jump Scare, pas en chase normale.
   - *Défavorables* : tiles denses en palettes et fenêtres, précisément ses points d'apparition ; murs proches (épinglage).
   - *Fenêtres vs palettes* : les deux sont des points de Jump Scare. Iridescent Boat Motor bloque en plus les fenêtres marquées (13 s, seed).
 - **Mindgames propres** (HEURISTIC) : entrer en Omnipresent Evil pour simuler un départ, puis revenir ; Jump Scare sur la palette de sortie ; garder un pic pour la fin de boucle.
@@ -385,7 +389,7 @@ Couverture web : 0 élément vérifié par recherche / 7 non re-vérifiés (quot
 | Judgment, Heresy | 3 gestes à 10 m ; porte bloquée 8 s | 3 accroupissements ou gestes < 10 m ; 8 s si acquise < 32 m ; purge Repent au Shrine (audit) | IMPRÉCIS (omission de la purge) |
 | Judgment, Exile | −3 s, +0,5 s/âme, 10, mort à 2 états, pas de perks de crochet | Idem (audit) | OK |
 | Judgment, réapparition des exilés | Non mentionnée | ≥ 32 m depuis 10.1.2 (audit) | IMPRÉCIS (omission) |
-| Ghoul, > 60 % kill BHVR | Oui | Aucun chiffre ; Ghoul = pick rate (audit) | FAUX / non étayé (CONFLICT-B4G6-01) |
+| Ghoul, > 60 % kill BHVR | Oui | Aucun chiffre ; Ghoul = pick rate (audit) | NON ÉTAYÉ, pas prouvé faux (infographie non lue ; CONFLICT-B4G6-01 ; aligné sur BATCH_2_4_SYNTHESIS) |
 | Ghoul, 3e bond + add-on casse une palette | Iridescent Eye Patch | Liste wiki.gg Pallets (audit, STRONG_SECONDARY) | OK |
 | Ghoul, TR 40 m, nerf 8.6.2, magnétisme 9.5.0 | — | Non couvert | NON VÉRIFIABLE |
 | Houndmaster, toutes valeurs | — | Non couvert par l'audit | NON VÉRIFIABLE |
