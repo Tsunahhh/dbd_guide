@@ -326,3 +326,129 @@ FACT [VMS] (notes 9.1.0 + wiki).
 
 Objets d'événements ou de modes spéciaux (Candelabra, Lantern, Blood Can, Void Crystal, Invoking Salt, Fog Crystal, Pocket / Fragile Mirror, Searcher's Pendant, Antidote 2v8) : présents dans le wiki mais **hors 1v4 standard**. Non détaillés.
 
+---
+
+## 3. Offrandes
+
+### 3.1 Règles LIVE
+
+- **Offrandes de royaume / carte (9.0.0)** : chance **fixe de 20 %** d'aller dans le royaume ou sur la carte ciblée. **Les doublons brûlés par plusieurs joueurs ne se cumulent plus** (FACT [VMS]). Elles ne « garantissent » plus rien.
+- **Offrandes secrètes (9.0.0)** : la plupart des offrandes qui modifient la partie sont **secrètes** (face cachée à l'écran d'offrandes et dans Match Details, révélées au Tally) : Blueprints, Coins, Luck **personnelle**, Reagents, royaume / carte, Shrouds, Wards **sauf** Sacrificial Ward. Les Luck « pour tous » restent visibles (FACT [VMS]).
+- **Conflits** : entre offrandes de raretés différentes qui s'opposent, la plus rare brûle et les autres sont rendues ; à rareté égale, **toutes** rebondissent (sauf offrandes de carte). Les offrandes qui se cumulent « tremblent » à l'écran (FACT [SS]).
+- **Remboursement** si la partie est annulée (déconnexion au chargement ou dans la 1re minute) (FACT [SS]).
+- **Sacrificial Ward** : rejette les offrandes de royaume / carte **des autres joueurs**, sauf si tous les autres brûlent la **même** offrande. Il ne bloque **pas** un royaume : le tirage aléatoire peut encore y mener (FACT [SS]).
+- **Apparition (9.0.0)** : par défaut, les survivants apparaissent **à ≤ 12 m les uns des autres et au même étage** « when possible ». Shroud of Binding → **Shroud of Separation** (survivants séparés). L'ancienne Shroud of Separation du tueur → **Shroud of Vanishing** (rejette toutes les offrandes d'apparition des survivants) (FACT [VMS]).
+- **Luck (9.0.0)** : hors 2 survivants restants ou perk (Slippery Meat, Up the Ante), **une offrande de Luck est la seule façon de débloquer les tentatives d'auto-décrochage** au 1er palier. Base **4 %** par tentative, 3 tentatives max, chaque échec retire **20 s** au palier (FACT [VMS], notes 9.0.0 + wiki Hooks / Luck).
+- **BP** : les offrandes de BP s'appliquent **après** le plafond de 10 000 par catégorie (FACT audit SS). Les offrandes de BP ne modifient pas la partie.
+
+### 3.2 Quelles offrandes comptent vraiment (survivant)
+
+| Offrande | Effet LIVE | Secrète ? | Verdict (HEURISTIC) |
+|---|---|---|---|
+| **Vigo's Shroud** | Vous apparaissez **le plus loin possible du tueur** | Oui | **Forte en SoloQ** : évite d'être la première cible au spawn. Annulée par Shroud of Vanishing |
+| **Shroud of Separation** | Tous les survivants apparaissent séparés | Oui | **Utile** si l'équipe veut 4 gens d'emblée. Coûte la coordination du début (soins, info) |
+| Shroud of Union | Vous commencez avec un autre survivant | Oui | **Presque redondante** depuis 9.0.0 : le spawn par défaut regroupe déjà à ≤ 12 m |
+| Luck personnelle (Chalk / Cream / Ivory Chalk Pouch : +1/2/3 %) | Débloque vos auto-décrochages | Oui | **Assurance SoloQ** (camp, personne ne vient). CALC : 4 + 3 = 7 % par essai → **≈ 20 %** sur 3 essais, pour −60 s de palier si tout échoue |
+| Luck pour tous (Salt Pouch, Black Salt Statuette, Vigo's Jar of Salty Lips : +1/2/3 %) | Débloque les auto-décrochages de **tous** | **Non** | Même logique, pour l'équipe ; visible par le tueur |
+| White Ward | Objet protégé en cas de mort ; add-ons conservés (mort ou évasion) | Oui | Pour un objet rare ou des add-ons Visceral |
+| Black Ward | Add-ons non consommés | Oui | Idem, add-ons seuls |
+| Royaume / carte (20 %) | 20 % vers le royaume ciblé | Oui | **Faible** : 80 % de chances de ne rien changer. Utile seulement pour « tenter » une carte d'entraînement |
+| Sacrificial Ward | Rejette les offrandes de royaume des autres | **Non** | Anti-offrande de carte du tueur, avec les limites ci-dessus |
+| Annotated / Vigo's Blueprint | Trappe plus probable près du Killer Shack / du bâtiment principal (+100 % de probabilité) | Oui | Niche (builds trappe) |
+| Shiny / Tarnished Coin (+2 / +1 coffre), Cut / Scratched (−2 / −1) | Nombre de coffres | Oui | Pour builds coffres (§4) |
+| Clear Reagent (brouillard −50 %) | Carte plus lisible | Oui | Faible (confort) |
+| Escape! Cake, Survivor Pudding (+100 % pour vous), Bloody Party Streamers (+100 % pour tous), Bound Envelope (+25 % pour les survivants), Hollow Shell / Sealed Envelope (+25 %), fleurs (+50/75/100 % par catégorie) | BP | Non | Aucun effet sur la partie. Streamers : cumul entre plusieurs Streamers **UNCERTAIN** (non indiqué sur la page) |
+
+Effets : FACT [SS] (page Offerings, lue en entier) ; règles 9.0.0 : FACT [VMS].
+
+### 3.3 Offrandes du tueur que le survivant doit connaître
+
+| Offrande | Effet LIVE (FACT [SS]) | Conséquence pour le survivant (HEURISTIC) |
+|---|---|---|
+| Ivory / Ebony Memento Mori (secrètes) | Tuer **un / tous** les survivants ayant **2 paliers de crochet**, une fois au sol | Sur le « death hook », **être mis au sol = mourir** : pas de wiggle, flash save ni sabotage possible. Joue plus prudemment à 2 paliers |
+| Mouldy / Rotten / Putrid Oak (−1,5 / −2,5 / −3,5 m) ; Petrified Oak (+1 m) | Distance minimale entre crochets | Crochets plus serrés = sabotage et wiggle moins efficaces |
+| Bloodied / Torn Blueprint | Sous-sol plus probable dans le Killer Shack / le bâtiment principal ; aura des crochets du sous-sol 20 s pour le tueur | Plan « sous-sol » : crochets **insabotables** |
+| Faint / Hazy / Murky Reagent | Brouillard +25 / 50 / 75 % | Visibilité réduite des deux côtés |
+| Shroud of Vanishing | Annule vos Shrouds | Si « votre Shroud n'a pas marché » |
+| Offrandes de royaume du tueur | Mêmes règles (20 %, non cumulables) | — |
+
+---
+
+## 4. Économie : coffres, rentabilité des objets
+
+### 4.1 Coffres (FACT [SS] sauf mention)
+
+- **3 coffres par défaut** : 2 aléatoires + **1 au sous-sol** (au fond, ou derrière le mur de casiers). Minimum **48 m** entre deux coffres (2.5.0). De **1 à 13** coffres selon Coins et Hoarder.
+- Ouvrir **ou** fouiller : **8 charges** à 1 c/s = **8 s** (10 → 8 s en 8.4.0), progression partielle conservée, bruit audible à **20 m**. Le tueur peut **saisir** un survivant qui ouvre un coffre.
+- La rareté de l'objet est décidée par **celui qui termine** l'ouverture.
+- Probabilités publiées par le wiki (**source : étude Reddit de 800+ coffres, juin 2019**) :
+
+| Rareté | Sans perk | Plunderer's Instinct |
+|---|---|---|
+| Common | 43 % | 14 % |
+| Uncommon | 33 % | 18 % |
+| Rare | 16 % | 22 % |
+| Very Rare | 5 % | 31 % |
+| Ultra Rare | 2 % | 15 % |
+
+| Type | Sans perk | Plunderer's |
+|---|---|---|
+| Med-Kits | 37 % | 23 % |
+| Toolboxes | 37 % | 37 % |
+| Flashlights | 16 % | 16 % |
+| Keys | 7 % | 14 % |
+| Maps | 2 % | 10 % |
+
+  - **Statut : HISTORICAL / COMMUNITY_OBSERVATION**, pas LIVE vérifié. L'étude date de 2019 : elle est antérieure aux **Fog Vials** (absentes du tableau), à la refonte Keys / Maps (9.1.0) et au passage de Plunderer's à +50 % fixe (8.4.0).
+- **Perks de coffre LIVE** :
+  - **Plunderer's Instinct** (LIVE = 8.4.0) : auras des coffres fermés, des objets dans les coffres ouverts et des objets au sol dans **32/48/64 m** ; **+50 %** de chances d'objets plus rares. Ne touche pas la Luck. *PTB 10.2.0 : portée illimitée + ouverture 150/175/200 % plus rapide — non LIVE.*
+  - **Appraisal** (LIVE = 9.1.0) : **4 jetons**, fouiller un coffre ouvert et vide pour un objet de plus, **2 fois par coffre** ; fouille +40/60/80 %.
+  - **Pharmacy** (LIVE = 9.2.0) : ouverture et fouille +75/100/125 %, bruit −12 m, **Emergency Med-Kit garanti**, une fouille par coffre.
+  - **Ace in the Hole** : objets de coffre livrés avec 1 add-on (Visceral ou moins) + 50/75/100 % de chance d'un 2e (Uncommon ou moins) ; conserve les add-ons de l'objet tenu à l'évasion.
+  - **Streetwise** : +60/70/80 % de charges pour les objets de coffre.
+  - **Residual Manifest / Scavenger** : une fouille par partie d'un coffre ouvert, lampe de base / toolbox de base garantie.
+  - Contre (tueur) : **Hoarder** (bruit fort 4 s à l'ouverture d'un coffre ou au ramassage d'un objet dans 32/48/64 m, +2 coffres), **Human Greed** (Dracula : refermer les coffres ouverts, auras près des coffres fermés).
+
+### 4.2 Clé + coffre (refonte 9.1.0)
+
+- Dull / Skeleton Key : **1 charge = 1 objet Rare+ pour vous + 1 objet Rare+ pour un allié** qui fouille le même coffre (FACT [VMS]).
+- CALC : Rare+ sans clé = 16 + 5 + 2 = **23 %** (données 2019) ; avec la clé = **100 %**.
+- HEURISTIC : en SWF, une Skeleton Key **équipe l'équipe** en début de partie (kit Emergency, Commodious, Vigo's Fog Vial…). L'allié paie tout de même le temps de fouille.
+
+### 4.3 Rentabilité d'un objet, en secondes-survivant
+
+Modèle : un objet « rapporte » les s-surv qu'il fait gagner, moins ce qu'il coûte (trajet, action, risque). **Tous les chiffres ci-dessous sont des CALC sur des FACT [SS], puis des HYPOTHESIS pour l'usage réel** (Great ignorés sauf mention, bonus supposés additifs, aucune pénalité du tueur).
+
+**Toolbox** : gain = C × b / (1 + b) (C = charges, b = bonus de vitesse ; C charges versées en C/(1+b) s au lieu de C s).
+
+| Configuration | C | b | Gain par toolbox pleine |
+|---|---|---|---|
+| Alex's (18) | 18 | 0,10 | **1,6 s** (24 charges : 2,2 s) |
+| Worn-Out Tools | 16 | 0,50 | 5,3 s |
+| Toolbox | 20 | 0,50 | 6,7 s |
+| Mechanic's | 16 | 0,75 | 6,9 s |
+| Engineer's | 16 | 1,00 | 8,0 s |
+| Commodious | 32 | 0,50 | **10,7 s** |
+| Commodious + Socket Swivels | 32 | 0,80 | 14,2 s |
+| Commodious + Socket Swivels + Clean Rag | 32 | 1,00 | 16,0 s |
+| Commodious + Socket Swivels + Wire Spool | 44 | 0,80 | **19,6 s** |
+| Commodious + Socket Swivels + Brand New Part (réussie) | 32 | 0,80 | 14,2 + 10 = **24,2 s** |
+
+- Great avec toolbox (HYPOTHESIS) : 40 %/s pendant ~21 s (Commodious) ≈ 8,5 tests. Tous en Great : +8,5 % ≈ **+7,7 charges**, contre ~2,3 sur la même progression sans toolbox. Gain supplémentaire ≈ **+5 s**, mais aussi **5 fois plus de ratés possibles** (−10 % et bruit fort chacun).
+- **Built to Last** (HYPOTHESIS) : 8-12 s de casier pour recharger 99 % d'une Commodious (~10,6 s de gain) → **gain net ≈ 0 à +3 s**, davantage avec add-ons (Socket Swivels : ~+6 s). Rentable surtout quand le casier sert **déjà** à se cacher.
+- Alex's Toolbox : quasi nulle en réparation ; sa valeur est dans les sabotages (§5.4).
+
+**Med-Kit** :
+- Soin d'un allié (1 état) : sans kit 16 s × 2 survivants = 32 s-surv ; Ranger ~10,7 × 2 = 21,3 s-surv → **~10,7 s-surv gagnées par état**, ~16 par kit de base (1,5 état), ~27 avec Gel Dressings (2,5 états).
+- Auto-soin : 24 s-surv, contre 32 s-surv + trajet pour un soin mutuel sans kit → **≥ 8 s-surv gagnées, plus le trajet**, sans dépendre d'un allié.
+
+**Coffre** (HYPOTHESIS) :
+- Coût : 8 s + trajet (souvent 10-20 s) ≈ **18-28 s-surv**.
+- Rendement : 43 % de Common (données 2019). Une Worn-Out Tools rapporte ~5 s ; un Camping Aid Kit, surtout de l'autonomie.
+- → Ouvrir un coffre est **rentable** si vous n'avez **pas d'objet**, si le coffre est **sur votre trajet**, avec Plunderer's ou une clé, ou pour **un kit** (auto-soin) contre un tueur qui blesse souvent. Sinon, le gen rapporte plus.
+
+**Lampe / Fog Vial / Map / Key** : gains non chiffrables proprement (HYPOTHESIS) :
+- Un flash save réussi **annule un crochet** (≈ un palier de 70 s de pression du tueur, plus le trajet d'un sauveteur). Une tentative ratée coûte **20-40 s-surv** d'un joueur qui ne répare pas.
+- Une Fog Vial vaut ce que vaut **une ligne de vue cassée** : de 0 (espace ouvert) à une chase entière (perte du tueur).
+- Map et Key valent l'**information** : utiles surtout si elles évitent un trajet inutile ou le 3-gen.
+

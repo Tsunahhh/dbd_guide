@@ -1,25 +1,23 @@
 # Lot 4 — Fiches tueur vues du survivant, groupe 5 (tueurs 31 à 37)
 
-> **Statut : WRITTEN + AUDITED (audits adversariaux §25-26 du 27/09/2026, sans web) — voir kb/audit/pass14_lot4_g4-g6.md**
+> **Statut : WRITTEN + AUDITED (audits adversariaux §25-26 du 27/09/2026) + RE-VÉRIFIÉ (lot 12b, 27/09/2026) sur pages wiki complètes et notes officielles BHVR locales** — voir kb/audit/pass14_lot4_g4-g6.md
 >
-> Rappels de l'audit : toutes les consignes sont des **HEURISTIC** (option par défaut, à varier contre un tueur qui l'anticipe) ; le **pré-drop n'est pas universel** (KCH §2.2) ; **2v8 ≠ 1v4** (Good Guy : seuls les buffs 9.4.2 sont prouvés 2v8 ; sa capacité à casser les palettes en 1v4 reste UNRESOLVED) ; les lignes « Équipe » supposant des rôles demandent le vocal (SWF).
+> Rappels de l'audit : toutes les consignes sont des **HEURISTIC** (option par défaut, à varier contre un tueur qui l'anticipe) ; le **pré-drop n'est pas universel** (KCH §2.2) ; **2v8 ≠ 1v4** (Good Guy : la casse de palette par Scamper est une Innate Skill **2v8** ; en 1v4 elle n'existe qu'avec l'add-on **Hard Hat** — RÉSOLU, CONFLICT-L4G5-03) ; les lignes « Équipe » supposant des rôles demandent le vocal (SWF).
 
-Couverture web : 0 élément vérifié par recherche / 7 tueurs (toutes leurs valeurs chiffrées) non re-vérifiés (quota WebSearch épuisé). Seuls les faits [AUDIT] (historique des patchs de la phase 0) ont une confiance supérieure à UNCERTAIN.
+Couverture : 7/7 tueurs re-vérifiés sur page wiki complète (27/09/2026), dont 28 points confirmés par note officielle.
 
-- Référence : LIVE 10.1.2a (17/09/2026) ; PTB 10.2.0 (15-21/09/2026) **non LIVE**. Mode 2v8 = jamais utilisé comme valeur 1v4.
+- Référence : LIVE 10.1.2a (17/09/2026) ; PTB 10.2.0 (15-21/09/2026) **non LIVE** (les descriptions de perks du wiki marquées « upcoming Patch 10.2.0 » n'ont pas été reprises). Mode 2v8 = jamais utilisé comme valeur 1v4.
 - Périmètre : Skull Merchant, Singularity, Xenomorph, Good Guy, Unknown, Lich, Dark Lord (seed `kb/seed/ch8_killers.txt` l. 1419-1663).
-
-> **AVERTISSEMENT DE VÉRIFICATION (bloquant)**
-> Aucune recherche WebSearch n'a pu être faite. Dès la première requête, l'outil a répondu « this session has used its web search budget (200 of 200 WebSearch calls) ». WebFetch/curl sont bloqués (brief).
-> Conséquence : **aucune valeur de ce fichier n'est vérifiée en ligne**. Seules les informations tirées de `audit_phase0.txt` (historique des patchs déjà vérifié en phase 0) ont un niveau de confiance supérieur à UNCERTAIN.
-> Ce fichier sert de **squelette survivant** (structure, counterplay heuristique, écarts à vérifier). Il ne remplace pas une fiche vérifiée. Il faut le relancer avec un budget de recherche.
+- Méthode (lot 12b) : pages wiki.gg complètes enregistrées localement (`kb/sources/wiki_killers/*.txt`, extraites via l'API le 27/09/2026) + pages Pallets, Vorpal Sword et Treasure Chest (`kb/tools/wiki_text.py`) + notes officielles BHVR locales (`kb/sources/patches/official_*.txt`). Aucune page n'a été lue via WebSearch.
+- Limites restantes : perks enseignables et builds non re-vérifiés (hors périmètre ; le wiki affiche déjà leurs versions PTB 10.2.0) ; stats NightLight non vérifiables ; aucun avis d'expert sourcé.
 
 ## Légende des étiquettes (propre à ce fichier)
 
-- **[AUDIT]** : fait tiré de `kb/seed/audit_phase0.txt` (patch notes vérifiées en phase 0), non re-vérifié ici. Confiance : celle de l'audit.
-- **[seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN]** : valeur du guide seed, NON VÉRIFIABLE dans cette session (à traiter comme UNCERTAIN).
-- **[connaissance du modèle (antérieure à mi-2026), UNCERTAIN]** : connaissance interne du modèle (antérieure à mi-2026), non sourcée → **UNCERTAIN**. Elle peut être périmée par les patchs 9.x/10.x.
-- **HEURISTIC / SITUATIONAL** : raisonnement de jeu dérivé de la mécanique. Ce ne sont pas des avis d'experts sourcés : **aucune source EXPERT_OPINION n'a pu être consultée**.
+- **[n]** : source numérotée (voir `## Sources`). Pages wiki complètes = **STRONG_SECONDARY** ; wiki + note officielle concordants = **VERIFIED_MULTI_SOURCE** ; note officielle explicite = **VERIFIED_PRIMARY**.
+- **[AUDIT]** : fait tiré de `kb/seed/audit_phase0.txt`, non re-vérifié ici (sauf mention contraire). ⚠ La table « Palettes » de l'audit (« destruction instantanée par pouvoir ») est **corrigée** par ce lot pour le Good Guy (add-on Hard Hat requis) et le Lich (4 s, pas instantané).
+- **[seed, NON RE-VÉRIFIÉ, UNCERTAIN]** : valeur du guide seed non couverte par ce lot (perks, builds, stats) → UNCERTAIN.
+- **[connaissance du modèle, UNCERTAIN]** : connaissance interne du modèle, non sourcée → UNCERTAIN (quelques points résiduels seulement).
+- **HEURISTIC / SITUATIONAL** : raisonnement de jeu dérivé de la mécanique vérifiée. Ce ne sont pas des avis d'experts sourcés : **aucune source EXPERT_OPINION n'a pu être consultée**.
 - Les tiers et notes de menace sont **HEURISTIC**.
 
 ---

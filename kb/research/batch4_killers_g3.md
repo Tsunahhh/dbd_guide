@@ -29,34 +29,47 @@
 ---
 
 ## 16. The Ghost Face (Danny Johnson) — archétype(s) : furtif | M1 | info
-- **Version** : buffs 9.6.0 (28/04/2026, détail non vérifié) + 9.6.1 (05/05/2026) : vitesse accroupi 4,0 m/s [1] — VERIFIED_PRIMARY (via audit). Pas de rework 9.x connu. Statut LIVE.
-- **Données LIVE** :
-  - Vitesse 4,6 m/s — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN ; concorde avec connaissance du modèle (antérieure à mi-2026), UNCERTAIN. Accroupi 4,0 m/s — LIVE, VERIFIED via audit [1]. Calcul P14 : c'est **exactement ta vitesse de course** (4,0 m/s) : en courant tu gardes l'écart sans en gagner ; en marchant (2,26 m/s) il te reprend 1,74 m/s, soit ~17 m en 10 s ; accroupi (1,13 m/s), 2,87 m/s. Marcher pour ne pas laisser de griffures face à un Ghost Face accroupi proche est donc coûteux.
-  - TR 24 m hors Night Shroud — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN (exception à la règle d'origine de l'audit, 32 m pour un tueur à 4,6 m/s : à vérifier). En Night Shroud : Undetectable (pas de TR, pas de red stain) — FACT de principe (mécanique stable de longue date, UNCERTAIN sur détails 2026 ; la définition d'Undetectable est FACT [AUDIT]).
-  - Stalk : remplit une jauge par survivant ; 100 % → Marked = Exposed (60 s — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN). Stalk plus rapide en se penchant (lean) — FACT de principe, facteur exact UNCERTAIN.
-  - Reveal : un survivant qui le garde dans son champ de vision (distance/temps exacts UNCERTAIN) casse Night Shroud et met le pouvoir en recharge (seed : 15 s depuis 9.6.0, avant 17 s) — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN.
+- **Version** : 9.5.0, reveal « plus précis » à 18 m ou moins [16] ; 9.6.0, recharge de Night Shroud 17 → 15 s et Walleye's Matchbook −3 → −2 s [17] ; 9.6.1, vitesse accroupi 3,8 → 4,0 m/s [18]. Confiance : VERIFIED_PRIMARY, concordant avec le change log wiki [4]. La ligne « The Ghostface » de la note 10.1.2 [21] concerne le **2v8 uniquement**. PTB 10.2.0 : aucun changement. Statut LIVE.
+- **Données LIVE** (page wiki [4], STRONG_SECONDARY sauf mention) :
+  - Vitesse 4,6 m/s ; **accroupi 4,0 m/s** (VERIFIED_MULTI_SOURCE [4][18]) ; **TR 24 m** (32 → 24 m au 8.6.0 d'après le change log wiki) ; taille moyenne ; pas de berceuse. Calcul P14 : accroupi, il va **exactement à ta vitesse de course** (4,0 m/s). En courant, tu gardes l'écart sans en gagner. En marchant (2,26 m/s), il te reprend 1,74 m/s, soit ~17 m en 10 s ; accroupi (1,13 m/s), il te reprend 2,87 m/s. Marcher pour ne pas laisser de griffures face à un Ghost Face accroupi proche coûte donc cher.
+  - Night Shroud : **Undetectable** (pas de TR ni de red stain). Une attaque de base met fin au mode et vide la jauge. Recharge **15 s** (VERIFIED_MULTI_SOURCE [4][17]), qui démarre 1,5 s après.
+  - Stalk : portée 40 m, 22,5 pts/s, soit un marquage en ~4,4 s. **Deux fois plus rapide en se penchant** derrière un couvert (45 pts/s, ~2,2 s). Aucune pénalité de distance. Pendant le stalk actif, il se déplace à 0,76 m/s (accroupi) ou 0,92 m/s (debout).
+  - Marked (100 pts) : **Exposed 60 s**, et le survivant Marked **ne peut plus le révéler**.
+  - Reveal : il faut voir au moins 30 % de son modèle dans la zone centrale de l'écran, à **32 m** ou moins, pendant **1,5 s**. La progression régresse si la LOS est perdue ; elle ne retombe pas à zéro. Effets : fin du Night Shroud, marqueurs de direction sur son HUD et **Killer Instinct 4 s** après le reveal. Que ce Killer Instinct vise le survivant révélateur est une HYPOTHESIS logique : la page ne nomme pas la cible.
 - **Identification** :
-  - Avant le reveal : pas de TR ni de berceuse, pas de red stain en Night Shroud — FACT (Undetectable supprime TR et red stain, [AUDIT] SS ; qu'il soit Undetectable en Night Shroud = FACT de principe). Indices : pas de pas/respiration proches ; Spine Chill qui s'allume sans TR (UNCERTAIN : effet contre Undetectable non vérifié ; rework au PTB 10.2.0) ; corbeaux qui s'envolent — **réserve P14** : l'audit indique que les corbeaux ne s'envolent pas « pour certains tueurs furtifs » (liste non lue) : l'absence de corbeaux ne prouve rien, leur envol reste un indice faible — HEURISTIC.
-  - Pouvoir en action : silhouette accroupie/penchée derrière un coin, bruit de « déclic »/stalk (UNCERTAIN), notification de reveal quand vous le repérez.
-  - Stratégie probable : marquer les survivants concentrés (gen, soin, décrochage) puis one-shot l'Exposed ; souvent build d'info/régression — HEURISTIC.
-- **Ce qu'il cherche en chase** : vous faire tourner autour d'une tile opaque pendant qu'il stalke en se penchant pour obtenir l'Exposed, puis M1 = down direct — HEURISTIC.
+  - Avant le reveal : pas de TR, pas de berceuse, pas de red stain en Night Shroud (FACT [4]). Seul indice sonore : le froissement de vêtements, le son de proximité ayant été retiré au 3.0.1 [4]. Spine Chill qui s'allume sans TR : UNCERTAIN (effet contre Undetectable non vérifié ; rework au PTB 10.2.0). Corbeaux qui s'envolent : **réserve P14**, l'audit indique que les corbeaux ne s'envolent pas « pour certains tueurs furtifs » (liste non lue). L'absence de corbeaux ne prouve donc rien, et leur envol reste un indice faible (HEURISTIC).
+  - Pouvoir en action : silhouette accroupie ou penchée derrière un coin ; notification quand vous le révélez.
+  - Stratégie probable : marquer les survivants concentrés (gen, soin, décrochage) puis one-shot l'Exposed ; souvent un build d'info ou de régression (ses perks : I'm All Ears, Thrilling Tremors, Furtive Chase [4]) — HEURISTIC.
+- **Ce qu'il cherche en chase** : vous faire tourner autour d'une tile opaque pendant qu'il stalke penché (~2,2 s de LOS suffisent pour l'Exposed, calcul [4]), puis un M1 = down direct — HEURISTIC.
 - **Tiles / structures** :
-  - Favorables : tiles avec LOS dégagée sur ses angles de lean (fenêtres, filler bas) où vous le voyez en premier — HEURISTIC.
-  - Défavorables : murs hauts/rochers épais (il penche et stalke hors de votre vue), zones intérieures à nombreux coins (Midwich, Hawkins) — HEURISTIC/SITUATIONAL.
-  - Fenêtres vs palettes : standard M1 hors Exposed ; Marked → une palette tardive devient risquée (le coup vous met à terre) — HEURISTIC.
-- **Mindgames propres** : faux abandon de chase puis retour accroupi en Undetectable ; lean « fake » d'un côté puis contournement — HEURISTIC.
+  - Favorables : tiles avec une LOS dégagée sur ses angles de lean (fenêtres, filler bas), où vous le voyez en premier — HEURISTIC.
+  - Défavorables : murs hauts et rochers épais (il se penche et stalke hors de votre vue), zones intérieures à nombreux coins (Midwich, Hawkins) — HEURISTIC/SITUATIONAL.
+  - Fenêtres vs palettes : standard en M1 hors Exposed ; une fois Marked, une palette tardive devient risquée (le coup vous met à terre) — HEURISTIC.
+- **Mindgames propres** : faux abandon de chase puis retour accroupi en Undetectable (à 4,0 m/s, il vous suit sans perdre de terrain) ; lean « fake » d'un côté puis contournement — HEURISTIC.
 - **Counterplay** :
-  - Mécanique : caméra régulièrement derrière vous sur les gens ; le révéler dès qu'il apparaît (casse le pouvoir) — FACT de principe.
+  - Mécanique : tourner régulièrement la caméra derrière soi sur un gen ; le révéler dès qu'il apparaît à 32 m ou moins (1,5 s de visée, FACT [4]), ce qui casse son pouvoir pour 15 s. Coût : il reçoit votre direction et 4 s de Killer Instinct, donc après un reveal, changer d'angle ou de position — HEURISTIC.
   - Positionnel : réparer face aux accès probables ; éviter de rester dos à un mur ouvert — HEURISTIC.
   - Macro : annoncer sa position (SWF) ; en SoloQ, surveiller les auras de coéquipiers qui décrochent brutalement d'un gen — HEURISTIC.
   - Équipe : un coéquipier qui regarde vers vous peut le révéler — HEURISTIC.
-- **Habitudes punissables** : réparer/soigner longtemps sans tourner la caméra ; décrochage « à l'aveugle » sans vérifier le pourtour (TR absent ≠ tueur absent) — HEURISTIC. **Erreur classique** : croire qu'il est loin parce qu'il n'y a pas de TR.
-- **Adaptations avancées** : Marked → jouer « comme si Exposed » pendant toute la durée : pré-drop plus tôt, pas de tile à mindgame serré ; interaction (FACT [AUDIT]) : un survivant Marked qui vient d'être décroché garde l'Endurance basekit 10 s, qui transforme le coup Exposed en Deep Wound — tant qu'il ne fait pas d'action voyante ; contre un Ghost Face qui stalke en chase, casser la LOS vers ses angles de lean plutôt que courir tout droit — HEURISTIC. Échec du counterplay habituel : zones sombres/encombrées où le reveal est difficile.
-- **Add-ons qui changent la décision** : NON VÉRIFIABLE en session. Seed : Walleye's Matchbook (recharge), Cinch Straps, « Ghost Face Caught on Tape » (Iri), Driver's License — effets 2026 non confirmés. Règle générale (HEURISTIC) : si des Marked sont révélés par aura/si la recharge est quasi nulle → ne pas se cacher en casier/derrière un mur après marquage, rejoindre une tile forte immédiatement.
-- **Implications de carte** : cartes intérieures/à coins (Midwich, Hawkins, Lery's, RPD) favorisent le stalk ; cartes ouvertes favorisent le reveal — HEURISTIC/SITUATIONAL.
-- **Perks fréquentes / synergies** : infos/stealth (seed : Pain Resonance, Grim Embrace, Lethal Pursuer, Furtive Chase) — NON VÉRIFIABLE ; côté survivant, Spine Chill est souvent citée comme contre-info contre Undetectable — UNCERTAIN (corrigé P14, était « de référence » : son effet contre Undetectable n'est pas vérifié, `batch4_killers_g2.md` fiche Pig le classe UNCERTAIN ; rework au PTB 10.2.0, non LIVE) ; la caméra reste l'info la plus sûre, Distortion peu utile (il ne voit pas d'auras par défaut) — HEURISTIC.
-- **Écart avec le seed** : accroupi 4,0 m/s (9.6.1) OK ; recharge 17 → 15 s (9.6.0) NON VÉRIFIABLE ; Exposed 60 s, portée 40 m, reveal ~1,5 s NON VÉRIFIABLE ; tier « C (A chez propelrc) » NON VÉRIFIABLE.
-- **Sources** : [1], [2].
+- **Habitudes punissables** : réparer ou soigner longtemps sans tourner la caméra ; décrocher « à l'aveugle » sans vérifier les abords (pas de TR ≠ pas de tueur) — HEURISTIC. **Erreur classique** : croire qu'il est loin parce qu'il n'y a pas de TR.
+- **Adaptations avancées** :
+  - Une fois Marked, jouer « comme si Exposed » pendant 60 s : pré-drop plus tôt, pas de tile à mindgame serré. Inutile de chercher à le révéler, puisqu'un Marked ne le peut plus (FACT [4]) : jouer la distance.
+  - Interaction (FACT [AUDIT]) : un survivant Marked qui vient d'être décroché garde l'Endurance basekit 10 s, qui transforme le coup Exposed en Deep Wound, tant qu'il ne fait pas d'action voyante.
+  - Contre un Ghost Face qui stalke en chase, casser la LOS vers ses angles de lean plutôt que courir tout droit — HEURISTIC. Le counterplay habituel échoue dans les zones sombres ou encombrées, où le reveal est difficile.
+- **Add-ons qui changent la décision** (noms et effets LIVE lus sur [4] ; Walleye's Matchbook confirmé par [17]) :
+  - Leather Knife Sheath (+10 % de vitesse accroupi, soit ~4,4 m/s, calcul) → accroupi, il **vous rattrape** en course : quitter la zone tôt ou casser la LOS, au lieu de compter sur « il ne gagne pas de terrain accroupi ».
+  - Knife Belt Clip (TR −12 m accroupi, soit 12 m) → un TR qui apparaît signifie qu'il est déjà tout proche : réagir tout de suite au lieu de le croire à 24 m.
+  - « Ghost Face Caught on Tape » (Iri : recharge instantanée après une mise à terre par attaque de base) ou Olsen's Wallet (recharge instantanée après une casse de palette ou de mur) → après un down ou une casse, s'attendre à un Undetectable immédiat : tourner la caméra au lieu de reprendre le gen « parce qu'il est en recharge ».
+  - Cinch Straps (Night Shroud conservé après une attaque ratée) → une attaque esquivée ne le rend pas visible : continuer à le suivre du regard au lieu de se croire à l'abri du stalk.
+  - Night Vision Monocular (Exhausted 10 s après l'avoir révélé) ou Telephoto Lens (Oblivious 60 s après l'avoir révélé) → révéler a un coût : ne révéler que si c'est vous qu'il approche, sinon s'éloigner hors de sa vue.
+  - Olsen's Journal (les Marked sont Oblivious) → une fois Marked, ignorer complètement le TR et jouer à la vue.
+  - Driver's License (quand il marque un survivant qui répare, le gen explose, perd 20 % et reste bloqué 15 s) → contre lui, lâcher le gen dès qu'il stalke au lieu de « finir la barre ».
+  - Outdoor Security Camera (auras de tous les survivants 7 s après la mise à terre d'un Marked) → au down d'un Marked, ne pas compter sur la cachette pendant 7 s : bouger derrière des LOS blockers.
+  - Walleye's Matchbook (−2 s, soit 13 s de recharge ; VERIFIED_PRIMARY [17]) : effet mineur, aucune adaptation.
+- **Implications de carte** : cartes intérieures ou à coins (Midwich, Hawkins, Lery's, RPD) favorisent le stalk ; cartes ouvertes favorisent le reveal — HEURISTIC/SITUATIONAL.
+- **Perks fréquentes / synergies** : seed : Pain Resonance, Grim Embrace, Lethal Pursuer, Furtive Chase — fréquence NON VÉRIFIABLE. Côté survivant, Spine Chill est souvent citée comme contre-info contre Undetectable : UNCERTAIN (corrigé P14, était « de référence » ; son effet contre Undetectable n'est pas vérifié ; rework au PTB 10.2.0, non LIVE). La caméra reste l'info la plus sûre ; Distortion est peu utile (il ne voit pas d'auras par défaut, sauf add-ons ci-dessus) — HEURISTIC.
+- **Écart avec le seed** : accroupi 4,0 m/s (9.6.1) OK ; recharge 17 → 15 s (9.6.0) **OK, VERIFIED_PRIMARY** ; Exposed 60 s OK ; portée de stalk 40 m OK ; reveal ~1,5 s OK (portée 32 m) ; TR 24 m OK ; tier « C (A chez propelrc) » NON VÉRIFIABLE.
+- **Sources** : [4], [16], [17], [18], [21], [1], [2].
 
 ## 17. The Demogorgon — archétype(s) : mobilité | anti-loop | info
 - **Version** : buffs 9.6.0 (28/04/2026) : Shred 19 m/s, Undetectable 12 s (sortie de portail) [1] — VERIFIED_PRIMARY (via audit). Statut LIVE.

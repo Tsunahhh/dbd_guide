@@ -165,35 +165,48 @@
 
 ## 26. The Artist (Carmina Mora) — archétype(s) : ranged (à travers les murs) | info
 
-- **Version** : aucun changement relevé dans [2] entre 9.0.0 et 10.1.2a. Dernier rework : non vérifié. Statut LIVE.
-- **Données LIVE** (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN) :
-  - 4,6 m/s (115 %), TR 32 m, taille moyenne.
-  - 3 Dire Crows (1 s de charge), un corbeau posé reste ≤ 10 s puis part en ligne droite **à travers les murs** ; touche = Swarmed (Killer Instinct 3 s puis aura tant que l'essaim reste) ; 2e touche sur un Swarmed = état de santé perdu ; retirer l'essaim : 8 s ou casier ; recharge ~5 s / corbeau, 12 s si les 3 sont lancés.
+- **Version** : aucun changement de pouvoir LIVE depuis 6.7.0 (lampes / pétards / flash grenade ne détruisent plus les corbeaux posés) — STRONG_SECONDARY [6]. Les changements d'add-ons du PTB 9.0.0 ont été **annulés** avant le LIVE — VERIFIED_PRIMARY [11]. 9.0.2 : corrections (les corbeaux ne ratent plus les survivants en mouvement ; un corbeau sur un survivant déjà Swarmed retire bien un état de santé au lieu de déclencher un Killer Instinct) — VERIFIED_PRIMARY [12]. Rien au PTB 10.2.0 [23]. Statut LIVE.
+- **Données LIVE** (STRONG_SECONDARY [6] sauf mention) :
+  - 4,6 m/s (115 %), TR 32 m, taille moyenne (Average), pas de berceuse.
+  - 3 jetons ; chaque Dire Crow : charge 1 s, posé à 2,5 m devant elle, reste posé ≤ 10 s (minuteur remis à zéro à chaque nouveau corbeau) ; un survivant qui touche un corbeau posé devient Swarmed et le corbeau disparaît ; pas de corbeau à < 10 m d'un survivant accroché.
+  - Lancement (bouton secondaire) : tous les corbeaux posés partent le long de leur trajectoire de **7,5 m** (20 → 35 m/s) ; à la fin de ces 7,5 m **ou s'ils heurtent un obstacle pendant ces 7,5 m**, ils deviennent un **Swarm** qui continue en ligne droite **à travers tous les obstacles** (35 m/s).
+  - **L'aura des Swarms en vol est visible de tous les joueurs** ; celle d'un corbeau qui vient d'être lancé est visible 0,75 s ; les corbeaux posés émettent un son audible à ≤ 12 m.
+  - Un Swarm qui passe près d'un survivant déclenche un Killer Instinct de 3 s, **sauf s'il est accroupi** ; un Swarm qui touche un survivant le rend Swarmed (aura révélée à l'Artist, masquée 2,5 s après le début du retrait) ; un Swarm qui touche un survivant **déjà Swarmed** lui retire un état de santé (immunité 0,75 s entre deux touches).
+  - Retrait de l'essaim : 8 s (interaction « Repel »), ou instantané en entrant dans un casier ; toucher un corbeau posé pendant le retrait le remet à zéro.
+  - Recharge complète : 5 / 9 / 12 s après avoir lancé 1 / 2 / 3 corbeaux ; 2 s si les corbeaux posés se sont dissous ; vitesse de l'Artist en posant / lançant 3,68 m/s.
 - **Identification** :
-  - Avant le reveal : corbeaux sombres posés près des gens/totems (indice visuel), cri de corbeau lancé (seed : ~12 m) — HEURISTIC.
-  - Pouvoir : statut Swarmed sur un coéquipier/soi ; aura/Killer Instinct après touche.
-  - Stratégie probable : pression globale (corbeaux sur des gens lointains) puis blessures à distance à travers le décor — HEURISTIC.
-- **Ce qu'il cherche en chase** : survivants déjà Swarmed (2e corbeau = blessure à travers un mur), sorties de tile prévisibles, vaults de fenêtre en fin de boucle — HEURISTIC.
+  - Avant le reveal : corbeaux sombres posés près des gens/totems (indice visuel), croassement audible à ≤ 12 m (FACT [6]) ; auras de Swarms qui traversent la map (FACT [6]).
+  - Pouvoir : statut Swarmed sur un coéquipier/soi ; Killer Instinct au passage d'un Swarm.
+  - Stratégie probable : pression globale (Swarms sur des gens lointains) puis blessures à distance à travers le décor — HEURISTIC.
+- **Ce qu'il cherche en chase** : survivants déjà Swarmed (2e touche = blessure à travers un mur), sorties de tile prévisibles, vaults de fenêtre en fin de boucle — HEURISTIC.
 - **Tiles / structures** :
-  - Mécanique de principe, **pas un FACT** (seed + connaissance du modèle, UNCERTAIN ; non couverte par l'audit, et contredite par une autre phrase du seed, CONFLICT-L4G4-02) : les corbeaux traversent les murs → **les murs ne protègent pas comme contre un ranged classique**.
-  - Favorables : tiles où l'on peut changer de direction souvent (le corbeau va en ligne droite) ; bâtiments avec plusieurs sorties — HEURISTIC.
+  - FACT [6] : au-delà des 7,5 m de trajectoire (ou dès qu'il heurte un obstacle), le corbeau devient un Swarm qui **traverse tous les obstacles** → **les murs ne protègent pas comme contre un ranged classique** ; seule la courte phase de 7,5 m est arrêtée (et transformée) par le décor. CONFLICT-L4G4-02 RÉSOLU.
+  - Favorables : tiles où l'on peut changer de direction souvent (le Swarm va en ligne droite) ; bâtiments avec plusieurs sorties — HEURISTIC.
   - Défavorables : longues lignes droites, couloirs, tiles à une seule sortie — HEURISTIC.
-- **Mindgames propres** : corbeau « posé » sur une sortie de tile = piège de trajectoire ; elle peut attendre votre choix de direction avant de lancer — HEURISTIC.
+- **Mindgames propres** : corbeau « posé » sur une sortie de tile = piège (le toucher te rend Swarmed [6]) ; elle peut attendre ton choix de direction avant de lancer — HEURISTIC.
 - **Counterplay** :
-  - Mécanique : strafe latéral net au dernier moment ; ne pas courir dans l'axe d'un corbeau posé — HEURISTIC.
-  - Si Swarmed : retirer l'essaim dès que le tueur n'est pas en chase proche, ou casier (seed) ; éviter de réparer avec l'essaim quand elle a un corbeau disponible (un 2e corbeau = blessure, même à travers le décor) — HEURISTIC. Arbitrage : le retrait coûte ~8 s [SEED] (≈ 9 % de gen solo) ; si elle est en chase loin et sans corbeau prêt, finir un gen presque terminé peut valoir plus que ces 8 s — SITUATIONAL.
-  - Macro : répartir les gens pour qu'un corbeau n'en couvre pas deux ; ne pas se regrouper en ligne — HEURISTIC.
-  - Équipe : un coéquipier Swarmed est une cible facile → ne pas s'en approcher en chase (Severed Hands, seed) — SITUATIONAL.
-- **Habitudes punissables / erreurs classiques** (HEURISTIC) : se croire à l'abri derrière un mur ; réparer en étant Swarmed ; courir tout droit vers la tile suivante quand elle a un corbeau prêt.
-- **Adaptations avancées / échecs** (HEURISTIC) : le counterplay « LOS » habituel contre les ranged échoue ; la seule protection est le changement de direction et l'absence de statut Swarmed → prioriser le retrait de l'essaim plus haut que contre un tueur classique.
-- **Add-ons qui changent la décision** (seed, NON RE-VÉRIFIÉ, UNCERTAIN) :
-  - Severed Hands (essaim propagé à 3 m) → ne pas faire de gen ou de soin à deux quand un joueur est Swarmed.
-  - Iridescent Feather (Undetectable pendant le cooldown, 1 corbeau de moins) → après une volée, s'attendre à une approche silencieuse.
-  - Add-ons de vitesse de corbeau → strafer plus tôt, ne plus attendre le « dernier moment ».
+  - Mécanique : suivre **l'aura** du Swarm (visible de tous [6]) et faire un pas latéral net quand il arrive ; ne pas courir dans l'axe d'un corbeau posé ni le traverser — HEURISTIC fondé sur FACT.
+  - Discrétion : s'accroupir quand un Swarm passe près de toi évite le Killer Instinct (FACT [6]) — utile quand il ne vise pas ta position exacte.
+  - Si Swarmed : retirer l'essaim (8 s) dès que le tueur n'est pas en chase proche, ou entrer dans un casier (instantané) ; éviter de réparer Swarmed quand elle a un corbeau disponible (2e touche = blessure, même à travers le décor) — HEURISTIC. Arbitrage : le retrait coûte 8 s (≈ 9 % de gen solo) ; si elle est en chase loin et sans corbeau prêt, finir un gen presque terminé peut valoir plus — SITUATIONAL. Pendant le retrait, elle perd ton aura au bout de 2,5 s [6].
+  - Fenêtre de pression : après une volée de 3 corbeaux, elle n'a plus rien pendant ~12 s [6] → moment pour traverser une zone ouverte ou changer de tile — HEURISTIC.
+  - Macro : répartir les gens pour qu'un Swarm n'en couvre pas deux ; ne pas se regrouper en ligne — HEURISTIC.
+  - Équipe : un coéquipier Swarmed est une cible facile → ne pas s'en approcher en chase (et plus du tout avec Severed Hands) — SITUATIONAL.
+- **Habitudes punissables / erreurs classiques** (HEURISTIC) : se croire à l'abri derrière un mur ; réparer en étant Swarmed ; courir tout droit vers la tile suivante quand elle a un corbeau prêt ; courir debout près d'un Swarm qui passe (Killer Instinct gratuit).
+- **Adaptations avancées / échecs** (HEURISTIC) : le counterplay « LOS » habituel contre les ranged échoue ; la protection vient du changement de direction, de la lecture de l'aura des Swarms et de l'absence de statut Swarmed → prioriser le retrait de l'essaim plus haut que contre un tueur classique.
+- **Add-ons qui changent la décision** (textes LIVE lus sur [6]) :
+  - Charcoal Stick (auras des corbeaux en vol invisibles pour les survivants ; visibles 0,5 s à l'invocation) → le survivant se fie au son (12 m) et à la position des corbeaux posés au lieu d'attendre de voir l'aura pour strafer.
+  - Garden of Rot (Exposed 4 s après avoir retiré l'essaim) → le survivant retire l'essaim uniquement loin d'elle au lieu de le faire dès qu'il peut.
+  - Severed Hands (tout survivant à ≤ 3 m d'un Swarmed devient Swarmed) → les survivants ne font plus de gen / soin à deux quand l'un est Swarmed au lieu de continuer ensemble.
+  - Thorny Nest (Haemorrhage + Mangled 70 s après un dégât de corbeau) → le survivant blessé par un corbeau se soigne plus tard / avec une trousse au lieu de lancer un soin long immédiatement.
+  - O Grief, O Lover (Exhausted tant que Swarmed) → le survivant Swarmed ne compte plus sur Sprint Burst / Lithe et retire l'essaim avant d'entrer en chase au lieu de garder sa perk.
+  - Darkest Ink (Blindness tant que Swarmed et 15 s après) / Silver Bell (Oblivious tant que Swarmed) → le survivant Swarmed surveille la tueuse visuellement au lieu de se fier aux auras / au TR.
+  - Iridescent Feather (Undetectable quand le pouvoir est en recharge et qu'elle n'a aucun corbeau ; 1 corbeau de moins) → après une volée, le survivant s'attend à une approche sans TR au lieu de se croire tranquille.
+  - Ink Egg (+1 corbeau, posés 2 s de moins) → le survivant compte 4 corbeaux par volée au lieu de 3.
+  - (Le seed citait des « add-ons de vitesse de corbeau » : **aucun add-on de ce type n'existe** sur la page [6].)
 - **Implications de carte** : maps ouvertes et longues (champs) = avantage tueur ; maps très coudées avec beaucoup de changements de direction = mieux pour le survivant ; les murs intérieurs ne comptent pas — HEURISTIC.
-- **Perks fréquentes / synergies** : Pain Resonance, Grim Embrace (ses perks), Pop, Dead Man's Switch, Eruption (seed, UNCERTAIN) ; Hex: Pentimento (sa perk) → totems purifiés peuvent être rallumés ; les totems ravivés par Pentimento ne peuvent pas être bénis (audit [2], STRONG_SECONDARY).
-- **Écart avec le seed** : conseil « coupez la ligne de corbeau (…) pas le décor vertical très épais » : **NON VÉRIFIABLE** et contradictoire avec « traverse les murs » dans la même fiche ; valeurs NON VÉRIFIABLE ; « S'accroupir évite le Killer Instinct » : NON VÉRIFIABLE et douteux (Killer Instinct ne dépend normalement pas de la posture — connaissance du modèle, UNCERTAIN).
-- **Sources** : [1], [2].
+- **Perks fréquentes / synergies** : Scourge Hook: Pain Resonance, Grim Embrace, Hex: Pentimento (ses perks) ; Pop, Dead Man's Switch, Eruption (seed, UNCERTAIN pour l'usage). **Hex: Pentimento LIVE** : un totem purifié peut être ravivé ; 1 totem ravivé = réparation et soin −20 %, puis +1/2/3 % par totem supplémentaire jusqu'à 24/28/32 % ; à 5 totems, tous les totems ravivés sont bloqués pour la partie ; chaque totem ne peut être ravivé qu'une fois ; les survivants voient l'aura des totems ravivés à ≤ 16 m — STRONG_SECONDARY [6]. Bénédiction des totems ravivés : l'audit [2] (wiki Totems) les dit non bénissables, alors que le texte de la perk [6] dit que l'effet dure « jusqu'à ce que le totem soit béni ou purifié » → voir CONFLICT-L4G4-05.
+- **Écart avec le seed** : conseil « coupez la ligne de corbeau (…) pas le décor vertical très épais » : **FAUX** (les Swarms traversent tous les obstacles [6]) ; « S'accroupir évite le Killer Instinct » : **OK** (FACT [6] ; l'ancienne note « douteux » de cette fiche était fausse) ; valeurs du pouvoir (3 corbeaux, 1 s, 10 s, 8 s, 5 / 12 s, ~12 m) : **OK** ; « add-ons de vitesse de corbeau » : **FAUX** (inexistants).
+- **Sources** : [1], [2], [6], [11], [12], [23].
 
 ---
 

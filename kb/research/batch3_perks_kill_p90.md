@@ -3,7 +3,7 @@
 **Couverture : 6/6 perks re-vérifiées sur page wiki complète (27/09/2026) ; dont 2 confirmées par note officielle** (Pop Goes the Weasel : note 9.5.0 ; Nowhere to Hide : note 10.1.0) **+ 1 indirectement** (Pain Resonance : changement PTB 9.2.0 « Postponed », note 9.2.0). Règles de régression re-vérifiées contre les notes officielles 9.x/10.x locales.
 
 - Référence : LIVE 10.1.2a (17/09/2026) ; PTB 10.2.0 (15-21/09/2026) **non LIVE**, toujours étiqueté PTB.
-- Méthode (lot 12a, 27/09/2026) : re-vérification sur les **pages wiki.gg complètes** (API MediaWiki, digest local `kb/sources/wiki_perks_digest.md`) [13] et les **notes officielles BHVR** locales (`kb/sources/patches/official_*.txt`) [14]-[22]. La 1ʳᵉ passe (lot 3) reposait sur des résumés WebSearch [1]-[11] et l'audit [12] ; ils restent cités quand ils concordent.
+- Méthode (lot 12a, 27/09/2026) : re-vérification sur les **pages wiki.gg complètes** (API MediaWiki, digest local `kb/sources/wiki_perks_digest.md`) [13] et les **notes officielles BHVR** locales (`kb/sources/patches/official_*.txt`) [14]-[24]. La 1ʳᵉ passe (lot 3) reposait sur des résumés WebSearch [1]-[11] et l'audit [12] ; ils restent cités quand ils concordent.
 - Périmètre : Scourge Hook: Pain Resonance, Pop Goes the Weasel, Corrupt Intervention, Grim Embrace, Lethal Pursuer, Nowhere to Hide + règles de régression (p. 89, l. 2-61) + catégories / PTB 10.2.0 (l. 754-841).
 - Notes de menace = **HEURISTIC**. Rubriques analytiques (Indice observable, Soupçonner, Confirmer, Adaptation robuste, Counterplay, Erreurs, Menace, règles de PERK DEDUCTION) = **HEURISTIC / EXPERT OPINION**, sauf éléments explicitement marqués FACT.
 
@@ -182,67 +182,66 @@
 
 | ID | Claim | Source | Patch | Confiance |
 |---|---|---|---|---|
-| L3P90-C01 | Pain Res : 4 jetons, 1er accrochage Fléau de chaque survivant ; gen le plus avancé −10/15/20 % du total ; les réparateurs crient ; régression normale ensuite | [1][2][3] | LIVE | STRONG_SECONDARY |
-| L3P90-C02 | Pop : +15 % au coup de pied, soit 20 % au total | [6][7][12] | 9.5.0 → LIVE | STRONG_SECONDARY |
-| L3P90-C03 | Pop : fenêtre de 35/40/45 s | seed, NON RE-VÉRIFIÉ (quota) | ? | UNCERTAIN |
-| L3P90-C04 | Corrupt : 3 gens les plus éloignés bloqués 80/100/120 s ; fin au 1er survivant mourant | [9][10][11] | LIVE | STRONG_SECONDARY |
-| L3P90-C05 | Nowhere to Hide : 24 m, 3/4/5 s (18 m = PTB 10.1.0 seulement) | [12] (notes 10.1.0) | 10.1.0 → LIVE | VERIFIED_PRIMARY (via audit) |
-| L3P90-C06 | Grim Embrace 6/8/10 s ; 40 s au 4ᵉ jeton ; aura de l'Obsession 6 s | seed, NON RE-VÉRIFIÉ (quota) | ? | UNCERTAIN |
-| L3P90-C07 | Lethal Pursuer 7/8/9 s ; +2 s sur les auras | seed, NON RE-VÉRIFIÉ (quota) | ? | UNCERTAIN |
+| L3P90-C01 | Pain Res : 4 jetons, 1er accrochage Fléau de chaque survivant ; gen le plus avancé −10/15/20 % du total ; les réparateurs crient (sans Loud Noise Notification) ; régression normale ensuite | [13] ; valeur non modifiée en 9.2.0 (Postponed) [15] | LIVE (valeur depuis 8.0.0) | VERIFIED_MULTI_SOURCE (valeur) / STRONG_SECONDARY (détails) |
+| L3P90-C02 | Pop : +15 % de la progression totale au coup de pied, soit 20 % au total | [17][13] | 9.5.0 → LIVE | VERIFIED_MULTI_SOURCE |
+| L3P90-C03 | Pop : fenêtre de 35/40/45 s, usage unique par activation | [17][13] | 9.5.0 → LIVE | VERIFIED_MULTI_SOURCE |
+| L3P90-C04 | Corrupt : 3 gens les plus éloignés bloqués 80/100/120 s ; fin au 1er survivant mourant | [13][9][10][11] | LIVE | STRONG_SECONDARY |
+| L3P90-C05 | Nowhere to Hide : 24 m autour du gen, 3/4/5 s (18 m = PTB 10.1.0 seulement) | [20][13] | 10.1.0 → LIVE | VERIFIED_MULTI_SOURCE |
+| L3P90-C06 | Grim Embrace : activation à ≥ 16 m du crochet ; 6/8/10 s (jetons 1-3) ; 40 s + aura de l'Obsession 6 s au 4ᵉ jeton | [13] | LIVE (valeur depuis 8.0.0) | STRONG_SECONDARY |
+| L3P90-C07 | Lethal Pursuer : 7/8/9 s au début ; +2 s sur les auras **de survivants** ; s'applique à elle-même | [13] ; [16][20] (indirect) | LIVE | STRONG_SECONDARY |
 | L3P90-C08 | Coup de pied 1,8 s, −5 % instantané | [12] | 7.5.0 | VERIFIED_MULTI_SOURCE |
 | L3P90-C09 | Régression de base 0,25 c/s (360 s de 90 à 0) | [12] | — | VERIFIED_MULTI_SOURCE |
-| L3P90-C10 | 8 events par gen (≥ 2,5 %) ; pointes dès le 4ᵉ | [12] | 7.5.0 | VERIFIED_MULTI_SOURCE |
+| L3P90-C10 | 8 events par gen (≥ 2,5 %) ; pointes dès le 4ᵉ ; non modifié par les notes 9.x/10.x | [12] ; [14]-[22] (absence) | 7.5.0 | VERIFIED_MULTI_SOURCE |
 | L3P90-C11 | Stopper la régression = réparer 5 % | [12] | 7.5.0 | VERIFIED_MULTI_SOURCE |
-| L3P90-C12 | DR 100/50/25/12,5/5 %, add-ons exclus | [12] | 9.6.0 | VERIFIED_PRIMARY |
-| L3P90-C13 | Blocages et pertes instantanées hors DR | seed seul | 9.6.0 | UNCERTAIN |
+| L3P90-C12 | DR 100/50/25/12,5/5 % sur modificateurs identiques, add-ons exclus, pénalités négatives et chance de skill check limitées au même rôle | [18] | 9.6.0 | VERIFIED_PRIMARY |
+| L3P90-C13 | Blocages et pertes instantanées hors DR | seed seul ; note 9.6.0 muette [18] | 9.6.0 | UNCERTAIN |
+| L3P90-C14 | 9.2.0 LIVE : Ruin 100/125/150 %, DMS 25/30/35 s, Oppression 4 gens / 45/40/35 s ; changements de Pop, Eruption, Pain Res **annulés** (Postponed) | [15][13] | 9.2.0 | VERIFIED_MULTI_SOURCE |
+| L3P90-C15 | Eruption LIVE : −10 % du total, aura 8/10/12 s, recharge 30 s | [13][15] | LIVE | VERIFIED_MULTI_SOURCE |
+| L3P90-C16 | Aucune des 6 perks de la p. 90 n'est modifiée au PTB 10.2.0 | [22][13] | PTB 10.2.0 | VERIFIED_MULTI_SOURCE |
 
 ## Conflits
 
 #### CONFLICT-L3P90-01 : changements LIVE du patch 9.2.0 (Pop, Eruption, Ruin, DMS)
 - Source A : table des patchs de l'audit (notes 9.2.0 résumées) : Ruin 100/125/150 %, Pop 20 → 15 %, Eruption 10 → 5 %, DMS 25/30/35 s au LIVE 9.2.0.
 - Source B : wiki.gg Patch Notes 9.2.X (cité par la question ouverte 11 de l'audit) : les changements PTB de Pop, Eruption, Ruin et DMS ont été annulés au LIVE. Le seed ajoute une 3ᵉ version : Ruin, Pop et DMS passés, Pain Res et Eruption non passés.
-- Hypothèse : la table de l'audit a pu recopier les notes du PTB 9.2.0. Pour Pop, l'enjeu est faible, puisque la réécriture 9.5.0 fixe la valeur actuelle à 20 % au total.
-- Résolution : UNRESOLVED (recherche ciblée impossible, quota épuisé). Impact LIVE : Eruption (10 % ou 5 %) et DMS restent incertains.
+- Résolution : **RÉSOLU** par la note officielle 9.2.0 [15]. Passés au LIVE (section « Killer Perk Updates ») : **Hex: Ruin 100/125/150 %** (était 50/75/100), **Dead Man's Switch 25/30/35 s** (était 40/45/50), **Oppression** 4 gens / 45/40/35 s. Section finale « Postponed » : Tunneling Reduction Update reporté, « Reverted the perk changes associated with this update. Notably: Babysitter, Barbecue and Chili, Borrowed Time, **Eruption, Pop Goes the Weasel, Scourge Hook: Pain Resonance** ». Les change logs du wiki concordent (Ruin, DMS, Oppression modifiées en 9.2.0 ; rien pour Pop, Eruption, Pain Res) [13]. Donc : la table de l'audit a tort pour Pop et Eruption (valeurs PTB prises pour LIVE) ; l'audit Q11 / wiki 9.2.X a tort pour Ruin et DMS ; le seed a tort pour Pop seulement. Eruption LIVE = 10 %.
 
 #### CONFLICT-L3P90-02 : le cri de Pain Resonance révèle-t-il la position ?
 - Source A : résumé du wiki (fandom) : « will scream, but not reveal their location ».
 - Source B : le même résumé ajoute que « some older sources indicate… variations in whether location is revealed ».
-- Hypothèse : la version actuelle ne révèle pas la position, contrairement aux anciennes versions.
-- Résolution : partiellement résolue en faveur de A (STRONG_SECONDARY). Côté survivant, rester prudent : un tueur à portée d'oreille entend le cri.
+- Résolution : **RÉSOLU (STRONG_SECONDARY)** : la page complète dit « Causes all Survivors repairing the Damaged Generator to scream. This does not trigger a Loud Noise Notification » [13]. Pas de notification visuelle ; le cri reste audible pour un tueur à portée.
 
 #### CONFLICT-L3P90-03 : fenêtre de Pop Goes the Weasel
 - Source A : seed : 35/40/45 s.
-- Source B : aucune source lue ne donne la durée.
-- Résolution : UNRESOLVED.
+- Source B : aucune source lue au lot 3 ne donnait la durée.
+- Résolution : **RÉSOLU — 35/40/45 s** : note 9.5.0 « for the next 35/40/45s » [17] ; page complète [13].
 
 ## Écarts avec le guide seed
 
 | Élément | Le guide dit | Vérifié | Verdict |
 |---|---|---|---|
-| Nowhere to Hide | « de 24 à 18 m au patch 10.1.0 » | 24 m LIVE ; 18 m = PTB 10.1.0 | **PTB-comme-LIVE / FAUX** |
-| Pain Res | 10/15/20 %, 4 jetons, gen le plus avancé, cri | Confirmé ; la régression normale s'applique ensuite (omis) | OK |
-| Pain Res, repli au plafond | Se rabat sur un autre gen | Non trouvé | NON VÉRIFIABLE |
-| DR sur blocages et pertes instantanées | « ne relèvent pas de la même catégorie », mélanger reste efficace | Notes 9.6.0 muettes | NON VÉRIFIABLE (affirmé comme fait) |
+| Nowhere to Hide | « de 24 à 18 m au patch 10.1.0 » | 24 m LIVE, centré sur le gen ; 18 m = PTB 10.1.0 [20][13] | **PTB-comme-LIVE / FAUX** |
+| Pain Res | 10/15/20 %, 4 jetons, gen le plus avancé, cri | Confirmé [13] ; la régression normale s'applique ensuite (omis) | OK |
+| Pain Res, repli au plafond | Se rabat sur un autre gen | Absent de la page complète et des notes | NON VÉRIFIABLE |
+| DR sur blocages et pertes instantanées | « ne relèvent pas de la même catégorie », mélanger reste efficace | Note 9.6.0 muette (modificateurs « identiques », sans liste) [18] | NON VÉRIFIABLE (affirmé comme fait) |
 | Pop « seul perk taxé » du build gen control | Affirmé | Aucune source | NON VÉRIFIABLE |
-| Patch 9.2.0 | Ruin, Pop, DMS, Oppression passés ; Pain Res et Eruption non | Sources contradictoires | NON VÉRIFIABLE (CONFLICT-L3P90-01) |
-| Pop 9.5.0 | +15 %, 20 % au total, sur la progression totale | +15 % / 20 % confirmés ; base « totale » non datée | OK / IMPRÉCIS |
-| Pop, fenêtre | 35/40/45 s | Non trouvé | NON VÉRIFIABLE |
-| Corrupt Intervention | 3 gens les plus éloignés, 80/100/120 s, fin au 1er down | Confirmé | OK |
-| Grim Embrace | 6/8/10 s, « à 16 m du crochet », 40 s + Obsession 6 s | Non vérifié ; formulation ambiguë | NON VÉRIFIABLE (IMPRÉCIS probable) |
-| Lethal Pursuer | 7/8/9 s, +2 s sur « tous vos autres effets d'aura » | Non vérifié | NON VÉRIFIABLE |
-| Règles de régression (5 %, 0,25 c/s, 8 events, pointes au 4ᵉ, 5 % pour stopper, blocage) | — | Confirmées par l'audit | OK |
-| DR 100/50/25/12,5/5, add-ons exclus, règle de rôle | — | Confirmé | OK |
+| Patch 9.2.0 | Ruin, Pop, DMS, Oppression passés ; Pain Res et Eruption non | Ruin, DMS, Oppression passés ; **Pop annulé** ; Pain Res et Eruption annulés [15] | **FAUX pour Pop** (le reste OK) |
+| Pop 9.5.0 | +15 %, 20 % au total, sur la progression totale | Confirmé (note 9.5.0 [17]) | OK |
+| Pop, fenêtre | 35/40/45 s | Confirmé (note 9.5.0 [17]) | OK |
+| Corrupt Intervention | 3 gens les plus éloignés, 80/100/120 s, fin au 1er down | Confirmé [13] | OK |
+| Grim Embrace | 6/8/10 s, « à 16 m du crochet », 40 s + Obsession 6 s | Valeurs OK ; activation quand le tueur est **à au moins 16 m** du crochet [13] | IMPRÉCIS |
+| Lethal Pursuer | 7/8/9 s, +2 s sur « tous vos autres effets d'aura » | 7/8/9 s OK ; +2 s sur les auras **de survivants** seulement, auto-extension [13] | IMPRÉCIS |
+| Règles de régression (5 %, 0,25 c/s, 8 events, pointes au 4ᵉ, 5 % pour stopper, blocage) | — | Confirmées par l'audit ; aucune note 9.x/10.x ne les modifie | OK |
+| DR 100/50/25/12,5/5, add-ons exclus, règle de rôle | — | Confirmé (note 9.6.0 [18]) | OK |
 | Stats NightLight (usage %) | Top 14, taux de kill par build | Non vérifiables (NightLight bloqué) | NON VÉRIFIABLE |
 
 ## Questions ouvertes
 
-1. **Grim Embrace** et **Lethal Pursuer** : effet et valeurs LIVE 10.1.2a à vérifier. Une seule recherche WebSearch chacun suffira quand le quota sera rétabli.
-2. Durée de la fenêtre de Pop (35/40/45 s ou fixe ?) et règle « un seul usage par accrochage ».
-3. CONFLICT-L3P90-01 : quels changements de 9.2.0 sont réellement passés au LIVE ? À trancher avec les notes officielles 9.2.0.
-4. Pain Res sur un gen au plafond de 8 events ou bloqué : pas d'effet, ou repli sur un autre gen (D-010) ?
-5. Les blocages et pertes instantanées sont-ils soumis aux DR (manuel du jeu 9.6.1) ?
-6. Les survivants voient-ils les crochets Fléau ? Quel est le rendu exact d'un gen bloqué côté survivant ?
-7. PTB 10.2.0 : aucune des 6 perks de cette page n'est-elle dans la liste des 58 perks modifiées ? Liste non consultée.
+1. Pain Res sur un gen au plafond de 8 events ou bloqué : pas d'effet, ou repli sur un autre gen (D-010) ?
+2. Les blocages et pertes instantanées sont-ils soumis aux DR ? Que recouvre « modificateurs identiques » (manuel du jeu 9.6.1 non consulté) ?
+3. Les survivants voient-ils les crochets Fléau ? Quel est le rendu exact d'un gen bloqué côté survivant ?
+4. Lethal Pursuer : l'auto-extension donne-t-elle bien 9/10/11 s au début (déduction du libellé « benefits from its own effect ») ?
+5. Toutes les valeurs : à revérifier à la sortie LIVE du 10.2.0 (estimée début octobre 2026), même si aucune des 6 perks n'est touchée au PTB.
 
 ## Sources
 
@@ -258,3 +257,15 @@
 [10] Corrupt Intervention — Official Dead by Daylight Wiki (wiki.gg) — https://deadbydaylight.wiki.gg/wiki/Corrupt_Intervention — consulté le 27/09/2026 via WebSearch (résumé de recherche)
 [11] Corrupt Intervention — AllMyPerks / Perkatory — https://allmyperks.com/perks/corrupt-intervention ; https://perkatory.gg/perk/corrupt-intervention — consulté le 27/09/2026 via WebSearch
 [12] Audit phase 0 du projet — `kb/seed/audit_phase0.txt` (tables « Référence vérifiée » : notes 7.5.0, 9.5.0, 9.6.0, 10.1.0 ; wiki.gg Generators / Patch Notes) — source interne, lue le 27/09/2026
+[13] deadbydaylight.wiki.gg/wiki/<Page> — page complète via API, consultée le 27/09/2026 — pages : Scourge_Hook:_Pain_Resonance, Pop_Goes_the_Weasel, Corrupt_Intervention, Grim_Embrace, Lethal_Pursuer, Nowhere_to_Hide, et pour les règles : Eruption, Hex:_Ruin, Dead_Man's_Switch, Oppression (extrait local : `kb/sources/wiki_perks_digest.md`, brut `wiki_perks.json`)
+[14] 9.1.1 | Bugfix Patch — notes officielles BHVR — https://forums.bhvr.com/dead-by-daylight/kb/articles/517 — copie locale `kb/sources/patches/official_517.txt`, lue le 27/09/2026
+[15] 9.2.0 | Sinister Grace (dont la section finale « Postponed ») — notes officielles BHVR — https://forums.bhvr.com/dead-by-daylight/kb/articles/523 — copie locale `kb/sources/patches/official_523.txt`, lue le 27/09/2026
+[16] 9.4.0 | Stranger Things Chapter 2 — notes officielles BHVR — https://forums.bhvr.com/dead-by-daylight/kb/articles/534 — copie locale `kb/sources/patches/official_534.txt`, lue le 27/09/2026
+[17] 9.5.0 | All-Kill: Comeback — notes officielles BHVR — https://forums.bhvr.com/dead-by-daylight/kb/articles/538 — copie locale `kb/sources/patches/official_538.txt`, lue le 27/09/2026
+[18] 9.6.0 | Patch Notes (Diminishing Returns Update) — notes officielles BHVR — https://forums.bhvr.com/dead-by-daylight/kb/articles/544 — copie locale `kb/sources/patches/official_544.txt`, lue le 27/09/2026
+[19] 9.6.2 | Bugfix Patch — notes officielles BHVR — https://forums.bhvr.com/dead-by-daylight/kb/articles/546 — copie locale `kb/sources/patches/official_546.txt`, lue le 27/09/2026
+[20] 10.1.0 | Chorus of Sin — notes officielles BHVR — https://forums.bhvr.com/dead-by-daylight/kb/articles/556 — copie locale `kb/sources/patches/official_556.txt`, lue le 27/09/2026
+[21] 10.1.2 | Bugfix Patch — notes officielles BHVR — https://forums.bhvr.com/dead-by-daylight/kb/articles/558 — copie locale `kb/sources/patches/official_558.txt`, lue le 27/09/2026
+[22] 10.2.0 PTB Patch Notes (NON LIVE) — notes officielles BHVR — https://forums.bhvr.com/dead-by-daylight/kb/articles/559 — copie locale `kb/sources/patches/official_559.txt`, lue le 27/09/2026
+[23] 9.5.1 | Bugfix Patch — notes officielles BHVR — https://forums.bhvr.com/dead-by-daylight/kb/articles/539 — copie locale `kb/sources/patches/official_539.txt`, lue le 27/09/2026
+[24] 10.0.0 | Jason Patch Notes — notes officielles BHVR — https://forums.bhvr.com/dead-by-daylight/kb/articles/550 — copie locale `kb/sources/patches/official_550.txt`, lue le 27/09/2026
