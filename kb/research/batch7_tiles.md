@@ -244,7 +244,7 @@ Lecture (HEURISTIC) :
 | Connecter | Repérer la tile suivante **pendant** le 1er cycle ; le shack est souvent à distance de maze tiles (emplacements fixes de la carte, lot 8). Sous-sol dans le shack = crochet proche : ne pas finir la chase blessé à côté |
 | Tueurs qui changent tout | Nurse (blink à travers les murs) ; Blight (rush ; 9.6.0 : tokens sur casse de palette) ; Hillbilly/Cannibal (casse 1 s) ; casses instantanées (§5.2) ; Trapper (piège à la réception de W ou dans P) ; ranged : **murs hauts favorables au survivant** (handbook §3) ; Bamboozle / Hex: Crowd Control (W bloquée pour tous) |
 
-**Critique du seed** : « au moins deux tours de fenêtre avant de toucher à la palette » est une **règle absolue** (audit) : elle est fausse dès que le tueur tient l'intérieur, que tu es blessé, ou contre un pouvoir anti-loop (lot 6 T05, Situation 1). « Au 3e vault, la fenêtre se bloque » : précision — le 3e vault est **permis**, le blocage vient **après**, pour toi seul, 30 s.
+**Critique du seed** : « au moins deux tours de fenêtre avant de toucher à la palette » (règle populaire, qu'on retrouve aussi sous la forme « 3 vaults puis palette » dans des guides communautaires, ex. [18]) est une **règle absolue** (audit) : elle est fausse dès que le tueur tient l'intérieur, que tu es blessé, ou contre un pouvoir anti-loop (lot 6 T05, Situation 1). « Au 3e vault, la fenêtre se bloque » : précision — le 3e vault est **permis**, le blocage vient **après**, pour toi seul, 30 s.
 
 ### 4.2 Jungle gym « long wall » (LW)
 
@@ -711,3 +711,140 @@ Erreur typique : aller vers la ressource la plus « forte » (main) à travers u
 - Métriques : % de transitions annoncées ; transitions vers une zone morte ; départs faits **pendant** une animation du tueur.
 - Réussite : ≥ 90 % de transitions annoncées et ≥ 50 % des départs sur une animation (casse, stun, vault, coup manqué) sur 10 parties.
 
+---
+
+## Claims
+
+| ID | Claim | Source | Patch | Confiance |
+|---|---|---|---|---|
+| L7-C01 | Fenêtre bloquée pour le survivant seul, 30 s, après son 3e vault dans la même poursuite ; le 3e vault est permis | [1] Windows ; audit | LIVE (introduit 1.1.2) | STRONG_SECONDARY (concorde avec l'audit) |
+| L7-C02 | Revault dans les 30 s après déblocage → rebloquée après ce seul vault | [1] | LIVE | STRONG_SECONDARY |
+| L7-C03 | Tampon de 5 s après la perte du tueur pendant lequel les vaults comptent | [1] | LIVE | STRONG_SECONDARY |
+| L7-C04 | Fast 0,5 s (≥ 2,5 m droit, élan gardé) / medium 0,9 s / slow 1,5 s ; tueur 1,7 s | [1] ; audit | LIVE (2.0.0, 2.3.0, 2.5.0) | STRONG_SECONDARY |
+| L7-C05 | Palettes : casse 2,34 s ; stun 2 s à ~50 % ; pas de stun du même côté (5.2.0) ; vault 1,1 / 2 s | [2] Pallets ; audit | LIVE | VERIFIED_MULTI_SOURCE (casse) / STRONG_SECONDARY |
+| L7-C06 | Palettes à ≥ 14/16/18/20 m sur emplacements prédéfinis (exceptions, ex. Midwich) | [2] | LIVE (voir CONFLICT-L7-02) | STRONG_SECONDARY |
+| L7-C07 | 9.2.0 : quantité/répartition des palettes revues sur 10 royaumes ; pool commun de maze tiles pour tous les royaumes | [10] ; pages royaumes [W] | 9.2.0 | VERIFIED_MULTI_SOURCE |
+| L7-C08 | 9.3.0 : sécurité des loops de palette réduite (MacMillan, Asylum, Red Forest, Yamaoka, Haddonfield, Mount Ormond Resort) ; spawn Disturbed Ward/pontons Backwater ; main de Crotus Prenn moins safe (chaînage) | [11] | 9.3.0 | VERIFIED_PRIMARY |
+| L7-C09 | 9.3.2 : loops trop courtes rallongées, palettes retirées contre certains petits objets, randomisation revue ; 7 royaumes | [12] | 9.3.2 | VERIFIED_PRIMARY |
+| L7-C10 | Aucun changement de densité/sécurité de palettes de 9.4.0 à 10.1.2a | [10]-[14] (recherche par mots-clés) | LIVE | VERIFIED_PRIMARY (par absence ; notes de bugfix mineures non exclues) |
+| L7-C11 | Maze tiles : même emplacement général, itération variable | [3] Maze Tiles | LIVE | STRONG_SECONDARY |
+| L7-C12 | Jungle gym : fenêtre et palette toujours de côtés opposés ; l'emplacement de fenêtre de l'autre variante devient un trou | [3] | LIVE | STRONG_SECONDARY |
+| L7-C13 | 4-lane : fenêtre sur mur extérieur = opened, intérieur = closed ; palette entre un mur ext. et un int. sans fenêtre | [3] | LIVE | STRONG_SECONDARY |
+| L7-C14 | L-T walls : 2 fenêtres (une par mur), pas de palette décrite ; Glenvale : + mur cassable | [3] | LIVE | STRONG_SECONDARY |
+| L7-C15 | Killer Shack : 1 fenêtre, 2 ouvertures dont 1 avec palette, 2 casiers ; sous-sol toujours dans le shack à Wreckers' Yard et Rotten Fields | [4] Killer Shack | LIVE | STRONG_SECONDARY |
+| L7-C16 | Murs cassables : 2,34 s, tueur seulement ; L-T et 4-lane de Glenvale et shack de Dead Dawg en ont toujours un | [5] ; [3] ; [4] | LIVE (6.1.0) | VERIFIED_MULTI_SOURCE (durée) |
+| L7-C17 | School Bus : un des deux vaults toujours bloqué ; 2 variantes (6.7.0) | [6] | LIVE | STRONG_SECONDARY |
+| L7-C18 | Harvester : vault gauche à sens unique, vault droit sur balle de foin réversible | [6] | LIVE | STRONG_SECONDARY |
+| L7-C19 | Crane : toujours une palette entre la grue et une voiture | [6] | LIVE | STRONG_SECONDARY |
+| L7-C20 | Coal Tower (main) : 1 fenêtre, 3 drop-offs (1 derrière un mur cassable), 3 murs cassables, 2 palettes dehors | [7] | LIVE | STRONG_SECONDARY |
+| L7-C21 | Shape : Slaughtering Strike casse palettes et murs cassables | [10] ; [2] | 9.2.0 | VERIFIED_MULTI_SOURCE |
+| L7-C22 | Krasue Head Form ne peut pas casser de palette et n'a pas de Bloodlust | [10] | 9.2.0 | VERIFIED_PRIMARY |
+| L7-C23 | Destruction de palette par add-on : Executioner (Obsidian Goblet), Legion (Iridescent Button), Mastermind (Lab Photo), Ghoul (Iridescent Eye Patch), Good Guy (Hard Hat), Lich (Vorpal Sword), The First (Shattered Wrist Rocket) | [2] | LIVE | STRONG_SECONDARY |
+| L7-C24 | Hex: Crowd Control (9.5.0) : 4/5/6 dernières fenêtres vaultées bloquées, +15 % de vault tueur sur elles, aura à 24 m | [13] ; [1] | 9.5.0 | VERIFIED_MULTI_SOURCE |
+| L7-C25 | Bamboozle : blocage 8/12/16 s pour tous ; Cruel Limits : toutes fenêtres bloquées 20/25/30 s par gen fini | [1] | LIVE | STRONG_SECONDARY |
+| L7-C26 | Wide Open Throttle : fast vault de palette → Haste 10/12,5/15 % 3 s, palette relevée et bloquée 60 s, aura pour tous, CD 60 s | [14] | 10.0.1 | VERIFIED_PRIMARY |
+| L7-C27 | Dissolution LIVE : dégâts de tout type, 12/16/20 s ; Hex: Blood Favour LIVE : dégâts de tout type, 24/28/32 m, 15 s (valeurs « was » du PTB) | [15] PTB 10.2.0 | LIVE (déduit) | VERIFIED_PRIMARY (valeur antérieure citée par BHVR) |
+| L7-C28 | Fin de poursuite : > 18 m, 5 s casier, LOS perdue > 8 s, hors ±35° (FOV 87°) | [8] Chase | LIVE | STRONG_SECONDARY |
+| L7-C29 | Bloodlust perdue sur casse de **palette**, coup, usage du pouvoir ; la fente ignore la Bloodlust (1.5.0) | [9] Bloodlust | LIVE | STRONG_SECONDARY |
+| L7-C30 | Écart nécessaire pour atteindre une ressource à D m ≈ fente + v_r × D / 4 (table §6.3) ; D_max ≈ 4 × (écart − fente) / v_r (§3.1) | CALC sur lot 6 | — | CALC (fente UNCERTAIN) |
+
+## Conflits
+
+#### CONFLICT-L7-01 : exclusivités de maze tiles par royaume vs pool commun 9.2.0
+- Source A : wiki « Maze Tiles » (page lue le 27/09/2026, sans date de révision visible) : 4-lane absent de Coldwind et Withered Isle ; pallet gym absent de Withered Isle ; debris pile gym, locker gym, labyrinth gym, variant gym « exclusifs » à certains royaumes.
+- Source B : notes officielles 9.2.0 (art. 523) : « Updated all Realms to draw from the same pool of available maze tile layouts » ; reprise telle quelle dans les journaux des pages royaumes (Red Forest, Crotus Prenn, Coldwind) du wiki.
+- Hypothèse : la page Maze Tiles n'a pas été mise à jour après 9.2.0 ; ou « layouts » désigne des **agencements** de zones de maze plutôt que les **itérations** de tiles (le design des murs reste, lui, propre au royaume).
+- Résolution : **UNRESOLVED**. Ne pas enseigner d'exclusivité par royaume ; vérification en jeu (partie personnalisée par royaume) ou source datée nécessaire.
+
+#### CONFLICT-L7-02 : distance minimale entre palettes
+- Source A : wiki Pallets, section « Spawn Routine » : au moins 14, 16, 18 ou 20 m sur des emplacements prédéfinis.
+- Source B : même page, journal 1.9.0 : distance minimale portée de 8 à **10 m**.
+- Hypothèse : la valeur 1.9.0 est historique ; les valeurs 14-20 m viendraient d'une modification non documentée dans le journal (ou dépendent du type d'emplacement / de la carte).
+- Résolution : retenir « ≥ 14-20 m selon la carte » comme STRONG_SECONDARY (valeur actuelle de la page) ; **UNRESOLVED** sur l'origine et le critère 14/16/18/20.
+
+#### CONFLICT-L7-03 : liste des casses instantanées (audit / lot 6 §1.3 vs wiki Pallets)
+- Source A : audit phase 0 (et lot 6 §1.3) : Mastermind (Virulent Bound) et Good Guy cités comme casseurs sans condition ; Shape, Executioner, Nemesis, Singularity, The First absents.
+- Source B : wiki Pallets (lu en entier) : Mastermind et Good Guy **vaultent** les palettes de base mais ne les **détruisent** qu'avec un add-on (Lab Photo, Hard Hat) ; ajoute Shape (confirmé [PN 9.2.0]), Executioner (Obsidian Goblet), Nemesis (MR2), Singularity (Overclock), The First (Shattered Wrist Rocket).
+- Hypothèse : l'audit (via résumé de recherche) a confondu « vaulter » et « détruire ».
+- Résolution : **Source B retenue** (page complète + note officielle pour la Shape) ; à reporter dans le lot 6 et le handbook lors de la réécriture.
+
+#### CONFLICT-L7-04 : tueurs qui vaultent les palettes (incohérence interne du wiki)
+- Source A : wiki Pallets, « Overview » : Legion, Mastermind, Ghoul.
+- Source B : même page, « Vaulting » : Legion, Mastermind, Ghoul, **Good Guy, Krasue**.
+- Hypothèse : l'introduction n'a pas été mise à jour après l'ajout de Good Guy et Krasue.
+- Résolution : retenir la liste longue (B) comme STRONG_SECONDARY ; conditions exactes pour Good Guy et Krasue **UNCERTAIN** (voir lot 4).
+
+#### CONFLICT-L7-05 : descriptions PTB affichées comme courantes sur le wiki
+- Source A : pages Windows / Breakable Walls (27/09/2026) : Resilience, Dark Arrogance, Fire Up, Superior Anatomy, Unbound, Game Afoot marquées « based on the changes announced for … Patch 10.2.0 » ; Dissolution et Windows of Opportunity affichées **sans** que la mention apparaisse dans l'extraction texte, mais identiques au PTB.
+- Source B : notes PTB 10.2.0 (art. 559) : ces deux perks sont modifiées en PTB (« was … »).
+- Résolution : valeurs PTB **exclues** ; LIVE de Dissolution et Blood Favour reconstituées à partir du « was » ; LIVE de Windows of Opportunity **non relue** (UNCERTAIN).
+
+## Écarts avec le guide seed
+
+| Élément | Le guide dit | Vérifié | Verdict |
+|---|---|---|---|
+| Force des tiles (ch. 2, tableau) | God / safe / pseudo-safe / unsafe comme niveaux de tiles | Aucune définition officielle ; catégories relatives au tueur et à l'état de chase (§3) | IMPRÉCIS (opinion présentée comme fait) |
+| Loops « infinies » (ch. 2 et fiches cartes, audit) | Certaines loops infinies | Blocage de fenêtre (3 vaults / 30 s, rechute), Bloodlust, palettes finies : aucune loop infinie en LIVE (§1.1) | FAUX |
+| Shack : « au moins deux tours de fenêtre avant la palette » | Règle absolue | Dépend du trajet du tueur, de l'état de santé, du pouvoir (lot 6 T05) | IMPRÉCIS (trop absolu) |
+| Shack : « au 3e vault la fenêtre se bloque » | Blocage au 3e vault | Le 3e vault est permis, blocage ensuite, pour toi seul, 30 s ; rechute après 1 vault dans les 30 s suivantes | IMPRÉCIS |
+| Shack : composition | 2 portes dont 1 à palette, 1 fenêtre « sur un long mur », 2 casiers, sous-sol possible | Conforme sauf « long mur » (non décrit) | OK (position de la fenêtre NON VÉRIFIABLE) |
+| « God pallet se garde (sauf dernier crochet ou fin de partie) » | Règle | Dépend du coût de la garder, des casseurs, des ressources restantes (§4.16) | IMPRÉCIS (trop absolu) |
+| Jungle gym | Mur en L + mur en T face à face, fenêtre et palette opposées ; long wall > short wall | Fenêtre et palette opposées : conforme ; « T + L » : simplification ; LW > SW : EXPERT OPINION | OK (géométrie) / opinion non étiquetée |
+| T-L walls | 2 fenêtres, pas de palette ; T plus sûr que L ; « souvent sens horaire » | 2 fenêtres, pas de palette : conforme ; T > L non vérifiable ; sens horaire = orientation RNG | OK / NON VÉRIFIABLE / FAUX (règle d'orientation) |
+| 4-lane | 4 murs parallèles, 1 fenêtre + 1 palette ; outside > inside ; absent de Coldwind et Withered Isle | Géométrie conforme (opened/closed) ; exclusivité contredite par le pool commun 9.2.0 | OK / NON VÉRIFIABLE (CONFLICT-L7-01) |
+| Pallet gym | Long C + court L + palette entre les deux ; faible sans palette | Conforme | OK |
+| Debris pile gym vs Trash pile gym | Deux tiles différentes (« safe » / « fort ») | Même tile (alias du wiki) | FAUX (doublon) |
+| Locker gym | Mur courbe 5 casiers, mur central fenêtre, palette entre segments | Conforme | OK |
+| Labyrinth gym | 5 entrées ; « Wolfpack » / « Lone Wolf » | 5 entrées et 2 variantes : conforme ; noms non trouvés | OK / NON VÉRIFIABLE (noms) |
+| Variant gym | 5 segments en C et Y ; fenêtre à gauche ; palette entre centre et droite | Conforme (« C et Y » non décrit) | OK |
+| Double window gym, small-wall gym, edge tiles (Z, U), western/sandwich gym | Tiles listées | Absentes des pages lues (Glenvale : T-L et 4-lane avec mur cassable, shack western) | NON VÉRIFIABLE |
+| Exclusivités par royaume (tableau « Autres gyms ») | Listes de royaumes | Pool commun depuis 9.2.0 | PROBABLEMENT PÉRIMÉ (CONFLICT-L7-01) |
+| Main buildings : « règle des drops », « le tueur perd 3 à 5 s » | Règle + chiffre | Règle : HEURISTIC plausible ; chiffre : aucune mesure | OK (HEURISTIC) / NON VÉRIFIABLE |
+| Mains « les plus forts » (Disturbed Ward, Chapelle « god window »…) | Liste | Avis ; main de Disturbed Ward retouché en 9.3.0 (spawn) | IMPRÉCIS (opinion, possiblement périmée) |
+| Cow Tree | Murets de pierre, 1 fenêtre + 1 palette | Conforme | OK |
+| Harvester | Vault droit réversible, gauche sens unique | Conforme | OK |
+| Maïs | Pas de loop, LOS cassée | Non traité par les pages lues | NON VÉRIFIABLE (plausible) |
+| Coal Tower « se joue comme un shack » ; Lumber pile « long mur avec palette » | Structures MacMillan | Coal Tower = main à 2 niveaux, 1 fenêtre, 3 drops, 3 murs cassables ; Lumber pile : aucune palette décrite | IMPRÉCIS / NON VÉRIFIABLE |
+| Car piles (Autohaven) « hauts murs, excellent blocage de LOS » | Hauts murs | Murs de maze d'Autohaven décrits « medium » ; car piles non décrits | IMPRÉCIS |
+| Bus scolaire « se boucle en longueur » | Loop en longueur | 2 variantes, un vault toujours bloqué, fenêtre arrière = drop-off | IMPRÉCIS |
+| Bateaux du Swamp : Pale Rose (ponts, escaliers), Shrimp Boat (rampes, vaults), corbeaux | — | Conforme (Pale Rose 2 niveaux, 3 escaliers, 2 fenêtres à l'étage ; Shrimp Boat rampes + fenêtre ; « crow bomb » documenté) | OK |
+| Tile chaining « ne jamais partir vers une dead zone » | Règle | Dead zone relative à l'écart (§3.1) : partir vers une zone « morte » peut être correct avec un gros écart | IMPRÉCIS |
+| Fast vault (principe 7) | ≥ 2,5 m droit ; angle → moyen 0,9 s | Conforme | OK |
+| Test des 5 secondes | Heuristique | Cohérent avec H1-H2 (§6.3) | OK (HEURISTIC) |
+
+## Questions ouvertes
+
+1. La page Maze Tiles est-elle antérieure à 9.2.0 ? Un 4-lane peut-il apparaître à Coldwind ou Withered Isle en LIVE ? (CONFLICT-L7-01 ; test en partie personnalisée.)
+2. Disposition exacte du Killer Shack par royaume (position de W par rapport à P et D) : le wiki ne la donne pas.
+3. Les tiles sont-elles tournées **et** reflétées (miroir) ? Observation courante, non documentée.
+4. Origine et critère des distances 14/16/18/20 m entre palettes (CONFLICT-L7-02) ; nombre de palettes par carte après 9.3.2.
+5. Portée utile de la fente et durée d'abaissement d'une palette (conditionnent toutes les tables CALC).
+6. Casser un **mur cassable** remet-il la Bloodlust à zéro ?
+7. Temps réellement perdu par un tueur sur un drop d'étage (seed : 3-5 s) : à mesurer.
+8. Le compteur de blocage de fenêtre compte-t-il les vaults **medium/slow** ? (Le wiki dit « vaults », sans distinction.)
+9. Conditions exactes de vault de palette de Good Guy et Krasue (CONFLICT-L7-04).
+10. Valeurs LIVE de Windows of Opportunity (la page wiki affiche la refonte PTB).
+11. Portée à laquelle un survivant entend une palette cassée ailleurs (utile pour la carte mentale en SoloQ).
+12. Hiérarchies d'experts (LW > SW, opened > closed, T > L) : à confronter à une source experte écrite et datée (non trouvée ; la vidéo d'Otzdarva [17] n'a pas pu être consultée).
+
+## Sources
+
+[1] Windows — https://deadbydaylight.wiki.gg/wiki/Windows — consulté le 27/09/2026 via API MediaWiki (page complète)
+[2] Pallets — https://deadbydaylight.wiki.gg/wiki/Pallets — consulté le 27/09/2026 via API MediaWiki (page complète)
+[3] Maze Tiles — https://deadbydaylight.wiki.gg/wiki/Maze_Tiles — consulté le 27/09/2026 via API MediaWiki (page complète)
+[4] Killer Shack — https://deadbydaylight.wiki.gg/wiki/Killer_Shack — consulté le 27/09/2026 via API MediaWiki
+[5] Breakable Walls — https://deadbydaylight.wiki.gg/wiki/Breakable_Walls — consulté le 27/09/2026 via API MediaWiki
+[6] Structures et pages liées (Arbor, Car Crusher, Crane, Harvester, Hills, Lumber Pile, Patio, Pier, Sacrificial Tree, School Bus, Shrine (Structure), Water Tower, Basement) — https://deadbydaylight.wiki.gg/wiki/Structures — consulté le 27/09/2026 via API MediaWiki
+[7] Pages de cartes Coal Tower, The Pale Rose, Grim Pantry, Wreckers' Yard ; pages de royaumes Coldwind Farm, Red Forest, Crotus Prenn Asylum — https://deadbydaylight.wiki.gg/wiki/Coal_Tower (etc.) — consulté le 27/09/2026 via API MediaWiki
+[8] Chase — https://deadbydaylight.wiki.gg/wiki/Chase — consulté le 27/09/2026 via API MediaWiki
+[9] Status HUD/Bloodlust — https://deadbydaylight.wiki.gg/wiki/Status_HUD/Bloodlust — consulté le 27/09/2026 via API MediaWiki
+[10] 9.2.0 | Sinister Grace (notes officielles) — https://forums.bhvr.com/dead-by-daylight/kb/articles/523 — copie archivée `kb/sources/patches/official_523.txt`
+[11] 9.3.0 | Mid-Chapter (notes officielles) — https://forums.bhvr.com/dead-by-daylight/kb/articles/529 — `official_529.txt`
+[12] 9.3.2 | Bugfix Patch (notes officielles) — https://forums.bhvr.com/dead-by-daylight/kb/articles/530 — `official_530.txt`
+[13] 9.5.0 | All-Kill: Comeback (notes officielles) — https://forums.bhvr.com/dead-by-daylight/kb/articles/538 — `official_538.txt`
+[14] 10.0.1 | Bugfix Patch (notes officielles) — https://forums.bhvr.com/dead-by-daylight/kb/articles/551 — `official_551.txt` ; recherche par mots-clés dans `official_534` à `official_558` (9.4.0 → 10.1.2a)
+[15] 10.2.0 PTB Patch Notes (**non LIVE**) — https://forums.bhvr.com/dead-by-daylight/kb/articles/559 — `official_559.txt` (utilisé seulement pour les valeurs « was » = LIVE)
+[16] Hens333 — Callouts (système horaire de repérage des cartes) — https://hens333.com/callouts — consulté le 27/09/2026 via curl ; EXPERT_OPINION (outil de communication, pas de théorie de tiles)
+[17] Otzdarva — « All Common Tiles Explained | Dead by Daylight » (chaîne not Otzdarva), lien depuis https://otzdarva.com/dbd/beginner-guides — https://www.youtube.com/watch?v=E5QWNS14MS0 — **titre seul lu (oEmbed) ; contenu NON consulté (captcha YouTube)** ; non utilisé
+[18] Guide Steam « How to Loop The Killer Shack » (doruk, 30 janv. [2026 ?]) — https://steamcommunity.com/sharedfiles/filedetails/?id=3657015784 — consulté le 27/09/2026 ; COMMUNITY_OBSERVATION de faible qualité, cité uniquement comme exemple de la règle populaire « 3 vaults puis palette »
+[19] Sources internes : `kb/seed/ch0_2.txt` (seed, critiqué), `kb/seed/audit_phase0.txt`, `kb/research/batch6_chase_tech.md`, `kb/deliverables/KILLER_COUNTERPLAY_HANDBOOK.md` §3

@@ -173,7 +173,7 @@ Périmètre (23 perks) : Brutal Strength, Enduring, Sloppy Butcher, Friends 'til
 - **PTB 10.2.0 (NON LIVE)** : ne se déclenche plus que quand un survivant **en bonne santé devient blessé par une attaque de base** ; rayon fixe **32 m** ; durée **13/14/15 s** (les tiers portent sur la durée). Note de dev : combos avec Dissolution et les pouvoirs qui blessent vite, et refus des pallet saves [25][37]. VERIFIED_MULTI_SOURCE.
 - **Indice observable (survivant)** (HEURISTIC) : **palettes bloquées par l'Entité** (griffes/pointes) juste après une perte d'état de santé (coup, pouvoir, mise au sol d'un coéquipier) ; totem **Hex allumé** dès le début.
 - **Soupçonner** (HEURISTIC) : impossibilité de lâcher une palette dans la seconde qui suit un coup reçu, ou près d'un coéquipier qui vient de tomber (en LIVE, la mise au sol déclenche aussi : pallet save refusé).
-- **Confirmer** (HEURISTIC) : palette bloquée qui se libère ~15 s plus tard ; effet qui s'arrête après purification d'un totem.
+- **Confirmer** (HEURISTIC) : palette bloquée qui se libère ~15 s plus tard ; effet qui s’arrête après purification (ou bénédiction) du totem Hex.
 - **Adaptation robuste** (HEURISTIC) : après un coup, **courir vers une fenêtre** ou loin (hors rayon) plutôt que vers la palette la plus proche ; purifier le totem.
 - **Counterplay** (HEURISTIC) : SWF : un allié non poursuivi purifie ; « chase hors rayon » ; utiliser les fenêtres pendant 15 s.
 - **Erreurs à ne pas faire** (HEURISTIC) : spammer l'action palette sur une palette bloquée.

@@ -149,49 +149,75 @@ Règles d'usage ajoutées par l'audit P14 :
 - **Sources** : [1] [2] [5] [O-510] [O-512] [O-529] [O-544] [O-559].
 
 ## 11. The Pig (Amanda Young) — archétype(s) : furtif | zone/piège (Reverse Bear Traps) | M1
-- **Version** : **buffs au 9.1.0 (29/07/2025)**, VERIFIED dans [2] ; valeurs non lues. Statut LIVE.
-- **Données LIVE** (UNCERTAIN-MM) :
-  - Vitesse 4,6 m/s. **TR 32 m** selon la mémoire du modèle, le seed dit 24 m : voir CONFLICT-L4G2-02. Taille moyenne. **Undetectable accroupie** (FACT de principe [UNCERTAIN-MM] ; Undetectable = pas de TR ni de red stain, FACT [AUDIT]) ; vitesse accroupie (seed 4,0 m/s, buff 9.1) non vérifiée.
-  - Ambush Dash : charge audible (**rugissement**), puis ruée courte.
-  - **4 Reverse Bear Traps** (UNCERTAIN-MM, « confiance forte » subjective), posés sur un survivant à terre. Ils s'activent à la complétion d'un générateur. Compte à rebours (seed 150 s) en pause en chase. Pour les retirer : fouiller les **Jigsaw Boxes** (nombre non vérifié). **Un survivant qui franchit la porte de sortie avec un piège actif meurt** (FACT de principe [UNCERTAIN-MM], cohérent avec la ligne L4G2-08 des Claims ; le conseil « ne pas sortir piégé » reste prudent quelle que soit la vérification). Comportement une fois les gens terminés (pose et activation) : non vérifié.
+- **Version** : **buffs au 9.1.0 (29/07/2025)** (FACT [OFF] [O-516] + changelog wiki [6], VERIFIED_MULTI_SOURCE) : Ambush Dash **6,9 → 7,1 m/s** ; vitesse accroupie **3,8 → 4,0 m/s** ; s'accroupir / se relever **1 → 0,8 s** ; fondu du TR en s'accroupissant plus rapide (note officielle : taux 0,25 → 0,33 ; wiki : 4 → 3 s) ; entrées « maintenues » pour s'accroupir et charger la ruée. **TR 32 → 24 m** au 9.1.0 : changelog wiki et infobox [6] (STRONG_SECONDARY ; **absent de la note officielle 9.1.0**, qui ne cite que le fondu). Add-ons : John's Medical File 10 → 5 %, Last Will révisé [O-516]. 9.6.2 : Amanda's Letter réactivé ; correctif du nombre de pièges des add-ons [O-546]. PTB 10.2.0 : un correctif visuel seulement [O-559]. Statut LIVE.
+- **Données LIVE** (FACT [WIKI] [6], STRONG_SECONDARY sauf mention) :
+  - Vitesse 4,6 m/s ; **TR 24 m** (corr. 12b : le seed avait raison, la valeur « 32 m » de ce fichier venait de la mémoire du modèle, antérieure au 9.1.0) ; taille moyenne.
+  - **Accroupie** : **Undetectable**, 4,0 m/s (VERIFIED_MULTI_SOURCE) ; transition 0,8 s ; le TR met **3 s** à disparaître en s'accroupissant et **1,4 s** à revenir en se relevant.
+  - **Ambush Dash** : charge **0,75 s** depuis l'état accroupi, ruée **2,3 s à 7,1 m/s** (VERIFIED_MULTI_SOURCE pour 7,1) ; cooldown 2,7 s après un coup, **1,5 s après un raté**. Signal sonore de charge (« rugissement ») : cité par le seed et la mémoire du modèle, **non décrit par la page** (UNCERTAIN-MM).
+  - **4 Reverse Bear Traps** (non renouvelables), posés sur un survivant à terre en 3,3 s. **5 Jigsaw Boxes** apparaissent sur la carte.
+  - Un piège **inactif** s'active **à la complétion d'un générateur**. Piège actif : minuteur de **150 s**, **en pause** quand le survivant est à terre, accroché ou **poursuivi par la Pig**. Voyant du piège : blanc → jaune → rouge, clignotement de plus en plus rapide.
+  - Retrait : fouiller des Jigsaw Boxes (**12 s** par fouille, 80 % de chance de skill check par seconde) ; il faut en fouiller **de 1 à 4** au hasard ; une fouille ratée cache l'aura de cette boîte ; **12 fouilles au total** par partie (pool partagé). Les auras des boîtes non fouillées sont **visibles en permanence par les survivants piégés**.
+  - **Sortie** : franchir la sortie avec un piège **actif** tue le survivant ; avec un piège **inactif**, on peut sortir normalement ; **la trappe (hatch) reste possible** même piégé (FACT [WIKI]). La note 10.1.0 indique que les bots ne cherchent plus à retirer un piège inactif une fois tous les gens terminés [O-556] (indice cohérent, pas une règle détaillée).
 - **Identification** :
-  - Avant le reveal : **Jigsaw Boxes visibles sur la carte** (probable dès le début, UNCERTAIN-MM) ; TR absent puis présent de façon intermittente (accroupissements) ; rugissement de dash.
-  - Pouvoir en action : piège sur la tête, minuteur, rugissement.
+  - Avant le reveal : TR de 24 m qui disparaît (3 s) et revient par intermittence (accroupissements) ; Jigsaw Boxes (visibles pour les survivants **piégés** ; pour les autres, rencontre visuelle) ; signal de ruée.
+  - Pouvoir en action : piège sur la tête, minuteur, ruée.
   - Stratégie probable : poser les pièges tôt pour retirer des survivants des gens, embuscades accroupie près des gens (HEURISTIC).
-- **Ce qu'il cherche en chase** : dash à courte portée sur des tiles courtes ; accroupissement près d'une fenêtre ou d'un coin pour cacher sa red stain et son TR (HEURISTIC).
-- **Tiles / structures** : le dash est prévisible (rugissement, charge) ; les murs et coins cassent la trajectoire. Les tiles moyennes et longues rendent le dash peu rentable (HEURISTIC).
-- **Mindgames propres** : accroupissement près d'une boucle (TR et red stain disparaissent) ; faux départ de dash (HEURISTIC).
+- **Ce qu'il cherche en chase** : ruée à courte portée sur des tiles courtes ; accroupissement près d'une fenêtre ou d'un coin pour cacher sa red stain et son TR (HEURISTIC).
+- **Tiles / structures** : la ruée est prévisible (charge de 0,75 s accroupie) et dure 2,3 s en ligne droite : murs et coins cassent la trajectoire ; les tiles moyennes et longues rendent la ruée peu rentable (HEURISTIC).
+- **Mindgames propres** : accroupissement près d'une boucle (TR et red stain disparaissent en 3 s) ; faux départ de ruée (HEURISTIC).
 - **Counterplay** :
-  - Mécanique : au rugissement, contourner un coin ou vaulter au bon moment (HEURISTIC).
-  - Macro, pièges : piège actif → aller directement vers les boîtes les plus proches, en annonçant celles déjà fouillées ; piège inactif → continuer à réparer, mais **décider en équipe** du moment où l'on termine un gen quand plusieurs survivants sont piégés (HEURISTIC, pas de règle absolue : 1 piégé près des boîtes ≠ 3 piégés).
+  - Mécanique : pendant la charge (0,75 s), contourner un coin ou vaulter au bon moment ; une ruée ratée ne lui coûte que 1,5 s (FACT [WIKI]) : gagner de la distance tout de suite, pas rester à côté (HEURISTIC).
+  - Macro, pièges (corr. 12b) : piège actif → aller directement vers les boîtes dont l'aura est visible (seules les boîtes non fouillées apparaissent ; une boîte ratée disparaît de ton HUD) ; en SWF, annoncer les boîtes vides ; **en chase, le minuteur est en pause** : ne pas paniquer pendant la poursuite. Piège inactif → continuer à réparer, mais **décider en équipe** du moment où l'on termine un gen quand plusieurs survivants sont piégés (HEURISTIC : 1 piégé près des boîtes ≠ 3 piégés).
   - Stealth : vérifier les angles morts près des gens, surtout après un reset de TR (HEURISTIC). Efficacité de Spine Chill contre Undetectable : **UNCERTAIN** (non vérifiée ; Spine Chill reworkée au PTB 10.2.0, non LIVE).
-  - Fin de partie : ne jamais sortir avec un piège actif (mécanique : FACT de principe [UNCERTAIN-MM] ; le conseil est prudent dans tous les cas).
+  - Fin de partie : ne jamais franchir la sortie avec un piège actif (FACT [WIKI], mort) ; **la trappe reste une sortie valide** même piégé (FACT [WIKI]).
 - **Habitudes punissables** : quitter la chase pour chercher les boîtes au mauvais moment ; plusieurs piégés qui terminent un gen en même temps ; ignorer l'absence de TR près d'un gen.
-- **Adaptations avancées** : si un add-on modifie les boîtes ou les minuteries (Rules Set No.2, Crate of Gears, Amanda's Letter : effets non vérifiés), adapter le rythme de complétion des gens (SITUATIONAL).
-- **Add-ons qui changent la décision** : non vérifiables cette session.
+- **Adaptations avancées** : avec des add-ons de boîtes ou de minuterie (ci-dessous), adapter le rythme de complétion des gens (SITUATIONAL).
+- **Add-ons qui changent la décision** (effets : FACT [WIKI] [6] ; réponse : HEURISTIC) :
+  - Rules Set No.2 (auras des boîtes cachées tant que le piège n'est pas actif) → avec un piège inactif, repérer les boîtes à vue avant qu'un gen ne se termine.
+  - Crate of Gears / Bag of Gears (fouille −25 % / −14 % de vitesse ; pose du piège +50 %) → une fouille dure ~16 s au lieu de 12 : commencer à chercher plus tôt et limiter les gens terminés pendant qu'un survivant est piégé.
+  - Tampered Timer (minuteur −20 s → 130 s) / Jigsaw's Annotated Plan (+1 piège, +10 s, puis −10 s sur tous les pièges actifs à chaque gen terminé) → moins de marge : traiter le piège comme une urgence.
+  - Jigsaw's Sketch (+1 piège ; aura des gens réparés par un survivant piégé) → piégé, ne pas réparer : chercher la clé.
+  - Video Tape (tous les survivants commencent avec un piège) → la première complétion de gen active 4 pièges : coordonner le premier gen.
+  - Amanda's Letter (auras à 16 m quand elle est accroupie ; −2 pièges → 2 pièges) → se cacher près d'elle accroupie ne marche pas.
+  - Razor Wires (sain + skill check raté à une boîte = blessé ; skill checks +20 % plus durs) / Interlocking Razor (blessé + skill check raté = Deep Wound) → fouiller hors de sa proximité et soigner avant de fouiller si possible.
+  - Amanda's Secret (retrait du piège = Loud Noise + aura 6 s) → après un retrait, quitter la zone immédiatement.
+  - Face Mask (Blindness), Slow-Release Toxin (Exhausted tant que piégé), Utility Blades (Haemorrhage), Rusty Attachments (Mangled 70 s) → piégé, pas de perk d'Exhaustion ni d'aura.
 - **Implications de carte** : grandes cartes = boîtes éloignées, donc plus de temps de recherche (HEURISTIC).
-- **Perks fréquentes** : non vérifiables. Teachables : Make Your Choice, Scourge Hook: Hangman's Trick, Surveillance.
-- **Écart avec le seed** : CONFLICT (TR 24 m contre 32 m selon la mémoire du modèle) · NON VÉRIFIABLE (valeurs du dash, 5 boîtes, 12 s de fouille, 0,8 s d'accroupissement, Spine Chill contre sa furtivité) · OK (buffs au 9.1, [2]).
-- **Sources** : [1] [2].
+- **Perks fréquentes** : non vérifiables. Teachables (FACT [WIKI] [6]) : **Make Your Choice** (décrocher un survivant quand elle est à plus de 32 m : le sauveteur crie et devient Exposed 40/50/60 s), **Scourge Hook: Hangman's Trick** (4 Scourge Hooks ; en portant un survivant, auras à 12/14/16 m d'un Scourge Hook ; alerte si un crochet est saboté), **Surveillance** (couleur des gens abîmés ; bruit de réparation audible +8 m).
+- **Écart avec le seed** : **OK (TR 24 m, CONFLICT-L4G2-02 RÉSOLU en faveur du seed)** · OK (buffs 9.1 : 4,0 m/s accroupie, 7,1 m/s, 0,8 s ; ruée 0,75 s / 2,3 s ; 4 pièges ; pose 3,3 s ; 150 s ; pauses du minuteur ; 5 boîtes ; 12 s par fouille ; skill check probable) · **IMPRÉCIS (nouveau 12b) : « fouiller les 5 Jigsaw Boxes jusqu'à trouver la bonne clé »** → il faut en fouiller de 1 à 4, jamais les 5 ; pool de 12 fouilles par partie · NON VÉRIFIABLE (Spine Chill contre sa furtivité, kill rate 43,3 %).
+- **Sources** : [1] [2] [6] [O-516] [O-546] [O-556] [O-559].
 
 ## 12. The Clown (Kenneth Chase) — archétype(s) : anti-loop (Hindered) | mobilité (Haste)
-- **Version** : **buffs au 9.1.0 (29/07/2025)**, VERIFIED dans [2] ; valeurs non lues. Statut LIVE.
-- **Données LIVE** (UNCERTAIN-MM) : 4,6 m/s ; TR 32 m ; grande taille. Afterpiece Tonic (gaz rose) : Intoxicated (vision troublée, toux, Hindered) ; Antidote (gaz jaune) : Haste **pour lui ET pour les survivants** (FACT de principe [UNCERTAIN-MM]). Interaction P14 (HYPOTHESIS) : depuis 9.6.0, deux Haste identiques issues de pouvoirs/perks se réduisent (DR, [2]) ; la Haste de l'Antidote cumulée à une Haste de perk (Sprint Burst…) serait donc atténuée — catégories exactes dans le manuel 9.6.1, non consulté. Recharge des bouteilles : fenêtre de répit. Valeurs du seed (14 %, 12 %, 6 s, 1,6 s, 6 bouteilles) : non vérifiées. Blocage des fast vaults sous intoxication : **UNCERTAIN**.
-- **Identification** : bruit de bouteilles et de verre ; nuages rose ou jaune ; toux des survivants intoxiqués ; recharge audible (HEURISTIC).
-- **Ce qu'il cherche en chase** : lancer du gaz sur la fenêtre ou la palette visée ; longue ligne droite en Antidote (HEURISTIC).
+- **Version** : **buffs au 9.1.0 (29/07/2025)** puis **ajustement au 9.2.0** (FACT [OFF] [O-516] [O-523] + changelog wiki [7], VERIFIED_MULTI_SOURCE) :
+  - 9.1.0 : Haste de l'Antidote **10 → 12 %** ; activation de l'Antidote 2 → 1 s ; Hindered du Tonic 15 → 14 % (valeur finale après les changements PTB → LIVE) ; persistance du Hindered 2 → 1 s ; vitesse en rechargeant **1,61 → 2,3 m/s** ; recharge **3 → 2,5 s** ; add-ons révisés (Flask of Bleach 4 → 2 %, Smelly Inner Soles 66 → 15 %, Cigar Box 16 → 6 m, Ether 15 Vol% 1 → 0,5 s, VHS Porn refait).
+  - 9.2.0 (annoncé par la Developer Update d'août 2025 [O-521] comme un compromis entre les valeurs d'avant 9.1.0 et celles du 9.1.0) : activation de l'Antidote **1 → 1,6 s** ; persistance du Hindered du Tonic **1 → 1,6 s**.
+  - Rien au PTB 10.2.0. Statut LIVE.
+- **Données LIVE** (FACT [WIKI] [7] ; valeurs chiffrées ci-dessus VERIFIED_MULTI_SOURCE) :
+  - 4,6 m/s ; **TR 32 m** ; grande taille. **6 bouteilles** partagées entre Tonic et Antidote ; recharge à tout moment : **2,5 s à 2,3 m/s**. Lancer : 8,5 m/s (non chargé) à 14 m/s (chargé ≥ 1 s), trajectoire en cloche (UNCERTAIN-MM pour la forme exacte).
+  - **Tonic** (nuage fuchsia/rose, dure 10 s, se dissipe plus vite quand on le traverse) : Intoxicated = vision troublée (4 s, décroissante), toux (2 s), **pas de fast vault** (1 s après la sortie), **−14 % Hindered** (1,6 s après la sortie). Le Clown y est immunisé.
+  - **Antidote** (nuage blanc, **jaune après 1,6 s**) : **+12 % Haste pendant 6 s pour tous les joueurs qui le touchent**, survivants compris (5,15 m/s pour lui). La phrase de description du pouvoir sur le wiki affiche « +14 % » : incohérence interne de la page, tranchée à 12 % (CONFLICT-L4G2-04).
+  - **Neutralisation** : les deux gaz s'annulent au contact ; passer de l'un à l'autre annule les effets persistants du premier.
+- **Identification** : bruit de bouteilles et de verre ; nuages rose ou jaune ; toux des survivants intoxiqués ; recharge longue (2,5 s) et visible (HEURISTIC).
+- **Ce qu'il cherche en chase** : lancer du Tonic sur la fenêtre ou la palette visée (pas de fast vault) ; longue ligne droite en Antidote (HEURISTIC).
 - **Tiles / structures** : les obstacles hauts bloquent les bouteilles ; les tiles avec plusieurs sorties permettent de contourner le gaz rose (HEURISTIC).
 - **Mindgames propres** : gaz lancé pour couper une route, puis attaque sur l'autre sortie ; Antidote pour rattraper en fin de boucle (HEURISTIC).
 - **Counterplay** :
-  - Mécanique : contourner le gaz rose, ou le traverser au plus court ; **utiliser son gaz jaune** (mécanique : FACT de principe [UNCERTAIN-MM]) ; gagner de la distance pendant qu'il recharge (HEURISTIC).
-  - Positionnel : éviter les longues lignes droites ouvertes.
-  - Macro : cibler les tiles à obstacles hauts.
-- **Habitudes punissables** : courir dans un nuage rose ; tenir une boucle en ligne droite ; rester groupés dans le gaz.
-- **Adaptations avancées** : si Diminishing Returns 9.6.0 atténue le cumul de Hindered pouvoir + perk (HYPOTHESIS, [2]), les perks Hindered le rendent moins fort qu'avant 9.6.0 : à vérifier.
-- **Add-ons qui changent la décision** : non vérifiables (Redhead's Pinkie Finger, Starling Feather, etc.).
+  - Mécanique : contourner le gaz rose, ou le traverser au plus court (les effets persistent 1 à 4 s selon l'effet, FACT [WIKI]) ; **traverser son gaz jaune** (+12 % Haste pour toi aussi, FACT [WIKI]) ; **un nuage jaune annule le rose** : passer du rose au jaune coupe l'intoxication (FACT [WIKI], neutralisation) ; gagner de la distance pendant qu'il recharge (2,5 s à 2,3 m/s) (HEURISTIC).
+  - Fenêtres : pas de fast vault dans le Tonic et 1 s après : ne pas miser une chase sur un fast vault intoxiqué (FACT [WIKI] ; le « bloqué » était UNCERTAIN, c'est désormais vérifié).
+  - Positionnel : éviter les longues lignes droites ouvertes ; cibler les tiles à obstacles hauts.
+- **Habitudes punissables** : courir dans un nuage rose ; tenir une boucle en ligne droite ; rester groupés dans le gaz ; ignorer son Antidote.
+- **Adaptations avancées** : si Diminishing Returns 9.6.0 atténue le cumul d'un Hindered de pouvoir avec un Hindered de perk (HYPOTHESIS, [O-544] : pouvoirs et perks concernés, add-ons exclus), les perks Hindered le rendent moins fort qu'avant 9.6.0 : à vérifier dans le manuel. Même logique pour l'Antidote + une Haste de perk côté survivant.
+- **Add-ons qui changent la décision** (effets : FACT [WIKI] [7] ; réponse : HEURISTIC) :
+  - Redhead's Pinkie Finger (un coup **direct** de Tonic = Exposed tant qu'intoxiqué ; **1 seule bouteille**) → éviter le coup direct avant tout ; après chaque lancer il doit recharger (2,5 s) : fenêtre pour gagner de la distance.
+  - Tattoo's Middle Finger (aura 6 s des survivants touchés par le Tonic **ou l'Antidote**) → prendre sa Haste jaune te révèle : ne pas la traverser pour aller se cacher.
+  - Cigar Box (les joueurs revigorés voient les auras dans un rayon de 6 m pendant 6 s) → l'effet vaut aussi pour lui : le jaune ne sert pas à se cacher près de lui.
+  - Starling Feather / Robin Feather (−50 % / −40 % sur le délai entre deux lancers) ; Thick Cork Stopper (recharge −0,5 s) ; Smelly Inner Soles (+15 % de vitesse en rechargeant) → la fenêtre de recharge et le temps entre bouteilles sont plus courts.
+  - Flask of Bleach (Hindered −16 %) ; Bottle of Chloroform / VHS Porn (nuages rose +20 % / +10 %) ; Ether 15 Vol% (intoxication +0,5 s) → contourner plus large plutôt que traverser.
+  - Kerosene Can (Blindness 30 s) ; Sulphuric Acid Vial (Mangled 70 s) ; Sticky Soda Bottle / Cheap Gin Bottle (Haste de l'Antidote +2 % / +3 %) ; Solvent Jug / Garish Make-Up Kit (Haste +1 s / +2 s) ; Spirit of Hartshorn (nuage jaune +20 %).
 - **Implications de carte** : cartes ouvertes favorables à l'Antidote (HEURISTIC).
 - **Perks fréquentes** : non vérifiables. Teachables : Bamboozle, Coulrophobia (**20/25/30 % au 10.1.0**, VERIFIED dans [2]), Pop Goes the Weasel (+15 % de régression → **20 % au total** au 9.5.0 selon [2]).
-- **Écart avec le seed** : OK (Coulrophobia 20-30 % depuis le 10.1, [2]) · OK (Pop 20 % au total, [2]) · IMPRÉCIS (« Ces valeurs viennent des patchs 9.1 et 9.2 » : [2] ne documente pas de changement Clown au 9.2) · NON VÉRIFIABLE (valeurs chiffrées, blocage des fast vaults).
-- **Sources** : [1] [2].
+- **Écart avec le seed** : **OK (« valeurs des patchs 9.1 et 9.2 », corr. 12b)** : le 9.2.0 a bien modifié le Clown (Antidote 1,6 s, persistance 1,6 s) ; l'ancienne remarque « [2] ne documente pas de changement au 9.2 » est une lacune de l'audit · OK (6 bouteilles, recharge 2,5 s, Tonic −14 %, fast vaults bloqués, Antidote 1,6 s puis +12 % 6 s pour tous, effets qui persistent 1 à 4 s, Cigar Box, Redhead's Pinkie Finger = Exposed sur coup direct et 1 bouteille) · OK (Coulrophobia 20-30 % depuis le 10.1, [2]) · OK (Pop 20 % au total, [2]) · NON VÉRIFIABLE (tier, kill rate 52,3 %, build NightLight 69 %).
+- **Sources** : [1] [2] [7] [O-513] [O-516] [O-521] [O-523] [O-544].
 
 ## 13. The Spirit (Rin Yamaoka) — archétype(s) : mobilité | furtif (mindgame)
 - **Version** : aucun changement 9.0.0 → 10.1.2a trouvé dans [2]. Statut LIVE présumé, UNCERTAIN.

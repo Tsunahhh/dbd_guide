@@ -330,58 +330,86 @@ Règles HEURISTIC (effets sous-jacents re-vérifiés sur page wiki complète le 
 
 | ID | Claim | Source | Patch | Confiance |
 |---|---|---|---|---|
-| K93-01 | Thrilling Tremors : blocage 16 s des gens non réparés au pickup, recharge 40/35/30 s | [1][2][3] | LIVE (depuis 9.0.0) | STRONG_SECONDARY |
-| K93-02 | Thrilling Tremors : recharge était 100/80/60 s avant 9.0.0 | [1][3] | HISTORICAL | STRONG_SECONDARY |
-| K93-03 | Thrilling Tremors : régression des gens en pause pendant le blocage | [2] | LIVE | STRONG_SECONDARY |
-| K93-04 | Deerstalker : toutes les 40/35/30 s, survivant au plus faible temps de chase voit l'aura du tueur 3 s | [6][7] (« was 3 s ») | LIVE | STRONG_SECONDARY (voir CONFLICT-K93-01) |
-| K93-05 | Deerstalker : aura 4 s | [6][7] | PTB 10.2.0 | STRONG_SECONDARY |
-| K93-06 | Thrill of the Hunt : −8/9/10 %/jeton purif./bénédiction, max 40/45/50 % | [8][12] | LIVE (10.1.0) | STRONG_SECONDARY (voir CONFLICT-K93-02) |
-| K93-07 | Thrill of the Hunt : rework (1ᵉʳ hook allume un terne, chaque hook bloque les Hex 6/7/8 s par Hex allumé) | [10][11] | PTB 10.2.0 | STRONG_SECONDARY |
-| K93-08 | Blood Warden : blocage des portes 40/50/60 s, 1×/partie | [12] | LIVE | STRONG_SECONDARY |
-| K93-09 | Silent Shadow : perk de The Slasher (10.0.0) | [12] | LIVE | STRONG_SECONDARY |
-| K93-10 | Furtive Chase : changement PTB 9.3.0 reverté au 9.3.0 LIVE | [12] | HISTORICAL | STRONG_SECONDARY |
+| K93-01 | Thrilling Tremors : blocage 16 s des gens non réparés au pickup, recharge 40/35/30 s | [24][15] | LIVE (depuis 9.0.0) | VERIFIED_MULTI_SOURCE |
+| K93-02 | Thrilling Tremors : recharge était 100/80/60 s avant 9.0.0 | [15][24] | HISTORICAL | VERIFIED_MULTI_SOURCE |
+| K93-03 | Thrilling Tremors : régression des gens en pause pendant le blocage | [2] (absent du texte wiki complet) | LIVE ? | UNCERTAIN |
+| K93-04 | Deerstalker : toutes les 40/35/30 s, survivant au plus faible temps de chase voit l'aura du tueur 3 s ; réciprocité d'aura | [25][17][23] | LIVE | VERIFIED_MULTI_SOURCE |
+| K93-05 | Deerstalker : aura 4 s | [23][25] | PTB 10.2.0 (NON LIVE) | VERIFIED_MULTI_SOURCE |
+| K93-06 | Thrill of the Hunt : −8/9/10 %/jeton purif./bénédiction, max 40/45/50 % (était 8/10/12 %) ; plus de bonus BP depuis 8.4.0 | [26][22] | LIVE (10.1.0) | VERIFIED_MULTI_SOURCE |
+| K93-07 | Thrill of the Hunt : rework (1ᵉʳ hook allume un terne, chaque hook bloque les totems 6/7/8 s par Hex allumé) | [23][26] | PTB 10.2.0 (NON LIVE) | VERIFIED_MULTI_SOURCE |
+| K93-08 | Blood Warden : auras en zone de sortie ; blocage des portes ouvertes 40/50/60 s, 1×/partie | [33][12] | LIVE | STRONG_SECONDARY |
+| K93-09 | Silent Shadow : Undetectable 11/12/13 s par accrochage + permanent portes alimentées (rework 10.0.0) | [39][21] | LIVE | VERIFIED_MULTI_SOURCE |
+| K93-10 | Furtive Chase : 10 % Haste + Undetectable 14/16/18 s ; changement PTB 9.3.0 reverté | [36][18] | LIVE / HISTORICAL | STRONG_SECONDARY |
+| K93-11 | Infectious Fright : cri + position 4/5/6 s dans le RT à chaque mise au sol | [27] | LIVE | STRONG_SECONDARY |
+| K93-12 | Tinkerer : 70 %, Undetectable 12/14/16 s, une fois par gen | [28] | LIVE | STRONG_SECONDARY |
+| K93-13 | Spirit Fury : après 4/3/2 palettes cassées, palette du stun détruite, stun subi | [29] | LIVE | STRONG_SECONDARY |
+| K93-14 | Face the Darkness : 35/30/25 s, cri + aura 2 s hors RT ; fin si le maudit est sain ou mourant | [30] | LIVE | STRONG_SECONDARY |
+| K93-15 | Agitation : +6/12/18 % en portant, RT +12 m (PTB : 14/16/18 %) | [31][23] | LIVE / PTB | VERIFIED_MULTI_SOURCE |
+| K93-16 | Iron Grasp : +4/8/12 % de temps de débattement, −75 % de déport (PTB : 10/11/12 %) | [32][23] | LIVE / PTB | VERIFIED_MULTI_SOURCE |
+| K93-17 | Remember Me : +6 s/jeton, max +18/24/30 s (38/44/50 s), l'Obsession exemptée | [34] | LIVE | STRONG_SECONDARY |
+| K93-18 | Dragon's Grip : 30 s, cri 4 s, Exposed 60 s, recharge 60/45/30 s (9.1.0) | [35][16] | LIVE | VERIFIED_MULTI_SOURCE |
+| K93-19 | Machine Learning : 1 gen compromis, 8 % Haste + Undetectable 40/50/60 s, désactivée après usage | [37][15][23] | LIVE | VERIFIED_MULTI_SOURCE |
+| K93-20 | Machine Learning : 3 gens compromis, 10 % Haste | [23][37] | PTB 10.2.0 (NON LIVE) | VERIFIED_MULTI_SOURCE |
+| K93-21 | Trail of Torment : Undetectable + aura jaune du gen pour tous tant qu'il régresse, recharge 60/45/30 s | [38] | LIVE | STRONG_SECONDARY |
+| K93-22 | Hex: Retribution : Oblivious 40/50/60 s (bénir ou purifier tout totem), auras 20 s au retrait d'un Hex | [40][15] | LIVE (9.0.0) | VERIFIED_MULTI_SOURCE |
+| K93-23 | Mindbreaker : Blindness + Exhausted en réparant, persistance 3/4/5 s, gèle un Exhausted existant | [41] | LIVE | STRONG_SECONDARY |
+| K93-24 | Hex: Hive Mind : 1er hook, explosion −6/8/10 % des gens restants quand 4 gens sont terminés | [42][19] | LIVE (9.4.0) | VERIFIED_MULTI_SOURCE |
+| K93-25 | Secret Project : blocage 20/25/30 s par totem béni/purifié ; Undetectable 30 s à tout blocage de gen | [43][19] | LIVE (9.4.0) | VERIFIED_MULTI_SOURCE |
+| K93-26 | Monstrous Shrine : cave + 4 crochets, > 24 m → sacrifice +10/15/20 % | [44] | LIVE | STRONG_SECONDARY |
+| K93-27 | Monstrous Shrine : > 24 m → gens non réparés régressent à 150/175/200 % (remplace l'accélération du sacrifice) | [23][44] | PTB 10.2.0 (NON LIVE) | VERIFIED_MULTI_SOURCE |
 
 ## Conflits
 
 #### CONFLICT-K93-01 : durée d'aura LIVE de Deerstalker (3 s vs 4 s)
 - Source A : résumé de recherche fandom/wiki (« Current Effects » : aura **4 s**) — https://deadbydaylight.fandom.com/wiki/Deerstalker
-- Source B : résumé des notes PTB 10.2.0 (« 4 seconds (was 3 seconds) ») — https://steampeaks.com/news/706656822950364293 , https://app.betahub.io/projects/pr-5642738318/releases/5737
-- Hypothèse : la page wiki affiche déjà la valeur PTB (risque de contamination PTB signalé par l'audit, point 10).
-- Résolution : **LIVE = 3 s, PTB = 4 s** retenu (probable), à reconfirmer quand 10.2.0 sort — UNRESOLVED formellement.
+- Source B : résumé des notes PTB 10.2.0 (« 4 seconds (was 3 seconds) »)
+- Preuve : page wiki.gg complète [25] (onglet LIVE = historique 9.2.0 : 3 s ; PTB 10.2.0 : 4 s), note officielle 9.2.0 [17] (« reveal your aura … for 3 seconds ») et note officielle 559 [23] (« 4s (was 3s) »).
+- Résolution : **RÉSOLU** — LIVE = 3 s, PTB 10.2.0 = 4 s. Le résumé A affichait déjà la valeur PTB (contamination PTB).
 
 #### CONFLICT-K93-02 : valeur LIVE de Hex: Thrill of the Hunt (8/9/10 % vs 10/12/14 %)
-- Source A : résumé fandom présenté comme « Patch 10.1.0 » : **10/12/14 %**, max 50/60/70 % — https://deadbydaylight.fandom.com/wiki/Hex:_Thrill_of_the_Hunt
-- Source B : résumé wiki.gg / NightLight : **8/9/10 %**, max 40/45/50 % ; audit phase 0 (patch 10.1.0 : « Hex: Thrill of the Hunt 8/9/10 % »).
-- Hypothèse : fandom (miroir moins maintenu) montre la valeur d'avant 10.1.0 ; le résumé a mal attribué le numéro de patch.
-- Résolution : **8/9/10 % LIVE** retenu (audit + wiki.gg) ; 10/12/14 % = OUTDATED probable.
+- Source A : résumé fandom présenté comme « Patch 10.1.0 » : **10/12/14 %**, max 50/60/70 %
+- Source B : résumé wiki.gg / NightLight : **8/9/10 %**, max 40/45/50 % ; audit phase 0.
+- Preuve : page wiki.gg complète [26] (LIVE 8/9/10 %, max 40/45/50 %) et note officielle 10.1.0 [22] : « 8/9/10% slower (was 8/10/12%) ». 10/12/14 % = valeur du patch 8.4.0 (change log wiki).
+- Résolution : **RÉSOLU** — 8/9/10 % LIVE ; 10/12/14 % = OUTDATED. Détail mineur : le change log wiki donne « from 10/11/12 % » pour 10.1.0, la note officielle « was 8/10/12 % » ; la note officielle prévaut pour l'historique.
 
 ## Écarts avec le guide seed
 
 | Élément | Le guide dit | Vérifié | Verdict |
 |---|---|---|---|
-| Thrilling Tremors | 16 s, recharge 40/35/30 s | idem (depuis 9.0.0) ; + pause de régression, aura blanche | OK (IMPRÉCIS mineur) |
-| Deerstalker | aura 3 s toutes les 40/35/30 s ; 4 s au PTB | idem ; omet le volet « lecture d'aura réciproque » | OK / IMPRÉCIS |
-| Hex: Thrill of the Hunt | 5 jetons, 8/9/10 %/jeton ; rework au PTB | idem | OK |
-| Hex: Thrill of the Hunt (PTB) | s'allume au 1ᵉʳ hook, blocage Hex 6/7/8 s par Hex | idem, bien étiqueté PTB | OK |
+| Thrilling Tremors | 16 s, recharge 40/35/30 s | idem (wiki + note 9.0.0) ; omet l'aura blanche | OK (IMPRÉCIS mineur) |
+| Deerstalker | aura 3 s toutes les 40/35/30 s ; 4 s au PTB | idem (wiki + notes 9.2.0 / 559) ; omet le volet « lecture d'aura réciproque » | OK / IMPRÉCIS |
+| Hex: Thrill of the Hunt | 5 jetons, 8/9/10 %/jeton ; rework au PTB | idem (wiki + note 10.1.0) | OK |
+| Hex: Thrill of the Hunt (PTB) | s'allume au 1ᵉʳ hook, blocage Hex 6/7/8 s par Hex | idem (note 559), bien étiqueté PTB | OK |
 | Deerstalker (PTB) | 4 s | idem | OK |
-| Blood Warden | 40/50/60 s, 1×/partie, auras en sortie | idem (audit) | OK |
-| Silent Shadow | perk du Slasher | idem (audit 10.0.0) | OK (valeurs NON VÉRIFIABLE) |
-| Machine Learning | p93 : 8 % Haste ; ch8 l.1483 : 10 % Haste | non vérifié | IMPRÉCIS (incohérence interne) |
-| Tinkerer | « la 1ʳᵉ fois qu'un gen atteint 70 % » | non vérifié (connaissance du modèle (antérieure à mi-2026), UNCERTAIN : une fois **par** gen) | NON VÉRIFIABLE (ambigu) |
-| Hex: Retribution | Oblivious en touchant « un totem (terne ou hex) », révélation 20 s | non vérifié (connaissance du modèle (antérieure à mi-2026), UNCERTAIN : terne seulement, durée plus courte) | NON VÉRIFIABLE |
-| Dragon's Grip | recharge 60/45/30 s | non vérifié | NON VÉRIFIABLE |
-| Trail of Torment | recharge 60/45/30 s | non vérifié | NON VÉRIFIABLE |
-| Monstrous Shrine (PTB) | « régression à 150/175/200 % » | non vérifié ; formulation suspecte | NON VÉRIFIABLE |
-| Agitation / Iron Grasp (PTB) | 14/16/18 % ; 10/11/12 % | non vérifié | NON VÉRIFIABLE (étiquetage PTB correct) |
-| Autres (Infectious Fright, Spirit Fury, Face the Darkness, Remember Me, Furtive Chase, Mindbreaker, Hive Mind, Secret Project) | voir fiches | non vérifié | NON VÉRIFIABLE |
+| Infectious Fright | RT, 4/5/6 s | idem | OK |
+| Tinkerer | « la 1ʳᵉ fois qu'un gen atteint 70 % », 12/14/16 s | une fois **par** gen ; valeurs OK | IMPRÉCIS |
+| Spirit Fury | 4/3/2 palettes | idem | OK |
+| Hex: Face the Darkness | 35/30/25 s, 2 s, hors RT | idem | OK |
+| Agitation (LIVE / PTB) | 6/12/18 % ; PTB 14/16/18 % | idem (wiki + note 559) | OK |
+| Iron Grasp (LIVE / PTB) | 4/8/12 %, 75 % ; PTB 10/11/12 % | idem (wiki + note 559) | OK |
+| Blood Warden | 40/50/60 s, 1×/partie, auras en sortie | idem | OK |
+| Remember Me | jetons 3/4/5, allongement de l'ouverture (sans valeur) | +6 s/jeton, max 38/44/50 s | IMPRÉCIS (omission) |
+| Dragon's Grip | recharge 60/45/30 s | idem (wiki + note 9.1.0) | OK |
+| Furtive Chase | 10 % Haste, 14/16/18 s, transfert | idem | OK |
+| Machine Learning (p93) | 8 % Haste, 40/50/60 s | idem (wiki + notes 9.0.0 / 559) | OK |
+| Machine Learning (ch8 l.1483) | 10 % Haste | 10 % = valeur PTB 10.2.0 (et d'avant 9.0.0) | PTB-comme-LIVE |
+| Machine Learning (PTB) | jusqu'à 3 gens compromis | idem (+ 10 % Haste) | OK |
+| Trail of Torment | recharge 60/45/30 s | idem | OK |
+| Silent Shadow | perk du Slasher, 11/12/13 s, Undetectable en endgame | idem (wiki + note 10.0.0) | OK |
+| Hex: Retribution | Oblivious en touchant « un totem (terne ou hex) », révélation 20 s | idem (bénédiction incluse) | OK |
+| Mindbreaker | Blind + Exhausted, 3/4/5 s, réactivé 9.3.0 | idem | OK |
+| Hex: Hive Mind | 1er hook, −6/8/10 % quand il reste 1 gen | idem (wiki + note 9.4.0) | OK |
+| Secret Project | 20/25/30 s, Undetectable 30 s | idem (wiki + note 9.4.0) | OK |
+| Monstrous Shrine (LIVE) | cave + 4, > 24 m, 10/15/20 % | idem | OK |
+| Monstrous Shrine (PTB) | « régression à 150/175/200 % » | idem (note 559 : gens non réparés) | OK |
 
 ## Questions ouvertes
 
-- **Relancer ce lot quand le quota WebSearch est rétabli** : 18 perks sans vérification de valeur (priorité : Trail of Torment, Dragon's Grip, Hex: Retribution, Machine Learning, Tinkerer, Monstrous Shrine, Hive Mind, Secret Project).
-- Deerstalker LIVE : 3 s confirmé seulement par le « was 3 s » des notes PTB ; relire la page wiki.gg (historique) pour exclure une contamination PTB.
-- Thrill of the Hunt : le tueur est-il encore notifié quand un survivant commence à purifier ? (non vérifié)
-- Liste complète des 58 perks PTB 10.2.0 (timesaver.gg [10]) non lue : impossible d'affirmer « non modifiée » pour les perks du périmètre hors Deerstalker / Thrill of the Hunt (et Agitation / Iron Grasp / Machine Learning / Monstrous Shrine selon le seed).
-- Mindbreaker : condition de déclenchement exacte au retour 9.3.0 (seuil de progression ?).
+- Thrilling Tremors : la régression des gens est-elle mise en pause pendant le blocage (affirmé par un résumé fandom, absent du texte wiki complet) ?
+- Machine Learning LIVE : « deactivates after use » = une seule activation par partie ? (lecture du texte, à confirmer en jeu)
+- Spirit Fury : le compteur de 4/3/2 palettes repart-il de zéro après usage ?
+- Thrill of the Hunt PTB : le blocage vise-t-il « tous les totems » (wiki) ou « tous les totems Hex » (note 559) ?
+- Visibilité des crochets Fléau (Monstrous Shrine, Floods of Rage…) côté survivant : non précisée par le wiki.
 - Calm Spirit contre Infectious Fright / Face the Darkness (suppression des cris) : à vérifier dans le lot 2.
 
 ## Sources
@@ -394,9 +422,39 @@ Règles HEURISTIC (effets sous-jacents re-vérifiés sur page wiki complète le 
 [6] 10.2.0 | PTB Patch Notes — SteamPeaks — https://steampeaks.com/news/706656822950364293 — consulté le 27/09/2026 via WebSearch (résumé de recherche)
 [7] 10.2.0 PTB — BetaHub — https://app.betahub.io/projects/pr-5642738318/releases/5737 — consulté le 27/09/2026 via WebSearch (résumé de recherche)
 [8] Hex: Thrill of the Hunt — Official Dead by Daylight Wiki — https://deadbydaylight.wiki.gg/wiki/Hex:_Thrill_of_the_Hunt — consulté le 27/09/2026 via WebSearch (résumé de recherche)
-[9] Hex: Thrill of the Hunt — Fandom — https://deadbydaylight.fandom.com/wiki/Hex:_Thrill_of_the_Hunt — consulté le 27/09/2026 via WebSearch (résumé de recherche ; valeurs probablement obsolètes)
+[9] Hex: Thrill of the Hunt — Fandom — https://deadbydaylight.fandom.com/wiki/Hex:_Thrill_of_the_Hunt — consulté le 27/09/2026 via WebSearch (résumé de recherche ; valeurs obsolètes, 8.4.0)
 [10] DBD Perk Changes: All 58 Killer and Survivor Perks in the 10.2.0 PTB — timesaver.gg — https://timesaver.gg/blog/dbd-perk-changes-10-2-0 — consulté le 27/09/2026 via WebSearch (résumé de recherche)
 [11] DBD Patch Notes 10.2.0 — timesaver.gg — https://timesaver.gg/blog/dbd-patch-notes-10-2-0 — consulté le 27/09/2026 via WebSearch (résumé de recherche)
 [12] Audit phase 0 (interne, déjà vérifié) — kb/seed/audit_phase0.txt (sections patchs 9.3.0, 10.0.0, 10.1.0 ; tableau Exit Gates → wiki.gg Exit Gates)
 [13] Deerstalker — NightLight — https://nightlight.gg/perks/Deerstalker — consulté le 27/09/2026 via WebSearch (résumé de recherche)
 [14] Dead by Daylight update 9.3.0 out now, Mindbreaker perk is back — TheSixthAxis — https://www.thesixthaxis.com/2025/11/25/dead-by-daylight-update-9-3-0-out-now-mindbreaker-perk-is-back/ — cité par le seed, **non consulté** en session
+[15] 9.0.0 | Five Nights at Freddy's — note officielle BHVR — https://forums.bhvr.com/dead-by-daylight/kb/articles/510 — texte complet (kb/sources/patches/official_510.txt), consulté le 27/09/2026
+[16] 9.1.0 | The Walking Dead — note officielle BHVR — https://forums.bhvr.com/dead-by-daylight/kb/articles/516 — texte complet (official_516.txt), consulté le 27/09/2026
+[17] 9.2.0 | Sinister Grace — note officielle BHVR — https://forums.bhvr.com/dead-by-daylight/kb/articles/523 — texte complet (official_523.txt), consulté le 27/09/2026
+[18] 9.3.0 | Mid-Chapter — note officielle BHVR — https://forums.bhvr.com/dead-by-daylight/kb/articles/529 — texte complet (official_529.txt), consulté le 27/09/2026
+[19] 9.4.0 | Stranger Things Chapter 2 — note officielle BHVR — https://forums.bhvr.com/dead-by-daylight/kb/articles/534 — texte complet (official_534.txt), consulté le 27/09/2026
+[20] 9.5.0 | All-Kill: Comeback — note officielle BHVR — https://forums.bhvr.com/dead-by-daylight/kb/articles/538 — texte complet (official_538.txt), consulté le 27/09/2026
+[21] 10.0.0 | Jason — note officielle BHVR — https://forums.bhvr.com/dead-by-daylight/kb/articles/550 — texte complet (official_550.txt), consulté le 27/09/2026
+[22] 10.1.0 | Chorus of Sin — note officielle BHVR — https://forums.bhvr.com/dead-by-daylight/kb/articles/556 — texte complet (official_556.txt), consulté le 27/09/2026
+[23] 10.2.0 PTB Patch Notes — note officielle BHVR (NON LIVE) — https://forums.bhvr.com/dead-by-daylight/kb/articles/559 — texte complet (official_559.txt), consulté le 27/09/2026
+[24] deadbydaylight.wiki.gg/wiki/Thrilling_Tremors — page complète via API, consultée le 27/09/2026
+[25] deadbydaylight.wiki.gg/wiki/Deerstalker — page complète via API, consultée le 27/09/2026 (onglet LIVE = historique 9.2.0 ; version PTB 10.2.0 affichée séparément)
+[26] deadbydaylight.wiki.gg/wiki/Hex:_Thrill_of_the_Hunt — page complète via API, consultée le 27/09/2026 (onglet LIVE = historique 10.1.0)
+[27] deadbydaylight.wiki.gg/wiki/Infectious_Fright — page complète via API, consultée le 27/09/2026
+[28] deadbydaylight.wiki.gg/wiki/Tinkerer — page complète via API, consultée le 27/09/2026
+[29] deadbydaylight.wiki.gg/wiki/Spirit_Fury — page complète via API, consultée le 27/09/2026
+[30] deadbydaylight.wiki.gg/wiki/Hex:_Face_the_Darkness — page complète via API, consultée le 27/09/2026
+[31] deadbydaylight.wiki.gg/wiki/Agitation — page complète via API, consultée le 27/09/2026
+[32] deadbydaylight.wiki.gg/wiki/Iron_Grasp — page complète via API, consultée le 27/09/2026
+[33] deadbydaylight.wiki.gg/wiki/Blood_Warden — page complète via API, consultée le 27/09/2026
+[34] deadbydaylight.wiki.gg/wiki/Remember_Me — page complète via API, consultée le 27/09/2026
+[35] deadbydaylight.wiki.gg/wiki/Dragon's_Grip — page complète via API, consultée le 27/09/2026
+[36] deadbydaylight.wiki.gg/wiki/Furtive_Chase — page complète via API, consultée le 27/09/2026
+[37] deadbydaylight.wiki.gg/wiki/Machine_Learning — page complète via API, consultée le 27/09/2026 (onglet LIVE = historique 9.0.0)
+[38] deadbydaylight.wiki.gg/wiki/Trail_of_Torment — page complète via API, consultée le 27/09/2026
+[39] deadbydaylight.wiki.gg/wiki/Silent_Shadow — page complète via API, consultée le 27/09/2026
+[40] deadbydaylight.wiki.gg/wiki/Hex:_Retribution — page complète via API, consultée le 27/09/2026
+[41] deadbydaylight.wiki.gg/wiki/Mindbreaker — page complète via API, consultée le 27/09/2026
+[42] deadbydaylight.wiki.gg/wiki/Hex:_Hive_Mind — page complète via API, consultée le 27/09/2026
+[43] deadbydaylight.wiki.gg/wiki/Secret_Project — page complète via API, consultée le 27/09/2026
+[44] deadbydaylight.wiki.gg/wiki/Scourge_Hook:_Monstrous_Shrine — page complète via API, consultée le 27/09/2026 (onglet LIVE = historique 6.1.0)

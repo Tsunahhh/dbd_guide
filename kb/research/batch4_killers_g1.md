@@ -254,33 +254,41 @@
 
 ## 6. The Hag (Lisa Sherwood) — archétype(s) : zone/piège | téléportation | info
 
-- **Version** : aucun changement relevé par l'audit 9.0.0 → 10.1.2a [1]. Statut LIVE présumé, UNCERTAIN.
-- **Données LIVE** :
-  - Vitesse 4,4 m/s [SEED-NRV], cohérent classe 4,4 [AUDIT] ; taille moyenne/petite [SEED-NRV].
-  - **TR** : seed 24 m [SEED-NRV] vs **32 m** [MÉM] → CONFLICT-L4G1-03, UNCERTAIN. Indice P14 : la règle d'origine de l'audit (24 m pour les tueurs à 4,4 m/s) est **compatible avec le 24 m du seed**.
-  - Jusqu'à 10 Phantasm Traps (pose ~1,9 s), le 11e remplace le plus ancien ; déclenchement à ~2,7 m sauf accroupi ; fantôme + faux TR 8 m ; téléportation sur piège déclenché à ≤ 48 m ; effacement accroupi 4 s ou lampe torche [SEED-NRV] — UNCERTAIN.
-- **Identification** (HEURISTIC) : marques de boue au sol autour des gens/crochets ; fantôme de boue qui apparaît et tourne ta caméra ; faux TR bref ; tueur qui apparaît instantanément sur un piège. Add-ons : pièges sans fantôme/sans indication (Rusty Shackles selon le seed) ; téléportation vers n'importe quel piège (Mint Rag). Stratégie : 3-gen « toilé », crochet piégé, totems Hex (Ruin/Devour/Third Seal) + Undying.
-- **Ce qu'il cherche en chase** (HEURISTIC) : te faire déclencher un piège posé sur la sortie d'une boucle puis te couper ; t'enfermer dans une zone piégée.
+- **Version** : pas de changement de pouvoir 9.0.0 → 10.1.2a. Dernier changement de pouvoir dans le change log wiki : **7.6.0** (téléport 40 → 48 m, pose phase 2 1 → 0,9 s, durée de déclenchement 5 → 6 s, effacement 3,5 → 4 s, rayon 3 → 2,7 m) [10]. 2025-2026 : correctifs seulement (blocage en vaultant vers un piège avec Scarred Hand, 9.1.0 ; Scarred Hand qui bloquait la Hag et Pussy Willow Catkins qui ne révélait qu'1 s, 9.3.0 [15] ; visibilité des auras de pièges, 9.6.0 [18] ; couleur d'aura des objets du tueur personnalisable, 9.6.0 [18]). Statut LIVE : STRONG_SECONDARY.
+- **Données LIVE** (STRONG_SECONDARY [10]) :
+  - Vitesse 4,4 m/s ; **TR 24 m** (réduit de 28 à 24 m au patch 1.9.3) ; taille moyenne (Average). → CONFLICT-L4G1-03 **RÉSOLU** : le seed (24 m) avait raison, la mémoire du modèle (32 m) était fausse.
+  - **10 Phantasm Traps** en réserve ; le 11e recycle le plus ancien ; pose **1,9 s** (accroupie).
+  - Déclenchement dans un rayon de **2,7 m** (zone visible seulement par la Hag) : un **Mud Phantasm** apparaît, **tourne ta caméra** vers lui et te fixe, émet un **faux TR de 8 m** ; la Hag reçoit une notification bruyante ; piège « déclenché » pendant **6 s**.
+  - **Éviter de déclencher** : être **accroupi** dans la zone, **ou** être en train d'interagir avec un décor (gen, etc.) dans la zone.
+  - **Effacer** : accroupi au-dessus du piège, **4 s**. La lampe torche **ne brûle plus** les pièges depuis 6.7.0 (OBSOLETE).
+  - **Téléportation** vers un piège déclenché à **≤ 48 m**, à la place du Mud Phantasm, **face au survivant** qui l'a déclenché ; 1 s de ralentissement après la téléportation.
+- **Identification** (HEURISTIC) : marques de boue au sol autour des gens/crochets ; fantôme de boue qui apparaît et tourne ta caméra ; faux TR bref (8 m) ; tueur qui apparaît instantanément sur un piège. Add-ons : aucun fantôme ni signal au déclenchement (Rusty Shackles) ; téléportation vers un piège **non déclenché** (Mint Rag) ; pièges et fantômes qui bloquent le passage (Scarred Hand) ; Hag rapide (4,73 m/s) sans téléportation (Waterlogged Shoe). Stratégie : 3-gen « toilé », crochet piégé, totems Hex (Ruin/Devour/Third Seal) + Undying.
+- **Ce qu'il cherche en chase** (HEURISTIC) : te faire déclencher un piège posé sur la sortie d'une boucle puis te couper (elle arrive face à toi) ; t'enfermer dans une zone piégée.
 - **Tiles / structures** (HEURISTIC) :
-  - Favorables : longues boucles vierges ; tiles à plusieurs sorties ; zones éloignées de son réseau.
+  - Favorables : longues boucles vierges ; tiles à plusieurs sorties ; zones éloignées de son réseau (> 48 m de ses pièges).
   - Défavorables : tiles déjà « dessinées » ; passages obligés (fenêtres piégées).
   - Hors pièges, c'est un M1 4,4 : les boucles standards la battent (HEURISTIC).
-- **Mindgames propres** (HEURISTIC) : piège posé en évidence pour t'orienter vers un piège caché ; téléportation différée (attendre que tu reviennes).
-- **Counterplay** (HEURISTIC) :
-  - Mécanique : crouch en traversant les marques [SEED-NRV] ; déclenchement → repartir immédiatement **en s'éloignant du piège** (elle arrive sur lui), vers une zone sans marques : fuir « à l'opposé » peut mener dans un autre piège ou une zone morte.
+- **Mindgames propres** (HEURISTIC) : piège posé en évidence pour t'orienter vers un piège caché ; téléportation différée (le piège reste déclenché 6 s).
+- **Counterplay** (HEURISTIC, sur valeurs [10]) :
+  - Mécanique : traverser les marques **accroupi** (ou en réparant/interagissant dans la zone) ; déclenchement → repartir immédiatement **en s'éloignant du piège** (elle arrive sur lui, tournée vers toi), vers une zone sans marques : fuir « à l'opposé » peut mener dans un autre piège ou une zone morte. Le piège n'est téléportable que 6 s et à ≤ 48 m d'elle.
   - Positionnel : tirer la chase hors de son réseau.
-  - Macro : effacer/flasher les pièges près des gens et du crochet ; totems : le build Hex est fréquent **selon le seed** (loadout caché jusqu'à la fin, FACT [AUDIT]) ; un totem coûte 14 s de purification (5 totems par partie, [AUDIT] SS) sans compter la recherche. Purifier les totems croisés en chemin, et chercher activement **quand un effet Hex est observé** (icône Cursed, effet de perk), pas par principe dès le début (l'audit relève « purifiez un Hex dès qu'il s'allume » comme règle absolue dangereuse du seed).
+  - Macro : **effacer accroupi (4 s)** les pièges près des gens et du crochet (la lampe ne sert plus à rien contre eux) ; totems : le build Hex est fréquent **selon le seed** (loadout caché jusqu'à la fin, FACT [AUDIT]) ; un totem coûte 14 s de purification (5 totems par partie, [AUDIT] SS) sans compter la recherche. Purifier les totems croisés en chemin, et chercher activement **quand un effet Hex est observé** (icône Cursed, effet de perk), pas par principe dès le début (l'audit relève « purifiez un Hex dès qu'il s'allume » comme règle absolue dangereuse du seed).
   - Équipe : sauveteur en crouch + vérification des marques autour du crochet.
-- **Habitudes punissables et erreurs classiques** (HEURISTIC) : sprinter sur les marques ; rester à côté d'un piège déclenché ; ignorer les totems ; sauvetage direct sur crochet piégé.
-- **Adaptations avancées / échecs** (SITUATIONAL) : Mint Rag → tout piège déclenché devient une téléportation possible partout : effacer plutôt que contourner ; Rusty Shackles → aucune alerte, rester accroupi dans son réseau.
-- **Add-ons qui changent la décision** (UNCERTAIN, [SEED-NRV]) :
-  - Mint Rag → nettoyer activement son réseau, ne plus seulement l'éviter.
-  - Rusty Shackles → crouch systématique dans les zones à marques.
-  - Add-ons de rayon de déclenchement (Disfigured Ear / Dead Hand selon le seed) → garder plus de distance latérale avec les marques.
+- **Habitudes punissables et erreurs classiques** (HEURISTIC) : sprinter sur les marques ; rester à côté d'un piège déclenché ; ignorer les totems ; sauvetage direct sur crochet piégé ; compter sur une lampe pour nettoyer son réseau.
+- **Adaptations avancées / échecs** (SITUATIONAL) : Mint Rag → elle peut apparaître sur **n'importe quel piège non déclenché** de la carte (CD 10 s) : effacer plutôt que contourner ; Rusty Shackles → aucune alerte, rester accroupi dans son réseau.
+- **Add-ons qui changent la décision** (noms et effets LIVE lus sur la page, STRONG_SECONDARY [10]) :
+  - Mint Rag (téléportation vers **n'importe quel piège non déclenché, partout**, CD 10 s) → **effacer** activement son réseau autour des gens **au lieu de** seulement l'éviter ; un piège loin d'elle n'est plus « hors de portée ».
+  - Rusty Shackles (aucune indication de déclenchement, pas de Mud Phantasm) → crouch systématique dans les zones à marques **au lieu de** compter sur le fantôme pour savoir si tu as déclenché.
+  - Bog Water / Bloodied Water / Bloodied Mud (rayon de déclenchement −10/−20/−30 %) → zone plus petite : elle doit poser plus précisément (sortie de fenêtre, crochet) ; ne pas relâcher la vigilance aux passages obligés.
+  - Disfigured Ear (déclencher → **Deafened 6 s**) → après un déclenchement, tu n'entends plus son arrivée : partir **immédiatement** au lieu d'écouter. (Correction : ce n'est **pas** un add-on de rayon ; « Dead Hand » n'existe pas dans la liste LIVE.)
+  - Grandma's Heart (pendant un déclenchement : son TR est supprimé, faux TR du fantôme +16 m = 24 m) → le TR que tu entends est celui du fantôme : ne pas s'en servir pour la localiser.
+  - Waterlogged Shoe (**4,73 m/s**, Hindered −9 % dans les zones de pièges, **plus de téléportation**) → M1 plus rapide que d'habitude : ne pas jouer de longues boucles en zone piégée ; les pièges ne la font plus apparaître.
+  - Scarred Hand (pièges et fantômes **bloquent le passage**, plus de téléportation) → les marques deviennent des murs : ne pas s'enfermer dans une tile piégée.
+  - Pussy Willow Catkins / Willow Wreath (aura du survivant qui déclenche 3/5 s) → après un déclenchement, changer de direction hors de sa vue.
 - **Implications de carte** (HEURISTIC) : forte sur petites cartes/intérieures (réseau dense) ; faible sur grandes cartes ouvertes.
-- **Perks fréquentes** : trio Hex Ruin/Devour Hope/Third Seal + Undying ; ou Pain Resonance, Grim Embrace, Pop, Sloppy Butcher [SEED-NRV]. FACT [AUDIT] : Hex: Ruin 100/125/150 % (9.2.0) [1]. HEURISTIC : les totems deviennent une priorité quand un effet Hex est observé, pas du seul fait de voir des marques de Hag.
-- **Écart avec le seed** : TR 24 m NON VÉRIFIABLE (CONFLICT-L4G1-03 ; P14 : « SUSPECT » retiré, la règle d'origine de l'audit est compatible avec 24 m) ; reste NON VÉRIFIABLE.
-- **Sources** : [1] [2]
+- **Perks fréquentes** : trio Hex Ruin/Devour Hope/Third Seal + Undying ; ou Pain Resonance, Grim Embrace, Pop, Sloppy Butcher [SEED-NRV, fréquences non re-vérifiées]. LIVE (page [10]) : Hex: Ruin 100/125/150 % de régression sur les gens non réparés ([AUDIT] 9.2.0) ; Hex: Devour Hope (tokens quand un survivant est décroché à ≥ 24 m : Haste à 2, **Exposed à 3**, kill à la main à 5) ; Hex: The Third Seal (Blindness permanente pour les 2/3/4 derniers survivants frappés). HEURISTIC : les totems deviennent une priorité quand un effet Hex est observé, pas du seul fait de voir des marques de Hag.
+- **Écart avec le seed** : TR 24 m **OK** (CONFLICT-03 résolu ; erreur du modèle) ; 10 pièges, pose ~1,9 s, rayon ~2,7 m sauf accroupi, faux TR 8 m, téléport ≤ 48 m, effacement accroupi 4 s : **OK**. **OBSOLETE** : « effacement … ou lampe torche » (supprimé en 6.7.0). **FAUX** : « Disfigured Ear / Dead Hand = add-ons de rayon ». IMPRÉCIS : « Mint Rag = téléportation vers n'importe quel piège » (non déclenché, CD 10 s).
+- **Sources** : [1] [2] [10] [15] [18] [21]
 
 ## 7. The Doctor (Herman Carter) — archétype(s) : anti-loop | info | M1
 

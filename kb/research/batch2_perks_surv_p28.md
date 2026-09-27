@@ -352,111 +352,145 @@
 
 | ID | Claim | Source | Patch | Confiance |
 |---|---|---|---|---|
-| P28-01 | Bardic Inspiration : 15 s, 16 m, 90 s ; d20 1/2-10/11-19/20 → cri/+1/+2/+3 % ; CD 110/100/90 s | [1][2] | LIVE | STRONG_SECONDARY |
-| P28-02 | Mirrored Illusion : 20 % réparation ; illusion 40/50/60 s ; désactivée après usage | [3] | LIVE | STRONG_SECONDARY |
-| P28-03 | Still Sight : 4/3/2 s immobile ; 24 m ; killer/coffres/gens | [4] | LIVE | STRONG_SECONDARY |
-| P28-04 | Specialist : max 6 tokens ; -2/3/4 charges/token ; max 12/18/24 | [5] | LIVE | STRONG_SECONDARY |
-| P28-05 | Exultation : +75 % charge, +1 rareté ; CD 30/25/20 s | [6] | LIVE | STRONG_SECONDARY |
-| P28-06 | Eyes of Belmont : 1/2/3 s ; +2 s ; s'applique à elle-même | [7] | LIVE | STRONG_SECONDARY |
-| P28-07 | Moment of Glory : 1 coffre ; soin après 80/70/60 s | [8][9][28] | LIVE (10.1.0) | VERIFIED_MULTI_SOURCE |
-| P28-08 | Clean Break : 75/60/45 s | [10][28] | LIVE (10.1.0) | VERIFIED_MULTI_SOURCE |
-| P28-09 | Do No Harm : 30/40/50 %/hook stage, max 60/80/100 % ; Great +3 %/stage max +6 % | [11] | LIVE | STRONG_SECONDARY |
-| P28-10 | Do No Harm PTB : +5 % chance de skill check par Hook State | [12][13] | PTB 10.2.0 | STRONG_SECONDARY |
-| P28-11 | Last Stand : 120/105/90 s ; stun 3 s ; ≤ 2,5 m ; 1×/trial | [14] | LIVE | STRONG_SECONDARY |
-| P28-12 | Throw Down : Endurance + aura killer 6/8/10 s ; alliés blessés à 24 m | [16][17] | LIVE | STRONG_SECONDARY |
-| P28-13 | One-Two-Three-Four! : +20 % chance de skill check 90 s ; 16 m ; CD 110/100/90 s | [18] | LIVE | STRONG_SECONDARY |
-| P28-14 | Ghost Notes : griffures 50 % plus vite ; Exhausted 5/7,5/10 % | [19] | LIVE | STRONG_SECONDARY |
-| P28-15 | Bada Bada Boom : 20 % ; piège 40/50/60 s ; Hindered -50 % 6 s | [20] | LIVE | STRONG_SECONDARY |
-| P28-16 | Full Circuit : Good zone +15/20/25 %/allié ; +5 % réparation | [21] | LIVE | STRONG_SECONDARY |
-| P28-17 | We See You : 4 tokens (CD 10 s) ; aura 10/12,5/15 s pour tous | [22] | LIVE | STRONG_SECONDARY |
-| P28-18 | Soft-Spoken : bruit -15/20/25 %/allié ; +5 % réparation | [23] | LIVE | STRONG_SECONDARY |
-| P28-19 | A Place For Us : Elusive pendant soin ; 20/25/30 s après soin de l'Obsession ; -100 % chance Obsession | [24] | LIVE | STRONG_SECONDARY |
-| P28-20 | Flow State : max 5 tokens ; 8/9/10 %/token | [26] | LIVE | STRONG_SECONDARY |
-| P28-21 | Flow State PTB 13/14/15 % | seed, NON RE-VÉRIFIÉ (quota) | PTB 10.2.0 | UNCERTAIN |
-| P28-22 | Lend a Hand 2/3/4 charges ; Fruits of Your Labor 5 % Haste 2 s + 10/15/20 % ; Left Behind 24/28/32 m ; Open-Handed +8/12/16 m ; Streetwise 8 s + 60/70/80 % | seed, NON RE-VÉRIFIÉ (quota) | LIVE ? | UNCERTAIN |
+| P28-01 | Bardic Inspiration : 15 s, 16 m, 90 s ; d20 1/2-10/11-19/20 → cri/+1/+2/+3 % ; CD 110/100/90 s | [1][2] | LIVE | STRONG_SECONDARY (page complète) |
+| P28-02 | Mirrored Illusion : 20 % réparation ; illusion 40/50/60 s ; désactivée après usage | [3] | LIVE (8.2.0) | STRONG_SECONDARY (page complète) |
+| P28-03 | Still Sight : 4/3/2 s immobile ; 24 m ; killer/coffres/gens | [4][30] | LIVE (9.1.0) | VERIFIED_MULTI_SOURCE |
+| P28-04 | Specialist : max 6 tokens ; -2/3/4 charges/token ; max 12/18/24 | [5] | LIVE | STRONG_SECONDARY (page complète) |
+| P28-05 | Exultation : +75 % charge, +1 rareté conservée à l'évasion ; CD 30/25/20 s | [6][29] | LIVE (9.0.0) | VERIFIED_MULTI_SOURCE |
+| P28-06 | Eyes of Belmont : 1/2/3 s ; +2 s ; s'applique à elle-même | [48] | LIVE | STRONG_SECONDARY (page complète) |
+| P28-07 | Moment of Glory : 1 coffre ; soin après 80/70/60 s | [8][38] | LIVE (10.1.0) | VERIFIED_MULTI_SOURCE |
+| P28-08 | Clean Break : 75/60/45 s | [10][38] | LIVE (10.1.0) | VERIFIED_MULTI_SOURCE |
+| P28-09 | Do No Harm LIVE : 30/40/50 %/hook stage, max 60/80/100 % ; Great +3 % **fixe** ; pas de bonus de chance de skill check | [11][40] | LIVE | VERIFIED_MULTI_SOURCE (reconstruite depuis la note 559) |
+| P28-10 | Do No Harm PTB : Great +3 %/Hook State (max +6 %) ; +5 % chance de skill check | [11][40] | PTB 10.2.0 (NON LIVE) | VERIFIED_MULTI_SOURCE |
+| P28-11 | Last Stand : 120/105/90 s ; stun 3 s ; ≤ 2,5 m ; 1×/trial | [14][30] | LIVE (9.1.0) | VERIFIED_MULTI_SOURCE |
+| P28-12 | Throw Down : Endurance 6/8/10 s aux alliés blessés à 24 m ; + aura du killer (note 9.1.0) | [16][30] | LIVE (9.1.0) | VERIFIED_MULTI_SOURCE (Endurance) / VERIFIED_PRIMARY (aura, CONFLICT-03) |
+| P28-13 | One-Two-Three-Four! : +20 % chance de skill check 90 s ; 16 m ; CD 110/100/90 s | [18][33] | LIVE (9.2.0) | VERIFIED_MULTI_SOURCE |
+| P28-14 | Ghost Notes : griffures 50 % plus vite ; Exhausted 5/7,5/10 % | [19][33] | LIVE (9.2.0) | VERIFIED_MULTI_SOURCE |
+| P28-15 | Bada Bada Boom : 20 % ; piège 40/50/60 s ; Hindered -50 % 6 s | [20][34] | LIVE (9.4.0) | VERIFIED_MULTI_SOURCE |
+| P28-16 | Full Circuit : Good zone +15/20/25 %/allié ; +5 % réparation | [21][34] | LIVE (9.4.0) | VERIFIED_MULTI_SOURCE |
+| P28-17 | We See You : 4 tokens (CD 10 s) ; aura 10/12,5/15 s pour tous | [22][34] | LIVE (9.4.0) | VERIFIED_MULTI_SOURCE |
+| P28-18 | Soft-Spoken : bruit -15/20/25 %/allié ; +5 % réparation | [23][34] | LIVE (9.4.0) | VERIFIED_MULTI_SOURCE |
+| P28-19 | A Place For Us : Elusive pendant soin ; 20/25/30 s pour vous deux après soin de l'Obsession ; -100 % chance Obsession | [24][35] | LIVE (9.5.0) | VERIFIED_MULTI_SOURCE |
+| P28-20 | Flow State : max 5 tokens ; 8/9/10 %/token | [26][35][40] | LIVE (9.5.0) | VERIFIED_MULTI_SOURCE |
+| P28-21 | Flow State PTB 13/14/15 % | [26][40] | PTB 10.2.0 (NON LIVE) | VERIFIED_MULTI_SOURCE |
+| P28-22 | Lend a Hand : 2/3/4 charges de soin permanentes, une fois par allié | [41] | LIVE (10.0.0) | STRONG_SECONDARY (page complète) |
+| P28-23 | Fruits of Your Labor : par jeton, 5 % Haste 2 s + 10/15/20 % de progression de soin | [38][42] | LIVE (10.1.0) | VERIFIED_MULTI_SOURCE |
+| P28-24 | Left Behind : aura de la trappe 24/28/32 m en dernier survivant | [43] | LIVE | STRONG_SECONDARY (page complète) |
+| P28-25 | Open-Handed : +8/12/16 m à toutes les auras des survivants, non cumulable | [44] | LIVE | STRONG_SECONDARY (page complète) |
+| P28-26 | Streetwise : +60/70/80 % de charges (objets de coffre), aura 8 s au premier objet vidé | [30][45] | LIVE (9.1.0) | VERIFIED_MULTI_SOURCE |
+| P28-27 | Boon: Illumination LIVE : coffres + gens en bleu, bénir/purifier +6/8/10 % ; PTB : bénir +150/175/200 %, plus de purification | [40][46] | LIVE / PTB (NON LIVE) | VERIFIED_MULTI_SOURCE |
 
 ## Conflits
 
 #### CONFLICT-2-P28-01 : Last Stand — durée d'activation
 - Source A : seed — « environ 90 à 120 s… valeurs différentes selon les sources ».
-- Source B : wiki.gg (via résumé) — 120/105/90 s par tier [14].
-- Hypothèse : le seed a confondu une plage par tier avec une incertitude entre sources.
-- Résolution : 120/105/90 s (STRONG_SECONDARY). Résolu.
+- Source B : wiki.gg (page complète) — 120/105/90 s par tier [14].
+- Hypothèse : le seed a confondu une plage par tier avec une incertitude entre sources (le PTB 9.1.0 avait 80/70/60 s).
+- Résolution : **RÉSOLU** — 120/105/90 s : note officielle 9.1.0 (« Increased the time … to 120/105/90 seconds (was 80/70/60 seconds) ») [30] + page complète [14]. VERIFIED_MULTI_SOURCE.
 
 #### CONFLICT-2-P28-02 : Last Stand — disponibilité en 2025
 - Source A : apptrigger « August patch returns Last Stand perk » [15] (suggère une désactivation temporaire).
-- Source B : aucune autre source lue.
-- Hypothèse : perk désactivée pour bug puis réactivée (août 2025 ?).
-- Résolution : UNRESOLVED (sans impact LIVE 10.1.2a).
+- Source B : notes officielles 9.1.1 (« The Streetwise and Last Stand perks have been re-enabled ») [31] et 9.1.3 (« The Last Stand perk has been re-enabled ») [32].
+- Hypothèse : perk désactivée pour bugs après 9.1.0, réactivée en 9.1.1, puis de nouveau désactivée et réactivée en 9.1.3.
+- Résolution : **RÉSOLU** (HISTORICAL, sans impact sur la LIVE 10.1.2a) — VERIFIED_PRIMARY [31][32].
+
+#### CONFLICT-2-P28-03 : Teamwork: Throw Down — aura du killer
+- Source A : note officielle 9.1.0 : « other injured Survivors within 24/24/24 meters gain Endurance and see the Killer's aura for 6/8/10 seconds » [30] ; résumés nightlight / shacknews [17].
+- Source B : description complète du wiki (texte courant) : seulement l'Endurance 6/8/10 s ; pas de change log 8.x-10.x [16].
+- Hypothèse : omission de la page wiki (aucune note officielle ne retire l'aura).
+- Résolution : UNRESOLVED — l'aura est retenue (VERIFIED_PRIMARY, note 9.1.0) mais à confirmer en jeu.
 
 ## Écarts avec le guide seed
 
 | Élément | Le guide dit | Vérifié | Verdict |
 |---|---|---|---|
-| Last Stand | ~90-120 s, « valeurs différentes selon les sources » | 120/105/90 s, 1×/trial | IMPRÉCIS |
-| Do No Harm (PTB) | « ajustée » | +5 % chance de skill check par Hook State (PTB) | IMPRÉCIS |
-| Specialist | -2/3/4 charges par token | + plafond 12/18/24 charges | IMPRÉCIS |
-| Eyes of Belmont | +2 s à toutes les auras du killer | seulement auras temporisées ; s'applique à elle-même (3/4/5 s) | IMPRÉCIS |
-| Mirrored Illusion | près d'un « interrupteur » ; pas de limite | Exit Gate ; désactivée après usage | IMPRÉCIS |
-| A Place For Us | effet Elusive | + -100 % chance d'être Obsession | IMPRÉCIS (omission mineure) |
-| Bardic Inspiration | 0 à +3 %, CD 110/100/90 | idem | OK |
-| Still Sight | 4/3/2 s, 24 m | idem | OK |
-| Exultation | +75 %, CD 30/25/20 | idem | OK |
-| Moment of Glory | 80/70/60 s après 1 coffre | idem (10.1.0) | OK |
-| Clean Break | 75/60/45 s | idem | OK |
-| Teamwork: Throw Down | Endurance + aura 6/8/10 s, 24 m | idem | OK |
-| One-Two-Three-Four! | +20 %, 90 s, CD 110/100/90 | idem | OK |
-| Ghost Notes | 50 % ; 5/7,5/10 % | idem | OK |
-| Bada Bada Boom | 20 %, 40/50/60 s, Hindered 50 % 6 s | idem | OK |
-| Teamwork: Full Circuit | +15/20/25 % ; +5 % | idem | OK |
-| We See You | 4 tokens, CD 10 s, 10/12,5/15 s | idem | OK |
-| Teamwork: Soft-Spoken | -15/20/25 % ; +5 % | idem | OK |
-| Flow State (LIVE) | 8/9/10 %/token, max 5 | idem | OK |
-| Flow State (PTB) | 13/14/15 % | non vérifié | NON VÉRIFIABLE |
-| Lend a Hand | 2/3/4 charges | non vérifié | NON VÉRIFIABLE |
-| Fruits of Your Labor | 5 % Haste 2 s, 10/15/20 % | non vérifié | NON VÉRIFIABLE |
-| Left Behind | 24/28/32 m | non vérifié | NON VÉRIFIABLE |
-| Open-Handed | +8/12/16 m | non vérifié | NON VÉRIFIABLE |
-| Streetwise | rework 9.1.0 ; 8 s ; 60/70/80 % | date OK (audit), valeurs non vérifiées | NON VÉRIFIABLE |
-| Boon: Illumination | coffres (+ gens ?) ; PTB bénédiction + rapide | non vérifié | NON VÉRIFIABLE |
+| Last Stand | ~90-120 s, « valeurs différentes selon les sources » | 120/105/90 s, 1×/trial [14][30] | IMPRÉCIS |
+| Do No Harm (LIVE) | 30/40/50 % par état de crochet, petit bonus sur les greats | idem ; Great +3 % fixe [40] | OK |
+| Do No Harm (PTB) | « ajustée » | Great +3 %/Hook State + chance de skill check +5 % [40] | IMPRÉCIS |
+| Specialist | -2/3/4 charges par token | + plafond 12/18/24 charges [5] | IMPRÉCIS |
+| Eyes of Belmont | +2 s à toutes les auras du killer | s'applique à elle-même (3/4/5 s) ; exclusion des auras non temporisées selon [7] | IMPRÉCIS |
+| Mirrored Illusion | près d'un « interrupteur » ; pas de limite | Exit Gate ; désactivée après usage [3] | IMPRÉCIS |
+| A Place For Us | effet Elusive | + -100 % chance d'être Obsession [24][35] | IMPRÉCIS (omission mineure) |
+| Bardic Inspiration | 0 à +3 %, CD 110/100/90 | idem [1] | OK |
+| Still Sight | 4/3/2 s, 24 m | idem [4][30] | OK |
+| Exultation | +75 %, CD 30/25/20 | idem ; rareté conservée à l'évasion [6][29] | OK |
+| Moment of Glory | 80/70/60 s après 1 coffre | idem (10.1.0) [38] | OK |
+| Clean Break | 75/60/45 s | idem [38] | OK |
+| Teamwork: Throw Down | Endurance + aura 6/8/10 s, 24 m | idem (note 9.1.0 ; aura absente du wiki, CONFLICT-03) [30] | OK |
+| One-Two-Three-Four! | +20 %, 90 s, CD 110/100/90 | idem [33] | OK |
+| Ghost Notes | 50 % ; 5/7,5/10 % | idem [33] | OK |
+| Bada Bada Boom | 20 %, 40/50/60 s, Hindered 50 % 6 s | idem [34] | OK |
+| Teamwork: Full Circuit | +15/20/25 % ; +5 % | idem [34] | OK |
+| We See You | 4 tokens, CD 10 s, 10/12,5/15 s | idem [34] | OK |
+| Teamwork: Soft-Spoken | -15/20/25 % ; +5 % | idem [34] | OK |
+| Flow State (LIVE) | 8/9/10 %/token, max 5 | idem [35] | OK |
+| Flow State (PTB) | 13/14/15 % | idem [40] | OK |
+| Lend a Hand | 2/3/4 charges, une fois par allié | idem [41] | OK |
+| Fruits of Your Labor | 5 % Haste 2 s, 10/15/20 % | idem [38][42] | OK |
+| Left Behind | 24/28/32 m | idem [43] | OK |
+| Open-Handed | +8/12/16 m | idem ; non cumulable [44] | OK |
+| Streetwise | rework 9.1.0 ; 8 s ; 60/70/80 % | idem [30][45] | OK |
+| Boon: Illumination | coffres (+ gens ?) ; PTB bénédiction + rapide | coffres **et** gens, +6/8/10 % ; PTB +150/175/200 % bénédiction sans purification [40][46] | OK (incomplet) |
 
 ## Questions ouvertes
 
-1. **Relancer une passe WebSearch** (budget session épuisé) pour : Lend a Hand, Fruits of Your Labor, Left Behind, Open-Handed, Streetwise (valeurs post-9.1.0), Boon: Illumination (LIVE + PTB), Flow State PTB (13/14/15 % ?).
-2. Liste exacte des perks de la page touchées par le PTB 10.2.0 (seul Do No Harm confirmé ; seed cite aussi Flow State et Boon: Illumination).
-3. Mirrored Illusion : réactivable après de nouveaux 20 % de réparation ?
-4. DR 9.6.0 : Full Circuit + Soft-Spoken (+5 % réparation chacun) et vitesses de soin (Do No Harm / Flow State / Botany) sont-ils des « modificateurs identiques » réduits à 50 % ? (liste exhaustive du manuel 9.6.1 non consultée, cf. audit).
-5. Do No Harm PTB : les valeurs 30/40/50 % changent-elles ou seule la chance de skill check est ajoutée ?
-6. Last Stand : désactivation temporaire en 2025 (apptrigger) — date et cause.
-7. A Place For Us : bug d'Elusive en auto-soin toujours présent en 10.1.2a ?
+1. ~~Relancer une passe WebSearch pour les 6 perks non vérifiées + PTB~~ — **résolu** (lot 12a).
+2. ~~Liste des perks de la page touchées par le PTB 10.2.0~~ — **résolu** : Do No Harm, Flow State, Boon: Illumination (note 559 [40]).
+3. Mirrored Illusion : réactivable après de nouveaux 20 % de réparation ? — ouvert (la page dit seulement « deactivates after triggering successfully »).
+4. DR 9.6.0 : Full Circuit + Soft-Spoken (+5 % réparation chacun) et vitesses de soin (Do No Harm / Flow State / Botany) sont-ils des « modificateurs identiques » réduits à 50 % ? — ouvert (la note 9.6.0 [36] donne le principe, pas la liste).
+5. ~~Do No Harm PTB : quelles valeurs changent ?~~ — **résolu** [40].
+6. ~~Last Stand : désactivation temporaire en 2025~~ — **résolu** (9.1.1 / 9.1.3) [31][32].
+7. A Place For Us : bug d'Elusive en auto-soin toujours présent en 10.1.2a ? — ouvert (aucune note officielle ne le mentionne).
+8. Teamwork: Throw Down : l'aura du killer est-elle toujours accordée en LIVE (CONFLICT-03) ?
+9. Fruits of Your Labor : plafond de jetons et forme exacte du cumul « par jeton ».
 
 ## Sources
 
-[1] Bardic Inspiration — Official Dead by Daylight Wiki — https://deadbydaylight.wiki.gg/wiki/Bardic_Inspiration — consulté le 27/09/2026 via WebSearch (résumé de recherche)
+[1] deadbydaylight.wiki.gg/wiki/Bardic_Inspiration — page complète via API, consultée le 27/09/2026 (initialement via WebSearch)
 [2] Bardic Inspiration — NightLight — https://nightlight.gg/perks/Bardic_Inspiration — consulté le 27/09/2026 via WebSearch
-[3] Mirrored Illusion — Official Dead by Daylight Wiki — https://deadbydaylight.wiki.gg/wiki/Mirrored_Illusion — consulté le 27/09/2026 via WebSearch
-[4] Still Sight — Official Dead by Daylight Wiki — https://deadbydaylight.wiki.gg/wiki/Still_Sight — consulté le 27/09/2026 via WebSearch
-[5] Specialist — Official Dead by Daylight Wiki — https://deadbydaylight.wiki.gg/wiki/Specialist — consulté le 27/09/2026 via WebSearch
-[6] Exultation — Official Dead by Daylight Wiki — https://deadbydaylight.wiki.gg/wiki/Exultation — consulté le 27/09/2026 via WebSearch
+[3] deadbydaylight.wiki.gg/wiki/Mirrored_Illusion — page complète via API, consultée le 27/09/2026 (initialement via WebSearch)
+[4] deadbydaylight.wiki.gg/wiki/Still_Sight — page complète via API, consultée le 27/09/2026 (initialement via WebSearch)
+[5] deadbydaylight.wiki.gg/wiki/Specialist — page complète via API, consultée le 27/09/2026 (initialement via WebSearch)
+[6] deadbydaylight.wiki.gg/wiki/Exultation — page complète via API, consultée le 27/09/2026 (initialement via WebSearch)
 [7] Eyes of Belmont — Official Dead by Daylight Wiki (fandom) — https://deadbydaylight.fandom.com/wiki/Eyes_of_Belmont — consulté le 27/09/2026 via WebSearch
-[8] Moment of Glory — Official Dead by Daylight Wiki — https://deadbydaylight.wiki.gg/wiki/Moment_of_Glory — consulté le 27/09/2026 via WebSearch
+[8] deadbydaylight.wiki.gg/wiki/Moment_of_Glory — page complète via API, consultée le 27/09/2026 (initialement via WebSearch)
 [9] Moment of Glory — NightLight — https://nightlight.gg/perks/Moment_of_Glory — consulté le 27/09/2026 via WebSearch
-[10] Clean Break — Official Dead by Daylight Wiki — https://deadbydaylight.wiki.gg/wiki/Clean_Break — consulté le 27/09/2026 via WebSearch
-[11] Do No Harm — Official Dead by Daylight Wiki — https://deadbydaylight.wiki.gg/wiki/Do_No_Harm — consulté le 27/09/2026 via WebSearch
+[10] deadbydaylight.wiki.gg/wiki/Clean_Break — page complète via API, consultée le 27/09/2026 (initialement via WebSearch)
+[11] deadbydaylight.wiki.gg/wiki/Do_No_Harm — page complète via API, consultée le 27/09/2026 (la description courante affiche la version PTB 10.2.0)
 [12] Dead by Daylight v10.2.0 PTB — Perk Overhaul — Patched — https://patched.gg/games/dead-by-daylight/1020-ptb-patch-notes — consulté le 27/09/2026 via WebSearch
 [13] Dead by Daylight 10.2.0 PTB Changes 58 Perks — HappyGamer — https://happygamer.com/dead-by-daylight-10-2-0-ptb-58-perk-changes-164427/ — consulté le 27/09/2026 via WebSearch
-[14] Last Stand — Official Dead by Daylight Wiki — https://deadbydaylight.wiki.gg/wiki/Last_Stand — consulté le 27/09/2026 via WebSearch
+[14] deadbydaylight.wiki.gg/wiki/Last_Stand — page complète via API, consultée le 27/09/2026 (initialement via WebSearch)
 [15] Dead By Daylight August patch returns Last Stand perk — AppTrigger — https://apptrigger.com/dead-by-daylight-august-patch-returns-last-stand-perk-01k3rpjjtjj6 — consulté le 27/09/2026 via WebSearch (titre seul)
-[16] Teamwork: Throw Down — Official Dead by Daylight Wiki — https://deadbydaylight.wiki.gg/wiki/Teamwork:_Throw_Down — consulté le 27/09/2026 via WebSearch
+[16] deadbydaylight.wiki.gg/wiki/Teamwork:_Throw_Down — page complète via API, consultée le 27/09/2026 (initialement via WebSearch)
 [17] Teamwork: Throw Down — NightLight — https://nightlight.gg/perks/Teamwork:_Throw_Down ; Shacknews Michonne perks — https://www.shacknews.com/article/145043/dead-by-daylight-dbd-the-walking-dead-michonne-perks — consulté le 27/09/2026 via WebSearch
-[18] One-Two-Three-Four! — Official Dead by Daylight Wiki — https://deadbydaylight.wiki.gg/wiki/One-Two-Three-Four! — consulté le 27/09/2026 via WebSearch
-[19] Ghost Notes — Official Dead by Daylight Wiki — https://deadbydaylight.wiki.gg/wiki/Ghost_Notes — consulté le 27/09/2026 via WebSearch
-[20] Bada Bada Boom — Official Dead by Daylight Wiki — https://deadbydaylight.wiki.gg/wiki/Bada_Bada_Boom — consulté le 27/09/2026 via WebSearch
-[21] Teamwork: Full Circuit — Official Dead by Daylight Wiki — https://deadbydaylight.wiki.gg/wiki/Teamwork:_Full_Circuit — consulté le 27/09/2026 via WebSearch
-[22] We See You — Official Dead by Daylight Wiki — https://deadbydaylight.wiki.gg/wiki/We_See_You — consulté le 27/09/2026 via WebSearch
-[23] Teamwork: Soft-Spoken — Official Dead by Daylight Wiki — https://deadbydaylight.wiki.gg/wiki/Teamwork:_Soft-Spoken — consulté le 27/09/2026 via WebSearch
-[24] A Place For Us — Official Dead by Daylight Wiki — https://deadbydaylight.wiki.gg/wiki/A_Place_For_Us — consulté le 27/09/2026 via WebSearch
+[18] deadbydaylight.wiki.gg/wiki/One-Two-Three-Four! — page complète via API, consultée le 27/09/2026 (initialement via WebSearch)
+[19] deadbydaylight.wiki.gg/wiki/Ghost_Notes — page complète via API, consultée le 27/09/2026 (initialement via WebSearch)
+[20] deadbydaylight.wiki.gg/wiki/Bada_Bada_Boom — page complète via API, consultée le 27/09/2026 (initialement via WebSearch)
+[21] deadbydaylight.wiki.gg/wiki/Teamwork:_Full_Circuit — page complète via API, consultée le 27/09/2026 (initialement via WebSearch)
+[22] deadbydaylight.wiki.gg/wiki/We_See_You — page complète via API, consultée le 27/09/2026 (initialement via WebSearch)
+[23] deadbydaylight.wiki.gg/wiki/Teamwork:_Soft-Spoken — page complète via API, consultée le 27/09/2026 (initialement via WebSearch)
+[24] deadbydaylight.wiki.gg/wiki/A_Place_For_Us — page complète via API, consultée le 27/09/2026 (initialement via WebSearch)
 [25] #1907 Unintended Elusive Activation on Self Heals with 'A Place For Us' — BHVR bug report — https://bugreport.deadbydaylight.com/projects/pr-5642738318/issues/1907 — consulté le 27/09/2026 via WebSearch (titre seul)
-[26] Flow State — Official Dead by Daylight Wiki — https://deadbydaylight.wiki.gg/wiki/Flow_State — consulté le 27/09/2026 via WebSearch
+[26] deadbydaylight.wiki.gg/wiki/Flow_State — page complète via API, consultée le 27/09/2026 (initialement via WebSearch)
 [27] DBD Patch Notes 10.2.0 — timesaver.gg — https://timesaver.gg/blog/dbd-patch-notes-10-2-0 — consulté le 27/09/2026 via WebSearch (listé, non exploité)
 [28] Audit phase 0 (local) — kb/seed/audit_phase0.txt — notes 9.1.0, 9.5.0, 9.6.0, 10.1.0, 10.1.1 (VERIFIED_PRIMARY selon l'audit)
+[29] 9.0.0 | Five Nights at Freddy's — note officielle BHVR KB 510 — https://forums.bhvr.com/dead-by-daylight/kb/articles/510 — lue en local (official_510.txt), 27/09/2026
+[30] 9.1.0 | The Walking Dead — note officielle BHVR KB 516 — https://forums.bhvr.com/dead-by-daylight/kb/articles/516 — lue en local (official_516.txt), 27/09/2026
+[31] 9.1.1 | Bugfix Patch — note officielle BHVR KB 517 — https://forums.bhvr.com/dead-by-daylight/kb/articles/517 — lue en local (official_517.txt), 27/09/2026
+[32] 9.1.3 | Bugfix Patch — note officielle BHVR KB 520 — https://forums.bhvr.com/dead-by-daylight/kb/articles/520 — lue en local (official_520.txt), 27/09/2026
+[33] 9.2.0 | Sinister Grace — note officielle BHVR KB 523 — https://forums.bhvr.com/dead-by-daylight/kb/articles/523 — lue en local (official_523.txt), 27/09/2026
+[34] 9.4.0 | Stranger Things Chapter 2 — note officielle BHVR KB 534 — https://forums.bhvr.com/dead-by-daylight/kb/articles/534 — lue en local (official_534.txt), 27/09/2026
+[35] 9.5.0 | All-Kill: Comeback — note officielle BHVR KB 538 — https://forums.bhvr.com/dead-by-daylight/kb/articles/538 — lue en local (official_538.txt), 27/09/2026
+[36] 9.6.0 | Patch Notes — note officielle BHVR KB 544 — https://forums.bhvr.com/dead-by-daylight/kb/articles/544 — lue en local (official_544.txt), 27/09/2026
+[37] 10.0.0 | Jason Patch Notes — note officielle BHVR KB 550 — https://forums.bhvr.com/dead-by-daylight/kb/articles/550 — lue en local (official_550.txt), 27/09/2026
+[38] 10.1.0 | Chorus of Sin — note officielle BHVR KB 556 — https://forums.bhvr.com/dead-by-daylight/kb/articles/556 — lue en local (official_556.txt), 27/09/2026
+[39] 10.1.1 Bugfix Patch — note officielle BHVR KB 557 — https://forums.bhvr.com/dead-by-daylight/kb/articles/557 — lue en local (official_557.txt), 27/09/2026
+[40] 10.2.0 PTB Patch Notes — note officielle BHVR KB 559 — https://forums.bhvr.com/dead-by-daylight/kb/articles/559 — texte complet lu en local (official_559.txt), 27/09/2026
+[41] deadbydaylight.wiki.gg/wiki/Lend_a_Hand — page complète via API, consultée le 27/09/2026
+[42] deadbydaylight.wiki.gg/wiki/Fruits_of_Your_Labor — page complète via API, consultée le 27/09/2026
+[43] deadbydaylight.wiki.gg/wiki/Left_Behind_(Perk) — page complète via API, consultée le 27/09/2026
+[44] deadbydaylight.wiki.gg/wiki/Open-Handed — page complète via API, consultée le 27/09/2026
+[45] deadbydaylight.wiki.gg/wiki/Streetwise — page complète via API, consultée le 27/09/2026
+[46] deadbydaylight.wiki.gg/wiki/Boon:_Illumination — page complète via API, consultée le 27/09/2026
+[47] Digest local des pages wiki complètes — kb/sources/wiki_perks_digest.md (brut : kb/sources/wiki_perks.json), extraction du 27/09/2026
+[48] deadbydaylight.wiki.gg/wiki/Eyes_of_Belmont — page complète via API, consultée le 27/09/2026

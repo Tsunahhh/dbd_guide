@@ -154,30 +154,39 @@
 - **Sources** : [6], [13], [14], [16], [17], [24], [1], [2].
 
 ## 19. The Deathslinger (Caleb Quinn) — archétype(s) : ranged | anti-loop
-- **Version** : aucun changement 9.x → 10.1.2a trouvé dans l'audit [1]. Statut LIVE (valeurs non revérifiées).
-- **Données LIVE** :
-  - Vitesse 4,4 m/s, TR 32 m, grand — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN ; concorde avec connaissance du modèle (antérieure à mi-2026), UNCERTAIN.
-  - The Redeemer : visée (ADS) puis harpon ; survivant touché = ramené vers lui, puis M1 ; chaîne cassée = survivant blessé + Deep Wound — FACT de principe (UNCERTAIN sur le détail 2026).
-  - Portée, vitesse du projectile, rechargement, stun après chaîne cassée (seed : 18 m, 40 m/s, 2,6 s, 2,7 s) — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN.
-- **Identification** : vitesse 4,4 ; TR 32 m ; bruit de visée/tir, cliquetis de rechargement — HEURISTIC. Stratégie : chases courtes via tirs à la sortie de vault/palette — HEURISTIC.
+- **Version** : aucun changement 1v1 entre 9.0.0 et 10.1.2a dans les notes officielles locales, seulement des correctifs (ex. 9.1.3 [25], 9.3.0). La ligne « The Deathslinger » de la note 9.6.0 [17] (pénalité de rechargement en marchant, durée d'un tir raté) est **2v8 uniquement**. Dernier changement 1v1 d'après le wiki : 8.0.0 [7]. PTB 10.2.0 : Dead Man's Switch passe à 30/35/40 s (la page wiki affiche déjà cette version) : non LIVE. Statut LIVE.
+- **Données LIVE** (page wiki [7], STRONG_SECONDARY) :
+  - Vitesse **4,4 m/s**, **TR 32 m** (24 → 32 m au 5.3.0), grand, pas de berceuse.
+  - The Redeemer : visée (ADS) en 0,4 s, pendant laquelle il avance à 3,74 m/s. Tir après un délai de 0,5 s. Harpon à **40 m/s**, portée **18 m**. Tir raté : cooldown 1,5 s. **Rechargement après chaque tir : 2,6 s** à 3,08 m/s.
+  - Harponné : immobilisé 0,75 s, puis enroulé à 2,76 m/s. Le minuteur de Deep Wound est en pause pendant le harpon. Le coup final au bout de la chaîne = blessure + Deep Wound.
+  - Chaîne (100 points) : −2,5/s de tension, −15/s si vous tirez, −20/s si la chaîne touche un obstacle. Elle casse en **~2,7 s si vous tirez ET que la chaîne frotte un obstacle**, ~4,4 s en collision seule, ~5,7 s en tirant seul, 40 s sinon. Chaîne cassée : vous êtes blessé + Deep Wound, et lui **étourdi 2,7 s**.
+  - Avertissement : si vous êtes dans son TR et à portée, un son vous prévient quand il vise dans votre direction, plus fort à mesure que la visée se centre sur vous.
+- **Identification** : vitesse 4,4 ; TR 32 m ; son d'avertissement de visée (FACT [7]) ; bruit de rechargement — HEURISTIC. Stratégie : chases courtes via des tirs à la sortie d'un vault ou d'une palette — HEURISTIC.
 - **Ce qu'il cherche en chase** : une ligne droite ou une sortie de vault où vous ne pouvez pas tourner — HEURISTIC.
 - **Tiles / structures** :
-  - Favorables : tiles à obstacles serrés et hauts (pas de ligne de tir), jungle gyms fermés, intérieurs — HEURISTIC.
-  - Défavorables : open areas, fenêtres exposées sur une longue ligne de tir, fillers bas — HEURISTIC.
+  - Favorables : tiles à obstacles serrés et hauts (pas de ligne de tir), jungle gyms fermés, intérieurs. Ce sont aussi les obstacles contre lesquels la chaîne casse vite — HEURISTIC fondé sur [7].
+  - Défavorables : zones ouvertes, fenêtres exposées sur une longue ligne de tir, fillers bas — HEURISTIC.
   - Fenêtres vs palettes : vaulter seulement si la sortie est couverte par un obstacle ; palettes à lâcher tôt si la sortie est en ligne droite — HEURISTIC.
 - **Mindgames propres** : visée tenue pour vous forcer à zigzaguer (perte de distance) ; rechargement feint — HEURISTIC.
 - **Counterplay** :
-  - Mécanique : quand il vise, casser la ligne (virage vers un obstacle) plutôt que zigzag régulier en open — HEURISTIC.
-  - Harponné : tirer la chaîne vers/autour d'un obstacle pour la casser (blessé + Deep Wound, mais pas de M1 immédiat) — FACT de principe. Suite (FACT [AUDIT] sur Deep Wound) : minuteur 20 s en pause en courant ; mending 10 s seul ; un nouveau coup sous Deep Wound met à terre et l'Endurance ne protège pas — casser la chaîne gagne du temps, pas la sécurité.
+  - Mécanique : quand l'avertissement de visée sonne, casser la ligne (virage vers un obstacle) plutôt que zigzaguer régulièrement en open. Au-delà de 18 m, le harpon ne vous atteint pas (FACT [7]) — HEURISTIC fondé sur [7].
+  - Harponné : **tirer ET frotter la chaîne contre un obstacle** (~2,7 s, contre ~5,7 s en tirant seul) — FACT [7]. Suite (FACT [AUDIT] sur Deep Wound) : minuteur de 20 s en pause en courant ; mending 10 s seul ; un nouveau coup sous Deep Wound met à terre et l'Endurance ne protège pas. Casser la chaîne gagne du temps (2,7 s d'étourdissement), pas la sécurité.
   - Positionnel : rester à courte distance des LOS blockers ; ne pas traverser l'open en ligne droite — HEURISTIC.
-  - Macro : il perd du temps à recharger → le forcer à tirer dans le vide (bait) puis gagner une tile — HEURISTIC.
-- **Habitudes punissables** : vault « automatique » vers l'open ; zigzag prévisible ; rester Deep Wound sans soin. **Erreur classique** : croire qu'une palette lâchée protège d'un tir au-dessus (la ligne de tir peut passer selon la hauteur — UNCERTAIN).
-- **Adaptations avancées** : contre un bon tireur, privilégier des chaînes de tiles serrées même peu « safe » plutôt qu'une grosse tile séparée par de l'open — HEURISTIC.
-- **Add-ons qui changent la décision** : NON VÉRIFIABLE. Seed : Warden's Keys (recharge), Bayshore's Cigar / Gold Belt Buckle, Iridescent Coin (Exposed harponné), Barbed Wire. Règle : si un harpon peut rendre Exposed (effet d'add-on non vérifié) → casser la chaîne en priorité plutôt que de subir le reel, sauf si l'obstacle le plus proche te ramène dans sa portée — HEURISTIC.
-- **Implications de carte** : cartes ouvertes à longues lignes de tir le favorisent ; intérieures encombrées le handicapent — HEURISTIC.
-- **Perks fréquentes / synergies** : Dead Man's Switch (valeur LIVE **contestée** : 25/30/35 s selon la table 9.2.0 de l'audit, mais la page wiki.gg 9.2.X citée par le même audit dit ces changements du PTB 9.2.0 annulés au LIVE [1] ; 30/35/40 s au **PTB 10.2.0**, non LIVE), Gearhead (ses perks) — fréquence NON VÉRIFIABLE pour 2026 ; côté survivant Lithe/Dead Hard (seed ; Dead Hard UNCERTAIN dans la base de perks) — HEURISTIC.
-- **Écart avec le seed** : vitesse 4,4 OK (UNCERTAIN) ; valeurs du Redeemer NON VÉRIFIABLE.
-- **Sources** : [1], [2].
+  - Macro : il doit recharger 2,6 s à 3,08 m/s après **chaque** tir (FACT [7]). Le forcer à tirer dans le vide (bait), puis gagner une tile pendant le rechargement — HEURISTIC.
+- **Habitudes punissables** : vault « automatique » vers l'open ; zigzag prévisible ; rester en Deep Wound sans soin. **Erreur classique** : croire qu'une palette lâchée protège d'un tir par-dessus (la ligne de tir peut passer selon la hauteur — UNCERTAIN, non décrit par [7]).
+- **Adaptations avancées** : contre un bon tireur, privilégier des chaînes de tiles serrées, même peu « safe », plutôt qu'une grosse tile séparée par de l'open — HEURISTIC.
+- **Add-ons qui changent la décision** (noms et effets LIVE lus sur [7]) :
+  - Iridescent Coin (Exposed pendant le harpon si le tir part de 12 m ou plus) → harponné de loin, casser la chaîne tout de suite (tirer + obstacle) au lieu de se laisser ramener : le coup au bout de la chaîne vous mettrait à terre.
+  - Hellshire Iron (Undetectable pendant le harpon, puis 10 s) → après le harpon d'un coéquipier, ne pas se fier au TR pendant ~10 s.
+  - Gold Creek Whiskey (TR −8 m en visée) ou Marshal's Badge (−4 m) → l'avertissement de visée ne se déclenche que dans son TR : ne pas attendre le son pour quitter l'open.
+  - Bayshore's Cigar (étourdissement −0,75 s, soit ~1,95 s) ou Chewing Tobacco (−0,25 s) → casser la chaîne rapporte moins de distance : viser une LOS immédiate après la casse, pas une longue fuite.
+  - Honey Locust Thorn (Mangled 70 s après s'être libéré), Rusted Spike (Mangled 60 s une fois harponné), Barbed Wire (mending +3,5 s) ou Poison Oak Leaves (+1,5 s) → la Deep Wound est plus longue à gérer : mender dès qu'une LOS est sûre, avant le prochain tir.
+  - Warden's Keys (rechargement −0,35 s), Modified Ammo Belt (−0,25 s) ou Tin Oil Can (cooldown de tir raté −0,5 s) → fenêtre plus courte après un tir : traverser moins d'open pendant le rechargement.
+  - Prison Chain (temps de libération +10 %) → la chaîne tient plus longtemps : chercher l'obstacle encore plus tôt.
+- **Implications de carte** : cartes ouvertes à longues lignes de tir le favorisent ; intérieurs encombrés le handicapent — HEURISTIC.
+- **Perks fréquentes / synergies** : Dead Man's Switch (valeur LIVE **contestée** : 25/30/35 s selon la table 9.2.0 de l'audit, mais la page wiki.gg 9.2.X citée par le même audit dit ces changements du PTB 9.2.0 annulés au LIVE [1] ; 30/35/40 s au **PTB 10.2.0**, non LIVE ; la page du Deathslinger [7] n'affiche que la version PTB), Gearhead, Hex: Retribution (ses perks [7]) — fréquence NON VÉRIFIABLE pour 2026 ; côté survivant, Lithe et Dead Hard (seed ; Dead Hard UNCERTAIN dans la base de perks) — HEURISTIC.
+- **Écart avec le seed** : vitesse 4,4 **OK** ; TR 32 m **OK** ; Redeemer 18 m, 40 m/s, rechargement 2,6 s, étourdissement 2,7 s **OK (STRONG_SECONDARY [7])** ; add-on « Gold Belt Buckle » : **absent** de la liste LIVE des add-ons [7] → FAUX (nom inexistant en LIVE).
+- **Sources** : [7], [17], [25], [23], [1], [2].
 
 ## 20. The Executioner (Pyramid Head) — archétype(s) : ranged | zone | anti-loop
 - **Version** : buffs 9.1.0 (29/07/2025, détail non documenté dans l'audit) [1]. Statut LIVE.

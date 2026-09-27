@@ -74,42 +74,45 @@ Couverture : 7/7 tueurs re-vérifiés sur page wiki complète (27/09/2026), dont
 
 ## 39. The Ghoul (Ken Kaneki) — archétype(s) : mobilité | anti-loop | M1 (après marquage)
 
-- **Version** : DLC Tokyo Ghoul, 2025 (seed-NRV). Le seed cite un « nerf 8.6.2 » (portée 14 m) et un ajustement de magnétisme en 9.5.0. **Le registre de l'audit (9.5.0) ne mentionne pas le Ghoul** dans son résumé : NON VÉRIFIABLE. L'audit liste le Ghoul comme « pick (high) » dans les statistiques BHVR KB 540 (sept. 2025-févr. 2026, **noms seulement, sans chiffres**). Statut LIVE, valeurs UNCERTAIN.
-- **Données LIVE** :
-  - 4,6 m/s. TR 40 m selon le seed (CM : TR plutôt 32 m, UNCERTAIN, voir Questions ouvertes). Taille moyenne. seed-NRV.
-  - Pouvoir « One-Eyed Terror » (seed-NRV, UNCERTAIN) :
-    - **Kagune Leap** : 2 tokens (recharge 4 s chacun), cible (surface ou survivant) jusqu'à 14 m, enchaînement dans une fenêtre de 5 s. Les bonds franchissent les fenêtres et les palettes tombées. Un bond sur un survivant fait un grab-attack : blessure, Deep Wound selon le seed, et **Kagune Mark**. Un survivant marqué ne peut plus être attrapé au bond.
-    - **Enraged Mode** après un grab : 3 tokens (recharge 2,5 s), vaults plus rapides, casser une palette coûte 2 tokens. Il dure tant qu'une marque existe, puis 40 s après le retrait de la dernière (50 s avec grab parfait).
-  - Probable, pas FACT ferme (audit phase 0, wiki.gg Pallets, STRONG_SECONDARY, « liste à reconfirmer ») : le Ghoul figure parmi les destructions instantanées de palette via le 3e Kagune Leap **avec add-on**.
+- **Version** : DLC Tokyo Ghoul, sorti le 02/04/2025 [WIKI]. Changements [WIKI, Change Log] : 8.6.2 (portée max 16 → **14 m**, Countdown 45 → 40 s, bonus de grab parfait 15 → 10 s, casser une palette = cooldown d'un token), 8.7.0 / 8.7.1 (en Enragé, casser une palette coûte 2 tokens). **9.2.0** : un survivant attrapé de l'autre côté d'un vault est relâché **au début** du vault du Ghoul, et non plus à la fin [KB 523 ; annonce KB 521] → VERIFIED_MULTI_SOURCE. **9.5.0** : « stickiness » du réticule sur survivant 0,18 → 0,05 s, et **plus aucun coup automatique après un Leap Vault** [KB 538 ; WIKI] → VERIFIED_MULTI_SOURCE. Le « nerf 8.6.2 (14 m) » et l'« ajustement de magnétisme 9.5.0 » du seed sont **confirmés**. L'audit liste le Ghoul comme « pick (high) » dans les statistiques BHVR KB 540 (noms seulement, sans chiffres). Statut LIVE.
+- **Données LIVE** ([WIKI], STRONG_SECONDARY sauf mention) :
+  - 4,6 m/s ; **TR 40 m** ; taille moyenne. (CONFLICT-B4G6-03 résolu : 40 m, le seed avait raison contre la CM.)
+  - Pouvoir « One-Eyed Terror » :
+    - **Kagune Leap** : **2 tokens** hors Enragé. Viser une surface verticale ou un survivant à ≤ 14 m (minimum 2 m sur survivant, 5 m sur décor ; charge 0,35 s). Après un bond, fenêtre de 5 s pour enchaîner le suivant. Un bond franchit **fenêtres et palettes tombées** (Leap Vault, 1,5 s). Le **cooldown** se déclenche au dernier token, à la fin de la fenêtre de 5 s, **après un vault** ou après une prise ; recharge 4 s par token, et le pouvoir ne revient **qu'une fois tous les tokens rechargés** (≈ 8 s hors Enragé). Casser une palette hors cooldown force un cooldown d'1 token (2 en Enragé).
+    - **Cible survivant** : le **1er bond** qui atteint un survivant **ne blesse pas** (réticule « bouche fermée ») ; c'est le **bond suivant** (« bouche ouverte ») qui déclenche le **Grab-Attack** (portée de saisie 3,5 m) : blessure si sain, **Deep Wound**, **Kagune Mark**, portes de sortie bloquées pendant la prise + 5 s. QTE optionnelle (grab parfait). Un survivant **marqué** ne peut plus être blessé par un Grab-Attack (il en subit les autres effets).
+    - **Kagune Mark** : retirée quand le survivant **termine de mend** (Deep Wound) ou passe au sol.
+    - **Enraged Mode** (après un Grab-Attack) : **3 tokens**, recharge 2,5 s par token (≈ 7,5 s pour tout recharger), vault plus rapide (×0,667, ≈ 1 s) quand il vise un survivant situé de l'autre côté, casse de palette = 2 tokens. Actif tant qu'au moins un survivant est marqué, puis **Countdown 40 s** (50 s après un grab parfait) quand la dernière marque disparaît.
+  - Destruction instantanée de palette : **uniquement avec Iridescent Eye Patch** (3e bond enchaîné en Enragé qui vaulte une palette tombée) [WIKI ; description mise à jour en 9.5.0, KB 538] → confirme l'audit (wiki.gg Pallets).
 - **Identification** (HEURISTIC) :
-  - *Avant le reveal* : 4,6 m/s ; l'arrivée est rapide et bruyante (bonds). Voir un tueur « tiré » vers un mur ou un toit = Ghoul.
-  - *Pouvoir en action* : trajectoires en arc vers des surfaces, grab au contact.
-  - *Add-ons* : palette tombée détruite au 3e bond (Iridescent Eye Patch selon le seed).
-  - *Stratégie probable* : snowball en début de partie (un grab gratuit par chase), puis pression par blessures multiples. Le tunnel est facilité par sa mobilité (HEURISTIC ; anciennement « EXPERT OPINION », non sourcée).
-- **Ce qu'il cherche en chase** (HEURISTIC) : une LOS sur vous à ≤ 14 m en dehors d'un tile. **Le premier coup est quasi garanti** si vous êtes surpris en open. Ensuite, contre un survivant marqué, il redevient un M1 à 4,6 m/s avec des vaults accélérés et des bonds par-dessus les palettes posées.
+  - *Avant le reveal* : 4,6 m/s ; **TR large (40 m)** : on l'entend de loin. L'arrivée est rapide et bruyante (bonds). Un tueur « tiré » vers un mur ou un toit = Ghoul.
+  - *Pouvoir en action* : trajectoires en arc vers des surfaces ; **un bond qui vous atteint sans vous blesser annonce le Grab-Attack au bond suivant**.
+  - *Add-ons* [WIKI] : palette tombée détruite au 3e bond (Iridescent Eye Patch) ; fenêtre bloquée 10 s après son vault en Enragé (Red-Headed Centipede) ; Oblivious tant que vous êtes marqué (Hide's Headphones).
+  - *Stratégie probable* : snowball en début de partie (un grab par chase), puis pression par blessures multiples ; tunnel facilité par sa mobilité (HEURISTIC).
+- **Ce qu'il cherche en chase** (HEURISTIC) : une LOS sur vous à ≤ 14 m hors d'un tile, pour enchaîner **deux bonds** (rapprochement puis grab) dans la fenêtre de 5 s. Contre un survivant déjà marqué, il redevient un M1 à 4,6 m/s, avec des bonds de mobilité et des vaults accélérés.
 - **Tiles / structures** (HEURISTIC) :
-  - *Favorables* : tiles hauts et fermés (murs pleins, shacks) qui coupent la LOS ; zones à plafond bas où les bonds sur surfaces sont maladroits (HEURISTIC, non sourcée ; en tension avec « un étage lui profite » ci-dessous : le plafond bas gêne la visée, l'étage ouvre des bonds verticaux).
-  - *Défavorables* : l'open, les tiles bas (rochers, petites palettes), les fenêtres isolées (il les traverse au bond).
-  - *Palettes* : **ne comptez pas sur une palette posée pour gagner une boucle** s'il lui reste des tokens, il la saute. Posez-la tard, pour le stun ou pour forcer une dépense, pas pour boucler autour (HEURISTIC). En Enragé, la casser lui coûte 2 tokens (seed).
-  - *Verticalité* : un étage lui profite (bonds vers le haut ou le bas). Un toit n'est pas un refuge.
-- **Mindgames propres** (HEURISTIC) : viser une surface derrière vous plutôt que vous-même pour couper le tile ; retenir un token pour la sortie de palette ; feinter le bond.
+  - *Favorables* : tiles hauts et fermés (murs pleins, shacks) qui coupent la LOS ; zones à plafond bas où les bonds sur surfaces sont maladroits (non sourcé ; en tension avec « un étage lui profite » ci-dessous).
+  - *Défavorables* : l'open, les tiles bas (rochers, petites palettes), les fenêtres isolées (il les franchit au bond).
+  - *Palettes* : une palette posée ne gagne pas une boucle contre lui, mais elle **coûte son pouvoir** : s'il la franchit au bond, le vault déclenche le cooldown (≈ 8 s, ≈ 7,5 s en Enragé) ; s'il la casse, cooldown forcé d'1 token (2 en Enragé) [WIKI]. Posez-la tard, pour le stun ou pour vider ses tokens (HEURISTIC).
+  - *Verticalité* : un étage lui profite (bonds jusqu'à 8 m de dénivelé [WIKI]). Un toit n'est pas un refuge.
+- **Mindgames propres** (HEURISTIC) : viser une surface derrière vous plutôt que vous-même pour couper le tile ; garder un token pour la sortie de palette ; feinter le bond.
 - **Counterplay** :
-  - *Mécanique* : **cassez la LOS au moment où il vise**. Esquive latérale tardive au bond (le seed parle d'une visée moins magnétique après nerfs, UNCERTAIN). Après la marque, jouez-le comme un M1 et **dépensez ses tokens** (faites-le bondir inutilement), puis exploitez sa recharge (HEURISTIC).
-  - *Positionnel* : ne réparez pas en open visible de loin et gardez un tile fermé à proximité (« ≤ 10 m » : ordre de grandeur HEURISTIC dérivé de la portée de bond de 14 m [SEED] UNCERTAIN, pas une distance de sécurité mesurée).
-  - *Macro* : sa mobilité rend la pression 3-gen et le « gen kick » mobiles, donc complétez des gens espacés. Un soin rapide des survivants marqués réduit l'Enragé si le soin retire la marque, comme l'affirme le seed (UNCERTAIN).
+  - *Mécanique* : **cassez la LOS au moment où il vise**. Si un 1er bond vous atteint sans vous blesser, **coupez immédiatement la ligne** (obstacle, angle) : le Grab-Attack vient du bond suivant, dans les 5 s. Esquive latérale tardive : la visée sur survivant est très peu magnétique depuis 9.5.0 (0,05 s) [KB 538]. Depuis 9.5.0, plus de coup automatique en re-vaultant vers lui après son Leap Vault [KB 538]. Après la marque, jouez-le comme un M1 et **videz ses tokens**, puis exploitez son cooldown (HEURISTIC).
+  - *Positionnel* : ne réparez pas en open visible de loin et gardez un tile fermé à proximité (« ≤ 10 m » : ordre de grandeur HEURISTIC dérivé de la portée de 14 m [WIKI], pas une distance de sécurité mesurée).
+  - *Macro* : sa mobilité rend la pression 3-gen et le « gen kick » mobiles, donc complétez des gens espacés. **Mendez vite** les survivants marqués : c'est le **mend** (Deep Wound) qui retire la Kagune Mark et lance le Countdown de 40 s qui met fin à l'Enragé [WIKI] — pas le soin complet.
   - *Équipe* : il arrive vite sur les décrochages. Décrochez quand il est engagé loin, pas quand il vient de se déplacer au bond (HEURISTIC).
-- **Habitudes punissables / erreurs** (HEURISTIC) : traverser l'open « parce que le TR est loin » (il couvre 14 m par bond, en chaînes) ; compter sur une fenêtre isolée ; poser une palette tôt en pensant l'avoir bloqué.
+- **Habitudes punissables / erreurs** (HEURISTIC) : traverser l'open « parce que le TR est loin » (TR 40 m, bonds de 14 m en chaîne) ; compter sur une fenêtre isolée ; poser une palette tôt en pensant l'avoir bloqué ; rester sur la même ligne après un 1er bond non blessant.
 - **Adaptations avancées** (HEURISTIC) :
-  - Le counterplay classique « tenir la boucle de palette » **échoue** tant qu'il a des tokens. Il faut penser en **fenêtres de recharge** (≈ 4 s hors Enragé, ≈ 2,5 s en Enragé selon le seed).
-  - Contre un Ghoul qui « garde » les marques pour prolonger l'Enragé, un survivant marqué et en bonne position peut accepter d'étirer la chase plutôt que de chercher un soin risqué (SITUATIONAL).
-- **Add-ons qui changent la décision** (seed-NRV) :
-  - Iridescent Eye Patch (3e bond en Enragé = palette tombée détruite ; recoupe l'audit, STRONG_SECONDARY) → **une palette posée n'est plus une zone sûre en Enragé**. Enchaînez vers le tile suivant au lieu de rester.
-  - Hinami's Umbrella (bonus de grab parfait) → Enragé plus long ; décrochez et soignez plus tôt, évitez de laisser traîner une marque.
-  - Yamori's Mask (révélation > 40 m en accrochant en Enragé) → ne vous éloignez pas « par sécurité » à l'autre bout de la map pendant un crochet.
+  - Le counterplay classique « tenir la boucle de palette » **échoue** tant qu'il a des tokens. Pensez en **fenêtres de recharge** : le pouvoir ne revient qu'après recharge complète, soit ≈ 8 s hors Enragé (2 × 4 s) et ≈ 7,5 s en Enragé (3 × 2,5 s) [calcul, WIKI] — la version précédente donnait 4 s / 2,5 s, qui sont des durées **par token**.
+  - Contre un Ghoul qui « garde » les marques pour prolonger l'Enragé, un survivant marqué et en bonne position peut accepter d'étirer la chase plutôt que de chercher un mend risqué (SITUATIONAL).
+- **Add-ons qui changent la décision** ([WIKI], LIVE) :
+  - Iridescent Eye Patch (3e bond enchaîné en Enragé qui vaulte une palette tombée = palette détruite) → en Enragé, le survivant ne reste pas sur une palette posée : il enchaîne vers le tile suivant au lieu de boucler.
+  - Hinami's Umbrella (+10 s de Countdown par grab parfait, soit 60 s) → le survivant marqué mend et se fait soigner plus tôt, au lieu de laisser traîner la marque.
+  - Yamori's Mask (accrocher en Enragé fait crier et révèle 3 s les survivants à plus de 40 m) → pendant un crochet en Enragé, le survivant ne s'éloigne pas « par sécurité » à l'autre bout de la map : il reste à ≤ 40 m, derrière un obstacle.
+  - Red-Headed Centipede (en Enragé, une fenêtre qu'il vaulte est bloquée 10 s pour les survivants) → après son vault d'une fenêtre, le survivant quitte la boucle au lieu de compter sur le re-vault.
 - **Implications de carte** (HEURISTIC) : très fort en open et sur les maps à plusieurs étages. Plus faible sur les maps intérieures denses à murs hauts, même si la verticalité intérieure l'aide.
-- **Perks fréquentes** (seed-NRV) : Pain Resonance, Surge, Friends 'til the End, Brutal Strength / Lethal Pursuer. → Anticipez un repérage de début de partie (Lethal Pursuer) et un premier grab rapide.
-- **Écart avec le seed** : TR 40 m NON VÉRIFIABLE (doute CM). « Plus de 60 % de kill en MMR élevé selon BHVR » : **IMPRÉCIS / non étayé**, car l'audit relève que la publication BHVR citée ne donne pas de chiffre et cite le Ghoul pour le **pick rate** high MMR, pas pour le kill rate. Le reste est NON VÉRIFIABLE.
-- **Sources** : [1], [2], [3].
+- **Perks fréquentes** (seed-NRV) : Pain Resonance, Surge, Friends 'til the End, Brutal Strength / Lethal Pursuer. Ses perks [WIKI] : Forever Entwined, Hex: Nothing but Misery (après 4 coups de base : Hindered −5 % et vault −10 % pendant 10-15 s après chaque coup de base), None Are Free (une fois tous les gens faits : fenêtres et palettes debout bloquées 12/14/16 s par token, 1 token par premier crochet, jusqu'à 48/56/64 s). → Anticipez un repérage de début de partie (Lethal Pursuer) et un premier grab rapide. Contre None Are Free, en endgame, allez directement aux portes au lieu de chercher une boucle.
+- **Écart avec le seed** : TR 40 m **OK** [WIKI] (la CM avait tort). Portée 14 m (nerf 8.6.2), tokens 2 / 4 s, Enragé 3 / 2,5 s, Countdown 40 s (50 s parfait), casse 2 tokens en Enragé, Deep Wound au grab : **OK** [WIKI]. Magnétisme ajusté en 9.5.0 : **OK** [KB 538]. « Le soin retire la marque » : **IMPRÉCIS** (c'est le **mend**). « Plus de 60 % de kill en MMR élevé selon BHVR » : **IMPRÉCIS / non étayé** (KB 540 : aucun chiffre en texte, Ghoul cité pour le **pick rate**).
+- **Sources** : [4] (Ken_Kaneki), [5] (KB 521, 523, 538), [1] (KB 540 via audit), [2].
 
 ---
 
