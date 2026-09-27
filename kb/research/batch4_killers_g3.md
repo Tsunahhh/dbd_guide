@@ -2,7 +2,7 @@
 
 > **Statut : WRITTEN + AUDITED (audits adversariaux §25-26 du 27/09/2026, sans web) + RE-VÉRIFIÉ (lot 12b, 27/09/2026) sur pages wiki complètes et notes officielles BHVR lues en local.** Voir aussi kb/audit/pass14_lot4_g1-g3.md.
 
-**Couverture : 7/7 tueurs re-vérifiés sur page wiki complète (27/09/2026), dont 27 points confirmés par note officielle** (Claims marqués VERIFIED_PRIMARY ou VERIFIED_MULTI_SOURCE). Il reste 4 conflits ouverts, tous mineurs : coût exact d'une casse de palette pour la Blight à 3 tokens ou moins, délai avant les orbes de l'Oni après un décrochage, stats des Twins en 2026, totaux d'Undetectable des add-ons du Demogorgon.
+**Couverture : 7/7 tueurs re-vérifiés sur page wiki complète (27/09/2026), dont 22 points confirmés par note officielle** (Claims VERIFIED_PRIMARY / VERIFIED_MULTI_SOURCE, décompte sous la table des Claims). Il reste 4 conflits ouverts, tous mineurs : coût exact d'une casse de palette pour la Blight à 3 tokens ou moins, délai avant les orbes de l'Oni après un décrochage, stats des Twins en 2026, totaux d'Undetectable des add-ons du Demogorgon.
 
 - Périmètre : Ghost Face, Demogorgon, Oni, Deathslinger, Executioner, Blight, Twins (seed `kb/seed/ch8_killers.txt` l. 845-1093).
 - Référence : patch LIVE 10.1.2a (17/09/2026). PTB 10.2.0 = **non LIVE**. Date de travail : 27/09/2026.
@@ -348,73 +348,154 @@
 
 | ID | Claim | Source | Patch | Confiance |
 |---|---|---|---|---|
-| B4G3-01 | Ghost Face accroupi 4,0 m/s | [1] | 9.6.1 | VERIFIED_PRIMARY (via audit) |
-| B4G3-02 | Ghost Face buffé au 9.6.0 (détail inconnu) | [1] | 9.6.0 | VERIFIED_PRIMARY (existence) |
-| B4G3-03 | Ghost Face recharge Night Shroud 15 s (17 avant) | [2] | 9.6.0 | UNCERTAIN |
-| B4G3-04 | Demogorgon Shred 19 m/s | [1] | 9.6.0 | VERIFIED_PRIMARY (via audit) |
-| B4G3-05 | Demogorgon Undetectable 12 s après portail | [1] | 9.6.0 | VERIFIED_PRIMARY (via audit) |
-| B4G3-06 | Shred / Blood Fury / Lethal Rush cassent les palettes instantanément | [1] | — | STRONG_SECONDARY |
-| B4G3-07 | Oni et Executioner buffés au 9.1.0 (détail inconnu) | [1] | 9.1.0 | VERIFIED_PRIMARY (existence) |
-| B4G3-08 | Deathslinger 4,4 m/s | [2] + connaissance du modèle | — | UNCERTAIN |
-| B4G3-09 | Blight 4,4 m/s (était 4,6) | [1] | 9.6.0 | VERIFIED_PRIMARY |
-| B4G3-10 | Blight : casse de palette → tokens à 2 sous le max, recharge à 0 % (coût réel 0 à 2 tokens selon le stock : interprétation P14) | [1] | 9.6.0 | VERIFIED_PRIMARY (texte) ; interprétation du coût : HYPOTHESIS |
-| B4G3-11 | Blight TR 40 m | [2] | — | UNCERTAIN (connaissance du modèle : 32 m) |
-| B4G3-12 | Victor peut déclencher des chases | [1] | 9.0.0 | VERIFIED_PRIMARY (via audit) |
+| B4G3-01 | Ghost Face accroupi 4,0 m/s (3,8 avant) | [18][4] | 9.6.1 | VERIFIED_MULTI_SOURCE |
+| B4G3-02 | Ghost Face : recharge de Night Shroud 15 s (17 avant) | [17][4] | 9.6.0 | VERIFIED_MULTI_SOURCE |
+| B4G3-03 | Ghost Face : Walleye's Matchbook −2 s (−3 avant) | [17][4] | 9.6.0 | VERIFIED_MULTI_SOURCE |
+| B4G3-04 | Demogorgon : Shred 19 m/s (18,4 avant) | [17][5] | 9.6.0 | VERIFIED_MULTI_SOURCE |
+| B4G3-05 | Demogorgon : Undetectable 12 s en sortie de portail (5 s avant) | [17][5] | 9.6.0 | VERIFIED_MULTI_SOURCE |
+| B4G3-06 | Pouvoirs du Demogorgon, de l'Oni et de la Blight = « Special-break » ; Executioner, Twins et Deathslinger absents de la liste | [16] | 9.5.0 | VERIFIED_PRIMARY |
+| B4G3-07 | Oni : 9.1.0 = limite de rotation de la Demon Strike rétablie à 540° (nerf selon le wiki, pas un buff) | [13][6] | 9.1.0 | VERIFIED_MULTI_SOURCE |
+| B4G3-08 | Deathslinger 4,4 m/s, TR 32 m ; Redeemer 18 m, 40 m/s, rechargement 2,6 s, étourdissement 2,7 s | [7] | LIVE (dernier changement 1v1 au 8.0.0) | STRONG_SECONDARY |
+| B4G3-09 | Blight 4,4 m/s (4,6 avant) | [17][9] | 9.6.0 | VERIFIED_MULTI_SOURCE |
+| B4G3-10 | Blight : casse d'une palette baissée (au pied ou par le pouvoir) → tokens à « 2 sous le max », recharge à 0 % | [17][9] | 9.6.0 | VERIFIED_MULTI_SOURCE |
+| B4G3-11 | Blight TR 40 m (32 → 40 m au 8.6.0) | [9] | 8.6.0 | STRONG_SECONDARY (note 8.6.0 non disponible en local) |
+| B4G3-12 | Victor peut déclencher des chases | [12][10] | 9.0.0 | VERIFIED_MULTI_SOURCE |
 | B4G3-13 | Nowhere to Hide 24 m LIVE (18 m = PTB 10.1.0) | [3] | 10.1.0 | VERIFIED (ledger) |
-| B4G3-14 | Toutes autres valeurs de pouvoir (portées, durées, recharges) | [2] | — | NON VÉRIFIABLE |
+| B4G3-14 | Autres valeurs de pouvoir et d'add-ons citées dans les fiches (portées, durées, recharges) | [4]-[10] | LIVE | STRONG_SECONDARY (page wiki complète), sauf mention contraire |
+| B4G3-15 | Ghost Face : reveal « plus précis » à 18 m ou moins | [16] | 9.5.0 | VERIFIED_PRIMARY |
+| B4G3-16 | Ghost Face TR 24 m (32 → 24 m au 8.6.0) ; reveal à 32 m, 1,5 s ; stalk 40 m, ×2 penché ; Marked = Exposed 60 s | [4] | 8.6.0 / LIVE | STRONG_SECONDARY |
+| B4G3-17 | Demogorgon : virage du Shred 55 °/s (27,5 avant) | [17][5] | 9.6.0 | VERIFIED_MULTI_SOURCE |
+| B4G3-18 | Oni : 5 orbes au crochet (2 avant) | [14][6][24] | 9.2.0 | VERIFIED_MULTI_SOURCE |
+| B4G3-19 | Executioner : portée de Punishment of the Damned 10 m (8 avant) | [13][8] | 9.1.0 | VERIFIED_MULTI_SOURCE |
+| B4G3-20 | Executioner : tracé 10 s (5 avant), traînées 90 s (75 avant), 4,2 m/s en traçant (4,4 avant) | [13][8] | 9.1.0 | VERIFIED_MULTI_SOURCE |
+| B4G3-21 | Survivant sauvé d'une cage : 10 % Haste + Endurance (9.1.0) ; 10 s + Elusive depuis 10.1.0, comme au décrochage | [13][20][8] | 9.1.0 / 10.1.0 | VERIFIED_MULTI_SOURCE |
+| B4G3-22 | Sauver une cage ne déclenche plus de notification de bruit fort | [15][8] | 9.2.3 | VERIFIED_MULTI_SOURCE |
+| B4G3-23 | Executioner : Obsidian Goblet → l'onde casse palettes et murs (cooldown +20 %) | [8][13][16] | 9.1.0 / 9.5.0 | VERIFIED_MULTI_SOURCE |
+| B4G3-24 | Punishment of the Damned traverse les murs | [26][8] | 9.1.2 (correctif) | VERIFIED_MULTI_SOURCE (preuve indirecte : correctif officiel) |
+| B4G3-25 | Final Judgement = mini-mori d'un Tormented au sol déjà en 2e phase ; cage = progression comme un crochet ; relocalisation si l'Executioner reste à 10 m ou moins pendant 3,5 s | [8][11] | LIVE | STRONG_SECONDARY |
+| B4G3-26 | Blight : correctif, il perd des tokens même en cassant avec 3 tokens ou moins | [19] | 9.6.2 | VERIFIED_PRIMARY (quantité non précisée) |
+| B4G3-27 | Blight : 5 tokens, Rush 9,2 m/s, fenêtre de chaîne 1,25 s, fatigue 2,5 s, recharge 2 s par token | [9] | LIVE | STRONG_SECONDARY |
+| B4G3-28 | Twins : Victor 6,0 m/s ; libération 0,75 s ; retrait 8 s ; écrasement 0,35 s ; rappel 90 s ; accroupi = pas de Killer Instinct dans le rayon de cri | [10] | LIVE | STRONG_SECONDARY |
+| B4G3-29 | Lignes « The Oni » et « The Deathslinger » (9.6.0) et « The Ghostface » et « The Executioner » (10.1.2) = mode 2v8 uniquement | [17][21] | 9.6.0 / 10.1.2 | VERIFIED_PRIMARY |
+| B4G3-30 | PTB 10.2.0 : aucune modification de pouvoir pour ces 7 tueurs | [23] | PTB 10.2.0 | VERIFIED_PRIMARY (note PTB) |
+| B4G3-31 | Demogorgon : Oblivious dans les 4 m d'un portail actif ; scellement 12 s seul (~9 s à deux) ; 6 portails | [5] | LIVE | STRONG_SECONDARY |
+| B4G3-32 | Oni : Blood Fury ~45,45 s max, −7 s par down (1v1), Demon Dash 7,82 m/s, absorption 3,45 m/s, jauge passive plafonnée à 98 | [6] | LIVE | STRONG_SECONDARY |
+
+Décompte : 22 claims VERIFIED_PRIMARY ou VERIFIED_MULTI_SOURCE, adossés à une note officielle (01-07, 09, 10, 12, 15, 17-24, 26, 29, 30). Ce décompte correspond aux « points confirmés par note officielle » de la ligne de couverture.
 
 ## Conflits
 
-#### CONFLICT-B4G3-01 : Terror Radius de la Blight
+#### CONFLICT-B4G3-01 : Terror Radius de la Blight — RÉSOLU
 - Source A : seed ch8 l. ~1000 : « RT : 40 m » [2].
-- Source B : connaissance du modèle (antérieure à mi-2026), UNCERTAIN : 32 m (aucune source).
-- Hypothèse : erreur du seed ou valeur modifiée ; aucune vérification possible en session.
-- Indice (audit P14) : règle d'origine « 32 m pour les tueurs à 4,6 m/s » (la Blight était à 4,6 avant 9.6.0 ; le résumé du nerf 9.6.0 dans l'audit ne mentionne pas de changement de TR) → penche vers 32 m sans le prouver.
-- Résolution : UNRESOLVED.
+- Source B : connaissance du modèle (antérieure à mi-2026) : 32 m (aucune source), soutenue à tort par l'indice P14 de la « règle d'origine ».
+- Preuve : page wiki complète [9] : infobox « Terror Radius 40 metres » et change log « Patch 8.6.0 Nerf : increased the Terror Radius from 32 metres to 40 metres ». Aucune note 9.x ou 10.x ne modifie ce TR (grep des notes locales [16]-[23]).
+- Résolution : **40 m LIVE** (STRONG_SECONDARY ; la note officielle 8.6.0 n'est pas disponible en local). Le seed avait raison ; la valeur 32 m était la valeur d'avant 8.6.0.
 
-#### CONFLICT-B4G3-02 : force des Twins
+#### CONFLICT-B4G3-02 : force des Twins — PARTIELLEMENT RÉSOLU
 - Source A : seed, tier C, kill rate NightLight 47,4 % [2].
 - Source B : seed (vue d'ensemble) citant les stats BHVR oct. 2025 – févr. 2026 : Twins parmi les meilleurs kill rates au haut MMR (>60 %) [2].
-- Hypothèse : pick rate très faible → échantillon de spécialistes ; tier « C » = accessibilité, pas plafond.
-- Résolution : UNRESOLVED (infographies BHVR non consultées).
+- Source C : note officielle « Stats | January - March 2025 » [22] : « High MMR mainstays like The Twins, The Blight and The Nurse unsurprisingly made appearances as well » (kill rates en tête). Le texte de l'article « First Look at Stats in 2026 » (article 540) ne cite pas les Twins : les chiffres sont dans des infographies non lues.
+- Hypothèse : pick rate très faible → échantillon de spécialistes ; un tier « C » mesure l'accessibilité, pas le plafond (HEURISTIC).
+- Résolution : la présence des Twins en tête des kill rates au haut MMR est **confirmée pour janv.-mars 2025** (VERIFIED_PRIMARY, texte officiel). Le chiffre « >60 % » et la période oct. 2025 – févr. 2026 restent NON VÉRIFIABLES (infographies).
 
-#### CONFLICT-B4G3-03 : Final Judgement / cages de l'Executioner
+#### CONFLICT-B4G3-03 : Final Judgement / cages de l'Executioner — RÉSOLU
 - Source A : seed : « Au 2e hameçon, Final Judgement tue directement » ; « la cage change de place si un autre survivant s'en approche » [2].
-- Source B : connaissance du modèle (antérieure à mi-2026), UNCERTAIN : Final Judgement vise un Tormented déjà en phase finale ; comportement de relocalisation non confirmé.
-- Résolution : UNRESOLVED.
+- Source B : connaissance du modèle : Final Judgement vise un Tormented déjà en phase finale ; relocalisation non confirmée.
+- Preuve :
+  - Page wiki [8] : « Press the Secondary Power button while standing over a downed Tormented Survivor that has reached the second Hook Stage to execute them on the spot ». Même page : « Auto-relocation Trigger radius: 10 metres ; Trigger timer: 3.5 seconds ».
+  - Change log 4.0.2 [8] et page Cages of Atonement [11] : la cage se relocalise « if The Executioner remains too close for a few seconds » ; les cages apparaissent le plus loin possible du tueur et il ne voit pas leur aura.
+- Résolution :
+  - Final Judgement = survivant Tormented au sol **déjà en 2e phase** (après 2 crochets ou cages) : seed **IMPRÉCIS**.
+  - La relocalisation est déclenchée par **l'Executioner** (10 m pendant 3,5 s), pas par un survivant : seed **FAUX**.
+
+#### CONFLICT-B4G3-04 : coût d'une casse de palette pour la Blight quand il a 3 tokens ou moins — UNRESOLVED (partiel)
+- Source A : note 9.6.0 [17] : « reduces Rush tokens down to 2 below maximum and resets current Rush token recharge to 0% ». Page wiki [9] : casse → « sets Blighted Corruption to 3 Power Tokens ». Lecture littérale : à 3 tokens ou moins, aucune perte de token.
+- Source B : note 9.6.2 [19] : « Fixed an issue where The Blight did not lose Tokens when breaking a pallet with 3 or less Tokens ». Le comportement voulu inclut donc une perte à 3 tokens ou moins.
+- Hypothèse : la règle LIVE après 9.6.2 serait une perte (probablement 2 tokens, ou jusqu'à 0) quel que soit le stock, et la description du wiki n'aurait pas été mise à jour. HYPOTHESIS.
+- Résolution : acquis (VERIFIED_PRIMARY) : au max, la casse coûte 2 tokens + la recharge ; à 3 tokens ou moins, elle coûte aussi des tokens. Quantité exacte à bas stock UNRESOLVED. L'hypothèse P14 « 0 token à max − 2 ou moins » est **réfutée**.
+
+#### CONFLICT-B4G3-05 : délai avant les orbes de l'Oni après un décrochage — UNRESOLVED (faible impact)
+- Source A : note 9.5.0 [16] : les survivants qui se décrochent eux-mêmes émettaient des orbes « immediately instead of 10 seconds after the unhook » (correctif).
+- Source B : page wiki [6] : « Unhooked Survivors have a grace period of 15 seconds before they start dropping Blood Orbs ».
+- Hypothèse : valeur wiki alignée sur la période 9.3.0-10.1.0, où les protections de décrochage duraient 15 s, ou délai différent selon le mode de décrochage. HYPOTHESIS.
+- Résolution : UNRESOLVED ; retenir « ~10-15 s sans orbes après un décrochage ».
+
+#### CONFLICT-B4G3-06 : nature du changement Oni au 9.1.0 — RÉSOLU
+- Source A : audit phase 0 [1] et seed [2] : « buffs Oni 9.1.0 ».
+- Source B : note 9.1.0 [13] : limite de rotation de la Demon Strike (phase d'ouverture) portée à 540° « (was disabled) » ; le change log wiki [6] la classe « Nerf : re-added the Turn-Rate limit ». Le buff d'orbes (2 → 5 au crochet) est au 9.2.0 [14].
+- Résolution : 9.1.0 = **nerf** (limite ajoutée) ; buff = 9.2.0. La formulation « buffs Oni 9.1.0 » est **IMPRÉCISE** dans l'audit et le seed.
+
+#### CONFLICT-B4G3-07 : durées d'Undetectable des add-ons du Demogorgon — UNRESOLVED (mineur)
+- Source A : page wiki [5] : Violet Waxcap « +1 second to 6 seconds », Vermilion Webcap « +3 seconds to 8 seconds », Red Moss « +8 seconds to 13 seconds ». Ces totaux supposent une base de 5 s.
+- Source B : note 9.6.0 [17] : base portée à 12 s.
+- Hypothèse : textes wiki non mis à jour ; totaux LIVE probables 13 / 15 / 20 s si les bonus s'additionnent à la base. HYPOTHESIS.
+- Résolution : UNRESOLVED ; retenir « bonus +1 / +3 / +8 s ». Même page : l'infobox indique encore un Shred à 18,4 m/s, contre 19 m/s dans la description du pouvoir et la note officielle → **19 m/s retenu** (RÉSOLU).
 
 ## Écarts avec le guide seed
 
 | Élément | Le guide dit | Vérifié | Verdict |
 |---|---|---|---|
-| Ghost Face accroupi | 4,0 m/s (9.6.1) | 4,0 m/s, 9.6.1 [1] | OK |
-| Ghost Face recharge | 17 → 15 s (9.6.0) | buff 9.6.0 existe, valeur non vue | NON VÉRIFIABLE |
-| Demogorgon Shred | 19 m/s | 19 m/s, 9.6.0 [1] | OK |
-| Demogorgon Undetectable | 12 s (5 s avant 9.6.0) | 12 s [1] ; ancienne valeur non vue | OK (12 s) / NON VÉRIFIABLE (5 s) |
-| Demogorgon | survivants Oblivious près d'un portail actif | — | NON VÉRIFIABLE |
-| Oni | 5 orbes par crochet « depuis le 9.2 » | audit : buffs Oni au 9.1.0, pas au 9.2 | IMPRÉCIS (patch probable 9.1.0) / NON VÉRIFIABLE |
-| Oni | Iron Will réduit les orbes | — | IMPRÉCIS (UNCERTAIN) |
-| Deathslinger | valeurs Redeemer (18 m, 40 m/s, 2,6 s, 2,7 s) | — | NON VÉRIFIABLE |
-| Executioner | Final Judgement « au 2e hameçon » | — | IMPRÉCIS (UNCERTAIN) |
-| Executioner | cage qui se déplace si un survivant s'approche | — | NON VÉRIFIABLE (douteux) |
-| Blight | 4,4 m/s ; casse de palette → tokens | idem [1] | OK |
-| Blight | RT 40 m | connaissance du modèle 32 m (UNCERTAIN) | NON VÉRIFIABLE (CONFLICT-B4G3-01) |
-| Twins | Victor lance des chases « depuis la mi-2025 » | 9.0.0, 17/06/2025 [1] | OK |
-| Twins | tier C vs top kill rate haut MMR | — | NON VÉRIFIABLE (CONFLICT-B4G3-02) |
+| Ghost Face accroupi | 4,0 m/s (9.6.1) | 4,0 m/s, 9.6.1 [18][4] | OK |
+| Ghost Face recharge | 17 → 15 s (9.6.0) | 15 s, 9.6.0 [17][4] | OK |
+| Ghost Face Exposed / portée / reveal | 60 s ; 40 m ; ~1,5 s | Marked 60 s ; stalk 40 m ; reveal 1,5 s à 32 m [4] | OK |
+| Demogorgon Shred | 19 m/s | 19 m/s, 9.6.0 [17][5] | OK |
+| Demogorgon Undetectable | 12 s (5 s avant 9.6.0) | 12 s, 5 s avant [17][5] | OK |
+| Demogorgon virage du Shred | « 55 °/s, doublé au 9.6.0 » | 27,5 → 55 °/s [17] | OK |
+| Demogorgon | survivants Oblivious près d'un portail actif | zone de 4 m, Oblivious permanent [5] | OK |
+| Demogorgon | 6 portails (8 avec Lifeguard Whistle) ; scellement 12 s | 6 ; +2 ; 12 s seul [5] | OK |
+| Oni | 5 orbes par crochet « depuis le 9.2 » | 2 → 5, 9.2.0 [14][6] | OK |
+| Oni | « virage 540° au 9.1 » | 540°, 9.1.0 [13][6] | OK |
+| Oni (et audit) | « buffs 9.1.0 » | 9.1.0 = limite rétablie (nerf) ; buff au 9.2.0 | IMPRÉCIS |
+| Oni | Iron Will réduit les orbes | aucune interaction dans la mécanique des orbes [6] | IMPRÉCIS (probablement faux, UNCERTAIN) |
+| Deathslinger | valeurs du Redeemer (18 m, 40 m/s, 2,6 s, 2,7 s) | idem [7] | OK |
+| Deathslinger | add-on « Gold Belt Buckle » | absent de la liste LIVE [7] | FAUX |
+| Executioner | buffs 9.1.0 (portée ~10 m, tracé, traînées) | 8 → 10 m, 5 → 10 s, 75 → 90 s [13][8] | OK |
+| Executioner | Final Judgement « au 2e hameçon » | Tormented au sol **déjà en 2e phase** [8] | IMPRÉCIS |
+| Executioner | cage qui se déplace si un survivant s'approche | déclenchée par l'Executioner (10 m, 3,5 s) [8][11] | FAUX |
+| Blight | 4,4 m/s ; casse de palette → tokens | idem [17][9] ; + correctif 9.6.2 [19] | OK (à compléter : perte aussi à 3 tokens ou moins) |
+| Blight | RT 40 m | 40 m depuis 8.6.0 [9] | OK (CONFLICT-B4G3-01 résolu) |
+| Blight | fatigue 2,5 s après chaque Rush | 2,5 s [9] | OK |
+| Twins | Victor lance des chases « depuis la mi-2025 » | 9.0.0, 17/06/2025 [12][10] | OK |
+| Twins | Victor 6,0 m/s ; libération 0,75 s « depuis 7.7 » ; retrait 8 s ; écrasement 0,35 s ; rappel 90 s | idem [10] | OK |
+| Twins | tier C vs top kill rate haut MMR | Twins « high MMR mainstays », janv.-mars 2025 [22] ; 2026 non lu | PARTIELLEMENT VÉRIFIÉ (CONFLICT-B4G3-02) |
 
 ## Questions ouvertes
 
-1. Détail des buffs 9.6.0 de Ghost Face (recharge, reveal, Marked) et de Demogorgon (rotation du Shred, portails).
-2. Détail des buffs 9.1.0 de l'Oni et de l'Executioner (orbes, Demon Strike, onde, cages).
-3. Valeurs LIVE : TR de la Blight ; fatigue et vitesse du Rush ; tokens de base.
-4. Redeemer (Deathslinger) : portée, rechargement, stun de chaîne cassée en 10.1.2a.
-5. Twins : timings LIVE (libération, retrait, écrasement, rappel), vitesse de Victor.
-6. Add-ons « qui changent la décision » : aucun des 7 tueurs n'a pu être vérifié (effets 2026).
-7. Le PTB 10.2.0 touche-t-il un de ces tueurs ? (non recherché ; ne pas intégrer comme LIVE).
-8. **Action** : relancer ce lot avec un budget WebSearch disponible (~25-35 recherches).
+1. Blight : nombre exact de tokens perdus sur une casse à 3 tokens ou moins après le correctif 9.6.2 (CONFLICT-B4G3-04). À vérifier en jeu ou sur une future mise à jour de la page wiki.
+2. Oni : délai sans orbes après un décrochage, 10 s ou 15 s (CONFLICT-B4G3-05) ; mécanisme exact de sa casse de palettes (Demon Dash ?) non décrit par la page.
+3. Demogorgon : totaux LIVE d'Undetectable avec Violet Waxcap, Vermilion Webcap et Red Moss (CONFLICT-B4G3-07).
+4. Executioner : portée maximale réelle avec Iridescent Seal of Metatron (base du « +200 % »).
+5. Twins : action restreinte par les rayons de 4 m, 6 m et 16 m (portes, trappe, crochets) ; une mise à terre par Victor déclenche-t-elle Unbreakable (« par le tueur ») ?
+6. Notes officielles 8.x absentes en local : le TR de la Blight (40 m) et celui du Ghost Face (24 m) restent STRONG_SECONDARY faute de note 8.6.0.
+7. Effet de Spine Chill contre Undetectable (Ghost Face, Demogorgon) : non vérifié ; la page des Twins confirme seulement que Spine Chill ne détecte pas Victor. Spine Chill est modifiée au PTB 10.2.0.
+8. Stats BHVR 2026 (infographies de l'article 540) : kill rates des Twins et de la Blight au haut MMR non lisibles en texte.
+9. Rééquilibrages éventuels à la sortie de 10.2.0 : la note PTB [23] ne touche pas ces 7 pouvoirs, mais la note LIVE finale reste à relire.
 
 ## Sources
 
-[1] Rapport d'audit phase 0 (historique des patchs 9.0.0 → 10.1.2a, notes officielles citées) — `kb/seed/audit_phase0.txt` (l. 440-700, 770-800, 2480-2500, 2815-2835) — consulté le 27/09/2026 (fichier local ; **aucune** recherche WebSearch possible : budget de session épuisé).
+[1] Rapport d'audit phase 0 (historique des patchs 9.0.0 → 10.1.2a, notes officielles citées) — `kb/seed/audit_phase0.txt` (l. 440-700, 770-800, 2480-2500, 2815-2835) — consulté le 27/09/2026 (fichier local).
 [2] Guide seed, chapitre 8 (non fiable) — `kb/seed/ch8_killers.txt` l. 1-256 et 845-1093 — consulté le 27/09/2026.
 [3] Registre des contenus obsolètes (Nowhere to Hide 24 m LIVE) — `kb/ledgers/OUTDATED_CONTENT_REPORT.md` l. 28 — consulté le 27/09/2026.
+[4] Danny Johnson alias Jed Olsen (The Ghost Face) — https://deadbydaylight.wiki.gg/wiki/Danny_Johnson_alias_Jed_Olsen — page complète, copie locale `kb/sources/wiki_killers/Danny_Johnson_alias_Jed_Olsen.txt` — consulté le 27/09/2026.
+[5] The Demogorgon — https://deadbydaylight.wiki.gg/wiki/The_Demogorgon — copie locale `kb/sources/wiki_killers/The_Demogorgon.txt` — consulté le 27/09/2026.
+[6] Kazan Yamaoka (The Oni) — https://deadbydaylight.wiki.gg/wiki/Kazan_Yamaoka — copie locale `kb/sources/wiki_killers/Kazan_Yamaoka.txt` — consulté le 27/09/2026.
+[7] Caleb Quinn (The Deathslinger) — https://deadbydaylight.wiki.gg/wiki/Caleb_Quinn — copie locale `kb/sources/wiki_killers/Caleb_Quinn.txt` — consulté le 27/09/2026.
+[8] Pyramid Head (The Executioner) — https://deadbydaylight.wiki.gg/wiki/Pyramid_Head — copie locale `kb/sources/wiki_killers/Pyramid_Head.txt` — consulté le 27/09/2026.
+[9] Talbot Grimes (The Blight) — https://deadbydaylight.wiki.gg/wiki/Talbot_Grimes — copie locale `kb/sources/wiki_killers/Talbot_Grimes.txt` — consulté le 27/09/2026.
+[10] Charlotte & Victor Deshayes (The Twins) — https://deadbydaylight.wiki.gg/wiki/Charlotte_&_Victor_Deshayes — copie locale `kb/sources/wiki_killers/Charlotte_Victor_Deshayes.txt` — consulté le 27/09/2026.
+[11] Cages (Cages of Atonement) — https://deadbydaylight.wiki.gg/wiki/Cages_of_Atonement — lu via `kb/tools/wiki_text.py` (API wiki.gg) — consulté le 27/09/2026.
+[12] 9.0.0 | Five Nights at Freddy's (notes officielles) — https://forums.bhvr.com/dead-by-daylight/kb/articles/510 — copie locale `kb/sources/patches/official_510.txt` — consulté le 27/09/2026.
+[13] 9.1.0 | The Walking Dead — https://forums.bhvr.com/dead-by-daylight/kb/articles/516 — `official_516.txt` — consulté le 27/09/2026.
+[14] 9.2.0 | Sinister Grace — https://forums.bhvr.com/dead-by-daylight/kb/articles/523 — `official_523.txt` — consulté le 27/09/2026.
+[15] 9.2.3 | Bugfix Patch — https://forums.bhvr.com/dead-by-daylight/kb/articles/526 — `official_526.txt` — consulté le 27/09/2026.
+[16] 9.5.0 | All-Kill: Comeback — https://forums.bhvr.com/dead-by-daylight/kb/articles/538 — `official_538.txt` — consulté le 27/09/2026.
+[17] 9.6.0 | Patch Notes — https://forums.bhvr.com/dead-by-daylight/kb/articles/544 — `official_544.txt` — consulté le 27/09/2026.
+[18] 9.6.1 | Bugfix Patch — https://forums.bhvr.com/dead-by-daylight/kb/articles/545 — `official_545.txt` — consulté le 27/09/2026.
+[19] 9.6.2 | Bugfix Patch — https://forums.bhvr.com/dead-by-daylight/kb/articles/546 — `official_546.txt` — consulté le 27/09/2026.
+[20] 10.1.0 | Chorus of Sin — https://forums.bhvr.com/dead-by-daylight/kb/articles/556 — `official_556.txt` — consulté le 27/09/2026.
+[21] 10.1.2 Bugfix Patch (section « Game Mode: 2v8 ») — https://forums.bhvr.com/dead-by-daylight/kb/articles/558 — `official_558.txt` — consulté le 27/09/2026.
+[22] Stats | January - March 2025 — https://forums.bhvr.com/dead-by-daylight/kb/articles/503 — `official_503.txt` — consulté le 27/09/2026.
+[23] 10.2.0 PTB Patch Notes (**non LIVE**) — https://forums.bhvr.com/dead-by-daylight/kb/articles/559 — `official_559.txt` — consulté le 27/09/2026.
+[24] Developer Update | August 2025 (orbes de l'Oni au crochet) — https://forums.bhvr.com/dead-by-daylight/kb/articles/521 — `official_521.txt` — consulté le 27/09/2026.
+[25] 9.1.3 | Bugfix Patch — https://forums.bhvr.com/dead-by-daylight/kb/articles/520 — `official_520.txt` — consulté le 27/09/2026.
+[26] 9.1.2 | Bugfix Patch (Punishment of the Damned à travers les murs) — https://forums.bhvr.com/dead-by-daylight/kb/articles/519 — `official_519.txt` — consulté le 27/09/2026.

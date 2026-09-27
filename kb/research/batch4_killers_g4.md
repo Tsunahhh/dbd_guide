@@ -12,7 +12,7 @@
 - Conventions de valeur :
   - **VERIFIED_PRIMARY** = note officielle explicite ; **VERIFIED_MULTI_SOURCE** = wiki complet + note officielle ; **STRONG_SECONDARY** = page wiki complète seule.
   - « seed, UNCERTAIN » = valeur absente des pages lues.
-  - Les valeurs entre crochets [WIKI], [OFF], [SEED] rappellent la source.
+  - Les numéros entre crochets renvoient à la liste « Sources » ; [AUDIT] = valeur reprise de l'audit phase 0 [2].
 - Conseils : **HEURISTIC** = analyse de l'agent, non sourcée ; **EXPERT OPINION** n'est utilisé nulle part car aucun guide expert n'a pu être lu ; **SITUATIONAL** = dépend du contexte indiqué ; **FACT** = mécanique lue sur la page wiki / note officielle.
 - Abréviations : TR = terror radius ; LOS = ligne de vue ; gen = générateur.
 
@@ -515,6 +515,6 @@ Questions 1-9 de la version précédente : **résolues** par le lot 12b (valeurs
 [18] 9.5.1 | Bugfix Patch — https://forums.bhvr.com/dead-by-daylight/kb/articles/539 — consulté le 27/09/2026.
 [19] 9.5.2 | Bugfix Patch — https://forums.bhvr.com/dead-by-daylight/kb/articles/541 — consulté le 27/09/2026.
 [20] 9.6.0 | Patch Notes — https://forums.bhvr.com/dead-by-daylight/kb/articles/544 — consulté le 27/09/2026.
-[21] 10.1.0 — https://forums.bhvr.com/dead-by-daylight/kb/articles/556 — consulté le 27/09/2026.
+[21] 10.1.0 | Chorus of Sin — https://forums.bhvr.com/dead-by-daylight/kb/articles/556 — consulté le 27/09/2026.
 [22] 10.1.1 | Bugfix Patch — https://forums.bhvr.com/dead-by-daylight/kb/articles/557 — consulté le 27/09/2026.
-[23] PTB 10.2.0 (**non LIVE**) — https://forums.bhvr.com/dead-by-daylight/kb/articles/559 — consulté le 27/09/2026 ; sert à repérer les textes PTB affichés par le wiki et à lire les valeurs LIVE (« was ») des perks modifiées.
+[23] 10.2.0 PTB Patch Notes (**non LIVE**) — https://forums.bhvr.com/dead-by-daylight/kb/articles/559 — consulté le 27/09/2026 ; sert à repérer les textes PTB affichés par le wiki et à lire les valeurs LIVE (« was ») des perks modifiées.
