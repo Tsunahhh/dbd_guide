@@ -115,7 +115,7 @@ Les lignes marquées **(déjà A)** figurent en partie A ; elles sont reconfirm�
 
 Reconfirmés par les lots mais comptés en partie A seulement : offrandes de royaume cumulables (A-190, lot 5), kill rates par carte à 3 fenêtres mélangées (A2, lot 8), « 1 s de chase ≈ 1/3 de gen » (A-267), proxy camp et anti-camp (A-283), protections inactives portes alimentées (A-074) (lot 9).
 
-**Décompte B1 : 49 erreurs prouvées, dont 5 déjà en partie A (n° 1, 9, 11, 41 et, pour mémoire, les 5 lignes ci-dessus hors tableau) → 44 nouvelles.** S'y ajoutent les 7 PTB-comme-LIVE nouveaux de B4.
+**Décompte B1 : 49 erreurs prouvées, dont 4 déjà en partie A (n° 1, 9, 11, 41) → 45 nouvelles.** S'y ajoutent les 7 PTB-comme-LIVE nouveaux de B4 (hors Nowhere to Hide) et les 2 cas 2v8 nouveaux de B5.
 
 ### B2. Imprécisions à impact (valeur non fausse, mais conseil erroné si appliqué à la lettre)
 

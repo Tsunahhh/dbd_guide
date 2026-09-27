@@ -201,6 +201,7 @@ Botany III seule : 16 s / 1,5 = 10,7 s ; We'll Make It seule : 8 s
 Détail : chapitre 2, section Diminishing Returns ; note officielle 9.6.0 (544).
 
 ---
+
 ## 9.3 Analyse par catégorie `[Intermédiaire → Expert]`
 
 Chaque catégorie suit le même plan : **à quoi elle sert** (en secondes), un **tableau des perks importantes** (effet LIVE, confiance, conditions, synergies et anti-synergies), puis **comment la jouer** et **les erreurs fréquentes**. Les perks mineures de chaque famille figurent seulement dans l'inventaire (9.7). Les colonnes « Quand / contre quoi » et « Synergies » sont **[HEURISTIQUE]** (avis des fiches), les effets et valeurs sont **[FACT]** avec leur confiance.
