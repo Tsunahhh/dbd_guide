@@ -442,3 +442,332 @@ Détail : `kb/deliverables/PERK_DEDUCTION.md` §2.
 Détail : `kb/deliverables/PERK_DEDUCTION.md` §3.
 
 ---
+
+## 10.6 Combos fréquents et comment les casser `[Avancé]`
+
+> Seuls les combos **cités par les fiches** figurent ici. Leur fréquence **n'est pas mesurée** (pas de données NightLight) : « fréquent » veut dire cité par le guide d'origine ou la communauté, pas une statistique.
+
+| Combo | Ce qu'on voit | Comment le casser | Nature |
+|---|---|---|---|
+| **Pain Resonance + Dead Man's Switch** | Au 1er hook : cri + explosion, puis le gen **lâché à cause du cri** se bloque 25/30/35 s | Après le cri, **reprendre tout de suite** (5 %) ou changer de gen, sans stop-and-go ; 1er lâcher sur un gen peu avancé | Combo communautaire ; la note PTB 10.2.0 de DMS vise explicitement ces combos (PTB — non LIVE) |
+| **Pain Resonance + Grim Embrace** (Artist) | Explosion au hook, puis blocage global quand le tueur s'éloigne | Pas de gen très avancé isolé au 1er hook ; utiliser les blocages courts pour se déplacer ou sauver ; tenir les chases (pas 4 premiers hooks rapides). Un gen bloqué ne subit aucune perte instantanée [FACT] | [HEURISTIQUE] |
+| **Thrilling Tremors + Secret Project** | Au pickup : gens libres bloqués **et** TR disparu 30 s | 1-2 réparateurs actifs pendant la chase ; 30 s de prudence après le pickup | Attesté par un correctif 9.5.0 (VM) |
+| **Kicks + régression** (Pop, Eruption, Call of Brine) **+ Surveillance** | Beaucoup de kicks, retour pile quand on reprend un gen kické | Reprendre **puis bouger** (leurre) ; en SWF, un seul reprend ; finir d'abord les gens non kickés | [HEURISTIQUE] |
+| **Hex: Ruin + Hex: Undying** | Ruin purifiée, les gens reculent encore | Purifier **tous** les totems allumés ; plus tard, Undying en premier | [HEURISTIQUE] |
+| **Empilement de régressions** (Ruin + Call of Brine + Overcharge + Lay Waste) | Gens qui fondent de plusieurs façons | Réparer 5 % stoppe **toute** régression [FACT] ; finir les gens. Les Diminishing Returns 9.6.0 réduisent **peut-être** l'empilement | Rendement : **[HYPOTHÈSE]** (catégories DR non publiées) |
+| **Lethal Pursuer + auras** (BBQ, Nurse's Calling…) | Ruée au spawn ; auras de 2 s plus longues | Bouger juste après chaque fenêtre d'aura ; spawn près d'une structure forte | [HEURISTIQUE] |
+| **Franklin's Demise + Weave Attunement** | Objets au sol partout ; aura d'objet visible ; Oblivious au ramassage | **Ignorer** les objets au sol ; utiliser son objet avant la chase | [HEURISTIQUE] |
+| **Enduring + Spirit Fury** (± Brutal Strength) | Stun très court, puis palette qui explose au stun | Compter les palettes cassées ; drop pour bloquer, transition immédiate ; avec Brutal Strength, préférer fenêtres et enchaînement de tiles | [HEURISTIQUE] |
+| **Perks de vault** (Bamboozle, Crowd Control, Cruel Limits, Superior Anatomy, Dark Arrogance) | Fenêtres bloquées, vaults du tueur accélérés | Jouer les **palettes** et les loops sans fenêtre ; anticiper la tile suivante | [HEURISTIQUE] |
+| **Terminus + NOED / No Way Out** | Broken + Exposed à l'alimentation ; interrupteurs bloqués | Se soigner avant la dernière gen ; ternes purifiés en passant pendant la partie ; toucher l'interrupteur puis s'éloigner | [HEURISTIQUE] |
+| **Undying / Thrill of the Hunt + autre Hex** | Effet qui survit à la purification ; purification lente | Purifier tous les totems allumés ; Thrill : commencer par des ternes (moins de jetons) | [HEURISTIQUE] |
+| **Pentimento + Thrill of the Hunt / Shattered Hope** | Totems rallumés ; Boon détruit puis réutilisé | Re-purifier aussitôt ; limiter les ternes ; Boon en zone morte, prévoir un 2e emplacement | [HEURISTIQUE] |
+| **Retribution + autre Hex** | Purifier l'autre Hex rend Oblivious **et** révèle toute l'équipe 20 s | Purifier quand le tueur est en chase loin et que personne n'est blessé en zone morte | [HEURISTIQUE] |
+
+> **À retenir** : un combo se casse presque toujours au **point de jonction**. Pain Res + DMS se casse en ne lâchant pas le gen après le cri ; Thrilling Tremors + Secret Project en gardant des gens **en cours** au pickup ; Ruin + Undying en purifiant le bon totem.
+
+Détail : `kb/deliverables/PERK_DEDUCTION.md` §4.
+
+---
+
+## 10.7 Comportements robustes par défaut (on ne sait rien) `[Intermédiaire]`
+
+> **[AVIS D'EXPERT]** : ce sont des **options par défaut**, pas des règles. Le coût n'est **pas mesuré**. Plusieurs réflexes se contredisent (1 survivant par gen contre builds de réparation groupée ; ne pas suivre une chase contre saves SWF) : on les abandonne dès qu'un signal écarte la perk visée. Appliqués tous à la fois, ils rendent le jeu très passif, ce qu'un tueur **sans** ces perks exploite. En **SoloQ**, les réflexes qui supposent une coordination ne s'appliquent que sur signal visible.
+
+| # | Réflexe par défaut | Neutralise ou atténue | Coût si la perk est absente |
+|---|---|---|---|
+| 1 | **Pas de gen très avancé isolé** à un hook ou une pop ; finir les gens entamés | Pain Res, Pop, No Holds Barred, Jagged Compass, Lay Waste, DMS, Ruin, Merciless Storm | Faible : c'est l'économie de base |
+| 2 | **1 survivant par gen** hors sprint final | Discordance ; pénalité coop (−15 % par réparateur en plus, SS) | Positif en débit (2 charges/s contre 1,7 pour un duo), mais un gen reste exposé 90 s seul contre ~52,9 s à deux (calcul). Contre Pop, Pain Res ou un 3-gen, finir **un** gen vite peut valoir plus |
+| 3 | **Réparer 5 %** pour stopper une régression, jamais « tapoter » | Toutes les régressions | Aucun [FACT] (VM) |
+| 4 | Après un hook, **lâcher d'abord un gen peu avancé** | DMS | Nul |
+| 5 | **1-2 réparateurs actifs** quand une chase va finir en down | Thrilling Tremors (+ Secret Project) | Nul |
+| 6 | **Éloigner les chases des gens** ; lâcher les gens kickés **si Eruption est plausible** | Eruption, Surge, Batteries Included | Moyen : un gen kické lâché perd ~0,28 %/s (calcul) |
+| 7 | **Soigner hors TR, loin du tueur, en une fois**, puis se séparer | Nurse's Calling, Coulrophobia, Septic Touch, Unnerving, Lullaby, Deathbound, Sloppy, No Quarter | Faible : quelques secondes de trajet |
+| 8 | **Se soigner avant la dernière gen** ; dernier gen sain, groupé, près des portes | Terminus, NOED, None Are Free, Rancor, Bitter Murmur | Moyen : tempo ; inutile au porteur d'Adrenaline |
+| 9 | **Totems** : ternes purifiés **en passant** (anti-NOED) sauf si Pentimento, Retribution ou Secret Project sont suspectés ; **Hex** purifié ou béni quand le tueur est en chase loin | NOED, Hex ; évite Haunted Ground, Retribution, Pentimento, Secret Project | Faible si fait en passant. Les fiches se contredisent en partie : arbitrage, pas règle |
+| 10 | **Exposed = un coup et à terre** : aucun risque tant que l'icône est là | NOED, MYC, FTTE, Starstruck, Dragon's Grip, Hubris, Iron Maiden, Ravenous, Devour, Haunted Ground, Rancor | Nul. L'Endurance transforme ce coup en Deep Wound [FACT] (SS) |
+| 11 | **« Pas de cœur ≠ tueur parti » et « un cœur ≠ le tueur est là »** | Insidious, Silent Shadow, Furtive Chase, Beast of Prey, Tinkerer, Machine Learning, Trail of Torment, M&A ; TR transférés | Faible à moyen : la vérification coûte du temps au crochet |
+| 12 | **Bouger après chaque événement révélateur** (hook, pop, fin de chase, cri, drop, kick proche) | BBQ, Floods, Predator, Zanshin, Nowhere to Hide, Bitter Murmur, Rancor, THWACK!, Infectious Fright, Deerstalker, Celestial Witness, Eruption | Faible. Aucune icône ne signale une aura lue |
+| 13 | **Ne pas suivre une chase de près** ; saves préparés avant le pickup | Infectious Fright, Forced Hesitation, Starstruck, Mad Grit, Agitation, Wandering Eye | Moyen. Sans signal, le suivi préparé (SWF) reste légitime |
+| 14 | **Lire le HUD après chaque événement tueur** | Toutes les perks à statut | Nul |
+| 15 | **Pas d'objet sorti ni ramassé près du tueur** | Overwhelming Presence, Franklin's, Weave Attunement, Hoarder, Human Greed | Faible |
+| 16 | **Ne pas miser la chase sur le stun** ; drop pour bloquer, compter les palettes cassées | Enduring, Spirit Fury, Rampage | Moyen. **Pas** contre Brutal Strength / Fire Up (préférer fenêtres) ; sous Knock Out la transition coûte Hindered 5 % 3/4/5 s |
+| 17 | **Interrupteur touché puis on s'éloigne** ; sortir **avant** un hook | No Way Out, Blood Warden, Haywire | Faible |
+| 18 | **Connaître le basekit du crochet** (anti-camp < 16 m ; protections 10 s) | Make Your Choice, Insidious | Aucun [FACT] |
+
+> **Erreur fréquente** : appliquer les 18 réflexes en même temps dès le spawn. Commencez par les réflexes **à coût nul** (3, 4, 5, 10, 14, 18), puis ajoutez les autres **quand un signal les justifie**.
+
+Détail : `kb/deliverables/PERK_DEDUCTION.md` §5.
+
+---
+
+## 10.8 Drills de déduction `[Intermédiaire]` `[Avancé]`
+
+> **[AVIS D'EXPERT]** : les seuils de réussite sont des **objectifs proposés, non mesurés** (aucune donnée joueur, aucune VOD). La vérité de référence est **l'écran de fin**, qui révèle le loadout [FACT] (VP).
+
+| Drill | Méthode | Métrique | Erreur typique | Objectif proposé |
+|---|---|---|---|---|
+| **1. Journal hypothèse → écran de fin** | Noter 3 fois par partie (après le 1er hook, à 2 gens, aux portes) les perks soupçonnées, le signal et un niveau (plausible / quasi certain) ; comparer à l'écran de fin | Précision des « quasi certain » ; rappel des perks à signal visible | Noter après coup ; conclure sur un seul événement | Précision ≥ 80 % sur 20 parties |
+| **2. Balayage du HUD** | À chaque coup, down, pickup, hook, stun, pop, purification et aux portes : ses icônes **et** les portraits des coéquipiers dans les 2 s | Événements balayés / survenus | Ne regarder que sa barre ; confondre pouvoir et perk | ≥ 9 sur 10 |
+| **3. Compteurs de jetons** | Tenir le compte : **survivants différents accrochés** (Pain Res, NWO, Grim Embrace, Ravenous, None Are Free, Scared to Death) ; **gens terminés** (Coup de Grâce, Fire Up, Hive Mind) ; **stuns/blinds** (Two Can Play) ; **coups de base** (Nothing but Misery) ; **palettes cassées** (Spirit Fury, Rampage) | Écart compte / réalité à chaque hook | Compter les hooks au lieu des survivants **différents** | Compte exact sur 10 parties |
+| **4. Registre des totems** | État des 5 totems (terne, allumé, purifié, béni, rallumé) et événement qui a précédé chaque allumage | Totems localisés à 2 gens restants | Purifier sans avoir écarté Haunted Ground | Chaque Hex relié à un effet ou un déclencheur avant purification |
+| **5. Test de la barre de gen** | Revenir sur un gen lâché sans kick (Ruin ?) ; mesurer la chute au kick (~5 % base, ~20 % Pop) ; dater chaque explosion (hook, down avec ou sans cri, 4e gen, pickup) | Déclencheur juste pour chaque perte | Oublier qu'un skill check raté fait **toujours** régresser | 10 parties avec slowdown identifiées |
+| **6. Distance de soin** | Soigner une fois hors TR à plus de 32 m, comparer avec un soin dans le TR si c'est sûr | Soins interrompus selon la distance | Tester près du crochet | 0 interruption au-delà de 32 m sur 10 soins |
+| **7. Le silence est piégé** | À chaque TR disparu ou fixe (crochet, gen, chase) : énoncer la cause candidate, vérifier visuellement **avant** d'agir | Décrochages sans vérification | Décrocher « parce qu'il n'y a pas de cœur » | 0 sur 10 parties |
+| **8. Checklist des portes** | Dérouler la checklist du §10.5 D | Checklist faite avant la 1re décision d'endgame | Courir à la porte la plus proche | ≥ 9 endgames sur 10 |
+
+> **Exercice** `[Débutant]` : pendant 5 parties, ne faites **que** le drill 2 (HUD). C'est la base de toute déduction : les autres drills en dépendent.
+
+Détail : `kb/deliverables/PERK_DEDUCTION.md` §6.
+
+---
+
+## 10.9 PTB 10.2.0 et limites de ce chapitre `[Avancé]`
+
+### Ce que le PTB 10.2.0 changerait (PTB 10.2.0 — non LIVE)
+
+- La note officielle 559 modifie **58 perks** au total, dont **27 perks tueur** de ce chapitre [FACT] (VM). Elles sont repérées **« PTB »** dans l'inventaire (§10.10). Les 118 autres ne sont pas modifiées au PTB.
+- **Signaux qui changeraient de nature** (ne pas s'en servir avant la sortie LIVE) : Knock Out (10 m, Hindered 20 %), Insidious (persistance 6/7/8 s après avoir bougé), Distressing (réparation −6/7/8 % dans le TR), Dominance (cri + aura du survivant, totems seulement), Shattered Hope (blocage des totems), Blood Favour (attaque de base seulement), Thrill of the Hunt (blocage des totems à chaque hook), Monstrous Shrine (régression des gens), Machine Learning et Help Wanted (3 gens compromis), Undone (jetons aux crochets), Nothing but Misery (4 coups), Ravenous (Haste en portant, Exposed 80/85/90 s), DMS (arrêt de plus de 2 s).
+- **Piège de source** [FACT] : pour Dissolution, Distressing, Hex: Nothing but Misery et Shattered Hope, la page wiki affichait déjà le texte PTB comme courant ; la valeur LIVE de ce chapitre a été **reconstruite** depuis les lignes « was … » de la note 559.
+- À la sortie LIVE de 10.2.0 (date non officielle), les **mécanismes** de déduction resteront en grande partie valables, pas les chiffres.
+
+### Détails encore incertains (ne pas fonder une décision fine dessus)
+
+| Sujet | Point ouvert |
+|---|---|
+| Pain Resonance | Repli sur un autre gen si le plus avancé est au plafond ou bloqué **[INCERTAIN]** |
+| Thrilling Tremors | Pause de la régression pendant le blocage **[INCERTAIN]** |
+| Enduring | Clause « pas sur les stuns de perks » **[INCERTAIN]** |
+| Hex: Undying | Transfert d'un Hex **béni** (probablement non, [HYPOTHÈSE]) |
+| Overcharge, Lay Waste, Undone | Condition de la perte de 2/3/4 % ; sens de « Charge » ; jetons et recharge LIVE d'Undone **[INCERTAIN]** |
+| Distressing | Palier 2 : 25 % (wiki) ou 23 % (note 559) **[INCERTAIN]** |
+| Batteries Included | Désactivation aux portes **[INCERTAIN]** |
+| None Are Free | Le tueur franchit-il les ressources bloquées ? **[INCERTAIN]** |
+| Transverse | Visibilité des crochets Fléau côté survivant ; rendu d'un gen bloqué ; Distortion ; Calm Spirit contre les cris ; catégories des Diminishing Returns **[INCERTAIN]** |
+| Périmètre | Les 145 perks n'ont **pas** été comparées à la liste officielle LIVE : un lien « Signature » peut ignorer une perk hors périmètre |
+
+Détail : `kb/deliverables/PERK_DEDUCTION.md` §7.
+
+---
+
+## 10.10 Inventaire compact des 145 perks tueur `[Intermédiaire]`
+
+> **Comment lire** : une perk = une ligne, rangée dans **sa catégorie principale** (une Hex ou une Scourge Hook reste dans sa famille même si elle ralentit ou informe). **Effet LIVE court** = valeurs **LIVE 10.1.2a**, tiers 1/2/3. **Indice** et **Réponse** sont **[HEURISTIQUE]**. **Conf.** = confiance de l'**effet** : **VP** note officielle, **VM** wiki complet + note, **SS** wiki complet seul, **INC** détail incertain. **PTB 10.2.0** : « — » = non modifiée ; sinon la valeur **PTB 10.2.0 — non LIVE**, à ne jamais utiliser en partie aujourd'hui.
+
+| Catégorie | Perks | dont PTB 10.2.0 |
+|---|---|---|
+| Slowdown | 19 | 2 |
+| Info / aura | 31 | 4 |
+| Chase | 25 | 9 |
+| Anti-soin | 8 | 0 |
+| Endgame | 8 | 1 |
+| Stealth | 10 | 2 |
+| Hex | 21 | 3 |
+| Scourge | 6 | 1 |
+| Autre (portage, objets, casiers, Exposed ciblé, TR) | 17 | 5 |
+| **Total** | **145** | **27** |
+
+### Slowdown (19)
+
+| Perk | Tueur | Effet LIVE court | Indice observable | Réponse robuste | Conf. | PTB 10.2.0 |
+|---|---|---|---|---|---|---|
+| Pop Goes the Weasel | Clown | 35/40/45 s après un hook, le prochain kick retire 20 % au total | Chute ~20 % au kick post-hook | Finir le gen ou revenir réparer 5 % | VM | — |
+| Corrupt Intervention | Plague | 3 gens les plus loin du tueur bloqués 80/100/120 s ; levé au 1er mourant | 3 gens bloqués au spawn | Tenir la 1re chase | SS | — |
+| Grim Embrace | Artist | 1er hook de chaque survivant, tueur à ≥ 16 m : tous les gens bloqués 6/8/10 s ; 4e : 40 s + aura de l'Obsession 6 s | Blocage global après un hook | Se déplacer ou sauver pendant le blocage | SS | — |
+| Dead Man's Switch | Deathslinger | Après un hook, 1er gen lâché bloqué 25/30/35 s ; recharge 50 s | Gen bloqué au lâcher | 1er lâcher sur un gen peu avancé | VM (recharge VP) | Arrêt > 2 s ; 30/35/40 s ; recharge 30/35/40 s |
+| Eruption | Nemesis | Au down : gens kickés −10 % ; réparateurs crient, aura 8/10/12 s ; recharge 30 s | Cri + recul d'un gen kické | Chases loin des gens kickés | VM | — |
+| Surge | Demogorgon | Down au coup de base : gens à ≤ 32 m du tueur −6/7/8 % ; pas de cri | Recul des gens proches, sans cri | Chases loin des gens | SS | — |
+| No Holds Barred | Générale (ex-Deadlock) | À chaque gen terminé, le plus avancé bloqué 15/20/25 s | Blocage à la pop d'un autre gen | Pas de 2e gen très avancé | SS | — |
+| Turn Back the Clock | The First | 40/50/60 s après un hook, pouvoir sur un gen à ≤ 20 m : −10 % | Explosion sans kick, tueur proche | Pas de gen près du tueur après un hook | VM | — |
+| Thanatophobia | Nurse | Réparation, purification, sabotage −1/1,5/2 % par survivant blessé, au sol ou accroché (max 4/6/8 % ; 16/18/20 % si les 4) ; pas les soins | Réparation lente quand beaucoup sont blessés | Soigner les blessés | SS | — |
+| Call of Brine | Onryō | Gen kické : 90 s de régression à 130/140/150 % ; Loud Noise Notification à chaque Good | Tueur qui revient après un Good | Viser des Great | VM | — |
+| Overcharge | Doctor | Après un kick : régression 85 → 130 % en 30 s ; skill check difficile au suivant ; −2/3/4 % | Skill check immédiat et difficile | S'y préparer ; réparer 5 % | SS (perte INC) | — |
+| Oppression | Twins | Kick : jusqu'à 4 autres gens régressent + skill check difficile ; recharge 45/40/35 s | Plusieurs gens reculent sans kick | Réparer 5 % sur les gens touchés | VM | — |
+| Lay Waste | Judgment | Kick : régression +2 % par « Charge » du gen ; recharge 55/50/45 s | Aucun direct | Pas de gen très avancé sans surveillance | VM (« Charge » INC) | — |
+| Thrilling Tremors | Ghost Face | Au pickup, gens non réparés bloqués 16 s ; recharge 40/35/30 s | Gens libres bloqués au pickup | 1-2 réparateurs actifs | VM | — |
+| Secret Project | The First | Totem purifié ou béni : gen aléatoire bloqué 20/25/30 s ; tout blocage de gen : Undetectable 30 s | Blocage après purification, TR disparu | Limiter les purifications ; 30 s de prudence | VM | — |
+| Merciless Storm | Onryō | À 90 % : skill checks continus ; raté ou arrêt : gen bloqué 16/18/20 s ; une fois par gen | Rafale de skill checks à 90 % | Ne pas lâcher, viser juste | SS | — |
+| Unnerving Presence | Trapper | Dans le TR, réparer ou soigner : +10 % de skill checks, zone −40/50/60 % | Zones plus petites dans le TR | Réparer et soigner hors TR | SS | — |
+| Cull the Weak | Générale (ex-Dying Light) | +1 jeton par hook d'un non-Obsession : −2/2,5/3 % réparation, soin, sabotage (max 22/27,5/33 %) ; Obsession +33 % en décrochage et soin | Ralentissement au fil des hooks, Obsession épargnée | L'Obsession sauve et soigne | SS | — |
+| Undone | Unknown | Jetons sur skill checks ratés ; kick : −1 % et 1 s de blocage par jeton ; recharge | Gen bloqué + perte au kick après des ratés | Ne pas rater de skill checks | SS (jetons INC) | Rework : jetons aux hooks (max 3) ; −8/9/10 % et blocage 8/9/10 s par jeton ; contenu exact **[INCERTAIN]** |
+
+### Info / aura (31)
+
+| Perk | Tueur | Effet LIVE court | Indice observable | Réponse robuste | Conf. | PTB 10.2.0 |
+|---|---|---|---|---|---|---|
+| Lethal Pursuer | Nemesis | Au début, auras de tous 7/8/9 s ; auras de survivants +2 s | Ruée au spawn | Spawn près d'une structure forte | SS | — |
+| Nowhere to Hide | Knight | Kick : auras à ≤ 24 m **du gen** 3/4/5 s | Tueur se tourne vers les cachés | S'éloigner à > 24 m | VM | — |
+| Barbecue & Chilli | Cannibal | Après un hook : auras à ≥ 60/50/40 m du crochet 5 s | Tueur droit sur vous après un hook | Bouger derrière un obstacle | SS | — |
+| A Nurse's Calling | Nurse | Auras de ceux qui soignent ou sont soignés à ≤ 28/30/32 m | Tueur sur les soins sans ligne de vue | Soigner à > 32 m | VM | — |
+| Celestial Witness | Judgment | Toutes les 30 s : Obsession à ≥ 40 m vue 2/2,5/3 s ; sinon le plus éloigné devient l'Obsession | Obsession qui change | L'Obsession bouge toutes les 30 s | VM | — |
+| Discordance | Legion | Gen à ≤ 64/96/128 m avec ≥ 2 réparateurs surligné ; persiste 4 s | Tueur sur les duos | 1 survivant par gen | SS | — |
+| Darkness Revealed | Dredge | Fouille de casier : survivants à ≤ 8 m de **tout** casier 6/7/8 s ; recharge 30 s | Fouille puis cible près d'un casier | Pas de cachette près des casiers | SS | — |
+| Ultimate Weapon | Xenomorph | Fouille de casier : survivants à ≤ 40 m du casier crient + Blindness 30 s ; recharge 55/50/45 s | Cri + Blindness | Bouger après le cri | VM | — |
+| Friends 'til the End | Good Guy | Hook d'un non-Obsession : Obsession vue 6/8/10 s + Exposed 20 s ; hook de l'Obsession : un autre crie et devient l'Obsession | Obsession Exposed au hook d'un autre | L'Obsession se cache ~20 s | SS | — |
+| Gearhead | Deathslinger | 30 s après une perte de santé, un Good en réparation révèle 6/7/8 s | Tueur pile après un Good | Viser des Great | SS | — |
+| I'm All Ears | Ghost Face | Saut rapide à ≤ 48 m : aura 8 s ; recharge 60/45/30 s | Tueur coupe après un saut rapide | Vault lent hors contact | SS | — |
+| Nemesis | Oni | Blind ou stun (palette, casier) → Obsession ; à tout changement d'Obsession : Oblivious 40/50/60 s + aura 8 s | Oblivious en devenant l'Obsession | Distance après un stun | SS | — |
+| Deerstalker | Générale | Lire l'aura du tueur révèle la vôtre ; toutes les 40/35/30 s, le moins chassé voit le tueur 3 s | Aura du tueur sans perk | Bouger après chaque apparition | VM | Aura 4 s |
+| Infectious Fright | Plague | Down : survivants dans le TR crient, position 4/5/6 s | Cri au down d'un coéquipier | Rester hors TR des chases | SS | — |
+| Whispers | Générale | Murmures si un survivant est à ≤ 48/40/32 m | Aucun direct | Quitter la zone plutôt que se cacher | VM | 28/26/24 m ; +5 % Haste si personne dans le rayon |
+| Territorial Imperative | Huntress | Entrée au sous-sol, tueur à > 24 m : aura 4/5/6 s ; recharge 45 s | Tueur au sous-sol de loin | Sous-sol pour décrocher seulement | SS | — |
+| Predator | Wraith | Survivant qui sème le tueur : aura 4 s ; recharge 60/50/40 s | Retour 2-5 s après l'avoir semé | Bouger ~4 s, changer d'axe | SS | — |
+| Zanshin Tactics | Oni | Auras des palettes et fenêtres à 32 m ; drop de palette : aura 3/4/5 s | Retour juste après un drop | Changer d'axe après un drop | SS | — |
+| Alien Instinct | Xenomorph | Hook : blessé le plus éloigné vu 8 s + Oblivious 40/50/60 s | Oblivious au hook d'un autre | Se soigner, bouger | SS | — |
+| Hysteria | Nemesis | Sain blessé : tous les blessés Oblivious 30/35/40 s ; recharge 20 s | Oblivious chez tous les blessés | Ne pas se fier au TR | SS | — |
+| Surveillance | Pig | Gens kickés en blanc, jaunes 8/12/16 s quand un survivant stoppe la régression ; réparation audible +8 m | Retour rapide sur un gen repris | Reprendre puis bouger | SS | — |
+| Phantom Fear | Animatronic | Dans le TR, regarder le tueur : cri + aura 2 s ; recharge 80/70/60 s | Cri en regardant le tueur | Ne pas fixer le tueur depuis une cachette | VM | — |
+| Bloodhound | Wraith | Flaques de sang rouge vif, +2/3/4 s | Aucun direct | Blessé : se soigner vite | SS | — |
+| Stridor | Nurse | Grognements +30/40/50 %, respiration +15/20/25 % | Aucun direct | Blessé : ne pas se cacher près du tueur | SS | — |
+| Awakened Awareness | Mastermind | En portant : auras à ≤ 16/18/20 m | Déviation vers les cachés | Rester loin du porteur | SS | — |
+| THWACK! | Skull Merchant | 3 jetons + 1 par hook ; casse : survivants à ≤ 36 m crient + aura 4/5/6 s | Cri à la casse d'une palette | Bouger après le cri | VM | — |
+| Spies from the Shadows | Générale | Corbeau à ≤ 20/28/36 m : Loud Noise Notification ; recharge 5 s | Tueur après un envol de corbeaux | Contourner les corbeaux | VM | 36/38/40 m ; recharge 3 s |
+| Wandering Eye | Krasue | Début de chase : blessés à ≤ 20 m vus 5 s ; recharge 40/35/30 s | Cible un blessé proche après une chase | Blessés loin des chases | VM | — |
+| Human Greed | Dark Lord | Referme les coffres ; aura des coffres fermés ; survivants à ≤ 8 m d'eux révélés 3/4/5 s | Coffres refermés | Pas près des coffres fermés | SS | — |
+| Hoarder | Twins | +2 coffres ; coffre ouvert ou objet ramassé à ≤ 32/48/64 m : notification 4 s | ≥ 4 coffres | Coffre seulement tueur loin | SS | — |
+| Bitter Murmur | Générale | Gen terminé : survivants à ≤ 16 m révélés 5 s ; dernier gen : tous 5/7/10 s | Tueur sur ceux qui ont fini | Se disperser à la pop | VM | 20 m pendant 8 s ; dernier gen 10/12/14 s |
+
+### Chase (25)
+
+| Perk | Tueur | Effet LIVE court | Indice observable | Réponse robuste | Conf. | PTB 10.2.0 |
+|---|---|---|---|---|---|---|
+| Keep Them Waiting | Générale (ex-Save the Best for Last) | +1 jeton par coup sur un non-Obsession (max 6/7/8), −2 si l'Obsession est touchée ; récupération −5 %/jeton (max 30/35/40 %) | Récupération courte après un coup | L'Obsession prend les coups protecteurs | VM | — |
+| Bamboozle | Clown | Vault +5/10/15 % ; fenêtre sautée bloquée pour tous 8/12/16 s | Fenêtre bloquée au 1er saut du tueur | Jouer les palettes | SS | — |
+| Brutal Strength | Trapper | Casse et kick +10/15/20 % | Casse rapide | Fenêtres, tiles sans palette | SS | — |
+| Enduring | Hillbilly | Stuns de palette −40/45/50 % | Stun très court | Drop pour bloquer, puis transition | SS (clause INC) | — |
+| Coup de Grâce | Twins | +2 jetons par gen (5 détenus, 10 par partie) ; fente +70/75/80 % | Fente longue après une pop | Marge de distance | SS | — |
+| Rapid Brutality | Xenomorph | Coup de base : +5 % Haste 8/9/10 s ; plus de Bloodlust | Ne perd pas de terrain après un coup | Sprint vers une tile, pas en terrain ouvert | SS | — |
+| Spirit Fury | Spirit | Après 4/3/2 palettes cassées, la prochaine palette de stun explose | Palette qui explose au stun | Compter les palettes | SS | — |
+| Knock Out | Cannibal | Drop puis > 6 m en 6 s : Hindered 5 % 3/4/5 s | Hindered après un drop | Marge avant la tile suivante | VM | > 10 m ; Hindered 20 % |
+| Hubris | Knight | Stun par tout moyen : Exposed 20/25/30 s ; recharge 20 s | Exposed après un stun | Distance immédiate | VM | — |
+| Dissolution | Dredge | 3 s après des dégâts, pendant 12/16/20 s : prochaine palette franchie en fast vault dans le TR détruite | Palette qui casse sous vous | Pas de fast vault de palette après un coup | VP | Attaque de base seulement ; 13/14/15 s |
+| Superior Anatomy | Mastermind | Votre vault à ≤ 12 m : son prochain vault +30/35/40 % ; recharge 25 s | Vault instantané derrière vous | Ne pas enchaîner fenêtre sur fenêtre | VM | Bonus actif 10 s ; recharge 20 s |
+| Genetic Limits | Singularity | Perte de santé : Exhausted 6/7/8 s | Exhausted au coup | Pas de perk d'épuisement juste après | SS | — |
+| Forced Hesitation | Singularity | Down : survivants à ≤ 16 m Hindered 20 % 10 s ; recharge 40/35/30 s | Hindered au down proche | Rester à > 16 m | SS | — |
+| Fire Up | Nightmare | +1 jeton par gen (max 5) : +4/5/6 %/jeton pour ramasser, casser, kicker, vaulter | Actions plus rapides en fin de partie | Saves préparés plus tôt | VM | +6/7/8 % par jeton |
+| Batteries Included | Good Guy | ≤ 16 m d'un gen terminé : +5 % Haste | Tueur rapide près des gens finis | Chases loin des gens finis | VM (portes INC) | — |
+| All-Shaking Thunder | Houndmaster | Après une chute : fente +75 % 15/20/25 s | Fente longue après un saut d'étage | Marge après son drop | VM | — |
+| See How They Run | Générale (ex-Play With Your Food) | Perd l'Obsession en chase : +1 jeton (max 3), 3/4/5 % Haste/jeton ; −1 par attaque | Lâche l'Obsession | Chases suivantes plus prudentes | SS | — |
+| Shadowborn | Wraith | Aveuglé : 6/8/10 % Haste 10 s | Accélère après un blind | Courir vers une ressource aussitôt | SS | — |
+| Game Afoot | Skull Merchant | Coup sur le plus chassé → Obsession ; en la chassant, casse ou kick : +7 % 8/9/10 s | Accélère après une casse | Obsession : pas de pré-drop en boucle | VM | +10 % |
+| Unbound | Unknown | 24/27/30 s après une blessure : chaque vault donne +7 % 10 s | Accélère après un vault | Palettes plutôt que fenêtres | VM | 26/28/30 s ; +5 % pendant 25 s |
+| Dark Arrogance | Lich | Vaults +15/20/25 % ; récupération de stun −15 % ; blinds +15 % | Vaults très rapides | Privilégier les palettes | VM | + récupération des coups +15/20/25 % ; stuns et blinds +25 % |
+| Rampage | Slasher | +1 jeton par casse (max 13) ; blind ou stun de palette : +1 %/jeton 13 s ; recharge 30/25/20 s | Accélère après un stun | Pas de stun tardif en fin de chase | VM | — |
+| Unrelenting | Générale | Recharge des coups ratés −20/25/30 % | Se remet vite d'un raté | Pas de mind-game en terrain ouvert seul | VM | Ratés −30/35/40 % ; réussis −10 % |
+| Cruel Limits | Demogorgon | Gen terminé : toutes les fenêtres bloquées 20/25/30 s | Fenêtres bloquées à la pop | Prévenir la chase avant de finir | SS | — |
+| Help Wanted | Animatronic | Kick : 1 gen « compromis » ; s'il est terminé : récupération +25 % 40/50/60 s | Récupération courte après une pop | Finir un gen non kické | VM | 3 gens compromis ; 100/110/120 s + régression 150 % des gens non réparés |
+
+### Anti-soin (8)
+
+| Perk | Tueur | Effet LIVE court | Indice observable | Réponse robuste | Conf. | PTB 10.2.0 |
+|---|---|---|---|---|---|---|
+| Sloppy Butcher | Générale | Coup de base : Haemorrhage + Mangled 70/80/90 s ; soin partiel qui régresse +25 % | Mangled + Haemorrhage | Soin en une fois | SS | — |
+| Deathbound | Executioner | Fin d'un soin : le soigneur crie ; Oblivious à > 12/8/4 m du soigné jusqu'à sa prochaine blessure | Cri à la fin du soin | Bouger après le cri | SS | — |
+| Coulrophobia | Clown | Soins −20/25/30 % dans le TR ; aiguille +50 % | Soin lent dans le TR | Soigner hors TR | VM | — |
+| Blood Echo | Oni | Chaque hook : blessés Exhausted + Haemorrhage 20/25/30 s ; sans recharge | Exhausted au hook d'un autre | Se soigner avant le hook suivant | SS | — |
+| Forced Penance | Executioner | Coup protecteur : Broken 60/70/80 s | Broken après un body block | Body block seulement s'il évite un down | SS | — |
+| Septic Touch | Dredge | Soin dans le TR : Blindness + Exhausted, persistent 20/25/30 s | Icônes en soignant | Soigner hors TR | VM | — |
+| Leverage | Skull Merchant | Le sauveteur soigne −20/25/30 % pendant 60 s | Sauveteur lent à soigner | Le sauveteur ne soigne pas | VM | — |
+| No Quarter | Houndmaster | Auto-soin à 75 % : skill checks continus ; raté ou arrêt : Broken 20/25/30 s | Rafale en fin d'auto-soin | Se faire soigner | SS | — |
+
+### Endgame (8)
+
+| Perk | Tueur | Effet LIVE court | Indice observable | Réponse robuste | Conf. | PTB 10.2.0 |
+|---|---|---|---|---|---|---|
+| No Way Out | Trickster | 1 jeton par survivant accroché ; 1er contact : interrupteurs bloqués 12 s + 6/9/12 s/jeton (max 36/48/60 s) | Interrupteurs bloqués | Toucher puis s'éloigner | SS | — |
+| Terminus | Mastermind | Portes : blessés, au sol, accrochés Broken jusqu'à l'ouverture + 35/40/45 s | Broken aux portes | Se soigner avant la dernière gen | VM | — |
+| Blood Warden | Nightmare | Porte ouverte : auras en zone de sortie ; une fois, hook → sorties bloquées 40/50/60 s | Sorties bloquées au hook | Sortir avant le hook | SS | — |
+| Remember Me | Nightmare | Jetons sur les pertes de santé de l'Obsession ; portes jusqu'à 38/44/50 s, sauf pour l'Obsession | Ouverture lente | L'Obsession ouvre | SS | — |
+| Rancor | Spirit | Chaque gen : tous crient (notification 3 s) ; l'Obsession voit le tueur 5/4/3 s ; portes : Obsession Exposed, mori | Cris à chaque gen | L'Obsession sort en priorité, loin du tueur | SS | — |
+| None Are Free | Ghoul | 1 jeton par survivant accroché (max 4) ; dernier gen : fenêtres et palettes bloquées 12/14/16 s/jeton | Ressources bloquées au dernier gen | Dernier gen sain, sans chase | SS | — |
+| Haywire | Animatronic | Porte lâchée ≥ 80 % : régresse ; lumières qui clignotent | Barre qui redescend | Ne pas lâcher au-delà de 80 % | VM | — |
+| Ravenous | Krasue | 1 jeton par survivant accroché (max 4) ; à 4 : tous crient + Exposed 40/50/60 s | Cri collectif + Exposed | Aucun risque pendant l'Exposed | VM | +4 % Haste en portant et accrochage +4 % par jeton ; Exposed 80/85/90 s |
+
+### Stealth (10)
+
+| Perk | Tueur | Effet LIVE court | Indice observable | Réponse robuste | Conf. | PTB 10.2.0 |
+|---|---|---|---|---|---|---|
+| Tinkerer | Hillbilly | Gen à 70 % : notification au tueur + Undetectable 12/14/16 s ; une fois par gen | TR disparu vers 70 % | Un guetteur, un réparateur | SS | — |
+| Furtive Chase | Ghost Face | Hook de l'Obsession : +10 % Haste + Undetectable 14/16/18 s ; le sauveteur devient l'Obsession | Silence après le hook de l'Obsession | Vérifier avant de décrocher | SS | — |
+| Machine Learning | Singularity | Kick : 1 gen compromis ; terminé : Undetectable + 8 % Haste 40/50/60 s ; une fois | TR disparu à la pop d'un gen kické | Se disperser 40-60 s | VM | Jusqu'à 3 gens compromis ; +10 % |
+| Trail of Torment | Executioner | Kick : Undetectable ; aura jaune du gen pour tous tant qu'il régresse ; recharge 60/45/30 s | Aura jaune d'un gen | Supposer le tueur proche ; réparer arrête l'effet | SS | — |
+| Silent Shadow | Slasher | Hook : Undetectable 11/12/13 s ; permanent aux portes | Pas de TR après chaque hook | Inspecter les angles morts | VM | — |
+| Insidious | Générale | Immobile 3/2/1 s : Undetectable tant qu'il reste immobile | TR coupé net, respiration | Inspecter avant de décrocher | VM | Après 2 s ; persiste 6/7/8 s |
+| Dark Devotion | Plague | Obsession blessée : TR transféré à elle (40 m) 35/40/45 s, tueur Undetectable | TR qui suit l'Obsession | L'Obsession s'isole | VM | — |
+| Unforeseen | Unknown | Kick : TR transféré au gen (32 m) 22/26/30 s, Undetectable ; recharge 30 s | TR fixe sur un gen | Le TR d'un gen kické n'est pas une info | SS | — |
+| Beast of Prey | Huntress | Bloodlust : Undetectable 30/35/40 s | TR coupé en chase longue | Caméra sur le tueur | SS | — |
+| Monitor & Abuse | Doctor | TR +5/10/15 % en chase, −15/20/25 % hors chase | TR qui démarre tard | 1er battement = tueur proche | VM | — |
+
+### Hex (21)
+
+| Perk | Tueur | Effet LIVE court | Indice observable | Réponse robuste | Conf. | PTB 10.2.0 |
+|---|---|---|---|---|---|---|
+| Hex: Ruin | Hag | Gens non réparés : régression 100/125/150 % | Gen lâché qui recule | Finir les gens ; purifier en passant | VM | — |
+| Hex: No One Escapes Death | Générale | Portes : un terne devient Hex ; tous Exposed ; Haste 2/3/4 % ; aura du totem de 4 à 24 m en 30 s | Exposed aux portes | Soigné avant ; totem à deux | SS | — |
+| Hex: Fortune's Fool | Générale (ex-Plaything) | 1er hook de chaque survivant : Hex maudit ; Oblivious ; totem bloqué 90 s pour les autres ; aura 24/20/16 m | Oblivious + Hex après votre hook | Le maudit purifie | SS | — |
+| Hex: Undying | Blight | Auras à ≤ 2/3/4 m d'un terne ; Hex purifié transféré sur Undying | Effet qui survit | Purifier tous les totems allumés | SS | — |
+| Hex: Pentimento | Artist | Rallume les totems purifiés ; soin et réparation −20 %, jusqu'à 24/28/32 % ; à 5 : totems bloqués | Totem rallumé | Re-purifier ; limiter les ternes | SS | — |
+| Hex: Devour Hope | Hag | Jetons sur décrochages à ≥ 24 m du tueur ; 2 : Haste 3/4/5 % ; 3 : Exposed ; 5 : mori | Exposed permanent | Décrocher tueur proche mais engagé ; purifier | SS | — |
+| Hex: Blood Favour | Blight | Perte de santé : palettes debout à 24/28/32 m bloquées 15 s | Palettes bloquées autour | Fuir vers une fenêtre | VM | Sain blessé par attaque de base seulement ; 32 m ; 13/14/15 s |
+| Hex: Thrill of the Hunt | Générale | Purification et bénédiction −8/9/10 % par totem restant (max 40/45/50 %) | Purification lente | Ternes d'abord | VM | Rework : allumé au 1er hook ; blocage des totems 6/7/8 s par Hex à chaque hook ; portée **[INCERTAIN]** |
+| Hex: Face the Darkness | Knight | Blessure : Hex maudit ; toutes les 35/30/25 s, survivants hors TR crient + aura 2 s | Cris périodiques | Soigner le maudit | SS | — |
+| Hex: Retribution | Deathslinger | Purifier ou bénir : Oblivious 40/50/60 s ; retrait d'un Hex : tous révélés 20 s | Oblivious après purification | Purifier quand l'équipe est à l'abri | VM | — |
+| Hex: Hive Mind | The First | 1er hook : Hex ; 4e gen terminé : gens restants −6/8/10 % | Hex au 1er hook | Purifier avant le 4e gen | VM | — |
+| Hex: Crowd Control | Trickster | 1er vault rapide : Hex ; 4/5/6 dernières fenêtres franchies bloquées pour tous | Fenêtres franchies bloquées | Vault lent ; palettes | VM | — |
+| Hex: Huntress Lullaby | Huntress | Raté +2/4/6 % ; jetons aux hooks : avertissement de skill check plus tardif, absent à 5 | Son de plus en plus tardif | Purifier tôt | SS | — |
+| Hex: Haunted Ground | Spirit | 2 Hex ; purifier ou bénir l'un : tous Exposed 40/50/60 s | Exposed après une purification | Purifier seulement tueur loin | SS | — |
+| Hex: The Third Seal | Hag | 2/3/4 derniers touchés : Blindness | Blindness permanente | Purifier ; en SWF, la voix compense | SS | — |
+| Hex: Two Can Play | Good Guy | Après 4/3/2 stuns ou blinds : Hex ; qui étourdit ou aveugle est aveuglé 1,5 s | Écran blanc après un stun | Compter les stuns | SS | — |
+| Hex: Nothing but Misery | Ghoul | Après 8 coups : Hex ; coup de base : Hindered 5 % 10/12,5/15 s | Hindered à chaque coup | Purifier | VP | Après 4 coups ; + vault −10 % |
+| Hex: Under Your Thumb | Judgment | 1er hook : Hex ; Haste en course plafonnée à 25/20/15 % ; gain à ≤ 32 m alerte le tueur | Boost de Haste rogné | Pas de fuite bâtie sur un boost | VM | — |
+| Hex: Wretched Fate | Dark Lord | 1er gen : Hex maudit l'Obsession, réparation −27/30/33 % ; aura du totem à 12 m | Obsession lente | L'Obsession fait le totem | SS | — |
+| Hex: Overture of Doom | Krasue | Maudit le gen le plus loin du totem ; réparé ≥ 5 s : TR transféré (32 m) 20/25/30 s + Undetectable | TR venant d'un gen lointain | Ne pas se fier au TR ; purifier | VM | — |
+| Hex: Scared to Death | Slasher | 3 survivants accrochés : Hex ; casse de palette en chase : survivants à ≤ 13 m crient + Hindered 11/12/13 % 3 s | Cri + Hindered à la casse | Ne pas rester près de la palette | VM | — |
+
+### Scourge (6)
+
+| Perk | Tueur | Effet LIVE court | Indice observable | Réponse robuste | Conf. | PTB 10.2.0 |
+|---|---|---|---|---|---|---|
+| Scourge Hook: Pain Resonance | Artist | 4 crochets Fléau ; 1er hook de chaque survivant : gen le plus avancé −10/15/20 %, réparateurs crient | Cri + explosion au hook | Pas de gen très avancé isolé | VM | — |
+| Scourge Hook: Floods of Rage | Onryō | Décrochage d'un Fléau : auras des autres 5/6/7 s | Tueur sur un tiers après un décrochage | Obstacle, mouvement | SS | — |
+| Scourge Hook: Weeping Wounds | Générale (ex-Gift of Pain) | Décroché d'un Fléau : Haemorrhage 90 s ; après son 1er soin complet, réparation et soin −10/13/16 % jusqu'à sa prochaine blessure | Haemorrhage seule | Pas de soin immédiat si le tueur approche | SS | — |
+| Scourge Hook: Monstrous Shrine | Générale | Cave + 4 crochets Fléau ; tueur à > 24 m : sacrifice +10/15/20 % | Sacrifice plus rapide | Décrocher plus tôt | SS | Rework : gens non réparés régressent à 150/175/200 % |
+| Scourge Hook: Jagged Compass | Houndmaster | 4 Fléau + chaque crochet normal décroché ; hook sur Fléau : aura du gen le plus avancé 6/8/10 s | Tueur au gen le plus avancé | Se décaler sur un 2e gen | SS | — |
+| Scourge Hook: Hangman's Trick | Pig | 4 Fléau ; en portant : survivants à ≤ 12/14/16 m d'un Fléau ; sabotage : notification | Tueur arrive au sabotage | Saboter seulement si le crochet est proche | VM | — |
+
+### Autre (17)
+
+| Perk | Tueur | Effet LIVE court | Indice observable | Réponse robuste | Conf. | PTB 10.2.0 |
+|---|---|---|---|---|---|---|
+| Starstruck | Trickster | Portage : survivants dans le TR Exposed, persiste 26/28/30 s ; recharge 60 s | Exposed près du porteur | Hors du TR du porteur | SS | — |
+| Agitation | Trapper | Portage : Haste 6/12/18 %, TR +12 m | TR énorme en portant | Saves préparés tôt | VM | Haste 14/16/18 % |
+| Iron Grasp | Générale | Wiggle +4/8/12 % ; déport −75 % | Wiggle lent | Sabotage ou pallet save préparé | VM | +10/11/12 % |
+| Mad Grit | Legion | Portage : pas de recharge sur raté ; un coup réussi met le wiggle en pause 2/3/4 s | Frappe en portant | Pas de body block | SS | — |
+| Forever Entwined | Ghoul | +4 %/jeton (max 24/28/32 %) pour ramasser, déposer, accrocher | Saves ratés de peu | Se placer plus tôt | SS | — |
+| Iron Maiden | Legion | Fouille +30/40/50 % ; sortie de casier : cri + notification 4 s + Exposed 30 s | Cri + Exposed en sortant | Éviter les casiers | SS | — |
+| Distressing | Générale | TR +20/25/30 % | TR large | Confirmer la distance | SS (palier 2 INC) | TR +30 % ; réparation −6/7/8 % dans le TR |
+| Shattered Hope | Générale | Boons détruits ; survivants dans le rayon révélés 6/7/8 s | Boon disparu | Sortir du rayon quand le tueur approche | SS | Rework : totems bloqués 16/18/20 s ; aura des Boons |
+| Dominance | Dark Lord | 1re interaction avec chaque coffre et totem : bloqué 8/12/16 s, aura du prop au tueur | Prop bloqué aussitôt | Partir, revenir plus tard | VM | Totems seulement, 25 s ; cri + aura 3/4/5 s |
+| Lightborn | Hillbilly | Immunité aux blinds (lampe, pétard, Flash Grenade, Blast Mine) ; qui tente est révélé 6/8/10 s | Flash sans effet | Arrêter au 1er échec | SS | — |
+| Franklin's Demise | Cannibal | Coup de base : objet lâché ; auras des objets à 32/48/64 m ; plus de perte de charges | Objet au sol | Ne pas le chercher près du tueur | VM | — |
+| Languid Touch | Lich | Corbeau à ≤ 36 m du tueur : Exhausted 6/8/10 s ; recharge 5 s | Exhausted après un corbeau | Marcher près des corbeaux | SS | — |
+| Weave Attunement | Lich | Objet vidé qui tombe ; auras des objets et des survivants à ≤ 12 m ; ramasser : Oblivious 20/25/30 s | Aura d'un objet au sol | Ignorer les objets au sol | SS | — |
+| Overwhelming Presence | Doctor | Objet sorti à ≤ 32 m : Exhausted 15 s ; aura du plus proche Exhausted 2/3/4 s ; recharge 25 s | Exhausted en sortant un objet | Pas d'objet près du tueur | VM | — |
+| Mindbreaker | Demogorgon | En réparant : Blindness + Exhausted, persistent 3/4/5 s | Icônes en réparant | Quitter le gen tôt | SS | — |
+| Dragon's Grip | Blight | 30 s après un kick, 1er qui touche le gen : cri, localisé 4 s, Exposed 60 s ; recharge 60/45/30 s | Cri + Exposed sur un gen kické | Attendre 30 s | VM | — |
+| Make Your Choice | Pig | Décrochage, tueur à > 32 m : sauveteur crie + Exposed 40/50/60 s ; recharge 40/50/60 s | Sauveteur Exposed | Décrocher tueur proche mais engagé | SS | — |
+
+> **À retenir** : sur 145 perks, **27** ont une valeur PTB 10.2.0 dans ce tableau ; aucune ne change le jeu LIVE avant la sortie officielle. Les catégories sont un **rangement** du guide, pas une classification officielle BHVR.
+
+Détail : `kb/research/batch3_perks_kill_p90.md` à `p96.md` (fiches complètes : indice, soupçonner, confirmer, counterplay, erreurs, menace SoloQ / SWF).
+
+---
+
+## Sources du chapitre
+
+- `kb/deliverables/PERK_DEDUCTION.md` (v2.0, re-vérifiée le 27/09/2026) : signaux, règles par phase, combos, réflexes par défaut, drills, limites.
+- `kb/research/batch3_perks_kill_p90.md` … `p96.md` : 145 fiches perks re-vérifiées sur page wiki complète (6 + 18 + 23 + 21 + 28 + 22 + 27), règles de régression, historique 9.2.0, Diminishing Returns 9.6.0.
+- `kb/ledgers/AUDIT_PHASE0_ERRATA.md` : Eruption −10 % et Pop inchangé en 9.2.0 (« Postponed ») ; piège du digest wiki (texte PTB affiché comme LIVE).
+- `kb/seed/audit_phase0.txt` (tables vérifiées) : Match Details et loadout caché (9.6.0), anti-camp, protections de décrochage (10.1.0), regression events (7.5.0), totems, coffres, portes, EGC.
+- Notes officielles BHVR : `kb/sources/patches/official_*.txt`, notamment 9.2.0 (523), 9.5.0, 9.6.0 (544), 10.1.0, PTB 10.2.0 (559).
+- Pages wiki.gg complètes des perks : `kb/sources/wiki_perks_digest.md` (brut : `kb/sources/wiki_perks.json`).
