@@ -713,7 +713,7 @@ Détail : `kb/research/batch4_killers_g5.md` §36.
 | Hellfire (vampire) | Charge 0,9 s ; 8 piliers en ligne sur **10 m**, **au-dessus des obstacles bas** ; cooldown **9,5 s** | VP / SS |
 | Loup | Scent Orbs (1 toutes les 6 s par survivant, 10 s) ; orbe ramassée = Haste +4,35 % 2,5 s (4,8 m/s) | SS |
 | Pounce | 2 bonds de 6 m ; **toucher une palette abaissée la détruit** ; cooldown **20 s** | SS |
-| Chauve-souris | Pas d'attaque ; **les survivants lui sont invisibles** (Scratch Marks visibles, pas +50 %) ; téléportation vers une palette abaissée ou une fenêtre entre 2 et 32 m ; cooldown 15 s | SS |
+| Chauve-souris | Pas d'attaque ; **les survivants lui sont invisibles** (Scratch Marks visibles, bruits de pas +50 %) ; téléportation vers une palette abaissée ou une fenêtre entre 2 et 32 m ; cooldown 15 s | SS |
 
 **Identification** : berceuse sans TR = chauve-souris ; Scent Orbs = loup ; trois silhouettes distinctes.
 
