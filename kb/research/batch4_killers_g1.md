@@ -14,6 +14,7 @@
 > **Historique de vérification** — La 1re version (27/09/2026) avait été écrite **sans aucune recherche web** (quota WebSearch épuisé) : valeurs [SEED-NRV] / [MÉM] UNCERTAIN. Le lot 12b a remplacé ces valeurs par celles des pages wiki complètes et des notes officielles.
 > - **[AUDIT]** = valeur déjà vérifiée en phase 0 (`audit_phase0.txt`), confiance de l'audit.
 > - **[MÉM]** = connaissance du modèle, UNCERTAIN : ne subsiste que là où les pages lues ne disent rien (signalé).
+> - **[SEED-NRV]** = repris du seed sans vérification, UNCERTAIN : ne subsiste que pour les listes « Perks fréquentes » (fréquences d'usage, hors pages lues).
 > - Les parties analytiques (identification, chase, counterplay, erreurs, adaptations) restent des **HEURISTIC** (raisonnement mécanique à partir des valeurs vérifiées). Aucun guide expert n'a été lu : l'étiquette EXPERT_OPINION n'est pas utilisée.
 > - Les pages wiki lues n'ont **pas de change log** détaillé 9.x-10.x pour Trapper, Wraith, Hillbilly, Nurse, Hag (dernières entrées : 7.3.0, 6.7.0, 8.6.0, 8.3.2, 7.6.0) ; les changements 2025-2026 viennent des notes officielles.
 
@@ -330,82 +331,146 @@
 
 | ID | Claim | Source | Patch | Confiance |
 |---|---|---|---|---|
-| L4G1-C01 | Nurse 3,85 m/s | [1] (wiki via audit) | LIVE | STRONG_SECONDARY [AUDIT] |
-| L4G1-C02 | Shape : Evil Incarnate 60 s, Slaughtering Strike 7,5 m/s, CD 4 s, TR Pursuer 16 m / EI 32 m | [1] | 9.2.3 (LIVE) | VERIFIED (audit) |
-| L4G1-C03 | Shape : rework modes Stalker/Pursuer/Evil Incarnate | [1] | 9.2.0 | VERIFIED (audit) |
-| L4G1-C04 | Shape retirée de la boutique, jouable pour possesseurs | [1] | 19/01/2026 ; renommages 9.4.0 | VERIFIED (audit) |
-| L4G1-C05 | Doctor : Shock Therapy 0,65 s | [1] | 9.6.1 (LIVE) | VERIFIED (audit) |
-| L4G1-C06 | Hillbilly/Cannibal : casse de palette à la tronçonneuse ~1 s | [1] (wiki Pallets) | LIVE | STRONG_SECONDARY [AUDIT] |
-| L4G1-C07 | Shape Stalker 4,2 m/s | [1] (fandom), [2] | ? | UNCERTAIN |
-| L4G1-C08 | Hillbilly TR 40 m (seed) vs 32 m | [2] vs [MÉM] | ? | UNCERTAIN |
-| L4G1-C09 | Hillbilly sprint ~10,1 m/s (seed) vs ~8,8 m/s | [2] vs [MÉM] | ? | UNCERTAIN |
-| L4G1-C10 | Hag TR 24 m (seed) vs 32 m | [2] vs [MÉM] | ? | UNCERTAIN |
-| L4G1-C11 | Wraith 6,0 m/s occulté | [2], [MÉM] | ? | UNCERTAIN |
-| L4G1-C12 | Nurse : 2 blinks, ~20 m puis ~12 m, fatigue 2 s +0,5/blink +1 s si raté | [2] | ? | UNCERTAIN |
-| L4G1-C13 | Trapper : 8 pièges, 2 en main, pose 2,5 s, Haste 7,5 % 5 s | [2] | ? | UNCERTAIN |
-| L4G1-C14 | Hag : 10 pièges, téléport ≤ 48 m, faux TR 8 m | [2] | ? | UNCERTAIN |
-| L4G1-C15 | Doctor Static Blast recharge 30-45 s | [2] | ? | UNCERTAIN |
+| L4G1-C01 | Nurse 3,85 m/s, TR 32 m, taille moyenne | [8] ; [1] | LIVE | STRONG_SECONDARY |
+| L4G1-C02 | Shape : Evil Incarnate 60 s, Slaughtering Strike 7,5 m/s, CD 4 s, TR Pursuer 16 m / EI 32 m | [14] + [9] | 9.2.3 (LIVE) | VERIFIED_MULTI_SOURCE |
+| L4G1-C03 | Shape : rework modes Stalker/Pursuer/Evil Incarnate + Slaughtering Strike | [13] | 9.2.0 | VERIFIED_PRIMARY |
+| L4G1-C04 | Shape retirée de la boutique, jouable pour possesseurs ; perks renommées | [16] [22] | 9.4.0 (19/01/2026) | VERIFIED_PRIMARY |
+| L4G1-C05 | Doctor : Shock Therapy 0,65 s | [19] + [11] | 9.6.1 (LIVE) | VERIFIED_MULTI_SOURCE |
+| L4G1-C06 | Hillbilly : tronçonneuse casse une palette ≈ 1 s ; LoPro Chains traverse palettes/murs ; pouvoir « Special-break » | [12] [7] ; [17] | LIVE (9.5.0 pour le terme) | STRONG_SECONDARY (mécanique basekit : CONFLICT-05) |
+| L4G1-C07 | Shape Stalker 4,2 m/s, Undetectable | [13] + [9] | 9.2.0 (LIVE) | VERIFIED_MULTI_SOURCE |
+| L4G1-C08 | Hillbilly TR 40 m (32 → 40 m en 8.6.0) | [7] | LIVE | STRONG_SECONDARY |
+| L4G1-C09 | Hillbilly sprint 10,12 m/s ; 12 m/s en Overdrive (20 s ; décharge après 8 s) ; charge 2,5 s | [7] | LIVE (Overdrive nerfé 8.3.0) | STRONG_SECONDARY |
+| L4G1-C10 | Hag TR 24 m (28 → 24 m en 1.9.3), 4,4 m/s | [10] | LIVE | STRONG_SECONDARY |
+| L4G1-C11 | Wraith : 6,0 m/s occulté, invisible > 20 m, occultation 1,5 s, désoccultation 3 s (cloche à 1,5 s), sursaut 6,9 m/s 1 s, cloche 24 m / souffle 40 m | [6] | LIVE | STRONG_SECONDARY |
+| L4G1-C12 | Nurse : 2 charges (recharge 3 s/charge), 20 m puis 12 m (fenêtre 1,5 s), fatigue 2/2,5/3 s + 1 s après attaque, non étourdissable en fatigue | [8] | LIVE | STRONG_SECONDARY |
+| L4G1-C13 | Trapper : 2 pièges en main + 8 sur la carte, pose 2,5 s, Haste 7,5 % 5 s, libération 16,67 %/essai (6e garantie), désarmement 3,5 s | [5] | LIVE | STRONG_SECONDARY |
+| L4G1-C14 | Hag : 10 pièges, pose 1,9 s, rayon 2,7 m, déclenché 6 s, téléport ≤ 48 m, faux TR 8 m, effacement accroupi 4 s | [10] | LIVE (7.6.0) | STRONG_SECONDARY |
+| L4G1-C15 | Doctor : Static Blast sur tout le TR, traverse les obstacles, évité seulement en casier, recharge 30 s / 45 s | [11] | LIVE | STRONG_SECONDARY |
 | L4G1-C16 | Protections d'unhook : Endurance + 10 % Haste 10 s + Elusive 10 s | [1] | 10.1.0 | VERIFIED (audit) |
+| L4G1-C17 | Shape : exécution à la main en EI d'un survivant (debout ou au sol) ayant 2 phases de crochet, à ≤ 3 m ; impossible sous Endurance | [13] + [9] | 9.2.0 (LIVE) | VERIFIED_MULTI_SOURCE |
+| L4G1-C18 | Shape : Slaughtering Strike met à terre un sain et casse palettes/murs ; charge 0,375-1,5 s | [13] + [9] [12] | 9.2.0 (LIVE) | VERIFIED_MULTI_SOURCE |
+| L4G1-C19 | Shape : pas d'Exposed basekit ; Fragrant Tuft of Hair = Exposed en EI, sans SS | [13] + [9] | 9.2.0 (LIVE) | VERIFIED_MULTI_SOURCE |
+| L4G1-C20 | Shape : stalk 32 m indépendant de la distance, 5 points, −25 % en mouvement, retombée à 50 % après 20 s | [13] + [9] | 9.2.0 (LIVE) | VERIFIED_MULTI_SOURCE |
+| L4G1-C21 | Shape : Judith's Tombstone (EI renouvelé par crochet, plafond 40 s), Tombstone Piece (Undetectable 20 s), Reflective Fragment (+20 s/coup de SS), Hair Bow (+20 s) | [13] + [9] | 9.2.0 (LIVE) | VERIFIED_MULTI_SOURCE |
+| L4G1-C22 | Doctor : Shock Therapy 0,8 → 0,75 s | [18] + [11] | 9.6.0 | VERIFIED_MULTI_SOURCE (HISTORICAL) |
+| L4G1-C23 | Doctor : "Discipline" Class II/III/Carter's Notes −0,06/−0,08/−0,1 s | [19] + [11] | 9.6.1 (LIVE) | VERIFIED_MULTI_SOURCE |
+| L4G1-C24 | Nurse : Heavy Panting 30 → 10 % | [18] + [8] | 9.6.0 (LIVE) | VERIFIED_MULTI_SOURCE |
+| L4G1-C25 | Wraith : "The Serpent" – Soot se désocculte en cassant palettes/murs ou en abîmant/faisant exploser un gen | [17] + [6] | 9.5.0 (LIVE) | VERIFIED_MULTI_SOURCE |
+| L4G1-C26 | Trapper : hitbox incohérente des pièges et contournements de pose corrigés | [17] | 9.5.0 | VERIFIED_PRIMARY |
+| L4G1-C27 | Trapper : Haste 7,5 % 5 s à la pose (bug de cumul corrigé) | [5] + [14] | 7.3.0 / 9.2.3 | VERIFIED_MULTI_SOURCE |
+| L4G1-C28 | Nurse : correctifs de blinks hors carte / dans le décor | [20] [21] | 10.1.0-10.1.2 | VERIFIED_PRIMARY |
+| L4G1-C29 | Identité du tueur affichée dès qu'un survivant entre en chase ou perd un état de santé ; loadout caché jusqu'à la fin | [18] | 9.6.0 | VERIFIED_PRIMARY |
+| L4G1-C30 | Doctor : vignette de bruit supprimée, lumière et secousse réduites | [21] | 10.0.0 | VERIFIED_PRIMARY |
+| L4G1-C31 | A Nurse's Calling 28/30/32 m | [13] + [8] | 9.2.0 (LIVE) | VERIFIED_MULTI_SOURCE |
+| L4G1-C32 | Doctor : Madness III = objets bloqués, aucune interaction à barre de progression (sauf décrocher) ; Snap Out of It 12 s | [11] | LIVE | STRONG_SECONDARY |
+| L4G1-C33 | Lightburn supprimé (Wraith, Nurse) ; la lampe n'efface plus les pièges de la Hag | [6] [8] [10] | 6.7.0 | STRONG_SECONDARY |
+| L4G1-C34 | Hillbilly : virage 412 °/s pendant 1 s puis 32 °/s ; cooldowns 2,7 / 2,5 / 1 s ; tronçonneuse audible à 60 m | [7] | LIVE | STRONG_SECONDARY |
+
+(Points confirmés par note officielle, VERIFIED_PRIMARY ou VERIFIED_MULTI_SOURCE : C02-C05, C07, C17-C31 = **20**.)
 
 ## Conflits
 
 #### CONFLICT-L4G1-01 : TR de The Hillbilly
 - Source A : seed `ch8_killers.txt` (« RT : 40 m »).
-- Source B : connaissance du modèle (antérieure à mi-2026) : 32 m. Aucune source web consultée (quota).
-- Hypothèse : erreur du seed (l'audit signale des erreurs dans la fiche Hillbilly sans les détailler) ; 40 m est le TR de certains tueurs à distance, confusion possible.
-- Indice (audit P14) : règle d'origine « 32 m pour les tueurs à 4,6 m/s » (wiki.gg Terror Radius, SS, avec exceptions) → penche vers 32 m, sans le prouver.
-- Résolution : UNRESOLVED (à vérifier sur wiki.gg).
+- Source B : connaissance du modèle (antérieure à mi-2026) : 32 m.
+- Preuve : page wiki complète [7] : infobox « Terror Radius 40 metres » ; change log « Patch 8.6.0 — Nerf : increased the Terror Radius from 32 metres to 40 metres ».
+- Résolution : **RÉSOLU — 40 m (LIVE)**. Le seed avait raison ; 32 m était la valeur d'avant 8.6.0 (HISTORICAL). STRONG_SECONDARY.
 
 #### CONFLICT-L4G1-02 : vitesse de sprint tronçonneuse du Hillbilly
 - Source A : seed (~10,1 m/s ; ~12 m/s en Overdrive).
-- Source B : connaissance du modèle : ~8,8 m/s (valeur possiblement antérieure à l'Overdrive).
-- Hypothèse : changement de mécanique (Overdrive) non capté par ma connaissance, ou erreur du seed.
-- Résolution : UNRESOLVED.
+- Source B : connaissance du modèle : ~8,8 m/s.
+- Preuve : page wiki complète [7] : « Increases his Movement speed to 10.12 m/s » (infobox 253 %) ; Overdrive « 12 m/s » (réduit de 13 à 12 m/s en 8.3.0).
+- Résolution : **RÉSOLU — 10,12 m/s, 12 m/s en Overdrive (LIVE)**. Le seed avait raison ; 8,8 m/s est une valeur ancienne (OBSOLETE). STRONG_SECONDARY.
 
 #### CONFLICT-L4G1-03 : TR de The Hag
 - Source A : seed (« RT : 24 m »).
 - Source B : connaissance du modèle : 32 m.
-- Hypothèse : erreur du seed, ou changement non capté.
-- Indice (audit P14) : règle d'origine « 24 m pour les tueurs à 4,4 m/s » (wiki.gg Terror Radius, SS, avec exceptions) → **compatible avec le seed** ; la mémoire du modèle n'est donc pas un argument suffisant pour le déclarer suspect.
-- Résolution : UNRESOLVED.
+- Preuve : page wiki complète [10] : infobox « Terror Radius 24 metres » ; change log « Patch 1.9.3 — Buff : reduced her Terror Radius from 28 metres to 24 metres ».
+- Résolution : **RÉSOLU — 24 m (LIVE)**. Le seed avait raison ; la mémoire du modèle était fausse. STRONG_SECONDARY.
+
+#### CONFLICT-L4G1-04 : vitesse du sursaut post-désoccultation du Wraith
+- Source A : page wiki [6], description du pouvoir (« Boosts his Movement speed to 150 % for 1 second ») et Trivia (« Post-Uncloak Boost: 6.9 m/s ») ; seed (~6,9 m/s 1 s).
+- Source B : même page, Trivia (« Post-Uncloak Speed burst: 1 second at 6 m/s »).
+- Hypothèse : coquille de la ligne B (6 m/s = vitesse occultée).
+- Résolution : **RÉSOLU (probable) — 6,9 m/s pendant 1 s**, 3 mentions contre 1 ; STRONG_SECONDARY. L'hypothèse P14 « confusion du seed entre fente et sursaut » est réfutée.
+
+#### CONFLICT-L4G1-05 : casse de palette par la tronçonneuse du Hillbilly sans add-on
+- Source A : page wiki Pallets [12] (« The Hillbilly and The Cannibal can alternatively destroy a Pallet with their Power… one second ») ; notes 9.5.0 [17] (pouvoir du Hillbilly listé parmi les descriptions « Special-break »).
+- Source B : page du Hillbilly [7] : la description du pouvoir ne mentionne la casse de palettes/murs **que** pour LoPro Chains (traverser en sprint) ; la liste des cooldowns donne « Breaking Breakable Walls/Pallets: 1 second » sans condition d'add-on.
+- Hypothèse : le pouvoir de base casse une palette baissée (1 s de cooldown), LoPro permettant seulement de **continuer** le sprint à travers ; ou la casse n'existe qu'avec LoPro et la page Pallets simplifie.
+- Résolution : **UNRESOLVED** sur la mécanique exacte. Sans impact sur le conseil principal (une palette pré-lâchée ne tient pas contre lui ; une palette lâchée sur un sprint engagé l'arrête, sauf LoPro).
 
 ## Écarts avec le guide seed
 
 | Élément | Le guide dit | Vérifié | Verdict |
 |---|---|---|---|
 | Orientation des 7 fiches | ~75 % « comment le jouer » (tueur) | audit [1] | IMPRÉCIS (angle tueur ; remplacé ici par vue survivant) |
-| Nurse vitesse | 3,85 m/s | audit [1] | OK |
-| Shape EI / SS / CD / TR | 60 s, 7,5 m/s, ~4 s, 16/32 m | audit [1] (9.2.3) | OK |
-| Shape retrait boutique | janv. 2026 | audit [1] (19/01/2026) | OK |
-| Shape Stalker 4,2 m/s | 4,2 m/s | audit : UNCERTAIN | NON VÉRIFIABLE |
-| Doctor Shock Therapy | 0,65 s (9.6.1) | audit [1] | OK |
-| Doctor 0,8 → 0,75 s (9.6.0) | étape intermédiaire | audit : « buff Doctor 9.6.0 » sans valeur | NON VÉRIFIABLE |
-| Hillbilly TR | 40 m | mémoire : 32 m | SUSPECT → NON VÉRIFIABLE (CONFLICT-01) |
-| Hillbilly sprint | ~10,1 / ~12 m/s | mémoire : ~8,8 m/s | NON VÉRIFIABLE (CONFLICT-02) |
-| Hillbilly « blessé = moins exposé à la tronçonneuse » | conseil de counterplay | logique de jeu (tout coup met un blessé à terre) | IMPRÉCIS / trompeur (P14 : formulation ambiguë, pas une erreur prouvée ; synthèse : SUSPECT) |
-| Hag TR | 24 m | mémoire : 32 m ; règle d'origine de l'audit (4,4 m/s → 24 m) compatible avec le seed | NON VÉRIFIABLE (CONFLICT-03) |
-| Trapper Haste post-pose 7,5 % | présent | non connu de ma mémoire | NON VÉRIFIABLE |
-| Wraith invisibilité > 20 m, sursaut 6,9 m/s | présent | — | NON VÉRIFIABLE |
-| Wraith add-on Soot (9.5) | présent | non relevé par l'audit | NON VÉRIFIABLE |
-| Nurse Heavy Panting nerf 9.6.0 | présent | non relevé par l'audit | NON VÉRIFIABLE |
-| Shape exécution sur 2e crochet en EI | présent | — | NON VÉRIFIABLE (impact survivant élevé) |
-| Doctor Static Blast 30-45 s, Madness III bloque les actions | présent | — | NON VÉRIFIABLE |
+| Vitesses / TR / tailles des 7 tueurs | Trapper 32, Wraith 32, Hillbilly 40, Nurse 32, Hag 24, Doctor 32 ; Shape 0/16/32 | pages wiki [5]-[11], notes 9.2.3 [14] | OK |
+| Shape EI / SS / CD / TR | 60 s, 7,5 m/s, ~4 s, 16/32 m | [14] + [9] | OK (VERIFIED_MULTI_SOURCE) |
+| Shape retrait boutique | janv. 2026 | [16] [22] | OK |
+| Shape Stalker 4,2 m/s | 4,2 m/s | notes 9.2.0 [13] + [9] | OK (VERIFIED_MULTI_SOURCE) |
+| Shape exécution en EI (2e crochet, sauf Endurance) | présent | [13] + [9] | OK (VERIFIED_MULTI_SOURCE) |
+| Shape « Tombstone Piece et Judith's Tombstone donnent le kill à la main » | présent (Comment le jouer 5) | [13] + [9] : kill basekit, add-ons retravaillés | FAUX (OBSOLETE, pré-9.2.0) |
+| Shape pas d'Exposed basekit ; Fragrant Tuft | présent | [13] + [9] | OK |
+| Doctor Shock Therapy | 0,8 → 0,75 s (9.6.0) → 0,65 s (9.6.1) | [18] [19] + [11] | OK (VERIFIED_MULTI_SOURCE) |
+| Doctor Static Blast 30-45 s, casier | présent | [11] | OK |
+| Doctor « ou cassez la LOS » contre le Static Blast | présent (contre 2) | [11] : traverse les obstacles | FAUX |
+| Doctor Madness III (objets et actions bloqués) | présent | [11] | OK |
+| Hillbilly TR | 40 m | [7] (8.6.0) | OK (CONFLICT-01 résolu : erreur du modèle) |
+| Hillbilly sprint | ~10,1 / ~12 m/s | [7] | OK (CONFLICT-02 résolu) |
+| Hillbilly Overdrive (20 s, décharge après 8 s) | présent | [7] | OK |
+| Hillbilly « blessé = moins exposé à la tronçonneuse » | conseil de counterplay | logique de jeu (tout coup met un blessé à terre) | IMPRÉCIS / trompeur |
+| Hag TR | 24 m | [10] (1.9.3) | OK (CONFLICT-03 résolu : erreur du modèle) |
+| Hag pièges (10, 1,9 s, 2,7 m, 48 m, faux TR 8 m, effacement 4 s) | présent | [10] | OK |
+| Hag « effacer les pièges à la lampe » | présent (2 fois) | [10] : supprimé en 6.7.0 | FAUX (OBSOLETE) |
+| Hag « Disfigured Ear / Dead Hand améliorent le déclenchement » | présent | [10] : Disfigured Ear = Deafened 6 s ; Dead Hand absent | FAUX |
+| Hag Mint Rag « n'importe quel piège » | présent | [10] : piège **non déclenché**, CD 10 s | IMPRÉCIS |
+| Trapper Haste post-pose 7,5 % 5 s | présent | [5] + [14] | OK |
+| Trapper patch 9.5 (hitbox, placements) | présent | [17] | OK (VERIFIED_PRIMARY) |
+| Wraith invisibilité > 20 m, sursaut 6,9 m/s 1 s, Surprise Attack 5 s | présent | [6] | OK |
+| Wraith « la cloche s'entend dans toute la carte » | présent | [6] : tintement 24 m, souffle 40 m | FAUX |
+| Wraith « lampe/pétard interrompt la désoccultation » | présent (« selon les réglages ») | [6] : Lightburn supprimé en 6.7.0 | FAUX (OBSOLETE) |
+| Wraith add-on Soot (9.5) | présent | [17] + [6] | OK (VERIFIED_MULTI_SOURCE) |
+| Nurse 2 blinks 20/12 m, fatigue | présent | [8] | OK |
+| Nurse Heavy Panting nerf 9.6.0 | présent | [18] + [8] | OK (VERIFIED_MULTI_SOURCE) |
+| Nurse « Matchbox = charge de blink plus rapide » | présent | [8] : 4,4 m/s + 1 seul blink | FAUX |
+| Nurse « Ataxic Respiration (portée) » | présent | [8] : fatigue −7 % | FAUX |
+| Nurse « 10.1 : blinks hors carte corrigés » | présent | [20] [21] | OK (VERIFIED_PRIMARY) |
 | Build/kill rates NightLight par tueur | chiffres sans n | audit : « ~70 kill rates NightLight par tueur sans n » | IMPRÉCIS (audit) |
 
 ## Questions ouvertes
 
-1. **Relancer ce lot avec WebSearch** (quota épuisé le 27/09/2026) : les 7 tueurs sont à re-vérifier ; priorité aux valeurs à fort impact survivant : TR Hillbilly et Hag, sprint/Overdrive Hillbilly, exécution Shape en EI, Madness III et Static Blast (Doctor), Haste post-pose et libération du piège (Trapper).
-2. Contenu exact du buff Doctor 9.6.0 (l'audit le cite sans valeurs).
-3. Changements 9.x-10.x non relevés par l'audit sur Trapper, Wraith, Nurse, Hag (le seed mentionne 9.5 / 9.6.0 / 10.1 sans source).
-4. Effets LIVE exacts des add-ons cités (Tar Bottle, Iridescent/Honing Stone, Bone Clapper, Windstorm, Swift Hunt, Serpent – Soot, Apex Muffler, LoPro Chains, Matchbox, Campbell's, Judith's/Tombstone, Scratched Mirror, Fragrant Tuft, Mint Rag, Rusty Shackles, Interview Tape, High Stimulus Electrode, Carter's Notes).
+1. Mécanique exacte de la casse de palette **sans add-on** par la tronçonneuse du Hillbilly (CONFLICT-L4G1-05).
+2. Nurse : peut-elle vaulter les fenêtres ? (non dit par la page lue ; [MÉM] « non », UNCERTAIN).
+3. Effet de Spine Chill (LIVE et PTB 10.2.0) contre un Wraith occulté / une Shape en Stalker (Undetectable) ; interaction de Calm Spirit avec les cris de Madness du Doctor.
+4. Fréquences réelles de perks et d'add-ons par tueur (les listes « Perks fréquentes » restent [SEED-NRV]).
 5. Guides de counterplay survivant écrits par des experts (à étiqueter EXPERT_OPINION) : non consultés.
-6. Mécanique lampe/pétard vs désoccultation du Wraith au LIVE.
-7. Fréquence réelle de la Shape en partie depuis le retrait boutique (19/01/2026).
+6. Fréquence réelle de la Shape en partie depuis le retrait boutique (19/01/2026).
+7. À la sortie de 10.2.0 : revoir Agitation (Trapper), Iron Grasp, Distressing, Spine Chill, Calm Spirit, Borrowed Time, et vérifier qu'aucun des 7 pouvoirs n'est modifié (notes PTB [23] non appliquées ici).
 
 ## Sources
 
-[1] Audit phase 0 du projet — `/home/user/dbd_guide/kb/seed/audit_phase0.txt` (tableau des patchs 9.2.0 → 10.1.2a, « Référence vérifiée ») — consulté le 27/09/2026 (fichier local, pas via WebSearch).
-[2] Guide seed, chapitre 8 — `/home/user/dbd_guide/kb/seed/ch8_killers.txt` l. 1-546 — consulté le 27/09/2026 (fichier local ; brouillon non fiable).
+[1] Audit phase 0 du projet — `/home/user/dbd_guide/kb/seed/audit_phase0.txt` — consulté le 27/09/2026 (fichier local).
+[2] Guide seed, chapitre 8 — `/home/user/dbd_guide/kb/seed/ch8_killers.txt` l. 257-546 — consulté le 27/09/2026 (fichier local ; brouillon non fiable).
 [3] Brief des agents — `/home/user/dbd_guide/kb/research/AGENT_BRIEF.md` — consulté le 27/09/2026.
 [4] Registre des contenus obsolètes — `/home/user/dbd_guide/kb/ledgers/OUTDATED_CONTENT_REPORT.md` (D-092) — consulté le 27/09/2026.
-- Aucune source web : quota WebSearch épuisé (0 recherche aboutie). [MÉM] = connaissance du modèle (antérieure à mi-2026), non citée comme source.
+[5] Evan MacMillan (The Trapper) — https://deadbydaylight.wiki.gg/wiki/Evan_MacMillan — page complète via API, consultée le 27/09/2026 (`kb/sources/wiki_killers/Evan_MacMillan.txt`).
+[6] Philip Ojomo (The Wraith) — https://deadbydaylight.wiki.gg/wiki/Philip_Ojomo — idem (`Philip_Ojomo.txt`).
+[7] Max Thompson Jr. (The Hillbilly) — https://deadbydaylight.wiki.gg/wiki/Max_Thompson_Jr. — idem (`Max_Thompson_Jr_.txt`).
+[8] Sally Smithson (The Nurse) — https://deadbydaylight.wiki.gg/wiki/Sally_Smithson — idem (`Sally_Smithson.txt`).
+[9] Michael Myers (The Shape) — https://deadbydaylight.wiki.gg/wiki/Michael_Myers — idem (`Michael_Myers.txt`).
+[10] Lisa Sherwood (The Hag) — https://deadbydaylight.wiki.gg/wiki/Lisa_Sherwood — idem (`Lisa_Sherwood.txt`).
+[11] Herman Carter (The Doctor) — https://deadbydaylight.wiki.gg/wiki/Herman_Carter — idem (`Herman_Carter.txt`).
+[12] Pallets — https://deadbydaylight.wiki.gg/wiki/Pallets — page complète via API (`kb/tools/wiki_text.py`), consultée le 27/09/2026.
+[13] 9.2.0 | Sinister Grace — https://forums.bhvr.com/dead-by-daylight/kb/articles/523 — note officielle BHVR, copie locale consultée le 27/09/2026.
+[14] 9.2.3 | Bugfix Patch — https://forums.bhvr.com/dead-by-daylight/kb/articles/526 — idem.
+[15] 9.3.0 | Mid-Chapter — https://forums.bhvr.com/dead-by-daylight/kb/articles/529 — idem.
+[16] 9.4.0 | Stranger Things Chapter 2 — https://forums.bhvr.com/dead-by-daylight/kb/articles/534 — idem.
+[17] 9.5.0 | All-Kill: Comeback — https://forums.bhvr.com/dead-by-daylight/kb/articles/538 — idem.
+[18] 9.6.0 | Patch Notes — https://forums.bhvr.com/dead-by-daylight/kb/articles/544 — idem.
+[19] 9.6.1 | Bugfix Patch — https://forums.bhvr.com/dead-by-daylight/kb/articles/545 — idem.
+[20] 10.1.0 | Chorus of Sin — https://forums.bhvr.com/dead-by-daylight/kb/articles/556 — idem.
+[21] Autres notes officielles (correctifs et 10.0.0) — 9.0.0 https://forums.bhvr.com/dead-by-daylight/kb/articles/510 ; 9.1.0 …/516 ; 9.1.1 …/517 ; 9.1.2 …/519 ; 9.2.1 …/524 ; 9.2.2 …/525 ; 9.3.2 …/530 ; 9.4.2 …/536 ; 9.5.1 …/539 ; 10.0.0 …/550 ; 10.0.1 …/551 ; 10.0.2 …/552 ; 10.0.3 …/553 ; 10.1.1 …/557 ; 10.1.2 …/558 — copies locales consultées le 27/09/2026.
+[22] FAQ | The Halloween content — https://forums.bhvr.com/dead-by-daylight/kb/articles/531 — idem.
+[23] 10.2.0 PTB Patch Notes — https://forums.bhvr.com/dead-by-daylight/kb/articles/559 — **PTB, non LIVE**, non utilisé pour les valeurs.
+- [MÉM] = connaissance du modèle, non citée comme source ; ne subsiste que pour la question ouverte n° 2.

@@ -6,7 +6,7 @@
 - Méthode initiale (lot 2) : WebSearch uniquement (résumés). **Re-vérification lot 12a (27/09/2026)** : description LIVE 10.1.2a et change log 8.x-10.x des pages wiki.gg complètes (via API MediaWiki, `kb/sources/wiki_perks_digest.md`, brut `wiki_perks.json`) [23]-[49], croisées avec les notes officielles BHVR 9.x-10.x lues en local (`kb/sources/patches/official_*.txt`) [50]-[57]. Confiance : STRONG_SECONDARY (page wiki complète) ; VERIFIED_MULTI_SOURCE si une note officielle concorde ; VERIFIED_PRIMARY quand la note officielle contredit le wiki et fait foi (Built to Last).
 - Historique : au lot 2, le quota WebSearch avait laissé 9 perks sans aucune recherche (+ LIVE de Borrowed Time / Stake Out) ; elles sont toutes re-vérifiées ici et les mentions « NON VÉRIFIÉ » sont retirées.
 - Notes de valeur (0-3) = **HEURISTIC** (avis d'analyste, pas des données).
-- PTB 10.2.0 : la note officielle 559 complète a été lue en local ; seules Empathic Connection, Self-Preservation, Stake Out et Borrowed Time de cette page y figurent.
+- PTB 10.2.0 : la note officielle 559 complète a été lue en local ; seules Empathic Connection, Self-Preservation, Stake Out et Borrowed Time de cette page y figurent. Piège du digest (page wiki affichant déjà le PTB) contrôlé pour ces 4 perks : leur LIVE vient de l'historique wiki (9.0.0, 9.5.0, 3.7.0, 6.1.0) ; elle concorde avec les lignes « was … » de la 559 pour Empathic Connection et Self-Preservation ; Stake Out et Borrowed Time sont des « (Rework) » sans ligne « was », leur LIVE repose donc sur l'historique wiki seul et concorde avec le seed.
 
 ---
 
@@ -19,7 +19,7 @@
 - **Synergies (HEURISTIC / EXPERT OPINION)** : Commodious Toolbox / médikit rare, Streetwise, Inner Strength (casier), Plunderer's Instinct (HYPOTHESIS).
 - **Difficulté (HEURISTIC)** : 1
 - **Valeur (HEURISTIC, 0-3)** : SoloQ 1 · SWF 1 · chase 0 · macro 1 · info 0 · anti-tunnel 0 · soin 1 · gen 1 · endgame 0
-- **Quand elle produit de la valeur (HEURISTIC)** : objets à gros impact répétés (toolbox sur gen, médikit, lampe) quand le tueur est loin — le coût de 8-12 s en casier est alors marginal.
+- **Quand elle produit de la valeur (HEURISTIC)** : objets à gros impact répétés (toolbox sur gen, médikit, lampe) quand le tueur est loin — le coût de 10-14 s en casier est alors marginal.
 - **Quand elle n'en produit pas (HEURISTIC)** : contre tueurs à forte pression/fouille de casiers ; sans objet de valeur ; en fin de partie.
 - **Écart avec le seed** : **OK** (14/12/10 s, conforme à la note officielle 9.1.0 [51] ; le verdict « FAUX » du lot 2, fondé sur des résumés du wiki, est **retiré**). IMPRÉCIS mineur : « 33 % de moins à chaque utilisation » est correct en substance (99/66/33), mais le seed omet la désactivation après la 3e.
 - **Sources** : [1] [2] [23] [51]

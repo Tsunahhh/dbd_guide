@@ -4,7 +4,7 @@
 >
 > Rappels de l'audit : toutes les consignes sont des **HEURISTIC** (option par défaut, à varier contre un tueur qui l'anticipe) ; le **pré-drop n'est pas universel** (voir `KILLER_COUNTERPLAY_HANDBOOK.md` §2.2) ; les lignes « Équipe » qui supposent une répartition des rôles demandent le vocal (SWF) — en SoloQ, les appliquer seulement sur signaux observables ; aucune fiche n'a encore de rubrique DRILL ni d'interactions perks survivant ↔ pouvoir vérifiées.
 
-**Couverture : 8/8 tueurs re-vérifiés sur page wiki complète (27/09/2026), dont 24 points confirmés par note officielle** (lot 12b ; détail dans « Claims » : lignes VERIFIED_PRIMARY / VERIFIED_MULTI_SOURCE).
+**Couverture : 8/8 tueurs re-vérifiés sur page wiki complète (27/09/2026), dont 23 points confirmés par note officielle** (lot 12b ; détail dans « Claims » : lignes VERIFIED_PRIMARY / VERIFIED_MULTI_SOURCE).
 
 - Référence : LIVE 10.1.2a (17/09/2026) ; PTB 10.2.0 (15-21/09/2026) **non LIVE**, toujours étiqueté PTB. Date de travail : 27/09/2026.
 - Périmètre : Trickster, Nemesis, Cenobite, Artist, Onryō, Dredge, Mastermind, Knight.
@@ -369,30 +369,46 @@
 
 ## Claims
 
-Calculs dérivés (audit pass 14) : Trickster 4,4 vs 4,0 m/s → il reprend 0,4 m/s (10 m en 25 s, contre 16,7 s pour un tueur à 4,6 m/s) ; décroissance de Laceration ≈ 16 s + n × 4,4 s (n = charges, partie 4,4 s UNCERTAIN) ; 66 s d'arrêt × 3 réparateurs = 198 s-survivant ≈ 2,2 gens solo ; Nightfall 60 s [SEED] < phase de crochet 70 s [AUDIT].
+Calculs dérivés (valeurs vérifiées lot 12b) : Trickster 4,4 vs 4,0 m/s → il reprend 0,4 m/s (10 m en 25 s, contre 16,7 s pour un tueur à 4,6 m/s) ; en volée il descend à 3,86 → 3,53 → 3,16 m/s [3][17] (tu gagnes 0,14 → 0,47 → 0,84 m/s) ; décroissance de Laceration ≈ 16 s + n × 4,4 s (n = charges) [3] ; 66 s d'arrêt × 3 réparateurs = 198 s-survivant ≈ 2,2 gens solo ; Nightfall 60 s [8] < phase de crochet 70 s [AUDIT] (80 s avec Broken Doll > 70 s) ; Uroboros 20 → 100 à 0,8/s = 100 s [9].
+
+Comptage « confirmés par note officielle » (ligne de couverture) = lignes VERIFIED_PRIMARY + VERIFIED_MULTI_SOURCE ci-dessous : 23.
 
 | ID | Claim | Source | Patch | Confiance |
 |---|---|---|---|---|
-| G4-01 | Trickster 4,4 m/s (was 4,6) | [2] | 9.5.0 | STRONG_SECONDARY (via audit) |
-| G4-02 | Trickster TR 24 m, 44 m au rang S (was 32 m) | [2] | 9.5.0 | STRONG_SECONDARY (via audit) |
-| G4-03 | Trickster 36 lames (was 44), Main Event au rang max seulement | [2] | 9.5.0 | STRONG_SECONDARY (via audit) |
-| G4-04 | Laceration : décroissance après 16 s | [2] | 9.5.2 | STRONG_SECONDARY (via audit) |
-| G4-05 | Laceration : −1 charge / 4,4 s ; rang S 66 s ; Main Event 10 s ×1,67 | [1] | ? | UNCERTAIN (seed) |
-| G4-06 | Eruption : perte 5 % (was 10 %) — contestée (annulation LIVE possible, conflit Eruption du lot 3) | [2] | 9.2.0 | UNCERTAIN |
-| G4-07 | Nemesis tentacle 5 / 6,5 m, cooldown 2,25 s, MR2 5 pts / MR3 15 pts | [1] | ? | UNCERTAIN (seed) |
-| G4-08 | Perks Hellraiser renommées : Deadlock → No Holds Barred, Plaything → Fortune's Fool, Gift of Pain → Weeping Wounds | [2] | 9.0.0 | STRONG_SECONDARY (via audit) |
-| G4-09 | Cenobite Chain Hunt à 90 s, chaîne retirée en 1 s, portail 16 m | [1] | ? | UNCERTAIN (seed) |
-| G4-10 | Artist : 3 corbeaux, 2e touche sur Swarmed = blessure, retrait 8 s | [1] | ? | UNCERTAIN (seed) |
-| G4-11 | Call of Brine 30/40/50 % pendant 90 s | [2] | 10.1.0 | STRONG_SECONDARY (via audit) |
-| G4-12 | Onryō : 7 stacks Condemned = mori ; cassette −3 stacks | [1] | ? | UNCERTAIN (seed) |
-| G4-13 | Dredge buffé | [2] | 9.6.0 | STRONG_SECONDARY (via audit) ; contenu UNCERTAIN |
-| G4-14 | Dredge Nightfall 60 s ; 4 m/s en charge de téléportation | [1] | 9.6.0 ? | UNCERTAIN (seed) |
-| G4-15 | Mastermind buffé | [2] | 9.6.0 | STRONG_SECONDARY (via audit) ; contenu UNCERTAIN |
-| G4-16 | Virulent Bound et gardes du Knight cassent les palettes instantanément | [2] (wiki Pallets) | — | STRONG_SECONDARY (via audit), à reconfirmer ; pour le Knight, le changement 10.1.1 « gardes et palettes » a pu modifier ce point |
-| G4-17 | Knight buffé en 9.1.0 ; modifié (gardes et palettes) en 10.1.1 | [2] | 9.1.0 / 10.1.1 | STRONG_SECONDARY (via audit) ; contenu UNCERTAIN |
-| G4-18 | Nowhere to Hide LIVE : 24 m autour du gen, 3/4/5 s (18 m = PTB) | [2] | 10.1.0 | STRONG_SECONDARY (via audit) |
-| G4-19 | No Way Out : 12 s + 6/9/12 s par jeton | [2] (wiki Exit Gates) | — | STRONG_SECONDARY (via audit) |
-| G4-20 | Dissolution : attaque de base seulement | [1] seul (absent de l'audit) | PTB 10.2.0 (annoncé par le seed) | PTB (non LIVE), UNCERTAIN — existence du changement non vérifiée |
+| G4-01 | Trickster 4,4 m/s (was 4,6) | [3][17] | 9.5.0 | VERIFIED_MULTI_SOURCE |
+| G4-02 | Trickster TR 24 m, 44 m au rang S (was 32 m) ; berceuse 44 m, coupée au rang S | [3][17] | 9.5.0 | VERIFIED_MULTI_SOURCE (berceuse : STRONG_SECONDARY [3]) |
+| G4-03 | Trickster 36 lames (was 44), Main Event au rang S seulement | [3][17] | 9.5.0 | VERIFIED_MULTI_SOURCE |
+| G4-04 | Laceration : décroissance après 16 s (was 12) sans touche, puis −1 charge / 4,4 s ; 6 charges = 1 état ; attaque de base −3 charges | [3][17][19] | 9.5.0 / 9.5.2 | VERIFIED_MULTI_SOURCE |
+| G4-05 | Rang S 66 s (non rafraîchissable, en pause pendant Main Event) ; Main Event 10 s ×1,67, cooldown 4 s, interdit à < 20 m d'un accroché ; Laceration figée au rang S | [3][17][18] | 9.5.0 / 9.5.1 | VERIFIED_MULTI_SOURCE |
+| G4-05b | Vitesse de lancer 3,86 / 3,53 / 3,16 m/s (après 0 / 5 / 10 lames) ; Main Event 3,92 m/s | [3][17] | 9.5.0 | VERIFIED_MULTI_SOURCE |
+| G4-05c | Add-ons Trickster 9.5.2 : Bloody Boa −75 %, Death Throes 75 %, Waiting For You Watch 10 s, On Target Single 0,5 s/touche max 20 s | [3][19] | 9.5.2 | VERIFIED_MULTI_SOURCE |
+| G4-06 | Eruption LIVE : −10 % + régression, auras 8/10/12 s, cooldown 30 s ; le 10 → 5 % de 9.2.0 a été annulé avant le LIVE | [4][14] | 9.2.0 | VERIFIED_MULTI_SOURCE |
+| G4-07 | Nemesis tentacule 5 / 6,5 m (MR3), charge 0,35 s, cooldown 2,25 s, Hindered 20 % 2 s ; MR2 5 pts / MR3 14-15 pts ; frappe ne casse pas et ne touche pas en même temps | [4] | 5.2.0 → LIVE | STRONG_SECONDARY |
+| G4-07b | Nemesis 2v8 : 4 zombies, +35 % de vitesse de zombie | [4][16] | 9.4.2 | VERIFIED_MULTI_SOURCE (2v8 uniquement) |
+| G4-08 | Perks Hellraiser renommées : Deadlock → No Holds Barred, Plaything → Fortune's Fool, Gift of Pain → Weeping Wounds | [11] | 9.0.0 | VERIFIED_PRIMARY |
+| G4-09 | Cenobite : Chain Hunt à 90 s, chaîne retirée en 1 s, Gateway 16 m, chaîne pilotée 24 m, 3 chaînes, portes bloquées + 5 s, téléportation 3,25 s à 10-12 m | [5] | LIVE | STRONG_SECONDARY |
+| G4-09b | Cenobite : chapitre retiré des boutiques le 4 mars 2025 (13 mars eShop) | [5] | — | STRONG_SECONDARY |
+| G4-09c | Original Pain : aura 8 s après avoir arraché une chaîne | [5][15] | 9.3.0 | VERIFIED_MULTI_SOURCE |
+| G4-10 | Artist : 3 corbeaux, trajectoire 7,5 m puis Swarm qui traverse les obstacles ; 2e touche sur Swarmed = blessure ; retrait 8 s ou casier ; recharge 5/9/12 s ; accroupi = pas de Killer Instinct | [6] | LIVE | STRONG_SECONDARY |
+| G4-10b | Artist : add-ons du PTB 9.0.0 annulés ; correctifs 9.0.2 (corbeau sur Swarmed = perte de santé) | [11][12] | 9.0.0 / 9.0.2 | VERIFIED_PRIMARY |
+| G4-11 | Call of Brine 130/140/150 % de régression pendant 90 s (was 70) | [7][21] | 10.1.0 | VERIFIED_MULTI_SOURCE |
+| G4-12 | Onryō : TR 24 m, petite ; 7 stacks = mori ; cassette −3 stacks ; verrouillage 3/6 ; projection +1 stack à ≤ 16 m de toute TV allumée ; 6,9 m/s 2 s ; pas de stun démanifestée | [7] | 7.5.1 → LIVE | STRONG_SECONDARY |
+| G4-12b | Onryō parfois visible à > 24 m démanifestée (problème connu) | [21] | 10.1.0 | VERIFIED_PRIMARY (bug, pas un design) |
+| G4-13 | Dredge 9.6.0 : vitesse en charge de Reign of Darkness 3,8 → 4,0 m/s (seul changement) | [8][20] | 9.6.0 | VERIFIED_MULTI_SOURCE |
+| G4-14 | Dredge : Nightfall 60 s (300 charges, décharge 60 à −1/s) ; 3 jetons ; sortie de casier verrouillé 2,25 s ; +6/s quand **le Dredge** est caché | [8] | LIVE | STRONG_SECONDARY |
+| G4-15 | Mastermind 9.6.0 : récupération 2,7 s (was 3), jeton 5 s (was 5,5), fenêtre Chain Bound 2,5 s (was 2), Loose Crank 15 %, Egg (Gold) 20 % | [9][20] | 9.6.0 | VERIFIED_MULTI_SOURCE |
+| G4-15b | Mastermind TR 40 m ; Hindered 4 % en infection critique ; 6 caisses, spray 2 usages, KI 4 s | [9] | LIVE | STRONG_SECONDARY |
+| G4-15c | Refonte technique de Virulent Bound (désynchronisation) | [17] | 9.5.0 | VERIFIED_PRIMARY |
+| G4-16 | **Virulent Bound franchit (special-vault) les palettes, ne les casse pas** (casse seulement avec Lab Photo) ; **les gardes du Knight cassent par ordre de garde en 1,8 s / 5 s**, pas instantanément — l'affirmation antérieure (audit [2], wiki Pallets) est fausse | [9][10][17] | 9.5.0 → LIVE | VERIFIED_MULTI_SOURCE |
+| G4-17 | Knight 9.1.0 : tracé 38 m, 15 m/s ; changements d'étendards annulés | [10][13] | 9.1.0 | VERIFIED_MULTI_SOURCE |
+| G4-17b | Knight 10.1.1 : palette baissée à ≥ 3 m d'un garde qui chasse → contournement ; détour > 48 m → fin de chasse ; baissée sur lui → il passe à travers | [10][22] | 10.1.1 | VERIFIED_MULTI_SOURCE |
+| G4-17c | Knight : étendard = Haste 50 % + Endurance 3 s ; unhook par le chassé = fin de chasse ; Knight à ≤ 8 m du garde = minuteur ×3 ; Carnifex 20 s / Assassin 4,4 m/s, Deep Wound, 30 s / Jailer 16 m, 24 s, 25 s | [10] | LIVE | STRONG_SECONDARY |
+| G4-18 | Nowhere to Hide LIVE : 24 m autour du gen, 3/4/5 s (18 m = PTB 10.1.0) | [10][21] | 10.1.0 | VERIFIED_MULTI_SOURCE |
+| G4-19 | No Way Out : 12 s + 6/9/12 s par jeton, max 36/48/60 s | [3] | LIVE | STRONG_SECONDARY |
+| G4-19b | Hex: Crowd Control : chaque fast vault de fenêtre la bloque, limite 4/5/6 | [3] | LIVE (rework 9.5.0 selon [2]) | STRONG_SECONDARY |
+| G4-20 | Dissolution PTB 10.2.0 : attaque de base seulement, 13/14/15 s ; **LIVE : n'importe quel dégât, 12/16/20 s** (la page wiki Dredge affiche déjà le texte PTB sans bandeau) | [23] (+ [8]) | PTB 10.2.0 | VERIFIED_PRIMARY (changement PTB, non LIVE) |
+| G4-21 | Superior Anatomy LIVE : 12 m, prochain vault plus rapide, cooldown 25 s ; PTB 10.2.0 : 30/35/40 % pendant 10 s, cooldown 20 s | [11][23] (+ [9] PTB) | 9.0.0 / PTB 10.2.0 | VERIFIED_PRIMARY |
+| G4-22 | Hex: Pentimento : −20 % au 1er totem, jusqu'à 24/28/32 % à 5 | [6] | LIVE | STRONG_SECONDARY |
 
 ## Conflits
 
@@ -400,19 +416,34 @@ Calculs dérivés (audit pass 14) : Trickster 4,4 vs 4,0 m/s → il reprend 0,4 
 - Source A : seed [1] fiche Trickster — « 12 s par token (jusqu'à 60 s environ) ».
 - Source B : audit [2] (wiki.gg Exit Gates) — « 12 s + 6/9/12 s par jeton ».
 - Hypothèse : le seed confond base et bonus par token.
-- Résolution : B prévaut (source vérifiée par un lot antérieur) ; à reconfirmer avec le lot 3 (perks tueur).
+- Résolution : **RÉSOLU** — B confirmé : « Blocks both Exit Gate Switches for 12 seconds. This time is extended by an additional 6/9/12 seconds per accumulated Token, up to a combined maximum of 36/48/60 seconds » (page Trickster [3], perk No Way Out). Le « ~60 s » du seed n'est juste qu'au rang III avec 4 jetons.
 
 #### CONFLICT-L4G4-02 : Artist — les murs protègent-ils des corbeaux ?
 - Source A : seed [1] — « le corbeau traverse les murs ».
 - Source B : seed [1], même fiche — « coupez la ligne de corbeau (…) pas le décor vertical très épais ».
 - Hypothèse : contradiction interne ; « décor vertical très épais » n'a pas de référence connue.
-- Résolution : UNRESOLVED (pas de vérification web possible).
+- Résolution : **RÉSOLU** — A confirmé : un Dire Crow qui heurte un obstacle pendant sa trajectoire de 7,5 m devient un Swarm, et « Swarms continue travelling across the environment, while passing through any environmental obstacles » (page Artist [6]). Aucun décor, épais ou non, ne bloque le Swarm ; B est faux.
 
 #### CONFLICT-L4G4-03 : TR de l'Onryō et du Mastermind
 - Source A : seed [1] — Onryō 24 m, Mastermind 40 m.
-- Source B : connaissance du modèle (antérieure à mi-2026), UNCERTAIN — valeurs plus courantes de 32 m pour ces deux tueurs (souvenir non sourcé).
-- Hypothèse : erreur du seed ou changement de patch non connu.
-- Résolution : UNRESOLVED.
+- Source B : connaissance du modèle (antérieure à mi-2026), UNCERTAIN — 32 m pour ces deux tueurs.
+- Résolution : **RÉSOLU** — A confirmé : infobox « Terror Radius 24 metres », « Lullaby Radius 24 metres (Otherworld) » (page Onryō [7]) ; « Terror Radius 40 metres » (page Mastermind [9]). La connaissance du modèle était fausse.
+
+#### CONFLICT-L4G4-04 : Eruption (10 % ou 5 %)
+- Source A : audit [2] (registre de patchs) — 10 → 5 % en 9.2.0.
+- Source B : lot 3 (batch3_perks_kill_p91) — changement PTB annulé en LIVE.
+- Résolution : **RÉSOLU** — B confirmé : note officielle 9.2.0 [14] « Reverted the perk changes associated with this update. Notably: … Eruption … » ; page Nemesis [4] : « Instantly regresses them by -10 % ». LIVE = 10 %.
+
+#### CONFLICT-L4G4-05 : Pentimento — totems ravivés bénissables ?
+- Source A : audit [2] (wiki Totems) — totems ravivés par Pentimento non bénissables.
+- Source B : texte de la perk sur la page Artist [6] — « The Hex Effects persist until the Hex Totem is either blessed or cleansed by a Survivor ».
+- Hypothèse : la phrase de [6] est la formule générique des Hex, peut-être non adaptée aux totems ravivés.
+- Résolution : UNRESOLVED (lire la page wiki « Hex: Pentimento » ou « Totems » complète).
+
+#### CONFLICT-L4G4-06 : casse de palette « instantanée » par Virulent Bound et par les gardes du Knight
+- Source A : audit [2] (wiki Pallets) — Virulent Bound et gardes du Knight dans la liste des casses instantanées.
+- Source B : page Mastermind [9] (« Colliding with a dropped Pallet or a Window during a Bound Attack causes The Mastermind to automatically vault over it » ; casse seulement avec l'add-on Lab Photo) ; note 9.5.0 [17] (Mastermind = « Special-vault », Knight = « Special-break ») ; page Knight [10] (ordre de garde : 1,8 s Carnifex, 5 s Assassin/Jailer).
+- Résolution : **RÉSOLU** — B prévaut : le Mastermind **franchit** les palettes en base ; les gardes cassent via un ordre de garde qui prend du temps. L'entrée de l'audit est fausse pour ces deux tueurs (à corriger dans les ledgers par le lot qui les tient ; ce fichier ne les modifie pas).
 
 ## Écarts avec le guide seed
 

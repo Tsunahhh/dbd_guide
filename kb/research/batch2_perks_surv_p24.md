@@ -4,6 +4,7 @@
 
 - Référence : LIVE 10.1.2a (17/09/2026). PTB 10.2.0 (15-21/09/2026) = **non LIVE**, signalé à part.
 - Méthode initiale (lot 2) : WebSearch uniquement (résumés). **Re-vérification lot 12a (27/09/2026)** : description LIVE 10.1.2a et change log 8.x-10.x des pages wiki.gg complètes (via API MediaWiki, `kb/sources/wiki_perks_digest.md`, brut `wiki_perks.json`) [28]-[50], croisées avec les notes officielles BHVR 9.x-10.x lues en local (`kb/sources/patches/official_*.txt`) [51]-[61]. Confiance : STRONG_SECONDARY (page wiki complète) ; VERIFIED_MULTI_SOURCE si une note officielle concorde.
+- Piège du digest (page wiki affichant déjà le PTB) : contrôlé pour les perks de ce fichier citées dans la note 559 — We'll Make It et Shoulder the Burden ont une LIVE tirée de l'historique wiki (4.0.2, 8.4.0) qui concorde avec les lignes « was … » de la 559 ; Head On n'y figure que pour un correctif de bug.
 - Notes de valeur = **HEURISTIC**.
 - Périmètre (23 perks) : Distortion, Reassurance, We'll Make It, Plot Twist, Shoulder the Burden, Boon: Circle of Healing, Boon: Shadow Step, Boon: Exponential, Boon: Steadfast, Botany Knowledge, Vigil, Wicked, Overcome, Hope, Fixated, Dramaturgy, Flashbang, Balanced Landing, Head On, Quick & Quiet, Deception, Blast Mine, Smash Hit.
 
