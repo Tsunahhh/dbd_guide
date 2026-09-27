@@ -33,7 +33,7 @@ Périmètre (18 perks, seed ch9 l. 128-230) : Dead Man's Switch, Eruption, Hex: 
 
 ### Eruption — The Nemesis
 - **Statut / catégorie** : LIVE 10.1.2a · slowdown (perte instantanée) + info
-- **Effet LIVE + valeurs** : l'action « endommager un générateur » (coup de pied) surligne le gen en jaune pour le tueur. Quand un survivant passe à l'état mourant (par n'importe quel moyen), tous les gens surlignés explosent et régressent. Les survivants qui réparent crient et leur aura est révélée. Il n'y a plus d'Incapacitated dans la version actuelle [4][5]. **Perte : 10 % selon la page perk du wiki (via résumé), 5 % selon un résumé des notes 9.2.0** → CONFLICT-K91-01, **UNRESOLVED**. Durée de l'aura et temps de recharge (seed : 8/10/12 s, 30 s) : non vérifiés, UNCERTAIN.
+- **Effet LIVE + valeurs** : l'action « endommager un générateur » (coup de pied) surligne le gen en jaune pour le tueur. Quand un survivant passe à l'état mourant (par n'importe quel moyen), tous les gens surlignés explosent et régressent. Les survivants qui réparent crient et leur aura est révélée. Il n'y a plus d'Incapacitated dans la version actuelle [4][5]. **Perte : 10 % selon la page perk du wiki (via résumé), 5 % selon un résumé des notes 9.2.0** → CONFLICT-K91-01, **UNRESOLVED**. Durée de l'aura et temps de recharge (8/10/12 s, 30 s) : seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN.
 - **PTB 10.2.0** : UNCERTAIN (non vérifié, quota épuisé ; les 58 perks modifiées n'ont pas été lues).
 - **Indice observable (survivant)** (HEURISTIC) : tu **cries** en réparant, pile au moment où quelqu'un tombe. Le gen explose (étincelles, barre qui recule, régression). L'icône « aura révélée » n'existe pas : ton aura est visible sans que tu le saches.
 - **Soupçonner** (HEURISTIC) : cri pendant la réparation au moment exact d'une mise au sol + gen qui recule → Eruption quasi certaine (Surge : seulement si le coup est une attaque de base, et dans un rayon de 32 m).
@@ -41,7 +41,7 @@ Périmètre (18 perks, seed ch9 l. 128-230) : Dead Man's Switch, Eruption, Hex: 
 - **Adaptation robuste** (HEURISTIC) : sur un gen déjà frappé (entourage jaune invisible pour toi, mais tu as pu voir le coup de pied), lâche le gen quand un coéquipier va tomber (poursuite qui tourne mal). Préfère les gens jamais frappés.
 - **Counterplay** (HEURISTIC) : lire les poursuites (Kindred, cris) et lâcher le gen **avant** la mise au sol : pas de cri, pas d'aura révélée. Un survivant slugué déclenche Eruption : un ramassage rapide limite le slug.
 - **Erreurs à ne pas faire** (HEURISTIC) : rester sur un gen frappé pendant que le porteur de poursuite est blessé et coincé en zone morte.
-- **Menace (HEURISTIC)** : SoloQ 2 / SWF 1,5.
+- **Menace (HEURISTIC 0-3)** : SoloQ 2 / SWF 1,5.
 - **Écart avec le seed** : 10 % → **NON VÉRIFIABLE** (conflit 10 / 5 %). « Temps de recharge 30 s », « 8/10/12 s » → NON VÉRIFIABLE. La mention cri + aura (et non Incapacitated) est OK.
 - **Sources** : [4][5][8][9][10]
 
@@ -55,13 +55,13 @@ Périmètre (18 perks, seed ch9 l. 128-230) : Dead Man's Switch, Eruption, Hex: 
 - **Adaptation robuste** (HEURISTIC) : ne pas éparpiller les réparations. Finir les gens entamés, travailler à 2 si ça évite les gens « abandonnés ». Chercher le totem tôt, en passant, sans lâcher un gen presque fini.
 - **Counterplay** (HEURISTIC) : purification (14 s de base, non revérifiée ici), Counterforce, Boon: Circle of Healing / Shadow Step (une bénédiction coupe la Hex). En SWF, 1 joueur part purifier pendant qu'un autre fait tourner la poursuite.
 - **Erreurs à ne pas faire** (HEURISTIC) : tout le monde part chercher le totem (pas de pression sur les gens) ; lâcher un gen à 70 % pour aller « toucher » un autre gen.
-- **Menace (HEURISTIC)** : SoloQ 2,5 / SWF 1,5.
+- **Menace (HEURISTIC 0-3)** : SoloQ 2,5 / SWF 1,5.
 - **Écart avec le seed** : OK (100/125/150 %).
 - **Sources** : [6][7][8]
 
 ### Barbecue & Chilli — The Cannibal
 - **Statut / catégorie** : LIVE 10.1.2a · info/aura
-- **Effet LIVE + valeurs** (seed) : à chaque accrochage, auras des survivants à plus de 60/50/40 m du crochet pendant 5 s. Le seed dit aussi que le bonus de Bloodpoints a été retiré en 6.1.0. **NON VÉRIFIABLE** en session (quota épuisé) ; valeurs et patch du retrait BP : UNCERTAIN.
+- **Effet LIVE + valeurs** (seed) : à chaque accrochage, auras des survivants à plus de 60/50/40 m du crochet pendant 5 s. Le seed dit aussi que le bonus de Bloodpoints a été retiré en 6.1.0. **seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)** — UNCERTAIN (valeurs et patch du retrait BP).
 - **PTB 10.2.0** : UNCERTAIN.
 - **Indice observable (survivant)** (HEURISTIC) : aucun indice direct (pas d'icône). Avec Distortion, un jeton consommé au moment d'un accrochage est un indice fort d'aura (BBQ ou autre). Le tueur file droit vers toi juste après l'accrochage.
 - **Soupçonner** (HEURISTIC) : trajet direct vers toi après chaque crochet, alors que tu étais loin et hors de vue → aura à l'accrochage (BBQ, Floods of Rage s'il s'agit d'un décrochage de Scourge).
@@ -69,7 +69,7 @@ Périmètre (18 perks, seed ch9 l. 128-230) : Dead Man's Switch, Eruption, Hex: 
 - **Adaptation robuste** (HEURISTIC) : au moment d'un accrochage, sois soit **proche** du crochet (sous le seuil), soit **caché** derrière un gros obstacle en ayant bougé ensuite. Casier à l'instant de l'accrochage : non vérifié ici que ça bloque l'aura (règle générale « les casiers bloquent les auras » : UNCERTAIN).
 - **Counterplay** (HEURISTIC) : Distortion. Bouger après la révélation (le tueur voit une position figée de 5 s). Varier les gens pour qu'il ne sache pas lequel pressurer.
 - **Erreurs à ne pas faire** (HEURISTIC) : rester sur le même gen isolé après chaque crochet, en croyant que la distance protège.
-- **Menace (HEURISTIC)** : SoloQ 1,5 / SWF 1.
+- **Menace (HEURISTIC 0-3)** : SoloQ 1,5 / SWF 1.
 - **Écart avec le seed** : NON VÉRIFIABLE (60/50/40 m, 5 s, retrait BP 6.1.0).
 - **Sources** : aucune lue (quota)
 
@@ -83,7 +83,7 @@ Périmètre (18 perks, seed ch9 l. 128-230) : Dead Man's Switch, Eruption, Hex: 
 - **Adaptation robuste** (HEURISTIC) : soigner loin du tueur (au-delà de 32 m) et hors de son trajet. Écourter les soins. Contre un tueur mobile (Nurse, Blight), préférer ne pas se soigner.
 - **Counterplay** (HEURISTIC) : Distortion. Self-care bannis. En SWF, soigner quand le tueur est annoncé en poursuite ailleurs.
 - **Erreurs à ne pas faire** (HEURISTIC) : soigner à côté du crochet ou d'un gen que le tueur patrouille.
-- **Menace (HEURISTIC)** : SoloQ 1,5 / SWF 1.
+- **Menace (HEURISTIC 0-3)** : SoloQ 1,5 / SWF 1.
 - **Écart avec le seed** : OK (28/30/32 m).
 - **Sources** : [14]
 
@@ -97,7 +97,7 @@ Périmètre (18 perks, seed ch9 l. 128-230) : Dead Man's Switch, Eruption, Hex: 
 - **Adaptation robuste** (HEURISTIC) : ne pas mener une poursuite près d'un gen en cours (déjà une bonne règle). Réparer loin des poursuites.
 - **Counterplay** (HEURISTIC) : éloigner les poursuites des gens avancés. Les tueurs à pouvoir (Nurse, Huntress…) déclenchent moins souvent si la chute vient du pouvoir.
 - **Erreurs à ne pas faire** (HEURISTIC) : perdre la poursuite à côté du 3-gen.
-- **Menace (HEURISTIC)** : SoloQ 1,5 / SWF 1.
+- **Menace (HEURISTIC 0-3)** : SoloQ 1,5 / SWF 1.
 - **Écart avec le seed** : **FAUX** pour « Surge (ex-Jolt) », c'est l'inverse (audit). Valeurs NON VÉRIFIABLE.
 - **Sources** : [14]
 
@@ -111,7 +111,7 @@ Périmètre (18 perks, seed ch9 l. 128-230) : Dead Man's Switch, Eruption, Hex: 
 - **Adaptation robuste** (HEURISTIC) : ne pas monter 2 gens proches à haute progression en même temps en attendant qu'un seul pop. Terminer les 2 derniers gens **simultanément** si possible (le blocage vise le plus avancé).
 - **Counterplay** (HEURISTIC) : garder le 2e gen le plus avancé un peu en retrait, et pousser un gen neutre pour « absorber » le blocage. En SWF, synchroniser les pops.
 - **Erreurs à ne pas faire** (HEURISTIC) : quitter tous le gen blocké pour se regrouper au même endroit.
-- **Menace (HEURISTIC)** : SoloQ 1,5 / SWF 1.
+- **Menace (HEURISTIC 0-3)** : SoloQ 1,5 / SWF 1.
 - **Écart avec le seed** : OK pour le nom. Valeurs NON VÉRIFIABLE.
 - **Sources** : [14]
 
@@ -125,7 +125,7 @@ Périmètre (18 perks, seed ch9 l. 128-230) : Dead Man's Switch, Eruption, Hex: 
 - **Adaptation robuste** (HEURISTIC) : ne pas compter sur la distance gagnée après un coup. L'Obsession peut « prendre » des coups pour vider les jetons (surtout en SWF).
 - **Counterplay** (HEURISTIC) : l'Obsession fait des protection hits. Couvrir les décrochages avec l'Obsession proche.
 - **Erreurs à ne pas faire** (HEURISTIC) : se soigner à côté du tueur en comptant sur le temps de récupération.
-- **Menace (HEURISTIC)** : SoloQ 1,5 / SWF 1.
+- **Menace (HEURISTIC 0-3)** : SoloQ 1,5 / SWF 1.
 - **Écart avec le seed** : OK pour 5 %/jeton. Reste NON VÉRIFIABLE.
 - **Sources** : [14]
 
@@ -138,7 +138,7 @@ Périmètre (18 perks, seed ch9 l. 128-230) : Dead Man's Switch, Eruption, Hex: 
 - **Adaptation robuste** (HEURISTIC) : ne pas choisir de loops qui ne tiennent que par la fenêtre (shack, jungle gym simple) ; préférer les palettes. Anticiper la transition vers la tuile suivante.
 - **Counterplay** (HEURISTIC) : forcer le tueur à contourner (tant qu'il ne saute pas, pas de blocage) ; utiliser la fenêtre bloquée pour « ralentir » ses mindgames.
 - **Erreurs à ne pas faire** (HEURISTIC) : revenir en boucle vers une fenêtre qu'il vient de sauter.
-- **Menace (HEURISTIC)** : SoloQ 1,5 / SWF 1,5.
+- **Menace (HEURISTIC 0-3)** : SoloQ 1,5 / SWF 1,5.
 - **Écart avec le seed** : OK pour 8/12/16 s. IMPRÉCIS pour le bonus de saut 5/10/15 % (statut LIVE incertain).
 - **Sources** : [14]
 
@@ -152,7 +152,7 @@ Périmètre (18 perks, seed ch9 l. 128-230) : Dead Man's Switch, Eruption, Hex: 
 - **Adaptation robuste** (HEURISTIC) : purifier les **totems ternes** pendant la partie quand ça ne coûte rien (en passant). En fin de partie : ne pas décrocher sans que les portes soient ouvertes et sans avoir trouvé le totem.
 - **Counterplay** (HEURISTIC) : trouver le totem (aura qui s'élargit) avec 2 survivants pendant que le 3e ouvre. Garder de l'Endurance (Borrowed Time) pour un décrochage sûr.
 - **Erreurs à ne pas faire** (HEURISTIC) : sauvetage « héroïque » Exposed au crochet de sous-sol ; se croire safe blessé.
-- **Menace (HEURISTIC)** : SoloQ 2,5 / SWF 1,5.
+- **Menace (HEURISTIC 0-3)** : SoloQ 2,5 / SWF 1,5.
 - **Écart avec le seed** : NON VÉRIFIABLE (2/3/4 %, 4 → 24 m en 30 s).
 - **Sources** : aucune lue (quota)
 
@@ -166,7 +166,7 @@ Périmètre (18 perks, seed ch9 l. 128-230) : Dead Man's Switch, Eruption, Hex: 
 - **Adaptation robuste** (HEURISTIC) : après un accrochage, ne répare pas un gen en vue du tueur à courte portée. Change de gen ou attends qu'il s'éloigne.
 - **Counterplay** (HEURISTIC) : le tueur doit être proche : c'est du proxy. Réparer loin du crochet.
 - **Erreurs à ne pas faire** (HEURISTIC) : faire le gen à côté du crochet.
-- **Menace (HEURISTIC)** : SoloQ 1,5 / SWF 1.
+- **Menace (HEURISTIC 0-3)** : SoloQ 1,5 / SWF 1.
 - **Écart avec le seed** : NON VÉRIFIABLE.
 - **Sources** : aucune lue (quota)
 
@@ -180,7 +180,7 @@ Périmètre (18 perks, seed ch9 l. 128-230) : Dead Man's Switch, Eruption, Hex: 
 - **Adaptation robuste** (HEURISTIC) : si tu es l'Obsession, pars du principe que ta position est connue par intervalles. Bouge après chaque tranche de 30 s ; utilise les obstacles.
 - **Counterplay** (HEURISTIC) : Distortion. Rester à ≤40 m quand c'est tactique (ça transfère l'Obsession).
 - **Erreurs à ne pas faire** (HEURISTIC) : se cacher longtemps au même endroit en étant l'Obsession.
-- **Menace (HEURISTIC)** : SoloQ 1 / SWF 1.
+- **Menace (HEURISTIC 0-3)** : SoloQ 1 / SWF 1.
 - **Écart avec le seed** : NON VÉRIFIABLE.
 - **Sources** : aucune lue (quota)
 
@@ -194,7 +194,7 @@ Périmètre (18 perks, seed ch9 l. 128-230) : Dead Man's Switch, Eruption, Hex: 
 - **Adaptation robuste** (HEURISTIC) : **1 survivant par gen** (c'est aussi plus efficace).
 - **Counterplay** (HEURISTIC) : si le tueur arrive, se séparer immédiatement dans 2 directions.
 - **Erreurs à ne pas faire** (HEURISTIC) : rester à 3 sur le dernier gen alors que le tueur n'est pas en poursuite.
-- **Menace (HEURISTIC)** : SoloQ 1,5 / SWF 0,5.
+- **Menace (HEURISTIC 0-3)** : SoloQ 1,5 / SWF 0,5.
 - **Écart avec le seed** : NON VÉRIFIABLE.
 - **Sources** : aucune lue (quota)
 
@@ -208,7 +208,7 @@ Périmètre (18 perks, seed ch9 l. 128-230) : Dead Man's Switch, Eruption, Hex: 
 - **Adaptation robuste** (HEURISTIC) : réparer, soigner et se cacher à plus de 8 m des casiers quand c'est possible.
 - **Counterplay** (HEURISTIC) : Distortion.
 - **Erreurs à ne pas faire** (HEURISTIC) : se soigner près d'une rangée de casiers.
-- **Menace (HEURISTIC)** : SoloQ 1 / SWF 0,5.
+- **Menace (HEURISTIC 0-3)** : SoloQ 1 / SWF 0,5.
 - **Écart avec le seed** : NON VÉRIFIABLE.
 - **Sources** : aucune lue (quota)
 
@@ -222,7 +222,7 @@ Périmètre (18 perks, seed ch9 l. 128-230) : Dead Man's Switch, Eruption, Hex: 
 - **Adaptation robuste** (HEURISTIC) : après un décrochage d'un crochet Fléau, les tiers bougent et se cachent derrière des obstacles.
 - **Counterplay** (HEURISTIC) : Distortion. Décrocher quand le tueur est loin.
 - **Erreurs à ne pas faire** (HEURISTIC) : rester immobile près du crochet après le décrochage.
-- **Menace (HEURISTIC)** : SoloQ 1 / SWF 1.
+- **Menace (HEURISTIC 0-3)** : SoloQ 1 / SWF 1.
 - **Écart avec le seed** : NON VÉRIFIABLE.
 - **Sources** : aucune lue (quota)
 
@@ -235,7 +235,7 @@ Périmètre (18 perks, seed ch9 l. 128-230) : Dead Man's Switch, Eruption, Hex: 
 - **Adaptation robuste** (HEURISTIC) : sous Blindness, ne compte plus sur Kindred ou Bond ; pars de l'hypothèse que le tueur connaît ta position.
 - **Counterplay** (HEURISTIC) : bouger immédiatement après le cri. Rester hors de portée d'un tueur qui ouvre un casier.
 - **Erreurs à ne pas faire** (HEURISTIC) : reprendre le même gen après le cri.
-- **Menace (HEURISTIC)** : SoloQ 1,5 / SWF 1.
+- **Menace (HEURISTIC 0-3)** : SoloQ 1,5 / SWF 1.
 - **Écart avec le seed** : NON VÉRIFIABLE (portée et déclencheur à trancher).
 - **Sources** : aucune lue (quota)
 
@@ -249,20 +249,20 @@ Périmètre (18 perks, seed ch9 l. 128-230) : Dead Man's Switch, Eruption, Hex: 
 - **Adaptation robuste** (HEURISTIC) : ne pas soigner la victime tout de suite si le tueur est en approche. Elle peut rester blessée et réparer (la pénalité ne tombe qu'**après** le soin complet, selon le seed).
 - **Counterplay** (HEURISTIC) : garder les soins pour des moments sûrs. Prendre un coup protecteur « lave » la pénalité (redevenir blessé), selon le seed.
 - **Erreurs à ne pas faire** (HEURISTIC) : soigner pour rien un survivant qui va reprendre un coup de toute façon.
-- **Menace (HEURISTIC)** : SoloQ 1 / SWF 1.
+- **Menace (HEURISTIC 0-3)** : SoloQ 1 / SWF 1.
 - **Écart avec le seed** : OK pour le nom. Valeurs NON VÉRIFIABLE.
 - **Sources** : [14]
 
 ### Hex: Fortune's Fool — Générale (ex-Hex: Plaything, The Cenobite)
 - **Statut / catégorie** : LIVE 10.1.2a · hex · info (Oblivious)
-- **Effet LIVE + valeurs** (seed) : au 1er accrochage de chaque survivant, un Hex s'allume, lié à ce survivant. Le survivant devient Oblivious ; lui seul peut purifier le totem pendant 90 s, et il voit l'aura du totem dans un rayon de 24/20/16 m. Renommage confirmé par l'audit [14]. Valeurs : **seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)** — UNCERTAIN (cohérent avec connaissance interne).
+- **Effet LIVE + valeurs** (seed) : au 1er accrochage de chaque survivant, un Hex s'allume, lié à ce survivant. Le survivant devient Oblivious ; lui seul peut purifier le totem pendant 90 s, et il voit l'aura du totem dans un rayon de 24/20/16 m. Renommage confirmé par l'audit [14]. Valeurs : **seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)** — UNCERTAIN ; cohérent avec connaissance du modèle (antérieure à mi-2026), UNCERTAIN.
 - **PTB 10.2.0** : UNCERTAIN.
 - **Indice observable (survivant)** (HEURISTIC) : icône **Oblivious** après ton 1er accrochage ; aura d'un totem proche (à ≤ 24/20/16 m). Tu n'entends plus le rayon de terreur.
 - **Soupçonner / Confirmer** (HEURISTIC) : Oblivious + totem Hex qui s'allume après le 1er crochet → confirmé.
 - **Adaptation robuste** (HEURISTIC) : purifier son totem rapidement, surtout contre un tueur de poursuite ou un tueur furtif. Sous Oblivious, se déplacer avec prudence (regarder derrière soi).
 - **Counterplay** (HEURISTIC) : après 90 s, n'importe qui peut purifier. En SWF, un coéquipier purifie à la place.
 - **Erreurs à ne pas faire** (HEURISTIC) : ignorer le totem et réparer en Oblivious à côté d'un tueur à petit rayon.
-- **Menace (HEURISTIC)** : SoloQ 1,5 / SWF 1.
+- **Menace (HEURISTIC 0-3)** : SoloQ 1,5 / SWF 1.
 - **Écart avec le seed** : OK pour le nom. Valeurs NON VÉRIFIABLE.
 - **Sources** : [14]
 
