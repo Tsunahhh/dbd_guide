@@ -443,3 +443,225 @@ Détail : `kb/research/batch4_killers_g4.md` §29.
 
 Détail : `kb/research/batch4_killers_g4.md` §30.
 
+## 31. The Skull Merchant (Adriana Imai) [Intermédiaire]
+
+*Archétype : zone / piège (drones) + info. Rework 7.3.0, ajustements 9.3.0 et 9.3.2 ; LIVE inchangé jusqu'à 10.1.2a (VM). Le « rework 2027 » du seed est invérifiable.*
+
+**Données LIVE**
+
+| Paramètre | Valeur | Conf. |
+|---|---|---|
+| Vitesse / TR / taille | 4,6 m/s ; **24 m** (depuis 8.6.0) ; moyenne | SS |
+| Drones | 6 ; pose toutes les **7 s** ; zone de scan 10 m ; ligne visible des survivants à < 16 m ; rotation 105°/s | VP / VM |
+| Lock-On | +1 par détection (2,5 s d'immunité) ; **sous un drone : +1 toutes les 2,5 s** ; 3 stacks = blessure (Deep Wound si blessé), Broken, Claw Trap | SS / VP |
+| Non détectés | Survivants **accroupis ou immobiles** ; le **fast vault ne protège plus** depuis 9.3.0 | SS / VP |
+| Claw Trap | 45 s ; porteur scanné : **Hindered 10 % 6 s** + Killer Instinct 3 s | VM |
+| Haste | +5 % 8 s si un survivant est détecté dans les 5 s après une pose ou un changement de sens | SS |
+| Piratage | Réussi : drone off 45 s ; raté : +1 Lock-On | SS |
+| Rappel d'un drone | **Undetectable 8 s** | VM |
+| Étages | Pas de détection à travers murs ni planchers | SS |
+
+**Identification** : drones surélevés avec une ligne qui tourne ; un survivant blessé sans attaque (Lock-On complet) ; une tueuse qui arrive **sans TR** juste après avoir rappelé un drone.
+
+**Ce qu'elle cherche** : poser un drone sur ta boucle pour une détection immédiate (Haste), puis empiler le Lock-On jusqu'à la blessure « gratuite » [HEURISTIQUE fondée sur FACT].
+
+**Tiles** : favorables = tiles longues **hors du rayon de 10 m** d'un drone, bâtiments à étages. Défavorables = boucles courtes sous un drone actif. Pas d'anti-palette dans son pouvoir : palettes normales hors zone.
+
+**Counterplay par couche**
+
+- **Mécanique** : franchir la ligne juste après son passage ; hors chase, **s'accroupir ou s'immobiliser** quand elle arrive (faisceau blanc = pas de détection). En chase, s'arrêter coûte de la distance.
+- **Positionnel** : changer de tile quand elle pose un drone sur le tien ; ne pas stationner sous un drone.
+- **Calcul** [SITUATIONNEL] : porteur de Claw Trap **et** scanné dans les 5 s d'une pose → toi 3,6 m/s, elle 4,83 m/s : elle reprend ≈ 1,23 m/s, deux fois plus vite que d'habitude (3 m d'avance durent ≈ 2,4 s). Pré-drop plus tôt ou, souvent mieux, **sortir du rayon de 10 m** avant de jouer la palette.
+- **Macro** : pirater quand elle est loin. Le Claw Trap s'éteint seul en 45 s (retrait manuel : procédure non décrite **[INCERTAIN]**).
+- **Équipe** : ne pas tous tomber en Lock-On dans la même zone ; gens à 3 défendus par des drones = y aller à plusieurs en fin de partie.
+
+**Erreurs classiques** [HEURISTIQUE] : tenir une boucle « safe » sous un drone ; compter sur le fast vault ; croire « pas de TR = elle est loin » après un rappel.
+
+**Add-ons qui changent la décision**
+
+| Add-on | Effet LIVE | Décision du survivant |
+|---|---|---|
+| Expired Batteries | Tous commencent avec un Claw Trap (50 %) | Éviter les lignes pendant ≈ 22 s au lieu d'ouvrir un gen sous un drone |
+| Iridescent Unpublished Manuscript | Drone piraté : elle Undetectable 15 s, le drone émet un TR de 32 m | Pirater seulement en sachant où elle est ; ignorer le TR du drone |
+| Low-Power Mode | Lignes **immobiles** | Contourner le faisceau fixe |
+| Geographical Readout | Casse et vault +20 % 8 s après une pose | Quitter la palette au lieu de la faire casser juste après une pose |
+| Powdered Glass / Loose Screw | Haemorrhage + Mangled / Exhausted 6 s pour les Claw-trapped | Éviter le coup, ne pas compter sur sa perk d'exhaustion |
+
+Détail : `kb/research/batch4_killers_g5.md` §31.
+
+## 32. The Singularity (HUX-A7-13) [Avancé]
+
+*Archétype : mobilité (téléportation) + ranged + anti-loop. Pouvoir inchangé depuis 8.7.0 ; en 9.x seulement l'add-on Soma Family Photo et des correctifs (SS).*
+
+**Données LIVE**
+
+| Paramètre | Valeur | Conf. |
+|---|---|---|
+| Vitesse / TR / taille | 4,6 m/s ; 32 m ; moyenne | SS |
+| Biopods | 8 (le plus ancien recyclé) ; pose à 22 m ; tag : **LOS + 20 m**, charge **0,8 s** ; perdre la LOS > 0,25 s fait reculer la charge | SS |
+| Slipstream | Se propage aux survivants à **6 m** ; Killer Instinct 3 s | SS |
+| Téléportation | **Uniquement vers un survivant Slipstreamed** ; traverser une palette abaissée la casse et le met en **Overheat** | SS |
+| Overclock | 5,7 s après chaque téléportation ; ×1,03 ; casse, vault et dégâts de gen **+75 %** ; immunisé aux stuns : une palette jetée **se casse** et le met en Overheat | SS |
+| Overheat | 3 s ; **Hindered −50 % (2,3 m/s)** ; aucun pod | SS |
+| EMP | 4 Supply Cases ; zone 10 m : retire le Slipstream, pods off **45 s** | SS |
+
+**Identification** : Biopods collés au décor et Supply Cases en aura dès le début ; Killer Instinct au moment du tag.
+
+**Ce qu'il cherche** : te tagger depuis un pod placé derrière toi, se téléporter juste avant ta palette, profiter de l'Overclock [HEURISTIQUE].
+
+**Tiles** : favorables = tiles où l'on casse la LOS avec **tous** les pods voisins, ou à plus de 20 m d'eux. Défavorables = grands espaces couverts par des pods en hauteur.
+
+**Counterplay par couche**
+
+- **Mécanique** : repérer chaque pod et casser sa LOS pendant les 0,8 s de charge. Non Slipstreamed = pas de téléportation sur toi [FACT].
+- **Palette contre l'Overclock** : la jeter sur lui reste utile : pas de stun, mais Overheat 3 s à 2,3 m/s → ≈ **5 m** regagnés ((4,0 − 2,3) × 3 s), au prix de la palette. Le seed disait « stunner en Overclock ne sert à rien » : faux.
+- **Pendant l'Overclock** (5,7 s) : ses vaults et casses sont 75 % plus rapides → viser une ressource **plus loin** plutôt que tenir la palette actuelle [SITUATIONNEL].
+- **Macro** : ramasser un EMP tôt et le garder pour un vrai Slipstream ou un groupe de pods (SoloQ : en prendre un si personne n'en a visiblement). Ne pas se grouper (propagation 6 m).
+
+**Erreurs classiques** [HEURISTIQUE] : rester dans la LOS d'un pod à < 20 m ; réparer à plusieurs dans la vue d'un pod ; utiliser l'EMP sans rien à nettoyer.
+
+**Add-ons qui changent la décision**
+
+| Add-on | Effet LIVE | Décision du survivant |
+|---|---|---|
+| Denied Requisition Form | Tous Slipstreamed au départ ; EMP 30 s plus tard | Aller vers une Supply Case au lieu de s'installer sur un gen |
+| Diagnostic Tool (Repair) | Tag à 24 m | Compter 24 m, pas 20 m, comme distance sûre |
+| Nutritional Slurry | +2 pods | Changer de zone au lieu de casser toutes les LOS |
+| Foreign Plant Fibres | Pénalité d'Overheat réduite de 20 % | La palette sur un Overclock rapporte moins de 5 m |
+| Cremated Remains / Spent Oxygen Tank | Slipstreamed = Blindness / Exhausted 6 s | Après un tag, ne compter ni sur ses auras ni sur sa perk d'exhaustion |
+
+Détail : `kb/research/batch4_killers_g5.md` §32.
+
+## 33. The Xenomorph [Intermédiaire]
+
+*Archétype : anti-loop (queue) + mobilité (tunnels). 1v4 inchangé depuis 8.6.0. Les Innate Skills ajoutées en 10.1.2 sont **2v8 uniquement** (VM).*
+
+**Données LIVE**
+
+| Paramètre | Valeur | Conf. |
+|---|---|---|
+| Vitesse / TR / taille | 4,6 m/s (aussi en Crawler) ; 32 m, **24 m en Crawler** ; moyenne | SS |
+| Tunnels | 7 Control Stations (aura à 12 m) ; 18 m/s, Undetectable ; sortie 2,25 s = Killer Instinct 3 s + tourelles off 2,5 s à 16 m | SS |
+| Détection depuis le tunnel | Pas à **16 m** ; **accroupi ou immobile = pas détecté** | SS |
+| Crawler Mode | Recharge ≈ **35 s** en surface, ≈ **4,4 s** en tunnel | SS |
+| Tail Strike | Portée **4,8 m** ; charge 0,3 s ; cooldown 2,5 s (raté) / 2,7 s (touché), **à 1,2 m/s** | SS |
+| Tourelles | 4 ; tir à 10 m avec LOS ; 125 charges = stun 1 s + sortie du Crawler ; porter = Hindered −35 % ; posée non déployée : autodestruction 30 s ; surchauffe 3,5 s | SS |
+
+**Identification** : Control Stations et tourelles dès le début ; Killer Instinct soudain près d'une station = sortie de tunnel.
+
+**Ce qu'il cherche** : la queue sur petite tile ou par-dessus un obstacle bas ; il évite les tourelles [HEURISTIQUE].
+
+**Tiles** : favorables = tiles couvertes par une tourelle ; murs hauts pleins (une queue « obstruée » rate). Défavorables = palettes basses et petites tiles. Que la queue passe au-dessus des palettes et fenêtres n'est pas écrit sur le wiki **[INCERTAIN]** : ne pas considérer le vault comme sûr.
+
+**Counterplay par couche**
+
+- **Mécanique** : lire le début de la queue (0,3 s, audible) et esquiver **latéralement**. Une queue ratée = 2,5 s à 1,2 m/s → ≈ **7 m** regagnés.
+- **Positionnel** : amener la chase vers une tourelle posée ; poser les tourelles **avant** la chase, sur les tiles forts et les gens. Près d'une station, hors chase, s'accroupir ou s'immobiliser.
+- **Macro** : sorti du Crawler, il redevient un M1 à 32 m de TR pendant ≈ 35 s **s'il reste en surface**, mais ≈ 4,4 s s'il repasse par un tunnel → la fenêtre n'est longue que loin d'une station.
+- **Équipe** : tourelles couvrant crochets et gens ; les remplacer après destruction (retour 60 s).
+
+**Erreurs classiques** [HEURISTIQUE] : tenir une palette basse contre la queue ; poser une tourelle là où il n'y a pas de chase, ou la laisser tomber non déployée ; marcher debout près d'une station.
+
+**Quand le counterplay habituel échoue** : s'il détruit toutes les tourelles, les poser par paires ou derrière un obstacle ; une tourelle seule surchauffe.
+
+**Add-ons qui changent la décision**
+
+| Add-on | Effet LIVE | Décision du survivant |
+|---|---|---|
+| Acidic Blood | Stun dans les 20 s après une sortie de tunnel = blessure ou Deep Wound | Préférer la distance au stun juste après un tunnel |
+| Ovomorph | Recharge du Crawler +25 % (≈ 28 s) | Greeder moins longtemps après l'avoir sorti |
+| Ripley's Watch | Tourelle autodétruite après l'avoir sorti du Crawler | Aller chercher une nouvelle tourelle après chaque sortie |
+| Crew Headset | Détection des pas à 22 m | S'accroupir plus tôt près des stations |
+| Kane's Helmet / Multipurpose Hatchet | Mangled 70 s / Haemorrhage sur coup de queue | Soigner près d'une tourelle, finir le soin |
+
+Détail : `kb/research/batch4_killers_g5.md` §33.
+
+## 34. The Good Guy (Chucky) [Intermédiaire]
+
+*Archétype : furtif + mobilité + anti-loop (dash, Scamper). **1v4 inchangé depuis 8.6.0.** La casse de palette par Scamper de 9.4.2 est une Innate Skill **2v8** ; en 9.5.0, son pouvoir est classé « special-vault », pas « special-break » (VM).*
+
+**Données LIVE**
+
+| Paramètre | Valeur | Conf. |
+|---|---|---|
+| Vitesse / TR / taille | **4,4 m/s** ; 32 m ; **petite** | SS |
+| Hidey-Ho Mode | 14 s ; cooldown 12 s ; Undetectable + faux pas à 16 m autour de chaque survivant ; chaque tentative d'attaque divise la durée restante par 2 | SS |
+| Slice & Dice | **8 m/s pendant 1,8 s** ; cooldown 3 s (touché) / **2,25 s** (raté) | SS |
+| Scamper | Pendant un dash, sous une palette abaissée ou par une fenêtre, en **1 s** | SS |
+| Casse de palette | **Non** en 1v4 ; seulement avec **Hard Hat** | VM |
+
+**Identification** : pas de TR, faux pas autour de toi, petite silhouette ; dash puis fente ; passage **sous** une palette. Une palette **cassée** par un Scamper = Hard Hat.
+
+**Ce qu'il cherche** : un dash au moment où tu te retournes ou t'engages en ligne droite ; un Scamper pour annuler l'avantage d'une palette ou d'une fenêtre [HEURISTIQUE].
+
+**Tiles** : favorables = obstacles hauts et angles serrés (le dash a une rotation limitée), hauteur pour le voir venir. Défavorables = lignes droites dégagées.
+
+**Counterplay par couche**
+
+- **Mécanique** : esquive latérale **tardive** au moment du dash ; pas de virage anticipé qu'il pourrait suivre.
+- **Distance** : à 4,4 m/s, un hold W perd moins vite (10 m en 25 s). **Mais** un dash parcourt ≈ 14,4 m pendant que tu en fais 7,2 → chaque dash reprend ≈ 7 m d'un coup. La distance ne vaut que si elle dépasse nettement cette portée **et** qu'un obstacle permet de dévier le dash.
+- **Palette** : **en 1v4 sans Hard Hat, elle reste au sol après son Scamper** et reste réutilisable ; elle t'a servi si tu as gagné de la distance pendant sa seconde de Scamper. Ne pas s'arrêter juste derrière.
+- **Macro** : checks visuels réguliers quand il n'y a pas de TR ; les pas entendus peuvent être faux.
+- **Équipe** : SWF = annoncer sa sortie de Hidey-Ho ; SoloQ = checks et auras de perks.
+
+**Erreurs classiques** [HEURISTIQUE] : rester immobile derrière une palette abaissée ; courir en ligne droite en open ; croire les pas pendant Hidey-Ho ; « jouer le tile, pas la palette » (conseil du seed, faux en 1v4 sans Hard Hat).
+
+**Fenêtre à exploiter** : après un dash raté, 2,25 s ; ensuite Hidey-Ho met 12 s à revenir : c'est le moment de changer de tile [SITUATIONNEL].
+
+**Add-ons qui changent la décision**
+
+| Add-on | Effet LIVE | Décision du survivant |
+|---|---|---|
+| **Hard Hat** | Le Scamper casse la palette instantanément | Dès la 1re casse, jouer fenêtres et tiles sans palette unique au lieu de revenir sur une palette tombée |
+| Iridescent Amulet | Hidey-Ho 21 s (une attaque de base y met fin) | Quitter le gen au moindre indice visuel |
+| Portable TV | Dash à 170 % (≈ 3,1 s) portes alimentées | En endgame, éviter les lignes droites vers les portes |
+| Silk Pillow | TR −6 m permanent (26 m) | Ne pas juger la distance au TR |
+| Plastic Bag | Traverser un faux pas = Exhausted 15 s | Ne pas compter sur sa perk d'exhaustion en Hidey-Ho |
+| Straight Razor | Haemorrhage + Mangled 80 s sur coup de dash | Reporter le soin ou se soigner loin |
+
+Détail : `kb/research/batch4_killers_g5.md` §34.
+
+## 35. The Unknown [Intermédiaire]
+
+*Archétype : ranged (UVX en deux temps) + furtif / mobilité (hallucinations). Buffs 9.2.0 et 9.6.0 (VM).*
+
+**Données LIVE**
+
+| Paramètre | Valeur | Conf. |
+|---|---|---|
+| Vitesse / TR / taille | 4,6 m/s ; 32 m ; **moyenne** (pas « grande ») | SS |
+| UVX | Charge 1 s ; rebondit ; explosion **2,25 m** ; projectile en vol : Hindered 6 % 3 s ; zone : **Weakened** ; Weakened touché par une zone = **blessé** ; cooldown **6,25 s** | SS / VP |
+| Stare Down | Regarder le tueur **à ≤ 25 m** pendant **10 s cumulées** ; perte de LOS > **0,75 s** = interruption (9.6.0) | VM |
+| Hallucinations | 4 max ; une toutes les 45 s (≈ 13 s si les 4 survivants sont Weakened) ; aura à 8 m ; dissipation 4 s ; échec = Weakened + Killer Instinct 5 s | SS |
+| Téléportation | Vers une hallucination, portée illimitée ; cooldown 25 s ; Decoy 5 s | SS |
+
+**Identification** : hallucinations fixes (aura à 8 m) sur la map ; projectile qui rebondit ; statut Weakened.
+
+**Ce qu'il cherche** : une explosion derrière un obstacle bas ou au rebond pour te mettre Weakened, puis te blesser au tir suivant (6,25 s plus tard au plus tôt) [HEURISTIQUE].
+
+**Tiles** : favorables = **murs hauts pleins** (pas de tir en cloche ni de rebond). Défavorables = palettes et murets bas, open ; les étages l'aident plus depuis l'élargissement de sa visée verticale en 9.2.0.
+
+**Counterplay par couche**
+
+- **Mécanique** : bouger latéralement au relâchement (1 s de charge audible) ; ne pas s'arrêter dans une zone d'impact.
+- **Positionnel** : faire le Stare Down hors de danger, à moins de 25 m, avec un **angle stable** (une coupure de 0,75 s suffit à l'interrompre) et un obstacle proche pour couper sa LOS s'il charge un tir.
+- **Macro** : dissiper les hallucinations proches des gens **quand il est loin** (échec = Weakened + Killer Instinct). Rester sain et non-Weakened ralentit aussi l'apparition des hallucinations.
+- **Fenêtre** : ses 6,25 s de cooldown après un tir = le moment de traverser l'open.
+
+**Erreurs classiques** [HEURISTIQUE] : tenir un muret bas ; garder le Weakened en pensant qu'il partira seul ; dissiper pendant une chase proche ; être plusieurs dans la même zone d'explosion.
+
+**Quand le counterplay habituel échoue** : déjà Weakened, tu n'as plus la marge d'une première explosion → murs hauts ou changement de zone au lieu de tenir le tile.
+
+**Add-ons qui changent la décision**
+
+| Add-on | Effet LIVE | Décision du survivant |
+|---|---|---|
+| Captured by the Dark | Tous Weakened au départ | Stare Down dès la première rencontre |
+| Vanishing Box | Hallucinations plus lentes, mais finir un gen = Weakened | Stare Down juste après chaque gen |
+| Slashed Backpack | Un UVX sur une hallucination la transforme en zone d'explosion | Ne pas rester à côté d'une hallucination en chase |
+| Iridescent OSS Report | Téléportation 20 s ; Decoys 15 s avec TR et Red Stain | Vérifier visuellement avant de fuir un TR près d'une hallucination |
+| Homemade Mask / Punctured Eyeball | Dispel réussi = Blindness 60 s / Deep Wound si blessé et Weakened | Dissiper seulement sain et non-Weakened |
+| B-Movie Poster | Blessure par UVX = Broken 30 s | Pas de soin immédiat après une blessure UVX |
+
+Détail : `kb/research/batch4_killers_g5.md` §35.
+

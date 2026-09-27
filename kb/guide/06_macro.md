@@ -605,9 +605,108 @@ Le loadout du tueur est caché jusqu'à la fin [FACT] (VP). Un joueur (souvent l
 2. **La lampe au lieu du gen** : chercher un flash save coûte les s-surv d'un réparateur ; seulement si l'on était déjà près du portage.
 3. **Bruit radio** : parler pendant la chase d'un allié l'empêche d'entendre le TR et les sons du pouvoir. Silence par défaut.
 4. **Sous-estimer l'adaptation du tueur** : une équipe qui répare vite déclenche souvent tunnel ou slug [AVIS D'EXPERT]. L'anticiper dans la composition (les loadouts sont aussi visibles en SWF).
-5. **Surconfiance dans une annonce** : vérifier qu'elle est **récente** ; une position de tueur vieille de 15 s vaut un cône de ~70 m.
+5. **Surconfiance dans une annonce** : vérifier qu'elle est **récente** ; une position de tueur vieille de 15 s vaut un cône de ~70 m de rayon (calcul : 4,6 m/s × 15 s).
 
 **EXERCICE** : DR-08 (callouts) — objectif ≥ 80 % de callouts actionnables en revue ; erreur E-T12 (callouts trop nombreux ou imprécis).
 
 Détail : `kb/research/batch9_macro.md` §4.
+
+---
+
+## 6.9 Game sense `[Avancé]`
+
+Le game sense n'est pas un don : c'est une **estimation continue** de quelques variables, mise à jour à chaque indice. Voici les variables, les indices, et comment s'y entraîner.
+
+### Prédire la position du tueur
+
+- **Modèle du cône** (calcul + [HEURISTIQUE]) : dernier point connu + temps écoulé × vitesse. 10 s après la dernière vue, un tueur à 4,6 m/s peut être n'importe où dans ~46 m ; mais il va presque toujours vers **l'objectif le plus rentable pour lui** : gen frappé récemment, dernier bruit, crochet où il vient d'accrocher, survivant blessé repéré.
+- **Après un accrochage**, il repart vers (1) le gen le plus proche du crochet, (2) la direction d'où vient le sauveteur probable, (3) un gen qu'il sait réparé. S'il ne revient pas dans le TR en ~10 s, il s'est engagé ailleurs.
+- **Indices** : TR, musique de chase, tache rouge, corbeaux [FACT] (SS) ; sons de kick et notification de gen fini [INCERTAIN] ; cris de Pain Resonance (SS ; la révélation de position est contestée).
+- **Tueurs furtifs** : le TR ment. Le remplacer par corbeaux, cloche du Wraith, rugissement de la Pig, zones silencieuses suspectes, alertes de perks (efficacité de Spine Chill contre Undetectable [INCERTAIN]).
+- **EXERCICE** : à chaque perte de vue du tueur, **dire à voix haute** où il sera dans 10 s ; vérifier. Mesure : taux de prédictions correctes sur 10 parties.
+
+### Zones épuisées
+
+- **QUOI** : zone où les palettes sont cassées ou utilisées et les fenêtres bloquées. Une fenêtre bloquée est **temporaire** (3e vault de la même fenêtre dans une poursuite = blocage 30 s pour ce survivant [FACT] (SS) ; Bamboozle 8/12/16 s pour tous (SS)) ; une palette cassée est **définitive** : ce sont les palettes qui font la zone épuisée.
+- **POURQUOI c'est décisif** : l'espacement minimal entre palettes est de 14-20 m [FACT] (SS) ; dans une zone épuisée, la prochaine ressource est loin, pour **tout le reste de la partie**.
+- **Mise à jour 9.2.0** : quantité et répartition des palettes ajustées sur 10 royaumes (MacMillan, Autohaven, Coldwind, Crotus Prenn, Haddonfield, Backwater, Red Forest, Yamaoka, Ormond, Decimated Borgo) pour réduire les dead zones [FACT] (VP). Toute connaissance de carte antérieure est à revérifier.
+- **COMMENT** : retenir 3 choses par zone — palettes restantes, fenêtre bloquée, gen fini. En SWF, l'annoncer. **Réparer près des zones riches** en fin de partie ; attirer la chase vers une zone riche plutôt que vers les gens ; **ne pas gaspiller les palettes près du futur 3-gen** : ce sont les ressources de la fin.
+
+### Estimer les gens
+
+- **Horloge simple (calcul)** : un gen commencé en solo il y a t secondes est à ~t/90 ; à deux, t × 1,7/90. Soustraire les kicks (−5 % puis 0,25 charge/s) et les skill checks ratés (−10 %).
+- **Usage** : savoir si l'on **finit** avant l'arrivée du tueur (arbre GEN) ; savoir combien de temps il reste avant les portes pour gérer un crochet (à 1 gen de la fin, la fenêtre de 70 s de l'accroché se compare à « finir le gen + 20 s de porte »).
+
+### Prédire les coéquipiers
+
+- **SoloQ** : hypothèses par défaut (§6.7) + loadout + style observé (un joueur qui a fait deux sauvetages tardifs en fera probablement un troisième).
+- **SWF** : annonces ; le risque est inverse (trop de confiance dans une annonce périmée).
+
+### Lire les intentions du tueur
+
+| Pattern observé | Intention probable | Réponse [HEURISTIQUE] |
+|---|---|---|
+| Revient au crochet juste après le décrochage | Tunnel | Casser la LOS pendant les 10 s ; l'équipe répare |
+| Reste à 16-30 m du crochet en frappant les gens voisins | Proxy camp | Sauvetage seulement quand il s'engage ; gens loin de sa zone |
+| Laisse des survivants au sol, cherche les autres | Slug | Ne pas venir à deux ; rester loin sans relevage rapide |
+| Frappe beaucoup de gens, chases courtes | Régression / 3-gen | Repérer le triangle ; split pressure |
+| Abandonne vite les chases longues | Cherche des coups rapides | Tenir les tiles forts ; ne pas s'exposer en dead zone |
+| Garde la même cible quelle que soit la distance | Tunnel ou Obsession | Anti-tunnel ; les autres réparent |
+| Patrouille entre deux portes après alimentation | Gate camp | Deux portes à la fois ; finir si le temps restant < son arrivée, sinon lâcher (§6.11) |
+
+### Tracker perks et hook stages
+
+- **Perks** : en SoloQ, le suivi est mental ; se limiter aux 3 familles qui changent le plus les décisions : **ralentissement** (Pain Res, Ruin, Corrupt Intervention…), **aura** (Nowhere to Hide, BBQ…), **endgame** (NOED, No Way Out, Blood Warden, Terminus).
+- **Hook stages** : le survivant à 2 crochets est un **mort en sursis** si le tueur le trouve : il ne fait pas les actions à risque.
+
+### Reconnaître un snowball
+
+Signaux d'une partie qui bascule (seuils indicatifs [HEURISTIQUE]) :
+- 1er accrochage **avant** le 1er gen fini, avec un 2e blessé au même moment ;
+- écart au tableau de course ≥ 0,25 (§6.1) ;
+- un mort avant 3 gens finis (−33 % de débit parallèle quand un survivant est en chase) ;
+- palettes consommées tôt dans la zone des gens restants ;
+- 3-gen formé avec 2 survivants valides ou moins ;
+- tueur à mobilité sur une petite carte, chases qui ne dépassent jamais ~30 s [INCERTAIN].
+
+**Réponse** : passer en **mode conversion** — moins de soins, plus de gens ; renoncer aux sauvetages douteux ; viser 1-2 évasions plutôt que 4 [AVIS D'EXPERT]. **Cas d'échec** : l'égoïsme prématuré perd des parties rattrapables. Le signal doit être **cumulé**, jamais un seul indice.
+
+### Décider avec une information incomplète
+
+1. **Lister 2-3 hypothèses** : « il est au crochet » / « il est reparti vers le gen sud » / « il chasse X ».
+2. **Pondérer** avec les indices (TR, portraits, dernier bruit).
+3. **Comparer les pires cas** : rejeter une action dont le pire cas est catastrophique (mort d'un allié, 2 au sol à 2 survivants), même si elle est meilleure en moyenne.
+4. **Acheter l'info si elle est bon marché** : 2 s de marche pour vérifier une LOS valent mieux qu'un sauvetage à l'aveugle.
+5. **Décider vite** : une bonne décision prise 10 s trop tard coûte souvent plus qu'une décision moyenne prise à temps [HEURISTIQUE].
+
+**EXERCICE** : DR-17 (horloge mentale), DR-07 (perk deduction), DR-19 (revue de partie) ; erreurs E-A08 (ne pas tenir la carte des ressources), E-T02 (ne pas mettre à jour sa perk deduction), E-T06 (détecter le 3-gen trop tard).
+
+Détail : `kb/research/batch9_macro.md` §5.
+
+---
+
+## 6.10 Les 14 états de partie `[Avancé]`
+
+> Priorités et erreurs = [HEURISTIQUE] sauf faits cités. **Catastrophique** = coûte au moins un état de crochet évitable ou ~1 gen de temps, ou retire définitivement un survivant.
+
+| # | État (signal) | Priorités | Erreurs catastrophiques | SoloQ / SWF |
+|---|---|---|---|---|
+| 1 | **Début de partie** (0 à ~60 s ; apparition groupée à ≤ 12 m « when possible » [FACT] (VP, 9.0.0), sauf Shroud of Separation / Vigo's Shroud ; Shroud of Vanishing du tueur fait rejeter les offrandes d'apparition survivantes) | Se séparer vers des gens **différents** ; attaquer un gen du futur 3-gen ; lire Match Details ; identifier le tueur dès le reveal | Rester à 2-4 sur un gen sans raison (+18 à +82 % de coût et une 2e cible) ; fouiller des coffres (8 s chacun [FACT]) avant de savoir où est le tueur ; purifier des ternes | SoloQ : choisir son rôle selon les loadouts. SWF : annoncer les gens pris dès le chargement |
+| 2 | **Premier contact** (tueur révélé, pas encore de chase) | Le survivant trouvé **éloigne** le tueur des gens ; les autres réparent ; adapter au pouvoir | Courir vers un gen occupé ; rester en dead zone ; courir trop tôt (griffures) | SWF : « sur moi, direction X » |
+| 3 | **Première chase** | Durer, **loin** des gens ; garder les palettes près des gens clés ; les 3 autres réparent chacun un gen (≈ 1/30 de gen par seconde) | Aller « voir » la chase ; gaspiller les palettes d'une zone de 3-gen ; ramener le tueur sur un gen | SoloQ : ne pas lâcher son gen pour une chase qu'on ne voit pas |
+| 4 | **Premier crochet** | **Un** sauveteur ; décrocher avant 70 s ; décroché qui casse la LOS ; soin loin | Deux sauveteurs ; trade sous un pouvoir prêt ; laisser passer la phase 1 ; soigner sous le crochet | SoloQ : délai de confirmation adapté. SWF : protocole crochet |
+| 5 | **Midgame** (1-2 gens finis, rotation chase/crochet) | Garder 2-3 réparateurs actifs ; répartir les crochets ; surveiller le 3-gen ; ne soigner que le rentable | Laisser se former le 3-gen ; soins en série (2 × 32 s-surv) ; tout le monde à 1-2 crochets sans anti-tunnel | SWF : suivi oral des crochets et des perks |
+| 6 | **3 gens restants** (2 finis, **5 sur la carte**) | Choisir les **2 prochains gens finis** pour que les 3 derniers ne forment pas un triangle serré : finir **dans** le groupe serré ; garder les palettes de la zone | Finir des gens extérieurs et laisser un groupe serré pour la fin ; abandonner un gen frappé (−5 % puis 0,25 charge/s) | SoloQ : réparer soi-même un gen du groupe serré. SWF : le shot-caller nomme les gens prioritaires |
+| 7 | **2 gens restants** | Anticiper les perks de fin (Adrenaline/Hope des alliés ; indices de NOED, No Way Out) ; purifier les ternes croisés si NOED suspecté ; se placer près des portes probables | Soins inutiles juste avant une Adrenaline ; tous en chase / crochet en même temps ; gaspiller les dernières palettes | — |
+| 8 | **1 gen restant** (4 finis, **3 sur la carte** : ici se joue le 3-gen) | 3-gen : split ou duo selon la position du tueur ; décider **99 ou alimenter** ; savoir où sont les portes ; un allié accroché change tout | Alimenter pendant qu'un allié est accroché avec le tueur au crochet (anti-camp, Elusive et Will to Live perdus [FACT]) ; laisser un 99 sous Ruin ; hérétique qui tient le 99 (Good = −3 %) | SWF : décision explicite du 99. SoloQ : ne pas tenir un 99 seul trop longtemps |
+| 9 | **Portes alimentées** | Porte la plus loin du tueur ; deux portes à la fois ; sauvetage **planifié** seulement | Se faire accrocher après l'ouverture d'une porte (Blood Warden : 40-60 s de blocage) ; prendre un coup sous NOED ; décrocher sans plan (ni Elusive ni anti-camp) | — |
+| 10 | **Endgame Collapse** (120 s, ~240 s max ralenti) | Sortir ; sauvetage seulement si le timer ralenti laisse le temps **et** qu'un plan existe | Attendre dans la sortie (Heresy à 45 s contre The Judgment ; auras de Blood Warden) ; revenir « aider » sans plan ; oublier que l'EGC ne s'arrête jamais | — |
+| 11 | **Survivant à 2 crochets** (death hook) | Il **évite** chases et actions à risque ; les autres prennent les protection hits ; il répare dans les zones calmes | Lui faire décrocher ou prendre la chase ; le laisser seul face à un tueur qui tunnel ; l'envoyer sur un save risqué | SWF : « A:2 » rappelé à chaque accrochage |
+| 12 | **Plusieurs survivants au sol** | Le dernier debout évite la chase ; relever **un** allié quand le tueur est parti ; ramper vers les alliés | Relever à deux sous ses yeux ; dernier debout mis au sol (tous au sol → Surrender possible) ; à 2 survivants, tomber (n'importe où) pendant que l'allié est en Struggle (Mori [FACT]) | SoloQ : ramper vers l'allié debout. SWF : « ne venez pas » / « il est parti » |
+| 13 | **Tueur sans pression** (≥ 3 survivants sur les gens, chases longues, 0-1 crochet) | **Convertir** : finir les gens plutôt que soigner ; ne pas offrir de cible ; préparer l'endgame | Relâcher l'attention (se montrer, t-bag : info, Heresy contre The Judgment) ; offrir un premier crochet par excès de confiance ; greed de palettes inutile | — |
+| 14 | **Tueur avec forte pression** (0-1 réparateur, blessés multiples, crochets enchaînés) | Casser le cycle : **une** chase longue, les autres réparent ; accepter de rester blessé ; éviter la zone du crochet ; viser 1-2 évasions si le tableau de course est perdu | Soins en série ; sauvetages multiples ; groupement ; ignorer le 3-gen ; abandonner trop tôt une partie rattrapable | SoloQ : décisions robustes. SWF : le shot-caller réduit les annonces à l'essentiel |
+
+> **À retenir** — trois transitions décident le plus souvent du résultat [AVIS D'EXPERT] : **3 → 4** (qualité du premier sauvetage), **5 → 6** (géométrie des gens restants), **8 → 9** (moment de l'alimentation).
+
+Détail : `kb/research/batch9_macro.md` §8.
 

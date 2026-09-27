@@ -234,3 +234,255 @@ Détail : `kb/research/batch7_tiles.md` §5 (palettes annulées par pouvoir) et 
 
 **DR-15 « Counterplay d'un tueur »** (`kb/research/batch11_training.md`) : choisis un tueur, relis sa fiche, et vérifie **3 comportements précis** dans chaque partie contre lui (exemple Huntress : LOS avant tout, changement de direction au lâcher, comptage des 7 hachettes). Métrique : coups de pouvoir évitables reçus (en revue de partie). Réussite : 3 comportements appliqués dans 3 parties consécutives. Variante « identification » : pendant les 60 premières secondes, note mentalement ton hypothèse de tueur et le signal qui l'a donnée ; compare au reveal.
 
+## Fiches : tueurs 1 à 7
+
+Format fixe : données LIVE → identification → ce qu'il cherche → tiles → counterplay (mécanique, positionnel, macro, équipe) → erreurs classiques → quand le counterplay habituel échoue → add-ons qui changent la décision. Sauf mention, les consignes sont **[HEURISTIQUE]**.
+
+### 1. The Trapper (Evan MacMillan) — zone/piège · M1 [Débutant]
+
+**Données LIVE** : 4,6 m/s ; TR 32 m ; grand. Commence avec **2 pièges en main** ; **8 pièges désarmés** apparaissent sur la carte ; il voit l'aura de tous ses pièges. Pose **2,5 s** puis **Haste +7,5 % pendant 5 s** (VM, bug de cumul corrigé en 9.2.3). Il réarme un piège sur place sans le ramasser. Survivant piégé : immobilisé, blessé s'il était sain ; libération **1,8 s par tentative, 16,67 %, succès garanti à la 6e** ; sauvetage par un allié **1,5 s**. Désarmement **3,5 s** ; les pièges ne se sabotent plus et ne se déplacent pas (depuis 3.6.0). Aucun changement de pouvoir 9.0.0 → 10.1.2a (correctifs de hitbox et de pose en 9.5.0, VP).
+
+**Identification** : pièges armés ou désarmés au sol (herbe haute, entrées de tiles, crochets, gens) ; aucun son de pouvoir à distance ; un piège qui a changé de place entre deux passages ; en chase, l'animation accroupie de pose ; claquement + cri quand quelqu'un est pris.
+
+**Ce qu'il cherche** : te faire repasser sur un point piégé (sortie de fenêtre, sortie de palette, coin de jungle gym) ; te pousser dans l'herbe haute ou vers le 3-gen piégé ; poser en chase pour prendre ses 7,5 % de Haste.
+
+**Tiles** :
+- Favorables : longues boucles à sol clair, main buildings à plusieurs sorties, chaînes de tiles non piégées.
+- Défavorables : tiles à entrée unique, herbe haute et maïs, zones déjà piégées (le setup y est payé). Sans piège en main, en open, c'est un 4,6 sans pouvoir.
+
+**Counterplay** :
+- *Mécanique* : regarder le sol avant les vaults et sorties **qu'il a eu le temps de piéger** (il t'a perdu de vue, zone déjà fréquentée). Un Trapper qui ne t'a pas quitté des yeux n'a pas pu piéger ta sortie : inutile de ralentir à chaque vault. Pendant sa pose (2,5 s immobile), **gagne la distance maintenant** : il repartira ensuite 7,5 % plus vite pendant 5 s.
+- *Positionnel* : changer de tile tôt quand il vient de poser dans la tienne.
+- *Macro* : désarmer (3,5 s) les pièges du 3-gen et des crochets **pendant qu'il chase ailleurs**, en sachant que c'est temporaire (réarmement sur place). Compter ses pièges en main : 2 ; une 3e pose d'affilée = Trapper Bag.
+- *Piégé* : seul, jusqu'à 6 tentatives de 1,8 s (~11 s au pire) [DATA] ; si un allié est proche, son sauvetage (1,5 s) est plus rapide.
+- *Équipe* : sauver en vérifiant le sol autour du crochet ; ne pas s'agglutiner sur un gen piégé.
+
+**Erreurs classiques** : courir dans l'herbe haute par réflexe ; vaulter deux fois la même fenêtre ; décrocher sans regarder ses pieds ; croire qu'un piège désarmé est neutralisé.
+
+**Quand le counterplay échoue** [SITUATIONNEL] : Tar Bottle (pièges noircis) sur une carte à herbe haute : la lecture du sol ne suffit plus, marche là où tu es déjà passé. Trapper qui garde un crochet piégé en fin de partie : la trappe ou l'autre porte vaut souvent mieux que le sauvetage, **sauf** s'il reste à moins de 16 m du crochet (l'anti-facecamp accélère alors la progression 1×/2×/4×, [FACT, audit]).
+
+**Add-ons qui changent la décision** (SS) :
+- **Iridescent Stone** (réarme un piège désarmé aléatoire toutes les 30 s) → contourne les pièges désarmés **au lieu de** les traiter comme sûrs ; désarmer n'achète que ≤ 30 s.
+- **Tar Bottle** (pièges noircis) → évite les zones sombres et reprends tes propres trajets **au lieu de** compter sur ta lecture du sol.
+- **Honing Stone** (se libérer seul met à terre) → attends un sauveteur **au lieu de** tenter de te libérer.
+- **Tension Spring** (réarmement 2 s après une libération) → quitte la case immédiatement **au lieu de** repasser dessus.
+- **Bloody Coil** (désarmer sain te blesse) → désarme seulement déjà blessé, ou laisse le piège.
+- **Trapper Bag** (+1 piège porté) → quitte la tile plus tôt **au lieu de** compter 2 poses. **Trapper Sack** (tous les pièges en main, plus de ramassage) → le 3-gen se piège très vite en début de partie.
+- **Bear Oil** (pose silencieuse) → garde le visuel **au lieu de** compter sur le son.
+
+> **À retenir** : contre le Trapper, **le temps de pose est ta ressource**. Chaque piège désarmé pendant qu'il est occupé ailleurs l'oblige à revenir le réarmer ; chaque trajet déjà emprunté est un trajet sûr.
+
+Détail : `kb/research/batch4_killers_g1.md` §1.
+
+### 2. The Wraith (Philip Ojomo) — furtif · mobilité · M1 [Intermédiaire]
+
+**Données LIVE** : 4,6 m/s, **6,0 m/s occulté** ; TR 32 m, supprimé occulté ; grand. Occulté : **Undetectable**, **invisible au-delà de 20 m**, scintillement en dessous, **totalement transparent à l'arrêt** ; il ne peut ni attaquer ni interagir avec un survivant. Occultation **1,5 s** (cloche + cliquetis dès le début). Désoccultation **3 s** : la cloche ne sonne **qu'à partir de 1,5 s** ; il avance à 1,6 m/s, puis **sursaut à 6,9 m/s pendant 1 s** et peut frapper immédiatement (le wiki a une ligne contradictoire « 6 m/s » (INC faible)). Portée sonore : **tintement ≤ 24 m**, souffle de transition ≤ 40 m. Étourdi occulté (palette, Head On) : désoccultation forcée + 4 s d'étourdissement. Lightburn supprimé en 6.7.0 : la lampe n'interrompt plus la désoccultation.
+
+**Identification** : cloche (≤ 24 m) ; tueur qui arrive « trop vite » sans TR ; scintillement proche ; quasi-arrêt suivi d'un bond.
+
+**Ce qu'il cherche** : te surprendre sur un gen ; se désocculter hors de ta vue près d'une palette ; t'amener en zone morte où le sursaut de 6,9 m/s suffit.
+
+**Tiles** : en chase, il est un M1 à 4,6 sans anti-loop : toutes les boucles standards fonctionnent. Défavorables : grands espaces entre tiles (il reprend la distance occulté à 6 m/s si tu casses le contact) et tiles courtes où une désoccultation derrière un mur suffit. Casser la LOS l'aide plus qu'elle ne t'aide.
+
+**Counterplay** :
+- *Mécanique* : garder la caméra sur lui en boucle ; lâcher la palette sur la désoccultation tardive, pas avant.
+- *Info* : distinguer **occultation** (cloche dès le début + cliquetis : il **part**) et **désoccultation** (silence puis cloche : il **arrive**). Quand tu entends la cloche de désoccultation, il lui reste ~1,5 s avant de pouvoir frapper, puis il bondit 1 s [DATA] : c'est le moment de rejoindre l'obstacle, pas de réparer une seconde de plus. La cloche annonce une menace, pas l'instant exact du coup.
+- *Macro* : quitter le gen quand la cloche est **proche et se rapproche**, pas à chaque cloche. Éviter le duo sur un gen quand il patrouille près : deux réparateurs produisent 1,7 charge/s contre 2,0 pour deux solos sur deux gens (coopération 85 %, [DATA, audit + calcul]), et offrent deux cibles.
+- *Équipe* : un stun pendant qu'il est occulté l'étourdit 4 s : bonne fenêtre pour un sauvetage proche.
+
+**Erreurs classiques** : réparer tête baissée sans info ; pré-lâcher par peur de la cloche ; courir en ligne droite en open ; croire qu'un Wraith immobile est loin (il est transparent à l'arrêt).
+
+**Quand le counterplay échoue** : cloche muette ou non localisable (add-ons ci-dessous) → la caméra devient la principale source d'info. Avec Windstorm, fuir loin pour « reset » ne marche pas : il te rattrape occulté.
+
+**Add-ons qui changent la décision** (SS ; Serpent VM) :
+- **Coxcombed Clapper** (cloche muette) → répare caméra ouverte, obstacle à portée, **au lieu d'**attendre un signal sonore.
+- **Bone Clapper** (cloche non localisable) → fie-toi au scintillement **au lieu du** son.
+- **"The Ghost" – Soot** (TR et Red Stain supprimés 6 s de plus après la désoccultation) → ne conclus pas « il est reparti » sur l'absence de TR.
+- **Windstorm** (+5/7/9 % occulté) → tiens la boucle en cours **au lieu de** fuir vers une tile éloignée.
+- **Swift Hunt** (désoccultation −8/−10/−12 %, ~2,64 s au max, calcul) → décide le drop un peu plus tôt.
+- **"Shadow Dance"** (+40/60 % à la casse et aux vaults occulté) → après un drop, enchaîne vers la tile suivante.
+- **"The Serpent" – Soot** (se désocculte en cassant une palette ou en abîmant un gen, 9.5.0) → moins de surprise sur gen : info gratuite.
+- **"The Beast" – Soot** (TR non supprimé occulté) → utilise son TR comme une alerte normale.
+
+Détail : `kb/research/batch4_killers_g1.md` §2.
+
+### 3. The Hillbilly (Max Thompson Jr.) — mobilité · coup unique [Intermédiaire]
+
+**Données LIVE** : 4,6 m/s ; **TR 40 m** (32 → 40 m en 8.6.0) ; grand. Tronçonneuse : charge **2,5 s** (il avance à 3,68 m/s), bruit audible à **60 m**, son qui évolue avec la charge. **Sprint 10,12 m/s**, **12 m/s en Overdrive**. Virage **412 °/s pendant la 1re seconde** du sprint, puis **32 °/s**. Coup de tronçonneuse = **double dégâts** (un sain tombe). Cooldowns : touche 2,7 s ; **choc contre un obstacle 2,5 s** ; raté 2,7 s ; casse de palette/mur 1 s ; il marche à 1,84 m/s pendant le cooldown. Overdrive : jauge chargée en sprintant, vidée après 8 s sans tronçonneuse ; pleine = **20 s** de sprint à 12 m/s, charge +5 %, cooldowns −10 %. Palettes : la tronçonneuse casse une palette baissée en ~1 s (page Pallets) ; **avec LoPro Chains**, le sprint traverse palettes et murs sans s'arrêter ; la mécanique exacte de la casse **sans** add-on n'est pas tranchée (INC, CONFLICT-L4G1-05). Aucun changement de pouvoir 9.0.0 → 10.1.2a.
+
+**Identification** : vrombissement à 60 m, puis sprint très rapide en ligne droite ; tueur qui traverse la carte en quelques secondes ; TR très large. Différence avec le Cannibal : sprints longs et droits (Hillbilly) contre balayages courts et Tantrums (Cannibal).
+
+**Ce qu'il cherche** : un survivant en open ou sur un gen isolé ; un curve autour d'un petit obstacle pendant la 1re seconde ; une palette lâchée trop tôt qu'il casse en ~1 s ; accumuler l'Overdrive.
+
+**Tiles** :
+- Favorables : murs hauts et obstacles serrés (jungle gyms, shack, main buildings, intérieurs), passages étroits où le sprint heurte un obstacle (2,5 s de cooldown), étages et rampes.
+- Défavorables : open, tiles basses ou fines (curves faciles), longues lignes droites. En M1, il boucle comme un 4,6 normal : la tronçonneuse sert surtout **entre** les tiles.
+
+**Counterplay** :
+- *Mécanique* : au son de la charge (2,5 s), mets un obstacle solide entre vous. Esquive par un virage **tardif** : passé la 1re seconde, il ne tourne plus qu'à 32 °/s [DATA] ; un virage trop tôt lui laisse le temps de corriger (412 °/s).
+- *Palette* : c'est **l'engagement**, pas le son, qui décide le drop. Une palette lâchée sur un sprint **engagé** à travers la tile l'arrête (collision : 2,5 s, ou 1 s s'il la casse) **sauf LoPro Chains**. Une palette pré-lâchée au premier son, de loin, lui est offerte : il annule et la casse.
+- *Positionnel* : rester près des tiles hautes ; éviter les traversées en open.
+- *Macro* : ne pas se soigner ni réparer en open ; se disperser. Après un choc contre un obstacle, il a 2,5 s à 1,84 m/s : c'est la fenêtre pour gagner la tile suivante.
+- *Équipe* : sauvetages rapides et sûrs : un instadown rend le tunnel facile.
+
+**Erreurs classiques** : pré-lâcher au premier son de charge ; courir en ligne droite en open ; croire qu'être blessé « protège » de la tronçonneuse.
+
+**Quand le counterplay échoue** : Apex Muffler (charge silencieuse hors TR) ; carte ouverte sans structures hautes : jouer la distance et la dispersion plutôt que la chase.
+
+**Add-ons qui changent la décision** (SS) :
+- **LoPro Chains** (le sprint traverse palettes et murs en les cassant) → privilégie **murs solides et fenêtres** **au lieu des** palettes contre le sprint.
+- **Apex Muffler** (tronçonneuse silencieuse hors TR) → surveille le TR (40 m) et répare près d'un obstacle **au lieu de** compter sur le son à 60 m.
+- **Filthy Slippers** (Undetectable après 2 s de sprint) → TR qui disparaît pendant un sprint : reste à couvert **au lieu de** conclure qu'il s'éloigne.
+- **Tuned Carburettor** (charge +20 %, mais **4,4 m/s** permanent) → réagis dès le premier son ; en M1, les boucles tiennent plus longtemps.
+- **Counterweight** (virage initial −70 %) → un virage **précoce** suffit ; **Dad's Boots / Spiked Boots** (virage +20/30 %) → esquive **plus tard** et derrière un obstacle.
+- **Iridescent Engravings** (sprint +20 %) → la distance « sûre » grandit : colle-toi aux obstacles.
+- **Cracked Primer Bulb** (tronçonneuse = 1 état de santé) → sain, un coup ne te met pas à terre : ne sacrifie pas tout pour l'esquiver.
+
+Détail : `kb/research/batch4_killers_g1.md` §3.
+
+### 4. The Nurse (Sally Smithson) — mobilité (téléportation) · anti-loop total [Avancé]
+
+**Données LIVE** : **3,85 m/s** ; TR 32 m ; taille moyenne. **2 charges** de blink, recharge **3 s par charge**. Charge du blink **2 s** (elle avance à 2,89 m/s) ; 1er blink **≤ 20 m** ; **Chain Blink** dans une fenêtre de **1,5 s**, **≤ 12 m**. Blinks à travers murs, sols et plafonds. **Fatigue** : 2 s (1 blink), 2,5 s (2 blinks), 3 s (3 blinks), **+1 s** après une attaque ; elle se déplace à **0,96 m/s** et **ne peut pas être étourdie** pendant la fatigue. Toute attaque après un blink est une fente spéciale à 6,16 m/s. Heavy Panting nerfé en 9.6.0 (30 → 10 %, VM) ; nombreux correctifs de blinks hors carte jusqu'en 10.1.2 (VP). Peut-elle vaulter les fenêtres ? Non dit par la page (INC).
+
+**Calcul utile** [DATA] : hors blink, tu gagnes 0,15 m/s sur elle (~1,5 m par 10 s) ; pendant sa fatigue, ~3 m/s, soit **6 à 9 m** sur 2 à 3 s. C'est **là** que se crée la distance.
+
+**Identification** : son de charge, silhouette qui disparaît et réapparaît plus loin ; tueur très lent entre deux blinks.
+
+**Ce qu'il cherche** : une LOS continue sur toi ; un trajet prévisible ; un double-back mal timé ; le moment où tu t'arrêtes derrière un obstacle bas.
+
+**Tiles** :
+- Favorables : structures hautes et opaques, étages, zones à LOS cassée en permanence, grands obstacles qui rendent la distance difficile à estimer.
+- Défavorables : open, petites tiles basses (elle voit tout). Palettes et fenêtres n'ont quasi aucune valeur **comme obstacles** ; la tile reste utile comme source de LOS.
+
+**Counterplay** :
+- *Mécanique* : casser la LOS pendant sa charge (2 s) ; changer de direction pendant son 1er blink pour la forcer à corriger au 2e (≤ 12 m, 1,5 s) ; utiliser la fatigue pour **repositionner**, pas pour fuir en ligne droite. Compter ses blinks : après 2, elle attend ~3 s par charge.
+- *Palette* : **ne pas lâcher une palette sur une Nurse en fatigue** : elle n'est pas étourdissable [FACT].
+- *Positionnel* : un obstacle haut entre elle et toi ; les étages (un blink au mauvais étage = fatigue gratuite).
+- *Macro* : réparer vite, rester dispersés. Sa perk A Nurse's Calling montre les survivants qui se soignent à 28/30/32 m (VM) : se soigner hors de ce rayon. Correction : **Calm Spirit n'est pas une perk anti-aura** (corbeaux calmes, pas de cri) ; Distortion l'est.
+- *Équipe* : chases courtes en moyenne → gens rapides plutôt que sauvetages risqués.
+
+**Erreurs classiques** : courir en ligne droite ; lâcher des palettes ; double-back toujours au même moment ; rester visible derrière un obstacle bas.
+
+**Quand le counterplay échoue** : contre une Nurse experte, le double-back devient lisible : alterner continuer et revenir.
+
+**Add-ons qui changent la décision** (SS) :
+- **Torn Bookmark** (+1 charge, 3 blinks) → attends le **3e** blink avant de te repositionner **au lieu du** 2e.
+- **Campbell's Last Breath** (re-blink automatique droit devant après un blink à pleine charge) → sors de son axe **au lieu de** reculer tout droit.
+- **Jenner's Last Breath** (retour instantané au point de départ après ses blinks) → double-back **après** sa fatigue, pas pendant la fenêtre.
+- **Matchbox** (**4,4 m/s** mais **1 seul blink**) → pas de chain blink : feinte le 1er blink puis tourne ; en M1, c'est un tueur 4,4.
+- **Kavanagh's Last Breath** (Blindness 60 s à ≤ 8 m pendant sa fatigue) → ne reste pas collé à elle si tu comptes sur des auras.
+- **Catatonic Boy's Treasure** (−65 % de fatigue de chain), **Ataxic Respiration** (fatigue −7 %, pas un add-on de portée), **Dark Cincture** → fenêtre de fatigue plus courte : repositionne plus tôt.
+- **"Bad Man's" Last Breath** (Undetectable 25 s après un coup) → le blessé joue la LOS **au lieu d'**attendre le TR.
+
+Détail : `kb/research/batch4_killers_g1.md` §4.
+
+### 5. The Shape (Michael Myers) — furtif · coup unique · exécution [Avancé]
+
+**Version** : rework **9.2.0** (VP), ajusté en **9.2.3** (EI 40 → 60 s, TR Pursuer 16 m, TR EI 32 m, Slaughtering Strike 7,5 m/s, recharge 4 s, VP). Retiré de la boutique en 9.4.0 mais **toujours jouable** par ses possesseurs (VP) : il reste rencontrable.
+
+**Données LIVE** (VM sauf mention) :
+
+| Mode | Vitesse | TR | Ce qu'il peut faire |
+|---|---|---|---|
+| **Stalker** (défaut) | **4,2 m/s** | aucun (Undetectable) | Stalk (il marche à 2,52 m/s) : survivant le plus proche surligné entre 2,5 et 32 m, jauge commune remplie en ~5 s de stalk continu à l'arrêt (1 point/s, −25 % si le survivant bouge ; 5 points) ; retombe à 50 % après 20 s sans stalk |
+| **Pursuer** (auto à jauge pleine) | 4,6 m/s | **16 m** | Fente +20 %, casse 1,95 s, vault 1,42 s (SS) |
+| **Evil Incarnate** (activé quand il veut, 2 s) | 4,6 m/s | **32 m** | **60 s** au chrono ; **Slaughtering Strike** et **exécution à la main** |
+
+- **Slaughtering Strike** : charge 0,375 à 1,5 s, ruée de 0,5 à 1,5 s à **7,5 m/s** (portée ~3,75 à 11 m, calcul) ; **coup létal** (un sain tombe) ; **casse palettes baissées et murs** ; après une casse, il marche à 1,84 m/s ~2 s ; recharge 4 s ; virage limité, strafe ×0,25.
+- **Exécution** : en EI, un tap d'attaque à **≤ 3 m** d'un survivant **debout ou au sol** qui a **2 phases de crochet** le **tue**. **Impossible sous Endurance.**
+- **Pas d'Exposed de base** depuis 9.2.0.
+- Signaux (SS) : le survivant stalké entend « the Hedge » à 50 % de jauge ; un **signal global** retentit quand la jauge est pleine.
+
+**Identification** : tueur visible sans TR ni berceuse, silhouette immobile derrière un coin ; « Hedge » ; puis TR court (16 m) = Pursuer ; TR 32 m + arme modifiée = Evil Incarnate.
+
+**Ce qu'il cherche** : un stalk gratuit quand tu ne le regardes pas ; en EI, un survivant sans obstacle solide, une palette pré-lâchée à casser, ou un survivant à 2 crochets à approcher à 3 m.
+
+**Tiles** : en Stalker, tout ce qui casse la LOS ; en EI, **murs solides et fenêtres** (la SS casse les palettes baissées). En Pursuer, boucles normales avec une marge réduite (fente +20 %).
+
+**Counterplay** :
+- *Mécanique* : casser la LOS dès que tu le vois stalker : la jauge se remplit en ~5 s, chaque seconde refusée compte. En EI, jouer les fenêtres et esquiver la charge **latéralement**. Une palette lâchée devant une SS sera cassée, mais il en ressort à 1,84 m/s pendant ~2 s : fenêtre pour gagner la tile suivante.
+- *Temps* : **gagner 60 s pendant l'EI** est l'objectif de chase prioritaire (fin au chrono seulement, sans add-on).
+- *Survivant à 2 crochets* : pendant l'EI, ne **jamais** le laisser arriver à 3 m, même sain, même au sol. L'**Endurance** empêche l'exécution (protection de décrochage, Off the Record…) mais saute sur une action voyante et ne protège pas sous Deep Wound [FACT, audit].
+- *Signaux* : au signal global de jauge pleine, réparer loin de lui et avoir fini ses soins **avant**.
+- *Macro* : en Stalker, il est lent (4,2 m/s) : bonne fenêtre pour les gens, **mais** Undetectable : réparer en surveillant les angles, pas « sans pression ». Ne pas grouper pendant l'EI.
+
+**Erreurs classiques** : laisser un tueur sans TR te fixer ; pré-lâcher pendant l'EI ; oublier le chrono des 60 s ; décrocher un survivant à 2 crochets sous ses yeux pendant l'EI.
+
+**Quand le counterplay échoue** : si l'EI est prolongé à chaque crochet (Judith's Tombstone) ou à chaque SS (Reflective Fragment), « tenir 60 s » ne suffit plus : dispersion et gens rapides.
+
+**Add-ons qui changent la décision** (VM) :
+- **Judith's Tombstone** (accrocher en EI renouvelle l'EI, plafonné à 40 s) → ne lui offre pas de crochet rapide pendant l'EI **au lieu de** compter sur le chrono.
+- **Tombstone Piece** (Undetectable 20 s à l'activation d'EI) → après le signal global, surveille le visuel **au lieu d'**attendre le TR 32 m.
+- **Reflective Fragment** (SS = 1 seul état de santé ; +20 s d'EI par SS réussie) → sain, la SS ne te met pas à terre, mais chaque coup prolonge l'EI.
+- **Hair Bow** (EI +20 s = 80 s) → recompte le chrono **au lieu de** 60 s.
+- **Fragrant Tuft of Hair** (EI : Exposed pour tous, fente +50 %, **pas de SS**) → tout coup met à terre, mais les palettes redeviennent sûres : joue-les **au lieu de** ne jouer que les fenêtres.
+- **Scratched Mirror** (auras à ≤ 32 m pendant le stalk ; bloqué en Stalker) → se cacher derrière un mur ne suffit pas, **mais** il n'a ni EI, ni SS, ni exécution : chase contre un M1 lent.
+- **Lock of Hair** (peut finir l'EI plus tôt) → prudence après un arrêt brutal du TR 32 m.
+
+Détail : `kb/research/batch4_killers_g1.md` §5.
+
+### 6. The Hag (Lisa Sherwood) — zone/piège · téléportation · info [Intermédiaire]
+
+**Données LIVE** : 4,4 m/s ; **TR 24 m** ; taille moyenne. **10 Phantasm Traps** (le 11e recycle le plus ancien) ; pose **1,9 s**. Déclenchement dans un rayon de **2,7 m** : un Mud Phantasm apparaît, **tourne ta caméra** vers lui, émet un **faux TR de 8 m** ; la Hag est notifiée ; piège « déclenché » **6 s**. **Pas de déclenchement si tu es accroupi**, ou si tu interagis avec un objet (gen…) dans la zone. **Effacer** : accroupi, **4 s** (la lampe ne brûle plus les pièges depuis 6.7.0). **Téléportation** vers un piège déclenché à **≤ 48 m**, face au survivant. Dernier changement de pouvoir : 7.6.0.
+
+**Identification** : marques de boue au sol autour des gens et crochets ; fantôme qui tourne ta caméra ; faux TR bref ; tueur qui apparaît instantanément sur un piège.
+
+**Ce qu'il cherche** : un piège sur la sortie d'une boucle, déclenché pour te couper (elle arrive face à toi) ; t'enfermer dans une zone piégée.
+
+**Tiles** : favorables : longues boucles vierges, tiles à plusieurs sorties, zones à plus de 48 m de son réseau. Défavorables : tiles déjà « dessinées », passages obligés piégés. Hors pièges, c'est un **M1 à 4,4** : les boucles standards la battent.
+
+**Counterplay** :
+- *Mécanique* : traverser les marques **accroupi** (ou en interagissant). Au déclenchement, repartir immédiatement **en s'éloignant du piège** (elle arrive dessus, tournée vers toi), vers une zone sans marques : fuir « à l'opposé » peut mener dans un autre piège.
+- *Positionnel* : tirer la chase hors de son réseau (au-delà de 48 m de ses pièges).
+- *Macro* : **effacer accroupi (4 s)** les pièges près des gens et du crochet quand elle est loin. Les totems Hex sont un build souvent cité pour elle (fréquence non vérifiée) : un totem coûte 14 s de purification ; purifier ceux que tu croises, et chercher activement **quand un effet Hex est observé**, pas par principe.
+- *Équipe* : sauveteur accroupi, vérification des marques autour du crochet.
+
+**Erreurs classiques** : sprinter sur les marques ; rester à côté d'un piège déclenché ; sauvetage direct sur un crochet piégé ; compter sur une lampe pour nettoyer son réseau.
+
+**Quand le counterplay échoue** : Mint Rag (TP vers n'importe quel piège non déclenché) ; Rusty Shackles (aucune alerte de déclenchement).
+
+**Add-ons qui changent la décision** (SS) :
+- **Mint Rag** (TP vers n'importe quel piège **non déclenché** de la carte, CD 10 s) → **efface** son réseau autour des gens **au lieu de** seulement l'éviter : un piège loin d'elle n'est plus hors de portée.
+- **Rusty Shackles** (pas de fantôme, aucune indication de déclenchement) → crouch systématique dans les zones à marques **au lieu de** compter sur le fantôme.
+- **Disfigured Ear** (déclencher = Deafened 6 s) → pars **immédiatement** au lieu d'écouter son arrivée.
+- **Grandma's Heart** (son TR supprimé pendant un déclenchement ; faux TR du fantôme 24 m) → le TR entendu est celui du fantôme : ne t'en sers pas pour la localiser.
+- **Waterlogged Shoe** (**4,73 m/s**, plus de TP) → M1 plus rapide que d'habitude : évite les longues boucles en zone piégée.
+- **Scarred Hand** (pièges et fantômes **bloquent le passage**, plus de TP) → les marques deviennent des murs : ne t'enferme pas dans une tile piégée.
+- **Bog Water / Bloodied Water / Bloodied Mud** (rayon −10/−20/−30 %) → pièges plus précis aux passages obligés.
+
+Détail : `kb/research/batch4_killers_g1.md` §6.
+
+### 7. The Doctor (Herman Carter) — anti-loop · info · M1 [Intermédiaire]
+
+**Données LIVE** : 4,6 m/s ; TR 32 m ; grand.
+- **Shock Therapy** : charge 1 s (il avance à 3,08 m/s), cône au sol de **12 m**, détonation **0,65 s** après le relâchement (0,8 → 0,75 s en 9.6.0, → **0,65 s en 9.6.1**, VM), recharge 1,5 s. Touché : +0,5 palier de Madness, **cri** qui interrompt l'action, **aucune interaction (palettes et fenêtres comprises) pendant 2,5 s**.
+- **Static Blast** : charge **2 s**, onde qui **traverse les obstacles** et couvre **tout son TR** ; +1 palier ; **seul un casier protège** ; recharge **30 s** si personne n'était à portée, **45 s** sinon. Un survivant Oblivious est quand même touché.
+- **Madness** : I = 33 % de skill checks de Madness ; II = 66 % + faux Doctors ; III = 100 %, cris intermittents, **objets inutilisables**, **aucune interaction à barre de progression faite ou reçue sauf décrocher**. **Snap Out of It** (12 s) ramène au palier I.
+- 10.0.0 : vignette de bruit supprimée, lumière et secousse de caméra réduites (VP).
+
+**Identification** : crépitement électrique, skill checks inhabituels, cris involontaires, faux Doctors ; Static Blast = charge audible + onde.
+
+**Ce qu'il cherche** : te choquer juste avant la palette ou la fenêtre pour bloquer l'action 2,5 s ; enchaîner choc + M1 à courte portée (plus fiable depuis 0,65 s).
+
+**Tiles** : favorables : longues boucles où tu peux garder plus de 12 m. Défavorables : tiles courtes « à la palette » (un choc au mauvais moment = coup garanti). **Aucune structure ne bloque le Static Blast** (le « casser la LOS » du seed est faux).
+
+**Counterplay** :
+- *Mécanique* : en 0,65 s, tu parcours 2,6 m [DATA] : si tu arrives à la palette à moins de ~3 m devant un choc lancé, ton action tombe dans la fenêtre. Une fois choqué, tu ne peux rien faire pendant 2,5 s (~10 m de course) : **ne vise pas une palette ou une fenêtre à moins de 10 m après un choc**.
+- *Palette* : pré-lâcher tôt **puis partir**, ou vaulter avec de l'avance. La casse au pied lui coûte 2,34 s, donc le pré-drop n'est pas gratuit pour lui, mais un Doctor qui **ralentit avant la palette** l'obtient sans risque : mélange avec des drops normaux quand le choc est en recharge ou hors de portée. Une charge de choc visible lui fait perdre de la distance (3,08 m/s).
+- *Static Blast* : **casier** si tu es dans son TR pendant la charge (2 s) et qu'un casier est à portée ; sinon, accepte le palier. Compter 30 à 45 s après une onde.
+- *Macro* : réussir les skill checks ; Snap Out of It (12 s) **quand il est loin**. En Madness III, tu ne peux ni réparer, ni soigner, ni être soigné, ni utiliser d'objet : Snap Out of It devient prioritaire (décrocher reste permis). Il manque de mobilité : se disperser.
+
+**Erreurs classiques** : jouer les palettes au dernier moment ; rester en Madness III dans son TR ; se cacher derrière un mur contre le Static Blast.
+
+**Quand le counterplay échoue** : avec une portée augmentée (jusqu'à 16 m), les longues boucles perdent leur sûreté ; les add-ons « Discipline » réduisent encore le délai.
+
+**Add-ons qui changent la décision** (SS ; Discipline VM) :
+- **Interview Tape** (choc en faisceau étroit de 2 m × 24 m) → sors de l'axe **latéralement au lieu de** reculer.
+- **Scrapped Tape** (anneau de 4 m de rayon placé 8 m devant lui) → reste **très près** ou **hors de l'anneau** au lieu de prendre la distance habituelle.
+- **High Stimulus / Polished / Mouldy Electrode** (+4/+3/+2 m, jusqu'à 16 m) → prends plus de marge avant toute action.
+- **"Discipline" – Carter's Notes / Class III / Class II** (délai 0,55 / 0,57 / 0,59 s, VM ; faux Red Stain/TR en Madness II-III) → pré-drop encore plus tôt, et **ne lis pas la distance au Red Stain** en Madness.
+- **"Order"** (palettes illusoires pour les survivants en Madness) → en Madness, ne planifie pas une chase sur une palette apparue là où tu l'avais vue cassée.
+- **"Calm"** (TR modifié selon que le Static Blast est prêt) → un TR plus grand = Static Blast prêt : casier ou dispersion.
+
+Détail : `kb/research/batch4_killers_g1.md` §7.
+

@@ -278,3 +278,153 @@ Total : 14 + 14 + 11 + 12 = **51 erreurs** (E-A10 porte deux tags).
 | DR-10 | Sauvetage (timing, approche, protection) | DR-20 | Jouer tueur (changement de rôle) |
 
 Tous les seuils de réussite des drills sont [HEURISTIQUE] / [INCERTAIN]. Ils mesurent un progrès **par rapport à ta propre base**, pas par rapport aux autres. Détail : `kb/research/batch11_training.md` §3.
+
+---
+
+## 13.7 Arbres de décision : mode d'emploi
+
+**Format commun** : entrée (situation déclenchante) → squelette ASCII (les questions dans l'ordre où elles changent la décision, chaque feuille porte un code `[XXX-n]`) → table des feuilles (action · pourquoi · risque ou alternative) → variantes SoloQ / SWF et contre-jeu du tueur.
+
+**Trois règles d'usage** [HEURISTIQUE] :
+1. **Un arbre ordonne des questions, il ne donne pas « la » réponse.** Aucune feuille ne dit « toujours drop » ou « toujours greed ».
+2. **Version en jeu contre version de revue.** En pleine chase, ne traiter que les 3-4 premières questions. Les suivantes se **préparent avant** (état d'équipe, palettes restantes, perks suspectées) et se **vérifient en revue**. Une décision moyenne prise à temps vaut souvent mieux qu'une bonne décision 10 s trop tard.
+3. **Règle de conflit.** Si deux questions mènent à des feuilles opposées, **la question la plus haute choisit la feuille, les suivantes règlent le moment**. C'est une convention, pas une règle démontrée.
+
+> **Erreur fréquente** : apprendre les feuilles par cœur sans les questions. Contre un tueur qui a compris ta réponse par défaut (il attend ton pre-drop, il simule un départ du crochet), une feuille appliquée mécaniquement devient prévisible. L'arbre sert à savoir **quelle information chercher**.
+
+---
+
+## 13.8 Arbre 1 — Palette [Intermédiaire]
+
+**Entrée** : tu es poursuivi et une palette debout est à ta portée. **En jeu** : Q1 → Q2 → Q3 → Q5. Q6-Q10 sont des ajusteurs préparés avant la chase.
+
+```
+PALETTE
+│
+├─ Q1 Atteindras-tu la palette avant d'être à portée de fente ?
+│   ├─ NON (il est sur toi) ─────────────────────────────► [PAL-0]  PRENDRE LE COUP
+│   │     sauf palette à 1-2 pas ET coup = mise au sol ──► [PAL-0b] POSE IMMÉDIATE
+│   ├─ DE JUSTESSE ──► Q2 (GREED exclu)
+│   └─ LARGEMENT ────► Q2
+│
+├─ Q2 Le tueur peut-il annuler la palette MAINTENANT ?
+│   ├─ Pouvoir qui casse / franchit, DISPONIBLE ─────────► [PAL-1]  PRE-DROP tôt / QUITTER
+│   │     (pouvoir en recharge, Fury inactive → M1 : Q3)
+│   ├─ Tueur à distance avec LOS sur toi ────────────────► [PAL-2]  FENÊTRE cachée / murs hauts
+│   ├─ Mobilité qui franchit vite (Nurse, Blight…) ──────► [PAL-3]  LOS + imprévisibilité
+│   ├─ Anti-loop bientôt prêt ───────────────────────────► [PAL-4]  PRE-DROP avant son retour
+│   └─ M1 / pouvoir indisponible ──► Q3
+│
+├─ Q3 Combien te coûte un coup ?
+│   ├─ Sain, 0-1 crochet ─────────► tout reste ouvert ──► Q4
+│   ├─ Endurance (décroché < 10 s) ► marge d'un coup (Deep Wound) ──► Q4
+│   ├─ Blessé 0-1 crochet / sain 2 crochets ► GREED exclu, TENIR prudent ──► Q4
+│   └─ Blessé 2 crochets / Exposed / Deep Wound ─────────► [PAL-5]  PRE-DROP
+│         (sauf tile plus forte atteignable → [PAL-10] sur événement)
+│
+├─ Q4 Que vaut CETTE ressource ?
+│   ├─ Fenêtre non bloquée pour toi ─────────────────────► [PAL-6]  FENÊTRE d'abord
+│   ├─ Palette forte (il ne te touche pas en tournant) ──► [PAL-7]  TENIR
+│   ├─ Palette mindgame (il peut lire / couper) ─────────► [PAL-8]  TENIR + départ tôt
+│   └─ Palette faible / filler ──────────────────────────► [PAL-9]  PRE-DROP ou QUITTER
+│
+└─ Q5 Loop suivant ?
+    ├─ Fort et atteignable ──────────────────────────────► [PAL-10] QUITTER après un événement
+    ├─ Faible ou épuisé ─────────────────────────────────► [PAL-11] TENIR plus longtemps ici
+    └─ Rien (dead zone derrière) ────────────────────────► [PAL-12] TENIR ici, pas de pre-drop précoce
+```
+
+| Feuille | Action | Pourquoi | Risque → alternative |
+|---|---|---|---|
+| **PAL-0** | Prendre le coup | La palette n'est plus une option ; boost 1,8 s + cooldown 2,7 s donnent le meilleur départ | Blessé → au sol. Viser une ressource avec le boost (TIL-6) |
+| **PAL-0b** | Poser tout de suite (stun de réaction) | Seule chance si le coup est critique | Stun raté (palette à moins de ~50 %), latence → PAL-0 |
+| **PAL-1** | Pre-drop tôt **si** cela force un détour ou le pouvoir au mauvais moment ; sinon quitter / LOS | Une palette debout ne se « respecte » pas | Le pre-drop peut ne rien lui coûter. **Exception Blight** : la casse lui coûte des tokens (9.6.0, VP). Liste corrigée en §13.4 |
+| **PAL-2** | Fenêtre à réception cachée ou murs hauts | La LOS est la vraie ressource ; une palette ne bloque pas un tir (Huntress : [INCERTAIN]) | Réception prévisible punie par un tir |
+| **PAL-3** | LOS et imprévisibilité ; pre-drop rarement utile | Contre la mobilité, la palette vaut peu | Brûler une palette pour rien |
+| **PAL-4** | Pre-drop avant le retour du pouvoir | Elle ne vaudra plus rien une fois le pouvoir prêt | Moment de retour [INCERTAIN] → quitter |
+| **PAL-5** | Pre-drop le plus tard possible sans risque | Un coup = au sol, voire mort | Palette consommée « tôt » → quitter sur événement si une tile plus forte est atteignable |
+| **PAL-6** | Fenêtre d'abord (fast vault 0,5 s contre 1,7 s pour le tueur) | Temps gagné sans consommer la palette | Blocage 30 s après ton 3e vault ; Bamboozle ; arrivée en angle |
+| **PAL-7** | Tenir : tourner palette debout, poser s'il s'engage | Maximum de temps par palette ; stun + casse possibles | Feinte, latence, Bloodlust → pre-drop |
+| **PAL-8** | Tenir avec départ tôt | Il peut lire ton côté | Coup sur mindgame perdu → pre-drop si Q3 est serré |
+| **PAL-9** | Pre-drop (pour la distance) ou quitter | Faible valeur future ; convertit la palette en ~9,4 m | Il contourne au lieu de casser |
+| **PAL-10** | Quitter sur casse, stun, vault ou cooldown | Seul moment où la traversée est gratuite → arbre 2 | Départ sans événement = coup dans le dos |
+| **PAL-11** | Rester et tenir | La suite ne vaut pas mieux | Bloodlust qui monte → quitter au premier événement |
+| **PAL-12** | Maximiser le temps ici | Après cette palette, plus rien | Le tueur finit par lire → rendre le coup le plus tardif possible |
+| **GREED** | Un cycle de plus palette debout | Palette gardée | **Pire résultat** : coup avec palette debout. Réservé à : sain ou Endurance, grande avance, tueur M1 visible, équipe sur les gens, palettes rares |
+
+**Ajusteurs Q6-Q10** (préparés avant la chase) :
+
+| Question | Réponse → effet |
+|---|---|
+| Q6 Bloodlust | 15-35 s : pose + casse remet à zéro, donc pre-drop et stun plus rentables (mais il peut contourner) · ≥ 35 s sur tile moyenne ou faible : poser ou quitter **maintenant** |
+| Q7 Équipe | 3 alliés sur des gens séparés : allonger, accepter de consommer · alliés au crochet ou en soin : économiser les palettes · gen à 99 % ou portes proches : pre-drop accepté · zone du futur 3-gen : garder, quitter ou fenêtre en priorité |
+| Q8 Ressources | beaucoup : pre-drop peu coûteux · peu : chaque palette compte, perk d'Exhaustion pour quitter |
+| Q9 Perks suspectées | Enduring (stun −40 à −50 %) : pre-drop > stun tardif · Bamboozle : fenêtre moins fiable |
+| Q10 Phase | portes alimentées : pre-drop généreux · début de partie : la zone servira encore, éviter le pre-drop gratuit |
+
+**Cas combinés** [HEURISTIQUE] : sain, 0 crochet, début de partie, M1 4,6, shack avec fenêtre libre → **fenêtre puis tenir**. Blessé à 2 crochets, M1, palette moyenne, tile suivante lointaine → **pre-drop**. Sain, 30 s de chase, tile moyenne, 3 alliés sur les gens → **pre-drop, stun s'il s'engage** (reset s'il casse). Tueur Undetectable sans red stain : blessé → pre-drop ; sain → fenêtre ou quitter, **jamais de greed**. Blessé, M1 à ~6 m, palette du shack, jungle gym à ~25 m → **pre-drop puis départ pendant la casse** (≈ 18 s gagnées, calcul lot 6).
+
+| | [SoloQ] | [SWF] |
+|---|---|---|
+| Alliés sur les gens | Visibles seulement au HUD ([INCERTAIN]) : supposer qu'ils sont moins nombreux → **moins de greed** | Le poursuivi sait combien réparent et peut demander que personne ne vienne « aider » |
+| Palette suivante | Peut-être déjà utilisée par un allié : un pre-drop « en comptant sur la suivante » est plus risqué | État des palettes annoncé |
+| Tempo | Jouer comme si personne ne venait aider ; tirer la chase loin des gens visibles | « Je tiens encore 20 s, finissez le gen » |
+
+**Contre-jeu du tueur** : alterner respect et non-respect de la palette ; casser tôt pour interdire le greed ; contourner une palette pré-jetée pour garder sa Bloodlust.
+
+Détail : `kb/deliverables/DECISION_TREES.md` §1 ; `kb/research/batch6_chase_tech.md` (T05, §4.3).
+
+---
+
+## 13.9 Arbre 2 — Quitter la tile [Avancé]
+
+**Entrée** : « si je reste un cycle de plus, peut-il me toucher ? »
+
+```
+QUITTER LA TILE ?
+│
+├─ R1 La tile a-t-elle encore une ressource que CE tueur doit respecter ?
+│   ├─ Non (palette cassée ET fenêtre bloquée / inutile contre ce pouvoir) ──► R3
+│   └─ Oui ──► R2
+├─ R2 Le tueur a-t-il trouvé la solution ?
+│   (posté au centre, coupe à chaque fois, Bloodlust ≥ 25-35 s, pouvoir prêt)
+│   ├─ Oui ──► R3
+│   └─ Non ──────────────────────────────────────────────► [TIL-1] RESTER un cycle
+├─ R3 Un événement te donne-t-il de l'avance MAINTENANT ?
+│   ├─ Casse (≈ +9,4 m) · stun (≈ +8 m) · vault du tueur · pouvoir raté
+│   │   · perte de LOS ──────────────────────────────────► [TIL-2] QUITTER MAINTENANT
+│   ├─ Tu viens d'être touché (boost + cooldown) ────────► [TIL-6] QUITTER tout de suite
+│   └─ Aucun ──► R4
+├─ R4 Peux-tu en créer un ?
+│   ├─ Palette restante ─────────────────────────────────► [TIL-3] PRE-DROP, partir sur la casse
+│   ├─ Fenêtre qui l'oblige à contourner ────────────────► [TIL-4] VAULT puis partir
+│   ├─ Perk d'Exhaustion vers une ressource ─────────────► [TIL-5] EXHAUSTION
+│   └─ Rien ──► R5
+├─ R5 Où aller ? (avance à l'arrivée > portée de fente ?)
+│   ├─ Tile suivante atteignable avec marge ─────────────► [TIL-2] QUITTER vers elle
+│   ├─ Seulement une tile faible ────────────────────────► [TIL-7] y aller + pre-drop, ou 1 cycle ici
+│   └─ Rien d'atteignable ───────────────────────────────► [TIL-8] RESTER faute de mieux
+└─ R6 Filtre équipe : ta sortie mène-t-elle vers gens actifs / crochet / blessé ?
+    ├─ Oui ──────────────────────────────────────────────► [TIL-9] AUTRE DIRECTION
+    └─ Non ──► go
+```
+
+**Distance « sûre » (calcul, ordre de grandeur)** : l'avance à l'arrivée vaut l'avance initiale moins (écart de vitesse × temps de trajet). Après une casse (~9,4 m), contre un tueur 4,6 sans Bloodlust, le trajet sûr va de ~23 m (si la portée de fente est de 6 m) à ~49 m (si elle est de 2 m). La portée de fente est [INCERTAIN] : retenir « ~20 à ~50 m en ligne droite » et, dans le doute, la tile la plus proche.
+
+| Feuille | Action | Pourquoi | Risque → alternative |
+|---|---|---|---|
+| **TIL-1** | Rester un cycle, reposer R2 | La tile tient ; partir sans événement = coup dans le dos | Bloodlust → regarder la route de sortie pendant le cycle |
+| **TIL-2** | Quitter sur l'événement | Seule traversée « gratuite » | Événement fantôme (il n'est pas en animation de casse) → TIL-3 |
+| **TIL-3** | Pre-drop puis partir pendant la casse | Palette faible convertie en ~9 m | Il contourne (tile courte) → TIL-4 |
+| **TIL-4** | Vault qui force un contournement, puis partir | Écart gagné sans palette | Blocage au 3e vault ; ranged sur la réception |
+| **TIL-5** | Perk d'Exhaustion **vers une ressource** | Distance instantanée | Brûlée vers le vide → la garder pour la tile suivante |
+| **TIL-6** | Sain : prendre le coup et partir avec le boost | Boost + cooldown = meilleur départ | Blessé, ce n'est plus une option ; effet d'un vault immédiat sur le boost non documenté |
+| **TIL-7** | Aller à la tile faible et y pre-drop, ou rester 1 cycle | Meilleure de deux options faibles | Arriver sans marge → TIL-8 |
+| **TIL-8** | Jouer le temps ici (LOS, obstacles, 360 contre M1) | 5-10 s gagnées valent plus qu'une fuite perdue d'avance | 360 raté = distance perdue |
+| **TIL-9** | Autre direction, même un peu moins bonne | Ne pas coûter un 2e réparateur à l'équipe | Route moins bonne |
+
+| | [SoloQ] | [SWF] |
+|---|---|---|
+| Filtre équipe (R6) | Positions des alliés connues seulement par HUD ou auras ([INCERTAIN]) : éviter les gens visiblement occupés | Annoncer la direction (« je l'emmène vers killer shack ») ; les alliés s'écartent |
+
+Détail : `kb/deliverables/DECISION_TREES.md` §2 ; `kb/research/batch6_chase_tech.md` (T18).

@@ -526,3 +526,88 @@ Deux techniques sœurs : **prendre les coins au plus serré** (cornering) et **l
 Détail : `kb/research/batch6_chase_tech.md` T09-T13, T17 ; tiles : `kb/research/batch7_tiles.md`.
 
 ---
+
+## 3.6 Gérer la chase : distance, ressources, pre-run
+
+### T18 — Distance management [Intermédiaire]
+
+- **QUOI** : garder en permanence une distance suffisante par rapport à **tous** les trajets possibles du tueur, et savoir quand la dépenser.
+- **POURQUOI** : la distance se convertit en temps (1 m ≈ 1,67 s contre un 115 %, 2,5 s contre un 110 %, sans Bloodlust). Elle se **gagne** par les ressources (vault, stun, casse), les erreurs du tueur (fente ratée : 1,5 s) et le coup reçu (boost 1,8 s). Elle se **perd** en ligne droite, avec la Bloodlust, dans les virages larges, sur une feinte ratée, sur un slow ou medium vault, et pendant chaque seconde où tu es immobile dans une porte.
+- **QUAND** : toujours. La question à te poser en arrivant sur un tile : « combien de mètres d'avance me faut-il pour que ce tile soit sûr ? » — réponse par la condition en temps de 3.2.
+- **COMMENT** : arrive sur chaque tile avec une marge ; dépense une ressource seulement si elle achète une distance **utile** (tile atteint, chase break, cycle de plus).
+- **CONTRE** : couper les angles, zoner, attaques à distance, Haste.
+- **CAS D'ÉCHEC** : entrer dans un tile sans avance (tu n'as pas le temps de choisir le côté) ; ignorer la Bloodlust ; oublier que contre un tueur à mobilité la distance brute vaut peu ; « trop » de distance peut faire lâcher la chase (bon si le tueur perd du temps à chercher, mauvais s'il trouve un allié plus faible).
+- **EXERCICE « Budget en mètres »** : annonce « +X m » en arrivant sur chaque tile ; compare à la VOD. Réussite : erreur ≤ 2 m sur 20 arrivées.
+
+### T19 — Resource management [Intermédiaire]
+
+- **QUOI** : dépenser au bon moment les ressources limitées : palettes, fenêtres (3 vaults avant blocage), états de santé, perk d'épuisement, objets, protections de décrochage.
+- **POURQUOI** : [FACT] palettes définitives une fois cassées et partagées par l'équipe ; fenêtre bloquée 30 s pour toi après le 3e vault (SS) ; Exhausted ne récupère pas en courant (SS) ; protections de décrochage 10 s (VP) ; aucun DR sur le nombre de palettes ou les blocages (VP). La valeur d'une ressource dépend de ce qui reste : la dernière palette d'une zone vaut plus que la première.
+- **QUAND** : penser en **budget de chase** : combien de secondes chaque ressource achète, et laquelle l'équipe utilisera ensuite.
+- **COMMENT** : compte les palettes debout visibles au début de chaque chase ; garde celles qui entourent les gens restants pour la fin de partie.
+- **CONTRE** : forcer tôt l'usage des ressources, casser les palettes fortes, puis ramener la chase dans la zone vidée (resource denial, 3.8).
+- **CAS D'ÉCHEC** : **sur-économiser** (mourir avec 4 palettes debout autour de soi n'a rien rapporté) ; sous-économiser en début de partie (les dead zones de fin de partie coûtent des crochets) ; brûler la perk d'épuisement pour atteindre un tile faible ; vider la zone où se jouera l'endgame ; ignorer ce qu'un allié a déjà consommé (SoloQ).
+- **EXERCICE « Inventaire »** : à chaque début de chase, compte les palettes debout dans ~30 m ; en fin de partie, compte celles qui restaient autour de chaque down. Réussite : moins de palettes « inutilisées » autour des downs au fil des semaines, ≤ 1 palette gratuite par partie.
+
+### T23 — Pre-run et début de chase [Intermédiaire]
+
+Technique majeure absente du seed, ajoutée par l'audit. **Tout ce bloc est [HEURISTIQUE]** (aucune source lue, aucune mesure).
+
+- **QUOI** : te mettre en route vers une zone forte **avant** que la poursuite commence, dès qu'un signal indique que le tueur arrive (TR qui monte, corbeaux, gen voisin frappé, tueur vu au loin).
+- **POURQUOI** : la poursuite — et donc la Bloodlust — ne démarre qu'avec les trois conditions (≤ 12 m, dans son champ de vision, tu cours) [FACT] (SS). Chaque mètre gagné avant est une avance « gratuite » : 1,67-2,5 s de chase (CALC) sans consommer de ressource. Inversement, lâcher un gen trop tôt coûte des secondes de réparation.
+- **QUAND** [SITUATIONNEL] : tu répares dans une dead zone ; tu es blessé ; tueur M1 dont l'approche s'entend ; tu sais qu'il vient vers toi (il a frappé le gen voisin, raté un allié à côté).
+- **COMMENT** : regarde d'**où** il arrive avant de choisir le côté ; **marche** si marcher suffit (pas de griffures) ; va vers un tile encore intact, loin des alliés.
+- **CONTRE** : approche Undetectable ou par un angle masqué, patrouille qui feint de passer, perks d'aura.
+- **CAS D'ÉCHEC** : pre-run au moindre TR (le TR ne dit pas qu'il vient vers toi) ; tueur furtif (pas de signal fiable) ; partir à travers l'open en vue d'un tueur à distance ; pre-run vers les gens de tes alliés ou vers un tile déjà vidé ; courir (griffures) au lieu de marcher.
+- **EXERCICE « Premier contact »** : sur 10 parties, note à chaque début de chase la distance au premier contact et si tu étais déjà en route. Métrique : durée des chases avec vs sans pre-run. Réussite : une différence mesurée sur tes propres parties (aucun seuil proposé sans données).
+
+Détail : `kb/research/batch6_chase_tech.md` T18, T19, T23.
+
+---
+
+## 3.7 Contact physique, réseau et esquive
+
+### T20 — Collision et body block (vue chase) [Intermédiaire]
+
+- **QUOI** : tueur et survivants entrent en collision entre eux et avec le décor ; un corps peut bloquer un passage (porte, sortie de fenêtre, couloir).
+- **POURQUOI** : la collision est une observation constante mais **non chiffrée** (taille des capsules : INC). Le tueur peut te bloquer dans un coin, une sortie de fenêtre ou une porte étroite ; un allié peut te bloquer involontairement ; les aspérités du décor accrochent.
+- **QUAND** : body block volontaire pour un allié blessé (voir le chapitre objets / jeu d'équipe : un coup reçu a un coût, 3.8) ; connaître les points qui accrochent pour les éviter.
+- **COMMENT** : ne jamais fuir dans une pièce à une seule sortie ; vaulter vers un espace où il ne peut pas se tenir devant la sortie.
+- **CONTRE** : body block à la sortie d'une fenêtre ou dans un couloir ; te pousser contre le décor ; frapper un bloqueur s'il l'accepte (le seed conseille au tueur de le faire seulement si cela le rapproche d'un crochet : [SITUATIONNEL]).
+- **CAS D'ÉCHEC** : cul-de-sac ; boucler près d'un allié (collision et deux cibles pour le tueur) ; courir vers un allié pendant une chase.
+- **EXERCICE « Cartographie des accroches »** : partie personnalisée, parcours les 10 tiles les plus fréquents en collant les murs et note les points d'accroche. Réussite : une liste écrite par tile.
+
+### T21 — Hitbox, latence, validation serveur : documenté vs rumeur [Avancé]
+
+**Ce qui est documenté** :
+- [FACT] (VP, développeur BHVR) « Hit Validation » depuis août 2020 : si la connexion du tueur est mauvaise, le serveur évalue le coup et le **rejette** si les deux étaient trop éloignés. **Avec une bonne connexion, le coup reste décidé côté client du tueur.**
+- (INC, analyse technique communautaire de 2022, non officielle) : le client du tueur calcule le chevauchement hitbox / hurtbox ; la validation générale n'agirait qu'au-delà de ~300 ms (**seuil non confirmé**) ; validation événementielle pour Dead Hard et les stuns de palette ; les deux latences cumulées favorisent le tueur ; le « tout-serveur » aurait été testé puis écarté.
+- [INCERTAIN] : forme et taille des hitbox / hurtbox (aucune documentation officielle).
+
+**Rumeurs à ne pas traiter comme des faits** :
+
+| Rumeur | Statut |
+|---|---|
+| « Certains survivants ont une hitbox plus grande » | Aucune documentation (INC) ; le choix du survivant est présenté comme sans effet mécanique |
+| « Tous les coups sont vérifiés par le serveur » | **Faux** avec une bonne connexion du tueur (VP) |
+| « Le seuil est de 300 ms » | Non confirmé officiellement |
+| « Ce coup était impossible » | Impossible à trancher sans les deux points de vue enregistrés |
+
+- **Conséquence pratique** [HEURISTIQUE] : ce que le tueur voit de toi est légèrement en retard sur ce que tu vois ; un coup « derrière la fenêtre » ou « après la palette » peut être valide chez lui. Donc **ajoute une marge** : quitte la palette ou la fenêtre un peu plus tôt, ne compte pas sur une esquive au dernier dixième. Un stun vu sur ton écran peut ne pas s'appliquer (validation événementielle, selon l'analyse communautaire).
+- **CONTRE** : rien à « exploiter » volontairement ; [HYPOTHÈSE] un tueur qui frappe tôt au bout de sa fente profite davantage de la latence.
+- **CAS D'ÉCHEC** : attribuer à la latence des coups dus à la Bloodlust, à un medium vault, à la porte oubliée (3.2) ou à une fente mal évaluée ; jouer « au pixel ».
+- **EXERCICE « Autopsie de coup »** : pour 20 coups « injustes » en VOD, vérifie le palier de Bloodlust, le type de vault, la distance au début de la fente. Réussite : savoir classer chaque cas ; si la majorité s'explique sans latence, travaille la marge (T18) plutôt que le réseau.
+
+### T22 — Le « 360 » [Avancé]
+
+- **QUOI** : pivoter autour du tueur au moment de sa fente pour la faire rater.
+- **POURQUOI** : pendant la fente (~6,9 m/s, SS), le tueur tourne moins vite qu'il n'avance ; un changement d'angle brusque à courte distance peut sortir de sa trajectoire. Coup raté = cooldown 1,5 s (SS) ≈ jusqu'à +6 m (CALC). Vitesse de rotation / sensibilité de caméra du tueur : INC (réglages, plateforme).
+- **QUAND** : **dernier recours** en terrain ouvert contre un M1 à courte distance quand aucune ressource n'est atteignable [SITUATIONNEL]. Le seed le présentait comme « utile » en général : trop absolu.
+- **COMMENT** : attends qu'il **lance** la fente, puis change d'angle franchement ; repars aussitôt vers une ressource.
+- **CONTRE** : retenir la fente, viser ta position de sortie, frapper sans fente complète.
+- **CAS D'ÉCHEC** : attaques de pouvoir à distance ou de zone ; tueur qui attend ta rotation ; latence élevée ; tu pouvais encore atteindre un tile ; 360 trop tôt ; 360 qui te ramène vers lui.
+- **EXERCICE « 360 mesuré »** : avec un ami tueur M1, 20 tentatives à courte distance dans l'open. Le seuil n'est **pas** 50 % : si le coup était **inévitable** (aucune ressource atteignable), tout taux > 0 est un gain ; si tu pouvais atteindre un tile, un échec coûte un coup alors qu'un succès rapporte au plus ≈ 11 s : il faut un taux très élevé. Un taux mesuré contre un ami surestime ton taux contre un tueur expérimenté.
+
+Détail : `kb/research/batch6_chase_tech.md` T20-T22.
+
+---
