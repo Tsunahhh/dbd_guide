@@ -1,20 +1,20 @@
 # Lot 2 — Perks survivant, page 29 du guide seed (Tier D)
 
-**Couverture web : 18 éléments vérifiés par recherche / 7 non re-vérifiés (quota)** — non re-vérifiés : Friendly Competition (LIVE ; son PTB est vérifié), Deadline, Hardened, Invocation: Treacherous Crows, Duty of Care, Rapid Response, Apocalyptic Ingenuity (seule la condition « 1 coffre » est confirmée via l'audit 10.1.0). Toutes les notes de valeur, synergies et « quand utile » sont HEURISTIC / EXPERT OPINION de l'agent.
+**Couverture : 25/25 perks re-vérifiées sur page wiki complète (27/09/2026) ; dont 10 confirmées par note officielle** (Premonition, This Is Not Happening, Calm Spirit, Technician, No Mither, Better Together, Better Than New, Low Profile, Friendly Competition, Apocalyptic Ingenuity) **+ 2 partiellement** (Slippery Meat, Up the Ante : règle d'accès à l'auto-décrochage, notes 9.0.0). Toutes les notes de valeur, synergies et « quand utile » sont HEURISTIC / EXPERT OPINION de l'agent.
 
 - Référence : **LIVE 10.1.2a** (17/09/2026). **PTB 10.2.0** (15-21/09/2026) **non LIVE** : toujours étiqueté PTB.
-- Méthode : WebSearch uniquement (WebFetch bloqué). Tous les constats viennent de **résumés de recherche** (STRONG_SECONDARY au mieux), sauf mention de `kb/seed/audit_phase0.txt` (notes officielles 10.1.0 déjà auditées).
+- Méthode (lot 12a, 27/09/2026) : re-vérification sur les **pages wiki.gg complètes** (API MediaWiki, digest local `kb/sources/wiki_perks_digest.md`) [27] et les **notes officielles BHVR** locales (`kb/sources/patches/official_*.txt`) [28]-[34]. La première passe (lot 2) reposait sur des résumés WebSearch [1]-[26] ; ils restent cités quand ils concordent.
 - Périmètre : 25 perks (seed `kb/seed/ch3_survperks.txt` l. 761-872).
-- **Incident de session** : le quota global WebSearch (200 appels/session, partagé entre agents) a été épuisé après 24 recherches de ce lot. Les perks **Friendly Competition (LIVE)**, **Deadline**, **Hardened**, **Invocation: Treacherous Crows**, **Duty of Care**, **Rapid Response**, **Apocalyptic Ingenuity** n'ont donc **pas** pu être vérifiées : leurs blocs reprennent le seed, marqué **NON VÉRIFIABLE / UNCERTAIN**, sans aucune valeur ajoutée non sourcée.
+- **Historique** : au lot 2, le quota WebSearch avait empêché de vérifier Friendly Competition (LIVE), Deadline, Hardened, Invocation: Treacherous Crows, Duty of Care, Rapid Response et Apocalyptic Ingenuity. Ces 7 perks sont désormais vérifiées sur page complète (lot 12a).
 - Notes de valeur (0-3) = **HEURISTIC** (appréciation de l'agent, pas une donnée).
 
 ---
 
 ### Premonition — Générale
 - **Statut** : LIVE 10.1.2a (version « cône sonore »)
-- **Effet LIVE** : signal sonore quand vous regardez dans la direction du tueur (cône 45°, 36 m) — STRONG_SECONDARY [1][2]
-- **Valeurs / CD / conditions / limites** : recharge 60/45/30 s après chaque déclenchement (LIVE) [1]. Rien sur la poursuite en LIVE d'après les résumés.
-- **PTB 10.2.0** : **rework (PTB)** : voir l'aura du tueur 3 s en regardant dans sa direction ; recharge 70/65/60 s ; désactivée en poursuite [3][4]. Portée « 32 m » annoncée par le seed p32 **non retrouvée** dans les résumés → UNCERTAIN (CONFLICT-P29-02).
+- **Effet LIVE** : cône invisible dans la direction regardée (angle de détection 45°, portée 36 m) ; signal sonore quand le tueur s'y trouve — VERIFIED_MULTI_SOURCE (wiki, onglet historique 2.6.2 = LIVE [27] ; note 559 « was 36m and within 45 degrees » [34])
+- **Valeurs / CD / conditions / limites** : recharge 60/45/30 s (LIVE ; note 559 « was 60/45/30s » [34]). Aucune restriction en poursuite au LIVE (la restriction est ajoutée au PTB).
+- **PTB 10.2.0 (NON LIVE)** : **rework** : hors poursuite, regarder dans la direction du tueur à **32 m** (plus d'angle) → notification + **aura du tueur 3 s** ; recharge **70/65/60 s** [27][34]. CONFLICT-P29-02 RÉSOLU (32 m confirmé).
 - **Interactions, DR, anti-synergies** : doublon d'info avec Spine Chill / Alert ; aucun modificateur chiffré soumis aux DR 9.6.0 (effet d'info). Inutile contre un tueur déjà en poursuite (cône ≠ Terror Radius).
 - **Synergies** : builds furtifs (Distortion, Lightweight), Calm Spirit (moins de bruit en fuite).
 - **Difficulté** : 2 (il faut balayer la caméra)
@@ -23,14 +23,14 @@
   - Contre tueurs furtifs (Terror Radius nul) quand vous balayez régulièrement avant de vous engager sur un gen isolé.
 - **Quand elle n'en produit pas** :
   - En SWF avec comms, ou dès que la poursuite commence (vous savez déjà où il est) ; recharge longue en tier I.
-- **Écart avec le seed** : OK (LIVE) ; PTB « rework » OK, détail « 32 m » (p32) NON VÉRIFIABLE
-- **Sources** : [1][2][3][4]
+- **Écart avec le seed** : OK (LIVE : 45°, 36 m, 60/45/30 s = note 559) ; PTB « rework » OK, « 32 m » (p32) OK (note 559)
+- **Sources** : [27][34][1][2][3][4]
 
 ### Slippery Meat — Générale
 - **Statut** : LIVE 10.1.2a
-- **Effet LIVE** : +3 tentatives d'auto-décrochage (donc 6 au total) et +2/3/4 % de chance de réussite — STRONG_SECONDARY [6]
-- **Valeurs / CD / conditions / limites** : depuis 9.0.0, l'auto-décrochage (4 %/tentative) n'est disponible que si 2 survivants restent, avec offrande de chance, **Slippery Meat** ou Up the Ante (audit, notes 9.0.0) [12]. La perk sert donc aussi de **clé d'accès** à l'auto-décrochage — point omis par le seed.
-- **PTB 10.2.0** : **rework (PTB)** : les alliés vous décrochent 90/95/100 % plus vite et vous gagnez 5 % de Haste en plus au décrochage ; pensée comme anti-tunnel générale pour débutants [3][4].
+- **Effet LIVE** : +3 tentatives d'auto-décrochage pendant la 1ʳᵉ phase de crochet (donc 6 au total) et +2/3/4 % de chance de réussite — STRONG_SECONDARY (wiki, onglet historique 4.3.0 = LIVE [27] ; concordant avec [6])
+- **Valeurs / CD / conditions / limites** : depuis 9.0.0, l'auto-décrochage n'est disponible que si 2 survivants restent, avec offrande de chance, **Slippery Meat** ou Up the Ante — VERIFIED_PRIMARY (note 9.0.0 [28], l. 72-75). La perk sert donc aussi de **clé d'accès** à l'auto-décrochage — point omis par le seed. Chance de base 4 %/tentative : audit [12] (non recoupé par une note 9.x/10.x).
+- **PTB 10.2.0 (NON LIVE)** : **rework** : les autres survivants vous décrochent 90/95/100 % plus vite ; +5 % de Haste en plus quand vous êtes décroché (wiki : « Haste granted by Unhook Protections +5 % ») ; pensée comme anti-tunnel générale pour débutants (dev note) [27][34].
 - **Interactions, DR** : chance (Luck) cumulable avec Up the Ante / offrandes ; application exacte des DR 9.6.0 aux Luck de perks identiques → HYPOTHESIS (liste DR non consultée). Chaque échec = pénalité de temps sur le crochet (audit : −20 s, wiki) [12].
 - **Synergies** : Up the Ante, offrandes de chance (Chalk Pouch/Salt… non vérifié ici).
 - **Difficulté** : 1

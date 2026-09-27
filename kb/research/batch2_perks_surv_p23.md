@@ -1,10 +1,11 @@
 # Lot 2 — Perks survivant, page 23 du guide seed (tiers S et A)
 
-**Couverture web : 7 éléments vérifiés par recherche (Windows of Opportunity, Will to Live, Lithe, Adrenaline, Sprint Burst, Five Moves Ahead, Deliverance) / 14 non re-vérifiés (quota)** — dont 3 recoupés partiellement avec l'audit interne [15] (Off the Record, Unbreakable, Hyperfocus).
+**Couverture : 21/21 perks re-vérifiées sur page wiki complète (27/09/2026) ; dont 11 confirmées par note officielle** (Windows of Opportunity [PTB], Will to Live [renommage], Adrenaline, Sprint Burst, Off the Record, Five Moves Ahead, Déjà Vu [9.1.0], Resilience [PTB], Kindred [PTB], Unbreakable, Deliverance).
 
 - Référence : **LIVE 10.1.2a** (17/09/2026). **PTB 10.2.0** (15-21/09/2026) = non LIVE, toujours étiqueté PTB.
-- Méthode : WebSearch seul (résumés de recherche ; WebFetch bloqué). Confiance plafonnée à STRONG_SECONDARY, sauf quand une valeur recoupe `kb/seed/audit_phase0.txt` (lot 1, notes officielles lues), noté [15].
-- **Limite de session majeure** : le quota WebSearch de la session (200 appels, partagé entre agents) a été épuisé après **10 recherches** de ce lot. Seules 7 perks sur 21 ont pu être vérifiées en ligne (Windows of Opportunity, Five Moves Ahead, Will to Live, Lithe, Sprint Burst, Deliverance, Adrenaline en partie). Pour les 14 autres, la ligne « Effet LIVE » reprend la connaissance du modèle, étiquetée **UNCERTAIN (non vérifié cette session)**, et l'écart avec le seed est noté **NON VÉRIFIABLE**. À reprendre dans un lot ultérieur.
+- Méthode initiale (lot 2) : WebSearch seul (résumés). **Re-vérification lot 12a (27/09/2026)** : description LIVE 10.1.2a et change log 8.x-10.x des pages wiki.gg complètes (via API MediaWiki, `kb/sources/wiki_perks_digest.md`, brut `wiki_perks.json`) [18]-[38], croisées avec les notes officielles BHVR 9.x-10.x (`kb/sources/patches/official_*.txt`) [39]-[46]. Confiance : STRONG_SECONDARY (page wiki complète), VERIFIED_MULTI_SOURCE si une note officielle concorde.
+- Historique : le lot 2 n'avait pu vérifier que 7 perks (quota WebSearch épuisé) ; les 14 autres reprenaient le seed ou la connaissance du modèle. Ces lignes sont maintenant remplacées par les valeurs du wiki.
+- Anomalie de la source : pour Windows of Opportunity, le digest étiquette « LIVE (current) » un texte qui est en réalité celui du **PTB 10.2.0** (page wiki déjà basculée, sans drapeau). La LIVE a été reconstruite depuis l'historique de la page (version 5.3.0) et le change log.
 - Les notes de valeur (0-3), synergies, anti-synergies comportementales et puces « quand elle produit / n'en produit pas » sont **HEURISTIC / EXPERT OPINION** (avis de l'auteur du lot, pas des données).
 - DR = Diminishing Returns (9.6.0, [15]) : entre modificateurs **identiques** issus de Powers / Items / Perks / Offerings, le plus fort compte à 100 %, puis 50 / 25 / 12,5 / 5 %. Les add-ons sont exclus. La liste exacte des modificateurs concernés n'est pas publiée ; les interactions DR ci-dessous sont donc des **HYPOTHESIS**, sauf mention contraire.
 
@@ -16,9 +17,9 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
 
 ### Windows of Opportunity — Kate Denson
 - **Statut** : LIVE 10.1.2a ; **rework au PTB 10.2.0** (non LIVE).
-- **Effet LIVE** : révèle en permanence les auras des palettes, fenêtres et murs cassables à 24/28/32 m. STRONG_SECONDARY [6][3]
-- **Valeurs / CD / conditions / limites** : 24/28/32 m (LIVE, VERIFIED_MULTI_SOURCE [6][3]). **Cooldown LIVE contesté** : aucun selon le wiki fandom (supprimé en 5.3.0 ; la mention revenue dans la description en 7.2.0 serait purement visuelle) vs 30/25/20 s selon timesaver → CONFLICT-L2P23-01.
-- **PTB 10.2.0** : fenêtres seulement, rayon **24 m fixe**, fenêtres franchies 10 % plus vite, cooldown 40/35/30 s après un saut de fenêtre. BHVR : « specialize in Windows » ; l'ancien effet se retrouve avec Dark Sense (PTB) ou Windows + Five Moves Ahead. VERIFIED_MULTI_SOURCE [1][2][3][4][5] (PTB)
+- **Effet LIVE** : révèle en permanence les auras de chaque mur cassable, palette et fenêtre à 24/28/32 m ; **aucun cooldown**. Reconstruit depuis l'historique de la page wiki (version 5.3.0) et le change log (« Patch 5.3.0 : removed the Cool-down altogether »), aucune modification 8.x-10.1.2a. STRONG_SECONDARY [18][6][3]
+- **Valeurs / CD / conditions / limites** : 24/28/32 m (LIVE, STRONG_SECONDARY [18][6][3]) ; pas de cooldown en LIVE (CONFLICT-L2P23-01 RÉSOLU, voir Conflits).
+- **PTB 10.2.0 (NON LIVE)** : rework : auras des **fenêtres seulement** à **24 m** (fixe), fenêtres franchies **10 %** plus vite, cooldown **40/35/30 s** après un saut de fenêtre. Dev note : « specialize in Windows » ; l'ancien effet se retrouve avec Dark Sense ou Windows + Five Moves Ahead. VERIFIED_MULTI_SOURCE [1][18] (note officielle 559 + page wiki)
 - **Interactions, DR, anti-synergies** : redondante avec Five Moves Ahead en LIVE (palettes lues deux fois). Au PTB, le +10 % de vitesse de saut de fenêtre se cumulerait avec d'autres bonus de saut (Resilience, Finesse) et serait sans doute soumis aux DR (HYPOTHESIS).
 - **Synergies** : Lithe, Finesse, Resilience (build « chase » du seed) ; Dead Hard / Sprint Burst pour atteindre la tile repérée.
 - **Difficulté** : 1
@@ -29,14 +30,14 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
 - **Quand elle n'en produit pas** :
   - Joueur expert qui lit déjà la carte, et sa valeur tombe aussi contre les tueurs qui ignorent les palettes (Blight, Nurse).
   - Palettes déjà consommées en fin de partie : l'aura ne montre plus que des structures faibles.
-- **Écart avec le seed** : LIVE OK (24/28/32 m). PTB IMPRÉCIS : le rayon PTB (24 m fixe) n'est pas mentionné. Le seed passe aussi sous silence le cooldown LIVE contesté.
-- **Sources** : [1][2][3][4][5][6]
+- **Écart avec le seed** : LIVE OK (24/28/32 m, permanent : l'absence de cooldown est confirmée par le wiki [18]). PTB IMPRÉCIS : le rayon PTB (24 m fixe, note 559 [1]) n'est pas mentionné.
+- **Sources** : [1][2][3][4][5][6][18]
 
 ### Will to Live (= Decisive Strike) — Générale (ex-Laurie Strode)
-- **Statut** : renommée (ex-Decisive Strike) ; perk générale pour qui ne possède pas le chapitre HALLOWEEN, depuis le retrait de la licence (janvier 2026 ; 9.4.0 selon [15]).
-- **Effet LIVE** : pendant 40/50/60 s après le décrochage, tant que les générateurs ne sont pas tous réparés : si le tueur vous ramasse, un skill check spécial vous libère et l'étourdit 4 s ; vous devenez l'Obsession. Réussir ou rater le skill check désactive la perk pour le reste de l'épreuve. STRONG_SECONDARY [10] ; 40/50/60 s et stun de 4 s confirmés par [15].
-- **Valeurs / CD / conditions / limites** : 40/50/60 s (LIVE) ; stun de 4 s (LIVE) ; usage unique ; se désactive aussi sur une action conspicuous (réparer, soigner, etc. ; formulation du seed et de [15], non relue dans le résumé [10]).
-- **PTB 10.2.0** : non modifiée d'après les sources lues (absente des résumés [1][4]). UNCERTAIN, faute d'avoir lu la liste complète des 58 perks.
+- **Statut** : renommée (ex-Decisive Strike) ; perk générale pour qui ne possède pas le chapitre HALLOWEEN, depuis le retrait de la licence (janvier 2026 ; 9.4.0, note officielle 534 : « Decisive Strike is now Will to Live » [43]).
+- **Effet LIVE** : après avoir été décroché ou s'être décroché seul, active pendant 40/50/60 s : si le tueur vous saisit ou vous ramasse, un skill check réussi vous libère et l'étourdit **4 s** ; vous devenez la prochaine Obsession. Désactivée quand les portes sont alimentées, désactivée prématurément par une action conspicuous, et désactivée pour le reste de l'épreuve après usage. Chance d'être l'Obsession initiale +100 %. STRONG_SECONDARY [19] ; 40/50/60 s et stun de 4 s concordent avec [15].
+- **Valeurs / CD / conditions / limites** : 40/50/60 s (LIVE) ; stun 4 s (LIVE, depuis 8.0.0 : 5 → 4 s [19]) ; usage unique ; saisie (grab) comprise, pas seulement le ramassage.
+- **PTB 10.2.0 (NON LIVE)** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [1][19].
 - **Interactions, DR, anti-synergies** : les protections de décrochage de base (Endurance + 10 % Haste 10 s + Elusive 10 s, 10.1.0 [15]) couvrent déjà le début de la fenêtre. Anti-synergie comportementale : toute action d'objectif la coupe, ce qui pousse à « jouer caché » pendant 40-60 s.
 - **Synergies** : Off the Record (le tueur ne voit plus votre aura) ; Resurgence et Dead Hard (build « 82 % » du seed, corrélation NightLight non vérifiée) ; Babysitter chez le sauveteur.
 - **Difficulté** : 2 (sans usage, il faut éviter toute action conspicuous pendant la fenêtre)
@@ -47,14 +48,14 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
 - **Quand elle n'en produit pas** :
   - Le tueur slugge (ne ramasse pas) ou attend l'expiration de la fenêtre, ou vous réparez / soignez trop tôt.
   - Tous les générateurs sont faits : la perk est inactive.
-- **Écart avec le seed** : OK (40/50/60 s, 4 s, Obsession, désactivations).
-- **Sources** : [10][15]
+- **Écart avec le seed** : OK (40/50/60 s, 4 s, Obsession, usage unique, désactivation sur action conspicuous et portes alimentées : tout concorde avec [19]).
+- **Sources** : [10][15][19][43]
 
 ### Lithe — Feng Min
 - **Statut** : LIVE 10.1.2a.
-- **Effet LIVE** : après un **rushed vault** (saut rapide de fenêtre ou de palette), +50 % de Haste pendant 3 s ; provoque Exhausted 60/50/40 s. Selon les résumés, « rushed » = saut rapide (fast vault), sans le saut moyen. STRONG_SECONDARY [11] ; exclusion du saut moyen : UNCERTAIN (une seule source faible [12]).
-- **Valeurs / CD / conditions / limites** : 50 % / 3 s / 60/50/40 s (LIVE). Ne se déclenche pas si vous êtes déjà Exhausted.
-- **PTB 10.2.0** : non modifiée d'après les sources lues (UNCERTAIN).
+- **Effet LIVE** : à chaque **Rushed Vault** (saut rapide), +50 % de Haste pendant 3 s ; inutilisable si Exhausted ; provoque Exhausted 60/50/40 s. STRONG_SECONDARY [20][11]. La description wiki ne parle que de « Rushed Vault action » et ne mentionne pas le saut moyen : son exclusion reste UNCERTAIN [12].
+- **Valeurs / CD / conditions / limites** : 50 % / 3 s / 60/50/40 s (LIVE, STRONG_SECONDARY [20]) ; aucune modification 8.x-10.1.2a au change log. Ne se déclenche pas si vous êtes déjà Exhausted.
+- **PTB 10.2.0 (NON LIVE)** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [1][20].
 - **Interactions, DR, anti-synergies** : une seule perk d'Exhaustion utile à la fois (Sprint Burst, Dead Hard, Background Player, Adrenaline qui l'ignore). Haste + Haste de base au décrochage (10 %) : cumul sans doute soumis aux DR (HYPOTHESIS).
 - **Synergies** : Windows of Opportunity (trouver la fenêtre) ; Finesse (le saut est plus court, le boost part plus tôt) ; Vigil.
 - **Difficulté** : 2 (il faut un vrai fast vault, donc arriver droit sur la fenêtre avec de l'élan)
@@ -63,14 +64,14 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
   - Vous choisissez quand l'utiliser (contrairement à Sprint Burst) : sur un fast vault de fenêtre ou de palette lâchée, le boost de 3 s ouvre assez de distance pour une nouvelle tile.
 - **Quand elle n'en produit pas** :
   - Zones mortes sans fenêtre, ou tueurs à mobilité (Blight, Nurse) qui ignorent la distance gagnée.
-- **Écart avec le seed** : IMPRÉCIS (« saut moyen ou rapide » : les sources parlent de rushed vault, et une source l'assimile au seul fast vault). Valeurs OK.
-- **Sources** : [11][12]
+- **Écart avec le seed** : IMPRÉCIS (« saut moyen ou rapide » : la description wiki complète dit « Rushed Vault » seulement [20]). Valeurs OK (50 %, 3 s, 60/50/40 s).
+- **Sources** : [11][12][20]
 
 ### Adrenaline — Meg Thomas
 - **Statut** : LIVE 10.1.2a ; modifiée en 10.1.0 [15].
-- **Effet LIVE** : quand les portes sont alimentées, soigne instantanément d'un état de santé (à terre compris ; si vous êtes accroché, l'effet attend votre décrochage), +50 % de Haste ; ignore l'Exhausted existant, puis vous rend Exhausted 60/50/40 s. STRONG_SECONDARY [14]
-- **Valeurs / CD / conditions / limites** : durée de la Haste **contestée** : 4 s selon les notes 10.1.0 relues par le lot 1 [15] ; 3 s selon le résumé wiki [14], sans doute en cache antérieur → CONFLICT-L2P23-03.
-- **PTB 10.2.0** : non modifiée d'après les sources lues (UNCERTAIN).
+- **Effet LIVE** : quand les portes sont alimentées (note 10.1.0 : « when all Generators are completed »), soigne d'un état de santé (à terre ou blessé), +50 % de Haste pendant **4 s** ; utilisable en étant Exhausted (ignore l'Exhausted existant), puis Exhausted 60/50/40 s. VERIFIED_MULTI_SOURCE [21][45]. Le report de l'effet si vous êtes accroché n'est pas décrit sur la page wiki : UNCERTAIN.
+- **Valeurs / CD / conditions / limites** : 50 % / **4 s** (LIVE depuis 10.1.0, était 3 s) / 60/50/40 s. VERIFIED_MULTI_SOURCE (wiki [21] + note officielle 556 [45]) : CONFLICT-L2P23-03 RÉSOLU.
+- **PTB 10.2.0 (NON LIVE)** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [1][21].
 - **Interactions, DR, anti-synergies** : ignore l'Exhausted, donc compatible avec une autre perk d'Exhaustion. Pas de valeur si tous les survivants sont déjà morts ou si les gens ne sont jamais finis.
 - **Synergies** : Sprint Burst / Lithe (deux Exhaustion) ; Hope (Haste de fin de partie, cumul soumis aux DR : HYPOTHESIS).
 - **Difficulté** : 1
@@ -79,14 +80,14 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
   - Le dernier gen est fait pendant une chase ou quand vous êtes à terre : un état de santé gratuit + Haste retournent une fin de partie.
 - **Quand elle n'en produit pas** :
   - Partie perdue avant les portes, ou tueur qui 3-gen et ne laisse jamais alimenter les portes.
-- **Écart avec le seed** : OK si l'on retient 4 s (notes 10.1.0 [15]) ; conflit de sources signalé.
-- **Sources** : [14][15]
+- **Écart avec le seed** : OK (4 s, buff 10.1.0, confirmé par [21][45]).
+- **Sources** : [14][15][21][45]
 
 ### Sprint Burst — Meg Thomas
 - **Statut** : LIVE 10.1.2a ; **nerf 10.1.0** : Haste 3 → 2 s.
-- **Effet LIVE** : quand vous commencez à courir, +50 % de Haste pendant 2 s ; Exhausted 60/50/40 s. VERIFIED_MULTI_SOURCE [13][15]
-- **Valeurs / CD / conditions / limites** : 50 % / 2 s / 60/50/40 s (LIVE). Déclenchement automatique (d'où la marche pour la conserver).
-- **PTB 10.2.0** : non modifiée d'après les sources lues (UNCERTAIN).
+- **Effet LIVE** : quand vous commencez à courir, +50 % de Haste pendant 2 s ; inutilisable si Exhausted ; Exhausted 60/50/40 s. VERIFIED_MULTI_SOURCE [22][45][13][15]
+- **Valeurs / CD / conditions / limites** : 50 % / 2 s / 60/50/40 s (LIVE ; wiki [22] + note officielle 556 [45]). Déclenchement automatique (d'où la marche pour la conserver).
+- **PTB 10.2.0 (NON LIVE)** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [1][22].
 - **Interactions, DR, anti-synergies** : auto-déclenchement : gâchée si vous courez sans raison. Une seule Exhaustion utile ; Vigil raccourcit la récupération.
 - **Synergies** : Adrenaline ; perks d'info (Kindred, Spine Chill…) pour partir avant le contact.
 - **Difficulté** : 2 (il faut marcher pour la garder)
@@ -95,14 +96,14 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
   - Dès l'arrivée du tueur sur le gen : 2 s de Haste ≈ 1,5 m de plus que sans perk (HEURISTIC), assez pour atteindre une tile au lieu de prendre le coup au sol.
 - **Quand elle n'en produit pas** :
   - Tueurs furtifs (sans rayon de terreur) : on la déclenche trop tard. Et si vous oubliez de marcher, elle est en cooldown au moment où il le faut.
-- **Écart avec le seed** : OK (2 s, nerf 10.1.0).
-- **Sources** : [13][15]
+- **Écart avec le seed** : OK (2 s, nerf 10.1.0 ; [22][45]).
+- **Sources** : [13][15][22][45]
 
 ### Off the Record — Zarina Kassir
-- **Statut** : LIVE 10.1.2a ; 9.2.0 retire l'Endurance, 9.2.2 la rend avec une durée de 30/35/40 s [15].
-- **Effet LIVE** (seed, NON RE-VÉRIFIÉ par WebSearch (quota épuisé) ; durée et Endurance recoupées avec [15]) : après le décrochage, pendant 30/35/40 s : Endurance, gémissements réduits de 100 %, aura cachée au tueur. Durée et Endurance : STRONG_SECONDARY via [15] (notes 9.2.2) ; texte exact **non relu cette session** (quota).
-- **Valeurs / CD / conditions / limites** : 30/35/40 s (LIVE, [15]). Condition « tant que des générateurs restent à réparer » : UNCERTAIN. Désactivation sur action conspicuous : affirmée par le seed (ch. 4-7), non vérifiée.
-- **PTB 10.2.0** : non vérifiée (UNCERTAIN).
+- **Statut** : LIVE 10.1.2a ; 9.2.0 retire l'Endurance et la désactivation aux portes, ajoute la suppression des scratch marks [40] ; 9.2.2 rend l'Endurance et passe la durée à 30/35/40 s [41] ; le PTB 9.3.0 (retour à 60/70/80 s sans Endurance) a été **annulé** à la sortie de 9.3.0 (« Changes from PTB… Reverted the following perks… Off the Record » [42]).
+- **Effet LIVE** : après avoir été décroché ou s'être décroché seul, active 30/35/40 s : aura bloquée (non révélable), gémissements de douleur supprimés (blessé), **scratch marks supprimées**, **Endurance** (annulée prématurément par une action conspicuous). La page wiki ajoute : désactivée pour le reste de l'épreuve quand les portes sont alimentées (voir CONFLICT-L2P23-04). VERIFIED_MULTI_SOURCE pour durée + Endurance [23][41][42] ; texte complet STRONG_SECONDARY [23].
+- **Valeurs / CD / conditions / limites** : 30/35/40 s (LIVE, VERIFIED_MULTI_SOURCE [23][41]). L'action conspicuous annule **l'Endurance seulement**, pas l'aura cachée ni le silence (texte wiki [23]). Désactivation « portes alimentées » : présente dans la description wiki actuelle mais retirée par la note 9.2.0 [40] et non ré-ajoutée par une note ultérieure lue → UNCERTAIN (CONFLICT-L2P23-04).
+- **PTB 10.2.0 (NON LIVE)** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [1][23].
 - **Interactions, DR, anti-synergies** : l'Endurance de la perk double celle des protections de base (10 s, 10.1.0) ; un seul état d'Endurance à la fois, donc son vrai apport vient des 20-30 s après la fin des protections de base (HYPOTHESIS). Endurance puis Deep Wound : Made for This ou un soin deviennent prioritaires.
 - **Synergies** : Will to Live (fenêtres qui se recouvrent) ; Resurgence ; Iron Will n'apporte rien pendant la fenêtre (redondance).
 - **Difficulté** : 2
@@ -111,8 +112,9 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
   - Tunnel juste après les protections de base : un coup encaissé en plus + aucune aura à suivre pour le tueur (contre Nemesis, BBQ, etc.).
 - **Quand elle n'en produit pas** :
   - Tueur qui ne tunnel pas ; ou gens tous faits.
-- **Écart avec le seed** : durée OK ([15]) ; Endurance OK selon 9.2.2 [15] (CONFLICT-R2-02 du lot 1 à clore) ; conditions NON VÉRIFIABLE cette session.
-- **Sources** : [15]
+- **Tracking** : la suppression des scratch marks (depuis 9.2.0) rend aussi la perk forte contre le pistage visuel, pas seulement contre les auras (HEURISTIC).
+- **Écart avec le seed** : durée OK ; Endurance OK (9.2.2 [41], maintenue en 9.3.0 [42] : CONFLICT-R2-02 du lot 1 **clos**) ; IMPRÉCIS : le seed omet la suppression des scratch marks ; « tant que des générateurs restent à réparer » concorde avec la page wiki mais contredit la note 9.2.0 (CONFLICT-L2P23-04).
+- **Sources** : [15][23][40][41][42]
 
 ### Five Moves Ahead — Kwon Tae-young
 - **Statut** : LIVE 10.1.2a (perk de la 9.5.0 [15]) ; **modifiée au PTB 10.2.0**.
