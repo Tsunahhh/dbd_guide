@@ -710,3 +710,95 @@ Détail : `kb/research/batch9_macro.md` §5.
 
 Détail : `kb/research/batch9_macro.md` §8.
 
+---
+
+## 6.11 Fin de partie : 99, portes, trappe, EGC `[Avancé]`
+
+### Le dernier gen et le « 99 »
+
+- **QUOI** : tenir le dernier gen à ~99 % sans le finir, pour choisir **le moment** de l'alimentation.
+- **POURQUOI** : l'alimentation des portes est **un interrupteur de règles** :
+  - l'**anti-camp est désactivé** [FACT] (SS) ;
+  - **Elusive** n'est plus donnée au décrochage ; Endurance + Haste restent [FACT] (VP) ;
+  - **Will to Live** est désactivé [FACT] (SS) ;
+  - les perks de fin se déclenchent : Adrenaline, Hope, Wake Up! côté survivants ; NOED, No Way Out, Terminus, Blood Warden côté tueur.
+- **QUAND tenir le 99** [SITUATIONNEL] :
+  - un allié est accroché (ou va l'être) et le tueur est près du crochet : alimenter lui coupe l'anti-camp et Elusive ;
+  - plusieurs blessés et Adrenaline dans l'équipe : alimenter **au moment** où ça soigne utilement (fin de chase) ;
+  - suspicion de NOED / Terminus / No Way Out : alimenter quand l'équipe est en position (près des portes, pas en chase).
+- **QUAND ne pas le tenir** :
+  - le tueur est **sur** le gen ou arrive : un kick fait 99 → 94 % puis régression ; le 99 devient un ~90-94 % (ordre de grandeur) ;
+  - **Hex: Ruin** actif : un 99 non tenu fond ;
+  - **Heresy** (The Judgment) : un skill check Good fait −3 % [FACT] (VP) : un hérétique ne tient pas de 99 ;
+  - tout le monde est sain et libre : chaque seconde de 99 est une seconde où le tueur peut trouver quelqu'un. Alimenter et ouvrir.
+- **COMMENT** : relâcher à **97-98 %** plutôt qu'à 99 (un Great ajoute +1 % et peut finir le gen par accident ; un raté fait −10 % et du bruit). Un survivant reste **à côté** (pas dessus) ; finir coûte ~1-3 s solo.
+- **CONTRE (contre-jeu du tueur)** : un survivant qui attend à côté d'un gen sans réparer est un indice lisible ; un tueur qui soupçonne un 99 patrouille ce gen et le frappe. Le 99 est un outil pour **quelques dizaines de secondes** autour d'un événement précis, pas une posture par défaut.
+- **CAS D'ÉCHEC** : en SoloQ, personne ne sait qu'un 99 est tenu ; un allié peut le finir. Ne pas bâtir un plan dessus.
+
+### Portes et gate camp
+
+- **Faits** : ouverture **20 s**, progression **conservée** [FACT] (SS) ; ouverture par le tueur 0,75 s [INCERTAIN]. Blocages de l'Entité : Blood Warden 40/50/60 s (une fois) ; No Way Out 12 s + 6/9/12 s par jeton [FACT] (SS) ; Remember Me : valeurs [INCERTAIN].
+- **Répartition** [HEURISTIQUE] : une porte par survivant libre, **la plus éloignée du tueur** d'abord. Deux portes ouvertes à la fois forcent le tueur à choisir. (Suppose de connaître l'emplacement des portes : voir le chapitre cartes.)
+- **Gate camp — règle unique** (même logique que le gen) : **temps restant d'ouverture** (20 s × % restant : **2 s à 90 %**, **1 s à 95 %**, calcul) **< temps d'arrivée du tueur** → **finir** ; sinon **lâcher** l'interrupteur (progression conservée) et revenir quand il repart. Nuance : finir ouvre la porte **et** lance l'EGC ; si un allié est encore accroché ou au sol, c'est une décision d'équipe.
+- **Contre No Way Out** : le premier contact avec un interrupteur fait du bruit et bloque les deux : **toucher l'interrupteur quand le tueur est loin et occupé**, puis attendre à distance.
+- **Contre Blood Warden** : une porte ouverte, **ne plus se faire accrocher** (blocage 40-60 s) ; ne pas traîner dans la sortie (auras révélées).
+- **Contre The Judgment** : **45 s dans le seuil d'une porte = Heresy** ; porte bloquée 8 s pour l'hérétique si la Heresy est acquise à < 32 m d'une porte [FACT] (VP principe / SS valeurs).
+- **Sortir** : attendre dans la sortie n'a de valeur que pour un **save** prévu. Le t-bag donne de l'information (et la Heresy contre The Judgment).
+
+> **Erreur fréquente** : traîner à la porte ouverte (E-A09). L'EGC ne s'arrête jamais, et chaque seconde d'attente est une seconde d'exposition.
+
+### La trappe et le standoff
+
+- **Faits** [FACT] (SS) : la trappe s'**ouvre automatiquement quand il ne reste qu'un survivant** ; son aura est **visible de lui seul** (5.3.0) ; clé : 2,5 s ; **fermée par le tueur → EGC** ; elle **se referme après chaque évasion** (8.1.0).
+- **Dernier survivant avec des gens restants** [HEURISTIQUE] :
+  1. **trappe** : s'y déplacer furtivement, en marchant si le tueur est proche ;
+  2. **portes** : seulement si les gens sont presque finis **et** qu'on sait où est le tueur — un gen seul, c'est 90 s.
+- **Standoff** (tueur et survivant près de la trappe) :
+  - le tueur **ne voit pas l'aura** : s'il est dessus, il l'a trouvée (repère, bruit, hasard) ;
+  - s'il la ferme, l'EGC démarre : atteindre une porte et l'ouvrir (20 s). Il ne garde qu'une porte à la fois : aller à celle **opposée à sa position** au moment de la fermeture ;
+  - vous ne pouvez pas « forcer » le passage d'un tueur collé (durée du saut : [INCERTAIN]) : ne pas se montrer, attendre qu'il quitte l'axe, **pré-positionner** sa route vers la porte la plus éloignée ;
+  - rouvrir une trappe fermée avec une clé : [INCERTAIN].
+- **Cas d'échec** : courir vers la trappe devant le tueur ; attendre immobile si longtemps que les **corbeaux AFK** (80/100/120 s) vous signalent.
+
+### EGC et fins à 2 survivants
+
+- **Faits** [FACT] (SS) : EGC **120 s**, déclenché par l'ouverture d'une porte **ou** la fermeture de la trappe ; **moitié de vitesse** si un survivant est au sol ou accroché (max 4 min) ; **jamais arrêté** ; gens bloqués.
+- Un allié accroché pendant l'EGC **ralentit le timer** : il reste du temps pour un sauvetage, mais sa phase de 70 s continue de courir.
+- **Fin à 2 survivants** [FACT] (VP / SS) : auto-décrochage possible (4 %) ; **2 skill checks de lutte manqués = sacrifice** ; **tous les survivants restants accrochés en même temps = sacrifice** ; **Mori** possible si l'un est en Struggle et l'autre au sol. Donc :
+  - **ne jamais être mis au sol pendant que l'allié est en Struggle, où que vous soyez** : les sources ne donnent aucune condition de distance pour ce Mori ; la proximité du crochet augmente seulement la probabilité d'être trouvé ;
+  - tenter le sauvetage **seulement** si le tueur est engagé ailleurs ou loin ; sinon la trappe ne s'ouvrira qu'à la mort de l'autre ;
+  - jouer la trappe quand le sauvetage est impossible n'est pas « égoïste » [AVIS D'EXPERT].
+
+### Arbre ENDGAME (version courte)
+
+Complet : arbres 5.2 (sous-arbre 99), 8 (endgame) et 9 (trappe) de `kb/deliverables/DECISION_TREES.md` (feuilles GEN, END-1 à END-10, TRP-0 à TRP-4).
+
+```
+Tous les gens finis ?
+├─ NON, 1 gen restant → 99 ou alimenter ?
+│   ├─ allié accroché + tueur près du crochet → 99 (sinon anti-camp, Elusive, WTL perdus)
+│   ├─ blessés + Adrenaline dans l'équipe → alimenter hors chase, équipe en position
+│   └─ Ruin / hérétique / tueur qui arrive sur le gen → finir tout de suite
+└─ OUI, portes alimentées
+    ├─ allié accroché ? → anti-camp COUPÉ : le tueur peut camper sans pénalité
+    │   ├─ ouvrir entièrement une porte → EGC (ralenti tant qu'il est accroché)
+    │   │   ou la laisser à ~90 % → pas d'EGC, mais 2 s à finir sous pression
+    │   ├─ sauvetage seulement avec un plan (protection hit, distraction) :
+    │   │   Endurance + Haste oui, Elusive NON ; Blood Warden si une porte est ouverte
+    │   └─ à 2 survivants : Mori si l'accroché est en Struggle et le sauveteur tombe
+    ├─ tueur à une porte → ouvrir l'autre ; lâcher l'interrupteur s'il arrive
+    ├─ No Way Out suspecté → toucher l'interrupteur quand il est loin, attendre à distance
+    ├─ NOED (Exposed) → aucun coup gratuit ; un joueur cherche le totem, les autres ouvrent
+    └─ porte ouverte → sortir sauf plan précis ; pas d'attente dans le seuil
+Dernier survivant ?
+├─ gens restants → trappe (aura visible de vous seul) ; marcher près du tueur
+├─ trappe fermée → EGC : porte la plus éloignée de lui, 20 s
+└─ standoff → ne pas se montrer ; route pré-positionnée vers la porte opposée
+  [SoloQ] supposer que les autres ouvrent la porte la plus proche d'eux : prendre l'autre
+  [SWF]   plan explicite : « A ouvre nord, B sud, C sauve »
+```
+
+**EXERCICE** : DR-11 (endgame : plan annoncé à 1 gen restant dans 100 % des parties) ; erreurs E-A09 (traîner à la porte), E-T07 (trappe contre porte mal arbitrées).
+
+Détail : `kb/research/batch9_macro.md` §6, §7.6.
+
