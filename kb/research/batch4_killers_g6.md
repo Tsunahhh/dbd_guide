@@ -141,3 +141,273 @@ Couverture web : 0 élément vérifié par recherche / 7 non re-vérifiés (quot
 - **Sources** : [1], [2].
 
 ---
+## 41. The Krasue (Burong Sukapat) — archétype(s) : ranged | mobilité | anti-loop | statut (Leech)
+
+- **Version** : 9.2.0 « Sinister Grace » (CHAPTER 37), 23/09/2025 (audit phase 0, VERIFIED via registre). Le seed cite un hotfix 9.2.2 (« Leeched retiré au crochet »), mais le résumé 9.2.2 de l'audit ne mentionne que Off the Record : NON VÉRIFIABLE. Statut LIVE.
+- **Données LIVE** :
+  - Body Form 4,6 m/s, TR 32 m ; Head Form 4,8 m/s, TR 40 m (**audit phase 0, notes 9.2.0**). Headlong Flight 7 m/s (seed-NRV). Taille moyenne (seed-NRV).
+  - **La Head Form n'a pas de Bloodlust** (audit phase 0, VERIFIED_PRIMARY).
+  - Pouvoir « Unbodied Flesh » (seed-NRV, UNCERTAIN) :
+    - **Corps** : Regurgitate, une glande projectile qui rebondit puis se divise en 4 mini-glandes à tête chercheuse (+100 charges de Leech ; cooldown 2,5 s).
+    - **Tête** : Headlong Flight (12 charges, seuil 25 %) et Intestinal Whip, un fouet qui ignore brièvement les obstacles (+34 charges, ne blesse qu'à partir de Leeched I). La tête vaulte palettes et fenêtres au lieu de les casser. Stun de palette 2,5 s.
+    - **Leeched** : palier I à 100 (le fouet blesse, la jauge monte passivement), palier II à 200 (blessé + Broken).
+    - **Champignons** : 5 au départ, 6 au max ; les manger (3 s) fait baisser la jauge.
+- **Identification** (HEURISTIC) :
+  - *Avant le reveal* : **deux TR différents** (32 m puis 40 m) et un changement de vitesse. Une tête volante = Head Form. Des champignons lumineux sur la map = Krasue.
+  - *Pouvoir en action* : projectiles qui rebondissent et se divisent (Body), vol rapide (Head).
+  - *Add-ons* : tous les survivants Leeched I dès le début (Chicken Head, seed) ; auras près des champignons (Shredded Gown, seed).
+  - *Stratégie probable* : pression d'usure par la jauge de Leech (blessures sans coup au palier II), mobilité en vol.
+- **Ce qu'il cherche en chase** (HEURISTIC) : en Body, toucher par rebonds derrière les obstacles pour faire monter la jauge ; en Head, des vaults gratuits de palette (pas de casse) et un fouet qui ignore brièvement les murs.
+- **Tiles / structures** (HEURISTIC) :
+  - *Favorables* : tiles où la tête doit **contourner** plutôt que vaulter (murs pleins, gros rochers), et stuns de palette (2,5 s, seed) quand elle vaulte mal.
+  - *Défavorables* : tiles de palette « classiques » contre la Head Form (elle les vaulte) ; espaces ouverts avec murs proches (rebonds de glande).
+  - *LOS* : les mini-glandes cherchent la cible. Couper la LOS **après** la division compte plus que l'esquive initiale (seed + HEURISTIC).
+- **Mindgames propres** (HEURISTIC) : glande tirée contre un mur pour toucher derrière le tile ; alternance de formes pour changer de TR (le passage à 40 m peut cacher la position exacte) ; fouet au travers d'un coin.
+- **Counterplay** :
+  - *Mécanique* : changez de direction contre la glande principale, puis cassez la LOS contre les mini-glandes. Contre le fouet, gardez de la distance, sa fenêtre de traversée est courte (seed). **Surveillez votre palier de Leech** : sous le palier I, le fouet ne blesse pas (seed-NRV), ce qui change totalement la valeur de la chase.
+  - *Positionnel* : restez près d'un champignon quand votre jauge monte, et repérez les champignons en début de partie.
+  - *Macro* : mangez un champignon **avant** de franchir un palier, pas après. Le palier II rend blessé et Broken sans coup (seed). Le crochet remet le Leech à zéro selon le seed (UNCERTAIN) : ne gaspillez pas de champignon juste avant un crochet probable (SITUATIONAL).
+  - *Équipe* : le soin est inutile au palier II (Broken) : faites d'abord baisser la jauge.
+- **Habitudes punissables / erreurs** (HEURISTIC) : ignorer la jauge ; boucler une palette contre la tête comme contre un M1 ; courir en ligne droite contre la glande ; oublier qu'un TR 40 m peut être la tête **loin du corps**.
+- **Adaptations avancées** (HEURISTIC) : l'absence de Bloodlust en Head Form (FACT, audit) rend les **chases longues relativement plus viables contre la tête** que contre un tueur avec Bloodlust. En revanche, le counterplay « palettes » habituel échoue, puisqu'elle les vaulte. Privilégiez les tiles à murs et fenêtres qu'elle doit contourner, et les stuns ponctuels.
+- **Add-ons qui changent la décision** (seed-NRV) :
+  - Chicken Head (tous Leeched I au départ, +2 champignons) → **le fouet blesse dès la première chase** : prenez un champignon tôt ou jouez sur une distance plus longue.
+  - Shredded Gown (aura près des champignons) → mangez vite, et pas en présence d'un TR proche.
+  - Queen's Sceptre (le fouet fait apparaître une glande) → après un fouet, attendez-vous à un projectile de suivi : cassez la LOS.
+  - Janjira's Hand (recharge du vol à la complétion des gens) → après un gen terminé, attendez-vous à son arrivée rapide.
+- **Implications de carte** (HEURISTIC) : forte sur les maps ouvertes à murs proches (rebonds). Les maps denses en palettes perdent de la valeur contre la Head Form.
+- **Perks fréquentes** (seed-NRV) : Pain Resonance, Dissolution, Pop Goes the Weasel, No Way Out / Ravenous. → Contre Dissolution, ne vaultez pas une palette dans sa zone proche si la perk est confirmée (SITUATIONAL). Ravenous : à 4 tokens, tous les survivants crient et sont Exposed (seed-NRV).
+- **Écart avec le seed** : vitesses et TR **OK** (audit). « Pas de Bloodlust » **OK** pour la Head Form (audit). Date **OK**. Hotfix 9.2.2 : NON VÉRIFIABLE. « N°1 en kill rate MMR élevé selon BHVR » : **OK sur le fond** (audit : « kill Krasue (high) », KB 540), mais le classement « n°1 » et les chiffres ne sont pas publiés en texte. Tier et NightLight : HEURISTIC / non vérifiés.
+- **Sources** : [1], [2].
+
+---
+
+## 42. The First (Henry Creel) — archétype(s) : zone | furtif (Upside Down) | mobilité | anti-loop
+
+- **Version** : 9.4.0 « Stranger Things Chapter 2 » (CHAPTER 38), 27/01/2026 (audit phase 0). **9.5.0** (17/03/2026) : 2e phase du Worldbreaker à 50 s (audit phase 0). Statut LIVE.
+- **Données LIVE** :
+  - 4,4 m/s, TR 32 m (**audit phase 0**). 8 m/s dans l'Upside Down (seed-NRV). Taille moyenne (seed-NRV).
+  - Pouvoir « Test Subject #001 » (seed-NRV, UNCERTAIN sauf mention) :
+    - **Vine Attack** : attaque de zone chargée à distance (rayon 1,46 m), marche lente pendant la charge et le cast, cooldown 3 s. Chaque touche donne un token Worldbreaker, et l'attaque peut casser les palettes.
+    - **Upside Down** : Undetectable, 8 m/s, traverse palettes, fenêtres et murs. Cooldown 35 s (50 % chargé en début de partie).
+    - **Undergate Attack** : depuis l'Upside Down, zone qui s'étend (anneau rouge) et donne 2 tokens. Un casier protège (seed).
+    - **Worldbreaker** : à 2 ou 4 tokens, ses attaques de pouvoir blessent. Phase 1 : 60 s par survivant vivant. Phase 2 : **50 s (FACT, audit phase 0, 9.5.0)**. 4 horloges permettent aux survivants d'accélérer la fin (phase 1).
+    - **Mind Break** : un survivant à 4 tokens au 2e crochet peut être mori.
+- **Identification** (HEURISTIC) :
+  - *Avant le reveal* : 4,4 m/s ; un TR qui **disparaît d'un coup** = Upside Down (Undetectable).
+  - *Pouvoir en action* : charge lente puis lianes au sol ; anneaux rouges d'Undergate ; horloges sur la map.
+  - *Add-ons* : Upside Down beaucoup plus fréquent (Pizza Goggles, seed) ; lianes à 2 charges (Chess Piece, seed).
+  - *Stratégie probable* : accumuler des tokens sur plusieurs survivants, puis exploiter la fenêtre Worldbreaker. Pression de gens avec Turn Back the Clock et Pop (EXPERT OPINION).
+- **Ce qu'il cherche en chase** (HEURISTIC) : prédire votre position aux sorties de palette et de fenêtre (zone retardée). Hors Worldbreaker, les lianes donnent des tokens, pas des blessures (seed) : il construit sa phase de dégâts.
+- **Tiles / structures** (HEURISTIC) :
+  - *Favorables* : boucles longues où sa vitesse de 4,4 m/s (FACT) le pénalise ; tiles offrant **plusieurs sorties** qui rendent la prédiction de zone difficile.
+  - *Défavorables* : tiles à sortie unique, couloirs étroits (zone facile à placer), palettes « cassables » par les lianes.
+  - *Verticalité* : peu documentée (UNCERTAIN).
+- **Mindgames propres** (HEURISTIC) : charger la liane sur la sortie de palette probable ; attendre le double-vault ; sortir de l'Upside Down derrière un tile.
+- **Counterplay** :
+  - *Mécanique* : **feintes de vault et changements de direction tardifs**. La zone vise là où vous allez (seed). Quand l'anneau d'Undergate s'étend, sortez vite ou prenez un casier (seed).
+  - *Positionnel* : hors Worldbreaker, bouclez longtemps en exploitant sa lenteur (seed + HEURISTIC). En Worldbreaker, raccourcissez la chase et coupez la LOS, puisque chaque liane blesse.
+  - *Macro* : suivez les tokens de l'équipe. Un survivant à 4 tokens au 2e crochet risque la **mise à mort directe** (Mind Break, seed) : priorité de sauvetage et d'anti-tunnel.
+  - *Équipe* : **un seul survivant sur les horloges**, les autres sur les gens (seed : les ajouts n'aident presque pas, UNCERTAIN).
+- **Habitudes punissables / erreurs** (HEURISTIC) : vaulter « par réflexe » à la même sortie ; ignorer la disparition du TR (ambush Upside Down) ; envoyer toute l'équipe aux horloges ; laisser un survivant cumuler 4 tokens avant son 2e crochet.
+- **Adaptations avancées** (HEURISTIC) : le counterplay « exploiter sa vitesse de 4,4 m/s » **échoue en Worldbreaker**, où la liane devient une attaque blessante. Changez de plan au déclenchement : cherchez un tile à murs hauts plutôt qu'une longue boucle, et pensez distance plutôt que durée de chase. Le cooldown de 35 s de l'Upside Down (seed) donne une fenêtre de sécurité mesurable après chaque usage.
+- **Add-ons qui changent la décision** (seed-NRV) :
+  - Iridescent Soteria Chip (Undetectable au déclenchement du Worldbreaker, auras à 12 m) → au déclenchement, **quittez les gens proches** et ne comptez plus sur le TR.
+  - Pizza Goggles (Upside Down plus fréquent) → la fenêtre de sécurité de 35 s n'existe plus : répartissez-vous sur la map.
+  - Chess Piece (lianes à 2 charges) → une double zone : ne fêtez pas un premier dodge, attendez-vous au second.
+- **Implications de carte** (HEURISTIC) : l'Upside Down (8 m/s, traverse les murs) réduit l'avantage des grandes maps. Sur les maps intérieures, les zones de liane sont plus faciles à placer dans les couloirs.
+- **Perks fréquentes** (seed-NRV) : Pain Resonance, Turn Back the Clock, Lethal Pursuer, Pop Goes the Weasel. → Après un crochet, **évitez de garder un gen à 20 m** d'un point accessible (Turn Back the Clock : explosion d'un gen à 20 m, seed).
+- **Écart avec le seed** : vitesse, TR, date **OK** (audit). Phase 2 50 s **OK** (audit, 9.5.0). « N°2 en kill rate MMR élevé selon BHVR » : **NON VÉRIFIABLE / douteux**. L'audit ne cite que Krasue (high) et Lich (broad) pour les kill rates, et The First est sorti fin janvier 2026, à la toute fin de la fenêtre sept. 2025-févr. 2026. Le reste est NON VÉRIFIABLE.
+- **Sources** : [1], [2].
+
+---
+
+## 43. The Slasher (Jason Voorhees) — archétype(s) : furtif | mobilité | ranged (pics) | anti-loop
+
+- **Version** : 10.0.0 « Jason » (CHAPTER 40), 16/06/2026 (audit phase 0). **10.0.2 / 10.0.3** (06/07 et 21/07/2026) : ajustements d'add-ons (audit phase 0, sans détail). Nouvel état **Impaled** (audit phase 0). Statut LIVE.
+- **Données LIVE** :
+  - 4,4 m/s ; 8,0 m/s en Omnipresent Evil ; TR 32 m (**audit phase 0**). Taille moyenne (seed-NRV).
+  - Perks enseignables (audit phase 0) : Hex: Scared to Death, Silent Shadow, Rampage.
+  - Pouvoir (seed-NRV, UNCERTAIN sauf vitesse) :
+    - **Omnipresent Evil** : invisible, Undetectable, traverse palettes, murs et fenêtres, ne peut pas attaquer. Il détecte à 16 m (brume pour les immobiles, traces pour ceux qui bougent). Un survivant accroupi devient indétectable après 2,5 s.
+    - **Jump Scare** : possible après 2 s ; réapparition sur une palette, un mur ou une fenêtre à ≤ 16 m. Réapparition plus lente près d'un survivant accroché (×3). Haste pendant 25 s et révélation des proches, cooldown 12 s.
+    - **Throwing Spikes** : pics ramassés sur les crochets ou dans la ferraille. Chaque pic blesse d'un état et repousse, avec épinglage au mur possible (8 s). Les pics de crochet rendent Broken et restent plantés (5 s pour les retirer, aura visible par Jason à 26 m). **Finisher** si le survivant épinglé ou empalé est à son dernier crochet.
+- **Identification** (HEURISTIC) :
+  - *Avant le reveal* : 4,4 m/s ; un TR qui **se coupe** sans raison = Omnipresent Evil. Des tas de ferraille sur la map = Slasher.
+  - *Pouvoir en action* : réapparition brutale sur une palette ou une fenêtre (Jump Scare), projectiles-pics.
+  - *Add-ons* : fenêtres bloquées après Jump Scare (Iridescent Boat Motor, seed) ; explosions de gens au passage (Deputy's Badge, seed).
+  - *Stratégie probable* : « fog of regression » (Pop / Surge / Pain Resonance + Corrupt, seed), tunnel via Finisher au dernier crochet (HEURISTIC).
+- **Ce qu'il cherche en chase** (HEURISTIC) : réapparaître **sur la palette ou la fenêtre** que vous alliez utiliser, puis gagner la chase courte grâce à la Haste de 25 s. Hors pouvoir, pics à distance sur un survivant sain qui arrive à une palette.
+- **Tiles / structures** (HEURISTIC) :
+  - *Favorables* : zones sans palette ni fenêtre à ≤ 16 m (il ne peut réapparaître que sur ces éléments, seed) ; tiles de LOS contre les pics.
+  - *Défavorables* : tiles denses en palettes et fenêtres, précisément ses points d'apparition ; murs proches (épinglage).
+  - *Fenêtres vs palettes* : les deux sont des points de Jump Scare. Iridescent Boat Motor bloque en plus les fenêtres marquées (13 s, seed).
+- **Mindgames propres** (HEURISTIC) : entrer en Omnipresent Evil pour simuler un départ, puis revenir ; Jump Scare sur la palette de sortie ; garder un pic pour la fin de boucle.
+- **Counterplay** :
+  - *Mécanique* : **quand le TR se coupe, vous avez environ 2 s** avant un Jump Scare possible (seed). Bougez hors des 16 m des palettes et fenêtres, ou accroupissez-vous (2,5 s pour disparaître, seed). Contre les pics, esquive latérale et LOS, et éloignez-vous des murs pour éviter l'épinglage.
+  - *Positionnel* : pendant la Haste de 25 s, cassez la LOS et forcez un contournement plutôt qu'une boucle nue.
+  - *Macro* : retirez **immédiatement** les pics de crochet (Broken, et Jason voit leur aura à 26 m, seed). Au dernier crochet, **évitez tout risque d'empalement** (Finisher).
+  - *Équipe* : la réapparition est ralentie près d'un survivant accroché (×3, seed) : c'est une fenêtre de sauvetage. Kindred, Borrowed Time et Will to Live sont conseillés par le seed (EXPERT OPINION non re-sourcée).
+- **Habitudes punissables / erreurs** (HEURISTIC) : rester debout, immobile, près d'une palette à ≤ 16 m quand le TR disparaît ; garder un pic « pour plus tard » ; courir le long d'un mur contre un tueur qui a des pics.
+- **Adaptations avancées** (HEURISTIC) :
+  - Le counterplay « TR = info » **échoue** : son absence est l'info. Traitez une coupure de TR comme une alerte.
+  - Contre la Haste du Jump Scare, les perks de vitesse du survivant peuvent être atténuées par les Diminishing Returns si deux sources identiques se cumulent côté survivant. La Haste du tueur (Jump Scare + Rampage) est aussi concernée côté tueur (HYPOTHESIS, cf. audit 9.6.0).
+- **Add-ons qui changent la décision** (seed-NRV ; ajustements 10.0.2/10.0.3 non détaillés) :
+  - Iridescent Boat Motor (le Jump Scare bloque les fenêtres marquées 13 s) → **ne planifiez pas une chase autour de fenêtres** ; privilégiez les palettes.
+  - Orderly's Shoe (+5 s de Haste) → cassez la LOS plus longtemps après un Jump Scare avant de rejouer une boucle.
+  - Deputy's Badge (explosions de gens au passage ; portée nerfée en 10.0.2 selon le seed) → ne laissez pas de gens à moitié réparés sur sa route.
+  - Sauna Rock (Exhausted au Jump Scare, seed) → gardez votre perk d'Exhaustion pour après ; un Sprint Burst « prêt » peut être annulé.
+- **Implications de carte** (HEURISTIC) : fort sur les maps denses en palettes et fenêtres (points d'apparition). Plus faible dans les grandes zones vides sans éléments à 16 m.
+- **Perks fréquentes** (seed-NRV) : Pain Resonance, Pop, Surge, Corrupt Intervention ; variante Spirit Fury, Enduring, Bamboozle, Tinkerer. Ses perks : Hex: Scared to Death (cri + Hindered à 13 m quand il casse une palette en chase, seed), Silent Shadow (Undetectable après crochet, seed), Rampage. → Contre Spirit Fury et Enduring, **ne misez pas sur un stun de palette tardif** ; cherchez la distance.
+- **Écart avec le seed** : vitesse (4,4 / 8,0), TR, date, perks **OK** (audit). Add-ons : « ajustés en 10.0.2 » **OK** sur le principe (audit), détail NON VÉRIFIABLE. Le reste est NON VÉRIFIABLE.
+- **Sources** : [1], [2].
+
+---
+## 44. The Judgment (pas de nom réel) — archétype(s) : ranged | zone | alternative au crochet (Exile) | pression de gens passive (Heresy)
+
+- **Version** : 10.1.0 « Chorus of Sin » (CHAPTER 41), 25/08/2026 (audit phase 0, VERIFIED_MULTI_SOURCE). Historique de la **fenêtre de courbe de Divine Light** (audit phase 0, registre, VERIFIED_MULTI_SOURCE) :
+  - 10.1.1 (01/09/2026) : en Zealous, 0,3 → 0,6 s.
+  - 10.1.2 (08/09/2026) : 0,8 s en Zealous + 0,3 s hors Zealous ; les survivants libérés de l'Exile réapparaissent à **≥ 32 m**.
+  - **10.1.2a (17/09/2026, LIVE actuel)** : retour à **0,6 s en Zealous** et **suppression de la fenêtre hors Zealous**. Raison donnée par BHVR : « The Judgment's performance skyrocketed following HF2 ».
+- **Données LIVE** :
+  - 4,4 m/s, TR 32 m, **grande taille**, pouvoir « Will of the Gods », 44e tueur (audit phase 0).
+  - **Exile** (audit phase 0, VERIFIED_PRIMARY) : compte comme un état de crochet **sans déclencher les perks de crochet**, et tue si le survivant a déjà 2 états. Seeds of Punishment : −3 s de timer. Exiled Souls : +0,5 s de protections de décrochage chacune (10 max).
+  - **Heresy** (audit phase 0 ; notes 10.1.0 pour le principe, wiki.gg pour les valeurs) : s'obtient en étant touché par la Divine Light, en faisant **3 accroupissements ou gestes à moins de 10 m** (voir Questions ouvertes), ou en restant 45 s dans le seuil d'une porte de sortie. Effets : un skill check **Good** sur un gen fait −3 %, et la porte est bloquée 8 s pour l'hérétique **si l'Heresy est acquise à moins de 32 m d'une porte**. Elle se purge en **« Repent » à un Shrine** (décroissance 30 s).
+  - Divine Light (seed-NRV, UNCERTAIN) : colonne contrôlée (rayon 0,6 m, 16 m de haut) jusqu'à 3 s puis projetée ; plus le contrôle est long, plus l'impact est rapide. Elle blesse et applique Heresy, et un survivant qui la frôle à 0,5 m est révélé. Cooldown 6 s.
+  - Exile, détails (seed-NRV) : 2 sanctuaires sur 7 s'activent pour le sauvetage.
+  - Zealous (seed-NRV) : 60 s après un exil, lumière +10 %, cast +50 %, cooldown −20 %.
+- **Identification** (HEURISTIC) :
+  - *Avant le reveal* : grande silhouette, 4,4 m/s. Des Shrines sur la map = Judgment.
+  - *Pouvoir en action* : colonne de lumière visible qui suit une cible, son de charge puis de projection.
+  - *Statuts* : Heresy sur vous ou un coéquipier (régression sur Good) ; un survivant qui disparaît au sol au lieu d'être accroché = Exile.
+  - *Add-ons* : lumière qui rebondit sur des obstacles (Mirror of the Creators, seed), auras des hérétiques (Eyes of Gerhardt, seed).
+  - *Stratégie probable* : Exile contre les équipes anti-tunnel (contourne BT et OTR : FACT pour « pas de déclenchement des perks de crochet »), puis chase en Zealous.
+- **Ce qu'il cherche en chase** (HEURISTIC) : une LOS prolongée pour « suivre » la cible pendant le contrôle, puis une projection quand vous êtes engagé sur une trajectoire (sortie de palette, couloir). Depuis 10.1.2a, **hors Zealous la lumière projetée ne se courbe plus** (FACT audit ; lecture « pas de correction de trajectoire après projection » = HYPOTHESIS) : tout se joue pendant la phase de contrôle.
+- **Tiles / structures** (HEURISTIC) :
+  - *Favorables* : tiles hauts et fermés (casser la LOS comme contre la Nurse), bâtiments avec plafonds.
+  - *Défavorables* : tiles bas et open.
+  - *Distance* : pour une colonne proche, **traversez-la** : le délai d'impact laisse le temps, selon le seed (EXPERT OPINION non re-sourcée). Pour une colonne lointaine, sortez de son axe.
+  - *Grande taille* : il voit plus haut que la moyenne au-dessus des tiles bas (HEURISTIC).
+- **Mindgames propres** (HEURISTIC) : contrôle court pour une projection rapide et surprenante ; contrôle long qui suit puis projette à la sortie de tile ; en Zealous, courbe de 0,6 s pour rattraper un dodge tardif.
+- **Counterplay** :
+  - *Mécanique* : **dodge au moment de la projection, pas pendant le contrôle** (hors Zealous, la trajectoire se fige). En **Zealous** (60 s après un exil), la courbe de 0,6 s rattrape les dodges tardifs : **cassez la LOS** au lieu d'esquiver (HEURISTIC).
+  - *Positionnel* : ne vous accroupissez pas et ne faites pas de gestes à répétition près du tueur (ou des autres, voir Questions ouvertes), et **ne restez pas dans le seuil d'une porte de sortie** (45 s = Heresy ; porte bloquée 8 s si acquise à < 32 m).
+  - *Macro* : un hérétique qui répare **fait régresser** le gen sur ses Good (−3 %). Il doit **aller Repent à un Shrine** avant de retourner sur un gen, ou viser des Great / ne pas réparer (FACT sur l'effet, HEURISTIC sur la consigne). En fin de partie, purgez la Heresy avant d'ouvrir une porte proche.
+  - *Équipe / Exile* : dans l'Exile, esquivez les Seeds (−3 s de timer chacune) et collectez jusqu'à 10 âmes (+0,5 s de protection au décrochage chacune). Le sauveteur passe par les sanctuaires actifs (seed). Après libération, l'exilé réapparaît à ≥ 32 m (FACT, 10.1.2) : **le sauveteur ne peut pas couvrir l'exilé** ; chacun gère sa fuite.
+- **Habitudes punissables / erreurs** (HEURISTIC) :
+  - Le teabag ou « crouch spam » par habitude, qui donne l'Heresy.
+  - Attendre dans la porte ouverte pour narguer ou pour un BT (45 s = Heresy, et BT ne se déclenche pas sur un Exile).
+  - Continuer à réparer en hérétique.
+  - Compter sur Off the Record ou Borrowed Time contre un Exile (FACT : perks de crochet non déclenchées).
+- **Adaptations avancées** (HEURISTIC) :
+  - Le counterplay anti-tunnel basé sur les perks de décrochage **échoue** contre l'Exile. Préférez des perks indépendantes du crochet : le seed propose Distortion, Boon: Shadow Step, Self-Preservation, Bound by Obsession, Blast Mine (EXPERT OPINION non re-sourcée).
+  - Les protections de décrochage basekit (Endurance + Haste 10 s + Elusive 10 s) s'appliquent-elles à une libération d'Exile ? Non vérifié (Questions ouvertes) : jouez comme si ce n'était pas le cas.
+  - Depuis 10.1.2a, la menace est **modulée par le Zealous** : après un exil, comptez environ 60 s de danger accru (seed), puis revenez à un jeu de dodge standard.
+- **Add-ons qui changent la décision** (seed-NRV ; add-ons non couverts par l'audit) :
+  - Chains of the Heretic (en Zealous, la lumière se dirige toujours vers vous) → en Zealous, **LOS obligatoire**, aucun dodge en open.
+  - Mirror of the Creators (rebond sur 2 obstacles) → un mur ne protège plus complètement ; cherchez des structures fermées (bâtiments, murs en L profonds).
+  - Obsidian Feather (auto-cast, contrôle bien plus rapide) → fenêtre de réaction plus courte, jouez la LOS plutôt que le dodge.
+  - Eyes of Gerhardt (auras des hérétiques) → purgez la Heresy en priorité, un hérétique est traqué.
+- **Implications de carte** (HEURISTIC) : fort sur les maps ouvertes à tiles bas. Les maps intérieures, qui coupent la LOS, sont moins favorables. La position des Shrines (7, seed) dicte les routes de purge et de sauvetage.
+- **Perks fréquentes** (seed-NRV) : Lethal Pursuer, A Nurse's Calling (28/30/32 m en 10.1.0, audit), Nemesis, Celestial Witness ; variante Gearhead. Ses perks : Celestial Witness, Hex: Under Your Thumb, Lay Waste. → Contre A Nurse's Calling, **ne vous soignez pas à ≤ 32 m** d'un tueur possiblement proche. Contre Celestial Witness (Obsession révélée si > 40 m, seed), l'Obsession ne doit pas s'éloigner inutilement.
+- **Écart avec le seed** :
+  - Vitesse, TR, taille, date : **OK**.
+  - Exile (−3 s, +0,5 s/âme, 10 âmes, mort à 2 états, pas de perks de crochet) : **OK**.
+  - Hotfix 10.1.2a : **IMPRÉCIS**. « Fenêtre ramenée à 0,6 s en Zealous » est juste, mais le seed omet la **suppression de la fenêtre hors Zealous** et la réapparition des exilés à ≥ 32 m (10.1.2).
+  - Heresy : **IMPRÉCIS**. Le seed omet la **purge par Repent au Shrine**, pourtant le counterplay principal, et la condition « < 32 m d'une porte » pour le blocage de 8 s. Il écrit « 3 gestes » au lieu de « 3 accroupissements ou gestes ».
+  - Tier et NightLight : HEURISTIC / non vérifiés. Le « 55,9 % » NightLight a été mesuré sur une période qui inclut potentiellement la 10.1.2 (performance « skyrocketed » selon BHVR, avant le revert) : chiffre à ne pas utiliser tel quel (HYPOTHESIS).
+- **Sources** : [1], [2].
+
+---
+
+## Claims
+
+| ID | Claim | Source | Patch | Confiance |
+|---|---|---|---|---|
+| G6-01 | Animatronic sorti le 17/06/2025, nom réel William Afton | [1] | 9.0.0 | VERIFIED_MULTI_SOURCE (audit) |
+| G6-02 | Animatronic : nerfs d'add-ons en 9.0.2, buffs en 9.6.0 (détail inconnu) | [1] | 9.0.2 / 9.6.0 | VERIFIED (audit, registre) |
+| G6-03 | Animatronic 4,4 m/s avec hache / 4,6 sans, TR 24 m | [2] | ? | UNCERTAIN |
+| G6-04 | Animatronic : batterie 100, 12/passage, 6/s caméra, reboot 45 s | [2] | 9.6.0 selon seed | UNCERTAIN |
+| G6-05 | Krasue Body 4,6 m/s TR 32 m ; Head 4,8 m/s TR 40 m | [1] | 9.2.0 | VERIFIED_PRIMARY (notes via audit) |
+| G6-06 | Krasue Head Form sans Bloodlust | [1] | 9.2.0 | VERIFIED_PRIMARY |
+| G6-07 | Krasue : paliers Leech 100/200, champignons 5 (6 max), 3 s | [2] | ? | UNCERTAIN |
+| G6-08 | The First 4,4 m/s, TR 32 m, sorti le 27/01/2026 | [1] | 9.4.0 | VERIFIED (audit) |
+| G6-09 | The First : Worldbreaker phase 2 = 50 s | [1] | 9.5.0 | VERIFIED (audit) |
+| G6-10 | The First : Upside Down 8 m/s, cooldown 35 s | [2] | ? | UNCERTAIN |
+| G6-11 | Slasher 4,4 m/s, 8,0 m/s en Omnipresent Evil, TR 32 m ; Impaled | [1] | 10.0.0 | VERIFIED (audit) |
+| G6-12 | Slasher : détection 16 m, accroupi 2,5 s, Jump Scare ≤ 16 m, Haste 25 s, CD 12 s | [2] | ? | UNCERTAIN |
+| G6-13 | Judgment 4,4 m/s, TR 32 m, grand | [1] | 10.1.0 | VERIFIED (audit) |
+| G6-14 | Exile : pas de perks de crochet, −3 s/Seed, +0,5 s/âme (10 max), tue à 2 états | [1] | 10.1.0 | VERIFIED_PRIMARY |
+| G6-15 | Heresy : −3 % sur Good ; porte bloquée 8 s si acquise à < 32 m ; 45 s de seuil ; Repent au Shrine | [1] | 10.1.0 | STRONG_SECONDARY (wiki via audit) |
+| G6-16 | Divine Light : courbe 0,6 s en Zealous, aucune hors Zealous | [1] | 10.1.2a | VERIFIED_MULTI_SOURCE |
+| G6-17 | Exilés libérés réapparaissent à ≥ 32 m | [1] | 10.1.2 | VERIFIED (audit, registre) |
+| G6-18 | Ghoul : Kagune Leap 14 m, 2 tokens / 4 s, Enragé 3 tokens / 2,5 s | [2] | 8.6.2 selon seed | UNCERTAIN |
+| G6-19 | Ghoul : 3e Kagune Leap + add-on détruit instantanément une palette | [1] | ? | STRONG_SECONDARY (« à reconfirmer ») |
+| G6-20 | Houndmaster 4,6 m/s, TR 32 m ; traîne 8 s (2 s avec Endurance), CD 3 s | [2] | 8.4.2 selon seed | UNCERTAIN |
+| G6-21 | Stats BHVR (KB 540, sept. 2025-févr. 2026) : « kill Krasue (high) », « pick Ghoul (high) », sans chiffres | [1] | — | PRIMARY via audit (noms seulement) |
+
+## Conflits
+
+#### CONFLICT-B4G6-01 : Ghoul, statistique « plus de 60 % de kill en MMR élevé selon BHVR »
+- Source A : seed (`ch8_killers.txt`, fiche 39), sans source précise.
+- Source B : audit phase 0 (tableau des publications statistiques BHVR) : la KB 540 ne donne **aucun chiffre en texte** et cite le Ghoul pour le **pick rate** high MMR ; le kill rate high MMR mis en avant est la Krasue.
+- Hypothèse : confusion pick/kill, ou chiffre tiré d'une infographie non lue.
+- Résolution : UNRESOLVED (retirer le chiffre du guide tant qu'il n'est pas sourcé).
+
+#### CONFLICT-B4G6-02 : The First « n°2 en kill rate MMR élevé selon BHVR »
+- Source A : seed, fiche 42.
+- Source B : audit phase 0 : kill rates cités = Krasue (high), Lich (broad) ; The First n'est pas mentionné et n'est sorti que le 27/01/2026.
+- Hypothèse : extrapolation ou source postérieure non identifiée.
+- Résolution : UNRESOLVED.
+
+#### CONFLICT-B4G6-03 : Ghoul, TR 40 m
+- Source A : seed (40 m).
+- Source B : connaissance du modèle (32 m ?), UNCERTAIN.
+- Résolution : UNRESOLVED (à vérifier sur le wiki quand le quota le permettra).
+
+## Écarts avec le guide seed
+
+| Élément | Le guide dit | Vérifié | Verdict |
+|---|---|---|---|
+| Animatronic, nom réel | Springtrap | William Afton (audit) | IMPRÉCIS |
+| Animatronic, historique | Seulement 9.6.0 cité | 9.0.2 nerfs d'add-ons + 9.6.0 buffs (audit) | IMPRÉCIS |
+| Krasue, vitesses / TR | 4,6/32 Body, 4,8/40 Head | Idem (audit, notes 9.2.0) | OK |
+| Krasue, Bloodlust | Pas de Bloodlust | Head Form exclue (audit) | OK (préciser « Head Form ») |
+| Krasue, hotfix 9.2.2 Leech | Leech retiré au crochet | Absent du résumé 9.2.2 de l'audit | NON VÉRIFIABLE |
+| Krasue, n°1 kill rate BHVR | N°1 high MMR | « kill Krasue (high) », sans chiffre (audit) | OK sur le fond / classement non chiffré |
+| The First, vitesse / TR / date | 4,4 / 32 / janv. 2026 | Idem (audit) | OK |
+| The First, phase 2 Worldbreaker | 50 s (9.5.0) | Idem (audit) | OK |
+| The First, n°2 kill rate BHVR | N°2 | Non trouvé (audit) | NON VÉRIFIABLE (douteux) |
+| Slasher, vitesse / TR / date / perks | 4,4 / 8,0 / 32 / 16/06/2026 | Idem (audit) | OK |
+| Slasher, add-ons 10.0.2 | Deputy's Badge nerfé | 10.0.2 : ajustements d'add-ons, sans détail (audit) | OK sur le principe, détail NON VÉRIFIABLE |
+| Judgment, stats de base | 4,4 / 32 / grand / 25/08/2026 | Idem (audit) | OK |
+| Judgment, hotfix 10.1.2a | 0,6 s en Zealous | + suppression de la fenêtre hors Zealous (audit) | IMPRÉCIS (omission) |
+| Judgment, Heresy | 3 gestes à 10 m ; porte bloquée 8 s | 3 accroupissements ou gestes < 10 m ; 8 s si acquise < 32 m ; purge Repent au Shrine (audit) | IMPRÉCIS (omission de la purge) |
+| Judgment, Exile | −3 s, +0,5 s/âme, 10, mort à 2 états, pas de perks de crochet | Idem (audit) | OK |
+| Judgment, réapparition des exilés | Non mentionnée | ≥ 32 m depuis 10.1.2 (audit) | IMPRÉCIS (omission) |
+| Ghoul, > 60 % kill BHVR | Oui | Aucun chiffre ; Ghoul = pick rate (audit) | FAUX / non étayé (CONFLICT-B4G6-01) |
+| Ghoul, 3e bond + add-on casse une palette | Iridescent Eye Patch | Liste wiki.gg Pallets (audit, STRONG_SECONDARY) | OK |
+| Ghoul, TR 40 m, nerf 8.6.2, magnétisme 9.5.0 | — | Non couvert | NON VÉRIFIABLE |
+| Houndmaster, toutes valeurs | — | Non couvert par l'audit | NON VÉRIFIABLE |
+| Orientation générale des 7 fiches | ~50 % conseils tueur | — | Lacunaire côté survivant (corrigé ici par l'analyse) |
+
+## Questions ouvertes
+
+1. Toutes les valeurs de pouvoir marquées seed-NRV sont à re-vérifier (wiki.gg) dès que le quota WebSearch est rétabli, en priorité Houndmaster et Ghoul, qui ne sont pas couverts par l'audit.
+2. Judgment : les « 3 accroupissements ou gestes à moins de 10 m » se comptent-ils à 10 m **du tueur** ou **d'un autre survivant** ? Le counterplay en dépend.
+3. Judgment : une libération d'Exile déclenche-t-elle les protections de décrochage basekit (Endurance + Haste 10 s + Elusive 10 s, 10.1.0) ?
+4. Judgment : la « fenêtre de courbe » est-elle la durée pendant laquelle la trajectoire reste modifiable **après** la projection ? (lecture adoptée ici, HYPOTHESIS).
+5. Krasue : le Leech est-il remis à zéro au crochet (hotfix 9.2.2 selon le seed) ?
+6. Animatronic : quels add-ons ont été nerfés en 9.0.2 et quelles valeurs ont été buffées en 9.6.0 (batterie, rappel de hache) ?
+7. Slasher : détail des ajustements d'add-ons 10.0.2 / 10.0.3.
+8. Ghoul : le soin retire-t-il la Kagune Mark ? Le TR est-il de 32 ou 40 m ?
+9. Houndmaster : le chien franchit-il les fenêtres en Chase Command ? Quelles sont les conditions exactes de libération pendant la traîne ?
+10. Diminishing Returns : la Haste du Jump Scare (pouvoir) et celle de Rampage (perk) sont-elles réduites entre elles (même rôle, modificateur identique) ?
+
+## Sources
+
+[1] Audit phase 0, `kb/seed/audit_phase0.txt` (registre des patchs 9.0.0 → 10.1.2a, tables 1.x, publications statistiques BHVR). Il cite lui-même les notes officielles BHVR (KB 551, 556, 558) et wiki.gg (The Judgment, Pallets, Patches), **non consultées directement dans ce lot**. Lecture locale le 27/09/2026 (pas via WebSearch).
+[2] Guide seed, `kb/seed/ch8_killers.txt` l. 1664-1953 (brouillon non fiable). Lecture locale le 27/09/2026.
+[3] Connaissance du modèle (antérieure à mi-2026), UNCERTAIN. Aucune URL, ce n'est pas une source vérifiable.
+
+Aucune source web n'a été consultée dans ce lot (quota WebSearch épuisé). Aucune URL n'est citée pour ne pas inventer de source.
