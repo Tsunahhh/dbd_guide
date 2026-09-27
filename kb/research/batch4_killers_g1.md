@@ -97,3 +97,170 @@
 - **Écart avec le seed** : NON VÉRIFIABLE (quota). À vérifier : distance d'invisibilité (20 m), sursaut post-désoccultation, add-on Soot 9.5, interaction lampe.
 - **Sources** : [1] [2]
 
+## 3. The Hillbilly (Max Thompson Jr.) — archétype(s) : mobilité | coup unique (instadown)
+
+- **Version** : pas de changement relevé par l'audit 9.0.0 → 10.1.2a [1]. L'audit signale que la fiche Hillbilly du seed **contient des erreurs** (« Erreurs relevées (Hillbilly, …) ») sans les détailler dans `audit_phase0.txt` [1] → toute valeur du seed est suspecte.
+- **Données LIVE** :
+  - Vitesse 4,6 m/s [SEED-NRV], cohérent classe 4,6 [AUDIT].
+  - **TR** : seed 40 m [SEED-NRV] vs **32 m** [MÉM] → CONFLICT-L4G1-01, UNCERTAIN.
+  - **Sprint tronçonneuse** : seed ~10,1 m/s (~12 m/s en Overdrive) [SEED-NRV] vs ~8,8 m/s [MÉM, ancienne valeur possible] → CONFLICT-L4G1-02, UNCERTAIN.
+  - Charge 2,5 s ; jauge Overdrive (bonus 20 s ; retombe après 8 s d'inactivité) ; récupération ~2,5-2,7 s [SEED-NRV] — UNCERTAIN (mécanique Overdrive non confirmée en session).
+  - FACT (mécanique stable [MÉM]) : un coup de tronçonneuse met à terre depuis l'état sain.
+  - Casse de palette à la tronçonneuse ~1 s (wiki Pallets via audit) [AUDIT], STRONG_SECONDARY.
+- **Identification** (HEURISTIC) :
+  - Avant reveal : vrombissement de la tronçonneuse (charge) audible bien au-delà du TR, puis sprint très rapide ; tueur qui arrive en quelques secondes depuis l'autre côté de la carte.
+  - Add-ons observables : charge silencieuse hors TR (Apex Muffler selon le seed) ; charge très courte ; sprint qui traverse palettes/murs cassables (LoPro Chains selon le seed, UNCERTAIN).
+  - Stratégie probable : forte pression de carte, punition des soins et réparations à découvert ; tunnel facile (instadown).
+- **Ce qu'il cherche en chase** (HEURISTIC) : te surprendre en open ou sur un gen isolé ; un curve autour d'un petit obstacle ; te faire lâcher une palette trop tôt puis gagner du temps via la casse rapide.
+- **Tiles / structures** (HEURISTIC) :
+  - Favorables : tiles à hauts murs et obstacles serrés (jungle gyms, shack, main buildings, intérieurs), passages étroits où le sprint heurte un obstacle.
+  - Défavorables : open areas, tiles basses ou fines (curves faciles), longues lignes droites.
+  - Fenêtres vs palettes : en M1 il boucle comme un 4,6 normal ; la tronçonneuse sert surtout à combler la distance entre tiles.
+  - Verticalité : les étages/rampes coupent ses trajectoires ; bon refuge.
+- **Mindgames propres** (HEURISTIC) : charger puis annuler pour provoquer un pré-drop ; charger en angle pour couvrir deux sorties ; faux abandon de chase suivi d'un sprint.
+- **Counterplay** (HEURISTIC) :
+  - Mécanique : au son de la charge, se mettre derrière un obstacle solide ; esquiver par un virage perpendiculaire tardif (il tourne mal en fin de sprint selon le seed, mais les curves de début de sprint existent).
+  - Positionnel : rester près des tiles « hautes », éviter les traversées en open.
+  - Macro : ne pas se soigner/réparer en open ; se disperser (il punit les groupes).
+  - Équipe : les sauvetages doivent être rapides (instadown → tunnel rapide).
+- **Habitudes punissables et erreurs classiques** (HEURISTIC) : pré-lâcher en entendant la charge ; courir en ligne droite en open ; croire qu'**être blessé protège** de la tronçonneuse (FAUX : blessé, n'importe quel coup te met à terre ; la tronçonneuse ne compte que contre un survivant sain).
+- **Adaptations avancées / échecs** (SITUATIONAL) : contre un Billy à charge silencieuse, l'alerte sonore disparaît → Spine Chill / garder la caméra ouverte ; sur carte ouverte sans structures hautes, jouer la distance et la dispersion plutôt que la chase.
+- **Add-ons qui changent la décision** (UNCERTAIN, [SEED-NRV]) :
+  - Apex Muffler → pas de préavis sonore hors TR : tenir des positions plus proches des obstacles.
+  - Tuned Carburettor / charge plus rapide → moins de temps pour atteindre l'obstacle : réagir au premier son.
+  - LoPro Chains (traverse palettes/murs cassables selon le seed) → une palette ne bloque plus le sprint : privilégier les murs solides.
+- **Implications de carte** (HEURISTIC) : très fort sur cartes ouvertes (Coldwind, Red Forest) ; plus faible en intérieur (Lery's, Hawkins, Gideon) grâce aux murs.
+- **Perks fréquentes** : Pain Resonance, Pop, Barbecue & Chili, Lethal Pursuer, Bamboozle ; trio Enduring/Lightborn/Tinkerer [SEED-NRV]. HEURISTIC : Tinkerer → il arrive silencieux sur un gen à 70 %.
+- **Écart avec le seed** : IMPRÉCIS/SUSPECT (TR 40 m, vitesse de sprint, Overdrive) ; FAUX (logique) : « un survivant blessé est moins exposé à la tronçonneuse ».
+- **Sources** : [1] [2]
+
+## 4. The Nurse (Sally Smithson) — archétype(s) : mobilité (téléportation) | anti-loop total
+
+- **Version** : seed : « 9.6.0 : Heavy Panting nerfé ; 10.1 : correction de blinks hors carte » [SEED-NRV], UNCERTAIN (non relevé par l'audit).
+- **Données LIVE** :
+  - Vitesse **3,85 m/s** [AUDIT] (STRONG_SECONDARY) ; TR 32 m ; taille moyenne [SEED-NRV], UNCERTAIN.
+  - 2 charges de blink ; 1er blink ~20 m max (charge ~2 s) ; 2e blink enchaîné ~12 m dans une fenêtre de 1,5 s [SEED-NRV] — UNCERTAIN.
+  - Fatigue après blink : 2 s + 0,5 s par blink enchaîné + 1 s si attaque ratée [SEED-NRV] — UNCERTAIN.
+  - FACT (mécanique stable [MÉM]) : le blink traverse murs, palettes et obstacles ; elle ne vaulte pas les fenêtres.
+- **Identification** (HEURISTIC) : son de charge/souffle, silhouette qui disparaît et réapparaît ; tueur très lent entre les blinks ; add-ons : blinks supplémentaires (3+ enchaînés), portée anormale, charge ultra-rapide. Stratégie : chases courtes, info via perks (aura), pression par vitesse de down.
+- **Ce qu'il cherche en chase** (HEURISTIC) : une LOS continue sur toi ; un trajet prévisible ; un double-back mal timé ; le moment où tu t'arrêtes derrière un obstacle.
+- **Tiles / structures** (HEURISTIC) :
+  - Favorables : structures hautes et opaques, étages (main à plusieurs niveaux), zones à LOS cassée en permanence ; grands obstacles qui rendent la distance difficile à estimer.
+  - Défavorables : open areas, petites tiles basses (elle voit tout), palettes (inutiles).
+  - Fenêtres vs palettes : quasi sans valeur ; seul le positionnement et la LOS comptent.
+  - Verticalité : forte (un blink au mauvais étage = fatigue gratuite).
+- **Mindgames propres** (HEURISTIC) : blink court puis long ; attendre ta réaction avant le 2e blink ; faux blink (charge annulée).
+- **Counterplay** (HEURISTIC) :
+  - Mécanique : casser la LOS au moment de la charge ; changer de direction pendant son 1er blink (elle doit corriger au 2e) ; profiter de la fatigue pour repositionner, pas pour fuir en ligne droite.
+  - Positionnel : toujours avoir un obstacle haut entre elle et toi ; utiliser les étages.
+  - Macro : réparer vite, rester dispersés ; contrer les perks d'aura (Distortion, Calm Spirit selon le seed).
+  - Équipe : le temps de chase moyen est court → gens rapides plutôt que sauvetages risqués.
+- **Habitudes punissables et erreurs classiques** (HEURISTIC) : courir en ligne droite ; lâcher des palettes ; double-back prévisible (toujours au même moment) ; rester visible derrière un obstacle bas.
+- **Adaptations avancées / échecs** (SITUATIONAL) : contre une Nurse experte, le double-back devient lisible → alterner continuer/revenir ; avec add-ons de blinks multiples, compter ses blinks avant de se repositionner.
+- **Add-ons qui changent la décision** (UNCERTAIN, [SEED-NRV]) :
+  - Matchbox (charge plus rapide) → moins de temps pour lire la charge : casser la LOS plus tôt.
+  - Campbell's Last Breath (enchaînement automatique selon le seed) / add-ons +blink → ne pas se repositionner après le 2e blink, attendre la fatigue.
+  - Ataxic Respiration (portée) → la distance « sûre » augmente : se cacher plutôt que fuir.
+- **Implications de carte** (HEURISTIC) : faible sur cartes à multi-niveaux complexes (intérieurs), forte sur cartes ouvertes plates.
+- **Perks fréquentes** : Nowhere to Hide, Lethal Pursuer, Pain Resonance, Eruption / Barbecue [SEED-NRV]. FACT [AUDIT] : Nowhere to Hide LIVE 10.1.0 = auras à 24 m autour du gen abîmé (3/4/5 s) ; A Nurse's Calling 28/30/32 m (10.1.0) [1].
+- **Écart avec le seed** : Vitesse OK [AUDIT] ; « Dead Hard peut valider l'esquive » : NON VÉRIFIABLE ; reste NON VÉRIFIABLE (quota).
+- **Sources** : [1] [2]
+
+## 5. The Shape (Michael Myers) — archétype(s) : furtif | coup unique (Slaughtering Strike) | M1
+
+- **Version** : FACT [AUDIT] rework 9.2.0 (23 sept. 2025) : modes Stalker / Pursuer / Evil Incarnate + Slaughtering Strike ; ajustements 9.2.3 (21 oct. 2025) [1]. Licence Halloween : Shape retirée de la boutique le 19 janv. 2026, **reste jouable pour les possesseurs** ; perks renommés en perks généraux en 9.4.0 [1]. → Il reste rencontrable en LIVE (fréquence en baisse probable, HEURISTIC).
+- **Données LIVE** :
+  - FACT [AUDIT] (9.2.3, LIVE) : Evil Incarnate 60 s ; Slaughtering Strike 7,5 m/s ; recharge 4 s ; TR Pursuer 16 m / Evil Incarnate 32 m [1].
+  - Stalker : 4,2 m/s, Undetectable, sans TR [SEED-NRV] ; la classe 4,2 m/s est UNCERTAIN dans l'audit (fandom) [1].
+  - Pursuer / Evil Incarnate 4,6 m/s ; stalk 32 m, vitesse de stalk indépendante de la distance, jauge qui redescend après 20 s d'inactivité ; lunge Pursuer +20 % ; charge Slaughtering Strike jusqu'à 1,5 s, met à terre un survivant sain et casse palettes/murs [SEED-NRV] — UNCERTAIN.
+  - Exécution à la main en Evil Incarnate d'un survivant sur son 2e crochet (sauf Endurance) [SEED-NRV] — UNCERTAIN (mécanique à confirmer en priorité, impact survivant majeur).
+  - Pas d'Exposed basekit (sauf Fragrant Tuft of Hair) [SEED-NRV] — UNCERTAIN.
+- **Identification** (HEURISTIC) :
+  - Avant reveal : tueur visible sans TR ni lullaby (Stalker) ; silhouette immobile derrière un coin ; puis TR court (16 m) = Pursuer ; TR 32 m soudain + comportement agressif = Evil Incarnate (60 s).
+  - Pouvoir en action : animation de stalk (il te fixe) ; charge de la Slaughtering Strike en ligne droite.
+  - Add-ons observables : kill à la main sur survivant sain (Tombstone ?), Evil Incarnate qui revient après chaque crochet (Judith's Tombstone selon le seed), Exposed généralisé (Fragrant Tuft of Hair). SITUATIONAL.
+  - Stratégie probable : snowball pendant les 60 s d'Evil Incarnate ; chasse de l'Obsession.
+- **Ce qu'il cherche en chase** (HEURISTIC) : stalk gratuit quand tu ne le regardes pas ; en Evil Incarnate, un survivant sans obstacle solide proche ou une palette pré-lâchée qu'il casse en chargeant.
+- **Tiles / structures** (HEURISTIC) :
+  - Favorables : en Stalker, tout ce qui casse la LOS ; en Evil Incarnate, murs solides et fenêtres (une palette est cassée par la charge selon le seed).
+  - Défavorables : open areas pendant Evil Incarnate ; tiles « palette seule ».
+  - Pursuer : boucles normales mais marge réduite par le lunge plus long.
+- **Mindgames propres** (HEURISTIC) : stalk caché puis passage brusque en Evil Incarnate ; feinte de charge ; stalk pendant que tu soignes/décroches.
+- **Counterplay** (HEURISTIC) :
+  - Mécanique : casser la LOS dès que tu le vois stalker ; en Evil Incarnate, jouer les fenêtres et esquiver la charge latéralement au dernier moment.
+  - Positionnel/temps : **gagner 60 s** d'Evil Incarnate (FACT [AUDIT] sur la durée) = objectif de chase prioritaire, quitte à céder du terrain.
+  - Macro : ne pas grouper pendant Evil Incarnate ; prioriser les gens pendant qu'il stalk (Stalker = lent, sans pression).
+  - Équipe : garder l'Endurance (Borrowed Time, Off the Record) pour le survivant sur 2e crochet si l'exécution à la main est confirmée (SITUATIONAL).
+- **Habitudes punissables et erreurs classiques** (HEURISTIC) : laisser un tueur sans TR te fixer ; pré-lâcher pendant Evil Incarnate ; se soigner en open ; oublier le chrono des 60 s.
+- **Adaptations avancées / échecs** (SITUATIONAL) : avec add-ons d'exécution (Tombstone), le survivant sur le point de mourir doit éviter toute chase et rester caché ; si Evil Incarnate est réactivé souvent (Judith's), la stratégie « tenir 60 s » ne suffit plus → dispersion et gens rapides.
+- **Add-ons qui changent la décision** (UNCERTAIN, [SEED-NRV]) :
+  - Judith's Tombstone (Evil Incarnate réinitialisé à chaque crochet selon le seed) → éviter les sauvetages rapides devant lui ; jouer la dispersion.
+  - Tombstone Piece (Undetectable 20 s à l'activation selon le seed) → le TR 32 m n'annonce plus Evil Incarnate : surveiller le visuel.
+  - Scratched Mirror (auras pendant le stalk) → se cacher derrière un mur ne suffit plus : bouger.
+  - Fragrant Tuft of Hair (Exposed, sans Slaughtering Strike selon le seed) → tout coup met à terre : plus de soin inutile, éviter tout contact.
+- **Implications de carte** (HEURISTIC) : fort sur cartes à nombreux coins/intérieurs (stalk facile) ; Lampkin Lane (Haddonfield) retirée de la rotation en 9.4.0 [AUDIT].
+- **Perks fréquentes** : Bamboozle, Pain Resonance, Corrupt Intervention, Pop ; Keep Them Waiting / See How They Run [SEED-NRV]. FACT [AUDIT] : Keep Them Waiting 5 %/token (10.1.0) [1].
+- **Écart avec le seed** : OK sur les valeurs 9.2.3 (EI 60 s, SS 7,5 m/s, CD 4 s, TR 16/32 m) [AUDIT] ; « retiré de la vente en janv. 2026 » OK [AUDIT] ; Stalker 4,2 m/s, exécution 2e crochet, Exposed : NON VÉRIFIABLE.
+- **Sources** : [1] [2]
+
+## 6. The Hag (Lisa Sherwood) — archétype(s) : zone/piège | téléportation | info
+
+- **Version** : aucun changement relevé par l'audit 9.0.0 → 10.1.2a [1]. Statut LIVE présumé, UNCERTAIN.
+- **Données LIVE** :
+  - Vitesse 4,4 m/s [SEED-NRV], cohérent classe 4,4 [AUDIT] ; taille moyenne/petite [SEED-NRV].
+  - **TR** : seed 24 m [SEED-NRV] vs **32 m** [MÉM] → CONFLICT-L4G1-03, UNCERTAIN.
+  - Jusqu'à 10 Phantasm Traps (pose ~1,9 s), le 11e remplace le plus ancien ; déclenchement à ~2,7 m sauf accroupi ; fantôme + faux TR 8 m ; téléportation sur piège déclenché à ≤ 48 m ; effacement accroupi 4 s ou lampe torche [SEED-NRV] — UNCERTAIN.
+- **Identification** (HEURISTIC) : marques de boue au sol autour des gens/crochets ; fantôme de boue qui apparaît et tourne ta caméra ; faux TR bref ; tueur qui apparaît instantanément sur un piège. Add-ons : pièges sans fantôme/sans indication (Rusty Shackles selon le seed) ; téléportation vers n'importe quel piège (Mint Rag). Stratégie : 3-gen « toilé », crochet piégé, totems Hex (Ruin/Devour/Third Seal) + Undying.
+- **Ce qu'il cherche en chase** (HEURISTIC) : te faire déclencher un piège posé sur la sortie d'une boucle puis te couper ; t'enfermer dans une zone piégée.
+- **Tiles / structures** (HEURISTIC) :
+  - Favorables : longues boucles vierges ; tiles à plusieurs sorties ; zones éloignées de son réseau.
+  - Défavorables : tiles déjà « dessinées » ; passages obligés (fenêtres piégées).
+  - Hors pièges, c'est un M1 4,4 : les boucles standards la battent (HEURISTIC).
+- **Mindgames propres** (HEURISTIC) : piège posé en évidence pour t'orienter vers un piège caché ; téléportation différée (attendre que tu reviennes).
+- **Counterplay** (HEURISTIC) :
+  - Mécanique : crouch en traversant les marques [SEED-NRV] ; déclenchement → repartir immédiatement dans la direction opposée au piège.
+  - Positionnel : tirer la chase hors de son réseau.
+  - Macro : effacer/flasher les pièges près des gens et du crochet ; chercher et casser les totems tôt (build Hex fréquent).
+  - Équipe : sauveteur en crouch + vérification des marques autour du crochet.
+- **Habitudes punissables et erreurs classiques** (HEURISTIC) : sprinter sur les marques ; rester à côté d'un piège déclenché ; ignorer les totems ; sauvetage direct sur crochet piégé.
+- **Adaptations avancées / échecs** (SITUATIONAL) : Mint Rag → tout piège déclenché devient une téléportation possible partout : effacer plutôt que contourner ; Rusty Shackles → aucune alerte, rester accroupi dans son réseau.
+- **Add-ons qui changent la décision** (UNCERTAIN, [SEED-NRV]) :
+  - Mint Rag → nettoyer activement son réseau, ne plus seulement l'éviter.
+  - Rusty Shackles → crouch systématique dans les zones à marques.
+  - Add-ons de rayon de déclenchement (Disfigured Ear / Dead Hand selon le seed) → garder plus de distance latérale avec les marques.
+- **Implications de carte** (HEURISTIC) : forte sur petites cartes/intérieures (réseau dense) ; faible sur grandes cartes ouvertes.
+- **Perks fréquentes** : trio Hex Ruin/Devour Hope/Third Seal + Undying ; ou Pain Resonance, Grim Embrace, Pop, Sloppy Butcher [SEED-NRV]. FACT [AUDIT] : Hex: Ruin 100/125/150 % (9.2.0) [1]. HEURISTIC : totems = priorité quand on voit des marques.
+- **Écart avec le seed** : TR 24 m SUSPECT (CONFLICT-L4G1-03) ; reste NON VÉRIFIABLE.
+- **Sources** : [1] [2]
+
+## 7. The Doctor (Herman Carter) — archétype(s) : anti-loop | info | M1
+
+- **Version** : FACT [AUDIT] buff 9.6.0 (28 avr. 2026, détail non listé dans l'audit) ; 9.6.1 (5 mai 2026) : Shock Therapy 0,65 s [1]. Seed : 0,8 → 0,75 s (9.6.0) → 0,65 s (9.6.1) [SEED-NRV pour 0,8/0,75].
+- **Données LIVE** :
+  - Vitesse 4,6 m/s ; TR 32 m ; grand [SEED-NRV], cohérent classe 4,6 [AUDIT].
+  - Shock Therapy : délai **0,65 s** [AUDIT], LIVE ; portée ~12 m ; bloque vault/palette ~2,5 s [SEED-NRV] — UNCERTAIN.
+  - Static Blast : onde sur tout le TR, recharge 30 à 45 s selon le seed [SEED-NRV], UNCERTAIN (souvenir d'une recharge plus longue [MÉM]) ; évitable dans un casier [SEED-NRV].
+  - Madness I/II/III (skill checks piégés 33/66/100 %, hallucinations, cris, objets bloqués en III, restrictions d'actions en III) [SEED-NRV] — UNCERTAIN (restrictions exactes de Madness III à confirmer).
+- **Identification** (HEURISTIC) : électricité/crépitement, skill checks inhabituels, cris involontaires, hallucinations (faux Doctors) ; Static Blast = charge audible + onde. Add-ons : faisceau étroit et long (Interview Tape selon le seed), portée accrue (High Stimulus Electrode). Stratégie : chase anti-loop + info ; ralentissement via skill checks (Overcharge, Unnerving, Huntress Lullaby) ou Distressing/Coulrophobia.
+- **Ce qu'il cherche en chase** (HEURISTIC) : te choquer juste avant la palette/fenêtre pour bloquer l'action ; enchaîner choc + M1 à courte portée (plus fiable depuis 0,65 s [AUDIT]).
+- **Tiles / structures** (HEURISTIC) :
+  - Favorables : longues boucles avec distance ; tiles où tu peux garder > portée du choc ; structures qui cassent la LOS du Static Blast.
+  - Défavorables : tiles courtes « à la palette » (un choc au mauvais moment = coup garanti).
+  - Fenêtres vs palettes : pré-lâcher tôt ou vaulter avec de l'avance plutôt qu'au dernier moment.
+- **Mindgames propres** (HEURISTIC) : feinte de choc (il marche sans tirer) pour te faire vaulter tôt ; choc de zone sur la sortie de la tile.
+- **Counterplay** (HEURISTIC) :
+  - Mécanique : décaler tes actions (palette/vault) hors de la fenêtre de 0,65 s ; garder de la distance.
+  - Positionnel : casier ou LOS au Static Blast (selon le seed).
+  - Macro : réussir les skill checks ; se remettre en Madness basse quand il est loin ; il manque de mobilité → dispersion.
+  - Perks : Calm Spirit (cris) selon le seed ; éviter les builds à skill checks (HEURISTIC).
+- **Habitudes punissables et erreurs classiques** (HEURISTIC) : jouer les palettes au dernier moment ; soigner/réparer en Madness III dans son TR ; ignorer le chrono du Static Blast.
+- **Adaptations avancées / échecs** (SITUATIONAL) : depuis 0,65 s, la marge « je lâche au dernier moment » disparaît à courte portée → pré-drop plus tôt ou quitter la tile ; avec portée accrue, les longues boucles perdent de leur sûreté.
+- **Add-ons qui changent la décision** (UNCERTAIN, [SEED-NRV]) :
+  - Interview Tape (faisceau étroit et long) → sortir de l'axe plutôt que reculer.
+  - High Stimulus Electrode (+4 m) → prendre plus de distance avant toute action.
+  - « Discipline » – Carter's Notes (délai −0,1 s) → délai effectif ~0,55 s si cumulé (UNCERTAIN, calcul HEURISTIC) : pré-drop encore plus tôt.
+- **Implications de carte** (HEURISTIC) : fort sur petites cartes/intérieures (Static Blast couvre beaucoup) ; faible sur grandes cartes.
+- **Perks fréquentes** : Distressing, Coulrophobia, Unnerving Presence, Huntress Lullaby, Overcharge ; ou Pain Resonance, Grim Embrace, Lethal Pursuer [SEED-NRV]. FACT [AUDIT] : Coulrophobia 20/25/30 % (10.1.0) [1].
+- **Écart avec le seed** : Shock Therapy 0,65 s (9.6.1) OK [AUDIT] ; valeurs Static Blast / Madness III : NON VÉRIFIABLE.
+- **Sources** : [1] [2]
+
