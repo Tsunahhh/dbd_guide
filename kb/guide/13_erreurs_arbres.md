@@ -638,7 +638,7 @@ SLUG
 | **SLG-1** | Rester hors de vue | Il cherche la 2e cible | Le bleed-out court → SLG-2 |
 | **SLG-2** | Un sain se montre et part vers une tile forte ; un autre relève | Sinon l'allié saigne et les gens stagnent | [SoloQ] seulement si tu es clairement le mieux placé |
 | **SLG-3** | Y aller seul | Le tueur est engagé ailleurs | — |
-| **SLG-4** | Chercher un indice (portrait, dernier bruit) | Knock Out réduit les auras des mourants (SS) | Temps perdu |
+| **SLG-4** | Chercher un indice (portrait, dernier bruit) | Sans position du tueur, l'approche peut être un piège de slug (Knock Out ne masque plus l'aura des mourants depuis 8.6.0 : son effet LIVE est un Hindered 5 % après un drop de palette, (VM)) | Temps perdu |
 | **SLG-5** | Approcher prudemment, relever si TR absent | — | Piège de slug → SLG-1 |
 | **SLG-6** | Ne pas se faire prendre ; relever s'il s'éloigne ; trouvé : chase longue près d'une tile forte | Si tu tombes, tous au sol ; chaque seconde laisse récupérer les autres | Trappe seulement si tu es le seul en vie |
 | **SLG-7** | Un relève, l'autre reste loin ou fait diversion | Évite le double au sol | — |

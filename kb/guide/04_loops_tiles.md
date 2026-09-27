@@ -672,9 +672,10 @@ Contre un tueur qui a compris ta réponse par défaut (il attend le pre-drop), *
 | Zanshin Tactics (T) | Aura des palettes et fenêtres à 32 m ; ton aura 3/4/5 s quand tu baisses une palette | (SS) |
 | I'm All Ears (T) | Aura 8 s d'un survivant qui fait un Rushed Vault à ≤ 48 m ; CD 60/45/30 s | (SS) |
 | Superior Anatomy (T, LIVE 9.0.0) | Vault medium / fast à ≤ 12 m de lui → son prochain vault +30/35/40 % ; CD 25 s | (VM : onglet 9.0.0 du wiki + note 9.0.0 ; la page wiki affiche par défaut la version PTB 10.2.0, non LIVE) |
+| Knock Out (T) | Survivant qui s'éloigne de **> 6 m** d'une palette dans les **6 s** après l'avoir fait tomber → Hindered 5 % pendant 3/4/5 s (LIVE ; plus d'effet d'aura depuis 8.6.0 ; PTB 10.2.0 : 10 m / 20 %, non LIVE) | (VM) |
 | Brutal Strength, THWACK!, Enduring, Spirit Fury (T) | Casse +10/15/20 % ; cri + aura sur casse ; stun −40/45/50 % ; après 4/3/2 casses, la prochaine palette qui l'étourdit est cassée instantanément (le stun a lieu) | (SS) |
 | **Wide Open Throttle** (S, 10.0.1) | Fast vault d'une palette baissée → Haste 10/12,5/15 % 3 s ; la palette est **remise levée et bloquée 60 s**, aura visible par tous ; CD 60 s | (VP) |
-| Five Moves Ahead (S, LIVE 9.5.0) | En poursuite ou dans le TR : **drop de palette 50 % plus rapide** (on repart 50 % plus tôt ; note officielle 9.5.0) ; aura des 5 palettes et fenêtres les plus proches ; CD 40/35/30 s | (SS) |
+| Five Moves Ahead (S, LIVE 9.5.0) | En poursuite ou dans le TR : aura des 5 palettes **et fenêtres** les plus proches ; après avoir fait tomber une palette, tu **repars 50 % plus tôt** (wiki : « drop 50 % plus rapide », même effet) ; CD 40/35/30 s après un drop (la version « palettes seulement » est PTB 10.2.0, non LIVE) | (VM, note 9.5.0) |
 | Any Means Necessary (S) | Relever une palette baissée en 5/4/3 s | (SS) |
 | Lithe / Balanced Landing (S) | Haste 50 % 3 s après un Rushed Vault / une chute ; Exhausted 60/50/40 s | (SS) |
 | Last Stand (S) | Après 120/105/90 s dans le TR sans être poursuivi, un Rushed Vault étourdit le tueur 3 s s'il est à ≤ 2,5 m de la fenêtre ; une fois par partie | (SS) |
@@ -683,7 +684,7 @@ Contre un tueur qui a compris ta réponse par défaut (il attend le pre-drop), *
 Lecture [HEURISTIQUE] :
 - **Bamboozle et Crowd Control** transforment les tiles **à fenêtre seule** (L-T, fenêtres à sens unique) en tiles mortes ; contre elles, les tiles à **palette** gardent leur valeur.
 - **Wide Open Throttle retire la porte de la loop pendant 60 s** : la palette revient levée **et bloquée**, tu ne peux plus la baisser, et le tueur passe dans l'ouverture. **Ne l'active pas sur la palette que tu comptes encore boucler.** Usage correct : **transition** (Haste 3 s vers la tile suivante), ou palette qui allait être cassée de toute façon.
-- **Five Moves Ahead** raccourcit le drop : pre-drop tardif et stun plus faciles, géométrie inchangée.
+- **Five Moves Ahead** réduit ton temps immobile après un drop (tu repars 50 % plus tôt) : un drop tardif coûte moins de marge dans la condition en temps (4.2.2). Que le stun tombe lui-même plus tôt n'est pas écrit (INC) ; géométrie inchangée ; le CD limite l'effet à un drop toutes les 30-40 s.
 - **Superior Anatomy** rend un fast vault près de lui moins rentable ; s'il te suit par les fenêtres anormalement vite, identifie la perk avant de rejouer une W. **Last Stand** punit, une fois, un tueur qui colle ta réception.
 
 Détail : `kb/research/batch7_tiles.md` §5 ; `kb/ledgers/AUDIT_PHASE0_ERRATA.md` ; `kb/deliverables/KILLER_COUNTERPLAY_HANDBOOK.md` §2.2-3.

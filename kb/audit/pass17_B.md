@@ -26,3 +26,6 @@ Points vérifiés sans changement : condition de loop sûre en temps (formule, c
 | 13 | The First sans réserve ; « Ghoul avec tokens » en casse gratuite | [INCERTAIN] ; franchissement sans casse |
 | 13 | Renvois « chapitre perks », « chapitre perk deduction » | Chapitres 9 et 10 |
 | 13 | Conseils absolus (« ne jamais déclencher vers une dead zone », « ne jamais sprinter vers la trappe ») | Formulés avec condition |
+| 13 | SLG-4 : « Knock Out réduit les auras des mourants » (effet retiré en 8.6.0) | Effet LIVE : Hindered 5 % 3/4/5 s si l'on s'éloigne de > 6 m d'une palette qu'on vient de faire tomber, dans les 6 s (VM, batch3_p94) |
+| 04 | Five Moves Ahead : « drop 50 % plus rapide » et lecture « stun plus facile » | LIVE (note 9.5.0) : auras 5 palettes **et** fenêtres, on repart 50 % plus tôt après un drop, CD 40/35/30 s ; « palettes seulement » = PTB ; lecture réécrite (moins de temps immobile, effet sur le stun INC) |
+| 04 | Knock Out absent de la table des perks de tile alors qu'il vise le pre-drop | Ligne ajoutée (valeurs LIVE, PTB signalé non LIVE) |
