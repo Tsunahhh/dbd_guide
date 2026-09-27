@@ -217,13 +217,13 @@
 - **Quand elle n'en produit pas** :
   - Tueurs expérimentés qui ignorent les notifications isolées.
 - **Écart avec le seed** : OK (1 s, 25/20/15 s)
-- **Sources** : [19] — CONFLICT-P29-04 (résolu)
+- **Sources** : [27][34][19] — CONFLICT-P29-04 (résolu)
 
 ### Rookie Spirit — Leon S. Kennedy
 - **Statut** : LIVE 10.1.2a
-- **Effet LIVE** : après 5/4/3 skill checks Good ou Great de réparation, vous voyez pour le reste de la partie l'aura des gens qui régressent, jusqu'à ce qu'ils cessent — STRONG_SECONDARY [20]
-- **Valeurs / CD / conditions / limites** : n'affiche pas les gens bloqués par un effet (tant qu'ils restent bloqués) [20].
-- **PTB 10.2.0** : non citée dans les résumés lus — UNCERTAIN
+- **Effet LIVE** : après 5/4/3 skill checks Good ou Great de réparation, vous voyez pour le reste de la partie l'aura des gens qui régressent, jusqu'à ce qu'ils cessent (par tout moyen) — STRONG_SECONDARY (wiki page complète [27], concordant avec [20])
+- **Valeurs / CD / conditions / limites** : n'affiche pas les gens bloqués par un effet (tant qu'ils restent bloqués) [20] (non recoupé sur la page complète).
+- **PTB 10.2.0** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [27][34].
 - **Interactions, DR** : aucune.
 - **Synergies** : Stake Out, Hyperfocus (skill checks rapides).
 - **Difficulté** : 1
@@ -233,13 +233,13 @@
 - **Quand elle n'en produit pas** :
   - Tueurs sans régression active ; activation tardive.
 - **Écart avec le seed** : OK
-- **Sources** : [20]
+- **Sources** : [27][34][20]
 
 ### Better Than New — Rebecca Chambers
 - **Statut** : LIVE 10.1.2a
-- **Effet LIVE** : quand vous finissez de soigner un allié, il bénit/purifie, soigne et ouvre les coffres 12/14/16 % plus vite jusqu'à ce qu'il perde un état de santé — STRONG_SECONDARY [21]
+- **Effet LIVE** : quand vous finissez de soigner un allié, il bénit/purifie, soigne et ouvre les coffres 12/14/16 % plus vite jusqu'à ce qu'il reçoive des dégâts — VERIFIED_MULTI_SOURCE (wiki, onglet historique 6.2.0 = LIVE [27] ; note 559 « was 12/14/16% » [34])
 - **Valeurs / CD / conditions / limites** : 12/14/16 % (LIVE).
-- **PTB 10.2.0** : **buff (PTB)** : 40/45/50 % [25][4].
+- **PTB 10.2.0 (NON LIVE)** : **buff** : 40/45/50 % (bénédiction, purification, soin, coffres) [27][34].
 - **Interactions, DR** : bonus de vitesse de soin → possible DR 9.6.0 avec d'autres bonus identiques (HYPOTHESIS).
 - **Synergies** : Botany Knowledge, Boon: Circle of Healing, builds soigneurs.
 - **Difficulté** : 1

@@ -251,11 +251,11 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
 - **Sources** : [31][40]
 
 ### Prove Thyself — Dwight Fairfield
-- **Statut** : LIVE (présumée).
-- **Effet LIVE** (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN) : le seed dit « +6/8/10 % par survivant à 4 m, pour tous ». La mécanique exacte (cumul par survivant ou non, bonus aux coéquipiers) n'est pas vérifiée. UNCERTAIN.
-- **Valeurs / CD / conditions / limites** : 4 m ; 6/8/10 % (UNCERTAIN).
-- **PTB 10.2.0** : UNCERTAIN.
-- **Interactions, DR, anti-synergies** : plusieurs Prove Thyself sur le même gen = modificateurs identiques, donc DR très probables (HYPOTHESIS). Réparer à plusieurs est inefficace contre les tueurs à zone (Pop, Surge, Nurse).
+- **Statut** : LIVE 10.1.2a (aucune modification 8.x-10.1.2a au change log wiki).
+- **Effet LIVE** : vitesse de réparation +6/8/10 % **cumulable par autre survivant** à 4 m ou moins, jusqu'à **18/24/30 %** ; l'effet s'étend à tous les survivants dans le rayon ; un survivant ne peut être affecté que par **une seule instance** de Prove Thyself à la fois. STRONG_SECONDARY [32]
+- **Valeurs / CD / conditions / limites** : 4 m ; 6/8/10 % par survivant ; plafond 18/24/30 % (LIVE, STRONG_SECONDARY [32]).
+- **PTB 10.2.0 (NON LIVE)** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [1][32].
+- **Interactions, DR, anti-synergies** : deux Prove Thyself sur le même gen **ne se cumulent pas** (une seule instance par survivant, FACT [32]) : la question DR ne se pose donc pas entre elles. Cumul avec Déjà Vu / Resilience : DR possibles (HYPOTHESIS). Réparer à plusieurs est inefficace contre les tueurs à zone (Pop, Surge, Nurse).
 - **Synergies** : Déjà Vu, Resilience, Hyperfocus.
 - **Difficulté** : 1
 - **Valeur (HEURISTIC, 0-3)** : SoloQ 1 · SWF 2 · chase 0 · macro 1 · info 0 · anti-tunnel 0 · soin 0 · gen 2 · endgame 1
@@ -263,8 +263,9 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
   - SWF qui regroupe volontairement 2-3 réparateurs sur le dernier gen.
 - **Quand elle n'en produit pas** :
   - SoloQ dispersée, ou tueur qui punit le groupe (Legion, Plague, Myers).
-- **Écart avec le seed** : NON VÉRIFIABLE.
-- **Sources** : aucune.
+  - Un seul exemplaire utile par équipe (non cumul entre porteurs, [32]).
+- **Écart avec le seed** : OK sur les valeurs (4 m, 6/8/10 % par survivant, pour tous) ; IMPRÉCIS : plafond 18/24/30 % et non-cumul entre plusieurs Prove Thyself omis [32].
+- **Sources** : [32]
 
 ### Background Player — Renato Lyra
 - **Statut** : LIVE (présumée).
