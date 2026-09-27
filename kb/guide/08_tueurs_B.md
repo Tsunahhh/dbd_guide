@@ -847,3 +847,177 @@ Détail : `kb/research/batch4_killers_g6.md` §38.
 
 Détail : `kb/research/batch4_killers_g6.md` §39.
 
+## 40. The Animatronic (William Afton) [Intermédiaire]
+
+*Archétype : ranged (hache) + mobilité (portes) + furtif. Sorti en 9.0.0 ; nerfs d'add-ons 9.0.2 ; 9.6.0 : recharge de la hache 6 s (décor) / 8 s (survivant), batterie −6 %/s par caméra et −12 % par téléportation (VM). « Springtrap » est un alias.*
+
+**Données LIVE**
+
+| Paramètre | Valeur | Conf. |
+|---|---|---|
+| Vitesse / TR / taille | **4,4 m/s hache en main**, **4,6 m/s** hache plantée ; TR **24 m** ; moyenne | SS |
+| Fire Axe | Windup 1 s ; 30 m/s ; portée 16 m ; forte gravité (trajectoire en cloche) | SS |
+| Hache plantée | Survivant sain touché : blessé + **Broken + Oblivious** jusqu'au retrait (**5 s** par un allié, **8 s** seul) | SS |
+| Grab Axe | À ≤ 3 m d'un porteur de hache : **il le charge directement sur l'épaule** | SS |
+| Security Doors | 7 ; Afton en sort **Undetectable 20 s** ; un survivant qui le regarde **4 s** par caméra le révèle à **tous** 10 s et coupe l'Undetectable ; batterie commune (reboot 45 s à 0) ; porte occupée par un survivant = jumpscare | SS / VM |
+
+**Identification** : portes de sécurité sur la map ; TR court et Undetectable fréquent ; hache plantée dans le décor (zone de Killer Instinct 15 s).
+
+**Ce qu'il cherche** : un lancer à la sortie de tile, puis rejoindre à ≤ 3 m le survivant qui porte la hache : **épaule sans second coup** [FACT].
+
+**Counterplay par couche**
+
+- **Mécanique** : esquive latérale **au relâchement**, pas au début du windup. Sans hache, il est plus rapide (reprend 0,6 m/s au lieu de 0,4) mais sans projectile → sans hache, jouer la boucle, pas l'open.
+- **Hache plantée en toi** : tu es à un grab de l'épaule. De 10 m, il comble les 7 m en ≈ 11,7 s, et peut rappeler puis relancer au bout de 8 s. Retirer la hache dès que tu as ≈ 8 s (seul) ou 5 s (allié) hors de portée ; sinon, rester à plus de 3 m [HEURISTIQUE].
+- **Positionnel** : ne pas réparer dans le champ d'une porte récemment utilisée ; ne pas rester dans une zone de hache plantée.
+- **Macro** : les caméras sont une ressource **partagée avec lui** : les utiliser pour le regarder 4 s (révélation à toute l'équipe) pendant une chase, un portage ou un sauvetage, pas « pour voir ».
+- **Équipe** : SWF = le plus proche retire la hache pendant qu'il est engagé ailleurs.
+
+**Erreurs classiques** [HEURISTIQUE] : entrer dans une porte quand il peut y entrer aussi ; vider la batterie ; garder la hache pour « finir le gen » ; se laisser rattraper à 3 m avec la hache plantée.
+
+**Quand le counterplay habituel échoue** : l'info TR échoue (24 m + 20 s d'Undetectable après chaque porte) → écouter les portes, utiliser Kindred ou Alert, repérer les portes proches de ton gen.
+
+**Add-ons qui changent la décision**
+
+| Add-on | Effet LIVE | Décision du survivant |
+|---|---|---|
+| Iridescent Remnant | À son arrivée par une porte, palettes debout à ≤ 32 m bloquées 12 s | Fuir vers fenêtres et tiles de LOS |
+| Access Panel | La hache traverse les portes | Ne plus se cacher près d'une porte « à l'abri » |
+| Faz-Coin | La hache émet une copie de son TR ; +10 s d'Undetectable | Localiser la source : le TR peut venir de la hache |
+| Loot Bag | Hache plantée = portes bloquées pour le porteur et à ≤ 12 m | En endgame, retirer la hache avant la porte ; les autres restent à > 12 m |
+
+**Perk à connaître** : Haywire → ne pas lâcher une porte de sortie à 80 %+ sans nécessité. Help Wanted : la page affiche le texte PTB 10.2.0, valeur LIVE non relue **[INCERTAIN]**.
+
+Détail : `kb/research/batch4_killers_g6.md` §40.
+
+## 41. The Krasue (Burong Sukapat) [Avancé]
+
+*Archétype : ranged + mobilité + statut (Leech). Sortie 9.2.0 ; 9.2.1 et **9.2.2** : **le Leech est entièrement retiré au crochet** (VP).*
+
+**Données LIVE**
+
+| Paramètre | Valeur | Conf. |
+|---|---|---|
+| Vitesse / TR | Corps 4,6 m/s, TR 32 m ; **tête 4,8 m/s, TR 40 m** ; vol 7 m/s ; moyenne | VM |
+| Bloodlust | **Aucune en Head Form** | VM |
+| Regurgitate (corps) | Glande qui rebondit puis se divise en 4 (tête chercheuse à ≤ 7 m) ; toute touche = **Leeched I immédiat** ; cooldown 2,5 s | SS |
+| Head Form | **Vaulte** palettes (1,9 s) et fenêtres (1,67 s) ; stun de palette 2,5 s ; vol : 12 charges, recharge complète 30 s | SS |
+| Intestinal Whip | Windup 0,3 s ; ignore les obstacles **0,32 s** ; **ne blesse qu'à partir de Leeched I** | VP / SS |
+| Leeched | I à 100 charges ; monte seul → **Leeched II en 60 s** ; II = blessé + **Broken** ; **crochet = remise à zéro** | SS / VP |
+| Champignons | 5 (6 max) ; mangeables dès Leeched I ; 3 s puis −5 charges/s (20 s par palier) ; **annulé si tu es touché** | SS |
+
+**Identification** : deux TR (32 puis 40 m) et un changement de vitesse ; tête volante ; champignons lumineux sur la map.
+
+**Ce qu'il cherche** : en corps, te toucher par rebond derrière les obstacles ; en tête, vaulter gratuitement les palettes et fouetter à travers un coin [HEURISTIQUE].
+
+**Tiles** : favorables = murs pleins et gros rochers que la tête doit **contourner** ; stuns ponctuels (2,5 s) quand elle vaulte mal. Défavorables = tiles de palette classiques contre la tête, open à murs proches (rebonds).
+
+**Counterplay par couche**
+
+- **Mécanique** : changer de direction contre la glande principale, **puis** casser la LOS contre les mini-glandes. Sous Leeched I, le fouet ne blesse pas ; une seule glande te met Leeched I → contre le corps, esquiver la glande vaut une blessure future.
+- **Macro** : manger un champignon **avant** Leeched II (60 s depuis Leeched I), hors de portée de glande. Le crochet remet à zéro : ne pas gaspiller un champignon juste avant un crochet probable [SITUATIONNEL]. Au palier II, faire baisser la jauge avant de soigner (Broken).
+- **Chase contre la tête** : 4,8 m/s dès le départ, elle reprend 0,8 m/s (10 m en 12,5 s). Faute de Bloodlust, elle ne devient plus lente qu'un tueur à 4,6 m/s qu'après 25 s de chase → **les premières secondes sont les plus dangereuses**, « étirer » ne paie qu'une fois la chase longue installée [HEURISTIQUE fondée sur FACT].
+
+**Erreurs classiques** [HEURISTIQUE] : ignorer la jauge ; boucler une palette contre la tête comme contre un M1 ; courir en ligne droite contre la glande ; oublier qu'un TR de 40 m peut être la tête **loin du corps** ; manger à portée de glande.
+
+**Add-ons qui changent la décision**
+
+| Add-on | Effet LIVE | Décision du survivant |
+|---|---|---|
+| Chicken Head | Tous Leeched I au départ (+2 champignons) | Le fouet blesse dès la 1re chase : manger tôt ou jouer la distance |
+| Spattered Handkerchief | Portes alimentées : tous Leeched I, champignons détruits | En endgame, éviter la tête |
+| Shredded Gown | À chaque changement de forme, auras à ≤ 8 m d'un champignon | Manger vite et quitter la zone |
+| Queen's Sceptre | Un fouet qui touche fait jaillir une glande depuis toi | Après un fouet, casser la LOS |
+| Janjira's Hand | Vol rechargé après chaque gen, permanent au dernier | Attendre une arrivée rapide après un gen et en endgame |
+
+**Perk à connaître** : **Ravenous** LIVE = Exposed **40/50/60 s** à 4 tokens (VP) ; le « 80/85/90 s » affiché par le wiki est le **PTB 10.2.0 — non LIVE**.
+
+Détail : `kb/research/batch4_killers_g6.md` §41.
+
+## 42. The First (Henry Creel) [Avancé]
+
+*Archétype : zone (lianes) + furtif (Upside Down) + mobilité. Sorti en 9.4.0 ; 9.5.0 : 2e phase du Worldbreaker 50 s, add-ons retravaillés (VM).*
+
+**Données LIVE**
+
+| Paramètre | Valeur | Conf. |
+|---|---|---|
+| Vitesse / TR | 4,4 m/s ; 32 m ; 8 m/s dans l'Upside Down ; moyenne | VM |
+| Vine Attack | Charge 0,4 s + cast 0,6 s ; zone de **rayon 1,46 m** qui se déclenche **0,6 s** après ; hors Worldbreaker : 1 token, **pas de dégât** ; à ≤ 8 m d'un accroché : délai **6 s** | VM / SS |
+| Upside Down | Undetectable, 8 m/s ; traverse palettes, fenêtres et murs **cassables** ; cooldown 35 s (50 % au début) | SS |
+| Undergate | Anneau qui grandit en 1,65 s ; hors Worldbreaker : 2 tokens | VM |
+| Worldbreaker | Se déclenche à 2 ou 4 tokens ; lianes et Undergate **blessent** ; phase 1 : 60 s par survivant vivant ; phase 2 : **50 s** ; **en pause quand il porte un survivant** | SS / VP |
+| Horloges | 4, phase 1 seulement ; 1 / 2 / 3 / 4 survivants : −9 / −12 / −15 / −18 par s | SS |
+| Mind Break | Survivant à **2 états de crochet et 4 tokens** mis au sol en Worldbreaker : mini-mori | SS |
+
+**Identification** : 4,4 m/s ; TR qui disparaît d'un coup (Upside Down) ; anneaux rouges ; horloges sur la map.
+
+**Ce qu'il cherche** : prédire ta sortie de palette ou de fenêtre (zone retardée) ; hors Worldbreaker, il **construit** ses tokens [HEURISTIQUE].
+
+**Counterplay par couche**
+
+- **Mécanique** : en 0,6 s tu parcours 2,4 m, plus que le rayon de 1,46 m → **bouger dès que l'indicateur apparaît** suffit presque toujours ; rester immobile ou vaulter à ce moment se fait toucher. Anneau d'Undergate : sortir tout de suite (« le casier protège » : non confirmé **[INCERTAIN]**).
+- **Positionnel** : hors Worldbreaker, boucles longues (il reprend seulement 0,4 m/s). En Worldbreaker, raccourcir la chase et couper la LOS.
+- **Macro** : suivre les tokens de l'équipe ; un survivant à 4 tokens au 2e crochet risque la mort directe → priorité d'anti-tunnel. Le Worldbreaker ne s'écoule pas pendant un portage.
+- **Équipe — horloges** : **un seul** survivant. Calcul (4 vivants, 240 charges) : 1 survivant ≈ 27 s, 2 ≈ 20 s, 3 ≈ 16 s → le 2e ne fait gagner qu'≈ 7 s pour ≈ 20 s de réparation perdue [HEURISTIQUE ; lecture des taux = HYPOTHÈSE]. SoloQ : si un coéquipier est déjà sur une horloge, rester sur ton gen.
+- **Sauvetage** : une liane à ≤ 8 m du crochet met 6 s à se déclencher : décrocher et sortir de la zone passent avant.
+
+**Quand le counterplay habituel échoue** : « exploiter sa lenteur » échoue en Worldbreaker → tile à murs hauts, penser distance plutôt que durée. Après chaque sortie d'Upside Down, 35 s sans nouvelle embuscade par ce biais (≈ 10 s avec Pizza Goggles), pas 35 s sans danger.
+
+**Add-ons qui changent la décision**
+
+| Add-on | Effet LIVE | Décision du survivant |
+|---|---|---|
+| Shattered Wrist Rocket | L'Undergate **casse les palettes** et endommage les gens | Quitter la zone de l'anneau au lieu de compter sur la palette |
+| Electroshock Collar | En sortie d'Upside Down, vaults bloqués 12 s à ≤ 32 m | Fuir vers un tile à murs ou une palette **debout** |
+| Chess Piece | Liane à 2 charges, rayon −40 % | Après un 1er dodge, attendre la 2e zone |
+| Pizza Goggles | Upside Down toutes les ≈ 10 s, Undergate minuscule | Se répartir ; plus besoin de fuir un grand anneau |
+| Iridescent Soteria Chip | Au Worldbreaker : Undetectable + auras à ≤ 12 m | Quitter les gens proches au déclenchement |
+
+**Perks à connaître** : Turn Back the Clock (après un crochet, explosion d'un gen à ≤ 20 m) → pas de gen avancé à sa portée juste après un crochet ; Hex: Hive Mind → purifier avant le 4e gen.
+
+Détail : `kb/research/batch4_killers_g6.md` §42.
+
+## 43. The Slasher (Jason Voorhees) [Avancé]
+
+*Archétype : furtif + mobilité + ranged (pics). Sorti en 10.0.0 ; add-ons ajustés en 10.0.1, 10.0.2 et 10.0.3 ; depuis 10.0.3, l'anti-camp du Jump Scare ne s'applique plus entre étages (VP).*
+
+**Données LIVE**
+
+| Paramètre | Valeur | Conf. |
+|---|---|---|
+| Vitesse / TR | 4,4 m/s ; 8,0 m/s en Omnipresent Evil ; 32 m ; moyenne | VM |
+| Omnipresent Evil (OE) | Invisible + Undetectable ; traverse palettes, fenêtres, murs cassables ; **ne voit ni n'entend** les survivants (sauf réparations) ; « sent » à ≤ 16 m (brume immobile, empreintes en mouvement) ; **accroupi depuis > 2,5 s = non détecté** | SS |
+| Jump Scare | Cible une palette, une fenêtre ou un mur cassable à ≤ 16 m **de lui** ; visée 0,5 s + réapparition **1,5 s** (**4,5 s** près d'un accroché, même étage) + 1 s sans attaque ; special-break ou special-vault ; ressource **bloquée 4 s** ; puis Haste 25 s (4,6 m/s) | SS / VP |
+| Pics | Windup 0,9 s ; touche = état de santé perdu + poussée ; pic de crochet sur un sain = **empalé** (Broken, retrait 5 s, aura à ≤ 26 m) ; épinglage si le pic **met au sol** contre un mur | SS / VP |
+| Finisher | Survivant au dernier crochet empalé et mis au sol par un pic de crochet, ou épinglé : tuable | SS |
+
+**Identification** : TR qui se coupe sans raison = OE ; tas de ferraille ; réapparition brutale sur une palette ou une fenêtre.
+
+**Ce qu'il cherche** : réapparaître **sur** la ressource que tu allais utiliser (cassée ou franchie, puis bloquée 4 s), gagner la chase courte avec la Haste [HEURISTIQUE].
+
+**Tiles** : pendant l'OE, s'éloigner des palettes, fenêtres et murs cassables (ses points d'apparition) : le rayon de 16 m se mesure **depuis lui**. Limite : une zone sans ressource devient une zone morte dès qu'il te chase.
+
+**Counterplay par couche**
+
+- **Mécanique** : quand le TR se coupe, il lui faut ≈ **5 s** au minimum avant de pouvoir frapper après un Jump Scare. Hors chase, **s'accroupir** (plus rien après 2,5 s). En chase, **ne pas prendre la ressource évidente** ; s'il réapparaît devant toi, 1,5 s + 1 s te laissent ≈ 10 m pour changer de direction.
+- **Pics** : esquive latérale au lancer ; blessé, s'éloigner des murs ; rester à distance des coéquipiers (le survivant poussé blesse celui qu'il percute).
+- **Macro** : retirer **immédiatement** un pic de crochet ; au dernier crochet, éviter tout pic (Finisher).
+- **Équipe** : Jump Scare 3× plus lent près d'un accroché (même étage) = fenêtre de sauvetage ; un épinglé peut être libéré.
+
+**Erreurs classiques** [HEURISTIQUE] : rester debout et immobile près d'une palette quand le TR disparaît ; réparer seul près de lui en OE ; garder un pic « pour plus tard » ; courir groupés ou le long d'un mur.
+
+**Quand le counterplay habituel échoue** : « TR = info » échoue, c'est **l'absence** de TR qui est l'info. Contre Spirit Fury / Enduring, ne pas miser sur un stun tardif ; contre Rampage chargé, quitter la boucle après un stun.
+
+**Add-ons qui changent la décision**
+
+| Add-on | Effet LIVE | Décision du survivant |
+|---|---|---|
+| Iridescent Boat Motor | Fenêtres traversées en OE marquées, bloquées 13 s au Jump Scare | Construire la chase sur les palettes |
+| Orderly's Shoe | Haste du Jump Scare 30 s | Casser la LOS plus longtemps avant de reboucler |
+| Deputy's Badge | En OE, passer à ≤ 2 m d'un gen le fait exploser (−5 %) ; skill check spécial | Réussir le skill check au lieu de lâcher le gen |
+| Sauna Rock | Exhausted **3 s** aux survivants détectés après un Jump Scare | Garder le Sprint Burst pour après ces 3 s |
+| Burnt Fuse | Empalé : portes bloquées pour lui et à ≤ 13 m | Retirer le pic avant la porte ; les autres à > 13 m |
+
+Détail : `kb/research/batch4_killers_g6.md` §43.
+
