@@ -6,17 +6,7 @@
 
 ## 3.0 Comment lire ce chapitre
 
-**Étiquettes** (voir le brief du guide) :
-
-| Étiquette | Sens ici |
-|---|---|
-| **[FACT]** | Valeur vérifiée ; la confiance suit entre parenthèses : **(VP)** note officielle, **(VM)** wiki + note / multi-source, **(SS)** wiki seul |
-| **(CALC)** | Arithmétique faite **uniquement** sur des valeurs vérifiées. Aussi fiable que la moins fiable de ses entrées, et toujours une simplification (ligne droite, vitesses constantes) |
-| **[HEURISTIQUE]** | Règle pratique de joueur, non sourcée |
-| **[AVIS D'EXPERT]** | Conclusion largement partagée, sans source lue |
-| **[SITUATIONNEL]** | Conseil qui s'inverse selon le contexte |
-| **[HYPOTHÈSE]** | Modèle ou interprétation plausible, non confirmé. **Tous les modèles de la section 3.8 (EV de palette, coût d'une blessure, chase « rentable ») sont des hypothèses** : ils servent à comparer des options, jamais à produire un seuil à appliquer |
-| **[INCERTAIN]** / **(INC)** | Valeur non documentée ou non tranchée |
+**Étiquettes** : **[FACT]** valeur vérifiée, avec sa confiance **(VP)** note officielle, **(VM)** wiki + note, **(SS)** wiki seul ; **(CALC)** arithmétique faite uniquement sur des valeurs vérifiées (aussi fiable que sa moins fiable entrée, et toujours une simplification : ligne droite, vitesses constantes) ; **[HEURISTIQUE]** règle de joueur non sourcée ; **[SITUATIONNEL]** conseil qui s'inverse selon le contexte ; **[HYPOTHÈSE]** modèle plausible non confirmé — **tous les modèles de 3.8 en sont** ; **[INCERTAIN]** / **(INC)** valeur non documentée.
 
 **Format des techniques** : chaque technique importante suit la grille **QUOI → POURQUOI → QUAND → COMMENT → CONTRE → CAS D'ÉCHEC → EXERCICE**. Les seuils de réussite des exercices sont des propositions [HEURISTIQUE] à recalibrer avec tes propres données (chapitre entraînement). Aucune VOD n'a été analysée pour écrire ce chapitre.
 
@@ -377,11 +367,7 @@ Détail : `kb/research/batch6_chase_tech.md` T01-T06 ; Blight : `kb/research/bat
 - **QUAND** : quand tu n'as pas la LOS sur le corps mais vois la tache dépasser d'un mur ; pour repérer un tueur qui attend derrière un coin (tache immobile ou qui balaie) ; combinée au TR et aux pas pour trianguler.
 - **COMMENT** : utilise la tache pour **savoir où regarder**, puis décide sur le **corps** (checkspot, T14) ou sur les pas. Si tu ne peux pas voir le corps, reste à une position qui couvre les deux options (option coverage, 3.8).
 - **CONTRE** : moonwalk autour des murs hauts, balayage de caméra, attente immobile, Undetectable.
-- **CAS D'ÉCHEC** :
-  - tueurs Undetectable ou furtifs (Ghost Face, Wraith, Pig accroupie, Myers selon le palier) : pas de tache ;
-  - se fier à la tache quand tu as la LOS sur le corps (le corps est l'info fiable) ;
-  - croire qu'une tache qui disparaît = tueur parti ;
-  - te retourner pour chercher la tache au lieu d'écouter les pas.
+- **CAS D'ÉCHEC** : tueurs Undetectable ou furtifs (Ghost Face, Wraith, Pig accroupie, Myers selon le palier) : pas de tache ; se fier à la tache alors que tu vois le corps ; croire qu'une tache qui disparaît = tueur parti ; te retourner pour chercher la tache au lieu d'écouter les pas.
 - **EXERCICE « Tache vs corps »** : avec un ami tueur, 20 boucles sur un jungle gym à murs hauts ; il moonwalke ou non au hasard (tirage noté avant chaque boucle). Métrique : % de lectures correctes ; coups reçus sur un moonwalk. Réussite : ≥ 75 % de lectures correctes et 0 coup sur les 10 dernières boucles.
 
 ### T14 — Caméra, checkspots et information pendant la chase [Avancé]
@@ -394,7 +380,7 @@ Détail : `kb/research/batch6_chase_tech.md` T01-T06 ; Blight : `kb/research/bat
   - **avant chaque point de décision** (~1 s avant une fenêtre, une palette, un coin où un double-back est possible) : **un check par décision**, c'est la règle principale ;
   - en ligne droite : un check bref (≤ 0,5 s) seulement si le trajet devant est dégagé et mémorisé ; sinon écouter ;
   - à la perte de LOS du tueur : un check pour savoir s'il suit ou coupe ;
-  - dès que le son change (TR qui monte ou baisse brusquement, pas qui s'arrêtent, bruit de pouvoir) ;
+  - dès que le son change (TR qui monte ou baisse brusquement, pas qui s'arrêtent, bruit de pouvoir).
 - **COMMENT garder le pathing en regardant derrière** :
   - mémoriser les **2 prochains points de passage** avant de tourner la caméra ;
   - regarder seulement sur des segments droits et dégagés, jamais dans un virage serré ni à l'approche d'un fast vault ;
@@ -518,7 +504,7 @@ Détail : `kb/research/batch6_chase_tech.md` T09-T13, T17 ; tiles : `kb/research
 ### T19 — Resource management [Intermédiaire]
 
 - **QUOI** : dépenser au bon moment les ressources limitées : palettes, fenêtres (3 vaults avant blocage), états de santé, perk d'épuisement, objets, protections de décrochage.
-- **POURQUOI** : [FACT] palettes définitives une fois cassées et partagées par l'équipe ; fenêtre bloquée 30 s pour toi après le 3e vault (SS) ; Exhausted ne récupère pas en courant (SS) ; protections de décrochage 10 s (VP) ; aucun DR sur le nombre de palettes ou les blocages (VP). La valeur d'une ressource dépend de ce qui reste : la dernière palette d'une zone vaut plus que la première.
+- **POURQUOI** : palettes définitives et partagées, fenêtre bloquée 30 s après le 3e vault, Exhausted qui ne récupère pas en courant, protections de décrochage 10 s, aucun DR sur les palettes (3.1). La valeur d'une ressource dépend de ce qui reste : la dernière palette d'une zone vaut plus que la première.
 - **QUAND** : penser en **budget de chase** : combien de secondes chaque ressource achète, et laquelle l'équipe utilisera ensuite.
 - **COMMENT** : compte les palettes debout visibles au début de chaque chase ; garde celles qui entourent les gens restants pour la fin de partie.
 - **CONTRE** : forcer tôt l'usage des ressources, casser les palettes fortes, puis ramener la chase dans la zone vidée (resource denial, 3.8).
@@ -527,7 +513,7 @@ Détail : `kb/research/batch6_chase_tech.md` T09-T13, T17 ; tiles : `kb/research
 
 ### T23 — Pre-run et début de chase [Intermédiaire]
 
-Technique majeure absente du seed, ajoutée par l'audit. **Tout ce bloc est [HEURISTIQUE]** (aucune source lue, aucune mesure).
+Ajoutée par l'audit (absente du seed). **Tout ce bloc est [HEURISTIQUE]** : aucune source, aucune mesure.
 
 - **QUOI** : te mettre en route vers une zone forte **avant** que la poursuite commence, dès qu'un signal indique que le tueur arrive (TR qui monte, corbeaux, gen voisin frappé, tueur vu au loin).
 - **POURQUOI** : la poursuite — et donc la Bloodlust — ne démarre qu'avec les trois conditions (≤ 12 m, dans son champ de vision, tu cours) [FACT] (SS). Chaque mètre gagné avant est une avance « gratuite » : 1,67-2,5 s de chase (CALC) sans consommer de ressource. Inversement, lâcher un gen trop tôt coûte des secondes de réparation.
@@ -545,19 +531,18 @@ Détail : `kb/research/batch6_chase_tech.md` T18, T19, T23.
 
 ### T20 — Collision et body block (vue chase) [Intermédiaire]
 
-- **QUOI** : tueur et survivants entrent en collision entre eux et avec le décor ; un corps peut bloquer un passage (porte, sortie de fenêtre, couloir).
-- **POURQUOI** : la collision est une observation constante mais **non chiffrée** (taille des capsules : INC). Le tueur peut te bloquer dans un coin, une sortie de fenêtre ou une porte étroite ; un allié peut te bloquer involontairement ; les aspérités du décor accrochent.
-- **QUAND** : body block volontaire pour un allié blessé (voir le chapitre objets / jeu d'équipe : un coup reçu a un coût, 3.8) ; connaître les points qui accrochent pour les éviter.
-- **COMMENT** : ne jamais fuir dans une pièce à une seule sortie ; vaulter vers un espace où il ne peut pas se tenir devant la sortie.
-- **CONTRE** : body block à la sortie d'une fenêtre ou dans un couloir ; te pousser contre le décor ; frapper un bloqueur s'il l'accepte (le seed conseille au tueur de le faire seulement si cela le rapproche d'un crochet : [SITUATIONNEL]).
-- **CAS D'ÉCHEC** : cul-de-sac ; boucler près d'un allié (collision et deux cibles pour le tueur) ; courir vers un allié pendant une chase.
-- **EXERCICE « Cartographie des accroches »** : partie personnalisée, parcours les 10 tiles les plus fréquents en collant les murs et note les points d'accroche. Réussite : une liste écrite par tile.
+- **QUOI** : tueur et survivants entrent en collision entre eux et avec le décor ; un corps peut bloquer une porte, une sortie de fenêtre, un couloir.
+- **POURQUOI** : observation constante mais **non chiffrée** (taille des capsules : INC). Le tueur peut te coincer ; un allié peut te bloquer involontairement ; les aspérités accrochent.
+- **QUAND / COMMENT** : body block volontaire pour un allié blessé seulement si l'échange vaut un coup (3.8.4) ; ne jamais fuir dans une pièce à une seule sortie ; vaulter vers un espace où il ne peut pas se tenir devant la sortie.
+- **CONTRE** : body block à la sortie d'une fenêtre ou dans un couloir ; te pousser contre le décor ; frapper un bloqueur s'il l'accepte (le seed : seulement si cela le rapproche d'un crochet, [SITUATIONNEL]).
+- **CAS D'ÉCHEC** : cul-de-sac ; boucler près d'un allié (collision et deux cibles) ; courir vers un allié pendant une chase.
+- **EXERCICE** : parcours en partie personnalisée les 10 tiles les plus fréquents en collant les murs et note les points d'accroche. Réussite : une liste écrite par tile.
 
 ### T21 — Hitbox, latence, validation serveur : documenté vs rumeur [Avancé]
 
 **Ce qui est documenté** :
 - [FACT] (VP, développeur BHVR) « Hit Validation » depuis août 2020 : si la connexion du tueur est mauvaise, le serveur évalue le coup et le **rejette** si les deux étaient trop éloignés. **Avec une bonne connexion, le coup reste décidé côté client du tueur.**
-- (INC, analyse technique communautaire de 2022, non officielle) : le client du tueur calcule le chevauchement hitbox / hurtbox ; la validation générale n'agirait qu'au-delà de ~300 ms (**seuil non confirmé**) ; validation événementielle pour Dead Hard et les stuns de palette ; les deux latences cumulées favorisent le tueur ; le « tout-serveur » aurait été testé puis écarté.
+- (INC, analyse communautaire non officielle de 2022) : le client du tueur calcule le chevauchement hitbox / hurtbox ; validation générale au-delà de ~300 ms seulement (**non confirmé**) ; validation événementielle pour Dead Hard et les stuns de palette ; latences cumulées favorables au tueur.
 - [INCERTAIN] : forme et taille des hitbox / hurtbox (aucune documentation officielle).
 
 **Rumeurs à ne pas traiter comme des faits** :
@@ -596,7 +581,6 @@ Détail : `kb/research/batch6_chase_tech.md` T20-T22.
 
 - [FACT] (VM) 1 gen = 90 s-s ; 5 gens = 450 s-s.
 - Modèle : **valeur d'1 s de chase = `n × e` s-s**, où `n` = alliés qui réparent **chacun un gen différent** (0 à 3) et `e` = efficacité réelle (trajets, skill checks, interruptions). `e` = **0,8** ici [HYPOTHÈSE] ; `e` peut dépasser 1 (Great skill check +1 %, SS ; boîtes à outils, perks) ou chuter (skill check raté −10 % + 3 s bloquées, SS ; régression). Les autres chapitres utilisent parfois `e` = 1 : les chiffres ne se comparent qu'à `e` égal.
-- Deux alliés sur le même gen : 1,7 charge/s au lieu de 2 → −15 % [FACT] (SS).
 
 | Durée de chase | n = 3, e = 1 | n = 3, e = 0,8 | n = 2, e = 0,8 | n = 1, e = 0,8 |
 |---|---|---|---|---|
@@ -665,7 +649,7 @@ Le « prix » d'une palette n'est pas 2,34 s mais **2,34 s + 9,4 m offerts + la 
 | Rester blessé | Prochaine chase plus courte, info au tueur (grognements, sang), un coup = au sol | mécanique FACT, valeur hypothèse |
 | Coup quand déjà blessé | chase restante perdue (≈ 20-30 s-s) + crochet (≈ 80-120 s-s) ≈ **100-150 s-s** + 1 état de crochet | hypothèse |
 
-- **Conversion en secondes de chase** : avec 3 alliés (2,4 s-s/s), coup sain ≈ 42 s-s ≈ **17 s** ; coup blessé ≈ **40-60 s**. Avec 2 alliés (1,6 s-s/s) : ≈ **26 s** sain, ≈ **62-94 s** blessé. Le soin peut ne jamais avoir lieu (rester blessé est une option, chapitre macro) : ce sont des ordres de grandeur.
+- **Conversion en secondes de chase** : 3 alliés (2,4 s-s/s) → coup sain ≈ 42 s-s ≈ **17 s**, coup blessé ≈ **40-60 s** ; 2 alliés (1,6 s-s/s) → ≈ **26 s** et ≈ **62-94 s**. Ordres de grandeur : le soin peut ne jamais avoir lieu (chapitre macro).
 - **QUAND** : décider de se soigner ou non ; décider du greed (3.8.3) ; accepter un coup volontaire (body block) quand l'échange est rentable.
 - **COMMENT** : compte le coût d'un coup **avant** la décision risquée, pas après.
 - **CONTRE** : laisser les survivants blessés (pression de soin) ; perks de Mangled, Haemorrhage, Broken.
@@ -701,32 +685,19 @@ Le « prix » d'une palette n'est pas 2,34 s mais **2,34 s + 9,4 m offerts + la 
 - **CAS D'ÉCHEC** : rester « au milieu » trop longtemps (Bloodlust, temps d'observation offert) ; confondre attendre et couvrir (attendre sans info = 50/50 différé) ; oublier les pouvoirs qui couvrent à distance.
 - **EXERCICE** : sur 5 tiles fréquents, trouve avec un ami tueur le point d'où les deux ressources sont atteignables avant lui pour ses deux trajets. Réussite : un point validé par tile.
 
-### 3.8.8 Information asymmetry, risque et variance, conversion de distance
+### 3.8.8 Information asymmetry, variance, conversion de distance
 
-**Information asymmetry** [Avancé] :
-- Le survivant a TR, musique de chase, tache, sons ; le tueur a griffures (10 s), sang, grognements, auras de perks, alertes de bruit (fast vault, palette). Undetectable retire TR et tache ; Elusive retire griffures, grognements et sang et bloque l'aura (SS). Depuis 9.6.0, tu vois le loadout de **tes coéquipiers**, pas celui du tueur (révélé en fin de partie) (VP ; le seed disait le contraire).
-- Créer l'asymétrie : casser la LOS, marcher, slow vault silencieux. Échec typique : fast vault bruyant juste après avoir cassé la LOS ; croire à une asymétrie qui n'existe pas (perk d'aura inconnue).
-- Exercice : à chaque perte de LOS, annonce ce que le tueur peut savoir de toi. Réussite : annonce et action (marcher / s'accroupir / courir) cohérentes dans ≥ 80 % des cas en VOD.
-
-**Risque / récompense et variance** [HYPOTHÈSE] :
-- Équipe **en avance** (gens proches de la fin, peu de crochets) → **réduire la variance** : pre-drops plus tôt, pas de mindgame inutile. Équipe **en retard** (2 survivants, 3-4 gens) → **augmenter la variance** : un mindgame réussi ou une chase très longue est sa seule chance. Le tueur applique la même logique inversée.
-- Échec typique : jouer « flashy » quand l'équipe gagne ; trop prudent quand seule une chase longue peut sauver la partie.
-- Exercice : avant chaque chase, dis « avance / égalité / retard » et le niveau de risque choisi. Réussite : cohérence dans ≥ 80 % des chases.
-
-**Distance conversion** :
-- Toute distance gagnée doit être **achetée** en quelque chose : un tile fort, une fin de poursuite, un cycle de plus. Poursuite finie au-delà de 18 m (SS) : un stun + casse (+17,4 m, CALC) peut suffire à la terminer si tu cours droit (temporisation INC).
-- Échec typique : regarder le tueur casser ; revenir vers lui pour « reprendre » le tile ; chase break tenté vers l'open ; oublier que contre un tueur à mobilité la distance vaut moins. Le tueur répond en contournant au lieu de casser quand tu as un tile fort proche.
-- Exercice : pour chaque stun ou casse, note ce que tu as « acheté ». Réussite : 0 distance gaspillée sur 10 parties.
+- **Information asymmetry** : tu as TR, musique, tache, sons ; il a griffures (10 s), sang, grognements, auras, alertes de bruit (fast vault, palette). Undetectable lui retire TR et tache ; Elusive te retire griffures, grognements, sang et bloque l'aura (SS). Depuis 9.6.0 tu vois le loadout de **tes coéquipiers**, pas celui du tueur (VP ; le seed disait le contraire). Crée l'asymétrie (casser la LOS, marcher, slow vault) ; ne la gâche pas (fast vault bruyant juste après la LOS cassée) ; ne crois pas à une asymétrie qui n'existe pas (perk d'aura inconnue). *Exercice* : à chaque perte de LOS, annonce ce qu'il peut savoir de toi ; réussite = action cohérente dans ≥ 80 % des cas en VOD.
+- **Risque et variance** [HYPOTHÈSE] : équipe **en avance** → réduire la variance (pre-drops plus tôt, pas de mindgame inutile) ; équipe **en retard** (2 survivants, 3-4 gens) → l'augmenter (un mindgame réussi ou une très longue chase est sa seule chance). Le tueur suit la logique inverse. *Exercice* : avant chaque chase, dis « avance / égalité / retard » et ton niveau de risque.
+- **Conversion de distance** : toute distance gagnée doit **acheter** quelque chose — un tile fort, une fin de poursuite (> 18 m, SS : un stun + casse, +17,4 m, peut suffire si tu cours droit ; temporisation INC), un cycle de plus. Échecs : regarder la casse ; revenir vers lui ; chase break vers l'open ; oublier que contre un tueur à mobilité la distance vaut moins. Le tueur répond en contournant au lieu de casser. *Exercice* : pour chaque stun ou casse, note ce que tu as acheté ; réussite = 0 distance gaspillée sur 10 parties.
 
 ### 3.8.9 Tempo
 
-- **QUOI** : le rythme auquel arrivent les événements décisifs (gens finis, crochets, sauvetages), et qui le contrôle.
-- **POURQUOI** [HYPOTHÈSE] : un gen qui tombe **pendant** ta chase est du temps converti ; un crochet qui arrive quand 3 gens sont à 80 % coûte moins qu'un crochet quand aucun gen n'avance. Le tueur veut accrocher vite après une chase courte pour enchaîner ; les survivants veulent que chaque crochet lui coûte une longue chase **et** un long portage.
-- **QUAND** : la première chase fixe le tempo (le tueur est révélé à tous dès la 1re poursuite, VP) ; en milieu de partie, faire durer quand un gen est proche de la fin.
-- **COMMENT** : éviter une prise de risque juste avant qu'un gen ne tombe (un down à ce moment interrompt 1-2 alliés).
+- **QUOI / POURQUOI** [HYPOTHÈSE] : le rythme des événements décisifs (gens finis, crochets, sauvetages). Un gen qui tombe **pendant** ta chase est du temps converti ; un crochet quand 3 gens sont à 80 % coûte moins qu'un crochet quand rien n'avance. Le tueur veut accrocher vite et enchaîner ; l'équipe veut que chaque crochet lui coûte une longue chase **et** un long portage.
+- **QUAND / COMMENT** : la première chase fixe le tempo (tueur révélé à tous dès la 1re poursuite, VP) ; faire durer quand un gen est proche de la fin ; éviter une prise de risque juste avant qu'un gen ne tombe (un down interrompt 1-2 alliés).
 - **CONTRE** : downs rapides enchaînés, slug, régression au bon moment.
-- **CAS D'ÉCHEC** : tout le monde répare pendant que personne ne gère le crochet (70 s par phase, VP) ; laisser 3-4 gens à 90 % sans les finir.
-- **EXERCICE** : note l'heure des gens terminés et des crochets ; identifie, par partie, le moment où le tempo a basculé et la décision de chase qui l'a causé.
+- **CAS D'ÉCHEC** : personne ne gère le crochet (70 s par phase, VP) ; 3-4 gens laissés à 90 %.
+- **EXERCICE** : note l'heure des gens et des crochets ; identifie le moment où le tempo a basculé et la décision de chase qui l'a causé.
 
 ### 3.8.10 Pressure conversion et chase « rentable »
 
@@ -752,12 +723,12 @@ Ces seuils **ignorent** : (a) le temps de recherche du tueur entre deux chases (
 ### 3.8.11 Engagement et abandon de chase
 
 - **QUOI** : le tueur **s'engage** quand il décide de poursuivre jusqu'au coup ; il **abandonne** quand il lâche pour une autre cible ou pour la pression de gens.
-- **POURQUOI** : pour lui, chaque seconde de chase est un coût et le temps déjà investi est perdu. Pour toi, ce qui compte est ce qu'il fait **après** : chercher longtemps (bon pour l'équipe) ou trouver aussitôt un allié blessé (mauvais).
-- **QUAND** : tu **veux** qu'il s'engage quand tu es sain, sur une zone riche, loin des gens. Rester « crédible » (dans sa LOS, près d'un tile) pour qu'il ne lâche pas trop tôt quand un allié blessé répare à côté est [SITUATIONNEL] et risqué.
-- **COMMENT** : reconnaître l'abandon (TR qui s'éloigne, tueur qui tourne vers un gen) → reprendre un gen **loin** de lui ; prévenir (SWF : vocal ; SoloQ : roue de communication / HUD seulement).
-- **CONTRE — ce qu'il pense** : le seed propose au tueur une « règle des 30-40 s » (lâcher si ni coup ni palette) : c'est une **heuristique de tueur**, pas une règle. Elle suggère qu'un tueur qui a investi 30 s sans résultat devient susceptible d'abandonner, surtout si un gen est proche de la fin ; beaucoup de tueurs au contraire s'acharnent. Ne compte pas dessus.
-- **CAS D'ÉCHEC** : suivre un tueur qui abandonne pour « le reprendre » ; prendre l'abandon pour une victoire et se soigner à côté (il peut revenir) ; rester visible blessé et sans ressources.
-- **EXERCICE** : note chaque abandon subi : après combien de secondes ? qu'a-t-il fait ensuite ? Réussite : repérer les cas où tu aurais dû rester visible, ou au contraire disparaître.
+- **POURQUOI** : pour lui, chaque seconde de chase est un coût. Pour toi, ce qui compte est ce qu'il fait **après** : chercher longtemps (bon) ou trouver aussitôt un allié blessé (mauvais).
+- **QUAND** : tu **veux** qu'il s'engage quand tu es sain, sur une zone riche, loin des gens ; rester « crédible » pour qu'il ne lâche pas quand un allié blessé répare à côté est [SITUATIONNEL] et risqué.
+- **COMMENT** : reconnaître l'abandon (TR qui s'éloigne, tueur qui tourne vers un gen) → reprendre un gen **loin** de lui ; prévenir (SWF : vocal ; SoloQ : roue de communication / HUD).
+- **CONTRE — ce qu'il pense** : la « règle des 30-40 s » du seed (lâcher si ni coup ni palette) est une **heuristique de tueur** : un tueur qui a investi 30 s sans résultat devient susceptible d'abandonner, surtout près de la fin d'un gen, mais beaucoup s'acharnent. N'y compte pas.
+- **CAS D'ÉCHEC** : suivre un tueur qui abandonne pour « le reprendre » ; te soigner juste à côté (il peut revenir) ; rester visible blessé et sans ressources.
+- **EXERCICE** : note chaque abandon subi (après combien de secondes ? que fait-il ensuite ?) ; repère quand tu aurais dû rester visible ou disparaître.
 
 ### 3.8.12 SoloQ vs SWF : ce qui change dans les calculs
 
@@ -791,11 +762,7 @@ Détail : `kb/research/batch6_chase_tech.md` §4 ; corrections : `kb/audit/pass1
 
 **Décision** : A. B redevient raisonnable si tu arrives avec ≥ 10 m d'avance, **sain**, et que le tueur a montré qu'il suit au lieu de couper (alors : 1 cycle, puis drop dès qu'il s'engage côté palette).
 
-**Variantes selon le tueur** (pre-drop non universel, T05) :
-- casse gratuite (Demogorgon Shred, Oni en Fury, Ghoul avec tokens, Dark Lord loup) : le pre-drop ne lui coûte presque rien → garde la palette pour un **stun** ou change de zone ;
-- pouvoir qui punit l'attente (Doctor, Cannibal, Nemesis MR2+, Mastermind, Lich) : pre-drop **puis départ immédiat** ;
-- **Blight** : casse instantanée en Lethal Rush, mais payée en tokens (9.6.0 ; 9.6.2 : aussi à bas stock) → le pre-drop reste le plus souvent rentable ;
-- Knight : un garde en chasse **contourne** une palette baissée tôt (10.1.1), abandon si le détour dépasse 48 m.
+**Variantes selon le tueur** (T05) : casse gratuite (Demogorgon, Oni en Fury, Ghoul, Dark Lord) → garde la palette pour un **stun** ou change de zone ; pouvoir qui punit l'attente (Doctor, Cannibal, Nemesis, Mastermind, Lich) → pre-drop **puis départ immédiat** ; **Blight** → pre-drop le plus souvent rentable (tokens, 9.6.0 / 9.6.2) ; Knight → un garde en chasse **contourne** une palette baissée tôt (10.1.1).
 
 **Erreur typique** : appliquer la règle du seed « deux tours de fenêtre avant la palette » en étant blessé (le 2e tour est un pari dont l'enjeu est ≈ 60-90 s de chase, selon le modèle) ; ou pré-jeter puis **regarder** la casse au lieu de partir (2,34 s = 9,4 m jetés).
 
@@ -860,5 +827,5 @@ Fente (durée, portée utile) ; durée d'abaissement de la palette et instant du
 - `kb/research/batch7_tiles.md` §2.1 (condition de loop avec temps de porte), §5.2 (palettes et pouvoirs) ; `kb/audit/pass14_lot7_tiles.md`.
 - `kb/research/batch4_killers_g3.md` §21 (Blight) ; `kb/deliverables/KILLER_COUNTERPLAY_HANDBOOK.md` (anti-loop, pre-drop non universel).
 - `kb/seed/audit_phase0.txt` : tables « Référence vérifiée : mouvement, chase, combat » et « objectifs, crochets, soins, statuts ».
-- Notes officielles BHVR : 6.1.0 (cooldowns, casse), 9.2.0 (Krasue, densité), 9.3.0 / 9.3.2 (loops), 9.6.0 (Blight, Match Details, DR), 9.6.2 (Blight tokens), 10.1.0 (protections de décrochage), 10.1.1 (Knight) — `kb/sources/patches/`.
+- Notes officielles BHVR (via l'audit phase 0 et les lots 4 / 7 ; notes 9.x-10.x en local dans `kb/sources/patches/`) : 6.1.0 (cooldowns, casse, gen 90 charges), 9.2.0 (Krasue, densité), 9.3.0 / 9.3.2 (loops), 9.6.0 (Blight, Match Details, DR), 9.6.2 (tokens du Blight), 10.1.0 (protections de décrochage), 10.1.1 (Knight).
 - Pages wiki citées par l'audit et le lot 7 : Pallets, Bloodlust, pages des tueurs cités.

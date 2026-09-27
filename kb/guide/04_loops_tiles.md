@@ -596,3 +596,317 @@ Le détail par carte est au chapitre des cartes. Ici, les principes.
 Détail : `kb/research/batch7_tiles.md` §4 ; `kb/audit/pass14_lot7_tiles.md` (T02, T07, T08, T22-T26, T40).
 
 ---
+
+## 4.5 Matrice tile × archétype de tueur [Avancé]
+
+### 4.5.1 La matrice
+
+**Toute la matrice est [HEURISTIQUE]** : elle fusionne la matrice v1 du handbook de counterplay (§3) et les lignes ajoutées par le lot 7, avec les corrections de l'errata. ↑ = la structure **gagne** de la valeur pour le survivant face à l'archétype ; ↓ = elle en perd ; ≈ = neutre ; ± = dépend du tueur (lire sa fiche).
+
+| Structure | M1 | Anti-loop | Ranged | Mobilité | Furtif | Zone / piège |
+|---|---|---|---|---|---|---|
+| **Shack** | ↑ | ↑ Houndmaster (angles courts), Oni, Mastermind, Blight (murs hauts gênent le rebond, SITUATIONNEL) | ↑ murs hauts coupent la LOS (Huntress, Deathslinger, Trickster, Cenobite, Animatronic, Unknown) ; ↓ Artist, Executioner | ↑ Hillbilly, Nurse (obstacle opaque), Ghoul (tile fermée) | ↓ Ghost Face (il stalke hors de ta vue) | ↓ Trapper (réception de W piégée) |
+| **Jungle gym LW / SW** | ↑ (LW > SW) | ± ↑ Houndmaster ; ↓ Nemesis MR3 (tiles courtes dans sa portée), Xenomorph (tiles pincées) | ± ↑ Huntress, Deathslinger (tiles fermées) ; ↓ Trickster (longue fenêtre vue de loin) | ↑ Hillbilly (murs hauts, passages étroits) | ± coins de stalk (Shape, Ghost Face) | ↓ coin piégé (Trapper) |
+| **L-T walls** (2 W, 0 P) | ↑ (budget 2 × 3 vaults) | ↓ Legion Frenzy, Ghoul, Xenomorph, Good Guy (Scamper par la fenêtre), Houndmaster (chien envoyé par une fenêtre), Mastermind ; ↑ Demogorgon, Oni (rien à casser) | ↓ réception prévisible (Huntress, Deathslinger, Trickster) | ↓ Nurse, Blight (pas de palette pour lui coûter des tokens) | ≈ | ↓ fenêtre piégée (Trapper) |
+| **4-lane** | ↑ | ± ↓ Demogorgon (Shred dans l'axe d'un couloir) | ↓ tir dans l'axe ; ↑ si tu changes de couloir hors LOS | ± | ↓ coins de couloir (Ghost Face, Shape) | ≈ |
+| **Pallet gym** (0 W, 1 P) | ↑ tant que P est levée | ↓↓ tout casseur / vaulteur de palette (4.5.2) | ± | ↓↓ Nurse, Spirit | ≈ | ↓ si P déjà cassée (zone consommée) |
+| **Filler** | ≈ (ressource de distance) | ↓ contre une casse gratuite (stun ou rien) ; **exception Blight** (tokens) ; Hillbilly / Cannibal : 1 s ≈ +4 m | ↓ palette basse ne bloque pas les projectiles (Huntress, Executioner) | ↓↓ | ≈ | ≈ |
+| **Fenêtres fortes** (main window, etc.) | ↑ (Cannibal n'a rien contre, sauf Bamboozle) | ± ↑ Demogorgon (le Shred ne franchit pas une fenêtre), Oni, Lich ; ↓ Ghoul (bonds), Xenomorph (queue à travers), Legion Frenzy, Good Guy | ↓ réception prévisible (Huntress, Deathslinger, Trickster, Animatronic, Plague) | ± ↑ Hillbilly ; ↓ Nurse, Slasher, Dark Lord (points de TP) | ≈ ; ↓ Pig accroupie près d'une fenêtre | ↓ Trapper, Hag (passage obligé piégé) |
+| **Fenêtre à sens unique / drop** | ↑ transition | ± | ↓ réception en hauteur visible | ↓ Ghoul ; ± Nurse (blink d'étage raté = fatigue) | ≈ | ≈ |
+| **Main à étages avec drops** | ↑ | ± ↑ Mastermind | ± ↓ Huntress depuis l'étage | ± ↑ Hillbilly (rampes) ; ↓ Ghoul | ↓ Shape, Ghost Face (coins) | ↓ Hag (réseau dense) ; ↓ Doctor (Static Blast) |
+| **Murets bas** (Cow Tree, Patio, murs « medium » d'Autohaven) | ↓ (il lit tout) | ± | ↓↓ (tir par-dessus) | ↓ | ↑ (tu le vois aussi) | ≈ |
+| **Zone ouverte** | ↓ zone morte | ↓ Houndmaster, Mastermind (portée idéale) | ↓↓ Huntress, Deathslinger, Trickster, Cenobite, Judgment | ↓↓ Hillbilly, Nurse, Oni Fury, Blight, Ghoul, Lich (Fly) | ↑ tu le vois venir | ↑ pièges dispersés (Trapper, Hag faibles en grand open) |
+
+Règles de lecture [HEURISTIQUE] :
+- Une case ± signale une **décision propre au tueur** : lire sa fiche (chapitres 7-8) avant de choisir la tile.
+- La même structure peut être excellente puis mauvaise contre **le même** tueur selon sa phase (palettes contre Onryō manifestée / démanifestée ; boucles longues contre The First hors / pendant Worldbreaker ; fenêtres contre Judgment hors / pendant Zealous).
+- **Houndmaster et palettes** : le handbook disait « une palette posée arrête le chien » ; le correctif 9.3.2 parle d'un chien « sent to vault a window **or pallet** » [FACT] (VP). Conflit **non résolu** : **ne compte pas** sur une palette baissée pour arrêter le chien.
+
+### 4.5.2 Palettes annulées ou contournées par des pouvoirs (liste corrigée par l'errata)
+
+L'ancienne liste de « casses instantanées » (audit phase 0, ancien guide) était fausse sur plusieurs points. **Version à utiliser** [FACT] (SS sauf mention) :
+
+| Cas | Tueur | Effet | Condition |
+|---|---|---|---|
+| **Casse de base** | Shape | Slaughtering Strike détruit palettes **et** murs cassables | Evil Incarnate (VM) |
+| | Demogorgon | Shred détruit la palette | Pouvoir de base |
+| | Oni | Demon Strike détruit la palette | Blood Fury |
+| | Blight | Lethal Rush contre une palette la casse ; **depuis 9.6.0, casser une palette au sol ramène ses tokens de Rush à 2 sous le max et la recharge à 0 %** (VP) → la casse lui **coûte** | Pouvoir de base |
+| | Nemesis | Tentacle Strike détruit les palettes visées | Mutation Rate 2+ (MR1 : à vérifier) |
+| | Singularity | Palette baissée sur lui = détruite, **pas de stun** | Overclock |
+| | Dark Lord | Bond en forme de loup | Pouvoir de base |
+| **Casse non instantanée** | Hillbilly, Cannibal | Tronçonneuse : **1 s** | Pouvoir de base |
+| | Knight | Un garde casse sur ordre en **1,8 s ou 5 s**. **10.1.1** : une palette baissée pendant qu'un garde te chasse le fait **contourner** ; si le détour dépasse **48 m**, il abandonne ; palette baissée **sur** un garde : il la traverse, pas de stun (VP) | Pouvoir de base |
+| | Lich | Mage Hand (portée 16 m) **relève** une palette baissée (0,5 + 0,5 s) **ou bloque** une palette levée 4 s ; avec **Vorpal Sword**, casse une palette baissée en **4 s** au lieu de la relever | Relever / bloquer : de base ; casse : add-on |
+| **Casse seulement avec un add-on** | Mastermind | De base, Virulent Bound **franchit** la palette sans la casser | **Lab Photo** |
+| | Good Guy | De base, Scamper 1 s **sous** la palette (casse de base propre au 2v8) | **Hard Hat** |
+| | Legion | De base, vault en Frenzy | **Iridescent Button** |
+| | Ghoul | De base, vault en Kagune Leap ; casse au 3e bond consécutif | **Iridescent Eye Patch** |
+| | Executioner | Punishment of the Damned | **Obsidian Goblet** |
+| | The First | Undergate Attack | **Shattered Wrist Rocket** |
+| **Vault sans casse** | Krasue | Head Form : vault de palette 1,9 s (fenêtre 1,67 s), stun 2,5 s, pas de Bloodlust, **ne casse pas** | Head Form |
+| **Fausses palettes** | Nightmare | Dream Pallets : se brisent au drop mais **peuvent** l'étourdir | Pouvoir |
+| | Doctor | Palettes illusoires | Add-on |
+| **Palette levée bloquée** | Hex: Blood Favour | Dégâts de tout type → palettes levées à 24/28/32 m bloquées 15 s (LIVE reconstruit, note 559) | Perk |
+| | Animatronic | Téléportation à une Security Door → palettes levées à 32 m bloquées 12 s | Add-on **Iridescent Remnant** |
+
+> **Erreur fréquente** : « Good Guy, Mastermind et Knight cassent les palettes instantanément ». Faux en 1v4 LIVE : les deux premiers ont besoin d'un add-on, le Knight ne casse jamais instantanément. **Identifie l'add-on avant de changer ton plan** : la plupart des tueurs de la liste « add-on » ne l'ont pas.
+
+### 4.5.3 Le pre-drop n'est pas universel : trois cas
+
+Contre un tueur qui a un pouvoir sur les palettes, trois situations **différentes** [HEURISTIQUE fondée sur les FACT ci-dessus] :
+
+1. **La casse lui coûte** (Blight : tokens) → le **pre-drop reste rentable**. Limite : il peut contourner sans casser. Appliquer contre Blight le conseil d'avant 9.6.0 (« éviter le pre-drop ») est une erreur.
+2. **Son pouvoir punit l'attente à la palette** (Doctor, Cannibal, Nemesis MR2+, Mastermind, Lich) → **pre-drop puis départ immédiat** vers la tile suivante, pas « pre-drop puis tenir ».
+3. **La casse est gratuite et un drop tardif n'est pas plus puni** (Demogorgon Shred, Oni en Fury, Ghoul avec tokens, Dark Lord loup) → la palette vaut surtout le **stun** ; la garder levée n'a de sens que si son pouvoir est en recharge ou inutilisable à cet endroit.
+
+Contre un tueur qui a compris ta réponse par défaut (il attend le pre-drop), **varie**.
+
+### 4.5.4 Perks qui modifient les tiles (valeurs LIVE)
+
+| Perk | Effet sur les tiles | Confiance |
+|---|---|---|
+| Bamboozle (T) | Vault +5/10/15 % ; la fenêtre qu'il vaulte est **bloquée pour tous les survivants** 8/12/16 s ; aucun effet sur les palettes | (SS) |
+| Hex: Crowd Control (T) | Refonte 9.5.0 : les **4/5/6 dernières fenêtres** vaultées (medium / fast) sont bloquées tant que le Hex tient ; il les vaulte 15 % plus vite et voit leur aura à 24 m | (VM) |
+| Cruel Limits (T) | Chaque gen terminé : **toutes les fenêtres** bloquées 20/25/30 s | (SS) |
+| Zanshin Tactics (T) | Aura des palettes et fenêtres à 32 m ; ton aura 3/4/5 s quand tu baisses une palette | (SS) |
+| I'm All Ears (T) | Aura 8 s d'un survivant qui fait un Rushed Vault à ≤ 48 m ; CD 60/45/30 s | (SS) |
+| Superior Anatomy (T, LIVE 9.0.0) | Rushed Vault à ≤ 12 m de lui → son prochain vault +30/35/40 % ; CD 25 s | (SS, le wiki affiche la version PTB) |
+| Brutal Strength, THWACK!, Enduring, Spirit Fury (T) | Casse +10/15/20 % ; cri + aura sur casse ; stun −40/45/50 % ; après 4/3/2 casses, la prochaine palette qui l'étourdit est cassée instantanément (le stun a lieu) | (SS) |
+| **Wide Open Throttle** (S, 10.0.1) | Fast vault d'une palette baissée → Haste 10/12,5/15 % 3 s ; la palette est **remise levée et bloquée 60 s**, aura visible par tous ; CD 60 s | (VP) |
+| Five Moves Ahead (S, LIVE 9.5.0) | En poursuite ou dans le TR : **drop de palette 50 % plus rapide** ; aura des 5 palettes et fenêtres les plus proches ; CD 40/35/30 s | (SS) |
+| Any Means Necessary (S) | Relever une palette baissée en 5/4/3 s | (SS) |
+| Lithe / Balanced Landing (S) | Haste 50 % 3 s après un Rushed Vault / une chute ; Exhausted 60/50/40 s | (SS) |
+| Last Stand (S) | Après 120/105/90 s dans le TR sans être poursuivi, un Rushed Vault étourdit le tueur 3 s s'il est à ≤ 2,5 m de la fenêtre ; une fois par partie | (SS) |
+| Windows of Opportunity (S) | Aura des ressources de chase ; **valeurs LIVE non relues** (le wiki affiche la refonte PTB) | **(INC)** |
+
+Lecture [HEURISTIQUE] :
+- **Bamboozle et Crowd Control** transforment les tiles **à fenêtre seule** (L-T, fenêtres à sens unique) en tiles mortes ; contre elles, les tiles à **palette** gardent leur valeur.
+- **Wide Open Throttle retire la porte de la loop pendant 60 s** : la palette revient levée **et bloquée**, tu ne peux plus la baisser, et le tueur passe dans l'ouverture. **Ne l'active pas sur la palette que tu comptes encore boucler.** Usage correct : **transition** (Haste 3 s vers la tile suivante), ou palette qui allait être cassée de toute façon.
+- **Five Moves Ahead** raccourcit le drop : pre-drop tardif et stun plus faciles, géométrie inchangée.
+- **Superior Anatomy** rend un fast vault près de lui moins rentable ; s'il te suit par les fenêtres anormalement vite, identifie la perk avant de rejouer une W. **Last Stand** punit, une fois, un tueur qui colle ta réception.
+
+Détail : `kb/research/batch7_tiles.md` §5 ; `kb/ledgers/AUDIT_PHASE0_ERRATA.md` ; `kb/deliverables/KILLER_COUNTERPLAY_HANDBOOK.md` §2.2-3.
+
+---
+
+## 4.6 Connectivité : enchaîner les tiles [Avancé]
+
+### 4.6.1 Vocabulaire [HEURISTIQUE]
+
+| Terme | Définition opérationnelle |
+|---|---|
+| **Chaînage (tile chaining)** | Suite de tiles assez proches pour passer de l'une à l'autre **sans** traverser de dead zone (au sens relatif de 4.3.1). BHVR le nomme comme facteur de sécurité (main de Crotus Prenn, 9.3.0 [FACT] (VP)) |
+| **Tile de transition** | Tile qu'on traverse pour gagner quelques mètres : L-T, fenêtre à sens unique, filler en pre-drop, murs hauts pour casser la LOS |
+| **Escape route** | Chemin de sortie prévu **avant** d'en avoir besoin, avec son déclencheur |
+| **Resource route** | Chemin qui passe par le plus de ressources **non consommées** |
+| **Carte mentale** | Ce que tu sais (FIXE) + ce que tu as vu (RNG observé) + ce qui a été consommé |
+
+### 4.6.2 Ce que tu peux savoir avant la chase
+
+| Source | Ce qu'elle donne | Nature |
+|---|---|---|
+| Connaissance de la carte | Emplacements **généraux** des maze tiles, du shack, du main, des structures | FIXE [FACT] (SS) |
+| Nom de la carte | Royaume → hauteur des murs (4.4.0), structures possibles | FIXE |
+| **Pre-run** (trajet vers ton premier gen) | Itération de chaque maze tile vue (LW / SW, opened / closed…), palettes présentes, murs déjà ouverts | RNG observé |
+| Sons et HUD | Casses de palettes, poursuites des alliés | Partiel ; portée du son de casse **(INC)** |
+| Perks d'aura | Palettes / fenêtres visibles | Conditionnel |
+
+### 4.6.3 Planifier 5 à 15 s d'avance : les trois horizons [HEURISTIQUE]
+
+**QUOI.** À chaque tile, trois questions, dans cet ordre :
+1. **H1 — maintenant (0-5 s)** : quelle porte j'utilise, où est le tueur (checkspot **avant** la décision), combien de vaults il me reste sur cette fenêtre.
+2. **H2 — la sortie (5-10 s)** : quel **déclencheur** me fera quitter la tile (fenêtre bloquée pour moi, palette baissée qu'il va casser, tueur qui tient le centre, Bloodlust au palier II) et **par où** je sortirai (côté opposé à lui).
+3. **H3 — la destination (10-15 s)** : tile suivante **et** plan B, avec leur distance D et l'écart nécessaire (table ci-dessous). Si aucune destination ne passe le test : rester et étirer la tile actuelle (greed prudent), ou partir **pendant** sa prochaine animation.
+
+**POURQUOI.** La plupart des coups « gratuits » se prennent **entre** deux tiles, pas dessus : on part trop tard, du mauvais côté, ou vers une ressource consommée.
+
+Le « test des 5 secondes » (« où serai-je dans 5 s, pourra-t-il me toucher là ? ») est une bonne version courte de H1-H2.
+
+**Écart nécessaire au départ pour atteindre une ressource à D mètres** (CALC : `v_r × D / 4,0`). **Ajoute** la fente (~2-2,5 m, INC) **et** le temps d'utilisation de la ressource en mètres (≈ 2,3 m pour un fast vault, ≈ 5 m pour un vault de palette, drop INC). Palier de Bloodlust supposé constant :
+
+| D | 4,6 · BL 0 | 4,6 · BL I | 4,6 · BL II | 4,6 · BL III | 4,4 · BL 0 | 4,4 · BL III |
+|---|---|---|---|---|---|---|
+| 10 m | 1,5 m | 2,0 m | 2,5 m | 3,0 m | 1,0 m | 2,5 m |
+| 15 m | 2,3 m | 3,0 m | 3,8 m | 4,5 m | 1,5 m | 3,8 m |
+| 20 m | 3,0 m | 4,0 m | 5,0 m | 6,0 m | 2,0 m | 5,0 m |
+| 30 m | 4,5 m | 6,0 m | 7,5 m | 9,0 m | 3,0 m | 7,5 m |
+| 40 m | 6,0 m | 8,0 m | 10,0 m | 12,0 m | 4,0 m | 10,0 m |
+
+**Quand partir : les « fenêtres de départ »** (CALC, gains repris du chapitre 3) :
+
+| Moment | Écart ajouté | Remarque |
+|---|---|---|
+| Il casse la palette | ≈ +9,4 m, Bloodlust à 0 | Caméra basculée vers le bas [FACT] (SS) : il ne voit pas **par où** tu pars |
+| Stun de palette | ≈ +8 m (+17 m s'il casse ensuite) | Meilleure transition possible |
+| Il te suit par la fenêtre | ≈ +4,8 m | Rare : il préfère contourner |
+| Coup manqué | ≤ +6 m | Cooldown 1,5 s |
+| Coup reçu | ≈ +3 à +15 m (boost 1,8 s) | Coûte un état de santé ; Bloodlust à 0 |
+| Il casse un mur | ≈ +9,4 m | Bloodlust : (INC) |
+| Perte de LOS (angle de mur haut) | 0 m, mais il doit **deviner** | La poursuite finit si LOS perdue > 8 s [FACT] (SS) |
+
+**QUAND / CONTRE.** Un bon tueur **refuse** les fenêtres de départ que tu attends : il ne casse pas, il contourne pour garder la Bloodlust, il coupe la direction de la tile suivante. Contre ça : partir **avant** d'en avoir besoin quand l'écart le permet.
+
+**CAS D'ÉCHEC.** Destination choisie du **côté** du tueur (il coupe la route) ; destination consommée découverte à l'arrivée ; départ après la fin de sa casse au lieu de pendant.
+
+### 4.6.4 Checklist de transition [HEURISTIQUE]
+
+Avant de quitter une tile :
+1. **Direction** : la tile suivante n'est **pas du côté** du tueur ; sinon, plan B.
+2. **Distance** : écart ≥ table 4.6.3 + fente, pour **ton** palier de Bloodlust estimé.
+3. **Terrain** : trajet couvert (murs hauts, dénivelés) contre ranged et mobilité ; ligne droite acceptable contre un M1 sans pouvoir.
+4. **État de la destination** : ressource vue au pre-run et non consommée (ou probable, 4.6.5).
+5. **Macro** : ne pas amener la chase sur les gens de tes alliés ni près d'un crochet à côté d'un gen à finir (chapitre 6).
+6. **Plan B** : une ressource de secours à portée si la destination est prise.
+
+### 4.6.5 Probabilité de trouver la ressource suivante [HYPOTHÈSE, modèle jouet]
+
+- Une destination à **n** ressources indépendantes, chacune déjà consommée avec une probabilité q (inconnue en SoloQ), offre au moins une ressource avec la probabilité `1 − qⁿ`. Pour q = 0,5 : tile à 1 palette → 50 %. Un main à 2 palettes + 1 fenêtre : la fenêtre donne presque toujours une porte (sauf si **tu** l'as déjà vaultée 3 fois dans cette poursuite, ou si Bamboozle, Crowd Control ou Cruel Limits la bloquent).
+- **Interprétation** : en cas de doute, une tile **à fenêtre** ou un main est une destination plus fiable qu'une tile à palette seule. Modèle **non mesuré** : q varie avec la phase de partie.
+- En SoloQ, les palettes proches des gens disputés et du shack sont plus souvent consommées [HEURISTIQUE] : vérifier par un checkspot **avant** de s'engager.
+
+### 4.6.6 SoloQ vs SWF sur les tiles [HEURISTIQUE, non mesuré]
+
+| Point | SoloQ | SWF (vocal) |
+|---|---|---|
+| Carte mentale | Déduite : sons de casse, icônes de poursuite, pre-run ; vérifier la palette de destination par un checkspot | Annoncée : « palette du shack cassée », « L-T nord bloquée par Bamboozle » |
+| Choix de destination | Préférer les destinations à **fenêtre** ou à plusieurs ressources | Palette seule acceptable si un allié confirme qu'elle est levée |
+| Garder une palette forte | Valeur incertaine (tu ignores les besoins des autres) | L'équipe décide qui la garde (ex. palette d'endgame) |
+| Macro | Ne pas amener la chase vers une zone où un gen avance sans savoir qui y est | Annoncer ta direction de sortie pour que les alliés quittent le trajet |
+| Perks d'info de tile | Five Moves Ahead, Windows of Opportunity compensent en partie | Moins utiles |
+
+Détail : `kb/research/batch7_tiles.md` §6.1-6.5, §6.8.
+
+---
+
+## 4.7 Trois exemples commentés : « Tile A → Tile B → Main → filler » [Expert]
+
+Conventions : distances **inventées pour l'exemple** (schémas de principe) ; écarts et temps = CALC ; décisions = [HEURISTIQUE].
+
+### Exemple 1 — Tueur M1 à 4,6 m/s, survivant sain, carte à murs hauts
+
+```
+                       18 m                         25 m                    15 m
+   [A] Jungle gym LW ───────────► [B] L-T walls ─────────────► [MAIN] ─────────────► [F] filler
+    W (3 vaults)  P                W1 (3)  W2 (3)               W main (3), 2 P, drop     P
+        \                                                         ^
+         \______________ 30 m à découvert (dead zone relative) ___/
+   Le tueur te repère à ~8 m de A.
+```
+
+| Temps | Situation | Options | Décision et pourquoi |
+|---|---|---|---|
+| 0 s | Sur A, 8 m d'avance, BL 0 | (a) boucle fenêtre ; (b) pre-drop P ; (c) filer vers B | **(a)** : rien ne presse ; (b) gaspille la palette ; (c) consomme l'avance sans utiliser A |
+| ~5-15 s | 2 vaults faits, il suit dehors | Continuer W ; garder P | **Greed P** tant qu'il suit. Compteur W = 2 : **le 3e vault est ton dernier** avant 30 s de blocage |
+| ~15 s | BL I. Il arrête de suivre, tient le centre | (a) 3e vault ; (b) aller à P ; (c) partir vers B | **(b)** : un 3e vault vers un tueur au centre = réception couverte. À P : drop **quand il s'engage** (stun) ou pre-drop sans marge |
+| Drop | Il casse (2,34 s) | Revaulter P ; partir | **Partir vers B pendant la casse** : +9,4 m, BL à 0 ; 18 m demandent ≈ 2,7 m + fente → largement couvert |
+| ~25 s | B : 2 fenêtres, 6 vaults potentiels | Serpenter longtemps ; transition | B en **transition** : 2-3 vaults pour replacer le tueur **derrière** toi, puis partir quand il coupe par le centre **hors LOS** |
+| Vers le main | D = 25 m, BL I probable | Partir ; rester | Il faut ≈ 5 m + fente : partir seulement après une réception qu'il n'a pas couverte ou un coup manqué. **Pas** le raccourci de 30 m à découvert depuis A |
+| Main | Fenêtre à compteur neuf, 2 palettes, drop | Monter ; main window | Monter **seulement** si le drop est libre ; main window d'abord, palettes en réserve |
+| Fin | Main consommé | Filler F (15 m) | **Pre-drop pour la distance** (ou stun s'il s'engage), puis continuer ; ne pas tourner autour |
+
+> **Erreur typique** : quitter A **après** la casse (il a fini son animation) au lieu de **pendant** ; ou vaulter la 3e fois vers un tueur au centre « parce que la règle dit deux tours puis palette ».
+
+### Exemple 2 — Tueur à distance (type Huntress / Deathslinger), survivant blessé
+
+```
+   [A] Shack ──12 m (derrière un muret bas) ──► [B] 4-lane (opened) ──20 m (couvert, le long de murs) ──► [MAIN]
+                                                                                                          │ 10 m
+                                                                                                         [F] filler
+   Principe : contre un tueur à distance, la route COUVERTE bat souvent la route COURTE.
+```
+
+| Étape | Options | Décision (cohérente avec le handbook : murs hauts ↑, open ↓↓ contre ranged) |
+|---|---|---|
+| Shack (A), blessé | Boucle fenêtre ; pre-drop | Les murs hauts coupent ses tirs : **boucler W** en coupant la LOS à chaque angle ; ne pas rester dans l'axe des ouvertures |
+| Sortie de A | Directe par le muret bas (12 m) ; le long du shack puis du 4-lane | Muret bas = tir par-dessus : **partir sur une casse ou hors LOS** ; changer de trajectoire pendant la course |
+| 4-lane (B) | Couloir de P ; couloir de W | Ne pas courir **dans l'axe** d'un couloir où il a la ligne : changer de couloir hors LOS ; pre-drop plus tôt (blessé) |
+| Vers le main | Courte en open ; longue couverte | **Couverte** en général, même 5 m plus longue : en open, la distance vaut **beaucoup moins** contre un tir. Elle compte encore (temps de vol, portée, recharge) : si la route couverte mange presque tout ton écart, la courte redevient discutable [SITUATIONNEL] |
+| Main | Intérieur, plafond | L'intérieur favorise le survivant contre plusieurs ranged ; attention aux tirs depuis l'étage |
+| Filler (F) | Pre-drop ; LOS derrière l'objet | Une palette basse **ne bloque pas** une hachette : F sert surtout d'**obstacle de LOS** |
+
+> **Erreur typique** : choisir la tile la plus proche à travers une zone ouverte ; courir en ligne droite dans un couloir de 4-lane face au tueur.
+
+### Exemple 3 — Fin de chase, zone consommée, SoloQ, Blight ou M1 à Bloodlust haute
+
+```
+   [A] Pallet gym (palette DÉJÀ CASSÉE : zone consommée) ──15 m──► [B] Debris gym (état inconnu)
+                                          \                                  │ 20 m
+                                           \───── 35 m ─────► [MAIN] ◄──────┘
+                                                                 │ 15 m
+                                                                [F] filler
+```
+
+| Étape | Options | Décision |
+|---|---|---|
+| A consommée, BL II | Rester ; B (15 m, inconnu) ; main (35 m) | A n'a plus de porte asymétrique → partir. Main à 35 m : ≈ **8,8 m** + fente contre un 4,6 à BL II → **irréaliste** sans coup reçu ni casse. (Blight à 4,4 : ≈ 7 m + fente, mais contre lui ce sont ses **tokens**, pas la course, qui décident) |
+| Choix de B | Checkspot sur la palette de B pendant la course | Palette **vue levée** → B ; inconnue → B reste le seul choix atteignable ; plan B = sa fenêtre (compteur neuf pour toi) |
+| À B | Fenêtre d'abord ; palette | **Blight** : sa casse lui coûte ses tokens depuis 9.6.0 → **pre-drop rentable** ; pas de greed debout derrière la palette quand il a des tokens. Casseur **gratuit** (Demogorgon, Oni en Fury) : la palette vaut le stun. **M1 à BL II** : pre-drop pour **remettre la Bloodlust à 0** s'il casse (il peut contourner pour la garder) |
+| Vers le main (20 m) | Partir sur la casse ; rester | **Pendant la casse** (+9,4 m, BL 0) : 20 m demandent ≈ 3 m + fente → couvert. Le main offre plusieurs ressources : destination la plus probable |
+| Main contre mobilité | Étages ; boucles serrées | Contre Blight, les murs hauts gênent les rebonds [SITUATIONNEL] : boucles courtes à murs hauts plutôt que longues lignes droites |
+| Filler final | Pre-drop / stun | Blight : pre-drop (coût en tokens). Casseur gratuit : le filler vaut un stun ; sans stun possible, le laisser pour un allié |
+
+> **Erreur typique** : viser la ressource la plus « forte » (main) à travers une zone morte au lieu de la plus **atteignable** (B) ; greeder une palette contre un tueur qui la casse gratuitement ; appliquer contre Blight le counterplay d'avant 9.6.0.
+
+Détail : `kb/research/batch7_tiles.md` §6.6.
+
+---
+
+## 4.8 Exercices [Intermédiaire → Avancé]
+
+**Exercice 1 — « Annonce H3 »** [HEURISTIQUE]
+- **Objectif** : avoir toujours une destination et un plan B.
+- **Méthode** : à l'entrée de chaque tile, annoncer (à voix haute ou mentalement) : « sortie : [déclencheur] ; suivante : [tile] à ~[D] m ; plan B : [tile] ».
+- **Mesures** : % de transitions annoncées ; nombre de transitions vers une dead zone ; part des départs faits pendant une animation du tueur (casse, stun, vault, coup manqué). Cette dernière se **note** mais n'est pas un objectif : un départ anticipé avec assez d'écart vaut autant, et un départ toujours calé sur la casse devient prévisible.
+- **Réussite** (seuil non calibré) : ≥ 90 % de transitions annoncées sur 10 parties.
+
+**Exercice 2 — Chronométrer tes tiles** (partie personnalisée avec un ami tueur) : 10 cycles de shack, de jungle gym LW et SW, de L-T et de filler, contre un 4,6 puis un 4,4. Note le temps d'un cycle et l'avance minimale qui reste sûre. Ces mesures remplacent les distances « inventées » des exemples par les tiennes (lacune connue : aucun temps de cycle par tile n'est documenté).
+
+**Exercice 3 — Pre-run** : pendant tes 20 premières secondes de partie, nomme chaque maze tile que tu vois (itération, palette présente ou non, murs cassables ouverts). Après la partie, vérifie si ta première chase est passée par une tile que tu avais identifiée. Objectif : que ta **première** chase commence toujours avec une destination connue.
+
+**Exercice 4 — Test en temps** : voir 4.2.2 (fast vs medium vault sur la même fenêtre).
+
+---
+
+## 4.9 Ce que l'ancien guide disait de faux ou d'imprécis
+
+| L'ancien guide | Verdict | Correction |
+|---|---|---|
+| Certaines loops sont « infinies » | **Faux** | Blocage de fenêtre (3 vaults, 30 s, rechute), palettes finies, Bloodlust (4.1.2) |
+| God / safe / pseudo-safe / unsafe = niveaux de tiles | Imprécis | Catégories **relatives** au tueur et à l'état de chase (4.3) |
+| « Au 3e vault la fenêtre se bloque » | Imprécis | Le 3e est permis, blocage **après**, pour toi seul, 30 s |
+| « Deux tours de fenêtre avant la palette » | Trop absolu | Dépend du trajet du tueur, de la santé, du pouvoir |
+| « Serpenter dans le sens horaire » | Faux comme règle | Orientation tirée au hasard ; le sens dépend du tueur |
+| Debris pile gym ≠ Trash pile gym | **Faux** | Une seule tile |
+| Exclusivités de tiles par royaume | Probablement périmé | Pool commun depuis 9.2.0 (conflit non résolu) |
+| « Une god pallet se garde » | Trop absolu | 4.4.13 |
+| Car piles d'Autohaven « hauts murs » | Imprécis | Murs de maze d'Autohaven « medium » |
+| Coal Tower « se joue comme un shack » | Imprécis | C'est un main à 2 niveaux |
+| Bus « se boucle en longueur » | Imprécis | 2 variantes, un vault toujours bloqué, fenêtre arrière = drop-off |
+| « Ne jamais partir vers une dead zone » | Imprécis | Dead zone relative à l'écart (4.3.1) |
+| Good Guy, Mastermind (et Knight) cassent instantanément | **Faux** (errata) | 4.5.2 |
+| WOT « rend une palette réutilisable » | **Faux dans l'effet** | La palette revient levée **et bloquée 60 s** : outil de transition |
+
+---
+
+## 4.10 Incertitudes à garder en tête
+
+- **Durée d'abaissement d'une palette** : inconnue. Toutes les conditions « safe » de palette en dépendent.
+- **Portée utile de la fente** : ~2-2,5 m, non tranchée. Toutes les tables CALC en dépendent.
+- **Pool commun 9.2.0 vs exclusivités du wiki** : non résolu.
+- **Chien du Houndmaster et palettes baissées** : non résolu (ne pas compter dessus).
+- **Nemesis MR1** et palettes ; **Bloodlust** après stun ou casse de mur ; remise à zéro du compteur de fenêtre entre deux poursuites ; vaults medium / slow dans le compteur : non documentés.
+- **Windows of Opportunity** LIVE : valeurs non relues.
+- Origine du critère d'espacement 14/16/18/20 m ; nombre de palettes par carte après 9.3.2 ; portée du son de casse.
+- Hiérarchies « LW > SW », « opened > closed », « T > L » : aucune source experte écrite et datée.
+- Tiles des cartes intérieures (RPD, Midwich, Lampkin Lane…) : non traitées ici.
+
+---
+
+## Sources du chapitre
+
+- `kb/research/batch7_tiles.md` (lot 7, audité) et `kb/audit/pass14_lot7_tiles.md` (40 corrections, dont condition de loop en temps, Blight, Lich, WOT)
+- `kb/ledgers/AUDIT_PHASE0_ERRATA.md` (casseurs de palettes : Good Guy, Mastermind, Lich, Knight, liste complétée)
+- `kb/research/batch6_chase_tech.md` et chapitre 3 (vitesses, fente, gains en mètres) ; `kb/deliverables/KILLER_COUNTERPLAY_HANDBOOK.md` §2.2-3 (matrice v1)
+- Notes officielles BHVR : 9.2.0 (`kb/sources/patches/official_523.txt`), 9.3.0 (529), 9.3.2 (530), 9.5.0 (538), 9.6.0 (544), 10.0.1 (551), 10.1.1 (557) ; PTB 10.2.0 (559) seulement pour les valeurs « was »
+- Pages wiki.gg (consultées le 27/09/2026) : Windows, Pallets, Maze Tiles, Killer Shack, Breakable Walls, Structures (et pages liées), Chase, Status HUD/Bloodlust, The Lich ; pages tueurs archivées `kb/sources/wiki_killers/` (Krasue, Good Guy, Animatronic) ; `kb/sources/wiki_perks_digest.md`

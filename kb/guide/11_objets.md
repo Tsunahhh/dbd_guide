@@ -1,6 +1,6 @@
 # 11. Objets, add-ons, offrandes et techniques associées
 
-> **Périmètre** : ce chapitre couvre les **objets survivant** (toolboxes, med-kits, lampes, Fog Vials, clés, maps, objets d'événement et objets limités), leurs **add-ons**, les **offrandes** qui comptent, l'**économie des coffres**, une méthode pour chiffrer la **rentabilité d'un objet en secondes**, puis les **techniques de save** qui s'appuient sur un objet ou sur le portage : flash save, pallet save, sabotage, body block, protection hit, save au casier, wiggle, trappe avec clé.
+> **Périmètre** : objets survivant et leurs **add-ons**, **offrandes**, **coffres**, **rentabilité d'un objet en secondes**, puis les **techniques** liées au portage et aux objets : flash save, pallet save, sabotage, body block, protection hit, save au casier, wiggle, trappe avec clé.
 >
 > **Version** : LIVE 10.1.2a (17/09/2026). Toute valeur du PTB 10.2.0 est marquée « PTB 10.2.0 — non LIVE ». **Mode 1v4 uniquement** : les objets de départ par classe et les 27 coffres du 2v8 (notes 10.1.2) ne s'appliquent pas ici.
 
@@ -19,7 +19,7 @@
 
 **Unité** : la **seconde-survivant (s-s)** = 1 survivant pendant 1 s. **1 gen solo = 90 s-s** [FACT] (VM).
 
-**Techniques** (section 11.12) : grille **QUOI → POURQUOI → QUAND → COMMENT → CONTRE → CAS D'ÉCHEC → EXERCICE**. Sauf mention FACT ou CALC, les rubriques POURQUOI à EXERCICE sont des **[HEURISTIQUE]** calibrées sur un tueur « moyen » ; les limites à haut niveau sont dites au cas par cas. Aucune vidéo n'a été analysée pour ce chapitre, aucun site de statistiques n'a été consulté.
+**Techniques** (section 11.12) : grille **QUOI → POURQUOI → QUAND → COMMENT → CONTRE → CAS D'ÉCHEC → EXERCICE**. Sauf mention FACT ou CALC, les rubriques POURQUOI à EXERCICE sont des **[HEURISTIQUE]** calibrées sur un tueur « moyen ». Aucune vidéo ni site de statistiques n'a été utilisé.
 
 > **À retenir** : un objet ne « gagne » pas une partie. Il fait gagner ou perdre **quelques secondes** (toolbox, kit) ou **une décision** (lampe, clé, Fog Vial). Le bon réflexe est de se demander, pour chaque objet et chaque add-on : **est-ce que ça change ce que je fais ?** Si non, c'est du confort.
 
@@ -59,8 +59,6 @@
 - [HEURISTIQUE] SoloQ : regardez qui porte une lampe, une clé, une toolbox ou un kit. Ne doublez pas le save d'un porteur de lampe, laissez la trappe au porteur de clé, allez vers le porteur de kit pour un soin.
 - Revers : **Lightborn, Franklin's Demise, Overwhelming Presence ne se voient pas avant d'être subis**. Il faut les déduire en partie (`kb/deliverables/PERK_DEDUCTION.md`).
 
-> **Erreur fréquente** : « le tueur de la partie précédente n'avait pas Lightborn, donc je peux flasher ». Chaque partie a un autre tueur, et son loadout est caché. Le risque ne se vérifie jamais à l'avance.
-
 Détail : `kb/research/batch5_items.md` §1.
 
 ---
@@ -92,17 +90,12 @@ Toutes les valeurs : [FACT] (SS). Alex's : 18 charges retenues (description de l
 
 | Add-on | Rareté | Effet [FACT] (SS) | Change la décision ? |
 |---|---|---|---|
-| Clean Rag | Common | +20 % de réparation | Non |
 | **Instructions** | Common | **Supprime les tests de réparation normaux**. N'agit pas sur les tests **spéciaux** déclenchés par un effet extérieur | **Oui** (voir encadré) |
-| Scraps | Common | +8 charges | Non |
-| Cutting Wire | Uncommon | +20 % de sabotage | Non |
 | **Protective Gloves** | Uncommon | **Supprime la Loud Noise Notification** du sabotage | **Oui** : le tueur n'apprend plus le sabotage et marche vers un crochet cassé |
-| Socket Swivels | Uncommon | +30 % de réparation | Non (mais le meilleur gain brut) |
-| Spring Clamp | Uncommon | −8 m de portée des bruits de réparation | Faible |
-| Wire Spool | Uncommon | +12 charges | Non |
 | **Grip Wrench** | Rare | Réparation automatique du crochet saboté : 30 → **50 s** | **Oui**, pour pré-saboter ou couvrir un portage long |
-| Hacksaw | Rare | +30 % de sabotage | Non |
 | **Brand New Part** | Visceral | Action dédiée : **un test difficile** ; réussi, il retire **définitivement 10 charges** au besoin du gen. Consommé | **Oui** |
+
+Add-ons de confort (vitesse ou charges brutes, [FACT] (SS)) : Clean Rag (Common, réparation +20 %), Scraps (Common, +8 charges), Cutting Wire (Uncommon, sabotage +20 %), **Socket Swivels** (Uncommon, réparation +30 %, le meilleur gain brut), Spring Clamp (Uncommon, bruits de réparation −8 m), Wire Spool (Uncommon, +12 charges), Hacksaw (Rare, sabotage +30 %).
 
 > **Note avancée — Instructions** : utile contre ce qui **modifie les tests normaux** (Unnerving Presence, Lullaby de la Huntress : [HYPOTHÈSE] déduite du texte). **Inutile** contre les tests **spéciaux** : Overcharge, Oppression, Merciless Storm [FACT] (SS). Contre les Madness Skill Checks du Doctor : **[INCERTAIN]**. Coût : **plus aucun Great** (≈ 5 s perdues sur une Commodious si vous faisiez tous les Great, CALC 11.11), et incompatible avec Hyperfocus, Stake Out, Fast Track, Specialist.
 
@@ -164,26 +157,16 @@ Détail : `kb/research/batch5_items.md` §2.1.
 | **Haemorrhage** | Un soin interrompu perd −7 %/s [FACT] (SS) | Un auto-soin de 24 s coupé est en partie perdu |
 | **Deep Wound** | Se traite par le **mending** (10 s seul, 6 s par un allié) [FACT] (SS) | Effet du kit sur le mending : [INCERTAIN] |
 
-Quand **ne pas** soigner du tout (rester blessé et réparer) : chapitre macro et `kb/research/batch11_training.md`.
-
 ### Add-ons
 
 | Add-on | Rareté | Effet [FACT] (SS) | Change la décision ? |
 |---|---|---|---|
-| Bandages | Common | +8 charges | Non |
-| Butterfly Tape | Common | +5 % de vitesse | Non |
-| Rubber Gloves | Common | Zone Great +10 % | Non |
-| Medical Scissors | Uncommon | +10 % de vitesse | Non |
-| Needle & Thread | Uncommon | +10 % de chance de test, +5 % de bonus Great | Non |
-| Self Adherent Wrap | Uncommon | +5 % de vitesse, +8 charges | Non |
-| Sponge | Uncommon | Zone Great +20 % | Non |
-| Gauze Roll | Rare | +10 charges | Non |
-| Surgical Suture | Rare | +15 % de chance de test, +10 % de bonus Great | Faible |
-| Abdominal Dressing | Very Rare | +15 % de vitesse | Non |
 | **Styptic Agent** | Very Rare | **+15 % d'efficacité en auto-soin** (depuis 9.3.0 : plus d'Endurance, plus consommé) [FACT] (VM) | Faible |
 | **Anti-Exhaustion Syringe** | Visceral | Pendant un soin (de soi ou d'un allié) avec le kit, **action secondaire** : le survivant soigné **perd immédiatement Exhausted**. **Consomme le kit** [FACT] (VM) | **Oui** |
 | **Gel Dressings** | Visceral | +16 charges (40 au total) | **Oui** : un auto-soin **et** un soin d'allié avec le même kit (CALC : 40 − 21,3 = 18,7 charges restantes) |
 | Refined Serum | Event (Halloween) | Action secondaire : +5 % de vitesse 16 s + traînée de Blight ; consomme le kit | Hors saison |
+
+Add-ons de confort ([FACT] (SS)) : charges (Bandages +8, Self Adherent Wrap +8 et +5 % de vitesse, Gauze Roll +10), vitesse (Butterfly Tape +5 %, Medical Scissors +10 %, Abdominal Dressing +15 %), tests (Rubber Gloves zone Great +10 %, Sponge +20 %, Needle & Thread +10 % de chance et +5 % de bonus Great, Surgical Suture +15 % et +10 %). Aucun ne change la décision.
 
 > **Note avancée — le nom de la seringue** : le nom LIVE est bien **Anti-Exhaustion Syringe** (renommée **depuis** Anti-Haemorrhagic en 9.3.0) [FACT] (VM). L'audit phase 0 (A-186) avait inversé le sens ; l'errata le corrige.
 
@@ -236,20 +219,13 @@ Détail : `kb/research/batch5_items.md` §2.2.
 
 | Add-on | Rareté | Effet [FACT] (SS) | Change la décision ? |
 |---|---|---|---|
-| Battery | Common | +2 s | Non |
 | **Leather Grip** | Common | Visée +20 % | Oui (saves) |
-| Power Bulb | Common | Luminosité +20 %, aveuglement +10 % | Non |
 | **Wide Lens** | Common | **Largeur +25 %, portée −25 %** | Oui : plus tolérant de près |
-| Focus Lens | Uncommon | Portée +25 %, luminosité +20 %, aveuglement +10 %, largeur −15 % | Faible |
-| Heavy Duty Battery | Uncommon | +4 s | Non |
-| Low Amp Filament | Uncommon | Déplétion −24 % | Non |
 | **Rubber Grip** | Uncommon | **Visée +40 %** | Oui (saves) |
-| TIR Optic | Uncommon | Luminosité +30 %, aveuglement +15 % (**aucun** effet de largeur) | Non |
-| Intense Halogen | Rare | Luminosité +40 %, aveuglement +20 % | Faible |
-| Long Life Battery | Rare | +6 s | Non |
-| High-End Sapphire Lens | Very Rare | Portée +25 %, luminosité +30 %, aveuglement +15 %, largeur −25 % | Faible |
 | Odd Bulb | Visceral | Luminosité +50 %, **aveuglement +25 %**, déplétion **+14 %** | Faible pour les saves |
 | Broken Bulb | Event (Halloween) | Clignotement, luminosité +15 %, aveuglement +30 % | Hors saison |
+
+Add-ons de confort ([FACT] (SS)) : batterie (Battery +2 s, Heavy Duty Battery +4 s, Long Life Battery +6 s, Low Amp Filament déplétion −24 %) ; luminosité et durée d'aveuglement (Power Bulb +20 % / +10 %, **TIR Optic** +30 % / +15 %, **sans** effet de largeur contrairement à ce qu'on lit souvent, Intense Halogen +40 % / +20 %) ; portée contre largeur (Focus Lens portée +25 %, largeur −15 %, luminosité +20 %, aveuglement +10 % ; High-End Sapphire Lens portée +25 %, largeur −25 %, luminosité +30 %, aveuglement +15 %).
 
 ### Ce qui compte vraiment [HYPOTHÈSE déduite des FACT]
 
@@ -373,17 +349,10 @@ Détail : `kb/research/batch5_items.md` §2.5-2.6.
 
 ### Objets limités 1v4 qui changent une décision [FACT] (SS)
 
-| Objet | Contexte | Point de décision |
-|---|---|---|
-| Flash Grenade | Perk Flashbang | Fabriquée dans un casier après 50/45/40 % de réparation **personnelle** ; la perk se **réactive** à chaque nouveau seuil (plusieurs grenades par partie). Bruit fort ; aveugle aussi les survivants proches |
-| Lament Configuration | Cenobite | La ramasser remet la Chain Hunt à zéro ; la résoudre révèle votre position et permet au tueur de se téléporter vers vous ; **Oblivious** tant que vous la portez |
-| Vaccine / First Aid Spray | Nemesis / Mastermind | Cure l'infection (1 / 2 usages) |
-| EMP | Singularity | Imprimé dans les Supply Cases ; Hindered −10 % en le tenant ; zone 10 m ; retire le Slipstream, désactive les Biopods 45 s |
-| VHS Tape | Onryō | Insérée dans la bonne TV : −3 Condemned |
-| Remote Flame Turret | Xenomorph | La porter : Hindered −35 %, **Exhausted**, Incapacitated, aura révélée aux alliés |
-| Glowing Fungus | Krasue | 3 s pour la manger, marche forcée ; vide le Leeched Meter |
-| Eye / Hand of Vecna | Lich | Effets forts, mais permettent au Lich de vous tuer à 2 crochets et au sol |
-| Keycard | Nostromo Wreckage | Ouvre une salle secrète avec un coffre |
+- **Flash Grenade** (perk Flashbang) : fabriquée dans un casier après 50/45/40 % de réparation **personnelle**, la perk se réactive à chaque seuil (plusieurs grenades par partie) ; bruit fort, aveugle aussi les survivants proches (T6).
+- **Lament Configuration** (Cenobite) : la ramasser remet la Chain Hunt à zéro ; **Oblivious** tant que vous la portez.
+- **Vaccine / First Aid Spray** (Nemesis / Mastermind), **EMP** (Singularity : Hindered −10 % en le tenant), **VHS Tape** (Onryō : −3 Condemned), **Glowing Fungus** (Krasue), **Remote Flame Turret** (Xenomorph : la porter = Hindered −35 % et **Exhausted**), **Eye / Hand of Vecna** (Lich : effets forts, mais le Lich peut alors vous tuer à 2 crochets et au sol).
+- Détail par tueur : chapitres tueurs et `kb/research/batch5_items.md` §2.8.
 
 Les objets d'événements ou de modes spéciaux (Candelabra, Lantern, Void Crystal, Antidote 2v8…) sont hors 1v4 standard. Usage par tueur : chapitres tueurs.
 
@@ -421,8 +390,6 @@ Les objets d'événements ou de modes spéciaux (Candelabra, Lantern, Void Cryst
 | Sacrificial Ward | Rejette les offrandes de carte des autres | **Non** | Anti-offrande de carte du tueur, avec les limites ci-dessus |
 | Annotated / Vigo's Blueprint | Trappe plus probable près du Killer Shack / du bâtiment principal | Oui | Niche (builds trappe) |
 | Shiny / Tarnished Coin (+2 / +1 coffre) ; Cut / Scratched (−2 / −1) | Nombre de coffres | Oui | Builds coffres (11.10) |
-| Clear Reagent | Brouillard −50 % | Oui | Confort |
-| Escape! Cake, Survivor Pudding, Bloody Party Streamers, envelopes, fleurs | BP | Non | Aucun effet en partie. Cumul de plusieurs Streamers : [INCERTAIN] |
 
 > **À retenir** : trois offrandes changent vraiment une partie de survivant : **Vigo's Shroud** (SoloQ), **Luck** (auto-décrochage débloqué) et **White Ward** (protéger un bon objet). Les offrandes de royaume ne « choisissent » plus la carte.
 
@@ -484,7 +451,7 @@ Le wiki publie des probabilités issues d'une **étude communautaire (Reddit) de
 | **Residual Manifest** / **Scavenger** | Une fouille par partie d'un coffre ouvert : lampe de base / toolbox de base garantie | SS |
 | Contre (tueur) | **Hoarder** : bruit fort 4 s à l'ouverture d'un coffre ou au ramassage d'un objet dans 32/48/64 m, +2 coffres. **Human Greed** (Dracula) : refermer les coffres, auras près des coffres fermés | SS |
 
-*PTB 10.2.0 — non LIVE : Better Than New toucherait aussi les coffres (+40/45/50 %).* Que Ace in the Hole s'applique à la trousse de Pharmacy, à la lampe de Residual Manifest et aux objets d'Appraisal : [INCERTAIN] (non recoupé sur page complète).
+Que Ace in the Hole s'applique à la trousse de Pharmacy, à la lampe de Residual Manifest et aux objets d'Appraisal : [INCERTAIN] (non recoupé sur page complète).
 
 ### Clé + coffre : le vrai levier économique
 
@@ -495,7 +462,7 @@ Le wiki publie des probabilités issues d'une **étude communautaire (Reddit) de
 ### Quand ouvrir un coffre [HEURISTIQUE sur HYPOTHÈSE]
 
 - Coût : 8 s + trajet (souvent 10-20 s) ≈ **18-28 s-s**, soit 20 à 30 % d'un gen.
-- Rendement : 43 % de Common (données 2019). Une Worn-Out Tools rapporte ~5 s ; un Camping Aid Kit surtout de l'autonomie.
+- Rendement : 43 % de Common (données 2019) ; une Worn-Out Tools rapporte ~5 s.
 
 ```
 Coffre en vue ?
@@ -513,8 +480,6 @@ Détail : `kb/research/batch5_items.md` §4.1-4.2 ; Ace in the Hole : `kb/resear
 ## 11.11 Rentabilité d'un objet, en secondes-survivant [Avancé]
 
 > **[HYPOTHÈSE]** : tout ce qui suit est un **modèle** pour comparer des options. Les chiffres sont des CALC sur des FACT (SS) : réparation **solo**, bonus supposés **additifs**, Great ignorés sauf mention, aucune pénalité du tueur. Ils servent à classer, pas à produire un seuil absolu.
-
-Principe : un objet « rapporte » les s-s qu'il fait gagner, **moins** ce qu'il coûte (trajet, action, risque).
 
 ### Toolbox : gain = C × b / (1 + b)
 
@@ -534,7 +499,7 @@ C charges versées en C / (1 + b) s au lieu de C s (C = charges, b = bonus de vi
 | Commodious + Socket Swivels + Brand New Part (réussie) | 32 | 0,80 | 14,2 + 10 = **24,2 s** |
 
 Lecture :
-- Une Commodious pleine vaut **≈ 12 % d'un gen**. Le meilleur loadout de réparation vaut **≈ un quart de gen**. C'est réel mais modeste : un seul raté de test (−10 %, 9 charges) en efface près de la moitié.
+- Une Commodious pleine vaut **≈ 12 % d'un gen**. Le meilleur loadout de réparation vaut **≈ un quart de gen**. C'est réel mais modeste : un seul test raté (−10 %, soit 9 charges) en efface presque tout.
 - **Great avec toolbox** ([HYPOTHÈSE]) : 40 %/s pendant ~21 s (Commodious) ≈ 8,5 tests ; tous en Great = +8,5 % ≈ **+7,7 charges**, contre ~2,3 sur la même progression sans toolbox → **≈ +5 s** de plus. Ce gain suppose **100 %** de Great et baisse vite avec le taux réel ; il y a aussi ≈ 3,3 fois plus de tests à progression égale, donc plus de ratés possibles.
 - **Alex's** : quasi nulle en réparation ; sa valeur est dans les **sabotages** (3 par toolbox, CALC 18 / 6).
 
@@ -623,7 +588,7 @@ Ramassage ──── portage (3,68 m/s) ────► crochet
   - variante palette : rester collé au tueur aveuglé (il entend, un Quick Attack peut vous toucher) ; payer le trajet pour une palette qu'il décide de ne pas casser ; offrir une cible **saine et proche** pour un changement de cible.
 - **EXERCICE** (partie personnalisée, un ami tueur) : 10 ramassages par séance en variant l'orientation (mur à gauche, à droite, en coin) ; notez quand vous allumez (début / milieu / fin d'animation) et le taux de réussite. Objectif indicatif : > 6/10 sur ramassage « libre », puis contre un tueur qui regarde un mur. Variante : 10 casses de palette, comptez les aveuglements. Un taux mesuré contre un ami coopératif **surestime** le taux en partie publique.
 
-> **Erreur fréquente** : le flash save en SoloQ comme plan par défaut. Sans annonce vocale, un coéquipier peut venir doubler le save ou le tueur vous voir arriver ; le coût (20-40 s-s) dépasse souvent le gain espéré.
+> **Erreur fréquente** : le flash save comme plan par défaut en SoloQ. Sans annonce vocale, un coéquipier double le save ou le tueur vous voit arriver ; le coût (20-40 s-s) dépasse souvent le gain espéré [HEURISTIQUE].
 
 ---
 
@@ -799,15 +764,9 @@ Tableau entièrement [HEURISTIQUE] (raisonnement sur les FACT ci-dessus ; aucune
 
 ## 11.14 Points non tranchés
 
-- Alex's Toolbox : **18 ou 24** charges ; fouille d'un coffre : **8 ou 10** charges.
-- Probabilités de coffre actuelles (données de 2019, sans Fog Vial).
-- Toolbox en coop : bonus appliqué avant ou après la pénalité 85/70/55 % ?
-- Instructions contre les Madness Skill Checks du Doctor ; bruit d'un Brand New Part raté.
-- Durées de canalisation Key / Map et d'ouverture de coffre à la clé ; durée de l'animation de ramassage ; aveuglement pendant l'accrochage au LIVE.
-- « Affected Survivor » de l'Anti-Exhaustion Syringe (soigné seul ou aussi soigneur ?).
-- Liste des bonus d'objet soumis aux Diminishing Returns ; cumul additif ou multiplicatif des add-ons.
-- Interactions lampe × pouvoirs des tueurs sortis depuis 6.7.0 ; statut Light-Resistant hors événement.
-- À la sortie de la 10.2.0 : relire Pharmacy, Plunderer's Instinct, Down to the Last, Slippery Meat, Iron Grasp, Agitation, Dark Arrogance, Better Than New.
+- **Valeurs** : Alex's Toolbox 18 ou 24 charges ; fouille de coffre 8 ou 10 charges ; probabilités de coffre actuelles ; canalisation Key / Map ; animation de ramassage ; aveuglement pendant l'accrochage.
+- **Interactions** : toolbox en coop (avant ou après la pénalité) ; Instructions contre la Madness du Doctor ; bruit d'un Brand New Part raté ; cible exacte de la seringue ; bonus d'objet soumis aux DR ; lampe contre les pouvoirs des tueurs récents.
+- **À la sortie de la 10.2.0** : relire Pharmacy, Plunderer's Instinct, Down to the Last, Slippery Meat, Iron Grasp, Agitation, Dark Arrogance.
 
 ---
 

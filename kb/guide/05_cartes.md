@@ -513,3 +513,331 @@ Contre les auras (perks, pouvoirs), le maïs n'aide pas. « Pas de 4-lane à Col
 Détail : `kb/research/batch8_maps.md` §3.1-3.3.
 
 ---
+### 5.4.4 Crotus Prenn Asylum (béton, bois brûlé)
+
+**Commun** : murs de gyms hauts (béton) ; passes 9.2.0, 9.3.0 et 9.3.2 (VP). 9.3.0 vise explicitement le main de l'Asylum : il « pouvait spawn près des maze tiles et s'y chaîner » → **main moins safe** (VP). Le risque de chaîne « main + gyms » a donc été réduit par BHVR.
+
+#### Disturbed Ward (I) — 152 sqT
+- **Fixe** : « Shock Therapy Centre » **2 étages, 2 escaliers intérieurs** ; RDC : 3 fenêtres (**une toujours bloquée**), 3 entrées ; **gen au RDC et gen à l'étage** (2 gens fixes) ; **coffre à l'étage** ; plusieurs palettes et casiers.
+- **RNG** : sous-sol possible ; **contenu du main soumis à une spawn logic revue en 9.3.0** (équilibre fenêtre / palette) (VM).
+- **Historique** : 172 → 152 attribué à 9.2.0 par le wiki seul **[INCERTAIN]**.
+- **Verticalité / intérieur** : forte (2 étages, 2 escaliers).
+- **Zones fortes / faibles** : main riche mais moins safe depuis 9.3.0.
+- **Archétypes [HYPOTHÈSE]** : 2 gens fixes dans un bâtiment à étages = **deux tiers** d'un 3-gen ; il n'existe que si un 3e gen RNG est proche **et** si ces trois-là restent.
+- **Plan** :
+  - *Début* : les 2 gens du main se font en parallèle **si le tueur est loin** ; risque : deux survivants au même endroit, une seule patrouille les trouve.
+  - *Milieu* : vérifier s'il existe un 3e gen proche du main. Sinon, pas de 3-gen à craindre ici.
+  - *Fin* : si les 3 derniers gens sont autour du main, en finir un tôt ou réparer ailleurs pendant que le tueur le garde (R4).
+
+#### Father Campbell's Chapel (I) — 140 sqT
+- **Fixe** : chapelle, seuls **RDC + 1er étage** accessibles (escalier supérieur bloqué par des gravats) ; **gen à l'étage** ; 3 casiers en bas, 1 en haut ; plusieurs fenêtres. **Clown's Caravan** (zone carnaval) : **plusieurs palettes**, **1 fenêtre** sur la caravane principale.
+- **RNG** : coffre, sous-sol (chapelle) ; totem, coffre, gen (caravane).
+- **Verticalité / intérieur** : chapelle à un étage.
+- **Zones fortes / faibles** : deux zones de ressources (chapelle, caravane) ; « god window » de la chapelle [AVIS D'EXPERT, non mesuré].
+- **Archétypes** : rien de propre à la carte → cadre §5.3.
+- **Plan** : ne pas brûler la caravane et la chapelle dans la même chase ; garder l'une comme banque (R3).
+- Correctifs : collision escaladable près du carnaval (9.3.0), tile (9.6.0) (VP).
+
+---
+
+### 5.4.5 Backwater Swamp (boue, bois)
+
+**Commun** [FACT] : **Pier (ponton) sur toutes les cartes** — étage avec gen, 2 casiers, plusieurs drops ; RDC avec plusieurs vaults et une palette (2 emplacements possibles). 9.3.0 : **spawn logic des piers revue** pour équilibrer fenêtres et palettes (VP). Passes 9.2.0 et 9.3.2 (VP). Murs de gyms hauts. 2.5.0 : roseaux abaissés (visibilité).
+
+#### The Pale Rose — 161 sqT
+- **Fixe** : bateau à aubes **2 niveaux, 3 escaliers extérieurs** ; pont inférieur **4 entrées** ; pont supérieur **2 fenêtres**, **gen fixe (déclenche la corne de brume)**, **coffre fixe** ; plusieurs palettes. **Shrimp Boat toujours présent** (2 entrées latérales, rampes ou fenêtre). **Crow bomb** : des corbeaux croassent en groupe près du Pale Rose et révèlent une position.
+- **RNG** : sous-sol (bateau) ; coffre, totem, gen (Shrimp Boat).
+- **Historique** : 215 → 161 (2.3.0) ; 2.5.0 : crochets plus probables au centre. Désactivée avant 10.0.1, puis ré-activée (VP).
+- **Verticalité / intérieur** : oui (bateau à 2 niveaux).
+- **Zones fortes / faibles** : le bateau (2 fenêtres, palettes, escaliers) ; le Shrimp Boat est une transition vers lui.
+- **Archétypes [HYPOTHÈSE]** : parmi les plus grandes → mobilité avantagée.
+- **Plan** : *début* = attention au crow bomb en infiltration ; *milieu* = après le gen du bateau, **le quitter** plutôt que d'y rester : ce que la corne ajoute à la notification d'un gen terminé, et sa portée, sont **[INCERTAIN]**.
+
+#### Grim Pantry — 168 sqT
+- **Fixe** : **Pantry**, grand bâtiment ouvert sur 2 niveaux (plusieurs escaliers), **gen à l'étage** — le réparer **ouvre une vanne extérieure** (accès plus facile au bas) — 2 palettes, 6 casiers. **Cursed Cabin** sur 2 niveaux : **gen à l'étage** (ouvre sa vanne), 2 palettes, 1 fenêtre, 1 porte, **1 crochet**, 2 casiers. Un coffre dans chacun.
+- **RNG** : reste des tiles.
+- **Verticalité / intérieur** : 2 bâtiments à 2 niveaux.
+- **Zones fortes / faibles** : **2 bâtiments à 2 palettes** ; la Cursed Cabin a un crochet fixe (une chase qui s'y termine se termine près d'un crochet).
+- **Archétypes [HYPOTHÈSE]** : grande (168) → mobilité avantagée.
+- **Plan** : les 2 gens fixes **changent l'accès** aux bâtiments une fois faits (vannes) : savoir s'ils sont faits avant d'y mener une chase de fin. Désactivée avant 10.0.1, ré-activée (VP).
+
+---
+
+### 5.4.6 Léry's Memorial Institute — Treatment Theatre (98 sqT, la plus petite mesurée)
+
+- **Fixe** : carte **intérieure**, **pas de shack, pas de maze tiles, pas de collines**. **Treatment Room** : 2 niveaux, 2 escaliers ; en bas : **gen** et **un crochet** ; en haut : galerie avec fenêtres et drops, **coffre à l'étage** ; réparer le gen **ouvre des volets de la galerie → nouveaux vaults**. **Library** : 3 entrées, 1 fenêtre, bureau central, **palette dans un couloir étroit** devant une porte.
+- **RNG** : 2.7.0 : **fenêtres à configuration fixe par salle, mais les ENTRÉES des salles sont aléatoires** ; sous-sol (Treatment Room **ou** Library) ; répartition des gens ; gen, totem possibles à la Library.
+- **Probable, pas garanti** : panneaux lumineux clignotants près des salles avec gen (2.5.0 : « increased the chances »).
+- **Verticalité / intérieur** : intérieur intégral ; étage à la Treatment Room seulement.
+- **Zones fortes / faibles** : Treatment Room (vaults supplémentaires **après** son gen) ; couloirs étroits.
+- **Archétypes [HYPOTHÈSE]** : très petite + couloirs → zone / pièges et M1 moins pénalisés ; la mobilité perd son avantage de distance (≈ 4 s de moins par traversée que la médiane).
+- **Plan** :
+  - *Début* : utiliser les panneaux **quand ils sont là** ; un couloir sans panneau ne prouve pas l'absence de gen.
+  - *Milieu* : une chase dans la Treatment Room se termine près d'un crochet fixe ; ses meilleurs vaults n'existent qu'après son gen.
+  - *Fin* : très petite carte → gates vite couvertes.
+
+> **Erreur fréquente** : « fenêtres et entrées fixes à Treatment Theatre ». Depuis 2.7.0, seules les **fenêtres** sont fixes par salle ; les **entrées** changent. Vérifier les portes à chaque partie.
+
+---
+
+### 5.4.7 Red Forest (rondins)
+
+**Commun** : murs de gyms hauts ; passes 9.2.0, 9.3.0 (spawn logic impactée) et 9.3.2 (VP) ; refonte visuelle 6.6.0. « Locker gym exclusif » : **[INCERTAIN]** depuis 9.2.0.
+
+#### Mother's Dwelling (I) — 152 sqT
+- **Fixe** : **Hunting Cabin** 2 niveaux, escaliers **intérieur et extérieur** vers le balcon ; RDC : 3 entrées, 4 fenêtres (**une toujours bloquée**), 2 casiers ; étage : 4 entrées, 1 fenêtre + 1 vault sur la terrasse, rebords à sauter ; **gen sur le balcon**. **Smoke House** : 2 niveaux, 3 entrées RDC, étage avec 1 fenêtre et 1 ouverture.
+- **RNG** : sous-sol (cabin) ; coffre (cabin ou smoke house).
+- **Historique** : 188 → 152 (7.4.0), longtemps la plus grande carte.
+- **Verticalité / intérieur** : forte (2 bâtiments à étages proches du centre).
+- **Archétypes [HYPOTHÈSE]** : rebords et étages → M1 pénalisés.
+- **Plan** : aucune ligne propre dans les sources ; appliquer R2-R3 (deux structures verticales = deux banques de chase à répartir dans la partie).
+
+#### The Temple of Purgation — 136 sqT
+- **Fixe** : **Temple** de pierre au centre, **3 niveaux accessibles**, plusieurs entrées ; **1 gen aux catacombes qui active structures et portes du temple une fois réparé** ; casiers et vaults ; pluie et brume.
+- **Historique** : 172 → 156 (3.7.0) → 136 (7.4.0).
+- **Archétypes [HYPOTHÈSE]** : petite + temple central → M1 moins pénalisés ; forte verticalité pour les survivants.
+- **Plan** : le gen du temple **modifie le bâtiment** → savoir s'il est fait avant d'y entrer en chase.
+
+---
+
+### 5.4.8 Springwood — Badham Preschool (I) — 144 sqT
+
+Seule Badham I en matchmaking public (II-V en Custom Game).
+- **Fixe** : **Preschool** 2 niveaux (RDC + chaufferie à lumière rouge), **3 niveaux s'il contient le sous-sol** ; RDC : **4 entrées**, les **latérales fermées par des murs cassables** par défaut ; **gen fixe** ; plusieurs palettes et casiers. **Pas de maze tiles** ; shack présent. **Crochet garanti dans la chaufferie si le sous-sol est au shack** (2.5.0). Palette du couloir d'entrée côté parking retirée.
+- **RNG** : sous-sol (Preschool ou shack) ; coffre ; disposition des maisons **[INCERTAIN]**.
+- **Verticalité / intérieur** : maisons et rue ; chaufferie en sous-niveau.
+- **Zones fortes / faibles** : « très favorable aux survivants (maisons + rue, beaucoup de palettes) » [AVIS D'EXPERT, pas de chiffre].
+- **Archétypes [HYPOTHÈSE]** : nombreux bâtiments → M1 désavantagés ; anti-loop et Ranged en ligne de rue avantagés.
+- **Plan** :
+  - *Tueur* : casser les murs latéraux de la Preschool **ouvre** des entrées : raccourci pour lui, mais aussi sorties pour le survivant. Effet net **non mesuré** ; 2,34 s par mur.
+  - *Survivants* : vérifier au pre-run quels murs sont déjà ouverts ; ne pas jeter les palettes de clôture sans nécessité (elles sont finies).
+- Désactivée avant 10.0.1, ré-activée (VP).
+
+---
+
+### 5.4.9 Gideon Meat Plant — The Game (142 sqT = 76 haut + 66 bas)
+
+- **Fixe** : **seule carte 100 % intérieure avec maze tiles** ; **2 étages sur toute la surface** ; **pas de shack**. **Bathroom** : salle longue et étroite dans un coin du **RDC**, **gen**, casiers, **coffre**. **Escalier du sous-sol toujours derrière la Bathroom**. **Tous les gens sont reliés à des portes coulissantes**. **Pig Vat** : ouverture en bas pour vaulter entre les étages. Murs de gyms jusqu'au plafond.
+- **RNG** : itération des gyms intérieurs, autres gens.
+- **[HYPOTHÈSE]** : « une porte fermée = un gen non terminé à proximité ». Le wiki ne dit **ni quand** la porte s'ouvre **ni quand** elle se ferme → à vérifier en Custom Game.
+- **Verticalité / intérieur** : totale → sons et Terror Radius trompeurs entre étages.
+- **Archétypes [HYPOTHÈSE]** : couloirs et étages → zone / pièges aidés ; tueurs qui dépendent de l'ouïe gênés (les deux camps).
+- **Plan** :
+  - *Début* : ne pas utiliser les portes comme « radar à gens » tant que l'hypothèse n'est pas vérifiée.
+  - *Milieu* : **quand on a le choix du trajet**, éloigner la chase du coin de la Bathroom. Si l'on tombe près d'elle, les alliés savent **où** sera le crochet de sous-sol : information pour préparer le sauvetage.
+  - *Contre-cas* : une bonne chase près de la Bathroom vaut mieux qu'une chase courte ailleurs.
+- Callouts du seed (« Control Room 12 h », « pallet stairs », « hole room ») : absents du wiki **[INCERTAIN]**.
+
+---
+
+### 5.4.10 Yamaoka Estate (bois moussu, bambou)
+
+**Commun** [FACT] (SS) : **Arbor sur toutes les cartes** (3 escaliers, un vault, **palette sur un rocher parallèle** face à un pont rouge) ; Shrine et Patio (murets bas, 1 fenêtre + 1 palette) comme structures du royaume ; collines à deux accès. Murs de gyms hauts. Passes 9.2.0, 9.3.0, 9.3.2 (VP).
+
+#### Family Residence (I) — 156 sqT
+- **Fixe** : résidence 2 niveaux dont **seul le RDC est accessible**, plusieurs vaults ; **2 fenêtres** ; **gen fixe** ; 2 casiers. Colline propre à la carte (gen possible au sommet).
+- **RNG** : sous-sol.
+- **Archétypes [HYPOTHÈSE]** : main plat à plusieurs vaults → ressource moyenne ; murs hauts → furtifs aidés.
+- **Plan** : aucune ligne propre dans les sources → cadre §5.3 ; l'Arbor (vault + palette du rocher) est une ressource de royaume garantie.
+
+#### Sanctum of Wrath (I) — 156 sqT
+- **Fixe** : **Shrine** moyen 2 niveaux, **4 escaliers** vers le sommet, fenêtres sur les rambardes, drops, **palette à côté de la statue**, **gen fixe**. Sous-sol possible au Shrine (confirmé par un correctif 10.0.0).
+- **RNG** : sous-sol.
+- **Archétypes [HYPOTHÈSE]** : shrine très vertical → M1 gênés ; tueurs qui montent vite ou coupent par le bas mieux lotis.
+- **Plan** : aucune ligne propre → cadre §5.3. « Shack à 2 emplacements possibles » : **[INCERTAIN]**, absent du wiki.
+
+---
+
+### 5.4.11 Ormond (neige, lumineux)
+
+**Commun** : murs de gyms hauts (pierre enneigée) ; passes 9.2.0 et 9.3.2 (« Ormond ») ; **9.3.0 nomme Mount Ormond Resort seulement** (VP).
+
+#### Mount Ormond Resort (I) — 156 sqT
+- **Fixe** : **Chalet** 3 niveaux (escalier, sauts de balcons), **gen fixe**, 2 casiers, plusieurs fenêtres ; **Snowcat** (chenillette + **palette** fixe près d'un tas de rochers) ; **Chairlift** (cabane surélevée, escalier arrière, **3 drops** : fenêtre, mur cassable, ouverture).
+- **RNG** : sous-sol (chalet) ; coffre (Snowcat, Chairlift) ; totem (Chairlift).
+- **Historique** : 7.5.0 abords du chalet refaits ; 9.3.0 palettes moins safe + spawn logic fenêtre / palette (VP).
+- **Verticalité / intérieur** : forte (Chalet, Chairlift).
+- **Archétypes [HYPOTHÈSE]** : l'une des cartes les plus lumineuses → furtifs désavantagés ; lecture à distance pour les deux camps.
+- **Plan** : Chalet + Chairlift = **deux zones de chase verticales** à répartir dans la partie (R3) ; palette du Snowcat = ressource garantie.
+
+#### Ormond Lake Mine — 132 sqT
+- **Fixe** : **Mine Building** 2 niveaux, **4 accès à l'étage** (2 extérieurs, 2 intérieurs), **gen garanti à l'étage** ; palettes : **3 emplacements à l'étage, 2 au RDC** (le wiki ne dit pas si toutes apparaissent) ; 3 fenêtres (2 à l'étage près du gen, 1 au RDC à côté d'un mur cassable) ; **tunnel de glace** vers la Mine Tower. **Mine Tower** : **gen garanti + palette garantie**, fenêtre à l'étage, drops, drop vers le tunnel. **Ascenseur scripté** en bord de carte qui s'écrase quand un joueur approche (bruit fort).
+- **RNG** : reste des tiles ; sous-sol non documenté.
+- **Verticalité / intérieur** : forte (étage, tunnel souterrain).
+- **Archétypes [HYPOTHÈSE]** : **2 gens fixes proches** (Building + Tower) = deux tiers d'un 3-gen ; petite carte → M1 un peu moins pénalisés.
+- **Plan** :
+  - *Milieu* : dès qu'un 3e gen proche du complexe est repéré, éviter que ces trois-là soient les derniers (en finir au moins un avant la mi-partie).
+  - *Contre-cas* : si le tueur patrouille le complexe, réparer ailleurs pour l'y fixer vaut aussi.
+  - L'ascenseur trahit un passage (portée **[INCERTAIN]**).
+
+---
+
+### 5.4.12 Hawkins National Laboratory — The Underground Complex (138 sqT, estimation)
+
+- **Fixe** : intérieur **2 niveaux** avec passerelles ; **pas de shack, pas de maze tiles** ; **Exit DOORS** coulissantes au lieu d'Exit Gates. **Rift Lab** : 2 niveaux, labo fermé + le Rift en bas (accès par un vault ou une porte), **fenêtre** à côté d'un bureau, **palette** entre un bureau et le mur du fond ; étage avec drops ; casiers. **Interrogation Rooms** à l'étage (vaults, palettes possibles) ; **Isolation Room** voisine : **gen fixe**. Une moitié de carte en visuel « Upside Down » (plus sombre).
+- **RNG** : **sous-sol : 2 emplacements, dont un au Rift Lab** (l'autre non décrit) ; gen de l'étage du Rift Lab ; crochet, coffre, totem.
+- **9.3.0** (VM) : navigation améliorée, **au moins une porte ouverte en permanence sur chaque côté des grandes salles**, nouvel accès au gen au-dessus de la control room.
+- **Archétypes [HYPOTHÈSE]** : couloirs et portes → zone / pièges et tueurs qui coupent les chemins aidés ; ouïe brouillée par les 2 niveaux ; beaucoup de casiers → **Dredge** avantagé.
+- **Plan** :
+  - *Début* : repérer **lequel** des deux emplacements de sous-sol est actif avant d'en tirer une règle de chase.
+  - *Milieu* : côté Upside Down = meilleur pour se cacher, pire pour lire le tueur.
+  - *Fin* : Exit Doors à positions documentées (R5).
+
+---
+
+### 5.4.13 Grave of Glenvale — Dead Dawg Saloon (I) — 136 sqT
+
+- **Fixe** : **Saloon** 2 étages, beaucoup de fenêtres aux 2 niveaux, **gen sur le porche de l'étage**. **Gallows** (près du Saloon, du shack et de l'entrée de la ville) : **gen à côté du pendu** — le terminer ouvre **2 trappes** qui font tomber les survivants — et **2 casiers sous le plancher**. **Water Tower + Windmill + cabane** : **gen** (côté chemin **ou** près de la cabane), **palette entre les bases**, **fenêtre dans la cabane**, 2 casiers. **Shack western avec mur cassable**. **Pas de collines**. Carte au crépuscule. Gyms L-T et 4-lane **toujours avec un mur cassable**.
+- **RNG** : sous-sol (Saloon) ; coffres, totems, crochet.
+- **Totem « garanti » derrière le water tower** : le wiki l'écrit encore, mais la note **9.3.0** l'a corrigé comme bug (VP) → **possible, pas garanti**.
+- **Archétypes [HYPOTHÈSE]** : 3 gens fixes ; Saloon + Gallows proches = deux tiers d'un 3-gen (proximité du 3e, au Water Tower, non documentée). Ville à murs cassables → tueurs qui cassent vite (Brutal Strength) ou qui ignorent les murs (Nurse, Artist, Executioner) aidés.
+- **Plan** :
+  - *Tueur* : casser les murs des gyms **en patrouille** plutôt qu'en chase (coût cumulé élevé).
+  - *Survivants, milieu* : Saloon + Gallows ne deviennent un 3-gen que si un 3e gen proche reste avec eux : le vérifier.
+  - *Gallows* : ne pas finir ce gen en se tenant sur le plancher pendant une chase proche (effet exact en chase **[INCERTAIN]**).
+
+---
+
+### 5.4.14 Silent Hill — Midwich Elementary School (113,5 sqT = 64 bas + 49,5 haut)
+
+- **Fixe** : intérieur **2 niveaux** (+ extérieurs) ; **pas de shack** ; **Courtyard** central : **gen**, nombreux casiers, **nombreuses palettes**, **2 fenêtres**, plusieurs murs cassables, nombreuses entrées. **Clock Tower Secret Room** : réparer le gen du **Chemistry Lab**, puis celui de la **Music Room**, puis déclencher l'EGC → la porte s'ouvre ; coffre garanti dedans (peut être vide selon l'ordre).
+- **RNG** : totem, coffre (Courtyard) ; gens des salles (présence garantie du gen de chaque salle **[INCERTAIN]**).
+- **8.2.0** : **LOS des couloirs réduite**, nouveaux tiles intérieurs et extérieurs.
+- **Archétypes [HYPOTHÈSE]** : emprise au sol 64 sqT + intérieur → M1 et zone aidés ; Ranged moins aidés depuis 8.2.0 ; coins favorables aux furtifs (Ghost Face, Onryō) ; casiers nombreux → Dredge.
+- **Plan** : Courtyard = cœur des ressources. L'utiliser quand il **rapporte** une longue chase, pas le garder par principe : une ressource gardée pendant qu'un allié tombe faute de palettes n'a rien rapporté (R3).
+
+---
+
+### 5.4.15 Raccoon City — RPD East Wing / RPD West Wing (non mesurées)
+
+Deux cartes distinctes, **toutes deux en rotation** ; le RPD original est réservé au 2v8.
+- **Fixe (les deux)** : **Main Hall** (statue) : **gen soit en bas près du comptoir, soit à mi-hauteur au pied de la statue** (RNG entre deux positions) ; **pas de shack, pas de maze tiles** ; **trou dans le sol de la Library vers la Dark Room** ; porte cour → Fire Escape élargie en 7.2.0, **un crochet toujours juste derrière** ; passerelle de la Library bloquée.
+- **East Wing** : moitié ouest bloquée (Operations, Records, S.T.A.R.S., Armurerie…) ; Break Room ouverte ; **toit accessible** par le Fire Escape.
+- **West Wing** : moitié est haute bloquée ; **S.T.A.R.S. Office ouvert sur l'Armurerie** ; zone extérieure agrandie derrière Safety Deposit / Dark Room ; accès au toit bloqué.
+- **[INCERTAIN]** : sur le RPD original, le wiki décrit 3 emplacements de gates et 2 de sous-sol ; leur répartition par aile n'est pas documentée.
+- **Archétypes [HYPOTHÈSE]** : intérieur à étages + portes → zone / pièges ; **Nemesis** (zombies plus gênants en couloirs) ; **Dredge** (casiers) ; navigation complexe = avantage au camp qui connaît la carte.
+- **Plan** : *début* = repérer la position du gen du Main Hall et l'emplacement du sous-sol dès la première rotation ; *SoloQ* = supposer que les alliés connaissent mal la carte.
+
+---
+
+### 5.4.16 Forsaken Boneyard (grès, racines)
+
+Pas dans les passes palettes 9.x. Murs de gyms hauts. Offrande Crow's Eye = royaume.
+
+#### Eyrie of Crows — 148 sqT
+- **Fixe** : **The Eyrie**, grande tour dans la **moitié haute** de la carte ; entrées au sol, passerelles à l'étage, **balcon accessible tout autour** ; **gen fixe** ; plusieurs fenêtres, **plusieurs murs cassables**, casiers.
+- **RNG** : totem (4 emplacements), coffre, crochet, sous-sol.
+- **6.5.0** : 156 → 148, forme ~carrée, **maze tiles éloignés du main et du shack** (anti-combos), feuillage ajouté (aide aux pièges, intention déclarée).
+- **Archétypes [HYPOTHÈSE]** : main vertical à murs cassables ; tueurs à pièges aidés par le feuillage.
+- **Plan** : la tour est dans une moitié → orientation facile ; les gens du côté opposé sont plus isolés (bons pour une réparation tranquille, mauvais pour se replier vers une ressource).
+
+#### Dead Sands — 140 sqT (fiche peu documentée)
+- **Fixe** : **centrée sur le Killer Shack**, **pas d'Eyrie** ; statues sentinelles (décor).
+- **RNG** : tout le reste (non documenté).
+- **Sous-sol** : probablement au shack faute de main, **[INCERTAIN]** (absente de la liste de la page Killer Shack).
+- **Plan** : sans main, tout dépend des tiles RNG ; lire le pre-run avec soin.
+
+---
+
+### 5.4.17 Withered Isle (planches blanches, végétation)
+
+Pas dans les passes palettes 9.x. Murs de gyms hauts (sauf Garden of Joy : 2 designs). « Pas de pallet gym ni de 4-lane » : **[INCERTAIN]** depuis 9.2.0.
+
+#### Garden of Joy — 164 sqT
+- **Fixe** : **Mansion** 2 niveaux, **4 entrées** au RDC ; étage (4 chambres + débarras, accès au toit du porche) avec **gen fixe** ; plusieurs fenêtres. **Parking Lot** (bout de route, opposé au shack) : **palette** et **fenêtre** fixes.
+- **RNG** : **1 à 2 palettes** dans la Mansion ; **coffre non garanti** (« up to two Chests ») ; **Gazebo OU Greenhouse** ; **Treehouse OU Train Car** (paires exclusives) ; Greenhouse : fenêtre **ou** palette ; sous-sol, totem (4 emplacements), crochet sur le toit.
+- **7.4.0** : passe gameplay réduisant la force de certains tiles.
+- **Zones fortes / faibles** : « dining room window » très forte [AVIS D'EXPERT, non mesuré] ; LOS **mixte** selon le design de mur.
+- **Archétypes [HYPOTHÈSE]** : grande (164) → mobilité légèrement avantagée.
+- **Plan** : aucune ligne propre dans les sources → cadre §5.3 ; *début* = identifier quelle structure de chaque paire est présente.
+
+#### Greenville Square — 160 sqT
+- **Fixe** : **Theatre** : **gen dans la cabine de projection** (le projecteur s'allume quand il est fait), 6 casiers, **coffre garanti dans les toilettes**, **2 palettes** (arcade, salle de projection), **3 fenêtres** (escalier extérieur, toilettes, comptoir) ; escaliers intérieur et extérieur, un drop-down et un drop-off à l'étage, **rampe à sens unique** au RDC ; la palette de l'arcade fait sonner les flippers. **Pilgrim Statue** : clôture circulaire à 4 ouvertures.
+- **RNG** : gen et coffre près de la statue ; totem (3 emplacements) ; sous-sol.
+- **Archétypes [HYPOTHÈSE]** : ville à bâtiments → LOS cassée ; théâtre à étages = ressource forte.
+- **Plan** : théâtre = banque de chase (R3) ; la rampe à sens unique est une **sortie**, pas une loop.
+
+#### Freddy Fazbear's Pizza — 148 sqT (fiche peu documentée)
+- **Fixe** : **Pizzeria** : **gen devant la scène** (le réparer lance un show des animatroniques, bruyant) ; arcade, cuisine, salles de service.
+- **RNG** : **ball pit dans l'arcade lorsque le sous-sol est au Killer Shack** (il remplace l'accès au sous-sol de la pizzeria).
+- **Archétypes [HYPOTHÈSE]** : bâtiment intérieur à plusieurs salles → zone / pièges aidés dedans.
+- **Plan** : données insuffisantes au-delà du cadre §5.3.
+
+> **Erreur fréquente** : « le ball pit peut remplacer le Killer Shack ». Faux : il apparaît **quand le sous-sol est au shack**.
+
+#### Fallen Refuge — 128 sqT (fiche peu documentée)
+- **Fixe** (VM) : **Prison Tower**, tile thématique The Walking Dead = **variante d'un Short Wall Jungle Gym** ; **gen fixe dans la tour** ; rôdeurs et portes barricadées qui s'agitent au passage (bruit).
+- **RNG** : reste.
+- **Archétypes [HYPOTHÈSE]** : 3e plus petite carte mesurée, mais seulement ≈ 1,7 s de moins par traversée que la médiane → effet de taille **faible**.
+- **Plan** : la tour est une loop de type jungle gym, **pas** un main à étages : ne pas la surestimer.
+
+---
+
+### 5.4.18 The Decimated Borgo (turquoise depuis 8.0.0)
+
+Passe palettes 9.2.0 seulement (VP). 8.0.0 : palette de couleurs rouge → turquoise (lisibilité du sang et des auras). Hauteur des murs de gyms **[INCERTAIN]**.
+
+#### The Shattered Square — 144 sqT
+- **Fixe** : **Gathering Hall** (taverne) **dans un coin** depuis 7.3.0 : **gen à l'étage**, **coffre garanti à l'étage** (2e possible), 6 casiers, **1 palette au RDC**, **2 fenêtres** (étage), **2 entrées RDC, 2 drops depuis l'étage**. **The Tree** (racines pourpres + puits). **Pas de collines**.
+- **RNG** : **Marketplace OU Gallows** — Marketplace : plateforme, 2 escaliers, jusqu'à 2 palettes, 2 casiers ; Gallows : escalier + rampe, **fenêtre** sur la clôture, 2 casiers.
+- **Historique** : 7.3.0 : 168 → 144, carré 12 × 12, LOS bloquée par l'arrangement des tiles ; 7.3.2 : **plus de palettes max** et loops moins safe.
+- **Plan** : main en coin → **ne pas s'y replier en fin** si les gates sont à l'opposé ; *début* = noter Marketplace ou Gallows.
+
+#### Forgotten Ruins — 132 sqT (92 surface + 40 donjon)
+- **Fixe** : **Rotted Tower** + **donjon souterrain** (Torture Room : gen fixe) ; **Passages** = portes magiques qui téléportent d'un point à l'autre ; 8.0.2 : **au moins 4 crochets toujours au donjon**, Passages placés loin des palettes et fenêtres ; 8.1.0 : plus de palettes en surface.
+- **RNG** : reste.
+- **Zones fortes / faibles** : donjon étroit = zone faible pour le survivant [AVIS D'EXPERT : carte « très favorable au tueur », non mesuré].
+- **Archétypes [HYPOTHÈSE]** : donjon en couloirs → zone / pièges.
+- **Plan** : *début* = faire le gen du donjon **tôt**, quand le tueur est loin, puis en sortir ; *milieu* = les Passages cassent une chase (les deux camps peuvent les utiliser ; portée exacte **[INCERTAIN]**).
+
+---
+
+### 5.4.19 Dvarka Deepwood
+
+Pas dans les passes palettes 9.x. Chaque carte a **sa propre offrande de carte** (pas d'offrande de royaume).
+
+#### Toba Landing — 136 sqT
+- **Fixe** : **The Base** (vaisseau) **3 niveaux** — **niveaux 1 et 2 non reliés par l'intérieur** (sortir pour passer) ; niveau 3 = pont avec **gen fixe** ; fenêtres, palettes (une au niveau 1 + autour du vaisseau). **Alien Flower** et **Space Rover** : **chacun gen + 2 casiers + 1 palette + 1 fenêtre**, **toujours dans des coins opposés**, positions interchangeables. **Pas de collines**.
+- **RNG** : **quel coin** porte quelle structure ; sous-sol possible **sous** le vaisseau ; coffres (2 possibles), totems.
+
+```
+   Toba Landing (schéma de principe)
+   +-----------------------------------+
+   | [Flower OU Rover]                 |
+   |  gen+fenêtre+palette              |
+   |               [BASE, 3 niveaux]   |
+   |                gen au niveau 3    |
+   |                                   |
+   |                 [Rover OU Flower] |
+   |               gen+fenêtre+palette |
+   +-----------------------------------+
+   Diagonale ≈ 132 m ≈ 29 s à 4,6 m/s (calcul, carte supposée carrée)
+```
+
+- **Archétypes [HYPOTHÈSE]** : petite en surface, mais 3 gens fixes très écartés → trajets **longs** entre gens fixes : c'est la **position des gens**, pas la taille, qui avantage ici la mobilité. Aucun 3-gen possible avec ces trois gens fixes.
+- **Plan** :
+  - *Tueur* : ne pas se laisser tirer d'un coin à l'autre.
+  - *Survivants* : les deux structures de coin sont des spots **garantis mais finis** (3 vaults de fenêtre par poursuite, 1 palette), faibles contre un anti-loop ou un Ranged ; prévoir la tile suivante.
+
+#### Nostromo Wreckage — 152 sqT
+- **Fixe** : épave **un seul niveau** (couloirs), beaucoup de fenêtres et drops, **3 rampes** ; **2 gens garantis** (Mess Hall ; fond de l'aile gauche) + 1 possible (aile droite) ; **coffre fixe au Mess Hall** ; **2 pièges « coolant vent »** armés au chargement, réarmables **par les survivants seulement**, qui se déclenchent quand **n'importe quel joueur** passe devant, avec un bref délai, et ralentissent fortement **tout joueur** touché ; salle MU/TH/UR (Keycard sur un cadavre aléatoire → coffre garanti). **Narcissus** (coin) : 4 entrées, 2 casiers, **palette fixe**. **Pas de shack, pas de collines**. **Exit Gates « largely predictable »** : une le long du mur rectiligne gauche, l'autre sur la moitié haute du long mur droit (repère wiki : main en haut) — **pas garanties**.
+- **RNG** : sous-sol (hors épave **ou** Narcissus) ; 3e gen ; totem.
+- **Archétypes [HYPOTHÈSE]** : seule carte documentée avec jusqu'à **3 gens dans un même bâtiment** ; gates largement prévisibles → le tueur peut préparer la fin.
+- **Plan** :
+  - *Milieu* : si le 3e gen est dans l'épave, ne pas laisser les 3 gens de l'épave pour la fin.
+  - *Vents* : réarmer hors chase, puis passer devant **avec de l'avance** pour que le jet touche le tueur qui suit. Risque : délai court et non chiffré ; un survivant trop lent ou qui revient sur ses pas se ralentit lui-même ; un vent déjà déclenché ne protège plus. **Tester en Custom Game avant d'en faire un plan.**
+  - *Fin* : regarder d'abord les deux emplacements « prévisibles », sans s'y engager à l'aveugle.
+
+---
+
+### 5.4.20 Sleepless District — Trickster's Delusion (9.5.0, 17/03/2026 ; non mesurée)
+
+- **Fixe** : **Night Club** **un seul niveau** : **gen fixe** près du balcon au-dessus de la piste, **palette fixe** proche, **1 fenêtre** en backstage, plusieurs entrées. **Market** (zone ouverte, **Killer Shack adjacent**) : **gen fixe**, **2 palettes fixes**. **High Streets** : 5 commerces, **2 fenêtres** (karaoké ; gift store ↔ supérette). **Low Streets** : 10 bâtiments + ruelles, **4 emplacements de fenêtres dont 2 actifs**.
+- **RNG** : gens possibles dans les rues ; fenêtres actives des Low Streets ; sous-sol (Night Club, sinon shack) ; totems ; palettes des rues ; événements sonores (porte de garage, 30 %).
+- **Signaux** : gen du Night Club → brouillard dissipé + musique audible à proximité ; gen du Market → **feu d'artifice fort**.
+- **Archétypes [HYPOTHÈSE]** : bâtiments serrés + ruelles → LOS courte, zone / pièges et furtifs plausibles ; données insuffisantes.
+- **Plan** : 2 gens fixes (Night Club, Market) ; le Market est **collé au shack** (sous-sol possible à proximité) ; *début* = repérer les 2 fenêtres actives des Low Streets.
+
+Détail : `kb/research/batch8_maps.md` §3.4-3.21.
+
+---

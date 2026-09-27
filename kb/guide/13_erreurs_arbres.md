@@ -48,9 +48,8 @@ Deux outils complémentaires : la **base d'erreurs** (51 erreurs de survivant, d
 
 - **Une seconde de poursuite** vaut les charges produites ailleurs pendant cette seconde : avec 3 coéquipiers sur 3 gens différents, **1/30 de gen par seconde** (le « 1/3 » du seed est faux, A-267). 60 s de chase ≈ 2 équivalents-gen au **plafond** (sans trajets, ratés ni régression), répartis sur 3 gens ; ~0 si l'équipe soigne ou se cache.
 - **Une palette cassée** : 2,34 s d'immobilité du tueur, soit ~9,4 m d'avance (4,0 × 2,34). Un tueur 4,6 m/s met ~15,6 s à refermer ces 9,4 m, un tueur 4,4 m/s ~23,4 s (calcul, ligne droite, sans fente ni Bloodlust : plafond théorique).
-- **Un stun** : 2 s de gel (moins avec Enduring), puis souvent 2,34 s de casse ou un détour.
 - **Un soin altruiste** : 16 s pour le soigné + 16 s pour le soigneur = 32 secondes-survivant ≈ **0,36 gen**. Un état de santé rapporterait ~12-30 s de chase [HYPOTHÈSE, lot 9 corrigé]. Le soin est rentable dans le cas idéal (3 alliés qui réparent), proche de l'équilibre avec 2 réparateurs, et perdant avec un trajet, contre un tueur à coup unique ou si le soigné n'est pas le prochain chassé.
-- **Un état de crochet** : l'équipe dispose de 4 × 2 = 8 états « survivables » avant les morts. Chaque état perdu réduit la marge de tous.
+- **Un état de crochet** : l'équipe n'a que 4 × 2 = 8 états « survivables » avant les morts.
 
 > **Note avancée** : cette valeur est **brute** : sans toi, le tueur presserait quelqu'un d'autre. Juge une chase au **temps gagné par ressource consommée**, pas à sa durée.
 
@@ -75,10 +74,10 @@ Quatorze erreurs. Elles portent sur la caméra, le pathing, la palette gaspillé
 
 | ID · tag | Erreur | Pourquoi on la fait | Punition | Correction (avec conditions) | Drill |
 |---|---|---|---|---|---|
-| **E-D01** · CHASE | Ne jamais regarder derrière soi | Réflexe naturel ; la musique de chase donne l'illusion de savoir où est le tueur | Coups « surprises » en sortie de coin ; palettes posées trop tard ou trop tôt ; le tueur coupe par l'intérieur de la tile | Regarder **aux moments utiles** : avant de s'engager sur une tile, sur les segments droits connus, au coin pour choisir le côté. **Pas** dans les 2-3 derniers mètres avant une fenêtre ou une palette (E-D02). Contre un tueur Undetectable, regarder plus souvent. Sans caméra : lire la red stain, émise par la tête du tueur [FACT (SS)], et les pas | DR-01 |
-| **E-D02** · CHASE | Regarder derrière soi au mauvais moment (approche de fenêtre, palette, passage étroit) | On veut « vérifier » au moment le plus stressant ; le personnage dévie avec la caméra | Collision, vault en angle : **medium vault 0,9 s qui remet l'élan à zéro** au lieu d'un fast vault 0,5 s [FACT (SS)]. Perte de ~0,4 s + l'élan (calcul), souvent la différence entre un coup et rien | Aligner caméra et personnage **au moins ~2,5 m avant** la fenêtre (condition du fast vault, [FACT (SS)]), puis ne plus toucher la caméra jusqu'à la fin du vault. Check juste **après** le vault. Exception maîtrisée : check tardif volontaire sur une palette qu'on ne compte pas poser | DR-01, DR-02 |
+| **E-D01** · CHASE | Ne jamais regarder derrière soi | Réflexe naturel ; la musique de chase donne l'illusion de savoir où est le tueur | Coups « surprises » en sortie de coin ; palettes trop tard ou trop tôt ; le tueur coupe par l'intérieur | Regarder **aux moments utiles** : avant de s'engager sur une tile, sur les segments droits, au coin pour choisir le côté ; **pas** dans les 2-3 derniers mètres avant une fenêtre ou une palette (E-D02). Plus souvent contre un tueur Undetectable. Sinon : red stain (émise par la tête du tueur, [FACT (SS)]) et pas | DR-01 |
+| **E-D02** · CHASE | Regarder derrière soi en approche de fenêtre, palette ou passage étroit | On veut « vérifier » au moment le plus stressant ; le personnage dévie avec la caméra | Vault en angle : **medium vault 0,9 s qui remet l'élan à zéro** au lieu d'un fast vault 0,5 s [FACT (SS)], souvent la différence entre un coup et rien | Aligner caméra et personnage **~2,5 m avant** la fenêtre (condition du fast vault, [FACT (SS)]) et ne plus toucher la caméra avant la fin du vault ; checker juste **après** | DR-01, DR-02 |
 | **E-D03** · TILE | Courir vers une dead zone (fuir « loin du tueur » sans savoir ce qu'il y a devant) | Réflexe de fuite ; carte mal connue | En terrain ouvert, le tueur 4,6 m/s reprend 0,6 m/s : 10 m d'avance tiennent ~16 s (avec Bloodlust, sans fente), **~12-13 s avec une fente de 2-2,5 m** (valeur communautaire) ; bien moins contre un tueur à distance ou mobile | Repérer en permanence **les deux prochaines tiles** de repli ; en chase, viser la tile la plus forte *atteignable avant le coup*. Nuance : traverser une dead zone courte **sur un événement** (boost, casse, vault, cooldown 2,7 s) est parfois correct. Tout est mort autour : jouer le temps (LOS, rochers, maïs, 360 contre M1) | DR-13, DR-04 |
-| **E-D04** · TILE | Poser la palette dès que le tueur approche (palette gaspillée) | Peur du coup ; « palette = sécurité » au lieu de « palette = ressource limitée » | Casse (2,34 s) ou contournement ; zone épuisée ; les chases suivantes (souvent toi blessé, ou un coéquipier) se font sans ressource. Le coût est **différé**, donc invisible | Appliquer l'arbre Palette (§13.8). Le pre-drop est correct quand la tile ne tient pas autrement (filler, anti-loop, blessé à 2 crochets). Sinon, tenir la palette debout et la faire respecter. Excès inverse : greed incorrect (E-I01) et palette gardée jusqu'à tomber (E-T09) | DR-12, DR-03 |
+| **E-D04** · TILE | Poser la palette dès que le tueur approche (palette gaspillée) | Peur du coup ; « palette = sécurité » au lieu de « ressource limitée » | Casse (2,34 s) ou contournement ; zone épuisée pour les chases suivantes. Le coût est **différé**, donc invisible | Arbre Palette (§13.8). Le pre-drop est correct quand la tile ne tient pas autrement (filler, anti-loop, blessé à 2 crochets) ; sinon faire respecter la palette debout. Excès inverses : E-I01, E-T09 | DR-12, DR-03 |
 | **E-D05** · CHASE | Vault en angle ou sans élan | On coupe la trajectoire pour « gagner du temps » | Medium vault 0,9 s au lieu de 0,5 s ; tueur à portée de fente à la réception | Arrondir l'approche **plus tôt** pour avoir ≥ 2,5 m de ligne droite : l'arc coûte moins que le medium vault. Contre un tueur qui vaulte lui-même (1,7 s), un fast vault raté ne se rattrape pas. Angle impossible : ne pas vaulter, continuer la tile | DR-02 |
 | **E-D11** · COUNTER | Courir en ligne droite en terrain ouvert contre un tueur à distance (Huntress, Deathslinger, Trickster…) | Réflexe « distance » appris contre les M1 | Tir gratuit à distance moyenne, la zone la plus dangereuse contre la Huntress [HEURISTIQUE, lot 4] | Contre un ranged, la ressource est la **ligne de vue**, pas la distance : aller vers des murs hauts, changer de direction **au lâcher** du projectile, pas pendant tout l'armement. Contre un M1, la ligne droite vers une tile reste souvent correcte. Identifier le tueur d'abord | DR-15, DR-06 |
 
@@ -103,8 +102,8 @@ Quatorze erreurs. Elles portent sur la caméra, le pathing, la palette gaspillé
 > **À retenir (débutant)** : on agit **au moment où l'on a peur** (palette trop tôt, vault en regardant derrière, décrochage immédiat, cachette) au lieu du moment où l'action rapporte le plus. Question-clé : « que se passe-t-il si j'attends 2 secondes ? »
 
 **Variantes SoloQ / SWF (débutant)** :
-- `[SoloQ]` E-D09 et E-D12 se combinent. Sans information, attendre un signe d'engagement du tueur (icône de chase au HUD, TR qui s'éloigne) est la seule protection contre le trade.
-- `[SWF]` E-D09 disparaît en partie si l'accroché annonce le comportement du tueur (« il reste », « il part nord »). E-D14 devient un choix explicite (« on duo le gen du bas pour le finir avant son retour »).
+- `[SoloQ]` E-D09 + E-D12 : sans information, attendre un signe d'engagement du tueur (icône de chase, TR qui s'éloigne) est la seule protection contre le trade.
+- `[SWF]` L'accroché annonce le tueur (« il reste », « il part nord ») ; E-D14 devient un choix annoncé (« on duo le gen du bas »).
 
 Détail : `kb/research/batch11_training.md` §1.1.
 
@@ -120,7 +119,7 @@ Quatorze erreurs, dont E-I14 ajoutée par l'audit P14. Le joueur sait boucler un
 
 | ID · tag | Erreur | Pourquoi on la fait | Punition | Correction (avec conditions) | Drill |
 |---|---|---|---|---|---|
-| **E-I01** · TILE | Greed incorrect : un tour de plus autour d'une palette debout qu'on n'atteindra pas avant le coup | On a appris que greeder économise des palettes ; on surestime sa distance (la fente ajoute ~2 m, estimation communautaire [INCERTAIN]) ; on oublie la Bloodlust | Coup reçu à côté de la palette ; blessé → au sol avec la palette encore debout : **ressource perdue ET état perdu** | Greeder seulement si (a) tu vois le tueur ou lis sa red stain, (b) tu atteindras la palette avant sa portée de fente **même s'il coupe par le chemin court**, (c) un coup ne te coûte pas un crochet de trop. Contre un tueur anti-loop, greeder coûte souvent le coup. Dans le doute, **poser** : une palette perdue coûte moins qu'un état à 2 crochets | DR-12, DR-03 |
+| **E-I01** · TILE | Greed incorrect : un tour de plus autour d'une palette qu'on n'atteindra pas avant le coup | On surestime sa distance (la fente ajoute ~2 m, estimation communautaire [INCERTAIN]) ; on oublie la Bloodlust | Coup à côté de la palette ; blessé → au sol, palette debout : **ressource ET état perdus** | Greeder seulement si (a) tu vois le tueur ou sa red stain, (b) tu atteins la palette avant sa portée de fente **même s'il coupe court**, (c) un coup ne coûte pas un crochet de trop. Contre un anti-loop, le greed coûte souvent le coup. Dans le doute, **poser** | DR-12, DR-03 |
 | **E-I07** · CHASE | Donner un coup gratuit (sortir côté tueur, rester sur une tile morte, vaulter vers un tueur qui attend à la réception) | Lecture tardive ; « panique vault » | Un état de santé contre 0 seconde gagnée ; la mise au sol suivante vient souvent 20-30 s plus tard [INCERTAIN] | Distinguer le **coup acheté** (atteindre une tile avec le boost de 1,8 s, protéger un décroché, body block qui libère un allié) du **coup donné**. Avant toute action risquée : « qu'est-ce que je gagne si je prends le coup ? » Si la réponse est « rien », ne pas le prendre, même au prix d'une palette | DR-12, DR-19 |
 | **E-I12** · TILE | Compter sur une fenêtre déjà vaultée trois fois | On ne compte pas ses vaults | Après ton 3e vault de la même fenêtre dans une poursuite, elle est bloquée **30 s pour toi seul** [FACT (SS)] : mur, coup garanti | Compter 1-2-3 par fenêtre. Le 3e vault est permis, mais comme **vault de sortie** (quitter la tile ensuite, arbre §13.9). Alternative : utiliser la palette ou changer de tile avant le 3e | DR-03, DR-04 |
 
@@ -128,9 +127,9 @@ Quatorze erreurs, dont E-I14 ajoutée par l'audit P14. Le joueur sait boucler un
 
 | ID · tag | Erreur | Pourquoi on la fait | Punition | Correction (avec conditions) | Drill |
 |---|---|---|---|---|---|
-| **E-I06** · MACRO | Créer un 3-gen : faire d'abord les gens isolés et faciles, laisser trois gens proches pour la fin | On répare le gen le plus proche du spawn, sans vision globale | Le tueur défend trois gens en quelques secondes de trajet : parties longues, palettes épuisées. Le plafond de 8 regression events par gen [FACT (VM)] coûte aussi au tueur, mais le 3-gen reste le scénario perdant typique en SoloQ [HEURISTIQUE] | Dès le début, repérer le **triangle le plus serré** et en finir un gen tôt ; garder pour la fin des gens éloignés les uns des autres. Nuance [SITUATIONNEL] : si le triangle est dans une zone très riche en tiles, le finir tôt peut gaspiller la zone | DR-09 |
+| **E-I06** · MACRO | Créer un 3-gen : finir d'abord les gens isolés, laisser trois gens proches pour la fin | On répare le gen le plus proche, sans vision globale | Le tueur défend trois gens en quelques secondes : parties longues, palettes épuisées ; scénario perdant typique en SoloQ [HEURISTIQUE] | Repérer dès le début le **triangle le plus serré** et en finir un gen tôt ; garder pour la fin des gens éloignés. Nuance [SITUATIONNEL] : dans une zone très riche en tiles, le finir tôt peut gaspiller la zone | DR-09 |
 | **E-I08** · MACRO | « Taper » un gen pour stopper la régression | Habitude antérieure à la 7.5.0 | Depuis 7.5.0, il faut réparer **5 %** (≈ 4,5 s solo) pour stopper la régression [FACT (VM)] : un contact ne sert à rien | Rester ≥ 4,5 s (solo ; ~2,6 s à 2), ou ignorer le gen s'il est trop exposé. Un gen frappé puis laissé 20 s perd ~9,5 charges (−5 % du kick + 0,25 c/s, calcul corrigé P14) ; 60 s → ~19,5 charges. Parfois moins cher que de s'exposer | DR-09 |
-| **E-I09** · MACRO | (a) Purifier tout Hex dès qu'il s'allume ; (b) ne jamais penser aux totems | (a) règle apprise sans son coût ; (b) oubli | (a) 14 s de purification [FACT (SS)] + trajet, parfois dans une zone surveillée ; (b) un Hex fort (Devour Hope à ses paliers, NOED en fin) décide la partie | Évaluer **effet sur l'équipe × temps restant × risque d'accès**. Un Hex qui touche la chase ou tue justifie un détour ; un Hex de ralentissement modéré vaut parfois moins qu'un gen. Purifier les totems ternes **croisés sur son chemin** réduit le risque NOED sans l'annuler. Boon sur un Hex : 28 s [FACT (SS)], plus lent mais laisse un Boon | DR-07, DR-11 |
+| **E-I09** · MACRO | (a) Purifier tout Hex dès qu'il s'allume ; (b) oublier les totems | Règle apprise sans son coût ; ou oubli | (a) 14 s [FACT (SS)] + trajet, parfois en zone surveillée ; (b) un Hex fort (Devour Hope, NOED) décide la partie | Évaluer **effet × temps restant × risque d'accès** : un Hex de chase ou qui tue justifie un détour, un ralentissement modéré vaut parfois moins qu'un gen. Purifier les ternes **croisés en route** réduit le risque NOED. Boon sur Hex : 28 s | DR-07, DR-11 |
 | **E-I13** · MACRO | Emmener la poursuite vers ses coéquipiers et leurs gens | Réflexe grégaire ; on connaît mieux la zone qu'on vient de réparer | Le tueur découvre les réparateurs, peut changer de cible vers un blessé ou lancer un pouvoir multi-cibles (Legion, Plague…) ; gens abandonnés | Pré-choisir un « couloir de chase » loin des gens actifs. Exception : gen presque fini à côté d'une tile forte, ou seule zone riche de la carte. [SWF] l'annoncer ; [SoloQ] accepter le risque en connaissance de cause | DR-13, DR-09 |
 | **E-I14** · MACRO | Quitter le gen trop tard (on attend de voir le tueur) ou trop tôt (au premier battement de cœur, alors qu'il ne vient pas) | On veut finir le pourcentage ; ou peur réflexe du TR | Trop tard : chase au contact, sans avance ni route. Trop tôt : trajet aller-retour et coop perdus | Comparer **temps pour finir** (charges restantes / débit : 1 ; 1,7 ; 2,1 ; 2,2 c/s) et **arrivée du tueur** (≈ 7 s s'il entre dans un TR de 32 m et vient droit sur toi à 4,6 m/s, calcul ; TR 32 m = valeur historique à exceptions). Si tu ne finis pas avant, pre-run **vers ta tile de repli** dès que le TR ou la red stain indique qu'il vient. Contre un furtif, le TR ne sert pas | DR-09, DR-13 |
 
@@ -148,8 +147,8 @@ Quatorze erreurs, dont E-I14 ajoutée par l'audit P14. Le joueur sait boucler un
 > **Erreur fréquente** : corriger E-I02 par « je ne me soigne plus jamais ». La bonne question : « cet état servira-t-il dans une chase **avant** qu'un gen ne soit perdu ? »
 
 **Variantes SoloQ / SWF (intermédiaire)** :
-- `[SoloQ]` E-I03 et E-I04 sont les erreurs SoloQ les plus coûteuses, parce que personne ne sait qui va au crochet. Défaut robuste : un seul sauveteur, choisi par l'arbre Crochet (CRO-1 à CRO-3), avec une vérification en route.
-- `[SWF]` E-I03 devient un problème de protocole. Un shot-caller désigne un sauveteur avec son ETA ; les autres ne viennent que pour une distraction annoncée. E-I05 se règle à voix haute (« je suis à 2, je ne prends pas le save »).
+- `[SoloQ]` E-I03 et E-I04 coûtent le plus : défaut robuste = un seul sauveteur choisi par CRO-1 à CRO-3, avec vérification en route.
+- `[SWF]` Un shot-caller désigne le sauveteur (ETA) ; E-I05 se règle à voix haute (« je suis à 2, je ne prends pas le save »).
 
 Détail : `kb/research/batch11_training.md` §1.2.
 
@@ -164,8 +163,8 @@ Onze erreurs. Le joueur tient des chases. Il perd maintenant de la valeur par **
 | **E-A03** · COUNTER | Jouer les palettes comme contre un M1 face à un tueur qui les annule (liste corrigée ci-dessous) | Loop « standard » non adapté | La palette « respectée » n'existe plus **tant que le pouvoir est disponible** (Oni hors Fury, Demogorgon en recharge, casseur par add-on sans l'add-on redeviennent des M1). Palette basse contre hachette : ne bloque pas le tir [INCERTAIN] | La palette sert à **gagner des mètres par le stun ou le pre-drop** (détour forcé, pouvoir utilisé au mauvais moment). **Blight** : la casse lui coûte des tokens de Rush depuis 9.6.0 [FACT (VP)], le pre-drop reste rentable. Un pre-drop qui ne force ni détour ni pouvoir est gaspillé : quitter ou jouer la LOS. Contre les ranged : murs hauts | DR-15 |
 | **E-A04** · CHASE | Ignorer la Bloodlust : faire durer une chase sur une tile faible sans jamais la « remettre à zéro » | « Palette posée = palette perdue » | À 35 s, +0,6 m/s : un tueur 4,6 court à 5,2 m/s ; les boucles « safe » deviennent unsafe | Près des seuils 15/25/35 s, une palette qui l'oblige à **casser** remet la Bloodlust à zéro, comme un coup reçu [FACT] ; effet d'un stun [INCERTAIN]. Autre option : casser la poursuite (LOS perdue > 8 s, > 18 m). Contre-jeu : un tueur averti **contourne** pour garder sa Bloodlust | DR-12, DR-19 |
 | **E-A05** · CHASE | Utiliser une perk d'Exhaustion au mauvais moment (dès le début, ou jamais) | Panique ou avarice | Trop tôt : distance vers nulle part, puis perk indisponible (Exhausted ne récupère pas en courant, (SS)). Trop tard : mort avec la ressource | L'utiliser pour **atteindre une zone riche** ou **sauver un état qui coûte un crochet**. Chaque perk a son timing (chapitre perks) ; ne jamais la déclencher vers une dead zone | DR-13, DR-19 |
-| **E-A06** · CROCHET | Ne pas protéger le décroché (ou le faire mal) : partir dans la même direction, ou le laisser seul | Sauvetage considéré comme « fini » au décrochage | Le tueur retrouve les deux ensemble, ou tunnelle le décroché à la fin des 10 s. En LIVE, rien au-delà des protections de base ne l'en empêche : les anti-tunnel des PTB 9.2.0/9.3.0 n'ont jamais été mis en live [FACT (VP)] | Le sauveteur (sain, crochets bas) **se place entre le tueur et le décroché** et accepte un coup de protection (coup acheté, E-I07) ; les deux partent dans des directions différentes. Si le tueur ignore le sauveteur : prendre la chase en restant visible, body block dans un couloir. Ne pas « tanker » si tu es toi-même à 2 crochets | DR-10 |
-| **E-A07** · TILE | Épuiser les ressources de la zone dès la première chase (4-5 palettes pour une chase de 90 s) | Durée de chase vécue comme seul objectif | Zone épuisée, souvent celle des derniers gens (base d'un 3-gen) ; les coéquipiers chassés plus tard n'ont plus rien | Évaluer une chase en **temps gagné / ressources consommées**. Au-delà d'une ou deux palettes pour un seul état de santé, se demander si prendre le coup et utiliser le boost aurait coûté moins. Pas une règle : contre un tueur fort en début de partie, une longue chase coûteuse peut valoir 2-3 gens | DR-12, DR-19 |
+| **E-A06** · CROCHET | Ne pas protéger le décroché (même direction que lui, ou abandon) | Sauvetage vu comme « fini » au décrochage | Le tueur retrouve les deux, ou tunnelle le décroché après 10 s ; aucun anti-tunnel au-delà des protections de base en LIVE (ceux des PTB 9.2.0/9.3.0 ne sont jamais sortis, [FACT (VP)]) | Le sauveteur (sain, crochets bas) **se place entre le tueur et le décroché** et accepte un coup de protection ; directions différentes. S'il vise le décroché : prendre la chase, body block en couloir. Pas de « tank » à 2 crochets | DR-10 |
+| **E-A07** · TILE | Épuiser les palettes de la zone dès la première chase (4-5 pour 90 s) | Durée de chase vue comme seul objectif | Zone vide pour la suite, souvent celle des derniers gens | Juger en **temps gagné / ressources consommées** : au-delà d'une ou deux palettes pour un état, le coup + boost aurait-il coûté moins ? Exception : en début de partie contre un tueur fort, une chase coûteuse qui achète 2-3 gens | DR-12, DR-19 |
 | **E-A08** · INFO | Ne pas tenir la carte des ressources (fuir vers une zone déjà vidée) | On ne mémorise que ses propres chases | Dead zone découverte au dernier moment | Mémoriser (ou annoncer en SWF) les palettes cassées ou posées vues, les casses entendues (le son porte loin, observation non chiffrée) ; mettre à jour sa route de repli | DR-17, DR-08 |
 | **E-A09** · ENDGAME | Traîner à la porte ouverte (attendre, provoquer) | Envie de « finir en beauté » ; attente d'un coéquipier sans plan | Blood Warden bloque les portes 40/50/60 s si un survivant est accroché (SS) ; NOED/Exposed transforment un coup en mise au sol ; sacrifice offert | Sortir dès que ta présence n'apporte plus rien. Rester seulement pour un plan (sauvetage possible, body block, soin d'un allié qui va sortir). L'EGC (120 s, à moitié vitesse si quelqu'un est au sol ou accroché) laisse le temps d'un sauvetage **si** le tueur est loin | DR-11 |
 | **E-A10** · ENDGAME / SOIN | Mal gérer l'état au sol : ramper sans arrêt, ou tout le monde qui fonce relever pendant que le tueur rôde | Impatience ; récupération automatique (9.2.0) méconnue | Pas de récupération (elle se fait « à l'arrêt » selon le wiki, (SS)) ; le tueur qui slug frappe les sauveteurs l'un après l'autre | Sans menace, rester immobile (95 % en 30,4 s, (VM)). Si un allié vient, ramper vers lui raccourcit son trajet ; effet exact du rampement [INCERTAIN]. Pour relever : **un seul** survivant, quand le tueur est engagé ailleurs. Surrender / Abandon : refonte au PTB 10.2.0 | DR-11, DR-17 |
@@ -183,8 +182,8 @@ Onze erreurs. Le joueur tient des chases. Il perd maintenant de la valeur par **
 > **Note avancée** [HEURISTIQUE, lot 7] : (1) si **la casse lui coûte** (Blight), le pre-drop reste rentable ; (2) si **son pouvoir punit l'attente** (Doctor, Cannibal, Nemesis MR2+, Mastermind, Lich), pre-drop **puis départ immédiat** ; (3) si **la casse est gratuite** (Demogorgon, Oni en Fury, Ghoul avec tokens, Dark Lord), la palette vaut surtout le stun. Contre un casseur par add-on, vérifier l'add-on avant de changer de plan.
 
 **Variantes SoloQ / SWF (avancé)** :
-- `[SoloQ]` E-A11 est l'erreur centrale : la bonne décision est celle qui reste correcte **quoi que fassent les autres**. E-A08 est plus dur : tu ignores quelles palettes les autres ont utilisées, donc la « palette suivante » est moins sûre.
-- `[SWF]` E-A08 se résout par les callouts (« palette du shack cassée »). E-A06 se prépare : le sauveteur annonce qu'il prendra le coup de protection, le décroché annonce sa direction.
+- `[SoloQ]` E-A11 est centrale : choisir la décision qui reste correcte **quoi que fassent les autres**. E-A08 est plus dur : la « palette suivante » a peut-être été utilisée.
+- `[SWF]` E-A08 se règle par callouts (« palette du shack cassée ») ; E-A06 s'annonce (qui prend le coup de protection, quelle direction).
 
 Détail : `kb/research/batch11_training.md` §1.3 ; `kb/research/batch7_tiles.md` §5.2.
 
@@ -198,9 +197,9 @@ Douze erreurs. Le joueur maîtrise l'exécution. Il perd maintenant de la valeur
 |---|---|---|---|---|---|
 | **E-T01** · CROCHET | Hook trade sans valeur | Le trade semble « neutre », mais consomme un état et fait gagner du trajet au tueur | Un état et ~30-60 s de gens perdus [INCERTAIN] ; bonus si le tueur a des perks d'accrochage (Pain Resonance, Grim Embrace…) | Trade **généralement** justifié si l'allié va perdre sa phase sinon, si le risque passe à un survivant plus « riche » (0 crochet, sain, ressource proche), ou si les 2 autres réparent déjà. Refuser : sauveteur blessé, dead zone, tueur à coup unique prêt, **2 survivants restants** (sacrifice, Mori [FACT (VP)]) | DR-10, DR-19 |
 | **E-T02** · INFO | Ne pas mettre à jour sa perk deduction (jouer comme si le tueur n'avait aucune perk, ou garder une hypothèse infirmée) | Le loadout du tueur est caché jusqu'à la fin [FACT (VP) 9.6.0] : il faut le déduire | Gen qui explose au prochain accrochage ; zone « tracée » par une perk d'aura ; surprise en endgame | Tenir un journal d'indices : effet observé → perk candidate → conséquence pratique. Réviser à chaque indice ; vérifier à l'écran de fin. Préparer la réponse **la plus coûteuse à ignorer** (en endgame : jouer comme si NOED était possible tant qu'il reste des totems ternes). Voir le chapitre perk deduction | DR-07 |
-| **E-T03** · CHASE | Choisir le mauvais mode : boucler contre un tueur qui y gagne, ou « hold W » vers le vide contre un M1 alors qu'une tile forte est à côté | Un seul mode appris | Loop contre un anti-loop = coup rapide ; hold W vers le vide contre un M1 = coup au bout de ~16 s pour 10 m d'avance (~12-13 s avec fente) | Le choix dépend de la **distance au contact** et du **type de tueur**. À grande distance contre un tueur lent (4,4 m/s, sans mobilité) : tenir la distance **vers** des ressources. Au contact contre un M1 : boucler. Contre un casseur de palettes : enchaîner les LOS. « Hold W contre anti-loop » (seed) est vrai en tendance, **faux** contre un tueur mobile qui te rattrape en ligne droite (Blight, Nurse) [SITUATIONNEL] | DR-15, DR-13 |
+| **E-T03** · CHASE | Mauvais mode : boucler contre un tueur qui y gagne, ou « hold W » vers le vide contre un M1 | Un seul mode appris | Loop contre anti-loop = coup rapide ; hold W vers le vide = coup en ~12-16 s pour 10 m d'avance | Dépend de la **distance au contact** et du **type de tueur** : loin d'un tueur lent sans mobilité, tenir la distance **vers** des ressources ; au contact d'un M1, boucler ; contre un casseur, enchaîner les LOS. « Hold W contre anti-loop » est **faux** contre Blight ou Nurse [SITUATIONNEL] | DR-15, DR-13 |
 | **E-T04** · CHASE | Réagir à la première feinte (changer de côté au premier mouvement du tueur) | On veut lire le tueur trop vite | Fausse avance, double-back : coup gratuit. À haut niveau, un survivant « prévisible dans sa réaction » est aussi exploitable qu'un survivant passif | S'engager au **dernier moment sûr** (la plus longue attente possible sans perdre l'accès à la ressource) ; préférer les positions qui gardent deux options (palette ET fenêtre en vue). [HYPOTHÈSE] La lecture précoce paie contre un tueur inexpérimenté et coûte contre un bon : adapter après 2-3 interactions | DR-05, DR-03 |
-| **E-T05** · MACRO | Casser la poursuite au mauvais moment : disparaître alors que l'équipe a besoin que le tueur reste occupé, ou rester visible blessé à 2 crochets quand les autres sont en sécurité | On optimise sa survie au lieu du temps d'équipe | Le tueur libéré retourne aux gens, au crochet ou vers un blessé : l'équipe perd plus que ce que tu as sauvé | Question : « que fait le tueur si je disparais maintenant ? » Sain et crochets bas : rester « chassable » sans donner de coup est souvent plus utile. Blessé à 2 crochets avec un gen critique ailleurs : disparaître est souvent mieux. [SITUATIONNEL] par définition | DR-19, DR-17 |
+| **E-T05** · MACRO | Casser la poursuite au mauvais moment (disparaître quand l'équipe a besoin qu'il reste occupé, ou rester visible blessé à 2 crochets) | Survie personnelle optimisée au lieu du temps d'équipe | Le tueur libéré retourne aux gens, au crochet ou vers un blessé | « Que fait le tueur si je disparais maintenant ? » Sain, crochets bas : rester chassable sans donner de coup. Blessé à 2 crochets, gen critique ailleurs : disparaître. [SITUATIONNEL] | DR-19, DR-17 |
 | **E-T06** · MACRO | Détecter le 3-gen trop tard (seulement à 3 gens restants) | Pas de plan initial (E-I06), ou plan non revu | Défense concentrée ; chaque retour du tueur repousse un gen | À **4 gens restants**, vérifier la géométrie et accepter un gen « moins confortable » pour casser le triangle. 3-gen acquis : duo dès qu'il part, split sur deux gens pendant qu'un troisième tient la chase, garder les palettes de la zone. « Lui faire épuiser ses 8 events par gen » **n'est pas un plan** | DR-09 |
 | **E-T07** · ENDGAME | Dernier survivant : trappe contre porte mal arbitrées | Pas de scénario pré-appris | Le tueur ferme la trappe (→ EGC 120 s) et garde la porte la plus proche ; 20 s d'ouverture à découvert | **Avant** d'être seul : savoir où sont les portes, si l'une a de la progression (conservée [FACT (SS)]) et où la trappe est probable. Une fois seul, si la trappe est fermée : porte **la plus éloignée du tueur**, ouverture par étapes si besoin, en exploitant son trajet entre les portes. Arbre Trappe (§13.16) | DR-11 |
 | **E-T08** · CHASE | Jouer les vaults et les poses « au pixel » en croyant l'écran | On croit que ce qu'on voit est la vérité serveur | Si la connexion du tueur est bonne, le coup est validé par **son client** [FACT (VP), principe] ; la latence cumulée le favorise (observation communautaire) : « touché derrière la palette » | Garder une marge sur les actions serrées (valeur [INCERTAIN], dépend du ping), surtout si le tueur semble avoir un ping élevé. Accepter que certains coups « injustes » fassent partie du jeu, et **ne pas en tirer de mauvaises leçons en revue** | DR-12, DR-19 |
@@ -212,8 +211,8 @@ Douze erreurs. Le joueur maîtrise l'exécution. Il perd maintenant de la valeur
 > **À retenir (très avancé)** : E-T01, E-T05 et E-T06 sont la même faute : se demander « comment survivre à cette chase ? » au lieu de « quel usage de mon temps et de mes états rapporte le plus à l'équipe ? ».
 
 **Variantes SoloQ / SWF (très avancé)** :
-- `[SoloQ]` E-T05 est plus difficile : tu ne sais pas si les autres sont en sécurité. Par défaut, rester chassable quand tu es sain et que le HUD montre des coéquipiers sur les gens. E-T01 : un trade en SoloQ suppose que personne d'autre ne vient, donc compter les états **réellement** offerts.
-- `[SWF]` E-T12 est la seule erreur propre au SWF dans la base. C'est une lacune connue (§13.17) : les erreurs de coordination SWF sont sous-représentées.
+- `[SoloQ]` E-T05 : par défaut, rester chassable quand tu es sain et que le HUD montre des coéquipiers sur les gens. E-T01 : compter les états **réellement** offerts, personne ne viendra aider.
+- `[SWF]` E-T12 est la seule erreur propre au SWF : lacune connue (§13.17).
 
 Détail : `kb/research/batch11_training.md` §1.4.
 
@@ -246,8 +245,6 @@ Total : 14 + 14 + 11 + 12 = **51 erreurs** (E-A10 porte deux tags).
 | E-D09 / E-I04 sauvetage trop tôt | E-I04 sauvetage trop tard | Arbre Crochet |
 | E-I14 quitter le gen trop tôt | E-I14 quitter le gen trop tard | Arbre Gen |
 | E-A01 rester sur une tile perdue | partir sans événement (E-A01) | Arbre Quitter la tile |
-| E-I09 (a) purifier tout Hex | E-I09 (b) ignorer les totems | Arbre Totem |
-| E-T05 disparaître trop tôt | E-T05 rester visible trop longtemps | Revue de partie |
 
 ### 13.6.3 Drills référencés
 
@@ -325,29 +322,29 @@ PALETTE
 |---|---|---|---|
 | **PAL-0** | Prendre le coup | La palette n'est plus une option ; boost 1,8 s + cooldown 2,7 s donnent le meilleur départ | Blessé → au sol. Viser une ressource avec le boost (TIL-6) |
 | **PAL-0b** | Poser tout de suite (stun de réaction) | Seule chance si le coup est critique | Stun raté (palette à moins de ~50 %), latence → PAL-0 |
-| **PAL-1** | Pre-drop tôt **si** cela force un détour ou le pouvoir au mauvais moment ; sinon quitter / LOS | Une palette debout ne se « respecte » pas | Le pre-drop peut ne rien lui coûter. **Exception Blight** : la casse lui coûte des tokens (9.6.0, VP). Liste corrigée en §13.4 |
+| **PAL-1** | Pre-drop tôt **si** cela force un détour ou le pouvoir au mauvais moment ; sinon quitter / LOS | Une palette debout ne se « respecte » pas | Pre-drop parfois sans coût pour lui ; **exception Blight** (tokens, 9.6.0, VP). Liste en §13.4 |
 | **PAL-2** | Fenêtre à réception cachée ou murs hauts | La LOS est la vraie ressource ; une palette ne bloque pas un tir (Huntress : [INCERTAIN]) | Réception prévisible punie par un tir |
 | **PAL-3** | LOS et imprévisibilité ; pre-drop rarement utile | Contre la mobilité, la palette vaut peu | Brûler une palette pour rien |
 | **PAL-4** | Pre-drop avant le retour du pouvoir | Elle ne vaudra plus rien une fois le pouvoir prêt | Moment de retour [INCERTAIN] → quitter |
-| **PAL-5** | Pre-drop le plus tard possible sans risque | Un coup = au sol, voire mort | Palette consommée « tôt » → quitter sur événement si une tile plus forte est atteignable |
-| **PAL-6** | Fenêtre d'abord (fast vault 0,5 s contre 1,7 s pour le tueur) | Temps gagné sans consommer la palette | Blocage 30 s après ton 3e vault ; Bamboozle ; arrivée en angle |
+| **PAL-5** | Pre-drop le plus tard possible sans risque | Un coup = au sol, voire mort | Palette consommée tôt → quitter sur événement si tile plus forte |
+| **PAL-6** | Fenêtre d'abord (0,5 s contre 1,7 s pour le tueur) | Temps gagné sans consommer la palette | Blocage au 3e vault ; Bamboozle ; angle |
 | **PAL-7** | Tenir : tourner palette debout, poser s'il s'engage | Maximum de temps par palette ; stun + casse possibles | Feinte, latence, Bloodlust → pre-drop |
 | **PAL-8** | Tenir avec départ tôt | Il peut lire ton côté | Coup sur mindgame perdu → pre-drop si Q3 est serré |
 | **PAL-9** | Pre-drop (pour la distance) ou quitter | Faible valeur future ; convertit la palette en ~9,4 m | Il contourne au lieu de casser |
 | **PAL-10** | Quitter sur casse, stun, vault ou cooldown | Seul moment où la traversée est gratuite → arbre 2 | Départ sans événement = coup dans le dos |
 | **PAL-11** | Rester et tenir | La suite ne vaut pas mieux | Bloodlust qui monte → quitter au premier événement |
 | **PAL-12** | Maximiser le temps ici | Après cette palette, plus rien | Le tueur finit par lire → rendre le coup le plus tardif possible |
-| **GREED** | Un cycle de plus palette debout | Palette gardée | **Pire résultat** : coup avec palette debout. Réservé à : sain ou Endurance, grande avance, tueur M1 visible, équipe sur les gens, palettes rares |
+| **GREED** | Un cycle de plus palette debout | Palette gardée | **Pire résultat** : coup avec palette debout. Seulement sain/Endurance, grande avance, M1 visible, palettes rares |
 
 **Ajusteurs Q6-Q10** (préparés avant la chase) :
 
 | Question | Réponse → effet |
 |---|---|
 | Q6 Bloodlust | 15-35 s : pose + casse remet à zéro, donc pre-drop et stun plus rentables (mais il peut contourner) · ≥ 35 s sur tile moyenne ou faible : poser ou quitter **maintenant** |
-| Q7 Équipe | 3 alliés sur des gens séparés : allonger, accepter de consommer · alliés au crochet ou en soin : économiser les palettes · gen à 99 % ou portes proches : pre-drop accepté · zone du futur 3-gen : garder, quitter ou fenêtre en priorité |
+| Q7 Équipe | 3 alliés sur les gens : allonger · alliés au crochet ou en soin : économiser · gen à 99 % : pre-drop accepté · zone du futur 3-gen : garder |
 | Q8 Ressources | beaucoup : pre-drop peu coûteux · peu : chaque palette compte, perk d'Exhaustion pour quitter |
 | Q9 Perks suspectées | Enduring (stun −40 à −50 %) : pre-drop > stun tardif · Bamboozle : fenêtre moins fiable |
-| Q10 Phase | portes alimentées : pre-drop généreux · début de partie : la zone servira encore, éviter le pre-drop gratuit |
+| Q10 Phase | portes alimentées : pre-drop généreux · début de partie : éviter le pre-drop gratuit |
 
 **Cas combinés** [HEURISTIQUE] : blessé à 2 crochets, M1, palette moyenne, tile suivante lointaine → **pre-drop**. Tueur Undetectable sans red stain : **jamais de greed**. Blessé, M1 à ~6 m, palette du shack, jungle gym à ~25 m → **pre-drop puis départ pendant la casse** (≈ 18 s gagnées, calcul lot 6).
 
@@ -355,7 +352,7 @@ PALETTE
 |---|---|---|
 | Alliés sur les gens | Visibles seulement au HUD ([INCERTAIN]) : supposer qu'ils sont moins nombreux → **moins de greed** | Le poursuivi sait combien réparent et peut demander que personne ne vienne « aider » |
 | Palette suivante | Peut-être déjà utilisée par un allié : un pre-drop « en comptant sur la suivante » est plus risqué | État des palettes annoncé |
-| Tempo | Jouer comme si personne ne venait aider ; tirer la chase loin des gens visibles | « Je tiens encore 20 s, finissez le gen » |
+| Tempo | Jouer comme si personne ne venait aider | « Je tiens encore 20 s, finissez le gen » |
 
 **Contre-jeu du tueur** : alterner respect et non-respect de la palette ; casser tôt pour interdire le greed ; contourner une palette pré-jetée pour garder sa Bloodlust.
 
@@ -460,12 +457,12 @@ Fin de partie où sauver coûte deux sorties (rare) ────► [CRO-16] NE 
 |---|---|---|---|
 | **CRO-1** | Rester sur son gen | Un doublon retire un 3e réparateur | L'autre fait demi-tour sans que tu le voies → revérifier le HUD |
 | **CRO-2** | Y aller si sain | Sauveteur riche en états | Doublon → laisser si blessé ou à 2 crochets |
-| **CRO-3** | Y aller après un délai de confirmation (15-20 s, valeur de rédacteur [INCERTAIN]) tel que délai + trajet < fin de phase | « Quelqu'un d'autre ira » est l'erreur SoloQ la plus coûteuse [AVIS D'EXPERT, non sourcé] | Si les 3 appliquent le même délai → départ simultané. Revérifier toutes les ~5 s ; à égalité, le sain / 0 crochet continue |
+| **CRO-3** | Y aller après un délai de confirmation (15-20 s, valeur de rédacteur [INCERTAIN]) avec délai + trajet < fin de phase | « Quelqu'un d'autre ira » : erreur SoloQ la plus coûteuse [AVIS D'EXPERT, non sourcé] | Départs simultanés si tous ont le même délai : revérifier toutes les ~5 s ; à égalité, le sain continue |
 | **CRO-4** | Un sauveteur annonce son ETA ; les autres continuent | Supprime les doublons | Annonce périmée → l'accroché décrit le tueur (« il part nord ») |
 | **CRO-5** | Décrocher dès l'arrivée | Tueur engagé ailleurs = meilleur moment | Faux départ → approche hors LOS |
 | **CRO-6** | Laisser à un autre ou accepter la phase 2 | Tu n'arriveras pas à temps | État de crochet offert |
-| **CRO-7** | Décroché : casser la LOS pendant l'Elusive, **aucune action voyante**, aller vers des tiles. Sauveteur entre tueur et décroché ; directions différentes ; pas de soin sous le crochet | Les protections sont une fenêtre de fuite | Tunnel ; Endurance gâchée → soin loin (arbre 4) |
-| **CRO-8** | Rester hors des 16 m, réparer, réévaluer si le camp dure | Ta présence **ralentit** la jauge et t'offre en cible ; le tueur cède ~3 s-survivant par seconde (calcul) | Temps de libération non calculable → Deliverance / Reassurance si présentes (Match Details) |
+| **CRO-7** | Décroché : casser la LOS pendant l'Elusive, **aucune action voyante**. Sauveteur entre tueur et décroché ; directions différentes | Les protections sont une fenêtre de fuite, pas de soin | Tunnel ; Endurance gâchée → soin loin (arbre 4) |
+| **CRO-8** | Rester hors des 16 m, réparer, réévaluer si le camp dure | Ta présence **ralentit** la jauge ; le tueur cède ~3 s-survivant par seconde (calcul) | Libération non calculable → Deliverance si présente |
 | **CRO-9** | 10-16 m = proxy | Poids ×1 → ×0,375 → ×0 : il campe sans payer l'anti-camp | Attendre une jauge qui ne bouge pas |
 | **CRO-10** | Attendre qu'il s'engage ; gens **hors** de sa zone | Le proxy lui coûte des gens au loin | La phase avance → CRO-11 |
 | **CRO-11** | Se rapprocher hors LOS ; décrocher dès qu'il s'engage | Position prête pour la fenêtre | Être repéré en approche |
@@ -521,7 +518,7 @@ Où ? hors de la zone du tueur, hors LOS, jamais sous le crochet.
 | **SOI-11** | Auto-soin au Med-Kit | Ne mobilise qu'un survivant | Durée à vérifier en jeu [INCERTAIN] |
 | **SOI-12** | Rester blessé et réparer | Évite 32 s-survivant | Un coup = au sol ; sang et grognements |
 
-**Autres points** : Mangled +25 % ; A Nurse's Calling (28/30/32 m) → soigner loin ou derrière un couvert ; **ne jamais planifier un soin à 3** (nombre max de soigneurs non tranché). Sous NOED/Exposed, être sain ne protège pas.
+**Autres points** : A Nurse's Calling (28/30/32 m) → soigner loin ou à couvert ; **ne jamais planifier un soin à 3** (nombre max de soigneurs non tranché).
 
 | | [SoloQ] | [SWF] |
 |---|---|---|
@@ -577,7 +574,7 @@ GEN
 | **GEN-13** | Alimenter au moment choisi, équipe en position | Adrenaline, perks d'endgame du tueur | Mauvais timing (au milieu d'un soin) |
 | **GEN-14** | Finir tout de suite | Kick, Ruin ou Heresy font fondre le 99 | — |
 
-**Contre-jeu du tueur** : un survivant immobile à côté d'un gen est un indice ; un tueur qui soupçonne un 99 le patrouille. Le 99 est un outil de **quelques dizaines de secondes** autour d'un événement, pas une posture.
+**Contre-jeu du tueur** : un tueur qui soupçonne un 99 le patrouille. Le 99 est un outil de **quelques dizaines de secondes** autour d'un événement, pas une posture.
 
 | | [SoloQ] | [SWF] |
 |---|---|---|
@@ -642,7 +639,7 @@ SLUG
 | **SLG-3** | Y aller seul | Le tueur est engagé ailleurs | — |
 | **SLG-4** | Chercher un indice (portrait, dernier bruit) | Knock Out réduit les auras des mourants (SS) | Temps perdu |
 | **SLG-5** | Approcher prudemment, relever si TR absent | — | Piège de slug → SLG-1 |
-| **SLG-6** | Ne pas se faire prendre ; relever s'il s'éloigne. Trouvé : chase la plus longue possible près d'une tile forte | Si tu tombes, tous au sol ; chaque seconde laisse récupérer les autres | Trappe seulement s'il ne reste que toi en vie |
+| **SLG-6** | Ne pas se faire prendre ; relever s'il s'éloigne ; trouvé : chase longue près d'une tile forte | Si tu tombes, tous au sol ; chaque seconde laisse récupérer les autres | Trappe seulement si tu es le seul en vie |
 | **SLG-7** | Un relève, l'autre reste loin ou fait diversion | Évite le double au sol | — |
 | **SLG-8** | Ramper vers l'allié ou un couvert (pas vers un gen occupé ni un cul-de-sac) | Raccourcit son trajet | Ramper suspend probablement la récupération « à l'arrêt » (à tester) |
 | **SLG-9** | Rester immobile | 95 % en 30,4 s : relevage restant plus court | Personne ne vient → SLG-8 |
@@ -674,8 +671,8 @@ ENDGAME
 
 | Feuille | Action | Pourquoi | Risque → alternative |
 |---|---|---|---|
-| **END-1** | Ouvrir une porte avant de décrocher | Sortie sûre ensuite ; l'EGC est ralenti tant qu'un survivant est accroché : le vrai compteur est la **phase** de l'allié | Blood Warden une fois une porte ouverte → laisser la porte à ~90 % |
-| **END-2** | Sauver avec un plan ; sinon sortir vers ~10 s de la fin de sa phase | Ni Elusive ni anti-camp | Deux morts si le tueur reprend le décroché. [SoloQ] la décision doit rester bonne si les autres ne font rien |
+| **END-1** | Ouvrir une porte avant de décrocher | Sortie sûre ; l'EGC est ralenti tant qu'un survivant est accroché : le vrai compteur est la **phase** de l'allié | Blood Warden → laisser la porte à ~90 % |
+| **END-2** | Sauver avec un plan ; sinon sortir vers ~10 s de la fin de sa phase | Ni Elusive ni anti-camp | Deux morts possibles ; [SoloQ] décision bonne même si les autres ne font rien |
 | **END-3** | Ne pas être mis au sol, où que tu sois | Mori possible (VP 9.0.0) ; tous accrochés = sacrifice | Sauver seulement s'il est engagé ailleurs ; jouer la trappe n'est pas « égoïste » [AVIS D'EXPERT, non sourcé] |
 | **END-4** | Ouvrir la porte qu'il ne regarde pas | Il ne garde qu'une porte | — |
 | **END-5** | Finir (2 s restantes à 90 %, calcul) | Temps restant < son arrivée | Finir sous ses yeux lance aussi l'EGC |
@@ -724,7 +721,7 @@ Détail (arbres 6 à 9) : `kb/deliverables/DECISION_TREES.md` §6-9 ; `kb/resear
 - **Distances non quantifiables** (portée de fente, abaissement de la palette, stun et Bloodlust, taux de l'anti-camp) : les seuils des arbres 1 à 3 sont des ordres de grandeur.
 - **Branches `[SoloQ]` fondées sur un HUD non vérifié** (icônes d'action, compteur de crochets, indicateur de chase). À revoir après 10.2.0 (Survivor Intent System).
 - **Lacunes de la base d'erreurs** : aucune erreur sur les objets (lampe, toolbox, med-kit), les casiers en chase ou les saves (flash, pallet save, sabotage, body block d'équipe) ; SWF sous-représenté (1 entrée).
-- **Aucun arbre n'a été testé sur des parties réelles.** Les délais de rédacteur (15-20 s de confirmation SoloQ, 70-80 % de gen, ~10 s de marge de sauvetage) n'ont pas de source.
+- **Aucun arbre n'a été testé en partie réelle** ; les délais de rédacteur (15-20 s, 70-80 %, ~10 s) n'ont pas de source.
 
 **Conseils du seed corrigés** :
 
@@ -734,10 +731,8 @@ Détail (arbres 6 à 9) : `kb/deliverables/DECISION_TREES.md` §6-9 ; `kb/resear
 | « L'anti-facecamp décrochera l'allié » | Rien au-delà de 16 m (A-283) | FAUX |
 | « Le vault annule l'élan » | Faux pour le fast vault (A-059) | FAUX |
 | « Une god pallet se garde » | Valeur maintenant contre valeur future (E-T09) | Trop absolu |
-| « Ne jamais partir vers une dead zone » | Traversée courte sur événement parfois correcte (E-D03) | Trop absolu |
 | « Le plus proche décroche » | Celui dont l'absence coûte le moins et qui arrive à temps (E-I03) | Trop absolu |
 | « Purifiez un Hex dès qu'il s'allume » | Effet × temps × risque (E-I09) | Trop absolu |
-| « Contre les anti-loop, tenir W » | Faux contre les tueurs mobiles (E-T03) | Imprécis |
 
 ---
 
