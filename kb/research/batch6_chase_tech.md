@@ -1,8 +1,10 @@
 # Lot 6 — Techniques de chase fines et chase theory avancée (mission §4 et §14)
 
-> **Statut : WRITTEN (brouillon), non audité, non sourcé par des experts — rédigé sans accès web le 27/09/2026**
+> **Statut : WRITTEN + AUDITED (audits adversariaux §25-26 du 27/09/2026, sans web) — voir kb/audit/pass14_lot6_chase.md**
 
 - Référence de version : **LIVE 10.1.2a** (édition serveur du 17/09/2026). Le **PTB 10.2.0** (dont le Survivor Intent System) n'est **pas** LIVE et n'est pas utilisé ici.
+- Mode : **1v4 uniquement**. Aucun chiffre ni modèle de ce fichier ne s'applique tel quel au mode **2v8** (13 gens / 8 requis selon l'audit ; vitesses, Bloodlust et palettes du 2v8 non documentées ici).
+- Tous les modèles de la section 4 (EV de palette, coût d'une blessure, seuils de chase « rentable ») sont des **HYPOTHESIS** : ils servent à comparer des options, jamais à produire une règle ou un seuil à appliquer tel quel.
 - Périmètre : mission §4 (mouvement et mécaniques de chase, 7 points par technique), §14 (chase theory avancée, raisonnement en secondes), §31 (3 situations concrètes). Les loops/tiles en détail sont au lot 7 ; flash/pallet save, sabotage et body block d'équipe au lot 5 ; macro au lot 9.
 - Méthode : **aucune recherche web** (quota épuisé). Sources internes uniquement : `kb/seed/audit_phase0.txt` (tables « Référence vérifiée : mouvement, chase, combat » et « objectifs, crochets, soins, statuts », registre des patchs, OUTDATED CONTENT REPORT), seed `kb/seed/ch0_2.txt`, `ch4_7.txt`, `ch10_14.txt` (brouillon non fiable, critiqué), `kb/research/batch4_killers_g*.md` (exemples par tueur, eux-mêmes non re-vérifiés).
 - Aucune VOD n'a été analysée. Aucun joueur ni coach n'est cité comme source.
@@ -133,7 +135,9 @@ Unité de compte : **seconde-survivant** (1 survivant × 1 s de réparation solo
 - **Conversion distance → temps** (la plus utile de toute la section) : `1 m d'avance = 1 / v_r secondes de chase en terrain ouvert`.
   - 4,6 sans Bloodlust : **1 m ≈ 1,67 s** ; avec Bloodlust max : 1 m ≈ 0,83 s.
   - 4,4 sans Bloodlust : **1 m ≈ 2,5 s** ; avec Bloodlust max : 1 m = 1,0 s.
-- **Gain d'un obstacle traversé par les deux** (fenêtre suivie par le tueur, palette que le tueur casse pour passer) : `gain ≈ 4,0 × (t_tueur − t_survivant)` mètres, en plus du rapprochement normal. Démonstration : si le survivant franchit en `t_s` et le tueur en `t_k`, le survivant court `t_k − t_s` secondes de plus que ce que le tueur rattrape à cet endroit.
+- **Gain d'un obstacle traversé par les deux** (fenêtre suivie par le tueur, palette que le tueur casse pour passer) : `Δécart = 4,0 × (t_k − t_s)` mètres = écart **réel** supplémentaire au moment où le tueur repart, comparé à l'écart qu'il avait en arrivant à l'obstacle (`t_s` = temps d'arrêt du survivant, `t_k` = temps d'arrêt du tueur). Démonstration : pendant les `t_k` secondes où le tueur est immobile, le survivant court `t_k − t_s` secondes.
+  - **Correction d'audit (pass 14)** : le temps de chase ajouté n'est **pas** `Δécart / v_r` mais `t_k + Δécart / v_r` (le tueur ne rattrape rien pendant son propre arrêt). Vérification : si `t_s = t_k = t`, la capture est retardée de `t` secondes, pas de 0. Écart équivalent « terrain ouvert » (comparé à une chase sans obstacle) : `v_tueur × t_k − 4,0 × t_s`.
+  - `t_s` = 0 pour une palette pré-jetée suppose un drop instantané : la durée d'abaissement est **UNCERTAIN (INV)**, ce qui surestime un peu le gain. Les deux biais se compensent en partie ; ordre de grandeur seulement.
 - **Écart à combler** = distance réelle − portée utile de la fente. La portée utile est **UNCERTAIN** (estimations communautaires de ~2 à 2,5 m de gain par la fente) : les tables ci-dessous donnent l'écart à combler, pas la distance affichée.
 
 ### 2.2 Temps avant d'être rattrapé en ligne droite (terrain ouvert, sans pouvoir)
@@ -151,23 +155,26 @@ Colonne « BL depuis 0 » : la poursuite (et la Bloodlust) commence au moment t 
 | 30 m | 50,0 s | 37,5 s | 30,0 s | 75,0 s | 45,0 s | 36,0 s |
 
 - Les deux valeurs en gras sont celles recalculées par l'audit (A-054) : le seed disait « 10 m ≈ 17 s / 25 s » en oubliant la Bloodlust. Avec une fente de 2-2,5 m (UNCERTAIN), 10 m réels ≈ **12-13 s / 17-18 s** (audit).
-- Lecture pratique (HEURISTIC) : contre un tueur 110 %, 10 m d'avance en terrain ouvert valent presque autant qu'une palette cassée (voir 2.3). Contre un 115 % avec Bloodlust déjà montée, un tile à 20 m est à peine atteignable sans avance.
+- Lecture pratique (HEURISTIC) : contre un tueur 110 %, 10 m d'avance en terrain ouvert valent à peu près autant qu'une palette cassée (voir 2.3). Contre un 115 % avec Bloodlust à +0,4/+0,6 (v_r 1,0-1,2 m/s), atteindre un tile à 20 m (5 s de course) demande un écart réel d'au moins ≈ 5-6 m **plus** la portée de la fente (UNCERTAIN, ~2-2,5 m), soit ≈ 7,5-8,5 m (CALC).
+- Hypothèses de la table : ligne droite, vitesses constantes, aucun reset de Bloodlust, aucun pouvoir, aucune perk de Haste/Hindered. Un seul virage ou un obstacle change le résultat de plusieurs secondes : ne pas s'en servir comme d'un chronomètre exact.
 
 ### 2.3 Ce que vaut chaque interaction, en mètres puis en secondes
 
-| Interaction | Temps perdu par le tueur (FACT) | Gain de distance (CALC) | ≈ secondes de chase vs 4,6 / 4,4 (sans BL) |
+Colonne « secondes » corrigée par l'audit pass 14 : `t_k + Δécart / v_r` (v_r = 0,6 / 0,4 m/s, sans BL). L'ancienne valeur (`Δécart / v_r` seul, temps compté **après** la reprise du tueur) est donnée entre crochets.
+
+| Interaction | Temps perdu par le tueur (FACT) | Δécart réel à la reprise (CALC) | ≈ secondes de chase ajoutées vs 4,6 / 4,4 (sans BL) |
 |---|---|---|---|
-| Fast vault (0,5 s) que le tueur suit (1,7 s) | 1,2 s de différentiel | +4,8 m | ≈ 8 s / 12 s |
-| Medium vault (0,9 s) suivi | 0,8 s | +3,2 m (et perte d'élan, non chiffrée) | ≈ 5 s / 8 s |
-| Slow vault (1,5 s) suivi | 0,2 s | +0,8 m | ≈ 1 s / 2 s — quasi nul |
-| Palette pré-jetée, cassée par le tueur (tu es déjà de l'autre côté) | 2,34 s | +9,4 m **et** Bloodlust remise à 0 | ≈ 16 s / 23 s |
-| Palette déjà au sol : tu la vaultes (1,1 s), il la casse (2,34 s) | 1,24 s de différentiel | +5,0 m, reset BL | ≈ 8 s / 12 s |
-| Stun seul (2 s), il ne casse pas | 2 s | +8 m | ≈ 13 s / 20 s |
-| Stun (2 s) + casse (2,34 s) | 4,34 s | +17,4 m, reset BL | ≈ 29 s / 43 s (si ligne droite ensuite) |
-| Stun contre Enduring III (−50 %) | 1 s | +4 m | ≈ 7 s / 10 s |
-| Casse à la tronçonneuse (1 s) | 1 s | +4 m | ≈ 7 s / 10 s |
-| Coup manqué (cooldown 1,5 s) | 1,5 s moins ce qu'il parcourt pendant le cooldown (INV) | ≤ +6 m | ≤ 10 s / 15 s |
-| Coup reçu : cooldown 2,7 s + boost 1,8 s à 6,6 m/s | 2,7 s moins ce qu'il parcourt pendant le cooldown (INV) | +4,7 m par le boost seul ; ~10-15 m au total selon la vitesse du tueur pendant son cooldown (**HYPOTHESIS**) | ≈ 17-25 s / 25-37 s, mais tu as perdu un état de santé |
+| Fast vault (0,5 s) que le tueur suit (1,7 s) | 1,2 s de différentiel | +4,8 m | ≈ 9,7 s / 13,7 s [8 / 12] |
+| Medium vault (0,9 s) suivi | 0,8 s | +3,2 m (et perte d'élan, non chiffrée) | ≈ 7,0 s / 9,7 s [5 / 8] |
+| Slow vault (1,5 s) suivi | 0,2 s | +0,8 m | ≈ 3,0 s / 3,7 s [1 / 2] — faible, et le tueur peut frapper pendant les 1,5 s |
+| Palette pré-jetée, cassée par le tueur (tu es déjà de l'autre côté) | 2,34 s | +9,4 m **et** Bloodlust remise à 0 | ≈ 17,9 s / 25,7 s [16 / 23] |
+| Palette déjà au sol : tu la vaultes (1,1 s), il la casse (2,34 s) | 1,24 s de différentiel | +5,0 m, reset BL | ≈ 10,6 s / 14,7 s [8 / 12] |
+| Stun seul (2 s), il ne casse pas | 2 s | +8 m (puis détour non compté) | ≈ 15,3 s / 22 s [13 / 20] |
+| Stun (2 s) + casse (2,34 s) | 4,34 s | +17,4 m, reset BL | ≈ 33 s / 48 s [29 / 43] (si ligne droite ensuite) |
+| Stun contre Enduring III (−50 %) | 1 s | +4 m | ≈ 7,7 s / 11 s [7 / 10] |
+| Casse à la tronçonneuse (1 s) | 1 s | +4 m | ≈ 7,7 s / 11 s [7 / 10] |
+| Coup manqué (cooldown 1,5 s) | 1,5 s moins ce qu'il parcourt pendant le cooldown (INV) | ≤ +6 m (si immobile) | ≤ 11,5 s / 16,5 s [10 / 15] |
+| Coup reçu : cooldown 2,7 s + boost 1,8 s à 6,6 m/s | 2,7 s moins ce qu'il parcourt pendant le cooldown (INV) | +4,7 m par le boost seul ; de ≈ +3 m (tueur à pleine vitesse pendant le cooldown) à ≈ +15,5 m (tueur immobile) : bornes CALC ; ~10-15 m en pratique = **HYPOTHESIS** | ≈ 17-25 s / 25-37 s (HYPOTHESIS), mais tu as perdu un état de santé ; reset BL (FACT [audit : SS]) |
 
 Limites (à lire avant d'utiliser ces chiffres) :
 - Les secondes de la dernière colonne supposent qu'après l'interaction tu cours en ligne droite en terrain ouvert. Sur un tile, le gain de distance se convertit autrement (il te permet de refaire un cycle ou d'atteindre le tile suivant).
@@ -189,14 +196,14 @@ Rappel : sauf mention FACT, tout ce qui suit est HEURISTIC / SITUATIONAL. Chaque
    - contre un tueur 110 % (chaque mètre vaut 2,5 s) ;
    - contre les tueurs anti-loop dont le pouvoir punit la boucle plus que la ligne droite (le seed classe ainsi Legion, Clown, Doctor…, à confirmer par tueur au lot 4) ;
    - pour **traverser une dead zone** vers une zone riche en palettes ;
-   - pour éloigner la chase des gens à finir (voir §14 « zoning inversé »).
+   - pour éloigner la chase des gens à finir (voir §4.6 « zoning inversé »).
 4. **Mauvais quand** :
    - tueur à distance ou à mobilité en terrain ouvert (Huntress, Deathslinger, Blight, Nurse…) : la ligne droite est ce qu'ils veulent (lot 4) ;
    - l'écart à combler est < 5 m contre un 115 % : ≈ 8 s au mieux, puis un coup gratuit ;
    - quand tu cours vers un mur de carte, un coin vide ou un tile déjà utilisé (dead end) ;
-   - quand la Bloodlust est déjà à +0,4/+0,6 : le rapprochement double.
+   - quand la Bloodlust est déjà à +0,4/+0,6 : le rapprochement est multiplié par ≈ 1,7-2 (tueur 4,6) ou 2-2,5 (tueur 4,4) (CALC).
 5. **Erreurs fréquentes** : partir en ligne droite sans destination ; se retourner longuement pendant la ligne droite (voir T14) ; oublier que le temps passé à courir compte pour la Bloodlust ; courir vers ses alliés sur un gen.
-6. **Contre-jeu du tueur** : couper l'angle vers ta destination probable (il lit le terrain comme toi) ; utiliser son pouvoir en terrain ouvert ; lâcher la chase si l'avance est trop grande (§14 abandon) ; perks de Haste ou de Hindered (non détaillées ici, voir lots 2-3).
+6. **Contre-jeu du tueur** : couper l'angle vers ta destination probable (il lit le terrain comme toi) ; utiliser son pouvoir en terrain ouvert ; lâcher la chase si l'avance est trop grande (§4.13 abandon) ; perks de Haste ou de Hindered (non détaillées ici, voir lots 2-3).
 7. **Exercice « Chronomètre en ligne droite »** :
    - Objectif : estimer l'écart et le temps restant avant contact.
    - Méthode : en partie personnalisée ou en partie normale, au début de chaque poursuite, annoncer à voix haute l'écart estimé (en mètres) et le temps prévu avant contact avec la table 2.2 ; relire ensuite la VOD.
@@ -293,10 +300,10 @@ Rappel : sauf mention FACT, tout ce qui suit est HEURISTIC / SITUATIONAL. Chaque
    - **Pre-drop** : jeter la palette avant que le tueur soit à portée, sans chercher le stun, pour garantir la distance.
    - **Greed** : garder la palette levée et continuer à boucler (ou vaulter la fenêtre), pour la réutiliser plus tard.
    - **Respect** : côté tueur, s'arrêter ou ralentir devant une palette levée pour ne pas être étourdi.
-2. **Mécanique** : le pre-drop échange une ressource contre une certitude : le tueur doit casser (2,34 s, Bloodlust perdue) ou contourner. Le greed échange du risque (un coup) contre de la ressource conservée et du temps de boucle supplémentaire. La valeur dépend de la distance, de l'état de santé, du pouvoir du tueur et des palettes restantes (voir §14.3 EV d'une palette).
+2. **Mécanique** : le pre-drop échange une ressource contre une certitude : le tueur doit casser (2,34 s, Bloodlust perdue) ou contourner. Le greed échange du risque (un coup) contre de la ressource conservée et du temps de boucle supplémentaire. La valeur dépend de la distance, de l'état de santé, du pouvoir du tueur et des palettes restantes (voir §4.3 EV d'une palette).
 3. **Arbre de décision (HEURISTIC, pas une règle)** :
    - A. Le tueur peut-il me frapper avant que j'atteigne la palette si je greed un cycle de plus ? Oui → pre-drop (ou changer de plan). Non → B.
-   - B. Suis-je blessé, Exposed, dernier crochet, ou le coup me met-il au sol ? Oui → la marge exigée augmente (un coup = fin de chase). Non → un coup coûte un état de santé et une conversion (voir §14.4).
+   - B. Suis-je blessé, Exposed, dernier crochet, ou le coup me met-il au sol ? Oui → la marge exigée augmente (un coup = fin de chase). Non → un coup coûte un état de santé et une conversion (voir §4.4).
    - C. Le tueur a-t-il un pouvoir anti-loop prêt (tir, dash, blink, casse instantanée) ? Oui → pre-drop plus tôt, ou ne pas compter sur la palette.
    - D. Reste-t-il des palettes accessibles dans la zone et un tile suivant atteignable ? Non → la palette vaut plus : greed prudemment ou tenir W avant de la consommer.
    - E. Mes alliés profitent-ils de chaque seconde (gens en cours, loin de la chase) ? Oui → le temps compte plus que la ressource ; non (tous blessés, au crochet, 2 restants) → la survie et les palettes d'avenir comptent plus.
@@ -305,7 +312,7 @@ Rappel : sauf mention FACT, tout ce qui suit est HEURISTIC / SITUATIONAL. Chaque
    - la règle du seed « faites au moins deux tours de fenêtre avant de toucher à la palette » est **absolue** (audit) : contre un tueur à pouvoir ou quand le tueur coupe le tile, le 2e tour coûte un coup ;
    - « une god pallet se garde » : faux si la garder coûte un coup ou si le tueur casse la chase de toute façon.
 5. **Erreurs fréquentes** : greed par habitude (sans réévaluer à chaque cycle) ; pre-drop contre un tueur loin (ressource gaspillée) ; oublier qu'en SoloQ tu ne sais pas si la palette suivante existe encore (un allié peut l'avoir utilisée).
-6. **Contre-jeu du tueur** : alterner respect et non-respect pour rendre ton greed risqué ; casser la palette tôt pour interdire le greed ; zoner vers la palette cassée (§14.6).
+6. **Contre-jeu du tueur** : alterner respect et non-respect pour rendre ton greed risqué ; casser la palette tôt pour interdire le greed ; zoner vers la palette cassée (§4.6).
 7. **Exercice « Justifier chaque palette »** :
    - Objectif : que chaque palette jetée ait une raison.
    - Méthode : après 10 parties, pour chaque palette jetée, écrire A-F ci-dessus en 1 ligne.
@@ -363,7 +370,7 @@ Rappel : sauf mention FACT, tout ce qui suit est HEURISTIC / SITUATIONAL. Chaque
    - FACT [audit : SS] la tache vient de la tête, dans la direction où il regarde et se déplace ; le tueur ne la voit pas ; Undetectable la supprime.
    - FACT [audit : SS] le wiki décrit la marche à reculons / de côté autour des murs comme technique pour tromper.
    - UNCERTAIN : l'effet de regarder vers le bas (cacher la tache), la vitesse du tueur en marche arrière.
-   - Pourquoi ça marche : derrière un mur, le survivant voit la tache dépasser et en déduit la direction du tueur. La tache suit la **caméra**, pas le **corps** : si caméra et déplacement divergent, l'information ment.
+   - Pourquoi ça marche : derrière un mur, le survivant voit la tache dépasser et en déduit la direction du tueur. HYPOTHESIS (déduite de la description du moonwalk par le wiki, non formulée ainsi par l'audit) : la tache suit surtout la **caméra** (le regard) ; si caméra et déplacement divergent, l'information ment.
 3. **Utile (lecture)** :
    - quand tu n'as pas la LOS sur le corps mais vois la tache au-dessus/à côté d'un mur ;
    - pour détecter un tueur qui attend derrière un coin (la tache « immobile » ou qui balaie) ;
@@ -376,7 +383,7 @@ Rappel : sauf mention FACT, tout ce qui suit est HEURISTIC / SITUATIONAL. Chaque
    - croire que la tache indique le déplacement (elle indique le regard) ;
    - réagir à une tache qui « disparaît » en supposant que le tueur est parti (il peut regarder au sol ou être Undetectable) ;
    - se retourner pour chercher la tache au lieu d'écouter les pas.
-6. **Contre-jeu (du tueur, pour tromper la lecture)** : moonwalk autour des murs hauts, balayage de caméra, attente sans bouger ; **et contre-contre-jeu survivant** : prendre un checkspot qui montre le corps (T14), écouter les pas, jouer le côté du tile qui reste sûr quelle que soit la direction (« option coverage » du survivant, §14.7).
+6. **Contre-jeu (du tueur, pour tromper la lecture)** : moonwalk autour des murs hauts, balayage de caméra, attente sans bouger ; **et contre-contre-jeu survivant** : prendre un checkspot qui montre le corps (T14), écouter les pas, jouer le côté du tile qui reste sûr quelle que soit la direction (« option coverage » du survivant, §4.7).
 7. **Exercice « Tache vs corps »** :
    - Objectif : ne plus se faire prendre par le moonwalk.
    - Méthode : avec un ami tueur, 20 boucles sur un jungle gym à murs hauts ; il moonwalke ou non au hasard (tirage à pile ou face noté avant chaque boucle).
@@ -386,7 +393,7 @@ Rappel : sauf mention FACT, tout ce qui suit est HEURISTIC / SITUATIONAL. Chaque
 ### T09 — Double-back
 
 1. **Définition** : faire demi-tour brusquement (souvent juste après être sorti de la LOS du tueur) pour exploiter son engagement dans l'autre sens.
-2. **Mécanique** : le tueur doit engager son trajet avant de savoir où tu vas (il ne voit pas à travers les murs hauts). Chaque changement de sens le force à refaire la moitié du tile. Son avantage de vitesse (0,4-0,6 m/s) ne compense pas un trajet plus long de plusieurs mètres. Hors LOS, le double-back peut aussi casser la lecture des griffures (elles apparaissent sur les deux trajets pendant 10 s : FACT [audit : SS]).
+2. **Mécanique** : le tueur doit engager son trajet avant de savoir où tu vas (il ne voit pas à travers les murs hauts). Chaque changement de sens le force à refaire la moitié du tile. Son avantage de vitesse ne rattrape que 0,4-0,6 m **par seconde** de trajet (sans Bloodlust ; jusqu'à 1,0-1,2 m/s avec) : un détour de 4 m est compensé en ≈ 7-10 s sans Bloodlust, en ≈ 3-4 s avec Bloodlust max (CALC). Le double-back paie donc sur un cycle court, beaucoup moins sur une longue boucle. Hors LOS, le double-back peut aussi casser la lecture des griffures (elles apparaissent sur les deux trajets pendant 10 s : FACT [audit : SS]).
 3. **Utile quand** : tueur engagé loin dans l'autre sens ; tiles à murs hauts (shack, jungle gym, maze) ; il te suit à la trace plutôt qu'à la vue ; contre un tueur qui « précommande » un mindgame (il attend, tu repars dans l'autre sens).
 4. **Mauvais quand** : le tueur a la LOS (il voit ton demi-tour) ; murs bas ; tueur à distance ou mobilité (un demi-tour prévisible offre un tir ou un blink : lot 4 note que contre une Nurse experte le double-back devient lisible) ; double-back vers une fenêtre déjà vaultée 2 fois.
 5. **Erreurs fréquentes** : double-back systématique au même endroit (appris par le tueur en 1-2 boucles) ; double-back sans info sur la position du tueur (tu cours dans ses bras) ; oublier que le tueur peut faire le même demi-tour (son double-back à lui).
@@ -414,11 +421,11 @@ Rappel : sauf mention FACT, tout ce qui suit est HEURISTIC / SITUATIONAL. Chaque
 ### T11 — Pathing (trajet sur et entre les tiles)
 
 1. **Définition** : choix du chemin : quel côté du tile, où entrer, où sortir, vers quel tile suivant.
-2. **Mécanique** : un loop fonctionne quand **ton** trajet jusqu'au point de sécurité (fenêtre, palette, coin) est plus court que **le sien**. Le pathing consiste à maintenir cette différence en tenant compte de tous ses trajets possibles (principe correct du seed : « distance maximale avec tous les chemins possibles du tueur »). Le tile suivant doit être choisi avant d'en avoir besoin : FACT [audit : SS] les palettes sont espacées d'au moins 14-20 m, donc chaque transition coûte au minimum 3,5-5 s de course.
+2. **Mécanique** : un loop fonctionne quand tu atteins le point de sécurité (fenêtre, palette, coin) **en moins de temps** que le tueur n'en met pour arriver à portée de fente. Comme il est plus rapide, « un trajet plus court que le sien » ne suffit pas : il faut (CALC, audit pass 14) `ton trajet × v_tueur / 4,0 < son trajet − portée de fente`, soit ton trajet × 1,15 (tueur 4,6) ou × 1,10 (tueur 4,4), + ~2-2,5 m de fente (UNCERTAIN), + ~0,2 m par seconde de trajet par palier de Bloodlust. Exemple : ton trajet 10 m, le sien 13 m, fente 2,5 m → 10,5 m disponibles contre 11,5 m requis (4,6) ou 11 m (4,4) : **pas sûr**, alors que « 3 m de moins que lui, plus que la fente » semblait suffire. Il faudrait ici plus de ≈ 13,5 m (4,4) ou 14 m (4,6) de trajet pour lui, sans Bloodlust. Le pathing consiste à maintenir cette marge en tenant compte de tous ses trajets possibles (principe correct du seed : « distance maximale avec tous les chemins possibles du tueur »). Le tile suivant doit être choisi avant d'en avoir besoin : FACT [audit : SS] deux **palettes** sont espacées d'au moins 14-20 m, donc une transition **de palette à palette** coûte au moins 3,5-5 s de course (CALC) ; une transition vers une fenêtre ou un tile sans palette peut être plus courte.
 3. **Utile** : toujours ; surtout en début de chase (choisir la zone la plus riche) et en fin de tile (transition).
 4. **Mauvais / piège** : pathing « parfait » sur un tile mais qui mène à une dead zone ; pathing qui ramène la chase vers les gens de tes alliés ou vers un crochet proche.
 5. **Erreurs fréquentes** : courir au milieu des couloirs (trajet plus long) ; entrer dans un tile par le côté qui donne le choix au tueur ; ne pas connaître la position des palettes utilisées par l'équipe (SoloQ) ; se bloquer dans le décor.
-6. **Contre-jeu du tueur** : se placer pour te « pousser » vers une zone vide (zoning, §14.6) ; bloquer l'entrée du tile suivant ; casser les palettes de transition.
+6. **Contre-jeu du tueur** : se placer pour te « pousser » vers une zone vide (zoning, §4.6) ; bloquer l'entrée du tile suivant ; casser les palettes de transition.
 7. **Exercice « Carte mentale »** :
    - Objectif : avoir toujours le tile suivant en tête.
    - Méthode : pendant chaque chase, annoncer « suivant : X » dès que tu arrives sur un tile.
@@ -539,7 +546,7 @@ Rappel : sauf mention FACT, tout ce qui suit est HEURISTIC / SITUATIONAL. Chaque
 
 1. **Définition** : maintenir en permanence une distance suffisante par rapport à **tous** les trajets possibles du tueur, et savoir quand dépenser cette distance.
 2. **Mécanique** : la distance est convertible en temps (section 2 : 1 m ≈ 1,67 s vs 115 %, 2,5 s vs 110 % sans Bloodlust). Elle se gagne par les ressources (vault, stun, casse), par les erreurs du tueur (fente ratée : 1,5 s de cooldown) et par le coup reçu (boost 1,8 s). Elle se perd par la ligne droite, la Bloodlust, les virages larges, les feintes ratées, les slow/medium vaults.
-3. **Utile** : toujours ; la question est « combien de mètres d'avance me faut-il pour que ce tile soit sûr ? ». Heuristique : une boucle est sûre si l'avance est supérieure à la différence entre ton trajet et le sien plus la portée de sa fente (UNCERTAIN, ~2-2,5 m).
+3. **Utile** : toujours ; la question est « combien de mètres d'avance me faut-il pour que ce tile soit sûr ? ». Condition (CALC, corrigée par l'audit pass 14 — l'ancienne formulation « avance > différence de trajets + fente » oubliait l'écart de vitesse) : une boucle est sûre si `son trajet jusqu'à ta ressource − portée de fente > ton trajet × v_tueur / 4,0` (× 1,15 contre un 4,6, × 1,10 contre un 4,4, davantage avec la Bloodlust). Portée de fente UNCERTAIN (~2-2,5 m). Les trajets ne sont pas mesurables en jeu à 1 m près : l'usage pratique est de **garder une marge** (HEURISTIC), pas de calculer.
 4. **Mauvais / piège** : « trop » de distance peut faire lâcher la chase par le tueur (bon pour l'équipe s'il perd du temps à chercher, mauvais s'il trouve un allié plus faible) ; la distance brute est dévaluée contre les tueurs à mobilité.
 5. **Erreurs fréquentes** : entrer dans un tile sans avance (tu n'as pas le temps de choisir le côté) ; dépenser une ressource pour gagner une distance inutile ; ignorer la Bloodlust.
 6. **Contre-jeu du tueur** : couper les angles, zoner, attaques à distance, Haste.
@@ -555,11 +562,11 @@ Rappel : sauf mention FACT, tout ce qui suit est HEURISTIC / SITUATIONAL. Chaque
 2. **Mécanique** :
    - FACT [audit : SS] palettes définitives une fois cassées, partagées avec l'équipe ; fenêtre bloquée 30 s pour toi après le 3e vault ; Exhausted ne récupère pas en courant ; protections de décrochage 10 s (Endurance + 10 % Haste + Elusive, FACT [audit : VP]).
    - FACT [audit : VP] pas de DR sur le nombre de palettes ou les blocages (9.6.0).
-   - La valeur d'une ressource dépend de ce qui reste : la dernière palette d'une zone vaut plus que la première (§14.3).
+   - La valeur d'une ressource dépend de ce qui reste : la dernière palette d'une zone vaut plus que la première (§4.3).
 3. **Utile** : penser en « budget de chase » : combien de secondes chaque ressource peut acheter, et lesquelles l'équipe utilisera ensuite.
 4. **Mauvais / piège** : sur-économiser (mourir avec 4 palettes debout autour de soi n'a rien rapporté) ; sous-économiser en début de partie (les zones mortes de fin de partie coûtent des crochets).
 5. **Erreurs fréquentes** : utiliser la perk d'épuisement pour atteindre un tile faible ; consommer les palettes du côté de la carte où l'équipe aura besoin de jouer l'endgame ; ne pas savoir qu'un allié a déjà consommé une palette (SoloQ).
-6. **Contre-jeu du tueur** : forcer l'utilisation des ressources (pression tôt, casse systématique des palettes fortes), puis ramener la chase dans la zone vidée (resource denial, §14.5).
+6. **Contre-jeu du tueur** : forcer l'utilisation des ressources (pression tôt, casse systématique des palettes fortes), puis ramener la chase dans la zone vidée (resource denial, §4.5).
 7. **Exercice « Inventaire »** :
    - Objectif : connaître les ressources de la zone.
    - Méthode : à chaque début de chase, compter les palettes debout visibles dans ~30 m ; en fin de partie, compter combien il en restait autour de chaque mort.
@@ -597,7 +604,7 @@ Rappel : sauf mention FACT, tout ce qui suit est HEURISTIC / SITUATIONAL. Chaque
    - « le seuil est de 300 ms » : non confirmé officiellement ;
    - « tel coup était impossible » : sans enregistrement des deux points de vue, impossible à trancher.
 5. **Erreurs fréquentes** : attribuer à la latence des coups dus à la Bloodlust, à un medium vault ou à une fente mal évaluée ; jouer « au pixel » (tu perds contre la latence cumulée).
-6. **Contre-jeu du tueur** : aucun à « exploiter » volontairement ; un tueur qui frappe tôt au bout de sa fente profite mécaniquement de la latence.
+6. **Contre-jeu du tueur** : aucun à « exploiter » volontairement ; HYPOTHESIS (déduite du modèle réseau CO, non vérifiée) : un tueur qui frappe tôt au bout de sa fente profite davantage de la latence.
 7. **Exercice « Autopsie de coup »** :
    - Objectif : distinguer latence et erreur.
    - Méthode : pour 20 coups « injustes » en VOD, vérifier : palier de Bloodlust, type de vault, distance réelle au début de la fente.
@@ -616,7 +623,19 @@ Rappel : sauf mention FACT, tout ce qui suit est HEURISTIC / SITUATIONAL. Chaque
    - Objectif : savoir si le 360 est rentable pour toi, contre quel type de tueur.
    - Méthode : partie personnalisée avec un ami tueur M1, 20 tentatives à courte distance en terrain ouvert.
    - Métrique : % de fentes ratées provoquées ; distance perdue en cas d'échec.
-   - Réussite : ne l'utiliser en partie que si ton taux mesuré dépasse nettement 50 % contre ce type de tueur (HEURISTIC).
+   - Réussite (HEURISTIC) : le seuil n'est pas 50 %. Si le coup était **inévitable** sans le 360 (aucune ressource atteignable), tout taux de réussite > 0 est un gain ; si tu pouvais encore atteindre un tile, un échec coûte un coup (`C_hit`, §4.3-4.4) alors qu'un succès rapporte au plus ≈ 11 s (table 2.3) : il faut alors un taux très élevé. Un taux mesuré contre un ami en partie personnalisée surestime ton taux contre un tueur expérimenté qui retient sa fente.
+
+### T23 — Pre-run et début de chase (ajout de l'audit pass 14 : technique majeure absente du brouillon)
+
+Tout ce bloc est **HEURISTIC** (aucune source lue, aucune valeur mesurée) ; le lot 4 (`batch4_killers_g6.md`) emploie déjà le terme « pre-running ».
+
+1. **Définition** : commencer à se déplacer vers une zone forte **avant** que la poursuite ne commence, dès qu'un signal indique que le tueur arrive (TR qui monte, corbeaux, gen voisin frappé, tueur vu au loin).
+2. **Mécanique** : la poursuite (et donc la Bloodlust) ne démarre qu'avec les 3 conditions de 1.4 (≤ 12 m, dans son champ de vision, tu cours : FACT [audit : SS]). Chaque mètre gagné avant ce moment est un mètre d'avance « gratuit » : il vaut 1,67-2,5 s de chase (CALC, section 2) sans consommer de ressource. Inversement, lâcher un gen trop tôt coûte des secondes de réparation.
+3. **Quand** (SITUATIONAL) : tu répares dans une dead zone ; tu es blessé ; le tueur est un M1 dont l'approche s'entend (TR) ; tu sais qu'il vient vers toi (il a frappé le gen voisin, il a raté un autre survivant à proximité).
+4. **Mauvais quand** : le tueur ne venait pas vers toi (tu perds des secondes de gen, et une course bruyante laisse des griffures qui l'attirent) ; contre un tueur furtif (pas de signal fiable, lot 4) ; si partir te fait traverser une zone ouverte en vue d'un tueur à distance ; si tu pre-runs vers la zone où tes alliés réparent.
+5. **Erreurs fréquentes** : pre-run au moindre TR (le TR ne dit pas qu'il vient vers toi) ; pre-run **en courant** alors que marcher suffirait (griffures : FACT [audit : SS]) ; pre-run vers un tile déjà vidé ; ne pas regarder d'où il arrive avant de choisir le côté.
+6. **Contre-jeu du tueur** : approche Undetectable ou par un angle masqué, patrouille qui feint de passer, perks d'aura.
+7. **Exercice « Premier contact »** : sur 10 parties, noter à chaque début de chase la distance estimée au premier contact et si tu étais déjà en route vers un tile. Métrique : durée des chases avec pre-run vs sans. Réussite : une différence mesurée sur tes propres parties (aucun seuil n'est proposé sans données).
 
 ---
 
@@ -627,7 +646,7 @@ Principe : **une chase ne se juge pas à « ai-je survécu ? » mais à « combi
 ### 4.1 L'unité : la seconde de chase convertie en générateurs
 
 - FACT [audit : VMS] 1 gen = 90 secondes-survivant ; 5 gens = 450.
-- Modèle : `valeur d'1 s de chase = n × e secondes-survivant`, où `n` = alliés qui réparent **chacun un gen différent** (0 à 3) et `e` = efficacité réelle (déplacements, skill checks ratés, interruptions). `e` n'est pas mesuré : j'utilise **e = 0,8** (HYPOTHESIS ; le seed proposait « retirez 20 à 30 % », non sourcé).
+- Modèle : `valeur d'1 s de chase = n × e secondes-survivant`, où `n` = alliés qui réparent **chacun un gen différent** (0 à 3) et `e` = efficacité réelle (déplacements, skill checks ratés, interruptions). `e` n'est pas mesuré : j'utilise **e = 0,8** (HYPOTHESIS ; le seed proposait « retirez 20 à 30 % », non sourcé). `e` peut aussi **dépasser 1** (Great skill checks +1 % : FACT [audit : SS] ; boîtes à outils et perks de réparation, valeurs hors audit) ou tomber bien plus bas (skill check raté −10 % + 3 s bloquées : FACT [audit : SS] ; coups de pied et régression). Les autres fichiers (lot 9 §camp, lot 11) utilisent e = 1 : les chiffres ne sont comparables qu'à `e` égal.
 - Si deux alliés partagent un gen : FACT [audit : SS] 1,7 charge/s au lieu de 2 → perte de 15 %.
 - Correction du seed : « chaque seconde de chase vaut environ un tiers de générateur » (ch. 7, audit A-267) est **faux** : c'est ≈ 1/30 de gen (3 réparateurs, e = 1), ≈ 1/37 avec e = 0,8. Le chapitre 1 du seed (« 30 s ≈ 1 gen avec 3 alliés ») était juste dans l'hypothèse idéale.
 
@@ -660,7 +679,7 @@ Principe : **une chase ne se juge pas à « ai-je survécu ? » mais à « combi
 | Wiggle | 16 s cumulées max | SS | Au-delà, le survivant se libère |
 | Chercher après une perte de chase | non mesurable | — | Souvent le plus gros coût caché (HYPOTHESIS) |
 
-Lecture : le « prix » d'une palette pour le tueur n'est pas 2,34 s mais **2,34 s + la distance offerte (9,4 m) + la Bloodlust perdue**. En secondes de chase supplémentaires contre un 115 % : ≈ 15-16 s en terrain ouvert (CALC, section 2.3).
+Lecture : le « prix » d'une palette pour le tueur n'est pas 2,34 s mais **2,34 s + la distance offerte (9,4 m) + la Bloodlust perdue**. En secondes de chase supplémentaires contre un 115 % : ≈ 16 s après sa reprise, ≈ 18 s en comptant la casse elle-même (CALC corrigé, section 2.3), en terrain ouvert. Exception : Blight — sa casse en Lethal Rush est instantanée, mais depuis 9.6.0 casser une palette au sol ramène ses tokens de Rush à 2 sous le max et remet la recharge à 0 % (FACT [audit : VP]) : le prix est payé en pouvoir, pas en secondes.
 
 ### 4.3 Expected value (EV) d'une palette
 
@@ -669,15 +688,33 @@ Lecture : le « prix » d'une palette pour le tueur n'est pas 2,34 s mais **2,34
    - `T_loop` = secondes de chase gagnées par un cycle de plus sur le tile (non mesuré ; dépend du tile, lot 7) ;
    - `p` = probabilité d'être touché pendant ce cycle (dépend du tueur, de sa Bloodlust, de son pouvoir, de ton avance) ;
    - `C_hit` = coût d'un coup reçu, exprimé en secondes de chase perdues (§4.4) ;
-   - Greed d'un cycle puis drop vs drop immédiat : `ΔEV ≈ (1 − p) × T_loop − p × C_hit`.
-   - **Greed rentable si `p < T_loop / (T_loop + C_hit)`**.
-3. **Exemples chiffrés** (tueur M1 115 %, 3 alliés sur gens ; `T_loop` = 10 s : HYPOTHESIS) :
-   - Sain, `C_hit` ≈ 17 s (voir 4.4) → seuil p* = 10 / 27 ≈ **0,37**. Si tu estimes p = 0,25 : ΔEV = 7,5 − 4,25 = **+3,25 s** → greed raisonnable.
+   - Greed d'un cycle puis drop vs drop immédiat : `ΔEV ≈ (1 − p) × T_loop − p × C_hit` (**HYPOTHESIS**).
+   - Seuil d'indifférence (**HYPOTHESIS**, pas une règle) : greed favorable en espérance si `p < p* = T_loop / (T_loop + C_hit)`.
+   - **Cohérence dimensionnelle** (vérifiée, audit pass 14) : `T_loop` et `C_hit` doivent être dans la **même unité**. Ici « secondes de chase », avec `C_hit (s de chase) = C_hit (s-s) / (n × e)`. `p*` est alors sans dimension. Conséquence souvent oubliée : `C_hit` exprimé en secondes de chase **dépend de n** (un coup coûte à peu près les mêmes s-s, mais chaque seconde de chase en rapporte moins quand moins d'alliés réparent). Moins d'alliés sur les gens → `C_hit` plus grand → `p*` plus bas → greed moins justifié.
+   - **Hypothèses cachées du modèle** (toutes non vérifiées) :
+     1. le drop immédiat est supposé sans risque (`p_drop` = 0) ; en réalité il faut comparer `p_greed − p_drop` (coup pendant l'animation, casse instantanée, tir) ;
+     2. une seule décision : sur plusieurs cycles, `p` augmente à chaque cycle (Bloodlust +0,2 m/s par palier, tueur qui apprend ton trajet) ; le modèle ne s'applique qu'au **prochain** cycle ;
+     3. `p` n'est pas exogène : un tueur qui voit que tu greed systématiquement cesse de respecter la palette ; à haut niveau, un greed prévisible fait monter `p` ;
+     4. branche « coup » : le coup n'annule pas tout le cycle (gain partiel ignoré), la palette reste souvent debout, et le coup sain donne un boost + reset de Bloodlust (≈ 17-25 s de chase selon la table 2.3, HYPOTHESIS) : ces trois effets **réduisent** `C_hit` sain ; à l'inverse, le coût d'être blessé pour la suite (prochain coup = au sol) l'**augmente**. Signe net inconnu ;
+     5. la valeur future de la palette est supposée identique dans les deux branches (en réalité, un drop tardif avec Bloodlust plus haute rapporte un reset plus précieux, mais le tueur peut aussi casser la palette « à froid » plus tard) ;
+     6. un état de crochet a une valeur qui ne se convertit pas en secondes (un 3e crochet tue et retire un réparateur pour toute la partie) : pour un survivant blessé à 2 crochets, `C_hit` en secondes **sous-estime** le coût ;
+     7. `p` n'est pas observable en jeu : personne ne distingue en direct p = 0,25 de p = 0,37.
+3. **Exemples chiffrés** (tueur M1 115 %, 3 alliés sur gens chacun sur un gen, e = 0,8 ; `T_loop` = 10 s : HYPOTHESIS) :
+   - Sain, `C_hit` ≈ 17 s (voir 4.4) → seuil p* = 10 / 27 ≈ **0,37**. Si tu estimes p = 0,25 : ΔEV = 7,5 − 4,25 = **+3,25 s** → greed défendable **dans ce modèle**.
    - Blessé, `C_hit` ≈ 50 s (le coup = fin de chase + crochet) → p* = 10 / 60 ≈ **0,17**. Avec le même p = 0,25 : ΔEV = 7,5 − 12,5 = **−5 s** → drop.
    - Sain mais tueur anti-loop avec pouvoir prêt, p = 0,5 : ΔEV = 5 − 8,5 = **−3,5 s** → drop (ou quitter le tile).
-   - Leçon : le seuil de risque acceptable est **deux fois plus bas** blessé que sain. « Toujours greed » et « toujours pre-drop » sont faux tous les deux.
-4. **Valeur future de la palette** : une palette gardée pour plus tard vaut environ ce qu'elle rapportera au prochain usage (≈ +9,4 m et reset de Bloodlust, soit ≈ 15 s de chase contre un 115 % : CALC) × la probabilité qu'elle serve encore (toi ou un allié). Plus la zone est pauvre en palettes, plus cette valeur future monte (resource economy, §4.5).
-5. **Mauvais usage du modèle** : prendre ces chiffres pour des mesures. Les paramètres `T_loop` et `p` sont des estimations de joueur ; le modèle sert à **ordonner** les options, pas à calculer un résultat exact.
+   - Leçon : dans ce modèle, le seuil de risque acceptable est **environ deux fois plus bas** blessé que sain (0,37 / 0,17 ≈ 2,2). « Toujours greed » et « toujours pre-drop » sont faux tous les deux.
+   - **Sensibilité de p*** (CALC sur le modèle HYPOTHESIS ; `C_hit` en s de chase : 17 = sain n = 3 ; 26 = sain n = 2 (42 / 1,6) ; 50 = blessé n = 3 ; 78 = blessé n = 2, milieu de 62-94) :
+
+| `T_loop` | sain, n = 3 (C = 17) | sain, n = 2 (C = 26) | blessé, n = 3 (C = 50) | blessé, n = 2 (C ≈ 78) |
+|---|---|---|---|---|
+| 5 s (tile faible) | 0,23 | 0,16 | 0,09 | 0,06 |
+| 10 s | 0,37 | 0,28 | 0,17 | 0,11 |
+| 15 s (tile fort) | 0,47 | 0,37 | 0,23 | 0,16 |
+
+   - Lecture de la table : le seuil varie d'un facteur ~8 selon le tile, l'état de santé et le nombre d'alliés sur les gens. Ce qui est **robuste** (ne dépend pas des valeurs exactes) : l'ordre des situations. Blessé, tile faible, peu d'alliés sur les gens → quasiment aucun risque n'est acceptable ; sain, tile fort, 3 alliés sur les gens → un risque modéré l'est. Ce qui est **fragile** : toute valeur précise de p*.
+4. **Valeur future de la palette** : une palette gardée pour plus tard vaut environ ce qu'elle rapportera au prochain usage (≈ +9,4 m et reset de Bloodlust, soit ≈ 16-18 s de chase contre un 115 % : CALC corrigé, table 2.3) × la probabilité qu'elle serve encore (toi ou un allié). Plus la zone est pauvre en palettes, plus cette valeur future monte (resource economy, §4.5).
+5. **Mauvais usage du modèle** : prendre ces chiffres pour des mesures, ou appliquer p* comme un seuil en partie. Les paramètres `T_loop`, `p` et `C_hit` sont des estimations de joueur (aucun n'est mesuré, aucune source experte lue) ; le modèle sert à **ordonner** les options et à rendre visibles les facteurs (état de santé, alliés sur gens, pouvoir du tueur, qualité du tile), pas à calculer un résultat. En partie, utiliser l'arbre T05 ; le modèle sert à l'analyse de VOD.
 6. **Erreurs fréquentes** : oublier `C_hit` (penser seulement à « gagner une boucle ») ; surestimer `T_loop` sur un tile faible ; ignorer que `p` augmente avec la Bloodlust (+0,2 à +0,6 m/s).
 7. **Contre-jeu du tueur** : augmenter ton `p` (pouvoir, mindgame, zoning) ou réduire ton `T_loop` (couper le tile, Bamboozle, casse tôt).
 8. **Exercice « EV à froid »** : après 5 parties, choisir 10 décisions de palette en VOD ; estimer `p` et `T_loop` avant de regarder la suite ; comparer à ce qui s'est passé. Métrique : décisions où ton choix était le meilleur selon ton propre modèle. Réussite : ≥ 70 % de décisions cohérentes avec le modèle (HEURISTIC), et liste de tes biais (greed blessé, pre-drop trop tôt…).
@@ -699,6 +736,7 @@ Lecture : le « prix » d'une palette pour le tueur n'est pas 2,34 s mais **2,34
 3. **Conversion en secondes de chase** (3 alliés, e = 0,8 → 2,4 s-s par seconde) :
    - Coup sain → blessé, puis soin altruiste : ≈ 42 s-s ≈ **17 s de chase** (c'est le `C_hit` sain de 4.3) ;
    - Coup blessé → au sol : chase perdue + crochet ≈ 100-150 s-s ≈ **40-60 s de chase** (`C_hit` blessé ≈ 50 s).
+   - Avec 2 alliés sur gens (1,6 s-s par seconde) : ≈ 26 s (sain) et ≈ 62-94 s (blessé). Ces conversions sont des **HYPOTHESIS** : le soin peut ne jamais avoir lieu (on reste blessé, lot 9 : un soin est « proche de l'équilibre »), les déplacements (10 s-s) sont une supposition, et le coût d'un état de crochet n'est pas entièrement convertible en secondes.
 4. **Mauvais raisonnement** : « une blessure n'est pas grave puisque je cours aussi vite » (FACT : même vitesse) — le coût est dans le soin ou dans la chase suivante, pas dans la vitesse.
 5. **Utile** : décider de se soigner ou non (lot 9) ; décider du greed (4.3) ; accepter un coup volontaire (body block, lot 5) quand l'échange est rentable.
 6. **Contre-jeu du tueur** : laisser les survivants blessés (pression de soin), perks de Mangled/Haemorrhage/Broken (lot 3).
@@ -709,7 +747,7 @@ Lecture : le « prix » d'une palette pour le tueur n'est pas 2,34 s mais **2,34
 1. **Définition** : la carte offre un stock fini de ressources de chase (palettes surtout ; fenêtres renouvelables mais bloquables 30 s par survivant). Le **resource denial** consiste à retirer des ressources à l'adversaire.
 2. **Mécanique** :
    - FACT [audit : SS] palettes espacées d'au moins 14-20 m ; FACT [audit : VP] densités revues en 9.2.0 / 9.3.0 / 9.3.2 ; pas de DR sur les palettes (9.6.0).
-   - Côté tueur : casser une palette coûte 2,34 s maintenant mais retire à tous les survivants un futur gain de ≈ 15 s de chase (CALC) ; c'est souvent rentable **même quand la chase actuelle n'en a pas besoin** (HEURISTIC).
+   - Côté tueur : casser une palette coûte 2,34 s maintenant mais retire à tous les survivants un futur gain de ≈ 16-18 s de chase (CALC, table 2.3) ; c'est souvent rentable **même quand la chase actuelle n'en a pas besoin** (HEURISTIC).
    - Côté survivant : le « denial » consiste à retirer au tueur ses ressources à lui : Bloodlust (forcer les casses), info (marcher, LOS, Elusive après décrochage), crochets proches (sabotage, lot 5), temps de pouvoir (esquiver les charges).
 3. **Utile** : déplacer la chase vers les zones **encore riches** ; garder les palettes proches des gens restants pour la fin de partie ; en SWF, annoncer les palettes utilisées.
 4. **Mauvais** : se « garder » des palettes jusqu'à la mort (valeur future jamais réalisée) ; déplacer la chase vers une zone riche mais pleine d'alliés sur gens.
@@ -794,16 +832,18 @@ Lecture : le « prix » d'une palette pour le tueur n'est pas 2,34 s mais **2,34
    - soin du décroché (il est blessé) : 32 s-s en altruiste (FACT 16 s × 2) ;
    - retour sur un gen : ≈ 10 s-s ;
    - **Total ≈ 80-120 s-s** (≈ 0,9-1,3 gen), plus 1 état de crochet sur 12 pour le tueur.
-3. **Seuils indicatifs (CALC sur ce modèle, 3 alliés sur gens, e = 0,8 ; portage de ~8 s)** :
+3. **Seuils indicatifs — HYPOTHESIS** (arithmétique exacte, mais sur un modèle non vérifié : 3 alliés chacun sur un gen, e = 0,8, portage de ~8 s, ramassage non compté car UNCERTAIN) :
+   - Dimension : `n × e` (s-s par seconde) × durée (s) = s-s, comparé à un coût en s-s : cohérent.
    - **Seuil de non-recul** (la chase + le portage compensent le coût du crochet) : `2,4 × (T + 8) ≥ 80-120` → **T ≈ 25-42 s**.
    - **Seuil de rythme** (en plus, l'équipe avance au rythme nécessaire : 450 s-s à produire pendant que le tueur accumule ~9-12 états de crochet, soit ≈ 37,5-50 s-s par état) : `2,4 × (T + 8) ≥ 80-120 + 37,5-50` → **T ≈ 41-63 s**.
-   - Avec seulement 2 alliés sur gens (1,6 s-s par seconde), ces seuils sont multipliés par ~1,5.
-   - Ces seuils ignorent la régression, les perks, les 3-gens, les slugs et le fait qu'un décès retire un réparateur : ils donnent un **ordre de grandeur**, pas une règle.
-4. **Exemple chiffré « chase perdue mais rentable »** : chase de 90 s, 3 alliés sur gens, e = 0,8 → 216 s-s (2,4 gens) ; portage de 25 m ≈ 6,8 s + accrochage 1,5 s → ≈ 20 s-s de plus ; coût du crochet ≈ 100 s-s. **Net ≈ +136 s-s (≈ 1,5 gen)** pour 1 état de crochet sur 12. C'est une chase gagnante pour l'équipe, bien qu'elle finisse au crochet.
-5. **Contre-exemple** : chase de 20 s avec 2 alliés sur gens (le 3e en SoloQ vient « aider ») → 1,6 × 28 ≈ 45 s-s ; coût du crochet ≈ 100 s-s → **net ≈ −55 s-s**. Même si tu t'échappes plus tard, cette séquence a coûté l'équivalent de 0,6 gen.
+   - Avec seulement 2 alliés sur gens (1,6 s-s par seconde) : non-recul **T ≈ 42-67 s**, rythme **T ≈ 65-98 s** (CALC exact ; « × 1,5 » n'était qu'une approximation, la constante de portage ne se multiplie pas).
+   - Ce que ces seuils **ignorent** (audit pass 14) : (a) le temps de recherche et de trajet du tueur **entre** deux chases, pendant lequel les gens avancent aussi — le seuil de rythme exige donc de la chase seule plus qu'il ne faut (biais pessimiste) ; (b) le 3e crochet (mort : pas de sauvetage ni de soin à payer, mais −1 réparateur pour le reste de la partie ; voir lot 9, répartition des crochets) ; (c) la phase 2 du crochet ; (d) la régression, les perks, les 3-gens, les slugs ; (e) le risque de trade pendant le sauvetage. Ils donnent un **ordre de grandeur** pour relire une partie, pas une durée minimale à « tenir ».
+   - Ne pas en déduire « une chase de moins de 25 s est une faute » : une chase courte peut être inévitable (tueur à pouvoir, dead zone, spawn) et le bon réflexe est alors de réduire le coût du crochet (sauvetage rapide, pas de soin inutile), pas de prendre plus de risques en chase.
+4. **Exemple chiffré « chase perdue mais rentable »** : chase de 90 s, 3 alliés sur gens, e = 0,8 → 216 s-s (2,4 gens) ; portage de 25 m ≈ 6,8 s + accrochage 1,5 s → ≈ 20 s-s de plus ; coût du crochet ≈ 100 s-s. **Net ≈ +136 s-s (≈ 1,5 gen)** pour 1 état de crochet sur 12, au-dessus du rythme requis (37,5-50 s-s par état). Dans ce modèle (HYPOTHESIS), c'est une chase favorable à l'équipe bien qu'elle finisse au crochet — **à condition** que les alliés aient réellement réparé pendant les 90 s et que ce crochet ne soit pas le 2e ou 3e du même survivant (un tunnel qui mène à une mort retire un réparateur : le bilan en s-s ne le capture pas).
+5. **Contre-exemple** : chase de 20 s avec 2 alliés sur gens (le 3e en SoloQ vient « aider ») → 1,6 × 28 ≈ 45 s-s ; coût du crochet ≈ 100 s-s → **net ≈ −55 s-s**. Même si tu es décroché ensuite et que tu survis, cette séquence a coûté l'équivalent de ≈ 0,6 gen (HYPOTHESIS).
 6. **Erreurs fréquentes** : juger une chase au résultat (hook ou pas) ; aller « voir » la chase d'un allié (tu retires 1 de `n`, seed ch. 7 principe 4 correct) ; soigner tout le monde après chaque crochet.
 7. **Contre-jeu du tueur** : chases courtes, crochets proches des gens (proxy), slug pour retirer plusieurs survivants, perks qui punissent le sauvetage (lot 3).
-8. **Exercice « Bilan de chase »** : après chaque partie, pour chaque chase : durée, nombre d'alliés sur gens, gens tombés pendant, issue. Métrique : s-s nets par chase. Réussite : moyenne positive, et identification des chases < 25 s (à analyser en priorité).
+8. **Exercice « Bilan de chase »** : après chaque partie, pour chaque chase : durée, nombre d'alliés sur gens, gens tombés pendant, issue. Métrique : s-s nets par chase. Réussite : moyenne positive, et identification des chases courtes (< ~25 s selon ce modèle HYPOTHESIS) à analyser en priorité — pour comprendre leur cause (tueur, carte, décision), pas pour les compter comme fautes.
 
 ### 4.13 Chase commitment et chase abandonment
 
@@ -820,7 +860,7 @@ Lecture : le « prix » d'une palette pour le tueur n'est pas 2,34 s mais **2,34
 
 ### 4.14 SoloQ vs SWF : ce qui change dans les calculs
 
-- **n (alliés sur gens)** : en SWF, le poursuivi peut demander que personne ne vienne « aider » et savoir combien réparent ; en SoloQ, il ne le voit qu'au HUD (actions des alliés) et doit supposer `n` plus bas (HEURISTIC). Conséquence : en SoloQ, les seuils de greed et de « chase rentable » sont plus exigeants (§4.12 : ×1,5 si `n` = 2).
+- **n (alliés sur gens)** : en SWF, le poursuivi peut demander que personne ne vienne « aider » et savoir combien réparent ; en SoloQ, il ne le voit qu'au HUD (actions des alliés) et doit supposer `n` plus bas (HEURISTIC). Conséquence (HYPOTHESIS, modèles §4.3 et §4.12) : en SoloQ, les seuils de greed et de « chase rentable » sont plus exigeants (p* ≈ 0,28 au lieu de 0,37 sain et ≈ 0,11 au lieu de 0,17 blessé à `T_loop` = 10 s ; chase « rentable » ≈ 42-67 s au lieu de 25-42 s si `n` = 2). Supposer `n` bas ne doit pas pousser à « tenir coûte que coûte » : cela pousse à moins de greed, pas à plus de risque.
 - **Ressources connues** : en SWF, l'état des palettes et des fenêtres bloquées est annoncé ; en SoloQ, une palette « de secours » peut avoir disparu → la valeur future des palettes visibles augmente, le pre-drop « en comptant sur la suivante » est plus risqué.
 - **Info sur le tueur** : FACT [audit : VP] le tueur est révélé à tous dès la 1re poursuite (Match Details 9.6.0) ; son loadout reste caché. En SWF, les observations (Bamboozle probable, pouvoir, add-ons) circulent ; en SoloQ, chacun les redécouvre.
 - **Tempo** : en SWF, on peut synchroniser « je tiens encore 20 s, finissez le gen » ; en SoloQ, la bonne pratique (HEURISTIC) est de jouer la chase comme si personne ne venait aider et de la tirer loin des gens visibles au HUD.
@@ -834,9 +874,9 @@ Lecture : le « prix » d'une palette pour le tueur n'est pas 2,34 s mais **2,34
 **Situation** : tu es blessé. Tueur M1 115 % (aucun pouvoir anti-loop, ex. Trapper sans piège visible autour du shack) à ~6 m derrière toi. Tu arrives au shack par la porte opposée à la palette. Palette du shack debout, fenêtre jamais vaultée. La chase dure depuis ~16 s sans casse ni coup (Bloodlust +0,2 m/s). Un jungle gym est à ~25 m de l'autre côté. SoloQ : le HUD montre 2 alliés sur des gens différents, le 3e se soigne.
 
 **Informations connues** :
-- FACT : rapprochement 0,8 m/s (4,6 + 0,2 − 4,0) ; casse 2,34 s ; stun 2 s ; fast vault 0,5 s vs vault tueur 1,7 s.
-- CALC : n = 2 → 1 s de chase ≈ 1,6 s-s ; blessé → `C_hit` ≈ 50 s de chase (le coup = au sol).
-- Seuil de greed (§4.3) : p* ≈ 10 / (10 + 50) ≈ 0,17 (avec `T_loop` = 10 s, HYPOTHESIS).
+- FACT [audit] : vitesses 4,6 / 4,0 m/s, Bloodlust +0,2 à 15 s, casse 2,34 s, stun 2 s, fast vault 0,5 s vs vault tueur 1,7 s. CALC : rapprochement 0,8 m/s (4,6 + 0,2 − 4,0).
+- CALC sur modèle HYPOTHESIS (§4.4) : n = 2 → 1 s de chase ≈ 1,6 s-s ; blessé → `C_hit` ≈ 100-150 s-s / 1,6 ≈ **62-94 s** de chase (le coup = au sol). *Correction d'audit pass 14 : la version précédente reprenait `C_hit` ≈ 50 s, valable pour n = 3 seulement.*
+- Seuil de greed (§4.3, HYPOTHESIS) : p* ≈ 10 / (10 + 62…94) ≈ **0,10-0,14** (avec `T_loop` = 10 s, HYPOTHESIS). Même avec n = 3 (C_hit ≈ 50 s), p* ≈ 0,17 : la conclusion ne dépend pas de ce détail.
 
 **Options** :
 - A. Pré-jeter la palette du shack dès que tu la passes, puis partir vers le jungle gym pendant qu'il casse.
@@ -845,20 +885,20 @@ Lecture : le « prix » d'une palette pour le tueur n'est pas 2,34 s mais **2,34
 
 **Analyse** :
 - C : écart à combler ≈ 6 − 2,5 (fente, UNCERTAIN) = 3,5 m → ≈ 4,4 s avant le coup ; il te faut ≈ 6,25 s pour faire 25 m. Tu tombes à ~7-8 m du jungle gym. **Perdant.**
-- A : s'il casse, +9,4 m et Bloodlust remise à 0 → écart ≈ 15 m, soit ≈ 13 m à combler → ≈ 20 s avant contact en terrain ouvert (table 2.2) ; tu atteins le jungle gym en ~6 s avec ~11-12 m d'avance, de quoi le jouer proprement. S'il contourne sans casser, la palette baissée reste un forced path pour lui et tu as gagné le temps de son détour. **Gain sûr ≈ 15 s de chase au minimum, sans risque de coup.**
-- B : une boucle de fenêtre bien jouée peut rapporter 10 s et garder la palette, mais avec 6 m d'avance, un 115 % et une Bloodlust qui passera à +0,4 à 25 s, il est très improbable que ton risque de coup soit sous 17 %. **EV négative** dans la plupart des cas.
+- A : s'il casse, +9,4 m et Bloodlust remise à 0 → écart ≈ 15 m, soit ≈ 13 m à combler → ≈ 20 s avant contact en terrain ouvert (table 2.2) ; tu atteins le jungle gym en ~6 s avec ~11-12 m d'avance, de quoi le jouer proprement. S'il contourne sans casser, la palette baissée reste un forced path pour lui et tu as gagné le temps de son détour. **Gain ≈ 18 s de chase (CALC corrigé, table 2.3) avec un risque de coup faible** (à 6 m, le drop se fait hors de portée de fente ; le risque restant vient d'un piège caché, d'un drop trop tardif ou d'une perte de temps dans le shack).
+- B : une boucle de fenêtre bien jouée peut rapporter 10 s et garder la palette, mais avec 6 m d'avance, un 115 % et une Bloodlust qui passera à +0,4 à 25 s, il est très improbable que ton risque de coup soit sous 10-17 % (HEURISTIC : `p` n'est pas mesurable). **EV négative** dans la plupart des cas, selon le modèle.
 
-**Meilleure logique de décision** : A dans ce contexte. B redevient raisonnable si tu arrives avec ≥ 10 m d'avance, sain, et que le tueur a montré qu'il suit au lieu de couper (dans ce cas : 1 cycle, puis drop dès qu'il s'engage côté palette). Contre un tueur à casse instantanée ou gratuite (Blight en Lethal Rush, Demogorgon Shred…, liste audit), le pre-drop ne lui coûte presque rien : préfère utiliser la palette pour un stun ou changer de zone.
+**Meilleure logique de décision** : A dans ce contexte. B redevient raisonnable si tu arrives avec ≥ 10 m d'avance, sain, et que le tueur a montré qu'il suit au lieu de couper (dans ce cas : 1 cycle, puis drop dès qu'il s'engage côté palette). Contre un tueur à casse instantanée ou gratuite (Demogorgon Shred, Oni en Blood Fury…, liste audit en 1.3), le pre-drop ne lui coûte presque rien en temps : préfère utiliser la palette pour un stun ou changer de zone. **Exception Blight** : sa casse en Lethal Rush est instantanée, mais depuis 9.6.0 elle lui coûte ses tokens de Rush (ramenés à 2 sous le max, recharge à 0 % : FACT [audit : VP]) : le pre-drop reste rentable contre lui (cohérent avec `deliverables/KILLER_COUNTERPLAY_HANDBOOK.md`, section Anti-loop). La liste des casses instantanées (1.3) est elle-même à reconfirmer (Knight modifié en 10.1.1, « gardes et palettes », contenu non lu).
 
-**Erreur typique** : appliquer la règle du seed « deux tours de fenêtre avant la palette » en étant blessé (le 2e tour est une pièce de monnaie lancée sur 50 s de chase) ; ou pré-jeter puis **regarder** la casse au lieu de partir (2,34 s = 9,4 m jetés).
+**Erreur typique** : appliquer la règle du seed « deux tours de fenêtre avant la palette » en étant blessé (le 2e tour est un pari dont l'enjeu est ≈ 60-90 s de chase, selon le modèle HYPOTHESIS) ; ou pré-jeter puis **regarder** la casse au lieu de partir (2,34 s = 9,4 m jetés).
 
 ### Situation 2 — Chase longue, Bloodlust maximale, palette de filler
 
 **Situation** : tu es sain. La chase dure depuis 38 s sans casse ni coup (Bloodlust +0,6). Tueur M1 115 % à ~5 m. Tu arrives sur un filler (arbre + rocher) avec une palette debout. Un jungle gym est à ~20 m. 3 alliés réparent chacun un gen ; 2 gens sont vers 70 %.
 
 **Informations connues** :
-- FACT : rapprochement 1,2 m/s (4,6 + 0,6 − 4,0) ; casse = perte de Bloodlust ; stun 2 s ; poursuite finie au-delà de 18 m.
-- CALC : un gen à 70 % en solo demande ≈ 27 s ; 2 gens tombent si tu tiens encore ~27-30 s.
+- FACT [audit] : Bloodlust +0,6 à 35 s ; casse = perte de Bloodlust ; stun 2 s ; poursuite finie au-delà de 18 m. CALC : rapprochement 1,2 m/s (4,6 + 0,6 − 4,0).
+- CALC : un gen à 70 % en solo demande 27 s à e = 1, ≈ 34 s à e = 0,8 (HYPOTHESIS §4.1) ; 2 gens tombent si tu tiens encore ~27-34 s.
 - Valeur future d'une palette de filler : faible (tile court, peu de cycles possibles).
 
 **Options** :
@@ -867,11 +907,11 @@ Lecture : le « prix » d'une palette pour le tueur n'est pas 2,34 s mais **2,34
 - C. Boucler le filler en gardant la palette pour un stun « parfait ».
 
 **Analyse** :
-- B : écart à combler ≈ 5 − 2,5 = 2,5 m → ≈ 2 s avant le coup ; 20 m demandent 5 s. Coup probable avant l'arrivée (tu gagneras le boost et un reset de Bloodlust, mais tu seras blessé : `C_hit` ≈ 17 s de chase + soin).
+- B : écart à combler ≈ 5 − 2,5 = 2,5 m → ≈ 2 s avant le coup ; 20 m demandent 5 s. Coup probable avant l'arrivée (tu gagneras le boost et un reset de Bloodlust, mais tu seras blessé : `C_hit` ≈ 17 s de chase, coût du soin déjà inclus, HYPOTHESIS §4.4).
 - C : sur un tile court avec +0,6 m/s, la probabilité de coup par cycle est très élevée (HEURISTIC) : EV négative.
 - A : stun (+8 m) puis casse (+9,4 m, reset) → ~17 m gagnés : tu arrives au jungle gym avec une grande avance, et la poursuite peut même prendre fin (> 18 m, temporisation UNCERTAIN). Sans stun, drop + casse : +9,4 m et reset, suffisant pour atteindre le jungle gym. S'il contourne pour garder sa Bloodlust, il perd le temps du détour et reste en Bloodlust haute, mais tu es déjà en route vers un tile fort.
 
-**Meilleure logique de décision** : A. La palette de filler vaut peu dans le futur, et sa fonction principale ici est de **remettre à zéro la Bloodlust** et de convertir en distance. Chaque seconde de plus fait tomber deux gens : la priorité est le temps, pas la conservation.
+**Meilleure logique de décision** : A. La palette de filler vaut peu dans le futur, et sa fonction principale ici est de **remettre à zéro la Bloodlust** et de convertir en distance. Chaque seconde de plus rapproche deux gens de la fin : la priorité est le temps, pas la conservation. Limite : si ce filler est la dernière palette d'une zone où l'équipe devra jouer l'endgame (3-gen, portes), sa valeur future remonte (§4.5) et le choix se discute.
 
 **Erreur typique** : garder la palette « pour plus tard » alors que la Bloodlust est au maximum ; ou tourner autour du filler en attendant un stun parfait.
 
@@ -920,8 +960,10 @@ Lecture : le « prix » d'une palette pour le tueur n'est pas 2,34 s mais **2,34
 | C6-15 | Soin 16 s ; Med-Kit −33 % ; Mangled +25 % ; mending 10/6 s | audit phase 0 | 8.6.0 (DW) | SS / VP |
 | C6-16 | Portage 3,68 m/s ; accrochage 1,5 s ; décrochage 1 s ; phase 70 s | audit phase 0 | 8.2.0 (70 s) | SS / VP |
 | C6-17 | 1 s de chase ≈ 1/30 gen (3 réparateurs, e = 1) | CALC | — | CALC (entrées VMS) |
-| C6-18 | Gains en mètres par interaction (table 2.3) | CALC | — | CALC (entrées SS/VMS) |
-| C6-19 | Seuils de chase « rentable » 25-42 s / 41-63 s | modèle HYPOTHESIS | — | UNCERTAIN |
+| C6-18 | Gains en mètres par interaction (table 2.3) ; secondes = `t_k + Δécart / v_r` (corrigé pass 14) | CALC | — | CALC (entrées SS/VMS) |
+| C6-19 | Seuils de chase « rentable » 25-42 s / 41-63 s (n = 3) ; 42-67 s / 65-98 s (n = 2) | modèle HYPOTHESIS | — | UNCERTAIN |
+| C6-20 | Seuil de greed p* = T_loop / (T_loop + C_hit), ≈ 0,06-0,47 selon tile, santé, n | modèle HYPOTHESIS (§4.3) | — | UNCERTAIN |
+| C6-21 | Condition de loop sûr : trajet survivant × v_tueur / 4,0 < trajet tueur − portée de fente | CALC (entrées VMS) + fente UNCERTAIN | — | CALC / UNCERTAIN |
 
 ## 7. Conflits
 
@@ -976,6 +1018,9 @@ Affirmations qui mériteraient une source experte, une page wiki complète ou un
 13. Paramètres des modèles §4 : efficacité `e` des réparateurs, `T_loop` par tile (lot 7), probabilités `p` de coup par type de tueur, coût réel d'un crochet en s-s. Sources possibles : statistiques de parties (NightLight ou données officielles) si elles publient des durées de chase.
 14. Une casse de palette lancée est-elle annulable par le tueur ?
 15. Durée du ramassage d'un survivant au sol.
+16. (audit pass 14) Durée d'abaissement de la palette par le survivant : elle fixe `t_s` pour un pre-drop (table 2.3 suppose `t_s` = 0).
+17. (audit pass 14) Validation empirique du modèle de greed §4.3 : sur un échantillon de VOD de ses propres parties, taux de coup par cycle de greed selon le type de tueur, l'état de santé et le palier de Bloodlust (estimation de `p`) ; durée réelle d'un cycle par tile (`T_loop`, lot 7).
+18. (audit pass 14) Techniques et interactions de chase non couvertes ici : perks d'épuisement (Dead Hard, Sprint Burst, Lithe, Balanced Landing…) et leur intégration dans le calcul de distance ; Endurance / Haste / Hindered de perks ; objets en chase (lampe torche) ; drop depuis un étage (seed : 3-5 s, non mesuré) ; différences de chase en 2v8.
 
 ## Questions ouvertes
 

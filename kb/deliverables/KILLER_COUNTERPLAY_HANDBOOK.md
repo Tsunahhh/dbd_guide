@@ -1,5 +1,7 @@
 # KILLER COUNTERPLAY HANDBOOK — une fiche rapide par tueur (livrable §51-3)
 
+> **Statut : WRITTEN + AUDITED (audits adversariaux §25-26 du 27/09/2026, sans web) — voir kb/audit/pass14_deliverables.md**
+
 - **Version de référence : LIVE 10.1.2a** (hotfix serveur du 17/09/2026, chapitre 41 Chorus of Sin). **État au 27/09/2026.**
 - Le **PTB 10.2.0** (15 → 21/09/2026) **n'est pas LIVE** : aucune valeur PTB n'est utilisée comme valeur LIVE. Le mode **2v8** est exclu (jamais utilisé comme valeur 1v4).
 - Nœuds de taxonomie couverts : **T-F45** (typologie transversale des tueurs), **T-C11** (matrice tile × archétype, v1 HEURISTIC).
@@ -45,7 +47,9 @@ Abréviations : TR = terror radius · LOS = ligne de vue · gen = générateur �
 1. **Avant le reveal** : lire la ligne « Identification » des tueurs compatibles avec ce que tu vois/entends (objets de carte spécifiques, TR absent ou anormal, sons de pouvoir).
 2. **Au reveal** : retrouver son archétype en §2, appliquer les principes communs, puis la fiche §4.
 3. **Choisir sa tile** : §3 dit quelles structures gagnent ou perdent de la valeur contre cet archétype.
-4. **Chiffres** : n'utiliser que les valeurs [AUDIT] comme repères fermes ; tout le reste est un ordre de grandeur UNCERTAIN.
+4. **Chiffres** : n'utiliser que les valeurs [AUDIT] comme repères fermes ; tout le reste est un ordre de grandeur UNCERTAIN. Même parmi les [AUDIT], certaines sont STRONG_SECONDARY avec la mention « liste à reconfirmer » (ex. liste des pouvoirs qui détruisent les palettes) : les traiter comme probables, pas comme certaines.
+5. **Les consignes sont des HEURISTIC, pas des règles** (audit §26 du 27/09/2026). Chaque « Faire / Ne pas faire » décrit l'option par défaut contre un joueur qui utilise normalement son pouvoir. Un tueur expérimenté **anticipe** l'option par défaut (il attend le pré-drop, il feinte la charge, il attend que tu bouges) : si le tueur exploite visiblement ta réponse habituelle, **varier** (mix-up) vaut mieux que répéter la consigne.
+6. **SoloQ vs SWF** : les lignes « Macro/équipe » qui supposent une répartition des rôles (un seul porteur de boîte Cenobite, un « écraseur » de Victor, un sauveteur désigné, un seul survivant aux horloges de The First, annonces de forme/position) exigent la **communication vocale** en SWF. En SoloQ, les appliquer seulement par signaux observables (quelqu'un va déjà vers l'objet → ne pas y aller aussi ; auras via perks comme Kindred ou Empathy) et accepter qu'elles échouent plus souvent.
 
 ---
 
@@ -122,15 +126,17 @@ Toutes les lignes de cette section sont **HEURISTIC** (synthèse des sections «
 #### Anti-loop (23 tueurs)
 - **Principe** : **décider plus tôt**. Quitter la tile, pré-drop, ou garder une distance supérieure à la portée du pouvoir (Doctor : hors portée du choc ; Nemesis : > 6,5 m [SEED]) ; enchaîner les tiles (tile-to-tile).
 - **Pourquoi ça marche** : son pouvoir supprime l'avantage du « dernier moment » (Shock Therapy 0,65 s [AUDIT], tentacule, Mage Hand, gaz Hindered, gardes du Knight) ; jouer avant la fenêtre du pouvoir le rend neutre.
-- **Quand ça échoue — le pré-drop n'est PAS universel** (point le plus important de cette section) :
-  - **Pré-drop rentable** quand casser lui coûte : Blight (depuis 9.6.0, casser une palette ramène ses tokens à 2 sous le max et remet la recharge à 0 %, [AUDIT] VERIFIED_PRIMARY), Cannibal (il ne traverse pas une palette tombée), Nemesis MR2+, Mastermind, Lich (Mage Hand disponible).
-  - **Pré-drop contre-productif** quand casser est gratuit ou évité : Demogorgon (le Shred casse instantanément une palette pré-lâchée), Ghoul (il saute une palette posée s'il a des tokens), Oni en Fury, Spirit (jeter tôt **puis marcher**, pas tenir).
+- **Quand ça échoue — le pré-drop n'est PAS universel** (point le plus important de cette section). Deux raisons **différentes** de pré-drop existent ; ne pas les confondre :
+  - **(a) Pré-drop parce que casser lui coûte** : Blight (depuis 9.6.0, casser une palette au sol ramène ses tokens à 2 sous le max et remet la recharge à 0 %, [AUDIT] VERIFIED_PRIMARY). C'est le seul cas de cette liste où le coût de casse est vérifié.
+  - **(b) Pré-drop parce que son pouvoir punit l'attente à la palette** — la palette est souvent perdue (cassée par le pouvoir ou contournée), mais le pré-drop évite le coup : Doctor (Shock Therapy 0,65 s), Cannibal (le balayage punit le drop tardif ; sa casse à la tronçonneuse ne coûte que ~1 s, [AUDIT] STRONG_SECONDARY — casser ne lui « coûte » donc presque rien), Nemesis MR2+, Mastermind (Virulent Bound détruit la palette, [AUDIT] STRONG_SECONDARY, liste à reconfirmer), Lich (Mage Hand disponible ; Mage Hand + Vorpal Sword détruit la palette selon la même liste). Ici, **pré-drop = pré-drop + départ immédiat** vers la tile suivante, pas « pré-drop puis tenir ».
+  - **Pré-drop contre-productif** quand casser est gratuit et que le pouvoir ne punit pas davantage le drop tardif : Demogorgon (le Shred casse instantanément une palette pré-lâchée), Ghoul (il saute une palette posée s'il a des tokens), Oni en Fury, Spirit (jeter tôt **puis marcher**, pas tenir).
+  - **Contre un joueur qui attend le pré-drop** (il ralentit ou coupe court avant la palette pour la faire tomber gratuitement), le pré-drop systématique devient exploitable : mélanger pré-drop, départ anticipé sans drop et, quand le pouvoir est en recharge, drop « normal ».
   - **Tile-to-tile** échoue sur carte ouverte contre Mastermind et Houndmaster (la distance en open est leur portée idéale) : préférer les zones denses même pauvres en palettes.
   - Tiles serrées : bonnes contre Blight en général, mais un Blight « hug tech » les exploite (SITUATIONAL).
   - Patchs non lus : le changement Knight 10.1.1 « gardes et palettes » [AUDIT] peut invalider les conseils de palette contre lui.
 
 #### Ranged (15 tueurs)
-- **Principe** : couper la LOS avec des obstacles **hauts** ; esquiver **latéralement au relâchement**, pas pendant la charge ; ne pas offrir de trajectoire prévisible (sortie de vault, ligne droite, fin de boucle) ; compter les munitions/recharges (Huntress 5 hachettes [AUDIT], Deathslinger rechargement, Trickster 36 lames [AUDIT]).
+- **Principe** : couper la LOS avec des obstacles **hauts** ; esquiver **latéralement au relâchement**, pas pendant la charge ; ne pas offrir de trajectoire prévisible (sortie de vault, ligne droite, fin de boucle) ; compter les munitions/recharges (Huntress : le « 7 » du seed est une erreur relevée par l'audit, la valeur 5 vient de la mémoire du modèle [CM] ; Deathslinger rechargement ; Trickster 36 lames [AUDIT]).
 - **Pourquoi ça marche** : un projectile a besoin d'une trajectoire libre ; la **distance moyenne en open** est sa zone idéale (EXPERT OPINION non sourcée, fiche Huntress).
 - **Quand ça échoue** :
   - Projectiles qui **ignorent les murs** ou les contournent : corbeaux de l'Artist (traversent les murs), onde de l'Executioner (traverse palettes, fenêtres, murs), mini-glandes à tête chercheuse et fouet de la Krasue, tir en cloche/rebond de l'Unknown. Contre eux : **changer de direction** et gérer le statut (Swarmed, Tormented, Leech, Weakened) prime sur la LOS.
@@ -191,7 +197,7 @@ Toutes les lignes de cette section sont **HEURISTIC** (synthèse des sections «
 | Structure | M1 | Anti-loop | Ranged | Mobilité | Furtif | Zone/piège | Info | Slug |
 |---|---|---|---|---|---|---|---|---|
 | **Fenêtres fortes** | ↑ (Cannibal : il n'a aucun outil contre, sauf Bamboozle) | ± ↑ Demogorgon (le Shred ne franchit pas une fenêtre), Oni (dash ≠ vault), Lich (ressource sûre après Mage Hand) ; ↓ Ghoul (bonds), Xenomorph (queue à travers), Legion Frenzy, Knight avec Iridescent Company Banner | ↓ atterrissage prévisible : Huntress, Deathslinger, Trickster (tir dans l'interstice), Animatronic, Plague (Corrupt Purge par-dessus) | ± ↑ Hillbilly (il boucle en M1) ; ↓ Nurse (inutiles), Slasher (point de Jump Scare), Dark Lord (point de TP chauve-souris) | ≈ ; ↓ Pig (accroupie près d'une fenêtre), Slasher | ↓ fenêtre piégée côté sortie (Trapper), passage obligé piégé (Hag) | ≈ | ↑ Twins (vault qui casse les lignes de bond de Victor) |
-| **Palettes safe** | ↑↑ ressource pleine | ↓ cassées gratuitement ou contournées : Demogorgon, Oni Fury, Blight (avec coût de tokens), Nemesis MR2+, Mastermind, Ghoul, gardes du Knight, Lich Mage Hand, Dark Lord loup, Legion Frenzy, Krasue tête (vaulte) ; voir §2.2 anti-loop | ± ↓ palette basse ne bloque pas hachette/onde (Huntress, Executioner) ; ↑ Houndmaster (bloque le chien) | ↓ Nurse (inutiles), Spirit (jeter tôt puis marcher), Singularity (palette jetée marqué = perdue), Hillbilly LoPro Chains, The First (lianes/Upside Down) | ± ↓ Onryō démanifestée (pas stunnable), Good Guy (Scamper), Slasher (point d'apparition) ; ↑ Onryō manifestée (SITUATIONAL) | ≈ (Trapper : une palette lâchée reste un obstacle normal) ; ↓ sous un drone de Skull Merchant | ≈ | ≈ |
+| **Palettes safe** | ↑↑ ressource pleine | ↓ cassées gratuitement ou contournées : Demogorgon, Oni Fury, Blight (avec coût de tokens), Nemesis MR2+, Mastermind, Ghoul, gardes du Knight, Lich Mage Hand, Dark Lord loup, Legion Frenzy, Krasue tête (vaulte) ; Good Guy : casse en 1v4 inconnue (§5.2) ; voir §2.2 anti-loop | ± ↓ palette basse ne bloque pas hachette/onde (Huntress, Executioner) ; ↑ Houndmaster (bloque le chien) | ↓ Nurse (inutiles), Spirit (jeter tôt puis marcher), Singularity (palette jetée marqué = perdue), Hillbilly LoPro Chains, The First (lianes/Upside Down) | ± ↓ Onryō démanifestée (pas stunnable), Good Guy (Scamper), Slasher (point d'apparition) ; ↑ Onryō manifestée (SITUATIONAL) | ≈ (Trapper : une palette lâchée reste un obstacle normal) ; ↓ sous un drone de Skull Merchant | ≈ | ≈ |
 | **Shack** (murs hauts, fenêtre + palette) | ↑ | ↑ Houndmaster (angles courts), Blight (murs hauts gênent le bump, SITUATIONAL), Oni, Mastermind | ↑ murs hauts qui coupent la LOS (Huntress, Deathslinger, Trickster, Cenobite, Animatronic, Unknown) ; ↓ Artist, Executioner | ↑ Hillbilly, Nurse (obstacle opaque), Ghoul (tile fermé) | ↓ Ghost Face (murs hauts : il stalke hors de ta vue) | ↓ Trapper (tile à entrée unique, côté fenêtre) | ≈ | ≈ |
 | **Jungle gym** | ↑ | ± ↑ Houndmaster ; ↓ Nemesis (jungle gyms courts dans sa portée en MR3), Xenomorph (petits tiles pincés) | ± ↑ Huntress, Deathslinger (« jungle gyms fermés ») ; ↓ Trickster (longues fenêtres de JG vues de loin) | ↑ Hillbilly (murs hauts, passages étroits) | ± coins favorables au stalk (Shape, Ghost Face) | ↓ coin de JG piégé (Trapper) | ≈ | ≈ |
 | **Zones ouvertes** | ↓ zone morte | ↓ (Houndmaster, Mastermind : l'open est leur portée idéale) | ↓↓ (Huntress, Deathslinger, Trickster, Cenobite, Judgment) | ↓↓ (Hillbilly, Nurse, Oni Fury, Blight, Ghoul, Lich Fly) | ↑ tu le vois venir (Ghost Face révélé, Good Guy, Onryō visible) | ↑ pièges et réseau dispersés (Trapper, Hag faibles sur grandes cartes ouvertes) | ≈ | ↓ bond de Victor (Twins) |
@@ -287,25 +293,25 @@ Format fixe. Sauf mention, **chaque consigne est HEURISTIC**. Les chiffres cité
 - **Source** : `kb/research/batch4_killers_g1.md` §7
 
 ### 8. The Huntress — ranged · M1
-- **Identification avant reveal** : **berceuse fredonnée au lieu du battement de cœur** (FACT, identification quasi certaine) ; TR très court ; porte de casier (recharge).
+- **Identification avant reveal** : **berceuse fredonnée au lieu du battement de cœur** (FACT de principe, [CM]) ; TR très court ; porte de casier (recharge). Identification **forte mais pas certaine** : d'autres tueurs émettent une berceuse (chauve-souris du Dark Lord [SEED], chien du Houndmaster en Search Command, fiches 37-38) ; confirmer par la silhouette ou une hachette.
 - **Ce qu'il cherche** : zones ouvertes, boucles basses, vaults à point d'atterrissage prévisible, blessé qui court en ligne droite.
-- **Faire** : • changer de direction **au moment du lâcher**, pas pendant l'armement (EXPERT OPINION non sourcée) • rester collé aux murs hauts, casser la LOS • compter ses lancers (5 de base) et gagner du terrain quand elle va au casier.
+- **Faire** : • changer de direction **au moment du lâcher**, pas pendant l'armement (EXPERT OPINION non sourcée) • rester collé aux murs hauts, casser la LOS • compter ses lancers (5 de base selon [CM], non vérifié ; des add-ons changent ce nombre) et gagner du terrain quand elle va au casier.
 - **Ne pas faire** : • vaulter une fenêtre face à une hachette armée avec LOS • tenir un filler bas ou croire le maïs protecteur (il cache, ne bloque pas) • traverser l'open à distance moyenne (zone la plus dangereuse, EXPERT OPINION non sourcée).
 - **Macro/équipe** : soins et unhooks derrière une LOS ; espacer les gens pour la forcer à marcher.
 - **Add-ons** : Iridescent Head (hachette = down → zéro exposition, même pour décrocher) · add-ons de capacité (→ ne plus compter les lancers) · vitesse de hachette (→ esquiver plus tôt).
 - **Piège classique** : se croire à l'abri dans le maïs.
-- **Confiance** : **5 hachettes de base** [AUDIT] (le « 7 » du seed est FAUX) ; 4,4 m/s, TR 20 m [CM] (confiance forte, non vérifié) ; berceuse 45 m, vitesse de hachette [SEED] NON VÉRIFIABLE.
+- **Confiance** : le « 7 hachettes » du seed est une **erreur relevée par l'audit** [AUDIT] ; la valeur **5 de base** vient de la mémoire du modèle [CM] (l'audit ne donne pas le chiffre ; à confirmer, cf. `BATCH_2_4_SYNTHESIS.md` §2.1 n° 6) ; 4,4 m/s, TR 20 m [CM] (confiance forte, non vérifié) ; berceuse 45 m, vitesse de hachette [SEED] NON VÉRIFIABLE.
 - **Source** : `kb/research/batch4_killers_g2.md` §8
 
 ### 9. The Cannibal — M1 · anti-loop (insta-down court)
 - **Identification avant reveal** : TR 32 m ; démarrage de tronçonneuse ; balayages **courts gauche-droite** (≠ sprint long du Hillbilly, FACT) ; Tantrum visible.
 - **Ce qu'il cherche** : short loops et fillers, survivant qui garde sa palette, groupes, body-block au crochet.
-- **Faire** : • jeter la palette tôt quand il arme près d'une short loop • privilégier fenêtres et longues boucles (EXPERT OPINION non sourcée) • profiter d'un Tantrum pour casser la LOS.
+- **Faire** : • jeter la palette tôt quand il arme près d'une short loop, **puis partir** (sa casse à la tronçonneuse ne prend que ~1 s [AUDIT] : la palette pré-lâchée n'achète que peu de temps) • privilégier fenêtres et longues boucles (EXPERT OPINION non sourcée) • profiter d'un Tantrum pour casser la LOS.
 - **Ne pas faire** : • garder la palette « pour le stun » • body-block de face au crochet • vaulter une palette dans une ligne droite ouverte.
 - **Macro/équipe** : ne pas réparer à 2-3 sur un gen quand il approche (un sweep peut en mettre plusieurs à terre) ; décrocher en s'appuyant sur l'Endurance basekit [AUDIT].
 - **Add-ons** : non vérifiables ; principe : add-on de charge/vitesse → pré-drop plus tôt ; add-on anti-Tantrum → le « sweep dans le mur » ne le punit plus. Bamboozle (perk) → fenêtres dévaluées (SITUATIONAL).
 - **Piège classique** : se grouper.
-- **Confiance** : buff 9.6.0 [AUDIT] (contenu non lu) ; casse de palette ~1 s [AUDIT] STRONG_SECONDARY ; sweep 5,45 m/s, charges [SEED] NON VÉRIFIABLE ; fiche seed signalée erronée par l'audit ; Knock Out du seed décrit avec des valeurs PTB 10.2 (non LIVE).
+- **Confiance** : buff 9.6.0 [AUDIT] (contenu non lu) ; casse de palette ~1 s [AUDIT] STRONG_SECONDARY ; sweep 5,45 m/s, charges [SEED] NON VÉRIFIABLE ; fiche seed signalée erronée par l'audit ; Knock Out : l'audit le liste parmi les erreurs du seed (sans détail) ; la description du seed ressemble à des valeurs PTB 10.2 (hypothèse du lot 4, non prouvée) et omet l'effet principal (aura du survivant à terre visible seulement à 32/24/16 m, SS, `PERK_DATABASE.md`).
 - **Source** : `kb/research/batch4_killers_g2.md` §9
 
 ### 10. The Nightmare — zone/piège · mobilité (TP) · info
@@ -323,7 +329,7 @@ Format fixe. Sauf mention, **chaque consigne est HEURISTIC**. Les chiffres cité
 - **Identification avant reveal** : Jigsaw Boxes visibles (probable, [CM]) ; TR intermittent (accroupissements) ; rugissement du dash.
 - **Ce qu'il cherche** : un dash à courte portée sur une tile courte ; s'accroupir près d'une fenêtre/d'un coin pour cacher TR et red stain.
 - **Faire** : • au rugissement, contourner un coin ou vaulter au bon moment • jouer les tiles moyennes et longues (dash peu rentable, EXPERT OPINION non sourcée) • vérifier les angles morts près des gens après un reset de TR.
-- **Ne pas faire** : • quitter la chase pour les boîtes au mauvais moment • ignorer l'absence de TR près d'un gen • **sortir avec un piège actif** (FACT : mort).
+- **Ne pas faire** : • quitter la chase pour les boîtes au mauvais moment • ignorer l'absence de TR près d'un gen • **sortir avec un piège actif** (FACT de principe, [CM] : mort ; voir « Confiance »).
 - **Macro/équipe** : piège actif → boîtes les plus proches, en annonçant celles fouillées ; décider en équipe du moment de finir un gen quand plusieurs survivants sont piégés.
 - **Add-ons** : Rules Set No.2, Crate of Gears, Amanda's Letter (effets non vérifiés) → adapter le rythme de complétion des gens (SITUATIONAL).
 - **Piège classique** : plusieurs piégés qui terminent un gen en même temps.
@@ -345,6 +351,7 @@ Format fixe. Sauf mention, **chaque consigne est HEURISTIC**. Les chiffres cité
 - **Identification avant reveal** : TR 24 m ; son de départ de phase ; **husk figé** puis réapparition brusque (FACT).
 - **Ce qu'il cherche** : un survivant qui court (scratch marks) et qui gémit (blessé) ; un survivant qui garde sa palette « pour le stun ».
 - **Faire** : • regarder le husk : figé = phase probable (EXPERT OPINION) • marcher ou s'arrêter quand elle phase près de toi (EXPERT OPINION) • jeter la palette tôt puis marcher (EXPERT OPINION non sourcée).
+- **Limite (audit §26)** : « marcher / s'arrêter » est un **mix-up**, pas une règle. Une Spirit qui attend la fin de ta pause, écoute tes pas ou gémissements, ou feinte la phase (husk qui bouge) gagne du temps à chaque arrêt systématique. Alterner arrêt, marche et course selon ce qu'elle a fait au mix-up précédent ; s'arrêter longtemps en étant blessé est le pire cas (gémissements).
 - **Ne pas faire** : • courir en ligne droite quand elle phase • deviner au hasard • tenir la même palette plusieurs fois.
 - **Macro/équipe** : quitter la tile pendant son cooldown ; Iron Will / perks anti-scratch utiles sans garantie (SITUATIONAL).
 - **Add-ons** : son de phase absent → add-on silencieux probable (Prayer Beads Bracelet, effet non vérifié) → jouer les pauses et la marche.
@@ -358,7 +365,7 @@ Format fixe. Sauf mention, **chaque consigne est HEURISTIC**. Les chiffres cité
 - **Faire** : • casser la LOS pendant sa fatigue de fin de Frenzy (FACT sur la fatigue) • chercher le vrai stun **hors** Frenzy • mender le Deep Wound au bon moment.
 - **Ne pas faire** : • compter sur une palette debout en Frenzy • se soigner à côté d'un gen occupé à plusieurs • laisser expirer le Deep Wound.
 - **Macro/équipe** : ne pas rester groupés ; jouer blessé est normal contre lui, un soin complet n'est pas toujours rentable.
-- **Add-ons** : non vérifiables ; si le Frenzy casse les palettes (Iridescent Button selon le seed) → palettes debout non fiables en Frenzy.
+- **Add-ons** : non vérifiables ; l'audit liste « Legion (Frenzy + add-on) » parmi les pouvoirs qui détruisent les palettes ([AUDIT] STRONG_SECONDARY, liste à reconfirmer ; add-on nommé Iridescent Button par le seed, UNCERTAIN) → palettes debout non fiables en Frenzy avec cet add-on.
 - **Piège classique** : ignorer le Killer Instinct.
 - **Confiance** : aucune valeur vérifiée ; **« 5e Feral Slash met à terre » → §5** ; désactivation/réactivation 9.6.0 absente de l'audit ; Frenzy 5,2/6,16 m/s NON VÉRIFIABLE.
 - **Source** : `kb/research/batch4_killers_g2.md` §14
@@ -432,7 +439,7 @@ Format fixe. Sauf mention, **chaque consigne est HEURISTIC**. Les chiffres cité
 ### 21. The Blight — mobilité · anti-loop
 - **Identification avant reveal** : 4,4 m/s ; sons de Rush/Slam très reconnaissables ; déplacements en rebonds sur les murs.
 - **Ce qu'il cherche** : un Lethal Rush en ligne droite ou via un bump sur l'obstacle de ta tile.
-- **Faire** : • tourner au dernier moment face au Lethal Rush • après un Rush raté, repartir à l'opposé pendant sa fatigue • **pré-drop** : depuis 9.6.0 la casse lui coûte des tokens.
+- **Faire** : • tourner au dernier moment face au Lethal Rush • après un Rush raté, repartir à l'opposé pendant sa fatigue • **pré-drop le plus souvent rentable** : depuis 9.6.0 la casse lui coûte des tokens [AUDIT]. Limites (HEURISTIC) : il peut **ne pas casser** et contourner la palette, qui devient un simple mur, et chaque pré-drop consomme une palette de la carte ; sans tokens (fatigue, recharge), un drop normal suffit.
 - **Ne pas faire** : • ligne droite en open quand il a des tokens • attendre derrière une palette debout « pour le mindgame » • appliquer le counterplay d'avant 9.6.0 (éviter le pré-drop).
 - **Macro/équipe** : compter ses Rushes au son ; ne pas laisser un 3-gen compact ; les gens éloignés sont moins sûrs.
 - **Add-ons** : NON VÉRIFIABLE ; + tokens (Compound Thirty-Three, Adrenaline Vial) → ne plus compter sur l'épuisement des Rushes ; Rush rapide en ligne droite → encore plus près des obstacles.
@@ -465,7 +472,7 @@ Format fixe. Sauf mention, **chaque consigne est HEURISTIC**. Les chiffres cité
 ### 24. The Nemesis — anti-loop · zone (zombies)
 - **Identification avant reveal** : TR 32 m, grand ; zombies errants (identification quasi immédiate) ; murs/palettes détruits à distance = au moins MR2.
 - **Ce qu'il cherche** : un survivant contaminé à 5-6,5 m derrière une palette basse ou une fenêtre ; un drop tardif ; une boucle courte.
-- **Faire** : • strafe latéral au son de charge du tentacule • garder plus de 6,5 m, tiles longues et murs hauts • dès MR2, pré-drop et départ vers la tile suivante (SITUATIONAL).
+- **Faire** : • strafe latéral au son de charge du tentacule • garder une distance supérieure à la portée du tentacule (6,5 m selon le seed, [SEED] UNCERTAIN : ordre de grandeur, pas une marge exacte), tiles longues et murs hauts • dès MR2, pré-drop et départ vers la tile suivante (SITUATIONAL).
 - **Ne pas faire** : • rester à 4-5 m en ligne droite en se croyant hors portée • drop tardif contre MR2+ • réparer sans surveiller le zombie.
 - **Macro/équipe** : vaccin quand il est loin ou occupé, sans le gaspiller en début de partie ; ne pas laisser les zombies bloquer un gen.
 - **Add-ons** : Marvin's Blood / T-Virus Sample → MR2 acquis très tôt · Shattered S.T.A.R.S. Badge → surveiller les zombies en fin de partie · Iridescent Umbrella Badge (Exposed après vaccin) → vaccin hors chase.
@@ -514,7 +521,7 @@ Format fixe. Sauf mention, **chaque consigne est HEURISTIC**. Les chiffres cité
 - **Macro/équipe** : verrouiller les casiers proches des gens et des crochets ; pas de sauvetage risqué en plein Nightfall ; si Nightfall en endgame, se rapprocher des portes avant.
 - **Add-ons** : Field Recorder → dernier gen avec tout le monde sain près des portes · Lavalier Microphone → s'attendre à être révélé après ses TP · Iridescent Wooden Plank → éviter la chase en fin de Nightfall.
 - **Piège classique** : compter sur le verrouillage sur une carte intérieure pleine de casiers.
-- **Confiance** : buff 9.6.0 [AUDIT] (contenu non lu) ; Nightfall 60 s, 3 tokens, verrou 2,25 s [SEED] UNCERTAIN ; nerf de Dissolution = **PTB 10.2.0**, non LIVE.
+- **Confiance** : buff 9.6.0 [AUDIT] (contenu non lu) ; Nightfall 60 s, 3 tokens, verrou 2,25 s [SEED] UNCERTAIN ; modification de Dissolution annoncée pour le **PTB 10.2.0** par le seed seulement (« oui? » dans `PERK_DATABASE.md`, non vérifié), non LIVE.
 - **Source** : `kb/research/batch4_killers_g4.md` §28
 
 ### 29. The Mastermind — mobilité · anti-loop · infection (usure)
@@ -533,10 +540,10 @@ Format fixe. Sauf mention, **chaque consigne est HEURISTIC**. Les chiffres cité
 - **Ce qu'il cherche** : un « sandwich » garde + Knight de part et d'autre d'une tile ; une patrouille à travers une palette pour la casser.
 - **Faire** : • quitter la tile où un garde arrive pour une tile neuve • pendant une chasse de garde, aller tôt vers la bannière [SEED] • bâtiments à plusieurs sorties.
 - **Ne pas faire** : • jouer une boucle où garde et Knight se font face • rester sur une tile pendant qu'un garde arrive • paniquer vers une zone morte.
-- **Macro/équipe** : sortir de la zone de détection plutôt que continuer à réparer ; Assassin → soigner le Deep Wound ; un unhook met fin à la chasse de garde (SITUATIONAL).
+- **Macro/équipe** : sortir de la zone de détection plutôt que continuer à réparer ; Assassin → soigner le Deep Wound ; « un unhook met fin à la chasse de garde » : mécanique [SEED] UNCERTAIN, ne pas planifier un sauvetage sur cette base.
 - **Add-ons** : Iridescent Company Banner (fenêtres cassables) → pas de vault répété · Town Watch's Torch → Knight sans TR pendant les chasses de garde.
 - **Piège classique** : oublier la bannière.
-- **Confiance** : buff 9.1.0 et changement 10.1.1 « gardes et palettes » [AUDIT] STRONG_SECONDARY, **contenu non lu** (conseils de palette à re-vérifier) ; gardes cassent les palettes [AUDIT] STRONG_SECONDARY ; patrouille 38 m, CD 20/30 s, Jailer 16 m [SEED] UNCERTAIN ; Nowhere to Hide LIVE 24 m (18 m = PTB) [AUDIT].
+- **Confiance** : buff 9.1.0 et changement 10.1.1 « gardes et palettes » [AUDIT] STRONG_SECONDARY, **contenu non lu** (conseils de palette à re-vérifier) ; gardes cassent les palettes [AUDIT] STRONG_SECONDARY ; patrouille 38 m, CD 20/30 s, Jailer 16 m [SEED] UNCERTAIN ; Nowhere to Hide LIVE 24 m (18 m = PTB **10.1.0**, abandonné au LIVE) [AUDIT].
 - **Source** : `kb/research/batch4_killers_g4.md` §30
 
 ### 31. The Skull Merchant — zone/piège · info · M1 (+Haste)
@@ -579,7 +586,7 @@ Format fixe. Sauf mention, **chaque consigne est HEURISTIC**. Les chiffres cité
 - **Ne pas faire** : • rester immobile derrière une palette abaissée • courir en ligne droite en open • faire confiance aux bruits de pas pendant Hidey-Ho.
 - **Macro/équipe** : regarder autour de soi quand il n'y a pas de TR ; annoncer sa position à la sortie de Hidey-Ho ; après un dash raté, changer de tile (SITUATIONAL).
 - **Add-ons** : Iridescent Amulet (Hidey-Ho +50 %) → quitter le gen au moindre indice visuel · Portable TV → en endgame, pas de lignes droites vers les portes, ouvrir en équipe.
-- **Piège classique** : appliquer en 1v4 le counterplay 2v8 du seed (« Scamper casse la palette »).
+- **Piège classique** : appliquer en 1v4 le counterplay 2v8 du seed (« Scamper casse la palette ») **comme un fait prouvé**. Attention à l'erreur inverse : la liste wiki.gg Pallets reprise par l'audit ([AUDIT] STRONG_SECONDARY, « liste à reconfirmer ») cite le Good Guy parmi les pouvoirs qui détruisent les palettes. Ce qui est prouvé, c'est seulement que les buffs 9.4.2 étaient propres au 2v8 ; le comportement 1v4 est **inconnu** → ne pas tenir une palette « safe » contre lui en supposant qu'il ne peut pas la casser.
 - **Confiance** : buffs 9.4.2 = **2v8 uniquement** [AUDIT] ; 4,4 m/s [SEED] + [CM] UNCERTAIN ; Hidey-Ho 14 s, dash 8 m/s 1,8 s, CD 2,25 s si raté [SEED] UNCERTAIN ; comportement 1v4 du Scamper → §5.
 - **Source** : `kb/research/batch4_killers_g5.md` §34
 
@@ -632,7 +639,7 @@ Format fixe. Sauf mention, **chaque consigne est HEURISTIC**. Les chiffres cité
 - **Ce qu'il cherche** : une LOS sur toi à ≤ 14 m hors tile (premier coup quasi garanti en open) ; ensuite, M1 avec vaults accélérés et bonds par-dessus les palettes.
 - **Faire** : • casser la LOS au moment où il vise • esquive latérale tardive au bond • après la marque, lui faire **dépenser ses tokens**, puis exploiter la recharge.
 - **Ne pas faire** : • poser une palette tôt en pensant l'avoir bloqué • compter sur une fenêtre isolée • traverser l'open « parce que le TR est loin ».
-- **Macro/équipe** : garder une tile fermée à ≤ 10 m quand on répare ; gens espacés ; décrocher quand il est engagé loin, pas juste après un bond. Tunnel facilité par sa mobilité (EXPERT OPINION).
+- **Macro/équipe** : garder une tile fermée à proximité quand on répare (« ≤ 10 m » des fiches = ordre de grandeur HEURISTIC dérivé de la portée de bond de 14 m [SEED] UNCERTAIN) ; gens espacés ; décrocher quand il est engagé loin, pas juste après un bond. Tunnel facilité par sa mobilité (EXPERT OPINION).
 - **Add-ons** : Iridescent Eye Patch → palette posée non sûre en Enragé · Hinami's Umbrella → soigner et décrocher plus tôt · Yamori's Mask → ne pas s'éloigner « par sécurité » pendant un crochet.
 - **Piège classique** : raisonner en boucles de palette au lieu de **fenêtres de recharge**.
 - **Confiance** : 3e bond + add-on détruit une palette [AUDIT] STRONG_SECONDARY (à reconfirmer) ; **TR 40 vs 32 m → §5** ; bond 14 m, tokens 4 s / 2,5 s en Enragé [SEED] UNCERTAIN ; « > 60 % de kill selon BHVR » non étayé.
@@ -735,13 +742,13 @@ Format fixe. Sauf mention, **chaque consigne est HEURISTIC**. Les chiffres cité
 | Artist — les murs protègent-ils des corbeaux ? | « traverse les murs » **et** « coupez la ligne (…) pas le décor vertical très épais » (même fiche) | contradiction interne du seed | **UNRESOLVED** (CONFLICT-L4G4-02) |
 | Artist — « s'accroupir évite le Killer Instinct » | affirmé | [CM] : le Killer Instinct ne dépend pas de la posture | NON VÉRIFIABLE, douteux |
 | Trickster — No Way Out | 12 s par token (~60 s) | audit (wiki Exit Gates) : 12 s + 6/9/12 s par jeton | audit retenu (CONFLICT-L4G4-01) ; à reconfirmer par le lot 3 |
-| Good Guy — Scamper casse la palette | 1v4 « depuis 9.4.2 » | audit : changements 9.4.2 propres au **2v8** | audit retenu (CONFLICT-L4G5-03) ; comportement 1v4 exact à confirmer |
+| Good Guy — Scamper casse la palette | 1v4 « depuis 9.4.2 » | audit : changements 9.4.2 propres au **2v8** ; **mais** la liste wiki.gg Pallets de l'audit (SS, à reconfirmer) cite le Good Guy parmi les destructions de palette par pouvoir | datation 9.4.2 en 1v4 : FAUSSE (CONFLICT-L4G5-03) ; **capacité 1v4 à casser les palettes : UNRESOLVED** (ne pas enseigner « il ne casse pas ») |
 | Singularity — Overclock / Overheat / EMP | 5,7 s, +3 %, actions +75 %, immunité aux stuns ; Overheat 3 s Hindered 50 % ; EMP 45 s | audit : erreurs relevées sur la fiche Singularity, non détaillées | NON VÉRIFIABLE, **suspect** |
 | Dark Lord — loup | 4,8 m/s avec Scent Orbs | aucune (formulation suspecte : Haste en % ?) | NON VÉRIFIABLE |
 | Unknown — UVX | CD 6,25 s « (9.6.0) » | audit : buff 9.6.0 sans détail | NON VÉRIFIABLE |
 | Krasue — Leech remis à zéro au crochet | hotfix 9.2.2 | résumé 9.2.2 de l'audit : seulement Off the Record | NON VÉRIFIABLE |
 | Nowhere to Hide (perk, fiches Knight/Nurse/Executioner) | 18 m « en live » | notes 10.1.0 LIVE : **24 m** (18 m = PTB 10.1.0) | **tranché par l'audit** (CONFLICT-G11) : 24 m LIVE |
-| Huntress — hachettes | 7 | audit : 5 de base | **tranché par l'audit** : 5 |
+| Huntress — hachettes | 7 | audit : « 7 hachettes » relevé comme erreur, sans donner la bonne valeur ; 5 = [CM] | « 7 » FAUX (audit) ; **5 = UNCERTAIN [CM]**, à confirmer |
 
 ### 5.3 Statistiques contestées (ne pas citer de chiffres)
 
@@ -763,10 +770,10 @@ Compilées depuis les sections « Écarts avec le guide seed » des 6 fichiers. 
 
 | # | Tueur | Le seed dit | Preuve (audit) | Verdict | Fichier |
 |---|---|---|---|---|---|
-| 1 | Huntress | 7 hachettes | 5 de base | FAUX | g2 |
+| 1 | Huntress | 7 hachettes | l'audit relève « 7 hachettes » comme erreur (valeur correcte 5 = [CM], non donnée par l'audit) | FAUX (valeur de remplacement UNCERTAIN) | g2 |
 | 2 | Huntress | plus haut kill rate global BHVR 2026 | pick le plus large ; kill rate top = Lich | FAUX | g2 |
 | 3 | Knight (et partout) | Nowhere to Hide 18 m « depuis 10.1.0 », donc « moins bon » | 24 m LIVE ; 18 m = PTB 10.1.0 | FAUX (PTB présenté comme LIVE) | g4 |
-| 4 | Good Guy | Scamper casse la palette en 1v4 « depuis 9.4.2 » + counterplay associé | buffs 9.4.2 = 2v8 | FAUX en 1v4 (2v8 présenté comme 1v4) | g5 |
+| 4 | Good Guy | Scamper casse la palette en 1v4 « depuis 9.4.2 » + counterplay associé | buffs 9.4.2 = 2v8 | FAUX tel que présenté (2v8 présenté comme 1v4) ; la capacité 1v4 reste UNRESOLVED (liste wiki.gg Pallets de l'audit, §5.2) | g5 |
 | 5 | Good Guy | « très buffé début 2026 » | buffs 2v8 | IMPRÉCIS | g5 |
 | 6 | Ghoul | « > 60 % de kill en MMR élevé selon BHVR » | aucun chiffre ; Ghoul = pick rate | FAUX / non étayé | g6 |
 | 7 | Cenobite | perks sous les noms Deadlock, Hex: Plaything, Scourge Hook: Gift of Pain | renommées en 9.0.0 (No Holds Barred, Fortune's Fool, Weeping Wounds) | IMPRÉCIS (OBSOLETE) | g4 |
@@ -786,7 +793,7 @@ Compilées depuis les sections « Écarts avec le guide seed » des 6 fichiers. 
 | 21 | Chapitre entier | kill rates NightLight par tueur | chiffres sans n ni date | IMPRÉCIS | g1, g5 |
 | 22 | Hillbilly, Spirit, Cannibal, Singularity | (fiches entières) | l'audit dit « erreurs relevées » **sans les détailler** dans `audit_phase0.txt` | erreurs prouvées mais **non localisées** → toute valeur de ces fiches est suspecte | g1, g2, g5 |
 
-Confirmés **OK** par l'audit (pour mémoire) : Nurse 3,85 m/s ; Shape EI 60 s / SS 7,5 m/s / CD 4 s / TR 16-32 m, retrait boutique ; Doctor 0,65 s ; Cannibal, Pig, Clown, Dredge, Mastermind, Unknown : existence des buffs ; Coulrophobia 20/25/30 % ; Pop 20 % au total (9.5.0) ; Ghost Face accroupi 4,0 m/s ; Demogorgon Shred 19 m/s et Undetectable 12 s ; Blight 4,4 m/s et coût en tokens ; Twins, Victor lance des chases (9.0.0) ; Trickster 4,4 m/s / TR 24-44 m / 36 lames / 16 s ; Call of Brine 30/40/50 % 90 s ; Lich sorts dès le début ; Dark Lord et Ghoul (avec add-on) cassent les palettes ; Krasue, The First, Slasher, Judgment : vitesses, TR, dates ; Exile.
+Confirmés **OK** par l'audit (pour mémoire ; « cassent les palettes » = liste wiki.gg Pallets STRONG_SECONDARY « à reconfirmer ») : Nurse 3,85 m/s ; Shape EI 60 s / SS 7,5 m/s / CD 4 s / TR 16-32 m, retrait boutique ; Doctor 0,65 s ; Cannibal, Pig, Clown, Dredge, Mastermind, Unknown : existence des buffs ; Coulrophobia 20/25/30 % ; Pop 20 % au total (9.5.0) ; Ghost Face accroupi 4,0 m/s ; Demogorgon Shred 19 m/s et Undetectable 12 s ; Blight 4,4 m/s et coût en tokens ; Twins, Victor lance des chases (9.0.0) ; Trickster 4,4 m/s / TR 24-44 m / 36 lames / 16 s ; Call of Brine 30/40/50 % 90 s ; Lich sorts dès le début ; Dark Lord et Ghoul (avec add-on) cassent les palettes ; Krasue, The First, Slasher, Judgment : vitesses, TR, dates ; Exile.
 
 ### 6.2 Suspectes, non prouvées (quota épuisé — à vérifier)
 

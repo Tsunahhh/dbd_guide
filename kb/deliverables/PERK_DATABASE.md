@@ -1,5 +1,7 @@
 # PERK DATABASE — index consolidé des perks (livrable §51-5)
 
+> **Statut : WRITTEN + AUDITED (audits adversariaux §25-26 du 27/09/2026, sans web) — voir kb/audit/pass14_deliverables.md**
+
 > **Version de référence : LIVE 10.1.2a** (hotfix serveur du 17/09/2026, chapitre 41). **État au 27/09/2026.**
 > Le **PTB 10.2.0** (15 → 21/09/2026) n'est **pas LIVE** : la colonne « PTB 10.2.0 » ne signale qu'une modification annoncée, jamais une valeur en jeu.
 >
@@ -46,6 +48,8 @@ Contrôle fait par script : chaque en-tête de fiche correspond à une ligne du 
 
 Ces chiffres concordent avec les en-têtes « Couverture web » des fichiers (survivant : 7 + 12 + 18 + 14 + 14 + 19 + 18 + 4 = 106 = 104 WEB + Stake Out + Borrowed Time ; tueur : 3 + 3 + 8 + 3 + 8 + 8 + 9 = 42).
 
+**Rapprochement avec `kb/ledgers/BATCH_2_4_SYNTHESIS.md` §1** (qui donne 106 / 1 / 69 côté survivant et 42 / 17 / 86 côté tueur) : les découpages diffèrent, pas les fiches. Survivant : la synthèse compte Stake Out et Borrowed Time comme vérifiés web (ici NON, seul le PTB est vérifié) et range les 4 perks « AUDIT partiel » parmi les non re-vérifiées (69 = 67 − 2 + 4). Tueur : la synthèse compte 17 perks « via audit » dont 9 seulement pour le nom ou l'existence (Surge, No Holds Barred, Silent Shadow, Furtive Chase, See How They Run, Cull the Weak, Undone, Hex: Scared to Death, Rampage), rangées ici en « NON (nom : AUDIT) » (95 = 86 + 9). Le `PROJECT_MANIFEST.md` reprend le découpage de la synthèse.
+
 ### 1.3 Perks dont le seed était FAUX (verdict des fiches)
 
 | Côté | Perk | Le seed dit | Fiche (LIVE 10.1.2a) | Confiance |
@@ -62,7 +66,10 @@ Ces chiffres concordent avec les en-têtes « Couverture web » des fichiers (su
 | Tueur | Terminus | persiste 35/40/45 s | 20/25/30 s — **FAUX probable** (1 source, UNRESOLVED) | SS |
 | Tueur | Unbound, Undone, Dark Arrogance, Ravenous | valeurs du ch. 8 du seed | valeurs PTB présentées comme LIVE dans le ch. 8 (p. 96 correcte ou non vérifiable) — **PTB-comme-LIVE probable**, CONFLICT-K96-01 | U |
 
-Total : **7 survivant** (dont 1 probable) et **7 tueur** (1 FAUX, 1 PTB-comme-LIVE prouvé, 1 FAUX probable, 4 PTB-comme-LIVE probables dans le ch. 8).
+Total : **7 survivant** et **7 tueur**. **Statut de preuve harmonisé avec `BATCH_2_4_SYNTHESIS.md` §2.1** (PROUVÉ = notes officielles ou audit ; PROBABLE = résumé(s) de recherche seulement ; SUSPECT = incohérence interne ou mémoire) :
+- survivant : **PROUVÉ** Vigil, Repressed Alliance, Technician ; **PROBABLE** Built to Last, Quick Gambit, Ace in the Hole, Boon: Dark Theory (résumés seulement, même quand la colonne dit « SS ») ;
+- tueur : **PROUVÉ** Nowhere to Hide (PTB-comme-LIVE), Surge ; **PROBABLE** Terminus, Undone (PTB-comme-LIVE) ; **SUSPECT** Unbound, Dark Arrogance, Ravenous (incohérence interne du seed seulement, pas « probable »).
+- Cette table ne reprend que les verdicts FAUX des fiches ; la synthèse §2.1 recense en plus 18 erreurs PROBABLES et 28 SUSPECTES (ex. Boon: Circle of Healing, Five Moves Ahead, Saboteur, Lithe, Insidious, Dominance) classées IMPRÉCIS dans les fiches.
 
 ### 1.4 Perks touchées par le PTB 10.2.0 (PTB, non LIVE)
 
@@ -432,7 +439,9 @@ Vues du côté survivant. Menace et indice observable = **HEURISTIC**. Les ligne
 
 ## 4. Archétypes de builds survivant — HEURISTIC
 
-> **Tout ce chapitre est HEURISTIC** (raisonnement à partir des fiches, aucune donnée de performance, aucun taux de victoire). Les perks ont été choisies d'abord parmi celles vérifiées **WEB / AUDIT** (confiance SS ou mieux). Toute perk **UNCERTAIN** est signalée **⚠ UNCERTAIN** et n'est proposée qu'en alternative. Les notes entre crochets `[x]` sont les notes 0-3 HEURISTIC de la fiche pour l'archétype concerné. Les cumuls de bonus identiques sont soumis aux Diminishing Returns 9.6.0 (100 / 50 / 25 %…, FACT audit) ; **quels** modificateurs y sont soumis n'est pas publié, donc chaque DR cité ici est une **HYPOTHESIS**.
+> **Tout ce chapitre est HEURISTIC** (raisonnement à partir des fiches, aucune donnée de performance, aucun taux de victoire). Les perks ont été choisies d'abord parmi celles vérifiées **WEB / AUDIT** (confiance SS ou mieux). Toute perk **UNCERTAIN** est signalée **⚠ UNCERTAIN** et n'est proposée qu'en alternative. Les notes entre crochets `[x]` sont les notes 0-3 HEURISTIC de la fiche pour l'archétype concerné. Les cumuls de bonus identiques sont soumis aux Diminishing Returns 9.6.0 (100 / 50 / 25 %…, FACT audit) ; **quels** modificateurs y sont soumis n'est pas dans les notes de patch (le manuel du jeu 9.6.1 les listerait, selon l'audit, mais n'a pas été consulté), donc chaque DR cité ici est une **HYPOTHESIS**.
+>
+> **Limites (audit §26 du 27/09/2026)** : un archétype n'est pas un build « recommandé » : aucun taux de victoire, aucune donnée d'usage. Les quatre perks d'un archétype ne sont pas testées ensemble ; les listes « CONTRE QUOI / CAS D'ÉCHEC » ne sont pas exhaustives. Un joueur qui garde un seul archétype quel que soit le tueur prend une habitude rigide : l'archétype se choisit selon le rôle dans l'équipe (SoloQ/SWF) et le style de jeu, puis s'adapte après la partie (écran de fin, `PERK_DEDUCTION.md` §6).
 > Marque **[PTB]** = perk modifiée au PTB 10.2.0 : build à revoir à la sortie de 10.2.0.
 
 ### 4.1 Chase — Lithe · Windows of Opportunity [PTB] · Parental Guidance · Lucky Break
@@ -440,7 +449,7 @@ Perks : Lithe (WEB, SS) [3] · Windows of Opportunity (WEB, VMS) [3] · Parental
 - **POURQUOI** : Windows montre la prochaine tile sans la chercher ; Lithe convertit un rushed vault en +50 % Haste 3 s pour l'atteindre (synergie citée par les deux fiches). Parental Guidance (5/6/7 s sans traces après un stun) et Lucky Break (sans griffures ni sang quand blessé) aident à casser la ligne après le contact.
 - **QUAND** : cartes riches en fenêtres ; joueur qui connaît mal les cartes procédurales ; tueurs M1 qui pistent aux traces.
 - **CONTRE QUOI** : tueurs qui suivent griffures et sang ; tueurs anti-palette (Brutal Strength, Enduring, vérifiées) : Lithe ne dépend pas des palettes.
-- **CAS D'ÉCHEC** : Blight, Nurse (mobilité : la distance gagnée ne compte pas, fiches Lithe et Windows) ; zones mortes sans fenêtre ; tueurs à aura ou Undetectable (Lucky Break sans effet) ; Lithe est une perk d'Exhaustion : pas de seconde (Sprint Burst, Dead Hard…). Five Moves Ahead ferait doublon avec Windows en LIVE (fiche).
+- **CAS D'ÉCHEC** : Blight, Nurse (mobilité : la distance gagnée ne compte pas, fiches Lithe et Windows) ; zones mortes sans fenêtre ; tueurs à aura ou Undetectable (Lucky Break sans effet) ; Lithe est une perk d'Exhaustion : pas de seconde (Sprint Burst ; Dead Hard ⚠ UNCERTAIN…). Five Moves Ahead ferait doublon avec Windows en LIVE (fiche).
 
 ### 4.2 Information — Spine Chill [PTB] · Alert · Inner Focus · Empathy
 Perks : Spine Chill (WEB, SS) [info 2] · Alert (WEB, SS) [2] · Inner Focus (WEB, SS) [3] · Empathy (WEB, SS) [2].
@@ -458,10 +467,10 @@ Perks : Potential Energy (WEB, SS) [gen 2] · Corrective Action (WEB, SS) [2] ·
 
 ### 4.4 Soin — Botany Knowledge · Self-Care · Bite the Bullet · Empathy
 Perks : Botany Knowledge (WEB, SS) [soin 3] · Self-Care (WEB, SS) [2] · Bite the Bullet (WEB, SS) [2] · Empathy (WEB, SS) [2].
-- **POURQUOI** : autonomie (Self-Care, auto-soin à 25/30/35 %), vitesse (Botany, +30/40/50 %), discrétion (Bite the Bullet : soin silencieux, raté sans bruit), repérage des blessés et mourants (Empathy). Un seul bonus de vitesse de soin « identique » (Botany) pour limiter les DR ; We'll Make It / Empathic Connection en plus seraient probablement réduits (HYPOTHESIS, fiches).
+- **POURQUOI** : autonomie (Self-Care, auto-soin à 25/30/35 %), vitesse (Botany, +30/40/50 %), discrétion (Bite the Bullet : soin silencieux, raté sans bruit), repérage des blessés et mourants (Empathy). Un seul bonus de vitesse de soin « identique » (Botany) pour limiter les DR ; We'll Make It [PTB] / Empathic Connection [PTB] en plus seraient probablement réduits (HYPOTHESIS, fiches).
 - **QUAND** : SoloQ sans soigneur fiable ; grandes cartes ; tueurs qui ne reviennent pas vite.
 - **CONTRE QUOI** : tueurs M1 où chaque état de santé compte.
-- **CAS D'ÉCHEC** : A Nurse's Calling (aura des soigneurs à 28/30/32 m, VERIFIED audit) annule la discrétion ; Sloppy Butcher (Mangled + Haemorrhage), Coulrophobia (−20/25/30 % dans la terreur), Septic Touch (Blindness + Exhausted) ; Broken (Terminus, Forced Penance ⚠ UNCERTAIN) ; tueurs « one-shot », Nurse, Blight : ~45 s d'auto-soin coûtent plus qu'un gen (fiche Self-Care, calcul HYPOTHESIS).
+- **CAS D'ÉCHEC** : A Nurse's Calling (aura des soigneurs à 28/30/32 m, VERIFIED audit) annule la discrétion ; Sloppy Butcher (Mangled + Haemorrhage), Coulrophobia (−20/25/30 % dans la terreur), Septic Touch (Blindness + Exhausted) ; Broken (Terminus, Forced Penance ⚠ UNCERTAIN) ; tueurs « one-shot », Nurse, Blight : un auto-soin Self-Care dure ~46 s au rang III et ~64 s au rang I (soin de base 16 s [audit] ÷ 35 % ou 25 %, sans autre bonus), soit à peu près le temps d'un gen seul (90 s) à moitié ou aux deux tiers : il coûte souvent plus que ce qu'il rapporte contre ces tueurs (fiche Self-Care ; comparaison HEURISTIC).
 
 ### 4.5 Altruisme (décrochage, relevage) — Reassurance · Babysitter · We'll Make It [PTB] · We're Gonna Live Forever
 Perks : Reassurance (WEB, SS) · Babysitter (WEB, SS) [anti-tunnel 2] · We'll Make It (WEB, SS) [soin 3] · We're Gonna Live Forever (WEB, SS) [soin 2, anti-tunnel 2].
@@ -475,7 +484,7 @@ Perks : Will to Live (WEB+AUDIT, SS) [anti-tunnel 3] · **Off the Record ⚠ (AU
 - **POURQUOI** : fenêtres de protection qui se recouvrent après le décrochage (fiche Will to Live). Will to Live : stun 4 s si le tueur vous ramasse dans les 40/50/60 s. Off the Record : Endurance et aura cachée 30/35/40 s. Deliverance : auto-décrochage après un sauvetage propre. Lithe : relance la chase.
 - **QUAND** : tueurs qui tunnel ; SoloQ où personne ne prend de coup pour vous.
 - **CONTRE QUOI** : tunnel juste après les protections de base de décrochage (10.1.0 : Endurance, 10 % Haste, Elusive 10 s, audit).
-- **CAS D'ÉCHEC** : le tueur slugge ou attend la fin de la fenêtre ; réparer ou soigner coupe Will to Live (et probablement Off the Record, ⚠) ; gens tous finis = Will to Live inactive ; Deliverance rend Broken 160/140/120 s ; Knock Out cache l'aura du survivant à terre aux alliés.
+- **CAS D'ÉCHEC** : le tueur slugge ou attend la fin de la fenêtre ; réparer ou soigner coupe Will to Live (formulation du seed et d'une source, non relue dans le résumé principal : partie ⚠) (et probablement Off the Record, ⚠) ; gens tous finis = Will to Live inactive ; Deliverance rend Broken 160/140/120 s ; Knock Out cache l'aura du survivant à terre aux alliés.
 
 ### 4.7 Anti-slug — Tenacity · Boon: Exponential · Soul Guard · We're Gonna Live Forever
 Perks : Tenacity (WEB, SS) · Boon: Exponential (WEB, SS) [soin 2] · Soul Guard (WEB, SS) · We're Gonna Live Forever (WEB, SS). Alternative : **Unbreakable ⚠ UNCERTAIN** (limite « une fois, mise à terre par le tueur » SS, pourcentages UNCERTAIN).
@@ -499,11 +508,11 @@ Perks : Will to Live [SoloQ 3] · Windows of Opportunity [3] · Deliverance [3] 
 - **CAS D'ÉCHEC** : Deliverance exige d'avoir fait un décrochage sûr avant d'être accroché ; slug ; joueur expert des cartes (Windows perd sa valeur) ; rework PTB de Windows.
 
 ### 4.10 SWF — Shoulder the Burden [PTB] · Breakout · Teamwork: Throw Down · Teamwork: Full Circuit
-Perks : Shoulder the Burden (WEB, SS) [SWF 3] · Breakout [2] · Teamwork: Throw Down [2] · Teamwork: Full Circuit [2] (toutes WEB, SS).
+Perks : Shoulder the Burden (WEB, SS) [SWF 3] · Breakout [2] · Teamwork: Throw Down [2] · Teamwork: Full Circuit [2] (toutes WEB, SS ; **Breakout ⚠ : valeur de Haste 6/8/10 % ou 5/6/7 % en conflit, CONFLICT-P25-01 UNRESOLVED**, seuls le rayon de 5 m et la lutte +25 % sont SS).
 - **POURQUOI** : le vocal rend exploitables les effets à deux. Full Circuit : +5 % et zone Good +15/20/25 % par allié sur le gen. Throw Down : Endurance 6/8/10 s aux alliés blessés à 24 m après un aveuglement ou un stun de palette. Breakout : Haste et lutte +25 % pour un sauvetage au portage. Shoulder the Burden : prendre un état de crochet à la place d'un allié.
 - **QUAND** : équipe coordonnée avec lampes et palettes.
 - **CONTRE QUOI** : tunnel d'un joueur (Shoulder the Burden) ; portages longs (Breakout).
-- **CAS D'ÉCHEC** : Starstruck (« punit fortement les saves SWF », fiche) ; Hex: Two Can Play (aveugle le flasheur) ; Lightborn, Iron Grasp, Mad Grit (⚠ UNCERTAIN) ; Shoulder the Burden rend Exposed 60/50/40 s (au PTB : Broken et désactivée pour toute l'équipe) ; DR entre Full Circuit et Soft-Spoken (+5 % chacun, HYPOTHESIS).
+- **CAS D'ÉCHEC** : Starstruck (« punit fortement les saves SWF », fiche) ; Hex: Two Can Play (aveugle le flasheur) ; Lightborn, Iron Grasp, Mad Grit (⚠ UNCERTAIN) ; Shoulder the Burden rend Exposed 60/50/40 s (au PTB : Broken et désactivée pour toute l'équipe) ; DR entre Full Circuit et Teamwork: Soft-Spoken (+5 % chacun, HYPOTHESIS) ; les réparations groupées subissent la pénalité coop (85 / 70 / 55 % par personne à 2 / 3 / 4, FACT SS audit) que +5 % ne compense pas. **Contradiction à arbitrer** avec `PERK_DEDUCTION.md` §5 (réflexes n° 2 « 1 survivant par gen » et n° 13 « ne pas suivre une chase de près ») : ce build suppose au contraire des gens groupés et un suivi du porteur ; l'abandonner dès qu'un signal de Starstruck, Mad Grit ou Infectious Fright apparaît (`PERK_DEDUCTION.md` §3.B3).
 
 ### 4.11 Apprentissage — Windows of Opportunity [PTB] · Spine Chill [PTB] · Botany Knowledge · Reassurance
 Perks : les quatre sont de difficulté **1** dans leur fiche (passives ou déclenchement simple), toutes WEB (Windows VMS, autres SS).
@@ -513,8 +522,8 @@ Perks : les quatre sont de difficulté **1** dans leur fiche (passives ou décle
 - **CAS D'ÉCHEC** : Windows ne sert plus quand on connaît les cartes (fiche) ; Spine Chill exige une ligne de vue ; deux perks reworkées au PTB 10.2.0. Au PTB, Slippery Meat est présentée comme anti-tunnel pour débutants (PTB, non LIVE).
 
 ### 4.12 Régularité — Distortion · Windows of Opportunity [PTB] · Sprint Burst · Empathy
-Perks : Distortion (WEB, SS) · Windows of Opportunity (WEB, VMS) · Sprint Burst (WEB+AUDIT, VMS) · Empathy (WEB, SS). Critère : parmi les perks WEB, ce sont celles dont les notes HEURISTIC sont non nulles sur le plus d'axes (7 à 8 sur 9). Elles apportent donc un peu de valeur dans la plupart des parties.
-- **POURQUOI** : peu de conditions de déclenchement. Distortion masque l'aura et **signale** qu'un effet d'aura existe ; Sprint Burst donne 2 s de +50 % Haste au premier contact ; Windows et Empathy fonctionnent en permanence.
+Perks : Distortion (WEB, SS) · Windows of Opportunity (WEB, VMS) · Sprint Burst (WEB+AUDIT, VMS) · Empathy (WEB, SS). Critère : parmi les perks WEB, notes HEURISTIC non nulles sur le plus d'axes. Seule Distortion atteint 8/9 ; **dix** perks sont à égalité à 7/9 (Windows of Opportunity, Sprint Burst, Empathy, We'll Make It, Plot Twist, Lucky Break, Inner Focus, For the People, Bound by Obsession, Boon: Shadow Step) : le choix des trois autres parmi elles est **arbitraire** (HEURISTIC : pas de doublon de rôle avec Distortion, perks sans condition de coéquipier). Elles apportent un peu de valeur dans la plupart des parties.
+- **POURQUOI** : peu de conditions de déclenchement. Distortion masque l'aura et **signale** qu'un effet d'aura existe ; Sprint Burst donne 2 s de +50 % Haste **au début d'une course** (pas au contact : il se déclenche dès qu'on court, d'où la gestion de la marche) ; Windows et Empathy fonctionnent en permanence.
 - **QUAND** : pour grimper sans connaître le tueur à l'avance.
 - **CONTRE QUOI** : tueurs à lecture d'aura (BBQ ⚠, Lethal Pursuer ⚠, Nowhere to Hide, A Nurse's Calling).
 - **CAS D'ÉCHEC** : Distortion ne se déclenche jamais contre un tueur sans aura ; Sprint Burst gâchée si on court sans raison, et déclenchée trop tard contre les tueurs furtifs (fiche) ; aucune perk n'excelle dans un axe : contre un tueur précis, un build spécialisé fait mieux (HEURISTIC).

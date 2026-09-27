@@ -1,12 +1,16 @@
 # PERK DEDUCTION : lire le loadout du tueur pendant la partie (vue survivant)
 
+> **Statut : WRITTEN + AUDITED (audits adversariaux §25-26 du 27/09/2026, sans web) — voir kb/audit/pass14_deliverables.md**
+
 > Livrable mission §10 « PERK DEDUCTION » (voir `prompt.md`).
 > **Référence de version : LIVE 10.1.2a (17/09/2026).** Le PTB 10.2.0 (15-21/09/2026) **n'est pas LIVE**. Toute valeur PTB est étiquetée « PTB ».
 > Rédigé le 27/09/2026 **sans recherche web** (quota épuisé). Ce document consolide uniquement :
 > - les 7 fichiers du lot 3 : `kb/research/batch3_perks_kill_p90.md` … `p96.md` (cités **[p90] … [p96]**) ;
 > - l'audit vérifié de la phase 0 : `kb/seed/audit_phase0.txt` (cité **[audit]**).
 >
-> **Statut : PARTIALLY_VERIFIED.** Environ 60 % des perks citées ont des valeurs UNCERTAIN (liste au §7). Aucune analyse de VOD n'a été faite.
+> **Statut de vérification : PARTIALLY_VERIFIED.** Environ 60 % des perks tueur ont des valeurs UNCERTAIN (86/145 = 59 % sans vérification web ni audit selon `BATCH_2_4_SYNTHESIS.md` ; 95/145 = 66 % si l'on compte aussi les perks dont seul le nom est confirmé, décompte de `PERK_DATABASE.md` ; liste au §7). Aucune analyse de VOD n'a été faite.
+>
+> **Aucune déduction de ce document n'est certaine pendant la partie** : l'écran de fin est la seule confirmation (§1.2). Les liens « Signature » supposent que le périmètre de 145 perks du seed est complet, ce qui n'a pas été vérifié (§0).
 
 ---
 
@@ -28,7 +32,7 @@
 **Règle d'or** : un chiffre marqué **U** ne sert **jamais** de base à une décision fine, par exemple « j'ai 38 s ». Le comportement robuste proposé ne dépend que du **mécanisme** (déclencheur, cible, type d'effet).
 
 **Confiance du lien signal → perk** (HEURISTIC, propre à ce document)
-- **Signature** : dans le périmètre du lot 3, le signal ne correspond qu'à une perk. Réserve : un pouvoir ou un add-on peut produire le même effet (voir §1.4).
+- **Signature** : dans le périmètre du lot 3, le signal ne correspond qu'à une perk. Réserves : un pouvoir ou un add-on peut produire le même effet (voir §1.4) ; une perk **d'un coéquipier** aussi (vérifier Match Details) ; le périmètre du lot 3 (145 perks du seed) n'a pas été comparé à une liste officielle ; et quand l'effet est **U**, la signature elle-même repose sur une description non vérifiée. « Signature » = hypothèse de travail très forte, **jamais** une certitude.
 - **Fort** : 2 ou 3 perks candidates, qu'un test simple départage.
 - **Faible** : repose sur le comportement du tueur. Le talent, le pouvoir ou le hasard suffisent souvent à l'expliquer.
 
@@ -207,9 +211,9 @@
 | TR entendu **plus loin** que la normale pour ce tueur | Distressing (+20/25/30 %, SS) ; Monitor & Abuse (+5/10/15 %, SS) ; add-ons | Distressing : toujours large. M&A : large en chase, mais démarre **plus tard** hors chase | Faible · effets SS [p94][p96] |
 | TR qui démarre **plus tard** que prévu hors chase | Monitor & Abuse | −15/20/25 % hors chase (SS ; effet net U) | Faible · effet SS [p96] |
 | Heartbeat anormalement **large pendant un portage** | Agitation | Le TR se rétracte à l'accrochage (U ; valeurs PTB U) | Fort · effet U [p93] |
-| **Aura rouge du tueur** visible sans perk d'aura, à intervalle régulier | Deerstalker | Vous êtes le survivant au plus faible temps de chase cumulé ; toutes les 40/35/30 s. Aura 3 s en LIVE, 4 s au **PTB 10.2.0** (SS ; CONFLICT-K93-01). Réciproque : il voit la vôtre | Signature · mécanisme SS [p93] |
+| **Aura rouge du tueur** visible sans perk d'aura **(ni chez vous ni chez un coéquipier : vérifier Match Details)**, à intervalle régulier | Deerstalker | Vous êtes le survivant au plus faible temps de chase cumulé ; toutes les 40/35/30 s. Aura 3 s en LIVE, 4 s au **PTB 10.2.0** (SS ; CONFLICT-K93-01). Réciproque : il voit la vôtre | Signature · mécanisme SS [p93] |
 | **Aura jaune d'un gen** visible sans perk + pas de TR | Trail of Torment | Disparaît quand quelqu'un touche le gen (U) | Signature · effet U [p93] |
-| Coéquipier au sol (barre d'état) dont **on ne voit pas l'aura** à distance | Knock Out | Down par coup de base : aura visible seulement à 32/24/16 m (SS) | Fort · effet SS [p94] |
+| Coéquipier au sol (barre d'état) dont **on ne voit pas l'aura** à distance | Knock Out | Down par coup de base : aura visible seulement à 32/24/16 m (SS). Écarter d'abord la **Blindness** (vérifier son HUD : Mindbreaker, Third Seal, Septic Touch, add-ons) | Fort · effet SS [p94] |
 
 ### 2.6 Objets, coffres, props
 
@@ -293,7 +297,7 @@
 - **Observation** : flamme ou grésillement près d'un totem au début.
 - **Hypothèses** : Hex de départ (voir §2.4). Si aucun effet n'est perceptible : Haunted Ground (piège, U), Undying (protection, U) ou Thrill of the Hunt (purification lente, SS).
 - **Test** : quel effet s'arrête après la purification ?
-  - Si **l'effet persiste** → Undying (U).
+  - Si **l'effet persiste** → Undying (U) **ou** l'effet venait d'un **autre** Hex / d'une perk non-Hex / du pouvoir (on a purifié le mauvais totem) : chercher un 2e totem allumé avant de conclure.
   - Si **tout le monde devient Exposed** → Haunted Ground (U).
 - **Comportement robuste** (EXPERT OPINION) : purifier un Hex **quand le tueur est en chase loin** et qu'aucun coéquipier n'est blessé en danger, **pas** « dès qu'il s'allume ». L'audit classe cette consigne absolue parmi les heuristiques dangereuses.
   - En SWF : annoncer la position de tous les totems allumés avant de purifier.
@@ -302,6 +306,7 @@
 **A3. Un gen lâché a reculé tout seul** · [p91] règle 4
 - **Observation** : un gen partiel a perdu de la progression pendant votre absence, sans kick. Le tueur était en poursuite ailleurs.
 - **Hypothèses** : Hex: Ruin (100/125/150 %, SS). Écarter Call of Brine et Lay Waste (qui exigent un kick) et Oppression (déclenchée par un kick ailleurs, U).
+- **Explications sans perk à écarter d'abord** (FACT [audit]) : un **kick non vu** (le tueur a pu passer entre deux regards ; un gen kické régresse ensuite à −0,25 charge/s) ; un **skill check raté** d'un coéquipier (−10 %) ; une perte instantanée au hook ou au down (Pain Resonance, Eruption, Surge, §3.B). « Le tueur était en poursuite ailleurs » n'est une preuve que si on l'a suivi (aura, cris) pendant toute l'absence.
 - **Test** : trouver un totem allumé. Le recul s'arrête-t-il après la purification ?
 - **Comportement robuste** : finir les gens entamés plutôt qu'en ouvrir de nouveaux ; ne pas éparpiller la progression ; purifier **en passant**.
 - **Erreur** : tout le monde part chercher le totem ; lâcher un gen à 70 % pour aller « toucher » un autre gen.
@@ -320,6 +325,7 @@
 
 **A6. Une aura rouge du tueur apparaît sans perk d'aura** · [p93] règle 1
 - **Hypothèse** : Deerstalker. Vous êtes le survivant le moins poursuivi ; aura de 3 s en LIVE (SS, conflit avec 4 s = PTB).
+- **À écarter d'abord** : une perk de coéquipier qui montre l'aura du tueur (Babysitter, SS ; Kindred et Salvation's Cry, U : vérifier Match Details, §1.2) et vos propres perks d'aura conditionnelles.
 - **Test** : la réapparition suit-elle un intervalle régulier (40/35/30 s) ?
 - **Comportement robuste** : il vous a vu aussi. **Bouger** après chaque apparition et se préparer à une chase près d'une tile. Chaque lecture d'aura du tueur de votre côté vous révèle également.
 - **Erreur** : rester caché sur place ; enchaîner les perks d'aura contre ce tueur.
@@ -333,7 +339,7 @@
 
 **A8. Le tueur arrive toujours sur les duos, ou droit sur vous dès le début** · [p91] règle 10, [p90] règle 4
 - **Hypothèses** : Discordance (U) ; Lethal Pursuer (U).
-- **Comportement robuste** : **1 survivant par gen** (c'est aussi plus efficace, HEURISTIC [p91]). Au début de partie, se placer près d'une structure forte plutôt qu'en zone morte.
+- **Comportement robuste** : **1 survivant par gen** (plus efficace en débit total : pas de pénalité coop de 15 %/réparateur ; mais un gen seul prend 90 s au lieu de ~52,9 s à deux, voir §5 n° 2). Au début de partie, se placer près d'une structure forte plutôt qu'en zone morte.
 - **Erreur** : croire que le tueur « a de la chance » au spawn ; répéter la même position de départ.
 
 **A9. Premières chases : palettes et fenêtres** · [p91] règle 6, [p94] règle 8, [p92][p93]
@@ -348,8 +354,10 @@
   - Spirit Fury : la destruction instantanée n'arrive qu'après plusieurs palettes cassées.
 - **Comportement robuste** :
   - contre les perks de fenêtre : jouer les **palettes** et les loops sans fenêtre ;
-  - contre les perks de palette : **pré-drop** précoce et transition immédiate vers la tile suivante, sans rejouer la palette après un stun ;
+  - contre les perks **anti-stun** (Enduring, Spirit Fury) : ne pas miser la chase sur le stun ; drop plus tôt (pour bloquer, pas pour étourdir) et transition vers la tile suivante, sans rejouer la palette après un stun ;
+  - contre les perks de **casse rapide** (Brutal Strength, Fire Up) : le pré-drop est **moins** rentable (la casse lui coûte moins) ; préférer fenêtres, tiles sans palette et enchaînement de tiles, garder les palettes pour les moments où le drop évite un coup ;
   - compter les palettes cassées.
+  - Aucun de ces réflexes n'est universel : un tueur qui a compris que vous pré-droppez peut couper court avant la palette (voir `KILLER_COUNTERPLAY_HANDBOOK.md` §2.2).
 - **Erreur** : revenir sur la fenêtre que le tueur vient de sauter ; « jouer » la palette tard contre Enduring + Spirit Fury.
 
 **A10. Premier coup reçu : lire le HUD** · [p92] règle 1, [p94] règle 10, [p95] règle 4, [p92] règle 6
@@ -392,7 +400,7 @@
   - distance et historique du gen : Surge ne dépasse pas ~32 m (U) ; Eruption vise les gens kickés ;
   - Knock Out : l'aura réapparaît en s'approchant (32/24/16 m).
 - **Comportement robuste** :
-  - **lâcher les gens kickés dès qu'une chase tourne mal**, et éloigner les chases des gens avancés ;
+  - **si Eruption est suspectée** (cri + recul déjà observé une fois), lâcher les gens kickés quand une chase tourne mal ; **sans ce signal**, rester : un gen kické lâché continue de régresser (−0,25 charge/s, FACT VMS [audit]) ; dans tous les cas, éloigner les chases des gens avancés ;
   - ne pas suivre la chase de près : rester hors TR, à distance ;
   - sous Knock Out, se rapprocher prudemment de la dernière position connue.
   - FACT : aucune auto-relève basekit en LIVE ; la récupération au sol plafonne à 95 % (VP / VMS [audit]).
@@ -411,22 +419,23 @@
   - le tueur frappe en portant sans ralentir → **Mad Grit** (U) ;
   - wiggle inefficace → **Iron Grasp** (U) ;
   - le tueur dévie vers les survivants cachés → **Awakened Awareness** / **Hangman's Trick** (U).
-- **Comportement robuste** (commun) :
-  - **pas de body block ni de flash save au contact** d'un tueur qui porte, sans Endurance ; rester hors du rayon ;
+- **Comportement robuste** (quand **l'un de ces signaux** a été observé) :
+  - **pas de body block ni de flash save au contact** d'un tueur qui porte, sans Endurance ; rester hors du rayon (Starstruck, Agitation) ;
   - préparer les saves **avant** le pickup ;
   - saboter seulement si le crochet est vraiment proche de soi.
+- **Sans aucun signal** : le flash save, le pallet save et le suivi du porteur (Breakout, `PERK_DATABASE.md` §4.10) restent des options normales, surtout en SWF ; la règle ci-dessus n'est pas un interdit général. Le risque de Starstruck (Exposed en entrant dans le TR du porteur) se lit au **premier** portage : vérifier son HUD avant de s'approcher du second.
 - **Erreur** : suivre le porteur pour un save ; rester dans le rayon après l'accrochage (Starstruck garde l'Exposed).
 
 **B4. Au hook : cri, explosion, blocage global** · [p90] règles 1, 2 et 7
 - **Observations et hypothèses** :
-  - cri des réparateurs + explosion du gen **le plus avancé** → **Pain Resonance** (FACT si observé ; SS) ;
+  - cri des réparateurs + explosion du gen **le plus avancé** → **Pain Resonance** (lien Signature, HEURISTIC ; effet SS) ;
   - tous les gens bloqués brièvement → **Grim Embrace** (U) ;
   - gen qui explose sans kick, tueur proche → **Turn Back the Clock** (U).
 - **Test** :
   - Pain Res : seulement au 1er hook de chaque survivant sur un crochet Fléau (4 jetons au maximum, FACT SS) ;
   - Grim Embrace : pas de blocage au 2e hook du même survivant (U).
 - **Comportement robuste** :
-  - ne **jamais** garder un seul gen très avancé au moment d'un 1er hook : le finir avant ou répartir la progression ;
+  - **éviter** de garder un seul gen très avancé au moment d'un 1er hook : le finir avant ou répartir la progression (répartir coûte du tempo si Pain Res n'est pas là : à pondérer par ce qu'on a déjà observé) ;
   - après le cri, réparer au moins 5 % pour stopper la régression (FACT, VMS), ou partir si le tueur arrive ;
   - **compter les jetons** (quels survivants ont déjà été accrochés).
 - **Erreur** : garder un gen à 90 % « pour plus tard » ; arrêter après le cri puis revenir plus tard.
@@ -468,7 +477,7 @@
   - jauge pleine = tentative d'auto-décrochage garantie (SS).
 - **Comportement robuste** :
   - « **pas de cœur ≠ tueur parti** » : inspecter les angles morts (murs proches, casiers) ;
-  - venir à deux (un appât, un sauveteur) ;
+  - venir à deux (un appât, un sauveteur) quand l'équipe peut se coordonner (SWF) ; en SoloQ, deux survivants qui viennent sans se parler au même crochet coûtent souvent un gen : un seul s'approche, l'autre continue si quelqu'un est déjà en route (aura via Kindred / Bond, U) ;
   - écouter la respiration.
 - **Erreur** : décrocher instantanément « parce qu'il n'y a pas de cœur ».
 
@@ -499,8 +508,8 @@
   - TR fixe sur le gen → **Unforeseen** (U) ;
   - skill check immédiat et difficile → **Overcharge** (U) ;
   - régression rapide → **Call of Brine** (SS).
-- **Comportement robuste** (commun) :
-  - quitter la zone **à plus de 24 m**, puis revenir réparer 5 % ;
+- **Comportement robuste** (commun, **quand le tueur est encore près du gen** ou qu'un de ces signaux a déjà été vu) :
+  - quitter la zone **à plus de 24 m**, puis revenir réparer 5 % (coût : la régression continue pendant l'absence ; si le tueur est déjà reparti loin et qu'aucun signal n'a été vu, reprendre le gen tout de suite est souvent meilleur) ;
   - ne pas reprendre **seul** un gen tout juste kické quand le tueur est proche ; préférer d'autres gens ou attendre environ 30 s (Dragon's Grip, U) ;
   - ToT : tant que l'aura jaune est visible, supposer le tueur furtif et proche. Toucher le gen couperait l'effet (U).
   - Le TR d'un gen kické n'est **pas une information** (Unforeseen, U).
@@ -535,7 +544,7 @@
   - **soigner hors TR et loin du tueur** (au-delà de 32 m contre ANC) ;
   - puis se séparer dans deux directions ;
   - se faire soigner par un coéquipier plutôt qu'en auto-soin sous No Quarter ;
-  - contre Face the Darkness et Thanatophobia : **soigner les blessés en priorité**.
+  - contre Face the Darkness et Thanatophobia : **soigner les blessés en priorité**, **sauf** contre un tueur qui re-blesse presque gratuitement (Legion, Plague en Corrupt Purge, tueurs à coup unique) : là, un soin complet n'est pas toujours rentable et jouer blessé peut être le bon choix (voir `KILLER_COUNTERPLAY_HANDBOOK.md`, fiches Legion et Plague ; arbitrage HEURISTIC).
 - **Erreur** : soigner au pied du crochet ou d'un gen patrouillé ; commencer un soin dans le TR puis compter sur Lithe ou Sprint Burst.
 
 **C4. Dynamiques d'Obsession** · [p95] règle 3, [p91], [p96] règle 10
@@ -609,9 +618,9 @@
   - les protections de décrochage **restent** (Endurance + Haste 10 s), seule **Elusive** disparaît ;
   - l'anti-camp est désactivé (SS) ;
   - Batteries Included se désactive (SS [p95]).
-- **Comportement robuste** :
-  - **se soigner avant la dernière gen** ;
-  - finir le dernier gen en groupe, **sain**, sans chase, près des portes ;
+- **Comportement robuste** (à appliquer **quand NOED / Terminus / None Are Free sont plausibles**, par exemple aucun Hex ni perk d'endgame encore exclu) :
+  - **se soigner avant la dernière gen** quand c'est possible (exception : un survivant qui porte Adrenaline, `PERK_DATABASE.md` §4.8, perd son soin s'il est déjà sain) ;
+  - finir le dernier gen en groupe, **sain**, sans chase, près des portes. Ce n'est pas toujours faisable ni optimal : contre un tueur qui tient un 3-gen ou si une chase lointaine occupe le tueur, finir le gen **pendant** cette chase peut rapporter plus que d'attendre (arbitrage HEURISTIC, non mesuré) ;
   - jouer « un coup = à terre » si l'on est blessé ;
   - NOED : à 2, trouver le totem (son aura s'élargit, U) pendant que le 3e ouvre ;
   - Terminus : ouvrir une porte vite pour lancer le compte à rebours.
@@ -658,7 +667,7 @@
 | **Pain Resonance + Grim Embrace** (Artist) | Explosion + blocage global à chaque nouveau survivant accroché | Pas de gen très avancé isolé au 1er hook ; utiliser les blocages courts pour se déplacer ou sauver ; tenir les chases pour ne pas donner 4 premiers hooks rapides. Un gen bloqué ne subit pas de perte instantanée (FACT [p90]) | HEURISTIC [p90] ; Grim Embrace U |
 | **Kicks + régression** (Pop, Eruption, Call of Brine) **+ Surveillance** | Le tueur kicke beaucoup puis revient pile quand on reprend un gen kické | Reprendre un gen kické **puis bouger** (leurre) ; en SWF, un seul survivant reprend, les autres ailleurs ; préférer finir des gens non kickés | HEURISTIC [p95] |
 | **Hex: Ruin + Hex: Undying** | Ruin purifiée, mais les gens reculent toujours | Purifier **tous** les totems allumés ; plus tard, purifier Undying en premier | HEURISTIC [p92] ; Undying U |
-| **Empilement de régressions** (Ruin + Call of Brine + Overcharge + Lay Waste) | Gens qui fondent de plusieurs façons | Les Diminishing Returns 9.6.0 (100/50/25/12,5/5 %, add-ons exclus, VP) réduisent **peut-être** cet empilement. Contre-mesure robuste : réparer 5 % stoppe toute régression (FACT, VMS) ; finir les gens | Rendement de l'empilement : **HYP** (liste des catégories DR non publiée [p90][audit]) |
+| **Empilement de régressions** (Ruin + Call of Brine + Overcharge + Lay Waste) | Gens qui fondent de plusieurs façons | Les Diminishing Returns 9.6.0 (100/50/25/12,5/5 %, add-ons exclus, VP) réduisent **peut-être** cet empilement. Contre-mesure robuste : réparer 5 % stoppe toute régression (FACT, VMS) ; finir les gens | Rendement de l'empilement : **HYP** (les notes 9.6.0 ne listent pas les catégories ; le manuel du jeu 9.6.1 les listerait mais **n'a pas été consulté** [p90][audit]) |
 | **Corrupt Intervention** en ouverture de build | 3 gens bloqués au spawn | Tenir la 1re chase (le 1er down lève le blocage) ; 1-2 survivants sur les gens proches du tueur | HEURISTIC [p90] |
 
 ### 4.2 Information / aura
@@ -673,7 +682,7 @@
 
 | Combo | Signature combinée | Comment le casser | Nature / source |
 |---|---|---|---|
-| **Enduring + Spirit Fury** (± Brutal Strength) | Stun très court, puis palette qui explose au stun | Compter les palettes cassées ; **pré-drop** et transition immédiate ; garder les palettes fortes pour plus tard | HEURISTIC [p92][p93] ; Spirit Fury U |
+| **Enduring + Spirit Fury** (± Brutal Strength) | Stun très court, puis palette qui explose au stun | Compter les palettes cassées ; ne plus miser sur le stun : drop plus tôt pour bloquer, puis transition immédiate ; garder les palettes fortes pour plus tard. Si Brutal Strength s'ajoute, chaque palette lâchée coûte encore moins au tueur : privilégier fenêtres et enchaînement de tiles | HEURISTIC [p92][p93] ; Spirit Fury U |
 | **Keep Them Waiting** (Obsession) | Récupérations de plus en plus courtes sur les non-Obsession | L'Obsession fait les protection hits ; ne pas compter sur la distance gagnée après un coup | HEURISTIC [p91] |
 | **Perks de vault** (Bamboozle, Crowd Control, Cruel Limits) | Fenêtres bloquées selon divers déclencheurs | Jouer les **palettes** et les loops sans fenêtre ; anticiper la tile suivante | HEURISTIC [p91][p94][p96] |
 
@@ -700,25 +709,27 @@
 ## 5. Comportements robustes « par défaut » (on ne sait rien)
 
 > **EXPERT OPINION** : consolidation des « adaptations robustes » récurrentes des batchs. Chaque ligne indique quelles perks elle neutralise, et donc pourquoi elle reste bonne sans certitude.
+>
+> **Limites (audit §26)** : ce sont des **options par défaut**, pas des règles. La colonne « Coût » n'est pas mesurée ; plusieurs réflexes se contredisent entre eux (ex. 1 survivant par gen vs builds de réparation groupée ; ne pas suivre une chase vs saves SWF) et doivent être abandonnés dès qu'un signal écarte la perk visée. Appliqués tous à la fois, ils rendent le jeu très passif : c'est exploitable par un tueur qui n'a **aucune** de ces perks. En **SoloQ**, les réflexes qui supposent une coordination (#5, #13, annonces) ne s'appliquent que par signaux visibles.
 
 | # | Réflexe par défaut | Neutralise ou atténue | Coût si la perk est absente | Réserves |
 |---|---|---|---|---|
 | 1 | **Ne jamais laisser un seul gen très avancé isolé** au moment d'un hook ou d'une pop ; finir les gens entamés plutôt qu'en ouvrir de nouveaux | Pain Res, Pop, No Holds Barred, Jagged Compass, Lay Waste, DMS, Ruin | Faible : c'est aussi l'économie de base des gens | — |
-| 2 | **1 survivant par gen** hors sprint final | Discordance ; pénalité coop (−15 % par réparateur supplémentaire, FACT SS [audit]) | Nul, voire positif | — |
+| 2 | **1 survivant par gen** hors sprint final | Discordance ; pénalité coop (−15 % par réparateur supplémentaire, FACT SS [audit]) | En débit total, positif : 2 gens solo = 2 charges/s contre 1,7 charge/s pour un duo (85 % × 2). Mais chaque gen reste exposé plus longtemps : 90 s seul contre ~52,9 s à deux, ~42,9 s à trois (calcul sur les valeurs de l'audit) | Contre Pop, Pain Res ou un 3-gen, finir **un** gen vite peut valoir plus que le débit ; les builds de réparation groupée (Teamwork: Full Circuit / Soft-Spoken, `PERK_DATABASE.md` §4.10) changent le calcul |
 | 3 | **Réparer 5 % pour stopper une régression** ; ne pas « tapoter » | Toutes les régressions (Ruin, CoB, Overcharge, Oppression, Eruption, Pop…) | — | FACT (VMS [audit]) |
 | 4 | **Après un hook, lâcher d'abord un gen peu avancé** si l'on doit partir | DMS | Nul | Au PTB 10.2.0 le lâcher doit durer plus de 2 s (PTB) |
 | 5 | **Garder 1-2 réparateurs actifs** quand une chase va finir en down | Thrilling Tremors | Nul | — |
-| 6 | **Lâcher les gens kickés quand une chase tourne mal** ; éloigner les chases des gens | Eruption, Surge, Batteries Included | Faible | — |
+| 6 | **Lâcher les gens kickés quand une chase tourne mal** ; éloigner les chases des gens | Eruption, Surge, Batteries Included | **Moyen** : un gen kické lâché régresse de 0,25 charge/s (≈ 0,28 %/s, FACT VMS [audit]) | À réserver aux parties où Eruption/Surge sont plausibles (§3.B1) ; éloigner les chases des gens reste bon dans tous les cas |
 | 7 | **Soigner hors TR et loin du tueur**, en une seule fois, puis se séparer | Nurse's Calling, Coulrophobia, Septic Touch, Deathbound, Sloppy Butcher, Unnerving Presence | Faible : quelques secondes de trajet | — |
-| 8 | **Se soigner avant la dernière gen** ; finir le dernier gen **sain, groupé, près des portes, sans chase** | Terminus, NOED, None Are Free, Rancor, Bitter Murmur | Moyen : tempo | — |
+| 8 | **Se soigner avant la dernière gen** ; finir le dernier gen **sain, groupé, près des portes, sans chase** | Terminus, NOED, None Are Free, Rancor, Bitter Murmur | Moyen : tempo | Pas toujours faisable (3-gen, chase en cours) ; inutile pour le porteur d'Adrenaline (§3.D1) |
 | 9 | **Totems : arbitrage** : purifier les **ternes en passant** quand ça ne coûte rien (anti-NOED, [p91]), **sauf** si Pentimento, Retribution ou Secret Project sont suspectés. Purifier un **Hex** quand le tueur est en chase loin, pas « dès qu'il s'allume » | NOED, Hex divers ; évite les pièges Haunted Ground / Retribution / Pentimento / Secret Project | Faible si fait en passant | Les batchs se contredisent en partie : [p91] pousse la purification des ternes, [p92][p93] la freinent. L'audit classe « purifiez un Hex dès qu'il s'allume » comme conseil dangereux |
 | 10 | **Exposed = un coup, et vous êtes à terre** : aucune prise de risque tant que l'icône est là ; l'Endurance transforme ce coup en Deep Wound (FACT, SS [audit]) | NOED, MYC, FTTE, Starstruck, Dragon's Grip, Hubris, Iron Maiden, Ravenous, Devour, Haunted Ground | Nul | — |
-| 11 | **« Pas de cœur ≠ tueur parti »** : jamais de décrochage ni de réparation tranquille sur le seul silence ; inspecter les angles morts, venir à deux | Insidious, Silent Shadow, Furtive Chase, Beast of Prey, Tinkerer, Machine Learning, Dark Devotion, Unforeseen, Overture, Trail of Torment, Monitor & Abuse ; statut Oblivious | Faible | Undetectable supprime TR et tache rouge (FACT, SS [audit]) |
+| 11 | **« Pas de cœur ≠ tueur parti »** : pas de décrochage ni de réparation tranquille sur le seul silence ; inspecter les angles morts, venir à deux (SWF) | Insidious, Silent Shadow, Furtive Chase, Beast of Prey, Tinkerer, Machine Learning, Dark Devotion, Unforeseen, Overture, Trail of Torment, Monitor & Abuse ; statut Oblivious | Faible à moyen : la vérification coûte du temps au crochet (le décroché avance vers la phase suivante) | Undetectable supprime TR et tache rouge (FACT, SS [audit]) |
 | 12 | **Bouger après chaque événement révélateur** : hook, pop, fin de chase, cri, drop de palette, kick près de soi | BBQ, Floods, Predator, Zanshin, Nowhere to Hide, Bitter Murmur, THWACK!, Infectious Fright, Deerstalker, Celestial Witness | Faible | Aucune icône ne signale une aura lue (§1.2) |
-| 13 | **Ne pas suivre une chase de près** ; saves à distance, préparés avant le pickup | Infectious Fright, Forced Hesitation, Starstruck, Mad Grit, Agitation, Wandering Eye | Moyen : moins de saves improvisés | — |
+| 13 | **Ne pas suivre une chase de près** ; saves à distance, préparés avant le pickup | Infectious Fright, Forced Hesitation, Starstruck, Mad Grit, Agitation, Wandering Eye | Moyen : moins de saves improvisés | Contredit le suivi du porteur des builds SWF (Breakout, flash save, `PERK_DATABASE.md` §4.10) : sans signal de Starstruck / Mad Grit / Infectious Fright, le suivi préparé reste légitime (§3.B3) |
 | 14 | **Lire le HUD après chaque événement tueur** (coup, down, pickup, hook, stun, pop, portes) | Toutes les perks à statut (§2.1) | Nul | — |
 | 15 | **Ne pas utiliser d'objet ni ramasser un objet au sol près du tueur** | Overwhelming Presence, Franklin's, Weave Attunement, Hoarder | Faible | — |
-| 16 | **Palettes : pré-drop et transition** plutôt que stun et relecture ; compter les palettes cassées | Enduring, Spirit Fury, Brutal Strength, Fire Up, Rampage, Dissolution | Moyen selon la tile | — |
+| 16 | **Palettes : ne pas miser la chase sur le stun** ; drop pour bloquer puis transition ; compter les palettes cassées | Enduring, Spirit Fury, Rampage | Moyen selon la tile | **Pas** contre Brutal Strength / Fire Up (casse moins chère : le pré-drop lui fait gagner du temps ; préférer fenêtres et tiles sans palette) ; Dissolution concerne le fast vault d'une palette, pas le drop. Un tueur qui attend les pré-drops rend ce réflexe exploitable (`KILLER_COUNTERPLAY_HANDBOOK.md` §2.2) |
 | 17 | **Endgame : toucher l'interrupteur puis s'éloigner** si l'on n'est pas sûr ; sortir **avant** un hook quand une porte est ouverte | No Way Out, Blood Warden, Haywire | Faible | — |
 | 18 | **Au crochet, connaître le basekit** : anti-camp à moins de 16 m seulement ; protections de décrochage de 10 s (Endurance + Haste 10 % + Elusive) perdues sur action voyante | Make Your Choice, Insidious (proxy camp) | — | FACT VP / VMS [audit] |
 
@@ -847,7 +858,7 @@
 - **Visibilité des crochets Fléau** côté survivant : non établie ([p90] Q6, [p91] Q6, [p94] Q2).
 - **Distortion** : mécanique non re-vérifiée ([p90]). « Les casiers bloquent les auras » : U ([p91] Q7, [p90]).
 - **Calm Spirit contre les cris** (Infectious Fright, Face the Darkness) : à vérifier au lot 2 ([p93]).
-- **Diminishing Returns** : seuls les principes 9.6.0 sont vérifiés (VP). **La liste des modificateurs concernés n'est pas publiée** : on ne sait pas si blocages, pertes instantanées, régressions, chances de skill check (Unnerving, Lullaby) ou malus de vitesse d'action (Thanatophobia, Cull the Weak) sont concernés ([p90] C13, [p92] Q3, [audit]).
+- **Diminishing Returns** : seuls les principes 9.6.0 sont vérifiés (VP). Les notes 9.6.0 ne listent pas les modificateurs concernés ; selon l'audit, **le manuel du jeu (9.6.1) les liste, mais il n'a pas été consulté** : on ne sait donc pas si blocages, pertes instantanées, régressions, chances de skill check (Unnerving, Lullaby) ou malus de vitesse d'action (Thanatophobia, Cull the Weak) sont concernés ([p90] C13, [p92] Q3, [audit]).
 - **Changements du patch 9.2.0** (Pop, Eruption, Ruin, DMS) : sources contradictoires, CONFLICT-L3P90-01 non résolu.
 - **Valeurs PTB 10.2.0 injectées comme LIVE dans le seed ch8** : Unbound, Undone, Dark Arrogance, Ravenous (CONFLICT-K96-01) ; Nowhere to Hide 18 m (PTB 10.1.0, FAUX en LIVE).
 
