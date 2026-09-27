@@ -1,5 +1,7 @@
 # Lot 3 — Perks tueur vues du survivant, page 91 du guide seed (tier A)
 
+Couverture web : 3 éléments vérifiés par recherche (Dead Man's Switch, Eruption [conflit], Hex: Ruin) / 15 non re-vérifiés (quota), dont 5 couverts en partie par l'audit phase 0 (A Nurse's Calling, Keep Them Waiting, Bamboozle, Surge, No Holds Barred).
+
 Référence : LIVE 10.1.2a (17/09/2026). PTB 10.2.0 (15-21/09/2026) = **non LIVE**, toujours étiqueté PTB.
 Méthode : WebSearch uniquement (résumés de recherche, WebFetch bloqué) → confiance plafonnée à STRONG_SECONDARY sauf citation de notes officielles.
 Notes de menace = **HEURISTIC**. Indices / adaptation / counterplay = **HEURISTIC** (raisonnement de jeu, pas de source).
@@ -9,7 +11,7 @@ Périmètre (18 perks, seed ch9 l. 128-230) : Dead Man's Switch, Eruption, Hex: 
 > **LIMITE MAJEURE DE CE LOT (à lire avant usage).**
 > Le quota de recherches de la session (200 WebSearch, partagé entre tous les agents) a été **épuisé après 6 recherches de ce lot**.
 > Seules 3 perks ont pu être vérifiées par le web (Dead Man's Switch, Eruption, Hex: Ruin), plus ce que `kb/seed/audit_phase0.txt` a déjà prouvé (A Nurse's Calling, Keep Them Waiting, Bamboozle, Surge, No Holds Barred).
-> Pour les autres perks, les valeurs sont celles du seed, marquées **NON VÉRIFIABLE / UNCERTAIN**. Quand j'indique « cohérent avec connaissance interne », c'est un souvenir non sourcé : ce n'est **pas** une preuve.
+> Pour les autres perks, les valeurs sont celles du seed : « seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) », confiance UNCERTAIN. Mention « connaissance du modèle (antérieure à mi-2026), UNCERTAIN » = souvenir non sourcé, **pas** une preuve.
 > Les sections indices, counterplay et déduction ne dépendent pas des valeurs exactes. Elles restent utilisables comme HEURISTIC.
 > **À relancer** : une passe de vérification web sur les 15 perks restantes, quand le quota sera relevé.
 
@@ -19,12 +21,12 @@ Périmètre (18 perks, seed ch9 l. 128-230) : Dead Man's Switch, Eruption, Hex: 
 - **Statut / catégorie** : LIVE 10.1.2a · slowdown (blocage)
 - **Effet LIVE + valeurs** : après un accrochage, le 1er générateur qu'un survivant **arrête de réparer** est bloqué par l'Entité 25/30/35 s. Pour le tueur, il est surligné en blanc. Pas de réactivation tant que l'effet précédent dure [1][2]. Les notes PTB 10.2.0 décrivent l'état actuel comme « blocage 25/30/35 s + **temps de recharge 50 s** » [11][12]. Ce délai de 50 s n'apparaît pas dans le résumé du wiki (voir CONFLICT-K91-02). Durée : STRONG_SECONDARY ; délai de recharge : UNCERTAIN.
 - **PTB 10.2.0** : blocage 30/35/40 s, recharge 30/35/40 s. Le déclenchement change : il faut maintenant que le survivant arrête de réparer « pendant plus de 2 s ». Note de dev : BHVR veut éviter les combos avec les interruptions forcées [11][12][15]. Valeurs vérifiées via résumé ; formulation exacte du déclenchement : UNCERTAIN.
-- **Indice observable (survivant)** : juste après un accrochage, le gen que tu lâches (ou qu'un coéquipier lâche) devient bloqué (pics de l'Entité, interaction impossible). Pas d'icône de statut.
-- **Soupçonner** : Deathslinger en face + un gen bloqué pile après un crochet → plausible. Un gen bloqué après un crochet sans qu'aucun gen n'ait été terminé (donc pas No Holds Barred ni Grim Embrace) → très plausible.
-- **Confirmer** : le blocage arrive au moment exact où un survivant lâche un gen **après** un accrochage. Écran de fin (loadout).
-- **Adaptation robuste** : après un accrochage, ne lâche pas un gen très avancé pour rien. Soit tu le finis, soit tu en lâches d'abord un peu avancé. En LIVE, le 1er gen lâché « consomme » l'effet : un lâcher « sacrificiel » sur un gen peu avancé le neutralise.
-- **Counterplay** : si le tueur arrive et que tu dois fuir, lâche le gen le moins important en premier. En SWF, annonce « DMS » pour que personne ne quitte un gen à 80 %. Le PTB 10.2.0 (2 s) rendrait ce lâcher sacrificiel plus coûteux.
-- **Erreurs à ne pas faire** : lâcher un gen à 90 % pour aller décrocher juste après un accrochage.
+- **Indice observable (survivant)** (HEURISTIC) : juste après un accrochage, le gen que tu lâches (ou qu'un coéquipier lâche) devient bloqué (pics de l'Entité, interaction impossible). Pas d'icône de statut.
+- **Soupçonner** (HEURISTIC) : Deathslinger en face + un gen bloqué pile après un crochet → plausible. Un gen bloqué après un crochet sans qu'aucun gen n'ait été terminé (donc pas No Holds Barred ni Grim Embrace) → très plausible.
+- **Confirmer** (HEURISTIC) : le blocage arrive au moment exact où un survivant lâche un gen **après** un accrochage. Écran de fin (loadout).
+- **Adaptation robuste** (HEURISTIC) : après un accrochage, ne lâche pas un gen très avancé pour rien. Soit tu le finis, soit tu en lâches d'abord un peu avancé. En LIVE, le 1er gen lâché « consomme » l'effet : un lâcher « sacrificiel » sur un gen peu avancé le neutralise.
+- **Counterplay** (HEURISTIC) : si le tueur arrive et que tu dois fuir, lâche le gen le moins important en premier. En SWF, annonce « DMS » pour que personne ne quitte un gen à 80 %. Le PTB 10.2.0 (2 s) rendrait ce lâcher sacrificiel plus coûteux.
+- **Erreurs à ne pas faire** (HEURISTIC) : lâcher un gen à 90 % pour aller décrocher juste après un accrochage.
 - **Menace (HEURISTIC 0-3)** : SoloQ 2 / SWF 1,5.
 - **Écart avec le seed** : OK pour 25/30/35 s et l'aura blanche. IMPRÉCIS : le seed omet le possible temps de recharge de 50 s (UNCERTAIN). La section PTB du seed (30/35/40 s, 2 s, recharge 30/35/40 s) est correcte et bien étiquetée PTB.
 - **Sources** : [1][2][3][11][12][15]
@@ -33,12 +35,12 @@ Périmètre (18 perks, seed ch9 l. 128-230) : Dead Man's Switch, Eruption, Hex: 
 - **Statut / catégorie** : LIVE 10.1.2a · slowdown (perte instantanée) + info
 - **Effet LIVE + valeurs** : l'action « endommager un générateur » (coup de pied) surligne le gen en jaune pour le tueur. Quand un survivant passe à l'état mourant (par n'importe quel moyen), tous les gens surlignés explosent et régressent. Les survivants qui réparent crient et leur aura est révélée. Il n'y a plus d'Incapacitated dans la version actuelle [4][5]. **Perte : 10 % selon la page perk du wiki (via résumé), 5 % selon un résumé des notes 9.2.0** → CONFLICT-K91-01, **UNRESOLVED**. Durée de l'aura et temps de recharge (seed : 8/10/12 s, 30 s) : non vérifiés, UNCERTAIN.
 - **PTB 10.2.0** : UNCERTAIN (non vérifié, quota épuisé ; les 58 perks modifiées n'ont pas été lues).
-- **Indice observable (survivant)** : tu **cries** en réparant, pile au moment où quelqu'un tombe. Le gen explose (étincelles, barre qui recule, régression). L'icône « aura révélée » n'existe pas : ton aura est visible sans que tu le saches.
-- **Soupçonner** : cri pendant la réparation au moment exact d'une mise au sol + gen qui recule → Eruption quasi certaine (Surge : seulement si le coup est une attaque de base, et dans un rayon de 32 m).
-- **Confirmer** : le cri et la régression arrivent **sur un gen déjà frappé**, même loin du tueur (Surge ne dépasse pas 32 m).
-- **Adaptation robuste** : sur un gen déjà frappé (entourage jaune invisible pour toi, mais tu as pu voir le coup de pied), lâche le gen quand un coéquipier va tomber (poursuite qui tourne mal). Préfère les gens jamais frappés.
-- **Counterplay** : lire les poursuites (Kindred, cris) et lâcher le gen **avant** la mise au sol : pas de cri, pas d'aura révélée. Un survivant slugué déclenche Eruption : un ramassage rapide limite le slug.
-- **Erreurs à ne pas faire** : rester sur un gen frappé pendant que le porteur de poursuite est blessé et coincé en zone morte.
+- **Indice observable (survivant)** (HEURISTIC) : tu **cries** en réparant, pile au moment où quelqu'un tombe. Le gen explose (étincelles, barre qui recule, régression). L'icône « aura révélée » n'existe pas : ton aura est visible sans que tu le saches.
+- **Soupçonner** (HEURISTIC) : cri pendant la réparation au moment exact d'une mise au sol + gen qui recule → Eruption quasi certaine (Surge : seulement si le coup est une attaque de base, et dans un rayon de 32 m).
+- **Confirmer** (HEURISTIC) : le cri et la régression arrivent **sur un gen déjà frappé**, même loin du tueur (Surge ne dépasse pas 32 m).
+- **Adaptation robuste** (HEURISTIC) : sur un gen déjà frappé (entourage jaune invisible pour toi, mais tu as pu voir le coup de pied), lâche le gen quand un coéquipier va tomber (poursuite qui tourne mal). Préfère les gens jamais frappés.
+- **Counterplay** (HEURISTIC) : lire les poursuites (Kindred, cris) et lâcher le gen **avant** la mise au sol : pas de cri, pas d'aura révélée. Un survivant slugué déclenche Eruption : un ramassage rapide limite le slug.
+- **Erreurs à ne pas faire** (HEURISTIC) : rester sur un gen frappé pendant que le porteur de poursuite est blessé et coincé en zone morte.
 - **Menace (HEURISTIC)** : SoloQ 2 / SWF 1,5.
 - **Écart avec le seed** : 10 % → **NON VÉRIFIABLE** (conflit 10 / 5 %). « Temps de recharge 30 s », « 8/10/12 s » → NON VÉRIFIABLE. La mention cri + aura (et non Incapacitated) est OK.
 - **Sources** : [4][5][8][9][10]
@@ -47,12 +49,12 @@ Périmètre (18 perks, seed ch9 l. 128-230) : Dead Man's Switch, Eruption, Hex: 
 - **Statut / catégorie** : LIVE 10.1.2a · hex · slowdown (régression)
 - **Effet LIVE + valeurs** : tant que le totem Hex tient, tout gen **non réparé** régresse automatiquement à 100/125/150 % de la vitesse de régression normale. Les valeurs ont été relevées depuis 50/75/100 % [6][7][8]. Désactivée si le totem est purifié ou béni. STRONG_SECONDARY (valeur de la page wiki actuelle ; montée attribuée à 9.2.0 par le résumé [8]).
 - **PTB 10.2.0** : UNCERTAIN (non vérifié). Le seed range Ruin dans « vitesse de régression soumise aux DR » : NON VÉRIFIABLE (l'audit note que la liste des catégories soumises aux DR n'est pas publiée).
-- **Indice observable (survivant)** : un gen lâché **recule tout seul** sans coup de pied (pas d'animation de kick, pas de bruit de dégât). Un totem allumé (flamme, grésillement audible de près) près de la zone de départ.
-- **Soupçonner** : un gen partiel qui a reculé pendant ton absence alors que le tueur était en poursuite ailleurs → Ruin (ou Call of Brine / Oppression / Lay Waste : écarter par la présence d'un coup de pied).
-- **Confirmer** : trouver le totem Hex allumé. Si le gen arrête de reculer seul une fois le totem purifié, c'est confirmé (aussi : Detective's Hunch, Small Game, Counterforce).
-- **Adaptation robuste** : ne pas éparpiller les réparations. Finir les gens entamés, travailler à 2 si ça évite les gens « abandonnés ». Chercher le totem tôt, en passant, sans lâcher un gen presque fini.
-- **Counterplay** : purification (14 s de base, non revérifiée ici), Counterforce, Boon: Circle of Healing / Shadow Step (une bénédiction coupe la Hex). En SWF, 1 joueur part purifier pendant qu'un autre fait tourner la poursuite.
-- **Erreurs à ne pas faire** : tout le monde part chercher le totem (pas de pression sur les gens) ; lâcher un gen à 70 % pour aller « toucher » un autre gen.
+- **Indice observable (survivant)** (HEURISTIC) : un gen lâché **recule tout seul** sans coup de pied (pas d'animation de kick, pas de bruit de dégât). Un totem allumé (flamme, grésillement audible de près) près de la zone de départ.
+- **Soupçonner** (HEURISTIC) : un gen partiel qui a reculé pendant ton absence alors que le tueur était en poursuite ailleurs → Ruin (ou Call of Brine / Oppression / Lay Waste : écarter par la présence d'un coup de pied).
+- **Confirmer** (HEURISTIC) : trouver le totem Hex allumé. Si le gen arrête de reculer seul une fois le totem purifié, c'est confirmé (aussi : Detective's Hunch, Small Game, Counterforce).
+- **Adaptation robuste** (HEURISTIC) : ne pas éparpiller les réparations. Finir les gens entamés, travailler à 2 si ça évite les gens « abandonnés ». Chercher le totem tôt, en passant, sans lâcher un gen presque fini.
+- **Counterplay** (HEURISTIC) : purification (14 s de base, non revérifiée ici), Counterforce, Boon: Circle of Healing / Shadow Step (une bénédiction coupe la Hex). En SWF, 1 joueur part purifier pendant qu'un autre fait tourner la poursuite.
+- **Erreurs à ne pas faire** (HEURISTIC) : tout le monde part chercher le totem (pas de pression sur les gens) ; lâcher un gen à 70 % pour aller « toucher » un autre gen.
 - **Menace (HEURISTIC)** : SoloQ 2,5 / SWF 1,5.
 - **Écart avec le seed** : OK (100/125/150 %).
 - **Sources** : [6][7][8]
@@ -61,12 +63,12 @@ Périmètre (18 perks, seed ch9 l. 128-230) : Dead Man's Switch, Eruption, Hex: 
 - **Statut / catégorie** : LIVE 10.1.2a · info/aura
 - **Effet LIVE + valeurs** (seed) : à chaque accrochage, auras des survivants à plus de 60/50/40 m du crochet pendant 5 s. Le seed dit aussi que le bonus de Bloodpoints a été retiré en 6.1.0. **NON VÉRIFIABLE** en session (quota épuisé) ; valeurs et patch du retrait BP : UNCERTAIN.
 - **PTB 10.2.0** : UNCERTAIN.
-- **Indice observable (survivant)** : aucun indice direct (pas d'icône). Avec Distortion, un jeton consommé au moment d'un accrochage est un indice fort d'aura (BBQ ou autre). Le tueur file droit vers toi juste après l'accrochage.
-- **Soupçonner** : trajet direct vers toi après chaque crochet, alors que tu étais loin et hors de vue → aura à l'accrochage (BBQ, Floods of Rage s'il s'agit d'un décrochage de Scourge).
-- **Confirmer** : Distortion, Object/Kindred (tu vois le tueur se tourner vers toi), écran de fin.
-- **Adaptation robuste** : au moment d'un accrochage, sois soit **proche** du crochet (sous le seuil), soit **caché** derrière un gros obstacle en ayant bougé ensuite. Casier à l'instant de l'accrochage : non vérifié ici que ça bloque l'aura (règle générale « les casiers bloquent les auras » : UNCERTAIN).
-- **Counterplay** : Distortion. Bouger après la révélation (le tueur voit une position figée de 5 s). Varier les gens pour qu'il ne sache pas lequel pressurer.
-- **Erreurs à ne pas faire** : rester sur le même gen isolé après chaque crochet, en croyant que la distance protège.
+- **Indice observable (survivant)** (HEURISTIC) : aucun indice direct (pas d'icône). Avec Distortion, un jeton consommé au moment d'un accrochage est un indice fort d'aura (BBQ ou autre). Le tueur file droit vers toi juste après l'accrochage.
+- **Soupçonner** (HEURISTIC) : trajet direct vers toi après chaque crochet, alors que tu étais loin et hors de vue → aura à l'accrochage (BBQ, Floods of Rage s'il s'agit d'un décrochage de Scourge).
+- **Confirmer** (HEURISTIC) : Distortion, Object/Kindred (tu vois le tueur se tourner vers toi), écran de fin.
+- **Adaptation robuste** (HEURISTIC) : au moment d'un accrochage, sois soit **proche** du crochet (sous le seuil), soit **caché** derrière un gros obstacle en ayant bougé ensuite. Casier à l'instant de l'accrochage : non vérifié ici que ça bloque l'aura (règle générale « les casiers bloquent les auras » : UNCERTAIN).
+- **Counterplay** (HEURISTIC) : Distortion. Bouger après la révélation (le tueur voit une position figée de 5 s). Varier les gens pour qu'il ne sache pas lequel pressurer.
+- **Erreurs à ne pas faire** (HEURISTIC) : rester sur le même gen isolé après chaque crochet, en croyant que la distance protège.
 - **Menace (HEURISTIC)** : SoloQ 1,5 / SWF 1.
 - **Écart avec le seed** : NON VÉRIFIABLE (60/50/40 m, 5 s, retrait BP 6.1.0).
 - **Sources** : aucune lue (quota)
@@ -75,54 +77,54 @@ Périmètre (18 perks, seed ch9 l. 128-230) : Dead Man's Switch, Eruption, Hex: 
 - **Statut / catégorie** : LIVE 10.1.2a · info/aura · anti-soin
 - **Effet LIVE + valeurs** : auras des survivants qui soignent ou sont soignés dans un rayon de **28/30/32 m** (valeur 10.1.0 relevée par l'audit, patch notes 10.1.0) [14]. VERIFIED (audit phase 0).
 - **PTB 10.2.0** : UNCERTAIN (non vérifié).
-- **Indice observable (survivant)** : aucun direct. Le tueur arrive droit sur un soin, souvent sans poursuite préalable.
-- **Soupçonner** : 2 soins interrompus d'affilée, et le tueur arrive par un angle sans ligne de vue → aura sur soin (A Nurse's Calling, ou Bitter Murmur / Nowhere to Hide exclus par le contexte).
-- **Confirmer** : un soin à plus de 32 m du tueur n'est jamais interrompu, un soin plus proche l'est. Distortion (jeton perdu pendant le soin).
-- **Adaptation robuste** : soigner loin du tueur (au-delà de 32 m) et hors de son trajet. Écourter les soins. Contre un tueur mobile (Nurse, Blight), préférer ne pas se soigner.
-- **Counterplay** : Distortion. Self-care bannis. En SWF, soigner quand le tueur est annoncé en poursuite ailleurs.
-- **Erreurs à ne pas faire** : soigner à côté du crochet ou d'un gen que le tueur patrouille.
+- **Indice observable (survivant)** (HEURISTIC) : aucun direct. Le tueur arrive droit sur un soin, souvent sans poursuite préalable.
+- **Soupçonner** (HEURISTIC) : 2 soins interrompus d'affilée, et le tueur arrive par un angle sans ligne de vue → aura sur soin (A Nurse's Calling, ou Bitter Murmur / Nowhere to Hide exclus par le contexte).
+- **Confirmer** (HEURISTIC) : un soin à plus de 32 m du tueur n'est jamais interrompu, un soin plus proche l'est. Distortion (jeton perdu pendant le soin).
+- **Adaptation robuste** (HEURISTIC) : soigner loin du tueur (au-delà de 32 m) et hors de son trajet. Écourter les soins. Contre un tueur mobile (Nurse, Blight), préférer ne pas se soigner.
+- **Counterplay** (HEURISTIC) : Distortion. Self-care bannis. En SWF, soigner quand le tueur est annoncé en poursuite ailleurs.
+- **Erreurs à ne pas faire** (HEURISTIC) : soigner à côté du crochet ou d'un gen que le tueur patrouille.
 - **Menace (HEURISTIC)** : SoloQ 1,5 / SWF 1.
 - **Écart avec le seed** : OK (28/30/32 m).
 - **Sources** : [14]
 
 ### Surge — The Demogorgon
 - **Statut / catégorie** : LIVE 10.1.2a · slowdown (perte instantanée)
-- **Effet LIVE + valeurs** (seed) : une mise au sol avec une **attaque de base** fait exploser les gens dans un rayon de 32 m, avec une perte de 6/7/8 % et de la régression. Nom : **Surge est le nom d'origine et actuel** ; « Jolt » n'a existé que de 5.3.0 à 7.3.3 (audit) [14]. Valeurs : NON VÉRIFIABLE. « Les réparateurs crient » : UNCERTAIN (non confirmé). Temps de recharge éventuel : non vérifié.
+- **Effet LIVE + valeurs** (seed) : une mise au sol avec une **attaque de base** fait exploser les gens dans un rayon de 32 m, avec une perte de 6/7/8 % et de la régression. Nom : **Surge est le nom d'origine et actuel** ; « Jolt » n'a existé que de 5.3.0 à 7.3.3 (audit) [14]. Valeurs : **seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)** — UNCERTAIN. « Les réparateurs crient » : UNCERTAIN (non confirmé). Temps de recharge éventuel : non vérifié.
 - **PTB 10.2.0** : UNCERTAIN.
-- **Indice observable (survivant)** : les gens proches de la mise au sol reculent brusquement (étincelles). Seulement sur mise au sol par coup de base, et seulement près du lieu de la chute.
-- **Soupçonner** : régression instantanée de gens **non frappés auparavant** au moment d'une chute proche → Surge. Si les gens explosent loin et avaient été frappés → Eruption.
-- **Confirmer** : la chute a lieu à moins de ~32 m du gen et c'est un coup de base (pas un pouvoir : Demogorgon Shred ne compte pas).
-- **Adaptation robuste** : ne pas mener une poursuite près d'un gen en cours (déjà une bonne règle). Réparer loin des poursuites.
-- **Counterplay** : éloigner les poursuites des gens avancés. Les tueurs à pouvoir (Nurse, Huntress…) déclenchent moins souvent si la chute vient du pouvoir.
-- **Erreurs à ne pas faire** : perdre la poursuite à côté du 3-gen.
+- **Indice observable (survivant)** (HEURISTIC) : les gens proches de la mise au sol reculent brusquement (étincelles). Seulement sur mise au sol par coup de base, et seulement près du lieu de la chute.
+- **Soupçonner** (HEURISTIC) : régression instantanée de gens **non frappés auparavant** au moment d'une chute proche → Surge. Si les gens explosent loin et avaient été frappés → Eruption.
+- **Confirmer** (HEURISTIC) : la chute a lieu à moins de ~32 m du gen et c'est un coup de base (pas un pouvoir : Demogorgon Shred ne compte pas).
+- **Adaptation robuste** (HEURISTIC) : ne pas mener une poursuite près d'un gen en cours (déjà une bonne règle). Réparer loin des poursuites.
+- **Counterplay** (HEURISTIC) : éloigner les poursuites des gens avancés. Les tueurs à pouvoir (Nurse, Huntress…) déclenchent moins souvent si la chute vient du pouvoir.
+- **Erreurs à ne pas faire** (HEURISTIC) : perdre la poursuite à côté du 3-gen.
 - **Menace (HEURISTIC)** : SoloQ 1,5 / SWF 1.
 - **Écart avec le seed** : **FAUX** pour « Surge (ex-Jolt) », c'est l'inverse (audit). Valeurs NON VÉRIFIABLE.
 - **Sources** : [14]
 
 ### No Holds Barred — Générale (ex-Deadlock, The Cenobite)
 - **Statut / catégorie** : LIVE 10.1.2a · slowdown (blocage)
-- **Effet LIVE + valeurs** (seed) : à chaque gen terminé, le gen le plus avancé est bloqué 15/20/25 s (aura blanche pour le tueur). Renommage Deadlock → No Holds Barred en 9.0.0 (départ Hellraiser) ; les possesseurs du Cenobite gardent « Deadlock » (audit) [14]. Valeurs : NON VÉRIFIABLE.
+- **Effet LIVE + valeurs** (seed) : à chaque gen terminé, le gen le plus avancé est bloqué 15/20/25 s (aura blanche pour le tueur). Renommage Deadlock → No Holds Barred en 9.0.0 (départ Hellraiser) ; les possesseurs du Cenobite gardent « Deadlock » (audit) [14]. Valeurs : **seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)** — UNCERTAIN.
 - **PTB 10.2.0** : UNCERTAIN.
-- **Indice observable (survivant)** : juste après la pop d'un gen, un autre gen (le plus avancé) est bloqué par l'Entité. Très lisible.
-- **Soupçonner** : blocage immédiat après chaque gen terminé. À distinguer de Grim Embrace (blocage de tous les gens au 4e accrochage unique, et blocage d'un gen à chaque premier accrochage) et de DMS (lié à l'accrochage).
-- **Confirmer** : se reproduit à la 2e pop de gen.
-- **Adaptation robuste** : ne pas monter 2 gens proches à haute progression en même temps en attendant qu'un seul pop. Terminer les 2 derniers gens **simultanément** si possible (le blocage vise le plus avancé).
-- **Counterplay** : garder le 2e gen le plus avancé un peu en retrait, et pousser un gen neutre pour « absorber » le blocage. En SWF, synchroniser les pops.
-- **Erreurs à ne pas faire** : quitter tous le gen blocké pour se regrouper au même endroit.
+- **Indice observable (survivant)** (HEURISTIC) : juste après la pop d'un gen, un autre gen (le plus avancé) est bloqué par l'Entité. Très lisible.
+- **Soupçonner** (HEURISTIC) : blocage immédiat après chaque gen terminé. À distinguer de Grim Embrace (blocage de tous les gens au 4e accrochage unique, et blocage d'un gen à chaque premier accrochage) et de DMS (lié à l'accrochage).
+- **Confirmer** (HEURISTIC) : se reproduit à la 2e pop de gen.
+- **Adaptation robuste** (HEURISTIC) : ne pas monter 2 gens proches à haute progression en même temps en attendant qu'un seul pop. Terminer les 2 derniers gens **simultanément** si possible (le blocage vise le plus avancé).
+- **Counterplay** (HEURISTIC) : garder le 2e gen le plus avancé un peu en retrait, et pousser un gen neutre pour « absorber » le blocage. En SWF, synchroniser les pops.
+- **Erreurs à ne pas faire** (HEURISTIC) : quitter tous le gen blocké pour se regrouper au même endroit.
 - **Menace (HEURISTIC)** : SoloQ 1,5 / SWF 1.
 - **Écart avec le seed** : OK pour le nom. Valeurs NON VÉRIFIABLE.
 - **Sources** : [14]
 
 ### Keep Them Waiting — Générale (ex-Save the Best for Last, The Shape)
 - **Statut / catégorie** : LIVE 10.1.2a · chase
-- **Effet LIVE + valeurs** : jetons gagnés en frappant un survivant autre que l'Obsession ; chaque jeton réduit le temps de récupération des attaques de base. **5 % par jeton** : changement 10.1.0 relevé par l'audit [14]. Plafonds (6/7/8 jetons, 30/35/40 %), perte de 2 jetons si l'Obsession est frappée, gel à la mort de l'Obsession : NON VÉRIFIABLE (seed).
+- **Effet LIVE + valeurs** : jetons gagnés en frappant un survivant autre que l'Obsession ; chaque jeton réduit le temps de récupération des attaques de base. **5 % par jeton** : changement 10.1.0 relevé par l'audit [14]. Plafonds (6/7/8 jetons, 30/35/40 %), perte de 2 jetons si l'Obsession est frappée, gel à la mort de l'Obsession : **seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)** — UNCERTAIN.
 - **PTB 10.2.0** : UNCERTAIN.
-- **Indice observable (survivant)** : une **icône d'Obsession** est présente dans le HUD (un survivant est l'Obsession). Le tueur se remet très vite après un coup (essuyage court). Il enchaîne des coups rapprochés, au point qu'une Endurance perd de sa valeur.
-- **Soupçonner** : Obsession présente + tueur qui évite visiblement de frapper l'Obsession + récupérations courtes → KTW.
-- **Confirmer** : récupération de plus en plus courte au fil des coups sur des non-Obsession.
-- **Adaptation robuste** : ne pas compter sur la distance gagnée après un coup. L'Obsession peut « prendre » des coups pour vider les jetons (surtout en SWF).
-- **Counterplay** : l'Obsession fait des protection hits. Couvrir les décrochages avec l'Obsession proche.
-- **Erreurs à ne pas faire** : se soigner à côté du tueur en comptant sur le temps de récupération.
+- **Indice observable (survivant)** (HEURISTIC) : une **icône d'Obsession** est présente dans le HUD (un survivant est l'Obsession). Le tueur se remet très vite après un coup (essuyage court). Il enchaîne des coups rapprochés, au point qu'une Endurance perd de sa valeur.
+- **Soupçonner** (HEURISTIC) : Obsession présente + tueur qui évite visiblement de frapper l'Obsession + récupérations courtes → KTW.
+- **Confirmer** (HEURISTIC) : récupération de plus en plus courte au fil des coups sur des non-Obsession.
+- **Adaptation robuste** (HEURISTIC) : ne pas compter sur la distance gagnée après un coup. L'Obsession peut « prendre » des coups pour vider les jetons (surtout en SWF).
+- **Counterplay** (HEURISTIC) : l'Obsession fait des protection hits. Couvrir les décrochages avec l'Obsession proche.
+- **Erreurs à ne pas faire** (HEURISTIC) : se soigner à côté du tueur en comptant sur le temps de récupération.
 - **Menace (HEURISTIC)** : SoloQ 1,5 / SWF 1.
 - **Écart avec le seed** : OK pour 5 %/jeton. Reste NON VÉRIFIABLE.
 - **Sources** : [14]
@@ -131,135 +133,135 @@ Périmètre (18 perks, seed ch9 l. 128-230) : Dead Man's Switch, Eruption, Hex: 
 - **Statut / catégorie** : LIVE 10.1.2a · chase (anti-loop)
 - **Effet LIVE + valeurs** : chaque fenêtre sautée par le tueur est bloquée **pour tous les survivants 8/12/16 s**, une seule fenêtre à la fois. Pas d'effet sur les palettes. Icône de minuterie depuis 9.5.1 (audit, wiki.gg Bamboozle) [14]. Sauts de fenêtre 5/10/15 % plus rapides : marqué « historique » dans l'audit → UNCERTAIN que ce bonus soit toujours dans le texte LIVE.
 - **PTB 10.2.0** : UNCERTAIN.
-- **Indice observable (survivant)** : après un saut du tueur, la fenêtre porte le blocage de l'Entité, avec une icône de minuterie (9.5.1). Très lisible.
-- **Soupçonner / Confirmer** : blocage de la fenêtre dès le **1er** saut du tueur (le blocage basekit n'arrive qu'au 3e saut du **survivant**) → Bamboozle confirmé.
-- **Adaptation robuste** : ne pas choisir de loops qui ne tiennent que par la fenêtre (shack, jungle gym simple) ; préférer les palettes. Anticiper la transition vers la tuile suivante.
-- **Counterplay** : forcer le tueur à contourner (tant qu'il ne saute pas, pas de blocage) ; utiliser la fenêtre bloquée pour « ralentir » ses mindgames.
-- **Erreurs à ne pas faire** : revenir en boucle vers une fenêtre qu'il vient de sauter.
+- **Indice observable (survivant)** (HEURISTIC) : après un saut du tueur, la fenêtre porte le blocage de l'Entité, avec une icône de minuterie (9.5.1). Très lisible.
+- **Soupçonner / Confirmer** (HEURISTIC) : blocage de la fenêtre dès le **1er** saut du tueur (le blocage basekit n'arrive qu'au 3e saut du **survivant**) → Bamboozle confirmé.
+- **Adaptation robuste** (HEURISTIC) : ne pas choisir de loops qui ne tiennent que par la fenêtre (shack, jungle gym simple) ; préférer les palettes. Anticiper la transition vers la tuile suivante.
+- **Counterplay** (HEURISTIC) : forcer le tueur à contourner (tant qu'il ne saute pas, pas de blocage) ; utiliser la fenêtre bloquée pour « ralentir » ses mindgames.
+- **Erreurs à ne pas faire** (HEURISTIC) : revenir en boucle vers une fenêtre qu'il vient de sauter.
 - **Menace (HEURISTIC)** : SoloQ 1,5 / SWF 1,5.
 - **Écart avec le seed** : OK pour 8/12/16 s. IMPRÉCIS pour le bonus de saut 5/10/15 % (statut LIVE incertain).
 - **Sources** : [14]
 
 ### Hex: No One Escapes Death (NOED) — Générale
 - **Statut / catégorie** : LIVE 10.1.2a · hex · endgame
-- **Effet LIVE + valeurs** (seed) : quand les portes sont alimentées, un totem terne devient Hex. Tous les survivants sont Exposed et le tueur gagne 2/3/4 % de Haste. L'aura du totem est visible par les survivants dans un rayon de 4 m, qui s'élargit jusqu'à 24 m en 30 s. **NON VÉRIFIABLE** en session (quota). Mécanique générale cohérente avec connaissance interne, valeurs UNCERTAIN.
+- **Effet LIVE + valeurs** (seed) : quand les portes sont alimentées, un totem terne devient Hex. Tous les survivants sont Exposed et le tueur gagne 2/3/4 % de Haste. L'aura du totem est visible par les survivants dans un rayon de 4 m, qui s'élargit jusqu'à 24 m en 30 s. **seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)** — UNCERTAIN. Mécanique générale cohérente avec connaissance du modèle (antérieure à mi-2026), UNCERTAIN.
 - **PTB 10.2.0** : UNCERTAIN.
-- **Indice observable (survivant)** : **icône Exposed** sur tous les survivants dès l'alimentation des portes. Un totem Hex allumé apparaît ; son aura devient visible de près.
-- **Soupçonner** : aucun totem purifié pendant la partie + tueur qui « lâche » en fin de partie. Le seul signe fiable est l'Exposed.
-- **Confirmer** : Exposed à l'alimentation des portes → NOED (ou Haunted Ground/Devour/NWO, qui ont d'autres déclencheurs).
-- **Adaptation robuste** : purifier les **totems ternes** pendant la partie quand ça ne coûte rien (en passant). En fin de partie : ne pas décrocher sans que les portes soient ouvertes et sans avoir trouvé le totem.
-- **Counterplay** : trouver le totem (aura qui s'élargit) avec 2 survivants pendant que le 3e ouvre. Garder de l'Endurance (Borrowed Time) pour un décrochage sûr.
-- **Erreurs à ne pas faire** : sauvetage « héroïque » Exposed au crochet de sous-sol ; se croire safe blessé.
+- **Indice observable (survivant)** (HEURISTIC) : **icône Exposed** sur tous les survivants dès l'alimentation des portes. Un totem Hex allumé apparaît ; son aura devient visible de près.
+- **Soupçonner** (HEURISTIC) : aucun totem purifié pendant la partie + tueur qui « lâche » en fin de partie. Le seul signe fiable est l'Exposed.
+- **Confirmer** (HEURISTIC) : Exposed à l'alimentation des portes → NOED (ou Haunted Ground/Devour/NWO, qui ont d'autres déclencheurs).
+- **Adaptation robuste** (HEURISTIC) : purifier les **totems ternes** pendant la partie quand ça ne coûte rien (en passant). En fin de partie : ne pas décrocher sans que les portes soient ouvertes et sans avoir trouvé le totem.
+- **Counterplay** (HEURISTIC) : trouver le totem (aura qui s'élargit) avec 2 survivants pendant que le 3e ouvre. Garder de l'Endurance (Borrowed Time) pour un décrochage sûr.
+- **Erreurs à ne pas faire** (HEURISTIC) : sauvetage « héroïque » Exposed au crochet de sous-sol ; se croire safe blessé.
 - **Menace (HEURISTIC)** : SoloQ 2,5 / SWF 1,5.
 - **Écart avec le seed** : NON VÉRIFIABLE (2/3/4 %, 4 → 24 m en 30 s).
 - **Sources** : aucune lue (quota)
 
 ### Turn Back the Clock — The First
 - **Statut / catégorie** : LIVE 10.1.2a · slowdown (perte instantanée)
-- **Effet LIVE + valeurs** (seed) : pendant 40/50/60 s après un accrochage, le bouton de pouvoir 1 fait exploser un générateur visible à moins de 20 m, avec une perte de 10 % et de la régression. **NON VÉRIFIABLE** (aucune recherche possible) → UNCERTAIN.
+- **Effet LIVE + valeurs** (seed) : pendant 40/50/60 s après un accrochage, le bouton de pouvoir 1 fait exploser un générateur visible à moins de 20 m, avec une perte de 10 % et de la régression. **seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)** — UNCERTAIN.
 - **PTB 10.2.0** : UNCERTAIN.
-- **Indice observable (survivant)** : explosion de gen **sans coup de pied**, **juste après un accrochage**, avec le tueur à portée de vue (moins de ~20 m).
-- **Soupçonner** : The First + gen qui explose peu après un crochet, tueur proche sans kick.
-- **Confirmer** : répétition après l'accrochage suivant ; écran de fin.
-- **Adaptation robuste** : après un accrochage, ne répare pas un gen en vue du tueur à courte portée. Change de gen ou attends qu'il s'éloigne.
-- **Counterplay** : le tueur doit être proche : c'est du proxy. Réparer loin du crochet.
-- **Erreurs à ne pas faire** : faire le gen à côté du crochet.
+- **Indice observable (survivant)** (HEURISTIC) : explosion de gen **sans coup de pied**, **juste après un accrochage**, avec le tueur à portée de vue (moins de ~20 m).
+- **Soupçonner** (HEURISTIC) : The First + gen qui explose peu après un crochet, tueur proche sans kick.
+- **Confirmer** (HEURISTIC) : répétition après l'accrochage suivant ; écran de fin.
+- **Adaptation robuste** (HEURISTIC) : après un accrochage, ne répare pas un gen en vue du tueur à courte portée. Change de gen ou attends qu'il s'éloigne.
+- **Counterplay** (HEURISTIC) : le tueur doit être proche : c'est du proxy. Réparer loin du crochet.
+- **Erreurs à ne pas faire** (HEURISTIC) : faire le gen à côté du crochet.
 - **Menace (HEURISTIC)** : SoloQ 1,5 / SWF 1.
 - **Écart avec le seed** : NON VÉRIFIABLE.
 - **Sources** : aucune lue (quota)
 
 ### Celestial Witness — The Judgment
 - **Statut / catégorie** : LIVE 10.1.2a (perk du chapitre 10.1.0) · info/aura · Obsession
-- **Effet LIVE + valeurs** (seed) : toutes les 30 s, si l'Obsession est à plus de 40 m, le tueur voit son aura pendant 2/2,5/3 s ; sinon, le survivant le plus éloigné devient l'Obsession. **NON VÉRIFIABLE** → UNCERTAIN.
+- **Effet LIVE + valeurs** (seed) : toutes les 30 s, si l'Obsession est à plus de 40 m, le tueur voit son aura pendant 2/2,5/3 s ; sinon, le survivant le plus éloigné devient l'Obsession. **seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)** — UNCERTAIN.
 - **PTB 10.2.0** : UNCERTAIN.
-- **Indice observable (survivant)** : icône d'**Obsession** qui change de survivant au fil de la partie (le seed parle de transfert au plus éloigné).
-- **Soupçonner** : The Judgment + l'Obsession passe d'un survivant à l'autre sans raison visible (pas de DS, pas de Decisive) → Celestial Witness plausible.
-- **Confirmer** : l'Obsession loin du tueur se fait « visiter » régulièrement ; écran de fin.
-- **Adaptation robuste** : si tu es l'Obsession, pars du principe que ta position est connue par intervalles. Bouge après chaque tranche de 30 s ; utilise les obstacles.
-- **Counterplay** : Distortion. Rester à ≤40 m quand c'est tactique (ça transfère l'Obsession).
-- **Erreurs à ne pas faire** : se cacher longtemps au même endroit en étant l'Obsession.
+- **Indice observable (survivant)** (HEURISTIC) : icône d'**Obsession** qui change de survivant au fil de la partie (le seed parle de transfert au plus éloigné).
+- **Soupçonner** (HEURISTIC) : The Judgment + l'Obsession passe d'un survivant à l'autre sans raison visible (pas de DS, pas de Decisive) → Celestial Witness plausible.
+- **Confirmer** (HEURISTIC) : l'Obsession loin du tueur se fait « visiter » régulièrement ; écran de fin.
+- **Adaptation robuste** (HEURISTIC) : si tu es l'Obsession, pars du principe que ta position est connue par intervalles. Bouge après chaque tranche de 30 s ; utilise les obstacles.
+- **Counterplay** (HEURISTIC) : Distortion. Rester à ≤40 m quand c'est tactique (ça transfère l'Obsession).
+- **Erreurs à ne pas faire** (HEURISTIC) : se cacher longtemps au même endroit en étant l'Obsession.
 - **Menace (HEURISTIC)** : SoloQ 1 / SWF 1.
 - **Écart avec le seed** : NON VÉRIFIABLE.
 - **Sources** : aucune lue (quota)
 
 ### Discordance — The Legion
 - **Statut / catégorie** : LIVE 10.1.2a · info/aura
-- **Effet LIVE + valeurs** (seed) : un gen réparé par 2 survivants ou plus est surligné en jaune dans un rayon de 64/96/128 m, avec une alerte. **NON VÉRIFIABLE** (cohérent avec connaissance interne).
+- **Effet LIVE + valeurs** (seed) : un gen réparé par 2 survivants ou plus est surligné en jaune dans un rayon de 64/96/128 m, avec une alerte. **seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)** — UNCERTAIN ; cohérent avec connaissance du modèle (antérieure à mi-2026), UNCERTAIN.
 - **PTB 10.2.0** : UNCERTAIN.
-- **Indice observable (survivant)** : aucun direct. Le tueur arrive sur le gen dès que tu es à 2 dessus.
-- **Soupçonner** : deux arrivées rapides sur des gens en duo, alors que les solos sont épargnés.
-- **Confirmer** : un duo attire le tueur à coup sûr, un solo non.
-- **Adaptation robuste** : **1 survivant par gen** (c'est aussi plus efficace).
-- **Counterplay** : si le tueur arrive, se séparer immédiatement dans 2 directions.
-- **Erreurs à ne pas faire** : rester à 3 sur le dernier gen alors que le tueur n'est pas en poursuite.
+- **Indice observable (survivant)** (HEURISTIC) : aucun direct. Le tueur arrive sur le gen dès que tu es à 2 dessus.
+- **Soupçonner** (HEURISTIC) : deux arrivées rapides sur des gens en duo, alors que les solos sont épargnés.
+- **Confirmer** (HEURISTIC) : un duo attire le tueur à coup sûr, un solo non.
+- **Adaptation robuste** (HEURISTIC) : **1 survivant par gen** (c'est aussi plus efficace).
+- **Counterplay** (HEURISTIC) : si le tueur arrive, se séparer immédiatement dans 2 directions.
+- **Erreurs à ne pas faire** (HEURISTIC) : rester à 3 sur le dernier gen alors que le tueur n'est pas en poursuite.
 - **Menace (HEURISTIC)** : SoloQ 1,5 / SWF 0,5.
 - **Écart avec le seed** : NON VÉRIFIABLE.
 - **Sources** : aucune lue (quota)
 
 ### Darkness Revealed — The Dredge
 - **Statut / catégorie** : LIVE 10.1.2a · info/aura
-- **Effet LIVE + valeurs** (seed) : ouvrir un casier révèle les survivants à moins de 8 m de **n'importe quel** casier pendant 6/7/8 s ; recharge 30 s. **NON VÉRIFIABLE**.
+- **Effet LIVE + valeurs** (seed) : ouvrir un casier révèle les survivants à moins de 8 m de **n'importe quel** casier pendant 6/7/8 s ; recharge 30 s. **seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)** — UNCERTAIN.
 - **PTB 10.2.0** : UNCERTAIN.
-- **Indice observable (survivant)** : le tueur ouvre un casier sans raison apparente, puis se dirige vers un survivant proche d'un casier.
-- **Soupçonner** : ouvertures de casiers fréquentes + arrivées ciblées sur des survivants près de casiers (Dredge : combo naturel avec son pouvoir).
-- **Confirmer** : écran de fin.
-- **Adaptation robuste** : réparer, soigner et se cacher à plus de 8 m des casiers quand c'est possible.
-- **Counterplay** : Distortion.
-- **Erreurs à ne pas faire** : se soigner près d'une rangée de casiers.
+- **Indice observable (survivant)** (HEURISTIC) : le tueur ouvre un casier sans raison apparente, puis se dirige vers un survivant proche d'un casier.
+- **Soupçonner** (HEURISTIC) : ouvertures de casiers fréquentes + arrivées ciblées sur des survivants près de casiers (Dredge : combo naturel avec son pouvoir).
+- **Confirmer** (HEURISTIC) : écran de fin.
+- **Adaptation robuste** (HEURISTIC) : réparer, soigner et se cacher à plus de 8 m des casiers quand c'est possible.
+- **Counterplay** (HEURISTIC) : Distortion.
+- **Erreurs à ne pas faire** (HEURISTIC) : se soigner près d'une rangée de casiers.
 - **Menace (HEURISTIC)** : SoloQ 1 / SWF 0,5.
 - **Écart avec le seed** : NON VÉRIFIABLE.
 - **Sources** : aucune lue (quota)
 
 ### Scourge Hook: Floods of Rage — The Onryō
 - **Statut / catégorie** : LIVE 10.1.2a · scourge · info/aura
-- **Effet LIVE + valeurs** (seed) : 4 crochets Fléau ; au décrochage d'un crochet Fléau, le tueur voit les autres survivants 5/6/7 s. **NON VÉRIFIABLE**.
+- **Effet LIVE + valeurs** (seed) : 4 crochets Fléau ; au décrochage d'un crochet Fléau, le tueur voit les autres survivants 5/6/7 s. **seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)** — UNCERTAIN.
 - **PTB 10.2.0** : UNCERTAIN.
-- **Indice observable (survivant)** : crochets Fléau (le seed parle de « crochet blanc » ; visibilité côté survivant : UNCERTAIN). Le tueur revient droit sur le décrocheur ou sur un tiers juste après le décrochage.
-- **Soupçonner** : présence de crochets Fléau (d'autres Scourge ou plusieurs perks) + trajet direct après décrochage.
-- **Confirmer** : Distortion (jeton perdu au décrochage), écran de fin.
-- **Adaptation robuste** : après un décrochage d'un crochet Fléau, les tiers bougent et se cachent derrière des obstacles.
-- **Counterplay** : Distortion. Décrocher quand le tueur est loin.
-- **Erreurs à ne pas faire** : rester immobile près du crochet après le décrochage.
+- **Indice observable (survivant)** (HEURISTIC) : crochets Fléau (le seed parle de « crochet blanc » ; visibilité côté survivant : UNCERTAIN). Le tueur revient droit sur le décrocheur ou sur un tiers juste après le décrochage.
+- **Soupçonner** (HEURISTIC) : présence de crochets Fléau (d'autres Scourge ou plusieurs perks) + trajet direct après décrochage.
+- **Confirmer** (HEURISTIC) : Distortion (jeton perdu au décrochage), écran de fin.
+- **Adaptation robuste** (HEURISTIC) : après un décrochage d'un crochet Fléau, les tiers bougent et se cachent derrière des obstacles.
+- **Counterplay** (HEURISTIC) : Distortion. Décrocher quand le tueur est loin.
+- **Erreurs à ne pas faire** (HEURISTIC) : rester immobile près du crochet après le décrochage.
 - **Menace (HEURISTIC)** : SoloQ 1 / SWF 1.
 - **Écart avec le seed** : NON VÉRIFIABLE.
 - **Sources** : aucune lue (quota)
 
 ### Ultimate Weapon — The Xenomorph
 - **Statut / catégorie** : LIVE 10.1.2a · info (cri) + aveuglement
-- **Effet LIVE + valeurs** (seed) : ouvrir un casier fait crier (position révélée) les survivants à moins de 40 m et les aveugle (Blindness) 30 s ; recharge 55/50/45 s. **NON VÉRIFIABLE**. Mon souvenir, non sourcé, est une version où l'effet frappe les survivants qui **entrent dans le rayon de terreur** pendant une fenêtre après l'ouverture du casier. Je ne sais pas laquelle des deux versions est LIVE → UNCERTAIN (question ouverte).
+- **Effet LIVE + valeurs** (seed) : ouvrir un casier fait crier (position révélée) les survivants à moins de 40 m et les aveugle (Blindness) 30 s ; recharge 55/50/45 s. **seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)** — UNCERTAIN. La connaissance du modèle (antérieure à mi-2026), UNCERTAIN, décrit plutôt une version où l'effet frappe les survivants qui **entrent dans le rayon de terreur** pendant une fenêtre après l'ouverture du casier. Je ne sais pas laquelle des deux versions est LIVE → UNCERTAIN (question ouverte).
 - **PTB 10.2.0** : UNCERTAIN.
-- **Indice observable (survivant)** : **cri involontaire** + **icône Blindness** (tu ne vois plus les auras) peu après que le tueur a ouvert un casier. Très lisible.
-- **Soupçonner / Confirmer** : cri + Blindness sans poursuite ni coup → Ultimate Weapon quasi certaine (hors pouvoirs).
-- **Adaptation robuste** : sous Blindness, ne compte plus sur Kindred ou Bond ; pars de l'hypothèse que le tueur connaît ta position.
-- **Counterplay** : bouger immédiatement après le cri. Rester hors de portée d'un tueur qui ouvre un casier.
-- **Erreurs à ne pas faire** : reprendre le même gen après le cri.
+- **Indice observable (survivant)** (HEURISTIC) : **cri involontaire** + **icône Blindness** (tu ne vois plus les auras) peu après que le tueur a ouvert un casier. Très lisible.
+- **Soupçonner / Confirmer** (HEURISTIC) : cri + Blindness sans poursuite ni coup → Ultimate Weapon quasi certaine (hors pouvoirs).
+- **Adaptation robuste** (HEURISTIC) : sous Blindness, ne compte plus sur Kindred ou Bond ; pars de l'hypothèse que le tueur connaît ta position.
+- **Counterplay** (HEURISTIC) : bouger immédiatement après le cri. Rester hors de portée d'un tueur qui ouvre un casier.
+- **Erreurs à ne pas faire** (HEURISTIC) : reprendre le même gen après le cri.
 - **Menace (HEURISTIC)** : SoloQ 1,5 / SWF 1.
 - **Écart avec le seed** : NON VÉRIFIABLE (portée et déclencheur à trancher).
 - **Sources** : aucune lue (quota)
 
 ### Scourge Hook: Weeping Wounds — Générale (ex-Scourge Hook: Gift of Pain, The Cenobite)
 - **Statut / catégorie** : LIVE 10.1.2a · scourge · anti-soin · slowdown (vitesse d'action)
-- **Effet LIVE + valeurs** (seed) : décroché d'un crochet Fléau → Hemorrhage et Mangled 90 s. Après son 1er soin complet, le survivant répare et soigne 10/13/16 % plus lentement jusqu'à sa prochaine blessure. Renommage confirmé par l'audit (départ Hellraiser) [14]. Valeurs : **NON VÉRIFIABLE**.
+- **Effet LIVE + valeurs** (seed) : décroché d'un crochet Fléau → Hemorrhage et Mangled 90 s. Après son 1er soin complet, le survivant répare et soigne 10/13/16 % plus lentement jusqu'à sa prochaine blessure. Renommage confirmé par l'audit (départ Hellraiser) [14]. Valeurs : **seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)** — UNCERTAIN.
 - **PTB 10.2.0** : UNCERTAIN.
-- **Indice observable (survivant)** : icônes **Hemorrhage + Mangled** à la sortie d'un crochet. Après le soin, un statut de pénalité : son affichage exact dans le HUD est UNCERTAIN.
-- **Soupçonner** : Hemorrhage + Mangled juste après un décrochage (Sloppy Butcher exclu : il ne s'applique qu'aux coups).
-- **Confirmer** : réparation visiblement lente après le soin ; écran de fin.
-- **Adaptation robuste** : ne pas soigner la victime tout de suite si le tueur est en approche. Elle peut rester blessée et réparer (la pénalité ne tombe qu'**après** le soin complet, selon le seed).
-- **Counterplay** : garder les soins pour des moments sûrs. Prendre un coup protecteur « lave » la pénalité (redevenir blessé), selon le seed.
-- **Erreurs à ne pas faire** : soigner pour rien un survivant qui va reprendre un coup de toute façon.
+- **Indice observable (survivant)** (HEURISTIC) : icônes **Hemorrhage + Mangled** à la sortie d'un crochet. Après le soin, un statut de pénalité : son affichage exact dans le HUD est UNCERTAIN.
+- **Soupçonner** (HEURISTIC) : Hemorrhage + Mangled juste après un décrochage (Sloppy Butcher exclu : il ne s'applique qu'aux coups).
+- **Confirmer** (HEURISTIC) : réparation visiblement lente après le soin ; écran de fin.
+- **Adaptation robuste** (HEURISTIC) : ne pas soigner la victime tout de suite si le tueur est en approche. Elle peut rester blessée et réparer (la pénalité ne tombe qu'**après** le soin complet, selon le seed).
+- **Counterplay** (HEURISTIC) : garder les soins pour des moments sûrs. Prendre un coup protecteur « lave » la pénalité (redevenir blessé), selon le seed.
+- **Erreurs à ne pas faire** (HEURISTIC) : soigner pour rien un survivant qui va reprendre un coup de toute façon.
 - **Menace (HEURISTIC)** : SoloQ 1 / SWF 1.
 - **Écart avec le seed** : OK pour le nom. Valeurs NON VÉRIFIABLE.
 - **Sources** : [14]
 
 ### Hex: Fortune's Fool — Générale (ex-Hex: Plaything, The Cenobite)
 - **Statut / catégorie** : LIVE 10.1.2a · hex · info (Oblivious)
-- **Effet LIVE + valeurs** (seed) : au 1er accrochage de chaque survivant, un Hex s'allume, lié à ce survivant. Le survivant devient Oblivious ; lui seul peut purifier le totem pendant 90 s, et il voit l'aura du totem dans un rayon de 24/20/16 m. Renommage confirmé par l'audit [14]. Valeurs : **NON VÉRIFIABLE** (cohérent avec connaissance interne).
+- **Effet LIVE + valeurs** (seed) : au 1er accrochage de chaque survivant, un Hex s'allume, lié à ce survivant. Le survivant devient Oblivious ; lui seul peut purifier le totem pendant 90 s, et il voit l'aura du totem dans un rayon de 24/20/16 m. Renommage confirmé par l'audit [14]. Valeurs : **seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)** — UNCERTAIN (cohérent avec connaissance interne).
 - **PTB 10.2.0** : UNCERTAIN.
-- **Indice observable (survivant)** : icône **Oblivious** après ton 1er accrochage ; aura d'un totem proche (à ≤ 24/20/16 m). Tu n'entends plus le rayon de terreur.
-- **Soupçonner / Confirmer** : Oblivious + totem Hex qui s'allume après le 1er crochet → confirmé.
-- **Adaptation robuste** : purifier son totem rapidement, surtout contre un tueur de poursuite ou un tueur furtif. Sous Oblivious, se déplacer avec prudence (regarder derrière soi).
-- **Counterplay** : après 90 s, n'importe qui peut purifier. En SWF, un coéquipier purifie à la place.
-- **Erreurs à ne pas faire** : ignorer le totem et réparer en Oblivious à côté d'un tueur à petit rayon.
+- **Indice observable (survivant)** (HEURISTIC) : icône **Oblivious** après ton 1er accrochage ; aura d'un totem proche (à ≤ 24/20/16 m). Tu n'entends plus le rayon de terreur.
+- **Soupçonner / Confirmer** (HEURISTIC) : Oblivious + totem Hex qui s'allume après le 1er crochet → confirmé.
+- **Adaptation robuste** (HEURISTIC) : purifier son totem rapidement, surtout contre un tueur de poursuite ou un tueur furtif. Sous Oblivious, se déplacer avec prudence (regarder derrière soi).
+- **Counterplay** (HEURISTIC) : après 90 s, n'importe qui peut purifier. En SWF, un coéquipier purifie à la place.
+- **Erreurs à ne pas faire** (HEURISTIC) : ignorer le totem et réparer en Oblivious à côté d'un tueur à petit rayon.
 - **Menace (HEURISTIC)** : SoloQ 1,5 / SWF 1.
 - **Écart avec le seed** : OK pour le nom. Valeurs NON VÉRIFIABLE.
 - **Sources** : [14]
@@ -315,7 +317,7 @@ Toutes les règles ci-dessous sont des **HEURISTIC**.
 
 #### CONFLICT-K91-03 : Ultimate Weapon, déclencheur et portée
 - Source A : seed : cri pour les survivants à moins de 40 m, Blindness 30 s, recharge 55/50/45 s.
-- Source B : souvenir non sourcé (pas une source) : effet sur les survivants qui entrent dans le rayon de terreur pendant une fenêtre après l'ouverture du casier.
+- Source B : connaissance du modèle (antérieure à mi-2026), UNCERTAIN (pas une source) : effet sur les survivants qui entrent dans le rayon de terreur pendant une fenêtre après l'ouverture du casier.
 - Résolution : UNRESOLVED, à vérifier.
 
 ## Écarts avec le guide seed

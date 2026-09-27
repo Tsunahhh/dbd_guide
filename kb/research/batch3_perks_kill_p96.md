@@ -1,15 +1,15 @@
 # Lot 3 — Perks tueur vues du survivant, page 96 du guide seed (Tier D)
 
+Couverture web : 9 éléments vérifiés par recherche / 18 non re-vérifiés (quota)
+
 - Référence : LIVE 10.1.2a (17/09/2026) ; PTB 10.2.0 (15-21/09/2026) **non LIVE**, toujours étiqueté PTB.
 - Méthode : WebSearch uniquement (WebFetch bloqué). Les résumés de recherche = STRONG_SECONDARY au mieux ; « via résumé de recherche ».
-- Périmètre : 26 perks (seed `kb/seed/ch9_killperks.txt` l. 646-753) ; catégories/PTB seed l. 754-841.
-Couverture web : 9 éléments vérifiés par recherche / 17 non re-vérifiés (quota)
-
+- Périmètre : 27 perks (seed `kb/seed/ch9_killperks.txt` l. 646-753) ; catégories/PTB seed l. 754-841.
 - Notes de menace = **HEURISTIC**. Conseils d'adaptation / counterplay = **HEURISTIC** sauf mention.
 
 > **Limite majeure de ce fichier.** Le quota WebSearch de la session (200/200, partagé entre agents) a été épuisé après 12 recherches de ce lot, dont 9 exploitables.
 > - **9 perks vérifiées** (wiki.gg via résumé de recherche) : Bloodhound, Shadowborn, Stridor, Beast of Prey, Overwhelming Presence, Monitor & Abuse, Cruel Limits, Hoarder, Septic Touch (+ pages Pools of Blood et Patch Notes 9.1.X).
-> - **17 perks non re-vérifiées** : Awakened Awareness, Game Afoot, THWACK!, Leverage, Unbound, Undone, Dark Arrogance, Hex: Wretched Fate, No Quarter, Scourge Hook: Hangman's Trick, Hex: Overture of Doom, Ravenous, Wandering Eye, Hex: Scared to Death, Rampage, Spies from the Shadows, Unrelenting, Bitter Murmur. Leur effet = valeur du seed, « seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) », UNCERTAIN ; les incohérences internes du seed (p96 vs ch8) sont signalées. À re-vérifier en priorité par un lot ultérieur.
+> - **18 perks non re-vérifiées** : Awakened Awareness, Game Afoot, THWACK!, Leverage, Unbound, Undone, Dark Arrogance, Hex: Wretched Fate, No Quarter, Scourge Hook: Hangman's Trick, Hex: Overture of Doom, Ravenous, Wandering Eye, Hex: Scared to Death, Rampage, Spies from the Shadows, Unrelenting, Bitter Murmur. Leur effet = valeur du seed, « seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) », UNCERTAIN ; les incohérences internes du seed (p96 vs ch8) sont signalées. À re-vérifier en priorité par un lot ultérieur.
 > - Aucune source PTB 10.2.0 n'a pu être consultée : les valeurs PTB citées viennent du seed (l. 800-841) et restent **UNCERTAIN**, sauf l'existence d'un rework d'Undone (confirmée par `audit_phase0.txt`, qui cite le Dev Update 10.2.0 et BHVR KB 559).
 > - Toutes les rubriques analytiques (indices observables, soupçonner/confirmer, adaptation, counterplay, erreurs, menace) sont **HEURISTIC / EXPERT OPINION**.
 
@@ -436,7 +436,7 @@ Règles HEURISTIC / EXPERT OPINION (tirées du périmètre p96). Confiance : rè
 | K96-10 | Septic Touch : soin en TR → Blind + Exhausted, persiste 20/25/30 s | [11] | LIVE | STRONG_SECONDARY |
 | K96-11 | Undone reçoit un rework au PTB 10.2.0 | [12] | PTB | STRONG_SECONDARY (via audit) |
 | K96-12 | Hex: Scared to Death et Rampage = perks du chapitre 10.0.0 (Slasher) | [12] | LIVE | STRONG_SECONDARY (via audit) |
-| K96-13 | Valeurs LIVE des 17 autres perks (seed, NON RE-VÉRIFIÉ (quota)) | seed | LIVE ? | UNCERTAIN |
+| K96-13 | Valeurs LIVE des 18 autres perks (seed, NON RE-VÉRIFIÉ (quota)) | seed | LIVE ? | UNCERTAIN |
 
 ## Conflits
 
@@ -485,7 +485,7 @@ Règles HEURISTIC / EXPERT OPINION (tirées du périmètre p96). Confiance : rè
 
 ## Questions ouvertes
 
-1. Valeurs LIVE 10.1.2a des 17 perks non re-vérifiées (priorité : Leverage, Unbound, Undone, Dark Arrogance, Ravenous, à cause des conflits internes du seed).
+1. Valeurs LIVE 10.1.2a des 18 perks non re-vérifiées (priorité : Leverage, Unbound, Undone, Dark Arrogance, Ravenous, à cause des conflits internes du seed).
 2. Monitor & Abuse : effet net du TR hors chase (bonus + malus cumulés ou seul le malus ?).
 3. Septic Touch : déclenchement en soignant un **autre** survivant ?
 4. Beast of Prey : durée de chase nécessaire au Bloodlust en 10.1.2a, et fin de l'Undetectable à la perte de Bloodlust ?

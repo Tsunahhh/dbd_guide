@@ -59,7 +59,7 @@ Périmètre : 24 perks (kb/seed/ch3_survperks.txt l. 422-534).
 - **Valeurs / CD / conditions / limites** : se désactive après déclenchement ou fin du timer.
 - **PTB 10.2.0** : non modifiée d'après les sources lues — UNCERTAIN.
 - **Interactions, DR, anti-synergies** : Hindered d'origine perk → DR si un autre Hindered identique est appliqué — HYPOTHESIS. Inutile contre un tueur qui ne casse pas la palette (tueurs à pouvoir de destruction, ou qui la laisse).
-- **Synergies** : Hardened ? (non), Blast Mine / Wiretap (lot « trapper survivant »), Resilience — HEURISTIC.
+- **Synergies** : Blast Mine / Wiretap (lot « trapper survivant »), Resilience — HEURISTIC.
 - **Difficulté** : 2
 - **Valeur (HEURISTIC)** : SoloQ 1 · SWF 1 · chase 1 · macro 0 · info 0 · anti-tunnel 1 · soin 0 · gen 0 · endgame 0
 - **Produit de la valeur** : sur une palette de « dead zone » que le tueur doit casser pour poursuivre (distance gagnée ~4 s).
@@ -247,7 +247,7 @@ Pour chacune : les valeurs viennent du seed avec la mention « seed, NON RE-VÉR
 - **Valeurs / CD / conditions / limites** : seed, NON RE-VÉRIFIÉ, UNCERTAIN. Connaissance du modèle (antérieure à mi-2026), UNCERTAIN : l'objet garanti serait l'Emergency Med-Kit, une seule fois par partie ; sa rareté (« rare » selon le seed) est à vérifier.
 - **PTB 10.2.0** : cité comme buff (p32 du seed) — seed, NON RE-VÉRIFIÉ, UNCERTAIN.
 - **Interactions, DR, anti-synergies** : n/a (HEURISTIC).
-- **Synergies** : Plunderer's Instinct, Appraisal, Self-Care ? (non), Botany Knowledge — HEURISTIC.
+- **Synergies** : Plunderer's Instinct, Appraisal, Botany Knowledge — HEURISTIC.
 - **Difficulté** : 1
 - **Valeur (HEURISTIC, 0-3)** : SoloQ 1 · SWF 1 · chase 0 · macro 0 · info 0 · anti-tunnel 0 · soin 1 · gen 0 · endgame 0
 - **Quand elle produit de la valeur (HEURISTIC)** : si vous arrivez sans objet et qu'un coffre est proche en début de partie.
