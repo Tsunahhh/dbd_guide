@@ -292,34 +292,39 @@
 
 ## 7. The Doctor (Herman Carter) — archétype(s) : anti-loop | info | M1
 
-- **Version** : FACT [AUDIT] buff 9.6.0 (28 avr. 2026, détail non listé dans l'audit) ; 9.6.1 (5 mai 2026) : Shock Therapy 0,65 s [1]. Seed : 0,8 → 0,75 s (9.6.0) → 0,65 s (9.6.1) [SEED-NRV pour 0,8/0,75].
-- **Données LIVE** :
-  - Vitesse 4,6 m/s ; TR 32 m ; grand [SEED-NRV], cohérent classe 4,6 [AUDIT].
-  - Shock Therapy : délai **0,65 s** [AUDIT], LIVE ; portée ~12 m ; bloque vault/palette ~2,5 s [SEED-NRV] — UNCERTAIN.
-  - Static Blast : onde sur tout le TR, recharge 30 à 45 s selon le seed [SEED-NRV], UNCERTAIN (souvenir d'une recharge plus longue [MÉM]) ; évitable dans un casier [SEED-NRV].
-  - Madness I/II/III (skill checks piégés 33/66/100 %, hallucinations, cris, objets bloqués en III, restrictions d'actions en III) [SEED-NRV] — UNCERTAIN (restrictions exactes de Madness III à confirmer).
-- **Identification** (HEURISTIC) : électricité/crépitement, skill checks inhabituels, cris involontaires, hallucinations (faux Doctors) ; Static Blast = charge audible + onde. Add-ons : faisceau étroit et long (Interview Tape selon le seed), portée accrue (High Stimulus Electrode). Stratégie : chase anti-loop + info ; ralentissement via skill checks (Overcharge, Unnerving, Huntress Lullaby) ou Distressing/Coulrophobia.
-- **Ce qu'il cherche en chase** (HEURISTIC) : te choquer juste avant la palette/fenêtre pour bloquer l'action ; enchaîner choc + M1 à courte portée (plus fiable depuis 0,65 s [AUDIT]).
+- **Version** : **9.6.0** (28 avr. 2026) : délai de Shock Therapy **0,8 → 0,75 s** ; **9.6.1** (5 mai 2026) : **0,75 → 0,65 s**, et add-ons "Discipline" réduits (Class II 0,1 → **0,06 s**, Class III 0,15 → **0,08 s**, Carter's Notes 0,2 → **0,1 s**) (VERIFIED_MULTI_SOURCE [18][19][11]) → l'étape 0,8 → 0,75 s du seed est **OK** et la question « contenu du buff 9.6.0 » est résolue. **10.0.0** : vignette de bruit supprimée, lumière et secousse de caméra réduites quand il utilise son pouvoir / quand un survivant est choqué (VERIFIED_PRIMARY [21]). Correctifs : Snap Out of It impossible en tenant un Morsel (10.0.2), tokens de Stake Out consommés par les skill checks de Snap Out of It (10.0.3, problème connu), palettes illusoires devenues permanentes avec Apocalyptic Ingenuity (9.5.1) [21].
+- **Données LIVE** (STRONG_SECONDARY [11] ; délai VERIFIED_MULTI_SOURCE) :
+  - Vitesse 4,6 m/s ; TR 32 m ; grand (Tall).
+  - **Shock Therapy** : charge 1 s (il avance à **3,08 m/s**) ; cône au sol de **12 m** ; détonation **0,65 s** après le relâchement ; recharge 1,5 s. Survivant touché : **+0,5 palier** de Madness, **cri** qui **interrompt** l'action en cours, **aucune interaction (palettes, fenêtres comprises) pendant 2,5 s** ; retire l'Oblivious.
+  - **Static Blast** : jauge pleine, charge **2 s** (il avance à 2,99 m/s) ; onde qui **traverse les obstacles** et couvre **tout son TR** ; **+1 palier**, cri qui interrompt l'action ; **seul un casier protège** ; recharge **30 s** si personne n'était à portée, **45 s** si au moins un survivant l'était. Un survivant Oblivious est quand même touché (portée = TR, pas perception).
+  - **Madness** : I = cri au palier, 33 % de skill checks de Madness ; II = 66 % + **Illusionary Doctors** ; III = 100 %, **cris intermittents** (localisation), il voit l'aura des Illusionary Doctors, **objets inutilisables**, **aucune interaction à barre de progression** faite ou reçue (soins, réparation, etc.) **sauf décrocher un coéquipier**. On ne perd jamais la Madness : **Snap Out of It** (12 s, skill checks de Madness à chaque quart ; un échec recule d'un quart et fait crier) ramène au palier I.
+- **Identification** (HEURISTIC) : électricité/crépitement, skill checks inhabituels (Madness), cris involontaires, hallucinations (faux Doctors) ; Static Blast = charge audible + onde. Add-ons : faisceau étroit et long (Interview Tape), anneau à 8 m (Scrapped Tape), fausses palettes (Order), faux Red Stain/TR constants (Discipline), faux TR lointain (Calm). Stratégie : chase anti-loop + info ; ralentissement via skill checks (Overcharge, Unnerving, Huntress Lullaby) ou Distressing/Coulrophobia.
+- **Ce qu'il cherche en chase** (HEURISTIC) : te choquer juste avant la palette/fenêtre pour bloquer l'action (2,5 s) ; enchaîner choc + M1 à courte portée (plus fiable depuis 0,65 s).
 - **Tiles / structures** (HEURISTIC) :
-  - Favorables : longues boucles avec distance ; tiles où tu peux garder > portée du choc ; structures qui cassent la LOS du Static Blast.
+  - Favorables : longues boucles avec distance ; tiles où tu peux garder > 12 m (portée du choc).
   - Défavorables : tiles courtes « à la palette » (un choc au mauvais moment = coup garanti).
+  - **Static Blast** : aucune structure ne le bloque (il traverse les obstacles, [11]) ; seul un casier protège. Correction : « structures qui cassent la LOS du Static Blast » (ancienne version de cette fiche, d'après le seed) est **FAUX**.
   - Fenêtres vs palettes : pré-lâcher tôt **puis partir** vers la tile suivante, ou vaulter avec de l'avance, plutôt qu'au dernier moment. La casse au pied lui coûte 2,34 s [AUDIT] : le pré-drop contre le Doctor n'est pas gratuit pour lui, mais un Doctor qui attend le pré-drop (il ralentit avant la palette) l'obtient sans risque → mélanger avec des drops normaux quand le choc est hors de portée (HEURISTIC).
-- **Mindgames propres** (HEURISTIC) : feinte de choc (il marche sans tirer) pour te faire vaulter tôt ; choc de zone sur la sortie de la tile.
-- **Counterplay** (HEURISTIC) :
-  - Mécanique : décaler tes actions (palette/vault) hors de la fenêtre de 0,65 s ; garder de la distance. Calcul P14 : en 0,65 s tu parcours 2,6 m à 4,0 m/s [AUDIT] : si tu arrives à la palette à moins de ~3 m devant un choc lancé, l'action tombe dans la fenêtre.
-  - Positionnel : casier ou LOS au Static Blast (selon le seed).
-  - Macro : réussir les skill checks ; se remettre en Madness basse quand il est loin ; il manque de mobilité → dispersion.
-  - Perks : Calm Spirit (cris) selon le seed (LIVE : pas de cri, SS ; modifiée au PTB 10.2.0, non LIVE) ; éviter les builds à skill checks (HEURISTIC).
-- **Habitudes punissables et erreurs classiques** (HEURISTIC) : jouer les palettes au dernier moment ; soigner/réparer en Madness III dans son TR ; ignorer le chrono du Static Blast.
-- **Adaptations avancées / échecs** (SITUATIONAL) : depuis 0,65 s, la marge « je lâche au dernier moment » disparaît à courte portée → pré-drop plus tôt ou quitter la tile ; avec portée accrue, les longues boucles perdent de leur sûreté.
-- **Add-ons qui changent la décision** (UNCERTAIN, [SEED-NRV]) :
-  - Interview Tape (faisceau étroit et long) → sortir de l'axe plutôt que reculer.
-  - High Stimulus Electrode (+4 m) → prendre plus de distance avant toute action.
-  - « Discipline » – Carter's Notes (délai −0,1 s) → délai effectif ~0,55 s si cumulé (UNCERTAIN, calcul HEURISTIC ; recalculé P14 : 0,65 − 0,1 = 0,55 s, sans réduction DR puisque les add-ons en sont exclus [AUDIT] ; faux si l'add-on agit en % et non en secondes) : pré-drop encore plus tôt.
+- **Mindgames propres** (HEURISTIC) : feinte de choc (il marche sans tirer) pour te faire vaulter tôt ; choc de zone sur la sortie de la tile ; en chargeant un choc il n'avance qu'à 3,08 m/s : une charge visible est aussi une perte de distance pour lui.
+- **Counterplay** (HEURISTIC, sur valeurs [11]) :
+  - Mécanique : décaler tes actions (palette/vault) hors de la fenêtre de 0,65 s ; garder > 12 m quand c'est possible. Calcul P14 : en 0,65 s tu parcours 2,6 m à 4,0 m/s [AUDIT] : si tu arrives à la palette à moins de ~3 m devant un choc lancé, l'action tombe dans la fenêtre ; une fois choqué, tu ne peux plus rien faire pendant 2,5 s (≈ 10 m de course) → ne pas viser une palette/fenêtre située à moins de 10 m après un choc.
+  - Static Blast : **casier** si tu es dans son TR au moment de la charge (2 s) et qu'un casier est à portée ; sinon accepter le palier. Il a 30-45 s de recharge : compter après une onde.
+  - Macro : réussir les skill checks ; faire **Snap Out of It** (12 s) quand il est loin ; en Madness III, tu ne peux ni soigner, ni réparer, ni être soigné, ni utiliser d'objet (DATA [11]) : Snap Out of It devient prioritaire, sauf pour décrocher un coéquipier (autorisé). Il manque de mobilité → dispersion.
+  - Perks : Calm Spirit (cris) selon le seed (LIVE : pas de cri, SS ; modifiée au PTB 10.2.0, non LIVE ; interaction exacte avec les cris de Madness non vérifiée ici) ; éviter les builds à skill checks (HEURISTIC).
+- **Habitudes punissables et erreurs classiques** (HEURISTIC) : jouer les palettes au dernier moment ; rester en Madness III dans son TR ; ignorer le chrono du Static Blast ; se cacher derrière un mur contre le Static Blast.
+- **Adaptations avancées / échecs** (SITUATIONAL) : depuis 0,65 s, la marge « je lâche au dernier moment » disparaît à courte portée → pré-drop plus tôt ou quitter la tile ; avec portée accrue (jusqu'à 16 m), les longues boucles perdent de leur sûreté.
+- **Add-ons qui changent la décision** (noms et effets LIVE lus sur la page, STRONG_SECONDARY [11] ; Discipline VERIFIED_MULTI_SOURCE [19]) :
+  - Interview Tape (choc en **faisceau étroit de 2 m × 24 m**) → sortir de l'axe latéralement **au lieu de** reculer.
+  - Scrapped Tape (choc en **anneau** de rayon 4 m placé **8 m devant lui**) → rester **très près** ou **hors de l'anneau** **au lieu de** prendre la distance habituelle.
+  - High Stimulus / Polished / Mouldy Electrode (**+4/+3/+2 m**, jusqu'à 16 m) → prendre plus de distance avant toute action **au lieu de** te fier aux 12 m.
+  - "Discipline" – Carter's Notes / Class III / Class II (délai −0,1/−0,08/−0,06 s → **0,55/0,57/0,59 s**, LIVE 9.6.1, sans DR puisque les add-ons en sont exclus [AUDIT]) + faux Red Stain/TR en chase (Madness II) ou permanents (Madness III) → pré-drop encore plus tôt, et **ne pas lire la distance au Red Stain/TR** en Madness II-III **au lieu de** t'y fier.
+  - "Order" (Class I/II/Carter's Notes : **palettes illusoires** à la place des palettes cassées pour les survivants en Madness, nouvelles toutes les 20 s ; recharge du Static Blast −2/−2,5/−3 s) → en Madness, **ne pas planifier une chase sur une palette** apparue là où tu en avais vu une cassée **au lieu de** la croire réelle.
+  - "Calm" (TR ±4/6/8 m selon que le Static Blast est prêt ; faux TR lointain en Madness II-III) → TR plus grand = Static Blast prêt (casier, dispersion) ; ne pas se fier au TR entendu en Madness.
+  - "Restraint" (aura du survivant qui monte d'un palier 1/2/3 s) / Iridescent King (toutes les afflictions à la fois) → Snap Out of It encore plus prioritaire.
 - **Implications de carte** (HEURISTIC) : fort sur petites cartes/intérieures (Static Blast couvre beaucoup) ; faible sur grandes cartes.
-- **Perks fréquentes** : Distressing, Coulrophobia, Unnerving Presence, Huntress Lullaby, Overcharge ; ou Pain Resonance, Grim Embrace, Lethal Pursuer [SEED-NRV]. FACT [AUDIT] : Coulrophobia 20/25/30 % (10.1.0) [1].
-- **Écart avec le seed** : Shock Therapy 0,65 s (9.6.1) OK [AUDIT] ; valeurs Static Blast / Madness III : NON VÉRIFIABLE.
-- **Sources** : [1] [2]
+- **Perks fréquentes** : Distressing, Coulrophobia, Unnerving Presence, Huntress Lullaby, Overcharge ; ou Pain Resonance, Grim Embrace, Lethal Pursuer [SEED-NRV, fréquences non re-vérifiées]. FACT [AUDIT] : Coulrophobia 20/25/30 % (10.1.0) [1]. Distressing modifiée au PTB 10.2.0 (non LIVE).
+- **Écart avec le seed** : Shock Therapy 0,8 → 0,75 (9.6.0) → 0,65 s (9.6.1) **OK** (VERIFIED_MULTI_SOURCE) ; portée 12 m, blocage vault/palette 2,5 s **OK** ; Static Blast 30-45 s, évitable dans un casier **OK** ; Madness 33/66/100 %, hallucinations, objets bloqués et restrictions d'actions en III **OK** ; Interview Tape (faisceau), High Stimulus (+4 m) **OK**. **FAUX** (dans cette fiche d'après le seed) : casser la LOS contre le Static Blast.
+- **Sources** : [1] [2] [11] [18] [19] [21]
 
 ## Claims
 
