@@ -1,0 +1,1753 @@
+Contents
+
+1
+ 
+Release Dates
+
+2
+ 
+Public Test Build 9.1.0
+
+3
+ 
+Patch 9.1.0
+
+3.1
+ 
+Hotfix 9.1.1
+
+3.2
+ 
+Hotfix 9.1.2
+
+3.3
+ 
+Hotfix 9.1.3
+
+Release Dates
+
+Patches
+
+Release Dates
+
+PTB 9.1.0
+
+8 July 2025
+
+9.1.0
+
+29 July 2025
+
+9.1.1
+
+6 August 2025
+
+9.1.2
+
+14 August 2025
+
+9.1.3
+
+26 August 2025
+
+Public Test Build 9.1.0
+
+CONTENT
+
+New Survivor - 
+Rick Grimes
+
+Perks
+
+Apocalyptic Ingenuity
+
+Come and Get Me!
+
+Teamwork: Toughen Up
+
+New Survivor - 
+Michonne Grimes
+
+Perks
+
+Conviction
+
+Last Stand
+
+Teamwork: Throw Down
+
+FEATURES
+
+Hooks
+
+When only two Survivors remain, letting two struggle skill checks pass without any input will immediately skip to the sacrifice sequence.
+
+Presets
+
+Players have access to a new preset system.
+
+Number of Loadout presets, and Cosmetic presets was increased to 7.
+
+Players can use a dropdown to chose the one they want to use.
+
+Presets can be renamed.
+
+Loadout and Cosmetic presets remain separated.
+
+Custom Games and Spectator Mode
+
+Hotkeys to spectate different players are now shown in the HUD. They can be toggled off in Settings.
+
+A marker has been added to the HUD to show which player is being spectated.
+
+In Custom Games, the Killer power icon is shown to represent the player and the hotkey to switch view to them. The icon can be toggled off in settings.
+
+When joining as a spectator after escaping or being killed, the HUD will still show all players that had joined the match and their final state.
+
+The spectate button was relocated on the tally screen so it is easier to access.
+
+Gameplay Area Expansion - Fallen Refuge
+
+More space to chase Survivors or loop the Killer, a small reference to a narrative universe where the dead roam the world has been added.
+
+KILLER TWEAKS
+
+The Executioner
+
+Power
+
+Increased Punishment of the Damned's range to 10 meters (was 8).
+
+Increased maximum Rites of Judgement duration to 10 seconds (was 5).
+
+Increased Rites of Judgement trail lifetime to 90 seconds (was 75).
+
+Decreased Rites of Judgement movement speed to 4.2m/s (was 4.4).
+
+The inputs for Rites of Judgement, Punishment of the Damned, and sending a Survivor to a cage can now be held, starting the action as soon as it becomes available.
+
+Survivors who are rescued from a cage now gain 10% Haste and Endurance for 10 seconds.
+
+Increased Bloodpoint score for rescuing a Survivor from a cage to 2000 (was 550).
+
+Add-Ons
+
+Lead Ring (Rework): Now increases Punishment of the Damned's range by 25% and decreases its width by 25%.
+
+Dead Butterfly (Rework): Now increases Rites of Judgement's recharge rate by 10%.
+
+Black Strap (Rework): Now decreases Punishment of the Damned's range by 25% and increases its width by 25%.
+
+Copper Ring: Now increases maximum duration of Rites of Judgement by 5 seconds (was 1).
+
+Cinderella Music Box (Rework): Now decreases Punishment of the Damned's cooldown by 10%.
+
+Forgotten Video Tape (Rework): Now increases the speed at which Punishment of the Damned travels by 10%.
+
+Wax Doll: Now increases Punishment of the Damned's range by 5% (was 12.5%).
+
+Spearhead (Rework): Now reveals the aura of the rescuer when a Survivor is saved from a cage for 8 seconds.
+
+Leopard-Print Fabric (Rework): Now decreases the duration of stuns while using Rites of Judgement by 15%.
+
+Mannequin Foot (Rework): Now causes Rites of Judgement trails to inflict Exhausted for 10 seconds.
+
+Valtiel Sect Photograph (Rework): Now decreases your Terror Radius by 2 meters for each Survivor affected by Torment.
+
+Burning Man Painting (Rework): Now reveals the auras of Survivors within 3 meters for 6 seconds upon missing a Punishment of the Damned attack.
+
+Tablet of the Oppressor (Rework): Now grants Undetectable while using Rites of Judgement.
+
+Misty Day, Remains of Judgement (Rework): Now reveals the auras of Survivors injured by Punishment of the Damned for 8 seconds.
+
+Scarlet Egg (Rework): Now causes Survivors inflicted by Torment to spawn Rites of Judgement trails when they sprint. These trails last 5 seconds.
+
+Rust-colored Egg (Rework): Now causes Punishment of the Damned hits to replenish Rites of Judgement's charge by 30%.
+
+Lost Memories Book (Rework): Now causes Survivors injured by Punishment of the Damned to become Oblivious for 80 seconds.
+
+Obsidian Goblet (Rework): Now allows Punishment of the Damned to destroy pallets and breakable walls. Increases Punishment of the Damned's cooldown by 20%.
+
+Iridescent Seal of Metatron (Rework): Now decreases Punishment of the Damned's range by 50%. Punishment of the Damned's range increases by creating Rites of Judgement trails, up to a maximum of 200%. This resets when Punishment of the Damned hits a Survivor.
+
+The Clown
+
+Power
+
+Increased Haste effect of Afterpiece Antidote to 12% (was 10%).
+
+Increased spread of Afterpiece Antidote gas clouds.
+
+Decreased the time it takes for Afterpiece Antidote gas clouds to activate to 1 second (was 2).
+
+Decreased the Hindered effect of Afterpiece Tonic to 12% (was 15%).
+
+Decreased the Hindered effect linger time from Afterpiece Tonic gas clouds to 1 second (was 2).
+
+Increased movement speed while reloading to 2.3m/s (was 1.61).
+
+Decreased the time it takes to reload to 2.5 seconds (was 3).
+
+The inputs for reloading and charging a throw can now be held, starting the action as soon as it becomes available.
+
+Add-Ons
+
+VHS Porn (Rework): Now increases the size and spread of Afterpiece Tonic gas clouds by 10%.
+
+Solvent Jug: Now increases Invigoration duration by 0.5 seconds (was 1).
+
+Flask of Bleach: Now increases the Hindered penalty from Intoxication by 2% (was 4%).
+
+Smelly Inner Soles: Now increases movement speed while reloading by 15% (was 66%).
+
+Sticky Soda Bottle: Now increases the Invigoration effect by 1% (was 2%).
+
+Cheap Gin Bottle: Now increases the Invigoration effect by 2% (was 3%).
+
+Cigar Box: Now reveals auras within 6 meters (was 16).
+
+Ether 15 Vol%: Now increases the duration of Intoxication by 0.5 seconds (was 1).
+
+Garish Makeup Kit: Now increases the duration of Invigoration by 1 second (was 2).
+
+The Pig
+
+Power
+
+Increased Ambush movement speed to 7.1m/s (was 6.9).
+
+Increased crouched movement speed to 4.0m/s (was 3.8).
+
+Decreased the time it takes to crouch & un-crouch to 0.8 seconds (was 1).
+
+Increased the rate at which the Terror Radius fades when crouching to 0.33 (was 0.25).
+
+The inputs for crouching and ambushing can now be held, starting the action as soon as it becomes available.
+
+Increased Bloodpoint score for escaping a Reverse Bear Trap to 1000 (was 400).
+
+Increased Bloodpoint score for searching through a Jigsaw Box to 200 (was 100).
+
+Searching a Jigsaw Box now awards Survival points (was Objective).
+
+Add-Ons
+
+John's Medical File: Now increases crouched movement speed by 5% (was 10%).
+
+Last Will: Now increases Ambush speed by 3% (was 6%) and increases the time to charge Ambush by 10% (was 33%).
+
+Workshop Grease: No longer decreases missed Ambush attack cooldown (was 10%).
+
+The Knight
+
+Power
+
+Increased max patrol path length to 38 meters (was 32).
+
+Increased patrol path creation speed to 15m/s (was 13.8).
+
+Increased patrol path acceleration by 2x.
+
+Increased strafe speed while creating a patrol path to 100% (was 25%).
+
+Increased the standard spawn time of the Carnifex to 8 seconds (was 5).
+
+Decreased the standard spawn time of the Assassin to 4 seconds (was 5).
+
+Decreased the standard spawn time of the Jailor to 4 seconds (was 10).
+
+The input for starting a patrol path can now be held, starting the action as soon as it becomes available.
+
+Add-Ons
+
+Call to Arms: Now increases patrol path length by 4 meters (was 10) and path creation speed by 7% (was 16%).
+
+The Oni
+
+Power
+
+Increased the Demon Strike turn rate limit during the open phase of the attack to 540 degrees (was disabled).
+
+New Survivor Item: 
+Fog Vial
+
+Press the Use Item button to release a cloud of fog, suppressing scratch marks and auras, and decreasing visibility and audible sounds within its radius. Recharges over time.
+
+Each Fog Vial shares the following parameters:
+
+Has 1 charge.
+
+Has 33% opacity.
+
+Has a 10 meter radius.
+
+Variants
+
+Apprentice's Fog Vial
+ (Common):
+
+Reaches its maximum size after 2 seconds.
+
+Lasts 8 seconds.
+
+Recharges 70 seconds after use.
+
+Artisan's Fog Vial
+ (Uncoomon):
+
+Reaches its maximum size after 1.5 seconds.
+
+Lasts 10 seconds.
+
+Recharges 65 seconds after use.
+
+Vigo's Fog Vial
+ (Rare):
+
+Reaches its maximum size after 1.2 seconds.
+
+Lasts 12 seconds.
+
+Recharges 60 seconds after use.
+
+FOG VIAL ADD-ONS
+
+Volcanic Stone
+ (Common):
+
+Decreases recharge time by 5 seconds.
+
+Reactive Compound
+ (Uncommon):
+
+Decreases fog cloud expansion time by 1 second.
+
+Oily Sap
+ (Rare):
+
+Increase fog cloud lifetime by 2 seconds.
+
+Mushroom Formula
+ (Very Rare):
+
+Increases the fog cloud's maximum size by 2 meters.
+
+Potent Extract
+ (Visceral):
+
+Decreases visibility and sounds within the fog cloud.
+
+SURVIVOR ITEM REWORKS 
+
+Key
+
+Press the Use Item button to start channeling the Key.
+
+Once fully channeled, consumes 1 charge to reveal auras of Survivors in range for a set duration.
+
+While near a locked chest, press the Use Item button to quickly open the chest (uncommon Key or higher).
+
+Consumes 1 charge.
+
+Guarantees an item of Rare rarity or higher.
+
+Unlocking a chest with a Key reveals its aura in yellow to other Survivors in range.
+
+1 other Survivor can rummage through the unlocked chest once.
+
+Guarantees an item of Rare rarity or higher.
+
+While performing the rummage action, the rummaging Survivor's aura appears to the Key holder.
+
+While near a closed hatch, press the Use Item button to unlock it (uncommon Key or higher).
+
+Consumes 1 charge.
+
+The Key item is no longer destroyed upon Survivor completing interaction and escaping the Trial.
+
+Variants
+
+Broken Key
+ (Common):
+
+Reveal auras of Survivors within 48 meters for 8 seconds.
+
+6 charges.
+
+Dull Key
+ (Uncommon):
+
+Reveal auras of Survivors within 56 meters for 9 seconds.
+
+Can unlock chests and hatch.
+
+5 charges.
+
+Skeleton Key
+ (Rare):
+
+Reveal auras of Survivors within 64 meters for 10 seconds.
+
+Can unlock chests and hatch.
+
+6 charges.
+
+Add-Ons
+
+Friendship Charm
+ (Common):
+
+Increases a Key's charges by 1.
+
+Shrill Whistle
+ (Uncommon):
+
+Decreases the time to channel a Key by 35%.
+
+Braided Bauble
+ (Rare):
+
+Increases the duration of auras revealed by Keys by 2 seconds
+
+Unique Wedding Ring
+ (Very Rare):
+
+The Obsession and yourself both see each other's aura at all times.
+
+Decreases your chances of being the Killer’s Obsession.
+
+Blood Amber
+ (Visceral):
+
+Using this Key reveals the Killer to you, and you to the Killer.
+
+Reduces aura reveal time by 6 seconds.
+
+Reduces number of charges by 2.
+
+Map
+
+Press the Use Item button to start channeling the map.
+
+Once fully channeled, consumes 1 charge to reveal auras of windows and pallets in range for a set duration.
+
+While revealing auras, press the Use Item button to create a beam of light at your location.
+
+Generators within 32 meters of the beam of light are revealed to all Survivors.
+
+Beam of light is visible and audible to Survivors only.
+
+Variants
+
+Cryptic Map
+ (Common):
+
+Reveal auras of windows and pallets within 24 meters for 10 seconds.
+
+4 charges.
+
+Scribbled Map
+ (Uncommon):
+
+Reveal auras of windows and pallets within 32 meters for 12 seconds.
+
+5 charges.
+
+Annotated Map
+ (Rare):
+
+Reveal auras of windows and pallets within 40 meters for 14 seconds.
+
+6 charges.
+
+Bloodsense Map
+ (Event):
+
+Reveal auras of windows and pallets within 48 meters for 14 seconds.
+
+Causes pools of blood to spawn beneath you while revealing auras.
+
+8 charges.
+
+Add-Ons
+
+Glowing Ink
+ (Common):
+
+Increases the duration of auras revealed by Maps by 2 seconds.
+
+Gnarled Compass
+ (Uncommon):
+
+Increases a Map's charges by 2.
+
+Battered Tape
+ (Rare):
+
+Increases the maximum range of a Map by 8 meters.
+
+Sharpened Flint
+ (Very Rare):
+
+When using the Map, all Totems within range are revealed.
+
+Crimson Stamp
+ (Visceral):
+
+The Killer's Aura is revealed within 8 meters of the beam of light.
+
+Reduces beam of light duration by 10 seconds.
+
+Reduces number of charges by 2.
+
+RETIRED KEY & MAP ADD-ONS
+
+The following add-ons have been retired from the Bloodweb:
+
+Key add-ons:
+
+Scratched Pearl (Uncommon)
+
+Gold Token (Rare)
+
+Milky Glass (Very Rare)
+
+Weaved Ring (Very Rare)
+
+Map add-ons:
+
+Yellow Wire (Uncommon)
+
+Black Silk Cord (Rare)
+
+Odd Stamp (Rare)
+
+Crystal Bead (Very Rare)
+
+These add-ons can no longer be equipped to their corresponding items, but will remain visible in each Survivor's respective inventories.
+
+PERK UPDATES
+
+Killer
+
+Insidious:
+
+Decreased the time it takes to activate to 3/2/1 second (was 4/3/2).
+
+Hubris:
+
+Increased the duration of the Exposed effect to 20/25/30 seconds (was 10/15/20).
+
+Dragon's Grip:
+
+Decreased cooldown to 60/45/30 seconds (was 60/50/40).
+
+Scourge Hook: Hangman's Trick:
+
+Increased aura reading range to 12/14/16 meters (was 8/10/12).
+
+Overwhelming Presence (Rework):
+
+When a Survivor starts using an item within 32 meters of you, they gain Exhausted for 15 seconds.
+
+When a Survivor within 32 meters of you gains Exhausted, you see the closest Exhausted Survivor's aura for 2/3/4 seconds. This perk has a 25 second cooldown.
+
+Franklin's Demise:
+
+Increased aura reading range to 32/48/64 meters (was 32/32/32). No longer causes dropped items to lose charges over time.
+
+Survivor
+
+Potential Energy:
+
+No longer requires a minimum time spent repairing to activate (was 12/10/8 seconds). Decreased the amount of repair required to earn a token to 1% (was 1.5%).
+
+Any Means Necessary:
+
+Decreased the time it takes to raise a pallet to 5/4/3 seconds (was 6/5/4).
+
+Better Together:
+
+The aura of the generator you are repairing no longer has a range limit. Increased the duration of Survivor aura reading to 20/25/30 seconds (was 8/9/10).
+
+Still Sight:
+
+Decreased the time it takes to activate to 4/3/2 seconds (was 6/5/4).
+
+Built to Last:
+
+Decreased the time spent in a locker to 12/10/8 seconds (was 14/13/12).
+
+Appraisal:
+
+Increased the number of tokens to 4 (was 3). Each chest can now be rummaged twice (was once).
+
+Streetwise (Rework):
+
+The first time you deplete an item with charges, see the Killer's aura for 8 seconds. Items with charges retrieved from chests have +60/70/80% charges.
+
+Detective's Hunch:
+
+Increased aura reading duration to 20 seconds (was 10). Maps no longer track revealed objects.
+
+Déjà Vu:
+
+Maps no longer track revealed generators.
+
+BUG FIXES
+
+Audio
+
+Fixed an issue where the beam of light SFX from the Map item would keep playing after the VFX had been dismissed.
+
+Fixed an issue where the Rift Unlock Tiers SFX would not play properly.
+
+Bots Improvements
+
+Survivor bots are now less predictable and more prone to errors while looping Killers they cannot see.
+
+Survivor bots now remain on generators longer when a Killer approaches without being seen by the bot.
+
+Characters
+
+Fixed an issue where an incorrect percentage was shown in the description of The Knight's Call to Arms add-on.
+
+Fixed an issue where The Pig's Slow-Release Toxin add-on would not apply the Exhausted status effect when Survivors received a 2nd Reverse Bear Trap.
+
+Fixed an issue where the depleted item icon would become active when getting close to an unlocked locker when playing against The Dredge.
+
+Fixed an issue where The Mastermind would get stuck in the carry animation.
+
+Fixed an issue where The Knight's Guards would become stuck when damaging generators that were being blocked.
+
+Fixed an issue where The Singularity's Charge Biopod SFX would play when quickly attacking after releasing the Charge Biopod button.
+
+Fixed an issue where The Good Guy's attack SFX would play after vaulting using Slice and Dice.
+
+Fixed an issue where Survivors would lose Houndsense when rescuing a Survivor from a hook when playing against The Houndmaster.
+
+Fixed an issue where The Ghoul's forward momentum during Kagune Leap could be cancelled by holding backwards.
+
+Environment/Maps
+
+Fixed an issue in the Toba Landing map where traps placed on door slopes would be hidden in the floor.
+
+Fixed an issue where Mikaela's hair would glow or appear incorrectly on low and medium graphic settings.
+
+Fixed multiple issues where the camera would clip inside The Houndmaster during their introduction.
+
+Fixed an issue in the Ormond Lake Mine map where The Knight's Guards would become stuck in invisible collisions.
+
+Fixed an issue in the Dead Dawg Saloon map where the debris of a broken pallet would clip into the ground.
+
+Fixed an issue in the Garden of Joy map where Victor could get pushed out of bounds by jumping against a rock.
+
+Fixed an issue in the Freddy Fazbear's Pizza map where a pallet could not be broken on one side.
+
+Perks
+
+Fixed an issue where using a Killer power to vault would trigger the Unbound perk.
+
+Fixed an issue where the Killer's obsession would change when Dramaturgy spawned a Key with a Unique Wedding Ring add-on.
+
+UI
+
+Fixed an issue where other characters in the lobby would not appear greyed out when they were in a match.
+
+Fixed an issue where the size of the Rift Unlock Tiers popup did not follow the set UI Scale setting.
+
+Fixed an issue where the tier quantity in the Rift Unlock Tiers popup did not adjust correctly when holding down the quantity buttons.
+
+Miscellaneous
+
+Fixed an issue where the English End User License Agreement to link to the French Privacy Policy documentation.
+
+Fixed an issue where Terror Radius sounds would start at their full level before being suppressed by the Oblivious effect when inside the Terror Radius at a far distance.
+
+KNOWN ISSUES
+
+Rick Grimes and Michonne Grimes' voiceover lines are unavailable on the PTB and will be available when 9.1.0 releases.
+
+Rick Grimes' Last Day on Earth outfit uses the same pants as his default outfit. This is not intended and will be resolved when 9.1.0 releases.
+
+The retired Key and Map add-ons are not visible in Survivor inventories.
+
+Patch 9.1.0
+
+IMPORTANT
+
+As a result of engine updates, the download file size for this update will be larger than normal.
+
+KNOWN ISSUES
+
+We are aware of an issue causing The Walking Dead theme to continue playing despite turning off the Copyrighted Music Setting. This is being investigated.
+
+To prevent potential connectivity issues when in cross-play with other platforms, it is recommended that Nintendo users download the latest Nintendo Switch firmware version available.
+
+Killers and Survivors may be slowed down when going up the right-hand side of any staircase.
+
+Michonne Grimes' hair may glow bright white or yellow when close to a light source.
+
+Content
+
+New Survivor: 
+Rick Grimes
+
+Perks
+
+Apocalyptic Ingenuity
+
+Come and Get Me!
+
+Teamwork: Toughen Up
+
+New Survivor: 
+Michonne Grimes
+
+Perks
+
+Conviction
+
+Last Stand
+
+Teamwork: Throw Down
+
+Features
+
+The Archive
+
+In conjunction with the updates to the Map item, existing Map challenges in the Archives have been replaced with alternate objectives:
+
+Tome 2 Level 2's "Explorer" challenge is now "Appeal to Heal".
+
+Tome 14 Level 1's "Cartophile" master challenge is now "Jump-Start".
+
+Tome 16 Level 4's "One Step Ahead" is now "Appeal to Heal".
+
+REALM EXPANSION - 
+Fallen Refuge
+
+A new Map within the Withered Isle Realm that introduces a special The Walking Dead themed tile.
+
+Custom Games and Spectator Mode
+
+Hotkeys to spectate different players are now shown in the HUD. They can be toggled off in the settings.
+
+A marker has been added to the HUD to show which player is being spectated.
+
+When spectating mid-Trial, the HUD will show all players including those that have already finish playing.
+
+The spectate button was relocated on the tally screen for easier access.
+
+Hooks
+
+When only two Survivors remain, letting two struggle skill checks pass without any input will immediately skip to the sacrifice sequence.
+
+When all remaining Survivors are hooked simultaneously, they will all skip to the sacrifice sequence.
+
+Keyboard & Mouse Support for Consoles
+
+Keyboard & Mouse support has been added for Xbox One, Xbox Series X|S, PlayStation 4, and PlayStation 5.
+
+Please note that the keyboard numpad is not supported on any Xbox console at this time.
+
+Presets
+
+Players have access to a new preset system.
+
+The number of available Loadout and Cosmetic presets has been increased to 7.
+
+Presets can now be selected using a dropdown.
+
+Presets can now be renamed.
+
+Quests
+
+A new set of quests called "Into the Fog" has been added.
+
+These quests are aimed towards new players.
+
+KILLER UPDATES
+
+The Executioner
+
+Power
+
+Increased Punishment of the Damned's range to 10 meters (was 8).
+
+Increased maximum Rites of Judgement duration to 10 seconds (was 5).
+
+Increased Rites of Judgement trail lifetime to 90 seconds (was 75).
+
+Decreased Rites of Judgement movement speed to 4.2m/s (was 4.4).
+
+The inputs for Rites of Judgement, Punishment of the Damned, and sending a Survivor to a cage can now be held, starting the action as soon as it becomes available.
+
+Survivors who are rescued from a cage now gain 10% Haste and Endurance for 10 seconds.
+
+Increased Bloodpoint score for rescuing a Survivor from a cage to 2000 (was 550).
+
+Add-Ons
+
+Lead Ring (Rework): Now increases Punishment of the Damned's range by 25% and decreases its width by 25%.
+
+Dead Butterfly (Rework): Now increases Rites of Judgement's recharge rate by 10%.
+
+Black Strap (Rework): Now decreases Punishment of the Damned's range by 25% and increases its width by 25%.
+
+Copper Ring: Now increases maximum duration of Rites of Judgement by 5 seconds (was 1).
+
+Cinderella Music Box (Rework): Now decreases Punishment of the Damned's cooldown by 10%.
+
+Forgotten Video Tape (Rework): Now increases the speed at which Punishment of the Damned travels by 10%.
+
+Wax Doll: Now increases Punishment of the Damned's range by 5% (was 12.5%).
+
+Spearhead (Rework): Now reveals the aura of the rescuer when a Survivor is saved from a cage for 8 seconds.
+
+Leopard-Print Fabric (Rework): Now decreases the duration of stuns while using Rites of Judgement by 15%.
+
+Mannequin Foot (Rework): Now causes Rites of Judgement trails to inflict Exhausted for 10 seconds.
+
+Valtiel Sect Photograph (Rework): Now decreases your Terror Radius by 2 meters for each Survivor affected by Torment.
+
+Burning Man Painting (Rework): Now reveals the auras of Survivors within 3 meters for 6 seconds upon missing a Punishment of the Damned attack.
+
+Tablet of the Oppressor (Rework): Now grants Undetectable while using Rites of Judgement.
+
+Misty Day, Remains of Judgement (Rework): Now reveals the auras of Survivors injured by Punishment of the Damned for 8 seconds.
+
+Scarlet Egg (Rework): Now causes Survivors inflicted by Torment to spawn Rites of Judgement trails when they sprint. These trails last 5 seconds. You no longer see the auras of Rites of Judgement trails.
+
+Rust-colored Egg (Rework): Now causes Punishment of the Damned hits to replenish Rites of Judgement's charge by 30%.
+
+Lost Memories Book (Rework): Now causes Survivors injured by Punishment of the Damned to become Oblivious for 80 seconds.
+
+Obsidian Goblet (Rework): Now allows Punishment of the Damned to destroy pallets and breakable walls. Increases Punishment of the Damned's cooldown by 20%.
+
+Iridescent Seal of Metatron (Rework): Now decreases Punishment of the Damned's range by 50%. Punishment of the Damned's range increases by creating Rites of Judgement trails, up to a maximum of 200%. This resets when Punishment of the Damned hits a Survivor.
+
+The Clown
+
+Power
+
+Increased Haste effect of Afterpiece Antidote to 12% (was 10%).
+
+Decreased the time it takes for Afterpiece Antidote gas clouds to activate to 1 second (was 2).
+
+Decreased the Hindered effect of Afterpiece Tonic to 14% (was 15%).
+
+Decreased the Hindered effect linger time from Afterpiece Tonic gas clouds to 1 second (was 2).
+
+Increased movement speed while reloading to 2.3m/s (was 1.61).
+
+Decreased the time it takes to reload to 2.5 seconds (was 3).
+
+The inputs for reloading and charging a throw can now be held, starting the action as soon as it becomes available.
+
+Add-Ons
+
+VHS Porn (Rework): Now increases the size and spread of Afterpiece Tonic gas clouds by 10%.
+
+Flask of Bleach: Now increases the Hindered penalty from Intoxication by 2% (was 4%).
+
+Smelly Inner Soles: Now increases movement speed while reloading by 15% (was 66%).
+
+Cigar Box: Now reveals auras within 6 meters (was 16).
+
+Ether 15 Vol%: Now increases the duration of Intoxication by 0.5 seconds (was 1).
+
+The Pig
+
+Power
+
+Increased Ambush movement speed to 7.1m/s (was 6.9).
+
+Increased crouched movement speed to 4.0m/s (was 3.8).
+
+Decreased the time it takes to crouch & un-crouch to 0.8 seconds (was 1).
+
+Increased the rate at which the Terror Radius fades when crouching to 0.33 (was 0.25).
+
+The inputs for crouching and ambushing can now be held, starting the action as soon as it becomes available.
+
+Increased Bloodpoint score for escaping a Reverse Bear Trap to 1000 (was 400).
+
+Increased Bloodpoint score for searching through a Jigsaw Box to 200 (was 100).
+
+Searching a Jigsaw Box now awards Survival points (was Objective).
+
+Add-Ons
+
+John's Medical File: Now increases crouched movement speed by 5% (was 10%).
+
+Last Will: Now increases Ambush speed by 5% (was 6%) and increases the time to charge Ambush by 10% (was 33%).
+
+Workshop Grease: No longer decreases missed Ambush attack cooldown (was 10%).
+
+The Knight
+
+Power
+
+Increased max patrol path length to 38 meters (was 32).
+
+Increased patrol path creation speed to 15m/s (was 13.8).
+
+Increased patrol path acceleration by 2x.
+
+Increased strafe speed while creating a patrol path to 100% (was 25%).
+
+The input for starting a patrol path can now be held, starting the action as soon as it becomes available.
+
+Add-Ons
+
+Call to Arms: Now increases patrol path length by 4 meters (was 10) and path creation speed by 7% (was 16%).
+
+The Oni
+
+Power
+
+Increased the Demon Strike turn rate limit during the open phase of the attack to 540 degrees (was disabled).
+
+New Survivor Item: 
+Fog Vial
+
+Variants:
+
+Apprentice's Fog Vial
+
+Artisan's Fog Vial
+
+Vigo's Fog Vial
+
+Add-Ons
+
+Volcanic Stone
+
+Reactive Compound
+
+Oily Sap
+
+Mushroom Formula
+
+Potent Extract
+
+SURVIVOR ITEM REWORK: 
+
+Key
+
+Press the Use Item button to start channeling the Key.
+
+Once fully channeled, consumes 1 charge to reveal auras of Survivors in range for a set duration.
+
+While near a locked chest, press the Use Item button to quickly open the chest (uncommon Key or higher).
+
+Consumes 1 charge.
+
+Guarantees an item of Rare rarity or higher.
+
+Unlocking a chest with a Key reveals its aura in yellow to other Survivors in range.
+
+1 other Survivor can rummage through the unlocked chest once.
+
+Guarantees an item of Rare rarity or higher.
+
+While performing the rummage action, the rummaging Survivor's aura appears to the Key holder.
+
+While near a closed hatch, press the Use Item button to unlock it (uncommon Key or higher).
+
+Consumes 1 charge.
+
+The Key item is no longer destroyed upon Survivor completing interaction and escaping the Trial.
+
+Variants
+
+Broken Key
+
+Dull Key
+
+Skeleton Key
+
+Add-Ons
+
+Friendship Charm
+
+Shrill Whistle
+
+Braided Bauble
+
+Unique Wedding Ring
+
+Blood Amber
+
+Map
+
+Press the Use Item button to start channeling the Map.
+
+Once fully channeled, consumes 1 charge to reveal auras of windows and pallets in range for a set duration.
+
+While revealing auras, press the Use Item button to create a beam of light at your location.
+
+Generators within 32 meters of the beam of light are revealed to all Survivors.
+
+Beam of light is visible and audible to Survivors only.
+
+Variants
+
+Cryptic Map
+
+Scribbled Map
+
+Annotated Map
+
+Bloodsense Map
+
+Add-Ons
+
+Glowing Ink 
+
+Gnarled Compass
+
+Battered Tape
+
+Sharpened Flint
+
+Crimson Stamp
+
+Retired Addons
+
+Key
+
+Scratched Pearl
+
+Gold Token
+
+Milky Glass
+
+Weaved Ring
+
+Map
+
+Yellow Wire
+
+Black Silk Cord
+
+Odd Stamp
+
+Crystal Bead
+
+These add-ons can no longer be equipped to their corresponding items, but will remain visible in each Survivor's respective inventories.
+
+Bloodpoint compensation will be awarded as a result of retired add-ons.
+
+PERK UPDATES
+
+Killer
+
+Insidious
+
+Decreased the time it takes to activate to 3/2/1 second (was 4/3/2).
+
+Hubris
+
+Increased the duration of the Exposed effect to 20/25/30 seconds (was 10/15/20).
+
+Dragon's Grip
+
+Decreased cooldown to 60/45/30 seconds (was 60/50/40).
+
+Scourge Hook: Hangman's Trick
+
+Increased aura reading range to 12/14/16 meters (was 8/10/12).
+
+Overwhelming Presence (Rework)
+
+When a Survivor starts using an item within 32 meters of you, they gain Exhausted for 15 seconds.
+
+When a Survivor within 32 meters of you gains Exhausted, you see the closest Exhausted Survivor's aura for 2/3/4 seconds. This perk has a 25 second cooldown.
+
+Franklin's Demise
+
+Increased aura reading range to 32/48/64 meters (was 32/32/32). No longer causes dropped items to lose charges over time.
+
+Survivor
+
+Potential Energy
+
+No longer requires a minimum time spent repairing to activate (was 12/10/8 seconds). Decreased the amount of repair required to earn a token to 1% (was 1.5%).
+
+Any Means Necessary
+
+Decreased the time it takes to raise a pallet to 5/4/3 seconds (was 6/5/4).
+
+Better Together
+
+The aura of the generator you are repairing no longer has a range limit. Increased the duration of Survivor  aura reading to 20/25/30 seconds (was 8/9/10).
+
+Still Sight
+
+Decreased the time it takes to activate to 4/3/2 seconds (was 6/5/4).
+
+Built to Last
+
+Decreased the time spent in a locker to 14/12/10 seconds (was 14/13/12).
+
+Appraisal
+
+Increased the number of tokens to 4 (was 3). Each chest can now be rummaged twice (was once).
+
+Streetwise (Rework)
+
+The first time you deplete an item with charges, see the Killer's aura for 8 seconds. Items with charges retrieved from chests have +60/70/80% charges.
+
+Detective's Hunch
+
+Increased aura reading duration to 20 seconds (was 10). Maps no longer track revealed objects.
+
+Déjà Vu
+
+Maps no longer track revealed generators.
+
+BUG FIXES
+
+Audio
+
+Fixed an issue where the beam of light SFX from the Map item would keep playing after the VFX had been dismissed.
+
+Fixed an issue where the Rift Unlock Tiers SFX would not play properly.
+
+Fixed an issue where background ambiance audio would disappear for Survivors when The Animatronic teleported using Security Doors.
+
+Fixed an issue with The Good Guy's grunts when picking up a Survivor from a locker.
+
+Fixed an issue where The Good Guy's attack SFX would play after vaulting using Slice and Dice.
+
+Fixed an issue where Dwight's "Dare Hansel" outfit was missing its theme music in the lobby.
+
+Fixed an issue where The Artist's Boulet Artist outfit was missing global SFX when using her powers.
+
+Bots
+
+Survivor bots are now less predictable and more prone to errors while looping Killers they cannot see.
+
+Survivor bots now remain on generators longer when a Killer approaches without being seen by the bot.
+
+Fixed an issue where Survivor bots were unable to properly self-heal with a Med-Kit.
+
+Fixed an issue where Survivor bots attempted to heal others while in Madness tier 3.
+
+Characters
+
+Fixed an issue where an incorrect percentage was shown in the description of The Knight's Call to Arms add-on.
+
+Fixed an issue where The Knight's Guards would become stuck when damaging generators that were being blocked.
+
+Fixed an issue where The Pig's Slow-Release Toxin add-on would not apply the Exhausted status effect when Survivors received a 2nd Reverse Bear Trap.
+
+Fixed an issue where the depleted item icon would become active when getting close to an unlocked locker when playing against The Dredge.
+
+Fixed an issue where The Mastermind would get stuck in the carry animation.
+
+Fixed an issue where The Singularity's Charge Biopod SFX would play when quickly attacking after releasing the Charge Biopod button.
+
+Fixed an issue where Survivors would lose Houndsense when rescuing a Survivor from a hook when playing against The Houndmaster.
+
+Fixed an issue where The Ghoul's forward momentum during Kagune Leap could be cancelled by holding backwards.
+
+Fixed an issue where a Survivor would not receive a Protection Hit when hit by The Ghoul's Grab-Attack.
+
+Fixed an issue where The Lich's Vorpal Sword add-on would display the wrong time for the Mage Hand to break downed pallets.
+
+Fixed an issue where the camera for The Lich Mori would be incorrectly positioned.
+
+Fixed an issue where Survivors could become stuck when vaulting towards a Phantasm Trap if The Hag had the Scarred Hand add-on equipped.
+
+Fixed an issue where arrow indicators remained on The Onryo's TVs indefinitely after looking at a TV while Projection was ready.
+
+Fixed an issue where The Animatronic turned invisible when a Survivor activated the Head On perk at the same time that the Killer interacted with a Security Door.
+
+Fixed an issue where some Killer animations would get stuck after hooking a Survivor.
+
+Environment/Maps
+
+Fixed an issue in the Toba Landing map where traps placed on door slopes would be hidden in the floor.
+
+Fixed an issue where Mikaela's hair would glow or appear incorrectly on low and medium graphic settings.
+
+Fixed multiple issues where the camera would clip inside The Houndmaster during their introduction.
+
+Fixed an issue in the Ormond Lake Mine map where The Knight's Guards would become stuck in invisible collisions.
+
+Fixed an issue in the Dead Dawg Saloon map where the debris of a broken pallet would clip into the ground.
+
+Fixed an issue in the Garden of Joy map where Victor could get pushed out of bounds by jumping against a rock.
+
+Fixed an issue in the Freddy Fazbear's Pizza map where a pallet could not be broken on one side.
+
+Fixed issues in multiple maps where players could see out of bounds during Mori animations.
+
+Fixed an issue where projectiles could travel under snowplows.
+
+Fixed a loading distance issue on the soda machine in the Freddy Fazbear's Pizza map.
+
+Fixed a loading distance issue on the shack wall near the exit door in the Greenville Square map.
+
+Fixed an issue in the Gas Heaven map where black textures would appear at the top of the stairs leading to the Killer basement in the main building.
+
+Fixed an issue in the Raccoon City Police Station East Wing map where The Deathslinger could not harpoon survivors on the other side of a vent.
+
+Fixed an issue in The Pale Rose map where a missing texture could be seen on the boat during Mori animations.
+
+Fixed an issue in the Treatment Theatre map where a wall in the Killer's basement would have a missing texture.
+
+Fixed an issue in the Greenville Square map where The Singularity could place a biopod under the ground.
+
+Fixed an issue in The Underground Complex map where The Nurse could blink out of the map.
+
+Fixed an issue in the Shelter Woods map where players could collide against an invisible object.
+
+Fixed an issue in the Raccoon City Realm where The Singularity could not place biopods on structures.
+
+Fixed an issue in the Raccoon City Police Station East Wing map where the Killer could not place Survivors on a specific hook.
+
+Fixed an issue in the Garden of Joy map where generators would spawn mainly on one side of the map.
+
+Fixed an issue in the Temple of Purgation map where The Animatronic's Security Door could obstruct player movement.
+
+Fixed an issue in the Mount Ormond Resort map where a Survivor would clip through the top of a locker when leaving it.
+
+Fixed an issue in the Gas Heaven map where The Animatronic's Security Door could obstruct player movement.
+
+Fixed an issue in the Greenville Square map where various rooms were too dark.
+
+Fixed an issue in the Treatment Theatre map where various lights could be seen floating out of bounds.
+
+Fixed an issue where a vault appeared to be accessible on the School Bus on Wrecker's Yard.
+
+Perks
+
+Fixed an issue where using a Killer power to vault would trigger Unbound.
+
+Fixed an issue where the Killer's obsession would change when Dramaturgy spawned a Key with a Unique Wedding Ring add-on.
+
+Fixed a display issue where players could visually remain at 2 hooks when rescued with Shoulder the Burden.
+
+Fixed an issue where using Shoulder the Burden would not trigger We’ll Make It.
+
+Fixed an issue where a generator's explosion was counted twice when Surge and Eruption were equipped.
+
+UI
+
+Fixed an issue where other characters in the lobby would not appear greyed out when they were in a match.
+
+Fixed an issue where the size of the Rift Unlock Tiers popup did not follow the set UI Scale setting.
+
+Fixed an issue where the tier quantity in the Rift Unlock Tiers popup did not adjust correctly when holding down the quantity buttons.
+
+Fixed an issue where notification icons would not appear for quests when opening the Quest menu.
+
+Fixed an issue where completed quests were not sorted correctly.
+
+Fixed an issue where the sale tag was misaligned after hovering over it.
+
+Fixed an issue where part of the loading screen was visible when starting a Trial.
+
+Miscellaneous
+
+Fixed an issue where the English End User License Agreement to link to the French Privacy Policy documentation.
+
+Fixed an issue where Terror Radius sounds would start at their full level before being suppressed by the Oblivious effect when inside the Terror Radius at a far distance.
+
+PTB ADJUSTMENTS
+
+New Survivor: 
+Rick Grimes
+
+New Perk: 
+Apocalyptic Ingenuity
+
+Decreased time required to rebuild pallet to 4 seconds (was 8 seconds).
+
+New Perk: 
+Come and Get Me!
+
+Added "or make grunts of pain" to the perk description.
+
+New Survivor: 
+Michonne Grimes
+
+New Perk: 
+Last Stand
+
+Increased the time needed to hide in the Killer's Terror Radius to activate this perk to 120/105/90 seconds (was 80/70/60 seconds).
+
+Killer Updates
+
+The Executioner
+
+The auras of Rites of Judgement trails can no longer be read when the Scarlet Egg add-on is used.
+
+The Clown
+
+Increased the Hindered effect of Afterpiece Tonic gas to 14% (was 12%).
+
+Reverted the changes to the Afterpiece Antidote gas spread.
+
+Reverted the changes to the Solvent Jug, Sticky Soda Bottle, Cheap Gin Bottle, and Garish Makeup Kit add-ons.
+
+The Pig
+
+Increased the speed bonus for the Last Will add-on to 5% (was 3%).
+
+The Knight
+
+Reverted the changes to standard spawn times for The Knight's Guards.
+
+New Survivor Item: 
+Fog Vial
+
+Removed the muffled audio effect when inside a fog cloud.
+
+Survivors inside a fog cloud make no sound.
+
+Fog clouds no longer stack when released close to one another.
+
+Updated Fog Vial item description to better reflect the expected behaviour.
+
+Increased the fog cloud's opacity to 40% (was 33%).
+
+Decreased the fog cloud's maximum size to 8 meters (was 10 meters).
+
+Fog Vial Add-Ons
+
+Potent Extract (Visceral):
+
+Removed the muffled audio effect.
+
+Decreased the opacity modifier to 10% (was 20%).
+
+Decreases the fog cloud's maximum size by 25%. (NEW).
+
+Decreases the fog cloud's maximum lifetime by 50%. (NEW).
+
+Survivor Perks
+
+Built to Last
+
+Increased the time spent in a locker to 14/12/10 seconds (was 12/10/8).
+
+PTB BUG FIXES
+
+Fixed an issue where Survivors using Last Stand could stun the Killer while vaulting away from them. This should only work if you vault into the Killer or fall on them.
+
+Fixed an issue where the "Rename Preset" button prompt would remain on-screen after selecting a preset.
+
+Fixed an issue where some shortcut buttons were not functioning as intended.
+
+Fixed an issue where the Killer's power was not displayed when spectating in Custom Game.
+
+Fixed an issue where the name of the first spectated player was missing.
+
+Fixed an issue where the spectated Survivor was holding the wrong item.
+
+Fixed an issue where the spectate hotkey was not dimmed until another player was spectated.
+
+Fixed an issue where UI scale was not applied to the spectator HUD.
+
+Fixed an issue where the preset dropdown could be accessed even when only a single preset was available.
+
+Fixed an issue where new characters were not sorted properly.
+
+Fixed an issue where selecting certain shortcut keys for Spectator Mode would not work.
+
+Fixed an issue where the mouse cursor would disappear or revert to the console cursor when using keyboard and mouse on certain platforms.
+
+Improved optimization in the Fallen Refuge map.
+
+Fixed multiple loading distance issues on the Fallen Refuge map.
+
+Fixed an issue in the Fallen Refuge map where a wall would display incorrectly.
+
+Fixed an issue in the Fallen Refuge map where a hole was present in a door frame.
+
+Fixed an issue in the Fallen Refuge map where The Singularity could place biopods inside the vents of the hospital/prison tile.
+
+Fixed an issue in the Fallen Refuge map where Security Doors could clip through a wall.
+
+Fixed an issue in the Lobby where a fence produced a bright reflection.
+
+Fixed an issue that caused certain hanging zombie animations to appear incorrectly.
+
+Fixed an issue where certain Killers were able to see their aura after changing their camera perspective in the Fog Vial's fog with the Potent Extract add-on equipped.
+
+Fixed an issue where Survivors were able to scan The Animatronic while the Security Door was inside the Fog Vial's fog.
+
+Fixed an issue where the cooldown of the Fog Vial was reset after the Built to Last perk had been used.
+
+Fixed an issue where The Killer was able to reveal Survivors' auras while within a fog cloud.
+
+Fixed an issue where Vigil reduced the duration of the Broken status effect from the Conviction perk.
+
+Fixed an issue where players could not invert their Y-axis from the Options menu.
+
+Fixed an issue where starting and stopping opening a chest quickly completed the challenge "Open 2 chest(s)".
+
+Fixed an issue where players were unable to gain progress for the challenge "Damage 3 Generator(s)" when using the Driver's License add-on.
+
+Fixed an issue where no progress was made with skill checks for the "Succeed at repair skill checks" quest.
+
+Fixed an issue where The Executioner's Obsidian Goblet add-on would not break a pallet if a Survivor was hit while vaulting it.
+
+Fixed an issue where loud noise notifications were missing for the Killer's POV when Last Stand was triggered on dropped pallets.
+
+Fixed an issue where The Singularity was unable to lose Overclock and obtain Hindered after being stunned by Last Stand.
+
+Fixed an issue where Hardened would not show the Killer's aura when Thwack! made a Survivor scream.
+
+Fixed an issue where The Legion could vault over upright pallets
+
+Fixed an issue where the 8-meter range was not applied when the Battered Tape add-on was equipped on each Map item's rarity.
+
+Fixed an issue where charge-based items found in chests received more charges than intended when equipped with the Streetwise perk.
+
+Fixed an issue where Rick and Michonne's voiceover discussion was sometimes missing.
+
+Fixed an issue where fog cloud SFX would play each time the camera's POV was swapped.
+
+Fixed an issue where Michonne's special vault animation was missing audio when performing a fast vault.
+
+Hotfix 9.1.1
+
+CONTENT
+
+The Streetwise and Last Stand perks have been re-enabled.
+
+Survivor Item: 
+Fog Vial
+
+Decreased base opacity of the fog cloud to 33% (was 40%).
+
+Decreased the fog cloud volume by 3 dB. (NB this does not refer to audio within the fog area, only the ambient fog audio)
+
+Fog Vial Addons
+
+Potent Extract
+:
+
+Decreases visibility by 5% (was 10%).
+
+Decreases the fog cloud's maximum size by 25% (No change).
+
+Decreases the fog cloud's maximum lifetime by 50% (No change).
+
+BUG FIXES
+
+Priority Fixes
+
+Fixed an issue that often caused Killers to be unable to initiate a chase for the rest of the trial.
+
+Fixed an issue that often caused the chase music not to play when a chase was initiated.
+
+⁠Fixed an issue impacting chest item charges while using Streetwise.
+
+Fixed an issue impacting vault speeds while using Last Stand.
+
+Fixed an issue where The Walking Dead theme was unaffected by the Copyrighted Music Setting.
+
+Fixed an issue where both Survivors and Killers could be slowed down when running up the right-hand side of any staircase.
+
+Fixed an issue where the Baermar Uraz's Masquerade Musician outfit had the incorrect name and voice lines.
+
+Fixed an issue where The Deathslinger’s aiming animation was missing from the Survivor's perspective.
+
+Fixed an issue where the "Be chased for 20 seconds" quest in "Into the Fog" would not progress.
+
+Fixed an issue that caused a black screen when attempting to spectate for the second time after returning to the tally screen.
+
+Audio
+
+Fixed an issue where lobby ambiance audio would occasionally stack.
+
+Fixed an issue where sound effects were missing when hovering over Match Management options in Custom Game.
+
+Fixed an issue where scream sound effects occurred while the Survivor had their mouth closed during The Lich's Mori.
+
+Fixed an issue where Rick and Michonne Grimes were missing certain voiceover lines.
+
+Characters
+
+Fixed an issue where shadows in The Nightmare's Dream World were missing.
+
+Fixed an issue where The Nightmare could use Rupture twice on a Dream Pallet.
+
+Fixed an issue where The Nightmare could place a Dream Pallet and a Survivor could place a Fragile Pallet using Apocalyptic Ingenuity in the same spot.
+
+Fixed an issue where The Ghoul's Rize Kamishiro outfit would jitter during her idle animation in the lobby.
+
+Fixed an issue where Mikaela’s arms to appear distorted in certain outfits.
+
+Fixed an issue where The Animatronic's model appeared distorted for the spectator when changing camera views while the Killer exited a Security Door.
+
+Fixed an issue where Survivors were revealed to The Executioner after hitting a Survivor with Punishment of the Damned while using the Burning Man Painting add-on.
+
+Fixed an issue where the Exhausted status effect would recover while running when affected by the Mannequin Foot add-on.
+
+Fixed an issue where the game crashed when The Twins opened a locker that Victor was holding shut with a Survivor inside.
+
+Fixed an issue where The Pig did not lose bloodlust when performing an Ambush attack.
+
+Environment/Maps
+
+Fixed an issue where The Knight would encounter invisible collisions on certain vaults while drawing a path for summoned Guards.
+
+Fixed an issue in the Fallen Refuge map where the prison tower door could be triggered when moving behind it.
+
+Fixed an issue in the Fallen Refuge map where Victor would not trigger the prison tower door.
+
+Fixed an issue in the Ormond Lake Mine map where Victor would not trigger the elevator drop.
+
+Fixed an issue in the Red Forest Realm where The Knight's Guards could not traverse the shack's window.
+
+Fixed an issue in the Withered Isle Realm where The Singularity could attach biopods above map fences.
+
+Fixed an issue in the Midwich Elementary School map where Survivors could land on top of an invisible collision.
+
+Fixed an issue in The Game map where Killer projectiles would go through walls in the control room.
+
+Fixed an issue in the Ormond Lake Mine map where players could climb on top of a rock which should be inaccessible.
+
+Fixed an issue where Snug could become stuck on a snow mound in Ormond Lake Mine map
+
+Perks
+
+Fixed an issue where combining the Thrilling Tremors and Grim Embrace perks would cause the 4th token effect on Grim Embrace to not trigger.
+
+Fixed an issue where Overwhelming Presence would not affect Key, Map, and Fog Vial items.
+
+Fixed an issue where Hex: Two Can Play was unaffected by stun caused by Last Stand.
+
+Fixed an issue where The Wraith remained invisible when stunned by Last Stand.
+
+Fixed an issue where cleansing a Totem while Broken would activate Inner Strength once the Broken effect ended.
+
+Fixed an issue where Survivors were unable to build a Fragile Pallet on pallet locations previously destroyed by vault actions affected by certain add-on and perk effects.
+
+Fixed an issue where dying Survivors would make grunts of pain while affected by Come and Get Me!.
+
+Fixed an issue where a Survivor using Conviction could remain in the "trapped" animation if they were in a Bear Trap.
+
+Fixed an issue where a Survivor using Conviction could become stuck in a locker.
+
+Fixed an issue where Blast Mine's blind VFX were missing if damaging a generator while the Killer was already blinded.
+
+Platforms
+
+Fixed an issue on the Microsoft Store that sometimes caused the game to remain silently open after closing it.
+
+Quests
+
+Fixed an issue where progression for the "I Want It, I Got It" challenge was not saved after a Trial was completed.
+
+UI
+
+Fixed an issue where the followed quest tooltip would show partial progress for quests that needed to be completed in a single Trial.
+
+Fixed an issue where audio would be missing from the Match Management screen.
+
+Fixed an issue where the in-game quest tracker progress animation would begin at the incorrect value.
+
+Fixed an issue where the mouse cursor would revert to the console cursor on consoles.
+
+Fixed an issue where the anti-camp meter would disappear after a Survivor was hooked.
+
+Fixed an issue where the Rift Pass tooltip would show an incorrect subtitle.
+
+Miscellaneous
+
+Fixed an issue where the beam of light duration was unchanged when using the Crimson Stamp add-on on the Bloodsense Map.
+
+Fixed an issue where a Fog Vial's fog cloud would disappear if another Fog Vial was activated.
+
+Fixed an issue where the Fog Vial's smoke explosion sound effects were missing.
+
+Fixed an issue where Survivors held the fog vial differently depending on which item was previously held.
+
+Hotfix 9.1.2
+
+2V8
+
+The 2V8 event returns Tuesday, August 19th at 11:00 AM Eastern.
+
+Play While You Wait
+
+Added the option to "Play While You Wait" to the 2v8 game mode:
+
+When queuing for a 2v8 Killer match, you'll receive the option to Play While You Wait.
+
+This allows you (and a friend, if you'd like) to play a match of 2v8 as a Survivor while saving your place in the Killer queue.
+
+After finishing this match, you will automatically return to your place in the Killer queue.
+
+The Legion Update
+
+Innate Skills:
+
+Reduced the duration of Feral Frenzy to 11s (was 12s).
+
+Reduced number of targets seen with Killer Instinct to 4 (was 7).
+
+Reduced the number of hits needed to down a Survivor while in Feral Frenzy to 6 (was 7).
+
+Removed the bonus which extended the Killer Instinct detection radius beyond the Terror Radius.
+
+Shadow Class Updates
+
+Team Skill:
+
+Grants Undetectable for 60 seconds when sending a Survivor to the Cage of Corruption.
+
+After the effect has elapsed, the ability will go on cooldown for 60 seconds.
+
+While this skill is on cooldown and you are within 32 meters of your teammate, gain 5% Haste and decrease cooldown by 25%.
+
+Escapist Class Update
+
+Team Skill (adjustment):
+
+Escapist Team Skill is now activated by using Active Ability Button 2.
+
+Range of Silent Rush ability has been increased to 12m (was 8m).
+
+Guide Class Update
+
+Team Skill:
+
+When repairing, reveal the generator's aura and your aura to other Survivors.
+
+Gain the ability to trap a generator. Charges over 90 seconds. Repairing generators can decrease the wait time. Stand next to a generator to install a trap. The trapped generator has a yellow aura visible to Survivors and will stun and blind a Killer who tries to damage it.
+
+The trap is deactivated when triggered or after 120 seconds.
+
+Open Exit Gates 15% faster and reveal your aura to other Survivors within 128 meters.
+
+Unlockable Skill:
+
+After being caged, gain access to a listening device that automatically installs on a generator after completing 35% repair progress.
+
+A bugged generator's yellow aura is visible to Survivors and reveals the Killer's aura when within 14 meters.
+
+The device is deactivated when the generator is damaged or after 60 seconds.
+
+If a listening device is already installed on a generator when 35% repair progress is reached, install a new listening device that resets the 60 second countdown.
+
+New Maps
+
+Treatment Theatre
+
+The Shattered Square
+
+Greenville Square
+
+CONTENT
+
+The Game map and the Jigsaw Piece offering have been re-enabled.
+
+The Blood Rush perk has been re-enabled.
+
+Survivor Item: Fog Vial
+
+Fog Vials now have a maximum of 2 charges.
+
+Added the ability for The Singularity to teleport to Survivors he can see within the Fog Vial's fog.
+
+BUG FIXES
+
+Audio
+
+Fixed an issue where Michonne Grimes' running grunts were louder than other Survivors.
+
+Fixed an issue where background noise was heard when Michonne Grimes was hooked.
+
+Fixed an issue where The Xenomorph's Tail Strike Attack SFX would appear to be coming from its left side.
+
+Fixed an issue where the "ready up" SFX would play when activating and deactivating perks in the Loadout.
+
+Fixed an issue where Jonah Vasquez's "Long Swim" outfit would not play the appropriate footstep SFX.
+
+Characters
+
+Fixed an issue where Lara Croft's "Forged Furs" torso would display gaps when mixed and matched with other leg customization items.
+
+Fixed an issue where The Unknown's "The Murder Weapon" was held incorrectly on the match results screen.
+
+Fixed an issue where The Unknown's "The Murder Weapon" was floating out of their hand on the main menu.
+
+Fixed an issue where The Animatronic's head would not follow the direction he was aiming.
+
+Fixed an issue where the Blind visual effect was delayed and only lasted a second when blinded as The Animatronic.
+
+Fixed an issue where The Executioner's Cage of Atonement was invisible from the Killer's point of view.
+
+Environment/Maps
+
+Fixed an issue on PS4 where activating the Fog Vial on The Game map could make the screen go black or freeze the game.
+
+Fixed an issue in the Treatment Theatre map where The Executioner's Punishment of the Damned would not travel through viable walls and door frames.
+
+Fixed an issue where The Knight could not summon a Guard in multiple areas
+
+Fixed an issue in the Greenville Square map where The Singularity's biopod could be placed outside of the fence.
+
+Perks
+
+Fixed an issue where Exhaustion Perks could be reactivated by triggering Blood Rush while Exhausted.
+
+Fixed an issue where Desperate Measures displayed the incorrect value in its description.
+
+Fixed an issue where The Wraith would remain cloaked when stunned by Head On or Blast Mine.
+
+Platforms
+
+Fixed an issue on Switch and Switch 2 where generator regression sparks were hard to see.
+
+Quests
+
+Fixed an issue where the amount of Bloodpoints awarded for completing a quest were not properly shown after abandoning a Trial.
+
+Fixed an issue where some "Into the Fog" quest tooltips were missing images.
+
+Fixed an issue where some quest tooltip images appeared smaller than intended.
+
+Miscellaneous
+
+Fixed an issue where bulk spending could fail if an old event item was present in the Bloodweb.
+
+Fixed a server crash which could occur when a Survivor unlocked the secret chest in the Nostromo Wreckage map.
+
+Fixed an issue where vault auras were not revealed when using the Sharpened Flint add-on on the Scribbled Map.
+
+Fixed an issue where the Fog Vial would clip under the ground when dropped.
+
+Hotfix 9.1.3
+
+BUG FIXES
+
+Characters
+
+Fixed an issue where The Spirit's hands would remain extended after using the Phase-Walk power.
+
+Fixed an issue where The Deathslinger was unable to spear Survivors with the Redeemer while they were fast-vaulting pallets using the Last Stand perk.
+
+Fixed an issue where The Dark Lord's Hellfire would not pass through the Killer shack pallets.
+
+Miscellaneous
+
+Fixed an issue where Killers were unable to injure Survivors fast-vaulting pallets using the Last Stand perk.
+
+Fixed an issue where Survivors could get trapped inside lockers.
+
+Fixed an issue where Survivors could use the Finesse perk infinitely.
+
+Fixed an issue where the Fog Vial's fog blocked certain Killers' projectiles.
+
+Fixed an issue where Survivors appeared to be floating in the lobby.

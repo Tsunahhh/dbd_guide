@@ -1,0 +1,483 @@
+# 9.0.0 | Five Nights at Freddy's - BHVR
+Source: https://forums.bhvr.com/dead-by-daylight/kb/articles/510 (consulté le 27/09/2026)
+
+Content
+New Killer - The Animatronic
+KILLER POWER: FAZBEAR'S FRIGHT
+The Animatronic lived to kill, even when his mechanical costume became his tomb.
+SPECIAL ABILITY: FIRE AXE
+The Animatronic is armed with a Fire Axe that he can throw at Survivors. If the Axe hits a Survivor, the weapon becomes embedded in them, leaving the Survivor vulnerable. Survivors must remove the Axe before they can be healed.
+MAP FEATURE: SECURITY SYSTEM
+At the start of the trial, 7 Security Doors are spawned randomly throughout the map. These doors can be accessed by both Survivors and The Animatronic.
+Each Security Door has a Camera attached to it. Interacting with the Door gives the Survivor access to the Camera View, allowing the Survivor to cycle through every Camera in the map, travel to the Door they are currently looking through, and potentially reveal The Animatronic's aura to the team.
+Using the Cameras and Doors too often will deplete the limited battery power available, forcing Survivors to wait until the system reboots. The Animatronic may travel between Security Doors with or without battery power.
+If The Animatronic enters a Security Door, they may choose to exit from any other Door in the map. Moving to a Door already in use by a Survivor will cause The Animatronic to grab that Survivor.
+New Killer Perks
+Help Wanted:
+When you damage a Generator, it becomes
+Compromised
+. Only one Generator can be
+Compromised
+at a time.
+When the
+Compromised
+Generator is completed, your successful basic attack cooldowns are
+25/25/25%
+faster for
+40/50/60 seconds
+.
+Phantom Fear:
+When a Survivor within your Terror Radius looks at you, they scream and you see their aura for
+2/2/2 seconds
+.
+This perk has a
+80/70/60 second
+cooldown.
+Haywire:
+Exit gates switches with at least 80% progress regress at a rate of
+80/90/100%
+of gate opening speed.
+While they are regressing, Survivors see the exit gate lights flicker randomly.
+N
+ew Map - Freddy Fazbear's Pizza
+The rotting brainchild of a sadistic murderer still stands over the grassy plains. A place of joy for some, and unspeakable terror for others. Do not let the bright colors and parlor tricks deceive you; many have died within these walls, and many more will die still.
+Quality of Life Improvements
+AFK Crow System Update
+Survivors are considered AFK when not interacting within the last 10 seconds.
+While AFK, Survivors accrue AFK points, during which crows gradually begin spawning above the Survivor, beginning with 1 and capping at 3.
+AFK points increase more slowly while moving or while in proximity to the Killer.
+After 90 seconds, the Survivor reaches 3 crows and Loud Noises trigger at regular intervals.
+Additionally, the Survivor loses collision with other players for 10 seconds.
+Completing interactions removes AFK points.
+Crows are removed as AFK points decrease.
+This system is disabled when the Hatch spawns or when End Game Collapse is triggered by any means.
+Bloodweb Spending Improvements
+Added an Auto Bloodweb button available after prestiging any one character for the first time, enabling players to automatically progress to a selected character level, Bloodpoints permitting.
+Removed the following pop-ups across all other characters after they have been shown for the first time:
+“The Bloodweb” introductory pop-up
+“Unpredictability” pop-up
+Perk slot unlocks
+Disconnection Penalties
+Disconnection Penalties are now based on your last 20 matches played.
+Each disconnect in this set of 20 matches counts as a disconnection penalty point.
+Disconnection penalty points decrease as you play matches without disconnecting
+(previously decayed at the rate of 1 point per day)
+.
+Gamma Setting
+Upon launch, new gamma calibration popup will be presented to all players.
+This visual setting can be accessed at all times via the Settings menu, under the Graphics tab.
+"Going Next" Prevention
+Added a system to detect Survivors who intentionally die early in the match.
+When a Survivor is determined to be doing this, they receive a disconnection penalty and lose one full grade.
+The Attempt Unhook ability is now only available in the following circumstances:
+Two Survivors remain in the Trial.
+A Survivor's Luck is increased with an Offering.
+A Survivor has equipped the Slippery Meat or Up the Ante perk.
+When more than two Survivors remain, they may struggle while on a hook, but with no chance of escape or penalty for failure.
+Letting two struggle skill checks pass without any input will no longer instantly kill you.
+The Abandoned score event (given to Survivors when a teammate disconnects) is now also granted when a Survivor gives up via this system.
+Increased the Abandoned score event to 2,000 Bloodpoints
+(was 600)
+.
+Mori Update
+Near the end of a Trial, the Killer can now activate a Mori when 2 Survivors are alive and the following conditions occur simultaneously
+(up from 1 Survivor alive)
+:
+1 Survivor is Hooked and in the Struggle Phase
+1 Survivor is in the Dying State
+When the above criteria are met, starting a Mori on a Survivor will now immediately start the Sacrifice of remaining Hooked Survivors in the Struggle Phase.
+Dev note: The change means that you do not need to wait for the hooked Survivor to be Sacrificed to be able to trigger a Mori. Performing a Mori with a single Survivor remaining will continue to function as it did before.
+Offerings Updates
+All Realm/Map offerings now grant a flat 20% chance to be sent the associated Realm/Map.
+Duplicate Realm & Map offerings no longer stack.
+Most gameplay-altering offerings are now treated as secret during the loading screen reveal.
+Spawn Rules
+Survivors now spawn within 12m of each other by default, when possible.
+Survivors now spawn on the same floor as each other by default, when possible.
+The Survivor offering, Shroud of Binding, has been replaced with a new offering, the Shroud of Separation. Its new effect causes Survivors to spawn apart from one another.
+Any owned Shrouds of Binding are converted to Shrouds of Separation.
+The Killer offering, Shroud of Separation, has been replaced with a new offering, the Shroud of Vanishing. Its new effect causes all Survivor spawn offerings to be rejected by The Entity.
+Any owned Shrouds of Separation are converted to Shrouds of Vanishing.
+Spectator Mode
+Increased spectator slots in Custom Game to 5.
+Hotkeys have been assigned in Spectator Mode to make changing between players easier.
+Looping between players using the top bar while in Spectator Mode can now be done via hotkey.
+Added controller support for the above improvements.
+Voiceover Language Setting
+"Voice Language" is a new setting added under the General tab.
+French can now be chosen for voiceovers on select characters:
+Sable Ward, Gabriel Soma, The Good Guy, The Good Gal, Ellen Ripley & Rain are now available.
+Performance
+Improved optimization at game launch to reduce instances of stuttering in-game.
+Gameplay Features
+Killer Updates
+The Lich
+All of The Lich's Spells are now available at the start of a Trial
+(was 15 seconds starting cooldown).
+Decreased Dispelling Sphere cooldown to 30 seconds
+(was 35 seconds).
+Decreased Fly cooldown to 20 seconds
+(was 25 seconds).
+Decreased Mage Hand cooldown to 35 seconds
+(was 40 seconds).
+Decreased Flight of the Damned cooldown to 30 seconds
+(was 35 seconds).
+Removed the interaction time locking the Killer's camera when activating Dispelling Sphere
+(was 2 seconds).
+Updated Dispelling Sphere's projectile to move quickly when first cast and slow down over the following 3 seconds, in order to spend less time revealing the area immediately in front of the Killer.
+Increased the Killer Instinct duration once Survivors exit Dispelling Sphere to 5 seconds
+(was 3 seconds).
+Increased the end interaction time of Fly to 2.75 seconds
+(was 2.5 seconds).
+Increased the duration of Fly to 5 seconds
+(was 4 seconds).
+Fixed a bug which prevented The Lich from reaching the intended movement speed (8.0 m/s) when casting Fly.
+Fixed a bug which made the Survivor pallet interaction delay inconsistent for both Killers and Survivors after lifting a pallet with Mage Hand.
+Increased the duration of the Survivor pallet interaction delay after lifting a pallet with Mage Hand to 0.55 second
+(was 0.15 second).
+Increased The Lich's aura reveal duration to 2 seconds when the associated Spell is cast for each Magic Item
+(was 1.5 seconds).
+Increased the duration of Haste to 4 seconds for Survivors equipped with Boots or Gauntlets of the Interloper when The Lich activates Mage Hand
+(was 3.5 seconds).
+The Lich Add-ons
+The Trickster's Glove add-on now increases the time Mage Hand holds a pallet up by 0.3 second
+(was 0.5 second).
+The Crystal Ball add-on now increases the Killer Instinct effect by an additional 1 second when a Survivor is revealed by Dispelling Sphere
+(was 3 seconds).
+The Potion of Speed add-on now decreases the period where you cannot attack after casting Fly by 0.15 seconds
+(was 0.3 seconds).
+The Ring of Telekinesis add-on now increases your vaulting speed by 10% for the next 10 seconds when using the Mage Hand Spell on an upright pallet
+(was 8 seconds).
+The Ring of Spell Storing add-on decreases the cooldown of all spells by 1 second
+(was 2 seconds).
+The Cloak of Elvenkind add-on now decreases Terror Radius by 22 meters when activating the Fly spell
+(was 8 meters).
+The Boots of Speed add-on now grants you 3% Haste for 2 seconds when casting Mage Hand
+(was 5%).
+The Staff of Withering add-on now causes Exhaustion for 30 seconds to Survivors who enter the radius of Dispelling Sphere
+(was 20 seconds).
+The Pearl of Power add-on now decreases the remaining cooldown for your spells by 2 seconds each time you land a basic attack
+(was 3 seconds).
+The Robe of Eyes add-on now reveals the auras of Survivors within 6 meters of a treasure chest for 4 seconds each time you cast a spell
+(was 3 seconds).
+The Dragontooth Dagger add-on now applies Haemorrhage and Mangled status effects to Survivors hit with a basic attack while holding a Magic Item for 60 seconds
+(was 45 seconds).
+The Cloak of Invisibility add-on now activates Undetectable for 20 seconds each time all of your spells are on cooldown at the same time
+(was 10 seconds).
+The Twins
+Victor is now able to trigger chases with Survivors.
+Killer Perks
+Batteries Included
+Reduced Haste bonus to 5%
+(was 7%).
+Increased area around completed Generator to 16 meters
+(was 12 meters).
+Call of Brine
+Increased duration to 70 seconds
+(was 60 seconds).
+Increased bonus Generator regression to 130/140/150%
+(was 115/120/125%).
+Dark Devotion
+Increased duration of Terror Radius transfer to Obsession to 35/40/45 seconds
+(was 20/25/30 seconds).
+Increased size of transferred Terror Radius to 40 meters
+(was 32 meters).
+Hex: Retribution
+Increased Oblivious duration caused by Survivor interacting with Dull or Hex Totems to 40/50/60 seconds
+(was 35/40/45 seconds).
+Increased Survivor aura reveal triggered by Hex Totem removal to 20 seconds
+(was 15 seconds).
+Machine Learning
+Decreased Haste value to 8%
+(was 10%).
+Increased duration to 40/50/60 seconds
+(was 30/35/40 seconds).
+Updated the text description to match that of Help Wanted.
+Remember Me
+Updated description to more accurately reflect its in-game effect.
+Superior Anatomy
+Increased area of detection to 12 meters
+(was 8 meters).
+Decreased cooldown to 25 seconds
+(was 30 seconds).
+Terminus
+Increased Broken duration once exit gates are open to 35/40/45 seconds
+(was 20/25/30 seconds).
+Thrilling Tremors
+Reduced cooldown to 40/35/30 seconds
+(was 100/80/60 seconds).
+THWACK!
+Increased reveal area to 36 meters
+(was 24 meters).
+Increased Survivor aura reveal to 4/5/6 seconds
+(was 3/4/5 seconds).
+Unbound
+Reduced Haste bonus after vaulting a window to 7%
+(was 10%).
+Survivor Perks
+Babysitter
+Reduced Haste bonus for the unhooked Survivor to 10%
+(was 15%).
+Botany Knowledge
+Healing item efficiency reduction removed
+(was 20%).
+Champion of Light
+Decreased cooldown to 60/50/40 seconds
+(was 80/70/60 seconds).
+Counterforce
+Increased bonus Totem cleansing speed to 25%
+(was 20%).
+Increased furthest Totem aura reveal duration to 10/12/14 seconds
+(was 2/3/4 seconds).
+Increased stackable Totem cleansing speed bonus to 25%
+(was 20%).
+Desperate Measures
+Increased scaling bonus speed to healing and unhook actions to 16/18/20%
+(was 10/12/14%).
+Empathic Connection
+Injured Survivor(s) can now see the aura of Survivor(s) with Empathic Connection anywhere on a map
+(was 32/64/96 meters).
+Updated healing speed bonus to other Survivors to 25/30/35% across Tiers
+(was 30% across all Tiers).
+Exultation
+Increased the item recharge amount for stunning the Killer with a pallet to 75%
+(was 25%).
+Decreased cooldown to 30/25/20 seconds
+(was 40/35/30 seconds).
+Light-footed
+Decreased cooldown to 14/12/10 seconds
+(was 28/24/20 seconds).
+Emblem Updates
+Lightbringer:
+Performing an Invocation now awards 0.8 Lightbringer points per percent of progress.
+Being chased while a teammate performs an Invocation now awards 0.4 Lightbringer points per percent of progress.
+Blessing a Totem for the first time now awards 50 Lightbringer points.
+Being chased while a teammate blesses a Totem for the first time now awards 25 Lightbringer points.
+Increased Lightbringer points earned when a teammate repairs a Generator while you are being chased to 0.5 per percent of progress
+(was 0.33)
+.
+Decreased Lightbringer points earned for repairing generators to 0.8 per percent of progress
+(was 1)
+.
+Increased Lightbringer points earned when other Survivors cleanse a Dull Totem while you are chased to 10
+(was 5)
+.
+Increased Lightbringer points earned when other Survivors cleanse a Hex Totem while you are chased to 25
+(was 10)
+.
+Evader:
+Increased Evader points earned after a 15 second chase to 60
+(was 25)
+.
+Increased Evader chase multiplier at 10 meters to 1x
+(was 0.6x)
+.
+Decreased Evader chase multiplier at 6 meters to 1x
+(was 1.2x)
+.
+Quest Rewards
+Increased Daily Quest Blood Point rewards (2500 → 5000)
+Map Showcase
+Added new Map Game Mode that allows for players to queue up for a single, predetermined map.
+Hellraiser DLC Changes
+The following perks have become General Perks, and their names and icons have changed:
+Deadlock is now No Holds Barred
+Hex: Plaything is now Hex: Fortune's Fool
+Scourge Hook: Gift of Pain is now Scourge Hook: Weeping Wounds
+The following achievements/trophies have been updated, and their names, icons and unlock conditions have changed:
+Tear Their Soul Apart is now Beyond Broken
+Injure a  Survivor afflicted by the Broken Status Effect with a Basic Attack a total of 50 times.
+Punch Drunk is now Neither Seen Nor Heard
+Apply the Oblivious status effect to Survivors 30 times in public matches.
+Adept Cenobite is now Lost All Hope
+Down a Survivor within the bounds of any Exit Gate.
+Bug Fixes
+Audio
+Fixed an issue where The Huntress' Were-Elk outfit lullaby was quieter than her other outfits.
+Fixed an issue where The Plague's Corrupt Purge activation sound effect would play multiple time in a row when all Pools of Devotion were corrupted.
+Fixed an issue where the basic attack SFX for The Unknown's Savage Shovel weapon from his Missing Zookeeper outfit was missing.
+Characters
+Fixed an issue where the Madness tier up animation would not trigger on Survivors when playing against The Doctor.
+Fixed an issue where The Nightmare's left hand would snap briefly when aiming at a Dream Pallet.
+Fixed an issue where Rupture could be activated while dropping a pallet as The Nightmare.
+Fixed an issue where Awake Survivors could heal Sleeping Survivors after the "Wake Up" interaction was interrupted.
+Fixed an issue where The Nightmare was unable to use Dream Projection in Trials.
+Fixed an issue where The Trickster did not have a fatigued animation after ending a Main Event.
+Fixed an issue where The Dark Lord could see the lute floating when a Survivor was using Bardic Inspiration while in Bat form.
+Fixed an issue where The Lich's Spell indicator became distorted when changing window modes on an ultra wide monitor.
+Fixed an issue where pallets would shake after lifting a pallet with The Lich's Mage Hand.
+Fixed an issue where the animation for The Lich's Mage Hand would repeat after raising a pallet.
+Fixed an issue where the activation prompt for the Eye of Vecna was not clearly labeled.
+Fixed an issue where the grace period to drop a pallet after it was raised by The Lich's Mage Hand was inconsistent.
+Fixed an issue where The Houndmaster's dog would appear to slide when charging the Chase command while blocked by obstacles.
+Fixed an issue where the speed line vignette VFX lingered indefinitely after using Fly as The Lich.
+Fixed stretching issues with The Plague’s vomit decals.
+Fixed an issue where The Plague could get stuck at 4.4 base speed after getting pallet stunned while charging Vile Purge.
+Fixed an issue where Survivors would briefly float after being pushed by The Mastermind's Bound Attack.
+Fixed an issue where The Skull Merchant's lobby animation would be interrupted.
+Fixed an issue where the Survivor's pointing animation would not play correctly.
+Fixed an issue where the Survivor's scream animation would not play correctly when vaulting.
+Fixed an issue where Felix Richter's Off The Shoulder torso outfit would flip over his shoulder and clip through his body.
+Fixed an issue where, while playing as The Twins, quickly unbinding Victor after leaping on an object or getting crushed would prevent Victor from performing any actions.
+Environment/Maps
+Fixed an issue in the Coldwind Farm Realm where players could not vault in the combine harvester.
+Fixed an issue in the Autohaven Wreckers Realm where players could not vault in the crashed bus.
+Fixed an issue in the Toba Landing map where a placeholder tile would appear.
+Fixed an issue in the Autohaven Wreckers Realm where both window vaults in the crashed bus would be blocked.
+Fixed an issue where a black line would appear on the ground in the Main Menu after backing out of the Rift Pass.
+Fixed an issue where a shadow can be seen following Survivors and the Killer in various Realms on Low Quality Graphic settings.
+Perks
+Fixed an issue where the durability icon remained visible after emptying a Toolbox with the Streetwise perk equipped.
+Quests
+Fixed an issue that caused Auric Cells Expiry Notice to not appear for players affected by the Act of Settlement when gaining Auric Cells from the Rift.
+UI
+Fixed a potential crash issue when selecting a Journal entry.
+Fixed an issue where the UI scale in the Match Details screen would be inconsistent after updating the UI Scale setting.
+Fixed an issue where the player’s name would overlap with other icons on the scoreboard in the Tally screen.
+Fixed a crash issue when leveling up in the Bloodweb.
+Fixed an issue where the input prompts did not initially match the input mode after switching from a keyboard & mouse to a controller.
+Fixed issues with text formatting on the Main Menu play buttons.
+Changes from PTB
+Bot Improvements
+Survivor Bots no longer try to use disabled or occupied Security Doors.
+Survivor Bots now try to remove the Animatronic's Axe during chase.
+New Killer Perks
+Help Wanted
+No gameplay change. Updated the description to match that of Machine Learning, which was also updated.
+Haywire
+Increased minimum regression threshold to 80%
+(was 50%)
+.
+Increased regression speed to 80/90/100%
+(was 40/45/50%)
+.
+Killer Updates
+The Animatronic
+Increased cooperative projectile removal to 5 seconds
+(was 3 seconds)
+.
+The Animatronic Add-Ons
+Help Wanted Ad
+Preview distance grows faster.
+Restaurant Menu
+Increased effect to 20%
+(was 10%).
+Rotten Pizza
+Increased effect to 100%
+(was 50%).
+Ripped Curtain
+Decreased duration to 60 seconds
+(was 70 seconds).
+Greasy Paper Plate
+Increased effect to 15%
+(was 10%).
+Office Phone
+Increased range to 24 meters
+(was 12 meters).
+Reveals the aura of the axe to Survivors within this range
+(NEW).
+Decreases the time required to remove the Axe from another Survivor by 50%
+(NEW).
+Bonnie’s Guitar Strings
+Decreases the duration of the Undetectable status effect upon exiting the Security Door by 50%
+(NEW).
+Foxy’s Hook
+Decreased Haste effect to 7%
+(was 10%).
+Decreased Haste duration to 3 seconds
+(was 6 seconds).
+Purple Guy Drawing
+Decreased rushed action aura duration to 3 seconds
+(was 4 seconds).
+Increased Axe removal aura duration to 6 seconds
+(was 4 seconds).
+Loot Bag
+No longer causes incapacitated
+(REMOVED).
+Applies Exit Gate blocker effect to all Survivors within 12 meters
+(NEW).
+Celebrate! Poster
+Decreased haste to 12%
+(was 20%).
+Removed distance-based deactivation
+(REMOVED).
+Effect applies to all players within 32 meters
+(NEW).
+Faz-Coin
+Set Terror Radius size to 24 meters instead of copying the current Terror Radius size
+(REWORK).
+Iridescent Remnant
+Increased effect range to 32 meters
+(was 16 meters).
+Increased effect duration to 12 seconds
+(was 8 seconds).
+No longer blocks window vaults
+(REMOVED).
+The Artist Add-Ons
+Reverted all add-on changes from the 9.0.0 PTB.
+Bug Fixes
+Fixed an issue that caused Survivors to be heard while they teleport in the Security Door.
+Fixed an issue that caused Loud Noise notifications to be inaudible when the Animatronic was inside a Security Door.
+Fixed an issue that caused Survivors close to another Survivor using Security Cameras to not hear their surroundings.
+Fixed an issue that caused the scanning SFX of Security Camera to continue playing when the Killer moved out of the scanning range.
+Fixed an issue that caused scanning SFX to continue playing when switching Security Cameras.
+Fixed an issue that caused SFX from the area around the target Security Camera to be audible while viewing a Security Camera.
+Fixed an issue in the Blackwater Swamp Realm where a Security Door would spawn facing a wall.
+Fixed an issue where VFX would display inconsistently for The Animatronic’s Fire Axe abilities.
+Fixed an issue where VFX would display inconsistently during characters’ movement through Security Doors.
+Fixed an issue where The Animatronic’s Fire Axe ember trail VFX remained visible on Survivors when retrieving the Axe.
+Fixed an issue where The Animatronic's Fire Axe wasn't automatically retrieved when the Axe was placed on various moveable map objects.
+Fixed an issue where The Animatronic could see the Axe aura when it was being removed via a co-op interaction.
+Fixed an issue where the "Remove Axe" prompt was prioritized over the vault prompt for Survivors when playing against The Animatronic.
+Fixed an issue where The Animatronic could perform an Axe grab on a Survivor inside a locker.
+Fixed an issue where The Animatronic and Survivor could become stuck or desynced when The Animatronic grabbed the Axe at the last second.
+Fixed an issue where The Animatronic could be blinded during the Axe grab animation.
+Fixed an issue where The Animatronic could not be blinded during pallet break and vault animations.
+Fixed an issue where the Greasy Paper Plate add-on was missing the debuff icon and interaction penalty.
+Fixed an issue where the Rotten Pizza add-on reduced the Axe radius.
+Fixed an issue where there were inconsistencies with Security Door numbers when entering the door selection area as The Animatronic.
+Fixed an issue where elements of Security Doors dissolved incorrectly upon opening them.
+Fixed an issue where Survivor models were in their default outfits when interrupted in the Security Room.
+Fixed an issue where The Animatronic's power icons appeared enabled when inside the Security Doors.
+Fixed an issue where the Survivor's visual heartbeat indicator was visible when teleporting to a Security Door.
+Fixed an issue where Survivors were audible when they teleported to a Security Door.
+Fixed an issue where Survivors getting interrupted in the Security Room were able to see the Security Door aura.
+Fixed an issue where Survivors could scan The Animatronic with a disabled Security Camera.
+Fixed an issue where the interrupt animation did not play when getting interrupted while using a Security Camera.
+Fixed an issue where players couldn't exit the Security Doors when using the mouse wheel as an input.
+Fixed an issue where Survivors' faces were distorted when interrupted in the Security Room.
+Fixed an issue where an input bind conflict was present for Survivors interacting with a Security Door while playing on controller.
+This fix has resulted in a change to the Security Door input mapping for Survivor players on all platforms.
+Fixed an issue where the Haywire perk wasn't disabled when both Exit Gates were open.
+Fixed an issue where the Help Wanted perk was not disabled when all generators were completed.
+Fixed an issue where the Decisive Strike perk did not activate when Axe grabbed by The Animatronic.
+Fixed an issue where the Machine Learning and Help Wanted perks stacked when activated multiple times.
+Fixed an issue where the Save The Best For Last perk did not lose a token when hitting the Obsession with The Animatronic's Axe.
+Fixed an issue in the Freddy Fazbear's Pizza map where a wheel chair failed to spawn on a tile.
+Fixed an issue in the Freddy Fazbear's Pizza map where players could climb on top of gift boxes.
+Fixed an issue in the Freddy Fazbear's Pizza map where the Dark Lord could get stuck next to a vault.
+Fixed an issue in the Freddy Fazbear's Pizza map where Killers could get stuck between a hook and the main building.
+Fixed an issue in the Freddy Fazbear's Pizza map where The Nurse could get partially stuck in the ramp of the repair room.
+Fixed an issue in the Freddy Fazbear's Pizza map where a Totem would clip into the ground.
+Fixed an issue in the Freddy Fazbear's Pizza map where The Blight was unable to collide with certain objects behind the main stage.
+Fixed an issue in the Freddy Fazbear's Pizza map where The Trapper could hide traps within the Entity's Corruption.
+Fixed a loading distance issue in the Freddy Fazbear's Pizza map kitchen by adjusting blood decal trail on the floor next to the fryer
+Fixed various issues with various 3D elements, both structural and decorative, in the Freddy Fazbear's Pizza map.
+Fixed an issue by changing loading distances on four bricks parts of the main building of Freddy Fazbear's Pizza.
+Fixed an issue in the Freddy Fazbear's Pizza map where shadows would end abruptly in various locations.
+Fixed an issue in the Freddy Fazbear's Pizza map where the floor would clip through the wall.
+Fixed an issue in the Freddy Fazbear's Pizza map where the intro camera would clip through The Houndmaster.
+Fixed an issue in the Wreckers' Yard map where a placeholder tile would appear in the map.
+Fixed an issue in the Toba Landing map where The Nurse could blink on a side of the main structure that is not accessible to any other character.
+Fixed an issue where The Legion would encounter stuttering during the Feral Frenzy fatigue state.
+Fixed an issue where the pick-up prompt for the Nostromo Wreckage keycard was incorrectly labeled.
+Fixed an issue where the Map Showcase tooltip would remain visible after the cursor left the Map Showcase label in the lobby.
+Fixed an issue where the Map Showcase tooltip would remain visible after disconnecting from a lobby.
+Fixed an issue where the final level preview in the Bloodweb Bulk Spending popup was not accurate.
+Fixed an issue where the Bloodweb Bulk Spending rewards popup would be missing for characters who were at max prestige level.
+Known Issues
+Survivors are misaligned during The Animatronic's locker grab animation when wearing the Yellow Rabbit outfit.
+Survivor and Glitchtrap shadows can be seen when traveling through Security Doors.
+Phantom Fear has no effect on add-ons that create a Terror Radius.
+Survivor directional SFX may not work properly.
+Killers selecting The Animatronic will crash when loading into a lobby on the Switch 2 platform only.

@@ -1,0 +1,2320 @@
+Contents
+
+1
+ 
+Release Dates
+
+2
+ 
+Public Test Build 10.0.0
+
+3
+ 
+Patch 10.0.0
+
+3.1
+ 
+Hotfix 10.0.1
+
+3.2
+ 
+Hotfix 10.0.2
+
+3.3
+ 
+Hotfix 10.0.3
+
+Release Dates
+
+Patches
+
+Release Dates
+
+PTB 10.0.0
+
+26 May 2026
+
+10.0.0
+
+16 June 2026
+
+10.0.1
+
+23 June 2026
+
+10.0.2
+
+6 July 2026
+
+10.0.3
+
+21 July 2026
+
+Public Test Build 10.0.0
+
+REMINDER
+
+All 
+Characters
+ you have unlocked via Steam will be unlocked on the PTB, including any new character(s) introduced in this update.
+
+If 
+DLC
+ content has been unlocked via a platform other than Steam (including the 
+In-Game Store
+), this will not be automatically unlocked in the PTB. This content can be unlocked with the provided 
+Auric Cells
+.
+
+When accessing a character's 
+Bloodweb
+, the character will be automatically set to 
+Level
+ 50 and 
+Prestige
+ 3, unlocking their 
+Perks
+ to Tier 3, as well as any 
+Items
+ that would regularly be obtained during this process.
+
+Known Issue: After accessing a character's Bloodweb, certain UI elements may incorrectly display a Prestige level other than Prestige 3. This is only a display bug, as characters will still function as though they are Prestige 3.
+
+All 
+Offerings
+, Items, and 
+Add-ons
+ will be pre-loaded with 99 units available.
+
+12,500 Auric Cells and 1 million 
+Bloodpoints
+ will be given on each new PTB version, available to explore 
+Outfits
+ and Characters in the Store.
+
+CONTENT
+
+NEW KILLER: 
+The Slasher
+
+POWER: 
+Omnipresent Evil
+
+Press the Active Ability button to activate Omnipresent Evil. The Slasher becomes invisible and gains 
+Undetectable
+, but cannot see 
+Survivors
+ or their 
+Scratch Marks
+. Mist Clouds reveal the location of Survivors who are not moving. Footprints reveal the path of Survivors who are walking or running.
+
+Omnipresent Evil is deactivated by using Jump Scare.
+
+SPECIAL ABILITY: 
+Jump Scare
+
+While Omnipresent Evil is activated, look at a 
+Pallet
+, 
+Breakable Wall
+, or 
+Window
+ to quickly move to it and perform a special-break or special-vault action. The Secondary Action button switches the side you will face when performing Jump Scare.
+
+Jump Scare exits Omnipresent Evil mode, grants 
+Haste
+, and reveals detected Survivors with 
+Killer Instinct
+.
+
+SPECIAL ABILITY: 
+Throwing Spikes
+
+Grab a Spike from Scrap Piles or 
+Hooks
+. Hold the Secondary Action button to ready the Spike and tap the Attack button to throw. Spikes are replenished throughout the map when Omnipresent Evil is activated.
+
+A Spike knocks back a Survivor and damages them for one 
+Health State
+.
+
+Survivors will be Impaled if they are hit with a Hook Spike. They cannot heal past the 
+Injured State
+ and the embedded Hook Spike will have an 
+Aura
+ visible to the 
+Killer
+.
+
+Injured Survivors will be both Impaled and Immobilized if they are hit with a Spike and knocked into a wall.
+
+New Killer 
+Perks
+
+Hex: Scared to Death
+
+After you hook 3 different Survivors, a 
+Dull Totem
+ ignites.
+
+While 
+chasing
+ a Survivor, whenever you basic-break a Pallet, Survivors within 13m:
+
+Scream.
+
+Gain 11/12/13% 
+Hindered
+ for 3s.
+
+Silent Shadow
+
+When the trial starts, you gain Undetectable for 11/12/13s or until you 
+down
+ a Survivor.
+
+When all 
+Generators
+ are completed, you gain Undetectable.
+
+Rampage
+
+Whenever you basic-break a Pallet or Breakable Wall, you earn 1 Token, up to 13.
+
+Whenever you are blinded or Pallet-Stunned, for the next 13s you gain 1% Haste for each Token. Cooldown: 30/25/20s.
+
+NEW ORIGINAL SURVIVOR
+
+(Perks will be generic as this Survivor is not available on PTB)
+
+New Survivor Perks
+
+Wide Open Throttle
+
+Whenever you fast-vault a Pallet:
+
+You gain 10/12.5/15% Haste for 3s.
+
+The Pallet is reset, blocked for 60s, and all Survivors see its Aura for that time.
+
+Cooldown: 60s.
+
+Lend a Hand
+
+Once per trial and per Survivor, after you have blessed or cleansed 1 Totem, while 
+Healing
+ another Survivor, use "F" to give them 2/3/4 permanent healing charges.
+
+Cross-Examination
+
+While in the Killer's 
+Terror Radius
+, the Killer leaves Light Marks that last for 10s that you can see. While on the Killer's Light Marks, you gain 
+Elusive
+. This ends after 3/4/5s.
+
+FEATURES
+
+Auras Customization
+
+New aura types are available for colour customization
+
+Blocked Objects (e.g. 
+Corrupt Intervention
+ or 
+Repressed Alliance
+)
+
+Completed 
+Generators
+ (e.g as 
+The Houndmaster
+ sending 
+The Dog
+ on a 
+Search
+ Command)
+
+Generator Progress (The starting color when a Generator's progress is revealed e.g. 
+Hex: Hive Mind
+ or the add-on 
+"All Seeing" - Spirit
+)
+
+Dull Totems (When a player doesn't know the state of a Totem it will show as a Dull Totem e.g. 
+Detective's Hunch
+)
+
+Cleansed Totems (e.g. 
+Hex: Pentimento
+)
+
+Hex Totems
+
+Boon Totems
+
+Hatch
+
+Exit Gate Switches
+
+Killer Power Match Details Tab
+
+Match Details have been updated with a new tab to provide a simplified description of the currently faced Killer's 
+Power
+
+Match Details will only show this information when one of the following occurs:
+
+Any Survivor enters a 
+Chase
+
+Any Survivor loses a health state
+
+The Killer Power Tab can be directly accessed by pressing F1 on Keyboard or pressing and holding SELECT on Controller
+
+BUG FIXES
+
+Audio
+
+Fixed an issue where 
+The Krasue
+'s grunts were not heard when hooking a survivor.
+
+Fixed an issue where 
+The Ghoul
+'s power SFX were louder than usual.
+
+Characters
+
+Fixed an issue where 
+Bots
+ were aware of killers who had used stealth abilities.
+
+Fixed some subtitles for Survivor 
+Robin Buckley
+'s French translation disappearing prematurely.
+
+Fixed an issue where the Survivor's aura can be seen flickering when teleporting to an occupied 
+Locker
+ as 
+The Dredge
+.
+
+Fixed an issue where Spectating 
+The Animatronic
+ the audio would remain on the latest Survivor.
+
+Fixed an issue where the Headset was misaligned when interacting with 
+The First
+'s 
+Grandfather Clock
+.
+
+Fixed an issue where The Ghoul could block a Survivor inside a locker when performing a second 
+Kagune Leap
+ on a Survivor entering a locker at the same time.
+
+Fixed an issue where the auras of completed Generators would disappear after 
+The Nightmare
+ teleported.
+
+Fixed an issue where the auras of Generators and Hooks were missing for 
+Victor
+ when a Survivor disconnected or was 
+Sacrificed
+ when playing as 
+The Twins
+.
+
+Fixed an issue where 
+The Nemesis
+' 
+Zombies
+' auras would remain displayed in the Killer Item Aura Colour after hitting a Survivor while using the 
+S.T.A.R.S. Field Combat Manual
+ Add-On.
+
+Fixed an issue where the Killer's collision would not remain consistent during the Pick and 
+Drop
+ animations.
+
+Tentatively fixed an issue where 
+The Mastermind
+ could land hits on Survivors that had just vaulted after using 
+Virulent Bound
+.
+
+Tentatively fixed an issue where a Survivor could be misplaced during the carry animation if The Mastermind used Virulent Bound on them when they initiated a pallet vault.
+
+Environment/Maps
+
+Fixed an issue in the 
+The Underground Complex
+ where killers could get blocked by a hanging a survivor on a hook in a corridor
+
+Fixed an issue in 
+Sanctum of Wrath
+ where killers could block the entrance to the 
+Basement
+ on the side of the main structure
+
+Fixed an issue in 
+Crotus Prenn Asylum
+ where 
+The Nurse
+ could not 
+Blink
+ through the walls
+
+Fixed an issue in 
+Treatment Theatre
+ where the red stain would disappear in certain area of the map
+
+Fixed an issue in Treatment Theater where a killer could not navigate through a door when a survivor was place on a hook
+
+Fixed an issue in the 
+MacMillan Estate
+ 
+Killer Shack
+, where an invisible collision hindered Survivors and Killers navigation.
+
+Fixed an issue in the realm of 
+Coldwind Farm
+ where projectiles would get blocked around the combine harvester
+
+Fixed an issue in 
+Groaning Storehouse
+ where the players would get stuck while walking up the stairs of the basement
+
+Fixed an issue in 
+The Shattered Square
+ where projectiles would be blocked by collisions
+
+Fixed an issue in Sanctum of Wrath where a killer could not grab survivor entering a locker
+
+Fixed an issue in the realm 
+Withered Isle
+ where collision would block projectiles around picnic tables
+
+Fixed an issue in the 
+Raccoon City Police Station East Wing
+ by repositioning walls where a gap could be seen in several locations, allowing the player to see through, or out of the world.
+
+Fixed an issue where 
+The Artist
+ was unable to place a 
+Dire Crow
+ in front of a window vault between specific tiles in the 
+Trickster's Delusion
+ map.
+
+Fixed an issue where the passage aura color was pink on 
+Forgotten Ruins
+.
+
+Perks
+
+Fixed an issue where 
+Self-Care
+ and 
+Strength in Shadows
+ were not worded properly according to the new description overhaul:
+
+They now say: "you can self-heal, but XX% slower".
+
+Numbers have been adjusted to match the new wording (NO GAMEPLAY CHANGE).
+
+Fixed an issue where some perks were not displayed in the bloodweb for Survivors.
+
+Fixed an issue where 
+Deliverance
+ was used when performing the 
+Anti-Camp Unhook
+ at the second 
+Hook Stage
+.
+
+Fixed an issue where 
+Hex: Hive Mind
+ would allow the 2 extra generators to remain repairable after an explosion.
+
+Fixed an issue where the auras of Unlocked 
+Chests
+ were revealed when the 
+Human Greed
+ perk was equipped.
+
+Platforms
+
+Fixed an issue where selecting certain Killers might cancel match start on PS4.
+
+Fixed an issue where characters' and objects' auras revealed remain displayed when in line of sight during Killer and Survivor tutorials on some consoles.
+
+Quests
+
+Fixed an issue where the 
+Tome 4
+ "Handyman" Challenge could not be completed with all the charge items.
+
+UI
+
+Fixed an issue where the profile contextual menu would not go away when selecting something outside the profile menu.
+
+Fixed an issue where players could not join a match if they were in the diminishing return tooltip.
+
+Fixed an issue where some 
+Tomes
+' vfx could be seen in other menus.
+
+Misc
+
+Fixed an issue preventing loading into a trial with the diminishing returns menu open.
+
+Fixed an issue to ensure placeholders are correctly used when a translation string is unavailable.
+
+Fixed issues causing a crash when playing against bots in the tutorial matches.
+
+Fixed an issue causing postgame events to be sent multiple times.
+
+Fixed a hang when adding bots to a lobby when playing as Survivor.
+
+Fixed multiple issues leading to cloud login problems.
+
+Added that users refresh the screen to trigger Auric Cell pack expiration popup message for accounts based in Japan.
+
+Fixed an internal issue when checking for paths existing in data.
+
+Fixed an issue where the application would rarely become unresponsive while a user was experiencing high latency.
+
+Fixed an issue where Survivors would remain in the trial with the Tally Screen overlay when the Killer disconnected during the Camera Pan.
+
+KNOWN ISSUES
+
+The PTB Text Overlay displays twice in Lobbies.
+
+Mother's Dwelling
+ and 
+Temple of Purgation
+ will be unavailable during this PTB.
+
+Patch 10.0.0
+
+CONTENT
+
+NEW KILLER: 
+The Slasher
+
+POWER
+: 
+Omnipresent Evil
+
+Press the Active Ability button to activate Omnipresent Evil. The Slasher becomes invisible and gains 
+Undetectable
+, but cannot see 
+Survivors
+ or their 
+Scratch Marks
+. Mist Clouds reveal the location of Survivors who are not moving. Footprints reveal the path of Survivors who are walking or running.
+
+Omnipresent Evil is deactivated by using 
+Jump Scare
+.
+
+SPECIAL ABILITY: Jump Scare
+
+While Omnipresent Evil is activated, look at a 
+Pallet
+, 
+Breakable Wall
+, or 
+Window
+ to quickly move to it and perform a special-break or special-vault action. The Secondary Action button switches the side you will face when performing Jump Scare.
+
+Jump Scare exits Omnipresent Evil mode, grants 
+Haste
+, and reveals detected Survivors with 
+Killer Instinct
+.
+
+SPECIAL ABILITY: 
+Throwing Spikes
+
+Grab a Spike from Scrap Piles or 
+Hooks
+. Hold the Secondary Action button to ready the Spike and tap the Attack button to throw. Spikes are replenished throughout the map when Omnipresent Evil is activated.
+
+A Spike knocks back a Survivor and damages them for one 
+Health State
+.
+
+Survivors will be Impaled if they are hit with a Hook Spike. They cannot heal past the 
+Injured State
+ and the embedded Hook Spike will have an 
+Aura
+ visible to the 
+Killer
+.
+
+Injured Survivors will be both Impaled and Immobilized if they are hit with a Spike and knocked into a wall.
+
+New Killer 
+Perks
+
+Hex: Scared to Death
+
+After you hook 3 different Survivors, a 
+Dull Totem
+ ignites.
+
+While 
+chasing
+ a Survivor, whenever you basic-break a Pallet, Survivors within 13m:
+
+Scream.
+
+Gain 11/12/13% 
+Hindered
+ for 3s.
+
+Silent Shadow
+
+Whenever you hook a Survivor, you gain Undetectable for 11/12/13s.
+
+When all 
+Generators
+ are completed, you gain Undetectable.
+
+Rampage
+
+Whenever you basic-break a Pallet or Breakable Wall, you earn 1 Token, up to 13.
+
+Whenever you are blinded or Pallet-Stunned, for the next 13s you gain 1% Haste for each Token. Cooldown: 30/25/20s.
+
+FEATURES
+
+Auras Customization
+
+New aura types are available for colour customization
+
+Blocked Objects (e.g. 
+Corrupt Intervention
+ or 
+Repressed Alliance
+)
+
+Completed 
+Generators
+ (e.g as 
+The Houndmaster
+ sending 
+The Dog
+ on a 
+Search
+ Command)
+
+Generator Progress (The starting color when a Generator's progress is revealed e.g. 
+Hex: Hive Mind
+ or the add-on 
+"All Seeing" - Spirit
+)
+
+Dull Totems (When a player doesn't know the state of a Totem it will show as a Dull Totem e.g. 
+Detective's Hunch
+)
+
+Cleansed Totems (e.g. 
+Hex: Pentimento
+)
+
+Hex Totems
+
+Boon Totems
+
+Hatch
+
+Exit Gate Switches
+
+Killer Power
+ Match Details Tab
+
+Match Details have been updated with a new tab to provide a simplified description of the currently faced Killer's 
+Power
+
+Match Details will only show this information when one of the following occurs:
+
+Any Survivor enters a 
+Chase
+
+Any Survivor loses a health state
+
+The Killer Power Tab can be directly accessed by pressing F1 on Keyboard or pressing and holding SELECT on Controller
+
+Visual Change
+
+The Doctor
+
+Remove the Doctor's noise vignette when using his power or when a survivor gets shocked
+
+Reduce the intensity of the light when the Doctor used his power
+
+Reduce the intensity of the camera shake when a survivor gets shocked
+
+Bug Fixes
+
+Audio
+
+Fixed an issue where 
+Sable Ward
+'s 
+Sassy Guest
+ outfit is missing the lobby music.
+
+Fixed an issue where Survivor hit audio does not play at a long distance for the Killer when the Survivor is hit by a projectile at long distance.
+
+Fixed an issue where the frequency rate of Dialogues for 
+Alan Wake
+'s is low.
+
+Fixed an issue where there was missing voice line for 
+The Singularity
+ during the 
+Mori
+.
+
+Fixed an issue where Survivors do not produce grunts when they are dropped by 
+The Animatronic
+.
+
+Fixed an issue where Missing sound effects when interacting with 
+Memory Shards
+ and 
+Archive Portal
+.
+
+Fixed an issue where 
+The Trickster
+'s mori preview VO is difficult to hear due to being at a too low volume.
+
+Fixed an issue where as a Survivor, the audio cue for 
+The Nightmare
+'s 
+Dream Projection
+ does not play when teleporting to a generator.
+
+Fixed hook voice over could play during sacrifice if the Survivor is the last one standing.
+
+Fixed an issue where 
+Jake Park
+ being in a lobby could trigger other lobby dialogues when a second player also joins as Jake Park.
+
+Characters
+
+Fixed an issue where 
+The Xenomorph
+ can see shadows through walls after exiting a Tunnel in 
+Greenville Square
+.
+
+Fixed an issue where shadows disappear after repeatedly entering and exiting the 
+Security Room
+ as The Animatronic in Greenville Square.
+
+Fixed an issue where The Animatronic's Immunity to 
+Flashlights
+ was missing when 
+Grabbing
+ a Survivor inside a door.
+
+Fixed an issue where 
+The Executioner
+ idle animation audio isn't synched.
+
+Fixed an issue where the 
+Iridescent Button
+ add-on description was missing the fact it grants blind immunity for 
+The Legion
+.
+
+Fixed an issue where Female Survivor's facial animations were missing when caught in a locker by 
+The Singularity
+.
+
+Fixed an issue where 
+The Knight
+'s camera remained immobile when interrupting a Survivor who is either entering or exiting a 
+Locker
+.
+
+Fixed an issue where The Knight did not have a Highlight Aura for guard orders on Pallets.
+
+Fixed an issue where The Knight's 
+Killer Power
+ and the basic attack were accessible immediately after cancelling the Killer Power.
+
+Fixed an issue where 
+The First
+'s 
+Vine Attack
+ hitting a Survivor while they were Dropping a Pallet caused them to be unable to enter the Floating State.
+
+Fixed an issue where the headset was misaligned with the hand and head of the Survivor when interacting with a 
+Grandfather Clock
+.
+
+Fixed an issue where The Legion's 
+Feral Frenzy
+ stopped recharging during the Mori.
+
+Fixed an issue where Survivors received no 
+Exposed
+ SFX after removing 
+Crows
+ from 
+The Artist
+'s 
+Garden of Rot
+ add-on.
+
+Fixed an issue where the "
+Warg's Fang
+" add-on for 
+The Dark Lord
+ only showed the aura of the last Survivor's 
+Scent Orb
+.
+
+Fixed an issue where, sometimes, The Houndmaster's Dog was unable to Jump Pallets at sharp angles.
+
+Fixed an issue where 
+The Demogorgon
+'s Active 
+Portals
+ auras were always revealed for the Survivors.
+
+Fixed an issue where 
+The Mastermind
+ was unable to freely move the Camera direction between Dash Buffering.
+
+Fixed an issue where The Mastermind could hit a Survivor at a lower altitude after vaulting with 
+Virulent Bound
+.
+
+Fixed an issue where The Mastermind's supply case auras were hidden to Survivors suffering from 
+Blindness
+.
+
+Fixed an issue where The Mastermind Virulent Bound Dash buffering "resetting hand" Animation was played too early.
+
+Fixed an issue where Survivors were frequently missing the thrown and the colliding against obstacle animations from The Mastermind's Virulent Bound.
+
+Fixed an issue where The Doctor was able to see the auras of 
+Illusionary Doctors
+ at Madness Tier without add-ons.
+
+Fixed an issue where Survivors were missing their 
+Reverse Bear Trap
+ when 
+The Pig
+ used the 
+Video Tape
+ Add-On.
+
+Fixed an issue where a Survivor was counted as 'Escaped' despite dying with the Reverse Bear Trap on while playing against The Pig.
+
+Fixed an issue where the legs animation was missing after a 
+Slice & Dice
+ attack, and after missing a Basic Attack as 
+The Good Guy
+.
+
+Fixed an issue where the camera, Look-At, and carry FPV animations for The Good Guy were broken during some interactions.
+
+Fixed an issue where 
+The Hag
+ was missing 2 lobby animations.
+
+Fixed an issue where the lobby animation was choppy as 
+The Spirit
+ with the Nightmare Serpent skin.
+
+Fixed an issue where Killers were able to see Survivors through the Generator's auras.
+
+Fixed an issue where multiple torso cosmetics appeared distorted around the stomach area when paired with 
+Orela Rose
+'s shorts.
+
+Fixed an issue where 
+Baermar Uraz
+ had his arms moving abruptly periodically, and his right hand clipping through his guitar when playing it.
+
+Fixed an issue where 
+Jill Valentine
+ had clipping issues during multiple animations with the 'Sturdy Skirt' pants cosmetic.
+
+Environment/Maps
+
+Fixed an issue by adjusting a collision In the astrology room in 
+The Forgotten Ruins
+, a vault point has extended collision, blocking projectiles from being thrown through at an angle.
+
+Fixed an issue by adjusting a collision, plus moving a generator on the shrimp boat in 
+Pale Rose
+, players was remain trapped if another player was repairing the generator.
+
+Fixed an issue in 
+The Underground Complex
+ where killers could get blocked by hanging a survivor on a hook in a corridor.
+
+Fixed an issue in 
+Sanctum of Wrath
+ where killers could block the entrance to the basement on the side of the main structure.
+
+Fixed an issue in 
+Crotus Prenn Asylum
+ where 
+The Nurse
+ could not blink through the walls.
+
+Fixed an issue in 
+Treatment Theater
+ where the 
+Red Stain
+ would disappear in certain area of the map.
+
+Fixed an issue in Treatment Theater where a killer could not navigate through a door when a survivor was placed on a hook.
+
+Fixed an issue in 
+The MacMillan Estate
+ 
+Killer Shack
+, where an invisible collision hindered Survivors and Killers navigation.
+
+Fixed an issue in the realm of 
+Coldwind Farm
+ where projectiles would get blocked around the combine harvester.
+
+Fixed an issue in 
+Groaning Storehouse
+ where the players would get stuck where walking up the stairs of the basement.
+
+Fixed an issue in 
+Shattered Square
+ where projectiles would be blocked by collisions.
+
+Fixed an issue in Sanctum of Wrath where a killer could not grab survivor entering a locker.
+
+Fixed an issue in the realm 
+Withered Isle
+ where collision would block projectiles around picnic tables.
+
+Fixed an issue in the 
+Raccoon City Police Station East Wing
+ by repositioning, where a gap was visible in several places, allowing the player to see through, or out of the world.
+
+Fixed an issue where The Artist was unable to place a 
+Dire Crow
+ in front of a window vault between specific tiles in the 
+Trickster's Delusion
+ map.
+
+Fixed an issue where the passage aura color was pink on Forgotten Ruins.
+
+Fixed an issue in Crotus Prenn Asylum where characters could stand on top of a rock.
+
+Fixed an issue in 
+Badham Preschool
+ where characters could walk on top a rock.
+
+Fixed an issue in The MacMillan Estate where killers could be blocked by assets.
+
+Fixed an issue in The Underground Complex where a collision would prevent a smooth navigation.
+
+Fixed an issue in 
+Father Campbell's Chapel
+ where projectiles were blocked on the ceilings of the chapel.
+
+Fixed an issue in 
+Red Forest
+ maps where Dream Pallets would get stuck in the wall of the shack.
+
+Fixed an issue in Badham Preschool where branches clipped through the walls of house structures.
+
+Fixed an issue in 
+Grim Pantry
+ where collisions would hinder the navigation of the players.
+
+Fixed an issue in 
+Suffocation Pit
+ where collisions would hinder the navigation of the players.
+
+Fixed an issue in 
+Gideon Meat Plant
+ where collisions would hinder the navigation of the players.
+
+Fixed an issue in the 
+Raccoon City Police Station
+ where the Nurse could blink out of the world.
+
+Fixed an issue in The Underground Complex where a collision was missing over the a table in the clinic section of the map.
+
+Fixed an issue in the Yamaoka Mansion where 
+The Trapper
+ could hide the trap under an assets.
+
+Fixed issues where the Nurse could not blink through walls of the Asylum.
+
+Fixed an issue where 
+The Lich
+'s 
+Hand of Vecna
+ failed to teleport a Survivor when used on a specific locker in Badham Preschool I.
+
+Fixed an issue where the Secret Room's Chest was unable to give a Survivor a Flashlight when using the perk 
+Residual Manifest
+ on 
+Nostromo Wreckage
+.
+
+Fixed an issue where The Lich's Hand of Vecna failed to teleport a Survivor when used on a specific locker in 
+Raccoon City Police Station West Wing
+.
+
+Fixed an issue where The Lich's Hand of Vecna failed to teleport a Survivor when used on a specific locker in the Treatment Theatre.
+
+Perks
+
+Fixed an issue where 
+Hex: No One Escapes Death
+ was revealed to Survivors immediately when generators were completed.
+
+Fixed an issue where, rarely, the Aura of Fake Pallets could be seen by The Xenomorph throughout the map while using 
+Ultimate Weapon
+ and a Survivor had 
+Apocalyptic Ingenuity
+.
+
+Fixed an issue where 
+Hex: The Third Seal
+ activated when The Trickster hit a Survivor with a blade for the first time.
+
+Fixed an issue where the Heal progress bar remained grey while healing another Survivor with 
+Do No Harm
+ activated.
+
+Fixed an issue where 
+Streetwise
+'s aura reading activated with 3 Killer 
+Items
+.
+
+Fixed an issue where 
+THWACK!
+ was unable to be activated on Breakable Walls.
+
+Fixed an issue where the external perk icon for 
+Thanatophobia
+ was displayed when performing actions with no injured, downed or hooked Survivors.
+
+Fixed an issue where AFK crows could appear on Survivor's heads while working on a generator after using the perk 
+Plot Twist
+ and being picked up by the Killer.
+
+Platforms
+
+Fixed an issue where an Asynchronous Load between the Survivor and the Killer caused the Killer to load partially invisible and Uncontrollable.
+
+Fixed an issue where Player shadows could be seen at the bottom of lockers on Switch.
+
+Fixed an issue where players could not accept or view each other's profile in the friend list on the Epic Game Store version.
+
+Fixed an issue where it was unable to make progress on the "Resourceful" 
+Achievement
+/trophy.
+
+Quests
+
+Fixed an issue where selecting 
+Knockout (Remix)
+ Challenge from the Tomes whilst having a Survivor Challenge make perk randomization impossible.
+
+UI
+
+Fixed an issue in the Quests Menu where the Match queue text for Killers overlapped some Quest buttons.
+
+Fixed a localization issue with the scroll prompt in the quest menu.
+
+Fixed an issue where Keybind icon buttons were missing on the HUD when channeling interactions.
+
+Misc
+
+Fixed an issue where, rarely, the loading screen temporarily freezes on 'Initializing Shaders' screen.
+
+Fixed entity potentially making an invalid purchase move on the 
+Bloodweb
+.
+
+Fixed certain map specific achievements failing to complete in 2v8.
+
+Fixed an issue with the Survivor having the Killer Name after using 'Play While You Wait'.
+
+Fixed an issue where using 'Play While You Wait' and leaving a Survivor Lobby the priority queue for the Killer Lobby was also lost.
+
+Fixed an issue where the Flicker VFX was missing when a Survivor used a Flashlight with the 
+Broken Bulb
+ Add-on.
+
+CHANGES FROM PTB
+
+New Killer: The Slasher
+
+NEW KILLER POWER:
+
+Pinned rescues are no longer considered healing actions.
+
+The Killer husk attack now activates with a slight delay and is no longer instant upon appearing.
+
+Increased the slowdown effectiveness of the anti-camp system from x2 to x3 time in sec.
+
+Increased the movement speed penalty when cancelling the charge Projectile action.
+
+NEW KILLER ADDONS:
+
+Toxic Waste
+:
+
+Activation range increased to 8m (was 6m).
+
+Coroner's Coffee
+:
+
+Haste decreased to 8% (was 13%).
+
+Bloody Magazine
+:
+
+Detection range decreased to 8m (was 13m).
+
+Eye Goop
+:
+
+Undetectable duration increased to 13s (was 9s).
+
+Iridescent Boat Motor
+:
+
+Window block duration increased to 13s (was 5s).
+
+Deputy's Badge
+:
+
+Reworked: While in Omnipresent Evil, passing within 4m of a generator will cause it to explode, losing 5% progress and begin regressing. If any Survivors are repairing the generator, it will not explode, but they get a special 
+Skill Check
+.
+
+New Perks
+
+Silent Shadow
+:
+
+Changed the perk so that the 11/12/13s Undetectable occurs whenever you hook a Survivor, instead of at the start of the trial.
+
+Killer Power Match Details Tab
+
+Updated the default icon of Special Attack, Ranged Attack, and Special Ability to no longer reuse existing power icons.
+
+Updated all descriptions to utilize more consistent language.
+
+Updated several descriptions to provide more clarity.
+
+Reworked the description of 
+The Wraith
+, The Knight, and 
+The Skull Merchant
+ to be more accurate and in depth.
+
+Bot
+ Improvements
+
+Fixed an issue with AI characters being unable to navigate Trickster's Delusion map.
+
+Survivor Bots will now resume goals if The Slasher stays too long inside Omnipresent Evil.
+
+Fixed an issue causing Survivor Bots to continue hiding during the Slasher's Omnipresent Evil after the 
+Endgame Collapse
+ has begun.
+
+Fixed an issue with Survivor Bots not running away immediately after escaping from the wiggle state.
+
+BUG FIXES
+
+Fixed an issue where there was a missing slashing SFX when performing a jump scare on an already broken pallet/wall with The Slasher.
+
+Fixed an issue where the impact SFX is missing when damaging a generator if the Killer is not holding a projectile with The Slasher.
+
+Fixed an issue where Basic Attack SFX can be heard when performing 3 specifics interactions with The Slasher.
+
+Fixed an issue where there was missing SFX during the Lobby Idle animation for The Slasher.
+
+Fixed an issue where there was a missing SFX when vaulting with The Slasher.
+
+Fixed an issue where the weapon wipe SFX is missing after injuring a Survivor as The Slasher.
+
+Fixed an issue where Rick VO lines are triggered when Daryl joins Glenn on a generator repair.
+
+Fixed an issue where The Slasher is missing SFX when performing specific animations.
+
+Fixed an issue where Blinding SFX can be heard while aiming the flashlight at The Slasher's face during Omnipresent Evil.
+
+Fixed a prestige reward level 10 data issue with The Slasher.
+
+Fixed an issue where The Slasher's Undetectable status icon was missing when using Omnipresent Evil after injuring a Survivor.
+
+Fixed an issue where The Killer sighted SFX stinger played while The Slasher was still invisible while exiting Omnipresent Evil mode.
+
+Fixed an issue where a Survivor pinned on moving doors left a shadow in The Slasher's Red Stain when dissolving.
+
+Fixed an issue where The Slasher was unable to gain a Spike when using Jump Scare on a Window or Pallet when using the 
+Dirty Money
+ addon.
+
+Fixed an issue where jittering occurred after The Slasher picked up a Survivor Pinned to a small doorframe.
+
+Fixed an issue where, with The Slasher's 
+Iridescent Boat Motor
+ add-on, a window could be marked for an infinite amount of time.
+
+Fixed an issue where, as The Slasher, a duplicate projectile appeared briefly when pinning and unpinning a Survivor.
+
+Fixed an issue where 
+Bada Bada Boom
+ was unable to be activated by The Slasher using Jump Scare at a trapped Vault.
+
+Fixed an issue where Survivors could see spikes disappear from containers while The Slasher picked up a Spike in Omnipresent Evil mode.
+
+Fixed an issue where the time increase to remove the Spike was inaccurate for The Slasher's Add-on "
+Knitting Needle
+".
+
+Fixed an issue where The Slasher's "Dirty Money" add-on granted The Slasher a spike when teleporting to a breakable door.
+
+Fixed an issue where The Slasher gained score events when throwing a spike on a hooked Survivor.
+
+Fixed an issue where Survivors hit during an unhook could still be impaled and pushed by The Slasher's projectile before they could otherwise take damage.
+
+Fixed an issue where The Slasher's Spike became misaligned when picking up a Survivor.
+
+Fixed an issue where, rarely, The Slasher's hook projectile would not get reloaded when the Killer hooked a Survivor.
+
+Fixed an issue where Spectators were unable to perceive the mist from The Slasher's POV during Omnipresent Evil.
+
+Fixed an issue where Spectators were able to perceive The Slasher during Omnipresent Evil from the Survivor's POV.
+
+Fixed an issue where The Slasher exited a Jump Scare vault too high on specific vault points.
+
+Fixed an issue where charging the throw action during the teleport part of a Jump Scare transition automatically cancelled the throw action for The Slasher.
+
+Fixed an issue where, sometimes, pallets were desynced between users after The Slasher attempted to break them with Jump Scare while a Survivor reset them with the Perk Any Means Necessary when the Killer had high latency.
+
+Fixed an issue where The Slasher's Omnipresent Evil red mist appeared visible on other Survivors from the Spectator POV in Custom Games.
+
+Fixed an issue where The Slasher lost collision with Survivors during the reload animation.
+
+Fixed an issue where Visual issues occurred for The Slasher when using the Mini Mori before the Spike expired.
+
+Fixed an issue where The Slasher's Jump Scare range radius enlargement from the Bent Wheel Add-on was missing.
+
+Fixed an issue where Survivors appeared floating when Pinned against a specific wood scaffolding inside the library on Qtm_Level_02 tile 193B by The Slasher.
+
+Fixed an issue where The Slasher's Hook Spike pickup hitbox was misplaced for one specific Hook location in the Chalet entrance in the 
+Mount Ormond Resort
+ map.
+
+Fixed an issue where The Slasher's Scrap Piles spawned too closely to each other in their respective tiles on The Underground Complex map.
+
+Fixed an issue where placeholder text was floating below 
+Glyphs
+.
+
+Fixed an issue where Hex: Scared To Death's icon became dimmed when Survivors cleansed any Totem.
+
+Fixed an issue where Hex: Scared To Death's icon was put back in the regular disabled state when the related Hex Totem was cleansed.
+
+Fixed an issue where Windows were only blocked for 4 seconds when The Slasher vaulted with the Jump Scare alongside the Perk 
+Bamboozle
+.
+
+Fixed an issue where 
+Play With Your Food
+ stacks did not get used when using The Slasher's ranged attack.
+
+Fixed an issue where there were 2 inconsistencies with The Slasher's 
+Silent Shadow
+ Perk icons after the Perk was permanently activated.
+
+Fixed an issue where Hex: Scared to Death caused Survivors in Lockers to Scream.
+
+Fixed an issue where Hex: Scared To Death's icon stayed dimmed out after activating.
+
+Fixed an issue where The First's mini mori failed to occur after sending the input.
+
+Fixed an issue where 
+The Oni
+'s flames VFX from the "Dearest Kazan" outfit were misaligned.
+
+Fixed an issue where 
+Meg Thomas
+ stayed idle after exiting the Locker in the Survivor Tutorial.
+
+Fixed an issue where The Xenomorph's Tunnel connection aura was displayed as purple.
+
+Fixed an issue where Female Survivors' hands clipped into the floor when holding 3 item types while in the 
+Dying State
+.
+
+Fixed an issue where 
+The Deathslinger
+'s Chain progression bar UI was visible on the Survivor's POV after they broke free from the Killer power.
+
+Fixed an issue where a Survivor could pick up an item from outside The Lich's chest.
+
+KNOWN ISSUES
+
+On Nintendo Switch, The Slasher will temporarily only be available through the in-game store. The new DLC content will be available via external stores at the following times:
+
+Jason DLC
+ - June 18th at 11AM ET
+
+Jason Edition - June 18th at 11AM ET
+
+10th Anniversary Edition - June 18th at 1PM ET
+
+Hotfix 10.0.1
+
+FEATURES
+
+CONTENT
+
+NEW SURVIVOR: 
+Shane Wiigwaas
+ (RELEASED ON JUNE 25TH)
+
+New 
+Survivor
+ 
+Perks
+
+Wide Open Throttle
+
+Whenever you fast-vault a 
+Pallet
+:
+
+You gain 
+10/12.5/15% Haste
+ for 
+3s
+.
+
+The Pallet is reset, blocked for 
+60s
+, and all Survivors see its 
+Aura
+ for that time.
+
+Cooldown: 
+60s
+.
+
+Lend a Hand
+
+Whenever you 
+bless
+ or 
+cleanse
+ 1 
+Totem
+, while 
+healing
+ another Survivor and only once per Survivor, use "
+F
+" to give them 
+2/3/4
+ permanent healing charges.
+
+Cross-Examination
+
+While in the 
+Killer
+'s 
+Terror Radius
+, the Killer leaves Light Marks that last for 
+10s
+ that you can see. While on the Killer's Light Marks, you gain 
+Elusive
+. This ends after 
+3/4/5s
+.
+
+Cross-Examination (Bugfix 3 change)
+
+While in the Killer's Terror Radius and not being chased by the Killer, the Killer leaves Light Marks that lasts for 
+10s
+ that you can see. While on the Killer's Light Marks, you gain 
+Elusive
+*. This ends after* 
+3/4/5s
+*.*
+
+Added the "not being chased by the Killer" to perk conditions
+
+Event
+
+The 10th Anniversary "
+Black Banquet
+" event will start Thursday, June 25th at 11:00 AM Eastern.
+
+You are cordially invited to the Black Banquet, where you are free to experience the finest dining The Fog has to offer. Join our prestigious guests and take your highly coveted seat at the table. A luxurious evening of decadence and gluttony awaits.
+
+Event Matches feature a Main Course and a Dessert, with each one offering a unique gameplay experience to feast on.
+
+Main Course: Takes place from the start of the match until 4 
+Generators
+ are completed OR 1 Survivor remains.
+
+Dessert: After Main Course until the end of the match
+
+At the start of each Trial, the 
+Menu of the Day
+ will be selected and dictate 3 effects that will persist throughout the match:
+
+A Global Effect that persists through the entire Main Course
+
+A Personal Effect granted to Survivors dining on Morsels found at Dining Carts
+
+A Payoff Effect for Survivors that place enough Morsels of food on Banquet Tables in the map
+
+Killers gain a powerful Poison they can throw at Survivors or secretly poison objects with. Poison limits Survivor Sprinting while it’s active.
+
+The 3 Menu of the Day with their themes are:
+
+Stuffed Trotters:
+ 
+Speed
+
+Creamy Pasta:
+ Pallets & Invincibility
+
+Baked Camembert:
+ 
+Portals
+ & Invisibility
+
+See the in-game Gameplay Details for more information.
+
+Bug Fixes
+
+Audio
+
+Fixed an issue causing too much delay between healing end and saved voiceover.
+
+Fixed an internal issue causing a missing Killer voiceover in certain scenarios.
+
+Refactored all survivors & killers to say their intended lobby voiceover in the audio system.
+
+Fixed an issue where killer subtitles were appearing during survivor point of view, whilst the killer is out of visual range.
+
+Fixed an issue causing muffled environment audio a few seconds after starting a trial.
+
+Fixed an issue where 
+The Cannibal
+'s 
+Chainsaw
+ SFX was still playing when carrying a Survivor.
+
+Fixed an issue where Pallet stun stinger SFX was missing for 
+Jason
+.
+
+Fixed an issue where the wrong SFX was played during the Trial Intro animation for 
+The Trickster
+.
+
+Fixed an issue causing the VO grunts of 
+The Spirit
+ to keep being from her 
+Tomie
+ customization after switching outfits.
+
+Fixed an issue when playing against 
+The Artist
+, Survivors would not receive the 
+Exposed
+ SFX from the 
+Garden of Rot
+ 
+Add-on
+ after removing 
+Crows
+
+Fixed an issue where 
+The Dark Lord
+’s Terror Radius lingered before ending after shapeshifting to 
+Bat Form
+.
+
+Fixed an issue where The Slasher’s teleport mist played break audio when aimed at a dropped pallet.
+
+Characters
+
+Fixed an issue where 
+The Nurse
+ was missing a fire effect with a specific customization.
+
+Fixed an issue where 
+The First
+ has a deformed eye and a pointy nose during a 
+Mori
+ in 
+Worldbreaker
+ mode.
+
+Fixed an issue where as The First, Survivors getting hit with a 
+Vine Attack
+ while dropping a pallet would not enter the floating state
+
+Fixed an issue where 
+The Knight
+'s 
+Guards
+ pathing behaved incorrectly around dropped pallets during a 
+Chase
+.
+
+Fixed an issue where The Knight did not have highlight aura feedback for guard orders on pallets.
+
+Fixed an issue where 
+The Animatronic
+ was missing 
+Flashlight
+ immunity when grabbing a Survivor 0inside a doorway.
+
+Fixed an issue where The Dark Lord's 
+Wolf Form
+ backward movement speed incorrectly remained at 4.6 m/s.
+
+Fixed an issue where 
+The Mastermind
+ could not freely move the camera between dash buffers.
+
+Fixed an issue where visual issues occurred when The Slasher performed a Mini Mori near the end of a Spike's duration
+
+Fixed an issue where Survivors briefly appeared impaled after being unpinned by The Slasher.
+
+Fixed an issue where The Mastermind's 
+Virulent Bound
+ dash reset animation played too early.
+
+Fixed an issue where 
+The Deathslinger
+ performing a basic attack while a Survivor was affected by their power could crash the application.
+
+Fixed an issue where The Slasher’s Mini Mori animation was misaligned on downed impaled Survivors.
+
+Environment/Maps
+
+Fixed an issue in 
+Sanctum of Wrath
+ where the players could climb up a rock
+
+Fixed an issue in 
+Trickster's Delusion
+ where 
+The Legion
+ could not fast vault over a pallet in the market area
+
+Fixed an issue in 
+Raccoon City Police Station
+ where 
+The Singularity
+ could send 
+Biopod
+ out of the environment
+
+Fixed an issue in 
+Ormond Lake Mine
+ where projectiles can be blocked over some assets
+
+Fixed an issue in Raccoon City Police Station where 
+The Nurse
+ can blink out of the environment
+
+Fixed multiple issues in Trickster's Delusion where the players could climb up little assets on the ground
+
+Fixed an issue in 
+Dead Dawg Saloon
+ where players jitter when interacting with the clock of The First
+
+Fixed an issue in 
+Autohaven Wreckers
+'s realm where the players could climb up a rock
+
+Fixed an issue in 
+Badham Preschool
+ where the killers would get stuck between hedges
+
+Fixed an issue in 
+MacMillan Estate
+ where the players could climb on top of a rock
+
+Fixed an issue in Ormond Lake Mine where the Nurse cannot blink through the silos
+
+Fixed an issue in 
+Nostromo Wreckage
+ where the Nurse can blink and get stuck in the shuttle
+
+Fixed an issue in 
+Forgotten Ruins
+ where the players could climb on top of assets
+
+Fixed issue in 
+Toba Landing
+ where players could climb on top of assets
+
+Fixed an issue in 
+Eyrie of Crows
+ where players would get stuck on hugging the walls of the shack when going down the stairs of the 
+Basement
+
+Fixed issue in 
+Grim Pantry
+ where it was missing projectile collision around Cabin walls
+
+Fixed an issue where 
+The Lich
+'s 
+Hand of Vecna
+ failed to teleport Survivors in Badham Preschool 
+Lockers
+.
+
+Fixed an issue where The Knight’s patrol path extended too far on the bottom floor of the 
+Gideon Meat Plant
+ map.
+
+Fixed an issue where The Lich’s Hand of Vecna failed to teleport Survivors in 
+Raccoon City Police Station West Wing
+ lockers.
+
+Fixed an issue where The Lich’s Hand of Vecna failed to teleport Survivors in 
+Treatment Theatre
+ lockers.
+
+Perks
+
+Fixed an issue where the scream notification bubble appeared for the last remaining Survivor affected by 
+Hex: Face the Darkness
+.
+
+Fixed an issue where the Perk 
+Alert
+ would trigger twice when the Knight used a Guard to Break Pallet.
+
+Fixed an issue where the perk 
+Hex: The Third Seal
+ would activate incorrectly when The Trickster hit a Survivor with a blade for the first time.
+
+Fixed an issue where 
+Buckle Up
+ could not activate while recovering with 
+Conviction
+.
+
+Fixed an issue where the Perk 
+For the People
+ could not be used a second time.
+
+Fixed an issue where 
+A Nurse's Calling
+ incorrectly revealed the auras of Survivors being healed from the 
+Dying State
+.
+
+Fixed an issue where Wide Open Throttle did not go on cooldown when triggering 
+Dissolution
+.
+
+UI
+
+Fixed an issue where the stamina bar would stay on screen until the end of the match when monitoring the Animatronic's 
+Security Terminal
+ while poisoned.
+
+Fixed an issue where the mending bar would appear and stay on screen when a survivor would interact with a 
+Security Cameras
+.
+
+Fixed an issue where spectators could not see The Slasher’s mist during 
+Omnipresent Evil
+.
+
+Fixed an issue where Survivors would incorrectly get the failed skill check animation when restarting work on the 
+Lament Configuration
+.
+
+Fixed an issue where Omnipresent Evil red mist was incorrectly visible on other Survivors in spectator view.
+
+Fixed an issue where 
+Spine Chill
+ duration indicator would flicker when the Survivor stood at the edge of the Killer's line of sight.
+
+Misc
+
+Fixed an issue where "Save Game Error" could close the application.
+
+Fixed an issue causing player controller inputs to register when using the mouse & keyboard.
+
+Fixed an issue where confetti VFX were missing from two Event 
+Med-Kits
+.
+
+CHANGES FROM RELEASE
+
+New Perks
+
+Lend a Hand:
+
+Changed the perk so the effect can be used multiple times (still only once per other Survivor) as long as you fulfill the condition again, instead of only once per match.
+
+KNOWN ISSUES
+
+During Regular and Custom Trials, Spectator will not be able to leave until Trial ends (Spectator will leave automatically right after).
+
+Hotfix 10.0.2
+
+IMPORTANT
+
+The 
+Doctor
+ has been re-enabled in the 10th Anniversary Event queue.
+
+CONTENT
+
+Killer
+ 
+Add-on
+ Updates
+
+The 
+Slasher
+'s add-ons
+
+Deputy's Badge
+ (Very Rare)
+
+While in 
+Omnipresent Evil
+, passing within 2m of a generator will cause it to explode. (was 4m)
+
+No longer triggers on regressing 
+Generators
+ (Bug Fix)
+
+Bug Fixes
+
+10th Anniversary Event - Black Banquet
+
+Changed the rarity of the 
+Toothy Torte
+ Cake offering from Very Rare to Common.
+
+Fixed an issue where 
+Survivors
+ were unable to 
+Snap Out Of It
+ against The Doctor when holding a Morsel.
+
+Fixed an issue where Fully infected Survivors were able to infect event interactables when playing against The 
+Plague
+.
+
+Fixed an issue where only 3 Portals spawned in 
+The Game
+ map making one unable to be interacted with.
+
+Fixed an issue where, rarely, it was impossible to interact with a 
+Portal
+ in the 
+Family Residence
+ map.
+
+Fixed an issue where the Poison VFX remained on assets during the 10th Anniversary event.
+
+Fixed an issue where The 
+Legion
+'s power did not go on cooldown when throwing 
+Poison
+ as it was ending.
+
+Fixed an issue where a blue stain would appear on the Survivor when consuming an Invisibility Morsel while being close to The 
+Unknown
+.
+
+Fixed an issue where a placeholder interaction sphere appeared around The 
+Houndmaster
+'s dog 
+Snug
+ when catching a Survivor that consumed an Invisibility Morsel.
+
+Fixed an issue where the Poison Throw SFX would loop infinitely when the throw was canceled by the Dessert phase transition.
+
+Audio
+
+Fixed an issue where some 
+Castlevania
+ customizations were not playing the Collection music.
+
+Fixed an issue where the cooldown of an audio node could miss a timer assignment.
+
+Fixed a further unintended longer delay between 
+Healing
+ end & saved voice overs.
+
+Fixed two issues causing 
+Tomie
+'s audio to persist in following trials against The 
+Spirit
+.
+
+Fixed an incorrect voice line for The 
+First
+ when activating 
+Worldbreaker
+ mode.
+
+Fixed an issue causing Killer and Survivor voice lines to be played in English, regardless of the Voice Language selection setting.
+
+Fixed an issue where audio distortion could be heard when escaping through the 
+Exit Gate
+ while the 
+Endgame Collapse
+ timer was almost done.
+
+Characters
+
+Fixed an issue where some Survivors could pick up an item from outside The 
+Lich
+'s chest when positioned to the left, right, or backward.
+
+Fixed an issue where the bottom teeth of 
+Nancy Wheeler
+ or 
+Alan Wake
+ (
+Rose Marigold
+ Outfit) would clip inside the top lip when the Survivor attempts to 'Escape' while on a 
+Hook
+.
+
+Fixed an issue where The 
+Skull Merchant
+ was able to deploy a 
+Drone
+ under a hooked Survivor. Causing the Drone to instantly be refunded.
+
+Fixed an issue where The 
+Wraith
+'s Suppression of the 
+Red Stain
+ and 
+Terror Radius
+ after Uncloaking were missing with the 
+"The Ghost" - Soot
+ Add-On.
+
+Fixed an issue where Survivors could be misaligned when getting pinned by The Slasher.
+
+Fixed an issue where Survivors with high ping were pinned to walls backward when moving away from The Slasher.
+
+Fixed an issue where The 
+Mastermind
+ could rarely softlock when performing a quick double dash with high ping.
+
+Fixed an issue where Survivors' shadows remained visible while The Slasher was inside the Omnipresent Evil.
+
+Fixed an issue where The 
+Demogorgon
+ became invisible when Teleporting to a Portal with a Survivor on top when the player was lagging.
+
+Fixed an issue where the Survivor kept the 
+Remote Flame Turret
+ when in 
+Dying State
+ against The 
+Xenomorph
+.
+
+Fixed an issue where Survivors traveled a much shorter distance when hit by the 
+Killer Power
+ of The Mastermind or The Slasher when both were at high ping.
+
+Fixed an issue where The 
+Nightmare
+'s 
+Black Box
+ Add-On was unable to apply the Linger Effect.
+
+Fixed an issue where The Slasher's 
+Dirty Money
+ Add-On consumed 2 tokens on a 
+Jump Scare
+ vault.
+
+Fixed an issue where The 
+Cenobite
+ could teleport under the map or inside the ground when teleporting to a Survivor using the 
+Lament Configuration
+.
+
+Fixed an issue where The 
+Deputy's Badge
+ Add-On applied its regression effect on already regressing generators.
+
+Fixed an issue where The Deputy's Badge could activate during the Jump Scare teleport for The Slasher.
+
+Environment/Maps
+
+Fixed an issue where the closed guillotine doors in 
+Grim Pantry
+ had no collision.
+
+Fixed an issue in 
+Badham Preschool
+ where the 
+Vile Purge
+ is blocked by an invisible collision.
+
+Fixed an issue where the Killer can't interact with the 
+Hatch
+.
+
+Fixed an issue in the 
+Thompson House
+ where screen goes black when blinking in part of the map.
+
+Fixed an issue in 
+Toba Landing
+ where The Houndmaster's Dog can't 
+Vault
+ over a window.
+
+Fixed an issue in 
+Raccoon City Police Station
+ where The Slasher can't reach and grab a survivor between two assets.
+
+Fixed an issue in 
+Trickster's Delusion
+ where players can climb on top of the environment.
+
+Fixed an issue in the 
+Crotus Prenn Asylum
+ where grass is floating on top of a hill.
+
+Fixed an issue in Badham Preschool where assets would too spawn close to each other and prevent players to navigate.
+
+Fixed an issue in 
+Fractured Cowshed
+ where there was an extra collision on the stairs.
+
+Fixed an issue in 
+Ironworks of Misery
+ where The Plague's Vile Purge would be blocked by an invisible collision.
+
+Fixed an issue in Trickster's Delusion where The Slasher could teleport into a blocker.
+
+Fixed an issue in 
+Mount Ormond Resort
+ where The Demogorgon portal would float above the ground placed on the second floor of the building.
+
+Fixed an issue in the Realm of 
+Coldwind Farm
+ where the trap of The 
+Trapper
+ appears to be floating.
+
+Fixed an issue in Trickster's Delusion where the introduction camera clips in The Houndmaster.
+
+Fixed an issue in Mount Ormond Resort where the base of a 
+Totem
+ is clipping in the snow.
+
+Perks
+
+Fixed an issue where 
+Cross-Examination
+, could be triggered by 16 ranged Killer powers.
+
+Fixed an issue where 
+Object of Obsession
+ was unable to be activated when getting unhooked with 
+Shoulder the Burden
+.
+
+Fixed an issue where the "Lend A Hand" prompt was displayed on the same Survivor after the charges were used.
+
+Fixed an issue where 
+Buckle Up
+ activated with the perk 
+Conviction
+, this was previously amended in error.
+
+Misc
+
+Fixed an issue where the Tome Challenge "Shared Task" was unable to be completed.
+
+Hotfix 10.0.3
+
+CONTENT
+
+Killer
+ Updates
+
+The 
+Slasher
+
+Jump Scare
+ anti-camp penalty no longer applies across multiple floors
+
+Perk
+ Updates
+
+New 
+Survivor
+ Perks
+
+Cross-Examination
+
+While in the Killer's 
+Terror Radius
+ and not being 
+chased
+ by the Killer, they leave Light Marks that last for 
+10s
+ that you can see. While on the Killer's Light Marks, you gain 
+Elusive
+. This ends after 
+3/4/5s
+.
+
+Killer 
+Add-on
+ Updates
+
+The Slasher's add-ons
+
+Sauna Rock
+:
+
+After a Jump Scare, inflict all Survivors within 
+Killer Instinct
+'s detection range with 
+Exhausted
+ for 
+3 seconds
+. (
+was 13 seconds
+)
+
+Two Nails
+:
+
+Spikes that come within 1  metre of a Survivor reveal their 
+Aura
+ for 
+5 seconds
+. (
+was 6 seconds
+)
+
+Mirror Shards (Omnipresent Evil)
+:
+
+Impaled Survivors become 
+Broken
+ for 
+40 seconds
+ after extracting the Spike. (
+was 30 seconds
+)
+
+Toxic Waste
+:
+
+After a Jump Scare, Survivors within 10  metres of a hook or Scrap Pile gain 
+Oblivious
+ for 
+13 seconds
+. (
+was 8  metres
+)
+
+Sleeping Bag
+:
+
+After grabbing a Hook Spike while in 
+Omnipresent Evil
+ mode, see the locations of Survivors within 
+10  metres
+ of 
+Hooks
+. (
+was 8  metres
+)
+
+Party Noisemaker
+:
+
+Breaking a 
+Pallet
+ or 
+Breakable Wall
+ with Jump Scare reveals the Auras of Survivors further than 28  metres for 6 seconds. (was 32  metres)
+
+Summer Screams Event
+
+The Summer Screams event will be live from July 28th 11:00EDT - August 18th 11:00EDT. Featuring 
+Chaos Shuffle
+, 
+Lights Out
+ and 
+2v8
+, each event will be active for 1 week at a time starting with Chaos Shuffle. Check out the available quests in order to receive rewards!
+
+Week 1: Chaos Shuffle (July 28 - August 4)
+
+Week 2: Lights Out (August 4 - August 11)
+
+Week 3: 2v8 (August 11 - August 18)
+
+Game Mode
+ Updates
+
+Lights Out
+
+Survivors holding the 
+Lantern
+ will now see the Auras of Pallets, 
+Vaults
+, and Breakable Walls within 32m
+
+Gate
+ interaction points will now remain lit once all objectives have been completed
+
+Deep Wounds
+ and 
+Anti-camp
+ bars are now visible again
+
+Added support for the 
+Fog Vial
+
+Fixed an issue where the lighting is inconsistent and can appear overly dark or bright on Xbox Series X
+
+Chaos Shuffle
+
+All Perks and Add-ons now available to be assigned
+
+Bug Fixes
+
+2v8
+
+Fixed an issue where The 
+Nemesis
+ zombies could become stuck on 
+Sanctum of Wrath
+.
+
+Fixed an issue where Killer chests did not have their Aura revealed when facing The Nemesis and The 
+Mastermind
+ together.
+
+Fixed an issue where Survivors could see the Aura of the 
+Cage of Corruption
+ while in a 
+Locker
+.
+
+Fixed an issue where trapped Survivors were missing the trapped animation after stepping in The 
+Trapper
+'s 
+Bear Trap
+ while also being contaminated by The Nemesis.
+
+Fixed an issue where a Survivor caught in a Bear Trap could be sent into a Cage of Corruption twice against The Trapper and The Mastermind.
+
+Fixed an issue where it was unable to Drop the 
+First Aid Spray
+/
+Antidote
+ after being used by a different Survivor.
+
+Fixed an issue where certain map specific achievements were not being awarded in correctly.
+
+Audio
+
+Fixed an issue where 
+Walking Dead
+ characters were not playing the right VO line during their interactions.
+
+Fixed an issue where 
+Ice Nine Kills
+ music wasn't playing when equipped with collection items.
+
+Fixed an issue where The Slasher 'Jump Scare' cause the Survivors in Lockers to Scream.
+
+Fixed an issue where Survivors 
+Fully Healed
+ Voice line triggers when partially healed.
+
+Fixed an issue where the bananas emit a metallic sound when hit by a projectile on 
+Trickster's Delusion
+ map.
+
+Fixed an issue where the hook voice over played too late when transitioning from phase 1 to phase 2.
+
+Fixed an issue where Survivors exit gate dialog triggered at the same time the door opens, which was making it hard to hear.
+
+Fixed an issue where the incorrect voice lines played for Killers & Survivors regardless of their language setting.
+
+Fixed an issue where the lullaby for the 
+Facemelter Eddie
+ legendary cosmetic was lower than intended.
+
+Characters
+
+Reverted a fix that prevented The 
+Skull Merchant
+ from deploying 
+Drones
+ when above/below a Hooked Survivor.
+
+Dev Note: The issue that the fix attempted to solve will be back, which made Drones disappear after being deployed, regardless of being out of the vertical range for Drone anti-camp. This is unintended and is under investigation.
+
+Fixed an issue where as The 
+Animatronic
+, the 
+Blighted Springtrap
+'s Mouth Animation was unable to be seen at the end of the Killer's 
+Mori
+.
+
+Fixed an issue where as The 
+Dark Lord
+ using the wolf form, the Killer could perform an extra attack right before the Pounce cooldown.
+
+Fixed an issue where Survivors downed by The Mastermind's vault attack while working on a 
+Generator
+ kept repairing while downed.
+
+Environment/Maps
+
+Fixed an issue in 
+Eyrie of Crows
+ where the traps could not be placed properly on the second floor of the main building.
+
+Fixed an issue in 
+Torment Creek
+ where traps could be placed under the ground near the window.
+
+Fixed an issue in 
+Toba Landing
+ where The 
+Nurse
+ can blink through the ground.
+
+Fixed an issue in 
+Treatment Theater
+ where The 
+Executioner
+'s 
+Punishment Of The Damned
+ attack is blocked in the middle of the main room.
+
+Fixed an issue in 
+Dead Dawg Saloon
+ where The Nurse can blink on top of the small structures.
+
+Perks
+
+Fixed an issue where Hex Statuses were hidden from Survivors when a Hex was reactivated by the Perk '
+Hex: Undying
+'.
+
+Fixed an issue where the perk 
+Visionary
+ would not reveal generator auras when exiting a Locker, after the cooldown was completed.
+
+Fixed an issue where the Perk '
+Plot Twist
+' could be reused when picked up or dropped by a Killer.
+
+Fixed an issue where the aura of the Perk 
+Hex: No One Escapes Death
+ was missing for the Survivor POV.
+
+Fixed an issue where the Perk 
+Deathbound
+ caused Survivors that previously healed another Survivor to scream again.
+
+Fixed an issue where the Perk 
+Deerstalker
+ was unable to reveal a Survivor for an additional 2 sec when equipped with the Perk 
+Eyes of Belmont
+.
+
+Fixed an issue where the Perk 
+Shadowborn
+ failed to activate when 
+Rampage
+ had tokens.
+
+UI
+
+Fixed an issue where The Slasher's 
+Dirty Money
+ Add-On remained dimmed when active.
+
+Fixed an issue where Into the Fog Tooltips for Perk Related Quests did not show the associated Perk.
+
+Fixed an issue where The 
+Oni
+'s 
+Blood Fury
+'s prompt was missing an indication that it must be held to activate.
+
+Fixed an issue where Survivor Skills always appeared Unlocked in the Match Details screen.
+
+Fixed an issue where alternating from Chaos Shuffle to Normal Trial erased saved loadouts.
+
+Fixed an issue where there was no HUD or UI feedback indicating The Oni's Blood Fury prompt had to be held to activate.
+
+Misc
+
+Fixed an issue where Survivors were unable to wiggle when being grabbed while having a 
+Skill Check
+.
+
+Fixed an issue causing the 
+Entity
+ to make an illegal purchase move in the 
+Bloodweb
+.
+
+Fixed an issue where leaving the Survivor queue in Play While You Wait would reset the Killer priority queue.
+
+KNOWN ISSUES
+
+Stake Out
+ tokens are sometimes consumed by Snap Out of It skillchecks when facing The 
+Doctor
+.
+
+Dev Note: This is unintended and will be fixed in a future release.

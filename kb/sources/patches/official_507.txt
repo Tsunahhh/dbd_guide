@@ -1,0 +1,110 @@
+# Developer Update | May 2025 - BHVR
+Source: https://forums.bhvr.com/dead-by-daylight/kb/articles/507 (consulté le 27/09/2026)
+
+The 9.0.0 Update will be here before we know it, so it's time once again to take a look at the notable gameplay changes you can expect from tomorrow’s Public Test Build. As with last time, stay tuned for the PTB Patch Notes where we’ll share the precise values that are changing for each of the topics below!
+Read on for all the details:
+NEW FEATURES
+Added a system to identify whether a Survivor’s sacrifice is an intentional attempt at “going next”.
+If a player is identified as intentionally “going next”, they will receive a Disconnection Penalty Point.
+Removed the option to self-unhook on first hook stage unless they have one of the following equipped:
+Slippery Meat perk
+Up the Ante perk
+A Luck offering
+Added “unlocks the ability to attempt to unhook yourself” effect to Luck offerings.
+Survivors are no longer instantly killed after two struggle skill checks pass without any input.
+Please note: The Disconnection Penalty system is not active on the PTB, so certain facets of the “going next” penalization will not be available to test.
+DEV NOTE
+: We’ve made the above changes in order to tackle “going next” from two directions: penalizing repeat offenses and limiting exploitability of self-unhooks. By restricting early-match self-unhooks to specific perks and offerings, this still allows players to work it into their strategy while limiting cases where it’s used in bad faith.
+Updated AFK detection system.
+Reminder: If a player is considered AFK crows will gradually begin spawning above the Survivor, beginning with 1 and capping at 3.
+Once a Survivor has 3 crows following them, they lose collision with other players.
+DEV NOTE
+: With this updated system, we’ve adjusted how the game identifies players who have stopped contributing to a match. While the crow system largely functions as before, an additional effect at 3 crows prevents Survivors from intentionally griefing teammates with body blocking, while also preventing the Killer from holding Survivors hostage.
+Added an Auto Bloodweb button which allows you to set how many levels you want to automatically progress through, Bloodpoints permitting.
+DEV NOTE
+: It’s no secret this is one of the most common community requests, so we’re excited to put this in your hands! It’s what it says on the tin, so check out this GIF. Even better, we’ve removed some recurring pop-ups after you see them once to make your time in the Bloodweb even more snappy.
+Updated the Mori system so that it can now also be activated when 2 or more Survivors are dead, and the following occurs:
+The second-last Survivor is Hooked and on Struggle Phase
+The final Survivor is in one of the following states (Healthy, Injured or Dying)
+DEV NOTE
+: With this change, Killers will be able to activate their Mori earlier – so long as victory is assured – removing the need to wait for any hooked Survivors to be Sacrificed. This will let players on both sides get back into the action sooner.
+Map offerings grant a flat percentage chance of being sent to the associated Realm. This chance is no longer a guarantee.
+Map offerings no longer stack their effects.
+Map and gameplay-affecting offerings are treated as secret during the loading screen reveal.
+DEV NOTE
+: By making map and gameplay-affecting offerings secret on loading screens, our intention is to preserve the element of surprise, preventing the opposing role from starting the match with knowledge of your strategy.
+Adjusted the following spawn rules:
+Survivors spawn as close together as possible
+Survivors spawn on the same floor (where applicable)
+The Killer will not spawn at the center of small maps
+Changed the name of Shroud of Separation to Shroud of Vanishing and changed its effect to nullify offerings that change Survivor spawn locations.
+Changed the name of Shroud of Binding to Shroud of Separation and changed its effect to spawn Survivors apart from one another.
+DEV NOTE
+: With these changes to spawn rules, players will find their spawn locations to be more consistent when not affected by offerings.
+We also know certain Shroud offerings have historically worked counter to what each role might want, so we’ve adjusted them to better line up with these expectations.
+Added a Video category to the Graphics Settings menu.
+Added a Brightness setting to the Video category to adjust Gamma.
+DEV NOTE
+: Dead by Daylight is a game that relies heavily on the play between light and dark, which can be difficult to strike a balance between when playing on console, given the more limited options available. To help alleviate this, we’ve added a setting for adjusting Gamma, which gives players more control over how light and dark elements are displayed.
+Lowest Setting
+Highest Setting
+Increased spectator slots in Custom Game to 5.
+Added hotkey inputs to Custom Game spectating to quickly switch the view to a specific character and cycle through character views one-by-one.
+Added controller support for the above improvements.
+DEV NOTE
+: Not only is Custom Match a way to easily play with friends, it’s also a valuable tool for coordinating tournament play. To help streamline its use in these environments, we’ve added hotkey support to various methods of view-switching to make casting on-the-fly even easier. Plus, with increased spectator slots, tournament organizers have the option to give viewers visibility of all players in a match at once.
+Even better, we have more improvements coming to Custom Match in a future update. Stay tuned for more on this!
+KILLER UPDATES
+Adjusted several Add-Ons.
+DEV NOTE
+: Overall, The Artist is in a solid place balance-wise and boasts useful add-ons that meaningfully change how her kit works. To encourage even more pick variety among these, we’ve adjusted her top and bottom-performing add-ons to bring their usefulness more in line with her other options.
+Stay tuned for the patch notes for specific details on these changes.
+All of The Lich’s Spells are available at the start of a Trial.
+Reduced cooldowns of all Spells.
+Dispelling Sphere's projectile moves quickly when first cast and slows down over time.
+Increased the Killer Instinct duration once Survivors exit Dispelling Sphere.
+Increased the attack cooldown period after Fly ends.
+Increased the duration and movement speed of Fly.
+Adjusted Mage Hand hold time to make it consistent for both Killers and Survivors, resolving a known bug.
+Increased the effects of Magic Items when casting the associated Spells.
+Adjusted several Add-Ons.
+DEV NOTE
+: For The Lich, much of his power focuses on providing utility over reliably injuring Survivors. We’ve adjusted his four Spells to increase the frequency with which they can be used to ensure there’s more spell-slinging, while quality-of-life adjustments help make these Spells feel smoother to use.
+On the Survivor side of things, we also wanted to ensure Magic Items feel like more viable options for countering each Spell, so we’ve buffed them slightly.
+PERK UPDATES
+Updated
+Call of Brine
+Updated
+Dark Devotion
+Updated
+Hex: Retribution
+Updated
+Machine Learning
+Updated
+Superior Anatomy
+Updated
+Terminus
+Updated
+Thrilling Tremors
+Updated
+THWACK!
+DEV NOTE
+: We’ve adjusted values on the above perks which boasted lower pick and kill rates to introduce small buffs to increase their viability. Stay tuned for the patch notes for specific details on these value changes.
+Updated
+Botany Knowledge
+Updated
+Champion of Light
+Updated
+Counterforce
+Updated
+Desperate Measures
+Updated
+Empathic Connection
+Updated
+Exultation
+Updated
+Light-Footed
+DEV NOTE
+: Similar to the above, we updated values on some perks with lower performance, introducing small buffs. We’ll share the exact values in the coming patch notes.
+Until next time...
+The Dead by Daylight Team

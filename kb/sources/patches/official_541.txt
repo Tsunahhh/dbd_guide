@@ -1,0 +1,110 @@
+# 9.5.2 | Bugfix Patch - BHVR
+Source: https://forums.bhvr.com/dead-by-daylight/kb/articles/541 (consulté le 27/09/2026)
+
+Gameplay Features
+Killer Update - The Trickster
+Laceration Meter decay delay increased to
+16s
+(was 12)
+.
+The Trickster's Add-ons - Updates
+Common – Trick Pouch
+Increases maximum carried Blades by
+8
+.
+(was 4).
+Start the Trial with
+8
+extra Blades.
+(was 4).
+Common – Killing Part Chords
+Increases time before Style Ranks from D to A decay by
+50%
+.
+(was 20%).
+Uncommon – Tequila Moonrock
+Increases Throw Speed by
+8%
+for 10 seconds after gaining a Style Rank.
+(was 15%).
+Uncommon – Lucky Blade
+On every eighth Blade Hit, an additional bonus is assigned at random:
+Increases Throw Speed by
+5%
+for
+5 seconds
+.
+(was 8% for 8 seconds).
+Gain 3% Haste for
+6 seconds
+.
+(was 3 seconds).
+Gain an additional Style Point.
+Uncommon – Bloody Boa
+Decreases the speed at which Laceration decays by
+75%
+.
+(was 25%).
+Rare – Waiting For You Watch
+Survivors whose Laceration Meter fully decays are revealed for
+10 seconds.
+(was 4 seconds).
+Rare – Ripper Brace
+For each Style Rank, you basic-vault Windows, basic-break Pallets or Breakable Walls, and damage Generators
+6%
+faster.
+(was 3%).
+Visceral – Death Throes Compilation
+Refills Blades by
+75%
+of the maximum when Main Event ends.
+(was 50%).
+The Trickster's Add-ons - Reworks
+Common – Inferno Wires
+Increases the Style Rank timer of S-Rank by 20%.
+Rare – Fizz-Spin Soda
+Decreases the number of Blade Throws required to increase Throw Speed by 2.
+Rare – On Target Single
+Increases the duration of Main Event by 0.5 seconds for each Blade hit while in S-Rank, up to a maximum of 20 seconds.
+Bug Fixes
+Audio
+Fixed an issue where Globally, Survivors in a building can hear The Huntress' Lullaby from any distance.
+Fixed an issue where The Unknown's Mask customization plays the male voice lines always.
+Fixed an issue where Richter Belmont's is missing audio in the intro animation.
+Fixed an issue where Static audio can be heard when Eleven is breathing in-game.
+Fixed an issue where Multiple outfits don't have the Menu theme of their respective collection.
+Fixed an issue where The Creeping Fog. 5. journal entry is missing audio.
+Fixed an issue where 2 walls of the shop emit a metallic or a glass breaking sound when hit in Tricksters Delusion Map.
+Blood Moon
+Fixed an issue where the Stop Leak action could be performed while holding a Blood Can.
+Bot Improvements
+Fixed an issue causing Bots to be unable to complete multiple charged interactions.
+Characters
+Fixed an issue where the crawling animation for female Survivors wasn’t playing properly.
+Fixed an issue where The Clown outfit “Lethal Scarecrow” was missing the bottom part of the pants during kick animations.
+Fixed an issue where repairing a generator as Lara Croft while equipping the Teal Throwback cosmetic caused dislocated arms.
+Fixed an issue where The Mastermind was unable to interrupt vaulting Survivors during Virulent Bound cooldown animation.
+Fixed an issue where The Mastermind was unable to move after Missing 1 Virulent Bound with 2 charges left.
+Fixed an issue where it was possible to consume all of The Mastermind's Dash Tokens while holding the Dash Input.
+Fixed an issue where The Mastermind's Virulent Bound Dash had a small delay between the first and second Dash.
+Environment/Maps
+Fixed an issue where the lighting in the basement was incorrect in Trickster's Delusion, Greenville Square, Freddy Fazbear's Pizza, Fallen Refuge, and Ormond Lake Mine.
+Fixed an issue in Pale Rose where a trap was floating in a hole of the structure.
+Fixed an issue in Treatment Theater where a hook was stuck in assets.
+Fixed an issue in Ironworks of Misery where two totems would spawn close to each other.
+Fixed an issue in Rancid Abattoir where a collision is placed above the visual asset.
+Fixed an issue in Toba Landing where Snug could not vault off a ledge of the main building.
+Fixed an issue in Treatment Theater where a Pool of Devotion could not be interacted with.
+Fixed an issue in Pale Rose where it was impossible to place a trap in certain locations on the second floor of the Ferry Boat.
+Perks
+Fixed an issue where the Perk Quick & Quiet could be used just before the cooldown ends, which made the Vault silent to the Survivor.
+UI
+Fixed an issue where a red glow was appearing behind Prestige levels outside of the Loadout menu.
+Fixed an issue where some Store Bundle banners were shifted to the right.
+Fixed an issue where Match Details would not be displayed in the Tally Screen.
+Animation
+Fixed an issue blocking rotation of Survivors and Killers in the Lobby.
+Known Issues
+Mirrored Illusion is unable to be placed on the short side of a 3 sided generator when used for the second time.
+We're Gonna Live Forever's healing buff persists into the Injured State when using med-kits.
+Characters would be unable to move during the Tutorial or Trials if two accounts are linked to the Xbox and, the player uses the Xbox Account that is not set to log in automatically.

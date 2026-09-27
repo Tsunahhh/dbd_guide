@@ -1,0 +1,997 @@
+Contents
+
+1
+ 
+Release Dates
+
+2
+ 
+Public Test Build 9.4.0
+
+3
+ 
+Patch 9.4.0
+
+3.1
+ 
+Hotfix 9.4.1
+
+3.2
+ 
+Hotfix 9.4.2
+
+Release Dates
+
+Patches
+
+Release Dates
+
+PTB 9.4.0
+
+6 January 2026
+
+9.4.0
+
+27 January 2026
+
+9.4.1
+
+3 February 2026
+
+9.4.2
+
+10 February 2026
+
+Public Test Build 9.4.0
+
+CONTENT
+
+New Killer - 
+The First
+
+Perks
+
+Turn Back the Clock
+
+After hooking a Survivor, for 40/50/60 seconds, press Ability button 1 to make target generator within 20/20/20 meters explode, lose 10/10/10% progress and start regressing.
+
+Secret Project
+
+When a totem is blessed or cleansed, block a random unblocked generator for 20/25/30 seconds.
+
+When 1 or more generators become blocked, you gain Undetectable for 30/30/30 seconds.
+
+Hex: Hive Mind
+
+The first time you hook any Survivor, a Dull Totem becomes a Hex Totem.
+
+Generators are highlighted; the intensity of generator auras reveals their repair progress.
+
+When 1/1/1 generator remains, all remaining generators explode, lose 6/8/10% progress and start regressing, and the Hex Totem becomes dull.
+
+New Survivor - 
+Dustin Henderson
+
+Perks
+
+Bada Bada Boom
+
+After completing 20/20/20% worth of repairs, press Ability button 1 next to a window to trap it for 40/50/60 seconds.
+
+The trap triggers when the Killer performs a vault on the window, inflicting them with 50/50/50% Hindered for 6/6/6 seconds.
+
+Change of Plan
+
+You start with 2/2/2 tokens.
+
+While inside a locker and holding a non-event Toolbox, press Ability button 2 to spend 1/1/1 token and transform your Toolbox into a Med-kit of the same rarity with a random add-on of the same rarity.
+
+The new Med-kit has 80/90/100% of its charges.
+
+Teamwork: Full Circuit
+
+For each other Survivor repairing a generator with you, the size of the Good Skill Check zone is increased by 15/20/25%.
+
+While repairing with at least 1 other Survivor, you repair 5/5/5% faster.
+
+New Survivor - 
+Eleven
+
+Perks
+
+Extrasensory Perception
+
+After crouching for 4/4/4 seconds, you see auras in an expanding radius, up to 44/44/44 meters, have Elusive and Oblivious.
+
+When you stop crouching or after 11/11/11 seconds, this perk enters a 60/50/40-second cooldown.
+
+We See You
+
+When the Killer reveals your aura, gain one token.
+
+When you have 4/4/4 tokens, spend all tokens and you and other Survivors see the Killer's aura for 10/12.5/15 seconds.
+
+This perks has a 10/10/10-second cooldown.
+
+Teamwork: Soft-Spoken
+
+For each other Survivor repairing a generator with you, the range at which generator repair noise is heard is reduced by 15/20/25%.
+
+While repairing with at least 1 other Survivor, you repair 5/5/5% faster.
+
+FEATURES
+
+Visual Terror Radius
+
+Updated the 2D version of the Visual Terror Radius heart to be animated.
+
+Matches 3D heart behavior.
+
+Has its own Lullaby version.
+
+2V8
+
+Available on the PTB from January 8-13, 2026.
+
+NEW KILLER
+
+The Good Guy - Innate Skills:
+
+Slice & Dice turn speed increased by 10%.
+
+Increased Hidey-Ho Mode uptime by 15%.
+
+Performing a Scamper under a pallet breaks it immediately.
+
+The Good Guy can see Illusionary Footfalls around Survivors.
+
+Increased Slice & Dice attack duration by 50%.
+
+KILLER UPDATE
+
+The Nemesis:
+
+Added 2 additional Zombies for a total of 4.
+
+Increased Zombie movement speed by 35%.
+
+KILLER CLASS UPDATES
+
+Brute - Team Skill:
+
+Break action speed increased by 25%.
+
+Kicking a Generator causes it to weaken and begin regressing.
+
+The aura of the kicked generator will appear in yellow to the Brute.
+
+The next time a Survivor interacts with the Generator and repairs it past its regression point, it explodes triggering a loud noise notification and sprays the Survivor with smoke. The Survivor suffers from the Hindered status effect for 12 seconds.
+
+The aura of the generator returns to red after the effect occurs.
+
+Cooldown for 60 seconds where break action speed bonus is not applied.
+
+Fearmonger - Team Skill:
+
+Gain 5% Haste when unseen.
+
+Injuring a Survivor by any means causes up to 2 Survivors within 12 meters of the injured Survivor to scream, revealing their aura to your teammate for 2 seconds.
+
+Cooldown for 60 seconds where Haste bonus is not applied.
+
+Enforcer - Team Skill:
+
+Gain 3% Haste when chasing an injured Survivor.
+
+When you hit a Survivor, the Survivor receives the Enforcer’s Mark, which is visible to both you and your teammate.
+
+Survivors with Enforcer’s Mark applied have their aura revealed for 1 second every 8 seconds while marked for 45 seconds. Downing the Survivor consumes the mark and increases the Enforcer's lunge attack distance by 60% for 15 seconds.
+
+60 second cooldown where the Haste bonus is not applied.
+
+NEW SURVIVOR CLASS: TORCHBEARER
+
+Class Skill:
+
+Starts with Flashlight of uncommon rarity.
+
+Class Skill charges over 60 seconds, granting a Flash Grenade when fully charged.
+
+Behaves like an ability; does not take up any item slot.
+
+Press the Active Ability button 2 to activate the Flash Grenade.
+
+Cooldown 60s.
+
+Info Skill:
+
+Survivors in chase have their aura revealed to you within 32 meters.
+
+Point a Flashlight at a Killer for 0.5 seconds to reveal them for 2 seconds.
+
+Unlockable Skill:
+
+Grant Endurance to Survivors you pick up from the Dying State. Injured Survivors that unhook you gain Endurance.
+
+SURVIVOR CLASS UPDATE
+
+Scout – Unlockable Skill:
+
+Increase your walking speed by 25% and make no grunts of pain while injured.
+
+Grants immunity to screaming.
+
+NEW MAPS
+
+Groaning Storehouse
+
+Rotten Field
+
+FEATURES
+
+Tonics:
+
+Herb gameplay returns in the form of tonics! They can be found in locations where you would normally find totems and are scattered throughout the map.
+
+There are two types of tonics that have different effects for Survivor and Killers:
+
+Diluted Tonic:
+
+Survivor: Restores a health state on use.
+
+Killer: Increases Haste by 10% for 20 seconds.
+
+Purified Tonic:
+
+Survivor: Restores a hook state on use.
+
+Killer: Grants a 10% Haste bonus to both Killers for 20 seconds.
+
+Dual Terror Radius:
+
+We have updated the Terror Radius to reflect both Killers in range, adjusting the audio tracks for each Killer as they get closer to or further from Survivors.
+
+The Visual Terror Radius indicator from the Accessibility settings has also been updated to show both Killers when in range, including Lullabies and regular Terror Radii.
+
+Cooperative Healing:
+
+Increased the number of Survivors able to simultaneously heal one another to 3 (was 2).
+
+BUG FIXES
+
+2v8
+
+Fixed an issue where canceling the uncage interaction as the caged Survivor relocated caused them to get stuck in place for the rest of the Trial.
+
+Fixed an issue where Survivors could immediately die after being uncaged if they were uncaged at the same time as their hook progress depleted.
+
+Fixed an issue where performing a Flashlight save or pallet stun during the caging sequence would sometimes not work.
+
+Fixed an issue where the End Game Collapse Entity spikes briefly flickered on screen when picking up a Survivor.
+
+Fixed an issue where Survivors' auras were briefly seen as they appeared in a cage if they were revealed as they were sent to the cage.
+
+Fixed an issue where the Survivor's camera was misplaced when being picked up by The Dark Lord.
+
+Fixed an issue where The Executioner's Torment Trail SFX remained when he stopped using Rites of Judgement.
+
+Fixed an issue where Survivor voice lines wouldn't play while in "Play While You Wait" mode.
+
+Fixed an issue where Survivor classes were missing from their HUD portraits in 2v8.
+
+Audio
+
+Fixed an issue where Renato Lyra's "Hidden Bones" cosmetic played incorrect footstep SFX.
+
+Fixed an issue where The Trapper's bear trap was missing SFX during the Survivor struggle animation.
+
+Fixed an issue where Survivors' screams could sometimes be heard globally throughout a map.
+
+Fixed an issue where The Knight's footsteps could be heard when creating a path for his Guards.
+
+Fixed an issue where The Good Guy's voice lines could trigger when playing as The Good Gal.
+
+Bots Improvements
+
+Improved Survivor bots' usage of Flashlights during chases.
+
+Survivor bots are now able to perform Flashlight, Flashbang and pallet saves.
+
+Fixed an issue where Survivor bots were able to blind a Killer through obstacles with Flashlights.
+
+Fixed multiple issues preventing Survivor bots from correctly using various perks.
+
+Fixed multiple issues causing Survivor bots to not participate correctly in group heals.
+
+Fixed multiple issues where Nemesis' Zombies could jump up and hit Survivors from a lower level in the Forgotten Ruins map, Forsaken Boneyard Realm and the Raccoon City Realm.
+
+Characters
+
+Fixed an issue where Cybil Bennett’s mouth appeared distorted in the lobby when she was not holding an item.
+
+Fixed an issue where The Dark Lord was missing the black screen while performing a Teleport while in Bat Form.
+
+Fixed an issue where The Good Guy and The Good Gal never looked back at the player in Hidey-Ho Mode.
+
+Environment / Maps
+
+Fixed an issue in the Backwater Swamp Realm where the water would flicker.
+
+Fixed an issue in The Underground Complex map where players could not interact with one side of a generator.
+
+Fixed an issue in the Temple of Purgation map where players could get stuck in a dead end.
+
+Fixed an issue in the Ormond Lake Mine map where players could land on top of objects when falling from the side of the main building.
+
+Fixed an issue in The Underground Complex map where The Nurse could blink out of bounds.
+
+Fixed an issue in the Dead Dawg Saloon map where The Xenomorph could get stuck on a Flame Turret when falling from an opening on the gallows platform.
+
+Fixed an issue in the Pale Rose map where a generator couldn't be repaired on one side.
+
+Fixed an issue in the Forgotten Ruins map where the cameras of Killers could clip through a wall.
+
+Perks
+
+Fixed an issue where For The People's Obsession odds did not follow the same logic as other perks.
+
+UI
+
+Fixed an issue where starting a search with "B" in the Friend List would cause a crash.
+
+Miscellaneous
+
+Fixed a crash that could occur during the game's initialization process.
+
+Fixed a crash that could occur when closing the game while being in a lobby.
+
+Patch 9.4.0
+
+CONTENT
+
+New Killer - 
+The First
+
+Perks:
+
+Turn Back the Clock
+
+Secret Project
+
+Hex: Hive Mind
+
+NEW SURVIVOR - 
+Dustin Henderson
+
+Perks:
+
+Bada Bada Boom
+
+Change of Plan
+
+Teamwork: Full Circuit
+
+NEW SURVIVOR - 
+Eleven
+
+Perks:
+
+Extrasensory Perception
+
+We See You
+
+Teamwork: Soft-Spoken
+
+FEATURES
+
+Visual Terror Radius
+
+Updated the 2D version of the Visual Terror Radius heart to be animated.
+
+Matches 3D heart behavior.
+
+Has its own Lullaby version.
+
+Jump Start Quests
+
+Quest set in the Rift Pass Quests that offers double the Rift Fragments. Available at the start of a new Rift, for the duration of the whole Rift.
+
+Halloween DLC Changes
+
+The Shape, Laurie Strode and their respective outfits are no longer available in the store. These characters will remain playable for players who already had them unlocked.
+
+The following perks have become General Perks, and their names and icons have changed:
+
+Sole Survivor is now Down to the Last
+
+Object of Obsession is now Bound by Obsession
+
+Decisive Strike is now Will to Live
+
+Save the Best for Last is now Keep Them Waiting
+
+Play With Your Food is now See How They Run
+
+Dying Light is now Cull the Weak
+
+The Lampkin Lane map has been removed from map rotation and custom game selection:
+
+The Strode Realty Key offering has been retired and can no longer be used.
+
+The following achievements/trophies have been updated, and their names, icons and unlock conditions have changed:
+
+Adept Laurie is now Key to Success
+
+As a Survivor, use a key to open a chest.
+
+Adept Shape is now Share the Pain
+
+As a Killer, have all four Survivors injured at the same time.
+
+Evil Incarnate is now Prized Possession
+
+As a Killer, finish a match with at least one Hex totem standing.
+
+The Man Behind the Bush is now Deadly Obsession
+
+As a Killer, hook the Obsession the specified number of times.
+
+House of Pain is now Working Overtime
+
+As a Survivor, repair generators for at least 300 seconds in a single match.
+
+BUG FIXES
+
+Audio
+
+Fixed an issue where we were missing the beeping SFX when installing the trap on a vault.
+
+Fixed an issue where the Blight's "Jingle Cane" weapon is missing bells sounds when swinging it.
+
+Fixed an issue where some Stranger Thing characters and Legendary Cosmetic's special Voice Lines are missing sometime when joining an Online Lobby with a Specific Survivor present.
+
+Fixed an issue where Jonathan Byers Legendary Outfit's Grunts SFX are delayed when using the Perk Any Mean Necessary.
+
+Fixed an issue where Dustin got superfluous word present in the Subtitles of a specific Lobby Voice Line.
+
+Fixed an issue where Survivor voice lines can be cut off by the Hook Phase 2 struggling animation sometimes.
+
+Fixed an issue where Nancy voicelines and subtitles are mismatched.
+
+Fixed an issue where Stranger Things characters Escape voice lines are missing.
+
+Fixed an issue where missing SFX when a Survivor misses a Skill Check on a Mimic Chest.
+
+Fixed an issue where missing SFX when Slaughting Strike Charge is ready when using certain weapon cosmetics as The Shape.
+
+Fixed an issue where the Blight's 'Bellringer' weapon no longer has bell ringing SFX.
+
+Fixed an issue where Dustin scream SFX is missing upon being slipstreamed by The Singularity's Biopod.
+
+Fixed an issue where some VO lines for Dustin and Eleven during mori sequence were missing.
+
+Fixed an issue where some VO lines audio volume were tweaks for better audio balance.
+
+Fixed an issue where Nicolas Cage reference Sadako Voice Line fires on non-Onryo killers in a chase.
+
+Bot Improvements
+
+Improved Survivor bots' usage of Flashlights during chases.
+
+Survivor bots are now able to perform Flashlight, Flashbang and pallet saves.
+
+Fixed an issue where Survivor bots were able to blind a Killer through obstacles with Flashlights.
+
+Fixed multiple issues preventing Survivor bots from correctly using various perks.
+
+Fixed multiple issues causing Survivor bots to not participate correctly in group heals.
+
+Fixed multiple issues where Nemesis' Zombies could jump up and hit Survivors from a lower level in the Forgotten Ruins map, Forsaken Boneyard Realm and the Raccoon City Realm.
+
+Improved the behavior of Killer Bots against Flashlights and successful blinds.
+
+Fixed an issue causing Bots to get stuck in Hawkins Laboratory's Portal room.
+
+Characters
+
+Fixed an issue where reticule stickiness did not disappear when The Ghoul lost line of sight with the target, allowing unintended hits through walls.
+
+Fixed an issue where The Spirit’s exit from Phase Walk was missing.
+
+Fixed an issue where The Onryo appeared in an A-pose during the Mori animation.
+
+Fixed an issue where the torture device was missing during The Animatronic's Mori animation.
+
+Fixed an issue where some Killers appeared too low to the ground in online or custom lobbies.
+
+Fixed an issue where The Nurse's Blink position would be too far from the expected position.
+
+Fixed an issue where The Houndmaster would experience drops in framerate while aiming the Chase command at certain map locations.
+
+Fixed an issue where Snug prevented The Houndmaster from using the perk Turn Back The Clock while in front of a generator.
+
+Fixed an issue where The Dredge could remain stuck after teleporting to a locker at the same time that a Survivor was entering the same locker.
+
+Fixed an issue where Survivors would sometimes not receive damage or infection from The Mastermind's Virulent Bound when standing in front of a vault, prior to vaulting.
+
+Fixed an issue where The Knight could get stuck in the summoning animation if stunned by a pallet while summoning a Guard.
+
+Fixed an issue where The Knight could fall off the roof when tracing a path in certain map locations.
+
+Fixed an issue where the input icon was still shown in The Knight's power widget after having used the power.
+
+Fixed an issue where The Singularity was able to shoot a Biopod under the ground.
+
+Fixed an issue where The Ghoul's Kagune Leap would cause the player to become stuck in a decreased speed state.
+
+Fixed an issue where Survivors playing against The Krasue received the cleanse score event twice after fully cleansing their curse by eating a mushroom.
+
+Fixed an issue where The Krasue's Leeching Gland would automatically aim at occupied snowmen.
+
+Fixed an issue where The Lich's spell indicator VFX was visible during his spawn animation.
+
+Fixed an issue where Survivors could cancel The Lich's Mimic trap by activating 
+Run to Cancel
+.
+
+Fixed an issue where The Lich's Vile Darkness power UI was invisible.
+
+Fixed an issue where The Nurse's POV was slightly shifted to the side when Blinking while turning the camera.
+
+Fixed an issue where The Ghoul was able to cancel mid-swing while Kagune Leaping to a Survivor, bypassing part of the recovery.
+
+Fixed an issue where an unselected spell remained displayed for The Lich after selecting several spells quickly.
+
+Fixed an issue where The Cenobite's grunt SFX would play when switching to Killer perspective while spectating.
+
+Fixed an issue where The Shape's knife was misaligned while charging Slaughtering Strike repeatedly in Evil Incarnate Mode.
+
+Fixed an issue where The Shape could become soft-locked when attempting to destroy a pallet with Slaughtering Strike after being stunned.
+
+Fixed an issue where The Skull Merchant's drone could become invisible and unusable for the remainder of the Trial after being recalled.
+
+Fixed an issue where The Skull Merchant's drone failed to deploy after being forcibly recalled from hooking a Survivor.
+
+Fixed an issue where The Skull Merchant's radar briefly became invisible when activating the perk Turn Back The Clock.
+
+Fixed an issue where The Twins could become stuck when stunned while releasing Victor.
+
+Fixed an issue where The Deathslinger was not aiming with the rifle from Survivor POV.
+
+Fixed an issue where The First's Add-on "Smashed Cassette Deck" reduced the amount of Grandfather Clocks by 2 instead of 1.
+
+Fixed an issue where The First's World Breaker Mode could be activated hitting a Survivor who had already escaped through the Exit Gates with a Vine Attack.
+
+Fixed an issue where the Mind Break animation was missing for The First when hitting a vaulting Survivor with a Vine Attack during Mini-Mori requirements.
+
+Fixed an issue where The First's "Traverse Upside Down" ability icon would not dim when using the Vine Attack ability.
+
+Fixed an issue where The First's "Traverse Upside Down" prompt was displayed when holding the Charge Vine Attack button.
+
+Fixed an issue where Memento Mori dialogue lines for The First would play when performing the mini-mori animation.
+
+Fixed an issue where the ground attack combo scoring event was earned for The First when hitting a single Survivor.
+
+Fixed an issue where The First's "Traverse Upside Down" prompt remained visible when performing interactions blocking Killer powers.
+
+Fixed an issue where The First's Vine Attack charges were missing on the UI while using the Chess Piece addon.
+
+Fixed an issue where when a Survivor was in The First's mini-mori state, their collision would cause other Survivors' cameras to shake.
+
+Fixed an issue where The First's vine attack and ground attack did not progress the Chaser score event on damaging hits.
+
+Fixed an issue where The First would become invisible when exiting the Upside-Down after being pallet stunned just before entering.
+
+Fixed an issue where The First's Gutted Supercom add-on was not extended by Lethal Pursuer.
+
+Fixed an issue where The First's Electrode Cap add-on aura reveal effect was still shown for 6 seconds when paired with the Lethal Pursuer perk.
+
+Fixed an issue where The First's Shattered Wrist Rocket addon could affect interactables on different floors
+
+Fixed an issue where The First was unable to grab a Survivor after having previously grabbed them once
+
+Fixed an issue where The First could misfire when quickly activating the Vine Attack during packet loss.
+
+Fixed an issue where the Mind Break animation was missing for The First when Survivors used a flashlight while Mini-Mori requirements were met.
+
+Fixed an issue where The First's vine attack indicator was smaller while spectating
+
+Fixed an issue where The First's vine attack indicator would remain visible for Spectators when switching between Killer and Survivor POV
+
+Fixed an issue where Vine Attack visuals were affected by lag, resulting in valid hits received when beyond the targeting indicator as perceived by Survivors
+
+Fixed an issue where rarely, The First was unable to Traverse Upside Down after hooking a Survivor.
+
+Environment/Maps
+
+Fixed an issue in the Ormond Lake Mine map where the player could land on top of crates near the building.
+
+Fixed an issue in the Eyrie of Crows map where the Killer could access an exploitable ledge.
+
+Fixed an issue in the Fractured Cowshed map where players would not be able to navigate between a set of hay bales and a fence.
+
+Fixed multiple issues related to the camera clipping inside The Houdmaster at the start of a Trial.
+
+Fixed an issue in the Coldwind Farm Realm where The Plague's projectiles would be blocked near the shack.
+
+Fixed an issue in the Wretched Shop map where objects would spawn close to a truck and prevent proper navigation around it.
+
+Fixed an issue in the Forgotten Ruins map where players would get stuck in a threshold between rooms.
+
+Fixed an issue in the Wretched Shop map where the player could not interact with one side of a generator.
+
+Fixed multiple issues related to the placement of the trap when the perk Bada Bada Boom is being used.
+
+Fixed an issue in the Mount Ormond Resort map where The Trapper could not place his traps properly on a section of the stairs landing near the generator.
+
+Fixed an issue in the Shelter Woods map where a pallet did not lean against any object.
+
+Fixed an issue in the Dead Dawg Saloon map where interactions with chests on porches were not working properly.
+
+Fixed an issue in the Grim Pantry map where a chest and totem were overlapping and rendered the totem inaccessible.
+
+Fixed multiple issues in The Thompson House map where pallets were partially clipping in the ground.
+
+Fixed an issue in the Treatment Theater map where dropped items partially clipped into the ground.
+
+Perks
+
+Fixed an issue where the perk Bada Bada Boom's trap was popping out of place on several vault locations once the animation is over.
+
+Fixed an issue where the "Teamwork: Soft-Spoken" perk icon would turn off after failing a skill check.
+
+Fixed an issue where the "Teamwork: Full Circuit" perk would deactivate after failing a Skill Check on a Generator.
+
+Fixed an issue where players could not rebind the button for Turn Back The Clock.
+
+Fixed an issue where the external Perk icon for Turn Back The Clock was brown.
+
+Fixed an issue where Bada Bada Boom could be placed on vault locations from lower ground.
+
+Fixed an issue where Survivors could use Bada Bada Boom further than intended from vault locations.
+
+Fixed an issue where Turn Back The Clock's indicator arrow remained displayed when killers used their power while looking at a generator.
+
+Fixed an issue where The Trapper was unable to trigger Bear Traps during Turn Back The Clock's interaction.
+
+UI
+
+Improved the visuals of the Friends List.
+
+Fixed an issue where starting a search with "B" in the Friend List would cause a crash.
+
+Fixed an issue where the scroll input prompt was missing in some menus when using a controller.
+
+Fixed an issue where trying to access the friend submenu would not work, resulting in issues trying to invite friends.
+
+Fixed an issue where the scroll bar in the friends list was abnormally slow.
+
+Miscellaneous
+
+Fixed a crash that could occur during the game's initialization process.
+
+Fixed a crash that could occur when closing the game while being in a lobby.
+
+Fixed an issue where Survivors could clip into Killers during the pickup animation.
+
+Fixed an issue where Killer models became distorted when swapping from the spawn animation to Killer POV in spectator mode.
+
+Fixed an issue where Survivors were unable to interact with an occupied locker.
+
+Fixed an issue where a Survivor's footsteps SFX remained suppressed after leaving the Fog Vial's cloud.
+
+CHANGES FROM THE PTB
+
+The First
+
+After completing the Undergate exit animation, the Killer enters a 1.0-second cooldown, during which interactions and attacks are disabled. Movement speed remains unchanged.
+
+The Vine Attack cancel cooldown has been increased from 1.25 seconds to 1.5 seconds to minimize zoning potential.
+
+Updated the Addon Chess Piece text description to reflect the actual value of the attack radius reduction, changing from 35% to 50%. Also adjusted the unmentioned explosion activation delay from 0.65 to 0.6 seconds to align with the default Vine Attack timing.
+
+KNOWN ISSUES
+
+The VFX for the Ascended "Vecna Figurine" charm are currently missing and will be added in an upcoming bugfix patch.
+
+Hotfix 9.4.1
+
+BUG FIXES
+
+Audio
+
+Fixed an issue where Survivors scream at the beginning of the Trial when the Smashed Cassette Deck Add-on is equipped.
+
+Fixed an issue where Dustin voice line and subtitles were unable to be properly timed together.
+
+Fixed an issue where Dustin, Eddie and Jonathan Byer screams are missing after being sent to the Cage of Atonement.
+
+Fixed an issue where the scream SFX is missing during The Xenomorph's Mori.
+
+Added a Curse hit feedback stinger in The First's Default Mode.
+
+Bot Improvements
+
+Fixed an issue causing Survivor Bots to be difficult to heal when under the radius of a Drone.
+
+Characters
+
+Tentatively fixed an issue where The Deathslinger did not appear to be aiming with his rifle from the Survivor's point of view.
+
+Fixed an issue where the Animatronic Yellow Rabbit outfit would cause clipping when interrupting a Survivor during a vault animation.
+
+Fixed an issue where the Animatronic's left arm was missing when opening a locker with a Survivor hiding inside.
+
+Fixed an issue where the bottom of the map was visible when The Onryō teleported to a TV.
+
+Fixed an issue where Ada Wong's eyes would bulge out while idle.
+
+Fixed an issue where Survivors would briefly swap to the downed animation during the hooking animation.
+
+Fixed an issue where Survivors were misaligned inside lockers when being picked up by The Dredge with the Fear of Reminiscence outfit.
+
+Fixed an issue where The Legion's Killer Instinct did not retrigger on Mended Survivors.
+
+Fixed an issue where The Ghoul could injure Survivors with the Kagune Leap when performed near a vault or close by.
+
+Fixed an issue where sometimes The First could use the Traverse Upside Down ability at the start of the trial.
+
+Fixed an issue where the outer ring of The First's Vine Attack's aiming reticule would stay the same color for the duration of the Trial.
+
+Fixed an issue where the aura of The First's tentacle did not always appear during a portal blast.
+
+Fixed an issue where the The First's World Breaker Skybox VFX was removed for a Survivor during Mori, Sacrifice, or entering hook stage 2 animations.
+
+Fixed an issue where The First's World Breaker Phase 2 timer did not pause when the Killer was carrying a Survivor.
+
+Fixed an issue where The First's Vine attack indicator remained visible in areas with no collision.
+
+Fixed an issue where Survivors would jitter when being picked up by The First.
+
+Fixed an issue where The First's camera could be locked looking down when canceling the break interaction as the Clock runs out.
+
+Environment / Maps
+
+Fixed an issue in the Underground Complex where the Survivor could see through the ventilation ducts: a collision has been added to the fan to prevent the camera from entering it.
+
+Perks
+
+Fixed an issue where Turn Back the Clock could be used while being deactivated after using The Twins or The Knights power as the activation timer expired.
+
+Fixed an issue where Snug prevented The Houndmaster from using Turn Back The Clock while in front of a generator.
+
+Fixed an issue where The Xenomorph could use Turn Back The Clock in tunnels.
+
+Fixed an issue where The Trapper was unable to trigger Bear Traps during Turn Back the Clock.
+
+Fixed an issue where the indicator arrow remained displayed when the Killer used their Killer Power while Turn Back The Clock was active.
+
+Fixed an issue where The Skull Merchant's radar briefly became invisible when activating Turn Back The Clock.
+
+Fixed an issue where the Cancel prompt was visible during the Turn Back The Clock interaction.
+
+Fixed an issue where the unhooking animation was misaligned when using Shoulder The Burden.
+
+Fixed an issue where generators did not automatically complete when Invocation: Weaving Spiders was applied on a generator nearly completed with the Brand New Part Toolbox add-on.
+
+Fixed an issue where a generator could be permanently blocked by Secret Project.
+
+Fixed an issue where traps from Bada Bada Boom and Chemical Trap became invisible when The Dark Lord changed to Bat Form while the trap was being placed.
+
+Fixed an issue where Extrasensory Perception could be activated while being healed by another Survivor.
+
+Fixed an issue where the Oblivious status effect of Weave Attunement only targeted the first Survivor to trigger the perk.
+
+Fixed an issue where We See You continued to gain tokens when the Survivor was hooked.
+
+Fixed an issue where Built to Last would continue to charge up and reduce the Medkit charge from Change of Plan.
+
+Fixed an issue where Special Killer Items could be swapped to a Medkit with Change of Plan.
+
+Fixed an issue where Survivors were able to swap items outside a locker with Change of Plan after getting grabbed from one by a Killer.
+
+Fixed an issue where the first Skill Check of Merciless Storm was affected by Teamwork: Full Circuit.
+
+Fixed an issue where Hardened did not trigger when The First used a vine attack.
+
+Fixed an issue where aura could remain indefinitely on a survivor who used Bardic Inspiration.
+
+Misc
+
+Fixed an issue where blocked generator auras were red instead of white.
+
+Hotfix 9.4.2
+
+2v8
+
+The 2v8 event returns Tuesday, February 10th at 11:00 AM Eastern.
+
+NEW KILLER: The Good Guy 
+
+Innate Skills:
+
+Slice & Dice turn speed increased by 10%.
+
+Increased Hidey-Ho Mode uptime by 15%.
+
+Performing a Scamper under a pallet breaks it immediately.
+
+The Good Guy can see Illusionary Footfalls around Survivors.
+
+Increased Slice & Dice attack duration by 50%.
+
+KILLER UPDATE: The Nemesis
+
+Added 2 additional Zombies for a total of 4.
+
+Increased Zombie movement speed by 35%.
+
+KILLER CLASS UPDATES
+
+Brute - Team Skill:
+
+Break action speed increased by 25%.
+
+Kicking a Generator causes it to weaken and begin regressing.
+
+The aura of the kicked generator will appear in yellow to the Brute.
+
+The next time a Survivor interacts with the Generator and repairs it past its regression point, it explodes triggering a loud noise notification and sprays the Survivor with smoke. The Survivor suffers from the Hindered status effect for 12 seconds.
+
+The aura of the generator returns to red after the effect occurs.
+
+Cooldown for 60 seconds where break action speed bonus is not applied.
+
+Fearmonger - Team Skill:
+
+Gain 5% Haste when unseen.
+
+Injuring a Survivor by any means causes up to 2 Survivors within 12 meters of the injured Survivor to scream, revealing their aura to your teammate for 2 seconds.
+
+Cooldown for 60 seconds where Haste bonus is not applied.
+
+Enforcer - Team Skill:
+
+Gain 3% Haste when chasing an injured Survivor.
+
+When you hit a Survivor, the Survivor receives the Enforcer’s Mark, which is visible to both you and your teammate.
+
+Survivors with Enforcer’s Mark applied have their aura revealed for 1 second every 8 seconds while marked for 45 seconds. Downing the Survivor consumes the mark and increases the Enforcer's lunge attack distance by 60% for 15 seconds.
+
+60 second cooldown where the Haste bonus is not applied.
+
+NEW SURVIVOR CLASS: TORCHBEARER
+
+Class Skill
+
+Starts with Flashlight of uncommon rarity.
+
+Class Skill charges over 60 seconds, granting a Flash Grenade when fully charged.
+
+Behaves like an ability; does not take up any item slot.
+
+Press the Active Ability button 2 to activate the Flash Grenade.
+
+Cooldown 60s.
+
+Info Skill:
+
+Survivors in chase have their aura revealed to you within 32 meters.
+
+Point a Flashlight at a Killer for 0.5 seconds to reveal them for 2 seconds.
+
+Unlockable Skill:
+
+Grant Endurance to Survivors you pick up from the Dying State. Injured Survivors that unhook you gain Endurance.
+
+SURVIVOR CLASS UPDATE
+
+Scout – Unlockable Skill:
+
+Increase your walking speed by 25% and make no grunts of pain while injured.
+
+Grants immunity to screaming.
+
+NEW MAPS
+
+Groaning Storehouse
+
+Rotten Field
+
+FEATURES
+
+Tonics:
+
+Herb gameplay returns in the form of tonics! They can be found in locations where you would normally find totems and are scattered throughout the map.
+
+There are two types of tonics that have different effects for Survivor and Killers:
+
+Diluted Tonic
+
+Survivor: Restores a health state on use.
+
+Killer: Increases Haste by 10% for 20 seconds.
+
+Purified Tonic
+
+Survivor: Restores a hook state on use.
+
+Killer: Grants a 10% Haste bonus to both Killers for 20 seconds.
+
+Dual Terror Radius
+
+We have updated the Terror Radius to reflect both Killers in range, adjusting the audio tracks for each Killer as they get closer to or further from Survivors.
+
+The Visual Terror Radius indicator from the Accessibility settings has also been updated to show both Killers when in range, including Lullabies and regular Terror Radii.
+
+Cooperative Healing:
+
+Increased the number of Survivors able to simultaneously heal one another to 3 (was 2).
+
+Content
+
+Increased the probability of Steve Harrington to use the original Scared Scream audio (Steagull) to 10%.
+
+Bug Fixes
+
+Audio
+
+Fixed an issue where performing a Mori with any Killer triggers the voice line of 2 specific Killers during 2V8.
+
+Characters
+
+Fixed an issue where The First was unable to perform the Traverse Upside Down Killer Power after hooking a Survivor.
+
+Fixed an issue where the outer ring of The First's Vine attack aiming reticle stayed the same color for the duration of the Trial.
+
+Fixed an issue where The First's Vine attack animation will not play when done right after cancelling a non-fully charged vine attack.
+
+Fixed an issue where The Houndmaster's Commands were temporarily unavailable for a few seconds after dropping from a high elevation.
+
+Fixed an issue where The Ghoul's Kagune Leap remained active when pressing the vault prompt immediately after vaulting with Kagune Leap.
+
+Fixed an issue where The Ghoul walked at regular speed while holding the power when quickly missing a Kagune Leap after a successful one.
+
+Fixed an issue where The Ghoul could attack downed Survivors when using Kagune Leap near vault points.
+
+Fixed an issue where The Ghoul's vault attack animation did not play if The Ghoul moved forward after vaulting a window.
+
+Fixed an issue where The Skull Merchant's Drone clipped inside her when Deploying a Drone.
+
+Fixed an issue where sometimes The Dredge's Reign of Darkness ability did not show locker auras, blocking The Dredge from teleporting.
+
+Fixed an issue where The Mastermind’s Virulent Bond could injure Survivors near pallets that were farther away than intended.
+
+Fixed an issue where The Legion would clip inside the Pallet when vaulting while in Feral Frenzy.
+
+Fixed an issue where The Pig could damage Survivors from the other side of a Jigsaw Box.
+
+Fixed an issue where terrain was visible when The Xenomorph exited a specific Control Station in several maps.
+
+Fixed an issue where assets and Survivors would appear invisible momentarily when The Xenomorph exited a Tunnel.
+
+Fixed an issue where Nancy’s facial likeness did not fully match the actress. Her appearance has now been updated to better reflect the actress.
+
+Fixed an issue where the server would sometimes correct positions after The Nurse blinks.
+
+Environment/Maps
+
+Fixed an issue in MacMillan's Estate where coming out of a locker shows the character bouncing out.
+
+Fixed an issue in all realms where Killers can hit Survivors through fire barrels.
+
+Fixed an issue in Raccoon City Police Station where a chest is hard to interact with.
+
+Fixed an issue in Grim Pantry where the device of Bada Bada Boom is misaligned with a vault.
+
+Fixed an issue in Dead Dawg Saloon where The First's power, Focus Ground, can be placed on top of a structure.
+
+Perks
+
+Small text clarification: Turn Back The Clock now mentions that you can only target generators "you can see" within distance.
+
+Fixed an issue where the external perk icon disappeared when a Survivor with either Teamwork: Full Circuit and/or Teamwork: Soft Spoken stopped repairing a generator while another Survivor still had the perk(s) active.
+
+Fixed an issue where Killers kept the Undetectable status effect from Trail of Torment if the generator became blocked by any means.
+
+Fixed an issue where The Mastermind could be affected by the effects of Hex: The Third Seal after using vault attacks or attacks on Survivors with the Endurance status.
