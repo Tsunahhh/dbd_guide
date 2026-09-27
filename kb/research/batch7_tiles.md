@@ -650,7 +650,7 @@ Avant de quitter une tile, cocher :
 
 ### 6.5 Probabilité de trouver la ressource suivante (HYPOTHESIS, modèle jouet)
 
-- Une destination à **n** ressources indépendantes, chacune déjà consommée avec une probabilité q (inconnue en SoloQ), offre au moins une ressource avec la probabilité `1 − qⁿ` : pour q = 0,5, une tile à 1 palette → 50 % ; un main à 2 palettes + 1 fenêtre (fenêtre jamais « consommée » pour toi si tu ne l'as pas vaultée) → la fenêtre garantit au moins une porte. **Interprétation** : en cas de doute, un main ou une tile à **fenêtre** est une destination plus fiable qu'une tile à palette seule. Modèle non mesuré : q varie selon la phase de partie et le nombre de chases passées.
+- Une destination à **n** ressources indépendantes, chacune déjà consommée avec une probabilité q (inconnue en SoloQ), offre au moins une ressource avec la probabilité `1 − qⁿ` : pour q = 0,5, une tile à 1 palette → 50 % ; un main à 2 palettes + 1 fenêtre (fenêtre jamais « consommée » pour toi si tu ne l'as pas vaultée) → la fenêtre donne presque toujours au moins une porte (sauf si **tu** l'as déjà vaultée 3 fois dans cette poursuite, ou si Bamboozle, Hex: Crowd Control ou Cruel Limits la bloquent pour tous, §5.3). **Interprétation** : en cas de doute, un main ou une tile à **fenêtre** est une destination plus fiable qu'une tile à palette seule. Modèle non mesuré : q varie selon la phase de partie et le nombre de chases passées.
 - En SoloQ : les palettes proches des générateurs très disputés et du shack sont plus souvent consommées (HEURISTIC) ; vérifier à distance (checkspot sur la palette) avant de s'engager.
 
 ### 6.6 Trois exemples commentés : « Tile A → Tile B → Main → filler »
@@ -713,21 +713,34 @@ Erreur typique : choisir la tile la plus proche à travers une zone ouverte ; co
 
 | Étape | Options | Décision (HEURISTIC) |
 |---|---|---|
-| A consommée, BL II (+0,4) | Rester sur A ; B (15 m, inconnu) ; main (35 m) | A n'a plus de porte asymétrique → partir. Main à 35 m demande ≈ 8,8 m + fente contre un 4,6 à BL II (CALC) : **irréaliste** sans un coup reçu ou une casse |
+| A consommée, BL II (+0,4) | Rester sur A ; B (15 m, inconnu) ; main (35 m) | A n'a plus de porte asymétrique → partir. Main à 35 m demande ≈ 8,8 m + fente contre un 4,6 à BL II (CALC) : **irréaliste** sans un coup reçu ou une casse. (Blight marche à 4,4 m/s depuis 9.6.0, audit VP : ≈ 7 m + fente à BL II, mais contre lui c'est l'état de ses tokens de Rush, pas la course, qui décide) |
 | Choix de B | Vérifier la palette de B depuis un checkspot pendant la course | Si la palette de B est **visible levée** → B ; si inconnue → B reste le seul choix atteignable, mais préparer le plan B (sa fenêtre : compteur neuf pour toi) |
 | À B | Fenêtre d'abord ; palette | **Blight** : sa casse en Lethal Rush lui coûte ses tokens depuis 9.6.0 (FACT [audit : VP]) → le **pre-drop reste rentable** (lot 6 situation 1, handbook fiche 21) ; pas de greed debout derrière la palette quand il a des tokens. Contre un casseur **gratuit** (Demogorgon, Oni en Fury) : la palette vaut surtout le stun. Contre un M1 à BL II : pre-drop pour **remettre la Bloodlust à 0** s'il casse (il peut aussi contourner pour la garder) |
 | Vers le main (20 m) | Partir sur la casse ; rester | **Pendant la casse** (+9,4 m, BL 0) : 20 m demandent ≈ 3 m + fente → couvert. Le main offre plusieurs ressources (6.5) : destination la plus probable |
 | Main contre mobilité | Étages ; boucles serrées | Handbook : Blight — murs hauts gênent les rebonds (SITUATIONAL) ; boucles courtes à murs hauts plutôt que longues lignes droites |
-| Filler final | Pre-drop / stun | Contre un casseur de base, le filler ne vaut qu'un stun ; si pas de stun possible, le garder pour un allié plus tard (ressource d'équipe) |
+| Filler final | Pre-drop / stun | Contre Blight : pre-drop (coût en tokens). Contre un casseur gratuit : le filler vaut surtout un stun ; si pas de stun possible, le garder pour un allié plus tard (ressource d'équipe) |
 
-Erreur typique : aller vers la ressource la plus « forte » (main) à travers une zone morte au lieu de la plus **atteignable** (B) ; greed une palette contre un tueur qui la casse gratuitement.
+Erreur typique : aller vers la ressource la plus « forte » (main) à travers une zone morte au lieu de la plus **atteignable** (B) ; greed une palette contre un tueur qui la casse gratuitement ; appliquer contre Blight le counterplay d'avant 9.6.0 (éviter le pre-drop).
 
 ### 6.7 Exercice « Annonce H3 » (drill, HEURISTIC)
 
 - Objectif : avoir toujours une destination et un plan B.
 - Méthode : en chase, annoncer à voix haute (ou mentalement) à l'entrée de chaque tile : « sortie : [déclencheur] ; suivante : [tile] à ~[D] m ; plan B : [tile] ».
 - Métriques : % de transitions annoncées ; transitions vers une zone morte ; départs faits **pendant** une animation du tueur.
-- Réussite : ≥ 90 % de transitions annoncées et ≥ 50 % des départs sur une animation (casse, stun, vault, coup manqué) sur 10 parties.
+- Réussite (seuils HEURISTIC, non calibrés) : ≥ 90 % de transitions annoncées sur 10 parties. La part des départs faits sur une animation (casse, stun, vault, coup manqué) se **note** mais n'est pas un objectif : un départ anticipé avec assez d'écart (table 6.3) vaut autant, et un départ toujours calé sur la casse devient prévisible.
+- Variante en partie personnalisée (avec un ami tueur) : chronométrer un cycle de shack, de jungle gym LW/SW et de filler contre 4,6 et 4,4 pour remplacer les distances « inventées pour l'exemple » de 6.6 par tes propres mesures (lacune de mesure `T_loop`, audit lot 6).
+
+### 6.8 SoloQ vs SWF sur les tiles (HEURISTIC)
+
+| Point | SoloQ | SWF (avec communication vocale) |
+|---|---|---|
+| Carte mentale (zone consommée) | Déduite : sons de casse (portée UNCERTAIN), icônes de poursuite du HUD, pre-run ; vérifier la palette de destination par un checkspot **avant** de s'engager | Annoncée : « palette du shack cassée », « L-T nord bloquée par Bamboozle » ; la destination est connue |
+| Choix de destination | Préférer les destinations à **fenêtre** ou à plusieurs ressources (6.5) : moins de risque qu'elles aient été consommées | Destination à palette seule acceptable si un allié confirme qu'elle est levée |
+| Garder une palette forte | Tu ne sais pas si un allié en aura besoin : la garder a une valeur incertaine (§4.16) | L'équipe peut décider qui la garde (ex. la palette d'une zone d'endgame) |
+| Macro | Ne pas amener la chase vers une zone où un gen avance sans savoir qui y est | Annoncer la direction de sortie pour que les alliés quittent le trajet |
+| Perks d'info de tile | Windows of Opportunity / Five Moves Ahead compensent en partie l'absence de comms | Moins utiles si les comms donnent l'état des ressources |
+
+Limite : ces différences n'ont été ni mesurées ni sourcées ; elles découlent du modèle d'information (lot 6 §4.8, lot 9).
 
 ---
 
@@ -764,7 +777,15 @@ Erreur typique : aller vers la ressource la plus « forte » (main) à travers u
 | L7-C27 | Dissolution LIVE : dégâts de tout type, 12/16/20 s ; Hex: Blood Favour LIVE : dégâts de tout type, 24/28/32 m, 15 s (valeurs « was » du PTB) | [15] PTB 10.2.0 | LIVE (déduit) | VERIFIED_PRIMARY (valeur antérieure citée par BHVR) |
 | L7-C28 | Fin de poursuite : > 18 m, 5 s casier, LOS perdue > 8 s, hors ±35° (FOV 87°) | [8] Chase | LIVE | STRONG_SECONDARY |
 | L7-C29 | Bloodlust perdue sur casse de **palette**, coup, usage du pouvoir ; la fente ignore la Bloodlust (1.5.0) | [9] Bloodlust | LIVE | STRONG_SECONDARY |
-| L7-C30 | Écart nécessaire pour atteindre une ressource à D m ≈ fente + v_r × D / 4 (table §6.3) ; D_max ≈ 4 × (écart − fente) / v_r (§3.1) | CALC sur lot 6 | — | CALC (fente UNCERTAIN) |
+| L7-C30 | Écart nécessaire pour atteindre une ressource à D m ≈ fente + v_r × D / 4 + v_K × t_porte_S (table §6.3) ; D_max ≈ 4 × (écart − fente) / v_r (§3.1) | CALC sur lot 6 | — | CALC (fente et durée de drop UNCERTAIN) |
+| L7-C31 | Condition de loop sûre en temps : trajet_S/4 + t_porte_S < (trajet_K − fente)/v_K + t_porte_K ; fast vault ≈ +2,3 m, vault de palette ≈ +5,1 m de trajet tueur requis (4,6) | CALC (audit pass 14 lot 7) | — | CALC |
+| L7-C32 | Lich : Mage Hand (16 m) relève une palette baissée (0,5 + 0,5 s) ou bloque une palette levée 4 s ; Vorpal Sword → casse une palette baissée en 4 s | [21] page The Lich ; errata phase 0 | LIVE | STRONG_SECONDARY |
+| L7-C33 | Knight (10.1.1) : palette baissée pendant un Hunt → le Garde la contourne, abandon si détour > 48 m ; palette baissée sur un Garde → il la traverse | [20] notes 10.1.1 (art. 557) | 10.1.1 | VERIFIED_PRIMARY |
+| L7-C34 | Krasue Head Form : vault palette 1,9 s, fenêtre 1,67 s, stun de palette 2,5 s | [22] page Krasue (`kb/sources/wiki_killers/Burong_Sukapat.txt`) | LIVE | STRONG_SECONDARY |
+| L7-C35 | Animatronic, Iridescent Remnant : palettes levées bloquées à 32 m d'une Security Door 12 s après téléportation | [22] page Animatronic (`William_Afton.txt`) | LIVE | STRONG_SECONDARY |
+| L7-C36 | Good Guy : Scamper 1 s sous une palette baissée ou par-dessus une fenêtre pendant Slice & Dice ; casse seulement avec Hard Hat (1v4) | [22] page Good Guy ; [2] ; errata phase 0 | LIVE | STRONG_SECONDARY |
+| L7-C37 | Blight : casser une palette au sol ramène les tokens de Rush à 2 sous le max et remet la recharge à 0 % | audit VP ; notes 9.6.0 (art. 544) | 9.6.0 | VERIFIED_PRIMARY |
+| L7-C38 | Five Moves Ahead LIVE (9.5.0) : drop 50 % plus rapide en poursuite / TR, aura des 5 palettes et fenêtres les plus proches ; Superior Anatomy LIVE (9.0.0) : vault +30/35/40 % après un Rushed Vault à ≤ 12 m, CD 25 s | [23] digest perks (historique) | LIVE | STRONG_SECONDARY (le wiki affiche déjà les versions PTB) |
 
 ## Conflits
 
@@ -784,13 +805,19 @@ Erreur typique : aller vers la ressource la plus « forte » (main) à travers u
 - Source A : audit phase 0 (et lot 6 §1.3) : Mastermind (Virulent Bound) et Good Guy cités comme casseurs sans condition ; Shape, Executioner, Nemesis, Singularity, The First absents.
 - Source B : wiki Pallets (lu en entier) : Mastermind et Good Guy **vaultent** les palettes de base mais ne les **détruisent** qu'avec un add-on (Lab Photo, Hard Hat) ; ajoute Shape (confirmé [PN 9.2.0]), Executioner (Obsidian Goblet), Nemesis (MR2), Singularity (Overclock), The First (Shattered Wrist Rocket).
 - Hypothèse : l'audit (via résumé de recherche) a confondu « vaulter » et « détruire ».
-- Résolution : **Source B retenue** (page complète + note officielle pour la Shape) ; à reporter dans le lot 6 et le handbook lors de la réécriture.
+- Résolution : **Source B retenue** (page complète + note officielle pour la Shape) ; reprise dans `kb/ledgers/AUDIT_PHASE0_ERRATA.md` (qui prime sur l'audit). Précisions de l'audit pass 14 du lot 7 : Lich = casse **en 4 s** avec Vorpal Sword (pas instantanée), relève/bloque sans add-on ; Good Guy = Scamper sous la palette sans la casser (casse de base propre au 2v8). À reporter dans le lot 6 §1.3 et le handbook §3 lors de la réécriture (non fait ici : un seul fichier modifié par cet audit).
 
 #### CONFLICT-L7-04 : tueurs qui vaultent les palettes (incohérence interne du wiki)
 - Source A : wiki Pallets, « Overview » : Legion, Mastermind, Ghoul.
 - Source B : même page, « Vaulting » : Legion, Mastermind, Ghoul, **Good Guy, Krasue**.
 - Hypothèse : l'introduction n'a pas été mise à jour après l'ajout de Good Guy et Krasue.
-- Résolution : retenir la liste longue (B) comme STRONG_SECONDARY ; conditions exactes pour Good Guy et Krasue **UNCERTAIN** (voir lot 4).
+- Résolution : retenir la liste longue (B) comme STRONG_SECONDARY. Conditions précisées par l'audit pass 14 (pages tueurs) : Good Guy = Scamper 1 s pendant Slice & Dice ; Krasue = Head Form seulement, vault 1,9 s. **Résolu** (STRONG_SECONDARY).
+
+#### CONFLICT-L7-06 : le chien du Houndmaster et les palettes
+- Source A : notes officielles 9.3.2 (art. 530), correctif : « The Houndmaster's dog could get stuck after being sent to vault a window **or pallet** » → le chien peut être envoyé par-dessus une palette.
+- Source B : `deliverables/KILLER_COUNTERPLAY_HANDBOOK.md` §2.2 (ranged) : « exception Houndmaster, dont le chien est arrêté par une palette posée » ([SEED] + [CM]).
+- Hypothèse : le chien franchit une palette dans certains ordres (Search / Chase) et pas dans d'autres, ou la phrase du correctif vise une palette **levée** (passage). Un correctif de bug n'est pas une description de mécanique.
+- Résolution : **UNRESOLVED**. Ne pas compter sur une palette baissée pour arrêter le chien tant que la page wiki du Houndmaster (section pouvoir) n'a pas été lue.
 
 #### CONFLICT-L7-05 : descriptions PTB affichées comme courantes sur le wiki
 - Source A : pages Windows / Breakable Walls (27/09/2026) : Resilience, Dark Arrogance, Fire Up, Superior Anatomy, Unbound, Game Afoot marquées « based on the changes announced for … Patch 10.2.0 » ; Dissolution et Windows of Opportunity affichées **sans** que la mention apparaisse dans l'extraction texte, mais identiques au PTB.
@@ -840,10 +867,13 @@ Erreur typique : aller vers la ressource la plus « forte » (main) à travers u
 6. Casser un **mur cassable** remet-il la Bloodlust à zéro ?
 7. Temps réellement perdu par un tueur sur un drop d'étage (seed : 3-5 s) : à mesurer.
 8. Le compteur de blocage de fenêtre compte-t-il les vaults **medium/slow** ? (Le wiki dit « vaults », sans distinction.)
-9. Conditions exactes de vault de palette de Good Guy et Krasue (CONFLICT-L7-04).
+9. ~~Conditions exactes de vault de palette de Good Guy et Krasue~~ : résolu par l'audit pass 14 (CONFLICT-L7-04). Reste : le chien du Houndmaster franchit-il une palette baissée ? (CONFLICT-L7-06)
 10. Valeurs LIVE de Windows of Opportunity (la page wiki affiche la refonte PTB).
 11. Portée à laquelle un survivant entend une palette cassée ailleurs (utile pour la carte mentale en SoloQ).
 12. Hiérarchies d'experts (LW > SW, opened > closed, T > L) : à confronter à une source experte écrite et datée (non trouvée ; la vidéo d'Otzdarva [17] n'a pas pu être consultée).
+13. Durée d'abaissement d'une palette (t_porte_S du drop, §2.1) : toutes les conditions « safe » de palette en dépendent.
+14. Loops des cartes **intérieures** (RPD, Midwich, Treatment Theatre, Underground Complex, Lampkin Lane, Badham : pas de maze tiles) : aucune fiche ici ; à traiter au lot 8.
+15. Valeur LIVE de Windows of Opportunity (reconstruire depuis l'historique du wiki : la note PTB 559 ne donne pas de « was »).
 
 ## Sources
 
@@ -865,4 +895,8 @@ Erreur typique : aller vers la ressource la plus « forte » (main) à travers u
 [16] Hens333 — Callouts (système horaire de repérage des cartes) — https://hens333.com/callouts — consulté le 27/09/2026 via curl ; EXPERT_OPINION (outil de communication, pas de théorie de tiles)
 [17] Otzdarva — « All Common Tiles Explained | Dead by Daylight » (chaîne not Otzdarva), lien depuis https://otzdarva.com/dbd/beginner-guides — https://www.youtube.com/watch?v=E5QWNS14MS0 — **titre seul lu (oEmbed) ; contenu NON consulté (captcha YouTube)** ; non utilisé
 [18] Guide Steam « How to Loop The Killer Shack » (doruk, 30 janv. [2026 ?]) — https://steamcommunity.com/sharedfiles/filedetails/?id=3657015784 — consulté le 27/09/2026 ; COMMUNITY_OBSERVATION de faible qualité, cité uniquement comme exemple de la règle populaire « 3 vaults puis palette »
-[19] Sources internes : `kb/seed/ch0_2.txt` (seed, critiqué), `kb/seed/audit_phase0.txt`, `kb/research/batch6_chase_tech.md`, `kb/deliverables/KILLER_COUNTERPLAY_HANDBOOK.md` §3
+[19] Sources internes : `kb/seed/ch0_2.txt` (seed, critiqué), `kb/seed/audit_phase0.txt`, `kb/ledgers/AUDIT_PHASE0_ERRATA.md`, `kb/research/batch6_chase_tech.md`, `kb/deliverables/KILLER_COUNTERPLAY_HANDBOOK.md` §2.2 et §3
+[20] 10.1.1 | Bugfix Patch (notes officielles) — https://forums.bhvr.com/dead-by-daylight/kb/articles/557 — `official_557.txt` (Knight : gardes et palettes) ; 9.6.0 (art. 544, `official_544.txt`, Blight)
+[21] The Lich — https://deadbydaylight.wiki.gg/wiki/The_Lich — relu le 27/09/2026 via `kb/tools/wiki_text.py` (audit pass 14)
+[22] Pages tueurs archivées `kb/sources/wiki_killers/` : Burong_Sukapat (Krasue), Charles_Lee_Ray (Good Guy), William_Afton (Animatronic) — wiki.gg, STRONG_SECONDARY
+[23] `kb/sources/wiki_perks_digest.md` (Five Moves Ahead, Superior Anatomy, Lithe, Balanced Landing, Enduring, Spirit Fury, Any Means Necessary, Last Stand) — attention au piège PTB décrit dans l'errata

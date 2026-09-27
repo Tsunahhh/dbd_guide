@@ -7,7 +7,8 @@
 > Référence : **LIVE 10.1.2a (17/09/2026)** · date de travail 27/09/2026 · PTB 10.2.0 **non LIVE** (aucun changement de carte hors bugfix dans ses notes, KB 559 [16]).
 > Sources lues **en texte complet** : wiki officiel (API MediaWiki deadbydaylight.wiki.gg, pages « Realms », 44 pages de cartes + Lampkin Lane + RPD original, 20 pages de royaume, Maze Tiles, Killer Shack, Basement, Hills, Sacrificial Tree, Harvester, 2v8) et notes de patch BHVR archivées (`kb/sources/patches/official_*.txt`). Module wiki `Datatable.lua` (table `maps`) et `Maps.lua` archivés.
 > Pas de VOD, pas de NightLight (403), pas de reddit : **aucun kill rate** n'est donné (aucune fenêtre unique datée avec n n'a pu être lue). Voir §6.
-> Étiquettes : **FACT** (wiki/notes) · **HEURISTIC** (mon analyse, non mesurée) · **COMMUNITY** (réputation non sourcée) · **NON VÉRIFIÉ**.
+> Étiquettes : **FACT** (wiki/notes) · **HEURISTIC** (mon analyse, non mesurée) · **COMMUNITY** (réputation non sourcée) · **NON VÉRIFIÉ** · ajoutées à l'audit : **CALC** (calcul sur des entrées sourcées, hypothèses dites) · **HYPOTHESIS** (inférence plausible non confirmée).
+> Audit du 27/09/2026 : corrections re-vérifiées sur pages wiki complètes via `kb/tools/wiki_text.py` (Maze Tiles, Killer Shack, Realms, Basement, Pallets, 2v8 et ~20 pages de cartes) ; marqueurs « M.. » = ID du rapport `kb/audit/pass14_lot8_maps.md`.
 > Confiance : notes officielles = VERIFIED_PRIMARY ; page wiki complète seule = STRONG_SECONDARY ; les deux = VERIFIED_MULTI_SOURCE.
 
 ---
@@ -249,7 +250,7 @@ Commun (FACT) : **Crane, School Bus et Car Crusher sur toutes les cartes** [19] 
 - Seed « 9.2.0 : correctif de navigation autour du bus » → c'était la navigation des **bots** (IMPRÉCIS).
 
 **Wreckers' Yard (I, 144)** — STRONG_SECONDARY
-- Fixe : **pas de main building** ; **Killer Shack au centre, contient toujours le sous-sol** ; autour du shack : **pas de hauts murs** (murets bas, pull-downs, espace ouvert, souvent une petite colline) ; périphérie : hauts murs de ferraille, bus, grues, citernes. 6.7.0 : 5 maze tiles (au lieu de 6).
+- Fixe : **pas de main building** ; **Killer Shack au centre, contient toujours le sous-sol** ; autour du shack : **pas de hauts murs** (murets bas, pull-downs, espace ouvert, souvent une petite colline) ; périphérie : hauts murs de ferraille (« high walls of scrap », page de la carte ; les murs des gyms du royaume sont « medium » : CONFLICT-B8-07), bus, grues, citernes. 6.7.0 : 5 maze tiles (au lieu de 6).
 - RNG : type des gyms, fillers.
 - Tueurs (HEURISTIC) : sous-sol central = crochets de sous-sol à courte distance de presque toute la carte → le tueur peut l'utiliser plus souvent qu'ailleurs ; périphérie à hauts murs de ferraille (page de la carte) = obstacles de LOS.
 - Plan (HEURISTIC, révisé M16) : survivants : quand on a le choix de la direction de chase, préférer la périphérie au centre dégagé (murets bas autour du shack = peu de LOS à casser) ; si l'on tombe près du centre, s'attendre au sous-sol et préparer le sauvetage à plusieurs (sortie unique : lot 7 §4.15). Le tueur ne choisit pas librement le sens de la chase et n'est pas obligé d'utiliser le sous-sol (portage plus long ailleurs) : ne pas en faire une certitude.
@@ -298,6 +299,7 @@ Commun (FACT) : **Sacrificial Tree (« Cow Tree ») et Harvester sur toutes les 
 - RNG : sous-sol, coffre, crochet possibles.
 - 9.2.0 (wiki seul) : 168 → 156 ; non mentionné dans les notes officielles.
 - 10.1.2 : collision de mur du main laissant passer les projectiles corrigée [12].
+- Tueurs / plan (HEURISTIC, ajout M28) : main à **1 seule fenêtre** et 1 casier = ressource de chase limitée (3 vaults par poursuite, lot 7 §1.1) ; le gen fixe du Silo se répare donc avec une sortie planifiée vers une autre tile ; rien de spécifique au-delà du cadre §3.0 / §4.2.
 
 ### 3.4 Crotus Prenn Asylum (béton, bois brûlé)
 
@@ -330,7 +332,7 @@ Commun : **Pier (ponton) sur toutes les cartes** [19] ; 9.3.0 : **spawn logic de
 - RNG : sous-sol possible (bateau) ; coffre/totem/gen possibles (Shrimp Boat).
 - Historique : 215 → 161 (2.3.0) ; 2.5.0 : crochets plus probables au centre.
 - Tueurs (HEURISTIC) : carte parmi les plus grandes → mobilité avantagée ; la corne de brume signale la fin du gen du bateau à tous.
-- Plan (HEURISTIC) : attention au crow bomb en infiltration ; corne = le tueur sait où vous étiez.
+- Plan (HEURISTIC) : attention au crow bomb en infiltration ; la corne signale la fin du gen du bateau ; ce qu'elle ajoute à ce que le tueur sait déjà d'un gen terminé, et sa portée audible, sont **non vérifiés** — par prudence, quitter le bateau après la réparation plutôt que d'y rester.
 
 **Grim Pantry (168)** — STRONG_SECONDARY
 - Fixe : **Pantry** grand bâtiment ouvert 2 niveaux (plusieurs escaliers), **gen à l'étage** (le réparer **ouvre une vanne extérieure**, accès plus facile au bas), 2 palettes, 6 casiers (2 haut, 4 bas) ; **Cursed Cabin** 2 niveaux, **gen à l'étage** (ouvre sa vanne), 2 palettes, 1 fenêtre, 1 porte, **1 crochet**, 2 casiers ; coffre dans chacun (étage haut/bas selon le cas). 2.5.0 : nouveau crow bomb.
@@ -474,7 +476,7 @@ Pas dans les passes palettes 9.2.0/9.3.0/9.3.2. Offrande Crow's Eye = royaume, 2
 **Dead Sands (140, 8.6.0)** — STRONG_SECONDARY (fiche **peu documentée**)
 - Fixe : **centrée sur le Killer Shack**, **pas d'Eyrie** ; statues sentinelles (décor). Ajoutée « pour étendre le lore » et « pour nerfer l'offrande du royaume » (notes 8.6.0 citées par le wiki).
 - RNG : tout le reste (non documenté).
-- Sous-sol : probablement au shack faute de main (inférence non sourcée).
+- Sous-sol : probablement au shack faute de main (inférence non sourcée) — la page Killer Shack [17] ne cite **que** Wreckers' Yard et Rotten Fields comme cartes à sous-sol toujours au shack ; Dead Sands (8.6.0) y est absente (page non mise à jour ou autre emplacement possible) → UNCERTAIN.
 - Tueurs / plan (HEURISTIC) : sans main, la carte dépend des tiles RNG ; shack central = sous-sol central probable.
 
 ### 3.17 Withered Isle (planches blanches, végétation)
@@ -482,7 +484,7 @@ Pas dans les passes palettes 9.2.0/9.3.0/9.3.2. Offrande Crow's Eye = royaume, 2
 Pas dans les passes palettes 9.x. Garden of Joy = seule carte avec **2 designs de murs de gyms** [17]. « Pas de pallet gym ni de 4-lane » (seed, wiki) : possiblement périmé (pool commun 9.2.0). « Impostor jungle gyms » (seed) : NON VÉRIFIÉ.
 
 **Garden of Joy (164)** — STRONG_SECONDARY
-- Fixe : **Mansion** 2 niveaux : RDC salon/salle à manger/cuisine, **4 entrées** ; étage 4 chambres + débarras, accès au toit du porche ; **gen fixe à l'étage** ; **coffre garanti dans le débarras** (2e coffre possible) ; plusieurs fenêtres ; **1 à 2 palettes**. **Parking Lot** (bout de route, opposé au shack) : **palette** (voiture grise / poubelle) et **fenêtre** sur clôture fixes.
+- Fixe : **Mansion** 2 niveaux : RDC salon/salle à manger/cuisine, **4 entrées** ; étage 4 chambres + débarras, accès au toit du porche ; **gen fixe à l'étage** ; plusieurs fenêtres ; **1 à 2 palettes** (nombre RNG). ⚠️ M03 : coffre **non garanti** — le wiki dit « potentially contains **up to two** Chests : in a storeroom at the end of the top floor hallway » (l'ancienne version disait « coffre garanti dans le débarras »). **Parking Lot** (bout de route, opposé au shack) : **palette** (voiture grise / poubelle) et **fenêtre** sur clôture fixes.
 - RNG : **Gazebo OU Greenhouse** (mutuellement exclusifs) ; **Treehouse OU Train Car** (mutuellement exclusifs) ; Greenhouse : fenêtre **ou** palette ; sous-sol, totem (4 emplacements), crochet sur le toit possibles.
 - 7.4.0 : passe gameplay réduisant la force de certains tiles.
 - Lecture (COMMUNITY, seed) : « dining room window » très forte — non mesuré.
@@ -504,7 +506,7 @@ Pas dans les passes palettes 9.x. Garden of Joy = seule carte avec **2 designs d
 **Fallen Refuge (128, 9.1.0)** — VERIFIED_MULTI_SOURCE (fiche **peu documentée**)
 - Fixe : **Prison Tower** (tile thématique The Walking Dead) = « variante d'un Short Wall Jungle Gym » ; **gen fixe dans la tour** ; rôdeurs pendus / portes barricadées qui s'agitent (bruit) au passage ou au gen.
 - RNG : reste (carte ≈ Withered Isle « shack » + tile TWD ; nom de fichier « ApplePieShack »).
-- Tueurs (HEURISTIC) : 3e plus petite carte → M1 moins pénalisés, mobilité moins utile.
+- Tueurs (HEURISTIC) : 3e plus petite carte **mesurée** (RPD et Trickster's Delusion non mesurées) ; 128 sqT ≈ 1,7 s de moins par traversée que la médiane (§3.0) → effet de taille **faible** : « M1 moins pénalisés, mobilité moins utile » reste une tendance, pas un avantage net.
 - Plan (HEURISTIC) : la tour est une loop de type jungle gym, pas un main à étages → ne pas la surestimer.
 
 ### 3.18 The Decimated Borgo (turquoise depuis 8.0.0)
@@ -531,15 +533,15 @@ Pas dans les passes palettes 9.x. Chaque carte a **sa propre offrande de carte**
 **Toba Landing (136, 7.0.0)** — STRONG_SECONDARY
 - Fixe : **The Base** (vaisseau) **3 niveaux** : **niveaux 1 et 2 non reliés par l'intérieur** (sortir pour passer), niveau 3 = pont avec **gen fixe** ; plusieurs fenêtres, palettes (une au niveau 1 + sous/autour du vaisseau) ; **Alien Flower** et **Space Rover** : **chacun gen + 2 casiers + 1 palette + 1 fenêtre**, **toujours dans des coins opposés, positions interchangeables** (RNG laquelle est où). **Pas de collines**.
 - RNG : sous-sol possible **sous** le vaisseau ; coffres (2 possibles), totems.
-- Tueurs (HEURISTIC) : 3 gens fixes très écartés (centre + 2 coins opposés) → carte « à traversées » ; mobilité avantagée malgré la taille moyenne.
-- Plan (HEURISTIC) : tueur : ne pas se laisser tirer entre les deux coins ; survivants : les deux structures de coin sont des spots de chase fiables (fenêtre + palette fixes).
+- Tueurs (HEURISTIC, précisé M10) : carte **petite** en surface (136 sqT, classée « petite » au §4) mais 3 gens fixes très écartés (centre + 2 coins opposés : la diagonale d'un carré de 136 sqT ≈ 132 m, ≈ 29 s à 4,6 m/s — CALC, hypothèse carrée) → les trajets **entre gens fixes** sont longs malgré la petite surface : c'est la position des gens, pas la taille, qui avantage ici la mobilité. Aucun 3-gen possible avec ces trois gens fixes.
+- Plan (HEURISTIC, révisé M19) : tueur : ne pas se laisser tirer entre les deux coins ; survivants : les deux structures de coin sont des spots de chase **garantis** (fenêtre + palette fixes) mais **finis** : 3 vaults de la fenêtre par poursuite puis blocage, 1 palette (lot 7 §1.1), et peu de valeur contre un anti-loop ou un Ranged si la fenêtre s'ouvre sur du dégagé ; prévoir la tile suivante.
 - Seed « moitié gauche = murs plante, droite = roche » : NON VÉRIFIÉ.
 
 **Nostromo Wreckage (152, 7.2.0)** — STRONG_SECONDARY
-- Fixe : épave **un seul niveau** (couloirs), beaucoup de fenêtres et drops, **3 rampes** ; **2 gens garantis** (Mess Hall ; fond de l'aile gauche) + 1 possible (aile droite) ; **coffre fixe au Mess Hall** ; **2 pièges « coolant vent » réarmables** (ralentissent fortement le joueur touché ; les survivants peuvent les réarmer) ; salle secrète MU/TH/UR (Keycard sur un cadavre aléatoire → coffre garanti lampe ou toolbox). **Narcissus** (coin) : 4 entrées, 2 casiers, **palette fixe**. **Pas de shack**, **pas de collines**. **Exit Gates prévisibles** : une le long du segment de mur rectiligne du côté gauche, l’autre sur la moitié haute du long mur rectiligne du côté droit (repère wiki : main en haut).
+- Fixe : épave **un seul niveau** (couloirs), beaucoup de fenêtres et drops, **3 rampes** ; **2 gens garantis** (Mess Hall ; fond de l'aile gauche) + 1 possible (aile droite) ; **coffre fixe au Mess Hall** ; **2 pièges « coolant vent »** armés au chargement, réarmables par les **survivants** seulement ; ils se déclenchent quand **n'importe quel joueur** passe devant, avec un bref délai (« shortly afterwards »), et ralentissent fortement **tout joueur** touché ; salle secrète MU/TH/UR (Keycard sur un cadavre aléatoire → coffre garanti lampe ou toolbox). **Narcissus** (coin) : 4 entrées, 2 casiers, **palette fixe** contre le mur du fond. **Pas de shack**, **pas de collines**. **Exit Gates « largely predictable »** (M05 : largement prévisibles, **pas garanties**) : une le long du segment de mur rectiligne du côté gauche, l'autre sur la moitié haute du long mur rectiligne du côté droit (repère wiki : main en haut).
 - RNG : sous-sol (dehors du Nostromo **ou** Narcissus) ; 3e gen ; totem.
-- Tueurs (HEURISTIC) : 2-3 gens dans un seul bâtiment → cluster ; gates prévisibles → tueur peut préparer la fin ; les vents punissent le tueur qui suit à travers.
-- Plan (HEURISTIC) : survivants : faire tôt les gens de l'épave (sinon 3-gen) ; utiliser les vents en chase.
+- Tueurs (HEURISTIC) : 2-3 gens dans un seul bâtiment → seule fiche de ce lot où le wiki documente jusqu'à **3 gens dans un même bâtiment** (quand le 3e gen apparaît dans l'aile droite) ; gates largement prévisibles → le tueur peut préparer la fin ; les vents peuvent punir le tueur qui suit à travers.
+- Plan (HEURISTIC, révisé M09/M20) : survivants : si le 3e gen est dans l'épave, ne pas laisser les 3 gens de l'épave pour la fin ; **vents** : réarmer hors chase, puis passer devant avec de l'avance pour que le jet touche le tueur qui suit — risque : le délai de déclenchement est court et non chiffré, un survivant trop lent ou qui revient sur ses pas se ralentit lui-même, et un vent déjà déclenché ne protège plus (seuls les survivants réarment). Ne pas en faire un plan de chase sans l'avoir testé en Custom Game.
 
 ### 3.20 Sleepless District — Trickster's Delusion (9.5.0, 17/03/2026 ; taille non mesurée)
 
@@ -559,20 +561,60 @@ STRONG_SECONDARY (fiche **peu documentée** côté stratégie ; carte récente)
 
 ## 4. Synthèse transversale (HEURISTIC — non mesurée, à valider par données)
 
-| Profil de carte | Cartes (LIVE) | Ce que ça change | Archétypes aidés | Archétypes gênés |
-|---|---|---|---|---|
-| Grande (≥ 160 sqT) | Shelter Woods, Azarov's, Grim Pantry, Wretched Shop, Garden of Joy, Pale Rose, Ironworks, Suffocation Pit, Rotten Fields, Greenville | Distance entre gens, rotations longues | mobilité | M1/lents |
-| Petite (≤ 136 sqT) | Treatment Theatre, Midwich, Fallen Refuge, Coal Tower, Ormond Lake Mine, Forgotten Ruins, Temple, Toba, Dead Dawg | Pression rapide, gates vite couvertes | M1, zone | survivants dépendant de la distance |
-| Intérieure / multi-niveaux intégrale | The Game, Midwich, RPD East/West, Underground Complex, Treatment Theatre (+ donjon de Forgotten Ruins) | Goulets, sons trompeurs entre étages, peu ou pas de shack | zone/pièges | tueurs dépendant de la LOS longue |
-| Murs hauts / faible LOS | Autohaven (surtout), MacMillan, Asylum, Yamaoka | Casser la LOS, mindgames | furtifs | distance/LOS |
-| Lumineuse / ouverte | Mount Ormond Resort, Coldwind (jour) | Lecture à distance pour les deux camps | distance/LOS | furtifs |
-| Cluster de gens **fixes** proches | Ormond Lake Mine (Building + Tower), Nostromo (2-3 gens dans l'épave), Disturbed Ward (2 gens du main), Dead Dawg (Saloon + Gallows) | 3-gen de fin facile à tenir si laissé | tueur défensif | — |
-| Sous-sol à emplacement fixe | The Game (derrière la Bathroom), Wreckers' Yard (shack central) ; probable : Rotten Fields, Dead Sands | Proxy-camp du sous-sol prévisible | tueur | survivants descendus à proximité |
+### 4.1 Profils de cartes (révisé à l'audit : M01, M02, M09, M10, M11, M13, M14, M26)
 
-Règles de plan communes (HEURISTIC) :
-- **Début** : identifier main + gens fixes du main ; ne pas lancer à 2 le gen d'un main vertical si le tueur est proche (on brûle la meilleure ressource de chase).
-- **Milieu** : garder main / structures fortes comme « banque » de chase ; surveiller le cluster de gens fixes (liste ci-dessus).
-- **Fin** : sur les cartes à gates prévisibles (Nostromo) ou à sous-sol fixe, anticiper ; ailleurs, les gates sont RNG sur le pourtour — ne rien présumer.
+Lire d'abord le §3.0 : l'effet de la taille est faible entre cartes moyennes, et « M1 » ne couvre pas les tueurs anti-loop.
+
+| Profil de carte | Cartes (LIVE) | Ce que ça change | Archétypes aidés | Archétypes gênés | Limite / contre-cas |
+|---|---|---|---|---|---|
+| Grande (≥ 160 sqT) | Shelter Woods, Azarov's, Grim Pantry, Wretched Shop, Garden of Joy, Pale Rose, Ironworks, Suffocation Pit, Rotten Fields, Greenville | Distance entre gens, rotations longues (≈ +1 à +1,7 s par traversée vs médiane, §3.0) | mobilité | M1/lents | Gens RNG regroupés = effet annulé ; différence faible sous 176 sqT |
+| Petite (≤ 136 sqT **ou** emprise au sol ≤ 76 sqT) | Treatment Theatre, Midwich, Fallen Refuge, Coal Tower, Ormond Lake Mine, Forgotten Ruins, Temple, Toba, Dead Dawg ; **+ The Game** (142 au total mais 76 + 66 sur 2 niveaux) | Pression rapide, gates vite couvertes | M1, zone | survivants dépendant de la distance | Toba : gens fixes en coins opposés = longs trajets malgré la petite surface |
+| Intérieure / multi-niveaux intégrale | The Game, Midwich, RPD East/West, Underground Complex, Treatment Theatre (+ donjon de Forgotten Ruins) | Goulets, sons trompeurs entre étages, peu ou pas de shack, **beaucoup de casiers** | zone/pièges ; Dredge (casiers) ; furtifs à coins (Ghost Face, Onryō) | Ranged à LOS longue ; Nurse (étages : blink raté = fatigue, handbook §3) | Handbook §3 « Intérieur » : ↑ survivant contre Demogorgon, Knight, Huntress… — lire la fiche du tueur |
+| Murs de gyms hauts | **La plupart des royaumes** (lot 7 §4.0 : MacMillan, Coldwind, Asylum, Swamp, Red Forest, Gideon, Yamaoka, Ormond, Glenvale, Silent Hill, Boneyard, Withered Isle) | Casser la LOS, mindgames | furtifs | distance/LOS | Critère **peu discriminant** : presque toutes les cartes l'ont |
+| Murs de gyms medium / mixtes | **Autohaven** (medium, M01), Garden of Joy (mixte) ; Borgo, Dvarka : hauteur non précisée | LOS partielle : le tueur voit la tête du survivant | distance/LOS (tir par-dessus, lot 7 §5.1) | survivants qui comptent sur les mindgames | Réputation « Autohaven = survivant » (COMMUNITY) non expliquée par la hauteur des murs de gyms |
+| Lumineuse / ouverte | Mount Ormond Resort ; Coldwind **hors maïs et hors gyms** (M11) | Lecture à distance pour les deux camps | distance/LOS | furtifs | Coldwind : le maïs inverse la lecture |
+| Gens **fixes** proches (2 sur 3 d'un 3-gen) | Ormond Lake Mine (Building + Tower), Disturbed Ward (2 gens du main), Dead Dawg (Saloon + Gallows) ; **Nostromo** : jusqu'à 3 gens dans l'épave | 3-gen possible **seulement** si un 3e gen proche reste avec eux (M09) | tueur défensif | — | Le 3e gen est RNG (sauf Nostromo) : vérifier à mi-partie |
+| Sous-sol à emplacement fixe | The Game (derrière la Bathroom), Wreckers' Yard et Rotten Fields (shack) — FACT ; probable : Dead Sands | Position du crochet de sous-sol connue d'avance (des deux côtés) | tueur | survivants descendus à proximité | Information aussi pour les sauveteurs ; le tueur n'est pas obligé de l'utiliser |
+| Sous-sol à 2 emplacements | Treatment Theatre, Underground Complex, RPD | Le repérer à la première rotation suffit | — | — | — |
+
+### 4.2 Règles de plan communes (HEURISTIC) — avec pourquoi, quand, contre-cas (audit M17)
+
+**R1 — Début : identifier le main, ses gens fixes et ce qui est RNG.**
+- Pourquoi : les gens fixes (fiches) sont connus avant de les voir ; tout le reste (fenêtre active, palettes, sous-sol, gens RNG) est à confirmer. Un plan bâti sur un élément RNG supposé fixe est l'erreur n° 1 que corrige ce lot.
+- Quand : pendant le trajet vers le premier gen (pre-run, lot 7 §6.2).
+- Échec : lire la fiche d'une **variante** Custom Game (II-V) au lieu de la I ; croire un élément « contains » du wiki que BHVR a changé depuis (ex. totem de Dead Dawg, 9.3.0).
+
+**R2 — Ne pas démarrer à 2 le gen d'un main vertical quand le tueur est proche.**
+- Pourquoi : la chase qui commence là consomme d'emblée la meilleure ressource de la zone, avec 2 survivants sur place (un seul coup de patrouille en trouve deux).
+- Quand : tueur **proche** (TR, indice de patrouille) ; si le tueur est loin et en chase ailleurs, réparer au main est au contraire efficace (la ressource reste à portée).
+- Contre : tueur qui annule le main (Nurse, Blight, casseurs de palettes : lot 7 §5.2) → le main vaut moins ; le garder n'a alors pas de sens.
+
+**R3 — Milieu : garder une structure forte comme « banque » de chase.**
+- Pourquoi : une ressource fixe et connue permet une chase longue au moment où les palettes aléatoires sont consommées.
+- Quand : tant qu'elle ne coûte pas d'état de santé à garder et qu'une autre ressource travaille à sa place (même règle que la palette forte, lot 7 §4.16).
+- Échec : (a) en SoloQ, un allié la consomme de toute façon — votre « banque » peut être vide quand vous arrivez ; (b) le tueur casse les murs / palettes du main en patrouille ; (c) le main est au cœur d'un 3-gen que le tueur défend : y ramener la chase l'aide ; (d) garder une ressource alors qu'un allié tombe faute de palettes n'a rien rapporté.
+
+**R4 — Surveiller les gens fixes proches (tableau 4.1).**
+- Pourquoi : 2 gens fixes proches + 1 gen RNG voisin = 3-gen défendable.
+- Quand : à mi-partie, compter les gens restants et leur voisinage ; agir seulement si les trois derniers sont proches.
+- Contre-cas : réparer ailleurs pendant que le tueur protège ce groupe est aussi une réponse ; en SoloQ, sans communication, choisir le gen le plus isolé du groupe.
+
+**R5 — Fin : anticiper les gates quand c'est documenté.**
+- Documenté : Nostromo (largement prévisibles, pas garanties), Underground Complex (Exit Doors), RPD (3 emplacements sur le RPD original, répartition par aile inconnue). Ailleurs : positions RNG sur le pourtour — **ne rien présumer**.
+- Échec : partir vers « la gate habituelle » sans l'avoir vue.
+
+### 4.3 SoloQ / SWF sur les cartes (HEURISTIC, ajout d'audit M21)
+
+- **SWF** : une information RNG repérée par un joueur (quelle porte de garage ouverte à Groaning Storehouse, quelle fenêtre active à Gas Heaven / Wretched Shop, côté de l'Alien Flower à Toba, position du gen du Main Hall au RPD, emplacement du sous-sol) devient une information d'équipe en quelques secondes ; l'équipe peut aussi brûler une offrande de royaume ou de carte (20 %, non cumulables : audit) pour jouer une carte qu'elle a préparée — sans garantie.
+- **SoloQ** : chacun doit repérer seul l'état RNG ; supposer que les alliés ne connaissent **pas** les éléments fixes (surtout sur les cartes rares : royaumes à carte unique ≈ 2,3 % des parties, §0) ; la « banque » de chase (R3) est incertaine ; les signaux sonores des cartes (sonnette de Gas Heaven, corne du Pale Rose, feu d'artifice du Market, show de Freddy Fazbear's Pizza) sont les rares informations partagées sans voix — leur portée et l'éventuelle notification côté tueur sont **non vérifiées**.
+- **Commun** : sans kill rate par carte (§6), aucune offrande « de carte forte » ne peut être recommandée sur données.
+
+### 4.4 Drills (HEURISTIC)
+
+1. **Reconnaissance en Custom Game** (1 carte par séance, variante I) : noter main, gens fixes, fenêtres/palettes fixes, emplacements de sous-sol, puis comparer à la fiche — et signaler tout écart (la fiche peut être périmée).
+2. **Priorité d'apprentissage** : MacMillan, Autohaven, Coldwind d'abord (≈ 1/3 des parties, §0), puis les cartes à règles propres (The Game, Underground Complex, RPD, Nostromo, Trickster's Delusion).
+3. **Test des hypothèses de ce lot** : portes coulissantes de The Game (M07), vents du Nostromo (M20), sous-sol de Dead Sands, portée des sons de carte — une partie personnalisée par question.
+4. **Exercice de début de partie** : à chaque partie publique, identifier en moins de 30 s la carte (royaume + structures visibles), son main et ses gens fixes, et l'annoncer (voix ou note) ; vérifier après la partie.
 
 ---
 
@@ -583,6 +625,7 @@ Règles de plan communes (HEURISTIC) :
 | Bien documentées (main + landmarks + changelog) | Coal Tower, Ironworks, Gas Heaven, Wreckers' Yard, Disturbed Ward, Chapel, Pale Rose, Grim Pantry, Treatment Theatre, Mother's Dwelling, Badham, The Game, MOR, Ormond Lake Mine, Underground Complex, Dead Dawg, Midwich, RPD East/West, Garden of Joy, Greenville, Shattered Square, Toba, Nostromo, Trickster's Delusion |
 | Moyennement | Groaning Storehouse, Shelter Woods, Suffocation Pit, Azarov's, Blood Lodge, Wretched Shop, Cowshed, Rancid Abattoir, Thompson, Torment Creek, Temple, Family Residence, Sanctum, Eyrie, Forgotten Ruins |
 | **Peu documentées** (à compléter) | **Rotten Fields**, **Dead Sands**, **Freddy Fazbear's Pizza**, **Fallen Refuge** (et Trickster's Delusion côté stratégie : carte de mars 2026) |
+| Fiches **sans ligne spécifique** « Tueurs » ou « Plan » (audit M28 : rien de propre à la carte dans les sources lues ; appliquer §3.0 et §4.2, ne pas inventer) | Tueurs : Fractured Cowshed, Rancid Abattoir, Thompson House, Father Campbell's Chapel, Mount Ormond Resort (visibilité seulement) · Plan : Mother's Dwelling, Family Residence, Sanctum of Wrath, Garden of Joy |
 | Non documenté pour toutes | positions des gates, nombre de palettes par carte, spawns exacts des gens hors bâtiments, taux de palettes après 9.3.2 |
 
 ---
@@ -615,12 +658,18 @@ Règles de plan communes (HEURISTIC) :
 | B8-015 | The Game : escalier du sous-sol toujours derrière la Bathroom ; gens reliés aux portes coulissantes | [2] | LIVE | STRONG_SECONDARY |
 | B8-016 | Wreckers' Yard : shack central, contient toujours le sous-sol | [2] | LIVE | STRONG_SECONDARY |
 | B8-017 | Toba Landing : Alien Flower et Space Rover toujours en coins opposés, positions interchangeables | [2] | LIVE | STRONG_SECONDARY |
-| B8-018 | Nostromo : 2 gens garantis (+1 possible), 2 vents réarmables, gates à spawns prévisibles | [2] | LIVE | STRONG_SECONDARY |
+| B8-018 | Nostromo : 2 gens garantis (+1 possible), 2 vents réarmables par les survivants (touchent tout joueur), gates « largely predictable » (pas garanties) | [2] | LIVE | STRONG_SECONDARY |
 | B8-019 | Forgotten Ruins : ≥ 4 crochets toujours au donjon (8.0.2) | [2] | 8.0.2 | STRONG_SECONDARY |
 | B8-020 | Freddy Fazbear's Pizza : ball pit dans l'arcade quand le sous-sol est au shack | [2] | LIVE | STRONG_SECONDARY |
 | B8-021 | Garden of Joy : Gazebo XOR Greenhouse, Treehouse XOR Train Car | [2] | LIVE | STRONG_SECONDARY |
 | B8-022 | Shattered Square : Marketplace XOR Gallows ; main en coin depuis 7.3.0 | [2] | 7.3.0 | STRONG_SECONDARY |
 | B8-023 | Trickster's Delusion : gens fixes Night Club + Market ; Low Streets 4 emplacements de fenêtres dont 2 actifs | [2][9] | 9.5.0 | STRONG_SECONDARY |
+| B8-025 | Rotten Fields et Wreckers' Yard : le Killer Shack contient toujours le sous-sol | [17] (Killer Shack) | LIVE | STRONG_SECONDARY (concorde lot 7) |
+| B8-026 | Autohaven : murs des maze tiles « medium » (et non hauts) | [17] (Maze Tiles, Designs) | LIVE | STRONG_SECONDARY (concorde lot 7 ; voir CONFLICT-B8-07) |
+| B8-027 | Garden of Joy : Mansion « potentially contains up to two Chests » (aucun coffre garanti) | [2] | LIVE | STRONG_SECONDARY |
+| B8-028 | Treatment Theatre : crochet fixe au RDC de la Treatment Room ; panneaux clignotants = chance accrue (2.5.0), pas garantie | [2] | LIVE | STRONG_SECONDARY |
+| B8-029 | Underground Complex : 2 emplacements de sous-sol, dont un dans le Rift Lab | [2] | LIVE | STRONG_SECONDARY |
+| B8-030 | Realm Repeat Prevention : même royaume consécutif impossible ; royaumes récents « unlikely, but not zero » | [1] | 8.5.0 → LIVE | STRONG_SECONDARY |
 | B8-024 | 2v8 : pool wiki de 26 cartes supersized (V1-V9), dont RPD original et Nostromo (10.1.2) | [18][12][15][10] | LIVE (mode événementiel) | VERIFIED_MULTI_SOURCE (partiel) |
 
 ## Conflits
@@ -659,6 +708,12 @@ Règles de plan communes (HEURISTIC) :
 - Hypothèse : désactivation par hotfix/annonce hors notes (exploit ou crash) entre 10.0.0 et 10.0.1.
 - Résolution : UNRESOLVED (sans impact LIVE : cartes actives en 10.1.2a).
 
+#### CONFLICT-B8-07 : hauteur des murs à Autohaven (ajout d'audit M01)
+- Source A : wiki Maze Tiles, section Designs — Autohaven : « Medium walls of metal scrap » (lot 7 §4.0 concorde).
+- Source B : wiki Wreckers' Yard — « Most of the space is taken up by high walls of scrap » ; seed et réputation communautaire : « hauts murs, faible LOS ».
+- Hypothèse : A décrit les **maze tiles** (gyms) de tout le royaume, B les murs de **périphérie** propres à Wreckers' Yard ; la réputation du seed généralise B à tout le royaume.
+- Résolution : partielle — gyms d'Autohaven = murs medium (LOS partielle) ; hauts murs seulement là où une page de carte les décrit. Vérification visuelle en Custom Game recommandée.
+
 ## Écarts avec le guide seed
 
 | Élément | Le guide dit | Vérifié | Verdict |
@@ -678,10 +733,11 @@ Règles de plan communes (HEURISTIC) :
 | Unité | « 1 tile = 8×8 m » | sqT = unité wiki ; tuiles réelles 16-32 m ; pas de mesure officielle | IMPRÉCIS |
 | Cartes sans shack | Treatment, The Game, Underground, Midwich, RPD, Nostromo (+ Lampkin) | identique | OK |
 | Cartes sans maze tiles | Badham, Treatment, Underground, RPD E/W (+ Lampkin) | identique | OK |
-| Rotten Fields | shack central contient toujours le sous-sol | wiki : seulement « pas de main » ; sous-sol au shack = inférence | IMPRÉCIS |
+| Rotten Fields | shack central contient toujours le sous-sol | confirmé par la page Killer Shack [17] (corrigé à l'audit M02) | OK |
 | Wreckers' Yard | shack central, sous-sol toujours | confirmé | OK |
 | Hooks Swamp | densité plus forte au centre « sur le Swamp » (2.5.0) | note wiki = The Pale Rose | IMPRÉCIS |
 | Gyms par royaume | Locker gym exclusif Red Forest/Ormond ; pas de 4-lane à Coldwind ; Withered Isle sans pallet gym ni 4-lane | antérieur au pool commun 9.2.0 | OUTDATED probable (UNCERTAIN) |
+| Autohaven | « hauts murs » (royaume réputé survivant) | murs de gyms « medium » (Maze Tiles) ; hauts murs décrits seulement en périphérie de Wreckers' Yard | IMPRÉCIS (CONFLICT-B8-07) |
 | Gas Heaven | 9.2.0 correctif de navigation autour du bus | navigation des **bots** | IMPRÉCIS |
 | Coldwind | 9.6.0 collision de l'arbre améliorée pour la navigation du tueur | bugfix de collision d'un mur près de l'arbre | IMPRÉCIS |
 | Treatment Theatre | fenêtres et entrées à configuration fixe | fenêtres fixes, **entrées RNG** (2.7.0) | FAUX (entrées) |
@@ -707,12 +763,16 @@ Règles de plan communes (HEURISTIC) :
 2. Date et cause de la désactivation de Badham / Grim Pantry / Pale Rose (ré-activées en 10.0.1).
 3. Portée exacte de « same pool of available maze tile layouts » (9.2.0) : les exclusivités de gyms par royaume existent-elles encore ?
 4. Réductions 9.2.0 de Torment Creek et Disturbed Ward : documentées ailleurs (PTB 9.2.0 KB 522 non archivé, dev update) ?
-5. Emplacement du sous-sol sur Rotten Fields et Dead Sands (toujours au shack ?).
+5. Emplacement du sous-sol sur Dead Sands (toujours au shack ? absente de la liste de la page Killer Shack). Rotten Fields : **résolu** (toujours au shack, [17]). Underground Complex : où est le 2e emplacement (hors Rift Lab) ?
 6. Taille de Trickster's Delusion et de RPD East/West (non mesurées par le wiki).
 7. RPD : répartition par aile des 3 emplacements de gates et des 2 sous-sols.
 8. Sanctum of Wrath (2 emplacements de shack ?) ; Backwater Swamp (collines de bord) ; The Game (disposition des coins).
 9. Fiches à compléter : Freddy Fazbear's Pizza, Fallen Refuge, Dead Sands, Rotten Fields (pas de description de tiles sur le wiki).
-10. Positions des Exit Gates : seules Nostromo (prévisibles), Underground Complex (Exit Doors) et RPD (3 emplacements) sont documentées.
+10. Positions des Exit Gates : seules Nostromo (largement prévisibles, pas garanties), Underground Complex (Exit Doors) et RPD (3 emplacements) sont documentées.
+11. The Game : quand les portes coulissantes liées aux gens s'ouvrent-elles / se ferment-elles (hypothèse « porte fermée = gen non fini », M07) ?
+12. Nostromo : délai exact entre le passage et le jet des vents ; un survivant peut-il se faire toucher par son propre déclenchement ?
+13. Portée audible des signaux de carte (sonnette de Gas Heaven, Water Tower d'Ironworks, ascenseur d'Ormond Lake Mine, flippers de Greenville, corne du Pale Rose, feu d'artifice du Market) et existence éventuelle d'une notification visuelle pour le tueur.
+14. Nombre et emplacement des palettes par carte après 9.3.2 (condition de toute stratégie « gestion des palettes » par carte, mission §7).
 
 ## Sources
 

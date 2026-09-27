@@ -472,7 +472,7 @@ Modèle : un objet « rapporte » les s-surv qu'il fait gagner, moins ce qu'il c
 
 ## 5. Techniques (WHAT → WHY → WHEN → HOW → COUNTER → FAILURE → DRILL)
 
-Chiffres communs (FACT [SS] sauf mention) : tueur qui porte un survivant **3,68 m/s** ; **wiggle 16 s** cumulées ; accrocher **1,5 s** ; décrocher **1 s** ; protections post-décrochage (LIVE 10.1.0) : **10 s** d'Endurance et de Haste + **10 s** d'Elusive (FACT audit VP) ; stun de palette **2 s** ; casse de palette **2,34 s** ; cooldown après un coup réussi **2,7 s** et boost de vitesse du survivant touché **1,8 s** (FACT audit).
+Chiffres communs (FACT [SS] sauf mention) : tueur qui porte un survivant **3,68 m/s** ; **wiggle 16 s** cumulées ; accrocher **1,5 s** ; décrocher **1 s** ; protections post-décrochage (LIVE 10.1.0) : **10 s** d'Endurance et de Haste (10 %) + **10 s** d'Elusive (FACT audit VP ; Elusive ne s'applique plus une fois tous les gens réparés, Endurance et Haste restent ; l'Endurance tombe à la première action voyante) ; stun de palette **2 s** ; casse de palette **2,34 s** ; cooldown après un coup réussi **2,7 s** et boost de vitesse du survivant touché **1,8 s** (FACT audit).
 
 CALC utile : en 16 s de portage, le tueur parcourt **≈ 59 m** (3,68 × 16). Tout ce qui l'oblige à marcher plus loin que ça fait gagner le wiggle. Avec **Agitation** (LIVE : Haste 6/12/18 % en portant, `batch3_perks_kill_p93.md`, VMS) : 3,68 × 1,18 ≈ 4,34 m/s → ≈ 69 m en 16 s (CALC, Haste supposée multiplicative) ; avec **Iron Grasp** (LIVE : wiggle 4/8/12 % plus lent) : ≈ 17,9 s de wiggle au rang III, soit ≈ 66 m (CALC). Avec les deux au rang III : ≈ 78 m.
 
@@ -547,15 +547,17 @@ CALC utile : en 16 s de portage, le tueur parcourt **≈ 59 m** (3,68 × 16). To
 - **WHY** : le wiggle se remplit en 16 s ; chaque crochet cassé ajoute du trajet (CALC : ~59 m de marge).
 - **WHEN** :
   - Un allié est porté, **loin du sous-sol**, et vous êtes près du crochet vers lequel il se dirige.
-  - Priorité aux **crochets Scourge** (Saboteur) : ils appliquent l'effet de la perk Scourge (ex. Pain Resonance), les casser prive le tueur de sa perk (HEURISTIC).
+  - Priorité aux **crochets Scourge** (Saboteur) : ils appliquent l'effet de la perk Scourge (ex. Pain Resonance). Un sabotage n'en prive le tueur que **30 s** (50 s avec Grip Wrench), et seulement s'il visait ce crochet (HEURISTIC).
+  - **Pré-sabotage** (avant le ramassage) : seulement avec Grip Wrench, et près d'une chase qui va probablement finir au sol ; sans add-on, le crochet se répare avant le portage (HEURISTIC).
+  - **Coût** : chaque sabotage retire un survivant des gens (3 s + trajet). En SoloQ, un saboteur non annoncé peut doubler un sauveteur déjà en route (HEURISTIC).
 - **HOW** :
   1. Suivez la trajectoire du tueur (Saboteur, Kindred, son).
-  2. Sabotez le crochet **visé**, **au dernier moment** (2-4 s avant son arrivée). Le bruit l'avertit : trop tôt, il change de crochet.
+  2. Sabotez le crochet **visé**, **au dernier moment** (fin du sabotage 2-4 s avant son arrivée, donc début ≈ 3,5-7 s avant selon la toolbox : CALC 1,5-3 s de sabotage). Le bruit l'avertit : trop tôt, il change de crochet. Un tueur expérimenté anticipe et vise d'emblée un crochet « de secours » : lisez sa direction avant de vous engager.
   3. Enchaînez avec le crochet suivant si possible (Alex's : 3 sabotages par toolbox, CALC 18 / 6).
   4. Combinez avec Breakout (+25 % de wiggle → 12,8 s, CALC) et le body block (§5.5).
 - **COUNTER (tueur)** :
   - **Scourge Hook: Hangman's Trick** : bruit fort dès qu'un survivant **commence** un sabotage, et en portant, auras des survivants dans 12/14/16 m d'un crochet Scourge (FACT [SS]).
-  - Aller vers le **sous-sol** ; offrandes Oak (crochets plus serrés) ; Iron Grasp, Agitation ; Mad Grit.
+  - Aller vers le **sous-sol** ; offrandes Oak (crochets plus serrés) ; Iron Grasp (LIVE 4/8/12 %), Agitation (LIVE 6/12/18 %) ; Mad Grit (pause du wiggle 2/3/4 s par coup porté).
   - Frapper le saboteur (il est souvent sain, près du trajet).
 - **FAILURE** :
   - Saboter trop tôt (le tueur reroute) ou un crochet qu'il ne visait pas.
@@ -570,9 +572,9 @@ CALC utile : en 16 s de portage, le tueur parcourt **≈ 59 m** (3,68 × 16). To
 - **WHEN** :
   - Passages étroits : porte, couloir, escalier, sortie de fenêtre, entre deux obstacles.
   - Un allié porté : bloquer la route vers le crochet le plus proche. Chaque détour compte (CALC : 1 s de détour ≈ 3,7 m de portage).
-  - **Jamais** si vous êtes vous-même à 2 paliers (lot 9 et 11).
+  - **Par défaut, pas** si vous êtes vous-même à 2 paliers (lot 9 et 11) : un coup de trop peut mener à votre mort. Exceptions possibles : vous êtes sain et le coup ne vous met pas au sol ; fin de partie (EGC, dernier save qui décide de l'évasion de l'équipe) ; l'allié porté est celui dont l'équipe a le plus besoin (HEURISTIC).
 - **HOW** : anticipez sa trajectoire, restez **au centre** du passage, bougez légèrement avec lui. Acceptez le coup s'il frappe : c'est alors un **protection hit** (§5.6).
-- **COUNTER** : frapper le bloqueur (il perd un état de santé) ; lâcher l'allié porté pour le frapper puis le reprendre (lâcher = +25 % de wiggle) ; faire le tour.
+- **COUNTER** : frapper le bloqueur (il perd un état de santé) ; avec **Mad Grit**, chaque coup porté en portant met le wiggle en pause 2/3/4 s (`batch3_perks_kill_p94.md`) : le body block devient coûteux ; lâcher l'allié porté pour le frapper puis le reprendre (lâcher = +25 % de wiggle) ; faire le tour.
 - **FAILURE** : bloquer dans un espace ouvert (il vous contourne) ; bloquer en étant blessé (vous vous faites mettre au sol) ; bloquer un tueur qui n'avait pas besoin de passer par là.
 - **DRILL** : partie personnalisée, un ami porte un bot vers un crochet : mesurez le temps gagné par un blocage dans une porte, puis en terrain ouvert.
 
@@ -591,7 +593,7 @@ CALC utile : en 16 s de portage, le tueur parcourt **≈ 59 m** (3,68 × 16). To
 - **FAILURE** :
   - Prendre un coup inutile (le tueur ne visait pas l'allié) : un état de santé offert.
   - Deux protecteurs : deux blessés.
-  - Protéger un décroché qui a encore son **Endurance** (10 s) : il encaisse déjà le coup sans aller au sol.
+  - Protéger un décroché qui a encore son **Endurance** (10 s) : souvent redondant, il encaisse déjà le coup (Deep Wound au lieu du sol). Mais l'Endurance tombe après 10 s ou à la première action voyante, et ne protège pas s'il est déjà sous Deep Wound (FACT audit SS) : passé ce délai, le protection hit redevient utile (cohérent avec `batch9_macro.md`, situation « Dwight décroché »).
 - **DRILL** : partie personnalisée, un allié blessé boucle une tile ; interposez-vous au moment de la fente. 10 essais.
 
 ### 5.7 Save au casier (Head On, Flashbang)
@@ -615,7 +617,7 @@ CALC utile : en 16 s de portage, le tueur parcourt **≈ 59 m** (3,68 × 16). To
   - Un raté **met en pause** la jauge et le déport latéral du tueur. Good = déport 50 %, Great = 120 %.
   - **Lâcher** un survivant (dribble) : **+25 %** de jauge. Au plus tard au 4e lâcher, il est libre. Dès 75 % de jauge, **le premier lâcher le libère**.
   - Perks : Boil Over (déport +60/70/80 %, auras des crochets dans 16 m cachées au tueur, +33 % de la jauge actuelle si le tueur tombe d'une hauteur), Breakout (allié dans 5 m : +25 % de wiggle, Haste 6/8/10 %), Flip-Flop (la récupération au sol remplit la jauge jusqu'à 40/45/50 %), Power Struggle (à 25/20/15 % de jauge, faire tomber une palette en étant porté : stun et libération).
-  - Contres : Iron Grasp (déport −75 %, +10/11/12 % de temps pour se libérer ; **modifiée au PTB 10.2.0**, valeur LIVE à re-vérifier : UNCERTAIN), Agitation, Mad Grit (pause de la jauge 2/3/4 s par coup porté), Awakened Awareness.
+  - Contres : Iron Grasp (LIVE : déport −75 %, wiggle **4/8/12 %** plus lent ; FACT [VMS], `batch3_perks_kill_p93.md` + ligne « was 4/8/12% » de la note 559 ; *PTB 10.2.0 : 10/11/12 %, non LIVE*), Agitation (LIVE : Haste 6/12/18 % en portant, rayon de terreur +12 m ; *PTB : 14/16/18 %*), Mad Grit (pause de la jauge 2/3/4 s par coup porté), Awakened Awareness. (Correction d'audit : la version précédente donnait la valeur PTB d'Iron Grasp.)
 - **WHY** : chaque seconde de wiggle se combine avec le sabotage, le body block et le pallet save. Le tueur doit arriver au crochet en < 16 s.
 - **WHEN** : toujours wiggler, et réussir les tests (un raté fige la jauge).
 - **HOW** : wigglez **vers** les obstacles et les coéquipiers qui bloquent ; avec Boil Over, vers les hauteurs.
@@ -635,9 +637,9 @@ CALC utile : en 16 s de portage, le tueur parcourt **≈ 59 m** (3,68 × 16). To
 - **WHY** : une 3e sortie que le tueur ne peut pas surveiller en même temps que les deux portes.
 - **WHEN** : vous êtes le dernier, le tueur a fermé la trappe **et** s'éloigne vers une porte, ou vous êtes plus proche de la trappe que lui.
 - **HOW** :
-  1. Repérez la trappe **avant** d'être le dernier (Left Behind, son de la trappe ouverte, Blueprints qui orientent son apparition).
+  1. Repérez la trappe **dès que vous êtes le dernier** (Left Behind, son de la trappe ouverte) ; avant, seules les Blueprints orientent la zone probable. (Correction d'audit : la trappe ne s'ouvre, donc ne s'entend, qu'au dernier survivant ; la repérer « avant » au son est impossible.)
   2. Après la fermeture, laissez le tueur choisir une porte, puis allez à la trappe.
-  3. 2,5 s d'ouverture : ne la lancez que si le tueur est à plus de ~2,5 s de vous (HEURISTIC).
+  3. 2,5 s d'ouverture : ne la lancez que si le tueur est **nettement** à plus de 2,5 s de vous. CALC : 2,5 s = 11,5 m à 4,6 m/s, 11 m à 4,4 m/s, **plus** la portée de sa fente et la saisie ; « ~2,5 s » exactement = marge nulle (HEURISTIC : ≥ 15-20 m de vue dégagée, ou tueur hors de vue).
 - **COUNTER** : Franklin's Demise (la clé tombe) ; rester près de la trappe fermée ; Overwhelming Presence (Exhausted à l'usage de la clé).
 - **FAILURE** : clé déjà vidée par les lectures d'aura (gardez **1 charge**) ; ouvrir sous les yeux du tueur (saisie) ; tenter la trappe au sol.
 - **DRILL** : partie personnalisée : le tueur ferme la trappe et garde une porte ; entraînez les trajets porte ↔ trappe sur 3 cartes.
@@ -694,12 +696,16 @@ Critique du classement seed (« 1. Toolbox, 2. Med-Kit, 3. Fog Vial, 4. Flashlig
 | L5-27 | Pallet stun 2 s ; tueur qui porte : lâche le survivant (blessé) ; pas pendant le ramassage | [13] | LIVE | STRONG_SECONDARY |
 | L5-28 | Protection hit : coup pris dans 10 m d'un survivant blessé, ou pendant un portage | [14] | LIVE | STRONG_SECONDARY |
 | L5-29 | Overwhelming Presence : usage d'un objet dans 32 m → Exhausted 15 s | [19][O-9.1.0] | 9.1.0 | VERIFIED_MULTI_SOURCE |
-| L5-30 | Built to Last : 12/10/8 s ; 99/66/33 % ; 3 fois | [23] | 9.1.0 | STRONG_SECONDARY |
+| L5-30 | Built to Last : **14/12/10 s** (note 9.1.0, « Changes from PTB » ; le wiki affiche 12/10/8 s = PTB 9.1.0) ; 99/66/33 % ; 3 fois | [O-9.1.0][23] | 9.1.0 | VERIFIED_PRIMARY (durée) / STRONG_SECONDARY (mécanique) |
 | L5-31 | Head On : 3 s en casier, stun 3 s à ≤ 2,5 m, Exhausted 60/50/40 s | [24] | 9.0.0 | STRONG_SECONDARY |
 | L5-32 | Flashbang : 50/45/40 % de réparation personnelle, réutilisable | [25] | 8.2.0 | STRONG_SECONDARY |
 | L5-33 | Saboteur : crochets dans 56 m, Scourge en jaune, sabotage sans toolbox +30 %, cooldown 70/65/60 s | [26] | 7.1.0 | STRONG_SECONDARY |
 | L5-34 | Trappe : n'apparaît qu'au dernier survivant ; fermée → EGC ; clé impossible au sol ; saisie possible | [27] | LIVE | STRONG_SECONDARY |
 | L5-35 | Gains de toolbox en s-surv (§4.3) | CALC sur L5-01 | — | CALC (hypothèses additives) |
+| L5-36 | Pharmacy LIVE : ouverture seule +75/100/125 %, bruit −12 m, Emergency Med-Kit ; fouille = PTB 10.2.0 | [O-9.2.0][O-PTB 10.2.0] | 9.2.0 | VERIFIED_MULTI_SOURCE (audit pass 14) |
+| L5-37 | Iron Grasp LIVE 4/8/12 %, déport −75 % ; Agitation LIVE Haste 6/12/18 % (PTB : 10/11/12 % et 14/16/18 %) | [O-PTB 10.2.0] lignes « was » ; `batch3_perks_kill_p93.md` | LIVE / PTB | VERIFIED_MULTI_SOURCE |
+| L5-38 | Instructions ne supprime pas les tests spéciaux (Overcharge, Oppression, Merciless Storm) | page Instructions ; page Skill Checks | LIVE | STRONG_SECONDARY |
+| L5-39 | Auto-décrochage débloqué aussi par Deliverance, Wicked (sous-sol), jauge anti-camp pleine | audit 1.3 ; page Hooks | 9.0.0 | VERIFIED_PRIMARY (audit) |
 
 ## Conflits
 
@@ -751,7 +757,7 @@ Critique du classement seed (« 1. Toolbox, 2. Med-Kit, 3. Fog Vial, 4. Flashlig
 | Toolboxes Commodious / Engineer's / Mechanic's / Alex's / Worn-Out | 32 / 16 / 16 / 18 / 16 charges | Idem (Alex's : CONFLICT-L5-02) ; la **Toolbox de base (20 ch)** manque ; Worn-Out a aussi +50 % de réparation | OK / incomplet |
 | Commodious « +50 % de réparation et de sabotage » | — | Idem | OK |
 | Add-ons de toolbox (BNP −10 charges, Socket Swivels +30 %, Clean Rag +20 %, Wire Spool +12, Scraps +8, Hacksaw +30 %, Cutting Wire +20 %, Grip Wrench +20 s, Protective Gloves, Instructions, Spring Clamp −8 m) | — | Idem | OK |
-| Built to Last « casier 10 s (T3) … 99 %, puis −33 % » | 10 s au T3 | **8 s au T3** (12/10/8) ; 99/66/33 %, 3 fois | IMPRÉCIS |
+| Built to Last « casier 10 s (T3) … 99 %, puis −33 % » | 10 s au T3 | **10 s au T3** (14/12/10, note 9.1.0 « Changes from PTB » ; le wiki affiche la valeur PTB 12/10/8) ; 99/66/33 %, 3 fois | **OK** (verdict « IMPRÉCIS » retiré à l'audit pass 14) |
 | Med-Kits : 24 charges, 16 par état, −33 %, +35/40/45/50 % | — | Idem | OK |
 | Add-ons de kit (Gel +16, Gauze +10, Bandages +8, Self Adherent +8 et +5 %, Abdominal +15 %, Scissors +10 %, Butterfly +5 %, Suture, Needle, Sponge / Rubber Gloves) | — | Idem | OK |
 | Lampe standard 8 s ; Sport visée +20 %, déplétion −11 % ; Utility 12 s, +30 %, +15 %, −20 % | — | Idem | OK |
@@ -792,9 +798,13 @@ Critique du classement seed (« 1. Toolbox, 2. Med-Kit, 3. Fog Vial, 4. Flashlig
 6. Quels bonus d'objet entrent dans les DR avec quelles perks (liste du manuel 9.6.1 non consultée).
 7. « Affected Survivor » de l'Anti-Exhaustion Syringe : le survivant soigné seulement, ou aussi le soigneur ?
 8. Cumul de plusieurs offrandes de Luck (personnelle + collective) et de plusieurs Bloody Party Streamers.
-9. Valeurs LIVE d'Iron Grasp et d'Agitation (le wiki affiche déjà le PTB 10.2.0).
+9. ~~Valeurs LIVE d'Iron Grasp et d'Agitation~~ : **résolu** à l'audit pass 14 (LIVE 4/8/12 % et 6/12/18 %, lignes « was » de la note 559, L5-37).
 10. Statut Light-Resistant (Black Banquet 2026) : présent en file normale au 27/09/2026 ?
 11. Comportement de la Fog Vial à 0 charge (la recharge continue-t-elle ?).
+12. Toolbox en coop : le bonus de vitesse s'applique-t-il avant ou après la pénalité de coop (85/70/55 %) ? (§2.1, §4.3 valables en solo seulement.)
+13. Instructions contre les Madness Skill Checks du Doctor : supprimés ou non ?
+14. Brand New Part : un test raté déclenche-t-il un bruit fort, comme un test de réparation raté ?
+15. Interactions lampe × pouvoir des tueurs sortis depuis 6.7.0 (liste §2.3 incomplète).
 
 ## Sources
 
