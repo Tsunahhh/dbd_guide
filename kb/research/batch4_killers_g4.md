@@ -253,31 +253,37 @@
 
 ## 28. The Dredge — archétype(s) : mobilité (casiers) | zone (Nightfall) | info
 
-- **Version** : **buffé en 9.6.0** (28/04/2026) — audit [2], STRONG_SECONDARY ; détail du buff non lu (seed : « 4 m/s pendant la charge de téléportation », NON RE-VÉRIFIÉ). Statut LIVE.
-- **Données LIVE** (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN) :
-  - 4,6 m/s (115 %), TR 32 m, grand.
-  - Gloaming : téléportation vers un casier (tokens, seed : 3), Remnant laissé au départ (retour possible).
-  - Nightfall : jauge passive (plus rapide avec survivants blessés ou en casier), durée 60 s selon seed (voir Questions ouvertes) ; vision survivant réduite, Dredge Undetectable, téléportations plus rapides.
-  - Verrous : un survivant peut verrouiller un casier ; le Dredge qui arrive doit casser le verrou (2,25 s), verrou non réutilisable.
-- **Identification** : grand tueur, TR 32 m, casiers qui « claquent » quand il se téléporte ; jauge Nightfall visible côté survivant (seed) ; Remnant (silhouette) laissé sur la map — HEURISTIC.
+- **Version** : **buff 9.6.0** : vitesse pendant la charge de Reign of Darkness (Gloaming) 3,8 → **4,0 m/s** — VERIFIED_MULTI_SOURCE ([8] + note 9.6.0 [20]) ; c'est le seul changement de la note. 9.2.0 : cartes retouchées (moins de zones mortes, casiers ajoutés) = buff indirect selon [8]. Rien au PTB 10.2.0 pour son pouvoir [23]. Statut LIVE.
+- **Données LIVE** (STRONG_SECONDARY [8] sauf mention) :
+  - 4,6 m/s (115 %), TR 32 m, grand (Tall), pas de berceuse.
+  - Gloaming : maintenir le pouvoir laisse un **Remnant** et le fait passer à 4,0 m/s sans pouvoir attaquer ; auras de tous les casiers visibles ; **3 jetons** = 3 téléportations de casier en casier (19 m/s de jour, 38 m/s en Nightfall) ; bouton d'attaque = retour instantané au Remnant **s'il existe encore** (le Remnant disparaît après la 1re téléportation ou si un survivant le touche) ; cooldown 10 s de jour, 4 s en Nightfall ; pas de téléportation vers un casier à < 12 m d'un survivant accroché.
+  - Dans un casier : il voit dehors ; les survivants proches entendent un avertissement après 8 s ; s'il se téléporte dans un casier **occupé par un survivant**, il en ressort en le portant ; même chose si un survivant interagit avec un casier qu'il occupe.
+  - Verrous : un survivant verrouille un casier en 0,1 s ; un casier verrouillé ne peut plus accueillir de survivant et est **prioritaire** quand il se téléporte vers une paire de casiers ; il en sort en **2,25 s en faisant beaucoup de bruit**, puis le verrou est cassé définitivement ; il peut aussi casser un verrou de l'extérieur par attaque de base (1,5 s).
+  - Nightfall : jauge de 300 charges ; +0,25/s passif ; **+6/s pendant que le Dredge est caché dans un casier** ; +1/s par survivant blessé (max +4/s) ; +20 par crochet ou blessure par attaque de base ; +10 par retour au Remnant. Alerte globale à 85 %. **Durée 60 s** (60 charges à −1/s). Pendant Nightfall : obscurité quasi totale, Dredge Undetectable, téléportation 38 m/s, cooldown 4 s, et Killer Instinct pour les survivants à ≤ 16 m d'un casier où il se trouve (ou du Remnant quand il y revient). Silhouettes visibles entre survivants jusqu'à 54 m, pour le Dredge jusqu'à 20 m.
+- **Identification** : grand tueur, TR 32 m, casiers qui « claquent » quand il se téléporte ; jauge Nightfall et alerte à 85 % (FACT [8]) ; Remnant (silhouette) laissé sur la map — HEURISTIC.
 - **Ce qu'il cherche en chase** : survivants qui font des boucles près de casiers ; zones où son Remnant permet de revenir couper une rotation ; chase pendant Nightfall (vision survivant réduite) — HEURISTIC.
 - **Tiles / structures** : défavorables = zones de casiers et bâtiments bourrés de casiers (téléportation au cœur de la tile) ; favorables = tiles extérieures sans casiers proches — HEURISTIC.
-- **Mindgames propres** : faux retour au Remnant ; téléportation vers un casier derrière vous en fin de tile — HEURISTIC.
+- **Mindgames propres** : faux retour au Remnant ; téléportation vers un casier derrière toi en fin de tile — HEURISTIC.
 - **Counterplay** :
-  - Mécanique : repérer le Remnant et ne pas se placer entre lui et le Dredge (seed) — HEURISTIC.
-  - Positionnel : verrouiller les casiers proches des gens actifs et des crochets (seed) ; éviter de finir une chase près d'un casier non verrouillé — HEURISTIC.
-  - Macro : éviter de se cacher en casier (remplit la jauge selon le seed, et un casier est un point d'arrivée de sa téléportation) ; limiter les survivants blessés en même temps (jauge) — HEURISTIC. Nuance : un casier verrouillé retarde seulement son arrivée (verrou à casser en 2,25 s selon le seed) ; l'effet d'un survivant caché dans un casier verrouillé sur la jauge reste UNCERTAIN.
-  - Équipe : pendant Nightfall, rester près de tiles solides et se signaler les positions (SWF) ; éviter les sauvetages risqués au milieu de Nightfall — SITUATIONAL. Limite (calcul) : Nightfall dure 60 s selon le seed (UNCERTAIN) et une phase de crochet 70 s [AUDIT] → attendre la fin de Nightfall n'est possible que si l'accroché vient d'entrer dans sa phase ; sinon le report coûte un état de crochet, et il faut sauver quand même en prenant la route la plus couverte.
-- **Habitudes punissables / erreurs classiques** (HEURISTIC) : se cacher en casier ; ignorer la jauge ; réparer à côté d'un casier non verrouillé ; rester blessés à plusieurs.
+  - Mécanique : repérer le Remnant et ne pas se placer entre lui et le Dredge ; **toucher le Remnant le supprime** (FACT [8]) → s'il est sur ta route et que le Dredge n'est pas tout près, lui retirer son retour — HEURISTIC.
+  - Positionnel : verrouiller les casiers proches des gens actifs et des crochets ; un casier verrouillé attire sa téléportation (prioritaire dans une paire) mais l'oblige à sortir en 2,25 s **bruyamment** [8] → c'est une alarme, pas un mur — HEURISTIC fondé sur FACT. Éviter de finir une chase près d'un casier non verrouillé.
+  - Macro : **ne pas se cacher en casier** : s'il se téléporte dans ton casier, il en sort en te portant [8]. Correction : un survivant caché ne remplit **pas** la jauge (les +6/s concernent le Dredge caché [8]). Limiter les survivants blessés en même temps (jusqu'à +4/s sur la jauge [8]) — HEURISTIC.
+  - Un casier qui « avertit » (son après 8 s [8]) = le Dredge est dedans → ne pas l'ouvrir ni rester devant.
+  - Équipe : pendant Nightfall, rester près de tiles solides et se signaler les positions (SWF) ; éviter les sauvetages risqués au milieu de Nightfall — SITUATIONAL. Limite (calcul sur valeurs vérifiées) : Nightfall dure 60 s [8] et une phase de crochet 70 s [AUDIT] → attendre la fin de Nightfall n'est possible que si l'accroché vient d'entrer dans sa phase ; sinon sauver quand même par la route la plus couverte.
+- **Habitudes punissables / erreurs classiques** (HEURISTIC) : se cacher en casier ; ignorer l'alerte à 85 % ; réparer à côté d'un casier non verrouillé ; rester blessés à plusieurs.
 - **Adaptations avancées / échecs** (HEURISTIC) : sur les maps intérieures pleines de casiers, le verrouillage ne suffit pas (trop de casiers) → jouer les tiles extérieures ; si Nightfall est lancé en endgame, les portes restent le repère fixe : s'en rapprocher avant.
-- **Add-ons qui changent la décision** (seed, NON RE-VÉRIFIÉ, UNCERTAIN) :
-  - Field Recorder (début en Nightfall, Nightfall auto au dernier gen) → préparer le dernier gen avec tout le monde sain et près des portes.
-  - Lavalier Microphone (révélation au dernier token) → après ses téléportations, s'attendre à être révélé.
-  - Iridescent Wooden Plank (Exposed en fin de Nightfall) → les 12 dernières secondes de Nightfall sont les plus dangereuses : éviter la chase à ce moment.
-- **Implications de carte** : Lery's, Hawkins, RPD, main buildings chargés = beaucoup de casiers → avantage tueur ; maps extérieures ouvertes avec peu de casiers = moins de mobilité — HEURISTIC.
-- **Perks fréquentes / synergies** : Darkness Revealed (sa perk, casiers), Dissolution, Septic Touch, Pain Resonance, Grim Embrace, No Holds Barred/Deadlock (seed, UNCERTAIN). Dissolution : une modification au **PTB 10.2.0** (attaque de base seulement) est **annoncée par le seed seulement** (« oui? » dans `PERK_DATABASE.md`, non vérifiée, l'audit ne la liste pas) — **PTB, pas LIVE** ; en LIVE, considérer la palette fast-vaultée après blessure comme cassable (seed, UNCERTAIN).
-- **Écart avec le seed** : buff 9.6.0 : existence **OK** ([2]) ; contenu du buff (4 m/s en charge) NON VÉRIFIABLE ; Dissolution : le seed l'étiquette bien PTB, mais l'existence même de ce changement PTB est **NON VÉRIFIABLE**.
-- **Sources** : [1], [2].
+- **Add-ons qui changent la décision** (textes LIVE lus sur [8]) :
+  - Field Recorder (partie qui commence en Nightfall, Nightfall automatique au dernier gen, Exhausted 15 s au contact du Remnant) → les survivants préparent le dernier gen sains et près des portes au lieu de le finir blessés au centre, et ne touchent pas le Remnant avec une perk d'exhaustion à garder.
+  - Lavalier Microphone (auras de tous les survivants 3 s après le dernier jeton ; casiers à ≤ 6 m des survivants qui claquent à son arrivée) → le survivant s'attend à être révélé après sa 3e téléportation et change de position au lieu de rester sur place.
+  - Iridescent Wooden Plank (Exposed pendant les 12 dernières secondes de Nightfall) → le survivant évite la chase et les contacts en fin de Nightfall au lieu de relâcher sa prudence quand la nuit se termine.
+  - Broken Doll (Nightfall +20 s, soit 80 s) → les survivants n'attendent plus la fin de Nightfall pour sauver (80 s > phase de crochet 70 s) au lieu de temporiser.
+  - Boat Key (tous les verrous cassés quand les portes sont alimentées) → les survivants ne comptent plus sur les casiers verrouillés en endgame au lieu de s'en servir comme alarme.
+  - Sacrificial Knife (en Nightfall, fenêtres et vaults bloqués 5 s à ≤ 16 m du casier dont il sort) → le survivant quitte la zone du casier au lieu de compter sur la fenêtre la plus proche.
+  - Tilling Blade (Blindness + Haemorrhage + Mangled 80 s si blessé en Nightfall) → le survivant évite toute blessure pendant Nightfall au lieu d'accepter un coup « gratuit ».
+- **Implications de carte** : Lery's, Hawkins, RPD, main buildings chargés = beaucoup de casiers → avantage tueur ; maps extérieures ouvertes avec peu de casiers = moins de mobilité ; les retouches de cartes 9.2.0 ont ajouté des casiers [8] — HEURISTIC.
+- **Perks fréquentes / synergies** : Darkness Revealed (fouiller un casier révèle les survivants à ≤ 8 m de n'importe quel casier pendant 6/7/8 s, cooldown 30 s — STRONG_SECONDARY [8]), Dissolution, Septic Touch (soin dans le TR → Blindness + Exhausted 20/25/30 s après l'interruption — STRONG_SECONDARY [8]) ; Pain Resonance, Grim Embrace, No Holds Barred (seed, UNCERTAIN pour l'usage). **Dissolution** : la page wiki [8] affiche **sans bandeau** le texte PTB 10.2.0 (« attaque de base seulement, 13/14/15 s ») ; la note PTB [23] confirme que c'est le changement PTB et donne l'état LIVE : **n'importe quel dégât, 12/16/20 s** — VERIFIED_PRIMARY (valeur LIVE via le « was » de [23]). En LIVE : pendant 12/16/20 s après une blessure (quelle qu'en soit la source, après 3 s), la palette que tu fast-vaultes dans son TR est détruite.
+- **Écart avec le seed** : buff 9.6.0 « 4 m/s pendant la charge » : **OK** (VERIFIED_MULTI_SOURCE) ; Nightfall 60 s, 3 jetons, 2,25 s : **OK** ; Dissolution PTB 10.2.0 : **OK** (existence confirmée par [23], étiquetage PTB correct) ; **FAUX** : « se cacher en casier remplit la jauge » (c'est le Dredge caché qui la remplit [8]).
+- **Sources** : [1], [2], [8], [20], [23].
 
 ---
 
