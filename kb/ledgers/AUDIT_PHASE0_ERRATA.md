@@ -12,5 +12,8 @@ L'audit phase 0 reste la base des chiffres vérifiés, mais les re-vérification
 
 | Matrice §1 « Fiches tueurs » (erreurs relevées) | Huntress « 7 hachettes » présenté comme erreur du seed | **7 hachettes de base depuis 7.6.0** : le seed avait raison | Page wiki Anna (The Huntress) ; change log 7.6.0 | re-vérif lot 4 g2 |
 
+| Table 1.5 (liste) | Knight (gardes) = casse instantanée | Les gardes cassent une palette sur ordre en **1,8 s ou 5 s**, pas instantanément ; depuis 10.1.1, une palette baissée tôt force le garde à contourner (abandon si détour > 48 m) | Page wiki Tarhos Kovács ; note 10.1.1 (557) | re-vérif lot 4 g4 |
+| Table 1.5 (liste) | Mastermind (Virulent Bound) casse les palettes | Virulent Bound **franchit** la palette sans la casser ; casse seulement avec l'add-on **Lab Photo** | Page wiki Albert Wesker ; note 9.6.0 (544) | re-vérif lot 4 g4 |
+
 ## Piège connu du digest wiki (`kb/sources/wiki_perks_digest.md`)
-Pour **Dissolution, Distressing, Do No Harm, Hex: Nothing but Misery, Shattered Hope, Wake Up!, Windows of Opportunity**, la page wiki affiche déjà le texte PTB 10.2.0 sans avertissement : la ligne « LIVE (current) » du digest est en réalité PTB. La valeur LIVE se reconstruit depuis les lignes « was … » de la note officielle 559. Les fiches de lots concernées ont été corrigées par les agents de re-vérification (27/09/2026).
+Pour **Dissolution (aussi sur la page du Dredge), Distressing, Do No Harm, Hex: Nothing but Misery, Shattered Hope, Wake Up!, Windows of Opportunity**, la page wiki affiche déjà le texte PTB 10.2.0 sans avertissement : la ligne « LIVE (current) » du digest est en réalité PTB. La valeur LIVE se reconstruit depuis les lignes « was … » de la note officielle 559. Les fiches de lots concernées ont été corrigées par les agents de re-vérification (27/09/2026).
