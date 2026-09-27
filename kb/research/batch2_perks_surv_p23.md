@@ -439,6 +439,7 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
 | Deliverance | Broken 160/140/120 s (10.1.0), réussite garantie | idem + 1re phase de crochet seulement, pas en dernier survivant [38] | OK (IMPRÉCIS : limites omises) |
 | Adrenaline | 4 s (10.1.0) | 4 s [21][45] | OK |
 | Off the Record | 30/35/40 s, Endurance, gémissements, aura, tant que des gens restent | idem + scratch marks supprimées ; clause des portes contestée [23][40] | IMPRÉCIS (scratch marks omises ; CONFLICT-L2P23-04) |
+| Historique 9.2.0 (p. 32) | « nerf d'Off the Record (30/35/40 s) » en 9.2.0 | 9.2.0 retire l'Endurance ; 30/35/40 s + Endurance en 9.2.2 [40][41] | IMPRÉCIS (mauvais patch) |
 | Unbreakable | 1×/partie, mises à terre par le tueur, 25/30/35 % | idem [28][44] | OK |
 | Hyperfocus | aucune mention des DR | texte OK [37] ; soumise aux DR [15] | IMPRÉCIS |
 | Iron Will | 80/90/100 %, non Exhausted | idem [36] | OK |

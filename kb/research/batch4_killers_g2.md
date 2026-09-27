@@ -220,65 +220,104 @@ Règles d'usage ajoutées par l'audit P14 :
 - **Sources** : [1] [2] [7] [O-513] [O-516] [O-521] [O-523] [O-544].
 
 ## 13. The Spirit (Rin Yamaoka) — archétype(s) : mobilité | furtif (mindgame)
-- **Version** : aucun changement 9.0.0 → 10.1.2a trouvé dans [2]. Statut LIVE présumé, UNCERTAIN.
-- **Données LIVE** (UNCERTAIN-MM) : **4,4 m/s ; TR 24 m** (UNCERTAIN-MM ; compatible avec la règle d'origine de l'audit, 24 m pour un tueur à 4,4 m/s) ; taille moyenne. Yamaoka's Haunting : la Spirit laisse une **enveloppe (husk) immobile** et devient invisible et plus rapide ; elle ne peut pas attaquer en phase. Vitesse de phase environ ×1,6 (seed : 7,04 m/s), durée et cooldown non vérifiés. **Phasing passif** évoqué par le seed : UNCERTAIN (le modèle se souvient d'une suppression antérieure ; non vérifié).
+- **Version** : dernier changement du pouvoir = **6.7.0** (le husk ne peut plus être brûlé pendant la phase) ; 5.3.0 : **son directionnel pendant la phase** + passe d'add-ons ; 2.3.0 : les survivants n'entendent plus sa respiration pendant la phase [8]. Notes officielles 9.0.0 → 10.1.2 : **aucun changement d'équilibrage** (correctifs visuels ou sonores seulement ; Kintsugi Teacup redécrit en « break » au 9.5.0) [O-520] [O-526] [O-534] [O-538]. Rien au PTB 10.2.0. Statut LIVE (STRONG_SECONDARY ; absence de changement 2025-2026 : VERIFIED_PRIMARY).
+- **Données LIVE** (FACT [WIKI] [8], STRONG_SECONDARY) :
+  - **4,4 m/s ; TR 24 m** (conforme à la règle d'origine) ; taille moyenne.
+  - **Yamaoka's Haunting** : charge **1,5 s**, puis Phase-Walk jusqu'à **5 s** à **7,04 m/s** (×1,6) ; elle laisse un **husk immobile** qui porte un TR de 24 m. Jauge de 5 charges : −1/s en phase, **+0,33/s en recharge → 15 s pour une recharge complète** (une phase courte se recharge plus vite, proportionnellement). Aucun cooldown d'attaque en sortie de phase ; la vitesse persiste 1 s après la phase.
+  - Pendant la phase : **les survivants lui sont invisibles**, mais elle **voit les scratch marks**, **entend tous les sons des survivants**, voit les interactions avec le décor (herbe qui bouge) et les Loud Noise Notifications.
+  - **Son directionnel de phase audible par les survivants dans un rayon de 24 m** (au-delà : rien, sauf add-on Furin).
+  - **Phasing passif** (existe, LIVE) : hors phase, elle clignote aux yeux des survivants (0,5 s, toutes les 1 à 5 s).
+  - Les perks qui « suivent » le tueur ne suivent que le **husk** pendant la phase, pas sa forme éthérée.
 - **Identification** :
-  - Avant le reveal : TR 24 m ; son de départ de phase ; **husk figé**, puis réapparition brusque (FACT de principe [UNCERTAIN-MM]).
-  - Pouvoir en action : husk immobile et Spirit invisible, herbe qui bouge, son directionnel (UNCERTAIN-MM).
+  - Avant le reveal : TR 24 m ; clignotement du phasing passif (signature propre) ; son de phase directionnel à moins de 24 m ; **husk figé** puis réapparition brusque.
   - Stratégie probable : chases rapides, pression par la mobilité (HEURISTIC).
-- **Ce qu'il cherche en chase** : un survivant qui court (scratch marks) et qui gémit (blessé) ; un survivant qui garde une palette « pour le stun » (HEURISTIC).
+- **Ce qu'il cherche en chase** : un survivant qui court (scratch marks, qu'elle voit en phase) et qui gémit (blessé) ; un survivant qui garde une palette « pour le stun » (HEURISTIC).
 - **Tiles / structures** : **jeter la palette tôt puis marcher** est souvent plus fiable que tenir (HEURISTIC) ; les LOS hautes et les tiles connectées donnent des options de « double-back » (HEURISTIC).
 - **Mindgames propres** : fausse phase (rester immobile), phase courte, phase à travers une palette (HEURISTIC).
 - **Counterplay** :
-  - Mécanique : **regarder le husk** (s'il est figé, elle est probablement en phase) ; **marcher ou s'arrêter** (pas de scratch marks) quand elle phase près de soi (HEURISTIC). Base vérifiée (calcul P14) : la marche à 2,26 m/s = 56,5 % de la course, sous le seuil de 60 % au-delà duquel les griffures apparaissent (FACT [AUDIT], SS). **Limites (§26)** : c'est un mix-up, pas une règle — une Spirit qui attend ou feinte l'arrêt l'exploite ; **blessé**, marcher ou s'arrêter laisse les grognements et les flaques de sang : l'arrêt prolongé blessé est le pire cas ; varier marcher / courir / changer de côté.
+  - Mécanique : **regarder le husk** (figé = probablement en phase) et **écouter le son directionnel** (dans les 24 m, il indique d'où elle vient, FACT [WIKI]) ; **marcher ou s'arrêter** (pas de scratch marks, qu'elle voit en phase) quand elle phase près de soi (HEURISTIC). Base vérifiée (calcul P14) : la marche à 2,26 m/s = 56,5 % de la course, sous le seuil de 60 % des griffures (FACT [AUDIT], SS). **Limites (§26)** : c'est un mix-up, pas une règle — une Spirit qui attend ou feinte l'arrêt l'exploite ; elle **entend tous tes sons** et voit l'herbe bouger (FACT [WIKI]) : **blessé**, marcher ou s'arrêter laisse les grognements et les flaques de sang ; l'arrêt prolongé blessé est le pire cas ; varier marcher / courir / changer de côté.
   - Interaction (FACT [AUDIT]) : juste après un décrochage, l'Elusive basekit (10 s) supprime griffures, grognements et flaques : fenêtre où la Spirit perd ses trois indices (ne s'applique pas une fois les gens alimentés).
-  - Perks : Iron Will (grognements −80/90/100 %, inactive si Exhausted : [AUDIT] SS), perks anti-scratch marks (Lucky Break ; Urban Evasion accélère la marche accroupie, qui ne laisse pas de griffures), cités par le seed : utiles, sans garantie (SITUATIONAL).
-  - Macro : quitter la tile pendant son cooldown (valeur non vérifiée) (HEURISTIC).
-- **Habitudes punissables** : courir en ligne droite quand elle phase ; deviner **sans lire les indices** (husk, son, herbe) — un choix imprévisible reste légitime quand aucun indice n'existe ; tenir la même palette plusieurs fois.
-- **Adaptations avancées** : si le son de phase est absent, un add-on silencieux est probable (Prayer Beads Bracelet, effet LIVE non vérifié) : jouer plus « à l'aveugle », en misant sur les pauses et la marche.
-- **Add-ons qui changent la décision** : non vérifiables (Prayer Beads, Rusty Flute, Yakuyoke Amulet, Mother-Daughter Ring).
+  - Perks : Iron Will (grognements −80/90/100 %, inactive si Exhausted : [AUDIT] SS), Lucky Break ; Urban Evasion (accélère la marche accroupie, sans griffures) : utiles, sans garantie (SITUATIONAL). Les perks qui localisent le tueur ne montrent que le husk pendant la phase (FACT [WIKI]).
+  - Macro (corr. 12b) : après une phase **complète** (5 s), elle a **15 s** de recharge : quitter la tile à ce moment ; après une phase courte, la recharge est plus courte (proportionnelle) (FACT [WIKI] ; conseil HEURISTIC).
+- **Habitudes punissables** : courir en ligne droite quand elle phase ; deviner **sans lire les indices** (husk, son directionnel) — un choix imprévisible reste légitime quand aucun indice n'existe ; tenir la même palette plusieurs fois ; se croire en sécurité en se taisant alors qu'on fait bouger l'herbe.
+- **Adaptations avancées** (corr. 12b) : **il n'existe plus d'add-on de phase silencieuse** (Prayer Beads Bracelet absent de la liste LIVE [8]). Si le son de phase est absent, elle est **à plus de 24 m ou ne phase pas** ; ne pas en déduire un add-on. Avec Wakizashi Saya, elle peut revenir instantanément au husk : un husk figé ne garantit plus qu'elle arrive vers toi (SITUATIONAL).
+- **Add-ons qui changent la décision** (effets : FACT [WIKI] [8] ; réponse : HEURISTIC) :
+  - Mother-Daughter Ring (+25 % de vitesse de phase ; **elle ne voit plus les scratch marks** en phase) → la marche n'apporte plus rien de plus que la course côté griffures ; ce sont le bruit et l'herbe qui te trahissent : casser la distance vite.
+  - Dried Cherry Blossom (Killer Instinct sur les survivants à moins de 3 m pendant la phase ; plus de scratch marks) → rester immobile à côté d'elle ne marche plus : s'écarter de plus de 3 m.
+  - Mother's Glasses (Killer Instinct si un survivant passe à moins de 2 m du husk pendant la phase) → ne pas passer à côté du husk.
+  - Wakizashi Saya (retour instantané au husk) → le husk figé n'indique plus sa direction.
+  - Yakuyoke Amulet (phase +3,5 s → 8,5 s, −15 % de vitesse) ; Kaiun Talisman / Shiawase Amulet (+1 s / +0,5 s) → phases plus longues : ne pas relancer la course trop tôt.
+  - Rusty Flute / Rin's Broken Watch / Origami Crane (recharge +40 / +30 / +20 %) ; Kintsugi Teacup (recharge instantanée après avoir cassé une palette ou un mur) ; Uchiwa (recharge instantanée après un stun à la palette) → un stun ou une palette cassée ne donnent plus de répit.
+  - Senko Hanabi (en fin de phase, le husk explose et bloque les vaults à 4 m pendant 5 s) → ne pas compter sur une fenêtre proche du husk.
+  - Furin (**tous** les survivants entendent le son de phase) → information en plus pour toi.
+  - Juniper Bonsai (phasing passif plus fréquent et plus long) ; Zōri / Muddy Sports Day Cap (+5 / +10 % en phase) ; Katana Tsuba.
 - **Implications de carte** : grandes cartes = sa mobilité est pleinement utile (HEURISTIC).
-- **Perks fréquentes** : non vérifiables. Teachables : Spirit Fury, Hex: Haunted Ground, Rancor.
-- **Écart avec le seed** : IMPRÉCIS / à vérifier (phasing passif, son directionnel 24 m, cooldown 15 s) · NON VÉRIFIABLE (valeurs d'add-ons, 63,5 % de kills NightLight). Le seed a été signalé par [2] comme contenant des erreurs sur la Spirit (non détaillées).
-- **Sources** : [1] [2].
+- **Perks fréquentes** : non vérifiables. Teachables : Spirit Fury, Hex: Haunted Ground, Rancor (descriptions non relues sur la page).
+- **Écart avec le seed** (corr. 12b) : **OK (phasing passif, son directionnel dans les 24 m, recharge ~15 s)** : les « IMPRÉCIS » de ce fichier venaient de la mémoire du modèle · OK (4,4 m/s, 7,04 m/s, ×1,6, 1,5 s de charge, 5 s de phase, TR 24 m porté par le husk, scratch marks visibles pour elle, interactions avec le décor, Rusty Flute +40 %, Yakuyoke +3,5 s) · **FAUX (nouveau 12b) : la « respiration » comme indice pendant la phase** → supprimée depuis le 2.3.0 (les survivants n'entendent plus sa respiration en phase) · **FAUX / OBSOLETE (nouveau 12b) : « Wakizashi Saya / Prayer Beads (sans son en phase) »** → Prayer Beads n'existe plus dans la liste LIVE ; Wakizashi Saya = retour instantané au husk, pas de silence · NON VÉRIFIABLE (tier, 63,5 % / 45,9 % NightLight).
+- **Sources** : [1] [2] [8] [O-520] [O-526] [O-534] [O-538].
 
 ## 14. The Legion (Frank, Julie, Susie, Joey) — archétype(s) : M1 | info (Frenzy) | slug indirect (Deep Wound)
-- **Version** : aucun changement 9.0.0 → 10.1.2a trouvé dans [2]. La « désactivation temporaire puis réactivation au 9.6.0 » du seed : **non documentée dans [2]**, UNCERTAIN. Statut LIVE.
-- **Données LIVE** (UNCERTAIN-MM) : 4,6 m/s ; TR 32 m. Feral Frenzy : plus rapide, vaults de palettes et fenêtres, révèle en Killer Instinct les survivants non touchés ; le Feral Slash inflige Deep Wound (timer à mender) ; fatigue à la fin du Frenzy. **« Le 5e Feral Slash met à terre »** (seed) : le modèle se souvient que le Frenzy ne met plus à terre depuis longtemps ; UNCERTAIN. Tension à noter (P14) : l'audit donne la règle générale « un dégât sous Deep Wound = état mourant » [2] ; qu'un Feral Slash compte comme « dégât » sur un survivant déjà sous Deep Wound n'est pas vérifié.
-- **Identification** : cris de Frenzy ; Killer Instinct ; Legion qui vault les palettes en Frenzy (FACT de principe [UNCERTAIN-MM]).
-- **Ce qu'il cherche en chase** : blesser plusieurs survivants ; enchaîner avec un M1 (HEURISTIC).
-- **Tiles / structures** : en Frenzy, les palettes debout ne stoppent pas son vault ; le vrai stun ne s'obtient qu'hors Frenzy (HEURISTIC).
+- **Version** : **désactivé puis réactivé au 9.6.0** : la note 9.6.0 annonce « The Legion has been re-enabled » (FACT [OFF] [O-544] ; la date et la cause de la désactivation ne figurent pas dans les notes lues). Dernier changement d'équilibrage 1v4 : **8.6.0** (Frenzy 10 → 11 s, fatigue 3 → 2,5 s à 2,3 m/s, +0,24 m/s par slash, recharge 20 → 15 s, mending 10 s / 6 s) [9]. 9.1.0 : correctif « le Legion pouvait vaulter les palettes **debout** » (FACT [OFF] [O-516]). 9.1.2 : ajustements 2v8 seulement [O-519]. 9.5.0 : Feral Vault redécrit en « Special-vault », Iridescent Button redécrit [O-538]. 10.0.0 : Iridescent Button donne aussi l'immunité à Blindness (correctif de description) [O-550]. Rien au PTB 10.2.0. Statut LIVE.
+- **Données LIVE** (FACT [WIKI] [9], STRONG_SECONDARY sauf mention) :
+  - 4,6 m/s ; **TR 32 m, 40 m en Frenzy** ; taille moyenne.
+  - **Feral Frenzy** (jauge pleine requise) : jusqu'à **11 s** à **5,2 m/s**, +0,24 m/s par survivant touché (max +0,96 → 6,16 m/s) ; recharge **15 s**. **Feral Vault** en 0,9 s sur les **palettes tombées et les fenêtres** (pas sur les palettes debout : correctif 9.1.0).
+  - **Feral Slash** : blesse et inflige **Deep Wound** ; remplit instantanément la jauge ; Killer Instinct sur tous les survivants **dans son TR** qui ne sont pas sous Deep Wound. **Toucher un survivant déjà sous Deep Wound ou rater un slash met fin au Frenzy** (raté = pénalité de jauge de 100 %).
+  - **Le 5e Feral Slash d'un même Frenzy est létal** (dégâts doubles → état mourant), **y compris sur un survivant déjà sous Deep Wound** (corr. 12b : la mémoire du modèle, « le Frenzy ne met plus à terre », était fausse ; mécanique introduite au 5.7.0). Indice officiel cohérent : en 2v8, la note 9.1.2 réduit le nombre de coups nécessaires pour mettre à terre en Frenzy de 7 à 6 [O-519].
+  - **Fatigue** en fin de Frenzy (écoulé ou annulé) : **2,5 s à 2,3 m/s**.
+  - Deep Wound (reconfirmé) : minuteur 20 s (non modifiable par add-on), en pause en courant ou pendant le mending ; mending seul 10 s, par un allié 6 s. Le Killer Instinct est lié à son TR : Undetectable et Oblivious le modifient.
+- **Identification** : cris et TR qui passe à 40 m en Frenzy ; Killer Instinct ; Legion qui vault les palettes tombées et les fenêtres en 0,9 s (FACT [WIKI]).
+- **Ce qu'il cherche en chase** : blesser plusieurs survivants ; enchaîner avec un M1 ; ou enchaîner 5 slashes (HEURISTIC).
+- **Tiles / structures** (corr. 12b) : en Frenzy, **une palette tombée ne l'arrête pas** (Feral Vault 0,9 s) ; une palette **lâchée sur lui l'étourdit** aussi en Frenzy (l'add-on Julie's Mix Tape recharge le Frenzy « après un stun pendant le Frenzy », FACT [WIKI]) ; il **ne peut pas** vaulter une palette debout (correctif 9.1.0).
 - **Mindgames propres** : cancel du Frenzy avant la fatigue ; tourner autour d'une tile pour obtenir un 2e slash (HEURISTIC).
 - **Counterplay** :
-  - Mécanique : pendant sa fatigue, casser la LOS (FACT de principe [UNCERTAIN-MM] sur la fatigue).
-  - Macro : ne pas rester groupés ; mender au bon moment (HEURISTIC). Base corrigée P14 (FACT [AUDIT], VERIFIED_PRIMARY, notes 8.6.0) : le minuteur de Deep Wound (20 s) est en pause **quand tu cours** ou pendant le mending — pas « en chase » ; mending 10 s seul, 6 s par un allié. Conséquence : marcher ou s'accroupir pour cacher tes griffures **consomme** le minuteur ; mender à deux fait gagner 4 s mais expose deux survivants.
+  - Mécanique : pendant sa fatigue (2,5 s à 2,3 m/s, FACT [WIKI]), casser la LOS et prendre de la distance. **Faire rater un slash** (feinte autour d'un obstacle) met fin au Frenzy et le vide de sa jauge (FACT [WIKI]).
+  - **5e slash** (corr. 12b) : après 4 slashes dans le même Frenzy, le suivant **met à terre** même un survivant sain ou déjà sous Deep Wound : si le Killer Instinct montre qu'il enchaîne, le prochain survivant ciblé doit jouer ce slash comme un coup mortel (HEURISTIC fondée sur FACT [WIKI]).
+  - Macro : ne pas rester groupés ; mender au bon moment (HEURISTIC). Deep Wound (FACT [AUDIT] + [9]) : le minuteur (20 s) est en pause **quand tu cours** ou pendant le mending — pas « en chase » ; marcher ou s'accroupir pour cacher tes griffures **consomme** le minuteur ; mender à deux fait gagner 4 s mais expose deux survivants.
   - Équipe : jouer blessé est « normal » contre Legion ; un soin complet n'est pas toujours rentable (HEURISTIC).
 - **Habitudes punissables** : se soigner à côté d'un gen occupé par plusieurs survivants ; laisser le Deep Wound expirer ; ignorer le Killer Instinct.
-- **Adaptations avancées** : si un add-on permet au Frenzy de casser les palettes (Iridescent Button selon le seed ; la liste wiki.gg Pallets de l'audit cite bien « Legion (Frenzy + add-on) » parmi les destructions par pouvoir, [AUDIT] STRONG_SECONDARY, liste à reconfirmer ; nom de l'add-on non vérifié), les palettes debout ne sont plus fiables en Frenzy.
-- **Add-ons qui changent la décision** : non vérifiables.
+- **Adaptations avancées** : avec **Iridescent Button** (FACT [WIKI] : le Feral Vault **casse instantanément** la palette vaultée ; + immunité à Blindness, [O-550]), les palettes tombées ne tiennent plus : les utiliser pour un stun, pas pour gagner du temps.
+- **Add-ons qui changent la décision** (effets : FACT [WIKI] [9] ; réponse : HEURISTIC) :
+  - Iridescent Button → voir ci-dessus.
+  - Mural Sketch (+0,32 m/s par slash, max +1,28) / Never-Sleep Pills (Frenzy +10 s mais démarre à 4,6 m/s) → Frenzy plus long ou plus rapide : ne pas compter sur la fin du Frenzy pour s'en sortir.
+  - Julie's Mix Tape (Frenzy rechargé après un stun pendant le Frenzy) → un stun pendant le Frenzy ne donne pas de répit.
+  - Susie's Mix Tape (détection du Killer Instinct +20 m) → le Killer Instinct atteint au-delà du TR : se cacher à 40 m ne suffit plus.
+  - Filthy Blade (mending +4 s → 14 s seul) ; The Legion Pin (Broken 60 s), Defaced Smiley Pin (Mangled 60 s), Smiley Face Pin (Blindness 60 s), Joey's Mix Tape (Haemorrhage) **après s'être soigné soi-même** ; Stylish Sunglasses (aura des survivants qui se mendent seuls à 24 m) ; Stab Wounds Study (aura 4 s après un mending seul) → ces add-ons visent le **self-mend** : se faire mender par un allié les éviterait d'après leur formulation (HYPOTHESIS : effet du mending coopératif non décrit).
+  - Etched Ruler (Oblivious 60 s après un slash) ; Stolen Sketch Book (lâcher l'objet sur slash enchaîné) ; Fuming Mix Tape (gens partiellement réparés qui régressent pendant le Frenzy) ; Frank's Mix Tape (dégâts aux gens +20 % en Frenzy) ; BFFs (+6 % Haste hors Frenzy une fois les portes alimentées, après 15 jetons) ; Friendship Bracelet (lunge +0,3 s).
 - **Implications de carte** : petites cartes = chaînage de slashs plus facile (HEURISTIC).
-- **Perks fréquentes** : non vérifiables. Teachables : Discordance, Mad Grit, Iron Maiden.
-- **Écart avec le seed** : IMPRÉCIS (« 5e Feral Slash met à terre », UNCERTAIN) · NON VÉRIFIABLE (désactivation et réactivation au 9.6.0 ; vitesses de Frenzy 5,2 et 6,16 m/s).
-- **Sources** : [1] [2].
+- **Perks fréquentes** : non vérifiables. Teachables : Discordance, Mad Grit, Iron Maiden (descriptions non relues sur la page).
+- **Écart avec le seed** (corr. 12b) : **OK (« 5e Feral Slash met à terre »)** : l'ancien verdict « IMPRÉCIS » venait de la mémoire du modèle · **OK (désactivé puis réactivé au 9.6.0, VERIFIED_PRIMARY pour la réactivation)** · OK (5,2 m/s, +0,24 m/s, 6,16 m/s, TR 40 m en Frenzy, 11 s, fatigue 2,5 s à 2,3 m/s, Deep Wound 20 s, mending 10 s / 6 s, fin du pouvoir sur raté ou sur un survivant déjà touché, Iridescent Button casse les palettes, Mural Sketch +0,32 m/s, Never-Sleep Pills +10 s) · IMPRÉCIS (« minuteur en pause quand le survivant court en chase » : en pause quand il court, chase ou non ; « chaque slash recharge une partie de la jauge » : il la **remplit entièrement**) · NON VÉRIFIABLE (kill rate 38,2 %).
+- **Sources** : [1] [2] [9] [O-516] [O-519] [O-538] [O-544] [O-550].
 
 ## 15. The Plague (Adiris) — archétype(s) : ranged (Corrupt Purge) | info/zone (fontaines) | infection
-- **Version** : aucun changement 9.0.0 → 10.1.2a trouvé dans [2]. Statut LIVE présumé, UNCERTAIN.
-- **Données LIVE** (UNCERTAIN-MM) : 4,6 m/s ; TR 32 m ; grande taille. Vile Purge : infecte survivants et objets ; à infection complète, le survivant est blessé et Broken. Pools of Devotion (fontaines) : les survivants s'y purifient, puis la fontaine devient **corrompue**. Si Plague boit à une fontaine corrompue : **Corrupt Purge** (vomi à distance qui blesse), durée seed 60 s. Fin de Corrupt Purge sur un stun : UNCERTAIN.
-- **Identification** : **fontaines (Pools of Devotion) sur la carte** (FACT de principe [UNCERTAIN-MM], identification précoce) ; son de vomissement ; toux et vomissements des survivants ; objets infectés (UNCERTAIN-MM).
+- **Version** : dernier changement notable du pouvoir = **5.3.0** (infection des objets 35 → 40 s, interactions avec un objet infecté ×2, purification 6 → 8 s) ; 4.7.0 : **une fontaine commence corrompue** ; patch non daté : un stun de Decisive Strike met fin au Corrupt Purge [10]. Notes officielles 9.0.0 → 10.1.2 : **aucun changement d'équilibrage** (correctifs de collisions de projectile, de vitesse bloquée à 4,4 m/s après un stun, de Corrupt Purge qui revenait en Vile Purge en pleine action) [O-510] [O-511] [O-538] [O-552]. Rien au PTB 10.2.0. Statut LIVE (STRONG_SECONDARY ; absence de changement 2025-2026 : VERIFIED_PRIMARY).
+- **Données LIVE** (FACT [WIKI] [10], STRONG_SECONDARY) :
+  - 4,6 m/s ; **TR 32 m** ; grande taille. 3,6 m/s en chargeant le vomi et pendant son cooldown, 4,4 m/s en le tenant ou en vomissant.
+  - **Vile Purge** : charge 1,5 s, portée ~**13 m**, projectiles à 10,55 m/s (+ son élan), cooldown 1,5 s. Touche = Sickness (1,25 % par projectile) ; les objets touchés (objets d'interaction : gens, interrupteurs des portes…) restent infectieux **40 s**.
+  - **Sickness** : pour un survivant infecté, elle monte de **1 %/s en courant ou en interagissant**, **2 %/s en interagissant avec un objet infecté**, **0 % en marchant, accroupi ou au sol**. À **50 %**, le survivant vomit toutes les 5 à 15 s (et infecte autour de lui). À **100 %** : **blessé et Broken en permanence** (sans mise à terre). L'infection ne se remet pas à zéro au crochet.
+  - **Pools of Devotion** : **5 saines + 1 déjà corrompue au début**. Se purifier (**8 s**) retire la Sickness, **soigne complètement** et corrompt la fontaine. Plague boit une fontaine corrompue (1 s) → **Corrupt Purge 60 s** et la fontaine est réinitialisée. Si **toutes** les fontaines sont corrompues, elle reçoit Corrupt Purge automatiquement (après 5 s) et elles se réinitialisent.
+  - **Corrupt Purge** : le vomi **inflige un état de santé** (pas de double dégât ; 3 s d'immunité après un coup). **Un stun, quel qu'il soit (palette, Decisive Strike, Head On…), la ramène immédiatement en Vile Purge** (FACT [WIKI] ; corr. 12b : ce n'est plus UNCERTAIN).
+- **Identification** : **Pools of Devotion (fontaines) sur la carte** dès le début (FACT [WIKI], identification précoce) ; son de vomissement ; toux et vomissements des survivants à 50 % ; objets infectés (apparence exacte non décrite par la page, UNCERTAIN-MM).
 - **Ce qu'il cherche en chase** : Corrupt Purge : tirs en fin de boucle, au-dessus des palettes et des fenêtres ; survivants blessés en permanence (HEURISTIC).
-- **Tiles / structures** : en Corrupt Purge, LOS haute et murs = protection (HEURISTIC).
+- **Tiles / structures** : en Corrupt Purge, LOS haute et murs = protection (HEURISTIC) ; la portée d'environ 13 m (FACT [WIKI]) rend la distance moyenne sûre face au vomi.
 - **Mindgames propres** : attendre la purification pour boire ; attaque en Corrupt Purge au bout de la boucle (HEURISTIC).
 - **Counterplay** :
-  - Macro : **ne pas purifier par réflexe**, surtout plusieurs à la suite, car chaque fontaine purifiée devient une arme potentielle (HEURISTIC) ; jouer Broken est viable, avec coordination (HEURISTIC).
-  - Mécanique : Corrupt Purge → LOS et murs hauts (HEURISTIC).
+  - Macro (corr. 12b) : **ne pas purifier par réflexe**, surtout plusieurs à la suite : chaque purification crée une fontaine corrompue (HEURISTIC fondée sur FACT [WIKI]). **Mais une fontaine est corrompue dès le début** : elle peut prendre un Corrupt Purge à tout moment, sans attendre les purifications ; ne pas purifier limite seulement le nombre de recharges. Et si toutes sont corrompues, elle le reçoit automatiquement. Jouer Broken est viable, avec coordination (HEURISTIC).
+  - Infection : infecté, **marcher** plutôt que courir hors chase ne fait pas monter la Sickness ; éviter les objets infectés (2 %/s) ; la réparation monte à 1 %/s (FACT [WIKI] ; conseil HEURISTIC).
+  - Mécanique : Corrupt Purge → LOS et murs hauts ; **un stun à la palette y met fin** (FACT [WIKI]) : garder une palette debout pour le stun est une option réelle contre elle en Corrupt Purge (SITUATIONAL).
   - Équipe : se purifier loin d'elle et au bon moment (HEURISTIC).
-- **Habitudes punissables** : purifier en rafale ; toucher des objets infectés en étant sain (seed) ; se soigner au lieu de réparer.
-- **Adaptations avancées** : jouer 100 % Broken la prive de Corrupt Purge mais rend tout le monde vulnérable à un seul hit : c'est un compromis, pas une règle (SITUATIONAL). L'audit [2] signale déjà « soignez vite contre Plague » comme une règle absolue à corriger (ch7 du seed).
-- **Add-ons qui changent la décision** : non vérifiables (Iridescent Seal, Worship Tablet, Black Incense, Limestone Seal).
+- **Habitudes punissables** : purifier en rafale ; toucher des objets infectés ; courir en permanence en étant infecté hors chase ; se soigner au lieu de réparer.
+- **Adaptations avancées** : jouer 100 % Broken la prive de nouvelles fontaines corrompues mais rend tout le monde vulnérable à un seul hit : c'est un compromis, pas une règle (SITUATIONAL). L'audit [2] signale déjà « soignez vite contre Plague » comme une règle absolue à corriger (ch7 du seed).
+- **Add-ons qui changent la décision** (effets : FACT [WIKI] [10] ; réponse : HEURISTIC) :
+  - Iridescent Seal (Corrupt Purge **automatique à chaque gen terminé**, durée −20 s → 40 s) → ne pas purifier ne la prive plus de Corrupt Purge ; au moment de terminer un gen, être près d'un mur haut, pas en terrain ouvert, et éviter de terminer un gen quand elle est proche.
+  - Blessed Apple / Ashen Apple (+1 fontaine corrompue au départ ; Ashen : +1 fontaine) ; Prophylactic Amulet (−2 fontaines) → compter les fontaines corrompues avant de planifier les purifications.
+  - Exorcism Amulet / Devotee's Amulet (Corrupt Purge +10 s / +20 s) ; Worship Tablet (boit 2× plus vite ; +4,4 % de vitesse en tenant Corrupt Purge) → plus de temps sous menace : jouer la LOS plus longtemps.
+  - Olibanum Incense (aura 4 s des survivants qui se purifient) ; Incensed Ointment (en buvant, les survivants dans son TR crient et sont révélés) ; Black Incense (aura 3 s des survivants infectés qui vomissent) → se purifier loin d'elle, rester hors de son TR quand elle boit.
+  - Prayer Tablet Fragment (le vomi ne touche plus les survivants ; objets infectés +40 s ; infection par interaction ×2) / Severed Toe (+50 % par interaction) / Limestone, Haematite Seal (objets +20 / +30 s) → éviter de toucher les objets infectés.
+  - Rubbing Oil (charge +50 %), Potent Tincture / Healing Salve (cooldown −0,4 / −0,25 s), Vile Emetic (projectile +10 %), Emetic Potion / Infected Emetic (infection +30 / +40 %).
 - **Implications de carte** : non évaluées.
-- **Perks fréquentes** : non vérifiables. Teachables : Corrupt Intervention, Infectious Fright, Dark Devotion.
-- **Écart avec le seed** : IMPRÉCIS (« soignez vite contre Plague », ch7, déjà relevé par [2]) · NON VÉRIFIABLE (portée ~13 m, 40 s d'infection, 60 s de Corrupt Purge, Iridescent Seal).
-- **Sources** : [1] [2].
+- **Perks fréquentes** : non vérifiables. Teachables : Corrupt Intervention, Infectious Fright, Dark Devotion (descriptions non relues sur la page).
+- **Écart avec le seed** : OK (portée ~13 m, objets infectés 40 s, 100 % = blessé + Broken, fontaines corrompues, Corrupt Purge 60 s, **un stun y met fin**, Iridescent Seal = Corrupt Purge automatique à chaque gen terminé) · IMPRÉCIS (le seed ne dit pas qu'**une fontaine est corrompue dès le début** ; « Corrupt Purge qui blesse et met à terre » = un état de santé par touche) · IMPRÉCIS (« soignez vite contre Plague », ch7, déjà relevé par [2]) · NON VÉRIFIABLE (Iron Will « vomissements silencieux », objets qui « brillent en vert », kill rate 47,8 %).
+- **Sources** : [1] [2] [10] [O-510] [O-511] [O-538] [O-552].
 
 ---
 

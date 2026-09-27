@@ -297,29 +297,50 @@
 - **Sources** : [9], [16], [17], [19], [20], [23], [1], [2].
 
 ## 22. The Twins (Charlotte & Victor Deshayes) — archétype(s) : slug | anti-loop | zone
-- **Version** : 9.0.0 (17/06/2025) : Victor peut déclencher des chases [1] — VERIFIED via audit. Pas de rework en 9.x ; rework 2024 largement annulé en PTB (patch exact non vérifié) [1]. Statut LIVE.
-- **Données LIVE** :
-  - Charlotte 4,6 m/s, TR 32 m ; Victor 6,0 m/s — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN.
-  - Blood Bond : Charlotte libère Victor ; bond de Victor → sain = accroché (blessé, puis retrait nécessaire), blessé = à terre — FACT de principe ; durées (libération 0,75 s, retrait 8 s, écrasement 0,35 s, rappel 90 s) — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN.
-  - Victor écrasable par les survivants quand il est vulnérable (après un bond raté / au repos) — FACT de principe.
-- **Identification** : TR de Charlotte ; cris/rires aigus de Victor ; Charlotte immobile quand elle contrôle Victor — HEURISTIC. Stratégie : slug (Victor garde un survivant à terre), 3-gen, pression Hex (seed) — HEURISTIC.
-- **Ce qu'il cherche en chase** : Charlotte blesse, Victor finit ; Victor posé sur un slug/crochet pour bloquer la revive — HEURISTIC.
+- **Version** : 9.0.0 [12] : Victor peut déclencher des chases. VERIFIED_MULTI_SOURCE [10][12]. Aucun autre changement 1v1 de 9.0.0 à 10.1.2a, seulement des correctifs (ex. 10.1.0 : des survivants pouvaient s'échapper pendant que Victor les tenait [20]). Dernier équilibrage d'après le wiki : 8.3.0, avec deux hausses de cooldown [10]. Le « rework 2024 largement annulé en PTB » cité par le lot 4 n'apparaît pas dans le change log wiki : UNCERTAIN. PTB 10.2.0 : une correction seulement [23]. Statut LIVE.
+- **Données LIVE** (page wiki [10], STRONG_SECONDARY sauf mention) :
+  - Charlotte : 4,6 m/s, **TR 32 m**, grande. Victor : **6,0 m/s** (2,4 m/s en chargeant un bond). **Berceuse** (cris de Victor) : 12 m au repos, 14 m accroché, 18 m contrôlé.
+  - Libération de Victor 0,75 s. Passage de Charlotte à Victor 0,25 s ; retour à Charlotte 1,5 s.
+  - Charlotte au repos (Dormant) : **pas de TR ni de red stain** ; elle garde sa collision 30 s, puis devient traversable.
+  - Pouvoir de détection : quand Charlotte contrôle et que Victor est posé, un survivant qui **marche ou court** dans le rayon de cri de Victor est révélé par Killer Instinct (1,5 s de persistance). **S'accroupir évite la révélation.**
+  - Bond : charge 0,85 s. Sur un survivant sain, Victor **s'accroche** (le survivant passe blessé) et le contrôle revient à Charlotte. Sur un survivant blessé, Victor le **met à terre** et garde le contrôle. Bond raté : Victor est **vulnérable 3 s**. S'il atterrit sur un obstacle de plus de 80 cm, il est détruit et revient à Charlotte.
+  - Survivant accroché : **Broken, Incapacitated, Oblivious** ; ne peut ni entrer dans un casier ni sortir par une porte (effet qui persiste 5 s après le retrait) ; les survivants proches sont révélés par Killer Instinct. **Retrait : 8 s.**
+  - Écrasement : **0,35 s**, possible quand Victor est au repos et que Charlotte a le contrôle, ou brièvement après un bond sans accroche. Victor brille en **rouge** quand il est écrasable, en **blanc** quand il est invulnérable (il ne peut alors pas être étourdi par une palette). Écrasé après un bond raté, il met 20 s à repousser.
+  - Rappel automatique de Victor au repos : **90 s** ; Charlotte peut le rappeler plus tôt.
+  - Casiers : Victor peut les fouiller et bloquer 10 s un survivant trouvé.
+  - Restrictions de rayon listées par la page : 4 m des portes, 6 m de la trappe, 16 m des crochets. L'action restreinte n'est pas précisée (probablement la libération de Victor) : UNCERTAIN.
+  - Perks de détection : Victor étant techniquement un pouvoir, les perks qui détectent le tueur (ex. Spine Chill) **ne détectent pas Victor** [10].
+- **Identification** : TR de Charlotte (32 m), absent quand elle est Dormant ; cris de Victor (berceuse de 12 à 18 m) ; Charlotte immobile quand elle contrôle Victor — FACT [10] + HEURISTIC. Stratégie : slug (Victor garde un survivant à terre), 3-gen, pression Hex (seed) — HEURISTIC.
+- **Ce qu'il cherche en chase** : Charlotte blesse, Victor achève ; Victor posé près d'un slug ou d'un crochet pour bloquer la relève — HEURISTIC.
 - **Tiles / structures** :
-  - Favorables : contre Victor, tiles avec vault et obstacles qui cassent ses lignes de bond ; contre Charlotte seule, loops standard — HEURISTIC.
-  - Défavorables : open areas (bond de Victor), zones proches d'un slug gardé — HEURISTIC.
-- **Mindgames propres** : Victor posé en embuscade près d'un gen ou d'un slug ; switch rapide Charlotte → Victor — HEURISTIC.
+  - Favorables : contre Victor, tiles avec vault et obstacles qui cassent ses lignes de bond (un obstacle de plus de 80 cm le détruit, FACT [10]) ; contre Charlotte seule, loops standard — HEURISTIC.
+  - Défavorables : zones ouvertes (bond de Victor), zones proches d'un slug gardé — HEURISTIC.
+- **Mindgames propres** : Victor posé en embuscade près d'un gen ou d'un slug ; switch rapide de Charlotte à Victor (0,25 s) — HEURISTIC.
 - **Counterplay** :
-  - Mécanique : esquiver le bond (changer de direction pendant la charge) puis écraser Victor s'il est vulnérable — HEURISTIC.
-  - Positionnel : ne pas approcher un survivant au sol gardé par Victor sans pouvoir l'écraser ; attendre que Charlotte le rappelle — HEURISTIC.
-  - Macro : kit anti-slug (Unbreakable, Soul Guard, Boon: Exponential selon run) — HEURISTIC ; Charlotte immobile pendant le contrôle de Victor = fenêtre pour les gens éloignés d'elle — HEURISTIC. Faits utiles (FACT [AUDIT], ajout P14) : **aucune auto-relève basekit en LIVE** (les systèmes anti-slug des PTB 9.2.0 / 9.3.0 ont été reportés puis annulés) ; depuis 9.2.0, récupération au sol automatique et option Abandon après avoir été relevé/soigné de l'état mourant 2 fois ; Unbreakable (9.5.0, wiki) ne s'active que si l'on a été mis au sol **par le tueur**, une fois par partie (qu'une mise au sol par Victor compte « par le tueur » : non vérifié) ; la refonte Abandon / Surrender est **PTB 10.2.0**, non LIVE.
-  - Équipe : en SWF, un survivant « écraseur » garde Victor sous contrôle pendant la revive ; en SoloQ, ne pas compter sur cette répartition : ne relever que si Victor est visible et écrasable, ou rappelé — HEURISTIC.
-- **Habitudes punissables** : se regrouper autour d'un slug gardé ; ignorer la position de Charlotte ; chase en étant Broken (Victor accroché). **Erreur classique** : croire que Victor ne peut pas lancer de chase (faux depuis 9.0.0) [1].
-- **Adaptations avancées** : contre un joueur qui garde Victor en sécurité, jouer Charlotte comme un M1 mais sans jamais quitter une zone de LOS blockers ; SITUATIONAL selon Hex.
-- **Add-ons qui changent la décision** : NON VÉRIFIABLE. Seed : Iridescent Pendant (écraser Victor = Exposed), Madeleine's Scarf, Sewer Sludge, Cat Figurine. Règle : si écraser Victor punit (Exposed) → ne l'écraser qu'en sécurité, pas en chase de Charlotte — HEURISTIC.
-- **Implications de carte** : intérieurs/cartes encombrées limitent les bonds ; open favorise Victor — HEURISTIC.
-- **Perks fréquentes / synergies** : Hex (Ruin, Undying, seed) — NON VÉRIFIABLE ; Oppression, Coup de Grâce, Hoarder (ses perks) — NON VÉRIFIABLE pour 2026.
-- **Écart avec le seed** : « Depuis la mi-2025, Victor peut déclencher des chases » OK (9.0.0, 17/06/2025) ; libération 0,75 s « depuis 7.7 » NON VÉRIFIABLE ; tier C vs « 3e kill rate au haut MMR » = incohérence interne (CONFLICT-B4G3-02).
-- **Sources** : [1], [2].
+  - Mécanique : esquiver le bond (changer de direction pendant la charge de 0,85 s), puis écraser Victor quand il est **rouge** (0,35 s) — FACT [10] + HEURISTIC.
+  - Positionnel : près d'un Victor posé, **s'accroupir** pour ne pas être révélé (FACT [10]). Ne pas approcher un survivant au sol gardé par Victor sans pouvoir l'écraser ; attendre que Charlotte le rappelle (automatique après 90 s) — HEURISTIC.
+  - Macro :
+    - Kit anti-slug (Unbreakable, Soul Guard, Boon: Exponential selon le run) — HEURISTIC.
+    - Pendant que Charlotte contrôle Victor, elle est immobile et sans TR (Dormant) : c'est une fenêtre pour les gens éloignés d'elle. Mais elle garde sa collision 30 s : ne pas traverser son corps pour fuir — FACT [10] + HEURISTIC.
+    - Faits utiles (FACT [AUDIT], ajout P14) : **aucune auto-relève basekit en LIVE** (les systèmes anti-slug des PTB 9.2.0 / 9.3.0 ont été reportés puis annulés) ; depuis 9.2.0, récupération automatique au sol et option Abandon après avoir été relevé ou soigné de l'état mourant 2 fois ; Unbreakable (9.5.0, wiki) ne s'active que si l'on a été mis à terre **par le tueur**, une fois par partie. Qu'une mise à terre par Victor compte « par le tueur » n'est pas vérifié. La refonte Abandon / Surrender est **PTB 10.2.0**, non LIVE.
+  - Victor accroché : vous êtes Broken et Incapacitated, et ne pouvez pas sortir par une porte. En fin de partie, le faire retirer (8 s) avant de viser la sortie — FACT [10] + HEURISTIC.
+  - Équipe : en SWF, un survivant « écraseur » garde Victor sous contrôle pendant la relève ; en SoloQ, ne pas compter sur cette répartition : ne relever que si Victor est visible et rouge (écrasable), ou rappelé — HEURISTIC.
+- **Habitudes punissables** : se regrouper autour d'un slug gardé ; marcher debout dans le rayon de cri de Victor ; ignorer la position de Charlotte ; faire une chase en étant Broken (Victor accroché). **Erreur classique** : croire que Victor ne peut pas lancer de chase (faux depuis 9.0.0) [12].
+- **Adaptations avancées** : contre un joueur qui garde Victor en sécurité, jouer Charlotte comme un M1, sans jamais quitter une zone de LOS blockers ; SITUATIONAL selon Hex.
+- **Add-ons qui changent la décision** (noms et effets LIVE lus sur [10]) :
+  - Iridescent Pendant (écraser Victor pendant que Charlotte contrôle rend Exposed 45 s) → n'écraser qu'en sécurité, jamais pendant une chase de Charlotte ; sinon laisser Victor et s'éloigner.
+  - Silencing Cloth (Charlotte Undetectable 20 s en sortant du Dormant) → après le retour de Victor, Charlotte peut arriver sans TR : ne pas reprendre le gen près d'elle.
+  - Weighty Rattle (Broken 20 s après le retrait), Rusted Needle (Haemorrhage jusqu'au soin complet), Baby Teeth (Blindness 30 s) ou Sewer Sludge (retrait +2 s, soit 10 s) → retirer Victor coûte plus : s'éloigner de Charlotte avant de lancer le retrait.
+  - Drop of Perfume (Oblivious dans le rayon de cri quand Charlotte contrôle) → près de Victor posé, aucun TR fiable : se fier à la vue et aux cris.
+  - Cat's Eye (aucun bruit pendant la charge du bond) → ne pas attendre le cri de charge pour esquiver : garder un obstacle entre vous et Victor.
+  - Madeleine's Glove (rayon de cri +4 m) ou Soured Milk (+2 m) → la zone de révélation s'élargit : s'accroupir plus tôt.
+  - Forest Stew (Victor +0,6 m/s) ou Madeleine's Scarf (+0,3 m/s) → Victor rattrape plus vite en open : rester près des obstacles hauts.
+  - Victor's Soldier (auras de tous 6 s après avoir écrasé Victor) → après l'écrasement, bouger vers une LOS au lieu de rester sur place.
+  - Spinning Top (un survivant touché par un bond lâche son objet) → contre lui, ne pas compter garder la lampe ou la trousse pendant une chase de Victor.
+- **Implications de carte** : intérieurs et cartes encombrées limitent les bonds (obstacles de plus de 80 cm) ; l'open favorise Victor — HEURISTIC.
+- **Perks fréquentes / synergies** : Hex (Ruin, Undying, seed) — NON VÉRIFIABLE ; Oppression, Coup de Grâce, Hoarder (ses perks) — fréquence NON VÉRIFIABLE pour 2026.
+- **Écart avec le seed** : « Depuis la mi-2025, Victor peut déclencher des chases » **OK** (9.0.0, 17/06/2025) ; Victor 6,0 m/s **OK** ; libération 0,75 s « depuis 7.7 » **OK** (1 → 0,75 s au 7.7.0 [10]) ; retrait 8 s **OK** ; écrasement 0,35 s **OK** ; rappel 90 s **OK** ; TR 32 m OK ; tier C vs « 3e kill rate au haut MMR » : voir CONFLICT-B4G3-02 (partiellement éclairé).
+- **Sources** : [10], [12], [20], [22], [23], [1], [2].
 
 ---
 
