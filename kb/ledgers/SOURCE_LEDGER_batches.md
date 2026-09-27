@@ -1,6 +1,6 @@
 # SOURCE_LEDGER — sources des lots 2-4 (généré)
 
-Généré par `kb/tools/summarize_batches.py`. Toutes consultées le 27/09/2026 **via le résumé de WebSearch** (page non lue en entier) : confiance plafonnée à STRONG_SECONDARY.
+Généré par `kb/tools/summarize_batches.py`. Consultées le 27/09/2026 : d'abord via le résumé de WebSearch (lots 2-4, confiance plafonnée à STRONG_SECONDARY), puis re-vérifiées sur pages complètes (wiki via API, notes officielles BHVR) — voir SOURCE_LEDGER.md.
 
 346 URL distinctes.
 

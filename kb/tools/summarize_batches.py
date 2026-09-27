@@ -68,8 +68,7 @@ def main():
     out = os.path.join(ROOT, "ledgers", "SOURCE_LEDGER_batches.md")
     with open(out, "w", encoding="utf-8") as fh:
         fh.write("# SOURCE_LEDGER — sources des lots 2-4 (généré)\n\n")
-        fh.write("Généré par `kb/tools/summarize_batches.py`. Consultées le 27/09/2026 : d abord via le résumé de WebSearch (lots 2-4, confiance plafonnée à STRONG_SECONDARY), puis re-vérifiées sur pages complètes (wiki via API, notes officielles BHVR) — voir SOURCE_LEDGER.md. "
-                 "(page non lue en entier) : confiance plafonnée à STRONG_SECONDARY.\n\n")
+        fh.write("Généré par `kb/tools/summarize_batches.py`. Consultées le 27/09/2026 : d'abord via le résumé de WebSearch (lots 2-4, confiance plafonnée à STRONG_SECONDARY), puis re-vérifiées sur pages complètes (wiki via API, notes officielles BHVR) — voir SOURCE_LEDGER.md.\n\n")
         fh.write(f"{len(urls)} URL distinctes.\n\n| # | URL | Fichiers | Ligne d'origine |\n|---:|---|---|---|\n")
         for i, (u, (line, names)) in enumerate(urls.items(), 1):
             line = line.replace("|", "/")[:160]
