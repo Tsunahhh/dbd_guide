@@ -68,7 +68,7 @@ D'après la Dev Update de BHVR relayée par l'audit, les 58 perks se répartisse
 | Shattered Hope | **Rework** : à chaque totem béni/purifié/détruit, blocage des totems 16/18/20 s + aura des Boons | Boons et purifications moins fiables. |
 | Undone | **Rework** : jetons au crochet (max 3), dépensés au coup de pied : −8/9/10 % et blocage 8/9/10 s par jeton | Régression à la demande, qui se cumule. |
 | Help Wanted / Machine Learning | Jusqu'à **3 gens** compromis à la fois (LIVE : 1) ; Help Wanted : **nouveau** 150 % de régression 100/110/120 s | Plus difficile de deviner quel gen est « piégé ». |
-| Unrelenting, Whispers, Agitation, Iron Grasp, Bitter Murmur, Deerstalker, Fire Up, Game Afoot, Spies from the Shadows, Unbound, Dark Arrogance, Superior Anatomy | Hausses de valeurs ou nouveaux bonus (Whispers : Haste 5 % hors de 28/26/24 m, portée réduite) | Rythme de poursuite et de traversée un peu plus élevé côté tueur. |
+| 12 autres (Unrelenting, Whispers, Agitation, Iron Grasp, Fire Up, Unbound, Dark Arrogance, Superior Anatomy…) | Hausses de valeurs ou nouveaux bonus | Poursuites et déplacements un peu plus rapides côté tueur. |
 
 **Perks survivant**
 
@@ -84,7 +84,7 @@ D'après la Dev Update de BHVR relayée par l'audit, les 58 perks se répartisse
 | Premonition | **Rework** : 32 m, aura 3 s, désactivée en poursuite | — |
 | Kindred | Aura du tueur à 14/15/16 m du crochet (LIVE : 8/12/16 m) | Buff des rangs bas. |
 | Slippery Meat, Small Game, Road Life, Dark Sense, Calm Spirit | Reworks ou remises à niveau (Slippery Meat : décrochage par autrui +90/95/100 %, +5 % Haste) | Options anti-tunnel et « apprentissage » plus simples. |
-| Resilience, We'll Make It, No One Left Behind, Better Than New, Empathic Connection, Flow State, Friendly Competition, Bound by Obsession, Blood Pact, Boon: Illumination, Do No Harm, Five Moves Ahead, Pharmacy, Plunderer's Instinct, Solidarity, This is Not Happening, Wake Up! | Hausses des rangs bas ou bonus ajoutés | Peu de changement de décision : surtout des chiffres. |
+| 17 autres (Resilience, We'll Make It, No One Left Behind, Empathic Connection, Flow State, Plunderer's Instinct, This is Not Happening, Wake Up!…) | Hausses des rangs bas ou bonus ajoutés | Surtout des chiffres, peu de changement de décision. |
 
 > **Note avancée** : la note PTB liste aussi des « Known Issues » : Divine Light (The Judgment) qui détecte les survivants cachés dans les casiers, This is Not Happening qui modifie des skill checks spéciaux, Stake Out qui perd des jetons. Ce sont des bugs **du PTB**, pas du LIVE.
 
@@ -143,7 +143,7 @@ Dates : date de sortie selon wiki.gg. Les articles du support BHVR sont souvent 
 | **9.3.0** Mid-Chapter | 25/11/2025 | **Protections de décrochage du PTB annulées** (30 s, bonus uniques, anti-slug, reworks de Babysitter, Borrowed Time, Furtive Chase, Off the Record). Livré : Endurance + 10 % Haste pendant **15 s** au décrochage. Anti-facecamp : zone de **16 m**, grâce de 7 s, multiplicateur 1× / 2× / 4× selon la durée. Palettes **moins sûres** sur MacMillan, Asylum, Red Forest, Yamaoka, Haddonfield, Mount Ormond ; bâtiment principal de Crotus Prenn moins sûr. Skull Merchant ajustée. Add-on **Anti-Exhaustion Syringe** (nouveau nom, retire l'Exhausted à l'usage) et Styptic Agent (sans Endurance) **(VM)**. | Plusieurs loops « sûres » ne l'étaient plus. |
 | 9.3.1 | — | Numéro sauté. | — |
 | 9.3.2 | 09/12/2025 | Breakdown et Wicked revertés ; Skull Merchant : Undetectable 8 s au rappel d'un drone. Loops « trop courtes et dangereuses » rallongées sur 7 royaumes : BHVR cherche « un juste milieu » entre 9.2.0 et 9.3.0. | La baisse de sécurité de 9.3.0 a été en partie corrigée. |
-| **9.4.0** Stranger Things Chapter 2 (CHAPTER 38) | 27/01/2026 | Tueur The First (Henry Creel) ; survivants Dustin et Eleven. Premier statut **Elusive** en LIVE (Extrasensory Perception). Licence Halloween retirée de la boutique le 19/01/2026 ; perks renommées : Decisive Strike → **Will to Live**, Sole Survivor → Down to the Last, Object of Obsession → Bound by Obsession, Save the Best for Last → Keep Them Waiting, Play With Your Food → See How They Run, Dying Light → Cull the Weak. Lampkin Lane retirée de la rotation. | Apprends les nouveaux noms : l'écran de fin affiche les noms génériques (sauf pour les possesseurs du DLC). |
+| **9.4.0** Stranger Things Chapter 2 (CHAPTER 38) | 27/01/2026 | Tueur The First (Henry Creel) ; survivants Dustin et Eleven. Premier statut **Elusive** en LIVE (Extrasensory Perception). Licence Halloween retirée de la boutique le 19/01/2026 ; perks renommées : Decisive Strike → **Will to Live**, Sole Survivor → Down to the Last, Object of Obsession → Bound by Obsession, Save the Best for Last → Keep Them Waiting, Play With Your Food → See How They Run, Dying Light → Cull the Weak. Lampkin Lane retirée de la rotation. | Apprends les deux noms : les possesseurs du DLC gardent les noms d'origine, les autres voient les noms génériques. |
 | 9.4.1 / 9.4.2 | 03/02 · 10/02/2026 | Correctifs ; contenu 2v8 (Good Guy, Nemesis). | Les buffs 2v8 du Good Guy **ne s'appliquent pas** au 1v4. |
 | **9.5.0** All-Kill: Comeback (CHAPTER 39) | 17/03/2026 | **Rework de The Trickster** (4,4 m/s, TR 24 m, Style Ranks). Survivant Kwon Tae-young. Nouveau royaume (Sleepless District). Unbreakable : seulement si mis au sol par le tueur, une fois par partie. Self-Preservation : Elusive 20/25/30 s. **Pop Goes the Weasel réécrite** : +15 % de régression, soit 20 % au total. Hex: Crowd Control retravaillée. Fog Vial : 4 charges. | Pop se lit désormais sur la progression **totale**. |
 | 9.5.1 / 9.5.2 | 24/03 · 31/03/2026 | 9.5.2 : buffs du Trickster. | — |
@@ -171,3 +171,234 @@ PTB 9.2.0 / 9.3.0 : 30 s + Elusive ... -> JAMAIS LIVE
 Détail : `kb/seed/audit_phase0.txt` p. 8-12 ; `kb/ledgers/AUDIT_PHASE0_ERRATA.md` ; notes officielles `kb/sources/patches/official_510.txt` à `official_558.txt`.
 
 ---
+
+## 1.5 Comment ce guide a été construit [Débutant]
+
+Le guide ne recopie pas l'ancien PDF. Il le traite comme une **liste d'affirmations à vérifier**. Chaque chiffre conservé a été recoupé avec une source, et les sources officielles priment.
+
+```
+seed (140 p.) -> audit phase 0 -> lots de recherche -> re-vérification
+    -> audits adversariaux (x2) -> errata -> rédaction du guide
+```
+
+| Étape | Ce qui a été fait | Résultat |
+|---|---|---|
+| **Audit du seed** (phase 0) | Lecture intégrale des 20 chapitres de l'ancien guide par 5 auditeurs, puis vérification web de l'état du jeu, des patchs 9.0.0 → PTB 10.2.0, des mécaniques et des statistiques | 671 affirmations auditées, 239 vérifiées, 33 conflits documentés, 243 sources |
+| **Lots de recherche** | Une fiche par perk, par tueur, par tile, par carte ; brouillons chase / macro / entraînement | `kb/research/batch2` à `batch11` |
+| **Re-vérification** | Pages wiki.gg lues **en entier** (API MediaWiki) et croisées avec les notes de patch officielles BHVR archivées en local (9.0.0 → PTB 10.2.0) | Toutes les perks et les 44 tueurs re-vérifiés le 27/09/2026 ; plusieurs « erreurs » supposées du seed annulées (§1.9) |
+| **Audits adversariaux** | Deux passes par lot : erreurs, contradictions, étiquettes trop fortes, puis « que se passe-t-il si un joueur applique ce texte à la lettre ? » | Par exemple : chase 36 problèmes relevés, macro 43, entraînement 54, objets 36, tiles 40, cartes 35 ; corrections appliquées aux fichiers sources |
+| **Errata** | Les erreurs trouvées dans l'audit de phase 0 lui-même | `kb/ledgers/AUDIT_PHASE0_ERRATA.md`, qui prime sur tout le reste |
+
+**Ordre de priorité des sources** lors de la rédaction : (1) errata de l'audit ; (2) fichiers de recherche re-vérifiés et audités ; (3) livrables `kb/deliverables/` ; (4) tables vérifiées de l'audit de phase 0 ; (5) sources brutes (`kb/sources/`) pour trancher. **Aucune valeur chiffrée n'a été ajoutée hors de ces sources.**
+
+### 1.5.1 Limites (à connaître avant de faire confiance)
+
+| Limite | Conséquence pour toi |
+|---|---|
+| **Aucune VOD analysée.** YouTube, Twitch, X, Liquipedia et le site de la DBDLeague étaient inaccessibles. | Les conseils de chase fine (checkspots, mindgames, greed) sont des **[HEURISTIQUE]** de joueur, jamais des observations de joueurs pro. Le guide ne prétend nulle part avoir regardé une vidéo. |
+| **Statistiques NightLight et infographies officielles non lues** (sites refusés, images illisibles). | **Aucun kill rate par tueur ni par carte** n'est donné comme fait. Les ~70 chiffres par tueur de l'ancien guide ont été retirés (pas de période, pas d'effectif). |
+| **Liste exacte des modificateurs soumis aux DR** (manuel du jeu, 9.6.1) non consultée. | Quand un cumul est incertain, le guide le dit **[INCERTAIN]**. |
+| **Certaines valeurs n'existent que sur le wiki** (pas de note officielle). | Elles portent **(SS)**. Elles sont généralement justes, mais un wiki peut afficher une valeur PTB ou périmée. |
+| **Seuils d'entraînement sans validation** (aucune étude, aucun coach). | Les critères du chapitre 14 mesurent ton progrès **par rapport à toi-même**, pas un niveau absolu. |
+
+> **Note avancée — leçon de méthode** : les auditeurs sans accès web ont aussi produit de **fausses alertes**. Les phases de crochet à 70 s, la casse de palette en 2,34 s, le stun de Will to Live à 4 s, le MMR qui tient compte des actions : l'ancien guide avait raison sur tous ces points. Plus tard, la re-vérification a donné raison au seed sur Iron Will, Built to Last, les hachettes de la Huntress et plusieurs TR (§1.9). **Un soupçon ne corrige rien : seule une vérification sourcée modifie le texte.**
+
+Détail : `kb/seed/audit_phase0.txt` p. 5-6 ; `kb/PROJECT_MANIFEST.md` ; `kb/audit/pass14_*.md`.
+
+---
+
+## 1.6 Légende : étiquettes, confiance, difficulté [Débutant]
+
+### 1.6.1 Nature d'une affirmation
+
+Chaque fois que ce n'est pas évident, le texte dit **de quel type** est l'affirmation. Ça change ce que tu peux en faire.
+
+| Étiquette | Sens | Comment l'utiliser |
+|---|---|---|
+| **[FACT]** | Mécanique ou valeur documentée (note officielle et/ou wiki) | Tu peux construire dessus. Vérifie la version si tu lis après 10.2.0. |
+| **[DATA]** | Donnée mesurée, avec période, population et effectif | Rare dans ce guide (voir §1.5.1). Une donnée sans effectif n'est pas une [DATA]. |
+| **[HEURISTIQUE]** | Règle pratique de joueur, vraie « en général », avec exceptions | Applique-la, mais cherche la condition qui la rend fausse (elle est toujours indiquée). |
+| **[AVIS D'EXPERT]** | Opinion répandue chez les bons joueurs, non mesurée | Point de départ, pas vérité. |
+| **[HYPOTHÈSE]** | Interprétation plausible, non testée (ex. modèle de greed) | Teste-la toi-même avant d'en faire un réflexe. |
+| **[SITUATIONNEL]** | Dépend du tueur, de la carte, de l'état de partie | Relis les conditions à chaque fois. |
+| **[INCERTAIN]** | Valeur non tranchée (sources contradictoires ou absentes) | Ne base pas une décision serrée dessus ; prévois une marge. |
+
+### 1.6.2 Confiance d'un chiffre
+
+| Code | Sens | Exemple |
+|---|---|---|
+| **(VP)** | Note de patch officielle BHVR | Nowhere to Hide 24 m (note 10.1.0) |
+| **(VM)** | Wiki **et** note officielle concordants | 10.1.2a le 17/09/2026 |
+| **(SS)** | Wiki seul (page lue en entier), ou une seule source secondaire | Iron Will 80/90/100 % |
+| **(INC)** | Incertain : sources en conflit ou absentes | Taux de base de l'anti-camp depuis 9.3.0 |
+
+> **Erreur fréquente** : croire qu'une valeur (SS) est « presque fausse ». La plupart des valeurs du jeu ne figurent dans aucune note récente. Le wiki complet est alors la meilleure source disponible. (SS) veut dire « à surveiller après un patch », pas « douteux ».
+
+### 1.6.3 Difficulté et encadrés
+
+| Tag | Pour qui |
+|---|---|
+| `[Débutant]` | Moins d'une centaine d'heures ; ce qu'il faut savoir pour ne pas perdre la partie tout seul |
+| `[Intermédiaire]` | Tu connais les tiles de base et les perks courantes ; tu apprends à choisir |
+| `[Avancé]` | Tu gagnes des poursuites ; tu travailles la macro, la lecture du tueur et le timing |
+| `[Expert]` | Optimisation en secondes, cas limites, jeu contre des tueurs très forts |
+
+| Encadré | Contenu |
+|---|---|
+| `> **À retenir**` | La règle à garder si tu ne lis rien d'autre |
+| `> **Erreur fréquente**` | Ce que font beaucoup de joueurs, et pourquoi c'est puni |
+| `> **Note avancée**` | Détail technique ou cas limite ; à sauter en première lecture |
+
+### 1.6.4 Format des sections « expert »
+
+Les sujets importants suivent le même format, pour que tu saches toujours où chercher :
+
+```
+QUOI  -> POURQUOI -> QUAND -> COMMENT -> CONTRE (ce que fait le tueur)
+      -> CAS D'ÉCHEC -> EXERCICE
+```
+
+Aucune règle n'est absolue. Chaque conseil vient avec sa **condition**, son **risque** et une **alternative**. Quand la réponse diffère entre SoloQ et SWF, les deux sont données séparément.
+
+---
+
+## 1.7 Comment apprendre DBD avec ce guide [Débutant]
+
+### 1.7.1 Penser en secondes
+
+La monnaie de Dead by Daylight, c'est le **temps**. Un générateur coûte **90 s** à un survivant seul **(VM)**. Toute action se mesure donc en secondes gagnées ou perdues pour l'équipe [FACT pour les constantes ; calcul pour le reste] :
+
+| Action | Ordre de grandeur | Lecture |
+|---|---|---|
+| 1 s de poursuite pendant que 3 coéquipiers réparent chacun un gen | ≈ 3 charges ≈ **1/30 de gen** | Une poursuite de 60 s ≈ 2 gens d'équivalent brut. C'est un plafond théorique, pas une garantie. |
+| Un soin complet (soigneur + soigné) | 16 s + 16 s ≈ **0,36 gen** | Un soin se justifie s'il rapporte plus que ça (une poursuite qui tient un coup de plus). |
+| Une palette cassée par le tueur | 2,34 s d'arrêt ≈ **9,4 m** gagnés par le survivant | La palette « rapporte » la casse **et** la distance. |
+| Un état de crochet | L'équipe a **8 états survivables** avant les morts | Chaque état perdu réduit la marge de toute l'équipe. |
+
+Les chapitres 3 et 6 réutilisent ce calcul partout. Détail : `kb/research/batch11_training.md` §0.3.
+
+### 1.7.2 La boucle d'apprentissage
+
+Jouer beaucoup ne suffit pas. Le guide s'appuie sur la **pratique délibérée** [HEURISTIQUE : principe général transposé, aucune étude propre à DBD] : un objectif précis à la fois, un retour sur ce que tu as fait, et un exercice ciblé.
+
+```
+   +-----------+      +------------------+      +-----------------+
+   |  JOUER    | ---> |  REVOIR          | ---> |  DRILL          |
+   | 1 objectif|      | 3-5 moments      |      | 1 erreur focus  |
+   | par bloc  |      | pivots, à froid  |      | par semaine     |
+   +-----------+      +------------------+      +-----------------+
+         ^                                              |
+         +------------------ mesurer -------------------+
+                     (métrique vs ta propre base)
+```
+
+1. **Jouer avec un objectif** : un bloc = environ 10 parties sur une seule compétence (ex. « annoncer la feuille de l'arbre palette avant chaque palette »).
+2. **Revoir** : enregistrer, puis revoir à froid 3 à 5 moments pivots. Mets en pause **avant** la décision : qu'est-ce que je savais, quelles étaient mes options, qu'ai-je choisi ? Distingue la décision du résultat. Une bonne décision peut mal finir (variance : ne rien changer). Une mauvaise décision peut bien finir (chance : à corriger quand même).
+3. **Drill** : choisir **une** erreur (la plus fréquente ou la plus coûteuse en secondes) et l'exercice associé. Pas trois.
+4. **Mesurer** : comparer à ta propre base, dans le même mode (SoloQ **ou** SWF), sur au moins 2 blocs avant de conclure.
+
+> **Erreur fréquente** : ne revoir que ses poursuites. Les erreurs de macro (sauvetage tardif, soin inutile, 3-gen laissé se former) coûtent souvent plus de secondes qu'une palette mal jouée.
+
+> **À retenir** : le programme complet (10 niveaux, drills, métriques, gabarit de revue, semaine type) est au **chapitre 14**. La base d'erreurs et les arbres de décision qui servent pendant la revue sont au **chapitre 13**.
+
+### 1.7.3 Par où commencer selon ton niveau
+
+| Profil | Lecture conseillée |
+|---|---|
+| Débutant | Ch. 2 (mécaniques) → ch. 3, parties `[Débutant]` → ch. 13 (erreurs débutant) → niveau 1 du ch. 14 |
+| Intermédiaire qui perd ses poursuites | Ch. 3 → ch. 4 (tiles) → arbre palette du ch. 13 → drills de chase du ch. 14 |
+| Bon en poursuite, mauvais résultats d'équipe | Ch. 6 (macro, SoloQ/SWF, états de partie) → arbres crochet/soin/gen du ch. 13 |
+| Tu perds contre un tueur précis | Sa fiche aux ch. 7-8 → perks à soupçonner au ch. 10 |
+| Tu joues en SWF | Ch. 6 (section SWF, callouts) → ch. 12 (ce qui se transfère du compétitif) |
+
+---
+
+## 1.8 Carte du guide [Débutant]
+
+| Ch. | Titre | Contenu | Sources principales |
+|---|---|---|---|
+| **2** | Les mécaniques fondamentales | Objectifs, générateurs, crochets et anti-camp, protections de décrochage, soins, état mourant, statuts, Diminishing Returns, signaux d'information, objets de carte, économie hors partie | Audit (tables vérifiées) + errata ; `batch6`, `batch9`, `batch5` |
+| **3** | Mouvement, caméra et théorie de la chase | Vitesses, fente, vaults, palettes, respect/greed/pré-drop, Bloodlust, LOS, red stain, mindgames, caméra, hitbox ; chase theory en secondes | `batch6_chase_tech.md` |
+| **4** | Loops, tiles et connectivité | Catalogue des tiles, conditions de loop sûre, matrice tile × archétype de tueur, enchaînement des tiles | `batch7_tiles.md` |
+| **5** | Les cartes | 44 cartes 1v4 : fixe vs RNG, bâtiment principal, dead zones, plan de partie ; historique des palettes 9.2.0 / 9.3.0 / 9.3.2 | `batch8_maps.md` |
+| **6** | Macro, équipe et game sense | Gens et 3-gen, sauvetages, trades, proxy camp, tunnel, slug, soins, SoloQ et SWF, 14 états de partie, fin de partie | `batch9_macro.md` |
+| **7** | Les tueurs (1/2) | Typologie et identification, puis tueurs 1 à 22 (Trapper → Twins) | `batch4_killers_g1-g3.md` |
+| **8** | Les tueurs (2/2) | Tueurs 23 à 44 (Trickster → Judgment) | `batch4_killers_g4-g6.md` |
+| **9** | Perks survivant | Effets LIVE, valeur par usage, synergies et DR, colonne PTB 10.2.0 séparée | `batch2_perks_surv_*.md`, `PERK_DATABASE.md` |
+| **10** | Perks tueur et déduction | Les perks tueur vues du survivant : indices, confirmation, adaptation | `batch3_perks_kill_*.md`, `PERK_DEDUCTION.md` |
+| **11** | Objets, add-ons, offrandes | Objets et add-ons qui changent la décision, offrandes, sauvetages à la lampe et à la palette, sabotage, body block | `batch5_items.md` |
+| **12** | DBD compétitif et ce qui se transfère | DBDL, règlements, compétitif vs matchmaking public, méta ≠ optimalité, littératie des données | Audit p. 39-44 ; `batch9_macro.md` |
+| **13** | Base d'erreurs et arbres de décision | 51 erreurs par niveau ; 9 arbres (palette, quitter la tile, crochet, soin, gen, totem, slug, endgame, trappe) | `batch11_training.md`, `DECISION_TREES.md` |
+| **14** | S'entraîner : drills, programme et mesure | 10 niveaux, catalogue des drills, métriques, revue de partie, semaine type | `TRAINING_PROGRAM.md`, `batch11_training.md` |
+| **15** | Annexes | Référence rapide entre deux parties, glossaire, registres (erreurs du seed, questions ouvertes, sources) | `QUICK_REFERENCE.md`, `kb/ledgers/` |
+
+---
+
+## 1.9 Ce qui a changé par rapport à l'ancien guide [Intermédiaire]
+
+Les dix changements majeurs. La liste complète est dans `kb/ledgers/OUTDATED_CONTENT_REPORT.md` et `kb/ledgers/BATCH_2_4_SYNTHESIS.md`.
+
+**1. D'un catalogue à un manuel de décision.** L'ancien guide décrivait. Aucune section n'atteignait le format QUOI → … → EXERCICE, et il ne contenait ni arbre de décision, ni base d'erreurs, ni exercice, ni métrique. Les chapitres 13 et 14 n'existaient pas.
+
+**2. Le volet survivant des fiches tueur a été réécrit.** Les 44 fiches étaient écrites à environ 75 % pour le joueur tueur. Elles portent désormais sur l'identification, les tiles, le counterplay et les add-ons qui changent **ta** décision.
+
+**3. Des constantes fausses ont été corrigées** [FACT] :
+
+| L'ancien guide disait | Valeur LIVE 10.1.2a |
+|---|---|
+| Un gen solo ≈ 80 s | **90 s** (VM) |
+| 1 s de poursuite ≈ 1/3 de gen | ≈ **1/30 de gen** avec 3 réparateurs séparés |
+| Portes alimentées : protections de décrochage perdues | Seule l'**Elusive** disparaît ; Endurance + Haste 10 s restent (VP) |
+| L'anti-camp décroche l'allié contre un proxy camp | La jauge ne se remplit pas au-delà de **16 m** (VM) |
+| Offrandes de royaume cumulables | **20 % fixes**, doublons non cumulables depuis 9.0.0 (VP) |
+| Loadout du tueur visible après la 1re poursuite | Seule son **identité** est révélée ; loadout caché jusqu'à la fin (VP) |
+| Hyperfocus échappe aux DR | Soumise aux DR au sein du rôle survivant (VP) |
+
+**4. Les valeurs de PTB présentées comme LIVE ont été retirées.** Nowhere to Hide fait **24 m** en LIVE (18 m était la valeur du PTB 10.1.0) (VP). Le rework d'Undone, le Survivor Intent System et plusieurs valeurs de perks tueur (Unbound, Dark Arrogance, Ravenous) venaient du PTB 10.2.0 : ils sont maintenant signalés comme tels (§1.2).
+
+**5. Des perks ont été mises à jour** : Vigil **20/25/30 %** (Exhausted seul) depuis 10.1.1 (VP) ; Repressed Alliance **40/35/30 s** (VP) ; Technician **16 m, 4/3/2 %** (VP) ; No Way Out **12 s + 6/9/12 s par jeton** (max 36/48/60 s) (VM) ; **Surge** est le nom d'origine et actuel (Jolt n'a existé que de 5.3.0 à 7.3.3) ; perks du Cenobite renommées en 9.0.0 et perks de Halloween en 9.4.0.
+
+**6. L'histoire de 9.2.0 a été corrigée.** Les baisses de Pop et d'Eruption ont été **reportées** en LIVE. Eruption reste à **−10 %**, et Pop n'a changé qu'à sa réécriture de 9.5.0 (+15 %, soit 20 % au total) (VP). Même l'audit de phase 0 s'était trompé sur ce point (errata).
+
+**7. La liste des tueurs qui cassent les palettes avec leur pouvoir a été corrigée** (errata) :
+
+| Tueur | Réalité en 1v4 |
+|---|---|
+| Good Guy | Le Scamper passe **sous** la palette ; casse seulement avec l'add-on Hard Hat (la casse de base est propre au 2v8) |
+| Lich | Mage Hand + Vorpal Sword casse une palette abaissée en **4 s**, pas instantanément |
+| Mastermind | Virulent Bound **franchit** la palette sans la casser ; casse avec l'add-on Lab Photo |
+| Knight | Les gardes cassent sur ordre en **1,8 s ou 5 s** ; depuis 10.1.1, une palette baissée tôt force le garde à contourner |
+| À ajouter | Shape, Executioner, Nemesis, Singularity, The First |
+
+**8. Les statistiques ont été retirées ou datées.** Le « SWF en vocal +3/+8 points » (aucune source), les kill rates de cartes tirés de trois périodes mélangées, les ~70 chiffres par tueur sans effectif et « la chase ne sert à rien » (une corrélation présentée comme une cause) ont disparu. La Huntress n'a pas « le plus haut kill rate » : elle a le pick rate le plus large, et le kill rate le plus élevé tous MMR confondus était celui de The Lich (billet officiel, noms seulement).
+
+**9. Les corrections qui n'en étaient pas : le seed avait raison.** La re-vérification sur pages complètes et notes officielles a **annulé** plusieurs « erreurs » relevées pendant les lots précédents. Ces valeurs restent donc dans le guide :
+
+| Élément | Valeur LIVE (seed confirmé) | Pourquoi on a douté | Preuve |
+|---|---|---|---|
+| Iron Will | **80/90/100 %** de réduction des gémissements | Mémoire du modèle (50/75/100 %) | Page wiki complète, buff 8.1.0 (SS) |
+| Built to Last | **14/12/10 s** dans le casier | Le wiki affiche 12/10/8 s, valeur du PTB 9.1.0 | Note officielle 9.1.0, « Changes from PTB » (VP) |
+| Huntress | **7 hachettes** de base | Audit et mémoire reflétaient l'état d'avant 7.6.0 | Page wiki ; change log 7.6.0 (SS) |
+| TR Hillbilly / Blight | **40 m** | Valeur d'avant 8.6.0 (32 m) | Pages wiki, change log 8.6.0 (SS) |
+| TR Hag / Pig | **24 m** | Mémoire du modèle (32 m) | Pages wiki ; Hag depuis 1.9.3, Pig depuis 9.1.0 (SS) |
+| Anti-Exhaustion Syringe | Le nom existe bien | Un audit le croyait inventé | Note officielle 9.3.0 ; page wiki (VM) |
+
+S'y ajoutent les suspicions déjà infirmées en phase 0 : 70 s par phase de crochet, casse de palette en 2,34 s, stun de Will to Live de 4 s, mending de 10 s seul / 6 s par un allié, coffre en 8 s, MMR fondé aussi sur les actions.
+
+**10. Traçabilité.** L'ancien guide listait 249 URL sans relier aucune affirmation à une source, et avait effacé les réserves « (?) » des notes de recherche. Ici, chaque chiffre important porte sa confiance, chaque section renvoie à son fichier `kb/`, et ce qui reste inconnu est dit explicitement. Le 2v8 est isolé du 1v4.
+
+> **À retenir** : si un souvenir de l'ancien guide contredit ce guide, le §1.9 et `OUTDATED_CONTENT_REPORT.md` disent qui a raison et pourquoi. Si le point n'y figure pas, suppose que l'ancien guide peut avoir raison… et vérifie.
+
+---
+
+## Sources du chapitre
+
+- `kb/guide/WRITING_BRIEF.md` (règles de rédaction)
+- `kb/ledgers/AUDIT_PHASE0_ERRATA.md` (corrections prioritaires)
+- `kb/seed/audit_phase0.txt` p. 5-12 (synthèse, limites, registre de l'état du jeu, historique des patchs)
+- `kb/ledgers/OUTDATED_CONTENT_REPORT.md`, `kb/ledgers/BATCH_2_4_SYNTHESIS.md`, `kb/ledgers/CHANGELOG.md`, `kb/ledgers/OPEN_QUESTIONS.md`
+- `kb/research/batch2_perks_surv_p23.md`, `p25.md` ; `batch3_perks_kill_p90.md`, `p91.md` ; `batch4_killers_g1.md`, `g2.md`, `g3.md`, `g4.md` (conflits résolus)
+- `kb/research/batch11_training.md` §0.3 et §5.5 ; `kb/deliverables/TRAINING_PROGRAM.md` §0
+- `kb/audit/pass14_*.md` (audits adversariaux)
+- Notes officielles BHVR : 9.0.0 (KB 510), 9.1.0 (516), 9.2.0 (523, section « Postponed »), 9.3.0 (529), 9.6.0 (544), 10.1.0 (556), 10.1.1 (557), 10.1.2 / 10.1.2a (558), **PTB 10.2.0 (559)** — `kb/sources/patches/`
+- Wiki officiel (deadbydaylight.wiki.gg) : pages Patches / Patch Notes 10.2.X (`kb/sources/patches/patch_10.2.0.txt`), pages de perks (`kb/sources/wiki_perks_digest.md`) et de tueurs (`kb/sources/wiki_killers/`)

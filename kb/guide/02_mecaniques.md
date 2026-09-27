@@ -413,3 +413,196 @@ Détail : `kb/research/batch9_macro.md` §2.10 ; `kb/research/batch6_chase_tech.
 
 Détail : `kb/research/batch9_macro.md` §2.8 ; note officielle 9.2.0 (523).
 
+---
+
+## 2.7 Statuts : glossaire complet et interactions `[Débutant → Avancé]`
+
+Définitions LIVE, d'après la page wiki.gg « Status Effects » (SS) sauf mention. Les statuts liés à un seul tueur sont signalés.
+
+### 2.7.1 Glossaire
+
+| Statut | Porté par | Définition courte | Précisions | Conf. |
+|---|---|---|---|---|
+| **Blessed** | Survivant | Dans la zone d'un Boon (24 m) | Voir 2.10.3 | SS |
+| **Blindness** | Les deux rôles | Ne lit **aucune aura**, y compris les auras de base | Contre-intuitif : touche aussi les auras données par les perks | SS |
+| **Bloodlust** | Tueur | Vitesse croissante en poursuite prolongée : 15 s → +0,2 m/s ; 25 s → +0,4 ; 35 s → +0,6 | Perdue en cassant une palette, en frappant, en utilisant son pouvoir ; perte sur stun ou aveuglement **non documentée** | VM / INC |
+| **Broken** | Survivant | Impossible d'être soigné au-delà de blessé | Bloque aussi les soins « automatiques » de perks (ex. Adrenaline sous Terminus, lot 3) | SS |
+| **Cursed** | Survivant | Affecté par un Hex actif | — | SS |
+| **Deep Wound** | Survivant | Barre de 20 s qui se vide hors course et hors mending ; à zéro, état mourant | Mending 10 s seul / 6 s par un allié (8.6.0) | VP |
+| **Elusive** | Survivant | Supprime griffures, grognements et flaques de sang ; **bloque la révélation d'aura au tueur** | Introduit en 9.4.0 (Extrasensory Perception) ; fin si frappé ou mis au sol ; donné 10 s au décrochage depuis 10.1.0 | SS / VP |
+| **Endurance** (survivant) | Survivant | Encaisse un coup : le coup qui mettrait au sol donne **Deep Wound** à la place | Annulée par une action voyante ; inopérante si déjà sous Deep Wound ; protège aussi du double dégât d'Exposed | SS |
+| **Endurance** (tueur) | Tueur | Réduit fortement la durée des étourdissements | Ne pas confondre avec la perk Enduring (stuns de palette −40/45/50 %) | SS |
+| **Exhausted** | Survivant | Empêche d'utiliser les perks d'épuisement | Se recharge **seulement** en marchant, accroupi ou immobile (la course met le timer en pause) ; le wiki indique une récupération instantanée au décrochage | SS |
+| **Exposed** | Survivant | Une attaque de base met **directement à l'état mourant** | Endurance le contre (Deep Wound à la place) | SS |
+| **Haemorrhage** | Survivant | Plus de flaques de sang ; soin partiel perdu à −7 %/s | — | SS |
+| **Haste** | Les deux rôles | + vitesse de déplacement | Les sources se cumulent ; DR depuis 9.6.0 ; aucun plafond documenté | VP / INC |
+| **Hindered** | Les deux rôles | − vitesse de déplacement | Mêmes règles de cumul que Haste | VP |
+| **Incapacitated** | Survivant | Ne peut pas interagir avec certains éléments ni avec les survivants | La liste exacte dépend de la source de l'effet | SS |
+| **Madness** | Survivant | Hallucinations et entraves | **Exclusif au Doctor** | SS |
+| **Mangled** | Survivant | Soin 25 % plus long (vitesse −20 %) | Seulement de blessé à sain | SS |
+| **Oblivious** | Survivant | N'entend **ni le rayon de terreur ni le battement de cœur** | Le tueur reste audible par ses pas et ses pouvoirs | SS |
+| **Undetectable** | Tueur | Supprime le rayon de terreur et la tache rouge ; aura cachée | Un « stinger » sonore marque sa fin ; les **lullabies ne sont pas affectées** | SS |
+| **Impaled** | Survivant | **The Slasher** : touché par une Hook Spike, ne peut pas être soigné au-delà de blessé ; aura de la pique visible du tueur | Blessé + pique + mur → Impaled **et Immobilized** | VP (10.0.0) |
+| **Heresy** | Survivant | **The Judgment** : mécanique de pouvoir, pas un statut général | Voir 2.7.3 | VP (principe) / SS (valeurs) |
+| **Exile** | Survivant | **The Judgment** : compte comme un état de crochet sans déclencher les perks de crochet | Voir 2.4.5 | VP |
+| Revealed / Glyph / Deafened | — | Aura visible des deux tueurs en 2v8 / malus lié aux glyphes / audio étouffé | **Revealed est propre au 2v8** : hors périmètre | SS |
+
+> **Erreur fréquente** : confondre **Oblivious** (le survivant n'entend pas le TR) et **Undetectable** (le tueur n'émet pas de TR). Sous Oblivious, un tueur non furtif est à côté de vous sans bruit de cœur ; sous Undetectable, **tout le monde** est privé du TR et de la tache rouge.
+
+### 2.7.2 Interactions à connaître
+
+| Situation | Résultat | Conf. |
+|---|---|---|
+| Endurance + coup qui mettrait au sol | Deep Wound à la place | SS |
+| Endurance + Exposed | Endurance l'emporte : Deep Wound, pas l'état mourant | SS |
+| Endurance + déjà sous Deep Wound | **Sans effet** : le coup met au sol | SS |
+| Deep Wound + tout dégât | État mourant | VP |
+| Endurance + action voyante | Endurance perdue | SS |
+| Elusive + portes alimentées | Elusive de décrochage n'est plus donnée | VP |
+| Iron Will + Exhausted | Iron Will inactive (grognements de retour) | SS |
+| Mangled + soin de mourant à blessé | Pas d'effet (Mangled ne joue que de blessé à sain) | SS |
+| Haemorrhage + soin interrompu | Progression perdue à −7 %/s | SS |
+| Broken + Adrenaline sous Terminus | Adrenaline ne soigne plus (portes alimentées) | SS (lot 3) |
+| Blindness + perk d'aura | Aucune aura lue | SS |
+| Overwhelming Presence (Doctor) | Commencer à utiliser un objet à ≤ 32 m du tueur → **Exhausted 15 s** | VM (lot 5) |
+| Haste + Haste | Cumul, réduit par les DR (9.6.0) ; le « plus haut seulement » testé au PTB 8.7.0 a été annulé | VP |
+| Haste de Babysitter / No One Left Behind + Haste de décrochage | « Stack additively » selon le wiki (non daté) ; soumission aux DR **inconnue** | INC |
+
+### 2.7.3 Heresy (The Judgment) en détail
+
+**[FACT]** (principe VP, valeurs SS) :
+- **Comment on l'obtient** : touché par la Divine Light, ou en provoquant : **3 accroupissements ou gestes à moins de 10 m** du tueur, ou **45 s** dans le seuil d'une porte de sortie.
+- **Effets** : un skill check **Good** sur un gen fait **−3 %** ; porte bloquée **8 s** pour l'hérétique si la Heresy est acquise à moins de 32 m d'une porte.
+- **Purge** : « Repent » à un Shrine (décroissance 30 s).
+
+**[HEURISTIQUE]** Un hérétique ne tient pas de gen à 99 % et n'attend pas dans une porte.
+
+Détail : page wiki « Status Effects » ; `kb/seed/audit_phase0.txt` table 1.5 ; notes 10.0.0 (550) et 10.1.0.
+
+---
+
+## 2.8 Diminishing Returns (9.6.0) `[Avancé → Expert]`
+
+### 2.8.1 Ce qui est sûr (note officielle 9.6.0, VP)
+
+- **Périmètre** : « repeated positive or negative gameplay modifiers and status effects ». Les modificateurs **identiques**, côté tueur comme côté survivant, issus de **pouvoirs, objets, perks et offrandes**, sont réduits quand ils s'empilent.
+- **Barème** : le modificateur de plus forte valeur absolue s'applique à **100 %**, puis **50 % / 25 % / 12,5 %**, et **5 %** à partir du 5e.
+- **Exclusion totale** : les modificateurs issus des **add-ons** (add-ons de pouvoir du tueur et add-ons d'objet du survivant).
+- **Règle de rôle** : les **modificateurs négatifs de vitesse d'action** et les **modificateurs positifs de chance de skill check** ne se réduisent qu'**entre sources d'un même rôle**.
+- Le manuel du jeu a été mis à jour pour décrire le système (non consulté pour ce guide).
+
+```
+Exemple : trois bonus identiques de +20 %, +10 % et +10 % (valeurs fictives)
+  +20 % × 100 % = +20 %
+  +10 % ×  50 % = +5 %
+  +10 % ×  25 % = +2,5 %
+  Total effectif = +27,5 %   (et non +40 %)
+```
+
+### 2.8.2 Pourquoi la règle de rôle existe
+
+La note de dev officielle donne deux exemples du PTB 9.6.0 (VP) :
+- la pénalité volontaire de **−30 %** de vitesse de purification de **Calm Spirit** était réduite de 50 % par la pénalité de **−60 %** de **Hex: Thrill of the Hunt** : le survivant « gagnait » à porter une pénalité ;
+- **ONE-TWO-THREE-FOUR!** (survivant) réduisait l'effet de **Unnerving Presence** (tueur) sur la chance de skill check.
+
+Depuis le LIVE, ces paires ne se réduisent plus entre elles : chaque loadout fonctionne comme prévu par celui qui l'a choisi.
+
+> **Erreur fréquente** : « Hyperfocus échappe aux DR » (ancien guide, A-233). **Faux** : les bonus de chance de skill check **sont** soumis aux DR, mais seulement entre sources survivantes.
+
+### 2.8.3 Conséquences pratiques [HEURISTIQUE]
+
+- **Empiler deux perks de même effet** rapporte moins qu'avant : la 2e ne vaut que la moitié. Préférez des effets différents.
+- Le **bonus de base d'un objet** (ex. vitesse d'une toolbox) peut entrer dans les DR avec une perk de même type ; l'**add-on**, non. À bonus égal, un add-on « vaut » plus qu'une perk dans un build empilé.
+- Côté tueur, les ralentissements de même nature (perks de vitesse d'action négative) s'empilent moins bien entre eux, mais ne sont pas réduits par les pénalités que les survivants s'infligent.
+
+### 2.8.4 Ce qui reste inconnu
+
+| Question | Statut |
+|---|---|
+| Liste itemisée des catégories jugées « identiques » | Non publiée dans les notes **[INCERTAIN]** |
+| Pertes instantanées de gen (Pop, Pain Resonance, Eruption…) et blocages | Rien dans les notes ni le wiki **[INCERTAIN]** |
+| Palettes, fenêtres, nombre de stuns | **Aucun DR** mentionné : le système vise les modificateurs (VP, par absence dans un texte exhaustif) |
+| Endurance (effet binaire) | Application **inconnue** |
+| Vitesse de vault (ex. Bamboozle + autre perk) | Probablement concernée, non détaillé **[INCERTAIN]** |
+| Effets de base (Haste de décrochage, boost au coup) | Soumission **inconnue** |
+| Plafond de Haste | Aucun documenté (preuve par absence seulement) |
+
+> **Note avancée** : la note de dev du **PTB** disait « all major gameplay modifiers and status effects for both roles are included ». Le texte **LIVE** est plus prudent et ajoute la règle de rôle. Ne citez pas la formule du PTB comme une liste officielle.
+
+Détail : notes officielles 9.6.0 (544), section « Diminishing Returns » et « Changes from PTB » ; `kb/research/batch5_items.md` §1.
+
+---
+
+## 2.9 Signaux d'information `[Débutant → Avancé]`
+
+Chaque action émet ou coûte de l'information. Ce tableau recense les signaux, qui les reçoit, et ce qu'on en sait vraiment.
+
+### 2.9.1 Poursuite, rayon de terreur, musique
+
+| Signal | Valeur LIVE | Conf. |
+|---|---|---|
+| **Début de poursuite** | Survivant dans le champ de vision du tueur à **≤ 12 m**, survivant qui **court**, tueur qui se déplace | SS |
+| **Fin de poursuite** | Distance **> 18 m** ; **5 s** dans un casier ; perte de ligne de vue **> 8 s** ; survivant au-delà de **± 35°** du centre du champ de vision (FOV tueur par défaut 87°) | SS ; temporisation de l'angle : INC |
+| **Terror Radius (TR)** | « À l'origine » **32 m** (tueurs 4,6 m/s) et **24 m** (4,4 m/s) ; beaucoup de tueurs récents sont des exceptions | SS |
+| **Musique de chase** | La couche 4 (chase) remplace la 3e couche de proximité. Le tueur **n'entend pas son propre TR** : il entend la musique de la carte jusqu'à la poursuite | SS |
+| **Lullaby** | Non affectée par Undetectable | SS |
+| **Undetectable** | Supprime TR et tache rouge ; stinger sonore à la fin | SS |
+| **Révélation du tueur** | Son identité apparaît dans Match Details dès qu'un survivant entre en poursuite ou perd un état de santé | VP (9.6.0) |
+
+> **Erreur fréquente** : « la musique de chase s'arrête, donc le tueur est parti ». Il peut simplement regarder ailleurs (condition d'angle) ou vous chercher derrière le mur.
+
+### 2.9.2 Traces laissées par le survivant
+
+| Signal | Valeur LIVE | Reçu par | Conf. |
+|---|---|---|---|
+| **Traces de griffures** | Quand le survivant **court** (ou atteint ≥ 60 % de sa vitesse en maintenant le sprint). Vie **10 s** : 1 s d'apparition, 8 s pleine visibilité, 1 s de fondu (fondu visible ~4 s plus tôt sur sol clair) | Tueur ; survivant seulement avec Fixated | SS (8.2.0, 8.6.0 ; couleurs personnalisables 9.3.0) |
+| **Flaques de sang** | Sous les survivants blessés ou au sol ; fréquence et durée de vie **non documentées** ; Bloodhound +2/3/4 s ; Sloppy Butcher +50/75/100 % de fréquence | Tueur | SS (existence) / INC (valeurs) |
+| **Grognements de douleur** | À l'état blessé ; portée **non documentée** (estimation communautaire ~12-16 m, variable selon le personnage) ; Iron Will −80/90/100 % (8.1.0), cumul additif (8.1.2), inactive si Exhausted | Tueur (et survivants proches) | SS (Iron Will) / INC (portée) |
+| **Corbeaux d'ambiance** | S'envolent dans un rayon de **4 m** (test toutes les 0,5 s ; 0,6 m d'écrasement garanti) ; reviennent après **15 s** ; pas d'envol accroupi, avec Calm Spirit, ni pour certains tueurs furtifs | Tout le monde | SS |
+| **Corbeaux AFK** | Seuils **80 / 100 / 120 s** d'inactivité (9.3.0 ; était 120/140/190 s) ; le 3e corbeau déclenche des **notifications de bruit continues** | Tueur | VP |
+| **Elusive** | Supprime griffures, grognements, flaques | — | SS |
+
+### 2.9.3 Tache rouge
+
+**[FACT] (SS)** Émise par la **tête** du tueur, dans la direction où il **regarde et se déplace** ; le tueur ne la voit pas ; masquée par Undetectable. Le wiki décrit la marche à reculons ou de côté autour des murs (**moonwalk**) comme technique pour tromper le survivant. L'effet de « regarder vers le bas » pour la cacher n'est pas documenté **[INCERTAIN]**.
+
+**[HEURISTIQUE]** Quand vous avez la ligne de vue sur le **corps**, fiez-vous au corps, pas à la tache. La tache est utile derrière un mur haut, combinée au TR et aux pas.
+
+### 2.9.4 Notifications de bruit fort
+
+Ce que l'on sait, source par source :
+
+| Déclencheur | Bruit | Conf. |
+|---|---|---|
+| Fast vault de fenêtre | Bruyant | SS |
+| Slow vault de fenêtre | Pas de notification de bruit fort | SS |
+| Vault de palette rapide / lent | Bruyant / silencieux | SS |
+| Entrée en sprint dans un casier | Bruit fort (sauf Quick & Quiet) ; entrée normale lente mais silencieuse | SS (lot 5) |
+| Head On raté | Bruit fort | SS (lot 5) |
+| Ouverture de coffre | Audible à 20 m | SS (lot 5) |
+| 3e corbeau AFK | Notifications de bruit continues | VP |
+| Premier contact avec un interrupteur sous No Way Out | Bruit fort | SS |
+| Skill check raté | Bruit **[INCERTAIN : absent des sources vérifiées]** | INC |
+
+### 2.9.5 Auras et HUD
+
+| Élément | Ce qu'on sait | Conf. |
+|---|---|---|
+| Blindness | Bloque **toutes** les lectures d'aura | SS |
+| Elusive | Bloque la révélation de l'aura **au tueur** | SS |
+| Casier | Aura cachée à l'intérieur, sauf à l'entrée et à la sortie | SS (lot 5) |
+| Trappe | Aura visible du **dernier survivant seulement** (5.3.0) | SS |
+| Alliés accrochés / au sol | Auras de base : connues des joueurs, **absentes des sources vérifiées** | INC |
+| Knock Out (perk tueur) | Auras des mourants réduites à 32/24/16 m après un coup de base | SS (lot 3) |
+| Personnalisation | Nouveaux types d'aura personnalisables en couleur (9.6.0) | VP |
+| Jauge anti-camp | Visible des autres survivants accrochés (9.3.0) | VP |
+| Timer de crochet | Deux barres depuis 10.1.0 | VP |
+| Barre de progression | Jaune = plus rapide que la normale, rouge = plus lente (9.6.0) | VP |
+| Match Details | Loadouts des coéquipiers (perks, objets, add-ons, offrandes) ; identité du tueur après la 1re chase ou la 1re perte d'état ; onglet du pouvoir du tueur (10.0.0) | VP |
+
+**Principe d'économie [HEURISTIQUE]** : ne rien montrer au tueur coûte peu en début de partie et beaucoup en fin ; **acheter** de l'information (aller vérifier un crochet, regarder la chase d'un allié) coûte des s-surv. En SoloQ, on l'achète avec des perks ; en SWF, avec la voix, qui est gratuite.
+
+> **Exercice** `[Débutant]` « 8 secondes » : à chaque perte de ligne de vue derrière un mur haut, choisissez de marcher 3-5 s puis vous accroupir, ou de continuer à courir. Notez si la musique de chase s'arrête. Sur 20 cas, identifiez quand marcher bat courir (avec ou sans info d'aura du tueur).
+
+Détail : `kb/research/batch6_chase_tech.md` T07, T08, T16 ; `kb/research/batch9_macro.md` §2.12, §3.2.
+

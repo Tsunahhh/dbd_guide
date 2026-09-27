@@ -665,3 +665,185 @@ Détail : `kb/research/batch4_killers_g5.md` §34.
 
 Détail : `kb/research/batch4_killers_g5.md` §35.
 
+## 36. The Lich (Vecna) [Avancé]
+
+*Archétype : mobilité (Fly) + anti-loop (Mage Hand) + info. LIVE 9.0.0 (tous les sorts dès le début) (VM) ; 9.1.0 corrige le **temps** de casse de Vorpal Sword (VP).*
+
+**Données LIVE**
+
+| Paramètre | Valeur | Conf. |
+|---|---|---|
+| Vitesse / TR / taille | 4,6 m/s ; 32 m ; moyenne ; 3,68 m/s pendant 2 s après un sort | SS |
+| Fly | **8 m/s**, 5 s max, ignore palettes abaissées et fenêtres ; puis **2,75 s sans attaque** ; cooldown 20 s | VM |
+| Flight of the Damned | 5 entités, 22 m ; hauteur de vol 1,4 m → **ne touchent pas un survivant accroupi sur terrain plat** ; cooldown 30 s | VM / SS |
+| Dispelling Sphere | **Invisible** pour les survivants ; contact = Killer Instinct 5 s + objets magiques off 45 s ; cooldown 30 s | VM |
+| Mage Hand | Portée 16 m ; palette **debout** : **bloquée 4 s** ; palette **abaissée** : **relevée** en ≈ 1 s, puis 0,55 s sans pouvoir la rabaisser ; cooldown 35 s | SS |
+| Vorpal Sword (add-on) | Mage Hand **casse** la palette abaissée en **4 s** (pas instantané) | VM |
+| Coffres | 6 ; **un est un Mimic** qui saisit le survivant ; chaque objet magique révèle l'aura du Lich 2 s quand il lance le sort associé | SS |
+
+**Identification** : coffres et objets magiques dès le début ; palette qui se relève ou reste bloquée ; Killer Instinct sans raison visible (Sphere). Palette abaissée que la main **casse** = Vorpal Sword.
+
+**Ce qu'il cherche** : Mage Hand sur la palette **debout** au moment où tu veux la jeter (4 s de blocage = coup quasi garanti), ou sur la palette abaissée pour la relever et passer ; Fly pour franchir ; Flight of the Damned dans un couloir [HEURISTIQUE].
+
+**Tiles** : favorables = tiles à **plusieurs palettes ou une fenêtre** en alternative (Mage Hand n'agit qu'une fois puis 35 s de cooldown). Défavorables = palette unique isolée, open. Après un Mage Hand, la fenêtre devient la ressource sûre.
+
+**Counterplay par couche**
+
+- **Mécanique** : **s'accroupir** face à Flight of the Damned sur terrain plat [FACT]. Mage Hand disponible : jeter la palette **plus tôt, puis partir**. Le pré-drop sert à éviter le blocage de 4 s de la palette debout, pas à tenir la palette : abaissée, il la relève (ou la casse en 4 s avec Vorpal Sword) sans s'arrêter [HEURISTIQUE].
+- **Contre-jeu sur la relève** : 0,55 s après la relève, tu peux rabaisser la palette ; un Lich qui relève trop tôt s'expose à un stun [HEURISTIQUE].
+- **Positionnel** : les 2,75 s après un Fly, il ne peut pas attaquer : prendre de la distance vers un autre tile.
+- **Macro** : suivre les cooldowns (20 / 30 / 30 / 35 s) ; hors sorts, c'est un M1. Killer Instinct soudain + objets grisés = Sphere. Ouvrir un coffre ne déclenche pas de Killer Instinct dans le texte du pouvoir ; le risque réel est le Mimic.
+- **Équipe** : SWF = partager les objets utiles ; SoloQ = ne ramasser que ce qui sert.
+
+**Erreurs classiques** [HEURISTIQUE] : attendre à la palette debout jusqu'au dernier moment avec Mage Hand prêt ; courir debout face aux entités ; rester près d'une palette relevée sans la rabaisser. Contre un Lich qui **garde** Mage Hand en attendant ton pré-drop : varier (départ sans drop, fenêtre).
+
+**Add-ons qui changent la décision**
+
+| Add-on | Effet LIVE | Décision du survivant |
+|---|---|---|
+| **Vorpal Sword** | Mage Hand casse la palette abaissée en 4 s ; blessé dans la Sphere = Broken 30 s | Ne pas revenir boucler sur la palette jetée : enchaîner vers une autre ressource |
+| Iridescent Book of Vile Darkness | Entités 0,7 m plus bas (touchent les accroupis), 2 entités ; Fly à travers une fenêtre la bloque 45 s | Se mettre derrière un obstacle au lieu de s'accroupir |
+| Cloak of Elvenkind | TR −22 m pendant Fly et 6 s après | Regarder en l'air au lieu de se fier au TR |
+| Cloak of Invisibility | 4 sorts en cooldown = Undetectable 20 s | Après une rafale de sorts, attendre une approche sans TR |
+| Staff of Withering | Entrer dans la Sphere = Exhausted 30 s | Après un Killer Instinct de Sphere, ne pas compter sur sa perk d'exhaustion |
+| Ring of Spell Storing / Pearl of Power | −1 s / −2 s sur les recharges | Effet faible : ajuster le suivi, pas la stratégie |
+
+Détail : `kb/research/batch4_killers_g5.md` §36.
+
+## 37. The Dark Lord (Dracula) [Avancé]
+
+*Archétype : mobilité (chauve-souris) + ranged / zone (Hellfire) + anti-loop (loup). LIVE 9.2.0 ; pouvoir classé « special-break » en 9.5.0 (VM).*
+
+**Données LIVE**
+
+| Paramètre | Valeur | Conf. |
+|---|---|---|
+| Vitesse / TR / taille | 4,6 m/s (vampire, loup) ; **6,5 m/s** en chauve-souris ; TR 32 m ; **berceuse 48 m** en chauve-souris (Undetectable) ; grande | SS |
+| Changement de forme | Cooldown **3,5 s** ; transition 1 s, **1,5 s depuis la chauve-souris** (à 2,3 m/s) | SS |
+| Hellfire (vampire) | Charge 0,9 s ; 8 piliers en ligne sur **10 m**, **au-dessus des obstacles bas** ; cooldown **9,5 s** | VP / SS |
+| Loup | Scent Orbs (1 toutes les 6 s par survivant, 10 s) ; orbe ramassée = Haste +4,35 % 2,5 s (4,8 m/s) | SS |
+| Pounce | 2 bonds de 6 m ; **toucher une palette abaissée la détruit** ; cooldown **20 s** | SS |
+| Chauve-souris | Pas d'attaque ; **les survivants lui sont invisibles** (Scratch Marks visibles, pas +50 %) ; téléportation vers une palette abaissée ou une fenêtre entre 2 et 32 m ; cooldown 15 s | SS |
+
+**Identification** : berceuse sans TR = chauve-souris ; Scent Orbs = loup ; trois silhouettes distinctes.
+
+**Ce qu'il cherche** : piliers pour couper une sortie ou tirer par-dessus un obstacle bas ; Pounce sur une palette abaissée ; arrivée en chauve-souris directement sur la palette ou la fenêtre de ton tile [HEURISTIQUE].
+
+**Tiles** : favorables = tiles longs à plusieurs palettes, obstacles **hauts** (l'Hellfire passe au-dessus des bas). Défavorables = couloirs droits, palettes isolées contre le loup. Les palettes abaissées et fenêtres sont ses **points de téléportation**.
+
+**Counterplay par couche**
+
+- **Mécanique** : esquive **latérale** de l'Hellfire (ligne de 10 m, 0,9 s de charge).
+- **Palettes contre le loup** : pré-drop risqué (un Pounce la détruit), mais cette casse **consomme le Pounce** (20 s) → fenêtre pour atteindre la palette suivante. Contre le vampire, palette normale [HEURISTIQUE fondée sur FACT].
+- **Positionnel** : sortant de chauve-souris, il lui faut 1,5 s à 2,3 m/s avant de frapper : c'est la fenêtre pour prendre de la distance. En chauve-souris il ne te voit pas : marcher supprime les Scratch Marks, mais tes pas restent audibles et amplifiés.
+- **Adaptation** : bloqué 3,5 s dans sa forme après chaque transformation → choisir le tile adapté à la forme actuelle ; après un Hellfire (9,5 s) ou un Pounce (20 s), jouer le tile correspondant [SITUATIONNEL].
+- **Macro** : ne pas laisser une traînée d'orbes en ligne droite ; éviter les actions bruyantes en forme loup (Killer Instinct 2 s).
+- **Équipe** : SWF = annoncer la forme ; SoloQ = berceuse et orbes sont les seuls signaux partagés.
+
+**Erreurs classiques** [HEURISTIQUE] : rester dans l'axe d'un vampire qui charge ; tenir une palette abaissée seule contre un loup au Pounce prêt ; se croire loin parce que la berceuse l'est (une téléportation couvre 32 m).
+
+**Add-ons qui changent la décision**
+
+| Add-on | Effet LIVE | Décision du survivant |
+|---|---|---|
+| Iridescent Ring of Vlad | Piliers guidés vers les survivants proches | Casser la LOS derrière un mur haut au lieu d'esquiver sur place |
+| Cube of Zoe | Piliers autour de lui 10 s après chaque gen | Ne pas approcher pendant ces 10 s |
+| Alucard's Shield | Piliers dans la zone de la porte ouverte | Sortir directement, ne pas stationner dans l'encadrement |
+| Pocket Watch | Téléportation rechargée après une casse de palette | S'attendre à une nouvelle arrivée sur la ressource suivante |
+| Lapis Lazuli / Medusa's Hair | Fenêtre bloquée 8 s / Hindered 8 % près de la destination | S'éloigner de la ressource où la chauve-souris arrive |
+| Moonstone Necklace | TR 24 m en vampire et loup | Ne pas juger la distance au TR |
+
+Détail : `kb/research/batch4_killers_g5.md` §37.
+
+## 38. The Houndmaster (Portia Maye) [Intermédiaire]
+
+*Archétype : anti-loop + ranged (chien) + info. Aucun changement d'équilibrage de 9.0.0 à 10.1.2a (correctifs seulement). Cooldown de Chase Command 3 s depuis 8.4.2 (SS).*
+
+**Données LIVE**
+
+| Paramètre | Valeur | Conf. |
+|---|---|---|
+| Vitesse / TR / taille | 4,6 m/s ; 6 m/s sur le chemin d'une Search Command ; 3,68 m/s en visant ; TR 32 m ; moyenne | SS |
+| Chase Command | Chemin tracé, chien à 35 m/s ; **redirigeable une fois** ; ne contourne que les petits obstacles (2 m d'écart max) ; cooldown 3 s (1 s si annulé) | SS |
+| Vaults du chien | **Vaulte fenêtres et palettes tombées** (0,65 s) ; percuter un survivant **en train de vaulter** = blessure | VM |
+| Prise | Incapacitated, Hindered −10 %, traction vers Portia **8 s max (2 s avec Endurance)** ; portes bloquées + 1,5 s | SS |
+| Se libérer | **Faire tomber une palette sur le chien** (stun 3 s ; palettes debout à ≤ 16 m révélées) ou **un allié interagit avec le chien (0,65 s)** ; alliés à ≤ 20 m voient l'aura | SS |
+| Search Command | Balise 5-40 m ; berceuse du chien 32 m ; détection = Killer Instinct + **Houndsense** (45 s) | SS |
+| Houndsense | Survivant sain : la prochaine blessure = **Deep Wound** | SS |
+
+**Identification** : berceuse éloignée du TR ou Killer Instinct sans tueur visible = Search Command ; aboiements, chien lancé en ligne droite.
+
+**Ce qu'il cherche** : une **ligne droite** entre le chien et toi (sortie de tile, couloir, open). Une fenêtre ou une palette tombée **n'arrête pas** le chien : elle lui coûte 0,65 s [HEURISTIQUE fondée sur FACT].
+
+**Tiles** : favorables = tiles à **angles courts** (jungle gym, shack) où un **mur plein** coupe vite la ligne ; palettes **debout** à proximité (pour se libérer). Défavorables = longs murs sans fenêtre, bords de map, maïs ouvert.
+
+**Counterplay par couche**
+
+- **Mécanique** : décalage latéral **tardif** derrière un obstacle plein ; garder un 2e décalage en réserve (redirection). **Ne pas vaulter au moment où le chien arrive** (collision = blessure). Pris : tirer vers une palette debout et la faire tomber sur le chien.
+- **Positionnel** : rester collé aux structures ; traverser l'open seulement avec une vraie avance.
+- **Macro** : berceuse du chien + Killer Instinct sur toi = repéré et sous Houndsense → en général, quitter le gen. Exception : à 5 % restants (4,5 s solo), si Portia n'est ni en vue ni dans le TR, finir coûte moins que revenir. Soigner tôt (la prochaine blessure serait un Deep Wound).
+- **Équipe** : un allié à ≤ 20 m libère en 0,65 s : y aller si Portia est loin, rester en retrait si elle arrive. Ne pas décrocher en open quand elle est à moyenne distance.
+
+**Erreurs classiques** [HEURISTIQUE] : hold W en ligne droite ; quitter une tile vers l'open trop tôt ; **vaulter une fenêtre « pour semer le chien »** ; ignorer le Killer Instinct de la patrouille ; croire que l'Endurance annule la traîne (elle la réduit à 2 s).
+
+**Quand le counterplay habituel échoue** : « courir loin pour étirer la chase » échoue : la distance en open est exactement sa portée idéale → pre-run vers la structure suivante pour offrir le moins de ligne droite possible.
+
+**Add-ons qui changent la décision**
+
+| Add-on | Effet LIVE | Décision du survivant |
+|---|---|---|
+| Leather Harness | Chien +20 % 30 s après chaque gen, **permanent** en endgame | Se décaler plus tôt juste après un gen et en endgame |
+| Marlinspike | Houndsense à tous les survivants à ≤ 20 m du chien lors d'une prise | Le sauveteur décide en sachant qu'il prendra Houndsense |
+| Iridescent Wheel Handle | Portia Undetectable pendant la Search Command | Ne plus lire la berceuse du chien comme « Portia est loin » |
+| Spiked Collar | Blessé pendant la prise = Haemorrhage + Mangled 60 s | Finir la chase avant de soigner |
+
+**Perk à connaître** : No Quarter (auto-soin à 75 % → skill checks en continu, raté = Broken) → ne lancer un auto-soin que si tu peux le finir.
+
+Détail : `kb/research/batch4_killers_g6.md` §38.
+
+## 39. The Ghoul (Ken Kaneki) [Avancé]
+
+*Archétype : mobilité + anti-loop (bonds) puis M1. Nerf 8.6.2 (portée 14 m) ; 9.2.0 : survivant relâché **au début** du vault du Ghoul (VM) ; 9.5.0 : magnétisme réduit (0,05 s) et **plus de coup automatique après un Leap Vault** (VM).*
+
+**Données LIVE**
+
+| Paramètre | Valeur | Conf. |
+|---|---|---|
+| Vitesse / TR / taille | 4,6 m/s ; **40 m** ; moyenne | SS |
+| Kagune Leap | 2 tokens (3 en Enragé) ; cible ≤ **14 m** ; charge 0,35 s ; 5 s pour enchaîner ; franchit fenêtres et palettes tombées (Leap Vault 1,5 s) | SS |
+| Recharge | 4 s par token (2,5 s en Enragé) ; le pouvoir ne revient qu'**une fois tous les tokens rechargés** : ≈ 8 s (≈ 7,5 s en Enragé) | SS |
+| Touche sur survivant | Le **1er bond ne blesse pas** ; le **bond suivant** = Grab-Attack : blessure, **Deep Wound**, Kagune Mark, portes bloquées + 5 s | SS |
+| Kagune Mark | Retirée quand le survivant **termine de mend** (ou passe au sol) ; un marqué ne peut plus être blessé par un Grab-Attack | SS |
+| Enraged Mode | Tant qu'un survivant est marqué, puis **Countdown 40 s** (50 s après un grab parfait) | SS |
+| Palettes | La casser force un cooldown d'1 token (2 en Enragé) ; destruction en bond seulement avec **Iridescent Eye Patch** | VM |
+
+**Identification** : TR large (40 m), arrivée rapide par bonds vers les murs et les toits. **Un bond qui t'atteint sans te blesser annonce le Grab-Attack au bond suivant.**
+
+**Ce qu'il cherche** : une LOS sur toi à ≤ 14 m hors d'un tile pour enchaîner deux bonds dans les 5 s. Contre un survivant marqué, il redevient un M1 avec bonds de mobilité [HEURISTIQUE].
+
+**Tiles** : favorables = tiles hauts et fermés (murs pleins, shacks). Défavorables = open, tiles bas, fenêtres isolées. **Un étage lui profite** (bonds jusqu'à 8 m de dénivelé) : un toit n'est pas un refuge.
+
+**Counterplay par couche**
+
+- **Mécanique** : casser la LOS au moment où il vise. Après un 1er bond non blessant, **couper la ligne immédiatement** (obstacle, angle). Esquive latérale tardive (magnétisme quasi nul depuis 9.5.0).
+- **Palettes** : elles ne gagnent pas une boucle mais **coûtent son pouvoir** (vault = cooldown ≈ 8 s ; casse = 1 ou 2 tokens). Poser tard, pour le stun ou pour vider ses tokens, puis exploiter la recharge.
+- **Macro** : compléter des gens espacés (sa mobilité rend la défense 3-gen mobile). **Mender vite** les marqués : c'est le **mend** qui retire la marque et lance le compte à rebours de fin d'Enragé, pas le soin complet.
+- **Équipe** : décrocher quand il est engagé loin, pas juste après un déplacement au bond.
+
+**Erreurs classiques** [HEURISTIQUE] : traverser l'open « parce que le TR est loin » (40 m, bonds de 14 m en chaîne) ; compter sur une fenêtre isolée ; palette posée tôt ; rester sur la même ligne après un 1er bond.
+
+**Quand le counterplay habituel échoue** : « tenir la boucle de palette » échoue tant qu'il a des tokens → penser en fenêtres de recharge (≈ 8 s / ≈ 7,5 s). Un marqué en bonne position peut étirer la chase plutôt que chercher un mend risqué [SITUATIONNEL].
+
+**Add-ons qui changent la décision**
+
+| Add-on | Effet LIVE | Décision du survivant |
+|---|---|---|
+| Iridescent Eye Patch | 3e bond enchaîné en Enragé sur une palette tombée = palette détruite | En Enragé, enchaîner vers le tile suivant au lieu de boucler |
+| Hinami's Umbrella | +10 s de Countdown par grab parfait (60 s) | Mender plus tôt |
+| Yamori's Mask | Accrocher en Enragé révèle 3 s les survivants à > 40 m | Rester à ≤ 40 m, derrière un obstacle, pendant un crochet |
+| Red-Headed Centipede | En Enragé, fenêtre qu'il vaulte bloquée 10 s | Quitter la boucle au lieu de compter sur le re-vault |
+
+**Perk à connaître** : **None Are Free** (endgame : fenêtres et palettes debout bloquées 12-16 s par token) → en endgame, aller directement aux portes.
+
+Détail : `kb/research/batch4_killers_g6.md` §39.
+

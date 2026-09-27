@@ -428,3 +428,337 @@ QUITTER LA TILE ?
 | Filtre équipe (R6) | Positions des alliés connues seulement par HUD ou auras ([INCERTAIN]) : éviter les gens visiblement occupés | Annoncer la direction (« je l'emmène vers killer shack ») ; les alliés s'écartent |
 
 Détail : `kb/deliverables/DECISION_TREES.md` §2 ; `kb/research/batch6_chase_tech.md` (T18).
+
+---
+
+## 13.10 Arbre 3 — Crochet / sauvetage [Intermédiaire]
+
+**Entrée** : un allié vient d'être accroché.
+
+```
+HOOK — le tueur quitte-t-il la zone (> 16 m ET s'éloigne, avec un signe d'engagement ailleurs) ?
+│
+├─ OUI, il part
+│   ├─ Qui y va ?
+│   │   [SoloQ] quelqu'un va déjà vers le crochet ?
+│   │       ├─ Oui, plus proche que moi ──────────────► [CRO-1] RESTER sur mon gen
+│   │       ├─ Oui, mais plus loin ───────────────────► [CRO-2] Y ALLER si je suis sain
+│   │       └─ Aucun signe après un délai ────────────► [CRO-3] Y ALLER + revérifier en route
+│   │   [SWF] ────────────────────────────────────────► [CRO-4] UN sauveteur désigné (ETA)
+│   ├─ Trajet < temps restant de la phase ?
+│   │   ├─ Oui ───────────────────────────────────────► [CRO-5] DÉCROCHER dès l'arrivée
+│   │   └─ Non ───────────────────────────────────────► [CRO-6] LAISSER / accepter la phase 2
+│   └─ Après le décrochage ───────────────────────────► [CRO-7] PROTOCOLE APRÈS DÉCROCHAGE
+│
+└─ NON, il reste — à quelle distance ?
+    ├─ < ~10 m, immobile (face camp) ─────────────────► [CRO-8] NE PAS ENTRER dans les 16 m
+    │     (portes alimentées : anti-camp coupé → arbre 8)
+    ├─ 10-16 m, en mouvement ─────────────────────────► [CRO-9] TRAITER COMME UN PROXY
+    └─ 16-30 m (proxy) : l'anti-camp ne remplit RIEN
+        ├─ Phase 1, > 30 s restantes ─────────────────► [CRO-10] ATTENDRE qu'il s'engage
+        ├─ Phase 1, ~15-30 s restantes ───────────────► [CRO-11] S'APPROCHER hors LOS
+        ├─ Phase 1, < ~15 s restantes
+        │   ├─ Sauveteur sain, 0-1 crochet, ressource proche ► [CRO-12] DÉCROCHER (trade assumé)
+        │   └─ Sinon ─────────────────────────────────► [CRO-13] LAISSER PASSER en phase 2
+        └─ Phase 2 (Struggle)
+            ├─ > 2 survivants ────────────────────────► [CRO-14] SAUVETAGE PRIORITAIRE
+            └─ 2 survivants ──────────────────────────► arbre 8 (Mori / sacrifice)
+[SWF] option ─────────────────────────────────────────► [CRO-15] DISTRAIRE (un se montre, un décroche)
+Fin de partie où sauver coûte deux sorties (rare) ────► [CRO-16] NE PAS SAUVER
+```
+
+**Modulateurs de la branche proxy** : tueur à coup unique prêt → attendre (CRO-10) ; ranged prêt → trade plus cher ; M1 ou pouvoir en recharge → trade plus jouable ; sauveteur blessé → pas de trade ; ≥ 3 gens restants → le camp est un cadeau, maximiser les gens loin de lui.
+
+| Feuille | Action | Pourquoi | Risque → alternative |
+|---|---|---|---|
+| **CRO-1** | Rester sur son gen | Un doublon retire un 3e réparateur | L'autre fait demi-tour sans que tu le voies → revérifier le HUD |
+| **CRO-2** | Y aller si sain | Sauveteur riche en états | Doublon → laisser si blessé ou à 2 crochets |
+| **CRO-3** | Y aller après un délai de confirmation (15-20 s, valeur de rédacteur [INCERTAIN]) tel que délai + trajet < fin de phase | « Quelqu'un d'autre ira » est l'erreur SoloQ la plus coûteuse [AVIS D'EXPERT, non sourcé] | Si les 3 appliquent le même délai → départ simultané. Revérifier toutes les ~5 s ; à égalité, le sain / 0 crochet continue |
+| **CRO-4** | Un sauveteur annonce son ETA ; les autres continuent | Supprime les doublons | Annonce périmée → l'accroché décrit le tueur (« il part nord ») |
+| **CRO-5** | Décrocher dès l'arrivée | Tueur engagé ailleurs = meilleur moment | Faux départ → approche hors LOS |
+| **CRO-6** | Laisser à un autre ou accepter la phase 2 | Tu n'arriveras pas à temps | État de crochet offert |
+| **CRO-7** | Décroché : casser la LOS pendant l'Elusive, **aucune action voyante**, aller vers des tiles. Sauveteur entre tueur et décroché ; directions différentes ; pas de soin sous le crochet | Les protections sont une fenêtre de fuite | Tunnel ; Endurance gâchée → soin loin (arbre 4) |
+| **CRO-8** | Rester hors des 16 m, réparer, réévaluer si le camp dure | Ta présence **ralentit** la jauge et t'offre en cible ; le tueur cède ~3 s-survivant par seconde (calcul) | Temps de libération non calculable → Deliverance / Reassurance si présentes (Match Details) |
+| **CRO-9** | 10-16 m = proxy | Poids ×1 → ×0,375 → ×0 : il campe sans payer l'anti-camp | Attendre une jauge qui ne bouge pas |
+| **CRO-10** | Attendre qu'il s'engage ; gens **hors** de sa zone | Le proxy lui coûte des gens au loin | La phase avance → CRO-11 |
+| **CRO-11** | Se rapprocher hors LOS ; décrocher dès qu'il s'engage | Position prête pour la fenêtre | Être repéré en approche |
+| **CRO-12** | Décrocher vers ~10 s restantes | Laisser expirer coûte déjà l'état que le trade raté coûterait | Pire cas : 2 états offerts ; très risqué contre coup unique / ranged prêt |
+| **CRO-13** | Laisser passer en phase 2 | Sauveteur sans ressource : risque de 2 états | Sauver en phase 2 quand il s'engage |
+| **CRO-14** | Sauvetage prioritaire | Fin de phase 2 = un réparateur en moins pour toujours | Sauf seul sauveteur à 2 crochets ou blessé face à un pouvoir prêt |
+| **CRO-15** | [SWF] Un se montre, un décroche | Couvre le sauvetage | Deux cibles → CRO-12 |
+| **CRO-16** | Ne pas sauver [SITUATIONNEL, rare] | Sauver coûterait la sortie de deux survivants | Abandonner un allié sauvable |
+
+**Contre-indications** : crochets du sous-sol (insabotables, mais c'est la géométrie qui expose) ; The Judgment (Exile = état de crochet sans perks de crochet, réapparition à ≥ 32 m) ; Pain Resonance / Grim Embrace se déclenchent à l'**accrochage** (un trade raté qui accroche le sauveteur pour la 1re fois coûte en plus). **Contre-jeu du tueur** : simuler le départ (sortir des 16 m puis revenir). Un silence n'est pas un départ, surtout contre un furtif. Les saves (flash, pallet, sabotage, body block) sont hors périmètre (lot 5 non traité).
+
+Détail : `kb/deliverables/DECISION_TREES.md` §3 ; `kb/research/batch9_macro.md` §2.5-2.7.
+
+---
+
+## 13.11 Arbre 4 — Soin [Intermédiaire]
+
+**Entrée** : tu es blessé, ou un allié l'est.
+
+```
+SOIN
+├─ Tueur proche ? ─ OUI ─ soin fini avant son arrivée (− 2 s) ? ─ oui ► [SOI-2] FINIR
+│                                                             └ non ► [SOI-1] ARRÊTER ET PARTIR
+│                 └ NON ──► type de tueur ?
+├─ Coup unique fréquent (Hillbilly, Cannibal, Oni Fury) ────► [SOI-3] GENS par défaut
+├─ Blessure à distance / statut (Legion, Plague, Trickster…) ► [SOI-4] PAS DE SOIN RÉFLEXE
+└─ M1 standard ──► Deep Wound ?
+    ├─ Oui ───────────────────────────────────────────────► [SOI-5] MENDER D'ABORD
+    └─ Non ──► contexte
+        ├─ 2 survivants restants ─────────────────────────► [SOI-6] SOIGNER
+        ├─ 1 gen restant ET Adrenaline dans l'équipe ─────► [SOI-7] LE PORTEUR NE SE SOIGNE PAS
+        ├─ Gen > ~70-80 % et tueur loin ──────────────────► [SOI-8] FINIR LE GEN d'abord
+        ├─ Forte pression et 2 blessés ───────────────────► [SOI-9] UN SEUL SOIN
+        └─ Qui soigne ?
+            ├─ Allié à < ~10 s de trajet ─────────────────► [SOI-10] SOIN ALTRUISTE
+            ├─ Med-Kit ───────────────────────────────────► [SOI-11] AUTO-SOIN
+            └─ Rien ──────────────────────────────────────► [SOI-12] RESTER BLESSÉ ET RÉPARER
+Où ? hors de la zone du tueur, hors LOS, jamais sous le crochet.
+```
+
+| Feuille | Action | Pourquoi | Risque → alternative |
+|---|---|---|---|
+| **SOI-1** | Arrêter et partir | Le soin interrompu est conservé (sauf Haemorrhage) | Contre un furtif, le TR arrive trop tard |
+| **SOI-2** | Finir | Partir à 90 % laisse deux blessés | Mauvaise estimation d'arrivée → SOI-1 |
+| **SOI-3** | Gens par défaut | L'état sain ne protège pas de l'attaque spéciale | Ses M1 restent dangereux [SITUATIONNEL] : soigner le prochain chassé s'il joue M1 |
+| **SOI-4** | Ne soigner que le prochain looper probable | Il reblesse vite et à distance | Plague : purifier crée des fontaines corrompues |
+| **SOI-5** | Mender (10 s seul, 6 s avec un allié) | Sinon au sol à la fin du timer | — |
+| **SOI-6** | Soigner | Le tueur n'a plus d'autre cible : chaque coup encaissé allonge la partie | Trappe ou porte proche : partir |
+| **SOI-7** | Le porteur d'Adrenaline reste blessé | Adrenaline soigne d'un état à l'alimentation (SS) | Terminus suspecté (Broken) → se soigner |
+| **SOI-8** | Finir le gen, soigner après | Un gen fini est acquis | Tueur qui arrive → arbre 5 |
+| **SOI-9** | Un seul soin (meilleur looper, prochain chassé) | Le 2e soin coûte ~0,36 gen de plus | Zéro soin, gens à fond |
+| **SOI-10** | Soin altruiste (≈ 0,36 gen) | Rentable si l'état sert en chase | Trajet non compté → SOI-12 |
+| **SOI-11** | Auto-soin au Med-Kit | Ne mobilise qu'un survivant | Durée à vérifier en jeu [INCERTAIN] |
+| **SOI-12** | Rester blessé et réparer | Évite 32 s-survivant | Un coup = au sol ; sang et grognements |
+
+**Autres points** : Mangled +25 % ; A Nurse's Calling (28/30/32 m) → soigner loin ou derrière un couvert ; **ne jamais planifier un soin à 3** (nombre max de soigneurs non tranché). Sous NOED/Exposed, être sain ne protège pas.
+
+| | [SoloQ] | [SWF] |
+|---|---|---|
+| | Un allié blessé vient vers toi : vérifier le TR avant de lâcher ton gen (il peut amener le tueur) | Annoncer « je reste blessé » pour qu'un allié ne quitte pas son gen pour rien |
+
+Détail : `kb/deliverables/DECISION_TREES.md` §4 ; `kb/research/batch9_macro.md` §2.10.
+
+---
+
+## 13.12 Arbre 5 — Gen : continuer, lâcher, tenir le 99 [Intermédiaire]
+
+**Entrée** : tu répares.
+
+```
+GEN
+├─ Signal de menace (TR, chase qui approche, alerte de perk) ?
+│   ├─ NON ───────────────────────────────────────────────► [GEN-1] CONTINUER
+│   └─ OUI ── fini avant son arrivée (− 2 s) ?
+│       ├─ OUI ───────────────────────────────────────────► [GEN-2] FINIR
+│       └─ NON ── suis-je encore non vu ?
+│           ├─ OUI ───────────────────────────────────────► [GEN-3] LÂCHER, marcher hors LOS
+│           └─ NON ───────────────────────────────────────► [GEN-4] PRE-RUN vers une tile
+│   Tueur furtif : le TR ne protège pas ────────────────► [GEN-5] CAMÉRA + indices visuels
+├─ Cas particuliers
+│   ├─ Gen frappé, lâché ─────────────────────────────────► [GEN-6] REVENIR VITE (5 %)
+│   ├─ Deux sur le gen ───────────────────────────────────► [GEN-7] LE PLUS FAIBLE EN CHASE PART
+│   └─ Dernier gen ──► sous-arbre 99
+└─ Quel gen ensuite ? (anti-3-gen)
+    ├─ 3-4 gens restants, triangle serré ─────────────────► [GEN-9] FINIR DANS le groupe serré
+    └─ 3-gen formé ── tueur en chase loin ────────────────► [GEN-10] DUO sur le plus avancé
+                   └─ tueur qui patrouille ───────────────► [GEN-11] SPLIT sur deux gens du triangle
+
+99 (dernier gen presque fini) :
+├─ Allié accroché / va l'être, tueur près du crochet ─────► [GEN-12] TENIR LE 99
+├─ Blessés + Adrenaline, ou NOED / No Way Out suspectés ──► [GEN-13] ALIMENTER AU BON MOMENT
+└─ Tueur en approche · Ruin actif · tout le monde sain ───► [GEN-14] FINIR TOUT DE SUITE
+```
+
+| Feuille | Action | Pourquoi | Risque → alternative |
+|---|---|---|---|
+| **GEN-1** | Continuer ; Great sans risquer le raté | Un raté ≈ 12 s solo | — |
+| **GEN-2** | Finir | Un gen fini ne peut plus être frappé (80 % → ~18 s solo, ~10,6 s à 2) | Estimation d'arrivée fausse → GEN-3 |
+| **GEN-3** | Lâcher avant d'être vu, marcher à l'opposé du TR, revenir après | Garde la furtivité | Lâcher pour rien (E-I14) |
+| **GEN-4** | Pre-run vers ta tile de repli, loin des autres | Chaque mètre d'avance avant la chase vaut ~1,7-2,5 s de chase (calcul) | Pre-run au moindre TR, vers une tile vidée ou vers les alliés |
+| **GEN-5** | Rotations caméra, corbeaux, sons | Le TR ment | Réparer adossé à une tile forte |
+| **GEN-6** | Revenir réparer 5 % (4,5 s solo) | Gen laissé 60 s ≈ −19,5 charges | Tueur qui attend ton retour |
+| **GEN-7** | Le plus faible en chase part, l'autre finit | Évite deux cibles | — |
+| **GEN-8** | Gen à pointes : pas « sûr » avant le 8e event | Les pointes apparaissent dès le 4e event ; le plafond est à 8 | Les skill checks ratés régressent toujours |
+| **GEN-9** | Finir un gen **du** groupe serré, garder les gens éloignés pour la fin | Un 3-gen se décide à 3-4 gens restants | Contre un tueur très mobile, la distance protège moins |
+| **GEN-10** | Duo sur le plus avancé | Finir avant son retour | Groupement trouvé → GEN-11 |
+| **GEN-11** | Deux gens du triangle à la fois, un 3e tient la chase | Il ne défend qu'un gen à la fois | « Épuiser ses 8 events » n'est pas un plan |
+| **GEN-12** | Tenir à 99 %, relâcher vers 97-98 % | L'alimentation coupe anti-camp, Elusive et Will to Live | Great accidentel ; kick → alimenter si le tueur approche |
+| **GEN-13** | Alimenter au moment choisi, équipe en position | Adrenaline, perks d'endgame du tueur | Mauvais timing (au milieu d'un soin) |
+| **GEN-14** | Finir tout de suite | Kick, Ruin ou Heresy font fondre le 99 | — |
+
+**Contre-jeu du tueur** : un survivant immobile à côté d'un gen est un indice ; un tueur qui soupçonne un 99 le patrouille. Le 99 est un outil de **quelques dizaines de secondes** autour d'un événement, pas une posture.
+
+| | [SoloQ] | [SWF] |
+|---|---|---|
+| Gen lâché | Ne pas supposer qu'un autre reviendra | « Gen X à 60, lâché » |
+| 99 | Ne pas tenir un 99 seul trop longtemps | Décision explicite ; annoncer tout gen > 80 % |
+| 3-gen | Réparer soi-même un gen du groupe serré | Le shot-caller nomme les gens prioritaires |
+
+Détail : `kb/deliverables/DECISION_TREES.md` §5 ; `kb/research/batch9_macro.md` §2.1-2.2, §2.11.
+
+---
+
+## 13.13 Arbre 6 — Totem [Intermédiaire]
+
+```
+TOTEM
+├─ Allumé (Hex) ── change-t-il les décisions de l'équipe maintenant ?
+│   ├─ OUI (Ruin, Hex d'endgame, Hex de chase) ── tueur loin ? ► [TOT-1] PURIFIER (14 s) / BÉNIR (28 s)
+│   └─ NON / effet faible ─────────────────────────────────► [TOT-2] PURIFIER EN PASSANT si sûr
+└─ Terne ── phase ?
+    ├─ Début / milieu ─────────────────────────────────────► [TOT-3] NE PAS PURIFIER
+    ├─ Fin (1-2 gens) + NOED suspecté ─────────────────────► [TOT-4] PURIFIER CEUX QU'ON CROISE
+    └─ Près d'un gen / d'une porte ────────────────────────► [TOT-5] PURIFIER EN PASSANT
+```
+
+| Feuille | Action | Pourquoi | Risque → alternative |
+|---|---|---|---|
+| **TOT-1** | Purifier, ou Boon si l'équipe en profite | L'Hex coûte plus que 14 s + trajet | Hex gardé = revenir quand le tueur est engagé |
+| **TOT-2** | Purifier sans traverser la carte | Gain faible | L'ignorer |
+| **TOT-3** | Laisser (sauf totem voulu pour un Boon) | 5 × 14 s = 70 s ≈ 0,8 gen (calcul) | NOED plus tard → TOT-4 |
+| **TOT-4** | Purifier sans détour | NOED (valeurs [INCERTAIN]) | Temps pris sur les portes : un cherche, les autres ouvrent |
+| **TOT-5** | Purifier en passant | Coût marginal faible | — |
+
+`[SoloQ]` Ne pas compter sur les autres pour les ternes ; en fin de partie, en purifier 1-2 sur sa route. `[SWF]` Un « chasseur de totems » seulement si un Hex s'est montré ou si l'équipe est en avance.
+
+---
+
+## 13.14 Arbre 7 — Slug [Avancé]
+
+**Entrée** : un allié (ou toi) est au sol.
+
+```
+SLUG
+├─ Un allié au sol — où est le tueur ?
+│   ├─ À côté / en vue ───────────────────────────────────► [SLG-1] NE PAS Y ALLER
+│   │     il attend indéfiniment (bleed-out 240 s) ───────► [SLG-2] UN SAIN LE TIRE EN CHASE, UN AUTRE RELÈVE
+│   ├─ En chase avec quelqu'un d'autre ───────────────────► [SLG-3] Y ALLER SEUL si je suis le plus proche
+│   └─ Inconnu ── je vois l'allié ? non ──────────────────► [SLG-4] NE PAS PARTIR À L'AVEUGLE
+│                                    oui ─────────────────► [SLG-5] APPROCHE PRUDENTE
+├─ Plusieurs au sol ── je suis le dernier debout ─────────► [SLG-6] ÉVITER LA CHASE
+│                   └─ deux debout ───────────────────────► [SLG-7] UN RELÈVE, L'AUTRE RESTE LOIN
+└─ Je suis au sol
+    ├─ Un allié arrive / couvert proche ──────────────────► [SLG-8] RAMPER VERS LUI
+    ├─ Tueur loin, personne ne vient encore ──────────────► [SLG-9] RESTER IMMOBILE (récupération)
+    ├─ Perk de relève (Unbreakable…) ─────────────────────► [SLG-10] LA GARDER pour quand il s'éloigne
+    └─ Abandon / Surrender ───────────────────────────────► [SLG-11] OPTIONS DE FIN, pas des stratégies
+```
+
+| Feuille | Action | Pourquoi | Risque → alternative |
+|---|---|---|---|
+| **SLG-1** | Rester hors de vue | Il cherche la 2e cible | Le bleed-out court → SLG-2 |
+| **SLG-2** | Un sain se montre et part vers une tile forte ; un autre relève | Sinon l'allié saigne et les gens stagnent | [SoloQ] seulement si tu es clairement le mieux placé |
+| **SLG-3** | Y aller seul | Le tueur est engagé ailleurs | — |
+| **SLG-4** | Chercher un indice (portrait, dernier bruit) | Knock Out réduit les auras des mourants (SS) | Temps perdu |
+| **SLG-5** | Approcher prudemment, relever si TR absent | — | Piège de slug → SLG-1 |
+| **SLG-6** | Ne pas se faire prendre ; relever s'il s'éloigne. Trouvé : chase la plus longue possible près d'une tile forte | Si tu tombes, tous au sol ; chaque seconde laisse récupérer les autres | Trappe seulement s'il ne reste que toi en vie |
+| **SLG-7** | Un relève, l'autre reste loin ou fait diversion | Évite le double au sol | — |
+| **SLG-8** | Ramper vers l'allié ou un couvert (pas vers un gen occupé ni un cul-de-sac) | Raccourcit son trajet | Ramper suspend probablement la récupération « à l'arrêt » (à tester) |
+| **SLG-9** | Rester immobile | 95 % en 30,4 s : relevage restant plus court | Personne ne vient → SLG-8 |
+| **SLG-10** | Garder la perk | Unbreakable : une fois par épreuve (9.5.0) | La gaspiller sous ses yeux |
+| **SLG-11** | Abandon (9.2.0) / Surrender (8.6.0) en dernier recours | Abandonner prive l'équipe d'un réparateur et d'un leurre | [SWF] annoncer avant ; refonte au PTB 10.2.0 |
+
+Ne pas alterner ramper et récupérer au hasard. `[SoloQ]` Supposer qu'un allié viendra probablement, ramper vers lui. `[SWF]` « Tueur à côté, ne venez pas » / « il est parti, relève-moi ».
+
+---
+
+## 13.15 Arbre 8 — Endgame (portes, EGC, fin à 2 survivants) [Avancé]
+
+```
+ENDGAME
+├─ 1 gen restant ─────────────────────────────────────────► arbre 5 (99 ou alimenter)
+└─ Portes alimentées
+    ├─ Allié accroché ? (anti-camp COUPÉ ; décrochage = Endurance + Haste, PAS d'Elusive)
+    │   ├─ Pas de plan ───────────────────────────────────► [END-1] OUVRIR UNE PORTE D'ABORD
+    │   ├─ Plan (protection hit, distraction) ────────────► [END-2] SAUVETAGE PLANIFIÉ
+    │   └─ 2 survivants, accroché en Struggle ────────────► [END-3] NE PAS TOMBER (Mori)
+    ├─ Tueur posté à une porte ───────────────────────────► [END-4] OUVRIR L'AUTRE
+    ├─ Tueur arrive pendant que j'ouvre ─ fini avant ? oui ► [END-5] FINIR
+    │                                                  non ► [END-6] LÂCHER (progression gardée)
+    ├─ No Way Out suspecté ───────────────────────────────► [END-7] TOUCHER QUAND IL EST LOIN
+    ├─ Blood Warden suspecté ─────────────────────────────► [END-8] NE PAS SE FAIRE ACCROCHER
+    ├─ NOED (Exposed) ────────────────────────────────────► [END-9] AUCUN COUP GRATUIT
+    └─ Porte ouverte ─────────────────────────────────────► [END-10] SORTIR (sauf save précis)
+```
+
+| Feuille | Action | Pourquoi | Risque → alternative |
+|---|---|---|---|
+| **END-1** | Ouvrir une porte avant de décrocher | Sortie sûre ensuite ; l'EGC est ralenti tant qu'un survivant est accroché : le vrai compteur est la **phase** de l'allié | Blood Warden une fois une porte ouverte → laisser la porte à ~90 % |
+| **END-2** | Sauver avec un plan ; sinon sortir vers ~10 s de la fin de sa phase | Ni Elusive ni anti-camp | Deux morts si le tueur reprend le décroché. [SoloQ] la décision doit rester bonne si les autres ne font rien |
+| **END-3** | Ne pas être mis au sol, où que tu sois | Mori possible (VP 9.0.0) ; tous accrochés = sacrifice | Sauver seulement s'il est engagé ailleurs ; jouer la trappe n'est pas « égoïste » [AVIS D'EXPERT, non sourcé] |
+| **END-4** | Ouvrir la porte qu'il ne regarde pas | Il ne garde qu'une porte | — |
+| **END-5** | Finir (2 s restantes à 90 %, calcul) | Temps restant < son arrivée | Finir sous ses yeux lance aussi l'EGC |
+| **END-6** | Lâcher, revenir quand il repart | Progression conservée | Autre porte |
+| **END-7** | Toucher l'interrupteur quand il est loin, attendre à distance | NWO : bruit + blocage 12 s + 6/9/12 s par jeton (SS) | — |
+| **END-8** | Ne pas être accroché ; ne pas traîner dans la sortie | Blood Warden : portes bloquées 40/50/60 s (SS) | — |
+| **END-9** | Aucun coup gratuit ; un cherche le totem, les autres ouvrent | Exposed : un coup = au sol | Arbre 6 (TOT-4) |
+| **END-10** | Sortir | Contre The Judgment, 45 s dans le seuil = Heresy | Attendre seulement pour un save prévu |
+
+| | [SoloQ] | [SWF] |
+|---|---|---|
+| Portes | Les autres ouvrent la porte la plus proche d'eux : prendre l'autre ; défaut = la porte la plus éloignée de la dernière position connue du tueur | « A ouvre nord, B sud, C sauve » |
+| Sauvetage | Ne pas compter sur un protection hit d'un allié | Protocole : 99 ou alimentation, qui ouvre, qui sauve |
+
+---
+
+## 13.16 Arbre 9 — Trappe (dernier survivant) [Avancé]
+
+```
+TRAPPE — je suis le dernier survivant
+├─ Avant d'être seul ─────────────────────────────────────► [TRP-0] SAVOIR où sont portes et progression
+├─ Trappe ouverte, aura visible (de moi seul)
+│   ├─ Tueur loin / inconnu ──────────────────────────────► [TRP-1] Y ALLER EN MARCHANT
+│   └─ Tueur près de la trappe ───────────────────────────► [TRP-2] NE PAS SE MONTRER
+├─ Gens presque finis ET position du tueur connue ────────► [TRP-3] PORTES (option secondaire)
+└─ Trappe fermée par le tueur → EGC 120 s ────────────────► [TRP-4] PORTE LA PLUS ÉLOIGNÉE DE LUI
+```
+
+| Feuille | Action | Pourquoi | Risque → alternative |
+|---|---|---|---|
+| **TRP-0** | Mémoriser portes, progression et trappe probable | Scénario pré-appris (E-T07) | Emplacements fixes ou aléatoires : non documentés ici |
+| **TRP-1** | Marcher vers l'aura | Courir = griffures + bruit | Blessé : sang, grognements |
+| **TRP-2** | Rester caché, préparer la route vers la porte **opposée** | Il ne voit pas l'aura ; s'il ferme, tu pars déjà caché | Corbeaux AFK à 80 s ; **ne jamais sprinter vers la trappe devant lui** |
+| **TRP-3** | Portes seulement si les gens sont presque finis et que tu sais où il est | Un gen seul = 90 s | Tueur mobile → TRP-1 |
+| **TRP-4** | Partir tout de suite vers la porte la plus éloignée ; ouvrir par étapes si besoin | Il ne garde qu'une porte à la fois ; 20 s d'ouverture | Tueur mobile qui choisit la bonne porte |
+
+À 2 survivants avec un allié en Struggle, la trappe ne s'ouvre qu'à sa mort : voir END-3.
+
+Détail (arbres 6 à 9) : `kb/deliverables/DECISION_TREES.md` §6-9 ; `kb/research/batch9_macro.md` §6-7.
+
+---
+
+## 13.17 Limites et corrections du seed
+
+**Ce que ce chapitre ne sait pas** :
+- **Distances non quantifiables** : portée de fente, durée d'abaissement de la palette, effet d'un stun sur la Bloodlust et taux de base de l'anti-camp sont inconnus. Tous les seuils de distance des arbres 1 à 3 sont des ordres de grandeur.
+- **Branches `[SoloQ]` fondées sur un HUD non vérifié** (icônes d'action, compteur de crochets, indicateur de chase). À revoir après 10.2.0 (Survivor Intent System).
+- **Lacunes de la base d'erreurs** : aucune erreur sur les objets (lampe, toolbox, med-kit), les casiers en chase ou les saves (flash, pallet save, sabotage, body block d'équipe) ; SWF sous-représenté (1 entrée).
+- **Aucun arbre n'a été testé sur des parties réelles.** Les délais de rédacteur (15-20 s de confirmation SoloQ, 70-80 % de gen, ~10 s de marge de sauvetage) n'ont pas de source.
+
+**Conseils du seed corrigés** :
+
+| Le seed dit | Correction | Verdict |
+|---|---|---|
+| « 1 s de chase ≈ 1/3 de gen » | ≈ 1/30 de gen avec 3 réparateurs séparés (A-267) | FAUX |
+| « L'anti-facecamp décrochera l'allié » | Rien au-delà de 16 m (A-283) | FAUX |
+| « Le vault annule l'élan » | Faux pour le fast vault (A-059) | FAUX |
+| « Une god pallet se garde » | Valeur maintenant contre valeur future (E-T09) | Trop absolu |
+| « Ne jamais partir vers une dead zone » | Traversée courte sur événement parfois correcte (E-D03) | Trop absolu |
+| « Le plus proche décroche » | Celui dont l'absence coûte le moins et qui arrive à temps (E-I03) | Trop absolu |
+| « Purifiez un Hex dès qu'il s'allume » | Effet × temps × risque (E-I09) | Trop absolu |
+| « Contre les anti-loop, tenir W » | Faux contre les tueurs mobiles (E-T03) | Imprécis |
+
+---
+
+## Sources du chapitre
+
+- `kb/research/batch11_training.md` §0-1, §2.3, §7 (base d'erreurs, auditée P14) ; audit `kb/audit/pass14_lot11_training.md`.
+- `kb/deliverables/DECISION_TREES.md` (9 arbres, consolidés depuis batch6, batch9, batch11 audités).
+- `kb/research/batch7_tiles.md` §5.2 (liste corrigée des pouvoirs qui annulent une palette).
+- `kb/research/batch9_macro.md` (crochet, soin, gens, slug, endgame) ; `kb/research/batch6_chase_tech.md` (palette, quitter la tile).
+- `kb/ledgers/AUDIT_PHASE0_ERRATA.md` (Knight, Lich, Mastermind, Good Guy, Huntress 7 hachettes).
+- `kb/seed/audit_phase0.txt` (constantes vérifiées) ; notes officielles 7.5.0, 8.2.0, 9.0.0, 9.1.0, 9.3.0, 9.6.0, 10.1.0, 10.1.1 (`kb/sources/patches/`) ; pages wiki Pallets, Bloodlust, Hooks.

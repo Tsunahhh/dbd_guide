@@ -486,3 +486,255 @@ Détail : `kb/research/batch4_killers_g1.md` §6.
 
 Détail : `kb/research/batch4_killers_g1.md` §7.
 
+## Fiches : tueurs 8 à 15
+
+### 8. The Huntress (Anna) — ranged · M1 [Intermédiaire]
+
+**Données LIVE** : 4,4 m/s (3,08 m/s en armant) ; **TR 20 m**, **berceuse 45 m** ; grande. **7 hachettes de base** (5 → 7 en 7.6.0 ; l'audit qui classait « 7 » comme erreur est corrigé par l'errata). **Aucun add-on n'augmente la capacité** : Iridescent Head la **réduit à 1**. Armement minimal 0,9 s (lancer à 25 m/s) ; charge complète 1 s de plus (40 m/s). Cooldown entre deux lancers 2 s. Recharge au casier **3 s**. Hitbox de collision avec le décor 0,1 m, détection du survivant 0,4 m. Aucun changement d'équilibrage 9.0.0 → 10.1.2a (VP).
+
+**Identification** : fredonnement à la place du battement de cœur (portée 45 m), puis TR très court : elle arrive « de nulle part ». Confirmer à la silhouette ou au premier lancer. Bruit de casier à la recharge.
+
+**Ce qu'elle cherche** : open, boucles basses, vaults à point d'atterrissage connu, fin de boucle en ligne droite, soins et décrochages à découvert.
+
+**Tiles** : favorables : murs hauts (jungle gym, shack, main building, intérieurs). Défavorables : open, fillers bas, maïs (cache la vue ; ne bloquerait pas les hachettes (INC)). Une fenêtre donne un point d'arrivée prévisible : ne la vaulte pas face à une hachette armée **qui voit ta réception**, sauf si c'est la seule sortie.
+
+**Counterplay** :
+- *Mécanique* : change de direction **au lâcher**, pas pendant tout l'armement. À distance moyenne, un lancer rapide (25 m/s) laisse plus de temps d'esquive qu'un lancer chargé (40 m/s) [DATA]. Plutôt que d'esquiver en plein champ, **casse la LOS**. Limite : une Huntress expérimentée tient la charge et attend ton virage ; varie le moment (feinte, ligne droite courte vers un mur).
+- *Distance* : à bout portant elle joue souvent au M1 ; la zone la plus dangereuse est la **distance moyenne en open**.
+- *Macro* : **compte ses lancers à partir de 7** (fiable en 1v4). À 0, elle doit aller au casier (3 s) : fenêtre pour gagner une tile ou relancer un gen. Soins et décrochages derrière une LOS.
+- *Équipe* : espacer les gens pour la forcer à marcher à 4,4 m/s.
+
+**Erreurs classiques** : soigner en plein champ ; courir en ligne droite ; rester dans le maïs en croyant être protégé ; trop jouer un filler bas.
+
+**Quand le counterplay échoue** : carte ouverte où les murs hauts sont rares → planifier la route entre tiles avant la chase.
+
+**Add-ons qui changent la décision** (SS) :
+- **Iridescent Head** (hachette = mise à terre, **1 seule** hachette) → LOS en permanence, aucun décrochage à découvert ; chaque lancer l'envoie au casier : fenêtre sûre pour bouger.
+- **Soldier's Puttee** (4,6 m/s quand elle est à 0 hachette) → ne compte pas sur la fenêtre du casier.
+- **Rose Root / Yellowed Cloth** (projectile +20/+10 %) → casse la LOS plus tôt **au lieu de** miser sur l'esquive tardive.
+- **Wooden Fox** (Undetectable 30 s après une recharge) → après un bruit de casier, surveille visuellement.
+- **Venomous Concoction** (Exhausted 5 s au toucher) / **Weighted Head** (Incapacitated 10 s) → après une hachette, vise une tile **au lieu de** compter sur ta perk d'Exhaustion ou sur une action.
+
+Détail : `kb/research/batch4_killers_g2.md` §8.
+
+### 9. The Cannibal (Bubba Sawyer) — M1 · anti-loop (insta-down court) [Débutant]
+
+**Données LIVE** : 4,6 m/s ; TR 32 m ; grand ; tronçonneuse audible à 60 m. **3 jetons**, rechargés en 4 s chacun quand la tronçonneuse n'est pas utilisée. Charge **2 s** (il ralentit jusqu'à **3,45 m/s**). **Chainsaw Sweep** 2,5 s jusqu'à **5,45 m/s** (buff 9.6.0, VM), **double dégâts**, **peut toucher plusieurs survivants** ; réappuyer = Dash qui consomme un jeton. **Casse de palette à la tronçonneuse : 1 s de cooldown**. **Tantrum** : en heurtant un obstacle pendant le sweep ou après **3 s** de rev sans lancer ; 3 à 6 s à 0,46 m/s, coups au hasard autour de lui. Un survivant sous Endurance est immunisé contre un 2e coup dans les 0,5 s (7.3.0).
+
+**Identification** : tronçonneuse (60 m) ; balayages courts, Tantrums visibles (le Hillbilly, lui, sprinte en ligne droite).
+
+**Ce qu'il cherche** : short loops et fillers, survivant qui garde une palette « pour le stun » pendant qu'il arme, groupes, body-blocks de crochet.
+
+**Tiles** : favorables : **fenêtres** (son pouvoir ne lui donne aucun vault), longues boucles, LOS longues. Défavorables : tiles courtes où il balaie autour d'une palette debout, open.
+
+**Counterplay** :
+- *Palette* (cas « le pouvoir punit l'attente ») : quand il **arme** près d'une short loop, pré-lâche **puis pars** : la palette sert à éviter le balayage, pas à tenir la tile, puisqu'il la casse avec 1 s de cooldown. Contre un **tap-rev** (fausse charge) ou un Bubba qui arrive en M1 sans armer, la palette redevient une palette normale (stun possible).
+- *Mécanique* : pendant sa charge, il marche à 3,45 m/s : gagne la distance vers la tile suivante. Un rev tenu plus de 3 s déclenche une Tantrum : il a au plus 3 s d'attente. Pendant une Tantrum (3 à 6 s), casse la LOS **hors de portée de ses coups**.
+- *Macro* : pas de réparation à 2-3 sur le même gen quand il approche (multi-touche).
+- *Équipe* : pas de body-block de face au crochet. L'Endurance de décrochage **absorbe un coup de tronçonneuse** (puis Deep Wound : le coup suivant met à terre).
+
+**Erreurs classiques** : garder la palette pendant qu'il arme ; se grouper ; vaulter une palette vers une ligne droite ouverte.
+
+**Quand le counterplay échoue** : avec **Bamboozle**, les fenêtres perdent leur valeur : reviens aux palettes jetées tôt et aux LOS.
+
+**Add-ons qui changent la décision** (SS) :
+- **Iridescent Flesh** (tous les jetons rechargés après un coup) → le 2e survivant proche part immédiatement **au lieu d'**attendre la recharge.
+- **Long Guide Bar / The Grease** (+2/+3 s avant la Tantrum) → ne « attends » pas la Tantrum : pars.
+- **Carburettor Tuning Guide** (un seul long sweep) → casse la LOS derrière un obstacle haut **au lieu de** compter sur la fin du sweep.
+- **Speed Limiter** (tronçonneuse = 1 état de santé) → sain, tu peux encaisser un sweep **au lieu de** tout sacrifier pour l'éviter.
+- **Light Chassis** (auras à 8 m pendant qu'il revve) → se cacher près de lui pendant la charge ne marche pas.
+
+Détail : `kb/research/batch4_killers_g2.md` §9.
+
+### 10. The Nightmare (Freddy Krueger) — zone/piège · téléportation · info [Intermédiaire]
+
+**Données LIVE** (rework 8.5.0 ; aucun changement d'équilibrage depuis) : 4,6 m/s ; TR 32 m pour les éveillés, **berceuse 32 m** non directionnelle pour les endormis ; taille moyenne.
+- **Éveillé** : tu entends son TR mais il est **invisible au-delà de 32 m**, visible par intermittence entre 16 et 32 m. **Microsleep** : endormissement passif en **60 s** en sa présence.
+- **Endormi** : Oblivious ; **un soin donné ou reçu te révèle** (Killer Instinct). Un coup M1 endort immédiatement.
+- **Réveil** : rater un skill check ; allié éveillé (**5 s**) ; **Alarm Clock** (2 s, CD 45 s, **immunité 30 s**) ; passer au sol.
+- **Dream Snares** : projectile au sol 12 m/s, portée 18 m, **traverse les murs** ; CD 7 s. Endormi touché : **−12 % Hindered 4,5 s et pas de fast vault**.
+- **Dream Pallets** : jusqu'à 8 ; **scintillement visible à moins de 6 m** ; « Rupture » après 1,5 s dans un rayon de **3,5 m** : un endormi dans la zone **perd un état de santé**. Une Dream Pallet qui ne rompt pas **peut** l'étourdir (elle se détruit).
+- **Dream Projection** : TP vers n'importe quel gen ou près d'un **endormi qui se soigne** ; charge 2,5 s avec aura de « husk » à l'arrivée ; CD **30 s**, réduit de **15 % par survivant endormi** (max −60 %).
+
+**Identification** : Alarm Clocks sur la carte ; TR entendu sans tueur visible au-delà de 32 m ; silhouette intermittente ; vision du Dream World.
+
+**Ce qu'il cherche** : snares dans les couloirs et avant les fenêtres ; fausse palette à côté d'une vraie ; Rupture sur un endormi qui tourne autour d'une Dream Pallet ; TP sur un soin endormi.
+
+**Tiles** : palettes connues avant la chase = fiables ; une palette qui **scintille à moins de 6 m** est fausse. Un mur protège de la visée d'un snare, pas du snare lui-même.
+
+**Counterplay** :
+- *Mécanique* : contourner les snares ; endormi, t'éloigner à plus de 3,5 m d'une Dream Pallet qu'il vise ; éveillé, une Rupture ne blesse pas (+60 s de Microsleep).
+- *Macro* : **rester éveillé est rentable** : chaque endormi raccourcit sa TP de 15 %, et un soin endormi lui donne une cible. **Se réveiller avant de soigner**. Sur un gen, surveiller l'aura de husk (2,5 s) et s'écarter de plus de 8 m.
+- *Équipe* : se réveiller mutuellement (5 s) en SWF ; en SoloQ, les Alarm Clocks (2 s) ou un skill check raté volontaire plutôt qu'attendre un allié.
+
+**Erreurs classiques** : se soigner endormi ; laisser toute l'équipe endormie en fin de partie ; ouvrir une porte endormi.
+
+**Quand le counterplay échoue** : build de fin de partie (Remember Me, Blood Warden) ou Class Photo / Black Box : l'ouverture des portes devient une décision d'équipe, **éveillé**.
+
+**Add-ons qui changent la décision** (SS) :
+- **Black Box** (portes bloquées 15 s pour les endormis) → réveille-toi **avant** l'endgame.
+- **Class Photo** (TP sur les interrupteurs des portes) → n'ouvre pas une porte seul et à découvert ; ouvre quand il est engagé ailleurs.
+- **Red Paint Brush** (auras des endormis au-delà de 32 m ; Microsleep 90 s) → endormi, la cachette à distance est inutile : réveille-toi.
+- **Paint Thinner** (lâcher une Dream Pallet te révèle) → ne tente pas de stun avec ses Dream Pallets.
+- **Swing Chains** (fenêtres à 16 m bloquées 6 s après une TP) → après une TP près de toi, ne planifie pas la fuite par une fenêtre.
+
+Perk à connaître : **Fire Up** LIVE +4/5/6 % par gen terminé (6/7/8 % = PTB 10.2.0 — non LIVE) (VP).
+
+Détail : `kb/research/batch4_killers_g2.md` §10.
+
+### 11. The Pig (Amanda Young) — furtif · piège · M1 [Intermédiaire]
+
+**Données LIVE** : 4,6 m/s ; **TR 24 m** (32 → 24 m en 9.1.0, SS : absent de la note officielle) ; taille moyenne. **Accroupie** : Undetectable, **4,0 m/s** (VM) ; le TR met 3 s à disparaître et 1,4 s à revenir. **Ambush Dash** : charge **0,75 s** accroupie, ruée **2,3 s à 7,1 m/s** (VM) ; CD 2,7 s après un coup, **1,5 s après un raté**. **4 Reverse Bear Traps** posés sur un survivant au sol (3,3 s). Piège inactif → s'active **à la complétion d'un gen**. Piège actif : **150 s**, **en pause** au sol, au crochet ou **quand la Pig te chasse**. **5 Jigsaw Boxes** : il faut en fouiller **de 1 à 4** (12 s chacune) ; **12 fouilles au total** par partie ; les boîtes non fouillées sont visibles pour les piégés. **Sortir avec un piège actif tue** ; **la trappe reste possible** même piégé. Signal sonore de ruée : non décrit par la page (INC).
+
+**Identification** : TR court qui disparaît et revient ; piège sur la tête d'un coéquipier ; ruée.
+
+**Ce qu'elle cherche** : ruée à courte portée sur une tile courte ; accroupissement près d'une fenêtre ou d'un coin.
+
+**Tiles** : la ruée dure 2,3 s en ligne droite : murs et coins la cassent ; tiles moyennes et longues la rendent peu rentable.
+
+**Counterplay** :
+- *Mécanique* : pendant la charge (0,75 s), contourner un coin ou vaulter ; après une ruée ratée (1,5 s), gagner la distance **tout de suite**.
+- *Piégé* : aller directement vers les boîtes visibles ; en chase, **le minuteur est en pause** : ne pas paniquer. En SWF, annoncer les boîtes vides.
+- *Macro* : piège inactif → continuer à réparer, mais **décider du moment où l'on termine un gen** quand plusieurs survivants sont piégés (1 piégé près des boîtes ≠ 3 piégés).
+- *Stealth* : vérifier les angles morts près des gens, surtout après une disparition de TR.
+
+**Erreurs classiques** : quitter une chase pour chercher les boîtes ; plusieurs piégés qui terminent un gen ensemble ; franchir la sortie piège actif.
+
+**Quand le counterplay échoue** : add-ons de minuterie ou de fouille qui réduisent la marge (ci-dessous).
+
+**Add-ons qui changent la décision** (SS) :
+- **Video Tape** (tous commencent piégés) → la 1re complétion de gen active 4 pièges : coordonne le premier gen.
+- **Tampered Timer** (130 s) / **Jigsaw's Annotated Plan** (−10 s sur les pièges actifs à chaque gen) → traite le piège comme une urgence.
+- **Crate of Gears / Bag of Gears** (fouille −25/−14 %) → commence à chercher plus tôt.
+- **Rules Set No.2** (auras des boîtes cachées tant que le piège est inactif) → repère les boîtes à vue avant qu'un gen ne se termine.
+- **Amanda's Letter** (auras à 16 m accroupie) → se cacher près d'elle ne marche pas.
+
+Détail : `kb/research/batch4_killers_g2.md` §11.
+
+### 12. The Clown (Kenneth Chase) — anti-loop (Hindered) · mobilité (Haste) [Débutant]
+
+**Données LIVE** (buffs 9.1.0 puis ajustement 9.2.0, VM) : 4,6 m/s ; TR 32 m ; grand. **6 bouteilles** partagées ; recharge **2,5 s à 2,3 m/s**.
+- **Tonic** (nuage rose, 10 s) : vision troublée, toux, **pas de fast vault** (jusqu'à 1 s après la sortie), **−14 % Hindered** (1,6 s après la sortie).
+- **Antidote** (nuage blanc, **jaune après 1,6 s**) : **+12 % Haste 6 s pour tous**, survivants compris (VP ; le wiki affiche 14 % dans une phrase, tranché à 12 %).
+- Les deux gaz **s'annulent** ; passer de l'un à l'autre annule les effets persistants du premier.
+
+**Identification** : bruit de verre, nuages rose ou jaune, toux, recharge visible.
+
+**Ce qu'il cherche** : Tonic sur la fenêtre ou la palette visée (pas de fast vault) ; ligne droite en Antidote.
+
+**Tiles** : obstacles hauts (bloquent les bouteilles) ; tiles à plusieurs sorties pour contourner le rose.
+
+**Counterplay** :
+- *Mécanique* : contourner le rose, ou le traverser au plus court ; **traverser son jaune** (tu gagnes +12 % toi aussi) ; **un nuage jaune annule le rose** ; gagner la distance pendant sa recharge (2,5 s à 2,3 m/s).
+- *Fenêtres* : ne mise jamais une chase sur un fast vault intoxiqué.
+- *Positionnel* : éviter les longues lignes droites ouvertes.
+
+**Erreurs classiques** : courir dans un nuage rose ; rester groupés dans le gaz ; ignorer son Antidote.
+
+**Quand le counterplay échoue** : cumul Hindered du pouvoir + perk : les Diminishing Returns 9.6.0 l'atténueraient [HYPOTHÈSE, à vérifier dans le manuel].
+
+**Add-ons qui changent la décision** (SS) :
+- **Redhead's Pinkie Finger** (coup direct = Exposed tant qu'intoxiqué ; 1 bouteille) → évite le coup direct avant tout ; après chaque lancer il recharge 2,5 s.
+- **Tattoo's Middle Finger** (aura 6 s des survivants touchés par un des deux gaz) → prendre son jaune te révèle : ne le traverse pas pour aller te cacher.
+- **Cigar Box** (auras à 6 m pour les revigorés) → le jaune ne sert pas à se cacher près de lui.
+- **Flask of Bleach** (Hindered −16 %), **Bottle of Chloroform** (nuage +20 %) → contourne plus large **au lieu de** traverser.
+- **Starling / Robin Feather**, **Thick Cork Stopper** → fenêtres de recharge plus courtes.
+
+Détail : `kb/research/batch4_killers_g2.md` §12.
+
+### 13. The Spirit (Rin Yamaoka) — mobilité · furtif (mindgame) [Avancé]
+
+**Données LIVE** (dernier changement de pouvoir 6.7.0 ; rien en 9.x-10.x, VP par absence) : 4,4 m/s ; TR 24 m ; taille moyenne. **Yamaoka's Haunting** : charge **1,5 s**, puis phase jusqu'à **5 s** à **7,04 m/s** ; elle laisse un **husk immobile** qui porte le TR. Recharge complète en **15 s** (plus courte après une phase courte). Pas de cooldown d'attaque en sortie de phase. En phase, **tu lui es invisible**, mais elle **voit les scratch marks**, **entend tous tes sons**, voit l'herbe bouger. **Son de phase directionnel ≤ 24 m**. **Phasing passif** (LIVE) : elle clignote 0,5 s toutes les 1 à 5 s. Les perks qui localisent le tueur ne montrent que le husk pendant la phase. Sa respiration n'est plus audible en phase (depuis 2.3.0).
+
+**Identification** : clignotement du phasing passif ; son de phase directionnel ; husk figé puis réapparition brusque.
+
+**Ce qu'elle cherche** : un survivant qui court (griffures) et qui gémit ; un survivant qui garde une palette pour le stun.
+
+**Tiles** : **jeter la palette tôt puis marcher** est souvent plus fiable que la tenir ; tiles connectées et LOS hautes pour les double-backs.
+
+**Counterplay** :
+- *Mécanique* : **regarde le husk** (figé = probablement en phase) et **écoute le son directionnel**. Quand elle phase près de toi, **marche ou arrête-toi** : la marche (2,26 m/s = 56,5 % de la course) ne laisse pas de griffures [DATA, audit]. **Limites** : c'est un mix-up, pas une règle ; une Spirit qui attend l'exploite ; **blessé**, marcher laisse grognements et flaques de sang. Varie marcher, courir, changer de côté.
+- *Fenêtre de décrochage* : l'Elusive de base (10 s) supprime griffures, grognements et flaques : elle perd ses trois indices [FACT, audit].
+- *Macro* : après une phase **complète**, elle a 15 s de recharge : quitte la tile à ce moment.
+- *Perks* : Iron Will (grognements), Lucky Break : utiles, sans garantie [SITUATIONNEL].
+
+**Erreurs classiques** : courir en ligne droite pendant qu'elle phase ; deviner **sans lire** husk et son ; tenir la même palette plusieurs fois ; se croire invisible en marchant dans l'herbe haute.
+
+**Quand le counterplay échoue** : si le son de phase est absent, elle est à plus de 24 m ou ne phase pas : **aucun add-on de silence n'existe en LIVE** (Prayer Beads Bracelet a disparu). Avec Wakizashi Saya, le husk figé n'indique plus sa direction.
+
+**Add-ons qui changent la décision** (SS) :
+- **Mother-Daughter Ring** (+25 % en phase ; **elle ne voit plus les griffures**) → marcher n'apporte rien de plus : casse la distance vite.
+- **Dried Cherry Blossom** (Killer Instinct à moins de 3 m pendant la phase) → rester immobile à côté d'elle ne marche plus.
+- **Mother's Glasses** (Killer Instinct si tu passes à moins de 2 m du husk) → ne longe pas le husk.
+- **Kintsugi Teacup / Uchiwa** (recharge instantanée après une casse ou un stun) → un stun ou une palette cassée ne donne plus de répit.
+- **Yakuyoke Amulet** (phase 8,5 s) → ne relance pas la course trop tôt. **Furin** (tous entendent la phase) → info en plus.
+
+Détail : `kb/research/batch4_killers_g2.md` §13.
+
+### 14. The Legion (Frank, Julie, Susie, Joey) — M1 · info · slug indirect [Intermédiaire]
+
+**Données LIVE** : **désactivé puis réactivé en 9.6.0** (VP) ; dernier équilibrage 1v4 en 8.6.0. 4,6 m/s ; **TR 32 m, 40 m en Frenzy** ; taille moyenne.
+- **Feral Frenzy** : jusqu'à **11 s** à **5,2 m/s**, +0,24 m/s par survivant touché (max 6,16 m/s) ; recharge 15 s. **Feral Vault** en 0,9 s sur **palettes tombées et fenêtres** (pas sur une palette debout : correctif 9.1.0, VM).
+- **Feral Slash** : blesse + **Deep Wound** ; Killer Instinct sur les survivants de son TR non touchés. **Toucher un survivant déjà sous Deep Wound ou rater met fin au Frenzy.**
+- **Le 5e slash d'un même Frenzy est létal**, même sur un survivant sous Deep Wound (SS).
+- **Fatigue** en fin de Frenzy : **2,5 s à 2,3 m/s**.
+- **Deep Wound** : 20 s, **en pause quand tu cours** ou pendant le mending ; mending 10 s seul, 6 s par un allié.
+
+**Identification** : cris, TR qui passe à 40 m, Killer Instinct, tueur qui vaulte palettes tombées et fenêtres très vite.
+
+**Ce qu'il cherche** : blesser plusieurs survivants puis enchaîner un M1 ; ou enchaîner 5 slashes.
+
+**Tiles** : en Frenzy, **une palette tombée ne l'arrête pas** ; une palette **lâchée sur lui** l'étourdit quand même.
+
+**Counterplay** :
+- *Mécanique* : **faire rater un slash** (feinte autour d'un obstacle) met fin au Frenzy et vide sa jauge. Pendant sa fatigue (2,5 s à 2,3 m/s), casser la LOS.
+- *5e slash* : si le Killer Instinct montre qu'il enchaîne 4 slashes, le prochain survivant ciblé joue ce coup comme **mortel**.
+- *Deep Wound* : le minuteur est en pause **quand tu cours**, pas « en chase » : marcher ou t'accroupir pour cacher tes griffures **consomme** le minuteur. Mender à deux gagne 4 s mais expose deux survivants.
+- *Macro/équipe* : ne pas rester groupés ; jouer blessé est **normal** contre lui : un soin complet n'est pas toujours rentable.
+
+**Erreurs classiques** : se soigner à côté d'un gen occupé à plusieurs ; laisser expirer le Deep Wound ; ignorer le Killer Instinct.
+
+**Quand le counterplay échoue** : Iridescent Button (le Feral Vault **casse** la palette vaultée) : les palettes tombées ne tiennent plus.
+
+**Add-ons qui changent la décision** (SS) :
+- **Iridescent Button** → utilise les palettes pour le **stun**, pas pour gagner du temps une fois tombées.
+- **Julie's Mix Tape** (Frenzy rechargé après un stun en Frenzy) → un stun ne donne pas de répit.
+- **Susie's Mix Tape** (Killer Instinct +20 m) → se cacher à 40 m ne suffit plus.
+- **Mural Sketch** (+0,32 m/s par slash) / **Never-Sleep Pills** (Frenzy +10 s) → ne compte pas sur la fin du Frenzy.
+- **Filthy Blade**, **Stylish Sunglasses**, les **Pins** (effets après un mending **seul**) → fais-toi mender par un allié quand c'est possible [HYPOTHÈSE : le mending coopératif n'est pas décrit].
+
+Détail : `kb/research/batch4_killers_g2.md` §14.
+
+### 15. The Plague (Adiris) — ranged · zone (fontaines) · infection [Intermédiaire]
+
+**Données LIVE** (aucun changement d'équilibrage 9.x-10.x, VP par absence) : 4,6 m/s ; TR 32 m ; grande.
+- **Vile Purge** : charge 1,5 s, portée **~13 m** ; objets touchés infectieux **40 s**.
+- **Sickness** : +1 %/s en courant ou en interagissant, **+2 %/s sur un objet infecté**, **0 % en marchant, accroupi ou au sol**. À 50 %, tu vomis ; à **100 % : blessé et Broken en permanence** (sans mise à terre).
+- **Fontaines** : **5 saines + 1 déjà corrompue** au début. Se purifier (**8 s**) soigne complètement et corrompt la fontaine. Elle boit une fontaine corrompue → **Corrupt Purge 60 s**. Si toutes sont corrompues, elle le reçoit automatiquement.
+- **Corrupt Purge** : le vomi **inflige un état de santé** ; **tout stun (palette, Decisive Strike, Head On…) la ramène immédiatement en Vile Purge**.
+
+**Identification** : fontaines sur la carte dès le début ; son de vomissement ; toux.
+
+**Ce qu'elle cherche** : en Corrupt Purge, tirs en fin de boucle et par-dessus palettes et fenêtres ; survivants blessés en permanence.
+
+**Tiles** : en Corrupt Purge, murs hauts et LOS ; au-delà de ~13 m, tu es hors de portée du vomi.
+
+**Counterplay** :
+- *Macro* : **ne purifie pas par réflexe**, surtout en rafale : chaque purification crée une recharge de Corrupt Purge. Mais une fontaine est corrompue **dès le début** : elle peut prendre un Corrupt Purge à tout moment. Jouer Broken est viable, avec coordination [SITUATIONNEL].
+- *Infection* : infecté hors chase, **marche** (0 %) ; évite les objets infectés (2 %/s).
+- *Mécanique* : en Corrupt Purge, LOS et murs hauts ; **un stun de palette y met fin** : garder une palette debout pour le stun est une vraie option contre elle.
+- *Équipe* : se purifier loin d'elle, au bon moment.
+
+**Erreurs classiques** : purifier en rafale ; courir infecté hors chase ; toucher les gens infectés ; « soigner vite » comme règle absolue (l'audit la relève comme erronée).
+
+**Quand le counterplay échoue** : Iridescent Seal (Corrupt Purge à chaque gen terminé) rend « ne pas purifier » inutile.
+
+**Add-ons qui changent la décision** (SS) :
+- **Iridescent Seal** (Corrupt Purge automatique de 40 s à chaque gen terminé) → termine un gen près d'un mur haut et quand elle est loin.
+- **Blessed Apple / Ashen Apple** (fontaines corrompues en plus au départ) → compte les fontaines corrompues avant de planifier.
+- **Devotee's / Exorcism Amulet** (Corrupt Purge +20/+10 s) → joue la LOS plus longtemps.
+- **Olibanum Incense**, **Incensed Ointment** (auras en purifiant ou quand elle boit) → purifie hors de son TR.
+- **Prayer Tablet Fragment** (le vomi ne touche plus les survivants, objets infectés plus longtemps) → ne touche aucun objet infecté.
+
+Détail : `kb/research/batch4_killers_g2.md` §15.
+
