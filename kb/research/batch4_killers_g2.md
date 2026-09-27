@@ -1,12 +1,15 @@
 # Lot 4 — Fiches TUEUR vues du SURVIVANT, groupe 2 (tueurs 8 à 15)
 
+Couverture web : 0 éléments vérifiés par recherche / 8 tueurs (toutes les valeurs de pouvoir, d'add-ons et de perks) non re-vérifiés (quota WebSearch épuisé, 200/200). Seules données vérifiées : celles reprises de l'audit phase 0 [2].
+
 - Périmètre : The Huntress, The Cannibal, The Nightmare, The Pig, The Clown, The Spirit, The Legion, The Plague (seed `kb/seed/ch8_killers.txt` l. 547-844).
 - Référence : LIVE 10.1.2a (17/09/2026). PTB 10.2.0 (15-21/09/2026) **non LIVE**, toujours étiqueté PTB.
 
 > **AVERTISSEMENT MÉTHODE — À LIRE AVANT TOUTE RÉUTILISATION**
 > - **0 recherche WebSearch effectuée** : dès le premier appel, l'outil a répondu « this session has used its web search budget (200 of 200 WebSearch calls) », budget épuisé par les lots parallèles. WebFetch/curl sont bloqués (brief).
-> - Sources réellement utilisées : le seed ([1]), l'audit phase 0 ([2], seules données vérifiées de ce fichier) et la **mémoire du modèle** (connaissances d'entraînement, non datées, non vérifiées cette session).
-> - Étiquette de confiance propre à ce fichier : **UNCERTAIN-MM** = valeur ou mécanique tirée de la mémoire du modèle. Au mieux UNCERTAIN au sens du brief. **Ne jamais la promouvoir en LIVE sans vérification.** Beaucoup de ces tueurs ont reçu des changements 2025-2026 (Freddy 8.5.0, Clown/Pig 9.1.0, Cannibal 9.6.0, selon [2]) dont **le contenu chiffré n'a pas pu être lu**.
+> - Sources réellement utilisées : le seed ([1]), l'audit phase 0 ([2], seules données vérifiées de ce fichier) et la **mémoire du modèle** (connaissance du modèle, antérieure à mi-2026, non vérifiée cette session).
+> - **Valeur du seed sans autre source = « seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) », confiance UNCERTAIN.** Cela couvre toutes les mentions « seed : … », « valeurs du seed », « non vérifié(e) » et « NON VÉRIFIABLE » ci-dessous.
+> - Étiquette de confiance propre à ce fichier : **UNCERTAIN-MM** = « connaissance du modèle (antérieure à mi-2026), UNCERTAIN » = valeur ou mécanique tirée de la mémoire du modèle. Au mieux UNCERTAIN au sens du brief. **Ne jamais la promouvoir en LIVE sans vérification.** Beaucoup de ces tueurs ont reçu des changements 2025-2026 (Freddy 8.5.0, Clown/Pig 9.1.0, Cannibal 9.6.0, selon [2]) dont **le contenu chiffré n'a pas pu être lu**.
 > - Les conseils de counterplay sont des **HEURISTIC** ou des **EXPERT OPINION non sourcées** (consensus communautaire tel que le modèle le connaît), sans URL.
 > - Le lot est **à relancer en vérification** quand le budget WebSearch sera rétabli (liste précise dans « Questions ouvertes »).
 
