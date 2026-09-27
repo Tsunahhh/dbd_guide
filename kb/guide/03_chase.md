@@ -817,3 +817,107 @@ Ces seuils **ignorent** : (a) le temps de recherche du tueur entre deux chases (
 Détail : `kb/research/batch6_chase_tech.md` §4 ; corrections : `kb/audit/pass14_lot6_chase.md` (P04-P13, P36).
 
 ---
+
+## 3.9 Situations concrètes [Avancé]
+
+### Situation 1 — Blessé, tueur derrière toi, palette du shack encore disponible
+
+**Situation** : tu es blessé. Tueur M1 115 % sans pouvoir anti-loop (ex. Trapper sans piège visible autour du shack) à ~6 m derrière toi. Tu arrives au shack par la porte opposée à la palette ; palette debout, fenêtre jamais vaultée. Chase depuis ~16 s sans casse ni coup (Bloodlust +0,2). Jungle gym à ~25 m de l'autre côté. SoloQ : le HUD montre 2 alliés sur des gens différents, le 3e se soigne.
+
+**Informations connues** : [FACT] 4,6 / 4,0 m/s, +0,2 à 15 s, casse 2,34 s, stun 2 s, fast vault 0,5 s vs 1,7 s. (CALC) rapprochement 0,8 m/s. [HYPOTHÈSE] n = 2 → 1 s de chase ≈ 1,6 s-s ; blessé → `C_hit` ≈ 100-150 s-s / 1,6 ≈ **62-94 s** de chase ; avec `T_loop` = 10 s, p* ≈ **0,10-0,14** (≈ 0,17 même avec n = 3 : la conclusion ne dépend pas de ce détail).
+
+| Option | Analyse | Verdict |
+|---|---|---|
+| **A. Pré-jeter la palette** en la passant, puis partir vers le jungle gym pendant qu'il casse | S'il casse : +9,4 m et Bloodlust à 0 → écart ≈ 15 m (≈ 13 m à combler, ≈ 20 s en terrain ouvert) ; tu atteins le jungle gym en ~6 s avec ~11-12 m d'avance. S'il contourne, la palette reste un forced path et tu gagnes son détour. **Gain ≈ 18 s** (CALC), risque de coup faible (à 6 m, le drop se fait hors de portée ; restent un piège caché, un drop tardif, du temps perdu dans le shack) | **Meilleur** |
+| B. Boucler la fenêtre (greed), garder la palette | Une boucle bien jouée peut rapporter ~10 s, mais avec 6 m d'avance, un 115 % et une Bloodlust qui passera à +0,4 à 25 s, il est très improbable que ton risque de coup soit sous 10-17 % [HEURISTIQUE] | EV négative dans la plupart des cas |
+| C. Ignorer le shack, tenir W vers le jungle gym | Écart à combler ≈ 6 − 2,5 = 3,5 m → ≈ 4,4 s avant le coup ; il te faut ≈ 6,25 s pour 25 m. Tu tombes à ~7-8 m du jungle gym | **Perdant** |
+
+**Décision** : A. B redevient raisonnable si tu arrives avec ≥ 10 m d'avance, **sain**, et que le tueur a montré qu'il suit au lieu de couper (alors : 1 cycle, puis drop dès qu'il s'engage côté palette).
+
+**Variantes selon le tueur** (pre-drop non universel, T05) :
+- casse gratuite (Demogorgon Shred, Oni en Fury, Ghoul avec tokens, Dark Lord loup) : le pre-drop ne lui coûte presque rien → garde la palette pour un **stun** ou change de zone ;
+- pouvoir qui punit l'attente (Doctor, Cannibal, Nemesis MR2+, Mastermind, Lich) : pre-drop **puis départ immédiat** ;
+- **Blight** : casse instantanée en Lethal Rush, mais payée en tokens (9.6.0 ; 9.6.2 : aussi à bas stock) → le pre-drop reste le plus souvent rentable ;
+- Knight : un garde en chasse **contourne** une palette baissée tôt (10.1.1), abandon si le détour dépasse 48 m.
+
+**Erreur typique** : appliquer la règle du seed « deux tours de fenêtre avant la palette » en étant blessé (le 2e tour est un pari dont l'enjeu est ≈ 60-90 s de chase, selon le modèle) ; ou pré-jeter puis **regarder** la casse au lieu de partir (2,34 s = 9,4 m jetés).
+
+### Situation 2 — Chase longue, Bloodlust maximale, palette de filler
+
+**Situation** : tu es sain. Chase depuis 38 s sans casse ni coup (Bloodlust +0,6). Tueur M1 115 % à ~5 m. Tu arrives sur un filler (arbre + rocher) avec une palette debout ; jungle gym à ~20 m. 3 alliés réparent chacun un gen ; 2 gens sont vers 70 %.
+
+**Informations connues** : [FACT] +0,6 à 35 s ; casse = perte de Bloodlust ; stun 2 s ; poursuite finie au-delà de 18 m. (CALC) rapprochement 1,2 m/s ; un gen à 70 % demande 27 s seul à e = 1, ≈ 34 s à e = 0,8 → 2 gens tombent si tu tiens encore ~27-34 s. Valeur future d'une palette de filler : faible (tile court).
+
+| Option | Analyse | Verdict |
+|---|---|---|
+| **A. Utiliser la palette tout de suite** (stun si possible, sinon drop), puis partir vers le jungle gym | Stun (+8 m) puis casse (+9,4 m, reset) → ~17 m : grande avance, la poursuite peut même prendre fin (> 18 m, temporisation INC). Sans stun, drop + casse : +9,4 m et reset, assez pour atteindre le jungle gym. S'il contourne pour garder sa Bloodlust, il perd le détour et tu es déjà en route | **Meilleur** |
+| B. Garder la palette, tenir W | Écart à combler ≈ 5 − 2,5 = 2,5 m → ≈ 2 s avant le coup ; 20 m demandent 5 s. Coup probable avant l'arrivée (boost et reset, mais tu es blessé : `C_hit` ≈ 17 s, soin inclus, hypothèse) | Mauvais |
+| C. Boucler le filler en attendant un stun « parfait » | Tile court à +0,6 m/s : probabilité de coup par cycle très élevée [HEURISTIQUE] | EV négative |
+
+**Décision** : A. Ici la palette sert surtout à **remettre la Bloodlust à zéro** et à convertir en distance ; chaque seconde rapproche deux gens de la fin, la priorité est le temps. **Limite** : si ce filler est la dernière palette d'une zone où se jouera l'endgame (3-gen, portes), sa valeur future remonte et le choix se discute.
+
+**Erreur typique** : garder la palette « pour plus tard » à Bloodlust maximale ; tourner autour du filler en attendant un stun parfait.
+
+### Situation 3 — Tache rouge qui indique une direction, tueur caché derrière un mur
+
+**Situation** : jungle gym à long mur. Tu es sain ; fenêtre vaultée 1 fois dans cette chase ; palette debout. Le tueur (M1, 115 %, non furtif) vient de disparaître derrière le mur en L. Sa tache rouge dépasse du mur, orientée vers la gauche (côté palette). TR stable, pas mal audibles. Il a cassé une palette ailleurs il y a ~10 s (Bloodlust 0).
+
+**Informations connues** : [FACT] (SS) la tache indique la direction du **regard** (et du déplacement quand il marche normalement) ; marcher à reculons ou de côté pour tromper est documenté par le wiki. Fenêtre encore utilisable 2 fois avant le blocage de 30 s ; Bloodlust à 0 (pas d'horloge immédiate).
+
+| Option | Analyse | Verdict |
+|---|---|---|
+| A. Croire la tache : partir à droite et vaulter | S'il moonwalke vers la droite, il t'attend à la sortie ; pendant 0,5 s de vault tu es immobile à portée de fente. Un 50/50 déguisé en information | Risqué |
+| **B. Prendre un checkspot** (trou du mur, angle) pour voir le **corps**, en restant à portée de la palette | À Bloodlust 0 et tueur hors LOS, un check de 0,5-1 s ne coûte presque rien. Corps vers la droite → reste côté palette (jette s'il s'engage) ; corps vers la gauche → fenêtre. Sans checkspot, la position proche de la palette **couvre** les deux options (3.8.7) | **Meilleur** |
+| C. Quitter le tile vers le suivant (~18 m) | Sans info, tu peux croiser sa route ; tu abandonnes un tile encore riche | Prématuré |
+
+**Décision** : B, puis agir sur le **corps**, pas sur la tache. Contre un tueur Undetectable ou furtif, même logique avec le son et les checkspots.
+
+**Erreur typique** : lire la tache comme une direction de déplacement ; attendre trop longtemps au checkspot (la Bloodlust repart dès 15 s de chase, et il gagne du temps d'observation).
+
+Détail : `kb/research/batch6_chase_tech.md` §5.
+
+---
+
+## 3.10 Idées reçues corrigées
+
+| Le guide seed disait | Ce qui est vrai (LIVE 10.1.2a) | Verdict |
+|---|---|---|
+| 1 s de chase ≈ 1/3 de gen | ≈ 1/30 (3 alliés, e = 1), ≈ 1/37 à e = 0,8 | Faux |
+| 10 m d'avance ≈ 17 s / 25 s | ≈ 16,3 / 21,7 s avec Bloodlust ; ≈ 12-13 / 17-18 s en comptant la fente | Imprécis |
+| « Le vault annule l'élan » ; ne pas vaulter après un coup | Faux pour le fast vault (garde l'élan) ; vrai pour medium / slow ; conservation du boost : INC | Faux (partiel) |
+| Casse de palette ≈ 2,6 s | 2,34 s depuis 6.1.0 | Faux |
+| Gen solo ≈ 80 s | 90 s | Faux |
+| La Bloodlust disparaît quand le tueur est étourdi | Non documenté | Non vérifiable |
+| Deux tours de fenêtre avant la palette du shack | Trop absolu : faux blessé, contre anti-loop, tueur proche | Imprécis |
+| Une god pallet se garde | Dépend de `p`, `C_hit` et des ressources restantes | Imprécis |
+| Le 360 est utile contre les M1 dans l'open | Dernier recours seulement | Imprécis |
+| « Tenez droit sans vous retourner » | Vrai en ligne droite ; faux sur les tiles (un check par décision) | Imprécis |
+| Loadout du tueur visible après la 1re chase | Identité seulement ; loadout caché jusqu'à la fin | Faux |
+| Good Guy / Mastermind cassent les palettes ; Knight casse instantanément | Add-on requis (Hard Hat / Lab Photo) ; gardes du Knight 1,8 s ou 5 s | Faux (errata) |
+| Contre Blight, le pre-drop ne lui coûte rien | Casse = tokens de Rush (9.6.0, 9.6.2) | Faux |
+| Un survivant perdu près d'un casier y est 1 fois sur 3 | Non mesurable | Non vérifiable |
+| Le tueur perd 3-5 s sur un drop depuis l'étage | Aucune mesure | Non vérifiable |
+
+## 3.11 Ce qui reste incertain
+
+- **Fente** : durée, distance, portée utile (~2-2,5 m estimés) — toutes les conditions de loop en dépendent.
+- **Durée d'abaissement de la palette** (`t_porte_S` du drop) et instant exact de la fenêtre de stun.
+- **Vitesse du tueur pendant les cooldowns** (fixe le gain réel après un coup reçu : +3 à +15,5 m).
+- **Bloodlust** : perte sur stun ou aveuglement ; taux de régression.
+- **Temporisation** des conditions de fin de poursuite (angle ±35°, > 18 m).
+- **Angle toléré** du fast vault ; conservation du boost pendant un fast vault.
+- **Tache rouge** : effet de regarder vers le bas ; vitesse en moonwalk.
+- **Hitbox / hurtbox** et seuil de ~300 ms de validation.
+- **Blight** : nombre exact de tokens perdus en cassant à 3 tokens ou moins (9.6.2).
+- **Modèles de 3.8** : `p`, `T_loop` par tile, `e`, coût réel d'un crochet — aucun n'est mesuré.
+- **Non couverts ici** : perks d'épuisement (Dead Hard, Sprint Burst, Lithe, Balanced Landing), Haste / Hindered de perks, objets en chase, 2v8.
+
+## Sources du chapitre
+
+- `kb/research/batch6_chase_tech.md` (lot 6, audité) et `kb/audit/pass14_lot6_chase.md` (36 corrections).
+- `kb/ledgers/AUDIT_PHASE0_ERRATA.md` (casseurs de palettes, prime sur l'audit).
+- `kb/research/batch7_tiles.md` §2.1 (condition de loop avec temps de porte), §5.2 (palettes et pouvoirs) ; `kb/audit/pass14_lot7_tiles.md`.
+- `kb/research/batch4_killers_g3.md` §21 (Blight) ; `kb/deliverables/KILLER_COUNTERPLAY_HANDBOOK.md` (anti-loop, pre-drop non universel).
+- `kb/seed/audit_phase0.txt` : tables « Référence vérifiée : mouvement, chase, combat » et « objectifs, crochets, soins, statuts ».
+- Notes officielles BHVR : 6.1.0 (cooldowns, casse), 9.2.0 (Krasue, densité), 9.3.0 / 9.3.2 (loops), 9.6.0 (Blight, Match Details, DR), 9.6.2 (Blight tokens), 10.1.0 (protections de décrochage), 10.1.1 (Knight) — `kb/sources/patches/`.
+- Pages wiki (via l'audit) : Pallets, Windows, Bloodlust, Chase, Terror Radius, Red Stain, pages des tueurs cités.

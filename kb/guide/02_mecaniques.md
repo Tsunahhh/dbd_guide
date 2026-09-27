@@ -437,10 +437,10 @@ Définitions LIVE, d'après la page wiki.gg « Status Effects » (SS) sauf menti
 | **Haemorrhage** | Survivant | Plus de flaques de sang ; soin partiel perdu à −7 %/s | — | SS |
 | **Haste** | Les deux rôles | + vitesse de déplacement | Les sources se cumulent ; DR depuis 9.6.0 ; aucun plafond documenté | VP / INC |
 | **Hindered** | Les deux rôles | − vitesse de déplacement | Mêmes règles de cumul que Haste | VP |
-| **Incapacitated** | Survivant | Ne peut pas interagir avec certains éléments ni avec les survivants | La liste exacte dépend de la source de l'effet | SS |
+| **Incapacitated** | Survivant | Ne peut pas interagir avec certains éléments ni avec les survivants | Liste des interactions bloquées : selon la source de l'effet **[INCERTAIN]** | SS |
 | **Madness** | Survivant | Hallucinations et entraves | **Exclusif au Doctor** | SS |
 | **Mangled** | Survivant | Soin 25 % plus long (vitesse −20 %) | Seulement de blessé à sain | SS |
-| **Oblivious** | Survivant | N'entend **ni le rayon de terreur ni le battement de cœur** | Le tueur reste audible par ses pas et ses pouvoirs | SS |
+| **Oblivious** | Survivant | N'entend **ni le rayon de terreur ni le battement de cœur** | Ses autres sons (pas, pouvoir) ne sont pas cités par la définition **[INCERTAIN]** | SS |
 | **Undetectable** | Tueur | Supprime le rayon de terreur et la tache rouge ; aura cachée | Un « stinger » sonore marque sa fin ; les **lullabies ne sont pas affectées** | SS |
 | **Impaled** | Survivant | **The Slasher** : touché par une Hook Spike, ne peut pas être soigné au-delà de blessé ; aura de la pique visible du tueur | Blessé + pique + mur → Impaled **et Immobilized** | VP (10.0.0) |
 | **Heresy** | Survivant | **The Judgment** : mécanique de pouvoir, pas un statut général | Voir 2.7.3 | VP (principe) / SS (valeurs) |
@@ -606,3 +606,203 @@ Ce que l'on sait, source par source :
 
 Détail : `kb/research/batch6_chase_tech.md` T07, T08, T16 ; `kb/research/batch9_macro.md` §2.12, §3.2.
 
+---
+
+## 2.10 Objets de la carte `[Débutant → Intermédiaire]`
+
+### 2.10.1 Casiers
+
+| Mécanique | Valeur LIVE | Conf. |
+|---|---|---|
+| Aura | Cachée à l'intérieur, sauf à l'entrée et à la sortie | SS |
+| Entrée | Normale : lente mais silencieuse ; en sprint : bruit fort (sauf Quick & Quiet) | SS |
+| Fin de poursuite | 5 s dans un casier | SS |
+| Fouille par le tueur | 2,33 s pour un casier vide ; 5 s pour extraire un survivant, avec **immunité aux lampes** pendant la saisie | SS (lot 5) |
+| Sous-sol | 6 casiers (6.4.0) | SS |
+| Head On | Stun 3 s à ≤ 2,5 m après 3 s dans le casier ; Exhausted 60/50/40 s | SS |
+
+**[HEURISTIQUE]** Un casier sert à rompre une poursuite hors de vue ou à préparer un save (Head On, Flashbang). Y entrer **sous les yeux** du tueur est une mise au sol offerte. Contre les tueurs qui exploitent les casiers (le Dredge, par exemple), évitez-les.
+
+### 2.10.2 Coffres
+
+| Mécanique | Valeur LIVE | Conf. |
+|---|---|---|
+| Nombre | **3** par défaut (2 aléatoires + 1 au sous-sol) ; de 1 à 13 selon les Coins et Hoarder ; au moins 48 m entre deux coffres (2.5.0) | SS |
+| Ouverture ou fouille | **8 s** (10 → 8 s en 8.4.0), progression conservée, bruit audible à 20 m ; le tueur peut saisir le survivant | SS |
+| Rareté | Décidée par **celui qui termine** l'ouverture | SS |
+| Probabilités sans perk | Common 43 %, Uncommon 33 %, Rare 16 %, Very Rare 5 %, Ultra Rare 2 % | **INC** : étude communautaire de 2019, antérieure aux Fog Vials et à la refonte 9.1.0 |
+| Coins (offrandes) | Shiny +2, Tarnished +1, Scratched −1, Cut −2 | SS |
+
+**[HEURISTIQUE]** Un coffre coûte 8 s-surv minimum (plus le trajet) pour un objet de rareté aléatoire. Il se justifie surtout en début de partie, pour un build qui en dépend, ou avec une clé (refonte 9.1.0 : une charge = un objet Rare+ pour vous et un pour l'allié qui fouille le même coffre, VM).
+
+### 2.10.3 Totems, Hex et Boons
+
+| Mécanique | Valeur LIVE | Conf. |
+|---|---|---|
+| Totems | **5** par partie ; purification **14 s** | SS |
+| Hex | Perk du tueur liée à un totem allumé ; les survivants touchés sont **Cursed** | SS |
+| Boon | Bénir un totem terne **14 s**, un totem Hex **28 s** (−50 %) : l'Hex devient un Boon, avec les mêmes effets qu'une purification | SS |
+| Zone d'un Boon | **24 m** (statut Blessed) | SS |
+| Extinction | Le tueur éteint un Boon en **1 s** | SS |
+| Limite | Un seul totem béni par survivant, toutes ses Boons dessus ; un totem ravivé par Pentimento ne peut pas être béni | SS |
+
+**QUOI / POURQUOI** : purifier un Hex coupe la perk ; bénir un Hex en fait un Boon (28 s au lieu de 14 s, mais il en sort une zone utile à l'équipe). **QUAND [SITUATIONNEL]** : « purifiez un Hex dès qu'il s'allume » est une règle absolue relevée par l'audit ; tout dépend de l'effet, du trajet et du tueur (la liste des Hex et leurs valeurs sont au chapitre des perks tueur). **CONTRE** : un Boon s'éteint en 1 s ; il ne rapporte que si le tueur doit faire un détour pour l'éteindre.
+
+### 2.10.4 Portes de sortie
+
+| Mécanique | Valeur LIVE | Conf. |
+|---|---|---|
+| Alimentation | Après (survivants au départ + 1) gens | SS |
+| Ouverture | **20 s**, progression **conservée** | SS |
+| Ouverture par le tueur | 0,75 s selon le wiki, **non recoupé** | INC |
+| Blocages de l'Entité | Blood Warden **40/50/60 s** ; No Way Out **12 s + 6/9/12 s par jeton** | SS |
+| Heresy | 45 s dans le seuil d'une porte → Heresy ; porte bloquée 8 s si acquise à < 32 m | SS |
+
+**Ce que change l'alimentation (effet « interrupteur »)** : anti-camp désactivé ; Elusive de décrochage retirée ; Will to Live désactivé ; déclenchement des perks de fin de partie des deux camps (Adrenaline, Hope… ; NOED, No Way Out, Terminus, Blood Warden). C'est pourquoi tenir un gen à 99 % peut avoir du sens autour d'un événement précis (voir chapitre macro).
+
+**[HEURISTIQUE]** Lâcher un interrupteur plutôt que prendre un coup : la progression reste. Finir si le temps restant (20 s × % restant) est inférieur au temps d'arrivée du tueur.
+
+### 2.10.5 Trappe
+
+| Mécanique | Valeur LIVE | Patch | Conf. |
+|---|---|---|---|
+| Apparition | S'ouvre **automatiquement** quand il ne reste qu'un survivant ; aura visible **de lui seul** | 5.3.0 | SS |
+| Clé | Dull ou Skeleton Key avec ≥ 1 charge : rouvre une trappe fermée en **2,5 s** ; impossible au sol ; le tueur peut saisir ; la clé n'est plus détruite (9.1.0) | 9.1.0 | VM |
+| Fermeture par le tueur | Déclenche l'**EGC** | — | SS |
+| Après une évasion | Se referme | 8.1.0 | SS |
+| Offrandes | Blueprints : trappe plus probable près du Killer Shack ou du bâtiment principal (+100 % de probabilité) | — | SS |
+| Durée du saut | Non documentée | — | INC |
+
+> **Erreur fréquente** : chercher la trappe « au son » avant d'être le dernier. Elle ne s'ouvre (donc ne s'entend) qu'au dernier survivant.
+
+### 2.10.6 Endgame Collapse (EGC)
+
+| Mécanique | Valeur LIVE | Conf. |
+|---|---|---|
+| Durée | **120 s** | SS |
+| Déclencheur | Ouverture d'une porte **ou** fermeture de la trappe | SS |
+| Ralentissement | Moitié de vitesse si un survivant est au sol, accroché ou en cage (max 4 min) | SS |
+| Arrêt | **Jamais** | SS |
+| Gens restants | Bloqués | SS |
+| Accélération | Aucune condition documentée | SS |
+
+**[HEURISTIQUE]** Un allié accroché pendant l'EGC ralentit le timer : il reste du temps pour un sauvetage, mais sa phase de crochet (70 s) continue de courir.
+
+### 2.10.7 Fenêtres et palettes (pour mémoire)
+
+| Élément | Valeur LIVE | Conf. |
+|---|---|---|
+| Vaults de fenêtre | Fast **0,5 s** (garde l'élan, ≥ 2,5 m de course droite) / medium 0,9 s / slow 1,5 s ; tueur 1,7 s | SS |
+| Blocage par l'Entité | Après le **3e vault** de la même fenêtre dans une poursuite : bloquée **30 s pour ce survivant seulement** | SS |
+| Palettes | Stun **2 s** (à partir de ~50 % d'abaissement) ; casse **2,34 s** (6.1.0) ; tronçonneuse 1 s ; vault 1,1 s / 2 s | VM / SS |
+| Murs cassables | 2,34 s, tueur seulement | VM |
+| Espacement des palettes | Au moins 14, 16, 18 ou 20 m | SS |
+
+Casses par pouvoir, Bloodlust et chase : voir le chapitre chase et l'errata (Good Guy, Mastermind, Knight et Lich ne cassent **pas** instantanément en 1v4 sans conditions).
+
+Détail : `kb/research/batch5_items.md` §4, §5.7-5.9 ; `kb/research/batch9_macro.md` §6 ; `kb/ledgers/AUDIT_PHASE0_ERRATA.md`.
+
+---
+
+## 2.11 Économie hors partie `[Débutant]`
+
+### 2.11.1 Bloodpoints (BP)
+
+| Mécanique | Valeur LIVE | Patch | Conf. |
+|---|---|---|---|
+| Plafond par partie | **10 000 par catégorie** (40 000 par partie) | — | SS |
+| Offrandes de BP | Appliquées **après** le plafond | — | SS |
+| Portefeuille | Plafonné à **5 000 000** ; codes promo, récompenses de connexion et codes e-mail exemptés | Testé à la Blood Moon d'avril 2025, puis conservé | SS |
+| BP du tueur | Début de poursuite **500** (était 400) ; accrochage **750** (était 500) ; 1er accrochage d'un survivant **+750** (était 200) ; 2e **+250** (était 200) ; sacrifice **500** (était 200) | 9.3.0 | VP |
+| Abandoned (survivant) | **2 000 BP** quand un coéquipier se déconnecte ou abandonne via ce système (était 600) | 9.0.0 | VP |
+
+> **Note avancée** : la note 9.3.0 explique la hausse des BP de premier accrochage par la volonté d'« encourager les tueurs à répartir les premiers crochets ». C'est une incitation, pas une règle : elle ne protège pas du tunnel.
+
+### 2.11.2 Offrandes
+
+| Règle | Valeur LIVE | Patch | Conf. |
+|---|---|---|---|
+| Offrandes de royaume / carte | **20 % fixes** ; les doublons ne se cumulent plus | 9.0.0 | VP |
+| Offrandes secrètes | La plupart des offrandes qui modifient la partie sont face cachée (Blueprints, Coins, Luck personnelle, Reagents, royaume/carte, Shrouds, Wards sauf Sacrificial Ward) ; les Luck « pour tous » restent visibles | 9.0.0 | VM |
+| Conflits | Raretés différentes : la plus rare brûle, les autres sont rendues ; rareté égale : toutes rebondissent (sauf cartes) | — | SS |
+| Remboursement | Partie annulée (déconnexion au chargement ou dans la 1re minute) | — | SS |
+| Sacrificial Ward | Rejette les offrandes de royaume des autres joueurs, sauf si tous brûlent la même ; ne bloque **pas** un royaume au tirage aléatoire | — | SS |
+| Apparition | Survivants à ≤ 12 m les uns des autres et au même étage « when possible » ; Shroud of Separation (survivant) sépare ; Shroud of Vanishing (tueur) rejette les offrandes d'apparition survivantes ; Vigo's Shroud : apparaître le plus loin possible du tueur | 9.0.0 | VP |
+| Luck | +1/2/3 % par offrande ; débloque les tentatives d'auto-décrochage au 1er palier | 9.0.0 | VM |
+| Memento Mori (tueur) | Ivory / Ebony : tuer un / tous les survivants à 2 paliers, une fois au sol | — | SS |
+| Oak (tueur) | Distance minimale entre crochets −1,5 / −2,5 / −3,5 m ; Petrified Oak +1 m | — | SS |
+
+> **Erreur fréquente** : « les offrandes de royaume se cumulent » (ancien guide, A-190). **Faux depuis 9.0.0** : 20 % fixes, doublons inutiles. Le gain réel est même **inférieur à 20 points**, puisque le tirage aléatoire peut tomber sur ce royaume sans offrande (calc.).
+
+### 2.11.3 MMR et matchmaking
+
+| Point | Statut | Conf. |
+|---|---|---|
+| Calcul du MMR | Depuis 10.1.0, ne compte plus seulement kills et évasions : il « considère plus d'actions dans une partie, comme les emblèmes » | VP |
+| Remise à zéro en 10.1.0 | Annoncée par la presse (AddictingGames, 23/08/2026, citant un événement Discord des développeurs) ; **absente des notes officielles** ; un CM a seulement dit qu'il faudrait « un certain nombre de parties pour recalculer » | **INC** (CONFLICT-G04) |
+| Détail des actions prises en compte | Non publié | INC |
+| « Team-based Ratings » pour les SWF (6.4.0) | Toujours actif après 10.1.0 ? Inconnu | INC |
+| Play While You Wait | Un tueur en file peut jouer une partie survivant en gardant sa place (9.6.0) | VP |
+
+**[HYPOTHÈSE]** Si le MMR compte désormais des actions « comme les emblèmes », une partie perdue mais bien jouée (gens, sauvetages, chase) pèse sans doute moins qu'avant sur votre cote. Le poids de chaque action n'étant pas publié, ne jouez pas « pour le MMR ».
+
+### 2.11.4 Ce que vous voyez du loadout (Match Details, 9.6.0)
+
+**[FACT] (VP)** :
+- vous voyez le **loadout de vos coéquipiers** (perks, objets et add-ons, offrandes non secrètes), avec descriptions au survol ;
+- le **tueur** est caché au début de la partie et apparaît à tous les survivants dès qu'**un** survivant entre en poursuite ou perd un état de santé ;
+- le **loadout de l'équipe adverse reste caché jusqu'à la fin** de la partie.
+
+> **Erreur fréquente** : « les survivants voient les perks du tueur après la 1re chase » (ancien guide, D-092). **Faux** : seule son **identité** est révélée. Toute « connaissance » de ses perks est une **déduction** (voir `kb/deliverables/PERK_DEDUCTION.md`).
+
+**[HEURISTIQUE] SoloQ** : Match Details est la seule coordination d'objets et de perks sans voix : qui a Kindred, un kit, une clé, Adrenaline, un anti-tunnel. Faites-en le tour au début de chaque partie. **SWF** : l'information existait déjà par la voix ; l'intérêt est surtout de vérifier les offrandes visibles.
+
+Détail : notes officielles 9.0.0, 9.3.0, 9.6.0, 10.1.0 ; `kb/research/batch5_items.md` §3 ; `kb/ledgers/CONFLICT_REGISTER.md`.
+
+---
+
+## 2.12 Ce qui reste inconnu (à ne pas enseigner comme un fait)
+
+| # | Question | Pourquoi ça compte |
+|---|---|---|
+| 1 | Taux de base absolu de la jauge anti-camp après 9.3.0 (CONFLICT-003) | Aucun temps de face camp n'est calculable |
+| 2 | Nombre max de soigneurs : 2 (wiki) ou 3 (ancien guide) (CONFLICT-001) | Planification des soins en groupe |
+| 3 | Rampement : 0,7 m/s constant ou montée à 1,05 m/s (CONFLICT-002) | Ramper vers un allié |
+| 4 | La récupération au sol progresse-t-elle en rampant ? | Arbitrage ramper / récupérer |
+| 5 | Elusive de décrochage annulée par une action voyante ? Liste des actions voyantes (porte ?) | Usage des 10 s de protection |
+| 6 | Liste des catégories soumises aux DR ; DR sur Endurance, vaults, effets de base, pertes instantanées | Construction de builds empilés |
+| 7 | Plafond de Haste | Builds de vitesse |
+| 8 | Chance de skill check avec toolbox (40 % ?) ; ouverture de porte par le tueur (0,75 s ?) | Valeurs du wiki non recoupées |
+| 9 | Portée des grognements ; fréquence et durée des flaques de sang | Furtivité en étant blessé |
+| 10 | Vitesse de portage (3,68 m/s ?) et durée du ramassage | Tous les calculs de portage et de sabotage |
+| 11 | Durée du relevage d'un allié au sol ; durée du saut dans la trappe | Décisions de slug et de trappe |
+| 12 | Perte de Bloodlust sur stun ou aveuglement | Valeur d'un stun en chase |
+| 13 | Reset du MMR en 10.1.0 ; détail du nouveau calcul (CONFLICT-G04) | Lecture de sa cote |
+| 14 | Probabilités de coffre actuelles (étude de 2019 seulement) | Rentabilité des coffres |
+| 15 | Application des protections de décrochage à une libération d'Exile | Jeu contre The Judgment |
+
+> **À retenir** : si le 10.2.0 sort en LIVE (Survivor Intent System, refonte d'Abandon / Surrender, nombreuses perks), une partie de ce chapitre sera à revérifier : Abandon, Slippery Meat, Calm Spirit, Plunderer's Instinct, Pharmacy, Iron Grasp et Agitation ont des valeurs PTB différentes.
+
+---
+
+## Sources du chapitre
+
+**Fichiers de la base**
+- `kb/ledgers/AUDIT_PHASE0_ERRATA.md` (corrections prioritaires)
+- `kb/seed/audit_phase0.txt` : tables « Référence vérifiée : objectifs, crochets, soins, statuts » (1.1 à 1.6) et « mouvement, chase, combat » (1.1 à 1.8)
+- `kb/research/batch9_macro.md` (§1, §2, §3.2, §6)
+- `kb/research/batch6_chase_tech.md` (§1, §4.1-4.4, T07, T08, T16)
+- `kb/research/batch5_items.md` (§1, §3, §4, §5.7-5.9)
+- `kb/ledgers/CONFLICT_REGISTER.md`, `kb/ledgers/OPEN_QUESTIONS.md`, `kb/ledgers/OUTDATED_CONTENT_REPORT.md`
+- `kb/deliverables/QUICK_REFERENCE.md` (cohérence des chiffres clés)
+
+**Notes officielles BHVR** (`kb/sources/patches/`)
+- 9.0.0 (510) : auto-décrochage, lutte, Mori de fin, offrandes 20 %, apparition, Abandoned 2 000 BP
+- 9.1.0 (516) : sacrifice à 2 survivants (2 checks manqués, tous accrochés)
+- 9.2.0 (523) : récupération au sol automatique, Abandon, densité de palettes
+- 9.3.0 (529) : anti-camp ×1/×2/×4, base −50 %, grâce 7 s, 16 m, corbeaux AFK, BP du tueur, retrait des systèmes anti-tunnel et anti-slug
+- 9.6.0 (544) : Diminishing Returns (règle de rôle et note de dev), barre de progression, Match Details
+- 10.0.0 (550) : Impaled (The Slasher)
+- 10.1.0 : protections de décrochage, Exile, timer de crochet en deux barres, MMR
+
+**Pages wiki clés** (via l'audit) : Generators, Skill Checks, Hooks, Resolve / Camping, Dying State, Health States, Healing, Status Effects, Elusive, Endurance, Exhausted, Terror Radius, Red Stain, Scratch Marks, Pools of Blood, Crows, Chests, Totems, Hatch, Exit Gates, Endgame Collapse, Bloodpoints, Offerings.

@@ -1,15 +1,12 @@
 # 13. Base d'erreurs et arbres de décision
 
-Ce chapitre rassemble deux outils de progression. Ils se complètent : la **base d'erreurs** sert à se diagnostiquer, les **arbres de décision** à décider en partie.
-
-1. **La base d'erreurs** : 51 erreurs de survivant, classées du niveau débutant au niveau très avancé. Chacune suit le format **Erreur → Pourquoi → Punition → Correction → Drill**. On l'utilise en revue de partie : « quelle erreur m'a coûté cet état de santé ? »
-2. **Les arbres de décision** : 9 arbres (palette, quitter la tile, crochet, soin, gen/99, totem, slug, endgame, trappe). Chacun ordonne les questions à se poser dans une situation donnée. Il comporte un schéma ASCII, une justification pour chaque feuille (action · pourquoi · risque · alternative) et ses variantes SoloQ / SWF.
+Deux outils complémentaires : la **base d'erreurs** (51 erreurs de survivant, du débutant au très avancé, au format **Erreur → Pourquoi → Punition → Correction → Drill**) sert à se diagnostiquer en revue ; les **9 arbres de décision** (palette, quitter la tile, crochet, soin, gen/99, totem, slug, endgame, trappe) servent à décider en partie. Chaque arbre a un schéma ASCII, une justification par feuille et ses variantes SoloQ / SWF.
 
 > **À retenir** : aucune ligne de ce chapitre n'est une règle absolue. Chaque correction et chaque feuille dit **quand** elle s'applique, **ce qu'elle risque** et **quelle est l'alternative**. Un arbre ordonne des questions. Il ne donne pas « la » réponse.
 
 **Version de référence** : LIVE 10.1.2a (17/09/2026), mode 1v4 uniquement (rien du 2v8 n'est transposé ici). Le PTB 10.2.0 (Survivor Intent System, refonte d'Abandon/Surrender, 58 perks modifiées) **n'est pas LIVE**. Rien ici n'en dépend. Les entrées qu'il pourrait changer portent la mention « à revoir après 10.2.0 ».
 
-**Limite de fond** : les deux sources de ce chapitre (`kb/research/batch11_training.md`, `kb/deliverables/DECISION_TREES.md`) ont été rédigées et auditées **sans VOD, sans coach, sans statistique**. Les chiffres cités sont des valeurs vérifiées de l'audit phase 0 ou des notes officielles, avec leur confiance. Le reste est un raisonnement de joueur, étiqueté [HEURISTIQUE], [SITUATIONNEL] ou [HYPOTHÈSE]. Les seuils de rédacteur (délais, pourcentages de gen, distances) sont [INCERTAIN].
+**Limite de fond** : les sources de ce chapitre ont été rédigées et auditées **sans VOD, sans coach, sans statistique**. Seuls les chiffres marqués [FACT] sont vérifiés ; le reste est un raisonnement de joueur, et les seuils de rédacteur (délais, pourcentages, distances) sont [INCERTAIN].
 
 ---
 
@@ -33,44 +30,38 @@ Ce chapitre rassemble deux outils de progression. Ils se complètent : la **base
 | Constante | Valeur LIVE | Confiance |
 |---|---|---|
 | Gen | 90 charges, +1 c/s → **90 s solo** ; à 2 / 3 / 4 réparateurs : ~52,9 / ~42,9 / ~40,9 s | (VM) valeur / (SS) coop |
-| Skill check | raté : −10 % + 3 s sans progression ; Great : +1 % | (SS) |
 | Coup de pied (kick) | −5 % puis −0,25 c/s ; il faut réparer **5 %** pour stopper la régression ; 8 regression events max par gen | (VM), 7.5.0 |
 | Phase de crochet | **70 s** ; 3e accrochage = mort | (VP), 8.2.0 |
 | Protections de décrochage | Endurance + 10 % Haste pendant 10 s + Elusive 10 s (Elusive absente une fois les portes alimentées) ; Endurance perdue sur action voyante | (VP) 10.1.0 / (SS) annulation |
 | Anti-camp | rayon **16 m**, rien au-delà ; poids 4 m ×2,5 / 10 m ×1 / 15 m ×0,375 / 16 m ×0 ; ×2 après 10 s, ×4 après 20 s ; grâce de 7 s à chaque accrochage ; ralenti par les survivants à < 16 m ; coupé quand les portes sont alimentées ; **taux de base inconnu** depuis 9.3.0 | (VM) 16 m / (SS) poids / (INC) taux |
 | Fin à 2 survivants | tous les survivants restants accrochés = sacrifice ; 2 skill checks de lutte manqués = mort ; Mori possible si l'un est en Struggle et l'autre au sol | (VP) 9.0.0 / 9.1.0 |
 | Soin | 16 s par état ; Mangled +25 % de durée ; Deep Wound 20 s, mending 10 s seul / 6 s par un allié ; nombre max de soigneurs : 2 (wiki) ou 3 (seed) | (SS) / (VP) 8.6.0 / (INC) soigneurs |
-| Au sol | récupération auto jusqu'à 95 % en 30,4 s (« à l'arrêt » selon le wiki) ; bleed-out 240 s | (VM) / (SS) |
 | Vitesses | survivant 4,0 m/s ; tueurs 4,6 ou 4,4 m/s (Nurse 3,85) | (VM) |
 | Coup | boost survivant 1,8 s ; cooldown tueur 2,7 s après un coup réussi, 1,5 s après un raté | (VP) / (VM) |
 | Fenêtres | fast 0,5 s (≥ 2,5 m de course droite, garde l'élan, bruyant) · medium 0,9 s · slow 1,5 s ; tueur 1,7 s ; bloquée **30 s pour toi seul** après ton 3e vault de la même fenêtre dans la même poursuite | (SS) |
 | Palettes | stun 2 s (palette abaissée à ~50 % au moins) ; casse **2,34 s** ; Enduring −40/45/50 % sur le stun | (VM) casse / (SS) |
 | Bloodlust | +0,2 / +0,4 / +0,6 m/s à 15 / 25 / 35 s de poursuite ; perdue sur casse, coup réussi, ou usage des pouvoirs listés par le wiki ; effet d'un stun : non documenté | (VM) / (SS) / (INC) |
-| Poursuite | fin : > 18 m, LOS perdue > 8 s, 5 s en casier… | (SS) |
-| Totems | purification 14 s ; Boon 14 s (28 s sur un Hex) | (SS) |
-| Portes / EGC | porte 20 s, progression conservée ; EGC 120 s, à moitié vitesse si un survivant est au sol ou accroché | (SS) |
 | Match Details (9.6.0) | loadouts des coéquipiers visibles ; tueur révélé dès qu'un survivant entre en poursuite ou perd un état ; **loadout du tueur caché jusqu'à la fin** | (VP) |
-| Corbeaux AFK | 80 / 100 / 120 s d'inactivité | (VP) 9.3.0 |
 
 > **Erreur fréquente** : croire que les pouvoirs qui annulent une palette la cassent tous « instantanément ». La liste de l'audit phase 0 a été corrigée par l'errata : Knight (gardes) casse en 1,8 s ou 5 s ; Lich + Vorpal Sword casse en 4 s ; Mastermind et Good Guy ne cassent qu'avec un add-on (Lab Photo, Hard Hat) ; Shape, Executioner, Nemesis, Singularity et The First manquaient. Liste complète corrigée en §13.4 (E-A03).
 
 ### 13.1.3 L'économie en secondes (calculs à réutiliser)
 
-- **Une seconde de poursuite** vaut les charges produites ailleurs pendant cette seconde. Avec 3 coéquipiers sur 3 gens différents, 3 c/s, soit **1/30 de gen par seconde** (audit A-267 : le « 1/3 de gen » du seed est faux). 60 s de chase donnent donc au plus ~2 équivalents-gen, et c'est un **plafond** (sans trajets, ratés, régression). Ces charges sont réparties sur 3 gens : il se peut qu'aucun ne soit terminé pendant la chase. Si l'équipe soigne, se cache ou marche pendant ce temps : ~0 gen.
+- **Une seconde de poursuite** vaut les charges produites ailleurs pendant cette seconde : avec 3 coéquipiers sur 3 gens différents, **1/30 de gen par seconde** (le « 1/3 » du seed est faux, A-267). 60 s de chase ≈ 2 équivalents-gen au **plafond** (sans trajets, ratés ni régression), répartis sur 3 gens ; ~0 si l'équipe soigne ou se cache.
 - **Une palette cassée** : 2,34 s d'immobilité du tueur, soit ~9,4 m d'avance (4,0 × 2,34). Un tueur 4,6 m/s met ~15,6 s à refermer ces 9,4 m, un tueur 4,4 m/s ~23,4 s (calcul, ligne droite, sans fente ni Bloodlust : plafond théorique).
 - **Un stun** : 2 s de gel (moins avec Enduring), puis souvent 2,34 s de casse ou un détour.
 - **Un soin altruiste** : 16 s pour le soigné + 16 s pour le soigneur = 32 secondes-survivant ≈ **0,36 gen**. Un état de santé rapporterait ~12-30 s de chase [HYPOTHÈSE, lot 9 corrigé]. Le soin est rentable dans le cas idéal (3 alliés qui réparent), proche de l'équilibre avec 2 réparateurs, et perdant avec un trajet, contre un tueur à coup unique ou si le soigné n'est pas le prochain chassé.
 - **Un état de crochet** : l'équipe dispose de 4 × 2 = 8 états « survivables » avant les morts. Chaque état perdu réduit la marge de tous.
 
-> **Note avancée** : la valeur d'une seconde de chase est **brute**, pas contrefactuelle. Si tu n'étais pas poursuivi, le tueur mettrait la pression sur quelqu'un d'autre, et une partie de ces charges serait produite quand même. La durée de chase seule ne dit presque rien : juge une chase au **temps gagné par ressource consommée**.
+> **Note avancée** : cette valeur est **brute** : sans toi, le tueur presserait quelqu'un d'autre. Juge une chase au **temps gagné par ressource consommée**, pas à sa durée.
 
 ---
 
 ## 13.2 Comment lire la base d'erreurs
 
-- **Le niveau d'une erreur** est celui où elle devient le **principal frein**. Un joueur avancé peut encore commettre des erreurs débutant, mais elles ne sont plus ce qui le plafonne.
+- **Le niveau d'une erreur** est celui où elle devient le **principal frein** (un joueur avancé commet encore des erreurs débutant, mais elles ne le plafonnent plus).
 - **Tags de domaine** : `CHASE` · `TILE` · `MACRO` · `SOIN` · `CROCHET` · `SOLOQ` · `SWF` · `ENDGAME` · `COUNTER` (counterplay d'un tueur) · `INFO`.
-- **Chaque correction dit quand elle ne s'applique pas.** Plusieurs erreurs vont par paires opposées (gaspiller une palette / la garder trop longtemps, soigner toujours / ne jamais soigner, quitter le gen trop tôt / trop tard). Corriger l'une en tombant dans l'autre n'est pas un progrès.
+- **Chaque correction dit quand elle ne s'applique pas.** Plusieurs erreurs vont par paires opposées (§13.6.2) : corriger l'une en tombant dans l'autre n'est pas un progrès.
 - **Drill** : chaque erreur renvoie à un exercice `DR-xx` (liste en §13.6). Le détail des drills, du programme et de la fiche de revue se trouve dans `kb/research/batch11_training.md` (§3 à §6) et `kb/deliverables/TRAINING_PROGRAM.md`.
 
 **Méthode de revue en 3 questions** [HEURISTIQUE] :

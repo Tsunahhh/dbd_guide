@@ -1021,3 +1021,75 @@ Détail : `kb/research/batch4_killers_g6.md` §42.
 
 Détail : `kb/research/batch4_killers_g6.md` §43.
 
+## 44. The Judgment [Expert]
+
+*Archétype : ranged (Divine Light) + zone + alternative au crochet (Exile) + pression passive (Heresy). Sorti en 10.1.0 (25/08/2026). Pas de nom réel.*
+
+**Version : la fenêtre de courbe** (contrôle conservé **après** la projection) a changé à chaque hotfix (VM) :
+
+```
+10.1.0  : 0,3 s en Zealous, aucune hors Zealous
+10.1.1  : 0,6 s en Zealous
+10.1.2  : 0,8 s en Zealous + 0,3 s hors Zealous ; exilés libérés à >= 32 m, 1 s d'immunité
+10.1.2a : 0,6 s en Zealous, PLUS AUCUNE hors Zealous   <- LIVE (17/09/2026)
+          (la réapparition à >= 32 m de 10.1.2 reste LIVE)
+```
+
+BHVR justifie le retour arrière de 10.1.2a par des performances qui avaient « explosé » après 10.1.2 (VP).
+
+**Données LIVE**
+
+| Paramètre | Valeur | Conf. |
+|---|---|---|
+| Vitesse / TR / taille | 4,4 m/s ; 32 m ; **grande** | VM |
+| Divine Light (contrôle) | Colonne (rayon 0,6 m, 16 m de haut) qui s'éloigne de lui en suivant sa caméra ; **ne touche pas les survivants pendant le contrôle** ; **traverse les obstacles** (ralentie ×0,7) ; 3 s max ; aura visible à ≤ 48 m | VM |
+| Projection | Délai sans effet **0,9 s** (contrôle court) à **0,3 s** (après ≥ 1 s de contrôle), puis phase létale : blessure + **Heresy** ; cooldown 6 s | VM |
+| Heresy (provocation) | **3 accroupissements ou gestes à ≤ 10 m de lui**, ou **45 s dans le seuil d'une porte de sortie** | SS |
+| Effets de l'Heresy | **Seul un hérétique au sol peut être exilé** ; un **Good** sur un gen = −3 % ; porte bloquée **8 s** pour lui si l'Heresy est acquise à ≤ 32 m d'une porte | VM / SS |
+| **Repent** | Interagir avec un Shrine of Judgment lance le retrait de l'Heresy, qui s'écoule en **30 s** (rester au Shrine ou non : non précisé) | VP / INC |
+| **Exile** | Compte comme un crochet **sans déclencher les perks de crochet** ; **un hérétique qui a déjà 2 états de crochet est tué** ; Seeds of Punishment : −3 s de timer par touche ; âmes (max 10) : +0,5 s chacune aux protections de décrochage basekit | VP / VM |
+| Sauvetage | Un allié prie à l'un des **2 Shrines les plus proches du Judgment** ; l'exilé réapparaît à 8-16 m du Shrine et **à ≥ 32 m du Judgment**, 1 s d'immunité | VM |
+| Zealous | 60 s après un exil : taille +10 %, projection +50 %, cooldown −20 %, **0,6 s de contrôle après projection** | VM |
+
+**Identification** : grande silhouette à 4,4 m/s, Shrines sur la map, colonne de lumière visible. Un survivant qui disparaît au sol au lieu d'être accroché = Exile.
+
+**Ce qu'il cherche** : une LOS prolongée pour guider la colonne, puis une projection quand tu es engagé sur une trajectoire. **Hors Zealous, la trajectoire est figée à la projection** [FACT, 10.1.2a].
+
+**Tiles** : un mur **n'arrête pas** la lumière (elle traverse) ; les tiles hauts et fermés servent à **cacher ta position**, pas à bloquer l'attaque. Traverser une colonne **encore contrôlée** est sans danger : si nécessaire, la traverser **perpendiculairement et d'un seul trait** (≈ 0,3 s pour 1,2 m, soit le délai minimal) [HEURISTIQUE fondée sur FACT]. Défavorables : tiles bas, open.
+
+**Counterplay par couche**
+
+- **Mécanique** : **dodge au moment de la projection, pas pendant le contrôle**. Après ≥ 1 s de contrôle, le délai n'est plus que 0,3 s → décalage immédiat ; après un contrôle court, tu as jusqu'à 0,9 s. En **Zealous**, il corrige encore 0,6 s : **casser la LOS** plutôt qu'esquiver. S'il retarde la projection pour attendre ton dodge, varier le moment.
+- **Positionnel** : pas d'accroupissements ni de gestes répétés à ≤ 10 m de lui ; ne pas rester dans le seuil d'une porte ouverte.
+- **Macro — faut-il Repent ?** La raison principale n'est pas la régression : un hérétique au sol peut être **exilé** (pas de perks de crochet, sauvetage près de lui) et, à 2 états de crochet, **tué sur place** [FACT]. Donc [HEURISTIQUE] :
+  - **2 états de crochet** : Repent en priorité dès que tu es hérétique et hors chase ;
+  - **0-1 état** : Repent si un Shrine est proche ou si l'équipe compte sur des perks de décrochage ;
+  - coût sur les gens : pire cas (que des Good) ≈ gen solo 22 % plus lent ; moitié de Great ≈ 11 % ; un Great ne coûte rien → hérétique, **viser les Great**.
+- **Endgame** : la porte n'est bloquée (8 s) que pour l'hérétique, et seulement si l'Heresy a été acquise à ≤ 32 m d'une porte → laisser un non-hérétique ouvrir, ou accepter les 8 s si le tueur est loin ; purger d'abord à 2 états.
+- **Équipe / Exile** : dans l'Exile, esquiver les Seeds (−3 s chacune) et collecter les âmes (jusqu'à +5 s de protections, sauf une fois tous les gens faits). Le sauveteur prie à un Shrine souvent proche du tueur : attendre qu'il soit engagé ailleurs. L'exilé réapparaît à ≥ 32 m : **le sauveteur ne peut pas le couvrir**, chacun gère sa fuite.
+
+**Erreurs classiques** [HEURISTIQUE] : teabag ou crouch spam près de lui ; attendre dans la porte ouverte (45 s = Heresy) ; rester hérétique à 2 états de crochet ; réparer hérétique sans viser les Great ; compter sur Off the Record ou Borrowed Time contre un Exile.
+
+**Quand le counterplay habituel échoue** : l'anti-tunnel par perks de décrochage échoue contre l'Exile. Deux réponses : des perks indépendantes du crochet (le seed cite Distortion, Boon: Shadow Step, Self-Preservation… **[INCERTAIN]**), et surtout **rester non-hérétique** : un non-hérétique est accroché normalement et tes perks de décrochage gardent leur valeur. Les protections de décrochage basekit (Endurance + Haste 10 % + Elusive) s'appliquent bien à la sortie d'Exile (VM).
+
+**Add-ons qui changent la décision**
+
+| Add-on | Effet LIVE | Décision du survivant |
+|---|---|---|
+| Chains of the Heretic | En Zealous, la lumière projetée revient **vers le Judgment** | Sortir de l'axe colonne → Judgment ; le danger est entre la lumière et lui |
+| Mirror of the Creators | La lumière rebondit sur 2 obstacles (0,4 s de pause par rebond) | S'éloigner de l'axe au lieu de se coller au mur |
+| Obsidian Feather | Projection **automatique** à la fin du contrôle (≈ 2,25 s) | Dodger ≈ 2,25 s après l'apparition de la colonne |
+| Eyes of Gerhardt | Un hérétique qui finit un gen, ouvre une porte ou sort d'un casier révèle tous les hérétiques 5 s | Purger avant de finir un gen ou d'ouvrir une porte |
+| Superheated Glass | En Zealous, la lumière casse palettes et murs ; survivants à ≤ 12 m hérétiques | En Zealous, ne pas compter sur une palette posée ; s'en éloigner à > 12 m |
+
+> **À retenir** : contre le Judgment, l'état qui compte n'est pas « blessé ou sain » mais « **hérétique ou non** ». À 2 états de crochet, l'Heresy est une condamnation à mort différée : Repent avant toute autre chose.
+
+Détail : `kb/research/batch4_killers_g6.md` §44.
+
+## Sources du chapitre
+
+- Fiches de recherche (auditées et re-vérifiées le 27/09/2026 sur pages wiki complètes + notes officielles) : `kb/research/batch4_killers_g4.md` (23-30), `kb/research/batch4_killers_g5.md` (31-37), `kb/research/batch4_killers_g6.md` (38-44).
+- Corrections prioritaires : `kb/ledgers/AUDIT_PHASE0_ERRATA.md` (Good Guy, Lich, Mastermind, Knight, casseurs de palette) ; audit `kb/audit/pass14_lot4_g4-g6.md`.
+- Principes transversaux : `kb/deliverables/KILLER_COUNTERPLAY_HANDBOOK.md` (§2.2 pré-drop), chapitre 7.
+- Pages wiki.gg complètes (copies locales `kb/sources/wiki_killers/`) : pages des 22 personnages, page Pallets, Vorpal Sword, Treasure Chest.
+- Notes officielles BHVR (`kb/sources/patches/official_*.txt`) : 9.0.0 (KB 510), 9.0.2 (512), 9.1.0 (516), 9.2.0 (523), 9.2.1 (524), 9.2.2 (525), 9.3.0 (529), 9.3.2 (530), 9.4.0 (534), 9.4.2 (536), 9.5.0 (538), 9.5.1 (539), 9.5.2 (541), 9.6.0 (544), 10.0.0-10.0.3 (550-553), 10.1.0 (556), 10.1.1 (557), 10.1.2 / 10.1.2a (558) ; PTB 10.2.0 (559, **non LIVE**, utilisé seulement pour écarter les textes PTB affichés par le wiki).
