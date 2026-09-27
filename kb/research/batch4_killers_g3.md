@@ -189,32 +189,54 @@
 - **Sources** : [7], [17], [25], [23], [1], [2].
 
 ## 20. The Executioner (Pyramid Head) — archétype(s) : ranged | zone | anti-loop
-- **Version** : buffs 9.1.0 (29/07/2025, détail non documenté dans l'audit) [1]. Statut LIVE.
-- **Données LIVE** :
-  - Vitesse 4,6 m/s (4,2 m/s en traçant) ; TR 32 m ; grand — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN.
-  - Rites of Judgement : Torment Trails au sol ; survivant qui les franchit **sans être accroupi** → Tormented — FACT de principe.
-  - Punishment of the Damned : onde au sol qui **traverse** palettes, fenêtres et murs — FACT de principe ; portée/coût/recharge (seed : ~10 m, 2 charges, 2,25 s) — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN.
-  - Cage of Atonement : un Tormented à terre peut être mis en cage au lieu d'un crochet — FACT de principe.
-  - Final Judgement : exécute un Tormented déjà en phase finale (Struggle) — UNCERTAIN sur la formulation 2026.
-- **Identification** : TR 32 m ; traînées rouges au sol ; bruit de l'onde ; cages loin de lui — HEURISTIC. Stratégie : punir les fins de boucles, cages pour gagner du temps, Final Judgement pour les 2e crochets — HEURISTIC.
-- **Ce qu'il cherche en chase** : vous fixer derrière une palette/fenêtre/mur fin puis lancer l'onde à travers — HEURISTIC.
+- **Version** (tranche du lot 12b) :
+  - 9.1.0 [13] : portée de Punishment of the Damned **8 → 10 m** ; tracé max de Rites of Judgement **5 → 10 s** ; durée de vie des traînées **75 → 90 s** ; vitesse en traçant **4,4 → 4,2 m/s** ; commandes maintenables ; survivant sauvé d'une cage : **10 % Haste + Endurance 10 s** ; refonte de nombreux add-ons. VERIFIED_MULTI_SOURCE [8][13]. Conséquence notée par le wiki : la recharge passe de 20 à 40 s (taux inchangé).
+  - 9.2.3 [15] : sauver un survivant d'une cage **ne déclenche plus** de notification de bruit fort. VERIFIED_PRIMARY.
+  - 9.3.0 : bonus de sortie de cage portés à 15 s ; 10.1.0 [20] : retour à 10 s + Elusive, comme pour le décrochage [8]. VERIFIED_MULTI_SOURCE.
+  - 10.1.2 [21] : « Punishment of the Damned width +2 m » est une ligne **2v8 uniquement**, pas en 1v1.
+  - PTB 10.2.0 : aucun changement. Statut LIVE.
+- **Données LIVE** (page wiki [8] et page Cages [11], STRONG_SECONDARY sauf mention) :
+  - Vitesse 4,6 m/s ; **4,2 m/s en traçant** (VERIFIED_MULTI_SOURCE) ; 3,68 m/s pendant le lancement ou l'annulation de l'onde. **TR 32 m**, grand, pas de berceuse.
+  - Rites of Judgement : jauge de 10 charges, −1/s en traçant (**10 s** de tracé max), recharge complète en **40 s**. Activation et annulation : 1 s chacune. Traînées : **90 s**, aura visible pour lui à 32 m. Autour des gens et crochets (4 m), des portes et de la trappe (3 m), au sous-sol et dans les escaliers, les traînées disparaissent en ~3 s.
+  - Torment : toucher une traînée **sans être accroupi** donne Torment + Killer Instinct 3 s. Torment n'est retiré **qu'en sauvant quelqu'un d'une cage ou en étant sauvé d'une cage**.
+  - Punishment of the Damned : onde de **10 m** devant lui (VERIFIED_MULTI_SOURCE), qui part après 0,267 s et se propage segment par segment. Coûte 2 charges ; cooldown 2,25 s (touché, raté ou bloqué). Elle ne gravit pas une pente de plus de 42°. Elle **traverse les murs** : FACT (la note 9.1.2 [26] corrige un cas où elle « ne traversait pas des murs et encadrements de porte praticables »).
+  - Cage of Atonement (FACT [8][11]) :
+    - Un survivant Tormented au sol peut être envoyé en cage (1 s) au lieu d'être accroché. La cage fait progresser les phases **comme un crochet**.
+    - Les cages apparaissent **le plus loin possible du tueur**, sur 6 emplacements prédéfinis. Le tueur **ne voit pas leur aura**.
+    - **Relocalisation** : si l'Executioner reste à 10 m ou moins pendant 3,5 s, la cage se déplace ailleurs et le sacrifice est mis en pause (anti-camp).
+  - Final Judgement : exécution sur place (mini-mori) d'un survivant **Tormented au sol qui a déjà atteint la 2e phase** [8]. C'est donc un survivant qui mourrait à son prochain crochet ; il meurt au sol, sans crochet.
+- **Identification** : TR 32 m ; traînées rouges au sol ; bruit de l'onde ; cages loin de lui — HEURISTIC. Stratégie : punir les fins de boucle, envoyer en cage pour gagner du temps, Final Judgement pour les survivants en 2e phase — HEURISTIC.
+- **Ce qu'il cherche en chase** : vous fixer derrière une palette, une fenêtre ou un mur fin, puis lancer l'onde à travers — HEURISTIC.
 - **Tiles / structures** :
-  - Favorables : tiles longues, murs épais/plein angle droit, éviter les murs fins ; jouer la distance latérale — HEURISTIC.
+  - Favorables : tiles longues, murs épais et angles droits pleins ; jouer la distance latérale, à plus de 10 m quand c'est possible — HEURISTIC fondé sur [8].
   - Défavorables : fillers bas, palettes courtes (il frappe à travers), couloirs étroits en ligne — HEURISTIC.
   - Fenêtres vs palettes : la palette ne protège pas contre l'onde ; elle sert à gagner de la distance, pas à « se cacher » derrière — HEURISTIC.
-- **Mindgames propres** : faux lancer ; traçage de la tile pour vous forcer à choisir entre crouch (lent) et Tormented — HEURISTIC.
+- **Mindgames propres** : faux lancer ; traçage de la tile pour vous forcer à choisir entre vous accroupir (lent) et prendre Torment — HEURISTIC.
 - **Counterplay** :
-  - Mécanique : bouger latéralement par rapport à son axe au moment du lancer ; ne pas rester aligné avec lui derrière une palette — HEURISTIC.
-  - Positionnel : s'accroupir pour traverser les traînées hors chase — FACT de principe (évite Tormented ; requalifié P14, cohérent avec la ligne « Rites of Judgement ») ; coût calculé : accroupi 1,13 m/s contre 4,0 m/s en course [AUDIT] → traverser 3 m de traînée prend ~2,7 s au lieu de 0,75 s ; en chase, accepter parfois le Tormented pour garder la distance — HEURISTIC/SITUATIONAL.
-  - Macro : sauver les cages vite (le chrono de phase continue comme un crochet — UNCERTAIN), surtout celles des survivants proches de Final Judgement — HEURISTIC.
-  - Équipe : l'emplacement des cages éloigne les sauveteurs ; en SWF, désigner le sauveteur le plus proche ; en SoloQ, y aller si l'on est le plus proche d'après le HUD et que personne ne bouge — HEURISTIC.
-- **Habitudes punissables** : traverser les traînées debout sans nécessité ; rester collé derrière une palette ; ignorer une cage. **Erreur classique** : croire que les fenêtres/palettes bloquent l'onde.
-- **Adaptations avancées** : contre un joueur qui trace toutes les tiles, préférer changer de tile tôt plutôt que d'accumuler les tours « Tormented » ; sur carte intérieure, les murs sont traversés → privilégier la distance — HEURISTIC.
-- **Add-ons qui changent la décision** : NON VÉRIFIABLE. Seed : Iridescent Seal of Metatron, Obsidian Goblet (onde casse palettes/murs), Burning Man Painting, Valtiel Sect Photograph, Scarlet Egg. Règle : **si l'effet est observé** (onde qui casse les palettes selon le seed ; l'Executioner est absent de la liste audit des casses par pouvoir, UNCERTAIN) → ne plus lâcher une palette pour le bloquer, filer vers la tile suivante — HEURISTIC.
+  - Mécanique : bouger latéralement par rapport à son axe au moment du lancer (0,27 s avant le départ de l'onde, puis propagation sur 10 m) ; ne pas rester aligné avec lui derrière une palette — HEURISTIC fondé sur [8].
+  - Positionnel : s'accroupir pour traverser les traînées hors chase (évite Torment, FACT [8]). Coût calculé : accroupi 1,13 m/s contre 4,0 m/s en course [AUDIT], donc traverser 3 m de traînée prend ~2,7 s au lieu de 0,75 s. En chase, accepter parfois Torment pour garder la distance — HEURISTIC/SITUATIONAL.
+  - Macro :
+    - Sauver les cages vite : le chrono progresse comme sur un crochet (FACT [8][11]). Priorité absolue à un survivant Tormented en 2e phase : au sol, Final Judgement le tue sans crochet (FACT [8]).
+    - Sauver une cage retire Torment au sauveteur comme au sauvé (FACT [8]) : un sauveteur Tormented y gagne doublement.
+    - Le sauvetage ne déclenche plus de bruit fort (9.2.3), et le sauvé reçoit 10 % Haste + Endurance 10 s + Elusive 10 s (10.1.0) — VERIFIED_MULTI_SOURCE.
+  - Équipe : l'emplacement des cages (loin de lui) éloigne les sauveteurs. En SWF, désigner le sauveteur le plus proche ; en SoloQ, y aller si l'on est le plus proche d'après le HUD et que personne ne bouge — HEURISTIC.
+- **Habitudes punissables** : traverser les traînées debout sans nécessité ; rester collé derrière une palette ; ignorer une cage ; laisser au sol un Tormented en 2e phase. **Erreur classique** : croire que les fenêtres, palettes ou murs bloquent l'onde.
+- **Adaptations avancées** : contre un joueur qui trace toutes les tiles, préférer changer de tile tôt plutôt que d'accumuler les tours avec Torment ; en intérieur, les murs sont traversés, donc privilégier la distance (plus de 10 m) — HEURISTIC.
+- **Add-ons qui changent la décision** (noms et effets LIVE lus sur [8], refonte 9.1.0 [13]) :
+  - Obsidian Goblet (l'onde casse palettes et murs au contact ; cooldown +20 %) → ne plus lâcher une palette pour le bloquer : filer vers la tile suivante.
+  - Iridescent Seal of Metatron (portée de base −50 %, puis jusqu'à +200 % en traçant ; remise à zéro après un coup) → après un long tracé, fuir bien au-delà de 10 m au lieu de se croire hors de portée. La portée max exacte dépend de la base du +200 % (UNCERTAIN).
+  - Lead Ring (portée +25 %, soit 12,5 m, largeur −25 %) → garder ~13 m ; Black Strap (largeur +25 %, portée −25 %) → l'esquive latérale devient plus difficile, jouer la distance.
+  - Tablet of the Oppressor (Undetectable en traçant) → pas de TR pendant qu'il trace : surveiller les traînées rouges à l'œil.
+  - Valtiel Sect Photograph (TR −2 m par survivant Tormented, jusqu'à −8 m) → avec beaucoup de Tormented, un TR faible ne veut pas dire tueur loin.
+  - Scarlet Egg (un Tormented qui court crée ses propres traînées, 5 s ; le tueur ne voit plus l'aura des traînées) → Tormented : ne pas courir à travers le groupe ou près d'un gen partagé, pour ne pas tormenter les coéquipiers.
+  - Crimson Ceremony Book (Haemorrhage + Mangled 80 s sur un coup d'onde), Lost Memories Book (Oblivious 80 s) ou Misty Day, Remains of Judgement (aura 8 s) → après un coup d'onde, casser la LOS et s'éloigner avant de se soigner, au lieu de se soigner sur place.
+  - Mannequin Foot (Exhausted 10 s au contact d'une traînée) → traverser debout coûte aussi votre perk d'exhaustion : s'accroupir si elle est prête.
+  - Spearhead (aura du sauveteur 8 s après un sauvetage de cage) → après le sauvetage, rejoindre une LOS au lieu de rester à la cage.
+  - Copper Ring (tracé +5 s, soit 15 s) → plus de traînées par chase : changer de tile encore plus tôt.
 - **Implications de carte** : intérieurs et murs fins (Midwich, Lery's) le favorisent — HEURISTIC/SITUATIONAL.
-- **Perks fréquentes / synergies** : Forced Penance, Trail of Torment, Deathbound (ses perks) ; Nowhere to Hide LIVE 24 m (18 m = PTB 10.1.0) [3] — VERIFIED via ledger.
-- **Écart avec le seed** : buff 9.1.0 OK (existence) ; « Final Judgement au 2e hameçon » IMPRÉCIS (concerne un survivant déjà en phase finale — UNCERTAIN) ; « la cage change de place si un autre survivant s'en approche » NON VÉRIFIABLE / douteux (UNCERTAIN) ; tier A vs kill rate 39,4 % : cohérent si difficulté (HEURISTIC).
-- **Sources** : [1], [2], [3].
+- **Perks fréquentes / synergies** : Forced Penance, Trail of Torment, Deathbound (ses perks [8]) ; Nowhere to Hide LIVE 24 m (18 m = PTB 10.1.0) [3] — VERIFIED via ledger.
+- **Écart avec le seed** : buffs 9.1.0 **OK** (portée 10 m, tracé 10 s, traînées 90 s, VERIFIED_PRIMARY [13]) ; 4,2 m/s en traçant OK ; « 2 charges » OK ; cooldown 2,25 s OK ; « Final Judgement au 2e hameçon » **IMPRÉCIS** (il vise un Tormented au sol **déjà en 2e phase**, c'est-à-dire après 2 crochets ou cages : c'est la 3e mise à terre qui est fatale, pas le 2e crochet) ; « la cage change de place si un autre survivant s'en approche » **FAUX** (c'est l'Executioner qui déclenche la relocalisation en restant à 10 m ou moins pendant 3,5 s [8][11]) ; tier A vs kill rate 39,4 % : cohérent si difficulté (HEURISTIC).
+- **Sources** : [8], [11], [13], [15], [20], [21], [26], [3], [1], [2].
 
 ## 21. The Blight (Talbot Grimes) — archétype(s) : mobilité | anti-loop
 - **Version** : nerf 9.6.0 (28/04/2026) : 4,6 → 4,4 m/s ; casser une palette au sol ramène les tokens de Rush à 2 sous le max et remet la recharge à 0 % [1] — VERIFIED_PRIMARY (via audit). Statut LIVE.

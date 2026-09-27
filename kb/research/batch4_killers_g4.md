@@ -289,34 +289,41 @@
 
 ## 29. The Mastermind (Albert Wesker) — archétype(s) : mobilité | anti-loop | infection (usure)
 
-- **Version** : **buffé en 9.6.0** (28/04/2026) — audit [2], STRONG_SECONDARY ; détail non lu (seed : 2e bond dans une fenêtre de 2,5 s, recovery 2,7 s, Loose Crank buffé, NON RE-VÉRIFIÉ). Refactor 9.5.0 (désynchronisation) : seed, NON RE-VÉRIFIÉ. Statut LIVE.
-- **Données LIVE** (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN) :
-  - 4,6 m/s (115 %), TR 40 m selon seed (voir Questions ouvertes), taille moyenne.
-  - Virulent Bound : 2 tokens, charge 1,5 s, bond ~7 m puis 2e bond ~14 m ; saisie = dégâts, projection contre un mur = infection accrue ; passe fenêtres et palettes.
-  - Uroboros : jauge 0-100 (0,8/s passif, +20 par contact) ; à 100 Hindered 4 % selon seed ; sprays (6 caisses, 2 usages, Killer Instinct 4 s).
-  - Casse de palette instantanée par Virulent Bound : listée par l'audit [2] (wiki Pallets, STRONG_SECONDARY, « liste à reconfirmer par le lot tueurs »).
-- **Identification** : bruit de charge de bond ; caisses de sprays sur la map ; icône d'infection Uroboros sur le HUD — HEURISTIC.
-- **Ce qu'il cherche en chase** : couloirs et zones ouvertes (élan), fenêtres vaultées sans avance, survivants près d'un mur (projection) — seed / HEURISTIC.
+- **Version** : 9.5.0 : refonte technique de Virulent Bound (désynchronisation, détection des collisions) — VERIFIED_PRIMARY [17]. **Buff 9.6.0** : récupération après bond 3 → **2,7 s**, recharge d'un jeton 5,5 → **5 s**, fenêtre du 2e bond (Chain Bound) 2 → **2,5 s** ; add-ons Loose Crank 8 → 15 %, Egg (Gold) 50 → 20 % — VERIFIED_MULTI_SOURCE ([9] changelog + note 9.6.0 [20]). **Attention** : la description du pouvoir sur la page wiki [9] n'a pas été mise à jour (elle dit encore « 2 seconds » et des cooldowns de 3 s) ; les valeurs LIVE sont celles de la note [20]. 9.6.1 : 2v8 seulement (jeton 5,5 s) [ne concerne pas le 1v4]. Rien au PTB 10.2.0 pour le pouvoir [23]. Statut LIVE.
+- **Données LIVE** (STRONG_SECONDARY [9] sauf mention) :
+  - 4,6 m/s (115 %), **TR 40 m**, taille moyenne (Average). CONFLICT-L4G4-03 RÉSOLU pour le Mastermind (40 m ; le seed avait raison).
+  - Virulent Bound : **2 jetons** (recharge 5 s chacun [20]) ; charge 1,5 s à 3,68 m/s ; 1er bond 0,5 s, 2e bond (dans la fenêtre de 2,5 s [20]) 1 s, à 14 m/s ; portée approx. **~7 m puis ~14 m** (valeurs approximatives selon la page) ; 2,76 m/s en marchant pendant la fenêtre.
+  - Collision avec un survivant : s'il **interagit** (gen, soin, unhook…) ou est protégé de l'état Dying, simple coup de tentacules = dégât direct (double dégât = à terre s'il est en infection critique) ; sinon il le **saisit** : s'il heurte un obstacle avant la fin du bond → dégât (si l'obstacle est un autre survivant, celui-ci est blessé + Deep Wound) ; sinon il **le projette** en ligne droite, dégât seulement si le survivant heurte un obstacle à ≤ 0,75 m pendant la projection ; le survivant projeté est immobilisé 1,9 s. Portes bloquées pour le survivant saisi pendant le bond + 5 s.
+  - **Virulent Vault** : en heurtant une palette baissée ou une fenêtre pendant un bond, il la **franchit** automatiquement (il ne la casse pas) ; un survivant juste derrière est touché. La casse de palette au bond n'existe **qu'avec l'add-on Lab Photo** (qui supprime alors le franchissement des palettes). Note 9.5.0 : Mastermind classé « **special-vault** », pas « special-break » — VERIFIED_MULTI_SOURCE ([9] + [17]). → l'affirmation « casse de palette instantanée par Virulent Bound » (audit [2], wiki Pallets) est **FAUSSE** en base.
+  - Cooldowns (page, avant 9.6.0) : 1,5 s après un franchissement ; 2 s en heurtant un mur/une palette ; 5 s après une projection ; les autres cooldowns de 3 s sont passés à **2,7 s** en 9.6.0 [20].
+  - Uroboros : +20 charges à chaque contact de bond ; +0,8/s passif (sauf accroché / à terre) ; **crochet = remise à 1** ; à 100 = **infection critique : Hindered −4 % permanent** (8 % avant 8.0.0) et **le prochain contact de bond fait double dégât (à terre depuis sain)**. Sprays : 6 caisses (aura visible des infectés), 1 spray à 2 usages par caisse, 5 s d'usage, Killer Instinct 4 s.
+- **Identification** : TR 40 m (plus large que la normale), bruit de charge de bond ; caisses de sprays sur la map ; jauge d'infection Uroboros sur les portraits — FACT [9] / HEURISTIC.
+- **Ce qu'il cherche en chase** : couloirs et zones ouvertes (élan), fenêtres vaultées sans avance, survivants près d'un mur (dégât à la collision), survivants en interaction (coup direct) — HEURISTIC fondé sur FACT [9].
 - **Tiles / structures** :
   - Favorables : tiles serrées, coudées, avec objets qui bloquent le bond ; bâtiments à plusieurs étages — HEURISTIC.
   - Défavorables : longues lignes, fenêtres isolées, champs ouverts — HEURISTIC.
-  - Palettes : la palette peut être franchie ou cassée par le bond (seed + [2] : Virulent Bound dans la liste des destructions instantanées, STRONG_SECONDARY, à reconfirmer) → pré-drop et départ, ne pas « tenir » une palette — SITUATIONAL. Raison : son pouvoir punit l'attente à la palette, **pas** parce que casser lui coûte (la casse est instantanée) ; la palette est perdue de toute façon (KCH §2.2 b). Limites : sans token de bond disponible (2 tokens selon seed), il redevient un M1 face à cette palette → drop normal ; contre un Mastermind qui attend le pré-drop sans lancer le bond, varier (départ sans drop, drop normal).
-- **Mindgames propres** : charge feinte ; 1er bond court pour se repositionner puis 2e bond (seed) → ne pas réagir au premier bond comme s'il était l'attaque — HEURISTIC.
+  - Palettes (corrigé) : **en base, le bond franchit la palette baissée sans la casser** [9][17] → la palette reste utilisable après son passage ; le danger est d'être **juste derrière** la palette ou la fenêtre quand il bondit (touché au passage [9]). Conduite : après avoir baissé / vaulté, ne pas rester collé derrière l'obstacle dans l'axe du bond ; s'écarter latéralement ou continuer vers la tile suivante — SITUATIONAL. Après un franchissement, il a 1,5 s de cooldown [9] → fenêtre pour re-jouer la palette dans l'autre sens. Sans jeton de bond, il redevient un M1 face à cette palette → drop normal ; avec **Lab Photo**, il casse la palette au bond mais ne peut plus la franchir → retour au schéma « pré-drop + départ ».
+- **Mindgames propres** : charge feinte ; 1er bond court pour se repositionner puis 2e bond dans les 2,5 s [20] → ne pas réagir au premier bond comme s'il était l'attaque — HEURISTIC.
 - **Counterplay** :
-  - Mécanique : au son de charge, demi-tour ou strafe serré ; forcer le bond contre un obstacle — HEURISTIC.
-  - Positionnel : éviter les murs derrière soi en espace ouvert (projection) — HEURISTIC.
-  - Macro : utiliser les sprays avant 100 si le Hindered est confirmé (seed) ; ne pas se soigner de l'infection quand il est proche (Killer Instinct) — SITUATIONAL.
-  - Équipe : éviter de se regrouper sur les sprays — HEURISTIC.
-- **Habitudes punissables / erreurs classiques** (HEURISTIC) : courir en ligne droite entre deux tiles ; vaulter une fenêtre avec peu d'avance ; tenir une palette « safe » comme contre un M1.
+  - Mécanique : au son de charge (1,5 s [9]), demi-tour ou strafe serré ; forcer le bond contre un obstacle — HEURISTIC.
+  - Positionnel : en espace ouvert, éviter d'avoir un mur ou un coéquipier juste derrière soi (la saisie ne fait des dégâts que si tu heurtes quelque chose [9]) — HEURISTIC fondé sur FACT.
+  - Interactions : **ne pas réparer / soigner / décrocher quand il a un bond prêt à portée** : un contact pendant une interaction = coup direct sans saisie [9] — HEURISTIC fondé sur FACT.
+  - Macro : l'infection critique arrive en 100 s de passif depuis la première infection (20 → 100 à 0,8/s) [9] ; se soigner **avant 100** (Hindered 4 % et surtout **à terre en un contact**) ; le spray déclenche un Killer Instinct de 4 s → le faire quand il est loin — SITUATIONAL. Un crochet remet l'infection à 1 [9].
+  - Équipe : éviter de se regrouper sur les caisses de sprays ; ne pas coller un coéquipier en chase (un survivant heurté par un survivant projeté est blessé + Deep Wound [9]) — HEURISTIC.
+- **Habitudes punissables / erreurs classiques** (HEURISTIC) : courir en ligne droite entre deux tiles ; vaulter une fenêtre avec peu d'avance et rester derrière ; réparer en infection critique ; considérer la palette « perdue » alors qu'il l'a seulement franchie.
 - **Adaptations avancées / échecs** (HEURISTIC) : sur maps ouvertes, le « tile-to-tile » échoue souvent → privilégier les zones denses même si elles ont moins de palettes.
-- **Add-ons qui changent la décision** (seed, NON RE-VÉRIFIÉ, UNCERTAIN) :
-  - Iridescent Uroboros Vial (tous infectés au départ, Exposed à 100 selon seed) → gérer l'infection dès le début, sprays prioritaires.
-  - Dark Sunglasses (Undetectable après infection complète d'un survivant) → surveiller l'état d'infection des coéquipiers comme signal.
-  - Loose Crank (vitesse entre les bonds) → distances de sécurité à augmenter.
-- **Implications de carte** : maps ouvertes (champs, Coldwind, Red Forest) = très forte mobilité ; maps intérieures étroites = bonds bloqués — HEURISTIC.
-- **Perks fréquentes / synergies** : Pain Resonance, Brutal Strength, Pop, Lethal Pursuer (seed) ; Superior Anatomy (vault plus rapide après fast vault proche), Terminus (endgame, Broken), Awakened Awareness (seed, UNCERTAIN).
-- **Écart avec le seed** : buff 9.6.0 : existence **OK** ([2]) ; valeurs du buff et TR 40 m : NON VÉRIFIABLE.
-- **Sources** : [1], [2].
+- **Add-ons qui changent la décision** (textes LIVE lus sur [9], valeurs 9.6.0 confirmées par [20]) :
+  - Lab Photo (casse palettes et murs cassables au contact pendant un bond ; ne franchit plus les palettes) → le survivant pré-drop et part au lieu de rejouer la palette après son passage.
+  - Iridescent Uroboros Vial (tous infectés dès le début ; Exposed 30 s en infection critique) → les survivants se soignent de l'infection bien avant 100 et vont chercher les sprays tôt au lieu de les garder pour plus tard.
+  - Dark Sunglasses (Undetectable 20 s chaque fois qu'un survivant atteint l'infection critique) → les survivants surveillent les jauges d'infection des coéquipiers comme alerte « approche sans TR » au lieu de se fier au TR de 40 m.
+  - Loose Crank (+15 % de vitesse pendant la fenêtre du 2e bond [20]) → le survivant garde plus de distance après le 1er bond au lieu de se croire à l'abri hors des ~14 m.
+  - Maiden Medallion (Blindness 60 s en infection critique) / Uroboros Virus (aura 4 s en infection critique) → le survivant se soigne avant 100 au lieu d'attendre.
+  - Video Conference Device (infection 30 % plus rapide) → le survivant avance son passage aux sprays.
+  - Helicopter Stick (aura 8 s après un spray) / Bullhorn (Oblivious 30 s après un spray) → le survivant se soigne loin de sa zone de réparation au lieu de juste à côté.
+- **Implications de carte** : maps ouvertes = très forte mobilité ; maps intérieures étroites = bonds bloqués — HEURISTIC.
+- **Perks fréquentes / synergies** : Awakened Awareness (auras à 16/18/20 m en portant un survivant), Terminus, Superior Anatomy (ses perks) ; Pain Resonance, Brutal Strength, Pop, Lethal Pursuer (seed, UNCERTAIN pour l'usage). **Superior Anatomy** : la page [9] affiche le texte **PTB 10.2.0** (bandeau « upcoming Patch 10.2.0 ») ; LIVE = fast vault d'un survivant à ≤ 12 m → **son prochain vault** de fenêtre plus rapide, cooldown 25 s (12 m et 25 s : note 9.0.0 [11]) ; au PTB : bonus 30/35/40 % pendant 10 s, cooldown 20 s [23] — PTB, pas LIVE. Terminus : Broken 35/40/45 s après l'ouverture des portes (note 9.0.0 [11]).
+- **Écart avec le seed** : buff 9.6.0 (2,5 s, 2,7 s, Loose Crank) : **OK** (VERIFIED_MULTI_SOURCE) ; TR 40 m : **OK** (conflit résolu) ; Hindered 4 %, 6 caisses, 2 usages, KI 4 s : **OK** ; « passe fenêtres et palettes » : **OK** ; **FAUX (erreur de l'audit [2], pas du seed)** : « casse de palette instantanée par Virulent Bound » (franchissement, pas casse ; casse seulement avec Lab Photo).
+- **Sources** : [1], [2], [9], [11], [17], [20], [23].
 
 ---
 

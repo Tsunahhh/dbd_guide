@@ -1,12 +1,12 @@
 # Lot 2 — Perks survivant, page 25 du guide seed (ch3_survperks.txt l. 308-421)
 
-**Couverture web : 18 éléments vérifiés par recherche (dont 3 partiellement : Conviction, Stake Out, Borrowed Time — PTB/9.3.0 seulement) / 9 non re-vérifiés (quota)** — total 27 perks.
+**Couverture : 27/27 perks re-vérifiées sur page wiki complète (27/09/2026) ; dont 11 confirmées par note officielle** (valeur LIVE : Built to Last, Tenacity, Any Means Necessary, Empathic Connection, Champion of Light, Counterforce, Conviction, Self-Preservation, Desperate Measures, Extrasensory Perception, Salvation's Cry) ; Stake Out et Borrowed Time : note officielle pour le PTB seulement.
 
 - Référence : **LIVE 10.1.2a (17/09/2026)** ; PTB 10.2.0 (15-21/09/2026) = **PTB, non LIVE**.
-- Méthode : WebSearch uniquement (WebFetch bloqué). Toutes les sources sont lues **via résumé de recherche** → confiance max STRONG_SECONDARY, sauf quand le résumé cite les patch notes officielles (alors VERIFIED_PRIMARY « via résumé »).
-- **Incident de méthode (FACT)** : le quota WebSearch **de la session** (200 appels, partagé entre tous les agents parallèles) a été épuisé après 26 recherches de ce lot. **10 perks n'ont pu recevoir aucune recherche** : Champion of Light, Counterforce, Urban Evasion, Cross-Examination, Wide Open Throttle, Desperate Measures, Dance With Me, Extrasensory Perception, Salvation's Cry, et l'état LIVE de Borrowed Time / Stake Out. Pour elles, le bloc est marqué **NON VÉRIFIÉ** ; tout ce qui y figure vient du seed ou de connaissances antérieures non sourcées (**UNCERTAIN**). À reprendre en priorité quand le quota sera relevé.
+- Méthode initiale (lot 2) : WebSearch uniquement (résumés). **Re-vérification lot 12a (27/09/2026)** : description LIVE 10.1.2a et change log 8.x-10.x des pages wiki.gg complètes (via API MediaWiki, `kb/sources/wiki_perks_digest.md`, brut `wiki_perks.json`) [23]-[49], croisées avec les notes officielles BHVR 9.x-10.x lues en local (`kb/sources/patches/official_*.txt`) [50]-[57]. Confiance : STRONG_SECONDARY (page wiki complète) ; VERIFIED_MULTI_SOURCE si une note officielle concorde ; VERIFIED_PRIMARY quand la note officielle contredit le wiki et fait foi (Built to Last).
+- Historique : au lot 2, le quota WebSearch avait laissé 9 perks sans aucune recherche (+ LIVE de Borrowed Time / Stake Out) ; elles sont toutes re-vérifiées ici et les mentions « NON VÉRIFIÉ » sont retirées.
 - Notes de valeur (0-3) = **HEURISTIC** (avis d'analyste, pas des données).
-- Le seed ne donne pas de mention PTB pour les perks non listées dans le PTB ; « non modifiée d'après les sources lues » ne vaut que pour les perks dont j'ai lu un résumé des notes PTB sans mention. La liste complète des 31 perks survivant du PTB **n'a pas été lue** en entier → PTB = UNCERTAIN par défaut.
+- PTB 10.2.0 : la note officielle 559 complète a été lue en local ; seules Empathic Connection, Self-Preservation, Stake Out et Borrowed Time de cette page y figurent.
 
 ---
 
@@ -71,12 +71,12 @@
 - **Effet LIVE** : à terre : récupération possible en rampant ; +30/40/50 % de Haste (vitesse de rampe) ; volume des gémissements −75 % ; **votre aura ne peut pas être lue** — VERIFIED_MULTI_SOURCE [27][52][53]
 - **Valeurs / CD / conditions / limites** : 30/40/50 % ; −75 % ; blocage d'aura à terre (ajouté en 9.2.0 et **conservé** en 9.3.0 : la note 9.3.0 ne revient que sur la Haste et la récupération [53]).
 - **PTB 10.2.0 (NON LIVE)** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [57][27].
-- **Interactions, DR, anti-synergies** : Haste de rampe (DR possible si autre Haste identique, HYPOTHESIS). Knock Out (killer) supprime la visibilité ; Deadlock/Deerstalker contrent.
+- **Interactions, DR, anti-synergies** : Haste de rampe (DR possible si autre Haste identique, HYPOTHESIS). Knock Out (killer) supprime la visibilité ; le blocage d'aura à terre (depuis 9.2.0 [27][52]) neutralise les lectures d'aura des survivants à terre (ex. Deerstalker : HYPOTHESIS forte d'après la description) ; Deadlock n'a pas d'interaction directe.
 - **Synergies (HEURISTIC / EXPERT OPINION)** : Unbreakable, Flip-Flop, Soul Guard, No Mither, Power Struggle (Flip-Flop pré-charge).
 - **Difficulté (HEURISTIC)** : 1
 - **Valeur (HEURISTIC)** : SoloQ 2 · SWF 1 · chase 0 · macro 1 · info 0 · anti-tunnel 1 · soin 0 · gen 0 · endgame 1
 - **Quand elle produit de la valeur (HEURISTIC)** : contre slug : ramper vers un allié/pallet tout en récupérant ; contre tueur qui perd la trace (gémissements réduits).
-- **Quand elle n'en produit pas (HEURISTIC)** : tueur qui accroche immédiatement ; tueurs à Deerstalker / auras.
+- **Quand elle n'en produit pas (HEURISTIC)** : tueur qui accroche immédiatement ; tueur qui suit le son ou les flaques de sang plutôt que les auras.
 - **Écart avec le seed** : OK sur les valeurs et le patch 9.3.0 [53] ; IMPRÉCIS : omet le blocage d'aura à l'état à terre (depuis 9.2.0 [52][27]).
 - **Sources** : [7] [8] [27] [52] [53]
 
@@ -252,7 +252,8 @@
 - **Interactions** : Elusive (FACT audit : supprime griffures, grognements, flaques de sang, bloque la lecture d'aura par le tueur ; fin si frappé/à terre).
 - **Difficulté (HEURISTIC)** : 2 (HYPOTHESIS)
 - **Valeur (HEURISTIC)** : SoloQ 1 · SWF 1 · chase 1 · macro 0 · info 0 · anti-tunnel 0 · soin 0 · gen 0 · endgame 0
-- **Quand elle produit de la valeur (HEURISTIC) / n'en produit pas** : non évaluable sans effet vérifié.
+- **Quand elle produit de la valeur (HEURISTIC)** : rotations dans le rayon de terreur hors poursuite : se placer sur les Light Marks donne Elusive (pas de griffures, sang, gémissements ni lecture d'aura) pour s'éloigner ou approcher un crochet.
+- **Quand elle n'en produit pas (HEURISTIC)** : en poursuite (inactive depuis 10.0.3 [40]) ; tueurs furtifs (sans rayon de terreur).
 - **Écart avec le seed** : IMPRÉCIS — omet la condition « hors poursuite » (nerf 10.0.3 [40]). Valeurs OK (10 s, 3/4/5 s).
 - **Sources** : [40]
 
@@ -290,7 +291,8 @@
 - **Interactions, DR** : Haste (DR avec Sprint Burst/Lithe etc. si identique, HYPOTHESIS).
 - **Difficulté (HEURISTIC)** : 3 (HYPOTHESIS)
 - **Valeur (HEURISTIC)** : SoloQ 1 · SWF 1 · chase 1 · macro 0 · info 0 · anti-tunnel 0 · soin 0 · gen 0 · endgame 0
-- **Quand elle produit de la valeur (HEURISTIC) / n'en produit pas** : non évaluable sans effet vérifié.
+- **Quand elle produit de la valeur (HEURISTIC)** : loops de palette où l'on peut enchaîner un fast vault : Haste + palette relevée et bloquée 60 s (le tueur ne peut pas la casser ni la franchir pendant ce temps : HYPOTHESIS sur « blocked by the Entity »).
+- **Quand elle n'en produit pas (HEURISTIC)** : zones sans palettes ; tueurs qui ignorent les palettes (Blight, Nurse) ; CD 60 s entre deux usages.
 - **Écart avec le seed** : OK (10/12,5/15 % 3 s, palette bloquée et visible 60 s, CD 60 s [43]).
 - **Sources** : [43]
 
