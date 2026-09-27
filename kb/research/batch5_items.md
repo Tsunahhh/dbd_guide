@@ -107,7 +107,7 @@ Toutes les valeurs : FACT [SS] (pages Items + Toolboxes, lues en entier).
 
 **Erreurs fréquentes** (HEURISTIC) :
 - Instructions avec Hyperfocus / Stake Out (le seed le signale correctement).
-- Toolbox près d'un tueur à pénalité de test (Unnerving Presence, Lullaby) : 40 %/s de tests = 5 fois plus de tests **par seconde** (≈ 3,3 fois plus **à progression égale**, CALC : la toolbox réduit aussi la durée), chaque raté est un bruit fort. Parade : Instructions (tests normaux seulement) ou une autre toolbox d'objet.
+- Toolbox près d'un tueur à pénalité de test (Unnerving Presence, Lullaby) : 40 %/s de tests = 5 fois plus de tests **par seconde** (≈ 3,3 fois plus **à progression égale**, CALC : la toolbox réduit aussi la durée), chaque raté est un bruit fort. Parades : Instructions (tests normaux seulement), ou ranger la toolbox sur un gen proche de ce tueur.
 - Brand New Part posée sur un gen à 70 % : risque maximal, gain identique.
 - Built to Last « en rotation » (voir §4.3 : avec les 14/12/10 s LIVE, le gain net est **nul ou négatif** hors situation de cachette).
 
@@ -129,6 +129,13 @@ FACT [SS] (Items, Med-Kits). Concorde avec l'audit (24 charges pour tous, 6.7.0)
 - **Un état de santé = 16 charges**. Soin altruiste sans kit : 16 s. Ranger : ~10,7 s ; Camping : ~11,9 s.
 - Auto-soin avec kit : 0,667 c/s → **~24 s par état**, et le kit perd 1,333 charge par charge soignée : **un seul auto-soin** par kit de base.
 - Altruiste : un kit de base soigne **1,5 état**.
+
+**Statuts qui changent la valeur du kit** (FACT audit SS, table 1.4, sauf mention) :
+- **Broken** : impossible d'être soigné au-delà de blessé. Le kit ne sert à rien sur un survivant Broken (Deliverance, Forced Penance, Moment of Glory…).
+- **Mangled** : soin 25 % plus long (vitesse −20 %). CALC : auto-soin au kit ≈ 30 s au lieu de 24 s (si les malus se multiplient : HYPOTHESIS).
+- **Haemorrhage** : la progression partielle d'un soin interrompu se perd à −7 %/s. Un auto-soin de 24 s interrompu est donc en partie perdu.
+- **Deep Wound** : se traite par le **mending** (10 s seul, 6 s par un allié), pas par le kit (effet du kit sur le mending : UNCERTAIN, non documenté).
+- Quand **ne pas** soigner du tout (rester blessé) : voir `batch11_training.md` (erreur « soin systématique ») et `batch9_macro.md` (reset).
 
 **Add-ons** :
 
@@ -164,7 +171,7 @@ FACT [SS] (Items, Med-Kits). Concorde avec l'audit (24 charges pour tous, 6.7.0)
 
 **Erreurs fréquentes** (HEURISTIC) :
 - Seringue + Styptic Agent (combo « Looper » du seed) : la seringue **consomme le kit**, le bonus d'auto-soin du Styptic est alors perdu.
-- S'auto-soigner dans le Terror Radius : 24 s, interrompu, charges brûlées au taux 1,33.
+- S'auto-soigner quand le tueur **vient vers vous** : 24 s, interrompu, charges brûlées au taux 1,33. (Le Terror Radius seul n'est pas un critère : il est large, et un tueur en chase ailleurs dans le TR ne vous interrompra pas.)
 - Prendre un Ranger pour s'auto-soigner : le bonus altruiste ne sert à rien en auto-soin.
 
 **Valeur** (HEURISTIC) : SoloQ **haute** (autonomie, erreurs pardonnées). SWF **moyenne-haute** (soins d'équipe, seringue).
@@ -189,6 +196,7 @@ FACT [SS] (Items, Med-Kits). Concorde avec l'audit (24 charges pour tous, 6.7.0)
 - **Depuis 1.8.3, la luminosité et les add-ons n'accélèrent plus l'aveuglement.** La luminosité est un effet **visuel** (plus fort côté tueur).
 - 6.3.0 : délai entre deux allumages (anti-stroboscope). 6.4.0 : **tampon de 0,4 s à la fin de l'animation de ramassage** pendant lequel un aveuglement étourdit le tueur ; **immunité quand le tueur sort un survivant d'un casier**. 6.7.0 : suppression du « lightburn » (Wraith, Nurse) et des interactions Hag / Spirit / Artist.
 - Interactions spéciales encore LIVE (FACT [SS]) : aveugler Shape / Ghost Face coupe leur traque ; aveugler Legion en Feral Frenzy annule le pouvoir **sans fatigue** (il peut frapper aussitôt) ; même chose pour Mastermind en Virulent Bound ; aveugler les zombies de Nemesis les étourdit.
+- **Liste incomplète** (audit §25) : les interactions lampe × pouvoir des tueurs récents (Dredge, Dracula, Houndmaster, Lich, Ghoul, Krasue, Animatronic hors portes…) n'ont pas été relevées. Ne pas conclure « pas d'interaction » faute de ligne ici : UNCERTAIN, voir `deliverables/KILLER_COUNTERPLAY_HANDBOOK.md` par tueur.
 
 **Add-ons** :
 
@@ -215,13 +223,14 @@ Raretés et effets : FACT [SS].
 - La **vitesse** d'aveuglement est fixe (1 s). Pour un save, la **visée** (tremblement) et la **largeur** du faisceau comptent plus que la luminosité.
 - La **durée** d'aveuglement (Odd Bulb, Utility) allonge surtout l'aveuglement **en chase** ou **après** le save. Le save lui-même est déjà acquis au moment de l'étourdissement.
 - Kit de save plausible : **Sport Flashlight + Rubber Grip + Wide Lens (ou Leather Grip)**. Le combo seed « Utility + Odd Bulb + Long Life » a une visée −20 % : il est surtout plus long et plus brillant.
+- Coût de Wide Lens : portée **−25 %**, soit **7,5 m** au lieu de 10 m (CALC). Il faut donc se cacher **plus près** du ramassage, donc être plus facile à voir et à frapper. Contre un tueur qui balaie autour de lui avant de ramasser, Leather Grip (visée, portée intacte) est l'alternative (HEURISTIC).
 
 **Erreurs fréquentes** (HEURISTIC) :
 - Traverser la carte pour un save au lieu de réparer (déjà relevé au lot 9).
 - Allumer trop tôt : le tueur voit le faisceau et regarde un mur.
 - Lampe contre Lightborn (immunité, et votre aura est révélée 6/8/10 s).
 
-**Valeur** (HEURISTIC) : SoloQ **faible à moyenne** (aucune coordination, et les coéquipiers ne jouent pas autour). SWF **moyenne à haute** (saves annoncés, rotation de lampes, pression sur chaque ramassage).
+**Valeur** (HEURISTIC) : SoloQ **faible à moyenne** (aucune coordination vocale ; les coéquipiers **peuvent** voir votre lampe dans Match Details depuis 9.6.0, mais rien ne garantit qu'ils jouent autour). SWF **moyenne à haute** (saves annoncés, rotation de lampes, pression sur chaque ramassage).
 
 ### 2.4 Fog Vials (objet ajouté en 9.1.0)
 
@@ -321,7 +330,7 @@ FACT [VMS] (notes 9.1.0 + wiki).
 
 | Objet | Contexte | Point de décision (FACT [SS] sauf mention) |
 |---|---|---|
-| Flash Grenade | Perk Flashbang | Fabriquée dans un casier après 50/45/40 % de réparation **personnelle** ; **réutilisable** (une nouvelle grenade à chaque seuil). Bruit fort, aveugle aussi les survivants proches |
+| Flash Grenade | Perk Flashbang | Fabriquée dans un casier après 50/45/40 % de réparation **personnelle**. La description dit « deactivates after use », mais la perk se **réactive** à chaque nouveau seuil de 50/45/40 % (trivia wiki : « not single-use ») : plusieurs grenades par partie. Bruit fort, aveugle aussi les survivants proches |
 | Lament Configuration | Contre Cenobite | La ramasser remet la Chain Hunt à zéro ; la résoudre révèle votre position et permet au tueur de se téléporter vers vous ; **Oblivious** tant que vous la portez |
 | Vaccine / First Aid Spray | Contre Nemesis / Mastermind | Cure l'infection (1 / 2 utilisations) |
 | EMP | Contre Singularity | Imprimé dans les Supply Cases (100 charges, dont 3 à imprimer activement). Hindered −10 % en le tenant ; 10 m de zone ; retire le Slipstream, désactive les Biopods 45 s |
@@ -345,21 +354,21 @@ Objets d'événements ou de modes spéciaux (Candelabra, Lantern, Blood Can, Voi
 - **Remboursement** si la partie est annulée (déconnexion au chargement ou dans la 1re minute) (FACT [SS]).
 - **Sacrificial Ward** : rejette les offrandes de royaume / carte **des autres joueurs**, sauf si tous les autres brûlent la **même** offrande. Il ne bloque **pas** un royaume : le tirage aléatoire peut encore y mener (FACT [SS]).
 - **Apparition (9.0.0)** : par défaut, les survivants apparaissent **à ≤ 12 m les uns des autres et au même étage** « when possible ». Shroud of Binding → **Shroud of Separation** (survivants séparés). L'ancienne Shroud of Separation du tueur → **Shroud of Vanishing** (rejette toutes les offrandes d'apparition des survivants) (FACT [VMS]).
-- **Luck (9.0.0)** : hors 2 survivants restants ou perk (Slippery Meat, Up the Ante), **une offrande de Luck est la seule façon de débloquer les tentatives d'auto-décrochage** au 1er palier. Base **4 %** par tentative, 3 tentatives max, chaque échec retire **20 s** au palier (FACT [VMS], notes 9.0.0 + wiki Hooks / Luck).
+- **Luck (9.0.0)** : au 1er palier, les tentatives d'auto-décrochage ne sont débloquées que par : 2 survivants restants, une **offrande de Luck**, Slippery Meat ou Up the Ante. Deliverance (après un décrochage sûr) et Wicked (au sous-sol) donnent un auto-décrochage **garanti**, et la jauge anti-camp pleine aussi (FACT audit VP + wiki Hooks). Base **4 %** par tentative, 3 tentatives max, chaque échec retire **20 s** au palier (FACT [VMS], notes 9.0.0 + wiki Hooks / Luck). *PTB 10.2.0 : Slippery Meat refondue, sans Luck — non LIVE.*
 - **BP** : les offrandes de BP s'appliquent **après** le plafond de 10 000 par catégorie (FACT audit SS). Les offrandes de BP ne modifient pas la partie.
 
 ### 3.2 Quelles offrandes comptent vraiment (survivant)
 
 | Offrande | Effet LIVE | Secrète ? | Verdict (HEURISTIC) |
 |---|---|---|---|
-| **Vigo's Shroud** | Vous apparaissez **le plus loin possible du tueur** | Oui | **Forte en SoloQ** : évite d'être la première cible au spawn. Annulée par Shroud of Vanishing |
+| **Vigo's Shroud** | Vous apparaissez **le plus loin possible du tueur** | Oui | **Utile en SoloQ** : réduit le risque d'être la première cible au spawn. Contrepartie : vous quittez le spawn groupé (≤ 12 m) et arrivez seul, loin de l'info et des soins de début de partie. Annulée par Shroud of Vanishing |
 | **Shroud of Separation** | Tous les survivants apparaissent séparés | Oui | **Utile** si l'équipe veut 4 gens d'emblée. Coûte la coordination du début (soins, info) |
 | Shroud of Union | Vous commencez avec un autre survivant | Oui | **Presque redondante** depuis 9.0.0 : le spawn par défaut regroupe déjà à ≤ 12 m |
-| Luck personnelle (Chalk / Cream / Ivory Chalk Pouch : +1/2/3 %) | Débloque vos auto-décrochages | Oui | **Assurance SoloQ** (camp, personne ne vient). CALC : 4 + 3 = 7 % par essai → **≈ 20 %** sur 3 essais, pour −60 s de palier si tout échoue |
+| Luck personnelle (Chalk / Cream / Ivory Chalk Pouch : +1/2/3 %) | Débloque vos auto-décrochages | Oui | **Assurance SoloQ** (camp, personne ne vient). CALC : 4 + 3 = 7 % par essai → **≈ 20 %** sur 3 essais (1 − 0,93³), pour −60 s de palier si tout échoue, soit 60 des 70 s de la phase (FACT audit : 70 s par phase). Risque : chaque échec **raccourcit la fenêtre** d'un sauveteur. Tenter seulement quand personne ne vient (HUD, Kindred), pas dès l'accrochage |
 | Luck pour tous (Salt Pouch, Black Salt Statuette, Vigo's Jar of Salty Lips : +1/2/3 %) | Débloque les auto-décrochages de **tous** | **Non** | Même logique, pour l'équipe ; visible par le tueur |
 | White Ward | Objet protégé en cas de mort ; add-ons conservés (mort ou évasion) | Oui | Pour un objet rare ou des add-ons Visceral |
 | Black Ward | Add-ons non consommés | Oui | Idem, add-ons seuls |
-| Royaume / carte (20 %) | 20 % vers le royaume ciblé | Oui | **Faible** : 80 % de chances de ne rien changer. Utile seulement pour « tenter » une carte d'entraînement |
+| Royaume / carte (20 %) | 20 % vers le royaume ciblé | Oui | **Faible** : dans 80 % des cas le tirage reste aléatoire (et peut d'ailleurs tomber sur ce royaume sans l'offrande) : le gain réel est **inférieur à 20 points**. Utile seulement pour « tenter » une carte d'entraînement |
 | Sacrificial Ward | Rejette les offrandes de royaume des autres | **Non** | Anti-offrande de carte du tueur, avec les limites ci-dessus |
 | Annotated / Vigo's Blueprint | Trappe plus probable près du Killer Shack / du bâtiment principal (+100 % de probabilité) | Oui | Niche (builds trappe) |
 | Shiny / Tarnished Coin (+2 / +1 coffre), Cut / Scratched (−2 / −1) | Nombre de coffres | Oui | Pour builds coffres (§4) |
@@ -410,7 +419,7 @@ Effets : FACT [SS] (page Offerings, lue en entier) ; règles 9.0.0 : FACT [VMS].
 - **Perks de coffre LIVE** :
   - **Plunderer's Instinct** (LIVE = 8.4.0) : auras des coffres fermés, des objets dans les coffres ouverts et des objets au sol dans **32/48/64 m** ; **+50 %** de chances d'objets plus rares. Ne touche pas la Luck. *PTB 10.2.0 : portée illimitée + ouverture 150/175/200 % plus rapide — non LIVE.*
   - **Appraisal** (LIVE = 9.1.0) : **4 jetons**, fouiller un coffre ouvert et vide pour un objet de plus, **2 fois par coffre** ; fouille +40/60/80 %.
-  - **Pharmacy** (LIVE = 9.2.0) : ouverture et fouille +75/100/125 %, bruit −12 m, **Emergency Med-Kit garanti**, une fouille par coffre.
+  - **Pharmacy** (LIVE = 9.2.0) : **ouverture** +75/100/125 %, bruit d'ouverture −12 m, **Emergency Med-Kit garanti** (FACT [VMS], note 9.2.0 + `batch2_perks_surv_p26.md`). *PTB 10.2.0 : bonus étendu à la **fouille** et une fouille autorisée par coffre (« was only unlock », « (NEW) ») — non LIVE.* (Correction d'audit : la version précédente de ce fichier donnait le texte PTB comme LIVE.)
   - **Ace in the Hole** : objets de coffre livrés avec 1 add-on (Visceral ou moins) + 50/75/100 % de chance d'un 2e (Uncommon ou moins) ; conserve les add-ons de l'objet tenu à l'évasion.
   - **Streetwise** : +60/70/80 % de charges pour les objets de coffre.
   - **Residual Manifest / Scavenger** : une fouille par partie d'un coffre ouvert, lampe de base / toolbox de base garantie.
@@ -441,8 +450,8 @@ Modèle : un objet « rapporte » les s-surv qu'il fait gagner, moins ce qu'il c
 | Commodious + Socket Swivels + Wire Spool | 44 | 0,80 | **19,6 s** |
 | Commodious + Socket Swivels + Brand New Part (réussie) | 32 | 0,80 | 14,2 + 10 = **24,2 s** |
 
-- Great avec toolbox (HYPOTHESIS) : 40 %/s pendant ~21 s (Commodious) ≈ 8,5 tests. Tous en Great : +8,5 % ≈ **+7,7 charges**, contre ~2,3 sur la même progression sans toolbox. Gain supplémentaire ≈ **+5 s**, mais aussi **5 fois plus de ratés possibles** (−10 % et bruit fort chacun).
-- **Built to Last** (HYPOTHESIS) : 8-12 s de casier pour recharger 99 % d'une Commodious (~10,6 s de gain) → **gain net ≈ 0 à +3 s**, davantage avec add-ons (Socket Swivels : ~+6 s). Rentable surtout quand le casier sert **déjà** à se cacher.
+- Great avec toolbox (HYPOTHESIS) : 40 %/s pendant ~21 s (Commodious) ≈ 8,5 tests. Tous en Great : +8,5 % ≈ **+7,7 charges**, contre ~2,3 sur la même progression sans toolbox. Gain supplémentaire ≈ **+5 s**, mais aussi **≈ 3,3 fois plus de tests à progression égale** (8,5 contre 2,6 ; 5 fois plus par seconde), donc plus de ratés possibles (−10 % et bruit fort chacun). Le gain de +5 s suppose 100 % de Great : il baisse vite avec le taux réel.
+- **Built to Last** (HYPOTHESIS, durées LIVE **14/12/10 s**) : 10-14 s de casier pour recharger 99 % d'une Commodious (31,7 charges → ~10,6 s de gain) → **gain net ≈ −3,4 à +0,6 s** ; avec Socket Swivels (~14,1 s de gain) ≈ **+0,1 à +4 s**. [Version précédente, calculée sur les 8-12 s du PTB 9.1.0 : « 0 à +3 s », « ~+6 s ».] Rentable seulement quand le casier sert **déjà** à se cacher (tueur proche, Head On, Flashbang).
 - Alex's Toolbox : quasi nulle en réparation ; sa valeur est dans les sabotages (§5.4).
 
 **Med-Kit** :
@@ -455,7 +464,7 @@ Modèle : un objet « rapporte » les s-surv qu'il fait gagner, moins ce qu'il c
 - → Ouvrir un coffre est **rentable** si vous n'avez **pas d'objet**, si le coffre est **sur votre trajet**, avec Plunderer's ou une clé, ou pour **un kit** (auto-soin) contre un tueur qui blesse souvent. Sinon, le gen rapporte plus.
 
 **Lampe / Fog Vial / Map / Key** : gains non chiffrables proprement (HYPOTHESIS) :
-- Un flash save réussi **annule un crochet** (≈ un palier de 70 s de pression du tueur, plus le trajet d'un sauveteur). Une tentative ratée coûte **20-40 s-surv** d'un joueur qui ne répare pas.
+- Un flash save réussi **annule un crochet** : un palier de crochet de moins pour la victime (une phase dure 70 s, FACT audit, mais ce n'est **pas** la valeur du save), plus le temps d'accrochage et de décrochage épargné (trajet du sauveteur, 1 s de décrochage, 1,5 s d'accrochage). Valeur totale non chiffrée. Une tentative ratée coûte **20-40 s-surv** d'un joueur qui ne répare pas.
 - Une Fog Vial vaut ce que vaut **une ligne de vue cassée** : de 0 (espace ouvert) à une chase entière (perte du tueur).
 - Map et Key valent l'**information** : utiles surtout si elles évitent un trajet inutile ou le 3-gen.
 
@@ -465,7 +474,9 @@ Modèle : un objet « rapporte » les s-surv qu'il fait gagner, moins ce qu'il c
 
 Chiffres communs (FACT [SS] sauf mention) : tueur qui porte un survivant **3,68 m/s** ; **wiggle 16 s** cumulées ; accrocher **1,5 s** ; décrocher **1 s** ; protections post-décrochage (LIVE 10.1.0) : **10 s** d'Endurance et de Haste + **10 s** d'Elusive (FACT audit VP) ; stun de palette **2 s** ; casse de palette **2,34 s** ; cooldown après un coup réussi **2,7 s** et boost de vitesse du survivant touché **1,8 s** (FACT audit).
 
-CALC utile : en 16 s de portage, le tueur parcourt **≈ 59 m** (3,68 × 16). Tout ce qui l'oblige à marcher plus loin que ça fait gagner le wiggle.
+CALC utile : en 16 s de portage, le tueur parcourt **≈ 59 m** (3,68 × 16). Tout ce qui l'oblige à marcher plus loin que ça fait gagner le wiggle. Avec **Agitation** (LIVE : Haste 6/12/18 % en portant, `batch3_perks_kill_p93.md`, VMS) : 3,68 × 1,18 ≈ 4,34 m/s → ≈ 69 m en 16 s (CALC, Haste supposée multiplicative) ; avec **Iron Grasp** (LIVE : wiggle 4/8/12 % plus lent) : ≈ 17,9 s de wiggle au rang III, soit ≈ 66 m (CALC). Avec les deux au rang III : ≈ 78 m.
+
+**Étiquette de la section 5** (audit §25-26) : sauf mention FACT ou CALC, les rubriques WHY / WHEN / HOW / COUNTER / FAILURE / DRILL sont des **HEURISTIC** : bonnes pratiques de joueur, pas des règles du jeu. Elles supposent un tueur « moyen » ; les limites à haut niveau sont signalées au cas par cas.
 
 ### 5.1 Flash save (sauvetage à la lampe)
 
@@ -473,7 +484,7 @@ CALC utile : en 16 s de portage, le tueur parcourt **≈ 59 m** (3,68 × 16). To
 - **WHY** : annule un crochet entier, sans que le sauveteur prenne un coup s'il est bien placé.
 - **WHEN** :
   - Vous êtes **déjà** à portée (≤ 10 m, faisceau par défaut) au moment de la mise au sol, **caché**.
-  - Le tueur n'a **pas Lightborn** (vérifiez la fin de partie précédente, ou un tueur qui ne réagit pas à la lampe).
+  - Le tueur n'a **pas Lightborn**. Son loadout est **caché jusqu'à la fin de la partie** (Match Details 9.6.0, FACT audit VP) : on ne peut pas le vérifier à l'avance. Indices en partie : une lampe braquée sur lui plus tôt sans effet, ou un tueur qui ne détourne jamais la caméra des lampes (HEURISTIC, voir `deliverables/PERK_DEDUCTION.md`). Sans indice, le risque existe à chaque tentative.
   - Le ramassage **n'est pas** une saisie dans un casier (**immunité**, 6.4.0).
 - **Tueurs / états immunisés LIVE** :
   - **Lightborn** : immunité aux lampes, pétards, Flash Grenades et à l'aveuglement de Blast Mine (pas à son stun) ; votre aura est révélée 6/8/10 s (FACT [SS]).
@@ -490,12 +501,13 @@ CALC utile : en 16 s de portage, le tueur parcourt **≈ 59 m** (3,68 × 16). To
 - **COUNTER (tueur)** :
   - Regarder autour avant de ramasser ; ramasser **face à un mur** ou tête baissée.
   - Frapper ou chasser d'abord le porteur de lampe ; laisser le survivant au sol.
-  - Lightborn. Dark Arrogance allonge en fait les aveuglements subis de 15 % (perk à contrepartie, FACT [VP] 9.2.0).
+  - Lightborn. Dark Arrogance allonge en fait les aveuglements subis de 15 % (perk à contrepartie, FACT [VP] 9.2.0 ; *PTB 10.2.0 : 25 %, non LIVE*).
+- **Limite à haut niveau** (HEURISTIC) : un tueur expérimenté ramasse **par réflexe** face à un mur ou après un balayage de caméra. Le flash save de ramassage réussit surtout contre des tueurs moyens. Contre un bon tueur, préférez les saves qui ne dépendent pas de sa caméra : pallet save (§5.3), sabotage (§5.4), body block (§5.5), save au casier (§5.7), ou simplement les gens.
 - **FAILURE** :
   - Allumer trop tôt : le tueur vous voit, détourne la tête, et le blind **régresse** au même rythme qu'il progresse.
   - Être vu en approche : il vous frappe d'abord ou ramasse face au mur.
   - Venir de loin : 20-40 s-surv perdues (lot 9).
-- **DRILL** (partie personnalisée, 1 ami tueur) : 10 ramassages par séance, en variant l'orientation (mur à gauche, à droite, en coin). Notez à quel moment vous allumez (début / milieu / fin de l'animation) et le taux de réussite. Objectif : > 6/10 sur ramassage « libre », puis contre un tueur qui regarde un mur.
+- **DRILL** (partie personnalisée, 1 ami tueur) : 10 ramassages par séance, en variant l'orientation (mur à gauche, à droite, en coin). Notez à quel moment vous allumez (début / milieu / fin de l'animation) et le taux de réussite. Objectif indicatif (HEURISTIC, seuil arbitraire) : > 6/10 sur ramassage « libre », puis contre un tueur qui regarde un mur. Un taux mesuré contre un ami qui « joue le jeu » **surestime** le taux en partie publique.
 
 ### 5.2 Aveuglement en chase et à la casse de palette
 
@@ -505,6 +517,7 @@ CALC utile : en 16 s de portage, le tueur parcourt **≈ 59 m** (3,68 × 16). To
 - **HOW** : placez-vous devant la palette, à ≤ 10 m, et commencez **dès** le début de la casse (il faut 1 s).
 - **COUNTER** : ne pas casser la palette quand une lampe attend ; perks qui récompensent l'aveuglement ou le stun (Rampage : +1 % de Haste par jeton pendant 13 s après un aveuglement ou un stun, FACT [VP] 10.0.0).
 - **FAILURE** : rester à côté du tueur aveuglé. Il entend toujours, et un Quick Attack peut vous toucher.
+- **Coût caché** (HEURISTIC) : un second survivant près de la chase ne répare pas, et offre au tueur une cible **saine et proche** (changement de cible). Un tueur qui vous voit avant la casse peut aussi renoncer à casser : l'allié garde la palette, mais vous avez payé le trajet. À réserver aux cas où vous étiez déjà là, ou au SWF qui l'annonce.
 - **DRILL** : partie personnalisée, le tueur casse 10 palettes ; comptez les blinds réussis.
 
 ### 5.3 Pallet save (sauvetage à la palette)
@@ -517,7 +530,8 @@ CALC utile : en 16 s de portage, le tueur parcourt **≈ 59 m** (3,68 × 16). To
   2. Le stun ne s'applique qu'une fois la palette tombée à ~50 % : lâchez-la **juste avant** qu'il n'entre dans la zone (FACT [SS] pour le seuil de 50 %).
   3. Pas pendant l'animation de ramassage (non annulable) : seulement quand il peut **bouger** (FACT [SS]).
 - **COUNTER** : contourner les palettes debout en portant ; Agitation (portage plus rapide) ; Awakened Awareness (voir les survivants près de soi en portant) ; lâcher le survivant et frapper le sauveteur (pénalité de lâcher : +25 % de wiggle, voir §5.8).
-- **FAILURE** : lâcher trop tôt (le tueur s'arrête, casse ou contourne) ; attendre sur une palette qu'il n'a aucune raison d'emprunter.
+- **FAILURE** : lâcher trop tôt (le tueur s'arrête, casse ou contourne) ; attendre sur une palette qu'il n'a aucune raison d'emprunter ; rester près du tueur après le save : **Enduring** (LIVE : stun de palette −40/45/50 %, `batch4_killers_g1.md`) raccourcit le stun à ~1-1,2 s (CALC), la libération reste acquise (« stunning or blinding the Killer by any means », FACT [SS] page Hooks) mais il frappe plus tôt.
+- **Contre Lightborn** : le pallet save (et Head On) restent possibles, ce ne sont pas des aveuglements (FACT [SS]).
 - **DRILL** : partie personnalisée, trajets de portage vers 3 crochets différents ; pour chacun, repérez la palette « obligée ». Puis 10 tentatives en variant le moment du lâcher.
 
 ### 5.4 Sabotage (toolbox, Saboteur, crochets Scourge, sous-sol)

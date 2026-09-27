@@ -242,13 +242,13 @@ Lecture (HEURISTIC) :
 | Pathing survivant | Coller les murs (cornering serré, lot 6 T12) ; mémoriser W, P, D **avant** la chase (pre-run) ; ne jamais s'arrêter à l'intérieur sans raison |
 | Pathing tueur | 1) Suivre dehors pour lire ; 2) **tenir l'intérieur** (entre W et P) pour couvrir les deux portes ; 3) entrer par P pour casser le cycle (seed, plausible) ; 4) forcer le 3e vault puis attendre le blocage |
 | Fast vault | L'approche de W doit comporter ≥ 2,5 m de course **droite** vers la fenêtre (FACT [W]) : tourner le coin **avant**, pas au dernier moment |
-| Red stain | Tache qui fait le tour dehors = il suit → vault ; tache immobile ou qui sort par une ouverture proche de W = il tient/coupe → pas de vault, jouer P ou repartir dehors. Tache absente (Undetectable, tueur qui regarde au sol) = ne pas vaulter « à l'aveugle » |
-| Double-back | Tile de référence : à un angle hors LOS, repartir dans l'autre sens quand il s'engage sur le long côté. Pas de double-back vers une W déjà vaultée 2 fois (le 3e est ton dernier) |
-| Greed | Tant qu'il **suit** dehors et que ton compteur de W est ≤ 2 : greed la palette (la garder levée). Chaque cycle : réévaluer (lot 6 T05) |
-| Pre-drop | Blessé et tueur à portée à l'approche de P ; tueur qui tient l'intérieur ; Bloodlust II-III ; pouvoir anti-loop prêt |
+| Red stain | Tache qui fait le tour dehors = il suit → vault ; tache immobile ou qui sort par une ouverture proche de W = il tient/coupe → pas de vault, jouer P ou repartir dehors. La tache se manipule (moonwalk, lot 6 T08) : un tueur expérimenté la montre exprès. Tache absente (Undetectable, tueur qui regarde au sol) = remplacer l'info manquante par un **checkspot** à travers W ou une ouverture avant de vaulter, plutôt que vaulter « à l'aveugle » |
+| Double-back | Tile de référence : à un angle hors LOS, repartir dans l'autre sens quand il s'engage sur le long côté. Un double-back vers une W déjà vaultée 2 fois reste possible (le 3e vault est permis) **si** tu as prévu ta sortie : après, la W est bloquée pour toi 30 s |
+| Greed | Point de départ (HEURISTIC) : tant qu'il **suit** dehors, que la condition en temps (§2.1) tient pour ta W et que ton compteur est ≤ 2, garder P levée. Réévaluer **chaque cycle** avec l'arbre A-F du lot 6 T05 (santé, pouvoir, palettes restantes, Bloodlust) ; un greed répété au même moment devient prévisible |
+| Pre-drop | Blessé et tueur à portée à l'approche de P ; tueur qui tient l'intérieur ; Bloodlust II-III. **Pouvoir anti-loop prêt : cela dépend du pouvoir** (handbook §2.2 « le pré-drop n'est pas universel ») — pré-drop rentable si la casse lui coûte (Blight : tokens) ; pré-drop **puis départ immédiat** si son pouvoir punit l'attente (Doctor, Nemesis MR2+, Cannibal…) ; pré-drop contre-productif si la casse est gratuite (Demogorgon Shred, Oni en Fury, Ghoul avec tokens) : garder P pour un stun ou changer de zone |
 | Abandonner | W bloquée **pour toi** + P cassée ; ou tueur qui tient le centre et que tu n'as plus de porte sûre. Partir **pendant** la casse de P (2,34 s, caméra du tueur basculée : FACT [W]) par l'ouverture opposée à lui |
 | Connecter | Repérer la tile suivante **pendant** le 1er cycle ; le shack est souvent à distance de maze tiles (emplacements fixes de la carte, lot 8). Sous-sol dans le shack = crochet proche : ne pas finir la chase blessé à côté |
-| Tueurs qui changent tout | Nurse (blink à travers les murs) ; Blight (rush ; 9.6.0 : tokens sur casse de palette) ; Hillbilly/Cannibal (casse 1 s) ; casses instantanées (§5.2) ; Trapper (piège à la réception de W ou dans P) ; ranged : **murs hauts favorables au survivant** (handbook §3) ; Bamboozle / Hex: Crowd Control (W bloquée pour tous) |
+| Tueurs qui changent tout | Nurse (blink à travers les murs) ; Blight (rush ; 9.6.0 : tokens sur casse de palette) ; Hillbilly/Cannibal (casse 1 s) ; casses instantanées (§5.2) ; Lich (Mage Hand **relève** P baissée ou **bloque** P levée 4 s, §5.2) ; Knight (garde qui chasse : il **contourne** P baissée, §5.2) ; Good Guy (Scamper 1 s par W ou sous P) ; Trapper (piège à la réception de W ou dans P) ; ranged : **murs hauts favorables au survivant** (handbook §3) ; Bamboozle / Hex: Crowd Control / Cruel Limits (W bloquée pour tous) |
 
 **Critique du seed** : « au moins deux tours de fenêtre avant de toucher à la palette » (règle populaire, qu'on retrouve aussi sous la forme « 3 vaults puis palette » dans des guides communautaires, ex. [18]) est une **règle absolue** (audit) : elle est fausse dès que le tueur tient l'intérieur, que tu es blessé, ou contre un pouvoir anti-loop (lot 6 T05, Situation 1). « Au 3e vault, la fenêtre se bloque » : précision — le 3e vault est **permis**, le blocage vient **après**, pour toi seul, 30 s.
 
@@ -291,7 +291,7 @@ Lecture (HEURISTIC) :
 | Différence clé | Le trajet du tueur entre le centre et la réception de W est **court** : la fenêtre se couvre facilement → tile plus « mindgame » que safe (EXPERT OPINION non sourcée, cohérente avec le seed « long wall bien plus fort ») |
 | Sens optimal | Utiliser W **uniquement** quand le tueur est engagé loin (côté mur long) ; sinon jouer la palette plus tôt que sur un LW |
 | Pre-drop | Plus précoce que sur LW : la palette est ta vraie ressource |
-| Abandonner | Dès que P est cassée : une W courte seule ne tient pas longtemps contre un tueur qui coupe |
+| Abandonner | Dès que P est cassée **et** qu'il coupe par le centre : une W courte seule ne tient pas longtemps (EXPERT OPINION non sourcée). S'il continue de suivre, la W garde 1-2 vaults utiles pour préparer la transition |
 | Checkspot | Le **trou** du mur long te montre le centre sans dévier |
 
 ### 4.4 L-T walls (T-L)
@@ -423,15 +423,15 @@ Lecture (HEURISTIC) :
 
 | Point | Contenu |
 |---|---|
-| Définition | Palette dont l'obstacle support est **court** : le cycle autour est plus court que « trajet × 1,10-1,15 + fente » → unsafe par construction (CALC, §2.1). HEURISTIC pour le classement |
+| Définition | Palette dont l'obstacle support est **court** : le détour du tueur est plus court que « ton trajet × 1,10-1,15 + fente + `v_K` × durée de ton action (drop UNCERTAIN, vault 1,1 s ≈ 5 m) » → unsafe par construction (CALC, §2.1). HEURISTIC pour le classement |
 | Changement LIVE | 9.3.2 : « Prevented pallets from spawning against certain small objects, creating short and awkward loops » + « Adjusted the length of loops that were too short and unsafe » (7 royaumes). FACT [PN 9.3.2] → moins de fillers « absurdes » qu'avant ; les connaissances antérieures sont périmées pour ces royaumes |
 | Sens optimal | Arriver **sans** faire le tour : la palette sert d'une traite (drop puis départ) |
 | Greed | Rare : seulement si le tueur est loin **et** respecte (il s'arrête devant) : tu gagnes du temps sans consommer |
-| Pre-drop | Cas normal : dès qu'il sera en portée de fente à ton arrivée ; le pre-drop garantit la casse (2,34 s, Bloodlust à 0) ou un détour |
+| Pre-drop | Cas normal contre un tueur sans pouvoir sur les palettes : dès qu'il sera en portée de fente à ton arrivée ; il doit alors casser (2,34 s, Bloodlust à 0) ou faire un détour. **Pas de garantie** contre : les vaulteurs de palette (Legion Frenzy, Mastermind, Ghoul, Good Guy Scamper 1 s, Krasue Head Form 1,9 s), les casseurs gratuits (§5.2), la Lich (Mage Hand relève la palette). Contre un tueur qui **attend** ton pre-drop (il ralentit avant la zone de stun), varier : départ anticipé sans drop, drop normal |
 | Stun | Si le tueur s'engage franchement (ne respecte pas) : drop au bon moment = stun 2 s + casse éventuelle (lot 6 : ≈ +17 m) |
 | Abandonner | Immédiatement après le drop : tourner autour d'un filler coûte un coup (seed : correct) |
 | Connecter | Un filler est une **ressource de transition** : il sert à gagner les mètres pour atteindre la tile suivante, pas à y rester |
-| Tueurs | Nurse (inutile), casses instantanées ; contre Spirit : « jeter tôt puis marcher » (handbook) |
+| Tueurs | Nurse (peu utile), casses instantanées (valeur = stun ou rien, sauf Blight : la casse lui coûte des tokens) ; contre Spirit : « jeter tôt puis marcher » (handbook) |
 | « God rocks » | Terme communautaire cité par l'audit (T-C07) : NON VÉRIFIABLE, non utilisé |
 
 ### 4.12 Fenêtres fortes / faibles, fenêtres à sens unique
@@ -490,15 +490,15 @@ Lecture (HEURISTIC) : une fenêtre à sens unique n'est **pas une loop** ; c'est
 | **Patio** (Yamaoka) | Dallage entouré de **murets de pierre** avec plusieurs ouvertures ; **1 fenêtre + 1 palette** | Petite tile fenêtre + palette ; murets : LOS pour le tueur |
 | **Hills** (plusieurs royaumes) | Sentier de pierre vers le sommet ; sommet : totem, coffre, objets de tueur ; Red Forest et Yamaoka : 2 accès ; absentes de nombreuses cartes | **Pas une loop** : obstacle de LOS et dénivelé ; tourner autour d'une colline casse la LOS contre ranged (HEURISTIC) |
 | **Shrimp Boat** (Pale Rose) | 2 entrées latérales ; pont accessible par rampes ou par la fenêtre | Petite structure à fenêtre ; transition vers le Pale Rose |
-| **Basement** (partout) | **Une seule entrée/sortie** ; 4 crochets ; 6 casiers | **Jamais une destination de chase** (cul-de-sac) |
+| **Basement** (partout) | **Une seule entrée/sortie** ; 4 crochets ; 6 casiers | **Presque jamais une destination de chase** (cul-de-sac, crochets sur place) ; l'escalier du shack reste un obstacle de LOS utilisable **à l'extérieur** (HEURISTIC) |
 | **Maïs** (Coldwind) | — (non traité par une page lue) | Seed « pas de loop, LOS cassée » : EXPERT OPINION plausible ; contre aura (perks, pouvoirs) : inutile |
 
 Seed « **Coal Tower** : grande tour à hauts murs, se joue comme un shack » : **IMPRÉCIS** — c'est le main building d'une carte (entrepôt à 2 niveaux, 1 fenêtre, 3 drops, 3 murs cassables, 2 palettes dehors : FACT [W]), pas une structure générique jouable « comme un shack ».
 
 ### 4.16 « God pallet » : définition et critique du seed
 
-- Définition proposée (HEURISTIC) : palette dont la **loop baissée** reste forte — après le drop, tu la vaultes (1,1 s) et le tueur doit faire un détour **plus long** que « ton trajet × 1,15 + fente » ; il n'a donc qu'un choix rentable : **casser** (2,34 s, Bloodlust à 0). Palettes levées impossibles à contester (il ne peut pas t'atteindre avant le drop) = « safe » ; « god » = safe **et** forte une fois baissée.
-- Seed « une god pallet se garde (sauf dernier crochet ou fin de partie) » : **trop absolu** (audit, lot 6 T05). Contre-exemples : la garder coûte un coup (tueur qui coupe) ; tueur à casse instantanée (garder = la perdre sans stun) ; allié en chase qui en aura besoin **plus tard** (SoloQ : tu ne le sais pas) ; tu as déjà une ressource équivalente à côté (inutile de la garder). Règle de remplacement (HEURISTIC) : **on garde une palette forte tant que la garder ne coûte pas d'état de santé et qu'une autre ressource travaille à sa place** (fenêtre, LOS).
+- Définition proposée (HEURISTIC) : palette dont la **loop baissée** reste forte — après le drop, tu la vaultes (1,1 s) et le tueur doit faire un détour **plus long** que « ton trajet × 1,15 + fente + ≈ 5 m » (les ≈ 5 m = 4,6 × 1,1 s pendant lesquels tu es immobile dans le vault, §2.1) ; il n'a donc que deux choix rentables : **casser** (2,34 s, Bloodlust à 0) ou **quitter** la chase. Définition relative à un tueur sans pouvoir sur les palettes (§5.2). Palettes levées impossibles à contester (il ne peut pas t'atteindre avant le drop) = « safe » ; « god » = safe **et** forte une fois baissée.
+- Seed « une god pallet se garde (sauf dernier crochet ou fin de partie) » : **trop absolu** (audit, lot 6 T05). Contre-exemples : la garder coûte un coup (tueur qui coupe) ; tueur à casse instantanée (garder = la perdre sans stun) ; allié en chase qui en aura besoin **plus tard** (SoloQ : tu ne le sais pas ; SWF : l'équipe peut l'annoncer) ; tu as déjà une ressource équivalente à côté (inutile de la garder) ; Hex: Blood Favour peut la **bloquer** levée 15 s après une blessure (§5.2). Règle de remplacement (HEURISTIC) : **on garde une palette forte tant que la garder ne coûte pas d'état de santé et qu'une autre ressource travaille à sa place** (fenêtre, LOS).
 
 ---
 
@@ -510,10 +510,10 @@ Le §3 du `KILLER_COUNTERPLAY_HANDBOOK.md` (HEURISTIC, v1) couvre : fenêtres fo
 
 | Structure | M1 | Anti-loop | Ranged | Mobilité | Furtif | Zone/piège | Info |
 |---|---|---|---|---|---|---|---|
-| **L-T walls** (2 fenêtres, 0 palette) | ↑ (budget 2 × 3 vaults) | ± ↓ Legion Frenzy, Ghoul, Xenomorph (tiles pincés), Houndmaster (le chien vaulte les fenêtres) ; ↑ Demogorgon, Oni (rien à casser) | ↓ réception de vault prévisible (Huntress, Deathslinger, Trickster) | ↓ Nurse, Blight (pas de palette pour le forcer à casser) | ≈ | ↓ fenêtre piégée (Trapper) | ≈ |
+| **L-T walls** (2 fenêtres, 0 palette) | ↑ (budget 2 × 3 vaults) | ± ↓ Legion Frenzy, Ghoul, Xenomorph (tiles pincés), Houndmaster (le chien peut être envoyé par une fenêtre, voir CONFLICT-L7-06), Good Guy (Scamper 1 s par-dessus une fenêtre), Mastermind (Superior Anatomy, §5.3) ; ↑ Demogorgon, Oni (rien à casser) | ↓ réception de vault prévisible (Huntress, Deathslinger, Trickster) | ↓ Nurse, Blight (pas de palette pour le forcer à casser) | ≈ | ↓ fenêtre piégée (Trapper) | ≈ |
 | **4-lane** | ↑ | ± ↓ Demogorgon (Shred dans l'axe d'un couloir) | ↓ tir dans l'axe des couloirs ; ↑ si tu changes de couloir hors LOS | ± | ↓ coins de couloir (Ghost Face, Shape) | ≈ | ≈ |
 | **Pallet gym** (0 fenêtre, 1 palette) | ↑ tant que la palette est levée | ↓↓ tout casseur/vaulteur de palette (§5.2) | ± | ↓↓ Nurse, Spirit | ≈ | ↓ si la palette est déjà cassée (zone consommée) | ≈ |
-| **Filler** | ≈ (ressource de distance) | ↓ (pre-drop inutile contre casse instantanée) | ↓ palette basse ne bloque pas les projectiles (Huntress, Executioner, handbook) | ↓↓ | ≈ | ≈ | ≈ |
+| **Filler** | ≈ (ressource de distance) | ↓ (contre une casse gratuite, le pre-drop ne rapporte presque rien : viser le stun ou partir ; **exception Blight**, dont la casse coûte des tokens ; Hillbilly/Cannibal : casse 1 s ≈ +4 m, pas zéro) | ↓ palette basse ne bloque pas les projectiles (Huntress, Executioner, handbook) | ↓↓ | ≈ | ≈ | ≈ |
 | **Fenêtre à sens unique / drop** | ↑ transition | ± | ↓ réception en hauteur visible | ↓ Ghoul (bonds verticaux) ; ± Nurse (blink d'étage raté = fatigue) | ≈ | ≈ | ≈ |
 | **Main à étage avec drops** | ↑ | ± ↑ Mastermind (handbook) | ± ↓ Huntress depuis l'étage | ± ↑ Hillbilly (rampes) ; ↓ Ghoul | ↓ Shape, Ghost Face (coins) | ↓ Hag (réseau dense) | ↓ Doctor (Static Blast) |
 | **Murets bas** (Cow Tree, Patio, murs « medium » d'Autohaven) | ↓ (il lit tout) | ± | ↓↓ (tir par-dessus) | ↓ | ↑ (tu le vois aussi) | ≈ | ≈ |
@@ -526,26 +526,32 @@ Le §3 du `KILLER_COUNTERPLAY_HANDBOOK.md` (HEURISTIC, v1) couvre : fenêtres fo
 | **Shape** | Détruit palettes **et murs cassables** avec Slaughtering Strike | Evil Incarnate (FACT [PN 9.2.0] + [W]) |
 | Demogorgon | Détruit en se lançant avec Shred (Of the Abyss) | Pouvoir de base |
 | Oni | Demon Dash → Demon Strike détruit la palette | Blood Fury |
-| Blight | Lethal Rush contre une palette la casse (9.6.0 : tokens de Rush, audit) | Pouvoir de base |
-| Nemesis | Tentacle Strike détruit les palettes visées | Mutation Rate 2+ |
-| Knight | Ordre à un Garde de détruire une palette | Pouvoir de base |
+| Blight | Lethal Rush contre une palette la casse ; **depuis 9.6.0, casser une palette au sol ramène ses tokens de Rush à 2 sous le max et remet la recharge à 0 %** (FACT [audit : VP] + [PN 9.6.0]) → la casse lui **coûte** : le pre-drop reste rentable (lot 6 situation 1, handbook fiche 21) | Pouvoir de base |
+| Nemesis | Tentacle Strike détruit les palettes visées | Mutation Rate 2+ (texte du wiki) |
+| Knight | Ordre à un Garde de détruire une palette. **10.1.1** : une palette baissée pendant qu'un Garde te chasse (Hunt) le fait **contourner** la palette ; si ce détour dépasse **48 m**, le Garde abandonne la chasse ; une palette baissée **sur** un Garde : il la traverse (pas de stun) | Pouvoir de base ; FACT [PN 10.1.1] |
 | Singularity | Palette baissée sur lui en Overclock = détruite (pas de stun) | Overclock |
 | Dark Lord | Bond en forme de loup | Pouvoir de base |
 | Executioner | Punishment of the Damned casse la palette | **Add-on Obsidian Goblet** |
 | Legion | Vaulte les palettes en Frenzy (de base) ; les **détruit** | Détruire : **add-on Iridescent Button** |
 | Mastermind | Vaulte une palette en Virulent Bound (de base) ; la **détruit** | Détruire : **add-on Lab Photo** |
 | Ghoul | Vaulte une palette en Kagune Leap (de base) ; la **détruit** au 3e bond consécutif | Détruire : **add-on Iridescent Eye Patch** |
-| Good Guy | Vaulte les palettes (liste du wiki) ; les **détruit** en Scamper | Détruire : **add-on Hard Hat** |
-| Lich | Mage Hand **bloque** une palette levée (FACT [W Windows, add-on Ring of Telekinesis]) ; **détruit** avec l'add-on | Détruire : **add-on Vorpal Sword** |
+| Good Guy | Pendant Slice & Dice, **Scamper** de 1 s **sous** une palette baissée ou **par-dessus** une fenêtre (de base) ; ne **détruit** la palette qu'avec l'add-on (casse de base propre au 2v8 : errata phase 0) | Détruire : **add-on Hard Hat** ; FACT [W page Good Guy + Pallets] |
+| Lich | Mage Hand (portée 16 m) : **relève** une palette baissée (0,5 s d'attente + 0,5 s) **ou bloque** une palette levée 4 s ; avec Vorpal Sword, **casse** une palette baissée en **4 s** au lieu de la relever (pas instantané : errata phase 0). Conséquence : contre lui, une palette baissée **n'est pas** une porte durable, et une palette levée peut t'être refusée au moment du drop | Pouvoir de base (relever, bloquer) ; casse : **add-on Vorpal Sword** ; FACT [W page The Lich] |
 | The First | Undergate Attack détruit les palettes | **Add-on Shattered Wrist Rocket** |
-| Krasue | Vaulte les palettes (liste du wiki) ; **Head Form ne peut pas casser de palette** | FACT [PN 9.2.0] pour la Head Form |
+| Krasue | En **Head Form** : ne peut pas casser une palette baissée mais la **vaulte** (1,9 s ; fenêtre 1,67 s) ; stun de palette 2,5 s ; pas de Bloodlust | FACT [PN 9.2.0] (pas de casse, pas de Bloodlust) + [W page Krasue] (durées) |
 | Nightmare | Dream Pallets (fausses palettes qui se brisent au drop mais **peuvent** l'étourdir) | Pouvoir |
 | Doctor | Palettes illusoires (Madness, add-on « Order ») | Add-on |
-| Blocage de palettes levées | Hex: Blood Favour (LIVE : dégâts de tout type → palettes levées à 24/28/32 m bloquées 15 s, déduit du « was » PTB 10.2.0 [PN 559]) ; add-on « Iridescent Remnant » (tueur non vérifié ici) | Perk / add-on |
+| Blocage de palettes levées | Hex: Blood Favour (LIVE : dégâts de tout type → palettes levées à 24/28/32 m bloquées 15 s, déduit du « was » PTB 10.2.0 [PN 559]) ; add-on **Iridescent Remnant de l'Animatronic** : en se téléportant à une Security Door, bloque les palettes levées à 32 m de cette porte pendant 12 s (FACT [W page Animatronic]) ; Lich (Mage Hand, ci-dessus) | Perk / add-on / pouvoir |
 
 **Correction pour l'audit et le lot 6 §1.3** (CONFLICT-L7-03) : la liste de l'audit présentait Mastermind et Good Guy comme casseurs **sans** condition ; le wiki exige un add-on pour la **destruction** (Lab Photo, Hard Hat) ; il ajoutait aussi Shape, Executioner, Nemesis, Singularity, The First absents de la liste de l'audit.
 
-Lecture (HEURISTIC) : contre un casseur **de base**, une palette « god » ne vaut que ce que vaut le **stun** (drop sur lui) ; la garder levée pour plus tard n'a de sens que si son pouvoir est en cooldown ou inutilisable à cet endroit. Contre un casseur **par add-on**, identifier l'add-on (lot 5 / handbook) avant de changer ton plan : la plupart des tueurs de la liste ne l'ont pas.
+Cette liste corrigée est celle de `kb/ledgers/AUDIT_PHASE0_ERRATA.md` (qui prime sur l'audit) ; la ligne « casses instantanées » du lot 6 §1.3 reste l'ancienne liste de l'audit et doit être lue avec cette correction.
+
+Lecture (HEURISTIC, alignée sur le handbook §2.2 « le pré-drop n'est pas universel ») — trois cas **différents** contre un tueur qui a un pouvoir sur les palettes :
+1. **La casse lui coûte** (Blight : tokens de Rush) → le pre-drop reste rentable ; limite : il peut contourner sans casser.
+2. **Son pouvoir punit l'attente à la palette** (Doctor, Cannibal, Nemesis MR2+, Mastermind, Lich) → pre-drop **puis départ immédiat** vers la tile suivante, pas « pre-drop puis tenir ».
+3. **La casse est gratuite et le drop tardif n'est pas plus puni** (Demogorgon Shred, Oni en Fury, Ghoul avec tokens, Dark Lord loup) → la palette vaut surtout le **stun** ; la garder levée pour plus tard n'a de sens que si son pouvoir est en recharge ou inutilisable à cet endroit.
+Contre un casseur **par add-on**, identifier l'add-on (lot 5 / handbook) avant de changer ton plan : la plupart des tueurs de la liste ne l'ont pas. Contre un tueur qui a compris ta réponse par défaut (il attend le pre-drop), varier.
 
 ### 5.3 Perks qui modifient les tiles (valeurs LIVE lues ; les versions PTB 10.2.0 ne sont pas utilisées)
 
@@ -560,12 +566,18 @@ Lecture (HEURISTIC) : contre un casseur **de base**, une palette « god » ne va
 | I'm All Ears (tueur) | Aura 8 s d'un survivant qui fait un Rushed Vault à ≤ 48 m ; CD 60/45/30 s | FACT [W] |
 | THWACK! (tueur) | Casse de palette/mur → cris + aura à 36 m (jetons) | FACT [W] |
 | Wide Open Throttle (survivant, 10.0.1) | Fast vault d'une palette baissée → Haste 10/12,5/15 % 3 s ; la palette est **remise levée**, **bloquée 60 s**, aura visible par tous ; CD 60 s | FACT [PN 10.0.1] |
-| Any Means Necessary (survivant) | Relever une palette baissée | FACT [W Pallets] |
+| Any Means Necessary (survivant) | Relever une palette baissée en 5/4/3 s (aura des palettes baissées) | FACT [W Pallets + digest perks] |
+| Five Moves Ahead (survivant, **LIVE 9.5.0**) | En poursuite ou dans le TR : **drop de palette 50 % plus rapide** ; aura des 5 palettes et fenêtres les plus proches ; CD 40/35/30 s après un drop. (La version PTB 10.2.0 change l'effet : non utilisée) | FACT [W, historique 9.5.0, `wiki_perks_digest.md`] ; STRONG_SECONDARY |
+| Lithe / Balanced Landing (survivant) | Lithe : Haste 50 % 3 s après un Rushed Vault ; Balanced Landing : chute (drop d'étage) sans bruit, stagger −75 %, Haste 50 % 3 s ; Exhausted 60/50/40 s | FACT [W digest perks] |
+| Last Stand (survivant) | Après 120/105/90 s dans le TR sans être poursuivi, un Rushed Vault étourdit le tueur 3 s s'il est à ≤ 2,5 m de la fenêtre ; une fois par partie | FACT [W Windows] |
+| Enduring (tueur) | Stuns de palette −40/45/50 % | audit SS |
+| Spirit Fury (tueur) | Après 4/3/2 casses manuelles, la prochaine palette qui l'étourdit est cassée instantanément (le stun a lieu) | FACT [W digest perks] |
+| Superior Anatomy (tueur, **LIVE 9.0.0**) | Quand un survivant fait un Rushed Vault à ≤ 12 m : son prochain vault +30/35/40 % ; CD 25 s (la version affichée par le wiki est PTB 10.2.0 : non utilisée) | FACT [W, historique 9.0.0] ; STRONG_SECONDARY |
 | Finesse / Lithe / Quick & Quiet / Cut Loose / Dance With Me (survivant) | Fast vault plus rapide (Finesse +20 % sain) ; Haste après Rushed Vault (Lithe) ; bruit supprimé (Q&Q, Cut Loose) ; griffures supprimées (DWM) | FACT [W Windows] |
 | Windows of Opportunity (survivant) | Aura des ressources de chase ; **la page wiki affiche déjà la refonte PTB 10.2.0** (fenêtres seulement, 24 m, vault +10 %) → valeurs LIVE non relues ici | UNCERTAIN (LIVE) |
 | Apocalyptic Ingenuity (survivant) | Crée une palette **fragile** (se brise à l'usage mais peut étourdir) | FACT [W Pallets] |
 
-Lecture (HEURISTIC) : Bamboozle et Crowd Control transforment les tiles **à fenêtre seule** (L-T, fenêtres à sens unique) en tiles mortes ; contre elles, les tiles à **palette** gardent leur valeur. Wide Open Throttle transforme un pallet gym en tile réutilisable **une fois** (palette relevée) mais bloquée 60 s : ne pas compter sur un drop immédiat.
+Lecture (HEURISTIC) : Bamboozle et Crowd Control transforment les tiles **à fenêtre seule** (L-T, fenêtres à sens unique) en tiles mortes ; contre elles, les tiles à **palette** gardent leur valeur. **Wide Open Throttle retire la porte de la loop pendant 60 s** : la palette revient levée **et bloquée**, tu ne peux plus la baisser et le tueur passe dans l'ouverture. Ne pas l'activer sur la palette que tu comptes encore boucler ; l'utiliser pour une **transition** (Haste de 3 s vers la tile suivante) ou quand la palette allait être cassée de toute façon (HEURISTIC). Five Moves Ahead (LIVE) raccourcit le drop : il rend le pre-drop tardif et le stun plus faciles, sans changer la géométrie de la tile. Superior Anatomy rend un fast vault près du tueur (≤ 12 m) moins rentable, car son vault suivant est plus rapide : s'il te **suit** par les fenêtres, identifier la perk (lot 3, perk deduction) avant de rejouer une W. Last Stand, à l'inverse, punit un tueur qui te colle à la réception d'un vault (une seule fois par partie).
 
 ---
 
@@ -602,7 +614,7 @@ Lecture (HEURISTIC) : Bamboozle et Crowd Control transforment les tiles **à fen
 
 Le « test des 5 secondes » du seed (« où serai-je dans 5 s, pourra-t-il me toucher là ? ») est une bonne version courte de H1-H2 (lot 6 : OK, HEURISTIC).
 
-**Écart nécessaire au départ pour atteindre une ressource à D mètres** (CALC : `v_r × D / 4,0`, **à quoi s'ajoutent la fente ~2-2,5 m (UNCERTAIN) et une marge pour utiliser la ressource (durée de drop : UNCERTAIN)**) :
+**Écart nécessaire au départ pour atteindre une ressource à D mètres** (CALC : `v_r × D / 4,0`, **à quoi s'ajoutent la fente ~2-2,5 m (UNCERTAIN) et le temps d'utilisation de la ressource converti en mètres, `v_K × t_porte_S` (§2.1) : ≈ 2,3 m pour un fast vault, ≈ 5 m pour un vault de palette, durée de drop UNCERTAIN**). Palier de Bloodlust supposé constant pendant la course :
 
 | D | 4,6 · BL 0 | 4,6 · BL I | 4,6 · BL II | 4,6 · BL III | 4,4 · BL 0 | 4,4 · BL III |
 |---|---|---|---|---|---|---|
@@ -683,7 +695,7 @@ Erreur typique : quitter A **après** la casse (il a déjà fini son animation) 
 | Shack (A), blessé | Boucle fenêtre ; pre-drop | Les murs hauts du shack coupent ses tirs : **boucler la fenêtre** en coupant la LOS à chaque angle ; ne pas rester dans l'axe des ouvertures |
 | Sortie de A | Route directe par le muret bas (12 m) ; route le long du shack puis du 4-lane | Muret bas = tir par-dessus : **ne partir que sur une casse ou hors LOS** ; changer de trajectoire pendant la course (pas de ligne droite prévisible) |
 | 4-lane (B) | Couloir de la palette ; couloir de la fenêtre | Ne pas courir **dans l'axe** d'un couloir où il a la ligne : changer de couloir hors LOS ; pre-drop plus tôt (blessé) |
-| Vers le main | Route courte en open ; route plus longue couverte | **Couverte**, même 5 m plus longue : en open, la distance ne vaut presque rien contre un tir (lot 6 §2.3, limites) |
+| Vers le main | Route courte en open ; route plus longue couverte | **Couverte** en général, même 5 m plus longue : en open, la distance vaut **beaucoup moins** contre un tir (lot 6 §2.3, limites) — elle compte encore (temps de vol, portée maximale du pouvoir, charge à recharger), donc si la route couverte te fait perdre presque tout ton écart, la courte redevient discutable (SITUATIONAL) |
 | Main | Intérieur, plafond | Handbook : intérieur ↑ contre plusieurs ranged ; attention aux étages (tir depuis le haut) |
 | Filler (F) | Pre-drop ; LOS derrière l'objet | Une palette basse **ne bloque pas** une hachette (handbook) : F sert surtout d'**obstacle de LOS** ; un pre-drop ne te protège pas du tir |
 
@@ -703,7 +715,7 @@ Erreur typique : choisir la tile la plus proche à travers une zone ouverte ; co
 |---|---|---|
 | A consommée, BL II (+0,4) | Rester sur A ; B (15 m, inconnu) ; main (35 m) | A n'a plus de porte asymétrique → partir. Main à 35 m demande ≈ 8,8 m + fente contre un 4,6 à BL II (CALC) : **irréaliste** sans un coup reçu ou une casse |
 | Choix de B | Vérifier la palette de B depuis un checkspot pendant la course | Si la palette de B est **visible levée** → B ; si inconnue → B reste le seul choix atteignable, mais préparer le plan B (sa fenêtre : compteur neuf pour toi) |
-| À B | Fenêtre d'abord ; palette | Contre un casseur de base (Blight : Lethal Rush casse la palette), la palette vaut **le stun** : drop sur lui, pas de greed. Contre un M1 à BL II : pre-drop pour **remettre la Bloodlust à 0** quand il casse |
+| À B | Fenêtre d'abord ; palette | **Blight** : sa casse en Lethal Rush lui coûte ses tokens depuis 9.6.0 (FACT [audit : VP]) → le **pre-drop reste rentable** (lot 6 situation 1, handbook fiche 21) ; pas de greed debout derrière la palette quand il a des tokens. Contre un casseur **gratuit** (Demogorgon, Oni en Fury) : la palette vaut surtout le stun. Contre un M1 à BL II : pre-drop pour **remettre la Bloodlust à 0** s'il casse (il peut aussi contourner pour la garder) |
 | Vers le main (20 m) | Partir sur la casse ; rester | **Pendant la casse** (+9,4 m, BL 0) : 20 m demandent ≈ 3 m + fente → couvert. Le main offre plusieurs ressources (6.5) : destination la plus probable |
 | Main contre mobilité | Étages ; boucles serrées | Handbook : Blight — murs hauts gênent les rebonds (SITUATIONAL) ; boucles courtes à murs hauts plutôt que longues lignes droites |
 | Filler final | Pre-drop / stun | Contre un casseur de base, le filler ne vaut qu'un stun ; si pas de stun possible, le garder pour un allié plus tard (ressource d'équipe) |

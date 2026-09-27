@@ -187,7 +187,7 @@ Commun au royaume (FACT) : **The Tower (Coal Tower) et le Lumber Pile sur toutes
 - Fixe : main « Warehouse » 2 niveaux, escalier intérieur ; RDC : 3 casiers, **3 murs cassables**, **1 fenêtre** ; étage : **gen fixe**, **coffre fixe**, 1 mur cassable qui bloque un drop ; 3 drops depuis l'étage ; 2 palettes à l'extérieur du bâtiment.
 - RNG : escalier de sous-sol possible dans le main (sinon shack) ; gyms.
 - Verticalité : oui (étage + drops). Extérieur.
-- Tueurs (HEURISTIC) : petite carte → M1/lents moins pénalisés ; le tueur a intérêt à casser tôt les murs cassables qui prolongent le main (seed, logique plausible, non mesurée).
+- Tueurs (HEURISTIC) : petite carte (132 : ≈ 1,4 s de moins par traversée que la médiane, §3.0) → M1/lents un peu moins pénalisés ; le seed conseille au tueur de casser tôt les murs cassables qui prolongent le main (plausible, non mesuré). **Coût (CALC, audit M18)** : 3 murs × 2,34 s ≈ 7 s de tueur, soit ≈ 21 charges si 3 survivants réparent seuls (≈ 23 % d'un gen) — rentable seulement si le main sert ensuite à plusieurs chases ; un mur ouvert raccourcit aussi certains trajets du survivant (lot 7 §4.14). Côté survivant : un mur déjà cassé = loop du main à réévaluer au pre-run.
 - Plan (HEURISTIC) : début = gen de l'étage exposé (drops = sortie) ; milieu = garder la fenêtre RDC + drops pour une chase longue ; fin = petite carte → gates rapidement couvertes, ne pas compter sur un long trajet.
 - 9.3.2 : bugfix Nurse sur le rebord du bâtiment [6].
 
@@ -204,8 +204,8 @@ Commun au royaume (FACT) : **The Tower (Coal Tower) et le Lumber Pile sur toutes
 - RNG : crochet RDC possible, totem étage possible, sous-sol possible.
 - Verticalité : forte (4 drops).
 - Lecture (COMMUNITY, seed) : main réputé fort ; non mesuré.
-- Tueurs (HEURISTIC) : main à étages → difficile pour M1 ; tueurs qui ignorent les drops (téléport, blink) moins gênés.
-- Plan (HEURISTIC) : ne pas brûler le main tôt ; le grincement du Water Tower trahit un passage.
+- Tueurs (HEURISTIC) : main à étages → difficile pour M1 ; tueurs à mobilité verticale moins gênés, **avec nuance (audit M12)** : le handbook §3 (« Verticalité ») note qu'un blink de Nurse au mauvais étage lui coûte une fatigue — l'étage peut donc **aider** le survivant qui lit le blink ; Ghoul (bonds) et Hillbilly (rampes) : voir lot 7 §4.13.
+- Plan (HEURISTIC) : garder le main pour une chase de mi-partie **si** le tueur n'a pas d'outil qui l'annule (conditions et contre-cas : §4.2) ; le grincement du Water Tower trahit un passage (audible seulement à proximité ; portée et éventuelle notification **non vérifiées**).
 - 9.2.0 : fenêtre non vaultable corrigée ; 9.3.0 : gen inaccessible d'un côté corrigé ; 9.3.2 : navigation bobine/rocher [4][5][6].
 
 **Shelter Woods (I, 176 — la plus grande en rotation, ex æquo Azarov)** — STRONG_SECONDARY
@@ -213,7 +213,7 @@ Commun au royaume (FACT) : **The Tower (Coal Tower) et le Lumber Pile sur toutes
 - RNG : gyms, fillers, sous-sol (shack ou camp : non documenté).
 - Verticalité : faible. Visibilité : boisée (arbres/rochers) (seed).
 - Tueurs (HEURISTIC) : grande → mobilité avantagée, M1/lents désavantagés (gens éloignés) ; LOS cassée par les arbres aide les furtifs.
-- Plan (HEURISTIC) : survivants : étaler les gens, la distance joue pour eux ; fin : gates potentiellement très éloignées l'une de l'autre.
+- Plan (HEURISTIC) : survivants : éviter de laisser les 3 derniers gens proches (3-gen) — la distance entre gens restants joue pour eux, mais allonge aussi leurs propres trajets (26,5 s d'un bord à l'autre à 4,0 m/s, §3.0) ; fin : gates potentiellement très éloignées l'une de l'autre (positions RNG).
 
 **Suffocation Pit (I, 160)** — STRONG_SECONDARY
 - Fixe : « Mine » grand bâtiment **un seul niveau** avec échafaudages ; 3 entrées (2 grandes, 1 petite) ; 3 fenêtres dont **une toujours bloquée** ; 1 mur cassable ; 2 casiers ; **coffre au-dessus de l'emplacement de sous-sol**.
@@ -224,9 +224,9 @@ Commun au royaume (FACT) : **The Tower (Coal Tower) et le Lumber Pile sur toutes
 
 ### 3.2 Autohaven Wreckers (casse, vert)
 
-Commun (FACT) : **Crane, School Bus et Car Crusher sur toutes les cartes** [19] ; 9.3.0 : éclairage éclairci + **brouillard ajouté** + teinte revue [5] ; passes palettes 9.2.0 et 9.3.2 [4][6]. Hauts murs de ferraille (design des gyms) [17].
-- Lecture (COMMUNITY/seed) : réputé favorable aux survivants (hauts murs, faible LOS). Sans chiffre (§6).
-- Tueurs (HEURISTIC) : furtifs aidés par la faible LOS ; tueurs à distance gênés par les murs ; 9.3.0 (plus clair mais brouillard) change la lecture visuelle — effet net non mesuré.
+Commun (FACT) : **Crane, School Bus et Car Crusher sur toutes les cartes** [19] ; Crane : **toujours une palette entre la grue et une voiture** ; School Bus : 2 variantes, **un des deux vaults toujours bloqué** (lot 7 §4.15, wiki) ; 9.3.0 : éclairage éclairci + **brouillard ajouté** + teinte revue [5] ; passes palettes 9.2.0 et 9.3.2 [4][6]. **Murs des maze tiles : « Medium walls of metal scrap »** (wiki Maze Tiles, section Designs [17] ; lot 7 §4.0) — ⚠️ corrigé à l'audit (M01) : la version précédente disait « hauts murs (design des gyms) ». La page Wreckers' Yard parle, elle, de « high walls of scrap » pour la **périphérie** de cette carte (voir CONFLICT-B8-07).
+- Lecture (COMMUNITY/seed) : réputé favorable aux survivants (le seed invoque « hauts murs, faible LOS » — **contredit** pour les gyms par le wiki). Sans chiffre (§6).
+- Tueurs (HEURISTIC, révisé M01) : murs de gyms **medium** → LOS **partielle** (le tueur voit plus souvent la tête du survivant) : mindgames plus lisibles, et le lot 7 §5.1 classe ces murs parmi les « murets » défavorables au survivant contre **Ranged** (tir par-dessus). Les furtifs ne sont donc pas aidés partout ; les hauts murs de ferraille de la périphérie (Wreckers' Yard) restent des obstacles de LOS. 9.3.0 (plus clair mais brouillard) change la lecture visuelle — effet net non mesuré.
 
 **Azarov's Resting Place (I, 176 — grande)** — STRONG_SECONDARY
 - Fixe : « Office » petit bâtiment **un seul niveau** ; **1 fenêtre**, 2 entrées, 1 mur cassable, 2 casiers.
@@ -251,8 +251,8 @@ Commun (FACT) : **Crane, School Bus et Car Crusher sur toutes les cartes** [19] 
 **Wreckers' Yard (I, 144)** — STRONG_SECONDARY
 - Fixe : **pas de main building** ; **Killer Shack au centre, contient toujours le sous-sol** ; autour du shack : **pas de hauts murs** (murets bas, pull-downs, espace ouvert, souvent une petite colline) ; périphérie : hauts murs de ferraille, bus, grues, citernes. 6.7.0 : 5 maze tiles (au lieu de 6).
 - RNG : type des gyms, fillers.
-- Tueurs (HEURISTIC) : sous-sol central = crochet de sous-sol toujours proche → proxy-camp du sous-sol facile ; furtifs aidés en périphérie.
-- Plan (HEURISTIC) : survivants : éviter d'être descendu près du centre (sous-sol garanti) ; tueur : chaser vers le centre.
+- Tueurs (HEURISTIC) : sous-sol central = crochets de sous-sol à courte distance de presque toute la carte → le tueur peut l'utiliser plus souvent qu'ailleurs ; périphérie à hauts murs de ferraille (page de la carte) = obstacles de LOS.
+- Plan (HEURISTIC, révisé M16) : survivants : quand on a le choix de la direction de chase, préférer la périphérie au centre dégagé (murets bas autour du shack = peu de LOS à casser) ; si l'on tombe près du centre, s'attendre au sous-sol et préparer le sauvetage à plusieurs (sortie unique : lot 7 §4.15). Le tueur ne choisit pas librement le sens de la chase et n'est pas obligé d'utiliser le sous-sol (portage plus long ailleurs) : ne pas en faire une certitude.
 - 9.2.0 : vault de la grue réparé [4].
 
 **Wretched Shop (I, 164)** — STRONG_SECONDARY
@@ -265,7 +265,7 @@ Commun (FACT) : **Crane, School Bus et Car Crusher sur toutes les cartes** [19] 
 ### 3.3 Coldwind Farm (ferme, orange, « en plein jour » depuis 4.7.0)
 
 Commun (FACT) : **Sacrificial Tree (« Cow Tree ») et Harvester sur toutes les cartes** [19]. Cow Tree : murets de pierre, **1 fenêtre dans un muret + 1 palette entre deux murets** [17]. Harvester : accès par la tête et la rampe ; en haut, vault gauche → panneau latéral **sans retour**, vault droit → balle de foin de la rampe **avec aller-retour** (ancienne quasi-infinite, nerfée) [17]. Maïs (seed : casse la LOS sans collision — cohérent avec l'expérience, non sourcé ici). 8.1.0 : nouveaux maze tiles + casiers. Seule passe palettes : **9.2.0** (pas en 9.3.0/9.3.2) [4][5][6].
-- Tueurs (HEURISTIC) : champs → LOS basse au niveau du sol mais le maïs cache ; furtifs et tueurs à « lecture de scratch marks » avantagés dans le maïs ; tueurs à projectiles gênés par le maïs (pas de collision mais cache la cible — non mesuré).
+- Tueurs (HEURISTIC, révisé M11) : **deux terrains opposés sur la même carte** — champs de maïs (le maïs cache sans bloquer : furtifs et tueurs qui lisent les scratch marks y sont aidés ; projectiles gênés car la cible est cachée) **et** zones dégagées en plein jour autour des structures (lecture à distance facile pour les deux camps : Ranged aidés, furtifs repérés). Les murs des maze tiles de Coldwind sont **hauts** (lot 7 §4.0) : LOS bloquée sur les gyms. Contre les auras (perks, pouvoirs), le maïs n'aide pas (lot 7 §4.15). La classification « lumineuse / ouverte » du §4 ne vaut donc que **hors maïs et hors gyms**.
 - « Pas de 4-lane à Coldwind » (seed, wiki Maze Tiles) : **possiblement périmé** depuis le pool commun 9.2.0 (UNCERTAIN).
 
 **Fractured Cowshed (152)** — STRONG_SECONDARY
@@ -282,7 +282,8 @@ Commun (FACT) : **Sacrificial Tree (« Cow Tree ») et Harvester sur toutes les 
 
 **Rotten Fields (160)** — STRONG_SECONDARY
 - Fixe : **aucun bâtiment principal** ; seuls landmarks : **Killer Shack** et **Sacrificial Tree** (+ Harvester commun au royaume) [2][17].
-- Sous-sol : le wiki ne l'écrit pas pour cette carte ; faute de main, il est **très probablement** toujours au shack (inférence, non sourcée) ; le seed l'affirme comme fait → IMPRÉCIS (probable mais non documenté).
+- Sous-sol : **toujours dans le Killer Shack** — FACT [17] (page Killer Shack : « On Wreckers' Yard and Rotten Fields, the Killer Shack always contains the staircase leading to the Basement ») ; concorde avec le lot 7 §1.2. ⚠️ Corrigé à l'audit (M02) : la version précédente parlait d'une inférence non sourcée ; le seed avait raison (verdict → OK).
+- Plan (HEURISTIC) : même logique que Wreckers' Yard pour le sous-sol (position connue dès qu'on a repéré le shack).
 - Seed « presque symétrique, moitié à 2 structures = le haut » (guide Steam) : NON VÉRIFIÉ.
 - Tueurs (HEURISTIC) : pas de main fort → dépend des tiles RNG ; grande (160) → mobilité avantagée.
 
@@ -308,8 +309,8 @@ Commun : passes 9.2.0, 9.3.0 (**main moins safe : pouvait spawn près des maze t
 - RNG : sous-sol possible ; **position/contenu du main soumis à une spawn logic revue en 9.3.0** (fenêtre ↔ palette).
 - 9.2.0 (wiki seul) : 172 → 152 sqT.
 - Seed « cabane avec gen, ruines, bois brûlés » : NON VÉRIFIÉ.
-- Tueurs (HEURISTIC) : 2 gens dans un bâtiment à étages = cluster naturel pour un 3-gen tueur (non garanti selon le reste de la carte).
-- Plan (HEURISTIC) : début = les 2 gens du main se font en parallèle si le tueur est loin ; fin = attention au 3-gen centré sur le main.
+- Tueurs (HEURISTIC) : 2 gens fixes dans un bâtiment à étages = **les deux tiers** d'un 3-gen possible ; le 3-gen n'existe que si un 3e gen (RNG) est proche **et** si ce sont ces trois-là qui restent (audit M09).
+- Plan (HEURISTIC) : début = les 2 gens du main se font en parallèle si le tueur est loin (risque : deux survivants au même endroit = une seule patrouille les trouve) ; fin = vérifier dès la mi-partie si un 3e gen proche du main existe — sinon, pas de 3-gen à craindre ici.
 
 **Father Campbell's Chapel (I, 140)** — STRONG_SECONDARY
 - Fixe : Chapelle, seuls **RDC + 1er étage** accessibles (escalier supérieur bloqué par des gravats) ; **gen à l'étage** ; 3 casiers en bas + 1 en haut ; plusieurs fenêtres. **Clown's Caravan** (zone carnaval : Zoltar, stands, cible) : **plusieurs palettes**, **1 fenêtre** sur la caravane principale.
@@ -341,11 +342,12 @@ Commun : **Pier (ponton) sur toutes les cartes** [19] ; 9.3.0 : **spawn logic de
 ### 3.6 Léry's Memorial Institute — Treatment Theatre (98 — la plus petite)
 
 STRONG_SECONDARY
-- Fixe : carte **intérieure**, **pas de shack, pas de maze tiles, pas de collines**. **Treatment Room** : 2 niveaux, 2 escaliers ; en bas : **gen** (+ crochet très proche possible) ; en haut : galerie avec fenêtres et drops, **coffre à l'étage** ; réparer le gen **ouvre des volets de la galerie → nouveaux vaults**. **Library** : 3 entrées, 1 fenêtre, bureau central, **palette dans un couloir étroit** devant une porte ; gen/sous-sol/totem possibles. Panneaux lumineux clignotants près des salles avec gen (aide à la navigation).
+- Fixe : carte **intérieure**, **pas de shack, pas de maze tiles, pas de collines**. **Treatment Room** : 2 niveaux, 2 escaliers ; en bas : **gen** et **un crochet** (« The lower floor contains … a Generator, and a Hook » — corrigé à l'audit M04, l'ancienne version disait « crochet possible ») ; en haut : galerie avec fenêtres et drops, **coffre à l'étage** ; réparer le gen **ouvre des volets de la galerie → nouveaux vaults**. **Library** : 3 entrées, 1 fenêtre, bureau central, **palette dans un couloir étroit** devant une porte ; gen/sous-sol/totem possibles.
+- **Probable, pas garanti** (M04) : panneaux lumineux clignotants près des salles avec gen — la note 2.5.0 dit « **increased the chances** to spawn blinking signs » : leur présence est une probabilité, pas une règle.
 - RNG : **2.7.0 : fenêtres à configuration fixe par salle ; le RNG porte sur les ENTRÉES des salles** ; sous-sol (Treatment Room ou Library) ; répartition des gens.
 - Verticalité : Treatment Room seulement.
 - Tueurs (HEURISTIC) : très petite, couloirs → tueurs de zone/pièges et M1 moins pénalisés ; tueurs à grande mobilité perdent leur avantage de distance.
-- Plan (HEURISTIC) : survivants : lire les panneaux pour trouver les gens ; garder la Treatment Room (vaults ouverts après le gen) pour la mi-partie.
+- Plan (HEURISTIC) : survivants : utiliser les panneaux **quand ils sont là** pour trouver les gens (un couloir sans panneau ne prouve pas l'absence de gen) ; la Treatment Room contient un crochet fixe au RDC : une chase qui s'y termine se termine près d'un crochet ; ses vaults supplémentaires n'existent qu'**après** la réparation de son gen.
 - Seed « fenêtres ET entrées fixes » → **FAUX** pour les entrées (2.7.0).
 
 ### 3.7 Red Forest (rondins)
@@ -372,19 +374,19 @@ STRONG_SECONDARY (seule Badham I en matchmaking public depuis 8.6.0 ; II-V en Cu
 - RNG : sous-sol (Preschool ou shack), coffre possible, maisons (le seed dit : maison 2 étages + maison de Freddy qui échangent leurs positions « selon la variante » — **non vérifié**, et moot : seule I tourne).
 - Lecture (COMMUNITY, seed) : réputée très favorable aux survivants (maisons + rue, beaucoup de palettes) — pas de chiffre.
 - Tueurs (HEURISTIC) : beaucoup de bâtiments = murs hauts et fenêtres → M1 désavantagés ; tueurs anti-loop / à distance en ligne de rue avantagés.
-- Plan (HEURISTIC) : tueur : casser tôt les murs cassables de la Preschool s'il veut réduire le main ; survivants : préserver les palettes de clôture.
+- Plan (HEURISTIC, nuancé M18) : tueur : casser les murs cassables latéraux de la Preschool **ouvre** de nouvelles entrées — cela peut raccourcir ses trajets dans le main, mais aussi donner des sorties au survivant ; effet net **non mesuré**, coût 2,34 s par mur ; survivants : vérifier au pre-run quels murs sont déjà ouverts, et ne pas jeter les palettes de clôture sans nécessité (elles sont finies, lot 7 §1.1).
 - Désactivée temporairement avant 10.0.1 [11].
 - Seed « fenêtre ajoutée 8.3.0 retirée 8.3.1 » : NON VÉRIFIÉ.
 
 ### 3.9 Gideon Meat Plant — The Game (142 = 76 haut + 66 bas)
 
 STRONG_SECONDARY
-- Fixe : **seule carte 100 % intérieure avec maze tiles** ; **2 étages sur toute la surface** ; **pas de shack** ; **Bathroom** (landmark) : salle longue et étroite dans un coin du **RDC**, **gen**, casiers, **coffre** ; **escalier du sous-sol toujours derrière la Bathroom** (sous-sol **fixe**). **Tous les gens sont reliés à des portes coulissantes** : une porte fermée ⇒ un gen non terminé à proximité. **Pig Vat** : ouverture en bas permettant de vaulter entre les étages. Freezer Room, Incinerator/Rack présents (lore).
+- Fixe : **seule carte 100 % intérieure avec maze tiles** ; **2 étages sur toute la surface** ; **pas de shack** ; **Bathroom** (landmark) : salle longue et étroite dans un coin du **RDC**, **gen**, casiers, **coffre** ; **escalier du sous-sol toujours derrière la Bathroom** (sous-sol **fixe**). **Tous les gens sont reliés à des portes coulissantes** (« All Generators on The Game are connected to sliding doors » [2]). ⚠️ M07 : la déduction « une porte fermée ⇒ un gen non terminé à proximité » n'est **pas** écrite par le wiki (il ne dit ni quand la porte s'ouvre ni quand elle se ferme) → **HYPOTHESIS** à vérifier en Custom Game. **Pig Vat** : ouverture en bas permettant de vaulter entre les étages. Freezer Room, Incinerator/Rack présents (lore).
 - RNG : type des gyms intérieurs, autres gens.
 - Seed (Control Room « 12 h », coins « pallet stairs »/« hole room ») : **NON VÉRIFIÉ** (absent du wiki ; convention de callout du seed).
 - Verticalité : totale (2 étages) → sons et Terror Radius trompeurs (HEURISTIC).
 - Tueurs (HEURISTIC) : couloirs et étages → zone/pièges aidés ; tueurs dépendant de l'ouïe gênés par la verticalité (les deux camps).
-- Plan (HEURISTIC) : utiliser les portes coulissantes comme « radar à gens » ; ne jamais se faire descendre près de la Bathroom (sous-sol fixe).
+- Plan (HEURISTIC, révisé M07/M15) : **si** l'hypothèse des portes est confirmée, elles serviraient de « radar à gens » ; en attendant, ne pas s'y fier seul. Sous-sol fixe derrière la Bathroom : quand on a le choix du trajet de chase, l'éloigner de ce coin ; si l'on tombe près de la Bathroom, les alliés savent **où** sera le crochet de sous-sol — c'est aussi une information pour préparer le sauvetage (pas une interdiction absolue : une bonne chase près de la Bathroom vaut mieux qu'une chase courte ailleurs).
 
 ### 3.10 Yamaoka Estate (bois moussu, bambou)
 
@@ -416,17 +418,17 @@ Commun : passes 9.2.0 et 9.3.2 (« Ormond ») ; 9.3.0 nomme **Mount Ormond Resor
 **Ormond Lake Mine (132)** — STRONG_SECONDARY
 - Fixe : **Mine Building** 2 niveaux, **4 accès à l'étage** (2 extérieurs, 2 intérieurs), **gen garanti à l'étage** ; palettes : **3 emplacements à l'étage, 2 au RDC** (« spawns » : le wiki ne dit pas si toutes apparaissent → le « 5 palettes » du seed est IMPRÉCIS) ; 3 fenêtres (2 à l'étage près du gen, 1 au RDC à côté d'un mur cassable) ; **tunnel de glace souterrain vers la Mine Tower**. **Mine Tower** (à côté) : **gen garanti + palette garantie**, fenêtre à l'étage, drops, drop vers le milieu du tunnel. **Ascenseur scripté** au bord de la carte qui s'écrase quand un joueur approche (bruit fort).
 - RNG : reste des tiles, sous-sol (non documenté).
-- Tueurs (HEURISTIC) : 2 gens fixes **proches l'un de l'autre** (building + tower) → cluster naturel de fin de partie ; petite carte → M1 moins pénalisés.
-- Plan (HEURISTIC) : survivants : ne pas laisser les gens du complexe Mine pour la fin (3-gen facile à tenir) ; l'ascenseur trahit un passage.
+- Tueurs (HEURISTIC) : 2 gens fixes **proches l'un de l'autre** (building + tower) → deux tiers d'un 3-gen ; il ne devient un vrai 3-gen que si un 3e gen RNG est proche (M09) ; petite carte → M1 un peu moins pénalisés (§3.0).
+- Plan (HEURISTIC) : survivants : dès qu'un 3e gen proche du complexe Mine est repéré, éviter que ces trois-là soient les derniers (en finir au moins un avant la mi-partie) ; contre-cas : si le tueur patrouille justement le complexe, le forcer à y rester en réparant ailleurs vaut aussi (il ne peut pas être partout) ; l'ascenseur trahit un passage (portée non vérifiée).
 
 ### 3.12 Hawkins National Laboratory — The Underground Complex (138, estimation)
 
 VERIFIED_MULTI_SOURCE pour 9.3.0, STRONG_SECONDARY sinon
 - Fixe : intérieur **2 niveaux** avec passerelles ; **pas de shack, pas de maze tiles** ; **Exit DOORS** coulissantes au lieu d'Exit Gates (plafond trop bas) ; **Rift Lab** : 2 niveaux reliés par escalier ; en bas labo fermé + le Rift, accès par un vault ou une porte ; **fenêtre à côté d'un bureau**, **palette entre un bureau et le mur au fond du labo** ; étage avec drops ; casiers en bas. **Interrogation Rooms** à l'étage (vaults, palettes possibles) ; **Isolation Room** voisine : **gen fixe**. Une moitié de carte (côté Rift Lab) en visuel « Upside Down » (plus sombre, cendres).
-- RNG : **sous-sol : 2 emplacements possibles dans le Rift Lab** ; gen du Rift Lab (étage) possible ; crochet, coffre, totem possibles.
+- RNG : **sous-sol : 2 emplacements possibles au total, dont un dans le Rift Lab** (« located in the Rift Lab (one of the two possible locations of the Basement staircase) » ; « The Rift Lab potentially contains an entrance to the Basement ») — l'autre emplacement n'est **pas décrit** ; ⚠️ corrigé à l'audit (M06) : l'ancienne version plaçait les deux dans le Rift Lab ; gen du Rift Lab (étage) possible ; crochet, coffre, totem possibles.
 - 9.3.0 : navigation améliorée, **au moins une porte ouverte en permanence sur chaque côté des grandes salles**, nouvel accès au gen au-dessus de la control room.
 - Tueurs (HEURISTIC) : couloirs/portes → zone/pièges et tueurs qui coupent les chemins aidés ; ouïe brouillée par les 2 niveaux.
-- Plan (HEURISTIC) : ne pas se faire descendre près du Rift Lab (sous-sol) ; côté Upside Down plus sombre = meilleur pour se cacher, pire pour lire le tueur.
+- Plan (HEURISTIC, révisé M06) : repérer tôt **lequel** des deux emplacements de sous-sol est actif (Rift Lab ou l'autre) avant d'en tirer une règle de chase ; côté Upside Down plus sombre = meilleur pour se cacher, pire pour lire le tueur. Carte riche en casiers et en portes : lire aussi la fiche Dredge (lot 4 g4 : intérieurs à casiers = avantage tueur).
 - Seed « la plus mortelle (54,7 %) » : chiffre supprimé (§6).
 
 ### 3.13 Grave of Glenvale — Dead Dawg Saloon (I, 136)
@@ -434,10 +436,10 @@ VERIFIED_MULTI_SOURCE pour 9.3.0, STRONG_SECONDARY sinon
 STRONG_SECONDARY (+ correction officielle 9.3.0)
 - Fixe : **Saloon** 2 étages, beaucoup de fenêtres aux 2 niveaux, **gen sur le porche de l'étage** ; **Gallows** près du Saloon, du shack et de l'entrée de la ville : **gen à côté du pendu** (le terminer ouvre 2 trappes qui font tomber les survivants), **2 casiers sous le plancher** ; **Water Tower + Windmill** + petite cabane : **gen** (côté chemin **ou** près de la cabane), **palette entre les bases**, **fenêtre dans la cabane**, 2 casiers ; **shack western avec mur cassable** ; **pas de collines**. Carte au crépuscule (seule). Gyms du royaume (L-T et 4-lane) **toujours avec un mur cassable** [17].
 - RNG : sous-sol possible (Saloon) ; coffres, totems, crochet possibles.
-- ⚠️ Wiki « totem garanti derrière le water tower » → **corrigé en 9.3.0** (« a totem was guaranteed to spawn in the same place » = bug) → périmé.
+- ⚠️ Wiki « totem garanti derrière le water tower » (Trivia, **et** section Contents : « The structure contains a Totem in the small wooden shack at the back ») → **corrigé en 9.3.0** (« a totem was guaranteed to spawn in the same place » = bug) → périmé ; traiter ce totem comme **possible**, pas garanti.
 - Seed (Western gym, « Sandwich gym », « Double L ») : noms communautaires NON VÉRIFIÉS.
-- Tueurs (HEURISTIC) : 3 gens fixes, dont Saloon + Gallows proches → cluster ; ville = murs et bâtiments nombreux, murs cassables partout → tueurs qui cassent vite les murs (ou qui s'en moquent) aidés.
-- Plan (HEURISTIC) : tueur : casser les murs cassables des gyms tôt ; survivants : les gens Saloon/Gallows proches forment un 3-gen potentiel.
+- Tueurs (HEURISTIC) : 3 gens fixes, dont Saloon + Gallows proches (proximité avec le gen du Water Tower **non documentée**) → deux tiers d'un 3-gen (M09) ; ville = murs et bâtiments nombreux, murs cassables partout → tueurs qui cassent vite les murs (Brutal Strength, lot 7 §4.14) ou qui les ignorent (Nurse, Artist, Executioner — handbook §3 « Intérieur ») aidés.
+- Plan (HEURISTIC, révisé M18) : tueur : casser les murs des gyms **en patrouille** plutôt qu'en chase (2,34 s chacun ; nombreux murs = coût cumulé élevé, cf. calcul Coal Tower) ; survivants : les gens Saloon/Gallows proches deviennent un 3-gen seulement si un 3e gen proche reste avec eux — le vérifier à mi-partie. Le gen des Gallows ouvre 2 trappes qui font tomber les survivants : ne pas le finir en étant sur le plancher en chase (effet exact en chase **non vérifié**).
 
 ### 3.14 Silent Hill — Midwich Elementary School (113,5 = 64 bas + 49,5 haut)
 
@@ -445,8 +447,8 @@ STRONG_SECONDARY
 - Fixe : intérieur **2 niveaux** (+ extérieurs) ; **pas de shack** ; **Courtyard** central (landmark) : **gen**, nombreux casiers, **nombreuses palettes**, **2 fenêtres**, plusieurs murs cassables, nombreuses entrées ; **Clock Tower Secret Room** : réparer le gen du **Chemistry Lab** puis celui de la **Music Room**, puis déclencher l'EGC → la porte s'ouvre ; coffre garanti dedans (peut être vide selon l'ordre). Achievement : gen de la Music Room **ou** du Chemistry Lab.
 - RNG : totem, coffre possibles (Courtyard) ; gens des salles.
 - 8.2.0 : **LOS des couloirs réduite**, nouveaux tiles intérieurs/extérieurs.
-- Tueurs (HEURISTIC) : très petite et intérieure → M1/zone aidés ; tueurs à distance moins aidés depuis 8.2.0 (couloirs coupés).
-- Plan (HEURISTIC) : Courtyard = cœur des ressources ; ne pas l'épuiser tôt.
+- Tueurs (HEURISTIC) : très petite (emprise au sol 64 sqT au RDC) et intérieure → M1/zone aidés ; tueurs à distance moins aidés depuis 8.2.0 (couloirs coupés) ; intérieurs à coins favorables aux furtifs (handbook §2 « Furtif » : Ghost Face, Onryō) et casiers nombreux (Dredge, lot 4 g4) ; exception de l'espacement des palettes (lot 7 §1.1 : Midwich citée par le wiki).
+- Plan (HEURISTIC) : Courtyard = cœur des ressources (palettes nombreuses, 2 fenêtres) ; l'utiliser quand il **rapporte** une longue chase, pas le garder par principe (§4.2 : une ressource gardée alors qu'un allié tombe faute de palettes n'a rien rapporté).
 - Orientation « côté toilettes + réception = bas de carte » (seed) : convention, NON VÉRIFIÉE.
 
 ### 3.15 Raccoon City — RPD East Wing / RPD West Wing (non mesurées)
@@ -455,7 +457,7 @@ STRONG_SECONDARY — deux cartes distinctes, **toutes deux en rotation** (exempt
 - Fixe (les deux) : **Main Hall** (statue) : **gen soit en bas près du comptoir, soit à mi-hauteur au pied de la statue** (2 positions → RNG entre deux) ; **pas de shack, pas de maze tiles** ; **trou dans le sol de la Library vers la Dark Room** (les deux ailes) ; sur le RPD **original**, le wiki décrit **3 emplacements d'Exit Gates** et **2 emplacements de sous-sol** (escalier ex-chenil côté est, escalier sous la Dark Room côté ouest) — leur répartition exacte par aile n'est **pas documentée** (UNCERTAIN) ; 7.2.0 : porte cour d'entrée → Fire Escape élargie (**un crochet est toujours juste derrière**) ; toit accessible par le Fire Escape (East) ; passerelle de la Library bloquée (les deux).
 - **East Wing** : moitié ouest (Operations, Records, S.T.A.R.S., Armurerie…) bloquée ; Break Room ouverte (mur retiré).
 - **West Wing** : moitié est haute (Interrogation, Observation, Press Room, Break Room) bloquée ; **S.T.A.R.S. Office ouvert sur l'Armurerie** ; zone extérieure agrandie derrière Safety Deposit/Dark Room ; accès au toit bloqué.
-- Tueurs (HEURISTIC) : intérieur à étages + portes → zone/pièges aidés ; navigation complexe = avantage au camp qui connaît la carte.
+- Tueurs (HEURISTIC) : intérieur à étages + portes → zone/pièges aidés ; Nemesis : zombies plus gênants dans les couloirs (lot 4 g4, handbook §3) ; Dredge : casiers nombreux ; navigation complexe = avantage au camp qui connaît la carte (en SoloQ, supposer que les alliés la connaissent mal).
 - Plan (HEURISTIC) : repérer tôt la position du gen du Main Hall (bas ou statue) ; repérer où le sous-sol est apparu dès la première rotation.
 
 ### 3.16 Forsaken Boneyard (grès, racines)
