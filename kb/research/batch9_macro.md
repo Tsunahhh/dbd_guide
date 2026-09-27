@@ -523,3 +523,174 @@ Réponse : **passer en mode conversion** : moins de soins, plus de gens ; sacrif
   - Ce dilemme est **moral autant que stratégique** : jouer la trappe quand le sauvetage est impossible n'est pas « égoïste » (EXPERT OPINION non sourcée).
 
 ---
+## 7. Arbres de décision (format §32)
+
+> Les arbres sont des **HEURISTIC**. Ils ordonnent les questions ; ils ne remplacent pas le jugement. Chaque feuille donne une **action par défaut** et sa **principale exception**. Les branches `[SoloQ]` et `[SWF]` sont séparées.
+
+### 7.1 CROCHET — un allié vient d'être accroché
+
+```
+HOOK → Le tueur quitte-t-il la zone du crochet (> 16 m et s'éloigne) ?
+│
+├─ OUI, il part
+│   ├─ Suis-je le sauveteur le plus pertinent ?
+│   │   [SoloQ] Portraits + Kindred : quelqu'un va-t-il déjà vers le crochet ?
+│   │       ├─ Oui, plus proche que moi → je reste sur mon gen.
+│   │       ├─ Oui, mais plus loin → j'y vais si je suis sain ; sinon je laisse.
+│   │       └─ Aucun signe après ~15-20 s → j'y vais (décision robuste, §3.5).
+│   │   [SWF] Le shot-caller désigne ; le sauveteur annonce l'ETA ; les autres ne bougent pas.
+│   ├─ Trajet < temps restant de la phase (70 s) ?
+│   │   ├─ Oui → décrocher dès l'arrivée si le TR est absent (le tueur engagé ailleurs est le meilleur moment).
+│   │   └─ Non → quelqu'un d'autre doit y aller, ou l'allié passera en phase 2 : l'accepter si le gen en cours va tomber.
+│   └─ Après le décrochage : l'allié part à l'opposé du tueur, CASSE LA LOS pendant les 10 s d'Elusive ;
+│       soin loin du crochet (§7.2).
+│
+└─ NON, il reste (face camp < 16 m OU proxy camp 16-30 m)
+    ├─ Distance du tueur au crochet ?
+    │   ├─ < ~10 m, immobile (face camp) → ne PAS entrer dans les 16 m (ralentit l'anti-camp, FACT).
+    │   │   Gens à fond. Réévaluer : la jauge monte ×2 après 10 s, ×4 après 20 s de présence.
+    │   │   EXCEPTION : portes alimentées → anti-camp coupé (FACT) → voir 7.6.
+    │   └─ 16-30 m (proxy) → l'anti-camp ne remplit RIEN (FACT). Il faut une décision :
+    │       ├─ Hook stage de l'accroché ?
+    │       │   ├─ Phase 1, > 30 s restantes → attendre qu'il s'engage (chase, kick lointain). Gens hors de sa zone.
+    │       │   ├─ Phase 1, < ~15 s restantes → décrocher maintenant (trade accepté) SI sauveteur sain,
+    │       │   │   0-1 crochet, ressource de chase proche. Sinon, laisser passer en phase 2.
+    │       │   └─ Phase 2 (Struggle) → dernière chance : sauvetage prioritaire si > 2 survivants ;
+    │       │       à 2 survivants, voir 6.4 (Mori, sacrifice si tous accrochés).
+    │       ├─ Pouvoir du tueur ?
+    │       │   ├─ Coup unique / ranged prêt (Hillbilly, Huntress, Deathslinger…) → le trade coûte 2 états : attendre.
+    │       │   └─ M1 pur, pouvoir en cooldown → le trade est plus jouable.
+    │       ├─ États des survivants ?
+    │       │   ├─ Sauveteur blessé → ne pas trader (2 au sol / crochet enchaîné).
+    │       │   └─ Plusieurs blessés dans l'équipe → le tueur récupère la pression après le trade : prudence.
+    │       └─ Gens restants ?
+    │           ├─ ≥ 3 → le camp du tueur est un cadeau : maximiser les gens loin de lui.
+    │           └─ 1 → finir le gen PEUT être meilleur que sauver, SAUF que l'alimentation coupe l'anti-camp :
+    │                 voir 99 (§6.1).
+    │
+    └─ Contre-indications spéciales :
+        • Sous-sol : crochets insabotables (FACT) → sauvetage plus long, attendre que le tueur parte loin.
+        • The Judgment (Exile) : pas de crochet → pas de protections de perks (FACT) ; route par les sanctuaires.
+        • Grim Embrace / Pain Res suspectés (lot 3) : le sauvetage peut déclencher le ralentissement, le coût reste faible.
+```
+
+**Erreurs typiques** : deux sauveteurs (SoloQ) ; décrocher devant un tueur au pouvoir prêt ; rester dans les 16 m pendant un face camp ; « le plus proche décroche toujours » (règle absolue du seed : ignore la santé du sauveteur et le hook stage).
+
+### 7.2 SOIN
+
+```
+Je suis blessé (ou un allié l'est) → Le tueur est-il proche (TR, chase en cours près de nous) ?
+├─ OUI → pas de soin. Partir ; soin interrompu conservé (sauf Haemorrhage −7 %/s, FACT).
+└─ NON → Le tueur a-t-il un coup unique fréquent ou une blessure à distance / statut ?
+    ├─ Coup unique (Hillbilly, Cannibal, Oni Fury, Shape EI…) → soin peu rentable ; gens.
+    ├─ Blessure à distance / statut (Legion, Plague, Trickster…) → ne pas soigner par réflexe ;
+    │     soigner si l'on va prendre une chase bientôt (le meilleur looper), sinon gens.
+    └─ M1 standard → Deep Wound ?
+        ├─ Oui → mender d'abord (10 s seul / 6 s par un allié, FACT) : sinon mise au sol à la fin du timer.
+        └─ Non → Combien de gens restent ?
+            ├─ 1 gen ET Adrenaline dans l'équipe (Match Details) → le porteur ne se soigne pas.
+            │     (Exception : Terminus suspecté → Broken → Adrenaline ne soigne pas.)
+            ├─ Gen en cours > ~70 % et tueur loin → finir d'abord.
+            └─ Sinon → Qui soigne ?
+                ├─ Allié disponible à < ~10 s de trajet → soin altruiste (32 s-surv).
+                ├─ Med-Kit → auto-soin (~24 s CALC) loin des gens occupés.
+                └─ Rien → rester blessé et réparer ; Self-Care si porté (valeurs UNCERTAIN).
+    [SoloQ] Un allié blessé vient vers moi : vérifier le TR avant d'arrêter mon gen.
+    [SWF] Annoncer « je reste blessé » évite qu'un allié quitte son gen pour rien.
+```
+
+### 7.3 GEN — continuer, lâcher, tenir à 99
+
+```
+Je répare → Un signal de menace arrive (TR, chase qui approche, alerte de perk) ?
+├─ NON → continuer. Skill checks : viser Great (+1 %) sans risquer le raté (−10 %, 3 s).
+└─ OUI → Temps pour finir (charges restantes / débit) < temps d'arrivée estimé − 2 s ?
+    ├─ OUI → finir (un gen fini ne peut pas être frappé).
+    └─ NON → Suis-je furtif ici (pas vu, tueur sans info) ?
+        ├─ OUI → lâcher MAINTENANT, marcher hors LOS (pas de griffures), revenir après son passage.
+        │     Après un kick, revenir vite : il faut 5 % (4,5 s solo) pour stopper la régression.
+        └─ NON (il m'a vu) → partir vers une ressource de chase, loin des autres réparateurs.
+    Cas particuliers :
+    • C'est le dernier gen ? → 99 si allié accroché / tueur au crochet / endgame perks suspectés (§6.1),
+      SAUF Ruin actif, hérétique (Judgment), ou tueur en approche directe (le kick transforme 99 en ~90).
+    • Gen de 3-gen ? → le gen du triangle vaut plus qu'un gen extérieur : accepter plus de risque (§2.2).
+    • Deux sur le gen ? → le plus faible en chase part le premier ; l'autre finit si c'est possible.
+    • Gen frappé 4+ fois (pointes) ? → au 8e event, le tueur ne peut plus le frapper (FACT) : bon gen pour la fin.
+    [SoloQ] Ne pas supposer qu'un autre reviendra sur un gen lâché.
+    [SWF] Annoncer « gen X à 60, lâché » pour que quelqu'un le reprenne.
+```
+
+### 7.4 TOTEM
+
+```
+Je vois un totem → Est-il allumé (Hex) ?
+├─ OUI (Hex) → L'Hex change-t-il les décisions de l'équipe maintenant ?
+│   ├─ OUI (Ruin : gens qui fondent ; Hex d'endgame ; Hex de chase qui fait perdre des chases)
+│   │     → purifier (14 s) si le tueur est loin ; ou bénir en Boon (28 s sur un Hex, FACT) si l'équipe
+│   │       en tire profit (Boons dans le loadout visible en Match Details).
+│   └─ NON / effet faible → purifier en passant quand c'est sûr ; ne pas traverser la carte pour 14 s.
+│   (Le seed disait « purifiez un Hex dès qu'il s'allume » : règle absolue relevée par l'audit.
+│    Un Hex protégé ou gardé par le tueur peut coûter une chase ; comparer 14 s + trajet au gain.)
+└─ NON (terne) → Quelle phase de la partie ?
+    ├─ Début / milieu → en général ne pas purifier : 5 totems × 14 s = 70 s ≈ 0,8 gen (CALC).
+    │     Exception : l'équipe veut un totem pour un Boon (un seul totem béni par survivant) → le garder.
+    ├─ Fin (1-2 gens) et suspicion de NOED → purifier ceux qu'on croise sans détour.
+    │     (NOED : aura du totem visible par les survivants dans un rayon qui grandit : valeurs UNCERTAIN.)
+    └─ Totem près d'un gen ou d'une porte → le purifier en passant peut valoir 14 s.
+    [SoloQ] Ne pas compter sur les autres pour les ternes ; en fin de partie, en purifier 1-2 sur la route.
+    [SWF] Désigner un « chasseur de totems » seulement si le tueur a montré un Hex ou si l'équipe est en avance.
+```
+
+### 7.5 SLUG
+
+```
+Un allié est au sol → Où est le tueur ?
+├─ À côté de l'allié / en vue → NE PAS y aller. Rester hors de vue. Il cherche la 2e cible.
+├─ En chase avec quelqu'un d'autre → j'y vais SEUL si je suis le plus proche ;
+│     l'allié a récupéré jusqu'à 95 % en 30,4 s (FACT) : le relevage restant est plus court (durée NV).
+└─ Inconnu → Knock Out possible (aura de mourant invisible au-delà de 16-32 m) ?
+    ├─ Je ne vois pas l'allié → ne pas partir à l'aveugle ; chercher un indice (portrait, dernier bruit).
+    └─ Je le vois → approche prudente, relevage si TR absent.
+Plusieurs au sol ?
+├─ Je suis le dernier debout → éviter à tout prix la chase. Relever si le tueur s'éloigne ;
+│     sinon, trappe (s'il ne reste plus que moi après les morts) ou attendre qu'il accroche.
+└─ Deux debout → un relève, l'autre ne s'approche pas (ou fait diversion loin).
+Je suis au sol ?
+├─ Ramper vers un allié / une couverture, pas vers un gen occupé.
+├─ Perk de relève (Unbreakable 1×/épreuve sur mise au sol par le tueur ; Exponential 24 m) → la garder
+│     pour quand le tueur s'éloigne.
+└─ Abandon (3e passage au sol après 2 relevages/soins) / Surrender (tous au sol) : options de fin, pas des stratégies.
+    [SoloQ] Supposer qu'un allié viendra probablement, et ramper vers lui plutôt que d'attendre.
+    [SWF] Annoncer « tueur à côté, ne venez pas » ou « il est parti, relève-moi ».
+```
+
+### 7.6 ENDGAME
+
+```
+Tous les gens finis ? 
+├─ NON, 1 gen restant → 99 ou alimenter ? (§6.1)
+│   ├─ Allié accroché + tueur près du crochet → 99 (sinon anti-camp coupé, Elusive perdue, WTL désactivé).
+│   ├─ Blessés + Adrenaline dans l'équipe → alimenter au bon moment (hors chase, équipe en position).
+│   └─ Ruin / hérétique / tueur qui arrive sur le gen → finir tout de suite.
+└─ OUI, portes alimentées →
+    ├─ Allié accroché ?
+    │   ├─ Anti-camp COUPÉ (FACT) : le tueur peut camper sans pénalité.
+    │   ├─ Ouvrir d'abord une porte à 99 % (ou l'ouvrir entièrement : l'EGC démarre) ?
+    │   │   ├─ Ouvrir entièrement → EGC 120 s (ralenti de moitié tant qu'un survivant est accroché, FACT).
+    │   │   └─ Laisser à ~90 % → pas d'EGC, mais porte à finir sous pression plus tard.
+    │   ├─ Sauvetage : seulement avec un plan (protection hit, distraction) ; Endurance + Haste 10 s restent,
+    │   │   PAS d'Elusive (FACT) ; Blood Warden possible si une porte est déjà ouverte.
+    │   └─ À 2 survivants : Mori possible si l'accroché est en Struggle et le sauveteur tombe (FACT) → prudence maximale.
+    ├─ Tueur à une porte (gate camp) → ouvrir l'autre ; lâcher un interrupteur quand il arrive (progression gardée).
+    ├─ No Way Out suspecté → toucher l'interrupteur quand il est loin ; attendre le déblocage à distance.
+    ├─ NOED (Exposed) → ne pas prendre de coup gratuit ; un joueur cherche le totem, les autres ouvrent.
+    └─ Porte ouverte → sortir sauf plan précis (save). Pas d'attente dans le seuil (Judgment : 45 s = Heresy).
+Dernier survivant ?
+├─ Gens restants → trappe (aura visible de vous seul, FACT) ; marcher près du tueur.
+├─ Trappe fermée par le tueur → EGC : porte la plus éloignée de lui, 20 s d'ouverture.
+└─ Standoff → ne pas se montrer ; pré-positionner sa route vers la porte opposée ; clé : UNCERTAIN.
+    [SoloQ] Supposer que les autres ouvrent la porte la plus proche d'eux : prendre l'autre.
+    [SWF] Plan explicite : « A ouvre nord, B sud, C sauve ».
+```
+
+---
