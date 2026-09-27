@@ -1,0 +1,5380 @@
+
+=====PAGE 1=====
+MISSION BASE DE CONNAISSANCES · PHASE 0
+DEAD BY
+DAYLIGHT
+Audit, taxonomie, couverture, plan · lot 1
+Référence : patch LIVE 10.1.2a (17/09/2026) · état au 27/09/2026 · PTB 10.2.0 non intégré
+Statut du projet : NOT READY (phase 0 terminée, lots 2 à 17 à venir)
+671 affirmations auditées · 239 vérifiées · 33 conflits · 243 sources
+Document de travail non officiel. Dead by Daylight est une marque de Behaviour Interactive.
+
+=====PAGE 2=====
+Sommaire
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Synthèse de la phase 0
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Ce qui a été fait
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Les cinq constats principaux
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Limites d'accès (et ce que cela implique)
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Suite immédiate
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Registre de l'état du jeu
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Registre temporel
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Historique des patchs 9.0.0 - aujourd'hui (+ PTB)
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Audit du guide existant (PASS 0)
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Vue par chapitre
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Fraîcheur
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Sujets mentionnés mais non couverts
+ . . . . . . . . . . . 15
+TAXONOMIE — ce qu'un expert de Dead by Daylight doit savoir (PASS 1)
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+A. Fondamentaux (Les deux)
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+B. Mouvement et mécaniques de chase (Surv, avec la vue tueur)
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+C. Théorie des loops et catalogue de tiles (Surv)
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+D. Connectivité des tiles (Surv)
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+E. Connaissance des cartes (Les deux)
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+F. Tueurs : connaissance pour le survivant (44 fiches)
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+G. Perks survivant (176 en jeu)
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+H. Perks tueur et déduction (Surv)
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+I. Objets, add-ons, offrandes et techniques associées
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+J. Macro survivant
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+K. SoloQ vs SWF
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+L. Chase theory avancée
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+M. Game sense
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+N. États de partie
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+O. Fin de partie
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+P. Base d'erreurs
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Q. Arbres de décision
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+R. Entraînement et mesure
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+S. DBD compétitif vs matchmaking public
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+T. Littératie des données
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+U. Méta-savoir et environnement
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+V. Côté tueur (secondaire, conservé)
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+W. Annexes
+
+=====PAGE 3=====
+ . . . . . . . . . 20
+COVERAGE_MATRIX — état au 27/09/2026 (après PASS 0, PASS 1 et le lot 1)
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+1. Matrice d'audit (domaine par domaine)
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+2. Matrice de pipeline (mission §24)
+ . . . . . . . . . . . . . . . . . . . . 24
+GAP ANALYSIS — première analyse des manques (PASS 2)
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+0. Leçon de méthode tirée du lot 1
+ . . . . . . . . . . . . . . . 24
+1. Erreurs factuelles et contenu obsolète confirmés (extrait, voir OUTDATED_CONTENT_REPORT.md)
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+2. Problèmes structurels
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+3. Domaines absents ou seulement mentionnés (profondeur 0-1)
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+4. Domaines présents mais trop superficiels (profondeur 2, cible 4)
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+5. Ce qui est solide et à conserver (après vérification)
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+6. Priorités qui en découlent
+ . . 26
+OUTDATED CONTENT REPORT — contenu faux, obsolète ou trompeur du guide initial
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+1. Faux
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+2. Données non étayées ou mal présentées (à retirer ou reformuler)
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+3. Suspicions de l'audit infirmées (le guide avait raison — ne pas « corriger »)
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+4. Contenu PTB présenté comme LIVE (à étiqueter PTB 10.2.0 ou retirer)
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+5. Contenu 2v8 utilisé en 1v4
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+Référence vérifiée : mouvement, chase, combat
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+1.1 Vitesses de déplacement (1v4)
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+1.2 Haste / Hindered : cumul et plafonds
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+1.3 Attaque de base
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+1.4 Vaults (fenêtres) et murs cassables
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+1.5 Palettes et stuns
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+1.6 Bloodlust
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+1.7 Poursuite, signaux et traces
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+1.8 Diminishing Returns et ressources de poursuite
+ . . . . . . . . . . . . . . . . . . . . . . . . 33
+Référence vérifiée : objectifs, crochets, soins, statuts
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+1.1 Générateurs
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+1.2 Crochets, anti-camp, protections, sous-sol
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+1.3 État mourant et slug
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+1.4 Soins
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+1.5 Glossaire des statuts (définitions LIVE, wiki.gg Status Effects, sauf mention)
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+1.6 Coffres, totems, casiers, trappe, portes, EGC, BP, offrandes de carte, MMR
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+Sources statistiques : ce qu'elles valent
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+1.1 Tableau d'évaluation
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+1.2 Chronologie des publications officielles de statistiques (2022-2026)
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+5.1 Carte de l'écosystème
+
+=====PAGE 4=====
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+5.2 Règles compétitives et matchmaking public
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+5.3 Ce qui se transfère (et ne se transfère pas) vers les parties publiques
+ . . . . . . . . . . . . 45
+PLAN DE RECHERCHE, STRATÉGIE DE SOURCES ET BANQUE DE QUESTIONS
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+1. Principes
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+2. Stratégie de sources
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46
+3. Lots de recherche
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . 46
+4. Banque de questions (recherche par questions, mission §42) — extrait initial
+ . . . . . . . . . . . . . . 49
+OPEN_QUESTIONS — informations encore insuffisamment vérifiées
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+batch1_R2_mecaniques_chase
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+batch1_R3_mecaniques_objectifs
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+batch1_R4_donnees_competitif
+
+=====PAGE 5=====
+Synthèse de la phase 0
+Statut du projet : NOT READY. Ce document rend compte des premières passes de la mission (PASS 0 à 2, puis lot de
+recherche 1). Il ne remplace pas le guide : il dit ce qui est faux, ce qui manque, ce qui est vérifié, et comment la suite sera
+menée.
+Référence de version
+Informations vérifiées jusqu'au patch 10.1.2a (hotfix serveur du 17 septembre 2026, chapitre Chorus of Sin) — état au
+27 septembre 2026. Le PTB 10.2.0 (ouvert le 15 septembre 2026, 58 perks modifiées) n'est pas sorti en LIVE : ses
+changements ne sont intégrés nulle part comme s'ils étaient en jeu.
+Ce qui a été fait
+Passe
+Travail
+Résultat
+PASS 0
+Lecture intégrale des 20 chapitres (≈ 75 000 mots) par 5
+auditeurs, sans web
+671 affirmations chiffrées extraites, 176 perks survivant et 145
+perks tueur inventoriées, 44 fiches tueur et 44 cartes notées de 0
+à 4, ≈ 40 conseils trop absolus, listes de manques
+PASS 1
+Taxonomie indépendante du guide
+23 familles de compétences, ≈ 200 nœuds (chapitre 4)
+PASS 2
+Matrice de couverture, analyse des manques
+Chapitres 5 et 6
+Lot 1
+Vérification web : état du jeu, patchs 9.0.0 → PTB 10.2.0,
+mécaniques de chase, objectifs / crochets / statuts, sources
+statistiques, DBD compétitif
+239 affirmations sourcées, 33 conflits documentés, 243 sources
+(priorité aux patch notes officielles)
+Les cinq constats principaux
+1. Le guide est un catalogue, pas un manuel de décision. Aucune section n'atteint la profondeur 4 (quoi → pourquoi →
+quand → comment → contre → cas d'échec → exercice). Il n'y a aucun arbre de décision, aucune base d'erreurs, aucun
+exercice, aucun programme ni aucune métrique.
+2. Le volet « survivant contre ce tueur » est faible. Les 44 fiches tueur sont écrites à ~75 % pour le joueur tueur ; le
+counterplay survivant est en moyenne à 2 / 4, l'identification du tueur et les implications de carte proches de 0.
+3. Des erreurs factuelles réelles existent, désormais prouvées : 80 s par gen (90 s en réalité), protections de décrochage
+« toutes perdues » portes alimentées (seule Elusive l'est), anti-camp qui « décroche » contre un proxy camp (faux),
+offrandes de carte cumulables (faux depuis 9.0.0), Hyperfocus hors DR (faux), loadout du tueur visible après la 1re chase
+(faux), Surge présenté comme « ex-Jolt » (inversé), Nowhere to Hide à 18 m (valeur PTB). Liste complète au chapitre 7.
+4. Les statistiques sont le point le plus fragile. Kill rates de cartes issus de trois fenêtres mélangées, ~70 chiffres par tueur
+sans taille d'échantillon, une statistique « SWF en vocal » sans aucune source, une corrélation présentée comme cause
+(« la chase ne sert à rien »). Les chiffres seront soit retirés, soit datés avec période, population et effectif.
+5. La traçabilité est nulle : 249 URL en fin de document mais aucune affirmation reliée à une source, et les réserves
+« (?) » des notes de recherche ont été effacées à la rédaction.
+Leçon de méthode
+Les auditeurs sans web ont aussi produit de fausses alertes : les phases de crochet à 70 s, la casse de palette à 2,34 s, le
+stun de Will to Live à 4 s ou la prise en compte des actions en partie par le MMR étaient corrects dans le guide. Un
+soupçon ne corrige rien : seule une vérification sourcée modifie le texte.
+
+=====PAGE 6=====
+Limites d'accès (et ce que cela implique)
+• Les pages du wiki et des forums officiels sont lues via un outil qui résume : les chiffres clés sont redemandés en citation
+exacte, et les pages de données du wiki sont préférées.
+• Les infographies officielles de statistiques sont des images inaccessibles : les kill rates officiels par tueur ne sont pas
+lisibles pour l'instant.
+• YouTube, X, Liquipedia et le site de la DBDLeague sont inaccessibles : aucune analyse de VOD n'a été faite, et le guide
+ne prétendra pas en avoir fait. Une piste existe : le navigateur intégré de l'application, sur ton ordinateur, avec ton
+accord.
+Suite immédiate
+Lot 2 (perks survivant, 176, avec colonne PTB 10.2.0 séparée), lot 3 (perks tueur vues du survivant + section « perk
+deduction »), lot 4 (44 tueurs, volet survivant). Puis techniques de chase, tiles, cartes, macro, entraînement, audits
+adversariaux et réécriture (chapitre 9).
+
+=====PAGE 7=====
+Registre de l'état du jeu
+Source : research/batch1_R1_etat_du_jeu.md (toutes sources consultées le 27/09/2026).
+Registre temporel
+Élément
+Version vérifiée
+Date
+Source
+Statut
+Patch LIVE actuel
+(dernier hotfix)
+10.1.2a = édition serveur de l'article
+« 10.1.2 Bugfix Patch » (« Edited to add on
+the 17th September… Reverted the Divine
+Light curve window while Zealous to 0.6s
+(was 0.8s) ») ; la numérotation « 10.1.2a »
+est celle du wiki, BHVR ne l'emploie pas
+17 sept. 2026
+(10.1.2 : 8 sept.
+2026)
+BHVR KB 558 ; wiki.gg Patches
+LIVE — VERIFIED_MU
+LTI_SOURCE
+Chaîne 10.1.x
+10.1.0 (25 août 2026) → 10.1.1 (1er sept.)
+→ 10.1.2 (8 sept.) → 10.1.2a (17 sept.,
+serveur, sans téléchargement)
+—
+wiki.gg Patches / Patch Notes
+10.1.X ; BHVR KB 556, 557, 558 ;
+perfectly-nintendo (Switch :
+10.1.2 le 9/10 sept.)
+LIVE
+Aucun patch plus
+récent
+Aucun 10.1.3 ni 10.2.0 LIVE trouvé au 27
+sept. 2026 ; wiki 10.2.X : « 10.2.0 : TBA » ;
+perfectly-nintendo : « Next: Ver. 10.2.0 –
+TBA »
+27 sept. 2026
+wiki.gg Patch Notes 10.2.X ;
+perfectly-nintendo
+VERIFIED_MULTI_SOU
+RCE
+PTB le plus
+récent
+10.2.0 PTB : ouverture 15 sept. 2026
+(Steam News daté 2026-09-15 ; wiki « PTB
+10.2.0 : 15 September 2026 ») ; Steam
+uniquement ; fermeture 21 sept. 2026
+selon timesaver.gg (non confirmée par
+source officielle lue)
+15 sept. 2026
+BHVR KB 559 ; Steam News ; Dev
+Update Mandy 14 sept. 2026 ;
+timesaver.gg
+PTB — ouverture
+VERIFIED_PRIMARY ;
+fermeture
+STRONG_SECONDARY
+Contenu PTB
+10.2.0
+58 perks modifiés (26 liés aux Diminishing
+Returns, 23 perks généraux, 9
+« oppressifs/malsains ») ; Survivor Intent
+System (roue de 8 messages prédéfinis) ;
+refonte Abandon / Surrender / End Trial ;
+reworks Borrowed Time, Down to the Last,
+Windows of Opportunity, Stake Out,
+Shattered Hope, Hex: Thrill of the Hunt,
+Undone, etc.
+14-15 sept.
+2026
+Dev Update 10.2.0 (Mandy) ;
+BHVR KB 559
+PTB — NE PAS
+présenter comme
+LIVE
+Sortie LIVE de
+10.2.0
+Non annoncée. Estimation 6 oct. 2026
+(timesaver.gg, « NOT officially confirmed »)
+—
+timesaver.gg ; wiki (TBA)
+UNCERTAIN
+Dernier chapitre
+CHAPTER 41 : Chorus of Sin (chapitre
+original)
+25 août 2026
+(patch 10.1.0)
+wiki.gg The Judgment / Chapters /
+Module:Datatable (DLC 65 =
+10.1.0) ; BHVR KB 556
+LIVE — VERIFIED_MU
+LTI_SOURCE
+Dernier killer
+The Judgment (pas de nom réel ; 4,4 m/s ;
+TR 32 m ; grand ; pouvoir « Will of the
+Gods ») — 44e killer
+25 août 2026
+wiki.gg The Judgment ; wiki.gg
+Killers (« 44 Killers »)
+LIVE
+Dernier survivant
+Aurora Stardotter (Chorus of Sin) — 54e
+entrée survivant
+25 août 2026
+wiki.gg Survivors (« 54
+Survivors ») ; BHVR KB 556
+LIVE
+Survivant
+précédent
+Shane Wiigwaas (The Life Road, CHAPTER
+40.5) — contenu dans les notes 10.0.1,
+sortie 25 juin 2026
+25 juin 2026
+BHVR KB 551 (10.0.1) ; wiki.gg
+Shane Wiigwaas
+LIVE
+Rift actuel
+Rift Pass 6 – Sunflesh, depuis le 21 juil.
+2026 (en cours) ; fin estimée ~6 oct. 2026
+(ggseason, estimation) ; roadmap : « New
+Rift » en octobre 2026
+21 juil. 2026
+→ ?
+wiki.gg Rift Pass ; GamesRadar
+roadmap (MAJ 22 sept. 2026)
+LIVE — fin
+UNCERTAIN
+Événements /
+modes en cours
+2v8 actif du 8 au 29 sept. 2026 (ajout de
+The Xenomorph en 2v8, carte Nostromo
+Wreckage en 2v8, objet « Invoking Salt »,
+27 coffres) ; Campfire Tour 25-26 sept. ;
+« Charitable Partnership » dès le 22 sept.
+sept. 2026
+BHVR KB 558 (contenu 2v8 du
+10.1.2) ; GamesRadar 2v8 ; all.gg
+roadmap septembre
+LIVE jusqu'au 29 sept.
+— dates : PRESS citant
+la roadmap officielle
+
+=====PAGE 8=====
+Élément
+Version vérifiée
+Date
+Source
+Statut
+Statut du mode
+2v8
+Mode temporaire récurrent (pas
+permanent) ; itération de septembre 2026
+se termine le 29 sept. 2026
+8-29 sept. 2026
+GamesRadar ; all.gg
+STRONG_SECONDARY
+Moteur
+Unreal Engine 5 depuis le patch 7.7.0 (23
+avril 2024)
+23 avr. 2024
+gamepressure.com (confirmation
+d'un dev sur Discord officiel)
+STRONG_SECONDARY
+(pas de communiqué
+BHVR lu)
+Annoncé, pas
+encore LIVE
+Oct. 2026 : nouveau Rift + Haunted by
+Daylight ; Nov. 2026 : CHAPTER 42 Terrifier
+(Art the Clown, futur 45e killer) — annoncé
+le 14 juin 2026 (10e anniversaire) ; Déc.
+2026 : nouvelle map originale The Mall +
+Bone Chill ; Janv. 2027 : nouveau Rift ; Mars
+2027 : CHAPTER 43 The Casting of Frank
+Stone ; avril 2027+ : nouveau survivant,
+mise à jour graphique (météo dynamique),
+contenu Silent Hill, collabs (Scooby-Doo,
+Diablo IV, Ice Nine Kills, INK) ; PTB 10.2.0
+(perks, Survivor Intent System)
+—
+GamesRadar roadmap (MAJ 22
+sept. 2026) ; Shacknews 14 juin
+2026 ; wiki.gg Chapters (42 et 43
+« Upcoming »)
+ANNONCÉ — non LIVE
+Phrase à mettre dans le guide :
+« Informations vérifiées jusqu'au patch 10.1.2a (hotfix serveur du 17 septembre 2026, chapitre Chorus of Sin) — état au
+27 septembre 2026. Le PTB 10.2.0 (ouvert le 15 septembre 2026) n'est pas encore sorti en LIVE : ses changements ne
+sont pas intégrés au guide. »
+Historique des patchs 9.0.0 - aujourd'hui (+ PTB)
+Légende statut : LIVE (en jeu, peut avoir été modifié depuis) · PTB (test uniquement) · REVERTED/POSTPONED (testé en
+PTB mais pas livré, ou retiré). Dates = date de sortie selon wiki.gg (les articles support.deadbydaylight.com portent souvent
+une date de publication postérieure de 2-3 jours).
+Patch
+Date
+Statut
+Changements majeurs vérifiés
+PTB 9.0.0
+27 mai 2025
+PTB
+The Animatronic + map Freddy Fazbear's Pizza ; règles de
+self-unhook ; AFK crows ; spawn ≤12 m.
+9.0.0 Five Nights at Freddy's
+17 juin 2025 (article support
+publié 19 juin)
+LIVE
+Killer The Animatronic (William Afton), map Freddy Fazbear's
+Pizza (royaume Withered Isle). Attempt Unhook (4 %) limité : 2
+survivants restants, offrande de chance, Slippery Meat ou Up the
+Ante ; sinon « struggle… with no chance of escape or penalty for
+failure » ; laisser passer 2 skill checks de struggle ne tue plus. 
+Mori possible à 2 survivants vivants si 1 en Struggle Phase et 1 au
+sol. Offrandes de royaume/map : chance fixe de 20 %, les
+doublons ne s'additionnent plus. Hellraiser : perks passés
+généraux et renommés — Deadlock → No Holds Barred, Hex:
+Plaything → Hex: Fortune's Fool, Scourge Hook: Gift of Pain →
+Scourge Hook: Weeping Wounds. AFK crows ; survivants spawn
+à ≤12 m ; Shroud of Separation remplace Shroud of Binding ;
+Map Showcase ; « Going Next » prevention ; pénalités de
+déconnexion sur 20 derniers matchs ; quêtes quotidiennes 2 500
+→ 5 000 BP. Lich (sorts dispo dès le début), Twins (Victor peut
+déclencher des chases). Call of Brine 70 s / 130-150 %.
+9.0.1
+26 juin 2025
+LIVE
+AFK crows assouplis (grâce 30 s ; paliers 120/140/180 s).
+9.0.2
+2 juil. 2025
+LIVE
+Nerfs d'add-ons de l'Animatronic.
+PTB 9.1.0
+8 juil. 2025
+PTB
+Rick & Michonne ; Fog Vial ; buffs Executioner, Clown, Pig,
+Knight, Oni.
+
+=====PAGE 9=====
+Patch
+Date
+Statut
+Changements majeurs vérifiés
+9.1.0 The Walking Dead
+29 juil. 2025
+LIVE
+Survivants Rick Grimes, Michonne Grimes ; zone Fallen Refuge 
+(Withered Isle). Hooks : à 2 survivants restants, laisser passer 2
+skill checks de struggle = sacrifice immédiat ; si tous les
+survivants restants sont accrochés en même temps → sacrifice.
+Buffs Executioner, Clown, Pig, Knight, Oni. Nouvel objet Fog Vial 
+(1 charge). Rework Overwhelming Presence, Streetwise ; buffs
+Hubris, Insidious, Franklin's Demise… Clavier/souris sur consoles.
+9.1.1 / 9.1.2 / 9.1.3
+6 août / 14 août / 26 août 2025
+LIVE
+Fog Vial ajusté puis 2 charges (9.1.2) ; Play While You Wait (2v8,
+9.1.2) ; nouvelles maps 2v8 ; 9.1.3 bugfix.
+PTB 9.2.0
+3 sept. 2025
+PTB puis P
+OSTPONED
+Anti-tunnel : protections d'unhook 30 s (Haste 10 % + Endurance
++ Elusive, aura du killer à 32 m), bonus de réparation 25 % si un
+survivant meurt avant 6 hook states… Anti-slug : barre Resolve
+90 s → self-pickup, rampement 0,7 → 1,05 m/s. Rien de cela
+n'est sorti (voir 9.2.0).
+9.2.0 Sinister Grace
+(CHAPTER 37)
+23 sept. 2025 (support : publié
+26 sept.)
+LIVE
+Killer The Krasue (Burong Sukapat) : Body Form 4,6 m/s TR 32 m,
+Head Form 4,8 m/s TR 40 m ; survivant Vee Boonyasak (Road
+Life, ONE-TWO-THREE-FOUR!, Ghost Notes). « Tunneling
+Reduction Update » et « Slugging Reduction Update » : 
+« Postponed these changes until a later update ». Livré :
+récupération au sol automatique (plus besoin de maintenir un
+bouton) ; « tap Interact » pour se relever si une relève complète
+est disponible ; option Abandon après avoir été relevé/soigné de
+l'état mourant 2 fois. Rework de The Shape (Myers) : modes
+Stalker / Pursuer / Evil Incarnate + Slaughtering Strike. Densité
+de palettes : « adjust the quantity and distribution of pallets,
+reducing the presence of 'dead zones' » sur 10 royaumes
+(MacMillan, Autohaven, Coldwind, Crotus Prenn, Haddonfield,
+Backwater, Red Forest, Yamaoka, Ormond, Decimated Borgo).
+Perks : Hex: Ruin 100/125/150 %, Pop 20 → 15 %, Eruption 10 →
+5 %, Dead Man's Switch 25/30/35 s, Off the Record sans
+Endurance.
+9.2.1 / 9.2.2 / 9.2.3
+30 sept. / 7 oct. / 21 oct. 2025
+LIVE
+9.2.2 : Off the Record récupère l'Endurance, durée 30/35/40 s.
+9.2.3 : Shape — Evil Incarnate 60 s, Slaughtering Strike 7,5 m/s,
+CD 4 s, TR Pursuer 16 m / Evil Incarnate 32 m.
+PTB 9.3.0
+4 nov. 2025
+PTB puis
+REVERTED
+Protections d'unhook 30 s (Haste + Endurance + Elusive),
+« Unique Hook Bonuses » (Bloodlust I 15 s au killer qui accroche
+un autre survivant), barre Resolve anti-slug 120 s (+33 % par
+survivant au sol supplémentaire), rework Borrowed Time (relève
+complète 60/80/100 s), anti-facecamp à 20 m.
+9.3.0 Mid-Chapter
+25 nov. 2025 (support : publié
+24 nov.)
+LIVE
+« Reverted the Unhook Protections », « Reverted the Unique
+Hook Bonuses », « Reverted the Slugging changes », perks
+Babysitter / Borrowed Time / Furtive Chase / Off the Record
+revertés. Livré : protections d'unhook basekit Endurance + 10 %
+Haste pendant 15 s (was 10). Anti-facecamp : zone revenue à 16
+m (was 20 en PTB), grâce de 7 s appliquée à tous les survivants
+accrochés quand un hook a lieu, multiplicateur progressif 1×
+(0-10 s) / 2× (10-20 s) / 4× (>20 s). Palettes : « reduce the safety
+of pallet loops » sur MacMillan, Asylum, Red Forest, Yamaoka,
+Haddonfield, Mount Ormond ; logique de spawn (Disturbed
+Ward, pontons de Backwater) ; bâtiment principal de Crotus
+Prenn moins safe. Skull Merchant ajustée (rotation drone 105°/s,
+Hindered 10 %, CD 7 s, Undetectable 6 s). BP killer augmentés
+(chase 500, hook 750, premier hook 750, sacrifice 500). Add-ons
+Anti-Haemorrhagic Syringe / Styptic Agent (Styptic sans
+Endurance).
+9.3.1
+—
+(sauté)
+Numéro sauté selon wiki.gg.
+9.3.2
+9 déc. 2025
+LIVE
+Breakdown et Wicked revertés à leur ancienne version. Skull
+Merchant : Undetectable 8 s, obtenu au rappel d'un drone. 
+Palettes (Autohaven, Backwater, Crotus Prenn, MacMillan,
+Ormond, Red Forest, Yamaoka) : « Adjusted the length of loops
+that were too short and unsafe » — BHVR cherche « a middle
+ground between the last two updates » (retour partiel vers plus
+de sécurité).
+
+=====PAGE 10=====
+Patch
+Date
+Statut
+Changements majeurs vérifiés
+PTB 9.4.0
+6 janv. 2026
+PTB
+The First, Dustin, Eleven ; coop heal à 3 (voir CONFLICT-G05) ;
+Tonics (2v8).
+9.4.0 Stranger Things
+Chapter 2 (CHAPTER 38)
+27 janv. 2026
+LIVE
+Killer The First (Henry Creel ; 4,4 m/s ; TR 32 m) ; survivants 
+Dustin Henderson et Eleven. Premier statut Elusive LIVE (via
+Extrasensory Perception d'Eleven). Licence Halloween : The
+Shape, Laurie et leurs tenues retirés de la boutique le 19 janv.
+2026 (jouables pour les possesseurs) ; perks renommés en perks
+généraux : Save the Best for Last → Keep Them Waiting, Play
+With Your Food → See How They Run, Dying Light → Cull the
+Weak, Sole Survivor → Down to the Last, Object of Obsession →
+Bound by Obsession, Decisive Strike → Will to Live (les
+possesseurs gardent les noms d'origine). Lampkin Lane
+(Haddonfield) retirée de la rotation et des parties
+personnalisées ; offrande Strode Realty Key retirée. Terror
+radius visuel animé.
+9.4.1 / 9.4.2
+3 févr. / 10 févr. 2026
+LIVE
+Bugfix ; 2v8 : The Good Guy, Nemesis (4 zombies).
+PTB 9.5.0
+24 févr. 2026
+PTB
+Rework Trickster, Kwon Tae-young, nouveau royaume.
+9.5.0 All-Kill: Comeback
+(CHAPTER 39)
+17 mars 2026 (support : publié
+12 mars)
+LIVE
+Rework The Trickster : 4,6 → 4,4 m/s, TR 32 → 24 m (44 m en
+S-Rank), 36 lames (was 44), système Style Points / Style Ranks,
+Main Event seulement au rang max. Survivant Kwon Tae-young
+(Flow State, A Place For Us, Five Moves Ahead). Nouveau
+royaume Sleepless District / map Trickster's Delusion.
+Unbreakable : seulement quand mis au sol par le killer, une fois
+par trial (wiki). Self-Preservation : Elusive 20/25/30 s quand un
+autre survivant est accroché. Pop Goes the Weasel : +15 % de
+régression → 20 % au total (wiki). Hex: Crowd Control : rework
+(bloque les 4/5/6 dernières fenêtres). Fog Vial : 4 charges (was
+2). Descriptions de perks standardisées ; menu Prestige ;
+personnalisation d'auras. The First : 2e phase Worldbreaker 50 s.
+9.5.1 / 9.5.2
+24 mars / 31 mars 2026
+LIVE
+9.5.2 : buffs Trickster (décroissance Laceration 16 s, add-ons).
+PTB 9.6.0
+7 avr. 2026
+PTB
+Diminishing Returns (version initiale : modificateurs killer et
+survivant se réduisaient mutuellement).
+9.6.0
+28 avr. 2026
+LIVE
+Diminishing Returns : « repeated positive or negative gameplay
+modifiers and status effects » ; modificateurs identiques issus de 
+Powers, Items, Perks et Offerings ; add-ons exclus ; valeur la
+plus forte à 100 %, puis 50 % / 25 % / 12,5 % / 5 % (5e et +).
+Changement vs PTB : les modificateurs négatifs de vitesse
+d'action et les modificateurs positifs de chance de skill check ne
+se combinent qu'au sein d'un même rôle (killer vs survivant).
+Nerf Blight : 4,6 → 4,4 m/s ; casser une palette au sol ramène les
+tokens de Rush à 2 sous le max et remet la recharge à 0 %. Buffs
+Doctor, Cannibal, Ghost Face, Demogorgon (Shred 19 m/s,
+Undetectable 12 s), Dredge, Mastermind, Unknown,
+Animatronic. Fast Track : 1 token par unhook (max 1/2/3), −5
+charges de génération par token sur un Great. Loadouts des
+coéquipiers visibles dans Match Details ; barres de progression
+colorées ; Play While You Wait. 2v8 : Temple of Purgation,
+Ironworks of Misery.
+9.6.1 / 9.6.2
+5 mai / 12 mai 2026
+LIVE
+9.6.1 : Doctor (Shock Therapy 0,65 s), Ghost Face (accroupi 4,0
+m/s) ; manuel de jeu listant tous les modificateurs concernés par
+les DR. 9.6.2 : bugfix.
+PTB 10.0.0
+26 mai 2026
+PTB
+The Slasher.
+10.0.0 Jason (CHAPTER 40)
+16 juin 2026
+LIVE
+Killer The Slasher (Jason Voorhees ; 4,4 m/s, 8,0 m/s en
+Omnipresent Evil ; TR 32 m) ; perks Hex: Scared to Death, Silent
+Shadow, Rampage ; nouvel état Impaled. Personnalisation
+d'auras étendue ; onglet pouvoir du killer dans Match Details. 
+Aucun changement de système/basekit ni de map documenté ;
+aucune modification de Pain Resonance / Eruption trouvée dans
+les notes officielles.
+10.0.1
+23 juin 2026
+LIVE
+Contenu Shane Wiigwaas (The Life Road, sortie 25 juin 2026) ;
+événement Black Banquet (anniversaire).
+
+=====PAGE 11=====
+Patch
+Date
+Statut
+Changements majeurs vérifiés
+10.0.2 / 10.0.3
+6 juil. / 21 juil. 2026
+LIVE
+Ajustements d'add-ons de The Slasher ; 10.0.3 : Chaos Shuffle
+étendu, Lights Out ajusté.
+PTB 10.1.0
+4 août 2026
+PTB
+The Judgment, Aurora ; Nowhere to Hide 18 m (changé au LIVE).
+10.1.0 Chorus of Sin
+(CHAPTER 41)
+25 août 2026
+LIVE
+Killer The Judgment, survivante Aurora Stardotter. Protections
+d'unhook : Endurance + 10 % Haste pendant 10 s (was 15) +
+Elusive 10 s (ne s'applique pas une fois les générateurs
+alimentés). MMR : calcul ne comptant plus seulement
+kills/évasions (« Similar to Emblems it will now consider more
+actions ») ; bouton de matchmaking revu. Sprint Burst Haste 3 → 
+2 s ; Adrenaline 3 → 4 s ; Deliverance Broken 160/140/120 s ;
+Vigil 30/35/40 % ; Technician (bruit 16 m, pénalité 4/3/2 %) ;
+Apocalyptic Ingenuity / Moment of Glory (1 coffre) ; Repressed
+Alliance (blocage 15 s) ; Clean Break 75/60/45 s ; A Nurse's
+Calling 28/30/32 m ; Call of Brine 30/40/50 % 90 s ; Coulrophobia
+20/25/30 % ; Hex: Thrill of the Hunt 8/9/10 % ; Keep Them
+Waiting 5 %/token ; Nowhere to Hide : auras à 24 m autour du
+générateur endommagé (3/4/5 s).
+10.1.1
+1er sept. 2026
+LIVE
+Judgment : fenêtre de courbe Divine Light en Zealous 0,3 → 0,6
+s. Knight (gardes et palettes). Repressed Alliance 40/35/30 s de
+réparation. Vigil 30/35/40 % → 20/25/30 % (Exhausted).
+10.1.2
+8 sept. 2026
+LIVE
+Judgment : courbe en Zealous 0,8 s + 0,3 s hors Zealous ;
+survivants libérés de l'Exil réapparaissent à ≥32 m. 2v8 : The
+Xenomorph, Invoking Salt, Nostromo Wreckage, 27 coffres (was
+20).
+10.1.2a
+17 sept. 2026
+LIVE
+(actuel)
+Édition serveur : « Reverted the Divine Light curve window while
+Zealous to 0.6s (was 0.8s) » et retrait de la fenêtre hors Zealous
+— « The Judgment's performance skyrocketed following HF2 ».
+PTB 10.2.0
+15 sept. 2026 (→ 21 sept.
+selon timesaver)
+PTB
+58 perks (voir §1), Survivor Intent System,
+Abandon/Surrender/End Trial. Non LIVE.
+2.1 Points vérifiés explicitement (demandés)
+• Diminishing Returns : patch 9.6.0 (28 avr. 2026) ; s'applique aux modificateurs identiques de Powers, Items, Perks,
+Offerings (pas aux add-ons) ; 100/50/25/12,5/5 % ; au LIVE, killer et survivant ne se réduisent plus mutuellement sur les
+vitesses d'action négatives et les chances de skill check. Liste exhaustive des modificateurs concernés : dans le manuel
+du jeu (9.6.1), non consultée → liste précise « information non suffisamment vérifiée ». Le PTB 10.2.0 réajuste 26 perks
+à cause des DR.
+• Anti-camp / anti-facecamp : système existant avant 9.0.0 (zone 16 m) ; 9.3.0 : multiplicateur temporel 1×/2×/4×, grâce
+de 7 s, 16 m maintenu (20 m testé en PTB seulement). Taux de base réduit en 9.3.0 (wiki : « significant reduction ») —
+valeur « ~50 % » non retrouvée en source primaire lue.
+• Protections d'unhook : 10 s (avant 9.3.0) → 15 s (9.3.0) → 10 s + Elusive 10 s (10.1.0, LIVE actuel). Perdues lors
+d'actions « conspicuous » (wiki Hooks). Les systèmes anti-tunnel plus lourds (30 s, Unique Hook Bonuses, bonus de
+réparation) ont été postponed (9.2.0) puis reverted (9.3.0) — jamais LIVE.
+• Anti-slug / self-pickup : aucune auto-relève basekit LIVE. Testé en PTB 9.2.0 (Resolve 90 s) et PTB 9.3.0 (Resolve 120 s) ;
+« Postponed » (9.2.0) puis « Reverted the Slugging changes » (9.3.0). LIVE depuis 9.2.0 : récupération automatique sans
+maintenir de bouton + option Abandon. PTB 10.2.0 : Surrender quand tous les survivants sont au sol (PTB).
+• Durée des phases de hook : 70 s par phase depuis 8.2.0 (« Increased duration of hook phases to 70 seconds (was 60
+seconds) ») — antérieur à 9.0.0, inchangé depuis selon wiki.
+• Reset MMR : patch notes 10.1.0 muettes sur un reset ; all.gg (23 août 2026) affirme « all MMR will be reset » ; Mandy
+(BHVR, 26 août) : « It will take a number of matches to recalculate where players MMR should be ». → UNCERTAIN (voir
+CONFLICT-G04).
+• Offrandes de map : depuis 9.0.0, chance fixe de 20 %, doublons non cumulatifs.
+• Halloween : sortie de boutique 19 janv. 2026, 11 h ET (annonce officielle) ; renommages appliqués au patch 9.4.0 ;
+Lampkin Lane retirée.
+• Surge / Jolt : nom original = Surge (Demogorgon, 3.2.0) → renommé Jolt au départ de la licence Stranger Things (5.3.0)
+→ redevenu Surge au retour de la licence (7.3.3), perk unique depuis 7.4.0. Nom actuel : Surge. (Wiki uniquement.)
+
+=====PAGE 12=====
+• Deadlock / No Holds Barred : renommé en 9.0.0 (départ Hellraiser, 2025) ; possesseurs du Cenobite gardent
+« Deadlock ».
+• Reworks : Freddy = 8.5.0 (28 janv. 2025) (avant 9.0.0) ; Myers = 9.2.0 (+ ajustements 9.2.3) ; Trickster = 9.5.0 (+ buffs
+9.5.2) ; Skull Merchant = pas de rework en 9.x, ajustements 9.3.0 et 9.3.2 (le rework de son pouvoir est antérieur, patch
+non vérifié) ; Twins = pas de rework en 9.x (9.0.0 : Victor peut lancer des chases ; rework 2024 largement annulé en PTB
+— patch exact non vérifié).
+• Palettes « moins safe » : 9.2.0 = redistribution / quantité pour réduire les dead zones (10 royaumes) ; 9.3.0 = « reduce
+the safety of pallet loops » (6 maps + Crotus Prenn, Disturbed Ward, Backwater) ; 9.3.2 = rallongement des loops « too
+short and unsafe », « middle ground ». La formule « palettes moins safe » ne vaut donc que pour 9.3.0, partiellement
+corrigée en 9.3.2.
+• Nerf Blight : 9.6.0 (4,4 m/s, tokens de Rush sur casse de palette).
+
+=====PAGE 13=====
+Audit du guide existant (PASS 0)
+Détail complet : audit/pass0_A.md à pass0_E.md (2 900 lignes). Profondeur : 0 absent · 1 mentionné · 2 décrit · 3 expliqué
+(pourquoi / quand) · 4 expert (avec contre, cas d'échec et exercice).
+Vue par chapitre
+Chapitre
+Mots
+Profondeur moyenne (max)
+Affirmations
+extraites
+Problèmes majeurs
+0. Avant de
+commencer
+925
+1,6 (2)
+lot A
+Date du patch, stats non datées, « face camp inutile après 20
+s »
+1. Analyse du jeu
+2 219
+2,5 (3)
+lot A
+Stats SWF « en vocal » sans source ; corrélation → causalité ;
+DR et add-ons
+2. Chase, loops, tiles
+2 236
+2,0 (3)
+lot A
+« Le vault annule l'élan », règles absolues (2 tours avant la
+palette, god pallet gardée), 360 ; pas de red stain, caméra,
+checkspots, arbres
+3. Perks survivant
+7 766
+≤ 2 par perk
+176 perks
+Tier list sans critères ; 15 perks SUSPECT ; aucune analyse par
+dimension
+4. Objets
+1 577
+1,9 (2)
+lot A
+Offrandes contradictoires ; « Anti-Exhaustion Syringe » ;
+rentabilité absente
+5. Builds survivant
+5 217
+2-3
+lot B
+Builds incohérents (9, 10, 14, 15, 18, 21, 24), statistique
+« 82 % »
+6. Jeu en équipe
+2 747
+2,0-2,7 (3)
+lot A
+« 4-man méta compétitive » illégale en compétition ; règles
+de sauvetage absolues
+7. Stratégie
+survivant
+2 153
+2,3 (3)
+lot A
+1 s de chase = 1/3 de gen ; proxy camp ; Plague ; Hex
+8. Tueurs (44 fiches)
+22 673
+counterplay 2,05 · loops
+1,18 · identification 0,18
+158
+Vue tueur à 75 % ; erreurs (Hillbilly, Spirit, Huntress, Cannibal,
+Singularity…) ; réserves effacées
+9. Perks tueur
+6 423
+vue survivant 0-1
+145 perks
+Surge / Jolt, Nowhere to Hide, No Way Out, Pain Res /
+Eruption ; pas de perk deduction
+10. Stratégie tueur
+4 967
+2-3
+106 (avec
+12-15)
+80 s par gen ; loadout révélé ; contradictions (tunnel, 4-slug,
+BP)
+11. Cartes
+13 602
+0,89 sur les dimensions
+stratégiques
+97
+Kill rates mélangés ; fixe / RNG confondus ; loops « infinies » ;
+gates et plans de partie absents
+12. Communication
+752
+1-2
+lot D
+Pas de grammaire de callouts ni de décompte des crochets
+13. Psychologie
+1 079
+2
+lot D
+Règles arbitraires
+14. Checklists
+727
+2
+lot D
+Héritent des erreurs des chapitres
+15. Sources
+557
+—
+249 URL
+Aucune citation par affirmation, URL factices, forums
+utilisateurs classés « officiel »
+Fraîcheur
+Le guide revendique le patch 10.1.2a et reflète bien les grands changements de 2025-2026 (DR 9.6.0, protections 10.1.0,
+anti-camp 9.3.0, renommages Halloween), mais il mélange des valeurs PTB 10.2.0 et 2v8 avec le LIVE, efface les réserves
+de ses notes et ne date aucune valeur. Indicateur global : POSSIBLY STALE, avec des îlots OUTDATED (chapitre 7 du présent
+rapport).
+
+=====PAGE 14=====
+Sujets mentionnés mais non couverts
+Hitbox et latence, red stain et moonwalk, caméra, checkspots, lecture sonore, collision et body block, connectivité des
+tiles, séparation fixe / RNG, identification du tueur, counterplay par add-on, perk deduction, lecture du HUD en solo, game
+sense, états de partie, erreurs, décisions, exercices, métriques, compétitif, méthode statistique.
+
+=====PAGE 15=====
+TAXONOMIE — ce qu'un expert de Dead
+by Daylight doit savoir (PASS 1)
+Construite indépendamment du guide existant, à partir de la mission (§3 à §18), de la structure du jeu et des lots de
+vérification. Chaque nœud a un identifiant stable (T-xxx) réutilisé par la matrice de couverture, le plan de recherche et les
+futurs chapitres.
+Légende de nature du savoir attendu : F mécanique (FACT, vérifiable), D données (DATA), H heuristique, O opinion
+d'expert, S situationnel, P pratique (drill / mesure). Rôle : Surv (priorité du projet) · Kill (nécessaire pour comprendre
+l'adversaire) · Les deux.
+A. Fondamentaux (Les deux)
+ID
+Nœud
+Contenu minimal attendu
+Nature
+T-A01
+Objectifs et conditions de victoire
+Survivant : 5 gens → portes / trappe ; tueur : sacrifices ; notion de « partie gagnée »
+(évasions, kills, 2K), émblèmes / MMR
+F
+T-A02
+Générateurs
+Charges, vitesse solo/coop, skill checks (fréquence, Great, raté), régression, coup de
+pied, plafond des regression events, blocage, 3-gen
+F
+T-A03
+Crochets et phases
+Durées de phase, struggle, auto-décrochage (règles 9.0.0), crochets Scourge, sous-sol,
+crochets cassés / sabotés, respawn
+F
+T-A04
+Sacrifice, mori, abandon
+Règles de mori (9.0.0), sacrifice immédiat (9.1.0), Abandon (9.2.0)
+F
+T-A05
+Soins
+Durée, coop, self-care, med-kits, pénalités, Mangled / Hemorrhage, Deep Wound
+mend
+F
+T-A06
+État mourant
+Bleed-out, récupération automatique (95 %), rampement, relevage, wiggle, drop
+F
+T-A07
+Slugging
+Définition, raisons tueur, 4-slug, abandon, perks anti-slug
+F + H
+T-A08
+Protections de décrochage
+Endurance / Haste / Elusive (10.1.0), ce qui les annule, anti-tunnel
+F
+T-A09
+Anti-camp (Resolve)
+Zone 16 m, grâce 7 s, multiplicateurs, désactivation portes alimentées
+F
+T-A10
+Glossaire des statuts
+Blindness, Broken, Deep Wound, Endurance, Exhausted, Exposed, Haemorrhage,
+Haste, Hindered, Incapacitated, Mangled, Oblivious, Undetectable, Elusive, Madness,
+Impaled, Heresy/Exile… : définition, sources, interactions, DR
+F
+T-A11
+Signaux d'information
+Terror radius, berceuse, chase music, red stain, scratch marks, flaques de sang,
+grognements, notifications bruyantes, corbeaux, auras, killer instinct
+F
+T-A12
+Objets de carte
+Casiers, coffres, totems (Hex / Boon / ternes), portes, trappe, EGC, Entity blocking
+F
+T-A13
+Économie hors-partie
+Bloodpoints (plafonds), offrandes (règles 9.0.0), MMR (10.1.0), prestige, loadouts
+visibles (9.6.0)
+F
+T-A14
+Diminishing Returns
+9.6.0 : périmètre, valeurs, exclusions, impact sur les builds
+F
+B. Mouvement et mécaniques de chase (Surv, avec la vue tueur)
+ID
+Nœud
+Contenu minimal
+Nature
+T-B01
+Vitesses
+Survivant (marche, course, accroupi, rampe), tueurs par classe et
+exceptions, portage, Haste / Hindered et cumul
+F
+T-B02
+Attaque du tueur
+Fente (durée, distance), cooldown coup / raté, coups spéciaux, boost de
+vitesse du survivant touché
+F
+T-B03
+Hitbox, hurtbox, latence
+Serveurs dédiés, validation des coups, ce qui est documenté vs observé
+F + O
+T-B04
+Vaults
+Rapide / moyen / lent : durées, conditions exactes (élan, distance, angle),
+vault du tueur, blocage Entity après 3 vaults
+F
+T-B05
+Palettes
+Chute, fenêtre de stun, durée du stun, casse, casses instantanées, vault de
+palette
+F
+T-B06
+Bloodlust
+Paliers, perte, interaction palettes / pouvoirs
+F
+
+=====PAGE 16=====
+ID
+Nœud
+Contenu minimal
+Nature
+T-B07
+Chase : début, fin, ligne de vue
+Conditions de chase, perte de chase, effets des perks liés
+F
+T-B08
+Respect / greed / pre-drop
+Définitions, arbitrage, dépendance au tueur
+H + S
+T-B09
+Red stain et manipulation
+Lecture, moonwalk, tueurs sans red stain, tueurs furtifs
+F + H
+T-B10
+Double-back, cornering, hugging, pathing
+Définitions, pourquoi ça marche, contre
+H
+T-B11
+Caméra et checkspots
+Quand regarder, garder le pathing, fréquence
+H + P
+T-B12
+Lecture d'animation et de son
+Fente, windup de pouvoir, pas, respiration, casque
+H
+T-B13
+Fake vault / fake pallet / mindgames
+Mécanique, quand, contre
+H
+T-B14
+Gestion de distance et de ressources
+Distance tampon, « tenir W », conversion de distance
+H
+T-B15
+Collision, body block, protection hit
+Règles de collision, bodyblock de palette/fenêtre, coups de protection
+F + H
+C. Théorie des loops et catalogue de tiles (Surv)
+ID
+Nœud
+Contenu minimal (par tile)
+T-C01
+Modèle de la loop
+Longueur du cycle vs gain de temps, fenêtres et palettes comme
+« portes », ligne de vue, sens optimal / mauvais sens
+T-C02
+Killer Shack
+Entrées, fenêtre, palette, checkspots, rotations, killers qui le
+cassent
+T-C03
+Jungle gyms (long / short wall, impostor)
+idem
+T-C04
+T-L walls
+idem
+T-C05
+Four-lane (inside / outside)
+idem
+T-C06
+Pallet gym, debris gym, locker gym, labyrinth gym (Wolfpack /
+Lone Wolf), variant gym, small gyms, double window, edge tiles
+idem
+T-C07
+Fillers (arbre + rocher, voitures, balles de foin, troncs, « god
+rocks »)
+quand jeter, quand quitter
+T-C08
+Main buildings (génériques + par carte)
+main window, drops, murs cassables
+T-C09
+Structures uniques par royaume (Cow Tree, Harvester, bus, Pale
+Rose, pog logs, Glenvale gyms…)
+idem
+T-C10
+Force d'une tile
+God / safe / pseudo / unsafe : définition opérationnelle,
+dépendance au tueur et aux perks (Bamboozle, Brutal
+Strength…)
+T-C11
+Matrice tile × type de tueur
+Quelles tiles changent contre anti-loop, ranged, mobilité, furtif,
+115 %
+D. Connectivité des tiles (Surv)
+ID
+Nœud
+Contenu
+T-D01
+Chaînes de tiles, routes d'évasion, routes de ressources
+Planifier 5-15 s d'avance
+T-D02
+Dead zones et zones consommées
+Carte mentale des palettes restantes
+T-D03
+Transitions
+Quitter au bon moment (LOS, fenêtre bloquée, palette cassée)
+T-D04
+Exemples commentés
+« Tile A → Tile B → main → filler » avec options
+E. Connaissance des cartes (Les deux)
+ID
+Nœud
+Contenu par carte (44 en rotation 1v4)
+T-E01
+Inventaire royaumes / cartes
+Liste à jour, cartes retirées, variantes, 2v8
+T-E02
+Fixe vs RNG procédural
+Ce qui est garanti vs aléatoire (main, shack, landmarks, tiles, crochets,
+trappe, sous-sol, totems)
+T-E03
+Architecture et landmarks
+Main, landmarks, verticalité, intérieur / extérieur, visibilité
+
+=====PAGE 17=====
+ID
+Nœud
+Contenu par carte (44 en rotation 1v4)
+T-E04
+Zones fortes / faibles / dead zones
+Où survivre, où ne pas aller blessé
+T-E05
+Gens, clusters, portes
+Répartition typique, 3-gen probable
+T-E06
+Tueurs favorisés / défavorisés
+Descriptif (pas un classement)
+T-E07
+Stratégie début / milieu / fin par carte
+Routes, gestion des palettes
+T-E08
+Historique des cartes par patch
+Tailles, reworks, palettes (9.2.0, 9.3.0, 9.3.2)
+F. Tueurs : connaissance pour le survivant (44 fiches)
+Pour chaque tueur : pouvoir exact · mouvement / TR · ressources · identification (avant et après le reveal, add-ons
+observables) · ce qu'il cherche en chase · loops favorables / défavorables · mindgames propres · counterplay mécanique /
+positionnel / macro / d'équipe · habitudes punissables · adaptations avancées · cas où le counterplay habituel échoue ·
+add-ons qui changent les décisions · implications map · erreurs classiques. IDs T-F01 à T-F44 + T-F45 (typologie
+transversale : M1, anti-loop, ranged, mobilité, furtif, zone / trap, info, slug) + T-F46 (identification avant le reveal).
+G. Perks survivant (176 en jeu)
+T-G01 inventaire complet vérifié · T-G02 fiche par perk (effet, valeurs, conditions, cooldown, limites, interactions,
+synergies / anti-synergies, difficulté, valeur par dimension : SoloQ, SWF, chase, macro, info, anti-tunnel, soin, gen,
+endgame) · T-G03 impact des DR · T-G04 archétypes de builds (chase, info, gen, soin, altruisme, anti-tunnel, anti-slug,
+endgame, SoloQ, SWF, apprentissage, régularité, stealth, anti-hex) · T-G05 perks renommées / retirées / PTB.
+H. Perks tueur et déduction (Surv)
+T-H01 inventaire vérifié (145) · T-H02 fiche orientée survivant (indice visuel / sonore, soupçon, confirmation, adaptation,
+counterplay, erreurs) · T-H03 PERK DEDUCTION (A + B + C   perk plausible   comportement robuste sans certitude) ·
+T-H04 combos courants et comment les casser (slowdown, info, chase, endgame, hex).
+I. Objets, add-ons, offrandes et techniques associées
+T-I01 med-kits · T-I02 toolboxes (sabotage, réparation) · T-I03 flashlights (flash save, aveuglement, angles) · T-I04 keys
+(trappe, auras) · T-I05 maps · T-I06 Fog Vial · T-I07 autres objets actuels · T-I08 add-ons importants et DR · T-I09 offrandes
+(royaume 20 %, spawn, BP, mori) · T-I10 techniques : flash save, pallet save, sabotage, body block, protection hit, coffres /
+Plunderer's.
+J. Macro survivant
+T-J01 efficacité et dispersion des gens · T-J02 configurations dangereuses (3-gen) · T-J03 répartition de l'équipe · T-J04
+pression et états de crochet · T-J05 trades, saves, timing de sauvetage · T-J06 proxy camp, camp, tunnel, slug : réponses · 
+T-J07 reset / regroupement / split pressure · T-J08 quand soigner / ne pas soigner · T-J09 continuer / abandonner un gen ·
+T-J10 économie de l'information · T-J11 positionnement · T-J12 gestion des portes et trappe.
+K. SoloQ vs SWF
+T-K01 SoloQ : lecture du HUD (icônes, états, barres, auras), comportements probabilistes, communication indirecte,
+décisions robustes · T-K02 Survivor Intent System (PTB 10.2.0 → à suivre) · T-K03 SWF : rôles, protocoles, chase calls, gen
+calls, suivi des perks et du tueur, coordination des hooks · T-K04 vocabulaire de callouts (grammaire, priorités, horloge,
+carte, états).
+
+=====PAGE 18=====
+L. Chase theory avancée
+T-L01 économie en secondes (1 gen solo = 90 s ; valeur d'une seconde de chase) · T-L02 EV d'une palette · T-L03 coût
+temporel pour le tueur (casse, stun, vault) · T-L04 coût d'une blessure · T-L05 resource denial, zoning, forced path, option
+coverage · T-L06 asymétrie d'information · T-L07 risk / reward, tempo, pressure conversion · T-L08 engagement et
+abandon de chase (vue tueur et survivant).
+M. Game sense
+T-M01 prédire la position du tueur · T-M02 prédire les coéquipiers · T-M03 zones épuisées · T-M04 estimer les gens · T-M05
+lire les intentions et patterns · T-M06 suivre perks et états de crochet · T-M07 reconnaître un snowball / une partie qui
+bascule · T-M08 décider avec information incomplète.
+N. États de partie
+T-N01 à T-N14 : début, premier contact, première chase, premier crochet, milieu, 3 / 2 / 1 gens, portes alimentées, EGC,
+survivant en dernière phase, plusieurs survivants au sol, tueur sans pression, tueur avec forte pression — priorités et
+erreurs catastrophiques pour chacun.
+O. Fin de partie
+T-O01 portes (99, ouverture, gate camp) · T-O02 trappe (spawn, standoff, clés) · T-O03 EGC (durée, ralentissement) ·
+T-O04 perks d'endgame et combinaisons (NOED, Remember Me, Blood Warden, Terminus, No Way Out) · T-O05 fin à 2
+survivants, fin à 1.
+P. Base d'erreurs
+T-P01 débutant · T-P02 intermédiaire · T-P03 avancé · T-P04 très avancé — chaque entrée : Erreur → Pourquoi → Punition
+→ Correction → Drill.
+Q. Arbres de décision
+T-Q01 palette (pré-drop / greed / tenir / quitter) · T-Q02 crochet (qui y va, quand, tueur parti ou non) · T-Q03 soin · T-Q04
+gen (continuer / lâcher / 99) · T-Q05 totems · T-Q06 fin de partie · T-Q07 slug.
+R. Entraînement et mesure
+T-R01 drills (caméra, shack, jungle gym, fast vault, identification de tueur, perk deduction, callouts…) avec objectif /
+méthode / métrique / erreur / réussite · T-R02 programme progressif en 10 niveaux · T-R03 métriques de progression
+(durée de chase, gens pendant la chase, palettes par chase, premier coup, coups évitables, vaults ratés, morts en dead
+zone, trades, mauvais sauvetages, efficacité gen, soins inutiles) · T-R04 méthode de revue de parties (VOD personnelle).
+S. DBD compétitif vs matchmaking public
+T-S01 écosystème (ligues, organisateurs, VODs) · T-S02 règlements (bans, pools, scoring) · T-S03 ce qui se transfère / ne se
+transfère pas · T-S04 méta compétitive vs méta publique.
+
+=====PAGE 19=====
+T. Littératie des données
+T-T01 sources (BHVR officiel, NightLight…) et méthodes · T-T02 biais (sélection, MMR, plateforme, échantillon) · T-T03 pick
+rate ≠ win rate, corrélation ≠ causalité · T-T04 citer une statistique (période, population, n, plateforme).
+U. Méta-savoir et environnement
+T-U01 suivi des patchs (LIVE / PTB / HISTORICAL), lecture des patch notes · T-U02 réglages audio / vidéo / accessibilité,
+casque, FOV · T-U03 réseau et latence (ping, région, serveurs) · T-U04 psychologie, tilt, sessions, apprentissage · T-U05
+historique des versions du guide (changelog).
+V. Côté tueur (secondaire, conservé)
+T-V01 pression et macro tueur · T-V02 choix de cible, tunnel / slug raisonnés · T-V03 3-gen côté tueur · T-V04 builds tueur ·
+T-V05 mindgames tueur. (Sert surtout à comprendre l'adversaire ; le guide actuel en contient beaucoup.)
+W. Annexes
+T-W01 glossaire FR / EN · T-W02 tables de données · T-W03 sources · T-W04 historique des patchs.
+
+=====PAGE 20=====
+COVERAGE_MATRIX — état au
+27/09/2026 (après PASS 0, PASS 1 et le lot
+1)
+Sources de la notation : audits audit/pass0_A…E.md (lecture intégrale des 20 chapitres) et lot 1
+research/batch1_R1…R4.md. Profondeur : 0 absent · 1 mentionné · 2 décrit (QUOI) · 3 expliqué (QUOI + POURQUOI /
+QUAND) · 4 expert (WHAT → WHY → WHEN → HOW → COUNTER → FAILURE CASE → DRILL). Notation stricte : aucune
+section du guide actuel n'atteint 4. Vérifié : 0 = rien vérifié · ◐ = partiellement (lot 1) · ✓ = vérifié. Priorité : P0 erreurs
+factuelles ou fondation de tout le reste · P1 cœur du niveau expert survivant · P2 important · P3 complément. Statut 
+(mission §46) : NOT_STARTED · INVENTORIED · RESEARCHING · PARTIALLY_VERIFIED · VERIFIED · WRITTEN · AUDITED ·
+COMPLETE · BLOCKED · UNCERTAIN. Aucun domaine n'est COMPLETE.
+1. Matrice d'audit (domaine par domaine)
+Domaine (taxonomie)
+Présent
+dans le
+guide
+Profondeu
+r actuelle
+Vérif
+ié
+À mettre à jour
+Manquant
+Priori
+té
+Statut
+---
+---
+---:
+:-:
+---
+---
+:-:
+---
+Registre de version /
+fraîcheur (T-U01)
+Oui (ch. 0)
+2
+✓
+Date 10.1.2a = 17/09 (pas
+26/09) ; phrase de version ;
+PTB 10.2.0 mêlé au live
+(A-223, A-240, A-246)
+Étiquettes LIVE / PTB /
+HISTORICAL par
+affirmation
+P0
+VERIFIED
+(registre)
+Objectifs, gens (T-A01,
+T-A02)
+Oui (ch. 1,
+7, 10a)
+3
+◐
+« 80 s » par gen (D-087) →
+90 s ; « 1 s de chase ≈ 1/3 de
+gen » (A-267) → ≈ 1/30 de
+gen si 3 survivants réparent
+chacun de leur côté (90 s
+par gen solo), comme le dit
+déjà le ch. 1
+Régression détaillée,
+plafond de 8, arbitrage
+99 %
+P0
+PARTIALLY_
+VERIFIED
+Crochets, phases,
+anti-camp (T-A03, T-A09)
+Oui
+3
+✓
+Proxy camp « l'anti-camp
+décrochera » (A-283) faux ;
+« face camp inutile après 20
+s » (A-019) non étayé
+Arbre de décision de
+sauvetage, lecture de la
+jauge Resolve
+P0
+VERIFIED (
+mécanique)
+Protections de
+décrochage, anti-tunnel
+(T-A08)
+Oui
+2
+✓
+« perdues portes
+alimentées » (A-074) : seule
+Elusive
+Ce qui annule les
+protections, jeu autour
+P0
+VERIFIED (
+mécanique)
+État mourant, slug,
+abandon (T-A06, T-A07)
+Oui
+2
+✓
+Build 10 : relève auto
+inexistante ≠ récupération
+auto 95 % (clarifier)
+Arbre slug, anti-slug SoloQ
+P1
+VERIFIED (
+mécanique)
+Soins (T-A05)
+Oui
+2
+✓
+Nombre max de soigneurs
+(conflit 2 / 3)
+Coût-bénéfice d'un soin,
+quand ne pas soigner
+P1
+PARTIALLY_
+VERIFIED
+Glossaire des statuts
+(T-A10)
+Partiel,
+dispersé
+1
+◐
+Elusive, Impaled, Heresy /
+Exile à intégrer
+Glossaire complet avec
+sources et interactions
+P1
+PARTIALLY_
+VERIFIED
+Signaux d'information
+(T-A11)
+Partiel
+1
+◐
+—
+Red stain, sons,
+grognements, flaques,
+corbeaux AFK (9.3.0),
+scratch marks
+P1
+PARTIALLY_
+VERIFIED
+Objets de carte, EGC,
+trappe (T-A12, T-O01-03)
+Partiel
+2
+✓
+—
+Standoff de trappe, gate
+camp, 99 des portes
+P1
+PARTIALLY_
+VERIFIED
+Économie, offrandes,
+MMR (T-A13)
+Oui
+2
+✓
+Contradiction offrandes
+(A-014 vs A-190) → 20 %
+non cumulable ; « partie
+classée » n'existe pas ; reset
+MMR = UNCERTAIN
+—
+P0
+VERIFIED
+
+=====PAGE 21=====
+Domaine (taxonomie)
+Présent
+dans le
+guide
+Profondeu
+r actuelle
+Vérif
+ié
+À mettre à jour
+Manquant
+Priori
+té
+Statut
+Diminishing Returns
+(T-A14)
+Oui
+2
+✓
+Hyperfocus exempté
+(A-233) faux ; « vitesse dans
+les add-ons » : l'exclusion
+des add-ons est vérifiée
+(9.6.0)
+Liste exhaustive des
+modificateurs (manuel du
+jeu non consulté)
+P0
+PARTIALLY_
+VERIFIED
+Vitesses, attaque, boost
+(T-B01, T-B02)
+Oui
+2
+✓
+Calcul « 10 m = 17 s / 25 s »
+(A-054) → ~16,3 / 21,7 s
+sans fente
+Fente (durée / distance)
+non documentée
+officiellement
+P1
+PARTIALLY_
+VERIFIED
+Hitbox, latence (T-B03)
+Quasi
+absent
+1
+◐
+360 « utile » (A-160) : trop
+absolu
+Validation serveur, ce qui
+est connu vs rumeur
+P1
+RESEARCHI
+NG
+Vaults (T-B04)
+Oui
+2
+✓
+« le vault annule l'élan »
+(A-059) : faux pour le fast
+vault
+Conditions complètes
+(angle), vault sous Haste
+P1
+PARTIALLY_
+VERIFIED
+Palettes, stuns (T-B05)
+Oui
+2
+✓
+Casse 2,34 s (et non 2,6 s,
+10a / 13)
+Casses instantanées, vault
+de palette
+P1
+VERIFIED
+Bloodlust, début / fin de
+chase (T-B06, T-B07)
+Oui
+2
+✓
+—
+Arbitrage « reset bloodlust
+vs quitter »
+P1
+VERIFIED
+Respect / greed /
+pre-drop (T-B08)
+Oui
+(principes)
+2
+0
+Règles absolues (« 2 tours
+avant la palette », « god
+pallet se garde »)
+Arbre de décision palette
+(T-Q01)
+P1
+INVENTORI
+ED
+Red stain, moonwalk,
+double-back, pathing,
+caméra, checkspots
+(T-B09-B11)
+Mentionné
+1
+0
+—
+Sections complètes + drills
+P1
+NOT_START
+ED
+Lecture son / animation,
+fakes, mindgames
+(T-B12, T-B13)
+1 schéma
+1-2
+0
+« serpenter dans le sens
+horaire » (règle
+géométrique lisible)
+Catalogue de mindgames
+avec contre
+P1
+NOT_START
+ED
+Collision, body block,
+protection hit (T-B15)
+Mentionné
+1
+0
+—
+Règles + techniques
+P2
+NOT_START
+ED
+Théorie des loops (T-C01,
+T-C10)
+Oui (ch. 2)
+2
+0
+Force « god / safe » = avis
+d'expert non signalé comme
+tel
+Modèle de la loop, sens
+optimal, checkspots,
+quand quitter
+P1
+INVENTORI
+ED
+Catalogue de tiles
+(T-C02-C09)
+Oui, 21
+dessins
+2
+0
+Exclusivités par royaume
+probablement périmées
+(pool commun 9.2.0)
+Fiche complète par tile
+(entrées, sens, checkspots,
+abandon, killers qui la
+cassent)
+P1
+INVENTORI
+ED
+Matrice tile × type de
+tueur (T-C11)
+Absent
+0
+0
+—
+Tout
+P1
+NOT_START
+ED
+Connectivité des tiles
+(T-D01-D04)
+1 schéma
+1
+0
+—
+Planification 5-15 s,
+exemples commentés
+P1
+NOT_START
+ED
+Inventaire des cartes
+(T-E01)
+Oui
+3
+✓
+Retrait Halloween le 19/01
+(pas 16/01)
+Cartes 2v8 (séparées)
+P2
+VERIFIED
+Fixe vs RNG (T-E02)
+Partiel
+1,2
+0
+« existence des loops fixe »
+(atlas) : faux pour de
+nombreuses loops
+Séparation stricte fixe /
+RNG par carte
+P0
+INVENTORI
+ED
+Kill rates des cartes
+(T-E06, T-T)
+Oui
+2
+✓
+3 fenêtres mélangées,
+erreurs de recopie (Garden,
+Eyrie, Pale Rose, Wretched
+Shop), « Coldwind
+favorable » faux
+Une seule fenêtre datée
+avec n
+P0
+VERIFIED
+(diagnostic)
+Dimensions stratégiques
+par carte (T-E03-E07)
+Partiel
+0,1-2,1
+(moy.
+0,89)
+0
+Loops « infinies » malgré le
+blocage Entity
+Gates, dead zones, routes,
+plan début / milieu / fin,
+tueurs favorisés
+P1
+INVENTORI
+ED
+Historique des cartes
+(T-E08)
+Partiel
+2
+◐
+9.3.2 absent
+Changelog cartes
+P2
+PARTIALLY_
+VERIFIED
+
+=====PAGE 22=====
+Domaine (taxonomie)
+Présent
+dans le
+guide
+Profondeu
+r actuelle
+Vérif
+ié
+À mettre à jour
+Manquant
+Priori
+té
+Statut
+Fiches tueurs, vue
+survivant (T-F01-F44)
+Oui, 44
+fiches
+counterpl
+ay 2,05 ·
+loops 1,18
+· macro
+1,23 ·
+add-ons
+1,25 ·
+erreurs
+0,57 · map
+0,23 · iden
+tification
+0,18
+0
+Erreurs relevées (Hillbilly,
+Spirit, Huntress « 7
+hachettes », Knock Out,
+Singularity…) ; 75 % du texte
+orienté tueur
+Tout le volet survivant
+P1
+INVENTORI
+ED
+Typologie des tueurs,
+identification avant
+reveal (T-F45, T-F46)
+Absent
+0
+0
+—
+Tout
+P1
+NOT_START
+ED
+Perks survivant
+(T-G01-G03)
+176 perks,
+tier list
+≤ 2 par
+perk
+0
+15 SUSPECT (Off the Record,
+Vigil, Blood Rush, Will to
+Live…) ; tier list =
+classement sans critères
+Fiche multi-dimensions,
+anti-synergies, difficulté
+P1
+INVENTORI
+ED
+Builds survivant (T-G04)
+24 builds
+2-3
+0
+Builds incohérents (9, 10,
+14, 15, 18, 21, 24) ; « 82 %
+d'évasion » sans n
+Archétypes manquants
+(apprentissage, régularité,
+anti-hex, anti-slug SoloQ)
+P1
+INVENTORI
+ED
+Perks tueur (T-H01)
+145 perks
+0-1 (vue
+survivant)
+◐
+Surge (nom actuel, pas
+« ex-Jolt ») ; Nowhere to
+Hide 24 m ; No Way Out,
+Blood Warden, Pain Res /
+Eruption à trancher
+Indices, confirmation,
+counterplay pour chaque
+perk
+P1
+PARTIALLY_
+VERIFIED
+Perk deduction (T-H03)
+Absent
+0
+0
+Loadout tueur caché jusqu'à
+la fin (D-092 faux)
+Tout
+P1
+NOT_START
+ED
+Objets et add-ons
+(T-I01-I08)
+Oui (ch. 4)
+2
+◐
+« Anti-Exhaustion Syringe »
+inexistant ; Fog Vial 4
+charges (9.5.0)
+Rentabilité d'un objet,
+add-ons qui changent la
+décision
+P2
+PARTIALLY_
+VERIFIED
+Techniques de save et de
+sabotage (T-I10)
+Listes
+1
+0
+—
+Flash save (angles), pallet
+save, sabo, body block
+P1
+NOT_START
+ED
+Macro survivant (T-J)
+Oui (ch. 6,
+7)
+2-3
+0
+Règles absolues (« le plus
+proche décroche », « un
+seul joueur quitte son
+gen », « purifiez un Hex dès
+qu'il s'allume », « soignez
+vite contre Plague »)
+Arbres de décision, trades,
+split pressure
+P1
+INVENTORI
+ED
+SoloQ (T-K01, T-K02)
+Par touches
+1
+0
+« Si quelqu'un a Kindred,
+prenez Déjà Vu » suppose
+une adaptation au lobby
+Lecture du HUD, protocole
+solo
+P1
+NOT_START
+ED
+SWF et callouts (T-K03,
+T-K04)
+Oui (ch. 6,
+12)
+1-2
+0
+« méta compétitive 4-man »
+illégale sous les règlements
+compétitifs
+Grammaire, callouts de
+pouvoir, décompte des
+hooks
+P2
+INVENTORI
+ED
+Chase theory avancée
+(T-L)
+Partiel (ch.
+1, 2)
+2
+0
+Conclusion « la chase ne
+sert à rien » (A-122) réfutée
+par ses propres données
+EV palette, coût d'une
+blessure, tempo,
+engagement
+P1
+NOT_START
+ED
+Game sense (T-M)
+Absent
+(hors
+conseils
+épars)
+1
+0
+—
+Tout
+P1
+NOT_START
+ED
+États de partie (T-N)
+Partiel
+1-2
+0
+—
+Matrice état → priorités →
+erreurs catastrophiques
+P1
+NOT_START
+ED
+Fin de partie (T-O)
+Partiel
+2
+◐
+—
+Standoff, gate camp, fin à
+2
+P1
+PARTIALLY_
+VERIFIED
+
+=====PAGE 23=====
+Domaine (taxonomie)
+Présent
+dans le
+guide
+Profondeu
+r actuelle
+Vérif
+ié
+À mettre à jour
+Manquant
+Priori
+té
+Statut
+Base d'erreurs (T-P)
+Absent
+0
+0
+—
+Tout
+P1
+NOT_START
+ED
+Arbres de décision (T-Q)
+Absent
+0
+0
+—
+Tout
+P1
+NOT_START
+ED
+Drills, programme,
+métriques (T-R)
+Absent
+0
+0
+—
+Tout
+P1
+NOT_START
+ED
+Compétitif vs public (T-S)
+Absent
+0
+◐
+—
+Écosystème, règlements,
+transfert
+P2
+PARTIALLY_
+VERIFIED
+Littératie des données
+(T-T)
+Absent
+0
+✓
+~70 kill rates NightLight par
+tueur sans n ; « +3 / +8 pts
+en vocal » sans source
+Encadré méthodologique
+P0
+VERIFIED
+(diagnostic)
+Audio, réglages, réseau
+(T-U02, T-U03)
+Mentionné
+1
+0
+—
+Réglages et effets
+P3
+NOT_START
+ED
+Psychologie,
+apprentissage (T-U04)
+Oui (ch. 13)
+2
+0
+Règles arbitraires (« 2
+défaites → change de
+rôle »)
+Méthode d'apprentissage
+délibéré
+P3
+INVENTORI
+ED
+Côté tueur (T-V)
+Oui (ch. 10)
+2-3
+0
+Contradictions internes
+(tunnel, 4-slug)
+—
+P3
+INVENTORI
+ED
+Sources et traçabilité
+(T-W03)
+249 URL
+—
+✓ (d
+iagn
+ostic
+)
+Aucune citation par
+affirmation ; URL factices ;
+forums utilisateurs classés
+« officiel » ; réserves « (?) »
+effacées
+Citation par affirmation,
+date d'accès, patch
+P0
+RESEARCHI
+NG
+2. Matrice de pipeline (mission §24)
+✓ fait · ◐ partiel · ✗ non commencé.
+Sujet
+Inventorié
+Recherché
+Source
+primaire
+Sources
+secondaires
+Vérifié
+Intégré
+---
+:-:
+:-:
+:-:
+:-:
+:-:
+:-:
+État du jeu / patchs 9.0.0 → 10.2.0 PTB
+✓
+✓
+✓
+✓
+✓
+✗
+Mécaniques de base (vitesses, vaults, palettes, bloodlust,
+chase)
+✓
+✓
+◐
+✓
+◐
+✗
+Objectifs, crochets, soins, statuts, EGC
+✓
+✓
+✓
+✓
+◐
+✗
+Statistiques (sources, méthode, corrections)
+✓
+✓
+✓
+✓
+✓
+✗
+Compétitif
+✓
+◐
+◐
+◐
+◐
+✗
+Perks survivant (176)
+✓
+✗
+✗
+✗
+✗
+✗
+Perks tueur (145)
+✓
+✗
+✗
+✗
+✗
+✗
+Tueurs (44)
+✓
+✗
+✗
+✗
+✗
+✗
+Objets / add-ons / offrandes
+✓
+◐
+◐
+◐
+◐
+✗
+Cartes (44) et tiles
+✓
+◐ (phase
+2)
+◐
+◐
+✗
+◐ (atlas)
+Techniques de chase (red stain, caméra, mindgames…)
+✓
+(taxonomie)
+✗
+✗
+✗
+✗
+✗
+Macro, SoloQ / SWF, game sense, états de partie
+✓
+(taxonomie)
+✗
+✗
+✗
+✗
+✗
+Base d'erreurs, arbres de décision, drills, programme,
+métriques
+✓
+(taxonomie)
+✗
+✗
+✗
+✗
+✗
+
+=====PAGE 24=====
+GAP ANALYSIS — première analyse des
+manques (PASS 2)
+Base : audits de PASS 0 (5 lots, 20 chapitres, ≈ 75 000 mots ; 671 affirmations chiffrées extraites (A 310, C 158, D 106, E
+97) ; 176 perks survivant et 145 perks tueur inventoriées ; ≈ 190 éléments marqués SUSPECT) + lot 1 de vérification web
+(239 affirmations vérifiées, 33 conflits).
+0. Leçon de méthode tirée du lot 1
+Les auditeurs de PASS 0 ont travaillé sans web, sur leur seule connaissance. Plusieurs de leurs « SUSPECT » étaient faux :
+phases de crochet à 70 s (vrai depuis 8.2.0), casse de palette 2,34 s (vrai depuis 6.1.0), stun de Will to Live 4 s, Vigil 16 m,
+MMR fondé sur les actions en partie (vrai en 10.1.0), Boon posable sur un Hex. À l'inverse, des affirmations qui paraissaient
+plausibles étaient fausses (offrandes cumulables, anti-camp contre le proxy camp, loadout du tueur révélé après la 1re
+chase). Conséquence : un soupçon d'audit n'est jamais une correction. Seule une vérification sourcée modifie le guide.
+Toutes les suspicions restent A-VERIFIER tant qu'un lot ne les a pas tranchées.
+1. Erreurs factuelles et contenu obsolète confirmés (extrait, voir
+OUTDATED_CONTENT_REPORT.md)
+• Mécaniques : 80 s par gen (→ 90 s) ; « 1 s de chase ≈ 1/3 de gen » (→ ≈ 1/30 avec 3 réparateurs) ; protections toutes
+perdues portes alimentées (→ seule Elusive) ; proxy camp déclenche l'anti-camp (→ non, rien au-delà de 16 m) ;
+offrandes cumulables à poids (→ 20 % fixes non cumulables depuis 9.0.0) ; Hyperfocus hors DR (→ soumis aux DR) ;
+loadout du tueur visible après la 1re chase (→ seul le tueur est révélé) ; casse de palette 2,6 s dans deux chapitres (→
+2,34 s) ; « le vault annule l'élan » (→ faux pour le fast vault) ; « Anti-Exhaustion Syringe » (n'existe pas) ; calcul d'avance
+17 s / 25 s (→ ~16,3 s / ~21,7 s sans fente).
+• Perks : Surge présenté comme « ex-Jolt » (Surge est le nom actuel et d'origine) ; Nowhere to Hide 18 m (valeur PTB ;
+LIVE = 24 m) ; Vigil (20/25/30 % depuis 10.1.1) ; Will to Live 40/50/60 s ; Off the Record (Endurance à trancher).
+• Données : « +3 / +8 points en vocal » sans source ; période des stats officielles 2026 fausse (sept. 2025 → févr. 2026) ;
+~70 kill rates par tueur NightLight sans échantillon ; kill rates de cartes issus de 3 fenêtres mélangées + erreurs de
+recopie ; « Coldwind favorable aux survivants » faux ; « la chase ne sert à rien » (corrélation transformée en causalité) ;
+« 1 survivant perdu sur 3 est dans un casier » (non mesurable) ; « 76 / 80 % des votants BHVR » (aucun sondage BHVR
+trouvé).
+• Dates : licence Halloween retirée le 19/01/2026 (pas le 16) ; 10.1.2a daté du 17/09 (pas du 26/09) ; 5 % au coup de pied
+depuis 7.5.0 (janv. 2024).
+• Compétitif : la « méta compétitive 4-man » du guide est illégale sous les règlements compétitifs (pas de doublons de
+perks / objets, bans).
+2. Problèmes structurels
+1. Traçabilité nulle : 249 URL en fin de document, mais aucune affirmation n'est reliée à une source ; URL factices ; fils de
+forum d'utilisateurs rangés en « officiel » ; sources citées mais jamais lues.
+2. Réserves effacées : les « (?) » et les attributions (« selon Timesaver ») des notes de recherche ont disparu à la
+rédaction ; des hypothèses sont devenues des faits.
+3. Mélange LIVE / PTB / 2v8 : recommandations fondées sur le PTB 10.2.0 et sur des buffs 2v8 présentées comme live.
+4. Point de vue : ~75 % des fiches tueur servent le joueur tueur ; la cible prioritaire (le survivant qui affronte ce tueur) est
+à ~1,0 / 4 de profondeur moyenne.
+5. Descriptif, pas décisionnel : aucune section à 4 / 4 ; aucun arbre de décision, aucune base d'erreurs, aucun drill, aucun
+programme, aucune métrique.
+6. Heuristiques présentées comme règles : ≈ 40 conseils absolus relevés (A : 24, D : 18), dont plusieurs dangereux (proxy
+camp, « 2 tours avant la palette », « purifiez un Hex dès qu'il s'allume », « soignez vite contre Plague », « ne frappez
+
+=====PAGE 25=====
+jamais un survivant décroché »).
+7. Opinion non étiquetée : tier lists et « force » des loops (god / safe…) sont des avis d'experts datés présentés comme
+des propriétés du jeu.
+8. Fixe vs RNG : l'atlas et le chapitre cartes présentent comme fixes des éléments procéduraux.
+9. Incohérences internes : ≥ 20 paires contradictoires (offrandes, DR, Commodious, Background Player, Kindred, 4-slug,
+BP cap, Build 5 vs Build « 82 % »…). Des tables sont dupliquées (_surv_perk_tables.md, _killer_perk_tables.md).
+3. Domaines absents ou seulement mentionnés (profondeur 0-1)
+Hitbox / latence / validation serveur · red stain et moonwalk · caméra et checkspots · lecture son / animation · catalogue de
+mindgames · collision et body block · matrice tile × type de tueur · connectivité des tiles et routes · séparation fixe / RNG
+par carte · gates, dead zones et plan de partie par carte · identification du tueur avant le reveal · counterplay par add-on ·
+perks tueur vue survivant et perk deduction · techniques de save (flash, palette, sabo) · lecture du HUD en SoloQ · game
+sense · matrice des états de partie · base d'erreurs · arbres de décision · drills · programme d'entraînement · métriques ·
+DBD compétitif vs public · littératie des données · réglages audio / réseau.
+4. Domaines présents mais trop superficiels (profondeur 2, cible
+4)
+Théorie des loops et tiles · fiches cartes (moyenne 0,89 sur les dimensions stratégiques) · fiches tueurs (volet survivant) ·
+perks survivant (fiches multi-dimensions, anti-synergies) · builds (pourquoi / quand / contre quoi / cas d'échec) · macro
+survivant · SWF et callouts · fin de partie · soins · économie des objets.
+5. Ce qui est solide et à conserver (après vérification)
+Registre de version et historique 9.0.0 → 10.1.2a (vérifié) ; mécaniques de base majoritairement correctes (vitesses, vaults,
+palette 2,34 s, bloodlust, 70 s par phase, anti-camp 9.3.0, protections 10.1.0, DR 9.6.0, EGC, portes, coffres, totems) ;
+inventaires (44 tueurs, 54 survivants, 176 / 145 perks après dédoublonnage des perks renommées, 44 cartes en rotation) ;
+atlas vectoriel (contours officiels, 12 cartes à positions officielles).
+6. Priorités qui en découlent
+• P0 : corriger les erreurs confirmées ; étiqueter LIVE / PTB ; retirer ou dater les statistiques ; séparer fixe / RNG ;
+introduire la citation par affirmation.
+• P1 : construire les domaines absents à forte valeur pour le survivant (chase fine, tile × tueur, connectivité, perk
+deduction, counterplay par tueur, macro décisionnelle, SoloQ, game sense, états de partie, erreurs, arbres, drills).
+• P2 : approfondir cartes, objets, SWF / callouts, compétitif.
+• P3 : réglages, psychologie, côté tueur.
+
+=====PAGE 26=====
+OUTDATED CONTENT REPORT — contenu
+faux, obsolète ou trompeur du guide
+initial
+Version 1 (27/09/2026, après le lot 1). Seules figurent ici les affirmations tranchées par une vérification sourcée. Les
+soupçons non encore vérifiés restent dans audit/pass0_*.md avec le statut A-VERIFIER. Les ID renvoient aux audits (A-, C-,
+D-, E-) et aux lignes de CLAIM_DATABASE (G-, M-, S-, ST-, CP-).
+1. Faux
+Réf.
+Chapitr
+e
+Le guide dit
+Valeur vérifiée (LIVE 10.1.2a)
+Preuve
+D-087
+10a
+Un gen solo ≈ 80 s
+90 s (90 charges depuis 6.1.0)
+S-lot R3 (wiki.gg
+Generators ; notes 6.1.0)
+A-267
+07
+1 s de chase ≈ 1/3 de gen
+≈ 1/30 de gen quand 3 survivants réparent
+chacun un gen (1/90 par réparateur) ; contredit le
+ch. 1
+Arithmétique sur 90 s
+A-074
+00 / 07
+Protections de décrochage inactives
+une fois les portes alimentées
+Seule Elusive disparaît ; Endurance + 10 % Haste
+pendant 10 s restent
+Notes 10.1.0
+A-283
+07
+Contre un proxy camp, l'anti-camp
+décrochera l'allié
+Aucun remplissage au-delà de 16 m
+wiki.gg Resolve ; notes 9.3.0
+A-190
+04
+Offrandes de royaume cumulables
+(poids 2 / 5 / 9999)
+20 % fixes, doublons non cumulables depuis
+9.0.0 (A-014 et D-055 avaient raison)
+Notes 9.0.0
+A-233
+05 / 06
+Hyperfocus (chance de skill check)
+échappe aux DR
+Les modificateurs de chance de skill check sont
+soumis aux DR (au sein du rôle survivant) ; seuls
+les add-ons sont exclus
+Notes 9.6.0
+D-092
+10a
+Les survivants voient les perks du tueur
+après la 1re chase
+Seul le tueur (identité) est révélé ; son loadout
+reste caché jusqu'à la fin
+Notes 9.6.0
+D-063
+10a /
+13
+Casse de palette ≈ 2,6 s (ou 2,3 s
+ailleurs)
+2,34 s depuis 6.1.0
+wiki.gg Pallets ; notes 6.1.0
+A-059
+01 / 02
+« Le vault annule l'élan »
+Faux pour le fast vault (0,5 s), qui garde l'élan ;
+vrai pour les vaults moyen / lent
+wiki.gg Windows
+A-054
+02
+10 m d'avance ≈ 17 s (tueur 4,6) / 25 s
+(4,4)
+≈ 16,3 s / 21,7 s avec Bloodlust, sans fente ; ≈
+12-13 s / 17-18 s avec une fente de 2-2,5 m
+(valeur communautaire)
+Calcul sur valeurs vérifiées
+(M-lot R2)
+A-186
+04
+« Anti-Exhaustion / Anti-Haemorrhagic
+Syringe »
+Un seul add-on : Anti-Haemorrhagic Syringe
+Notes 9.3.0
+D-006
+09
+5 % au coup de pied depuis début 2025
+Depuis 7.5.0 (30/01/2024)
+wiki.gg Patch 7.5.X
+Surge
+(ch. 09)
+09
+« Surge (ex-Jolt) »
+Surge est le nom d'origine et le nom actuel ;
+« Jolt » n'a existé que de 5.3.0 à 7.3.3 ; les stats
+NightLight « Jolt » et « Surge » sont scindées
+wiki.gg Surge
+CONFLIC
+T-G11
+09
+Nowhere to Hide à 18 m « en live »
+24 m autour du gen endommagé en LIVE (18 m =
+PTB 10.1.0)
+Notes 10.1.0
+A-245
+03 / 05
+Vigil : Exhausted récupéré 30 % plus
+vite
+20 / 25 / 30 % depuis 10.1.1
+Notes 10.1.1
+A-237
+07
+Will to Live / Off the Record couvrent
+« la minute » suivante
+Will to Live 40 / 50 / 60 s ; Off the Record 30 / 35
+/ 40 s
+wiki.gg ; notes 9.2.2
+G (Hallo
+ween)
+00 / 11
+Licence Halloween retirée le
+16/01/2026
+19/01/2026 (annonce officielle) ; renommages et
+retrait de Lampkin Lane avec 9.4.0
+deadbydaylight.com
+« Halloween Is Leaving »
+G-001
+couver
+ture
+« Patch 10.1.2a, 26 septembre 2026 »
+10.1.2a = édition serveur du 17/09/2026 ; état
+vérifié au 27/09/2026
+BHVR KB 558
+
+=====PAGE 27=====
+À vérifier au lot 8 (non tranché) : « seule Badham I est en classé » — DBD n'a pas de mode classé distinct ; il faut établir
+quelles variantes de Badham sont réellement dans la rotation publique.
+2. Données non étayées ou mal présentées (à retirer ou
+reformuler)
+Réf.
+Le guide dit
+Problème
+Action
+A-119 /
+A-255
+SWF « en vocal » : +3 points (moyenne),
++8 (top 5 %)
+Aucune source primaire ; BHVR ne mesure pas
+le vocal
+Retirer ; citer BHVR 2022 (écart
+croissant avec le niveau, jusqu'à ~15
+pts) et T1 2025 (qualitatif)
+A-118
+Stats 2026 : 47 % d'évasion high MMR vs
+43 %
+Relais d'utilisateur, non vérifiable
+Retirer ou dater comme relevé
+communautaire
+C-003
+Données officielles « oct. 2025 – févr.
+2026 »
+Période réelle : sept. 2025 – févr. 2026 (publié
+le 27/03/2026)
+Corriger ; limiter les affirmations aux
+chiffres vérifiés
+C-158
+~70 kill / pick rates NightLight par tueur
+Pas d'effectif affiché ; < 100 parties pour les
+tueurs rares
+Retirer les chiffres par tueur ; garder
+les rangs officiels datés
+A-122
+« Builds de chase ≈ 28 % → une belle
+poursuite ne sert à rien »
+Corrélation transformée en causalité ; la
+même source montre des builds de chase à
+52-65 %
+Retirer la conclusion ; encadré « pick
+rate ≠ win rate »
+E-010 à
+E-024
+Kill rates par royaume / carte
+3 fenêtres mélangées ; erreurs de recopie
+(Garden of Joy, Eyrie, Pale Rose, Wretched
+Shop) ; moyennes de royaume impossibles
+Un seul tableau, une seule fenêtre
+datée, n par ligne
+A-126 /
+E-017
+Coldwind favorable aux survivants ;
+Autohaven « le moins mortel »
+Coldwind dans la moyenne ; Autohaven et
+Springwood à égalité dans le bruit
+Reformuler
+D-090
+1 survivant perdu sur 3 est dans un casier
+Non mesurable
+Retirer
+E-081 /
+E-082
+« 80 % / 76 % des votants BHVR »
+Aucun sondage BHVR trouvé
+Retirer
+pass0_B
+Build « ≈ 82 % d'évasion »
+Sous-échantillon minuscule
+Retirer
+A-113
+Reset général du MMR en 10.1.0
+Refonte vérifiée ; reset rapporté seulement
+par la presse / Discord
+Garder avec la nuance UNCERTAIN
+3. Suspicions de l'audit infirmées (le guide avait raison — ne pas
+« corriger »)
+70 s par phase de crochet (depuis 8.2.0) · casse de palette 2,34 s · stun de Will to Live 4 s · protections 10 s + Elusive (15 s
+avant) · mending 10 s seul / 6 s par un allié · Boon posable sur un Hex (28 s) · coffre 8 s · 24 charges pour tous les med-kits ·
+MMR fondé aussi sur les actions en partie · Vigo's Shroud / Shroud of Vanishing · Vigil 16 m · Bloodlust perdue en utilisant
+le pouvoir.
+4. Contenu PTB présenté comme LIVE (à étiqueter PTB 10.2.0 ou
+retirer)
+A-223, A-240, A-246, Trio C (05 / 06b) ; toute mention du Survivor Intent System comme disponible.
+5. Contenu 2v8 utilisé en 1v4
+Good Guy : buffs 9.4.2 propres au 2v8 cités comme counterplay 1v4 (C-lot).
+
+=====PAGE 28=====
+Référence vérifiée : mouvement, chase,
+combat
+1.1 Vitesses de déplacement (1v4)
+Élément
+Valeur LIVE
+Patch d'origine
+Source
+Confiance
+Survivant : course
+4,0 m/s (100 %)
+historique
+wiki.gg Movement Speeds
+VERIFIED_MULTI_SOURCE
+(wiki.gg + fandom)
+Survivant : marche
+2,26 m/s (56,5 %)
+historique
+wiki.gg
+VERIFIED_MULTI_SOURCE
+Survivant : accroupi
+1,13 m/s (28,25 %)
+1.7.0 (0,84 → 1,13)
+wiki.gg + fandom
+VERIFIED_MULTI_SOURCE
+Survivant : ramper
+0,7 m/s au début ; « eventual » 
+1,05 m/s
+0,7 : historique.
+Montée vers 1,05 : 
+patch non identifié
+wiki.gg (courbe liée au
+temps passé au sol)
+0,7 :
+VERIFIED_MULTI_SOURCE.
+1,05 :
+STRONG_SECONDARY, 
+patch INV
+Survivant blessé
+Aucune différence de vitesse avec
+l'état sain
+—
+wiki.gg
+STRONG_SECONDARY
+Boost au coup
+(« On-hit Sprint »)
+1,8 s, multiplicateur ×1,65 (6,6
+m/s) selon le wiki
+6.1.0 (2 s → 1,8 s)
+Patch 6.1.0 (wiki.gg) ;
+valeur ×1,65 : wiki.gg +
+fandom
+Durée : VERIFIED_PRIMARY
+(texte de patch).
+Multiplicateur :
+STRONG_SECONDARY
+Tueurs : classes de
+base
+4,6 m/s (115 %) ou 4,4 m/s 
+(110 %), « à quelques exceptions
+près »
+historique
+wiki.gg
+VERIFIED_MULTI_SOURCE
+Exceptions
+confirmées
+Nurse 3,85 m/s. Blight 4,4 m/s
+depuis la 9.6.0 (était 4,6)
+9.6.0 pour Blight
+Notes 9.6.0 (officiel) ;
+wiki.gg (multiplicateur de
+fente de la Nurse)
+VERIFIED_PRIMARY (Blight) ;
+STRONG_SECONDARY
+(Nurse)
+Classe 4,2 m/s
+Evil Within I de la Shape à 4,2 m/s
+selon fandom (la licence
+Halloween a quitté le jeu en 9.4.0
+d'après le guide : statut à vérifier
+par le lot tueurs)
+?
+fandom (non officiel depuis
+la migration)
+UNCERTAIN
+Liste complète par
+tueur
+INV (page wiki tronquée)
+—
+—
+UNCERTAIN
+Tueur portant un
+survivant
+3,68 m/s (92 % de 4,0) pour tous
+les tueurs
+historique
+fandom Movement Speeds
+(non extrait de wiki.gg)
+STRONG_SECONDARY
+Wiggle
+16 charges = 16 s si tous les skill
+checks de wiggle sont réussis.
+Lâcher le survivant : +25 % à la
+jauge (libre au plus tard au 4e
+lâcher)
+skill checks de wiggle :
+patch INV
+wiki.gg Carrying
+STRONG_SECONDARY
+1.2 Haste / Hindered : cumul et plafonds
+Élément
+Valeur LIVE
+Patch
+Source
+Confiance
+Cumul
+Les sources multiples de Haste et
+d'Hindered se cumulent. Le « plus haut
+seulement » testé au PTB 8.7.0 a été 
+annulé avant le live
+8.7.0 live (6 mai
+2025)
+Patch Notes 8.7.X
+(wiki.gg, qui cite
+« Changes from the
+PTB »)
+VERIFIED_PRIMARY
+(texte de patch cité)
+Diminishing Returns
+Depuis la 9.6.0, les modificateurs
+identiques issus de pouvoirs, objets, perks
+et offrandes sont réduits : 100 / 50 / 25 /
+12,5 / 5 % (5 % dès le 5e). Le plus fort (en
+valeur absolue) s'applique en entier
+9.6.0
+Notes 9.6.0 PTB et live
+(forums.bhvr.com)
+VERIFIED_PRIMARY
+
+=====PAGE 29=====
+Élément
+Valeur LIVE
+Patch
+Source
+Confiance
+Exclusions DR
+Add-ons de pouvoir de tueur et add-ons
+d'objet de survivant exclus
+9.6.0
+Notes 9.6.0
+VERIFIED_PRIMARY
+Portée DR
+Note de dev (PTB) : « All major gameplay
+modifiers and status effects for both roles
+are included ». « Negative action speed
+modifiers » et « Positive skill check chance
+modifiers » ne se réduisent qu'à l'intérieur
+d'un même rôle
+9.6.0
+Notes 9.6.0
+VERIFIED_PRIMARY.
+Liste détaillée des
+catégories non publiée
+Plafond de Haste
+Aucun plafond documenté en live
+—
+notes 8.7.0 à 10.1.2 ; wiki
+Haste
+UNCERTAIN (absence
+de preuve)
+Haste de base au
+décrochage
+10 % et Endurance pendant 10 s, plus
+Elusive 10 s (nouveau). Parenthèse
+officielle : « This does not apply once all
+generators are powered » (placée après la
+phrase sur Elusive)
+10.1.0 (15 s → 10
+s). La 9.3.0 avait
+porté la durée de
+10 à 15 s
+Notes 10.1.0 et 9.3.0
+(officiel)
+VERIFIED_PRIMARY
+DR et effets de base
+(boost au coup,
+décrochage)
+Wiki (non daté) : la Haste de Babysitter et
+de No One Left Behind « stack additively »
+avec la Haste de décrochage. Soumission
+des effets de base aux DR : INV
+?
+wiki.gg Movement
+Speeds
+UNCERTAIN
+1.3 Attaque de base
+Élément
+Valeur LIVE
+Patch
+Source
+Confiance
+Cooldown après un coup
+réussi
+2,7 s
+6.1.0 (3 s →
+2,7 s)
+Patch 6.1.0 (wiki.gg,
+Dexerto) ; wiki Attacks
+VERIFIED_MULTI_SOURCE
+Cooldown après un coup
+manqué
+1,5 s
+historique
+wiki.gg Attacks
+STRONG_SECONDARY
+Coup obstrué (décor)
+1,5 s
+historique
+wiki.gg Attacks
+STRONG_SECONDARY
+Vitesse pendant la fente
+Multiplicateur visant ~6,9 m/s : ×1,5
+(4,6), ×1,568 (4,4), ×1,79 (3,85)
+2.2.0 (fentes
+standardisées)
+wiki.gg Attacks
+STRONG_SECONDARY
+Durée et distance de la
+fente
+INV. Estimations communautaires :
+~0,87-1 s, ~2 m de gain, portée totale
+avec la hitbox ~6 m (désaccord entre
+joueurs)
+—
+forum BHVR, utilisateurs,
+2021
+COMMUNITY_OBSERVATIO
+N
+Attaque en portant un
+survivant
+Quick Attack uniquement (pas de
+fente)
+—
+wiki.gg Attacks
+STRONG_SECONDARY
+Validation des coups
+« Hit Validation » activée en live en 
+août 2020 : si la connexion du tueur
+est mauvaise, le serveur évalue le
+coup et le rejette si tueur et survivant
+étaient trop éloignés. Avec une bonne
+connexion, le coup reste décidé côté
+client du tueur
+2020
+Peanits (dev BHVR), forum
+officiel
+VERIFIED_PRIMARY
+Détail du modèle réseau
+Le client du tueur calcule le
+chevauchement hitbox/hurtbox. La
+validation générale n'agirait
+qu'au-delà de ~300 ms. Validation
+événementielle pour Dead Hard et les
+stuns de palette. Les deux latences
+cumulées favorisent le tueur. Réponse
+de dev rapportée : le tout-serveur a
+été testé puis écarté
+2022
+zarr (utilisateur), « Busting
+some hit registration
+myths »
+COMMUNITY_OBSERVATIO
+N / EXPERT (analyse
+technique non officielle).
+Seuil de 300 ms non
+confirmé officiellement
+Forme et taille des
+hitbox/hurtbox
+INV : aucune documentation officielle
+trouvée
+—
+—
+UNCERTAIN
+
+=====PAGE 30=====
+1.4 Vaults (fenêtres) et murs cassables
+Élément
+Valeur LIVE
+Patch
+Source
+Confiance
+Fast vault de
+fenêtre
+0,5 s. Garde l'élan (« continue running without
+losing speed ») et fait du bruit
+historique
+wiki.gg Windows ; guide Steam
+2025
+STRONG_SECONDARY
+Medium vault
+0,9 s. Survivant qui court mais arrive en angle ou
+sans assez d'élan. Remet l'élan à zéro
+historique
+wiki.gg ; guide Steam ; forum
+2019
+STRONG_SECONDARY
+Slow vault
+1,5 s. Pas de notification de bruit fort
+historique
+wiki.gg Windows
+STRONG_SECONDARY
+Condition du
+fast vault
+Courir droit vers la fenêtre sur au moins 2,5 m 
+(« perpendiculairement » selon la communauté). 
+Aucune donnée officielle sur l'angle toléré ni sur
+une durée de sprint minimale
+—
+wiki.gg Windows ; forum BHVR
+2019 (utilisateurs)
+STRONG_SECONDARY
+(2,5 m) ; angle : INV
+Vault de fenêtre
+du tueur
+1,7 s par défaut ; Bamboozle : +5/10/15 %
+historique
+wiki.gg Windows, Bamboozle
+STRONG_SECONDARY
+Blocage par
+l'Entité
+Après le 3e vault de la même fenêtre dans la
+même poursuite, la fenêtre est bloquée pour ce
+survivant seulement pendant 30 s. Le 3e vault
+est donc permis
+patch INV
+wiki.gg Windows ; guide Steam
+(dérivé)
+STRONG_SECONDARY
+Bamboozle
+Bloque la fenêtre pour tous les survivants
+pendant 8/12/16 s ; sans effet sur les palettes
+9.5.1 (icône
+du timer)
+wiki.gg Bamboozle
+STRONG_SECONDARY
+Murs cassables
+2,34 s (comme une palette) ; réservés au tueur ;
+la plupart des effets de casse de palette s'y
+appliquent
+6.1.0 (2,6 s
+→ 2,34 s)
+Patch 6.1.0 (texte cité) ;
+wiki.gg Breakable Walls
+VERIFIED_MULTI_SOU
+RCE
+1.5 Palettes et stuns
+Élément
+Valeur LIVE
+Patch
+Source
+Confiance
+Stun de palette
+2 s (le tueur est repoussé)
+historique
+wiki.gg Pallets et Stun
+STRONG_SECONDARY
+Fenêtre de stun
+Le stun ne s'applique qu'une fois la
+palette abaissée à ~50 %. Un tueur au
+bord de la zone peut en sortir pour
+l'éviter
+—
+wiki.gg Pallets
+STRONG_SECONDARY
+Durée d'abaissement de
+la palette
+INV
+—
+—
+UNCERTAIN
+Casse de palette (coup
+de pied)
+2,34 s
+6.1.0 (19 juil. 2022) :
+« Time to kick a pallet
+or wall has been
+reduced to 2.34
+seconds (was 2.6
+seconds) »
+Patch 6.1.0 (wiki.gg) +
+Dexerto
+VERIFIED_MULTI_SOURC
+E
+Casse à la tronçonneuse
+(Hillbilly, Cannibal)
+1 s
+—
+wiki.gg Pallets
+STRONG_SECONDARY
+Destruction instantanée
+par pouvoir
+Demogorgon (Shred), Oni (Blood
+Fury), Blight (Lethal Rush),
+Mastermind (Virulent Bound), Knight
+(gardes), Good Guy, Lich (Mage Hand
++ Vorpal Sword), Dark Lord (forme de
+loup), Ghoul (3e Kagune Leap avec
+add-on), Legion (Frenzy + add-on)
+divers
+wiki.gg Pallets
+STRONG_SECONDARY.
+Liste à reconfirmer par le
+lot tueurs
+Vault de palette
+(survivant)
+Rapide 1,1 s (bruyant), lent 2 s
+(silencieux). Pas de vault moyen
+décrit
+—
+wiki.gg Pallets
+STRONG_SECONDARY (un
+guide Steam applique à
+tort les durées des
+fenêtres)
+Enduring
+Stuns de palette −40/45/50 % ; sans
+effet en portant un survivant
+5.6.1
+wiki.gg Enduring
+STRONG_SECONDARY
+
+=====PAGE 31=====
+Élément
+Valeur LIVE
+Patch
+Source
+Confiance
+Will to Live (ex-Decisive
+Strike)
+Stun de 4 s. Actif 40/50/60 s après un
+décrochage. Désactivé une fois les
+portes alimentées et après usage
+8.0.0 (stun 4 s).
+Renommé en 9.4.0
+pour les joueurs qui
+ne possèdent pas le
+chapitre HALLOWEEN
+wiki.gg Will to Live ;
+Patch 6.1.0 (historique
+5 → 3 s)
+STRONG_SECONDARY
+(chaîne 6.1.0 → 7.7.0 →
+8.0.0 cohérente)
+Head On
+Stun de 3 s, portée 2,5 m, après 3 s 
+dans un casier ; Exhausted 60/50/40
+s
+9.0.0 (retrait de la
+condition AFK crows)
+wiki.gg Head On
+STRONG_SECONDARY
+Fin du wiggle
+Stun du tueur, survivant relâché
+blessé. Durée : INV
+—
+wiki.gg Carrying
+UNCERTAIN
+Densité des palettes
+9.2.0 (26 sept. 2025) : quantité et
+répartition revues sur 10 cartes pour
+réduire les zones mortes ; toutes les
+cartes piochent dans le même pool
+de maze tiles. 9.3.0 (24 nov. 2025) :
+sécurité des palettes réduite sur 6
+cartes et bâtiment principal de
+Crotus Prenn revu
+9.2.0, 9.3.0
+Notes officielles 9.2.0
+et 9.3.0
+VERIFIED_PRIMARY.
+Nombre de palettes par
+carte : INV
+Espacement des
+palettes
+Au moins 14, 16, 18 ou 20 m entre
+deux palettes (emplacements
+prédéfinis)
+—
+wiki.gg Pallets
+STRONG_SECONDARY
+1.6 Bloodlust
+Élément
+Valeur LIVE
+Patch
+Source
+Confiance
+Existence
+Toujours présente en live (la Head Form de la
+Krasue en est exclue depuis la 9.2.0)
+9.2.0
+Notes 9.2.0 ; wiki.gg
+VERIFIED_PRIMA
+RY
+Paliers
+15 s → +0,2 m/s, 25 s → +0,4 m/s, 35 s → +0,6
+m/s
+Seuils : 6.1.0 (texte cité).
+Valeurs : 2.2.0
+Patch 6.1.0 ; wiki.gg
+Bloodlust
+VERIFIED_MULTI_
+SOURCE
+Condition
+Une poursuite active (voir 1.7)
+—
+wiki.gg
+STRONG_SECOND
+ARY
+Perte immédiate
+Casser une palette, toucher un survivant,
+utiliser son pouvoir (règle générale du wiki,
+avec la liste des pouvoirs concernés)
+—
+wiki.gg Bloodlust
+STRONG_SECOND
+ARY
+Fin de poursuite
+La Bloodlust régresse (« rate of 6 », unité non
+précisée)
+—
+wiki.gg
+UNCERTAIN
+(unité)
+Perte par stun ou
+aveuglement
+Non documentée par le wiki
+—
+—
+UNCERTAIN
+1.7 Poursuite, signaux et traces
+Élément
+Valeur LIVE
+Patch
+Source
+Confiance
+Début de
+poursuite
+Les 3 conditions : survivant dans le champ de
+vision du tueur à ≤ 12 m, survivant qui court,
+tueur qui marche
+—
+wiki.gg Chase /
+Bloodlust
+STRONG_SECONDARY
+Fin de
+poursuite
+Distance > 18 m ; 5 s dans un casier ; perte de
+ligne de vue > 8 s ; survivant au-delà de ± 35° du
+centre du champ de vision (FOV tueur par défaut
+87°)
+—
+wiki.gg Chase
+STRONG_SECONDARY.
+Temporisation de la
+condition d'angle : INV
+Terror Radius
+« À l'origine » 32 m (tueurs 4,6) et 24 m (tueurs
+4,4). Beaucoup de tueurs récents font exception
+historique
+wiki.gg Terror Radius
+STRONG_SECONDARY
+Musique de
+poursuite
+La couche 4 (chase) remplace la 3e couche de
+proximité. Le tueur n'entend pas son propre TR : il
+entend la musique de la carte jusqu'à la poursuite
+—
+wiki.gg
+STRONG_SECONDARY
+
+=====PAGE 32=====
+Élément
+Valeur LIVE
+Patch
+Source
+Confiance
+Undetectable
+/ Lullabies
+Undetectable supprime le TR et la tache rouge (un
+« stinger » sonore marque sa fin). Les lullabies ne
+sont pas affectées par Undetectable
+—
+wiki.gg Terror Radius,
+Red Stain
+STRONG_SECONDARY
+Tache rouge
+Émise par la tête du tueur, dans la direction où il
+regarde et se déplace. Le tueur ne la voit pas.
+Masquée par Undetectable. Marcher à reculons
+ou de côté autour des murs pour tromper le
+survivant est une technique décrite par le wiki
+—
+wiki.gg Red Stain
+STRONG_SECONDARY.
+Manipulation en
+regardant vers le bas :
+INV
+Traces de
+griffures
+Apparaissent quand le survivant court (ou atteint
+≥ 60 % de sa vitesse par défaut en maintenant le
+sprint). Durée de vie 10 s (1 s d'apparition, 8 s
+pleine visibilité, 1 s de fondu ; fondu visible ~4 s
+plus tôt sur sol clair). Vues par le tueur ; par le
+survivant seulement avec Fixated
+8.2.0, 8.6.0
+(visibilité) ; 9.3.0
+(couleurs
+personnalisables)
+wiki.gg Scratch Marks
+STRONG_SECONDARY
+Flaques de
+sang
+Apparaissent sous les survivants blessés ou au sol.
+Fréquence et durée de vie : INV (Bloodhound :
++2/3/4 s ; Sloppy Butcher : +50/75/100 % de
+fréquence)
+—
+wiki.gg Pools of Blood
+Fréquence : UNCERTAIN
+Grognements
+de douleur
+Émis à l'état blessé. Portée : INV. Estimation
+communautaire : ~12-16 m, variable selon le
+personnage (non confirmée). Iron Will : 
+−80/90/100 % depuis la 8.1.0, stacking additif
+depuis la 8.1.2, inactive si Exhausted
+8.1.0 / 8.1.2 (Iron
+Will)
+wiki.gg Iron Will ; forum
+2021 (utilisateurs)
+Iron Will :
+STRONG_SECONDARY.
+Portée : COMMUNITY_OB
+SERVATION
+Corbeaux
+d'ambiance
+S'envolent dans un rayon de 4 m (test toutes les
+0,5 s), avec 0,6 m d'écrasement garanti.
+Reviennent après 15 s. Pas de déclenchement en
+étant accroupi, avec Calm Spirit, ni pour certains
+tueurs furtifs
+—
+wiki.gg Crows
+STRONG_SECONDARY
+Corbeaux AFK
+Seuils 80 / 100 / 120 s d'inactivité ; le 3e corbeau
+déclenche des notifications de bruit continues
+9.3.0 (était
+120/140/190 s) ;
+rework en 9.0.0
+Notes 9.3.0 (officiel) ;
+wiki.gg
+VERIFIED_PRIMARY
+Exhausted
+Récupère uniquement en marchant, accroupi ou
+immobile. La course met le timer en pause
+historique
+wiki.gg Exhausted
+STRONG_SECONDARY
+Vigil
+Exhausted récupéré 20/25/30 % plus vite (baisse
+depuis 30/35/40 %), alliés dans 16 m
+10.1.1
+Notes 10.1.1 (officiel) ;
+wiki.gg Exhausted (16
+m)
+VERIFIED_PRIMARY (%) ;
+STRONG_SECONDARY (16
+m)
+Endurance
+Un coup qui mettrait au sol applique Deep Wound
+à la place. Perdue sur une action ostensible
+(conspicuous action). Sans effet si le survivant a
+déjà Deep Wound
+—
+wiki.gg Endurance
+STRONG_SECONDARY
+1.8 Diminishing Returns et ressources de poursuite
+Élément
+Constat
+Source
+Confiance
+Palettes et fenêtres (nombre,
+blocage, stuns)
+Les notes 9.6.0 ne mentionnent aucun DR sur les
+palettes, les fenêtres ni les blocages. Le DR vise les
+modificateurs (vitesses, durées, %)
+Notes
+9.6.0
+VERIFIED_PRIMARY (par absence
+dans un texte exhaustif sur le sujet)
+Haste / Hindered en poursuite
+Concernés : la note de dev couvre « all major
+gameplay modifiers and status effects ». Exemple :
+deux Haste de perks identiques → la 2e à 50 %
+Notes
+9.6.0 PTB
+VERIFIED_PRIMARY (principe) ;
+catégories exactes : INV
+Endurance (effet binaire)
+Application du DR : INV
+—
+UNCERTAIN
+Vitesse de vault (Bamboozle + autre
+perk)
+Probablement concernée (modificateur de vitesse
+d'action de perk), mais non détaillé
+—
+UNCERTAIN
+
+=====PAGE 33=====
+Référence vérifiée : objectifs, crochets,
+soins, statuts
+1.1 Générateurs
+Mécanique
+Valeur LIVE
+Patch d'origine
+Source
+Confiance
+Charges d'un gen
+90 charges, +1 c/s → 90 s en solo
+6.1.0 (80 → 90 s ;
+presse sur le PTB
+6.1.0, juin 2022)
+wiki.gg Generators ; EIP
+Gaming 6.1.0
+VERIFIED_MULTI_SOUR
+CE (valeur) /
+STRONG_SECONDARY
+(patch)
+Gens présents /
+requis
+7 / 5 (4 surv.) ; 6/4 (3) ; 5/3 (2) ; 4/2 (1) ;
+2v8 : 13/8
+—
+wiki.gg Generators
+STRONG_SECONDARY
+Pénalité coop
+−15 % par réparateur en plus : 85 % /
+70 % / 55 % par personne → 1,7 / 2,1 /
+2,2 c/s → ~52,9 s / ~42,9 s / ~40,9 s
+—
+wiki.gg Generators
+STRONG_SECONDARY
+Déclenchement
+des skill checks
+Test 1 fois par seconde ; 8 % de chance
+en réparation standard. Le wiki
+mentionne 40 % avec toolbox, non
+recoupé.
+—
+wiki.gg Skill Checks
+STRONG_SECONDARY
+(8 %) / UNCERTAIN
+(40 %)
+Zones de skill check
+(réparation)
+Great 3 % du cadran, Good 13 %
+—
+wiki.gg Skill Checks
+STRONG_SECONDARY
+Bonus Great
++1 % (gen) ; +3 % (soin)
+—
+wiki.gg Generators / Skill
+Checks
+STRONG_SECONDARY
+Skill check raté
+−10 % de progression, plus 3 s sans
+progression possible
+—
+wiki.gg Generators / Skill
+Checks
+STRONG_SECONDARY
+Coup de pied du
+tueur
+Action de 1,8 s ; −5 % instantané, puis
+régression −0,25 c/s (90 → 0 en 360 s)
+−5 % : 7.5.0 (30 janv.
+2024 ; était 2,5 %,
+2,5 % introduit en
+6.1.0)
+wiki.gg Patch Notes 7.5.X ;
+ComicBook ; wiki.gg
+Generators
+VERIFIED_MULTI_SOUR
+CE
+Arrêter la
+régression
+Il faut réparer 5 % du gen (fin du « gen
+tapping »)
+7.5.0
+wiki.gg Patch Notes 7.5.X ;
+ComicBook
+VERIFIED_MULTI_SOUR
+CE
+Plafond de
+régression
+8 regression events par gen. Un event =
+perte instantanée ≥ 2,5 % causée par le
+tueur (coup de pied, perks). Pointes
+visibles dès le 4e event. Au 8e, le tueur
+ne peut plus interagir avec le gen. Les
+skill checks ratés ne comptent pas et
+régressent toujours.
+7.5.0
+wiki.gg Patch Notes 7.5.X ;
+wiki.gg Generators
+VERIFIED_MULTI_SOUR
+CE
+Gen bloqué
+Progression figée ; aucune perte
+instantanée tant que dure le blocage
+—
+wiki.gg Generators
+STRONG_SECONDARY
+Diminishing
+Returns (DR)
+Plusieurs modificateurs identiques 
+(pouvoirs, objets, perks, offrandes) : le
+plus fort (en valeur absolue) s'applique à
+100 %, les suivants à 50 / 25 / 12,5 / 5 %
+9.6.0 (28 avr. 2026)
+Notes officielles 9.6.0 ;
+wiki.gg DR et Patch Notes
+9.6.X
+VERIFIED_PRIMARY
+DR : exclusions
+Add-ons exclus (objets et pouvoirs)
+9.6.0
+Notes officielles 9.6.0
+VERIFIED_PRIMARY
+DR : règle de rôle
+Les modificateurs négatifs de vitesse
+d'action et les modificateurs positifs de
+chance de skill check ne se réduisent
+qu'entre sources d'un même rôle (ex.
+Calm Spirit −30 % contre Thrill of the
+Hunt −60 %)
+9.6.0 (changement
+depuis le PTB)
+Notes officielles 9.6.0 (Dev
+Note)
+VERIFIED_PRIMARY
+
+=====PAGE 34=====
+Mécanique
+Valeur LIVE
+Patch d'origine
+Source
+Confiance
+DR : liste des
+catégories
+Les notes disent seulement « repeated
+positive or negative gameplay modifiers
+and status effects », sans liste. Elles ne
+disent rien des blocages ni des pertes
+instantanées (Pop, Pain Res, Eruption).
+9.6.0
+Notes officielles 9.6.0 ;
+wiki.gg DR
+UNCERTAIN
+(catégories)
+1.2 Crochets, anti-camp, protections, sous-sol
+Mécanique
+Valeur LIVE
+Patch
+Source
+Confiance
+Durée d'une phase de
+crochet
+70 s par phase : Summoning 100 → 51 %,
+Struggle 50 → 1 %
+8.2.0 (27 août
+2024 ; était 60
+s)
+Notes officielles 8.2.0
+Castlevania ; wiki.gg Hooks
+VERIFIED_PRIMARY
+Mort
+3e accrochage = sacrifice immédiat ; fin de la
+phase Struggle = sacrifice
+—
+wiki.gg Hooks
+STRONG_SECONDARY
+Accrocher /
+décrocher
+Accrochage 1,5 s ; décrochage 1 s
+—
+wiki.gg Hooks
+STRONG_SECONDARY
+Auto-décrochage
+4 % par tentative, 3 tentatives max, chaque
+échec coûte −20 s (wiki). Depuis 9.0.0,
+disponible uniquement si : 2 survivants
+restants, chance augmentée par une
+offrande, perk Slippery Meat ou Up the Ante.
+Le wiki ajoute Deliverance et Wicked, ainsi
+que la jauge anti-camp pleine.
+9.0.0 (17 juin
+2025)
+Notes officielles 9.0.0 ;
+wiki.gg Hooks
+VERIFIED_PRIMARY
+Lutte (Struggle)
+Avec plus de 2 survivants : skill checks de
+lutte sans chance d'évasion ni pénalité
+(9.0.0). Laisser passer 2 checks ne tue plus
+(9.0.0). À 2 survivants restants, laisser passer
+2 skill checks de lutte = sacrifice immédiat
+(9.1.0). Le wiki compte 11 checks par phase.
+9.0.0 / 9.1.0
+Notes officielles 9.0.0 ;
+wiki.gg Hooks
+VERIFIED_PRIMARY
+(9.0.0) /
+STRONG_SECONDARY
+(9.1.0)
+Deliverance
+1 fois par partie, après un décrochage sûr
+d'un allié : auto-décrochage, Broken 
+160/140/120 s
+10.1.0 (Broken
+allongé)
+Notes officielles 10.1.0
+VERIFIED_PRIMARY
+Crochets détruits ou
+sabotés
+Réapparition 60 s après un sacrifice (8.1.0) ;
+sabotage 3 s ; réparation auto 30 s
+8.1.0 / 3.6.0
+wiki.gg Hooks
+STRONG_SECONDARY
+Sous-sol
+4 crochets indestructibles (non sabotables), 1
+coffre, 6 casiers depuis 6.4.0
+—
+wiki.gg Basement
+STRONG_SECONDARY
+Anti-camp : zone
+Rayon de 16 m autour du crochet ; jauge de 
+100 charges ; +1 c/s de base (valeur wiki, voir
+CONFLICT-003)
+7.3.0
+wiki.gg Resolve ; notes
+9.3.0 (« 16 m » inchangé)
+VERIFIED_MULTI_SOU
+RCE (16 m)
+Anti-camp : distance
+4 m ×2,5 ; 10 m ×1 ; 15 m ×0,375 ; 16 m ×0
+7.3.0
+wiki.gg Resolve
+STRONG_SECONDARY
+Anti-camp : durée de
+présence
+0-10 s ×1 ; 10-20 s ×2 ; > 20 s ×4. Taux de base
+réduit d'environ 50 % en contrepartie. Le
+multiplicateur se remet à zéro au décrochage.
+9.3.0 (25 nov.
+2025)
+Notes officielles 9.3.0 ;
+wiki.gg Resolve
+VERIFIED_PRIMARY
+Anti-camp : grâce
+7 s de pause de la jauge pour tous les
+survivants accrochés à chaque nouvel
+accrochage (avant : seulement le dernier
+accroché)
+9.3.0
+Notes officielles 9.3.0
+VERIFIED_PRIMARY
+Anti-camp :
+conditions
+Remplissage ralenti par les autres survivants à
+moins de 16 m ; en pause si le tueur porte un
+survivant ; désactivé dès que les portes sont
+alimentées ; jauge visible des autres
+survivants accrochés (9.3.0)
+7.3.0 / 9.3.0
+wiki.gg Resolve / Camping
+STRONG_SECONDARY
+Anti-camp : jauge
+pleine
+Tentative d'auto-décrochage garantie
+7.3.0
+wiki.gg Resolve
+STRONG_SECONDARY
+
+=====PAGE 35=====
+Mécanique
+Valeur LIVE
+Patch
+Source
+Confiance
+Protections de
+décrochage
+Endurance + 10 % de Haste pendant 10 s (15
+s de 9.3.0 à 10.1.0) + Elusive 10 s (nouveau).
+Elusive ne s'applique plus une fois tous les
+gens réparés. Endurance et Haste restent
+actives après l'alimentation des portes.
+10.1.0 (25 août
+2026)
+Notes officielles 10.1.0 ;
+wiki.gg Hooks
+VERIFIED_PRIMARY
+Historique des
+protections
+6.1.0 : 5 s, Haste 7 %. 6.2.0 : 10 s, 10 %. 9.3.0 :
+15 s. 10.1.0 : 10 s + Elusive.
+—
+wiki.gg Hooks ; notes 9.3.0
+et 10.1.0 ; EIP 6.1.0
+VERIFIED_MULTI_SOU
+RCE
+Perte des protections
+Endurance annulée par toute action voyante 
+(conspicuous action : réparer, soigner, etc.).
+La presse sur le PTB 6.1.0 applique la même
+règle à la Haste. Elusive prend fin si le
+survivant est frappé (attaque de base ou
+spéciale) ou passe à l'état mourant ; rien n'est
+documenté sur une annulation par action
+voyante.
+6.1.0 / 10.1.0
+wiki.gg Status Effects /
+Elusive ; EIP 6.1.0
+STRONG_SECONDARY
+(Endurance) /
+UNCERTAIN (Elusive et
+action voyante)
+Système anti-tunnel
+ou anti-slug complet
+Jamais sorti en LIVE. Testé aux PTB 9.2.0
+(reporté) et 9.3.0 (« Reverted »). Contenu
+testé : protection de 30 s, jauge de relevé de
+120 s, bonus de crochets uniques.
+9.2.0 / 9.3.0
+Notes officielles 9.3.0 ;
+wiki.gg 9.2.X / Resolve
+VERIFIED_PRIMARY
+Exile (The Judgment)
+Compte comme un état de crochet sans
+déclencher les perks de crochet. Tue si le
+survivant a déjà 2 états. Seeds of
+Punishment : −3 s de timer. Exiled Souls : +0,5
+s de protections de décrochage chacune (10
+max).
+10.1.0
+Notes officielles 10.1.0 ;
+wiki.gg The Judgment
+VERIFIED_PRIMARY
+1.3 État mourant et slug
+Mécanique
+Valeur LIVE
+Patch
+Source
+Confiance
+Bleed-out
+240 s cumulées
+—
+wiki.gg Dying State
+STRONG_SECONDARY
+Récupération au sol
+Automatique (plus besoin de maintenir la
+touche). Le wiki précise « à l'arrêt ».
+Plafond 95 %, à 50 % de la vitesse de soin,
+soit 30,4 s. Relevage complet seulement
+via une perk (touche Interact).
+9.2.0 (23
+sept.
+2025)
+Notes 9.2.0 (via wiki.gg) ;
+wiki.gg Dying State
+VERIFIED_MULTI_SOURC
+E
+Relevage de base
+(auto-relève)
+Inexistant en LIVE : les PTB 9.2.0 (90 s) et
+9.3.0 (jauge de 120 s) ont été annulés
+—
+Notes 9.3.0 ; wiki.gg Resolve
+VERIFIED_PRIMARY
+Vitesse de rampement
+0,7 m/s (voir CONFLICT-002 : le wiki
+affiche 0,7 → 1,05 m/s)
+—
+wiki.gg Movement Speeds ;
+notes PTB 9.3.0
+UNCERTAIN (la valeur
+1,05 m/s vient d'un PTB
+annulé)
+Abandon / Surrender
+Surrender quand tous les survivants sont
+au sol (8.6.0). Abandon disponible au 3e
+passage au sol après avoir été relevé ou
+soigné 2 fois (9.2.0). Refonte au PTB 10.2.0
+(non LIVE).
+8.6.0 /
+9.2.0
+Notes 8.6.0 (support) ;
+wiki.gg 9.2.X ; notes PTB
+10.2.0
+VERIFIED_PRIMARY
+Mori de fin
+Possible à 2 survivants vivants : l'un
+accroché en phase Struggle, l'autre au sol
+9.0.0
+Notes officielles 9.0.0
+VERIFIED_PRIMARY
+Wiggle
+16 s cumulées pour se libérer
+—
+wiki.gg Hooks
+STRONG_SECONDARY
+Vitesse de portage (3,68
+m/s), durée du ramassage,
+règles des sauvetages à la
+lampe, à la palette ou au
+casier
+information non suffisamment vérifiée
+dans ce lot
+—
+—
+UNCERTAIN
+
+=====PAGE 36=====
+1.4 Soins
+Mécanique
+Valeur LIVE
+Patch
+Source
+Confiance
+Soin d'un état de
+santé
+16 charges, +1 c/s → 16 s
+—
+wiki.gg Dying State / Health States
+STRONG_SECO
+NDARY
+Soin à plusieurs
+Le wiki dit 2 soigneurs max sur un même survivant (+2 c/s,
+sans pénalité). Le guide dit 3 (voir CONFLICT-001).
+—
+wiki.gg Health States
+UNCERTAIN
+Auto-soin
+Exige un Med-Kit ou une perk (Self-Care). Avec Med-Kit :
+vitesse −33 % et efficacité de l'objet −33 %.
+—
+wiki.gg Healing / Health States
+STRONG_SECO
+NDARY
+Med-Kits
+24 charges pour tous. Bonus de soin altruiste : Camping
++35 %, First Aid +40 %, Emergency +45 %, Ranger +50 %.
+—
+wiki.gg Healing
+STRONG_SECO
+NDARY
+Mangled
+Soin 25 % plus long (vitesse −20 %), seulement de blessé à
+sain
+—
+wiki.gg Status Effects
+STRONG_SECO
+NDARY
+Haemorrhage
+Plus de flaques de sang ; progression de soin partielle
+perdue à −7 %/s
+—
+wiki.gg Status Effects
+STRONG_SECO
+NDARY
+Deep Wound
+Timer 20 s (unifié en 4.5.0), en pause en courant ou
+pendant le mending. Mending : 10 s seul, 6 s par un allié
+(8.6.0 ; avant 12 s et 8 s). Un dégât sous Deep Wound =
+état mourant, l'Endurance ne protège pas.
+8.6.0
+Notes officielles 8.6.0 (support) ;
+wiki.gg Deep Wound
+VERIFIED_PRIM
+ARY
+Add-ons (9.3.0)
+Styptic Agent : ne donne plus d'Endurance, n'est plus
+consommé, +15 % d'efficacité en auto-soin.
+Anti-Haemorrhagic Syringe : retire l'Exhaustion,
+consomme le kit (action secondaire).
+9.3.0
+Notes officielles 9.3.0
+VERIFIED_PRIM
+ARY
+1.5 Glossaire des statuts (définitions LIVE, wiki.gg Status Effects,
+sauf mention)
+Statut
+Définition courte
+Précisions / source
+Blessed
+Survivant dans la zone d'un Boon (24 m)
+wiki.gg
+Blindness
+Ne lit aucune aura, y compris les auras de base (les deux rôles)
+wiki.gg
+Broken
+Impossible d'être soigné au-delà de blessé
+wiki.gg
+Cursed
+Affecté par un Hex actif
+wiki.gg
+Deep Wound
+Barre qui se vide hors course et hors mending ; à zéro, état mourant
+voir 1.4
+Elusive
+Supprime les griffures, les grognements et les flaques de sang ;
+bloque la révélation de l'aura au tueur. Introduit en 9.4.0
+(Extrasensory Perception). Prend fin si le survivant est frappé ou
+passe à l'état mourant.
+wiki.gg Elusive ; notes 10.1.0
+Endurance (survivant)
+Encaisse un coup : le coup qui mettrait au sol donne Deep Wound.
+Annulée par une action voyante. Ne protège pas si le survivant est
+déjà sous Deep Wound. Protège aussi contre le double dégât
+d'Exposed (Deep Wound à la place).
+wiki.gg
+Endurance (tueur)
+Réduit fortement la durée des étourdissements
+wiki.gg
+Exhausted
+Empêche d'utiliser les perks d'épuisement. Se recharge seulement
+hors course. Le wiki indique une récupération instantanée au
+décrochage.
+wiki.gg
+Exposed
+Une attaque de base met directement à l'état mourant
+wiki.gg
+Haemorrhage
+Voir 1.4
+wiki.gg
+Haste / Hindered
+± vitesse de déplacement. Soumis aux DR depuis 9.6.0 (« status
+effects »).
+wiki.gg ; notes 9.6.0
+Incapacitated
+Ne peut pas interagir avec certains éléments ni avec les survivants
+wiki.gg
+Madness
+Hallucinations et entraves ; exclusif au Doctor
+wiki.gg
+Mangled
+Voir 1.4
+wiki.gg
+Oblivious
+N'entend ni le rayon de terreur ni le battement de cœur
+wiki.gg
+
+=====PAGE 37=====
+Statut
+Définition courte
+Précisions / source
+Undetectable (tueur)
+Supprime le rayon de terreur et la tache rouge ; aura cachée
+wiki.gg
+Bloodlust (tueur)
+Vitesse croissante en poursuite prolongée
+wiki.gg
+Revealed (2v8) / Glyph /
+Deafened
+Aura visible des deux tueurs en 2v8 / malus lié aux glyphes / audio
+étouffé
+wiki.gg
+Heresy (The Judgment)
+Mécanique de pouvoir, pas un statut général du glossaire wiki.
+S'obtient touché par la Divine Light, ou en provoquant : 3
+accroupissements ou gestes à moins de 10 m, ou 45 s dans le seuil
+d'une porte de sortie. Effets : un skill check Good sur un gen fait
+−3 % ; porte bloquée 8 s pour l'hérétique si Heresy est acquise à
+moins de 32 m d'une porte. Se purge en « Repent » à un Shrine
+(décroissance 30 s).
+Notes 10.1.0 (principe) ; wiki.gg The
+Judgment (valeurs)
+Exile (The Judgment)
+Voir 1.2
+Notes 10.1.0
+1.6 Coffres, totems, casiers, trappe, portes, EGC, BP, offrandes de
+carte, MMR
+Mécanique
+Valeur LIVE
+Patch
+Source
+Confiance
+Coffres
+3 par défaut (2 aléatoires + 1 au sous-sol).
+Ouverture ou fouille 8 s. Probabilités sans perk :
+Commun 43 %, Uncommon 33 %, Rare 16 %,
+Very Rare 5 %, Ultra 2 %. Pièces : Shiny +2,
+Tarnished +1, Scratched −1, Cut −2 (jusqu'à 13
+avec Hoarder).
+—
+wiki.gg Chests
+STRONG_SECONDARY
+Totems
+5 par partie ; purification 14 s
+—
+wiki.gg Totems
+STRONG_SECONDARY
+Boons
+Bénir un totem terne 14 s, un Hex 28 s (−50 % de
+vitesse) : l'Hex devient un Boon, avec les mêmes
+effets qu'une purification. Rayon 24 m. Le tueur
+éteint un Boon en 1 s. Un seul totem béni par
+survivant, toutes ses Boons dessus. Les totems
+ravivés par Pentimento ne peuvent pas être
+bénis.
+—
+wiki.gg Totems
+STRONG_SECONDARY
+Trappe
+S'ouvre automatiquement quand il ne reste
+qu'un survivant ; visible de lui seul (5.3.0). Clé : 
+2,5 s. Fermée par le tueur → EGC. Se referme
+après chaque évasion (8.1.0).
+5.3.0 / 8.1.0
+wiki.gg Hatch
+STRONG_SECONDARY
+Portes de sortie
+Alimentées après (nombre de survivants au
+départ + 1) gens. Ouverture survivant 20 s,
+progression conservée. Le wiki mentionne une
+ouverture par le tueur en 0,75 s : valeur non
+recoupée.
+—
+wiki.gg Exit Gates
+STRONG_SECONDARY
+(20 s) / UNCERTAIN
+(0,75 s)
+EGC
+120 s, déclenché par l'ouverture d'une porte ou
+la fermeture de la trappe. Moitié de vitesse si un
+survivant est au sol, accroché ou en cage (max 4
+min), jamais arrêté. Gens restants bloqués.
+Aucune condition d'accélération documentée.
+—
+wiki.gg Endgame
+Collapse
+STRONG_SECONDARY
+Blocages de
+l'Entité sur les
+portes
+Blood Warden 40/50/60 s ; No Way Out 12 s +
+6/9/12 s par jeton
+—
+wiki.gg Exit Gates
+STRONG_SECONDARY
+Blocage de
+fenêtre
+Après le 3e vault de la même fenêtre dans une
+poursuite, fenêtre bloquée 30 s pour ce
+survivant seulement
+—
+wiki.gg Windows
+STRONG_SECONDARY
+Vaults et palettes
+(pour mémoire)
+Fenêtres : 0,5 / 0,9 / 1,5 s (fast / medium / slow),
+tueur 1,7 s, fast vault après ≥ 2,5 m de course.
+Palettes : fast / slow vault 1,1 / 2 s, stun 2 s,
+casse 2,34 s, tronçonneuse 1 s.
+—
+wiki.gg Windows /
+Pallets
+STRONG_SECONDARY
+
+=====PAGE 38=====
+Mécanique
+Valeur LIVE
+Patch
+Source
+Confiance
+Plafond de BP
+10 000 par catégorie (40 000 par partie).
+Offrandes de BP appliquées après le plafond.
+Portefeuille plafonné à 5 000 000. Codes promo,
+récompenses de connexion et codes e-mail
+exemptés et peuvent dépasser le plafond.
+5 M : testé à la
+Blood Moon
+d'avril 2025 puis
+conservé
+(communication
+BHVR non lisible)
+wiki.gg Bloodpoints ;
+X/Facebook DBD (titres)
+STRONG_SECONDARY
+BP du tueur
+Début de poursuite 500, accrochage 750, 1er
+accrochage +750, 2e +250, sacrifice 500
+9.3.0
+Notes officielles 9.3.0
+VERIFIED_PRIMARY
+Offrandes de
+carte
+Chance fixe de 20 % ; les offrandes de carte en
+double ne se cumulent plus
+9.0.0
+Notes officielles 9.0.0
+VERIFIED_PRIMARY
+Apparition
+Survivants à ≤ 12 m les uns des autres et au
+même étage « when possible ». Shroud of
+Separation devient survivant (apparitions
+séparées). Shroud of Vanishing (tueur) fait
+rejeter les offrandes d'apparition des survivants.
+Vigo's Shroud : apparaître le plus loin possible du
+tueur, offrande secrète.
+9.0.0
+Notes officielles 9.0.0 ;
+wiki.gg Vigo's Shroud
+VERIFIED_PRIMARY
+MMR
+Refonte 10.1.0 : ne compte plus seulement kills
+et évasions, mais aussi des actions en partie
+« similaires aux emblèmes ». Remise à zéro :
+annoncée par la presse, qui cite un événement
+Discord des développeurs ; absente des notes
+officielles.
+10.1.0
+Notes officielles 10.1.0 ;
+AddictingGames (23 août
+2026)
+VERIFIED_PRIMARY
+(calcul) /
+STRONG_SECONDARY
+(reset)
+Match Details
+Loadouts des coéquipiers visibles (perks, objets,
+add-ons, offrandes). Le tueur est révélé dès
+qu'un survivant entre en poursuite ou perd un
+état de santé. Le loadout de l'équipe adverse
+reste caché jusqu'à la fin de la partie.
+9.6.0
+Notes officielles 9.6.0
+VERIFIED_PRIMARY
+
+=====PAGE 39=====
+Sources statistiques : ce qu'elles valent
+1.1 Tableau d'évaluation
+Source
+Éditeur
+Ce qui est
+mesuré
+Mode
+de
+collecte
+Populati
+on
+Période
+couvert
+e
+Échant
+illon
+publié
+Platefo
+rme
+Fréque
+nce de
+MAJ
+Biais et
+limites
+connus
+Dernièr
+e public
+ation
+vérifiée
+Utilisable ?
+Billets
+« Stats /
+… » (forum
+BHVR,
+rubrique KB
+« Developer
+Updates »,
+repris en
+Steam
+News)
+Behavi
+our Int
+eractiv
+e
+Pick rates tue
+urs/survivant
+s, kill rates
+par tueur,
+escape rates
+par
+survivant ;
+parfois
+moyennes
+globales (T1
+2025) ;
+tranches
+« all/broad
+MMR » et
+« high MMR »
+Télémét
+rie
+serveur
+de
+toutes
+les
+parties p
+ubliques
+(« millio
+ns de ma
+tchs »,
+Dev
+Update
+Stats
+2024)
+Tous les
+joueurs
+en matc
+hmakin
+g public.
+« High
+MMR »
+= MMR
+≥ 1800 ≈
+18 %
+des
+joueurs
+(billet
+2026)
+Variable 
+: T1
+2025 (ja
+nv.-mars
+) ; « 6
+derniers
+mois »
+pour le
+billet
+2026
+(sept. 20
+25-févr.
+2026
+selon
+wiki.gg) ;
+événem
+ents
+(Blood
+Moon, H
+aunted…
+)
+Jamais 
+d'effec
+tif, seul
+ement 
+« millio
+ns de 
+matchs
+ »
+Toutes,
+non ve
+ntilées
+Irréguli
+ère :
+2-6
+billets
+par an,
+surtout
+liés à
+des év
+éneme
+nts
+Chiffres
+presque
+uniquement
+en images.
+Parties avec 
+déconnexio
+n exclues 
+des kill rates
+(Dev Update
+Stats 2024).
+Définitions
+non
+publiées
+(d'où des inc
+ohérences,
+cf. CONFLIC
+T-ST-06).
+BHVR
+prévient
+elle-même
+que les
+données
+« ne
+donnent pas
+une image
+complète »
+« Stats /
+First
+Look at
+Stats in
+2026 » (
+27/03/2
+026)
+pour les
+kill
+rates.
+Plus
+récent,
+sans kill
+rates
+par tran
+che :
+« Stats /
+Global
+Stats »
+(après
+la sortie
+de The
+Slasher,
+date
+exacte
+non affi
+chée)
+Oui, source
+de référence 
+(PRIMARY_O
+FFICIAL).
+Citer titre +
+date +
+période +
+définition du
+high MMR
+Developer
+Update /
+Stats (KB
+433, début
+2024)
+BHVR
+Top perks,
+killers joués
+et
+« deadliest », 
+« Survival
+Rate in
+Groups »
+(solo vs amis,
+et high MMR)
+Télémét
+rie
+Tous ;
+tranche
+high
+MMR
+non
+définie
+dans le
+texte
+Non
+précisée
+(image 
+DBD_S
+WF_St
+ats_Jan
+_2024.
+png)
+Non
+Non ve
+ntilée
+Ponctu
+elle
+Chiffres SWF
+uniquement
+en image
+(non lue ici).
+Relais comm
+unautaires c
+ontradictoir
+es (CONFLIC
+T-ST-05)
+~févr.
+2024
+(article
+sans
+date
+visible ;
+fil d'utili
+sateurs
+de févr.
+2024)
+Oui pour la
+citation
+qualitative et
+l'objectif de
+60 % ; non
+pour des
+chiffres SWF
+précis
+Developer
+Update
+janv. 2022 
+(Peanits,
+section
+« Solo
+Survivor Exp
+erience »)
+BHVR
+Écart
+d'évasion solo
+vs premade
+selon le
+niveau
+(SBMM)
+Télémét
+rie
+Tous
+Non
+précisée
+Non
+Non ve
+ntilée
+Ponctu
+elle
+Ancien
+(MMR de
+2021-2022)
+Janv.
+2022
+Oui, en
+HISTORICAL
+Official
+Stats
+Tracker (st
+ats.deadb
+ydaylight.
+com)
+BHVR
+Statistiques p
+ersonnelles :
+historique,
+kills, évasions,
+perks
+Télémét
+rie liée
+au
+compte
+Le
+joueur c
+onnecté
+Depuis
+le 01/09
+/2020
+(wiki.gg)
+n/a
+Non
+vérifié
+(site
+bloqué
+par rob
+ots.txt)
+Toutes
+les 24
+h, vers
+10h30
+UTC (w
+iki.gg)
+Pas de
+données
+globales
+publiques
+vérifiées ici
+n/a
+Seulement
+pour
+conseiller au
+lecteur de
+suivre ses
+propres stats
+
+=====PAGE 40=====
+Source
+Éditeur
+Ce qui est
+mesuré
+Mode
+de
+collecte
+Populati
+on
+Période
+couvert
+e
+Échant
+illon
+publié
+Platefo
+rme
+Fréque
+nce de
+MAJ
+Biais et
+limites
+connus
+Dernièr
+e public
+ation
+vérifiée
+Utilisable ?
+Notes de
+patch /
+annonces
+MMR
+BHVR
+(+
+presse
+relayan
+t un év
+éneme
+nt Disc
+ord offi
+ciel)
+Fonctionnem
+ent du MMR
+(pas de
+chiffres)
+—
+—
+10.1.0 (2
+5/08/20
+26)
+—
+—
+—
+BHVR ne
+publiera pas
+« les maths
+exactes »
+(CM Mandy,
+forum, août
+2026)
+25/08/2
+026
+Oui
+(PRIMARY
+pour le
+principe)
+NightLight (
+nightlight
+.gg)
+British
+Boop, i
+ndépe
+ndant,
+« non
+affilié à
+BHVR »
+Pick/usage et
+kill/escape
+rates par
+tueur, perk,
+build, carte,
+royaume,
+offrande ;
+stats perso
+Capture
+s
+d'écran
+du
+tableau
+des
+scores e
+nvoyées
+par les
+joueurs,
+lues par 
+reconnai
+ssance
+d'image.
+L'app Ni
+ghtLight
+Desktop
+(PC)
+capture
+et
+envoie a
+utomati
+quemen
+t
+Joueurs 
+volontai
+res qui 
+uploade
+nt. Biais
+vers les
+joueurs
+investis.
+Pas de
+filtre
+MMR
+visible.
+Le PC
+est expli
+citemen
+t pris en
+charge ;
+les cons
+oles ne
+sont pas 
+mention
+nées
+dans la
+doc
+Selon la
+page :
+perks = 
+14
+derniers
+jours ; r
+oyaume
+s = 8 der
+nières s
+emaines
+ ; cartes 
+(« deadli
+est/least 
+deadly »
+) et
+pages
+tueur = 
+depuis
+10.1.0 ;
+viewer
+gratuit =
+12 derni
+ères sem
+aines
+par
+tranches
+de 28
+jours
+(période
+libre
+pour les 
+support
+ers)
+Affiché
+par
+carte
+et par
+build 
+(ex.
+132 à
+396
+matchs
+par
+carte ;
+94 à
+607
+parties
+par
+build), 
+pas sur
+les
+pages
+tueur
+PC
+surtout
+(non v
+entilé)
+Agréga
+tion qu
+otidien
+ne à
+16h00
+UTC
+(page
+perks)
+Auto-sélecti
+on.
+Précision de
+l'OCR
+variable
+(doc).
+Parties
+incomplètes
+incluses
+quand c'est
+pertinent
+(blog, 20/05
+/2026).
+Abandons
+comptés
+comme
+évasions
+(affirmation
+d'utilisateur,
+non
+vérifiée).
+Stats
+scindées
+pour les
+perks
+renommées
+(D-024).
+Pages incoh
+érentes
+entre elles (
+CONFLICT-S
+T-04).
+Niveau
+global de kill
+rate ~13-18
+pts sous
+l'officiel (CO
+NFLICT-ST-0
+2). CM
+Mandy (27/
+06/2025) :
+« nowhere
+near
+accurate »
+Donnée
+s du
+jour (27
+/09/202
+6)
+Oui, sous
+conditions 
+(DATA) :
+tendances
+relatives,
+usage des
+perks, cartes.
+Toujours
+donner date
+de relevé +
+fenêtre + n +
+IC
+approximatif. 
+Jamais pour
+un niveau
+absolu de kill
+rate ni pour
+une causalité
+DBDStats (d
+bdstats.c
+om)
+Indépe
+ndant
+Compteurs
+cumulés tirés
+des profils
+(BP,
+survivants
+sacrifiés,
+gens,
+évasions…)
+« Fetche
+d
+directly
+from the
+game »
+(profils c
+onsultés
+)
+24 634
+joueurs
+suivis
+(127 k r
+echerch
+es)
+Cumul
+de
+carrière
+Oui (nb
+de jou
+eurs)
+Non pr
+écisée
+(profils
+Steam
+probab
+les,
+non
+vérifié)
+Toutes
+les
+heures
+Pas de kill
+rate ni de
+taux par
+partie ;
+joueurs qui
+se sont
+eux-mêmes
+consultés
+27/09/2
+026
+Non, pour le
+guide (inutile
+pour la
+stratégie)
+
+=====PAGE 41=====
+Source
+Éditeur
+Ce qui est
+mesuré
+Mode
+de
+collecte
+Populati
+on
+Période
+couvert
+e
+Échant
+illon
+publié
+Platefo
+rme
+Fréque
+nce de
+MAJ
+Biais et
+limites
+connus
+Dernièr
+e public
+ation
+vérifiée
+Utilisable ?
+wiki.gg
+« Official
+Stats »
+Comm
+unauté
+(wiki of
+ficiel)
+Reproduit les
+infographies
+officielles
+(sept.
+2025-févr.
+2026) ; décrit
+le tracker
+Recopie
+de BHVR
+—
+Sept. 20
+25-févr.
+2026
+—
+—
+—
+Une seule
+publication
+documentée
+Récupér
+é le 20/
+04/202
+6 selon
+sa référ
+ence
+Oui, comme
+relais (WIKI)
+pour dater la
+période
+Relais sur le
+forum et
+sur Steam
+(ex. hermitk
+ermit,
+Valuetown,
+Kaitsja,
+Pulsar)
+Utilisat
+eurs
+Lecture
+chiffrée des
+infographies
+Transcri
+ption ma
+nuelle
+—
+—
+—
+—
+—
+Erreurs de
+lecture
+possibles,
+relais contra
+dictoires
+—
+Seulement
+pour signaler
+une valeur
+« relayée,
+non
+vérifiée » (CO
+MMUNITY)
+Suivis
+personnels 
+(ex.
+« Survivor
+pick rates
+tracked:
+June
+2026 »)
+Utilisat
+eurs
+Pick rates
+observés par
+une personne
+Comptag
+e
+manuel
+Parties
+d'un
+seul
+joueur
+Déc. 202
+5-juin
+2026
+Non
+—
+—
+Anecdotiqu
+e
+09/06/2
+026
+Non
+dennisreep.
+nl/dbd/map
+s (« Are the
+maps Killer
+or Survivor
+sided? »)
+Site co
+mmun
+autaire
+Probablemen
+t des votes
+d'utilisateurs
+(méthode
+non lisible ici)
+Non
+vérifiée
+—
+—
+—
+—
+—
+Opinion, pas
+une mesure
+—
+Non.
+Probable
+origine des
+« 76 %/80 %
+des votants » 
+(E-081/E-082
+), hypothèse
+Presse
+(TheGamer,
+GameRant, 
+AddictingGa
+mes, all.gg)
+Médias
+Reprise des
+billets
+officiels
+Secondai
+re
+—
+—
+—
+—
+—
+Recopie
+partielle
+—
+Seulement
+pour dater
+ou compléter
+une annonce
+absente des
+notes de
+patch (reset
+MMR)
+1.2 Chronologie des publications officielles de statistiques
+(2022-2026)
+Publication (titre exact)
+Date
+Période couverte
+Contenu chiffré lisible en texte
+Tranche
+MMR
+SWF/solo
+Cartes
+Developer Update
+(section « Future: Solo
+Survivor Experience »,
+Peanits)
+Janv. 2022
+n.p.
+« In the top end of skill levels,
+the difference in escape rates
+can be as much as 15% »
+Haut niveau
+(SBMM),
+non chiffré
+Oui (qualitatif +
+15 %)
+Non
+Developer Update / Stats
+(KB 433)
+~févr. 2024
+n.p.
+« We try to keep Killers near a
+60% kill rate on average » ; kill
+rates hors parties avec DC
+« high
+MMR », non
+défini
+Oui (section
+« Survival Rate in
+Groups », chiffres
+en image)
+Non
+Stats / April 2024 (KB 450)
+Avr. 2024
+1er mois de The
+Unknown
+The Unknown 64 % de kill, 10 %
+d'usage ; parties à 3 gens
+passées de 10 % à 4,5 %
+Non
+Non
+Non
+
+=====PAGE 42=====
+Publication (titre exact)
+Date
+Période couverte
+Contenu chiffré lisible en texte
+Tranche
+MMR
+SWF/solo
+Cartes
+Stats / January - March
+2025 (KB 503)
+Avr. 2025
+Janv.-mars 2025
+Kill rate moyen 60 % (tous
+MMR), 63 % (high MMR) ;
+évasion 41 % (tous), 42 %
+(high)
+« wider » /
+« high »,
+non chiffré
+Qualitatif : solo
+du « wider
+MMR » au-dessus
+de la moyenne ;
+groupes
+coordonnés au
+high MMR =
+meilleur taux
+Non
+Stats / 9th Anniversary
+(KB 518)
+~mi-2025
+Événement
+anniversaire, FNAF
+Aucun chiffre en texte
+—
+—
+—
+Stats / Haunted by
+Daylight (KB 528)
+~nov. 2025
+Événement 2025
+150 M de citrouilles
+—
+—
+—
+Stats / 2025 Year in
+Review (KB 532)
+~déc.
+2025-janv.
+2026
+2025
+Aucun en texte (3 images)
+—
+—
+—
+Stats / First Look at Stats
+in 2026 (KB 540, Steam
+News)
+27/03/2026
+« the past 6
+months » (sept.
+2025-févr. 2026
+selon wiki.gg)
+Noms seulement : pick Sable
+(1re), Feng ; évasion Ace,
+Quentin ; pick Ghoul (high),
+Huntress (broad) ; kill Krasue
+(high), The Lich (broad)
+MMR ≥ 1800
+≈ 18 %
+Non
+Non
+Stats / The Trickster (KB
+543)
+~avr. 2026
+Comparaison avec
+le
+01/01-16/03/2026
+Usage de départ 1,6 % ; MiNA
+dans 36,5 % des parties de
+Trickster
+Non
+Non
+Non
+Stats / Blood Moon 2026
+(KB 547)
+~2026
+Événement
+> 19 M de parties
+—
+—
+—
+Stats / Celebrating 10
+Years In The Fog
+~mai-juin
+2026
+Carrière
+Infographie seule
+—
+—
+—
+Stats / Global Stats (KB
+554)
+Après la
+sortie de
+The Slasher
+2 premières
+semaines de The
+Slasher, 5 premiers
+jours de Shane
+Par région (Asie-Océanie,
+LatAm, Europe, NA), noms
+seulement
+Non
+Non
+Non
+Constats :
+1. Aucune publication officielle de kill rates par carte n'a été trouvée pour 2024-2026.
+2. Aucune mesure officielle du vocal : BHVR mesure le fait de jouer en groupe (« flying solo or playing with friends »), pas
+la communication.
+3. Aucune stat officielle SWF/solo chiffrée depuis ~févr. 2024. Le billet T1 2025 ne donne qu'un constat qualitatif.
+5.1 Carte de l'écosystème
+• DBDLeague (DBDL) : organisation historique (depuis 2018), soutenue officiellement par BHVR depuis juin 2025
+(CP-001). Elle organise :
+– les saisons de ligue (DBDL Season X…) ;
+– l'All Hallows League 2025 (vainqueur Invictus) ;
+– le Winter Circuit 2026 ;
+– la première LAN (Osnabrück, 14-16/08/2026) ;
+– un Ladder 1v1 sur Discord.
+VOD : YouTube @dbdleague et Twitch. Résultats de la LAN non trouvés.
+• BHVR : Community Cups officielles (Battlefy, 2023), arrêtées fin 2023 (CP-002). BHVR soutient désormais la DBDL sans
+rééquilibrer le jeu pour le compétitif. Des améliorations du spectateur en partie personnalisée sont annoncées (presse,
+juin 2025).
+• Autres :
+– DBDRanked (Discord, championnat) ;
+
+=====PAGE 43=====
+– tournois communautaires (forum BHVR) ;
+– scène japonaise (DFC, DIC-JAPAN, JCG), avec des règles plus légères et « 10 tournois = 10 règlements » (note.com, mars
+2026) (CP-004).
+• Équipes de référence (EU) : Invictus, Praxis (finales AHL 2025, Winter Circuit 2026, DBDRanked), Ariandel, Elysium,
+Nokron (CP-009).
+• Ressources publiques :
+– Comp DBD Wiki (compdbd.fyi, fan, mis à jour en nov. 2025) ;
+– Hens (callouts, builds) ;
+– Otzdarva (tier lists, non lues) ;
+– CompDBD (compdbd.com, éditeur inconnu) (CP-010).
+• Taille de la scène : de niche. Aucun tournoi DBD n'est suivi par Esports Charts en 2025-2026, et les prix viennent surtout
+des dons.
+5.2 Règles compétitives et matchmaking public
+Dimension
+Compétitif (4v1 ligue)
+Matchmaking public (LIVE 10.1.x)
+Source / confiance
+Adversaires
+Équipes inscrites de 5 joueurs, niveau homogène
+MMR caché. Depuis 10.1.0, il compte
+aussi les actions en partie ; il est par
+tueur, commun aux survivants, et le
+temps d'attente passe avant la précision
+CP-002 ; ST-015 à ST-018
+(VERIFIED / STRONG)
+Communicatio
+n
+4 survivants en vocal par construction
+Solo queue sans vocal (majorité des
+parties, donnée 2019) ou SWF
+CP-002 ; ST-014 (OUTDATED)
+Tueur
+Pool fixé par l'organisateur ; même tueur pour les
+deux équipes (DBDL) ; tueurs forts bridés par des
+règles d'équilibrage
+N'importe quel tueur, inconnu au lobby
+CP-002, CP-006, CP-007
+(STRONG/UNCERTAIN)
+Carte
+Assignée par tueur, imposée par offrande
+(DBDL) ; ou pool de cartes (Cups)
+Aléatoire, avec offrandes de carte
+possibles
+CP-007, CP-008 (UNCERTAIN /
+EXPERT)
+Perks
+survivants
+Pas de doublon (16 perks différentes) ; bans
+ciblés (boons, gen-rush, sabotage, RNG,
+DH/Deliverance/Unbreakable selon le tueur)
+Aucune restriction ; doublons permis
+CP-002 (VERIFIED), CP-007
+(UNCERTAIN)
+Objets
+Pas de doublon ; ni Keys ni Maps (Cups)
+Libres
+CP-002 (VERIFIED, 2023)
+Add-ons
+Rareté plafonnée (Common/Uncommon, Rare
+jusqu'aux quarts [Cups] ; ≤ jaune côté tueur
+[relais DBDL])
+Libres (Iri, Ultra Rare)
+CP-002, CP-007
+Offrandes
+Interdites (Cups) ou obligatoires pour fixer la
+carte (DBDL)
+Libres
+CP-002, CP-008
+Condition de
+victoire
+Relative : hook stages, gens restants, temps ;
+comparaison des deux équipes sur le même
+tueur ; en 1v1, temps de chase
+Absolue et individuelle : évasion ou
+sacrifice (plus, désormais, des actions
+pour le MMR)
+CP-002, CP-005, CP-006
+Camping /
+tunneling
+Stratégies légitimes et attendues (guide DBDL
+v1.0) ; mécanique anti-facecamp parfois mise à
+l'écart (formulation ambiguë)
+Les mêmes stratégies existent, mais le jeu
+a des protections anti-camp. En public,
+elles sont subies par des solos sans
+coordination
+CP-007, CP-008
+Contenu
+récent
+Interdit pendant quelques semaines (2 semaines
+dans les Cups)
+Disponible dès la sortie
+CP-002
+Déconnexions
+/ bugs
+Replays encadrés
+Pénalités de DC ; parties avec DC exclues
+des kill rates officiels
+CP-002 ; ST-009
+
+=====PAGE 44=====
+5.3 Ce qui se transfère (et ne se transfère pas) vers les parties
+publiques
+Analyse du lot R4 (HYPOTHESIS / EXPERT_OPINION), construite à partir des règles vérifiées ci-dessus. Ce ne sont pas des
+faits sourcés.
+Transférable (avec prudence)
+1. Chase et lecture des tiles : la compétence de base du compétitif, et l'étalon du 1v1 (temps de chase). Elle s'applique
+telle quelle en public.
+2. Économie du temps : penser en secondes gagnées ou perdues (hook stages, gens restants) plutôt qu'en « j'ai
+survécu ». C'est cohérent avec le nouveau MMR 10.1.0, qui récompense les actions.
+3. Discipline d'information : callouts courts, conventions de repérage (horloge, landmarks). Utile en SWF ; en solo,
+seulement via l'aura et Kindred.
+4. Répartition des rôles et des gens (qui tient la chase, qui répare, qui sauve) : transférable en SWF, partiellement en
+solo (règles implicites).
+5. Côté tueur : priorité à la pression (hooks rapides, gestion des 3 gens), jugée à l'efficacité plutôt qu'au 4K.
+Non transférable ou dangereux à copier
+1. Builds et « méta compétitive » : ils sont optimisés sous des bans (pas de doublon, boons et gen-rush souvent interdits,
+add-ons plafonnés). En public, les options optimales sont différentes, et l'inverse est vrai aussi. Exemple : le « 4-man A
+méta compétitive » du guide n'est pas légal dans les règlements connus (CP-011).
+2. Préparation par carte : en compétitif, la carte est connue d'avance (par tueur). En public, carte et tueur sont
+aléatoires, donc les routes pré-apprises valent moins.
+3. Supposer un vocal et 4 joueurs compétents : la majorité des parties publiques sont en solo queue ou en duo (donnée
+2019). Les stratégies qui exigent une synchronisation (trades précis, body blocks planifiés) échouent en solo.
+4. Objectif relatif : sacrifier un coéquipier pour « battre le temps » de l'autre équipe n'a pas de sens en public, où chacun
+joue son évasion. Côté tueur, jouer « pour les hook stages » ne maximise pas forcément les kills.
+5. Équilibrage des tueurs : les tueurs forts sont bridés en compétitif. Une tier list compétitive n'est donc pas une tier list
+publique (cf. D-028).
+6. Camping / tunneling « normalisés » : légitimes en compétitif contre des survivants préparés. En public, ils s'appliquent
+sous les mécaniques anti-camp et contre des solos. Leur efficacité et leur coût (MMR, temps) diffèrent.
+
+=====PAGE 45=====
+PLAN DE RECHERCHE, STRATÉGIE DE
+SOURCES ET BANQUE DE QUESTIONS
+1. Principes
+• Deux temps (mission §20) : largeur d'abord (PASS 0-2 faits : inventaire, taxonomie, matrice), profondeur ensuite, lot par
+lot.
+• Chaque lot produit un fichier research/batchN_*.md au format ledgers/LEDGER_FORMAT.md (lignes CLAIM, blocs
+CONFLICT, réfutations, questions ouvertes, sources), puis ledgers/merge.py met à jour CLAIM_DATABASE,
+CONFLICT_REGISTER, SOURCE_LEDGER.
+• Un soupçon d'audit ne corrige rien : seule une vérification sourcée le fait (voir GAP_ANALYSIS §0).
+• Processus cyclique : toute lacune découverte crée une question dans TODO_RESEARCH.md (research tree, §43).
+2. Stratégie de sources
+Priorit
+é
+Type
+Sources identifiées (lot 1)
+Usage
+Confiance max seule
+1
+Primaire
+officielle
+Patch notes (forums.bhvr.com KB,
+support.deadbydaylight.com, Steam
+News), Developer Updates, billets
+« Stats », annonces BHVR
+Toute valeur chiffrée, toute règle,
+toute date
+VERIFIED_PRIMARY
+2
+Wiki
+technique
+deadbydaylight.wiki.gg (pages +
+Module:Datatable), fandom en
+secours
+Valeurs courantes, historique ; à
+croiser avec les notes
+STRONG_SECONDARY
+(VERIFIED_MULTI_SOURCE si
+concordant avec 1)
+3
+Données
+Billets officiels « Stats
+… » (kill / escape rates, high MMR
+≥ 1800 ≈ 18 %), NightLight.gg (+
+docs.nightlight.gg)
+Tendances relatives, toujours
+avec période, population, n,
+biais
+DATA
+(jamais
+causal)
+4
+Experts
+Coachs et joueurs compétitifs publiant
+des guides écrits (ex. Otzdarva,
+Hens333, guides de loops), analyses
+techniques testées
+Heuristiques, techniques,
+counterplay
+EXPERT_OPINION
+5
+Vidéo /
+VOD
+Chaînes d'analyse, VOD de ligues
+(DBDLeague)
+Décisions, principes généralisables
+Seulement si transcript ou
+contenu réellement accessible
+6
+Communa
+uté
+Reddit, forums utilisateurs, Steam
+guides
+Hypothèses, techniques à tester,
+controverses
+COMMUNITY_OBSERVATION
+Contraintes d'accès constatées au lot 1 (non contournées, conformément aux règles) :
+• curl depuis l'environnement est bloqué par le proxy pour wiki.gg, forums.bhvr.com, deadbydaylight.com ; seules les
+lectures via l'outil web sont possibles, et il résume les longues pages (d'où l'usage de citations verbatim demandées
+explicitement et de Module:Datatable).
+• Les infographies officielles de statistiques sont des images hébergées sur un domaine refusé : chiffres officiels par tueur
+non lisibles directement.
+• YouTube, X, Liquipedia, dbdleague.com, Scribd, game8, gamerant : refusés ou illisibles. L'analyse de VOD n'est donc pas
+possible pour l'instant ; le guide ne prétendra jamais l'avoir faite.
+• Piste d'amélioration : le navigateur intégré de l'application (sur l'ordinateur de l'utilisateur, avec son accord site par site)
+pourrait lire les images de stats et certaines pages vidéo ; à proposer à l'utilisateur, pas à supposer.
+
+=====PAGE 46=====
+3. Lots de recherche
+Lot
+PASS
+Périmètre
+Sortie
+Critère de fin
+1 ✓
+3-4
+État du jeu, patchs 9.0.0 → PTB 10.2.0, mécaniques de
+chase, objectifs / crochets / statuts, sources statistiques,
+compétitif
+batch1_R1…R4
+Fait le 27/09
+2
+5
+Perks survivant (176) : valeurs LIVE, conditions, CD,
+interactions, colonne PTB 10.2.0 séparée, perks
+renommées ; puis fiche multi-dimensions (SoloQ, SWF,
+chase, macro, info, anti-tunnel, soin, gen, endgame,
+difficulté, anti-synergies)
+batch2_perks_surv_*.
+md + PERK_DATABASE_
+SURV
+176 lignes vérifiées ou
+UNCERTAIN explicite
+3
+5
+Perks tueur (145) vue survivant : indice visuel / sonore,
+soupçon, confirmation, adaptation, counterplay, erreurs ;
+conflits Pain Res / Eruption / Pop / NTH / No Way Out /
+Blood Warden ; matériel de perk deduction
+batch3_perks_kill_*.m
+d
+145 lignes + section déduction
+4
+6
+Tueurs (44) : pouvoir LIVE exact, vitesses, TR, add-ons qui
+changent la décision, identification, counterplay par couche,
+loops favorables / défavorables, erreurs, cas d'échec ;
+typologie
+batch4_killers_*.md
+44 fiches sourcées
+5
+5
+Objets, add-ons, offrandes + techniques (flash save, pallet
+save, sabo, body block, protection hit, coffres)
+batch5_items.md
+Tous les objets actuels
+6
+4 / 8
+Techniques de chase fines : red stain, moonwalk,
+double-back, caméra, checkspots, fake vault / pallet, lecture
+son / animation, hitbox / latence / validation serveur,
+collision
+batch6_chase_tech.md
+Chaque technique au format
+WHAT → DRILL
+7
+7
+Loops et tiles : fiche par tile (wiki Tiles + guides experts),
+matrice tile × type de tueur, connectivité, exclusivités par
+royaume après 9.2.0
+batch7_tiles.md
+Toutes les tiles du pool actuel
+8
+7
+Cartes : fixe vs RNG par carte, changements 9.2.0 / 9.3.0 /
+9.3.2, un seul tableau de kill rates daté, gates / trappe /
+sous-sol, dimensions stratégiques
+batch8_maps_*.md
+44 cartes
+9
+10
+Macro, SoloQ / SWF, game sense, états de partie, fin de
+partie (sources expertes écrites + mécaniques vérifiées)
+batch9_macro.md
+Matrice des états + arbres
+10
+9
+Compétitif approfondi (règlements, formats, leçons
+transférables), VOD si l'accès devient possible
+batch10_comp.md
+—
+11
+15
+Synthèse pratique : base d'erreurs, arbres de décision,
+drills, programme, métriques
+batch11_training.md
+Chaque entrée au format
+mission
+12
+11-12
+Triangulation et freshness audit (dont sortie probable de
+10.2.0 en octobre : 58 perks changent)
+mise à jour des ledgers
+Aucune valeur POSSIBLY STALE
+non signalée
+13-15
+13-15
+Audit de couverture, deux audits adversariaux, audit de
+praticité
+audit/pass13…15.md
+Mission §25-27
+16-17
+16-17
+Réécriture du guide (master + livrables §51) puis fact-check
+final
+PDF + fichiers
+Definition of Done §47
+Point de vigilance calendrier : le PTB 10.2.0 modifie 58 perks et le système d'abandon ; sa sortie LIVE est estimée début
+octobre 2026 (non officiel). Les lots 2 et 3 enregistrent donc la valeur LIVE et la valeur PTB 10.2.0 dans des colonnes
+séparées, pour basculer vite le jour de la sortie.
+4. Banque de questions (recherche par questions, mission §42)
+— extrait initial
+Chaque question a un lot cible. Les réponses vont dans les fichiers de lot ; les questions dérivées sont ajoutées à
+TODO_RESEARCH.
+
+=====PAGE 47=====
+Mécaniques (lots 1 et 6)
+1. Quelle est la durée et la distance exactes de la fente, et de quoi dépendent-elles ? (UNCERTAIN)
+2. Le fast vault dépend-il de l'angle d'approche ? d'une durée de sprint ou d'une distance ?
+3. Un vault sous Haste reste-t-il rapide si l'élan est inférieur à 2,5 m ?
+4. Que se passe-t-il exactement côté serveur quand un coup est porté avec 150 ms de ping ?
+5. Le red stain suit-il la tête ou la caméra du tueur ? Quels tueurs n'en ont pas, et quand ?
+6. Quelle est la portée réelle des grognements de douleur, et varie-t-elle selon le personnage ?
+7. Combien de temps restent les flaques de sang et les scratch marks ?
+8. Le stun d'une palette interrompt-il la Bloodlust ?
+9. Quelles casses sont instantanées (pouvoirs, perks) ?
+10. Quels modificateurs exacts sont soumis aux DR (liste du manuel 9.6.1) ?
+11. La vitesse de rampement est-elle 0,7 ou 1,05 m/s en LIVE ?
+12. Combien de soigneurs simultanés sont possibles en 1v4 ?
+13. Quel est le taux de base exact de la jauge anti-camp depuis 9.3.0 ?
+14. Quelles actions « conspicuous » annulent Endurance, Haste et Elusive de décrochage ?
+Chase et loops (lots 6-7)
+15. À partir de quelle distance un pre-drop est-il préférable au greed contre un tueur 115 % sans pouvoir ?
+16. Quelle est la durée d'un cycle de shack pour un survivant, pour un tueur, et quel est le gain net par tour ?
+17. Comment reconnaître une palette « unsafe » avant d'y arriver ?
+18. Quand la fenêtre d'un jungle gym long wall devient-elle unsafe (Bloodlust, fente) ?
+19. Quels tueurs rendent une tile god inutile, et pourquoi (anti-loop, ranged, mobilité) ?
+20. Quels checkspots utiliser sur chaque tile, et à quelle fréquence regarder derrière soi ?
+21. Comment enchaîner une tile vers la suivante sans se faire couper la route ?
+22. Comment se jouent les exclusivités de tiles par royaume depuis 9.2.0 ?
+Tueurs (lot 4) — pour chaque tueur
+23. Quelles sont les valeurs LIVE du pouvoir (cooldowns, vitesses, durées, charges) ?
+24. Comment l'identifier avant le reveal (objets posés, sons, TR, vitesse) ?
+25. Quels add-ons changent la décision du survivant, et quelle décision ?
+26. Quelles tiles et quelles cartes changent contre lui ?
+27. Quand le counterplay habituel échoue-t-il ?
+28. Quelles erreurs survivant punit-il le plus ?
+Perks (lots 2-3)
+29. Valeur LIVE, CD, conditions et interactions de chaque perk ; valeur PTB 10.2.0 séparée.
+30. Quels indices observables trahissent chaque perk tueur, et comment la confirmer ?
+31. Quels combos de perks tueur sont les plus fréquents, et quelle réponse robuste existe sans certitude ?
+32. Off the Record donne-t-il l'Endurance en LIVE ?
+33. Quelles sont les valeurs LIVE de Pop, Pain Resonance, Eruption, Ruin, DMS après 9.2.0 / 9.5.0 ?
+34. Quelles perks survivant sont réellement utiles en SoloQ, et pourquoi ?
+Macro, SoloQ / SWF, game sense (lot 9)
+35. Comment détecter un 3-gen en formation sans Déjà Vu ?
+36. Quel ordre de décision pour un sauvetage (santé, perks, gen, position du tueur) ?
+37. Quand un soin coûte-t-il plus de temps qu'il n'en rapporte ?
+38. Que lire exactement sur le HUD solo (icônes, états, barres) ?
+39. Quelles règles implicites de coordination sans vocal ?
+
+=====PAGE 48=====
+40. Quels signes montrent qu'une partie bascule (snowball) ?
+41. Comment jouer le standoff de trappe et le gate camp ?
+Données et compétitif (lots 1 et 10)
+42. Quelles stats officielles publiées après mars 2026, et leurs chiffres texte ?
+43. Quel barème de score exact dans la DBDLeague ?
+44. Quelles leçons de VOD compétitives sont transférables au public ?
+(La banque complète sera étendue lot par lot : l'objectif de la mission est plusieurs centaines de questions ; chaque lot en
+génère de nouvelles.)
+
+=====PAGE 49=====
+OPEN_QUESTIONS — informations
+encore insuffisamment vérifiées
+Extraites automatiquement des lots (section « Questions ouvertes ») ; à reprendre dans les lots cibles. Mise à jour par 
+ledgers/merge.py à terme.
+batch1_R2_mecaniques_chase
+1. Liste complète des vitesses par tueur (classes 4,6 / 4,4 / autres, dont l'existence d'une classe 4,2 en live) : page wiki
+tronquée, à reprendre par le lot tueurs.
+2. Durée et distance de la fente : aucune source officielle ; seulement des estimations communautaires (~0,87-1 s, ~2 m).
+3. Forme et taille des hitbox/hurtbox, seuil de latence de la validation serveur (~300 ms, non officiel), éventuelles
+évolutions depuis 2020.
+4. Durée d'abaissement d'une palette et durée du stun de fin de wiggle.
+5. Perte de Bloodlust sur stun ou aveuglement : non documentée.
+6. Temporisation de la condition d'angle (± 35°) de fin de poursuite.
+7. Montée du rampement à 1,05 m/s : patch d'introduction et courbe exacte.
+8. DR : liste itemisée des catégories ; application à l'Endurance, aux vitesses de vault et aux effets de base (Haste de
+décrochage, boost au coup).
+9. Plafond de Haste : aucun trouvé (preuve par absence seulement).
+10. Flaques de sang : fréquence et durée de vie ; grognements : portée et différences de volume entre personnages.
+11. Off the Record et l'Endurance (CONFLICT-R2-02).
+12. Multiplicateur du boost au coup (×1,65 selon le wiki seulement ; aucune note de patch ne le confirme).
+13. Nombre de palettes par carte après les 9.2.0 et 9.3.0.
+14. Moment de la mise à zéro du boost au coup par un vault (A-059) : non documenté.
+15. Pour R1 : la page officielle « 10.1.2 Bugfix Patch » affiche « September 17 » (année affichée 2024, probablement une
+coquille). Cela appuie la date du 17 septembre du guide (A-001) pour la 10.1.2, pas forcément pour la 10.1.2a.
+batch1_R3_mecaniques_objectifs
+1. DR sur les blocages et les pertes instantanées (Pop, Pain Res, Eruption, Grim Embrace…) : les notes 9.6.0 et le wiki ne
+disent rien. Liste exacte des catégories soumises aux DR non publiée (D-017, D-034, A-098, A-101, A-102).
+2. Taux de base de l'anti-camp après 9.3.0 (CONFLICT-003). Autre inconnue : le multiplicateur de temps court-il pendant
+la grâce de 7 s ? Tant que ces deux points restent ouverts, le temps de remplissage exact n'est pas vérifié.
+3. Nombre maximal de soigneurs : 2 selon le wiki, 3 selon le guide (CONFLICT-001).
+4. Rampement : 0,7 m/s constant, ou montée jusqu'à 1,05 m/s (CONFLICT-002) ?
+5. Remise à zéro du MMR en 10.1.0 : source presse seulement.
+6. Elusive de décrochage : annulée par une action voyante, comme l'Endurance ?
+7. Visibilité des loadouts des coéquipiers dans le lobby, avant de verrouiller le sien (A-220).
+8. Chance de skill check avec toolbox (40 % selon le wiki), ouverture de porte par le tueur (0,75 s selon le wiki) : valeurs
+non recoupées.
+9. Non traités ou non vérifiés dans ce lot :
+– vitesse de portage 3,68 m/s (A-044) ;
+– durée du ramassage ;
+– règles fines des sauvetages à la lampe, à la palette ou au casier ;
+– condition de spawn de la trappe selon le nombre de gens ;
+– « le Mori sacrifie aussi l'accroché » (D-053) ;
+– repli de Pain Resonance sur un autre gen quand le plafond est atteint (D-010) ;
+
+=====PAGE 50=====
+– Abandon tueur en LIVE (D-047).
+10. Risque de contamination PTB : plusieurs pages wiki.gg affichent déjà des valeurs du PTB 10.2.0 (Self-Preservation
+13-15 s, annotations 10.2.0 sur Exit Gates). Si le 10.2.0 sort (estimé début oct. 2026), il faudra revérifier
+Abandon/Surrender et les perks touchées.
+11. Hors périmètre mais signalé : selon la page wiki.gg 9.2.X, les changements de Pop, Eruption, Ruin et DMS du PTB
+9.2.0 ont été annulés en LIVE 9.2.0. Cela contredit la note amont (D-019, D-020). À trancher par le lot perks tueur, à
+partir des notes officielles 9.2.0.
+batch1_R4_donnees_competitif
+1. Chiffres des infographies officielles 2024-2026 : kill rates par tueur (sept. 2025-févr. 2026), escape rates par survivant,
+et surtout l'image SWF 2024 (DBD_SWF_Stats_Jan_2024.png). Il faut une lecture directe de l'image : navigateur ou
+accès us.v-cdn.net autorisé.
+2. Définitions officielles : kill rate et escape rate calculés par joueur ou par partie, pondérés ou non ? D'où viennent les
+sommes ≠ 100 % (CONFLICT-ST-06) ?
+3. Reset MMR 10.1.0 : date effective et confirmation primaire (tweet ou annonce BHVR ; X est bloqué ici).
+4. Existe-t-il une publication officielle post-10.1.0 avec kill rates par tranche ou par carte ? Aucune trouvée au
+27/09/2026.
+5. NightLight : effectifs par tueur (viewer en JS) ; plateformes réelles (console via captures ?) ; traitement des abandons
+et des bots ; raison des incohérences entre pages (CONFLICT-ST-04).
+6. DBDLeague : règlement et page Balancing de la saison en cours, barème exact, pool de tueurs, assignation des cartes,
+statut de l'anti-facecamp (site inaccessible). Résultats de la LAN d'Osnabrück (août 2026) et du Winter Circuit 2026.
+7. Coachs et analystes : aucun coach compétitif identifié dans des sources lues. Il faudrait les annonces des équipes ou le
+Discord DBDL.
+8. VOD : identifier 3 à 5 VOD de référence avec leur contenu (nécessite un accès YouTube ou Twitch, refusé ici).
+9. « Team-based Ratings » pour les SWF (6.4.0) : encore actifs après 10.1.0 ? (lot R1)
+10. Origine des « 76 % / 80 % des votants » : confirmer ou écarter dennisreep.nl.

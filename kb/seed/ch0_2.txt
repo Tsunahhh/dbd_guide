@@ -1,0 +1,628 @@
+
+=====PAGE 7=====
+CHAPITRE 0
+0. Avant de commencer
+Ce guide part du principe que vous savez déjà jouer : réparer un générateur, décrocher un allié, faire un tour de palette,
+accrocher un survivant. Il vise le joueur intermédiaire qui veut devenir expérimenté, en solo comme en groupe, en
+survivant comme en tueur. Il ne remplace pas les heures de jeu, mais il vous donne les chiffres, les schémas et les réflexes
+qui séparent un joueur « qui joue » d'un joueur « qui gagne ».
+Version du jeu couverte
+• Patch live : 10.1.2a (17 septembre 2026). Dernier chapitre : Chorus of Sin (25 août 2026), avec le tueur The Judgment
+et la survivante Aurora Stardotter.
+• 44 tueurs, 54 survivants, 20 royaumes et 44 cartes jouables en 1v4.
+• PTB 10.2.0 (test du 15 au 21 septembre 2026) : 58 perks modifiées, sortie live estimée début octobre 2026 (date non
+confirmée par Behaviour). Les changements qui modifient un conseil du guide sont signalés par la mention « PTB
+10.2.0 ».
+• Tout le contenu a été recoupé à partir des notes de patch officielles, du wiki officiel (deadbydaylight.wiki.gg), des
+statistiques NightLight.gg, des statistiques officielles publiées par Behaviour, de tier lists récentes et de guides
+communautaires (liste complète en fin de document).
+Les chiffres bougent vite
+Dead by Daylight change toutes les 6 à 10 semaines. Une valeur de perk peut être retouchée d'un patch à l'autre. En jeu,
+maintenez la touche d'info sur une perk (infobulles détaillées depuis la 9.5.0) pour lire sa valeur exacte du moment.
+Comment lire le guide
+• Noms en anglais pour les perks, objets, add-ons et offrandes : c'est ce qu'utilise la communauté francophone, et c'est
+ce qui vous servira pour chercher une info.
+• I/II/III : les trois valeurs d'une perk selon son niveau (ex. « 60/50/40 s »).
+• Tiers : S = à jouer presque partout ; A = excellent ; B = bon dans le bon contexte ; C = niche ; D = à éviter ou pour le fun.
+Une tier list n'est jamais absolue : elle mesure la valeur moyenne d'une perk ou d'un tueur dans la méta actuelle.
+• Encadrés verts : conseils pratiques. Encadrés orange : pièges et mises en garde. Encadrés rouges : règles clés à retenir.
+• Les schémas de loops sont vus de dessus. Légende commune :
+Ce qui a changé en 2025-2026 (à connaître absolument)
+Si vous avez fait une pause, voici les changements qui modifient le plus la façon de jouer.
+Patch
+Changement
+Conséquence en jeu
+9.0.0 (juin 2025)
+Les survivants apparaissent groupés (moins de 12 m) ;
+offrandes de carte limitées à 20 % de chance, non cumulables
+Le tueur trouve vite le groupe en début de partie ; forcer
+une carte n'est plus fiable
+9.0.0
+Auto-décrochage (4 %) interdit tant qu'il reste 3 survivants ou
+plus
+Plus de « suicide sur crochet » en début de partie
+9.1.0 (juil. 2025)
+Refonte des Maps et des Keys, arrivée des Fog Vials
+La Map devient un outil d'info d'équipe, la Fog Vial un
+objet de survie
+9.2.0 (sept. 2025)
+Récupération au sol automatique (jusqu'à 95 %)
+Le slug coûte moins, mais il n'y a pas de relevage
+automatique complet
+9.3.0 (nov. 2025)
+Anti-facecamp renforcé (grâce de 7 s, jauge ×2 puis ×4)
+Le face camp ne rapporte plus rien après ~20 s
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+AVANT DE COMMENCER
+7
+
+=====PAGE 8=====
+Patch
+Changement
+Conséquence en jeu
+9.4.0 (janv. 2026)
+Départ de la licence Halloween : Decisive Strike devient Will to
+Live, Save the Best for Last devient Keep Them Waiting, etc. ;
+nouveau statut Elusive
+Les perks de Laurie et Myers sont désormais accessibles
+à tous
+9.5.0 (mars 2026)
+Unbreakable une fois par partie, rework du Trickster, Fog Vial à
+4 charges
+Moins d'anti-slug « gratuit »
+9.6.0 (avril 2026)
+Diminishing Returns : les effets identiques se cumulent à
+100/50/25/12,5/5 % ; loadouts des coéquipiers visibles ; nerf
+du Blight
+Construire un build par catégories et non par
+empilement
+10.1.0 (août 2026)
+Protections de décrochage : Endurance + Haste 10 % pendant 
+10 s + Elusive 10 s ; Sprint Burst à 2 s, Adrenaline à 4 s ; refonte
+du MMR
+La fenêtre anti-tunnel de base est plus courte, mais plus
+furtive
+Ce qui n'existe PAS (malgré ce qu'on lit en ligne)
+Les grands systèmes anti-tunnel et anti-slug testés aux PTB 9.2.0 et 9.3.0 (protection de 30 s, relevage automatique
+après 90-120 s, bonus de réparation si un survivant meurt tôt) n'ont jamais été mis en live. Rien n'empêche
+mécaniquement un tueur de tunneler : ce sont vos perks et votre jeu d'équipe qui le punissent.
+Plan du guide
+1. Comprendre le jeu en profondeur : les chiffres, l'économie du temps, ce qui fait gagner.
+2. Survivant : chase, loops et tiles (illustré).
+3. Survivant : toutes les perks en tier list, avec catégories.
+4. Survivant : objets, add-ons et offrandes.
+5. Survivant : 24 builds expliqués.
+6. Jouer en solo, à 2, à 3 ou à 4 : compositions d'équipe et analyse du taux de réussite.
+7. Survivant : stratégies avancées, dont l'art de tromper le tueur.
+8. Les 44 tueurs : pouvoir, façon de jouer, contre-jeu, add-ons, build, tier.
+9. Tueur : toutes les perks en tier list.
+10. Tueur : stratégies, builds et mindgames.
+11. Les cartes : 44 cartes, callouts, schémas.
+12. Communication et callouts (solo et SWF).
+13. Psychologie et habitudes des joueurs.
+14. Checklists, glossaire et sources.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+AVANT DE COMMENCER
+8
+
+=====PAGE 9=====
+CHAPITRE 1
+1. Comprendre le jeu en profondeur
+Dead by Daylight est un jeu d'économie du temps. Les survivants ont un stock de travail à accomplir (5 générateurs puis
+une porte), le tueur doit convertir des poursuites en accrochages plus vite que ce travail n'avance. Tout le reste (perks,
+loops, mindgames) n'est qu'un moyen de gagner ou de faire perdre des secondes. Ce chapitre donne les chiffres qui
+permettent de raisonner juste.
+Les deux horloges d'une partie
+L'horloge des survivants : environ 450 « secondes-survivant »
+• Un générateur demande 90 charges, soit 90 s pour un survivant seul sans bonus. Il en faut 5 sur 7.
+• Travail total brut : 5 × 90 = 450 secondes-survivant. Si trois survivants réparent chacun un générateur différent pendant
+que le quatrième est poursuivi, trois générateurs tombent en 90 s.
+• Réparer à plusieurs sur le même générateur coûte de l'efficacité : chaque survivant supplémentaire perd environ 15 %
+de rendement.
+Deux survivants réparent environ 1,7 fois plus vite qu'un seul, quatre seulement 2,2 fois plus vite : la dispersion est presque toujours plus rentable.
+L'horloge du tueur : 12 états de crochet
+• Un survivant meurt au 3e accrochage (ou avant, via un Mori, un Exile de Judgment, Devour Hope…). Tuer tout le monde
+demande donc 12 états de crochet, moins les kills gagnés en fin de partie.
+• Chaque accrochage coûte au tueur une poursuite, un portage (vitesse de portage 3,68 m/s) et le trajet vers le survivant
+suivant. Si une boucle « poursuite + portage + trajet » prend 60 s, 12 accrochages prennent 12 minutes, soit beaucoup
+plus que les ~3 à 4 minutes nécessaires aux survivants pour finir 5 générateurs sans être dérangés.
+• Conclusion : le tueur ne gagne jamais en accrochant « simplement plus vite ». Il gagne en retirant des survivants des
+générateurs : le survivant poursuivi, le survivant accroché, le sauveteur, le soigneur. Un seul accrochage bien placé
+immobilise souvent 2 à 3 survivants pendant 30 à 60 s. C'est la notion de pression.
+La règle fondamentale
+Côté survivant : chaque seconde qu'un survivant passe hors d'un générateur sans raison est une seconde offerte au
+tueur. Côté tueur : chaque seconde passée en poursuite sans avancer vers un accrochage est une seconde offerte aux
+générateurs.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+COMPRENDRE LE JEU EN PROFONDEUR
+9
+
+=====PAGE 10=====
+Ce que vaut une poursuite
+Quand vous êtes poursuivi et que vos trois alliés réparent chacun un générateur différent, chaque tranche de 30 s de
+poursuite équivaut environ à un générateur d'équipe. Une poursuite d'une minute et demie en début de partie vaut donc
+trois générateurs : c'est souvent la moitié de la partie.
+Hypothèse idéale : 3 alliés sur 3 générateurs distincts, sans bonus ni régression. En pratique, retirez 20 à 30 % pour les déplacements, les skill
+checks et les interruptions.
+Pourquoi le tueur finit toujours par vous rattraper en ligne droite
+Un survivant court à 4,0 m/s. La plupart des tueurs courent à 4,6 m/s (115 %) ou 4,4 m/s (110 %). En ligne droite, un tueur
+rapide gagne donc 0,6 m par seconde, un tueur lent 0,4 m. Avec 10 m d'avance, vous tenez environ 17 s face à un tueur
+rapide et 25 s face à un tueur lent, puis vous êtes à portée de coup. Les tiles (palettes, fenêtres, murs) existent pour casser
+cette mathématique : ils forcent le tueur à faire un trajet plus long que le vôtre.
+Plus le tueur est lent (110 %), plus « tenir W » (courir droit) est une vraie option.
+• Bloodlust : après 15 s de poursuite sans casser de palette ni toucher, le tueur gagne +0,2 m/s, puis +0,4 à 25 s et +0,6 à
+35 s. Il le perd en cassant une palette, en frappant ou en utilisant son pouvoir. Conséquence : une poursuite qui
+s'éternise sur des tiles faibles devient perdue d'avance, et jeter une palette qui force le tueur à la casser remet sa
+Bloodlust à zéro.
+• Coup reçu : le survivant touché gagne une courte accélération (environ 1,8 s). C'est le moment de rejoindre un tile, pas
+de vaulter immédiatement (le vault annule l'élan).
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+COMPRENDRE LE JEU EN PROFONDEUR
+10
+
+=====PAGE 11=====
+Les chiffres clés à connaître par cœur
+Élément
+Valeur (live 10.1.x)
+Pourquoi c'est important
+Générateur
+90 charges (90 s seul) ; 5 sur 7 à réparer
+Base de toute l'économie
+Coup de pied du tueur
+-5 % immédiat puis régression 0,25 charge/s ; 8
+« regression events » max par gen
+Le 3-gen infini n'existe plus
+Skill check
+Great +1 % ; raté -10 % et 3 s bloqué (bruit)
+Les ratés trahissent votre position
+Soin d'un état de santé
+16 charges ≈ 16 s ; jusqu'à 3 soigneurs simultanés
+Se soigner coûte presque 1/5 de générateur
+Deep Wound
+timer 20 s ; soin 10 s seul, 6 s par un allié
+Ne pas oublier de le soigner après un coup d'Endurance
+Crochet
+2 phases de 70 s ; mort au 3e accrochage
+Un allié accroché = 70 s pour agir avant la phase 2
+Auto-décrochage
+4 %, interdit tant qu'il reste 3 survivants ou plus
+(sauf perks/offrandes)
+Pas de loterie en début de partie
+Protections de décrochage
+Endurance + Haste 10 % pendant 10 s, Elusive 10 s
+(pas une fois les portes alimentées)
+Fenêtre de survie après un sauvetage
+Anti-facecamp
+Zone de 16 m, grâce de 7 s, jauge ×2 après 10 s puis
+×4 après 20 s
+Le camping à bout portant échoue
+État mourant
+récupération auto jusqu'à 95 % (~30 s) ; mort après
+240 s cumulées
+Un slug ne dure pas éternellement
+Vault de fenêtre
+rapide 0,5 s, moyen 0,9 s, lent 1,5 s ; tueur 1,7 s
+Le fast vault est votre arme principale
+Blocage de fenêtre
+3 vaults de la même fenêtre dans une poursuite =
+bloquée pour vous
+Ne pas « user » une fenêtre, changer de tile
+Palette
+stun 2 s ; casse 2,34 s (1 s à la tronçonneuse)
+Une palette cassée = Bloodlust perdue pour le tueur
+Portes
+20 s d'ouverture ; alimentées quand les 5 gens sont
+finis
+Adrenaline, Hope, Wake Up! se déclenchent ici
+End Game Collapse
+120 s, ralenti de moitié si un survivant est au sol ou
+accroché
+La trappe fermée le déclenche aussi
+Totems
+5 par partie ; purification 14 s ; bénir un Boon 14 s
+(28 s sur un Hex) ; rayon d'un Boon 24 m
+Hex et Boons se disputent les mêmes totems
+Coffres
+3 par défaut (dont 1 au sous-sol) ; ouverture 8 s
+Un objet trouvé peut sauver une partie solo
+Vitesses
+survivant 4,0 m/s ; tueurs 4,6 ou 4,4 m/s ; portage
+3,68 m/s ; ramper 0,7 m/s
+Base du calcul de distance
+Rayon de terreur
+32 m (tueurs 115 %), 24 m (110 %), exceptions
+nombreuses
+Sa taille dit souvent quel tueur vous affrontez
+Fenêtres de vault : l'élan fait toute la différence.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+COMPRENDRE LE JEU EN PROFONDEUR
+11
+
+=====PAGE 12=====
+Les Diminishing Returns (depuis la 9.6.0)
+Quand plusieurs effets de même nature s'appliquent en même temps (vitesse de réparation, de soin, Haste, Hindered,
+vitesse de régression…), le plus fort compte à 100 %, le deuxième à 50 %, le troisième à 25 %, le quatrième à 12,5 %, les
+suivants à 5 %. Les add-ons d'objets et de pouvoirs ne sont pas concernés.
+Empiler quatre perks sur la même statistique est devenu un piège.
+• Côté survivant : un build Prove Thyself + Déjà Vu + Resilience + Hyperfocus perd beaucoup de valeur. Mettez la vitesse
+dans les add-ons (Socket Swivels, Clean Rag, Brand New Part, Medical Scissors) et gardez vos perks pour d'autres
+catégories.
+• Côté tueur : Ruin + Call of Brine + Overcharge + Lay Waste (tous des accélérateurs de régression) se neutralisent. Les 
+blocages (Corrupt Intervention, Grim Embrace, Dead Man's Switch, No Holds Barred) et les pertes instantanées (Pain
+Resonance, Eruption, Surge) sont des catégories différentes : mélangez-les.
+Règle d'or des builds (les deux rôles)
+Survivant : 1 perk d'épuisement, 1 anti-tunnel, 1 d'information, 1 libre. Tueur : 1 ou 2 ralentissements de types
+différents (blocage + explosion), 1 perk d'info, 1 perk de poursuite ou de fin de partie.
+Statuts : le vocabulaire commun
+Statut
+Effet
+Côté
+Exhausted
+Empêche d'activer une perk d'épuisement ; ne se recharge pas en courant
+Survivant
+Endurance
+Le prochain coup qui vous mettrait au sol vous inflige Deep Wound à la place
+Survivant
+Deep Wound
+Vous devez vous soigner avant la fin du timer, sinon vous tombez
+Survivant
+Elusive (2026)
+Pas de grognements, de sang ni de griffures ; aura cachée au tueur
+Survivant
+Haste / Hindered
+Vitesse de déplacement augmentée / réduite
+Les deux
+Exposed
+Le prochain coup vous met au sol directement
+Survivant
+Broken
+Impossible d'être soigné au-delà de « blessé »
+Survivant
+Oblivious
+Vous n'entendez plus le rayon de terreur
+Survivant
+Blindness
+Vous ne voyez plus les auras
+Les deux
+Mangled / Haemorrhage
+Soins plus lents / la progression de soin redescend
+Survivant
+Incapacitated
+Impossible de réparer, soigner, saboter, etc.
+Survivant
+Undetectable
+Pas de rayon de terreur ni de tache rouge, aura cachée
+Tueur
+Cursed
+Vous êtes sous l'effet d'un Hex actif
+Survivant
+Heresy (Judgment)
+Skill checks piégés, peut être Exilé au sol
+Survivant
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+COMPRENDRE LE JEU EN PROFONDEUR
+12
+
+=====PAGE 13=====
+Matchmaking, MMR et grades
+• Grades (Ash → Iridescent) : ils ne reflètent que votre activité, se réinitialisent le 13 de chaque mois et n'ont aucun lien
+avec le MMR.
+• MMR : entièrement refondu au patch 10.1.0 (août 2026, remise à zéro générale). Il ne dépend plus seulement des kills
+et des évasions, mais aussi des actions en partie. Le MMR survivant est commun à tous vos personnages ; le MMR tueur
+est propre à chaque tueur. Le temps d'attente reste prioritaire sur la précision, donc des écarts de niveau restent
+fréquents.
+• Objectif d'équilibrage de Behaviour : environ 60 % de kills et 40 % d'évasions en moyenne. Les statistiques officielles
+2026 montrent environ 47 % d'évasion au haut MMR contre 43 % en moyenne.
+• SWF vs solo : un groupe en vocal s'échappe en moyenne environ 3 points de plus qu'un joueur solo, et environ 8 points
+de plus dans le top 5 % du MMR. Les duos sont de loin la forme de SWF la plus courante ; les groupes de quatre sont
+rares.
+Ce que disent les données sur « ce qui fait gagner »
+Les statistiques communautaires (NightLight, parties envoyées par des joueurs investis, septembre 2026) donnent des
+tendances robustes, même si l'échantillon est biaisé :
+1. La vitesse des générateurs l'emporte sur la poursuite pure. Les builds orientés générateurs et skill checks (Déjà Vu,
+Stake Out, Hyperfocus, Built to Last) affichent environ 37 à 45 % d'évasion, contre environ 28 % pour le build de
+poursuite le plus joué (Lithe, Windows, Resilience, Finesse). Une belle poursuite ne sert à rien si personne ne répare
+pendant ce temps.
+2. Éviter le 3-gen est une priorité : Déjà Vu est la 3e perk survivant la plus jouée.
+3. Côté tueur, la régression par explosions et blocages domine : le build Pain Resonance + Pop + Eruption + Corrupt
+Intervention tourne autour de 75 % de kills sur NightLight.
+4. Les cartes intérieures ou petites favorisent le tueur (Hawkins, Midwich, Ormond Lake Mine, Forgotten Ruins), les
+cartes d'Autohaven, Badham et Coldwind favorisent les survivants.
+5. Le choix du survivant n'a aucun effet mécanique : les taux d'évasion par personnage reflètent qui les joue, pas le
+personnage.
+Les erreurs qui plafonnent un joueur intermédiaire
+Côté survivant
+• Courir vers les autres survivants pendant une poursuite (vous leur « donnez » le tueur).
+• Se soigner systématiquement dès qu'on est blessé, même contre un tueur qui one-shot ou quand un générateur est à
+80 %.
+• Décrocher sous les yeux du tueur, ou décrocher à deux au lieu d'un.
+• Réparer les générateurs « faciles » éloignés et laisser trois générateurs collés pour la fin (3-gen).
+• Jeter toutes les palettes d'un coup en début de partie, puis mourir en dead zone.
+• Faire un générateur pendant que Will to Live ou Off the Record sont actives (vous les désactivez).
+• Sortir du casier, du tile ou du coin sans regarder où est le tueur.
+Côté tueur
+• Poursuivre 2 minutes le meilleur looper pendant que trois générateurs tombent.
+• Casser toutes les palettes, y compris les palettes faibles qu'on pouvait contourner.
+• Camper un crochet à moins de 16 m (la jauge anti-camp décroche le survivant pour vous).
+• Frapper un survivant qui vient d'être décroché (il a Endurance : vous perdez un coup pour rien).
+• Frapper des générateurs à 10 % (vous gaspillez un des 8 « regression events »).
+• Laisser les 4 survivants au sol en même temps (ils peuvent abandonner, mais vous perdez les accrochages et les BP).
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+COMPRENDRE LE JEU EN PROFONDEUR
+13
+
+=====PAGE 14=====
+CHAPITRE 2
+2. Survivant : chase, loops et tiles
+Une poursuite réussie ne se mesure pas au spectacle mais au temps volé au tueur pour un minimum de ressources
+consommées (palettes, santé, fenêtres). Ce chapitre décrit chaque type de tile, comment le boucler, comment le tueur le
+contre, puis la théorie de chase qui relie le tout.
+Les quatre niveaux de force d'un tile
+Force
+Définition
+Exemples
+Réflexe
+God
+Impossible à mindgamer : le tueur doit casser
+ou abandonner
+Fenêtre du shack bien jouée, « main
+window », god pallets de maze
+Garder la palette pour la fin,
+faire tourner le tueur
+Safe
+Oblige le tueur à respecter la palette ou à la
+casser, avec un mindgame possible
+Jungle gym long wall, 4-lane outside,
+debris gym
+Boucler la fenêtre, jeter la
+palette au bon moment
+Pseudo-safe
+Safe seulement si le tueur ne voit pas
+par-dessus
+Murets bas (Cow Tree, Wreckers'), T-L
+Jouer la ligne de vue, partir
+tôt
+Unsafe / filler
+Trop court pour boucler
+Arbre + rocher, voiture seule, balle de
+foin
+Jeter pour gagner de la
+distance ou stun, puis partir
+Les tiles génériques
+Killer Shack (safe à god)
+Petite cabane d'un seul niveau présente sur la plupart des cartes extérieures : deux portes (dont une avec la palette), une
+fenêtre sur un long mur, deux casiers, parfois l'escalier du sous-sol.
+La « shack loop » : tourner à l'extérieur, vaulter quand le tueur s'engage, sortir par la porte opposée.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : CHASE, LOOPS ET TILES
+14
+
+=====PAGE 15=====
+• Survivant : tournez autour de l'extérieur en vous éloignant du tueur, entrez par la porte la plus éloignée de la fenêtre et
+ne vaultez que quand il s'engage vers la porte opposée. Faites au moins deux tours de fenêtre avant de toucher à la
+palette. Au 3e vault, la fenêtre se bloque : jouez alors la palette puis partez vers le tile suivant.
+• Tueur : entrez par la porte à palette pour casser le cycle, surveillez les coins (double-back), masquez votre direction, ou
+forcez la palette tôt pour la casser. La plupart des tueurs sans pouvoir perdent du temps au shack : Bamboozle bloque la
+fenêtre.
+Jungle gym (safe)
+Un mur en L et un mur en T face à face, avec une fenêtre et une palette sur des côtés opposés. Le « long wall » (fenêtre
+sur un mur long) est bien plus fort que le « short wall ».
+Jungle gym : boucler côté fenêtre, garder la palette.
+• Survivant : entrez par un côté, vaultez la fenêtre dès qu'elle est safe (tueur derrière vous dans le tile), faites le tour par
+l'extérieur. Gardez la palette pour le moment où le tueur coupe par l'intérieur. Quittez le tile quand la fenêtre est
+bloquée, la palette cassée ou le tueur posté au centre.
+• Tueur : restez au milieu du tile, ne suivez pas en rond. Attendez le retour au coin (fenêtre ou palette), bloquez l'accès à
+la fenêtre, faites une fausse avance sur la palette.
+T-L walls (moyen, sans palette)
+Un mur en T et un mur en L, chacun avec une fenêtre, pas de palette.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : CHASE, LOOPS ET TILES
+15
+
+=====PAGE 16=====
+T-L : serpenter entre les deux murs, partir quand le tueur coupe par le centre.
+• Enchaînez les vaults rapides en serpentant (souvent dans le sens horaire). Le T est généralement plus sûr que le L.
+Quand le tueur coupe par le centre, c'est un 50/50 : partez pendant qu'il n'a plus de ligne de vue.
+• Côté tueur : faites un « S » entre les murs pour attraper la sortie de vault.
+4-lane (safe à fort)
+Quatre murs parallèles, une fenêtre et une palette. « Outside » (fenêtre sur un mur extérieur) est plus fort que « inside ».
+Absent de Coldwind et de Withered Isle.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : CHASE, LOOPS ET TILES
+16
+
+=====PAGE 17=====
+4-lane : les couloirs cassent la ligne de vue.
+Fillers et pallet gym (unsafe à moyen)
+À gauche : un filler se jette puis se quitte. À droite : le pallet gym se boucle tant que la palette reste safe.
+• Filler (arbre + rocher, voiture, balles de foin, tronc) : palette courte. Pré-jetez si le tueur est proche pour garder la
+distance, ou jetez pour stun, puis partez. Tourner autour coûte un coup.
+• Pallet gym : un long mur en C et un court mur en L avec toujours une palette entre les deux. Faible une fois la palette
+cassée.
+Autres gyms à reconnaître
+Tile
+Où
+Géométrie
+Force
+Debris pile gym
+MacMillan, Red Forest,
+Yamaoka, Ormond
+Deux murs parallèles avec débris : fenêtre à gauche, palette à
+droite
+Safe
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : CHASE, LOOPS ET TILES
+17
+
+=====PAGE 18=====
+Tile
+Où
+Géométrie
+Force
+Locker gym
+Red Forest, Ormond
+Mur courbe avec 5 casiers, mur central avec fenêtre, palette
+entre segments
+Moyen
+Labyrinth gym
+Yamaoka, Ormond,
+Withered Isle
+5 entrées ; « Wolfpack » (fenêtre et palette alignées, fort) ou
+« Lone Wolf » (séparées)
+Moyen à fort
+Variant gym
+Plusieurs royaumes
+5 segments en C et en Y ; fenêtre à gauche, palette entre centre
+et droite
+Moyen
+Trash pile gym
+Plusieurs
+Long mur + fenêtre + palette bien placée
+Fort
+Double window gym
+Plusieurs
+2 fenêtres, pas de palette
+Faible
+Small-wall gym
+Plusieurs
+Petits murs
+Très faible
+Western / sandwich
+gym
+Dead Dawg Saloon
+2 fenêtres + palette + mur cassable / 2 murs cassables autour
+d'une fenêtre
+Moyen à fort
+Edge tiles (Z, U)
+Bords de carte
+Petits hauts murs
+Très faibles
+Main buildings (bâtiments principaux)
+Chaque bâtiment principal a une « main window » souvent god, des palettes intérieures et parfois des drops depuis
+l'étage.
+Main building : tourner autour du mur central pour atteindre la fenêtre ; à l'étage, sauter quand le tueur monte.
+• Mains réputés les plus forts : Disturbed Ward, la Chapelle (god window), Ironworks, Garden of Joy (fenêtre de la salle à
+manger), Badham Preschool, Mother's Dwelling.
+• Règle des drops : ne montez que s'il existe un drop libre. Descendez au moment où le tueur monte l'escalier : il perd 3 à
+5 s à refaire le trajet.
+Tiles propres à certains royaumes
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : CHASE, LOOPS ET TILES
+18
+
+=====PAGE 19=====
+Cow Tree : des murets bas, donc une boucle lisible pour le tueur.
+• Cow Tree (Coldwind) : murets de pierre, 1 fenêtre + 1 palette. Fenêtre d'abord, palette ensuite.
+• Harvester (Coldwind) : montée par la rampe ; le vault de droite retombe sur une balle de foin (allers-retours possibles),
+celui de gauche est à sens unique.
+• Maïs : pas de loop, mais la ligne de vue est cassée. Changer de direction ou s'accroupir dans le maïs est redoutable
+contre les tueurs sans lecture d'aura.
+• Coal Tower (MacMillan) : grande tour à hauts murs, se joue comme un shack. Lumber pile : long mur avec palette.
+• Car piles (Autohaven) : hauts murs, excellent blocage de ligne de vue. Les voitures seules avec palette sont des fillers. Le
+bus scolaire se boucle en longueur.
+• Bateaux du Swamp : Pale Rose (ponts et escaliers extérieurs), Shrimp Boat (rampes et vaults). Attention aux corbeaux
+qui trahissent votre position.
+Enchaîner les tiles (tile chaining)
+La chase ne se gagne pas sur un tile mais sur une suite de tiles. Pendant que vous bouclez le premier, repérez déjà le
+suivant, puis partez au moment où le tueur perd la ligne de vue.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : CHASE, LOOPS ET TILES
+19
+
+=====PAGE 20=====
+Tile chaining : ne jamais partir vers une dead zone.
+Les zones où plusieurs tiles se touchent (gym + shack, gym + gym, hay loops qui mènent au shack) sont appelées « double
+gym » ou « pallet chains ». Ce sont elles qui rendent une carte favorable aux survivants.
+Théorie de chase : les 14 principes
+1. Distance et hitbox : gardez la distance maximale avec tous les chemins possibles du tueur, pas seulement celui qu'il
+emprunte. Sur une loop asymétrique, jouez le côté long pour éviter le double-back pendant un vault.
+2. Coller le tile : longez le mur au plus près, caméra dans l'axe, sans vous accrocher aux obstacles.
+3. Lire le tile avant d'y arriver : trois questions. Peut-il me toucher en faisant le tour ? Est-ce que je vois ou entends sa
+direction ? Où vais-je ensuite ?
+4. Enchaîner vers le prochain tile, jamais vers une dead zone.
+5. Pré-jeter ou greed : jetez si ne pas jeter vous coûte un coup, une mise au sol ou un body block (surtout blessé,
+Exposed, ou contre un pouvoir rapide). Greedez (un tour de plus) seulement si vous atteignez la palette avant le coup.
+Une palette unsafe sert à gagner de la distance ; une god pallet se garde (sauf dernier crochet ou fin de partie).
+6. Quitter un tile quand la fenêtre est bloquée, la palette cassée, le tueur posté au centre ou sa Bloodlust trop haute.
+Partez hors de sa ligne de vue, tenez droit vers le tile suivant sans vous retourner inutilement.
+7. Fast vault : au moins 2,5 m de course droite vers la fenêtre. Un vault en angle devient « moyen » (0,9 s) et expose au
+coup.
+8. Bloodlust : après ~15 s sans palette cassée, le tueur accélère. Une palette jetée qu'il doit casser remet sa Bloodlust à
+zéro.
+9. Ligne de vue et mindgame : regardez le tueur à travers les trous du tile en courant. S'il disparaît derrière un mur, c'est
+un 50/50 : ne foncez pas vers lui. Contre un tueur qui marche à reculons, fiez-vous à sa tache rouge (sauf tueur furtif).
+10. Tenir W (hold W) : contre les tueurs anti-loop ou en terrain ouvert, la distance brute est votre meilleure ressource.
+Ne bouclez que quand il arrive.
+11. Shift-W : partez en ligne droite dès qu'il perd la ligne de vue. Dans le maïs ou l'herbe haute, combinez avec un
+changement de direction.
+12. 360 : un tour sur soi-même pour faire rater un tueur trop proche. Utile contre les tueurs M1 en terrain ouvert, risqué
+contre les tueurs à distance.
+13. Après un coup : profitez de l'accélération pour atteindre un tile, ne vaultez pas immédiatement.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : CHASE, LOOPS ET TILES
+20
+
+=====PAGE 21=====
+14. Position d'objectif : emmenez la poursuite loin des générateurs à finir et loin des crochets proches de ces
+générateurs. Un coin de carte vide est un bon endroit pour « perdre » du temps au tueur.
+Le mindgame de palette le plus courant : la fausse avance.
+Le test des 5 secondes
+Toutes les 5 secondes de poursuite, posez-vous une seule question : « Si je continue ce que je fais, où serai-je dans 5
+secondes, et le tueur pourra-t-il me toucher là ? » Si la réponse est oui, changez de plan maintenant, pas dans 5
+secondes.
+Contre les archétypes de tueurs
+Archétype
+Tueurs
+Ce qui marche
+Ce qui ne marche pas
+Distance
+Huntress, Deathslinger, Trickster,
+Executioner, Artist, Plague (vomi
+corrompu), Krasue (glandes), The
+Judgment
+Tight loops à hauts murs, casser la ligne de vue en
+permanence, varier le timing des vaults, greeder
+pour provoquer des tirs ratés
+Terrain ouvert, murets bas,
+lignes droites
+Mobilité
+Nurse, Blight, Hillbilly, Spirit,
+Mastermind, Ghoul, Krasue (tête),
+Oni
+Casser la ligne de vue, obstacles hauts et étages,
+changer de direction au dernier moment, pré-jeter
+contre les dashs
+Les palettes contre la Nurse
+(inutiles), courir en ligne
+droite dans l'open
+Furtifs
+Shape, Ghost Face, Pig, Wraith, Good
+Guy, Slasher, Dredge
+Écouter (respiration, cloche, pas), regarder
+régulièrement autour de soi, ne pas nourrir le stalk,
+révéler Ghost Face en le regardant
+Réparer sans jamais lever la
+caméra
+Anti-loop
+Artist, Dredge, Knight, Skull
+Merchant, Singularity, Legion,
+Nemesis, Houndmaster, Xenomorph,
+Doctor, Clown
+Pré-jeter avant que le pouvoir monte, tenir W, se
+séparer de l'équipe (anti-multi-coup), soigner vite
+contre les infections
+Greeder les palettes, rester
+groupés
+Contrôle / pièges
+Trapper, Hag, Nightmare,
+Animatronic, Twins, Cenobite,
+Onryō, The First
+Désarmer / nettoyer autour des générateurs et
+crochets, jouer des zones « vierges », s'accroupir
+sur les pièges de la Hag
+Retourner sur un tile déjà
+piégé
+Chaque fiche tueur (chapitre 8) détaille le contre-jeu spécifique.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : CHASE, LOOPS ET TILES
+21

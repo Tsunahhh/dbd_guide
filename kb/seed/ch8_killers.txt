@@ -1,0 +1,1953 @@
+
+=====PAGE 55=====
+CHAPITRE 8
+8. Les 44 tueurs
+Ce chapitre donne une vue d'ensemble du roster puis une fiche par tueur : statistiques de base, pouvoir actuel, façon de le
+jouer, façon de le contrer, meilleurs add-ons, build recommandé, perks enseignables et tier. Les fiches servent dans les
+deux sens : pour apprendre un tueur, et pour savoir quoi faire quand vous l'affrontez.
+Vue d'ensemble : tier list des tueurs (septembre 2026)
+Synthèse de plusieurs tier lists récentes (Gfinity et timesaver en septembre 2026, PCGamesN, propelrc), des statistiques
+officielles Behaviour (octobre 2025 à février 2026) et des taux de kill NightLight. La difficulté indique l'effort nécessaire
+pour exploiter le tueur à haut niveau.
+#
+Tueur
+Tier
+Archétype
+Difficulté
+4
+The Nurse
+S
+Mobilité (téléportation)
+Très élevée
+21
+The Blight
+S
+Mobilité (ruées)
+Très élevée
+3
+The Hillbilly
+S
+Mobilité + coup unique
+Élevée
+13
+The Spirit
+S
+Mobilité + mindgame
+Élevée
+39
+The Ghoul
+S- / A+
+Mobilité (bonds)
+Moyenne
+41
+The Krasue
+S- / A+
+Distance + mobilité (tête volante)
+Élevée
+8
+The Huntress
+A
+Distance (hachettes)
+Moyenne à élevée
+20
+The Executioner
+A
+Distance + zone
+Élevée
+29
+The Mastermind
+A
+Mobilité + infection
+Élevée
+36
+The Lich
+A
+Sorts, info, mobilité
+Élevée
+37
+The Dark Lord
+A
+Formes multiples
+Élevée
+42
+The First
+A
+Contrôle + téléportation
+Moyenne à élevée
+43
+The Slasher
+A
+Furtif + projectiles
+Moyenne
+26
+The Artist
+A-
+Distance + info
+Élevée
+33
+The Xenomorph
+A-
+Anti-loop + tunnels
+Moyenne
+34
+The Good Guy
+A-
+Furtif + mobilité
+Moyenne
+40
+The Animatronic
+A-
+Distance + portes
+Moyenne
+10
+The Nightmare
+B+
+Contrôle + téléportation
+Moyenne
+44
+The Judgment
+B+
+Distance + Exil
+Moyenne
+2
+The Wraith
+B
+Furtif + mobilité
+Faible
+18
+The Oni
+B
+Coup unique + mobilité
+Moyenne
+24
+The Nemesis
+B
+Anti-loop + zombies
+Moyenne
+28
+The Dredge
+B
+Téléportation + obscurité
+Moyenne
+30
+The Knight
+B
+Anti-loop (gardes)
+Moyenne
+32
+The Singularity
+B
+Téléportation + distance
+Élevée
+35
+The Unknown
+B
+Distance + furtif
+Moyenne
+38
+The Houndmaster
+B
+Anti-loop (chien)
+Moyenne
+7
+The Doctor
+B-
+Anti-loop + info
+Faible
+15
+The Plague
+B-
+Infection + distance
+Moyenne
+16
+The Ghost Face
+B- / C+
+Furtif
+Moyenne
+23
+The Trickster
+B-
+Distance (lames)
+Moyenne
+6
+The Hag
+C
+Pièges + téléportation
+Moyenne
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+55
+
+=====PAGE 56=====
+#
+Tueur
+Tier
+Archétype
+Difficulté
+11
+The Pig
+C
+Furtif + pièges à tête
+Moyenne
+12
+The Clown
+C
+Anti-loop (vitesse)
+Faible
+14
+The Legion
+C
+Blessures multiples
+Faible
+17
+The Demogorgon
+C
+Mobilité + anti-loop
+Moyenne
+19
+The Deathslinger
+C
+Distance (harpon)
+Élevée
+22
+The Twins
+C
+Contrôle + slug
+Très élevée
+25
+The Cenobite
+C
+Contrôle (chaînes)
+Élevée
+27
+The Onryō
+C
+Téléportation + condamnation
+Moyenne
+9
+The Cannibal
+C / D
+Coup unique (tronçonneuse)
+Faible
+5
+The Shape
+C / D
+Furtif + coup unique
+Moyenne
+1
+The Trapper
+D
+Pièges
+Faible à moyenne
+31
+The Skull Merchant
+D
+Zone (drones)
+Moyenne
+Lire un tier de tueur
+Le tier mesure le plafond d'un tueur face à des survivants compétents. Un tueur C bien maîtrisé bat un tueur S mal joué.
+Certains tueurs « faibles » ont d'ailleurs d'excellents taux de kill au MMR moyen (Onryō, Cenobite, Freddy, Lich tous
+MMR confondus d'après Behaviour), parce qu'ils punissent durement les erreurs courantes.
+Données officielles Behaviour (octobre 2025 à février 2026) : au MMR élevé (top 18 %), les meilleurs taux de kill sont ceux
+de la Krasue, de The First, des Twins, du Ghoul (plus de 60 %) et du Lich. Tous niveaux confondus : Lich, Nightmare, Onryō,
+Dredge et Cenobite. La Huntress est le tueur le plus joué.
+À venir
+• Art the Clown (Terrifier), 45e tueur, annoncé pour novembre 2026.
+• Une refonte de la Skull Merchant est confirmée pour 2027.
+1. The Trapper (Evan MacMillan)
+• Vitesse : 4,6 m/s. RT : 32 m. Taille : grand. DLC : jeu de base (2016).
+• Pouvoir – Bear Trap :
+– Il commence avec 2 pièges en main et peut en porter 2 (plus avec des add-ons). 8 pièges désarmés sont répartis sur la
+carte.
+– Poser un piège prend 2,5 s et donne +7,5 % de Haste pendant 5 s.
+– Un survivant piégé est immobilisé et blessé s'il était en bonne santé. Il se libère par tentatives de 1,8 s, avec ~16,7 % de
+réussite par essai, sans limite pratique.
+– Désarmer un piège prend 3,5 s. Le Trapper peut lui-même tomber dans ses pièges (3 s) une fois la courte grâce après la
+pose écoulée.
+– Le patch 9.5 a rendu la hitbox des pièges cohérente et corrigé des exploits de placement.
+• Comment le jouer :
+1. Commencez la partie en ramassant les pièges proches du 3-gen que vous comptez défendre. Ne traversez pas la carte
+pour aller en chercher.
+2. Posez vos pièges en plein chase aux points de passage obligés d'une boucle : entrée de fenêtre du shack, sortie de
+palette, coin de jungle gym. Le survivant doit alors soit changer de trajet, soit tomber dans le piège.
+3. Cachez les pièges dans l'herbe haute et dans les zones sombres. L'add-on Tar Bottle les rend beaucoup moins visibles.
+4. Repiégez l'hameçon en diagonale ou la sortie la plus probable (sans camper, à cause de l'anti-camp). Le sauveteur perd
+du temps à désarmer.
+5. Trapper Bag vous évite de revenir chercher des pièges entre deux chases.
+6. En fin de partie, piégez les deux portes de sortie et la zone de la trappe.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+56
+
+=====PAGE 57=====
+• Comment le contrer :
+1. Regardez vos pieds dans l'herbe haute et sur les chemins étroits. Crouchez pour mieux voir sous la végétation.
+2. Désarmez ou sabotez les pièges quand le Trapper est en chase ailleurs, surtout près des gens et des hameçons.
+3. Ne vous posez pas sur une boucle déjà piégée. Changez de tile tôt : il met du temps à reposer ses pièges.
+4. Il est faible face aux boucles longues et à la pression des gens. Faites tourner les gens rapidement.
+5. Perks utiles : Sabotage/Saboteur, Lithe/Sprint Burst pour les longues chases, Deliverance. Botany Knowledge aide à
+réduire le temps passé au sol.
+• Meilleurs add-ons : Trapper Bag (+1 piège porté), Tar Bottle (pièges assombris), Honing Stone (un survivant qui se libère
+tombe à terre, ultra rare), Iridescent Stone (réarme un piège au hasard toutes les 30 s).
+• Build recommandé : Agitation, Brutal Strength, Corrupt Intervention, Hex: No One Escapes Death (NOED). Variante
+générique : Pain Resonance / Pop à la place de NOED. Sur NightLight, les perks les plus joués sont Agitation, Brutal
+Strength, Corrupt Intervention, Iron Grasp et NOED ; NOED a le meilleur kill rate (52 %).
+• Perks enseignables :
+– Unnerving Presence : dans votre RT, les skill checks de réparation et de soin apparaissent plus souvent, avec une zone de
+réussite réduite.
+– Brutal Strength : vous cassez palettes, murs et générateurs plus vite (+10 à 20 %).
+– Agitation : vous portez les survivants plus vite, et votre RT s'agrandit pendant le portage.
+• Tier : D (kill rate NightLight 38,3 %). Le tueur le plus pénalisé par les bonnes équipes, mais très pédagogique.
+2. The Wraith (Philip Ojomo)
+• Vitesse : 4,6 m/s ; 6,0 m/s occulté. RT : 32 m. Taille : grand. DLC : jeu de base (2016).
+• Pouvoir – Wailing Bell :
+– S'occulter prend ~1,5 s. Occulté, le Wraith est Undetectable et se déplace à 6,0 m/s. Il est invisible au-delà de 20 m, et on
+voit un léger scintillement en dessous.
+– Il ne peut pas attaquer occulté.
+– Se désocculter fait sonner la cloche, qui s'entend dans toute la carte. Pendant la désoccultation il ralentit fortement ; en
+sortie, il obtient un sursaut de vitesse (~6,9 m/s pendant 1 s).
+– Toucher un survivant dans les 5 s qui suivent la désoccultation compte comme une "Surprise Attack". Plusieurs add-ons
+s'appuient dessus.
+– Patch 9.5 : l'add-on "The Serpent – Soot" désocculte aussi le Wraith quand il casse une palette ou un mur, ou quand il
+abîme un générateur.
+• Comment le jouer :
+1. Déplacez-vous toujours occulté entre les chases. Votre avantage principal est la vitesse de 6 m/s.
+2. Désoccultez-vous hors de la vue du survivant, derrière un mur ou un rocher. Le sursaut de sortie rattrape souvent le hit
+au lieu de perdre la chase.
+3. Désocculter juste avant une palette ou une fenêtre sert de mindgame : le survivant ne sait pas si vous allez venir.
+4. Prenez Windstorm (vitesse occulté) et un add-on qui accélère la désoccultation, comme "Swift Hunt" ou Blink selon les
+versions. C'est le cœur de la version "rush".
+5. Faites des aller-retours rapides d'un gen à l'autre pour casser les générateurs : il excelle en pression de carte.
+• Comment le contrer :
+1. Écoutez la cloche. Elle indique qu'il se désocculte, donc qu'il va attaquer dans les 1 à 2 s.
+2. Guettez le scintillement et le son de respiration dans les 20 m.
+3. Une lampe ou un pétard sur un Wraith en train de se désocculter peut l'interrompre et l'aveugler, selon les réglages
+actuels.
+4. Face à lui, les boucles fortes restent efficaces. Laissez-lui le moins de temps possible hors chase, puisqu'il gagne du
+terrain en traversée.
+5. Perks : Spine Chill/Alert pour l'info, Windows of Opportunity, Sprint Burst (2 s depuis le 10.1.0).
+• Meilleurs add-ons : "Windstorm – Blood" (+9 % de vitesse occulté), "Windstorm – White/Mud", "Swift Hunt – Blood"
+(désoccultation plus rapide), Bone Clapper (la cloche n'est plus localisable).
+• Build recommandé : Pain Resonance, Pop Goes the Weasel, Bamboozle, Grim Embrace ou Lethal Pursuer. Sur
+NightLight, les perks les plus joués sont Bamboozle, Pain Resonance, Sloppy Butcher, Pop et NOED.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+57
+
+=====PAGE 58=====
+• Perks enseignables :
+– Bloodhound : les traces de sang sont rouge vif et restent plus longtemps.
+– Predator : quand un survivant vous échappe en chase, son aura est révélée brièvement (avec un temps de recharge).
+– Shadowborn : être aveuglé vous donne de la Haste pendant 10 s.
+• Tier : B (consensus de sept. 2026). Il était en A chez PCGamesN et propelrc. Kill rate NightLight 35,6 %, bas.
+3. The Hillbilly (Max Thompson Jr.)
+• Vitesse : 4,6 m/s ; sprint à la tronçonneuse ~10,1 m/s. RT : 40 m. Taille : grand. DLC : jeu de base (2016).
+• Pouvoir – Chainsaw :
+– Il faut 2,5 s de charge avant de sprinter. Un hit à la tronçonneuse met directement à terre, car il enlève deux états de
+santé.
+– La jauge d'Overdrive monte pendant les charges et les sprints. Quand elle est pleine, il obtient 20 s de bonus : charge
+plus rapide, recharge plus courte et sprint plus rapide (~12 m/s).
+– La jauge redescend après 8 s d'inactivité.
+– Le temps de récupération est de ~2,5 à 2,7 s. Le virage est très vif au début du sprint, puis devient très lent.
+• Comment le jouer :
+1. Utilisez le sprint comme moyen de traversée, en l'annulant avant un obstacle. Gardez l'Overdrive chargé pour les chases.
+2. Maîtrisez les curves (virages serrés au début du sprint) : c'est ce qui distingue un Billy de haut niveau.
+3. Ne chargez pas en ligne droite vers un survivant qui a une palette à côté. Chargez en angle, ou forcez-le à lâcher la
+palette d'abord.
+4. Contre un survivant blessé, la tronçonneuse ne sert pas plus qu'un coup normal. Utilisez l'attaque de base à courte
+portée.
+5. Punissez les survivants qui soignent ou qui réparent à découvert : il met à terre en un coup depuis 20 m.
+6. Add-ons de confort : Apex Muffler (silencieux hors RT) et Tuned Carburettor.
+• Comment le contrer :
+1. Restez près de murs et d'obstacles solides. Le sprint s'arrête à la collision, et un mur coupe la tronçonneuse.
+2. Suivez le son : le vrombissement de la charge vous donne ~2 s pour vous mettre à couvert.
+3. Les tiles avec de hauts murs, comme les jungle gyms et le shack, sont bonnes. Évitez les grands espaces ouverts.
+4. Tournez au dernier moment, perpendiculairement à sa trajectoire. Au milieu du sprint, il ne peut plus suivre un virage
+serré.
+5. Perks : Lithe/Dead Hard pour gagner de la distance, Resilience, Iron Will. Un survivant blessé est moins exposé à la
+tronçonneuse.
+• Meilleurs add-ons : Apex Muffler, Tuned Carburettor (charge +20 %), High-Speed Idler Screw, et LoPro Chains, qui
+permet de traverser les palettes et les murs cassables en sprint.
+• Build recommandé : Pain Resonance, Pop Goes the Weasel, Barbecue & Chili, Lethal Pursuer. Autre option pour les
+meilleurs joueurs : Bamboozle. Sur NightLight, son trio d'origine Enduring, Lightborn, Tinkerer atteint 65 % de kill rate.
+• Perks enseignables :
+– Enduring : les étourdissements de palette durent 40 à 50 % moins longtemps.
+– Lightborn : immunité aux lampes torches, et révèle l'aura de ceux qui essaient de vous aveugler.
+– Tinkerer : un générateur arrivé à 70 % vous est signalé, et vous devenez Undetectable pendant 12 à 16 s.
+• Tier : S (bas de S selon les listes). Kill rate NightLight 52,9 %.
+4. The Nurse (Sally Smithson)
+• Vitesse : 3,85 m/s, plus lente qu'un tueur "4,4" : exception du jeu. RT : 32 m. Taille : moyenne. DLC : The Last Breath
+(2016).
+• Pouvoir – Spencer's Last Breath :
+– Elle a 2 charges de blink (téléportation) qui traversent murs et obstacles.
+– Le premier blink porte jusqu'à ~20 m, avec 2 s de charge pour la distance maximale.
+– Elle peut enchaîner un deuxième blink de ~12 m maximum dans une fenêtre de 1,5 s.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+58
+
+=====PAGE 59=====
+– Ensuite elle est fatiguée 2 à 3 s : 2 s de base, +0,5 s par blink enchaîné, +1 s si elle rate son attaque.
+– Patch 9.6.0 : l'add-on Heavy Panting a été nerfé. Le 10.1 a corrigé des blinks dans des zones hors carte.
+• Comment le jouer :
+1. Apprenez la distance exacte de chaque temps de charge. Le jeu entier repose sur l'estimation des distances.
+2. Visez où le survivant sera, pas où il est. Après le premier blink, gardez le second pour corriger.
+3. Blinkez au-dessus des étages (bâtiments à étages, Main du Chalet) en visant les escaliers, pour ne pas atterrir au mauvais
+niveau.
+4. Faites des blinks courts en chase proche. Un blink complet donne trop d'info au survivant.
+5. Prenez des perks d'info (Nowhere to Hide, Lethal Pursuer, Barbecue) : sa vitesse de base est trop faible pour chercher les
+survivants à pied.
+6. Add-ons de base : les deux "Last Breath", ou Matchbox et Bad Man's Last Breath selon le style.
+• Comment le contrer :
+1. Cassez la ligne de vue (LOS) : sans info visuelle, elle doit deviner. Les obstacles hauts et les étages sont vos alliés.
+2. Écoutez le son de sa charge. Au premier blink, changez de direction ou revenez sur vos pas : un double-back la fait
+blinker au mauvais endroit.
+3. N'utilisez pas les palettes : elle les ignore. Les fenêtres ne comptent pas non plus. Seule la distance compte.
+4. Pendant sa fatigue, vous gagnez 2 à 3 s. C'est le moment de vous repositionner.
+5. Perks : Distortion ou Calm Spirit contre les perks d'info, Lucky Break, Dead Hard (qui peut valider l'esquive), Sprint Burst.
+Réparez vite, ses chases durent plus longtemps quand elle joue mal.
+• Meilleurs add-ons : Matchbox (charge de blink plus rapide), Bad Man's Last Breath, Ataxic Respiration (portée),
+Campbell's Last Breath (blink automatique enchaîné).
+• Build recommandé : Nowhere to Hide, Lethal Pursuer, Pain Resonance, Eruption. C'est le build le plus joué sur
+NightLight (57,9 % de kills). Variante : Barbecue & Chili à la place d'Eruption.
+• Perks enseignables :
+– Stridor : vous entendez plus fort les grognements et la respiration des survivants.
+– Thanatophobia : chaque survivant blessé, au sol ou accroché ralentit la réparation et le soin de tous.
+– A Nurse's Calling : révèle l'aura de ceux qui se soignent entre 28 et 32 m. Depuis le 10.1, elle couvre toutes les
+interactions de soin.
+• Tier : S (n°1 du jeu au plafond de compétence). Kill rate NightLight 45,6 % : sa difficulté fait baisser le chiffre.
+5. The Shape (Michael Myers)
+• Vitesse :
+– Stalker Mode : 4,2 m/s, sans RT.
+– Pursuer Mode : 4,6 m/s, RT 16 m.
+– Evil Incarnate : 4,6 m/s, RT 32 m.
+• Taille : grand. DLC : Halloween (2016), retiré de la vente en janv. 2026.
+• Pouvoir – Evil Within (3 modes) :
+– Stalker : il est Undetectable et peut maintenir le bouton du pouvoir pour stalker un survivant. Sa vitesse tombe à 60 %
+pendant le stalk. La portée est de 32 m, la distance n'influence plus la vitesse de stalk, et la jauge redescend après 20 s
+d'inactivité.
+– Pursuer : il y passe automatiquement quand la jauge est pleine. Il obtient une meilleure portée de lunge (+20 %) et casse,
+franchit les fenêtres et récupère des étourdissements plus vite.
+– Evil Incarnate : il l'active avec la jauge pleine, pour 60 s. Il y gagne la Slaughtering Strike : une attaque chargée jusqu'à 1,5
+s, à ~7,5 m/s, qui met à terre un survivant sain, casse palettes et murs, avec ~4 s de recharge.
+– En Evil Incarnate, il peut aussi tuer à la main un survivant qui en est à son 2e hameçon, sauf si ce survivant a Endurance.
+– Les survivants ne sont plus Exposed comme dans l'ancien Tier 3, sauf avec l'add-on Fragrant Tuft of Hair.
+– Patch 9.3.0 : la caméra de la Slaughtering Strike se contrôle comme la caméra normale.
+• Comment le jouer :
+1. Stalkez en restant caché, depuis les coins de murs. La distance n'importe plus : un stalk à 30 m vaut un stalk à 5 m.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+59
+
+=====PAGE 60=====
+2. Ne gâchez pas Evil Incarnate. Activez-le quand plusieurs survivants sont proches ou qu'un survivant en 2e hameçon est
+dans la zone.
+3. La Slaughtering Strike punit les palettes lâchées trop tôt et les murs, car elle les casse. Chargez-la quand le survivant n'a
+plus d'obstacle proche.
+4. Pursuer Mode est déjà un bon mode de chase grâce au lunge plus long. Ne restez pas en Stalker indéfiniment.
+5. Tombstone Piece et Judith's Tombstone donnent la version "kill à la main". Avec Judith's Tombstone, chaque hameçon
+remet Evil Incarnate à zéro.
+• Comment le contrer :
+1. S'il n'y a pas de RT alors qu'il est proche, il est en Stalker : cassez la ligne de vue pour ne pas remplir sa jauge.
+2. Quand le RT réapparaît (16 m), il est en Pursuer. Jouez les boucles normalement mais prudemment, car son lunge est
+plus long.
+3. En Evil Incarnate, ne lâchez pas vos palettes d'avance : sa charge les détruit. Jouez les fenêtres et les grandes boucles, et
+gagnez du temps pendant les 60 s.
+4. Endurance (Borrowed Time, Off the Record, Dead Hard selon version) protège de l'exécution en 2e hameçon.
+5. Quand vous êtes l'Obsession, sachez que Keep Them Waiting lui fait perdre des tokens s'il vous touche.
+• Meilleurs add-ons : Judith's Tombstone, Tombstone Piece (Undetectable 20 s à l'activation), Scratched Mirror (auras
+pendant le stalk), Fragrant Tuft of Hair (Exposed rendu, mais plus de Slaughtering Strike).
+• Build recommandé : Bamboozle, Pain Resonance, Corrupt Intervention, Pop Goes the Weasel. Sur NightLight, Corrupt
+Intervention atteint 66 % de kills. Variante "stealth" : Keep Them Waiting et See How They Run.
+• Perks enseignables (devenus perks généraux en 9.4.0) :
+– Keep Them Waiting (ex-Save the Best for Last) : chaque coup sur un survivant non-Obsession réduit la recharge de vos
+attaques de base. Depuis le 10.1, le bonus est de 5 % par token.
+– See How They Run (ex-Play with Your Food) : poursuivre l'Obsession sans la frapper donne des tokens de vitesse.
+– Cull the Weak (ex-Dying Light) : ralentit les soins et la récupération des survivants selon les tokens accumulés.
+• Tier : D à C. Les listes de sept. 2026 et déc. 2025 le mettent en D, alors que NightLight lui donne 47,7 % de kills et que
+c'était le tueur le plus joué début 2026 (~5,9 %). Tueur "fun et populaire" plutôt que méta.
+6. The Hag (Lisa Sherwood)
+• Vitesse : 4,4 m/s. RT : 24 m. Taille : moyenne. DLC : Of Flesh and Mud (2016).
+• Pouvoir – Blackened Catalyst :
+– Elle dessine au sol jusqu'à 10 Phantasm Traps (1,9 s chacun). Quand elle en pose un 11e, le plus ancien disparaît.
+– Un survivant qui passe à moins de ~2,7 m déclenche le piège sauf s'il est accroupi. Un fantôme de boue apparaît, lui
+tourne la caméra et émet un faux RT de 8 m.
+– Elle peut se téléporter sur un piège déclenché à moins de 48 m.
+– Les survivants peuvent effacer ses pièges accroupis (4 s) ou les éclairer à la lampe.
+• Comment le jouer :
+1. Posez vos pièges en "toile" autour du 3-gen et des hameçons, plutôt que dispersés sur la carte.
+2. En chase, dessinez sur les passages obligés d'une boucle (fenêtre, sortie de palette), puis téléportez-vous pour couper le
+survivant.
+3. Défendez les hameçons avec 2 ou 3 pièges devant (en respectant les règles anti-camp). Le sauveteur se fait punir.
+4. Mint Rag, qui permet de se téléporter sur n'importe quel piège, en fait un tueur de contrôle de zone redoutable.
+5. Ses perks Hex (Ruin, Devour Hope) se combinent bien avec Undying.
+• Comment le contrer :
+1. Crouchez en passant sur une marque de boue : vous ne la déclencherez pas.
+2. Effacez les pièges près des gens et des hameçons, en équipe.
+3. Si vous déclenchez un piège, repartez aussitôt dans l'autre direction : elle arrive dans la seconde.
+4. Elle est lente (4,4) et a une mauvaise chase sans ses pièges. Entraînez-la dans des zones "vierges".
+5. Perks et objets : lampe torche (efface les pièges), Small Game, Urban Evasion, Inner Strength/Detective's Hunch pour les
+totems.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+60
+
+=====PAGE 61=====
+• Meilleurs add-ons : Mint Rag, Rusty Shackles (pas de fantôme ni d'indication au déclenchement), Grandma's Heart,
+Disfigured Ear / Dead Hand, qui améliorent le déclenchement.
+• Build recommandé : son trio Hex, Ruin + Devour Hope + Third Seal, avec Undying (le build le plus joué, 52 % de kills).
+Version plus sûre : Pain Resonance, Grim Embrace, Pop, Sloppy Butcher.
+• Perks enseignables :
+– Hex: Devour Hope : gagne des tokens quand un survivant est décroché loin de vous. À 2 tokens vous gagnez de la vitesse,
+à 3 les survivants sont Exposed, à 5 vous pouvez tuer à la main.
+– Hex: Ruin : tant que le totem tient, les générateurs non réparés régressent tout seuls.
+– Hex: The Third Seal : les derniers survivants que vous frappez restent aveuglés en permanence tant que le totem tient.
+• Tier : C. Kill rate NightLight 42 %, pick rate 0,7 % : un des plus rares.
+7. The Doctor (Herman Carter)
+• Vitesse : 4,6 m/s. RT : 32 m. Taille : grand. DLC : Spark of Madness (2017).
+• Pouvoir – Carter's Spark :
+– La Madness a 3 paliers. Au palier I, 33 % de skill checks piégés ; au II, 66 % et des hallucinations ; au III, 100 %, des cris
+réguliers, les objets bloqués, et aucune action à barre de progression sauf décrocher.
+– Shock Therapy : une onde de choc devant lui, ~12 m, qui empêche le survivant d'agir 2,5 s : pas de vault, pas de palette.
+– Délai du Shock Therapy : 0,8 s → 0,75 s au 9.6.0 → 0,65 s au 9.6.1.
+– Static Blast : une onde sur tout son RT, avec 30 à 45 s de recharge, qui monte la Madness d'un palier. On l'évite dans un
+casier.
+• Comment le jouer :
+1. Tirez le Shock Therapy juste avant que le survivant atteigne la palette ou la fenêtre. Il ne pourra pas l'utiliser et prendra
+le coup.
+2. Depuis le buff du 9.6.1 à 0,65 s, le "choc-coup" à courte portée est beaucoup plus fiable. Enchaînez choc + attaque de
+base.
+3. Utilisez le Static Blast pour repérer tout le monde : les survivants touchés crient. Faites-le en arrivant sur une zone de
+gens.
+4. Avec Interview Tape (faisceau étroit et long) ou High Stimulus Electrode (+4 m), vous contrôlez mieux les boucles.
+5. Ajoutez du ralentissement de gens : les survivants en Madness III perdent du temps à revenir à un palier inférieur.
+• Comment le contrer :
+1. Ne jouez pas les boucles "à la palette" contre lui. Pré-lâchez ou gardez de la distance : il bloque les actions au dernier
+moment.
+2. Mettez-vous dans un casier au moment du Static Blast (le bruit de charge vous prévient), ou cassez la LOS.
+3. Faites des skill checks propres. La Madness III se "soigne" en se réveillant, mais ça coûte du temps.
+4. Il manque de mobilité : répartissez-vous sur la carte.
+5. Perks : Calm Spirit (plus de cris), Lithe, Resilience. Évitez les perks fondés sur les skill checks.
+• Meilleurs add-ons : Interview Tape, High Stimulus Electrode, "Discipline" – Carter's Notes (délai −0,1 s), Scrapped Tape.
+• Build recommandé : Distressing, Coulrophobia, Unnerving Presence, Hex: Huntress Lullaby, ou Overcharge en version
+"skill checks". Build plus polyvalent : Pain Resonance, Grim Embrace, Distressing, Lethal Pursuer. Sur NightLight,
+Overcharge est le perk le plus joué, mais Distressing atteint 44 % de kills.
+• Perks enseignables :
+– Monitor & Abuse : votre RT s'agrandit en chase et rétrécit le reste du temps.
+– Overcharge : le prochain survivant qui touche un générateur que vous avez abîmé reçoit un skill check difficile, et la
+régression s'accélère.
+– Overwhelming Presence : les survivants proches qui utilisent un objet deviennent Exhausted, et vous voyez leur aura.
+• Tier : C à B. C en sept. 2026, B chez PCGamesN, A chez propelrc après le buff du 9.6.1. Kill rate NightLight 37 %. 
+Recommandation : B- : sa force réelle a augmenté grâce au buff, mais ses joueurs perdent encore beaucoup de parties.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+61
+
+=====PAGE 62=====
+8. The Huntress (Anna)
+• Vitesse : 4,4 m/s ; 3,08 m/s pendant l'armement d'une hachette. RT : 20 m, avec une berceuse audible à 45 m. Taille :
+grande. DLC : A Lullaby for the Dark (2017, chapitre gratuit).
+• Pouvoir – Hunting Hatchets :
+– Elle porte 7 hachettes ; plus elle arme longtemps (jusqu'à la charge maximale), plus la hachette part vite et loin.
+– La hachette vole entre 25 et 40 m/s selon la charge, et suit une trajectoire en cloche : elle retombe.
+– Recharge de 2 s entre deux lancers. Elle récupère ses hachettes dans les casiers (3 s).
+– Petite hitbox (0,4 m).
+• Comment le jouer :
+1. Chargez complètement pour les tirs lointains, pour une hachette plus rapide et plus tendue. Visez un peu au-dessus de
+la cible à longue distance.
+2. Tirez dans la direction où le survivant va fuir, surtout au bout d'une palette ou dans l'angle d'une fenêtre.
+3. Faites de fausses charges : armer sans lancer force le survivant à faire des zigzags inutiles.
+4. Rechargez aux casiers après un hameçon, pas pendant une chase.
+5. Punissez les soins et les réparations à découvert avec des tirs lointains. Elle excelle en pression à distance.
+6. La berceuse trahit votre position, mais son RT réel de 20 m permet d'arriver près d'un générateur par surprise.
+• Comment le contrer :
+1. Restez près des obstacles hauts, qui bloquent les hachettes. Évitez les zones ouvertes et plates.
+2. Quand vous l'entendez armer (le son monte), cassez la LOS ou changez brusquement de direction au dernier moment.
+3. Jouez les boucles à murs hauts comme les jungle gyms ou l'intérieur du shack. Les boucles basses (rochers, palettes
+seules) sont dangereuses.
+4. Surveillez son nombre de hachettes. Une Huntress vide doit aller au casier, profitez-en pour gagner de la distance.
+5. Perks : Distortion/Calm Spirit contre l'info, Lithe, Dead Hard (esquive), Background Player.
+• Meilleurs add-ons : Rose Root (+20 % de vitesse de hachette), Oak Haft (−20 % de recharge), Infantry Belt (+2
+hachettes), Iridescent Head (1 hachette qui met à terre, à éviter pour apprendre).
+• Build recommandé : Lethal Pursuer, Darkness Revealed, Barbecue & Chili, Pain Resonance. Variante NightLight :
+Gearhead, Lethal Pursuer, Floods of Rage, Darkness Revealed, à 60 % de kills.
+• Perks enseignables :
+– Beast of Prey : en Bloodlust, vous devenez Undetectable pendant 30 à 40 s (buff du 8.5).
+– Hex: Huntress Lullaby : les skill checks ratés coûtent plus cher ; avec les tokens, le signal sonore disparaît.
+– Territorial Imperative : vous voyez l'aura de ceux qui entrent dans le sous-sol quand vous êtes loin.
+• Tier : A. Plus haut kill rate global dans les stats officielles BHVR 2026 ; 41,6 % sur NightLight.
+9. The Cannibal (Bubba Sawyer, Leatherface)
+• Vitesse : 4,6 m/s ; balayage à la tronçonneuse jusqu'à 5,45 m/s (buff du 9.6.0). RT : 32 m. Taille : grand. DLC :
+Leatherface (2017).
+• Pouvoir – Bubba's Chainsaw :
+– 3 tokens qui se rechargent. 2 s de charge. Le Chainsaw Sweep dure 2,5 s en accélérant.
+– Un hit met à terre, et plusieurs survivants peuvent être touchés.
+– Réappuyer sur le pouvoir déclenche un dash qui prolonge le sweep en consommant des tokens.
+– Heurter un obstacle ou vider la jauge déclenche une Tantrum : il est presque immobile et frappe au hasard.
+– Chaque token utilisé allonge la recharge.
+• Comment le jouer :
+1. Utilisez la tronçonneuse aux boucles courtes (palettes faibles, petits rochers) : le survivant ne peut pas la contourner.
+Sur les grandes boucles, jouez à la main.
+2. Faites de fausses charges (tap-rev) pour que le survivant lâche la palette, puis cassez-la ou contournez-la.
+3. Punissez le body-block près d'un hameçon et les groupes qui réparent ensemble : il peut mettre à terre plusieurs
+survivants d'un coup.
+4. Bamboozle est quasi obligatoire : il n'a aucun outil contre les fenêtres.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+62
+
+=====PAGE 63=====
+5. Évitez de heurter les murs (Tantrum). Visez bien avant de dasher.
+• Comment le contrer :
+1. Jouez les fenêtres et les grandes boucles. Il est quasiment un tueur M1 sans pouvoir sur une longue boucle.
+2. Au son de la tronçonneuse, gardez un obstacle entre vous et lui. Un sweep qui touche un mur provoque une Tantrum :
+fuyez à ce moment.
+3. Ne vous groupez pas face à lui : un seul sweep peut mettre deux survivants à terre.
+4. Ne body-blockez pas l'hameçon de face.
+5. Perks : Lithe, Windows of Opportunity, Resilience, Dead Hard. Désormais, attention à Knock Out (10.2 en PTB).
+• Meilleurs add-ons : Depth Gauge Rake (+1 token), Carburettor Tuning Guide, Iridescent Flesh (tokens rechargés
+instantanément après un hit), Knife Scratches / Award-winning Chili selon le style.
+• Build recommandé : Bamboozle, Corrupt Intervention, Infectious Fright, Forced Hesitation. C'est le build le plus joué sur
+NightLight, à 62,5 % de kills. Autre option : Pain Resonance ou Barbecue & Chili à la place de Forced Hesitation.
+• Perks enseignables :
+– Knock Out : un survivant qui s'éloigne d'une palette juste après l'avoir utilisée est ralenti. Au 10.2 (PTB), la portée passe à
+10 m et le ralentissement à 20 %.
+– Barbecue & Chili : après un hameçon, vous voyez l'aura des survivants éloignés pendant quelques secondes.
+– Franklin's Demise : vos coups font tomber les objets des survivants, et vous voyez l'aura des objets au sol.
+• Tier : C à D. C ou D selon la liste. Kill rate NightLight 48,5 %, meilleur que sa réputation, car il fait des ravages contre les
+équipes peu coordonnées.
+10. The Nightmare (Freddy Krueger)
+• Vitesse : 4,6 m/s. RT : 32 m. Les survivants endormis entendent une berceuse non directionnelle au lieu du RT. Taille :
+moyenne. DLC : A Nightmare on Elm Street (2017).
+• Pouvoir – Dream Demon :
+– Les survivants s'endorment en ~60 s sous son influence. Endormis, ils sont Oblivious et ne l'entendent plus normalement.
+– Pour se réveiller : rater un skill check, utiliser un réveil, ce qui déclenche un temps de recharge global de 45 s, se faire
+réveiller par un coéquipier (5 s), ou tomber à terre.
+– Il choisit entre deux outils :
+– Dream Snares : un projectile à 12 m/s, portée ~18 m. Un survivant endormi est ralenti de 12 % pendant 4,5 s et ne peut
+plus faire de fast vault. Un survivant éveillé voit son endormissement avancer de 30 s. Recharge 7 s.
+– Dream Pallets : jusqu'à 8 fausses palettes dans un rayon de 24 m. Il peut les faire éclater, ce qui blesse les survivants
+endormis et avance l'endormissement des éveillés de 60 s.
+– Dream Projection : téléportation vers un générateur (même terminé ou bloqué) ou vers un survivant qui soigne dans le
+rêve. Charge de 2,5 s, recharge de 30 s, réduite selon le nombre de survivants endormis.
+• Comment le jouer :
+1. Choisissez Snares pour les chases en couloir et en ligne droite (le ralentissement est brutal). Prenez Pallets pour les
+boucles à palette et le contrôle de zone.
+2. Avec les Dream Pallets, placez-en une à côté d'une vraie palette : le survivant hésite entre les deux, puis vous l'éclatez.
+3. Servez-vous de la téléportation aux gens pour patrouiller. Sa charge a été raccourcie : c'est un outil de pression majeur.
+4. Endormez tout le monde tôt. Des survivants endormis ne vous entendent pas arriver et vous téléportez plus souvent.
+5. En fin de partie, les add-ons Black Box / Paint Thinner, et Blood Warden / Remember Me, rendent les portes très
+dangereuses.
+• Comment le contrer :
+1. Réveillez-vous tôt avec un réveil, et gérez la recharge globale de 45 s en équipe.
+2. Contre les Dream Pallets, vérifiez si une palette est vraie : les fausses ont un rendu légèrement différent de près. En cas
+de doute, ne comptez pas dessus.
+3. Contre les Snares, zigzaguez et cassez la LOS. Un Snare raté a 7 s de recharge.
+4. Réparez en groupe, près d'un réveil. Surveillez le son de sa téléportation sur votre générateur.
+5. Perks : Calm Spirit (pas de réveil par cri), Vigil, Lithe. Les perks d'Endurance aident contre les coups au rêve.
+• Meilleurs add-ons : Z-Block (sélection de pallets ou snares selon version), Paint Thinner, Black Box, Class Photo /
+Unicorn Block. Les add-ons de téléportation sont les plus forts pour la pression.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+63
+
+=====PAGE 64=====
+• Build recommandé : Pain Resonance, Pop Goes the Weasel, Keep Them Waiting, Rapid Brutality. Le build NightLight
+Keep Them Waiting + Surge + Rapid Brutality + Celestial Witness obtient 100 % de kills sur un petit échantillon.
+• Perks enseignables :
+– Fire Up : chaque générateur terminé accélère vos actions (ramasser, casser, franchir) de 4 à 6 %.
+– Remember Me : quand votre Obsession perd un état de santé, l'ouverture des portes est rallongée pour tous les autres
+(jusqu'à +30 s).
+– Blood Warden : vous voyez les survivants dans les sorties ouvertes. Un hameçon bloque ensuite les portes 40 à 60 s, une
+seule fois.
+• Tier : B à A. B en sept. 2026, A chez PCGamesN. 2e meilleur kill rate tous MMR confondus chez BHVR ; 49,8 % sur
+NightLight. Recommandation : B+.
+11. The Pig (Amanda Young)
+• Vitesse : 4,6 m/s ; 4,0 m/s accroupie (buff 9.1) ; ~7,1 m/s en ruée. RT : 24 m. Taille : moyenne. DLC : Saw (2018).
+• Pouvoir – Jigsaw's Baptism :
+– Accroupie, elle est Undetectable. S'accroupir ou se relever prend 0,8 s.
+– La ruée (Ambush Dash) se charge en 0,75 s et dure ~2,3 s à 7,1 m/s.
+– Elle a 4 Reverse Bear Traps (non renouvelables) qu'elle pose sur un survivant à terre (3,3 s).
+– Un piège s'active quand un générateur est terminé. Le compte à rebours est de 150 s, en pause quand le survivant est à
+terre, accroché ou en chase.
+– Pour le retirer, il faut fouiller les 5 Jigsaw Boxes (12 s par fouille, avec un skill check probable), jusqu'à trouver la bonne
+clé.
+• Comment le jouer :
+1. Posez des pièges tôt (sur les deux premières chutes au sol) : ils ralentissent les générateurs de toute l'équipe.
+2. Chaque piège sur la tête est un survivant qui ne répare pas. Poursuivez d'autres survivants et laissez le piégé chercher sa
+clé.
+3. Utilisez la ruée comme menace dans les boucles courtes. Accroupie avant une fenêtre, elle devient un mindgame.
+4. Surveillez les boîtes : avec Rules Set No.2 ou Crate of Gears, les survivants perdent beaucoup de temps.
+5. Accroupissez-vous en approchant des générateurs pour des embuscades.
+• Comment le contrer :
+1. Si vous avez un piège inactif, continuez à réparer d'autres générateurs, mais évitez de terminer un générateur en équipe
+tant que plusieurs piégés n'ont pas retiré le leur.
+2. Une fois le piège actif, fouillez les boîtes les plus proches d'abord. Coordonnez-vous pour savoir quelles boîtes ont déjà
+été fouillées.
+3. Contre la ruée : elle rugit avant de charger. Changez de direction ou vaultez à ce moment.
+4. Une Pig accroupie est lente (4,0) : fuyez dès que vous l'entendez.
+5. Perks : Spine Chill (contre sa furtivité), Sprint Burst, Deja Vu.
+• Meilleurs add-ons : Rules Set No.2, Crate of Gears, Jigsaw's Annotated Plan (+1 piège), Amanda's Letter.
+• Build recommandé : Pain Resonance, Surveillance, Hex: Face the Darkness / Corrupt Intervention, Bamboozle. Le build
+NightLight Brutal Strength + Enduring + Spirit Fury + Hubris atteint 80 % de kills sur un petit échantillon.
+• Perks enseignables :
+– Make Your Choice : un survivant qui en décroche un autre loin de vous devient Exposed pendant 40 à 60 s.
+– Scourge Hook: Hangman's Trick : vous voyez les survivants près des Scourge Hooks, et vous êtes prévenu en cas de
+sabotage.
+– Surveillance : vous voyez en couleur les générateurs abîmés qui régressent, et les réparations s'entendent de plus loin.
+• Tier : C. Kill rate NightLight 43,3 %.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+64
+
+=====PAGE 65=====
+12. The Clown (Kenneth Chase)
+• Vitesse : 4,6 m/s. RT : 32 m. Taille : grand. DLC : Curtain Call (2018).
+• Pouvoir – The Afterpiece Tonic :
+– Il a 6 bouteilles et choisit entre Tonic (gaz rose) et Antidote (gaz jaune). Recharger prend ~2,5 s.
+– Tonic : le survivant est intoxiqué, avec la vision troublée, une toux, les fast vaults bloqués et un ralentissement de 14 %.
+– Antidote : activation après 1,6 s, puis +12 % de Haste pendant 6 s pour celui qui le traverse, y compris le Clown
+lui-même.
+– Ces valeurs viennent des patchs 9.1 et 9.2.
+• Comment le jouer :
+1. Lancez le Tonic devant le survivant, sur la fenêtre ou la palette qu'il vise, pas sur lui.
+2. Utilisez l'Antidote pour traverser la carte ou pour rattraper en ligne droite en fin de boucle. C'est son meilleur outil en
+chase.
+3. Combo : Antidote pour vous, Tonic sur le survivant. Le gros écart de vitesse ferme les boucles.
+4. Rechargez hors chase, et après un hameçon.
+5. Add-ons de confort : Starling Feather (recharge des lancers) et Flask of Bleach.
+• Comment le contrer :
+1. Évitez les longues lignes droites : il y rattrape vite avec l'Antidote.
+2. Traversez le gaz rose le plus vite possible, ou contournez-le. Ne restez pas dedans, les effets persistent 1 à 4 s.
+3. Utilisez aussi le gaz jaune : il vous donne de la vitesse à vous aussi.
+4. Sachez qu'il lance ses bouteilles en cloche. Les obstacles hauts les bloquent.
+5. Perks : Lithe, Resilience. Ne comptez pas sur les fast vaults quand il vous a intoxiqué.
+• Meilleurs add-ons : Starling Feather, Flask of Bleach, Cigar Box, Redhead's Pinkie Finger (Exposed sur un coup direct,
+une seule bouteille).
+• Build recommandé : Keep Them Waiting, Pop Goes the Weasel, Rapid Brutality, Pain Resonance. Sur NightLight, son trio
+Bamboozle + Coulrophobia + Pop atteint 69 % de kills.
+• Perks enseignables :
+– Bamboozle : vous franchissez les fenêtres plus vite, puis vous les bloquez aux survivants pendant 8 à 16 s.
+– Coulrophobia : les survivants dans votre RT soignent plus lentement (20 à 30 % depuis le 10.1), et l'aiguille du skill check
+tourne plus vite.
+– Pop Goes the Weasel : après un hameçon, votre prochain coup sur un générateur fait perdre 20 % de progression au
+total.
+• Tier : C. Kill rate NightLight 52,3 %, étonnamment haut : à surveiller, peut-être une remontée.
+13. The Spirit (Rin Yamaoka)
+• Vitesse : 4,4 m/s ; ~7,04 m/s en Phase Walk. RT : 24 m. Taille : moyenne. DLC : Shattered Bloodline (2018).
+• Pouvoir – Yamaoka's Haunting :
+– Elle se charge 1,5 s, puis passe en Phase Walk jusqu'à 5 s. Elle est invisible, plus rapide (×1,6) et ne peut pas attaquer.
+– Son enveloppe (husk) reste immobile sur place et porte le RT.
+– Les survivants peuvent la repérer par les traces rouges (scratch marks), la respiration, un son directionnel dans les 24 m
+et les interactions avec le décor.
+– Recharge d'environ 15 s. En phasing passif, elle clignote brièvement de temps en temps.
+• Comment le jouer :
+1. Utilisez la Phase Walk pour coller le survivant à une palette ou une fenêtre, puis sortez de phase pile au moment où il
+sort de la boucle.
+2. Faites de fausses phases : restez immobile, ou phasez très court. Le survivant ne sait pas si vous êtes en phase ou non.
+3. Pendant la phase, écoutez le survivant : la respiration, les pas, l'herbe. Le jeu à l'oreille est la clé.
+4. Traversez la carte en phase entre deux chases (7 m/s).
+5. Il faut parfois laisser le survivant prendre la palette : en phase, vous la traversez et vous l'attendez de l'autre côté.
+• Comment le contrer :
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+65
+
+=====PAGE 66=====
+1. Regardez l'enveloppe : si elle ne bouge pas du tout, elle est probablement en phase. Si elle bouge, elle est dans son
+corps.
+2. Restez immobile ou marchez (sans courir) derrière un obstacle pour ne pas laisser de traces rouges. Les perks Iron Will,
+Lucky Break et Urban Evasion aident.
+3. En chase, ne "devinez" pas au hasard. Faites des doubles-backs et des pauses pour la forcer à sortir de phase.
+4. Calm Spirit ou Iron Will limitent l'info sonore qu'elle reçoit.
+5. Les boucles serrées à hauts murs, et les sons d'herbe/eau, jouent contre elle.
+• Meilleurs add-ons : Rusty Flute (+40 % de recharge), Wakizashi Saya / Prayer Beads (sans son en phase, très fort mais
+réputé "abusif"), Yakuyoke Amulet (+3,5 s de phase), Mother-Daughter Ring.
+• Build recommandé : Pain Resonance, Pop, Corrupt Intervention, Eruption (63,5 % de kills sur NightLight). Variantes :
+Sloppy Butcher, Surge.
+• Perks enseignables :
+– Spirit Fury : après avoir cassé 2 à 4 palettes, la prochaine palette qui vous étourdit est cassée instantanément.
+– Hex: Haunted Ground : 2 totems. Celui qui en purifie un rend tous les survivants Exposed pendant 40 à 60 s.
+– Rancor : à chaque générateur terminé, vous voyez l'Obsession. Aux portes, elle devient Exposed jusqu'à la fin et peut être
+tuée à la main.
+• Tier : S en sept. 2026 (A chez PCGamesN). Kill rate NightLight 45,9 %.
+14. The Legion (Frank, Julie, Susie, Joey)
+• Vitesse : 4,6 m/s ; 5,2 m/s en Frenzy, +0,24 m/s par survivant touché, jusqu'à 6,16 m/s. RT : 32 m, 40 m en Frenzy.
+Taille : moyenne. DLC : Darkness Among Us (2018).
+• Pouvoir – Feral Frenzy :
+– Le Frenzy dure jusqu'à 11 s. Les Feral Slashes infligent Deep Wound : un minuteur de 20 s, en pause quand le survivant
+court en chase. Il faut 10 s pour se soigner seul, 6 s avec l'aide d'un coéquipier.
+– Le Frenzy montre en Killer Instinct les survivants qui ne sont pas encore touchés. Il franchit les palettes et les fenêtres
+très vite.
+– Toucher à nouveau le même survivant, ou rater, met fin au pouvoir.
+– À la fin, il est fatigué 2,5 s (2,3 m/s).
+– Le 5e Feral Slash met à terre.
+• Comment le jouer :
+1. Utilisez le Frenzy pour blesser plusieurs survivants et pour traverser la carte, pas pour finir les chases. Pour mettre à
+terre, jouez à l'attaque de base.
+2. Enchaînez de survivant en survivant grâce au Killer Instinct. Chaque slash recharge une partie de la jauge.
+3. Deep Wound + Thanatophobia/Pain Resonance : l'équipe passe son temps à se soigner.
+4. Coupez le Frenzy avant la fatigue si vous êtes près d'un survivant sain.
+5. Mural Sketch et Never-Sleep Pills renforcent la pression en chase.
+• Comment le contrer :
+1. Ne vous soignez pas tout de suite : courez d'abord, le minuteur est en pause en chase. Soignez quand il est parti.
+2. Pendant sa fatigue (2,5 s), cassez la LOS et prenez de la distance.
+3. Ne restez pas groupés sur un générateur : il touche tout le monde d'un coup.
+4. Réparez blessés. Contre Legion, un état blessé est "normal".
+5. Perks : Resilience (bonus en étant blessé), Botany Knowledge, We'll Make It, Iron Will.
+• Meilleurs add-ons : Mural Sketch (+0,32 m/s par coup), Never-Sleep Pills (+10 s de Frenzy), Iridescent Button (le Feral
+Vault casse les palettes), Stab Wounds Study.
+• Build recommandé : Thanatophobia, Pain Resonance, Bamboozle, Enduring. Le build NightLight Enduring + Bamboozle
++ Spirit Fury + Surge atteint 67 % de kills.
+• Perks enseignables :
+– Discordance : un générateur réparé par 2 survivants ou plus apparaît en jaune, avec une notification.
+– Mad Grit : pendant le portage, vous frappez sans recharge, et chaque coup réussi met en pause les tentatives de
+libération.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+66
+
+=====PAGE 67=====
+– Iron Maiden : vous fouillez les casiers plus vite ; un survivant qui en sort crie et devient Exposed.
+• Tier : C. Kill rate NightLight 38,2 %. Il a été désactivé temporairement puis réactivé au 9.6.0.
+15. The Plague (Adiris)
+• Vitesse : 4,6 m/s. RT : 32 m. Taille : grande. DLC : Demise of the Faithful (2019).
+• Pouvoir – Vile Purge :
+– Elle vomit de la bile, portée ~13 m, qui infecte les survivants et les objets (générateurs, fenêtres…) pendant 40 s.
+– À 100 % d'infection, le survivant est blessé et Broken (impossible à soigner).
+– Les Pools of Devotion (fontaines) permettent de purifier l'infection et de redevenir sain. Chaque fontaine utilisée devient
+corrompue.
+– En buvant à une fontaine corrompue, elle obtient 60 s de Corrupt Purge : un vomi à distance qui blesse et met à terre.
+Un étourdissement y met fin.
+• Comment le jouer :
+1. Infectez tout le monde tôt : un survivant Broken ne peut pas être soigné, ce qui rend les hits décisifs.
+2. Ne forcez pas les survivants à se purifier. Laissez-les le faire, puis buvez à la fontaine corrompue la plus proche d'une
+zone chargée.
+3. En Corrupt Purge, elle frappe au-dessus des palettes et des fenêtres, comme une Huntress en rafale. Visez le "tir de fin
+de boucle".
+4. Corrupt Intervention + Infectious Fright + Dark Devotion : le build d'origine est fort (89 % de kills sur un petit échantillon
+NightLight).
+5. Thanatophobia et Pain Resonance fonctionnent bien contre des survivants blessés en permanence.
+• Comment le contrer :
+1. Ne purifiez pas sauf si c'est nécessaire, surtout pas plusieurs à la suite. Chaque fontaine purifiée lui donne une arme.
+2. Jouez Broken mais en bonne coordination. Vous pouvez tout à fait réparer en étant blessé.
+3. En Corrupt Purge, cassez la LOS derrière des murs hauts. Un étourdissement à la palette y met fin.
+4. Evitez de toucher les objets infectés (ils brillent en vert) quand vous êtes sain.
+5. Perks : Resilience, Iron Will (vomissements silencieux), Deliverance.
+• Meilleurs add-ons : Iridescent Seal (Corrupt Purge automatique quand un générateur est terminé), Worship Tablet,
+Black Incense, Limestone Seal.
+• Build recommandé : Corrupt Intervention, Infectious Fright, Dark Devotion, Thanatophobia (ou Pain Resonance).
+• Perks enseignables :
+– Corrupt Intervention : en début de partie, les 3 générateurs les plus éloignés sont bloqués 80 à 120 s.
+– Infectious Fright : quand un survivant tombe à terre, ceux dans votre RT crient et sont révélés.
+– Dark Devotion : quand l'Obsession est blessée, elle hérite de votre RT et vous devenez Undetectable.
+• Tier : B à C. B en sept. 2026, C ailleurs. Kill rate NightLight 47,8 %. Recommandation : B-.
+16. The Ghost Face (Danny Johnson)
+• Vitesse : 4,6 m/s ; 4,0 m/s accroupi (buff 9.6.1). RT : 24 m. Taille : moyenne. DLC : Ghost Face (2019).
+• Pouvoir – Night Shroud :
+– Il est Undetectable et peut stalker à 40 m maximum, deux fois plus vite en se penchant derrière un obstacle.
+– Un survivant stalké à 100 % est Marked : Exposed pendant 60 s.
+– Les survivants peuvent révéler Ghost Face en le regardant ~1,5 s, ce qui met fin à Night Shroud.
+– Recharge de 15 s (réduite de 17 à 15 au 9.6.0).
+• Comment le jouer :
+1. Stalkez en vous penchant derrière les murs et les rochers. C'est deux fois plus rapide et plus difficile à repérer.
+2. Ciblez les survivants concentrés sur une action (générateur, soin, décrochage) pour les marquer sans être vu.
+3. Marquez en chase quand le survivant regarde devant lui, puis frappez avec l'Exposed.
+4. Crouchez pour approcher (4,0 m/s depuis le 9.6.1).
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+67
+
+=====PAGE 68=====
+5. Walleye's Matchbook (−2 s de recharge) et Cinch Straps (Night Shroud conservé en cas d'attaque ratée) augmentent la
+fréquence.
+• Comment le contrer :
+1. Regardez-le dès que vous le repérez, même en réparant : révéler le pouvoir le coupe.
+2. Perks : Spine Chill (le meilleur contre lui), Distortion, Deja Vu, Bond (info sur ses mouvements).
+3. Évitez de rester longtemps immobile en zone ouverte. Changez souvent de position.
+4. Quand vous êtes Marked, jouez prudemment 60 s : pas de tile risquée, et restez à distance.
+5. Communiquez sa position : une fois repéré, Ghost Face a moins de pouvoir en chase qu'un tueur M1.
+• Meilleurs add-ons : Walleye's Matchbook, Cinch Straps, "Ghost Face Caught on Tape" (recharge instantanée après la
+mise à terre d'un marqué), Driver's License.
+• Build recommandé : Pain Resonance, Grim Embrace, Lethal Pursuer, Furtive Chase.
+• Perks enseignables :
+– I'm All Ears : un survivant qui fait un vault rapide dans les 48 m est révélé 8 s.
+– Thrilling Tremors : après avoir ramassé un survivant, les générateurs sont bloqués 16 s.
+– Furtive Chase : après avoir accroché l'Obsession, vous êtes Undetectable et plus rapide pendant 14 à 18 s.
+• Tier : C (A chez propelrc après les buffs). Recommandation : C+/B-.
+17. The Demogorgon
+• Vitesse : 4,6 m/s. RT : 32 m. Taille : grand. DLC : Stranger Things (2019).
+• Pouvoir – Of the Abyss :
+– Il pose jusqu'à 6 portails (8 avec Lifeguard Whistle). Un portail est invisible tant qu'il n'a pas été utilisé.
+– Traverser un portail se fait par l'Upside Down, à ~32 m/s. À la sortie, il est Undetectable 12 s (5 s avant le 9.6.0).
+– Il sent les survivants à moins de 4 m d'un portail actif, et ceux-ci sont Oblivious.
+– Les survivants peuvent sceller un portail (12 s seul).
+– Shred : une attaque chargée, 19 m/s, virage à 55°/s (doublé au 9.6.0). Elle casse les palettes et les murs.
+• Comment le jouer :
+1. Placez vos portails autour du 3-gen et près des hameçons centraux. Évitez les coins isolés.
+2. Arrivez Undetectable sur un générateur : 12 s suffisent maintenant pour y surprendre quelqu'un.
+3. En chase, utilisez le Shred aux boucles courtes. Depuis le buff du virage, il corrige beaucoup mieux.
+4. Le Shred peut casser une palette depuis loin : pratique contre les pré-lâchés.
+5. Surge et Pain Resonance lui vont très bien grâce à ses téléportations.
+• Comment le contrer :
+1. Scellez les portails proches des générateurs, idéalement à deux.
+2. Écoutez le cri d'émergence : s'il n'a pas Red Moss, vous savez qu'il arrive.
+3. En chase, un Shred chargé ralentit sa vitesse : zigzaguez et gardez un obstacle entre vous deux.
+4. Ne pré-lâchez pas les palettes trop tôt : il peut les casser en Shred.
+5. Perks : Spine Chill, Deja Vu, Resilience.
+• Meilleurs add-ons : Red Moss (+8 s d'Undetectable, sortie silencieuse), Lifeguard Whistle (+2 portails), Vermilion
+Webcap, Rat Liver / Unknown Egg.
+• Build recommandé : Pain Resonance, Surge, Corrupt Intervention, Bamboozle. Le trio d'origine Cruel Limits +
+Mindbreaker + Surge obtient 53 % de kills.
+• Perks enseignables :
+– Surge : mettre un survivant à terre par une attaque de base fait régresser les générateurs proches.
+– Mindbreaker : les survivants qui réparent un générateur sont aveuglés et deviennent Exhausted.
+– Cruel Limits : à chaque générateur terminé, toutes les fenêtres sont bloquées 20 à 30 s.
+• Tier : C à D. C en sept. 2026, D ailleurs. Kill rate NightLight 45,8 %, et les buffs du 9.6.0 l'ont amélioré. 
+Recommandation : C.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+68
+
+=====PAGE 69=====
+18. The Oni (Kazan Yamaoka)
+• Vitesse : 4,6 m/s ; 3,45 m/s pendant l'absorption ; ~7,8 m/s en Demon Dash. RT : 32 m. Taille : grand. DLC : Cursed
+Legacy (2019).
+• Pouvoir – Yamaoka's Wrath :
+– Les survivants blessés laissent des orbes de sang, y compris à chaque hameçon (5 orbes depuis le 9.2). Il les absorbe pour
+remplir sa jauge.
+– Frapper un survivant sain donne aussi beaucoup de jauge.
+– À 100, il déclenche la Blood Fury (~45 s).
+– Pendant la Blood Fury, il dispose du Demon Dash (charge de 2 s, déplacement très rapide) et de la Demon Strike (attaque
+chargée en trois frappes, qui met à terre un survivant sain).
+– Chaque mise à terre raccourcit la Fury. Au 9.1, le virage pendant la Demon Strike a été amélioré (540°).
+• Comment le jouer :
+1. Blessez un maximum de survivants tôt : chaque coup donne de la jauge, et les blessés laissent des orbes.
+2. Absorbez les orbes près des hameçons (5 par hameçon) pour lancer rapidement la Fury.
+3. Utilisez la Fury pour faire du dash-tour : dash vers un générateur, frappe, dash vers le suivant.
+4. La Demon Strike se donne à la fin du dash, grâce à l'ouverture de virage : le "flick" rattrape les survivants qui tournent.
+5. Lion Fang (+10 s de Fury) et Iridescent Family Crest sont les meilleurs add-ons.
+• Comment le contrer :
+1. Restez sain le plus longtemps possible. Soignez vite, c'est ce qui l'empêche de monter sa jauge.
+2. Quand il est en Fury (son cri se fait entendre), dispersez-vous et cassez la LOS. Ne restez pas en ligne droite.
+3. Évitez les zones ouvertes pendant la Fury : il vous attrape en dash-strike depuis loin.
+4. Pendant l'absorption il est lent : en le voyant absorber, fuyez.
+5. Perks : Botany Knowledge, We'll Make It, Resilience, Iron Will (moins d'orbes signalés, selon version).
+• Meilleurs add-ons : Lion Fang, Iridescent Family Crest, Renjiro's Bloody Glove, Splintered Hull.
+• Build recommandé : Pain Resonance, Corrupt Intervention, Pop, Eruption. C'est le build le plus joué sur NightLight, à
+76 % de kills.
+• Perks enseignables :
+– Zanshin Tactics : vous voyez l'aura des palettes et des fenêtres proches ; un survivant qui lâche une palette est révélé.
+– Blood Echo : après un hameçon, tous les survivants blessés deviennent Exhausted et Haemorrhage.
+– Nemesis : un survivant qui vous étourdit ou vous aveugle devient l'Obsession ; l'ancienne Obsession est Oblivious et
+révélée.
+• Tier : B à C. B en sept. 2026, C ailleurs. Kill rate NightLight 47,8 %. Recommandation : B.
+19. The Deathslinger (Caleb Quinn)
+• Vitesse : 4,4 m/s. RT : 32 m. Taille : grand. DLC : Chains of Hate (2020).
+• Pouvoir – The Redeemer :
+– Un fusil-harpon avec viseur (ADS en 0,4 s). Portée de 18 m, tir en 0,5 s, trajet de 40 m/s.
+– Un survivant touché est harponné et ramené vers lui (~2,76 m/s). Arrivé au contact, il frappe : le survivant est blessé
+avec Deep Wound.
+– La chaîne peut casser si le survivant tire en sens inverse ou si elle heurte un obstacle. Le Deathslinger est alors étourdi 2,7
+s, et le survivant libre est blessé avec Deep Wound.
+– Recharger prend 2,6 s.
+• Comment le jouer :
+1. Tirez à courte ou moyenne distance (moins de 15 m) sur un survivant qui ne peut pas tourner, par exemple en ligne
+droite ou à la sortie d'une fenêtre.
+2. Visez les passages étroits : fenêtres, sorties de palettes, portes.
+3. Rechargez juste après un tir, ou hors chase. Un Deathslinger vide est lent.
+4. Harponnez autour d'un obstacle pour briser la chaîne volontairement : le survivant est quand même blessé avec Deep
+Wound.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+69
+
+=====PAGE 70=====
+5. Utilisez le son pour prédire les sorties de boucle. Le viseur fait perdre une partie du champ de vision.
+• Comment le contrer :
+1. Restez à courte distance d'un obstacle : il ne peut pas tirer à travers.
+2. Zigzaguez de façon irrégulière dans les grands espaces, sans rythme prévisible.
+3. Harponné, tirez vers un obstacle ou tournez autour pour briser la chaîne. Il est alors étourdi 2,7 s.
+4. Soignez Deep Wound rapidement, mais pas en chase.
+5. Perks : Dead Hard, Lithe, Sprint Burst.
+• Meilleurs add-ons : Warden's Keys (recharge plus rapide), Bayshore's Cigar / Gold Belt Buckle, Iridescent Coin (Exposed
+en étant harponné), Barbed Wire.
+• Build recommandé : Pain Resonance, Dead Man's Switch, Nowhere to Hide, Surge. Version "Obsession" : Keep Them
+Waiting + Surge + Rapid Brutality + Celestial Witness (83 % sur un petit échantillon NightLight).
+• Perks enseignables :
+– Gearhead : après avoir blessé un survivant, les skill checks réussis sur les générateurs révèlent le réparateur pendant
+quelques secondes.
+– Dead Man's Switch : après un hameçon, le premier survivant qui lâche un générateur le bloque pendant 25 à 35 s.
+– Hex: Retribution : les survivants qui purifient un totem deviennent Oblivious. Si le Hex est détruit, tous les survivants sont
+révélés 20 s.
+• Tier : C. Kill rate NightLight 39,6 %.
+20. The Executioner (Pyramid Head)
+• Vitesse : 4,6 m/s ; 4,2 m/s pendant qu'il trace. RT : 32 m. Taille : grand. DLC : Silent Hill (2020).
+• Pouvoir – Rites of Judgement :
+– Il trace des Torment Trails au sol, 10 s de réserve. Une trace dure 90 s, et un survivant qui la touche sans être accroupi
+est Tormented.
+– Pendant qu'il trace, il peut lancer une attaque au sol, Punishment of the Damned, qui avance en ligne sur ~10 m et
+traverse palettes et fenêtres. Elle coûte 2 charges et a 2,25 s de recharge.
+– Un survivant Tormented tombé à terre peut être envoyé dans une Cage of Atonement au lieu d'un hameçon. La cage
+change de place si un autre survivant s'en approche.
+– Au 2e hameçon, Final Judgement tue directement le survivant Tormented.
+• Comment le jouer :
+1. Apprenez l'attaque de fin de boucle : lancez la Punishment derrière une palette, une fenêtre ou un mur mince quand le
+survivant ne peut plus s'éloigner.
+2. Tracez les passages obligés d'une boucle : le survivant doit soit s'accroupir, soit devenir Tormented.
+3. Les cages font gagner du temps, et tuer en 2e hameçon avec Final Judgement finit les parties vite.
+4. Les cages apparaissent loin : vous forcez les survivants à traverser la carte pour secourir.
+5. Il excelle sur les cartes intérieures et face aux grands murs.
+• Comment le contrer :
+1. Crouchez en traversant les traces pour ne pas être Tormented, sauf en chase.
+2. Contre la Punishment : ne restez pas en ligne avec lui derrière la palette. Déplacez-vous latéralement, ou sortez de la
+boucle avant le coup.
+3. Les boucles avec des murs pleins et épais bloquent son attaque.
+4. Sauvez vite les survivants en cage : elle ne reste pas en place longtemps, et un 2e hameçon peut devenir une exécution.
+5. Perks : Lithe, Dead Hard, Sprint Burst ; Deliverance et Reassurance pour les cages.
+• Meilleurs add-ons : Iridescent Seal of Metatron, Obsidian Goblet (l'attaque casse les palettes et les murs), Burning Man
+Painting / Valtiel Sect Photograph, Scarlet Egg.
+• Build recommandé : Pain Resonance, Pop, Lethal Pursuer, Nowhere to Hide (100 % de kills sur 5 parties NightLight).
+Nowhere to Hide et Trail of Torment sont les perks les plus joués.
+• Perks enseignables :
+– Forced Penance : un survivant qui encaisse un coup à la place d'un autre (protection hit) devient Broken 60 à 80 s.
+– Trail of Torment : après avoir abîmé un générateur, vous êtes Undetectable jusqu'à ce qu'il soit réparé.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+70
+
+=====PAGE 71=====
+– Deathbound : un survivant qui soigne complètement un autre crie et devient Oblivious s'il s'éloigne de lui.
+• Tier : A. Kill rate NightLight 39,4 %, une moyenne abaissée par sa difficulté.
+21. The Blight (Talbot Grimes)
+• Vitesse : 4,4 m/s (4,6 avant le 9.6.0) ; 9,2 m/s en Rush. RT : 40 m. Taille : moyenne. DLC : Descend Beyond (2020).
+• Pouvoir – Blighted Corruption :
+– Il a 5 tokens. Un Rush (9,2 m/s, jusqu'à 3 s) consomme 1 token et ne permet pas d'attaquer.
+– Heurter un obstacle déclenche un Slam, qui ouvre une fenêtre de 1,25 s pour enchaîner un Lethal Rush : lui permet
+d'attaquer.
+– Chaque token se recharge en 2 s. Après chaque Rush, il est fatigué 2,5 s.
+– Depuis le 9.6.0, casser une palette fait tomber les tokens à 2 sous le maximum et remet la recharge à zéro.
+– Il vire très mal pendant le Rush.
+• Comment le jouer :
+1. Maîtrisez les bumps : des slams sur les murs, les rochers et les arbres pour enchaîner les Rush et traverser la carte.
+2. En chase, rushez autour d'une boucle en rebondissant sur l'obstacle, et ne gardez le Lethal Rush que pour le coup final.
+3. Le nerf rend les palettes plus coûteuses : ne cassez pas une palette en plein chase si vous pouvez contourner.
+4. Faites le "hug tech" (glisser le long de l'obstacle en virage) pour les virages serrés.
+5. Compound Thirty-Three et Adrenaline Vial sont ses meilleurs add-ons de confort.
+• Comment le contrer :
+1. Jouez les boucles serrées et les zones encombrées où il ne peut pas enchaîner, par exemple l'intérieur des bâtiments et
+les petites boucles.
+2. Tournez au dernier moment : son Lethal Rush vire mal. Face à lui, ne courez pas en ligne droite.
+3. Pré-lâchez les palettes contre lui : les casser lui coûte désormais des tokens.
+4. Après un Rush raté, il est fatigué 2,5 s : repartez dans l'autre sens.
+5. Perks : Lithe, Dead Hard, Sprint Burst (2 s désormais), Resilience.
+• Meilleurs add-ons : Compound Thirty-Three (+11 % de vitesse et durée du Rush), Adrenaline Vial (+2 tokens), Blighted
+Rat / Blighted Crow, Iridescent Blight Tag (3 tokens mais Rush plus rapide).
+• Build recommandé : Pain Resonance, Pop Goes the Weasel, Eruption, Corrupt Intervention. C'est le build le plus joué
+sur NightLight, à 70,8 % de kills. Variante : Lethal Pursuer ou Barbecue & Chili.
+• Perks enseignables :
+– Dragon's Grip : après avoir abîmé un générateur, le premier survivant qui y touche crie, est révélé et devient Exposed.
+– Hex: Blood Favour : quand un survivant perd un état de santé, toutes les palettes proches sont bloquées pendant
+quelques secondes.
+– Hex: Undying : vous voyez les survivants près des totems ; quand un Hex est purifié, il est transféré sur Undying.
+• Tier : S, malgré le nerf. Otzdarva le juge "toujours très fort". Kill rate NightLight 50,2 %.
+22. The Twins (Charlotte & Victor Deshayes)
+• Vitesse : Charlotte 4,6 m/s ; Victor 6,0 m/s, 2,4 m/s avec un bond chargé. RT : 32 m pour Charlotte. Taille : grands. DLC :
+A Binding of Kin (2020).
+• Pouvoir – Blood Bond :
+– Charlotte peut libérer Victor (0,75 s depuis le patch 7.7). Elle reste immobile en état dormant et on contrôle Victor.
+– On peut passer de l'un à l'autre à volonté.
+– Victor bondit après 0,85 s de charge. Sur un survivant sain, il s'accroche : le survivant est blessé, et le contrôle revient
+automatiquement à Charlotte. Sur un survivant blessé, il le met à terre.
+– Un survivant avec Victor accroché est Broken, Incapacitated et Oblivious. Il doit retirer Victor (8 s).
+– Si Victor rate son bond, les survivants peuvent l'écraser (0,35 s). Après un échec, il est vulnérable 3 s.
+– Victor revient automatiquement vers Charlotte après 90 s. Charlotte peut le rappeler.
+– Depuis la mi-2025, Victor peut déclencher des chases.
+• Comment le jouer :
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+71
+
+=====PAGE 72=====
+1. Frappez d'abord avec Charlotte, puis lâchez Victor pour finir le survivant blessé : il le met à terre au bond.
+2. Lâchez Victor près d'un survivant à terre, ou d'un hameçon dans le respect de l'anti-camp : il garde la zone pendant que
+Charlotte chasse ailleurs.
+3. Gardez Victor en sécurité après un bond raté : ne le laissez pas près des survivants, rappelez-le.
+4. Utilisez Victor comme éclaireur rapide à 6 m/s pour trouver les survivants.
+5. Le basculement Charlotte/Victor coûte du temps : planifiez vos déplacements.
+• Comment le contrer :
+1. Écrasez Victor dès qu'il est vulnérable : il brille en rouge quand il est écrasable.
+2. Si Victor est accroché sur vous, retirez-le vite. Ne tentez pas une chase en étant Broken.
+3. Ne restez pas près d'un survivant à terre sous garde de Victor. Attendez que Charlotte le rappelle.
+4. Charlotte seule est un tueur M1 : jouez les boucles normalement, en regardant où se trouve Victor.
+5. Perks : Lithe, Unbreakable/Soul Guard (contre le slug), Deliverance.
+• Meilleurs add-ons : Iridescent Pendant (écraser Victor devient une punition : Exposed 45 s), Madeleine's Scarf (+0,3 m/s
+pour Victor), Sewer Sludge (+2 s pour retirer Victor), Cat Figurine.
+• Build recommandé : Hex: Ruin, Hex: Undying, Pain Resonance, Corrupt Intervention. Sur NightLight, le build tout-Hex
+Thrill of the Hunt + Ruin + Undying + Pentimento obtient 63,6 % de kills, et le trio d'origine atteint 66,7 %.
+• Perks enseignables :
+– Hoarder : ouvrir un coffre ou ramasser un objet déclenche une notification de bruit. Il y a 2 coffres de plus sur la carte.
+– Oppression : abîmer un générateur fait aussi régresser jusqu'à 4 autres, avec des skill checks difficiles.
+– Coup de Grâce : chaque générateur terminé donne des tokens, qui allongent votre prochain lunge (+70 à 80 %).
+• Tier : C. Kill rate NightLight 47,4 %, avec le pick rate le plus bas du jeu (~0,5–0,65 %). Pourtant les stats BHVR le placent 
+3e en kill rate au haut MMR. C'est un tueur de niche, bien plus fort entre les mains d'un spécialiste.
+23. The Trickster (Ji-Woon Hak)
+• Vitesse : 110 % (4,4 m/s) ; 96,5 % (3,86 m/s) pendant les lancers. Rayon de terreur : 24 m (44 m au rang S). Taille :
+moyenne. DLC : All-Kill (2021), map et survivant Kwon Tae-young ajoutés avec « All-Kill: Comeback ».
+• Pouvoir, Showstopper (version refondue) :
+– Lames : il porte 36 lames et en lance environ 3 par seconde en marchant. Chaque lame qui touche ajoute une charge de 
+Laceration (6 au maximum). À 6, le survivant perd un état de santé. Une attaque de base retire 3 charges. Si le survivant
+n'est plus touché pendant 16 s, la Laceration décroît d'une charge toutes les 4,4 s (le patch 9.5.2 a rendu cette
+décroissance plus favorable au tueur). On recharge les lames dans les casiers.
+– Style Ranks : 6 rangs, de E à S. Le tueur gagne des Style Points en enchaînant des actions variées. Répéter la même
+action ne rapporte rien. Barème : première lame qui touche un survivant (1), blessure ou crochet (1), 4 lames ou plus
+touchées à 4 m ou plus (2), touche à 16 m ou plus (2), lame passée dans un petit interstice (3). Casser des palettes et
+frapper des générateurs comptent aussi. Chaque rang accélère la cadence et la recharge. Si le timer du combo expire, on
+descend d'un rang.
+– Rang S : tout le monde reçoit une notification. Les survivants à moins de 44 m sont révélés pendant 4,4 s, le TR passe à 44
+m et la Laceration ne décroît plus. Le rang dure au maximum 66 s. Main Event devient alors disponible : 10 s de lames
+illimitées et une cadence ×1,67. Main Event est impossible à moins de 20 m d'un survivant accroché. À la fin du Main
+Event ou du rang S, on revient au rang E.
+• Comment le jouer :
+1. Variez vos actions (tir de loin, blessure, casse de palette, coup de pied sur un gen) pour monter en rang. Un combo
+répétitif ne rapporte rien.
+2. Cherchez les tirs à 16 m ou plus et les tirs dans les interstices (fenêtres, trous dans les murs) : ce sont les plus rentables.
+3. Gardez le rang S et le Main Event pour une chasse avec un gros couloir, ou pour un moment où deux survivants sont
+proches (autour d'un unhook ou d'un gen à 3).
+4. Visez légèrement en avance sur les strafes. Les pré-lancers (commencer à tirer avant l'angle) sont indispensables.
+5. Tant que le survivant garde de la Laceration, finissez à l'attaque de base plutôt qu'à la lame.
+6. Add-ons de base : Trick Pouch + Killing Part Chords (communs), cités comme référence.
+• Comment le contrer :
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+72
+
+=====PAGE 73=====
+1. Coupez la ligne de vue très souvent. Les lames sont des projectiles lents à l'échelle d'un tile, et chaque mur vous évite
+des charges.
+2. Laissez redescendre la Laceration : 16 s sans être touché, puis une charge perdue toutes les 4,4 s.
+3. Dès la notification du rang S, jouez la montre (66 s maximum), sécurisez-vous et ne donnez rien au Main Event.
+4. Forcez-le à répéter la même action (par exemple une boucle de murs sans palette) pour priver son combo de variété.
+5. Évitez les grands espaces ouverts et les longs couloirs droits où il peut tirer à 16 m.
+• Meilleurs add-ons : Iridescent Photocard (Main Event 2× plus long, révèle les auras et bloque les gens), Trick Blades
+(ricochet, bonus toutes les 8 touches), Death Throes Compilation (recharge 75 % des lames après le Main Event), Trick
+Pouch / Killing Part Chords (base solide).
+• Build recommandé : Pain Resonance, Grim Embrace, Pop Goes the Weasel, Lethal Pursuer. Variante : No Way Out à la
+place de Lethal. Sur NightLight, Grim Embrace est le perk de Trickster au meilleur taux de kill (environ 61 %).
+• Perks enseignables :
+– Starstruck : quand vous portez un survivant, tous les autres dans votre TR sont Exposed, et l'effet persiste 26-30 s après
+leur sortie du TR.
+– Hex: Crowd Control (refondu en 9.5.0) : le premier vault de fenêtre allume un totem. Les 4/5/6 dernières fenêtres
+vaultées sont bloquées, leurs auras sont visibles à 24 m et vous les vaultez 15 % plus vite.
+– No Way Out : un token par survivant accroché pour la première fois. Quand les portes s'alimentent, les deux
+interrupteurs sont bloqués 12 s par token (jusqu'à 60 s environ).
+• Tier : B- (C dans la tier list Gfinity, B chez PCGamesN et propelrc). Son taux d'utilisation est monté d'environ 1,6 % à
+environ 12 % juste après la refonte (54,6 % de kill selon timesaver). NightLight actuel : 46,5 % de kill pour 1,8 % d'usage.
+24. The Nemesis (Nemesis T-Type)
+• Vitesse : 115 % (4,6 m/s). TR : 32 m. Taille : grande. DLC : Resident Evil (2021).
+• Pouvoir, T-Virus :
+– Tentacle Strike : attaque chargée à distance (0,35 s de charge, 5 m, puis 6,5 m au niveau de mutation 3, 2,25 s de
+cooldown). Un survivant sain et non contaminé qui est touché devient Contaminated sans perdre de santé, avec un
+Hindered de 20 % pendant 2 s. Un survivant déjà contaminé perd un état de santé.
+– Mutation Rate : MR1 au départ, MR2 à 5 points (le tentacule casse palettes et murs), MR3 à 15 points (portée de 6,5 m
+et marche plus rapide pendant la charge). Points : +3 pour un nouveau contaminé, +1 pour un survivant déjà contaminé,
++1 par zombie tué au tentacule.
+– Zombies : 2 en 1v4. Ils sont lents (1 m/s), voient à 14 m sur 95°, attaquent les survivants (un coup = contamination ou
+blessure) et réapparaissent sous un crochet 12 s après leur mort.
+– Vaccins : 4 caisses de soutien sur la map. Un vaccin guérit la contamination, mais l'utiliser déclenche 3 s de Killer Instinct.
+• Comment le jouer :
+1. Passez MR2 le plus tôt possible : contaminez plusieurs survivants et tuez les zombies qui gênent au tentacule.
+2. Sur un survivant contaminé, le tentacule est un coup à 5-6,5 m qui passe au-dessus des palettes basses et à travers
+certains trous. Punissez les vaults et les drops tardifs.
+3. Utilisez le tentacule pour casser la palette au moment même où le survivant la drop : en MR2+, pas besoin de se faire
+stun pour la casser.
+4. Laissez les zombies faire leur travail sur les gens. Un survivant qui fuit un zombie n'est pas en train de réparer.
+5. Le Hindered de 20 % sur un nouveau contaminé fait souvent gagner la chasse : enchaînez directement.
+6. Surveillez l'usage des vaccins (Killer Instinct) pour retrouver les survivants.
+• Comment le contrer :
+1. Un vaccin ne se prend qu'au bon moment : il révèle votre position, donc prenez-le quand le tueur est loin ou occupé.
+2. Tenez les boucles à plus de 6,5 m, ou coupez la ligne de vue juste avant la charge du tentacule (ça s'entend).
+3. Esquivez latéralement : le tentacule est une ligne droite.
+4. Les zombies se stunnent avec lampe, pétards et palettes. Ils entendent le bruit, donc évitez les ratés près d'eux.
+5. En MR3, n'allez plus sur les boucles faibles : la portée de 6,5 m couvre la plupart des petits tiles.
+• Meilleurs add-ons : Marvin's Blood (+0,5 de mutation par touche), T-Virus Sample (+1 par zombie tué), Shattered
+S.T.A.R.S. Badge (zombies accélérés après chaque gen), Iridescent Umbrella Badge (Exposed 60 s après un vaccin).
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+73
+
+=====PAGE 74=====
+• Build recommandé : Pain Resonance, Lethal Pursuer, Eruption, Grim Embrace, ou Pop à la place d'un des deux derniers.
+Lethal (+2 s sur toutes les auras) est son propre perk et se combine bien avec BBQ.
+• Perks enseignables :
+– Lethal Pursuer : révèle tous les survivants 7/8/9 s au début de la partie, et +2 s à toutes les autres lectures d'aura.
+– Hysteria : blesser un survivant sain rend tous les survivants blessés Oblivious 30/35/40 s (cooldown de 20 s).
+– Eruption : les gens frappés sont surlignés. Quand quelqu'un passe au sol, ils explosent (−10 %, puis régression) et les
+survivants qui réparent sont Incapacitated/révélés 8/10/12 s (cooldown de 30 s).
+• Tier : B. Tier lists unanimes (B partout).
+25. The Cenobite (Pinhead)
+• Vitesse : 115 % (4,6 m/s). TR : 32 m. Taille : grande. DLC : Hellraiser (2021, retiré de la vente en mars 2025, donc ne
+s'obtient plus si on ne l'a pas déjà). Difficulté : très élevée.
+• Pouvoir, Summons of Pain :
+– Gateway / Possessed Chain : il ouvre un portail à 16 m maximum, puis dirige une chaîne en vol. Une chaîne qui touche
+un survivant l'enchaîne : Incapacitated, impossible de courir, vitesse réduite (plus il y a de chaînes, plus c'est lent, jusqu'à
+3). Chaque chaîne s'arrache avec une interaction de 1 s, et une chaîne tendue se casse si elle heurte le décor. Après avoir
+retiré toutes ses chaînes, le survivant ne peut pas ouvrir les portes pendant 5 s.
+– Lament Configuration : une boîte apparaît au hasard. Si personne ne la récupère pendant 90 s, Chain Hunt se déclenche :
+des chaînes poursuivent tous les survivants jusqu'à ce que quelqu'un prenne la boîte. Le survivant qui la porte est
+Oblivious en permanence. La résoudre prend 6 s et déclenche le Killer Instinct. Le Cenobite peut se téléporter près du
+survivant qui la résout. Si le Cenobite ramasse lui-même la boîte, tout le monde reçoit 3 chaînes.
+• Comment le jouer :
+1. Chaîner puis frapper à l'attaque de base est tout son jeu : visez le survivant quand il est à découvert entre deux tiles.
+2. Courbez la chaîne autour des obstacles avec Frank's Heart ou Larry's Blood pour la portée.
+3. Jouez autour de la boîte : quand un survivant va la chercher, il ne répare pas. Téléportez-vous sur la résolution.
+4. Laissez le Chain Hunt tourner dès que possible : il crée une pression passive sur toute la map.
+5. Une chaîne sur un survivant qui s'apprête à vaulter bloque souvent le vault et donne un coup gratuit.
+• Comment le contrer :
+1. Restez près du décor : la chaîne se casse au moindre contact avec un obstacle, donc évitez les zones dégagées.
+2. Désignez un seul survivant pour gérer la boîte, loin du tueur, et remettez-la tôt pour éviter le Chain Hunt.
+3. En chasse, gardez une ligne de vue brisée vers le portail : la chaîne a besoin d'une trajectoire.
+4. Arrachez vos chaînes immédiatement (1 s chacune) quand le tueur ne peut pas vous punir.
+5. Pensez aux 5 s de blocage des portes en fin de partie.
+• Meilleurs add-ons : Frank's Heart (+8 m de distance du portail), Larry's Blood (+4 m de portée de chaîne), Torture Pillar
+(Chain Hunt 6 s plus tôt), Chatterer's Tooth (aura de la boîte + 25 s d'Undetectable quand elle est ramassée).
+• Build recommandé : Pain Resonance, Grim Embrace, Deadlock, Lethal Pursuer (ou BBQ).
+• Perks enseignables :
+– Deadlock : chaque gen terminé bloque le gen le plus avancé pendant 20/25/30 s.
+– Hex: Plaything : un survivant accroché pour la première fois devient Oblivious et maudit jusqu'à ce qu'il détruise son
+totem. Les auras des totems sont révélées dans un rayon limité.
+– Scourge Hook: Gift of Pain : un survivant décroché d'un Scourge Hook est Mangled et répare plus lentement tant qu'il
+n'est pas soigné. Après le soin, ses réparations et soins sont ralentis.
+• Tier : C. Classements très dispersés (D chez PCGamesN et propelrc, B chez Gfinity, A dans la liste dbdperkcombos), mais
+il est dans le top 5 des kill rates tous MMR confondus chez BHVR. Fort contre les joueurs moyens, faible contre les
+équipes qui gèrent bien la boîte.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+74
+
+=====PAGE 75=====
+26. The Artist (Carmina Mora)
+• Vitesse : 115 % (4,6 m/s). TR : 32 m. Taille : moyenne. DLC : Portrait of a Murder (2021).
+• Pouvoir, Birds of Torment : jusqu'à 3 Dire Crows à invoquer (1 s de charge). Un corbeau placé reste immobile jusqu'à 10
+s, puis on le lance en ligne droite (plus rapide après 0,3 s) et il traverse les murs. S'il touche un survivant, celui-ci est
+Swarmed : Killer Instinct pendant 3 s, puis son aura reste visible tant qu'il ne repousse pas l'essaim. Un second corbeau
+qui touche un survivant déjà Swarmed lui fait perdre un état de santé. Pour chasser l'essaim : 8 s d'interaction, ou
+entrer dans un casier. Recharges : environ 5 s par corbeau, 12 s si les 3 sont lancés. Un corbeau qui touche un
+générateur, un totem, etc. le « surveille ».
+• Comment le jouer :
+1. Posez un corbeau devant vous pour « piéger » une sortie de tile, puis lancez-le dans le mur (le corbeau traverse) sur le
+survivant qui boucle.
+2. Ouvrez sur un survivant Swarmed avec un second corbeau à travers le décor : c'est une blessure à distance, même à
+travers une fenêtre ou un mur.
+3. Placez des corbeaux sur des gens lointains : les survivants qui les touchent se révèlent pendant qu'ils réparent (pression
+globale).
+4. Adaptez la vitesse de lancer : les corbeaux sont rapides mais visibles, donc visez en anticipant le mouvement.
+5. Gardez un corbeau en réserve pour finir une chasse (sortie de palette, dernier vault).
+• Comment le contrer :
+1. Si vous êtes Swarmed, coupez la ligne de corbeau (elle traverse les murs, mais pas le décor vertical très épais).
+Idéalement, chassez l'essaim immédiatement ou entrez dans un casier.
+2. Les corbeaux ont une trajectoire droite : un strafe latéral au dernier moment les fait rater.
+3. Écoutez le cri caractéristique d'un corbeau lancé (12 m).
+4. Ne réparez pas avec un essaim sur vous : vous êtes visible et touchable à distance.
+5. S'accroupir évite le Killer Instinct lié aux essaims.
+• Meilleurs add-ons : Severed Hands (l'essaim se propage aux survivants à 3 m), Still Life Crow (+4 s de station), Iridescent
+Feather (Undetectable pendant le cooldown, un corbeau de moins), Silver Bracelet et add-ons de vitesse de corbeau.
+• Build recommandé : Pain Resonance, Grim Embrace, Pop Goes the Weasel, Dead Man's Switch (ou Eruption).
+• Perks enseignables :
+– Grim Embrace : un token par survivant accroché pour la première fois. Tous les gens sont bloqués quelques secondes à
+chaque token, et au 4e l'aura de l'Obsession est révélée et tous les gens sont bloqués 40 s.
+– Scourge Hook: Pain Resonance : 4 Scourge Hooks. Accrocher un survivant dessus fait exploser le gen le plus avancé (−10 à
+−20 % selon les tokens).
+– Hex: Pentimento : on peut rallumer les totems purifiés. Chaque totem rallumé ajoute un malus (réparations, soins,
+purification…) et au 5e, tous les totems sont bloqués.
+• Tier : A-. A chez Gfinity (septembre 2026), B chez PCGamesN et propelrc. Très fort à haut niveau avec des tirs à travers
+les murs.
+27. The Onryō (Sadako Yamamura)
+• Vitesse : 115 % (4,6 m/s). TR : 24 m. Taille : petite. DLC : Sadako Rising (2022).
+• Pouvoir, Deluge of Fear :
+– Démanifestée : Undetectable, invisible au-delà de 24 m et intermittente en dessous. Elle ne peut pas attaquer mais ne
+peut pas non plus être stun par une palette. On manifeste et démanifeste à la touche.
+– TV Projection : téléportation vers une télévision allumée. Le TR s'étend autour de la TV visée, et les survivants à 16 m de
+la TV d'arrivée gagnent +1 stack de Condemned. Bonus : 6,9 m/s pendant 2 s après la projection.
+– Condemned : à 7 stacks, le survivant peut être tué (mori) par Sadako. Chaque crochet verrouille des stacks (jusqu'à 3 au
+1er, 6 au 2e).
+– Cassettes VHS : un survivant ramasse une cassette dans une TV (la TV s'éteint 70 s) et la dépose dans une autre TV, ce qui
+lui retire 3 stacks de Condemned. Porter une cassette fait monter le Condemned passivement.
+• Comment le jouer :
+1. Approchez démanifestée et manifestez-vous juste avant le coup. Le « jumpscare » donne souvent un coup gratuit aux
+survivants qui ne regardent pas.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+75
+
+=====PAGE 76=====
+2. Utilisez les TV pour traverser la map. Chaque projection près d'un gen où il y a du monde fait monter le Condemned.
+3. Visez la fin de partie : un survivant à 7 stacks est une mise à mort directe sans crochet.
+4. Ciblez les survivants qui portent des cassettes (leur Condemned monte).
+5. Démanifester en chasse permet de franchir des tiles « sans palette » (immunité au stun). À utiliser pour les mindgames.
+• Comment le contrer :
+1. Gérez les cassettes : déposez-les rapidement dans les TV éloignées pour retirer vos stacks.
+2. Éteignez les TV proches des gens qui vous importent pour limiter ses projections.
+3. Écoutez la musique de manifestation et surveillez le scintillement. Regardez souvent derrière vous.
+4. Ne restez pas à 16 m d'une TV allumée quand elle se projette.
+5. À 5-6 stacks, soyez très prudent : une touche de plus peut suffire à la mise à mort.
+• Meilleurs add-ons : Tape Editing Deck (tous les survivants commencent avec une cassette, à déposer dans la TV la plus
+lointaine), Ring Drawing (accrocher un porteur de cassette donne +1 Condemned aux autres), Iridescent Videotape (la
+projection ne coupe plus les TV mais ne donne plus de Condemned : un compromis).
+• Build recommandé : Pain Resonance, Call of Brine (buffé en 10.1.0), Pop Goes the Weasel, Grim Embrace ou Lethal
+Pursuer.
+• Perks enseignables :
+– Scourge Hook: Floods of Rage : quand un survivant est décroché d'un Scourge Hook, les auras des autres survivants sont
+révélées 5-7 s.
+– Call of Brine : un gen frappé régresse 30/40/50 % plus vite pendant 90 s (valeurs de 10.1.0), son aura est surlignée et
+chaque bon skill check déclenche une notification sonore.
+– Merciless Storm : à 90 %, le gen impose des skill checks continus. Un échec ou un arrêt bloque le gen 16-20 s (une fois par
+gen).
+• Tier : D à haut niveau (D chez PCGamesN et propelrc, C chez Gfinity). Dans le top 3 tous MMR selon BHVR : elle punit
+fortement les joueurs moyens. Donc « C » en jeu classique.
+28. The Dredge
+• Vitesse : 115 % (4,6 m/s) ; 4 m/s pendant la charge de la téléportation (buff 9.6.0). TR : 32 m. Taille : grande. DLC : Roots
+of Dread (2022).
+• Pouvoir, Reign of Darkness :
+– Gloaming : 3 tokens. Il voit les auras de tous les casiers et se téléporte vers un casier (un token par téléportation). Il laisse
+un Remnant à son point de départ, vers lequel il peut revenir avec une attaque de base.
+– Nightfall : une jauge de 300 charges se remplit passivement (plus vite quand il blesse ou accroche, ou quand il y a des
+survivants blessés ou cachés dans des casiers). À plein, le Nightfall dure 60 s : les survivants voient beaucoup moins loin,
+et le Dredge est Undetectable, se téléporte deux fois plus vite avec des cooldowns courts et déclenche le Killer Instinct
+près des casiers.
+– Verrous : les survivants peuvent verrouiller un casier. Le Dredge qui s'y téléporte doit casser le verrou (2,25 s), et un
+verrou cassé ne revient pas.
+• Comment le jouer :
+1. Utilisez le Remnant comme ancre : laissez-le près d'un gen ou d'un crochet, partez en chasse, et revenez-y
+instantanément.
+2. Téléportez-vous vers les casiers proches des gens pour couper les rotations (4 m/s pendant la charge).
+3. Nightfall est votre moment fort : enchaînez les téléportations vers les gens, chassez dans l'obscurité et mindgamez (les
+survivants ne vous voient pas venir).
+4. Blesser plusieurs survivants accélère le Nightfall : jouez « chip damage » en début de partie.
+5. Casser les verrous tôt prive les survivants de leur protection.
+• Comment le contrer :
+1. Verrouillez les casiers proches des gens et des crochets (le Dredge y perd du temps).
+2. Pendant le Nightfall, évitez les casiers et les zones de casiers, et restez groupés près des loops solides.
+3. Surveillez la jauge (indicateur visuel) et préparez-vous à tenir 60 s.
+4. En chasse, repérez le Remnant et ne restez pas entre lui et le Dredge.
+5. Ne cachez-vous pas trop dans les casiers : ça remplit sa jauge plus vite.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+76
+
+=====PAGE 77=====
+• Meilleurs add-ons : Field Recorder (commence en Nightfall, Nightfall auto au dernier gen), Lavalier Microphone (révèle
+tout le monde au dernier token), Iridescent Wooden Plank (Exposed pendant les 12 dernières secondes du Nightfall).
+• Build recommandé : Pain Resonance, Grim Embrace, Deadlock, Lethal Pursuer (+ Darkness Revealed en option).
+• Perks enseignables :
+– Darkness Revealed : ouvrir un casier révèle les survivants à 8 m de n'importe quel casier pendant 6-8 s (cooldown de 30
+s).
+– Dissolution : après avoir blessé un survivant, la prochaine palette qu'il fast-vault dans votre TR se brise instantanément
+(13-15 s). Nerf au PTB 10.2.0 : ne se déclenchera plus que sur une attaque de base.
+– Septic Touch : un survivant qui se soigne dans votre TR est Blind et Exhausted pendant 20-30 s.
+• Tier : B (B chez Gfinity, PCGamesN et propelrc). Top 4 tous MMR selon BHVR.
+29. The Mastermind (Albert Wesker)
+• Vitesse : 115 % (4,6 m/s). TR : 40 m. Taille : moyenne. DLC : Resident Evil: PROJECT W (2022).
+• Pouvoir, Virulent Bound : 2 tokens (0,5 s de moins de recharge par survivant infecté). Charge de 1,5 s, puis bond rapide
+(~7 m, 14 m/s) qu'on peut enchaîner en un second bond plus long (~14 m) dans une fenêtre de 2,5 s (9.6.0). Toucher un
+survivant pendant le bond le saisit et le projette en infligeant des dégâts. S'il est projeté contre un mur, il reçoit en plus
+une grosse dose d'infection. Le bond passe les fenêtres et les palettes (vault spécial). Infection d'Uroboros : jauge de 0 à
+100 qui monte passivement (0,8/s) et de +20 par contact. À 100 (« Fully Infected »), le survivant subit Hindered 4 %
+permanent. On la guérit avec des sprays de premiers soins (6 caisses, 2 usages, 4 s de Killer Instinct). Recovery du
+bond : 2,7 s (9.6.0). Le refactor de 9.5.0 a corrigé les problèmes de désynchronisation.
+• Comment le jouer :
+1. Utilisez le premier bond court pour vous positionner, puis le second pour prendre le survivant à distance.
+2. Projetez les survivants contre un mur : l'infection monte plus vite, et à 100 le Hindered de 4 % est énorme.
+3. Les bonds traversent les fenêtres : un survivant qui fait une fenêtre sans avance est souvent attrapé.
+4. Surveillez les sprays (Killer Instinct) et interceptez les survivants qui vont se soigner.
+5. Utilisez les bonds pour les déplacements entre les gens (grosse mobilité).
+• Comment le contrer :
+1. Évitez les couloirs et les espaces dégagés où il a de l'élan. Les tiles « serrés » et en hauteur limitent ses bonds.
+2. Écoutez la charge (1,5 s, audible) et faites un demi-tour ou un strafe au moment du bond.
+3. Utilisez les sprays avant d'atteindre 100 (Hindered 4 % permanent).
+4. Évitez de vous faire projeter dans un coin ou contre un mur.
+5. Restez collé au décor dans les coins de palettes : les bonds se heurtent aux obstacles.
+• Meilleurs add-ons : Iridescent Uroboros Vial (tous infectés au départ, Exposed 30 s à 100), Chalice (Gold) (+50 % de
+durée de bond après un contact), Dark Sunglasses (Undetectable 20 s quand un survivant atteint 100), Loose Crank
+(vitesse entre les bonds, buffée en 9.6.0).
+• Build recommandé : Pain Resonance, Brutal Strength, Pop Goes the Weasel, Lethal Pursuer (Lethal et Corrupt ont les
+meilleurs taux de kill sur Wesker chez NightLight).
+• Perks enseignables :
+– Superior Anatomy : quand un survivant fast-vault près de vous, votre prochain vault est 30-40 % plus rapide pendant 10 s
+(cooldown de 20 s).
+– Awakened Awareness : en portant un survivant, vous voyez les auras des autres survivants à 16-20 m.
+– Terminus : quand les portes sont alimentées, les survivants blessés, au sol ou accrochés sont Broken jusqu'à l'ouverture,
+puis encore 35-45 s.
+• Tier : A. A chez Gfinity, PCGamesN et propelrc. NightLight : 46,9 % de kill pour 4,3 % d'usage (tueur très joué).
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+77
+
+=====PAGE 78=====
+30. The Knight (Tarhos Kovács)
+• Vitesse : 115 % (4,6 m/s). TR : 32 m. Taille : moyenne. DLC : Forged in Fog (2022).
+• Pouvoir, Guardia Compagnia : il trace un chemin de patrouille (jusqu'à 38 m depuis 9.1.0, à 15 m/s, 10 s maximum)
+pour l'un de ses 3 gardes, qui ont chacun leur cooldown. Si un garde détecte un survivant, une Chasse commence : le
+garde le poursuit et une bannière apparaît à l'endroit de la détection. Si le garde touche le survivant, celui-ci perd un
+état de santé. Le survivant peut arrêter la chasse en touchant la bannière (Haste de 50 % et Endurance pendant 3 s), en
+décrochant quelqu'un ou en tenant jusqu'à la fin. Ordres : un garde qui patrouille près d'une palette, d'un mur ou d'un
+gen le casse ou l'endommage.
+– Carnifex : ordres rapides, cooldown le plus court (20 s).
+– Assassin : chasse la plus rapide (4,4 m/s), inflige Deep Wound, cooldown de 30 s.
+– Jailer : patrouille la plus rapide, plus grande détection (16 m), chasses et patrouilles les plus longues (24 s).
+• Comment le jouer :
+1. Le « sandwich » : faites apparaître un garde de l'autre côté d'une boucle pour prendre le survivant en tenaille.
+2. Les gardes cassent les palettes : pour un anti-loop, déposez une patrouille à travers la palette ou le mur.
+3. Utilisez le Jailer pour la pression sur les gens (grande détection) et l'Assassin pour les chasses.
+4. Tracez vos patrouilles près des gens à 3 pour dissuader les réparations.
+5. Alternez les gardes selon leurs cooldowns pour en avoir un disponible à tout moment.
+• Comment le contrer :
+1. Une chasse de garde se contre avec la bannière. Faites demi-tour tôt, avant que le Knight n'arrive.
+2. Ne jouez pas une boucle où le garde et le Knight se font face : partez vers un tile neuf.
+3. Écoutez l'orbe et la trace fantomatique du tracé de patrouille pour anticiper.
+4. Pendant la patrouille, évitez la zone de détection ou restez hors de sa vue.
+5. Sur une chasse Assassin, faites-vous soigner le Deep Wound rapidement.
+• Meilleurs add-ons : Iridescent Company Banner (toutes les fenêtres deviennent cassables), Town Watch's Torch
+(Undetectable pendant les chasses), Sharpened Mount, Map of the Realm.
+• Build recommandé : Pain Resonance, Grim Embrace, Pop Goes the Weasel, Lethal Pursuer (Nowhere to Hide est moins
+bon depuis le passage à 18 m en 10.1.0).
+• Perks enseignables :
+– Hex: Face the Darkness : tant que le hex tient, les survivants blessés crient et révèlent leur aura toutes les 25-35 s.
+– Hubris : un survivant qui vous stun est Exposed 20-30 s (cooldown de 20 s).
+– Nowhere to Hide : frapper un gen révèle les survivants à 18 m (nerf 10.1.0, contre 24 m avant) pendant 3-5 s.
+• Tier : B (B chez Gfinity, PCGamesN et propelrc ; A chez dbdperkcombos).
+31. The Skull Merchant (Adriana Imai)
+• Vitesse : 115 % (4,6 m/s). TR : 24 m. Taille : moyenne. DLC : Tools of Torment (2023). Refonte complète confirmée par
+BHVR, probablement pour 2027.
+• Pouvoir actuel, Eyes in the Sky (après les ajustements de 9.3.x) : elle peut poser jusqu'à 6 drones qui tournent avec une
+ligne de scan (rayon de 10 m, 105°/s). Un survivant touché par le scan est Tracked et Hindered 10 %. Le Lock-On 
+s'accumule : 3 stacks, dont 1 de plus toutes les 2,5 s passées sous un drone. Au Lock-On complet, le survivant est blessé
+(Deep Wound), Broken et reçoit un Claw Trap qui révèle sa position pendant 45 s. Les survivants peuvent pirater un
+drone (désactivé 45 s). Le fast-vault n'immunise plus contre les scans. Un survivant Tracked donne à la Skull Merchant
+5 % de Haste pendant 8 s. Le radar (touche secondaire) affiche les survivants trackables à 32 m.
+• Comment le jouer :
+1. Posez les drones sur les tiles forts et sur les gens clés pour contrôler une zone (map en triangle).
+2. En chasse, déplacez un drone sur la boucle en cours : le Hindered de 10 % et la Haste donnent le coup.
+3. Utilisez le radar pour trouver les survivants sans perk d'aura.
+4. Placez-les sur les gens à 3 en fin de partie pour les défendre.
+• Comment le contrer :
+1. Piratez les drones quand le tueur est loin (désactivation de 45 s).
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+78
+
+=====PAGE 79=====
+2. Passez les lignes de scan en crouch ou en marchant avec le bon timing, et ne restez pas sous un drone (le Lock-On monte
+avec le temps).
+3. Faites retirer les Claw Traps rapidement (ils révèlent votre position).
+4. Jouez hors des zones de drones : c'est un tueur de zone faible en chasse pure.
+• Meilleurs add-ons : Iridescent Unpublished Manuscript (Undetectable 15 s quand un drone est désactivé, le drone
+désactivé émet un TR de 32 m), Expired Batteries (tout le monde commence avec un Claw Trap), Advanced Movement
+Prediction (aura 6 s des nouveaux piégés).
+• Build recommandé : Pain Resonance, Grim Embrace, Pop, Lethal Pursuer (des perks génériques pour compenser un
+pouvoir faible).
+• Perks enseignables :
+– Game Afoot : l'Obsession devient le survivant qui a le plus de temps de chasse. Casser des palettes ou des murs en le
+chassant donne 7 % de Haste pendant 8-10 s.
+– Leverage : les survivants décrochés soignent 20-30 % plus lentement pendant 60 s.
+– THWACK! : 3 tokens au départ, +1 par crochet. Casser une palette ou un mur consomme un token et fait crier les
+survivants à 36 m (aura 4-6 s).
+• Tier : D. Unanime : c'est le tueur le plus faible du jeu selon toutes les tier lists.
+32. The Singularity (HUX-A7-13)
+• Vitesse : 115 % (4,6 m/s). TR : 32 m. Taille : moyenne. DLC : End Transmission (2023).
+• Pouvoir, Quantum Instantiation : il pose des Biopods (8 maximum, le plus ancien est recyclé) sur les murs et les
+surfaces, à 22 m au plus. En contrôlant un Biopod, il tire sur un survivant (20 m) pour lui appliquer Temporal Slipstream,
+qui se propage aux survivants à 6 m. Il peut ensuite se téléporter instantanément sur un survivant Slipstreamed. Toutes
+les palettes au sol sur sa route sont détruites, et il passe en Overclock pendant 5,7 s : vitesse +3 %, actions (casse,
+frappe, vault) 75 % plus rapides, immunité aux stuns. Un stun résisté fait passer en Overheat (3 s, Hindered 50 %). Les
+survivants trouvent des EMP (4 imprimantes/caisses) qui retirent le Slipstream et désactivent les Biopods à 10 m
+pendant 45 s.
+• Comment le jouer :
+1. Posez des Biopods en hauteur, avec une vue sur des tiles forts et des gens.
+2. En chasse, taguez et téléportez-vous sur le survivant qui arrive sur une palette : l'Overclock lui enlève sa palette et son
+stun.
+3. Utilisez la téléportation pour traverser la map d'une chasse à l'autre.
+4. Gardez une trace des EMP : un survivant qui en porte un est une menace pour vos pods.
+5. Tirez depuis un pod derrière le survivant : il s'attend à vous voir devant.
+• Comment le contrer :
+1. Récupérez et utilisez les EMP de façon coordonnée : en retirant le Slipstream, vous privez le tueur de téléportation.
+2. Repérez les pods (bruit et lumière) et cassez leur ligne de vue.
+3. Ne vous agglutinez pas : le Slipstream se propage à 6 m.
+4. Stunner pendant l'Overclock ne sert à rien : attendez la fin des 5,7 s.
+• Meilleurs add-ons : Denied Requisition Form (tous Slipstreamed au départ), Iridescent Crystal Shard (aura à 10 m des
+pods fraîchement posés), Nutritional Slurry (+2 pods).
+• Build recommandé : Pain Resonance, Grim Embrace, Pop, Lethal Pursuer (ou Machine Learning pour la vitesse).
+• Perks enseignables :
+– Genetic Limits : un survivant qui perd un état de santé devient Exhausted 6/7/8 s.
+– Forced Hesitation : quand un survivant passe au sol, ceux à 16 m sont Hindered 20 % pendant 10 s (cooldown de 30-40 s).
+– Machine Learning : frapper un gen le « compromet ». Quand il est terminé, vous gagnez Undetectable et 10 % de Haste
+pendant 40-60 s.
+• Tier : B (B chez Gfinity, PCGamesN et propelrc).
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+79
+
+=====PAGE 80=====
+33. The Xenomorph
+• Vitesse : 115 % (4,6 m/s). TR : 32 m (24 m en Crawler). Taille : moyenne. DLC : Alien (2023).
+• Pouvoir, Hidden Pursuit :
+– Crawler Mode : il se recharge passivement hors des tunnels. En Crawler, le TR tombe à 24 m et il dispose d'une attaque
+de queue à longue portée (environ 4,8 m).
+– Tunnels : 7 Control Stations. Sous terre, il se déplace à 18 m/s, Undetectable, et détecte les pas des survivants à 16 m
+autour des sorties (crouch ou immobile = pas de détection).
+– Remote Flame Turrets : les survivants récupèrent jusqu'à 4 tourelles dans les stations et les posent. Une tourelle détecte
+le Xenomorph et le brûle. À 125 charges, il sort du Crawler Mode (étourdi).
+• Comment le jouer :
+1. La queue a une portée énorme : utilisez-la par-dessus les petites palettes, à travers les fenêtres, et pour « pincer » les
+tiles.
+2. Circulez en tunnel pour la pression entre les gens et coupez les rotations.
+3. Détruisez les tourelles (attaque de base) et évitez leur zone : une sortie de Crawler Mode vous rend très faible en chasse.
+4. Sortez d'un tunnel près des gens pour surprendre (vous êtes Undetectable).
+• Comment le contrer :
+1. Placez des tourelles sur les tiles forts pour « désarmer » le Xenomorph en chasse.
+2. Relevez les survivants et soignez-vous près des tourelles.
+3. Crouchez ou restez immobiles près des sorties de tunnel.
+4. Écoutez le cri et l'arrivée : le TR réduit à 24 m est un piège.
+5. Évitez les tiles ouverts où la queue a toute sa portée.
+• Meilleurs add-ons : Ovomorph (recharge du Crawler plus rapide), Kane's Helmet (Mangled), Acidic Blood (blesse les
+survivants sains quand il est stun).
+• Build recommandé : Pain Resonance, Pop Goes the Weasel, Bamboozle (meilleur taux de kill sur Xeno chez NightLight,
+58,8 %), Grim Embrace ou Lethal Pursuer.
+• Perks enseignables :
+– Alien Instinct : après un crochet, l'aura du survivant blessé le plus éloigné est révélée 8 s et il devient Oblivious 40-60 s.
+– Rapid Brutality : chaque coup de base donne 5 % de Haste pendant 8-10 s, mais le Bloodlust est désactivé.
+– Ultimate Weapon : ouvrir un casier fait crier les survivants à 40 m et les rend Blind (cooldown de 45-55 s).
+• Tier : A- (A chez Gfinity, PCGamesN et propelrc). NightLight actuel : 41,5 % de kill, donc le tueur est plus exigeant qu'il
+n'y paraît.
+34. The Good Guy (Chucky)
+• Vitesse : 110 % (4,4 m/s). TR : 32 m. Taille : petite (difficile à voir derrière le décor). DLC : Chucky (2023).
+• Pouvoir, Playtime's Over :
+– Hidey-Ho Mode : 14 s d'Undetectable, qui crée de faux pas (Illusory Footfalls) autour des survivants à 16 m. Cooldown de
+12 s.
+– Slice & Dice : un dash à 8 m/s pendant 1,8 s (prolongé), qu'on termine en attaque. Cooldown de 3 s si l'attaque touche,
+2,25 s si elle rate.
+– Scamper : pendant un Slice & Dice, il passe sous une palette ou à travers une fenêtre (1 s). Depuis 9.4.2, un Scamper
+sous une palette la casse immédiatement.
+– Buffs de 9.4.2 : virage du dash +10 %, attaque du dash 50 % plus longue, Hidey-Ho +15 %, Scamper qui casse la palette. 
+(Changements listés sous le mode 2v8 : leur effet en 1v4 n'est pas garanti.)
+• Comment le jouer :
+1. Hidey-Ho, puis Slice & Dice au moment où le survivant se retourne : c'est son combo de base. Utilisez l'Undetectable
+pour réduire la distance.
+2. Scamper sur la palette ou la fenêtre : le survivant qui compte sur la palette la perd.
+3. Profitez de la petite taille : les survivants vous perdent de vue derrière les rochers et les murs bas.
+4. Utilisez le dash pour traverser la map en début de partie.
+5. Les faux pas brouillent les perks d'audio du survivant : mindgamez.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+80
+
+=====PAGE 81=====
+• Comment le contrer :
+1. Regardez souvent autour de vous en Hidey-Ho (sans TR). Les faux pas sont bruyants mais n'ont pas de traces.
+2. Au moment du dash, esquivez latéralement : la rotation reste limitée malgré le buff.
+3. Méfiez-vous des palettes : un Scamper la traverse et la casse depuis 9.4.2. Jouez plutôt le tile que la palette.
+4. Utilisez la hauteur et les lignes de vue longues pour le voir venir.
+• Meilleurs add-ons : Iridescent Amulet (Hidey-Ho 50 % plus long), Portable TV (dash à 170 % de durée après
+l'alimentation des portes), Jump Rope, Hard Hat.
+• Build recommandé : Pain Resonance, Friends 'til the End, Grim Embrace, Lethal Pursuer (ou Pop).
+• Perks enseignables :
+– Hex: Two Can Play : après 2-4 stuns ou aveuglements, un hex s'allume, et les survivants qui vous stun ou vous aveuglent
+sont aveuglés 1,5 s.
+– Friends 'til the End : accrocher quelqu'un d'autre que l'Obsession révèle l'aura de l'Obsession 6-10 s et la rend Exposed 20
+s. Accrocher l'Obsession la fait passer à un autre survivant, qui crie.
+– Batteries Included : 5 % de Haste à 16 m d'un gen terminé. L'effet persiste 1-5 s (désactivé quand les portes sont
+alimentées).
+• Tier : A- (A chez PCGamesN et propelrc, B chez Gfinity). Très buffé début 2026.
+35. The Unknown
+• Vitesse : 115 % (4,6 m/s). TR : 32 m. Taille : grande. DLC : All Things Wicked (2024).
+• Pouvoir, UVX :
+– UVX : projectile chargé qui rebondit et explose en zone (2,25 m). Toucher un survivant en vol lui inflige Hindered 6 %
+pendant 3 s. L'explosion inflige Weakened (+8 s de jauge). Un survivant déjà Weakened et touché par l'explosion perd un
+état de santé. Cooldown de 6,25 s (9.6.0).
+– Weakened : il s'en débarrasse en regardant le tueur à moins de 25 m pendant 10 s cumulées (il apparaît en rose pour le
+tueur pendant ce temps).
+– Hallucinations : jusqu'à 4 leurres chargés autour de la map. Les survivants peuvent les dissiper (4 s). Rater la dissipation
+rend Weakened et déclenche 5 s de Killer Instinct.
+– Téléportation : téléportation vers une hallucination à plus de 3 m de distance, en laissant un leurre de 5 s. Cooldown de
+25 s.
+• Comment le jouer :
+1. Tirez l'UVX par-dessus les palettes et les murs, en rebond sur le sol, pour toucher derrière un obstacle.
+2. Deux coups : une explosion pour Weakened, puis une autre pour la blessure. En chasse, enchaînez rapidement.
+3. Placez les hallucinations près des gens et téléportez-vous vers les survivants qui les dissipent.
+4. Utilisez le leurre de téléportation pour les mindgames (il reste 5 s).
+• Comment le contrer :
+1. Guérissez-vous du Weakened en regardant le tueur (10 s) quand vous êtes en sécurité.
+2. Écoutez la charge de l'UVX et esquivez l'impact en bougeant latéralement ou en passant derrière un obstacle haut.
+3. Dissipez les hallucinations proches des gens quand le tueur est loin (et prudemment : un échec rend Weakened).
+4. Tenez les tiles hauts (murs pleins) plutôt que les palettes basses.
+• Meilleurs add-ons : Slashed Backpack (une hallucination touchée explose, et l'apparition se recharge beaucoup plus
+vite), Iridescent OSS Report (cooldown de téléportation −5 s, leurres plus longs avec TR), add-ons de rebond et de zone.
+• Build recommandé : Pain Resonance, Unforeseen, Pop Goes the Weasel, Lethal Pursuer (Nowhere to Hide est
+désormais moins bon).
+• Perks enseignables :
+– Unbound : après avoir été stun ou blessé, vaulter une fenêtre donne 5 % de Haste pendant 25 s (fenêtre de 26-30 s).
+– Unforeseen : frapper un gen transfère votre TR sur ce gen pendant 22-30 s et vous rend Undetectable.
+– Undone : tokens gagnés aux crochets (1-3 au maximum). Frapper un gen les consomme : −10 % de progression et 10 s de
+blocage par token.
+• Tier : B (B chez Gfinity, PCGamesN et propelrc). NightLight : 49,9 %.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+81
+
+=====PAGE 82=====
+36. The Lich (Vecna)
+• Vitesse : 115 % (4,6 m/s) ; 8 m/s en vol (Fly). TR : 32 m. Taille : moyenne. DLC : Dungeons & Dragons (2024).
+• Pouvoir, Vile Darkness : 4 sorts, tous disponibles dès le début (9.0.0).
+– Fly (20 s) : vole jusqu'à 5 s à 8 m/s en ignorant palettes et fenêtres (2,75 s de recovery).
+– Flight of the Damned (30 s) : 5 entités fantomatiques qui avancent sur 22 m. Elles blessent au contact et ne touchent pas
+un survivant accroupi sur terrain plat.
+– Dispelling Sphere (30 s) : une sphère qui avance et désactive pendant 45 s les objets magiques des survivants touchés.
+Killer Instinct de 5 s.
+– Mage Hand (35 s) : soulève une palette tombée (ce qui la rend réutilisable) ou bloque une palette debout pendant 4 s.
+– Objets magiques : 6 coffres contiennent des objets (bottes, gantelets, Eye/Hand of Vecna) qui donnent des bonus aux
+survivants mais déclenchent souvent un Killer Instinct.
+• Comment le jouer :
+1. Fly pour la mobilité et pour les chasses ouvertes : franchir une palette ou une fenêtre fait gagner une grande distance.
+2. Flight of the Damned sur un groupe ou un couloir oblige les survivants à s'accroupir, et ils perdent de la distance.
+3. Mage Hand sur une palette debout pour empêcher le drop au bon moment (combo quasi garanti).
+4. Dispelling Sphere pour de l'info et pour contrer les objets magiques.
+5. Surveillez les coffres (Killer Instinct).
+• Comment le contrer :
+1. Accroupissez-vous face au Flight of the Damned sur terrain plat.
+2. Jouez des tiles avec plusieurs palettes : Mage Hand n'en bloque qu'une à la fois.
+3. Utilisez les objets magiques avec parcimonie : ils vous révèlent.
+4. Écoutez le cooldown : entre deux sorts, il reste un M1 standard.
+• Meilleurs add-ons : Ring of Spell Storing (−1 s sur tous les sorts), Pearl of Power (−2 s de cooldown par coup), Iridescent
+Book of Vile Darkness (Fly bloque les fenêtres 45 s, le Flight touche les survivants accroupis).
+• Build recommandé : Pain Resonance, Surge, Dead Man's Switch, Barbecue & Chili (build NightLight à plus de 58 % de
+kill).
+• Perks enseignables :
+– Dark Arrogance : vault et recovery d'attaque 15-25 % plus rapides, mais stuns de palette et aveuglements 25 % plus
+longs.
+– Languid Touch : un survivant qui fait fuir des corbeaux à 36 m devient Exhausted 6-10 s.
+– Weave Attunement : un objet vidé tombe au sol. Les auras des objets au sol et des survivants proches (12 m) sont
+révélées, et ramasser un objet rend Oblivious 20-30 s.
+• Tier : A (A chez Gfinity, PCGamesN et propelrc). N°1 tous MMR et top 5 MMR élevé selon BHVR. NightLight : 50,1 %.
+37. The Dark Lord (Dracula)
+• Vitesse : 115 % (4,6 m/s) en forme vampire ou loup (4,8 m/s en loup avec les Scent Orbs) ; 6,5 m/s en chauve-souris. 
+TR : 32 m (berceuse de 48 m en chauve-souris). Taille : grande. DLC : Castlevania (2024).
+• Pouvoir, Vampiric Shift : 3 formes, 3,5 s de cooldown entre deux transformations.
+– Vampire : Hellfire, 0,9 s de charge puis 8 piliers de feu en ligne droite sur 10 m. Cooldown de 9,5 s (buff 9.2.x).
+– Loup : il voit mieux les traces et le sang. Les survivants lâchent des Scent Orbs : les ramasser donne de la Haste et réduit
+le cooldown du Pounce (jusqu'à 2 bonds qui cassent palettes et murs, 20 s de cooldown).
+– Chauve-souris : 6,5 m/s, Undetectable, sans attaque. Il se téléporte vers une palette ou une fenêtre dans un rayon de 2 à
+32 m (15 s de cooldown) et les pas des survivants sont amplifiés.
+• Comment le jouer :
+1. Chauve-souris pour se déplacer et arriver sur un tile, puis forme loup ou vampire selon la situation.
+2. Hellfire sur les fenêtres et les palettes pour zoner. Les piliers bloquent la sortie de boucle.
+3. En loup, les Scent Orbs guident la chasse. Le Pounce casse la palette et peut toucher.
+4. Changer de forme sans arrêt donne des mindgames imprévisibles.
+• Comment le contrer :
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+82
+
+=====PAGE 83=====
+1. En chauve-souris, il ne peut pas attaquer : la transformation est un moment de sécurité pour se positionner.
+2. Esquivez le Hellfire latéralement : c'est une ligne droite de 10 m.
+3. Ne laissez pas de traînées de Scent Orbs en ligne droite contre le loup.
+4. Utilisez les longs tiles avec plusieurs palettes.
+• Meilleurs add-ons : Iridescent Ring of Vlad (piliers à tête chercheuse), Cube of Zoe (piliers autour de lui après un gen),
+Warg's Fang (aura des survivants dont on a ramassé les orbes).
+• Build recommandé : Pain Resonance, Grim Embrace, Pop, Lethal Pursuer.
+• Perks enseignables :
+– Hex: Wretched Fate : l'Obsession répare 27-33 % plus lentement tant que le hex tient (s'allume après le premier gen).
+– Human Greed : les auras des coffres sont visibles. On peut les refermer d'un coup de pied, et les survivants près des
+coffres sont révélés.
+– Dominance : la première interaction avec un coffre ou un totem le bloque 8-16 s.
+• Tier : A (A chez Gfinity, PCGamesN et propelrc). Difficile à maîtriser.
+38. The Houndmaster (Portia Maye)
+• Vitesse : 115 % (4,6 m/s) ; 6 m/s en suivant le chien. TR : 32 m. Taille : moyenne. DLC : Doomed Course (2024).
+• Pouvoir, Scent of Blood : son chien Snug.
+– Chase Command : Snug fonce sur une trajectoire que vous dirigez. S'il attrape un survivant, il le traîne vers Portia (jusqu'à
+8 s, 2 s avec Endurance), et le survivant est Hindered 10 % et Incapacitated. Le survivant peut pousser le chien vers une
+palette pour se libérer. Cooldown de 3 s (buff 8.4.2).
+– Search Command : Snug patrouille vers un point, avec berceuse (32 m) et Killer Instinct sur les survivants détectés. Portia
+se déplace plus vite dans son sillage.
+– Houndsense : les survivants affectés ont des bruits de douleur et du sang amplifiés, et les blessés reçoivent Deep Wound.
+• Comment le jouer :
+1. Chase Command en ligne droite sur le survivant qui sort d'un tile. Le chien le ramène : ça fait une attaque de base facile.
+2. Visez les chemins libres : les palettes et les obstacles coupent le chien.
+3. Search Command pour trouver des survivants et traverser la map plus vite.
+4. Le chien comme anti-loop : tirez-le autour de la boucle.
+• Comment le contrer :
+1. Restez près des palettes et des obstacles : un survivant attrapé peut guider le chien vers une palette pour se libérer.
+2. Esquivez latéralement au dernier moment.
+3. Évitez les couloirs et les zones ouvertes.
+4. Écoutez la berceuse du chien en Search Command.
+• Meilleurs add-ons : Leather Harness (chien 20 % plus rapide après les gens, puis en permanence), Marlinspike
+(Houndsense à 20 m autour du survivant attrapé), Iridescent Wheel Handle (Undetectable pendant les recherches),
+Knotted Rope.
+• Build recommandé : Pain Resonance, Surge, Dead Man's Switch, Barbecue & Chili (ou All-Shaking Thunder sur les maps
+à étages).
+• Perks enseignables :
+– All-Shaking Thunder : après être tombé d'une hauteur, votre fente a une portée de +75 % pendant 15-25 s.
+– Scourge Hook: Jagged Compass : les crochets deviennent des Scourge Hooks au fil des décrochages. Y accrocher
+quelqu'un révèle le gen le plus avancé.
+– No Quarter : à 75 % d'autosoin, le survivant subit des skill checks continus. Un échec le rend Broken 20-30 s.
+• Tier : B (B chez Gfinity, PCGamesN et propelrc). NightLight : 47,8 %.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+83
+
+=====PAGE 84=====
+39. The Ghoul (Ken Kaneki)
+• Vitesse : 115 % (4,6 m/s). TR : 40 m. Taille : moyenne. DLC : Tokyo Ghoul (2025).
+• Pouvoir, One-Eyed Terror :
+– Kagune Leap : 2 tokens (4 s de recharge chacun). On vise une surface ou un survivant à 14 m (nerf 8.6.2) et le Kagune tire
+le Ghoul vers la cible. On peut enchaîner les bonds dans une fenêtre de 5 s. Les bonds franchissent les fenêtres et les
+palettes tombées. Un bond sur un survivant déclenche un grab-attack : le survivant est blessé (Deep Wound) et reçoit un 
+Kagune Mark. Un survivant marqué ne peut plus être attrapé : il faut le finir à l'attaque de base.
+– Enraged Mode : il s'active après un grab. On passe à 3 tokens (2,5 s de recharge), les vaults sont plus rapides et casser
+une palette coûte 2 tokens. Le mode dure tant qu'un survivant porte une marque ou qu'un compte à rebours tourne (40 s
+après le retrait d'une marque, jusqu'à 50 s avec un grab parfait).
+– En 9.5.0, le magnétisme de visée a été ajusté et le hit automatique après un vault par bond a été supprimé.
+• Comment le jouer :
+1. Ouvrez chaque chasse par un bond suivi d'un grab (blessure plus marque), puis enchaînez en Enragé.
+2. Utilisez les bonds pour traverser la map et les étages : c'est le tueur le plus mobile de l'ère récente.
+3. En Enragé, bondissez à travers les fenêtres et les palettes plutôt que de les casser (casser coûte 2 tokens).
+4. Blessez plusieurs survivants pour prolonger l'Enragé.
+5. Visez le survivant juste au moment où il sort d'un tile.
+• Comment le contrer :
+1. Coupez la ligne de vue : le bond nécessite une cible visée.
+2. Restez sur des tiles hauts et fermés et évitez les espaces ouverts.
+3. Une fois marqué, faites-vous soigner rapidement. Retirer la marque lance le compte à rebours de 40 s de l'Enragé.
+4. Esquivez latéralement au moment du bond (la visée est moins magnétique depuis les nerfs).
+• Meilleurs add-ons : Hinami's Umbrella (bonus de grab parfait porté à 10 s), Iridescent Eye Patch (le 3e bond en Enragé
+casse instantanément les palettes tombées), Yamori's Mask (accrocher en Enragé révèle les survivants à plus de 40 m).
+• Build recommandé : Pain Resonance, Surge, Friends 'til the End, Brutal Strength ou Lethal Pursuer.
+• Perks enseignables :
+– Hex: Nothing but Misery : après 4 coups, un hex s'allume. Les survivants endommagés sont Hindered et vaultent plus
+lentement.
+– Forever Entwined : un token chaque fois qu'un survivant perd de la santé (6-8 au maximum). Chaque token accélère de
+4 % le ramassage, le lâcher et l'accrochage.
+– None Are Free : un token par premier crochet. Quand les gens sont terminés, les fenêtres et palettes proches sont
+bloquées 12-16 s par token.
+• Tier : A+ / S- (S chez Gfinity en septembre 2026, A chez PCGamesN et propelrc). Plus de 60 % de kill en MMR élevé selon
+BHVR. NightLight : 52 %, 4,05 % d'usage.
+40. The Animatronic (Springtrap)
+• Vitesse : 110 % (4,4 m/s) hache en main, 115 % (4,6 m/s) sans la hache. TR : 24 m. Taille : moyenne. DLC : Five Nights at
+Freddy's (2025).
+• Pouvoir, Fazbear's Fright :
+– Fire Axe : lancer à distance (1 s de windup, 16 m, 30 m/s). Un survivant sain qui est touché perd un état de santé et garde
+la hache plantée : Broken et Oblivious jusqu'à ce qu'elle soit retirée (5 s par un allié, 8 s seul). Le tueur peut aussi la
+récupérer en saisissant le survivant (4,2 s). Une hache plantée dans le décor crée une zone de 2 m qui révèle les
+survivants pendant 15 s. Rappel de la hache : 6 s depuis le décor, 8 s depuis un survivant (9.6.0).
+– Security Doors : 7 portes. Le tueur les traverse (téléportation) et gagne 20 s d'Undetectable en sortie. Les survivants
+peuvent aussi s'en servir (téléportation plus lente) et consulter les caméras pour révéler le tueur (4 s d'observation, ce qui
+lui retire son Undetectable pendant 10 s). Tout ça consomme une batterie commune de 100 charges : 12 par passage, 6
+par seconde de caméra (9.6.0). À 0, reboot de 45 s. Jumpscare : si le tueur entre dans une porte déjà occupée par un
+survivant, il l'attrape. Lancer la hache sur une porte la désactive pour les survivants.
+• Comment le jouer :
+1. Lancez la hache à la sortie d'un tile : un survivant Broken est une proie facile.
+2. Utilisez les portes pour la mobilité et l'Undetectable de 20 s en approche.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+84
+
+=====PAGE 85=====
+3. Lancer la hache sur une porte que les survivants utilisent ou surveillent les prive de caméra.
+4. Écoutez le grésillement des caméras (on vous observe).
+5. Plantez la hache près des gens ou des portes de sortie pour de l'info.
+• Comment le contrer :
+1. Regardez s'il a sa hache (4,4 m/s) ou non (4,6 m/s) et jouez en conséquence.
+2. Utilisez les caméras uniquement quand il est en chasse, porte un survivant ou casse quelque chose, et gérez la batterie.
+3. Retirez la hache plantée au plus vite (Broken) et interrompez le retrait si le tueur approche.
+4. N'entrez pas dans une porte si le tueur risque d'y entrer aussi (jumpscare).
+5. Perks d'info et de vitesse recommandés : Alert, Kindred, Sprint Burst, Windows of Opportunity.
+• Meilleurs add-ons : Iridescent Remnant (bloque les palettes debout à 32 m autour de la porte empruntée pendant 12
+s), Access Panel (la hache traverse les portes), Faz-Coin (la hache émet un TR, Undetectable 10 s), Loot Bag.
+• Build recommandé : Pain Resonance, Pop Goes the Weasel, Barbecue & Chili, Grim Embrace.
+• Perks enseignables :
+– Help Wanted : frapper un gen le compromet. Quand il est terminé, votre recovery d'attaque est plus rapide pendant
+40-60 s.
+– Phantom Fear : un survivant dans votre TR qui vous regarde crie et révèle son aura 2 s (cooldown de 60-80 s).
+– Haywire : si les survivants arrêtent d'ouvrir une porte après 80 %, la porte régresse.
+• Tier : A- (A chez Gfinity et PCGamesN). NightLight : 42,9 %, donc un tueur plus exigeant qu'on ne pense.
+41. The Krasue (Burong Sukapat)
+• Vitesse : 115 % (4,6 m/s) en forme Corps, 120 % (4,8 m/s) en forme Tête, 175 % (7 m/s) en Headlong Flight. TR : 32 m en
+Corps, 40 m en Tête. Taille : moyenne. DLC : Sinister Grace (septembre 2025, tueuse originale thaïlandaise).
+• Pouvoir, Unbodied Flesh : on change de forme avec Corporeal Weave.
+– Corps : Regurgitate, une glande projectile qui rebondit et se divise en 4 mini-glandes à tête chercheuse. Un survivant
+touché gagne +100 charges de Leech. Cooldown de 2,5 s.
+– Tête : Headlong Flight (vol à 7 m/s, 12 charges, seuil de 25 %) et Intestinal Whip (fouet de mêlée qui ignore les obstacles
+pendant un court instant, +34 charges, ne blesse que les survivants au moins Leeched I). La tête vault les palettes et
+fenêtres au lieu de les casser. Stun de palette de 2,5 s, pas de Bloodlust.
+– Leeched : au palier I (100 charges), le fouet blesse et la jauge monte passivement. Au palier II (200), le survivant est
+blessé et Broken. Hotfix 9.2.2 : le Leeched est retiré au crochet.
+– Champignons lumineux : 5 au départ, 6 au maximum. Un survivant Leeched peut les manger (3 s) pour faire baisser sa
+jauge.
+• Comment le jouer :
+1. En forme Corps, arrosez de glandes : les rebonds et les divisions touchent derrière les obstacles et appliquent le Leech à
+plusieurs survivants.
+2. Passez en Tête pour la chasse : le fouet traverse brièvement les obstacles et les palettes ne vous arrêtent pas (vous les
+vaultez).
+3. Headlong Flight pour traverser la map et rejoindre les gens.
+4. Poussez vers le palier II : un survivant sain à 200 est blessé et Broken sans que vous ayez à frapper.
+5. Défendez ou surveillez les champignons.
+• Comment le contrer :
+1. Mangez les champignons dès que votre jauge monte (3 s).
+2. En forme Tête, rappelez-vous que le stun de palette dure 2,5 s : tentez des stuns.
+3. Esquivez les glandes en changeant de direction. Les mini-glandes cherchent la cible, donc coupez la ligne de vue.
+4. Maintenez la distance contre le fouet : il a une fenêtre d'ignorance d'obstacle très courte.
+5. Retenez que le crochet remet le Leech à zéro.
+• Meilleurs add-ons : Chicken Head (tous Leeched I au départ, +2 champignons), Shredded Gown (aura des survivants
+près des champignons), Janjira's Hand (recharge du vol à la complétion des gens), Framed Newspaper, Queen's Sceptre
+(le fouet fait apparaître une glande).
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+85
+
+=====PAGE 86=====
+• Build recommandé : Pain Resonance, Dissolution (tant que la 10.2.0 n'est pas live), Pop Goes the Weasel, No Way Out
+ou Ravenous.
+• Perks enseignables :
+– Ravenous : un token par premier crochet (4 au maximum), chaque token donne +4 % de Haste en portant et +4 % de
+vitesse d'accrochage. À 4 tokens, tous les survivants crient et sont Exposed 80-90 s.
+– Wandering Eye : au début d'une chasse, révèle les autres survivants blessés à 20 m pendant 5 s (cooldown de 30-40 s).
+– Hex: Overture of Doom : maudit le gen le plus éloigné. Quand quelqu'un y répare 5 s, votre TR est transféré dessus et
+vous êtes Undetectable 20-30 s.
+• Tier : S- / A+. N°1 en kill rate MMR élevé selon BHVR (octobre 2025 à février 2026). A chez Gfinity, PCGamesN et
+propelrc. Certains joueurs la jugent « meilleure que Nurse ». Taux de NightLight peu fiable (0,81 % d'usage, 43,8 %).
+42. The First (Henry Creel)
+• Vitesse : 110 % (4,4 m/s) ; 8 m/s dans l'Upside Down. TR : 32 m. Taille : moyenne. DLC : Stranger Things Chapter 2
+(janvier 2026).
+• Pouvoir, Test Subject #001 :
+– Vine Attack : une attaque de zone chargée qui fait jaillir des lianes à distance (rayon de 1,46 m). Il marche lentement
+pendant la charge et le cast, et le cooldown est de 3 s. Chaque touche donne un token Worldbreaker. Elle peut casser les
+palettes.
+– Upside Down : il plonge dans une dimension parallèle (Undetectable, 8 m/s, traverse palettes, fenêtres et murs).
+Cooldown de 35 s, avec 50 % dès le début de partie.
+– Undergate Attack : depuis l'Upside Down, crée une zone qui s'étend et donne 2 tokens.
+– Worldbreaker : à 2 ou 4 tokens, le Worldbreaker s'active : ses attaques de pouvoir blessent au lieu de donner des tokens.
+Phase 1 : 60 s par survivant vivant. Phase 2 : 50 s (9.5.0). Les survivants peuvent interagir avec 4 horloges pour accélérer
+la fin (en phase 1).
+– Mind Break : un survivant à 4 tokens au 2e crochet peut être mis en lévitation puis tué (mori).
+• Comment le jouer :
+1. Lancez les lianes aux sorties de palette et de fenêtre, en anticipant (il est lent, 4,4 m/s).
+2. L'Upside Down sert de mobilité rapide entre les gens et à des embuscades avec l'Undergate.
+3. Planifiez le Worldbreaker : accumulez les tokens sur plusieurs survivants, puis exploitez la fenêtre où vos lianes blessent.
+4. Pressez les gens pendant que les survivants sont sur les horloges.
+• Comment le contrer :
+1. Soyez imprévisible (feintes de vault, changements de direction) : les lianes visent là où vous allez.
+2. Lors d'une Undergate (anneau rouge), sortez vite de la zone. Un casier protège.
+3. Un seul survivant sur les horloges. Les autres restent sur les gens : ajouter des survivants aux horloges n'aide presque
+pas.
+4. Exploitez sa lenteur (110 %) en boucle hors Worldbreaker.
+5. Build conseillé : Sprint Burst, Lightweight, Vigil, Ghost Notes.
+• Meilleurs add-ons : Iridescent Soteria Chip (Undetectable à l'activation du Worldbreaker, auras à 12 m), Pizza Goggles
+(Upside Down beaucoup plus fréquent), Chess Piece (lianes à 2 charges), Bead Maze.
+• Build recommandé : Pain Resonance, Turn Back the Clock, Lethal Pursuer, Pop Goes the Weasel.
+• Perks enseignables :
+– Hex: Hive Mind : au premier crochet, un hex montre la progression de tous les gens. Après 4 gens terminés, les gens
+restants explosent (−6-10 %) et régressent.
+– Secret Project : un totem purifié ou béni bloque un gen au hasard pendant 20-30 s. Un gen bloqué vous rend
+Undetectable 30 s.
+– Turn Back the Clock : après un crochet, pendant 40-60 s, vous pouvez faire exploser un gen à 20 m (−10 % et régression).
+• Tier : A. N°2 en kill rate MMR élevé selon BHVR. A chez Gfinity et propelrc. NightLight : 49,7 %.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+86
+
+=====PAGE 87=====
+43. The Slasher (Jason Voorhees)
+• Vitesse : 110 % (4,4 m/s) ; 200 % (8 m/s) en Omnipresent Evil. TR : 32 m. Taille : moyenne. DLC : Chapitre Jason / Friday
+the 13th (16/06/2026).
+• Pouvoir, Omnipresent Evil :
+– Omnipresent Evil : il devient invisible, Undetectable et ignore palettes, murs et fenêtres, mais ne peut pas attaquer. Il
+détecte les survivants à 16 m (nuages de brume pour ceux qui sont immobiles, traces de pas pour ceux qui bougent). Un
+survivant accroupi devient indétectable après 2,5 s.
+– Jump Scare (après 2 s) : il réapparaît sur une palette, un mur ou une fenêtre à 16 m. La réapparition est plus lente près
+d'un survivant accroché (anti-camp ×3). Il gagne de la Haste pendant 25 s et révèle les survivants proches. Cooldown de
+12 s.
+– Throwing Spikes : des pics ramassés sur les crochets ou dans des tas de ferraille. Chaque pic blesse d'un état de santé et
+pousse le survivant, qui peut se retrouver épinglé contre un mur (8 s ou dégagement automatique). Les pics de crochet
+rendent Broken et restent plantés (5 s à retirer), et Jason voit leur aura à 26 m. Un survivant épinglé ou empalé au dernier
+crochet peut être achevé (Finisher).
+• Comment le jouer :
+1. Utilisez Omnipresent Evil pour atteindre un tile sans vous faire voir, puis Jump Scare sur la palette ou la fenêtre où se
+trouve le survivant.
+2. La Haste de 25 s après le Jump Scare fait gagner les chasses courtes.
+3. Gardez des pics sur vous : un pic sur un survivant sain qui arrive sur une palette. L'épinglage contre un mur donne un
+ramassage rapide.
+4. Les pics de crochet (Broken) empêchent le soin : priorisez-les.
+5. Écoutez les gens en Omnipresent Evil.
+• Comment le contrer :
+1. Quand le TR se coupe, il est entré en Omnipresent Evil. Vous avez environ 2 s avant qu'il puisse Jump Scare :
+déplacez-vous ou accroupissez-vous.
+2. Ne restez pas debout près d'une palette ou d'une fenêtre à moins de 16 m d'où il pourrait réapparaître.
+3. Accroupissez-vous 2,5 s pour disparaître de ses sens.
+4. Retirez les pics de crochet rapidement (Broken).
+5. Contre le tunnel et le slug : Borrowed Time, Kindred, Decisive Strike.
+• Meilleurs add-ons : Iridescent Boat Motor (le Jump Scare bloque les fenêtres marquées pendant 13 s), Deputy's Badge
+(explosions de gens au passage, portée nerfée en 10.0.2), Dirty Money, Orderly's Shoe (+5 s de Haste), Sauna Rock
+(Exhausted au Jump Scare).
+• Build recommandé : Pain Resonance, Pop Goes the Weasel, Surge, Corrupt Intervention (build « fog of regression »).
+Variante anti-loop : Spirit Fury, Enduring, Bamboozle, Tinkerer.
+• Perks enseignables :
+– Hex: Scared to Death : actif après avoir accroché 3 survivants différents. Casser une palette en chasse fait crier les
+survivants à 13 m et les rend Hindered 11-13 % pendant 3 s.
+– Silent Shadow : Undetectable 11-13 s après chaque crochet, et en permanence une fois les portes alimentées.
+– Rampage : un token par palette ou mur cassé (13 au maximum). Quand vous êtes stun ou aveuglé, vous gagnez 1 % de
+Haste par token pendant 13 s.
+• Tier : A (A chez Gfinity, PCGamesN en juin 2026 et dbdperkcombos). NightLight : 44,9 % pour 6,1 % d'usage (tueur très
+joué, beaucoup de débutants dessus).
+44. The Judgment
+• Vitesse : 110 % (4,4 m/s). TR : 32 m. Taille : grande. DLC : Chorus of Sin (25/08/2026, tueur original, entité céleste).
+• Pouvoir, Will of the Gods :
+– Divine Light : on maintient la touche pour contrôler une colonne de lumière (rayon de 0,6 m, 16 m de haut) jusqu'à 3 s,
+puis on la relâche pour la projeter. Plus on la contrôle longtemps, plus l'impact est rapide. Elle blesse et applique Heresy.
+Un survivant qui passe à 0,5 m sans être touché est révélé. Cooldown de 6 s.
+– Heresy : on la gagne en étant touché par la lumière, en s'accroupissant ou en faisant 3 gestes à 10 m, ou en restant 45 s
+dans le seuil d'une porte de sortie. Un hérétique fait régresser un gen de 3 % sur un « bon » skill check, et la porte de
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+87
+
+=====PAGE 88=====
+sortie lui est bloquée 8 s.
+– Exile : au lieu d'accrocher un hérétique au sol, on peut l'exiler. Ça compte comme un crochet, mais ne déclenche pas les
+perks de crochet (Borrowed Time, Off the Record…). Dans l'Exile, le survivant esquive des « Seeds of Punishment » (−3 s
+de progression par touche) et collecte jusqu'à 10 âmes avec un pendentif (+0,5 s de protection par âme au décrochage).
+Les 2 sanctuaires les plus proches (sur 7) s'activent pour permettre le sauvetage. Un survivant exilé qui a déjà 2 états de
+crochet meurt.
+– Zealous : pendant 60 s après un exil, lumière +10 %, cast +50 %, cooldown −20 %.
+– Hotfix 10.1.2a : fenêtre de courbure ramenée à 0,6 s en Zealous.
+• Comment le jouer :
+1. Contrôlez la lumière pour « suivre » le survivant, puis relâchez quand il est engagé sur une trajectoire (sortie de palette,
+couloir).
+2. Exilez plutôt qu'accrocher contre les équipes chargées de perks anti-tunnel : ça contourne BT et OTR.
+3. Profitez du Zealous qui suit un exil pour enchaîner une chasse.
+4. Les hérétiques font régresser les gens sur les bons skill checks : la pression passive est énorme.
+5. Build NightLight le plus performant : A Nurse's Calling, Nemesis, Lethal Pursuer, Celestial Witness (environ 70 % sur 228
+matchs).
+• Comment le contrer :
+1. Brisez la ligne de vue comme contre la Nurse. Pour une colonne proche, courez vers elle (le délai de dégât laisse le temps
+de la traverser). Pour une colonne lointaine, sortez de sa ligne.
+2. Écoutez le son de charge et de projection.
+3. Ne vous accroupissez pas ou ne faites pas de gestes près des autres (ça donne l'Heresy), et ne campez pas dans le seuil
+de porte.
+4. En Exile, esquivez les graines et collectez les âmes avec le pendentif (jusqu'à 10) pour protéger votre sauveteur.
+5. Perks conseillés : Distortion, Boon: Shadow Step, Self-Preservation, Bound by Obsession, Blast Mine. Les perks qui
+dépendent du crochet sont affaiblis.
+• Meilleurs add-ons : Chains of the Heretic (en Zealous, la lumière se dirige toujours vers vous, +100 % de vitesse
+contrôlée, +50 % au cast), Obsidian Feather (auto-cast, contrôle beaucoup plus rapide), Mirror of the Creators (la
+lumière rebondit sur 2 obstacles), Eyes of Gerhardt (auras des hérétiques), Crown of the Destroyer.
+• Build recommandé : Lethal Pursuer, A Nurse's Calling, Nemesis, Celestial Witness (ou Gearhead, au meilleur taux de kill,
+63,6 %).
+• Perks enseignables :
+– Celestial Witness : toutes les 30 s, si l'Obsession est à plus de 40 m, son aura est révélée 2-3 s. Sinon, le survivant le plus
+éloigné devient l'Obsession.
+– Hex: Under Your Thumb : s'allume sur un totem au premier état de crochet. Les survivants qui courent ne peuvent plus
+cumuler plus de 15-25 % de Haste, et ceux qui gagnent de la Haste à 32 m sont révélés 4 s.
+– Lay Waste : frapper un gen augmente sa régression de 2 % par charge existante (cooldown de 45-55 s).
+• Tier : B+ (B chez Gfinity, trop récent pour les autres). NightLight : 55,9 % de kill et 17,2 % d'usage, ce qui est très haut
+pour un tueur de lancement.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES 44 TUEURS
+88

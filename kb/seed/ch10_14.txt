@@ -1,0 +1,2079 @@
+
+=====PAGE 99=====
+CHAPITRE 10
+10. Tueur : stratégies, builds et
+mindgames
+Jouer tueur à haut niveau, c'est gérer une seule ressource : le temps des survivants. Vous ne pouvez pas empêcher les
+générateurs d'avancer, mais vous pouvez faire en sorte que chaque seconde de réparation vous coûte moins qu'elle ne
+leur rapporte. Ce chapitre reprend les règles système, le déroulé d'une partie, la théorie de la poursuite, puis 15 builds
+commentés.
+La boucle de pression : chaque étape prépare la suivante.
+Règles système à connaître
+• Protections après décrochage (patch 10.1.0) : un survivant décroché gagne Endurance + 10 % de Haste pendant 10 s
+(c'était 15 s entre les patchs 9.3.0 et 10.1.0). Il gagne aussi Elusive 10 s : pas de traces rouges, pas de flaques de sang,
+pas de grognements, aura cachée. Elusive ne s'applique plus une fois les portes alimentées.
+– Toutes ces protections tombent dès qu'il fait une action « visible » (réparer, soigner, etc.).
+– Conséquence : frapper tout de suite le survivant décroché ne sert à rien (Endurance). Le retrouver pendant les 10
+premières secondes est difficile (Elusive).
+• Les systèmes anti-tunnel et anti-slug complets testés aux PTB 9.2.0 et 9.3.0 n'ont PAS été mis en live : protection de
+30 s, ramassage automatique après 90-120 s, bonus de réparation si un survivant meurt tôt, statut de crochet caché.
+BHVR les a d'abord reportés, puis annulés. Rien n'empêche mécaniquement le tunneling ; seules les protections de 10 s
+ci-dessus existent.
+• Anti-facecamp (rééquilibré au 9.3.0) :
+– Une jauge de « Resolve » se remplit chez le survivant accroché quand le tueur reste proche (zone d'environ 16 m) et
+qu'aucun autre survivant n'est à côté.
+– Vitesse de remplissage : base réduite d'environ 50 %, mais ×2 après 10 s de présence et ×4 après 20 s.
+– Quand la jauge est pleine, le survivant se décroche seul à coup sûr.
+– Chaque nouvel accrochage donne 7 s de grâce à tous les survivants accrochés.
+– Les autres survivants accrochés voient cette jauge.
+• Slug et abandon :
+– Un survivant au sol récupère automatiquement s'il ne bouge pas, sans tenir de bouton (patch 9.2.0), à 50 % de la vitesse
+de soin. Il remonte jusqu'à 95 % en environ 30 s.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+TUEUR : STRATÉGIES, BUILDS ET MINDGAMES
+99
+
+=====PAGE 100=====
+– Il meurt s'il a passé 240 s cumulées au sol.
+– Les survivants peuvent abandonner la partie si tous les survivants vivants sont au sol (patch 8.6.0), ou s'ils tombent pour
+la 3ᵉ fois après s'être relevés deux fois (patch 9.2.0). Dans ce cas, le tueur obtient les kills.
+• Abandon côté tueur : possible si tous les survivants sont des bots, ou si 10 minutes se sont écoulées sans qu'aucun
+générateur n'ait été terminé ni n'ait régressé.
+• Crochets :
+– 1ʳᵉ phase : 70 s. Pas d'auto-décrochage quand il reste 3 survivants ou plus. À 2 survivants restants, l'auto-décrochage est
+possible (4 %).
+– 2ᵉ phase (lutte) : 70 s. À 2 survivants restants, ne pas répondre à 2 skill-checks de suite mène directement au sacrifice
+(patch 9.1.0).
+– Un crochet brisé par un sacrifice se répare en 60 s. Un crochet saboté se répare en 30 s.
+– Les crochets de la cave ne peuvent pas être sabotés.
+• Mori (patch 9.0.0) : possible dès qu'il ne reste que 2 survivants, si l'un est en phase de lutte sur un crochet et l'autre au
+sol. Lancer le Mori sacrifie aussi tout de suite le survivant accroché.
+• Apparition des survivants (patch 9.0.0) : les survivants apparaissent à moins de 12 m les uns des autres et sur le même
+étage quand c'est possible. En début de partie, ils sont donc groupés. L'offrande tueur Shroud of Vanishing annule leurs
+offrandes d'apparition.
+• Offrandes de carte et de royaume (patch 9.0.0) : chance fixe de 20 % d'obtenir la carte, et deux offrandes identiques ne
+se cumulent plus. Il n'est plus possible de forcer une carte.
+• Bloodpoints tueur (9.3.0) : 500 BP par début de poursuite, 750 par accrochage et 750 pour le 1ᵉʳ accrochage de chaque
+survivant, 250 pour le 2ᵉ accrochage, 500 par sacrifice.
+• Rendements décroissants (9.6.0) : voir §A.1. Il vaut mieux mélanger les catégories de ralentissement que d'empiler des
+perks de même nature.
+Ouverture (0 à 2 minutes)
+1. Lire la carte. Repérez les 7 générateurs et placez mentalement les 3 générateurs à défendre : un triangle proche,
+idéalement près de zones pauvres en palettes. Corrupt Intervention bloque les 3 plus éloignés de vous, ce qui influence
+les générateurs que les survivants vont toucher en premier.
+2. Trouver le premier survivant. Les survivants apparaissent en groupe (12 m), donc chercher « au hasard » coûte cher.
+Lethal Pursuer (7-9 s d'aura) sert à ça : repérez le groupe et le survivant le plus isolé ou le plus proche.
+3. Frapper un générateur tôt si vous jouez Eruption, Nowhere to Hide ou Call of Brine, pour les amorcer. Sinon, allez
+directement à la poursuite.
+4. Choisir sa première poursuite. Évitez le survivant posté sur une tile très forte (main building, jungle gym + palette
+« god »). S'il y en a un sur une zone morte, prenez-le. Si vous voyez un survivant avec une lampe torche ou une boîte à
+outils sur un générateur, c'est souvent le joueur le plus dangereux à retirer en premier (réparateur rapide ou SWF à
+flashlight).
+5. Objectif réaliste : un premier accrochage avant 1 min 30 à 2 min, avec 1 à 2 générateurs terminés au maximum.
+Milieu de partie : pression et gestion des générateurs
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+TUEUR : STRATÉGIES, BUILDS ET MINDGAMES
+100
+
+=====PAGE 101=====
+Défendre trois générateurs proches : crochet au centre, patrouille courte.
+• Stratégie de 3-gen : dès le début, choisissez 3 générateurs proches, puis concentrez-y vos coups de pied et vos
+patrouilles. Les perks de blocage (Grim Embrace, DMS, No Holds Barred) et les explosions (Pain Res, Pop, Eruption)
+servent à tenir ce triangle.
+– Limite : 8 regression events par générateur. Au-delà, vous ne pouvez plus rien y faire. Vous devez donc gagner des
+poursuites dans le triangle au lieu de simplement frapper les générateurs.
+– Laissez tomber les générateurs éloignés : les défendre coûte trop de temps de trajet.
+• Patrouille et défense des générateurs :
+– Frappez un générateur uniquement s'il a une progression significative (au-delà de 30-40 %), ou si le coup déclenche un
+perk (Pop, Eruption, NTH, Call of Brine).
+– Un coup de pied sur un générateur à 10 % gaspille 1 des 8 events et 1,8 s.
+– Après un accrochage, frappez le générateur le plus avancé sur votre chemin (Pop), puis dirigez-vous vers les survivants
+révélés par BBQ ou NTH.
+• Accroché → frappé → poursuite : c'est la boucle de base. Vous accrochez (Pain Res fait exploser un générateur ; Grim
+bloque tout), vous frappez un générateur en passant (Pop), et vous lancez la poursuite suivante en utilisant l'info (BBQ).
+• Pain Resonance : vous avez 4 jetons, un par survivant. Portez chaque nouveau survivant vers un crochet Fléau (aura
+blanche) plutôt que vers le crochet le plus proche, sauf si le trajet est trop long (plus de 10 à 15 s de portage). Pain Res
+ne se déclenche qu'une fois par survivant, donc placez-le sur 4 survivants différents.
+• Grim Embrace récompense les 4 premiers accrochages sur 4 survivants différents. Le 4ᵉ bloque tout pendant 40 s. Il se
+combine donc avec une stratégie « accrocher tout le monde une fois ».
+• Choisir le survivant blessé : quand plusieurs survivants sont visibles, poursuivez le blessé. Un seul coup suffit pour le
+mettre au sol, ce qui rapporte un accrochage rapide. Un survivant en bonne santé sur une bonne tile vous coûte 40 à 60
+s pour deux coups.
+• Frapper-et-partir, effet boule de neige : sur les tueurs M1 (sans pouvoir à distance), blesser plusieurs survivants puis
+passer de l'un à l'autre crée plus de pression que de finir une longue poursuite. Sloppy Butcher et A Nurse's Calling
+amplifient cette approche (soins plus longs et lisibles). Plus il y a de survivants blessés, plus Thanatophobia et Cull the
+Weak ralentissent la partie.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+TUEUR : STRATÉGIES, BUILDS ET MINDGAMES
+101
+
+=====PAGE 102=====
+Théorie de la poursuite
+• Quand abandonner une poursuite :
+– Règle d'environ 30 s : si après 30-40 s vous n'avez gagné ni coup ni palette, et que le survivant enchaîne sur un autre loop
+fort, laissez-le, surtout si des générateurs avancent.
+– Abandonnez tout de suite si un autre survivant se montre blessé ou sur une zone morte, ou si un générateur de votre
+triangle est sur le point de finir.
+– Exception : vous poursuivez l'Obsession avec Keep Them Waiting, vous n'avez aucune info ailleurs, ou le survivant n'a
+plus de palettes autour de lui.
+• Casser ou ne pas casser une palette :
+– Cassez-la si la tile est « sûre » (le survivant pourrait tourner autour indéfiniment) et que le survivant ne peut pas
+atteindre un autre loop fort pendant le temps de la casse (environ 2,6 s, moins avec Brutal Strength).
+– Ne la cassez pas s'il s'agit d'une palette faible (« unsafe »), que vous pouvez mindgamer, ou si le survivant repartira à
+pleine distance pendant que vous cassez. Dans ce cas, faites plutôt le tour et récupérez de la distance.
+– Le Bloodlust monte avec le temps de poursuite et disparaît quand vous cassez, êtes étourdi ou frappez.
+– Enduring et Spirit Fury permettent de « prendre » le coup de palette sans perdre la poursuite.
+• Mindgames :
+– Regarder dans la mauvaise direction (fake).
+– « Double-back » : revenir sur vos pas sur une fenêtre.
+– « Shack mindgame » : attendre de l'autre côté de la cabane.
+– Couper la ligne de vue (LOS) sur les petits loops.
+– Sortir brièvement du rayon de terreur, surtout avec les tueurs furtifs.
+– Principe général : le survivant réagit à votre caméra et à votre rayon de terreur. Ne soyez pas prévisible.
+• Contre les boucles (anti-loop) :
+– Bamboozle bloque la fenêtre d'un « shack » ou d'un main building.
+– Hex: Blood Favour bloque les palettes au moment du coup.
+– Superior Anatomy et Dark Arrogance accélèrent vos vaults.
+– Keep Them Waiting et Unrelenting raccourcissent le temps de récupération après un coup.
+– Coup de Grâce allonge vos fentes en fin de partie.
+• Coups protecteurs : si un survivant sain se met entre vous et le blessé (bodyblock), frappez-le seulement si cela vous
+rapproche d'un accrochage. Forced Penance rend « Broken » le survivant qui prend un coup protecteur.
+Accrochages et placement
+• Accrochez près de vos 3 générateurs, pas à l'autre bout de la carte : la pression revient plus vite.
+• Crochets Fléau : priorité avec Pain Res et Weeping Wounds. Floods of Rage révèle les survivants au moment du
+décrochage. Jagged Compass transforme les crochets déjà utilisés en crochets Fléau.
+• Cave : les crochets y sont insabotables et difficiles à secourir, surtout si vous restez à proximité, ce qui pose le risque de
+l'anti-camp. Utile contre les SWF saboteurs, mais le portage est long. Monstrous Shrine accélère la progression vers le
+sacrifice si vous vous éloignez.
+• Vitesse de portage : Agitation et Iron Grasp évitent de perdre un survivant pendant le transport sur les grandes cartes.
+Starstruck fait des survivants proches des cibles Exposed.
+• Sabotage : si des crochets sont sabotés, le crochet est inutilisable pendant 30 s. Adaptez votre trajet et utilisez
+Hangman's Trick ou Iron Grasp.
+Tunneling, camping et slugging : quand et comment (et les
+contre-mesures en place)
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+TUEUR : STRATÉGIES, BUILDS ET MINDGAMES
+102
+
+=====PAGE 103=====
+Le face camp échoue ; le proxy camp à distance reste une option (avec modération).
+• Tunneling (reprendre en boucle le même survivant) : c'est légal et c'est la stratégie dominante des joueurs de haut
+niveau quand les générateurs vont trop vite.
+– La contre-mesure en place : 10 s d'Endurance, de Haste et d'Elusive. Ne frappez pas un survivant qui vient d'être
+décroché : l'Endurance absorbe le coup et le transforme en « Deep Wound ».
+– Une approche plus saine et plus efficace : poursuivez le sauveteur. Il est souvent blessé et n'a pas d'Endurance, ou
+n'importe quel survivant que vous croisez.
+– Tunnelez seulement dans ces cas : fin de partie, le survivant se met en travers, ou vous n'avez aucune autre cible.
+– Perks anti-tunnel côté survivants : Off the Record, Decisive Strike (renommé hors licence), Dead Hard, Babysitter.
+• Camping : le système anti-facecamp rend le camping à moins de 16 m inutile au-delà d'environ 20 s. Le « proxy-camp »
+(rester à 20-30 m à patrouiller les générateurs proches du crochet) reste permis et efficace, surtout avec Monstrous
+Shrine et Grim Embrace, qui se déclenche à 16 m.
+• Slugging (laisser un survivant au sol au lieu de l'accrocher) :
+– Bon usage : si deux survivants sont proches, laissez le premier au sol pour aller frapper le second (Forced Hesitation et
+Infectious Fright aident), puis revenez accrocher.
+– Contre Boil Over, Flip-Flop, Power Struggle et Unbreakable, le slug stratégique devient risqué.
+– Attention : si tous les survivants vivants sont au sol, ils peuvent abandonner et vous obtenez les kills. En revanche, un
+slug prolongé d'un seul survivant lui laisse le temps de se relever seul, puisque la récupération est automatique et
+qu'Unbreakable existe.
+– Au 3ᵉ passage au sol après s'être relevé deux fois, un survivant peut abandonner.
+Fin de partie (portes alimentées, EGC)
+• Quand les 5 générateurs sont terminés, les portes s'alimentent. L'EGC (Endgame Collapse) démarre à l'ouverture d'une
+porte, ou tout de suite si le hatch est fermé. Il dure 2 min, ralenti tant qu'un survivant est au sol ou accroché.
+• Choisir une porte : sur les grandes cartes, les deux portes sont éloignées. Patrouillez celle qui est le plus près de la
+position probable des survivants. Bitter Murmur révèle tout le monde quand le dernier générateur est terminé. Haywire
+fait régresser un interrupteur lâché au-delà de 80 %.
+• Perks de fin de partie :
+– NOED : Exposed pour tous et +4 % de Haste. Le totem est révélé aux survivants proches, dans un rayon qui s'élargit de 4 à
+24 m. Laissez des totems ternes en vie (ne cassez pas les totems « pour rien »).
+– No Way Out : jusqu'à 36 s de blocage des interrupteurs avec 4 jetons.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+TUEUR : STRATÉGIES, BUILDS ET MINDGAMES
+103
+
+=====PAGE 104=====
+– Blood Warden : après l'ouverture d'une porte, votre accrochage suivant bloque les deux sorties 40 à 60 s. C'est le
+meilleur « snowball » de fin de partie.
+– Remember Me : allonge les ouvertures de porte. Terminus : empêche les soins. None Are Free : bloque fenêtres et
+palettes.
+• Contre Adrenaline, Hope et Wake Up : attendez-vous à des accélérations. Hex: Under Your Thumb plafonne la Haste
+des survivants.
+• Accrocher en fin de partie : les protections après décrochage se réduisent à Endurance + Haste pendant 10 s ; Elusive ne
+s'applique plus.
+Offrandes de carte et offrandes utiles
+• Depuis le patch 9.0.0, une offrande de carte ne donne que 20 % de chance et ne se cumule plus. Le « map dodging » est
+donc peu fiable.
+• Offrandes utiles côté tueur :
+– Shroud of Vanishing : bloque les offrandes d'apparition des survivants.
+– Offrandes de brouillard ou de lumière (visibilité).
+– Cypress / Ebony Memento Mori (Mori).
+– Bloody Party Streamers (+100 % de BP pour tous) et Cakes en période d'événement.
+• Offrandes de cave (Shattered Glasses, Black Ward, etc.) : niche.
+Jouer contre les SWF (équipes en vocal)
+• Les SWF coordonnent les sauvetages, les coups protecteurs et les lampes. Contre-mesures :
+1. Lightborn contre les flashlight squads (lampes, pétards, flashbangs, Blast Mine).
+2. Perks de blocage plutôt que de régression : les SWF « sniffent » les générateurs qui régressent.
+3. Pression de crochets rapide : la stratégie « un accrochage par survivant » fait tourner Pain Res et Grim Embrace, et les
+SWF gaspillent leurs perks anti-tunnel.
+4. Évitez les longues poursuites contre les meilleurs « loopers », qui sont souvent le joueur le plus fort du groupe.
+5. Discordance révèle le « gen rush » en duo (2 survivants sur un même générateur), qui est typique des SWF.
+6. Hex: Undying + Ruin reste risqué contre des SWF qui connaissent les emplacements des totems.
+7. Jouez un tueur à mobilité (Nurse, Blight, Billy, Spirit, Krasue, Ghoul) ou un tueur à l'info comme Knight.
+8. Tunnel intelligent en fin de partie : visez le survivant qui a déjà 2 accrochages, pour retirer un joueur du groupe.
+15 builds tueur et leur mode d'emploi
+1. « Régression complète » (build n°1 selon NightLight, ~75 % de kill) : Pain Resonance
++ Pop Goes the Weasel + Eruption + Corrupt Intervention
+• Corrupt vous laisse 80 à 120 s pour votre première poursuite sans pression sur les générateurs éloignés.
+• Frappez tôt les générateurs moyens ou avancés pour marquer Eruption. Chaque mise au sol les fait exploser (-10 %).
+• À chaque accrochage de nouveau survivant sur un crochet Fléau, Pain Res fait exploser le générateur le plus avancé
+(-20 %). Pop donne encore -20 % sur votre prochain coup de pied dans les 45 s.
+• Faites attention à la limite de 8 events par générateur, et ne faites pas exploser un générateur quasi vide.
+2. « Contrôle par blocage » (plafond le plus haut selon les joueurs de haut niveau) :
+Corrupt Intervention + Grim Embrace + Pop Goes the Weasel + No Holds Barred (ou
+Dead Man's Switch)
+• Trois perks bloquent sans passer par la vitesse de régression, donc sans subir les rendements décroissants.
+• No Holds Barred bloque le générateur le plus avancé à chaque générateur terminé. Grim bloque tout après chaque 1ᵉʳ
+accrochage (40 s au 4ᵉ).
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+TUEUR : STRATÉGIES, BUILDS ET MINDGAMES
+104
+
+=====PAGE 105=====
+• Mode d'emploi : accrochez les 4 survivants au moins une fois le plus tôt possible, et éloignez-vous tout de suite du
+crochet (16 m) pour déclencher Grim.
+3. « Blocage sur crochet Fléau » : Pain Resonance + Dead Man's Switch + Grim
+Embrace + Corrupt Intervention
+• Pain Res + DMS : quand le survivant lâche son générateur après avoir crié, DMS le bloque 35 s.
+• Ne bloquez pas le générateur que vous voulez faire exploser : Pain Res n'a pas d'effet sur un générateur bloqué. Pain
+Res vise le générateur le plus avancé, DMS celui que les survivants lâchent.
+4. « Info / aura » (build « radar ») : Lethal Pursuer + Nowhere to Hide + A Nurse's
+Calling + Barbecue & Chilli (ou Gearhead)
+• Lethal Pursuer ajoute 2 s à toutes les auras : NTH passe à 5-7 s, BBQ à 7 s, et A Nurse's Calling devient plus fiable.
+• Vous ne perdez jamais de temps à chercher les survivants. Idéal pour les tueurs rapides (Blight, Nurse, Billy, Krasue,
+Ghoul) et pour apprendre les cartes.
+• Variante NightLight à 72 % de kill : LP + ANC + Gearhead + NTH.
+5. « Poursuite et anti-loop M1 » (tueurs sans pouvoir à distance) : Enduring +
+Bamboozle + Keep Them Waiting + Brutal Strength (ou Coup de Grâce / Spirit Fury)
+• Keep Them Waiting monte jusqu'à 40 % de récupération plus rapide après les coups sur les non-Obsession. Évitez de
+frapper l'Obsession.
+• Bamboozle ferme les fenêtres des shacks. Enduring et Spirit Fury rendent les palettes moins punitives.
+• Pour : Trapper, Myers (si possédé), Wraith, Legion, Ghost Face, Pig.
+6. « Hex totale » (build Hex n°1 selon NightLight, ~64 % de kill) : Hex: Ruin + Hex:
+Undying + Hex: Thrill of the Hunt + Hex: Pentimento
+• Thrill ralentit la purification. Undying protège Ruin. Quand les survivants finissent par purifier, Pentimento rallume les
+totems purifiés (-20 % de réparation et de soin).
+• Fort contre les équipes solo, faible contre les SWF « totem hunters ». Vérifiez l'emplacement des totems en début de
+partie.
+• Variante « snowball » : Ruin + Undying + Devour Hope + Corrupt.
+7. « Fin de partie 3-gen » (endgame build) : No Way Out + Blood Warden + NOED +
+Remember Me (ou Terminus / Bitter Murmur)
+• Idéal pour un tueur qui manque de ralentissement tôt mais accroche beaucoup. No Way Out donne 12 + 4×12 = jusqu'à
+60 s de blocage des interrupteurs avec 4 jetons.
+• Un accrochage après l'ouverture d'une porte déclenche Blood Warden, et NOED transforme chaque coup en mise au
+sol.
+• Remember Me et No Way Out ne modifient pas la même chose : pas de pénalité de Diminishing Returns entre eux.
+8. « Furtivité / Undetectable » : Silent Shadow + Tinkerer + Trail of Torment + Beast of
+Prey (ou Furtive Chase / Dark Devotion)
+• Pour Pig, Ghost Face, Myers, Slasher et Wraith. Tinkerer vous prévient à 70 % et vous rend Undetectable 16 s pour
+arriver en embuscade.
+• Trail of Torment vous rend invisible pendant la régression après un coup de pied.
+• Silent Shadow : Undetectable après chaque accrochage, puis pendant toute la fin de partie.
+9. « Obsession » : Friends 'til the End + Furtive Chase + Celestial Witness + Keep Them
+Waiting (ou Lethal Pursuer)
+• FTTE rend l'Obsession Exposed et visible à chaque accrochage d'un autre survivant.
+• Celestial Witness permet de suivre l'Obsession et la transfère sur le survivant le plus éloigné.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+TUEUR : STRATÉGIES, BUILDS ET MINDGAMES
+105
+
+=====PAGE 106=====
+• Furtive Chase : 10 % de Haste et Undetectable quand vous accrochez l'Obsession.
+• Keep Them Waiting ne donne des jetons que si vous frappez les autres survivants. Gardez l'Obsession pour une mise au
+sol en un coup grâce à FTTE.
+10. « Budget / sans DLC » (tueurs de base) : A Nurse's Calling + Thanatophobia +
+Sloppy Butcher + Brutal Strength (ou Agitation + Iron Grasp)
+• Sloppy Butcher rend les soins longs, et ANC révèle tous ceux qui se soignent. Thanatophobia pénalise chaque survivant
+blessé.
+• En 10.2.0, Agitation (14 % minimum) et Iron Grasp seront buffés. Budget alternatif : Agitation + Iron Grasp + Whispers +
+Brutal Strength.
+11. « Portage et snowball » : Agitation + Iron Grasp + Starstruck + Forever Entwined (ou
+Mad Grit)
+• Mode Trapper ou Bubba : vous frappez un survivant, le ramassez, et arrivez vite au crochet. Starstruck rend Exposed les
+sauveteurs qui s'approchent pendant que vous portez.
+• Forever Entwined accélère le ramassage et l'accrochage à chaque dégât.
+12. « Slug contrôlé » : Infectious Fright + Forced Hesitation + Surge + Deadlock / No
+Holds Barred
+• Mettre un survivant au sol révèle ceux qui sont dans votre rayon de terreur, les ralentit de 20 %, et fait exploser les
+générateurs proches (Surge).
+• Laissez le premier survivant au sol quelques secondes pour abattre le suivant, puis accrochez-les.
+• Ne mettez jamais les 4 survivants au sol en même temps : ils peuvent abandonner.
+13. « Casiers » (fun) : Ultimate Weapon + Darkness Revealed + Iron Maiden + Lethal
+Pursuer
+• Ouvrir un casier aveugle et fait crier les survivants à moins de 40 m, et Darkness Revealed les révèle près de tous les
+casiers.
+• Iron Maiden rend Exposed ceux qui se cachent dedans. Excellent sur Xenomorph, Dredge et Wesker, et amusant sur les
+cartes intérieures.
+14. « Farm de Bloodpoints »
+(BBQ ne donne plus de BP depuis le patch 6.1.0, et Beast of Prey non plus)
+• Aucun perk ne donne plus directement de BP. Le farm passe par le style de jeu et les offrandes.
+• Le gain par catégorie est plafonné (10 000 BP par catégorie : Brutality, Deviousness, Hunter, Sacrifice) ; les offrandes
+s'appliquent après le plafond. Depuis le patch 9.3.0, un accrochage vaut 750 BP et un 1ᵉʳ accrochage 750 BP.
+• Build conseillé : Barbecue & Chilli + A Nurse's Calling + Sloppy Butcher + Distressing (Distressing rapporte des BP de
+Deviousness).
+• Mode d'emploi : accrochez tout le monde 2 fois (8 accrochages) avant de tuer (catégorie Sacrifice), frappez beaucoup
+(Brutality), lancez de nombreuses poursuites (500 BP chacune), et cassez palettes et murs.
+• Ajoutez des Bloody Party Streamers (+100 % pour tous) ou des Cakes en événement.
+15. « Tueur de Boons / gatekeeper » : Shattered Hope + Hex: Retribution + Hex:
+Undying + Hex: Ruin
+• Contre les équipes qui jouent Circle of Healing ou Shadow Step : éteindre un Boon le détruit, et chaque purification de
+Hex vous révèle tout le monde pendant 20 s.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+TUEUR : STRATÉGIES, BUILDS ET MINDGAMES
+106
+
+=====PAGE 107=====
+Conseils de progression (intermédiaire - avancé)
+1. Économie du temps : chaque seconde de poursuite équivaut à de la progression sur les générateurs, quelque part sur
+la carte. Comptez environ 80 s pour qu'un seul survivant finisse un générateur.
+2. Rythme d'accrochages : visez 1 accrochage par minute. En dessous de 3 accrochages quand 3 générateurs sont
+terminés, la partie est en danger.
+3. Rotation des accrochages : accrocher 4 survivants différents fait tourner Pain Res, Grim et BBQ, et évite de déclencher
+les perks anti-tunnel des survivants (Off the Record, DS, etc.).
+4. Ne vous acharnez pas sur le meilleur « looper ». Changez de cible dès que vous voyez un meilleur choix.
+5. Informations sonores : casque obligatoire. Grognements de douleur, corbeaux (Spies from the Shadows), générateurs
+qui explosent.
+6. Construisez vos builds par catégorie : 1 à 2 perks de ralentissement de types différents (blocage + explosion), 1 perk
+d'info, et 1 perk de poursuite ou de fin de partie. Pas 4 perks de régression de même type, à cause des rendements
+décroissants.
+Tromper les survivants : mindgames et bluff
+Les survivants réagissent à trois signaux : votre caméra (la direction de votre regard, visible via la tache rouge), votre rayon
+de terreur et vos sons (pas, souffle, pouvoir). Tromper, c'est jouer avec ces trois signaux.
+Mindgames de poursuite
+La fausse avance sur palette, vue du côté tueur.
+• Fausse avance sur palette : avancez vers la palette comme pour forcer le survivant à la jeter, puis reculez. S'il la jette
+trop tôt, contournez le tile : la palette est perdue pour lui et vous n'avez pas été étourdi.
+• Le demi-tour au mur : sur un jungle gym ou un shack, faites deux pas dans une direction, puis revenez. Le survivant qui
+vous suit du regard à travers les trous du tile continue dans le mauvais sens et se jette dans vos bras.
+• Marcher à reculons (moonwalk) : votre tache rouge pointe dans une direction, vous allez dans l'autre. Très efficace sur
+les tiles à murs hauts.
+• Garder la ligne de vue coupée : si le survivant ne vous voit plus, il doit deviner. Contournez le tile à l'opposé plutôt que
+de le suivre : il ne sait pas s'il doit repartir ou vaulter.
+• Ne pas respecter une palette unsafe : sur un filler, ne vous arrêtez pas devant la palette ; tournez autour et laissez le
+survivant la jeter pour rien.
+• Casser la palette au bon moment : une palette god se casse tôt (elle ne sert qu'au survivant), une palette unsafe se
+contourne (vous gardez votre Bloodlust).
+Bluffs de carte
+• Quitter le crochet visiblement puis revenir : éloignez-vous hors du rayon anti-camp (plus de 16 m), prenez la direction
+d'un générateur, puis revenez vers le crochet en arrivant par un autre côté au moment où le sauveteur s'engage.
+Jouez-le avec parcimonie : un sauveteur patient réparera plutôt que de venir.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+TUEUR : STRATÉGIES, BUILDS ET MINDGAMES
+107
+
+=====PAGE 108=====
+• Frapper un générateur puis se cacher : avec Trail of Torment, Tinkerer ou tout tueur furtif, le générateur frappé attire
+les survivants qui veulent stopper la régression.
+• Fausse patrouille : partir vers un générateur éloigné en laissant votre rayon de terreur s'éloigner, puis couper en
+diagonale vers le groupe que vous avez repéré à l'aura.
+• Les casiers : un survivant perdu à côté d'un casier y est une fois sur trois. Ouvrez-le en fin de poursuite, pas en milieu.
+Lire les survivants
+• Traces de griffures : elles apparaissent quand un survivant court. Des traces qui s'arrêtent net = survivant accroupi ou
+qui marche à proximité.
+• Flaques de sang et grognements : un survivant blessé ne peut pas vraiment se cacher, sauf Iron Will ou Lucky Break. Si
+un blessé disparaît sans bruit, suspectez ces perks.
+• Corbeaux : un vol de corbeaux trahit un passage récent. Spies from the Shadows vous en alerte à distance.
+• Générateurs : le bruit d'un générateur raté, l'aura jaune d'Eruption, les cris de Pain Resonance ou de Surge sont autant
+d'indications gratuites.
+• Loadouts : depuis la 9.6.0, les survivants voient vos perks après la première poursuite, et vous voyez leurs objets. Une
+équipe qui arrive avec 4 toolboxes veut un gen rush : jouez les blocages. Une équipe avec des lampes : Lightborn ou
+ramassages face à un mur.
+Jouer selon l'archétype de votre tueur
+Archétype
+Plan de partie
+Perks qui complètent
+Mobilité (Nurse, Blight, Billy, Spirit,
+Ghoul, Krasue, Mastermind)
+Traverser la carte vite, couper les rotations, finir les
+poursuites en 20-30 s
+Info (Lethal Pursuer, Nowhere to Hide),
+ralentissement léger
+Distance (Huntress, Executioner, Artist,
+Deathslinger, Trickster, Judgment)
+Punir le terrain ouvert, forcer les palettes tôt, tirer aux
+sorties de tile
+Ralentissement fort (Pain Res, Grim,
+Pop), un peu d'info
+M1 / sans pouvoir de chase (Trapper,
+Wraith, Pig, Legion, Ghost Face, Shape)
+Hit-and-run, ne pas s'acharner, profiter de la furtivité
+Anti-loop (Bamboozle, Enduring), Keep
+Them Waiting, NOED
+Contrôle / zone (Hag, Nightmare, Knight,
+Skull Merchant, Twins, First,
+Animatronic)
+Tenir un 3-gen avec le pouvoir, préparer le terrain
+Blocages (Grim, DMS, Corrupt), Floods of
+Rage
+Anti-loop (Doctor, Clown, Nemesis,
+Xenomorph, Houndmaster, Dredge)
+Forcer les palettes, jouer les murets, fermer les tiles
+Hex: Blood Favour, Brutal Strength,
+ralentissement
+Contre une équipe qui répare trop vite
+1. Corrupt Intervention en ouverture vous achète 80 à 120 s sur les générateurs éloignés.
+2. Changez de cible : le survivant sur un générateur à 80 % est plus urgent que le looper qui vous fait tourner.
+3. Accrochez 4 survivants différents pour déclencher Grim Embrace, Pain Resonance et la pression de sauvetage.
+4. Utilisez le 3-gen comme plan B, pas comme plan A : la limite de 8 « regression events » par générateur interdit de
+défendre indéfiniment.
+5. En toute fin de partie, le tunnel ciblé (le survivant qui a déjà 2 accrochages) est légitime et efficace : un survivant de
+moins, c'est 25 % de réparation en moins.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+TUEUR : STRATÉGIES, BUILDS ET MINDGAMES
+108
+
+=====PAGE 109=====
+CHAPITRE 11
+11. Les cartes
+Connaître la carte, c'est savoir où aller avant d'en avoir besoin. Le jeu compte au 26 septembre 2026 20 royaumes et 44
+cartes jouables en 1v4. Les tiles de remplissage (jungle gyms, fillers) sont tirés au hasard à chaque partie ; seuls les 
+landmarks (bâtiment principal, shack, structures propres au royaume) sont fixes ou choisis parmi deux emplacements. Les
+schémas de ce chapitre montrent donc uniquement ces éléments fixes, avec le repère « horloge » utilisé pour les callouts.
+Changements de cartes récents
+• Haddonfield (Lampkin Lane) a été retirée le 19 janvier 2026 avec la fin de la licence Halloween.
+• Sleepless District / Trickster's Delusion : nouveau royaume (patch 9.5.0, mars 2026).
+• Fallen Refuge (Withered Isle, juillet 2025) : carte The Walking Dead.
+• Depuis la 8.6.0, seules les variantes « I » des cartes tournent en partie classée (Coal Tower II, Badham II-V…
+désactivées).
+• 9.2.0 : plus de palettes dans les dead zones de 10 royaumes, plusieurs cartes réduites (Torment Creek, Disturbed Ward).
+• 9.3.0 : palettes rendues moins safe (MacMillan, Asylum, Red Forest, Yamaoka, Ormond), main de l'Asylum affaibli,
+Hawkins plus ouvert, Autohaven plus lumineux.
+• À venir : « The Mall » (décembre 2026), refonte visuelle de toutes les cartes annoncée pour 2027.
+• Depuis la 9.0.0, une offrande de carte ne donne que 20 % de chance et ne se cumule plus.
+Quelles cartes favorisent qui ?
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES CARTES
+109
+
+=====PAGE 110=====
+Les cartes intérieures ou petites sont les plus mortelles ; Autohaven, Badham et Coldwind favorisent les survivants.
+Par royaume (kill rate NightLight, 8 dernières semaines) : Hawkins 54,4 %, Silent Hill 52,6 %, Sleepless District 52,1 %,
+Gideon 51,0 %, Borgo 48,7 %, Léry's 48,7 %, Swamp 48,0 %, Withered Isle 48,0 %, Dvarka 47,8 %, Boneyard 47,1 %,
+Raccoon City 47,1 %, Red Forest 46,9 %, Asylum 46,8 %, Ormond 46,3 %, Glenvale 46,1 %, Coldwind 45,6 %, MacMillan
+44,4 %, Yamaoka 43,2 %, Autohaven 41,6 %, Springwood 41,4 %. Tendance nette : les cartes intérieures ou petites
+(Hawkins, Midwich, Lake Mine, Forgotten Ruins, Fallen Refuge) sont les plus mortelles. Autohaven, Badham, Coldwind
+et Ormond Resort sont les plus favorables aux survivants.
+Cartes sans Killer Shack : Treatment Theatre, The Game, Underground Complex, Midwich, RPD, Nostromo Wreckage (et
+Lampkin Lane). Dead Dawg a un shack western avec un mur cassable. Sur Wreckers' Yard et Rotten Fields, le shack est au
+centre et contient toujours le sous-sol. Cartes sans maze tiles : Badham, Treatment Theatre, Underground Complex, RPD
+East/West (et Lampkin Lane).
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES CARTES
+110
+
+=====PAGE 111=====
+Règle générale pour le sous-sol et les crochets : le sous-sol (basement) apparaît soit dans le Killer Shack, soit dans le
+bâtiment principal / landmark (escalier interne), selon la carte. Les crochets sont répartis procéduralement, avec une
+densité plus forte vers le centre sur le Swamp (patch 2.5.0).
+Unité : 1 « tile » = un carré de 8 × 8 m. Petite carte ≤ 136 sqT, moyenne 140-156, grande ≥ 160.
+Tableau de toutes les cartes
+#
+Royaume
+Carte
+Taille (sqT / m²)
+Kill rate
+(NightLight)
+Balance (communauté)
+1
+The MacMillan Estate
+Coal Tower
+132 / 8 448
+52,0 % (10.0.1)
+équilibrée, devenue un peu
+survivant après 9.2.0
+Groaning Storehouse
+156 / 9 984
+42,0 %
+côté survivant après 9.2.0
+Ironworks of Misery
+160 / 10 240
+45,4 %
+un peu survivant (main fort)
+Shelter Woods
+176 / 11 264 (la
+plus grande avec
+Azarov)
+46,6 %
+un peu tueur (grande, peu de
+structures)
+Suffocation Pit
+160 / 10 240
+41,9 %
+un peu tueur avant 9.2.0,
+survivant après
+2
+Autohaven Wreckers
+Azarov's Resting Place
+176 / 11 264
+45,2 %
+un peu tueur
+Blood Lodge
+156 / 9 984
+41,9 %
+équilibrée / presque
+Gas Heaven
+156 / 9 984
+41,2 %
+un peu survivant
+Wreckers' Yard
+144 / 9 216
+41,0 %
+survivant après 9.2.0
+Wretched Shop
+164 / 10 496
+36,5 % (la moins
+mortelle)
+survivant
+3
+Coldwind Farm
+Fractured Cowshed
+152 / 9 728
+41,8 %
+survivant
+Rancid Abattoir
+140 / 8 960
+44,6 %
+tueur (mai 2025 : "très tueur")
+Rotten Fields
+160 / 10 240
+47,4 %
+un peu tueur
+The Thompson House
+152 / 9 728
+46,9 %
+presque équilibrée
+Torment Creek
+156 / 9 984
+41,4 %
+un peu survivant
+4
+Crotus Prenn Asylum
+Disturbed Ward
+152 / 9 728
+44,4 %
+très survivant (avant 9.3.0)
+Father Campbell's Chapel
+140 / 8 960
+48,8 %
+très survivant selon la
+communauté (fenêtre god), stats
+plus neutres
+5
+Backwater Swamp
+The Pale Rose
+161 / 10 304
+50,5 % (petit
+échantillon)
+survivant après 9.2.0
+Grim Pantry
+168 / 10 752
+47,2 %
+un peu survivant
+6
+Léry's Memorial Institute
+Treatment Theatre
+98 / 6 272 (la plus
+petite)
+48,9 %
+presque équilibrée
+7
+Red Forest
+Mother's Dwelling
+152 / 9 728 (était
+188-200)
+44,9 % (10.0.1)
+survivant après 9.2.0
+The Temple of Purgation
+136 / 8 704
+45,1 %
+survivant après 9.2.0
+8
+Springwood
+Badham Preschool (I
+seulement en classé)
+144 / 9 216
+38,9 %
+très survivant
+9
+Gideon Meat Plant
+The Game
+142 (2 étages)
+46,4 % (10.0.1)
+un peu survivant
+10
+Yamaoka Estate
+Family Residence
+156 / 9 984
+42,9 %
+un peu tueur (communauté)
+Sanctum of Wrath
+156 / 9 984
+44,1 %
+un peu tueur (communauté)
+11
+Ormond
+Mount Ormond Resort
+156 / 9 984
+41,8 %
+survivant après 9.2.0
+Ormond Lake Mine (8.4.2, déc.
+2024)
+132 / 8 448
+52,8 %
+équilibrée (communauté) /
+mortelle (stats)
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES CARTES
+111
+
+=====PAGE 112=====
+#
+Royaume
+Carte
+Taille (sqT / m²)
+Kill rate
+(NightLight)
+Balance (communauté)
+12
+Hawkins National
+Laboratory
+The Underground Complex
+138 / 8 832
+54,7 % (la plus
+mortelle)
+un peu tueur
+13
+Grave of Glenvale
+Dead Dawg Saloon
+136 / 8 704
+47,9 %
+presque équilibrée
+14
+Silent Hill
+Midwich Elementary School
+113,5 / 7 264 (2e
+plus petite)
+52,1 % (10.0.1)
+un peu tueur
+15
+Raccoon City
+RPD East Wing
+~moitié du RPD
+original
+n/d
+équilibrée
+RPD West Wing
+idem
+n/d
+un peu survivant (oct. 2025) / un
+peu tueur (mai 2025)
+(RPD original : 2v8
+uniquement)
+16
+Forsaken Boneyard
+Eyrie of Crows
+148 / 9 472
+45,7 % (10.0.1)
+très survivant (mai 2025)
+Dead Sands (8.6.0)
+140 / 8 960
+48,3 %
+presque équilibrée
+17
+Withered Isle
+Garden of Joy
+164 / 10 496
+43,9 % (10.0.1)
+très survivant
+Greenville Square (7.6.0)
+160 / 10 240
+43,9 %
+presque équilibrée
+Freddy Fazbear's Pizza (9.0.0)
+148 / 9 472
+45,7 %
+équilibrée
+Fallen Refuge (9.1.0)
+128 / 8 192
+51,2 %
+un peu tueur
+18
+The Decimated Borgo
+The Shattered Square (6.4.0)
+144 / 9 216
+48,4 %
+survivant après 9.2.0
+Forgotten Ruins (8.0.0, D&D)
+132 / 8 448
+52,3 %
+très tueur
+19
+Dvarka Deepwood
+Toba Landing (7.0.0)
+136 / 8 704
+46,1 %
+presque équilibrée
+Nostromo Wreckage (7.2.0)
+152 / 9 728
+47,6 %
+presque équilibrée
+20
+Sleepless District
+Trickster's Delusion (9.5.0,
+17/03/2026)
+n/d (moyenne)
+49,3 %
+trop récente pour un consensus
+Parler la même langue : les callouts
+Le système horloge : main à 12 h, shack à 6 h, positions annoncées comme sur un cadran.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES CARTES
+112
+
+=====PAGE 113=====
+Vocabulaire commun
+• Main / main building : bâtiment principal. « Main window » = fenêtre forte du main.
+• Shack / killer shack : cabane du tueur (fenêtre + palette + 2 portes).
+• Jungle gym / gym : maze tile avec fenêtre + palette. Variantes : long wall, short wall, T-L / L-T walls, 4-lane, pallet gym,
+debris gym, locker gym, labyrinth gym, variant gym.
+• Filler (pallet) : petite palette de remplissage (arbre + rocher, voiture, balles de foin).
+• God pallet / god window : palette ou fenêtre qui force presque toujours le tueur à casser ou à abandonner.
+• Dead zone : zone sans palette ni fenêtre.
+• Double gym / pallet chain : tiles collés, qu'on enchaîne.
+• Cow Tree : arbre sacrificiel de Coldwind (vaches pendues), avec muret, fenêtre et palette.
+• Tower / Coal tower : landmark MacMillan. Lumber pile : tas de bois (MacMillan).
+• Harvester : moissonneuse de Coldwind (rampe + 2 vaults).
+• Upstairs / downstairs (The Game, Midwich, Hawkins, RPD).
+• Rooms de The Game : Control Room (haut, 12 h), Bathroom (bas, 12 h, escalier sous-sol), Vat Room / Freezer (6 h), deux
+coins (« pallet stairs » ou salle du trou avec T-L).
+• Midwich : bas de la carte = toilettes + réception. Salles : Courtyard, Library, Music Room, Chemistry Lab, Infirmary,
+Locker Room, Gym.
+• Léry's : Treatment Room (centre), Library, couloirs, bureaux, chambres de patients.
+• RPD : Main Hall (statue), Library, S.T.A.R.S. Office, East/West Office, Dark Room, Art Room, Waiting Room, Fire Escape.
+• Hawkins : Rift Lab (portail), Interrogation Rooms (étage), côté « Upside Down ».
+Le chapitre 12 donne les phrases types pour communiquer en vocal ou via les messages rapides.
+The MacMillan Estate (industriel, palette bleue)
+Landmarks communs sauf Shelter Woods : The Tower (tour de charbon) et le Lumber Pile (tas de bois). Maze tiles
+MacMillan : murs de briques industriels. Tiles possibles : L-T, pallet gym, jungle gym, 4-lane, debris gym, variant gym. Passe
+9.3.0 : palettes moins safe.
+Coal Tower (132 sqT, petite)
+• Main : The Warehouse, 2 étages avec escalier interne. RDC : 3 casiers, 3 murs cassables, 1 fenêtre. Étage : 1 gen, 1
+coffre, 1 mur cassable qui bloque un drop. 3 drops depuis l'étage. 2 palettes à l'extérieur. Le sous-sol peut être dans
+l'escalier.
+• Loop : la fenêtre du RDC combinée aux drops de l'étage. Casser les murs change le loop : les murs cassables fermés
+rendent le main plus fort pour le survivant, et le tueur a intérêt à les casser tôt.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES CARTES
+113
+
+=====PAGE 114=====
+Schéma indicatif (landmarks fixes uniquement), avec le repère horloge en rouge.
+Groaning Storehouse (156 sqT)
+• Main : The Storehouse, grand bâtiment d'un seul niveau. 2 entrées avec chacune 2 grandes portes de garage (4 au total,
+certaines peuvent être fermées). 2 fenêtres, 1 mur cassable, 3 casiers, 1 coffre, 1 palette possible, gen possible, sous-sol
+possible. Le main compte 3 totems possibles.
+Ironworks of Misery (160 sqT)
+• Main : The Foundry, 2 étages. 1 escalier intérieur (3 drops) + 1 escalier extérieur (1 drop). 3 entrées au RDC. 7 casiers. 1
+gen au RDC, coffre dans le bureau à l'étage, crochet possible au RDC. 3 fenêtres, dont une à l'étage toujours bloquée. 2
+murs cassables (un par étage). Sous-sol possible.
+• Landmark secondaire : Water Tower (grince quand on passe).
+• Main réputé fort : fenêtre et drop enchaînés, main du « très survivant » dans plusieurs tier lists.
+Schéma indicatif (landmarks fixes uniquement), avec le repère horloge en rouge.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES CARTES
+114
+
+=====PAGE 115=====
+Shelter Woods (176 sqT, grande)
+• Pas de main classique. Landmark : Hunting Camp (base de Skull Merchant, patch 6.6.0), avec un gen appelé « Command
+Centre » à l'intérieur. Le Twisted Tree a été déplacé du centre pour lui faire de la place.
+• Carte boisée, très ouverte, peu de hauts murs, beaucoup d'arbres et de rochers. Bonne pour les tueurs rapides ou
+furtifs, mais très grande (gens éloignés).
+Suffocation Pit (160 sqT)
+• Main : The Mine, grand bâtiment d'un seul niveau avec échafaudages. 3 entrées (2 grandes, 1 petite). 3 fenêtres, dont
+une toujours bloquée. 2 casiers, 1 mur cassable, coffre au-dessus du sous-sol possible.
+Autohaven Wreckers (casse, vert)
+Landmarks communs : grue, bus scolaire, broyeur de voitures. Tiles typiques : car piles (piles de voitures, rendues
+praticables en 6.7.0), voitures seules avec palette, bus scolaire (variations 6.7.0), maze tiles en tôle. 9.3.0 : éclairage plus
+clair + brouillard. C'est le royaume le moins mortel (41,6 %) : beaucoup de hauts murs et un faible line of sight.
+Blood Lodge (156 sqT, refonte 6.7.0 : 168 vers 156, lodge rapproché du centre)
+• Main : The Lodge, cabane en rondins sur 2 niveaux reliés par une rampe. 1 fenêtre au RDC, gen sur le porche, coffre à
+l'étage, 2 casiers, 1 mur cassable au RDC, 1 sortie et 1 drop à l'étage. Sous-sol possible.
+Schéma indicatif (landmarks fixes uniquement), avec le repère horloge en rouge.
+Gas Heaven (156 sqT, refonte 6.7.0)
+• Main : Gas Station, bâtiment moyen d'un seul niveau avec garage, boutique et pompe. 2 portes, 2 fenêtres dont une
+seule ouverte. Gen dans le garage (terminer le gen ouvre la porte de garage). Plusieurs murs cassables. « Driveway
+Bell » : la sonnette de la pompe tinte quand quelqu'un marche sur le tuyau.
+• Bus scolaire : en 9.2.0, correctif de navigation autour du bus.
+Wreckers' Yard (144 sqT)
+• Pas de main building. Le shack est au CENTRE et contient toujours le sous-sol. Autour du shack : murets bas,
+pull-downs, pas de hauts murs. Hauts murs de ferraille sur le pourtour, voitures, bus, grues, citernes.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES CARTES
+115
+
+=====PAGE 116=====
+Schéma indicatif (landmarks fixes uniquement), avec le repère horloge en rouge.
+Wretched Shop (164 sqT, carte la moins mortelle : 36,5 %)
+• Main : The Garage (Shop), grand bâtiment d'un seul niveau, 2 entrées, 4 fenêtres dont une seule active, 1 mur
+cassable, 4 casiers, 1 gen, 1 coffre, crochet et sous-sol possibles.
+Azarov's Resting Place (176 sqT, grande)
+• Main : The Office, petit bâtiment d'un seul niveau. 1 fenêtre, 2 entrées, 1 mur cassable, 2 casiers, sous-sol possible.
+Grande carte ouverte, avec des car piles et des murs de ferraille. Rework 4.4.0 : zones clôturées ouvertes.
+Coldwind Farm (ferme, orange, en plein jour depuis 4.7.0)
+Landmarks communs : Sacrificial Tree / « Cow Tree » et Harvester. Tiles spécifiques : champs de maïs (casse le LOS, pas de
+collision), remorques de foin / hay bales (palettes « filler »), maze tiles en planches de bois. Pas de 4-lane à Coldwind. En
+9.6.0 : collision autour de l'arbre améliorée pour la navigation du tueur.
+• Cow Tree : arbre entouré de murets de pierre, avec une fenêtre dans un muret et une palette entre deux murets. Loop
+compact fenêtre + palette.
+• Harvester : on monte par la tête et la rampe. En haut, 2 vaults : à gauche, drop sur un panneau latéral (sans retour) ; à
+droite, drop sur une balle de foin de la rampe, ce qui permet de faire des allers-retours. C'était une quasi-infinite, nerfée
+(balles retirées puis une seule remise).
+The Thompson House (152 sqT)
+• Main : la ferme Thompson, 2 étages avec escalier intérieur. 5 entrées au RDC. À l'étage : 1 fenêtre, 1 gen, 1 coffre. 4
+casiers. Sous-sol possible.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES CARTES
+116
+
+=====PAGE 117=====
+Schéma indicatif (landmarks fixes uniquement), avec le repère horloge en rouge.
+Fractured Cowshed (152 sqT, était 168)
+• Main : The Barn (étable), grand bâtiment d'un seul niveau, 4 entrées, 2 fenêtres, 1 gen, 4 casiers, coffre et sous-sol
+possibles. Une pièce murée attenante (lore Hillbilly). La 7.1.0 a ajouté des loops avec une palette.
+• Réputation : RNG de tiles safe enchaînés, loops « hay/trailer » qui peuvent se connecter à la fenêtre du shack (« si ça se
+connecte au shack, t'as gagné »).
+Schéma indicatif (landmarks fixes uniquement), avec le repère horloge en rouge.
+Rancid Abattoir (140 sqT)
+• Main : Slaughterhouse, grand bâtiment d'un seul niveau, 3 fenêtres, 2 palettes, 7 casiers, 4 entrées, gen et sous-sol
+possibles. Carte petite avec peu de ressources dehors, donc réputée tueur.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES CARTES
+117
+
+=====PAGE 118=====
+Rotten Fields (160 sqT)
+• Pas de bâtiment principal. Shack au centre (sous-sol toujours dedans). Cow Tree comme seul autre landmark. Presque
+symétrique : une moitié a 2 structures (Harvester ou Cow Tree), l'autre 1 structure + un maze tile de plus ; la moitié à 2
+structures = le « haut » (guide Steam).
+Schéma indicatif (landmarks fixes uniquement), avec le repère horloge en rouge.
+Torment Creek (156 sqT, réduite de 168 en 9.2.0)
+• Main : The Silo, grand bâtiment d'un seul niveau, 3 entrées, 1 fenêtre, 1 casier, 1 gen, sous-sol, coffre et crochet
+possibles.
+Crotus Prenn Asylum (béton / bois brûlé)
+4-lane possible. 9.3.0 : le main (qui pouvait spawn près des maze tiles et s'y chaîner) a été rendu moins safe ; la logique de
+spawn de Disturbed Ward a été revue. : combo « long wall gym + fenêtre du shack » réputé ignoble.
+Disturbed Ward (152 sqT)
+• Main : Shock Therapy Centre, grand bâtiment de 2 étages avec 2 escaliers intérieurs. RDC : 3 fenêtres (une toujours
+bloquée), 3 entrées. Un gen à chaque étage, coffre à l'étage, sous-sol possible. Plusieurs palettes intérieures.
+• Autour : ruines de l'asile, cabane (cabin) avec gen, bois brûlés.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES CARTES
+118
+
+=====PAGE 119=====
+Schéma indicatif (landmarks fixes uniquement), avec le repère horloge en rouge.
+Father Campbell's Chapel (140 sqT)
+• Main : la Chapelle, seuls le RDC et le 1er étage sont accessibles (escalier bloqué par des gravats). Plusieurs fenêtres, 1
+gen à l'étage, 4 casiers, sous-sol possible. Contient la fameuse « god window » de la chapelle, très forte si un jungle
+gym mène au shack à côté.
+• Landmark secondaire : Clown's Caravan (zone carnaval : machine à prédire l'avenir, stands, cible de lancer de hache),
+avec plusieurs palettes, 1 fenêtre, gen possible.
+Schéma indicatif (landmarks fixes uniquement), avec le repère horloge en rouge.
+Backwater Swamp (boue / bois)
+Particularité : les edge tiles sont sur une colline tout autour de la carte, qui peuvent contenir gens, loops, totems et
+trappe. Le shack est séparé du reste par la colline. « Crow bomb » : des corbeaux croassent quand on passe près du bateau
+et révèlent la position. 9.3.0 : spawn logic des pontons revue.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES CARTES
+119
+
+=====PAGE 120=====
+The Pale Rose (161 sqT, était 215)
+• Main : The Pale Rose, bateau à aubes de 2 niveaux avec 3 escaliers extérieurs. Pont inférieur : 4 entrées. Pont
+supérieur : 2 fenêtres, gen + coffre (le gen déclenche la corne de brume). Plusieurs palettes.
+• Structure fixe : Shrimp Boat (crevettier), 2 entrées latérales, accessible par rampes ou vaults, avec gen, coffre et totem
+possibles.
+• Callouts : « boat », « shrimp boat », « pier ».
+Schéma indicatif (landmarks fixes uniquement), avec le repère horloge en rouge.
+Grim Pantry (168 sqT)
+• Main : The Pantry, grand bâtiment ouvert de 2 étages (cages, squelettes), 2 palettes intérieures, gen à l'étage (le
+réparer ouvre une vanne pour mieux accéder au RDC), 6 casiers, plusieurs escaliers.
+• Secondaire : Cursed Cabin, 2 étages, gen à l'étage (ouvre une vanne extérieure), 2 palettes, 1 fenêtre, 1 crochet.
+Léry's Memorial Institute : Treatment Theatre (98 sqT, la plus
+petite)
+Schéma indicatif (landmarks fixes uniquement).
+• Carte intérieure, rectangulaire (rework 3.5.0), faite de pièces reliées par des couloirs. Pas de shack, pas de maze tiles.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES CARTES
+120
+
+=====PAGE 121=====
+• Treatment Room (centre) : 2 niveaux, plusieurs entrées. En bas : gen + crochet. En haut : galerie avec fenêtres et drops.
+Sous-sol possible. Réparer le gen central ouvre des volets de la galerie, ce qui crée de nouveaux vaults.
+• Library : étagères, bureau central, 3 entrées, 1 fenêtre, gen ou sous-sol possibles.
+• Autres pièces : bureaux, salles de patients, réception. Des panneaux clignotants dans les couloirs signalent les salles
+avec gen. Les fenêtres et entrées ont des configurations fixes.
+Red Forest (rondins)
+Tiles : debris gym, locker gym (exclusif Red Forest et Ormond). 9.3.0 : palettes moins safe.
+Mother's Dwelling (152 sqT depuis 7.4.0 ; était 188 à 200, longtemps la plus grande du
+jeu)
+• Main : la cabane de chasse (Hunting Cabin), 2 étages avec escaliers intérieur ET extérieur vers le balcon. RDC : salon
+avec cheminée, 2 casiers, 3 entrées, 4 fenêtres (une bloquée). Étage : corniches pour sauter, 4 entrées, 1 fenêtre + 1
+vault sur la terrasse en bois. Gen sur le balcon de l'étage. Portrait de la famille d'Anna. Sous-sol possible.
+• Secondaire : Smoke House, 2 étages (escalier extérieur bloqué), 3 entrées au RDC.
+Schéma indicatif (landmarks fixes uniquement), avec le repère horloge en rouge.
+The Temple of Purgation (136 sqT)
+• Main : le Temple, grand bâtiment de pierre au centre, 3 niveaux accessibles, plusieurs entrées. Gen dans les
+catacombes (le terminer active des structures et portes). Plusieurs vaults et casiers. Pluie et brume.
+Springwood : Badham Preschool (144 sqT ; seule la I est en
+classé)
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES CARTES
+121
+
+=====PAGE 122=====
+Schéma indicatif (landmarks fixes uniquement).
+• Pas de maze tiles. Trois structures sur toutes les versions : Preschool (main, fixe), maison 2 étages et maison à sous-sol 
+(la maison de Freddy) ; les deux maisons échangent leurs positions selon la variante. Il y a un Killer Shack.
+• Preschool : 2 niveaux (RDC + chaufferie / boiler room en dessous, lumière rougeâtre), 3 niveaux si elle contient le
+sous-sol. RDC : 4 entrées, les entrées latérales bloquées par des murs cassables. 1 gen, plusieurs palettes, casiers. Une
+palette du couloir d'entrée a été retirée (équilibrage). Une fenêtre ajoutée en 8.3.0 a été retirée en 8.3.1.
+• Réputation : très survivant (38,9 % kill). Beaucoup de loops « maison » + rue, palettes de clôture.
+Gideon Meat Plant : The Game (142 sqT sur 2 étages : haut 76, bas
+66)
+Schéma indicatif (landmarks fixes uniquement).
+• Seule carte 100 % intérieure avec maze tiles. Tous les gens sont reliés à des portes coulissantes (porte fermée = gen
+pas fini à côté).
+• 5 salles fixes pour l'orientation :
+– Control Room (haut, 12 h) : la plus grande, mannequins, écrans CCTV.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES CARTES
+122
+
+=====PAGE 123=====
+– Bathroom (bas, 12 h, sous la control room) : salle longue et étroite dans un coin, avec gen, casiers, coffre et escalier vers
+le sous-sol.
+– Vat Room (6 h) : escalier vers une zone de vault ; Freezer en dessous. La cuve à cochon (Pig Vat) a une ouverture en bas
+qui permet de vaulter entre les étages.
+– Deux coins (3 h et 9 h) : soit un escalier de coin avec une palette forte (« pallet stairs »), soit une salle avec un gros trou
+et des T-L walls.
+• Callouts : « upstairs / downstairs », « control room », « bathroom », « vat / freezer », « stairs pallet », « hole room ».
+Yamaoka Estate (bois moussu / bambou)
+4-lane, labyrinth gym (Yamaoka, Ormond, Withered Isle), debris gym. 9.3.0 : palettes moins safe.
+Family Residence (156 sqT)
+• Main : la résidence japonaise, 2 étages dont seul le RDC est accessible, plusieurs vaults : 2 fenêtres, 1 gen, 2 casiers,
+sous-sol possible. Verre brisé et sang à l'endroit où Rin est tombée.
+Sanctum of Wrath (156 sqT)
+• Main : The Shrine, bâtiment moyen de 2 niveaux, 4 escaliers menant au sommet, fenêtres sur les rambardes, drops, 1
+palette à côté de la statue, 1 gen, sous-sol possible.
+• Seule carte où le shack peut apparaître à plusieurs endroits : deux emplacements possibles, tous deux en bas de la
+carte (gauche ou droite).
+Ormond (pierre enneigée)
+Locker gyms, labyrinth gyms, 4-lane. 9.2.0 et 9.3.0 : densité de palettes et espacement fenêtre / palette revus.
+Mount Ormond Resort (156 sqT)
+• Main : The Chalet (Lodge), grand chalet de 3 étages, montée par les escaliers et saut depuis les balcons. 1 gen, 2 casiers,
+plusieurs fenêtres, sous-sol possible. Carte très lumineuse.
+• Secondaires : Snowcat (chenillette orange près d'un tas de rochers, avec une palette adjacente) ; Chairlift (cabane
+surélevée en bois avec escalier arrière, 3 drops : fenêtre, mur cassable, ouverture).
+Ormond Lake Mine (132 sqT, 8.4.2 / déc. 2024)
+• Mine Building : 2 étages, 1 gen garanti à l'étage, 5 palettes (3 en haut, 2 en bas), 3 fenêtres, 1 mur cassable, 4 accès à
+l'étage, passage souterrain vers la Mine Tower.
+• Mine Tower : plus petite, 1 gen garanti, 1 palette, fenêtre à l'étage, plusieurs drops, reliée à la Mine Building par le
+tunnel.
+• Ascenseur scripté qui s'écrase au bord de la carte.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES CARTES
+123
+
+=====PAGE 124=====
+Schéma indicatif (landmarks fixes uniquement), avec le repère horloge en rouge.
+Hawkins National Laboratory : The Underground Complex (138
+sqT)
+Schéma indicatif (landmarks fixes uniquement).
+• Intérieur sur 2 étages, portes de sortie coulissantes (pas de portails : le plafond est trop bas). Une moitié est en version
+« Upside Down » (plus sombre).
+• Rift Lab : 2 niveaux reliés par un escalier. En bas : labo fermé + le Rift. En haut : drops. Accès par un vault, une porte et
+(depuis 9.3.0) un nouvel accès au gen par-dessus la control room. Une fenêtre à côté d'un bureau, une palette entre des
+meubles au fond du labo. Le sous-sol peut apparaître à 2 endroits dans le Rift Lab.
+• Interrogation Rooms (étage) : plusieurs vaults, palettes possibles.
+• 9.3.0 : chaque côté des grandes salles a au moins une porte ouverte en permanence.
+• Carte la plus mortelle (54,7 %) : couloirs, LOS court mais peu de loops safe, et il est facile de se faire couper.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES CARTES
+124
+
+=====PAGE 125=====
+Grave of Glenvale : Dead Dawg Saloon (136 sqT, lumière de
+crépuscule)
+Schéma indicatif (landmarks fixes uniquement).
+• Main : The Saloon, grand bâtiment de 2 étages, beaucoup de fenêtres aux 2 étages, gen sur le porche de l'étage,
+sous-sol possible.
+• Landmarks : The Gallows (potence près du saloon ; le gen fait tomber les trappes), Water Tower + Windmill (paire, avec
+une petite cabane derrière : gen, palette entre les bases, fenêtre, 2 casiers), bâtiments western (« U.S. Marshal »,
+« Moore & Harbeck Livery »), rochers.
+• Gyms uniques : Western / Dead Dawg gym (2 fenêtres + palette + mur cassable), Sandwich / breakable wall gym (2
+murs cassables avec une fenêtre entre), « 2 window gym », « Double L ». Shack western avec un mur cassable. L-T et
+4-lane avec variante mur cassable.
+Silent Hill : Midwich Elementary School (113,5 sqT : bas 64, haut
+49,5)
+Schéma indicatif (landmarks fixes uniquement).
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES CARTES
+125
+
+=====PAGE 126=====
+• Intérieur sur 2 étages. Orientation : le côté avec les toilettes et la réception = le bas de la carte (comme dans Silent Hill
+1).
+• Courtyard (cour centrale) : gen, totem et coffre possibles, casiers, palettes, 2 fenêtres, murs cassables, plusieurs
+entrées. Clock Tower secrète dans la cour (déverrouillée en réparant les gens du Chemistry Lab et de la Music Room,
+puis via l'effondrement de fin de partie).
+• Salles : Chemistry Lab, Music Room (piano), Infirmary, Reception, Library, toilettes aux 2 étages, Locker Room, gymnase.
+• 8.2.0 : lignes de vue réduites dans les couloirs ; ajout de tiles intérieurs et extérieurs.
+Raccoon City : RPD East Wing / West Wing
+• Le RPD original, trop grand pour du 1v4, a été scindé en deux moitiés (6.2.0) ; l'original n'existe plus qu'en 2v8.
+• Main Hall (landmark central, statue) : gen soit en bas près du comptoir d'accueil, soit à mi-hauteur au pied de la statue.
+• East Wing : S.T.A.R.S. office bloqué ; Library (trou dans le sol vers la Dark Room), Art Room, Waiting Room, Private
+Collection, Fire Escape (accès au toit). RDC : East / West Office, Safety Deposit, Dark Room, Break Room (murs retirés),
+Reception, Press Room, Watchman's Room.
+• West Wing : S.T.A.R.S. Office relié à l'Armurerie par un mur ouvert, Library accessible, Safety Deposit + Dark Room avec
+zone extérieure agrandie, Operations Room ; toit et passerelle de la bibliothèque partiellement fermés.
+• Pas de shack, pas de maze tiles.
+Forsaken Boneyard (grès / racines)
+Eyrie of Crows (148 sqT, réduite en 6.5.0)
+• Main : The Eyrie, grande tour dans la moitié haute de la carte, plusieurs entrées au sol, passerelles à l'étage avec le nid
+de corbeau, balcon accessible tout autour. 1 gen garanti, plusieurs fenêtres, plusieurs murs cassables, sous-sol
+possible.
+• 6.5.0 : les maze tiles ont été éloignés du main et du shack pour empêcher les combos ; feuillage ajouté.
+Schéma indicatif (landmarks fixes uniquement), avec le repère horloge en rouge.
+Dead Sands (140 sqT, 8.6.0)
+• Pas d'Eyrie ; le Killer Shack sert de landmark central. Désert, statues sentinelles.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES CARTES
+126
+
+=====PAGE 127=====
+Withered Isle (planches de clôture)
+Pas de pallet gym ni de 4-lane. Labyrinth gyms et « Impostor jungle gyms » (presque identiques aux gyms de base, avec de
+légères variations, uniquement sur Garden of Joy).
+Garden of Joy (164 sqT)
+• Main : The Mansion, 2 étages. RDC : salon, salle à manger, cuisine, 4 entrées. Étage : 4 chambres, un débarras (coffre
+garanti), accès au toit du porche. Gen garanti à l'étage. 1-2 palettes, plusieurs fenêtres, sous-sol possible. : 3 fenêtres
+exploitables dans le main (idéalement une seule devrait être ouverte), et la fenêtre de la salle à manger (« dining room
+window ») est citée comme l'une des plus toxiques du jeu.
+• Secondaires : Greenhouse (serre métallique, 2-3 entrées, fenêtre OU palette), Gazebo (petit abri avec vaults), Parking
+lot, Treehouse, Train car.
+• Kill rate 43,9 % : très survivant.
+Schéma indicatif (landmarks fixes uniquement), avec le repère horloge en rouge.
+Greenville Square (160 sqT, 7.6.0)
+• Main : The Theatre (cinéma) : cabine de projection avec gen, arcade (la palette de l'arcade déclenche les flippers), salle
+de projection, hall, comptoir, escaliers intérieurs et extérieurs.
+• Secondaire : Pilgrim Statue au centre de la ville, clôture circulaire à 4 ouvertures, gen et coffre possibles.
+Freddy Fazbear's Pizza (148 sqT, 9.0.0)
+• Main : la Pizzeria : scène avec les animatroniques (gen devant la scène, qui déclenche un show), arcade, cuisine,
+toilettes employés, salle « parts & service ». Une zone ball pit / arcade peut apparaître à la place du Killer Shack.
+Fallen Refuge (128 sqT, 9.1.0, 29/07/2025)
+• Landmark : Prison Tower, fusion de la prison (TWD saisons 3-4) et de l'hôpital (saison 1, portes « Don't Open, Dead
+Inside »). Fonctionne comme une variante de « Short Wall Jungle Gym ». 1 gen dans la tour ; des rôdeurs pendus et
+des portes barricadées. Petite, 51,2 % de kills.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES CARTES
+127
+
+=====PAGE 128=====
+The Decimated Borgo
+The Shattered Square (144 sqT, 6.4.0 ; 7.3.0 : passée d'un rectangle 14x12 à un carré
+12x12, main déplacé du centre vers un coin)
+• Main : The Gathering Hall, petite taverne médiévale, 2 entrées au RDC, 2 drops depuis l'étage, 1 gen garanti.
+• Landmarks : Marketplace (plateforme surélevée avec étals) OU Gallows (plateforme de potence), mutuellement
+exclusifs ; The Tree (arbre sans feuilles aux racines pourpres, avec un puits). Ruines, beaucoup de murs de pierre bas.
+7.3.2 : palettes moins safe. 8.0.0 : éclairage plus clair.
+Forgotten Ruins (132 sqT : surface 92 + donjon 40 ; 8.0.0, D&D)
+• Landmark : The Rotted Tower + donjon souterrain (salle de torture). Passages : portes magiques qui téléportent d'un
+endroit à l'autre de la carte. Au moins 4 crochets garantis dans le donjon (8.0.2).
+• La carte la plus favorable au tueur selon la communauté (52,3 %) : peu de loops safe, donjon étroit.
+Dvarka Deepwood
+Toba Landing (136 sqT, 7.0.0)
+• Main : The Base, le vaisseau colonial Huxlee Caracas III sur 3 niveaux, gen sur le pont du 3e niveau, casiers, fenêtres,
+palettes ; les niveaux 1 et 2 ne communiquent pas par l'intérieur (il faut sortir). Sous-sol possible en dessous.
+• Landmarks alternés dans des coins opposés : Alien Flower (plante carnivore sur 3 troncs : gen, 2 casiers, 1 palette, 1
+fenêtre) et Space Rover (rover écrasé sur un rocher : gen, 2 casiers, 1 palette, 1 fenêtre).
+• Orientation : moitié gauche = murs « plante », moitié droite = murs « roche ».
+Schéma indicatif (landmarks fixes uniquement), avec le repère horloge en rouge.
+Nostromo Wreckage (152 sqT, 7.2.0)
+• Main : l'épave du Nostromo, grand bâtiment d'un seul niveau (couloirs industriels), beaucoup de fenêtres, drops, 3
+rampes. Jusqu'à 3 gens (2 garantis : Mess Hall et aile gauche), coffre dans le Mess Hall, sous-sol possible. 2 pièges de 
+coolant vents (réarmables), salle secrète MU/TH/UR (puzzle de keycard).
+• Secondaire : Narcissus (navette) dans un coin, 4 entrées, 2 casiers, 1 palette garantie. Pas de shack. Les portails de
+sortie ont des spawns assez prévisibles.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES CARTES
+128
+
+=====PAGE 129=====
+Schéma indicatif (landmarks fixes uniquement), avec le repère horloge en rouge.
+Sleepless District : Trickster's Delusion (9.5.0, 17/03/2026)
+(nouvelle)
+Schéma indicatif (landmarks fixes uniquement).
+• Quartier nocturne coréen aux néons. Zones : Night Club (landmark principal), Market, High Streets, Low Streets.
+• Night Club : un seul niveau, bar, piste de danse inaccessible, backstage accessible avec 1 fenêtre et 1 gen garanti.
+• Market : zone ouverte avec Killer Shack adjacent, gen garanti, 2 palettes.
+• High Streets : 5 commerces (restaurant, karaoké, électronique, supérette, boutique de cadeaux), gens possibles, 2
+fenêtres.
+• Low Streets : 10 bâtiments, plusieurs gens possibles, palettes variées, 4 emplacements de fenêtres (2 actives par
+partie).
+• Scripts : réparer certains gens fait disparaître le brouillard et lance la musique du club, feu d'artifice au marché ; portes
+de garage avec cris aléatoires ; corps qui tombe dans les Low Streets.
+• Kill rate 49,3 % : légèrement tueur.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES CARTES
+129
+
+=====PAGE 130=====
+Haddonfield : Lampkin Lane (RETIRÉE le 19/01/2026)
+Pour mémoire : Myers House (Jack-O-Lantern ; RDC 3 fenêtres + 2 entrées, étage 2 fenêtres, sous-sol par l'escalier
+intérieur) : la « Myers house window », légendaire côté survivant. Doyle House et Wallace House en face. Pas de shack
+(première carte extérieure sans shack), pas de maze tiles, tiles 2x4 allongés. Rework 7.7.0 (taille réduite, loops affaiblis).
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+LES CARTES
+130
+
+=====PAGE 131=====
+CHAPITRE 12
+12. Communication et callouts
+Une bonne annonce tient en une phrase : qui, où, quoi. « Tueur sur moi, main, je l'emmène vers 3 » vaut mieux que trente
+secondes de commentaires. Ce chapitre donne un protocole simple pour le vocal, les phrases types et les équivalents en
+messages rapides.
+Le protocole en 5 annonces
+Moment
+Annonce type
+Pourquoi
+Début de poursuite
+« Tueur sur moi, [lieu], je vais vers [direction]. »
+Les autres savent quel côté éviter
+Fin de poursuite / perte du
+tueur
+« Je l'ai perdu à [lieu], il part vers [direction]. »
+Les réparateurs anticipent
+Crochet
+« Accroché à [lieu], le tueur [reste / part vers X]. »
+Le plus proche décide s'il décroche
+Générateur
+« Gen à [lieu] à [x] %, je lâche / je reste. »
+Priorités de fin de gen, gen à 99 %
+Totem / perk
+« Hex [nom] à [lieu] » ; « il a Lightborn / NOED probable. »
+Adapter les objets et la fin de partie
+Repérer un lieu : trois méthodes
+1. Landmark : main, shack, Cow Tree, Tower, Lodge, Eyrie, Mansion… C'est la méthode la plus fiable (voir chapitre 11).
+2. Horloge : main à 12 h, shack à 6 h, le reste en heures (« gen à 4 h »). Pratique sur les cartes sans landmark clair.
+3. Relatif : « le gen à côté du shack », « le gym entre main et shack ».
+Le système horloge.
+Lexique FR / EN
+Terme
+Sens
+Exemple d'usage
+Gen
+Générateur
+« Gen à 80 % au shack »
+Main
+Bâtiment principal
+« Je le loop main »
+Shack
+Cabane du tueur
+« Shack window »
+Gym / jungle gym
+Tile mur en L + T
+« Gym vers 2 h »
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+COMMUNICATION ET CALLOUTS
+131
+
+=====PAGE 132=====
+Terme
+Sens
+Exemple d'usage
+Filler
+Petite palette
+« Il reste que des fillers »
+God pallet / window
+Tile imprenable
+« God pallet au milieu »
+Dead zone
+Zone sans ressources
+« Évite l'est, dead zone »
+Pre-drop
+Jeter la palette en avance
+« Pre-drop contre Blight »
+Greed
+Tenter un tour de plus
+« J'ai greed la palette »
+Tunnel
+Le tueur revient sur le même survivant
+« Il me tunnel »
+Slug
+Le tueur laisse au sol
+« Il slug, ne venez pas à deux »
+Proxy camp
+Le tueur reste près du crochet à distance
+« Il proxy, gen d'abord »
+Trade
+Échange sauvetage / coup
+« Pas de trade, attends »
+Hook state / stage
+État de crochet
+« Je suis 2 hooks »
+3-gen
+Trois générateurs proches restants
+« Casse le 3-gen »
+Hatch
+Trappe
+« Hatch près du shack »
+EGC
+End Game Collapse
+« EGC lancé »
+BT, DS, OTR, DH
+Borrowed Time, Decisive Strike (Will to Live), Off the
+Record, Dead Hard
+« J'ai OTR, je prends le coup »
+NOED
+Hex: No One Escapes Death
+« NOED allumé, cherche le totem »
+M1
+Attaque de base / tueur sans pouvoir de chase
+« C'est un M1, loop long »
+Anti-loop
+Tueur qui empêche les boucles
+« Anti-loop, tiens W »
+LOS
+Ligne de vue
+« Casse la LOS »
+Hold W
+Courir droit
+« Hold W, il est à 110 % »
+En solo : les messages rapides (Survivor Intent System)
+Le PTB 10.2.0 introduit une roue de huit messages prédéfinis, avec anti-spam et possibilité de couper les messages.
+Utilisez-les pour :
+• Annoncer votre rôle au début (« je répare », « je prends la poursuite »).
+• Réclamer le sauvetage (« j'y vais ») pour éviter le double sauvetage.
+• Signaler un générateur presque fini.
+• Prévenir d'un danger (tueur en approche, NOED).
+Tant que ce système n'est pas en live, trois outils remplacent la parole en solo : Kindred (qui va décrocher), Bond (où sont
+les autres) et Match Details (qui a quoi).
+Côté tueur : lire la communication adverse
+Un groupe vocal se reconnaît : réactions simultanées à vos déplacements, un seul sauveteur qui arrive pile quand vous
+partez, générateurs lâchés dès que vous approchez sans rayon de terreur visible. Contre ce type d'équipe, préférez les
+perks de blocage et d'Undetectable (Tinkerer, Trail of Torment) aux perks d'info seule : l'info leur arrive aussi vite qu'à
+vous.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+COMMUNICATION ET CALLOUTS
+132
+
+=====PAGE 133=====
+CHAPITRE 13
+13. Psychologie et habitudes des joueurs
+Les mêmes comportements reviennent dans des milliers de parties. Les connaître permet d'anticiper au lieu de réagir. Ce
+chapitre rassemble les habitudes les plus fréquentes des deux côtés, la façon de les exploiter et la façon de ne pas y
+tomber vous-même.
+Habitudes typiques des survivants (et comment les exploiter en
+tueur)
+Habitude
+Pourquoi elle existe
+Exploitation côté tueur
+Correction côté survivant
+Fuir vers le main ou le shack à
+chaque poursuite
+Ce sont les tiles les plus
+connus
+Casser la palette du shack tôt, bloquer la
+fenêtre (Bamboozle), couper la route
+vers le main
+Varier : utiliser le tile le plus proche
+puis enchaîner
+Tourner toujours dans le
+même sens
+Habitude de la main et de
+la caméra
+Au deuxième tour, faire demi-tour pour
+le couper
+Changer de sens au moins une fois par
+tile
+Jeter la palette dès que le
+tueur approche
+Peur du coup
+Fausse avance, puis contourner
+Attendre d'être à portée « utile »
+(tueur dans la zone de stun ou coup
+imminent)
+Revenir sur un générateur
+frappé
+Réflexe de stopper la
+régression
+Frapper, se cacher, revenir (Trail of
+Torment, Tinkerer)
+Vérifier le rayon de terreur et les
+auras avant de revenir
+Se cacher dans un casier
+après avoir été perdu de vue
+Sentiment de sécurité
+Ouvrir les casiers proches de la dernière
+position
+Continuer à marcher (pas de griffures)
+plutôt que s'enfermer
+Sauver immédiatement, à
+deux
+Envie d'aider
+Rester à 20-30 m (proxy), frapper le
+sauveteur
+Un seul sauveteur, au bon moment
+Se soigner dès qu'on est
+blessé
+Confort
+A Nurse's Calling, Sloppy Butcher,
+attaque pendant le soin
+Soigner seulement si c'est utile
+(tableau du chapitre 7)
+Suivre la poursuite pour
+« regarder »
+Curiosité
+Changer de cible pour le spectateur
+blessé
+Réparer pendant les poursuites
+T-bag et gestes à la porte
+Ego
+Blood Warden, No Way Out, Heresy
+(Judgment)
+Sortir
+Habitudes typiques des tueurs (et comment les exploiter en
+survivant)
+Habitude
+Exploitation côté survivant
+Suivre les traces en ligne au lieu de couper
+Double-back derrière un mur, marche après la perte de ligne de vue
+Casser toutes les palettes
+Utiliser les palettes faibles pour forcer des casses : chaque casse coûte 2,3 s et la
+Bloodlust
+Revenir au crochet juste après l'accrochage
+Attendre qu'il reparte vraiment (Kindred), ou réparer : chaque seconde de patrouille
+est gagnée
+Tunneler dès le premier décrochage
+Les trois autres finissent les générateurs ; la cible joue ses anti-tunnel et les tiles forts
+S'acharner sur le meilleur looper
+Le looper tient 60-90 s ; les autres ne quittent pas leur générateur
+Frapper chaque générateur qu'il croise
+Laisser des générateurs peu avancés comme « appâts » : il consomme ses regression
+events et son temps
+Jouer à l'oreille (Spirit, Nurse, tueurs furtifs)
+Iron Will, Calm Spirit, marcher au lieu de courir, rester immobile
+Ne jamais regarder derrière lui en portant
+Background Player, sabotage, lampe au bon angle
+Se croire en sécurité avec NOED
+Purifier les totems ternes au cours de la partie
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+PSYCHOLOGIE ET HABITUDES DES JOUEURS
+133
+
+=====PAGE 134=====
+Identifier le style du tueur en 2 minutes
+Signal
+Style probable
+Adaptation
+Revient au crochet immédiatement ou reste à moins
+de 20 m
+Camp / proxy camp
+Réparez ; l'anti-camp décrochera l'allié s'il reste trop près ;
+un seul sauveteur ensuite
+Ignore le sauveteur et poursuit le décroché
+Tunnel
+Anti-tunnel, tiles forts, les autres réparent à fond
+Laisse les survivants au sol pour en chercher un autre
+Slug
+Pas de relevage à deux, anti-slug (Unbreakable,
+Exponential)
+Frappe beaucoup de générateurs, change de cible
+souvent
+Pression / 3-gen
+Casser le 3-gen tôt, réparer à plusieurs endroits
+Longues poursuites sur un seul survivant sans succès
+Tueur en difficulté
+Poussez les générateurs, évitez de lui offrir une cible plus
+facile
+Aucun rayon de terreur et survivants surpris
+Tueur furtif
+Levez la caméra régulièrement, Spine Chill ou Alert
+Identifier le style des survivants (en tueur)
+Signal
+Profil
+Adaptation
+Générateurs qui avancent vite, 4 toolboxes
+Gen rush / SWF organisé
+Blocages (Corrupt, Grim, No Holds Barred), accrochages de
+4 survivants différents
+Lampes, attente près du ramassage
+Équipe « sauvetage »
+Lightborn, ramasser face à un mur, regarder autour avant
+de ramasser
+Un survivant vous cherche et fait des gestes
+Joueur qui veut une
+poursuite
+Ne lui donnez que ce qui vous rapporte : si les gens
+avancent, changez de cible
+Survivants dispersés et invisibles
+Équipe furtive
+Info (Lethal Pursuer, Nowhere to Hide, Darkness Revealed)
+Sauvetages immédiats et bodyblocks
+Équipe altruiste
+Proxy camp raisonnable, poursuite du sauveteur, Make
+Your Choice
+Gérer le tilt
+• Une partie perdue n'est pas une information sur votre niveau. Le MMR mélange des niveaux différents, la carte et le
+tueur comptent énormément.
+• Après deux défaites frustrantes, changez de rôle (passez tueur si vous étiez survivant) ou faites une pause : les
+mauvaises décisions viennent de la fatigue.
+• Analysez une seule erreur par partie : « j'ai jeté la palette trop tôt », « j'ai décroché sous ses yeux ». Corriger une chose
+à la fois fonctionne mieux que de tout vouloir changer.
+• Regardez vos parties (ou celles de joueurs de haut niveau comme Otzdarva, Hens ou d'autres créateurs) en vous
+demandant, à chaque décision, « qu'est-ce que j'aurais fait ? ».
+Ce qui distingue un joueur avancé
+1. Il anticipe : il sait où il ira avant que le tueur n'arrive, et quel générateur il réparera ensuite.
+2. Il compte : les états de crochet de chacun, les générateurs restants, les palettes utilisées, les perks révélées.
+3. Il accepte les pertes utiles : un générateur lâché, une palette sacrifiée, un soin reporté si cela fait gagner la partie.
+4. Il joue l'équipe même en solo : sauvetages propres, poursuites loin des générateurs, pas de doublon.
+5. Il s'adapte au tueur en moins de deux minutes (archétype, style, perks).
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+PSYCHOLOGIE ET HABITUDES DES JOUEURS
+134
+
+=====PAGE 135=====
+CHAPITRE 14
+14. Checklists, glossaire et sources
+Checklist avant la partie (survivant)
+☐Mon build couvre 4 catégories différentes (épuisement, anti-tunnel, info, libre).
+☐J'ai vérifié Match Details : pas de doublon inutile avec mes coéquipiers.
+☐Mon objet a des add-ons de vitesse (exemptés des Diminishing Returns) ou de survie.
+☐Mon offrande sert l'équipe (Bound Envelope, Shroud of Separation) ou mon objectif (Cake, Vigo's Shroud).
+Checklist pendant la partie (survivant)
+☐Première minute : séparation, générateurs du futur 3-gen d'abord.
+☐En poursuite : tile suivant repéré, pas de course vers les coéquipiers, palettes utiles seulement.
+☐Crochet : un seul sauveteur, au bon moment, soin hors de vue.
+☐Après mon décrochage : pas d'action visible tant que Will to Live / Off the Record sont actives.
+☐Fin de partie : générateur à 99 % si besoin, porte la plus éloignée, attention à NOED, Blood Warden, No Way Out.
+Checklist avant la partie (tueur)
+☐1 ou 2 ralentissements de types différents (blocage + explosion).
+☐1 perk d'info adaptée à la vitesse du tueur.
+☐1 perk de poursuite ou de fin de partie.
+☐Add-ons qui renforcent le point fort du pouvoir, pas ses points faibles.
+Checklist pendant la partie (tueur)
+☐Ouverture : trouver le groupe (apparition groupée), choisir le survivant le moins bien placé.
+☐Règle des 30-40 s : pas de coup ni de palette gagnée → changer de cible si une meilleure existe.
+☐Accrocher 4 survivants différents (Pain Resonance, Grim Embrace).
+☐Ne pas camper à moins de 16 m, ne pas frapper un survivant qui vient d'être décroché.
+☐Frapper les générateurs avancés seulement (limite de 8 « regression events »).
+Glossaire
+Terme
+Définition
+3-gen
+Trois générateurs proches restants que le tueur défend facilement
+Aura
+Silhouette visible à travers les murs (perks, objets, pouvoirs)
+Bloodlust
+Accélération progressive du tueur en poursuite longue
+Bodyblock
+Se placer physiquement entre le tueur et un allié ou une sortie
+Boon
+Totem béni par un survivant, effet dans un rayon de 24 m
+Chase
+Poursuite
+Dead zone
+Zone sans palette ni fenêtre
+Diminishing Returns (DR)
+Réduction des effets identiques cumulés (100/50/25/12,5/5 %)
+Drop
+Saut d'un étage vers le bas
+EGC
+End Game Collapse : 2 minutes après l'ouverture d'une porte (ou la fermeture de la trappe)
+Elusive
+Statut survivant : pas de traces, de sang ni de grognements, aura cachée
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+CHECKLISTS, GLOSSAIRE ET SOURCES
+135
+
+=====PAGE 136=====
+Terme
+Définition
+Exhausted
+Statut qui empêche d'utiliser une perk d'épuisement
+Fast vault
+Vault rapide (0,5 s), bruyant
+Filler
+Petite palette de remplissage, faible
+Hex
+Totem maudit par le tueur, effet actif tant qu'il n'est pas purifié
+Hook state
+État de crochet (3 = mort)
+Jungle gym
+Tile composé d'un mur en L et d'un mur en T
+Loop
+Boucle autour d'un obstacle pour faire perdre du temps au tueur
+Mindgame
+Feinte qui pousse l'adversaire à une mauvaise décision
+MMR
+Matchmaking rating, le niveau caché qui sert à former les parties
+Mori
+Exécution d'un survivant par le tueur (offrande ou pouvoir)
+Obsession
+Survivant ciblé par certaines perks
+Pre-drop
+Jeter une palette avant que le tueur ne soit à portée
+Proxy camp
+Rester à distance moyenne d'un crochet pour punir le sauvetage
+Regression event
+Perte instantanée d'au moins 2,5 % infligée par le tueur à un générateur (8 maximum)
+Scourge Hook
+Crochet à aura blanche, lié aux perks Scourge
+Slug
+Laisser un survivant au sol
+SWF
+Survive With Friends : groupe de survivants qui jouent ensemble
+Tile
+Élément de décor avec palette et/ou fenêtre
+Tunnel
+Poursuivre en priorité le survivant qui vient d'être décroché
+Undetectable
+Statut tueur : pas de rayon de terreur ni de tache rouge
+Sources
+Recherche effectuée le 26 septembre 2026. Les descriptions de perks et de pouvoirs sont reformulées ; vérifiez toujours les
+valeurs dans le jeu (infobulles détaillées) après un nouveau patch.
+Behaviour (officiel : notes de patch, forums, support, site) (45)
+•
+https://deadbydaylight.com/news/blood-moon-event-2026/
+•
+https://forums.bhvr.com/dead-by-daylight/discussion/351134/official-kill-rate-stats-from-the-devs
+•
+https://forums.bhvr.com/dead-by-daylight/discussion/363350/survivor-tips-how-to-improve-chase
+•
+https://forums.bhvr.com/dead-by-daylight/discussion/372779/what-are-the-most-busted-loops-in-dbd-to-yall
+•
+https://forums.bhvr.com/dead-by-daylight/discussion/403364/devs-please-answer-what-is-solo-q-win-rate-when-all-4-survivors-are-solo
+•
+https://forums.bhvr.com/dead-by-daylight/discussion/434718/percentages-of-average-swf
+•
+https://forums.bhvr.com/dead-by-daylight/discussion/444344/map-balance-with-tier-list
+•
+https://forums.bhvr.com/dead-by-daylight/discussion/444816/please-help-me-understand-the-devs-goal-for-balance-a-60-kill-rate-makes-0-sense
+•
+https://forums.bhvr.com/dead-by-daylight/discussion/446000/re-mapping-the-realms-haddonfield
+•
+https://forums.bhvr.com/dead-by-daylight/discussion/449638/the-official-stats-website-counts-every-single-abandon-as-a-survivor-as-an-escape
+•
+https://forums.bhvr.com/dead-by-daylight/discussion/453753/2026-killer-reworks
+•
+https://forums.bhvr.com/dead-by-daylight/discussion/454770/
+•
+https://forums.bhvr.com/dead-by-daylight/discussion/454770/developer-update-august-2025
+•
+https://forums.bhvr.com/dead-by-daylight/discussion/454813/anti-slugging-update-revealed
+•
+https://forums.bhvr.com/dead-by-daylight/discussion/455250/9-2-0-ptb-patch-notes
+•
+https://forums.bhvr.com/dead-by-daylight/discussion/456978/9-2-0-sinister-grace-patch-notes
+•
+https://forums.bhvr.com/dead-by-daylight/discussion/457688/my-9-2-0-killer-tier-list
+•
+https://forums.bhvr.com/dead-by-daylight/discussion/457750/why-did-otr-and-hope-got-nerfed-but-pain-res-not-it-was-in-ptb
+•
+https://forums.bhvr.com/dead-by-daylight/discussion/458417/current-map-balance-post-9-2-0-with-tier-list
+•
+https://forums.bhvr.com/dead-by-daylight/discussion/459747/9-3-0-ptb-patch-notes
+•
+https://forums.bhvr.com/dead-by-daylight/discussion/460954/9-3-0-mid-chapter
+•
+https://forums.bhvr.com/dead-by-daylight/discussion/461745/genuine-question-why-was-the-anti-tunnel-and-anti-slug-scrapped
+•
+https://forums.bhvr.com/dead-by-daylight/discussion/463335/the-real-vecna-guide-the-first-henry
+•
+https://forums.bhvr.com/dead-by-daylight/discussion/465723/2026-stats-are-here
+•
+https://forums.bhvr.com/dead-by-daylight/discussion/468059/so-diminishing-returns
+•
+https://forums.bhvr.com/dead-by-daylight/discussion/470464/the-anti-tunnel-update-v2
+•
+https://forums.bhvr.com/dead-by-daylight/discussion/471406/skull-merchants-rework
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+CHECKLISTS, GLOSSAIRE ET SOURCES
+136
+
+=====PAGE 137=====
+•
+https://forums.bhvr.com/dead-by-daylight/discussion/471680/how-was-mmr-changed
+•
+https://forums.bhvr.com/dead-by-daylight/discussion/472297/dev-update-10-2-0-perks-update
+•
+https://forums.bhvr.com/dead-by-daylight/kb/articles/537-9-5-0-ptb-patch-notes
+•
+https://forums.bhvr.com/dead-by-daylight/kb/articles/540-stats-first-look-at-stats-in-2026
+•
+https://forums.bhvr.com/dead-by-daylight/kb/articles/542-9-6-0-ptb-patch-notes
+•
+https://forums.bhvr.com/dead-by-daylight/kb/articles/544-9-6-0-patch-notes
+•
+https://forums.bhvr.com/dead-by-daylight/kb/articles/550-10-0-0-jason-patch-notes
+•
+https://forums.bhvr.com/dead-by-daylight/kb/articles/555-10-1-0-ptb-patch-notes
+•
+https://forums.bhvr.com/dead-by-daylight/kb/articles/558-10-1-2-bugfix-patch
+•
+https://forums.bhvr.com/dead-by-daylight/kb/articles/559-10-2-0-ptb-patch-notes
+•
+https://stats.deadbydaylight.com/
+•
+https://support.deadbydaylight.com/hc/en-us/articles/38572561643796-9-0-0-Five-Nights-at-Freddy-s
+•
+https://support.deadbydaylight.com/hc/en-us/articles/41607788392212-9-2-0-Sinister-Grace
+•
+https://support.deadbydaylight.com/hc/en-us/articles/41607860703380-9-1-0-The-Walking-Dead
+•
+https://support.deadbydaylight.com/hc/en-us/articles/43679054706708-9-3-0-Mid-Chapter
+•
+https://support.deadbydaylight.com/hc/en-us/articles/44356172914196-FAQ-Halloween-Licence-Removal
+•
+https://x.com/DeadbyDaylight/status/1945891452761817262
+•
+https://x.com/DeadbyDaylight/status/2010018893197082706
+Wiki officiel et wikis (88)
+•
+https://deadbydaylight.fandom.com/wiki/Killers
+•
+https://deadbydaylight.fandom.com/wiki/Maze_Tiles
+•
+https://deadbydaylight.fandom.com/wiki/Offerings
+•
+https://deadbydaylight.fandom.com/wiki/Realms
+•
+https://deadbydaylight.wiki.gg/wiki/
+•
+https://deadbydaylight.wiki.gg/wiki/Abandon
+•
+https://deadbydaylight.wiki.gg/wiki/Barbecue_%26_Chilli
+•
+https://deadbydaylight.wiki.gg/wiki/Bloodlust
+•
+https://deadbydaylight.wiki.gg/wiki/Bloodpoints
+•
+https://deadbydaylight.wiki.gg/wiki/CHAPTER_39:_All-Kill:_Comeback
+•
+https://deadbydaylight.wiki.gg/wiki/CHAPTER_41:_Chorus_of_Sin
+•
+https://deadbydaylight.wiki.gg/wiki/Category:Killer_Perks
+•
+https://deadbydaylight.wiki.gg/wiki/Category:Perks
+•
+https://deadbydaylight.wiki.gg/wiki/Chapters
+•
+https://deadbydaylight.wiki.gg/wiki/Corrupt_Intervention
+•
+https://deadbydaylight.wiki.gg/wiki/Cull_the_Weak
+•
+https://deadbydaylight.wiki.gg/wiki/Dead_Man's_Switch
+•
+https://deadbydaylight.wiki.gg/wiki/Diminishing_Returns
+•
+https://deadbydaylight.wiki.gg/wiki/Dying_State
+•
+https://deadbydaylight.wiki.gg/wiki/Eruption
+•
+https://deadbydaylight.wiki.gg/wiki/Flashlights
+•
+https://deadbydaylight.wiki.gg/wiki/Fog_Vials
+•
+https://deadbydaylight.wiki.gg/wiki/Generators
+•
+https://deadbydaylight.wiki.gg/wiki/Grades
+•
+https://deadbydaylight.wiki.gg/wiki/Grim_Embrace
+•
+https://deadbydaylight.wiki.gg/wiki/Harvester
+•
+https://deadbydaylight.wiki.gg/wiki/Hatch
+•
+https://deadbydaylight.wiki.gg/wiki/Health_States
+•
+https://deadbydaylight.wiki.gg/wiki/Hex:_Fortune's_Fool
+•
+https://deadbydaylight.wiki.gg/wiki/Hex:_No_One_Escapes_Death
+•
+https://deadbydaylight.wiki.gg/wiki/Hex:_Thrill_of_the_Hunt
+•
+https://deadbydaylight.wiki.gg/wiki/Hooks
+•
+https://deadbydaylight.wiki.gg/wiki/Keep_Them_Waiting
+•
+https://deadbydaylight.wiki.gg/wiki/Keys
+•
+https://deadbydaylight.wiki.gg/wiki/Killer_Perks
+•
+https://deadbydaylight.wiki.gg/wiki/Killer_Shack
+•
+https://deadbydaylight.wiki.gg/wiki/Killers
+•
+https://deadbydaylight.wiki.gg/wiki/Kwon_Tae-young
+•
+https://deadbydaylight.wiki.gg/wiki/Maps
+•
+https://deadbydaylight.wiki.gg/wiki/Maze_Tiles
+•
+https://deadbydaylight.wiki.gg/wiki/Med-Kits
+•
+https://deadbydaylight.wiki.gg/wiki/Movement_Speeds
+•
+https://deadbydaylight.wiki.gg/wiki/No_Holds_Barred
+•
+https://deadbydaylight.wiki.gg/wiki/Offerings
+•
+https://deadbydaylight.wiki.gg/wiki/Official_Stats
+•
+https://deadbydaylight.wiki.gg/wiki/Pallets
+•
+https://deadbydaylight.wiki.gg/wiki/Patch_10.1.0
+•
+https://deadbydaylight.wiki.gg/wiki/Patch_9.0.0
+•
+https://deadbydaylight.wiki.gg/wiki/Patch_Notes_10.0.X
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+CHECKLISTS, GLOSSAIRE ET SOURCES
+137
+
+=====PAGE 138=====
+•
+https://deadbydaylight.wiki.gg/wiki/Patch_Notes_9.0.X
+•
+https://deadbydaylight.wiki.gg/wiki/Patch_Notes_9.1.X
+•
+https://deadbydaylight.wiki.gg/wiki/Patch_Notes_9.2.X
+•
+https://deadbydaylight.wiki.gg/wiki/Patch_Notes_9.3.X
+•
+https://deadbydaylight.wiki.gg/wiki/Patch_Notes_9.4.X
+•
+https://deadbydaylight.wiki.gg/wiki/Patch_Notes_9.5.X
+•
+https://deadbydaylight.wiki.gg/wiki/Patch_Notes_9.6.X
+•
+https://deadbydaylight.wiki.gg/wiki/Patches
+•
+https://deadbydaylight.wiki.gg/wiki/Perks
+•
+https://deadbydaylight.wiki.gg/wiki/Pop_Goes_the_Weasel
+•
+https://deadbydaylight.wiki.gg/wiki/Realms
+•
+https://deadbydaylight.wiki.gg/wiki/Sacrificial_Tree
+•
+https://deadbydaylight.wiki.gg/wiki/Scourge_Hook:_Pain_Resonance
+•
+https://deadbydaylight.wiki.gg/wiki/Scourge_Hook:_Weeping_Wounds
+•
+https://deadbydaylight.wiki.gg/wiki/See_How_They_Run
+•
+https://deadbydaylight.wiki.gg/wiki/Survivors
+•
+https://deadbydaylight.wiki.gg/wiki/Thanatophobia
+•
+https://deadbydaylight.wiki.gg/wiki/The_Animatronic
+•
+https://deadbydaylight.wiki.gg/wiki/The_Dark_Lord
+•
+https://deadbydaylight.wiki.gg/wiki/The_First
+•
+https://deadbydaylight.wiki.gg/wiki/The_Ghoul
+•
+https://deadbydaylight.wiki.gg/wiki/The_Good_Guy
+•
+https://deadbydaylight.wiki.gg/wiki/The_Houndmaster
+•
+https://deadbydaylight.wiki.gg/wiki/The_Judgment
+•
+https://deadbydaylight.wiki.gg/wiki/The_Knight
+•
+https://deadbydaylight.wiki.gg/wiki/The_Krasue
+•
+https://deadbydaylight.wiki.gg/wiki/The_Lich
+•
+https://deadbydaylight.wiki.gg/wiki/The_Mastermind
+•
+https://deadbydaylight.wiki.gg/wiki/The_Pig
+•
+https://deadbydaylight.wiki.gg/wiki/The_Singularity
+•
+https://deadbydaylight.wiki.gg/wiki/The_Skull_Merchant
+•
+https://deadbydaylight.wiki.gg/wiki/The_Slasher
+•
+https://deadbydaylight.wiki.gg/wiki/The_Trapper
+•
+https://deadbydaylight.wiki.gg/wiki/The_Unknown
+•
+https://deadbydaylight.wiki.gg/wiki/The_Xenomorph
+•
+https://deadbydaylight.wiki.gg/wiki/Toolboxes
+•
+https://deadbydaylight.wiki.gg/wiki/Vaulting
+•
+https://deadbydaylight.wiki.gg/wiki/Will_to_Live
+•
+https://en.wikipedia.org/wiki/Dead_by_Daylight
+Statistiques communautaires (33)
+•
+https://nightlight.gg/killers/Blight
+•
+https://nightlight.gg/killers/Judgment
+•
+https://nightlight.gg/killers/Krasue
+•
+https://nightlight.gg/killers/Slasher
+•
+https://nightlight.gg/maps
+•
+https://nightlight.gg/perks/<Nom>
+•
+https://nightlight.gg/perks/<Nom_De_La_Perk>
+•
+https://nightlight.gg/perks/A_Nurse's_Calling
+•
+https://nightlight.gg/perks/Background_Player
+•
+https://nightlight.gg/perks/Bamboozle
+•
+https://nightlight.gg/perks/Barbecue_&_Chili
+•
+https://nightlight.gg/perks/Built_to_Last
+•
+https://nightlight.gg/perks/Celestial_Witness
+•
+https://nightlight.gg/perks/Corrupt_Intervention
+•
+https://nightlight.gg/perks/Dead_Man%E2%80%99s_Switch
+•
+https://nightlight.gg/perks/Deadlock
+•
+https://nightlight.gg/perks/Eruption
+•
+https://nightlight.gg/perks/Grim_Embrace
+•
+https://nightlight.gg/perks/Hex:_Pentimento
+•
+https://nightlight.gg/perks/Hex:_Plaything
+•
+https://nightlight.gg/perks/Hex:_Ruin
+•
+https://nightlight.gg/perks/Hex:_Undying
+•
+https://nightlight.gg/perks/Jolt
+•
+https://nightlight.gg/perks/Lethal_Pursuer
+•
+https://nightlight.gg/perks/Nowhere_to_Hide
+•
+https://nightlight.gg/perks/Off_the_Record
+•
+https://nightlight.gg/perks/Pop_Goes_the_Weasel
+•
+https://nightlight.gg/perks/Prove_Thyself
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+CHECKLISTS, GLOSSAIRE ET SOURCES
+138
+
+=====PAGE 139=====
+•
+https://nightlight.gg/perks/Scourge_Hook:_Pain_Resonance
+•
+https://nightlight.gg/perks/Turn_Back_the_Clock
+•
+https://nightlight.gg/perks/Windows_of_Opportunity
+•
+https://nightlight.gg/perks/list?role=survivor
+•
+https://nightlight.gg/perks/viewer
+Tier lists, guides et actualités (83)
+•
+https://afterdarkgames.blogspot.com/2026/09/10-dead-by-daylight-survivor-perk.html
+•
+https://all.gg/news/dead-by-daylight-mmr-rework-arrives-august-25/
+•
+https://all.gg/news/dead-by-daylight-ptb-full-chorus-of-sin-patch-notes/
+•
+https://allmyperks.com/characters/survivors/kwon-tae-young
+•
+https://allthings.how/dead-by-daylight-best-perks-and-tips-to-counter-the-judgement/
+•
+https://champbop.com/dead-by-daylight/best-flashlight-build-dbd/
+•
+https://champbop.com/dead-by-daylight/dead-by-daylight-10-looping-tips/
+•
+https://champbop.com/dead-by-daylight/dead-by-daylight-best-survivor-builds/
+•
+https://champbop.com/dead-by-daylight/how-to-counter-every-killer-in-dbd/
+•
+https://comicbook.com/gaming/news/dead-by-daylight-dbd-tokyo-ghoul-nerf-patch-notes-most-frustrating-killer/
+•
+https://dbdperkcombos.com/blog/best-killer-tier-list-patch-10
+•
+https://dbdperkcombos.com/blog/jason-voorhees-op-builds-nerfs
+•
+https://dbdperkcombos.com/perks
+•
+https://dbdvault.com/killers/judgment
+•
+https://dbdvault.com/tier-lists/perks
+•
+https://dotesports.com/dead-by-daylight/news/how-to-counter-springtrap-the-animatronic-in-dead-by-daylight
+•
+https://eip.gg/dbd/guides/how-to-loop/
+•
+https://eip.gg/dbd/news/developer-update-finishing-mori-anti-slug/
+•
+https://eip.gg/dbd/news/patch-850-live-freddy-rework/
+•
+https://eip.gg/dbd/news/ptb-patch-7-7-0/
+•
+https://fandomwire.com/dead-by-daylight-summer-screams-2026-event-details/
+•
+https://findingdulcinea.com/dead-by-daylight-krasue-guide/
+•
+https://ggseason.com/dbd/
+•
+https://happygamer.com/dead-by-daylight-patch-9-6-1-doctor-ghost-face-buffs-151069/
+•
+https://happygamer.com/dead-by-daylight-ptb-10-1-0-the-judgment-exile-mechanic-161175/
+•
+https://hens333.com/callouts
+•
+https://howtoplayhub.com/dead-by-daylight/best-killer-perks
+•
+https://otz-opinions.pages.dev/
+•
+https://otzdarva.com/dbd/tierlists
+•
+https://patched.gg/games/dead-by-daylight
+•
+https://patched.gg/games/dead-by-daylight/1020-ptb-patch-notes
+•
+https://patched.gg/games/dead-by-daylight/960-patch-notes
+•
+https://playhub.com/blog/dead-by-daylight/best-survivor-builds-602668
+•
+https://playhub.com/blog/dead-by-daylight/survivor-perk-tier-list-217424
+•
+https://prodigygamers.com/2025/06/24/dead-by-daylight-springtrap-ability-breakdown-tips-tricks/
+•
+https://progameguides.com/dead-by-daylight/best-add-on-combos-for-all-items-in-dead-by-daylight/
+•
+https://progameguides.com/dead-by-daylight/how-to-loop-all-map-tiles-in-dead-by-daylight/
+•
+https://progameguides.com/dead-by-daylight/say-goodbye-to-mikey-halloween-chapter-leaves-dbd-in-january-2026/
+•
+https://sinfulshadows.com/news/art-the-clown-finally-slashes-into-dead-by-daylight-terrifier-chapter-confirmed-for-november-2026
+•
+https://steamcommunity.com/app/381210/discussions/0/689741692083027711/
+•
+https://steamcommunity.com/sharedfiles/filedetails/?id=2709060449
+•
+https://steamcommunity.com/sharedfiles/filedetails/?id=2904838739
+•
+https://steamcommunity.com/sharedfiles/filedetails/?id=3208139129
+•
+https://steamdb.info/patchnotes/20652653/
+•
+https://steamdb.info/patchnotes/23651366/
+•
+https://steamdb.info/patchnotes/24828907/
+•
+https://thefogguide.com/guides/safe-vs-unsafe-pallets-and-loops
+•
+https://thefogguide.com/guides/when-to-drop-pallets-dbd
+•
+https://thephrasemaker.com/2026/01/30/dead-by-daylight-how-to-counter-the-first-vecna/
+•
+https://timesaver.gg/blog/dbd-2v8-september-2026
+•
+https://timesaver.gg/blog/dbd-all-killers-list-2026
+•
+https://timesaver.gg/blog/dbd-best-killer-perks-tier-list-2026
+•
+https://timesaver.gg/blog/dbd-best-survivor-perks-tier-list-2026
+•
+https://timesaver.gg/blog/dbd-builds-best-killer-survivor-builds
+•
+https://timesaver.gg/blog/dbd-killer-tier-list-september-2026
+•
+https://timesaver.gg/blog/dbd-legion-guide-feral-frenzy-perks-counters
+•
+https://timesaver.gg/blog/dbd-maps-list-all-maps-realms
+•
+https://timesaver.gg/blog/dbd-michael-myers-the-shape-guide-perks-counters
+•
+https://timesaver.gg/blog/dbd-patch-notes-10-2-0
+•
+https://timesaver.gg/blog/dbd-perk-changes-10-2-0
+•
+https://timesaver.gg/blog/dbd-trickster-guide-style-ranks-perks-counters
+•
+https://trendcurrent.org/tech/dead-by-daylight-killers-tier-list/
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+CHECKLISTS, GLOSSAIRE ET SOURCES
+139
+
+=====PAGE 140=====
+•
+https://www.addictinggames.com/news/dead-by-daylight-september-2026-roadmap-revealed
+•
+https://www.dbdbuilds.com/tiers
+•
+https://www.destructoid.com/all-survivors-and-perks-in-dead-by-daylight-x-the-walking-dead/
+•
+https://www.dexerto.com/dead-by-daylight/dead-by-daylight-best-perks-survivors-dbd-1653229/
+•
+https://www.dlcompare.com/gaming-news/dead-by-daylight-officially-releases-update-10-1-0-82846
+•
+https://www.gamer.org/dead-by-daylight-9-6-0-blight-nerfs-diminishing-returns-and-killer-buffs-explained/
+•
+https://www.gamesradar.com/games/horror/dead-by-daylight-dbd-roadmap/
+•
+https://www.gfinityesports.com/article/dead-by-daylight-best-killers-tier-list-dbd-dowsey
+•
+https://www.pcgamer.com/games/horror/dead-by-daylight-update-roadmap/
+•
+https://www.pcgamesn.com/dead-by-daylight/all-dead-by-daylight-killers-perks
+•
+https://www.pcgamesn.com/dead-by-daylight/diminishing-returns-update
+•
+https://www.pcgamesn.com/dead-by-daylight/next-dbd-update-release-date
+•
+https://www.pcgamesn.com/dead-by-daylight/three-gen-killers
+•
+https://www.propelrc.com/ultimate-dbd-tier-list/
+•
+https://www.sportskeeda.com/esports/dead-daylight-update-8-7-0-everything-new-added-latest-patch
+•
+https://www.techradar.com/gaming/consoles-pc/dead-by-daylight-nerfs-its-most-overpowered-killer-in-latest-update
+•
+https://www.thesixthaxis.com/2025/11/25/dead-by-daylight-update-9-3-0-out-now-mindbreaker-perk-is-back/
+•
+https://www.thesixthaxis.com/2026/06/15/dead-by-daylight-10th-anniversary-marked-with-new-character-map-and-major-game-improvement-reveals/
+•
+https://www.videogamer.com/news/dead-by-daylight-eleven-dustin-survivor-perks-stranger-things-chapter-2/
+•
+https://www.videogamer.com/news/dead-by-daylight-patch-8-4-2-buffs-the-houndmaster-sets-the-stage-for-major-dd-update/
+•
+https://www.youtube.com/watch?v=pqHHCN9Po-4
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+CHECKLISTS, GLOSSAIRE ET SOURCES
+140
