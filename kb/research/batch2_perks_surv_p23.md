@@ -118,9 +118,9 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
 
 ### Five Moves Ahead — Kwon Tae-young
 - **Statut** : LIVE 10.1.2a (perk de la 9.5.0 [15]) ; **modifiée au PTB 10.2.0**.
-- **Effet LIVE** : dans le rayon de terreur ou en poursuite : auras des 5 palettes ou fenêtres les plus proches ; après avoir lâché une palette, vous repartez 50 % plus tôt ; cooldown de 40/35/30 s après un lâcher de palette. STRONG_SECONDARY [8][9]. La présence des fenêtres en LIVE se déduit du Dev Update (« removed visibility of Windows » au PTB) [2].
-- **Valeurs / CD / conditions / limites** : 5 éléments ; 50 % ; 40/35/30 s (LIVE).
-- **PTB 10.2.0** : palettes seulement (fenêtres retirées). Les résumés présentent aussi « added 50 % earlier movement after dropping a pallet » comme une nouveauté PTB, alors que d'autres résumés placent déjà cet effet en LIVE → CONFLICT-L2P23-02. VERIFIED_MULTI_SOURCE pour « palettes seulement » [2][5][17].
+- **Effet LIVE** : dans le rayon de terreur ou en poursuite : auras des 5 palettes **et fenêtres** les plus proches ; après avoir lâché une palette, vous repartez 50 % plus tôt (wiki : « Perform Pallet Drop interaction 50 % faster », formulation antérieure ; note 9.5.0 : « you start moving 50% earlier », texte clarifié sans changement de gameplay) ; cooldown de 40/35/30 s après un lâcher de palette. VERIFIED_MULTI_SOURCE [24][44].
+- **Valeurs / CD / conditions / limites** : 5 éléments ; 50 % ; 40/35/30 s (LIVE ; CD relevé de 10 s par rang en 9.5.0, était 30/25/20 s au PTB 9.5.0 [24][44]).
+- **PTB 10.2.0 (NON LIVE)** : auras des 5 palettes les plus proches **seulement** (« was Pallets and Windows ») ; le reste inchangé (repartir 50 % plus tôt, CD 40/35/30 s ; le wiki précise « when you drop a Pallet while this perk is activated »). Dev note : « specialize in Pallets ». VERIFIED_MULTI_SOURCE [1][24][2][17]. Le « repartir 50 % plus tôt » n'est **pas** un ajout PTB : CONFLICT-L2P23-02 RÉSOLU.
 - **Interactions, DR, anti-synergies** : au PTB, Windows (fenêtres) et Five Moves Ahead (palettes) deviennent complémentaires ; en LIVE, elles se recoupent.
 - **Synergies** : Lithe (vault sur palette lâchée), Resilience, Dead Hard.
 - **Difficulté** : 2 (il faut du timing sur le lâcher de palette)
@@ -129,20 +129,20 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
   - Loops de palette : repartir plus tôt après le lâcher réduit le risque de prendre un coup à travers la palette et donne une avance directe sur le tueur.
 - **Quand elle n'en produit pas** :
   - Perk inactive hors rayon de terreur ou hors poursuite. Et contre les tueurs anti-palette (Blight, Spirit), où l'on lâche peu de palettes.
-- **Écart avec le seed** : LIVE OK. PTB IMPRÉCIS : « +50 % de vitesse après le lâcher » est faux dans les termes (il s'agit de repartir 50 % plus tôt, pas de Haste), et il n'est pas établi que ce soit un ajout PTB.
-- **Sources** : [2][5][7][8][9][17]
+- **Écart avec le seed** : LIVE OK (5 palettes ou fenêtres, repartir 50 % plus tôt, 40/35/30 s). PTB FAUX dans les termes : « +50 % de vitesse après le lâcher » n'existe pas ; le PTB retire seulement les fenêtres, l'effet « repartir 50 % plus tôt » est LIVE depuis 9.5.0 [44][1].
+- **Sources** : [1][2][5][7][8][9][17][24][44]
 
 ---
 
 ## Tier A du seed
 
-> Pour les 14 perks suivantes, **aucune recherche web n'a pu être faite** (quota épuisé). Les effets reprennent le texte du seed (« seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) », UNCERTAIN) ; les ajouts tirés de la connaissance du modèle sont étiquetés « connaissance du modèle (antérieure à mi-2026), UNCERTAIN ». Les notes de valeur, les synergies et les sections « quand elle produit de la valeur » sont HEURISTIC / EXPERT OPINION, pour structurer la reprise. Aucune correction du seed n'en est tirée.
+> Ces 14 perks n'avaient pu être vérifiées au lot 2 (quota WebSearch épuisé). **Re-vérifiées au lot 12a (27/09/2026)** sur les pages wiki complètes et, quand elles existent, les notes officielles. Les notes de valeur, les synergies et les sections « quand elle produit de la valeur » restent HEURISTIC / EXPERT OPINION.
 
 ### Déjà Vu — Générale
-- **Statut** : LIVE (présumée).
-- **Effet LIVE** (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN) : auras des 3 générateurs les plus proches les uns des autres ; réparation 4/5/6 % plus rapide sur ces gens. UNCERTAIN. Point à vérifier : l'aura est-elle permanente (seed) ou limitée à 30 s au début de l'épreuve et à chaque gen terminé (connaissance du modèle (antérieure à mi-2026), UNCERTAIN) ?
-- **Valeurs / CD / conditions / limites** : 4/5/6 % (UNCERTAIN).
-- **PTB 10.2.0** : UNCERTAIN.
+- **Statut** : LIVE 10.1.2a ; 9.1.0 : les gens révélés ne sont plus suivis par les Maps [39][25].
+- **Effet LIVE** : auras des 3 générateurs actuellement les plus proches les uns des autres, **en permanence** (aucune durée ni déclencheur dans la description) ; réparation 4/5/6 % plus rapide sur ces gens. STRONG_SECONDARY [25] ; la note 9.1.0 [39] confirme seulement le retrait du suivi par Map. L'hypothèse « 30 s au début et à chaque gen terminé » (connaissance du modèle) est **écartée** (ancienne version).
+- **Valeurs / CD / conditions / limites** : 4/5/6 % (LIVE, STRONG_SECONDARY [25]) ; les gens révélés changent quand la configuration change (« currently in closest proximity »).
+- **PTB 10.2.0 (NON LIVE)** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [1][25].
 - **Interactions, DR, anti-synergies** : se cumule avec Resilience et Prove Thyself (vitesse de réparation) : cumul probablement soumis aux DR 9.6.0 (HYPOTHESIS).
 - **Synergies** : Prove Thyself, Hyperfocus, Stake Out (builds « gen »).
 - **Difficulté** : 1
@@ -151,15 +151,15 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
   - En SoloQ : elle montre le 3-gen et oriente les réparations vers les gens les plus dispersés, avant que le tueur ne s'enferme dans un 3-gen.
 - **Quand elle n'en produit pas** :
   - En SWF, un joueur qui connaît la carte ou l'équipe au vocal fait déjà ce travail.
-- **Écart avec le seed** : NON VÉRIFIABLE (permanence de l'aura à trancher).
-- **Sources** : aucune cette session.
+- **Écart avec le seed** : OK (3 gens, 4/5/6 %, aura permanente [25]).
+- **Sources** : [25][39]
 
 ### Resilience — Générale
-- **Statut** : LIVE (présumée) ; buff annoncé au PTB 10.2.0 selon le seed.
-- **Effet LIVE** (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN) : blessé : +3/6/9 % de vitesse pour réparer, soigner, saboter, décrocher, purifier / bénir, ouvrir les portes, déverrouiller et sauter. UNCERTAIN.
-- **Valeurs / CD / conditions / limites** : 3/6/9 % (UNCERTAIN).
-- **PTB 10.2.0** : 7/8/9 % selon le seed ; **non retrouvé** dans les résumés lus ([1] ne la cite pas). UNCERTAIN.
-- **Interactions, DR, anti-synergies** : bonus de vitesse de saut et de réparation cumulés avec Finesse, Déjà Vu, Prove Thyself : DR probables (HYPOTHESIS). Anti-synergie de rôle : pousse à rester blessé.
+- **Statut** : LIVE 10.1.2a (texte inchangé depuis 6.2.0 selon l'historique wiki) ; **buff au PTB 10.2.0** (non LIVE).
+- **Effet LIVE** : blessé : +3/6/9 % de vitesse pour bénir / purifier les totems, soigner (soi ou autrui), ouvrir les portes, réparer, saboter les crochets, fouiller les coffres, décrocher et **sauter les fenêtres**. STRONG_SECONDARY [26] ; la valeur LIVE 3/6/9 % est aussi confirmée par le « (was 3/6/9%) » de la note 559 [1] → VERIFIED_MULTI_SOURCE.
+- **Valeurs / CD / conditions / limites** : 3/6/9 % (LIVE, VERIFIED_MULTI_SOURCE [26][1]).
+- **PTB 10.2.0 (NON LIVE)** : toutes les vitesses passent à **7/8/9 %** (was 3/6/9 %). VERIFIED_MULTI_SOURCE [1][26].
+- **Interactions, DR, anti-synergies** : bonus de réparation cumulés avec Déjà Vu, Prove Thyself : DR probables (HYPOTHESIS). Jamais cumulée avec Finesse (blessé vs en bonne santé, FACT d'après les deux descriptions wiki [26][31]). Anti-synergie de rôle : pousse à rester blessé.
 - **Synergies** : No Mither (blessé en permanence), Lithe, Windows.
 - **Difficulté** : 1
 - **Valeur (HEURISTIC, 0-3)** : SoloQ 2 · SWF 2 · chase 2 · macro 1 · info 0 · anti-tunnel 0 · soin 1 · gen 2 · endgame 1
@@ -167,30 +167,30 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
   - Partie jouée blessé (tueurs à Deep Wound / Mangled, pas de soin rentable) : bonus passif sur tout.
 - **Quand elle n'en produit pas** :
   - Joueur qui se soigne systématiquement, ou tueur « one-shot ».
-- **Écart avec le seed** : NON VÉRIFIABLE (LIVE et PTB).
-- **Sources** : aucune.
+- **Écart avec le seed** : OK (LIVE 3/6/9 % et PTB 7/8/9 %, correctement étiqueté PTB). Liste d'actions légèrement IMPRÉCISE : « sauter » = fenêtres seulement selon le wiki [26], fouille de coffres omise.
+- **Sources** : [1][26]
 
 ### Kindred — Générale
-- **Statut** : LIVE (présumée).
-- **Effet LIVE** (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN) : vous accroché : tous les survivants voient les auras les uns des autres, et celle du tueur s'il est à 8/12/16 m ou moins du crochet ; même effet pour vous quand un autre survivant est accroché. UNCERTAIN.
-- **Valeurs / CD / conditions / limites** : 8/12/16 m (UNCERTAIN).
-- **PTB 10.2.0** : 14/15/16 m selon le seed ; non vérifié. UNCERTAIN.
-- **Interactions, DR, anti-synergies** : redondante avec Bond pour les auras alliées. L'audit relève une incohérence interne du seed sur Kindred [15].
+- **Statut** : LIVE 10.1.2a (texte inchangé depuis 3.4.0 selon l'historique wiki) ; **buff au PTB 10.2.0** (non LIVE).
+- **Effet LIVE** : quand un survivant est accroché : l'aura du tueur est révélée à tous les survivants quand il est à 8/12/16 m ou moins du crochet ; si c'est vous qui êtes accroché, tous les survivants voient les auras les uns des autres ; si c'est un autre, vous seul voyez les auras des autres survivants. STRONG_SECONDARY [27] ; 8/12/16 m confirmé par le « (was 8/12/16m) » de la note 559 [1] → VERIFIED_MULTI_SOURCE.
+- **Valeurs / CD / conditions / limites** : 8/12/16 m (LIVE, VERIFIED_MULTI_SOURCE [27][1]).
+- **PTB 10.2.0 (NON LIVE)** : rayon de révélation du tueur **14/15/16 m** (was 8/12/16 m) ; le reste inchangé. VERIFIED_MULTI_SOURCE [1][27].
+- **Interactions, DR, anti-synergies** : redondante avec Bond pour les auras alliées. L'audit relève une incohérence interne du seed sur Kindred [15] ; la page 23 du seed concorde avec le wiki (l'incohérence est ailleurs dans le seed, non localisée ici).
 - **Synergies** : Déjà Vu (SoloQ), Sprint Burst, Babysitter / Borrowed Time pour le sauveteur.
 - **Difficulté** : 1
 - **Valeur (HEURISTIC, 0-3)** : SoloQ 3 · SWF 0 · chase 0 · macro 3 · info 3 · anti-tunnel 1 · soin 0 · gen 1 · endgame 1
 - **Quand elle produit de la valeur** :
   - SoloQ : évite le double sauvetage et révèle le camping (le tueur reste près du crochet).
 - **Quand elle n'en produit pas** :
-  - SWF au vocal ; et tueur qui patrouille juste hors du rayon.
-- **Écart avec le seed** : NON VÉRIFIABLE.
-- **Sources** : aucune.
+  - SWF au vocal ; et tueur qui patrouille juste hors du rayon (8 m au rang I en LIVE : rayon court).
+- **Écart avec le seed** : OK (8/12/16 m LIVE ; PTB 14/15/16 m correctement étiqueté PTB [1][27]). Nuance : quand un allié est accroché, c'est vous seul (porteur) qui voyez les auras alliées, pas « le même effet » pour tous.
+- **Sources** : [1][27]
 
 ### Unbreakable — Bill Overbeck
 - **Statut** : LIVE ; limitée en 9.5.0 [15].
-- **Effet LIVE** (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN) : une fois par épreuve, quand le tueur vous met à terre, vous pouvez vous relever entièrement seul ; récupération 25/30/35 % plus rapide. Limite 9.5.0 (mises à terre causées par le tueur, une fois par épreuve) : STRONG_SECONDARY [15] ; pourcentages UNCERTAIN.
-- **Valeurs / CD / conditions / limites** : une fois par épreuve (LIVE, [15]) ; 25/30/35 % (UNCERTAIN).
-- **PTB 10.2.0** : UNCERTAIN.
+- **Effet LIVE** : quand le tueur vous met à terre : récupération 25/30/35 % plus rapide et capacité de se relever entièrement seul, une fois par épreuve. VERIFIED_MULTI_SOURCE [28][44] (note 9.5.0 : « Once per trial, while downed by the Killer, you can fully recover. While downed, you recover 25/30/35% faster »).
+- **Valeurs / CD / conditions / limites** : une fois par épreuve ; 25/30/35 % (LIVE, VERIFIED_MULTI_SOURCE [28][44]) ; mises à terre causées par le tueur seulement (9.5.0).
+- **PTB 10.2.0 (NON LIVE)** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [1][28].
 - **Interactions, DR, anti-synergies** : l'auto-récupération basekit LIVE (sans maintenir de bouton, depuis 9.2.0 [15]) réduit le coût d'attente. Vitesse de récupération cumulée avec Tenacity / Flip-Flop : DR probables (HYPOTHESIS).
 - **Synergies** : Tenacity, Flip-Flop, Power Struggle, No Mither.
 - **Difficulté** : 1
@@ -199,15 +199,15 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
   - Contre les tueurs qui sluggent (Nurse, Blight, Oni en fin de partie) : un relever gratuit.
 - **Quand elle n'en produit pas** :
   - Tueur qui accroche toujours ; mises à terre non causées par le tueur (exclues depuis 9.5.0).
-- **Écart avec le seed** : conditions OK ([15]) ; valeurs NON VÉRIFIABLE.
-- **Sources** : [15]
+- **Écart avec le seed** : OK (une fois par partie, mises à terre par le tueur, 25/30/35 % [28][44]).
+- **Sources** : [15][28][44]
 
 ### Resurgence — Jill Valentine
-- **Statut** : LIVE (présumée).
-- **Effet LIVE** (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN) : quand vous êtes décroché (ou vous décrochez seul), vous gagnez immédiatement 50/60/70 % de progression de soin. UNCERTAIN.
-- **Valeurs / CD / conditions / limites** : 50/60/70 % (UNCERTAIN).
-- **PTB 10.2.0** : UNCERTAIN.
-- **Interactions, DR, anti-synergies** : se combine mal avec Will to Live et Off the Record : finir le soin est une action conspicuous qui les désactive (à vérifier).
+- **Statut** : LIVE 10.1.2a (buff 8.1.0 : 40/45/50 → 50/60/70 %).
+- **Effet LIVE** : après un décrochage par n'importe quel moyen (dont le vôtre), vous gagnez 50/60/70 % de progression de soin. STRONG_SECONDARY [29]
+- **Valeurs / CD / conditions / limites** : 50/60/70 % (LIVE, STRONG_SECONDARY [29]).
+- **PTB 10.2.0 (NON LIVE)** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [1][29].
+- **Interactions, DR, anti-synergies** : le gain de progression est passif ; c'est **finir** le soin restant (auto-soin ou soin reçu) qui compte comme action : se soigner coupe Will to Live et annule l'Endurance d'Off the Record (action conspicuous, d'après leurs descriptions wiki [19][23]) ; être soigné par un allié n'est pas une action de votre part (HYPOTHESIS sur la définition exacte de « Conspicuous Action »).
 - **Synergies** : Self-Care / Botany Knowledge ; Boon: Circle of Healing.
 - **Difficulté** : 1
 - **Valeur (HEURISTIC, 0-3)** : SoloQ 3 · SWF 2 · chase 0 · macro 1 · info 0 · anti-tunnel 1 · soin 3 · gen 1 · endgame 0
@@ -215,14 +215,14 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
   - SoloQ où personne ne vient soigner : le soin est fini en quelques secondes après le décrochage.
 - **Quand elle n'en produit pas** :
   - Tueurs qui ignorent la santé (Deep Wound, one-shot) ou tunnel immédiat.
-- **Écart avec le seed** : NON VÉRIFIABLE.
-- **Sources** : aucune.
+- **Écart avec le seed** : OK (50/60/70 % au décrochage [29]).
+- **Sources** : [29]
 
 ### Dead Hard — David King
-- **Statut** : LIVE (présumée).
-- **Effet LIVE** (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN) : après un décrochage, blessé et en course : bouton de capacité active = protection brève contre le coup (0,5 s selon le seed) ; Exhausted 60/50/40 s. UNCERTAIN (nature exacte, Endurance ou invulnérabilité : connaissance du modèle (antérieure à mi-2026), UNCERTAIN).
-- **Valeurs / CD / conditions / limites** : 0,5 s ; 60/50/40 s (UNCERTAIN).
-- **PTB 10.2.0** : UNCERTAIN.
+- **Statut** : LIVE 10.1.2a (aucune modification 8.x-10.1.2a au change log wiki).
+- **Effet LIVE** : s'active après un décrochage par n'importe quel moyen ; blessé et en course, bouton de capacité active = **Endurance pendant 0,5 s** ; inutilisable si Exhausted ; Exhausted 60/50/40 s. Aucune désactivation (portes, fin de gens) mentionnée dans la description. STRONG_SECONDARY [30]
+- **Valeurs / CD / conditions / limites** : Endurance 0,5 s ; Exhausted 60/50/40 s (LIVE, STRONG_SECONDARY [30]). Keybind affiché dans la description depuis 9.5.0 (note [44], sans changement de gameplay).
+- **PTB 10.2.0 (NON LIVE)** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [1][30].
 - **Interactions, DR, anti-synergies** : perk d'Exhaustion (une seule utile) ; ne s'active qu'après un décrochage.
 - **Synergies** : Resurgence, Will to Live, Vigil.
 - **Difficulté** : 3 (timing contre la latence et les attaques à retardement)
@@ -231,15 +231,15 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
   - Pour atteindre une palette ou une fenêtre après un décrochage en sécurité : le coup est absorbé au moment choisi.
 - **Quand elle n'en produit pas** :
   - Contre les tueurs capables de retarder leur attaque (le tueur attend la fin de la fenêtre), ou avant votre premier crochet.
-- **Écart avec le seed** : NON VÉRIFIABLE.
-- **Sources** : aucune.
+- **Écart avec le seed** : OK (Endurance 0,5 s, après décrochage, blessé et en course, 60/50/40 s [30]).
+- **Sources** : [30][44]
 
 ### Finesse — Lara Croft
-- **Statut** : LIVE (présumée).
-- **Effet LIVE** (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN) : en bonne santé, sauts rapides 20 % plus rapides ; cooldown de 40/35/30 s après un saut rapide. UNCERTAIN.
-- **Valeurs / CD / conditions / limites** : 20 % ; 40/35/30 s (UNCERTAIN).
-- **PTB 10.2.0** : UNCERTAIN.
-- **Interactions, DR, anti-synergies** : conditions opposées à Resilience (en bonne santé vs blessé) : les deux ne sont jamais actives en même temps (FACT logique, si les conditions sont exactes). Vitesse de saut soumise aux DR avec Windows PTB (HYPOTHESIS).
+- **Statut** : LIVE 10.1.2a (aucune modification 8.x-10.1.2a au change log wiki ; correctif 9.2.0 : le cooldown se déclenche aussi quand la palette sautée est détruite par un pouvoir [40]).
+- **Effet LIVE** : en bonne santé, vitesse de saut rapide (fast vault) +20 % ; cooldown de 40/35/30 s après un saut rapide. STRONG_SECONDARY [31]
+- **Valeurs / CD / conditions / limites** : 20 % ; 40/35/30 s (LIVE, STRONG_SECONDARY [31]).
+- **PTB 10.2.0 (NON LIVE)** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [1][31].
+- **Interactions, DR, anti-synergies** : conditions opposées à Resilience (en bonne santé vs blessé) : les deux ne sont jamais actives en même temps (FACT d'après les descriptions wiki [26][31]). Vitesse de saut soumise aux DR avec Windows PTB (HYPOTHESIS).
 - **Synergies** : Lithe, Windows.
 - **Difficulté** : 2
 - **Valeur (HEURISTIC, 0-3)** : SoloQ 1 · SWF 1 · chase 2 · macro 0 · info 0 · anti-tunnel 0 · soin 0 · gen 0 · endgame 0
@@ -247,8 +247,8 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
   - Premier contact en bonne santé sur une fenêtre forte : le saut plus court fait rater la fente au tueur.
 - **Quand elle n'en produit pas** :
   - Une fois blessé (le reste de la chase).
-- **Écart avec le seed** : NON VÉRIFIABLE.
-- **Sources** : aucune.
+- **Écart avec le seed** : OK (en bonne santé, +20 %, 40/35/30 s [31]).
+- **Sources** : [31][40]
 
 ### Prove Thyself — Dwight Fairfield
 - **Statut** : LIVE (présumée).

@@ -1,19 +1,14 @@
 # Lot 3 — Perks tueur vues du survivant, page 91 du guide seed (tier A)
 
-Couverture web : 3 éléments vérifiés par recherche (Dead Man's Switch, Eruption [conflit], Hex: Ruin) / 15 non re-vérifiés (quota), dont 5 couverts en partie par l'audit phase 0 (A Nurse's Calling, Keep Them Waiting, Bamboozle, Surge, No Holds Barred).
+Couverture : 18/18 perks re-vérifiées sur page wiki complète (27/09/2026) ; dont 8 confirmées par note officielle (valeurs : Dead Man's Switch, Eruption, Hex: Ruin, A Nurse's Calling, Keep Them Waiting, Turn Back the Clock, Celestial Witness, Ultimate Weapon) + 3 renommages confirmés par la note 9.0.0 (No Holds Barred, Weeping Wounds, Fortune's Fool).
 
 Référence : LIVE 10.1.2a (17/09/2026). PTB 10.2.0 (15-21/09/2026) = **non LIVE**, toujours étiqueté PTB.
-Méthode : WebSearch uniquement (résumés de recherche, WebFetch bloqué) → confiance plafonnée à STRONG_SECONDARY sauf citation de notes officielles.
+Méthode (lot 12a, re-vérification du 27/09/2026) : pages wiki.gg complètes via l'API MediaWiki (`kb/sources/wiki_perks_digest.md`) + notes officielles BHVR 9.0.0 → PTB 10.2.0 en texte complet (`kb/sources/patches/official_*.txt`). Confiance : STRONG_SECONDARY (wiki seul) ; VERIFIED_MULTI_SOURCE (wiki + note officielle concordante) ; VERIFIED_PRIMARY (note officielle seule, explicite).
 Notes de menace = **HEURISTIC**. Indices / adaptation / counterplay = **HEURISTIC** (raisonnement de jeu, pas de source).
 
 Périmètre (18 perks, seed ch9 l. 128-230) : Dead Man's Switch, Eruption, Hex: Ruin, Barbecue & Chilli, A Nurse's Calling, Surge, No Holds Barred, Keep Them Waiting, Bamboozle, Hex: No One Escapes Death, Turn Back the Clock, Celestial Witness, Discordance, Darkness Revealed, Scourge Hook: Floods of Rage, Ultimate Weapon, Scourge Hook: Weeping Wounds, Hex: Fortune's Fool.
 
-> **LIMITE MAJEURE DE CE LOT (à lire avant usage).**
-> Le quota de recherches de la session (200 WebSearch, partagé entre tous les agents) a été **épuisé après 6 recherches de ce lot**.
-> Seules 3 perks ont pu être vérifiées par le web (Dead Man's Switch, Eruption, Hex: Ruin), plus ce que `kb/seed/audit_phase0.txt` a déjà prouvé (A Nurse's Calling, Keep Them Waiting, Bamboozle, Surge, No Holds Barred).
-> Pour les autres perks, les valeurs sont celles du seed : « seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) », confiance UNCERTAIN. Mention « connaissance du modèle (antérieure à mi-2026), UNCERTAIN » = souvenir non sourcé, **pas** une preuve.
-> Les sections indices, counterplay et déduction ne dépendent pas des valeurs exactes. Elles restent utilisables comme HEURISTIC.
-> **À relancer** : une passe de vérification web sur les 15 perks restantes, quand le quota sera relevé.
+> **Historique** : la 1re passe (lot 3) n'avait vérifié que 3 perks par WebSearch (quota épuisé). La re-vérification 12a couvre les 18 perks. PTB 10.2.0 : seule Dead Man's Switch est modifiée dans ce périmètre (wiki + note officielle 559).
 
 ---
 

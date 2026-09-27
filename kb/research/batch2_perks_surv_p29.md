@@ -39,14 +39,14 @@
   - Coup de chance quand personne ne peut venir vous décrocher (4+4 % par essai au mieux, ≈ 8 %/essai).
 - **Quand elle n'en produit pas** :
   - Presque toujours : chaque échec accélère la mort ; espérance faible sur 6 essais.
-- **Écart avec le seed** : IMPRÉCIS (omet qu'elle **débloque** l'auto-décrochage depuis 9.0.0) ; PTB OK
-- **Sources** : [6][3][4][12]
+- **Écart avec le seed** : IMPRÉCIS (valeurs OK ; omet qu'elle **débloque** l'auto-décrochage depuis 9.0.0, note [28]) ; PTB OK
+- **Sources** : [27][28][34][6][3][4][12]
 
 ### Small Game — Générale
 - **Statut** : LIVE 10.1.2a
-- **Effet LIVE** : cône invisible de 45°, 8/10/12 m ; signal sonore quand un totem (tout type) s'y trouve — STRONG_SECONDARY [7]
-- **Valeurs / CD / conditions / limites** : recharge 14/12/10 s. +1 jeton par totem purifié (max 5) : −5° d'angle par jeton (max −25°) [7].
-- **PTB 10.2.0** : **rework (PTB)** : simple révélation de l'aura des totems à 10/11/12 m [3][4].
+- **Effet LIVE** : cône invisible de 45°, 8/10/12 m ; signal sonore quand un totem (tout type) s'y trouve — STRONG_SECONDARY (wiki, onglet historique 4.7.0 = LIVE [27] ; concordant avec [7])
+- **Valeurs / CD / conditions / limites** : recharge 14/12/10 s. +1 jeton par totem purifié (max 5) : −5° d'angle par jeton (max −25°) [27].
+- **PTB 10.2.0 (NON LIVE)** : **rework** : vous voyez l'aura des totems à 10/11/12 m [27][34].
 - **Interactions, DR** : aucune. Signale aussi les totems ternes et bénis (« any type of Totem ») [7].
 - **Synergies** : Detective's Hunch / Counterforce (chasse aux Hex), Boons (trouver un totem à bénir).
 - **Difficulté** : 2
@@ -56,13 +56,13 @@
 - **Quand elle n'en produit pas** :
   - Le cône se resserre à chaque totem purifié (plus dur à viser) ; perte de temps si le tueur n'a aucun Hex.
 - **Écart avec le seed** : OK
-- **Sources** : [7][3][4]
+- **Sources** : [27][34][7][3][4]
 
 ### This Is Not Happening — Générale
 - **Statut** : LIVE 10.1.2a
-- **Effet LIVE** : quand vous êtes Injured, la zone de succès des **Great** skill checks en **réparation et soin** est agrandie de 10/20/30 % — STRONG_SECONDARY [8]
+- **Effet LIVE** : quand vous êtes Injured, la zone de succès des **Great** skill checks en **réparation et soin** est agrandie de 10/20/30 % — VERIFIED_MULTI_SOURCE (wiki, onglet historique 3.6.0 = LIVE [27] ; note 559 « was while injured and 10/20/30% » [34])
 - **Valeurs / CD / conditions / limites** : état Injured requis ; réparation + soin seulement.
-- **PTB 10.2.0** : **buff (PTB)** d'après un résumé : zones **Good** +150/175/200 %, zones **Great** +30 %, condition Injured supprimée [9][3]. Formulation du résumé incohérente (« reduced from 10/20/30 % ») → valeurs exactes UNCERTAIN (CONFLICT-P29-03). BHVR a cité la perk dans l'annonce du PTB [4].
+- **PTB 10.2.0 (NON LIVE)** : **buff** : en réparant ou en soignant (plus de condition Injured), zones **Good** des skill checks basiques +150/175/200 % (nouveau) et zones **Great** **+30 % fixe** à tous les tiers [27][34]. CONFLICT-P29-03 RÉSOLU.
 - **Interactions, DR** : modificateur de zone de skill check → potentiellement soumis aux DR 9.6.0 avec Stake Out / Hyperfocus (HYPOTHESIS, liste DR non consultée). Anti-synergie avec les perks « rester en bonne santé ».
 - **Synergies** : No Mither / Deadline (toujours Injured), Stake Out, Resilience.
 - **Difficulté** : 2
@@ -71,15 +71,15 @@
   - Build « Injured » (No Mither) où chaque Great de gen = +1 % de progression.
 - **Quand elle n'en produit pas** :
   - Joueur sain ou déjà précis sur les Greats ; gain marginal en LIVE.
-- **Écart avec le seed** : IMPRÉCIS (omet « réparation et soin ») ; PTB « good et great agrandies » compatible mais valeurs UNCERTAIN
-- **Sources** : [8][9][3][4]
+- **Écart avec le seed** : IMPRÉCIS mineur (omet « réparation et soin ») ; PTB « good et great agrandies » OK (non chiffré ; valeurs : note 559)
+- **Sources** : [27][34][8][9][3][4]
 
 ### Calm Spirit — Jake Park
 - **Statut** : LIVE 10.1.2a
-- **Effet LIVE** : les corbeaux ne s'envolent pas à votre proximité (sauf contact), vous ne criez jamais ; ouverture de coffres et purification/bénédiction de totems silencieuses mais 40/35/30 % plus lentes — STRONG_SECONDARY [10]
+- **Effet LIVE** : les corbeaux ne s'envolent pas à votre proximité (sauf contact), vous ne criez jamais (« from any cause ») ; ouverture de coffres et purification/bénédiction de totems silencieuses mais 40/35/30 % plus lentes — VERIFIED_MULTI_SOURCE (wiki, onglet historique 6.1.0 = LIVE [27] ; note 559 « was 40/35/30% slower » [34] ; note 9.6.0 cite le −30 % [32])
 - **Valeurs / CD / conditions / limites** : malus 40/35/30 % (LIVE). Immunise contre les effets fondés sur les cris (ex. Hex: Face the Darkness, Infectious Fright) [10].
-- **PTB 10.2.0** : **buff (PTB)** : malus retiré, remplacé par **+8/9/10 %** de vitesse sur totems et coffres [4].
-- **Interactions, DR** : audit (notes 9.6.0) : le −30 % de Calm Spirit ne se réduit pas mutuellement avec Thrill of the Hunt (rôles différents) [12]. Anti-synergie avec Hardened et toute perk déclenchée par un cri (non vérifié pour Hardened).
+- **PTB 10.2.0 (NON LIVE)** : **buff** : malus retiré, remplacé par **+8/9/10 %** de vitesse sur bénédiction, purification et coffres [27][34].
+- **Interactions, DR** : note 9.6.0 : les pénalités de vitesse négatives ne se réduisent qu'entre sources d'un même rôle ; exemple officiel : le −30 % de Calm Spirit n'est plus réduit par Hex: Thrill of the Hunt — VERIFIED_PRIMARY [32]. Anti-synergie avec Hardened : les deux suppriment le cri ; que Hardened révèle encore le tueur quand Calm Spirit empêche le cri n'est pas documenté (HYPOTHESIS).
 - **Synergies** : builds furtifs, Distortion.
 - **Difficulté** : 1
 - **Valeur (HEURISTIC)** : SoloQ 1 · SWF 0 · chase 0 · macro 1 · info 1 (anti-info tueur) · anti-tunnel 0 · soin 0 · gen 0 · endgame 0
@@ -88,13 +88,13 @@
 - **Quand elle n'en produit pas** :
   - Build totem/coffre : le malus LIVE coûte cher.
 - **Écart avec le seed** : OK (LIVE) ; PTB p32 « 8/9/10 % » OK
-- **Sources** : [10][4][12]
+- **Sources** : [27][32][34][10][4][12]
 
 ### Technician — Feng Min
 - **Statut** : LIVE 10.1.2a (retouchée en 10.1.0)
-- **Effet LIVE** : bruit de réparation réduit de **16 m** ; un skill check de réparation raté ne fait pas exploser le gen (pas de Loud Noise Notification), mais la pénalité de progression est augmentée — VERIFIED (audit notes 10.1.0) + STRONG_SECONDARY [11][12]
-- **Valeurs / CD / conditions / limites** : pénalité supplémentaire **+4/3/2 %** (10.1.0) [12] ; avant 10.1.0 : −8 m et +5/4/3 % (OBSOLETE).
-- **PTB 10.2.0** : non citée dans les résumés lus (liste complète des 58 non consultée) — UNCERTAIN
+- **Effet LIVE** : bruit de réparation réduit de **16 m** ; un skill check de réparation raté ne fait pas exploser le gen (pas de Loud Noise Notification), mais la pénalité de progression est augmentée — VERIFIED_MULTI_SOURCE (wiki page complète [27] + note 10.1.0 [33])
+- **Valeurs / CD / conditions / limites** : pénalité supplémentaire **+4/3/2 %** (note 10.1.0 : « 4/3/2% more progress (was 5/4/3%) » ; « 16m shorter (was 8 meters) ») [33] ; avant 10.1.0 : −8 m et +5/4/3 % (OBSOLETE).
+- **PTB 10.2.0** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [27][34].
 - **Interactions, DR** : contre Gen Tap / Oppression-like et perks liées aux ratés (ex. Ruin n'est pas concerné) : empêche la notification. Pas de DR pertinent.
 - **Synergies** : Deadline (ratés moins pénalisés), builds furtifs.
 - **Difficulté** : 1
@@ -104,13 +104,13 @@
 - **Quand elle n'en produit pas** :
   - Joueurs réguliers sur les skill checks : la pénalité en plus n'est jamais compensée.
 - **Écart avec le seed** : **FAUX / OBSOLETE** (8 m et 5/4/3 % = valeurs d'avant 10.1.0 ; LIVE = 16 m et 4/3/2 %)
-- **Sources** : [11][12] — CONFLICT-P29-01 (résolu)
+- **Sources** : [27][33][11][12] — CONFLICT-P29-01 (résolu)
 
 ### No Mither — David King
 - **Statut** : LIVE 10.1.2a
-- **Effet LIVE** : Broken toute la partie ; gémissements de douleur supprimés à 100 % (9.2.0) ; récupération au sol +15/20/25 % et possibilité de se relever seul — STRONG_SECONDARY [13]
-- **Valeurs / CD / conditions / limites** : pas de flaques de sang (seed ; non ré-vérifié dans ce résumé). Incompatible avec les perks exigeant Healthy ou un auto-soin [13].
-- **PTB 10.2.0** : non citée dans les résumés lus — UNCERTAIN
+- **Effet LIVE** : Broken toute la partie ; en échange : pas de flaques de sang ; gémissements de douleur supprimés (Injured et Dying) ; récupération au sol complète possible, vitesse de récupération +15/20/25 % — VERIFIED_MULTI_SOURCE (wiki page complète [27] ; note 9.2.0 : gémissements « 100% across all tiers (was 25/50/75%) » [30])
+- **Valeurs / CD / conditions / limites** : suppression des flaques de sang confirmée (wiki [27]). Incompatible avec les perks exigeant Healthy ou un auto-soin [13].
+- **PTB 10.2.0** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [27][34].
 - **Interactions, DR** : Broken annule les soins d'alliés ; anti-synergie avec Dead Hard/Made for This (conditions Healthy/Injured variables), Botany, Self-Care.
 - **Synergies** : Unbreakable, Deadline, This Is Not Happening, Resilience.
 - **Difficulté** : 3
@@ -119,30 +119,31 @@
   - Joueur de chase/stealth qui refuse de perdre du temps en soins ; contre tueurs qui one-shot déjà.
 - **Quand elle n'en produit pas** :
   - SoloQ : pas de marge d'erreur, cible facile à tunnel.
-- **Écart avec le seed** : OK
-- **Sources** : [13]
+- **Écart avec le seed** : OK (sang, −100 %, +15/20/25 %, relèvement complet : tous confirmés)
+- **Sources** : [27][30][34][13]
 
 ### Ace in the Hole — Ace Visconti
 - **Statut** : LIVE 10.1.2a
-- **Effet LIVE** : objet tiré d'un coffre : **100 %** de chance d'un add-on de rareté **Very Rare ou inférieure**, et **10/25/50 %** de chance d'un second add-on **Uncommon ou inférieur** ; vous gardez vos add-ons en vous échappant — STRONG_SECONDARY [14]
-- **Valeurs / CD / conditions / limites** : s'applique aussi à la trousse garantie de Pharmacy, à la lampe de Residual Manifest, aux objets d'Appraisal [14].
-- **PTB 10.2.0** : non citée dans les résumés lus — UNCERTAIN
+- **Effet LIVE** : objet ordinaire tiré d'un coffre : 1er emplacement : **100 %** de chance d'un add-on de rareté **Visceral (= Ultra Rare) ou inférieure** ; 2e emplacement : **50/75/100 %** de chance d'un add-on **Uncommon ou inférieur** ; les add-ons de l'objet tenu ne sont pas consommés si vous vous échappez — STRONG_SECONDARY (wiki page complète [27] ; change log 8.4.0 : rareté max Very Rare → Ultra Rare, 2e add-on 10/25/50 % → 50/75/100 %)
+- **Correction (lot 12a)** : la 1ʳᵉ passe (résumé fandom [14]) donnait « ≤ Very Rare » et « 10/25/50 % » : ce sont les valeurs **d'avant 8.4.0** (OBSOLETE).
+- **Valeurs / CD / conditions / limites** : s'applique aussi à la trousse garantie de Pharmacy, à la lampe de Residual Manifest, aux objets d'Appraisal [14] (non recoupé sur la page complète : UNCERTAIN).
+- **PTB 10.2.0** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [27][34].
 - **Interactions, DR** : aucune.
 - **Synergies** : Plunderer's Instinct, Appraisal, Pharmacy, Residual Manifest.
 - **Difficulté** : 1
 - **Valeur (HEURISTIC)** : SoloQ 0 · SWF 0 · chase 0 · macro 0 · info 0 · anti-tunnel 0 · soin 1 (via medkit) · gen 0 · endgame 0
 - **Quand elle produit de la valeur** :
-  - Build coffres (Plunderer's + Appraisal) pour obtenir toolbox/medkit avec add-on.
+  - Build coffres (Plunderer's + Appraisal) pour obtenir toolbox/medkit avec 2 add-ons (le 2e garanti en tier III).
 - **Quand elle n'en produit pas** :
   - Partie compétitive : fouiller les coffres coûte du temps de gen.
-- **Écart avec le seed** : **FAUX** (seed : « rare ou mieux » et second add-on 50/75/100 % ; vérifié : Very Rare **ou inférieur** et 10/25/50 %)
-- **Sources** : [14]
+- **Écart avec le seed** : **IMPRÉCIS** (seed : « rare ou mieux », 2e add-on uncommon à 50/75/100 %. Vérifié : 2e emplacement **OK** ; 1er emplacement = jusqu'à Ultra Rare (« ou inférieur »), pas « rare ou mieux »). Le verdict « FAUX » du lot 2 reposait sur des valeurs pré-8.4.0 : annulé.
+- **Sources** : [27][34][14]
 
 ### Up the Ante — Ace Visconti
 - **Statut** : LIVE 10.1.2a
-- **Effet LIVE** : +1 jeton par survivant encore en jeu (autre que vous, max 3) ; +1/2/3 % de chance d'auto-décrochage par jeton pour **tous** les survivants (max 3/6/9 %) ; débloque la tentative d'auto-décrochage en phase 1 pour tous — STRONG_SECONDARY [15][12]
-- **Valeurs / CD / conditions / limites** : max 3/6/9 % [15].
-- **PTB 10.2.0** : non citée dans les résumés lus — UNCERTAIN
+- **Effet LIVE** : débloque la tentative d'auto-décrochage en 1ʳᵉ phase de crochet pour **tous** les survivants ; +1 jeton par survivant encore dans l'épreuve ; +1/2/3 % de chance (Luck) d'auto-décrochage par jeton pour tous, max 3/6/9 % — STRONG_SECONDARY (wiki page complète [27], concordant avec [15]) ; déblocage : VERIFIED_MULTI_SOURCE (note 9.0.0 [28])
+- **Valeurs / CD / conditions / limites** : max 3/6/9 % [27]. Le wiki dit « every Survivor still in the Trial » ; le plafond 3/6/9 % implique 3 jetons max (vous exclu ou plafond) — détail de décompte UNCERTAIN.
+- **PTB 10.2.0** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [27][34].
 - **Interactions, DR** : cumul de chance avec Slippery Meat ; application des DR à plusieurs Up the Ante → HYPOTHESIS.
 - **Synergies** : Slippery Meat, offrandes de chance, SWF « tous Up the Ante » (fun).
 - **Difficulté** : 1
@@ -151,14 +152,14 @@
   - Début de partie (4 survivants en vie) pour donner une chance de s'échapper seul à toute l'équipe.
 - **Quand elle n'en produit pas** :
   - Dès qu'un survivant meurt ; chance de base trop faible pour justifier l'emplacement.
-- **Écart avec le seed** : IMPRÉCIS (omet le déblocage de l'auto-décrochage pour tous et le max 3/6/9 %)
-- **Sources** : [15][12]
+- **Écart avec le seed** : IMPRÉCIS (valeurs OK ; omet le déblocage de l'auto-décrochage pour tous et le max 3/6/9 %)
+- **Sources** : [27][28][34][15][12]
 
 ### Visionary — Felix Richter
 - **Statut** : LIVE 10.1.2a
-- **Effet LIVE** : aura des générateurs à 32 m ; désactivée 20/18/16 s à chaque générateur terminé — STRONG_SECONDARY [16]
-- **Valeurs / CD / conditions / limites** : portée étendue par Open-Handed ; montre aussi les gens bloqués par l'Entité [16].
-- **PTB 10.2.0** : non citée dans les résumés lus — UNCERTAIN
+- **Effet LIVE** : aura des générateurs à 32 m ; désactivée 20/18/16 s à chaque générateur terminé — STRONG_SECONDARY (wiki page complète [27], concordant avec [16])
+- **Valeurs / CD / conditions / limites** : portée étendue par Open-Handed ; montre aussi les gens bloqués par l'Entité [16] (non recoupé sur la page complète). Note 10.0.3 [35] : correctif (auras non révélées en sortant d'un casier après la désactivation) — sans changement de valeur.
+- **PTB 10.2.0** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [27][34].
 - **Interactions, DR** : aucune.
 - **Synergies** : Open-Handed, Deja Vu (redondant), Built to Last/Hyperfocus (non vérifié).
 - **Difficulté** : 1
@@ -168,13 +169,13 @@
 - **Quand elle n'en produit pas** :
   - Joueurs connaissant les spawns ; l'info ne dit pas quels gens sont intéressants.
 - **Écart avec le seed** : OK
-- **Sources** : [16]
+- **Sources** : [27][34][16]
 
 ### Better Together — Nancy Wheeler
 - **Statut** : LIVE 10.1.2a (buff 9.1.0, redevenue Unique)
-- **Effet LIVE** : en réparant, l'aura de votre générateur est révélée (jaune) à tous les survivants, sans limite de portée ; si le tueur met à terre un autre survivant pendant votre réparation, vous voyez l'aura de tous les survivants 20/25/30 s — STRONG_SECONDARY [17]
-- **Valeurs / CD / conditions / limites** : 9.1.0 : durée 8/9/10 → 20/25/30 s ; limite de portée retirée [17].
-- **PTB 10.2.0** : non citée dans les résumés lus — UNCERTAIN
+- **Effet LIVE** : en réparant, l'aura de votre générateur est révélée (jaune) à tous les survivants, sans limite de portée ; si le tueur met à terre un autre survivant pendant votre réparation, vous voyez l'aura de tous les survivants 20/25/30 s — VERIFIED_MULTI_SOURCE (wiki page complète [27] ; note 9.1.0 [29])
+- **Valeurs / CD / conditions / limites** : 9.1.0 : durée 8/9/10 → 20/25/30 s ; limite de portée retirée (note 9.1.0 [29]). 9.5.0 : Plot Twist ne peut plus forcer l'activation [31].
+- **PTB 10.2.0** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [27][34].
 - **Interactions, DR** : aucune.
 - **Synergies** : Kindred, Bond, Prove Thyself.
 - **Difficulté** : 1
@@ -184,13 +185,13 @@
 - **Quand elle n'en produit pas** :
   - SWF vocal : info redondante.
 - **Écart avec le seed** : OK
-- **Sources** : [17]
+- **Sources** : [27][29][31][34][17]
 
 ### Camaraderie — Steve Harrington
 - **Statut** : LIVE 10.1.2a
-- **Effet LIVE** : accroché en phase de lutte : dès qu'un survivant entre à 16 m de votre crochet, le compteur de la phase de lutte est mis en pause pendant 26/30/34 s — STRONG_SECONDARY [18]
+- **Effet LIVE** : accroché en phase de lutte : dès qu'un survivant entre à 16 m de votre crochet, le compteur de la phase de lutte est mis en pause pendant 26/30/34 s — STRONG_SECONDARY (wiki page complète [27], concordant avec [18])
 - **Valeurs / CD / conditions / limites** : phase de lutte (2e crochet) uniquement.
-- **PTB 10.2.0** : non citée dans les résumés lus — UNCERTAIN
+- **PTB 10.2.0** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [27][34].
 - **Interactions, DR** : pas de DR. Contre anti-camp / Reassurance : effets proches (non comparé).
 - **Synergies** : Kindred, Reassurance, Deliverance.
 - **Difficulté** : 1
@@ -200,13 +201,13 @@
 - **Quand elle n'en produit pas** :
   - Tueur qui camp (l'allié n'approche pas) ou décrochage déjà rapide.
 - **Écart avec le seed** : OK
-- **Sources** : [18]
+- **Sources** : [27][34][18]
 
 ### Red Herring — Zarina Kassir
 - **Statut** : LIVE 10.1.2a (buffée : 3 → 1 s, recharge 60/50/40 → 25/20/15 s)
-- **Effet LIVE** : après ≥1 s de réparation, l'aura du gen est surlignée en jaune ; entrer dans un casier déclenche une Loud Noise Notification pour le tueur sur ce gen — STRONG_SECONDARY [19]
-- **Valeurs / CD / conditions / limites** : recharge 25/20/15 s (LIVE) ; surlignage perdu si gen terminé, autre gen réparé ou casier [19].
-- **PTB 10.2.0** : non citée dans les résumés lus — UNCERTAIN
+- **Effet LIVE** : après ≥1 s de réparation, l'aura du gen est surlignée en jaune ; entrer dans un casier déclenche une Loud Noise Notification pour le tueur sur ce gen — STRONG_SECONDARY (wiki page complète [27] ; change log 8.6.0 : 3 → 1 s, 60/50/40 → 25/20/15 s)
+- **Valeurs / CD / conditions / limites** : recharge 25/20/15 s (LIVE) ; surlignage perdu si gen terminé, autre gen commencé ou entrée en casier [27]. Notes 9.5.1 / 9.6.0 : correctifs seulement (surlignage resté actif, icône de recharge) [31][32].
+- **PTB 10.2.0** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [27][34].
 - **Interactions, DR** : aucune.
 - **Synergies** : Quick & Quiet, Lucky Break, Distortion (fausses pistes).
 - **Difficulté** : 3
