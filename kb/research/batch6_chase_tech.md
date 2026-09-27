@@ -447,7 +447,11 @@ Rappel : sauf mention FACT, tout ce qui suit est HEURISTIC / SITUATIONAL. Chaque
 4. **Mauvais / piège** : murs avec aspérités (collision, T20) ; murs bas ou transparents (la LOS ne se casse pas, tu gagnes seulement la distance) ; contre des tueurs qui frappent à travers ou autour des obstacles (pouvoirs de distance, lot 4).
 5. **Erreurs fréquentes** : s'accrocher à un objet et perdre 0,5-1 s (UNCERTAIN, non mesuré) ; coller le mur en regardant derrière (on dévie) ; coller le côté intérieur d'un tile où le tueur coupe.
 6. **Contre-jeu du tueur** : couper par le centre ; se servir des aspérités pour frapper ; attaques de pouvoir le long du mur.
-7. **Exercice** : identique à T12 (chronomètre), en ajoutant un tour « au milieu du couloir » pour mesurer la différence de temps sur un même tile (donnée utile à partager au lot 7).
+7. **Exercice « Mur collé vs couloir »** :
+   - Objectif : mesurer ce que coûte un écart au mur.
+   - Méthode : partie personnalisée sans tueur ; 5 tours d'un même tile en collant le mur, puis 5 tours au milieu du couloir, au chronomètre.
+   - Métrique : différence de temps par tour ; accrochages au décor.
+   - Réussite : tours « collés » plus rapides et sans accrochage sur 5 tours consécutifs (la différence mesurée est une donnée utile au lot 7).
 
 ### T14 — Caméra, checkspots et information pendant la chase
 
@@ -608,7 +612,11 @@ Rappel : sauf mention FACT, tout ce qui suit est HEURISTIC / SITUATIONAL. Chaque
 4. **Mauvais** : contre les attaques de pouvoir à distance ou à zone ; contre un tueur qui ne lance pas sa fente (il attend ta rotation) ; avec latence élevée ; quand tu peux atteindre un tile. L'audit relève que « 360 utile » dans le seed est **trop absolu** (A-160).
 5. **Erreurs fréquentes** : 360 trop tôt (le tueur n'a pas engagé) ; 360 comme réflexe au lieu de courir vers un tile ; 360 qui ramène vers le tueur (perte de distance si raté).
 6. **Contre-jeu du tueur** : retenir la fente, viser ta position de sortie, frapper sans fente complète.
-7. **Exercice** : en partie personnalisée avec un ami, 20 tentatives ; métrique = % de rates provoqués **et** distance perdue en cas d'échec ; réussite = ne l'utiliser en partie que si ton taux mesuré dépasse nettement 50 % contre ce type de tueur (HEURISTIC).
+7. **Exercice « 360 mesuré »** :
+   - Objectif : savoir si le 360 est rentable pour toi, contre quel type de tueur.
+   - Méthode : partie personnalisée avec un ami tueur M1, 20 tentatives à courte distance en terrain ouvert.
+   - Métrique : % de fentes ratées provoquées ; distance perdue en cas d'échec.
+   - Réussite : ne l'utiliser en partie que si ton taux mesuré dépasse nettement 50 % contre ce type de tueur (HEURISTIC).
 
 ---
 
@@ -810,6 +818,13 @@ Lecture : le « prix » d'une palette pour le tueur n'est pas 2,34 s mais **2,34
 6. **Contre-jeu du tueur (ce qu'il pense, pour le lire)** : le seed propose au tueur une « règle des 30-40 s » (lâcher si ni coup ni palette) : c'est une **HEURISTIC** de tueur, pas une règle ; elle suggère qu'un tueur qui a investi 30 s sans résultat devient susceptible d'abandonner, surtout si un gen est proche de la fin. Beaucoup de tueurs au contraire « s'acharnent » : ne pas compter dessus.
 7. **Exercice** : noter chaque abandon subi : combien de secondes après le début ? qu'a fait le tueur ensuite ? Métrique : secondes de recherche ou de trajet avant sa prochaine chase. Réussite : repérer les situations où tu aurais dû rester visible ou au contraire disparaître.
 
+### 4.14 SoloQ vs SWF : ce qui change dans les calculs
+
+- **n (alliés sur gens)** : en SWF, le poursuivi peut demander que personne ne vienne « aider » et savoir combien réparent ; en SoloQ, il ne le voit qu'au HUD (actions des alliés) et doit supposer `n` plus bas (HEURISTIC). Conséquence : en SoloQ, les seuils de greed et de « chase rentable » sont plus exigeants (§4.12 : ×1,5 si `n` = 2).
+- **Ressources connues** : en SWF, l'état des palettes et des fenêtres bloquées est annoncé ; en SoloQ, une palette « de secours » peut avoir disparu → la valeur future des palettes visibles augmente, le pre-drop « en comptant sur la suivante » est plus risqué.
+- **Info sur le tueur** : FACT [audit : VP] le tueur est révélé à tous dès la 1re poursuite (Match Details 9.6.0) ; son loadout reste caché. En SWF, les observations (Bamboozle probable, pouvoir, add-ons) circulent ; en SoloQ, chacun les redécouvre.
+- **Tempo** : en SWF, on peut synchroniser « je tiens encore 20 s, finissez le gen » ; en SoloQ, la bonne pratique (HEURISTIC) est de jouer la chase comme si personne ne venait aider et de la tirer loin des gens visibles au HUD.
+
 ---
 
 ## 5. Situations concrètes (format §31)
@@ -830,7 +845,7 @@ Lecture : le « prix » d'une palette pour le tueur n'est pas 2,34 s mais **2,34
 
 **Analyse** :
 - C : écart à combler ≈ 6 − 2,5 (fente, UNCERTAIN) = 3,5 m → ≈ 4,4 s avant le coup ; il te faut ≈ 6,25 s pour faire 25 m. Tu tombes à ~7-8 m du jungle gym. **Perdant.**
-- A : s'il casse, +9,4 m et Bloodlust remise à 0 → écart ≈ 15 m → ≈ 21-22 s avant contact en terrain ouvert (table 2.2) ; tu atteins le jungle gym en ~6 s avec ~12-13 m d'avance, de quoi le jouer proprement. S'il contourne sans casser, la palette baissée reste un forced path pour lui et tu as gagné le temps de son détour. **Gain sûr ≈ 15 s de chase au minimum, sans risque de coup.**
+- A : s'il casse, +9,4 m et Bloodlust remise à 0 → écart ≈ 15 m, soit ≈ 13 m à combler → ≈ 20 s avant contact en terrain ouvert (table 2.2) ; tu atteins le jungle gym en ~6 s avec ~11-12 m d'avance, de quoi le jouer proprement. S'il contourne sans casser, la palette baissée reste un forced path pour lui et tu as gagné le temps de son détour. **Gain sûr ≈ 15 s de chase au minimum, sans risque de coup.**
 - B : une boucle de fenêtre bien jouée peut rapporter 10 s et garder la palette, mais avec 6 m d'avance, un 115 % et une Bloodlust qui passera à +0,4 à 25 s, il est très improbable que ton risque de coup soit sous 17 %. **EV négative** dans la plupart des cas.
 
 **Meilleure logique de décision** : A dans ce contexte. B redevient raisonnable si tu arrives avec ≥ 10 m d'avance, sain, et que le tueur a montré qu'il suit au lieu de couper (dans ce cas : 1 cycle, puis drop dès qu'il s'engage côté palette). Contre un tueur à casse instantanée ou gratuite (Blight en Lethal Rush, Demogorgon Shred…, liste audit), le pre-drop ne lui coûte presque rien : préfère utiliser la palette pour un stun ou changer de zone.

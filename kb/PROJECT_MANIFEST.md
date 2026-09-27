@@ -32,14 +32,17 @@
 | `kb/ledgers/TODO_RESEARCH.md` | File de lots + prochain lot exact | tenue à jour |
 | `kb/ledgers/SOURCE_LEDGER.md` | Sources | tenue à jour |
 | `kb/ledgers/CHANGELOG.md` | Historique du projet | tenue à jour |
-| `kb/deliverables/` | Livrables §51 (perk database, handbook tueurs, perk deduction…) | en construction |
+| `kb/deliverables/` | Livrables §51 : `PERK_DATABASE.md` (§51-5), `PERK_DEDUCTION.md` (§10), `KILLER_COUNTERPLAY_HANDBOOK.md` (§51-3) | en construction |
+| `kb/ledgers/BATCH_2_4_SYNTHESIS.md` | Bilan lots 2-4, erreurs du seed PROUVÉ/PROBABLE/SUSPECT, 58 conflits, file de re-vérification | fait |
+| `kb/research/batch6/9/11_*.md` | Brouillons sans web (chase, macro, entraînement) | WRITTEN, non audités |
+| `kb/tools/summarize_batches.py` | Comptages des lots + `SOURCE_LEDGER_batches.md` | outil |
 
 ## 3. Contraintes d'accès connues (à relire avant chaque session)
 
 | Session | Accès web | Conséquence |
 |---|---|---|
 | Phase 0 (27/09/2026, app) | Outil web résumant les pages ; wiki.gg, forums BHVR lisibles ; YouTube/X/Liquipedia/DBDL refusés ; infographies officielles illisibles | 239 affirmations vérifiées, pas de VOD |
-| Lots 2-4 (27/09/2026, cloud) | **Seul `WebSearch` fonctionne** (liste d'URL + résumé généré). `WebFetch`/`curl` refusés par la politique réseau pour : deadbydaylight.wiki.gg, deadbydaylight.fandom.com, forums.bhvr.com, support.deadbydaylight.com, deadbydaylight.com, store.steampowered.com, nightlight.gg, timesaver.gg, patched.gg, reddit.com, en.wikipedia.org, otzdarva.com, dbd.tricky.lol | Confiance plafonnée à STRONG_SECONDARY pour tout ce qui n'a pas été vérifié en phase 0 ; les valeurs sont à re-vérifier sur page complète quand l'accès le permettra. Pour lever la limite : autoriser ces domaines dans les réglages réseau de l'environnement cloud. |
+| Lots 2-4 (27/09/2026, cloud) | **Seul `WebSearch` fonctionne, avec un quota de 200 recherches par session (atteint)** (liste d'URL + résumé généré). `WebFetch`/`curl` refusés par la politique réseau pour : deadbydaylight.wiki.gg, deadbydaylight.fandom.com, forums.bhvr.com, support.deadbydaylight.com, deadbydaylight.com, store.steampowered.com, nightlight.gg, timesaver.gg, patched.gg, reddit.com, en.wikipedia.org, otzdarva.com, dbd.tricky.lol | Confiance plafonnée à STRONG_SECONDARY pour tout ce qui n'a pas été vérifié en phase 0 ; les valeurs sont à re-vérifier sur page complète quand l'accès le permettra. Pour lever la limite : autoriser ces domaines dans les réglages réseau de l'environnement cloud. |
 
 Aucune analyse de VOD n'a été faite ; le guide ne doit jamais prétendre le contraire.
 
@@ -49,17 +52,17 @@ Aucune analyse de VOD n'a été faite ; le guide ne doit jamais prétendre le co
 |---|---|---|---|
 | PASS 0-2 | Audit seed, taxonomie (23 familles, ~200 nœuds T-xxx), matrice, gap analysis | FAIT | `kb/seed/audit_phase0.txt` |
 | 1 | État du jeu, patchs, mécaniques chase/objectifs/statuts, stats, compétitif | FAIT (PARTIALLY_VERIFIED) | idem |
-| 2 | Perks survivant (176) | RESEARCHING (27/09) | `batch2_*` |
-| 3 | Perks tueur vue survivant (145) + perk deduction | RESEARCHING (27/09) | `batch3_*` |
-| 4 | 44 tueurs, volet survivant | RESEARCHING (27/09) | `batch4_*` |
+| 2 | Perks survivant (176) | PARTIALLY_VERIFIED — 176 fiches ; 106 vérifiées via résumé WebSearch, 69 UNCERTAIN | `batch2_*`, `deliverables/PERK_DATABASE.md` |
+| 3 | Perks tueur vue survivant (145) + perk deduction | PARTIALLY_VERIFIED — 145 fiches ; 42 web, 17 audit partiel, 86 UNCERTAIN | `batch3_*`, `deliverables/PERK_DEDUCTION.md`, `PERK_DATABASE.md` |
+| 4 | 44 tueurs, volet survivant | WRITTEN, NON VÉRIFIÉ web (quota) — 44 fiches, 62 claims via audit | `batch4_*`, `deliverables/KILLER_COUNTERPLAY_HANDBOOK.md` |
 | 5 | Objets, add-ons, offrandes, techniques (flash/pallet save, sabo, body block) | NOT_STARTED | — |
-| 6 | Techniques de chase fines (red stain, caméra, checkspots, mindgames, latence) | NOT_STARTED | — |
+| 6 | Techniques de chase fines + chase theory avancée | WRITTEN (brouillon sans web, non audité) | `batch6_chase_tech.md` |
 | 7 | Loops et tiles, matrice tile × tueur, connectivité | NOT_STARTED | — |
 | 8 | Cartes (44) : fixe vs RNG, dimensions stratégiques | NOT_STARTED | — |
-| 9 | Macro, SoloQ/SWF, game sense, états de partie, endgame | NOT_STARTED | — |
+| 9 | Macro, SoloQ/SWF, game sense, états de partie, endgame | WRITTEN (brouillon sans web, non audité) | `batch9_macro.md` |
 | 10 | Compétitif approfondi / VOD | BLOCKED (accès) | — |
-| 11 | Erreurs, arbres de décision, drills, programme, métriques | NOT_STARTED | — |
-| 12 | Triangulation + freshness (sortie 10.2.0) | NOT_STARTED | — |
+| 11 | Erreurs, arbres de décision, drills, programme, métriques | WRITTEN (brouillon sans web, non audité) | `batch11_training.md` |
+| 12 | Triangulation + freshness (sortie 10.2.0) — **PROCHAIN LOT** : file de 180 requêtes | NOT_STARTED | `ledgers/BATCH_2_4_SYNTHESIS.md` §5 |
 | 13-15 | Audits couverture / adversariaux ×2 / praticité | NOT_STARTED | — |
 | 16-17 | Réécriture + fact-check final | NOT_STARTED | — |
 
