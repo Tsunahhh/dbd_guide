@@ -3,12 +3,15 @@
 - Référence : LIVE 10.1.2a (17/09/2026) ; PTB 10.2.0 (15-21/09/2026) **non LIVE**, toujours étiqueté PTB.
 - Méthode : WebSearch uniquement (WebFetch bloqué). Les résumés de recherche = STRONG_SECONDARY au mieux ; « via résumé de recherche ».
 - Périmètre : 26 perks (seed `kb/seed/ch9_killperks.txt` l. 646-753) ; catégories/PTB seed l. 754-841.
+Couverture web : 9 éléments vérifiés par recherche / 17 non re-vérifiés (quota)
+
 - Notes de menace = **HEURISTIC**. Conseils d'adaptation / counterplay = **HEURISTIC** sauf mention.
 
-> **Limite majeure de ce fichier.** Le budget WebSearch de la session (200 appels, partagé entre agents) a été épuisé après 12 recherches de ce lot, dont 9 exploitables.
-> - **11 perks vérifiées** (source wiki.gg via résumé de recherche) : Bloodhound, Shadowborn, Stridor, Beast of Prey, Overwhelming Presence, Monitor & Abuse, Cruel Limits, Hoarder, Septic Touch (+ Pools of Blood, Patch Notes 9.1.X).
-> - **15 perks NON VÉRIFIÉES** : Awakened Awareness, Game Afoot, THWACK!, Leverage, Unbound, Undone, Dark Arrogance, Hex: Wretched Fate, No Quarter, Scourge Hook: Hangman's Trick, Hex: Overture of Doom, Ravenous, Wandering Eye, Hex: Scared to Death, Rampage, Spies from the Shadows, Unrelenting, Bitter Murmur (18 en comptant les générales). Leur « effet » reprend le seed **à titre d'hypothèse** (UNCERTAIN) ; les incohérences internes du seed (p96 vs ch8) sont signalées. À re-vérifier en priorité par un lot ultérieur.
+> **Limite majeure de ce fichier.** Le quota WebSearch de la session (200/200, partagé entre agents) a été épuisé après 12 recherches de ce lot, dont 9 exploitables.
+> - **9 perks vérifiées** (wiki.gg via résumé de recherche) : Bloodhound, Shadowborn, Stridor, Beast of Prey, Overwhelming Presence, Monitor & Abuse, Cruel Limits, Hoarder, Septic Touch (+ pages Pools of Blood et Patch Notes 9.1.X).
+> - **17 perks non re-vérifiées** : Awakened Awareness, Game Afoot, THWACK!, Leverage, Unbound, Undone, Dark Arrogance, Hex: Wretched Fate, No Quarter, Scourge Hook: Hangman's Trick, Hex: Overture of Doom, Ravenous, Wandering Eye, Hex: Scared to Death, Rampage, Spies from the Shadows, Unrelenting, Bitter Murmur. Leur effet = valeur du seed, « seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) », UNCERTAIN ; les incohérences internes du seed (p96 vs ch8) sont signalées. À re-vérifier en priorité par un lot ultérieur.
 > - Aucune source PTB 10.2.0 n'a pu être consultée : les valeurs PTB citées viennent du seed (l. 800-841) et restent **UNCERTAIN**, sauf l'existence d'un rework d'Undone (confirmée par `audit_phase0.txt`, qui cite le Dev Update 10.2.0 et BHVR KB 559).
+> - Toutes les rubriques analytiques (indices observables, soupçonner/confirmer, adaptation, counterplay, erreurs, menace) sont **HEURISTIC / EXPERT OPINION**.
 
 ---
 
@@ -142,13 +145,13 @@
 
 ---
 
-## B. Perks NON VÉRIFIÉES (budget WebSearch épuisé) — effet = hypothèse issue du seed
+## B. Perks non re-vérifiées (quota WebSearch épuisé) — effet = valeur du seed
 
-Pour chacune : **Effet LIVE** = hypothèse seed, confiance **UNCERTAIN** ; **Écart avec le seed** = NON VÉRIFIABLE, sauf incohérence interne du seed signalée.
+Pour chacune : **Effet LIVE** = « seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) », confiance **UNCERTAIN** ; **Écart avec le seed** = NON VÉRIFIABLE, sauf incohérence interne du seed signalée.
 
 ### Awakened Awareness — Mastermind
 - **Statut / catégorie** : LIVE (présumé) · info/aura (transport)
-- **Effet LIVE + valeurs** : seed : en portant un survivant, voit les survivants à ≤ 16/18/20 m. Cohérent avec seed ch8 l. 1378 et avec la mémoire du rédacteur (non sourcée) — UNCERTAIN
+- **Effet LIVE + valeurs** : [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)] : en portant un survivant, voit les survivants à ≤ 16/18/20 m. Cohérent avec seed ch8 l. 1378 et avec la connaissance du modèle (antérieure à mi-2026), UNCERTAIN — UNCERTAIN
 - **PTB 10.2.0** : UNCERTAIN
 - **Indice observable (survivant)** : aucun direct.
 - **Soupçonner** : tueur qui dépose le porté / change de trajectoire vers vous alors que vous étiez caché près du crochet → plausible.
@@ -162,8 +165,8 @@ Pour chacune : **Effet LIVE** = hypothèse seed, confiance **UNCERTAIN** ; **Éc
 
 ### Game Afoot — Skull Merchant
 - **Statut / catégorie** : LIVE (présumé) · chase
-- **Effet LIVE + valeurs** : seed : le survivant le plus poursuivi devient l'Obsession ; casser (palette/mur) ou frapper pendant sa poursuite → 7 % Haste 8/9/10 s. Seed ch8 ne mentionne que les casses (pas « frapper ») — UNCERTAIN
-- **PTB 10.2.0** : seed : Haste 10 % — UNCERTAIN (non vérifié)
+- **Effet LIVE + valeurs** : [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)] : le survivant le plus poursuivi devient l'Obsession ; casser (palette/mur) ou frapper pendant sa poursuite → 7 % Haste 8/9/10 s. Seed ch8 ne mentionne que les casses (pas « frapper ») — UNCERTAIN
+- **PTB 10.2.0** : seed (PTB, NON RE-VÉRIFIÉ) : Haste 10 % — UNCERTAIN (non vérifié)
 - **Indice observable (survivant)** : statut **Obsession** qui change (icône Obsession sur le HUD).
 - **Soupçonner** : l'Obsession change en cours de partie vers le survivant le plus chassé → Game Afoot plausible (autres perks d'Obsession possibles).
 - **Confirmer** : fin de partie.
@@ -176,7 +179,7 @@ Pour chacune : **Effet LIVE** = hypothèse seed, confiance **UNCERTAIN** ; **Éc
 
 ### THWACK! — Skull Merchant
 - **Statut / catégorie** : LIVE (présumé) · info/aura (cri)
-- **Effet LIVE + valeurs** : seed p96 : casser un mur/palette fait crier les survivants à ≤ 36 m et les révèle 4/5/6 s (système de jetons). Seed ch8 : 3 jetons au départ, +1 par crochet, 1 consommé par casse — UNCERTAIN
+- **Effet LIVE + valeurs** : [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)] p96 : casser un mur/palette fait crier les survivants à ≤ 36 m et les révèle 4/5/6 s (système de jetons). Seed ch8 : 3 jetons au départ, +1 par crochet, 1 consommé par casse — UNCERTAIN
 - **PTB 10.2.0** : UNCERTAIN
 - **Indice observable (survivant)** : **votre personnage crie** (cri involontaire) au moment où une palette/un mur est cassé ailleurs.
 - **Soupçonner** : cri involontaire synchronisé avec un bruit de palette cassée → quasi certain.
@@ -190,7 +193,7 @@ Pour chacune : **Effet LIVE** = hypothèse seed, confiance **UNCERTAIN** ; **Éc
 
 ### Leverage — Skull Merchant
 - **Statut / catégorie** : LIVE (présumé) · anti-soin
-- **Effet LIVE + valeurs** : seed p96 : après un décrochage, le **sauveteur** soigne 20/25/30 % plus lentement 60 s. Seed ch8 : ce sont « les survivants **décrochés** » — contradiction interne — UNCERTAIN
+- **Effet LIVE + valeurs** : [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)] p96 : après un décrochage, le **sauveteur** soigne 20/25/30 % plus lentement 60 s. Seed ch8 : ce sont « les survivants **décrochés** » — contradiction interne — UNCERTAIN
 - **PTB 10.2.0** : UNCERTAIN
 - **Indice observable (survivant)** : aucun direct connu (état Mangled éventuel non confirmé).
 - **Soupçonner** : soins anormalement lents après un sauvetage (sans Mangled/Sloppy) → plausible.
@@ -204,8 +207,8 @@ Pour chacune : **Effet LIVE** = hypothèse seed, confiance **UNCERTAIN** ; **Éc
 
 ### Unbound — Unknown
 - **Statut / catégorie** : LIVE (présumé) · chase
-- **Effet LIVE + valeurs** : seed p96 : pendant 24/27/30 s après une blessure, chaque vault de fenêtre donne 7 % Haste 10 s — UNCERTAIN
-- **PTB 10.2.0** : seed l. 818 : 5 % de Haste pendant 25 s — UNCERTAIN
+- **Effet LIVE + valeurs** : [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)] p96 : pendant 24/27/30 s après une blessure, chaque vault de fenêtre donne 7 % Haste 10 s — UNCERTAIN
+- **PTB 10.2.0** : seed (PTB, NON RE-VÉRIFIÉ) l. 818 : 5 % de Haste pendant 25 s — UNCERTAIN
 - **Indice observable (survivant)** : aucun direct ; tueur qui vaulte des fenêtres puis accélère.
 - **Soupçonner** : tueur qui vaulte volontiers derrière vous et regagne beaucoup de distance → plausible.
 - **Confirmer** : fin de partie.
@@ -218,7 +221,7 @@ Pour chacune : **Effet LIVE** = hypothèse seed, confiance **UNCERTAIN** ; **Éc
 
 ### Undone — Unknown
 - **Statut / catégorie** : LIVE (présumé) · slowdown (perte instantanée + blocage)
-- **Effet LIVE + valeurs** : seed p96 : chaque skill check raté = 3 jetons (max 18/24/30) ; le prochain kick consomme tout : 1 % de régression et 1 s de blocage par jeton — UNCERTAIN
+- **Effet LIVE + valeurs** : [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)] p96 : chaque skill check raté = 3 jetons (max 18/24/30) ; le prochain kick consomme tout : 1 % de régression et 1 s de blocage par jeton — UNCERTAIN
 - **PTB 10.2.0** : **rework confirmé** (existence) par `audit_phase0.txt` (Dev Update 10.2.0 / BHVR KB 559) — STRONG_SECONDARY ; valeurs seed (jetons aux crochets, 8/9/10 %) UNCERTAIN
 - **Indice observable (survivant)** : gen **bloqué par l'Entity (blanc)** + grosse régression d'un coup après un kick, alors qu'il y a eu des skill checks ratés.
 - **Soupçonner** : skill checks ratés + kick suivi d'un blocage → plausible (vs DMS, Grim Embrace, Pop).
@@ -232,8 +235,8 @@ Pour chacune : **Effet LIVE** = hypothèse seed, confiance **UNCERTAIN** ; **Éc
 
 ### Dark Arrogance — Lich
 - **Statut / catégorie** : LIVE (présumé) · chase
-- **Effet LIVE + valeurs** : seed p96 : vaults 15/20/25 % plus rapides ; stuns et aveuglements 15 % plus longs — UNCERTAIN
-- **PTB 10.2.0** : seed : +15/20/25 % de récupération après attaque — UNCERTAIN
+- **Effet LIVE + valeurs** : [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)] p96 : vaults 15/20/25 % plus rapides ; stuns et aveuglements 15 % plus longs — UNCERTAIN
+- **PTB 10.2.0** : seed (PTB, NON RE-VÉRIFIÉ) : +15/20/25 % de récupération après attaque — UNCERTAIN
 - **Indice observable (survivant)** : tueur qui vaulte des fenêtres très vite ; stun de palette qui semble plus long.
 - **Soupçonner** : vaults rapides (hors Bamboozle : pas de blocage de fenêtre) → plausible.
 - **Confirmer** : fin de partie.
@@ -246,7 +249,7 @@ Pour chacune : **Effet LIVE** = hypothèse seed, confiance **UNCERTAIN** ; **Éc
 
 ### Hex: Wretched Fate — Dark Lord
 - **Statut / catégorie** : LIVE (présumé) · hex · slowdown (Obsession)
-- **Effet LIVE + valeurs** : seed : après le 1er gen terminé, l'Obsession répare 27/30/33 % plus lentement (tant que le hex tient) — UNCERTAIN
+- **Effet LIVE + valeurs** : [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)] : après le 1er gen terminé, l'Obsession répare 27/30/33 % plus lentement (tant que le hex tient) — UNCERTAIN
 - **PTB 10.2.0** : UNCERTAIN
 - **Indice observable (survivant)** : **totem allumé** (flamme, bruit de totem) ; icône Hex sur le HUD si la perk est affichée comme les autres Hex (UNCERTAIN) ; réparation lente pour l'Obsession.
 - **Soupçonner** : l'Obsession répare nettement plus lentement que les autres après le 1er gen + totem allumé → plausible.
@@ -260,7 +263,7 @@ Pour chacune : **Effet LIVE** = hypothèse seed, confiance **UNCERTAIN** ; **Éc
 
 ### No Quarter — Houndmaster
 - **Statut / catégorie** : LIVE (présumé) · anti-soin
-- **Effet LIVE + valeurs** : seed : à 75 % d'un auto-soin, skill checks continus ; un raté → Broken 20/25/30 s — UNCERTAIN
+- **Effet LIVE + valeurs** : [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)] : à 75 % d'un auto-soin, skill checks continus ; un raté → Broken 20/25/30 s — UNCERTAIN
 - **PTB 10.2.0** : UNCERTAIN
 - **Indice observable (survivant)** : **skill checks en rafale** en fin d'auto-soin ; **icône Broken** après un raté.
 - **Soupçonner** : skill checks anormalement fréquents à ~75 % d'un self-heal → quasi certain.
@@ -274,7 +277,7 @@ Pour chacune : **Effet LIVE** = hypothèse seed, confiance **UNCERTAIN** ; **Éc
 
 ### Scourge Hook: Hangman's Trick — Pig
 - **Statut / catégorie** : LIVE (présumé) · scourge · info/aura
-- **Effet LIVE + valeurs** : seed : 4 crochets Fléau ; en portant, révèle les survivants à ≤ 12/14/16 m d'un Scourge Hook ; alerte en cas de sabotage — UNCERTAIN
+- **Effet LIVE + valeurs** : [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)] : 4 crochets Fléau ; en portant, révèle les survivants à ≤ 12/14/16 m d'un Scourge Hook ; alerte en cas de sabotage — UNCERTAIN
 - **PTB 10.2.0** : UNCERTAIN
 - **Indice observable (survivant)** : **crochets blancs** (Scourge Hooks) visibles en aura par les survivants.
 - **Soupçonner** : crochets blancs + tueur qui vient vers vous en portant quelqu'un alors que vous étiez près d'un crochet blanc → plausible (6 perks Scourge selon le seed).
@@ -288,7 +291,7 @@ Pour chacune : **Effet LIVE** = hypothèse seed, confiance **UNCERTAIN** ; **Éc
 
 ### Hex: Overture of Doom — Krasue
 - **Statut / catégorie** : LIVE (présumé) · hex · stealth
-- **Effet LIVE + valeurs** : seed : hex sur le gen le plus éloigné ; après 5 s de réparation dessus, TR transféré sur le gen et tueur Undetectable 20/25/30 s — UNCERTAIN
+- **Effet LIVE + valeurs** : [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)] : hex sur le gen le plus éloigné ; après 5 s de réparation dessus, TR transféré sur le gen et tueur Undetectable 20/25/30 s — UNCERTAIN
 - **PTB 10.2.0** : UNCERTAIN
 - **Indice observable (survivant)** : **battement de cœur / TR qui semble venir du générateur** lui-même ; totem allumé.
 - **Soupçonner** : TR qui « reste » sur le gen alors que le tueur n'est pas visible → quasi certain.
@@ -302,8 +305,8 @@ Pour chacune : **Effet LIVE** = hypothèse seed, confiance **UNCERTAIN** ; **Éc
 
 ### Ravenous — Krasue
 - **Statut / catégorie** : LIVE (présumé) · endgame / Exposed
-- **Effet LIVE + valeurs** : seed p96 : 1 jeton par 1er accrochage de chaque survivant ; au 4e, tous crient et sont Exposed 40/50/60 s — UNCERTAIN
-- **PTB 10.2.0** : seed : +4 % Haste/vitesse d'accrochage par jeton, Exposed 80/85/90 s — UNCERTAIN
+- **Effet LIVE + valeurs** : [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)] p96 : 1 jeton par 1er accrochage de chaque survivant ; au 4e, tous crient et sont Exposed 40/50/60 s — UNCERTAIN
+- **PTB 10.2.0** : seed (PTB, NON RE-VÉRIFIÉ) : +4 % Haste/vitesse d'accrochage par jeton, Exposed 80/85/90 s — UNCERTAIN
 - **Indice observable (survivant)** : **cri de tous** + **icône Exposed** quand le 4e survivant différent est accroché.
 - **Soupçonner** : cri collectif + Exposed au moment du 4e premier crochet → quasi certain.
 - **Confirmer** : icône Exposed.
@@ -316,7 +319,7 @@ Pour chacune : **Effet LIVE** = hypothèse seed, confiance **UNCERTAIN** ; **Éc
 
 ### Wandering Eye — Krasue
 - **Statut / catégorie** : LIVE (présumé) · info/aura
-- **Effet LIVE + valeurs** : seed : au début d'une poursuite, voit les autres blessés à ≤ 20 m pendant 5 s ; cooldown 40/35/30 s — UNCERTAIN
+- **Effet LIVE + valeurs** : [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)] : au début d'une poursuite, voit les autres blessés à ≤ 20 m pendant 5 s ; cooldown 40/35/30 s — UNCERTAIN
 - **PTB 10.2.0** : UNCERTAIN
 - **Indice observable (survivant)** : aucun direct.
 - **Soupçonner** : blessé près d'une chase, le tueur vous cible ensuite sans ligne de vue → plausible.
@@ -330,7 +333,7 @@ Pour chacune : **Effet LIVE** = hypothèse seed, confiance **UNCERTAIN** ; **Éc
 
 ### Hex: Scared to Death — Slasher
 - **Statut / catégorie** : LIVE (présumé, perk du chapitre 10.0.0 selon `audit_phase0`) · hex · chase
-- **Effet LIVE + valeurs** : seed : s'allume après avoir accroché 3 survivants différents ; casser une palette en poursuite fait crier les survivants à ≤ 13 m et les rend Hindered 11/12/13 % pendant 3 s — UNCERTAIN
+- **Effet LIVE + valeurs** : [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)] : s'allume après avoir accroché 3 survivants différents ; casser une palette en poursuite fait crier les survivants à ≤ 13 m et les rend Hindered 11/12/13 % pendant 3 s — UNCERTAIN
 - **PTB 10.2.0** : UNCERTAIN
 - **Indice observable (survivant)** : **cri + icône Hindered** après une palette cassée ; totem allumé tard dans la partie.
 - **Soupçonner** : totem qui s'allume après le 3e survivant différent accroché → plausible.
@@ -344,7 +347,7 @@ Pour chacune : **Effet LIVE** = hypothèse seed, confiance **UNCERTAIN** ; **Éc
 
 ### Rampage — Slasher
 - **Statut / catégorie** : LIVE (présumé, chapitre 10.0.0) · chase (anti-stun)
-- **Effet LIVE + valeurs** : seed : 1 jeton par palette ou mur cassé (max 13) ; stun ou blind → +1 % de Haste par jeton pendant 13 s ; cooldown 30/25/20 s — UNCERTAIN
+- **Effet LIVE + valeurs** : [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)] : 1 jeton par palette ou mur cassé (max 13) ; stun ou blind → +1 % de Haste par jeton pendant 13 s ; cooldown 30/25/20 s — UNCERTAIN
 - **PTB 10.2.0** : UNCERTAIN
 - **Indice observable (survivant)** : aucun direct ; tueur qui accélère après un stun en fin de partie.
 - **Soupçonner** : tueur qui a cassé beaucoup de palettes et revient très vite après un stun → plausible (Shadowborn aussi si blind).
@@ -358,8 +361,8 @@ Pour chacune : **Effet LIVE** = hypothèse seed, confiance **UNCERTAIN** ; **Éc
 
 ### Spies from the Shadows — Générale
 - **Statut / catégorie** : LIVE (présumé) · info
-- **Effet LIVE + valeurs** : seed : alerte quand un survivant fait s'envoler un corbeau à ≤ 20/28/36 m ; cooldown 5 s (cohérent avec la mémoire du rédacteur, non sourcée) — UNCERTAIN
-- **PTB 10.2.0** : seed : 36/38/40 m, cooldown 3 s — UNCERTAIN
+- **Effet LIVE + valeurs** : [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)] : alerte quand un survivant fait s'envoler un corbeau à ≤ 20/28/36 m ; cooldown 5 s (cohérent avec la connaissance du modèle (antérieure à mi-2026), UNCERTAIN, non sourcée) — UNCERTAIN
+- **PTB 10.2.0** : seed (PTB, NON RE-VÉRIFIÉ) : 36/38/40 m, cooldown 3 s — UNCERTAIN
 - **Indice observable (survivant)** : les corbeaux s'envolent (visible/audible par tous) ; pas d'indice du fait que le tueur reçoit l'alerte.
 - **Soupçonner** : tueur qui arrive juste après que vous avez fait s'envoler des corbeaux → plausible.
 - **Confirmer** : fin de partie.
@@ -372,8 +375,8 @@ Pour chacune : **Effet LIVE** = hypothèse seed, confiance **UNCERTAIN** ; **Éc
 
 ### Unrelenting — Générale
 - **Statut / catégorie** : LIVE (présumé) · chase
-- **Effet LIVE + valeurs** : seed : récupération après attaque **ratée** 20/25/30 % plus courte (cohérent avec la mémoire du rédacteur) — UNCERTAIN
-- **PTB 10.2.0** : seed : 30/35/40 % sur les ratés, +10 % sur les coups réussis — UNCERTAIN
+- **Effet LIVE + valeurs** : [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)] : récupération après attaque **ratée** 20/25/30 % plus courte (cohérent avec la connaissance du modèle (antérieure à mi-2026), UNCERTAIN) — UNCERTAIN
+- **PTB 10.2.0** : seed (PTB, NON RE-VÉRIFIÉ) : 30/35/40 % sur les ratés, +10 % sur les coups réussis — UNCERTAIN
 - **Indice observable (survivant)** : aucun direct ; le tueur « se remet » vite d'un coup raté.
 - **Soupçonner** : après un coup raté (dodge), la distance gagnée est anormalement faible → plausible.
 - **Confirmer** : fin de partie.
@@ -386,8 +389,8 @@ Pour chacune : **Effet LIVE** = hypothèse seed, confiance **UNCERTAIN** ; **Éc
 
 ### Bitter Murmur — Générale
 - **Statut / catégorie** : LIVE (présumé) · info/aura · endgame
-- **Effet LIVE + valeurs** : seed : chaque gen terminé révèle 5 s les survivants à ≤ 16 m du gen ; au dernier gen, tous révélés 5/7/10 s — UNCERTAIN
-- **PTB 10.2.0** : seed : 20 m pendant 8 s ; fin de partie 10/12/14 s — UNCERTAIN
+- **Effet LIVE + valeurs** : [seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)] : chaque gen terminé révèle 5 s les survivants à ≤ 16 m du gen ; au dernier gen, tous révélés 5/7/10 s — UNCERTAIN
+- **PTB 10.2.0** : seed (PTB, NON RE-VÉRIFIÉ) : 20 m pendant 8 s ; fin de partie 10/12/14 s — UNCERTAIN
 - **Indice observable (survivant)** : aucun HUD ; le tueur arrive droit sur vous juste après le pop d'un gen.
 - **Soupçonner** : tueur qui cible précisément les survivants qui ont fini un gen, ou qui sait où tout le monde est à l'ouverture de l'endgame → plausible (vs BBQ, Nowhere to Hide…).
 - **Confirmer** : fin de partie.
@@ -402,18 +405,18 @@ Pour chacune : **Effet LIVE** = hypothèse seed, confiance **UNCERTAIN** ; **Éc
 
 ## Matériel pour la PERK DEDUCTION
 
-Règles HEURISTIC (tirées du périmètre p96). Confiance : règles 1-3 fondées sur des perks vérifiées ; 4-9 fondées sur le seed (UNCERTAIN).
+Règles HEURISTIC / EXPERT OPINION (tirées du périmètre p96). Confiance : règles 1-3 fondées sur des perks vérifiées ; 4-9 fondées sur le seed (UNCERTAIN).
 
 1. **J'ai observé** icône Exhausted en sortant un objet + aucune perk d'exhaustion utilisée → **Overwhelming Presence** quasi certain → n'utiliser aucun objet à ≤ 32 m du tueur ; le tueur a vu votre aura 2-4 s : bouger.
 2. **J'ai observé** Blindness + Exhausted en soignant dans le TR → **Septic Touch** confirmé → soigner uniquement hors TR ; ne plus compter sur l'exhaustion pendant ~30 s après le soin.
 3. **J'ai observé** fenêtres bloquées juste après un gen terminé (sans 3 vaults) → **Cruel Limits** confirmé → à chaque pop, jouer palettes 30 s ; en SWF, prévenir le survivant en chase avant de finir le gen.
 4. **J'ai observé** TR/cœur et red stain disparus en pleine chase longue (Huntress ou autre) sans pouvoir visible → **Beast of Prey** plausible (vérifié) → garder la caméra sur le tueur, supposer sa présence pendant 40 s.
 5. **J'ai observé** 4 coffres ou plus sur la carte → **Hoarder** quasi certain (vérifié) → n'ouvrir coffre / ne ramasser un objet que si le tueur est localisé à > 64 m.
-6. **J'ai observé** un cri involontaire au bruit d'une palette/d'un mur cassé ailleurs → **THWACK!** plausible (seed, UNCERTAIN) → changer de position après chaque cri.
-7. **J'ai observé** cri collectif + Exposed au 4e survivant accroché (1er crochet) → **Ravenous** plausible (seed, UNCERTAIN) → jeu ultra-safe pendant Exposed.
-8. **J'ai observé** cœur qui bat « depuis le gen » (le plus éloigné) sans tueur visible + totem allumé → **Hex: Overture of Doom** plausible (seed, UNCERTAIN) → regarder autour, chercher le totem.
-9. **J'ai observé** skill checks en rafale à ~75 % d'un self-heal (+ Broken après un raté) → **No Quarter** plausible (seed, UNCERTAIN) → se faire soigner par un coéquipier.
-10. **J'ai observé** Obsession qui change vers le survivant le plus chassé + tueur qui accélère après des casses de palettes → **Game Afoot** plausible (seed, UNCERTAIN) → l'Obsession évite les palettes « gratuites » et passe la chase.
+6. **J'ai observé** un cri involontaire au bruit d'une palette/d'un mur cassé ailleurs → **THWACK!** plausible (seed, NON RE-VÉRIFIÉ, UNCERTAIN) → changer de position après chaque cri.
+7. **J'ai observé** cri collectif + Exposed au 4e survivant accroché (1er crochet) → **Ravenous** plausible (seed, NON RE-VÉRIFIÉ, UNCERTAIN) → jeu ultra-safe pendant Exposed.
+8. **J'ai observé** cœur qui bat « depuis le gen » (le plus éloigné) sans tueur visible + totem allumé → **Hex: Overture of Doom** plausible (seed, NON RE-VÉRIFIÉ, UNCERTAIN) → regarder autour, chercher le totem.
+9. **J'ai observé** skill checks en rafale à ~75 % d'un self-heal (+ Broken après un raté) → **No Quarter** plausible (seed, NON RE-VÉRIFIÉ, UNCERTAIN) → se faire soigner par un coéquipier.
+10. **J'ai observé** Obsession qui change vers le survivant le plus chassé + tueur qui accélère après des casses de palettes → **Game Afoot** plausible (seed, NON RE-VÉRIFIÉ, UNCERTAIN) → l'Obsession évite les palettes « gratuites » et passe la chase.
 
 ---
 
@@ -433,7 +436,7 @@ Règles HEURISTIC (tirées du périmètre p96). Confiance : règles 1-3 fondées
 | K96-10 | Septic Touch : soin en TR → Blind + Exhausted, persiste 20/25/30 s | [11] | LIVE | STRONG_SECONDARY |
 | K96-11 | Undone reçoit un rework au PTB 10.2.0 | [12] | PTB | STRONG_SECONDARY (via audit) |
 | K96-12 | Hex: Scared to Death et Rampage = perks du chapitre 10.0.0 (Slasher) | [12] | LIVE | STRONG_SECONDARY (via audit) |
-| K96-13 | Valeurs LIVE des 15 autres perks | seed | LIVE ? | UNCERTAIN |
+| K96-13 | Valeurs LIVE des 17 autres perks (seed, NON RE-VÉRIFIÉ (quota)) | seed | LIVE ? | UNCERTAIN |
 
 ## Conflits
 
@@ -477,12 +480,12 @@ Règles HEURISTIC (tirées du périmètre p96). Confiance : règles 1-3 fondées
 | Dark Arrogance | p96 stuns +15 % ; ch8 +25 % et recovery | non vérifié | NON VÉRIFIABLE ; PTB-comme-LIVE probable (ch8) |
 | Ravenous | p96 Exposed 40/50/60 s ; ch8 80-90 s + Haste | non vérifié | NON VÉRIFIABLE ; PTB-comme-LIVE probable (ch8) |
 | Leverage | p96 sauveteur ; ch8 décroché | non vérifié | NON VÉRIFIABLE (conflit interne) |
-| 14 autres perks non vérifiées (Awakened Awareness, Game Afoot, THWACK!, Wretched Fate, No Quarter, Hangman's Trick, Overture of Doom, Wandering Eye, Scared to Death, Rampage, Spies, Unrelenting, Bitter Murmur) | valeurs p96 | — | NON VÉRIFIABLE |
+| 13 autres perks non re-vérifiées (Awakened Awareness, Game Afoot, THWACK!, Wretched Fate, No Quarter, Hangman's Trick, Overture of Doom, Wandering Eye, Scared to Death, Rampage, Spies, Unrelenting, Bitter Murmur) | valeurs p96 | — | NON VÉRIFIABLE |
 | Valeurs PTB 10.2.0 du seed (l. 800-841) pour Game Afoot, Spies, Unbound, Dark Arrogance, Ravenous, Unrelenting, Bitter Murmur, Undone | chiffres PTB | non vérifiés (aucune source PTB lue) | NON VÉRIFIABLE (bien étiquetés PTB dans p98) |
 
 ## Questions ouvertes
 
-1. Valeurs LIVE 10.1.2a des 15 perks non vérifiées (priorité : Leverage, Unbound, Undone, Dark Arrogance, Ravenous, à cause des conflits internes du seed).
+1. Valeurs LIVE 10.1.2a des 17 perks non re-vérifiées (priorité : Leverage, Unbound, Undone, Dark Arrogance, Ravenous, à cause des conflits internes du seed).
 2. Monitor & Abuse : effet net du TR hors chase (bonus + malus cumulés ou seul le malus ?).
 3. Septic Touch : déclenchement en soignant un **autre** survivant ?
 4. Beast of Prey : durée de chase nécessaire au Bloodlust en 10.1.2a, et fin de l'Undetectable à la perte de Bloodlust ?

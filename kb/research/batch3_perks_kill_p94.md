@@ -169,7 +169,7 @@ Périmètre (28 perks) : Whispers, Territorial Imperative, Predator, Distressing
 
 ### Hex: Huntress Lullaby — Huntress
 - **Statut / catégorie** : LIVE (présumé) · hex / slowdown (skill-checks)
-- **Effet LIVE + valeurs** : jetons par accrochage ; avertissement sonore des skill-checks retardé puis supprimé à 5 jetons ; pénalité de régression supplémentaire en cas de raté — valeurs UNCERTAIN (le seed évoque aussi une zone Good réduite : UNCERTAIN)
+- **Effet LIVE + valeurs** : jetons par accrochage ; avertissement sonore des skill-checks retardé puis supprimé à 5 jetons ; pénalité de régression supplémentaire en cas de raté (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) : +2/4/6 % de régression en plus sur raté ; zone « Good » qui rétrécit avec les jetons) — UNCERTAIN
 - **PTB 10.2.0** : UNCERTAIN
 - **Indice observable (survivant)** : **son d'avertissement de skill-check absent ou tardif** ; totem Hex allumé (HEURISTIC)
 - **Soupçonner** : skill-checks « surprise » sans ding + ratés inhabituels après plusieurs hooks → quasi certain (HEURISTIC)

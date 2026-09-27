@@ -1,9 +1,12 @@
+**Couverture web : 14 éléments vérifiés par recherche / 10 non re-vérifiés (quota)** — vérifiés : Quick Gambit, Potential Energy, Autodidact, Chemical Trap, Wiretap, Leader, Empathy, Lightweight, Spine Chill, No One Left Behind, Dark Sense, Plunderer's Instinct, Bound by Obsession, Poised (via notes 9.2.0) ; non re-vérifiés : Down to the Last, Wake Up!, Pharmacy, Detective's Hunch, Aftercare, Breakdown, Diversion, Solidarity, Buckle Up, Mettle of Man.
+
 # Lot 2 — Perks survivant, page 26 du guide seed (Quick Gambit → Mettle of Man)
 
 Référence : LIVE 10.1.2a (17/09/2026). PTB 10.2.0 = non LIVE. Recherche du 27/09/2026, WebSearch uniquement (résumés de recherche, pages non lues directement).
 Périmètre : 24 perks (kb/seed/ch3_survperks.txt l. 422-534).
 
-> **Avertissement de session** : le quota global WebSearch de la session (200 appels) a été épuisé après 21 recherches de ce lot. 13 perks ont été vérifiées (au moins partiellement) ; les 11 autres (Down to the Last, Wake Up!, Pharmacy, Detective's Hunch, Aftercare, Breakdown, Diversion, Solidarity, Buckle Up, Mettle of Man, et le PTB de Plunderer's/Pharmacy/Wake Up!/Solidarity) sont marquées **NON VÉRIFIABLE** : aucune valeur n'y est présentée comme vérifiée. Poised n'est vérifiée que via les notes 9.2.0.
+
+> **Avertissement de session** : le quota global WebSearch de la session (200 appels) a été épuisé après 21 recherches de ce lot. Les éléments non re-vérifiés portent la mention « seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) » et la confiance UNCERTAIN. Les PTB de Plunderer's / Pharmacy / Wake Up! / Solidarity ne sont pas vérifiés.
 > Les notes « Valeur » sont toutes **HEURISTIC** (jugement de l'agent, pas des données).
 
 ---
@@ -206,85 +209,147 @@ Périmètre : 24 perks (kb/seed/ch3_survperks.txt l. 422-534).
 
 ---
 
-## Perks NON VÉRIFIABLES dans cette session (quota WebSearch épuisé)
+## Perks non re-vérifiées sur le web (quota WebSearch épuisé)
 
-Pour chacune : le texte du seed est reproduit comme **claim à vérifier**, pas comme vérité. Les remarques « HYPOTHESIS » relèvent de la mémoire du modèle, non sourcée.
+Pour chacune : les valeurs viennent du seed avec la mention « seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) » — confiance **UNCERTAIN**. Les ajouts de mémoire sont étiquetés « connaissance du modèle (antérieure à mi-2026), UNCERTAIN ». Les parties analytiques sont **HEURISTIC**.
 
 ### Down to the Last (= Sole Survivor) — Générale (ex-Laurie Strode)
-- **Statut** : LIVE 10.1.2a, renommée en 9.4.0 (Sole Survivor → Down to the Last) — VERIFIED (audit [23]).
-- **Effet LIVE** : NON VÉRIFIABLE. Seed : 1 jeton par survivant mort ; avec jetons, le tueur ne lit pas votre aura dans 20/22/24 m.
-- **Valeurs** : NON VÉRIFIABLE. HYPOTHESIS : la condition de portée (dans / au-delà de 20-24 m) mérite vérification ; la version historique incluait aussi un bonus de réparation quand vous êtes le dernier survivant — non vérifié.
-- **PTB 10.2.0** : rework confirmé (liste des reworks : audit phase 0 [23], Dev Update [16]) ; contenu exact (« bonus portes et trappe ») NON VÉRIFIABLE.
-- **Interactions / Synergies** : Left Behind, Distortion, Off the Record (endgame stealth) — HEURISTIC.
-- **Difficulté** : 1 · **Valeur (HEURISTIC)** : SoloQ 1 · SWF 0 · chase 0 · macro 0 · info 0 · anti-tunnel 0 · soin 0 · gen 0 · endgame 2
-- **Produit / n'en produit pas** : utile seulement quand des alliés sont morts (trappe) ; nulle en 4-out.
-- **Écart avec le seed** : NON VÉRIFIABLE (renommage OK).
+- **Statut** : LIVE 10.1.2a, renommée en 9.4.0 (Sole Survivor → Down to the Last, ancien nom conservé pour les possesseurs) — VERIFIED (audit [23]).
+- **Effet LIVE** : 1 jeton par survivant mort ; avec au moins un jeton, le tueur ne peut pas lire votre aura dans un rayon de 20/22/24 m — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN.
+- **Valeurs / CD / conditions / limites** : 20/22/24 m — seed, NON RE-VÉRIFIÉ, UNCERTAIN. Connaissance du modèle (antérieure à mi-2026), UNCERTAIN : les versions historiques comportaient aussi un bonus de réparation quand vous êtes le dernier survivant ; le sens exact de la condition de portée est à revérifier.
+- **PTB 10.2.0** : rework confirmé (liste des reworks : audit [23], Dev Update [16]) ; contenu (« jetons, bonus pour les portes et la trappe ») — seed, NON RE-VÉRIFIÉ, UNCERTAIN.
+- **Interactions, DR, anti-synergies** : aucune DR attendue (masquage d'aura) — HEURISTIC. Anti-synergie : Bound by Obsession / Object-like perks qui révèlent votre aura (HEURISTIC).
+- **Synergies** : Left Behind, Distortion, Off the Record (stealth de fin de partie) — HEURISTIC.
+- **Difficulté** : 1
+- **Valeur (HEURISTIC, 0-3)** : SoloQ 1 · SWF 0 · chase 0 · macro 0 · info 0 · anti-tunnel 0 · soin 0 · gen 0 · endgame 2
+- **Quand elle produit de la valeur (HEURISTIC)** : quand des alliés sont déjà morts, contre des tueurs à lecture d'aura (BBQ, Nurse's Calling), pour chercher la trappe.
+- **Quand elle n'en produit pas (HEURISTIC)** : partie à 4 vivants (0 jeton) ; tueur sans lecture d'aura.
+- **Écart avec le seed** : NON VÉRIFIABLE (renommage 9.4.0 : OK).
 - **Sources** : [16][23]
 
 ### Wake Up! — Quentin Smith
-- **Statut** : LIVE (présumé).
-- **Effet LIVE** : NON VÉRIFIABLE. Seed : quand tous les gens sont finis, aura des interrupteurs, alliés voient votre aura pendant l'ouverture, ouverture +8/10/12,5 % par survivant vivant.
-- **PTB 10.2.0** : cité en buff par le seed (p32) ; NON VÉRIFIÉ.
-- **Synergies** : Leader, Hope, Adrenaline.
-- **Difficulté** : 1 · **Valeur (HEURISTIC)** : SoloQ 1 · SWF 0 · chase 0 · macro 0 · info 1 · anti-tunnel 0 · soin 0 · gen 0 · endgame 2
-- **Écart avec le seed** : NON VÉRIFIABLE (HYPOTHESIS : format « par survivant vivant » à confirmer ; ancienne version = bonus fixe).
+- **Statut** : LIVE 10.1.2a (présumé) — UNCERTAIN.
+- **Effet LIVE** : quand tous les générateurs sont finis : aura des interrupteurs de portes, les alliés voient votre aura pendant que vous ouvrez, ouverture 8/10/12,5 % plus rapide par survivant vivant — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN.
+- **Valeurs / CD / conditions / limites** : 8/10/12,5 % par survivant vivant — seed, NON RE-VÉRIFIÉ, UNCERTAIN. Connaissance du modèle (antérieure à mi-2026), UNCERTAIN : d'anciennes versions donnaient un bonus d'ouverture fixe ; la formule « par survivant vivant » est à confirmer.
+- **PTB 10.2.0** : cité comme buff (p32 du seed) — seed, NON RE-VÉRIFIÉ, UNCERTAIN.
+- **Interactions, DR, anti-synergies** : bonus de vitesse d'ouverture → DR probable avec Leader — HEURISTIC/HYPOTHESIS.
+- **Synergies** : Leader, Hope, Adrenaline — HEURISTIC.
+- **Difficulté** : 1
+- **Valeur (HEURISTIC, 0-3)** : SoloQ 1 · SWF 0 · chase 0 · macro 0 · info 1 · anti-tunnel 0 · soin 0 · gen 0 · endgame 2
+- **Quand elle produit de la valeur (HEURISTIC)** : fin de partie en SoloQ (trouver la porte, signaler aux alliés où aller).
+- **Quand elle n'en produit pas (HEURISTIC)** : le reste de la partie ; SWF qui communique déjà les portes.
+- **Écart avec le seed** : NON VÉRIFIABLE.
 - **Sources** : —
 
 ### Pharmacy — Quentin Smith
-- **Statut** : LIVE (présumé).
-- **Effet LIVE** : NON VÉRIFIABLE. Seed : ouverture de coffre 75/100/125 % plus rapide, bruit réduit (−12 m), médikit « rare » garanti.
-- **Valeurs** : HYPOTHESIS : l'objet garanti est l'Emergency Med-Kit ; sa rareté (« rare » selon le seed) est à vérifier.
-- **PTB 10.2.0** : cité en buff par le seed ; NON VÉRIFIÉ.
-- **Difficulté** : 1 · **Valeur (HEURISTIC)** : SoloQ 1 · SWF 1 · chase 0 · macro 0 · info 0 · anti-tunnel 0 · soin 1 · gen 0 · endgame 0
+- **Statut** : LIVE 10.1.2a (présumé) — UNCERTAIN.
+- **Effet LIVE** : coffres ouverts 75/100/125 % plus vite, bruit réduit (−12 m), médikit « rare » garanti — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN.
+- **Valeurs / CD / conditions / limites** : seed, NON RE-VÉRIFIÉ, UNCERTAIN. Connaissance du modèle (antérieure à mi-2026), UNCERTAIN : l'objet garanti serait l'Emergency Med-Kit, une seule fois par partie ; sa rareté (« rare » selon le seed) est à vérifier.
+- **PTB 10.2.0** : cité comme buff (p32 du seed) — seed, NON RE-VÉRIFIÉ, UNCERTAIN.
+- **Interactions, DR, anti-synergies** : n/a (HEURISTIC).
+- **Synergies** : Plunderer's Instinct, Appraisal, Self-Care ? (non), Botany Knowledge — HEURISTIC.
+- **Difficulté** : 1
+- **Valeur (HEURISTIC, 0-3)** : SoloQ 1 · SWF 1 · chase 0 · macro 0 · info 0 · anti-tunnel 0 · soin 1 · gen 0 · endgame 0
+- **Quand elle produit de la valeur (HEURISTIC)** : si vous arrivez sans objet et qu'un coffre est proche en début de partie.
+- **Quand elle n'en produit pas (HEURISTIC)** : si vous arrivez déjà avec un Med-Kit ; parties rapides.
 - **Écart avec le seed** : NON VÉRIFIABLE.
 - **Sources** : —
 
 ### Detective's Hunch — David Tapp
-- **Effet LIVE** : NON VÉRIFIABLE. Seed : à chaque gen terminé, auras des coffres, gens et totems dans 32/48/64 m pendant 20 s. HYPOTHESIS : la durée (20 s ?) est à vérifier en priorité.
-- **PTB 10.2.0** : non citée.
-- **Difficulté** : 1 · **Valeur (HEURISTIC)** : SoloQ 1 · SWF 0 · chase 0 · macro 1 · info 1 · anti-tunnel 0 · soin 0 · gen 0 · endgame 0 (anti-hex : 1)
+- **Statut** : LIVE 10.1.2a (présumé) — UNCERTAIN.
+- **Effet LIVE** : quand un générateur est terminé, auras des coffres, générateurs et totems dans 32/48/64 m pendant 20 s — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN.
+- **Valeurs / CD / conditions / limites** : 32/48/64 m, 20 s — seed, NON RE-VÉRIFIÉ. Connaissance du modèle (antérieure à mi-2026), UNCERTAIN : la durée pourrait être plus courte (10 s) ; à vérifier en priorité.
+- **PTB 10.2.0** : non citée par le seed — non vérifié.
+- **Interactions, DR, anti-synergies** : n/a — HEURISTIC.
+- **Synergies** : Small Game, Inner Strength (anti-hex), Plunderer's — HEURISTIC.
+- **Difficulté** : 1
+- **Valeur (HEURISTIC, 0-3)** : SoloQ 1 · SWF 0 · chase 0 · macro 1 · info 1 · anti-tunnel 0 · soin 0 · gen 0 · endgame 0 (anti-hex 1)
+- **Quand elle produit de la valeur (HEURISTIC)** : repérer les totems restants après un gen contre builds à hex ; trouver le prochain gen.
+- **Quand elle n'en produit pas (HEURISTIC)** : début de partie (avant le premier gen) ; SWF avec calls.
 - **Écart avec le seed** : NON VÉRIFIABLE.
 - **Sources** : —
 
 ### Aftercare — Jeff Johansen
-- **Effet LIVE** : NON VÉRIFIABLE. Seed : vous et 1/2/3 survivants voyez vos auras mutuelles après décrochage ou soin échangé, jusqu'à votre prochain crochet.
-- **PTB 10.2.0** : non citée.
-- **Difficulté** : 1 · **Valeur (HEURISTIC)** : SoloQ 1 · SWF 0 · chase 0 · macro 1 · info 1 · anti-tunnel 0 · soin 0 · gen 0 · endgame 0
+- **Statut** : LIVE 10.1.2a (présumé) — UNCERTAIN.
+- **Effet LIVE** : vous et jusqu'à 1/2/3 survivants voyez vos auras mutuelles après un décrochage ou un soin échangé, jusqu'à votre prochain crochet — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN.
+- **Valeurs / CD / conditions / limites** : 1/2/3 survivants — seed, NON RE-VÉRIFIÉ, UNCERTAIN.
+- **PTB 10.2.0** : non citée par le seed — non vérifié.
+- **Interactions, DR, anti-synergies** : n/a — HEURISTIC.
+- **Synergies** : Bond, Kindred, Empathy (info d'équipe) — HEURISTIC.
+- **Difficulté** : 1
+- **Valeur (HEURISTIC, 0-3)** : SoloQ 1 · SWF 0 · chase 0 · macro 1 · info 1 · anti-tunnel 0 · soin 0 · gen 0 · endgame 0
+- **Quand elle produit de la valeur (HEURISTIC)** : SoloQ altruiste, après plusieurs interactions (décrochages / soins).
+- **Quand elle n'en produit pas (HEURISTIC)** : si vous êtes accroché tôt (effet perdu) ; SWF en vocal.
 - **Écart avec le seed** : NON VÉRIFIABLE.
 - **Sources** : —
 
 ### Breakdown — Jeff Johansen
-- **Statut** : LIVE ; **revertée à son ancienne version en 9.3.2 (9 déc. 2025)** — VERIFIED (audit phase 0 [23]).
-- **Effet LIVE** : NON VÉRIFIABLE directement. Seed : décroché → le crochet casse (réparé après 180 s) et aura du tueur 4/5/6 s — cohérent avec la description de l'« ancienne version » selon la mémoire du modèle (HYPOTHESIS).
-- **Difficulté** : 1 · **Valeur (HEURISTIC)** : SoloQ 1 · SWF 1 · chase 0 · macro 1 · info 1 · anti-tunnel 1 · soin 0 · gen 0 · endgame 0
-- **Écart avec le seed** : NON VÉRIFIABLE (le seed ne mentionne pas l'aller-retour 9.3.0/9.3.2 — IMPRÉCIS sur l'historique).
+- **Statut** : LIVE 10.1.2a ; **revertée à son ancienne version en 9.3.2 (9 déc. 2025)** — VERIFIED (audit [23]).
+- **Effet LIVE** : quand on vous décroche (ou que vous vous décrochez), le crochet se casse (réparé après 180 s) et vous voyez l'aura du tueur 4/5/6 s — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN. Connaissance du modèle (antérieure à mi-2026), UNCERTAIN : correspond à l'« ancienne version » évoquée par l'audit.
+- **Valeurs / CD / conditions / limites** : 180 s, 4/5/6 s — seed, NON RE-VÉRIFIÉ, UNCERTAIN.
+- **PTB 10.2.0** : non citée par le seed — non vérifié.
+- **Interactions, DR, anti-synergies** : anti-synergie (pour le tueur) avec Scourge Hooks sur le crochet cassé — HEURISTIC.
+- **Synergies** : Saboteur, Boil Over, Breakout (réduire les crochets disponibles) — HEURISTIC.
+- **Difficulté** : 1
+- **Valeur (HEURISTIC, 0-3)** : SoloQ 1 · SWF 1 · chase 0 · macro 1 · info 1 · anti-tunnel 1 · soin 0 · gen 0 · endgame 0
+- **Quand elle produit de la valeur (HEURISTIC)** : crochets du sous-sol / zones sans crochets proches, contre Scourge Hooks.
+- **Quand elle n'en produit pas (HEURISTIC)** : cartes denses en crochets.
+- **Écart avec le seed** : NON VÉRIFIABLE (le seed ne mentionne pas l'aller-retour 9.3.0 → 9.3.2 : IMPRÉCIS sur l'historique).
 - **Sources** : [23]
 
 ### Diversion — Adam Francis
-- **Effet LIVE** : NON VÉRIFIABLE. Seed : après 30/25/20 s dans le rayon de terreur, accroupi, immobile, non poursuivi → caillou lancé à 20 m (alerte de bruit + griffures).
-- **Difficulté** : 2 · **Valeur (HEURISTIC)** : SoloQ 1 · SWF 1 · chase 0 · macro 0 · info 0 · anti-tunnel 0 · soin 0 · gen 0 · endgame 0
+- **Statut** : LIVE 10.1.2a (présumé) — UNCERTAIN.
+- **Effet LIVE** : après 30/25/20 s dans le rayon de terreur, accroupi et immobile (sans être poursuivi), vous lancez un caillou jusqu'à 20 m qui crée une alerte de bruit et des griffures — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN.
+- **Valeurs / CD / conditions / limites** : 30/25/20 s, 20 m — seed, NON RE-VÉRIFIÉ, UNCERTAIN.
+- **PTB 10.2.0** : non citée par le seed — non vérifié.
+- **Interactions, DR, anti-synergies** : n/a — HEURISTIC.
+- **Synergies** : Quick & Quiet, Urban Evasion, Distortion (stealth) — HEURISTIC.
+- **Difficulté** : 2
+- **Valeur (HEURISTIC, 0-3)** : SoloQ 1 · SWF 1 · chase 0 · macro 0 · info 0 · anti-tunnel 0 · soin 0 · gen 0 · endgame 0
+- **Quand elle produit de la valeur (HEURISTIC)** : pour détourner un tueur qui fouille une zone (après un hook, en patrouille de 3-gen).
+- **Quand elle n'en produit pas (HEURISTIC)** : contre des tueurs expérimentés (alerte ignorée) ; hors rayon de terreur.
 - **Écart avec le seed** : NON VÉRIFIABLE.
 - **Sources** : —
 
 ### Solidarity — Jane Romero
-- **Effet LIVE** : NON VÉRIFIABLE. Seed : blessé, soigner un allié sans Med-Kit vous soigne à 50/60/70 % de cette vitesse.
-- **PTB 10.2.0** : seed : 65/70/75 % — NON VÉRIFIÉ.
-- **Interactions** : HYPOTHESIS : le transfert se base sur la vitesse de soin effective, donc bénéficie de Botany/Leader.
-- **Difficulté** : 1 · **Valeur (HEURISTIC)** : SoloQ 1 · SWF 1 · chase 0 · macro 0 · info 0 · anti-tunnel 0 · soin 2 · gen 0 · endgame 0
+- **Statut** : LIVE 10.1.2a (présumé) — UNCERTAIN.
+- **Effet LIVE** : blessé, quand vous soignez un allié sans Med-Kit, vous vous soignez à 50/60/70 % de cette vitesse — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN.
+- **Valeurs / CD / conditions / limites** : 50/60/70 % — seed, NON RE-VÉRIFIÉ, UNCERTAIN.
+- **PTB 10.2.0** : 65/70/75 % — seed, NON RE-VÉRIFIÉ, UNCERTAIN.
+- **Interactions, DR, anti-synergies** : connaissance du modèle (antérieure à mi-2026), UNCERTAIN : le transfert suit la vitesse de soin effective (bénéficie donc de Botany / Leader). Anti-synergie : Med-Kit.
+- **Synergies** : Botany Knowledge, We'll Make It, Autodidact (soins sans kit) — HEURISTIC.
+- **Difficulté** : 1
+- **Valeur (HEURISTIC, 0-3)** : SoloQ 1 · SWF 1 · chase 0 · macro 0 · info 0 · anti-tunnel 0 · soin 2 · gen 0 · endgame 0
+- **Quand elle produit de la valeur (HEURISTIC)** : deux blessés qui se soignent mutuellement : économise un soin complet.
+- **Quand elle n'en produit pas (HEURISTIC)** : en jouant Med-Kit ; si vous n'êtes pas blessé.
 - **Écart avec le seed** : NON VÉRIFIABLE.
 - **Sources** : —
 
 ### Buckle Up — Ash Williams
-- **Effet LIVE** : NON VÉRIFIABLE. Seed : en relevant un allié à terre, vous voyez tous deux le tueur ; ensuite +50 % de Haste et pas de griffures pendant 3/4/5 s.
-- **Remarque** : HYPOTHESIS forte : « +50 % de Haste » est très au-dessus des ordres de grandeur de Haste survivant documentés ailleurs dans ce projet (≈ 3-10 %) → valeur à vérifier en priorité (confusion possible avec un autre paramètre).
-- **Difficulté** : 2 · **Valeur (HEURISTIC)** : SoloQ 1 · SWF 1 · chase 0 · macro 1 · info 1 · anti-tunnel 0 · soin 1 · gen 0 · endgame 0 (anti-slug : 2)
+- **Statut** : LIVE 10.1.2a (présumé) — UNCERTAIN.
+- **Effet LIVE** : pendant que vous relevez un survivant à terre, vous voyez tous deux le tueur ; ensuite il gagne +50 % de Haste et ne laisse pas de griffures pendant 3/4/5 s — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN.
+- **Valeurs / CD / conditions / limites** : « +50 % de Haste » — seed, NON RE-VÉRIFIÉ ; **valeur suspecte** (HEURISTIC) : très au-dessus des Haste survivant documentées ailleurs dans le projet (≈ 3-10 %) ; confusion possible avec un autre paramètre. À vérifier en priorité.
+- **PTB 10.2.0** : non citée par le seed — non vérifié.
+- **Interactions, DR, anti-synergies** : Haste → soumise aux DR avec d'autres Haste identiques — HYPOTHESIS.
+- **Synergies** : Unbreakable, Tenacity, We'll Make It (anti-slug) — HEURISTIC.
+- **Difficulté** : 2
+- **Valeur (HEURISTIC, 0-3)** : SoloQ 1 · SWF 1 · chase 0 · macro 1 · info 1 · anti-tunnel 0 · soin 1 · gen 0 · endgame 0 (anti-slug 2)
+- **Quand elle produit de la valeur (HEURISTIC)** : contre le slug : relever en sachant où est le tueur et repartir sans griffures.
+- **Quand elle n'en produit pas (HEURISTIC)** : tueurs qui accrochent systématiquement.
 - **Écart avec le seed** : NON VÉRIFIABLE (valeur 50 % suspecte).
 - **Sources** : —
 
 ### Mettle of Man — Ash Williams
-- **Effet LIVE** : NON VÉRIFIABLE. Seed : après 3 protection hits, le prochain coup qui vous mettrait à terre est ignoré ; une fois soigné, votre aura est révélée au tueur quand vous êtes à plus de 12/14/16 m.
-- **Interactions** : effet « proche Endurance » ; interaction avec les DR ou avec les coups spéciaux (Deep Wound, dégâts de pouvoir) non vérifiée.
-- **Difficulté** : 2 · **Valeur (HEURISTIC)** : SoloQ 1 · SWF 2 · chase 1 · macro 0 · info 0 · anti-tunnel 1 · soin 0 · gen 0 · endgame 0
+- **Statut** : LIVE 10.1.2a (présumé) — UNCERTAIN.
+- **Effet LIVE** : après 3 protection hits, le prochain coup qui devait vous mettre à terre est ignoré ; une fois soigné, votre aura est révélée au tueur quand vous êtes à plus de 12/14/16 m — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN. Connaissance du modèle (antérieure à mi-2026), UNCERTAIN : description cohérente avec la version connue.
+- **Valeurs / CD / conditions / limites** : 3 protection hits, 12/14/16 m — seed, NON RE-VÉRIFIÉ, UNCERTAIN.
+- **PTB 10.2.0** : non citée par le seed — non vérifié.
+- **Interactions, DR, anti-synergies** : effet « proche Endurance » (seed p31) ; interaction avec Deep Wound / dégâts de pouvoir non vérifiée — UNCERTAIN.
+- **Synergies** : Babysitter, Borrowed Time, Guardian (protection hits) — HEURISTIC.
+- **Difficulté** : 2
+- **Valeur (HEURISTIC, 0-3)** : SoloQ 1 · SWF 2 · chase 1 · macro 0 · info 0 · anti-tunnel 1 · soin 0 · gen 0 · endgame 0
+- **Quand elle produit de la valeur (HEURISTIC)** : SWF qui prend volontairement des protection hits ; joueurs très altruistes.
+- **Quand elle n'en produit pas (HEURISTIC)** : SoloQ passive (3 protection hits rarement atteints) ; après activation, l'aura révélée pénalise la furtivité.
 - **Écart avec le seed** : NON VÉRIFIABLE.
 - **Sources** : —
 
@@ -354,7 +419,7 @@ Pour chacune : le texte du seed est reproduit comme **claim à vérifier**, pas 
 | Bound by Obsession | aura 3 s/30 s, retour d'aura, 2/4/6 % ; PTB 8/9/10 % | retour d'aura à toute lecture d'aura par le tueur ; +100 % chance d'Obsession ; valeurs OK [14][21][22] | IMPRÉCIS |
 | Poised | aura 8 s, 20/25/30 s sans griffures | idem (notes 9.2.0) [2][3] | OK |
 | Leader/Poised/Quick Gambit buffés en 9.2.0 (p32) | buffs 9.2.0 | confirmé [2][3] | OK |
-| Down to the Last, Wake Up!, Pharmacy, Detective's Hunch, Aftercare, Breakdown, Diversion, Solidarity, Buckle Up, Mettle of Man | voir fiches | quota WebSearch épuisé | NON VÉRIFIABLE |
+| Down to the Last, Wake Up!, Pharmacy, Detective's Hunch, Aftercare, Breakdown, Diversion, Solidarity, Buckle Up, Mettle of Man | voir fiches | seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) | NON VÉRIFIABLE |
 | Solidarity PTB 65/70/75 %, Pharmacy/Wake Up!/Plunderer's PTB buffs | PTB | non lu | NON VÉRIFIABLE |
 | Buckle Up « +50 % de Haste » | +50 % | non vérifié ; valeur suspecte | NON VÉRIFIABLE (priorité) |
 

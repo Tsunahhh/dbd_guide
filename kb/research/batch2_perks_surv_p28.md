@@ -1,10 +1,9 @@
 # Lot 2 — Perks survivant, page 28 du guide seed (ch3_survperks.txt l. 651-760)
 
-Couverture web : 18 éléments vérifiés par recherche / 6 non re-vérifiés (quota)
+Couverture web : 18 éléments vérifiés par recherche / 6 non re-vérifiés (quota) — plus les PTB de Flow State et Boon: Illumination non re-vérifiés.
 
 - Référence : **LIVE 10.1.2a** (17/09/2026). **PTB 10.2.0 non LIVE.** Travail du 27/09/2026.
 - Méthode : WebSearch uniquement ; pages non lues directement → « via résumé de recherche ». Confiance max **STRONG_SECONDARY** sauf recoupement avec l'audit phase 0 (notes officielles 10.1.0 → VERIFIED_MULTI_SOURCE).
-- **Couverture web : 18 éléments vérifiés par recherche / 6 non re-vérifiés (quota)** (+ PTB de Flow State et de Boon: Illumination non re-vérifiés).
 - **Incident** : quota WebSearch de la session (200/200, partagé entre agents) épuisé après 18 perks. Lend a Hand, Fruits of Your Labor, Left Behind, Open-Handed, Streetwise et Boon: Illumination portent la mention « seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) », confiance UNCERTAIN ; tout ajout issu de la mémoire du modèle est étiqueté « connaissance du modèle (antérieure à mi-2026), UNCERTAIN ».
 - Notes « Valeur » = **HEURISTIC** (0-3). Difficulté 1 facile – 3 exigeante (HEURISTIC).
 - Périmètre : 24 perks.
