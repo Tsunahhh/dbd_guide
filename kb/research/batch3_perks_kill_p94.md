@@ -1,8 +1,10 @@
 # Lot 3 — Perks tueur vues du survivant, page 94 du guide seed (tier C)
 
+**Couverture web : 8 éléments vérifiés par recherche / 20 non re-vérifiés (quota)** (dont Hex: Crowd Control et Coulrophobia partiellement recoupées par l'audit local).
+
 Référence : LIVE 10.1.2a (17/09/2026). PTB 10.2.0 (15-21/09/2026) = **non LIVE**, toujours étiqueté PTB.
 Méthode : WebSearch uniquement (résumés de recherche, WebFetch bloqué) → confiance plafonnée à STRONG_SECONDARY sauf citation de notes officielles.
-Notes de menace = **HEURISTIC**.
+Notes de menace = **HEURISTIC**. Parties analytiques (indices, soupçonner/confirmer, adaptation, counterplay, erreurs) = **HEURISTIC / EXPERT OPINION**.
 
 Périmètre (28 perks) : Whispers, Territorial Imperative, Predator, Distressing, Insidious, Knock Out, Shattered Hope, Dominance, Scourge Hook: Jagged Compass, Hex: Crowd Control, Hex: Huntress Lullaby, Unnerving Presence, Coulrophobia, Hubris, Dissolution, Superior Anatomy, Merciless Storm, Hex: Haunted Ground, Rancor, Hex: The Third Seal, Iron Maiden, Mad Grit, Zanshin Tactics, Blood Echo, Forced Penance, Forced Hesitation, Genetic Limits, Alien Instinct.
 
@@ -11,7 +13,7 @@ Périmètre (28 perks) : Whispers, Territorial Imperative, Predator, Distressing
 - Le **budget WebSearch de la session (200 appels, partagé entre agents) a été épuisé après 8 recherches** de ce lot (refus explicite de l'outil : « this session has used its web search budget »).
 - **Vérifiées par WebSearch (8)** : Whispers, Territorial Imperative, Predator, Distressing, Insidious, Knock Out, Shattered Hope, Dominance. Confiance STRONG_SECONDARY (résumés wiki.gg / fandom).
 - **Partiellement recoupées par l'audit local** `kb/seed/audit_phase0.txt` (qui cite des notes officielles) : Hex: Crowd Control (rework 9.5.0 : 4/5/6 dernières fenêtres), Coulrophobia (20/25/30 % en 10.1.0), Shattered Hope (rework au PTB 10.2.0).
-- **Non vérifiées (20)** : les valeurs indiquées pour ces perks viennent de la **mémoire du modèle** (connaissance antérieure, possiblement obsolète) → étiquetées **UNCERTAIN** ; écart avec le seed = **NON VÉRIFIABLE** sauf mention. Elles doivent être re-vérifiées dans une session avec budget de recherche.
+- **Non vérifiées (20)** : les valeurs indiquées pour ces perks sont celles du **seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)** ; tout ajout vient de la « connaissance du modèle (antérieure à mi-2026), UNCERTAIN » → étiquetées **UNCERTAIN** ; écart avec le seed = **NON VÉRIFIABLE** sauf mention. Elles doivent être re-vérifiées dans une session avec budget de recherche.
 - **Aucune valeur PTB 10.2.0 n'a pu être vérifiée directement** pour ce périmètre (pas de recherche PTB possible). Les valeurs PTB du seed restent **UNCERTAIN (PTB, non recoupé)**.
 - Les parties « indice observable / soupçonner / adaptation / counterplay » reposent sur les mécaniques générales (statuts, auras, Undetectable, Hex) : **HEURISTIC**, valables quelles que soient les valeurs exactes.
 
@@ -135,32 +137,32 @@ Périmètre (28 perks) : Whispers, Territorial Imperative, Predator, Distressing
 
 ## Perks NON vérifiées cette session (budget WebSearch épuisé)
 
-> Valeurs = mémoire du modèle → **UNCERTAIN** partout. PTB 10.2.0 = UNCERTAIN. Écart seed = NON VÉRIFIABLE sauf indication.
+> Valeurs = seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) → **UNCERTAIN** partout ; ajouts = connaissance du modèle (antérieure à mi-2026), UNCERTAIN. Parties analytiques = HEURISTIC. PTB 10.2.0 = UNCERTAIN. Écart seed = NON VÉRIFIABLE sauf indication.
 
 ### Scourge Hook: Jagged Compass — Houndmaster
 - **Statut / catégorie** : LIVE 10.1.2a (présumé) · scourge / info (générateur)
-- **Effet LIVE + valeurs** : seed : crochets d'où un survivant est décroché → Fléau ; accrocher sur un Fléau révèle le gen le plus avancé 6/8/10 s — UNCERTAIN (non vérifié ; mécanique exacte de conversion des crochets non confirmée)
+- **Effet LIVE + valeurs** : seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) : crochets d'où un survivant est décroché → Fléau ; accrocher sur un Fléau révèle le gen le plus avancé 6/8/10 s — UNCERTAIN (non vérifié ; mécanique exacte de conversion des crochets non confirmée)
 - **PTB 10.2.0** : UNCERTAIN
-- **Indice observable (survivant)** : aucun indice direct sur le gen ; la visibilité des Scourge Hooks côté survivant est UNCERTAIN
-- **Soupçonner** : tueur qui quitte un crochet et va droit sur le gen le plus avancé → plausible (alternatives : Nowhere to Hide, Surveillance, Deadlock/Grim Embrace)
+- **Indice observable (survivant)** : aucun indice direct sur le gen ; la visibilité des Scourge Hooks côté survivant est UNCERTAIN (HEURISTIC)
+- **Soupçonner** : tueur qui quitte un crochet et va droit sur le gen le plus avancé → plausible (alternatives : Nowhere to Hide, Surveillance, Deadlock/Grim Embrace) (HEURISTIC)
 - **Confirmer** : écran de fin
-- **Adaptation robuste** : pendant un accrochage, ne pas rester seul sur le gen le plus avancé si le tueur est proche ; se décaler sur un 2e gen
-- **Counterplay** : répartir la progression ; ne pas laisser un gen à 90 % « en vitrine »
-- **Erreurs à ne pas faire** : empiler 3 survivants sur le gen le plus avancé pendant un hook
+- **Adaptation robuste** : pendant un accrochage, ne pas rester seul sur le gen le plus avancé si le tueur est proche ; se décaler sur un 2e gen (HEURISTIC)
+- **Counterplay** : répartir la progression ; ne pas laisser un gen à 90 % « en vitrine » (HEURISTIC)
+- **Erreurs à ne pas faire** : empiler 3 survivants sur le gen le plus avancé pendant un hook (HEURISTIC)
 - **Menace (HEURISTIC)** : SoloQ 1 / SWF 0-1
 - **Écart avec le seed** : NON VÉRIFIABLE
 - **Sources** : — (recherche refusée)
 
 ### Hex: Crowd Control — Trickster
 - **Statut / catégorie** : LIVE 10.1.2a · hex / chase
-- **Effet LIVE + valeurs** : rework 9.5.0 : bloque les **4/5/6 dernières fenêtres** franchies par les survivants (audit, via patch notes 9.5.0) — STRONG_SECONDARY [9] ; vault +15 % et aura 24 m (seed) : UNCERTAIN
+- **Effet LIVE + valeurs** : rework 9.5.0 : bloque les **4/5/6 dernières fenêtres** franchies par les survivants (audit, via patch notes 9.5.0) — STRONG_SECONDARY [9] ; vault +15 % et aura 24 m (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)) : UNCERTAIN
 - **PTB 10.2.0** : UNCERTAIN
-- **Indice observable (survivant)** : **totem Hex allumé** (son de crépitement près du totem) ; **fenêtres bloquées par l'Entité** après les avoir franchies
-- **Soupçonner** : fenêtre que tu viens de passer bloquée (sans Bamboozle qui ne bloque que pour le vault du tueur… et pour 8-16 s) → quasi certain
+- **Indice observable (survivant)** : **totem Hex allumé** (son de crépitement près du totem) ; **fenêtres bloquées par l'Entité** après les avoir franchies (HEURISTIC)
+- **Soupçonner** : fenêtre que tu viens de passer bloquée (sans Bamboozle qui ne bloque que pour le vault du tueur… et pour 8-16 s) → quasi certain (HEURISTIC)
 - **Confirmer** : plusieurs fenêtres restant bloquées + totem Hex trouvé
-- **Adaptation robuste** : en chase, privilégier les **palettes** et les loops sans fenêtre ; nettoyer les totems tôt (cleanse = retour des fenêtres, présumé)
-- **Counterplay** : un coéquipier cleanse le totem pendant la chase ; Small Game / Detective's Hunch
-- **Erreurs à ne pas faire** : revenir en boucle sur une fenêtre déjà utilisée
+- **Adaptation robuste** : en chase, privilégier les **palettes** et les loops sans fenêtre ; nettoyer les totems tôt (cleanse = retour des fenêtres, présumé) (HEURISTIC)
+- **Counterplay** : un coéquipier cleanse le totem pendant la chase ; Small Game / Detective's Hunch (HEURISTIC)
+- **Erreurs à ne pas faire** : revenir en boucle sur une fenêtre déjà utilisée (HEURISTIC)
 - **Menace (HEURISTIC)** : SoloQ 1-2 / SWF 1
 - **Écart avec le seed** : OK sur le cœur (4/5/6 fenêtres, confirmé par l'audit) ; bonus vault/aura NON VÉRIFIABLE
 - **Sources** : [9]
@@ -169,237 +171,237 @@ Périmètre (28 perks) : Whispers, Territorial Imperative, Predator, Distressing
 - **Statut / catégorie** : LIVE (présumé) · hex / slowdown (skill-checks)
 - **Effet LIVE + valeurs** : jetons par accrochage ; avertissement sonore des skill-checks retardé puis supprimé à 5 jetons ; pénalité de régression supplémentaire en cas de raté — valeurs UNCERTAIN (le seed évoque aussi une zone Good réduite : UNCERTAIN)
 - **PTB 10.2.0** : UNCERTAIN
-- **Indice observable (survivant)** : **son d'avertissement de skill-check absent ou tardif** ; totem Hex allumé
-- **Soupçonner** : skill-checks « surprise » sans ding + ratés inhabituels après plusieurs hooks → quasi certain
+- **Indice observable (survivant)** : **son d'avertissement de skill-check absent ou tardif** ; totem Hex allumé (HEURISTIC)
+- **Soupçonner** : skill-checks « surprise » sans ding + ratés inhabituels après plusieurs hooks → quasi certain (HEURISTIC)
 - **Confirmer** : totem Hex trouvé ; absence totale du ding
-- **Adaptation robuste** : surveiller visuellement la zone de skill-check ; cleanser tôt (les jetons s'accumulent)
-- **Counterplay** : Small Game/Detective's Hunch ; Stake Out (Great = plus de marge) ; cleanse prioritaire
-- **Erreurs à ne pas faire** : réparer en regardant ailleurs (caméra tournée) sous Lullaby
+- **Adaptation robuste** : surveiller visuellement la zone de skill-check ; cleanser tôt (les jetons s'accumulent) (HEURISTIC)
+- **Counterplay** : Small Game/Detective's Hunch ; Stake Out (Great = plus de marge) ; cleanse prioritaire (HEURISTIC)
+- **Erreurs à ne pas faire** : réparer en regardant ailleurs (caméra tournée) sous Lullaby (HEURISTIC)
 - **Menace (HEURISTIC)** : SoloQ 1 / SWF 1
 - **Écart avec le seed** : NON VÉRIFIABLE
 - **Sources** : —
 
 ### Unnerving Presence — Trapper
 - **Statut / catégorie** : LIVE (présumé) · slowdown (skill-checks)
-- **Effet LIVE + valeurs** : dans le TR : chance de skill-check augmentée et zone de réussite réduite (seed : +10 %, 40/50/60 %) — UNCERTAIN ; interaction avec Diminishing Returns 9.6.0 (chances de skill-check) : UNCERTAIN
+- **Effet LIVE + valeurs** : dans le TR : chance de skill-check augmentée et zone de réussite réduite (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) : +10 %, 40/50/60 %) — UNCERTAIN ; interaction avec Diminishing Returns 9.6.0 (chances de skill-check) : UNCERTAIN
 - **PTB 10.2.0** : UNCERTAIN
-- **Indice observable (survivant)** : **zones de skill-check nettement plus petites** uniquement **dans le heartbeat**
-- **Soupçonner** : skill-checks rétrécis + fréquents seulement quand le TR est présent → quasi certain (alternative : Coulrophobia sur soins uniquement)
+- **Indice observable (survivant)** : **zones de skill-check nettement plus petites** uniquement **dans le heartbeat** (HEURISTIC)
+- **Soupçonner** : skill-checks rétrécis + fréquents seulement quand le TR est présent → quasi certain (alternative : Coulrophobia sur soins uniquement) (HEURISTIC)
 - **Confirmer** : comparer la taille de zone hors TR / dans TR
-- **Adaptation robuste** : réparer hors TR quand possible ; ne pas soigner dans le TR
-- **Counterplay** : Stake Out, Hyperfocus (risque), Resilience ne change pas la zone
-- **Erreurs à ne pas faire** : tenter les Great sur une zone réduite
+- **Adaptation robuste** : réparer hors TR quand possible ; ne pas soigner dans le TR (HEURISTIC)
+- **Counterplay** : Stake Out, Hyperfocus (risque), Resilience ne change pas la zone (HEURISTIC)
+- **Erreurs à ne pas faire** : tenter les Great sur une zone réduite (HEURISTIC)
 - **Menace (HEURISTIC)** : SoloQ 0-1 / SWF 0
 - **Écart avec le seed** : NON VÉRIFIABLE
 - **Sources** : —
 
 ### Coulrophobia — Clown
 - **Statut / catégorie** : LIVE 10.1.2a · anti-soin
-- **Effet LIVE + valeurs** : soins 20/25/30 % plus lents dans le TR (valeur changée en 10.1.0 d'après l'audit) — STRONG_SECONDARY [9] ; skill-checks de soin 50 % plus rapides (seed) : UNCERTAIN
+- **Effet LIVE + valeurs** : soins 20/25/30 % plus lents dans le TR (valeur changée en 10.1.0 d'après l'audit) — STRONG_SECONDARY [9] ; skill-checks de soin 50 % plus rapides (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)) : UNCERTAIN
 - **PTB 10.2.0** : UNCERTAIN
-- **Indice observable (survivant)** : barre de soin lente dans le TR ; **aiguille de skill-check de soin plus rapide**
-- **Soupçonner** : soin anormalement lent uniquement dans le TR + skill-check rapide → quasi certain
+- **Indice observable (survivant)** : barre de soin lente dans le TR ; **aiguille de skill-check de soin plus rapide** (HEURISTIC)
+- **Soupçonner** : soin anormalement lent uniquement dans le TR + skill-check rapide → quasi certain (HEURISTIC)
 - **Confirmer** : vitesse de soin normale hors TR
-- **Adaptation robuste** : **ne jamais soigner dans le TR** ; se déplacer avant de soigner
-- **Counterplay** : soin loin du tueur ; Botany/medkit compensent partiellement (DR 9.6.0 à considérer : UNCERTAIN)
-- **Erreurs à ne pas faire** : soigner au pied du crochet avec le tueur à 20 m
+- **Adaptation robuste** : **ne jamais soigner dans le TR** ; se déplacer avant de soigner (HEURISTIC)
+- **Counterplay** : soin loin du tueur ; Botany/medkit compensent partiellement (DR 9.6.0 à considérer : UNCERTAIN) (HEURISTIC)
+- **Erreurs à ne pas faire** : soigner au pied du crochet avec le tueur à 20 m (HEURISTIC)
 - **Menace (HEURISTIC)** : SoloQ 1 / SWF 0-1
 - **Écart avec le seed** : OK (valeurs 10.1.0 recoupées par l'audit ; « nerf au 10.1.0 » : sens exact buff/nerf non vérifié)
 - **Sources** : [9]
 
 ### Hubris — Knight
 - **Statut / catégorie** : LIVE (présumé) · chase (anti-stun)
-- **Effet LIVE + valeurs** : le survivant qui étourdit le tueur devient Exposed ~20/25/30 s ; cooldown ~20 s (seed) — UNCERTAIN
+- **Effet LIVE + valeurs** : le survivant qui étourdit le tueur devient Exposed ~20/25/30 s ; cooldown ~20 s (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)) — UNCERTAIN
 - **PTB 10.2.0** : UNCERTAIN
-- **Indice observable (survivant)** : **icône Exposed** juste après un stun de palette
-- **Soupçonner / Confirmer** : Exposed immédiatement après stun → confirmé
-- **Adaptation robuste** : après un stun, **distance maximale et ne pas reprendre de risque** pendant la durée ; éviter les stuns « gratuits » si déjà blessé proche d'un one-shot inutile
-- **Counterplay** : ne stun que quand le gain est net (palette vers un autre loop) ; Dead Hard/Endurance ne supprime pas Exposed (principe) — UNCERTAIN selon interactions
-- **Erreurs à ne pas faire** : rester au contact du tueur après le stun en croyant avoir gagné du temps
+- **Indice observable (survivant)** : **icône Exposed** juste après un stun de palette (HEURISTIC)
+- **Soupçonner / Confirmer** : Exposed immédiatement après stun → confirmé (HEURISTIC)
+- **Adaptation robuste** : après un stun, **distance maximale et ne pas reprendre de risque** pendant la durée ; éviter les stuns « gratuits » si déjà blessé proche d'un one-shot inutile (HEURISTIC)
+- **Counterplay** : ne stun que quand le gain est net (palette vers un autre loop) ; Dead Hard/Endurance ne supprime pas Exposed (principe) — UNCERTAIN selon interactions (HEURISTIC)
+- **Erreurs à ne pas faire** : rester au contact du tueur après le stun en croyant avoir gagné du temps (HEURISTIC)
 - **Menace (HEURISTIC)** : SoloQ 1 / SWF 1
 - **Écart avec le seed** : NON VÉRIFIABLE
 - **Sources** : —
 
 ### Dissolution — Dredge
 - **Statut / catégorie** : LIVE (présumé) · chase (anti-palette)
-- **Effet LIVE + valeurs** : après qu'un survivant a pris un coup, pendant une fenêtre temporaire, la prochaine palette qu'il franchit en vault rapide dans le TR se brise (seed : 3 s de délai, 12/16/20 s) — UNCERTAIN
+- **Effet LIVE + valeurs** : après qu'un survivant a pris un coup, pendant une fenêtre temporaire, la prochaine palette qu'il franchit en vault rapide dans le TR se brise (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) : 3 s de délai, 12/16/20 s) — UNCERTAIN
 - **PTB 10.2.0** : seed : « déclenchée uniquement par attaques de base » → UNCERTAIN (PTB)
-- **Indice observable (survivant)** : **palette qui se brise sous toi** en vault rapide ; icône de statut côté survivant : UNCERTAIN
-- **Soupçonner** : palette détruite lors de ton vault rapide juste après un coup → quasi certain
-- **Adaptation robuste** : après avoir été touché, **ne pas faire de vault rapide de palette** pendant ~20 s ; privilégier fenêtres / vault lent
-- **Counterplay** : utiliser les palettes debout comme obstacles sans les vaulter vite
-- **Erreurs à ne pas faire** : fast-vault une palette « de sauvetage » juste après un coup
+- **Indice observable (survivant)** : **palette qui se brise sous toi** en vault rapide ; icône de statut côté survivant : UNCERTAIN (HEURISTIC)
+- **Soupçonner** : palette détruite lors de ton vault rapide juste après un coup → quasi certain (HEURISTIC)
+- **Adaptation robuste** : après avoir été touché, **ne pas faire de vault rapide de palette** pendant ~20 s ; privilégier fenêtres / vault lent (HEURISTIC)
+- **Counterplay** : utiliser les palettes debout comme obstacles sans les vaulter vite (HEURISTIC)
+- **Erreurs à ne pas faire** : fast-vault une palette « de sauvetage » juste après un coup (HEURISTIC)
 - **Menace (HEURISTIC)** : SoloQ 1 / SWF 0-1
 - **Écart avec le seed** : NON VÉRIFIABLE
 - **Sources** : —
 
 ### Superior Anatomy — Mastermind
 - **Statut / catégorie** : LIVE (présumé) · chase (anti-fenêtre)
-- **Effet LIVE + valeurs** : un vault rapide d'un survivant près du tueur rend le prochain vault du tueur plus rapide (30/35/40 %) ; portée, durée et cooldown du seed (12 m, 10 s, 25 s) : UNCERTAIN (mémoire : 8 m / 30 s de cooldown dans une version antérieure → possible écart)
+- **Effet LIVE + valeurs** : un vault rapide d'un survivant près du tueur rend le prochain vault du tueur plus rapide (30/35/40 %) ; portée, durée et cooldown du seed (12 m, 10 s, 25 s) : UNCERTAIN (connaissance du modèle (antérieure à mi-2026), UNCERTAIN : 8 m / 30 s de cooldown dans une version antérieure → possible écart)
 - **PTB 10.2.0** : seed : « plusieurs vaults pendant 10 s, cooldown 20 s » → UNCERTAIN (PTB)
-- **Indice observable (survivant)** : le tueur **vault la fenêtre derrière toi presque instantanément**
-- **Soupçonner / Confirmer** : vault du tueur anormalement rapide juste après ton fast vault (hors Bamboozle/Wesker)
-- **Adaptation robuste** : sur fenêtre, ne pas enchaîner vault → vault ; faire tourner le tueur autour du loop avant de revault
-- **Counterplay** : utiliser la fenêtre comme menace sans la franchir quand le tueur est proche
-- **Erreurs à ne pas faire** : « vault spam » sur une même fenêtre
+- **Indice observable (survivant)** : le tueur **vault la fenêtre derrière toi presque instantanément** (HEURISTIC)
+- **Soupçonner / Confirmer** : vault du tueur anormalement rapide juste après ton fast vault (hors Bamboozle/Wesker) (HEURISTIC)
+- **Adaptation robuste** : sur fenêtre, ne pas enchaîner vault → vault ; faire tourner le tueur autour du loop avant de revault (HEURISTIC)
+- **Counterplay** : utiliser la fenêtre comme menace sans la franchir quand le tueur est proche (HEURISTIC)
+- **Erreurs à ne pas faire** : « vault spam » sur une même fenêtre (HEURISTIC)
 - **Menace (HEURISTIC)** : SoloQ 1 / SWF 1
 - **Écart avec le seed** : NON VÉRIFIABLE (suspicion d'écart sur portée/cooldown)
 - **Sources** : —
 
 ### Merciless Storm — Onryō
 - **Statut / catégorie** : LIVE (présumé) · slowdown (blocage)
-- **Effet LIVE + valeurs** : à 90 % de progression, skill-checks continus ; raté ou arrêt de réparation → gen bloqué 16/18/20 s (seed) — UNCERTAIN
+- **Effet LIVE + valeurs** : à 90 % de progression, skill-checks continus ; raté ou arrêt de réparation → gen bloqué 16/18/20 s (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)) — UNCERTAIN
 - **PTB 10.2.0** : UNCERTAIN
-- **Indice observable (survivant)** : **série de skill-checks enchaînés à 90 %** ; gen bloqué par l'Entité après raté/arrêt
-- **Soupçonner / Confirmer** : skill-checks en rafale au dernier 10 % → confirmé
-- **Adaptation robuste** : **ne pas lâcher un gen à 90 %** ; finir à 2 si possible ; éviter d'amener le tueur sur un gen à 90 %
-- **Counterplay** : Stake Out, Hyperfocus (attention), réparer avec la caméra fixée sur l'écran de skill-check
-- **Erreurs à ne pas faire** : commencer les 10 % finaux quand le tueur arrive
+- **Indice observable (survivant)** : **série de skill-checks enchaînés à 90 %** ; gen bloqué par l'Entité après raté/arrêt (HEURISTIC)
+- **Soupçonner / Confirmer** : skill-checks en rafale au dernier 10 % → confirmé (HEURISTIC)
+- **Adaptation robuste** : **ne pas lâcher un gen à 90 %** ; finir à 2 si possible ; éviter d'amener le tueur sur un gen à 90 % (HEURISTIC)
+- **Counterplay** : Stake Out, Hyperfocus (attention), réparer avec la caméra fixée sur l'écran de skill-check (HEURISTIC)
+- **Erreurs à ne pas faire** : commencer les 10 % finaux quand le tueur arrive (HEURISTIC)
 - **Menace (HEURISTIC)** : SoloQ 1 / SWF 0-1
 - **Écart avec le seed** : NON VÉRIFIABLE
 - **Sources** : —
 
 ### Hex: Haunted Ground — Spirit
 - **Statut / catégorie** : LIVE (présumé) · hex / slugging (Exposed)
-- **Effet LIVE + valeurs** : 2 totems Hex ; quand l'un est cleansé, tous les survivants deviennent Exposed (seed : 40/50/60 s) et l'autre totem disparaît (mémoire) — UNCERTAIN
+- **Effet LIVE + valeurs** : 2 totems Hex ; quand l'un est cleansé, tous les survivants deviennent Exposed (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) : 40/50/60 s) et l'autre totem disparaît (connaissance du modèle (antérieure à mi-2026), UNCERTAIN) — UNCERTAIN
 - **PTB 10.2.0** : UNCERTAIN
-- **Indice observable (survivant)** : **icône Exposed pour tout le monde juste après un cleanse** ; un Hex qui ne semble rien faire avant cleanse
-- **Soupçonner** : totem Hex trouvé tôt alors qu'aucun effet Hex n'est perceptible → plausible (piège)
+- **Indice observable (survivant)** : **icône Exposed pour tout le monde juste après un cleanse** ; un Hex qui ne semble rien faire avant cleanse (HEURISTIC)
+- **Soupçonner** : totem Hex trouvé tôt alors qu'aucun effet Hex n'est perceptible → plausible (piège) (HEURISTIC)
 - **Confirmer** : Exposed collectif immédiatement après cleanse
-- **Adaptation robuste** : **ne pas cleanser un Hex « inutile » quand le tueur est proche** ou quand plusieurs survivants sont en danger ; si cleansé, fuir/éviter tout contact pendant la durée
-- **Counterplay** : SWF : annoncer avant de cleanser ; cleanser pendant une chase lointaine ; Detective's Hunch
-- **Erreurs à ne pas faire** : cleanser par réflexe pendant que le tueur chase un blessé
+- **Adaptation robuste** : **ne pas cleanser un Hex « inutile » quand le tueur est proche** ou quand plusieurs survivants sont en danger ; si cleansé, fuir/éviter tout contact pendant la durée (HEURISTIC)
+- **Counterplay** : SWF : annoncer avant de cleanser ; cleanser pendant une chase lointaine ; Detective's Hunch (HEURISTIC)
+- **Erreurs à ne pas faire** : cleanser par réflexe pendant que le tueur chase un blessé (HEURISTIC)
 - **Menace (HEURISTIC)** : SoloQ 2 / SWF 1
 - **Écart avec le seed** : NON VÉRIFIABLE
 - **Sources** : —
 
 ### Rancor — Spirit
 - **Statut / catégorie** : LIVE (présumé) · endgame / info
-- **Effet LIVE + valeurs** : à chaque gen terminé, révélation des survivants ~3 s (mémoire : l'Obsession voit aussi le tueur — non vérifié) ; portes alimentées : l'Obsession est Exposed et peut être tuée à la main — UNCERTAIN
+- **Effet LIVE + valeurs** : à chaque gen terminé, révélation des survivants ~3 s (connaissance du modèle (antérieure à mi-2026), UNCERTAIN : l'Obsession voit aussi le tueur — non vérifié) ; portes alimentées : l'Obsession est Exposed et peut être tuée à la main — valeurs du seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN
 - **PTB 10.2.0** : UNCERTAIN
-- **Indice observable (survivant)** : Obsession (icône Obsession) ; en fin de partie, l'Obsession est Exposed ; mémoire : l'Obsession voit l'aura du tueur à chaque gen (UNCERTAIN)
-- **Soupçonner** : tueur qui bondit sur des survivants juste après chaque gen terminé + Obsession présente → plausible
+- **Indice observable (survivant)** : Obsession (icône Obsession) ; en fin de partie, l'Obsession est Exposed ; connaissance du modèle (antérieure à mi-2026), UNCERTAIN : l'Obsession voit l'aura du tueur à chaque gen (UNCERTAIN) (HEURISTIC)
+- **Soupçonner** : tueur qui bondit sur des survivants juste après chaque gen terminé + Obsession présente → plausible (HEURISTIC)
 - **Confirmer** : Obsession tuée à la main (Mori) en endgame
-- **Adaptation robuste** : **l'Obsession se tient loin du tueur en endgame** et sort en priorité ; bouger juste après chaque gen terminé
-- **Counterplay** : Distortion ; l'équipe couvre l'Obsession à la sortie
-- **Erreurs à ne pas faire** : l'Obsession qui fait du « heroic » en endgame
+- **Adaptation robuste** : **l'Obsession se tient loin du tueur en endgame** et sort en priorité ; bouger juste après chaque gen terminé (HEURISTIC)
+- **Counterplay** : Distortion ; l'équipe couvre l'Obsession à la sortie (HEURISTIC)
+- **Erreurs à ne pas faire** : l'Obsession qui fait du « heroic » en endgame (HEURISTIC)
 - **Menace (HEURISTIC)** : SoloQ 1-2 (Obsession) / SWF 1
 - **Écart avec le seed** : NON VÉRIFIABLE
 - **Sources** : —
 
 ### Hex: The Third Seal — Hag
 - **Statut / catégorie** : LIVE (présumé) · hex / info (Blindness)
-- **Effet LIVE + valeurs** : les 2/3/4 **derniers** survivants touchés sont Blindness tant que le totem tient — UNCERTAIN (seed : « les survivants que vous blessez » = formulation à préciser)
+- **Effet LIVE + valeurs** : les 2/3/4 **derniers** survivants touchés sont Blindness tant que le totem tient — UNCERTAIN (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) : « les survivants que vous blessez » = formulation à préciser)
 - **PTB 10.2.0** : UNCERTAIN
-- **Indice observable (survivant)** : **icône Blindness** après un coup ; perte des auras (Kindred, Bond…)
-- **Soupçonner / Confirmer** : Blindness après un coup → confirmé (hors Mindbreaker/add-ons)
-- **Adaptation robuste** : chercher/cleanser le totem ; communiquer vocalement (SWF) à la place des auras
-- **Counterplay** : Detective's Hunch (vision totems — interaction avec Blindness UNCERTAIN), Small Game
-- **Erreurs à ne pas faire** : compter sur Kindred au crochet
+- **Indice observable (survivant)** : **icône Blindness** après un coup ; perte des auras (Kindred, Bond…) (HEURISTIC)
+- **Soupçonner / Confirmer** : Blindness après un coup → confirmé (hors Mindbreaker/add-ons) (HEURISTIC)
+- **Adaptation robuste** : chercher/cleanser le totem ; communiquer vocalement (SWF) à la place des auras (HEURISTIC)
+- **Counterplay** : Detective's Hunch (vision totems — interaction avec Blindness UNCERTAIN), Small Game (HEURISTIC)
+- **Erreurs à ne pas faire** : compter sur Kindred au crochet (HEURISTIC)
 - **Menace (HEURISTIC)** : SoloQ 1 / SWF 0
 - **Écart avec le seed** : NON VÉRIFIABLE (IMPRÉCIS probable : « derniers » survivants touchés)
 - **Sources** : —
 
 ### Iron Maiden — Legion
 - **Statut / catégorie** : LIVE (présumé) · autre (anti-casier) / Exposed
-- **Effet LIVE + valeurs** : ouverture des casiers plus rapide ; survivant qui sort d'un casier : cri/localisation ~4 s + Exposed ~30 s (seed) — UNCERTAIN
+- **Effet LIVE + valeurs** : ouverture des casiers plus rapide ; survivant qui sort d'un casier : cri/localisation ~4 s + Exposed ~30 s (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)) — UNCERTAIN
 - **PTB 10.2.0** : UNCERTAIN
-- **Indice observable (survivant)** : **cri + icône Exposed en sortant d'un casier**
-- **Soupçonner / Confirmer** : Exposed à la sortie d'un casier → confirmé
-- **Adaptation robuste** : éviter les casiers (hors Head On/DS au bon moment) ; si utilisé, attendre que le tueur soit loin
-- **Counterplay** : ne pas utiliser les casiers comme cachette
-- **Erreurs à ne pas faire** : casier pour se cacher du tueur proche
+- **Indice observable (survivant)** : **cri + icône Exposed en sortant d'un casier** (HEURISTIC)
+- **Soupçonner / Confirmer** : Exposed à la sortie d'un casier → confirmé (HEURISTIC)
+- **Adaptation robuste** : éviter les casiers (hors Head On/DS au bon moment) ; si utilisé, attendre que le tueur soit loin (HEURISTIC)
+- **Counterplay** : ne pas utiliser les casiers comme cachette (HEURISTIC)
+- **Erreurs à ne pas faire** : casier pour se cacher du tueur proche (HEURISTIC)
 - **Menace (HEURISTIC)** : SoloQ 0-1 / SWF 0
 - **Écart avec le seed** : NON VÉRIFIABLE
 - **Sources** : —
 
 ### Mad Grit — Legion
 - **Statut / catégorie** : LIVE (présumé) · autre (transport)
-- **Effet LIVE + valeurs** : pendant le transport : pas de cooldown sur attaque ratée ; coup réussi → pause de la progression de débattement 2/3/4 s (seed) — UNCERTAIN
+- **Effet LIVE + valeurs** : pendant le transport : pas de cooldown sur attaque ratée ; coup réussi → pause de la progression de débattement 2/3/4 s (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé)) — UNCERTAIN
 - **PTB 10.2.0** : UNCERTAIN
-- **Indice observable (survivant)** : le tueur **frappe en portant** sans ralentir après un raté
-- **Soupçonner / Confirmer** : tueur qui swing en portant et récupère instantanément → quasi certain
-- **Adaptation robuste** : **ne pas body-block un tueur qui porte** ; garder ≥ 3-4 m ; flashlight/palette save seulement
-- **Counterplay** : saves à distance (flashlight, palette), pas au corps à corps
-- **Erreurs à ne pas faire** : se coller au tueur pour « prendre le coup »
+- **Indice observable (survivant)** : le tueur **frappe en portant** sans ralentir après un raté (HEURISTIC)
+- **Soupçonner / Confirmer** : tueur qui swing en portant et récupère instantanément → quasi certain (HEURISTIC)
+- **Adaptation robuste** : **ne pas body-block un tueur qui porte** ; garder ≥ 3-4 m ; flashlight/palette save seulement (HEURISTIC)
+- **Counterplay** : saves à distance (flashlight, palette), pas au corps à corps (HEURISTIC)
+- **Erreurs à ne pas faire** : se coller au tueur pour « prendre le coup » (HEURISTIC)
 - **Menace (HEURISTIC)** : SoloQ 1 / SWF 1
 - **Écart avec le seed** : NON VÉRIFIABLE
 - **Sources** : —
 
 ### Zanshin Tactics — Oni
 - **Statut / catégorie** : LIVE (présumé) · info/aura (map + palette)
-- **Effet LIVE + valeurs** : aura des palettes/fenêtres/murs cassables à portée ; survivant qui fait tomber une palette révélé quelques secondes (seed : 32 m, 3/4/5 s) — UNCERTAIN
+- **Effet LIVE + valeurs** : aura des palettes/fenêtres/murs cassables à portée ; survivant qui fait tomber une palette révélé quelques secondes (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) : 32 m, 3/4/5 s) — UNCERTAIN
 - **PTB 10.2.0** : UNCERTAIN
-- **Indice observable (survivant)** : aucun indice direct
-- **Soupçonner** : tueur qui revient droit sur toi juste après un drop de palette hors ligne de vue → plausible
-- **Adaptation robuste** : après un drop, **ne pas rester derrière la palette** ; changer de direction
-- **Counterplay** : Distortion
-- **Erreurs à ne pas faire** : drop + hide à côté
+- **Indice observable (survivant)** : aucun indice direct (HEURISTIC)
+- **Soupçonner** : tueur qui revient droit sur toi juste après un drop de palette hors ligne de vue → plausible (HEURISTIC)
+- **Adaptation robuste** : après un drop, **ne pas rester derrière la palette** ; changer de direction (HEURISTIC)
+- **Counterplay** : Distortion (HEURISTIC)
+- **Erreurs à ne pas faire** : drop + hide à côté (HEURISTIC)
 - **Menace (HEURISTIC)** : SoloQ 0-1 / SWF 0
 - **Écart avec le seed** : NON VÉRIFIABLE
 - **Sources** : —
 
 ### Blood Echo — Oni
 - **Statut / catégorie** : LIVE (présumé) · anti-soin / chase
-- **Effet LIVE + valeurs** : à l'accrochage, les autres survivants blessés deviennent Exhausted et Hemorrhage (seed : 20/25/30 s ; cooldown éventuel non mentionné par le seed) — UNCERTAIN
+- **Effet LIVE + valeurs** : à l'accrochage, les autres survivants blessés deviennent Exhausted et Hemorrhage (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) : 20/25/30 s ; cooldown éventuel non mentionné par le seed) — UNCERTAIN
 - **PTB 10.2.0** : UNCERTAIN
-- **Indice observable (survivant)** : **icônes Exhausted + Hemorrhage** au moment d'un accrochage alors que tu es blessé
-- **Soupçonner / Confirmer** : Exhausted sans avoir utilisé de perk d'exhaustion au moment d'un hook → confirmé
-- **Adaptation robuste** : ne pas compter sur son perk d'exhaustion juste après un accrochage adverse ; se soigner avant le prochain hook
-- **Counterplay** : rester sain ; perks non-exhaustion (Dead Hard est une Exhaustion — UNCERTAIN selon version)
-- **Erreurs à ne pas faire** : aller au crochet blessé en comptant sur Sprint Burst/Lithe
+- **Indice observable (survivant)** : **icônes Exhausted + Hemorrhage** au moment d'un accrochage alors que tu es blessé (HEURISTIC)
+- **Soupçonner / Confirmer** : Exhausted sans avoir utilisé de perk d'exhaustion au moment d'un hook → confirmé (HEURISTIC)
+- **Adaptation robuste** : ne pas compter sur son perk d'exhaustion juste après un accrochage adverse ; se soigner avant le prochain hook (HEURISTIC)
+- **Counterplay** : rester sain ; perks non-exhaustion (Dead Hard est une Exhaustion — UNCERTAIN selon version) (HEURISTIC)
+- **Erreurs à ne pas faire** : aller au crochet blessé en comptant sur Sprint Burst/Lithe (HEURISTIC)
 - **Menace (HEURISTIC)** : SoloQ 1 / SWF 1
 - **Écart avec le seed** : NON VÉRIFIABLE
 - **Sources** : —
 
 ### Forced Penance — Executioner
 - **Statut / catégorie** : LIVE (présumé) · anti-soin (Broken)
-- **Effet LIVE + valeurs** : un survivant qui prend un coup protecteur devient Broken (seed : 60/70/80 s) — UNCERTAIN
+- **Effet LIVE + valeurs** : un survivant qui prend un coup protecteur devient Broken (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) : 60/70/80 s) — UNCERTAIN
 - **PTB 10.2.0** : UNCERTAIN
-- **Indice observable (survivant)** : **icône Broken** après avoir pris un coup pour un coéquipier
-- **Soupçonner / Confirmer** : Broken après un protection hit → confirmé
-- **Adaptation robuste** : réserver les coups protecteurs aux moments décisifs (endgame, sauvetage)
-- **Counterplay** : body-block sans prendre le coup ; Borrowed Time interaction UNCERTAIN
-- **Erreurs à ne pas faire** : « farmer » des protection hits en mid-game
+- **Indice observable (survivant)** : **icône Broken** après avoir pris un coup pour un coéquipier (HEURISTIC)
+- **Soupçonner / Confirmer** : Broken après un protection hit → confirmé (HEURISTIC)
+- **Adaptation robuste** : réserver les coups protecteurs aux moments décisifs (endgame, sauvetage) (HEURISTIC)
+- **Counterplay** : body-block sans prendre le coup ; Borrowed Time interaction UNCERTAIN (HEURISTIC)
+- **Erreurs à ne pas faire** : « farmer » des protection hits en mid-game (HEURISTIC)
 - **Menace (HEURISTIC)** : SoloQ 0-1 / SWF 1 (SWF prend plus de protection hits)
 - **Écart avec le seed** : NON VÉRIFIABLE
 - **Sources** : —
 
 ### Forced Hesitation — Singularity
 - **Statut / catégorie** : LIVE (présumé) · slugging / chase
-- **Effet LIVE + valeurs** : quand le tueur met un survivant au sol, les survivants proches (seed : 16 m) sont Hindered (seed : 20 %, 10 s, cooldown 40/35/30 s) — UNCERTAIN
+- **Effet LIVE + valeurs** : quand le tueur met un survivant au sol, les survivants proches (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) : 16 m) sont Hindered (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) : 20 %, 10 s, cooldown 40/35/30 s) — UNCERTAIN
 - **PTB 10.2.0** : UNCERTAIN
-- **Indice observable (survivant)** : **icône Hindered** quand un coéquipier tombe près de toi
-- **Soupçonner / Confirmer** : Hindered au moment du down d'un proche → confirmé
-- **Adaptation robuste** : **ne pas suivre la chase de près** ; attendre à > 16 m pour un save
-- **Counterplay** : saves à distance (flashlight longue portée, palette), pas de body-block collé
-- **Erreurs à ne pas faire** : « shadow » la chase à 5 m pour un save
+- **Indice observable (survivant)** : **icône Hindered** quand un coéquipier tombe près de toi (HEURISTIC)
+- **Soupçonner / Confirmer** : Hindered au moment du down d'un proche → confirmé (HEURISTIC)
+- **Adaptation robuste** : **ne pas suivre la chase de près** ; attendre à > 16 m pour un save (HEURISTIC)
+- **Counterplay** : saves à distance (flashlight longue portée, palette), pas de body-block collé (HEURISTIC)
+- **Erreurs à ne pas faire** : « shadow » la chase à 5 m pour un save (HEURISTIC)
 - **Menace (HEURISTIC)** : SoloQ 1 / SWF 1
 - **Écart avec le seed** : NON VÉRIFIABLE
 - **Sources** : —
 
 ### Genetic Limits — Singularity
 - **Statut / catégorie** : LIVE (présumé) · chase (Exhausted)
-- **Effet LIVE + valeurs** : tout survivant qui perd un état de santé devient Exhausted (seed : 6/7/8 s) — UNCERTAIN
+- **Effet LIVE + valeurs** : tout survivant qui perd un état de santé devient Exhausted (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) : 6/7/8 s) — UNCERTAIN
 - **PTB 10.2.0** : UNCERTAIN
-- **Indice observable (survivant)** : **icône Exhausted** juste après un coup
-- **Soupçonner / Confirmer** : Exhausted après coup sans avoir utilisé de perk → confirmé
-- **Adaptation robuste** : ne pas planifier Sprint Burst/Lithe « juste après le coup » ; utiliser le speed boost pour rejoindre un loop fort
-- **Counterplay** : perks non-exhaustion (Resurgence, etc.)
-- **Erreurs à ne pas faire** : tenter Lithe dans les secondes suivant un coup
+- **Indice observable (survivant)** : **icône Exhausted** juste après un coup (HEURISTIC)
+- **Soupçonner / Confirmer** : Exhausted après coup sans avoir utilisé de perk → confirmé (HEURISTIC)
+- **Adaptation robuste** : ne pas planifier Sprint Burst/Lithe « juste après le coup » ; utiliser le speed boost pour rejoindre un loop fort (HEURISTIC)
+- **Counterplay** : perks non-exhaustion (Resurgence, etc.) (HEURISTIC)
+- **Erreurs à ne pas faire** : tenter Lithe dans les secondes suivant un coup (HEURISTIC)
 - **Menace (HEURISTIC)** : SoloQ 1 / SWF 1
 - **Écart avec le seed** : NON VÉRIFIABLE
 - **Sources** : —
 
 ### Alien Instinct — Xenomorph
 - **Statut / catégorie** : LIVE (présumé) · info/aura + Oblivious
-- **Effet LIVE + valeurs** : à chaque accrochage, le survivant blessé le plus éloigné est révélé et devient Oblivious (seed : 8 s, 40/50/60 s) — UNCERTAIN
+- **Effet LIVE + valeurs** : à chaque accrochage, le survivant blessé le plus éloigné est révélé et devient Oblivious (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) : 8 s, 40/50/60 s) — UNCERTAIN
 - **PTB 10.2.0** : UNCERTAIN
-- **Indice observable (survivant)** : **icône Oblivious** (plus de heartbeat) au moment d'un accrochage alors que tu es blessé et loin
-- **Soupçonner / Confirmer** : Oblivious qui apparaît sur hook d'un coéquipier → confirmé
-- **Adaptation robuste** : blessé + loin du crochet = **bouger dès l'accrochage** ; vigilance visuelle (pas de heartbeat)
-- **Counterplay** : se soigner ; Distortion ; Spine Chill (indépendant du TR)
-- **Erreurs à ne pas faire** : rester sur son gen blessé en se fiant au heartbeat
+- **Indice observable (survivant)** : **icône Oblivious** (plus de heartbeat) au moment d'un accrochage alors que tu es blessé et loin (HEURISTIC)
+- **Soupçonner / Confirmer** : Oblivious qui apparaît sur hook d'un coéquipier → confirmé (HEURISTIC)
+- **Adaptation robuste** : blessé + loin du crochet = **bouger dès l'accrochage** ; vigilance visuelle (pas de heartbeat) (HEURISTIC)
+- **Counterplay** : se soigner ; Distortion ; Spine Chill (indépendant du TR) (HEURISTIC)
+- **Erreurs à ne pas faire** : rester sur son gen blessé en se fiant au heartbeat (HEURISTIC)
 - **Menace (HEURISTIC)** : SoloQ 1-2 / SWF 1
 - **Écart avec le seed** : NON VÉRIFIABLE
 - **Sources** : —
@@ -422,7 +424,7 @@ Périmètre (28 perks) : Whispers, Territorial Imperative, Predator, Distressing
 | K94-10 | Hex: Crowd Control : bloque les 4/5/6 dernières fenêtres (rework 9.5.0) | [9] | LIVE (depuis 9.5.0) | STRONG_SECONDARY (via audit) |
 | K94-11 | Coulrophobia : 20/25/30 % (10.1.0) | [9] | LIVE (depuis 10.1.0) | STRONG_SECONDARY (via audit) |
 | K94-12 | Shattered Hope fait partie des reworks du PTB 10.2.0 | [9] | PTB 10.2.0 | STRONG_SECONDARY (via audit) |
-| K94-13 | Toutes les autres valeurs du périmètre (20 perks) | mémoire / seed | ? | UNCERTAIN |
+| K94-13 | Toutes les autres valeurs du périmètre (20 perks) | seed, NON RE-VÉRIFIÉ (quota) / connaissance du modèle | ? | UNCERTAIN |
 
 ## Conflits
 
@@ -434,7 +436,7 @@ Périmètre (28 perks) : Whispers, Territorial Imperative, Predator, Distressing
 
 #### CONFLICT-L3-94-02 : Superior Anatomy (portée / cooldown)
 - Source A : seed p94 — 12 m, 10 s, cooldown 25 s.
-- Source B : mémoire du modèle (version antérieure) — 8 m, cooldown 30 s ; non vérifiable cette session.
+- Source B : connaissance du modèle (antérieure à mi-2026), UNCERTAIN (version antérieure) — 8 m, cooldown 30 s ; non vérifiable cette session.
 - Hypothèse : changement de valeurs entre 2024 et 2026 possible.
 - Résolution : UNRESOLVED
 
@@ -454,7 +456,7 @@ Périmètre (28 perks) : Whispers, Territorial Imperative, Predator, Distressing
 | Dominance | coffres/totems « touchés », « avec révélation d'aura » | **1re** interaction ; aura **du prop** au tueur [8] | IMPRÉCIS |
 | Hex: Crowd Control | 4/5/6 dernières fenêtres | idem (audit 9.5.0) [9] | OK (cœur) ; bonus NON VÉRIFIABLE |
 | Coulrophobia | 20/25/30 %, « nerf 10.1.0 » | 20/25/30 % en 10.1.0 [9] | OK (sens nerf/buff NON VÉRIFIABLE) |
-| Hex: The Third Seal | « les survivants que vous blessez » | mémoire : les 2/3/4 **derniers** touchés | NON VÉRIFIABLE (IMPRÉCIS probable) |
+| Hex: The Third Seal | « les survivants que vous blessez » | connaissance du modèle (antérieure à mi-2026), UNCERTAIN : les 2/3/4 **derniers** touchés | NON VÉRIFIABLE (IMPRÉCIS probable) |
 | Superior Anatomy | 12 m, 10 s, CD 25 s | non vérifié | NON VÉRIFIABLE (voir CONFLICT-L3-94-02) |
 | 18 autres perks (Jagged Compass, Huntress Lullaby, Unnerving Presence, Hubris, Dissolution, Merciless Storm, Haunted Ground, Rancor, Iron Maiden, Mad Grit, Zanshin, Blood Echo, Forced Penance, Forced Hesitation, Genetic Limits, Alien Instinct…) | valeurs p94 | non vérifié (budget épuisé) | NON VÉRIFIABLE |
 | PTB 10.2.0 p98 (Whispers, Distressing, Insidious, Knock Out, Shattered Hope, Dominance, Superior Anatomy, Dissolution) | valeurs PTB | aucune source PTB lue | NON VÉRIFIABLE (correctement étiquetées PTB dans le seed) |

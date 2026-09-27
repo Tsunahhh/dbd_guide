@@ -1,9 +1,11 @@
 # Lot 2 — Perks survivant, page 23 du guide seed (tiers S et A)
 
+**Couverture web : 7 éléments vérifiés par recherche (Windows of Opportunity, Will to Live, Lithe, Adrenaline, Sprint Burst, Five Moves Ahead, Deliverance) / 14 non re-vérifiés (quota)** — dont 3 recoupés partiellement avec l'audit interne [15] (Off the Record, Unbreakable, Hyperfocus).
+
 - Référence : **LIVE 10.1.2a** (17/09/2026). **PTB 10.2.0** (15-21/09/2026) = non LIVE, toujours étiqueté PTB.
 - Méthode : WebSearch seul (résumés de recherche ; WebFetch bloqué). Confiance plafonnée à STRONG_SECONDARY, sauf quand une valeur recoupe `kb/seed/audit_phase0.txt` (lot 1, notes officielles lues), noté [15].
 - **Limite de session majeure** : le quota WebSearch de la session (200 appels, partagé entre agents) a été épuisé après **10 recherches** de ce lot. Seules 7 perks sur 21 ont pu être vérifiées en ligne (Windows of Opportunity, Five Moves Ahead, Will to Live, Lithe, Sprint Burst, Deliverance, Adrenaline en partie). Pour les 14 autres, la ligne « Effet LIVE » reprend la connaissance du modèle, étiquetée **UNCERTAIN (non vérifié cette session)**, et l'écart avec le seed est noté **NON VÉRIFIABLE**. À reprendre dans un lot ultérieur.
-- Les notes de valeur (0-3) sont **HEURISTIC** (avis de l'auteur du lot, pas des données).
+- Les notes de valeur (0-3), synergies, anti-synergies comportementales et puces « quand elle produit / n'en produit pas » sont **HEURISTIC / EXPERT OPINION** (avis de l'auteur du lot, pas des données).
 - DR = Diminishing Returns (9.6.0, [15]) : entre modificateurs **identiques** issus de Powers / Items / Perks / Offerings, le plus fort compte à 100 %, puis 50 / 25 / 12,5 / 5 %. Les add-ons sont exclus. La liste exacte des modificateurs concernés n'est pas publiée ; les interactions DR ci-dessous sont donc des **HYPOTHESIS**, sauf mention contraire.
 
 Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, Lithe, Adrenaline, Sprint Burst, Off the Record, Five Moves Ahead, Déjà Vu, Resilience, Kindred, Unbreakable, Resurgence, Dead Hard, Finesse, Prove Thyself, Background Player, Made for This, Bond, Iron Will, Hyperfocus, Deliverance.
@@ -98,7 +100,7 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
 
 ### Off the Record — Zarina Kassir
 - **Statut** : LIVE 10.1.2a ; 9.2.0 retire l'Endurance, 9.2.2 la rend avec une durée de 30/35/40 s [15].
-- **Effet LIVE** : après le décrochage, pendant 30/35/40 s : Endurance, gémissements réduits de 100 %, aura cachée au tueur. Durée et Endurance : STRONG_SECONDARY via [15] (notes 9.2.2) ; texte exact **non relu cette session** (quota).
+- **Effet LIVE** (seed, NON RE-VÉRIFIÉ par WebSearch (quota épuisé) ; durée et Endurance recoupées avec [15]) : après le décrochage, pendant 30/35/40 s : Endurance, gémissements réduits de 100 %, aura cachée au tueur. Durée et Endurance : STRONG_SECONDARY via [15] (notes 9.2.2) ; texte exact **non relu cette session** (quota).
 - **Valeurs / CD / conditions / limites** : 30/35/40 s (LIVE, [15]). Condition « tant que des générateurs restent à réparer » : UNCERTAIN. Désactivation sur action conspicuous : affirmée par le seed (ch. 4-7), non vérifiée.
 - **PTB 10.2.0** : non vérifiée (UNCERTAIN).
 - **Interactions, DR, anti-synergies** : l'Endurance de la perk double celle des protections de base (10 s, 10.1.0) ; un seul état d'Endurance à la fois, donc son vrai apport vient des 20-30 s après la fin des protections de base (HYPOTHESIS). Endurance puis Deep Wound : Made for This ou un soin deviennent prioritaires.
@@ -132,11 +134,11 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
 
 ## Tier A du seed
 
-> Pour les 14 perks suivantes, **aucune recherche web n'a pu être faite** (quota épuisé). Les effets sont donnés d'après la connaissance du modèle, étiquetés UNCERTAIN, pour structurer la reprise. Aucune correction du seed n'en est tirée.
+> Pour les 14 perks suivantes, **aucune recherche web n'a pu être faite** (quota épuisé). Les effets reprennent le texte du seed (« seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) », UNCERTAIN) ; les ajouts tirés de la connaissance du modèle sont étiquetés « connaissance du modèle (antérieure à mi-2026), UNCERTAIN ». Les notes de valeur, les synergies et les sections « quand elle produit de la valeur » sont HEURISTIC / EXPERT OPINION, pour structurer la reprise. Aucune correction du seed n'en est tirée.
 
 ### Déjà Vu — Générale
 - **Statut** : LIVE (présumée).
-- **Effet LIVE** : auras des 3 générateurs les plus proches les uns des autres ; réparation 4/5/6 % plus rapide sur ces gens. UNCERTAIN. Point à vérifier : l'aura est-elle permanente (seed) ou limitée à 30 s au début de l'épreuve et à chaque gen terminé (souvenir du modèle, versions 6.x) ?
+- **Effet LIVE** (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN) : auras des 3 générateurs les plus proches les uns des autres ; réparation 4/5/6 % plus rapide sur ces gens. UNCERTAIN. Point à vérifier : l'aura est-elle permanente (seed) ou limitée à 30 s au début de l'épreuve et à chaque gen terminé (connaissance du modèle (antérieure à mi-2026), UNCERTAIN) ?
 - **Valeurs / CD / conditions / limites** : 4/5/6 % (UNCERTAIN).
 - **PTB 10.2.0** : UNCERTAIN.
 - **Interactions, DR, anti-synergies** : se cumule avec Resilience et Prove Thyself (vitesse de réparation) : cumul probablement soumis aux DR 9.6.0 (HYPOTHESIS).
@@ -152,7 +154,7 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
 
 ### Resilience — Générale
 - **Statut** : LIVE (présumée) ; buff annoncé au PTB 10.2.0 selon le seed.
-- **Effet LIVE** : blessé : +3/6/9 % de vitesse pour réparer, soigner, saboter, décrocher, purifier / bénir, ouvrir les portes, déverrouiller et sauter. UNCERTAIN.
+- **Effet LIVE** (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN) : blessé : +3/6/9 % de vitesse pour réparer, soigner, saboter, décrocher, purifier / bénir, ouvrir les portes, déverrouiller et sauter. UNCERTAIN.
 - **Valeurs / CD / conditions / limites** : 3/6/9 % (UNCERTAIN).
 - **PTB 10.2.0** : 7/8/9 % selon le seed ; **non retrouvé** dans les résumés lus ([1] ne la cite pas). UNCERTAIN.
 - **Interactions, DR, anti-synergies** : bonus de vitesse de saut et de réparation cumulés avec Finesse, Déjà Vu, Prove Thyself : DR probables (HYPOTHESIS). Anti-synergie de rôle : pousse à rester blessé.
@@ -168,7 +170,7 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
 
 ### Kindred — Générale
 - **Statut** : LIVE (présumée).
-- **Effet LIVE** : vous accroché : tous les survivants voient les auras les uns des autres, et celle du tueur s'il est à 8/12/16 m ou moins du crochet ; même effet pour vous quand un autre survivant est accroché. UNCERTAIN.
+- **Effet LIVE** (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN) : vous accroché : tous les survivants voient les auras les uns des autres, et celle du tueur s'il est à 8/12/16 m ou moins du crochet ; même effet pour vous quand un autre survivant est accroché. UNCERTAIN.
 - **Valeurs / CD / conditions / limites** : 8/12/16 m (UNCERTAIN).
 - **PTB 10.2.0** : 14/15/16 m selon le seed ; non vérifié. UNCERTAIN.
 - **Interactions, DR, anti-synergies** : redondante avec Bond pour les auras alliées. L'audit relève une incohérence interne du seed sur Kindred [15].
@@ -184,7 +186,7 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
 
 ### Unbreakable — Bill Overbeck
 - **Statut** : LIVE ; limitée en 9.5.0 [15].
-- **Effet LIVE** : une fois par épreuve, quand le tueur vous met à terre, vous pouvez vous relever entièrement seul ; récupération 25/30/35 % plus rapide. Limite 9.5.0 (mises à terre causées par le tueur, une fois par épreuve) : STRONG_SECONDARY [15] ; pourcentages UNCERTAIN.
+- **Effet LIVE** (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN) : une fois par épreuve, quand le tueur vous met à terre, vous pouvez vous relever entièrement seul ; récupération 25/30/35 % plus rapide. Limite 9.5.0 (mises à terre causées par le tueur, une fois par épreuve) : STRONG_SECONDARY [15] ; pourcentages UNCERTAIN.
 - **Valeurs / CD / conditions / limites** : une fois par épreuve (LIVE, [15]) ; 25/30/35 % (UNCERTAIN).
 - **PTB 10.2.0** : UNCERTAIN.
 - **Interactions, DR, anti-synergies** : l'auto-récupération basekit LIVE (sans maintenir de bouton, depuis 9.2.0 [15]) réduit le coût d'attente. Vitesse de récupération cumulée avec Tenacity / Flip-Flop : DR probables (HYPOTHESIS).
@@ -200,7 +202,7 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
 
 ### Resurgence — Jill Valentine
 - **Statut** : LIVE (présumée).
-- **Effet LIVE** : quand vous êtes décroché (ou vous décrochez seul), vous gagnez immédiatement 50/60/70 % de progression de soin. UNCERTAIN.
+- **Effet LIVE** (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN) : quand vous êtes décroché (ou vous décrochez seul), vous gagnez immédiatement 50/60/70 % de progression de soin. UNCERTAIN.
 - **Valeurs / CD / conditions / limites** : 50/60/70 % (UNCERTAIN).
 - **PTB 10.2.0** : UNCERTAIN.
 - **Interactions, DR, anti-synergies** : se combine mal avec Will to Live et Off the Record : finir le soin est une action conspicuous qui les désactive (à vérifier).
@@ -216,7 +218,7 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
 
 ### Dead Hard — David King
 - **Statut** : LIVE (présumée).
-- **Effet LIVE** : après un décrochage, blessé et en course : bouton de capacité active = protection brève contre le coup (0,5 s selon le seed) ; Exhausted 60/50/40 s. UNCERTAIN (nature exacte : Endurance ou invulnérabilité, versions 2022-2023 ; non vérifié).
+- **Effet LIVE** (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN) : après un décrochage, blessé et en course : bouton de capacité active = protection brève contre le coup (0,5 s selon le seed) ; Exhausted 60/50/40 s. UNCERTAIN (nature exacte, Endurance ou invulnérabilité : connaissance du modèle (antérieure à mi-2026), UNCERTAIN).
 - **Valeurs / CD / conditions / limites** : 0,5 s ; 60/50/40 s (UNCERTAIN).
 - **PTB 10.2.0** : UNCERTAIN.
 - **Interactions, DR, anti-synergies** : perk d'Exhaustion (une seule utile) ; ne s'active qu'après un décrochage.
@@ -232,7 +234,7 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
 
 ### Finesse — Lara Croft
 - **Statut** : LIVE (présumée).
-- **Effet LIVE** : en bonne santé, sauts rapides 20 % plus rapides ; cooldown de 40/35/30 s après un saut rapide. UNCERTAIN.
+- **Effet LIVE** (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN) : en bonne santé, sauts rapides 20 % plus rapides ; cooldown de 40/35/30 s après un saut rapide. UNCERTAIN.
 - **Valeurs / CD / conditions / limites** : 20 % ; 40/35/30 s (UNCERTAIN).
 - **PTB 10.2.0** : UNCERTAIN.
 - **Interactions, DR, anti-synergies** : conditions opposées à Resilience (en bonne santé vs blessé) : les deux ne sont jamais actives en même temps (FACT logique, si les conditions sont exactes). Vitesse de saut soumise aux DR avec Windows PTB (HYPOTHESIS).
@@ -248,7 +250,7 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
 
 ### Prove Thyself — Dwight Fairfield
 - **Statut** : LIVE (présumée).
-- **Effet LIVE** : le seed dit « +6/8/10 % par survivant à 4 m, pour tous ». La mécanique exacte (cumul par survivant ou non, bonus aux coéquipiers) n'est pas vérifiée. UNCERTAIN.
+- **Effet LIVE** (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN) : le seed dit « +6/8/10 % par survivant à 4 m, pour tous ». La mécanique exacte (cumul par survivant ou non, bonus aux coéquipiers) n'est pas vérifiée. UNCERTAIN.
 - **Valeurs / CD / conditions / limites** : 4 m ; 6/8/10 % (UNCERTAIN).
 - **PTB 10.2.0** : UNCERTAIN.
 - **Interactions, DR, anti-synergies** : plusieurs Prove Thyself sur le même gen = modificateurs identiques, donc DR très probables (HYPOTHESIS). Réparer à plusieurs est inefficace contre les tueurs à zone (Pop, Surge, Nurse).
@@ -264,7 +266,7 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
 
 ### Background Player — Renato Lyra
 - **Statut** : LIVE (présumée).
-- **Effet LIVE** : quand le tueur ramasse un survivant, vous avez 10 s pour commencer à courir et gagner +50 % de Haste pendant 5 s ; Exhausted 30/25/20 s (seed). UNCERTAIN. L'audit signale une **incohérence interne du seed** sur cette perk [15].
+- **Effet LIVE** (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN) : quand le tueur ramasse un survivant, vous avez 10 s pour commencer à courir et gagner +50 % de Haste pendant 5 s ; Exhausted 30/25/20 s (seed). UNCERTAIN. L'audit signale une **incohérence interne du seed** sur cette perk [15].
 - **Valeurs / CD / conditions / limites** : 10 s ; 50 % / 5 s ; 30/25/20 s (UNCERTAIN).
 - **PTB 10.2.0** : UNCERTAIN.
 - **Interactions, DR, anti-synergies** : Exhaustion (une seule utile).
@@ -280,7 +282,7 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
 
 ### Made for This — Gabriel Soma
 - **Statut** : LIVE (présumée).
-- **Effet LIVE** : +3 % de Haste avec Deep Wound ; quand vous finissez de soigner un allié alors que vous êtes blessé : Endurance 6/8/10 s (seed). UNCERTAIN (Haste peut-être 1/2/3 % selon les versions).
+- **Effet LIVE** (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN) : +3 % de Haste avec Deep Wound ; quand vous finissez de soigner un allié alors que vous êtes blessé : Endurance 6/8/10 s (seed). UNCERTAIN ; Haste peut-être 1/2/3 % selon les versions : connaissance du modèle (antérieure à mi-2026), UNCERTAIN.
 - **Valeurs / CD / conditions / limites** : 3 % ; 6/8/10 s (UNCERTAIN).
 - **PTB 10.2.0** : UNCERTAIN.
 - **Interactions, DR, anti-synergies** : Haste cumulée avec d'autres Haste (Hope, protections de base) : DR probables (HYPOTHESIS).
@@ -296,7 +298,7 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
 
 ### Bond — Dwight Fairfield
 - **Statut** : LIVE (présumée).
-- **Effet LIVE** : auras des autres survivants dans un rayon de 20/28/36 m. UNCERTAIN.
+- **Effet LIVE** (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN) : auras des autres survivants dans un rayon de 20/28/36 m. UNCERTAIN.
 - **Valeurs / CD / conditions / limites** : 20/28/36 m (UNCERTAIN).
 - **PTB 10.2.0** : UNCERTAIN.
 - **Interactions, DR, anti-synergies** : redondante avec Kindred (pendant les crochets) et Empathy.
@@ -312,7 +314,7 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
 
 ### Iron Will — Jake Park
 - **Statut** : LIVE (présumée).
-- **Effet LIVE** : blessé, gémissements de douleur réduits ; inactive si vous êtes Exhausted. Le seed donne 80/90/100 % ; la connaissance du modèle suggère 50/75/100 % (versions antérieures). UNCERTAIN, à vérifier en priorité.
+- **Effet LIVE** (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN) : blessé, gémissements de douleur réduits ; inactive si vous êtes Exhausted. Le seed donne 80/90/100 % ; connaissance du modèle (antérieure à mi-2026), UNCERTAIN : 50/75/100 %. UNCERTAIN, à vérifier en priorité.
 - **Valeurs / CD / conditions / limites** : pourcentages UNCERTAIN ; condition non-Exhausted (UNCERTAIN).
 - **PTB 10.2.0** : UNCERTAIN.
 - **Interactions, DR, anti-synergies** : anti-synergie avec les perks d'Exhaustion (Iron Will est coupée pendant l'Exhausted qu'elles provoquent). Redondante pendant Off the Record.
@@ -328,7 +330,7 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
 
 ### Hyperfocus — Rebecca Chambers
 - **Statut** : LIVE (présumée).
-- **Effet LIVE** : chaque great skill check en réparation ou en soin donne un jeton (max 6). Par jeton : skill checks +4 % plus fréquents, aiguille +4 % plus rapide, bonus de progression du great +10/20/30 %. Jetons perdus sur un good, un raté ou un arrêt. UNCERTAIN.
+- **Effet LIVE** (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN) : chaque great skill check en réparation ou en soin donne un jeton (max 6). Par jeton : skill checks +4 % plus fréquents, aiguille +4 % plus rapide, bonus de progression du great +10/20/30 %. Jetons perdus sur un good, un raté ou un arrêt. UNCERTAIN.
 - **Valeurs / CD / conditions / limites** : 6 jetons ; 4 % ; 10/20/30 % (UNCERTAIN).
 - **PTB 10.2.0** : UNCERTAIN.
 - **Interactions, DR, anti-synergies** : **soumise aux DR** (chance de skill check, au sein du rôle survivant ; seuls les add-ons sont exclus) : STRONG_SECONDARY [15], qui corrige l'ancienne affirmation « Hyperfocus hors DR ». Anti-synergie avec les tueurs à skill checks difficiles (Unnerving Presence, Merciless Storm, Doctor).
@@ -414,10 +416,10 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
 | Off the Record | 30/35/40 s, Endurance | idem [15] | OK (conditions NON VÉRIFIABLE) |
 | Unbreakable | limitée aux mises à terre par le tueur (9.5.0) | idem [15] | OK (valeurs NON VÉRIFIABLE) |
 | Hyperfocus | aucune mention des DR | soumise aux DR [15] | IMPRÉCIS |
-| Iron Will | 80/90/100 % | non vérifié ; souvenir du modèle : 50/75/100 % | NON VÉRIFIABLE (écart probable) |
+| Iron Will | 80/90/100 % | non re-vérifié (quota) ; connaissance du modèle (antérieure à mi-2026), UNCERTAIN : 50/75/100 % | NON VÉRIFIABLE (écart probable) |
 | Déjà Vu | aura permanente (implicite) | non vérifié ; possiblement 30 s par événement | NON VÉRIFIABLE |
 | Resilience PTB 7/8/9 %, Kindred PTB 14/15/16 m | cités comme PTB | absents des résumés lus | NON VÉRIFIABLE |
-| Resurgence, Dead Hard, Finesse, Prove Thyself, Background Player, Made for This, Bond, Kindred, Resilience (LIVE) | valeurs page 23 | aucune recherche possible (quota) | NON VÉRIFIABLE |
+| Resurgence, Dead Hard, Finesse, Prove Thyself, Background Player, Made for This, Bond, Kindred, Resilience (LIVE) | valeurs page 23 | seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) | NON VÉRIFIABLE |
 
 ## Questions ouvertes
 

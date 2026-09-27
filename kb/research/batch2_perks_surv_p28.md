@@ -1,8 +1,11 @@
 # Lot 2 — Perks survivant, page 28 du guide seed (ch3_survperks.txt l. 651-760)
 
+Couverture web : 18 éléments vérifiés par recherche / 6 non re-vérifiés (quota)
+
 - Référence : **LIVE 10.1.2a** (17/09/2026). **PTB 10.2.0 non LIVE.** Travail du 27/09/2026.
 - Méthode : WebSearch uniquement ; pages non lues directement → « via résumé de recherche ». Confiance max **STRONG_SECONDARY** sauf recoupement avec l'audit phase 0 (notes officielles 10.1.0 → VERIFIED_MULTI_SOURCE).
-- **Incident** : le budget WebSearch de la session (200 appels, partagé entre agents) a été **épuisé** après 18 perks. Les 6 dernières perks (Lend a Hand, Fruits of Your Labor, Left Behind, Open-Handed, Streetwise, Boon: Illumination) et les points PTB de Flow State / Boon: Illumination sont donc **NON VÉRIFIÉS** : seul le contenu du seed et, le cas échéant, un souvenir du modèle étiqueté HYPOTHESIS sont indiqués.
+- **Couverture web : 18 éléments vérifiés par recherche / 6 non re-vérifiés (quota)** (+ PTB de Flow State et de Boon: Illumination non re-vérifiés).
+- **Incident** : quota WebSearch de la session (200/200, partagé entre agents) épuisé après 18 perks. Lend a Hand, Fruits of Your Labor, Left Behind, Open-Handed, Streetwise et Boon: Illumination portent la mention « seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) », confiance UNCERTAIN ; tout ajout issu de la mémoire du modèle est étiqueté « connaissance du modèle (antérieure à mi-2026), UNCERTAIN ».
 - Notes « Valeur » = **HEURISTIC** (0-3). Difficulté 1 facile – 3 exigeante (HEURISTIC).
 - Périmètre : 24 perks.
 
@@ -253,7 +256,7 @@
 ### Flow State — Kwon Tae-young
 - **Statut** : LIVE 10.1.2a (9.5.0).
 - **Effet LIVE** : +1 token par gen terminé (max 5) ; par token : bénir/purifier, soigner et décrocher 8/9/10 % plus vite — STRONG_SECONDARY [26]
-- **PTB 10.2.0** : seed : 13/14/15 %. **NON VÉRIFIÉ** (recherche refusée : budget épuisé). Flow State non cité dans les résumés PTB lus pour Do No Harm.
+- **PTB 10.2.0** : seed : 13/14/15 % — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN. Flow State n'apparaît pas dans les résumés PTB lus pour Do No Harm (ce qui ne prouve rien).
 - **Interactions, DR** : vitesse de soin cumulée avec Botany/Do No Harm → DR probable — HYPOTHESIS.
 - **Synergies** : Boon: Circle of Healing, Lend a Hand, Boon: Illumination (totems), Borrowed Time.
 - **Difficulté** : 1.
@@ -264,59 +267,85 @@
 - **Sources** : [26]
 
 ### Lend a Hand — Shane Wiigwaas
-- **Statut** : LIVE 10.1.2a selon le seed (10.0.x) — **NON VÉRIFIÉ** (budget WebSearch épuisé).
-- **Effet LIVE** : non vérifié. Seed : après avoir béni/purifié un totem, pendant un soin sur un allié (une fois par allié), il reçoit 2/3/4 charges de soin permanentes — UNCERTAIN.
-- **PTB 10.2.0** : UNCERTAIN.
-- **Interactions / Synergies** : Flow State, Boons, Inner Strength (HEURISTIC, basé sur le texte seed).
-- **Difficulté** : 2 (HEURISTIC).
-- **Valeur (HEURISTIC, texte seed)** : SoloQ 1 · SWF 1 · chase 0 · macro 0 · info 0 · anti-tunnel 0 · soin 1 · gen 0 · endgame 0
-- **Quand** : non évaluable proprement sans l'effet vérifié.
+- **Statut** : LIVE 10.1.2a d'après le seed (perk du chapitre 10.0.x) — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN.
+- **Effet LIVE** : seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) : après avoir béni ou purifié un totem, pendant un soin sur un allié (une fois par allié), celui-ci reçoit 2/3/4 charges de soin permanentes — UNCERTAIN.
+- **Valeurs / CD / conditions / limites** : seed : 2/3/4 charges ; une fois par allié — UNCERTAIN. Sens exact de « charges de soin permanentes » non vérifié (HYPOTHESIS : progression de soin acquise d'avance, soit ≈ 13-25 % d'un soin si un soin vaut 16 charges, valeur de référence non re-vérifiée).
+- **PTB 10.2.0** : UNCERTAIN (le seed ne la cite pas comme modifiée ; non recherché).
+- **Interactions, DR** : pas un modificateur de vitesse → DR 9.6.0 a priori non concernée (HYPOTHESIS).
+- **Synergies (HEURISTIC)** : Flow State (totems + soins), Boons, Inner Strength, Counterforce.
+- **Difficulté (HEURISTIC)** : 2 (condition totem avant le soin).
+- **Valeur (HEURISTIC, basée sur le texte seed)** : SoloQ 1 · SWF 1 · chase 0 · macro 1 · info 0 · anti-tunnel 1 · soin 2 · gen 0 · endgame 0
+- **Produit de la valeur (HEURISTIC)** : pré-soigner les alliés avant qu'ils soient touchés : leur prochain soin est plus court, donc moins de temps hors gen.
+- **N'en produit pas (HEURISTIC)** : killer qui garde ses totems (peu de totems accessibles) ; « une fois par allié » plafonne le gain total.
 - **Écart avec le seed** : NON VÉRIFIABLE.
-- **Sources** : aucune.
+- **Sources** : aucune source web (seed uniquement).
 
 ### Fruits of Your Labor — Aurora Stardotter
-- **Statut** : LIVE (10.1.0) selon seed — **NON VÉRIFIÉ**.
-- **Effet LIVE** : non vérifié. Seed : token par gen fini ; en finissant un gen, par token +5 % Haste 2 s et +10/15/20 % de progression de soin — UNCERTAIN (le « progression de soin » à la fin d'un gen est ambigu).
-- **PTB 10.2.0** : UNCERTAIN.
-- **Interactions** : Haste soumise à DR 9.6.0 (Haste identique) — HYPOTHESIS.
-- **Difficulté / Valeur** : non évaluées (effet non vérifié).
+- **Statut** : LIVE 10.1.2a d'après le seed (perk du chapitre 10.1.0) — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN.
+- **Effet LIVE** : seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) : +1 token par générateur fini ; quand vous finissez de réparer un gen, par token : +5 % de Haste pendant 2 s et +10/15/20 % de progression de soin — UNCERTAIN (on ne sait pas si le bonus de soin est une vitesse ou une progression instantanée sur soi).
+- **Valeurs / CD / conditions / limites** : max de tokens non indiqué par le seed — UNCERTAIN.
+- **PTB 10.2.0** : UNCERTAIN (non cité par le seed ; non recherché).
+- **Interactions, DR** : Haste cumulée avec d'autres Haste identiques (Sprint Burst, protections d'unhook) → DR 9.6.0 probable — HYPOTHESIS.
+- **Synergies (HEURISTIC)** : Five Moves Ahead / Boon: Steadfast (seed ch4_7), Resilience, Self-Care-like solo heals.
+- **Difficulté (HEURISTIC)** : 1.
+- **Valeur (HEURISTIC, texte seed)** : SoloQ 1 · SWF 1 · chase 1 · macro 1 · info 0 · anti-tunnel 0 · soin 1 · gen 1 · endgame 1
+- **Produit de la valeur (HEURISTIC)** : quitter un gen qui vient de sauter avec un petit coup de Haste (le killer arrive souvent sur la notification) ; plus fort en fin de partie (plus de tokens).
+- **N'en produit pas (HEURISTIC)** : si vous ne finissez pas vous-même les gens ; 2 s de Haste ne sauvent pas d'un killer déjà au contact.
 - **Écart avec le seed** : NON VÉRIFIABLE.
-- **Sources** : aucune.
+- **Sources** : aucune source web (seed uniquement).
 
 ### Left Behind — Bill Overbeck
-- **Statut** : non vérifié (budget épuisé).
-- **Effet LIVE** : seed : dernier survivant restant → aura de la trappe à 24/28/32 m. Souvenir du modèle (HYPOTHESIS) : effet conforme, mais valeurs non confirmées.
-- **PTB 10.2.0** : UNCERTAIN.
-- **Synergies (HEURISTIC)** : Down to the Last (seed ch4_7), clés.
+- **Statut** : seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN.
+- **Effet LIVE** : seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) : quand vous êtes le dernier survivant, aura de la trappe à 24/28/32 m — UNCERTAIN. Connaissance du modèle (antérieure à mi-2026), UNCERTAIN : effet de même nature (aura de la trappe en dernier survivant) ; valeurs non confirmées.
+- **Valeurs / conditions** : ne fonctionne qu'en dernier survivant en vie (hors crochet ?) — détail non vérifié.
+- **PTB 10.2.0** : UNCERTAIN (non cité par le seed).
+- **Interactions** : trappe fermée par le killer → aura inutile sauf clé (seed ch4_7).
+- **Synergies (HEURISTIC)** : Down to the Last (seed), clé Dull/Skeleton, Distortion/Low Profile.
+- **Difficulté (HEURISTIC)** : 1.
 - **Valeur (HEURISTIC)** : SoloQ 1 · SWF 0 · chase 0 · macro 0 · info 1 · anti-tunnel 0 · soin 0 · gen 0 · endgame 1
-- **Quand** : n'agit qu'en dernier survivant ; perk morte le reste de la partie.
+- **Produit de la valeur (HEURISTIC)** : SoloQ quand l'équipe tombe tôt : trouver la trappe avant le killer.
+- **N'en produit pas (HEURISTIC)** : 99 % de la partie (slot mort tant qu'il reste un allié).
 - **Écart avec le seed** : NON VÉRIFIABLE.
-- **Sources** : aucune.
+- **Sources** : aucune source web.
 
 ### Open-Handed — Ace Visconti
-- **Statut** : non vérifié (budget épuisé).
-- **Effet LIVE** : seed : +8/12/16 m à toutes les lectures d'aura à portée limitée des survivants (équipe). Souvenir du modèle (HYPOTHESIS) : effet conforme, les copies multiples ne se cumulent pas.
-- **PTB 10.2.0** : UNCERTAIN.
-- **Synergies (HEURISTIC)** : Bond, Still Sight (24 m), Kindred.
+- **Statut** : seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN.
+- **Effet LIVE** : seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) : toutes les lectures d'aura à portée limitée des survivants gagnent +8/12/16 m (effet d'équipe) — UNCERTAIN. Connaissance du modèle (antérieure à mi-2026), UNCERTAIN : effet conforme ; plusieurs exemplaires dans l'équipe ne se cumulent pas.
+- **PTB 10.2.0** : UNCERTAIN (non cité par le seed).
+- **Interactions, DR** : portée, pas vitesse → DR a priori non concernée (HYPOTHESIS).
+- **Synergies (HEURISTIC)** : Bond, Still Sight (24 m), Kindred, Empathy/Empathic Connection si à portée limitée, Left Behind.
+- **Difficulté (HEURISTIC)** : 1.
 - **Valeur (HEURISTIC)** : SoloQ 1 · SWF 1 · chase 0 · macro 1 · info 2 · anti-tunnel 0 · soin 0 · gen 0 · endgame 0
+- **Produit de la valeur (HEURISTIC)** : équipes d'auras (plusieurs perks à portée limitée dans l'équipe).
+- **N'en produit pas (HEURISTIC)** : sans autre perk d'aura à portée limitée ; sert seulement d'amplificateur.
 - **Écart avec le seed** : NON VÉRIFIABLE.
-- **Sources** : aucune.
+- **Sources** : aucune source web.
 
 ### Streetwise — Nea Karlsson
-- **Statut** : rework 9.1.0 confirmé par l'audit phase 0 (« Rework … Streetwise ») [28] ; **contenu du rework non vérifié**.
-- **Effet LIVE** : seed : 1re fois qu'un objet se vide → aura du killer 8 s ; objets trouvés en coffre +60/70/80 % de charges — UNCERTAIN.
-- **PTB 10.2.0** : UNCERTAIN.
-- **Synergies (HEURISTIC)** : Specialist, Exultation, Appraisal, Plunderer's Instinct.
-- **Écart avec le seed** : NON VÉRIFIABLE (date du rework OK via audit).
+- **Statut** : rework en 9.1.0 confirmé par l'audit phase 0 (« Rework … Streetwise ») [28] ; contenu : seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN.
+- **Effet LIVE** : seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) : la première fois qu'un de vos objets se vide, vous voyez l'aura du killer 8 s ; les objets trouvés dans les coffres ont +60/70/80 % de charges — UNCERTAIN.
+- **PTB 10.2.0** : UNCERTAIN (non cité par le seed).
+- **Interactions** : aura de 8 s temporisée → +2 s avec Eyes of Belmont (HYPOTHESIS, cf. [7]).
+- **Synergies (HEURISTIC)** : Specialist, Exultation, Appraisal, Plunderer's Instinct, Eyes of Belmont.
+- **Difficulté (HEURISTIC)** : 1.
+- **Valeur (HEURISTIC)** : SoloQ 1 · SWF 1 · chase 0 · macro 1 · info 1 · anti-tunnel 0 · soin 1 · gen 1 · endgame 0
+- **Produit de la valeur (HEURISTIC)** : builds coffres/objets (plus d'usages d'un medkit ou d'une toolbox trouvés).
+- **N'en produit pas (HEURISTIC)** : sans objet ni coffre ; items apportés du lobby (le bonus de charges vise les objets de coffre, selon le seed).
+- **Écart avec le seed** : date du rework OK (audit) ; valeurs NON VÉRIFIABLES.
 - **Sources** : [28]
 
 ### Boon: Illumination — Alan Wake
-- **Statut** : non vérifié (budget épuisé).
-- **Effet LIVE** : seed : coffres (et gens « selon les sources ») en bleu dans la zone ; bénir/purifier un peu plus vite — UNCERTAIN (le seed avoue lui-même l'incertitude).
-- **PTB 10.2.0** : seed : « bénédiction bien plus rapide » — **NON VÉRIFIÉ**.
-- **Synergies (HEURISTIC)** : autres Boons (même totem), Flow State, builds coffres.
+- **Statut** : seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN.
+- **Effet LIVE** : seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) : dans la zone du boon, les survivants voient les coffres (et les gens « selon les sources ») en bleu et bénissent/purifient un peu plus vite — UNCERTAIN. Le seed lui-même signale une incertitude sur les gens.
+- **PTB 10.2.0** : seed : « bénédiction bien plus rapide » — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN.
+- **Interactions** : se cumule sur un seul totem avec les autres Boons (seed p31, non re-vérifié) ; perdue si le killer éteint le totem.
+- **Synergies (HEURISTIC)** : Boon: Circle of Healing / Shadow Step (même totem), Flow State, Lend a Hand, Specialist/Streetwise (coffres).
+- **Difficulté (HEURISTIC)** : 2 (placement du totem).
+- **Valeur (HEURISTIC)** : SoloQ 1 · SWF 1 · chase 0 · macro 1 · info 1 · anti-tunnel 0 · soin 0 · gen 0 · endgame 0
+- **Produit de la valeur (HEURISTIC)** : builds boons multiples ou builds coffres.
+- **N'en produit pas (HEURISTIC)** : seule ; contre killers qui éteignent les boons (Shattered Hope).
 - **Écart avec le seed** : NON VÉRIFIABLE.
-- **Sources** : aucune.
+- **Sources** : aucune source web.
 
 ---
 
@@ -344,7 +373,8 @@
 | P28-18 | Soft-Spoken : bruit -15/20/25 %/allié ; +5 % réparation | [23] | LIVE | STRONG_SECONDARY |
 | P28-19 | A Place For Us : Elusive pendant soin ; 20/25/30 s après soin de l'Obsession ; -100 % chance Obsession | [24] | LIVE | STRONG_SECONDARY |
 | P28-20 | Flow State : max 5 tokens ; 8/9/10 %/token | [26] | LIVE | STRONG_SECONDARY |
-| P28-21 | Flow State PTB 13/14/15 % | seed seul | PTB 10.2.0 | UNCERTAIN |
+| P28-21 | Flow State PTB 13/14/15 % | seed, NON RE-VÉRIFIÉ (quota) | PTB 10.2.0 | UNCERTAIN |
+| P28-22 | Lend a Hand 2/3/4 charges ; Fruits of Your Labor 5 % Haste 2 s + 10/15/20 % ; Left Behind 24/28/32 m ; Open-Handed +8/12/16 m ; Streetwise 8 s + 60/70/80 % | seed, NON RE-VÉRIFIÉ (quota) | LIVE ? | UNCERTAIN |
 
 ## Conflits
 
