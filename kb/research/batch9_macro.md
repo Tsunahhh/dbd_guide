@@ -10,7 +10,7 @@
 | Étiquette | Sens dans ce fichier |
 |---|---|
 | **FACT (audit, <confiance>)** | Valeur de la « Référence vérifiée » ou du registre de patchs de l'audit phase 0. Seuls chiffres présentés comme faits. |
-| **CALC** | Arithmétique faite ici **sur des valeurs de l'audit**. Le calcul est sûr ; les hypothèses ajoutées (trajets, distances) sont UNCERTAIN et le sont signalées. |
+| **CALC** | Arithmétique faite ici **sur des valeurs de l'audit**. Le calcul est sûr ; les hypothèses ajoutées (trajets, distances) sont UNCERTAIN et signalées comme telles. |
 | **NV** | Mécanique de jeu connue du rédacteur mais **absente de l'audit** : à vérifier en jeu avant de la présenter comme FACT. |
 | **HEURISTIC** | Règle pratique du rédacteur (joueur expert, non sourcée). Jamais absolue. |
 | **EXPERT OPINION (non sourcée)** | Conclusion de jugement, discutable, non attribuée à qui que ce soit. |
@@ -694,3 +694,199 @@ Dernier survivant ?
 ```
 
 ---
+## 8. Matrice des 14 états de partie (§16)
+
+> Priorités et erreurs = **HEURISTIC** (sauf faits cités). « Catastrophique » = erreur qui coûte au moins un état de crochet évitable ou ~1 gen de temps, ou qui retire définitivement un survivant.
+
+| # | État (signal) | Priorités | Erreurs catastrophiques | Note SoloQ / SWF |
+|---|---|---|---|---|
+| 1 | **Début de partie** (0 à ~60 s ; spawn groupé à ≤ 12 m « when possible », FACT 9.0.0) | Se séparer vers des gens **différents** ; attaquer au moins un gen du futur 3-gen ; lire Match Details (loadouts alliés, FACT 9.6.0) ; identifier le tueur dès le reveal | Rester à 2-4 sur le même gen sans raison (+18 à +82 % de coût, CALC, et 2e cible) ; chercher des coffres (8 s chacun, FACT) avant de savoir où est le tueur ; purifier des ternes | SoloQ : choisir son rôle selon les loadouts. SWF : annoncer les gens pris dès le chargement |
+| 2 | **Premier contact** (tueur révélé, pas encore de chase) | Le survivant trouvé **éloigne** le tueur des gens ; les autres réparent ; adapter au pouvoir (lot 4) | Courir vers un gen occupé ; rester dans une dead zone ; lâcher sa furtivité trop tôt (courir = griffures) | SWF : « sur moi, direction X » |
+| 3 | **Première chase** | Durer, **loin** des gens ; économiser les palettes près des gens clés ; les 3 autres réparent chacun un gen (chaque seconde ≈ 1/30 de gen, CALC) | Aller « voir » la chase (−1 réparateur) ; gaspiller les palettes d'une zone de 3-gen ; ramener le tueur sur un gen | SoloQ : ne pas quitter son gen pour une chase qu'on ne voit pas |
+| 4 | **Premier crochet** | **Un** sauveteur ; décrocher avant 70 s ; décroché qui casse la LOS pendant les 10 s d'Elusive ; soin loin | Deux sauveteurs ; trade sous un tueur au pouvoir prêt ; laisser passer la phase 1 (état de crochet gratuit) ; soigner à côté du crochet | SoloQ : délai de confirmation (§3.3). SWF : protocole crochet (§4.2) |
+| 5 | **Midgame** (2-4 gens finis, rotation chase/crochet) | Garder 2-3 réparateurs actifs ; répartir les crochets ; surveiller le 3-gen ; ne soigner que ce qui est rentable | Laisser se former le 3-gen ; soins en série (2 × 32 s-surv) ; tout le monde à 1-2 crochets sans anti-tunnel | SWF : suivi oral des crochets et des perks (§4.5) |
+| 6 | **3 gens restants** | Identifier la géométrie des 3 gens ; split pressure si triangle serré ; garder les palettes de la zone | Finir un gen **extérieur** quand les 3 restants forment un triangle ; lâcher un gen frappé sans y revenir (−5 % + 0,25 c/s) | SoloQ : réparer soi-même un gen du triangle. SWF : shot-caller désigne 2 gens du triangle |
+| 7 | **2 gens restants** | Anticiper les perks de fin (Match Details pour les alliés : Adrenaline/Hope ; indices tueur : NOED, No Way Out) ; purifier les ternes croisés si NOED suspecté ; placer les survivants près des portes probables | Soins inutiles juste avant une Adrenaline ; tous en chase/crochet en même temps ; gaspiller les dernières palettes | — |
+| 8 | **1 gen restant** | Décider **99 ou alimenter** (§6.1) ; savoir où sont les portes ; un allié accroché change tout (anti-camp coupé à l'alimentation) | Alimenter pendant qu'un allié est accroché avec le tueur au crochet (anti-camp, Elusive et WTL perdus : FACT) ; laisser un 99 sous Ruin ; hérétique qui tient le 99 (Good = −3 %) | SWF : décision explicite du 99. SoloQ : on ne contrôle pas les autres : ne pas « tenir » un 99 seul trop longtemps |
+| 9 | **Portes alimentées** | Ouvrir la porte la plus loin du tueur ; deux portes à la fois si possible ; sauvetage **planifié** seulement | Se faire accrocher après l'ouverture d'une porte (Blood Warden, 40-60 s de blocage : FACT) ; prendre un coup sous NOED ; décrocher sans plan (plus d'Elusive, plus d'anti-camp) | — |
+| 10 | **Endgame Collapse** (120 s, ou ~240 s max ralenti) | Sortir ; sauvetage seulement si le timer ralenti (allié accroché/au sol) laisse le temps et qu'un plan existe | Attendre dans la sortie (Heresy à 45 s contre Judgment ; auras Blood Warden) ; revenir « aider » sans plan ; oublier que l'EGC ne s'arrête jamais | — |
+| 11 | **Survivant en dernière phase** (death hook : 2 crochets) | Il **évite** les chases et les actions à risque ; les autres prennent les protection hits ; il répare dans les zones calmes | Le faire décrocher ou prendre la chase ; le laisser seul près d'un tueur qui tunnel ; l'utiliser pour un save risqué | SWF : le suivi « A:2 » est rappelé à chaque accrochage |
+| 12 | **Plusieurs survivants au sol** | Le dernier debout évite la chase ; relever **un** allié quand le tueur est parti ; ramper vers les alliés | Venir relever à deux sous ses yeux ; le dernier debout qui se fait mettre au sol (tous au sol → Surrender possible, FACT) ; à 2 survivants, tomber près d'un allié en Struggle (Mori, FACT) | SoloQ : ramper vers l'allié debout. SWF : « ne venez pas » / « il est parti » |
+| 13 | **Tueur sans pression** (≥ 3 survivants sur les gens, chases longues, 0-1 crochet) | **Convertir** : finir les gens vite plutôt que soigner ; ne pas donner de cible gratuite ; préparer l'endgame | Relâcher l'attention (se montrer, t-bag : info et Heresy contre Judgment) ; offrir un premier crochet par excès de confiance ; greed de palettes inutiles | — |
+| 14 | **Tueur avec forte pression** (0-1 réparateur, blessés multiples, crochets enchaînés) | Casser le cycle : **une** chase longue, les autres réparent ; accepter de rester blessé ; éviter la zone du crochet ; viser 1-2 évasions si le tableau de course est perdu (§1.3) | Soins en série ; sauvetages multiples ; groupement ; ignorer le 3-gen ; abandonner trop tôt une partie rattrapable | SoloQ : décisions robustes (§3.5). SWF : le shot-caller réduit les annonces à l'essentiel |
+
+**Transitions à surveiller** (HEURISTIC) : 3 → 4 (premier crochet) : qualité du premier sauvetage ; 5 → 6 : la géométrie des gens restants ; 8 → 9 : le moment de l'alimentation. Ce sont les trois moments où une seule décision change le plus souvent le résultat (EXPERT OPINION non sourcée).
+
+---
+
+## 9. Situations concrètes (format §31)
+
+### 9.A — Proxy camp au premier crochet (SoloQ)
+
+**Situation** : SoloQ. 4 gens restants. Meg est accrochée (1er crochet) à 35 s de sa phase 1. Le tueur (Trapper, M1, pièges) patrouille à ~20 m du crochet et frappe un gen voisin. Vous êtes sain, sur un gen à 40 % à ~50 m du crochet. Match Details : personne n'a Kindred ; Claudette a un Med-Kit.
+
+**Informations connues** :
+- Au-delà de 16 m, **l'anti-camp ne se remplit pas** (FACT audit). Il ne libérera pas Meg.
+- Phase 1 : 70 s (FACT) ; il reste ~35 s.
+- Protections de décrochage : Endurance + 10 % Haste 10 s + Elusive 10 s (FACT 10.1.0).
+- Trapper : pièges possibles près du crochet (lot 4 : les tueurs à pièges piègent le crochet).
+
+**Options** :
+- A. Aller décrocher immédiatement.
+- B. Rester sur le gen et attendre qu'il s'engage ailleurs, puis y aller.
+- C. Rester sur le gen et laisser les autres gérer.
+
+**Analyse** :
+- A : trade quasi certain, tueur à 20 m ; en plus, risque de piège sur le trajet. Pire cas : vous blessé + Meg reprise, 2 états offerts.
+- B : le proxy du Trapper lui coûte des gens au loin (3 s-surv/s pour les 3 autres si elles réparent). Il reste 35 s ; si le tueur s'engage sur un autre survivant dans les 15-20 s, le sauvetage devient propre. Pire cas : phase 1 expire, Meg passe en Struggle (un état gratuit).
+- C : en SoloQ, sans Kindred, rien ne garantit qu'un autre y aille : pire cas identique à B mais **sans** chance de sauvetage propre.
+
+**Meilleure logique de décision** : **B avec échéance**. Se rapprocher à ~30-40 m (hors de sa zone de patrouille) en fin de délai ; si le tueur reste, décrocher vers ~10 s restantes **en approchant par un angle sans pièges visibles**, parce que laisser expirer la phase donne le même état de crochet que le trade raté, sans la chance de le rater. Si vous étiez blessé, laisser plutôt passer la phase (le trade coûterait 2 états).
+
+**Erreur typique** : « l'anti-camp va la décrocher, je répare » (le seed le disait : FAUX au-delà de 16 m) ; ou y aller à 3 survivants par réflexe SoloQ.
+
+### 9.B — 3 gens restants en triangle, tueur qui frappe (SWF)
+
+**Situation** : SWF 4 joueurs. 3 gens restants : deux à 30 m l'un de l'autre au centre, un à 25 m des deux autres (triangle serré), le 4e gen déjà fini était dehors. Tueur M1 sans mobilité (Wraith). Deux gens du triangle à 50 % et 30 %, déjà frappés 3 fois chacun. Personne accroché, un survivant blessé.
+
+**Informations connues** :
+- Kick : −5 % puis −0,25 c/s ; stopper la régression = 5 % (FACT) ; pointes visibles dès le 4e event, plafond 8 (FACT).
+- 3 réparateurs séparés : 3/90 de gen par seconde ; à 2 sur un gen : 1,7 c/s.
+
+**Options** :
+- A. Tous les 3 valides sur le gen à 50 % (finir vite).
+- B. Split pressure : 2 survivants sur 2 gens du triangle, 1 runner qui tient le tueur, le blessé répare le plus éloigné du tueur.
+- C. Soigner d'abord le blessé, puis repartir.
+
+**Analyse** :
+- A : 45 c restantes à 2,1 c/s ≈ 21 s, mais 3 survivants au même endroit contre un tueur furtif = cible multiple ; pendant ce temps, l'autre gen régresse.
+- B : le tueur ne peut frapper qu'un gen à la fois ; chaque kick lui coûte 1,8 s et un aller-retour. Le runner transforme ses secondes de chase en progression parallèle.
+- C : 32 s-surv pour un état de santé ; contre un Wraith M1, le soin a de la valeur, mais pas **pendant** que le triangle régresse.
+
+**Meilleure logique de décision** : **B**. Le shot-caller nomme les deux gens attaqués (« centre-nord, centre-sud ») ; le blessé prend le gen le plus loin de la dernière position connue ; soin seulement si le tueur est engagé sur le runner **et** qu'un gen vient de tomber. Contre la cloche du Wraith (lot 4), annonce immédiate.
+
+**Erreur typique** : finir le gen « facile » isolé en milieu de partie (qui a créé ce triangle) ; ou se regrouper à 3 sur un gen et se faire trouver ensemble.
+
+### 9.C — Portes alimentées, allié accroché, tueur au crochet (SoloQ)
+
+**Situation** : SoloQ. Gens finis il y a 10 s (quelqu'un a alimenté). Dwight est accroché (2e crochet, donc phase 2 : Struggle en cours, ~40 s restantes). Le tueur reste à 8 m du crochet. Vous êtes sain, près de la porte nord (à 60 % d'ouverture) ; Nea est blessée près de la porte sud. Vous êtes 3 en vie.
+
+**Informations connues** :
+- Portes alimentées → **anti-camp désactivé** (FACT) ; le camp ne sera jamais puni par le système.
+- Décrochage en endgame : Endurance + 10 % Haste 10 s, **pas d'Elusive** (FACT 10.1.0).
+- Porte : 20 s, progression conservée ; EGC 120 s, ralenti de moitié tant qu'un survivant est accroché (FACT).
+- Blood Warden (40/50/60 s, une fois, après ouverture d'une porte) possible, non confirmé.
+
+**Options** :
+- A. Aller décrocher tout de suite.
+- B. Finir d'ouvrir la porte nord, puis tenter un sauvetage coordonné par le comportement (Nea ?).
+- C. Ouvrir la porte et sortir.
+
+**Analyse** :
+- A : le tueur à 8 m voit le sauvetage ; Dwight a Endurance mais pas Elusive ; vous êtes sain mais seul : le tueur peut vous mettre à 1 état et reprendre Dwight (Deep Wound, pas d'Elusive pour le semer). Pire cas : 2 morts, EGC non lancé.
+- B : ouvrir lance l'EGC (120 s, mais ralenti tant que Dwight est accroché → le temps n'est pas le problème ; c'est les ~40 s de phase de Dwight). Porte ouverte = sortie sûre pour la suite. Nea (blessée, SoloQ : intentions inconnues) pourrait tenter aussi : risque de doublon, mais ici **deux** survivants au crochet peuvent être utiles (un décroche, l'autre prend le coup), si Nea n'est pas celle qui prend le coup (elle est blessée).
+- C : sûr pour vous, mais abandonne Dwight alors qu'il reste ~40 s.
+
+**Meilleure logique de décision** : **B**, puis sauvetage **si** le tueur s'éloigne ou se laisse distraire, sinon sortir à ~10 s de la fin de la phase de Dwight. Votre santé est la ressource : le protection hit (Endurance de Dwight + votre état sain) donne une petite fenêtre pour qu'il atteigne la porte ouverte. **En SoloQ**, on ne peut pas compter sur Nea : la décision doit être bonne **même si elle ne fait rien**.
+
+**Erreur typique** : penser que les protections incluent Elusive en endgame (le seed ch. 0/07 disait même qu'elles disparaissaient toutes : les deux sont faux) ; décrocher avant d'ouvrir une porte (Dwight et vous devez alors ouvrir 20 s sous pression) ; attendre dans la porte ouverte en espérant que le tueur parte (Blood Warden, Judgment).
+
+### 9.D — Standoff de trappe (dernier survivant)
+
+**Situation** : Vous êtes le dernier survivant (les autres sont morts). 2 gens restants. Vous voyez l'aura de la trappe à ~25 m, près d'un bâtiment. Le tueur (Blight, mobile) patrouille à ~15 m de la trappe ; il ne vous a pas vu. Vous êtes blessé. Vous n'avez pas de clé.
+
+**Informations connues** :
+- Trappe visible **de vous seul** (FACT 5.3.0) ; le tueur l'a peut-être trouvée à la vue ou par hasard.
+- Si le tueur la ferme : EGC 120 s ; il faut une porte (20 s) ; il ne peut garder qu'une porte à la fois (HEURISTIC).
+- Blight : très mobile ; distance entre portes peu protectrice contre lui (lot 4).
+- Blessé : flaques de sang, grognements (FACT audit, portée UNCERTAIN).
+
+**Options** :
+- A. Sprinter vers la trappe maintenant.
+- B. Attendre hors de vue, en marchant/accroupi, qu'il s'éloigne ; puis marcher vers la trappe.
+- C. Aller vers une porte en anticipant qu'il fermera la trappe.
+
+**Analyse** :
+- A : sprint = griffures + bruit ; à 25 m, il vous voit et vous coupe (il est plus proche de la trappe). Pire cas : mise au sol, fin.
+- B : s'il ne connaît pas la trappe, il finira par s'éloigner (il doit aussi chercher le survivant) ; s'il la connaît et la ferme, vous êtes déjà hors de vue et pouvez partir vers la porte la plus éloignée de lui.
+- C : sans info sur sa décision, partir vers une porte avant la fermeture vous éloigne de la trappe, qui est votre meilleure sortie tant qu'elle est ouverte.
+
+**Meilleure logique de décision** : **B**, en préparant mentalement la route vers la porte **opposée** à sa position. Si vous entendez/voyez la fermeture (EGC lancé), partir immédiatement : contre un Blight, votre seule chance est qu'il choisisse la mauvaise porte ou qu'il perde votre trace (marcher hors LOS, pas de griffures).
+
+**Erreur typique** : courir vers la trappe devant le tueur ; ou se soigner à côté (pas de Med-Kit : pas d'auto-soin sans perk, FACT) au lieu de bouger ; ou attendre si longtemps sans bouger que les **corbeaux AFK** (80/100/120 s) vous signalent (FACT audit, VERIFIED_PRIMARY).
+
+---
+## Claims (chiffres présentés comme FACT, tous issus de l'audit phase 0)
+
+| ID | Claim | Source | Patch | Confiance |
+|---|---|---|---|---|
+| L9-01 | Gen = 90 charges, 90 s solo | audit « objectifs » 1.1 | 6.1.0 | VERIFIED_MULTI_SOURCE |
+| L9-02 | Coop 85/70/55 % → ~52,9 / 42,9 / 40,9 s | audit 1.1 | — | STRONG_SECONDARY |
+| L9-03 | Kick 1,8 s, −5 %, −0,25 c/s, 5 % pour stopper, 8 events max | audit 1.1 | 7.5.0 | VERIFIED_MULTI_SOURCE |
+| L9-04 | Skill check raté −10 % + 3 s ; Great +1 % | audit 1.1 | — | STRONG_SECONDARY |
+| L9-05 | Phase de crochet 70 s | audit 1.2 | 8.2.0 | VERIFIED_PRIMARY |
+| L9-06 | Anti-camp : 16 m ; ×0 à 16 m ; ×1/×2/×4 ; grâce 7 s ; coupé portes alimentées ; ralenti par survivants < 16 m | audit 1.2 | 7.3.0 / 9.3.0 | VERIFIED_PRIMARY (9.3.0) / STRONG_SECONDARY (conditions) |
+| L9-07 | Protections : Endurance + 10 % Haste 10 s + Elusive 10 s ; Elusive absente portes alimentées | audit 1.2 | 10.1.0 | VERIFIED_PRIMARY |
+| L9-08 | Récupération au sol auto 95 % en 30,4 s ; pas d'auto-relève basekit | audit 1.3 | 9.2.0 | VERIFIED_MULTI_SOURCE / VERIFIED_PRIMARY |
+| L9-09 | Abandon au 3e passage au sol après 2 relevages/soins ; Surrender tous au sol | audit 1.3 | 9.2.0 / 8.6.0 | VERIFIED_PRIMARY |
+| L9-10 | 2 survivants : auto-décrochage 4 %, 2 checks de lutte manqués = mort, tous accrochés = mort, Mori possible | audit 1.2 / 1.3 / registre | 9.0.0 / 9.1.0 | VERIFIED_PRIMARY / STRONG_SECONDARY |
+| L9-11 | Soin 16 s ; Med-Kit auto −33 % ; Mangled +25 % ; Deep Wound 10 s / 6 s | audit 1.4 | 8.6.0 | STRONG_SECONDARY / VERIFIED_PRIMARY |
+| L9-12 | Trappe : auto à 1 survivant, visible de lui seul, clé 2,5 s, fermée → EGC, refermée après évasion | audit 1.6 | 5.3.0 / 8.1.0 | STRONG_SECONDARY |
+| L9-13 | Porte 20 s, progression conservée | audit 1.6 | — | STRONG_SECONDARY |
+| L9-14 | EGC 120 s, moitié de vitesse si survivant au sol/accroché/en cage (max 4 min), jamais arrêté | audit 1.6 | — | STRONG_SECONDARY |
+| L9-15 | Blood Warden 40/50/60 s ; No Way Out 12 s + 6/9/12 s/jeton | audit 1.6 | — | STRONG_SECONDARY |
+| L9-16 | Will to Live 4 s, 40/50/60 s, désactivé portes alimentées | audit mouvement 1.5 | 8.0.0 | STRONG_SECONDARY |
+| L9-17 | Heresy : 3 accroupissements/gestes à < 10 m ou 45 s dans le seuil d'une porte ; Good = −3 % ; porte bloquée 8 s si < 32 m | audit 1.5 | 10.1.0 | VERIFIED_PRIMARY (principe) / STRONG_SECONDARY (valeurs) |
+| L9-18 | Exile = état de crochet sans perks de crochet | audit 1.2 | 10.1.0 | VERIFIED_PRIMARY |
+| L9-19 | Match Details : loadouts alliés visibles ; tueur révélé à la 1re chase/perte d'état ; loadout tueur caché | audit 1.6 | 9.6.0 | VERIFIED_PRIMARY |
+| L9-20 | Corbeaux AFK 80/100/120 s ; corbeaux 4 m | audit mouvement 1.7 | 9.3.0 | VERIFIED_PRIMARY / STRONG_SECONDARY |
+| L9-21 | Fenêtre bloquée 30 s après le 3e vault ; espacement palettes 14-20 m | audit mouvement 1.4 / 1.5 | — | STRONG_SECONDARY |
+| L9-22 | Survivor Intent System = PTB 10.2.0 uniquement | audit registre | PTB 10.2.0 | VERIFIED_PRIMARY (statut) |
+
+## Écarts avec le guide seed (macro, ch. 6-7 et 10)
+
+| Élément | Le seed dit | Constat | Verdict |
+|---|---|---|---|
+| Valeur d'une seconde de chase | « ≈ 1/3 de gen » (ch. 7) | ≈ 1/30 de gen quand 3 réparent séparément | FAUX (audit A-267) |
+| Proxy camp | « l'anti-facecamp décrochera l'allié » (ch. 7) | Aucun remplissage au-delà de 16 m | FAUX (audit A-283) |
+| Protections portes alimentées | inactives (ch. 0/07) | Seule Elusive disparaît | FAUX (audit A-074) |
+| Face camp | « inutile au-delà d'environ 20 s » (ch. 0, 10) | Taux de base inconnu (CONFLICT-003) ; seuil non calculable | NON VÉRIFIABLE |
+| Qui décroche | « le plus proche, et un seul » | Ignore santé du sauveteur, hook stage, pouvoir du tueur | IMPRÉCIS (règle absolue) |
+| Altruisme SWF | « un seul joueur quitte son gen par événement » | Bon défaut, mais exceptions (slug + protection hit) | IMPRÉCIS (règle absolue) |
+| Totems | « purifiez un Hex dès qu'il s'allume » | Dépend de l'effet, du trajet, du tueur | IMPRÉCIS (règle absolue relevée par l'audit) |
+| Plague | « soignez vite » (ch. 7) | Fontaines corrompues, reblessure à distance | IMPRÉCIS (règle absolue relevée par l'audit) |
+| Régression | « réparer brièvement suffit » à stopper | Il faut 5 % depuis 7.5.0 | IMPRÉCIS |
+| Survivor Intent System | recommandé en SoloQ (ch. 6 règle 9, Trio C) | PTB 10.2.0 uniquement | PTB-comme-LIVE |
+| Gain SWF vocal | +3 pts / +8 pts | Sans source primaire | NON VÉRIFIABLE (à retirer, audit A-119) |
+| Chiffrage des pertes SoloQ (160 s-surv, etc.) | ordres de grandeur (ch. 6) | Hypothèses de trajet non mesurées | NON VÉRIFIABLE (garder comme HYPOTHESIS) |
+| Décrocher « autour de 50 % » de la phase 1 si le tueur est proche | règle (ch. 6 règle 5) | Défendable comme HEURISTIC, mais dépend du proxy vs face camp, de l'anti-camp et du pouvoir | IMPRÉCIS |
+| « Tunnel = le tueur perd 60-90 s » (Trio A) | chiffre | Non mesuré | NON VÉRIFIABLE |
+| Endgame : « ouvrir la porte la plus éloignée du tueur » | règle | OK comme défaut ; exceptions (gate camp, No Way Out) | OK (HEURISTIC) |
+| EGC | 2 min, ralenti si survivant au sol/accroché | Conforme | OK |
+
+## Points à sourcer
+
+1. **Taux de base de l'anti-camp après 9.3.0** (CONFLICT-003) : sans lui, aucun temps de face camp n'est calculable. Test en jeu (partie personnalisée, chronomètre à 4 m et 10 m).
+2. **Valeur d'un état de santé en secondes de chase** (§2.10) : l'hypothèse « 15-30 s » demande des mesures (VOD personnelles, lot 10/11) ; c'est la base de toute la politique de soin.
+3. **Durée du relevage d'un allié au sol** (0 → 100 % et 95 → 100 %) : absente de l'audit.
+4. **Éléments du HUD** : icônes d'action, compteur d'états de crochet, indicateur de chase, sens des « barres de progression colorées » (9.6.0) : à relever en jeu, captures datées.
+5. **Aura basekit des alliés au sol / accrochés** et portée : nécessaire pour les arbres slug/crochet (Knock Out la réduit, lot 3).
+6. **Notification de bruit** sur skill check raté, gen fini, kick : à confirmer (wiki complet).
+7. **Trappe** : durée du saut, conditions d'ouverture à la clé (avant/après fermeture), règles avec plusieurs survivants et une clé.
+8. **Ouverture de porte par le tueur (0,75 s)** et effet sur la progression survivant.
+9. **Application des protections basekit à une libération d'Exile** (The Judgment).
+10. **Délai de confirmation SoloQ (15-20 s)** et seuils du « tableau de course » : valeurs de rédacteur, à calibrer par l'observation de parties.
+11. **Valeurs LIVE de Déjà Vu, Kindred, Bond, Prove Thyself, Hope, Wake Up!, NOED, Remember Me, Grim Embrace** (lots 2-3 : UNCERTAIN) : plusieurs recommandations en dépendent.
+12. Une **source experte** (coach, joueur compétitif avec VOD datée) sur : priorité 3-gen vs chase, trade en proxy camp, gestion du 99 — aujourd'hui EXPERT OPINION non sourcée.
+
+## Questions ouvertes
+
+1. L'**Endurance** de décrochage est-elle perdue en ouvrant une porte (action voyante ?) ; Elusive est-elle annulée par une action voyante (audit : non documenté) ?
+2. Le multiplicateur temporel de l'anti-camp (×1/×2/×4) continue-t-il de courir pendant la grâce de 7 s et pendant que le tueur porte un autre survivant ?
+3. Nombre maximal de soigneurs simultanés : 2 (wiki) ou 3 (seed) — CONFLICT-001.
+4. Rampement : 0,7 m/s constant ou montée à 1,05 m/s — CONFLICT-002 (impact sur « ramper vers un allié »).
+5. La progression d'une porte lâchée régresse-t-elle dans certains cas (perks tueur type Haywire, cité par le seed, non vérifié) ?
+6. Les gens requis restent-ils à 5 après une mort (l'audit dit « survivants au départ + 1 ») — à confirmer explicitement pour les fins à 3 et 2 survivants.
+7. Survivor Intent System (PTB 10.2.0) : s'il sort en LIVE, les sections §3.4 et §3.5 (communication indirecte, décisions robustes) seront à réécrire ; idem pour la refonte Abandon/Surrender (PTB 10.2.0).
+8. Pain Resonance révèle-t-elle la position des survivants qui crient (CONFLICT-L3P90-02) ? Cela change la décision « lâcher le gen qui explose ».
+9. Les palettes ou totems réapparaissent-ils dans certains cas (perks, Pentimento pour les totems) au point de fausser la notion de « zone épuisée » ?

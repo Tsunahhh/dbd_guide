@@ -622,3 +622,186 @@ Feuilles : SAUVER MAINTENANT · ATTENDRE (réparer en surveillant) · DISTRAIRE 
 4. Coût : 16 s × 2 survivants (≈ 0,36 gen) ; med-kit ou pas ; Mangled (+25 % de durée, FACT).
 5. Où ? hors de la zone du tueur, hors LOS, pas sous le crochet.
 Feuilles : SOIGNER MAINTENANT · SOIGNER PLUS TARD (après le gen) · NE PAS SOIGNER (jouer blessé en connaissant ce coût) · MENDING SEULEMENT (Deep Wound).
+
+## 3. DRILLS D'ENTRAÎNEMENT (§33, T-R01)
+
+Principes (HEURISTIC, inspirés de la pratique délibérée en général, non d'une source DBD) :
+- **Un seul objectif par session** : le drill définit ce que tu regardes ; le reste de la partie est secondaire (tu acceptes de perdre des parties pendant un drill).
+- **Retour immédiat** : chaque drill a une métrique que tu peux compter pendant ou juste après la partie (feuille §5).
+- **Difficulté juste au-dessus du niveau actuel** : si la réussite est > 90 %, passer à la variante difficile ; si < 30 %, revenir à la variante facile.
+- **Contextes** : « KYF » = partie personnalisée avec un ami tueur (mode Kill Your Friends ; existence connue, modalités non vérifiées par l'audit) ; « public » = partie publique normale ; « revue » = sur enregistrement.
+- Tous les seuils de réussite ci-dessous sont **HEURISTIC / UNCERTAIN** : ils servent à mesurer un progrès **par rapport à ta propre base**, pas à te comparer aux autres.
+
+#### DR-01 · Caméra (regarder derrière sans casser le pathing)
+- **Objectif** : garder un pathing propre (pas de collision, fast vaults réussis) tout en sachant où est le tueur.
+- **Méthode** : KYF ou public. Variante facile : courir un circuit fixe (autour d'une tile connue) en faisant un check caméra sur chaque segment droit, jamais dans les 2-3 m avant un vault. Variante difficile : en chase réelle, annoncer à voix haute « derrière / gauche / droite » à chaque check.
+- **Métrique** : collisions/accrochages de décor par chase ; vaults « medium » involontaires par chase ; nombre de coups reçus « sans l'avoir vu venir ».
+- **Erreur typique** : checker trop tard (en approche du vault) ou trop longtemps (on regarde le tueur au lieu de sa route).
+- **Réussite** : 3 parties de suite sans collision ni medium vault involontaire relevés en revue.
+
+#### DR-02 · Fast vault
+- **Objectif** : obtenir le fast vault (0,5 s, garde l'élan, FACT) à la demande, depuis tous les angles d'approche courants.
+- **Méthode** : KYF (tueur passif) : sur 3 fenêtres de formes différentes (shack, jungle gym, fenêtre de main building), 10 approches chacune depuis des angles variés ; repérer l'arc qui donne la ligne droite de ≥ 2,5 m (FACT, angle toléré non documenté).
+- **Métrique** : % de fast vaults / tentatives, par type de fenêtre.
+- **Erreur typique** : couper l'angle ; tourner la caméra au dernier moment ; vaulter après un virage serré.
+- **Réussite** : ≥ 90 % en KYF sur les 3 fenêtres ; ≥ 80 % des vaults en chase publique relevés en revue (UNCERTAIN).
+
+#### DR-03 · Shack (tile unique, 5 composantes)
+- **Objectif** : maîtriser entrée, fenêtre, palette, checkspots et rotations d'une tile très fréquente.
+- **Méthode** : 3-5 parties où **toute** chase est emmenée vers le shack si possible ; noter pour chaque passage : par où j'entre, quand je vaulte, quand je pose, où je regarde (checkspots = trous dans les murs, coins par lesquels on voit le tueur), par où je sors. KYF : le tueur ami rejoue la même approche 5 fois, puis varie.
+- **Métrique** : secondes gagnées par passage au shack (de l'entrée dans la tile à la sortie ou au coup) ; nombre de vaults avant la pose ; coups reçus au shack.
+- **Erreur typique** : vault prématuré (tueur pas encore engagé vers l'autre porte) ; règle du seed « deux tours de fenêtre avant la palette » appliquée mécaniquement (elle dépend du tueur et du blocage au 3e vault) ; rester après le 3e vault.
+- **Réussite** : décrire en revue, pour chaque passage, la feuille T-Q01 choisie et pourquoi ; ≥ 20 s moyens par passage contre des tueurs M1 (UNCERTAIN).
+
+#### DR-04 · Jungle gym (long wall / short wall)
+- **Objectif** : reconnaître le côté fort (fenêtre sur le long mur) et jouer fenêtre puis palette.
+- **Méthode** : hors chase, identifier le type de chaque gym croisé (long/short, côté fenêtre, côté palette) ; en chase, annoncer à voix haute le plan avant d'entrer (« fenêtre puis palette, sortie vers le shack »).
+- **Métrique** : % de gyms correctement identifiés avant la chase ; secondes gagnées par gym ; fenêtres bloquées subies.
+- **Erreur typique** : boucler le côté court ; rester quand le tueur se poste au milieu.
+- **Réussite** : plan annoncé correct dans ≥ 80 % des gyms (revue).
+
+#### DR-05 · Red stain et lecture d'approche
+- **Objectif** : lire la direction du tueur sans le voir directement, et détecter les feintes (marche à reculons, FACT : trompe la red stain).
+- **Méthode** : KYF : le tueur ami marche au hasard (avant/arrière/côté) derrière un mur haut ; tu annonces « gauche/droite/feinte » à chaque cycle ; 20 cycles, puis échange des rôles si possible.
+- **Métrique** : % de lectures correctes ; temps de décision.
+- **Erreur typique** : réagir à la première rotation de tête ; oublier que sous Undetectable il n'y a pas de red stain.
+- **Réussite** : ≥ 75 % de lectures correctes sur 20 cycles (UNCERTAIN).
+
+#### DR-06 · Identification du tueur (avant le reveal) et de ses add-ons
+- **Objectif** : savoir en < 30 s de contact quel tueur tu affrontes, puis repérer les add-ons qui changent la décision.
+- **Méthode** : à chaque partie, noter dans la feuille l'heure (chrono de partie) et l'indice qui t'a fait identifier le tueur (berceuse, TR absent, son de pouvoir, trace de pouvoir sur la carte…) **avant** qu'il soit révélé par Match Details (révélé au premier contact de chase ou premier coup, FACT 9.6.0) ; ensuite noter tout signe d'add-on (fiches lot 4).
+- **Métrique** : % de parties où l'identification précède le reveal ; délai d'identification ; add-ons correctement devinés (vérifiables à l'écran de fin : le loadout adverse est visible à la fin, FACT).
+- **Erreur typique** : confondre deux tueurs au TR proche ; ne pas réviser l'hypothèse.
+- **Réussite** : ≥ 70 % d'identification avant reveal sur 20 parties (UNCERTAIN).
+
+#### DR-07 · Perk deduction
+- **Objectif** : déduire 2 à 4 perks du tueur en cours de partie et adapter son jeu.
+- **Méthode** : journal d'indices dans la feuille (effet observé → perks candidates → conséquence pratique) ; mise à jour à chaque événement (gen qui explose/régresse, aura révélée, stun raccourci, Exposed…) ; vérification à l'écran de fin.
+- **Métrique** : précision (perks justes / perks annoncées) ; rappel (perks trouvées / perks réelles) ; nombre de décisions modifiées grâce à la déduction.
+- **Erreur typique** : annoncer une perk sur un seul indice ambigu ; ne rien changer à son jeu après l'avoir déduite.
+- **Réussite** : précision ≥ 80 % et rappel ≥ 50 % sur 10 parties (UNCERTAIN). Dépend du futur livrable `PERK_DEDUCTION.md`.
+
+#### DR-08 · Callouts (SWF)
+- **Objectif** : transmettre l'essentiel en quelques mots : **qui / quoi / où / état / intention**.
+- **Méthode** : fixer une grammaire d'équipe (landmark > horloge > relatif, comme le seed ch. 12 le propose) ; une partie où chaque callout est noté (enregistrement vocal) ; revue des callouts inutiles, ambigus, tardifs.
+- **Métrique** : callouts par minute (trop ou trop peu), % de callouts actionnables, délai entre l'événement et le callout.
+- **Erreur typique** : « il est là ! » sans lieu ; le chaseur qui commente tout ; oublier les états (crochets, gens en %).
+- **Réussite** : ≥ 80 % de callouts actionnables en revue ; aucun sauvetage doublé par manque d'info.
+
+#### DR-09 · Rotation de gens / anti-3-gen
+- **Objectif** : choisir ses gens pour ne pas laisser un triangle serré.
+- **Méthode** : au chargement, repérer les gens (une fois vus) et le triangle le plus serré ; décider « mon gen suivant » à chaque gen fini ; à 4 gens restants, refaire le point (E-T06).
+- **Métrique** : nombre de 3-gens subis ; distance moyenne entre les 3 derniers gens (estimée en revue) ; temps « de marche » entre deux gens.
+- **Erreur typique** : réparer le plus proche du spawn ; réparer à 4 sur un gen.
+- **Réussite** : 0 3-gen « évitable » (le triangle avait été repéré) sur 10 parties.
+
+#### DR-10 · Sauvetage (timing, approche, protection)
+- **Objectif** : décrocher sans trade inutile et protéger le décroché.
+- **Méthode** : sur 10 parties, pour chaque sauvetage : noter le temps restant dans la phase, la position du tueur, l'approche (hors LOS ?), ce qui s'est passé dans les 20 s suivantes.
+- **Métrique** : % de sauvetages suivis d'un coup/d'une mise au sol dans les 20 s (sauveteur ou décroché) ; nombre de passages en phase 2 par retard ; sauvetages doublés.
+- **Erreur typique** : arriver en ligne droite dans la LOS du tueur ; soigner sous le crochet.
+- **Réussite** : < 25 % de sauvetages « punis » dans les 20 s sur 10 parties (UNCERTAIN, dépend fortement du tueur).
+
+#### DR-11 · Endgame (portes, trappe, EGC)
+- **Objectif** : avoir un plan avant que la fin arrive.
+- **Méthode** : à 1 gen restant, annoncer (à voix haute ou dans la feuille) : où sont les portes, qui ouvre, qui sauve, qui reste en réserve ; en solo final, plan trappe/portes (E-T07). KYF : scénarios répétés (tueur qui garde une porte, dernier survivant, sauvetage en EGC).
+- **Métrique** : sorties réussies quand elles étaient possibles ; morts en endgame « évitables » (revue) ; secondes perdues à la porte.
+- **Erreur typique** : traîner à la porte (E-A09), ouvrir la porte la plus proche du tueur.
+- **Réussite** : plan annoncé à 1 gen dans 100 % des parties ; ≤ 1 mort évitable en endgame sur 10 parties (UNCERTAIN).
+
+#### DR-12 · Décision de palette à voix haute
+- **Objectif** : rendre l'arbre T-Q01 automatique.
+- **Méthode** : avant chaque palette, dire la feuille choisie (« pre-drop », « tenir », « greed », « fenêtre », « quitter ») et la raison principale (« blessé 2 crochets », « Bloodlust »…). En revue, vérifier la décision **avec l'info disponible au moment**, pas avec le résultat.
+- **Métrique** : palettes consommées par chase ; palettes « gaspillées » (posées sans que le tueur soit à moins d'une tile, sans raison T-Q01) ; mises au sol avec une palette debout à portée.
+- **Erreur typique** : dire la feuille après avoir agi ; juger une décision sur son résultat.
+- **Réussite** : feuille annoncée avant l'action ≥ 90 % des palettes ; baisse de moitié des palettes gaspillées par rapport à ta base (UNCERTAIN).
+
+#### DR-13 · Route planning / tile chaining
+- **Objectif** : toujours savoir où aller après la tile actuelle.
+- **Méthode** : hors chase, en marchant vers un gen, nommer les 2 tiles de repli ; en chase, nommer la suivante avant de quitter la tile (arbre 2.2). Variante carte : 5 parties sur la même carte pour mémoriser les zones riches et mortes (lot 8, fixe vs RNG).
+- **Métrique** : morts en dead zone ; départs de tile sur événement (vs sans événement) ; secondes de trajet exposé entre tiles.
+- **Erreur typique** : partir vers le vide ; partir sans événement.
+- **Réussite** : 0 mort en dead zone « évitable » sur 5 parties ; ≥ 80 % de départs sur événement (revue).
+
+#### DR-14 · Skill checks et fondamentaux audio
+- **Objectif** : ne plus perdre de temps sur les skill checks et entendre les signaux utiles.
+- **Méthode** : réglages audio (musique réduite, casque) ; 5 parties en comptant les skill checks ratés ; exercice de « lever la caméra » toutes les N secondes sans rater de check.
+- **Métrique** : skill checks ratés par partie (chacun ≈ 12 s perdues, §E-D06) ; % de Great (information seulement).
+- **Erreur typique** : viser le Great au prix de ratés.
+- **Réussite** : ≤ 1 raté par partie hors perks de skill check difficiles (UNCERTAIN).
+
+#### DR-15 · Counterplay d'un tueur (une session = un tueur)
+- **Objectif** : appliquer le counterplay spécifique d'un tueur (fiche lot 4).
+- **Méthode** : choisir un tueur ; relire sa fiche (Identification, Tiles favorables/défavorables, Counterplay, Add-ons) ; dans les parties où il apparaît (ou en KYF), vérifier 3 comportements précis (ex. Huntress : LOS, changement de direction au lâcher, comptage des hachettes).
+- **Métrique** : coups reçus de son pouvoir qui étaient évitables (revue) ; durée de chase contre ce tueur comparée à ta moyenne.
+- **Erreur typique** : jouer le loop standard ; changer de plan trop tard.
+- **Réussite** : 3 comportements appliqués dans 3 parties consécutives contre ce tueur.
+
+#### DR-16 · Lecture du HUD en SoloQ
+- **Objectif** : savoir à tout moment qui est en chase, au crochet, au sol, sur gen.
+- **Méthode** : consulter les loadouts des coéquipiers (Match Details, FACT 9.6.0) en début de partie ; toutes les ~30 s (à chaque skill check, par exemple), un coup d'œil au HUD et une phrase mentale (« Meg en chase depuis 40 s, Dwight crochet phase 1 à mi-jauge »). Anticiper le PTB 10.2.0 (Survivor Intent System) : à revoir s'il sort.
+- **Métrique** : sauvetages doublés ou manqués ; délais de réaction à un accrochage.
+- **Erreur typique** : lire le HUD seulement quand un bruit de crochet retentit.
+- **Réussite** : 0 sauvetage doublé et 0 passage en phase 2 « par oubli » sur 10 parties SoloQ.
+
+#### DR-17 · Comptage (horloge mentale)
+- **Objectif** : tenir le compte des états de crochet, des gens, des palettes, de la Bloodlust.
+- **Méthode** : à chaque accrochage, dire le décompte (« Claudette 2, moi 1, gens : 3 restants ») ; en chase, compter les secondes depuis le dernier coup/casse (15/25/35 s) ; en fin de partie, vérifier contre l'écran.
+- **Métrique** : erreurs de comptage relevées ; décisions prises sur un compte faux.
+- **Erreur typique** : ne compter que soi.
+- **Réussite** : compte juste à chaque accrochage sur 5 parties.
+
+#### DR-18 · Décision de soin
+- **Objectif** : soigner quand c'est rentable, pas par réflexe (arbre T-Q03).
+- **Méthode** : avant chaque soin, dire « soin : oui/non/plus tard » + raison ; noter le coût (16 s × 2) et ce qui arrive dans les 60 s suivantes.
+- **Métrique** : soins interrompus ; soins suivis d'un coup dans les 30 s (état « perdu ») ; soins contre coup unique.
+- **Erreur typique** : soigner sous le crochet ; soigner à 3.
+- **Réussite** : < 20 % de soins « inutiles » (interrompus ou perdus dans les 30 s) sur 10 parties (UNCERTAIN).
+
+#### DR-19 · Revue de partie (T-R04) — voir §4.4
+- **Objectif** : transformer chaque partie en information exploitable.
+- **Méthode** : procédure §4.4 + feuille §5.
+- **Métrique** : nombre d'erreurs classées par ID ; une erreur « focus » choisie pour la semaine.
+- **Erreur typique** : ne revoir que les défaites ; juger par le résultat.
+- **Réussite** : 1 revue complète pour ~5 parties jouées (UNCERTAIN), et la même erreur focus en baisse sur 2 semaines.
+
+#### DR-20 · Changement de rôle (jouer tueur)
+- **Objectif** : comprendre ce que le tueur voit et entend (il n'entend pas son propre TR, ne voit pas sa red stain, FACT).
+- **Méthode** : 5 parties tueur avec un tueur M1 ; noter ce qui t'a permis de trouver/toucher les survivants (griffures, grognements, bruit de vault, gens) et ce qui t'a fait perdre du temps (palettes, LOS).
+- **Métrique** : liste des 5 signaux les plus utiles au tueur → liste des 5 habitudes survivant à corriger.
+- **Erreur typique** : jouer pour gagner au lieu d'observer.
+- **Réussite** : 5 habitudes survivant identifiées et reliées à des IDs d'erreur.
+
+## 4. PROGRAMME D'ENTRAÎNEMENT EN 10 NIVEAUX (§34, T-R02)
+
+### 4.1 Règles du programme (HEURISTIC)
+
+- **Pratique délibérée, pas volume** : chaque niveau se travaille par **blocs** = 1 objectif + 1-2 drills + un nombre limité de parties focalisées + des revues. Jouer « plus » sans objectif ni revue ne compte pas pour le passage.
+- **Critères de passage mesurables** : ils utilisent les métriques de §5 (IDs `M-xx`). On passe quand le critère est tenu sur **deux blocs consécutifs** (évite de passer sur une série chanceuse).
+- **Se comparer à sa propre base** : mesurer la base au début du niveau (5-10 parties) ; les critères « ↓ 50 % » s'entendent contre cette base. Raison : le matchmaking adapte l'adversité à ton niveau (le MMR tient compte aussi d'actions en partie depuis 10.1.0, FACT VERIFIED_PRIMARY), donc les valeurs absolues bougent quand tu progresses.
+- **Retour en arrière autorisé** : si une métrique d'un niveau inférieur se dégrade nettement pendant 2 blocs, refaire un bloc de ce niveau.
+- **Durées indicatives : UNCERTAIN** — ordre de grandeur pour un joueur qui joue ~4-6 h par semaine ; elles n'ont aucune source et varient énormément.
+- Les niveaux 1-4 peuvent se chevaucher (ex. caméra et loops) ; à partir du 5, respecter l'ordre aide car chaque niveau suppose que le précédent est automatique.
+
+### 4.2 Les 10 niveaux
+
+| Niv. | Thème | Compétences | Drills | Critère de passage (mesurable) | Durée indicative (UNCERTAIN) |
+|---|---|---|---|---|---|
+| 1 | Fondamentaux | Constantes §0.2 (gens 90 s, crochet 70 s/phase, soin 16 s, vaults, palettes, statuts) ; skill checks ; déplacements silencieux ; HUD de base | DR-14, DR-17 (version simple), DR-02 (intro) | Quiz de 20 questions sur §0.2 ≥ 18/20 ; M-10 : ≤ 1 skill check raté/partie sur 5 parties ; M-13 : aucun corbeau AFK sur 5 parties | 1-2 semaines ; ~10 parties + 2 revues |
+| 2 | Caméra + pathing | Checks caméra aux bons moments ; fast vault à la demande ; approche en arc | DR-01, DR-02 | M-06 : ≥ 80 % de fast vaults en chase (revue) ; 0 collision relevée sur 3 parties revues | 1-2 semaines ; 3 sessions KYF + ~10 parties |
+| 3 | Loops de base | Shack, jungle gym, T-L, fillers ; arbre T-Q01 niveau Q1-Q4 ; compter ses vaults | DR-03, DR-04, DR-12 | Feuille T-Q01 annoncée avant l'action ≥ 90 % des palettes ; M-14 (palettes gaspillées) ↓ 50 % vs base ; M-01 médiane contre tueurs M1 ↑ vs base | 2-3 semaines ; ~20 parties + 4 revues |
+| 4 | Map awareness | Tiles de repli, zones riches/mortes, emplacement des gens, 3-gen potentiels, portes ; fixe vs RNG (lot 8) | DR-13, DR-09 | M-07 : 0 mort en dead zone évitable sur 5 parties ; 2 tiles de repli nommées à chaque déplacement (auto-contrôle en revue ≥ 80 %) | 2-3 semaines ; 5 parties par carte sur 3-4 cartes |
+| 5 | Killer counterplay | Identification avant reveal ; counterplay par archétype puis par tueur ; add-ons qui changent la décision | DR-06, DR-15, DR-05 | M-16 : identification avant reveal ≥ 70 % sur 20 parties ; M-12 (coups de pouvoir évitables) ↓ 50 % vs base sur les 5 tueurs travaillés | 4-6 semaines (1 tueur ou 1 archétype par semaine) |
+| 6 | Macro | Rotation de gens, anti-3-gen, sauvetages (T-Q02), soins (T-Q03), répartition des risques selon les crochets | DR-09, DR-10, DR-18, DR-16 | M-09 : sauvetages punis < 25 % ; M-11 : soins inutiles < 20 % ; M-17 : 0 3-gen évitable sur 10 parties | 3-4 semaines ; ~25 parties + 5 revues |
+| 7 | Game sense | Prédire la position du tueur et des coéquipiers ; comptage continu ; perk deduction ; reconnaître une partie qui bascule | DR-17, DR-07, DR-16 + exercice « prédiction » (toutes les 60 s, écrire/dire où est le tueur, vérifier en revue) | M-18 : 0 erreur de comptage sur 5 parties ; M-16 : précision perk deduction ≥ 80 % ; prédictions de position correctes ≥ 60 % (UNCERTAIN) | 3-4 semaines |
+| 8 | Chase avancée | Red stain et feintes, Bloodlust, quitter la tile sur événement, mindgames, loop vs hold W, marge de latence | DR-05 (difficile), DR-12 (difficile), DR-13 | M-05 : coups évitables par chase ↓ 50 % vs fin du niveau 3 ; M-15 : départs de tile sur événement ≥ 80 % ; M-04 (first-hit timing) médiane ↑ vs base | 4-6 semaines |
+| 9 | Décision de haut niveau | Trades, casser/garder une chase, tempo d'équipe, valeur d'une seconde (§0.3), arbres complets, endgame | DR-19 intensif, DR-11, DR-10 | En revue : ≥ 80 % des moments pivots avec décision justifiée par l'info disponible ; erreurs E-T* ↓ 50 % vs base ; M-08 : 0 trade injustifié sur 10 parties | 4-8 semaines |
+| 10 | Concepts compétitifs | SWF : rôles, protocoles, callouts, plan de carte, coordination des crochets ; lecture d'une partie en termes de tempo ; limites (règlements, bans : lot 10 BLOCKED) | DR-08, DR-11 en KYF, DR-19 en équipe (revue croisée) | Callouts actionnables ≥ 80 % (DR-08) ; plan de partie écrit pour 5 cartes et appliqué ; métriques des niveaux 3-9 maintenues contre une opposition plus forte (2 blocs) | Continu |
+
+### 4.3 Structure d'une semaine type (HEURISTIC, exemple)
+
+- **Séance 1 (60-90 min)** : 10 min de rappel (fiche du niveau, erreur focus) → parties focalisées sur le drill principal.
+- **Séance 2** : KYF ou parties publiques sur le drill secondaire.
+- **Séance 3** : parties « libres » mais feuille remplie (mesure en conditions normales).
+- **Revue (30-45 min)** : 1-2 parties revues selon §5.4 ; mise à jour des métriques ; choix de l'erreur focus de la semaine suivante.
+- **Pourquoi** : alterner focalisation et jeu normal vérifie que le geste tient hors du drill ; la revue fournit le retour que la partie elle-même ne donne pas (une victoire peut cacher 5 erreurs).

@@ -488,7 +488,7 @@ Rappel : sauf mention FACT, tout ce qui suit est HEURISTIC / SITUATIONAL. Chaque
    - levée de l'arme / début de fente → esquive latérale ou obstacle ;
    - pouvoirs : charge, visée, posture (détail par tueur au lot 4 : ex. Hillbilly, charge de tronçonneuse ; Huntress, armé de hachette).
 3. **Utile** : dans tout duel rapproché ; pour savoir si le tueur casse ou fait semblant (T17) ; pour enchaîner sans vérifier plusieurs fois.
-4. **Mauvais / piège** : se fier au début d'animation contre un tueur qui feinte (fausse casse n'existe pas mécaniquement une fois lancée, mais les fausses avances oui) ; latence (T21) : ce que tu vois a un léger retard (UNCERTAIN en valeur).
+4. **Mauvais / piège** : se fier à un mouvement qui n'est pas encore une action (fausse avance, recul) ; une casse une fois lancée n'est, à ma connaissance, pas annulable (UNCERTAIN, non vérifié) ; latence (T21) : ce que tu vois a un léger retard (UNCERTAIN en valeur).
 5. **Erreurs fréquentes** : rester regarder la casse au lieu de courir ; confondre le recul d'un stun et une casse ; réagir au mouvement de caméra (qui n'est pas une animation d'action).
 6. **Contre-jeu du tueur** : masquer ses intentions (ne lancer l'action qu'une fois la décision sûre), attendre hors de ta vue.
 7. **Exercice « Nommer l'animation »** :
@@ -609,3 +609,203 @@ Rappel : sauf mention FACT, tout ce qui suit est HEURISTIC / SITUATIONAL. Chaque
 5. **Erreurs fréquentes** : 360 trop tôt (le tueur n'a pas engagé) ; 360 comme réflexe au lieu de courir vers un tile ; 360 qui ramène vers le tueur (perte de distance si raté).
 6. **Contre-jeu du tueur** : retenir la fente, viser ta position de sortie, frapper sans fente complète.
 7. **Exercice** : en partie personnalisée avec un ami, 20 tentatives ; métrique = % de rates provoqués **et** distance perdue en cas d'échec ; réussite = ne l'utiliser en partie que si ton taux mesuré dépasse nettement 50 % contre ce type de tueur (HEURISTIC).
+
+---
+
+## 4. Chase theory avancée (mission §14) — raisonner en secondes gagnées pour l'équipe
+
+Principe : **une chase ne se juge pas à « ai-je survécu ? » mais à « combien de secondes-survivant l'équipe a-t-elle gagnées, et combien a coûté ce qui a suivi ? »**. Tous les modèles de cette section sont des **HYPOTHESIS** construites sur des valeurs FACT de l'audit ; les paramètres non vérifiés sont signalés.
+
+### 4.1 L'unité : la seconde de chase convertie en générateurs
+
+- FACT [audit : VMS] 1 gen = 90 secondes-survivant ; 5 gens = 450.
+- Modèle : `valeur d'1 s de chase = n × e secondes-survivant`, où `n` = alliés qui réparent **chacun un gen différent** (0 à 3) et `e` = efficacité réelle (déplacements, skill checks ratés, interruptions). `e` n'est pas mesuré : j'utilise **e = 0,8** (HYPOTHESIS ; le seed proposait « retirez 20 à 30 % », non sourcé).
+- Si deux alliés partagent un gen : FACT [audit : SS] 1,7 charge/s au lieu de 2 → perte de 15 %.
+- Correction du seed : « chaque seconde de chase vaut environ un tiers de générateur » (ch. 7, audit A-267) est **faux** : c'est ≈ 1/30 de gen (3 réparateurs, e = 1), ≈ 1/37 avec e = 0,8. Le chapitre 1 du seed (« 30 s ≈ 1 gen avec 3 alliés ») était juste dans l'hypothèse idéale.
+
+| Durée de chase | n = 3, e = 1 | n = 3, e = 0,8 | n = 2, e = 0,8 | n = 1, e = 0,8 |
+|---|---|---|---|---|
+| 20 s | 0,67 gen | 0,53 | 0,36 | 0,18 |
+| 30 s | 1,0 | 0,8 | 0,53 | 0,27 |
+| 45 s | 1,5 | 1,2 | 0,8 | 0,4 |
+| 60 s | 2,0 | 1,6 | 1,07 | 0,53 |
+| 90 s | 3,0 | 2,4 | 1,6 | 0,8 |
+| 120 s | 4,0 | 3,2 | 2,13 | 1,07 |
+
+- CALC : si un survivant est poursuivi en permanence et que les 3 autres réparent à e = 0,8, les 5 gens tombent en 450 / 2,4 ≈ **188 s** (≈ 3 min 8 s), sans compter crochets, soins, régression. C'est l'horloge que le tueur doit battre.
+- Conséquence : la même chase de 30 s vaut 0,8 gen si 3 alliés réparent, 0,27 gen si un seul le fait (les autres soignent, décrochent ou cherchent un coffre). **La valeur de ta chase dépend autant de tes alliés que de toi** (SoloQ : tu ne le sais pas ; SWF : tu peux le demander).
+
+### 4.2 Coût temporel pour le tueur (table de référence)
+
+| Action du tueur | Temps (FACT) | Confiance | Remarque |
+|---|---|---|---|
+| Casser une palette ou un mur | 2,34 s | VMS | Perd la Bloodlust |
+| Casser à la tronçonneuse | 1 s | SS | Hillbilly, Cannibal |
+| Être étourdi par une palette | 2 s (1-1,2 s avec Enduring) | SS | Effet sur la Bloodlust : UNCERTAIN |
+| Vaulter une fenêtre | 1,7 s | SS | Bamboozle : ~1,48-1,62 s (CALC, si +5-15 % de vitesse d'action = durée /1,05-1,15) |
+| Cooldown après coup réussi | 2,7 s | VMS | + 1,8 s de boost pour le survivant |
+| Cooldown après coup raté / obstrué | 1,5 s | SS | |
+| Coup de pied sur un gen | 1,8 s | VMS | −5 % (= 4,5 charges) puis −0,25 charge/s |
+| Accrocher | 1,5 s | SS | |
+| Porter un survivant | 3,68 m/s | SS | 20 m ≈ 5,4 s ; 40 m ≈ 10,9 s (CALC) |
+| Ramasser un survivant | non documenté | UNCERTAIN | |
+| Wiggle | 16 s cumulées max | SS | Au-delà, le survivant se libère |
+| Chercher après une perte de chase | non mesurable | — | Souvent le plus gros coût caché (HYPOTHESIS) |
+
+Lecture : le « prix » d'une palette pour le tueur n'est pas 2,34 s mais **2,34 s + la distance offerte (9,4 m) + la Bloodlust perdue**. En secondes de chase supplémentaires contre un 115 % : ≈ 15-16 s en terrain ouvert (CALC, section 2.3).
+
+### 4.3 Expected value (EV) d'une palette
+
+1. **Définition** : valeur moyenne, en secondes de chase (ou en secondes-survivant), d'une décision sur une palette, pondérée par les probabilités.
+2. **Mécanique / modèle** (HYPOTHESIS) :
+   - `T_loop` = secondes de chase gagnées par un cycle de plus sur le tile (non mesuré ; dépend du tile, lot 7) ;
+   - `p` = probabilité d'être touché pendant ce cycle (dépend du tueur, de sa Bloodlust, de son pouvoir, de ton avance) ;
+   - `C_hit` = coût d'un coup reçu, exprimé en secondes de chase perdues (§4.4) ;
+   - Greed d'un cycle puis drop vs drop immédiat : `ΔEV ≈ (1 − p) × T_loop − p × C_hit`.
+   - **Greed rentable si `p < T_loop / (T_loop + C_hit)`**.
+3. **Exemples chiffrés** (tueur M1 115 %, 3 alliés sur gens ; `T_loop` = 10 s : HYPOTHESIS) :
+   - Sain, `C_hit` ≈ 17 s (voir 4.4) → seuil p* = 10 / 27 ≈ **0,37**. Si tu estimes p = 0,25 : ΔEV = 7,5 − 4,25 = **+3,25 s** → greed raisonnable.
+   - Blessé, `C_hit` ≈ 50 s (le coup = fin de chase + crochet) → p* = 10 / 60 ≈ **0,17**. Avec le même p = 0,25 : ΔEV = 7,5 − 12,5 = **−5 s** → drop.
+   - Sain mais tueur anti-loop avec pouvoir prêt, p = 0,5 : ΔEV = 5 − 8,5 = **−3,5 s** → drop (ou quitter le tile).
+   - Leçon : le seuil de risque acceptable est **deux fois plus bas** blessé que sain. « Toujours greed » et « toujours pre-drop » sont faux tous les deux.
+4. **Valeur future de la palette** : une palette gardée pour plus tard vaut environ ce qu'elle rapportera au prochain usage (≈ +9,4 m et reset de Bloodlust, soit ≈ 15 s de chase contre un 115 % : CALC) × la probabilité qu'elle serve encore (toi ou un allié). Plus la zone est pauvre en palettes, plus cette valeur future monte (resource economy, §4.5).
+5. **Mauvais usage du modèle** : prendre ces chiffres pour des mesures. Les paramètres `T_loop` et `p` sont des estimations de joueur ; le modèle sert à **ordonner** les options, pas à calculer un résultat exact.
+6. **Erreurs fréquentes** : oublier `C_hit` (penser seulement à « gagner une boucle ») ; surestimer `T_loop` sur un tile faible ; ignorer que `p` augmente avec la Bloodlust (+0,2 à +0,6 m/s).
+7. **Contre-jeu du tueur** : augmenter ton `p` (pouvoir, mindgame, zoning) ou réduire ton `T_loop` (couper le tile, Bamboozle, casse tôt).
+8. **Exercice « EV à froid »** : après 5 parties, choisir 10 décisions de palette en VOD ; estimer `p` et `T_loop` avant de regarder la suite ; comparer à ce qui s'est passé. Métrique : décisions où ton choix était le meilleur selon ton propre modèle. Réussite : ≥ 70 % de décisions cohérentes avec le modèle (HEURISTIC), et liste de tes biais (greed blessé, pre-drop trop tôt…).
+
+### 4.4 Coût d'une blessure
+
+1. **Définition** : ce qu'un coup reçu coûte à l'équipe, au-delà de la barre de vie.
+2. **Composantes (secondes-survivant, HYPOTHESIS sauf FACT indiqués)** :
+
+| Composante | Estimation | Base |
+|---|---|---|
+| Soin altruiste | 16 s de soigneur + 16 s de soigné = **32 s-s** + déplacements (≈ 10 s-s, HYPOTHESIS) | FACT [audit : SS] 16 s |
+| Auto-soin au Med-Kit | 16 / 0,67 ≈ **24 s-s** (+ charges du kit) | FACT [audit : SS] −33 % ; CALC |
+| Mangled | ×1,25 → 40 s-s en altruiste | FACT [audit : SS] |
+| Deep Wound (après Endurance) | mending 10 s seul ou 6 s par un allié (12 s-s) | FACT [audit : VP] |
+| Rester blessé | Prochaine chase plus courte d'un « palier » ; info au tueur (grognements, sang) ; un coup = au sol | Mécanique FACT, valeur HYPOTHESIS |
+| Coup quand déjà blessé | Chase terminée + crochet (§4.12 : ≈ 80-120 s-s pour l'équipe) + 1 état de crochet | HYPOTHESIS |
+
+3. **Conversion en secondes de chase** (3 alliés, e = 0,8 → 2,4 s-s par seconde) :
+   - Coup sain → blessé, puis soin altruiste : ≈ 42 s-s ≈ **17 s de chase** (c'est le `C_hit` sain de 4.3) ;
+   - Coup blessé → au sol : chase perdue + crochet ≈ 100-150 s-s ≈ **40-60 s de chase** (`C_hit` blessé ≈ 50 s).
+4. **Mauvais raisonnement** : « une blessure n'est pas grave puisque je cours aussi vite » (FACT : même vitesse) — le coût est dans le soin ou dans la chase suivante, pas dans la vitesse.
+5. **Utile** : décider de se soigner ou non (lot 9) ; décider du greed (4.3) ; accepter un coup volontaire (body block, lot 5) quand l'échange est rentable.
+6. **Contre-jeu du tueur** : laisser les survivants blessés (pression de soin), perks de Mangled/Haemorrhage/Broken (lot 3).
+7. **Exercice « Prix du coup »** : pendant 10 parties, noter pour chaque coup reçu le coût réel (soin fait ? par qui ? combien de temps ? chase suivante plus courte ?). Métrique : s-s réellement dépensés par coup. Réussite : connaître ta moyenne et la réduire (moins de soins inutiles, plus de coups évités sur greed blessé).
+
+### 4.5 Resource economy et resource denial
+
+1. **Définition** : la carte offre un stock fini de ressources de chase (palettes surtout ; fenêtres renouvelables mais bloquables 30 s par survivant). Le **resource denial** consiste à retirer des ressources à l'adversaire.
+2. **Mécanique** :
+   - FACT [audit : SS] palettes espacées d'au moins 14-20 m ; FACT [audit : VP] densités revues en 9.2.0 / 9.3.0 / 9.3.2 ; pas de DR sur les palettes (9.6.0).
+   - Côté tueur : casser une palette coûte 2,34 s maintenant mais retire à tous les survivants un futur gain de ≈ 15 s de chase (CALC) ; c'est souvent rentable **même quand la chase actuelle n'en a pas besoin** (HEURISTIC).
+   - Côté survivant : le « denial » consiste à retirer au tueur ses ressources à lui : Bloodlust (forcer les casses), info (marcher, LOS, Elusive après décrochage), crochets proches (sabotage, lot 5), temps de pouvoir (esquiver les charges).
+3. **Utile** : déplacer la chase vers les zones **encore riches** ; garder les palettes proches des gens restants pour la fin de partie ; en SWF, annoncer les palettes utilisées.
+4. **Mauvais** : se « garder » des palettes jusqu'à la mort (valeur future jamais réalisée) ; déplacer la chase vers une zone riche mais pleine d'alliés sur gens.
+5. **Erreurs fréquentes** : utiliser toutes les palettes d'une zone en début de partie, puis y ramener la chase ; ignorer ce que les alliés ont consommé (SoloQ).
+6. **Contre-jeu du tueur** : casser tôt les palettes fortes (god/safe), ramener les survivants vers les zones mortes, préférer les chases près des zones déjà vidées.
+7. **Exercice « Carte des palettes »** : en fin de partie (écran de fin ou mémoire), dessiner où les palettes ont été utilisées et où ont eu lieu les downs. Métrique : downs en zone « vidée ». Réussite : tendance décroissante sur 20 parties.
+
+### 4.6 Zoning et forced path
+
+1. **Définitions** :
+   - **Zoning** : se positionner pour rendre certaines options trop dangereuses et pousser l'adversaire vers une zone choisie.
+   - **Forced path** : situation où la géométrie ou une ressource impose un trajet (une palette baissée, une fenêtre, un couloir, une seule sortie).
+2. **Mécanique** : le tueur, plus rapide, n'a pas besoin de te toucher pour gagner : il lui suffit de couper l'accès au tile suivant pour que ta seule option soit une dead zone. Inversement, une palette baissée crée un forced path pour le tueur (casser 2,34 s ou contourner).
+3. **Utile (survivant)** :
+   - repérer quand le tueur « coupe » plutôt qu'il ne suit (il se place entre toi et le tile fort) et changer de destination tôt ;
+   - utiliser le forced path contre lui : palette baissée derrière toi dans un couloir sans détour = il doit casser (2,34 s) ;
+   - **zoning inversé** : emmener la chase loin des gens à finir et loin des crochets proches de ces gens (principe correct du seed, n° 14).
+4. **Mauvais** : se laisser zoner vers un mur de carte ; entrer dans un bâtiment à une seule sortie ; forcer un trajet qui rapproche la chase d'un allié.
+5. **Erreurs fréquentes** : réagir trop tard au zoning (le tueur a déjà coupé) ; confondre zoning et « le tueur ne sait pas où je suis ».
+6. **Contre-jeu du tueur** : c'est son outil principal contre les bons loopers ; il l'associe au resource denial (4.5).
+7. **Exercice « Qui choisit le trajet ? »** : en VOD, pour chaque transition de tile, noter si c'était ton choix ou un trajet imposé. Métrique : % de transitions choisies. Réussite : > 70 % (HEURISTIC).
+
+### 4.7 Option coverage
+
+1. **Définition** : se placer de façon qu'**une** position couvre **plusieurs** options adverses.
+2. **Mécanique** : un tueur au centre d'un jungle gym couvre la fenêtre et la palette ; un survivant à un point d'où il peut rejoindre la fenêtre **ou** la palette avant le tueur, quel que soit son côté, ne dépend plus d'un 50/50. La couverture d'options transforme un mindgame (T10) en situation à information.
+3. **Utile** : chaque fois que tu peux attendre un engagement adverse sans perdre de distance (checkspot, T14) ; en fin de chase (Bloodlust haute) pour éviter les paris.
+4. **Mauvais** : rester « au milieu » trop longtemps : la Bloodlust monte, le tueur gagne du temps d'observation, et sa propre couverture (pouvoir à distance) l'emporte.
+5. **Erreurs fréquentes** : confondre attendre et couvrir (attendre sans info = 50/50 différé) ; oublier les pouvoirs qui couvrent à distance.
+6. **Contre-jeu du tueur** : se placer à l'intersection de tes deux trajets ; frapper à distance ; feinter l'engagement.
+7. **Exercice** : sur 5 tiles fréquents, trouver en partie personnalisée le point d'où les deux ressources sont atteignables avant le tueur pour ses deux trajets (avec un ami tueur). Réussite : un point identifié et validé par tile (donnée utile au lot 7).
+
+### 4.8 Information asymmetry
+
+1. **Définition** : écart entre ce que chaque camp sait.
+2. **Mécanique** : le survivant a le TR, la musique de chase, la tache rouge, les sons ; le tueur a les griffures (10 s), le sang, les grognements, les auras de perks, les alertes de bruit (fast vault, palette). FACT [audit : SS/VP] Undetectable retire TR et tache ; Elusive retire griffures, grognements et sang et bloque l'aura. FACT [audit : VP] depuis 9.6.0, les survivants voient les loadouts **de leurs coéquipiers**, mais pas celui du tueur (révélé en fin de partie seulement ; le seed disait le contraire, audit D-092).
+3. **Utile** : créer l'asymétrie (casser la LOS, marcher, slow vault silencieux, se cacher de façon crédible) ; l'exploiter (checkspots, son).
+4. **Mauvais** : croire à une asymétrie qui n'existe pas (le tueur a une perk d'aura que tu ne connais pas).
+5. **Erreurs fréquentes** : fast vault bruyant juste après avoir cassé la LOS ; courir (griffures) après un chase break.
+6. **Contre-jeu du tueur** : perks d'aura, Undetectable, fausses patrouilles (seed ch. 10).
+7. **Exercice « Qu'est-ce qu'il sait ? »** : à chaque perte de LOS, annoncer ce que le tueur peut savoir de toi (griffures, sang, son). Réussite : annonce correcte et action cohérente (marcher / s'accroupir / courir) dans ≥ 80 % des cas en VOD.
+
+### 4.9 Risk / reward et variance
+
+1. **Définition** : choisir le niveau de risque selon l'état de la partie.
+2. **Mécanique (HYPOTHESIS)** : l'équipe en avance (gens proches de la fin, peu de crochets) gagne à **réduire la variance** : pre-drops plus tôt, pas de mindgame inutile. L'équipe en retard (2 survivants, 3-4 gens) gagne à **augmenter la variance** : un mindgame réussi ou un long chase est sa seule chance.
+3. **Utile** : fin de partie ; dernier état de crochet ; SWF qui connaît l'état des gens.
+4. **Mauvais** : appliquer un style fixe quelle que soit la partie.
+5. **Erreurs fréquentes** : jouer « flashy » quand l'équipe gagne ; jouer trop prudemment quand seule une chase longue peut sauver la partie.
+6. **Contre-jeu du tueur** : même logique inversée (il prend des risques quand il est en retard).
+7. **Exercice** : avant chaque chase, dire « avance / égalité / retard » et le niveau de risque choisi. Réussite : cohérence dans ≥ 80 % des chases (VOD).
+
+### 4.10 Distance conversion
+
+1. **Définition** : transformer la distance gagnée en ce qui rapporte le plus : un tile atteint, une fin de poursuite, du temps pour l'équipe.
+2. **Mécanique** :
+   - CALC : 1 m ≈ 1,67 s (vs 4,6) / 2,5 s (vs 4,4) de chase en ligne droite.
+   - FACT [audit : SS] la poursuite prend fin au-delà de 18 m. CALC : un stun + casse (+17,4 m) depuis presque n'importe quel écart te met au-delà de 18 m si tu cours droit → la poursuite peut prendre fin (Bloodlust qui régresse). Temporisation exacte de cette condition : UNCERTAIN.
+   - Une distance gagnée peut être « dépensée » : pour atteindre un tile fort, pour casser la LOS et disparaître, ou pour rester sur le tile et refaire un cycle.
+3. **Utile** : après un stun, une casse, un coup reçu (boost), une fente ratée : **décider immédiatement** de ce que tu achètes avec ces mètres.
+4. **Mauvais** : gaspiller la distance en regardant le tueur casser ; revenir vers lui pour « reprendre » le tile.
+5. **Erreurs fréquentes** : chase break tenté vers une zone ouverte (distance perdue et chase reprise) ; oublier que contre un tueur à mobilité la distance vaut moins.
+6. **Contre-jeu du tueur** : ne pas casser (contourner) quand tu as un tile fort à proximité ; utiliser son pouvoir pour annuler la distance.
+7. **Exercice** : noter pour chaque stun / casse ce que tu as « acheté » (tile, chase break, cycle). Réussite : 0 distance « gaspillée » (aucune décision) sur 10 parties.
+
+### 4.11 Tempo
+
+1. **Définition** : rythme auquel les événements décisifs arrivent (gens terminés, crochets, sauvetages), et qui les contrôle.
+2. **Mécanique (HYPOTHESIS)** : un gen qui tombe **pendant** ta chase est du temps converti ; un crochet qui arrive quand 3 gens sont à 80 % coûte moins à l'équipe qu'un crochet qui arrive quand aucun gen n'avance. Le tueur cherche à accrocher vite après une chase courte pour enchaîner ; les survivants cherchent à ce que chaque crochet « coûte » au tueur une longue chase **et** un long portage.
+3. **Utile** : en début de partie, la première chase fixe le tempo (FACT [audit : VP] le tueur est révélé dès la 1re poursuite, les alliés savent qui il est) ; en milieu de partie, faire durer quand un gen est proche de la fin.
+4. **Mauvais** : tout le monde répare pendant que personne ne s'occupe du crochet (70 s par phase : FACT [audit : VP]) ; laisser 3-4 gens à 90 % sans finir (lot 9).
+5. **Erreurs fréquentes** : prendre une chase « risquée » juste avant qu'un gen ne tombe (un down à ce moment interrompt 1-2 alliés).
+6. **Contre-jeu du tueur** : enchaîner les downs rapides, slug, régression au bon moment (lot 3).
+7. **Exercice** : noter l'heure des gens terminés et des crochets ; réussite = identifier, par partie, le moment où le tempo a basculé et la décision de chase qui l'a causé.
+
+### 4.12 Pressure conversion (et le crochet « rentable »)
+
+1. **Définition** : comment le tueur convertit une chase en retrait de survivants des gens, et comment l'équipe minimise cette conversion.
+2. **Modèle du coût d'un crochet pour l'équipe (HYPOTHESIS)** :
+   - survivant accroché qui ne répare pas avant d'être secouru : 20-40 s-s ;
+   - sauveteur : trajet 15-25 s + décrochage 1 s (FACT [audit : SS]) ;
+   - soin du décroché (il est blessé) : 32 s-s en altruiste (FACT 16 s × 2) ;
+   - retour sur un gen : ≈ 10 s-s ;
+   - **Total ≈ 80-120 s-s** (≈ 0,9-1,3 gen), plus 1 état de crochet sur 12 pour le tueur.
+3. **Seuils indicatifs (CALC sur ce modèle, 3 alliés sur gens, e = 0,8 ; portage de ~8 s)** :
+   - **Seuil de non-recul** (la chase + le portage compensent le coût du crochet) : `2,4 × (T + 8) ≥ 80-120` → **T ≈ 25-42 s**.
+   - **Seuil de rythme** (en plus, l'équipe avance au rythme nécessaire : 450 s-s à produire pendant que le tueur accumule ~9-12 états de crochet, soit ≈ 37,5-50 s-s par état) : `2,4 × (T + 8) ≥ 80-120 + 37,5-50` → **T ≈ 41-63 s**.
+   - Avec seulement 2 alliés sur gens (1,6 s-s par seconde), ces seuils sont multipliés par ~1,5.
+   - Ces seuils ignorent la régression, les perks, les 3-gens, les slugs et le fait qu'un décès retire un réparateur : ils donnent un **ordre de grandeur**, pas une règle.
+4. **Exemple chiffré « chase perdue mais rentable »** : chase de 90 s, 3 alliés sur gens, e = 0,8 → 216 s-s (2,4 gens) ; portage de 25 m ≈ 6,8 s + accrochage 1,5 s → ≈ 20 s-s de plus ; coût du crochet ≈ 100 s-s. **Net ≈ +136 s-s (≈ 1,5 gen)** pour 1 état de crochet sur 12. C'est une chase gagnante pour l'équipe, bien qu'elle finisse au crochet.
+5. **Contre-exemple** : chase de 20 s avec 2 alliés sur gens (le 3e en SoloQ vient « aider ») → 1,6 × 28 ≈ 45 s-s ; coût du crochet ≈ 100 s-s → **net ≈ −55 s-s**. Même si tu t'échappes plus tard, cette séquence a coûté l'équivalent de 0,6 gen.
+6. **Erreurs fréquentes** : juger une chase au résultat (hook ou pas) ; aller « voir » la chase d'un allié (tu retires 1 de `n`, seed ch. 7 principe 4 correct) ; soigner tout le monde après chaque crochet.
+7. **Contre-jeu du tueur** : chases courtes, crochets proches des gens (proxy), slug pour retirer plusieurs survivants, perks qui punissent le sauvetage (lot 3).
+8. **Exercice « Bilan de chase »** : après chaque partie, pour chaque chase : durée, nombre d'alliés sur gens, gens tombés pendant, issue. Métrique : s-s nets par chase. Réussite : moyenne positive, et identification des chases < 25 s (à analyser en priorité).
+
+### 4.13 Chase commitment et chase abandonment
+
+1. **Définitions** : le tueur **s'engage** (commitment) quand il décide de poursuivre jusqu'au coup ; il **abandonne** (abandonment) quand il lâche pour une autre cible ou pour la pression de gens.
+2. **Mécanique** : pour le tueur, chaque seconde de chase est un coût (4.1) et le temps déjà investi est perdu (coût irrécupérable). Pour toi, ce qui compte est ce que fait le tueur **après** : chercher longtemps (bon pour l'équipe), trouver immédiatement un allié blessé (mauvais).
+3. **Utile (survivant)** :
+   - être la cible idéale quand tu es sain, sur une zone riche, loin des gens : tu **veux** que le tueur s'engage ;
+   - rester « crédible » (dans sa LOS, près d'un tile) pour qu'il ne lâche pas trop tôt quand un allié blessé répare près de là (SITUATIONAL, risqué) ;
+   - reconnaître l'abandon : TR qui s'éloigne, tueur qui tourne vers un gen → reprendre un gen **loin** de lui, ou prévenir (SWF).
+4. **Mauvais** : suivre un tueur qui abandonne pour « le reprendre » (tu perds du temps de gen ; tu t'offres blessé) ; rester visible alors que tu es blessé et sans ressources.
+5. **Erreurs fréquentes** : prendre l'abandon pour une victoire et se soigner à côté (il peut revenir) ; ne pas prévenir les alliés en SoloQ (pas de communication vocale : la roue de communication ou le HUD seulement, lot 9).
+6. **Contre-jeu du tueur (ce qu'il pense, pour le lire)** : le seed propose au tueur une « règle des 30-40 s » (lâcher si ni coup ni palette) : c'est une **HEURISTIC** de tueur, pas une règle ; elle suggère qu'un tueur qui a investi 30 s sans résultat devient susceptible d'abandonner, surtout si un gen est proche de la fin. Beaucoup de tueurs au contraire « s'acharnent » : ne pas compter dessus.
+7. **Exercice** : noter chaque abandon subi : combien de secondes après le début ? qu'a fait le tueur ensuite ? Métrique : secondes de recherche ou de trajet avant sa prochaine chase. Réussite : repérer les situations où tu aurais dû rester visible ou au contraire disparaître.
