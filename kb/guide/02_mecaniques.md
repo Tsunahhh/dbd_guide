@@ -56,7 +56,7 @@ Autres tailles d'équipe au départ (SS) : 6 gens présents / 4 requis avec 3 su
 - les survivants doivent produire **450 s-surv** de réparation utile (5 × 90 ; moins avec Great skill checks, toolbox et perks ; plus avec la régression, les skill checks ratés et les blocages) ;
 - le tueur doit produire **12 états de crochet** (moins si des phases expirent, s'il exile avec The Judgment, s'il fait saigner ou s'il obtient un Mori).
 
-Comparer `gens finis / 5` à `états de crochet / 12` donne une lecture rapide de la partie. Cet indicateur ignore la **répartition** des crochets : 6 états répartis 2-2-1-1 ne valent pas 3-2-1 avec une mort, car une mort retire un réparateur pour toute la partie. C'est pour cela que le tunneling est rentable pour le tueur (voir chapitre macro).
+Comparer `gens finis / 5` à `états de crochet / 12` donne une lecture rapide de la partie. Cet indicateur ignore la **répartition** des crochets : 6 états répartis 2-2-1-1 ne valent pas 3-2-1 avec une mort, car une mort retire un réparateur pour toute la partie. C'est pour cela que le tunneling est rentable pour le tueur (voir chapitre 6).
 
 **[FACT] calc.** Si un survivant est en chase en permanence et que les 3 autres réparent chacun un gen différent, **1 seconde de chase ≈ 1/30 de gen** (3 × 1/90). Le seed disait « 1/3 de gen » : c'est faux (audit A-267). Avec 2 réparateurs sur le même gen et un 3e qui « regarde », on tombe à ~1/53 de gen par seconde.
 
@@ -221,7 +221,7 @@ Calcul utile (calc., à partir de 4 % et des offrandes de Luck +1/2/3 %) : avec 
 
 **QUOI** : un système qui libère l'accroché si le tueur reste tout près de lui. **POURQUOI** il ne règle pas tout : il ne s'intéresse qu'aux 16 m et ne se déclenche plus une fois les portes alimentées.
 
-**QUAND il vous aide** : face camp (tueur immobile à < ~10 m). La jauge accélère (×2 après 10 s, ×4 après 20 s de présence). **Ne restez pas dans les 16 m** : votre présence **ralentit** la jauge (SS) et vous offre en cible. Réparez.
+**QUAND il vous aide** : face camp (tueur immobile à < ~10 m). La jauge accélère (×2 après 10 s, ×4 après 20 s de présence). **Sauf raison précise (sauvetage imminent, perk qui l'exige), ne restez pas dans les 16 m** : votre présence **ralentit** la jauge (SS) et vous offre en cible. Réparez plutôt **[HEURISTIQUE]**.
 
 **QUAND il ne sert à rien** :
 - **Proxy camp** (tueur à 16-30 m qui patrouille entre crochet et gens proches) : **zéro remplissage** au-delà de 16 m.
@@ -230,7 +230,7 @@ Calcul utile (calc., à partir de 4 % et des offrandes de Luck +1/2/3 %) : avec 
 
 > **Erreur fréquente** : « contre un proxy camp, l'anti-camp finira par décrocher l'allié » (ancien guide, audit A-283). **Faux** : au-delà de 16 m, la jauge ne bouge pas.
 
-> **Erreur fréquente** : « le face camp est inutile au-delà de ~20 s ». **Faux depuis 9.3.0** : à moins de 4 m, la jauge se remplit en ≈ 22,5 s de présence, soit ≈ 30 s après l'accrochage (SS, calcul ; CONFLICT-003 résolu le 27/09/2026).
+> **Erreur fréquente** : « le face camp est inutile au-delà de ~20 s ». **Faux depuis 9.3.0** : à moins de 4 m, la jauge se remplit en ≈ 22,5 s de présence, soit ≈ 29,5 s après l'accrochage (SS, calcul ±10 % ; CONFLICT-003 résolu le 27/09/2026).
 
 **CAS D'ÉCHEC** : attendre que le système travaille alors que le tueur proxy camp ; ou entrer à 6 m pour une perk (Reassurance) sans compter que vous ralentissez la jauge et devenez une cible.
 
@@ -259,7 +259,7 @@ Toutes les règles ci-dessous sont **[FACT] (VP)** :
 - tous les survivants restants accrochés en même temps = sacrifice ;
 - Mori possible si l'un est accroché en Struggle et l'autre au sol, et ce Mori **sacrifie aussi l'accroché**.
 
-**Conséquence [HEURISTIQUE]** : à 2, **ne jamais être mis au sol pendant que l'allié est en Struggle**, où que vous soyez (aucune condition de distance n'est documentée). Tenter le sauvetage seulement si le tueur est engagé loin ; sinon la trappe ne s'ouvrira qu'à la mort de l'autre. Jouer la trappe quand le sauvetage est impossible n'est pas « égoïste » **[AVIS D'EXPERT]**.
+**Conséquence [HEURISTIQUE]** : à 2, **évitez autant que possible d'être mis au sol pendant que l'allié est en Struggle**, où que vous soyez (aucune condition de distance n'est documentée) : le risque est un double sacrifice immédiat. Tenter le sauvetage seulement si le tueur est engagé loin ; sinon la trappe ne s'ouvrira qu'à la mort de l'autre. Jouer la trappe quand le sauvetage est impossible n'est pas « égoïste » **[AVIS D'EXPERT]**.
 
 Détail : `kb/research/batch9_macro.md` §2.4-2.6, §6.4 ; notes officielles 9.0.0 (510), 9.1.0 (516), 9.3.0 (529).
 
@@ -302,7 +302,7 @@ Actions voyantes selon le wiki (SS) : bénir ou purifier un totem, soigner (soi 
 
 ### 2.4.4 Ce qui n'existe pas en LIVE
 
-**[FACT] (VP)** Aucun système anti-tunnel ou anti-slug complet n'est sorti : testé au PTB 9.2.0 (reporté) puis au PTB 9.3.0 (« Reverted » : protection de 30 s, jauge de relevé de 120 s, bonus de crochets uniques). Les perks anti-tunnel restent les outils : **Will to Live** (ex-Decisive Strike ; stun 4 s, actif 40/50/60 s après un décrochage, désactivé portes alimentées et après usage, SS), **Off the Record** (30/35/40 s avec Endurance, SS via note 9.2.2 ; **probablement désactivée portes alimentées** selon le texte wiki réécrit le jour de la 9.2.2, sans note officielle : INC), Babysitter, Deliverance (Broken 160/140/120 s depuis 10.1.0, VP). Borrowed Time : rework PTB 10.2.0 — non LIVE.
+**[FACT] (VP)** Aucun système anti-tunnel ou anti-slug complet n'est sorti : testé au PTB 9.2.0 (reporté) puis au PTB 9.3.0 (« Reverted » : protection de 30 s, jauge de relevé de 120 s, bonus de crochets uniques). Les perks anti-tunnel restent les outils : **Will to Live** (ex-Decisive Strike ; stun 4 s, actif 40/50/60 s après un décrochage, désactivé portes alimentées et après usage, SS), **Off the Record** (30/35/40 s avec Endurance, VM via note 9.2.2 ; **probablement désactivée portes alimentées** selon le texte wiki réécrit le jour de la 9.2.2, sans note officielle : INC), Babysitter, Deliverance (Broken 160/140/120 s depuis 10.1.0, VP). Borrowed Time : rework PTB 10.2.0 — non LIVE.
 
 ### 2.4.5 Le cas The Judgment (Exile)
 
@@ -349,7 +349,7 @@ Add-ons de kit modifiés en 9.3.0 (VP) : **Styptic Agent** ne donne plus d'Endur
 | Altruiste sous Mangled | ≈ 40 s-surv | calc. |
 | Mending (Deep Wound) | 10 s seul, ou 6 s × 2 = 12 s-surv avec un allié | VP |
 
-**Ce que rapporte un état de santé [HYPOTHÈSE]** : au minimum un coup de plus pour le tueur (cooldown 2,7 s après un coup réussi, VM ; boost au coup de 1,8 s pour le survivant, VP pour la durée) et une nouvelle phase de rattrapage : ordre de grandeur **~12-30 s de chase**, très dépendant des tiles. Avec 3 réparateurs, cela vaut ~36-90 s-surv contre 32 s-surv de soin : **rentable dans le cas idéal** ; avec 2 réparateurs, **proche de l'équilibre** ; perdant si le trajet s'ajoute ou si le tueur a un coup unique.
+**Ce que rapporte un état de santé [HYPOTHÈSE]** : au minimum un coup de plus pour le tueur (cooldown 2,7 s après un coup réussi, VM ; boost au coup de 1,8 s pour le survivant, VM pour la durée) et une nouvelle phase de rattrapage : ordre de grandeur **~12-30 s de chase**, très dépendant des tiles. Avec 3 réparateurs, cela vaut ~36-90 s-surv contre 32 s-surv de soin : **rentable dans le cas idéal** ; avec 2 réparateurs, **proche de l'équilibre** ; perdant si le trajet s'ajoute ou si le tueur a un coup unique.
 
 | Contexte | Décision par défaut [HEURISTIQUE] | Exception |
 |---|---|---|
@@ -401,7 +401,7 @@ Détail : `kb/research/batch9_macro.md` §2.10 ; `kb/research/batch6_chase_tech.
 **POURQUOI c'est un arbitrage** : la récupération ne progresse qu'à l'arrêt ; ramper la met en pause (VM : wiki + note 9.3.0 qui rend cette capacité à Tenacity seulement). Le PTB 9.3.0 l'avait écrit en toutes lettres : il faut « choisir entre rester immobile pour récupérer, ou ramper pour que le tueur ne vous trouve pas ».
 
 **QUAND [SITUATIONNEL]** :
-- **ramper** vers un coéquipier ou une zone couverte si cela rapproche réellement un sauveteur ou vous sort de la vue du tueur ; jamais vers un gen occupé, un cul-de-sac ou le crochet le plus proche ;
+- **ramper** vers un coéquipier ou une zone couverte si cela rapproche réellement un sauveteur ou vous sort de la vue du tueur ; évitez en général de ramper vers un gen occupé, un cul-de-sac ou le crochet le plus proche (vous y attirez le tueur) ;
 - **rester immobile** si le tueur est parti loin et qu'un allié arrive déjà : relevé à 95 %, il finit plus vite ;
 - **ne pas alterner au hasard** : chaque changement perd du temps des deux côtés.
 
@@ -597,7 +597,7 @@ Ce que l'on sait, source par source :
 | Casier | Aura cachée à l'intérieur, sauf à l'entrée et à la sortie | SS (lot 5) |
 | Trappe | Aura visible du **dernier survivant seulement** (5.3.0) | SS |
 | Alliés accrochés / au sol | Auras de base : connues des joueurs, **absentes des sources vérifiées** | INC |
-| Knock Out (perk tueur) | Auras des mourants réduites à 32/24/16 m après un coup de base | SS (lot 3) |
+| Knock Out (perk tueur) | **Aucun effet d'aura en LIVE** : la réduction d'aura des mourants (32/24/16 m) a été retirée au rework 8.6.0. Effet LIVE : Hindered 5 % 3/4/5 s si vous vous éloignez de > 6 m d'une palette que vous venez de faire tomber (dans les 6 s) | VM (lot 3) |
 | Personnalisation | Nouveaux types d'aura personnalisables en couleur (9.6.0) | VP |
 | Jauge anti-camp | Visible des autres survivants accrochés (9.3.0) | VP |
 | Timer de crochet | Deux barres depuis 10.1.0 | VP |
@@ -623,7 +623,7 @@ Détail : `kb/research/batch6_chase_tech.md` T07, T08, T16 ; `kb/research/batch9
 | Fin de poursuite | 5 s dans un casier | SS |
 | Fouille par le tueur | 2,33 s pour un casier vide ; 5 s pour extraire un survivant, avec **immunité aux lampes** pendant la saisie | SS (lot 5) |
 | Sous-sol | 6 casiers (6.4.0) | SS |
-| Head On | Stun 3 s à ≤ 2,5 m après 3 s dans le casier ; Exhausted 60/50/40 s | SS |
+| Head On | Stun 3 s à ≤ 2,5 m après 3 s dans le casier ; Exhausted 60/50/40 s sur réussite seulement ; bruit fort si raté | SS |
 
 **[HEURISTIQUE]** Un casier sert à rompre une poursuite hors de vue ou à préparer un save (Head On, Flashbang). Y entrer **sous les yeux** du tueur est une mise au sol offerte. Contre les tueurs qui exploitent les casiers (le Dredge, par exemple), évitez-les.
 
@@ -650,7 +650,7 @@ Détail : `kb/research/batch6_chase_tech.md` T07, T08, T16 ; `kb/research/batch9
 | Extinction | Le tueur éteint un Boon en **1 s** | SS |
 | Limite | Un seul totem béni par survivant, toutes ses Boons dessus ; un totem ravivé par Pentimento ne peut pas être béni | SS |
 
-**QUOI / POURQUOI** : purifier un Hex coupe la perk ; bénir un Hex en fait un Boon (28 s au lieu de 14 s, mais il en sort une zone utile à l'équipe). **QUAND [SITUATIONNEL]** : « purifiez un Hex dès qu'il s'allume » est une règle absolue relevée par l'audit ; tout dépend de l'effet, du trajet et du tueur (la liste des Hex et leurs valeurs sont au chapitre des perks tueur). **CONTRE** : un Boon s'éteint en 1 s ; il ne rapporte que si le tueur doit faire un détour pour l'éteindre.
+**QUOI / POURQUOI** : purifier un Hex coupe la perk ; bénir un Hex en fait un Boon (28 s au lieu de 14 s, mais il en sort une zone utile à l'équipe). **QUAND [SITUATIONNEL]** : « purifiez un Hex dès qu'il s'allume » est une règle trop absolue (relevée par l'audit) ; tout dépend de l'effet, du trajet et du tueur (la liste des Hex et leurs valeurs est au chapitre 10). **CONTRE** : un Boon s'éteint en 1 s ; il ne rapporte que si le tueur doit faire un détour pour l'éteindre.
 
 ### 2.10.4 Portes de sortie
 
@@ -662,7 +662,7 @@ Détail : `kb/research/batch6_chase_tech.md` T07, T08, T16 ; `kb/research/batch9
 | Blocages de l'Entité | Blood Warden **40/50/60 s** ; No Way Out **12 s + 6/9/12 s par jeton** | SS |
 | Heresy | 45 s dans le seuil d'une porte → Heresy ; porte bloquée 8 s si acquise à < 32 m | SS |
 
-**Ce que change l'alimentation (effet « interrupteur »)** : anti-camp désactivé ; Elusive de décrochage retirée ; Will to Live désactivé ; déclenchement des perks de fin de partie des deux camps (Adrenaline, Hope… ; NOED, No Way Out, Terminus, Blood Warden). C'est pourquoi tenir un gen à 99 % peut avoir du sens autour d'un événement précis (voir chapitre macro).
+**Ce que change l'alimentation (effet « interrupteur »)** : anti-camp désactivé ; Elusive de décrochage retirée ; Will to Live désactivé ; déclenchement des perks de fin de partie des deux camps (Adrenaline, Hope… ; NOED, No Way Out, Terminus, Blood Warden). C'est pourquoi tenir un gen à 99 % peut avoir du sens autour d'un événement précis (voir chapitre 6).
 
 **[HEURISTIQUE]** Lâcher un interrupteur plutôt que prendre un coup : la progression reste. Finir si le temps restant (20 s × % restant) est inférieur au temps d'arrivée du tueur.
 
@@ -702,7 +702,7 @@ Détail : `kb/research/batch6_chase_tech.md` T07, T08, T16 ; `kb/research/batch9
 | Murs cassables | 2,34 s, tueur seulement | VM |
 | Espacement des palettes | Au moins 14, 16, 18 ou 20 m | SS |
 
-Casses par pouvoir, Bloodlust et chase : voir le chapitre chase et l'errata (Good Guy, Mastermind, Knight et Lich ne cassent **pas** instantanément en 1v4 sans conditions).
+Casses par pouvoir, Bloodlust et chase : voir le chapitre 3, les fiches des chapitres 7-8 et l'errata (Good Guy, Mastermind, Knight et Lich ne cassent **pas** instantanément en 1v4 sans conditions ; le Hillbilly casse en ~1 s avec son pouvoir de base).
 
 Détail : `kb/research/batch5_items.md` §4, §5.7-5.9 ; `kb/research/batch9_macro.md` §6 ; `kb/ledgers/AUDIT_PHASE0_ERRATA.md`.
 

@@ -230,7 +230,7 @@ Chaque fois que ce n'est pas évident, le texte dit **de quel type** est l'affir
 | **(VP)** | Note de patch officielle BHVR | Nowhere to Hide 24 m (note 10.1.0) |
 | **(VM)** | Wiki **et** note officielle concordants | 10.1.2a le 17/09/2026 |
 | **(SS)** | Wiki seul (page lue en entier), ou une seule source secondaire | Iron Will 80/90/100 % |
-| **(INC)** | Incertain : sources en conflit ou absentes | Taux de base de l'anti-camp depuis 9.3.0 |
+| **(INC)** | Incertain : sources en conflit ou absentes | Off the Record désactivée portes alimentées (conflit non tranché au 27/09/2026) |
 
 > **Erreur fréquente** : croire qu'une valeur (SS) est « presque fausse ». La plupart des valeurs du jeu ne figurent dans aucune note récente. Le wiki complet est alors la meilleure source disponible. (SS) veut dire « à surveiller après un patch », pas « douteux ».
 
@@ -368,7 +368,9 @@ Les dix changements majeurs. La liste complète est dans `kb/ledgers/OUTDATED_CO
 | Lich | Mage Hand + Vorpal Sword casse une palette abaissée en **4 s**, pas instantanément |
 | Mastermind | Virulent Bound **franchit** la palette sans la casser ; casse avec l'add-on Lab Photo |
 | Knight | Les gardes cassent sur ordre en **1,8 s ou 5 s** ; depuis 10.1.1, une palette baissée tôt force le garde à contourner |
-| À ajouter | Shape, Executioner, Nemesis, Singularity, The First |
+| Hillbilly | Casse **de base** avec la tronçonneuse (~1 s) ; aucun add-on n'est nécessaire (LoPro Chains prolonge seulement le sprint) |
+| À ajouter (pouvoir de base) | Shape, Nemesis, Singularity (détail : chapitres 3 et 7-8) |
+| À ajouter (add-on seulement) | Executioner (Obsidian Goblet) ; The First (Shattered Wrist Rocket) **[INCERTAIN]** |
 
 **8. Les statistiques ont été retirées ou datées.** Le « SWF en vocal +3/+8 points » (aucune source), les kill rates de cartes tirés de trois périodes mélangées, les ~70 chiffres par tueur sans effectif et « la chase ne sert à rien » (une corrélation présentée comme une cause) ont disparu. La Huntress n'a pas « le plus haut kill rate » : elle a le pick rate le plus large, et le kill rate le plus élevé tous MMR confondus était celui de The Lich (billet officiel, noms seulement).
 

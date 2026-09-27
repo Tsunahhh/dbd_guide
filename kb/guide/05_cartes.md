@@ -2,7 +2,7 @@
 
 > **Périmètre** : mode **1v4 uniquement**, version **LIVE 10.1.2a (17/09/2026)**. Les cartes « supersized » du 2v8 sont listées à part (§5.2.5) et **aucun conseil de ce chapitre ne s'y applique tel quel**. PTB 10.2.0 : aucun changement de carte hors correctifs de bugs (KB 559) — **PTB 10.2.0 — non LIVE**, sans effet sur ce chapitre.
 
-Ce chapitre répond à trois questions : **quelles cartes existent** aujourd'hui, **comment en lire une** en quelques secondes, et **ce qui est vraiment fixe** sur chacune des 44 cartes 1v4. Le fonctionnement d'une tile (fenêtres, palettes, jungle gyms, shack) est traité dans le chapitre sur les tiles (`kb/research/batch7_tiles.md`) ; ici, la tile est une **pièce** d'un plan à l'échelle de la carte.
+Ce chapitre répond à trois questions : **quelles cartes existent** aujourd'hui, **comment en lire une** en quelques secondes, et **ce qui est vraiment fixe** sur chacune des 44 cartes 1v4. Le fonctionnement d'une tile (fenêtres, palettes, jungle gyms, shack) est traité au chapitre 4 (détail : `kb/research/batch7_tiles.md`) ; ici, la tile est une **pièce** d'un plan à l'échelle de la carte.
 
 **Trois avertissements avant de commencer**
 
@@ -218,7 +218,7 @@ Détail : `kb/research/batch8_maps.md` §1.
 
 ### 5.3.2 Archétypes : la correspondance à connaître
 
-Les fiches utilisent cinq archétypes. Ils correspondent à ceux du chapitre sur les tueurs (`kb/deliverables/KILLER_COUNTERPLAY_HANDBOOK.md`, 8 archétypes) :
+Les fiches utilisent cinq archétypes. Ils correspondent à ceux des chapitres 7 et 8 sur les tueurs (`kb/deliverables/KILLER_COUNTERPLAY_HANDBOOK.md`, 8 archétypes) :
 
 | Terme des fiches | Archétype du handbook | Ce que la carte change pour lui [HYPOTHÈSE] |
 |---|---|---|
@@ -309,6 +309,7 @@ Un mur cassable se casse en **2,34 s**, par le tueur seulement [FACT] (VM). Cass
 Détail : `kb/research/batch8_maps.md` §3.0 et §4 ; `kb/research/batch7_tiles.md` §4.14.
 
 ---
+
 ## 5.4 Fiches par carte `[Intermédiaire]`
 
 **Format de chaque fiche**

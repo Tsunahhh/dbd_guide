@@ -129,7 +129,7 @@ Analyse [HYPOTHÈSE] / [AVIS D'EXPERT], construite sur les règles vérifiées c
 - **QUOI** : tenir le tueur loin des gens le plus longtemps possible. C'est la compétence de base du compétitif et l'étalon du 1v1 (temps de chase).
 - **POURQUOI** : une chase est la même en public : même tueur, mêmes tiles, mêmes vitesses (survivant 4,0 m/s ; tueurs 4,6 ou 4,4 m/s à quelques exceptions près) (VM).
 - **QUAND** : toujours. C'est la seule compétence qui ne dépend ni de la file ni du règlement.
-- **CONTRE** : les tueurs qui ignorent les tiles (pouvoirs de mobilité, casse de palettes). Voir le chapitre tueurs et `kb/deliverables/KILLER_COUNTERPLAY_HANDBOOK.md`.
+- **CONTRE** : les tueurs qui ignorent les tiles (pouvoirs de mobilité, casse de palettes). Voir les chapitres 7-8 (fiches tueurs), le chapitre 3 (casse de palettes par pouvoir) et `kb/deliverables/KILLER_COUNTERPLAY_HANDBOOK.md`.
 - **CAS D'ÉCHEC** : copier une **route** apprise sur une carte connue d'avance ; en public, la carte est aléatoire (voir 12.6).
 - **EXERCICE** : chronométrez vos chases sur 10 parties (durée, palettes utilisées, gens terminés pendant la chase).
 
@@ -197,12 +197,12 @@ Le SWF en vocal est le contexte public le plus proche du compétitif. Mais les a
 
 [HEURISTIQUE] Les rôles tournent : le runner blessé à 2 crochets devient jockey ; le jockey sain devient runner si le tueur le trouve.
 
-### Protocoles (résumé)
+### Protocoles (résumé) [HEURISTIQUE]
 
 1. **Crochet** : l'accroché annonce position et comportement du tueur ; **un** sauveteur désigné annonce son ETA ; les autres réparent.
 2. **Chase** : seul le poursuivi parle (tile, palettes restantes, intention) ; il annonce **tôt** s'il va tomber.
 3. **Gens** : repère de carte + % arrondi à la dizaine ; au-delà de 80 %, candidat au « 99 ».
-4. **3-gen** : dès 3 gens restants (5 sur la carte), finir deux gens du groupe le plus serré **avant** qu'il ne devienne le 3-gen.
+4. **3-gen** : dès 3 gens restants (5 sur la carte), finir en priorité des gens du groupe le plus serré **avant** qu'il ne devienne le 3-gen, si le tueur le permet (voir chapitre 2 §2.2.4 et chapitre 6).
 5. **Slug** : tueur à côté du mourant → personne par défaut ; exception annoncée (un survivant sain le tire en chase pendant qu'un autre relève).
 6. **Endgame** : décision explicite (tenir le 99 ou alimenter ; qui ouvre quelle porte).
 
@@ -221,7 +221,7 @@ Repères de carte plutôt que numéros ; dizaines de % pour les gens ; secondes 
 - **Bruit radio** pendant la chase d'un allié.
 - **Sous-estimer l'adaptation du tueur** : une équipe qui répare vite déclenche souvent tunnel ou slug [AVIS D'EXPERT].
 
-> **Exercice (SWF)** : enregistrez une partie en vocal (avec l'accord de tous). Comptez les callouts qui ont **changé une décision**. Visez à réduire les autres. Le programme d'entraînement donne une cible (≥ 80 % de callouts actionnables, DR-08) ; c'est une valeur de rédacteur, pas une mesure.
+> **Exercice (SWF)** : enregistrez une partie en vocal (avec l'accord de tous). Comptez les callouts qui ont **changé une décision**. Visez à réduire les autres. Le programme d'entraînement (chapitre 14) donne une cible (≥ 80 % de callouts actionnables, drill DR-08) ; c'est une valeur de rédacteur, pas une mesure.
 
 Détail : `kb/research/batch9_macro.md` §4 ; `kb/deliverables/TRAINING_PROGRAM.md` niveau 10.
 

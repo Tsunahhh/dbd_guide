@@ -43,7 +43,7 @@
 ### Diminishing Returns (9.6.0) [Intermédiaire]
 
 - [FACT] (VP) : les modificateurs **identiques** issus de *Powers, Items, Perks et Offerings* sont réduits (100 / 50 / 25 / 12,5 / 5 %). **Les add-ons sont exclus**. Les malus de vitesse d'action et les bonus de chance de skill check ne se réduisent qu'au sein d'un même rôle.
-- Conséquence : le **bonus de base de l'objet** (+50 % de réparation d'une toolbox, +50 % de soin du Ranger) **peut** entrer en DR avec une perk qui donne le même type de bonus. Seul l'**add-on** y échappe sûrement. La liste exacte des modificateurs jugés « identiques » est **[INCERTAIN]** (manuel du jeu non consulté).
+- Conséquence : le **bonus de base de l'objet** (+50 % de réparation d'une toolbox, +50 % de soin du Ranger) **peut** entrer en DR avec une perk qui donne le même type de bonus. Seul l'**add-on** y échappe sûrement. Sont confirmés soumis : vitesse de skill check (9.6.0), Haste de perks et vitesse de vault (notes de dev 10.2.0) [FACT] (VP). La liste complète est dans le manuel en jeu (9.6.1), non transcrite : le détail des modificateurs d'objet jugés « identiques » reste **[INCERTAIN]**.
 
 ### Les contres d'objet côté tueur (à connaître avant de sortir un objet)
 
@@ -352,9 +352,9 @@ Détail : `kb/research/batch5_items.md` §2.5-2.6.
 - **Flash Grenade** (perk Flashbang) : fabriquée dans un casier après 50/45/40 % de réparation **personnelle**, la perk se réactive à chaque seuil (plusieurs grenades par partie) ; bruit fort, aveugle aussi les survivants proches (T6).
 - **Lament Configuration** (Cenobite) : la ramasser remet la Chain Hunt à zéro ; **Oblivious** tant que vous la portez.
 - **Vaccine / First Aid Spray** (Nemesis / Mastermind), **EMP** (Singularity : Hindered −10 % en le tenant), **VHS Tape** (Onryō : −3 Condemned), **Glowing Fungus** (Krasue), **Remote Flame Turret** (Xenomorph : la porter = Hindered −35 % et **Exhausted**), **Eye / Hand of Vecna** (Lich : effets forts, mais le Lich peut alors vous tuer à 2 crochets et au sol).
-- Détail par tueur : chapitres tueurs et `kb/research/batch5_items.md` §2.8.
+- Détail par tueur : chapitres 7 et 8 et `kb/research/batch5_items.md` §2.8.
 
-Les objets d'événements ou de modes spéciaux (Candelabra, Lantern, Void Crystal, Antidote 2v8…) sont hors 1v4 standard. Usage par tueur : chapitres tueurs.
+Les objets d'événements ou de modes spéciaux (Candelabra, Lantern, Void Crystal, Antidote 2v8…) sont hors 1v4 standard. Usage par tueur : chapitres 7 et 8.
 
 ---
 
