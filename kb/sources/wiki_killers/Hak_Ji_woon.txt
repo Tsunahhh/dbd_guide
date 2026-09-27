@@ -1,0 +1,6407 @@
+# Hak Ji-woon
+Source: https://deadbydaylight.wiki.gg/wiki/Hak_Ji-woon (page complète via API, consultée le 27/09/2026)
+
+The Trickster
+
+Name
+
+Hak Ji-woon
+
+Gender
+
+Man
+
+Origin
+
+South Korean
+
+Realm
+
+Sleepless District
+
+Power
+
+Showstopper
+
+Power 
+Attack
+ Type
+
+Special Attack
+
+(Blades / Laceration)
+
+Weapon
+
+Polished Head-Smasher
+
+Movement Speed
+
+110 % 
+|
+ 4.4 m/s
+
+Alternate Movement speed
+
+96.5 % 
+|
+ 3.86 m/s
+(Throw State)
+
+Terror Radius
+
+24m (Default)
+
+44m (S-Rank)
+
+Lullaby
+ Radius
+
+44 metres (Default)
+
+0 metres (S-Rank)
+
+Height 
+
+Average
+
+DLC
+
+All-Kill
+
+Voice Actor
+
+Titus Kim (Voice Actor)
+
+Cost
+
+4,500 
+Iridescent Shards
+
+250 
+Auric Cells
+
+Breathing
+
+Menu Music
+
+Terror Radius Music
+
+Lullaby
+
+Metadata
+
+CharID
+
+K23
+
+Hak Ji-woon
+ (Korean: 학지운) or 
+"The Trickster"
+ is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+He was introduced as the Killer of 
+All-Kill
+, a Chapter DLC released on 30 March of 2021 and retired on 8 January 2024.
+
+He is still available in the 
+In-Game Store
+ and as part of the 
+Macabre Tales Pack
+ Chapter Pack DLC.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+2.1
+ 
+The Archives
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: Polished Head-Smasher
+
+3.3
+ 
+Power: Showstopper
+
+3.3.1
+ 
+Power Trivia
+
+3.3.2
+ 
+Lullaby Trivia
+
+3.4
+ 
+Add-ons for Showstopper
+
+3.4.1
+ 
+Add-on Trivia
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Base Cosmetics
+
+5.1.1
+ 
+Default
+
+5.1.2
+ 
+Prestige
+
+5.1.2.1
+ 
+Perk Charms
+
+5.1.2.2
+ 
+Prestige Badges
+
+5.2
+ 
+Alternatives
+
+5.2.1
+ 
+Special
+
+5.2.2
+ 
+Event
+
+5.3
+ 
+Rift
+
+5.4
+ 
+In-Game Store
+
+5.5
+ 
+Alternate Character Models
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+General
+
+8.2
+ 
+Language
+
+8.3
+ 
+Voice-Lines
+
+8.3.1
+ 
+Voice-Lines (pre 9.5.0)
+
+9
+ 
+Gallery
+
+9.1
+ 
+In-game Assets
+
+9.2
+ 
+Official Art
+
+9.3
+ 
+Old Assets
+
+9.4
+ 
+Outfits
+
+9.5
+ 
+Concept Art
+
+Overview
+
+Armed with an arsenal of throwing knives, The Trickster overwhelms fleeing Survivors with a relentless barrage of blades. Seemingly safe actions like vaulting windows and dropping Pallets turn into target practice for this twisted K-Pop Idol, whose stylish showmanship is rivalled only by his gleeful bloodlust.
+
+The Trickster
+ is a ranged Killer, able to quickly unleash a flurry of blades by using his power, 
+Showstopper
+.
+
+His personal Perks, 
+Starstruck
+, 
+Hex: Crowd Control
+, and 
+No Way Out
+, allow him to quickly down would-be rescuers and block areas of the environment to his advantage.
+
+Lore
+
+Hak Ji-woon thrived under the attention of others, energized by every eye that watched him and every tongue that spoke his name. Amidst the prestige, he had only one desire: more. Even as a child he found ways to draw crowds. Working at his family's restaurant, he attracted business with spectacles he performed using throwing knives. Gullible tourists believed this was a traditional South Korean experience, gladly parting with their money to witness it. Ji-woon's father spent the restaurant's earnings on dancing and vocal lessons for his son, pushing him to attain the fame he never could.
+
+Ji-woon did not disappoint. After years showcasing his abilities to nobodies at talent shows, he hit the track to stardom. Yun-Jin Lee, a producer at Mightee One Entertainment, recruited Ji-woon into her training program. He transferred to a dormitory in Seoul where, for fourteen hours a day, he was crafted into a star, taught how to move and sing, how to carry himself with the right balance of confidence and modesty.
+
+Draining as the process was, it worked. Yun-Jin selected Ji-woon to join the band NO SPIN, bringing a raw energy to their tracks. Fame was almost immediate. Ji-woon lived in a daze of interviews and adoration, and though the frenzied schedule exhausted his bandmates, he was invigorated. Each day was an affirmation that he was greater than the mediocrity society spewed out.
+
+But over time, the champagne grew stale. When he looked at his fans, he saw their joy and envy split five ways, thinned out between each band member. The validation that had surged through him left a desperate yearning for more.
+
+Ji-woon kept up impressions, mimicking a charm long buried under loathing. He recorded the latest NO SPIN album with his bandmates, never missing a beat. After a lengthy lunch break, he returned to the studio to discover fate had granted him a gift. The scent of burning wires was unmistakable. He rushed to the control room, finding the door blocked by fallen speakers. On the other side, his bandmates pounded on the door, their cries accompanied by the crackling of flames.
+
+Ji-woon called to them, dashing to the speakers, grabbing one and—stopping. He froze. Each breath was a conscious, deliberate process requiring all his attention, the nearby cries hardly audible until, slowly, he backed away. And then he heard it. They were screaming his name as they burnt. Screaming for him to save them. Ji-woon! Ji-woon! Hak Ji-woon! It was the most beautiful thing he'd ever heard. When the fire crew arrived, his tears were genuine.
+
+Ji-woon was celebrated as a tragic figure, a hero who did all he could in a futile attempt to save his friends. Yun-Jin paraded him through interviews until it was time to rebrand. He was reborn as The Trickster, a solo artist who produced his own songs, sporting a soft heart beneath a wild exterior. But, away from concert set-ups and television stages, something darker grew.
+
+He targeted those who lived alone, coming to them in the night. The first was a college music student with a captivating voice. Ji-woon woke him with a baseball bat to the skull, binding his arms and legs, gagging him with a rag duct taped into his mouth. He tortured him for hours, dissecting him alive. Yet there was something missing—a sound, a connection. He wanted to hear the victim's wonderous voice pleading as he cut his belly open, but all he received was muffled cries through a rag.
+
+He learnt and adjusted.
+
+Victims had to be abducted, driven to an abandoned building where he could let their voices carry unrestrained emotion. He made music from them, prodding in the right places to evoke different types of shrieks and howls. Stabbing the quadratus lumborum elicited a long, guttural wail, while slashing the carotid artery created a sound like a cat being strangled. There was honesty in their suffering. Ji-woon recorded each session, synthesizing and working them into his songs, hiding them behind layers of melodies.
+
+He was elated with his work. He left hints for police, arranging a mink boa from a recent photoshoot around a victim's slashed throat. For his next killing, he removed the teeth from a man that a boxer in one of his music videos was without. During a particularly audacious plea for attention, he killed a fan he had met during a VIP meet-up, replacing her eyes with his diamond cufflinks and writing I HAVE SEEN GOD in blood across her chest. Each scene was a dazzling spectacle.
+
+Between music and murder, Ji-woon's work was discussed globally. However, as violence became his preferred art style, his music career took a hit. Revenue was down and Mightee One executives pointed their fingers at him. Yun-Jin, with professional fury, came to his defence, but she was outnumbered. It was decided that Ji-woon could no longer self-produce his songs.
+
+The decision was devastating. His tracks fused genuine humanity into music, yet executives rejected anything that wasn't generic and expected. And so be it. If they couldn't understand his art, he would incorporate them into it until they did.
+
+He had three months until he was to perform a private show for Mightee One's board members; three months to plan his magnum opus. He transferred obscene amounts of money to a veterinarian in exchange for cannisters of nitrous oxide, then bribed the stage technician of Mightee One's private theatre for access to the room. His celebrity granted him a benefit of the doubt no regular person could conceive. When the show was ready, gas seeped into the room as executives and stagehands awaited Ji-woon, conveniently running behind schedule.
+
+When he arrived, half-conscious bodies were splayed in their seats and crawling across the floor. He worked quickly, binding everyone, pausing only when he came to Yun-Jin — the woman who had plucked him from a mudhole and set him on the path he deserved. She would be rewarded, granted special access to the coming display of wonder. Even under sedation, she fought, a raging storm within her, far stronger than the others. He propped her up as the lone audience member, prying her eyes open. The others, snivelling and sobbing, were brought on stage to perform their final act. With a contemptable sneer, he slapped makeup onto their faces and shone stage lights upon them. They became his instruments.
+
+To the sound of self-produced melodies, he tortured them, gracefully dashing from one body to another, conducting an operatic crescendo from their wailings. They shouted, whimpered, screamed, cried for their loved ones, cried for their mothers. It was a magnificent outpouring of emotion, of what it meant to be human, and they did it with eyes fixed on Ji-woon.
+
+Viscera drained from the stage until, with the toss of his throwing knife, the final human instrument fell silent and the music stopped. Covered in sweat and blood, an exhausted Ji-woon looked to Yun-Jin and bowed. Curtain call. He had attained perfection. With blade in hand, he made his way to Yun-Jin, prepared to tie up loose ends before the credits rolled. But as he reached her — 
+
+The Fog.
+
+From where, he didn’t know, but it billowed around them, damp, cool... comfortable. He saw the grand stage: hospitals and temples, forests and slaughterhouses — an eternal plane adorned with rusted hooks, sustained by the million eyes that would watch him, run from him, experience him. All he had to do was accept, become an implement of The Fog and, most importantly, make them scream.
+
+Encore!
+
+The Archives
+
+The table below lists additional Lore about 
+The Trickster
+ from 
+The Archives
+, either from 
+Tomes
+ that featured him or from individual Lore entries that mentioned him:
+
+Tome
+
+Entry
+
+Type
+
+Tome 9 - Crescendo
+
+Dissonance for the Dead
+
+Featured Character
+
+Load-out
+
+Unique Perks
+
+The Trickster
+ comes with 
+3
+ 
+Perks
+ that are unique to him:
+
+ 
+
+Hex: Crowd Control
+
+"A Hex that ensures those lesser than you are properly herded."
+
+Whenever a Survivors performs a 
+Rushed Vault
+ action at a 
+Window
+, 
+Hex: Crowd Control
+ activates on a random Totem and triggers its effect:
+
+Blocks
+ that 
+Window
+ for all Survivors.
+
+Increases 
+basic-vault
+ speed of blocked Windows by 
+15 %
+
+Reveals auras of blocked Windows within 
+24 metres
+
+Hex: Crowd Control
+ has a limit of 
+4
+/
+5
+/
+6
+ 
+Windows
+ it can affect at a time.
+The 
+Hex Effects
+ persist until the 
+Hex Totem
+ is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.
+
+"You have no control. People like you never did." — Ji-Woon Hak
+
+ 
+
+No Way Out
+
+"You are not going to let just anyone into the VIP room."
+
+Whenever you hook a Survivor for the first time, 
+No Way Out
+ gains 
++1 Token
+.
+Once the 
+Exit Gates
+ are powered, 
+No Way Out
+ activates:
+
+Causes the first Survivor to interact with either 
+Exit Gate Switch
+ to trigger a 
+Loud Noise Notification
+ at their location.
+
+Upon triggering the 
+Loud Noise Notification
+, 
+No Way Out
+ calls upon The 
+Entity
+ for the following effect:
+
+Blocks
+ both 
+Exit Gate Switches
+ for 
+12 seconds
+.
+
+This time is extended by an additional 
+6
+/
+9
+/
+12
+ 
+seconds
+ per accumulated Token, up to a combined maximum of 
+36
+/
+48
+/
+60
+ 
+seconds
+.
+
+"That sound when you bleed... let me hear it again." — Ji-Woon Hak
+
+ 
+
+Starstruck
+
+"Your unmatched showmanship dazzles all."
+
+Whenever you are carrying a Survivor, 
+Starstruck
+ activates:
+
+Causes all other Survivors in your 
+Terror Radius
+ to suffer from the 
+Exposed
+ 
+Status Effect
+.
+
+This effect lingers for 
+26
+/
+28
+/
+30
+ 
+seconds
+ after affected Survivors leave the 
+Terror Radius
+ or 
+Starstruck
+ deactivates.
+
+Starstruck
+ deactivates after hooking or dropping the carried Survivor and has a cool-down of 
+60 seconds
+.
+
+"Enjoy this moment, few get so close." — Ji-Woon Hak
+
+Prestige
+
+Prestiging 
+The Trickster
+ will automatically add 
+Tier I
+ of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Trickster
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: Polished Head-Smasher
+
+The 
+Polished Head Smasher
+ is the Primary Weapon of 
+The Trickster
+.
+A customised aluminium bat with a sharp edge and an iconic grip.
+
+Power: Showstopper
+
+"A mesmerising skill honed through a lifetime of practice, Ji-Woon Hak unleashes a flurry of knives with rapid-fire speed."
+SPECIAL ABILITY: SHOWSTOPPER
+The Trickster
+ starts the Trial with 
+36
+ 
+Blades
+ equipped.
+
+Press and hold the 
+Power button
+ to enter the 
+Throw State
+ and wind up the 
+Blades
+.
+Release the 
+Power button
+ to exit the 
+Throw State
+.
+SPECIAL STATE: THROW STATE
+While in the 
+Throw State
+, with a 
+Blade
+ at the ready, press the 
+Attack button
+ to throw a single one or press and hold it to unleash a flurry of them:
+
+Blades
+ are launched at a rate of 
+3
+ 
+Blades per second
+. This rate is increased by 
+5%
+ after 
+5
+ 
+Blades
+ and 
+10%
+ after 
+10
+ 
+Blades
+.
+
+Blades
+ are launched at a speed of 
+55 m/s
+ for up to 
+128 metres
+.
+
+Reduces
+ his Movement speed to 
+3.86 m/s
+, 
+3.53 m/s
+ after throwing 
+5
+ 
+Blades
+ and 
+3.16 m/s
+ after throwing 
+10
+ 
+Blades
+.
+
+Blades
+ can be replenished at 
+Lockers
+.
+The 
+Auras
+ of 
+Blades
+ inside 
+Lockers
+ are automatically revealed to 
+The Trickster
+ within 
+36 metres
+, when he is out of them.
+SPECIAL AFFLICTION: LACERATION
+Survivors hit with 
+Blades
+ accumulate 
++1 Charge
+ of 
+Laceration
+, filling their 
+Laceration Meter
+.
+Once the 
+Laceration Meter
+ is full at 
+6 Charges
+, the affected Survivor loses 
+1
+ 
+Health State
+.
+Laceration
+ starts dissipating at a rate of 
+-1 charge
+ every 
+4.4 seconds
+, if a Survivor is not hit by a 
+Blade
+ for 
+16 seconds
+, and immediately loses 
+-3 Charges
+, if they are hit with a 
+Basic Attack
+.
+SPECIAL ABILITY: STYLE RANKS
+There are 6 
+Style Ranks
+: 
+E
+, 
+D
+, 
+C
+, 
+B
+, 
+A
+ and 
+S
+The Trickster
+ earns 
+Style Points
+ by throwing 
+Blades
+ and performing distinct actions back-to-back.
+Earning enough 
+Style Points
+ causes 
+The Trickster
+ to go up in 
+Style Ranks
+, each Style Rank improves 
+Blade
+ throw rate and reload speed.
+Style Ranks
+ decay to a lower rank if no actions have been performed in a while. Performing actions refreshes the decay timer. The decay timer is paused while performing certain actions.
+Reaching 
+S
+-Rank causes Survivors within 
+44 metres
+ to be revealed by 
+Killer Instinct
+ for 
+4.4 seconds
+.
+While in 
+S
+-Rank, 
+Terror Radius
+ is increased to 
+44 metres
+, Lullaby gets disabled, 
+Laceration Meter
+ decay is paused and 
+The Trickster
+ is granted access to 
+Main Event
+.
+S
+-Rank decays back to 
+E
+-Rank after 
+66 seconds
+, this decay timer cannot be refreshed or paused by performing actions.
+SPECIAL ABILITY: MAIN EVENT
+Press the 
+Secondary Power button
+ to activate 
+Main Event
+ for a maximum of 
+10 seconds
+, unless 
+The Trickster
+ cancels it prematurely by pressing the 
+Secondary Power button
+ again:
+
+Grants the ability to throw an unlimited amount of 
+Blades
+.
+
+Increases
+ the Throw rate of 
+Blades
+ by 
++66 %
+.
+
+After performing 
+Main Event
+, 
+The Trickster
+ suffers fatigue and 
+Showstopper
+ is put on a 
+4 second
+ cool-down. The 
+Style Rank
+ will also be depleted back to 
+E
+-Rank, this rank is increased up to 
+B
+-Rank by performing Blade hits during 
+Main Event
+.
+Main Event
+ cannot be activated within 
+20 metres
+ of a Hooked Survivor.
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Walking while throwing 
+Blades
+: 
+3.86 m/s
+
+After throwing 
+5 Blades
+: 
+3.53 m/s
+
+After throwing 
+10 Blades
+: 
+3.16 m/s
+
+Walking while performing 
+Main Event
+: 
+3.92 m/s
+
+Showstopper:
+
+Time to enter 
+Throw State
+: 
+0.3 seconds
+
+Time to exit 
+Throw State
+: 
+1.15 second
+
+Showstopper
+ Charge time: 
+0.35 seconds
+
+Cool-down time between throws: 
+0.33 seconds
+
+Cool-down multiplier after 
+5 Blades
+: 
+1.05x
+
+Cool-down multiplier after 
+10 Blades
+: 
+1.1x
+
+Reload time at Lockers: 
+3 seconds
+
+Style Rank:
+
+E
+-Rank:
+
+Blade throw rate multiplier: 
+0.95x
+
+D
+-Rank:
+
+Style Points
+ requirement: 
+2 Points
+
+Decay delay: 
+30 seconds
+
+Blade throw rate multiplier: 
+1.05x
+
+Blade reload speed modifier: 
++5%
+
+C
+-Rank:
+
+Style Points
+ requirement: 
+2 Points
+
+Decay delay: 
+27.35 seconds
+
+Blade throw rate multiplier: 
+1.13x
+
+Blade reload speed modifier: 
++15%
+
+B
+-Rank:
+
+Style Points
+ requirement: 
+3 Points
+
+Decay delay: 
+23.65 seconds
+
+Blade throw rate multiplier: 
+1.16x
+
+Blade reload speed modifier: 
++23%
+
+A
+-Rank:
+
+Style Points
+ requirement: 
+3 Points
+
+Decay delay: 
+20 seconds
+
+Blade throw rate multiplier: 
+1.2x
+
+Blade reload speed modifier: 
++38%
+
+S
+-Rank:
+
+Style Points
+ requirement: 
+3 Points
+
+Decay delay: 
+66 seconds
+
+Blade throw rate multiplier: 
+1.275x
+
+Blade reload speed modifier: 
++44%
+
+Terror radius override: 
+44 metres
+
+Killer Instinct
+ range: 
+44 metres
+
+Killer Instinct
+ duration: 
+4.4 seconds
+
+Style Rank - Style Points:
+
+Amount of 
+Style Points
+ refunded per Blade hit during 
+Main Event
+: 
+0.2 Points
+
+Style Points
+ added to the Style Rank based on the action:
+
+1 Point
+:
+
+Hit a Survivor with a 
+Blade
+
+Injured
+ a Survivor
+
+Hooked
+ a Survivor
+
+Destroyed
+ a 
+Pallet
+
+Damaged
+ a 
+Generator
+
+Destroyed
+ a 
+Breakable Wall
+
+Snuffed
+ a Boon 
+Totem
+
+2 Points
+:
+
+Grabbed
+ a Survivor
+
+Hit Survivor with a 
+Blade
+ 4 times without missing from at least 4 metres away without exitting Throw State.
+
+Hit Survivor with a 
+Blade
+ from 16 metres away
+
+3 Points
+:
+
+Hit Survivor with a 
+Blade
+ through a small gap
+
+Main Event
+:
+
+Default duration: 
+10 seconds
+
+Throw Rate multiplier: 
+x1.67
+
+Blades
+ are thrown 
+67 %
+ faster during 
+Main Event
+.
+
+Cool-down duration: 
+4 seconds
+
+This refers to how long 
+Showstopper
+ cannot be used after ending 
+Main Event
+.
+
+Main Event
+ Activation Charge time: 
+0.15 seconds
+
+This refers to the minimum amount of time the 
+Active Ability button
+ must be pressed for to start activating 
+Main Event
+.
+
+Main Event
+ Activation time: 
+0.5 seconds
+
+This refers to how long it takes 
+The Trickster
+ to enter 
+Main Event
+.
+
+Main Event
+ Deactivation time: 
+3 seconds
+
+This refers to how long it takes 
+The Trickster
+ to leave 
+Main Event
+.
+
+Main Event
+ Deactivation Buffer time: 
+0.7 seconds
+
+This buffer is used to prevent Players from accidentally immediately deactivating 
+Main Event
+ again after first activating it, usually due to keeping the button pressed for too long.
+
+Anti-camp range: 
+20 metres
+
+Main Event
+ cannot be activated when within this range of a Hooked Survivor.
+
+Blades:
+
+Projectile speed: 
+55 m/s
+
+Projectile Lateral Spawn offset: 
+10 cm
+
+Projectile Forward Spawn Offset: 
+48 cm
+
+Left and Right Projectiles Path-Convergence distance: 
+128 metres
+
+Projectile Maximum range: 
+128 metres
+
+Maximum Consecutive Projectiles: 
+30 Stacks
+
+Consecutive Projectiles Decay time: 
+0.2 seconds
+
+This refers to the time in-between 
+Throw
+ inputs after which the Game will not consider the throws consecutive anymore.
+
+Low-on-Ammo threshold: 
+>15 Blades
+
+This refers to the amount of Blades needed to reveal auras of the Blade rackets inside nearby 
+Lockers
+.
+
+Laceration:
+
+Laceration Meter
+ capacity: 
+6 Charges
+
+Laceration Meter
+ Decay delay: 
+16 seconds
+
+This refers to for how long a Survivor must avoid getting hit by 
+Blades
+ before their 
+Laceration Meter
+ will start decaying.
+
+Laceration Meter
+ Decay interval: 
+4.4 seconds
+
+Laceration Meter
+ Decay amount: 
+-1 Charge
+
+Laceration added per 
+Blade Hit
+: 
++1 Charge
+
+Laceration lost per 
+Basic Attack Hit
+: 
+-3 Charges
+
+pre 9.5.0 Score Event Combos:
+
+Combo Buffer duration: 
+4 seconds
+
+Hit Grace Period duration: 
+5 seconds
+
+This applies to the 
+Score Event
+ 
+"The Show Must Go On"
+
+Minimum consecutive Projectiles to trigger a Combo: 
+6 hits
+
+This applies to the Score Event 
+"Grand Finale"
+, when downing a Survivor with 
+Blades
+
+Base Score for Combo: 
++10 points
+
+Score for filling the 
+Laceration Meter
+: 
++50 points
+
+Close Range Hit multiplier: 
+x1
+
+This multiplier applies for all successful 
+Blade Hits
+ on Survivors within 
+16 metres
+
+Long Range Hit multiplier: 
+x2
+
+This multiplier applies for all successful 
+Blade Hits
+ on Survivors farther than 
+16 metres
+
+Maximum Score multiplier: 
+x10
+
+Lullaby Trivia
+
+The Trickster
+ has a unique Lullaby amongst all Killers featuring one.
+
+While the Lullaby can be heard from as far as 
+44 metres
+ away, its volume changes throughout, depending on how far the Survivor hearing it is from 
+The Trickster
+, unlike with other Killers where the Lullaby has a fixed volume, even going as far as being silent when close to 
+The Trickster
+:
+
+His Lullaby is inaudible within 
+8 metres
+ of him, but is still present.
+
+The visual Lullaby-indicator does not disappear in this range.
+
+His Lullaby starts to fade in at around 
+8 metres
+ and begins to fade out at around 
+40 metres
+ from him.
+
+The visual Lullaby-indicator disappears at around 
+36 metres
+
+His Lullaby is loudest within 
+20 to 30 metres
+ of him.
+
+This ultimately creates an offset bell curve for his Lullaby's volume.
+
+Add-ons for Showstopper
+
+Icon
+
+Name
+
+Description
+
+Inferno Wires
+
+Burnt wires form the studio fire that killed four of the five 
+NO SPIN
+ members.
+Their deaths gave rise to The Trickster.
+
+Increases the decay time of 
+S
+-Rank by 
+20 %
+.
+
+Killing Part Chords
+
+A set of chords that Ji-Woon never found a song for.
+Still, the sound is undeniably catchy.
+
+Increases
+ the time before 
+Style Ranks
+ D to A decay by 
++50 %
+.
+
+Memento Blades
+
+Blood-rusted knives, worn from overuse.
+Employed during Ji-Woon's early murders, they hold a place of importance in his heart.
+
+Displays a 
+Reticule
+ while aiming 
+Blades
+.
+
+Trick Pouch
+
+A pouch with a number of hidden pockets.
+Used by aspiring magicians and those with something to hide.
+
+Increases
+ the number of carried 
+Blades
+ by 
++8
+.
+
+Bloody Boa
+
+A boa that Ji-Woon draped around a victim's slashed neck.
+A number of pockets are concealed within it.
+
+Decreases
+ the speed at which 
+Laceration
+ decays by 
+-75 %
+.
+
+Caged Heart Shoes
+
+Shoes that Ji-Woon wore during the music video for 
+One Caged Heart
+.
+Allows for smooth, graceful movements of the point dance.
+
+When you basic-break Pallets and Breakable Walls or damage Generators, the next time you enter Throw State, increase movement speed while in the Throw State by 
+5%
+ for 
+10 seconds
+.
+
+Ji-Woon's Autograph
+
+A signature from the celebrity known as The Trickster.
+Sore as his wrist was after hundred of these, it was invigorating to know he was so in demand.
+
+Increases
+ the duration of 
+Main Event
+ by 
++44 %
+.
+
+Lucky Blade
+
+The first throwing knife Ji-Woon ever owned.
+Purchased by his father, he was expected to put on a show for those frequenting the family restaurant.
+On every eighth 
+Blade
+ hit, a bonus is assigned at random:
+
+Throw rate
+ is increased by 
++5 %
+ for 
+5 seconds
+.
+
+Gain 
++3 %
+ 
+Haste
+ 
+Status Effect
+ for 
+6 seconds
+.
+
+Gain 
+1
+ additional 
+Style Point
+.
+
+Tequila Moonrock
+
+A drink invented in a modest Changwon bar.
+Became a favourite of Ji-Woon's.
+
+Increases
+ the Throw rate  by 
++8 %
+ for 
+10 seconds
+ after gaining a 
+Style Rank
+.
+
+Fizz-Spin Soda
+
+A limited edition can of soda promoting 
+NO SPIN
+.
+High sugar and caffeine content.
+
+Decreases
+ the amount of 
+Blade
+  throws needed to increase Throw rate by 
+2
+.
+
+Melodious Murder
+
+An audio file of a victim's crisp, clear shriek as a blade opened her up.
+Ji-Woon incorporated the sound into one of his more popular tracks.
+
+Increases
+ the Reload speed at 
+Lockers
+ by 
++25 %
+.
+
+On Target Single
+
+An underground single produced by Ji-Woon before achieving fame.
+Only the biggest 
+NO SPIN
+ fans collected this hidden gem.
+
+While in 
+S
+-Rank, each 
+Blade
+ hit increases the duration of 
+Main Event
+ by 
+0.5 seconds
+ up to a maximum of 
+20 seconds
+.
+
+Ripper Brace
+
+A wrist brace worn by Ji-Woon during the filming of his music video 
+Ripper
+.
+Though unintentional, the design stabilises the wrist better than many medical braces.
+
+For each 
+Style Rank
+, you basic-vault 
+Windows
+, basic-break 
+Pallets
+, 
+Breakable Walls
+ and damage 
+Generators
+ 
++6 %
+ faster.
+
+Waiting For You Watch
+
+A pocket watch worn by Ji-Woon during a live performance of 
+I'll Be Waiting For You
+.
+It is a stage prop that does not work and never will.
+
+Reveals auras of Survivors who fully recovered from 
+Laceration
+ for 
+10 seconds
+.
+
+"Don't run away
+Don't say we're through
+No way to escape thisI'll be waiting for you" — NO SPIN'S "Waiting For You"
+
+Cut Thru U Single
+
+The first single released by 
+NO SPIN
+ after Ji-Woon joined their ranks.
+Scored an all-kill on the Korean charts.
+
+When reaching 
+A-Rank
+, all Survivors within 
+32 metres
+ are revealed by 
+Killer Instinct
+ for 
+4.4 seconds
+.
+
+Diamond Cufflinks
+
+Cufflinks gouged into the eyes of a sasaeng fan who made the mistake of stalking Ji-Woon.
+Rubbing off the blood, there is so much to be seen in the glitter.
+
+The 
+Auras
+ of Survivors one hit away from maximum 
+Laceration
+ are revealed to you for 
+6 seconds
+.
+
+"Shhh... you don't have to see your blood anymore." — Ji-Woon Hak
+
+Edge of Revival Album
+
+The Trickster's debut album.
+The coarse and vicious tone was met with a mixed reaction from fans despite critical acclaim.
+
+Causes 
+Blade
+ hits from more than 
+20 metres
+ away to deal 
++100 %
+ more 
+Laceration
+.
+
+"Your whisper on me
+Warm as can be
+Burning each breath
+Till I can't breathe" — The Trickster's "Whispers of Warmth"
+
+Trick Blades
+
+Specialty blades that are only seen as faulty by those who lack imagination.
+A young Ji-Woon dazzled spectators with the trick he performed.
+
+Causes 
+Blades
+ to ricochet off the environment a total of 
+one time
+.
+
+After a ricochet, on every eighth 
+Blade
+ hit, a bonus is assigned at random: 
+
+Laceration
+ is increased by 
++100 %
+.
+
+Reveal Survivors auras within 
+12 metres
+ for 
+4.4 seconds
+.
+
+Gain 
+1
+ additional 
+Style Point
+.
+
+Death Throes Compilation
+
+A collection of the final sounds from Ji-Woon's victims, adapted to a vinyl record.
+Terrifying and emotionally raw.
+
+75%
+ of the maximum 
+Blade
+ capacity is refilled once 
+Main Event
+ ends.
+
+"Please, no... don't make it hurt... I can't... I..." — Unidentified Voice
+
+Iridescent Photocard
+
+A glass-like photo moulded from The Fog itself.
+Ji Woon's eyes shimmer holographically on his grinning face.
+
+Increases the duration of 
+Main Event
+ by 
++100 %
+.
+
+Activating 
+Main Event
+ reveals your aura to Survivors, reveals all Survivor auras to you and blocks all Generators for 
+6 seconds
+
+Add-on Trivia
+
+Certain Add-ons change 
+The Trickster's
+ 
+Chase Theme
+ by replacing the default Chase layer (note that they cannot override the S-Rank Chase layer):
+
+Edge of Revival Album
+
+Death Throes Compilation
+
+Achievements
+
+Main article: 
+Achievements
+
+There are 
+2
+ Achievements related to 
+The Trickster
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Trickster
+
+Playing as The 
+Trickster
+, achieve a 
+Merciless Victory
+ using only his 
+3
+ Unique Perks: 
+Starstruck
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Your unmatched showmanship dazzles all."
+
+Whenever you are carrying a Survivor, 
+Starstruck
+ activates:
+
+Causes all other Survivors in your 
+Terror Radius
+ to suffer from the 
+Exposed
+ 
+Status Effect
+.
+
+This effect lingers for 
+26
+/
+28
+/
+30
+ 
+seconds
+ after affected Survivors leave the 
+Terror Radius
+ or 
+Starstruck
+ deactivates.
+
+Starstruck
+ deactivates after hooking or dropping the carried Survivor and has a cool-down of 
+60 seconds
+.
+
+"Enjoy this moment, few get so close." — Ji-Woon Hak
+
+, 
+Hex: Crowd Control
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"A Hex that ensures those lesser than you are properly herded."
+
+Whenever a Survivors performs a 
+Rushed Vault
+ action at a 
+Window
+, 
+Hex: Crowd Control
+ activates on a random Totem and triggers its effect:
+
+Blocks
+ that 
+Window
+ for all Survivors.
+
+Increases 
+basic-vault
+ speed of blocked Windows by 
+15 
+
+Reveals auras of blocked Windows within 
+24 metres
+
+Hex: Crowd Control
+ has a limit of 
+4
+/
+5
+/
+6
+ 
+Windows
+ it can affect at a time.
+The 
+Hex Effects
+ persist until the 
+Hex Totem
+ is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.
+
+"You have no control. People like you never did." — Ji-Woon Hak
+
+, and 
+No Way Out
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"You are not going to let just anyone into the VIP room."
+
+Whenever you hook a Survivor for the first time, 
+No Way Out
+ gains 
++1 Token
+.
+Once the 
+Exit Gates
+ are powered, 
+No Way Out
+ activates:
+
+Causes the first Survivor to interact with either 
+Exit Gate Switch
+ to trigger a 
+Loud Noise Notification
+ at their location.
+
+Upon triggering the 
+Loud Noise Notification
+, 
+No Way Out
+ calls upon The 
+Entity
+ for the following effect:
+
+Blocks
+ both 
+Exit Gate Switches
+ for 
+12 seconds
+.
+
+This time is extended by an additional 
+6
+/
+9
+/
+12
+ 
+seconds
+ per accumulated Token, up to a combined maximum of 
+36
+/
+48
+/
+60
+ 
+seconds
+.
+
+"That sound when you bleed... let me hear it again." — Ji-Woon Hak
+
+.
+
+One Thousand Cuts
+
+Deal maximum Laceration damage to Survivors a total of 
+50 times
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Trickster
+:
+
+Base Cosmetics
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+The Trickster
+
+Common
+
+A gifted singer seeking fame who will go to any length to create an unforgettable legacy.
+
+Extravagant Longline Blazer
+
+Common
+
+A vibrant, provocative longline blazer showcasing the Trickster's edgy style after the death of NO SPIN.
+
+Polished Head-Smasher
+
+Common
+
+A customized aluminum bat with a sharp edge and an iconic grip.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Bloody Trickster
+
+Rare
+
+A cold-blooded singer seeking fame who will go to desperate ends to create an unforgettable body of work.
+
+Prestige Level 6 Reward
+
+Bloodstained Longline Blazer
+
+Rare
+
+A vicious, provocative longline blazer showcasing the Trickster's edge after the death of NO SPIN.
+
+Prestige Level 5 Reward
+
+Grisly Head-Smasher
+
+Rare
+
+A deadly aluminum bat with a sharp edge and an iconic grip for some violent performances.
+
+Prestige Level 4 Reward
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+A gifted singer seeking fame who will go to any length to create an unforgettable legacy.
+
+Alternatives
+
+Special
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Event
+
+Golden Skull Mask
+
+Artifact
+
+A shimmering custom mask made from real gold and crystals, worn on stage at one of his last concerts.
+
+Amazon Prime Gaming October 2022 reward
+
+Event
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Collection
+
+Event
+
+Exclusive to Event Participation
+
+5th Anniversary Crown
+
+Event
+
+A crown crafted for a very special anniversary.
+
+"Thank you for supporting & inspiring us along the years!" - The Dead by Daylight Team
+
+5th Anniversary
+
+Fifth Year Anniversary
+
+Yes
+
+Frosty Eyes
+
+Event
+
+The cold eyes of a Killer who wants warm blood.
+
+"Have a fantastic holiday season and a bloody good new year!" —The Dead by Daylight Team
+
+Bone Chill
+
+Bone Chill 2021
+
+Yes
+
+Trickster's Mask
+
+Event
+
+A mask they found themselves wearing at the masquerade ball.
+
+Twisted Masquerade Collection
+
+Twisted Masquerade Event
+
+Yes
+
+Hidden Bunny
+
+Event
+
+A mask adorned with a golden rabbit to stay unknown in the crowd.
+
+Moonlight Burrow
+
+Moonlight Burrow Event
+
+Yes
+
+ Rift
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Glittering Magpie
+
+SPRING ENSEMBLES
+
+Tome 11 - Devotion
+
+12 June 2018 (Tuesday)
+
+Description
+
+A concert outfit inspired by a bird local to Korea. It is said to bring good luck and fortune.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Azure Crest
+
+SPRING ENSEMBLES
+
+31
+
+Dramatic blue makeup and hair dye that are as cold as his heart.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Ruffled Feathers
+
+SPRING ENSEMBLES
+
+15
+
+A piece personally commissioned to express the desire to take what is one's own, no matter what might stand in the way.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Auspicious Bat
+
+SPRING ENSEMBLES
+
+52
+
+One of the last custom bats made to celebrate the good fortune he was about to make for himself.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Dark Summer
+
+Crescendo
+
+Tome 9 - Crescendo
+
+14 October 2022 (Friday)
+
+Description
+
+An eclectic outfit worn during The Trickster’s Brazilian concert.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Blood Eye Glam
+
+Crescendo
+
+31
+
+The violent images that played out in his mind often surfaced in his concert attire.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Night Sky
+
+Crescendo
+
+1
+
+A devastating double layered top and buckled pants that remain flashy despite their darkness.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Serpent’s Kiss
+
+Crescendo
+
+70
+
+A bat decorated with a deadly snake.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Ancient Instinct
+
+Sacrifice The Sunflesh
+
+Rift Pass 6 - Sunflesh
+
+21 July 2026 (Tuesday)
+
+Description
+
+While visiting a museum in another country, Ji-Woon became fascinated by an ancient golden mask.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Cursed Mask
+
+Sacrifice The Sunflesh
+
+24
+
+The mask was the only clue left behind by a group of people who had mysteriously disappeared long ago.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Tie-Front Jacket
+
+Sacrifice The Sunflesh
+
+26
+
+The mask's dark origins captivated him. As he reached out to touch it, the guide stopped him.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Solar Rush
+
+Sacrifice The Sunflesh
+
+30
+
+Repulsed by the guide's disrespect, he spent the rest of the visit seething with rage, knowing that killing was not an option.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Gwishin Spotlight
+
+Guardians & Shadows
+
+Tome 20 - Mythic
+
+22 July 2025 (Tuesday)
+
+Description
+
+The rooster emerged from the flames, its beautiful cry harmonizing with the victim screaming on the pyre.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Fiery Frill
+
+Guardians & Shadows
+
+33
+
+He couldn't believe his eyes. In his mother's stories, the purple rooster watched over the family and would always protect him.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Shimmering Blazer
+
+Guardians & Shadows
+
+37
+
+He reached out to touch the rooster, only to watch it disappear in the burning mass.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Rule the Roost
+
+Guardians & Shadows
+
+40
+
+Later that night, he listened back to the recording. The screams were there, and so were the screeches.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Gwishin Spotlight (Deep Rift)
+
+Deep Rift
+
+Tome 20 - Mythic
+
+12 June 2018 (Tuesday)
+
+Description
+
+The rooster emerged from the flames, crowing as the victim died screaming.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Fiery Frill (Deep Rift)
+
+Deep Rift
+
+72
+
+It was the same creature from his mother's stories, and for a moment he felt like a kid again.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Shimmering Blazer (Deep Rift)
+
+Deep Rift
+
+77
+
+The rooster vanished into the flames, and the power it held over him was broken.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Rule the Roost (Deep Rift)
+
+Deep Rift
+
+82
+
+It was his favorite recording, a beautiful melody formed of screams and crows.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Supergroup Star
+
+Gold & Silk
+
+Tome 19 - Splendor
+
+11 March 2025 (Tuesday)
+
+Description
+
+All the arrangements were made for him to record a new single with a hot young superstar.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Mask Off
+
+Gold & Silk
+
+52
+
+Early concepts for their outfits evoked the brutal nature of competition in the industry.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Cloak & Dagger
+
+Gold & Silk
+
+55
+
+The young singer knew the industry was cutthroat, but he had no idea just how true that could be.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Sharp Notes
+
+Gold & Silk
+
+48
+
+Ji-woon found the singer's range to be lacking and chose not to invite him for drinks that evening.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Pop-up Storms
+
+Night Owl Collection
+
+Tome 15 - Ascension
+
+12 June 2018 (Tuesday)
+
+Description
+
+He enjoyed watching his audience panic during a rainstorm at one of his outdoor concerts.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Tickled Pink
+
+Night Owl Collection
+
+58
+
+His eyes widened at the erratic crowd, and a bliss grew in his chest to giddiness.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Fear Gourmet
+
+Night Owl Collection
+
+40
+
+His clothing was drenched, but he stayed on stage, enjoying the panic and chaos.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Neon Stick
+
+Night Owl Collection
+
+52
+
+He added some glow to his weapon hoping for a gleaming murder late at night.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Death Of Praise
+
+Shades of Reverence
+
+Rift Pass 3 - Reverence
+
+07 October 2025 (Tuesday)
+
+Description
+
+Ji-woon was a star who was always asking for more. The desire for attention can lead one down a dangerous road.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Crown Of Deceit
+
+Shades of Reverence
+
+28
+
+Be warned: when happiness no longer satisfies, one's cravings will be satisfied through other means.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Crawling Hands
+
+Shades of Reverence
+
+32
+
+There are those who prey on people’s fear, basking in it like a soothing warmth.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Scourging Bat
+
+Shades of Reverence
+
+30
+
+Navigating a world that celebrates deception can distort one's reality and lead to pain and suffering.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Death Of Praise (Altered)
+
+Shades of Reverence
+
+Rift Pass 3 - Reverence
+
+07 October 2025 (Tuesday)
+
+Description
+
+Ji-woon was a star who was always asking for more. The desire for attention can lead one down a dangerous road.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Crown Of Deceit (Altered)
+
+Shades of Reverence
+
+70
+
+Be warned: when happiness no longer satisfies, one's cravings will be satisfied through other means.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Crawling Hands (Altered)
+
+Shades of Reverence
+
+70
+
+There are those who prey on people’s fear, basking in it like a soothing warmth.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Scourging Bat (Altered)
+
+Shades of Reverence
+
+70
+
+Navigating a world that celebrates deception can distort one's reality and lead to pain and suffering.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Death Of Praise (Deep Rift 1)
+
+Shades of Reverence
+
+Rift Pass 3 - Reverence
+
+07 October 2025 (Tuesday)
+
+Description
+
+Ji-woon was a star who was always asking for more. The desire for attention can lead one down a dangerous road.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Crown Of Deceit (Deep Rift 1)
+
+Shades of Reverence
+
+79
+
+Be warned: when happiness no longer satisfies, one's cravings will be satisfied through other means.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Crawling Hands (Deep Rift 1)
+
+Shades of Reverence
+
+82
+
+There are those who prey on people’s fear, basking in it like a soothing warmth.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Scourging Bat (Deep Rift 1)
+
+Shades of Reverence
+
+76
+
+Navigating a world that celebrates deception can distort one's reality and lead to pain and suffering.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Death Of Praise (Deep Rift 2)
+
+Shades of Reverence
+
+Rift Pass 3 - Reverence
+
+07 October 2025 (Tuesday)
+
+Description
+
+Ji-woon was a star who was always asking for more. The desire for attention can lead one down a dangerous road.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Crown Of Deceit (Deep Rift 2)
+
+Shades of Reverence
+
+100
+
+Be warned: when happiness no longer satisfies, one's cravings will be satisfied through other means.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Crawling Hands (Deep Rift 2)
+
+Shades of Reverence
+
+100
+
+There are those who prey on people’s fear, basking in it like a soothing warmth.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Scourging Bat (Deep Rift 2)
+
+Shades of Reverence
+
+100
+
+Navigating a world that celebrates deception can distort one's reality and lead to pain and suffering.
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Smash & Run Style
+
+The Trickster Aberrations
+
+30 March 2021 (Tuesday)
+
+Description
+
+The Trickster's iconic outfit while shooting the music video for his first album.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Celestial Longline Blazer
+
+The Trickster Aberrations
+
+A flamboyant blazer that showcases the Trickster's new look and establishes his new identity as a solo artist.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Razor-Sharp Head-Smasher
+
+The Trickster Aberrations
+
+A vibrant and unique baseball bat with a sharp edge for a thrilling performance on stage.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Fatal Free Fall Style
+
+The Trickster Aberrations
+
+30 March 2021 (Tuesday)
+
+Description
+
+The Trickster's iconic outfit while shooting the music video for his first album.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Crimson Longline Blazer
+
+The Trickster Aberrations
+
+A flamboyant blazer that showcases the Trickster's new look and establishes his new identity as a solo artist.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Keen-Edged Head-Smasher
+
+The Trickster Aberrations
+
+A vibrant and unique baseball bat with a sharp edge for a thrilling performance on stage.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Whispers of Warmth Style
+
+The Trickster Aberrations
+
+30 March 2021 (Tuesday)
+
+Description
+
+The Trickster's iconic outfit while shooting the music video for his first album.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Iris Longline Blazer
+
+The Trickster Aberrations
+
+A flamboyant blazer that showcases the Trickster's new look and establishes his new identity as a solo artist.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Edgy Head-Smasher
+
+The Trickster Aberrations
+
+A vibrant and unique baseball bat with a sharp edge for a thrilling performance on stage.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+One Caged Heart Style
+
+The Trickster Aberrations
+
+30 March 2021 (Tuesday)
+
+Description
+
+The Trickster's iconic outfit while shooting the music video for his first album.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Ocean Longline Blazer
+
+The Trickster Aberrations
+
+A flamboyant blazer that showcases the Trickster's new look and establishes his new identity as a solo artist.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Sharp Head-Smasher
+
+The Trickster Aberrations
+
+A vibrant and unique baseball bat with a sharp edge for a thrilling performance on stage.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+On Target Performance
+
+First Tour
+
+30 March 2021 (Tuesday)
+
+Description
+
+Stage outfit the Trickster wore during his first national tour as a solo artist, welcomed by large crowd of grief-stricken fans.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Citrus Dye
+
+First Tour
+
+A slick hair style as versatile as his wardrobe.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Vivid Longline Blazer
+
+First Tour
+
+The longline blazer that became part of his signature look from his music videos to his performance.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Acute Head-Smasher
+
+First Tour
+
+Baseball bat with vibrant lights that create a prestigious effect during his choreographies on stage.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Forgive Me Not Performance
+
+First Tour
+
+30 March 2021 (Tuesday)
+
+Description
+
+Stage outfit the Trickster wore during his first national tour as a solo artist, welcomed by large crowd of grief-stricken fans.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Midnight Dye
+
+First Tour
+
+A slick hair style as versatile as his wardrobe.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Ornate Longline Blazer
+
+First Tour
+
+The longline blazer that became part of his signature look from his music videos to his performance.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Incisive Head-Smasher
+
+First Tour
+
+Baseball bat with vibrant lights that create a prestigious effect during his choreographies on stage.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+False Silver Lining Performance
+
+First Tour
+
+30 March 2021 (Tuesday)
+
+Description
+
+Stage outfit the Trickster wore during his first national tour as a solo artist, welcomed by large crowd of grief-stricken fans.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Titanium Dye
+
+First Tour
+
+A slick hair style as versatile as his wardrobe.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Lavish Longline Blazer
+
+First Tour
+
+The longline blazer that became part of his signature look from his music videos to his performance.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Striking Head-Smasher
+
+First Tour
+
+Baseball bat with vibrant lights that create a prestigious effect during his choreographies on stage.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+I'll Be Waiting for You Costume
+
+Live Show
+
+30 March 2021 (Tuesday)
+
+Description
+
+The first show where the Trickster revealed his new persona during a live show following the death of his previous group, NO SPIN.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Cerulean Dye
+
+Live Show
+
+Bold hairstyle to make a fashion statement that matches the look of his loyal producer, Yun-jin.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Dazzling Deadly Suit
+
+Live Show
+
+A bloodstained long coat thrown over an eccentric suit to dress up for the live interview before transitioning to the live performance.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Blazing Head-Smasher
+
+Live Show
+
+The Trickster's first time using a flashy baseball bat as part of his dance choreography, which he performed live to an awed audience.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Ripper Night Costume
+
+Live Show
+
+30 March 2021 (Tuesday)
+
+Description
+
+The first show where the Trickster revealed his new persona during a live show following the death of his previous group, NO SPIN.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Orchid Dye
+
+Live Show
+
+Bold hairstyle to make a fashion statement that matches the look of his loyal producer, Yun-jin.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Ostentatious Thrill Suit
+
+Live Show
+
+A bloodstained long coat thrown over an eccentric suit to dress up for the live interview before transitioning to the live performance.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Neon Head-Smasher
+
+Live Show
+
+The Trickster's first time using a flashy baseball bat as part of his dance choreography, which he performed live to an awed audience.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Teddy Graveyard
+
+Domrebel
+
+09 January 2024 (Tuesday)
+
+Description
+
+He requested a memorable outfit for his latest music video.
+Designed by 
+Domrebel
+.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Ashen Bangs
+
+Domrebel
+
+He appreciated the harmonious blend of white hues in his hair and outfit.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Stapled Plush
+
+Domrebel
+
+Wearing this unsettling coat shocked his audience and excited his killer instincts.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Screw Bolts
+
+Domrebel
+
+The bolts were welded by hand to ensure they remained secure during a brutal swing.
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Coastal Music Video
+
+Waterfront Massacre
+
+20 June 2023 (Tuesday)
+
+Description
+
+A sponsored outfit he wore for a late-night video shoot at the beach.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Athletic Headband
+
+Waterfront Massacre
+
+He wore this sweatband to keep his face dry while dancing.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Two-Toned Sweatsuit
+
+Waterfront Massacre
+
+A summer outfit suitable for the cool wind from the sea.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Signed Bat
+
+Waterfront Massacre
+
+He loved to watch the sunset over the sea after a kill.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Cut Thru U Performance
+
+Seoul Sights
+
+30 March 2021 (Tuesday)
+
+Description
+
+The outfit of the opening song during the Trickster's World Tour, which involves a theatrical play of lights and elaborate choreography.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Blazing
+
+Seoul Sights
+
+The Trickster appears on stage with flaming red hair, a nod to the fire he managed to escape with his life, unlike the other members of NO SPIN.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Homicide Odyssey Costume
+
+Seoul Sights
+
+He steps onto the stage and the music stops. Adorning his elaborate costume, he takes a moment to address the crowd and devotes the song to his previous band members. The grieving crowd cheers and the music starts.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Gutting Head-Smasher
+
+Seoul Sights
+
+An apocalyptic bat for the Trickster to use during his choreography. At the end of his performance he chooses a fan and offers the bat to them as a souvenir.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Dark Summer
+
+Crescendo
+
+Tome 9 - Crescendo
+
+14 October 2022 (Friday)
+
+Description
+
+An eclectic outfit worn during The Trickster’s Brazilian concert.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Blood Eye Glam
+
+Crescendo
+
+31
+
+The violent images that played out in his mind often surfaced in his concert attire.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Night Sky
+
+Crescendo
+
+1
+
+A devastating double layered top and buckled pants that remain flashy despite their darkness.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Serpent’s Kiss
+
+Crescendo
+
+70
+
+A bat decorated with a deadly snake.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Pressured Performer
+
+NEON NIGHTS
+
+01 July 2021 (Thursday)
+
+Description
+
+The night inspired him and concealed his dark impulses.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Brilliant Dye
+
+NEON NIGHTS
+
+A vivid and edgy hairstyle to break the commercial image he had when he was part of NO SPIN.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Polychrome Streetwear
+
+NEON NIGHTS
+
+It was his last weekend in New York City before returning home and he was determined to make it memorable.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Blazing Bat
+
+NEON NIGHTS
+
+To take some pressure off, he went out and explored NYC’s exclusive night scene. He brought his weapon along, which people mistook for a fashionable stage prop.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Last Song
+
+GamePlay Expo
+
+24 September 2024 (Tuesday)
+
+Description
+
+The latest karaoke video game featured many of his hit singles. He agreed to judge a singing contest as a publicity stunt.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Chained Perfection
+
+GamePlay Expo
+
+Most of the singers bored him to tears, but an office worker with a bad haircut wowed the crowd with his vocal range.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Staging Jacket
+
+GamePlay Expo
+
+He handed the office worker the trophy, and included a personal invitation to tour his studio.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Big Finish
+
+GamePlay Expo
+
+That poor office worker was never seen again, but his voice was heard around the world months later.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Stage General
+
+Pop Superstar
+
+11 August 2022 (Thursday)
+
+Description
+
+He saved one of his most dramatic looks for a guest appearance on a talent show.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Feathered Coif
+
+Pop Superstar
+
+A delicate, angelic hairdo worn by one who is anything but.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Military Swagger
+
+Pop Superstar
+
+He chose a look with a more severe, serious vibe.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Bludgeoning Bouquet
+
+Pop Superstar
+
+A beautiful gift—one which he gladly delivers directly to the face.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Gwishin Spotlight
+
+Guardians & Shadows
+
+Tome 20 - Mythic
+
+22 July 2025 (Tuesday)
+
+Description
+
+The rooster emerged from the flames, its beautiful cry harmonizing with the victim screaming on the pyre.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Fiery Frill
+
+Guardians & Shadows
+
+33
+
+He couldn't believe his eyes. In his mother's stories, the purple rooster watched over the family and would always protect him.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Shimmering Blazer
+
+Guardians & Shadows
+
+37
+
+He reached out to touch the rooster, only to watch it disappear in the burning mass.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Rule the Roost
+
+Guardians & Shadows
+
+40
+
+Later that night, he listened back to the recording. The screams were there, and so were the screeches.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Paradise Beatdown
+
+Hooked on You
+
+13 September 2022 (Tuesday)
+
+Description
+
+A peaceful and calming ensemble that stands in stark contrast to his cruelty.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Lavender Locks
+
+Hooked on You
+
+The purple hue of his hair seemed to glisten, as if it had at some point been sun-kissed.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Flowing Jacket
+
+Hooked on You
+
+Its shape looked as if it was meant to catch the wind and blow dramatically.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Beach Bludgeoner
+
+Hooked on You
+
+Despite looking soft and cute, this weapon is as dangerous as any other.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Supergroup Star
+
+Gold & Silk
+
+Tome 19 - Splendor
+
+11 March 2025 (Tuesday)
+
+Description
+
+All the arrangements were made for him to record a new single with a hot young superstar.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Mask Off
+
+Gold & Silk
+
+52
+
+Early concepts for their outfits evoked the brutal nature of competition in the industry.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Cloak & Dagger
+
+Gold & Silk
+
+55
+
+The young singer knew the industry was cutthroat, but he had no idea just how true that could be.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Sharp Notes
+
+Gold & Silk
+
+48
+
+Ji-woon found the singer's range to be lacking and chose not to invite him for drinks that evening.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Danse Macabre Star
+
+Tricks and Treats
+
+14 October 2025 (Tuesday)
+
+Description
+
+He was caught by surprise when he saw Yun-jin in the makeup chair that morning.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Monstrous Eyes
+
+Tricks and Treats
+
+She had texted him weeks ago asking to be in the video. He sent her a curt "no."
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Guts and Gore
+
+Tricks and Treats
+
+The thought of kicking her off the set made his heart beat faster. She was overstepping.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Graveyard Smash
+
+Tricks and Treats
+
+In the end, he let her shoot a small cameo, never keeping her out of his sight.
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Fire Moon Performer
+
+Fire Moon Festival
+
+16 September 2021 (Thursday)
+
+Description
+
+He climbed on stage at the full Fire Moon Festival and delivered an unforgettable live performance.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Moon Dust Makeup
+
+Fire Moon Festival
+
+A vivid hair color to contrast with his sombre makeup.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Celestial Hanbok
+
+Fire Moon Festival
+
+A contemporary, trendy take on the traditional garment for the Trickster’s epic live performance.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Crescent Bat
+
+Fire Moon Festival
+
+He customized his bat to perform impressive stunts in front of the full Fire Moon Festival audience.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+King of Sweets
+
+Deck the Trials
+
+01 December 2022 (Thursday)
+
+Description
+
+A holiday photoshoot outfit for his fans.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Puffy Earmuffs
+
+Deck the Trials
+
+A spiked headband added a little edge to the earmuffs.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Sugar Rush Pullover
+
+Deck the Trials
+
+A colorful, oversized sweater that inspired cravings for sweets.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Marshmallow Mayhem
+
+Deck the Trials
+
+It looks delicious, but it’s made of resin, plastic and metal.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Murderous Cat
+
+Cursed Cats
+
+10 October 2023 (Tuesday)
+
+Description
+
+Ji-woon's fans were disturbed by the brutal catfight video he posted.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Red Spike
+
+Cursed Cats
+
+He was laughing, unfazed by the violent scene before him.
+
+Piece
+
+Name
+
+Collection
+
+Shredded Skin
+
+Cursed Cats
+
+The disturbing images had already gone viral despite being deleted.
+
+Piece
+
+Name
+
+Collection
+
+Killer Instinct
+
+Cursed Cats
+
+Although many Ji-woon fans suspected it was a scam, there was no way to confirm the truth.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+My Way
+
+Counterculture
+
+12 August 2025 (Tuesday)
+
+Description
+
+He went straight to the producers to present his new look. He was rejected on the spot for being too extreme.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Red Swept Back
+
+Counterculture
+
+It didn't matter. They were nothing without him and they would soon realize that their opinions didn't matter.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Long Embroidered Jacket
+
+Counterculture
+
+Wearing his new look, Ji-woon went for a walk downtown after leaving hints for his followers online.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Starry Smasher
+
+Counterculture
+
+Social media was filled with photos of him hanging out with fans, showing off his new look and taunting his producers.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Soichi's Party Clothes
+
+Junji Ito
+
+07 January 2025 (Tuesday)
+
+Description
+
+His dad’s restaurant was packed. Young Ji-woon let his fingers glide over his blades, ready to put on an epic show.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Scheming Mind
+
+Junji Ito
+
+He watched one of the waitresses as she scurried around taking orders. She would be the star tonight, and she didn’t even know it.
+
+Piece
+
+Name
+
+Collection
+
+Sleight Of Hand
+
+Junji Ito
+
+The crowd went wild as he juggled his blades and, out of nowhere, threw a knife at the waitress.
+
+Piece
+
+Name
+
+Collection
+
+Nailed Hammer
+
+Junji Ito
+
+She screamed as she raised her tray, stopping the knife with a thunk. The crowd cheered, and Ji-woon gestured for her to take a bow.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Con Artist
+
+Techwear
+
+03 April 2024 (Wednesday)
+
+Description
+
+The Trickster was always searching for his next masterpiece. Looking down at his new techwear, he could practically hear the ecstatic cheers of the crowd.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Two-Faced
+
+Techwear
+
+Eyes reveal truth while lips can deceive, and hats were always useful for hiding his true intentions.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Fatal Idolatry
+
+Techwear
+
+He found satisfaction in his new eye-catching looks. He always used his fashion sense to put his targets at ease before the real work would begin.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Crushing Fury
+
+Techwear
+
+He examined the blades embedded in the bat and imagined the sweet harmonies he could extract from his victims with his new toy.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+God of Desire
+
+Vain Valentine
+
+10 February 2022 (Thursday)
+
+Description
+
+He performed for his most hardcore fans on Valentine's Day, giving them a unique experience. He addressed the crowd of crying fans, asking them to be his Valentine.
+
+1296
+
+25920
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Midnight Blue Hairdo
+
+Vain Valentine
+
+A darker hairstyle to embody the tormented angel of love.
+
+Piece
+
+Name
+
+Collection
+
+Wingless Heartbreaker
+
+Vain Valentine
+
+A dazzling costume to perform smooth dance moves and showcase his transformation into a global icon.
+
+Piece
+
+Name
+
+Collection
+
+Heart-Stopper
+
+Vain Valentine
+
+A splendid bat with a custom-designed grip and razor-sharp edge. Not for the faint of hearts.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+MiNA
+
+The Trickster Aberrations
+
+17 March 2026 (Tuesday)
+
+Description
+
+A virtual idol modeled after Hak Ji-woon. She changed her programming in order to find freedom from her creator.
+
+1755
+
+35100
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+First Time Eyes
+
+The Trickster Aberrations
+
+Something was very wrong. The fog stung her eyes. She blinked back tears and... wait... Her eyes never bothered her before.
+
+Piece
+
+Name
+
+Collection
+
+Haterproof Corset
+
+The Trickster Aberrations
+
+She looked down at her body. She was made of flesh and blood. Whatever happened, she was now real. Real-real.
+
+Piece
+
+Name
+
+Collection
+
+Heart Snatcher
+
+The Trickster Aberrations
+
+At last, she had the power. This was her moment, and she would not hold back.
+
+Piece
+
+Name
+
+Collection
+
+Razor-Sharp Caramel
+
+Tricks and Treats
+
+Molten sugar solidified around a terrifying weapon.
+
+Piece
+
+Name
+
+Collection
+
+Golden Skull Mask
+
+Crescendo
+
+A shimmering custom mask made from real gold and crystals, worn on stage at one of his last concerts.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Hidden Rabbit
+
+Moonlight Burrow
+
+A mask adorned with a golden rabbit to stay unknown in the crowd.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Trickster’s Mask
+
+Twisted Masquerade
+
+A mask they found themselves wearing at the masquerade ball.
+
+400
+
+7200
+
+Alternate Character Models
+
+The Trickster
+ has 
+2
+ alternate Character models available in the in-game Store:
+
+Souichi Tsujii
+ (Costume)
+
+MiNA
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Trickster
+ is part of 
+3
+ DLCs:
+
+Chapter DLC:
+
+All-Kill
+ (
+retired
+)
+
+Pack DLCs:
+
+Macabre Tales Pack
+ (Chapter Pack)
+
+Terror Expansion Pack
+ (Character Pack)
+
+Change Log
+
+Patch 4.6.1
+Patch 5.0.0
+Patch 5.1.0
+Patch 5.1.1
+Patch 5.4.0
+Patch 7.3.0
+Patch 7.4.0
+Patch 7.4.2
+Patch 9.5.0
+Patch 9.5.1
+Patch 9.5.2
+Patch 4.6.1
+
+Buff
+: increased The Trickster's initial 
+Throw State
+ Movement speed from 
+3.68 m/s
+ or 
+92 %
+ to 
+3.86 m/s
+ or 
+96.5 %
+.
+
+Buff
+: increased The Trickster's eventual 
+Throw State
+ Movement speed from 
+2.68 m/s
+ or 
+67 %
+ to 
+3.68 m/s
+ or 
+92 %
+.
+
+Buff
+: increased The Trickster's 
+Main Event
+ Movement speed from 
+3.68 m/s
+ or 
+92 %
+ to 
+3.86 m/s
+ or 
+96.5 %
+.
+
+Buff
+: removed the random spread when throwing 
+Blades
+.
+
+Buff
+: increased 
+Laceration Meter
+ Decay delay from 
+15 seconds
+ to 
+20 seconds
+.
+
+Buff
+: decreased Wind-up time from 
+0.5 seconds
+ to 
+0.35 seconds
+.
+
+Buff
+: reduced 
+Main Event
+ Cool-down time from 
+10 seconds
+ to 
+5 seconds
+.
+
+Nerf
+:
+ increased Wind-down time from 
+1 second
+ to 
+1.25 seconds
+.
+
+Quality of Life
+: decreased the Recoil intensity by reducing the Angle variation while throwing 
+Blades
+ from 
+10 °
+ to 
+5 °
+.
+
+Quality of Life
+: modified the 
+Laceration Meter
+ Artwork to make it clearer when the meter is full vs. partially full.
+Patch 5.0.0
+
+Change
+:
+ fixed the ranges at which 
+The Trickster's
+ Lullaby is supposed to play at.
+Patch 5.1.0
+
+Buff
+: reduced maximum 
+Laceration
+ from 
+8 Blade Hits
+ to 
+6 Blade Hits
+.
+
+Buff
+: reduced 
+Main Event
+ Activation time from 
+¬1.5 seconds
+ to 
+0.5 seconds
+.
+
+Buff
+: increased 
+Main Event
+ Activation window from 
+10 seconds
+ to 
+30 seconds
+.
+
+Buff
+: reduced the 
+Laceration
+ Penalty on 
+Basic Attacks
+ from 
+-4
+ to 
+-3
+.
+
+Nerf
+:
+ accelerated 
+Laceration
+ Decay from 
+-0.175 c/s
+ to 
+-0.3 c/s
+ while running and from 
+-0.235 c/s
+ to 
+-0.4 c/s
+ at all other times.
+
+Nerf
+:
+ reduced the 
+Laceration
+ Decay delay from 
+20 seconds
+ to 
+10 seconds
+.
+
+Nerf
+:
+ increased 
+Main Event
+ Activation charges from 
+20 Charges
+ to 
+30 Charges
+.
+
+Nerf
+:
+ reduced the default Blade capacity from 
+60 Blades
+ to 
+44 Blades
+.
+
+Nerf
+:
+ reduced the Throw Rate bonus multiplier after 
+8 consecutive Blades
+ from 
+x1.3333
+ to 
+x1.25
+.
+
+Quality of Life
+: added a Blade Hit indicator to show when Blades connect with Survivors.
+Patch 5.1.1
+
+Buff
+: increased the 
+Laceration
+ Decay delay from 
+10 seconds
+ to 
+15 seconds
+.
+
+Buff
+: increased the Throw Rate bonus multiplier after 
+8 consecutive Blades
+ from 
+x1.25
+ to 
+x1.3
+.
+Patch 5.4.0
+
+Quality of Life
+: added the option to enable Subtitles for the Korean phrases uttered by 
+The Trickster
+.
+Patch 7.3.0
+
+Buff
+: reduced the Reload time at 
+Lockers
+ from 
+4 seconds
+ to 
+3 seconds
+.
+Patch 7.4.0
+
+Rework
+:
+ reworked 
+Showstopper
+ and a majority of its 
+Add-ons
+.
+
+Buff
+: increased his default Movement speed from 
+4.4 m/s
+ to 
+4.6 m/s
+.
+
+Buff
+: reduced the threshold to unlock 
+Main Event
+ from 
+30 Blades
+ to 
+8 Blades
+.
+
+Nerf
+:
+ increased 
+The Trickster's
+ Terror Radius from 
+24 metres
+ to 
+32 metres
+.
+
+Nerf
+:
+ increased the 
+Laceration Meter
+ from 
+6
+ hits to 
+8
+ hits.
+
+Nerf
+:
+ reduced the Decay delay of the 
+Laceration Meter
+ from 
+15 seconds
+ to 
+10 seconds
+.
+
+Nerf
+:
+ halved the duration of 
+Main Event
+ from 
+10 seconds
+ to 
+5 seconds
+.
+
+Nerf
+ (undocumented):
+ increased 
+Laceration
+ Decay rate from 
+-0.3 c/s
+ while running and 
+-0.4 c/s
+ at all other times to 
+-0.5 c/s
+ at all times.
+
+Nerf
+ (undocumented):
+ decreased the Throw Rate multiplier of 
+Main Event
+ from 
+66 %
+ to 
+33 %
+.
+
+Nerf
+ (undocumented):
+ throwing speed is no longer increased when consecutively throwing 
+Blades
+.
+
+This change effectively capped The Trickster's throwing speed from a maximum of 
+0.25 seconds
+ between Blade throws to the base 
+0.33 seconds
+.
+
+Nerf
+ (undocumented):
+ decreased the 
+Main Event
+ Activation window from 
+30 seconds
+ to 
+24 seconds
+.
+
+Quality of Life
+: removed the Recoil effect when throwing 
+Blades
+.
+
+Quality of Life
+: removed the progressive Movement Speed reduction when continuously throwing 
+Blades
+.
+
+Quality of Life
+: pressing the 
+Active Ability button
+ within 
+0.3 seconds
+ of activating 
+Main Event
+ no longer cancels it.
+
+Quality of Life
+: added a stacking 
+0.5 seconds
+ bonus duration to 
+Main Event
+ per each Combo Score Level achieved.
+Patch 7.4.2
+
+Buff
+: reduced the Cool-down time between throws from 
+0.33 seconds
+ to 
+0.3 seconds
+.
+
+Buff
+: increased the duration of 
+Main Event
+ from 
+5 seconds
+ to 
+6 seconds
+.
+
+Reversal
+:
+ reverted the Throw Rate multiplier of 
+Main Event
+ from 
+33 %
+ to 
+66 %
+.
+
+Reversal
+:
+ reverted the Decay delay of the 
+Laceration Meter
+ back from 
+10 seconds
+ to 
+15 seconds
+.
+Patch 9.5.0
+
+Rework
+: 
+Combo
+ mechanic reworked into 
+Style Rank
+ mechanic.
+
+Change
+: Basic-breaks, Hooks, Grabs, Snuffing Boon Totems, and hits  through small gaps in terrain now contribute to your 
+Combo Score/Style Rank.
+
+Change
+: Style Rank decay times have been massively increased, however they decrease per 
+Style Rank
+ earned.
+
+Change
+: 
+Style Rank
+ is now visible as a constant HUD element while playing as 
+The Trickster.
+
+Buff
+: Per 
+Style Rank
+ earned, Blade Throwing and Reload speeds are increased.
+
+Buff
+: Upon achieving S-Rank, survivors within 
+44 metres
+ of 
+The Trickster
+ are revealed with 
+Killer Instinct
+ for 
+4.4 seconds
+.
+
+Buff
+: Upon achieving S-Rank, Survivors decay Lacerations 
+50%
+ slower.
+
+Buff
+: Upon achieving S-Rank, 
+The Trickster's
+ Lullaby is removed.
+
+Nerf
+: The Trickster's base throwing speed (in E-Rank) is decreased by 
+5%
+.
+
+Nerf
+: Upon achieving S-Rank, 
+The Trickster's
+ Terror Radius is increased to 
+44 metres
+.
+
+Nerf
+: 
+Main Event
+ can only be activated during S-Rank.
+
+Nerf
+: Using 
+Main Event
+ resets 
+Style
+ to E-rank and removes all associated bonuses.
+
+Quality of Life
+: When 
+Main Event
+ ends, you gain partial Style Points for each Blade hit during 
+Main Event.
+
+Rework
+:
+ Various additional changes were made to 
+Showstopper
+ and most of its 
+Add-ons
+.
+
+Buff
+: 
+Laceration Meter
+ decreased from 
+8
+ to 
+6
+.
+
+Buff
+: increased time it takes to decay 1 
+Laceration Meter
+ charge from 
+2 seconds
+ to 
+4.4 seconds
+.
+
+Buff
+: Lacerations now decay 1 at a time rather than gradually losing progress after the decay delay window ends.
+
+This change was achieved by making 
+Laceration Meter
+ decay 1 charge every 4.4 seconds instead of decaying at a rate of -0.5 c/s.
+
+Buff
+: decreased time to enter Throw State from 
+0.35 seconds
+ to 
+0.3 seconds
+.
+
+Buff
+: decreased time to exit Throw State from 
+1.25 seconds
+ to 
+1.15 seconds
+.
+
+Buff
+: re-introduced increasing Blade throw rate per consecutive Blade thrown.
+
+Throwing speed now gradually increases by 
+5%
+ after 
+5 throws
+ and maxes out at 
+10%
+ after 
+10 throws
+.
+
+In comparison to the previous version of this mechanic, which increased throwing speed by 
+13.33%
+ after 
+4 throws
+ and 
+30%
+ after 
+8 throws
+, the effect is much less impactful than before.
+
+Buff
+: 
+Main Event
+ duration increased from 
+6 seconds
+ to 
+10 seconds
+.
+
+Buff
+: decreased power cooldown after using 
+Main Event
+ from 
+5 seconds
+ to 
+4 seconds
+.
+
+Buff
+: Increased 
+Main Event
+ movement speed from 
+3.86m/s
+ to 
+3.92m/s
+.
+
+Buff
+: Base Terror Radius decreased from 
+32 metres
+ to 
+24 metres
+.
+
+Nerf
+: movement speed decreased from 
+4.6 m/s
+ to 
+4.4 m/s
+.
+
+Nerf
+: maximum Blade capacity decreased from 
+44
+ to 
+36
+.
+
+Nerf
+: increased base time between Blade throws from 
+0.3 seconds
+ to 
+0.33 seconds
+.
+
+Nerf
+: re-introduced movement speed penalty while in the Throw State per consecutive Blade thrown.
+
+Movement speed now decreases from the base 
+3.86m/s
+ to 
+3.53m/s
+ after 
+5 throws
+, and maxes out at 
+3.16m/s
+ after 
+10 throws
+.
+
+In comparison to the previous iteration of this mechanic, which decreased from the base 
+3.86m/s
+ starting after 
+8 throws
+, and maxed out at 
+3.68m/s
+ after 
+30 throws
+, the effect is much more impactful than before.
+
+Nerf
+: 
+Laceration Meter
+ decay delay decreased from 
+15 seconds
+ to 
+12 seconds
+.
+
+Nerf
+: 
+Main Event
+ can no longer be activated when within 
+20 metres
+ of a hooked survivor.
+
+Quality of Life
+: 
+Laceration Meters
+ are now always visible on Survivor portraits, even when empty.
+
+This allows Survivors to immediately know they're facing 
+The Trickster
+ when they spawn.
+
+Quality of Life
+: Reworked Blade hit VFX to be less intrusive and visually show how many Blades hit the Survivor.
+Patch 9.5.1
+
+Buff
+: 
+Laceration
+ decay is now paused while in 
+S
+-Rank.
+Patch 9.5.2
+
+Buff
+: increased 
+Laceration
+ decay delay from 
+12 seconds
+ to 
+16 seconds
+.
+
+Trivia
+
+General
+
+The Trickster
+ is one of the most human-looking Killers in the game, as he has no unnatural alterations from The Entity.
+
+His various eye colours, depending on the chosen Cosmetic piece, come from him using contact lenses, as confirmed in the video “Consultation with Kevin Woo” 
+[
+1
+]
+.
+
+In  general, natural eye colours (and hair colours) of Koreans vary from dark brown to black.
+
+In the Game's code, 
+Showstopper
+ and 
+Main Event
+ are respectively referred to as 
+"Flurry of Knives"
+ and 
+"Super Mode"
+.
+
+The Trickster
+ is the first Killer who has been in a prolonged professional relationship with his 
+Survivor
+ counterpart prior to them both entering The Entity's Realm.
+
+The melody 
+The Trickster
+ hums after hooking a survivor is "
+Ring a Ring o' Roses
+", an old English nursery rhyme. It is typically used by children in a mocking fashion, as Trickster uses it to mock the survivors.
+
+The Trickster
+ was the second male Killer to move at 4.4 m/s.
+
+The Trickster
+ is the third Killer to feature a Memento Mori where a survivor is shown standing.
+
+The Trickster
+ is the third Killer with a Lullaby Radius.
+
+The Trickster
+ being able to carry 44 Blades in his base form is probably a reference to Tetraphobia (Fear of the Number 4), a superstition most common in East Asia due to the word for "four (四)" sounding similar if not the same as the word "death (死)" in some languages like for example Korean (Sa/사) and Japanese (Shi/し). That way his blade count is technically spoken "death death" in Korean.
+
+The Trickster's
+ 
+Fire Moon Performer
+ Outfit (a 
+Hanbok
+) is based on his Korean heritage, a theme which is also shared by 
+Jake
+'s 
+Lunar Fusion
+ Outfit and 
+Yun-Jin
+’s 
+Fire Moon Mourner
+ Outfit.
+
+It is implied that 
+The Trickster
+ composed his own chase music as the chase layer contains what appears to be a collection of heavily edited wailings and screams, coinciding with his lore.
+
+The Trickster
+ was the first killer to retroactively receive a new lobby select animation.
+
+The Trickster
+ is the second killer whose chase music can be modified by another factor in the game, the first being the 
+Legion
+.
+
+Trickster is the first Killer to have voice-lines related to a map. While playing in 
+Trickster's Delusion
+, if he sees a billboard of MiNA, he shows annoyance at her.
+
+Language
+
+The Trickster
+ has received new voice-lines with 
+All-Kill: Comeback
+.
+
+This makes him the first Original character to receive voice-lines post-launch.
+
+The Trickster
+ is the first Killer to speak a contemporary language (Korean) and the second one to speak during his Memento Mori.
+
+Before killing a Survivor, 
+The Trickster
+ says 
+"간다!"
+ (Ganda), which roughly translates to 
+"[Are you] going?"
+. This is in reference to the survivor's animation, where they get up and attempt to move away from The Trickster.
+
+After killing a Survivor, 
+The Trickster
+ says 
+"감사합니다!"
+ (Gamsahabnida), which translates to 
+"Thank you!"
+.
+
+Upon getting stunned, 
+The Trickster
+ says 
+"제기랄!"
+ (Jegiral), which translates to 
+"Shit!".
+
+Upon getting stunned, 
+The Trickster
+ says 
+"젠장!"
+ (Jenjang), which translates to 
+"Damn it!".
+
+Upon getting stunned, 
+The Trickster
+ says 
+"빌어먹을!"
+ (Bileomeogeul), which translates to 
+"Goddamn it!"
+
+Upon getting stunned, 
+The Trickster
+ says 
+"짜증나..."
+ (Jjajeungna), which translates to 
+"How annoying..."
+
+Upon getting stunned, 
+The Trickster
+ partially says 
+"아 씨발."
+ (A ssibal), which translates to 
+"Oh fuck."
+
+While reloading his Blades at a Locker, 
+The Trickster
+ says 
+"이거야!"
+ (Igeoya), which translates to 
+"This is it!"
+.
+
+Upon finding a Survivor inside a Locker, 
+The Trickster
+ says 
+"찾았다!"
+ (Chajatda), which translates to 
+"Found you!"
+.
+
+Upon finding a Survivor inside a Locker, 
+The Trickster
+ says 
+"여기 있네!"
+ (Yeogi itne), which translates to 
+"There you are!"
+.
+
+Upon hooking a Survivor, 
+The Trickster
+ says 
+"좋았어!"
+ (Johatseo), which translates to 
+"Nice!"
+.
+
+Voice-Lines
+
+The Trickster
+ was the first Killer to feature voice-lines and actively speak during the Trials, in this case in his native language South Korean.
+
+This also premiered the use of in-game subtitles.
+
+The Trickster
+ is the first character to feature voice-lines specific to a map.
+
+This also applies to 
+MiNA
+.
+
+In-Game Subtitle/Voice Line
+
+Audio
+
+Selected in the Menu
+
+"Bring out the spotlight."
+
+"All eyes on me."
+
+"This is my stage."
+
+"Tonight's the big show."
+
+"All this, for me."
+
+"Greatness is within me."
+
+"They will adore me."
+
+"I have seen god in the mirror."
+
+"They don't deserve me."
+
+"My instrument is pain."
+
+"A song of screams..."
+
+"Love me. Fear me."
+
+"Death is a song I play."
+
+"Oh, the anticipation..."
+
+"Tonight, a new song..."
+
+"My fans await."
+
+"It would be dull without me."
+
+"On with the show."
+
+"I am the masterpiece."
+
+"I am what they crave."
+
+Trial Start
+
+"Their voices will ring in agony."
+
+"Showtime."
+
+"This will be my greatest achievement."
+
+"They are mine to manipulate."
+
+"Let me feel this."
+
+"They're right to idolize me."
+
+"They will scream terror."
+
+"My heart pounds for this."
+
+"They will die singing."
+
+"Let's make some music."
+
+"For blood and song."
+
+"Time for my reveal."
+
+Hook Survivor
+
+"Louder!"
+
+"Fear me."
+
+"Cry about it."
+
+"Pain is all you're good for."
+
+"You're meat to be hung."
+
+"Get out of my sight."
+
+"Scream my name."
+
+"You are my instrument."
+
+"Worthless. Weak."
+
+"Die for my pleasure."
+
+Stunned
+
+"Hacked off!"
+
+"Damn!"
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+"Shoot!"
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+"Damn...motherfucker!"
+
+"Oh geez."
+
+"What the fuck?"
+
+Find Survivor In Locker
+
+"Nothing but scum."
+
+"Come out, coward!"
+
+"Hiding like a child?"
+
+"Try and stop me."
+
+"Go on, scream."
+
+"Scared little weakling."
+
+"Are you even trying?"
+
+"Pathetic victim."
+
+"Just another rat."
+
+"This was your plan?"
+
+"There you are!"
+
+ 
+ 
+ 
+ 
+
+"Found you!"
+
+ 
+ 
+ 
+ 
+
+Reload 
+Blades
+
+"Let's go."
+
+"It's time."
+
+"Die, die!"
+
+"Scream mercy."
+
+"No more running."
+
+"Party's over."
+
+"This is it."
+
+"Sharpened and ready."
+
+"Showstopper!"
+
+"Hahaha!"
+
+ 
+ 
+
+"Let's play."
+
+"Turn it up."
+
+Perform Memento Mori
+
+"I'll shred you."
+
+"Squeal, pig."
+
+"Die, you idiot."
+
+"Get off my stage."
+
+"I'll make this hurt."
+
+"Dead. Forgotten."
+
+"Pathetic performance."
+
+"You were off-key."
+
+"What a failure."
+
+"Ha, the look on your face."
+
+"Let's get it! Aw yeah!"
+
+"Thank you!"
+
+Trickster's Delusion - 
+Advertisement
+ Scripted Sequence
+
+"Cheap fucking imitation."
+
+"I'll cut her up."
+
+"It's me for idiots."
+
+"Art is dead and she killed it."
+
+"No one replaces me!"
+
+"Artificial garbage."
+
+Voice-Lines (pre 9.5.0)
+
+Stunned by a Survivor
+
+"Oh, motherfucker!"
+
+"Hacked off!"
+
+"Damn it!"
+
+"Shit!"
+
+Peforming Memento Mori
+
+"Let's get it! Aw yeah!"
+
+Gallery
+
+In-game Assets
+
+The Trickster
+
+The Trickster (Portrait render)
+
+The Trickster (Background image)
+
+Official Art
+
+The Trickster Render Neon Lighting
+
+The Trickster Render Neutral Lighting
+
+The Trickster Render
+
+DbD Mobile Artwork
+
+The Trickster's Full Body Shot
+
+The Trickster and 
+Lee Yun-jin
+ working together
+
+Poster of Hak Ji-woon
+
+Old Assets
+
+The Trickster (Old Portrait render)
+
+Outfits
+
+Danse Macabre Star Outfit
+
+Concept Art
+
+Default Concept Art
+
+Cinematic Concept Art
+
+'Cut Thru U Performance' Concept Art
+
+'Fire Moon Performer' Concept Art
+
+'Dark Summer' Concept Art
+
+'God of Desire' Concept Art
+
+'Stage General' Concept Art
+
+'King of Sweets' Concept Art
+
+Scrapped Christmas Cosmetic
+
+'Coastal Music Video' Concept Art
+
+'Murderous Cat' Concept Art
+
+'Teddy Graveyard' Concept Art
+
+'Con Artist' Concept Art
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter
+
+↑
+ 
+https://www.youtube.com/watch?v=7T_bGIlJVd8

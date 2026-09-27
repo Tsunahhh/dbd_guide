@@ -1,0 +1,2091 @@
+# The Demogorgon
+Source: https://deadbydaylight.wiki.gg/wiki/The_Demogorgon (page complète via API, consultée le 27/09/2026)
+
+The Demogorgon
+
+Game Alias(es)
+
+"The Monster"
+
+"The Beast"
+
+Gender
+
+Not applicable (not human)
+
+Origin
+
+None (Creature, Extradimensional Origin)
+
+Realm
+
+Hawkins National Laboratory
+
+Power
+
+Of the Abyss
+
+Power 
+Attack
+ Type
+
+Special Attack
+
+(Shred)
+
+Weapon
+
+Barbarous Claw
+
+Movement Speed
+
+115 % 
+|
+ 4.6 m/s
+
+Alternate Movement speed
+
+96.5 % 
+|
+ 3.86 m/s
+(Of the Abyss)
+460 % 
+|
+ 18.4 m/s
+(Shred)
+
+Terror Radius
+
+32 metres
+
+Height 
+
+Tall
+
+DLC
+
+Stranger Things
+
+Voice Actor
+
+None (Digital SFX)
+
+Cost
+
+500 
+Auric Cells
+
+Breathing
+
+Menu Music
+
+Terror Radius Music
+
+Metadata
+
+CharID
+
+K17
+
+The Demogorgon
+ is one of 
+44
+ 
+Killers
+ featured in 
+Dead by Daylight
+.
+
+It was introduced as the Killer of 
+Stranger Things
+, a Chapter DLC released on 17 September 2019.
+
+It originates from the 2016 Sci-Fi-Horror Web Television series 
+Stranger Things
+.
+
+The Chapter was temporarily retracted from 
+Dead by Daylight
+ between 17 November 2021 and 6 November 2023, but it remained a playable Character for anyone who already owned it.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: Barbarous Claw
+
+3.3
+ 
+Power: Of the Abyss
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for Of the Abyss
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Base Cosmetics
+
+5.1.1
+ 
+Default
+
+5.1.2
+ 
+Prestige
+
+5.1.2.1
+ 
+Perk Charms
+
+5.1.2.2
+ 
+Prestige Badges
+
+5.2
+ 
+Rift
+
+5.3
+ 
+In-Game Store
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+General
+
+8.2
+ 
+Development
+
+8.3
+ 
+Name
+
+8.4
+ 
+Terror Radius
+
+9
+ 
+Gallery
+
+9.1
+ 
+In-game Assets
+
+9.2
+ 
+Old Assets
+
+9.3
+ 
+Official Art
+
+9.4
+ 
+Concept Art
+
+Overview
+
+The Demogorgon
+ is an unidentified Killer, able to open multiple Portals and traverse between them to cover large distances. Using its Power, 
+Of the Abyss
+, it can detect any Survivors within a close proximity to the Portals then unleash a leaping attack to inflict damage from a distance.
+
+Its personal Perks, 
+Surge
+, 
+Mindbreaker
+, and 
+Cruel Limits
+, impact the environment close to Generators and affect nearby Survivors in unexpected ways.
+
+During the Chapter's temporary departure from 
+Dead by Daylight
+, these Perks were replaced with a generic variant each: 
+Jolt
+, 
+Fearmonger
+, and 
+Claustrophobia
+. These generic perks have been replaced with 
+The Demogorgon's
+ original Teachable Perks with the Chapter's return to 
+Dead by Daylight
+.
+
+Lore
+
+A blooming mouth full of needle-like teeth for a face, large, curved, razor-sharp claws, and powerful legs to pounce on victims, make The Demogorgon a frightening monster to face in any dimension. It is a nightmare of unrestrained, feral rage as it hunts down its prey and rips it to pieces, devouring every last morsel of flesh and gore, leaving nothing for scavengers. The creature is untouched by any sense of compassion or restraint. Looming over its victim, it shows no doubt or mercy, just the pure instinct of its insatiable blood lust as it delivers the deathblow. A perfect hunter, The Demogorgon is a macabre testament to the horrors lurking in the Upside Down and why it was choice pickings for The Entity.
+
+Load-out
+
+Unique Perks
+
+The Demogorgon
+ comes with 
+3
+ 
+Perks
+ that are unique to it:
+
+ 
+
+Cruel Limits
+
+"Your ties to the otherworldly manifest when your prey attempts to get away."
+
+Whenever a 
+Generator
+ is completed, 
+Cruel Limits
+ triggers its effect for 
+20
+/
+25
+/
+30
+ 
+seconds
+:
+
+Blocks
+ all 
+Windows
+ for all Survivors.
+
+The 
+Auras
+ of the 
+Blocked Windows
+ are revealed to you and highlighted in 
+yellow
+.
+
+"The specimen seems to be able to affect the state of nearby objects, as if they existed in some other form within a dimension alternate to our own." — Hawkins National Laboratory
+
+ 
+
+Mindbreaker
+
+"Your distressing presence drains and weakens your prey."
+
+While repairing a 
+Generator
+, Survivors suffer from the following effects:
+
+Incurs the 
+Blindness
+ and 
+Exhausted
+ 
+Status Effects
+.
+
+Both 
+Status Effects
+ linger for 
+3
+/
+4
+/
+5
+ 
+seconds
+ after ending the interaction.
+
+Mindbreaker
+ cannot be used to override an existing 
+Exhausted
+ Status Effect
+, but pauses its timer instead.
+
+"The specimen's apparent telepathic ability can evoke feelings of dread and fatigue in nearby individuals." — Hawkins National Laboratory
+
+ 
+
+Surge
+
+"Your eerie presence charges the air and interferes with technology."
+
+Whenever you put a Survivor into the 
+Dying State
+ with your 
+Basic Attack
+, 
+Surge
+ triggers its effect:
+
+Causes all 
+Generators
+ within 
+32 metres
+ of your location to instantly explode and start regressing.
+
+Instantly regresses all affected 
+Generators
+ by 
+6
+/
+7
+/
+8
+ 
+%
+.
+
+"The creature appears to have some unknown influence over electricity and nearby electronics." — Hawkins National Laboratory
+
+Prestige
+
+Prestiging 
+The Demogorgon
+ will automatically add 
+Tier I
+ of its Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Demogorgon
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: Barbarous Claw
+
+The 
+Barbarous Claw
+ is the Primary Weapon of 
+The Demogorgon
+.
+A gargantuan hand of immense strength.
+Its long fingers can brutalise prey.
+
+Power: Of the Abyss
+
+"An unknown and otherworldly power surged through its body.
+Suddenly the ground ripped open, swallowing The Demogorgon whole."
+SPECIAL ABILITY: OF THE ABYSS
+Press and hold the 
+Power button
+ to channel 
+Of the Abyss
+:
+
+Triggers 
+Killer Instinct
+ on Survivors inside the 
+Area of Effect
+ of 
+Active Portals
+.
+
+Unlocks the ability to perform a 
+Shred Attack
+.
+
+SPECIAL ATTACK: SHRED
+Press the 
+Attack button
+ after charging 
+Of the Abyss
+ to at least 
+65 %
+ to dash forwards and unleash a vicious slash:
+
+Causes 
+The Demogorgon
+ to lunge forwards at 
+19 m/s
+.
+
+Grants the ability to destroy 
+Breakable Walls
+ and dropped 
+Pallets
+.
+
+SPECIAL OBJECTS: PORTALS
+The Demogorgon
+ starts the Trial with 
+6
+ 
+Portals
+.
+
+Press and hold the 
+Secondary Power button
+ to bend down and create an 
+Inactive Portal
+ in the ground:
+
+Inactive Portals
+ are invisible to Survivors and cannot be sealed.
+
+Inactive Portals
+ do not have an 
+Area of Effect
+ and thus do not trigger 
+Killer Instinct
+.
+
+When 
+The Demogorgon
+ interacts with 
+Inactive Portals
+ to traverse the 
+Upside Down
+, both the 
+Portal
+ he travels from and the one he travels to are transformed into 
+Active Portals
+:
+
+Active Portals
+ are visible to Survivors and can be sealed.
+
+Active Portals
+ have an 
+Area of Effect
+ of 
+4 metres
+ around them.
+
+Survivors inside the 
+Area of Effect
+ suffer permanently from the 
+Oblivious
+ 
+Status Effect
+ and are revealed by 
+Killer Instinct
+ while 
+The Demogorgon
+ is channelling 
+Of the Abyss
+.
+
+SPECIAL INTERACTION: SEALING PORTALS
+Survivors can interact with 
+Active Portals
+ to seal them, either alone or together with other Survivors, though at increasingly reduced efficiency:
+
+1 Survivor
+ seals a 
+Portal
+ in 
+12 seconds
+.
+
+2 Survivors
+ seal a 
+Portal
+ in 
+~9 seconds
+.
+
+3 Survivors
+ seal a 
+Portal
+ in 
+8 seconds
+.
+
+4 Survivors
+ seal a 
+Portal
+ in 
+6 seconds
+.
+
+Sealing a 
+Portal
+ will recycle it into the inventory of 
+The Demogorgon
+.
+SPECIAL LOCOMOTION: TRAVERSING THE UPSIDE DOWN
+Press and hold the 
+Secondary Power button
+ while standing atop any 
+Portal
+ and aiming at any 
+Highlighted Portal
+ to enter the first 
+Portal
+ and traverse the 
+Upside Down
+, appearing at the second 
+Portal
+:
+
+Transforms 
+Inactive Portals
+ into 
+Active Portals
+.
+
+Grants the 
+Undetectable
+ 
+Status Effect
+ for 
+12 seconds
+.
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Channelling 
+Of the Abyss
+: 
+3.86 m/s
+
+Walking: 
+4.6 m/s
+
+Shred
+ attack: 
+19 m/s
+
+Traversing the Upside Down: 
+32 m/s
+
+Shred:
+
+Charge time: 
+1 second
+
+Shred
+ must be charged to at least 
+65 %
+, otherwise 
+The Demogorgon
+ will perform a normal 
+Lunge
+ attack instead.
+
+Cancelling a fully charged 
+Shred
+ results in a cool-down of 
+0.45 seconds
+, during this time 
+The Demogorgon
+ cannot interact or attack.
+
+Field of View
+ bonus angle: 
++15 °
+
+Attack Cool-downs:
+
+Shredding
+ a 
+Pallet
+ or a 
+Breakable Wall
+: 
+1.8 seconds
+
+Missed 
+Shred Attack
+: 
+2.25 seconds
+
+Successful 
+Shred Attack
+: 
+2.7 seconds
+
+Portals:
+
+Capacity: 
+6 Portals
+
+Setting time: 
+0.85 second
+
+Entering time: 
+1.35 seconds
+
+Area of Effect
+ radius: 
+4 metres
+
+Noise radius: 
+8 metres
+
+Sealing times:
+
+1 Survivor: 
+12 seconds
+ (1 c/s each; no efficiency penalty)
+
+2 Survivors: 
+~9 seconds
+ (0.67 c/s each; 33 % efficiency penalty)
+
+3 Survivors: 
+8 seconds
+ (0.5 c/s each, 50 % efficiency penalty)
+
+4 Survivors: 
+6 seconds
+ (0.5 c/s each, 50 % efficiency penalty)
+
+Sealing a 
+Portal
+ will reveal its 
+Aura
+ to all other Survivors, so that they may come help.
+
+It will also play a global sound cue to all Survivors that is very similar to the regular SFX while sealing a 
+Portal
+, meaning Survivors can hear map-wide when someone is sealing a 
+Portal
+.
+
+Sealing a 
+Portal
+ will occasionally spawn 
+Skill Checks
+, but without a Great Success zone.
+
+Miscellaneous:
+
+Footstep Noise range: 
+16 metres
+
+Undetectable
+ duration: 
+12 seconds
+
+Power Recovery time: 
+10 seconds
+
+Restrictions:
+
+It is impossible to place a 
+Portal
+ within a specific radius of the following 
+Props
+:
+
+within 
+2.5 metres
+ of a 
+Pallet
+
+within 
+4 metres
+ of an 
+Exit Gate
+ or a 
+Hook
+
+within 
+8 metres
+ of another 
+Portal
+
+Add-ons for Of the Abyss
+
+Icon
+
+Name
+
+Description
+
+Black Heart
+
+A black fermented heart ripped from the chest of a tentacled creature in the Upside Down.
+
+Reduces
+ the Attack cool-down of successful 
+Shred Attacks
+ used to hit Survivors by 
+-10 %
+.
+
+Rat Liver
+
+A soggy pile of salty, soft liver.
+
+Increases
+ your Movement speed while holding 
+Of the Abyss
+ by 
++3.5 %
+.
+
+Rat Tail
+
+A chewy rat tail for The Demogorgon to consume.
+
+Increases
+ the Opening speed of 
+Portals
+ by 
++50 %
+.
+
+Rotten Pumpkin
+
+Pumpkin flesh infected by the rotten soil in Hawkins.
+
+Causes the 
+Portal
+ from which you start your Teleport to seal automatically.
+
+Grants 
++200
+ bonus Bloodpoints for 
+Interdimensional Travel
+ Score Events.
+
+Barb's Glasses
+
+A broken pair of glasses that travelled to the Upside Down.
+
+Reduces
+ the Attack cool-down of successful 
+Shred Attacks
+ used to break 
+Breakable Walls
+ or 
+Pallets
+ by 
+-10 %
+.
+
+Mews' Guts
+
+The tasty guts of an unfortunate victim.
+
+Reduces
+ the Attack cool-down of missed 
+Shred Attacks
+ by 
+-11 %
+.
+
+Increases
+ the number of available 
+Portals
+ by 
++1
+.
+
+Rotten Green Tripe
+
+Rotten tripe that fuels The Demogorgon.
+
+Increases
+ your Teleportation speed by 
++15 %
+.
+
+Sticky Lining
+
+A fetid, viscous layer that covers and expands the interdimensional tunnels.
+
+Increases
+ the 
+Area of Effect
+ of active 
+Portals
+ by 
++2.5 metres
+.
+
+Viscous Webbing
+
+Wet, elastic webs that broaden the interdimensional tunnels.
+
+Increases
+ the Sealing time of 
+Portals
+ by 
++10 %
+.
+
+Brass Case Lighter
+
+A lighter used to ignite trouble.
+
+Survivors suffer from the 
+Blindness
+ 
+Status Effect
+ while closing 
+Portals
+.
+
+This effect lingers for 
+60 seconds
+.
+
+"Emits a strong electromagnetic field: it must have come into contact with the Upside Down." — Hawkins National Laboratory
+
+Deer Lung
+
+A raw, rubbery lung that reinvigorates The Demogorgon.
+
+Increases
+ your Teleportation speed by 
++30 %
+.
+
+Reduces
+ the number of available 
+Portals
+ by 
+-2
+.
+
+Eleven's Soda
+
+A soda can charged with psychic energy.
+
+The 
+Auras
+ of 
+Generators
+ actively being repaired by Survivors are highlighted to you in 
+yellow
+ while traversing the Upside Down.
+
+Thorny Vines
+
+Thick, thorny vines that stretch and reinforce the interdimensional tunnels.
+
+Increases
+ the 
+Area of Effect
+ of active 
+Portals
+ by 
++1 metre
+.
+
+Increases
+ the Sealing time of 
+Portals
+ by 
++8 %
+.
+
+Violet Waxcap
+
+A dark fleshed mushroom from the Upside Down that allows The Demogorgon to telepathically distort the senses in its prey.
+
+After traversing the 
+Upside Down
+, the following effect applies:
+
+Extends
+ the 
+Undetectable
+ 
+Status Effect
+ gained after emerging from a 
+Portal
+ by 
++1 second
+ to 
+6 seconds
+.
+
+Lifeguard Whistle
+
+A rusty, metal whistle that once ruled the Hawkins public pool.
+
+You benefit from the following effect:
+
+Increases
+ the number of available 
+Portals
+ by 
++2
+.
+
+"Emits a strong electromagnetic field: it must have come into contact with the Upside Down." — Hawkins National Laboratory
+
+Unknown Egg
+
+A large, warm egg coated in gruesome webbing.
+
+Reduces
+ the Recovery time of 
+Of the Abyss
+ by 
+-2.5 seconds
+.
+
+"A large egg was sighted in the Upside Down, but no sample survived the trip to the lab for proper examination." — Hawkins National Laboratory
+
+Upside Down Resin
+
+A sticky, flammable sap that fortifies the gateway to the interdimensional tunnels.
+
+Increases
+ the Sealing time of 
+Portals
+ by 
++20 %
+.
+
+"A sample taken from the bark of the tree once used as a gate. So far our conclusion as to its effect are inconclusive." — Hawkins National Laboratory
+
+Vermilion Webcap
+
+A bright red poisonous mushroom from the Upside Down.
+
+After traversing the 
+Upside Down
+, the following effect applies:
+
+Extends
+ the 
+Undetectable
+ 
+Status Effect
+ gained after emerging from a 
+Portal
+ by 
++3 seconds
+ to 
+8 seconds
+.
+
+"Still experimenting with this specimen, so far our results are inconsistent." — Hawkins National Laboratory
+
+Leprose Lichen
+
+A potent lichen that grows like dust on the rocks in the Upside Down.
+
+The 
+Auras
+ of all Survivors are revealed to you while traversing the Upside Down.
+
+This effect lingers for 
+3 seconds
+ for all Survivors within 
+16 metres
+ of an active Portal.
+
+"One small dose can cause severe hallucinations." — Hawkins National Laboratory
+
+Red Moss
+
+A psychedelic moss that grows on tree barks in the Upside Down.
+
+After traversing the 
+Upside Down
+, the following effects apply:
+
+Extends
+ the 
+Undetectable
+ 
+Status Effect
+ gained after emerging from a 
+Portal
+ by 
++8 seconds
+ to 
+13 seconds
+.
+
+Suppresses
+ all noises related to emerging from a 
+Portal
+.
+
+Increases
+ the time required to emerge from a 
+Portal
+ by 
++15 %
+.
+
+"Consuming its leaf enhances athletic performance and causes euphoria." — Hawkins National Laboratory
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+When 
+Stranger Things
+ was retracted from 
+Dead by Daylight
+, all Achievements related to it were replaced by generic ones.
+
+Before that, there were 
+2
+ unlockable Achievements related to 
+The Demogorgon
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Demogorgon
+
+THIS  HAS BEEN RETIRED.
+
+Playing as The 
+Demogorgon
+, achieve a 
+Merciless Victory
+ using only its 
+3
+ Unique Perks: 
+Surge
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Your eerie presence charges the air and interferes with technology."
+
+Whenever you put a Survivor into the 
+Dying State
+ with your 
+Basic Attack
+, 
+Surge
+ triggers its effect:
+
+Causes all 
+Generators
+ within 
+32 metres
+ of your location to instantly explode and start regressing.
+
+Instantly regresses all affected 
+Generators
+ by 
+6
+/
+7
+/
+8
+ 
+%
+.
+
+"The creature appears to have some unknown influence over electricity and nearby electronics." — Hawkins National Laboratory
+
+, 
+Mindbreaker
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Your distressing presence drains and weakens your prey."
+
+While repairing a 
+Generator
+, Survivors suffer from the following effects:
+
+Incurs the 
+Blindness
+ and 
+Exhausted
+ 
+Status Effects
+.
+
+Both 
+Status Effects
+ linger for 
+3
+/
+4
+/
+5
+ 
+seconds
+ after ending the interaction.
+
+Mindbreaker
+ cannot be used to override an existing 
+Exhausted
+ Status Effect
+, but pauses its timer instead.
+
+"The specimen's apparent telepathic ability can evoke feelings of dread and fatigue in nearby individuals." — Hawkins National Laboratory
+
+, and 
+Cruel Limits
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Your ties to the otherworldly manifest when your prey attempts to get away."
+
+Whenever a 
+Generator
+ is completed, 
+Cruel Limits
+ triggers its effect for 
+20
+/
+25
+/
+30
+ 
+seconds
+:
+
+Blocks
+ all 
+Windows
+ for all Survivors.
+
+The 
+Auras
+ of the 
+Blocked Windows
+ are revealed to you and highlighted in 
+yellow
+.
+
+"The specimen seems to be able to affect the state of nearby objects, as if they existed in some other form within a dimension alternate to our own." — Hawkins National Laboratory
+
+.
+
+Savage Take-Down
+
+THIS  HAS BEEN RETIRED.
+
+Playing as The 
+Demogorgon
+, down Survivors with a 
+Shred Attack
+ a total of 
+30 times
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Demogorgon
+:
+
+Base Cosmetics
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Split Jaw
+
+Common
+
+A face that blooms into five thick, fleshy strips to reveal a gaping mouth with needle-like teeth. How such a beast evolved is unknown.
+
+Terror from the Upside Down
+
+Common
+
+An adult Demogorgon. It emerged through a rift and now wreaks terror in Hawkins, Indiana.
+
+Barbarous Claw
+
+Common
+
+A gargantuan hand of immense strength. Its long fingers can brutalize prey.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Gore-soaked Jaw
+
+Rare
+
+Blood and gore drips from the stretched jaws of The Demogorgon. What became of its victim is better left unsaid.
+
+Prestige Level 6 Reward
+
+Splattered Demogorgon
+
+Rare
+
+Is that deer blood or human blood? Probably both.
+
+Prestige Level 5 Reward
+
+Crimson Claw
+
+Rare
+
+Blood trickles along the slick creases of The Demogorgon's hand. The Hawkins Police may have another missing persons case on their hands.
+
+Prestige Level 4 Reward
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+A frightening monster to face in any dimension.
+
+ Rift
+
+Expand to view content
+
+Collapse
+
+Expand
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Escaped Specimen
+
+UPSIDE DOWN
+
+17 September 2019 (Tuesday)
+
+Description
+
+A live subject was necessary to continue the research… except something went very wrong.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Collared Death
+
+UPSIDE DOWN
+
+The metal collar is pressed tightly around the creature’s neck, much to its irritation. Three men were lost in the process of fitting it.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Shackled Monster
+
+UPSIDE DOWN
+
+There were a number of security measures in place, the chains being one of many fail-safes that ultimately failed.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Cuffed Claws
+
+UPSIDE DOWN
+
+The metal cuffs were, in hindsight, a bad idea, having done nothing but enrage the beast with even more fury than before.
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Twisted Demogorgon
+
+Altered State
+
+05 February 2020 (Wednesday)
+
+Description
+
+The creature was altered by the dark Fog as it hunted and fed, becoming part Demogorgon, part something else...
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Hungry Maxilla
+
+Altered State
+
+A crustacean mouthpart with rows of razor-sharp teeth, dripping with foul saliva. Ideal to pierce, shred, and chew through thick layers of flesh.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Crustacean Appendages
+
+Altered State
+
+Its slick body was covered with a glistening, chitinous carapace. Its thorax swelled with gruesome, clutching appendages.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Spiny Claw
+
+Altered State
+
+As its claw dug into human flesh, warm blood curled under its sharp nails. Hawkins Police would never find this body.
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Geo Mutation
+
+Days of Growth
+
+09 February 2021 (Tuesday)
+
+Description
+
+An unusual mutation formed in The Entity’s realm, causing rock-like chitin to grow from the creature’s flesh.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rock Jaw
+
+Days of Growth
+
+A stony outcropping surrounding the terrifying split-mandible.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Armored Plate
+
+Days of Growth
+
+Rocky blemishes protrude from its body, covered in sticky strings of membrane.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Crag Claw
+
+Days of Growth
+
+Hardened chitin grows unnaturally from its murderous claws.
+
+400
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Demogorgon
+ is part of 
+1
+ DLC:
+
+Stranger Things
+
+Change Log
+
+Patch 3.2.1
+Patch 4.7.0
+Patch 7.2.0
+Patch 7.6.0
+Patch 8.4.0
+Patch 8.4.1
+Patch 9.6.0
+Patch 3.2.1
+
+Buff
+: added the ability to destroy Pallets and Breakable Walls to 
+The Demogorgon's
+ base-kit by using 
+Shred
+.
+Patch 4.7.0
+
+Rework
+: reworked 
+Of the Abyss
+ and the majority of its 
+Add-ons
+.
+
+Buff
+: reduced the Teleportation-Power cool-down from 
+14 seconds
+ to 
+10 seconds
+.
+
+Buff
+: increased the Teleportation speed from 
+17 m/s
+ to 
+20 m/s
+.
+
+Buff
+: increased the 
+Undetectable
+ duration after exiting a 
+Portal
+ from 
+2 seconds
+ to 
+3 seconds
+.
+
+Buff
+: increased the Movement speed while channelling 
+Of the Abyss
+ from 
+3.68 m/s
+ to 
+3.86 m/s
+.
+
+Quality of Life
+: removed the audio from inactive 
+Portals
+ for Survivors, which had previously allowed them to determine their location despite being invisible.
+Patch 7.2.0
+
+Buff
+: further increased the 
+Undetectable
+ duration after exiting a 
+Portal
+ from 
+3 seconds
+ to 
+5 seconds
+.
+Patch 7.6.0
+
+Buff
+: reduced the Cool-down time after successful 
+Shred Attacks
+ from 
+3 seconds
+ to 
+2.7 seconds
+.
+
+This change was motivated by the Developers wishing to standardise the Cool-down durations of 
+Special Attacks
+.
+
+Buff
+: reduced the Cool-down time after successful 
+Shred Attacks
+ that destroy 
+Breakables
+ from 
+2 seconds
+ to 
+1.8 seconds
+.
+Patch 8.4.0
+
+Buff
+: reduced the Setting time of 
+Portals
+ from 
+1 second
+ to 
+0.85 seconds
+.
+
+Buff
+: reduced the Entering time of 
+Portals
+ from 
+1.5 seconds
+ to 
+1.35 seconds
+.
+
+Buff
+: further increased the Teleportation speed from 
+20 m/s
+ to 
+28 m/s
+.
+Patch 8.4.1
+
+Buff
+: further increased the Teleportation speed from 
+28 m/s
+ to 
+32 m/s
+.
+Patch 9.6.0
+
+Buff
+: increased 
+Shred
+ speed from 
+18.3 m/s
+ to 
+19 m/s
+.
+
+Buff
+: increased 
+Shred
+ turn rate from 
+26.5 degrees/s
+ to 
+55 degrees/s
+.
+
+Buff
+: increased 
+Undetectable Status Effect
+ duration when exitting a 
+Portal
+ from 
+5 seconds
+ to 
+12 seconds
+.
+
+Trivia
+
+General
+
+The Demogorgon
+ was the first non-human Killer featured in 
+Dead by Daylight
+, being a creature from a parallel dimension, that entered 
+Hawkins National Laboratory
+.
+
+The Demogorgon
+ was the second Killer to have a unique Terror Radius and Chase Music.
+
+The Demogorgon
+ was the second Killer to not attack with an actual weapon, but instead using its claws.
+
+The Demogorgon
+ was the third Killer to break Generators and Pallets with its hands, albeit using both of them.
+
+The Demogorgon
+ was the fourth Killer to be able to teleport.
+
+The Demogorgon
+ was the tenth licensed Character to be introduced to 
+Dead by Daylight
+.
+
+It was also the first license to leave 
+Dead by Daylight
+, before ultimately returning.
+
+The Demogorgon
+, unlike other tall Killers, does not step over vaults, but rather crawls through them.
+
+The Demogorgon
+ features a unique Hatch-closing animation.
+
+The Demogorgon
+ shares its lobby theme with 
+The First
+ and the 
+Stranger Things
+ survivors.
+
+Development
+
+The Demogorgon
+ featured in 
+Dead by Daylight
+ was modelled after the Demogorgon seen in a post-credit scene of the last episode of Stranger Things' Season 3, with Netflix providing the Developers with their model.
+
+The name 
+Of the Abyss
+ is a reference to 
+Dungeons and Dragons - 5th Edition
+, since the Dungeons and Dragons character Demogorgon appears as an enemy in an adventure titled 
+"Out of the Abyss"
+.
+
+This connection is further cemented by the fact 
+Dungeons & Dragons
+ joined Dead By Daylight long after 
+Stranger Things
+ joined.
+
+Name
+
+The name of 
+The Demogorgon
+ originates from the board game 
+Dungeons & Dragons
+, which the main characters used as a source of inspiration to name and explain the strange happenings in Hawkins.
+
+The same is true with 
+The First
+ sharing his name with 
+Vecna
+.
+
+Terror Radius
+
+The Demogorgon
+ was the first Killer to have had its 
+Terror Radius
+ changed twice.
+(PTB Version 1)
+(PTB Version 2)
+
+Both versions were only used in the 
+Public Test Build
+ of 
+Patch 3.2.0
+, with the first version having only been on the PTB for a single day, before it was replaced with the second version in 
+3.2.0a (PTB)
+.
+
+The Demogorgon
+ was also the first Killer to have had an entire layer of its 
+Terror Radius
+ changed completely at a later date.
+
+Gallery
+
+For more go to The 
+Demogorgon's Gallery
+
+In-game Assets
+
+The Demogorgon
+
+The Demogorgon (Portrait render)
+
+The Demogorgon (Background image)
+
+Old Assets
+
+The Demogorgon's previous portrait
+
+Official Art
+
+Promotional artwork for the Escaped Specimen Outfit
+
+Promotional artwork for the Twisted Demogorgon Outfit
+
+Promotional artwork for the Geo Mutation Outfit
+
+Concept Art
+
+'Twisted Demogorgon' Concept Art
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

@@ -248,14 +248,14 @@ Couverture web : 0 élément vérifié par recherche / 7 non re-vérifiés (quot
   - *Fenêtres vs palettes* : les deux sont des points de Jump Scare. Iridescent Boat Motor bloque en plus les fenêtres marquées (13 s, seed).
 - **Mindgames propres** (HEURISTIC) : entrer en Omnipresent Evil pour simuler un départ, puis revenir ; Jump Scare sur la palette de sortie ; garder un pic pour la fin de boucle.
 - **Counterplay** :
-  - *Mécanique* : **quand le TR se coupe, vous avez environ 2 s** avant un Jump Scare possible (seed). Bougez hors des 16 m des palettes et fenêtres, ou accroupissez-vous (2,5 s pour disparaître, seed). Contre les pics, esquive latérale et LOS, et éloignez-vous des murs pour éviter l'épinglage.
+  - *Mécanique* : **quand le TR se coupe, vous avez environ 2 s** avant un Jump Scare possible (seed). Calcul : en 2 s tu cours 8 m (4,0 m/s [AUDIT]) ; or les palettes sont espacées d'au moins 14 à 20 m [AUDIT, wiki Pallets, SS] et les fenêtres s'y ajoutent → **sortir de 16 m de toute palette et fenêtre en 2 s est rarement possible** près d'une tile ; et l'accroupi met 2,5 s à te rendre indétectable [SEED], plus que la fenêtre de 2 s, en avançant à 1,13 m/s [AUDIT]. Donc : **anticiper** (réparer ou te déplacer loin des palettes/fenêtres quand tu sais qu'il est proche et invisible), et quand le TR se coupe en pleine tile, choisir la ressource la moins probable (pas celle que tu allais prendre) plutôt que de fuir tout le rayon. Valeurs 2 s / 16 m / 2,5 s UNCERTAIN. Contre les pics, esquive latérale et LOS, et éloignez-vous des murs pour éviter l'épinglage.
   - *Positionnel* : pendant la Haste de 25 s, cassez la LOS et forcez un contournement plutôt qu'une boucle nue.
   - *Macro* : retirez **immédiatement** les pics de crochet (Broken, et Jason voit leur aura à 26 m, seed). Au dernier crochet, **évitez tout risque d'empalement** (Finisher).
-  - *Équipe* : la réapparition est ralentie près d'un survivant accroché (×3, seed) : c'est une fenêtre de sauvetage. Kindred, Borrowed Time et Will to Live sont conseillés par le seed (EXPERT OPINION non re-sourcée).
+  - *Équipe* : la réapparition est ralentie près d'un survivant accroché (×3, seed) : c'est une fenêtre de sauvetage. Kindred, Borrowed Time et Will to Live sont conseillés par le seed ([SEED] UNCERTAIN, HEURISTIC — le seed n'est pas une source experte ; anciennement « EXPERT OPINION non re-sourcée »).
 - **Habitudes punissables / erreurs** (HEURISTIC) : rester debout, immobile, près d'une palette à ≤ 16 m quand le TR disparaît ; garder un pic « pour plus tard » ; courir le long d'un mur contre un tueur qui a des pics.
 - **Adaptations avancées** (HEURISTIC) :
   - Le counterplay « TR = info » **échoue** : son absence est l'info. Traitez une coupure de TR comme une alerte.
-  - Contre la Haste du Jump Scare, les perks de vitesse du survivant peuvent être atténuées par les Diminishing Returns si deux sources identiques se cumulent côté survivant. La Haste du tueur (Jump Scare + Rampage) est aussi concernée côté tueur (HYPOTHESIS, cf. audit 9.6.0).
+  - Diminishing Returns (9.6.0, [AUDIT]) : ils réduisent des modificateurs **identiques** cumulés **dans un même camp**. Côté tueur, la Haste du Jump Scare (pouvoir) cumulée avec une Haste de perk (Rampage ?) serait réduite (HYPOTHESIS : effet de Rampage non décrit ici, manuel 9.6.1 non consulté). Côté survivant, deux Haste identiques cumulées sont réduites entre elles, probablement pas par la Haste du tueur (HYPOTHESIS : l'audit ne précise la séparation par rôle que pour les vitesses d'action négatives et les chances de skill check). Conséquence pratique : aucune ; ne pas compter sur les DR pour « annuler » sa Haste.
 - **Add-ons qui changent la décision** (seed-NRV ; ajustements 10.0.2/10.0.3 non détaillés) :
   - Iridescent Boat Motor (le Jump Scare bloque les fenêtres marquées 13 s) → **ne planifiez pas une chase autour de fenêtres** ; privilégiez les palettes.
   - Orderly's Shoe (+5 s de Haste) → cassez la LOS plus longtemps après un Jump Scare avant de rejouer une boucle.
@@ -290,22 +290,28 @@ Couverture web : 0 élément vérifié par recherche / 7 non re-vérifiés (quot
 - **Tiles / structures** (HEURISTIC) :
   - *Favorables* : tiles hauts et fermés (casser la LOS comme contre la Nurse), bâtiments avec plafonds.
   - *Défavorables* : tiles bas et open.
-  - *Distance* : pour une colonne proche, **traversez-la** : le délai d'impact laisse le temps, selon le seed (EXPERT OPINION non re-sourcée). Pour une colonne lointaine, sortez de son axe.
+  - *Distance* : pour une colonne proche, **traversez-la** : le délai d'impact laisse le temps, selon le seed ([SEED] UNCERTAIN, HEURISTIC — anciennement « EXPERT OPINION non re-sourcée »). Risque : traverser, c'est passer **par** la trajectoire ; un contrôle court (projection rapide) ou un Judgment qui attend ta traversée punit ce réflexe → ne le faire que si la colonne vient d'être posée et que le contrôle dure. Pour une colonne lointaine, sortez de son axe.
   - *Grande taille* : il voit plus haut que la moyenne au-dessus des tiles bas (HEURISTIC).
 - **Mindgames propres** (HEURISTIC) : contrôle court pour une projection rapide et surprenante ; contrôle long qui suit puis projette à la sortie de tile ; en Zealous, courbe de 0,6 s pour rattraper un dodge tardif.
 - **Counterplay** :
-  - *Mécanique* : **dodge au moment de la projection, pas pendant le contrôle** (hors Zealous, la trajectoire se fige). En **Zealous** (60 s après un exil), la courbe de 0,6 s rattrape les dodges tardifs : **cassez la LOS** au lieu d'esquiver (HEURISTIC).
+  - *Mécanique* : **dodge au moment de la projection, pas pendant le contrôle** (HEURISTIC). Base : depuis 10.1.2a, il n'y a plus de fenêtre de courbe hors Zealous (FACT, [AUDIT] VERIFIED_MULTI_SOURCE) ; lire cela comme « la trajectoire se fige à la projection » est une **HYPOTHESIS** (sens exact de la « fenêtre de courbe » non vérifié, Questions ouvertes n° 4). En **Zealous** (60 s après un exil selon le seed), la courbe de 0,6 s [AUDIT] rattrape les dodges tardifs : **cassez la LOS** au lieu d'esquiver (HEURISTIC). Contre un Judgment qui retarde la projection pour attendre ton dodge, varier le moment du dodge ou couper la LOS plutôt que de répéter le même timing.
   - *Positionnel* : ne vous accroupissez pas et ne faites pas de gestes à répétition près du tueur (ou des autres, voir Questions ouvertes), et **ne restez pas dans le seuil d'une porte de sortie** (45 s = Heresy ; porte bloquée 8 s si acquise à < 32 m).
-  - *Macro* : un hérétique qui répare **fait régresser** le gen sur ses Good (−3 %). Il doit **aller Repent à un Shrine** avant de retourner sur un gen, ou viser des Great / ne pas réparer (FACT sur l'effet, HEURISTIC sur la consigne). En fin de partie, purgez la Heresy avant d'ouvrir une porte proche.
-  - *Équipe / Exile* : dans l'Exile, esquivez les Seeds (−3 s de timer chacune) et collectez jusqu'à 10 âmes (+0,5 s de protection au décrochage chacune). Le sauveteur passe par les sanctuaires actifs (seed). Après libération, l'exilé réapparaît à ≥ 32 m (FACT, 10.1.2) : **le sauveteur ne peut pas couvrir l'exilé** ; chacun gère sa fuite.
+  - *Macro* : un hérétique qui répare **fait régresser** le gen sur ses Good (−3 %) (FACT sur l'effet, [AUDIT] SS). Faut-il aller **Repent à un Shrine** ? Pas toujours — calcul (HEURISTIC sur la consigne) :
+    - Skill checks : test 1 fois/s, 8 % de chance en réparation standard [AUDIT SS] → environ 1 toutes les 12,5 s. Un Good hérétique coûte 2,7 charges (3 % de 90) par rapport à un Good normal ; un Great ne coûte rien.
+    - Pire cas (que des Good) : 0,08 × 2,7 ≈ 0,22 charge/s perdue, soit un gen solo ≈ 22 % plus lent. Avec moitié de Great : ≈ 0,11 charge/s (≈ 11 %).
+    - Repent : la « décroissance 30 s » de l'audit suggère ≥ 30 s (sens exact à confirmer), plus le trajet T jusqu'au Shrine.
+    - Seuil de rentabilité (pire cas) : 0,22 × R = 30 + T → R ≈ 140 s + 4,6 T de réparation solo **restant à faire par l'hérétique**. Avec moitié de Great, le seuil double (≈ 280 s + 9 T).
+    - Donc : **Repent** si beaucoup de réparation reste (plus d'un gen et demi pour lui) et qu'un Shrine est proche ; **sinon**, continuer en visant les Great, ou passer aux tâches sans gen (soins, totems). Un hérétique qui rate beaucoup de Great a plus intérêt à Repent tôt.
+  - *Fin de partie* : la porte n'est bloquée (8 s) que **pour l'hérétique** et **seulement si l'Heresy a été acquise à moins de 32 m d'une porte** [AUDIT SS]. Purger coûte ≥ 30 s + trajet, plus que 8 s de blocage → laisser un non-hérétique ouvrir la porte, ou accepter les 8 s si le tueur est loin ; purger seulement si l'hérétique est seul à pouvoir ouvrir et que le tueur est proche.
+  - *Équipe / Exile* : dans l'Exile, esquivez les Seeds (−3 s de timer chacune) et collectez jusqu'à 10 âmes (+0,5 s de protection au décrochage chacune). Le sauveteur passe par les sanctuaires actifs (seed). Après libération, l'exilé réapparaît à ≥ 32 m (FACT, 10.1.2 ; l'audit ne signale pas de retour en arrière en 10.1.2a, qui ne touche que la courbe → présumé LIVE) : **le sauveteur ne peut pas couvrir l'exilé** ; chacun gère sa fuite. Calcul : 10 âmes × 0,5 s = +5 s de protection au maximum.
 - **Habitudes punissables / erreurs** (HEURISTIC) :
   - Le teabag ou « crouch spam » par habitude, qui donne l'Heresy.
   - Attendre dans la porte ouverte pour narguer ou pour un BT (45 s = Heresy, et BT ne se déclenche pas sur un Exile).
-  - Continuer à réparer en hérétique.
-  - Compter sur Off the Record ou Borrowed Time contre un Exile (FACT : perks de crochet non déclenchées).
+  - Continuer à réparer en hérétique **sans viser les Great**, alors qu'il reste beaucoup à réparer et qu'un Shrine est proche (voir le calcul en Macro).
+  - Compter sur Off the Record ou Borrowed Time contre un Exile (FACT [AUDIT] : perks de crochet non déclenchées ; BT/OTR comprises par interprétation).
 - **Adaptations avancées** (HEURISTIC) :
-  - Le counterplay anti-tunnel basé sur les perks de décrochage **échoue** contre l'Exile. Préférez des perks indépendantes du crochet : le seed propose Distortion, Boon: Shadow Step, Self-Preservation, Bound by Obsession, Blast Mine (EXPERT OPINION non re-sourcée).
-  - Les protections de décrochage basekit (Endurance + Haste 10 s + Elusive 10 s) s'appliquent-elles à une libération d'Exile ? Non vérifié (Questions ouvertes) : jouez comme si ce n'était pas le cas.
+  - Le counterplay anti-tunnel basé sur les perks de décrochage **échoue** contre l'Exile. Préférez des perks indépendantes du crochet : le seed propose Distortion, Boon: Shadow Step, Self-Preservation, Bound by Obsession, Blast Mine ([SEED] UNCERTAIN, HEURISTIC — anciennement « EXPERT OPINION non re-sourcée »). Nuance : c'est vrai seulement contre les exils ; un Judgment accroche aussi normalement, et les perks de décrochage y gardent leur valeur. « Pas de déclenchement des perks de crochet » est FACT [AUDIT] ; y ranger Borrowed Time et Off the Record (perks de décrochage) est une lecture forte mais une **interprétation**.
+  - Les protections de décrochage basekit (Endurance + Haste 10 s + Elusive 10 s) s'appliquent-elles à une libération d'Exile ? Non vérifié (Questions ouvertes) : jouez comme si ce n'était pas le cas. Indice contraire (HYPOTHESIS) : les Exiled Souls donnent « +0,5 s de protections de décrochage » [AUDIT VERIFIED_PRIMARY], ce qui n'a de sens que si des protections s'appliquent à un moment (à la libération, ou au décrochage suivant).
   - Depuis 10.1.2a, la menace est **modulée par le Zealous** : après un exil, comptez environ 60 s de danger accru (seed), puis revenez à un jeu de dodge standard.
 - **Add-ons qui changent la décision** (seed-NRV ; add-ons non couverts par l'audit) :
   - Chains of the Heretic (en Zealous, la lumière se dirige toujours vers vous) → en Zealous, **LOS obligatoire**, aucun dodge en open.
@@ -325,6 +331,8 @@ Couverture web : 0 élément vérifié par recherche / 7 non re-vérifiés (quot
 ---
 
 ## Claims
+
+Calculs dérivés (audit pass 14) : 5 % de gen = 4,5 s solo / 2,65 s à deux ; Animatronic 0,4 m/s (hache) / 0,6 m/s (sans hache) repris ; Krasue Head 4,8 m/s = tueur 4,6 m/s + Bloodlust I (0,8 m/s repris, 10 m en 12,5 s) ; The First 0,4 m/s repris ; Slasher : 2 s × 4,0 m/s = 8 m contre un espacement de palettes ≥ 14-20 m ; Heresy : 0,08 × 2,7 ≈ 0,22 charge/s au pire, seuil de rentabilité du Repent ≈ 140 s + 4,6 T de réparation restante ; Exile : 10 × 0,5 = 5 s.
 
 | ID | Claim | Source | Patch | Confiance |
 |---|---|---|---|---|
@@ -401,6 +409,7 @@ Couverture web : 0 élément vérifié par recherche / 7 non re-vérifiés (quot
 2. Judgment : les « 3 accroupissements ou gestes à moins de 10 m » se comptent-ils à 10 m **du tueur** ou **d'un autre survivant** ? Le counterplay en dépend.
 3. Judgment : une libération d'Exile déclenche-t-elle les protections de décrochage basekit (Endurance + Haste 10 s + Elusive 10 s, 10.1.0) ?
 4. Judgment : la « fenêtre de courbe » est-elle la durée pendant laquelle la trajectoire reste modifiable **après** la projection ? (lecture adoptée ici, HYPOTHESIS).
+4b. Judgment : que signifie « décroissance 30 s » pour le Repent (durée de l'action au Shrine, ou décroissance progressive) ? Le calcul de rentabilité du Repent (Macro) en dépend. L'Heresy a-t-elle d'autres effets que −3 % sur Good et le blocage de porte ?
 5. Krasue : le Leech est-il remis à zéro au crochet (hotfix 9.2.2 selon le seed) ?
 6. Animatronic : quels add-ons ont été nerfés en 9.0.2 et quelles valeurs ont été buffées en 9.6.0 (batterie, rappel de hache) ?
 7. Slasher : détail des ajustements d'add-ons 10.0.2 / 10.0.3.

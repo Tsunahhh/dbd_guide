@@ -1,0 +1,3370 @@
+# Burong Sukapat
+Source: https://deadbydaylight.wiki.gg/wiki/Burong_Sukapat (page complète via API, consultée le 27/09/2026)
+
+The Krasue
+
+Name
+
+Burong Sukapat
+
+Gender
+
+Woman
+
+Origin
+
+Thai
+
+Power
+
+Unbodied Flesh
+
+Power 
+Attack
+ Type
+
+Special Attack
+
+(Intestinal Whip)
+
+Weapon
+
+Larb Knife
+
+Movement Speed
+
+115 % 
+|
+ 4.6 m/s
+
+Alternate Movement speed
+
+120 % 
+|
+ 4.8 m/s
+(Head Form)
+175 % 
+|
+ 7 m/s
+(Headlong Flight)
+
+Terror Radius
+
+32m (Body Form)
+
+40m (Head Form)
+
+Height 
+
+Average
+
+DLC
+
+Sinister Grace
+
+Voice Actor
+
+Body Form: Organ Prawang (Opera Singer)
+
+Head Form: Roxana B.L. (The Monster Factory)
+
+Cost
+
+9,000 
+Iridescent Shards
+
+500 
+Auric Cells
+
+Menu Music
+
+Terror Radius Music
+
+Metadata
+
+CharID
+
+K41
+
+Burong Sukapat
+ or 
+"The Krasue"
+ is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+She was introduced as the Killer of 
+Sinister Grace
+, a Chapter DLC released on 23 September 2025.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: Larb Knife
+
+3.3
+ 
+Power: Unbodied Flesh
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for Unbodied Flesh
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Default
+
+5.2
+ 
+Prestige
+
+5.2.1
+ 
+Perk Charms
+
+5.2.2
+ 
+Prestige Badges
+
+5.3
+ 
+In-Game Store
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+General
+
+8.2
+ 
+Voice Actress
+
+8.3
+ 
+Voice Lines
+
+9
+ 
+Gallery
+
+9.1
+ 
+In-game Assets
+
+9.2
+ 
+Official Art
+
+9.3
+ 
+Teasers
+
+9.4
+ 
+Meet the Voice
+
+9.5
+ 
+Fan Art
+
+9.6
+ 
+Gameplay
+
+10
+ 
+References
+
+Overview
+
+A shape-changing Killer, able to inflict Survivors with an effect that weakens them to her 
+Intestinal Whip
+ attack.
+
+Her personal Perks, 
+Ravenous
+, 
+Wandering Eye
+, and 
+Hex: Overture of Doom
+, help her increase mid-trial pressure, spot injured Survivors, and cause confusion to her whereabouts.
+
+Lore
+
+Burong Sukapat's operatic rehearsals in Thailand were a sea of emotion, but despite tiring efforts she was unable to become anything more than an understudy. What started as a desire to share her gift, became an unshakable need for fame. Her childhood friend Janjira was her biggest supporter, but aside from a shoulder to cry on, there was little more she could offer. It wasn't until Malai—a fellow singer who had quickly risen the ranks—reached out, that Burong's fortunes changed.
+
+Malai presented Burong with a glass bottle, a clear liquid within, and advised her to drink it, her tone deadly serious:
+
+Each night, another will inhabit your body—but you will be a success on the stage like me.
+
+Burong laughed at the peculiar game. Even so, she wanted more than anything to believe its truth. She grabbed the bottle, swallowing every drop.
+
+In the following weeks, Burong's skin felt softer, and she found a depth in her voice she never knew existed. During her next audition, the director took notice, enraptured by the sound that echoed through the theatre. As the song ended, Burong thanked the director before coughing blood into a handkerchief. She stuffed it into her pocket, choosing ignorance. Whatever was happening to her was working—she wouldn't dare stop it now.
+
+That night, as she slept, a soothing warmth dripped down her body. She bolted upright, hand fumbling for a lamp that wasn't there. She lay in a yard she did not recognize, covered in blood. Next to her, a ravaged chicken coop, feathers and gore staining the ground.
+
+She stumbled home before the city awoke to a new day. Under a scalding shower, she spit up blood, dreading the thought that this hadn't been her first hunt. In between heaving sobs, she prodded her abdomen, searching for where something might hide within.
+
+She called Janjira but couldn't bring herself to reveal the horrors, instead telling her friend she'd been restlessly sleepwalking each night and needed someone to coax her back to bed. Janjira agreed to help.
+
+That morning, Burong awoke to Janjira's hand lovingly placed on her cheek. As she looked up, she choked on her cries. Janjira's severed hand fell from the bed, landing on her disembowelled carcass.
+
+For hours, she sat beside her friend's remains in a state of silent shock. Janjira was dead and for what?
+
+When she couldn't stand the smell of blood any longer, she grabbed cleaning supplies. As the sun set, a deep stain remained on the carpet.
+
+She walked through the streets until she reached Malai's home. Malai opened the door and, upon seeing Burong's eyes, immediately defended herself. She claimed she had committed no wrong—she had been cursed, and the only way to be rid of it was to pass it to someone else. She believed that Burong, in her desire for fame, could withstand the torment and achieve what she'd always wanted.
+
+Anger stirred within Burong. She fell to the floor as furious heat spilled over her. Malai stared in horror while Burong dug nails into her own skin, ripping at the burning agony. As she tore chunks of flesh from her neck, her entrails wriggled inside. Her head tore free from her body, a long string of organ dragging behind like fish slapping against the shore.
+
+A seething hunger took over as Burong's disembodied head lifted into the air. It swooped at Malai, ravenously mutilating the woman until nothing remained but blood, hair, and bone. Burong awoke to the mess, unable to find the sympathy to shed a single tear.
+
+She returned home, allowing her thoughts to swirl until the room filled with light.
+
+The phone rang.
+
+The director's voice cut through the haze that had settled on her mind. He offered her the leading role. Burong fell to her bed and cried, not from sadness, but from relief and elation.
+
+During the evenings on the Bangkok stage, her star shined bright. At night, she fed the creature within, and together they thrived in a world of hunger and song. But the creature always wanted more and one night it was presented just that—a promise of meat, hung on hooks, dripping with tantalizing blood.
+
+And then there was fog.
+
+Load-out
+
+Unique Perks
+
+The Krasue
+ comes with 
+3
+ 
+Perks
+ that are unique to her:
+
+ 
+
+Hex: Overture of Doom
+
+"A hex that plays on the paranoia of others."
+
+Creates a 
+Hex Totem
+ that curses the farthest 
+Generator
+ from its location:
+
+The 
+Aura
+ of the 
+Cursed Generator
+ is highlighted in 
+yellow
+.
+
+When a Survivor repairs the 
+Cursed Generator
+ for at least 
+5 seconds
+, 
+Hex: Overture of Doom
+ triggers the following effects for 
+20
+/
+25
+/
+30
+ 
+seconds
+:
+
+Transfers your 
+Terror Radius
+ to the 
+Cursed Generator
+.
+
+This 
+Terror Radius
+ is set to 
+32 metres
+.
+
+Grants the 
+Undetectable
+ 
+Status Effect
+.
+
+Once the 
+Cursed Generator
+ is repaired, the next farthest 
+Generator
+ becomes cursed.
+The 
+Hex Effects
+ persist until the 
+Hex Totem
+ is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.
+
+"From salvation's ruin, be warned/death comes from all around." — Giovanni Serrata's "Fog Hill"
+
+ 
+
+Ravenous
+
+This description is based on the changes announced for or featured in the upcoming Patch 10.2.0
+"The scent of blood is in the air.
+Time to feast."
+
+Whenever you hook a Survivor for the first time, 
+Ravenous
+ gains 
++1 Token
+, up to a maximum of 
+4 Tokens
+.
+For each Token:
+
+Grants 
++4 %
+ 
+Haste
+ 
+Status Effect
+ while carrying a Survivor.
+
+Increases
+ your hooking speed by 
++4 %
+.
+
+Once you accumulate 
+4 Tokens
+, all Survivors suffer from the following effects:
+
+Causes them to scream.
+
+Inflicts the 
+Exposed
+ 
+Status Effect
+ for 
+80
+/
+85
+/
+90
+ 
+seconds
+.
+
+"Weeping Ginevra's blood streams/The devil smells the weak." — Fabbro Barone's "Ginevra"
+
+ 
+
+Wandering Eye
+
+"Bloodied prey surrounds you, vying for your attention."
+
+Whenever you start chasing a Survivor, 
+Wandering Eye
+ triggers the following effect:
+
+The 
+Auras
+ of all other injured Survivors within 
+20 metres
+ of your location are revealed to you for 
+5 seconds
+.
+
+Wandering Eye
+ has a cool-down of 
+40
+/
+35
+/
+30
+ 
+seconds
+.
+
+"A drop does not satiate/when a river is needed." — Elliot Campbell's "Grandeur of Samuel"
+
+Prestige
+
+Prestiging 
+The Krasue
+ will automatically add 
+Tier I
+ of her Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Krasue
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: Larb Knife
+
+The 
+Larb Knife
+ is the Primary Weapon of 
+The Krasue
+.
+The violent killings were a necessity that she accepted in return for the fame she deserved.
+
+Power: Unbodied Flesh
+
+SPECIAL ABILITY: CORPOREAL WEAVE
+The Krasue
+ can shift between 
+Body Form
+ and 
+Head Form
+ at will.
+Press the 
+Secondary Power button
+ to initiate a shift.
+SPECIAL SHAPE: BODY FORM
+The Krasue
+ always starts the Trial in this state:
+
+Regular 
+Terror Radius
+ of 
+32 metres
+.
+
+Regular Movement speed of 
+4.6 m/s
+.
+
+Grants access to the 
+Regurgitate
+ special ability.
+
+SPECIAL SHAPE: HEAD FORM
+This 
+Form
+ provides 
+The Krasue
+ with the following effects and abilities:
+
+Larger 
+Terror Radius
+ of 
+40 metres
+.
+
+Faster Movement speed of 
+4.8 m/s
+.
+
+Grants access to the 
+Headlong Flight
+ special ability.
+
+Grants access to the 
+Intestinal Whip
+ special attack.
+
+Replaces the ability to break dropped 
+Pallets
+ with the ability to vault across them.
+
+Vaulting times:
+
+Pallets
+: 
+1.9 seconds
+
+Windows
+: 
+1.67 seconds
+
+Longer 
+Pallet Stun
+ duration of 
+2.5 seconds
+.
+
+Disables the 
+Bloodlust
+ 
+Status Effect
+.
+
+SPECIAL AFFLICTION: LEECHED
+Hitting Survivors with a 
+Leeching Gland
+ or the 
+Intestinal Whip
+ fills their 
+Leech Meter
+, indicated on their HUD portrait.
+Once the meter is full at 
+100 Charges
+, affected Survivors suffer from 
+Leeched I
+:
+
+Causes the 
+Intestinal Whip
+ attack to incur damage.
+
+Causes the 
+Leech Meter
+ to charge passively at a rate of 
++1.665 c/s
+.
+
+If Survivors afflicted with 
+Leeched I
+ passively fill the 
+Leech Meter
+ a second time, they will suffer from 
+Leeched II
+:
+
+Healthy Survivors receive damage and become injured.
+
+Incurs the 
+Broken
+ 
+Status Effect
+, regardless of their Health State.
+
+SPECIAL ABILITY: REGURGITATE
+While in 
+Body Form
+, press and hold the 
+Power button
+ to initiate the 
+Charge Regurgitate
+ interaction.
+Releasing the 
+Power button
+ will cancel it.
+Press the 
+Attack button
+ when fully charged to spew a 
+Leeching Gland
+:
+
+Rebounds off of environmental objects and splits into 
+4
+ smaller mini-glands that home-in on nearby Survivors.
+
+Adds 
++100 Charges
+ to the 
+Leech Meter
+ of Survivors hit with either projectile-type, filling it completely.
+
+Cannot exeed 
+Leeched I
+.
+
+Regurgitate
+ has a cool-down of 
+2.5 seconds
+.
+SPECIAL ABILITY: HEADLONG FLIGHT
+While in 
+Head Form
+, with the Power Gauge filled to at least 
+25 %
+, press and hold the 
+Power button
+ to speed through the air at 
+7.0 m/s
+:
+
+The Power Gauge has a capacity of 
+12 Charges
+.
+
+Flying depletes the Power Gauge at a rate of 
+-1 c/s
+.
+
+The Power Gauge recharges at a rate of 
++0.4 c/s
+.
+
+SPECIAL ATTACK: INTESTINAL WHIP
+While in 
+Head Form
+, press the 
+Attack button
+ to lash out with your internal organs:
+
+Ignores obstructions for the initial 
+0.35 seconds
+ of the attack.
+
+Adds 
++34 Charges
+ to the 
+Leech Meter
+ of hit Survivors, partially filling it.
+
+Cannot exceed 
+Leeched I
+.
+
+Damages Survivors already afflicted with at least 
+Leeched I
+.
+
+SPECIAL ITEM: GLOWING FUNGUS
+The 
+Glowing Fungus
+ can be found randomly throughout the environment.
+
+Can be eaten by Survivors afflicted with 
+Leeched I
+ to lower their 
+Leeched Meter
+ over time.
+
+This effect ends after being hit.
+
+The Trial starts with 
+5
+ 
+Glowing Fungi
+ located throughout the environment, with a maximum of 
+6
+ able to exist at the same time.
+Glowing Fungi
+ spawn under the following conditions, up to that limit:
+
+Whenever 
+The Krasue
+ transitions from 
+Body Form
+ to 
+Head Form
+ while at least 
+5 metres
+ away from any interactable object or other 
+Glowing Fungi
+.
+
+After 
+90 seconds
+ of consuming a 
+Glowing Fungus
+ by any means.
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Head to Body Form transition: 
+1.15 m/s
+
+Body to Head Form transition: 
+3.68 m/s
+
+Exiting Headlong Flight: 
+3.7 m/s
+
+Charging and using Regurgitate: 
+3.8 m/s
+
+Walking in Body Mode: 
+4.6 m/s
+
+Walking in Head Mode: 
+4.8 m/s
+
+Using Headlong Flight: 
+7 m/s
+
+Using Intestinal Whip: 
+14.4* m/s
+
+This is not a constant value and is only the 
+maximum
+ speed value of 
+Intestinal Whip
+.
+
+Corporeal Weave:
+
+Body-to-Head Transition time: 
+1.2 seconds
+
+Head-to-Body Transition time: 
+2.2 seconds
+
+Cool-down: 
+3.5 seconds
+
+Initial cool-down: 
+5 seconds
+
+Applied at the start of a Trial.
+
+Leeched:
+
+Maximum 
+Leeched
+ levels: 
+2
+
+Maximum charges per level: 
+100 charges
+
+Leeched I
+ progression from Intestinal Whip: 
++34 charges
+
+Leeched I
+ progression from Regurgitate: 
++100 charges
+
+Passive 
+Leached II
+ progression: 
++1.665 c/s
+
+This results in a minute-long timer to passively reach 
+Leeched II
+.
+
+Glowing Fungus:
+
+Survivor Movement speed while eating a 
+Glowing Fungus
+: 
+2.832 m/s
+
+Eat 
+Glowing Fungus
+ interaction time: 
+3 seconds
+
+Passive 
+Leeched
+ removal amount after eating a fungus: 
+-5 c/s
+
+This results in a Depletion time of 
+20 seconds
+ per 
+Leeched
+ level.
+
+Movement-Speed-Penalty Linger duration after eating a 
+Glowing Fungus
+: 
+0.5 seconds
+
+Initial amount of 
+Glowing Fungi
+: 
+5
+
+The initial amount of 
+Glowing Fungi
+ available at the start of a Trial.
+
+Maximum amount of 
+Glowing Fungi
+: 
+6
+
+Glowing Fungus
+ Spawn time: 
+5 seconds
+
+Glowing Fungus
+ Decay time: 
+5 seconds
+
+Glowing Fungus
+ Respawn time: 
+90 seconds
+
+Maximum Aura-Reveal range to a 
+Leeched Survivor
+: 
+128 metres
+
+Distance threshold from a Survivor required to stop decaying: 
+2.5 metres
+
+Killer Instinct
+ duration when a Survivor eats a 
+Glowing Fungus
+: 
+disabled feature
+
+Body Form:
+
+Terror radius: 
+32 metres
+
+Regurgitate:
+
+Wind-up duration: 
+0.33 seconds
+
+Throw duration: 
+0.33 seconds
+
+Post-throw cool-down: 
+1.3 seconds
+
+Charge-cancellation cool-down: 
+1.3 seconds
+
+Recharge time: 
+2.5 seconds
+
+Leeching Gland:
+
+Launch speed: 
+29 m/s
+
+Gravity: 
+38.22 m/s
+2
+
+Added pitch on launch: 
++6 °
+
+Environmental collision radius: 
+0.11 metres
+
+Survivor detection radius: 
+0.17 metres
+
+Mini-Glands:
+
+Spawn cone angle: 
+25 °
+
+Count: 
+4
+
+Speed: 
+10 m/s
+
+Ground hit speed multiplier: 
+x0.3
+
+Velocity multiplier: 
+x0.385
+
+Up hit speed multiplier: 
+x0.9
+
+Home-in detection distance: 
+7 metres
+
+Environmental collision radius: 
+0.07 metres
+
+Survivor detection radius: 
+0.12 metres
+
+Head Form:
+
+Terror radius: 
+40 metres
+
+Vault duration (Windows): 
+1.67 seconds
+
+Vault duration (Pallets): 
+1.9 seconds
+
+Pallet stun duration modifier: 
++25%
+
+This increases the 
+Pallet Stun
+ duration from 
+2 seconds
+ to 
+2.5 seconds
+.
+
+Maximum/Minimum pitch values: 
+±45°
+
+This refers to how far 
+The Krasue
+ can look up and down while in 
+Head Form
+.
+
+Headlong Flight:
+
+Max charges: 
+12 charges
+
+Discharge rate: 
+-1 c/s
+
+Recharge rate: 
++0.4 c/s
+
+This results in a 30 second total recharge time for Headlong Flight.
+
+Minimum time required to exit: 
+1 second
+
+Exit time: 
+1.35 seconds
+
+Used for manually exiting the interaction or fully depleting its power gauge.
+
+Travel time required to reach maximum speed: 
+2 seconds
+
+Pause window: 
+2 seconds
+
+The time it takes for 
+Headlong Flight
+ to start recharging if the power gauge isn't being depleted.
+
+Minimum charges required to use: 
+25% of maximum charges
+
+Intestinal Whip:
+
+Time required while falling down to trigger the miss cool-down: 
+0.2 seconds
+
+Wind-up duration: 
+0.3 seconds
+
+Time before environmental collision activates: 
+0.32 seconds
+
+Hitting duration: 
+0.7 seconds
+
+Successful hit cool-down: 
+3.2 seconds
+
+Missed hit cool-down: 
+3 seconds
+
+Minimum pitch value: 
+-10 °
+
+Maximum pitch value: 
++20 °
+
+Hitting substate obstruction angle: 
+89 °
+
+Hitting substate yaw limit: 
+220 °
+
+Eventual yaw sensitivity multiplier: 
+x0.0
+
+The yaw multiplier drops down to this value only after 
+80 %
+ of the hitting substate's completion.
+
+Pitch sensitivity multiplier: 
+x0.2
+
+Deceleration factor when falling down: 
+x1500
+
+Add-ons for Unbodied Flesh
+
+Icon
+
+Name
+
+Description
+
+Broken Tiara
+
+"A dazzling stage prop worn by a Pharoah's daughter, as distracting as it is fake."
+
+Modifies the 
+Glowing Fungus
+ with the following effect:
+
+Causes Survivors to suffer from the 
+Oblivious
+ 
+Status Effect
+ while under its effects.
+
+First Libretto
+
+"She felt as if she could walk on air after landing a role in her first opera."
+
+Whenever you hook a Survivor afflicted with 
+Leeched
+, you benefit from the following effect:
+
+Reduces
+ the Consumption rate of 
+Headlong Flight
+ by 
+-30 %
+ for 
+15 seconds
+.
+
+Luckless Mouse
+
+"A game of cat and mouse always gets the blood pumping."
+
+Modifies 
+Headlong Flight
+ with the following effect:
+
+Increases
+ its Charge capacity by 
++2 Charges
+.
+
+Sticky Lozenge
+
+"A simple tablet to moisten a dry throat, often taken before an audition."
+
+Modifies 
+Regurgitate
+ with the following effect:
+
+Displays a preview of the impact zone while charging it.
+
+Chunk of Malai
+
+"A varied source of protein contributes to good gut health."
+
+Modifies the 
+Glowing Fungus
+ with the following effect:
+
+Incurs a stack-able 
+-8 %
+ Efficiency penalty per 
+Leeched Survivor
+ to its Depletion rate of the 
+Leech Meter
+, up to a maximum of 
+-32 %
+.
+
+Crumpled Sheet Music
+
+"Before her desperation, she hoped that continued practice would be enough to succeed."
+
+Successfully hitting a Survivor with a 
+Leeching Gland
+ triggers the following effect:
+
+Causes 
+Headlong Flight
+ to instantly gain 
++12 Charges
+.
+
+Defective Metronome
+
+"The metronome sparks as it plays at a frenetic pace."
+
+Modifies the 
+Glowing Fungus
+ with the following effect:
+
+Causes Survivors to suffer from the 
+Exhausted
+ 
+Status Effect
+ while under its effects.
+
+Pig's Eye
+
+"It still glistens with saliva."
+
+Modifies the 
+Glowing Fungus
+ with the following effect:
+
+Survivors eating it while at least 
+40 metres
+ from your current location have their 
+Auras
+ revealed to you for 
+6 seconds
+.
+
+Wriggling Parasite
+
+"A fragile organism that has an unusual effect on its host."
+
+Modifies the 
+Leech Meter
+ with the following effects:
+
+Increases
+ its Charge rate by 
++16 %
+.
+
+Dulled Knife
+
+"A stage prop, symbolic of a woman's gambit in an attempt to save her lover on death's row."
+
+Modifies 
+Headlong Flight
+ with the following effect:
+
+Reduces
+ its Consumption rate by 
+-25 %
+.
+
+Modifies the 
+Glowing Fungus
+ with the following effects:
+
+Causes Survivors eating it to benefit from the following additional effects for 
+5 seconds
+:
+
+Grants a 
++5 %
+ 
+Haste
+ 
+Status Effect
+ and the 
+Elusive
+ 
+Status Effect
+.
+
+Framed Newspaper
+
+"She had once made it onto the entertainment section of the city's newspaper, but she wanted more."
+
+Modifies 
+Headlong Flight
+ with the following effects:
+
+Increases
+ its Charge capacity by 
++6 Charges
+.
+
+Increases
+ its Recharge rate by 
++15 %
+.
+
+Raises
+ its Activation threshold to 
+50 %
+.
+
+Janjira's Hand
+
+"One of the few distinguishable parts that remained of her friend."
+
+Whenever a 
+Generator
+ is completed, 
+Janjira's Hand
+ triggers its primary effects:
+
+Causes 
+Headlong Flight
+ to instantly gain 
++2 Charges
+.
+
+Increases
+ its Recharge rate by 
++25 %
+ for 
+15 seconds
+.
+
+Once the last 
+Generator
+ is completed, 
+Janjira's Hand
+ triggers its secondary effects:
+
+Instantly recharges 
+Headlong Flight
+.
+
+Increases
+ its Recharge rate by 
++25 %
+ for the remainder of the Trial.
+
+Spattered Handkerchief
+
+"A sign that something was very wrong presented itself, but she chose to ignore it."
+
+Once the 
+Exit Gates
+ are powered, 
+Spattered Handkerchief
+ triggers the following effects:
+
+Causes all remaining Survivors to suffer from 
+Leeched I
+.
+
+Causes all remaining 
+Glowing Fungi
+ to start decaying.
+
+Activating 
+Corporeal Weave
+ no longer spawns a new 
+Glowing Fungus
+.
+
+Theatre Binoculars
+
+"A pair of glasses that have watched many tragedies."
+
+Successfully hitting a Survivor not currently afflicted with 
+Leeched
+ with an 
+Intestinal Whip
+ attack triggers the following effect:
+
+The 
+Auras
+ of all other Survivors within 
+24 metres
+ are revealed to you for 
+6 seconds
+.
+
+Lorenza's Remains
+
+"Even her pet bird would fall victim to 
+The Krasue's
+ thirst for blood."
+
+Survivors afflicted with 
+Leeched
+ also suffer from the following effects:
+
+Tier I
+: 
+Blindness
+ 
+Status Effect
+.
+
+Tier II
+: 
+-4 %
+ 
+Hindered
+ 
+Status Effect
+.
+
+Mysterious Elixir
+
+"A liquid moulded from The Fog itself.
+Though similar to the concotion she drank, there seem to be slight alterations."
+
+Modifies 
+Regurgitate
+ with the following effect:
+
+Hitting 
+Windows
+ with a 
+Leeching Gland
+ causes them to become 
+Marked
+.
+
+This effect can affect multiple objects at a time.
+
+Vaulting a 
+Marked Window
+ by any means triggers the following effect:
+
+Blocks
+ it for 
+10 seconds
+ and removes its 
+Mark
+.
+
+Queen's Sceptre
+
+"The stage prop of a vengeful queen who demands blood."
+
+Successfully hitting a Survivor with an 
+Intestinal Whip
+ attack triggers the following effect:
+
+Causes a 
+Leeching Gland
+ to spatter from their location.
+
+Rotten Swine
+
+"A revolting meal that left her disgusted when she awoke."
+
+Modifies 
+Regurgitate
+ with the following effect:
+
+Hitting 
+Breakable Walls
+, 
+Generators
+, or 
+Pallets
+ with a 
+Leeching Gland
+ causes them to become 
+Marked
+.
+
+This effect can only affect a single object at a time.
+
+While interacting with the 
+Marked Prop
+, you benefit from the following effect:
+
+Increases
+ the Action speed for Breaking and Damaging by 
++15 %
+.
+
+Chicken Head
+
+"Believed by some to have mystical properties, this particular sample was lodged in 
+The Krasue's
+ throat after a feed."
+
+Modifies 
+Unbodied Flesh
+ with the following effects:
+
+All Survivors are afflicted with 
+Leeched I
+ at the start of the Trial.
+
+Increases
+ the initial count of 
+Glowing Fungus
+ by 
++2
+.
+
+Shredded Gown
+
+"She tore at her clothes and into her flesh as her body burned."
+
+Unlocks potential in your Aura-reading ability while using 
+Corporeal Weave
+:
+
+The 
+Auras
+ of all Survivors who are either within 
+8 metres
+ of a 
+Glowing Fungus
+ or holding one are revealed to you for 
+5 seconds
+.
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There are 
+2
+ Achievements related to 
+The Krasue
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Krasue
+
+Playing as The 
+Krasue
+, achieve a 
+Merciless Victory
+ using only her 
+3
+ Unique Perks: 
+Ravenous
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+This description is based on the changes announced for or featured in the upcoming Patch 10.2.0
+"The scent of blood is in the air.
+Time to feast."
+
+Whenever you hook a Survivor for the first time, 
+Ravenous
+ gains 
++1 Token
+, up to a maximum of 
+4 Tokens
+.
+For each Token:
+
+Grants 
++4 
+ 
+Haste
+ 
+Status Effect
+ while carrying a Survivor.
+
+Increases
+ your hooking speed by 
++4 
+.
+
+Once you accumulate 
+4 Tokens
+, all Survivors suffer from the following effects:
+
+Causes them to scream.
+
+Inflicts the 
+Exposed
+ 
+Status Effect
+ for 
+80
+/
+85
+/
+90
+ 
+seconds
+.
+
+"Weeping Ginevra's blood streams/The devil smells the weak." — Fabbro Barone's "Ginevra"
+
+, 
+Wandering Eye
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Bloodied prey surrounds you, vying for your attention."
+
+Whenever you start chasing a Survivor, 
+Wandering Eye
+ triggers the following effect:
+
+The 
+Auras
+ of all other injured Survivors within 
+20 metres
+ of your location are revealed to you for 
+5 seconds
+.
+
+Wandering Eye
+ has a cool-down of 
+40
+/
+35
+/
+30
+ 
+seconds
+.
+
+"A drop does not satiate/when a river is needed." — Elliot Campbell's "Grandeur of Samuel"
+
+, and 
+Hex: Overture of Doom
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"A hex that plays on the paranoia of others."
+
+Creates a 
+Hex Totem
+ that curses the farthest 
+Generator
+ from its location:
+
+The 
+Aura
+ of the 
+Cursed Generator
+ is highlighted in 
+yellow
+.
+
+When a Survivor repairs the 
+Cursed Generator
+ for at least 
+5 seconds
+, 
+Hex: Overture of Doom
+ triggers the following effects for 
+20
+/
+25
+/
+30
+ 
+seconds
+:
+
+Transfers your 
+Terror Radius
+ to the 
+Cursed Generator
+.
+
+This 
+Terror Radius
+ is set to 
+32 metres
+.
+
+Grants the 
+Undetectable
+ 
+Status Effect
+.
+
+Once the 
+Cursed Generator
+ is repaired, the next farthest 
+Generator
+ becomes cursed.
+The 
+Hex Effects
+ persist until the 
+Hex Totem
+ is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.
+
+"From salvation's ruin, be warned/death comes from all around." — Giovanni Serrata's "Fog Hill"
+
+.
+
+You've Got Guts
+
+Playing as The 
+Krasue
+, down Survivors with the 
+Intestinal Whip
+ attack a total of 
+20 times
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Krasue
+:
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Leading Lady
+
+Common
+
+To drink the elixr was to accept that her body would be inhabited by another creature. But how could she reject the promise of fame?
+
+Traditional Comfort
+
+Common
+
+The creature within killed without mercy, first mauling animals and then feasting on her best friend.
+
+Larb Knife
+
+Common
+
+The violent killings were a necessity that she accepted in return for the fame she deserved.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Lady of Death
+
+Rare
+
+To drink the elixr was to become something else. But how could she reject the promise of bloody meat?
+
+Comfort in Killing
+
+Rare
+
+The creature within killed, killed, killed. Even the bones were gnawed and sucked of marrow.
+
+Stained Larb Knife
+
+Rare
+
+The violent killings were a necessity that satiated the Krasue for only the slightest moment.
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+Within her body is a creature of death and violence, fuelled by the blood of its prey.
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Dazzling Audition
+
+Krasue Aberrations
+
+23 September 2025 (Tuesday)
+
+Description
+
+She went into her audition with the grace and confidence that the curse bestowed upon her.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Hungry Eyes
+
+Krasue Aberrations
+
+With the sun setting, she left as soon as her performance ended, knowing the Krasue would awaken in search of food.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Honey Chakkri
+
+Krasue Aberrations
+
+She awoke, relieved to see bloodied fur surrounding her. She'd hate to have mauled the opera's director and thrown her show into turmoil.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Glamorous Audition
+
+Krasue Aberrations
+
+23 September 2025 (Tuesday)
+
+Description
+
+She went into her audition with the grace and confidence that the curse bestowed upon her.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Predatorial Eyes
+
+Krasue Aberrations
+
+With the sun setting, she left as soon as her performance ended, knowing the Krasue would awaken in search of food.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Midnight Chakkri
+
+Krasue Aberrations
+
+She awoke, relieved to see bloodied fur surrounding her. She'd hate to have mauled the opera's director and thrown her show into turmoil.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Radiant Audition
+
+Krasue Aberrations
+
+23 September 2025 (Tuesday)
+
+Description
+
+She went into her audition with the grace and confidence that the curse bestowed upon her.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Killing Eyes
+
+Krasue Aberrations
+
+With the sun setting, she left as soon as her performance ended, knowing the Krasue would awaken in search of food.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Nom Yen Chakkri
+
+Krasue Aberrations
+
+She awoke, relieved to see bloodied fur surrounding her. She'd hate to have mauled the opera's director and thrown her show into turmoil.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Striking Audition
+
+Krasue Aberrations
+
+23 September 2025 (Tuesday)
+
+Description
+
+She went into her audition with the grace and confidence that the curse bestowed upon her.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Ravenous Eyes
+
+Krasue Aberrations
+
+With the sun setting, she left as soon as her performance ended, knowing the Krasue would awaken in search of food.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Orchard Chakkri
+
+Krasue Aberrations
+
+She awoke, relieved to see bloodied fur surrounding her. She'd hate to have mauled the opera's director and thrown her show into turmoil.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Overture of Sorrow
+
+Krasue Aberrations
+
+23 September 2025 (Tuesday)
+
+Description
+
+Her rival stole a role that was meant for her. It was clearly politics at play.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Crimson Swathes
+
+Krasue Aberrations
+
+She confronted the woman, blocking the doorway as the Krasue wriggled and tore from her body.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Starry Chakkri
+
+Krasue Aberrations
+
+The Krasue was quick and ferocious in its mauling, as if it were a desperate beast that had gone weeks without a meal.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Violet Cleave
+
+Krasue Aberrations
+
+With her rival missing, Burong accepted the role. She realized that even the gruesome parts of her curse were a means for success.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Overture of Calmness
+
+Krasue Aberrations
+
+23 September 2025 (Tuesday)
+
+Description
+
+Her rival stole a role that was meant for her. It was clearly politics at play.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Gold Swathes
+
+Krasue Aberrations
+
+She confronted the woman, blocking the doorway as the Krasue wriggled and tore from her body.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Royal Chakkri
+
+Krasue Aberrations
+
+The Krasue was quick and ferocious in its mauling, as if it were a desperate beast that had gone weeks without a meal.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Yellow Cleave
+
+Krasue Aberrations
+
+With her rival missing, Burong accepted the role. She realized that even the gruesome parts of her curse were a means for success.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Overture of Mirth
+
+Krasue Aberrations
+
+23 September 2025 (Tuesday)
+
+Description
+
+Her rival stole a role that was meant for her. It was clearly politics at play.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Purple Swathes
+
+Krasue Aberrations
+
+She confronted the woman, blocking the doorway as the Krasue wriggled and tore from her body.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Glimmer Chakkri
+
+Krasue Aberrations
+
+The Krasue was quick and ferocious in its mauling, as if it were a desperate beast that had gone weeks without a meal.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Blue Cleave
+
+Krasue Aberrations
+
+With her rival missing, Burong accepted the role. She realized that even the gruesome parts of her curse were a means for success.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Weekend Massacre
+
+Krasue Aberrations
+
+23 September 2025 (Tuesday)
+
+Description
+
+As her career reached new heights, she had a weekend to relax, explore, and find some kind of normality.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Blush Side Tail
+
+Krasue Aberrations
+
+As night fell, a man hurried down the street after her, repeatedly insisting that he give her a kiss.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Post-Feed Wrap Top
+
+Krasue Aberrations
+
+The man followed her down an alleyway, hardly noticing the sound of sinew tearing apart.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Carnivore's Daab
+
+Krasue Aberrations
+
+Her head turned with a ferocious grin. Her kiss tore off his lower jaw as his mouth gaped stupidly.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Weekend Slaughter
+
+Krasue Aberrations
+
+23 September 2025 (Tuesday)
+
+Description
+
+As her career reached new heights, she had a weekend to relax, explore, and find some kind of normality.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Cream Side Tail
+
+Krasue Aberrations
+
+As night fell, a man hurried down the street after her, repeatedly insisting that he give her a kiss.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+After-Dinner Wrap Top
+
+Krasue Aberrations
+
+The man followed her down an alleyway, hardly noticing the sound of sinew tearing apart.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Devourer's Daab
+
+Krasue Aberrations
+
+Her head turned with a ferocious grin. Her kiss tore off his lower jaw as his mouth gaped stupidly.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Night Queen
+
+Krasue Aberrations
+
+23 September 2025 (Tuesday)
+
+Description
+
+Her ethereal voice thrilled the crowd as she took the stage in her leading role.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Crowned Villainy
+
+Krasue Aberrations
+
+She wanted to stay and celebrate with her fellow performers, but she knew the Krasue would soon awaken.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Prima Donna
+
+Krasue Aberrations
+
+She had barely made it outside when her teeth gnashed and her head strained at her neck.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Hornet's Stinger
+
+Krasue Aberrations
+
+Her face dipped into the pooled blood of a woman's stomach as her castmate's revelry could be heard nearby.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Force Of Nature
+
+Dark Overgrowth
+
+26 May 2026 (Tuesday)
+
+Description
+
+She arose from the earth after a night of feasting, severing the roots that had wormed their way into her skin.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Forest Terror
+
+Dark Overgrowth
+
+She wandered beneath a suffocating canopy of dying trees, numb to the infestation that coursed through her veins.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rot Garden
+
+Dark Overgrowth
+
+When she stepped through the overgrowth, the pungent smell of carrion and putrid flora filled her nose, awakening her monstrous appetite.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Ballad Of Filth
+
+Dark Overgrowth
+
+She conducted a ballad for the worms, a song of fungal blood and earth-rotted flesh.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Frosty Eyes
+
+Bone Chill
+
+Heart-chilling eyes of the coldblooded.
+"Have an amazing Winter season 2025!" - The Dead by Daylight Team"
+
+Piece
+
+Name
+
+Collection
+
+Sticky Larb Blade
+
+Tricks and Treats
+
+There's more than just candy stuck to this knife.
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Krasue
+ is part of 
+1
+ DLC:
+
+Sinister Grace
+
+Change Log
+
+Patch 9.2.0
+Patch 9.2.1
+Patch 9.2.2
+Patch 9.2.0
+
+These changes were made between the PTB and the release version of 
+Patch 9.2.0
+:
+
+Undocumented Buff
+: Increased the Hitting time of 
+Intestinal Whip
+ from 
+0.65 seconds
+ to 
+0.7 seconds
+.
+
+Undocumented Buff
+: Increased the Recharge rate of 
+Headlong Flight
+ from 
+0.334 c/s
+ to 
+0.4 c/s
+.
+
+This change adjusts for the increased Charges of 
+Headlong Flight
+ to keep the Recharge time the same between both versions.
+
+Buff
+: Increased the Charges capacity of 
+Headlong Flight
+ from 
+10 Charges
+ to 
+12 Charges
+.
+
+Buff
+: Reduced the Head-to-Body-Transition time from 
+2.6 seconds
+ to 
+2.2 seconds
+.
+
+Buff
+: Reduced the Wind-up time of 
+Intestinal Whip
+ from 
+0.35 seconds
+ to 
+0.2 seconds
+.
+
+Buff
+: Added the ability to perform a vault during 
+Headlong Flight
+ at the cost of ending the interaction.
+
+Buff
+: 
+Intestinal Whip
+ now ignores obstructions for 
+0.6 seconds
+ after initiating the attack.
+
+Buff
+: Increased the Turn-Rate limit while using 
+Intestinal Whip
+ from 
+150°
+ to 
+220°
+.
+
+Buff
+: Reduced the number of 
+Glowing Fungi
+ spawned at the start of the Trial from 
+6
+ to 
+4
+.
+
+Buff
+: Reduced the maximum number of 
+Glowing Fungi
+ that can spawn in the environment from 
+10
+ to 
+8
+.
+
+Quality of Life
+: While using 
+Headlong Flight
+, 
+The Krasue
+ now has collision with Survivors.
+
+Quality of Life
+: Added Input-Buffering to using her 
+Head Form
+ abilities.
+
+Nerf
+: Increased 
+The Krasue's
+ vaulting time while in 
+Head Form
+  from  
+1.4 seconds
+ to 
+1.6 seconds
+.
+Patch 9.2.1
+
+Buff
+: Further reduced the maximum number of 
+Glowing Fungi
+ that can spawn in the environment from 
+8
+ to 
+6
+.
+
+Nerf
+: Increased the number of 
+Glowing Fungi
+ spawned at the start of the Trial from 
+4
+ to 
+5
+.
+
+Nerf
+: Reduced the time 
+Intestinal Whip
+ ignores obstructions for from 
+0.6 seconds
+ to 
+0.35 seconds
+.
+
+Nerf
+: Increased the Vaulting times in 
+Head Form
+ from 
+1.6 seconds
+ to the following:
+
+Pallets
+: 
+1.9 seconds
+
+Windows
+: 
+1.67 seconds
+
+Nerf
+: Added a 
+Pallet Stun
+ Duration modifier of 
++25 %
+ while in 
+Head Form,
+ increasing the 
+Pallet Stun
+ duration from its default of 
+2 seconds
+ to 
+2.5 seconds
+.
+Patch 9.2.2
+
+Nerf
+: 
+Leeched
+ is completely removed from a 
+Leeched Survivor
+ after hooking them.
+
+Nerf
+: Increased the Wind-up time of 
+Intestinal Whip
+ from 
+0.2 seconds
+ to 
+0.3 seconds
+.
+
+Nerf
+: Reduced the time 
+Intestinal Whip
+ ignores obstructions for from 
+0.35 seconds
+ to 
+0.32 seconds
+.
+
+Nerf
+: Increased the Head-to-Body-Transition time from 
+1 second
+ to 
+1.2 seconds
+.
+
+Nerf
+: Increased the Post-Throw cool-down of 
+Regurgitate
+ from 
+0.1 seconds
+ to 
+1.3 seconds
+.
+
+Nerf
+: Increased the Cancellation cool-down of 
+Regurgitate
+ from 
+1 second
+ to 
+1.3 seconds
+.
+
+Trivia
+
+General
+
+The Krasue
+ is the third Killer to use a third-person camera since The 
+Good Guy
+.
+
+However, 
+The Krasue
+ only uses it in 
+Head Form
+, with her default 
+Body Form
+ using the regular first-person camera for Killers.
+
+She is, however, the first Killer to stay in third-person while carrying a Survivor in 
+Head Form
+.
+
+The Krasue
+ is the first killer to have two different animations for carrying survivors.
+
+In her 
+Body Form
+, she simply hoists and carries them over her shoulder.
+
+In her 
+Head Form
+, she lifts the Survivor by their necks via her intestines, akin to Killers like The 
+Xenomorph
+.
+
+The Krasue
+ is the first non-licensed killer to carry survivors this way.
+
+The Krasue's
+ name in the promotional art is spelled as 
+"บุรง"
+, however the in-game lore localised in Thai shows the spelling as 
+"บุหรง"
+.
+
+Both renditions are most likely coming from a difference in localisation choices, as 
+Burong
+ can be spelled from, and localised into both words.
+
+During the PTB for 
+Patch 9.2.0
+, the initial part of her description (the one before a Killer's 
+Perks
+ are mentioned) was less fleshed-out and simply read: 
+The Krasue
+ hungers for blood.
+
+Voice Actress
+
+The Krasue's
+ 
+Body Form
+ is voiced by 
+Organ
+, the preferred moniker of 
+Dr Fueanglada Prawang Carlson
+, a professional opera singer and vocal instructor at the Voice Department of Mahidol University in Thailand.
+[
+1
+]
+
+Organ
+ is featured in a short 
+Meet the Voice
+ video released on the official 
+Dead by Daylight
+ channel a few days after the Chapter's release (see 
+Gallery
+).
+
+The Krasue's
+ 
+Head Form
+ is voiced by 
+Roxana B.L.
+ (The Monster Factory), who previously voiced the 
+Female Zombie
+ featured in Trials against The 
+Nemesis
+ and is also one of the many voices used to create the cacophonous wails and screams heard when facing The 
+Dredge
+.
+
+Voice Lines
+
+The Krasue
+ is the third Killer to speak any other contemporary language other than English, being Thai.
+
+She does speak English briefly in Lobby Voice Line 06.
+
+Voice Line in Thai
+
+Voice Line
+
+Audio
+
+Selected in the Lobby
+
+เปลือยใจเลยล่ะ
+
+"My heart opens."
+
+คะ?
+
+"Yes?"
+
+อะไร... รออยู่หรอ?
+
+"What awaits?"
+
+ดีมากเลย
+
+"Very well."
+
+หนึ่งความฝัน เพื่อตื่นขึ้นอีกครั้ง
+
+"A dream; to awaken once more."
+
+Hello? ว่าไง
+
+"Hello? Hello."
+
+ความงาม รายล้อมฉัน
+
+"Beauty surrounds me."
+
+เป็นคืนที่ดีจัง
+
+"What gentle night."
+
+ท่วงทำนองแด่ค่ำคืน
+
+"An aria to the night."
+
+กระดูกพวกนี้หนักจัง
+
+"These bones weigh heavy."
+
+เพื่อลอยไปในสายลม
+
+"To float on the breeze."
+
+ได้เวลาแล้ว
+
+"It is time."
+
+ฉันถูกเรียกแล้ว
+
+"I am called upon."
+
+ความหอมหวานในอากาศ
+
+"Sweetness in the air."
+
+ฉันจะปรากฏตัว
+
+"I will emerge."
+
+วันนี้ฤกษ์ดี
+
+"This is a good day."
+
+ฟ้าจะไม่สว่างอีกแล้ว
+
+"It will never be day again."
+
+Various Singing
+
+Trial Start
+
+โอ้ สายหมอกอ่อนโยน
+
+"Oh, sweet fog."
+
+มาสิคะ ที่รัก
+
+"Come, my darlings."
+
+นี่ คือเวทีของฉัน
+
+"This is my stage."
+
+เพื่อนจ๋า... ไม่ต้องกลัวนะ
+
+"Friends, do not fear."
+
+ขอแหวกดูข้างในหน่อย
+
+"Show me what's inside you."
+
+อยู่ตรงนั้นหรือเปล่านะ?
+
+"Are you out there?"
+
+ว่าไง ฉันอยู่นี่
+
+"Hello? I am here."
+
+ร้องเสียงเพราะ ๆ สิ
+
+"Sing the sweet sounds."
+
+ฉันจะเบามือนะ
+
+"My hand will be gentle."
+
+Various Singing
+
+Gallery
+
+In-game Assets
+
+The Krasue (Portrait)
+
+The Krasue (Background image)
+
+Official Art
+
+ The Krasue Render
+
+The Krasue Lore Art
+
+The Krasue Promotional Material
+
+ "Relaxed Reds" bonus skin
+
+Teasers
+
+Load video
+
+YouTube
+
+YouTube might collect personal data. 
+Privacy Policy
+
+Continue
+
+Dismiss
+
+Load video
+
+YouTube
+
+YouTube might collect personal data. 
+Privacy Policy
+
+Continue
+
+Dismiss
+
+Load video
+
+YouTube
+
+YouTube might collect personal data. 
+Privacy Policy
+
+Continue
+
+Dismiss
+
+Load video
+
+YouTube
+
+YouTube might collect personal data. 
+Privacy Policy
+
+Continue
+
+Dismiss
+
+Load video
+
+YouTube
+
+YouTube might collect personal data. 
+Privacy Policy
+
+Continue
+
+Dismiss
+
+Load video
+
+YouTube
+
+YouTube might collect personal data. 
+Privacy Policy
+
+Continue
+
+Dismiss
+
+Load video
+
+YouTube
+
+YouTube might collect personal data. 
+Privacy Policy
+
+Continue
+
+Dismiss
+
+Meet the Voice
+
+Load video
+
+YouTube
+
+YouTube might collect personal data. 
+Privacy Policy
+
+Continue
+
+Dismiss
+
+Fan Art
+
+Load video
+
+YouTube
+
+YouTube might collect personal data. 
+Privacy Policy
+
+Continue
+
+Dismiss
+
+Gameplay
+
+ Head form
+
+ Human form
+
+References
+
+↑
+ 
+http://organprawang.com
+ Dr Fueanglada Prawang Carlson. Official Website of Organ Prawang. Retrieved 1 October 2025
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

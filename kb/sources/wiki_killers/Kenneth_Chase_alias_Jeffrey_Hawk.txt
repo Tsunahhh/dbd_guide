@@ -1,0 +1,4813 @@
+# Kenneth Chase alias Jeffrey Hawk
+Source: https://deadbydaylight.wiki.gg/wiki/Kenneth_Chase_alias_Jeffrey_Hawk (page complète via API, consultée le 27/09/2026)
+
+''
+As I journeyed through the foggy veils that demarcate the realms of this place, I saw that, for the first time, I was not alone. Something traversed these forgotten byways, its bright colors still clearly visible, even through the muting effect of the mist that roiled between us.
+
+As we emerged into a new, yet somehow familiar, place, I saw it clearly for the first time: a carney's caravan, pulled by something that appeared to be a horse but was, to my eyes, older and more terrible.
+
+I watched from the trees as a crack appeared at the doorway and a warm, golden light spilled forth into this desolate place. The effect was, I suspect, deliberately inviting, but the figure that emerged was anything but: its costume a hodgepodge of ringmaster, clown and other fairground attire. Its face was a nightmare in greasepaint, a caricature of a smile slashed across its flabby lips. At its waist were a collection of what looked for all the world like fingers. But what creature would be so monstrous as to collect such trophies?
+
+The Clown surveyed its new surrounding and its gaze lit on me. A rictus split its face in two and it nodded at me before returning to the caravan. I suspect that it prefers its victims to be less aware than I, and I thanked the stars for that.''
+
+~ 
+Unknown (Potentially 
+Benedict Baker
+)
+
+The Clown
+
+Name
+
+Kenneth Chase
+
+Game Alias(es)
+
+"Jeffrey Hawk"
+
+"The Ringmaster"
+
+"The Medicine Man"
+
+Gender
+
+Man
+
+Origin
+
+American
+
+Realm
+
+Crotus Prenn Asylum
+
+Power
+
+The Afterpiece Tonic
+
+Power 
+Attack
+ Type
+
+Basic Attack
+
+Weapon
+
+Madame Butterfly
+
+Movement Speed
+
+115 % 
+|
+ 4.6 m/s
+
+Alternate Movement speed
+
+57.5 % 
+|
+ 2.3 m/s
+(Reloading)
+
+Terror Radius
+
+32 metres
+
+Height 
+
+Tall
+
+DLC
+
+Curtain Call
+
+Voice Actor
+
+Sébastien Duval (BHVR)
+
+Cost
+
+2,250 
+Iridescent Shards
+
+125 
+Auric Cells
+
+Breathing
+
+Menu Music
+
+Terror Radius Music
+
+Metadata
+
+CharID
+
+K12
+
+Kenneth Chase
+ or 
+"The Clown"
+, also known as 
+Jeffrey Hawk
+, is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+He was introduced as the Killer of 
+Curtain Call
+, a Chapter DLC released on 12 June 2018 and retired on 8 January 2024.
+
+He is still available in the 
+In-Game Store
+ and as part of the 
+Maddening Darkness Pack
+ Chapter Pack DLC.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+2.1
+ 
+The Archives
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: Madame Butterfly
+
+3.3
+ 
+Power: The Afterpiece Tonic
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for The Afterpiece Tonic
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Base Cosmetics
+
+5.1.1
+ 
+Default
+
+5.1.2
+ 
+Prestige
+
+5.1.2.1
+ 
+Perk Charms
+
+5.1.2.2
+ 
+Prestige Badges
+
+5.2
+ 
+Alternatives
+
+5.2.1
+ 
+Special
+
+5.2.2
+ 
+Event
+
+5.3
+ 
+Rift
+
+5.4
+ 
+In-Game Store
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+General
+
+8.2
+ 
+Cosmetics
+
+8.3
+ 
+Development
+
+8.4
+ 
+Maurice
+
+8.5
+ 
+Memento Mori
+
+8.6
+ 
+Voice Actor
+
+9
+ 
+Gallery
+
+9.1
+ 
+In-game Assets
+
+9.2
+ 
+Old Assets
+
+9.3
+ 
+Concept Art
+
+9.4
+ 
+Screenshots
+
+9.5
+ 
+Others
+
+Overview
+
+Using his Afterpiece concoctions, The Clown can steer Survivors into dangerous areas and shorten chases. His purple bottle emits a cloud of noxious gas that disorients, slows down, and hinders Survivors. Throwing the yellow bottle requires foresight, as anyone who passes through the gas experiences a speed burst.
+
+The Clown
+ is a strategic Killer, able to control and corral Survivors by throwing bottles of 
+The Afterpiece Tonic
+ to create clouds of noxious gas that cover large areas for a short amount of time. Survivors intoxicated by the gas are inflicted with impaired vision and movement speed, and give away their location by coughing loudly.
+
+His personal Perks, 
+Bamboozle
+, 
+Coulrophobia
+, and 
+Pop Goes the Weasel
+, provide vaulting advantages and negatively impact Survivor Healing speed and Repairs.
+
+He has a surprising agility for a man of his size, along with a terrifying appearance and the ability to sabotage the Survivor's efforts.
+
+Lore
+
+Kenneth Chase was born in 1932 by a difficult labour, which his mother wouldn't survive. This event drove a rift between him and his father that never closed. As the boy grew, so did his father's resentment, and his drinking habit. By the time Kenneth was at school, they lived mostly separate lives.
+
+Academically, he was unremarkable, coasting by on his significant athletic prowess. He grew tall and strong, excelling at track events, but shunned any attempts to coax him into team sports.
+
+On his walk home from school, he would often find feathers on the ground and he soon began a collection, keeping them in a cigar box under his bed. With his father either at work or in an alcohol-induced stupor, Kenneth had hours to spend alone, transfixed by the regularity of the feathers' barbs and the feeling of softness as he ran them over his lips. Watching the birds that came to the feeder in his garden, he imagined how soft they must be and resolved to catch one. He ingratiated himself with the local dentist, soon procuring some anaesthetic. Using this, he rigged up a trap on the feeder, that he hoped would knock out a bird long enough that he could touch it.
+
+After a few failed attempts, he managed to trap a robin. As it lay in his hand, he felt a sudden rush, of a life at his mercy. He had planned to release it once it recovered from the anaesthetic. Instead, as its eyes flickered back into consciousness and it began to struggle, his grip remained firm. His fingers slowly tightened around its throat, squeezing until its chest feathers were finally still. He disposed of the body, keeping just a feather, with which he started a new collection, discarding the others as "fake".
+
+By the late 1940s, Kenneth had left school and started working as a busboy at a local diner. He had also escalated to larger prey, like squirrels, raccoons and dogs, becoming skilled at customising the anaesthetic dosage for each.
+
+In early 1954, a young man went missing and the town was turned upside down in the search. A few months later, Kenneth's father, while doing some work in the crawlspace under the house, found a cigar box. He broke it open and saw, to his horror, that it contained feathers, animal paws, and a man's finger.
+
+Returning from work, Kenneth saw his father leaving the crawlspace with a cigar box in his hands. He turned on his heel and never went home again.
+
+After a few weeks of living rough, he encountered a travelling circus and, with his prodigious strength, was hired to work the ropes. He assumed a new name: Jeffrey Hawk.
+
+Suddenly surrounded by a close-knit community, "Jeffrey" had to learn to socialise. He donned a new personality like a disguise, quickly becoming known as charming and helpful, and was welcomed into his new family.
+
+Over the next decade, he stayed with the circus, travelling the length and breadth of the United States. But, with the itinerant life providing few repercussions, he fell into bad habits. Drinks, junk food, drugs, he indulged in all of them to excess. For a time, these vices were enough, but then his old urges returned and his nomadic existence became a cover for him to resume killing. He stole clothes and make-up from performers, fashioning a disguise that would let him get close to his victims before he anaesthetised them, bringing them back to his caravan, where they would awake to find themselves bound and at his mercy. He would finally get to have his fun, mentally and physically torturing them, their screams fuelling him, before being lost in the night.
+
+Once their strength was at its lowest, he would carefully examine their fingers, searching for the prettiest, running them over his tongue to find the tastiest. Once he found the best, he would cut it from their hand and proudly add it to his collection, disposing of the rest of the body as pointless waste.
+
+Men, women, young, old, he didn't care. The essence of a good collection is in the variety, in the memories and stories they evoke.
+
+He removed the costume less and less, shedding his old personality with it, fully embracing the clown, his true self.
+
+With time, he became complacent and sloppy. A victim managed to work free of her bindings while he was sleeping off the drink. She escaped, screaming for help, and he awoke to find the rest of the circus bearing down on him. He whipped his horse and the caravan disappeared into the night.
+
+Since then he has roamed the country, a parasite who could always be found at a carnival or circus, but who would never be seen on any playbill. He lured those brave, or foolish enough, to come near, trapped them and moved on before they could be found missing.
+
+Somewhere along the way, he left the ordinary roads of the United States behind him, travelling through a veil of mist and entering a new realm. It was a place of transience and impermanence, perfectly suiting the life he had chosen to lead. Feeling more at home than he had in his entire life, he set up camp and waited for his first visitor.
+
+The Archives
+
+The table below lists additional Lore about 
+The Clown
+ from 
+The Archives
+, either from 
+Tomes
+ that featured him or from individual Lore entries that mentioned him:
+
+Tome
+
+Entry
+
+Type
+
+Tome 8 - Deliverance
+
+Finger of Chaos
+
+Featured Character
+
+Load-out
+
+Unique Perks
+
+The Clown
+ comes with 
+3
+ 
+Perks
+ that are unique to him:
+
+ 
+
+Bamboozle
+
+You benefit from the following permanent effect:
+
+Increases
+ your Vaulting speed by 
+5
+/
+10
+/
+15
+ 
+%
+.
+
+Whenever you vault a 
+Window
+, 
+Bamboozle
+ calls upon The 
+Entity
+ for the following effect:
+
+Blocks
+ it to all Survivors for 
+8
+/
+12
+/
+16
+ 
+seconds
+.
+
+Vaulting it again within that time resets the timer.
+
+Vaulting a different one transfers the effect to it instead.
+
+Bamboozle
+ does not extend its effects to vaulting a dropped 
+Pallet
+.
+
+ 
+
+Coulrophobia
+
+"Even those without a fear of clowns know to be terrified of you."
+
+Survivors inside your 
+Terror Radius
+ suffer from the following effects:
+
+Reduces
+ all Healing speeds by 
+20
+/
+25
+/
+30
+ 
+%
+.
+
+Increases
+ the Pointer-Rotation speed of 
+Healing Skill Checks
+ by 
++50 %
+.
+
+ 
+
+Pop Goes the Weasel
+
+"A deep bond with The Entity unlocks great strength."
+
+After hooking a Survivor, 
+Pop Goes the Weasel
+ activates for 
+35
+/
+40
+/
+45
+ 
+seconds
+.
+While active, manually damaging a 
+Generator
+ triggers the following effect:
+
+Increases the regression amount by 
++15 %
+ resulting in 
+20 %
+ regression.
+
+Pop Goes the Weasel
+ deactivates after use or once its timer elapses.
+
+Prestige
+
+Prestiging 
+The Clown
+ will automatically add 
+Tier I
+ of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Clown
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: Madame Butterfly
+
+The 
+Madame Butterfly
+ is the Primary Weapon of 
+The Clown
+.
+An oversized butterfly knife, as accustomed to inflicting torture and pain as it is to removing limbs and appendages.
+
+Power: The Afterpiece Tonic
+
+"Throughout his years experimenting with anaesthetics and muscle relaxants, The Clown developed several effective concoctions and formulas.
+His favourite, The Afterpiece Tonic, he has used to great effect, intoxicating and capturing many unwilling victims.
+The associated Afterpiece Antidote also has useful effects."
+SPECIAL ABILITY: THE AFTERPIECE TONIC AND ANTIDOTE
+The Clown
+ starts the Trial with a shared stock of 
+6
+ 
+Bottles
+.
+
+Press the 
+Secondary Power button
+ to switch between the 
+Tonic
+ and the 
+Antidote
+.
+
+Press the 
+Power button
+ to throw a 
+Bottle
+.
+Hold the 
+Power button
+ until a shimmer travels across the 
+Bottle
+ to throw it with maximum strength.
+
+Press and hold the 
+Secondary Power button
+ to replenish the 
+Bottles
+ at any time:
+
+Reloading takes 
+2.5 seconds
+ to complete.
+
+Reduces
+ his Movement speed to 
+2.3 m/s
+.
+
+SPECIAL AFFLICTION: TONIC
+Upon impact, the 
+Tonic
+ 
+Bottle
+ breaks, releasing a 
+fuchsia
+ 
+Gas Cloud
+ that intoxicates Survivors upon contact and while inside it.
+The Clown
+ is immune to its effects.
+
+Intoxicated Survivors
+ suffer from the following effects while inside the 
+Gas Cloud
+:
+
+Causes impaired vision.
+
+Causes involuntary coughing.
+
+Suppresses
+ the ability to perform 
+Fast Vaults
+.
+
+Inflicts a 
+-14 %
+ 
+Hindered
+ 
+Status Effect
+.
+
+These effects linger for 
+1 second
+ after leaving the 
+Gas Cloud
+.
+SPECIAL BENEFIT: ANTIDOTE
+Upon impact, the 
+Antidote
+ 
+Bottle
+ breaks, releasing an inactive 
+white
+ 
+Gas Cloud
+.
+The 
+Gas Cloud
+ turns 
+yellow
+ after 
+1 second
+ and invigorates all Players coming into contact with it.
+
+Invigorated Players
+ benefit from the following effect:
+
+Grants a 
++14 %
+ 
+Haste
+ 
+Status Effect
+ for 
+6 seconds
+.
+
+SPECIAL INTERACTION: NEUTRALISATION
+The two types of 
+Gas Clouds
+ instantly neutralise each other upon contact.
+
+Walking from one type into the other one will also neutralise any lingering effects from the former and instead apply the effect(s) of the latter.
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Reloading: 
+2.3 m/s
+
+Invigorated
+ Reloading: 
+2.57 m/s
+
+Invigorated
+ Carrying: 
+4.12 m/s
+
+Walking: 
+4.6 m/s
+
+Invigorated
+ Walking: 
+5.152 m/s
+
+Bottles:
+
+Carrying capacity: 
+6 Bottles
+
+This capacity is shared between the 
+Tonic
+ and the 
+Antidote
+.
+
+Cancellation Cool-down duration: 
+1 second
+
+Wind-up and Throw durations: 
+0.25 seconds
+
+Reloading duration: 
+2.5 seconds
+
+Minimum Velocity: 
+8.5 m/s
+
+When 
+Bottles
+ are thrown uncharged (button released ASAP).
+
+Maximum velocity: 
+14 m/s
+
+When 
+Bottles
+ are thrown charged (holding them for at least 
+1 second
+)
+
+Tonic:
+
+Gas Cloud
+ Linger duration: 
+10 seconds
+
+If Survivors move through the 
+Gas Cloud
+, it starts dissipating faster after a buffer of 
+0.4 seconds
+.
+
+Survivor-Afflictions Linger durations:
+
+Impaired vision: 
+4 seconds
+ (but weakens in strength over time).
+
+Involuntary coughing: 
+2 seconds
+
+Hindered
+ duration: 
+1.6 seconds
+
+Hindered
+ strength: 
+-14 %
+
+Inability to perform 
+Fast Vaults
+: 
+1 seconds
+
+Antidote:
+
+Activation delay: 
+1.6 seconds
+.
+
+Invigorated
+ Effects duration: 
+6 seconds
+
+Haste
+ strength: 
++12 %
+
+Add-ons for The Afterpiece Tonic
+
+Icon
+
+Name
+
+Description
+
+Fingerless Parade Gloves
+
+"Part of the standard Clown apparel, the cut fingers allow for dexterous manipulations."
+
+Modifies the 
+Bottles
+ with the following effects:
+
+Increases
+ their Throw speed by 
+#effect(1)
+.
+
+Reduces
+ their Throw angle by 
+#effect(2)
+.
+
+Party Bottle
+
+"Be the life of the party!"
+
+Modifies the 
+Tonic
+ and 
+Antidote
+ with the following effects:
+
+Bottles
+ now release confetti upon breaking, in addition to their usual effects.
+
+Direct hits with a 
+Bottle
+ grant 
+100
+ bonus Bloodpoints in the 
+Deviousness
+ 
+Scoring Category
+.
+
+Robin Feather
+
+"A warm orange feather, soft to the touch."
+
+You benefit from the following effect:
+
+Reduces
+ the Cool-down time after throwing a 
+Bottle
+ by 
+-40 %
+.
+
+VHS Porn
+
+"An all time classic.
+You won't see things quite the same again."
+
+Modifies the 
+Tonic
+ with the following effect:
+
+Increases
+ the size and spread of the 
+Gas Clouds
+ by 
++10 %
+.
+
+Kerosene Can
+
+"A thin and clear combustible liquid which numbs the mind when inhaled."
+
+Survivors afflicted by the 
+Tonic
+ suffer from the following effect:
+
+Causes the 
+Blindness
+ 
+Status Effect
+ for 
+30 seconds
+.
+
+Solvent Jug
+
+"A chemical volatile compound that irritates the respiratory tract, but increases absorption of the Afterpiece Antidote."
+
+Modifies the 
+Antidote
+ with the following effect:
+
+Increases
+ the duration of 
+Invigoration
+ by 
++1 second
+.
+
+Starling Feather
+
+"A black feather with an emerald gloss, very soft to the touch."
+
+You benefit from the following effect:
+
+Reduces
+ the Cool-down time after throwing a 
+Bottle
+ by 
+-50 %
+.
+
+Sticky Soda Bottle
+
+"It's sugary sweet, with only a little blood on the label."
+
+Modifies the 
+Antidote
+ with the following effect:
+
+Increases
+ the strength of the 
+Haste
+ 
+Status Effect
+ by 
++2 %
+ to 
++16 %
+.
+
+Thick Cork Stopper
+
+"A sturdy cork fitting the Afterpiece Tonic Bottles marvellously."
+
+You benefit from the following effect:
+
+Reduces
+ the Reloading time by 
+-0.5 seconds
+.
+
+Bottle of Chloroform
+
+"A sweet-smelling organic compound with strong anaesthetic capabilities."
+
+Modifies the 
+Tonic
+ with the following effect:
+
+Increases
+ the size and spread of the 
+Gas Clouds
+ by 
++20 %
+.
+
+Flask of Bleach
+
+"A potent chemical which causes irritation, burns and lung damage."
+
+Modifies the 
+Tonic
+ with the following effect:
+
+Increases
+ the strength of the 
+Hindered
+ 
+Status Effect
+ by 
+-2 %
+ to 
+-16 %
+.
+
+Smelly Inner Soles
+
+"A mouldy inner sole which gives much comfort to tired feet."
+
+While replenishing your 
+Bottles
+, you benefit from the following effect:
+
+Increases
+ your Movement speed by 
++15 %
+.
+
+Spirit of Hartshorn
+
+"A pungent chemical compound consisting of ammonia.
+One whiff is enough to jolt even the most sluggish of minds."
+
+Modifies the 
+Antidote
+ with the following effect:
+
+Increases
+ the size and spread of 
+Gas Clouds
+ by 
++20 %
+.
+
+Sulphuric Acid Vial
+
+"A thin and clear combustible liquid which numbs the mind when inhaled."
+
+Survivors afflicted by the 
+Tonic
+ suffer from the following effect:
+
+Causes the 
+Mangled
+ 
+Status Effect
+ for 
+70 seconds
+.
+
+Cheap Gin Bottle
+
+"When the night is rough and the day is rougher, a little hair of the dog will give you a boost."
+
+Modifies the 
+Antidote
+ with the following effect:
+
+Increases
+ the strength of the 
+Haste
+ 
+Status Effect
+ by 
++3 %
+ to 
++17 %
+.
+
+Cigar Box
+
+"A grim and incomplete collection of fingers.
+Fills The Clown with longing and focuses his chemical crafting abilities."
+
+Modifies the 
+Antidote
+ with the following effect:
+
+The 
+Auras
+ of all Players within 
+6 metres
+ are revealed to the 
+Invigorated Players
+ for 
+6 seconds
+.
+
+Ether 15 Vol%
+
+"A highly volatile organic compound, toxic at this concentration."
+
+Modifies the 
+Tonic
+ with the following effect:
+
+Increases
+ the duration of 
+Intoxication
+ by 
++0.5 seconds
+.
+
+Garish Make-Up Kit
+
+"Some for the face and some for the Antidote.
+The unknown compound intensifies the Antidote's effect."
+
+Modifies the 
+Antidote
+ with the following effect:
+
+Increases
+ the duration of 
+Invigoration
+ by 
++2 seconds
+.
+
+Redhead's Pinkie Finger
+
+"The prized pinkie finger of a redhead.
+Faintly fragrant.
+Tastes of potpourri and varnish."
+
+Modifies the 
+Tonic
+ with the following effect:
+
+Survivors hit directly with its 
+Bottle
+ suffer from the 
+Exposed
+ 
+Status Effect
+ while 
+Intoxicated
+.
+
+Redhead's Pinkie Finger
+ limits the number of carried 
+Bottles
+ to 
+1
+.
+
+Tattoo's Middle Finger
+
+"The prized middle finger of a large tattooed man.
+Has a faint taste of machinery oil."
+
+Survivors afflicted by the 
+Tonic
+ or the 
+Antidote
+ suffer from the following effect:
+
+Their 
+Auras
+ are revealed to you for 
+6 seconds
+.
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There are 
+2
+ Achievements related to 
+The Clown
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Clown
+
+Playing as The 
+Clown
+, achieve a 
+Merciless Victory
+ using only his 
+3
+ Unique Perks: 
+Bamboozle
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+You benefit from the following permanent effect:
+
+Increases
+ your Vaulting speed by 
+5
+/
+10
+/
+15
+ 
+%
+.
+
+Whenever you vault a 
+Window
+, 
+Bamboozle
+ calls upon The 
+Entity
+ for the following effect:
+
+Blocks
+ it to all Survivors for 
+8
+/
+12
+/
+16
+ 
+seconds
+.
+
+Vaulting it again within that time resets the timer.
+
+Vaulting a different one transfers the effect to it instead.
+
+Bamboozle
+ does not extend its effects to vaulting a dropped 
+Pallet
+.
+
+, 
+Coulrophobia
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Even those without a fear of clowns know to be terrified of you."
+
+Survivors inside your 
+Terror Radius
+ suffer from the following effects:
+
+Reduces
+ all Healing speeds by 
+20
+/
+25
+/
+30
+ 
+%
+.
+
+Increases
+ the Pointer-Rotation speed of 
+Healing Skill Checks
+ by 
++50 
+.
+
+, and 
+Pop Goes the Weasel
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"A deep bond with The Entity unlocks great strength."
+
+After hooking a Survivor, 
+Pop Goes the Weasel
+ activates for 
+35
+/
+40
+/
+45
+ 
+seconds
+.
+While active, manually damaging a 
+Generator
+ triggers the following effect:
+
+Increases the regression amount by 
++15 
+ resulting in 
+20 
+ regression.
+
+Pop Goes the Weasel
+ deactivates after use or once its timer elapses.
+
+.
+
+Smoked
+
+Playing as The 
+Clown
+, down intoxicated Survivors a total of 
+100 times
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Clown
+:
+
+Base Cosmetics
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Smiles and Sunshine
+
+Common
+
+Is it the face of contentment? Joy? Happiness? Or is it simply a façade intended to hide the evil intentions of a psychotic killer? Smile!
+
+Smell My Flower
+
+Common
+
+The Stolen attire of a much smaller ringmaster. Classic tailcoat with button-up shirt pushed far beyond its stretching point.
+
+Madame Butterfly
+
+Common
+
+An oversized butterfly knife, as accustomed to inflicting torture and pain as it is to removing limbs and appendages.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Smiles and Blood
+
+Rare
+
+This is the bloody face of contentment. Joy.
+
+Prestige Level 6 Reward
+
+Smell My Blood
+
+Rare
+
+The Stolen attire of a murdered ringmaster. Classic tailcoat with button-up shirt, covered in gore and pushed far beyond its stretching point.
+
+Prestige Level 5 Reward
+
+Madame Bloodyfly
+
+Rare
+
+An oversized butterfly knife, as accustomed to inflicting torture and pain as it is to removing limbs and appendages. It has clearly done both recently.
+
+Prestige Level 4 Reward
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+He kept the fingers of his victims as he travelled with circuses across the country.
+
+Alternatives
+
+Special
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Event
+
+Frosty Eyes
+
+Uncommon
+
+Heart chilling eyes of the cold blooded.
+
+"Have a Wonderful Winter 2018-2019!" - The Dead by Daylight Team
+
+Winter Solstice 2018
+
+Lethal Lollipop
+
+Very Rare
+
+Once sharpened, this hard candy could be sharp enough to cut through skin.
+
+Buying a Pack of 
+Auric Cells
+ in 
+Haunted by Daylight 2023
+
+Event
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Event
+
+Exclusive to Event Participation
+
+Crown of the Entity
+
+Event
+
+A crown emanating a festive and ominous aura created by the Entity's biggest fan.
+
+Fourth Year Anniversary
+
+Yes
+
+5th Anniversary Crown
+
+Event
+
+A crown crafted for a very special anniversary.
+
+"Thank you for supporting & inspiring us along the years!" - The Dead by Daylight Team
+
+Fifth Year Anniversary
+
+Yes
+
+Savage Smile
+
+Event
+
+A dressy doll hat to match the dark stripes covering his face for a unique performance. Who could mistake that face lurking in the dark?
+
+Lurking Stripes
+
+Yes
+
+Toothed Fir
+
+Event
+
+He treasured his custom-made knife that added a celebratory touch to each finger-cut.
+
+Bone Chill 2023
+
+Yes
+
+Paper Cap
+
+Event
+
+He wore the hat to entertain the customers.
+
+Scorching Summer BBQ 2023
+ 
+Tome: Level 1
+
+Yes
+
+Stinky Apron
+
+Event
+
+He never bothered to wash it.
+
+Scorching Summer BBQ 2023
+ 
+Tome:Level 2
+
+Yes
+
+Cooking Knife
+
+Event
+
+A knife that was used to cut sausage links,among other things.
+
+Scorching Summer BBQ 2023
+ 
+Tome Level 1
+
+Yes
+
+Clown's Mask
+
+Event
+
+A mask he found himself wearing at the masquerade ball.
+
+Twisted Masquerade 2024
+
+Yes
+
+ Rift
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Pumpkin Eater
+
+Halloween 2021
+
+Tome 9 - Crescendo
+
+18 October 2022 (Tuesday)
+
+Description
+
+A jack-o'-lantern inspired outfit that's sure to terrify the trick-or-treaters.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Classic Jack
+
+Halloween 2021
+
+27
+
+Behind the mask was a bitter, angry face demanding blood.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Belly Laughs
+
+Halloween 2021
+
+39
+
+Show your victim how happy you are to see them with this costume.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Carving Knife
+
+Halloween 2021
+
+20
+
+A versatile knife that can be used to carve up pumpkins or people.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Backstage Carnage
+
+Crazed Carnie
+
+Tome 5 - Unleashed
+
+17 February 2022 (Thursday)
+
+Description
+
+The most heart-stopping moments occurred outside of the fair’s spotlight.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Last Laugh
+
+Crazed Carnie
+
+47
+
+It was a lot of work tracking down a killer in his territory and he was getting surly. Enough with the gags, it was time to inflict some pain.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Knock’em Dead
+
+Crazed Carnie
+
+52
+
+It’s the old ‘fat man in a little coat’ joke, but the punchline here is that he slashes your belly and cuts out your spleen. Admittedly, it’s never gotten many laughs from the audience.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Fish Gutter
+
+Crazed Carnie
+
+35
+
+A thin-bladed knife made for gutting fish. Requires a bit of strength but allows for a much more personal feeling when cutting through sinew.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Great Ape
+
+Guardians & Shadows
+
+Tome 20 - Mythic
+
+22 July 2025 (Tuesday)
+
+Description
+
+He didn't like the look of that orangutan from the moment it joined the circus, and he resolved to make its life miserable.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Auburn Pads
+
+Guardians & Shadows
+
+24
+
+He would stare at the ape for hours, imagining all the ways he could make it disappear.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Monkey Suit
+
+Guardians & Shadows
+
+20
+
+The orangutan spoke to him telepathically, and his heart stopped in his chest.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Safety Blade
+
+Guardians & Shadows
+
+17
+
+The orangutan told him to be nicer to the animals, especially Maurice. He backed away, trying not to run.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Pagliaccio
+
+Community
+
+Tome 18 - Revision
+
+19 November 2024 (Tuesday)
+
+Description
+
+Jeffrey learned there was an opera about a killer clown being performed in the park.
+Design inspired by 
+Schmeesky
+.
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Fateful Glance
+
+Community
+
+48
+
+He watched as the clown onstage discovered his wife had been unfaithful.
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Song Of Death
+
+Community
+
+55
+
+The clown onstage killed his wife and lover, the curtain dropped, and Jeffrey laughed uproariously.
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Singer’s Knife
+
+Community
+
+57
+
+Jeffrey brought the actor to the caravan and showed him what a real killer clown looks like.
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Summer Fun Fair
+
+Entertainer
+
+Tome 2 - Reckoning
+
+05 August 2021 (Thursday)
+
+Description
+
+A vibrant costume to mask the rancid smell emanating from his clothes.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Funny Face Mask (Purple)
+
+Entertainer
+
+19
+
+Sometimes, one requires a mask to hide the anguish and torment within.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Pull My Finger (White / Turquoise)
+
+Entertainer
+
+26
+
+A classic, colorful clown costume with a bloodstained, ruffled collar.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Mr. Cutty (Purple)
+
+Entertainer
+
+44
+
+A large, foldable straight razor, used for more than just providing close shaves.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Bright Havoc
+
+Slice Of Life Collection
+
+Tome 17 - Commitment
+
+12 June 2018 (Tuesday)
+
+Description
+
+After a fruitless night, he was a bundle of fury amidst a stunning array of hues.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Lost Smile
+
+Slice Of Life Collection
+
+11
+
+The frustration was high, and his mood was murderous.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Last Chance
+
+Slice Of Life Collection
+
+15
+
+He planned to sneak past a worker in the morning to take them out.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Clean Knife
+
+Slice Of Life Collection
+
+8
+
+He spent the night sharpening the blade to calm his nerves.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Mr. Puddles
+
+Community
+
+Tome 2 - Reckoning
+
+14 December 2020 (Monday)
+
+Description
+
+It’s Jeffery Hawk’s fun-loving alter-ego, Mr. Puddles! He's your wacky elephant pal who leaves red puddles everywhere!
+Design inspired by 
+kangyaku
+.
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Mr. Puddles’ Disembodied Head
+
+Community
+
+7
+
+A silly elephant face that’s sure to bring a smile to the next disemboweled victim. Their insides feel warm and slimy, yay!
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Mr. Puddles’ Headless Body
+
+Community
+
+39
+
+The blood from a previous adventure is still soaked into the adorable pink fabric. Fun!
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Puddlemaker
+
+Community
+
+66
+
+This special blade is Mr. Puddles’ best buddy. It’s the power of friendship!
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Jesterfied
+
+Midsummer Mayhem Collection
+
+Tome 12 - Discordance
+
+12 June 2018 (Tuesday)
+
+Description
+
+What’s black, white, and red all over? Whatever it is, it’s coming and it has a knife.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Patterned Top Hat
+
+Midsummer Mayhem Collection
+
+15
+
+The sunburn left when wearing this hat was very strange.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Dizzying Patterns
+
+Midsummer Mayhem Collection
+
+63
+
+When asked what kind of pattern he wanted for this costume, his answer was simply, “yes.”
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Violence, Esq.
+
+Midsummer Mayhem Collection
+
+47
+
+A old-fashioned straight razor, perfect for putting up against necks.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Cartoon Special
+
+Deliverance
+
+Tome 8 - Deliverance
+
+09 August 2022 (Tuesday)
+
+Description
+
+A garish outfit that’s more fit for a cartoon than real life.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Rumpled Top Hat
+
+Deliverance
+
+70
+
+The height of clown fashion, balanced precariously on a clownish head.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Patch Clash
+
+Deliverance
+
+1
+
+You’ve got your stripes, solids, and polka-dots, paired with an offensive number of gaudy colors and patches. No problems here.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Shave Blade
+
+Deliverance
+
+23
+
+A handy razor for shaving that also works for slicing necks. Kind of a two-in-one deal.
+
+400
+
+7200
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Comedy Horror
+
+THE SHOWMAN
+
+18 September 2018 (Tuesday)
+
+Description
+
+Volunteers, step forward! We need fresh blood to start the show.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+The Kybalion
+
+THE SHOWMAN
+
+As above, so below. As below, so above.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Mime Artist Suit (Goofy)
+
+THE SHOWMAN
+
+A hand-stitched lapel tailcoat that carries deceitful devices.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Sir Cuts-a-Lot
+
+THE SHOWMAN
+
+An oversized switchblade, as accustomed to inflicting torture and pain as it is to removing limbs and appendages.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Shock Humor
+
+THE SHOWMAN
+
+18 September 2018 (Tuesday)
+
+Description
+
+Volunteers, step forward! We need fresh blood to start the show.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Thrice-Greatest
+
+THE SHOWMAN
+
+As above, so below. As below, so above.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Mime Artist Suit (Droll)
+
+THE SHOWMAN
+
+A hand-stitched lapel tailcoat that carries deceitful devices.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Dr. Choppy
+
+THE SHOWMAN
+
+An oversized switchblade, as accustomed to inflicting torture and pain as it is to removing limbs and appendages.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Pumpkin Eater
+
+Halloween 2021
+
+Tome 9 - Crescendo
+
+18 October 2022 (Tuesday)
+
+Description
+
+A jack-o'-lantern inspired outfit that's sure to terrify the trick-or-treaters.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Classic Jack
+
+Halloween 2021
+
+27
+
+Behind the mask was a bitter, angry face demanding blood.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Belly Laughs
+
+Halloween 2021
+
+39
+
+Show your victim how happy you are to see them with this costume.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Carving Knife
+
+Halloween 2021
+
+20
+
+A versatile knife that can be used to carve up pumpkins or people.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Backstage Carnage
+
+Crazed Carnie
+
+Tome 5 - Unleashed
+
+17 February 2022 (Thursday)
+
+Description
+
+The most heart-stopping moments occurred outside of the fair’s spotlight.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Last Laugh
+
+Crazed Carnie
+
+47
+
+It was a lot of work tracking down a killer in his territory and he was getting surly. Enough with the gags, it was time to inflict some pain.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Knock’em Dead
+
+Crazed Carnie
+
+52
+
+It’s the old ‘fat man in a little coat’ joke, but the punchline here is that he slashes your belly and cuts out your spleen. Admittedly, it’s never gotten many laughs from the audience.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Fish Gutter
+
+Crazed Carnie
+
+35
+
+A thin-bladed knife made for gutting fish. Requires a bit of strength but allows for a much more personal feeling when cutting through sinew.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Downtown Fair
+
+Street Performer
+
+03 October 2018 (Wednesday)
+
+Description
+
+Paint your best blood-stained smile for a parade that no one will forget.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Tilted Doll Hat
+
+Street Performer
+
+A dressy doll hat to adorn the hair you have stapled on for this unique performance.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Got Nothing in My Pockets
+
+Street Performer
+
+Don your cherry red stripes and white polka dots to rouse the crowd.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Uncle Carvey
+
+Street Performer
+
+A rusty folding pocket knife with a hand-carved rosewood handle.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Pulcinella
+
+DISPARATE ARTS
+
+29 May 2019 (Wednesday)
+
+Description
+
+One of the earliest causes of Coulrophobia.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Antique Wooden Mask
+
+DISPARATE ARTS
+
+A grotesque face, carved out of wood and worn by age. So weathered that it almost looks like skin.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Doublet and Hose
+
+DISPARATE ARTS
+
+Even in the 17th century, clowns were bright and colorful.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Theatrical Blade
+
+DISPARATE ARTS
+
+Theater knives generally have blades that retract into the handle, to protect the performers. This one doesn't.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Great Ape
+
+Guardians & Shadows
+
+Tome 20 - Mythic
+
+22 July 2025 (Tuesday)
+
+Description
+
+He didn't like the look of that orangutan from the moment it joined the circus, and he resolved to make its life miserable.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Auburn Pads
+
+Guardians & Shadows
+
+24
+
+He would stare at the ape for hours, imagining all the ways he could make it disappear.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Monkey Suit
+
+Guardians & Shadows
+
+20
+
+The orangutan spoke to him telepathically, and his heart stopped in his chest.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Safety Blade
+
+Guardians & Shadows
+
+17
+
+The orangutan told him to be nicer to the animals, especially Maurice. He backed away, trying not to run.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Seething Entertainer
+
+Hallowed Catalyst
+
+09 October 2019 (Wednesday)
+
+Description
+
+He took off when the substance provoked a profound hunger that made his belly swell with anticipation.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Carved Smile
+
+Hallowed Catalyst
+
+He carved a smile on his face that oozed with putrid matter.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Smell my Pustula
+
+Hallowed Catalyst
+
+His classic tailcoat burst open as his stomach inflated, tearing the flesh of his bulging belly.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Mr. Hallows
+
+Hallowed Catalyst
+
+A rudimentary stone knife injected with serum to inflict pain in stomach-churning style.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Eggs-Uberant
+
+SPRING ENSEMBLES
+
+02 April 2021 (Friday)
+
+Description
+
+It was the time of the year when families were starved for activities and delivered their children to any street performer vaguely fitting the effervescence of Spring.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Dangling Red Comb
+
+SPRING ENSEMBLES
+
+He smiled and promised chocolate to the kids, so they came rushing in. He still had it.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Joyous Chicken
+
+SPRING ENSEMBLES
+
+No one even took notice of the stretched state of his costume, completely unaware that he should not be trusted with anything, let alone the young and gullible.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Mr. Coco
+
+SPRING ENSEMBLES
+
+This special blade may seem polished and refined, but when used triggers some terrible, agonizing, screams.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Pagliaccio
+
+Community
+
+Tome 18 - Revision
+
+19 November 2024 (Tuesday)
+
+Description
+
+Jeffrey learned there was an opera about a killer clown being performed in the park.
+Design inspired by 
+Schmeesky
+.
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Fateful Glance
+
+Community
+
+48
+
+He watched as the clown onstage discovered his wife had been unfaithful.
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Song Of Death
+
+Community
+
+55
+
+The clown onstage killed his wife and lover, the curtain dropped, and Jeffrey laughed uproariously.
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Singer’s Knife
+
+Community
+
+57
+
+Jeffrey brought the actor to the caravan and showed him what a real killer clown looks like.
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Missing Cat
+
+Cursed Cats
+
+10 October 2023 (Tuesday)
+
+Description
+
+Kenneth used to read missing cat posters on his childhood streets.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Feline Gaze
+
+Cursed Cats
+
+He read each description and the circumstances of their disappearance carefully.
+
+Piece
+
+Name
+
+Collection
+
+Tabby Fur
+
+Cursed Cats
+
+He began to imagine in as much detail as possible what could have happened to the missing cat.
+
+Piece
+
+Name
+
+Collection
+
+Cat Paw
+
+Cursed Cats
+
+Kenneth wrote down his theories and added them to the missing poster, scaring the neighborhood.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Children's Parties
+
+THE ENTERTAINER
+
+12 June 2018 (Tuesday)
+
+Description
+
+Thou art an all-round family entertainer.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Funny Face Mask
+
+THE ENTERTAINER
+
+Turn your distress and tears into jest, your pain and sobbing into a funny face.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Pull My Finger
+
+THE ENTERTAINER
+
+Hey you! Pull my finger…
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Mr. Cutty
+
+THE ENTERTAINER
+
+A large, foldable straight razor, used for more than just providing close shaves.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Summer Fun Fair
+
+Entertainer
+
+Tome 2 - Reckoning
+
+05 August 2021 (Thursday)
+
+Description
+
+A vibrant costume to mask the rancid smell emanating from his clothes.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Funny Face Mask (Purple)
+
+Entertainer
+
+19
+
+Sometimes, one requires a mask to hide the anguish and torment within.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Pull My Finger (White / Turquoise)
+
+Entertainer
+
+26
+
+A classic, colorful clown costume with a bloodstained, ruffled collar.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Mr. Cutty (Purple)
+
+Entertainer
+
+44
+
+A large, foldable straight razor, used for more than just providing close shaves.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Lord of the Underworld
+
+Greek Legends
+
+28 July 2020 (Tuesday)
+
+Description
+
+Twisted by his exploration through The Fog, the myths of the Greek god Hades reshaped The Clown's repulsive body.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Goatish Skull
+
+Greek Legends
+
+Fearsome horns sprout from Jeffrey’s head and a golden mask, as grisly as his true visage, adorns him.
+
+Piece
+
+Name
+
+Collection
+
+Bloated Warrior
+
+Greek Legends
+
+A body formed of gluttony and carnage, with armor that barely contains him.
+
+Piece
+
+Name
+
+Collection
+
+Cerberus Shiv
+
+Greek Legends
+
+A diabolically sharp blade depicting the three-headed hellhound, it encourages its wielder to draw in close and make the battle personal.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Carnie Claws
+
+Holiday Horror
+
+19 December 2018 (Wednesday)
+
+Description
+
+Don't be lured in by the colorful lights and the sounds of sleigh bells.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Jolly Old Clown
+
+Holiday Horror
+
+Who could mistake that face? The white beard, the funny red nose and cloth cap. It has to be Santa, right?
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Surprise!
+
+Holiday Horror
+
+Santa has gifts for all of you, whether you've been good…or bad.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Letter Opener
+
+Holiday Horror
+
+Santa receives a lot of mail, so his letter opener needs to be long and very, very sharp. Would you like to see it?
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Lethal Trick
+
+Laugh N' Slash
+
+30 October 2024 (Wednesday)
+
+Description
+
+He searched for his friends in the haunted maze, searching frantically as he lost his way.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Lost Twinkle
+
+Laugh N' Slash
+
+Deep in the maze, a clown lay in a rainbow coffin, waiting to scare unsuspecting carnival-goers.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Shattering Heart
+
+Laugh N' Slash
+
+Kenneth clawed back his tears. He wandered past a colorful coffin, and screamed at the maniac that erupted from inside.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Childish Knife
+
+Laugh N' Slash
+
+When he came to, he was outside the maze, surrounded by concerned adults. In his hand was a knife he did not recognize.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Mr. Puddles
+
+Community
+
+Tome 2 - Reckoning
+
+14 December 2020 (Monday)
+
+Description
+
+It’s Jeffery Hawk’s fun-loving alter-ego, Mr. Puddles! He's your wacky elephant pal who leaves red puddles everywhere!
+Design inspired by 
+kangyaku
+.
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Mr. Puddles’ Disembodied Head
+
+Community
+
+7
+
+A silly elephant face that’s sure to bring a smile to the next disemboweled victim. Their insides feel warm and slimy, yay!
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Mr. Puddles’ Headless Body
+
+Community
+
+39
+
+The blood from a previous adventure is still soaked into the adorable pink fabric. Fun!
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Puddlemaker
+
+Community
+
+66
+
+This special blade is Mr. Puddles’ best buddy. It’s the power of friendship!
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Hot-Dog Cook
+
+Scorching BBQ
+
+06 August 2024 (Tuesday)
+
+Description
+
+He remembered helping out at the circus food stand.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Paper Cap
+
+Scorching BBQ
+
+He wore the hat to entertain the customers.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Stinky Apron
+
+Scorching BBQ
+
+He never bothered to wash it.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Cooking Knife
+
+Scorching BBQ
+
+A knife that was used to cut sausage links, among other things.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Cartoon Special
+
+Deliverance
+
+Tome 8 - Deliverance
+
+09 August 2022 (Tuesday)
+
+Description
+
+A garish outfit that’s more fit for a cartoon than real life.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Rumpled Top Hat
+
+Deliverance
+
+70
+
+The height of clown fashion, balanced precariously on a clownish head.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Patch Clash
+
+Deliverance
+
+1
+
+You’ve got your stripes, solids, and polka-dots, paired with an offensive number of gaudy colors and patches. No problems here.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Shave Blade
+
+Deliverance
+
+23
+
+A handy razor for shaving that also works for slicing necks. Kind of a two-in-one deal.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Lethal Scarecrow
+
+Days Gone By
+
+21 October 2025 (Tuesday)
+
+Description
+
+It was All Hallow's Eve, and the local farm needed extra hands for their hayride event.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Straw Hat
+
+Days Gone By
+
+The kids ran between the haybales and around the strange-looking scarecrow in the middle of the field.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Sunflower Boutinniere
+
+Days Gone By
+
+The kids threw fallen crabapples at the scarecrow, cackling wildly at their naughty little game.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Harvester of Tears
+
+Days Gone By
+
+The scarecrow could take it no longer. The screams could be heard in every corner of the farm.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Bad Entertainer
+
+Party Hard
+
+19 August 2025 (Tuesday)
+
+Description
+
+He didn't have cash to spend on a Captain Machin costume for this birthday gig, so he figured he would just make his own get up.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Toony Eyes
+
+Party Hard
+
+He passed through the garden gate, expecting the sound of happy laughter. Instead, all he heard was frightened screaming.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Smelly Costume
+
+Party Hard
+
+He stumbled around the garden, losing his balance in the heavy costume. He tripped and fell face-first into a tall birthday cake.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Party's Edge
+
+Party Hard
+
+The kids raced to their parents in tears. Someone started calling the cops, and Jeffrey decided the party was over.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Ringmaster Suit (Amusing)
+
+CLOWN ABERRATIONS
+
+A classic tailcoat with button-up shirt pushed far beyond its stretching point.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Ringmaster Suit (Cheerful)
+
+CLOWN ABERRATIONS
+
+A classic tailcoat with button-up shirt pushed far beyond its stretching point.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Ringmaster Suit (Comical)
+
+CLOWN ABERRATIONS
+
+A classic tailcoat with button-up shirt pushed far beyond its stretching point.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Ringmaster Suit (Jolly)
+
+CLOWN ABERRATIONS
+
+A classic tailcoat with button-up shirt pushed far beyond its stretching point.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Ringmaster Suit (Witty)
+
+CLOWN ABERRATIONS
+
+A classic tailcoat with button-up shirt pushed far beyond its stretching point.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Gleaming Scrap
+
+Blood Moon
+
+Originally an improvised weapon, the hunk of scrap metal felt more complete, more satisfying, as he held it in his hand.
+
+250
+
+Piece
+
+Name
+
+Savage Smile
+
+A dressy doll hat to match the dark stripes covering his face for a unique performance. Who could mistake that face lurking in the dark?
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Clown's Mask
+
+Twisted Masquerade
+
+A mask he found himself wearing at the masquerade ball.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Grim Circus
+
+Slipknot
+
+From behind his new mask, The Clown cackled at the thunderous clanging that resounded through the realm.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Lethal Lollipop
+
+Tricks and Treats
+
+Once sharpened, this hard candy could be sharp enough to cut through skin.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Ms. Gash
+
+THE ENTERTAINER
+
+A large, foldable straight razor, used for more than just providing close shaves.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Toothed Fir
+
+Bone Chill
+
+He treasured his custom-made knife that added a celebratory touch to each finger-cut.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Uncle Slicey
+
+THE ENTERTAINER
+
+A large, foldable straight razor, used for more than just providing close shaves.
+
+400
+
+7200
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Clown
+ is part of 
+3
+ DLCs:
+
+Chapter DLC:
+
+Curtain Call
+ (
+retired
+)
+
+Pack DLCs:
+
+Maddening Darkness Pack
+ (Chapter Pack)
+
+Terror Expansion Pack
+ (Character Pack)
+
+Change Log
+
+Patch 3.2.2
+Patch 4.0.0
+Patch 4.5.0
+Unknown Patch
+Patch 7.6.0
+Patch 9.1.0
+Patch 9.2.0
+Patch 3.2.2
+
+Quality of Life
+: adjusted the projectile-throwing interaction to increase its responsiveness.
+Patch 4.0.0
+
+Buff
+: throwing a 
+Bottle
+ no longer temporarily slows his Movement speed during the cool-down.
+Patch 4.5.0
+
+Rework
+: reworked 
+The Afterpiece Tonic
+ and a majority of its 
+Add-ons
+.
+
+Buff
+: added a secondary Power, 
+The Afterpiece Antidote
+, which can affect both 
+The Clown
+ and Survivors, temporarily boosting their Movement speed.
+
+Buff
+: reduced the 
+Reloading
+ time from 
+5 seconds
+ to 
+3 seconds
+.
+
+Quality of Life
+: adjusted some Add-ons to benefit from the new secondary power.
+
+Change
+: changed the effects of the Gas Clouds when hitting elevated surfaces, expanding into different areas rather than coating a single spot on walls or elevated positions.
+
+Change
+: 
+The Clown
+ now features a unique 
+Terror Radius
+ and Chase Music.
+
+Quality of Life
+: updated and increased level-of-detail of 
+The Clown's
+ character model and his visual effects.
+Unknown Patch
+
+Change
+: reassessed the difficulty rating from 
+Hard
+ to 
+Moderate
+.
+Patch 7.6.0
+
+Buff
+: increased the duration of the 
+Antidote
+ speed boost from 
+5 seconds
+ to 
+6 seconds
+.
+
+Buff
+: reduced the Activation delay of the 
+Antidote
+ Gas Cloud from 
+2.5 seconds
+ to 
+2 seconds
+.
+
+Buff
+: increased the default Carrying capacity of 
+Bottles
+ from 
+4
+ to 
+6
+.
+
+Change
+: reduced the intensity of the 
+Tonic
+ Gas Clouds to reduce motion sickness in Players.
+Patch 9.1.0
+
+Buff
+: increased his Movement speed while 
+Reloading
+ from 
+1.61 m/s
+ to 
+2.3 m/s
+.
+
+Buff
+: further reduced the 
+Reloading
+ time from 
+3 seconds
+ to 
+2.5 seconds
+.
+
+Buff
+: improved the effects of the 
+Antidote
+:
+
+Increased the strength of the 
+Haste
+ Status Effect
+ from 
++10 %
+ to 
++12 %
+.
+
+Further reduced the Activation delay of the 
+Antidote
+ Gas Cloud from 
+2 seconds
+ to 
+1 seconds
+.
+
+Quality of Life
+: added input-buffering to the following interactions:
+
+Charging a 
+Throw
+.
+
+Performing a 
+Reload
+.
+
+Nerf
+: weakened the effects of the 
+Tonic
+:
+
+Reduced the strength of the 
+Hindered
+ Status Effect
+ from 
+-15 %
+ to 
+-14 %
+.
+
+Reduced the Linger duration of the 
+Hindered
+ Status Effect
+ from 
+2 seconds
+ to 
+1 seconds
+.
+
+Change
+: adjusted several 
+Add-ons
+.
+Patch 9.2.0
+
+Buff
+: Increased the Linger duration of the 
+Hindered
+ Status Effect
+ granted by the 
+Tonic
+ from 
+1 second
+ to 
+1.6 seconds
+.
+
+Nerf
+: Increased the Activation delay of the 
+Antidote
+ Gas Cloud from 
+1 second
+ to 
+1.6 seconds
+.
+
+Trivia
+
+General
+
+The Clown
+ was the first Killer featuring a range of facial expressions, though to a far lesser degree than The 
+Spirit
+ who received a unique facial rig with a much wider range of expressions.
+
+The Clown
+ came without a home realm, setting up his circus at the Chapel on the grounds of 
+Crotus Prenn Asylum
+ instead.
+
+The Clown
+ was initially teased through postcards given to attendees of PAX East 2018.
+
+The 
+Houndmaster
+'s voicelines hint that they might be friends.
+
+Cosmetics
+
+The Clown's
+ 
+Pagliaccio
+ is inspired by the Italian opera by Ruggero Leoncavallo (1892). It tells the tale of Canio, actor and leader of a commedia dell'arte theatrical company, who murders his wife Nedda and her lover Silvio on stage during a performance.
+
+Development
+
+During pre-development, the Developers brainstormed two possible Killers concepts.
+
+One was a World War 1 soldier who could throw gas grenades, and the other was a clown who threw balloons which the Killer could teleport to, as well as revealing nearby Survivor 
+Auras
+.
+
+Both designs were considered interesting, and this was combined into a clown who threw gas grenades.
+
+The 
+Afterpiece Tonic
+ is referred to as 
+"Gas Bomb"
+ in the Game files.
+
+Some WIP names were 
+"The Ringmaster"
+ or 
+"The Medicine Man"
+.
+
+Maurice
+
+ 
+Maurice
+ resting near the caravan.
+
+Maurice
+ is 
+The Clown's
+ horse that pulled his caravan and accompanied him into The 
+Entity
+'s Realm.
+
+Maurice
+ can be seen on the Map 
+Father Campbell's Chapel
+, where he is lying on a bed of straw in the carnival section of the Map. He cannot be interacted with by the players, but occasionally neighs while looking around.
+
+Maurice
+ was disfigured from the transition into The 
+Entity
+'s Realm, having been severely burnt on one side of his body and becoming blind. As a compensation for this, it was granted to him a demonic-looking third eye.
+
+Maurice
+ seems to be a mystical telepathic horse capable of communicating with people.
+
+The "Maurice the Great Mystic" depicts a carnival advertisment for 
+Maurice
+ before they entered The 
+Entity
+'s Realm, as a mystic horse.
+
+In the Tomes he speaks to 
+Saku Nakano
+.
+
+In 
+The House of Arkham (IV)
+, he begged to be saved from the tentacled monster which held him captive.
+
+In 
+The House of Arkham (V)
+, he discussed the situation they were in with 
+Saku
+, stating that he doesn't "like this place, let’s get out of here."
+
+A third eye is a popular expression for possessing mystical mental powers.
+
+Maurice
+ mysteriously disappeared from 
+Father Campbell's Chapel
+ for a period of time following the release of 
+Roots of Dread
+.
+
+The prevailing theory for his disappearance was that he was consumed by The 
+Dredge
+. This was supported by a unique idle animation in the Lobby: occasionally, a horse's head would drop from The 
+Dredge
+'s mass before being quickly dragged back inside.
+
+This head shares the exact same character model as 
+Maurice
+, with the exception of the third eye's socket being empty.
+
+The Developers teased this connection by posting a 'missing' poster on Twitter shortly after 
+Maurice
+ vanished (see 
+Gallery
+).
+
+Eventually, The 
+Dredge
+ received a cosmetic named 
+Memory of Maurice
+ themed around horses. When performing specific actions it triggers the same distinct whinnying sounds 
+Maurice
+ makes at the carnival.
+
+Memento Mori
+
+The Clown
+ was the second Killer to have two Memento Mori animations, the first being The 
+Shape
+.
+
+Killing a female Survivor will have 
+The Clown
+ cut off their right index finger.
+
+Killing a male Survivor will have 
+The Clown
+ cut off their left pinkie finger.
+
+Originally, 
+The Clown
+ only had his current animation for killing a female Survivor.
+This was changed due to the release of 
+Ash Williams
+, who had a prosthetic right hand.
+
+Voice Actor
+
+The Clown
+ is voiced by Sébastien Duval, who at that time worked as the Tech Lead Programmer on the Game.
+
+Gallery
+
+For more go to the 
+Clown's Gallery
+
+In-game Assets
+
+The Clown
+
+The Clown (Portrait render)
+
+The Clown (Background image)
+
+Old Assets
+
+The Clown (Old Portrait render)
+
+Concept Art
+
+Early Design Sheet
+
+Early Design Sheet #2
+
+'Children's Parties' Concept Art
+
+'Downtown Fair' Concept Art
+
+'Carnie Claws' Concept Art
+
+'Pulcinella' Concept Art
+
+'Mr. Puddles' Concept Art (Designed by kangyaku.)
+
+'Mr. Puddles' BHVR Concept Art
+
+'Eggs-Uberant' Concept Art
+
+'Hot-Dog Cook' Concept Art
+
+'Missing Cat' Concept Art
+
+'Pagliaccio' Concept Art (Designed by Schmeesky.)
+
+Screenshots
+
+Others
+
+Missing poster for Maurice
+
+Maurice model render
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

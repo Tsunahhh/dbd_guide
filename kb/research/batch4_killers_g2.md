@@ -36,7 +36,7 @@ Règles d'usage ajoutées par l'audit P14 :
 ## 8. The Huntress (Anna) — archétype(s) : ranged | M1
 - **Version** : aucun rework 2025-2026 trouvé dans l'historique de [2] (9.0.0 → 10.1.2a) ; aucune recherche possible pour d'éventuels ajustements mineurs → statut LIVE présumé, UNCERTAIN.
 - **Données LIVE** (toutes UNCERTAIN-MM sauf mention) :
-  - Vitesse 4,4 m/s (confiance forte) ; TR 20 m (forte), remplacé par une **berceuse** (lullaby) audible au-delà du TR (portée exacte non vérifiée ; seed : 45 m) ; grande taille (forte).
+  - Vitesse 4,4 m/s ; TR 20 m (UNCERTAIN-MM, « confiance forte » subjective ; 20 m = exception à la règle d'origine de l'audit, 24 m pour un 4,4), remplacé par une **berceuse** (lullaby) audible au-delà du TR (portée exacte non vérifiée ; seed : 45 m) ; grande taille (forte).
   - **5 hachettes** de base : **UNCERTAIN-MM** (corrigé P14, était « confiance forte »). Le seed dit 7 : erreur relevée par l'audit [2] (« Huntress "7 hachettes" »), **mais l'audit ne donne pas la bonne valeur** : « 7 = FAUX » est prouvé, « 5 » vient de la mémoire du modèle. Add-ons de capacité en plus (+1/+2, noms et valeurs non vérifiés).
   - Recharge au **casier** (entrée dans le casier, animation de plusieurs secondes, durée non vérifiée).
   - Ralentie pendant l'armement (seed 3,08 m/s : non vérifié). Hachette plus rapide et plus loin si chargée plus longtemps, trajectoire en cloche (FACT de principe [UNCERTAIN-MM], valeurs non vérifiées).
@@ -100,7 +100,7 @@ Règles d'usage ajoutées par l'audit P14 :
 - **Version** : **rework au 8.5.0 (28/01/2025)**, VERIFIED dans [2]. Contenu du rework **non lu** : toute valeur post-8.5.0 est UNCERTAIN. Statut LIVE.
 - **Données LIVE** (UNCERTAIN-MM, peut-être antérieures au rework) : 4,6 m/s ; TR 32 m pour les éveillés ; taille moyenne. Dream World : les survivants s'endorment progressivement. Endormis, ils ne perçoivent plus normalement son TR et voient le monde du rêve. Réveil : réveils (alarm clocks), skill check raté, aide d'un coéquipier, mise à terre (seed ; mécanique post-rework non vérifiée). Deux outils : Dream Snares (Hindered, projectile au sol) et Dream Pallets (fausses palettes). Téléportation (Dream Projection) vers les générateurs. Valeurs du seed (12 %, 4,5 s, 45 s de cooldown global, 30 s de TP) : **toutes non vérifiées**.
 - **Identification** :
-  - Avant le reveal : **réveils (alarm clocks) posés sur la carte** dès le début (FACT probable, identification précoce) ; icône ou effets d'endormissement ; tic-tac et berceuse du rêve.
+  - Avant le reveal : **réveils (alarm clocks) posés sur la carte** dès le début (HYPOTHESIS [UNCERTAIN-MM], requalifié P14 : le rework 8.5.0 n'a pas été lu ; identification précoce si confirmé) ; icône ou effets d'endormissement ; tic-tac et berceuse du rêve.
   - Pouvoir en action : traînées de snares au sol ; palettes qui « apparaissent » en chase ; son et effet de sa projection sur un gen.
   - Stratégie probable : 3-gen par téléportation, pression de fin de partie, parfois build de portes (Remember Me, Blood Warden, selon le seed) (HEURISTIC).
 - **Ce qu'il cherche en chase** : snares : lignes droites et couloirs, fenêtres (vault bloqué ou ralenti selon le seed) ; pallets : fausses palettes à côté des vraies pour obtenir un mauvais choix (HEURISTIC).
@@ -109,7 +109,7 @@ Règles d'usage ajoutées par l'audit P14 :
 - **Counterplay** :
   - Mécanique : contourner les snares plutôt que les traverser ; ne pas parier une chase sur une palette inconnue.
   - Macro : se réveiller aux réveils quand c'est rentable ; en réparation, rester attentif au signal de projection sur son gen (HEURISTIC).
-  - Équipe : se réveiller mutuellement quand on est proches ; ne pas laisser toute l'équipe endormie en fin de partie (EXPERT OPINION non sourcée).
+  - Équipe : se réveiller mutuellement quand on est proches ; ne pas laisser toute l'équipe endormie en fin de partie (HEURISTIC ; en SoloQ, se réveiller soi-même aux réveils plutôt que compter sur un coéquipier).
 - **Habitudes punissables** : rester endormi longtemps sans surveiller ; utiliser une palette « nouvelle » ; réparer à plusieurs sur le gen visé par la TP ; ouvrir les portes à découvert contre un build de portes.
 - **Adaptations avancées** : face à un build de fin de partie (Remember Me, Blood Warden, No Way Out, etc.), l'ouverture des portes devient une décision d'équipe, qu'il faut préparer en amont (SITUATIONAL).
 - **Add-ons qui changent la décision** : non vérifiables (rework 8.5.0 : les noms et effets du seed, Z-Block, Paint Thinner, Black Box, Class Photo, Unicorn Block, sont possiblement obsolètes).
@@ -121,21 +121,21 @@ Règles d'usage ajoutées par l'audit P14 :
 ## 11. The Pig (Amanda Young) — archétype(s) : furtif | zone/piège (Reverse Bear Traps) | M1
 - **Version** : **buffs au 9.1.0 (29/07/2025)**, VERIFIED dans [2] ; valeurs non lues. Statut LIVE.
 - **Données LIVE** (UNCERTAIN-MM) :
-  - Vitesse 4,6 m/s. **TR 32 m** selon la mémoire du modèle, le seed dit 24 m : voir CONFLICT-L4G2-02. Taille moyenne. **Undetectable accroupie** (FACT) ; vitesse accroupie (seed 4,0 m/s, buff 9.1) non vérifiée.
+  - Vitesse 4,6 m/s. **TR 32 m** selon la mémoire du modèle, le seed dit 24 m : voir CONFLICT-L4G2-02. Taille moyenne. **Undetectable accroupie** (FACT de principe [UNCERTAIN-MM] ; Undetectable = pas de TR ni de red stain, FACT [AUDIT]) ; vitesse accroupie (seed 4,0 m/s, buff 9.1) non vérifiée.
   - Ambush Dash : charge audible (**rugissement**), puis ruée courte.
-  - **4 Reverse Bear Traps** (forte confiance), posés sur un survivant à terre. Ils s'activent à la complétion d'un générateur. Compte à rebours (seed 150 s) en pause en chase. Pour les retirer : fouiller les **Jigsaw Boxes** (nombre non vérifié). **Un survivant qui franchit la porte de sortie avec un piège actif meurt** (FACT, forte confiance). Comportement une fois les gens terminés (pose et activation) : non vérifié.
+  - **4 Reverse Bear Traps** (UNCERTAIN-MM, « confiance forte » subjective), posés sur un survivant à terre. Ils s'activent à la complétion d'un générateur. Compte à rebours (seed 150 s) en pause en chase. Pour les retirer : fouiller les **Jigsaw Boxes** (nombre non vérifié). **Un survivant qui franchit la porte de sortie avec un piège actif meurt** (FACT de principe [UNCERTAIN-MM], cohérent avec la ligne L4G2-08 des Claims ; le conseil « ne pas sortir piégé » reste prudent quelle que soit la vérification). Comportement une fois les gens terminés (pose et activation) : non vérifié.
 - **Identification** :
   - Avant le reveal : **Jigsaw Boxes visibles sur la carte** (probable dès le début, UNCERTAIN-MM) ; TR absent puis présent de façon intermittente (accroupissements) ; rugissement de dash.
   - Pouvoir en action : piège sur la tête, minuteur, rugissement.
   - Stratégie probable : poser les pièges tôt pour retirer des survivants des gens, embuscades accroupie près des gens (HEURISTIC).
 - **Ce qu'il cherche en chase** : dash à courte portée sur des tiles courtes ; accroupissement près d'une fenêtre ou d'un coin pour cacher sa red stain et son TR (HEURISTIC).
-- **Tiles / structures** : le dash est prévisible (rugissement, charge) ; les murs et coins cassent la trajectoire. Les tiles moyennes et longues rendent le dash peu rentable (EXPERT OPINION non sourcée).
+- **Tiles / structures** : le dash est prévisible (rugissement, charge) ; les murs et coins cassent la trajectoire. Les tiles moyennes et longues rendent le dash peu rentable (HEURISTIC).
 - **Mindgames propres** : accroupissement près d'une boucle (TR et red stain disparaissent) ; faux départ de dash (HEURISTIC).
 - **Counterplay** :
   - Mécanique : au rugissement, contourner un coin ou vaulter au bon moment (HEURISTIC).
   - Macro, pièges : piège actif → aller directement vers les boîtes les plus proches, en annonçant celles déjà fouillées ; piège inactif → continuer à réparer, mais **décider en équipe** du moment où l'on termine un gen quand plusieurs survivants sont piégés (HEURISTIC, pas de règle absolue : 1 piégé près des boîtes ≠ 3 piégés).
-  - Stealth : vérifier les angles morts près des gens, surtout après un reset de TR (HEURISTIC). Efficacité de Spine Chill contre Undetectable : **UNCERTAIN** (non vérifiée).
-  - Fin de partie : ne jamais sortir avec un piège actif (FACT).
+  - Stealth : vérifier les angles morts près des gens, surtout après un reset de TR (HEURISTIC). Efficacité de Spine Chill contre Undetectable : **UNCERTAIN** (non vérifiée ; Spine Chill reworkée au PTB 10.2.0, non LIVE).
+  - Fin de partie : ne jamais sortir avec un piège actif (mécanique : FACT de principe [UNCERTAIN-MM] ; le conseil est prudent dans tous les cas).
 - **Habitudes punissables** : quitter la chase pour chercher les boîtes au mauvais moment ; plusieurs piégés qui terminent un gen en même temps ; ignorer l'absence de TR près d'un gen.
 - **Adaptations avancées** : si un add-on modifie les boîtes ou les minuteries (Rules Set No.2, Crate of Gears, Amanda's Letter : effets non vérifiés), adapter le rythme de complétion des gens (SITUATIONAL).
 - **Add-ons qui changent la décision** : non vérifiables cette session.
@@ -146,13 +146,13 @@ Règles d'usage ajoutées par l'audit P14 :
 
 ## 12. The Clown (Kenneth Chase) — archétype(s) : anti-loop (Hindered) | mobilité (Haste)
 - **Version** : **buffs au 9.1.0 (29/07/2025)**, VERIFIED dans [2] ; valeurs non lues. Statut LIVE.
-- **Données LIVE** (UNCERTAIN-MM) : 4,6 m/s ; TR 32 m ; grande taille. Afterpiece Tonic (gaz rose) : Intoxicated (vision troublée, toux, Hindered) ; Antidote (gaz jaune) : Haste **pour lui ET pour les survivants** (FACT, forte confiance). Recharge des bouteilles : fenêtre de répit. Valeurs du seed (14 %, 12 %, 6 s, 1,6 s, 6 bouteilles) : non vérifiées. Blocage des fast vaults sous intoxication : **UNCERTAIN**.
+- **Données LIVE** (UNCERTAIN-MM) : 4,6 m/s ; TR 32 m ; grande taille. Afterpiece Tonic (gaz rose) : Intoxicated (vision troublée, toux, Hindered) ; Antidote (gaz jaune) : Haste **pour lui ET pour les survivants** (FACT de principe [UNCERTAIN-MM]). Interaction P14 (HYPOTHESIS) : depuis 9.6.0, deux Haste identiques issues de pouvoirs/perks se réduisent (DR, [2]) ; la Haste de l'Antidote cumulée à une Haste de perk (Sprint Burst…) serait donc atténuée — catégories exactes dans le manuel 9.6.1, non consulté. Recharge des bouteilles : fenêtre de répit. Valeurs du seed (14 %, 12 %, 6 s, 1,6 s, 6 bouteilles) : non vérifiées. Blocage des fast vaults sous intoxication : **UNCERTAIN**.
 - **Identification** : bruit de bouteilles et de verre ; nuages rose ou jaune ; toux des survivants intoxiqués ; recharge audible (HEURISTIC).
 - **Ce qu'il cherche en chase** : lancer du gaz sur la fenêtre ou la palette visée ; longue ligne droite en Antidote (HEURISTIC).
 - **Tiles / structures** : les obstacles hauts bloquent les bouteilles ; les tiles avec plusieurs sorties permettent de contourner le gaz rose (HEURISTIC).
 - **Mindgames propres** : gaz lancé pour couper une route, puis attaque sur l'autre sortie ; Antidote pour rattraper en fin de boucle (HEURISTIC).
 - **Counterplay** :
-  - Mécanique : contourner le gaz rose, ou le traverser au plus court ; **utiliser son gaz jaune** (FACT) ; gagner de la distance pendant qu'il recharge (HEURISTIC).
+  - Mécanique : contourner le gaz rose, ou le traverser au plus court ; **utiliser son gaz jaune** (mécanique : FACT de principe [UNCERTAIN-MM]) ; gagner de la distance pendant qu'il recharge (HEURISTIC).
   - Positionnel : éviter les longues lignes droites ouvertes.
   - Macro : cibler les tiles à obstacles hauts.
 - **Habitudes punissables** : courir dans un nuage rose ; tenir une boucle en ligne droite ; rester groupés dans le gaz.
@@ -165,19 +165,20 @@ Règles d'usage ajoutées par l'audit P14 :
 
 ## 13. The Spirit (Rin Yamaoka) — archétype(s) : mobilité | furtif (mindgame)
 - **Version** : aucun changement 9.0.0 → 10.1.2a trouvé dans [2]. Statut LIVE présumé, UNCERTAIN.
-- **Données LIVE** (UNCERTAIN-MM) : **4,4 m/s ; TR 24 m** (forte confiance) ; taille moyenne. Yamaoka's Haunting : la Spirit laisse une **enveloppe (husk) immobile** et devient invisible et plus rapide ; elle ne peut pas attaquer en phase. Vitesse de phase environ ×1,6 (seed : 7,04 m/s), durée et cooldown non vérifiés. **Phasing passif** évoqué par le seed : UNCERTAIN (le modèle se souvient d'une suppression antérieure ; non vérifié).
+- **Données LIVE** (UNCERTAIN-MM) : **4,4 m/s ; TR 24 m** (UNCERTAIN-MM ; compatible avec la règle d'origine de l'audit, 24 m pour un tueur à 4,4 m/s) ; taille moyenne. Yamaoka's Haunting : la Spirit laisse une **enveloppe (husk) immobile** et devient invisible et plus rapide ; elle ne peut pas attaquer en phase. Vitesse de phase environ ×1,6 (seed : 7,04 m/s), durée et cooldown non vérifiés. **Phasing passif** évoqué par le seed : UNCERTAIN (le modèle se souvient d'une suppression antérieure ; non vérifié).
 - **Identification** :
-  - Avant le reveal : TR 24 m ; son de départ de phase ; **husk figé**, puis réapparition brusque (FACT).
+  - Avant le reveal : TR 24 m ; son de départ de phase ; **husk figé**, puis réapparition brusque (FACT de principe [UNCERTAIN-MM]).
   - Pouvoir en action : husk immobile et Spirit invisible, herbe qui bouge, son directionnel (UNCERTAIN-MM).
   - Stratégie probable : chases rapides, pression par la mobilité (HEURISTIC).
 - **Ce qu'il cherche en chase** : un survivant qui court (scratch marks) et qui gémit (blessé) ; un survivant qui garde une palette « pour le stun » (HEURISTIC).
-- **Tiles / structures** : **jeter la palette tôt puis marcher** est souvent plus fiable que tenir (EXPERT OPINION non sourcée) ; les LOS hautes et les tiles connectées donnent des options de « double-back » (HEURISTIC).
+- **Tiles / structures** : **jeter la palette tôt puis marcher** est souvent plus fiable que tenir (HEURISTIC) ; les LOS hautes et les tiles connectées donnent des options de « double-back » (HEURISTIC).
 - **Mindgames propres** : fausse phase (rester immobile), phase courte, phase à travers une palette (HEURISTIC).
 - **Counterplay** :
-  - Mécanique : **regarder le husk** (s'il est figé, elle est probablement en phase) ; **marcher ou s'arrêter** (pas de scratch marks) quand elle phase près de soi (EXPERT OPINION).
-  - Perks : Iron Will (bruits de blessure), perks anti-scratch marks (Lucky Break, Urban Evasion), cités par le seed : utiles, sans garantie (SITUATIONAL).
+  - Mécanique : **regarder le husk** (s'il est figé, elle est probablement en phase) ; **marcher ou s'arrêter** (pas de scratch marks) quand elle phase près de soi (HEURISTIC). Base vérifiée (calcul P14) : la marche à 2,26 m/s = 56,5 % de la course, sous le seuil de 60 % au-delà duquel les griffures apparaissent (FACT [AUDIT], SS). **Limites (§26)** : c'est un mix-up, pas une règle — une Spirit qui attend ou feinte l'arrêt l'exploite ; **blessé**, marcher ou s'arrêter laisse les grognements et les flaques de sang : l'arrêt prolongé blessé est le pire cas ; varier marcher / courir / changer de côté.
+  - Interaction (FACT [AUDIT]) : juste après un décrochage, l'Elusive basekit (10 s) supprime griffures, grognements et flaques : fenêtre où la Spirit perd ses trois indices (ne s'applique pas une fois les gens alimentés).
+  - Perks : Iron Will (grognements −80/90/100 %, inactive si Exhausted : [AUDIT] SS), perks anti-scratch marks (Lucky Break ; Urban Evasion accélère la marche accroupie, qui ne laisse pas de griffures), cités par le seed : utiles, sans garantie (SITUATIONAL).
   - Macro : quitter la tile pendant son cooldown (valeur non vérifiée) (HEURISTIC).
-- **Habitudes punissables** : courir en ligne droite quand elle phase ; deviner au hasard ; tenir la même palette plusieurs fois.
+- **Habitudes punissables** : courir en ligne droite quand elle phase ; deviner **sans lire les indices** (husk, son, herbe) — un choix imprévisible reste légitime quand aucun indice n'existe ; tenir la même palette plusieurs fois.
 - **Adaptations avancées** : si le son de phase est absent, un add-on silencieux est probable (Prayer Beads Bracelet, effet LIVE non vérifié) : jouer plus « à l'aveugle », en misant sur les pauses et la marche.
 - **Add-ons qui changent la décision** : non vérifiables (Prayer Beads, Rusty Flute, Yakuyoke Amulet, Mother-Daughter Ring).
 - **Implications de carte** : grandes cartes = sa mobilité est pleinement utile (HEURISTIC).
@@ -187,17 +188,17 @@ Règles d'usage ajoutées par l'audit P14 :
 
 ## 14. The Legion (Frank, Julie, Susie, Joey) — archétype(s) : M1 | info (Frenzy) | slug indirect (Deep Wound)
 - **Version** : aucun changement 9.0.0 → 10.1.2a trouvé dans [2]. La « désactivation temporaire puis réactivation au 9.6.0 » du seed : **non documentée dans [2]**, UNCERTAIN. Statut LIVE.
-- **Données LIVE** (UNCERTAIN-MM) : 4,6 m/s ; TR 32 m. Feral Frenzy : plus rapide, vaults de palettes et fenêtres, révèle en Killer Instinct les survivants non touchés ; le Feral Slash inflige Deep Wound (timer à mender) ; fatigue à la fin du Frenzy. **« Le 5e Feral Slash met à terre »** (seed) : le modèle se souvient que le Frenzy ne met plus à terre depuis longtemps ; UNCERTAIN.
-- **Identification** : cris de Frenzy ; Killer Instinct ; Legion qui vault les palettes en Frenzy (FACT).
+- **Données LIVE** (UNCERTAIN-MM) : 4,6 m/s ; TR 32 m. Feral Frenzy : plus rapide, vaults de palettes et fenêtres, révèle en Killer Instinct les survivants non touchés ; le Feral Slash inflige Deep Wound (timer à mender) ; fatigue à la fin du Frenzy. **« Le 5e Feral Slash met à terre »** (seed) : le modèle se souvient que le Frenzy ne met plus à terre depuis longtemps ; UNCERTAIN. Tension à noter (P14) : l'audit donne la règle générale « un dégât sous Deep Wound = état mourant » [2] ; qu'un Feral Slash compte comme « dégât » sur un survivant déjà sous Deep Wound n'est pas vérifié.
+- **Identification** : cris de Frenzy ; Killer Instinct ; Legion qui vault les palettes en Frenzy (FACT de principe [UNCERTAIN-MM]).
 - **Ce qu'il cherche en chase** : blesser plusieurs survivants ; enchaîner avec un M1 (HEURISTIC).
 - **Tiles / structures** : en Frenzy, les palettes debout ne stoppent pas son vault ; le vrai stun ne s'obtient qu'hors Frenzy (HEURISTIC).
 - **Mindgames propres** : cancel du Frenzy avant la fatigue ; tourner autour d'une tile pour obtenir un 2e slash (HEURISTIC).
 - **Counterplay** :
-  - Mécanique : pendant sa fatigue, casser la LOS (FACT sur la fatigue).
-  - Macro : ne pas rester groupés ; mender au bon moment (le timer est en pause en chase selon le seed, UNCERTAIN) (HEURISTIC).
+  - Mécanique : pendant sa fatigue, casser la LOS (FACT de principe [UNCERTAIN-MM] sur la fatigue).
+  - Macro : ne pas rester groupés ; mender au bon moment (HEURISTIC). Base corrigée P14 (FACT [AUDIT], VERIFIED_PRIMARY, notes 8.6.0) : le minuteur de Deep Wound (20 s) est en pause **quand tu cours** ou pendant le mending — pas « en chase » ; mending 10 s seul, 6 s par un allié. Conséquence : marcher ou s'accroupir pour cacher tes griffures **consomme** le minuteur ; mender à deux fait gagner 4 s mais expose deux survivants.
   - Équipe : jouer blessé est « normal » contre Legion ; un soin complet n'est pas toujours rentable (HEURISTIC).
 - **Habitudes punissables** : se soigner à côté d'un gen occupé par plusieurs survivants ; laisser le Deep Wound expirer ; ignorer le Killer Instinct.
-- **Adaptations avancées** : si un add-on permet au Frenzy de casser les palettes (Iridescent Button, effet non vérifié), les palettes debout ne sont plus fiables en Frenzy.
+- **Adaptations avancées** : si un add-on permet au Frenzy de casser les palettes (Iridescent Button selon le seed ; la liste wiki.gg Pallets de l'audit cite bien « Legion (Frenzy + add-on) » parmi les destructions par pouvoir, [AUDIT] STRONG_SECONDARY, liste à reconfirmer ; nom de l'add-on non vérifié), les palettes debout ne sont plus fiables en Frenzy.
 - **Add-ons qui changent la décision** : non vérifiables.
 - **Implications de carte** : petites cartes = chaînage de slashs plus facile (HEURISTIC).
 - **Perks fréquentes** : non vérifiables. Teachables : Discordance, Mad Grit, Iron Maiden.
@@ -207,12 +208,12 @@ Règles d'usage ajoutées par l'audit P14 :
 ## 15. The Plague (Adiris) — archétype(s) : ranged (Corrupt Purge) | info/zone (fontaines) | infection
 - **Version** : aucun changement 9.0.0 → 10.1.2a trouvé dans [2]. Statut LIVE présumé, UNCERTAIN.
 - **Données LIVE** (UNCERTAIN-MM) : 4,6 m/s ; TR 32 m ; grande taille. Vile Purge : infecte survivants et objets ; à infection complète, le survivant est blessé et Broken. Pools of Devotion (fontaines) : les survivants s'y purifient, puis la fontaine devient **corrompue**. Si Plague boit à une fontaine corrompue : **Corrupt Purge** (vomi à distance qui blesse), durée seed 60 s. Fin de Corrupt Purge sur un stun : UNCERTAIN.
-- **Identification** : **fontaines (Pools of Devotion) sur la carte** (FACT probable, identification précoce) ; son de vomissement ; toux et vomissements des survivants ; objets infectés (UNCERTAIN-MM).
+- **Identification** : **fontaines (Pools of Devotion) sur la carte** (FACT de principe [UNCERTAIN-MM], identification précoce) ; son de vomissement ; toux et vomissements des survivants ; objets infectés (UNCERTAIN-MM).
 - **Ce qu'il cherche en chase** : Corrupt Purge : tirs en fin de boucle, au-dessus des palettes et des fenêtres ; survivants blessés en permanence (HEURISTIC).
 - **Tiles / structures** : en Corrupt Purge, LOS haute et murs = protection (HEURISTIC).
 - **Mindgames propres** : attendre la purification pour boire ; attaque en Corrupt Purge au bout de la boucle (HEURISTIC).
 - **Counterplay** :
-  - Macro : **ne pas purifier par réflexe**, surtout plusieurs à la suite, car chaque fontaine purifiée devient une arme potentielle (EXPERT OPINION) ; jouer Broken est viable, avec coordination (HEURISTIC).
+  - Macro : **ne pas purifier par réflexe**, surtout plusieurs à la suite, car chaque fontaine purifiée devient une arme potentielle (HEURISTIC) ; jouer Broken est viable, avec coordination (HEURISTIC).
   - Mécanique : Corrupt Purge → LOS et murs hauts (HEURISTIC).
   - Équipe : se purifier loin d'elle et au bon moment (HEURISTIC).
 - **Habitudes punissables** : purifier en rafale ; toucher des objets infectés en étant sain (seed) ; se soigner au lieu de réparer.
@@ -256,6 +257,7 @@ Règles d'usage ajoutées par l'audit P14 :
 - Source A : seed [1] : 24 m.
 - Source B : mémoire du modèle : 32 m.
 - Hypothèse : erreur du seed, ou changement 9.1.0 non lu.
+- Indice (audit P14) : règle d'origine « 32 m pour les tueurs à 4,6 m/s » (wiki.gg Terror Radius, SS, avec exceptions) → penche vers 32 m sans le prouver.
 - Résolution : UNRESOLVED (aucune vérification possible cette session).
 
 ## Écarts avec le guide seed

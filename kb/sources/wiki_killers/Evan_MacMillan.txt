@@ -1,0 +1,5366 @@
+# Evan MacMillan
+Source: https://deadbydaylight.wiki.gg/wiki/Evan_MacMillan (page complète via API, consultée le 27/09/2026)
+
+There is a vast monster of a man with a hideous grin torn across the mask that keeps stalking my every move. Similar to a hunter, he tracks us, priming devastating traps amongst the greenery. Extreme vigilance and a light step is essential in avoiding the blood-curdling clench of a bear trap or the clutches of what I've taken to calling "The Miserable Smiling Killer". I have but many times managed to get caught in one of these traps. I have nothing but a fear for the feeling of blunt trap spikes grinding against my bones or for the heavy and deliberate footsteps which always inevitably reveal a plastered, sadistic grin. With the traps and the Trapper, it has so far been a constant battle between looking up and looking down. 
+
+~ 
+ 
+Benedict Baker
+'s Journal, Nov. 1896 on The Trapper
+
+The Trapper
+
+Name
+
+Evan MacMillan
+
+Game Alias(es)
+
+"Chuckles"
+
+Gender
+
+Man
+
+Origin
+
+American
+
+Realm
+
+The MacMillan Estate
+
+Power
+
+Bear Trap
+
+Power 
+Attack
+ Type
+
+Special Attack
+
+(Trap Catches)
+
+Weapon
+
+The Cleaver
+
+Movement Speed
+
+115 % 
+|
+ 4.6 m/s
+
+Terror Radius
+
+32 metres
+
+Height 
+
+Tall
+
+Voice Actor
+
+Filip Ivanovic (BHVR)
+
+Breathing
+
+Metadata
+
+CharID
+
+K01
+
+Evan MacMillan
+ or 
+"The Trapper"
+ is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+He was introduced as a member of the original Killer Trio that released with the Game on 14 June 2016.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+2.1
+ 
+The Archives
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: The Cleaver
+
+3.3
+ 
+Power: Bear Trap
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for the Bear Trap
+
+3.5
+ 
+Innate Skill
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Base Cosmetics
+
+5.1.1
+ 
+Default
+
+5.1.2
+ 
+Prestige
+
+5.1.2.1
+ 
+Perk Charms
+
+5.1.2.2
+ 
+Prestige Badges
+
+5.2
+ 
+Alternatives
+
+5.2.1
+ 
+Special
+
+5.2.2
+ 
+Event
+
+5.2.3
+ 
+DLC
+
+5.2.4
+ 
+Exclusives
+
+5.3
+ 
+Rift
+
+5.4
+ 
+In-Game Store
+
+5.5
+ 
+Alternate Character Models
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+General
+
+8.2
+ 
+Cosmetics
+
+8.3
+ 
+Voice Actor
+
+9
+ 
+Gallery
+
+9.1
+ 
+In-game Assets
+
+9.2
+ 
+Official Art
+
+9.3
+ 
+Outfits
+
+9.4
+ 
+Official Animations
+
+9.5
+ 
+Old Assets
+
+9.6
+ 
+Concept Art
+
+9.7
+ 
+Screenshots
+
+10
+ 
+References
+
+Overview
+
+Armed with a bag of Bear Traps, The Trapper specialises in catching unsuspecting Survivors.
+By placing traps in high-traffic areas and thick patches of grass, he creates a deadly area that forces Survivors to move with caution.
+When dealing with The Trapper, a simple misstep can prove fatal.
+
+The Trapper
+ is an area-control Killer, able to apply pressure across the Map by placing deadly 
+Bear Traps
+ for Survivors to step into.
+
+His personal Perks, 
+Unnerving Presence
+, 
+Brutal Strength
+, and 
+Agitation
+, allow him to chase and carry Survivors more effectively.
+
+He is focused on physical attributes and making use of his strength and the Survivors' fear.
+
+Lore
+
+Evan MacMillan idolised his father. It wasn't just that he was heir to a great fortune, it was the way he ran the estate. Raised under his firm hand, Evan had taken to running the workforce with an iron hand. Production was always high and the MacMillan Estate prospered under father and son.
+
+As Archie MacMillan's mental health slowly degenerated, Evan protected him from the herd who wanted a piece of the fortune. No matter what his father asked of him, Evan would do.
+
+When Archie MacMillan finally snapped, Evan became his enforcer in what would become known as the worst mass murder in modern history. They never proved that Evan lead over a hundred men into those dark tunnels before detonating the explosives and sealing them to their fate. The tale of the MacMillan Estate is a tale of wealth and power gone very wrong.
+
+How many victims fell to the hands of father and son is unknown. No record is ever made of what became of Evan MacMillan. His father is another unsolved puzzle, found in the basement of his own warehouse - dead and abandoned.
+
+The Archives
+
+The table below lists additional Lore about 
+The Trapper
+ from 
+The Archives
+, either from 
+Tomes
+ that featured him or from individual Lore entries that mentioned him:
+
+Tome
+
+Entry
+
+Type
+
+Tome 1 - Awakening
+
+Blood, Brass and Grit
+
+Featured Character
+
+Tome 3 - Escalation
+
+Arcus 1256
+
+Mentioned
+
+Tome 8 - Deliverance
+
+Midnight in the Garden of Infinity (Video)
+
+Video Appearance
+
+Tome 12 - Discordance
+
+Journal of a Moving Picture. The Trapper.
+
+Mentioned
+
+Tome 23 - Cradle and Grave
+
+Evan MacMillan: Memory Fragments
+
+Featured Character
+
+Load-out
+
+Unique Perks
+
+The Trapper
+ comes with 
+3
+ 
+Perks
+ that are unique to him:
+
+ 
+
+Agitation
+
+This description is based on the changes announced for or featured in the upcoming Patch 10.2.0
+"You get excited in anticipation of hooking your prey."
+
+While carrying a Survivor, 
+Agitation
+ activates:
+
+Increases
+ your Carrying speed by 
+14
+/
+16
+/
+18
+ 
+%
+.
+
+Increases
+ your 
+Terror Radius
+ by 
++12 metres
+.
+
+"At some point, the excitement of hooking one of us becomes more important than the desire to kill us."
+
+ 
+
+Brutal Strength
+
+"Your great strength allows you to shred through your prey's defences."
+
+While performing the 
+Break or Damage
+ action on 
+Breakable Walls
+, 
+Pallets
+, or 
+Generators
+, 
+Brutal Strength
+ triggers its effect:
+
+Increases
+ the Action speed by 
+10
+/
+15
+/
+20
+ 
+%
+.
+
+"It is more than muscles. A dark power motivates the beast."
+
+ 
+
+Unnerving Presence
+
+"Your presence alone instils great fear."
+
+While inside your 
+Terror Radius
+, Survivors performing 
+Repairing
+ or 
+Healing
+ actions suffer from the following effects:
+
+Increases
+ the chances of triggering a 
+Skill Check
+ by 
++10 %
+.
+
+Reduces
+ the Success zone of those 
+Skill Checks
+ by 
+40
+/
+50
+/
+60
+ 
+%
+.
+
+"Its presence befalls us."
+
+Prestige
+
+Prestiging 
+The Trapper
+ will automatically add 
+Tier I
+ of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Trapper
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: The Cleaver
+
+The Cleaver
+ is the Primary Weapon of 
+The Trapper
+.
+A brutal cleaver, hammered by his own hands from the metals of the mine.
+
+Power: Bear Trap
+
+"A large foothold trap made of steel.
+Bear Traps are found lying around throughout the Trial Grounds, waiting to be picked up and set anywhere."
+SPECIAL TRAP: BEAR TRAP
+The Trapper
+ starts the Trial with 
+2
+ 
+Bear Traps
+ equipped.
+Additionally, 
+8
+ 
+Disarmed Bear Traps
+ spawn in random locations throughout the environment.
+
+The 
+Auras
+ of 
+Bear Traps
+ are revealed to 
+The Trapper
+ at all times.
+SPECIAL INTERACTION: COLLECTING TRAPS
+Press the 
+Interaction button
+ while standing near or above a 
+Bear Trap
+ to retrieve and collect it.
+The Trapper
+ may carry up to 
+2
+ 
+Bear Traps
+ at a time.
+SPECIAL INTERACTION: SETTING TRAPS
+Press and hold the 
+Power button
+ to set and arm a carried 
+Bear Trap
+:
+
+Grants a 
++7.5 %
+ 
+Haste
+ 
+Status Effect
+ for 
+5 seconds
+.
+
+Armed Bear Traps
+ trap and immobilise any Survivor stepping into them.
+
+This will also injure healthy Survivors.
+
+Trapped Survivors
+ can try to free themselves from it, which may take several attempts, or wait for another Survivor to rescue them.
+
+Armed Bear Traps
+ also temporarily trap and immobilise 
+The Trapper
+ stepping into them, until he frees his foot and resets it.
+
+This will cause any carried Survivor to escape from his shoulder.
+
+SPECIAL INTERACTION: RESETTING TRAPS
+Press and hold the 
+Power button
+ while standing above a 
+Disarmed Bear Trap
+ to reset and arm it.
+SPECIAL INTERACTION: CATCHING SURVIVORS
+Press the 
+Interaction button
+ while standing near a 
+Trapped Survivor
+ to lift them out of the 
+Bear Trap
+ and onto 
+The Trapper's
+ shoulder, immediately allowing him to carry them.
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Walking: 
+4.6 m/s
+
+Bear Traps:
+
+Setting time: 
+2.5 seconds
+
+The animation is split into three phases, with only the second phase being affected by Add-ons:
+
+Crouching down: 
+0.5 seconds
+
+Setting: 
+1.5 seconds
+
+Standing up: 
+0.5 seconds
+
+Disarm time: 
+3.5 seconds
+
+Escape Attempt time: 
+1.8 seconds
+
+Rescue time: 
+1.5 seconds
+
+Escape Attempt chance: 
+16.67 %
+
+This is per attempt, but capped at a maximum of 
+6 attempts
+, after which the action will always succeed.
+
+Setting buffer: 
+1.5 metres
+
+This refers to the minimum distance in-between two 
+Bear Traps
+
+Self-Catch Grace period: 
+3 seconds
+
+This prevents 
+The Trapper
+ from getting caught in his own 
+Bear Trap
+ right after setting one.
+
+Trap Pick-Up time: 
+1 second
+
+Colouring:
+
+Bear Trap
+ can be darkened by using the 
+Tar Bottle
+ Add-on, which makes them more difficult to spot for Survivors and more viable to place them in open spaces with few grass patches.
+
+Default
+
+Logwood Dye
+ (formerly)
+
+Tar Bottle
+
+Add-ons for the Bear Trap
+
+Icon
+
+Name
+
+Description
+
+Bear Oil
+
+Melted animal fat that can lubricate the Bear Traps squeaky joints.
+
+Setting a 
+Bear Trap
+ is silent.
+
+Makeshift Wrap
+
+A scratched and worn brace made of thick, cured animal skin.
+
+You are no longer caught in your own 
+Bear Traps
+, they are automatically disarmed instead.
+
+Padded Jaws
+
+"These padded jaws are meant to restrain, not to wound."
+
+Modifies the 
+Bear Traps
+ with the following effect:
+
+No longer inflict damage on trapped Survivors.
+
+Padded Jaws
+ grants 
++100 %
+ bonus 
+Bloodpoints
+ for triggering the 
+Trapped
+ Score Event
+.
+Padded Jaws
+ negates the effects of the 
+Serrated Jaws
+ and 
+Rusted Jaws
+ 
+Add-ons
+.
+
+Trapper Gloves
+
+Protective padded leather gloves.
+
+Increases
+ the Setting speed of the 
+Bear Trap
+ by 
++30 %
+.
+
+4-Coil Spring Kit
+
+A replacement kit for Bear Traps which changes the usual dual spring system to four coil springs, adding a great amount of strength to the Bear Traps hold.
+
+Increases
+ the Disarm time of the 
+Bear Trap
+ by 
++33 %
+.
+
+Coffee Grounds
+
+An old rusted can containing damp coffee grounds.
+
+Increases
+ the strength of the 
+Haste
+ 
+Status Effect
+ after setting a 
+Bear Trap
+ by 
++5 % 
+.
+
+Lengthened Jaws
+
+Jaws with long teeth that dig further into the flesh than a conventional Bear Traps.
+
+Survivors who escape from 
+Bear Traps
+ suffer from the 
+Deep Wound
+ 
+Status Effect
+.
+
+Serrated Jaws
+
+These replacement trap jaws have saw-like blades, causing awful open wounds when they snap.
+
+Survivors injured by a 
+Bear Trap
+ suffer from the 
+Haemorrhage
+ 
+Status Effect
+ until fully healed.
+
+"Like a predatory beast, it can smell and track blood."
+
+Wax Brick
+
+A block of wax used to lower friction and facilitate movement in mechanical parts.
+
+Increases
+ the Rescue and Escape times of the 
+Bear Trap
+ by 
++33 %
+.
+
+Fastening Tools
+
+A specialised set of tools used to fasten Bear Traps to ensure their effectiveness.
+
+Increases
+ the Rescue and Escape times from the 
+Bear Trap
+ by 
++25 %
+.
+
+Increases
+ the Setting speed of the 
+Bear Trap
+ by 
++50 %
+.
+
+Rusted Jaws
+
+These Bear Trap jaws are covered with crusty and volatile rust spots, making injuries particularly difficult to heal.
+
+Survivors injured by a 
+Bear Trap
+ suffer from the 
+Mangled
+ 
+Status Effect
+ for 
+70 seconds
+.
+
+Secondary Coil
+
+A secondary coil keeps the Bear Trap functional in times when the primary coil becomes unusable.
+
+Increases
+ the Disarm time of the 
+Bear Trap
+ by 
++50 %
+.
+
+Tar Bottle
+
+A black, matte and sticky substance that when applied to Bear Traps, makes them far less noticeable.
+
+Darkens
+ the 
+Bear Trap
+.
+
+Trapper Bag
+
+A cured leather waist bag.
+Large and sturdy to transport hunting equipment.
+
+Increases
+ the number of carried 
+Bear Traps
+ by 
++1
+.
+
+Honing Stone
+
+When used with the Bear Trap, the stone sharpens its blades.
+
+The razor-sharp blades inflict deep wounds aimed at bleeding the victim as fast as possible.
+
+Survivors caught in a 
+Bear Trap
+,  who free themselves, are inflicted with the 
+Dying State
+.
+
+Oily Coil
+
+A clear oil that makes handling the Bear Trap's spring more hazardous.
+
+Resetting a 
+Bear Trap
+ reveals the 
+Aura
+ of the last Survivor to have disarmed it for 
+5 seconds
+.
+
+Tension Spring
+
+A high tension spring that snaps back into place after being stretched.
+
+Automatically resets the 
+Bear Trap
+ 
+2 seconds
+ after a Survivor escaped from it.
+
+Trapper Sack
+
+A crude leather sack suitable for foraging.
+
+Causes all 
+Bear Traps
+ to be carried in your inventory at the beginning of the Trial.
+
+You can no longer pick up any placed 
+Bear Traps
+, only reset them.
+
+Bloody Coil
+
+Part sticky, part slippery, this grim liquid makes handling the Bear Traps spring more dangerous.
+
+When a healthy Survivor disarms a 
+Bear Trap
+, the 
+Bloody Coil
+ exacts its price, putting the Survivor into the 
+Injured State
+.
+
+Iridescent Stone
+
+Bear Traps sharpened with the sickly gleaming stone seem to gain a life of their own.
+
+Automatically resets and arms a random disarmed 
+Bear Trap
+ every 
+30 seconds
+.
+
+Innate Skill
+
+Used exclusively in 
+2v8
+ Trials, the 
+Innate Skill
+ modifies the 
+Bear Trap
+ with the following effects:
+
+Innate Skill
+ (
+Trapper Passive
+) 
+
+Modifies the 
+Bear Trap
+ with the following effects:
+
+Causes 
+The Trapper
+ to start the Trial with 
+4
+ 
+Bear Traps
+ equipped.
+
+Causes an additional 
+8
+ 
+Bear Traps
+ to spawn throughout the environment.
+
+Increases
+ the 
+Haste
+ 
+Status Effect
+ after setting a 
+Bear Trap
+ to 
++15 %
+.
+
+Increases
+ the Setting speed of 
+Bear Traps
+ by 
++50 %
+.
+
+Increases
+ the Escape time from 
+Bear Traps
+ by 
++25 %
+.
+
+The 
+Auras
+ of 
+Bear Traps
+ are only revealed to the other Killer within 
+8 metres
+.
+
+Neither Killer can be caught in the 
+Bear Traps
+.
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There are 
+2
+ Achievements related to 
+The Trapper
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Trapper
+
+Playing as The 
+Trapper
+, achieve a 
+Merciless Victory
+ using only his 
+3
+ Unique Perks: 
+Unnerving Presence
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Your presence alone instils great fear."
+
+While inside your 
+Terror Radius
+, Survivors performing 
+Repairing
+ or 
+Healing
+ actions suffer from the following effects:
+
+Increases
+ the chances of triggering a 
+Skill Check
+ by 
++10 
+.
+
+Reduces
+ the Success zone of those 
+Skill Checks
+ by 
+40
+/
+50
+/
+60
+ 
+%
+.
+
+"Its presence befalls us."
+
+, 
+Brutal Strength
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Your great strength allows you to shred through your prey's defences."
+
+While performing the 
+Break or Damage
+ action on 
+Breakable Walls
+, 
+Pallets
+, or 
+Generators
+, 
+Brutal Strength
+ triggers its effect:
+
+Increases
+ the Action speed by 
+10
+/
+15
+/
+20
+ 
+%
+.
+
+"It is more than muscles. A dark power motivates the beast."
+
+, and 
+Agitation
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+This description is based on the changes announced for or featured in the upcoming Patch 10.2.0
+"You get excited in anticipation of hooking your prey."
+
+While carrying a Survivor, 
+Agitation
+ activates:
+
+Increases
+ your Carrying speed by 
+14
+/
+16
+/
+18
+ 
+%
+.
+
+Increases
+ your 
+Terror Radius
+ by 
++12 metres
+.
+
+"At some point, the excitement of hooking one of us becomes more important than the desire to kill us."
+
+.
+
+Cripple Them All
+
+Playing as The 
+Trapper
+, grab Survivors directly out of the 
+Bear Trap
+ a total of 
+100 times
+ / 
+10 times
+ (
+For consoles
+) 
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Trapper
+:
+
+Base Cosmetics
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Evan
+
+Common
+
+A twisted, soulless mask hides the bearer's face. What became of the man behind the mask?
+
+Rubber and Hooks
+
+Common
+
+The hooks dig deep into the flesh, the pain giving way to pure rage.
+
+Cleaver
+
+Common
+
+A brutal cleaver, hammered by his own hands from the metals of the mine.
+
+Pain Flail
+
+Common
+
+Ritualistic welds that tear and rip the flesh.
+
+Alternate customisation of the default Cleaver
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Bloody Evan
+
+Rare
+
+When the frenzy is on, it is hard to contain the blood of his victims.
+
+Prestige Level 6 Reward
+
+Bloody Rubber and Hooks
+
+Rare
+
+His rubber apron, once stained with the blood of animals, now runs wet with the blood of his victims.
+
+Prestige Level 5 Reward
+
+Bloody Cleaver
+
+Rare
+
+When the moon rises and The Trapper begins his hunt, his blade dribbles with the blood of anticipation.
+
+Prestige Level 4 Reward
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+Caretaker to his dying father, the blood of over a hundred men on his hands.
+
+Alternatives
+
+Special
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Event
+
+Marked Bolo Machete
+
+Common
+
+A curved blade with a distinctive bulge that adds weight to the fore-blade providing additional chopping power. An almost imperceptible whisper echoes in the wielder's mind: "anoyk yeqkany'ye hvay'k l'gnoo eydokl'x : sekall'o ammk'ix"
+
+1 Year Anniversary
+
+Iron Chuckles
+
+Common
+
+A mask of iron, shaped into an horrible twisted grin.
+
+1 Year Anniversary
+
+All Hallows' Eyes
+
+Uncommon
+
+Something wicked pierces the shadows of this frightful night.
+
+"Have a fabulous Halloween 2016!" -The Dead by Daylight Team
+
+2016 Halloween Event
+
+Frosty Eyes
+
+Uncommon
+
+Heart chilling eyes of the cold blooded.
+
+"Have a Wonderful Winter 2017-2018!" - The Dead by Daylight Team
+
+Winter Solstice 2017
+
+Woodsman Hunter
+
+Uncommon
+
+Become a creature of myth: strong, unstoppable, dogged in the pursuit of your prey.
+
+DEATHGARDEN Promotion
+
+Best New Trapper Mask
+
+Very Rare
+
+A mask to celebrate the Canadian video game award for 'Best New Character'.
+
+Canadian video game award promotion
+
+Frank Stone Mask
+
+Very Rare
+
+A heavily altered welding mask. Bloodstained and terrifying.
+
+Pre-ordering 
+The Casting of Frank Stone™
+
+Ornate Mask
+
+Very Rare
+
+An intricate metal-work mask forged for a special occasion. The Trapper celebrates his coronation as heir to the wealthy MacMillan Estate.
+
+The Game Awards promotion
+
+Crunching Blade
+
+Very Rare
+
+A weapon made from unfamiliar scrap that inflicts severe flesh injuries.
+
+Purchasing 
+Meet Your Maker
+
+Chuckles
+
+Ultra Rare
+
+A mask of flesh and bones with a horrible twisted grin.
+
+Originally PAX Code Giveaway
+
+Event
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Collection
+
+Event
+
+Exclusive to Event Participation
+
+Crown of the Entity
+
+Event
+
+A crown emanating a festive and ominous aura created by the Entity's biggest fan.
+
+Birthday Crown
+
+Fourth Year Anniversary
+
+Yes
+
+5th Anniversary Crown
+
+Event
+
+A crown crafted for a very special anniversary.
+
+"Thank you for supporting & inspiring us along the years!" - The Dead by Daylight Team
+
+5th Anniversary
+
+Fifth Year Anniversary
+
+Yes
+
+Golden Stinger
+
+Event
+
+A metal blade welded with gold to create a striped pattern of pain.
+
+No Collection
+
+Lurking Stripes
+
+Yes
+
+Trapper's Mask
+
+Event
+
+A mask they found themselves wearing at the masquerade ball.
+
+Twisted Masquerade Collection
+
+Twisted Masquerade Event
+
+Yes
+
+Rock Candy Cleaver
+
+Event
+
+This blade will break your teeth, one way or another.
+
+Tricks and Treats
+
+Haunted by Daylight
+
+Yes
+
+Mistletoe Cleaver
+
+Event
+
+The bright, colorful lightbulbs made death under the mistletoe less gloomy.
+
+Bone Chill 2023
+
+Bone Chill 2023
+
+Yes
+
+DLC
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+DLC
+
+The Iron Man
+
+Uncommon
+
+Thick iron plating strapped and bolted to form Evan's grim self-representation.
+
+Bloodstained Sack
+
+Rogi
+
+Uncommon
+
+An iron mask masterfully fashioned and painted to resemble a deer.
+
+Bloodstained Sack
+
+Exclusives
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Event
+
+Split Screen
+
+Very Rare
+
+Pieces of a mask roughly stitched together so the hunt can continue.
+
+Exclusive for the Nintendo Switch version
+
+Smash Boy
+
+Very Rare
+
+Working at the mine left little time for games, but he managed to play a few of his own.
+
+Exclusive for the Nintendo Switch version
+
+Switched Cleaver
+
+Very Rare
+
+A synthetic frame molded for a controlled and powerful slash.
+
+Exclusive for the Nintendo Switch version
+
+Legacy Trapper 3
+
+Very Rare
+
+The touch of the Entity leaves burning scars and blisters of light. Is it a gift or a curse?
+
+Legacy Prestige Reward
+
+Legacy Trapper 2
+
+Very Rare
+
+The touch of the Entity leaves burning scars and blisters of light. Is it a gift or a curse?
+
+Legacy Prestige Reward
+
+Legacy Trapper 1
+
+Very Rare
+
+The touch of the Entity leaves burning scars and blisters of light. Is it a gift or a curse?
+
+Legacy Prestige Reward
+
+Mask of Delirium
+
+Artefact
+
+A unique face for the Trapper, exclusively for H2O Delirious.
+
+Exclusive to H2O Delirious.
+
+ Rift
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Beast of Nature
+
+Forest Gloom
+
+Tome 7 - Forsaken
+
+20 September 2022 (Tuesday)
+
+Description
+
+The union boys moved their meetings deep into the forest, but Evan was prepared to track his prey.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Bark Tooth
+
+Forest Gloom
+
+7
+
+A fearsome mask carved from the bark of a dead tree.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Camo Rage
+
+Forest Gloom
+
+39
+
+He knew the forest well, moving as if he evolved into it, stalking his prey as by primal instinct.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Hardwood
+
+Forest Gloom
+
+19
+
+He improvised when his cleaver's handle broke, finding a gnarled branch far sturdier, as if grown for the murderous act.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Deep Frostbite
+
+Winter Chill
+
+Tome 6 - Divergence
+
+12 June 2018 (Tuesday)
+
+Description
+
+The harsh winter froze his hands but failed to cool his lust for blood.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Freezing smile
+
+Winter Chill
+
+17
+
+The frost makes it even harder to tell who the man behind the mask is... Or if he’s still human…
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Frost bitten flesh
+
+Winter Chill
+
+39
+
+Sharp icicles pierced deep into his flesh, the pain pushing him in search of warm blood to thaw them.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Frozen Cleaver
+
+Winter Chill
+
+10
+
+A brutal cleaver, hammered by his own hands from the metals of the mine and covered in ice after months in the snow.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Hack-o-Lantern
+
+Halloween 2021
+
+Tome 9 - Crescendo
+
+20 October 2022 (Thursday)
+
+Description
+
+A fun way to hack up your victims on Halloween. They’ll surely appreciate the effort.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Smilin’ Jack
+
+Halloween 2021
+
+28
+
+A ferocious pumpkin mask that makes other jack-o'-lanterns look downright cowardly.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Orange Guts
+
+Halloween 2021
+
+23
+
+An apron covered in the orange goo of pumpkin guts. How about you add some red to it?
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Squash Blade
+
+Halloween 2021
+
+7
+
+The weapon used to massacre a pumpkin patch.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Heatwave
+
+Night Owl Collection
+
+Tome 15 - Ascension
+
+12 June 2018 (Tuesday)
+
+Description
+
+He waited for his prey to spring his trap in the cool evening.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Air Filter
+
+Night Owl Collection
+
+39
+
+The mask protected him from dust.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Cooler Shield
+
+Night Owl Collection
+
+63
+
+He made his outfit from scraps he found around the realm.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Glowing Cleaver
+
+Night Owl Collection
+
+7
+
+He liked the light emanating from his new cleaver.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Conqueror Doom
+
+Tortured Souls
+
+Tome 22 - Anguish
+
+12 June 2018 (Tuesday)
+
+Description
+
+Once the rubble had settled, he returned to the collapsed tunnel and waited until morning.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Final Face
+
+Tortured Souls
+
+37
+
+Father had demanded he wait there, guarding the entrance in case anyone could escape.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Eternal Torture
+
+Tortured Souls
+
+34
+
+He heard a few faint screams deep within, from those unlucky enough to have survived the explosion.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Decapitator
+
+Tortured Souls
+
+39
+
+By sunrise, the screams had subsided. He returned to the manor, satisfied that the job was done.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Deathmatch Wrestler
+
+Tricks and Treats
+
+Tome 13 - Malevolence
+
+12 June 2018 (Tuesday)
+
+Description
+
+As a child, he remembered seeing a scary fighter in a newspaper ad. When he woke up in a trial, he bore in this remnant from a lost realm.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Hoss Mask
+
+Tricks and Treats
+
+36
+
+The wrestler kept his hideous face hidden, but it didn’t make him any less terrifying.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Grappler’s One-Piece
+
+Tricks and Treats
+
+60
+
+The man from the newspaper faced opponents big and small, and all of them ended up face-down on the canvas.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Foreign Object
+
+Tricks and Treats
+
+47
+
+The brawler would wait until the referee’s back was turned before delivering the finishing blow.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Timeless Sport
+
+Fashion Flashback
+
+Rift Pass 4 - Flashback
+
+12 June 2018 (Tuesday)
+
+Description
+
+The wind whistled above him. His goal was the same as it ever was. He was ready for action.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Painted Mask
+
+Fashion Flashback
+
+31
+
+The fresh, dark blood highlighted the detailed patterns on his mask.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Team Jersey
+
+Fashion Flashback
+
+35
+
+The uniform fit well enough. He set down his traps, hoping to score some new victims.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Taped And Honed
+
+Fashion Flashback
+
+38
+
+The grip tape helped him take his best shots with his rusty blade.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Circus Brawns
+
+Circus Strongman
+
+Tome 4 - Conviction
+
+12 June 2018 (Tuesday)
+
+Description
+
+Step up and see the incredible feats performed by this savage beast! But don't get too close! He bites!
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Ravenous Beast
+
+Circus Strongman
+
+3
+
+An intimidating visage of a wild, frenzied beast. Who knows what lies beneath? Is it truly a mask?
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Titan Stars and Chain
+
+Circus Strongman
+
+21
+
+This strongman costume helps support heavy lifting - weights, weapons, bodies… whatever.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Heavy Striker
+
+Circus Strongman
+
+30
+
+A razor-sharp blade, crudely modified and weighted for the express purpose of incapacitating or eliminating the victims of its strikes.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Marrow Miner
+
+GOOD SON
+
+Tome 1 - Awakening
+
+15 January 2021 (Friday)
+
+Description
+
+While exploring the mine's underground he uncovered his true nature. Like father, like son.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Razor-Tooth Mask
+
+GOOD SON
+
+27
+
+A mask crafted from the teeth and bones of corpses he found deep underground.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Osseous Overalls
+
+GOOD SON
+
+39
+
+Lined with fused bones and rusted chains to withstand any hard labor.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Rusty Chopper
+
+GOOD SON
+
+55
+
+He welded metal to create the first prototype of what would become the Cleaver, his preferred weapon.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Cash-Trapped
+
+Gold & Silk
+
+Tome 19 - Splendor
+
+25 January 2025 (Saturday)
+
+Description
+
+As a boy, he would watch his father rub shoulders with other rich industrialists. Nothing about their parties felt right to him.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Skeletal Shine
+
+Gold & Silk
+
+1
+
+Father's friends were all so attractive and refined. If he was one of them, he would have to hide his face.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Golden Muscle
+
+Gold & Silk
+
+1
+
+Even as a child, he understood wealth of this magnitude was built on a foundation of violence and bloodshed.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Resplendent Blade
+
+Gold & Silk
+
+1
+
+A blade of shining gold, at once beautiful and brutal to behold.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Rotting Leaves
+
+Slice Of Life
+
+Tome 21 - Dominus
+
+12 June 2018 (Tuesday)
+
+Description
+
+As Evan walked around the estate, he made sure to double-check all the traps. He had set them up properly, just as his dad asked him to do.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Smiling Treed
+
+Slice Of Life
+
+9
+
+The cracking of branches and voices echoed through the forest. He quickly hid behind the trees as the intruders drew near.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Wooden Cache
+
+Slice Of Life
+
+15
+
+He watched the pair of men waving cameras and notepads, and he felt his grip tighten on his machete. “Journalists,” he grumbled.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Sharp Twig
+
+Slice Of Life
+
+13
+
+He had to be patient, so he waited. He waited until a loud crack and screams scared off the crow. Until the prey was ready to be dealt with.
+
+Piece
+
+Name
+
+Tome
+
+Rift Tier
+
+Pain Flail (Copper)
+
+Tome 2 - Reckoning
+43
+
+Ritualistic welds that tear and rip the flesh.
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Trench Digger
+
+GRAVE SWAMPMAN
+
+18 September 2018 (Tuesday)
+
+Description
+
+Maintain the flooding and keep your graveyard submerged in wetland water.
+
+180
+
+3600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Claw Marks
+
+GRAVE SWAMPMAN
+
+No one says no to your father… but he’ll never know about this.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Heavy Duty Bib Overalls
+
+GRAVE SWAMPMAN
+
+Overalls designed for hard labor. Ideal to convert your estate into a maze of hidden corpses.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Levee Builder
+
+GRAVE SWAMPMAN
+
+18 September 2018 (Tuesday)
+
+Description
+
+Maintain the flooding and keep your graveyard submerged in wetland water.
+
+180
+
+3600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Hellfire Mark
+
+GRAVE SWAMPMAN
+
+No one says no to your father… but he’ll never know about this.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Patched-Up Bib Overalls
+
+GRAVE SWAMPMAN
+
+Overalls designed for hard labor. Ideal to convert your estate into a maze of hidden corpses.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Beast of Nature
+
+Forest Gloom
+
+Tome 7 - Forsaken
+
+20 September 2022 (Tuesday)
+
+Description
+
+The union boys moved their meetings deep into the forest, but Evan was prepared to track his prey.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Bark Tooth
+
+Forest Gloom
+
+7
+
+A fearsome mask carved from the bark of a dead tree.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Camo Rage
+
+Forest Gloom
+
+39
+
+He knew the forest well, moving as if he evolved into it, stalking his prey as by primal instinct.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Hardwood
+
+Forest Gloom
+
+19
+
+He improvised when his cleaver's handle broke, finding a gnarled branch far sturdier, as if grown for the murderous act.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Scarred Corruption
+
+IRONWORKS
+
+08 August 2018 (Wednesday)
+
+Description
+
+An outfit made specifically for heavy-duty manual labor and murder.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Bronze Visor
+
+IRONWORKS
+
+A heavy-duty, metallic visor, crafted to protect the wearer's eyes from bright lights and blood.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Scorched Apron
+
+IRONWORKS
+
+A thick, leather butcher's apron drenched in blood. Matching leather gloves included.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Sharpened Stinger
+
+IRONWORKS
+
+A makeshift, metal blade, crafted specifically for inflicting maximum pain.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Sinner's Slaughter
+
+IRONWORKS
+
+08 August 2018 (Wednesday)
+
+Description
+
+Harvest the souls of the unworthy.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Custom Trapper Visor
+
+IRONWORKS
+
+Custom Trapper design. TM.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Unholy Apron
+
+IRONWORKS
+
+Splattered in the blood of your enemies. Rejoice.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Firebrand Stinger
+
+IRONWORKS
+
+Pay. Attention.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Blast Furnace
+
+IRONWORKS
+
+12 June 2018 (Tuesday)
+
+Description
+
+Time to dance!
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Metal Visor
+
+IRONWORKS
+
+A heavy-duty, metallic visor, crafted to protect the wearer's eyes from bright lights and blood.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Butcher's Bane
+
+IRONWORKS
+
+A thick, leather butcher's apron drenched in blood. Matching leather gloves included.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Barbed Stinger
+
+IRONWORKS
+
+A makeshift, metal blade, crafted specifically for inflicting maximum pain.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Rusty Trucker
+
+ROADRAGE
+
+26 September 2018 (Wednesday)
+
+Description
+
+The road to hell is paved with bear traps and good intentions.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Redox Eyes
+
+ROADRAGE
+
+Wear the face of death as you go for the roadkill.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Corrosion Suit
+
+ROADRAGE
+
+Rusty gear salvaged from car graveyards, including a split rim, spiked arm brace, and vintage gauge.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Knapped Copper Cleaver
+
+ROADRAGE
+
+A handcrafted blade to leave a personal mark. Comes with a spiked knuckle guard for extra markings on their faces.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Bold Tailgater
+
+ROADRAGE
+
+26 September 2018 (Wednesday)
+
+Description
+
+The road to hell is paved with bear traps and good intentions.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Road Reaper
+
+ROADRAGE
+
+Wear the face of death as you go for the roadkill.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Crankcase Suit
+
+ROADRAGE
+
+Chrome gear salvaged from car graveyards, including a split rim, spiked arm brace, and vintage gauge.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Knapped Chrome Cleaver
+
+ROADRAGE
+
+A handcrafted blade to leave a personal mark. Comes with a spiked knuckle guard for extra markings on their faces.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Hack-o-Lantern
+
+Halloween 2021
+
+Tome 9 - Crescendo
+
+20 October 2022 (Thursday)
+
+Description
+
+A fun way to hack up your victims on Halloween. They’ll surely appreciate the effort.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Smilin’ Jack
+
+Halloween 2021
+
+28
+
+A ferocious pumpkin mask that makes other jack-o'-lanterns look downright cowardly.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Orange Guts
+
+Halloween 2021
+
+23
+
+An apron covered in the orange goo of pumpkin guts. How about you add some red to it?
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Squash Blade
+
+Halloween 2021
+
+7
+
+The weapon used to massacre a pumpkin patch.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Doom Walker
+
+Blood And Bones
+
+25 July 2024 (Thursday)
+
+Description
+
+As he set down a trap, something told him this time would be different.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Spiked Helm
+
+Blood And Bones
+
+He felt the spikes protruding from his helmet, ignoring the pain as he sliced open a fingertip.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Distinguished Vest
+
+Blood And Bones
+
+He heard movement nearby, and his desire for bloodshed ignited.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Gnarled Blade
+
+Blood And Bones
+
+He expected to find a sacrifice waiting for him, but was surprised when he locked eyes with a kindred spirit instead.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Racing Biker
+
+ROADRAGE
+
+26 September 2018 (Wednesday)
+
+Description
+
+The road to hell is paved with bear traps and good intentions.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Worn Gaze
+
+ROADRAGE
+
+Wear the face of death as you go for the roadkill.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Combustion Suit
+
+ROADRAGE
+
+Burnt gear salvaged from car graveyards, including a split rim, spiked arm brace, and vintage gauge.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Knapped Red Cleaver
+
+ROADRAGE
+
+A handcrafted blade to leave a personal mark. Comes with a spiked knuckle guard for extra markings on their faces.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Big Baddie
+
+Modern Tales
+
+23 October 2024 (Wednesday)
+
+Description
+
+Evan saw the little piggy putting books in his locker at the end of the hallway. He wondered how much money that boy had on him today.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Brash Sneer
+
+Modern Tales
+
+He approached the boy's locker and could see the little piggy tense up as he got closer and closer.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Wind-up Rage
+
+Modern Tales
+
+He wasn't expecting this round little boy with asthma to spin around and punch him hard in the face.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Downright Machete
+
+Modern Tales
+
+Ashamed, he went to bed with a swollen face without seeing his father. In the morning, he found a knife on his nightstand with a note that said, “fight harder.”
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Grim Punishment
+
+Blood Moon
+
+07 April 2025 (Monday)
+
+Description
+
+When he awoke, something like pain shot through his entire body. But the pain was a source of power that excited him.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Constricting Cage
+
+Blood Moon
+
+Despite the darkness in his periphery, he could sense everything around him.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Ceremonial Carvings
+
+Blood Moon
+
+He did not recognize the symbols on his chest, nor did he remember them being carved into him.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Glowing Runes
+
+Blood Moon
+
+He could feel the enormous weight of the curious weapon in his hand, but it moved with relative ease.
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Hit The Ice
+
+Deadly Games
+
+08 February 2023 (Wednesday)
+
+Description
+
+He always wanted to play in the park with the other kids but never had the chance.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Disturbing Mask
+
+Deadly Games
+
+This mask comes from a Lost Realm. He had always dreamed of owning one.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Shredded Sweater
+
+Deadly Games
+
+His victims tore his jersey apart, trying desperately to stop him.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Slashing Penalty
+
+Deadly Games
+
+A hockey stick with a rusty skate blade on it.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Delinquent
+
+FUN TIMES
+
+15 January 2020 (Wednesday)
+
+Description
+
+As a teen he would venture underground and forge his way through his father's mines to set make-shift traps for unsuspecting employees.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Dual Screen
+
+FUN TIMES
+
+Pieces of a mask stitched together for an anonymous and unrestrained hunt.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Smasher
+
+FUN TIMES
+
+Working at the mine left little time for games, but he managed to improvise.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Analog Cleaver
+
+FUN TIMES
+
+A metallic frame molded for maximum, brutal control.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Hidden Wishes
+
+Days Gone By
+
+16 April 2024 (Tuesday)
+
+Description
+
+Evan locked himself in his room and grabbed his sketchbook. He knew he'd be in trouble if his father found out, but he had to escape, even for a few minutes.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Eye Of Wrath
+
+Days Gone By
+
+He sketched a one-eyed monster with the same fury he saw in his father's eyes. He hated what he drew, just like he hated him.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Seeking Strength
+
+Days Gone By
+
+Evan could hear his doorknob jiggle. His father was trying to get in. He drew the rest of the monster, imbuing it with primal rage as his father tried with all his might to break down the door.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Mythical Blade
+
+Days Gone By
+
+His father’s yelling ceased, and silence filled Evan’s room. He finished his drawing by giving the cyclops a blade that could tear anything apart.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+MacMillan Miner
+
+BOONDOCKS BOUNTY
+
+24 April 2019 (Wednesday)
+
+Description
+
+Treasure lies deep within the mountain, for those brave enough to venture into the darkness.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Miner's Helmet
+
+BOONDOCKS BOUNTY
+
+Helmet equipped with an oxygen mask and a broken headlight.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Underground Protection
+
+BOONDOCKS BOUNTY
+
+Tough clothes for a tough environment, as well as supplemental oxygen. Oddly, the gauge reads 'empty'.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Drill Kill
+
+BOONDOCKS BOUNTY
+
+An old rock drill, fashioned into a crude axe. Even though the blade is dull, the substantial weight means it cuts like a razor.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+King of the Hooks
+
+HALLOWED BLIGHT
+
+09 October 2019 (Wednesday)
+
+Description
+
+A cruel specimen injected with metalloids congealed at high temperatures.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Pointed Smile
+
+HALLOWED BLIGHT
+
+A razor-sharp grin oozing with confidence and mucilage.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Iron Rash
+
+HALLOWED BLIGHT
+
+A porous eruption of metal thorns, piercing and tearing through bare skin.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Jacked Cleaver
+
+HALLOWED BLIGHT
+
+A metal blade welded with syringes to unleash a purulent pain.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Marrow Miner
+
+GOOD SON
+
+Tome 1 - Awakening
+
+15 January 2021 (Friday)
+
+Description
+
+While exploring the mine's underground he uncovered his true nature. Like father, like son.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Razor-Tooth Mask
+
+GOOD SON
+
+27
+
+A mask crafted from the teeth and bones of corpses he found deep underground.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Osseous Overalls
+
+GOOD SON
+
+39
+
+Lined with fused bones and rusted chains to withstand any hard labor.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Rusty Chopper
+
+GOOD SON
+
+55
+
+He welded metal to create the first prototype of what would become the Cleaver, his preferred weapon.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Seaside Psycho
+
+Waterfront Massacre
+
+31 July 2019 (Wednesday)
+
+Description
+
+The real reason you'll never go in the water again.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Sailor's Fate
+
+Waterfront Massacre
+
+A barnacled memento from the depths. No pity for the lost.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Neptune's Failure
+
+Waterfront Massacre
+
+Mangled by a motor, wrapped in nets, encrusted in barnacles, yet still the beast stands.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Ocean's Razor
+
+Waterfront Massacre
+
+The most likely explanation is that this broken anchor can be used to lacerate and mutilate victims.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Circus Strongman
+
+FOG TRAVELERS
+
+09 August 2019 (Friday)
+
+Description
+
+Step up and see the incredible feats performed by this savage beast! But don't get too close! He bites!
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Savage Beast
+
+FOG TRAVELERS
+
+An intimidating visage of a wild, frenzied beast. Who knows what lies beneath? Is it truly a mask?
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Atlas Girdle and Chain
+
+FOG TRAVELERS
+
+This strongman costume helps support heavy lifting - weights, weapons, bodies… whatever.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+High Striker
+
+FOG TRAVELERS
+
+A razor-sharp blade, crudely modified and weighted for the express purpose of incapacitating or eliminating the victims of its strikes.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Cash-Trapped
+
+Gold & Silk
+
+Tome 19 - Splendor
+
+25 January 2025 (Saturday)
+
+Description
+
+As a boy, he would watch his father rub shoulders with other rich industrialists. Nothing about their parties felt right to him.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Skeletal Shine
+
+Gold & Silk
+
+1
+
+Father's friends were all so attractive and refined. If he was one of them, he would have to hide his face.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Golden Muscle
+
+Gold & Silk
+
+1
+
+Even as a child, he understood wealth of this magnitude was built on a foundation of violence and bloodshed.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Resplendent Blade
+
+Gold & Silk
+
+1
+
+A blade of shining gold, at once beautiful and brutal to behold.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Ember Attack Titan
+
+Attack On Titan
+
+28 April 2026 (Tuesday)
+
+Description
+
+As the white smoke gave way to a darkened fog, a titanic cry echoed through the lost realm.
+
+1485
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Burning Vision
+
+Attack On Titan
+
+In a new place without a holder, he could use his abilities freely.
+
+Piece
+
+Name
+
+Collection
+
+Blazing Fighter Form
+
+Attack On Titan
+
+He fought against those who stood in his way and kept moving forward.
+
+Piece
+
+Name
+
+Collection
+
+Melting Blade
+
+Attack On Titan
+
+He never hesitated to end lives in the name of freedom.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Crystallize Attack Titan
+
+Attack On Titan
+
+28 April 2026 (Tuesday)
+
+Description
+
+As the white smoke gave way to a darkened fog, a titanic cry echoed through the lost realm.
+
+1485
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Harden Vision
+
+Attack On Titan
+
+In a new place without a holder, he could use his abilities freely.
+
+Piece
+
+Name
+
+Collection
+
+Sharp Fighter Form
+
+Attack On Titan
+
+He fought against those who stood in his way and kept moving forward.
+
+Piece
+
+Name
+
+Collection
+
+Fortified Blade
+
+Attack On Titan
+
+He never hesitated to end lives in the name of freedom.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Attack Titan
+
+Attack On Titan
+
+28 April 2026 (Tuesday)
+
+Description
+
+As the white smoke gave way to a darkened fog, a titanic cry echoed through the lost realm.
+
+1485
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Timeless Vision
+
+Attack On Titan
+
+In a new place without a holder, he could use his abilities freely.
+
+Piece
+
+Name
+
+Collection
+
+Fighter Form
+
+Attack On Titan
+
+He fought against those who stood in his way and kept moving forward.
+
+Piece
+
+Name
+
+Collection
+
+Liberating Blade
+
+Attack On Titan
+
+He never hesitated to end lives in the name of freedom.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+The Krampus
+
+Holiday Horror
+
+04 December 2020 (Friday)
+
+Description
+
+A holiday monstrosity that punishes all the naughty boys and girls. Every Survivor that has dropped pallets and blinded Killers better watch out.
+
+1485
+
+29700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Winter Demon
+
+Holiday Horror
+
+A goat-like demon with a macabre thrill for the holidays.
+
+Piece
+
+Name
+
+Collection
+
+The Holiday Killer
+
+Holiday Horror
+
+Somebody had to die for The Krampus to get those jolly red pants.
+
+Piece
+
+Name
+
+Collection
+
+The Disciplinarian
+
+Holiday Horror
+
+Used to teach the spoiled boys and girls an important lesson.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Naughty Bear
+
+Naughty Bear Collection
+
+31 October 2023 (Tuesday)
+
+Description
+
+A dark fog enveloped him while life's narrative echoed in his mind, fueling his deep-seated disdain for all others.
+
+1485
+
+29700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Tattered Head
+
+Naughty Bear Collection
+
+His signature scowl could not hide the scars of many an encounter too brutal to recall.
+
+Piece
+
+Name
+
+Collection
+
+Brutalized Body
+
+Naughty Bear Collection
+
+Many a repair from many a fight, Naughty had learned early on how to sew to keep his insides where they belong.
+
+Piece
+
+Name
+
+Collection
+
+Iconic Machete
+
+Naughty Bear Collection
+
+A ruthless blade that cuts through flesh and fur like butter.
+
+Piece
+
+Name
+
+Collection
+
+Flesh and Iron (Fierce)
+
+TRAPPER ABERRATIONS
+
+The hooks dig deep into the flesh. The rage digs deeper.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Flesh and Iron (Hollow)
+
+TRAPPER ABERRATIONS
+
+The hooks dig deep into the flesh. The rage digs deeper.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Flesh and Iron (Imposing)
+
+TRAPPER ABERRATIONS
+
+The hooks dig deep into the flesh. The rage digs deeper.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Flesh and Iron (Relentless)
+
+TRAPPER ABERRATIONS
+
+The hooks dig deep into the flesh. The rage digs deeper.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Flesh and Iron (Unyielding)
+
+TRAPPER ABERRATIONS
+
+The hooks dig deep into the flesh. The rage digs deeper.
+
+50
+
+900
+
+Piece
+
+Name
+
+Golden Stinger
+
+A metal blade welded with gold to create a striped pattern of pain.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rock Candy Cleaver
+
+Tricks and Treats
+
+This blade will break your teeth, one way or another.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Ashen Quake
+
+Slipknot
+
+A spine-chilling growl echoed through the realm, and The Trapper found his predatory instincts concealed behind a new wicked grin.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Industrial Club
+
+Mech Collection
+
+A heavy apparatus that could crush skulls in a single blow.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Mistletoe Cleaver
+
+Bone Chill
+
+The bright, colorful lightbulbs made death under the mistletoe less gloomy.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Trapper’s Mask
+
+Twisted Masquerade
+
+A mask they found themselves wearing at the masquerade ball.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Twisted Machete
+
+Twisted Masquerade
+
+A refined weapon suitable for the masquerade ball.
+
+400
+
+7200
+
+Alternate Character Models
+
+The Trapper
+ has 
+3
+ alternate Character models available in the in-game Store:
+
+The 
+Krampus
+
+Naughty Bear
+
+Attack Titan
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Trapper
+ is part of 
+3
+ DLCs:
+
+The Bloodstained Sack
+
+YouTubers/Streamers Exclusives - H2O Delirious Exclusive
+
+Deathgarden Mask (only available to Players who also owned 
+Deathgarden
+)
+
+Change Log
+
+Patch 1.0.4
+Patch 1.1.2
+PTB Nov 2016
+Patch 1.2.1e
+Patch 1.3.0
+Patch 1.4.0
+Patch 1.5.0
+Patch 2.1.0
+Patch 2.2.0
+Patch 3.4.2
+Patch 3.6.0
+Patch 4.5.0
+Patch 5.0.0
+Patch 5.3.0
+Patch 7.3.0
+Patch 7.3.1
+Patch 1.0.4
+
+Nerf
+:
+ removed the ability to place 
+Bear Traps
+ too close to or even on top of one another.
+Patch 1.1.2
+
+Nerf
+:
+ added a 
+Bear Trap
+ immunity period after escaping a 
+Bear Trap
+ or being dropped by 
+The Trapper
+.
+
+This was done to prevent farming Trap Catches by dropping Survivors into 
+Bear Traps
+.
+PTB Nov 2016
+
+Nerf
+:
+ reduced the Disarm time from 
+5 seconds
+ to 
+3 seconds
+.
+Patch 1.2.1e
+
+Nerf
+:
+ increased the minimum distance between 
+Bear Traps
+ from 
+0.6 metres
+ to 
+1.5 metres
+.
+Patch 1.3.0
+
+Quality of Life
+: adjusted the 
+Bear Trap
+ outline to align with its actual placement in the environment.
+Patch 1.4.0
+
+Nerf
+:
+ remove the ability to place 
+Bear Traps
+ on top of the Hatch.
+
+Nerf
+:
+ Survivors are now temporarily immune to 
+Bear Traps
+ when self-unhooking.
+Patch 1.5.0
+
+Buff
+: increased 
+Bear Trap
+ Sabotage time from 
+8 seconds
+ to 
+16 seconds
+.
+
+Buff
+: reduced 
+Bear Trap
+ Setting phases 1 and 3 from 
+2 seconds
+ each to 
+1 second
+ each.
+
+Nerf
+:
+ removed the ability to set 
+Bear Traps
+ right below Hooks.
+Patch 2.1.0
+
+Buff
+: reduced 
+Bear Trap
+ Setting phases 1 and 3 from 
+1 second
+ each to 
+0.5 seconds
+ each.
+
+Buff
+: reduced 
+Bear Trap
+ Setting phase 2 from 
+3 seconds
+ to 
+1.5 seconds
+.
+
+Buff
+: increased the 
+Bear Trap
+ Disarm time from 
+1.5 seconds
+ to 
+2.5 seconds
+.
+
+Quality of Life
+: allows for the Dye Add-ons to stack.
+
+Quality of Life
+: sabotaged 
+Bear Traps
+ will respawn after 
+180 seconds
+ and can therefore no longer be permanently broken.
+Patch 2.2.0
+
+Buff
+: further increased the 
+Bear Trap
+ Disarm time from 
+2.5 seconds
+ to 
+3.5 seconds
+.
+
+Nerf
+:
+ reintroduced 
+"Trap Buffering"
+, allowing Survivors to pass over a 
+Bear Trap
+ that is being disarmed by another Survivor without getting caught in it.
+Patch 3.4.2
+
+Quality of Life
+: added a grace period after setting a 
+Bear Trap
+ that prevents 
+The Trapper
+ from getting caught right after setting it.
+Patch 3.6.0
+
+Quality of Life
+: 
+Bear Traps
+ can no longer be sabotaged.
+
+Quality of Life
+: 
+Bear Traps
+ can be (re-)set without picking them up first.
+Patch 4.5.0
+
+Buff
+: reduced the 
+Bear Trap
+ Escape chance from 
+25 %
+ to 
+16.67 %
+.
+
+Nerf
+:
+ capped Escape attempts at 
+6
+, after which Survivors will automatically escape.
+Patch 5.0.0
+
+Quality of Life
+: updated and increased level-of-detail of 
+The Trapper's
+ character model, his 
+Bear Traps
+, and various cosmetics.
+Patch 5.3.0
+
+Buff
+: increased 
+The Trapper's
+ default Carrying capacity from 
+1
+ to 
+2
+.
+
+Buff
+: changed the number of 
+Bear Traps
+ that spawn to a fixed 
+6
+, instead of a random 
+4-6
+.
+
+Change
+:
+ changed the Aura-colour of 
+Bear Traps
+ to 
+white
+ to be in line with other Killer objects.
+
+Change
+:
+ received an Add-on Pass, reworking several Add-ons.
+
+Change
+:
+ Added an audio cue where 
+The Trapper
+ grunts when picking up the maximum number of 
+Bear Traps
+.
+Patch 7.3.0
+
+Buff
+: increased the number of 
+Bear Traps
+ that spawn from 
+6
+ to 
+8
+.
+
+Buff
+: setting a 
+Bear Trap
+ now applies a 
+7.5 %
+ 
+Haste
+ Status Effect
+ for 
+5 seconds
+.
+Patch 7.3.1
+
+Quality of Life
+: 
+Bear Traps
+ now spawn closer to Generators in general, allowing 
+The Trapper
+ to collect them without having to stray too far from usual patrol routes.
+
+Trivia
+
+General
+
+The Trapper
+ was the only playable Killer during the BETA.
+[
+1
+]
+
+The Trapper's
+ Alpha name was 
+"Chuckles"
+ and in the Game Files, it is misspelt as 
+"Checkles"
+.
+
+The Trapper
+ is the first killer to have a power associated with traps.
+
+The Trapper
+ was the first Killer to wear a face mask.
+
+His mask might be inspired by the mask of the 
+Babyface Killer
+ from the 2009 movie 
+The Hills Run Red
+, as both are cracked and resemble a human face.
+
+Some renderings of him without his mask on can be found inside the Game Files, revealing that he's bald.
+
+The Trapper
+ is affiliated with the 
+MacMillan Estate
+ Realm in the Lore.
+
+The Trapper
+ visually was inspired by 
+Jason Voorhees
+ from the 
+Friday the 13th
+ franchise.
+
+The Trapper
+ is the first 'original' Killer to appear in a commercial title outside of 
+Dead by Daylight
+, appearing in the 
+"Survivor of The Fog"
+ Event in Ubisoft's 
+For Honor
+.
+[
+2
+]
+
+A Character in 
+For Honor
+ refers to 
+The Trapper
+ as 
+"The Miserable Smiling Killer"
+
+The Trapper
+ stepping into a 
+Bear Trap
+ results in the Trap latching onto his left leg, which is referenced in some of his cosmetics, which feature braces of wraps around the extremities of said leg.
+
+Furthermore, the 
+Makeshift Wrap
+ Add-on is a reference to this fact.
+
+Cosmetics
+
+He is the first killer to have a cosmetic which changes his Memento Mori's animation.
+
+The Trapper
+ originally was going to receive a 
+Frank Stone
+ (From The Casting of Frank Stone) legendary outfit, but the skin was cancelled due to community backlash, and 
+Frank
+ would instead become his own killer.
+
+Voice Actor
+
+The Trapper
+ is voiced by Filip Ivanovic, who at that time worked as the Art Director on the Game.
+
+The Trapper
+ shares his voice-actor with The 
+Wraith
+, The 
+Hillbilly
+, The 
+Cannibal
+, The 
+Nightmare
+, The 
+Ghost Face
+, and 
+Jeff Johansen
+.
+
+Gallery
+
+For more go to The 
+Trapper's Gallery
+
+In-game Assets
+
+The Trapper
+
+The Trapper (Portrait render)
+
+The Trapper (Background image)
+
+Official Art
+
+The Trapper's profile card
+
+The Trapper: Evan MacMillan
+
+Outfits
+
+Grim Punishment Outfit
+
+Dearest Evan Outfit
+
+Official Animations
+
+Load video
+
+YouTube
+
+YouTube might collect personal data. 
+Privacy Policy
+
+Continue
+
+Dismiss
+
+Old Assets
+
+The Trapper's previous portrait
+
+ The Trapper's ALPHA user interface
+
+Concept Art
+
+The Trapper's concept art
+
+'King of the Hooks' Concept Art
+
+'Seaside Psycho' Concept Art
+
+'Beast of Nature' Concept Art
+
+'Hit The Ice' Concept Art
+
+'Naughty Bear' Concept Art
+
+Screenshots
+
+Evan interacting with a bear trap
+
+Evan on a hill
+
+Evan looking at a fire barrel
+
+Evan vaulting a window
+
+Low angle of Evan wearing his Iron Chuckles mask
+
+Evan in his full prestige outfit
+
+References
+
+↑
+ 
+https://youtu.be/YBEytyhtgwE?si=3ZxruDxMdkYW6IQL
+ Dead By Daylight | Beta Teaser.
+
+↑
+ 
+https://youtu.be/sBZ8xXnz8I8?si=fIhVviQ3CNh8WFwj
+ For Honor x Dead By Daylight Crossover | Halloween 2021 Event.
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

@@ -1,0 +1,2647 @@
+# Michael Myers
+Source: https://deadbydaylight.wiki.gg/wiki/Michael_Myers (page complète via API, consultée le 27/09/2026)
+
+Something, or rather someone, is here now. I've never seen this... Shape before. A man hiding behind a mask. He comes with a determination. But more worrying, he comes with an apparent grasp of the hunt. He does not strike me as someone who even went unwillingly to this place. Is there more to this being than I can fathom? 
+
+~ 
+ Unknown (Potentially 
+Benedict Baker
+)
+
+I met him, fifteen years ago; I was told there was nothing left; no reason, no conscience, no understanding; and even the most rudimentary sense of life or death, of good or evil, right or wrong. I met this six-year-old child, with this blank, pale, emotionless face, and the blackest eyes... the devil's eyes. I spent eight years trying to reach him, and then another seven trying to keep him locked up because I realised that what was living behind that boy's eyes was purely and simply... evil.
+
+~ 
+Dr. Sam Loomis
+
+The Shape
+
+Name
+
+Michael Myers
+
+Game Alias(es)
+
+"Boogeyman"
+
+"Stalker"
+
+Gender
+
+Man
+
+Origin
+
+American
+
+Realm
+
+Haddonfield
+
+Power
+
+Evil Within
+
+Power 
+Attack
+ Type
+
+Special Attack
+
+(Slaughtering Strike)
+
+Weapon
+
+Kitchen Knife
+
+Movement Speed
+
+105 % 
+|
+ 4.2 m/s (Stalker Mode)
+
+Alternate Movement speed
+
+115 % 
+|
+ 4.6 m/s
+(Pursuer Mode & Evil Incarnate)
+
+Terror Radius
+
+32m (Stalker Mode)
+
+16m (Pursuer Mode)
+
+32m (Evil Incarnate)
+
+Height 
+
+Tall
+
+DLC
+
+The HALLOWEEN® Chapter
+
+Voice Actor
+
+Frédéric Poirier (BHVR)
+
+Breathing
+
+Menu Music
+
+Terror Radius Music
+
+Metadata
+
+CharID
+
+K05
+
+Michael Myers
+ or 
+"The Shape"
+ is one of 
+44
+ 
+Killers
+ featured in 
+Dead by Daylight
+.
+
+He was introduced as the Killer of 
+The HALLOWEEN® Chapter
+, a Chapter DLC originally released on 25th of October 2016 which was retired on 19th of January 2026.
+
+He remains a fully playable and supported Character in 
+Dead by Daylight
+ for all Players who purchased him before his Chapter left the Game.
+
+He originates from the 1978 Horror Movie franchise with the same name, 
+Halloween
+.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige Variants
+
+3.1.2
+ 
+General Variants
+
+3.2
+ 
+Weapon: Kitchen Knife
+
+3.3
+ 
+Power: Evil Within
+
+3.3.1
+ 
+Power Trivia
+
+3.3.2
+ 
+Power Audio
+
+3.4
+ 
+Add-ons for Evil Within
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Base Cosmetics
+
+5.1.1
+ 
+Default
+
+5.1.2
+ 
+Prestige
+
+5.1.2.1
+ 
+Perk Charms
+
+5.1.2.2
+ 
+Prestige Badges
+
+5.2
+ 
+In-Game Store
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+General
+
+8.2
+ 
+Cosmetics
+
+8.3
+ 
+Differences from the Movies
+
+8.4
+ 
+Memento Mori
+
+8.5
+ 
+Portrait
+
+8.6
+ 
+Terror Radius
+
+8.7
+ 
+Voice Actor
+
+9
+ 
+Gallery
+
+9.1
+ 
+In-game Assets
+
+9.2
+ 
+Official Art
+
+9.3
+ 
+Old Assets
+
+9.4
+ 
+Screenshots
+
+9.5
+ 
+Fan Art
+
+9.6
+ 
+Others
+
+10
+ 
+References
+
+Overview
+
+The Shape lurks in the distance, patiently biding his time. His evil builds while stalking Survivors, fuelling him with malevolent power. As the Trial progresses, The Shape evolves from a quiet menace to an unstoppable juggernaut capable of shredding through even the most resilient teams.
+
+The Shape
+ is a haunting Killer who stalks Survivors to feed his power.
+
+His personal Perks, 
+Save the Best for Last
+, 
+Play with Your Food
+, and 
+Dying Light
+, select one Survivor to become his 
+Obsession
+ and will trigger deadly effects based on their status.
+
+Lore
+
+Some humans are simply bad seeds. Seeds infused with a distilled and pure form of evil.
+
+Michael Myers is one of those seeds. He had no issues with causing the pain of others. Instead, it was exactly what he sought. But even life can be tough on those with minds filled with terror. The difference is just how one goes about to solve those problems. For Michael, he had to kill to find some inner peace. As he took his sister’s life, the police found a silent boy dressed as a clown at the scene.
+
+When one stumbles upon a growing fire, one does not pour gasoline on it. But this was an action taken by officials that had no idea how it would shape this demon in the boy's body. Sending Michael to a mental institution was a feeble attempt to save the child. Unsuccessful therapy and nightly screams just made him even more introverted and deranged.
+
+People hoped that Michael Myers would end up a parenthesis, soon to be forgotten and buried, a failure that soon were to rot away. But then...he escaped.
+
+Load-out
+
+Unique Perks
+
+The Shape
+  originally came with 
+3
+ 
+Perks
+ that were unique to him:
+
+ 
+
+Dying Light
+
+Identical to 
+Cull the Weak
+.
+
+"This isn't a man..." — Dr Sam Loomis
+
+ 
+
+Play with Your Food
+
+Identical to 
+See How They Run
+.
+
+"You've fooled them, haven't you Michael? But not me." — Dr Sam Loomis
+
+ 
+
+Save the Best for Last
+
+Identical to 
+Keep Them Waiting
+.
+
+"Death has come to your little town, Sheriff." — Dr Sam Loomis
+
+Prestige Variants
+
+For Players owning 
+The Shape
+ prior to his Chapter's retraction from 
+Dead by Daylight
+ and 
+Patch 9.4.0
+, the above 
+Perks
+ remain 
+Unique Perks
+, including the 
+Prestige
+ requirement to unlock them for other Killers.
+They also retain their original names, icons, and flavour texts.
+
+Prestiging 
+The Shape
+ will automatically add 
+Tier I
+ of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Shape
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+General Variants
+
+For all other Players, the above 
+Perks
+ are considered 
+General Perks
+ as of 
+Patch 9.4.0
+, all featuring a different name and sometimes a different icon.
+
+They are automatically available to all Killers and can be found randomly in their 
+Bloodweb
+.
+
+Weapon: Kitchen Knife
+
+The 
+Kitchen Knife
+ is the Primary Weapon of 
+The Shape
+.
+An oversized blade with devastatingly sharp edges.  
+
+Power: Evil Within
+
+"The darkness inside feeds his determination to take the life of his prey."
+SPECIAL ABILITY: EVIL WITHIN
+The Shape
+ can switch between 
+3
+ 
+Modes
+ of 
+Evil Within
+.
+Each 
+Mode
+ has unique abilities and strengths.
+
+SPECIAL MODE: STALKER MODE
+The default 
+Mode
+ of 
+Evil Within
+.
+
+Slower Movement speed of 
+4.2 m/s
+.
+
+Default Vaulting time of 
+1.7 seconds
+.
+
+Grants the 
+Undetectable
+ 
+Status Effect
+.
+
+Grants access to the 
+Stalk
+ ability.
+
+If the 
+Stalk Meter
+ is 
+not
+ full, press the 
+Secondary Power button
+ to switch to 
+Pursuer Mode
+.
+Stalker Mode
+ is unavailable while the 
+Stalk Meter
+ is full.
+SPECIAL MODE: PURSUER MODE
+This 
+Mode
+ provides 
+The Shape
+ with the following effects:
+
+Smaller 
+Terror Radius
+ of 
+16 metres
+.
+
+Default Movement speed of 
+4.6 m/s
+.
+
+Shorter Vaulting time of 
+1.42 seconds
+.
+
+Increases
+ the following by 
++20 %
+:
+
+Action speeds for the 
+Break or Damage
+ action.
+
+Recovery rate from 
+Stuns
+.
+
+Maximum reach of the 
+Lunge
+ attack.
+
+If the 
+Stalk Meter
+ is 
+not
+ full, press the 
+Secondary Power button
+ to switch to 
+Stalker Mode
+.
+If the 
+Stalk Meter
+ is full, press it to enter 
+Evil Incarnate Mode
+ instead.
+SPECIAL MODE: EVIL INCARNATE
+Once activated, this 
+Mode
+ is active for 
+60 seconds
+:
+
+Default 
+Terror Radius
+ of 
+32 metres
+.
+
+Default Movement speed of 
+4.6 m/s
+.
+
+Shorter Vaulting time of 
+1.42 seconds
+.
+
+Increases
+ the following by 
++20 %
+:
+
+Action speeds for the 
+Break or Damage
+ action.
+
+Recovery rate from 
+Stuns
+.
+
+Grants access to the 
+Slaughtering Strike
+ ability.
+
+Grants access to the 
+Kill
+ interaction on select Survivors.
+
+SPECIAL ABILITY: STALKING
+While in 
+Stalker Mode
+, press and hold the 
+Power button
+ to access the 
+Stalking
+ ability:
+
+Reduces
+ the Walking speed to 
+60 %
+ of its default value.
+
+Highlights the outline of Survivors within a range of 
+2.5–32 metres
+ of 
+The Shape
+ in 
+white
+.
+
+Drains 
+Evil
+ from whichever highlighted Survivor is in closest proximity to 
+The Shape
+ and fills the Power Gauge at a fixed rate, regardless of distance.
+
+Moving while 
+Stalking
+ at the same time incurs a Stalk-Rate penalty of 
+-25 %
+.
+
+If the Power Gauge is 
+not
+ full, it will automatically begin depleting after 
+20 seconds
+ of not 
+Stalking
+, down to a limit of 
+50 %
+.
+SPECIAL ABILITY: SLAUGHTERING STRIKE
+While in 
+Evil Incarnate Mode
+, press and hold the 
+Power button
+ to charge the 
+Slaughtering Strike
+ attack.
+While charging, press the 
+Attack button
+ at any point to initiate the attack:
+
+Increases
+ his Movement speed to 
+7.5 m/s
+.
+
+Causes successful hits on Survivors to be lethal and apply double damage.
+
+Grants the ability to break 
+Breakable Walls
+ and dropped 
+Pallets
+ using the attack.
+
+Slaughtering Strike
+ lasts for up to 
+1.5 seconds
+, depending on how long it was charged for, and has a cool-down of 
+4 seconds
+.
+SPECIAL INTERACTION: KILL
+While in 
+Evil Incarnate Mode
+, tap the 
+Attack button
+ in close proximity to standing or downed Survivors that have accrued 
+2
+ 
+Hook Stages
+ to execute them, performing a 
+Memento Mori
+.
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Walking after breaking a 
+Pallet
+ or 
+Breakable wall
+ using 
+Slaughtering Strike
+: 
+1.84 m/s
+
+Walking while 
+Active
+ or 
+Passive Stalking
+: 
+2.52 m/s
+
+Charging 
+Slaughtering Strike
+: 
+3.22 m/s
+
+Walking while in 
+Stalker Mode
+: 
+4.2 m/s
+
+Walking while in 
+Pursuer
+ and 
+Evil Incarnate
+ modes: 
+4.6 m/s
+
+Slaughtering Strike
+: 
+7.5 m/s
+
+Evil Within:
+
+Switching between 
+Stalker/Pursuer Mode
+ cool-down: 
+3 seconds
+
+Stalker Mode:
+
+Terror Radius: 
+0 metres
+
+Stalk range: 
+2.5 to 32 metres
+
+Stalk Points (SP):
+
+Evil Incarnate
+ Tier-up threshold: 
+5 SP
+
+Stalk rate while standing still: 
+ 1 SP/s
+
+Stalk rate while moving: 
+ 0.75 SP/s
+
+This is achieved by applying a multiplier of 
+x0.75
+ to his Stalking rate.
+
+Stalk-Depletion Mechanic:
+
+This mechanic automatically drains the 
+Stalk meter
+ at a rate of 
+ -1 SP/s
+ under these conditions:
+
+The Shape
+ did not stalk any Survivor in the last 
+ 20 seconds
+.
+
+The 
+Stalk meter
+ is filled between 
+ 50%
+ and 
+ 100%
+.
+
+The Hedge
+ sound cue play conditions:
+
+The Shape
+ has been continuously stalking a Survivor in the last 
+ 0.1 seconds
+.
+
+The 
+Stalk meter
+ reaches 
+ 51%
+.
+
+Pursuer Mode:
+
+Terror Radius: 
+16 metres
+
+Modifiers:
+
+Lunge duration: 
+x1.2
+
+This extends  the 
+open phase
+ of the Lunge from 
+0.5 seconds
+ to 
+0.6 seconds
+.
+
+Breaking speed: 
+x1.2
+
+This results in a break action duration of 
+1.95 seconds
+.
+
+Stun recovery rate: 
+x1.2
+
+This results in a pallet stun duration of 
+1.67 seconds
+.
+
+Vaulting duration additive: 
+-0.28 seconds
+
+This results in a vault duration of 
+1.42 seconds
+.
+
+Evil Incarnate:
+
+Terror Radius: 
+32 metres
+
+Duration: 
+60 seconds
+
+Lingering time: 
+3 seconds
+
+If Evil Incarnate's duration runs out while the Killer is charging Slaughtering Strike, Evil Incarnate won't deplete and the Killer will be still able to charge and initiate Slaughtering Strike for this amount of time.
+
+Activate Evil Incarnate interaction: 
+ 2 seconds
+
+Mini-mori grab distance: 
+ 3 meters
+
+Killer look angle tolerance for a valid grab: 
+ 45 °
+
+Modifiers:
+
+Breaking speed: 
+x1.2
+
+This results in a break action duration of 
+1.95 seconds
+.
+
+Stun recovery rate: 
+x1.2
+
+This results in a pallet stun duration of 
+1.67 seconds
+.
+
+Vaulting duration additive: 
+-0.28 seconds
+
+This results in a vault duration of 
+1.42 seconds
+.
+
+Slaughtering Strike:
+
+Minimum amount of time to begin charging 
+Slaughtering Strike
+: 
+ 25% of maximum charge time
+
+This is equal to 
+0.375 seconds.
+
+Charge-cancellation cool-down: 
+ 1 second
+
+This cool-down is only relevant to charging Slaughtering Strike, as the Killer can still do other actions, such as a Basic Attack, during this cool-down.
+
+Slaughtering strike
+ duration: 
+ 0.5 seconds
+ to 
+ 1.5 seconds
+ based on charge time.
+
+Time to fill the 
+Slaughtering Strike
+ charge meter: 
+ 1.125 seconds
+
+This results in an full charge time of 
+1.5 seconds
+, considering the 
+0.375 seconds
+ required to begin filling the meter.
+
+Slaughtering strike
+ Recharge Time: 
+ 4 seconds
+
+Strafe movement speed multiplier: 
+ x0.25
+
+Turn rate limit: 
+ 160°
+ to the left and to the right.
+
+Breakable angle tolerance: 
+ 31°
+
+Breakable hitting time: 
+ 0.81 seconds
+
+Breakable post-hit time: 
+ 2.1 seconds
+
+Power Audio
+
+Tier-down from Evil Incarnate
+
+Tier-up to Evil Incarnate
+
+Alternate Tier-up sound cue
+(
+unused
+)
+
+Tier-up Imminent warning
+(applies at 50 % Stalk Progress)
+
+Add-ons for Evil Within
+
+Icon
+
+Name
+
+Description
+
+Blond Hair
+
+"A single slightly wavy blond hair."
+
+While in 
+Stalker Mode
+, you benefit from the following effect:
+
+Increases
+ the duration of 
+Scratch Marks
+ and 
+Pools of Blood
+ by 
++100 %
+.
+
+Boyfriend's Memo
+
+"A "romantic", if slightly sleazy, note left around to draw the attention of a female lover."
+
+Modifies the 
+Stalk
+ ability with the following effect:
+
+Increases
+ the range of 
+Stalking
+ by 
++8 metres
+.
+
+"The note is signed: D."
+
+Memorial Flower
+
+"A partially faded and dried pink larkspur picked up from a gravestone."
+
+Modifies 
+Stalker Mode
+ with the following effect:
+
+Increases
+ your Movement speed by 
++0.2 m/s
+ to 
+4.4 m/s
+.
+
+Tacky Earrings
+
+"A very cheap piece of jewellery made from plastic. Painted to resemble precious material."
+
+Modifies 
+Evil Within
+ with the following effect:
+
+Increases
+ your Movement speed while 
+Stalking
+ by 
++20 %
+.
+
+Dead Rabbit
+
+"A grey rabbit which has been opened from neck to tail."
+
+Adjusts the 
+Terror Radius
+, depending on the current Mode of 
+Evil Within
+:
+
+Pursuer Mode
+: 
+Reduces
+ it by 
+-25 %
+.
+
+Evil Incarnate
+: 
+Increases
+ it by 
++25 %
+.
+
+Fragrant Tuft of Hair
+
+"A tuft of blond hair which was forcefully torn off someone's scalp.
+Releases hints of feminine floral fragrance."
+
+During 
+Evil Incarnate
+, the following effects apply:
+
+Survivors suffer from the 
+Exposed
+ 
+Status Effect
+.
+
+Increases
+ the Lunge Range by 
++50 %
+.
+
+Disables the 
+Slaughtering Strike
+ ability.
+
+Glass Fragment
+
+"A tiny piece of tinted glass, probably from a broken object.
+It is impossible to determine its origin."
+
+Modifies 
+Slaughtering Strike
+ with the following effects:
+
+Increases
+ the Movement speed of 
+Slaughtering Strike
+ by 
++5 %
+.
+
+Decreases
+ the Charge speed of 
+Slaughtering Strike
+ by 
+-10 %
+.
+
+Hair Brush
+
+"A nylon bristle brush used to add body and softness to hair."
+
+When 
+Evil Incarnate
+ activates, 
+Hair Brush
+ triggers its effect:
+
+Increases
+ the Action speed of the next 
+Pallet
+ break action by 
++50 %
+.
+
+Jewellery
+
+"A large necklace made of beads an inexpensive metals.
+One of Judith's favourites."
+
+When 
+Stalking
+ stationary Survivors, you benefit from the following effect:
+
+Increases
+ the Power speed of 
+Stalking
+ by 
++10 %
+.
+
+Hair Bow
+
+"A blue tartan ribbon used to tie hair."
+
+Modifies 
+Evil Incarnate
+ with the following effects:
+
+Increases
+ the duration of 
+Evil Incarnate
+ by 
++20 seconds
+.
+
+Reduces
+ the Power speed of 
+Stalking
+ by 
+-20 %
+.
+
+J. Myers Memorial
+
+"A glossy page ripped from the 
+1965 Haddonfield High School
+ yearbook, one dedicated to the memory of Judith Myers."
+
+While in 
+Evil Incarnate
+, the following effect applies:
+
+Increases
+ the speed of Picking up and Hooking Survivors by 
++40 %
+.
+
+Jewellery Box
+
+"A barren wooden box in which vanity items were once stored."
+
+Modifies the 
+Stalk
+ ability with the following effect:
+
+Increases
+ the Power speed of 
+Stalking
+ by 
++30 %
+.
+
+Decreases
+ the range of 
+Stalking
+ by 
+-16 metres
+.
+
+Judith's Journal
+
+"A journal identified as owned by Judith M. Myers.
+Most of the pages are defaced with frightening and disturbing drawings."
+
+While 
+Stalking
+ the 
+Obsession
+, you benefit from the following effect:
+
+Increases
+ the Power speed of 
+Stalking
+ by 
++40 %
+.
+
+Mirror Shard
+
+"A large and sharp piece of a broken mirror."
+
+Modifies 
+Slaughtering Strike
+ with the following effects:
+
+Increases
+ the base duration of 
+Slaughtering Strike
+ by 
++0.25 seconds
+.
+
+Decreases
+ the charge speed of 
+Slaughtering Strike
+ by 
+-25 %
+.
+
+Lock of Hair
+
+"A cut lock of blond hair bunched with a black elastic."
+
+Unlocks the following ability while in 
+Evil Incarnate
+:
+
+Hold the 
+Active Ability button
+ to end 
+Evil Incarnate
+ prematurely.
+
+This converts 
+50 %
+ of the remaining duration into 
+Stalk
+ progress.
+
+Reflective Fragment
+
+"A tiny piece of a highly reflective material most probably from a broken mirror."
+
+Modifies 
+Slaughtering Strike
+ with the following effects:
+
+Survivors hit by 
+Slaughtering Strike
+ are only damaged for a single 
+Health State
+.
+
+Successful hits with 
+Slaughtering Strike
+ instantly add 
++20 seconds
+ to the duration of 
+Evil Incarnate
+.
+
+Tombstone Piece
+
+"A fist-sized granite piece taken from a broken tombstone."
+
+Activating 
+Evil Incarnate
+ triggers the following effect:
+
+Grants the 
+Undetectable
+ 
+Status Effect
+ for 
+20 seconds
+.
+
+Vanity Mirror
+
+"A standing portable vanity mirror in perfect condition except for a fine layer of dust and face powder covering it."
+
+Modifies 
+Evil Incarnate
+ with the following effect:
+
+When 
+Evil Incarnate
+ ends, the 
+Auras
+ of all Survivors are revealed to you for 
+4 seconds
+.
+
+Judith's Tombstone
+
+"A large and heavy granite tombstone stolen from Mt. Sinclair cemetery, belonging to Judith Myers."
+
+Modifies 
+Evil Incarnate
+ with the following effects:
+
+Hooking a Survivor while in 
+Evil Incarnate
+ will refresh its duration.
+
+Caps the maximum duration of 
+Evil Incarnate
+ at 
+40 seconds
+.
+
+"Here lies our beloved daughter."
+
+Scratched Mirror
+
+"A standing portable vanity mirror which has been violently scratched with a sharp metallic object."
+
+Unlocks potential in your Aura-reading ability while 
+Stalking
+:
+
+The 
+Auras
+ of all Survivors within 
+32 metres
+ of your location are revealed to you.
+
+Hitting Survivors with your 
+Basic Attack
+ grants the following bonus Bloodpoints:
+
+Brutality
+ 
+Scoring Category
+: 
++100 %
+
+Deviousness
+ 
+Scoring Category
+: 
++200 %
+
+Evil Within
+ loses the ability to exit 
+Stalker Mode
+.
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There were 
+3
+ Achievements related to 
+The Shape
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Shape
+
+THIS  HAS BEEN RETIRED.
+
+Playing as The 
+Shape
+, achieve a 
+Merciless Victory
+ using only his 
+3
+ Unique Perks: 
+Save the Best for Last
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+Identical to 
+Keep Them Waiting
+.
+
+"Death has come to your little town, Sheriff." — Dr Sam Loomis
+
+, 
+Play with Your Food
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+Identical to 
+See How They Run
+.
+
+"You've fooled them, haven't you Michael? But not me." — Dr Sam Loomis
+
+, and 
+Dying Light
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+Identical to 
+Cull the Weak
+.
+
+"This isn't a man..." — Dr Sam Loomis
+
+.
+
+Evil Incarnate
+
+THIS  HAS BEEN RETIRED.
+
+Playing as The 
+Shape
+, kill all Survivors by your own hands with 
+Evil Within III
+ in a single Trial.
+
+The Man Behind the Bush
+
+THIS  HAS BEEN RETIRED.
+
+Playing as The 
+Shape
+, tier up 
+Evil Within
+ a total of 
+300 times
+ / 
+100 times
+ (
+For consoles
+) 
+ by stalking Survivors.
+
+Cosmetic Options
+
+Players could choose from a variety of Cosmetic options to customise 
+The Shape
+:
+
+Base Cosmetics
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Boogeyman Mask
+
+Common
+
+An expressionless, white latex Halloween mask.
+
+Overalls
+
+Common
+
+Everyday workman overalls.
+
+Kitchen Knife
+
+Common
+
+An oversized blade with devastatingly sharp edges.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Red On White Mask
+
+Rare
+
+Inhale the stench of blood over the stink of latex.
+
+Prestige Level 6 Reward
+
+Disgusting Overalls
+
+Rare
+
+It's hard to keep the fabric clean at such close quarters.
+
+Prestige Level 5 Reward
+
+Gore Blade
+
+Rare
+
+The blood of victims seems to pulse within the blade itself.
+
+Prestige Level 4 Reward
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+He had no issue with causing the pain of others. Instead, it was exactly what he sought.
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Escaped Patient
+
+HADDONFIELD NIGHTS
+
+30 October 2019 (Wednesday)
+
+Description
+
+Death has come to your little town.
+
+720
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Boogeyman's Robes
+
+HADDONFIELD NIGHTS
+
+The uniform for patients' of Smith's Grove Sanitarium, this one has been torn during a successful escape.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+First Cut
+
+HADDONFIELD NIGHTS
+
+The knife used during the 1963 murder of Judith Myers by her six-year-old brother, Michael Myers. The blade is still stained with blood.
+
+400
+
+Piece
+
+Name
+
+Flathead Skullpiercer
+
+Not a typical weapon, but with enough force it could gouge an eye socket or split through a skull.
+
+400
+
+Piece
+
+Name
+
+Unbreakable Pipe
+
+An old metal pipe that's as solid as the day it was made. With a strong arm it could cause significant blunt trauma.
+
+400
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Shape
+ is part of 
+2
+ DLC:
+
+The HALLOWEEN® Chapter
+
+Change Log
+
+Hotfix 1.2.1e
+Patch 1.5.0
+Patch 1.7.0
+Patch 2.1.0
+Patch 2.3.0
+Patch 3.3.1
+Patch 4.1.2
+Patch 5.7.0
+Patch 6.6.0
+Patch 7.3.3
+Patch 8.4.0
+Patch 8.4.1
+Patch 9.2.0
+Patch 9.2.3
+Patch 9.3.0
+Patch 9.4.0
+Hotfix 1.2.1e
+
+Nerf
+: removed the ability to stalk multiple Survivors simultaneously.
+
+Now, only the closest highlighted Survivor will be drained of 
+Evil
+ and fill the Power Gauge.
+Patch 1.5.0
+
+Nerf
+: 
+Bloodlust
+ no longer accumulates while 
+Stalking
+.
+Patch 1.7.0
+
+Nerf
+: 
+Bloodlust
+ is now disabled while in 
+Evil Within I
+.
+Patch 2.1.0
+
+Buff
+: increased the Walking speed in 
+Evil Within I
+ from 
+4.14 m/s
+ to 
+4.2 m/s
+.
+
+Quality of Life
+: standardised the Carrying speed to be equal across all Killers (used to be dependent on the default Walking speeds).
+Patch 2.3.0
+
+Quality of Life
+: reduced the SFX of his footsteps to make him stealthier and facilitate sneaking up on Survivors.
+Patch 3.3.1
+
+Change
+: updated 
+Evil Within I
+ with the 
+Undetectable
+ Status Effect
+ while in 
+Evil Within I
+, replacing the enhanced Stealth abilities.
+
+This, however, also had the negative effect that 
+The Shape
+ is no longer immune to Detection Perks, such as 
+Premonition
+ or 
+Spine Chill
+, which provide an auditory cue to warn of the Killer's proximity.
+Patch 4.1.2
+
+Nerf
+: removed the ability to stalk Survivors while in 
+Evil Within III
+.
+Patch 5.7.0
+
+Change
+: tweaked some values related to the Stalking ability due to a technical rework of the mechanic.
+Patch 6.6.0
+
+Quality of Life
+: performing his 
+Mini-Mori
+ with the Tombstone Add-ons now also removes the HUD elements.
+Patch 7.3.3
+
+Undocumented Change
+: changed the Killer's POV during a Memento Mori from first person to third person, making it identical to that of the Survivor.
+Patch 8.4.0
+
+Buff
+: increased the default Walking speed while in 
+Evil Within I
+ from 
+4.2 m/s
+ to 
+4.4 m/s
+.
+
+Buff
+: effectively doubled the available pool of 
+Evil
+ from 
+40 points
+ to 
+80 points
+.
+
+The pool is still distributed evenly across all Survivors present at the start of the Trial.
+
+Buff
+: reduced the amount of 
+Evil
+ needed to reach 
+Evil Within II
+ from 
+5 points
+ to 
+3 points
+.
+
+Rework
+: reworked the distance-based multiplier of the 
+Stalking
+ ability.
+
+increased the multiplier for 
+Stalking
+ from afar from 
+x0.1
+ to 
+x1
+.
+
+reduced the multiplier for 
+Stalking
+ from close-by from 
+x1
+ to 
+x0.4
+.
+
+These last two changes effectively reverse the 
+Stalking
+ behaviour, now favouring 
+The Shape
+ 
+Stalking
+ Survivors from afar over from close-by.
+
+Undocumented Change
+: changed the 
+Terror Radius
+ in 
+Evil Within I
+ from 
+6 metres
+ to 
+32 metres
+.
+
+Since the 
+Undetectable
+ Status Effect
+ overrides this at all times, this change is inconsequential.
+Patch 8.4.1
+
+Buff
+: increased the multiplier for 
+Stalking
+ from close-by from 
+x0.4
+ to 
+x0.6
+.
+Patch 9.2.0
+
+Rework
+: reworked 
+Evil Within
+ and a majority of its Add-Ons to make the gameplay of 
+The Shape
+ more versatile and menacing to play against.
+
+Change
+: removed the 
+Evil Within
+ Tier-up system, allowing 
+The Shape
+ to switch between 3 different modes during the Trial.
+
+Change
+: added 
+Stalker Mode
+ (old 
+Evil Within I
+), granting 
+The Shape
+ 
+Undetectable
+ 
+Status Effect
+ and the ability to 
+Stalk
+ until changing to another Mode.
+
+Reinstation
+: reintroduced 
+"the Hedge"
+ sound cue, now playing for both 
+The Shape
+ and Survivors being stalked when 
+The Shape's
+ 
+Stalk Meter
+ increases to 
+50%
+.
+
+Change
+: changed the distance-based 
+Stalk Rate
+ multiplier to be instead based on whether 
+The Shape
+ is moving, which it is then decreased.
+
+Undocumented Buff
+: 
+The Shape
+ can now gain 
+Bloodlust
+ in 
+Stalker Mode
+.
+
+Buff
+: removed the 
+Stalk Points
+ pool shared by all Survivors, allowing 
+The Shape
+ to 
+Stalk
+ without a limit.
+
+Buff
+: decreased the amount of 
+Evil
+ needed to use 
+Evil Incarnate
+ from 
+6 SP
+ to 
+5 SP
+.
+
+This was achieved by increasing 
+The Shape's
+ 
+Stalk
+ rate from 
+0.8333 SP/s
+ to 
+1 SP/s
+.
+
+Buff
+: increased 
+The Shape's
+ Movement speed when 
+Active Stalking
+ from 
+0.92 m/s
+ to 
+2.52 m/s
+.
+
+Buff
+: increased the open time of the 
+Lunge Attack
+ from 
+0.2 s
+ to 
+0.5 s
+.
+
+Nerf
+: reduced the maximum 
+Stalk
+ range from 
+40 meters
+ to 
+32 meters
+.
+
+Nerf
+: reduced Movement speed from 
+4.4 m/s
+ to  
+4.2 m/s
+.
+
+Nerf
+: introduced a mechanic that depletes the 
+Stalk Meter
+ to 
+50%
+ when it's not full after 
+The Shape
+ did not stalk any Survivor in the last 
+20 seconds
+.
+
+Nerf
+: introduced a global sound cue whenever 
+The Shape's
+ 
+Stalk Meter
+ is filled.
+
+Change
+: added 
+Pursuer Mode
+ (old 
+Evil Within II
+), granting 
+The Shape
+ increased movement, vault, breaking and stun recovery speeds together with an additional 
+Lunge Attack
+ range.
+
+Nerf
+: increased the 
+Terror Radius
+ from 
+16 meters
+ to 
+24 meters
+.
+
+Nerf
+: removed the ability to 
+Stalk
+.
+
+Change
+: added 
+Evil Incarnate Mode
+ (old 
+Evil Within III
+), granting 
+The Shape
+ the 
+Slaughtering Strike
+ ability and an additional 
+Vault speed
+.
+
+Buff
+: grants the ability to charge 
+Slaughtering Strike
+, unleashing an increased 
+Lunge Attack
+ that puts Survivors into 
+Dying State
+, breaks dropped 
+Pallets
+ and 
+Breakable walls
+, increasing its duration based on the charge time.
+
+Buff
+: grants the ability kill Healthy, Injured or Dying Survivors with 
+Evil Incarnate
+ who have accumulated 
+2
+ 
+Hook Stages
+.
+
+The kill prompt is not available on Survivors benefiting from 
+Endurance
+.
+
+Nerf
+: no longer grants all Survivors the 
+Exposed
+ 
+Status Effect
+.
+
+Nerf
+: decreased the 
+Evil Incarnate
+ duration from 
+60 seconds
+ to 
+40 seconds
+.
+
+Nerf
+: increased the 
+Terror Radius
+ from 
+32 meters
+ to 
+40 meters
+.
+
+Nerf
+: increased the 
+Vaulting
+ time from 
+1.275 seconds
+ to 
+1.42 seconds
+.
+
+This was achieved by decreasing 
+The Shape's
+ Vaulting speed bonus from 
+33.3%
+ to 
+20%
+.
+
+Nerf
+: decreased the open time of the 
+Lunge Attack
+ from 
+0.6 seconds
+ to 
+0.5 seconds
+.
+
+Nerf
+: added a brief animation when activating 
+Evil Incarnate
+, preventing 
+The Shape
+ from performing any attack or action.
+
+During this time, 
+The Shape
+ incurs a Movement speed penalty, reducing Movement speed to 
+3.45m/s
+.
+
+Change
+: added new visual and audio effects to 
+The Shape's
+ weapon to specify he is in and using 
+Evil Incarnate Mode
+.
+Patch 9.2.3
+
+Change
+: made a series of changes to restore some of 
+The Shape's
+ original gameplay while increasing 
+Evil Incarnate's
+ lethality:
+
+Reversal
+: reverted the Terror Radius change for both 
+Pursuer Mode
+ and 
+Evil Incarnate
+ back to their original state.
+
+Reduced Terror Radius in 
+Pursuer Mode
+ from 
+24 metres
+ back to 
+16 metres
+.
+
+Reduced Terror Radius in 
+Evil Incarnate
+ from 
+40 metres
+ back to 
+32 metres
+.
+
+Reversal
+: reverted the duration change of 
+Evil Incarnate
+ from 
+40 seconds
+ back to 
+60 seconds
+.
+
+Reversal
+: removed the Movement speed penalty when activating 
+Evil Incarnate
+.
+
+Buff
+: 
+Evil Incarnate
+ is now granted the same stun recovery and break speed bonus as 
+Pursuer Mode
+.
+
+Buff
+: increased 
+Slaughtering Strike's
+ Movement speed from 
+6.9 m/s
+ to 
+7.5 m/s
+.
+
+Buff
+: increased the turn-rate sensitivity of 
+Slaughtering Strike
+ and removed its vertical camera restriction.
+
+Buff
+: reduced the cool-down of 
+Slaughtering Strike's
+ from 
+6 seconds
+ to 
+4 seconds
+.
+Patch 9.3.0
+
+Quality of Life
+: The camera controls of 
+Slaughtering Strike
+ are now identical to the regular camera controls.
+Patch 9.4.0
+
+Undocumented Change
+: 
+Slaughtering Strike
+ was given a start-up animation.
+
+Instead of 
+The Shape
+ lifting his weapon as with the previous 
+Evil Within III
+ stance, he is now shown changing from his simple neutral grip to an overhead stabbing motion. Cancelling 
+Slaughtering Strike
+ simply causes him to lower the weapon.
+
+Trivia
+
+General
+
+The Shape
+ was the first Killer to be introduced as a paid 
+DLC
+ and as a licensed Character.
+
+The Shape
+ was the first Killer to feature a Power gauge.
+
+The Shape
+ was the second Killer to wear a face mask, the first being 
+Trapper
+.
+
+The Shape
+ is the only Killer with the ability to modify 
+Pallet
+ stun recovery speed and 
+Lunge Attack
+ duration during the Trial with his base-kit Power.
+
+The Shape
+ is one of the two killers who makes a sound effect when selected from the lobby or the 
+Store
+, the other being The 
+Nightmare
+.
+
+In 
+The Shape's
+ case, the leitmotif of 
+Halloween
+ can be heard.
+
+He was the third licensed Killer to leave with the retirement of the 
+Halloween
+ Chapter.
+
+The other two licensed Killers to leave were The 
+Demogorgon
+ and The 
+Cenobite
+. The first one has since returned along with its Chapter.
+
+The Shape's
+ in-game name is a reference to the original 1978 
+Halloween
+ Movie: during the credits, the adult Michael Myers (while masked) is credited as 
+"The Shape"
+.
+
+Cosmetics
+
+Default Outfit
+ originates from 
+Halloween (1978)
+, and is worn by Michael after escaping the 
+Smith's Grove Sanitarium
+ throughout the rest of the film.
+
+Escaped Patient
+ originates from 
+Halloween (1978)
+, and is worn by Michael as he escapes 
+Smith's Grove Sanitarium
+.
+
+Michael is maskless while wearing the gown in the movie.
+
+Differences from the Movies
+
+In the movie, the mask is different, with a lower hairline. He is much shorter, and he can be seen wearing Green Vietnam Combat Jungle Boots as well as his coveralls being muted tex green.
+
+In-game, the mask has a higher hairline, he is taller, and wears standard boots. He also has a much bigger body build.
+
+His bigger stature has led many players to falsely believe that this version of the character is based on the version from the 2007 and 2009 
+Halloween
+ and 
+Halloween II
+ remakes.
+
+Memento Mori
+
+The Shape
+ was the first Killer with a unique way to kill Survivors.
+
+The Shape
+ was the first Killer to have two Memento Mori animations, both animations changing only the start.
+
+When Killing a Survivor in 
+Evil Incarnate
+, 
+The Shape
+ grabs them from behind and turns them around before lifting them.
+
+Killing a Survivor in the 
+Dying State
+ via 
+Evil Incarnate
+, 
+Perks
+ or 
+Offerings
+ has 
+The Shape
+ lean down and grab the Survivor before lifting them.
+
+The Shape's
+ Memento Mori is likely a reference to how he kills Bob Simms in the 1978 film.
+
+He dashes out of a closet, grabs Bob, lifts him and stabs him through the torso with his knife.
+
+In an unknown Patch, the animation was changed to feature 
+The Shape
+ tilting his head, similar to how he tilted his head in the 1978 film after killing Bob.
+
+This animation change wasn't applied to the standing grab Memento Mori.
+
+Up until 
+Patch 9.2.0
+, 
+The Shape
+ was the first Killer that could Mori the Survivors regardless of how many times they had been hooked in a Trial.
+
+Additionally with Patch 9.2.0, 
+The Shape
+ became one of the few Killer that could Mori the Survivors with his Power. He is the only one of these Killers whose Power does not grant the Mini-Mori.
+
+Portrait
+
+Like all Killers, 
+The Shape
+ received a new Character Portrait with 
+Patch 7.1.0
+.
+However, the current version, released with 
+Patch 7.2.0
+, was the second iteration of that Portrait due to some grievances the Community had with the previous iteration:
+
+The first iteration featured 
+The Shape
+ holding up his knife and staring at it, which many Community members deemed 
+"too comical"
+.
+
+The second iteration is now more reminiscent of his pose featured in the cover art of 
+The HALLOWEEN® Chapter
+, which in itself is a reference to the film's poster.
+
+Terror Radius
+
+The Shape
+ was the first and for a long time the only Killer to feature a unique 
+Terror Radius
+ and 
+Chase Music
+.
+
+All of the music featured in the game are renditions of tracks from the original 1978 
+Halloween
+ OST.
+
+The Menu jingle as well as the Tier-up sound cues are based on snippets from the 
+"Halloween Main Theme"
+.
+
+The Terror Radius/Chase Music is an original rendition of 
+"The Shape Stalks"
+.
+
+The Tier-up Warning sound cue is based on 
+"The Hedge"
+.
+
+He can switch between 3 different 
+Terror Radii
+ during the Trial.
+
+Voice Actor
+
+The Shape
+ is voiced by Frédéric Poirier, who at that time worked as the Senior Sound Designer on the Game.
+
+He also voiced 
+Felix Richter
+.
+
+Gallery
+
+For more go to the 
+Shape's Gallery
+
+In-game Assets
+
+The Shape
+
+The Shape (Portrait render)
+
+The Shape (Background image)
+
+Official Art
+
+Old Assets
+
+The Shape's original portrait
+
+The Shape's portrait between PTBs 7.1.0 and 7.2.0
+
+Screenshots
+
+Michael walking towards the camera
+
+Michael performing his mori on 
+Nea
+
+Michael chasing an injured 
+Jake
+
+Michael in the 
+shack
+
+Michael performing his mori on 
+Dwight
+
+Michael in 
+Shelter Woods
+
+Michael on 
+MacMillan Estate
+
+Close-up of Michael's prestige mask
+
+Michael on the main menu
+
+Michael in 
+Backwater Swamp
+
+Close-up of Michael's mask, showing his eyes
+
+Michael on 
+Coldwind Farm
+
+Michael and 
+Laurie
+ standing next to each other
+
+Michael raising his knife
+
+Michael on a past Halloween event main menu
+
+Michael in the basement
+
+Fan Art
+
+The Shape's Fan Art (Made By Anin00tLikesThings)
+
+Others
+
+A plotted graph showing how distance affects the Tier-up time of 
+Evil Within
+ (applicable up to Patch 8.3.2)
+
+References
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

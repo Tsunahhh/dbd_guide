@@ -1,0 +1,4293 @@
+# Caleb Quinn
+Source: https://deadbydaylight.wiki.gg/wiki/Caleb_Quinn (page complète via API, consultée le 27/09/2026)
+
+The Deathslinger
+
+Name
+
+Caleb Quinn
+
+Game Alias(es)
+
+"The Collector"
+
+"Gunslinger"
+
+"Mad Mick"
+
+Gender
+
+Man
+
+Origin
+
+American of Irish descent
+
+Realm
+
+Grave of Glenvale
+
+Power
+
+The Redeemer
+
+Power 
+Attack
+ Type
+
+Special Attack
+
+(Harpoon)
+
+Weapon
+
+Death to Bayshore
+
+Movement Speed
+
+110 % 
+|
+ 4.4 m/s
+
+Terror Radius
+
+32 metres
+
+Height 
+
+Tall
+
+DLC
+
+Chains of Hate
+
+Voice Actor
+
+Patrick Harris (BHVR)
+
+Cost
+
+4,500 
+Iridescent Shards
+
+250 
+Auric Cells
+
+Breathing
+
+Menu Music
+
+Terror Radius Music
+
+Metadata
+
+CharID
+
+K19
+
+Caleb Quinn
+ or 
+"The Deathslinger"
+ is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+He was introduced as the Killer of 
+Chains of Hate
+, a Chapter DLC released on 10 March 2020 and retired on 8 January 2024.
+
+He is still available in the 
+In-Game Store
+ and as part of the 
+Old Wounds Pack
+ Chapter Pack DLC.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+2.1
+ 
+The Archives
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: Death to Bayshore
+
+3.3
+ 
+Power: The Redeemer
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for The Redeemer
+
+3.5
+ 
+Innate Skill
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Base Cosmetics
+
+5.1.1
+ 
+Default
+
+5.1.2
+ 
+Prestige
+
+5.1.2.1
+ 
+Perk Charms
+
+5.1.2.2
+ 
+Prestige Badges
+
+5.2
+ 
+Alternatives
+
+5.2.1
+ 
+Special
+
+5.2.2
+ 
+Event
+
+5.3
+ 
+Rift
+
+5.4
+ 
+In-Game Store
+
+5.5
+ 
+Alternate Character Models
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+General
+
+8.2
+ 
+Voice Actor
+
+9
+ 
+Gallery
+
+9.1
+ 
+In-game Assets
+
+9.2
+ 
+Official Art
+
+9.3
+ 
+Outfits
+
+9.4
+ 
+Old Assets
+
+9.5
+ 
+Concept Art
+
+9.6
+ 
+Screenshots
+
+Overview
+
+Upon catching prey unaware, the Deathslinger uses his handmade gun – The Redeemer – to skewer fleeing Survivors with a long-distance harpoon. Accurate aim, patient tracking, and sharp predictions are crucial to landing successful shots, but the reward of a Survivor’s scream as they’re reeled in will never sound so sweet.
+
+The Deathslinger
+ is a vengeful Killer, able to spear Survivors from a distance and reel them in using his Power, 
+The Redeemer
+.
+
+His personal Perks, 
+Gearhead
+, 
+Dead Man's Switch
+, and 
+Hex: Retribution
+ allow him to locate and impede Survivor objectives, and punish Survivors for destroying Totems.
+
+Lore
+
+Born in the dust-ridden Badlands of the American Midwest, Caleb Quinn was son to struggling Irish immigrants. On the edge of the frontier, sickness, famine, and death were common sights, and pioneers contended for whatever scraps they could claim while tycoons feasted. Caleb's father, once an engineer, had few options to ply his trade as businesses posted a common sign: No Irish Need Apply. His antiquated tools laid untouched for years until Caleb uncovered them. Noticing his son's interest in the trade, he gifted him his old wrench.
+
+The devices Caleb made under his father's guidance had quaint applications, but when his father was away, they took a grim turn. He hid plans for a mask that would gouge barbed needles into a human's eyes and rip them from their sockets, complete with sketches of it fitted on boys who bullied him.
+
+With age, Caleb's engineering abilities became marketable and employers put their discrimination aside. 
+Henry Bayshore
+, the owner of United West Rail, hired him.
+
+Caleb first invented a gun that shot railroad spikes into the ground. Next, he made a steam-powered tunnelling drill. But as Bayshore feigned indifference, the devices began turning up at other companies, the patents stolen from Caleb and sold.
+
+A familiar sensation coursed through Caleb's blood, feeding the sharp pain in his heart. Rage overwhelming him, he burst into Bayshore's office and smashed his face into a bloody stew. As he was pulled away, he pushed his specialised gun to his boss' gut and squeezed the trigger. A railroad spike ploughed through skin and viscera, nailing Bayshore to his desk.
+
+The only thing that saved Caleb from hanging was Bayshore's unlikely survival. For fifteen years, Caleb was confined to Hellshire Penitentiary, the nation's first private prison. In a fortress of illiterate convicts, he found an unlikely friend in the educated 
+prison warden
+. He designed torture devices for him and in return received extra meals. After a time, the warden offered to commute his sentence. He spoke of something greater than monetary wealth — political capital — and that his connections could have Bayshore framed and rotting behind bars for life. He had only one request: make him rich. Fill the prison. Use ingenuity to bring outlaws in alive.
+
+Caleb returned to his workshop, and with a few modifications emerged with something new — the speargun. The first trial occurred when a thief robbed a Chinese laundry. Seizing on the opportunity, Caleb unleashed his prototype. Metal joints screeched as the spike shot forward, gouging into the target's abdomen. But as the spear tugged, it caught the thief's intestines, and, with an ungodly sound, yanked them onto the dusty road. After several iterations, the disembowelments dwindled, but Caleb had already earned his new nickname: The Deathslinger.
+
+Looking to protect his asset, the prison warden pulled strings and released Irish inmates to form Caleb's posse. The Hellshire Gang was born. For six years, they roamed the country collecting wanted outlaws for the prison, fulfilling their end of the bargain. After a bloody battle at Glenvale, Caleb caught notice of a newspaper headline: Henry Bayshore Purchases Hellshire Penitentiary. In the picture, a disfigured Bayshore proudly shook the warden's hand. Caleb's heart pounded with rage, blood swelling as if it would burst from his veins. He'd been sold out, a pawn in a rich man's game.
+
+The Hellshire Gang pledged their loyalty to Caleb and called for the warden's head. In a thundering gallop, they smashed through the prison entrance, shrieking like bloodthirsty marauders. A guard raised his pistol, but hesitated. A spear punctured his chest. Caleb grabbed the man's head and slammed it against a prison cell until it spilled through the bars.
+
+Reaching the warden's office, Caleb kicked the door and was met with a fortunate sight — it wasn't only the prison warden who cowered in a corner, but Henry Bayshore. Overpowered with rage, Caleb rushed to Bayshore, beating, bludgeoning, tearing at his flesh. The man's blood dripped from his face, crimson pooling at his feet. The Hellshire Gang swarmed the warden, snapping bones with each kick.
+
+With the two men broken and begging for death, the posse dragged them to the commons, where they were left to the growing crowd of prisoners.
+
+Soaked in blood and sweat, Caleb hobbled to his old cell, hardly paying notice to Bayshore's screams. He sat on the bed's edge as drops of blood ran from his fingertips. A thick, unnatural fog streamed through the barred window. He pulled out his old wrench, cracked and rusted, and ran a thumb along the metal, regarding it with faded eyes. He couldn't remember when it came into his possession. He didn't care to remember. At his feet, he saw a dusty path, and, at its end, silhouettes of all who had done him wrong: the boys who bullied him, the executives who took advantage of him, and, again... Henry Bayshore. Emerging from a fog were the tools to dispose of them — unforgiving steel hooks, brilliant and beautiful in their simplicity. Pain tore through his leg as he stood, but he endured, pushing onwards, walking the dusty path, leaving a trail of blood flowing behind him.
+
+The Archives
+
+The table below lists additional Lore about 
+The Deathslinger
+ from 
+The Archives
+, either from 
+Tomes
+ that featured him or from individual Lore entries that mentioned him:
+
+Tome
+
+Entry
+
+Type
+
+Tome 15 - Ascension
+
+Memory 196
+
+Mentioned
+
+Tome 18 - Revision
+
+Memory Fragments (Caleb Quinn)
+
+Featured Character
+
+Load-out
+
+Unique Perks
+
+The Redeemer
+ comes with 
+3
+ 
+Perks
+ that are unique to him:
+
+ 
+
+Dead Man's Switch
+
+This description is based on the changes announced for or featured in the upcoming Patch 10.2.0
+After hooking a Survivor, 
+Dead Man's Switch
+ triggers its effect:
+
+The first 
+Generator
+ any Survivor stops repairing for 
+2 seconds
+ is blocked for 
+30
+/
+35
+/
+40
+ 
+seconds
+
+The 
+Blocked Generator
+ is highlighted to you in 
+white
+.
+
+Dead Man's Switch
+ cannot activate if its effect is still active from a previous activation.
+
+"I've seen the look on a man's face when he realises he's going to die." — Caleb Quinn
+
+ 
+
+Gearhead
+
+"You have got an ear for well-oiled gears."
+
+After a Survivor loses a 
+Health State
+, 
+Gearhead
+ activates for 
+30 seconds
+:
+
+While 
+Gearhead
+ is active, a 
+Survivor
+ succeeding a 
+Good Skill Check
+ while repairing reveals their 
+Aura
+ to you for 
+6
+/
+7
+/
+8
+ 
+seconds
+.
+
+"Sometimes a man's best work is what puts him in the grave." — The Prison Warden
+
+ 
+
+Hex: Retribution
+
+"A Hex that lashes out upon its destruction.
+Those who cross you will be punished."
+
+Whenever a Survivor blesses or cleanses a 
+Totem
+, 
+Hex: Retribution
+ triggers its primary effect:
+
+Causes that Survivor to suffer from the 
+Oblivious
+ 
+Status Effect
+ for 
+40
+/
+50
+/
+60
+ 
+seconds
+.
+
+Whenever a 
+Hex Totem
+ is removed by any means, including its own, 
+Hex: Retribution
+ triggers its secondary effect:
+
+The 
+Auras
+ of all Survivors are revealed to you for 
+20 seconds
+.
+
+The 
+Hex Effects
+ persist until the 
+Hex Totem
+ is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.
+
+"Bloody fool, you pulled the trigger on yourself." — Caleb Quinn
+
+Prestige
+
+Prestiging 
+The Deathslinger
+ will automatically add 
+Tier I
+ of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Deathslinger
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: Death to Bayshore
+
+The 
+Death to Bayshore
+ is the Primary Weapon of 
+The Redeemer
+.
+A sharp weapon with a strong bite.
+
+Power: The Redeemer
+
+"The Deathslinger's ingenuity affords him the ability to reel in bounties with a unique invention — a heavily modified hybrid rifle that replaces conventional ammunition with a razor-sharp spear affixed to a chain."
+SPECIAL ABILITY: THE REDEEMER
+Press and hold the 
+Power button
+ to 
+Aim Down Sights
+.
+SPECIAL WEAPON: SPEARGUN
+Press the 
+Attack button
+ during 
+ADS
+ to shoot 
+The Redeemer
+, launching a high-speed chained projectile that can spear Survivors within 
+18 metres
+, allowing 
+The Deathslinger
+ to reel them in.
+SPECIAL INTERACTION: REELING IN
+Press and hold the 
+Power button
+ while a Survivor is speared by 
+The Redeemer
+ to reel them in towards you:
+
+Walking backwards 
+increases
+ the Reeling speed.
+
+Speared Survivors
+ struggling against the pull of the chain slows the Reeling speed.
+
+Once a Survivor is close enough to you, press the 
+Attack button
+ to break the chain and strike the Survivor with a 
+Basic Attack
+:
+
+Causes the Survivor to suffer from the 
+Deep Wound
+ 
+Status Effect
+.
+
+The Deathslinger
+ can break the chain manually by attacking at any point during the Reeling-in process.
+SPECIAL INTERACTION: BREAKING THE CHAIN
+Whenever the chain of 
+The Redeemer
+ experiences tension or collides with the environment, it experiences stress that will eventually cause it to break.
+The more stress, the faster it will break:
+
+Causes 
+The Deathslinger
+ to be stunned for 
+2.7 seconds
+.
+
+Causes the 
+Speared Survivor
+ to break free, but suffer from the 
+Injured State
+ and 
+Deep Wound
+.
+
+SPECIAL INTERACTION: RELOADING
+Press and hold the 
+Secondary Power button
+ to reload 
+The Redeemer
+ after every shot:
+
+Reloading takes 
+2.6 seconds
+ to complete.
+
+Reduces
+ his Movement speed to 
+3.08 m/s
+.
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Walking while 
+Reloading
+: 
+3.08 m/s
+
+This is achieved by applying a multiplier of 
+x0.7
+ to his Walking speed.
+
+Walking while 
+Aiming Down Sights
+: 
+3.74 m/s
+
+This is achieved by applying a multiplier of 
+x0.85
+ to his Walking speed.
+
+Walking: 
+4.4 m/s
+
+Linked Movement Speeds:
+
+This refers to any situation in which 
+The Deathslinger
+ is literally linked to the 
+Impaled Survivor
+ through the chain of 
+The Redeemer
+.
+As with the speeds listed above, these are achieved by applying a multiplier to the default Movement speed, rather than a fixed value:
+
+The Deathslinger
+
+Impaled Survivor
+
+Situation
+
+Multiplier
+
+Result
+
+Multiplier
+
+Result
+
+Linked, default
+
+x0.5
+
+2.2 m/s
+
+x0.75
+
+1.695 m/s
+
+Walking in any other direction than backwards.
+
+Linked, walking backwards
+
+x0.7
+
+3.08 m/s
+
+x0.66
+
+1.4916 m/s
+
+Walking while the chain is colliding with an obstacle or another Player.
+
+Linked, with collision
+
+x0.8
+
+3.52 m/s
+
+x0.75
+
+1.695 m/s
+
+Walking backwards (i.e. away from the linked opponent).
+
+Harpoon:
+
+Launch speed: 
+40 m/s
+
+Return speed: 
+25 m/s
+
+This applies when a shot is missed and the 
+Harpoon
+ returns automatically.
+
+Reeling speed: 
+2.76 m/s
+
+The speed at which 
+The Deathslinger
+ manually reels back the 
+Harpoon
+ when a Survivor is impaled on it.
+
+Range: 
+18 metres
+
+Firing delay: 
+0.5 seconds
+
+Delay before the projectile is launched after pressing the 
+Attack button
+.
+
+Reload time: 
+2.6 seconds
+
+Cool-down time for successful hits: 
+0.5 seconds
+.
+
+Cool-down time for missed hits: 
+1.5 seconds
+.
+
+Temporary-Immobilisation duration for impaled Survivors: 
+0.75 seconds
+
+Briefly stops Survivors from moving while being impaled by the 
+Harpoon
+.
+
+Disturbance radius: 
+24 metres
+
+This refers to the 
+Harpoon
+ spooking nearby 
+Crows
+ when fired, causing them to fly off.
+
+Chain:
+
+Chain durability: 
+100 Charges
+
+Stun Penalty upon breaking: 
+2.7 seconds
+
+Depletion rates:
+
+Chain under Tension: 
+-2.5 c/s
+
+Chain under Pulling: 
+-15 c/s
+
+Chain under Collision: 
+-20 c/s
+
+Interaction
+
+Individual
+Depletion Rate
+
+Combined
+Depletion Rate
+
+Depletion Time
+
+Applicable Scenario
+
+Tension
+
+-2.5 c/s (T)
+
+-2.5 c/s
+
+40 seconds
+
+The Survivor is speared and 
+not
+ struggling against being reeled in.
+
+Tension + Collision
+
+-2.5 c/s (T)
+-20 c/s (C)
+
+-22.5 c/s
+
+~4.444 seconds
+
+Ditto, but the 
+Chain
+ is colliding with an obstacle.
+
+Tension + Pulling
+
+-2.5 c/s (T)
+-15 c/s (P)
+
+-17.5 c/s
+
+~5.714 seconds
+
+The Survivor is speared and struggling against being reeled in.
+
+Tension + Pulling + Collision
+
+-2.5 c/s (T)
+-15 c/s (P)
+-20 c/s (C)
+
+-37.5 c/s
+
+~2.666 seconds
+
+Ditto, but the 
+Chain
+ is colliding with an obstacle.
+
+Deep Wound:
+
+The 
+Deep Wound
+ timer is paused when a Survivor is speared by the Harpoon.
+
+Aim Down Sights (ADS):
+
+Activate/Deactivate ADS: 
+0.4/0.6 seconds
+
+ADS Zoom 
+125 %
+.
+
+ADS Camera Yaw speed (horizontal): 
+40 % (50 % with Gamepad)
+
+ADS Camera Pitch speed (vertical): 
+80 % (90 % with Gamepad)
+
+ADS Warning:
+
+Aiming 
+The Redeemer
+ in the direction of a Survivor who is within its maximum range will give that Survivor an auditory warning, if they are in 
+The Deathslinger's Terror Radius
+.
+The warning sound gets louder the closer his aim is centred on the Survivor's hitbox and acts as a warning of an impending shot.
+
+Add-ons for The Redeemer
+
+Icon
+
+Name
+
+Description
+
+Modified Ammo Belt
+
+An old ammo belt Caleb altered for his specialised weaponry.
+Still holds the fine red dirt of the Arizona Territory desert.
+
+Reduces
+ the Reload time of 
+The Redeemer
+ by 
+-0.25 seconds
+.
+
+Rickety Chain
+
+Weak steel links first used on Caleb's prototype Speargun.
+Despite the chain's failings, it holds sentimental value.
+
+Grants 
++50 %
+ bonus Bloodpoints for 
+Speared
+ Score Events.
+
+Increases
+ the Break-Free speed of Survivors from 
+The Redeemer
+ by 
++33 %
+.
+
+Snake Oil
+
+A tincture of oils and extracts purchased from a travelling salesman.
+Purported to cure all that ails you.
+
+Increases
+ the Reeling speed of 
+The Redeemer
+ by 
++2.5 %
+.
+
+Spit Polish Rag
+
+A grimy piece of burlap.
+Spit and elbow grease was enough to wipe down the Speargun in the heat of a shootout.
+
+Reduces
+ the Cool-down time of missed shots with 
+The Redeemer
+ by 
+-0.25 seconds
+.
+
+Chewing Tobacco
+
+A can of clipped and sweetened tobacco leaves lifted from a gutted body in Glenvale.
+Stimulates the nervous system.
+
+Reduces
+ the Stun duration when Survivors break free from 
+The Redeemer
+ by 
+-0.25 seconds
+.
+
+Jaw Smasher
+
+The bullet that ripped through Caleb's jaw during a frenzy shootout.
+It brings back burning desire for revenge.
+
+Increases
+ your Movement speed by 
++1.5 %
+ during 
+Aim Down Sights
+.
+
+"You called death to your door the instant you done me wrong." — Caleb Quinn
+
+Marshal's Badge
+
+A silver badge taken from the corpse of a lawman in Arizona Territory who interfered with the Hellshire Gang's bounties.
+
+Reduces
+ your 
+Terror Radius
+ by 
+-4 metres
+ during 
+Aim Down Sights
+.
+
+"Get your prayers in, you'll be swinging by noon." — Caleb Quinn
+
+Poison Oak Leaves
+
+An ordinary-looking plant, Caleb found out that spears coated in its oil cause unbearable blistering around wound.
+
+Increases
+ the Mending time of Survivors by 
++1.5 seconds
+.
+
+Rusted Spike
+
+A railroad spike that Caleb fastened to the front of the Speargun during a moment of morbid curiosity.
+The dull tip prevents it from cleanly piercing its target.
+
+Speared Survivors hit with the 
+The Redeemer
+ suffer from the 
+Mangled
+ 
+Status Effect
+ for 
+60 seconds
+.
+
+Bayshore's Gold Tooth
+
+A golden tooth torn from Henry Bayshore as he screamed for mercy, hours before he was finished off.
+
+Increases
+ the Reeling speed of 
+The Redeemer
+ by 
++5 %
+.
+
+"Know your place, boy. Know you damn place." — Henry Bayshore
+
+Honey Locust Thorn
+
+Angered with a bounty who fled twice before, Caleb twisted thorn branches onto a spear and let it loose.
+
+Speared Survivors breaking free from the 
+The Redeemer
+ suffer from the 
+Mangled
+ 
+Status Effect
+ for 
+70 seconds
+.
+
+Tin Oil Can
+
+A can holding a small amount of oil to reduce friction in machinery.
+Early models of the Speargun were notorious for jamming, and oil had to be readily available.
+
+Reduces
+ the Cool-down time of missed shots with 
+The Redeemer
+ by 
+-0.5 seconds
+.
+
+Wanted Poster
+
+The bullet that ripped through Caleb's jaw during a frenzy shootout.
+It brings back burning desire for revenge.
+
+Increases
+ your Movement speed by 
++3 %
+ during 
+Aim Down Sights
+.
+
+"You'll be met with a fierce reckoning, swear it on my mum's grave." — Caleb Quinn
+
+Warden's Keys
+
+The dull jangle of the keys evokes a furious memory within Caleb.
+
+Reduces
+ the Reload time of 
+The Redeemer
+ by 
+-0.35 seconds
+.
+
+Barbed Wire
+
+Pliable American-made steel lined with sharp barbs.
+Despite its simplicity, Caleb found it could be wrapped around a spear to increase its viciousness.
+
+Increases
+ the Mending time of Survivors by 
++3.5 seconds
+.
+
+"There won't be nothing to fear soon. Till then, fear me." — Caleb Quinn
+
+Bayshore's Cigar
+
+A quality cigar, plucked from the jacket of Caleb's boss while he wailed over the spear lodged in his abdomen.
+
+Reduces
+ the Stun duration when Survivors break free from 
+The Redeemer
+ by 
+-0.75 seconds
+.
+
+"Do not point that thing at me, you slack-jawed imbecile." — Henry Bayshore
+
+Gold Creek Whiskey
+
+Warm comfort in a bottle that quelled Caleb's anger and slowed his step.
+
+Reduces
+ your 
+Terror Radius
+ by 
+-8 metres
+ during 
+Aim Down Sights
+.
+
+"A smooth taste for the rugged frontier." — Gold Creek Advertisement, 1876
+
+Prison Chain
+
+A thick, heavy chain that once held a steel ball and latched to Caleb's ankle.
+It has been re-purposed to hook onto a spear.
+
+Increases
+ the Break-Free time of Survivors from 
+The Redeemer
+ by 
++10 %
+.
+
+"Inmates working beyond the prison yard must be affixed with a steel ball of no less than 18 pounds." — Hellshire Penitentiary Guard Book
+
+Hellshire Iron
+
+The Hellshire Gang's branding iron.
+Despite folklore, it never made its mark on new initiates, instead having been used to brand particularly quarrelsome bounties.
+
+Grants the 
+Undetectable
+ 
+Status Effect
+ while a Survivor is speared by 
+The Redeemer
+.
+
+This effect lingers for 
+10 seconds
+.
+
+"Hellshire Gang: Justice Seekers or Outlaws?" — Glenvale Gazette headline
+
+Iridescent Coin
+
+A glass-like coin moulded from The Fog itself.
+A payment to the bounty hunter for the services rendered.
+
+Survivors suffer from the 
+Exposed
+ 
+Status Effect
+ while speared by 
+The Redeemer
+, if shot from at least 
+12 metres
+ away.
+
+"Deals made in desperation are paid for in madness."
+
+Innate Skill
+
+Used exclusively in 
+2v8
+ Trials, the 
+Innate Skill
+ modifies 
+The Redeemer
+ with the following effects:
+
+Innate Skill
+ (
+Deathslinger Passive
+) 
+
+Modifies the 
+The Redeemer
+ with the following effects:
+
+Reduces
+ its Reload time by 
+-0.6 seconds
+.
+
+Increases
+ its Reeling speed by 
++0.24 m/s
+.
+
+Increases
+ the reload movement speed modifer by 
++10 %
+.
+
+Decreases
+ its miss cool-down time by 
+-0.3 seconds
+.
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There are 
+2
+ Achievements related to 
+The Deathslinger
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Deathslinger
+
+Playing as The 
+Deathslinger
+, achieve a 
+Merciless Victory
+ using only his 
+3
+ Unique Perks: 
+Gearhead
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"You have got an ear for well-oiled gears."
+
+After a Survivor loses a 
+Health State
+, 
+Gearhead
+ activates for 
+30 seconds
+:
+
+While 
+Gearhead
+ is active, a 
+Survivor
+ succeeding a 
+Good Skill Check
+ while repairing reveals their 
+Aura
+ to you for 
+6
+/
+7
+/
+8
+ 
+seconds
+.
+
+"Sometimes a man's best work is what puts him in the grave." — The Prison Warden
+
+, 
+Dead Man's Switch
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+This description is based on the changes announced for or featured in the upcoming Patch 10.2.0
+After hooking a Survivor, 
+Dead Man's Switch
+ triggers its effect:
+
+The first 
+Generator
+ any Survivor stops repairing for 
+2 seconds
+ is blocked for 
+30
+/
+35
+/
+40
+ 
+seconds
+
+The 
+Blocked Generator
+ is highlighted to you in 
+white
+.
+
+Dead Man's Switch
+ cannot activate if its effect is still active from a previous activation.
+
+"I've seen the look on a man's face when he realises he's going to die." — Caleb Quinn
+
+, and 
+Hex: Retribution
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"A Hex that lashes out upon its destruction.
+Those who cross you will be punished."
+
+Whenever a Survivor blesses or cleanses a 
+Totem
+, 
+Hex: Retribution
+ triggers its primary effect:
+
+Causes that Survivor to suffer from the 
+Oblivious
+ 
+Status Effect
+ for 
+40
+/
+50
+/
+60
+ 
+seconds
+.
+
+Whenever a 
+Hex Totem
+ is removed by any means, including its own, 
+Hex: Retribution
+ triggers its secondary effect:
+
+The 
+Auras
+ of all Survivors are revealed to you for 
+20 seconds
+.
+
+The 
+Hex Effects
+ persist until the 
+Hex Totem
+ is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.
+
+"Bloody fool, you pulled the trigger on yourself." — Caleb Quinn
+
+.
+
+Bound and Downed
+
+Playing as The 
+Deathslinger
+, down Survivors speared by 
+The Redeemer
+ a total of 
+30 times
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Deathslinger
+:
+
+Base Cosmetics
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+The Deathslinger
+
+Common
+
+An inventive and volatile engineer, Caleb derived all his passion from his groundbreaking designs. When a wealthy man stole his life's work, revenge became his sole priority.
+
+Frock Coat
+
+Common
+
+A fitted, long-sleeved coat to keep his weapons and devices concealed but easy to reach.
+
+Death to Bayshore
+
+Common
+
+A sharp weapon with a strong bite.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Bloody Deathslinger
+
+Rare
+
+An inventive and volatile engineer, Caleb derived all his passion from his ground-breaking designs. When a wealthy man stole his life's work, he sought to tear his body apart limb from limb.
+
+Prestige Level 6 Reward
+
+Sanguinary Frock
+
+Rare
+
+A fitted, long-sleeved coat to keep his targets from drenching his weapons and devices in blood.
+
+Prestige Level 5 Reward
+
+Violent Death to Bayshore
+
+Rare
+
+A sharp weapon with a strong bite... and a thirst for blood.
+
+Prestige Level 4 Reward
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+When a wealthy man stole his life's work, revenge became his soul priority.
+
+Alternatives
+
+Special
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Event
+
+Pecan Crown (4th Anniversary)
+
+Uncommon
+
+He used his ingenuity to find how to bring in outlaws-not dead, but alive.
+
+Fourth Year Anniversary
+
+Red Peak Jacket (4th Anniversary)
+
+Uncommon
+
+He went to his workshop and immersed himself in his work to take on this new job.
+
+Fourth Year Anniversary
+
+Radical Badland Grit (4th Anniversary)
+
+Uncommon
+
+When he emerged, he carried the prototype of a pressure-based spear gun.
+
+Fourth Year Anniversary
+
+Frosty Eyes
+
+Uncommon
+
+The cold eyes of a Killer who wants warm blood.
+
+"Have a fantastic holiday season and a bloody good new year!" — The Dead by Daylight Team
+
+Advent Calendar 2020
+
+Event
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Event
+
+Exclusive to Event Participation
+
+Crown of the Entity
+
+Event
+
+A crown emanating a festive and ominous aura created by the Entity's biggest fan.
+
+Fourth Year Anniversary
+
+Yes
+
+5th Anniversary Crown
+
+Event
+
+A crown crafted for a very special anniversary.
+
+"Thank you for supporting & inspiring us along the years!" - The Dead by Daylight Team
+
+Fifth Year Anniversary
+
+Yes
+
+Deathslinger's Mask
+
+Event
+
+A mask they found themselves wearing at the masquerade ball.
+
+Twisted Masquerade Event
+
+Yes
+
+Holiday Harpoon
+
+Event
+
+A unique way to get your friends to come over during the holidays.
+
+Bone Chill 2022
+ 
+Tome: Level 1
+
+Yes
+
+Chocolate Spike
+
+Event
+
+Any make-shift weapon would look tempting when coated in chocolate.
+
+Haunted by Daylight 2023
+
+Yes
+
+ Rift
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Hard Luck
+
+St. Patrick’s 2022
+
+Tome 10 - SAW
+
+12 June 2018 (Tuesday)
+
+Description
+
+Caleb's life has been rife with misfortune. It's time for him to make his own luck.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Hibernian Top Hat
+
+St. Patrick’s 2022
+
+7
+
+A green cap from Ireland. How it got here is anyone's guess.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Frock of the Irish
+
+St. Patrick’s 2022
+
+16
+
+Good camouflage for the Emerald Isle.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Emerald Plight
+
+St. Patrick’s 2022
+
+29
+
+The last place you want to be is at the end of this rainbow.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+One-Shot Bandit
+
+Field Test
+
+Tome 7 - Forsaken
+
+12 June 2018 (Tuesday)
+
+Description
+
+He doggedly tracked his bounty through the Rocky Mountains of Colorado, cornering him in the town of Silverton.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Stubborn Mug
+
+Field Test
+
+65
+
+Using a snowstorm as cover, he ambushed his mark and clamped him in a metal spear.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Snow Carver Shirt
+
+Field Test
+
+53
+
+Though the man was seriously injured, he was alive and ready for incarceration.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Rail's End
+
+Field Test
+
+46
+
+It was the first successful test of the pressure-based spear. From that moment, the number of disemboweled victims quickly trailed off.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Roving Bounty
+
+Sacrifice The Sunflesh
+
+Rift Pass 6 - Sunflesh
+
+21 July 2026 (Tuesday)
+
+Description
+
+The air was hot and still. Caleb was in a bad shape after walking under the blazing sun for hours.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Beastly Skull
+
+Sacrifice The Sunflesh
+
+5
+
+He squinted and saw strangely dressed figures nearby. Or perhaps far away. He wasn't sure.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Desert Strike Robe
+
+Sacrifice The Sunflesh
+
+13
+
+He fell to his knees, exhausted, and begged the figures for help. But whoever was there ignored his plea.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Golden Disaster
+
+Sacrifice The Sunflesh
+
+19
+
+Through his blurred vision, he watched the golden figures dancing until he fainted, lost and alone.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Remaining Wrangle
+
+Slice Of Life
+
+Tome 20 - Mythic
+
+12 June 2018 (Tuesday)
+
+Description
+
+Caleb took the blows and hit the ground. The men circled him, telling him they didn't want prisoners in their town.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Dusty Scowl
+
+Slice Of Life
+
+9
+
+He winced in pain as he struggled to stand up. His ears rang, and eyes stung from dust before another punch struck.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Blustered Overalls
+
+Slice Of Life
+
+13
+
+Drenched in sweat, he retreated to his workshop. Rage consumed him, feeding his mind with sketches and plans.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Sweet Revenge
+
+Slice Of Life
+
+15
+
+He pictured the brutes begging for mercy as blades cut through their bodies. They would die wishing they'd never crossed the Deathslinger.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Tortured Nightmare
+
+Inner Struggle
+
+Tome 18 - Revision
+
+11 March 2025 (Tuesday)
+
+Description
+
+He tossed and turned in his cell, dreaming of his devices being used against him.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Piercing Collar
+
+Inner Struggle
+
+16
+
+He tried to scream as he imagined the spikes digging into his throat.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Lacerated
+
+Inner Struggle
+
+19
+
+The sight of blood pouring from his body chilled him to his core.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Serrated Speargun
+
+Inner Struggle
+
+23
+
+He awoke in the night with a new understanding of pain.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Tortured Nightmare (Deep Rift)
+
+Deep Rift
+
+Tome 18 - Revision
+
+12 June 2018 (Tuesday)
+
+Description
+
+He was powerless to resist as beings from another realm turned his torture devices against him.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Piercing Collar (Deep Rift)
+
+Deep Rift
+
+74
+
+The creatures wailed as the spikes dug into his throat.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Lacerated (Deep Rift)
+
+Deep Rift
+
+79
+
+The sight of blood pouring from his body excited them all.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Serrated Speargun (Deep Rift)
+
+Deep Rift
+
+84
+
+He watched as they pointed his own gun at his chest, waiting for the pull of the trigger.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+King of Hearts
+
+Cupid's Chosen Collection
+
+Tome 14 - Betrayal
+
+14 February 2025 (Friday)
+
+Description
+
+He had never experienced Valentine's Day. Love was never in the cards for him.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Steely Gaze
+
+Cupid's Chosen Collection
+
+10
+
+Couples always felt uncomfortable, as if someone was staring at them, when he was around.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Mood Killer
+
+Cupid's Chosen Collection
+
+20
+
+When The Entity gifted him with this romantic ensemble, it felt like a cruel trick.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Lovebirds Wing Shot
+
+Cupid's Chosen Collection
+
+7
+
+His new customized weapon will make lovers' hearts beat faster.
+
+400
+
+7200
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Merciless
+
+Badland Born
+
+10 March 2020 (Tuesday)
+
+Description
+
+A creative inventor who squandered his talent and skill pursing vengeance.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Frontier Dress Shirt (Crimson)
+
+Badland Born
+
+A formal shirt that reminds him he's got a job to do.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Greasetooth (Crimson)
+
+Badland Born
+
+Some wrongs must be washed in blood to be forgotten. And even then, they can never be forgiven.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Lawless
+
+Badland Born
+
+10 March 2020 (Tuesday)
+
+Description
+
+A creative inventor who squandered his talent and skill pursing vengeance.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Frontier Dress Shirt (Indigo)
+
+Badland Born
+
+A formal shirt that reminds him he's got a job to do.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Greasetooth (Ashen)
+
+Badland Born
+
+Some wrongs must be washed in blood to be forgotten. And even then, they can never be forgiven.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Heartless
+
+Badland Born
+
+10 March 2020 (Tuesday)
+
+Description
+
+A creative inventor who squandered his talent and skill pursing vengeance.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Frontier Dress Shirt (Sand)
+
+Badland Born
+
+A formal shirt that reminds him he's got a job to do.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Greasetooth (Brown)
+
+Badland Born
+
+Some wrongs must be washed in blood to be forgotten. And even then, they can never be forgiven.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Godless
+
+Badland Born
+
+10 March 2020 (Tuesday)
+
+Description
+
+A creative inventor who squandered his talent and skill pursing vengeance.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Frontier Dress Shirt (Sweat Stained)
+
+Badland Born
+
+A formal shirt that reminds him he's got a job to do.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Greasetooth (Beige)
+
+Badland Born
+
+Some wrongs must be washed in blood to be forgotten. And even then, they can never be forgiven.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Bounty Hunter
+
+Sundown
+
+10 March 2020 (Tuesday)
+
+Description
+
+After being detained for fifteen years, the prison warden paid him a visit, offering to expedite his release. There was a catch: he would have to fill the prison.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Pecan Crown
+
+Sundown
+
+He used his ingenuity to find how to bring in outlaws—not dead, but alive.​
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Red Peak Jacket
+
+Sundown
+
+He went to his workshop and immersed himself in his work to take on this new job.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Radical Badland Grit
+
+Sundown
+
+When he emerged, he carried the prototype of a pressure-based spear gun.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Rough Rider
+
+Sundown
+
+10 March 2020 (Tuesday)
+
+Description
+
+After being detained for fifteen years, the prison warden paid him a visit, offering to expedite his release. There was a catch: he would have to fill the prison.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Renegade
+
+Sundown
+
+He used his ingenuity to find how to bring in outlaws—not dead, but alive.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Frontier Overcoat
+
+Sundown
+
+He went to his workshop and immersed himself in his work to take on this new job.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Ruthless Badland Grit
+
+Sundown
+
+When he emerged, he carried the prototype of a pressure-based spear gun.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Outback Engineer
+
+Sundown
+
+10 March 2020 (Tuesday)
+
+Description
+
+After being detained for fifteen years, the prison warden paid him a visit, offering to expedite his release. There was a catch: he would have to fill the prison.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Wind Storm
+
+Sundown
+
+He used his ingenuity to find how to bring in outlaws—not dead, but alive.​
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Sand Duster
+
+Sundown
+
+He went to his workshop and immersed himself in his work to take on this new job.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Restless Badland Grit
+
+Sundown
+
+When he emerged, he carried the prototype of a pressure-based spear gun.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Diligent Cowpuncher
+
+Field Test
+
+10 March 2020 (Tuesday)
+
+Description
+
+He doggedly tracked his bounty through the Rocky Mountains of Colorado, cornering him in the town of Silverton.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Dented Browtine
+
+Field Test
+
+Using a snow storm as cover, he ambushed his mark and clamped him in a metal spear.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Stampede Shirt
+
+Field Test
+
+Though the man was seriously injured, he was alive and ready for incarceration.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rail's Razor
+
+Field Test
+
+It was the first successful test of the pressure-based spear.​ From that moment, the number of disemboweled victims quickly trailed off.​
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Hard Luck
+
+St. Patrick’s 2022
+
+Tome 10 - SAW
+
+12 June 2018 (Tuesday)
+
+Description
+
+Caleb's life has been rife with misfortune. It's time for him to make his own luck.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Hibernian Top Hat
+
+St. Patrick’s 2022
+
+7
+
+A green cap from Ireland. How it got here is anyone's guess.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Frock of the Irish
+
+St. Patrick’s 2022
+
+16
+
+Good camouflage for the Emerald Isle.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Emerald Plight
+
+St. Patrick’s 2022
+
+29
+
+The last place you want to be is at the end of this rainbow.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Silver Desperado
+
+Field Test
+
+10 March 2020 (Tuesday)
+
+Description
+
+He doggedly tracked his bounty through the Rocky Mountains of Colorado, cornering him in the town of Silverton.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Old Colt
+
+Field Test
+
+Using a snow storm as cover, he ambushed his mark and clamped him in a metal spear.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Cold Stream Shirt
+
+Field Test
+
+Though the man was seriously injured, he was alive and ready for incarceration.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rail's Edge
+
+Field Test
+
+It was the first successful test of the pressure-based spear.​ From that moment, the number of disemboweled victims quickly trailed off.​
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Building Anger
+
+Days Gone By
+
+18 February 2025 (Tuesday)
+
+Description
+
+Little Caleb sat in front of the general store, trying to build a fake gun with trimmed branches while waiting for his mother.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Brass Hat
+
+Days Gone By
+
+He paid no mind to the dapper man that strolled into the store. Not until he heard his mother screaming within.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Fringed Jacket
+
+Days Gone By
+
+He found his mother crying, a large gob of tobacco on her dress. The man laughed as he left, knocking the boy over without a second thought.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Raging Harpoon
+
+Days Gone By
+
+The wooden gun was snapped in half from the fall. Caleb stared at it, knowing he'd make something better one day.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Double-Crossed
+
+Tombstone
+
+01 April 2020 (Wednesday)
+
+Description
+
+He'd need protection to last. ​The prison warden pulled strings, had him deputized, and released two dozen Irish inmates to form his posse. The Hellshire Riders were born and they were thirsty for blood.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Custom Made Custer
+
+Tombstone
+
+The dusty hat that bears the markings of the fight that almost killed him.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Blackmount Vest
+
+Tombstone
+
+The skirmishes became a regular danger to citizens as collateral damage added up.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Killjoy
+
+Tombstone
+
+The more people died, the more he thirsted for blood. His need for revenge was his food, faith, and fire. Nothing outside of it existed.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Frontier Nightmare
+
+Blood Moon
+
+26 March 2026 (Thursday)
+
+Description
+
+He had no qualms about spilling blood, even if it meant losing some of his own in the process.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Devil’s Grin
+
+Blood Moon
+
+Caleb always had a sick sense of gallows humor, flashing a rotten smile as they begged for the pain to stop.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Sinner’s Scars
+
+Blood Moon
+
+He couldn't recall who carved symbols across his torso, nor the gaping chasm on his back, but he was keen to return the favor.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Old Reliable
+
+Blood Moon
+
+He traced his finger along the bloody markings, as lovingly as he caressed his weapon. One way or another, he would have his retribution.
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+The Oxen Bounty
+
+Gilded Stampede
+
+11 February 2021 (Thursday)
+
+Description
+
+The man Caleb claimed a bounty on had an unusual outfit, like nothing he’d seen before. Wherever it was from, it was his now.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Horned Hood
+
+Gilded Stampede
+
+A brilliant red hood adorned with the mighty horns of the ox.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Faraway Robe
+
+Gilded Stampede
+
+An exotic robe that was wholly unfamiliar to the world Caleb had grown up in. Decorated with unusual gold markings.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Crimson Might
+
+Gilded Stampede
+
+Caleb draped shreds of the red cloth on his speargun, allowing it to serve as a warning flag to those who crossed him.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Tortured Nightmare
+
+Inner Struggle
+
+Tome 18 - Revision
+
+11 March 2025 (Tuesday)
+
+Description
+
+He tossed and turned in his cell, dreaming of his devices being used against him.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Piercing Collar
+
+Inner Struggle
+
+16
+
+He tried to scream as he imagined the spikes digging into his throat.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Lacerated
+
+Inner Struggle
+
+19
+
+The sight of blood pouring from his body chilled him to his core.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Serrated Speargun
+
+Inner Struggle
+
+23
+
+He awoke in the night with a new understanding of pain.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Frontier Vigilante
+
+Showdown
+
+10 March 2020 (Tuesday)
+
+Description
+
+After being left for dead, he suffered a grueling surgery that left him with a limp. He swore vengeance.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Smooth Head
+
+Showdown
+
+A bloody gang war ensued, with Bayshore and the prison warden backing separate side.​
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Self-Proclaimed Deputy
+
+Showdown
+
+He suffered through convalescence to make a bold come back.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Spirit of Belfast
+
+Showdown
+
+First day back on the job and he was capturing the leader of the notorious Mason Kelly Gang. While the act immediately gained him recognition as a top bounty hunter, it also put him in the crosshairs of vengeful outlaws.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Blighted Bounty Hunter
+
+HALLOWED BLIGHT
+
+08 October 2024 (Tuesday)
+
+Description
+
+The subject's boiling blood made the serum flow like lightning.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Sodden Face
+
+HALLOWED BLIGHT
+
+His face changed in an instant as the blight took him, filling his skull with nectar and rage.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Fetid March
+
+HALLOWED BLIGHT
+
+The infestation melted his muscles and withered his skin. The transformation was complete.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Bolt & Ooze
+
+HALLOWED BLIGHT
+
+The relentless blight even overtook the weapon in his hands, dripping gold serum over the contours of the machine.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Railroad Warden
+
+Daring Adventure
+
+18 May 2023 (Thursday)
+
+Description
+
+He loved to ride trains with his father.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Steamy Glare
+
+Daring Adventure
+
+His beard became darker after searching for a wanted outlaw in the machinery of a locomotive.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Hand-Cranked Splint
+
+Daring Adventure
+
+This brace, inspired by locomotive engineering was more comfortable than he expected.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Tracks Killer
+
+Daring Adventure
+
+A harpoon fashioned from old wooden boards and train tracks.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+King of Hearts
+
+Cupid's Chosen Collection
+
+Tome 14 - Betrayal
+
+14 February 2025 (Friday)
+
+Description
+
+He had never experienced Valentine's Day. Love was never in the cards for him.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Steely Gaze
+
+Cupid's Chosen Collection
+
+10
+
+Couples always felt uncomfortable, as if someone was staring at them, when he was around.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Mood Killer
+
+Cupid's Chosen Collection
+
+20
+
+When The Entity gifted him with this romantic ensemble, it felt like a cruel trick.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Lovebirds Wing Shot
+
+Cupid's Chosen Collection
+
+7
+
+His new customized weapon will make lovers' hearts beat faster.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Fishy Target
+
+Sea-Washed Creatures
+
+20 July 2021 (Tuesday)
+
+Description
+
+His target was a bank robber who had escaped justice by boarding a whaling ship leaving the harbor. Five years later, the bank robber was spotted at the harbor up north.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Stolen Hat & Pipe
+
+Sea-Washed Creatures
+
+To catch the bank robber off guard, he dressed up as a fisherman and walked to the harbor.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Fish Market Overalls
+
+Sea-Washed Creatures
+
+He wore thick overalls, equipped with a utility belt with fresh catches and sharp hooks. As he scouted the harbor, he found his elusive bounty unloading a crate of giant squids.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Anchored Harpoon
+
+Sea-Washed Creatures
+
+He shot his barnacle-crusted harpoon into his bounty's shoulder blade. The bounty would not get away this time.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Twilight Swarm
+
+Chrysalis
+
+15 June 2022 (Wednesday)
+
+Description
+
+One cannot skulk in the shadows without attracting the creatures of the night.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Winged Colony
+
+Chrysalis
+
+A group of moths are using his maw as a cocoon.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Moth-ridden Duster
+
+Chrysalis
+
+They’ve made a mess of his jacket. Should have used mothballs.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Bugbear
+
+Chrysalis
+
+It’s said he could hit a target at a hundred yards in the dead of night.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Stranger Eddie
+
+Iron Maiden
+
+22 February 2024 (Thursday)
+
+Description
+
+His endless pursuit brought him to a watering hole populated by beings from other worlds.
+
+1485
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Crooked Hunter
+
+Iron Maiden
+
+He gritted his teeth and his glowing eye scanned the desolate saloon.
+
+Piece
+
+Name
+
+Collection
+
+Metallic Muscle
+
+Iron Maiden
+
+His mechanized flesh tensed as he left with his bounty, leaving despair in his wake with each step.
+
+Piece
+
+Name
+
+Collection
+
+Hi-Tech Speargun
+
+Iron Maiden
+
+The bounty tried to flee, and the spear punched through his shoulder.
+
+Piece
+
+Name
+
+Collection
+
+Chocolate Spike
+
+Tricks and Treats
+
+Any make-shift weapon would look tempting when coated in chocolate.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Deathslinger’s Mask
+
+Twisted Masquerade
+
+A mask they found themselves wearing at the masquerade ball.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Dominant Eye
+
+Slipknot
+
+The Deathslinger set his sights on his target as the raw sound of guitar strings erupted in the realm. He grinned and opened fire as an ominous mask manifested over his face.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Holiday Harpoon
+
+Bone Chill
+
+A unique way to get your friends to come over during the holidays.
+
+400
+
+7200
+
+Alternate Character Models
+
+The Deathslinger
+ has 
+1
+ alternate Character model available in the in-game Store:
+
+Stranger Eddie
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Deathslinger
+ is part of 
+3
+ DLCs:
+
+Chapter DLC:
+
+Chains of Hate
+ (
+retired
+)
+
+Pack DLCs:
+
+Old Wounds Pack
+ (Chapter Pack)
+
+Terror Expansion Pack
+ (Character Pack)
+
+Change Log
+
+Patch 5.3.0
+Patch 7.3.0
+Patch 8.0.0
+Patch 8.5.0
+Patch 5.3.0
+
+Buff
+: increased the Movement Speed modifier during 
+ADS
+ from 
+x0.75
+ to 
+x0.85
+.
+
+Buff
+: reduced the stun from a Survivor breaking free from 
+The Redeemer
+ from 
+4 seconds
+ to 
+3 seconds
+.
+
+Nerf
+:
+ 
+The Deathslinger
+  must now wait for the 
+Aim Down Sights (0.40s)
+ animation to complete before he can shoot 
+The Redeemer
+.
+
+Nerf
+:
+ 
+The Deathslinger
+ must now wait for the 
+Exit Aim (0.60s)
+ animation to complete before he can initiate a 
+Basic Attack
+.
+
+Nerf
+:
+ increased 
+The Deathslinger's
+ Terror Radius from 
+24 metres
+ to 
+32 metres
+.
+Patch 7.3.0
+
+Buff
+: reduced the Reload time of  
+The Redeemer
+ from 
+2.75 seconds
+ to 
+2.6 seconds
+.
+Patch 8.0.0
+
+Buff
+: reduced the Stun duration from a Survivor breaking free from 
+The Redeemer
+ from 
+3 seconds
+ to 
+2.7 seconds
+.
+
+Buff
+: increased the Reeling Movement speed from 
+2.6 m/s
+ to 
+2.76 m/s
+.
+
+Buff
+: increased the Reloading Movement speed from 
+2.64 m/s
+ to 
+3.08 m/s
+.
+Patch 8.5.0
+
+Quality of Life
+: removed the Progress bar from the 
+Reload
+ interaction.
+
+Trivia
+
+General
+
+The 
+Chains of Hate Behind The Scenes
+ Video revealed that 
+Caleb Quinn
+ was born in 
+South Dakota
+.
+
+The descriptions for the 
+Silver Desperado
+ and 
+Diligent Cowpuncher
+ Outfits reveal that 
+The Deathslinger
+ hunted his bounty to Silverton, CO, where he cornered him. Silverton is actually a real town in 
+San Juan County, Colorado
+.
+
+The name of the 
+Silver Desperado
+ Outfit is likely a reference to Silverton's most important mine at the time, 
+Sunnyside Mine
+, where considerable amounts of silver had been found.
+
+Zarina Kassir
+'s Lore reveals that Hellshire Penitentiary, in which 
+Caleb Quinn
+ was an inmate, is located in 
+Nebraska
+.
+
+The Deathslinger
+ was the second Killer to laugh after hitting a Survivor.
+
+The Deathslinger
+ was the fourth Killer to have a special chase music.
+
+The Deathslinger
+ was the third Killer to have a projectile attack.
+
+The Deathslinger
+ was the third Killer to break 
+Pallets
+ and damage 
+Generators
+ with his Weapon.
+
+The Deathslinger
+ was the first male Killer to have a reduced Movement Speed of 4.4 m/s.
+
+The canonical explanation is his leg-brace, which made Caleb limp into The Entity's Realm.
+
+The Deathslinger
+ appears to have a slight twitch in his left eye.
+
+Voice Actor
+
+The Deathslinger
+ is voiced by Patrick Harris, who at that time worked as a Game Systems Designer on the Game.
+
+Gallery
+
+In-game Assets
+
+The Deathslinger
+
+The Deathslinger (Portrait render)
+
+The Deathslinger (Background image)
+
+Official Art
+
+Full body shot
+
+Keyart
+
+Outfits
+
+Frontier Nightmare Outfit
+
+Old Assets
+
+The Deathslinger (Old Portrait render)
+
+Concept Art
+
+Default Concept Art
+
+Default Recolors Concept Art
+
+'Frontier Vigilante' Concept Art
+
+'Cross-Eyed' Concept Art
+
+'Twilight Swarm' Concept Art
+
+'Railroad Warden' Concept Art
+
+'Tortured Nightmare' Concept Art
+
+'Stranger Eddie' Concept Art
+
+Screenshots
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

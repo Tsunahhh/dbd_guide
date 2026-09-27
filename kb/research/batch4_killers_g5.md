@@ -297,6 +297,8 @@ Couverture web : 0 élément vérifié par recherche / 7 tueurs (toutes leurs va
 
 ## Claims
 
+Calculs dérivés (audit pass 14) : Skull Merchant sous Hindered 10 % [AUDIT] + Haste 5 % [SEED] → 3,6 contre 4,83 m/s, écart repris ≈ 1,23 m/s (×2 par rapport à 0,6) ; Good Guy à 4,4 m/s → 0,4 m/s repris (10 m en 25 s), mais dash 8 m/s × 1,8 s [SEED] ≈ 14,4 m contre 7,2 m pour le survivant → ≈ 7 m repris par dash.
+
 | ID | Claim | Source | Patch | Confiance |
 |---|---|---|---|---|
 | L4G5-01 | Skull Merchant : rotation des drones 105°/s, Hindered 10 %, « CD 7 s », Undetectable 6 s | [1] audit phase 0 | 9.3.0 | VERIFIED selon l'audit (non re-vérifié) |

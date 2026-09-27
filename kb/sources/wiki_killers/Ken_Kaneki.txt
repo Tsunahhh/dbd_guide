@@ -1,0 +1,2277 @@
+# Ken Kaneki
+Source: https://deadbydaylight.wiki.gg/wiki/Ken_Kaneki (page complète via API, consultée le 27/09/2026)
+
+The Ghoul
+
+Name
+
+Ken Kaneki
+
+Gender
+
+Man
+
+Origin
+
+Japanese
+
+Power
+
+One-Eyed Terror
+
+Power 
+Attack
+ Type
+
+Special Attack
+
+(Tentacle Grabs)
+
+Movement Speed
+
+115 % 
+|
+ 4.6 m/s
+
+Terror Radius
+
+40 metres
+
+Height 
+
+Average
+
+DLC
+
+Tokyo Ghoul
+
+Voice Actor
+
+Natsuki Hanae (Original Voice Actor)
+
+Cost
+
+500 
+Auric Cells
+
+Menu Music
+
+Terror Radius Music
+
+Metadata
+
+CharID
+
+K39
+
+Ken Kaneki
+ or 
+"The Ghoul"
+ is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+He was introduced as the Killer of 
+Tokyo Ghoul
+, a Chapter DLC released on 2 April 2025.
+
+He originates from the 2011 Manga and its 2014 Anime adaptation of the same name, 
+Tokyo Ghoul
+.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Power: One-Eyed Terror
+
+3.2.1
+ 
+Power Trivia
+
+3.3
+ 
+Add-ons for One-Eyed Terror
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Default
+
+5.2
+ 
+Prestige
+
+5.2.1
+ 
+Perk Charms
+
+5.2.2
+ 
+Prestige Badges
+
+5.3
+ 
+In-Game Store
+
+5.4
+ 
+Alternate Character Models
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+General
+
+8.2
+ 
+Adaptation from Source
+
+8.3
+ 
+Cosmetics
+
+8.4
+ 
+Voice Lines
+
+8.5
+ 
+Voice Line References
+
+9
+ 
+Gallery
+
+9.1
+ 
+In-game Assets
+
+9.2
+ 
+Official Art
+
+10
+ 
+References
+
+Overview
+
+The Ghoul
+ has been pushed to his limits and he's hungry for more.
+
+His personal Perks, 
+Hex: Nothing but Misery
+, 
+Forever Entwined
+, and 
+None Are Free
+, help him to 
+Hinder
+ Survivors, hook them more quickly, and block 
+Windows
+ and 
+Pallets
+ when all 
+Generators
+ are completed.
+
+Lore
+
+Ken Kaneki was a gentle and kind-hearted boy who lived a simple life, studying literature at Kamii University, before a chance encounter turned his life upside down.
+
+He and his friend Hide frequented the café Anteiku, where one of the regulars caught his eye: Rize Kamishiro. She shared his passion for reading, and he spotted her even reading the same novel as him. He worked up the courage to ask her on a date. While walking her home, Rize showed her true colors: those of a ghoul known as The Binge Eater. She feasted on his flesh, nearly killing him, until a freak construction accident caused her demise, and nearly caused his as well.
+
+To save his life, doctors transplanted Rize's organs into Kaneki. He survived the surgery, but something was wrong... food lost its flavor, and strange cravings dogged him. The life-saving surgery had made him part-ghoul.
+
+Confused and afraid, he followed his instincts into an alleyway where he ran into Touka Kirishima, one of the staff members at Anteiku. Shocked at his transformation, she brought him back to the café. He was surprised to learn that the staff at Anteiku were ghouls. They took him under his wing, helping him adapt to his new reality. He learned how to fight with his newfound powers, how to deal with his urges to kill and eat human flesh, and how to stay one step ahead of the CCG.
+
+His adaptation to his new life was cruelly interrupted when he was kidnapped and subjected to unprecedented physical and mental torture at the hands of a particularly cruel ghoul named Jason. His captor's exercises of control and profound violence were so diabolical that they broke Kaneki's mind, stripped him of what once made him human. His sense of self was shattered, and Rize stepped into the empty space, encouraging him to take control in his own life.
+
+And control is what he took, paying back Jason's violence in kind. He broke free and battled his captor. The torture made him numb to pain, and his shattered psyche left him no space for hesitation. He defeated Jason after a short battle, and he devoured him.
+
+He had been dragged into a nightmare a tormented boy, but he walked out a powerful ghoul. He considered what this would mean as he pushed his way through the heavy doors, and barely noticed as a black fog pooled around his feet. He walked out, confident that the torture was over. But as he observed his surroundings, he realized that perhaps it had only begun.
+
+Load-out
+
+Unique Perks
+
+The Ghoul
+ comes with 
+3
+ 
+Perks
+ that are unique to him:
+
+ 
+
+Forever Entwined
+
+"The greater the struggle, the more difficult the escape."
+
+Whenever a Survivors takes damage, 
+Forever Entwined
+ gains 
++1 Token
+, up to a maximum of 
+6
+/
+7
+/
+8
+ 
+Tokens
+:
+
+Increases
+ the Action speeds for Dropping, Hooking, and Picking up a Survivor by a stack-able 
++4 %
+ per Token, up to a maximum of 
+24
+/
+28
+/
+32
+ 
+%
+.
+
+"You tried to devour me so you have no room to complain if I eat you, do you?" — Ken Kaneki
+
+ 
+
+Hex: Nothing but Misery
+
+"You've been driven to the absolute depths of pain, and now you're ready to inflict that pain on others."
+
+After damaging Survivors a total of 
+4 times
+ with 
+Basic Attacks
+, a random 
+Dull Totem
+ becomes a 
+Hex Totem
+, cursing all Survivors:
+
+Survivors damaged by a 
+Basic Attack
+ suffer from:
+
+-5 %
+ 
+Hindered
+ 
+Status Effect
+ for 
+10
+/
+12.5
+/
+15
+ 
+seconds
+.
+
+-10 %
+ slower vaulting speed for 
+10
+/
+12.5
+/
+15
+ 
+seconds
+.
+
+The 
+Hex Effects
+ persist until the 
+Hex Totem
+ is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.
+
+"All of the liabilities of this world are due to the inadequacies of the person involved." — Ken Kaneki
+
+ 
+
+None Are Free
+
+"You know better than anyone that the light at the end of the tunnel is only an illusion."
+
+Whenever you hook a Survivor for the first time, 
+None Are Free
+ gains 
++1 Token
+, up to a maximum of 
+4 Tokens
+.
+Once all 
+Generators
+ are completed, 
+None Are Free
+ calls upon The 
+Entity
+ to trigger the following effect:
+
+Blocks
+ all 
+Windows
+ and upright 
+Pallets
+ for a stack-able 
+12
+/
+14
+/
+16
+ 
+seconds
+ per Token, up to a maximum of 
+48
+/
+56
+/
+64
+ 
+seconds
+.
+
+"I'm not wrong. What's wrong is this messed-up world!" — Ken Kaneki
+
+Prestige
+
+Prestiging 
+The Ghoul
+ will automatically add 
+Tier I
+ of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Ghoul
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Power: One-Eyed Terror
+
+SPECIAL ABILITY: ONE-EYED TERROR
+The Ghoul
+ starts the Trial with 
+2 Tokens
+.
+SPECIAL ABILITY: KAGUNE LEAP
+Press and hold the 
+Power button
+ to charge a 
+Kagune Leap
+, while aiming the reticule at any vertical surface or Survivor within 
+14 metres
+.
+Press the 
+Attack button
+ to initiate a 
+Kagune Leap
+, consuming 
+-1 Token
+, or release the 
+Power button
+ to cancel it:
+
+Attaches the tentacles to the target and quickly pulls 
+The Ghoul
+ forwards.
+
+Grants the ability to leap over 
+Windows
+ or dropped 
+Pallets
+.
+
+After performing a 
+Kagune Leap
+, if there is still a Power Token available, a window of opportunity opens for 
+5 seconds
+:
+
+Press the 
+Attack button
+ to initiate another 
+Kagune Leap
+.
+
+Press the 
+Secondary Power button
+ to cancel the Power.
+
+The button may also already be pressed at any point during the 
+Leap
+ to instantly cancel it upon landing.
+
+Kagune Leap
+ automatically enters its cool-down after any of the following:
+
+The last Power Token has been consumed.
+
+The window of opportunity has elapsed.
+
+A Vaulting action has been performed.
+
+A Survivor has been grabbed.
+
+During the cool-down, 
+Kagune Leap
+ recharges all consumed Power Tokens at a speed of 
+4 seconds
+ per Token.
+The Power only becomes available again after fully recharging all Tokens.
+
+If 
+Kagune Leap
+ is not already on cool-down, breaking a 
+Pallet
+ causes it to enter a forced cool-down equivalent to 
+1
+ Power Token.
+SPECIAL INTERACTION: TARGETING SURVIVORS
+Targeting a Survivor and colliding with them directly during a 
+Kagune Leap
+ has multiple possible effects and interactions:
+
+If it is the first 
+Leap
+, indicated by the reticule showing a closed mouth, the Survivor will remain unharmed.
+
+If it is the second 
+Leap
+, indicated by the reticule showing an open mouth, grants the ability to perform a 
+Grab-Attack
+
+SPECIAL ATTACK: GRAB-ATTACK
+While the 
+Grab-Attack
+ occurs automatically when the conditions are met, it features an optional button prompt QTE:
+
+Swiftly press the 
+Attack button
+ to perfectly time the attack, extending the subsequent 
+Countdown
+.
+
+Missing the button prompt will apply the regular 
+Countdown
+.
+
+The 
+Grab-Attack
+ applies the following effects to the targeted Survivor:
+
+Applies the 
+Injured State
+ when healthy.
+
+Causes them to suffer from the 
+Deep Wound
+ 
+Status Effect
+.
+
+Applies the 
+Kagune Mark
+.
+
+Blocks the 
+Exit Gates
+ for the duration of the 
+Grab-Attack
+.
+
+This effect lingers for 
+5 seconds
+ after they are released.
+
+After performing a 
+Grab-Attack
+, 
+The Ghoul
+ enters 
+Enraged Mode
+.
+SPECIAL AFFLICTION: KAGUNE MARK
+Fully 
+Mending
+ or entering the 
+Dying State
+ removes the 
+Kagune Mark
+ for that Survivor.
+
+Marked Survivors cannot be injured by 
+Grab-Attacks
+, but still suffer its other effects.
+SPECIAL MODE: ENRAGED MODE
+While in this mode, 
+The Ghoul
+ is granted these following effects:
+
+Increases
+ the number of Power Tokens to 
+3
+.
+
+Reduces
+ the Power Recharge time to 
+2.5 seconds
+ per Token.
+
+Reduces
+ the Vaulting time while targeting a Survivor located across it.
+
+Increases
+ the Pallet-breaking penalty to 
+2
+ Power Tokens.
+
+Enraged Mode
+ remains active for as long as there is at least one Survivor with the 
+Kagune Mark
+ or if the 
+Countdown
+ is active.
+SPECIAL INTERACTION: COUNTDOWN
+Once the last marked Survivor removes their 
+Kagune Mark
+, the 
+Countdown
+ triggers and is indicated on their HUD Portrait.
+
+The 
+Countdown
+ lasts for 
+40 seconds
+, after which 
+Enraged Mode
+ ends.
+Performing a perfectly timed 
+Grab-Attack
+ 
+increases
+ its duration to 
+50 seconds
+.
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Leap
+ Cool-down: 
+1.6 m/s
+
+Walking while charging or adjusting 
+Kagune Leap
+: 
+3.68 m/s
+
+Walking: 
+4.6 m/s
+
+Performing the 
+First Leap
+ on any Survivor or a 
+Consecutive Leap
+ on Survivors holding a 
+Kagune Mark
+: 
+10 m/s
+
+Performing a 
+Leap
+: 
+14 m/s
+
+Sliding after a 
+Leap
+: 
+23 m/s
+
+Kagune Leap:
+
+Power Charge time: 
+0.35 seconds
+
+Power Charge-cancellation threshold: 
+0.25 seconds
+
+Below this threshold, 
+The Ghoul
+ will not enter the charge-cancellation cool-down.
+
+Power Recharge time out of 
+Enraged Mode
+: 
+4 seconds per Token
+
+Grab-Attack
+ distance: 
+3.5 metres
+
+When 
+The Ghoul
+ enters this radius near targeted Survivors and under the right conditions, 
+The Ghoul
+ will 
+Grab-Attack
+ them.
+
+Minimum 
+Leap
+ distance:
+
+Minimum survivor distance: 
+2 metres
+
+Minimum environmental distance: 
+5 metres
+
+Below these thresholds, a 
+Leap
+ will not be initiated.
+
+Maximum 
+Leap
+ distance: 
+14 metres
+
+Kagune Leap'
+s trajectory endpoint is pre-determined at every use (same principle doesn't apply for its duration) — making 
+The Ghoul
+ unable to move forward 
+at best
+ beyond this set distance during a 
+Leap
+ without the 
+Blood-Stained Handkerchief
+ Add-on.
+
+Sliding
+ duration: 
+0.8 seconds
+
+Adjusting
+ duration: 
+5 seconds
+
+How long after an initial 
+Leap
+, a consecutive one can be initiated.
+
+Recent Leap
+ effect: 
+0.45 seconds
+
+The lingering time during which 
+The Ghoul
+ can perform a 
+Leap Vault
+ after coming out of a 
+Leap
+.
+
+Height modifiers:
+
+While latching onto the environment: 
++0.6 metres
+
+While latching onto survivors: 
++0.4 metres
+
+Valid environmental target definitions:
+
+Minimum surface angle threshold: 
+15°
+
+Maximum surface angle threshold: 
+155°
+
+Wall target minimum degrees: 
+100°
+
+Wall target maximum degrees: 
+180°
+
+Strafing:
+
+Leaping strafe magnitude ratio: 
+x0.15
+
+Slide movement control strength ratio: 
+x1.5
+
+Enraged Mode:
+
+Power Recharge time: 
+2.5 seconds per Token
+
+Countdown
+ duration: 
+40 seconds
+
+Perfectly-timed Grab additive: 
+10 seconds
+
+This added bonus is applied to the Countdown after successfully performing the Quick-Time Event when Grab-Attacking survivors.
+
+Kagune Leap
+ Vault duration modifier: 
+x0.667
+
+This modifier is applied only if the Kagune is launched at Survivors standing behind a Vault location.
+
+Leap Vault:
+
+Base Vault durations (Pallet and Window): 
+1.5 seconds
+
+These durations only refer to 
+The Ghoul's
+ 
+Leap Vault
+ animation time and 
+does not
+ take into account its following cool-down.
+
+Window vault angle variability: 
+x0.55
+
+Pallet vault angle variability: 
+x0.7
+
+FOV Modifiers:
+
+FOV Multiplier while performing a 
+Leap
+: 
+x1.25
+
+FOV Multiplier when latching onto Survivors not holding a 
+Kagune Mark
+ to 
+Grab-Attack
+ them: 
+x1.6
+
+Cool-downs:
+
+Charge-cancellation cool-down: 
+1 second
+
+This cool-down 
+only
+ refers to cancelling 
+Kagune Leap
+ 
+without using it
+. Not to be confused with the Leap cool-down, which has double the duration and a lower movement speed overall.
+
+Leap Vault
+ cool-down: 
+1.25 seconds
+
+This cool-down starts 
+after
+ performing a 
+Leap Vault
+ and is not equal to the vault's animation length.
+
+Leap
+ cool-down: 
+2 seconds
+
+Used for both cancelling 
+Kagune Leap
+ and running out of Leap Tokens.
+
+Kagune Swipe
+ cool-down: 
+2.5 seconds
+
+Used after latching onto survivors on the 
+First Leap
+ or if they are already holding a 
+Kagune Mark
+. This cool-down requires 
+The Ghoul
+ to be within 
+Grab-Attack
+ range to activate.
+
+Grab cool-down: 
+3 seconds
+
+Used after performing a 
+Grab-Attack
+.
+
+Collision Detection:
+
+ Each given value works in tandem with one another to achieve one goal: calculating the duration of a 
+Leap
+ in real-time. 
+
+Leap capsule size : 
+0.45 metres
+
+Collision Check range: 
+0.85 metres
+
+Collision Check capsule radius: 
+0.2 metres
+
+Collision Check capsule height: 
+0.27 metres
+
+The Collision Check determines whether or not 
+The Ghoul
+ is facing an obstacle every 0.85 metres of distance traveled during a Leap.
+
+Aim Assist:
+
+The Reticle's detection sphere radius for aiming at Survivors: 
+0.01 metres
+
+The Reticle's detection sphere radius for aiming at the environment: 
+0.2 metres
+
+Multiply these values by two to get their respective diameters.
+
+The Reticle's Stickiness Time effect on Survivors not holding a 
+Kagune Mark
+ with 
+Consecutive Leaps
+: 
+0.05 seconds
+
+The Reticle's Stickiness Time effect on the environment: 
+0.2 seconds
+
+Hinder Effect:
+
+This Hinder Status Effect has a unique property which prevents Survivors from performing Actions.
+
+Hinder amount: 
+50%
+
+Hinder duration: 
+0.5 seconds
+
+Applied to Survivors after escaping 
+The Ghoul's
+ grasp without getting Grab-Attacked.
+
+Hinder duration from a 
+Leap Vault
+: 
+0.5 seconds
+
+Applied to Survivors if 
+The Ghoul
+ vaults using 
+Kagune Leap
+ while latched onto them prior to that instant.
+
+Miscellaneous:
+
+Quick-Time Event warning duration: 
+0.15 seconds
+
+Quick-Time Event minimum duration: 
+0.6 seconds
+
+Maximum 
+Leap
+ relative height: 
+8 metres
+
+Maximum pitch: 
+60°
+
+Adjusting
+ grace period: 
+0.18 seconds
+
+Leap
+ grace period: 
+0.5 seconds
+
+Grab-attack
+ camera repositioning time: 
+0.2 seconds
+
+Attaching
+ duration: 
+0.2 seconds
+
+Retracting
+ duration: 
+1 second
+
+Escape blocking duration: 
+5 seconds
+
+Destination distance buffer: 
+1 metre
+
+Add-ons for One-Eyed Terror
+
+Icon
+
+Name
+
+Description
+
+Anteiku Apron
+
+Standard-issue uniform at a lovely little coffee shop.
+
+Shortens
+ the slide after 
+Kagune Leaps
+ by 
+-50 %
+.
+
+Kaneki's Wallet
+
+Lost to a strange boy who happened to bump into him on the street.
+
+Extends
+ the window of opportunity to perform consecutive 
+Kagune Leaps
+ by 
++3 seconds
+.
+
+Taiyaki
+
+Ghouls can never eat human food, but they can find ways to pretend.
+
+Extends
+ the 
+Countdown
+ by 
++5 seconds
+.
+
+The Black Goat's Egg
+
+The book he used to bond with a woman of consequence.
+
+Succeeding the 
+Quick Time Event
+ during a 
+Grab-Attack
+ grants 
++100 %
+ bonus Bloodpoints.
+
+Blood-Stained Handkerchief
+
+Even a single drop of blood can excite the senses of any gourmet.
+
+Increases
+ the maximum reach of 
+Kagune Leaps
+ by 
++1 metre
+.
+
+Broken Chain
+
+Nothing could restrain him once he finally embraced his full potential.
+
+Reduces
+ the Cool-down duration of 
+Kagune Leap
+ by 
+-1.4 seconds per Token
+ when outside of 
+Enraged Mode
+.
+
+Hide's Headphones
+
+They belonged to his best friend, who he tried to keep safe at all costs.
+
+Survivors affected by the 
+Kagune Mark
+ experience the following effect while carrying it:
+
+Causes them to suffer from the 
+Oblivious
+ 
+Status Effect
+ until the mark is removed.
+
+Hinami's Umbrella
+
+It was raining the day her mother was viciously taken from her.
+
+Increases
+ the amount of time added to the 
+Countdown
+ for each perfectly timed 
+Grab-Attack
+ by 
++10 seconds
+.
+
+Kaneki's Satchel
+
+Essential gear for any student trying to keep up with their studies.
+
+Increases
+ the Movement speed of the 
+third consecutive
+ 
+Kagune Leap
+ by 
++4.2 m/s
+.
+
+Amon's Necktie
+
+Cold, calculated, precise.
+He had a firm grasp of every situation.
+
+While aiming 
+Mid-Leap
+, you benefit from the following effect:
+
+The 
+Auras
+ of 
+Pallets
+ and 
+Windows
+ are revealed to you within 
+32 metres
+.
+
+Aogiri Tree Robe
+
+Garments worn by an anti-human ghoul organisation.
+
+Whenever a 
+Generator
+ is completed while in 
+Enraged Mode
+, you benefit from the following effect:
+
+Grants the 
+Undetectable
+ 
+Status Effect
+ for 
+20 seconds
+.
+
+Mado's Glove
+
+A glove worn by a ghoul investigator.
+
+Survivors affected by the 
+Kagune Mark
+ experience the following effect after it is removed:
+
+Causes them to suffer from the 
+Exhausted
+ 
+Status Effect
+ for 
+15 seconds
+.
+
+Red Spider Lily
+
+The white flowers turned red as blood.
+
+Survivors hit with a 
+Basic Attack
+ while in 
+Enraged Mode
+ inflicts the following effect:
+
+Causes them to suffer from the 
+Haemorrhage
+ 
+Status Effect
+ for 
+60 seconds
+.
+
+Rize's Glasses
+
+They made her look innocent enough, which was exactly what she wanted.
+
+Upon entering 
+Enraged Mode
+, you benefit from the following effect:
+
+The 
+Auras
+ of healthy Survivors currently repairing a 
+Generator
+ are revealed to you for 
+8 seconds
+.
+
+CCG ID Card
+
+A card carried by every ghoul investigator.
+
+Performing a 
+Kagune Leap Vault
+ action triggers the following effect:
+
+The 
+Auras
+ of all Survivors affected by the 
+Kagune Mark
+ are revealed to you within 
+24 metres
+ of your location for 
+3 seconds
+.
+
+Fresh Coffee
+
+Every ghoul's favourite drink, the one human delicacy they can consume.
+
+Increases
+ the Movement speed during 
+Kagune Leaps
+ by 
++2 m/s
+.
+
+Red-Headed Centipede
+
+The thing caused him immeasurable torment.
+
+Performing a 
+Vault
+ action while in 
+Enraged Mode
+ triggers the following effect:
+
+Blocks
+ that 
+Window
+ to all Survivors for 
+10 seconds
+.
+
+Torture Apparatus
+
+A cutting tool used every time his extremities grew back.
+
+Whenever 
+Enraged Mode
+ ends, you benefit from the following effect:
+
+Grants a 
++5 %
+ 
+Haste
+ 
+Status Effect
+ for 
+6 seconds
+.
+
+Iridescent Eye Patch
+
+An innocent way to hide his true nature from the world.
+
+Unlocks potential in the 
+third consecutive
+ 
+Kagune Leap
+ while in 
+Enraged Mode
+:
+
+If used to vault a dropped 
+Pallet
+, it instantly breaks.
+
+Yamori's Mask
+
+Worn by a ghoul from the 13th district whose hobby was torture.
+
+Hooking a Survivor while in 
+Enraged Mode
+ triggers the following effect:
+
+Causes all Survivors further than 
+40 metres
+ to scream and reveal their location to you for 
+3 seconds
+.
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There are 
+2
+ Achievements related to 
+The Ghoul
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Ghoul
+
+Playing as The 
+Ghoul
+, achieve a 
+Merciless Victory
+ using only his 
+3
+ Unique Perks: 
+Hex: Nothing but Misery
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"You've been driven to the absolute depths of pain, and now you're ready to inflict that pain on others."
+
+After damaging Survivors a total of 
+4 times
+ with 
+Basic Attacks
+, a random 
+Dull Totem
+ becomes a 
+Hex Totem
+, cursing all Survivors:
+
+Survivors damaged by a 
+Basic Attack
+ suffer from:
+
+-5 
+ 
+Hindered
+ 
+Status Effect
+ for 
+10
+/
+12.5
+/
+15
+ 
+seconds
+.
+
+-10 
+ slower vaulting speed for 
+10
+/
+12.5
+/
+15
+ 
+seconds
+.
+
+The 
+Hex Effects
+ persist until the 
+Hex Totem
+ is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.
+
+"All of the liabilities of this world are due to the inadequacies of the person involved." — Ken Kaneki
+
+, 
+Forever Entwined
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"The greater the struggle, the more difficult the escape."
+
+Whenever a Survivors takes damage, 
+Forever Entwined
+ gains 
++1 Token
+, up to a maximum of 
+6
+/
+7
+/
+8
+ 
+Tokens
+:
+
+Increases
+ the Action speeds for Dropping, Hooking, and Picking up a Survivor by a stack-able 
++4 
+ per Token, up to a maximum of 
+24
+/
+28
+/
+32
+ 
+%
+.
+
+"You tried to devour me so you have no room to complain if I eat you, do you?" — Ken Kaneki
+
+, and 
+None Are Free
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"You know better than anyone that the light at the end of the tunnel is only an illusion."
+
+Whenever you hook a Survivor for the first time, 
+None Are Free
+ gains 
++1 Token
+, up to a maximum of 
+4 Tokens
+.
+Once all 
+Generators
+ are completed, 
+None Are Free
+ calls upon The 
+Entity
+ to trigger the following effect:
+
+Blocks
+ all 
+Windows
+ and upright 
+Pallets
+ for a stack-able 
+12
+/
+14
+/
+16
+ 
+seconds
+ per Token, up to a maximum of 
+48
+/
+56
+/
+64
+ 
+seconds
+.
+
+"I'm not wrong. What's wrong is this messed-up world!" — Ken Kaneki
+
+.
+
+Remember Who I Am
+
+Playing as The 
+Ghoul
+, perform a perfectly timed 
+Grab-Attack
+ a total of 
+30 times
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Ghoul
+:
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+One-Eyed Ghoul
+
+Common
+
+A leather mask showing bloody teeth bared behind an open zipper.
+
+Black Shorts
+
+Common
+
+Dressed in darkness all the way down to his shoes.
+
+Battle Gear
+
+Common
+
+Black leathers that served him well in many fights.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Bloody One-Eyed Ghoul
+
+Rare
+
+A leather mask showing menacing teeth ready to strike from behind an open zipper.
+
+Bloody Black Shorts
+
+Rare
+
+Dressed in deathly darkness all the way down to his shoes.
+
+Bloody Battle Gear
+
+Rare
+
+Stained black leathers that served him well in violent conflicts.
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+His whole life was ahead of him until a near-fatal accident turned him into a half ghoul.
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Awakened Ghoul
+
+Tokyo Ghoul
+
+02 April 2025 (Wednesday)
+
+Description
+
+The tattered rags Kaneki wore while suffering Yamori’s torture.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+White Hair
+
+Tokyo Ghoul
+
+His black hair lost all of its color when he decided to fight back.
+
+Piece
+
+Name
+
+Collection
+
+Torture Wear
+
+Tokyo Ghoul
+
+His clothes were torn, stained with his own blood.
+
+Piece
+
+Name
+
+Collection
+
+Broken Cuffs
+
+Tokyo Ghoul
+
+The chain was shattered, giving Kaneki full mobility.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Rize Kamishiro
+
+Tokyo Ghoul
+
+02 April 2025 (Wednesday)
+
+Description
+
+The ghoul that changed Kaneki’s life forever.
+
+1485
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Binge Eater
+
+Tokyo Ghoul
+
+Black and red eyes staring out from behind an innocent pair of glasses.
+
+Piece
+
+Name
+
+Collection
+
+Human Dress
+
+Tokyo Ghoul
+
+The clothes she wore when she revealed her true nature to Kaneki.
+
+Piece
+
+Name
+
+Collection
+
+Pink and Purple Heel
+
+Tokyo Ghoul
+
+They helped make her look so innocent.
+
+Alternate Character Models
+
+The Ghoul
+ has 
+1
+ alternate Character model available in the in-game Store:
+
+Rize Kamishiro
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Ghoul
+ is part of 
+1
+ DLC:
+
+Tokyo Ghoul
+
+Change Log
+
+Patch 8.6.2
+Patch 8.7.0
+Patch 8.7.1
+Patch 9.2.0
+Patch 9.5.0
+Patch 8.6.2
+
+Nerf
+: Reduced the maximum Leap distance from 
+16 metres
+ to 
+14 metres
+.
+
+Nerf
+: Reduced the 
+Countdown
+ duration from 
+45 seconds
+ to 
+40 seconds
+.
+
+Nerf
+: Reduced the Perfectly-timed Grab additive from 
+15 seconds
+ to 
+10 seconds
+.
+
+Nerf
+: 
+Kagune Leap
+ now enters a cool-down equal to a single Token usage if it is not already on cool-down after 
+The Ghoul
+ breaks a Pallet.
+
+Quality of Life
+: Reduced 
+Grab-Attack
+ distance from 
+5 metres
+ to 
+3.5 metres
+.
+
+Quality of Life
+: Reduced the Reticle's detection sphere radius for aiming at Survivors not holding a 
+Kagune Mark
+ by 
+94%
+ from 
+0.15 metres
+ to 
+0.01 metres
+.
+
+Quality of Life
+: Reduced the Reticle's stickiness effect on Survivors not holding a 
+Kagune Mark
+ from 
+0.3 seconds
+ to 
+0.18 seconds
+.
+Patch 8.7.0
+
+Nerf
+: Increased the amount of 
+Kagune Leap
+ Tokens lost after breaking a pallet if it is not already on cool-down from 
+1
+ to 
+2
+.
+
+Nerf
+: Halved the 
+Hinder
+ duration inflicted on Survivors that are targeted with 
+Kagune Leap
+ prior to a 
+Leap Vault
+ from 
+1 second
+ to 
+0.5 seconds
+.
+
+Quality of Life
+: The 
+Enraged Attack
+ Score Event now properly activates on all 
+Grab-Attacks
+ while 
+Enraged Mode
+ is active and its Bloodpoint value has been increased from 
+250
+ to 
+600
+ Bloodpoints.
+Patch 8.7.1
+
+Undocumented Buff
+: 
+Kagune Leap
+ only enters the cool-down of the equivalent of a single Power Token usage, if it is not already on cool-down, after 
+The Ghoul
+ breaks a Pallet normally out of 
+Enraged Mode
+ as opposed to the equivalent of 2 Tokens while 
+Enraged
+.
+Patch 9.2.0
+
+Nerf
+: Survivors grabbed by 
+Kagune Leap
+ will now be released at the start of 
+The Ghoul's
+ Vault instead of at the end.
+Patch 9.5.0
+
+Nerf
+: Removed 
+The Ghoul's
+ automatic hit detection system after performing a 
+Leap Vault
+.
+
+Quality of Life
+: Reduced the Reticle's stickiness effect on Survivors not holding a 
+Kagune Mark
+ from 
+0.18 seconds
+ to 
+0.05 seconds
+.
+
+Trivia
+
+General
+
+The Ghoul
+ is the first character to be added to come from a Manga/Anime media that isn't a cosmetic for an existing character.
+
+Ken Kaneki
+ also marks the first time in Dead By Daylight history where the killer is the main protagonist of the series.
+
+The Ghoul
+ is the first Killer to date who does not have weapon that is one of his three Cosmetic slots.
+
+In-game, he uses his Kagune (the tentacles) for both 
+Basic Attacks
+ and 
+Special Attacks
+.
+
+While there are others Killers without a weapon as such — like 
+The Nemesis
+ using his fist or 
+The Dark Lord
+ his hand — they at least featured that body part as a weapon Cosmetic, whereas 
+The Ghoul
+ does not.
+
+His cosmetic slots mirror that of survivors, having one for his head, torso and legs.
+
+The Ghoul
+ Lore outlines the events of the first season of the 
+Tokyo Ghoul
+ anime.
+
+His appearance, however, reflects the second season.
+
+He would eventually receive the outfit from where he is taken from the final episode of the anime.
+
+The finger-cracking 
+Kaneki
+ does in some animations (e.g. idling in the menu, cool-down phase after a 
+Basic Attack
+), is a habit that he mirrored from 
+Yamori
+ after the latter tortured him in 
+Tokyo Ghoul
+.
+
+The Ghoul
+ is the first killer to feature a quick time event in their gameplay.
+
+When initiating a grab attack, the player has the opportunity to perfectly time an input to be rewarded with an extension to their 
+Enraged Mode Countdown.
+
+There is no penalty for failing the quick time event.
+
+The Ghoul
+ is the first Killer to date with a unique Power Token removal feature upon breaking Pallets normally.
+
+When 
+The Ghoul
+ breaks a Pallet while 
+Kagune Leap
+ is 
+not on cool-down
+, it enters a cool-down of the equivalent of 1 Power Token use (or 2 while in Enraged Mode).
+
+This was meant to alleviate a problematic tactic where 
+The Ghoul
+ could quickly catch up to Survivors having little to no time to approach the nearest resource, although this system is flawed and can be worked around by breaking a Pallet right before 
+Kagune Leap
+ leaves its cool-down.
+
+When using the cosmetic set 
+"Awakened Ghoul"
+, 
+Kaneki's
+ voice becomes clearer, since it removes his mask.
+
+The Ghoul's
+  mori is a reference to 
+Yamori's
+ s defeat in the season final of season 1, where Kaneki stabs both of his hands, restraining him before he devoured his Kagune.
+
+The associated achievement name 
+"Remember Who I Am"
+ is a direct reference to the last line of the lyrics in the opening song of Season 1, 
+Unravel
+.
+
+Adaptation from Source
+
+According to Dave Richards, Creative Director of 
+Dead by Daylight
+, their reimagining of 
+Ken Kaneki
+ had to undergo a drastic change in personality to suit his role as a Killer:
+"Rather than making him a Survivor, as his moral compass in the series may suggest, we felt it would be more interesting to really lean into the horror and present an alternate reality where Kaneki became exactly what he feared.
+While such a drastic change to Ken Kaneki's personality was necessary to suit his role as a Killer, it allowed the team to delve into a Ghoul’s powers and take them to their darkest possible conclusion. Luckily, the Tokyo Ghoul Production Committee was on board for the story we wanted to tell, sharing our excitement to see this terrifying take on their protagonist."
+[
+1
+]
+
+Cosmetics
+
+Default Outfit
+ is taken from the first episode of Season 2 when Kaneki joins Aogiri.
+
+Awakened Ghoul
+ is taken from the final episode of Season 1 when Kaneki accepts himself as a Ghoul.
+
+Rize Kamishiro
+ originates from Season 1 Episode 1.
+
+Voice Lines
+
+The Ghoul
+ is the tenth Killer with voice-lines.
+
+The Ghoul
+ is voiced by 
+Ken Kaneki's
+ original voice actor in the anime, 
+Natsuki Hanae
+.
+
+"May I ask what your name is?"
+ and 
+"What are you going to do now?"
+ lobby voice lines were originally meant to be used for finding survivors inside lockers.
+
+Voice Line References
+
+"What's one thousand minus seven?"
+, said while performing a 
+Memento Mori
+, is a reference to a mantra intended to keep 
+Kaneki
+ sane during his torture, instructing him to loudly count backwards from one thousand in increments of seven.
+
+"All of the liabilities of this world are due to the inadequacies of the person involved."
+ is a quote from 
+Yamori
+.
+
+"It's my turn."
+ is a quote from 
+Kaneki
+ in his fight with 
+Yamori
+.
+
+"I am... a ghoul."
+ is a quote from 
+Kaneki
+ when he awakens to his ghoul-self.
+
+"May I ask what your name is?"
+ is a quote from 
+Kaneki
+ during his confrontation with 
+Amon
+ in the second season.
+
+Voice Line
+
+Audio
+
+Selecting in the Menu
+
+"I am... a ghoul."
+
+"It's my turn."
+
+"Why... indeed?"
+
+"This is no good."
+
+"All of the liabilities of this world are due to the inadequacies of the person involved."
+
+"What are you going to do now?"
+
+"May I ask what your name is?"
+
+Peforming Memento Mori
+
+"What's one thousand minus seven?"
+
+Gallery
+
+In-game Assets
+
+The Ghoul
+
+The Ghoul (Portrait render)
+
+The Ghoul (Background image)
+
+Official Art
+
+References
+
+↑
+ 
+"Dead by Daylight’s new Tokyo Ghoul collaboration killer launches April 2"
+ PlayStation Blog. Retrieved 13 March 2025.
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

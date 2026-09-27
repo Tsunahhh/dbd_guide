@@ -1,0 +1,2615 @@
+# Amanda Young
+Source: https://deadbydaylight.wiki.gg/wiki/Amanda_Young (page complète via API, consultée le 27/09/2026)
+
+"At first I actually believed that it was a pig that slept in front of me on the ground. An animal that somehow had eluded the banalities of my old life and managed to end up at this forsaken and forgotten place. But then it rose, from crouch to standing, with its lifeless eyes nailed to my person. I ran, as I have so brutally learnt to do. My curiosity halted my escape after a few feet and I hid in a cabinet. The Pig moved like a predator – and I saw: a human body wearing a pig's head as ornament. It walked by the cabinet and its snout was just a few inches away from me. I held my breath, aching for freedom. A sudden sound caught the pig's attention and it walked away. But not without giving me a last, final glance, as if it wanted to inform me that I was given a second chance. I will not get a third."
+
+~ 
+ Unknown (Potentially 
+Benedict Baker
+)
+
+The Pig
+
+Name
+
+Amanda Young
+
+Gender
+
+Woman
+
+Origin
+
+American
+
+Realm
+
+Gideon Meat Plant
+
+Power
+
+Jigsaw's Baptism
+
+Power 
+Attack
+ Type
+
+Special Attack
+
+(Ambush Dash)
+
+Weapon
+
+Hidden Blade
+
+Movement Speed
+
+115 % 
+|
+ 4.6 m/s
+
+Alternate Movement speed
+
+100 % 
+|
+ 4 m/s
+(Crouched)
+177.5 % 
+|
+ 7.1 m/s
+(Ambush Dash)
+
+Terror Radius
+
+24 metres
+
+Height 
+
+Average
+
+DLC
+
+The SAW™ Chapter
+
+Voice Actor
+
+Christine Marsh (BHVR)
+
+Cost
+
+500 
+Auric Cells
+
+Breathing
+
+Metadata
+
+CharID
+
+K11
+
+Amanda Young
+ or 
+"The Pig"
+ is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+She was introduced as the Killer of 
+The SAW™ Chapter
+, a Chapter DLC released on 23 January 2018.
+
+She originates from the 2004 Horror Movie franchise of the same name, 
+SAW
+.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+2.1
+ 
+The Archives
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: Hidden Blade
+
+3.3
+ 
+Power: Jigsaw's Baptism
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for Jigsaw's Baptism
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Base Cosmetics
+
+5.1.1
+ 
+Default
+
+5.1.2
+ 
+Prestige
+
+5.1.2.1
+ 
+Perk Charms
+
+5.1.2.2
+ 
+Prestige Badges
+
+5.2
+ 
+Rift
+
+5.3
+ 
+In-Game Store
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+General
+
+8.2
+ 
+Character Memes
+
+8.3
+ 
+Cosmetics
+
+8.4
+ 
+Memento Mori
+
+8.5
+ 
+Voice Actress
+
+9
+ 
+Gallery
+
+9.1
+ 
+In-game Assets
+
+9.2
+ 
+Official Art
+
+9.3
+ 
+Old Assets
+
+9.4
+ 
+Concept Art
+
+9.5
+ 
+Screenshots
+
+10
+ 
+References
+
+Overview
+
+Creep up and ambush Survivors with The Pig, the stealthy successor to the legendary Jigsaw. But simply hooking them isn’t enough. Survivors can first be punished with a Reverse Bear Trap, which they must race to remove at Jigsaw Boxes across the map. Suddenly, repairing generators isn’t quite so pressing...
+
+The Pig
+ is a tormenting Killer, able to crouch into stealth mode, then ambush Survivors from a short distance. She can also apply 
+Reverse Bear Traps
+ to downed Survivors, forcing them to remove it before the timer runs out, triggering an instant death.
+
+Her personal Perks, 
+Scourge Hook: Hangman's Trick
+, 
+Surveillance
+, and 
+Make Your Choice
+, give her more Map control and expose altruistic Survivors.
+
+Lore
+
+Additional Lore can be found in 
+Tome 10 - SAW
+: 
+Vain Ambition
+.
+
+When John Kramer, better known as Jigsaw, planned for his son to be born during the Chinese Zodiac's Year of the Pig, he wanted it to represent fertility and rebirth; a new beginning for him and his wife, and the start of a charmed life for his son. But that plan was shattered on the night that a junkie broke into his wife's clinic, hoping to score.
+
+After this event resulted in the death of his unborn son, John finally caught up with the junkie, making him his first test subject, and The Pig was changed forever too. It became a representation of the disease that was rotting John from the inside, a reminder that we are just meat unless we elevate ourselves by our actions, by grasping life from the jaws of death. The Pig became a vessel, an agent of Jigsaw, conveying the subjects to their test. For some of those who emerged victorious, The Pig could still be a rebirth, into their new lives as apprentices, even disciples, of Jigsaw.
+
+That was the case for Amanda Young, a troubled soul, whose life had been a catalogue of harm, both to herself and those around her. That changed when she faced, and bested, Jigsaw's test. Deciding her life was worth something, she became devoted to Jigsaw's cause, ready to take over when cancer consumed him.
+
+But she became more dependent on John, her anguish at his impending death combining with a belief that their test subjects weren't capable of saving themselves, of being reborn in the crucible of the games.
+
+Seeing this, John presented her with another game, another chance to save herself, but Amanda let her rage and jealousy rule her actions. She failed the test and took a bullet as a consequence.
+
+Bleeding out on the tiled floor, darkness engulfed Amanda's vision, accompanied by a sound like creaking wood. Then she was in a forest, once more viewing the world through the eyes of a Pig. Trees surrounded her, their branches clawing at her from all sides. Waves of panic washed over her and she could hear her breath reverberating inside the mask.
+
+Had she been damned, cursed to spend her days here, in this guise? Or maybe this was another test? Maybe she hadn't failed at all? John always thought one step ahead of everyone else, planned for every eventuality, and he would never give up on her, surely?
+
+Jigsaw may have gone but he had passed her onto another. A being for whom she would be The Pig again.
+
+Ultimately, she saw now that she had been right in the choices she had made. The time for games was over. There was no chance of redemption for any of them. They were meat, and meat was destined for slaughter.
+
+The Archives
+
+The table below lists additional Lore about 
+The Pig
+ from 
+The Archives
+, either from 
+Tomes
+ that featured her or from individual Lore entries that mentioned her:
+
+Tome
+
+Entry
+
+Type
+
+Tome 10 - SAW
+
+Vain Ambition
+
+Featured Character
+
+Load-out
+
+Unique Perks
+
+The Pig
+ comes with 
+3
+ 
+Perks
+ that are unique to her:
+
+ 
+
+Make Your Choice
+
+Whenever a Survivor is rescued from a 
+Hook
+, while you are farther than 
+32 metres
+ away, 
+Make Your Choice
+ activates:
+
+Causes the unhooking Survivor to scream and reveal their location to you.
+
+Causes them to suffer from the 
+Exposed
+ 
+Status Effect
+ for 
+40
+/
+50
+/
+60
+ 
+seconds
+.
+
+Make Your Choice
+ has a cooldown of 
+40
+/
+50
+/
+60
+ 
+seconds
+.
+
+"You'd be surprised what tools can save a life." — Amanda Young
+
+ 
+
+Scourge Hook: Hangman's Trick
+
+"Your ingenious modifications to hooks alert you of tampering."
+
+At the start of the Trial, 
+4
+ 
+Hooks
+ in the environment are changed into 
+Scourge Hooks
+:
+
+The 
+Auras
+ of these 
+Scourge Hooks
+ are highlighted in 
+white
+.
+
+While carrying a Survivor, 
+Scourge Hook: Hangman's Trick
+ triggers its primary effect:
+
+The Auras of all Survivors within 
+12
+/
+14
+/
+16
+ 
+metres
+ of a 
+Scourge Hook
+ are revealed to you.
+
+Whenever a Survivor starts the 
+Sabotage
+ action on any 
+Hook
+, 
+Scourge Hook: Hangman's Trick
+ triggers its secondary effect:
+
+Triggers a 
+Loud Noise Notification
+ at the location of that 
+Hook
+.
+
+"No excuses, no equivocations... No crying." — Amanda Young
+
+ 
+
+Surveillance
+
+Unlocks potential in your Aura-reading ability:
+
+The 
+Auras
+ of damaged 
+Generators
+ are highlighted based on their current state:
+
+White Aura
+: The 
+Generator
+ is currently regressing.
+
+Yellow Aura
+: The 
+Generator
+ stopped regressing due to Survivor-intervention.
+
+This effect lasts for 
+8
+/
+12
+/
+16
+ 
+seconds
+, after which the 
+Generator Aura
+ returns to its default colour.
+
+While Survivors are repairing 
+Generators
+, they suffer from the following effect:
+
+Increases
+ the audible range of all noises related to the 
+Repair
+ interaction by 
++8 metres
+.
+
+"Are you gonna behave?" — Amanda Young
+
+Prestige
+
+Prestiging 
+The Pig
+ will automatically add 
+Tier I
+ of her Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Pig
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: Hidden Blade
+
+The 
+Hidden Blade
+ is the Primary Weapon of 
+The Pig
+.
+A razor-sharp blade, attached to a mechanical contraption that can conceal or extend it.
+
+Power: Jigsaw's Baptism
+
+"Forever devoted to her master's cause, she punished the ungrateful and the guilty with slyness and murderous puzzles.
+The Pig can move stealthily, dash in Ambush attacks and put deadly Reverse Bear Traps on Survivors' heads."
+SPECIAL ABILITY: JIGSAW'S BAPTISM
+The Pig
+ starts the Trial with 
+4
+ 
+Reverse Bear Traps
+ equipped, which cannot be replenished once used.
+Additionally, 
+5
+ 
+Jigsaw Boxes
+ spawn in random locations in the environment.
+SPECIAL LOCOMOTION: CROUCHING
+Press the 
+Secondary Power button
+ to transition into the 
+Crouched State
+:
+
+Grants the 
+Undetectable
+ 
+Status Effect
+.
+
+Reduces
+ her Movement speed to 
+4.0 m/s
+.
+
+Press the 
+Secondary Power button
+ again to transition out of the 
+Crouched State
+.
+SPECIAL ABILITY: AMBUSH DASH
+Press and hold the 
+Attack button
+ while in the 
+Crouched State
+ to charge and perform an 
+Ambush Dash Attack
+.:
+
+Increases
+ her Movement speed to 
+7.1 m/s
+ for 
+2.3 seconds
+ while attacking.
+
+Causes 
+The Pig
+ to automatically exit the 
+Crouched State
+.
+
+SPECIAL TRAP: REVERSE BEAR TRAPS
+Press the 
+Power button
+ while standing above a downed Survivor to attach an unarmed 
+Inactive Reverse Bear Trap
+ to their head.
+
+Whenever a 
+Generator
+ is completed, all currently 
+Inactive Reverse Bear Traps
+ are activated.
+
+Active Reverse Bear Traps
+ are armed and on a 
+Death Timer
+ of 
+150 seconds
+, which is displayed on the Survivor's Status icon.
+
+Once the 
+Death Timer
+ elapses, the trap snaps open and kills the 
+Trapped Survivor
+.
+The 
+Death Timer
+ is paused whenever that Survivor is downed, hooked, or actively being chased by 
+The Pig
+.
+
+Trapped Survivors
+ may only leave the Trial normally if their trap is 
+inactive
+.
+Attempting to leave through the 
+Exit Gates
+ with an 
+active
+ trap will trigger the kill mechanism and execute the Survivor halfway into the exit area.
+They may still leave through the 
+Hatch
+.
+SPECIAL INTERACTION: JIGSAW BOXES
+Survivors can remove a 
+Reverse Bear Trap
+ by interacting with a 
+Jigsaw Box
+ and finding a key.
+The 
+Auras
+ of all unsearched 
+Jigsaw Boxes
+ are revealed to 
+Trapped Survivors
+ at all times.
+
+Trapped Survivors
+ must randomly search between 
+1 to 4
+ 
+Jigsaw Boxes
+:
+
+Succeeding the search will remove and discard the 
+Reverse Bear Trap
+.
+
+Failing the search will cause the Jigsaw Puppet 
+Billy
+ to cackle at the unfortunate Survivor and hide the 
+Aura
+ of the 
+Jigsaw Box
+.
+
+Jigsaw Boxes
+ have a shared pool of 
+12
+ searches per Trial.
+
+"You will give everything to me, every cell in your body.
+The marks on your arms, they're from another life.
+We'll leave that life behind.
+When you walk down that corridor there is no turning back.
+Do you understand that?" — Jigsaw's Baptism
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Walking while 
+Crouched
+: 
+4 m/s
+
+Ambush Dash
+: 
+7.1 m/s
+
+Reverse Bear Traps:
+
+Time to attach to Survivors: 
+3.3 seconds
+
+Death Timer duration: 
+150 seconds
+
+Jigsaw Boxes:
+
+Time to search for Survivors: 
+12 seconds
+
+Trigger odds for a 
+Skill Check
+: 
+80 %
+
+The odds are rolled once per second while searching the box.
+
+Crouched State:
+
+Transition time: 
+0.8 second
+
+Terror Radius
+ fade-out timer: 
+3 seconds
+
+Terror Radius
+ fade-in timer: 
+1.4 seconds
+
+Ambush Dash:
+
+Charge time: 
+0.75 seconds
+
+Duration: 
+2.3 seconds
+
+Cool-down durations:
+
+Successful hit: 
+2.7 seconds
+
+Missed/obstructed hit: 
+1.5 seconds
+
+Death Timer Behaviour:
+
+Timer Progression
+
+Light Colour
+
+Blinking Frequency
+
+0 - 25 %
+
+white
+
+0.5 Hz
+
+25 - 50 %
+
+1 Hz
+
+50 - 75 %
+
+yellow
+
+2 Hz
+
+75 - 100 %
+
+red
+
+4 Hz
+
+100 %
+
+Continuous Beep
+
+Add-ons for Jigsaw's Baptism
+
+Icon
+
+Name
+
+Description
+
+Combat Straps
+
+Leather straps that hold fabric in place for nimbler movement.
+
+Increases
+ the Transition speed into the 
+Crouched State
+ by 
++10 %
+.
+
+Interlocking Razor
+
+A modification to the Reverse Bear Trap:
+The addition of interlocking razor blades makes it impossible to move suddenly in the Jigsaw Box without slitting one's wrists.
+
+While injured, Survivors failing a 
+Skill Check
+ at a 
+Jigsaw Box
+ become afflicted by the 
+Deep Wound
+ 
+Status Effect
+.
+
+John's Medical File
+
+"The medical file of a cancerous man.
+Fills the reader with dread and recklessness."
+
+You benefit from the following effect:
+
+Increases
+ your Movement speed while 
+Crouched
+ by 
++5 %
+.
+
+Shattered Syringe
+
+Symbol of a broken way of life.
+Reminiscing about her past-self hardens her determination.
+
+Reduces
+ the Cool-down duration of missed 
+Ambush Dash Attacks
+ by 
+-10 %
+.
+
+Face Mask
+
+A modification to the Reverse Bear Trap:
+The heavy cloth face mask, laced with a sedative, partially suffocates the target, making it hard to concentrate.
+
+Survivors caught in a 
+Reverse Bear Trap
+ suffer permanently from the 
+Blindness
+ 
+Status Effect
+.
+
+Last Will
+
+"A latched wooden box with a satin lining, offered as part of a last will."
+
+Modifies the 
+Ambush Dash
+ attack with the following effects:
+
+Increases
+ its Movement speed by 
++5 %
+.
+
+Increases
+ its Charge time by 
++10 %
+.
+
+Razor Wires
+
+A modification to the Reverse Bear Trap:
+The addition of razor sharp wires makes it extra difficult and potentially painful to search them.
+
+While healthy, Survivors failing a 
+Skill Check
+ at a 
+Jigsaw Box
+ become injured.
+
+Increases
+ the Skill Check difficulty by 
++20 %
+.
+
+Utility Blades
+
+A modification to the Reverse Bear Trap:
+Sharp blades attached to the Trap's interior lacerate the victim with every movement.
+
+Survivors caught in a 
+Reverse Bear Trap
+ suffer from the 
+Haemorrhage
+ 
+Status Effect
+ whenever they are injured by any means.
+
+Workshop Grease
+
+"A simple tube of grease, used to lubricate the mechanisms of the hidden blade."
+
+Modifies the 
+Ambush Dash
+ attack with the following effects:
+
+Increases
+ its Charge speed by 
++50 %
+.
+
+Bag of Gears
+
+"A few mechanical parts that allow the creation of challenging Jigsaw Boxes and easier to install Reverse Bear Traps."
+
+While attaching a 
+Reverse Bear Trap
+ to a downed Survivor, 
+Bag of Gears
+ applies its primary effect:
+
+Increases
+ your Action speed by 
++50 %
+.
+
+Survivors searching a 
+Jigsaw Box
+, 
+Bag of Gears
+ applies its secondary effect:
+
+Reduces
+ their Action speed by 
+-14 %
+.
+
+Jigsaw's Annotated Plan
+
+A disturbing, yet brilliant, trap design laid down on paper and annotated by Jigsaw.
+
+Increases
+ the number of carried 
+Reverse Bear Traps
+ by 
++1
+.
+
+Increases
+ the Death timer of 
+Reverse Bear Traps
+ by 
++10 seconds
+.
+
+Reduces
+ the Death timer of all 
+Active Reverse Bear Traps
+ by 
+-10 seconds
+ each time a Generator is completed.
+
+Rules Set No.2
+
+Not all games need to have the same rules.
+
+Disables
+ the ability of Survivors to see the 
+Auras
+ of 
+Jigsaw Boxes
+, until their 
+Reverse Bear Trap
+ becomes 
+active
+.
+
+"Listen, there are rules." — Jigsaw
+
+Rusty Attachments
+
+"A modification to the Reverse Bear Trap:
+Mouth spikes, covered with crusty and volatile rust spots that make injuries particularly difficult to heal."
+
+Survivors caught in a 
+Reverse Bear Trap
+ suffer from the following effect:
+
+Inflicts the 
+Mangled
+ 
+Status Effect
+ for 
+70 seconds
+.
+
+Slow-Release Toxin
+
+"A modification to the Reverse Bear Trap:
+A poison that is not fatal, but weakens the body and makes it nearly impossible to recover fully from any effort."
+
+Survivors caught in a 
+Reverse Bear Trap
+ suffer from the following effect:
+
+Inflicts the 
+Exhausted
+ 
+Status Effect
+.
+
+Amanda's Secret
+
+A black metal box containing a knife and various medical supplies, such as bandages and compresses.
+Deep cuts reduce stress and awaken the senses.
+
+Survivors removing their 
+Reverse Bear Trap
+ trigger a 
+Loud Noise Notification
+ and have their 
+Auras
+ revealed to you for 
+6 seconds
+.
+
+Crate of Gears
+
+"This collection of mechanical parts allows the creation of extra-challenging Jigsaw Boxes and Reverse Bear Traps that are easier to install."
+
+While attaching a 
+Reverse Bear Trap
+ to a downed Survivor, 
+Crate of Gears
+ applies its primary effect:
+
+Increases
+ your Action speed by 
++50 %
+.
+
+Survivors searching a 
+Jigsaw Box
+, 
+Crate of Gears
+ applies its secondary effect:
+
+Reduces
+ their Action speed by 
+-25 %
+.
+
+Jigsaw's Sketch
+
+A disturbing, yet brilliant, trap design sketched in detail on a sheet of paper.
+
+Increases
+ the number of carried 
+Reverse Bear Traps
+ by 
++1
+.
+
+The 
+Auras
+ of Generators being repaired by Survivors wearing a 
+Reverse Bear Traps
+ are highlighted to you in 
+yellow
+.
+
+Tampered Timer
+
+A timer that has been fiddled with.
+A spring in the mechanism forces the gears to turn faster.
+
+Reduces
+ the Death timer of 
+Reverse Bear Traps
+ by 
+-20 seconds
+.
+
+Amanda's Letter
+
+A blackmailing Letter for the attention of Amanda.
+Fills the reader with rage and focus.
+
+The 
+Auras
+ of Survivors within 
+16 metres
+ are revealed to you when 
+Crouched
+.
+
+Reduces
+ the number of carried 
+Reverse Bear Traps
+ by 
+-2
+.
+
+"Amanda, you were with Cecil the night Jill lost Gideon. You killed their child. You know it and I know it." — Detective Hoffman
+
+Video Tape
+
+A recording of Jigsaw, explaining the game's rules to Amanda.
+Reminiscing about her past-self hardens her determination.
+
+All Survivors start the Trial with a 
+Reverse Bear Trap
+ attached to them.
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There are 
+2
+ Achievements related to 
+The Pig
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Pig
+
+Playing as The 
+Pig
+, achieve a 
+Merciless Victory
+ using only her 
+3
+ Unique Perks: 
+Scourge Hook: Hangman's Trick
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Your ingenious modifications to hooks alert you of tampering."
+
+At the start of the Trial, 
+4
+ 
+Hooks
+ in the environment are changed into 
+Scourge Hooks
+:
+
+The 
+Auras
+ of these 
+Scourge Hooks
+ are highlighted in 
+white
+.
+
+While carrying a Survivor, 
+Scourge Hook: Hangman's Trick
+ triggers its primary effect:
+
+The Auras of all Survivors within 
+12
+/
+14
+/
+16
+ 
+metres
+ of a 
+Scourge Hook
+ are revealed to you.
+
+Whenever a Survivor starts the 
+Sabotage
+ action on any 
+Hook
+, 
+Scourge Hook: Hangman's Trick
+ triggers its secondary effect:
+
+Triggers a 
+Loud Noise Notification
+ at the location of that 
+Hook
+.
+
+"No excuses, no equivocations... No crying." — Amanda Young
+
+, 
+Surveillance
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+Unlocks potential in your Aura-reading ability:
+
+The 
+Auras
+ of damaged 
+Generators
+ are highlighted based on their current state:
+
+White Aura
+: The 
+Generator
+ is currently regressing.
+
+Yellow Aura
+: The 
+Generator
+ stopped regressing due to Survivor-intervention.
+
+This effect lasts for 
+8
+/
+12
+/
+16
+ 
+seconds
+, after which the 
+Generator Aura
+ returns to its default colour.
+
+While Survivors are repairing 
+Generators
+, they suffer from the following effect:
+
+Increases
+ the audible range of all noises related to the 
+Repair
+ interaction by 
++8 metres
+.
+
+"Are you gonna behave?" — Amanda Young
+
+, and 
+Make Your Choice
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+Whenever a Survivor is rescued from a 
+Hook
+, while you are farther than 
+32 metres
+ away, 
+Make Your Choice
+ activates:
+
+Causes the unhooking Survivor to scream and reveal their location to you.
+
+Causes them to suffer from the 
+Exposed
+ 
+Status Effect
+ for 
+40
+/
+50
+/
+60
+ 
+seconds
+.
+
+Make Your Choice
+ has a cooldown of 
+40
+/
+50
+/
+60
+ 
+seconds
+.
+
+"You'd be surprised what tools can save a life." — Amanda Young
+
+.
+
+I Want to Play a Game
+
+Playing as The 
+Pig
+, place 
+Reverse Bear Traps
+ a total of 
+125 times
+ onto downed Survivors.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Pig
+:
+
+Base Cosmetics
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Pig Head
+
+Common
+
+A rotting pig's head with runlets of blood trickling from its eye holes and nostrils.
+
+Red Cloak
+
+Common
+
+The attire of a devoted disciple.
+
+Hidden Blade
+
+Common
+
+A razor-sharp blade, attached to a mechanical contraption that can conceal or extend it.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Bloody Pig Head
+
+Rare
+
+A bloody pigs head with runlets of pus trickling from its eye holes and nostrils.
+
+Prestige Level 6 Reward
+
+Bloody Cloak
+
+Rare
+
+The blood-drenched attire of a zealous disciple.
+
+Prestige Level 5 Reward
+
+Bloody Hidden Blade
+
+Rare
+
+A bloodstained blade, attached to a mechanical contraption that can conceal or extend it.
+
+Prestige Level 4 Reward
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+A troubled soul, whose life had been a catalogue of harm, both to herself and those around her.
+
+ Rift
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Amanda’s Rebirth
+
+The Book of Saw
+
+Tome 10 - SAW
+
+13 December 2022 (Tuesday)
+
+Description
+
+To appreciate life, Amanda would have to suffer.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Reverse Bear Trap
+
+The Book of Saw
+
+68
+
+If Amanda couldn’t find the will to live, this device could quickly help by ripping her jaw off.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Bloody Beginnings
+
+The Book of Saw
+
+1
+
+The clothes worn during Amanda’s epiphany, as she learned to cherish and fight for her life.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Thorn’s Kiss
+
+The Book of Saw
+
+36
+
+A cruel blade that tears the flesh of its victim.
+
+400
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Pig Leather
+
+THE GAMES CONTINUE
+
+17 July 2019 (Wednesday)
+
+Description
+
+Pigskin is tough and hardwearing, as long as you tan it before it rots.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Bloated Pig Head
+
+THE GAMES CONTINUE
+
+The skin of this pig's head has a translucent, waxy quality. It is well decomposed and rotten inside, like its wearer.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Biker's Gear
+
+THE GAMES CONTINUE
+
+Overall protection, for when the Test subjects fight back.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Twisted Trefoil Blade
+
+THE GAMES CONTINUE
+
+An ornate design, combining three razor-sharp blades into one weapon.
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Masquerade Piggy
+
+Twisted Masquerade
+
+25 June 2026 (Thursday)
+
+Description
+
+She realized this party was her chance to prove her worth. The thought gave her chills.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Pig's Mask
+
+Twisted Masquerade
+
+She peered through the narrow holes of her gold mask, watching the guests. She had to find the perfect candidate.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Twisted Cloak
+
+Twisted Masquerade
+
+She moved through the crowd, bumping into guests randomly to gauge their reactions.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Golden-Toothed Blade
+
+Twisted Masquerade
+
+She seized her victim from behind and drove the knife into his throat. Leaving him with no escape, the jagged blade tearing mercilessly into his flesh.
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Deceiver
+
+TRUE SWINE
+
+20 November 2019 (Wednesday)
+
+Description
+
+Slaughter is an art requiring razor-sharp wit and deception.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Probable Cause
+
+TRUE SWINE
+
+Comfort comes in all styles and shapes. A freshly skinned pig head makes all the difference.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Genuine Cool
+
+TRUE SWINE
+
+A comfortable jacket to spend free time in or hunt down cops in the slaughterhouse.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Tactical Excellence
+
+TRUE SWINE
+
+A tactical blade salvaged and reworked into a highly effective eviscerating tool that straps around the arm.
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Amanda’s Rebirth
+
+The Book of Saw
+
+Tome 10 - SAW
+
+13 December 2022 (Tuesday)
+
+Description
+
+To appreciate life, Amanda would have to suffer.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Reverse Bear Trap
+
+The Book of Saw
+
+68
+
+If Amanda couldn’t find the will to live, this device could quickly help by ripping her jaw off.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Bloody Beginnings
+
+The Book of Saw
+
+1
+
+The clothes worn during Amanda’s epiphany, as she learned to cherish and fight for her life.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Thorn’s Kiss
+
+The Book of Saw
+
+36
+
+A cruel blade that tears the flesh of its victim.
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Test Subject
+
+THE GAMES CONTINUE
+
+17 July 2019 (Wednesday)
+
+Description
+
+She comes as a friend, dressed to blend in. Then the games begin.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Second Chance
+
+THE GAMES CONTINUE
+
+Now, in this place, Amanda has another chance. She'll prove that her way is the right way.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Hidden Horror
+
+THE GAMES CONTINUE
+
+Red shirt with detached sleeves keeping her blade hidden as she reaches the final stages of her own, failed, game.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+The Saw
+
+THE GAMES CONTINUE
+
+A rusted and jagged saw blade, crudely carved from steel. If the wound doesn't kill them, the tetanus will.
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Blighted Pig
+
+HALLOWED BLIGHT
+
+08 October 2024 (Tuesday)
+
+Description
+
+She triumphed over many gruesome tests in her life before. She accepted that she must endure one more.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Stretched Muzzle
+
+HALLOWED BLIGHT
+
+The mask split apart, creating two deformed and conflicted pig faces.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Nodule Rind
+
+HALLOWED BLIGHT
+
+The serum consumed Amanda’s flesh, leaving gaping holes of suffering under her skin infested by the putrid poison.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Jagged Blade
+
+HALLOWED BLIGHT
+
+The knife she bore was like an extension of her arm and her jagged will, growing from a pocket of hardened and bitter pus.
+
+400
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Pig
+ is part of 
+1
+ DLC:
+
+The SAW™ Chapter
+
+Change Log
+
+Patch 2.3.0
+Patch 2.5.0
+Patch 2.7.0
+Patch 3.1.0
+Patch 3.2.1
+Patch 3.3.1
+Patch 5.3.0
+Patch 6.0.0
+Patch 6.6.2
+Patch 7.6.0
+Patch 8.6.0
+Patch 9.1.0
+Patch 2.3.0
+
+Buff
+: reduced the audio levels of her footsteps to increase her stealth.
+Patch 2.5.0
+
+Buff
+: reduced the Transition time for 
+Crouching
+ from 
+2 seconds
+ to 
+1.3 seconds
+.
+
+Buff
+: reduced the fade-in/out time of her 
+Terror Radius
+ when transitioning between states from 
+6.6 seconds
+ to 
+4 seconds
+.
+
+Nerf
+: increased her 
+Terror Radius
+ from 
+28 metres
+ to 
+32 metres
+.
+
+This change intended to standardise the 
+Terror Radii
+ amongst Killers moving at 
+4.6 m/s
+ at the time.
+Patch 2.7.0
+
+Nerf
+: triggering the Endgame Collapse no longer activates any remaining 
+Inactive Reverse Bear Traps
+.
+
+Nerf
+: attempting to escape the Trial through the 
+Exit Gates
+ no longer triggers 
+Inactive Reverse Bear Traps
+ to insta-kill their wearer.
+Patch 3.1.0
+
+Nerf
+: 
+The Pig's
+ 
+Ambush Attack
+ is no longer considered a 
+Basic Attack
+.
+
+Quality of Life
+: adjusted 
+The Pig's
+ speed curves for crouching and uncrouching to be smoother.
+Patch 3.2.1
+
+Nerf
+: adjusted 
+The Pig's
+ Carrying speed to match that of other Killers, reducing it from 
+3.85 m/s
+ to 
+3.68 m/s
+.
+
+This was done by reducing the Carrying speed multiplier from 
+x0.8365
+ to 
+x0.8
+.
+
+The original discrepancy was due to an oversight by the Developers.
+The Pig's
+ game code was mostly modified code from 
+The Huntress
+, which had a higher Carrying speed multiplier to compensate for her lower base Movement speed, which caused 
+The Pig's
+ Carrying speed to be too high.
+Patch 3.3.1
+
+Buff
+: updated 
+The Pig's
+ Power with the 
+Undetectable
+ Status Effect
+.
+Patch 5.3.0
+
+Change
+: received an Add-on Pass, reworking several Add-ons.
+Patch 6.0.0
+
+Change
+: added an extra 
+Jigsaw Box
+ in Trials with 
+The Pig
+.
+Additionally, the fourth searched Jigsaw Box is guaranteed to remove the Trap.
+
+This change was motivated by many 
+Pig
+ players body-blocking the last Jigsaw Box, preventing Survivors from searching it, thus guaranteeing death.
+
+Change
+: reworked the key finding logic. There are now 12 guaranteed box searches split between 4 
+Reverse Bear Traps
+ instead of a random 4-16.
+
+Instead of needing to find the correct 
+Jigsaw Box
+ for each 
+Reverse Bear Trap
+, each Trap now has a predetermined number of searches required before it is removed.
+Patch 6.6.2
+
+Undocumented Buff
+: 
+The Pig
+ will now remain crouched when snuffing 
+Totems
+, allowing her to remain 
+Undetectable
+.
+Patch 7.6.0
+
+Buff
+: increased the duration of the 
+Ambush Dash
+ from 
+2 seconds
+ to 
+2.3 seconds
+.
+
+Buff
+: increased her Crouched Movement speed from 
+3.6 m/s
+ to 
+3.8 m/s
+.
+
+Buff
+: reduced the Transition time to enter/exit the 
+Crouched State
+ from 
+1.3 seconds
+ to 
+1 second
+.
+
+Quality of Life
+: standardised the Cool-down durations of the 
+Ambush Dash
+ attack to be in line with other 
+Special Attacks
+:
+
+reduced the Cool-down for successful hits from 
+3 seconds
+ to 
+2.7 seconds
+.
+
+reduced the Cool-down for missed or obstructed hits from 
+2 seconds
+ to 
+1.5 seconds
+.
+
+Nerf
+: removed the ability of 
+The Pig
+ to see the Aura of 
+Jigsaw Boxes
+.
+Patch 8.6.0
+
+Buff
+: reduced the 
+Terror Radius
+ from 
+32 metres
+ to 
+24 metres
+.
+Patch 9.1.0
+
+Buff
+: further increased her Crouched Movement speed from 
+3.8 m/s
+ to 
+4.0 m/s
+.
+
+Buff
+: increased her Movement speed during an 
+Ambush Dash
+ from 
+6.9 m/s
+ to 
+7.1 m/s
+.
+
+Buff
+: further reduced the Transition time to enter/exit the 
+Crouched State
+ from 
+1 second
+ to 
+0.8 seconds
+.
+
+Buff
+: reduced the Fade-out time of the 
+Terror Radius
+ when crouching from 
+4 seconds
+ to 
+3 seconds
+.
+
+Quality of Life
+: added input-buffering to the following interactions:
+
+Entering the 
+Crouched State
+.
+
+Charging an 
+Ambush Dash
+.
+
+Change
+: adjusted several 
+Add-ons
+.
+
+Trivia
+
+General
+
+The Pig
+ was the fifth Killer to wear a Mask.
+
+The Pig
+ was the first Killer with two different Weapon cool-downs.
+
+The Pig
+ was the first Killer to have a secondary interaction with downed Survivors other than the 
+Memento Mori
+.
+
+The Pig
+ was the fourth female Killer, the first female licensed Killer and the first female killer to have a normal base movement speed.
+
+She was the seventh licensed Character and the fourth licensed Killer to be added to 
+Dead by Daylight
+.
+
+The Pig
+ is one of the few Killers to have a secondary Attack mode with her 
+Ambush Dash
+.
+
+The Pig
+ is the only licensed Killer to have never used the weapon they use in 
+Dead by Daylight
+ within their home series, despite said weapon being used within the series.
+
+Jigsaw
+ used the weapon in its only appearance to date to slash the throat of 
+David Tapp
+, the scar of which can be seen faintly on his neck in-game.
+
+Due to residual code from The 
+Huntress
+ that was used as a basis for 
+The Pig
+, her Carrying Speed multiplier was never adjusted to her being a standard Killer in terms of 
+Movement speed
+, allowing her to carry slightly faster than any other Killer.
+
+With 
+Patch 3.2.1
+, this was ultimately adjusted.
+
+The Pig
+ was the first Killer to have an animal as her official theme.
+
+Character Memes
+
+There is a common joke amongst the Community to consider any and all minor in-game balance a nerf to 
+The Pig
+.
+
+This joke originated after a series of minor actual nerfs were applied to 
+The Pig
+.
+
+It was acknowledged twice by the Developers in their Developer Updates.
+
+In their 
+February 2024 Developer Update
+ they jokingly state “In a shocking turn of events, we have decided to buff The Pig.”
+
+Also in their 
+July 2025 Developer Update
+ they jokingly state “Yes, we know. We buffed Pig.”
+
+Another joke regarding 
+The Pig
+ is when survivors 
+Boop The Snoot
+ (i.e. when survivors use the 
+Point emote
+ on 
+The Pig's
+ nose while both are crouched).
+
+This is often done when survivors are asking for mercy or to be friendly.
+
+This joke was also acknowledged by the Developers through the release of the cosmetic 
+Boop the Snoot Mask
+ for 
+Meg Thomas
+.
+
+It was possible to redeem the cosmetic with the code: 
+BOOP
+ through certain 
+SAW
+ related events.
+
+Cosmetics
+
+Almost all of Amanda's outfits are taken or inspired by Saw elements and characters
+
+Default Outfit
+ appears throughout the 
+Saw
+ franchise.
+
+Test Subject
+ originates from 
+Saw III
+.
+
+Pig Leather
+ is inspired by Mark Hoffman's pig costume in 
+Saw IV
+ and 
+Saw V
+.
+
+Deceiver
+ is inspired by Daniel Rigg's pig costume in 
+Saw IV
+.
+
+Amanda's Rebirth
+ is inspired by many aspects of the 
+Saw
+ franchise
+
+The Robe belonged to John Kramer in 
+Saw II
+.
+
+Amanda's Mask is based on Billy the Puppet and features the Reverse Bear Trap.
+
+The purple shirt and black skirt originate from 
+Saw
+ when she recounts her experience with the Reverse Bear Trap.
+
+Blighted Pig
+ has the most unique tag of all of the blighted skins featuring the spiral from 
+Jigsaw
+ and the number 2004 which is a direct reference to the first 
+Saw's
+ year of release.
+
+Memento Mori
+
+The Pig
+ was the first Killer with a Power that allows her to kill Survivors without Sacrificing or performing a 
+Memento Mori
+.
+
+The Pig
+ is one of just a few Killers with the base-kit ability to kill Survivors using her Power.
+
+She also has the shortest regular Memento Mori at just 
+8 seconds
+.
+
+Voice Actress
+
+The Pig
+ is voiced by Christine Marsh, who at that time worked as an Associate Producer on the Game.
+
+Gallery
+
+For more go to the 
+Pig's Gallery
+
+In-game Assets
+
+The Pig
+
+The Pig (Portrait render)
+
+The Pig (Background image)
+
+Official Art
+
+Store banner for SAW Collections 1 "Pig Leather"
+
+Store banner for SAW Collections 2 "Test Subject"
+
+Old Assets
+
+The Pig (Old Portrait render)
+
+Concept Art
+
+'Test Subject' Concept Art
+
+'Pig Leather' Concept Art
+
+Screenshots
+
+Amanda performing her Mori on 
+Meg
+
+Ditto
+
+Amanda carrying a trapped survivor into the 
+Exit Gates
+
+Amanda performing her Mori on 
+Ace
+
+Amanda performing her Mori on 
+Kate
+
+Amanda performing her Mori on 
+Nea
+
+Amanda staring down 
+David
+
+References
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

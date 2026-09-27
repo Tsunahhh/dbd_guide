@@ -1,0 +1,2507 @@
+# Jason Voorhees
+Source: https://deadbydaylight.wiki.gg/wiki/Jason_Voorhees (page complète via API, consultée le 27/09/2026)
+
+The Slasher
+
+Name
+
+Jason Voorhees
+
+Gender
+
+Man
+
+Origin
+
+American
+
+Power
+
+Omnipresent Evil
+
+Power 
+Attack
+ Type
+
+Special Attack
+
+(Throwing Spikes)
+
+Weapon
+
+Classic Machete
+
+Movement Speed
+
+110 % 
+|
+ 4.4 m/s
+
+Alternate Movement speed
+
+200 % 
+|
+ 8 m/s
+(Omnipresent Evil)
+
+Terror Radius
+
+32 metres
+
+Height 
+
+Average
+
+DLC
+
+Jason (Chapter)
+
+Voice Actor
+
+None
+
+Cost
+
+500 
+Auric Cells
+
+Menu Music
+
+Terror Radius Music
+
+Metadata
+
+CharID
+
+K43
+
+Jason Voorhees
+ or 
+"The Slasher"
+ is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+He was introduced as the Killer of 
+Jason
+, a Chapter 
+DLC
+ that released 16 June 2026.
+
+He originates from the 1980 Horror franchise 
+Friday the 13th
+, specifically the 
+Jason Universe Initiative (2023)
+.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon
+
+3.3
+ 
+Power: Omnipresent Evil
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for Omnipresent Evil
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Base Cosmetics
+
+5.1.1
+ 
+Default
+
+5.1.2
+ 
+Prestige
+
+5.1.2.1
+ 
+Perk Charms
+
+5.1.2.2
+ 
+Prestige Badges
+
+5.2
+ 
+Alternatives
+
+5.3
+ 
+In-Game Store
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+General
+
+8.2
+ 
+Memento Mori
+
+8.3
+ 
+Cosmetics
+
+8.4
+ 
+Lore
+
+9
+ 
+Gallery
+
+9.1
+ 
+In-game Assets
+
+9.2
+ 
+Older Assets
+
+9.3
+ 
+Official Art
+
+9.4
+ 
+Outfits
+
+9.5
+ 
+Screenshots
+
+Overview
+
+No matter where you run, Jason is never far away.
+
+Relentless, vicious, and brutally creative, the masked slasher will never run out of inventive ways to kill. It’s all fun and games until a piece of scrap metal bursts through your chest.
+
+The Slasher
+ is the embodiment of horror, a relentless Killer who is always on the hunt.
+
+His personal perks, 
+Hex: Scared to Death
+, 
+Silent Shadow
+, and 
+Rampage
+, allow him to excel at chases, stealthily hunt Survivors, and recover after being stunned.
+
+Lore
+
+The Slasher looms at edge of the treeline. On his face is an old, worn hockey mask, expressionless, a grave threat. Ahead is a tent, the silhouette of a camper within.
+
+If it were any other misty night, the Greenville forest would be alive with the sounds of wildlife. Tonight, there is silence.He takes stock of anything useful scattered near the tent: rope, tent spikes, a hacksaw. Gripping his machete with a strength that could crush the handle, he steps from the shadows.
+
+A quick swipe tears the tent open.
+
+It’s not a camper that stares up at him. It is… something else. Almost human. Skin twisted and deformed in a familiar way. Mouth fixed in a perpetual grin. Covered in blood, holding an axe. There are signs of a struggle, yet no victim to be seen.The creature watches and waits, twitching with uncertainty. The Slasher stares back, fixated on its misshapen face.
+
+“Can you help find my cat?” asks the creature, voice shifting between pitches. Without warning, it plants its axe into The Slasher’s chest.
+
+The Slasher doesn’t hesitate. He reaches out and snaps the creature’s neck, wrenching it backwards.
+
+It remains standing.
+
+He stabs his machete into its belly. The creature’s head twists back into place. Moonlight reveals dark holes where its eyes should be.
+
+A fleshy proboscis extends from its neck and opens.A booming force strikes The Slasher. He staggers, disoriented.
+
+The creature’s axe cuts through his muscle, hits bone. The Slasher slams his hand forward, through the creature’s chest. His fist tightens around what feels like a beating heart.
+
+He rips his hand out, holding not a heart but a clump of entangled flesh. The spidery thing crawls up his arm, stabbing with hooked protrusions. He rips it off, chunks of skin coming with it.
+
+The creature seizes the advantage. Knocks him down, tosses the axe aside, and wails on him with surprising force. Ribs snap like dry wood.
+
+The Slasher reaches for the hacksaw. He slashes it across the creature’s throat. Pink ooze spills onto his mask. The creature continues its assault. The Slasher scrapes the blade deeper, cutting through thick, sinewy flesh until the creature’s head falls from its body.
+
+It writhes in the dirt, a desperate, violent, and ineffective movement. After a final thrash, it collapses, lying motionless.
+
+The Slasher turns away, scores of wounds across his body, and strides into the darkness. A crimson trail follows his every step.Behind him, a warbling voice calls out.
+
+“I could use a hand here.”
+
+In a flash, the headless creature charges on all fours. Tentacles burst from a gaping maw on its back and seize The Slasher. Snapping jaws emerge, burrowing into his body. He spasms. Blood seeps from the holes of his mask. The moon’s glow darkens.
+
+With one final push, The Slasher thrusts his fists through the worming appendages and into the maw. He rises to his feet, lifting the creature, impaling it on his arms. With an overpowering heave, he slams it into the ground.
+
+Still, it moves. The Slasher grabs its legs and swings it into a tree. A sickening crunch. He swings again. He doesn’t stop until he holds in his hands two legs, unconnected to the fleshy puddle of gore that lies beneath him.
+
+Something twitches in the puddle, as if thin threads of muscle twine back together. The Slasher looks around. The mist that permeates this forest turns black.
+
+In the gloom, he glimpses visions of skittish, fearful people roaming the forests. He storms through the dark cloud, wisps parting to reveal a young woman, olive skinned, scarf around her neck. Her eyes widen in terror. He swings his machete.
+
+Her screams are cut short as she chokes on the blood that spews from her throat. Her death echoes through the realm as a warning.
+
+Jason is here.
+
+Load-out
+
+Unique Perks
+
+The Slasher
+ comes with 
+3
+ 
+Perks
+ that are unique to him:
+
+ 
+
+Hex: Scared to Death
+
+When you Hook 
+3
+ different Survivors, 
+Hex: Scared to Death
+ activates on a random Dull 
+Totem
+ and triggers its effect:
+
+Basic-breaking a 
+Pallet
+ during a chase causes all Survivors within 
+13 metres
+ to scream and gain 
+-11
+/
+-12
+/
+-13
+ 
+%
+ 
+Hindered
+ 
+Status Effect
+ for 
+3 seconds
+.
+
+The 
+Hex Effects
+ persist until the 
+Hex Totem
+ is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.
+
+"There was a scream from the forest. Like someone was attacking her." — Mount Ormond Missing Person Report
+
+ 
+
+Rampage
+
+Whenever you basic-break a 
+Pallet
+ or a 
+Breakable Wall
+, gain a token, up to 
+13
+.
+
+Whenever you are blinded or Pallet-stunned, you are granted 
++1 %
+ 
+Haste
+ 
+Status Effect
+ for each Token this perk has for 
+13 seconds
+.
+
+This perk has a cool-down of 
+30
+/
+25
+/
+20
+ 
+seconds
+ after being blinded or Pallet-stunned while this perk has at least 
+1
+ token.
+
+"Signs of a pursuit led deep into the woods where the victim's body was found." — Port Henly Herald
+
+ 
+
+Silent Shadow
+
+When you hook a Survivor, you are granted 
+Undetectable
+ 
+Status Effect
+ for 
+11
+/
+12
+/
+13
+ 
+seconds
+.
+
+When the 
+Exit Gates
+ are powered, you are granted 
+Undetectable
+ for the rest of the Trial.
+
+"Did you see him or not? I can't put out an APB for a bad feeling." — Sgt. Reyes, Greenville Police
+
+Prestige
+
+Prestiging 
+The Slasher
+ will automatically add 
+Tier I
+ of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Slasher
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon
+
+Classic Machete
+ is the Primary Weapon of 
+The Slasher
+.
+The machete suited him well. It was large, powerful, and its cold steel cut through most anything.
+
+Power: Omnipresent Evil
+
+SPECIAL ABILITY: OMNIPRESENT EVIL
+Press the 
+Secondary Power button
+ to activate 
+Omnipresent Evil
+.
+While 
+Omnipresent Evil
+ is activated, 
+The Slasher
+ is granted the following effects:
+
+Increased movement speed of 
+8.0 m/s
+.
+
+Full invisibilty and the 
+Undetectable
+ 
+Status Effect
+.
+
+Ignores collisions of 
+Pallets
+, 
+Breakable Walls
+ and 
+Windows
+.
+
+Cannot attack, see or hear Survivors (except 
+Generator
+ repair noise).
+
+Halves
+ the reload time of 
+Throwing Spikes
+ and prevents the interactable prop from being depleted/destroyed.
+
+Survivors within 
+16 metres
+ are sensed with 
+Mist Clouds
+ if they are idling or with 
+Footprints
+ if they moving around.
+Survivors who have been crouching for more than 
+2.5 seconds
+ cannot be sensed by any means.
+After 
+2 seconds
+ of activating 
+Omnipresent Evil
+, 
+Jump Scare
+ becomes available.
+SPECIAL ABILITY: JUMP SCARE
+While in 
+Omnipresent Evil
+, you can target 
+Pallets
+, 
+Breakable Walls
+ or 
+Windows
+ within 
+16 metres
+.
+Press the 
+Secondary Power button
+ while targetting any valid Prop to perform 
+Jump Scare
+, this causes 
+The Slasher
+ to exit 
+Omnipresent Evil
+ and re-appear at the targetted location.
+Press the 
+Power button
+ to switch the direction 
+The Slasher
+ will face when performing a 
+Jump Scare
+.
+Re-appearing takes 
+1.5 seconds
+, which is multiplied by 
+3x
+ if the targetted Prop is within 
+16 metres
+ of a Hooked Survivor.
+After re-appearing:
+
+The Slasher
+ is granted 
++4.5454 %
+ 
+Haste
+ 
+Status Effect
+ for 
+25 seconds
+
+This increases his base movement speed to 
+4.6 m/s
+.
+
+Any Survivors within 
+16 metres
+ that are being sensed by 
+Omnipresent Evil
+ are revealed by 
+Killer Instinct
+ and scream.
+
+Performing a 
+Jump Scare
+ puts 
+Omnipresent Evil
+ on a 
+12 second
+ cool-down.
+SPECIAL ABILITY: THROWING SPIKES
+There are 2 types of 
+Throwing Spikes
+: 
+Hook Spikes
+ and regular 
+Spikes
+.
+The Slasher
+ starts the Trial equipped with a 
+Hook Spike
+.
+Hook Spikes
+ are obtained by hooking Survivors or by interacting with 
+Hooks
+, doing so destroys the 
+Hook
+ for 
+30 seconds
+. 
+Hooks
+ destroyed this way are immediately repaired when activating 
+Omnipresent Evil
+.
+Regular 
+Spikes
+ are obtained by interacting with 
+Scrap Piles
+ scattered around the map.
+Press the 
+Power button
+ to aim a 
+Spike
+, release the input to cancel the throw.
+While aiming, press the 
+Attack button
+ to throw a 
+Spike
+.
+When a Survivor is hit by any type of 
+Spike
+, they lose a 
+Health State
+ and are pushed forward.
+Survivors who collide with a pushed Survivor will be injured if healthy or affected by 
+Deep Wound
+ if injured.
+If a healthy Survivor is hit by a 
+Hook Spike
+, the 
+Hook Spike
+ impales into them, afflicting them with 
+Broken
+ 
+Status Effect
+. 
+Survivors can remove the impaled 
+Hook Spike
+ by performing an interaction that takes 
+5 seconds
+. The Survivor suffers from 
+-10 %
+ 
+Hindered
+ 
+Status Effect
+ while performing the interaction.
+The Slasher
+ sees the aura of impaled 
+Hook Spikes
+ that are not being removed within 
+26 metres
+.
+If a Survivor is hit by any 
+Spike
+ and they enter the 
+Dying State
+, colliding with a wall during the push causes the Survivor to be pinned into the wall.
+Survivors automatically un-pin themselves after 
+8 seconds
+ and enter the 
+Dying State
+. Survivors are able to rescue pinned Survivors, doing so makes them enter the 
+Injured State
+ instead.
+While next to a pinned Survivor, 
+The Slasher
+ is able to quickly pick them up by pressing the 
+Interaction button
+.
+SPECIAL PROP: SCRAP PILES
+10
+ 
+Scrap Piles
+ spawn in the Trial Grounds.
+Press the  
+Interaction button
+ while next to a 
+Scrap Pile
+ to pick up a regular 
+Spike
+. This depletes the 
+Scrap Pile
+.
+Depleted 
+Scrap Piles
+ are replenished when activating 
+Omnipresent Evil
+.
+SPECIAL INTERACTION: THROWING SPIKE KILL
+If a Survivor who has reached the final 
+Hook Stage
+ or is vulnerable to a 
+Finisher Mori
+ is impaled and downed by a 
+Hook Spike
+ or pinned by any  
+Spike
+, 
+The Slasher
+ will be able to kill that Survivor as long as the Survivor is still pinned/impaled.
+
+Power Trivia
+
+Movement Speeds
+:
+
+Omnipresent Evil: 
+8.0 m/s
+
+Aiming a 
+Throwing Spike
+: 
+3.2 m/s
+
+Cancelling a 
+Throwing Spike
+: 
+2.8 m/s
+
+Throwing a 
+Throwing Spike
+: 
+2.0 m/s
+
+Omnipresent Evil
+:
+
+Starting cool-down: 
+3 seconds
+
+Cool-down applied at the start of the Trial.
+
+Jump Scare
+ cool-down: 
+12 seconds
+
+Cool-down applied after a 
+Jump Scare
+.
+
+Interaction time: 
+0.15 seconds
+
+Speed curve time: 
+0.5 seconds
+
+Refers to the amount of time it takes for 
+Omnipresent Evil'
+s movement speed curve to take effect after enterning 
+Omnipresent Evil
+.
+
+Jump Scare
+ activation delay: 
+2 seconds
+
+Omnipresent Evil - Survivor Sensing
+:
+
+Survivor sensing range: 
+16 metres
+
+Refers to the range in which Survivors will be sensed either by 
+Mist Clouds
+ or 
+Footprints
+.
+
+Footprint minimum distance: 
+1.1 metres
+
+Refers to the distance needed between footprints to trigger sensing.
+
+Footprint linger time: 
+1.5 seconds
+
+Footprint lifetime: 
+2.5 seconds
+
+Duration of the sensing effect after it is ended (the Survivor started crouching).
+
+Omnipresent Evil - Husk Attack
+:
+
+When enterning 
+Omnipresent Evil
+, a husk is left at the location of the Killer when they entered 
+Omnipresent Evil
+. This husk is able to attack nearby Survivors before it disappears, data below is for this mechanic.
+
+Attack radius: 
+1 metre
+
+The husk will attack Survivors within this range.
+
+Husk attack delay time: 
+0.35 seconds
+
+The time before the husk can initialize an attack after activating 
+Omnipresent Evil
+.
+
+Husk collision disable time: 
+3 seconds
+
+After the husk attacks a Survivor, its collision will be disabled for this long.
+
+Jump Scare
+:
+
+Survivor effects range: 
+16 metres
+
+Refers to the distance Survivors must be within from a 
+Jump Scare
+ to be revealed by Killer Instinct and scream.
+
+Targetting range (X-Y axis): 
+16 metres
+
+Targetting range (Z axis): 
+12 metres
+
+Snap time: 
+0.5 seconds
+
+In other words, a delay before Jump Scare's interaction (re-appear).
+
+Re-appearing time: 
+1.5 seconds
+
+Re-appering exit time: 
+1 seconds
+
+Cool-down for interactions and attacking applied after re-appearing.
+
+Killer Instinct
+ duration: 
+4 seconds
+
+Pallet block duration: 
+4 seconds
+
+Window block duration: 
+4 seconds
+
+Haste duration: 
+25 seconds
+
+Haste strength: 
+4.5454 %
+
+This results in walking movement speed of 
+4.6 m/s
+
+Undetectable linger time: 
+2 seconds
+
+Hindered duration: 
+0.001 second
+
+Survivors inside the effects range are applied Hindered that lasts... for less than a milisecond. It gets acknowledged in the top right widget that displays status effects you received, but in gameplay you won't feel a thing.
+
+Hindered strength: 
+-5 %
+
+Collision delay time: 
+0.35 seconds
+
+Delay before Killer's Survivor collision is re-enabled after re-appearing.
+
+Direction swap delay: 
+0.28 seconds
+
+Delay before switching to an another Jump Scare direction.
+
+Jump Scare - Anti Camp
+:
+
+Anti Camp range (X-Y axis): 
+16 metres
+
+Anti Camp range (Z axis): 
+4 metres
+
+Anti Camp linger time: 
+3 seconds
+
+Refers to how long Anti Camp stays in effect after the Survivor is no longer hooked.
+
+Anti Camp Jump Scare re-appear time multiplier: 
+3x
+
+Results in re-appearing time of 
+4.5 seconds
+
+Throwing Spikes
+:
+
+Wind up time: 
+0.9 seconds
+
+Throw cool-down time: 
+2.5 seconds
+
+Reload time: 
+1 second
+
+Reload time multiplier while in 
+Omnipresent Evil
+: 
+0.5x
+
+Hook repair time after reloading at a Hook: 
+30 seconds
+
+Automatic hook repair time frame after picking up a Survivor: 
+5 seconds
+
+After reloading at a Hook, the Hook will be automatically repaired if you pick up a Survivor within this time frame.
+
+Reload delay after Hooking or triggering the effect of 
+Dirty Money
+: 
+1 second
+
+How long it takes to grant the Spike after hooking a Survivor or triggering 
+Dirty Money
+'s effect, note that you can trigger 
+Omnipresent Evil
+ before this happens, preventing the Spike from being granted.
+
+Scrap Piles
+ and 
+Hook
+ aura reveal range when out of Spikes: 
+20 metres
+
+Throwing Spikes - Projectile Interactions
+:
+
+Projectile speed: 
+42 m/s
+
+Push duration: 
+0.35 seconds
+
+Push minimum distance: 
+20 cm
+
+A push will not be initiated if it will make the Survivor travel less than this distance.
+
+Push movement speed: 
+20 m/s
+
+Push acceleration multiplier: 
+15x
+
+Hook Spike
+ - impaled Spike aura reveal range: 
+26 metres
+
+Pinned - Extract Spike interaction time: 
+8 seconds
+
+Pinned - Extract Spike (Mini-Mori conditions activated) interaction time: 
+15 seconds
+
+Impaled - Extract Spike interaction time: 
+5 seconds
+
+Impaled - Extract Spike interaction movement speed multiplier: 
+0.9x
+
+Impaled - Extract Spike (Mini-Mori conditions activated) interaction time: 
+15 seconds
+
+Add-ons for Omnipresent Evil
+
+Icon
+
+Name
+
+Description
+
+Bent Wheel
+
+"All that remained of the victim's wheelchair after the fatal blow."
+
+Increases the 
+Jump Scare
+ targetting range by 
++4 metres
+.
+
+Garden Claw
+
+"Good for digging up weeds and digging into human flesh."
+
+Increases the duration of 
+Killer Instinct
+ after a 
+Jump Scare
+ by 
++2 seconds
+.
+
+Knitting Needle
+
+"You won't believe what—and who—this thing has been through."
+
+Increases the time it takes for Survivors to remove an impaled 
+Hook Spike
+ from themselves by 
++20 %
+.
+
+Orderly's Shoe
+
+"It hung from her twitching foot as the knife plunged into her belly."
+
+Increases the duration of the 
+Haste
+ 
+Status Effect
+ after a 
+Jump Scare
+ by 
++5 seconds
+.
+
+Bloody Smile
+
+"He wasn't happy after his face was smashed into a tree."
+
+Increase the detection ranges of 
+Jump Scare
+ and 
+Omnipresent Evil
+ by 
++4 metres
+.
+
+Coroner's Coffee
+
+"A cup of coffee that went unfinished."
+
+Increases the duration of 
+Throwing Spike
+'s push by 
++25 %
+.
+
+Gain 
++13 %
+ 
+Haste
+ 
+Status Effect
+ for 
+3 seconds
+ after injuring a Survivor with a 
+Throwing Spike
+ if they do not collide with the environment during the push.
+
+Party Noisemaker
+
+"A party instument that tore through a woman's eyeball and gouged her brain."
+
+Breaking a 
+Pallet
+ or a 
+Breakable Wall
+ with 
+Jump Scare
+ reveals all Survivors further than 
+28 metres
+ for 
+6 seconds
+.
+
+Sleeping Bag
+
+"An absolutely awful place to hide from a killer."
+
+After grabbing a 
+Hook Spike
+ while in 
+Omnipresent Evil
+, Survivors who are within 
+10 metres
+ of any 
+Hook
+ have their location revealed for 
+5 seconds
+.
+
+Toxic Waste
+
+"No one could survive being submerged in this poison."
+
+After performing a 
+Jump Scare
+, Survivors within  
+10 metres
+ of a 
+Hook
+ or a 
+Scrap Pile
+ are inflicted with 
+Oblivious
+ 
+Status Effect
+ for 
+13 seconds
+.
+
+Eye Goop
+
+"What remains when a harpoon is shoved into one's eye."
+
+Gain 
+Undetectable
+ 
+Status Effect
+ after grabbing a 
+Hook Spike
+ for 
+13 seconds
+.
+
+Imprinted Aluminum
+
+"It's either avant-garde artwork, or the horrified imprint of a woman whose face was slammed into it."
+
+Injuring a healthy Survivor with a 
+Throwing Spike
+ inflicts them with 
+Mangled
+ and 
+Haemorrhage
+ 
+Status Effects
+ for 
+70 seconds
+.
+
+Mirror Shards
+
+"A weapon that dealt more than bad luck."
+
+Survivors are inflicted with  
+Broken
+ 
+Status Effect
+ after extracting a 
+Hook Spike
+ from themselves for 
+40 seconds
+.
+
+Sauna Rock
+
+"Nicely weighted, could be used to crush a rib cage."
+
+After performing a 
+Jump Scare
+, inflict all detected Survivors with 
+Exhausted
+ 
+Status Effect
+ for 
+3 seconds
+.
+
+Two Nails
+
+"A reliable way to hold a corpse's wrist in place."
+
+Survivors that come within 
+1 metre
+ of a 
+Throwing Spike
+ have their aura revealed for 
+5 seconds
+.
+
+Bloody Magazine
+
+"The spattering of blood told the story of a brutal massacre."
+
+When a  
+Hook Spike
+ misses, all Survivor within 
+8 metres
+ of the 
+Hook Spike
+'s impact zone scream and reveal their auras for 
+3 seconds
+.
+
+Burnt Fuse
+
+"The surge of electricity was overwhelming. It left the man's flesh charred and smelling of cooked meat."
+
+When a Survivor is impaled by a  
+Hook Spike
+, the Exit Gates are blocked for them and any Survivor within 
+13 metres
+. This effect persists for 
+5 seconds
+ after the Survivor is no longer impaled.
+
+Deputy's Badge
+
+"The badge of an officer who discovered that some things aren't worth investigating."
+
+While in 
+Omnipresent Evil
+, passing within 
+2 metres
+ of a 
+Generator
+ causes the 
+Generator
+ to explode, lose 
+-5 %
+ progress and begin regressing.
+
+If a Survivor is repairing the 
+Generator
+, all Survivors repairing it will instead get a special 
+Skill Check
+. 
+If the 
+Skill Check
+ is failed, the 
+Generator
+ loses 
+-10 %
+ additional progress on top of the base 
+Skill Check
+ penalty.
+
+Missing Corkscrew
+
+"It seems to always be missing when you need it on-hand."
+
+When a Survivor is impaled by a  
+Hook Spike
+, they emit a  
+32 metres
+ 
+Terror Radius
+ until the 
+Hook Spike
+ is removed.
+
+Gain 
+Undetectable
+ 
+Status Effect
+ when impaling a Survivor with a 
+Hook Spike
+. This effect persists for 
+13 seconds
+ after the Surivvor is no longer impaled.
+
+Dirty Money
+
+"No amount of money can save you from him."
+
+When a 
+Generator
+ is repaired, gain 
+2
+ tokens.
+
+When you vault a 
+Window
+ or break a 
+Pallet
+ or a 
+Breakable Wall
+, consume 
+1
+ token and gain a regular 
+Spike
+ if you don't have one already.
+
+Iridescent Boat Motor
+
+"The blades are chipped and cracked, as if having cut through something solid."
+
+Passing through 
+Windows
+ while in 
+Omnipresent Evil
+ marks them for 
+13 seconds
+. Performing a 
+Jump Scare
+ blocks all marked 
+Windows
+ for 
+13 seconds
+
+Achievements
+
+Main article: 
+Achievements
+
+There are 
+2
+ Achievements related to 
+The Slasher
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Slasher
+
+Playing as The 
+Slasher
+, achieve a 
+Merciless Victory
+ using only his 
+3
+ Unique Perks: 
+Hex: Scared to Death
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+When you Hook 
+3
+ different Survivors, 
+Hex: Scared to Death
+ activates on a random Dull 
+Totem
+ and triggers its effect: 
+
+Basic-breaking a 
+Pallet
+ during a chase causes all Survivors within 
+13 metres
+ to scream and gain 
+-11
+/
+-12
+/
+-13
+ 
+%
+ 
+Hindered
+ 
+Status Effect
+ for 
+3 seconds
+.
+
+The 
+Hex Effects
+ persist until the 
+Hex Totem
+ is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.
+
+"There was a scream from the forest. Like someone was attacking her." — Mount Ormond Missing Person Report
+
+, 
+Silent Shadow
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+When you hook a Survivor, you are granted 
+Undetectable
+ 
+Status Effect
+ for 
+11
+/
+12
+/
+13
+ 
+seconds
+.
+
+When the 
+Exit Gates
+ are powered, you are granted 
+Undetectable
+ for the rest of the Trial.
+
+"Did you see him or not? I can't put out an APB for a bad feeling." — Sgt. Reyes, Greenville Police
+
+, and 
+Rampage
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+Whenever you basic-break a 
+Pallet
+ or a 
+Breakable Wall
+, gain a token, up to 
+13
+.
+
+Whenever you are blinded or Pallet-stunned, you are granted 
++1 
+ 
+Haste
+ 
+Status Effect
+ for each Token this perk has for 
+13 seconds
+.
+
+This perk has a cool-down of 
+30
+/
+25
+/
+20
+ 
+seconds
+ after being blinded or Pallet-stunned while this perk has at least 
+1
+ token.
+
+"Signs of a pursuit led deep into the woods where the victim's body was found." — Port Henly Herald
+
+.
+
+Not So Fast
+
+In public matches, immobilize Survivors to a wall 
+13
+ times as The 
+Slasher
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customize 
+The Slasher
+:
+
+Base Cosmetics
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Hockey Mask
+
+Common
+
+His mask hid any sign of emotion as he pursued his victims. He was unstoppable.
+
+Weather-Beaten Gear
+
+Common
+
+A terrifying force, he left trails of victims in his wake.
+
+Classic Machete
+
+Common
+
+The machete suited him well. It was large, powerful, and its cold steel cut through most anything.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Spattered Hockey Mask
+
+Rare
+
+His mask struck fear into the hearts of his victims. His reign of bloodshed was unstoppable.
+
+Blood-Beaten Gear
+
+Rare
+
+A blood-curdling menace, he left rivers of blood and trails of death wherever he struck.
+
+Crimson Machete
+
+Rare
+
+The machete suited him well. It was large, powerful, and left his victim screaming in a pool of blood.
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+A murderer always ready to kill for revenge, slashing unsuspecting victims one by one.
+
+Alternatives
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Backwoods Terror
+
+Slasher Aberrations
+
+16 June 2026 (Tuesday)
+
+Description
+
+He carved through thick brush and trees with effortless swipes. Nothing could get in his way when he wanted: vengeance.
+
+675
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Deep Wilderness
+
+Slasher Aberrations
+
+Eyes peering through his hockey mask, he watched as a hunter mumbled a half-remembered song to himself, oblivious to the attack coming his way.
+
+250
+
+Piece
+
+Name
+
+Collection
+
+Tree Feller
+
+Slasher Aberrations
+
+He barely moved as the startled hunter swung his gun towards him and fired a wild shot.
+
+250
+
+Piece
+
+Name
+
+Collection
+
+Oak Splitter
+
+Slasher Aberrations
+
+With an enormous swing, he cut off the arm the hunter raised in defense. As his victim fell to his knees, he split his head in two.
+
+250
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Backwoods Horror
+
+Slasher Aberrations
+
+16 June 2026 (Tuesday)
+
+Description
+
+He carved through thick brush and trees with effortless swipes. Nothing could get in his way when he wanted: vengeance.
+
+675
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Deep Woods
+
+Slasher Aberrations
+
+Eyes peering through his hockey mask, he watched as a hunter mumbled a half-remembered song to himself, oblivious to the attack coming his way.
+
+250
+
+Piece
+
+Name
+
+Collection
+
+Tree Cutter
+
+Slasher Aberrations
+
+He barely moved as the startled hunter swung his gun towards him and fired a wild shot.
+
+250
+
+Piece
+
+Name
+
+Collection
+
+Elm Splitter
+
+Slasher Aberrations
+
+With an enormous swing, he cut off the arm the hunter raised in defense. As his victim fell to his knees, he split his head in two.
+
+250
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Blighted Slasher
+
+HALLOWED BLIGHT
+
+01 October 2026 (Thursday)
+
+Description
+
+So profound was the subject’s malevolence that gnarled black roots burst from his flesh.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Face Of Progress
+
+HALLOWED BLIGHT
+
+The subject would not part with his mask under any circumstance. Attempting to remove it nearly cost me my hand.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Inner Violence
+
+HALLOWED BLIGHT
+
+He neither noticed nor cared when his skin thinned to translucence and his entrails bloated like engorged serpents.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Skin Splitter
+
+HALLOWED BLIGHT
+
+The blade's simple elegance was retained, though pustules encircled the handle, embedding deep within the subject's palm.
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Death Forsaken
+
+Slasher Aberrations
+
+16 June 2026 (Tuesday)
+
+Description
+
+The skin sloughed off his bones but he would not die, not when there was more blood to be shed.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Fractured Remains
+
+Slasher Aberrations
+
+He shambled towards his victim. She struck him again and again with a wooden oar, but it didn't even slow him.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Grim Husk
+
+Slasher Aberrations
+
+She fell to the ground and screamed, realizing that nothing she did could ever stop what was to come.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Grave Digger
+
+Slasher Aberrations
+
+He smashed the shovel into her face, shattering fragments of her skull into her brain.
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Depths of Despair
+
+Slasher Aberrations
+
+16 June 2026 (Tuesday)
+
+Description
+
+Though submerged in the deep, it would not be his end. He would return. He would always return.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Undrowned Mask
+
+Slasher Aberrations
+
+Seeing a swimmer above was the motivation he needed to thrash at his rusted chains.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Bottom Feeder
+
+Slasher Aberrations
+
+He heaved at the chains with a fearsome strength, finally snapping the metal links that had imprisoned him.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Blade of the Risen
+
+Slasher Aberrations
+
+He rose from the depths, grabbing an arm around the swimmer's neck and pulling him under.
+
+400
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Slasher
+ is part of 
+1
+ DLC:
+
+Jason (Chapter)
+
+Change Log
+
+Patch 10.0.0
+Patch 10.0.0
+
+Change
+: pinned Survivor rescues are no longer considered as Healing actions.
+
+Nerf
+: added a 
+0.35 seconds
+ delay to the 
+Omnipresent Evil'
+s 
+Husk
+ attack.
+
+Nerf
+: increased 
+Jump Scare'
+s Anti Camp re-appearance modifier from 
+2x
+ (
+3 seconds
+) to 
+3x
+ (
+4.5 seconds
+).
+
+Nerf
+: reduced movement speed while cancelling the 
+Throwing Spikes
+ interaction from 
+3.2 m/s
+ to 
+2.8 m/s
+.
+
+Trivia
+
+General
+
+The Slasher
+ visually inspired The 
+Trapper
+.
+
+The Slasher'
+s default design was inspired by his appearances from 
+Friday the 13th Part 2
+ and 
+Friday the 13th Part 3
+.
+
+The design also bears a resemblance from his appearances in 
+Freddy vs Jason
+, 
+Friday the 13th (2009)
+ and the fighting game 
+Mortal Kombat X
+, in which 
+Jason
+ makes a guest appearance.
+
+The Slasher'
+s default design and mask was designed by makeup artist 
+Greg Nicotero
+, who is known for his work on 
+The Walking Dead
+.
+
+He also designed a mask for the 
+Scream
+ version of 
+Ghost Face
+ before movie producers settled on the Fun World mask, and made an original design for 
+Leatherface
+ in the 
+The Texas Chain Saw Massacre (2023)
+ game published by 
+Gun Interactive
+ who also were the publisher behind the now defunct 
+Friday The 13th: The Game
+.
+
+According to Behavior's Head of Partnerships, 
+Mathieu Cote
+, 
+Jason
+ was one of the few licensed Killers that had an open invitation.
+
+The other Killer is 
+Pennywise
+ from 
+It
+.
+
+Said invitation can be seen in his reveal trailer and the Sealed Letter 
+Badge
+.
+
+The Slasher
+ is the second Killer to feature unique 
+Hooks
+ when present in the Trial.
+
+The first was The 
+Xenomorph
+.
+
+The Slasher
+ is the first Killer to be able to destroy 
+Hooks
+.
+
+The Slasher'
+s Add-ons include references from the first eight films from the 
+Friday the 13th
+ franchise, with all of them being references to iconic kills:
+
+Bent Wheel
+ and 
+Deputy's Badge
+ Add-ons reference 
+Friday the 13th Part 2
+.
+
+Knitting Needle
+, 
+Bloody Magazine
+, 
+Burnt Fuse
+, and 
+Eye Goop
+ Add-ons reference 
+Friday the 13th: Part 3
+.
+
+Missing Corkscrew
+, 
+Coroner's Coffee
+, 
+Orderly's Shoe
+, 
+Two Nails
+, and 
+Garden Claw
+ Add-ons reference 
+Friday the 13th: The Final Chapter
+.
+
+Dirty Money
+, 
+Bloody Smile
+ and 
+Imprinted Aluminum
+ Add-ons reference 
+Friday the 13th Part 6: Jason Lives
+.
+
+Party Noisemaker
+ and 
+Sleeping Bag
+ Add-ons reference 
+Friday the 13th Part 7: The New Blood
+.
+
+Toxic Waste
+, 
+Mirror Shards (Omnipresent Evil)
+, and 
+Sauna Rock
+ Add-ons reference 
+Friday the 13th Part 8: Jason Takes Manhattan
+.
+
+Iridescent Boat Motor
+ Add-on references 
+Sweet Revenge (2025)
+, a short film released as part of the 
+Jason Universe Initiative
+.
+
+The Slasher
+ doesn't have a face under his mask, this is due to 
+Jason Universe
+ never officially revealing his face.
+
+The Slasher'
+s lore art has a direct reference to the poster of 
+Freddy vs. Jason
+, with Jason swapping position and 
+Freddy Krueger
+ getting replaced by The 
+Unknown
+.
+
+The Slasher'
+s portrait render is a reference to the cover of the 1989 
+Friday the 13th
+ NES game.
+
+The number 
+13
+ is used as a numerical value in aspects of all three of 
+The Slasher'
+s Unique Perks, as well as large portion of his Add-Ons, as a homage to his franchise of origin, 
+Friday The 13th.
+
+Coincidentally, the base-kit features of his Power just barely miss out on this running gag, with 
+Omnipresent Evil'
+s recharge taking just 12 seconds.
+
+Whenever 
+The Slasher
+ is stunned, a music stinger plays:
+
+This was added in the live release of 
+Patch 10.0.0
+.
+
+The Slasher
+ is the first truly mute Killer as he makes no sounds besides the iconic 
+Ki Ki Ki Ma Ma Ma
+:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Memento Mori
+
+The Slasher
+ is the second Killer whose Memento Mori overrides the default Memento Mori music.
+
+The first was The 
+Trickster
+'s 
+MiNA
+ outfit.
+
+The Slasher
+ is the sixth Killer with a base-kit ability to kill Survivors using his Power.
+
+The Slasher
+ is also the only Killer thus far to have more than one 
+Mini-Mori
+ and as such, is currently the only Killer in the game with three Memento Mori animations.
+
+His default Mori has 
+The Slasher
+ eviscerate the opponent's intestines with a 
+Hook Spike
+, tossing the Survivor to the ground before tipping over a jerry can, creating a spark to ignite and immolate the Survivor as 
+The Slasher
+ watches.
+
+His first 
+Mini-Mori
+, in which a Survivor is pinned to an object by a 
+Hook Spike
+ or 
+Spike
+ from a 
+Scrap Pile
+, has 
+The Slasher
+ remove the spike, pin the Survivor to the object again before impaling them through the mouth with the spike.
+
+His second 
+Mini-Mori
+, in which a Survivor is downed with a 
+Hook Spike
+ impaled in them, has 
+The Slasher
+ stomp on the Survivor's head before forcibly ripping the spike out, along with the Survivor's intestines in the process.
+
+The Slasher
+ is the second Killer after The 
+First
+ in which the Survivor is stunned to allow for him to perform one of his two 
+Mini-Moris
+.
+
+If 
+The Slasher
+ does not have a 
+Hook Spike
+ or has a 
+Spike
+ from a 
+Scrap Pile
+ when performing his default Mori, he will be either be given a 
+Hook Spike
+, or his 
+Scrap Pile
+ 
+Spike
+ will be replaced.
+
+Cosmetics
+
+Default Outfit
+ is taken from the 
+Jason Universe Initiative (2023)
+, which makes this design the main design for 
+Jason
+ going forward for merch, movies, games and crossovers.
+
+Backwoods Terror
+ and 
+Backwoods Horror
+ are heavily inspired by his appearance in 
+Friday the 13th Part 2
+, with him having hair and wearing a flannel shirt.
+
+Death Forsaken
+ is heavily inspired by his appearance in 
+Friday the 13th Part 6: Jason Lives
+ with him being a skeletal zombie with gloves.
+
+Depths of Despair
+ is heavily inspired by his appearance in 
+Friday the 13th Part 7: The New Blood
+ with him featuring a chain around his neck.  reinforced by the 
+Underwater Grave
+ banner you get by purchasing the cosmetic.
+
+The color scheme seems to reference the original 1989 game.
+
+The Slasher'
+s cosmetic regions are erroneously split into 
+"Head,"
+ "Torso," and "Weapon," instead of 
+"Mask,"
+ "Torso," "Weapon."
+
+This can be identified as a mistake because it's the selected Torso piece that determines the head upon which the mask is placed, a trait shared with all other Killers that use the 
+Mask
+ equip region.
+
+Lore
+
+The Slasher
+ crossed paths with The 
+Unknown
+ and 
+Zarina Kassir
+.
+
+According to the flavor text to 
+The Slasher'
+s teachable perks, he went to 
+Ormond
+ and 
+Greenville
+.
+
+Gallery
+
+In-game Assets
+
+The Slasher
+
+The Slasher (Portrait render)
+
+The Slasher (Background image)
+
+Older Assets
+
+Official Art
+
+The Slasher's Lore Art
+
+Outfits
+
+Backwoods Terror Outfit
+
+Death Forsaken Outfit
+
+Depths of Despair Outfit
+
+Screenshots
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

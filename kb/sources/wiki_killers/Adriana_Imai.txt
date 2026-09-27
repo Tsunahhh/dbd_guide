@@ -1,0 +1,4591 @@
+# Adriana Imai
+Source: https://deadbydaylight.wiki.gg/wiki/Adriana_Imai (page complète via API, consultée le 27/09/2026)
+
+The Skull Merchant
+
+Name
+
+Adriana Imai
+
+Gender
+
+Woman
+
+Origin
+
+Brazilian of Japanese descent
+
+Realm
+
+The MacMillan Estate
+
+Power
+
+Eyes in the Sky
+
+Power 
+Attack
+ Type
+
+Basic Attack
+
+Weapon
+
+Razor-Sharp Dual Blades
+
+Movement Speed
+
+115 % 
+|
+ 4.6 m/s
+
+Terror Radius
+
+24 metres
+
+Height 
+
+Average
+
+DLC
+
+Tools of Torment
+
+Voice Actor
+
+Viky Boyer (The Monster Factory)
+
+Cost
+
+4,500 
+Iridescent Shards
+
+250 
+Auric Cells
+
+Menu Music
+
+Terror Radius Music
+
+Metadata
+
+CharID
+
+K31
+
+Adriana Imai
+ or 
+"The Skull Merchant"
+ is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+She was introduced as the Killer of 
+Tools of Torment
+, a Chapter DLC released on 7 March 2023 and retired on 14 May 2024.
+
+She is still available in the 
+In-Game Store
+ and as part of the 
+Endless Hunt Pack
+ Chapter Pack DLC.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+2.1
+ 
+The Archives
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: Razor-Sharp Dual Blades
+
+3.3
+ 
+Power: Eyes in the Sky
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for Eyes in the Sky
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Default
+
+5.2
+ 
+Prestige
+
+5.2.1
+ 
+Perk Charms
+
+5.2.2
+ 
+Prestige Badges
+
+5.3
+ 
+Alternatives
+
+5.3.1
+ 
+DLC
+
+5.3.2
+ 
+Event
+
+5.4
+ 
+Rift
+
+5.5
+ 
+In-Game Store
+
+6
+ 
+DLC
+
+7
+ 
+History
+
+7.1
+ 
+Original Power
+
+7.1.1
+ 
+Original Power Trivia
+
+8
+ 
+Change Log
+
+9
+ 
+Trivia
+
+9.1
+ 
+General
+
+9.2
+ 
+Cosmetics
+
+9.3
+ 
+Lore
+
+9.4
+ 
+Model
+
+9.5
+ 
+Weapon
+
+10
+ 
+Gallery
+
+10.1
+ 
+In-game Assets
+
+10.2
+ 
+Old Assets
+
+10.3
+ 
+Model
+
+10.4
+ 
+Outfits
+
+10.5
+ 
+Concept Art
+
+Overview
+
+The Skull Merchant
+ is a tactical Killer, able to place 
+Drones
+ that detect and debilitate her targets.
+
+Her personal Perks, 
+THWACK!
+, 
+Leverage
+, and 
+Game Afoot
+, allow her to gain 
+Haste
+ from pursuing her 
+Obsession
+, force screams from Survivors when breaking Breakable Walls or Pallets, and reduce Survivors' Healing speed the more times you place them on Hooks. 
+
+Lore
+
+The self-made millionaire Adriana Imai came from a humble home in Fortaleza, Brazil. Her father, Seita, moved to Brazil as a young man, hoping to see a side of the world completely different than his hometown in Hokkaido. A talented illustrator, he spent his spare time designing colourful characters and worlds.
+
+While sketching patrons of a local jazz club, he was approached by Belinda, the owner, to work on a logo. What began as a business partnership soon became a romantic one, and within a couple of years, Adriana was born.
+
+Adriana excelled in all facets of education. A house full of art and music honed a brilliant mind, and her intelligence was only exceeded by her obsessive drive to be the best. While scoring at the top of every class, she was often on the receiving end of disciplinary action due to her overly competitive, and sometimes violent, nature during schoolyard games.
+
+Adriana’s mother did her best to keep her on the right track, but her father was increasingly absent as his own obsessive drive ramped up: 
+Adi Valente
+, a manga about a young girl who saves and protects the weak with her quirky robot companion. Despite working long hours at a canning facility and writing his manga in his spare time, he somehow managed a little time every night to share his wild and highly imaginative illustrations with his daughter.
+
+By middle school, Adriana was courted by a fancy private school due to her high performance, and, needing money, Seita spoke to publishers about his unpublished manuscripts. He managed to find a small local publisher to carry 
+Adi Valente
+, but it meant more work than he could handle. He eventually lost his job at the cannery, giving him more time to develop and illustrate his series.
+
+Adriana loved the manga, but the family was forced into hard times.
+
+In her final semester, Seita requested higher royalties, but the publishing company went into administration and decided to cut the series. No longer able to afford the school fees, Adriana was pulled out of the elite academy where she was at the top of her class. Belinda was able to negotiate her graduation, but another student was able to take her place at the head of the class. Adriana was furious. On summer break, she learned everything about her rival: where he lived, where he hung out, what he liked to do in his spare time, what he listened to, what he watched, everything. She even stalked him on his way home one late summer evening and considered the myriad ways she could ruin his life. But, in the end, she did nothing, though something awakened within her and she felt like the anti-hero in a new story her father had been exploring.
+
+Seita retreated further into himself and began producing this newer, darker manga, inspired by his visions and nightmares. A manga about a woman who hunts and guts the weak in a nightmarish realm with drones made of salvaged skulls and bones. But unable to sell this manga, 
+Sonhadores Sombrios
+, the family became solely reliant on Belinda’s income.
+
+Adriana, looking for ways to make her own money, started a website dedicated to the world of Brazilian manga. It became a runaway success and significant advertising dollars started to roll in. She realized she had no real interest in writing for it, though, so she convinced other kids to write for it for free while the money flooded in. The second she got an offer she sold the site and never looked back.
+
+Proud of her accomplishment, she came home to show her parents the cheque. She never got a chance to show her father, though. He walked out the door that morning, never to return, leaving only a stack of unpublished manuscripts about The Skull Merchant mercilessly hunting those she deemed worthy of her efforts.
+
+To help her mother, Adriana began to study at the library, teaching herself investment and economics, and soon tripled her money. By the age of 18, barely with a high school degree, she had already become a self-made millionaire. As stories of this investment wunderkind spread across Brazil, more and more doors opened for her.
+
+Before long, she had the kind of money that allowed her to buy small companies—companies that she would gut, replace with non-union workers, and sell at a profit. The only breaks she took from her corporate obsession was to pore over her father’s manuscripts, trying to understand this chilling world he had created.
+
+By her mid 20s, she was regularly flipping companies. While finalising on a real estate firm, two members of the board moved to block the sale, pointing to the trail of hollowed-out husks she left in her wake. Adriana was frustrated. It took her weeks to find out who the holdouts were, but once she did, she thought about how it would feel to hurt them.
+
+She learned everything about the directors. Stalked their every move. Manipulated them into attending a conference in Switzerland. And, while on retreat in the Alps, she made her move. Inspired by The Skull Merchant, and feeling something within demanding expression, she tracked them with a prototype drone, and brutally dismembered them with a cruel two-bladed weapon. The rush of emotion and adrenaline was unlike anything she had ever experienced before. And the company was hers!
+
+Thus began an unsettling cycle. Swoop in on a business, destroy anyone standing in her way, and gut the company for maximum profit. She targeted companies with larger-than-life CEOs and hoped one would present a challenge. None ever did. They just ‘disappeared’ unremarkably.
+
+An aggressive manager of a fireworks company, known for his “survival tours,” was her last target, right at home in Brazil.
+
+Survival tours… a perfect cover.
+
+Adriana lured him to a decommissioned airship hangar.
+
+The hunt started at dawn and went the distance, with her still tracking him well into the evening. Locating him, she used one of her drones to direct him to a dead end, when a pair of kites suddenly appeared on camera, and the feed died. Her face hardened. Her eyes widened in disbelief as she slammed her laptop shut and charged to where the drone had crashed. There she found her prey reaching out to someone in the growing dark for help.
+
+Witnesses.
+
+Not part of the plan!
+
+Without a second to lose, she plunged her blade through his stomach, exposing meat, bone, and a dying heart. The vitiated body staggered left and right, sending a shower of red over the green foliage. As her victim collapsed with a thud she turned to the young witnesses. Wrong place, wrong time. They broke into a sprint. She gave chase, her blades thirsting for more blood. The lush green of the trees melted into a thick black fog. Real life warped into something like 
+Sonhadores Sombrios
+. A sick grin crept across her face as she rushed forward to begin a new chapter in her life.
+
+The Archives
+
+The table below lists additional Lore about 
+The Skull Merchant
+ from 
+The Archives
+, either from 
+Tomes
+ that featured her or from individual Lore entries that mentioned her:
+
+Tome
+
+Entry
+
+Type
+
+Tome 15 - Ascension
+
+Memory Fragments (Adriana Imai)
+
+Featured Character
+
+Load-out
+
+Unique Perks
+
+The Skull Merchant
+ comes with 
+3
+ 
+Perks
+ that are unique to her:
+
+ 
+
+Game Afoot
+
+This description is based on the changes announced for or featured in the upcoming Patch 10.2.0
+"First you pick your prey, then you pick it apart."
+
+Whenever you hit the Survivor with currently the highest cumulative 
+Chase time
+ with a 
+Basic Attack
+, 
+Game Afoot
+ triggers its primary effect:
+
+Causes the 
+Obsession
+ Status
+ to transfer to that Survivor.
+
+While chasing the 
+Obsession
+, performing the 
+Break or Damage
+ action causes 
+Game Afoot
+ to trigger its secondary effect:
+
+Grants a 
++10 %
+ 
+Haste
+ 
+Status Effect
+ for 
+8
+/
+9
+/
+10
+ 
+seconds
+.
+
+You can only be 
+obsessed
+ with one Survivor at a time.
+
+"This one might actually be a challenge..." — Sonhadores Sombrios, Issue #3
+
+ 
+
+Leverage
+
+"Kick your competitors when they're down. Never let them regain lost ground."
+
+Whenever a Survivor performs an 
+Unhook
+ action, they suffer from the following effect for 
+60 seconds
+:
+
+Reduces
+ their Healing speeds by 
+20
+/
+25
+/
+30
+ 
+%
+.
+
+"Good. Now we can move in for the kill." — Adriana Imai
+
+ 
+
+THWACK!
+
+"Your prey is terrified by your relentless pursuit."
+
+Start the Trial with 
+3 Tokens
+.
+Whenever you break a 
+Breakable Wall
+ or a dropped 
+Pallet
+, 
+THWACK!
+ consumes 
+-1 Token
+ and applies the following effect:
+
+Causes all Survivors within 
+36 metres
+ of your location to scream and reveal their 
+Aura
+ for 
+4
+/
+5
+/
+6
+ 
+seconds
+.
+
+Whenever you hook a Survivor, 
+THWACK!
+ is granted 
++1 Token
+.
+
+"All those who stood in her path feared her mighty THWACK!" — Sonhadores Sombrios, Issue #3
+
+Prestige
+
+Prestiging 
+The Skull Merchant
+ will automatically add 
+Tier I
+ of her Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Skull Merchant
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: Razor-Sharp Dual Blades
+
+Razor-Sharp Dual Blades
+ are the Primary Weapon of 
+The Skull Merchant
+.
+A cruel pair of blades, designed for ripping through human flesh.
+
+Power: Eyes in the Sky
+
+"Inspired by the dark manga created by her father, The Skull Merchant relentlessly hunts her prey using the latest in surveillance technology."
+SPECIAL ABILITY: EYES IN THE SKY
+The Skull Merchant
+ starts the Trial with 
+6
+ 
+Drones
+ in her inventory.
+
+When a Survivor is tracked by a 
+Drone
+ within 
+5 seconds
+ of it being deployed or having its rotation direction changed, 
+The Skull Merchant
+ is granted a 
++5 %
+ 
+Haste
+ 
+Status Effect
+ for 
+8 seconds
+.
+This effect is entirely passive and does not require her to inspect her 
+Radar
+.
+SPECIAL INTERACTION: INSPECTING RADAR
+Press the 
+Secondary Power button
+ to bring up her 
+Radar
+.
+The 
+Radar
+ displays the location of all 
+Trackable Survivors
+ and reveals the 
+Auras
+ of 
+Drone
+ 
+Scan Lines
+ within 
+32 metres
+:
+
+The Survivor was detected by a 
+Drone
+ in the last 
+12 seconds
+.
+
+The Survivor is wearing a 
+Claw Trap
+.
+
+The 
+Radar
+ represents 
+Trackable Survivors
+ with symbols that indicate their relative elevation compared to 
+The Skull Merchant
+:
+
+■
+ = same elevation
+
+▲ = above her
+
+▼ = below her
+
+SPECIAL INTERACTION: RECALLING DRONES
+While inspecting the 
+Radar
+ and aiming at a specific 
+Drone
+, press the 
+Power button
+ to recall it into your inventory.
+This interaction grants the 
+Undetectable
+ 
+Status Effect
+ for 
+8 seconds
+.
+SPECIAL INTERACTION: CHANGING ROTATIONAL DIRECTION
+While inspecting the 
+Radar
+ and aiming at a specific 
+Drone
+, press the 
+Attack button
+ to change the Rotational direction of its 
+Scan Lines
+.
+SPECIAL ABILITY: DEPLOYING DRONES
+Press the 
+Power button
+ to deploy a 
+Drone
+:
+
+Conducts a sweeping scan inside its 
+Area of Effect
+ at a Rotational speed of 
+105 °/s
+.
+
+Its Aura is revealed to 
+The Skull Merchant
+ in 
+yellow
+ at all times.
+
+Once a Survivor is detected inside the 
+Area of Effect
+:
+
+Fills the 
+Lock On Meter
+ by 
++1 Stack
+.
+
+This effects repeats each time a Survivor is detected, unless the detection occurs within 
+2.5 seconds
+ of the previous one.
+All 
+Drones
+ have an 
+Area of Effect
+ with a radius of 
+10 metres
+.
+Drone 
+Scan Lines
+ are only visible within 
+16 metres
+.
+Survivors who are crouching, standing still or performing a Fast Vault inside the 
+Area of Effect
+ cannot be detected by the 
+Scan Lines
+.
+SPECIAL AFFLICTION: LOCK ON
+Once the 
+Lock-On Meter
+ is full at 
+3 Stacks
+, the Survivor becomes 
+Locked On
+ and suffers from the following effects:
+
+Healthy Survivors receive damage and become injured.
+
+Injured Survivors suffer from the 
+Deep Wound
+ 
+Status Effect
+.
+
+Suffer from the 
+Broken
+ 
+Status Effect
+ regardless of their Health State.
+
+Receive a 
+Claw Trap
+.
+
+If a Survivor stands below an elevated 
+Drone
+ for longer than 
+1 second
+, they are instantly scanned and become 
+Locked On
+.
+SPECIAL INTERACTION: HACKING DRONES
+Survivors can approach a 
+Drone
+ in either of its two states and hack it through a unique mini-game:
+
+Succeeding disables the 
+Drone
+ for 
+45 seconds
+.
+
+Failing fills the 
+Lock On Meter
+ by 
++1 Stack
+.
+
+SPECIAL AFFLICTION: CLAW TRAP
+The 
+Claw Trap
+ attached to a Survivor's arm has a Battery life of 
+45 seconds
+ and continuously broadcasts their location to the 
+Radar
+ of 
+The Skull Merchant
+ until it runs out, automatically destroying it.
+
+Claw-Trapped Survivors
+ who are scanned by a 
+Drone
+ suffer from the following effects:
+
+Applies a 
+-10 %
+ 
+Hindered
+ 
+Status Effect
+ for 
+6 seconds
+.
+
+Triggers 
+Killer Instinct
+ for 
+3 seconds
+.
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Placing a 
+Drone
+: 
+4.4 m/s
+
+Inspecting her 
+Radar
+: 
+4.6 m/s
+
+Walking: 
+4.6 m/s
+
+Drones:
+
+Power Cool-down: 
+7 seconds
+
+Triggers whenever a new 
+Drone
+ is placed.
+
+Initialisation time: 
+0.3 seconds
+
+This is a buffer between placing a 
+Drone
+ and it starting to scan its surroundings.
+
+Disabled duration: 
+45 seconds
+
+Triggers when a 
+Drone
+ is hacked.
+
+Recall duration: 
+1 second
+
+Maximum 
+Hacking
+ timer: 
+30 seconds
+
+If a Survivor takes longer than this to hack a 
+Drone
+, the mini-game will automatically fail.
+
+Drone Detection:
+
+Consecutive-Scans Immunity: 
+2.5 seconds
+
+This is a buffer that applies whenever a Survivor is scanned.
+
+Drone Placement:
+
+Minimum distance to other 
+Drones
+ or hooked Survivors: 
+12 metres
+
+Minimum height offset to other 
+Drones
+ or hooked Survivors: 
+2.5 metres
+
+Minimum clearance: 
+35 centimetres
+
+Minimum height above ground (after being placed): 
+1.5 metres
+
+Maximum height above ground (after being placed): 
+2.5 metres
+
+Drone Beam Colours:
+
+The colour of the Beams emitted by 
+Drones
+ show a Survivor whether the 
+Drone
+ can currently detect them upon contact or not:
+
+Orange
+ indicates that the 
+Drone
+ 
+will detect
+ the Survivor when it passes over them and increase 
+Lock On
+.
+Applies when the Survivor is moving.
+
+White
+ indicates that the 
+Drone
+ 
+will not detect
+ the Survivor when it passes over them.
+Applies when the Survivor is stationary or crouching.
+
+Radar:
+
+Scanned Survivor Visibility duration: 
+12 seconds
+
+Update interval: 
+1 second
+
+Radius: 
+32 metres
+
+Height threshold 
+2 metres
+
+This determines how far above or below Survivors must be in elevation relative to 
+The Skull Merchant
+ for it to be indicated on the 
+Radar
+.
+
+Radar VFX Indicators:
+
+The physical model of the 
+Radar
+ features two lights which provide 
+The Skull Merchant
+ with additional information:
+
+The left light changes depending on the availability of 
+Drones
+:
+
+Green
+ indicates she is in an area in which she can place a 
+Drone
+.
+
+Red
+ indicates she is in an area in which she cannot place a 
+Drone
+.
+
+The light is off if she has no more 
+Drones
+ to place.
+
+The right light changes depending on whether she is tracking a Survivor or not.
+
+Yellow
+ indicates that at least one Survivor is being tracked.
+
+The light is off if the 
+Radar
+ is not tracking any Survivors.
+
+Add-ons for Eyes in the Sky
+
+Icon
+
+Name
+
+Description
+
+Adi Valente Issue 1
+
+An original copy of the first issue of 
+Adi Valente
+, the comic her father made while Adriana was a child.
+
+Reduces
+ the Success Zone of 
+Skill Checks
+ for 
+Claw-Trapped Survivors
+ by 
+-20 %
+.
+
+High-Current Upgrade
+
+A wider cable with low resistance that allows faster recharging of batteries.
+
+Increases
+ the Tracking duration of the 
+Radar
+ by 
++1 second
+.
+
+High-Power Floodlight
+
+A sudden and overwhelming light that discombobulates anyone foolish enough to approach.
+
+Claw-Trapped Survivors
+ suffer from the 
+Blindness
+ 
+Status Effect
+.
+
+Ultrasonic Speaker
+
+A high-frequency noise blaster that fills the sonic spectrum with disorienting sounds, making it impossible for observers to pick out more important noises.
+
+Reduces
+ the duration of the immunity to consecutive 
+Scan-Line Hits
+ for Survivors to 
+90 %
+ of its default value.
+
+Adaptive Lighting
+
+The Drone takes account of the surrounding area and casts lights in a bewildering manner that obscures movement.
+
+Increases
+ the duration of the 
+Undetectable
+ 
+Status Effect
+ by 
++20 %
+ to 
+9.6 seconds
+.
+
+Low-Power Mode
+
+By intermittently powering on and off non-vital components, the Drone can stay on for longer.
+
+Reduces
+ the Rotational speed of the 
+Scan Lines
+ of 
+Drones
+ by 
+-100 %
+.
+
+Shotgun Speakers
+
+Capable of directing high-frequency noises in a single direction over great distances, the Drones can focus in on one individual and distract them from danger for some time.
+
+Claw-Trapped Survivors
+ no longer receive a warning sound of impending 
+Skill Checks
+.
+
+Stereo Remote Mic
+
+An upgrade that allows increased three-dimensional audio tracking.
+
+Reduces
+ the duration of the 
+Disabled State
+ of 
+Drones
+ to 
+85 %
+ of its default value.
+
+Supercharge
+
+The batteries may run a little hot, but removing the safety protocols from the cells makes them last a little longer.
+
+Extends
+ the Battery life of 
+Claw Traps
+ by 
++15 %
+.
+
+Brown Noise Generator
+
+An ominous hum disseminates from the Drone, blanketing the soundscape and making it difficult to hear anything else.
+
+Claw-Trapped Survivors
+ suffer from the 
+Oblivious
+ 
+Status Effect
+.
+
+Infrared Upgrade
+
+Heat-detecting cameras focus in on high-stress individuals with pinpoint accuracy.
+
+The 
+Auras
+ of 
+Claw-Trapped Survivors
+ are revealed to you for 
+4 seconds
+ after they remove their 
+Claw-Trap
+.
+
+Loose Screw
+
+A bone-chilling rattling emanates from the Drone, and it seems like it may fall at any moment, distracting Survivors from complicated tasks.
+
+Claw-Trapped Survivors
+ suffer from the 
+Exhausted
+ 
+Status Effect
+ for 
+6 seconds
+.
+
+Powdered Glass
+
+Once used on the strings used for battle kites, this powdered glass took on a much more nefarious purpose on her blade.
+
+Claw-Trapped Survivors
+ suffer from the 
+Haemorrhage
+ and 
+Mangled
+ 
+Status Effects
+ for 
+70 seconds
+, when hit with a 
+Basic Attack
+.
+
+Vital Targeting Processor
+
+An additional process in the Drone's programming more accurately predicts the weaknesses of potential prey.
+
+Increases
+ the strength of the 
+Hindered
+ 
+Status Effect
+ for 
+Claw-Trapped Survivors
+ when detected by 
+Drones
+ by 
+-2 %
+.
+
+Advanced Movement Prediction
+
+Even after they leave the zone of influenced, a refined AI programme predicts with high accuracy where a person will go next.
+
+The 
+Auras
+ of newly 
+Claw-Trapped Survivors
+ are revealed to you for 
+6 seconds
+.
+
+Geographical Readout
+
+The Drones generate and communicate a detailed three-dimensional map of the terrain, making traversal easier.
+
+Increases
+ the Action speeds for breaking 
+Breakable Walls
+ and 
+Pallets
+, damaging 
+Generators
+, and vaulting 
+Windows
+ by 
++20 %
+ for 
+8 seconds
+ after deploying a 
+Drone
+.
+
+Prototype Rotor
+
+The cutting-edge design allows the Drone to move with razor-sharp precision.
+
+Increases
+ the Rotational speed of the 
+Scan Lines
+ of 
+Drones
+ by 
++10 %
+.
+
+Randomised Strobes
+
+Lights flash randomly on the ground, making it harder to find purchase on the uneven terrain.
+
+Extends
+ the duration of the 
+Hindered
+ 
+Status Effect
+ for 
+Claw-Trapped Survivors
+ when detected by 
+Drones
+ by 
++1 second
+.
+
+Expired Batteries
+
+The batteries on these Claw Traps have been swapped out with old alkaline batteries.
+Recharging is not recommended.
+
+All Survivors start the Trial with a 
+Claw Trap
+.
+
+The first 
+Claw Trap
+ has a reduced Battery Life of 
+50 %
+.
+
+The second 
+Claw Trap
+ has a restored Battery Life of 
+100 %
+.
+
+Increases
+ the Battery Life by a stack-able 
++10 %
+ for each successive 
+Claw Trap
+ a Survivor receives, up to a maximum duration of 
+150 %
+.
+
+Iridescent Unpublished Manuscript
+
+"Before he disappeared, Adriana's father had started a newer, darker manga: 
+Sonhadores Sombrios
+."
+
+Whenever any 
+Drone
+ enters its 
+Disabled State
+, you benefit from the following effects:
+
+Grants the 
+Undetectable
+ 
+Status Effect
+ for 
+15 seconds
+.
+
+The disabled 
+Drone
+ emits a 
+Terror Radius
+ of 
+32 metres
+ for 
+15 seconds
+.
+
+"When evil is on the loose, it cannot escape from Adi Valente!" — Quote on the cover of 
+Adi Valente #1
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There are 
+2
+ Achievements related to 
+The Skull Merchant
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Skull Merchant
+
+Playing as The 
+Skull Merchant
+, achieve a 
+Merciless Victory
+ using only her 
+3
+ Unique Perks: 
+THWACK!
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Your prey is terrified by your relentless pursuit."
+
+Start the Trial with 
+3 Tokens
+.
+Whenever you break a 
+Breakable Wall
+ or a dropped 
+Pallet
+, 
+THWACK!
+ consumes 
+-1 Token
+ and applies the following effect:
+
+Causes all Survivors within 
+36 metres
+ of your location to scream and reveal their 
+Aura
+ for 
+4
+/
+5
+/
+6
+ 
+seconds
+.
+
+Whenever you hook a Survivor, 
+THWACK!
+ is granted 
++1 Token
+.
+
+"All those who stood in her path feared her mighty THWACK!" — Sonhadores Sombrios, Issue #3
+
+, 
+Leverage
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Kick your competitors when they're down. Never let them regain lost ground."
+
+Whenever a Survivor performs an 
+Unhook
+ action, they suffer from the following effect for 
+60 seconds
+:
+
+Reduces
+ their Healing speeds by 
+20
+/
+25
+/
+30
+ 
+%
+.
+
+"Good. Now we can move in for the kill." — Adriana Imai
+
+, and 
+Game Afoot
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+This description is based on the changes announced for or featured in the upcoming Patch 10.2.0
+"First you pick your prey, then you pick it apart."
+
+Whenever you hit the Survivor with currently the highest cumulative 
+Chase time
+ with a 
+Basic Attack
+, 
+Game Afoot
+ triggers its primary effect:
+
+Causes the 
+Obsession
+ Status
+ to transfer to that Survivor.
+
+While chasing the 
+Obsession
+, performing the 
+Break or Damage
+ action causes 
+Game Afoot
+ to trigger its secondary effect:
+
+Grants a 
++10 
+ 
+Haste
+ 
+Status Effect
+ for 
+8
+/
+9
+/
+10
+ 
+seconds
+.
+
+You can only be 
+obsessed
+ with one Survivor at a time.
+
+"This one might actually be a challenge..." — Sonhadores Sombrios, Issue #3
+
+.
+
+Thrill of the Chase
+
+Playing as The 
+Skull Merchant
+, down 
+Claw-Trapped Survivors
+ a total of 
+10 times
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Skull Merchant
+:
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+The Skull Merchant
+
+Common
+
+A relentless executive who hunts people for sport in her spare time.
+
+Utilitarian Hunting Gear
+
+Common
+
+She made sure she was prepared for any eventuality during a hunt.
+
+Razor-Sharp Dual Blades
+
+Common
+
+A cruel pair of blades, designed for ripping through human flesh.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Bloody Skull Merchant
+
+Rare
+
+A murderous executive who bathes in the blood of those she deems inferior.
+
+Prestige Level 6 Reward
+
+Machiavellian Hunting Gear
+
+Rare
+
+She made sure she was prepared for the grisly violence of any hunt.
+
+Prestige Level 5 Reward
+
+Foul Dual Blades
+
+Rare
+
+A cruel pair of blades, dull from ripping through human flesh.
+
+Prestige Level 4 Reward
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+A relentless executive who hunts people for sport in her spare time.
+
+Alternatives
+
+DLC
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+DLC
+
+Slipshod Prototype
+
+Common
+
+The earliest prototype of her brutal weapon; while a little rough around the edges, it still tears flesh with maximum efficiency.
+
+CHAPTER 27: Tools of Torment
+
+Event
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Event
+
+Exclusive to Event Participation
+
+Frosty Eyes
+
+Event
+
+Heart chilling eyes of the cold blooded.
+
+"Have an amazing Winter season 2022!" - The Dead by Daylight Team
+
+Bone Chill 2023
+
+Yes
+
+Candy Breaker Blade
+
+Event
+
+Her blade was as sharp as a hard candy that could cut through the roof of your mouth.
+
+Haunted by Daylight 2023
+
+Yes
+
+Skull Merchant's Mask
+
+Event
+
+A mask she found herself wearing at the masquerade ball.
+
+Twisted Masquerade 2024
+
+Yes
+
+ Rift
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Opening Gala
+
+Gold & Silk
+
+Tome 19 - Splendor
+
+10 June 2025 (Tuesday)
+
+Description
+
+When a modern art museum was opened in Fortaleza, she made a rare public appearance.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Golden Hoard
+
+Gold & Silk
+
+27
+
+She couldn't stand the crowd. All she could see were potential targets.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Billionaire Drapery
+
+Gold & Silk
+
+31
+
+Acting on her fantasies would leave a bloody mess. It would have to wait for another night.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Brutal Fortune
+
+Gold & Silk
+
+24
+
+She styled the weapon to match her outfit, but kept it hidden in her limo.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Murky Water
+
+Dark Overgrowth
+
+Rift Pass 1 - Overgrowth
+
+06 May 2025 (Tuesday)
+
+Description
+
+She dressed to blend in with the scene of her next assassination: the lake adjoining the executive's property.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Green Husk
+
+Dark Overgrowth
+
+31
+
+The executive sat in his boat, his line cast into the green water. He remained unaware as she moved through the water, getting closer and closer.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Seaweed Stains
+
+Dark Overgrowth
+
+36
+
+She rose from the water, pulling the executive overboard and pushing his head beneath the surface. He fought as if survival was an option.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Turbid Death
+
+Dark Overgrowth
+
+39
+
+When the struggle became wearisome, she slit the executive's throat. His blood turned the green water a sickening brown.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Dark Hero
+
+Sonhadores Sombrios Collection
+
+Tome 15 - Ascension
+
+19 June 2024 (Wednesday)
+
+Description
+
+One of her favorite outfits from her father's early concepts.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Shark Fin
+
+Sonhadores Sombrios Collection
+
+44
+
+If it emerged from its den, it was already too late.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Executive Terror
+
+Sonhadores Sombrios Collection
+
+1
+
+Like the dark hero of her father's manga, she built her world with blood and violence.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Brutal Claws
+
+Sonhadores Sombrios Collection
+
+70
+
+She took pleasure in ruthlessly piercing human skin and watching the blood splashing.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Dark Hero (Deep Rift)
+
+Deep Rift
+
+Tome 15 - Ascension
+
+12 June 2018 (Tuesday)
+
+Description
+
+One of her favorite outfits she created under the influence of her father's manga.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Shark Fin (Deep Rift)
+
+Deep Rift
+
+84
+
+If it emerged from its den, death was coming shortly.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Executive Terror (Deep Rift)
+
+Deep Rift
+
+74
+
+Like the dark hero from her father's manga, she executed her prey with technology.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Brutal Claws (Deep Rift)
+
+Deep Rift
+
+79
+
+She felt pleasure in disemboweling humans and watching them die slowly.
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Sadistic Executive
+
+The Skull Merchant Aberrations
+
+07 March 2023 (Tuesday)
+
+Description
+
+Her access to vast wealth meant she could have anything. What she wanted was to kill.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Teal Crew Cut
+
+The Skull Merchant Aberrations
+
+The bright colors of her father’s manga stood in stark contrast to its dark subject matter.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Faded Jumpsuit
+
+The Skull Merchant Aberrations
+
+She would mix and match components of her hunting gear to match the climate, weather, or just her mood.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Malevolent Executive
+
+The Skull Merchant Aberrations
+
+07 March 2023 (Tuesday)
+
+Description
+
+Her access to vast wealth meant she could have anything. What she wanted was to kill.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Chartreuse Crew Cut
+
+The Skull Merchant Aberrations
+
+The bright colors of her father’s manga stood in stark contrast to its dark subject matter.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Olive Jumpsuit
+
+The Skull Merchant Aberrations
+
+She would mix and match components of her hunting gear to match the climate, weather, or just her mood.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Bloodthirsty Executive
+
+The Skull Merchant Aberrations
+
+07 March 2023 (Tuesday)
+
+Description
+
+Her access to vast wealth meant she could have anything. What she wanted was to kill.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Amaranth Crew Cut
+
+The Skull Merchant Aberrations
+
+The bright colors of her father’s manga stood in stark contrast to its dark subject matter.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Tanned Jumpsuit
+
+The Skull Merchant Aberrations
+
+She would mix and match components of her hunting gear to match the climate, weather, or just her mood.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Relentless Executive
+
+The Skull Merchant Aberrations
+
+07 March 2023 (Tuesday)
+
+Description
+
+Her access to vast wealth meant she could have anything. What she wanted was to kill.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Golden Crew Cut
+
+The Skull Merchant Aberrations
+
+The bright colors of her father’s manga stood in stark contrast to its dark subject matter.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Vibrant Jumpsuit
+
+The Skull Merchant Aberrations
+
+She would mix and match components of her hunting gear to match the climate, weather, or just her mood.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Violent Stalker
+
+Challenge Seeker Collection
+
+07 March 2023 (Tuesday)
+
+Description
+
+She saw the manga written by her father not as a warning but as a blueprint for what she wanted to become.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Glossy Gas Mask
+
+Challenge Seeker Collection
+
+Her father imagined a world where chemicals and radiation were ever-present. She was prepared.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Urban Hunt
+
+Challenge Seeker Collection
+
+She chose her victims based on their athletic prowess, intelligence, and instincts. She hoped one would be a challenge. None were.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Artery Rupturer
+
+Challenge Seeker Collection
+
+With little effort, these sharpened blades allowed her to drain the blood of her prey in seconds.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Brutal Stalker
+
+Challenge Seeker Collection
+
+07 March 2023 (Tuesday)
+
+Description
+
+She saw the manga written by her father not as a warning but as a blueprint for what she wanted to become.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Polished Gas Mask
+
+Challenge Seeker Collection
+
+Her father imagined a world where chemicals and radiation were ever-present. She was prepared.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Rural Hunt
+
+Challenge Seeker Collection
+
+She chose her victims based on their athletic prowess, intelligence and instincts. She hoped one would be a challenge. None were.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Sinew Slicer
+
+Challenge Seeker Collection
+
+With little effort, these sharpened blades allowed her to drain the blood of her prey in seconds.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Cruel Stalker
+
+Challenge Seeker Collection
+
+07 March 2023 (Tuesday)
+
+Description
+
+She saw the manga written by her father not as a warning but as a blueprint for what she wanted to become.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Shiny Gas Mask
+
+Challenge Seeker Collection
+
+Her father imagined a world where chemicals and radiation were ever-present. She was prepared.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Seaside Hunt
+
+Challenge Seeker Collection
+
+She chose her victims based on their athletic prowess, intelligence and instincts. She hoped one would be a challenge. None were.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Blood Spiller
+
+Challenge Seeker Collection
+
+With little effort, these sharpened blades allowed her to drain the blood of her prey in seconds.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Scarlet Vengeance
+
+Blood Moon
+
+18 March 2024 (Monday)
+
+Description
+
+Blood ran through the streets of Neo De Janeiro, most of it spilled by her.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Executioner's Veil
+
+Blood Moon
+
+The time of law had long since passed. All that remained was a vile form of justice.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Judge's Robes
+
+Blood Moon
+
+Innocence was no longer assumed. Proximity was tantamount to guilt.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Jury’s Verdict
+
+Blood Moon
+
+Her thirst for righteous crusade was slaked only by the corpses strewn in her wake.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Opening Gala
+
+Gold & Silk
+
+Tome 19 - Splendor
+
+10 June 2025 (Tuesday)
+
+Description
+
+When a modern art museum was opened in Fortaleza, she made a rare public appearance.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Golden Hoard
+
+Gold & Silk
+
+27
+
+She couldn't stand the crowd. All she could see were potential targets.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Billionaire Drapery
+
+Gold & Silk
+
+31
+
+Acting on her fantasies would leave a bloody mess. It would have to wait for another night.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Brutal Fortune
+
+Gold & Silk
+
+24
+
+She styled the weapon to match her outfit, but kept it hidden in her limo.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Heart Stopper
+
+Mech Collection
+
+08 August 2023 (Tuesday)
+
+Description
+
+A new outfit to terrorize her victims.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Grin Of Terror
+
+Mech Collection
+
+Her smile was the last thing her prey saw before meeting their end.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Processed Leather
+
+Mech Collection
+
+The dress was crafted using high-quality scraps of fabric.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Mechanical Blade
+
+Mech Collection
+
+A double blade with advanced mechanical features.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Tracking Down
+
+Lunar New Year 2025
+
+28 January 2025 (Tuesday)
+
+Description
+
+She tailed the right-hand man of a prominent CEO in the vibrant chaos of the Lunar New Year celebration.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Grooved Fangs
+
+Lunar New Year 2025
+
+She expertly weaved through the crowd like a snake navigating its territory, lanterns swaying overhead.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Scaled Tunic
+
+Lunar New Year 2025
+
+She gave away her position. It was all part of the plan. She knew he would run down the nearby alleyway.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Striking Blade
+
+Lunar New Year 2025
+
+The alley came to a dead end - they were totally alone. Her target tried offering money, power, anything, with his last words.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Fire Moon CEO
+
+Fire Moon Festival
+
+26 September 2023 (Tuesday)
+
+Description
+
+An outfit inspired by an issue of Sonhadores Sombrios set during the Fire Moon festival.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Horned Gas Mask
+
+Fire Moon Festival
+
+A frightening figure emerged from the dimly lit alley like a walking nightmare.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Warrior Protection
+
+Fire Moon Festival
+
+The distant sounds of celebration blended with the victims' cries.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Moonlit Blade
+
+Fire Moon Festival
+
+The blade gracefully swayed through the air under the moon's glow.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Encroaching Darkness
+
+Sonhadores Sombrios Collection
+
+07 March 2023 (Tuesday)
+
+Description
+
+When her father rebooted his manga, she emerged as a darker, crueler hero in a living nightmare.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Irradiated Hair
+
+Sonhadores Sombrios Collection
+
+A shock of white hair, changed by radiation in a nightmare future.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Carbon Bootprint
+
+Sonhadores Sombrios Collection
+
+A technologically advanced fiber, light and structurally sound.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Hydraulic Blade
+
+Sonhadores Sombrios Collection
+
+A mix of advanced technology and good old-fashioned violence.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+One Goal
+
+Seoul Sights
+
+12 May 2026 (Tuesday)
+
+Description
+
+She wasted no time once her jet touched down in Seoul. This trip was purely for business.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Purple Fangs
+
+Seoul Sights
+
+After a handshake and some signatures, the acquisition was complete. But Adriana's work was far from finished.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Furious Heartbeat
+
+Seoul Sights
+
+She suspected her Korean counterpart would try to usurp her position in the company. He would have to go.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Decisive Blade
+
+Seoul Sights
+
+By the time he was reported missing, Adriana was back in Brazil planning her next move.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Dark Hero
+
+Sonhadores Sombrios Collection
+
+Tome 15 - Ascension
+
+19 June 2024 (Wednesday)
+
+Description
+
+One of her favorite outfits from her father's early concepts.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Shark Fin
+
+Sonhadores Sombrios Collection
+
+44
+
+If it emerged from its den, it was already too late.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Executive Terror
+
+Sonhadores Sombrios Collection
+
+1
+
+Like the dark hero of her father's manga, she built her world with blood and violence.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Brutal Claws
+
+Sonhadores Sombrios Collection
+
+70
+
+She took pleasure in ruthlessly piercing human skin and watching the blood splashing.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Cyber Assassin
+
+Challenge Seeker Collection
+
+18 April 2023 (Tuesday)
+
+Description
+
+She searched for the perfect adversary to hunt.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Spiky Feline
+
+Challenge Seeker Collection
+
+A provocative mask custom-made by an eccentric designer.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Tight Dress
+
+Challenge Seeker Collection
+
+A dress that she wore for galas.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Body Cleaver
+
+Challenge Seeker Collection
+
+A mechanical arm equipped with a circular saw.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Dark Dreamer
+
+Techwear
+
+22 April 2025 (Tuesday)
+
+Description
+
+She watched her target flee the city, driving headlong into the scorched desert outside the crumbling city.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Target Tracker
+
+Techwear
+
+She followed from a distance, waiting for the right moment to detonate the bomb beneath the hood of his car.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Corpo Smartwear
+
+Techwear
+
+She pulled him out of the burning wreckage. Nothing could be left to chance.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Microtoothed Saw
+
+Techwear
+
+The spinning blade cut through his spine with ease. The job was done, and she collected proof that the target was dead.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Candy Breaker Blade
+
+Tricks and Treats
+
+Her blade was as sharp as a hard candy that could cut through the roof of your mouth.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Frozen Dual Blades
+
+Bone Chill
+
+The mountain hunt caused her blades to frost up.
+
+250
+
+Piece
+
+Name
+
+Collection
+
+Skull Merchant's Mask
+
+Twisted Masquerade
+
+A mask she found herself wearing at the masquerade ball.
+
+400
+
+7200
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Skull Merchant
+ is part of 
+2
+ DLCs:
+
+Chapter DLC:
+
+Tools of Torment
+ (
+retired
+)
+
+Pack DLCs:
+
+Endless Hunt Pack
+ (Chapter Pack)
+
+History
+
+Original Power
+
+Inspired by the dark manga created by her father, 
+The Skull Merchant
+ relentlessly hunts her prey using the latest in surveillance technology.
+
+EYES IN THE SKY
+
+The Skull Merchant
+ starts the Trial with 
+4 Drones
+.
+
+For each Survivor trackable by her 
+Radar
+, 
+The Skull Merchant
+ is granted a growing 
+Haste
+ Status Effect
+:
+
+1
+ trackable Survivor equals 
++3 %
+
+2
+ trackable Survivors equal 
++5 %
+
+3
+ trackable Survivors equal 
++6 %
+
+4
+ trackable Survivors equal 
++7 %
+
+This effect is entirely passive and does not require 
+The Skull Merchant
+ to inspect her 
+Radar
+.
+
+SPECIAL ABILITY: DEPLOY DRONE
+
+Press the 
+Power button
+ to deploy a 
+Drone
+.
+
+Active Mode
+:
+
+The deployed 
+Drone
+ automatically enters 
+Active Mode
+ after a short boot-up sequence.
+
+In 
+Active Mode
+, the 
+Drone
+ creates a circular 
+Detection Zone
+ around it and Players inside the 
+Detection Zone
+ experience the following effects:
+
+Survivors: gain 
+Lock On
+ progress.
+
+The Skull Merchant
+: receives the 
+Undetectable
+ Status Effect
+ after 
+2 seconds
+, which lingers for 
+2 seconds
+ after leaving the 
+Detection Zone
+.
+
+If no Survivor is detected within the 
+Detection Zone
+ for a while, the 
+Drone
+ switches into 
+Scouting Mode
+.
+
+Scouting Mode
+:
+
+In 
+Scouting Mode
+, the 
+Drone
+ carries out a sweeping scan of its surroundings by emitting two Laser beams.
+A Survivor crossing the Laser beam or just entering its Area of Effect while having a 
+Claw Trap
+ attached to them immediately causes the 
+Drone
+ to switch back into 
+Active Mode
+.
+
+Survivors can walk up to a 
+Drone
+ while avoiding the Laser beams to attempt 
+Hacking
+ it without being detected.
+
+SPECIAL EFFECT: LOCK ON
+
+While a Survivor is within the 
+Detection Zone
+ of a 
+Drone
+ in 
+Active Mode
+, the 
+Lock On
+ effect builds over the next 
+10 seconds
+, after which a Survivor is fully 
+Locked On
+ and experiences the following effects:
+
+Triggers 
+Killer Instinct
+ while inside the 
+Detection Zone
+.
+
+Suffers from a permanent 
+Exposed
+ Status Effect
+, which lingers for 
+60 seconds
+ after leaving the 
+Detection Zone
+.
+
+A Survivor's 
+Lock On
+ progress is visible to 
+The Skull Merchant
+.
+
+SPECIAL INTERACTION: INSPECTING RADAR
+
+Press and hold the 
+Active Ability button
+ to bring up a 
+Radar
+.
+
+While inspecting the 
+Radar
+, Survivors who are within the 
+Detection Zone
+ of a 
+Drone
+ or those who carry a 
+Claw Trap
+ will have their position revealed to you on the 
+Radar
+ and are represented as one of three symbols depending on their elevation:
+
+■
+ = same elevation
+
+▲ = above you
+
+▼ = below you
+
+SPECIAL INTERACTION: RECALLING DRONES
+
+While inspecting the 
+Radar
+, aim at any 
+Drone
+ and press the 
+Interaction button
+ to recall it into your inventory.
+
+SPECIAL INTERACTION: MANUALLY ACTIVATING DRONES
+
+While inspecting the 
+Radar
+, aim at any 
+Drone
+ in 
+Scouting Mode
+ and press the 
+Attack button
+ to manually activate it, causing it to switch back into 
+Active Mode
+.
+
+SPECIAL INTERACTION: HACKING DRONES
+
+When approaching a 
+Drone
+, a Survivor can attempt to hack the 
+Drone
+ and disable it.
+Hacking a 
+Drone
+ prompts a unique Quick Time Event for the Survivor:
+
+A successful 
+Hack
+ disables the 
+Drone
+ and attaches a 
+Claw Trap
+ to the Survivor.
+
+The disabled 
+Drone
+ will return to 
+The Skull Merchant
+ once its associated 
+Claw Trap
+ has been destroyed.
+
+A failed 
+Hack
+ causes the 
+Drone
+ to enter 
+Active Mode
+ and causes the Survivor to be immediately 
+Locked On
+.
+
+SPECIAL TRAP: CLAW TRAP
+
+The 
+Claw Trap
+ continuously broadcasts its Survivor's position to the 
+Radar
+.
+The 
+Claw Trap
+ has a Battery Life of 
+45 seconds
+, after which it is automatically destroyed.
+
+Walking into the Area of Effect of any 
+Drone
+ while wearing a 
+Claw Trap
+ will cause the 
+Drone
+ to enter an unhackable state.
+If a 
+Drone
+ happens to be in 
+Scouting Mode
+, it will also immediately switch into 
+Active Mode
+.
+
+Vaulting a 
+Pallet
+ while wearing a 
+Claw Trap
+ will cause that 
+Pallet
+ to break, destroying the 
+Claw Trap
+ in the process.
+
+Original Power Trivia
+
+:This section 
+only
+ lists the differences to the current Power Trivia.
+
+HUD:
+
+This referred to the HUD overlay elements shown on the Survivor portraits during a Trial.
+
+Power Aspect
+
+Icon
+
+Meaning
+
+Claw Trap
+ Battery Life
+
+Three 
+yellow
+ dots framing the Survivor's portrait, located roughly at 2, 6, and 10 o'clock
+
+Each dot represented a third of the 
+Claw Trap's
+ total Battery Life, meaning 
+15 seconds
+.
+When 
+15 seconds
+ elapsed, a dot would flash red, then turn dark.
+Once all dots were dark, the Battery Life was depleted and the 
+Claw Trap
+ was destroyed.
+
+Lock On
+ progress
+
+Yellow
+ radar-beam on 
+yellow
+ background
+
+This represented a Survivor's 
+Lock On
+ progress.
+The bar moved clockwise if it was charging up or counter-clockwise when it was discharging.
+
+Locked On
+ state
+
+Orange
+ background
+
+Once a Survivor's 
+Lock On
+ progress had fully charged, they would be 
+Locked On
+, represented by the 
+orange
+ background.
+The background would discharge counter-clockwise until the 
+Exposed
+ 
+Status Effect
+ had elapsed.
+
+Movement Speeds:
+
+Inspecting Radar: 
+4.4 m/s
+
+Drones:
+
+Initialisation duration: 
+3 seconds
+
+This referred to the start-up sequence after placing a 
+Drone
+ before it would enter 
+Active Mode
+.
+
+Placement Restrictions:
+
+Minimum distance from other 
+Drones
+: 
+22 metres
+
+Minimum distance from hooked Survivors: 
+16 metres
+
+Clearance radius around 
+Drone
+: 
+35 centimetres
+
+Minimum height above ground: 
+1.5 metres
+
+Maximum height above ground: 
+2.5 metres
+
+Mode Transition Timers:
+
+Unhackable
+ duration when entering 
+Active Mode
+ automatically: 
+10 seconds
+
+Active Mode
+ to 
+Scouting Mode
+ Maximum Transition time when 
+Hackable
+: 
+20 seconds
+
+Active Mode
+ to 
+Scouting Mode
+ Minimum Transition time when 
+Hackable
+: 
+2 seconds
+
+Transition Timer delay: 
+1 second
+
+This referred to how long the 
+Drones
+ waited after all Survivors had left its Area of Effect before it started transitioning its Mode.
+
+Active Mode
+:
+
+Lock On
+ Charge rate: 
+1 c/s
+
+Lock On
+ Charge rate with attached 
+Claw Trap
+: 
+100 %
+
+Lock On
+ Discharge rate: 
+-0.333 c/s
+
+Lock On
+ Discharge delay: 
+10 seconds
+ after leaving the zone.
+
+Locked On
+ Charge time: 
+10 seconds
+
+Exposed
+ 
+Status Effect
+ duration: 
+60 seconds
+
+It should be noted that a Survivor would remain 
+Locked On
+ for as long as they remained inside the 
+Drone's
+ Area of Effect.
+
+Undetectable
+ 
+Status Effect
+ delay: 
+2 seconds
+
+Undetectable
+ 
+Status Effect
+ Linger duration: 
+2 seconds
+
+Survivor-Detected SFX Cool-down duration: 
+5 seconds
+
+This was a cool-down to prevent spamming the notification SFX.
+
+Scouting Mode
+:
+
+Laser Cone reach: 
+10 metres
+
+This referred to the reach of one laser beam from the centre of the 
+Drone
+, allowing it to cover the same radius as the 
+Detection Zone
+.
+
+A single hit of a laser beam would immediately transition the 
+Drone
+ into 
+Active Mode
+.
+
+Laser Cone Rotation rate: 
+50 °/s
+
+Detection Radius:
+
+Zone radius: 
+10 metres
+
+Zone half-height 
+400 metres
+
+This referred to how far up or down the Z-axis the 
+Drone
+ is able to detect Survivors at if they are within the Zone radius.
+
+Change Log
+
+Patch 6.6.2
+Patch 7.3.0
+Patch 7.3.1
+Patch 7.5.0
+Patch 8.3.0
+Patch 8.3.2
+Patch 8.6.0
+Patch 9.3.0
+Patch 9.3.2
+Patch 9.6.0
+Patch 6.6.2
+
+Rework
+: made a series of changes in order to reduce 
+The Skull Merchant's
+ ability to hold Generator setups while making her more threatening in a Chase.
+
+Buff
+: 
+The Skull Merchant
+ now receives the 
+Haste
+ Status Effect
+ at increasing strength for each Survivor trackable by her 
+Radar
+.
+
+Buff
+: vaulting a 
+Pallet
+ with a 
+Claw Trap
+ attached now causes it to break, destroying the 
+Claw Trap
+ in the process.
+
+This new base-kit ability is a modified version of the original effect of the 
+Ultrasonic Speaker
+ Add-on.
+
+Buff
+: 
+Drones
+ now enter an Unhackable State whenever a Survivor with a 
+Claw Trap
+ is near.
+
+Quality of Life
+: 
+Claw Traps
+ are now automatically destroyed once their Battery Life expires.
+
+Quality of Life
+: 
+Claw Traps
+ no longer have their Battery refilled when a Survivor enters a 
+Drone's
+ Area of Effect.
+
+Nerf
+: 
+Drones
+ now only return to 
+The Skull Merchant
+ once their respective 
+Claw Traps
+ are destroyed, rather than automatically 
+10 seconds
+ after hacking it.
+Patch 7.3.0
+
+Rework
+: extensive rework to 
+The Skull Merchant's
+ Power.
+
+Change
+: overhauled the 
+Drone
+ mechanics to prevent them from being primarily used to defend Generators.
+
+Drones
+ no longer have an 
+Active Zone
+, they now use their Laser Beams to detect moving Survivors and inflict them with 
+Lock On
+.
+
+Active 
+Drones
+ now have two modes: 
+Stealth
+ and 
+Scouting
+, with the former hiding the Laser Beam.
+
+Survivors detected by a 
+Drone
+ will now gain 
++1 Stack
+ of 
+Lock On
+ when crossing a Laser Beam, up to 
+3 Stacks
+, after which the Survivor receives a 
+Claw Trap
+.
+
+Failing to hack a 
+Drone
+ applies 
++1 Stack
+ of 
+Lock On
+.
+
+Healthy Survivors who receive a 
+Claw Trap
+ will enter the 
+Injured State
+.
+Injured Survivors who receive a 
+Claw Trap
+ will suffer from the 
+Deep Wound
+ Status Effect
+ instead.
+
+Claw Traps
+ apply the 
+Broken
+ Status Effect
+ while they are attached.
+
+Survivors that are detected by a 
+Drone
+ will suffer from a 
+10 %
+ 
+Hindered
+ Status Effect
+ for 
+6 seconds
+, and will be revealed by 
+Killer Instinct
+ for 
+3 seconds
+.
+
+Buff
+: using the Scanner no longer reduces Movement speed.
+
+Buff
+: increased the maximum number of 
+Drones
+ from 
+4
+ to 
+6
+.
+
+Buff
+: grants the 
+Undetectable
+ Status Effect
+ for 
+8 seconds
+ when placing a 
+Drone
+.
+
+Buff
+: reduced the minimum distance between 
+Drones
+ from 
+22 metres
+ to 
+16 metres
+.
+
+Buff
+: 
+Drones
+ can now be placed above and below other 
+Drones
+ when on different floors.
+
+Buff
+: reduced the activation time of 
+Drones
+ from 
+1.5 seconds
+ to 
+0.3 seconds
+.
+
+Nerf
+: 
+Drones
+ no longer detect Survivors through walls or floors of multi-level maps.
+
+Nerf
+: 
+Drones
+ can no longer be manually reactivated.
+
+Nerf
+: vaulting a Pallet with a 
+Claw Trap
+ attached no longer causes the Pallet to break.
+
+Nerf
+: hacking a 
+Drone
+ will now disable it for 
+45 seconds
+ instead of applying a 
+Claw Trap
+.
+
+Buff
+: reduced footstep audio to make 
+The Skull Merchant
+ harder to track.
+
+Buff
+: added the ability for 
+The Skull Merchant
+ to change the rotation of a 
+Drone's
+ Laser Beam using the 
+Radar
+.
+
+Change
+: when a 
+Drone
+ is deployed, its Laser Beams will spawn perpendicular to 
+The Skull Merchant
+ view, allowing her to possible get an immediate scan on a Survivor in front of her.
+
+Quality of Life
+: removed the Cool-down for recalling a 
+Drone
+ and made the option available at any time, regardless of whether 
+Eyes in the Sky
+ is on cool-down otherwise or not.
+
+Change
+: updated 
+The Skull Merchant's
+ Chase Music.
+
+Change
+: received an Add-on pass, tweaking and reworking several Add-ons.
+Patch 7.3.1
+
+Quality of Life
+: added unique prompts to differentiate which direction a 
+Drone
+ will rotate in.
+Patch 7.5.0
+
+Quality of Life
+: the Laser Cones emitted by 
+Drones
+ now lighter in appearance and colour when it cannot detect you as a Survivor.
+Patch 8.3.0
+
+Buff
+: 
+The Skull Merchant
+ now gains a 
++5 %
+ 
+Haste
+ Status Effect
+ if a Survivor is scanned by a 
+Drone
+ within 
+5 seconds
+ of placing it or changing its rotation.
+
+Buff
+: increased the Rotation speed from 
+85°/s
+ to 
+95°/s
+.
+
+Buff
+: reduced the duration a Survivor is immune to being scanned in succession from 
+3 seconds
+ to 
+2.5 seconds
+.
+
+Nerf
+: reduced the strength of the 
+Hindered
+ Status Effect
+ when scanning a 
+Claw-Trapped
+ Survivor from 
+-10 %
+ to 
+-8 %
+.
+
+Nerf
+: now suffers from a penalty to her Movement speed when deploying a 
+Drone
+ or while inspecting the 
+Radar
+, reducing it to 
+4.4 m/s
+.
+
+Nerf
+: reduced the number of 
+Scan Lines
+ from 
+2
+ to 
+1
+.
+
+Nerf
+: removed the 
+Stealth Mode
+, 
+Drones
+ are now always in 
+Scouting Mode
+ and active.
+
+Nerf
+: Survivors who are fast-vaulting can no longer be detected by 
+Drones
+.
+
+Nerf
+: 
+The Skull Merchant
+ no longer gains 
+Haste
+ from Survivors having a 
+Claw Trap
+.
+
+Change
+: 
+Scan Lines
+ are now only visible within 
+16 metres
+.
+
+This change is mixed, since it affects both Survivors and 
+The Skull Merchant
+, acting as a buff and a nerf towards her ability simultaneously.
+Patch 8.3.2
+
+Partial Reversal
+: removed the Movement Speed penalty for inspecting the 
+Radar
+.
+
+Partial Reversal
+: 
+Scan Lines
+ are again visible to 
+The Skull Merchant
+ at all times, regardless of her distance.
+
+Buff
+: while inspecting the 
+Radar
+, the Auras of 
+Scan Lines
+ are now revealed to 
+The Skull Merchant
+ within 
+32 metres
+ of the 
+Drone(s)
+.
+Patch 8.6.0
+
+Buff
+: reduced the 
+Terror Radius
+ from 
+32 metres
+ to 
+24 metres
+.
+Patch 9.3.0
+
+Buff
+: Increased the Rotation speed from 
+95 °/s
+ to 
+105 °/s
+.
+
+Buff
+: Increased the strength of the 
+Hindered
+ Status Effect
+ applied to scanned Survivors from 
+8 %
+ to 
+10 %
+.
+
+Buff
+: Reduced the Cool-down time to deploying 
+Drones
+ from 
+10 seconds
+ to 
+7 seconds
+.
+
+Buff
+: 
+Rushed Vault
+ actions no longer grant Survivors immunity from being detected by 
+Scan Lines
+.
+
+Quality of Life
+: 
+Drones
+ now only rise when colliding directly with 
+The Skull Merchant
+.
+
+Nerf
+: Reduced the duration of the 
+Undetectable
+ Status Effect
+ granted after deploying 
+Drones
+ from 
+8 seconds
+ to 
+6 seconds
+.
+
+Nerf
+: Survivors underneath a 
+Drone
+ are no longer instantly 
+Locked On
+, but rather accumulate 
+Lock On
+ every 
+2.5 seconds
+ now.
+Patch 9.3.2
+
+Reversal
+: Increased the duration of the 
+Undetectable
+ Status Effect
+ granted after deploying 
+Drones
+ from 
+6 seconds
+ to 
+8 seconds
+.
+
+Change
+: Decoupled the 
+Undetectable
+ Status Effect
+ status effect from Deploying 
+Drones
+ to instead Gain 
+Undetectable
+ Status Effect
+ when Recalling 
+Drones
+ instead.
+Patch 9.6.0
+
+Quality of Life
+: Added support to multiple Power icons.
+
+Quality of Life
+: New Power Icons mapped to Deploy Drone, Rotate and Recall actions.
+
+Trivia
+
+General
+
+The Skull Merchant
+ came without her own Realm, instead setting up her hunting camp on 
+Shelter Woods
+ in The MacMillan Estate.
+
+The Skull Merchant
+ is one of the most normal-looking Killers in 
+Dead by Daylight
+, with no initially visible physical alterations to her.
+
+The Skull Merchant
+ is one of the richest Characters in 
+Dead by Daylight
+.
+
+The Skull Merchant
+ met her Survivor-counterparts before joining the Realm, having injured 
+Renato
+ before being taken by The Entity.
+
+During the 6.6.0 PTB, Survivors could see an eye icon above them when 
+The Skull Merchant
+ tracked them with her 
+Radar
+.
+
+This feature was ultimately not implemented for balancing concerns.
+
+The Skull Merchant
+ was one of the first Killers to explore futuristic concepts, and her initials (
+A
+driana 
+I
+mai) are a nod to Artificial Intelligence.
+
+Cosmetics
+
+Dia das Bruxas
+ is named after the Brazilian Portuguese term for Halloween, which literally translates to 
+Day of the Witches
+.
+
+Lore
+
+The Character's name references a Character from one of her father 
+Seita's
+ Dark Mangas.
+
+The Skull Merchant
+ based both her appearance and her 
+Drones
+ on the Character, hence why she also used that name for herself in-game.
+
+Sonhadores Sombrios
+ translates to 
+Grim Dreamers
+, referencing the inspiration drawn from Seita's nightmares.
+
+The Skull Merchant's
+ parents were named 
+Seita Imai
+ and 
+Belinda Imai
+.
+
+As a Nikkei (日系 or a person of Japanese descent), 
+The Skull Merchant's
+ heritage is rooted in real-world history. Brazil currently holds the largest Japanese population outside of Japan, with an estimated 2.5 million people of Japanese ancestry residing in the country.
+
+Model
+
+The Skull Merchant
+ always has a slight smile on her face, although her face is generally covered with a Mask, hiding her smile.
+
+However, some Cosmetics reveal the lower part of her face.
+
+Weapon
+
+The Skull Merchant
+ is the second Killer who can change their attacking animations with different Weapons.
+
+The following Weapons provide her with unique animations for attacking and the ensuing cool-down, as well as unique sounds.
+
+Meat Cleaver
+
+Hydraulic Blade
+
+Jury's Verdict
+
+Gallery
+
+In-game Assets
+
+The Skull Merchant
+
+The Skull Merchant (Portrait render)
+
+The Skull Merchant (Background image)
+
+Old Assets
+
+The Skull Merchant (Old Portrait render)
+
+Model
+
+The Skull Merchant without a Mask
+
+Outfits
+
+Scarlet Vengeance Outfit
+
+One Goal Outfit
+
+Concept Art
+
+Default Concept Art
+
+Default Concept Art #2
+
+Weapon Concept Art
+
+'Encroaching Darkness' Concept Art
+
+'Cyber Assassin' Concept Art
+
+'Fire Moon CEO' Concept Art
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

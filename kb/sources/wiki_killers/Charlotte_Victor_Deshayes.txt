@@ -1,0 +1,3806 @@
+# Charlotte & Victor Deshayes
+Source: https://deadbydaylight.wiki.gg/wiki/Charlotte_&_Victor_Deshayes (page complète via API, consultée le 27/09/2026)
+
+The Twins
+
+Name
+
+Charlotte & Victor Deshayes
+
+Game Alias(es)
+
+"The Siblings"
+
+Gender
+
+Woman (Charlotte)
+Man (Victor)
+
+Origin
+
+French
+
+Power
+
+Blood Bond
+
+Power 
+Attack
+ Type
+
+Special Attack
+
+(Pounce)
+
+Weapon
+
+Blade of Marseille
+
+Movement Speed
+
+115 % 
+|
+ 4.6 m/s (Charlotte)
+
+Alternate Movement speed
+
+150 % 
+|
+ 6 m/s
+(Victor)
+
+Terror Radius
+
+32 metres
+
+Lullaby
+ Radius
+
+12 metres (Victor's Shrieks - idle)
+
+14 metres (attached)
+
+18 metres (controlled)
+
+Height 
+
+Tall
+
+DLC
+
+A Binding of Kin
+
+Voice Actor
+
+Charlotte: Catherine Gauthier
+
+Victor: Jean-Baptiste Garnier
+
+(both BHVR)
+
+Cost
+
+4,500 
+Iridescent Shards
+
+250 
+Auric Cells
+
+Breathing
+
+Alternate Breathing
+
+Menu Music
+
+Terror Radius Music
+
+Lullabies
+
+Metadata
+
+CharID
+
+K22
+
+Charlotte & Victor Deshayes
+ or 
+"The Twins"
+ are one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+They were introduced as the Killer of 
+A Binding of Kin
+, a Chapter DLC released on 1 December 2020 and retired on 8 January 2024.
+
+They are still available in the 
+In-Game Store
+ and as part of the 
+Macabre Tales Pack
+ Chapter Pack DLC.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+2.1
+ 
+The Archives
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: Blade of Marseille
+
+3.3
+ 
+Power: Blood Bond
+
+3.3.1
+ 
+Power Trivia
+
+3.3.2
+ 
+Victor Trivia
+
+3.4
+ 
+Add-ons for Blood Bond
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Base Cosmetics
+
+5.1.1
+ 
+Default
+
+5.1.2
+ 
+Prestige
+
+5.1.2.1
+ 
+Perk Charms
+
+5.1.2.2
+ 
+Prestige Badges
+
+5.2
+ 
+Alternatives
+
+5.2.1
+ 
+Special
+
+5.2.2
+ 
+Event
+
+5.3
+ 
+Rift
+
+5.4
+ 
+In-Game Store
+
+5.5
+ 
+Alternate Character Models
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+General
+
+8.2
+ 
+Lore
+
+8.3
+ 
+Name
+
+8.4
+ 
+Voice Actor
+
+9
+ 
+Gallery
+
+9.1
+ 
+In-game Assets
+
+9.2
+ 
+Official Art
+
+9.3
+ 
+Old Assets
+
+9.4
+ 
+Concept Art
+
+Overview
+
+Charlotte Deshayes can unleash her conjoined twin brother Victor, falling dormant until he’s finished hunting. Victor moves at high speeds and strikes with a pounce attack that debilitates and injures. Down Survivors with Victor and hook them with Charlotte, an oppressive tandem that can quickly disrupt even the best-laid plans.
+
+The Twins
+ are a cooperative pair of Killers, able to divide and hunt together using their Power, 
+Blood Bond
+.
+
+Their personal Perks, 
+Hoarder
+, 
+Oppression
+, and 
+Coup de Grâce
+, allow them to monitor Survivors' actions, impede their progress, and hunt more effectively.
+
+Lore
+
+A pair of conjoined twins, Charlotte and Victor Deshayes formed an emotional bond like none other. The unlikeliness of their successful birth in the 17th century could be described as miraculous, yet it immediately brought about their life of persecution. The twins emerged with Victor's lower body affixed into the chest of his sister, legs twisted around her muscles and organs. He was smaller than Charlotte, grown as if he were an appendage of her body rather than a fully formed boy. As the new-borns screeched, so too did the midwife who delivered them, running from the home, yelling of a demon birthed by a witch. So began the hunting of Charlotte, Victor, and their mother Madeleine.
+
+The coming years were fleeting memories for the twins, yet they were the closest thing to a normal life they would know. The journey with their mother was what they believed all children underwent, the games of running and hiding through France's countryside being an ordinary occurrence. At the age of five, a new challenge to the game was presented as their mother fell ill. Pale and exhausted, Madeleine had no choice, but to pass responsibility of collecting food onto Charlotte. The girl, burdened under extra clothing that concealed Victor's protruding body, set out from their forest tent and marched to the nearby town. Though a peculiar sight, she did what she had been trained for, waiting for an opening at the market and swiping whatever food she could. It was a victory in the game, but one short-lived.
+
+After midnight, glowing flames surrounded the family's encampment, bobbing through the darkness. A single commanding shout broke the night's silence and a mob of witch hunters streamed in. Grubby hands tore the twins from their bed, Charlotte frantically kicking all who approached. Madeleine cried for her children, her voice abruptly silenced by a club to her skull. Victor shrieked, the wailing of a trapped rat.
+
+The hunters coordinated quickly. A judge on-hand declared Madeleine guilty of witchcraft, evidenced by her demon spawn. Within minutes, they shackled her unconscious body to a tree, surrounding her feet with dry twigs and moss. As she awoke, she did not struggle, only begged her children to turn away. They would be given no choice. The twins were forced to watch as the torch was lit, and they watched as flames leapt up their mother's skirt, charring and sizzling her flesh. They watched as fat dripped from her body, and her face bubbled and twisted. They watched until the screams that tore her vocal cords were no more, and all that was left was the crackling of embers and a nauseating stench.
+
+Whatever joy and goodness were in them died with their mother. Caged and transported to an old wooden temple, they were sold to a secretive group clad in dark cloaks. Victor reacted with the ferocity of a rabid beast at any who approached, clawing and biting. The only solace that could calm him was the embrace of his sister. Charlotte, bitter and hateful to all but her brother, found purpose in being his protector.
+
+Within the temple, they were exposed to unusual experiments — some cruel, many simply baffling. One day they would be made to break the neck of a small grey bird. The next, they would bleed their fingers into a vase of roses. Every seventh day, they would sleep with the branch of a damp oak beneath their pillow. Then there was the chanting: a never-ending chorus from cloaked figures on scheduled intervals.
+
+In time, a final experiment was planned. Two robed figures herded the twins to the centre of the temple, holding Charlotte upon an altar in a room lit with candelabras. The wrinkled face of a man peered from under his hood, placing a hand on the forehead of each twin, making careful examination of their skulls. Memento mori, he uttered, as he withdrew a shining blade.
+
+Charlotte rolled to her side, shifting her brother off the altar. With a screech, he stretched his arm as far as he could, knocking a candelabra to the ground. The flames took to the dry wood immediately. They swept over the floor, igniting the black robes that brushed against it. Screams of agony pierced the chaos, invigorating Charlotte. She dashed through the inferno, vision concealed with nothing, but black smoke and blazing flame. A painful heaviness filled her lungs. No exit could be found, every step leading to overwhelming heat. She fell to her knees, suffocating, and then saw it — sunlight, trees. She stumbled from the fire into dewy grass. Without looking back, she ran into the forest until she collapsed.
+
+When Charlotte opened her eyes, she reached for Victor's hand. He made no attempt to budge. His body hung helplessly from her torso. She clasped his face, stared into his sad, still eyes. The movements she was accustomed to — his body pulling at her skin, his legs prodding at the cavity in her chest — were no more. Victor was dead.
+
+Charlotte had no choice, but to continue moving as she mourned, fearing black cloaks and witch hunters were prowling. She concealed her brother's corpse under her clothing and marched for the sewers of a nearby city. There, she set up camp, emerging often to steal whatever food she could, resorting to raiding barns for pig slop when desperation set in. Throughout the years, Victor's corpse rotted as his limbs oozed and blackened, yet his body demonstrated resistance to complete decomposition, as if his sister's blood still coursed through him. Protecting his lifeless body became Charlotte's sole reason for being, refusing to ever be separated from the only family she had left.
+
+Life into her teenage years was a game of survival. Her hatred for humanity grew each day under the realisation they would never leave her be. No matter how many died during her botched robberies and desperate attempts to escape, there would always be more to pursue and sling words of condemnation at her — monster, demon, witch. And it was the black cloaks who were the worst of them. Their hunt for her was unending, forcing her to constantly abandon shelter and run.
+
+For years, Charlotte fled, drawing blood out of necessity, cradling her long-dead brother in the night. During a frigid winter, her body began to break down. Food was scarce and the refuge of rickety shacks were no use against freezing temperatures. Sickle in hand, she sheltered near her campfire in the woods, not knowing if the black cloaks would take her before the cold did. As frost crystallised around her nostrils and her lips took on a gentle blue hue, Charlotte felt something she had never experienced: acceptance. She closed her eyes, opening herself to the serenity of death when — a shriek, shrill and vicious pierced her ears. Victor spasmed and flailed from her chest, a cloud of fog encompassing him. Before she could react, he spilled from her in a bloody puddle, landing on the snow and running.
+
+Pulling herself from the edge of death, she gave chase. Calling his name, she ran through the forest until her legs could hardly carry her, until finally, within her view, was Victor, sitting at the edge of a thick fog. His face, twisted and feral, screamed as a dark hooded figure emerged from the fog, grabbed his arm, and seized him. The serenity that had crept into Charlotte was extinguished, replaced with the seething hatred and rage she had depended on for so long. With a tight grip on her sickle, she charged into the fog, prepared to eviscerate any who set foot near her brother.
+
+The Archives
+
+The table below lists additional Lore about 
+The Twins
+ from 
+The Archives
+, either from 
+Tomes
+ that featured them or from individual Lore entries that mentioned them:
+
+Tome
+
+Entry
+
+Type
+
+Tome 11 - Devotion
+
+Side By Side Forever
+
+Featured Characters
+
+Load-out
+
+Unique Perks
+
+The Twins
+ come with 
+3
+ 
+Perks
+ that are unique to them:
+
+ 
+
+Coup de Grâce
+
+As the end nears, you go in for the kill.
+
+Whenever a 
+Generator
+ is completed, 
+Coup de Grâce
+ gains 
++2 Tokens
+, up to a maximum of 
+10 Tokens
+ per Trial:
+
+Increases
+ the range of your next 
+Lunge Attack
+ by 
+70
+/
+75
+/
+80
+ 
+%
+, while consuming 
+-1 Token
+.
+
+Coup de Grâce
+ can only hold a maximum of 
+5 Tokens
+ at a time.
+
+ 
+
+Hoarder
+
+You protect what little you have and are perceptive to those rummaging through your stockpiles.
+
+Hoarder
+ triggers a 
+Loud Noise Notification
+ for 
+4 seconds
+, whenever a Survivor performs any of the following actions within 
+32
+/
+48
+/
+64
+ 
+metres
+ of your location:
+
+Unlocks a 
+Chest
+.
+
+Picks up any 
+Item
+.
+
+Hoarder
+ spawns 
+2 additional Chests
+ in the Trial.
+
+ 
+
+Oppression
+
+"Life has been difficult for you, so you will make it difficult for others."
+
+Performing the 
+Damage Generator
+ action on a 
+Generator
+ triggers the following effects:
+
+Randomly selects up to 
+4
+ additional 
+Generators
+ that will also start regressing.
+
+Triggers a difficult 
+Skill Check
+ for all Survivors currently repairing them.
+
+Oppression
+ has a cool-down of 
+45
+/
+40
+/
+35
+ 
+seconds
+.
+
+"Damn them as they would damn us." — Charlotte Deshayes
+
+Prestige
+
+Prestiging 
+The Twins
+ will automatically add 
+Tier I
+ of their Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Twins
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: Blade of Marseille
+
+The 
+Blade of Marseille
+ is the Primary Weapon of 
+The Twins
+.
+Tales warned of a demon who skulked the gutters of Marseille with a shimmering blade in hand.
+In reality, it was a battered sickle Charlotte stole from a farmer's home and modified to her liking.
+
+Power: Blood Bond
+
+"Though forever bound through blood and trauma, The Twins have been granted the power to separate from their shared body.
+Together they hunt as brother and sister, doubling the threat to Survivors."
+SPECIAL ABILITY: BLOOD BOND
+Their shared bond allows 
+The Twins
+ to take control individually.
+
+The Twins
+ see the other sibling's 
+Aura
+ at all times.
+SPECIAL INTERACTION: UNBIND VICTOR
+Press the 
+Power button
+ while controlling 
+Charlotte
+ to unbind 
+Victor
+ from her chest, granting him control while she enters a 
+Dormant State
+.
+SPECIAL STATE: DORMANT
+While in the 
+Dormant State
+, 
+Charlotte
+ experiences the following effects:
+
+Suppresses
+ her 
+Terror Radius
+ and the 
+Red Stain
+.
+
+Allows her to temporarily retain her collision with Survivors for 
+30 seconds
+.
+
+SPECIAL INTERACTION: SWITCH SIBLING
+Press the 
+Secondary Power button
+ to switch control between 
+Charlotte
+ and 
+Victor
+ at will.
+SPECIAL ABILITY: VICTOR
+Victor
+ experiences the following effects while controlling him:
+
+Hides
+ the Status HUD and disables all active effects from 
+Charlotte's
+ 
+Perks
+ and 
+Add-ons
+.
+
+Suppresses
+ the ability to see 
+Scratch Marks
+.
+
+Increases
+ his Movement speed to 
+6 m/s
+.
+
+Pools of Blood
+ appear to him in 
+bright red
+.
+
+Grants the ability to search 
+Lockers
+ for Survivors.
+
+If he finds one, control will automatically revert to 
+Charlotte
+ while 
+Victor
+ keeps the hiding Survivor trapped inside for 
+10 seconds
+.
+
+When controlling 
+Charlotte
+ while 
+Victor
+ is unbound, she benefits from the following effect:
+
+Survivors walking or running inside 
+Victor's
+ 
+Shriek
+ range trigger 
+Killer Instinct
+.
+
+This effect lingers for 
+1.5 seconds
+ after leaving the 
+Shriek
+ range.
+
+Crouching avoids triggering the effect altogether.
+
+SPECIAL ABILITY: POUNCE
+Press and hold the 
+Power button
+ while controlling 
+Victor
+ to charge a 
+Pounce
+.
+Press the 
+Attack button
+ to unleash it, causing him to leap forwards
+.
+
+Hitting Survivors with a 
+Pounce
+ causes the following effects:
+
+Victor
+ latches onto healthy Survivors, causing control to automatically revert to 
+Charlotte
+.
+
+This puts them into the 
+Injured State
+.
+
+Victor
+ downs already injured Survivors, instead of latching on, causing control to remain with him.
+
+Missing a 
+Pounce
+ leaves 
+Victor
+ vulnerable for 
+3 seconds
+, giving nearby Survivors a chance to 
+Crush
+ him.
+
+Pouncing
+ onto obstacles taller than himself causes 
+Victor
+ to automatically dissolve and return to 
+Charlotte
+.
+SPECIAL INTERACTION: LATCHING ON
+The Survivor 
+Victor
+ has latched himself onto suffers permanently from the following effects until they either manage to remove him or they are downed by 
+Charlotte
+:
+
+Suffers from the 
+Broken
+, 
+Incapacitated
+,  and 
+Oblivious
+ 
+Status Effects
+.
+
+Suppresses
+ their ability to enter 
+Lockers
+.
+
+Suppresses
+ their ability to leave through the 
+Exit Gates
+.
+
+This effect lingers for 
+5 seconds
+ after removing 
+Victor
+.
+
+Triggers 
+Killer Instinct
+ on other nearby Survivors.
+
+SPECIAL INTERACTION: REMOVING / CRUSHING VICTOR
+Survivors can counter 
+Victor
+ in two ways: 
+Crushing
+ or 
+Removing
+:
+
+Crushing
+ is available whenever 
+Victor
+ is idling and control is with 
+Charlotte
+, or for a short duration after a 
+Pounce
+ without him latching on, and takes 
+0.35 seconds
+ to complete.
+
+Removing
+ is available whenever 
+Victor
+ is latched onto a Survivor and takes 
+8 seconds
+ to complete.
+
+SPECIAL INTERACTION: RECALLING VICTOR
+Victor
+ will automatically return to 
+Charlotte
+ after idling for 
+90 seconds
+.
+Charlotte
+ can recall him earlier whenever she desires.
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Walking as 
+Victor
+ with a charged 
+Pounce
+: 
+2.4 m/s
+
+Walking as 
+Charlotte
+: 
+4.6 m/s
+
+Walking as 
+Victor
+: 
+6.0 m/s
+
+Charlotte:
+
+Killer Instinct
+ Linger duration: 
+1.5 seconds
+
+This applies when a Survivor leaves 
+Victor's
+ 
+Shriek
+ range or attached to a Survivor.
+
+Collision-Retention timer after becoming 
+Dormant
+: 
+30 seconds
+
+After this timer elapses, Survivors can pass freely through 
+Charlotte
+.
+
+Victor:
+
+Gate Blocker Linger duration: 
+5 seconds
+
+Unbinding time: 
+0.75 seconds
+
+Pounce
+ Cancellation cool-down: 
+0.25 seconds
+
+Pounce
+ Charge time: 
+0.85 seconds
+
+Inspecting empty 
+Lockers
+: 
+3 seconds
+
+Inspecting occupied 
+Lockers
+: 
+2 seconds
+
+Aura Linger duration after attaching to a Survivor: 
+5 seconds
+
+Landing height: 
+80 centimetres max
+
+If 
+Victor
+ lands on a Prop or obstacle that is taller than this threshold, he will automatically be destroyed.
+
+Crush Interaction duration: 
+0.35 seconds
+
+Remove/Push Interaction duration: 
+10 seconds
+
+The latter applies to when 
+Victor
+ holds a Survivor hostage in a 
+Locker
+.
+
+Attack Cool-downs:
+
+Successful 
+Pounce
+ with latching on: 
+1 seconds
+
+Successful 
+Pounce
+ without latching on: 
+3.2 seconds
+
+Missed or obstructed 
+Pounce
+: 
+3 seconds
+
+Auto-Recalls:
+
+When 
+Victor
+ is idling: 
+90 seconds
+
+Regrow time in this scenario: 
+15 seconds
+
+When 
+Victor
+ is attached: 
+20 seconds
+
+Regrow time in this scenario: 
+10 seconds
+
+Voluntary Recalls:
+
+Voluntary Recalls, unless 
+Victor
+ is idling, do not immediately become available to 
+Charlotte
+:
+
+After 
+Charlotte
+ leaves the 
+Dormant State
+: 
+10 seconds
+
+If 
+Victor
+ is latched onto a 
+Locker
+: 
+5 seconds
+
+If 
+Victor
+ is latched onto a 
+Survivor
+: 
+30 seconds
+
+If 
+Victor
+ is idling: 
+no minimum; can be recalled at any time
+
+Involuntary Recalls:
+
+When 
+Victor
+ is crushed during a missed pounce
+
+Regrow time in this scenario: 
+20 seconds
+
+When 
+Victor
+ is crushed while idling
+
+Regrow time in this scenario: 
+-
+
+Switching Siblings:
+
+From 
+Charlotte
+ to 
+Victor
+: 
+0.25 seconds
+
+From 
+Victor
+ to 
+Charlotte
+: 
+1.5 seconds
+
+Radius restrictions:
+
+within 
+4 metres
+ of 
+Exit Gates
+
+within 
+6 metres
+ of the 
+Hatch
+
+within 
+16 metres
+ of 
+Hooks
+
+Victor Trivia
+
+From a technical POV, 
+Victor
+ is 
+Charlotte's
+ Power and not actually a second Killer-entity, effectively acting as a remote-controlled 
+Special Attack
+.
+This behaviour has several implications for his interactions (or lack thereof) with Perks and their effects:
+
+When controlling 
+Victor
+, 
+Perks
+ which require a direct or indirect interaction with the Killer do 
+not
+ work on, against, or with 
+Victor
+.
+
+This restriction includes Aura-reading Perks and those that detect the Killer's presence, since they cannot detect a Power (i.e. 
+Spine Chill
+).
+
+Perks that have a 
+Special Attack
+ condition may still be used, despite not being visible when controlling 
+Victor
+ (i.e. 
+Hex: The Third Seal
+).
+
+When controlling 
+Victor
+, all of 
+Charlotte's
+ Perks, as well as the HUD, are hidden and any Perk Effects which require actively controlling 
+Charlotte
+ will deactivate.
+
+This restriction does 
+not
+ apply to passive Perk Effects, which merely rely on 
+Charlotte's
+ presence on the Map (i.e. 
+Cruel Limits
+ blocking Vault locations).
+
+Add-ons for Blood Bond
+
+Icon
+
+Name
+
+Description
+
+Cat Figurine
+
+A wooden figure that had caught young Victor's eye.
+He shrieked until his mother stole it from the market, nearly blowing their cover.
+
+Unlocks the ability to see the Target location of a 
+Pounce
+.
+
+Soured Milk
+
+A metal bottle filled with milk that has since soured.
+Loud as Victor could be, he quieted down when presented with his meal.
+
+Increases
+ the 
+Shriek
+ radius of 
+Victor
+ by 
++2 metres
+.
+
+Tiny Fingernail
+
+Charlotte had many ways to mourn Victor's death.
+As the fingernails loosened from his rotting hands, she took one in remembrance.
+
+Reduces
+ the Unbinding time of 
+Victor
+ by 
+-0.25 seconds
+.
+
+Toy Sword
+
+A minuscule toy sword, only a few inches long.
+Holding it brought out a violent enthusiasm in Victor.
+
+Reduces
+ the Charge time of a 
+Pounce
+ by 
+-0.1 second
+.
+
+Baby Teeth
+
+Two teeth that Victor lost long ago.
+They are unusually sharp.
+
+Survivors suffer from the 
+Blindness
+ 
+Status Effect
+ for 
+30 seconds
+ after removing 
+Victor
+.
+
+Bloody Black Hood
+
+A hood from one of the men that hunted Charlotte.
+Soon, he became the prey.
+
+Reduces
+ the Transition time when switching back to 
+Charlotte
+ by 
+-0.5 seconds
+.
+
+Cat's Eye
+
+An eyeball that belonged to a cat eaten by the starving Deshayes family.
+Victor hid it from his mother, using it as a toy.
+
+Suppresses
+ all noise made by 
+Victor
+ while holding a 
+Pounce
+.
+
+Ceremonial Candelabrum
+
+The candelabrum that Victor tipped over, causing his captors to burn.
+A symbol of his tenacity.
+
+Increases
+ the Crushing time of 
+Victor
+ by 
++0.2 seconds
+ when controlling 
+Charlotte
+.
+
+Madeleine's Glove
+
+A glove once owned by The Twins' mother.
+During desperate times, it was held over Victor's mouth to keep him from making a peep.
+
+Increases
+ the 
+Shriek
+ radius of 
+Victor
+ by 
++4 metres
+.
+
+Madeleine's Scarf
+
+A cloth Madeleine wore shortly before her death.
+The Twins kept it as a memento.
+
+Increases
+ your Movement speed when controlling 
+Victor
+ by 
++0.3 m/s
+.
+
+"...shall hereby be recorded as a service to the greater good and the extermination of evil." — Inquiry into the Death of Madeleine Deshayes
+
+Rusted Needle
+
+A needle Madeleine used to sew up her children's tattered clothes.
+
+Removing a latched-on 
+Victor
+ causes the Survivor to suffer from the 
+Haemorrhage
+ 
+Status Effect
+ until fully healed.
+
+Sewer Sludge
+
+A disgusting, sticky mixture that covered the Deshayes during an escape attempt through the city sewers.
+
+Increases
+ the time required to remove a latched-on 
+Victor
+ by 
++2 seconds
+.
+
+Stale Biscuit
+
+A hard, unleavened biscuit that Madeleine stole from a town's market.
+It was not much, but it was better than most meals.
+
+Reduces
+ the Cool-down time of a 
+Pounce
+ by 
+-0.4 seconds
+.
+
+Weighty Rattle
+
+A shoddily carved rattle that Victor cried over until his mother stole it for him.
+It is entirely too heavy to be trusted to a child.
+
+Removing a latched-on 
+Victor
+ causes the Survivor to suffer from the 
+Broken
+ 
+Status Effect
+ for 
+20 seconds
+.
+
+Drop of Perfume
+
+One of the few luxuries Madeleine escaped her past life with.
+It has a pleasant, disarming scent.
+
+Survivors suffer from the 
+Oblivious
+ 
+Status Effect
+ within 
+Victor's
+ 
+Shriek
+ range when controlling 
+Charlotte
+.
+
+"Beware the deceit of witches, for they exploit the goodness in men's hearts." — A History of Witches and Demons, 1602
+
+Forest Stew
+
+A stew of foraged vegetables mixed with moss and bark to create a false sense of fullness.
+
+Increases
+ your Movement speed when controlling 
+Victor
+ by 
++0.6 m/s
+.
+
+"Eat... eat, child. You'll feel better when it's down." — Madeleine Deshayes
+
+Spinning Top
+
+A wooden top shared between The Twins, though Victor wanted it for his own.
+He learned he could get what he wanted if he clung tightly and screamed.
+
+Causes Survivors hit with a 
+Pounce
+ to drop any carried 
+Item
+.
+
+"Hush... hush... it is yours then." — Charlotte Deshayes
+
+Victor's Soldier
+
+A toy soldier Victor clung to when scared.
+Something about it evoked jealousy in Charlotte.
+
+The 
+Auras
+ of Survivors are revealed to you for 
+6 seconds
+ after crushing 
+Victor
+ when controlling 
+Charlotte
+.
+
+"Kch--kch—k'ull bawd mennn..." — Victor Deshayes
+
+Iridescent Pendant
+
+A glass-like pendant moulded from The Fog itself.
+There is a portrait of Madeleine Deshayes upon it, though something about her depiction seems unsettling.
+
+Crushing 
+Victor
+ while 
+Charlotte
+ is in control causes the Survivor to suffer from the 
+Exposed
+ 
+Status Effect
+ for 
+45 seconds
+.
+
+"Your binding is no curse, my loves. It is your strength to draw upon." — Madeleine Deshayes
+
+Silencing Cloth
+
+A coarse strip of cloth that a five-year-old Charlotte would put in her mouth.
+Stopped her from screaming when witch hunters were nearby.
+
+After waking from her 
+Dormant State
+, 
+Charlotte
+ is granted the 
+Undetectable
+ 
+Status Effect
+ for 
+20 seconds
+.
+
+"I don't like this game anymore, Mother..." — Charlotte Deshayes
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There is 
+2
+ Achievements related to 
+The Twins
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Twins
+
+Playing as The 
+Twins
+, achieve a 
+Merciless Victory
+ using only their 
+3
+ Unique Perks: 
+Hoarder
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+You protect what little you have and are perceptive to those rummaging through your stockpiles.
+
+Hoarder
+ triggers a 
+Loud Noise Notification
+ for 
+4 seconds
+, whenever a Survivor performs any of the following actions within 
+32
+/
+48
+/
+64
+ 
+metres
+ of your location:
+
+Unlocks a 
+Chest
+.
+
+Picks up any 
+Item
+.
+
+Hoarder
+ spawns 
+2 additional Chests
+ in the Trial.
+
+, 
+Oppression
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Life has been difficult for you, so you will make it difficult for others."
+
+Performing the 
+Damage Generator
+ action on a 
+Generator
+ triggers the following effects:
+
+Randomly selects up to 
+4
+ additional 
+Generators
+ that will also start regressing.
+
+Triggers a difficult 
+Skill Check
+ for all Survivors currently repairing them.
+
+Oppression
+ has a cool-down of 
+45
+/
+40
+/
+35
+ 
+seconds
+.
+
+"Damn them as they would damn us." — Charlotte Deshayes
+
+, and 
+Coup de Grâce
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+As the end nears, you go in for the kill.
+
+Whenever a 
+Generator
+ is completed, 
+Coup de Grâce
+ gains 
++2 Tokens
+, up to a maximum of 
+10 Tokens
+ per Trial:
+
+Increases
+ the range of your next 
+Lunge Attack
+ by 
+70
+/
+75
+/
+80
+ 
+%
+, while consuming 
+-1 Token
+.
+
+Coup de Grâce
+ can only hold a maximum of 
+5 Tokens
+ at a time.
+
+.
+
+Tag Team
+
+Playing as The 
+Twins
+, down Survivors with 
+Victor
+ latched onto them a total of 
+10 times
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Twins
+:
+
+Base Cosmetics
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Charlotte
+
+Common
+
+A young woman scorned by humanity, harbouring hatred for all but her brother.
+
+Dress of Decay
+
+Common
+
+A moth-eaten rag that smells of sweat and smoke.
+
+Blade of Marseille
+
+Common
+
+Tales warned of a demon who skulked the gutters of Marseille with shimmering blade in hand.
+In reality, it was a battered sickle Charlotte stole from a farmer’s home and modified to her liking.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Bloody Charlotte
+
+Rare
+
+She wanted only to inflict humanity with the cruelty they had inflicted upon her family.
+
+Prestige Level 6 Reward
+
+Red Decay
+
+Rare
+
+A moth-eaten rag that smells of the viscera upon it.
+
+Prestige Level 5 Reward
+
+Bloody Blade of Marseille
+
+Rare
+
+The sickle once seen in the streets of Marseille has been busy.
+
+Prestige Level 4 Reward
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+A young woman scorned by humanity, harbouring hatred for all but her brother.
+
+Alternatives
+
+Special
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Event
+
+Frosty Eyes
+
+Uncommon
+
+The cold eyes of a Killer who wants warm blood.
+
+"Have a fantastic holiday season and a bloody good new year!" — The Dead by Daylight Team
+
+Advent Calendar 2020
+
+Event
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Event
+
+Exclusive to Event Participation
+
+Crown of the Entity
+
+Event
+
+A crown emanating a festive and ominous aura created by the Entity's biggest fan.
+
+Fourth Year Anniversary
+
+Yes
+
+5th Anniversary Crown
+
+Event
+
+A crown crafted for a very special anniversary.
+
+"Thank you for supporting & inspiring us along the years!" - The Dead by Daylight Team
+
+Fifth Year Anniversary
+
+Yes
+
+Sickle-y Sweet
+
+Event
+
+This scythe, hidden away for weeks with a stock of candy, ended up covered in foul larvae.
+
+Haunted by Daylight
+
+Yes
+
+Twins' Mask
+
+Event
+
+A mask she found herself wearing at the masquerade ball.
+
+Twisted Masquerade 2024
+
+Yes
+
+ Rift
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Thicker Than Water
+
+Darkest Dungeon
+
+Rift Pass 5 - Ruin
+
+28 April 2026 (Tuesday)
+
+Description
+
+How many have given their life to bring another’s to an end? Sooner or later, one loses count...
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Blood In
+
+Darkest Dungeon
+
+34
+
+Breathe together, bleed together. A bond forged in anguish emerges all the stronger.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Blood Out
+
+Darkest Dungeon
+
+38
+
+Pain inflicted shall be returned tenfold. One must do what one must to survive.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Against The World
+
+Darkest Dungeon
+
+40
+
+Even in a world of brutality, one can find comfort in the grasp of a familiar hand.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Abandoned Luxury
+
+Gold & Silk
+
+Tome 19 - Splendor
+
+12 June 2018 (Tuesday)
+
+Description
+
+While hiding in a derelict farmhouse, she found an old moth-eaten dress draped over the bed.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Brutal Veil
+
+Gold & Silk
+
+37
+
+The fabric was threadbare in places, but still she took pleasure in wearing it.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Laced Gown
+
+Gold & Silk
+
+46
+
+Try as she might, Charlotte couldn't deny her sadness. The dress like this was never meant for someone like her.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Antique Hooks
+
+Gold & Silk
+
+33
+
+Her crude instrument of self-defense stood in stark contrast to the delicate textiles.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+New World Stowaway
+
+A Dream of Escape
+
+Tome 11 - Devotion
+
+12 June 2018 (Tuesday)
+
+Description
+
+Charlotte recalled her mother speaking of a place across the ocean, where Victor and Charlotte would be free of pursuit.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Pitch-Black Tricorn
+
+A Dream of Escape
+
+67
+
+Charlotte gazed upon a ship at sea and imagined stealing the clothes of a naval officer and sailing West to this New World.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Tattered Slops
+
+A Dream of Escape
+
+1
+
+The journey would be dangerous, and difficult, but at its end, a land where sweet syrup poured from the trees.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Flotsam Blade
+
+A Dream of Escape
+
+37
+
+One day, these awful weapons could be used not for violence, but to build a new place for them to call home.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Dogged Sailor
+
+Slice Of Life Collection
+
+Tome 17 - Commitment
+
+12 June 2018 (Tuesday)
+
+Description
+
+They found an unfamiliar uniform half buried in the sand near an abandoned ship.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Rough Tricorn Hat
+
+Slice Of Life Collection
+
+48
+
+The hat was caught in the mud not far from the boat.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Blue Frock Coat
+
+Slice Of Life Collection
+
+51
+
+The coat was hard and rough because of the salt water.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Lost Treasures
+
+Slice Of Life Collection
+
+55
+
+A weapon assembled with lost items she discovered in the sand.
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Shreds of Comfort
+
+The Twins Aberrations
+
+01 December 2020 (Tuesday)
+
+Description
+
+She had so little that even a ragged outfit was a significant portion of her wealth.
+
+135
+
+2700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Wanderer’s Kerchief (Gray)
+
+The Twins Aberrations
+
+She’d found the kerchief blowing in the wind on a tree branch. A rare surprise during a difficult life.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Peasant’s Ragged Dress (Black & Beige)
+
+The Twins Aberrations
+
+A dress that was already tattered when it was stolen. The breast has been ripped away to make room for Victor.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Arched Blade (Teal Trim)
+
+The Twins Aberrations
+
+A sickle with a massive nail penetrating the steel. The addition has little to do with practicality and everything to do with cruelty.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Shreds of Dignity
+
+The Twins Aberrations
+
+01 December 2020 (Tuesday)
+
+Description
+
+She had so little that even a ragged outfit was a significant portion of her wealth.
+
+135
+
+2700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Wanderer’s Kerchief (Off-White)
+
+The Twins Aberrations
+
+She’d found the kerchief blowing in the wind on a tree branch. A rare blessing during a difficult life.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Peasant’s Ragged Dress (White & Brown)
+
+The Twins Aberrations
+
+A dress that was already tattered when it was stolen. The breast has been ripped away to make room for Victor.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Arched Blade (Red Trim)
+
+The Twins Aberrations
+
+A sickle with a massive nail penetrating the steel. The addition has little to do with practicality and everything to do with cruelty.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Shreds of Warmth
+
+The Twins Aberrations
+
+01 December 2020 (Tuesday)
+
+Description
+
+She had so little that even a ragged outfit was a significant portion of her wealth.
+
+135
+
+2700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Wanderer’s Kerchief (Red)
+
+The Twins Aberrations
+
+She’d found the kerchief blowing in the wind on a tree branch. A rare surprise during a difficult life.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Peasant’s Ragged Dress (Beige & Black)
+
+The Twins Aberrations
+
+A dress that was already tattered when it was stolen. The breast has been ripped away to make room for Victor.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Arched Blade (Black Trim)
+
+The Twins Aberrations
+
+A sickle with a massive nail penetrating the steel. The addition has little to do with practicality and everything to do with cruelty.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Shreds of Solace
+
+The Twins Aberrations
+
+01 December 2020 (Tuesday)
+
+Description
+
+She had so little that even a ragged outfit was a significant portion of her wealth.
+
+135
+
+2700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Wanderer’s Kerchief (White)
+
+The Twins Aberrations
+
+She’d found the kerchief blowing in the wind on a tree branch. A rare surprise during a difficult life.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Peasant’s Ragged Dress (Brown & Green)
+
+The Twins Aberrations
+
+A dress that was already tattered when it was stolen. The breast has been ripped away to make room for Victor.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Arched Blade (Olive Trim)
+
+The Twins Aberrations
+
+A sickle with a massive nail penetrating the steel. The addition has little to do with practicality and everything to do with cruelty.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+From the Ruins
+
+French Pauper
+
+01 December 2020 (Tuesday)
+
+Description
+
+Charlotte fought for everything she had, oftentimes literally.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Grim Realities (Brown)
+
+French Pauper
+
+A thin rag over her head and a face weathered by the elements was often the best she had.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Victor’s Sentinel (Green & White)
+
+French Pauper
+
+The dress may have been Charlotte’s, but it was important to her that she made space for Victor—even after his death.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Persecution (Rust)
+
+French Pauper
+
+Charlotte’s family had suffered enough. She was determined to persecute humanity tenfold for their atrocities.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+From the Gutters
+
+French Pauper
+
+01 December 2020 (Tuesday)
+
+Description
+
+Charlotte fought for everything she had, oftentimes literally.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Grim Realities (Green)
+
+French Pauper
+
+A thin rag over her head and a face weathered by the elements was often the best she had.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Victor’s Sentinel (Yellow & White)
+
+French Pauper
+
+The dress may have been Charlotte’s, but it was important to her that she made space for Victor—even after his death.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Persecution (Black)
+
+French Pauper
+
+Charlotte’s family had suffered enough. She was determined to persecute humanity tenfold for their atrocities.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+From the Wastes
+
+French Pauper
+
+01 December 2020 (Tuesday)
+
+Description
+
+Charlotte fought for everything she had, oftentimes literally.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Grim Realities (Red)
+
+French Pauper
+
+A thin rag over her head and a face weathered by the elements was often the best she had.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Victor’s Sentinel (Brown & Red)
+
+French Pauper
+
+The dress may have been Charlotte’s, but it was important to her that she made space for Victor—even after his death.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Persecution (Gray)
+
+French Pauper
+
+Charlotte’s family had suffered enough. She was determined to persecute humanity tenfold for their atrocities.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Eternal Anguish
+
+Dust to Dust
+
+01 December 2020 (Tuesday)
+
+Description
+
+Her heartbreak over Victor’s death was so great that she stole a grieving widow’s mourning gown.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Bereavement Veil
+
+Dust to Dust
+
+Underneath, there was only darkness.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Bereavement Gown
+
+Dust to Dust
+
+A way to grieve the brother who would always be a part of her.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Salvation
+
+Dust to Dust
+
+The shovel Charlotte used to dig her brother’s ceremonial grave. His body would remain with her forever.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Eternal Sorrow
+
+Dust to Dust
+
+01 December 2020 (Tuesday)
+
+Description
+
+Her heartbreak over Victor’s death was so great that she stole a grieving widow’s mourning gown.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Mourning Veil
+
+Dust to Dust
+
+Underneath, there was only darkness.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Mourning Gown
+
+Dust to Dust
+
+A way to grieve the brother who would always be a part of her.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Deliverance
+
+Dust to Dust
+
+The shovel Charlotte used to dig her brother’s ceremonial grave. His body would remain with her forever.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Hikizuris' Dark Past
+
+Junji Ito
+
+07 January 2025 (Tuesday)
+
+Description
+
+Their mother found an abandoned cabin deep in the woods, and they settled down there for the night.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Darkened Sound
+
+Junji Ito
+
+Their long-needed rest was interrupted when Charlotte heard whispers coming from beneath the floorboards.
+
+Piece
+
+Name
+
+Collection
+
+Jolted Awake
+
+Junji Ito
+
+She woke up her mom, certain they were not alone. Her mother's eyes widened as she grabbed Charlotte's arm and dragged her outside.
+
+Piece
+
+Name
+
+Collection
+
+Jilted Sickle
+
+Junji Ito
+
+As they hacked through the woods, ghostly figures emerged from the cabin. Charlotte never looked back, and didn't stop running until dawn.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Flesh And Bones
+
+Artists From The Fog
+
+01 August 2023 (Tuesday)
+
+Description
+
+Designed by 
+Raina
+.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Half Face
+
+Artists From The Fog
+
+White flowers bloomed on her hidden side.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Hardening Skin
+
+Artists From The Fog
+
+The bones clutched to her flesh, and the moss invaded her extremities.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Antlers
+
+Artists From The Fog
+
+Nature provides the best weapons.
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Harrowing Time
+
+Days Gone By
+
+18 February 2025 (Tuesday)
+
+Description
+
+The room looked familiar to Charlotte, as did the hooded figures chanting above her. How did she make it back home?
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Haunting Hood
+
+Days Gone By
+
+Fear gripped her as she saw a knife inching closer to her flesh. She tried to scream, but no sound escaped her lips.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Tattered Rags
+
+Days Gone By
+
+Her brother shrieked, his eyes begging her to move. She felt weak as she let herself fall on her side into a pile of decomposing bodies.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Corpse Sickle
+
+Days Gone By
+
+The hooded shadow reached for Victor when suddenly she woke up. Her brother was still curled up in her ribcage, lifeless.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Blood & Guts
+
+Holiday Horror
+
+01 December 2020 (Tuesday)
+
+Description
+
+Barely clinging to life during a frigid winter in Marseille, Charlotte stabbed a pig and warmed herself with its steaming viscera.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Intestinal Crown
+
+Holiday Horror
+
+Any sense of repulsion vanishes when you’re on death’s door.
+
+Piece
+
+Name
+
+Collection
+
+Swine’s Mercy
+
+Holiday Horror
+
+She had never felt so soothed by warmth, as she huddled in the pigsty, soaking in blood.
+
+Piece
+
+Name
+
+Collection
+
+Pig Gutter
+
+Holiday Horror
+
+A cleaver soaked by the insides of a recently butchered pig.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Nature's Respite
+
+Forgotten Garden
+
+21 May 2024 (Tuesday)
+
+Description
+
+They stumbled across a strange refuge from the cruel temperatures: a valley, blooming and vibrant.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Laurel of Lilies
+
+Forgotten Garden
+
+Before winter returned with a frigid vengeance, she enjoyed the bucolic environment.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Bundled Serenity
+
+Forgotten Garden
+
+Lavender's calming essence did little to keep her and Victor calm once the darkness returned.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Floral Crescent
+
+Forgotten Garden
+
+She knew the valley’s flowers would soon wither and rot, but for a brief moment, they brought her a shred of joy.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Seabed Sustenance
+
+Sea-Washed Creatures
+
+20 July 2021 (Tuesday)
+
+Description
+
+Hunted and hungry, she stole tools from a freshly dead fisherman to catch dinner.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Pile of Debris
+
+Sea-Washed Creatures
+
+Her hair caught debris of ropes and waste as she swam through oily waves, attempting to fish for survival.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Fisherman's Apron
+
+Sea-Washed Creatures
+
+The fisherman's clothes that she adapted to allow her brother to swim and breathe safely.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Gory Rusted Hooks
+
+Sea-Washed Creatures
+
+She gutted each fish with her dirty nails and used rusted hooks to catch more.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+New World Stowaway
+
+A Dream of Escape
+
+Tome 11 - Devotion
+
+12 June 2018 (Tuesday)
+
+Description
+
+Charlotte recalled her mother speaking of a place across the ocean, where Victor and Charlotte would be free of pursuit.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Pitch-Black Tricorn
+
+A Dream of Escape
+
+67
+
+Charlotte gazed upon a ship at sea and imagined stealing the clothes of a naval officer and sailing West to this New World.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Tattered Slops
+
+A Dream of Escape
+
+1
+
+The journey would be dangerous, and difficult, but at its end, a land where sweet syrup poured from the trees.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Flotsam Blade
+
+A Dream of Escape
+
+37
+
+One day, these awful weapons could be used not for violence, but to build a new place for them to call home.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Hoarfrost Blade
+
+Bone Chill
+
+She let the snow and ice overwhelm her sickle.
+
+250
+
+Piece
+
+Name
+
+Collection
+
+Sickle-y Sweet
+
+Tricks and Treats
+
+This scythe, hidden away for weeks with a stock of candy, ended up covered in foul larvae.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Dine And Dash
+
+Black Banquet
+
+If you don’t run straight for the table, you’ll miss out on the prime cut.
+
+Piece
+
+Name
+
+Collection
+
+Twins' Masks
+
+Twisted Masquerade
+
+A mask they found themself wearing at the masquerade ball.
+
+400
+
+7200
+
+Alternate Character Models
+
+The Twins
+ has 
+1
+ alternate Character model available in the in-game Store:
+
+Kinkao & Minkao Hikizuri
+ (Costume)
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Twins
+ are part of 
+3
+ DLCs:
+
+Chapter DLC:
+
+A Binding of Kin
+ (
+retired
+)
+
+Pack DLCs:
+
+Macabre Tales Pack
+ (Chapter Pack)
+
+Terror Expansion Pack
+ (Character Pack)
+
+Change Log
+
+Patch 4.4.1
+Patch 4.4.2
+Patch 4.7.0
+Patch 7.7.0
+Patch 8.3.0
+Patch 9.0.0
+Patch 4.4.1
+
+Buff
+: allows 
+Victor
+ to search Lockers.
+
+Quality of Life
+: control is immediately given back to 
+Charlotte
+ when finding and trapping a Survivor in a Locker as 
+Victor
+.
+
+Quality of Life
+: Survivors found will be trapped in the Locker for 
+10 seconds
+, after which they will break free of 
+Victor's
+ hold and escape, recalling 
+Victor
+ to 
+Charlotte
+.
+
+Quality of Life
+: Survivors within a trapped Locker and those who approach the trapped Locker will be revealed by 
+Killer Instinct
+.
+Patch 4.4.2
+
+Buff
+: reduced the time it takes until 
+Victor
+ can be recalled when attached to a Survivor from 
+45 seconds
+ to 
+30 seconds
+.
+Patch 4.7.0
+
+Quality of Life
+: camera control is now immediately restored when switching back to 
+Charlotte
+.
+
+Quality of Life
+: 
+Victor
+ is now allowed to move during the 
+Pounce
+ cool-down for a successful attack, to compensate for the longer stun duration.
+
+Nerf
+:
+ increased 
+Victor's
+ cool-down after downing Survivors with a 
+Pounce
+ from 
+3 seconds
+ to 
+5 seconds
+.
+
+Nerf
+:
+ 
+Charlotte
+ now loses her collision 
+30 seconds
+ after entering her Dormant State.
+
+This means that she will no longer body-block Vault locations or doorways after that time, allowing Survivors to pass through her.
+
+Consequently, this also means 
+Victor
+ is able to pass through 
+Charlotte
+ after 30 seconds.
+Patch 7.7.0
+
+Buff
+: reduced the Transition duration when switching from 
+Victor
+ to 
+Charlotte
+ from 
+3 seconds
+ to 
+1.5 seconds
+.
+
+Buff
+: reduced the time it takes to unbind 
+Victor
+ from 
+1 second
+ to 
+0.75 seconds
+.
+
+Buff
+: reduced the Charge time for a 
+Pounce
+ from 
+1 second
+ to 
+0.85 seconds
+.
+
+Buff
+: reduced the Cool-down duration for successful 
+Pounces
+ without latching on from 
+5 seconds
+ to 
+2.7 seconds
+.
+
+Buff
+: granted 
+Charlotte
+ the ability to recall 
+Victor
+ whenever she desires if he is left idling.
+
+He will still be auto-recalled after a certain time.
+
+Quality of Life
+: 
+Victor
+ now glows red whenever he is vulnerable to being 
+Crushed
+ and white when he is invulnerable.
+
+The latter also prevents 
+Victor
+ from being stunned by 
+Pallets
+.
+
+Quality of Life
+: added a new icon to represent the moment 
+Victor
+ can be recalled.
+
+Quality of Life
+: added several UX improvements to the Power Gauge:
+
+Cool-downs are now indicated through changes in icon opacity.
+
+The Power Gauge now displays 
+Victor's
+ Cool-down.
+
+Charlotte's
+ Power icon now updates to surface when recalling 
+Victor
+ is available.
+
+This now also surfaces the correct input necessary to recall him.
+
+Nerf
+:
+ increased the Cool-down time for 
+Victor
+ to return to 
+Charlotte
+ after being crushed from 
+6 seconds
+ to 
+10 seconds
+.
+
+Change
+:
+ the 
+Shrieks
+ produced by 
+Victor
+ are now correctly indicated by the visual 
+Terror Radius
+ as a 
+Lullaby
+.
+Patch 8.3.0
+
+Nerf
+:
+ increased the Cool-down time when 
+Victor
+ is crushed from 
+15 seconds
+ to 
+20 seconds
+.
+
+Nerf
+:
+ increased the Cool-down time when 
+Victor
+ downs a Survivor from 
+2.7 seconds
+ to 
+3.2 seconds
+.
+Patch 9.0.0
+
+Quality of Life
+: 
+Victor
+ is now able to initiate a chase with Survivors.
+
+Trivia
+
+General
+
+The Twins
+ marked the first time in 
+Dead by Daylight's
+ history that a Killer-Player would control two Characters in a Trial, albeit separately at a time.
+
+Victor
+ was the third Killer to not attack with an actual weapon, but instead using his hands.
+
+The Twins
+ are the fourth Killer to have two Memento Mori animations. The animation used depends on whether 
+Victor
+ is currently attached to 
+Charlotte
+ or not.
+
+If 
+Victor
+ is attached, 
+Charlotte
+ will strike the Survivor twice with her weapon, and then send 
+Victor
+ out, who then bites into the Survivor's neck, killing them.
+
+If 
+Victor
+ is not attached, 
+Charlotte
+ will finish the Survivor off herself after the initial 2 strikes.
+
+If 
+Victor
+ is blocking a Locker with a Survivor affected by the 
+Deep Wound
+ 
+Status Effect
+ inside, the Survivor will automatically exit the Locker and destroy 
+Victor
+ after the Deep Wound timer ends.
+
+Charlotte
+ will cover 
+Victor
+ in an event that a successful survivor save occurs.
+
+Lore
+
+The hooded figures mentioned in their Lore are members of the 
+The Black Vale
+, which intertwines 
+The Twins'
+ Lore with that of 
+Felix
+ and 
+Élodie
+.
+
+Originally 
+The Twins
+ were referred as 
+"The Siblings"
+.
+
+According to an interview with Mathieu Côté, 
+Charlotte
+ was supposed to be pregnant, but the Developers eventually decided to abandon this idea.
+
+Name
+
+Since 
+Charlotte & Victor
+ are French, their last name should correctly be pronounced as 
+"DEH-eh"
+, rather than 
+"Day-AYE"
+, as was done in the Spotlight Trailer, and would be how the name is pronounced in Quebecois French, which is the mother tongue of several of the Developers at BHVR.
+
+Voice Actor
+
+Victor
+ is voiced by Jean-Baptiste Garnier, who at that time worked as the Senior Sound Designer on the Game.
+
+Victor
+ shares his voice-actor with The 
+Oni
+, The 
+Executioner
+, and partially with The 
+Blight
+.
+
+Gallery
+
+In-game Assets
+
+The Twins
+
+The Twins (Portrait render)
+
+The Twins (Background image)
+
+Official Art
+
+Edited lighting
+
+DbD Mobile artwork
+
+Old Assets
+
+The Twins (Old Portrait render)
+
+Concept Art
+
+Default Concept Art
+
+'New World Stowaway' Concept Art
+
+'Flesh and Bones' Concept Art (Designed by Raina.)
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

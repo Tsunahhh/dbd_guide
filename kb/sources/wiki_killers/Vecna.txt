@@ -1,0 +1,2730 @@
+# Vecna
+Source: https://deadbydaylight.wiki.gg/wiki/Vecna (page complète via API, consultée le 27/09/2026)
+
+For the Stranger Things character also known as "Vecna", 
+click here
+.
+
+The Lich
+
+Name
+
+Vecna
+
+Gender
+
+Man
+
+Origin
+
+Oerth (D&D World)
+
+Realm
+
+The Decimated Borgo
+
+Power
+
+Vile Darkness
+
+Power 
+Attack
+ Type
+
+Special Attack
+
+(Flying Entities)
+
+Weapon
+
+Afterthought Dagger
+
+Movement Speed
+
+115 % 
+|
+ 4.6 m/s
+
+Alternate Movement speed
+
+200 % 
+|
+ 8 m/s
+(Fly Spell)
+
+Terror Radius
+
+32 metres
+
+Height 
+
+Average
+
+DLC
+
+Dungeons & Dragons
+
+Voice Actor
+
+Matthew Mercer (Blindlight, Voice Actor)
+
+Cost
+
+500 
+Auric Cells
+
+Menu Music
+
+Terror Radius Music
+
+Metadata
+
+CharID
+
+K36
+
+Vecna
+ or 
+"The Lich"
+ is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+He was introduced as the Killer of 
+Dungeons & Dragons
+, a Chapter DLC released on 3 June 2024.
+
+He originates from the 1974 Board game 
+Dungeons & Dragons
+, specifically its fifth edition from 2014.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: Afterthought Dagger
+
+3.3
+ 
+Power: Vile Darkness
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for Vile Darkness
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Default
+
+5.2
+ 
+Prestige
+
+5.2.1
+ 
+Perk Charms
+
+5.2.2
+ 
+Prestige Badges
+
+5.3
+ 
+Alternatives
+
+5.3.1
+ 
+DLC
+
+5.4
+ 
+Rift
+
+5.5
+ 
+In-Game Store
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+General
+
+8.2
+ 
+Character Memes
+
+8.3
+ 
+Mark of Negation
+
+8.4
+ 
+Memento Mori
+
+8.5
+ 
+Voice Actor
+
+8.6
+ 
+Voice Lines
+
+9
+ 
+Gallery
+
+9.1
+ 
+In-game Assets
+
+9.2
+ 
+Official Art
+
+9.3
+ 
+Outfits
+
+Overview
+
+Few dare speak 
+The Lich's
+ true name, for fear that he may hear — or worse.
+
+His personal Perks, 
+Weave Attunement
+, 
+Languid Touch
+, and 
+Dark Arrogance
+, allow him to exploit used Items, exhaust those who disturb the Crows, and increase his Vaulting speed.
+
+Lore
+
+The Whispered One. Lord of the Rotted Tower. The Master of Secrets. Few dare speak his true name, for fear that he may hear — or worse.
+
+Even as a young wizard, Vecna’s command of magic was matched by none. While others spent decades committing to and perfecting one school of magic, he effortlessly mastered each one of them. After his mother’s execution for witchcraft, his focus became obsession as he pored the most of his study into the darkest school of magic—necromancy, the magic of life and death.
+
+As his power grew, so did his ambition. Over the centuries, he shed his mortal shell and ascended to lichdom. His power gave rise to a great empire, ruled over from his Rotted Tower.
+
+His thirst for dark knowledge to fill his Book of Vile Darkness led him to many realms and planes. But it was in his own realm one of his servants found something — a spell, perhaps, torn from an ancient tome — written in a language he had never seen. From it he could sense an incredible dark energy. Without any document of the language, he had to spend months painstakingly analysing its syntax, its phonetics, its form. He documented every stroke of every letter, scrutinising and theorising on their meanings, in a massive book hidden in his chambers. When his lieutenants came to him with problems in their domain, Vecna told them to deal with it themselves. He had more important matters to attend to.
+
+Countless nights were spent memorizing the strange script, attempting to make it make sense. Only occasionally would he leave his keep to investigate rumours of people who had disappeared without a trace in the night. At these scenes, he could sense the same foreign magic that emanated from the torn page. He was convinced that whatever was killing these people had also written this strange script.
+
+He was confounded, which made him furious. The scenes, few and far between, had no pattern, no common motive. No sign of struggle, no body, and only a lingering hum of dark energy. To what end did they need these bodies?
+
+One dark night, he had a breakthrough: a word he had been interpreting as “dying” made more sense as “disappearing.” Perhaps these people were not being killed at all: perhaps they were being taken alive. He applied this substitution through his notes and everything seemed to fall into place.
+
+He copied what he had learned to a fresh piece of parchment, written phonetically. He began to speak the words aloud and the room darkened. It filled with a creeping black fog. He felt himself displacing, going somewhere else. Vecna resisted, incanting memorised spells, holding the fog at bay. But as he gazed into the darkness, he felt that alluring energy from it; a despair, an evil he could scarcely imagine. A sick curiosity overcoming him, he dropped his concentration, and let the fog take him. Whatever it was, wherever it was, he understood that the only way to harness it was to submit to it. He knew, in his cold, unbeating heart, that its dark secrets would one day be his.
+
+Load-out
+
+Unique Perks
+
+The Lich
+ comes with 
+3
+ 
+Perks
+ that are unique to him:
+
+ 
+
+Dark Arrogance
+
+This description is based on the changes announced for or featured in the upcoming Patch 10.2.0
+"When everything is going right, you are an inescapable inevitability."
+
+Whenever you are vaulting a 
+Window
+, you benefit from the following effect:
+
+Increases
+ the Vaulting speed by 
+15
+/
+20
+/
+25
+ 
+%
+.
+
+Increases
+ all basic-attack recovery speeds by 
+15
+/
+20
+/
+25
+ 
+%
+.
+
+Whenever you are stunned with a 
+Pallet
+ or blinded by any means, you suffer from the following effects:
+
+Reduces
+ the Recovery speed from 
+Pallet Stuns
+ by 
+-25 %
+.
+
+Increases
+ the duration of 
+Killer Blinds
+ by 
++25 %
+.
+
+"Run all you want. I will not be denied." — Vecna
+
+ 
+
+Languid Touch
+
+"Your dreadful aura is so suffocating that even terrifying scenes tire your prey."
+
+When a Survivor scares off a 
+Crow
+ within 
+36 metres
+ of your location, 
+Languid Touch
+ activates:
+
+Causes that Survivor to suffer from the 
+Exhausted
+ 
+Status Effect
+ for 
+6
+/
+8
+/
+10
+ 
+seconds
+.
+
+Languid Touch
+ has a cool-down of 
+5 seconds
+.
+
+"Submit to me. It is inevitable." — Vecna
+
+ 
+
+Weave Attunement
+
+"You are so attuned to magical energies that you can sense even minor ripples around enchantments."
+
+Whenever an 
+Item
+ is depleted for the first time, it is automatically dropped:
+
+The 
+Auras
+ of dropped 
+Survivor Items
+ are revealed to you, as well as the Auras of any Survivors within 
+12 metres
+ of them.
+
+Affected Survivors see the Aura of that 
+Item
+ as well.
+
+Causes Survivors picking up a 
+Survivor Item
+ to suffer from the 
+Oblivious
+ 
+Status Effect
+ for 
+20
+/
+25
+/
+30
+ 
+seconds
+.
+
+"No number of novelties will protect you from me!" — Vecna
+
+Prestige
+
+Prestiging 
+The Lich
+ will automatically add 
+Tier I
+ of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Lich
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: Afterthought Dagger
+
+The 
+Afterthought Dagger
+ is the Primary Weapon of 
+The Lich
+.
+Blade in hand, he fought with ferocity — even when he lost his eye and hand to the one who betrayed him.
+
+Power: Vile Darkness
+
+"Bound with the skin and flesh of men, the Book is packed with spells both forbidden and wicked."
+SPECIAL ABILITY: VILE DARKNESS
+Press and hold the 
+Secondary Power button
+ to open the 
+Spell Selection
+.
+Move the cursor towards one of four available 
+Spells
+ in order to select it:
+
+Fly
+: Grants the ability to fly across the environment for up to 
+5 seconds
+ and allows 
+The Lich
+ to ignore dropped 
+Pallets
+ and 
+Windows
+.
+
+After ending 
+Fly
+, 
+The Lich
+ cannot attack Survivors for 
+2.75 seconds
+.
+
+Flight of the Damned
+: Grants the ability to conjure 
+5
+ 
+Flying Entities
+ that can pass through obstacles and damage Survivors in their path.
+
+Triggers 
+Killer Instinct
+ on Survivors downed by this 
+Spell
+ for 
+5 seconds
+.
+
+Cannot hit crouched Survivors on level terrain.
+
+Dispelling Sphere
+: Grants the ability to cast a moving 
+Sphere
+ invisible to Survivor.
+
+The 
+Sphere
+ initially moves at a faster 
+9.75 m/s
+ and slows down to 
+6.5 m/s
+ over 
+3 seconds
+.
+
+Triggers 
+Killer Instinct
+ for 
+5 seconds
+ on Survivors coming into contact with it and disables their equipped 
+Magic Items
+ for 
+45 seconds
+.
+
+While disabled, 
+The Lich
+ can see the specific type of any equipped 
+Magic Item
+ on the Survivor HUD.
+
+The Cool-down duration of 
+Magic Items
+ is indicated to all Players with a timer on the Survivor HUD.
+
+Mage Hand
+: Grants the ability to conjure a 
+Magical Hand
+ on any nearby 
+Pallet
+.
+
+Lifts a dropped 
+Pallet
+ back upright in 
+0.5 seconds
+.
+
+Holds an upright 
+Pallet
+ and blocks interactions with it for 
+4 seconds
+.
+
+After casting, each 
+Spell
+ has its own, independent cool-down:
+
+Fly
+: 
+20 seconds
+
+Flight of the Damned
+: 
+30 seconds
+
+Dispelling Sphere
+: 
+30 seconds
+
+Mage Hand
+: 
+35 seconds
+
+SPECIAL TREASURE CHESTS: MAGIC ITEMS
+6
+ 
+Treasure Chests
+ containing special 
+Magic Items
+ for Survivors to equip spawn in the environment.
+These include 
+Boots
+ or 
+Gauntlets
+ of:
+
+All 
+Magic Items
+ reveal the 
+Aura
+ of 
+The Lich
+ for 
+2 seconds
+, when he casts their associated 
+Spell
+.
+
+The 
+Skyguard
+: The Aura of 
+The Lich
+ is revealed during flight.
+
+This effect lingers for 
+0.25 seconds
+.
+
+The 
+Nightwatch
+: The Auras of the 
+Flying Entities
+ are revealed once cast.
+
+The 
+Archivist
+: The 
+Dispelling Sphere
+ itself is visible while it traverses the environment.
+
+The 
+Interloper
+: The Auras of 
+Pallets
+ affected by 
+Mage Hand
+ are revealed once cast.
+
+This also grants the Survivor a 
++7 %
+ 
+Haste
+ 
+Status Effect
+ for 
+4 seconds
+.
+
+Beware of 
+Mimics
+ though, they may bite.
+
+Survivors can have both a Boot and a Gauntlet equipped at the same time.
+Unlucky Survivors may only find a regular 
+Item
+ inside a 
+Treasure Chest
+ that is either depleted or half-depleted.
+SPECIAL ITEMS: HAND & EYE OF VECNA
+Rarely, 
+Treasure Chests
+ contain either the 
+Hand of Vecna
+ or the 
+Eye of Vecna
+.
+
+Healthy Survivors can use these 
+Vecna Items
+ to gain a special ability at the cost of a 
+Health State
+ and triggering 
+Killer Instinct
+ after use.
+SPECIAL INTERACTION: RECOVER ARTEFACT
+Survivors attuned to the 
+Eye of Vecna
+ or the 
+Hand of Vecna
+ with an accumulated 
+2
+ 
+Hook Stages
+ are vulnerable to 
+The Lich
+ recovering his Artefact from them.
+Press the 
+Attack button
+ while standing over the downed Survivor to execute them on the spot, performing a 
+Mini-Mori
+.
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Post-Fly Cool-down:  
+1.012 m/s
+
+Post-Casting Spells: 
+3.68 m/s
+
+Charging Spells: 
+4.0 m/s
+
+Walking: 
+4.6 m/s
+
+Flying: 
+8.0 m/s
+
+Spells:
+
+Charge time: 
+0.2 seconds
+
+How long it takes to charge a 
+Spell
+ before it can be cast.
+
+Cool-down Charge threshold: 
+0.1 seconds
+
+Buffer that prevents any cool-downs from applying by accidentally tapping the button.
+
+Cancellation Cool-down duration: 
+1.25 seconds
+
+Applies after cancelling a 
+Spell
+ after charging it, instead of casting it.
+
+Individual Recharge durations:
+
+These cool-downs are applied individually to each 
+Spell
+ after casting and are not shared.
+Any 
+Spell
+ not currently recharging may be used at any time.
+
+Dispelling Sphere
+: 
+30 seconds
+
+Flight of the Damned
+: 
+30 seconds
+
+Fly
+: 
+20 seconds
+
+Mage Hand
+: 
+35 seconds
+
+Spell Cast
+ Cool-down after casting: 
+2 seconds
+
+Fly
+ is an exception with an increased Cool-down duration of 
+2.75 seconds
+
+Spell Cast
+ Cool-down after cancelling: 
+1 second
+
+Magic Item
+ Aura-reveal duration: 
+2 seconds
+
+The time the Aura of 
+The Lich
+ is revealed to a Survivor wearing a 
+Magic Item
+ that matches the cast 
+Spell
+.
+
+For the 
+Fly Spell
+, the Aura-reveal lasts for the entire duration of it.
+
+Dispelling Sphere:
+
+Activation time: 
+0.75 seconds
+
+The time between 
+The Lich
+ casting the 
+Spell
+ and the 
+Dispelling Sphere
+ launching.
+
+Trajectory Previewer Distance offset: 
+1.75 metres
+
+The distance the Trajectory Previewer of the 
+Dispelling Sphere
+ is placed in front of 
+The Lich
+.
+
+Trajectory Previewer length: 
+10 metres
+
+Trajectory Previewer width: 
+0.4 metres
+
+Trajectory Previewer height offset: 
+1 metre
+
+Movement speed (initial): 
+9.75 m/s
+
+Movement speed (eventual): 
+6.5 m/s
+
+Movement Speed Transition time: 
+3 seconds
+
+Lifetime: 
+25 seconds
+
+The 
+Sphere
+ de-spawns over 
+2 seconds
+ after travelling for that duration.
+
+Initial radius: 
+0.07 metres
+
+This is used for the mini-sphere while 
+The Lich
+ is charging the 
+Spell
+.
+
+Eventual radius: 
+6 metres
+
+Killer Instinct
+ duration: 
+5 seconds
+
+Disabled State duration for 
+Magic Items
+: 
+45 seconds
+
+This is indicated with a purple timer overlay on the Survivor HUD Portraits.
+
+Flight of the Damned:
+
+Activation time: 
+0.25 seconds
+
+The time between 
+The Lich
+ casting the 
+Spell
+ and the 
+Flying Entities
+ spawning.
+
+Summoning time: 
+0.5 seconds
+
+How long it takes for the spawned 
+Flying Entities
+ to go from inactive to active and start flying.
+
+Maximum Flight speed: 
+9 m/s
+
+Maximum Flight length: 
+22 metres
+
+Additioning the distance offset on top of this value will grant the maximum effective range of 
+26 metres
+ at which 
+The Lich
+ can activate 
+Flight of The Damned
+ away from a survivor to hit them.
+
+Flight height: 
+1.4 metres
+
+The height above the ground that the 
+Flying Entities
+ spawn and travel at.
+Survivors located below this height (i.e. when crouched) cannot be harmed.
+
+Despawn time: 
+2 seconds
+
+Distance offset 
+4 metres
+
+How far in front of 
+The Lich
+ the 
+Flying Entities
+ spawn.
+
+Trajectory Previewer length: 
+10 metres
+
+Trajectory Previewer width: 
+0.45 metres
+
+Trajectory Previewer height offset: 
+0.7 metres
+
+Survivor Aura-reading distance: 
+2 metres
+
+This refers to the maximum range at which Survivors can see the Auras of the 
+Flying Entities
+.
+
+Killer Instinct
+ duration when downed: 
+5 seconds
+
+Fly:
+
+Flying Movement speed: 
+8.0 m/s
+
+Minimum movement speed to be considered non-idle: 
+1 m/s
+
+Allowed idle time before 
+Fly
+ ends: 
+0.5 seconds
+
+Movement speed threshold for deceleration activation: 
+1 m/s
+
+Minimum Flying speed required for the post-
+Fly
+ deceleration brake period to activate after 
+The Lich
+ ends the 
+Fly
+ interaction. Its strength is a variable that does not have a set value.
+
+Speed Curve Transition time: 
+1 second
+
+This refers to how long it takes for 
+The Lich
+ to both reach his maximum Flying speed and decelerate after ending the 
+Fly Spell
+.
+
+FOV Transition time: 
+1.5 seconds
+
+Post-Fly Cool-down: 
+2.75 seconds
+
+Maximum Flying time: 
+5 seconds
+
+Flying can be interrupted at any point by pressing the 
+Attack button
+.
+
+Collision-Loss linger duration (Vaultables): 
+1 second
+
+This applies to the collision with Vault locations, not the one with Survivors, after 
+The Lich
+ ends the 
+Fly Spell
+.
+
+Mage Hand:
+
+Range: 
+16 metres
+
+Survivor Highlight range: 
+8 metres
+
+This refers to the highlight indicating to a Survivor that a 
+Pallet
+ is affected by 
+Mage Hand
+
+Pre-Block Wait time: 
+0.35 seconds
+
+This is how long the 
+Mage Hand
+ waits before blocking an upright 
+Pallet
+.
+
+Block duration: 
+4 seconds
+
+Pre-Lift Wait time: 
+0.5 seconds
+
+This is how long the 
+Mage Hand
+ waits before lifting a dropped 
+Pallet
+.
+
+Lift duration: 
+0.5 seconds
+
+Post-Lift Block duration: 
+0.55 seconds
+
+This applies only when the 
+Pallet
+ was lifted.
+
+Add-ons for Vile Darkness
+
+Icon
+
+Name
+
+Description
+
+Crystal Ball
+
+"Used by spellcasters for centuries to scry upon friend and foe alike."
+
+Whenever the 
+Dispelling Sphere
+ 
+Spell
+ detects a Survivor, you benefit from the following effect:
+
+Increases
+ the duration of 
+Killer Instinct
+ by 
++1 second
+.
+
+Raven's Feather
+
+"A material component most typically used by the Fly spell."
+
+Modifies the 
+Fly
+ 
+Spell
+ with the following effect:
+
+Extends
+ the Flight duration by 
++0.5 seconds
+.
+
+Tattered Headband
+
+"An enchanted accessory once owned by a powerful summoner. It still carries a whisper of its former magic."
+
+Modifies the 
+Flight of the Damned
+ 
+Spell
+ with the following effect:
+
+Extends
+ the Flight range of the 
+Flying Entities
+ summoned by the 
+Spell
+ by 
++4 metres
+.
+
+Trickster's Glove
+
+"A glove once belonging to an archane trickster whose mastery of Mage Hand clings to its fibers."
+
+While casting the 
+Mage Hand
+ 
+Spell
+ to block an upright 
+Pallet
+, you benefit from the following effect:
+
+Increases
+ its Hold time by 
++0.3 seconds
+.
+
+Glass Eye
+
+"A material component used to cast spells of detection."
+
+Modifies the 
+Dispelling Sphere
+ 
+Spell
+ with the following effects:
+
+Increases
+ the its radius by 
++2 metres
+.
+
+Increases
+ its Travel speed by 
++10 %
+.
+
+Lantern of Revealing
+
+"Even those who evade your attacks cannot evade your gaze."
+
+Survivors narrowly missed by the 
+Flying Entities
+ summoned by the 
+Flight of the Damned
+ 
+Spell
+ suffer from the following effect:
+
+Their 
+Auras
+ are revealed to you for 
+3 seconds
+.
+
+Potion of Speed
+
+"A curious concoction that downgrades the rules of physics to mere suggestions."
+
+While casting the 
+Fly
+ 
+Spell
+, you benefit from the following effect:
+
+Reduces
+ the Interaction Cool-down time after casting it by 
+-0.15 seconds
+.
+
+Ring of Spell Storing
+
+"A magical ring that rewards those who are well-prepared."
+
+You benefit from the following effect:
+
+Reduces
+ the default Recharge time of all 
+Spells
+ by 
+-1 second
+.
+
+Ring of Telekinesis
+
+"Its arcane energy crackles to life when its user manipulates objects from afar."
+
+While casting the 
+Mage Hand
+ 
+Spell
+ to block an upright 
+Pallet
+, you benefit from the following effect:
+
+Increases
+ your Vaulting speed by 
++10 %
+ for the next 
+10 seconds
+.
+
+Boots of Speed
+
+"A simple click of their heels grants their wearer incredible pace."
+
+After casting the 
+Mage Hand
+ 
+Spell
+, you benefit from the following effect:
+
+Grants a 
++3 %
+ 
+Haste
+ 
+Status Effect
+ for 
+2 seconds
+.
+
+Cloak of Elvenkind
+
+"Its colours are constantly shifting, making you more difficult to detect from afar."
+
+While casting the 
+Fly
+ 
+Spell
+, you benefit from the following effect:
+
+Reduces
+ your 
+Terror Radius
+ by 
+-22 metres
+.
+
+This effect lingers for 
+6 seconds
+ after ending 
+Fly
+.
+
+Ornate Horn
+
+"Once used to rally troops to battle, its very presence brings great armies to bear."
+
+Modifies the 
+Flight of the Damned
+ 
+Spell
+ with the following effect:
+
+Increases
+ the number of 
+Flying Entities
+ summoned by the 
+Spell
+ by 
+1
+.
+
+Pearl of Power
+
+"Its shimmering face energises mages who hold it, allowing them to cast more spells."
+
+Successfully hitting a Survivor with a 
+Basic Attack
+ triggers the following effect:
+
+Reduces
+ the remaining Recharge time of all 
+Spells
+ currently on cool-down by 
+-2 seconds
+.
+
+Staff of Withering
+
+"Its necrotic power brings its targets closer to death."
+
+Whenever a Survivor enters radius of the 
+Dispelling Sphere
+, they suffer from the following effect:
+
+Inflicts the 
+Exhausted
+ 
+Status Effect
+ for 
+30 seconds
+.
+
+Bag of Holding
+
+"The realm itself bends to its astounding capacity, populating trials with even more to take."
+
+Survivors opening a 
+Treasure Chest
+ suffer from the following effects:
+
+Inflicts the 
+Oblivious
+ 
+Status Effect
+ for 
+15 seconds
+.
+
+At least 
+2
+ 
+Treasure Chests
+ in the environment will roll a 
+1
+ on their 
+Dice Roll
+.
+
+Cloak of Invisibility
+
+"A powerful magic item, envied by rogues and the conflict-averse alike."
+
+Whenever all four 
+Spells
+ are on cool-down at the same time, you benefit from the following effect:
+
+Grants the 
+Undetectable
+ 
+Status Effect
+ for 
+20 seconds
+.
+
+Dragontooth Dagger
+
+"Made from the actual tooth of a dragon, its edge is jagged and cruel."
+
+Successfully hitting a Survivor equipped with a 
+Magic Item
+ with a 
+Basic Attack
+ triggers the following effect:
+
+Inflicts the 
+Haemorrhage
+ and 
+Mangled
+ 
+Status Effects
+ for 
+60 seconds
+.
+
+Robe of Eyes
+
+"When worn, none can escape its bearer's unyielding gaze."
+
+Whenever you cast any 
+Spell
+, all Survivors within 
+6 metres
+ of a 
+Treasure Chest
+ suffer from the following effect:
+
+Their 
+Auras
+ are revealed to you for 
+4 seconds
+.
+
+Iridescent Book of Vile Darkness
+
+"The ultimate compilation of cruelty, wickedness and depravity."
+
+Whenever you use the 
+Fly
+ 
+Spell
+ to pass through a 
+Window
+, the following effects apply:
+
+Blocks
+ the 
+Window
+ for all Survivors for 
+45 seconds
+.
+
+Modifies the 
+Flight of the Damned
+ 
+Spell
+ with the following effects:
+
+Reduces
+ the Flight height of the 
+Flying Entites
+ by 
+-0.7 metres
+, allowing them to also damage Survivors who are crouching.
+
+Reduces
+ the number of 
+Flying Entities
+ summoned by the 
+Spell
+ by 
+3
+.
+
+"What chance do you have against my centuries of preparation?" — Vecna
+
+Vorpal Sword
+
+"A powerful magical artifact whose blade has severed many a head from its accompanying body."
+
+Whenever an injured Survivor enters radius of the 
+Dispelling Sphere
+, they suffer from the following effect:
+
+Inflicts the 
+Broken
+ 
+Status Effect
+ for 
+30 seconds
+.
+
+Modifies the 
+Mage Hand
+ 
+Spell
+ with the following effect:
+
+Causes it to break dropped 
+Pallets
+, instead of lifting them.
+
+This action takes 
+4 seconds
+ to complete.
+
+"Only one has ever crossed me and lived to regret it." — Vecna
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There are 
+3
+ Achievements related to 
+The Lich
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Lich
+
+Playing as The 
+Lich
+, achieve a 
+Merciless Victory
+ using only his 
+3
+ Unique Perks: 
+Weave Attunement
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"You are so attuned to magical energies that you can sense even minor ripples around enchantments."
+
+Whenever an 
+Item
+ is depleted for the first time, it is automatically dropped:
+
+The 
+Auras
+ of dropped 
+Survivor Items
+ are revealed to you, as well as the Auras of any Survivors within 
+12 metres
+ of them.
+
+Affected Survivors see the Aura of that 
+Item
+ as well.
+
+Causes Survivors picking up a 
+Survivor Item
+ to suffer from the 
+Oblivious
+ 
+Status Effect
+ for 
+20
+/
+25
+/
+30
+ 
+seconds
+.
+
+"No number of novelties will protect you from me!" — Vecna
+
+, 
+Languid Touch
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Your dreadful aura is so suffocating that even terrifying scenes tire your prey."
+
+When a Survivor scares off a 
+Crow
+ within 
+36 metres
+ of your location, 
+Languid Touch
+ activates:
+
+Causes that Survivor to suffer from the 
+Exhausted
+ 
+Status Effect
+ for 
+6
+/
+8
+/
+10
+ 
+seconds
+.
+
+Languid Touch
+ has a cool-down of 
+5 seconds
+.
+
+"Submit to me. It is inevitable." — Vecna
+
+, and 
+Dark Arrogance
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+This description is based on the changes announced for or featured in the upcoming Patch 10.2.0
+"When everything is going right, you are an inescapable inevitability."
+
+Whenever you are vaulting a 
+Window
+, you benefit from the following effect:
+
+Increases
+ the Vaulting speed by 
+15
+/
+20
+/
+25
+ 
+%
+.
+
+Increases
+ all basic-attack recovery speeds by 
+15
+/
+20
+/
+25
+ 
+%
+.
+
+Whenever you are stunned with a 
+Pallet
+ or blinded by any means, you suffer from the following effects:
+
+Reduces
+ the Recovery speed from 
+Pallet Stuns
+ by 
+-25 
+.
+
+Increases
+ the duration of 
+Killer Blinds
+ by 
++25 
+.
+
+"Run all you want. I will not be denied." — Vecna
+
+.
+
+Battle Caster
+
+Playing as The 
+Lich
+, successfully hit Survivors within 
+15 seconds
+ of casting a 
+Spell
+ a total of 
+25 times
+.
+
+Rightful Owner
+
+Playing as The 
+Lich
+, retrieve either the 
+Eye of Vecna
+ or the 
+Hand of Vecna
+ from a downed Survivor on 
+Death Hook
+ and end the Trial with all Survivors either killed or sacrificed.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Lich
+:
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+The Lich
+
+Common
+
+A mighty wizard who transcended life and death in his quest for power.
+
+Natural Armor
+
+Common
+
+The fine golden filigree conformed perfectly to his withered, undead form.
+
+Afterthought Dagger
+
+Common
+
+Blade in hand, he fought with ferocity - even when he lost his eye and hand to the one who betrayed him.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Bloody Lich
+
+Rare
+
+A mighty wizard who transcended the bloody grip of death in his brutal pursuit of power.
+
+Blood Stain Armor
+
+Rare
+
+The blood glistened against the fine golden filigree, a mark of his latest conquest.
+
+Bloody Afterthought
+
+Rare
+
+Blade in hand, he sliced through his enemy – even as blood poured from his arm and face.
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+A mighty wizard who transcended life and death in his quest for power.
+
+Alternatives
+
+DLC
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Blade of Mayhem
+
+Common
+
+He searched for power across the multiverse with his blade by his side, leaving chaos in his wake.
+
+ Rift
+
+Expand to view content
+
+Collapse
+
+Expand
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Whispered One
+
+Dungeons & Dragons
+
+03 June 2024 (Monday)
+
+Description
+
+Only one deity was powerful enough to successfully invade the floating city of Sigil.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Immutable Crown
+
+Dungeons & Dragons
+
+His incursion caused powerful disruptions that reverberated through the multiverse.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Armor of Many Trophies
+
+Dungeons & Dragons
+
+With the City of Doors under his control, absolute power was well within his grasp.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Iniquitous Dagger
+
+Dungeons & Dragons
+
+A conqueror's blade created through secret rituals, pulsing with immense power.
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Decaying King
+
+Dungeons & Dragons
+
+16 January 2025 (Thursday)
+
+Description
+
+A great cult emerged in Vecna's wake, loyal followers who built temples in his honor.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rusted Crown
+
+Dungeons & Dragons
+
+Followers believed he was punished for becoming too powerful, and they sought retribution.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Melted Dreams
+
+Dungeons & Dragons
+
+They lit candles before a stone statue of his likeness, wishing for him to make his triumphant return.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Foul Orb
+
+Dungeons & Dragons
+
+Little did they know that the one they worshipped would spend eternity trapped in a distant realm.
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Masquerade Lich
+
+Twisted Masquerade
+
+25 June 2026 (Thursday)
+
+Description
+
+The crowd fell silent as he entered the hall. One zealous guest fell to his knees and begged for his blessing.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Vecna's Mask
+
+Twisted Masquerade
+
+The air crackled with tension. Guests fell before The Lich in a frenzy, each of them screaming to be chosen.
+
+Piece
+
+Name
+
+Collection
+
+Gilded Vestments
+
+Twisted Masquerade
+
+They clawed at each other's arms, throats, eyes, tearing flesh to win the approval of their new master.
+
+Piece
+
+Name
+
+Collection
+
+Blade of Fate
+
+Twisted Masquerade
+
+In the bloody aftermath, only one guest remained. Vecna readied his weapon and bestowed his blessing at last.
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Lich
+ is part of 
+1
+ DLC:
+
+Dungeons & Dragons
+
+Change Log
+
+Patch 8.0.2
+Patch 8.1.0
+Patch 8.4.0
+Patch 9.0.0
+Patch 8.0.2
+
+Nerf
+: increased the SFX volume for spawning 
+Flight of the Damned
+ skeletons to provide better auditory awareness to Survivors when using the 
+Spell
+.
+
+Reversal
+: increased the Pallet-Lift time for 
+Mage Hand
+ from 
+0.35 seconds
+ to 
+0.5 seconds
+, reverting it back to its PTB value.
+
+This nerf was motivated by the 
+Spell
+ being considered a bit too oppressive with the live build also having considerably increased the Movement speed of 
+The Lich
+ during the Cool-down phase that follows casting the 
+Spell
+.
+Patch 8.1.0
+
+Undocumented Change
+: added a new Lobby animation for 
+The Lich
+.
+
+Undocumented Reversal
+: reverted 
+The Lich's
+ Layer 3 Terror Radius to be the same as it was in the PTB.
+Patch 8.4.0
+
+Change
+: adjusted the Cool-down durations of all 
+Spells
+:
+
+Buff
+: 
+Fly
+: reduced it from 
+38 seconds
+ to 
+25 seconds
+.
+
+Buff
+: 
+Flight of the Damned
+: reduced it from 
+38 seconds
+ to 
+35 seconds
+.
+
+Buff
+: 
+Dispelling Sphere
+: reduced it from 
+38 seconds
+ to 
+35 seconds
+.
+
+Nerf
+: 
+Mage Hand
+: increased it from 
+38 seconds
+ to 
+40 seconds
+.
+
+Nerf
+: increased the Cool-down time after cancelling a 
+Spell Cast
+ from 
+1 second
+ to 
+1.25 seconds
+.
+
+Nerf
+: reduced the time 
+Magic Items
+ stay disabled for after passing through the 
+Dispelling Sphere
+ from 
+60 seconds
+ to 
+45 seconds
+.
+Patch 9.0.0
+
+Undocumented Buff
+:  Decreased the SFX volume for when 
+Flight of the Damned
+ Spectral Entities spawn in, reverting it back to its release state.
+
+Buff
+: Removed the initial cool-down of 
+15 seconds
+ previously applied to all 
+Spells
+ at the start of a Trial.
+
+Buff
+: Reduced the Cool-down durations of all 
+Spells
+:
+
+Fly
+: Reduced it from 
+25 seconds
+ to 
+20 seconds
+.
+
+Flight of the Damned
+: Reduced it from 
+35 seconds
+ to 
+30 seconds
+.
+
+Dispelling Sphere
+: Reduced it from 
+35 seconds
+ to 
+30 seconds
+.
+
+Mage Hand
+: Reduced it from 
+40 seconds
+ to 
+35 seconds
+.
+
+Buff
+: Increased the duration of 
+Fly
+ from 
+4 seconds
+ to 
+5 seconds
+.
+
+Buff
+: Adjusted the behaviour of the 
+Dispelling Sphere
+ from moving at a constant speed to instead start off moving quickly and then slowing down over time:
+
+Increased 
+Dispelling Sphere
+ minimum travel speed from 
+5.5 m/s
+ to 
+6.5 m/s
+.
+
+Increased 
+Dispelling Sphere
+ maximum travel speed from 
+5.5 m/s
+ to 
+9.75 m/s
+.
+
+Buff
+: Increased the 
+Killer Instinct
+ duration once Survivors exit the 
+Dispelling Sphere
+ from 
+3 seconds
+ to 
+5 seconds
+.
+
+Buff
+: Removed the 
+Post-Dispelling Sphere Activation
+ Cool-down.
+
+Quality of Life
+: Adjusted the Hold time of the 
+Mage Hand
+ to make it consistent for both the Killer and Survivor POVs, resolving a known bug:
+
+Increased Hold time after a Pallet has been lifted up by 
+Mage Hand
+ from 
+0.015 seconds
+ to 
+0.55 seconds
+.
+
+Nerf
+: Increased the Cool-down time of 
+Fly
+ from 
+2.5 seconds
+ to 
+2.75 seconds
+.
+
+Nerf
+: Increased Haste Effect Duration given to Survivors for the 
+Interloper
+ from 
+3.5 seconds
+ to 
+4 seconds
+.
+
+Nerf
+: Increased the Aura Reading Effect given to Survivors linger duration of 
+Magic Items
+ when casting the associated 
+Spells
+ from 
+1.5 seconds
+ to 
+2 seconds
+.
+
+Trivia
+
+General
+
+The Lich
+ is the first killer to originate from a tabletop game.
+
+The Lich
+ is the third Killer to not physically interact with the environment or Survivors, relying solely on his magical forces and conjurations to manipulate the environment.
+
+The Lich's
+ Prestige order was reversed compared to other Killers, with 
+Prestige 4
+ granting the bloodstained headpiece instead of the bloodstained weapon. This was reverted back to the default order with the Patch 8.4.0.
+
+While rare, it is possible for a Survivor to be hit with two 
+Flying Entities
+ at once, resulting in an instant down.
+
+The Lich
+ is only the second Killer since The 
+Nurse
+ who floats and glides across the floor instead of walking, although arguably the third if you count 
+Dredge
+ as floating as they don't have a lower body.
+
+In a similar manner to her, he uses telekinesis to interact with Props instead of his own hands.
+
+The image used on the 
+Vorpal Sword
+ iridescent addon, is in fact the Sword of Kas and not the actual Vorpal Sword from D&D.
+
+Flight of the damned
+, 
+Mage Hand
+ and 
+Fly
+ are all spells Vecna has on his official character stat block.
+
+Dispelling Sphere
+ is a combination of 
+detect and dispel magic spells
+ which Vecna also uses on his stat block.
+
+The Lich
+ is where The 
+First
+'s nickname 
+"Vecna"
+ comes from, given to him by the cast of Stranger Things.
+
+Character Memes
+
+Upon the release of the 
+Dungeons & Dragons
+ Chapter, the introductory cinematic played automatically every time the game was launched, featuring a brief unskippable delay. Because of this, players were forced to repeatedly listen to 
+The Lich's
+ opening line: "Poor [misguided wanderers]." The sheer frequency of hearing this dialogue led to 
+The Lich'
+s refering to the players as 'poor' becoming a prominent community meme heavily associated with this Chapter.
+
+Mark of Negation
+
+The Lich
+ has a magical Sigil below the back of his neck, which is called the 
+Mark of Negation
+.
+
+This Sigil was placed by The 
+Entity
+, and limits the powers of 
+Vecna
+ and prevents him from leaving the Realm.
+
+Without this Sigil, 
+Vecna
+ could potentially rival the powers of 
+The Entity
+, as both he and 
+The Entity
+ are god-like figures in their respective Lore.
+
+This was demonstrated by the fact that 
+The Lich
+ was able to prevent 
+The Entity
+ from taking him at first.
+He was only able to be captured by 
+The Entity
+ when he willingly submitted to The Fog in order to learn its dark secrets.
+
+Memento Mori
+
+The Lich
+ is the third Killer to have two entirely different Moris.
+
+The Lich's
+ default Mori features him summoning skeletons from a circle of purple flames all around the Survivor, lifting the Survivor up with his magical powers, and having the skeletons remove all of the Survivor's flesh, leaving only the bones, which then drop to the ground.
+
+The Lich's
+ 
+Recover Artefact
+ interaction features him conjuring large crystal spikes, impaling the Survivor.
+Skeletons then rise up from the ground, grab them, and pull them further onto the spikes before disappearing.
+
+The Lich
+ is the third Killer with a Mini-Mori ability.
+
+Voice Actor
+
+The Lich
+ is voiced by 
+Matthew Mercer
+, a prolific voice actor who is also known for serving as the Dungeon Master in the 
+Dungeons & Dragons
+ themed web series 
+Critical Role
+, he also played 
+Vecna
+(Due to legal reasons could only be referred to by one of his nicknames of The Whispered One, and its unknown if the animated show adaptation of the campaign will have the same problem) in the first campaign of 
+Vox Machina
+.
+
+Mercer has also voiced 
+Leon Scott Kennedy
+ and 
+Levi Ackerman
+ in their respective source materials (though not in 
+Dead by Daylight
+).
+
+Voice Lines
+
+Vecna
+ is the seventh Killer to actively speak during Trials.
+
+"Let us test their constitution." is a reference to 
+Flight of the damned
+ requiring a DC22 constitution saving throw in DND or you take 36(8d8) necrotic damage and be frightned by Vecna for a minute. Afterwards you will have to roll another constitution saving throw or take 9 (2d8) necrotic damage on each turn until the player succeeds the saving throw.
+
+Voice Line
+
+Audio
+
+Idling in the Menu
+
+"This place is unfamiliar..."
+
+"Strange powers at work."
+
+"I shall make this place mine."
+
+"What secrets does this realm hold?"
+
+"I will ascend."
+
+"I will play my role... for now."
+
+"All part of the plan."
+
+"Run as they might, I always find my quarry."
+
+No audio.
+
+"Run."
+
+No audio.
+
+Joining a Lobby
+
+"Another plane to conquer."
+
+"I will not be denied."
+
+"This shall be their resting place."
+
+"This place... intriguing."
+
+"There will be no escape."
+
+"All according to plan."
+
+"The wheels are in motion."
+
+Hooking a Survivor
+
+"A suitable sacrifice."
+
+"Your life slips away..."
+
+"Your time draws near."
+
+"Only a little longer."
+
+"I require a sacrifice."
+
+"All things end."
+
+"Die by my hand."
+
+Killing a Survivor
+
+"Join me in death."
+
+"You will make a lovely plaything."
+
+"Your tale ends here."
+
+"Perish."
+
+"Enough games."
+
+"Farewell."
+
+"This is the end."
+
+Opening the 
+Spell Selection
+ Menu
+
+"Decisions, decisions..."
+
+"Perhaps this will do..."
+
+"This one."
+
+"Yes... perfect."
+
+"I have just the thing."
+
+"Ah, here it is."
+
+"Wonderful."
+
+"What tool to unravel them?"
+
+"By which to watch them wither?"
+
+"Let us test their constitution."
+
+Selecting a 
+Spell
+
+"Arcane secrets..."
+
+"Cursed flame..."
+
+"Of many eyes..."
+
+"From the dark..."
+
+"Impossible geometry..."
+
+"Beyond the fold..."
+
+"Buried beneath..."
+
+"Endless arcana."
+
+Casting a 
+Spell
+
+"Be my eyes..."
+
+"Dispel..."
+
+"Aid me..."
+
+"Join the hunt..."
+
+"To the skies..."
+
+"Like the crows..."
+
+"Manipulate..."
+
+"Hold them..."
+
+Survivor retrieving a 
+Vecna Item
+
+"How dare you."
+
+"That belongs to me."
+
+"Brigands..."
+
+"That is not yours..."
+
+"No!"
+
+"You will pay for this."
+
+"You’ve made a huge mistake."
+
+"I will make you suffer for that."
+
+"Fool, you know not what you carry."
+
+Gallery
+
+In-game Assets
+
+The Lich
+
+The Lich (Portrait render)
+
+The Lich (Background image)
+
+Official Art
+
+Promo Artwork for 
+The Lich
+
+Outfits
+
+Decaying King Outfit
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

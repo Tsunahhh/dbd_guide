@@ -1,0 +1,3495 @@
+# Danny Johnson alias Jed Olsen
+Source: https://deadbydaylight.wiki.gg/wiki/Danny_Johnson_alias_Jed_Olsen (page complète via API, consultée le 27/09/2026)
+
+The Ghost Face
+
+Name
+
+Danny Johnson
+
+Game Alias(es)
+
+"Jed Olsen"
+
+Gender
+
+Man
+
+Origin
+
+American
+
+Power
+
+Night Shroud
+
+Power 
+Attack
+ Type
+
+Basic Attack
+
+Weapon
+
+Tactical Knife
+
+Movement Speed
+
+115 % 
+|
+ 4.6 m/s
+
+Alternate Movement speed
+
+100 % 
+|
+ 4 m/s
+(Crouch)
+
+Terror Radius
+
+24 metres
+
+Height 
+
+Average
+
+DLC
+
+Ghost Face®
+
+Voice Actor
+
+Filip Ivanovic (Art Director)
+
+Cost
+
+500 
+Auric Cells
+
+Breathing
+
+Menu Music
+
+Terror Radius Music
+
+Metadata
+
+CharID
+
+K16
+
+Danny Johnson
+ or 
+"The Ghost Face"
+, also known as 
+Jed Olsen
+, is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+He was introduced as the Killer of 
+Ghost Face®
+, a Chapter DLC released on 18 June 2019.
+
+He is a BHVR-original interpretation of the 
+Ghost Face
+ character donning the iconic mask licensed by 
+Fun World
+.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+2.1
+ 
+The Archives
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: Tactical Knife
+
+3.3
+ 
+Power: Night Shroud
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for Night Shroud
+
+3.5
+ 
+Innate Skill
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Base Cosmetics
+
+5.1.1
+ 
+Default
+
+5.1.2
+ 
+Prestige
+
+5.1.2.1
+ 
+Perk Charms
+
+5.1.2.2
+ 
+Prestige Badges
+
+5.2
+ 
+Alternatives
+
+5.2.1
+ 
+DLC
+
+5.3
+ 
+Rift
+
+5.4
+ 
+In-Game Store
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+General
+
+8.2
+ 
+Cosmetics
+
+8.3
+ 
+Developer Build Leak (3.0.0)
+
+8.4
+ 
+Lore
+
+8.5
+ 
+Original Character / Licensed Mask
+
+8.6
+ 
+Voice Actor
+
+9
+ 
+Gallery
+
+9.1
+ 
+In-game Assets
+
+9.2
+ 
+Outfits
+
+9.3
+ 
+Old Assets
+
+9.4
+ 
+Developer Build Leak (3.0.0) Assets
+
+9.5
+ 
+Concept Art
+
+Overview
+
+A stealth-focused Killer capable of approaching unseen, The Ghost Face is adept at stalking his prey. Keep tabs on each individual Survivor, patiently marking them for death – provided you can remain hidden. Lie in wait until the perfect time to strike, and down Survivors before they know what hit them.
+
+The Ghost Face
+ is a creepy Killer, able to stalk his victims and sneak up silently using his Power, 
+Night Shroud
+. Affected Survivors will find themselves vulnerable and oblivious to his presence and must use all of their perception and awareness to protect themselves from his approach.
+
+His personal Perks, 
+I'm All Ears
+, 
+Thrilling Tremors
+, and 
+Furtive Chase
+, give him the ability to locate Survivors, defend Generators, and make his Chases unpredictable.
+
+Lore
+
+Danny Johnson, known as Jed Olsen by some, grabbed the newspaper from the kitchen counter: it was a week old, but his face was on the front page, grainy and sunken. It was one of those muggy afternoons in Florida when heat and humidity permeated everything in the kitchen, making him sweat while standing still. He slouched in a damp chair to read. This article had better be good—his work in Roseville had been outstanding.
+
+GHOST FACE DISAPPEARS
+
+June 18, 1993
+
+At first glance, Jed Olsen was a modest and enthusiastic freelancer with experience in a variety of small newspapers. The staff at the Roseville Gazette appreciated how easy-going and honest he seemed, and so he was treated as a stranger for no more than five minutes into his interview:
+
+"Jed quickly spotted the editor-in-chief in the room, gave him a wide smile and a firm handshake, and talked about good old American values. And that was it, he was in." —Ex-Contributor at the Roseville Gazette
+
+Olsen never justified his erratic career path, which zigzagged between several small towns from Utah to Pennsylvania. There was no verification of his previous jobs. He had a decent portfolio plus a good attitude, and they needed a contributor right away.
+
+THE ROSEVILLE MURDERS
+
+Olsen had been working at the newspaper for five months when the Roseville Murders began: victims from young to old, stabbed to death in their homes. From the reports, the victims seemed chosen at random, yet the killer knew his way around in the houses. The multiple stab wounds indicated a personal motive. No traces of DNA were found. The local police were confounded: the murders were carried with fury akin to a crime of passion yet coldly premeditated.
+
+The murderer also liked to stalk his targets. Two victims had reported being followed on their way home by a dark figure, a few days prior their death. The killer would follow them from Walleyes, a small bar in Northern Roseville, and snap pictures of them at home, while looking for a way in. He could watch the same victim for weeks, meticulously registering their habits and routines. When he felt the urge to kill, he'd visit the most vulnerable victim on his list, and break inside the house quietly.
+
+The whole staff worked on the Roseville Murders story. Olsen was often sent to interview the family of victims and relay official statements from the police. Unknown to everyone at the time, his involvement added to the final body count.
+
+THE GHOST FACE
+
+Panic swelled in Roseville when Olsen produced footage of a hooded figure breaking into a house at night. The masked face, a white blur in the dark, stared at the camera for a second, before disappearing inside. “The Ghost Face Caught on Tape” was the resulting article, written by Olsen. He seemed proud of his work at the time, enjoying how the whole town feared his ghost stories.
+
+Weeks later, Olsen left a note on his work desk and disappeared:
+
+"I hope you liked my stories--I enjoyed bringing them to life. Don't worry, I'm not done." –Jed Olsen
+
+The Roseville law enforcement still refuses to comment as Jed Olsen remains at large.
+
+Danny smiled, ripping out the article from the newspaper. When the investigation had been pointing to him, he’d packed his bags and left Roseville swiftly.
+
+He got up, the clammy seat pulling his skin. An oppressive humidity engulfed him as he entered the bedroom. Condensation dribbled on a small misted-up window as bits of cracked wallpaper hung limply. Its floral pattern was covered with gruesome photos and newspaper headlines. Danny pinned the week-old article on top of a picture of lacerated scalps. A faint pang of hunger hit him, and he wondered when he had eaten last. Was it this morning, while washing his knife and clothes? Or was it last night, after following that girl down the street? He couldn't remember clearly.
+
+Taking a step back, he admired his work on the wall. His mind drifted, remembering all the articles he’d written, the stories he’d planned, and the scenes he’d brought to life.
+
+A shiver ran through him. A chilling breeze transformed the bedroom's humidity into an opaque, freezing Fog. A woman shrieked. Dead leaves crunched under his feet. He smiled in anticipation.
+
+The Archives
+
+The table below lists additional Lore about 
+The Ghost Face
+ from 
+The Archives
+, either from 
+Tomes
+ that featured him or from individual Lore entries that mentioned him:
+
+Tome
+
+Entry
+
+Type
+
+Tome 13 - Malevolence
+
+Beneath the Mask
+
+Featured Character
+
+Load-out
+
+Unique Perks
+
+The Ghost Face
+ comes with 
+3
+ 
+Perks
+ that are unique to him:
+
+ 
+
+Furtive Chase
+
+"You lurk in the shadows, eliminating your victims one by one."
+
+After hooking the 
+Obsession
+, you benefit from the following effects for 
+14
+/
+16
+/
+18
+ 
+seconds
+:
+
+Grants the 
+Undetectable
+ 
+Status Effect
+.
+
+Grants a 
++10 %
+ 
+Haste
+ 
+Status Effect
+.
+
+Whenever the 
+Obsession
+ is unhooked by another Survivor, the 
+Obsession
+ Status
+ transfers to their Rescuer.
+You can only be 
+obsessed
+ with one Survivor at a time.
+
+"You have no idea what I have planned for you. It'll be in the news for weeks. I'll make sure of that." — The Ghost Face
+
+ 
+
+I'm All Ears
+
+"You sharpen your keen senses in the dark Realm of The 
+Entity
+."
+
+Whenever a Survivor performs a 
+Rushed Vault
+ action within 
+48 metres
+ of your location, you benefit from the following effect:
+
+The 
+Aura
+ of the Survivor is revealed to you for 
+8 seconds
+.
+
+I'm All Ears
+ has a cool-down of 
+60
+/
+45
+/
+30
+ 
+seconds
+.
+
+"There is no need to worry. I've been preparing my whole life for this." — The Ghost Face
+
+ 
+
+Thrilling Tremors
+
+"Your dark designs and shrewd composure rouse The 
+Entity
+."
+
+After picking up a Survivor, 
+Thrilling Tremors
+ triggers its effects:
+
+Blocks
+ all 
+Generators
+ not currently being repaired by any Survivors for 
+16 seconds
+.
+
+The 
+Auras
+ of 
+Blocked Generators
+ are highlighted to you in 
+white
+.
+
+Thrilling Tremors
+ has a cool-down of 
+40
+/
+35
+/
+30
+ 
+seconds
+.
+
+"The night assists me and it's endless here." — The Ghost Face
+
+Prestige
+
+Prestiging 
+The Ghost Face
+ will automatically add 
+Tier I
+ of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Ghost Face
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: Tactical Knife
+
+The 
+Tactical Knife
+ is the Primary Weapon of 
+The Ghost Face
+.
+See how the streetlights glint on the razor-sharp edge?
+Anyone should feel honoured to feel it sliding through their ribcage.
+
+Power: Night Shroud
+
+"The Ghost Face used to study his victims for weeks, meticulously registering their habits.
+When the urge to kill swelled, he'd know exactly how and where to strike."
+SPECIAL ABILITY: NIGHT SHROUD
+Press the 
+Power button
+ to enter 
+Stealth Mode
+:
+
+Grants the 
+Undetectable
+ 
+Status Effect
+.
+
+Unlocks the ability to 
+Stalk
+ Survivors.
+
+Performing a 
+Basic Attack
+ automatically ends 
+Stealth Mode
+ and depletes the Power Gauge.
+
+Night Shroud
+ has a cool-down of 
+15 seconds
+.
+SPECIAL LOCOMOTION: CROUCHING
+Press the 
+Secondary Power button
+ to 
+Crouch
+:
+
+Reduces
+ his Movement speed to 
+4.0 m/s
+.
+
+Causes him to be harder to be spotted and revealed by Survivors.
+
+Press the 
+Secondary Power button
+ again to stand back upright.
+SPECIAL ABILITY: STALKING
+Press and hold the 
+Power button
+ when in 
+Stealth Mode
+ to start 
+Stalking
+:
+
+Reduces
+ the Walking or Crouching speed to 
+20 %
+ of their respective default values while 
+Active Stalking
+.
+
+Reduces
+ the Walking or Crouching speed to 
+50 %
+ of their respective default values while 
+Passive Stalking
+.
+
+Highlights the outline of Survivors within a range of 
+40 metres
+ of 
+The Ghost Face
+.
+
+While stalking one or multiple Survivors, their 
+Stalk Meter
+ is filling up at a default rate of 
++22.5 pts/s
+, which is indicated on the Survivor Portraits in the HUD.
+SPECIAL ABILITY: LEANING AND STALKING
+Standing behind cover when in 
+Stealth Mode
+ shows the 
+Lean and Stalk
+ prompt.
+Stalking
+ Survivors while leaning doubles its rate to 
++45 pts/s
+.
+SPECIAL STATE: MARKED
+Once the 
+Stalk Meter
+ is full at 
+100 points
+, the affected Survivors are 
+Marked
+ and suffer from the following effects for 
+60 seconds
+:
+
+Inflicts the 
+Exposed
+ 
+Status Effect
+.
+
+Suppresses
+ their ability to reveal 
+The Ghost Face
+.
+
+SPECIAL INTERACTION: REVEALING
+Survivors can attempt to reveal 
+The Ghost Face
+ when he is in 
+Stealth Mode
+, forcing him out of it and disabling his ability to continue stalking them.
+
+Survivors must see at least 
+30 %
+ of his model in the central part of their screen while he is within 
+32 metres
+ in order to start revealing him over the course of 
+1.5 seconds
+:
+
+Triggers markers on the HUD of 
+The Ghost Face
+, betraying the direction from which he is being revealed from.
+
+Triggers 
+Killer Instinct
+ for 
+4 seconds
+ after a successful reveal.
+
+"Don't mind me. That's it, keep going. Perfect. That's the image I'll keep of you." — The Ghost Face
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Active 
+Stalking
+ while crouched: 
+0.76 m/s
+
+Active 
+Stalking
+ while standing: 
+0.92 m/s
+
+The Ghost Face
+ enters this mode as soon as a Survivor enters his Field of View and is within Stalking range while 
+Stalking
+.
+
+Passive 
+Stalking
+ while crouched: 
+1.9 m/s
+
+Passive 
+Stalking
+ while standing: 
+2.3 m/s
+
+The Ghost Face
+ is in this mode whenever he is 
+Stalking
+ without seeing any Survivor in his Field of View or who is within Stalking range.
+
+Crouching: 
+4.0 m/s
+
+Reveal Mechanic:
+
+Reveal range: 
+32 metres
+
+Reveal time: 
+1.5 seconds
+
+Reveal Progression/Regression rate: 
+±1 c/s
+
+Horizontal Ratio of Visibility Zone: 
+60 %
+
+Vertical Ratio of Visibility Zone: 
+90 %
+
+The Visibility Zone refers to a screen area that is designated as the zone in which 
+The Ghost Face
+ is considered visible to the Survivor, which is a prerequisite to be able to reveal him.
+
+Minimum In-Zone percentage: 
+0.05 %
+
+This refers to how much of the screen must be occupied by 
+The Ghost Face
+ for him to be considered seen, when his centre point is INSIDE the visibility zone.
+In practice, this means that 
+The Ghost Face
+ is essentially always seen when he is centred on the Survivor's screen and will become revealed.
+
+Minimum Outside-Zone percentage: 
+10 %
+
+This refers to how much of the screen must be occupied by 
+The Ghost Face
+ for him to be considered seen, when his centre point is OUTSIDE the visibility zone.
+In practice, this means that even if 
+The Ghost Face
+ is not centred on the Survivor's screen, he can still be revealed if he occupies a considerable part of their 
+Field of View
+ (i.e. when he is very close).
+
+Minimum Pixel Visibility: 
+30 %
+
+This refers to how many pixels of 
+The Ghost Face's
+ character model must be visible to the Survivor to be considered seen.
+
+Night Shroud:
+
+Maximum Stalk range: 
+40 metres
+
+Not-Leaning Stalk rate: 
+22.5 Stalk points per second
+
+Leaning Stalk rate: 
+45 Stalk points per second
+
+Leaning applies a multiplier of 
+x2
+
+Unlike The 
+Shape
+, 
+The Ghost Face
+ experiences no Efficiency Penalty, which allows him to 
+stalk
+ Survivors at the same rate regardless of the distance to them.
+
+Marked
+ threshold: 
+100 Stalk points
+
+There is a delay of 
+2 seconds
+ after marking a Survivor before the Stalk Points start to deplete.
+
+There is a delay of 
+1.5 seconds
+ before 
+Night Shroud
+ starts recharging.
+
+The Ghost Face's
+ Terror Radius fades in and out at a rate of 
+10 m/s
+ when activating 
+Night Shroud
+ or when being revealed.
+
+Add-ons for Night Shroud
+
+Icon
+
+Name
+
+Description
+
+"Philly"
+
+A stolen camera from a victim of Olsen in Philadelphia, where he worked before.
+The film inside captured his last night in the city.
+
+Reduces
+ the Time to mark Survivors by 
+-10 %
+.
+
+"Gotta love Philly: keeps giving and giving and I do not wanna forget any of it." — The Ghost Face
+
+Cheap Cologne
+
+Dollar store cologne with a pungent scent of rubbing alcohol.
+Worn by The Ghost Face to make his presence known.
+Reserved for impromptu visits.
+
+Increases
+ the duration of 
+Marked
+ by 
++10 seconds
+.
+
+Headline Cut-Outs
+
+Cut-outs of articles covering unsolved murder cases from Utah to Pennsylvania.
+While The Ghost Face just authored some of the headlines, he committed all of the murders.
+Compiling your success makes you proud and boosts your confidence.
+
+Increases
+ your Movement speed while 
+Stalking
+ by 
++40 %
+.
+
+Walleye's Matchbook
+
+A sheet of matches from Walleye's, a small bar in Northern Roseville.
+A victim's phone number is scribbled in blue.
+One of the incriminating pieces of evidence found.
+
+Reduces
+ the Power Recharge time by 
+-2 seconds
+.
+
+Cinch Straps
+
+Black straps that keep everything in place while on the prowl.
+
+Causes 
+Night Shroud
+ to remain active on missed 
+Basic Attacks
+.
+
+Marked Map
+
+The annotated map of Northern Roseville, Florida.
+Each 'X' represents a victim of The Ghost Face.
+Mapping out your targets allows you to roam the streets undetected.
+
+Increases
+ the duration of 
+Killer Instinct
+ by 
++2 seconds
+.
+
+Olsen's Address Book
+
+Filled in blunt, blue crabbed writing.
+All the Roseville murder victims are listed there, along with their phone number and address.
+
+The 
+Auras
+ of 
+Marked Survivors
+ performing rushed actions are revealed to you for 
+5 seconds
+.
+
+Olsen's Journal
+
+A spiral notebook filled with stained, handwritten entries.
+The journal details different equipment used to stalk victims.
+Going through your past methods triggers thrilling memories.
+
+Marked Survivors
+ suffer from the 
+Oblivious
+ 
+Status Effect
+.
+
+Telephoto Lens
+
+A manual focus lens to remain undetected while taking pictures from afar.
+
+Survivors suffer from the 
+Oblivious
+ 
+Status Effect
+ for 
+60 seconds
+ after revealing you.
+
+Chewed Pen
+
+A blue pen with a chewed cap that holds traces of Danny's DNA.
+Incriminating evidence that was never found.
+
+Increases
+ the Reveal time for Survivors in the 
+Dying State
+ to 
+3 seconds
+.
+
+Knife Belt Clip
+
+A perfect belt clip to scout carry your blade discreetly.
+No one knows what you are planning to do tonight.
+
+Reduces
+ your 
+Terror Radius
+ by 
+-12 metres
+ when 
+Crouched
+.
+
+Lasting Perfume
+
+An overpowering musky fragrance worn by The Ghost Face to announce his presence.
+Reserved for the victims he planned to write about.
+
+Increases
+ the Reveal time for Survivors on a 
+Hook
+ to 
+3 seconds
+.
+
+Leather Knife Sheath
+
+A quiet and flexible sheath to carry your blade.
+Movement is easier when things are fastened into place.
+
+Increases
+ your Movement Speed by 
++10 %
+ when 
+Crouched
+.
+
+Olsen's Wallet
+
+Olsen's wallet holds thirty dollars in cash, a video club membership card, and a folded picture of Olsen's first Roseville victim.
+Carrying incriminating evidence boosts your excitement and resolve.
+
+Instantly recharges 
+Night Shroud
+ after breaking a 
+Breakable Wall
+ or a 
+Pallet
+.
+
+Driver's License
+
+A driver's license revealing Olsen's true identity: Danny Johnson.
+
+Causes 
+Generators
+ to explode and lose 
+-20 %
+ of its maximum possible Progression, when marking a Survivor repairing it, and blocks it for 
+15 seconds
+.
+
+This penalty is only once if multiple repairing Survivors are marked.
+
+"They all want to know who Ghost Face is. But what they should ask is: who is next?" — The Ghost Face
+
+Drop-Leg Knife Sheath
+
+A sheath allowing for a full motion range: ideal to inflict quick and powerful wounds while moving freely.
+Stolen from a patrol officer the night Danny left Philadelphia.
+
+Grants a 
++10 % 
+ 
+Haste
+ 
+Status Effect
+ for 
+5 seconds
+ after marking a Survivor.
+
+"Gotta get ready like a scout — without the stupid patches. What I get is much better." — The Ghost Face
+
+Night Vision Monocular
+
+Night vision lens enabling sharp photos even when shrouded in darkness.
+Ideal for discreet, impromptu visits late at night.
+
+Survivors suffer from the 
+Exhausted
+ 
+Status Effect
+ for 
+10 seconds
+ after revealing you.
+
+Victim's Detailed Routine
+
+A ripped page outlining the weekly routine of Olsen's first victim in Roseville.
+Compiling your victim's habits allows you to anticipate their movements.
+
+Survivors suffer from the 
+Exhausted
+ 
+Status Effect
+ for 
+5 seconds
+ after marking them.
+
+"I have been watching you for a while. I wanted this to be special; the kind of headlines that people do not forget." — The Ghost Face
+
+"Ghost Face Caught on Tape"
+
+A tape obtained by Olsen to write an article that terrorised Roseville.
+
+Instantly recharges 
+Night Shroud
+ after putting a Survivor into the 
+Dying State
+ with a 
+Basic Attack
+.
+
+"In this footage, a dark figure is seen entering a house late at night in Northern Roseville, Florida.
+The police were called the next morning to report a murder in the area.
+Lock your doors: a Killer is in our midst, roaming freely, like a ghost in the night." — The Roseville Gazette
+
+Outdoor Security Camera
+
+A small surveillance camera that filmed The Ghost Face breaking into a house on Belleview Road in Northern Roseville.
+The camera was positioned at the perfect angle to catch a glimpse of The Ghost Face without providing any real clue to the police.
+
+The 
+Auras
+ of all Survivors are revealed to you for 
+7 seconds
+ after putting a 
+Marked Survivor
+ into the 
+Dying State
+.
+
+"An image is worth a thousand words." — The Ghost Face
+
+Innate Skill
+
+Used exclusively in 
+2v8
+ Trials, the 
+Innate Skill
+ modifies 
+Night Shroud
+ with the following effects:
+
+Innate Skill
+ (
+Ghost Face Passive
+) 
+
+Modifies 
+Night Shroud
+ with the following effects:
+
+Increases
+ its Recharge rate by 
++20 %
+.
+
+While 
+Night Shroud
+ is active:
+
+Increases
+ his Movement speed by 
++10 %
+.
+
+While 
+Stalking
+:
+
+Increases
+ the Stalk rate by 
++15 %
+.
+
+Marked Survivors
+:
+
+Halves
+ the duration of their 
+Exposed
+ 
+Status Effect
+ to 
+30 seconds
+.
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There are 
+2
+ Achievements related to 
+The Ghost Face
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Ghost Face
+
+Playing as The 
+Ghost Face
+, achieve a 
+Merciless Victory
+ using only his 
+3
+ Unique Perks: 
+I'm All Ears
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"You sharpen your keen senses in the dark Realm of The 
+Entity
+."
+
+Whenever a Survivor performs a 
+Rushed Vault
+ action within 
+48 metres
+ of your location, you benefit from the following effect:
+
+The 
+Aura
+ of the Survivor is revealed to you for 
+8 seconds
+.
+
+I'm All Ears
+ has a cool-down of 
+60
+/
+45
+/
+30
+ 
+seconds
+.
+
+"There is no need to worry. I've been preparing my whole life for this." — The Ghost Face
+
+, 
+Thrilling Tremors
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Your dark designs and shrewd composure rouse The 
+Entity
+."
+
+After picking up a Survivor, 
+Thrilling Tremors
+ triggers its effects:
+
+Blocks
+ all 
+Generators
+ not currently being repaired by any Survivors for 
+16 seconds
+.
+
+The 
+Auras
+ of 
+Blocked Generators
+ are highlighted to you in 
+white
+.
+
+Thrilling Tremors
+ has a cool-down of 
+40
+/
+35
+/
+30
+ 
+seconds
+.
+
+"The night assists me and it's endless here." — The Ghost Face
+
+, and 
+Furtive Chase
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"You lurk in the shadows, eliminating your victims one by one."
+
+After hooking the 
+Obsession
+, you benefit from the following effects for 
+14
+/
+16
+/
+18
+ 
+seconds
+:
+
+Grants the 
+Undetectable
+ 
+Status Effect
+.
+
+Grants a 
++10 
+ 
+Haste
+ 
+Status Effect
+.
+
+Whenever the 
+Obsession
+ is unhooked by another Survivor, the 
+Obsession
+ Status
+ transfers to their Rescuer.
+You can only be 
+obsessed
+ with one Survivor at a time.
+
+"You have no idea what I have planned for you. It'll be in the news for weeks. I'll make sure of that." — The Ghost Face
+
+.
+
+Totally Vulnerable
+
+Playing as The 
+Ghost Face
+, down 
+Marked Survivors
+ a total of 
+50 times
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Ghost Face
+:
+
+Base Cosmetics
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Ghost Face
+
+Common
+
+Just a simple plastic mask. Anyone could be behind it, using its anonymity to kill for their own reasons.
+
+Dreadful Shroud
+
+Common
+
+For the killer that needs concealment, but craves attention. Black fabrics help give cover, white glossy textures provide fashionable accents.
+
+Tactical Knife
+
+Common
+
+See how the streetlights glint on the razor-sharp edge? Anyone should feel honored to feel it sliding through their ribcage.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Bloody Ghost Face
+
+Rare
+
+Just a simple plastic mask, though its expression seems different when blood-spattered.
+
+Prestige Level 6 Reward
+
+Sodden Shroud
+
+Rare
+
+The long jacket helps to keep the rest of the clothes dry as blood splashes with each stab of the knife.
+
+Prestige Level 5 Reward
+
+Wet Tactical Knife
+
+Rare
+
+Even with the blade drenched in blood, the guard keeps the handle dry.
+
+Prestige Level 4 Reward
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+The masked face, a white blur in the dark.
+
+Alternatives
+
+DLC
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+DLC
+
+Monochrome Shroud
+
+Common
+
+Black for the night, white for the traditional shroud of death.
+
+CHAPTER 12: Ghost Face®
+
+Silvery Steel Tactical Knife
+
+Common
+
+The coloured handle may not affect the blade, but it certainly looks sharper.
+
+CHAPTER 12: Ghost Face®
+
+ Rift
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Ghost Face Brush Hunter
+
+Beneath The Mask
+
+Tome 13 - Malevolence
+
+26 October 2023 (Thursday)
+
+Description
+
+Not content to merely stalk those in their homes, he sometimes took to the wilderness to track and kill his victims.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Metal Ghost Face
+
+Beneath The Mask
+
+63
+
+A villainous glint of steel was the only sign his prey received that they were about to die.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Backwood Shroud
+
+Beneath The Mask
+
+1
+
+Among the rotting brush, he was nearly invisible in this jumpsuit.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Survivalist’s Blade
+
+Beneath The Mask
+
+39
+
+Ironically, when he carried this knife, there would be no “surviving.”
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Ghost Face Brush Hunter (Deep Rift)
+
+Deep Rift
+
+Tome 13 - Malevolence
+
+12 June 2018 (Tuesday)
+
+Description
+
+Not content to merely stalk those in their homes, he took to the trials to track and kill his victims.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Metal Ghost Face (Deep Rift)
+
+Deep Rift
+
+85
+
+A otherworldly blue glint was the only sign his prey received that they were about to die.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Backwood Shroud (Deep Rift)
+
+Deep Rift
+
+75
+
+Among the swirling fog, he was nearly invisible in this jumpsuit.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Survivalist’s Blade (Deep Rift)
+
+Deep Rift
+
+80
+
+Ironically, when he had this knife in the trials, survival was not in the cards for his prey.
+
+Piece
+
+Name
+
+Collection
+
+Tome
+
+Rift Tier
+
+Zombie Ghost Face
+
+Beneath The Mask
+
+Tome 13 - Malevolence
+28
+
+A mask perfect for stalking during the end of the world.
+
+250
+
+Piece
+
+Name
+
+Collection
+
+Tome
+
+Rift Tier
+
+Scarecrow Ghost Face
+
+Beneath The Mask
+
+Tome 13 - Malevolence
+44
+
+Crows are not the primary target of this mask’s scares.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Tome
+
+Rift Tier
+
+Wassup Ghost Face
+
+Beneath The Mask
+
+Tome 13 - Malevolence
+70
+
+Putting the laughter back in slaughter.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Tome
+
+Rift Tier
+
+Bleeding Ghost Face
+
+Beneath The Mask
+
+Tome 13 - Malevolence
+68
+
+Gore streams endlessly down this ghastly yawning visage.
+
+480
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Frozen Ghost Face
+
+COLORS OF NIGHT
+
+18 June 2019 (Tuesday)
+
+Description
+
+Temperature changes are common in hauntings. Even when the ghosts are less than supernatural?
+
+180
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Icy Shroud
+
+COLORS OF NIGHT
+
+Colored accents somehow make the black parts of this coat seem even darker.
+
+100
+
+Piece
+
+Name
+
+Collection
+
+Cold Steel Tactical Knife
+
+COLORS OF NIGHT
+
+The colored handle may not affect the blade, but it certainly looks sharper.
+
+100
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Red Hot Ghost Face
+
+COLORS OF NIGHT
+
+18 June 2019 (Tuesday)
+
+Description
+
+Temperature changes are common in hauntings. Even when the ghosts are less than supernatural?
+
+180
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Scorching Shroud
+
+COLORS OF NIGHT
+
+Colored accents somehow make the black parts of this coat seem even darker.
+
+100
+
+Piece
+
+Name
+
+Collection
+
+Molten Steel Tactical Knife
+
+COLORS OF NIGHT
+
+The colored handle may not affect the blade, but it certainly looks sharper.
+
+100
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Icebound Phantom
+
+Everlasting Frost
+
+30 November 2021 (Tuesday)
+
+Description
+
+During the Darkening, glacial winds blew from the Lost Realms, spreading an everlasting frost of penetrating ice clusters.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Arctic Ghost Face
+
+Everlasting Frost
+
+The face of death, pierced by clusters of razor-sharp ice.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Glacial Shroud
+
+Everlasting Frost
+
+Dark shroud of death ripped apart by a multitude of ice shards.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Crisp Tactical Knife
+
+Everlasting Frost
+
+A tactical knife entrapped in a thick, pointy spike of ice.
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Classic Ghost Face
+
+Classic Ghost Face
+
+13 November 2019 (Wednesday)
+
+Description
+
+He grabbed this garb impulsively, to spice things up. He had no idea how iconic this look would become for his victims.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Classic Ghost Face
+
+Classic Ghost Face
+
+Face of terror that reflects the fear of victims back at them.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Classic Ghost Face Shroud
+
+Classic Ghost Face
+
+A long, tattered cloak to stalk victims in the middle of the night, unseen by all.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+First Blade
+
+Classic Ghost Face
+
+A fixed-blade knife used on the first victim that began a legend.
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Raining Blood
+
+DEMON GHOST FACE
+
+18 June 2019 (Tuesday)
+
+Description
+
+The knife finds its mark. With a gasp from the victim, it sinks home, is withdrawn and the blood gushes forth.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Devil Face
+
+DEMON GHOST FACE
+
+Painted crimson and adorned with horns, the mask glows with a new malevolence.
+
+400
+
+File:OK body02.png
+
+Piece
+
+Name
+
+Collection
+
+City Slicker
+
+DEMON GHOST FACE
+
+An urban take on Ghost Face's shroud, utilizing a tattered rain cape. Sheds blood so well, every Ghost Face should have used it.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Damascus Steel Clip Point Blade
+
+DEMON GHOST FACE
+
+A knife as beautiful and deadly as its use.
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Masquerade Ghost Face
+
+Twisted Masquerade
+
+25 June 2026 (Thursday)
+
+Description
+
+He was surprised by the festivities but didn’t say no to the attention.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Ghost Face’s Mask
+
+Twisted Masquerade
+
+A mask he found himself wearing at the masquerade ball.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Twisted Baron
+
+Twisted Masquerade
+
+He was dressed in a refined Rococo jacket which made him feel powerful.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Golden Blade
+
+Twisted Masquerade
+
+A golden blade made the murder even more precious.
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Ghost Face Santa
+
+Holiday Horror
+
+09 December 2025 (Tuesday)
+
+Description
+
+Christmas spirit filled the frosty air and Danny had one name on his naughty list.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Ho Ho No
+
+Holiday Horror
+
+He followed Old Saint Nick through the empty parking garage, until the big guy reached his car.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Ribbons and Bows
+
+Holiday Horror
+
+He shoved Nick into the trunk of the car, taping his mouth and binding his wrists and ankles.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Nasty Present
+
+Holiday Horror
+
+A mall Santa murdered on Christmas? A perfect front page story for the holiday season.
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Ghost Face Brush Hunter
+
+Beneath The Mask
+
+Tome 13 - Malevolence
+
+26 October 2023 (Thursday)
+
+Description
+
+Not content to merely stalk those in their homes, he sometimes took to the wilderness to track and kill his victims.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Metal Ghost Face
+
+Beneath The Mask
+
+63
+
+A villainous glint of steel was the only sign his prey received that they were about to die.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Backwood Shroud
+
+Beneath The Mask
+
+1
+
+Among the rotting brush, he was nearly invisible in this jumpsuit.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Survivalist’s Blade
+
+Beneath The Mask
+
+39
+
+Ironically, when he carried this knife, there would be no “surviving.”
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Scorched Ghost Face
+
+Hallowed Curse
+
+20 October 2020 (Tuesday)
+
+Description
+
+A specimen who reacted strangely to the latest compounds, resulting in unexpected mutations that cannot yet be explained.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Scorched Ghost Face
+
+Hallowed Curse
+
+Where the mask ends and the human begins is difficult to determine, the two having melded together.
+
+Piece
+
+Name
+
+Collection
+
+Demon Night
+
+Hallowed Curse
+
+Flaps of skin resembling bat wings hang from his arms. He seems immune to any pain caused by the gaping hole in his belly that reveals a cluster of organs.
+
+Piece
+
+Name
+
+Collection
+
+Gut Tooth
+
+Hallowed Curse
+
+A barbed and uneven blade that causes horrific wounds and inflicts a cruel amount of pain.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Slash Enthusiast
+
+LEGACY
+
+07 August 2019 (Wednesday)
+
+Description
+
+A man with murder on his mind must prepare for blood on his jacket.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Silver Ghost Face
+
+LEGACY
+
+A mask that masterfully captures the pain and anguish on a victim’s face and reflects it coldly, heartlessly back at them.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Unknown Assailant
+
+LEGACY
+
+Full body jacket that repels liquids and can easily be scrubbed of evidence. Best suited for rainy days and bloody nights.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Bone Handle Clip Point
+
+LEGACY
+
+The femoral bone of an unsolved murder victim serves as the custom hilt on this hunting blade.
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Ghost Face Nevermore
+
+Guardians & Shadows
+
+15 May 2025 (Thursday)
+
+Description
+
+He gathered the bodies, thinking of what would make the best story in tomorrow's paper, when an ominous raven flew in through the window.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Slayer Beak
+
+Guardians & Shadows
+
+The only sound it made was the flutter of its wings. Jed was awestruck as the raven perched atop a nearby bookshelf.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Dreadful Feather
+
+Guardians & Shadows
+
+He stared into the raven's dark, knowing eyes, his heart growing heavier and heavier. In an instant, he understood everything.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Talon Blade
+
+Guardians & Shadows
+
+The police would catch him soon. He would need to leave Roseville behind. The raven watched as Jed gathered his things and made his escape.
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Viper Ghost
+
+Party Crasher
+
+25 March 2020 (Wednesday)
+
+Description
+
+As fear spread in Roseville, university students launched a masked party to lighten the mood.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Viper Ghost Mask
+
+Party Crasher
+
+Unknown to them, he attended the event wearing a customized mask.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Demonic Robe
+
+Party Crasher
+
+His robe enabled him to sneak into the party, unsuspectedly.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Onyx Knife
+
+Party Crasher
+
+He plunged the sharp blade into a frat boy's eye socket. Blood gushed as he snapped a selfie. This one would make the headlines.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Tome
+
+Rift Tier
+
+Zombie Ghost Face
+
+Beneath The Mask
+
+Tome 13 - Malevolence
+28
+
+A mask perfect for stalking during the end of the world.
+
+250
+
+Piece
+
+Name
+
+Collection
+
+Ghost Face Gold Cat Mask
+
+Cats & Dogs
+
+He went on the prowl, looking to play with his next kill.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Tome
+
+Rift Tier
+
+Scarecrow Ghost Face
+
+Beneath The Mask
+
+Tome 13 - Malevolence
+44
+
+Crows are not the primary target of this mask’s scares.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Tome
+
+Rift Tier
+
+Wassup Ghost Face
+
+Beneath The Mask
+
+Tome 13 - Malevolence
+70
+
+Putting the laughter back in slaughter.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Tome
+
+Rift Tier
+
+Bleeding Ghost Face
+
+Beneath The Mask
+
+Tome 13 - Malevolence
+68
+
+Gore streams endlessly down this ghastly yawning visage.
+
+480
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Ghost Face
+ is part of 
+1
+ DLC:
+
+Ghost Face®
+
+Change Log
+
+Patch 3.0.1
+Patch 3.3.1
+Patch 4.7.0
+Patch 5.3.0
+Patch 5.7.0
+Patch 5.7.1
+Patch 5.7.2
+Patch 6.1.0
+Patch 7.0.0
+Patch 8.4.0
+Patch 8.6.0
+Patch 9.6.0
+Patch 9.6.1
+Patch 3.0.1
+
+Buff
+: increased the base 
+Killer Instinct
+ duration from 
+1.5 seconds
+ to 
+2 seconds
+.
+
+Nerf
+:
+ increased the Detection Area in the centre of a Survivor's screen, who is attempting to reveal 
+The Ghost Face
+ by 
++4 %
+ for either side (combined 
+8 %
+).
+
+Quality of Life
+: removed the Proximity Sound emitted during 
+Night Shroud
+, leaving only the rustling clothes as a warning sign to Survivors.
+Patch 3.3.1
+
+Buff
+: updated 
+The Ghost Face's
+ Power with the 
+Undetectable
+ 
+Status Effect
+.
+Patch 4.7.0
+
+Quality of Life
+: increased the contrast of the 
+Stalking Meter
+ on the HUD.
+Patch 5.3.0
+
+Buff
+: reduced 
+Night Shroud
+ Recharge time from 
+30 seconds
+ to 
+24 seconds
+.
+Patch 5.7.0
+
+Rework
+:
+ reworked 
+The Ghost Face
+ to give him more of an edge against Survivors.
+
+Buff
+: 
+Marked
+ Survivors can no longer reveal 
+The Ghost Face
+.
+
+Buff
+: increased the duration of 
+Marked
+ from 
+45 seconds
+ to 
+60 seconds
+.
+
+Quality of Life
+: reviewed the technical implementation of the Stalk and Reveal mechanics.
+
+Reveal progression now regresses over time if a Survivor loses line-of-sight (used to be lost completely immediately).
+
+added differentiation to the zone in which the target must be to be revealed or be stalked to account for differences in 1st and 3rd person cameras.
+
+made it possible to reveal 
+The Ghost Face
+ / stalk Survivors when he / they are not in the centre of the screen, but still take up a large amount of it (i.e. when very close).
+
+Change
+:
+ 
+The Ghost Face
+ now features a unique 
+Terror Radius
+ and Chase Music.
+
+Change
+:
+ tweaked some values related to the Stalking ability due to a technical rework of the mechanic.
+Patch 5.7.1
+
+Change
+:
+ reduced the volume levels of the Terror Radius / Chase Music while working on an entirely new theme due to recurrent complaints about the current one's loudness.
+Patch 5.7.2
+
+Change
+:
+ 
+The Ghost Face
+ now features another unique 
+Terror Radius
+ and Chase Music due to complaints about the previous theme.
+Patch 6.1.0
+
+Change
+:
+ 
+The Ghost Face
+ now features yet another change to his 
+Terror Radius
+ and Chase Music.
+This time, the nearby and chase themes have been slowed down to match the pace of the second phase of the chase theme.
+Patch 7.0.0
+
+Buff
+: increased Crouched Movement speed from 
+3.6 m/s
+ to 
+3.8 m/s
+.
+
+It should be noted that this change also affects all other instances of 
+The Ghost Face
+ moving while Crouched.
+
+Buff
+: reduced 
+Night Shroud
+ Recharge time from 
+24 seconds
+ to 
+20 seconds
+.
+
+Buff
+: increased 
+Killer Instinct
+ Reveal time from 
+2 seconds
+ to 
+4 seconds
+.
+Patch 8.4.0
+
+Buff
+: reduced the Power Recovery time from 
+20 seconds
+ to 
+17 seconds
+.
+
+Buff
+: reduced the Marking time from 
+5 seconds
+ to 
+4.5 seconds
+.
+
+This was done by increasing the default Stalk rate from 
++20 pts/s
+ to 
++22.5 pts/s
+, while leaving the Capacity of the 
+Stalk Meter
+ at 
+100 points
+.
+Patch 8.6.0
+
+Buff
+: reduced the 
+Terror Radius
+ from 
+32 metres
+ to 
+24 metres
+.
+Patch 9.6.0
+
+Buff
+: reduced the Power Recovery time from 
+17 seconds
+ to 
+15 seconds
+.
+Patch 9.6.1
+
+Buff
+: increased Crouched Movement speed from 
+3.8 m/s
+ to 
+4.0 m/s
+.
+
+Trivia
+
+General
+
+The Ghost Face
+ was the first Chapter Killer to come without an accompanying Survivor or Map.
+
+The Ghost Face
+ was the first licensed Killer to have access to a selection of Customisation options in the 
+Store
+.
+
+The Ghost Face
+ was the seventh Killer added to 
+Dead by Daylight
+ wearing a mask.
+
+Instead of climbing over vaults, 
+The Ghost Face
+ hoists himself through them.
+
+The Ghost Face
+ was the first Killer to have a unique running animation when in a Chase.
+
+The Ghost Face
+ was the second Killer to be able to crouch.
+
+Despite this, 
+The Ghost Face
+ is the only Killer to date to be able to crouch as freely as Survivors and as an innate ability with no connection to his Power.
+
+The Ghost Face
+ is the Character with the most in-game quotes by himself, with eight in total.
+
+The Ghost Face
+ currently has the most revised Chase theme in the game, with a total of technically six different revisions of the chase theme since the 5.7.0 PTB.
+
+This beats out The 
+Demogorgon
+, who had three total revisions.
+
+The Ghost Face
+ was the third licensed Killer made available in the 
+2v8
+ Game Mode, with its fourth iteration rewarding Players progressing through its 
+Quests
+ with Customisation options themed after 
+Ghost Face
+.
+
+Cosmetics
+
+Contrary to popular belief the 
+Classic Ghost Face
+ skin is not the same one as the Scream version, it is indeed based on the real life costume, as Scream features a custom modified version of the real life outfit with sparkles, arm tatters and pointed frills on the bottom edges.
+
+It also features a belt that is made to make the outfit fit the user.
+
+Some masks in the game are actually based on real life masks variants of Ghostface, those being 
+Silver Ghost Face
+, 
+Viper Ghost Mask
+, 
+Devil Face'
+, 
+Scarecrow Ghost Face'
+, 
+Zombie Ghost Face
+ and the 
+Bleeding Ghost Face Mask
+.
+
+Devil Face
+ was a mask that was made in April 2017 and was time limited to an event, and the mask eventually saw a re-release based on the version we have now.
+
+The original mask had a satin finish, had a brighter red, horns had the same colour as the mask and darker and opaque eye mesh.
+
+The mask would make an appearance in the fighting game 
+Mortal Kombat 1
+, which features the original iteration of 
+Ghostface
+ as a playable guest character.
+
+Silver Ghostface
+ was a limited edition mask made in 2011 to celebrate 25 years of the mask's creation.
+
+The mask would also make an appearance in the fighting game 
+Mortal Kombat 1
+, which features the original iteration of 
+Ghostface
+ as a playable guest character.
+
+Scarecrow Ghostface
+ is based on a variant of the movie Ghostface variant of Scream as it was originally going to appear in '
+Scream 4 (2011)
+, before it was scrapped.
+
+The 
+Scarecrow Mask
+ features larger eyes, cheeks and longer mouth compared to most of the masks.
+
+Zombie Ghostface
+ is based on a variant of the classic Ghostface mask that was released as a tie in to 
+Scream 4 (2011)
+.
+
+This mask was inspired by 
+Michael Myers's mask
+ from 
+Halloween (2007)
+.
+
+Bleeding Ghostface
+ is based on a Ghostface mask variant that was made in 1997 as a tie in to 
+Scream 2 (1997)
+.
+
+The real life mask is semi-transparent and has a tube that is connected to a plastic heart that you could pump fake blood into it.
+
+Wassup Ghost Face
+ is a mask that was seen in the parody movie of Scream, 
+Scary Movie (2000)
+, from the iconic "Wazzup!" scene.
+
+All outfits (Aside from the classic outfit) and some masks are original creations by Behaviour Interactive being "Scorched Ghost face", The 2023 Twisted Masquerade mask and outfit, 
+Metal Ghost Face
+, 
+Arctic Ghost Face
+, and 
+Ghost face gold cat mask
+.
+
+Blighted Ghost Face
+ was the first original mask made by Behaviour Interactive.
+
+It is technically not a mask in game as due to being injected with the Pustula serum by 
+The Blight
+, the mask is moulded with 
+Danny's
+ face
+
+The 
+Arctic Ghost Face Mask
+ features an tear in the eyehole, and black goo on it.
+
+If you equip the full outfit you will see that an icicle gouged the eye out.
+
+Metal Ghost Face is the first mask to feature an angular shape and unique eye and mouth colours compared to the usual black.
+
+The 
+Gold Cat Mask
+ features a angular triangular shape and smaller eyes, nose and mouth.
+
+Ghost Face Nevermore
+ is the first mask that has a unique feature over the classic mask being the crow beak.
+
+It is the first outfit to feature claws in his gloves
+
+It is also the first outfit whose description calls him by his alias 
+Jed
+.
+
+Some of the in-game 
+Ghost Face
+ skins are being sold by 
+Fun World
+ as real life Halloween costumes.
+
+Developer Build Leak (3.0.0)
+
+The Ghost Face
+ was accidentally leaked by the Developers when releasing the 
+Patch 2.7.0
+ Mid-Chapter.
+
+Instead of releasing the live build, they released their internal 
+3.0.0
+ developer build, which contained an unfinished 
+The Ghost Face
+, aswell as unfinished 
+Archives
+ and 
+Charms
+ features, both of which released in 
+Patch 3.3.1
+.
+
+This mistake was quickly noticed and reverted a couple of minutes later, but many players managed to access it before being reverted.
+
+In this developer build, he had a different title, shortened to just 
+The Ghost
+.
+
+His prestiged mask texture featured way less blood compared to the released mask.
+
+The build featured various early animations for 
+The Ghost Face
+:
+
+Memento Mori animation featured a flip phone instead of a camera.
+
+This was also likely a yet another nod to the 
+Scream
+ franchise before being changed.
+
+Despite this being changed on the live release, the Unreal Engine blueprint and the model for the prop are still named Phone in the files.
+
+Menu animations lacked interrupt animations, his menu idle animation was also way more simple, being a 30 second idle loop where he occasionally tilted his head to the side.
+
+Main menu idle animation has him standing up instead of crouching like he does on release.
+
+Third person Locker grab animation is completely missing.
+
+Various 
+Legion
+ animations were used as placeholders until the finished animations were put in place.
+
+His teachable perk 
+Furtive Chase
+ was originally named "Simple Formula".
+
+This was likely another reference to 
+Scream
+ with the iconic phrase from Randy Meeks from the original 
+Scream
+: 
+"There's a formula to it. A very simple formula! everybody's a suspect!
+".
+
+Also featured in the build was an earlier iteration of 
+The Ghost Face'
+s power.
+
+General differences:
+
+Night Shroud
+ is titled 
+Shrouded Hunt
+ in this build.
+
+Night Shroud/Shrouded Hunt
+ and 
+Stalking
+ are separate abilities, allowing 
+The Ghost Face
+ to stalk at all times without needing to activate 
+Night Shroud/Shrouded Hunt
+.
+
+Recharging 
+Night Shroud/Shrouded Hunt
+ could be accelerated by stalking Survivors.
+
+Revealing
+ mechanic was extremely primitive in this build, simply requiring 
+The Ghost Face
+ to be in Survivor's LOS in any capacity to be considered "spotted" to start decharging 
+Night Shroud/Shrouded Hunt
+.
+
+Crudely colored icons of 
+Shape
+'s power were used as placeholders.
+
+Developer build name and description of the power.
+
+Shrouded Hunt & Stalk
+
+The Ghost
+ can move stealthily, crouch, lean around corners and stalk Survivors.
+His primary power is 
+Shrouded Hunt
+ during which: 
+The Ghost
+ has no terror radius. 
+His secondary Power is Stalk: 
+The Ghost
+ can stalk individual Survivor to give the 
+exposed status
+ for a limited time. 
+The Ghost
+ also has the ability to 
+crouch
+ freely and 
+lean
+ around corner while stalking.
+
+Shrouded Hunt & Stalk
+ data:
+
+Movement speeds:
+
+Crouched movement speed = 
+3.45 m/s
+
+Movement speed multiplier while stalking = 
+0.6x
+
+Movement speed multiplier while stalking a Survivor = 
+0.3x
+
+Crouched movement speed multiplier while stalking = 
+0.6667x
+
+Crouched movement speed multiplier while stalking a Survivor = 
+0.3333x
+
+Shrouded Hunt:
+
+Active Shrouded Hunt terror radius size = 
+0 metres
+
+Terror radius reduction rate = 
+18.66666 metres per second
+
+Terror radius increase rate = 
+9.33333 metres per second
+
+Charges needed to fully charge = 
+60 charges
+
+Decharge rate when spotted by a Survivor = 
+-12 charges per second
+
+Recharge delay = 
+1.5 seconds
+
+Recharge rate = 
+2 charges per second
+
+Recharge rate increase when stalking a Survivor = 
++2 charges per second for each stalked Survivor
+
+Stalking:
+
+Stalk points needed to expose a Survivor = 
+100 points
+
+Stalk points depletion delay = 
+2 seconds
+
+Stalk points depletion rate = 
+6.66667 points per second
+
+Minimum stalk range = 
+1 metre
+
+Maximum stalk range = 
+50 metres
+
+Stalk rate = 
+25 Stalk points per second
+
+Stalk rate multiplier while leaning = 
+2x
+
+Lore
+
+The Ghost Face's
+ real name, as well as Roseville, the town of his first killings, are potentially inspired by 
+"Danny Rolling"
+, a serial killer who murdered five students within four days in 
+"Gainesville"
+.
+
+He was Wes Craven's inspiration when creating the character Ghostface for the Scream movies.
+
+Further strengthening this likely source of inspiration is the fact that the 
+Viper Ghost
+ Outfit description states that 
+The Ghost Face
+ had attended a masked party thrown by Roseville University students.
+
+The Ghost Face's
+ flying straps attached to his outfit represent his connection to The 
+Entity
+, according to the Developers.
+
+In one of the Developer's streams, 
+The Ghost Face
+ was described as 
+"a bit narcissistic"
+.
+
+Original Character / Licensed Mask
+
+The Ghost Face
+ is unique amongst the numerous licensed Killers of 
+Dead by Daylight
+ in that his persona is a BHVR-original creation, with only the Mask being licensed from 
+Fun World
+.
+
+This also means that there is no connection to any of the movies from the 
+Scream
+ franchise, as 
+Danny Johnson
+ is not one of their multiple killers who donned the 
+The Ghost Face
+ alias.
+
+Compared to the original 
+Scream
+ Ghost Face
+, 
+Dead by Daylight's
+ version is a far more sinister and cunningly experienced Killer, as he has a better understanding of the risks involved in committing murder, only giving in to his bloodthirst when he knows he can get away with it.
+
+Although not licensed from 
+Scream
+, he does the iconic knife wipe from the movies as a reference and tribute to it.
+
+The knife wipe is also referenced by The 
+Animatronic
+, due to the 
+movie version of the character
+ being played by Matthew Lillard who also played Stu Macher one of the original ghostface killers.
+
+Voice Actor
+
+The Ghost Face
+ is voiced by Filip Ivanovic, who at that time worked as the Art Director on the Game and had previously voiced the original Killer Trio and several male Killers after that, as well as the Survivor 
+Jeff Johansen
+:
+
+The 
+Trapper
+
+The 
+Wraith
+
+The 
+Hillbilly
+
+The 
+Cannibal
+
+The 
+Nightmare
+
+Gallery
+
+See 
+Ghost Face's Gallery
+
+In-game Assets
+
+The Ghost Face
+
+The Ghost Face (Portrait render)
+
+The Ghost Face (Background image)
+
+Outfits
+
+Ghost Face Nevermore Outfit
+
+Old Assets
+
+The Ghost Face (Old Portrait render)
+
+Developer Build Leak (3.0.0) Assets
+
+"Shrouded Hunt & Stalk" Placeholder UI Icon - Activated
+
+"Shrouded Hunt & Stalk" Placeholder UI Icon - Deactivated
+
+"Shrouded Hunt & Stalk" Placeholder UI Icon - Available
+
+Placeholder UI Icon - Lean Stalk Indicator
+
+Concept Art
+
+Default Concept Art
+
+'Scorched Ghost Face' Concept Art
+
+'Icebound Phantom' Concept Art
+
+'Masquerade Ghost Face' Concept Art
+
+'Ghost Face Gold Cat Mask' Concept Art
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

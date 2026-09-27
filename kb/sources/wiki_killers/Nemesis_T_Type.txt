@@ -1,0 +1,2264 @@
+# Nemesis T-Type
+Source: https://deadbydaylight.wiki.gg/wiki/Nemesis_T-Type (page complète via API, consultée le 27/09/2026)
+
+The Nemesis
+
+Name
+
+Nemesis T-Type
+
+Game Alias(es)
+
+"The Pursuer"
+
+"The Tyrant"
+
+"The Potential"
+
+Gender
+
+Man
+
+Origin
+
+None (Bio-Weapon manufactured by Umbrella Europe)
+
+Realm
+
+Raccoon City
+
+Power
+
+T-Virus
+
+Power 
+Attack
+ Type
+
+Special Attack
+
+(Tentacle Strikes / Zombie Attacks)
+
+Weapon
+
+Raw Fists
+
+Movement Speed
+
+115 % 
+|
+ 4.6 m/s
+
+Alternate Movement speed
+
+95 % 
+|
+ 3.8 m/s
+(MR1/MR2 Tentacle Strike)
+100 % 
+|
+ 4 m/s
+(MR3 Tentacle Strike)
+
+Terror Radius
+
+32 metres
+
+Height 
+
+Tall
+
+DLC
+
+Resident Evil™
+
+Voice Actor
+
+Nemesis: Sébastien Croteau
+
+Female Zombie: Roxana B. L.
+
+Male Zombie: David A. B.
+
+(all The Monster Factory)
+
+Cost
+
+500 
+Auric Cells
+
+Breathing
+
+Menu Music
+
+Terror Radius Music
+
+Metadata
+
+CharID
+
+K24
+
+Nemesis T-Type
+ or 
+"The Nemesis"
+ is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+He was introduced as the Killer of 
+Resident Evil™
+, a Chapter DLC released on 15 June 2021.
+
+He originates from the video game franchise 
+Resident Evil
+, specifically the 2020 remake of 
+Resident Evil 3
+.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+2.1
+ 
+Resident Evil
+
+2.2
+ 
+Dead by Daylight
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: Raw Fists
+
+3.3
+ 
+Power: T-Virus
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for T-Virus
+
+3.5
+ 
+Innate Skill
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Base Cosmetics
+
+5.1.1
+ 
+Default
+
+5.1.2
+ 
+Prestige
+
+5.1.2.1
+ 
+Perk Charms
+
+5.2
+ 
+In-Game Store
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+General
+
+8.2
+ 
+Cosmetics
+
+8.3
+ 
+Voice
+
+8.4
+ 
+Zombies
+
+9
+ 
+Gallery
+
+9.1
+ 
+In-game Assets
+
+9.2
+ 
+Outfits
+
+9.3
+ 
+Others
+
+Overview
+
+An unstoppable force relentless in his pursuit, nothing can stop The Nemesis from achieving his goal. His sweeping Tentacle infects Survivors with the T-Virus, further enhancing his destructive power in the process. Easily smash through pallets and breakable walls while two A.I-controlled Zombies patrol the map, applying additional pressure.
+
+The Nemesis
+ is an unrelenting Killer, capable of attacking at mid-range with his tentacle, while receiving support from Zombies roaming the area.
+
+His personal Perks, 
+Lethal Pursuer
+, 
+Hysteria
+, and 
+Eruption
+, allow him to quickly ambush Survivors, while sowing confusion and fear when injuring and hooking them.
+
+Lore
+
+Resident Evil
+
+The Nemesis
+ is a Model T-103 Tyrant, a superhuman bio-organic weapon mass-produced by Umbrella Corporation.
+Unlike previous prototypes, it possessed near-human intelligence and could follow orders.
+It was flown into 
+Raccoon City
+ alongside other Tyrants and ordered to eliminate any remaining members of S.T.A.R.S., including 
+Jill Valentine
+.
+
+The Nemesis
+, like all T-103 Tyrants, was infected with the 
+T-Virus
+ during its creation.
+However, due the T-Virus degrading the host's brain and causing a decline in intelligence to the degree of making it impossible for the host to follow complex orders, T-103s were additionally infected with the NE-α parasite which would take control of the host's body, bypassing the degrading brain and providing 
+The Nemesis
+ with near-human intelligence.
+
+When 
+The Nemesis
+ uses his tentacle, it is not actually a tentacle, but the parasite within him, as the NE-α Parasite is a worm-like creature.
+
+Dead by Daylight
+
+Designed by Umbrella Corporation, The Nemesis is a nearly unstoppable bio-organic weapon fixated on pursuing and eliminating its targets.
+Part of the Tyrant T-103 series, this specimen has increased intelligence and awareness due to the NE-α Parasite implanted within it.
+Its first mission unleashed it upon Racoon City, where it had a singular objective: exterminate S.T.A.R.S. members.
+Rampaging through the city, The Nemesis faced off against Jill Valentine multiple times, and though she managed to escape, he was never far behind.
+He nearly had his target, when a strange fog descended upon them, mixing with the smoke of a city in chaos.
+The phenomenon meant nothing to him—the frigid cold and decreased oxygen never posing a threat.
+All that mattered was soldiering on into The Fog, continuing the mission: find S.T.A.R.S., exterminate S.T.A.R.S., and kill anyone who gets in the way.
+
+Load-out
+
+Unique Perks
+
+The Nemesis
+ comes with 
+3
+ 
+Perks
+ that are unique to him:
+
+ 
+
+Eruption
+
+"The NE-α parasite provides you with the intelligence and awareness needed to set a trap."
+
+Performing the 
+Damage Generator
+ action on 
+Generators
+ highlights their 
+Auras
+ in 
+yellow
+.
+Whenever a Survivor enters the 
+Dying State
+ by any means, 
+Eruption
+ triggers the following effects on all highlighted 
+Generators
+:
+
+Causes them to explode, damaging them.
+
+Instantly regresses them by 
+-10 %
+ of their total Progression.
+
+Causes them to start regressing afterwards.
+
+Causes all Survivors currently repairing them to suffer from the following effects:
+
+Causes them to scream.
+
+Their Auras are revealed to you for 
+8
+/
+10
+/
+12
+ 
+seconds
+.
+
+Eruption
+ has a cool-down of 
+30 seconds
+ after triggering its effects, which also resets the highlighted Auras.
+
+"It can use weapons?" — Jill Valentine
+
+ 
+
+Hysteria
+
+"You know how to brutalise one member of a team to cause a panic."
+
+Whenever you injure a healthy Survivor, 
+Hysteria
+ triggers its effect:
+
+Causes all Survivors currently in the 
+Injured State
+ to suffer from the 
+Oblivious
+ 
+Status Effect
+ for 
+30
+/
+35
+/
+40
+ 
+seconds
+.
+
+This effect also applies the Survivor triggering it.
+
+Hysteria
+ has a cool-down of 
+20 seconds
+.
+
+"Sorry I got a little jumpy there. Didn't know quite what to expect." — Robert Kendo
+
+ 
+
+Lethal Pursuer
+
+"You have been designed to track down and eliminate targets."
+
+At the start of the Trial, the 
+Auras
+ of all 
+Survivors
+ are revealed to you for 
+7
+/
+8
+/
+9
+ 
+seconds
+.
+
+Extends
+ the duration of all instances of a Survivor Aura being revealed to you by 
++2 seconds
+.
+
+Lethal Pursuer
+ benefits from its own effect.
+
+"...it knows what it wants and won't stop till it gets it." — Carlos Oliveira
+
+Prestige
+
+Prestiging 
+The Nemesis
+ will automatically add 
+Tier I
+ of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Nemesis
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: Raw Fists
+
+The 
+Raw Fists
+ are the Primary Weapon of 
+The Nemesis
+.
+Powerful arms to overpower targets swiftly.
+
+Power: T-Virus
+
+"A virus that causes extreme mutations and can be transferred to others.
+Its effects heighten aggression and strength within The Nemesis."
+SPECIAL ABILITY: T-VIRUS
+The power of 
+The Nemesis
+ expands as his 
+Mutation Rate
+ grows.
+Mutation Rate 1
+ is the default state of 
+The Nemesis
+:
+
+Grants access to the ranged 
+Tentacle Strike
+ attack.
+
+Has a default range of 
+5 metres
+.
+
+Cannot destroy 
+Breakable Walls
+ or dropped 
+Pallets
+.
+
+Reduces
+ his Movement speed while charging and holding the attack to 
+3.8 m/s
+.
+
+Mutation Rate 2
+ is reached after accumulating a total of 
+5
+ 
+Contamination Points
+:
+
+Allows the 
+Tentacle Strike
+ attack to destroy 
+Breakable Walls
+ and dropped 
+Pallets
+.
+
+Mutation Rate 3
+ is reached after accumulating a total of 
+15
+ 
+Contamination Points
+:
+
+Increases
+ the range of the 
+Tentacle Strike
+ attack to 
+6.5 metres
+.
+
+Increases
+ the reduced Movement speed while charging and holding the attack to 
+4.0 m/s
+.
+
+SPECIAL ATTACK: TENTACLE STRIKE
+Press and hold the 
+Power button
+ to charge a 
+Tentacle Strike
+, then press the 
+Attack button
+ to unleash it.
+
+Survivors hit with a 
+Tentacle Strike
+ grant 
+The Nemesis
+ 
+Contamination Points
+ towards his 
+Mutation Rate
+ and become afflicted by 
+Contamination
+:
+
+Grants 
++3 Points
+ for hitting Survivors not yet afflicted by 
+Contamination
+.
+
+This also causes the hit Survivor to suffer from a 
+-20 %
+ 
+Hindered
+ 
+Status Effect
+ for 
+2 seconds
+.
+
+Grants 
++1 Point
+ for hitting Survivors already afflicted by 
+Contamination
+.
+
+The 
+Tentacle Strike
+ has a Cool-down time of 
+2.25 seconds
+.
+SPECIAL AFFLICTION: CONTAMINATION
+Survivors suffering from 
+Contamination
+ are susceptible to damage from being either by a 
+Tentacle Strike
+ or by a 
+Zombie
+.
+Contaminated Survivors
+ occasionally cough, potentially betraying their location.
+SPECIAL ENEMY: ZOMBIES
+During the Trial, 
+2
+ 
+Zombies
+ spawn and roam randomly through the environment.
+Both of their 
+Auras
+ are revealed to 
+The Nemesis
+ at all times.
+
+Zombies
+ can track nearby Survivors and are attracted to 
+Loud Noise Notifications
+.
+They can attack Survivors coming too close to them and abide by the same rules as a 
+Tentacle Strike
+ doing so.
+
+Destroying 
+Zombies
+ will cause them to respawn after 
+12 seconds
+ from below a random 
+Hook
+.
+Doing so with a 
+Tentacle Strike
+ as 
+The Nemesis
+ will also grant 
++1 Point
+ towards 
+Mutation Rate
+.
+
+Survivors have limited means to counter 
+Zombies
+:
+
+Using 
+Flashlight
+, 
+Firecrackers
+, or 
+Flash Grenades
+ on them blinds and stuns them in place for 
+15 seconds
+.
+
+Stunning them with a 
+Pallet
+ or 
+Head On
+ destroys them and causes them to respawn after 
+45 seconds
+.
+
+SPECIAL ITEM: VACCINE
+Survivors can cure themselves or other Survivors from 
+Contamination
+ by locating a 
+Supply Case
+ and searching it for a 
+Vaccine
+:
+
+A total of 
+4
+ 
+Supply Cases
+ spawn in random locations in the environment.
+
+The 
+Auras
+ of 
+Supply Cases
+ are revealed to 
+Contaminated Survivors
+ at all times.
+
+Each 
+Supply Case
+ contains 
+1
+ single-use 
+Vaccine
+.
+
+Using the 
+Vaccine
+ triggers 
+Killer Instinct
+ for 
+3 seconds
+.
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Charging/Holding 
+Tentacle Strike
+ while in 
+MR1/MR2
+: 
+3.8 m/s
+
+Charging/Holding 
+Tentacle Strike
+ while in 
+MR3
+: 
+4.0 m/s
+
+Tentacle Strike
+ cool-down: 
+4.2 m/s
+
+This applies to cancelling the attack.
+
+Tentacle Strike:
+
+Charge time: 
+0.35 seconds
+
+Charge and hold Movement speed: 
+3.8 m/s
+
+Cancellation Cool-down time: 
+1.5 seconds
+
+Cool-down Movement speed: 
+4.2 m/s
+
+Attack ranges:
+
+Mutation Rates 1 & 2
+: 
+5 metres
+
+Mutation Rate 3
+: 
+6.5 metres
+
+Attack Open time: 
+0.25 seconds
+
+Attack Hit time: 
+0.333 seconds
+
+Attack Cool-down: 
+2.25 seconds
+
+Tentacle Strike
+ is able to hit Survivors and destroy Pallets or Walls at the same time: 
+disabled feature
+
+Mutation Rate:
+
+Thresholds:
+
+MR1
+ to 
+MR2:
+ 
+5
+ 
+Contamination Points
+
+MR2
+ to 
+MR3:
+ 
+9
+ 
+Contamination Points
+
+MR Total Requirement:
+ 
+14
+ 
+Contamination Points
+ 
+
+The total requirement refers to how many Contamination points are required to reach 
+MR3
+ from 
+MR1
+.
+
+Contamination Points:
+
+Contaminating Survivors with a 
+Tentacle Strike
+: 
++3
+ 
+Contamination Points
+
+Hitting contaminated Survivors with a 
+Tentacle Strike
+: 
++1
+ 
+Contamination Point
+
+Destroying 
+Zombies
+ with a 
+Tentacle Strike
+: 
++1
+ 
+Contamination Point
+
+Destroying 
+Zombies
+ any other way: 
+0
+ 
+Contamination Points
+
+Contamination:
+
+Hindered
+ strength: 
+-20 %
+
+Hindered
+ duration: 
+2 seconds
+
+Killer Instinct
+ duration: 
+3 seconds
+
+Vaccination
+ duration: 
+3 seconds
+
+Vaccination
+ heals the Survivor on interaction completion: 
+disabled feature
+
+Supply Crate
+ Opening time: 
+4 seconds
+
+Supply Crate
+ Closing timer: 
+15 seconds
+
+This refers to how long a 
+Supply Crate
+ remains open if the 
+Vaccine
+ is not retrieved from it.
+
+Zombie Behaviour:
+
+Main Article: 
+Zombies
+
+Zombies
+ spawn out of the ground beneath a randomly chosen 
+Hook
+.
+
+Zombies
+ will react to all sorts of noises produced by Survivors, e.g. rushed actions, Generator Repairs, Chest Unlocks, etc.
+
+Zombies
+ shrink their collision hitbox when blinded, allowing Survivors to pass by them.
+
+Initial Spawn delay: 
+12 seconds
+
+This refers to how long it takes after loading into a Trial for the 
+Zombies
+ to spawn.
+
+Destruction animation: 
+3 seconds
+
+Spawn animation: 
+3 seconds
+
+Blind Stun timer: 
+15 seconds
+
+Fall height threshold: 
+0.5 metres
+
+This refers to how far a 
+Zombie
+ must drop to be considered falling.
+
+Fall Stun timer: 
+3.43 seconds
+
+Idle timer: 
+1.5 seconds
+
+This refers to how long 
+Zombies
+ idle before starting to patrol after (re-)spawning.
+
+Zombie Attack:
+
+Attack Open time: 
+0.2 seconds
+
+Attack Hit time: 
+1.3 seconds
+
+Attack Cool-down time: 
+0.5 seconds
+
+Zombie Statistics:
+
+ 
+Zombie Detection Radius and Angles visualised.
+
+Walking speed: 
+1 m/s
+
+Detection range: 
+14 metres
+
+This refers to the range within which a 
+Zombie
+ will start chasing a Survivor, if the Survivor is in its 
+Field of View
+.
+
+Detection half-angle: 
+95 °
+
+This refers to how far to the left or right a 
+Zombie
+ can spot Survivors in their 
+Field of View
+ from an imagined centre line.
+
+Detection boundary: 
+20 metres
+
+This refers to the distance a Survivor must be from a 
+Zombie
+ for the 
+Zombie
+ to stop chasing them.
+
+Audio Detection range: 
+6 metres
+
+Pitch:
+
+This refers to the maximum vertical viewing angle 
+The Nemesis
+ is allowed from the horizon (
+0 °
+) while charging and holding 
+Tentacle Strike
+:
+
+Maximum Pitch: 
++20 °
+
+Minimum Pitch: 
+-32 °
+
+Add-ons for T-Virus
+
+Icon
+
+Name
+
+Description
+
+Brian's Intestine
+
+The small intestine of Brian Irons, chief of the RPD.
+It is an appetising sight for zombies.
+
+Increases
+ the Movement Speed of 
+Zombies
+ by 
++0.25 m/s
+.
+
+Damaged Syringe
+
+Medical equipment that fared poorly during the chaos that overwhelmed Raccoon City.
+
+Increases
+ the Injection time of 
+Vaccines
+ by 
++5 seconds
+.
+
+S.T.A.R.S. Field Combat Manual
+
+A manual of compiled S.T.A.R.S. close-range combat knowledge, edited by Chris Redfield.
+
+The 
+Auras
+ of 
+Zombies
+ are highlighted to you in 
+yellow
+ for 
+6 seconds
+ when they hit a Survivor.
+
+Visitor Wristband
+
+An electronic Umbrella wristband for visitors to the facility.
+It also doubles as a tracking device.
+
+Increases
+ the Survivor-Detection range of the 
+Zombies
+ by 
++2 metres
+.
+
+Increases
+ the 
+Field of View
+ of the 
+Zombies
+ by 
++10 °
+.
+
+Admin Wristband
+
+An electronic Umbrella wristband for administrators of the facility.
+While allowing access to secure areas, it also doubles as a tracking device.
+
+Increases
+ the Survivor-Detection range of the 
+Zombies
+ by 
++4 metres
+.
+
+Increases
+ the 
+Field of View
+ of the 
+Zombies
+ by 
++17.5 °
+.
+
+Adrenaline Injector
+
+A hormone that heightens senses and prepares the body to fight.
+
+Increases
+ the Duration of 
+Killer Instinct
+ after a Survivor uses a 
+Vaccine
+ by 
++3 seconds
+.
+
+Marvin's Blood
+
+The contaminated blood of a Raccoon City Police Officer.
+
+Increases
+ the Gain to 
+Mutation Rate
+ after hitting Survivors with a 
+Tentacle Strike Attack
+ by 
++0.5 points
+.
+
+"All you need to know is that this place will eat you alive if you're not careful." — Marvin Branagh
+
+Mikhail's Eye
+
+While little was left of Mikhail, his left eyeball survived the blast that killed him.
+It remains a tasty treat for zombies.
+
+Increases
+ the Movement Speed of 
+Zombies
+ by 
++0.35 m/s
+.
+
+Zombie Heart
+
+The heart of an eviscerated zombie.
+It is considered hazardous waste as it is certainly teeming with viruses.
+
+Increases
+ the Gain to 
+Mutation Rate
+ after hitting 
+Zombies
+ with a 
+Tentacle Strike Attack
+ by 
++0.75 points
+.
+
+"Words won't work on this thing." — Leon Scott Kennedy
+
+Licker Tongue
+
+A sticky prehensile tongue that easily wraps around anything it touches.
+
+Survivors becoming 
+Contaminated
+ suffer from the following effect:
+
+Increases
+ the duration of the 
+Hindered
+ 
+Status Effect
+ by 
++1 second
+ to 
+3 seconds
+.
+
+"It's like... a nightmare." — Claire Redfield
+
+Plant 43 Vines
+
+The tangled remnants of a plant infected with the T-Virus, it killed one of the researchers who developed it.
+
+Increases
+ the Opening time of 
+Supply Cases
+ by 
++4 seconds
+.
+
+Serotonin Injector
+
+A hormone that slightly relaxes the user for when stealth is required.
+
+Grants the 
+Undetectable
+ 
+Status Effect
+ for 
+15 seconds
+, after a 
+Zombie
+ is disintegrated by any means.
+
+T-Virus Sample
+
+A sample of the T-Virus developed by Umbrella Corporation, it causes extreme mutations and brain damage in its subjects.
+
+Increases
+ the Gain to 
+Mutation Rate
+ after hitting 
+Zombies
+ with a 
+Tentacle Strike Attack
+ by 
++1 point
+.
+
+Tyrant Gore
+
+A damaged sample from a T-002 Tyrant that died in combat.
+There are signs of severe burns.
+
+Reduces
+ the Respawn time of disintegrated 
+Zombies
+ by 
+-7.5 seconds
+.
+
+Increases
+ the Gain to 
+Mutation Rate
+ after hitting 
+Zombies
+ with a 
+Tentacle Strike Attack
+ by 
++0.75 points
+.
+
+Broken Recovery Coin
+
+A coin depicting a bird framed by a laurel wreath.
+It is broken in half.
+
+Reduces
+ the number of 
+Supply Cases
+ in the environment by 
+-1
+.
+
+"This is not how I imagined my first day." — Leon Scott Kennedy
+
+Depleted Ink Ribbon
+
+Who will save them now? There is something about this ink ribbon being dry that energises zombies.
+
+Reduces
+ the Respawn time of disintegrated 
+Zombies
+ by 
+-5 seconds
+.
+
+Increases
+ the Movement speed of 
+Zombies
+ by 
++0.5 m/s
+.
+
+Once the 
+Exit Gates
+ are powered, disintegrated 
+Zombies
+ respawn in the Exit area.
+
+"Look, just so you know... this is the last fucking time." — Jill Valentine
+
+Jill's Sandwich
+
+It is tragically squished and dripping with blood from a recent battle.
+Despite that, it has a delicious aroma that cannot be missed.
+
+The 
+Auras
+ of Survivors unlocking a 
+Supply Case
+ are revealed to you for 
+12 seconds
+ after they succeed.
+
+Ne-α Parasite
+
+A parasite used in the development of Nemesis T-Types, it is capable of hijacking its host's brain.
+
+Survivors suffer from the 
+Oblivious
+ 
+Status Effect
+ for 
+60 seconds
+ after becoming 
+Contaminated
+, or until they cure themselves with a 
+Vaccine
+.
+
+Iridescent Umbrella Badge
+
+A glass-like badge moulded from The Fog itself.
+It represents a corporation that pushed far beyond ethical and humane science.
+
+Survivors suffer from the 
+Exposed
+ 
+Status Effect
+ for 
+60 seconds
+ after using a 
+Vaccine
+.
+
+"Commitment, honesty, integrity. These are the core values that create the foundation of Umbrella Corp." — Doctor Matt Gorkis
+
+Shattered S.T.A.R.S. Badge
+
+A symbol of hope for Raccoon City, utterly destroyed.
+
+Increases
+ the Movement Speed of 
+Zombies
+ by 
++1.5 m/s
+ for 
+60 seconds
+ each time a Generator is completed.
+
+"S.T.A.R.S..." — The Nemesis
+
+Innate Skill
+
+Used exclusively in 
+2v8
+ Trials, the 
+Innate Skill
+ modifies 
+T-Virus
+ with the following effects:
+
+Innate Skill
+ (
+Nemesis Passive
+) 
+
+Modifies the 
+T-Virus
+ with the following effects:
+
+Increases
+ the Gain towards 
+Mutation Rate
+ when striking 
+Zombies
+ by 
++175 %
+.
+
+Increases
+ the duration of the 
+Hindered
+ 
+Status Effect
+ when striking uninfected Survivors to 
+3 seconds
+.
+
+Modifies the 
+Zombies
+ with the following effects:
+
+Increases
+ the amount of Zombies present in the Trial by 
+2
+ to 
+4
+.
+
+Increases
+ their movement speed by 
+35 %
+ to 
+1.35 m/s
+.
+
+Increases
+ their Detection range of nearby Survivors by 
++4 metres
+ to 
+18 metres
+.
+
+Increases
+ the Half-angle of their 
+Field of View
+ by 
++18 °
+ to 
+226 °
+.
+
+Reduces
+ their Respawn time when disintegrated by 
+-7.5 seconds
+.
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There are 
+2
+ Achievements related to 
+The Nemesis
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Nemesis
+
+Playing as The 
+Nemesis
+, achieve a 
+Merciless Victory
+ using only his 
+3
+ Unique Perks: 
+Lethal Pursuer
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"You have been designed to track down and eliminate targets."
+
+At the start of the Trial, the 
+Auras
+ of all 
+Survivors
+ are revealed to you for 
+7
+/
+8
+/
+9
+ 
+seconds
+.
+
+Extends
+ the duration of all instances of a Survivor Aura being revealed to you by 
++2 seconds
+.
+
+Lethal Pursuer
+ benefits from its own effect.
+
+"...it knows what it wants and won't stop till it gets it." — Carlos Oliveira
+
+, 
+Hysteria
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"You know how to brutalise one member of a team to cause a panic."
+
+Whenever you injure a healthy Survivor, 
+Hysteria
+ triggers its effect:
+
+Causes all Survivors currently in the 
+Injured State
+ to suffer from the 
+Oblivious
+ 
+Status Effect
+ for 
+30
+/
+35
+/
+40
+ 
+seconds
+.
+
+This effect also applies the Survivor triggering it.
+
+Hysteria
+ has a cool-down of 
+20 seconds
+.
+
+"Sorry I got a little jumpy there. Didn't know quite what to expect." — Robert Kendo
+
+, and 
+Eruption
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"The NE-α parasite provides you with the intelligence and awareness needed to set a trap."
+
+Performing the 
+Damage Generator
+ action on 
+Generators
+ highlights their 
+Auras
+ in 
+yellow
+.
+Whenever a Survivor enters the 
+Dying State
+ by any means, 
+Eruption
+ triggers the following effects on all highlighted 
+Generators
+:
+
+Causes them to explode, damaging them.
+
+Instantly regresses them by 
+-10 
+ of their total Progression.
+
+Causes them to start regressing afterwards.
+
+Causes all Survivors currently repairing them to suffer from the following effects:
+
+Causes them to scream.
+
+Their Auras are revealed to you for 
+8
+/
+10
+/
+12
+ 
+seconds
+.
+
+Eruption
+ has a cool-down of 
+30 seconds
+ after triggering its effects, which also resets the highlighted Auras.
+
+"It can use weapons?" — Jill Valentine
+
+.
+
+Biological Weaponry
+
+Playing as The 
+Nemesis
+, use the 
+Tentacle Strike
+ to down 
+Contaminated Survivors
+ a total of 
+65 times
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Nemesis
+:
+
+Base Cosmetics
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+The Nemesis
+
+Common
+
+An overpowering prototype deployed as a highly intelligent tracker.
+
+Dark Overcoat
+
+Common
+
+A coat almost impervious to damage and able to withstand havoc.
+
+Raw Fists
+
+Common
+
+Powerful arms to overpower targets swiftly.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Bloody Nemesis
+
+Rare
+
+A cold-blooded prototype deployed as a highly intelligent and bloodthirsty tracker.
+
+Prestige Level 6 Reward
+
+Bloodstained Overcoat
+
+Rare
+
+A blood dripping coat almost impervious to damage and able to withstand havoc.
+
+Prestige Level 5 Reward
+
+Deadly Raw Fists
+
+Rare
+
+Blood-crusted, powerful arms that eliminate targets swiftly.
+
+Prestige Level 4 Reward
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Nemesis Origin
+
+Resident Evil
+
+10 February 2025 (Monday)
+
+Description
+
+Showing no mercy, the mutated experiment chased its targets relentlessly.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Corroded Face
+
+Resident Evil
+
+On the verge of tearing itself apart, barely held together by staples.
+
+Piece
+
+Name
+
+Collection
+
+Heavy Overcoat
+
+Resident Evil
+
+Made of thick leather, its design modified to wrap around the monstrosity.
+
+Piece
+
+Name
+
+Collection
+
+Proto-Fist
+
+Resident Evil
+
+The sight of S.T.A.R.S. agents drove him into a fury, and he went out swinging.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Nemesis Blight
+
+Hallowed Curse
+
+28 October 2021 (Thursday)
+
+Description
+
+The putrid serum mixed with the Ne-a Type parasite to create a chimerical horror that not even The Blight could have anticipated.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Putrid Breath
+
+Hallowed Curse
+
+Fetid discharges dribbled from his mouth, giving him a horrifying look of cruel hunger.
+
+Piece
+
+Name
+
+Collection
+
+Noxious Armor
+
+Hallowed Curse
+
+A spiked, sturdy coat torn apart by violent bulging muscles infected with putrid serum.
+
+Piece
+
+Name
+
+Collection
+
+Oozing Fist
+
+Hallowed Curse
+
+Powerful arms, dribbling with foul bile.
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Nemesis
+ is part of 
+1
+ DLC:
+
+Resident Evil™
+
+Change Log
+
+Patch 5.2.0
+Unknown Patch
+Patch 8.2.0
+Patch 5.2.0
+
+Buff
+: slightly increased 
+The Nemesis'
+ Movement speed while charging a 
+Tentacle Strike
+ at 
+MR3
+ from 
+3.8m/s
+ to 
+4.0m/s
+.
+Unknown Patch
+
+Change
+: reassessed the difficulty rating from 
+Very Hard
+ to 
+Hard
+.
+Patch 8.2.0
+
+Buff
+: reduced the threshold of 
+MR2
+ from 
+6 points
+ to 
+5 points
+.
+
+Indirect Nerf
+: since the threshold of 
+MR3
+ remained unchanged at 
+15 points
+, lowering it for 
+MR2
+ resulted in the gap between the two increasing by 
++1 point
+, making it take slightly longer to reach 
+MR3
+ from 
+MR2
+, though the overall required points to fully mutate 
+The Nemesis
+ from 
+MR1
+ to 
+MR3
+ did not change.
+
+Buff
+: greatly increased the duration of the 
+Hindered
+ Status Effect
+ when Contaminating a Survivor from 
+0.25 seconds
+ to 
+2 seconds
+.
+
+Buff
+: increased the reach of the 
+Tentacle Strike
+ on 
+MR3
+ from 
+6 metres
+ to 
+6.5 metres
+.
+
+Buff
+: reduced the Attack Cool-down time of the 
+Tentacle Strike
+ from 
+2.5 seconds
+ to 
+2.25 seconds
+.
+
+Trivia
+
+General
+
+The Nemesis
+ is the first Killer to carry Survivors under his arm, rather than on his shoulder.
+
+The Nemesis
+ is the first Killer to feature AI-controlled minions in the form of a pair of Zombies roaming about the Trial Grounds on the hunt for Survivors.
+
+The Nemesis
+ is the first Killer to have Add-ons featuring quotes by Survivors.
+
+The Nemesis
+ is the first Killer that damages Generators using a single stomp.
+
+The Nemesis
+ is the first killer to have a starting animation when he loads in the trial, in which he observes his NE-α parasite before resuming his normal pose.
+
+The Nemesis
+ is the second Killer to originate from another Game franchise.
+
+The Nemesis
+ is the fourth Killer to not attack with an actual weapon, but instead using his bare fists.
+
+Upon 
+The Nemesis'
+ release, some 
+Windows
+, like those in the 
+Killer Shack
+, had to be slightly vertically extended to accommodate his height.
+
+Many of the actions performed by 
+The Nemesis
+ take inspiration directly from his appearance in the 2020 remake of 
+Resident Evil 3
+.
+
+His walking and running animation when pursuing Survivors and after a Trial are nearly identical to how he chases down 
+Jill
+ after their first encounter together and later pursues her throughout 
+Raccoon City
+.
+
+The way 
+The Nemesis
+ destroys objects and damages Survivors is nearly identical to his basic attacks including how he will punch and attempt to stomp on Jill, similar to how he damages Generators and closes the Hatch with a single stomp.
+
+The Nemesis'
+ Pallet breaking action in which he performs a double overhead fist slam is one of his knockdown attacks.
+
+After striking a Survivor, 
+The Nemesis
+ may roar after hitting them, something he does after striking Jill with one of his many punch attacks.
+
+When a Survivor escapes from 
+The Nemesis'
+ grasp, he will crouch down on one knee and place his fist to the ground, something he does when taking too much damage from Jill.
+
+When being stunned by a Pallet, he reacts the same as to when Jill shoots him.
+
+His Mori is a modified version of one of his two kill animations. Instead of wounding Jill with his tentacle and pulling her in, he will simply grab her by the head before throwing her to the ground and stomp on her face, similar to his Mori, however he again does not use his tentacle to pull Jill in before crushing her head.
+
+The Nemesis
+, alongside 
+The 
+Mastermind
+, was the first licensed Killer made available in the 
+2v8
+ Game Mode, with its third iteration themed after the two 
+Resident Evil
+ Chapters in 
+Dead by Daylight
+.
+
+The Nemesis
+ was the first killer to have his height shrunk down compared to his original Resident Evil 3 remake incarnation, as in the game he is above 8ft tall.
+
+Cosmetics
+
+Default Outfit
+ originates from 
+Resident Evil 3 (2020)
+.
+
+Nemesis Blight
+ is inspired by his second mutation in 
+Resident Evil 3 (2020)
+.
+
+This skin also references 
+William Birkin
+ with its visible eye in the shoulder.
+
+Nemesis Origin
+ is taken from his original appearance from 
+Resident Evil 3: Nemesis (1999)
+.
+
+This design is inspired by the 
+Chatterer
+ from 
+Hellraiser
+
+This iteration of the Classic Nemesis design is heavily inspired by his appearance in 
+Marvel vs Capcom: Infinite
+ with his his face being partially being more open and having his right eye exposed compared to the original design.
+
+Voice
+
+The Nemesis
+ was the third Killer to speak in 
+Dead by Daylight
+.
+
+When killing 
+Jill Valentine
+, 
+Chris Redfield
+, or 
+Rebecca Chambers
+ or pulling them out of a 
+Locker
+, he says the infamous 
+"S.T.A.R.S."
+ line from 
+Resident Evil 3
+.
+
+The Nemesis is voiced by Sébastien Croteau, who would eventually become a recurring voice actor within 
+Dead by Daylight
+.
+
+To date, he also has voiced one of the many voices of The 
+Dredge
+, the 
+Xenomorph
+, the 
+Were-Elk
+, 
+Glitchtrap
+ and 
+The Leshen
+.
+
+Zombies
+
+The female 
+Zombie
+ is voiced by Roxana B.L., the male 
+Zombie
+ by David A.B.
+
+It is possible to spot the spawn Hook of one 
+Zombie
+ under specific circumstances.
+
+Zombies
+ are loaded into the Trial like Survivors, spawning them above ground at their spawn Hook.
+When the Trial begins, the Game teleports the 
+Zombies
+ below ground.
+Since the teleportation command is not initiated until The Nemesis' camera panning elapses, it is possible to spot an above-ground-
+Zombie
+ during one's own camera panning, and, for Survivors, potentially for a second or two after theirs has elapsed, due to the fact that the camera panning is not synced across all Players.
+
+Gallery
+
+In-game Assets
+
+The Nemesis
+
+The Nemesis (Portrait render)
+
+The Nemesis (Background image)
+
+Outfits
+
+Nemesis Origin Outfit
+
+Others
+
+Zombie Detection Radius and Angles visualised.
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

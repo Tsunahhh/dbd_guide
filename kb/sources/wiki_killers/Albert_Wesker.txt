@@ -1,0 +1,2234 @@
+# Albert Wesker
+Source: https://deadbydaylight.wiki.gg/wiki/Albert_Wesker (page complète via API, consultée le 27/09/2026)
+
+The Mastermind
+
+Name
+
+Albert Wesker
+
+Gender
+
+Man
+
+Origin
+
+American
+
+Power
+
+Virulent Bound
+
+Power 
+Attack
+ Type
+
+Special Attack
+
+Weapon
+
+Combat Knife
+
+Movement Speed
+
+115 % 
+|
+ 4.6 m/s
+
+Terror Radius
+
+40 metres
+
+Height 
+
+Average
+
+DLC
+
+Resident Evil™: PROJECT W
+
+Voice Actor
+
+Connor Fogarty (The Monster Factory)
+
+Cost
+
+500 
+Auric Cells
+
+Menu Music
+
+Terror Radius Music
+
+Metadata
+
+CharID
+
+K29
+
+Albert Wesker
+ or 
+"The Mastermind"
+ is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+He was introduced as the Killer of 
+Resident Evil™: PROJECT W
+, a Chapter DLC released on 30 August 2022.
+
+He originates from the video game franchise 
+Resident Evil
+, specifically 
+Resident Evil 5
+ (2009).
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: Combat Knife
+
+3.3
+ 
+Power: Virulent Bound
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for Virulent Bound
+
+3.5
+ 
+Innate Skill
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Default
+
+5.2
+ 
+Prestige
+
+5.2.1
+ 
+Perk Charms
+
+5.3
+ 
+In-Game Store
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+General
+
+8.2
+ 
+Animations and Model
+
+8.3
+ 
+Cosmetics
+
+8.4
+ 
+Lore
+
+8.5
+ 
+Voice Actor
+
+8.6
+ 
+Voice-Lines
+
+9
+ 
+Gallery
+
+9.1
+ 
+In-game Assets
+
+9.2
+ 
+Outfits
+
+9.3
+ 
+Other
+
+Overview
+
+A visionary as brilliant as he is ruthless, Albert Wesker’s strategic mind is unrivalled. While some plans require intellect, others call for brute force. Rush forward to seize Survivors in your grasp and give them the gift of Uroboros – a necessary step on the path to evolution.
+
+Albert Wesker
+ is a brilliant and ruthless mastermind infused with the Power of Uroboros.
+
+His personal Perks, 
+Superior Anatomy
+, 
+Awakened Awareness
+, and 
+Terminus
+, allow him to vault faster, see other Survivors' Auras while carrying one, and cause Survivors to be permanently 
+Broken
+ when the Exit Gates are powered.
+
+Lore
+
+Albert Wesker was a high-ranking official in the Umbrella Corporation. While he made great strides with Umbrella, his ambition drove him to betray the corporation. Believing himself the best test subject, he exposed himself to the Prototype virus. Now with superhuman strength, Wesker faked his death and went underground with a new plan: expose the world to Uroboros, a biological weapon that would eliminate the weak and leave only the strong.
+
+Wesker began to put his plan to action in Africa but was confronted by members of the Bioterrorism Security Assessment Alliance at a hangar stocked with missiles carrying Uroboros. Determined to be at the vanguard of evolution, he once again made himself a test subject. Exposing himself to Uroboros, he began to evolve in ways he could have never imagined. But as he felt his cells change, a strange black fog seeped into the hangar and filled his vision. When the fog finally dissipated, he found himself in another world surrounded by lesser beings that deserved to be put out of their misery.
+
+Load-out
+
+Unique Perks
+
+The Mastermind
+ comes with 
+3
+ 
+Perks
+ that are unique to him:
+
+ 
+
+Awakened Awareness
+
+"Your genes have been altered to heighten your senses in intense situations."
+
+While carrying a Survivor, you benefit from the following effect:
+
+The 
+Auras
+ of other Survivors within 
+16
+/
+18
+/
+20
+ 
+metres
+ of your location are revealed to you.
+
+ 
+
+Superior Anatomy
+
+This description is based on the changes announced for or featured in the upcoming Patch 10.2.0
+"Decades of research have culminated in you: something faster, stronger, and more dangerous than any human."
+
+Whenever a Survivor performs a 
+Rush Vault
+ action within 
+12 metres
+ of your location, 
+Superior Anatomy
+ activates for 
+10 seconds
+:
+
+Increases
+ your Vaulting speed by 
+30
+/
+35
+/
+40
+ 
+%
+.
+
+Superior Anatomy
+ has a cool-down of 
+20 seconds
+.
+
+ 
+
+Terminus
+
+"You are a brilliant tactician who prepares for every eventuality."
+
+Once the 
+Exit Gates
+ are powered, 
+Terminus
+ activates:
+
+Causes all injured, dying, or hooked Survivors to suffer from the 
+Broken
+ 
+Status Effect
+.
+
+This effect last until one of the 
+Exit Gates
+ is opened, after which it lingers for another 
+35
+/
+40
+/
+45
+ 
+seconds
+.
+
+Prestige
+
+Prestiging 
+The Mastermind
+ will automatically add 
+Tier I
+ of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Mastermind
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: Combat Knife
+
+The Combat Knife
+ is the Primary Weapon of 
+The Mastermind
+.
+A vicious blade with a serrated edge to aid in tearing up his opponents.
+
+Power: Virulent Bound
+
+"The Mastermind can barrel forwards, infecting Survivors with the Uroboros Virus or leaping over obstacles."
+SPECIAL ABILITY: VIRULENT BOUND
+The Mastermind
+ starts the Trial with 
+2 Tokens
+.
+SPECIAL ATTACK: BOUND ATTACK
+Press and hold the 
+Power button
+ to charge 
+Virulent Bound
+, 
+reducing
+ his Movement speed to 
+3.68 m/s
+ while he prepares to strike.
+Press the 
+Attack button
+ to initiate a 
+Bound Attack
+, consuming 
+-1 Token
+, or release the 
+Power button
+ to cancel it.
+Press the 
+Attack button
+ again during the 
+Chain Bound Window
+ of 
+2 seconds
+ to initiate a second, longer 
+Bound Attack
+, if there is still a Token available:
+
+Increases
+ his Movement speed to 
+14 m/s
+ during a 
+Bound Attack
+.
+
+The first 
+Bound
+ lasts for 
+0.5 seconds
+.
+
+The second 
+Bound
+ lasts for 
+1 second
+.
+
+SPECIAL INTERACTION: SURVIVOR COLLISION
+Colliding with a Survivor at any point during a 
+Bound Attack
+ has multiple possible effects and interactions, which depend on the Survivor's current state regarding their health, infection, and interaction:
+
+If the Survivor is interacting with a Prop or another Survivor, or is protected from entering the 
+Dying State
+ by a third-party effect, 
+The Mastermind
+ attacks them with a quick swipe of his tentacles, infecting them with 
+Uroboros
+ if they are not infected already:
+
+Infected Survivors
+ receive damage.
+
+Critically Infected Survivors
+ receive double damage and are downed, unless they are protected.
+
+If the Survivor is not interacting with a Prop or another Survivor, 
+The Mastermind
+ grabs them with his tentacles, infecting them with 
+Uroboros
+ if they are not infected already, and continues travelling the remaining distance of his 
+Bound Attack
+.
+
+If he collides with an obstacle before ending the 
+Bound Attack
+, any of the following applies:
+
+Infected Survivors
+ receive damage, after which injured Survivors are released and dying Survivors are hoisted onto his shoulder.
+
+Critically Infected Survivors
+ receive double damage and are hoisted onto his shoulder.
+
+If the obstacle that he collides with is a Survivor, then the Survivor he collided with will become Injured and suffer from the 
+Deep Wound
+ 
+Status Effect
+.
+
+If he does not collide with an obstacle before ending the 
+Bound Attack
+, he throws the Survivor in a straight line, after which any of the following applies:
+
+Survivors receive damage, if they collide with an obstacle during the throw, after which injured Survivors are released and dying Survivors are downed.
+
+If the obstacle that the Survivor collides with is another Survivor, then the Survivor that they collided with will become Injured and suffer from the 
+Deep Wound
+ 
+Status Effect
+.
+
+In the case of the Survivor being grabbed, the 
+Exit Gates
+ are blocked to the Survivor for the duration of the 
+Bound Attack
+.
+
+This effect lingers for 
+5 seconds
+ after they are released.
+
+SPECIAL INTERACTION: VIRULENT VAULT
+Colliding with a dropped 
+Pallet
+ or a 
+Window
+ during a 
+Bound Attack
+ causes 
+The Mastermind
+ to automatically vault over it.
+
+Colliding with a Survivor standing on the other side of a 
+Window
+ or dropped 
+Pallet
+ during a 
+Virulent Vault
+ damages them.
+
+Critically Infected Survivors
+ receive double damage and are downed, unless they are protected.
+
+SPECIAL AFFLICTION: UROBOROS INFECTION
+Uroboros
+ grows in strength over time, which is indicated with an 
+Infection Meter
+ on the Survivor Portraits in the HUD:
+
+Both 
+Uninfected Survivors
+ and 
+Infected Survivors
+ gain 
++20 Charges
+ upon colliding with 
+The Mastermind
+ during a 
+Bound Attack
+.
+
+Infected Survivors
+ passively gain 
++0.8 c/s
+ at all times, unless they are hooked or downed.
+
+Being hooked resets the 
+Infection Meter
+ to 
+1 Charge
+.
+
+Once the 
+Infection Meter
+ is full at 
+100 Charges
+, 
+Infected Survivors
+ become 
+Critically Infected
+:
+
+Causes them to suffer from a permanent 
+-4 %
+ 
+Hindered
+ 
+Status Effect
+.
+
+SPECIAL ITEM: FIRST AID SPRAY
+Survivors can cure themselves or other Survivors from 
+Uroboros
+ by locating a 
+Supply Case
+ and searching it for a 
+First Aid Spray
+:
+
+A total of 
+6
+ 
+Supply Cases
+ spawn in random locations in the environment.
+
+The 
+Auras
+ of 
+Supply Cases
+ are revealed to 
+Infected Survivors
+ at all times.
+
+Each 
+Supply Case
+ contains 
+1
+ 
+First Aid Spray
+ with 
+2
+ uses.
+
+Using the 
+First Aid Spray
+ triggers 
+Killer Instinct
+ for 
+4 seconds
+.
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Walking in the 
+Chain Bound Window
+: 
+2.76 m/s
+
+Charging 
+Virulent Bound
+: 
+3.68 m/s
+
+Walking: 
+4.6 m/s
+
+Performing a 
+Virulent Bound
+: 
+14 m/s
+
+Bound:
+
+Power Charge time: 
+1.5 seconds
+
+Power Recharge time: 
+5 seconds per Charge
+
+Reduced Power Recharge Time bonus for each 
+Infected
+ Survivor: 
+-0.5 seconds
+
+Minimum 
+Bound
+ distance: 
+1 metre
+
+Below this threshold, a 
+Bound
+ will not be initiated.
+
+Chain Bound Window
+ duration: 
+2 seconds
+
+This refers to for how long after a first 
+Bound
+, a second one can be initiated.
+
+Bound Vault
+ duration: 
+1 second
+
+This duration only refers to 
+The Mastermind's
+ 
+Bound Vault
+ animation time and 
+does not
+ take into account its following cool-down.
+
+Bound
+ Survivor-Grab duration: 
+0.86 seconds
+
+Bound Durations:
+
+First 
+Bound
+ duration: 
+0.5 seconds
+
+Second 
+Bound
+ duration: 
+1 second
+
+This 
+Bound
+ is also referred to as the 
+Chain Bound
+, since 
+The Mastermind
+ can chain it to the first 
+Bound
+.
+
+Bound Ranges:
+
+The Mastermind's
+ 
+Bounds
+ do 
+not
+ have a fixed range, only their individual durations and their shared Movement speeds are defined in code.
+Due to this and the 
+Bounds
+ having acceleration curves, an exact calculation of their range is not possible without in-depth developer-knowledge, only approximations.
+
+The first 
+Bound
+ has an approximate range of 
+7 metres
+ (the actual range is shorter due to acceleration).
+
+The second 
+Bound
+ has an approximate range of 
+14 metres
+ (the actual range is shorter due to acceleration).
+
+Bound Camera Modifiers:
+
+Yaw multiplier: 
+x1
+
+Yaw refers to left-right movement of the camera.
+
+Yaw limit: 
+140 °
+
+Pitch multiplier: 
+x1
+
+Pitch refers to up-down movement of the camera.
+
+Infection:
+
+Maximum 
+Infection
+ level: 
+100 Charges
+
+If a Survivor reaches this level, they will enter 
+Critical Infection
+ and receive the 
+Hindered
+ Status Effect
+.
+
+Passive 
+Infection
+ gain : 
+0.8 Charges per second
+
+Initial Infection level: 
+20 Charges
+
+This refers to the amount of 
+Infection
+ a Survivor receives when they first become infected.
+
+Infection Incubation threshold: 
+20 Charges
+
+Below this threshold, the 
+Infection
+ is essentially non-existent.
+The HUD icon and Passive Infection gain only start appearing / taking effect once the threshold is reached.
+
+Infection Penalty when grabbed while already infected: 
++20 Charges
+
+Infection Removal 
+Killer Instinct
+ duration: 
+4 seconds
+
+Infection Removal Interaction duration: 
+5 seconds
+
+Infection Healing multiplier: 
+x1
+ (base used for Add-ons)
+
+Cool-downs:
+
+Bound
+ Cancellation cool-down: 
+1.5 seconds
+
+Bound
+ cool-downs:
+
+Vaulting an obstacle: 
+1.5 seconds
+
+This cool-down starts 
+after
+ performing a 
+Bound Vault
+ and is not equal to its respective animation length.
+
+Slamming into a Breakable Wall or Pallet: 
+2 seconds
+
+Letting the 
+Chain Bound Window
+ elapse: 
+3 seconds
+
+Dropping from a ledge: 
+3 seconds
+
+Completion with or without hitting a Survivor: 
+3 seconds
+
+Completion with throwing a Survivor: 
+5 seconds
+
+Collision Detection:
+
+This refers to the Collision Boxes used to detect environmental objects or Survivors during a Bound
+
+Horizontal angle: 
+±10 °
+
+Vertical angle: 
+±20 °
+
+Size for Environmental-Object Detection: 
+20 centimetres
+
+Size for Survivor-Grab Detection: 
+30 centimetres
+
+Throw:
+
+Throw duration: 
+0.6 seconds
+
+Throw Damage distance: 
+0.75 metres
+
+If a Survivor is thrown into an obstacle within that distance, they receive damage and are immobilised.
+
+Throw Movement Block duration: 
+1.9 seconds
+
+This refers to how long after being thrown, Survivors are unable to move for.
+
+Add-ons for Virulent Bound
+
+Icon
+
+Name
+
+Description
+
+Jewel Beetle
+
+A beautiful and valuable insect.
+While difficult to capture, it is worth a pretty penny.
+
+Grants 
++100 %
+ bonus Bloodpoints for 
+Virulent Bound
+ Score Events.
+
+Reduces
+ the remaining duration of a 
+Bound
+ by 
+-50 %
+ after colliding with a Survivor.
+
+R.P.D. Shoulder Walkie
+
+Without the ability to communicate, the cops of Raccoon City are isolated and don’t stand a chance.
+
+Reduces
+ the duration of the first 
+Bound
+ by 
+-20 %
+.
+
+Increases
+ the duration of the second 
+Bound
+ by 
++20 %
+.
+
+Unicorn Medallion
+
+An old medallion depicting a majestic unicorn.
+It was placed in storage for years.
+
+Increases
+ the duration of the first 
+Bound
+ by 
++20 %
+.
+
+Reduces
+ the duration of the second 
+Bound
+ by 
+-20 %
+.
+
+Uroboros Tendril
+
+The result of decades of Bio Organic Weapon research.
+It will not rest until it has swallowed the entire world.
+
+Increases
+ your Movement speed while charging 
+Virulent Bound
+ by 
++5 %
+.
+
+Bullhorn
+
+The commands screamed into this device riled up some and disoriented others.
+
+Survivors suffer from the 
+Oblivious
+ 
+Status Effect
+ for 
+30 seconds
+ after using a 
+First Aid Spray
+.
+
+Chalice (Gold)
+
+A chalice of pure gold used to celebrate the summer solstice.
+
+Increases
+ the remaining duration of a 
+Bound
+ by 
++50 %
+ after colliding with a Survivor.
+
+Leather Gloves
+
+Gloves of a cold, calculating schemer.
+They impart an air of icy professionalism.
+
+Reduces
+ the Power Recharge time by 
+-8 %
+.
+
+Lion Medallion
+
+An old medallion depicting a brave lion.
+It was made when the Raccoon Police Station was still an art museum.
+
+Increases
+ the Throw distance of Survivors grabbed 
+Mid-Bound
+ by 
++30 %
+.
+
+Loose Crank
+
+To the person whose only tool is a crank, the whole world looks like a crank-shaped hole.
+
+Increases
+ your Movement speed during the 
+Chain Bound Window
+ by 
++15 %
+.
+
+Egg (Gold)
+
+A highly coveted foodstuff.
+The cash worth is second only to its regenerative effects.
+
+Increases
+ the duration of the 
+Chain Bound Window
+ by 
++20 %
+.
+
+Maiden Medallion
+
+A medallion depicting a beautiful maiden.
+Its purpose was unknown for many years.
+
+Survivors suffer from the 
+Blindness
+ 
+Status Effect
+ for 
+60 seconds
+ when they reach 
+Critical Infection
+.
+
+Portable Safe
+
+A small container that requires a complicated combination to unlock.
+
+Survivors suffer from the 
+Haemorrhage
+ 
+Status Effect
+ until fully healed when injured using 
+Virulent Bound
+.
+
+Red Herb
+
+Acts as a reagent that strengthens the effect of that with which it is combined.
+
+Increases
+ the Healing time of the 
+First Aid Spray
+ by 
++2 seconds
+.
+
+Video Conference Device
+
+Many intricate conspiracies were orchestrated on devices just like this one.
+
+Reduces
+ the Infection timer of Survivors by 
+-30 %
+.
+
+Dark Sunglasses
+
+Glasses enhanced with AR that grant the wearer an invaluable advantage on the battlefield.
+
+Grants the 
+Undetectable
+ 
+Status Effect
+ for 
+20 seconds
+ whenever a Survivors reaches 
+Critical Infection
+.
+
+Green Herb
+
+A common plant, usually known for its restorative properties.
+
+Increases
+ the Infection applied when colliding with Survivors 
+Mid-Bound
+ by 
++30 %
+.
+
+Helicopter Stick
+
+Debris from a helicopter crash.
+Few jobs are more dangerous than a helicopter pilot's when Wesker is involved.
+
+The 
+Auras
+ of Survivors are revealed to you for 
+8 seconds
+ after using a 
+First Aid Spray
+.
+
+Uroboros Virus
+
+For some, the strength and resistance was worth the trade-off.
+
+The 
+Auras
+ of Survivors are revealed to you for 
+4 seconds
+ when they reach 
+Critical Infection
+.
+
+"The balance of the world is changing… and you're completely oblivious to it." — Ricardo Irving
+
+Iridescent Uroboros Vial
+
+The perfect bio-weapon.
+Decades of research have led to this.
+
+Causes all Survivors to start the Trial infected with 
+Uroboros
+.
+
+Survivors suffer from the 
+Exposed
+ 
+Status Effect
+ for 
+30 seconds
+ when they reach 
+Critical Infection
+.
+
+"The entire world will be infected. A new Genesis is at hand and I will be the creator!" — Albert Wesker
+
+Lab Photo
+
+Wesker was as much a researcher as he was a guinea pig for Umbrella's bio-weapons.
+
+Grants the ability to break 
+Breakable Walls
+ or 
+Pallets
+ when colliding with them 
+Mid-Bound
+.
+
+You can no longer vault over 
+Pallets
+ using 
+Virulent Bound
+.
+
+"Only a handful of humans truly matter. Everyone else is just so much chaff. So now I have to separate this chaff from the wheat." — Albert Wesker
+
+Innate Skill
+
+Used exclusively in 
+2v8
+ Trials, the 
+Innate Skill
+ modifies 
+Virulent Bound
+ with the following effects:
+
+Innate Skill
+ (
+Mastermind Passive
+) 
+
+Modifies the 
+Virulent Bound
+ with the following effects:
+
+Increases
+ the amount of Power Tokens to 
+3
+.
+
+Reduces
+ its Charge time by 
+-0.25 seconds
+.
+
+Reduces
+ its Vaulting time by 
+-0.5 seconds
+.
+
+Reduces
+ the Cool-down time after missing a 
+Bound
+ by 
+-1 second
+.
+
+Increases
+ the token recharge time of 
+Bound
+ by 
++10 %
+.
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There are 
+2
+ Achievements related to 
+The Mastermind
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Mastermind
+
+Playing as The 
+Mastermind
+, achieve a 
+Merciless Victory
+ using only his 
+3
+ Unique Perks: 
+Superior Anatomy
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+This description is based on the changes announced for or featured in the upcoming Patch 10.2.0
+"Decades of research have culminated in you: something faster, stronger, and more dangerous than any human."
+
+Whenever a Survivor performs a 
+Rush Vault
+ action within 
+12 metres
+ of your location, 
+Superior Anatomy
+ activates for 
+10 seconds
+:
+
+Increases
+ your Vaulting speed by 
+30
+/
+35
+/
+40
+ 
+%
+.
+
+Superior Anatomy
+ has a cool-down of 
+20 seconds
+.
+
+, 
+Awakened Awareness
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Your genes have been altered to heighten your senses in intense situations."
+
+While carrying a Survivor, you benefit from the following effect:
+
+The 
+Auras
+ of other Survivors within 
+16
+/
+18
+/
+20
+ 
+metres
+ of your location are revealed to you.
+
+, and 
+Terminus
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"You are a brilliant tactician who prepares for every eventuality."
+
+Once the 
+Exit Gates
+ are powered, 
+Terminus
+ activates:
+
+Causes all injured, dying, or hooked Survivors to suffer from the 
+Broken
+ 
+Status Effect
+.
+
+This effect last until one of the 
+Exit Gates
+ is opened, after which it lingers for another 
+35
+/
+40
+/
+45
+ 
+seconds
+.
+
+.
+
+Collision Course
+
+Playing as The 
+Mastermind
+, slam one Survivor into another Survivor a total of 
+10 times
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Mastermind
+:
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+The Mastermind
+
+Common
+
+A brilliant and driven scientist intent on taking humanity to the next level.
+
+Intimidating Jacket
+
+Common
+
+Clad head to toe in all-black leather, he cuts an intimidating silhouette.
+
+Combat Knife
+
+Common
+
+A vicious blade with a serrated edge to aid in tearing up his opponents.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+The Bloody Mastermind
+
+Rare
+
+A bloody and driven scientist hellbent on taking humanity to the next level.
+
+Prestige Level 6 Reward
+
+Contaminated Jacket
+
+Rare
+
+Clad head to toe in all-black, bloody leather, he cuts a terrifying silhouette.
+
+Prestige Level 5 Reward
+
+Soiled Knife
+
+Rare
+
+A bloodied blade with a serrated edge that has torn up his opponents.
+
+Prestige Level 4 Reward
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Albert Wesker (S.T.A.R.S.)
+
+Project W
+
+30 August 2022 (Tuesday)
+
+Description
+
+His time leading a S.T.A.R.S. team was really a cover for more underhanded motivations.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Bio-Weapon Uroboros
+
+Project W
+
+His eyes glow red with power granted him from the virus.
+
+Piece
+
+Name
+
+Collection
+
+Leader’s Uniform
+
+Project W
+
+He dressed the part, and inspired trust. That trust, however, was misplaced.
+
+Piece
+
+Name
+
+Collection
+
+Customized Knife
+
+Project W
+
+A wicked blade, different from those used by the rest of S.T.A.R.S.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+New Dawn
+
+Resident Evil
+
+10 February 2025 (Monday)
+
+Description
+
+He maintained constant communication with his agents while they were in the field.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Dark Shade
+
+Resident Evil
+
+He watched the screen from behind his sunglasses, watching his plans come together.
+
+Piece
+
+Name
+
+Collection
+
+Ironed Shirt
+
+Resident Evil
+
+He never lost his cool, even when he learned he'd been betrayed.
+
+Piece
+
+Name
+
+Collection
+
+Field Knife
+
+Resident Evil
+
+Whatever happened, he knew the age of man was coming to an end.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Blighted Wesker
+
+Project W
+
+11 October 2022 (Tuesday)
+
+Description
+
+Nobody could predict the complex interactions that would occur between the serum and Uroboros, but that didn’t stop him from testing it on himself.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Twisted Brilliance
+
+Project W
+
+His slick, clean-cut hair belied a dangerous mind.
+
+Piece
+
+Name
+
+Collection
+
+Viscid Overcoat
+
+Project W
+
+An ichorous substance pulsed and grew upon his body, pressing through his clothes.
+
+Piece
+
+Name
+
+Collection
+
+Tainted Knife
+
+Project W
+
+Its blade glowed with a power he had never before seen.
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Mastermind
+ is part of '
+1
+ DLC:
+
+Resident Evil™: PROJECT W
+
+Change Log
+
+Patch 6.2.1
+Patch 7.0.1
+Patch 7.1.2
+Patch 8.0.0
+Patch 8.4.0
+Patch 9.6.0
+Patch 6.2.1
+
+Buff
+: increased the Survivor-Collision detection during a 
+Bound Attack
+ from 
+20 centimetres
+ to 
+30 centimetres
+.
+
+This change was motivated by negative Community Feedback towards the Developers having reduced the size for the release of 6.2.0 from originally 
+40 centimetres
+ on the 6.2.0 PTB.
+The size of the Collision Box for environmental objects, however, remained the same after a reduction from originally 
+45 centimetres
+ on the 6.2.0 PTB, which benefits 
+The Mastermind
+.
+Patch 7.0.1
+
+Undocumented Quality of Life
+: added collision to 
+The Mastermind
+ after he has completely vaulted a 
+Pallet
+.
+
+This change was motivated by his lack of collision at the end of the vaulting animation, allowing Survivors to clip through him enough to vault the Pallet while he is locked in the animation unable to do anything.
+Patch 7.1.2
+
+Undocumented Quality of Life
+: updated and improved the hit validation when performing 
+Virulent Bound
+ on Survivors performing rushed actions or unhooking Survivors.
+
+This change was motivated by inconsistencies with 
+The Mastermind
+ being able to grab Survivors with 
+Virulent Bound
+ from various actions that he was not intended to do.
+Patch 8.0.0
+
+Nerf
+: reduced the Movement Speed penalty experienced by 
+Critically Infected Survivors
+ from 
+-8 %
+ to 
+-4 %
+.
+
+Nerf
+: reduced the maximum 
+Infection Progression
+ a Survivor can have when hooked from 
+50 %
+ to 
+1 %
+.
+Patch 8.4.0
+
+Buff
+: Decreased 
+Virulent Bound
+ Token Recharge Time from 
+6 seconds
+ to 
+5.5 seconds
+Patch 9.6.0
+
+Buff
+: Decreased 
+Virulent Bound
+ Token Recharge Time from 
+5.5 seconds
+ to 
+5 seconds
+.
+
+Buff
+: Decreased Virulent Bound fatigue cool-downs from to 
+3 seconds
+ to 
+2.7 seconds
+ for the following interactions:
+
+Successful Bound Attack Cool-down
+
+Missed Bound Attack Cool-down
+
+Chain Bound Window Expiration Cool-down
+
+Dropping Survivors Off of Ledges Cool-down
+
+Buff
+: Increased 
+Chain Bound Window
+ from 
+2 seconds
+ to 
+2.5 seconds
+.
+
+Trivia
+
+General
+
+The Mastermind
+ is one of the most normal-looking Killers in 
+Dead by Daylight
+, with no initially visible physical alterations to him other than his glowing eyes, which he hides behind his sunglasses most of the time.
+
+The Mastermind
+ was the first Killer with a Power that allows him to immediately grab Survivors that is separate from a basic grab.
+
+The Mastermind
+ was the first Killer with the ability to throw Survivors as a means of damaging them.
+
+The Mastermind
+ was the second Killer with an ability that allows them to vault faster than other Killers by using their power (i.e. Special-vault), the first being The 
+Legion
+.
+
+Up until 
+Patch 8.6.0
+, 
+The Mastermind
+ was the only killer with a Terror Radius of 
+40 metres
+.
+
+The Mastermind
+ was the first Killer to be referred to by his real name in the Killer Selection Menu rather than by a descriptive type or his Killer alias.
+
+The Mastermind
+, alongside 
+Nemesis T-Type
+, was the second licensed Killer made available in the 
+2v8
+ Game Mode, with its third iteration themed after the two 
+Resident Evil
+ Chapters in 
+Dead by Daylight
+.
+
+Animations and Model
+
+The Mastermind's
+ running animation is a reference to Wesker's running dash attack from 
+Resident Evil 5
+.
+
+The way 
+The Mastermind
+ swings his knife is a reference to the way the characters swing their knife in 
+Resident Evil
+ games.
+
+The Mastermind's
+ default knife is the knife he uses when he is playable in the mercenaries mode of 
+Resident Evil 5
+.
+
+The Mastermind's
+ Mori is a reference to both the first confrontation between 
+Chris Redfield
+ and himself in 
+Resident Evil CODE: Veronica
+, and 
+Excella Gionne's
+ death in 
+Resident Evil 5
+.
+
+When stunned, 
+The Mastermind's
+ glasses may fall off, resulting in him pulling out another pair from his coat.
+
+The Mastermind's
+ pose in his bio is a reference to one of his artwork from 
+Teppen'
+, which also originated from 
+The Mastermind's
+ render from 
+Resident Evil 5
+.
+
+The same pose from 
+Teppen
+ appears in one of 
+The Mastermind's
+ menu animations.
+
+The title 
+The Mastermind
+ is likely in reference to 
+Resident Evil: Resistance
+, an assymetrical game where one player takes the role of the Mastermind, and must stop the Survivors from reaching the goal, by the means of various traps and B.O.W.s
+
+Though Albert was never made playable in Resistance, his sister, Alex, was.
+
+Cosmetics
+
+All of Wesker's skins with the exception of Blighted outfit originate from his appearances through the franchise
+
+Default Outfit
+ originates from  
+Resident Evil 5
+.
+
+Albert Wesker (S.T.A.R.S.)
+ originates from  
+Resident Evil (2002) 
+.
+
+This skin shares the same knife as 
+HUNK
+ with 
+The Mastermind's
+ being more dirtier and bloodier.
+
+New Dawn
+ originates from 
+Resident Evil 4 (2023)
+.
+
+This skin's description references the events of 
+Resident Evil 4 (2023)
+ and its DLC 
+Separate Ways
+, with 
+Ada Wong
+ betraying him, by taking the dominant Plaga parasite contained within the Amber away from him.
+
+The knife wielded in this skin belongs to 
+Jack Krauser
+.
+
+Lore
+
+Wesker
+ was taken by the The Entity during the final level of Resident Evil 5.
+
+Wesker's ability to use Uroboros causes a disconnect from the game's canon. As Wesker's body was heavily mutated by the virus, whilst 
+Dead by Daylight's
+ Wesker retains his normal form.
+
+According to his 
+Blighted Wesker
+ Cosmetic, 
+The Mastermind
+ is the only Killer to inject the 
+Blight Serum
+ into himself, as opposed to 
+The Blight
+ administering them.
+
+Voice Actor
+
+Despite some initial beliefs and theories pointing to 
+Albert Wesker's
+ original voice actor from ten 
+Resident Evil
+ games; Including '
+Resident Evil 5'
+, which the iteration is based on, D.C. Douglas, reprising his role for 
+Dead by Daylight
+, he himself confirmed that someone else stepped into his shoes for 
+Dead by Daylight
+, and wished the new voice actor best of luck taking on the role of 
+Albert Wesker
+.
+
+It was ultimately revealed that actor and voice actor Connor Fogarty had taken on the role of voicing 
+Albert Wesker
+ for 
+Dead by Daylight
+ in collaboration with The Monster Factory Inc.
+
+Voice-Lines
+
+The Mastermind
+ was the third Killer in the Game to actively speak in Trials.
+
+All of his voice lines originate from 
+Resident Evil 5
+.
+
+Keeping with their infamous rivalry, 
+The Mastermind
+ has special voice lines when interacting with 
+Chris Redfield
+.
+
+The Mastermind
+ was the first Killer to get voice lines when finding any Survivors in lockers.
+
+Before him, only 
+The Nemesis
+ had special voice-lines for S-T-A-R-S Survivors.
+
+Action
+
+Voice Line
+
+Audio
+
+Using 
+Virulent Bound
+.
+
+"Playtime is over."
+
+"Is that all you have?"
+
+"I expected more from you."
+
+"Do you actually think you can defeat me?"
+
+Downing Survivors.
+
+"Poor performance indeed."
+
+"You disappoint me. Is that the best you've got?"
+
+"Too bad you won't make it much further."
+
+Survivor escaping from his grasp.
+
+"You've really become quite an inconvenience for me."
+
+"This isn't over, Chris." 
+(
+Chris Redfield
+ only)
+
+Grabbing a Survivor.
+
+"Seven minutes is all I can spare to play with you."
+
+"I'll see you dead!"
+
+Hooking a Survivor.
+
+"I'm just getting started."
+
+"I tire of wasting my time with you."
+
+"You will not live to see the dawn!"
+
+"I expected more of a challenge."
+
+"Farewell, old friend!" 
+(Chris Redfield only)
+
+Grabbing a Survivor.
+
+"Your feeble attempts only delay the inevitable.
+
+Finding a Survivor in a Locker.
+
+"There's no point in hiding."
+
+"You can't hide forever!"
+
+Using a Memento Mori.
+
+"Let's finish this."
+
+"Time to die, Chris." 
+(Chris Redfield only)
+
+Getting stunned by Survivors.
+
+"You'll pay for that!"
+
+"Just accept your fate."
+
+"You're merely postponing the inevitable!"
+
+"Are you trying to make me angry?"
+
+Once all Survivors are infected (triggers the 
+Global Saturation
+ Score Event).
+
+"I shall release Uroboros!"
+
+Gallery
+
+In-game Assets
+
+The Mastermind
+
+The Mastermind (Portrait render)
+
+The Mastermind (Background image)
+
+Outfits
+
+Blighted Wesker Outfit
+
+New Dawn Outfit
+
+Other
+
+D.C. Douglas confirming on Instagram that he is not reprising his role for 
+Dead by Daylight
+.
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

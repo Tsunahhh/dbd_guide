@@ -1,0 +1,5453 @@
+# Philip Ojomo
+Source: https://deadbydaylight.wiki.gg/wiki/Philip_Ojomo (page complète via API, consultée le 27/09/2026)
+
+There's another apparition, more terrifying than anything I've ever seen, hunting amongst the shadows here. It moves like a silhouette, appearing and disappearing at the sound of a dreaded bell. It's impossible to track it. Several times it has caught me without me even seeing it closing in. Often convinced I have my back covered, it has promptly materialised right behind me to strike from close range. Stay still and watch the fog. Don't move, don't blink and for god's sake don't breathe. If you can control your fear long enough and can show self control, sometimes it is possible to see its shimmer as it glides forward if caught at just the right light. I pray for your safety.
+
+~ 
+ 
+Benedict Baker
+'s Journal, Nov. 1896 on The Wraith
+
+The Wraith
+
+Name
+
+Philip Ojomo
+
+Game Alias(es)
+
+"Banshee"
+
+"Bob"
+
+Gender
+
+Man
+
+Origin
+
+Nigerian
+
+Realm
+
+Autohaven Wreckers
+
+Power
+
+Wailing Bell
+
+Power 
+Attack
+ Type
+
+Basic Attack
+
+Weapon
+
+Azarov's Skull
+
+Movement Speed
+
+115 % 
+|
+ 4.6 m/s (Uncloaked)
+
+Alternate Movement speed
+
+150 % 
+|
+ 6 m/s
+(Cloaked)
+
+Terror Radius
+
+32 metres
+
+Height 
+
+Tall
+
+Voice Actor
+
+Filip Ivanovic (BHVR)
+
+Breathing
+
+Metadata
+
+CharID
+
+K02
+
+Philip Ojomo
+ or 
+"The Wraith"
+ is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+He was introduced as a member of the original Killer Trio that released with the Game on 14 June 2016.
+
+The Wraith
+ must first be unlocked as a playable Killer by completing the Killer 
+Tutorial
+.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+2.1
+ 
+The Archives
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: Azarov's Axe
+
+3.3
+ 
+Power: Wailing Bell
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for the Wailing Bell
+
+3.5
+ 
+Innate Skill
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Base Cosmetics
+
+5.1.1
+ 
+Default
+
+5.1.2
+ 
+Prestige
+
+5.1.2.1
+ 
+Perk Charms
+
+5.1.2.2
+ 
+Prestige Badges
+
+5.2
+ 
+Alternatives
+
+5.2.1
+ 
+Special
+
+5.2.2
+ 
+Event
+
+5.2.3
+ 
+DLC
+
+5.2.4
+ 
+Exclusives
+
+5.3
+ 
+Rift
+
+5.4
+ 
+In-Game Store
+
+6
+ 
+DLC
+
+7
+ 
+History
+
+7.1
+ 
+Lightburn
+
+8
+ 
+Change Log
+
+9
+ 
+Trivia
+
+9.1
+ 
+General
+
+9.2
+ 
+Cosmetics
+
+9.3
+ 
+Voice Actor
+
+10
+ 
+Gallery
+
+10.1
+ 
+In-game Assets
+
+10.2
+ 
+Official Art
+
+10.3
+ 
+Outfits
+
+10.4
+ 
+Old Assets
+
+10.5
+ 
+Concept Art
+
+10.6
+ 
+Screenshots
+
+11
+ 
+References
+
+Overview
+
+Using his Wailing Bell to render himself invisible, The Wraith tracks his prey and strikes with little warning. Upon hearing the Bell’s fateful chime, Survivors must think fast or suffer the consequences. A hit-and-run specialist, The Wraith is adept at keeping everybody injured.
+
+The Wraith
+ is a stealth Killer, able to cloak and uncloak at the ringing of his 
+Wailing Bell
+.
+
+His personal Perks, 
+Predator
+, 
+Bloodhound
+, and 
+Shadowborn
+, give him extra abilities to track and locate Survivors, making him a very efficient Hunter.
+
+He focuses on tracking and hunting Survivors, making it easier to catch and kill them.
+
+Lore
+
+Philip Ojomo came to this country without anything than hope for a new beginning. He was happy as he got offered a job at Autohaven Wreckers. A small scrap yard where bribed cops turned a blind eye for the somewhat shady business that took place.
+
+Ojomo didn't care. He had seen criminal activity up close in his homeland and as long as he didn't get involved, he let things be. He just fixed cars and handled the crusher. Something he did really well. A car went in and a small, metallic cube came out.
+
+It was not until one gloomy day that he, just by accident, saw some blood coming from one of the un-crushed cars. As he opened the trunk he found a young man, gagged and with tied hands with panic filled eyes. Ojomo freed the man who managed to run ten feet before Ojomo's boss stopped him and slit his throat. As Ojomo demanded answers he got explained to him that he'd been nothing more than a simple executioner as more or less every car had a soul in them as this was a "service" the scrap yard provided to certain "clients".
+
+Ojomo snapped and went ballistic. He threw his boss in the crusher and let it slowly compress, as the head stuck out, Ojomo grabbed it and pulled head and spine out of the body. Then he left and was never seen again.
+
+The Archives
+
+The table below lists additional Lore about 
+The Wraith
+ from 
+The Archives
+, either from 
+Tomes
+ that featured him or from individual Lore entries that mentioned him:
+
+Tome
+
+Entry
+
+Type
+
+Tome 4 - Conviction
+
+The Algebra of Infinite Night
+
+Featured Character
+
+Event Tome 1 - The Midnight Grove
+
+The Bell from Hell
+
+Mentioned
+
+Load-out
+
+Unique Perks
+
+The Wraith
+ comes with 
+3
+ 
+Perks
+ that are unique to him:
+
+ 
+
+Bloodhound
+
+"Like a hunting scent hound, you smell traces of blood at a great distance."
+
+Bloodhound
+ causes the following effects:
+
+Pools of Blood
+ left by injured Survivors appear in 
+bright red
+.
+
+Extends
+ their lifetime by 
+2
+/
+3
+/
+4
+ 
+seconds
+.
+
+"Pebbles shimmering in the moonlight; my life drips down in a trail so easy to follow."
+
+ 
+
+Predator
+
+"Your acute tracking ability allows you to find lost prey more easily."
+
+Whenever you lose a Survivor in a 
+Chase
+, 
+Predator
+ triggers its effect:
+
+Their 
+Aura
+ is revealed to you for 
+4 seconds
+.
+
+Predator
+ has a cool-down of 
+60
+/
+50
+/
+40
+ 
+seconds
+.
+
+"Never stop moving and hope you're always two steps ahead of the beast." — Unknown, Notebook
+
+ 
+
+Shadowborn
+
+"You have a keen vision in the darkness of the night."
+
+Whenever you are blinded by any means, 
+Shadowborn
+ triggers its effect:
+
+Grants a 
+6
+/
+8
+/
+10
+ 
+%
+ 
+Haste
+ 
+Status Effect
+ for 
+10 seconds
+.
+
+"Shining in the darkest dark, his eyes pierce the night and sting your soul."
+
+Prestige
+
+Prestiging 
+The Wraith
+ will automatically add 
+Tier I
+ of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Wraith
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: Azarov's Axe
+
+Azarov's Axe
+ is the Primary Weapon of 
+The Wraith
+.
+The teeth of death lie on Azarov's skull and spine.
+
+Power: Wailing Bell
+
+"A heavy cast iron bell imbued with ancient powers.
+Allows the user to enter and walk the Spirit World when rung."
+SPECIAL OBJECT: WAILING BELL
+The Wraith
+ starts the Trial in the 
+Cloaked State
+, which has the following effects:
+
+Grants the 
+Undetectable
+ 
+Status Effect
+.
+
+Increases
+ his Movement speed to 
+6 m/s
+.
+
+Fully invisible to Survivors who are farther than 
+20 metres
+ away from him.
+
+Partially invisible to Survivors who are within 
+20 metres
+ of him.
+
+Fully transparent while stationary for a moment and for as long as he remains unmoving.
+
+Removes
+ the ability to attack or interact with Survivors.
+
+The Wraith
+ is still able to interact with Props.
+
+Ringing the 
+Wailing Bell
+ can be heard by Survivors throughout the Trial within the following ranges:
+
+The bell toll has a range of 
+24 metres
+.
+
+The accompanying *Wooosh* noise during the transition phase has a range of 
+40 metres
+.
+
+SPECIAL ABILITY: CLOAK / UNCLOAK
+The Wraith
+ must 
+Uncloak
+ in order to attack and interact with Survivors.
+Press and hold the 
+Power button
+ at any time to ring the 
+Wailing Bell
+ and 
+Uncloak
+, exiting the 
+Spirit World
+:
+
+Boosts
+ his Movement speed to 
+150 %
+ for 
+1 second
+.
+
+The Wraith
+ can 
+Cloak
+ and re-enter the 
+Spirit World
+ at any time by pressing and holding the 
+Power button
+ again to ring the 
+Wailing Bell
+.
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Walking: 
+4.6 m/s
+
+Cloaked Walking: 
+6.0 m/s
+
+Uncloaking: 
+1.6 m/s
+
+Post-Uncloak Boost: 
+6.9 m/s
+
+Cloaking: 
+4.6 m/s
+
+Surprise Attack:
+
+The 
+Surprise Attack
+ is a 
+Score Event
+ in the 
+Deviousness
+ Category that is triggered each time 
+The Wraith
+ successfully hits any Survivor within 
+5 seconds
+ after uncloaking with a regular 
+Basic Attack
+.
+The 
+Surprise Attack
+ is not a Special Attack, but rather just a Score Event the game checks for to trigger certain effects (e.g. 
+"The Beast" - Soot
+, 
+"Blind Warrior" - Mud
+ and 
+"Blind Warrior" - White
+).
+
+Cloaking:
+
+Action duration: 
+1.5 seconds
+
+The 
+Wailing Bell
+ rings throughout the animation.
+
+Starting to cloak triggers a rattling noise.
+
+No Movement Speed penalty.
+
+The 
+Wailing Bell
+ rings throughout the animation.
+
+Uncloaking:
+
+Action duration: 
+3 seconds
+
+The 
+Wailing Bell
+ only starts ringing after 
+1.5 seconds
+.
+
+Uncloak Movement speed: 
+1.6 m/s
+
+Post-Uncloak Speed burst: 
+1 second at 6 m/s
+
+Stuns:
+
+Getting stunned while 
+The Wraith
+ is 
+Cloaked
+ forces him to uncloak while he is stunned in place for 
+4 seconds
+.
+
+Lightburn
+ (obsolete):
+
+This mechanic was removed with 
+Patch 6.7.0
+.
+
+Getting lightburnt had the same effect as stunning 
+The Wraith
+.
+
+Lightburn from 
+Flashlights
+ took 
+2 seconds
+ to initiate.
+
+Lightburn from Perks using/supplying 
+Flash Grenades
+ or from 
+Firecrackers
+ were instantaneous.
+
+Add-ons for the Wailing Bell
+
+Icon
+
+Name
+
+Description
+
+"The Beast" - Soot
+
+The Kunwulju symbol, representing the Realm of Fear, is finger-drawn out of soot on the body of the Bell.
+
+Your 
+Terror Radius
+ is no longer suppressed when 
+Cloaked
+.
+
+Grants 
++100 %
+ bonus Bloodpoints for 
+Stalking
+ and 
+Surprise Attack
+ Score Events.
+
+"The Ghost" - Soot
+
+The Khugwemuu symbol, representing the Spirit World, is finger-drawn out of soot on the body of the Bell.
+
+Your 
+Terror Radius
+ and 
+Red Stain
+ are suppressed for another 
+6 seconds
+ after uncloaking.
+
+"The Hound" - Soot
+
+The Wonnug symbol, representing a peerless tracker, is finger-drawn out of soot on the body of the Bell.
+
+When 
+Cloaked
+, 
+Pools of Blood
+ appear to you in 
+bright red
+.
+
+"The Serpent" - Soot
+
+The Laokeye symbol, representing cunning, is finger-drawn out of soot on the body of the Bell.
+
+Breaking 
+Breakable Walls
+ or 
+Pallets
+ by any means, or performing the 
+Damage Generator
+ action on incomplete 
+Generators
+, will cause you to automatically uncloak.
+
+"Blind Warrior" - Mud
+
+The Baikra-Kaeug symbol, representing ferocity, is finger-drawn in mud on the body of the bell.
+
+Survivors hit with a 
+Surprise Attack
+ suffer from the 
+Blindness
+ 
+Status Effect
+ for 
+60 seconds
+.
+
+"Blink" - Mud
+
+The Kratin symbol, representing quick passing, is finger-drawn in mud on the body of the Bell.
+
+Reduces
+ the Cloaking time by 
+-40 %
+.
+
+"Swift Hunt" - Mud
+
+The Kuntin-Takkho symbol, representing a rapid descent on a prey, is finger-drawn in mud on the body of the Bell.
+
+Reduces
+ the Uncloaking time by 
+-8 %
+.
+
+"Windstorm" - Mud
+
+The Ohuwe-Onmnea symbol, representing a howling storm, is finger-drawn in mud on the body of the Bell.
+
+Increases
+ your Movement Speed while 
+Cloaked
+ by 
++5 %
+.
+
+Bone Clapper
+
+A Bell clapper made from a highly polished piece of bone.
+Causes the sounds of the Wailing Bell to echo and warp chaotically.
+
+Survivors are unable to discern the distance and direction of the 
+Wailing Bell
+.
+
+"Blind Warrior" - White
+
+The Baikra-Kaeug symbol, representing ferocity, is stamped in white ink on the body of the bell.
+
+Survivors hit with a 
+Surprise Attack
+ suffer from the 
+Haemorrhage
+ and 
+Mangled
+ 
+Status Effects
+ for 
+70 seconds
+.
+
+"Blink" - White
+
+The Kratin symbol, representing quick passing, is stamped in white ink on the body of the Bell.
+
+Reduces
+ the Cloaking time by 
+-60 %
+.
+
+"Shadow Dance" - White
+
+The Yiwarick symbol, representing dark synergy, is stamped in white ink on the body of the Bell.
+
+Increases
+ the Action speeds for breaking 
+Breakable Walls
+ and 
+Pallets
+, damaging 
+Generators
+, and vaulting 
+Windows
+ by 
++40 %
+ while 
+Cloaked
+.
+
+"Swift Hunt" - White
+
+The Kuntin-Takkho symbol, representing a rapid descent on a prey, is stamped in white ink on the body of the Bell.
+
+Reduces
+ the Uncloaking time by 
+-10 %
+.
+
+"Windstorm" - White
+
+The Ohuwe-Onmnea symbol, representing a howling storm, is stamped in white ink on the body of the Bell.
+
+Increases
+ your Movement Speed while 
+Cloaked
+ by 
++7 %
+.
+
+"All Seeing" - Blood
+
+The Kra-Frabai symbol, representing The Entity watching over us, is stamped in blood on the head of the bell.
+
+Unlocks potential in your Aura-reading ability while 
+Cloaked
+:
+
+The 
+Auras
+ of Survivors are revealed to you within 
+8 metres
+ of your location.
+
+"Shadow Dance" - Blood
+
+The Yiwarick symbol, representing dark synergy, is stamped in blood on the body of the Bell.
+
+Increases
+ the Action speeds for breaking 
+Breakable Walls
+ and 
+Pallets
+, damaging 
+Generators
+, and vaulting 
+Windows
+ by 
++60 %
+ when 
+Cloaked
+.
+
+"Swift Hunt" - Blood
+
+The Kuntin-Takkho symbol, representing a rapid descent on a prey, is stamped in blood on the body of the Bell.
+
+Reduces
+ the Uncloaking time by 
+-12 %
+.
+
+"Windstorm" - Blood
+
+The Ohuwe-Onmnea symbol, representing a howling storm, is stamped in blood on the body of the Bell.
+
+Increases
+ your Movement Speed while 
+Cloaked
+ by 
++9 %
+.
+
+"All Seeing" - Spirit
+
+The Kra-Frabai symbol, representing The Entity watching over us, ominously glows on the head of the bell.
+
+Unlocks potential in your Aura-reading ability while 
+Cloaked
+:
+
+The intensity of the 
+Generator
+ 
+Auras
+ reveals their current Repair progress.
+
+Coxcombed Clapper
+
+A simple coxcomb knotted rope wrapped around the bell clapper to muffle its sound.
+A malevolent Aura emanates from it.
+
+Silences
+ the 
+Wailing Bell
+.
+
+Innate Skill
+
+Used exclusively in 
+2v8
+ Trials, the 
+Innate Skill
+ modifies the 
+Wailing Bell
+ with the following effects:
+
+Innate Skill
+ (
+Wraith Passive
+) 
+
+Modifies the 
+Wailing Bell
+ with the following effects:
+
+Reduces
+ the respective Charge times for 
+Cloaking
+ and 
+Uncloaking
+ by 
+-22 %
+.
+
+While 
+Cloaked
+:
+
+Increases
+ his Movement speed by 
++9 %
+.
+
+Increases
+ the Action speeds for Breaking, Damaging, and Vaulting actions by 
++60 %
+.
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There are 
+2
+ Achievements related to 
+The Wraith
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Wraith
+
+Playing as The 
+Wraith
+, achieve a 
+Merciless Victory
+ using only his 
+3
+ Unique Perks: 
+Predator
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Your acute tracking ability allows you to find lost prey more easily."
+
+Whenever you lose a Survivor in a 
+Chase
+, 
+Predator
+ triggers its effect:
+
+Their 
+Aura
+ is revealed to you for 
+4 seconds
+.
+
+Predator
+ has a cool-down of 
+60
+/
+50
+/
+40
+ 
+seconds
+.
+
+"Never stop moving and hope you're always two steps ahead of the beast." — Unknown, Notebook
+
+, 
+Bloodhound
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Like a hunting scent hound, you smell traces of blood at a great distance."
+
+Bloodhound
+ causes the following effects:
+
+Pools of Blood
+ left by injured Survivors appear in 
+bright red
+.
+
+Extends
+ their lifetime by 
+2
+/
+3
+/
+4
+ 
+seconds
+.
+
+"Pebbles shimmering in the moonlight; my life drips down in a trail so easy to follow."
+
+, and 
+Shadowborn
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"You have a keen vision in the darkness of the night."
+
+Whenever you are blinded by any means, 
+Shadowborn
+ triggers its effect:
+
+Grants a 
+6
+/
+8
+/
+10
+ 
+%
+ 
+Haste
+ 
+Status Effect
+ for 
+10 seconds
+.
+
+"Shining in the darkest dark, his eyes pierce the night and sting your soul."
+
+.
+
+Jump Scares
+
+Playing as The 
+Wraith
+, successfully land 
+100
+ / 
+50
+ (
+For consoles
+) 
+ 
+Surprise Attacks
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Wraith
+:
+
+Base Cosmetics
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Wraith
+
+Common
+
+Alas cries the wraith, such tears of gore.
+
+Dark Cloak
+
+Common
+
+A once fine cloak now caked in the offal of his prey.
+
+Azarov's Axe
+
+Common
+
+The teeth of death lie on Azarov's skull and spine.
+
+Skull Crusher
+
+Common
+
+Sharpened, rusty car parts bound to the bone to make each hit more visceral.
+
+Alternate customisation of the default Azarov's Axe
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Bloody Wraith
+
+Rare
+
+A mask of blood hides the eyes of certain death.
+
+Prestige Level 6 Reward
+
+Dripping Blood Cloak
+
+Rare
+
+An outfit of shadow, blood and grime.
+
+Prestige Level 5 Reward
+
+Bloody Azarov's Axe
+
+Rare
+
+When the bloodlust is in full swing, his weapon glistens thick with clotted blood.
+
+Prestige Level 4 Reward
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+No matter how hard he tried, there was no escaping a life of cruelty and violence.
+
+Alternatives
+
+Special
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Event
+
+Marked Bloodlust Axe
+
+Common
+
+A blunt piece of iron crafted into a weapon to crush bones and muscles into a bloody pump. An almost imperceptible whisper echoes in the wielder's mind: "'anoyk yeqkany'ye hvay'k l'gnoo eydokl'x: sekall'o ammk'ix.
+
+1 Year Anniversary
+
+All Hallows' Eyes
+
+Uncommon
+
+Something wicked pierces the shadows of this frightful night.
+
+"Have a fabulous Halloween 2016!" -The Dead by Daylight Team
+
+2016 Halloween Event
+
+Frosty Eyes
+
+Uncommon
+
+Heart chilling eyes of the cold blooded.
+
+"Have a Wonderful Winter 2017-2018!" - The Dead by Daylight Team
+
+Winter Solstice 2017
+
+Ripped Cloak (5th Anniversary)
+
+Uncommon
+
+Alas cries the wraith, such tears of gore.
+
+Fifth Year Anniversary
+
+Golden Wraps (5th Anniversary)
+
+Uncommon
+
+A once file cloak now caked in the offal of his prey.
+
+Fifth Year Anniversary
+
+Azarov's Axe (5th Anniversary)
+
+Uncommon
+
+The teeth of death lie on the Azarovs skull and spine.
+
+Fifth Year Anniversary
+
+Biomechanical Spine
+
+Very Rare
+
+This bizarre sub-clone results from an unknown technology combined with organic material.
+
+Owning 
+Meet Your Maker
+ and 
+Dead by Daylight
+ in same platform.
+
+Event
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Collection
+
+Event
+
+Exclusive to Event Participation
+
+Crown of the Entity
+
+Event
+
+A crown emanating a festive and ominous aura created by the Entity's biggest fan.
+
+-
+
+Fourth Year Anniversary
+
+Yes
+
+5th Anniversary Crown
+
+Event
+
+A crown crafted for a very special anniversary.
+
+"Thank you for supporting & inspiring us along the years!" - The Dead by Daylight Team
+
+-
+
+Fifth Year Anniversary
+
+Yes
+
+Spine Candy
+
+Event
+
+Each vertebra from the spine and skull of an unfortunate victim dripped with blood, forming perfect stripes of crimson, like a candy-cane.
+
+Bone Chill
+
+Bone Chill
+
+Yes
+
+Sweet Blade
+
+Event
+
+A sharp blade coated in sour candy.
+
+Tricks and Treats
+
+Haunted by Daylight 2023
+
+Yes
+
+Murky Antlers
+
+Event
+
+He cringed at the putrid stench but was amazed by the impressive size of the perfectly symmetrical antlers.
+
+Bone Chill 2023
+
+Bone Chill 2023
+
+Yes
+
+Knitted Plaid
+
+Event
+
+He ignored the flies buzzing around him as he removed the antlers from the deer and closed the trunk.
+
+Bone Chill 2023
+
+Bone Chill 2023
+
+Yes
+
+Bone Threat
+
+Event
+
+He watched the car get crushed, metal and bones merging while carefully polishing the antlers.
+
+Bone Chill 2023
+
+Bone Chill 2023
+
+Yes
+
+DLC
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+DLC
+
+Swift Strikes - White
+
+Uncommon
+
+The Kuntin-Weyhe symbol, representing rapid and deadly aggressions, is finger-drawn in white paint.
+
+Bloodstained Sack
+
+The Owl - White
+
+Uncommon
+
+The Ug-Wufo symbol, representing a flying hunter of the night, is finger-drawn in white paint.
+
+Bloodstained Sack
+
+Mr. Bing Bong
+
+Uncommon
+
+A unique look for The Wraith, created for Marth88.
+
+Charity Case
+
+Exclusives
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Event
+
+Legacy Wraith 3
+
+Very Rare
+
+The touch of the Entity leaves burning scars and blisters of light. Is it a gift or a curse?
+
+Legacy Prestige Reward
+
+Legacy Wraith 2
+
+Very Rare
+
+The touch of the Entity leaves burning scars and blisters of light. Is it a gift or a curse?
+
+Legacy Prestige Reward
+
+Legacy Wraith 1
+
+Very Rare
+
+The touch of the Entity leaves burning scars and blisters of light. Is it a gift or a curse?
+
+Legacy Prestige Reward
+
+Face of the Omega
+
+Very Rare
+
+A unique face for The Wraith, exclusively for Ohmwrecker.
+
+Exclusive to Ohmwrecker.
+
+ Rift
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Marsh Madness
+
+Into the Wilderness
+
+Tome 5 - Unleashed
+
+18 November 2021 (Thursday)
+
+Description
+
+The incessant croaking throughout the swamp made him wonder… what sounds do frogs make when flayed alive?
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Bog Dweller
+
+Into the Wilderness
+
+34
+
+A tattered, handmade cloak that removed a considerable amount of amphibians from the wetlands.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Warted Shroud
+
+Into the Wilderness
+
+7
+
+Wart-covered vest and waist wraps that move nimbly through pools of water and blood.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Last Croak
+
+Into the Wilderness
+
+13
+
+A peculiar artifact from the muddy depths of the pond, it reeks of decomposing swamp life.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Night Whistler
+
+WOODLAND RITES
+
+Tome 1 - Awakening
+
+22 January 2021 (Friday)
+
+Description
+
+He visits those who draw attention to themselves by whistling in the woods late at night.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Occult Cloak
+
+WOODLAND RITES
+
+31
+
+A sturdy mask made of bark that allowed him to venture in the woods undetected.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Garment of Torment
+
+WOODLAND RITES
+
+9
+
+Garbs taken from those who ventured too far from their home.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Oaken Backbone
+
+WOODLAND RITES
+
+17
+
+Branches carved into an elaborate spine.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+High-Vis Scraps
+
+Autumn Chill
+
+Tome 13 - Malevolence
+
+25 February 2025 (Tuesday)
+
+Description
+
+Working at a high-risk location requires some mitigating precautions.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Sweat-Soaked Rags
+
+Autumn Chill
+
+22
+
+While he should probably have had his helmet on, the sweltering heat made it worth taking a risk from time to time.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Reflective Poncho
+
+Autumn Chill
+
+31
+
+Extremely easy to see, except for when it isn’t.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Scrapyard Axe
+
+Autumn Chill
+
+24
+
+A violent combination of bits and pieces from Autohaven Wreckers.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+High-Vis Scraps (Deep Rift)
+
+Deep Rift
+
+Tome 13 - Malevolence
+
+12 June 2018 (Tuesday)
+
+Description
+
+Living in a waking nightmare requires some mitigating precautions.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Sweat-Soaked Rags (Deep Rift)
+
+Deep Rift
+
+73
+
+While he should probably have had his helmet on, the unending trials made it worth taking a risk from time to time.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Reflective Poncho (Deep Rift)
+
+Deep Rift
+
+83
+
+Extremely easy to see, except for when it’s foggy.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Scrapyard Axe (Deep Rift)
+
+Deep Rift
+
+78
+
+A violent combination of bits and pieces from around the Entity’s realm.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Dead Roots
+
+Entombed Remains
+
+Rift Pass 2 - Entombment
+
+29 July 2025 (Tuesday)
+
+Description
+
+He woke up screaming. All these years later, the bloodshed of his past still haunted his dreams.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Calcified Skull
+
+Entombed Remains
+
+14
+
+The nightmare faded from memory as he got out of bed. But one image remained clear in his mind: a gnarled bony tree.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Still Sternum
+
+Entombed Remains
+
+10
+
+Was it something he saw in his youth? The site of a profound pyre? He couldn't remember.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Slashing Spine
+
+Entombed Remains
+
+16
+
+He didn't have time to think on it further. He had another long day at the scrapyard ahead of him.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Periwinkle the Jester
+
+Community
+
+Rift Pass 5 - Ruin
+
+28 April 2026 (Tuesday)
+
+Description
+
+A dark part of him, buried deep inside, emerged from the shadows with a cruel grin.
+Design inspired by 
+KahChen
+.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Fool's Cap
+
+Community
+
+57
+
+With all the awful things he had seen, the only thing left to do was laugh.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Purple Motley
+
+Community
+
+65
+
+His chest heaved frantically. He struggled to catch his breath between choking peals of unbearable laughter.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Side-Splitter
+
+Community
+
+69
+
+The violence played out once again before his eyes. The laughter died a sudden death.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Space Terror
+
+Space Travel Collection
+
+Tome 16 - Existence
+
+12 June 2018 (Tuesday)
+
+Description
+
+He recalled a tale his grandmother told him about space travelers and unspeakable terrors.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Knitted Cloak
+
+Space Travel Collection
+
+50
+
+He blended in with the fog, with his pale and rough skin.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Murky Garment
+
+Space Travel Collection
+
+64
+
+He has been wearing this old and tattered clothing for a while.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Unknown Backbone
+
+Space Travel Collection
+
+60
+
+A weapon crafted from an unidentified species.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Lord Dracula
+
+Halloween 2021
+
+Tome 9 - Crescendo
+
+25 October 2022 (Tuesday)
+
+Description
+
+A Halloween costume of the man who spawned a thousand vampire stories.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Masked Terror
+
+Halloween 2021
+
+43
+
+A half-mask that fails to conceal the evil within.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Noble’s Cloak
+
+Halloween 2021
+
+66
+
+A regal cloak that speaks to the wealth of its wearer.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Sanguine Blade
+
+Halloween 2021
+
+35
+
+A sword forged in fire and blood.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Bruising Roots
+
+Dark Overgrowth
+
+Rift Pass 1 - Overgrowth
+
+06 May 2025 (Tuesday)
+
+Description
+
+A long-abandoned car sat in the junkyard, covered in vines. A disturbing orange moss grew from the trunk.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Overgrown Cloak
+
+Dark Overgrowth
+
+17
+
+His curiosity brought him closer. As he broke through the rusted lock, a putrid stench from the open trunk filled his nose and throat.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Forgotten Remains
+
+Dark Overgrowth
+
+21
+
+The fungus flourishing within the trunk released spores as Philip exposed them to the light. He drew back, and the trunk slammed back into place.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Flesh Finder
+
+Dark Overgrowth
+
+24
+
+Pain radiated from his hand. Something on the car sliced through the palm of his hand. Spores lined the wound, mingling with his blood.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Phantom of Vengeance
+
+Conviction
+
+Tome 4 - Conviction
+
+07 October 2021 (Thursday)
+
+Description
+
+All-consuming hatred begins as a spark of injustice. All it needs from there is a drop of kerosene.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Shrouded Intent
+
+Conviction
+
+35
+
+Somewhere beneath the hood is conflict, uncertainty, and—most of all—rage.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+The Fire Within
+
+Conviction
+
+1
+
+What was once good and pure now burned as an inferno within him. So hot, it would someday leave nothing but cold, dry ash.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Axe of Reprisal
+
+Conviction
+
+68
+
+A vicious weapon pieced together with refuse from the scrap heap, and the skull of a man who deserved everything he got.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Phantom Lizard
+
+Guardians & Shadows
+
+Tome 20 - Mythic
+
+15 May 2025 (Thursday)
+
+Description
+
+His grandmother once told him the story of the trickster lizard, who taught the people to bury their dead.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Slithering Frill
+
+Guardians & Shadows
+
+8
+
+Huddled in his bunker, he waited for a sign that it was safe to come out of hiding.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Charmed Soul
+
+Guardians & Shadows
+
+2
+
+The lizard came to him in the night, and he knew it was the sign he was waiting for.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Adorned Axe
+
+Guardians & Shadows
+
+5
+
+Everything would be all right from now on, and his grandmother would always be with him.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Scrap Collector
+
+Sacrifice The Sunflesh
+
+Rift Pass 6 - Sunflesh
+
+21 July 2026 (Tuesday)
+
+Description
+
+The clothes of an ancient scrapper. He discovered an endless treasure at the base of a rapturous phenomenon.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Reptilia Vizard
+
+Sacrifice The Sunflesh
+
+66
+
+Above this wealth of gold, a wide opening ripped open the dry desert air. Having never seen such anomaly before, he warned the priestess.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Aurous Cloak
+
+Sacrifice The Sunflesh
+
+68
+
+Many believers came to pray before it as new treasures poured forth. Using his crafting skills, he turned the gold into finery for everyone.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Cold-Blooded Axe
+
+Sacrifice The Sunflesh
+
+70
+
+Head held high alongside his new community, he walked through the opening in search of a new world, but found only blood and death.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Scrap Collector (Deep Rift 1)
+
+Sacrifice The Sunflesh
+
+Rift Pass 6 - Sunflesh
+
+21 July 2026 (Tuesday)
+
+Description
+
+The clothes of an ancient scrapper. He discovered an endless treasure at the base of a rapturous phenomenon.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Reptilia Vizard (Deep Rift 1)
+
+Sacrifice The Sunflesh
+
+86
+
+Above this wealth of gold, a wide opening ripped open the dry desert air. Having never seen such anomaly before, he warned the priestess.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Aurous Cloak (Deep Rift 1)
+
+Sacrifice The Sunflesh
+
+86
+
+Many believers came to pray before it as new treasures poured forth. Using his crafting skills, he turned the gold into finery for everyone.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Cold-Blooded Axe (Deep Rift 1)
+
+Sacrifice The Sunflesh
+
+86
+
+Head held high alongside his new community, he walked through the opening in search of a new world, but found only blood and death.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Scrap Collector (Deep Rift 2)
+
+Sacrifice The Sunflesh
+
+Rift Pass 6 - Sunflesh
+
+21 July 2026 (Tuesday)
+
+Description
+
+The clothes of an ancient scrapper. He discovered an endless treasure at the base of a rapturous phenomenon.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Reptilia Vizard (Deep Rift)
+
+Sacrifice The Sunflesh
+
+100
+
+Above this wealth of gold, a wide opening ripped open the dry desert air. Having never seen such anomaly before, he warned the priestess.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Aurous Cloak (Deep Rift 2)
+
+Sacrifice The Sunflesh
+
+100
+
+Many believers came to pray before it as new treasures poured forth. Using his crafting skills, he turned the gold into finery for everyone.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Cold-Blooded Axe (Deep Rift 2)
+
+Sacrifice The Sunflesh
+
+100
+
+Head held high alongside his new community, he walked through the opening in search of a new world, but found only blood and death.
+
+Piece
+
+Name
+
+Tome
+
+Rift Tier
+
+Glowing Vigil (Orange)
+
+Tome 2 - Reckoning
+12
+
+This wax monument serves as a vigil to the final shred of humanity, as well as the hatred seething inside.
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Bad Omen
+
+Wraith Aberrations
+
+12 June 2018 (Tuesday)
+
+Description
+
+Through the veil of night, the death bell rings.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Ripped Cloak (Cloudy)
+
+Wraith Aberrations
+
+A torn leather cloak, sullied by a fine layer of dirt and filth.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Ashen Wraps (Cloudy)
+
+Wraith Aberrations
+
+Soiled body wraps, belts, and soot.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Bad Omen
+
+Wraith Aberrations
+
+12 June 2018 (Tuesday)
+
+Description
+
+Through the veil of night, the death bell rings.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Ripped Cloak (Gloomy)
+
+Wraith Aberrations
+
+A torn leather cloak, sullied by a fine layer of dirt and filth.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Ashen Wraps (Gloomy)
+
+Wraith Aberrations
+
+Soiled body wraps, belts, and soot.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Bad Omen
+
+Wraith Aberrations
+
+12 June 2018 (Tuesday)
+
+Description
+
+Through the veil of night, the death bell rings.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Ripped Cloak (Shady)
+
+Wraith Aberrations
+
+A torn leather cloak, sullied by a fine layer of dirt and filth.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Ashen Wraps (Shady)
+
+Wraith Aberrations
+
+Soiled body wraps, belts, and soot.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Bad Omen
+
+Wraith Aberrations
+
+12 June 2018 (Tuesday)
+
+Description
+
+Through the veil of night, the death bell rings.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Ripped Cloak (Somber)
+
+Wraith Aberrations
+
+A torn leather cloak, sullied by a fine layer of dirt and filth.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Ashen Wraps (Somber)
+
+Wraith Aberrations
+
+Soiled body wraps, belts, and soot.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Bad Omen
+
+Wraith Aberrations
+
+12 June 2018 (Tuesday)
+
+Description
+
+Through the veil of night, the death bell rings.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Ripped Cloak (Umbral)
+
+Wraith Aberrations
+
+A torn leather cloak, sullied by a fine layer of dirt and filth.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Ashen Wraps (Umbral)
+
+Wraith Aberrations
+
+Soiled body wraps, belts, and soot.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Death Blow
+
+THE PULVERIZER
+
+18 September 2018 (Tuesday)
+
+Description
+
+For each shredded car, a soul was taken.
+
+180
+
+3600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Reaper’s Cloak (Cruel)
+
+THE PULVERIZER
+
+A traditional cloak with symbols drawn in limestone wastes.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Acrid Wraps (Cruel)
+
+THE PULVERIZER
+
+Crusty body wraps with blood splatter.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Marsh Madness
+
+Into the Wilderness
+
+Tome 5 - Unleashed
+
+18 November 2021 (Thursday)
+
+Description
+
+The incessant croaking throughout the swamp made him wonder… what sounds do frogs make when flayed alive?
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Bog Dweller
+
+Into the Wilderness
+
+34
+
+A tattered, handmade cloak that removed a considerable amount of amphibians from the wetlands.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Warted Shroud
+
+Into the Wilderness
+
+7
+
+Wart-covered vest and waist wraps that move nimbly through pools of water and blood.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Last Croak
+
+Into the Wilderness
+
+13
+
+A peculiar artifact from the muddy depths of the pond, it reeks of decomposing swamp life.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Death Trap
+
+THE PULVERIZER
+
+18 September 2018 (Tuesday)
+
+Description
+
+For each shredded car, a soul was taken.
+
+180
+
+3600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Shredder’s Cloak (Grim)
+
+THE PULVERIZER
+
+A traditional cloak with symbols drawn in limestone wastes.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Fetid Wraps (Grim)
+
+THE PULVERIZER
+
+Crusty body wraps with blood splatter.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Night Whistler
+
+WOODLAND RITES
+
+Tome 1 - Awakening
+
+22 January 2021 (Friday)
+
+Description
+
+He visits those who draw attention to themselves by whistling in the woods late at night.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Occult Cloak
+
+WOODLAND RITES
+
+31
+
+A sturdy mask made of bark that allowed him to venture in the woods undetected.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Garment of Torment
+
+WOODLAND RITES
+
+9
+
+Garbs taken from those who ventured too far from their home.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Oaken Backbone
+
+WOODLAND RITES
+
+17
+
+Branches carved into an elaborate spine.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Shadow Walker
+
+GRIM TIDINGS
+
+12 June 2018 (Tuesday)
+
+Description
+
+The bell tolls for those whose time is up. They have been warned.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Shadow Face Wrap
+
+GRIM TIDINGS
+
+Wrap your face in the blood-stained cloth of your prey and take to the shadows to stalk your next victim.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Shadow Vest
+
+GRIM TIDINGS
+
+Embrace the cold, dark caress of the shadows for they are your only refuge.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Bloodied Sickle Knife
+
+GRIM TIDINGS
+
+This sickle-shaped blade was once used to harvest crops. Now it has been repurposed for the express objective of harvesting spines and organs.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Mind Haunter
+
+Blood And Bones
+
+25 July 2024 (Thursday)
+
+Description
+
+The sharp fingers released him at last, and he realized he was somewhere new.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Spiked Hood
+
+Blood And Bones
+
+He stood before a sinister figure in a spiky red mask, and quickly realized he was wearing a similar mask.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Distinguished Wraps
+
+Blood And Bones
+
+Whoever this was, they were here for a similar purpose. A voice inside told him they would have to work together.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Adorned Spine
+
+Blood And Bones
+
+Together they forged ahead, their connection strong and unspoken.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+High-Vis Scraps
+
+Autumn Chill
+
+Tome 13 - Malevolence
+
+25 February 2025 (Tuesday)
+
+Description
+
+Working at a high-risk location requires some mitigating precautions.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Sweat-Soaked Rags
+
+Autumn Chill
+
+22
+
+While he should probably have had his helmet on, the sweltering heat made it worth taking a risk from time to time.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Reflective Poncho
+
+Autumn Chill
+
+31
+
+Extremely easy to see, except for when it isn’t.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Scrapyard Axe
+
+Autumn Chill
+
+24
+
+A violent combination of bits and pieces from Autohaven Wreckers.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Mangled Wrecker
+
+ROUTE 66
+
+25 September 2019 (Wednesday)
+
+Description
+
+Returning to the place where it all began, he contemplates the time when he was a decent human being.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Chain Linked
+
+ROUTE 66
+
+He returned from the spirit world, changed. The metal chains and plates fused into him, as if memories of his former life as a wrecker fused with his physical form.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Charred Scraps
+
+ROUTE 66
+
+Rusted steel weaves and slices along his body, sharp edges scraping with each movement. It was the same fate as the victims he fed into the crusher, though they had been granted the mercy of death.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Country Roads
+
+ROUTE 66
+
+Twisted license plates curl over a rusted pipe; a memory of the sights once seen, and the many who were lost along the way… by his hands.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Stray Cat
+
+Cursed Cats
+
+10 October 2023 (Tuesday)
+
+Description
+
+Every morning, Ojomo would leave several bowls of cat food around the garage.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Crestfallen Stare
+
+Cursed Cats
+
+The strays were always nearby, watching him, waiting.
+
+Piece
+
+Name
+
+Collection
+
+Scratch Mark
+
+Cursed Cats
+
+One day, the strays clawed and meowed near a pile of metal scraps.
+
+Piece
+
+Name
+
+Collection
+
+Saber-Toothed
+
+Cursed Cats
+
+Ojomo discovered the remains of a cat under the discarded metal and gave it a proper burial.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+The Golden Ox
+
+Gilded Stampede
+
+11 February 2021 (Thursday)
+
+Description
+
+Long ago, Philip killed the ox of a poor farmer so he himself could survive. Nightmares of long forgotten guilt seeped into the Fog to produce a terrifying metamorphosis.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Cursed Horns
+
+Gilded Stampede
+
+The twin growths that burst from his skull caused a pain he could never forget.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Shroud of the Lost
+
+Gilded Stampede
+
+What good is gold when your spirit is dead?
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Fortune’s Fate
+
+Gilded Stampede
+
+Underneath the golden veneer is death.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Wax Warlock
+
+THE BURNING RAGE
+
+12 June 2018 (Tuesday)
+
+Description
+
+The darkness burns brightly within. With it comes the anger and violence of a man compelled to kill.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Glowing Vigil
+
+THE BURNING RAGE
+
+This wax monument serves as a vigil to the final shred of humanity, as well as the hatred seething inside.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Fury Waist Wrap
+
+THE BURNING RAGE
+
+A traditional dress wrap worn during rituals. It is held up by an ornate, decorative belt.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Bloodied Spine Blade
+
+THE BURNING RAGE
+
+A makeshift blade, fashioned from the spine and skull of an unfortunate victim. Dark energy surges through each vertebra.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Weathered Scarecrow
+
+WITHERING HARVEST
+
+03 July 2019 (Wednesday)
+
+Description
+
+Void of humanity, nothing but a weathered husk of torment and rage remains.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Hessian Head
+
+WITHERING HARVEST
+
+A burlap sack with short sticks where the brain should be.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Root and Branch
+
+WITHERING HARVEST
+
+Did the roots grow out of him, or up from the earth?
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Blood Reaver
+
+WITHERING HARVEST
+
+A rusted blade that's scraped and sawed its way through flesh and bone.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Discourteous Revenge
+
+Modern Baroque
+
+15 August 2023 (Tuesday)
+
+Description
+
+He pulled the clothes off a corpse in the ruins of a realm.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Hooded Shawl
+
+Modern Baroque
+
+A delicate piece of wool decorated with silver embroidery
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Gentleman’s Attire
+
+Modern Baroque
+
+He was amazed by the noble fabric.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Sharp Ornate Club
+
+Modern Baroque
+
+A weapon with a serrated edge made of wood and metal.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Wetland Wrecker
+
+Bayou Vehicle
+
+15 April 2020 (Wednesday)
+
+Description
+
+The Wraith ventured in mangrove swamps, covering his arms in mud. He scavenged materials from crashed vehicles to cover the rest of his body.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Leather Cloak
+
+Bayou Vehicle
+
+He sought vengeance for his unjust fate as he waded through dirty water. Leathery fabric scraped the scales of his withered leather cloak.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Scaly Wraps
+
+Bayou Vehicle
+
+Rusted steel from an old vehicle abandoned in the swamp covered his flesh.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Raw Spine
+
+Bayou Vehicle
+
+A reptilian spine of decomposing flesh made from his previous kills.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Lord Dracula
+
+Halloween 2021
+
+Tome 9 - Crescendo
+
+25 October 2022 (Tuesday)
+
+Description
+
+A Halloween costume of the man who spawned a thousand vampire stories.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Masked Terror
+
+Halloween 2021
+
+43
+
+A half-mask that fails to conceal the evil within.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Noble’s Cloak
+
+Halloween 2021
+
+66
+
+A regal cloak that speaks to the wealth of its wearer.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Sanguine Blade
+
+Halloween 2021
+
+35
+
+A sword forged in fire and blood.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+The Angel of Music
+
+TRAGIC LOVE OPERA
+
+09 August 2019 (Friday)
+
+Description
+
+A mysterious figure sings in the dark, compelling the grieving Nurse to find her voice again.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Masquerade
+
+TRAGIC LOVE OPERA
+
+A pale, crusted mask that conceals a dead, yellowed-fleshed face that no one dared to love. Until, perhaps…
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Evening Wear
+
+TRAGIC LOVE OPERA
+
+A dark cape covering a dress suit, fastened with a mutilated angel that inspires both fear and respectability.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+The Heart of Miss Smithson
+
+TRAGIC LOVE OPERA
+
+His pupil’s young heart beats under the bell’s dome, delivering an ominous pulse.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Forsaken Stag
+
+Bone Chill
+
+17 December 2024 (Tuesday)
+
+Description
+
+He was drawn to the swarm of flies over an open trunk. Inside was a partially decomposed stag, its round eyes gazing into the abyss.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Murky Antlers
+
+Bone Chill
+
+He cringed at the putrid stench but was amazed by the impressive size of the perfectly symmetrical antlers.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Knitted Plaid
+
+Bone Chill
+
+He ignored the flies buzzing around him as he removed the antlers from the deer and closed the trunk.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Bone Threat
+
+Bone Chill
+
+He watched the car get crushed, metal and bones merging while carefully polishing the antlers.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Seeping Hollow
+
+HALLOWED BLIGHT
+
+09 October 2019 (Wednesday)
+
+Description
+
+A tortured prototype with a unique, otherworldly densely corrupted quality.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Putrid Cavity
+
+HALLOWED BLIGHT
+
+A crippled heart thumping faintly against the hollowed trunk of its withered breastbone.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Withering Vines
+
+HALLOWED BLIGHT
+
+Body wraps tattered by sharp, thorny vines.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Oozing Spine
+
+HALLOWED BLIGHT
+
+Planted in Azarov's Skull, the serum drips down each vertebra, cloaking the soulful wailing of the ancient bell.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Phantom of Vengeance
+
+Conviction
+
+Tome 4 - Conviction
+
+07 October 2021 (Thursday)
+
+Description
+
+All-consuming hatred begins as a spark of injustice. All it needs from there is a drop of kerosene.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Shrouded Intent
+
+Conviction
+
+35
+
+Somewhere beneath the hood is conflict, uncertainty, and—most of all—rage.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+The Fire Within
+
+Conviction
+
+1
+
+What was once good and pure now burned as an inferno within him. So hot, it would someday leave nothing but cold, dry ash.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Axe of Reprisal
+
+Conviction
+
+68
+
+A vicious weapon pieced together with refuse from the scrap heap, and the skull of a man who deserved everything he got.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Phantom Lizard
+
+Guardians & Shadows
+
+Tome 20 - Mythic
+
+15 May 2025 (Thursday)
+
+Description
+
+His grandmother once told him the story of the trickster lizard, who taught the people to bury their dead.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Slithering Frill
+
+Guardians & Shadows
+
+8
+
+Huddled in his bunker, he waited for a sign that it was safe to come out of hiding.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Charmed Soul
+
+Guardians & Shadows
+
+2
+
+The lizard came to him in the night, and he knew it was the sign he was waiting for.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Adorned Axe
+
+Guardians & Shadows
+
+5
+
+Everything would be all right from now on, and his grandmother would always be with him.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Masquerade Phantom
+
+Twisted Masquerade
+
+25 June 2026 (Thursday)
+
+Description
+
+The dancers spun around the extravagant ballroom, laughing, unbothered by the sound of a ringing bell.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Wraith's Mask
+
+Twisted Masquerade
+
+A dancer was shoved to the ground by an unseen force. He returned to his feet and continued dancing as if nothing happened.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Hand-Embroidered Cloak
+
+Twisted Masquerade
+
+Another dancer fell, his head hitting the floor with a crack. Dancers swept back and forth, stepping in and out of the growing pool of blood.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Golden Spine Blade
+
+Twisted Masquerade
+
+The bell rang again. No one paid the emerging figure any mind, even as he raised his weapon over his head.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Soot-Symbol Sickle Knife
+
+GRIM TIDINGS
+
+This sickle-shaped blade was once used to harvest crops. Now it has been repurposed for the express objective of harvesting spines and organs.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Sweet Blade
+
+Tricks and Treats
+
+A sharp blade coated in sour candy.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Tarnished Sickle Knife
+
+GRIM TIDINGS
+
+This sickle-shaped blade was once used to harvest crops. Now it has been repurposed for the express objective of harvesting spines and organs.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Chrome Spine Blade
+
+THE BURNING RAGE
+
+A makeshift blade, fashioned from the spine and skull of an unfortunate victim. Dark energy surges through each vertebra.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Metallic Grill
+
+Slipknot
+
+The sound of staccato strings resonated through the realm. The Wraith emerged from the shadows, his fingers tracing the mask that now appeared on his face.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Raw Spine Blade
+
+THE BURNING RAGE
+
+A makeshift blade, fashioned from the spine and skull of an unfortunate victim. Dark energy surges through each vertebra.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Spine Candy
+
+Each vertebra from the spine and skull of an unfortunate victim dripped with blood, forming perfect stripes of crimson, like a candy-cane.
+
+400
+
+7200
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Wraith
+ is part of 
+3
+ DLCs:
+
+The Bloodstained Sack
+
+Charity Case
+
+YouTubers/Streamers Exclusives - Ohmwrecker Exclusive
+
+History
+
+Lightburn
+
+ 
+Main article: 
+Lightburn
+ 
+
+Up to 
+Patch 6.7.0
+, 
+The Wraith
+ was affected by a unique mechanic when Survivors would use light-emitting Items against him when 
+Cloaked
+:
+
+SPECIAL VULNERABILITY: LIGHTBURN
+Interacting with the 
+Spirit World
+ caused 
+The Wraith
+ to suffer from 
+Lightburn
+, which left him vulnerable to bright lights while he was 
+Cloaked
+:
+
+Shining 
+Flashlights
+ at 
+The Wraith's
+ body, or detonating 
+Firecrackers
+ or 
+Flash Grenades
+ near him, would stun him and also force him to 
+Uncloak
+.
+
+Change Log
+
+Patch 1.2.0
+Patch 1.3.0
+Patch 1.5.0
+Patch 1.7.1
+Patch 1.8.0
+Patch 1.8.3
+Patch 2.0.0
+Patch 2.1.0
+Patch 2.2.0
+Patch 2.3.0
+Patch 2.7.0
+Patch 3.3.1
+Patch 4.5.0
+Patch 4.6.0
+Patch 5.1.0
+Patch 5.3.0
+Patch 6.7.0
+Patch 1.2.0
+
+Buff
+: increased the Shimmer effect when 
+The Wraith
+ is cloaked.
+
+Quality of Life
+: reduced the volume of all sounds 
+The Wraith
+ makes when cloaked.
+
+Quality of Life
+: 
+The Wraith
+ no longer disturbs 
+Crows
+ when passing near them while cloaked.
+Patch 1.3.0
+
+Quality of Life
+: added a Bell model and animation while 
+The Wraith
+ cloaks and uncloaks.
+
+Quality of Life
+: 
+The Wraith
+ now starts the Trial cloaked (will cloak during the initial camera panning).
+Patch 1.5.0
+
+Nerf
+: 
+Bloodlust
+ no longer accumulates while 
+Cloaked
+.
+Patch 1.7.1
+
+Quality of Life
+: reduced the volume of 
+The Wraith's
+ growling while cloaked.
+Patch 1.8.0
+
+Quality of Life
+: reduced the volume of 
+The Wraith's
+ growling further from the Survivor POV.
+Patch 1.8.3
+
+Buff
+: the Bell Toll sound when uncloaking is delayed by 
+1.5 seconds
+ (50 % of the animation) to allow for surprising Survivors.
+
+Buff
+: increased the 
+Lightburn
+ Burning time from 
+1 seconds
+ to 
+1.5 seconds
+.
+
+Buff
+: when cloaked, 
+The Wraith
+ now sees 
+Pools of Blood
+ left by Survivors in 
+bright red
+.
+
+Quality of Life
+: the 
+Wailing Bell
+ ringing audio is capped at 
+24 metres
+ instead of formerly sounding map-wide.
+
+Quality of Life
+: the *Wooosh* audio following cloaking is capped at 
+40 metres
+ instead of formerly sounding map-wide.
+
+Quality of Life
+: reduced and adjusted the 
+Cloaking
+ and 
+Uncloaking
+ Speed penalties.
+
+Quality of Life
+: when cloaked, 
+The Wraith
+ can now interact with Props, which cause him to temporarily uncloak during the interaction.
+Patch 2.0.0
+
+Buff
+: reduced the 
+Lightburn
+ Stun time from 
+4 seconds
+ to 
+3 seconds
+.
+
+Quality of Life
+: fixed an issue that had his 
+Red Stain
+, as well as his 
+Terror Radius
+ linger for a few moments after cloaking.
+Patch 2.1.0
+
+Quality of Life
+: adjusted the timing of the smoke effect and bell audio when uncloaking to avoid giving his position away too early.
+Patch 2.2.0
+
+Buff
+: incorporated the effect of the former 
+"Windstorm"
+ Add-ons into 
+The Wraith's
+ base-kit, granting him a speed burst upon uncloaking.
+
+Adjusted the Movement Speed curve when uncloaking.
+
+Buff
+: further increased the 
+Lightburn
+ Burning time from 
+1.5 seconds
+ to 
+2 seconds
+.
+
+Quality of Life
+: removed the Movement Speed penalty when cloaking.
+
+Quality of Life
+: 
+The Wraith
+ can now immediately attack/interact after uncloaking instead of having to wait 
+0.3 seconds
+.
+
+Change
+: revisited all 
+Add-ons
+.
+Patch 2.3.0
+
+Quality of Life
+: reduced the footstep audio.
+Patch 2.7.0
+
+Quality of Life
+: when cancelling the cloaking interaction, 
+The Wraith
+ can now attack/interact immediately rather than having to wait for the bell-stowing animation to finish.
+
+Quality of Life
+: restored a missing rattling sound effect when starting to cloak.
+Patch 3.3.1
+
+Buff
+: updated 
+The Wraith's
+ Power with the 
+Undetectable
+ Status Effect
+.
+Patch 4.5.0
+
+Buff
+: made 
+The Wraith
+ completely invisible to Survivors that are farther than o
+20 metres
+ away when cloaked.
+
+Buff
+: increased the post-uncloak Speed Boost duration from 
+1 second
+ to 
+1.25 seconds
+.
+
+Quality of Life
+: again restored the missing rattling sound effect when starting to cloak (
+"Bell Tech"
+).
+
+Quality of Life
+: 
+The Wraith
+ now only uncloaks the necessary bits when interacting with Props when cloaked, instead of almost completely uncloaking.
+Patch 4.6.0
+
+Buff
+: increased 
+The Wraith'
+s Movement speed when cloaked from 
+5.06 m/s
+ to 
+6.0 m/s
+.
+
+Nerf
+: reduced 
+The Wraith'
+s Movement speed when uncloaking from 
+2.024 m/s
+ to 
+1.6 m/s
+.
+Patch 5.1.0
+
+Change
+: 
+The Wraith
+ is now locked to all new Players to 
+Dead by Daylight
+, or returning Players who did not progress him until this Patch, and must now be unlocked by completing the Killer Tutorial first.
+Patch 5.3.0
+
+Nerf
+: reduced the duration of the Speed Boost after uncloaking from 
+1.25 seconds
+ to 
+1 second
+.
+Patch 6.7.0
+
+Buff
+: removed the 
+Lightburn
+ mechanic.
+
+Trivia
+
+General
+
+The last name 
+"Ojomo"
+ is of Nigerian origin, meaning 
+"change"
+, 
+"freedom"
+, 
+"risk"
+.
+
+New Lore from 
+Tome IV - Conviction
+ confirmed his Nigerian origin and history.
+
+The Wraith
+ is affiliated with the 
+Autohaven Wreckers
+ Realm in the Lore.
+
+The Wraith
+ is possibly inspired by 
+Grim Reaper tropes
+, as he carries a scythe, causes a Bell to toll, and can hide himself from the Survivors.
+
+The Wraith
+ is also possibly inspired by the 
+Yautja
+ from the 
+Predator
+ franchise, due to him cloaking, and ripping of spines as trophies, with 
+Wraith
+ using his boss's skull as a weapon instead.
+
+This is further cemented by one of his teachable perks being named "
+Predator
+".
+
+The Wraith's
+ Alpha name was 
+"Banshee"
+.
+
+In the Game files, he is sometimes nicknamed 
+"Bob"
+.
+
+Just before 
+The Wraith
+ swings his Weapon, a Xylophone-like rattling noise can be heard as he lifts it above his head.
+
+The Wraith's
+ breathing sounds like a quiet, garbled growl, as if he had a congested throat.
+
+The Wraith
+ was one of just two Killers suffering from a unique Game mechanic called 
+Lightburn
+, the other being The 
+Nurse
+.
+
+If 
+The Wraith
+ was blinded by a 
+Flash Grenade
+, he would be forced to uncloak as well.
+
+The Perk 
+Lightborn
+ did 
+not
+ protect 
+The Wraith
+ from this mechanic.
+
+The 
+Entity
+ imbued 
+The Wraith's
+ father's Wailing Bell with its powers during 
+The Wraith's
+ transition into a Killer.
+
+Cosmetics
+
+Artwork from the 
+Tragic Love Opera Collection
+ heavily implies a romantic relationship between him and The 
+Nurse
+.
+
+The description for 
+The Wraith's
+ 
+The Angel of Music
+ outfit supports this, stating that he is "compelling the grieving 
+Nurse
+ to find her voice again".
+
+Voice Actor
+
+The Wraith
+ is voiced by Filip Ivanovic, who at that time worked as the Art Director on the Game.
+
+The Wraith
+ shares his voice-actor with The 
+Trapper
+, The 
+Hillbilly
+, The 
+Cannibal
+, The 
+Nightmare
+, The 
+Ghost Face
+, and 
+Jeff Johansen
+.
+
+Gallery
+
+For more go to the 
+Wraith's Gallery
+
+In-game Assets
+
+The Wraith
+
+The Wraith (Portrait render)
+
+The Wraith (Background image)
+
+Official Art
+
+The Wraith's profile card
+
+Outfits
+
+Forsaken Stag Outfit
+
+Old Assets
+
+The Wraith's previous portrait
+
+Concept Art
+
+The Wraith's concept art
+
+'Seeping Hollow' Concept Art
+
+'The Angel of Music' Concept Art
+
+'Weathered Scarecrow' Concept Art
+
+'Wetland Wrecker' Concept Art
+
+'Discourteous Revenge' Concept Art
+
+'Stray Cat' Concept Art
+
+'Periwinkle The Jester' Concept Art (Designed by KahChen.)
+
+Screenshots
+
+The Wraith in the Main Menu
+
+The Wraith standing by the 
+Sacrificial Tree
+
+The Wraith at 
+Coldwind Farm
+
+The Wraith at 
+Autohaven Wreckers
+
+The Wraith performing his Mori
+
+The Wraith in the 
+Basement
+
+The Wraith ringing the 
+Wailing Bell
+
+The Wraith being blinded and dropping a 
+Survivor
+
+References
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

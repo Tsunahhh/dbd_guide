@@ -1,0 +1,2476 @@
+# The Xenomorph
+Source: https://deadbydaylight.wiki.gg/wiki/The_Xenomorph (page complète via API, consultée le 27/09/2026)
+
+The Xenomorph
+
+Gender
+
+Not applicable (not human)
+
+Origin
+
+None (Creature, Extraterrestrial Origin)
+
+Realm
+
+Dvarka Deepwood
+
+Power
+
+Hidden Pursuit
+
+Power 
+Attack
+ Type
+
+Special Attack
+
+(Tail Strike)
+
+Weapon
+
+Lithe Arm
+
+Movement Speed
+
+115 % 
+|
+ 4.6 m/s
+
+Alternate Movement speed
+
+115 % 
+|
+ 4.6 m/s
+(Crawler Mode)
+
+Terror Radius
+
+32 metres
+
+Alternate Terror Radius
+
+24 metres (Crawler Mode)
+
+Height 
+
+Average
+
+DLC
+
+Alien
+
+Voice Actor
+
+Sébastien Croteau (The Monster Factory)
+
+Cost
+
+500 
+Auric Cells
+
+Menu Music
+
+Terror Radius Music
+
+Metadata
+
+CharID
+
+K33
+
+Xenomorph XX121
+ or 
+"The Xenomorph"
+ also known as 
+"Internecivus raptus"
+ is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+It was introduced as the Killer of 
+Alien
+, a Chapter DLC released on 29 August 2023.
+
+It originates from the 1979 Sci-Fi Horror Movie 
+Alien
+.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: Lithe Arm
+
+3.3
+ 
+Power: Hidden Pursuit
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for Hidden Pursuit
+
+3.5
+ 
+Innate Skill
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Default
+
+5.2
+ 
+Prestige
+
+5.2.1
+ 
+Perk Charms
+
+5.2.2
+ 
+Prestige Badges
+
+5.3
+ 
+Alternatives
+
+5.4
+ 
+In-Game Store
+
+5.5
+ 
+Alternate Character Models
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+General
+
+8.2
+ 
+Cosmetics
+
+8.3
+ 
+Early Development
+
+8.4
+ 
+Lore
+
+8.5
+ 
+Voice Actor
+
+9
+ 
+Gallery
+
+9.1
+ 
+In-game Assets
+
+Overview
+
+A relentless specimen from a distant planet, 
+The Xenomorph
+ is vicious, agile, and cunning.
+
+Its personal Perks, 
+Rapid Brutality
+, 
+Alien Instinct
+, and 
+Ultimate Weapon
+, allow it to cause nearby Survivors to scream, gain Haste after basic attacks, and see Auras of faraway Survivors.
+
+Lore
+
+A perfect organism, born of violence, designed to kill.
+
+The Xenomorph emerged from the chest cavity of a host named Kane and sought cover in the shadows of the Nostromo. As it shed its skin, the Xenomorph came to understand its environment. Using the ship’s air ducts, it killed its prey one by one, until only the human Ripley remained.
+
+Desperate for survival, Ripley destroyed the Nostromo and sought refuge in an escape vessel. But the Xenomorph’s instincts gave it the edge. As the escape vessel floated through space, the Xenomorph lay in wait, watching its prey.
+
+Just as it was went in for the kill, the vessel’s airlock opened and the Xenomorph was ejected into the cold vacuum of space.
+All was lost. The Xenomorph was close to death. And then, in an instant, it disappeared in a cloud of black fog.
+
+Load-out
+
+Unique Perks
+
+The Xenomorph
+ comes with 
+3
+ 
+Perks
+ that are unique to it:
+
+ 
+
+Alien Instinct
+
+"You are so stealthy, sometimes it seems like you appear out of nowhere."
+
+Whenever you hook a Survivor, 
+Alien Instinct
+ activates:
+
+The 
+Aura
+ of the farthest Survivor from your current location who is in the 
+Injured State
+ is revealed to you for 
+8 seconds
+.
+
+Causes that Survivor to suffer from the 
+Oblivious
+ 
+Status Effect
+ for 
+40
+/
+50
+/
+60
+ 
+seconds
+.
+
+"Yellow light's for my eyes only." — Dallas
+
+ 
+
+Rapid Brutality
+
+You move with a speed and fury that makes blood run cold.
+
+You can no longer gain the 
+Bloodlust
+ 
+Status Effect
+.
+
+Successfully hitting a Survivor with a 
+Basic Attack
+ grants you a 
++5 %
+ 
+Haste
+ 
+Status Effect
+ for 
+8
+/
+9
+/
+10
+ 
+seconds
+.
+
+"Catch it, put it in the airlock, get rid of it." — Dallas
+
+ 
+
+Ultimate Weapon
+
+"When they spot you, they know the end is near."
+
+Whenever you search a 
+Locker
+, 
+Ultimate Weapon
+ triggers its effects on all Survivors within 
+40 metres
+ of its location:
+
+Causes them to scream and reveal their location to you.
+
+Inflicts the 
+Blindness
+ 
+Status Effect
+ for 
+30 seconds
+.
+
+Ultimate Weapon
+ has a cool-down of 
+55
+/
+50
+/
+45
+ 
+seconds
+.
+
+"I can't lie to you about your chances, but... you have my sympathies." — Ash
+
+Prestige
+
+Prestiging 
+The Xenomorph
+ will automatically add 
+Tier I
+ of its Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Xenomorph
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: Lithe Arm
+
+Lithe Arm
+ is the Primary Weapon of 
+The Xenomorph
+.
+Lean, but muscular, capable of striking the quickest prey.
+
+Power: Hidden Pursuit
+
+"Supposedly responding to a distress signal, the Nostromo's crew landed on LV-426.
+What they found there became one of humanity's greatest horrors."
+SPECIAL ABILITY: HIDDEN PURSUIT
+The Xenomorph
+ has a set of intertwining 
+Tunnels
+ available to it beneath the environment that it can access from any of the 
+7
+ 
+Control Stations
+ spawning in the environment.
+SPECIAL OBJECT: CONTROL STATIONS
+The 
+Auras
+ of 
+Control Stations
+ are revealed to 
+The Xenomorph
+ in 
+white
+ at all times and within 
+12 metres
+ to nearby Survivors.
+SPECIAL INTERACTION: HIGHLIGHTING CONTROL STATIONS
+Press the 
+Secondary Power button
+ while aiming at any 
+Control Station
+ to highlight it in 
+yellow
+:
+
+This reveals the shortest path to that 
+Control Station
+ when navigating through the 
+Tunnels
+.
+
+When near an 
+Exit Gate
+, the nearest 
+Control Station
+ is automatically highlighted.
+SPECIAL LOCOMOTION: TUNNELS
+Press the 
+Interaction button
+ at a 
+Control Station
+ to enter the 
+Tunnels
+:
+
+Grants the 
+Undetectable
+ 
+Status Effect
+.
+
+Increases
+ its Movement speed to 
+18 m/s
+.
+
+Increases
+ the Charge speed of 
+Crawler Mode
+ to 
+8 c/s
+.
+
+Press it again while underneath the same or another 
+Control Station
+ to exit the 
+Tunnels
+, which triggers the following effects within 
+16 metres
+ of the 
+Control Station
+:
+
+Triggers 
+Killer Instinct
+ for 
+3 seconds
+.
+
+Deactivates any deployed 
+Turrets
+ for 
+2.5 seconds
+.
+
+SPECIAL ABILITY: TRACKING FOOTSTEPS
+While inside the 
+Tunnels
+, 
+The Xenomorph
+ can detect the movement of Survivors walking or running above it within 
+16 metres
+ of its location, indicated by reddish footsteps spawning on the ceiling.
+Survivors can avoid being detected by crouching or standing still.
+SPECIAL STATE: CRAWLER MODE
+The Xenomorph
+ passively charges 
+Crawler Mode
+ at a rate of 
+1 c/s
+ when outside of the 
+Tunnels
+.
+Once the Power Gauge is full at 
+35 Charges
+, it automatically enters it:
+
+Causes 
+The Xenomorph
+ to walk on all fours.
+
+Reduces
+ its 
+Terror Radius
+ to 
+24 metres
+.
+
+Grants the ability to perform a 
+Tail Strike Attack
+.
+
+There are only two ways for 
+The Xenomorph
+ to exit this mode:
+
+It picks up and carries a downed Survivor.
+
+It receives too much fire damage from 
+Remote Flame Turrets
+.
+
+SPECIAL ATTACK: TAIL STRIKE
+While in 
+Crawler Mode
+, press the 
+Power button
+ to perform a 
+Tail Strike
+, which has an increased reach of 
+4.8 metres
+.
+SPECIAL ITEM: REMOTE FLAME TURRET
+Survivors can interact with a 
+Control Station
+ to retrieve up to 
+4
+ 
+Remote Flame Turrets
+ in total and deploy them in the environment to counteract 
+The Xenomorph
+Turrets
+ can also be undeployed, carried to a new location, and be redeployed.
+
+While carrying a 
+Turret
+, Survivors experience the following effects:
+
+Causes them to suffer from a 
+-35 %
+ 
+Hindered
+ 
+Status Effect
+ and the 
+Exhausted
+ and 
+Incapacitated
+ 
+Status Effects
+.
+
+Grants immunity from being detected by 
+The Xenomorph
+ when it is inside the 
+Tunnels
+.
+
+Reveals their Aura and that of the 
+Turret
+ to other Survivors.
+
+Whenever 
+The Xenomorph
+ comes within 
+10 metres
+ of a 
+Turret
+ while in 
+Crawler Mode
+ and has 
+Line of Sight
+ with it, the 
+Turret
+ attacks, staggering 
+The Xenomorph
+ and inflicting fire damage, indicated by the Power gauge filling in 
+red
+.
+Once the Power gauge is full at 
+125 Charges
+, 
+The Xenomorph
+ is stunned and knocked out of 
+Crawler Mode
+.
+
+The Xenomorph
+ can destroy deployed 
+Turrets
+ by attacking them, causing them to return to 
+Control Stations
+ after 
+60 seconds
+.
+
+Control Stations
+ have a cool-down of 
+30 seconds
+, before another 
+Turret
+ can be retrieved from the same one.
+"Its structural perfection is matched only by its hostility." — Ash, Science Officer
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Tail Attack Cool-down: 
+1.2 m/s
+
+Walking (outside the Tunnels): 
+4.6 m/s
+
+Walking (inside the Tunnels): 
+18 m/s
+
+Crawler Mode
+:
+
+Activation threshold: 
+35 Charges
+
+Charge rate outside of Tunnels: 
++1 c/s
+
+Charge rate inside of Tunnels: 
++8 c/s
+
+De-Charge rate through 
+Turret
+ attack: 
+-1.5 c/s
+
+Maximum remaining Charge after picking up a Survivor: 
+75 %
+
+Tail Attack
+:
+
+Charge time: 
+0.3 seconds
+
+Attack range: 
+4.8 metres
+
+Hitting time: 
+0.4 seconds
+
+Cool-down on missed attacks: 
+2.5 seconds
+
+Cool-down on successful attacks: 
+2.7 seconds
+
+Speed Penalty duration upon cancellation: 
+1 second
+
+It is possible to cancel the 
+Tail Strike
+, though only during an incredibly brief window right after initiating the attack.
+
+Tunnel System
+:
+
+Time to enter a tunnel: 
+0.3 seconds
+
+Transition time: 
+0.25 seconds
+
+This refers to the time it takes for the normal Map to transition to the 
+Tunnel System
+ after finishing the interaction of entering the tunnels.
+
+Maximum acceleration: 
+x100.0
+
+Maximum detection distance: 
+16 metres
+
+This is the maximum range at which 
+The Xenomorph
+ can detect Survivors moving when in a tunnel.
+
+Detection linger time: 
+1.5 seconds
+
+This is the time when a Survivor can still be detected by 
+The Xenomorph
+ when in a tunnel after having left the detection range.
+
+Time to exit a tunnel: 
+2.25 seconds
+
+This can be broken down into two separate animations, the first lasting 
+0.5 seconds
+ and the second  
+1.75 seconds
+.
+
+Time penalty when exiting a tunnel close to a hooked Survivor: 
+-200 %
+
+Minimum range for time penalty: 
+16 metres
+
+This is the minimum distance between a hooked Survivor and a 
+Control Station
+ for the time penalty for exiting tunnels to be triggered.
+
+Footstep delay: 
+0.35 seconds
+
+This is the delay between each footstep spawning when a Survivor is detected from a tunnel.
+
+Exit block duration when entering a tunnel: 
+2.5 seconds
+
+Detection downtime duration when entering a tunnel: 
+2.5 seconds
+
+Turrets
+:
+
+Maximum number in pool: 
+4
+ Turrets
+
+Spawn time: 
+1 second
+
+This refers to the time it takes for 
+Turrets
+ to manifest inside a 
+Control Station
+.
+
+Pickup time: 
+1.5 seconds
+
+Hindered
+ strength when carrying: 
+-35 %
+
+Auto-destroy timer when dropped: 
+30 seconds
+
+This timer is paused if a Survivor remains within 
+6 metres
+ of the dropped 
+Turret
+.
+
+Respawn timer after destruction: 
+60 seconds
+
+Deploy/Un-deploy time: 
+2 seconds
+
+Aura Linger duration: 
+3 seconds
+
+Detection radius for firing: 
+10 metres
+
+Flame Damage
+:
+
+Crawler Mode
+ Deactivation threshold: 
+125 Charges
+
+This refers to how much damage 
+Turrets
+ must apply to 
+The Xenomorph
+ to knock it out of 
+Crawler Mode
+.
+
+Damage Charge rate: 
++66 c/s
+
+Damage De-Charge rate: 
+-25 c/s
+
+Damage De-Charge delay: 
+1 second
+
+Full Damage Stun timer: 
+1 second
+
+Turret Overheating
+:
+
+Heat Accumulation rate: 
++25 % per second firing
+
+Heat Dissipation rate: 
+-25 % per second not firing
+
+Malfunction duration: 
+3.5 seconds
+
+Motion Tracker range: 
+41 metres
+
+Repair time: 
+3 seconds
+
+Control Stations
+:
+
+Availability Cool-down for 
+Turrets
+ from the same station: 
+30 seconds
+
+Aura range: 
+12 metres
+
+Area of Effect
+: 
+16 metres
+
+Killer Instinct
+ Linger duration: 
+3 seconds
+
+Add-ons for Hidden Pursuit
+
+Icon
+
+Name
+
+Description
+
+Cereal Rations
+
+Contains 100 % of the recommended daily intake of Vitamin A.
+Tastes awful.
+
+While inside the Tunnels, you benefit from the following effect:
+
+The 
+Auras
+ of deployed 
+Remote Flame Turrets
+ are revealed to you.
+
+This effect lingers for 
+3 seconds
+.
+
+Drinking Bird
+
+One of the many tchotchkes littering the Nostromo's living quarters.
+A bit of whimsy in an otherwise sterile environment.
+
+Increases
+ the duration of 
+Killer Instinct
+ after exiting the Tunnels by 
++3 seconds
+.
+
+Ovomorph
+
+It looks harmless, but the horrors held inside are immeasurable.
+
+Increases
+ the Charge rate of 
+Crawler Mode
+ while outside the Tunnels by 
++25 %
+.
+
+Ripley's Watch
+
+On a ship as massive as the Nostromo, synchronising watches was important to keep track of work shifts.
+
+Causes 
+Remote Flame Turrets
+ to self-destruct after knocking you out of 
+Crawler Mode
+.
+
+Ash's Innards
+
+While hardier, mechanical beings break too when enough force is applied.
+
+Increases
+ the Respawn timer of 
+Remote Flame Turrets
+ by 
++15 seconds
+.
+
+Brett's Cap
+
+This Nostromo ballcap was fashionable, but severely limited his vertical field of vision.
+
+Whenever a 
+Remote Flame Turret
+ is destroyed by any means, it triggers the following effect:
+
+Causes all Survivors within 
+16 metres
+ of its location to suffer from the 
+Blindness
+ 
+Status Effect
+ for 
+25 seconds
+.
+
+Crew Headset
+
+While they facilitated team communication, the constant chatter made the crew easier to track.
+
+Increases
+ the Detection range of Survivor Footsteps when inside the Tunnels by 
++6 metres
+.
+
+Lambert's Star Map
+
+Vital for interstellar travel, but not as useful on a smaller scale.
+
+Reduces
+ the Attack range of 
+Remote Flame Turrets
+ by 
+-2 metres
+.
+
+Light Wand
+
+A portable light source used by Ash and Dallas while looking for the invasive creature.
+Mostly ineffective for lighting larger spaces.
+
+Increases
+ the temporary downtime of 
+Remote Flame Turrets
+ whenever you exit the Tunnels by 
++3 seconds
+.
+
+Emergency Helmet
+
+An extra helmet on the bridge, for use in emergencies only.
+
+Increases
+ the Resistance towards 
+Remote Flame Turrets
+ before being knocked out of 
+Crawler Mode
+ by 
++15 %
+.
+
+Kane's Helmet
+
+A thin layer of glass was the difference between a minor inconvenience and the tragic destruction of the Nostromo's crew.
+
+Survivors hit with a successful 
+Tail Attack
+ suffer from the 
+Mangled
+ 
+Status Effect
+ for 
+70 seconds
+.
+
+Moulted Skin
+
+The Xenomorph moulted many times as it rapidly grew on the Nostromo.
+Its shed skin was a constant reminder of its presence.
+
+After deploying a 
+Remote Flame Turret
+, Survivors suffer from the 
+Exhausted
+ 
+Status Effect
+ for 
+30 seconds
+.
+
+Multipurpose Hatchet
+
+Equally useful for destruction and repair.
+
+Survivors hit with a successful 
+Tail Strike
+ attack suffer from the 
+Haemorrhage
+ 
+Status Effect
+ until fully healed.
+
+Parker's Headband
+
+A bold fashion choice that doubled as a handy way to wick sweat from the eyes.
+
+Grants a 
++5 %
+ 
+Haste
+ 
+Status Effect
+ for 
+3 seconds
+ after exiting the Tunnels.
+
+Cat Carrier
+
+Saving the cat is a noble goal.
+It's also very distracting.
+
+Whenever a 
+Remote Flame Turret
+ knocks you out of 
+Crawler Mode
+, you benefit from the following effect:
+
+Grants the 
+Undetectable
+ 
+Status Effect
+ for 
+30 seconds
+.
+
+Harpoon Gun
+
+Barely a weapon, its use is only viable in a situation of last resort.
+
+Hitting a Survivor within 
+30 seconds
+ of exiting the Tunnels triggers the following effect:
+
+Causes all other Survivors farther than 
+16 metres
+ from your location to scream and reveal their location to you.
+
+Self-Destruct Bolt
+
+They needed to be removed to start, and replaced to end, the self-destruct sequence.
+Just seeing them evokes a sense of urgency.
+
+Increases
+ the Vaulting speed while in 
+Crawler Mode
+ by 
++30 %
+.
+
+Semiotic Keyboard
+
+Its symbols are designed to be universally recognisable, but they may take some getting used to.
+
+Causes 
+Generators
+ within 
+16 metres
+ of a 
+Remote Flame Turret
+ to experience the following effect:
+
+The intensity of the 
+Generator Aura
+ reveals its current Repair progress to you.
+
+Acidic Blood
+
+When damaged, The Xenomorph's unique physiology made it deadlier than ever.
+
+While in 
+Crawler Mode
+, whenever a Survivor stuns you by any means within 
+20 seconds
+ of you exiting the Tunnels, either of the following effects applies:
+
+Healthy Survivor
+: Removes 
+1
+ 
+Health State
+.
+
+Injured Survivor
+: Inflicts the 
+Deep Wound
+ 
+Status Effect
+.
+
+"I think we oughta discuss the bonus situation." — Parker
+
+Improvised Cattle Prod
+
+A brutal and noisy weapon, which might have been more effective against a cow.
+
+Whenever a 
+Generator
+ is completed, the following effect applies for 
+15 seconds
+:
+
+While the effect is active, the 
+Aura
+ of any Survivor coming within 
+10 metres
+ of a 
+Control Station
+ are revealed to you for 
+15 seconds
+.
+
+Innate Skill
+
+Used exclusively in 
+2v8
+ Trials, the 
+Innate Skill
+ modifies the 
+Hidden Pursuit
+ with the following effects:
+
+Innate Skill
+ (
+Xenomorph Passive
+) 
+
+Modifies the 
+Hidden Pursuit
+ with the following effects:
+
+Causes 
+Remote Flame Turrets
+ to self-destruct after knocking you out of 
+Crawler Mode
+.
+
+Increases
+ the Charge rate of 
+Crawler Mode
+ while outside the Tunnels by 
++25 %
+.
+
+Survivors hit with a successful 
+Tail Attack
+ suffer from the 
+Mangled
+ 
+Status Effect
+ for 
+70 seconds
+.
+
+Grants a 
++5 %
+ 
+Haste
+ 
+Status Effect
+ for 
+3 seconds
+ after exiting the Tunnels.
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There are 
+2
+ Achievements related to 
+The Xenomorph
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Xenomorph
+
+Playing as The 
+Xenomorph
+, achieve a 
+Merciless Victory
+ using only its 
+3
+ Unique Perks: 
+Rapid Brutality
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+You move with a speed and fury that makes blood run cold.
+
+You can no longer gain the 
+Bloodlust
+ 
+Status Effect
+.
+
+Successfully hitting a Survivor with a 
+Basic Attack
+ grants you a 
++5 
+ 
+Haste
+ 
+Status Effect
+ for 
+8
+/
+9
+/
+10
+ 
+seconds
+.
+
+"Catch it, put it in the airlock, get rid of it." — Dallas
+
+, 
+Alien Instinct
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"You are so stealthy, sometimes it seems like you appear out of nowhere."
+
+Whenever you hook a Survivor, 
+Alien Instinct
+ activates:
+
+The 
+Aura
+ of the farthest Survivor from your current location who is in the 
+Injured State
+ is revealed to you for 
+8 seconds
+.
+
+Causes that Survivor to suffer from the 
+Oblivious
+ 
+Status Effect
+ for 
+40
+/
+50
+/
+60
+ 
+seconds
+.
+
+"Yellow light's for my eyes only." — Dallas
+
+, and 
+Ultimate Weapon
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"When they spot you, they know the end is near."
+
+Whenever you search a 
+Locker
+, 
+Ultimate Weapon
+ triggers its effects on all Survivors within 
+40 metres
+ of its location:
+
+Causes them to scream and reveal their location to you.
+
+Inflicts the 
+Blindness
+ 
+Status Effect
+ for 
+30 seconds
+.
+
+Ultimate Weapon
+ has a cool-down of 
+55
+/
+50
+/
+45
+ 
+seconds
+.
+
+"I can't lie to you about your chances, but... you have my sympathies." — Ash
+
+.
+
+Terror of LV-426
+
+Playing as The 
+Xenomorph
+, hit Survivors with a 
+Tail Strike Attack
+ a total of 
+30 times
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Xenomorph
+:
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+The Xenomorph
+
+Common
+
+A perfect organism, with a pure killer's instinct.
+
+Mesoskeleton
+
+Common
+
+It moved quickly and silently through the ship.
+
+Lithe Arm
+
+Common
+
+Lean, but muscular, capable of striking the quickest prey.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Bloody Xenomorph
+
+Rare
+
+A perfect organism, an instinctual killer.
+
+Spattered Mesoskeleton
+
+Rare
+
+It moved quickly, and showed no mercy.
+
+Stained Arm
+
+Rare
+
+Lean, but muscular, covered in the blood of its prey.
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+A perfect organism, with a pure killer's instinct.
+
+Alternatives
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Grid Xenomorph
+
+Xenomorph Aberrations
+
+29 August 2023 (Tuesday)
+
+Description
+
+A fierce opponent, scarred from combat.
+
+675
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Hardened Carapace
+
+Xenomorph Aberrations
+
+Its slick skin reflected the moonlight.
+
+Piece
+
+Name
+
+Collection
+
+Ridged Mesoskeleton
+
+Xenomorph Aberrations
+
+Its skeletal frame was especially pronounced.
+
+Piece
+
+Name
+
+Collection
+
+Cruel Hand
+
+Xenomorph Aberrations
+
+The talons of a worthy adversary.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Deep Sea Xenomorph
+
+Waterfront Massacre
+
+17 July 2025 (Thursday)
+
+Description
+
+In the murky depths of the moon's ocean, an aquatic beast was torn open by the offspring growing inside it.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Bioluminescent Carapace
+
+Waterfront Massacre
+
+The offspring was perfectly suited to the environment it was born into, effortlessly withstanding the pressures of the deep.
+
+Piece
+
+Name
+
+Collection
+
+Scaled Mesoskeleton
+
+Waterfront Massacre
+
+The creature swam to the surface with all the genetic instincts of its late host.
+
+Piece
+
+Name
+
+Collection
+
+Webbed Claw
+
+Waterfront Massacre
+
+Thrashing onto the rocky shore, the creature learned to adapt to the moon's gravity and atmosphere.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Juggernaut Xenomorph
+
+Alien Reimagined
+
+07 November 2024 (Thursday)
+
+Description
+
+A deadly creature fused with parts of an ancient ship.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Cabled Skull
+
+Alien Reimagined
+
+Primal instincts raced through its body, colored by a touch of unnerving intelligence.
+
+Piece
+
+Name
+
+Collection
+
+Jockey Mesoskeleton
+
+Alien Reimagined
+
+It crawled along the massive cargo bay, weaving between the dormant eggs.
+
+Piece
+
+Name
+
+Collection
+
+Biomechanical Claw
+
+Alien Reimagined
+
+It sought to kill, attacking those who came near the crashed ship.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Molting Xenomorph
+
+Chrysalis
+
+20 May 2025 (Tuesday)
+
+Description
+
+As the creature approached maturity, its dead, hardened skin began to split.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Coated Head
+
+Chrysalis
+
+The carapace glistened in the moonlight as the creature shed its outer layer.
+
+Piece
+
+Name
+
+Collection
+
+Swarmed Mesoskeleton
+
+Chrysalis
+
+Insects metamorphosing beneath the skin broke free, fluttering into the acrid air.
+
+Piece
+
+Name
+
+Collection
+
+Silk Claw
+
+Chrysalis
+
+It flexed its claws and lay in wait. Something to kill was approaching from a distance.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Xenomorph Clone
+
+Xenomorph Clone
+
+29 August 2023 (Tuesday)
+
+Description
+
+The wretched result of multiple genetic experiments.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Conjoined Head
+
+Xenomorph Clone
+
+Two brutal minds fused into one.
+
+Piece
+
+Name
+
+Collection
+
+Warped Torso
+
+Xenomorph Clone
+
+The cloning process made its body wiry and fierce.
+
+Piece
+
+Name
+
+Collection
+
+Gnarled Claw
+
+Xenomorph Clone
+
+The specimen was strong enough to escape its restraints.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Xenomorph Queen
+
+Xenomorph Queen
+
+29 August 2023 (Tuesday)
+
+Description
+
+Mother. Hive Leader. The highest of lifeforms.
+
+1485
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Crested Head
+
+Xenomorph Queen
+
+The size of the crest was a display of her power.
+
+Piece
+
+Name
+
+Collection
+
+Queen Mesoskeleton
+
+Xenomorph Queen
+
+Her armored body could withstand most ammunition.
+
+Piece
+
+Name
+
+Collection
+
+Devastating Claw
+
+Xenomorph Queen
+
+A weapon fit for a queen.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Xenomorph King
+
+Alien
+
+08 September 2026 (Tuesday)
+
+Description
+
+Ruthless. Intimidating. The supreme protector of the hive.
+
+1485
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Crown Crest
+
+Alien
+
+A sinister head crest broke through the wall of fog, adorned in skyward spikes.
+
+Piece
+
+Name
+
+Collection
+
+King Mesoskeleton
+
+Alien
+
+Gunfire does little to penetrate its hide, and any wound sustained swiftly regenerates.
+
+Piece
+
+Name
+
+Collection
+
+Monstrous Claws
+
+Alien
+
+Its claws were sharp enough to pierce the armor of a tank and drag a screaming Marine through the torn metal.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Inoculated Xenomorph
+
+HALLOWED BLIGHT
+
+24 October 2023 (Tuesday)
+
+Description
+
+The serum slowly circulated bit by bit, eating away at the perfect organism.
+
+1296
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Bursting Carapace
+
+HALLOWED BLIGHT
+
+Several injections were required to pierce the hardened exterior and reach the tissue beneath.
+
+Piece
+
+Name
+
+Collection
+
+Infected Mesoskeleton
+
+HALLOWED BLIGHT
+
+Golden growths now infested its skeletal frame.
+
+Piece
+
+Name
+
+Collection
+
+Contagious Claw
+
+HALLOWED BLIGHT
+
+Its unforgiving claws were stained with serum.
+
+Alternate Character Models
+
+The Xenomorph
+ has 
+4
+ alternate Character models available in the in-game Store:
+
+The 
+Xenomorph Queen
+
+The 
+Xenomorph Clone
+ (Costume)
+
+The 
+Grid Xenomorph
+ (Costume)
+
+The 
+Xenomorph King
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Xenomorph
+ is part of 
+1
+ DLC:
+
+Alien
+
+Change Log
+
+Patch 7.2.2
+Patch 8.6.0
+Patch 7.2.2
+
+Nerf
+: reduced the Movement speed during the Cool-down after a missed or obstructed 
+Tail Strike
+ from 
+2 m/s
+ to 
+1.2 m/s
+ (same as after a successful hit).
+Patch 8.6.0
+
+Buff
+: reduced the Cool-down for missed or obstructed 
+Tail Attacks
+ from 
+3 seconds
+ to 
+2.5 seconds
+.
+
+Buff
+: reduced the Cool-down for successful 
+Tail Attacks
+ from 
+3 seconds
+ to 
+2.7 seconds
+.
+
+Buff
+: increased the 
+Killer Instinct
+ range when exiting a tunnel from 
+12 metres
+ to 
+16 metres
+.
+
+Buff
+: increased amount of fire needed to burn 
+The Xenomorph
+ out of 
+Crawler Mode
+ from 
+100 Charges
+ to 
+125 Charges
+.
+
+Nerf
+: increased 
+Tail Attack
+ charge time from 
+0.2 seconds
+ to 
+0.3 seconds
+.
+
+Nerf
+: increased 
+Tail Attack
+ charge sound volume for Survivors
+
+Change
+: adjusted several Add-ons to align with these changes.
+
+Trivia
+
+General
+
+The Xenomorph's
+ four-legged mode of locomotion was originally called 
+"Runner Mode"
+ on the 
+Public Test Build
+ of its Release Patch.
+
+The mode was renamed to its current 
+"Crawler Mode"
+ for release, due to some Players reasonably believing 
+"Runner Mode"
+ to refer to its two-legged gait instead.
+
+The Xenomorph's
+ Mori is a reference to 
+Alien vs. Predator (2004)
+, where a Xenomorph kills a Predator called Chopper.
+
+The Xenomorph
+ is unable to hear the 
+Hatch
+ when inside the tunnels, so Players should not attempt searching for it that way.
+
+The Xenomorph
+ is the first killer that carries Survivors by holding them at their necks, rather than carrying them over its shoulder.
+
+The Xenomorph
+ is currently the first of two killers featuring Killer-specific 
+Hooks
+, rather than Realm-specific ones.
+
+That behavior, however, is not a first in 
+Dead by Daylight's
+ history, as all 
+Hooks
+ used to be Killer-specific when the Game first released and until the introduction of 
+The HALLOWEEN® Chapter
+.
+
+The Xenomorph's
+ hooks are the same ones from 
+Nostromo Wreckage
+.
+
+The Xenomorph's
+ Tunnels are a reference to how it traversed the Nostromo, mainly through its ventilation shafts in the original movie. The visual design of the tunnels reflects the bio-matter covering structures 
+The Xenomorphs
+ incorporate into their nests.
+
+The Xenomorph's
+ tail attack is likely a reference to the game 
+Aliens vs Predator (2010)
+ where Xenomorphs use their tails as attack in that game.
+
+The Xenomorph
+ has a skull underneath its dome that is visible in promotional art, but not in-game.
+
+The Xenomorph'
+s official designation 
+Xenomorph XX121
+ was first introduced in the 2014 book 
+Alien: The Weyland-Yutani Report
+ by S.D. Perry, and was made fully official in 
+Alien: Romulus
+.
+
+The term 
+"Xenomorph"
+ first emerged from 
+Aliens
+.
+
+The Xenomorph'
+s scientific name internecivus raptus first appeared in the Alien Quadrilogy DVD and was made official in the 
+Marvel Comics'
+s  run of Alien.
+
+It roughly translates from Latin to "murderous thief".
+
+The Xenomorph
+ was the seventh licensed killer added to the 2v8 gamemode
+
+Cosmetics
+
+Canonically, all of 
+The Xenomorph
+ Outfits in 
+Dead by Daylight
+ represent a different character — the only exception being the Blighted Outfit — with some of them originating or being inspired from various 
+Alien
+ films:
+
+Default Outfit
+ originates from 
+Alien
+.
+
+Grid Xenomorph
+ originates from 
+Alien vs Predator
+.
+
+Grid
+ features green blood that belongs to the Yautja/Predator known as 
+Chopper
+.
+
+Xenomorph Clone
+ is inspired by 
+The Newborn
+ in 
+Alien: Resurrection
+, though not the same character.
+
+Xenomorph Queen
+ originates from 
+Aliens
+.
+
+Inoculated Xenomorph
+ is inspired by  
+The Newborn
+ from 
+Alien: Resurrection
+ with its exposed Skull.
+
+Juggernaut Xenomorph
+ is inspired by the 
+Engineers
+  from 
+Prometheus
+.
+
+The skin is named after the engineer's ship which can be seen in 
+Nostromo Wreckage
+.
+
+Deep Sea Xenomorph
+ is an original creation, implied to have been birthed by an alien lifeform.
+
+Xenomorph King
+ originates from the comic miniseries 
+Aliens: Rogue
+.
+
+The design is taken from the 2016 collectible figure by Sideshow 
+Collectibles
+
+Early Development
+
+According to the developers 
+The Xenomorph
+ was originally going to have wall crawling in its power, but was scrapped and replaced with the tunnel system.
+
+Lore
+
+This is the same Xenomorph from the first Alien movie (Kane's son/Big Chap), and in Dead By Daylight's lore, it claims that it would have died in space if it wasn't for 
+The Entity
+. However in 
+Alien: Romulus
+, Kane's son survived and was taken by Weyland-Yutani, and wrecked havoc in the Renaissance space station, before being gunned down by the remaining security team, thus making him the catalyst of the movie's events before they happened. His massacre on the station is seen in the prequel comic of Alien: Romulus which takes place before the movie's events.
+
+As with other Killers such as 
+The Shape
+ or 
+The Cenobite
+, the Xenomorph is from the first movie only, and not its continuities.
+
+Voice Actor
+
+The Xenomorph
+ is voiced by Sébastien Croteau.
+
+It shares its voice actor with The 
+Nemesis
+, vocals for the many wailing human voices surrounding the sound design of The 
+Dredge
+, 
+Were-Elk
+, 
+Glitchtrap
+ and 
+The Leshen
+.
+
+Gallery
+
+In-game Assets
+
+The Xenomorph
+
+The Xenomorph (Portrait render)
+
+The Xenomorph (Background image)
+
+Model render
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

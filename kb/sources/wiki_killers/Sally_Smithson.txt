@@ -1,0 +1,5821 @@
+# Sally Smithson
+Source: https://deadbydaylight.wiki.gg/wiki/Sally_Smithson (page complète via API, consultée le 27/09/2026)
+
+A new varmint has entered the arena. I spotted her as she, somehow, moved through a wall. Clad in bandages that tell an untold tale of something horrid. This...nurse as it seems, brings me new angst during my lonely nights, as my mind runs amok.
+
+~ 
+Benedict Baker
+
+The Nurse
+
+Name
+
+Sally Smithson
+
+Gender
+
+Woman
+
+Origin
+
+American of English descent
+
+Realm
+
+Crotus Prenn Asylum
+
+Power
+
+Spencer's Last Breath
+
+Power 
+Attack
+ Type
+
+Special Attack
+
+(Lethal Blinks)
+
+Weapon
+
+The Bonesaw
+
+Movement Speed
+
+96.25 % 
+|
+ 3.85 m/s
+
+Alternate Movement speed
+
+333.25 % 
+|
+ 13.33 m/s
+(Blink)
+
+Terror Radius
+
+32 metres
+
+Height 
+
+Average
+
+DLC
+
+The Last Breath Chapter
+
+Voice Actor
+
+Anais Renevey (BHVR)
+
+Breathing
+
+Menu Music
+
+Terror Radius Music
+
+Metadata
+
+CharID
+
+K04
+
+Sally Smithson
+ or 
+"The Nurse"
+ is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+She was introduced as the Killer of 
+The Last Breath Chapter
+, a Chapter DLC released on 18 August 2016.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+2.1
+ 
+The Archives
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: The Bonesaw
+
+3.3
+ 
+Power: Spencer's Last Breath
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for Spencer's Last Breath
+
+3.5
+ 
+Innate Skill
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Base Cosmetics
+
+5.1.1
+ 
+Default
+
+5.1.2
+ 
+Prestige
+
+5.1.2.1
+ 
+Perk Charms
+
+5.1.2.2
+ 
+Prestige Badges
+
+5.2
+ 
+Alternatives
+
+5.2.1
+ 
+DLC
+
+5.2.2
+ 
+Special
+
+5.2.3
+ 
+Event
+
+5.2.4
+ 
+Exclusives
+
+5.3
+ 
+Rift
+
+5.4
+ 
+In-Game Store
+
+5.5
+ 
+Alternate Character Models
+
+6
+ 
+DLC
+
+7
+ 
+History
+
+7.1
+ 
+Lightburn
+
+8
+ 
+Change Log
+
+9
+ 
+Trivia
+
+9.1
+ 
+General
+
+9.2
+ 
+Teleportation
+
+9.3
+ 
+Design
+
+10
+ 
+Gallery
+
+10.1
+ 
+In-game Assets
+
+10.2
+ 
+Official Art
+
+10.3
+ 
+Outfits
+
+10.4
+ 
+Old Assets
+
+10.5
+ 
+Concept Art
+
+10.6
+ 
+Screenshots
+
+11
+ 
+References
+
+Overview
+
+Using her Blink ability, The Nurse can teleport great distances in moments, predicting and cutting off Survivor routes. A powerful process best honed by experience, careless Blinks are punished with a wave of fatigue. The epitome of high risk, high reward, The Nurse can end chases with surgical precision.
+
+The Nurse
+ is a warping Killer, able to blink through obstacles and quickly close gaps with her Power.
+
+Her personal Perks, 
+Stridor
+, 
+Thanatophobia
+, and 
+A Nurse's Calling
+, allow her to decrease Survivor abilities and track them when they are injured.
+
+She is focused on spotting and tracking, making it harder for Survivors to hide.
+
+Lore
+
+Sally Smithson came to town with dreams of children's feet and laughter in a wooden home built by her husband Andrew. But life came not with smiles but with plans of destruction. Andrew worked as a lumberjack - a job with its perils. One day, Andrew's foreman had to pay Sally a visit, forever changing her life. She was alone.
+
+Without food on the table and no other option, Sally had to find a way, but the only employment she could get was at the Crotus Prenn Asylum. Nobody sought employment there unless they were in dire need. Just like Sally. Without any education, she started at the bottom, doing the hard night shift.
+
+Over the years, her mind had reached its limits, two decades of seeing horrid things that violate the eyes. Memories that are re-played every night. Being abused verbally and physically, by people without limits. Sally saw insanity from the outside, just to catch it herself.
+
+Finally she could not take it any more and concepts of purification emerged inside her. She did what she felt was necessary. As the morning staff arrived one day in September - they found over fifty dead patients, lifeless, in their bed along four staff members, also dead.
+
+Only Sally had survived the night, but her mind was gone, rocking back and forth non-stop. Exactly what happened is only known by her, but it seems that some of them had been choked as they had marks around their necks. They got her into an ambulance, but that ambulance never reached the hospital. It was found crashed in a nearby wood, all the staff dead and Sally nowhere to be found.
+
+The Archives
+
+The table below lists additional Lore about 
+The Nurse
+ from 
+The Archives
+, either from 
+Tomes
+ that featured her or from individual Lore entries that mentioned her:
+
+Tome
+
+Entry
+
+Type
+
+Tome 6 - Divergence
+
+The Cleansing of Crotus Prenn
+
+Featured Character
+
+Load-out
+
+Unique Perks
+
+The Nurse
+ comes with 
+3
+ 
+Perks
+ that are unique to her:
+
+ 
+
+A Nurse's Calling
+
+Unlocks potential in your Aura-reading ability:
+
+The 
+Auras
+ of Survivors being healed or healing themselves are revealed to you within 
+28
+/
+30
+/
+32
+ 
+metres
+.
+
+"Still attached to the fragments of her past life, she is drawn to those in need of help."
+
+ 
+
+Stridor
+
+You are acutely sensitive to the breathing of your prey.
+
+Increases
+ the volume of 
+Grunts of Pain
+ of injured Survivors by 
+30
+/
+40
+/
+50
+ 
+%
+.
+
+Increases
+ the volume of regular breathing of Survivors by 
+15
+/
+20
+/
+25
+ 
+%
+.
+
+"If you do not stop and catch your breath... she will."
+
+ 
+
+Thanatophobia
+
+"Their courage fades in the face of their undeniable mortality."
+
+Whenever at least one Survivor is either injured, dying, or hooked, 
+Thanatophobia
+ activates.
+While active, all Survivors suffer from the following primary effect:
+
+Incurs a stack-able 
+1
+/
+1.5
+/
+2
+ 
+%
+ Action-Speed penalty per injured, dying, or hooked Survivor for Cleansing, Repairing, and Sabotaging, up to a maximum of 
+4
+/
+6
+/
+8
+ 
+%
+.
+
+If all four Survivors are either injured, dying, or hooked, they suffer from the following secondary effect:
+
+Increases
+ the penalty by an additional 
++12 %
+ to a total of 
+16
+/
+18
+/
+20
+ 
+%
+.
+
+"She plays with us and revels in our pain."
+
+Prestige
+
+Prestiging 
+The Nurse
+ will automatically add 
+Tier I
+ of her Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Nurse
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: The Bonesaw
+
+The Bonesaw
+ is the Primary Weapon of 
+The Nurse
+.
+Rusty metal implement for tearing through flesh and bone. 
+
+Power: Spencer's Last Breath
+
+"A powerful and violent last breath snatched from Crotus Prenn Asylum Warden Patrick Spencer.
+Channelling its energy allows The Nurse to pierce and jump through the Spirit World in a blink multiple times in a row.
+ Doing so leaves her in a state of fatigue."
+SPECIAL ABILITY: SPENCER'S LAST BREATH
+The Nurse
+ starts the Trial with 
+2 Tokens
+.
+Press and hold the 
+Power button
+ to charge a 
+Blink
+.
+Release the 
+Power button
+ to initiate a 
+Blink
+.
+
+Using 
+Spencer's Last Breath
+ consumes 
+-1 Token
+ per 
+Blink / Chain Blink
+.
+SPECIAL LOCOMOTION: BLINK
+A 
+Blink
+ allows 
+The Nurse
+ to pierce the Realm of the Entity and teleport through obstacles and walls in a straight line:
+
+Grants the ability to teleport for up to 
+20 metres
+.
+
+The Nurse
+ can adjust the Teleportation distance by aiming at any point closer to her.
+
+The Nurse
+ can teleport to other floors by aiming at the ceiling or floor of a room that has another one above or below it.
+
+SPECIAL LOCOMOTION: CHAIN BLINK
+After the first 
+Blink
+, if there is at least 
+1 Token
+ available, the 
+Chain Blink Window
+ automatically opens for 
+1.5 seconds
+, during which 
+The Nurse
+ can initate a 
+Chain Blink
+:
+
+Grants the ability to teleport for up to 
+12 metres
+.
+
+The Nurse
+ can adjust the Teleportation distance by aiming at any point closer to her.
+
+The Nurse
+ can teleport to other floors by aiming at the ceiling or floor of a room that has another one above or below it.
+
+SPECIAL STATE: FATIGUE
+After either the 
+Chain Blink Window
+ closes or the final 
+Chain Blink
+ elapses, 
+The Nurse
+ enters a state of 
+Fatigue
+ for 
+2 to 3 seconds
+, depending on how many 
+Blinks
+ she chained.
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Fatigue
+: 
+0.96 m/s
+
+Charging during 
+Chain Blink Window
+: 
+1.16 m/s
+
+Walking during 
+Chain Blink Window
+: 
+1.54 m/s
+
+Charging Blink: 
+2.89 m/s
+
+Walking: 
+3.85 m/s
+
+Blink Lunge
+: 
+6.16 m/s
+
+Blink
+: 
+13.33 m/s
+
+This assumes a default 
+Blink
+ of 
+20 metres in 1.5 seconds
+, as this speed value is derived from those parameters.
+
+Blink:
+
+Maximum 
+Blink
+ range: 
+20 metres
+
+Minimum 
+Blink
+ range: 
+1.5 metres
+
+Maximum 
+Blink
+ duration: 
+1.5 seconds
+
+Minimum 
+Blink
+ duration: 
+0.25 seconds
+
+Fastest 
+Blink
+ speed: 
+13.33 m/s
+
+This is calculated based on maximum range using the maximum duration.
+
+Slowest 
+Blink
+ speed: 
+6 m/s
+
+This is calculated based on minimum range using the minimum duration.
+
+Maximum 
+Blink
+ charges: 
+2 Charges
+
+Blink
+ Recharge time: 
+3 seconds per Charge
+
+Blink
+ Charge time: 
+2 seconds
+
+The Charge duration determines the maximum available 
+Blink
+ distance and duration: the longer one charges, the farther she can 
+Blink
+, up to her maximum distance and the longer that 
+Blink
+ will take to complete.
+
+The Nurse
+ can choose not to make use of the maximum distance available to her based on her Charge time, by aiming her camera to a location that is closer than her maximum available range.
+However, doing this will still use the 
+Blink
+ duration determined by the maximum available range.
+
+Chain-Blink
+
+Chain Blink Window
+ duration: 
+1.5 seconds
+
+Fatigue:
+
+Base 
+Fatigue
+ duration: 
+2 seconds
+
+Chain-Blink
+ penalty: 
++0.5 seconds each
+
+1 
+Blink
+: 
+2 seconds
+
+2 
+Blinks
+: 
+2.5 seconds
+
+3 
+Blinks
+: 
+3 seconds
+
+Blink Attack
+ penalty: 
++1 second
+
+This cool-down is added only to the other 
+Fatigue
+ cool-downs, if 
+The Nurse
+ has executed an Attack before going into 
+Fatigue
+.
+
+The Nurse
+ cannot be stunned during her 
+Fatigue
+, 
+Fatigue
+ takes precedence and overrides other stuns.
+
+Lightburn
+ (obsolete):
+
+This mechanic was removed in 
+Patch 6.7.0
+.
+
+Shining a Flashlight on 
+The Nurse's
+ body at any time would block her from charging a 
+Blink
+.
+
+Shining a Flashlight on 
+The Nurse's
+ body while she was already charging a 
+Blink
+ would instead stun her and force her into 
+Fatigue
+.
+
+Lightburn
+ induced by 
+Flash Grenades
+ or 
+Firecrackers
+ was applied instantly upon explosion.
+
+Add-ons for Spencer's Last Breath
+
+Icon
+
+Name
+
+Description
+
+Metal Spoon
+
+A dull, partially rusted and stained metallic spoon.
+Confiscated from Room 202's patient, the "Bad Man".
+
+Survivors hit by a 
+Special Attack
+ have the volume of their 
+Grunts of Pain
+ 
+increased
+ by 
++50 %
+ for the next 
+60 seconds
+.
+
+Plaid Flannel
+
+A torn piece of red and black plaid flannel.
+The scrap of fabric imbues The Nurse with devastating focus.
+
+Unlocks the ability to see the Landing zone of the 
+Blink
+.
+
+White Nit Comb
+
+A parasitic nit comb taken from the clinic.
+Once the symbol of a deep connection between an anxious patient and her nurse.
+
+Grants 
++100 %
+ bonus Bloodpoints for 
+Blink Attack
+ Score Events.
+
+Reduces
+ the Lunge duration of 
+Special Attacks
+ by 
+-0.15 seconds
+, which 
+reduces
+ your Attack range by 
+-50 %
+.
+
+Wooden Horse
+
+An unpainted toy carved out of cheap wood to resemble a horse.
+Once the symbol of a deep connection between a catatonic patient and his nurse.
+
+Reduces
+ the additional 
+Fatigue
+ applied by missed 
+Special Attacks
+ by 
+-0.5 seconds
+.
+
+Bad Man Keepsake
+
+A rotten molar ripped from the "Cataontic Boy's" cold dead hand.
+Normally stable and calm, it becomes incredibly agitated at The Nurse's touch.
+
+Survivors hit with a 
+Special Attack
+ have their 
+Auras
+ revealed to you, if they are healing or being healed within 
+28 metres
+ of your location for 
+60 seconds
+.
+
+Catatonic Boy's Treasure
+
+A pine-cone which unexpectedly calmed a patient's repetitive movement.
+Taken from the "Catatonic Boy's" body.
+
+Reduces
+ the additional 
+Fatigue
+ applied by 
+Chain Blinks
+ by 
+-65 %
+.
+
+Dark Cincture
+
+A black rope used as a belt in times of mourning.
+Taken from Father Campbell's body.
+
+Increases
+ your Movement speed during the 
+Chain Blink Window
+ by 
++30 %
+.
+
+Dull Bracelet
+
+A worthless piece of jewellery that might have an important significance to someone.
+Taken from the "Anxious Girl's" body.
+
+Grants 
++100 %
+ bonus Bloodpoints for 
+Precise Blink
+ Score Events.
+
+Reduces
+ the maximum range of the 
+Blink
+ by 
+-20 %
+.
+
+Pocket Watch
+
+A charred and broken pocket watch with rattling pieces.
+Taken from Nurse Moris' body.
+
+Increases
+ the duration of the 
+Chain Blink Window
+ by 
++0.2 seconds
+.
+
+Anxious Gasp
+
+The gasp of surprise collected from the asylum patient Mary Jenner, also known as the "Anxious Girl" that The Nurse was fond of.
+Twitches vigorously at The Nurse's touch.
+
+Coming within 
+1 metre
+ of Survivors while teleporting causes them to scream and reveal their location.
+
+Grants 
+200
+ Bloodpoints in the 
+Deviousness
+ Category.
+
+Ataxic Respiration
+
+The irregular and deteriorating breath collected from the asylum patient known as the "Catatonic Boy".
+Normally stable and calm, it becomes incredibly agitated at The Nurse's touch.
+
+Reduces
+ the duration of 
+Fatigue
+ by 
+-7 %
+.
+
+Fragile Wheeze
+
+The whistling and rattling breath stolen from Father Campbell.
+Silently curves and bends at The Nurse's touch.
+
+Survivors hit with a 
+Special Attack
+ suffer from the 
+Mangled
+ 
+Status Effect
+ for 
+70 seconds
+.
+
+Heavy Panting
+
+The slow and bulging breath stolen from Harvey Kavanagh, the asylum's "Fat Orderly".
+Dimly oscillates at The Nurse's touch.
+
+Extends
+ the Lunge duration of 
+Special Attacks
+ to 
+110 %
+, which 
+increases
+ your Attack range by 
++10 %
+.
+
+This effect only applies after the second or third 
+Blink
+.
+
+Spasmodic Breath
+
+The twitchy and tremulous breath stolen from the "Bad Man".
+Aggressively pulses and jumps at The Nurse's touch.
+
+Hitting a Survivor with a 
+Special Attack
+ causes the following effects for 
+60 seconds
+:
+
+Increases
+ your Movement speed to 
+4.6 m/s
+.
+
+Disables your Power.
+
+"Bad Man's" Last Breath
+
+A powerful last breath snatched from the asylum patient known as the "Bad Man".
+In the hands of The Nurse, it jolts with intensity.
+
+Hitting Survivors with a 
+Special Attack
+ grants the 
+Undetectable
+ 
+Status Effect
+ for 
+25 seconds
+.
+
+"Bad Man's" Last Breath"
+ has a cool-down of 
+45 seconds
+.
+
+Campbell's Last Breath
+
+A powerful last breath snatched from the asylum priest Father Campbell.
+In the hand of The Nurse, it crackles with intensity.
+
+Reappearing from a fully charged 
+Blink
+, you automatically 
+Blink
+ at full charge in the direction you are facing.
+
+This requires that you have at least 
+1 Charge
+ left after the initial 
+Blink
+.
+
+Jenner's Last Breath
+
+A powerful last breath snatched from the asylum patient Mary Jenner, also known as the "Anxious Girl".
+In the hands of The Nurse, it trembles with intensity.
+
+After exhausting all of your 
+Blinks
+, but before succumbing to 
+Fatigue
+, press the 
+Active Ability button
+ to immediately 
+Blink
+ back to your starting location.
+
+Recharges
+ your Power by 
++1 Charge
+.
+
+Kavanagh's Last Breath
+
+A powerful last breath snatched from the asylum orderly Harvey Kavanagh, also known as the "Fat Orderly".
+In the hands of The Nurse, it wobbles with intensity.
+
+When succumbing to 
+Fatigue
+, all Survivors within 
+8 metres
+ of your location suffer from the 
+Blindness
+ 
+Status Effect
+ for 
+60 seconds
+.
+
+Matchbox
+
+A matchbox containing an odd collection of mismatched buttons.
+Serves as a reminder of a horrible place.
+
+Increases
+ your Movement speed to 
+4.4 m/s
+ for the entire Trial.
+
+Restricts
+ your Power to just 
+1
+ 
+Blink
+.
+
+This cannot be altered by other Add-ons.
+
+Torn Bookmark
+
+A white and pristine piece of ribbon once attached to a sacred book.
+Serves as the symbol of a dispute.
+
+Increases
+ the number of available Power Tokens by 
++1
+.
+
+Increases
+ the Power Recharge time to 
+130 %
+.
+
+Innate Skill
+
+Used exclusively in 
+2v8
+ Trials, the 
+Innate Skill
+ modifies 
+Spencer's Last Breath
+ with the following effects:
+
+Innate Skill
+ (
+Nurse Passive
+) 
+
+Modifies 
+Spencer's Last Breath
+ with the following effects:
+
+Increases
+ the Open time of 
+Blink Attacks
+ by 
++30 %
+.
+
+Increases
+ the Maximum reach of 
+Chain Blink Attacks
+ by 
++30 %
+.
+
+During 
+Fatigue
+:
+
+Reduces
+ its duration after a 
+Blink
+ by 
+-7 %
+.
+
+Reduces
+ its duration after a 
+Chain Blink
+ by 
+-65 %
+.
+
+Reduces
+ its duration after a missed 
+Blink Attack
+ by 
+-0.5 seconds
+.
+
+During the 
+Chain Blink Window
+:
+
+Increases
+ its duration by 
++0.2 seconds
+.
+
+Increases
+ her Movement speed by 
++30 %
+.
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There are 
+3
+ Achievements related to 
+The Nurse
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Nurse
+
+Playing as The 
+Nurse
+, achieve a 
+Merciless Victory
+ using only her 
+3
+ Unique Perks: 
+Stridor
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+You are acutely sensitive to the breathing of your prey.
+
+Increases
+ the volume of 
+Grunts of Pain
+ of injured Survivors by 
+30
+/
+40
+/
+50
+ 
+%
+.
+
+Increases
+ the volume of regular breathing of Survivors by 
+15
+/
+20
+/
+25
+ 
+%
+.
+
+"If you do not stop and catch your breath... she will."
+
+, 
+Thanatophobia
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Their courage fades in the face of their undeniable mortality."
+
+Whenever at least one Survivor is either injured, dying, or hooked, 
+Thanatophobia
+ activates.
+While active, all Survivors suffer from the following primary effect:
+
+Incurs a stack-able 
+1
+/
+1.5
+/
+2
+ 
+%
+ Action-Speed penalty per injured, dying, or hooked Survivor for Cleansing, Repairing, and Sabotaging, up to a maximum of 
+4
+/
+6
+/
+8
+ 
+%
+.
+
+If all four Survivors are either injured, dying, or hooked, they suffer from the following secondary effect:
+
+Increases
+ the penalty by an additional 
++12 
+ to a total of 
+16
+/
+18
+/
+20
+ 
+%
+.
+
+"She plays with us and revels in our pain."
+
+, and 
+A Nurse's Calling
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+Unlocks potential in your Aura-reading ability:
+
+The 
+Auras
+ of Survivors being healed or healing themselves are revealed to you within 
+28
+/
+30
+/
+32
+ 
+metres
+.
+
+"Still attached to the fragments of her past life, she is drawn to those in need of help."
+
+.
+
+In the Void She Walks
+
+Playing as The 
+Nurse
+, successfully land 
+500
+ / 
+100
+ (
+For consoles
+) 
+ 
+Blink Attacks
+.
+
+From the Void She Kills
+
+Playing as The 
+Nurse
+, equip the 
+Torn Bookmark
+Add-on
+ and chain together 
+3 Blinks
+ to grab and interrupt a Survivor interacting with a Prop.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Nurse
+:
+
+Base Cosmetics
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Linen Pillow Case
+
+Common
+
+Linen pillow case held over the face until the victim stops breathing.
+
+Classic Nurses Outfit
+
+Common
+
+Standard issue nurses uniform in the early twentieth century.
+
+Bonesaw
+
+Common
+
+Rust metal implement for tearing through flesh and bone.
+
+Full Bonesaw
+
+Common
+
+Carved metal reinforcement cuts through flesh and bone alike.
+
+Alternate customisation of the default bonesaw
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Bloody Bag
+
+Rare
+
+A disgusting pillowcase, so thick it can block airways and suffocate.
+
+Prestige Level 6 Reward
+
+Bloody Nurse
+
+Rare
+
+A rotten uniform, thick with the blood of someone or something.
+
+Prestige Level 5 Reward
+
+Bloody Bonesaw
+
+Rare
+
+Wrought from the bloody hands of some terrible darkness.
+
+Prestige Level 4 Reward
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+She was driven mad by the disease that surrounded her.
+
+Alternatives
+
+DLC
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+DLC
+
+Sand Bag
+
+Uncommon
+
+A jute sand bag emptied and tightly wrapped to suffocate. Ironically accessorised with a gas mask.
+
+Bloodstained Sack
+
+WW2 Nurse Uniform
+
+Uncommon
+
+Standard uniform for nurses in military service during World War 2.
+
+Bloodstained Sack
+
+Is That A Panda?
+
+Uncommon
+
+A unique bag for the Nurse, created for TheSwiftLegend.
+
+Charity Case
+
+Smiley
+
+Uncommon
+
+A unique bag for the Nurse, created for Smiley.
+
+Charity Case
+
+The Dark Nurse
+
+Uncommon
+
+A unique dress for the Nurse, created for Peng.
+
+Charity Case
+
+Special
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Event
+
+Marked Bridal Saw
+
+Common
+
+A grim bouquet of red rose and sharp steel. An almost imperceptible whisper echoes in the wielder's mind: "anoyk yeqkany'ye hvay'k l'gnoo eydokl'x : sekall'o ammk'ix"
+
+1 Year Anniversary
+
+Sally of the Lantern
+
+Uncommon
+
+The fires of insanity burn within.
+
+"Have a horribly good Halloween 2017!" - The Dead by Daylight Team
+
+All Hallows' Eve
+
+Frosty Eyes
+
+Uncommon
+
+Heart chilling eyes of the cold blooded.
+
+"Have a Wonderful Winter 2017-2018!" - The Dead by Daylight Team
+
+Winter Solstice 2017
+
+Event
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Event
+
+Exclusive to Event Participation
+
+Crown of the Entity
+
+Event
+
+A crown emanating a festive and ominous aura created by the Entity's biggest fan.
+
+Fourth Year Anniversary
+
+Yes
+
+5th Anniversary Crown
+
+Event
+
+A crown crafted for a very special anniversary.
+
+"Thank you for supporting & inspiring us along the years!" - The Dead by Daylight Team
+
+Fifth Year Anniversary
+
+Yes
+
+Festive Gown
+
+Event
+
+A long lavish gown, lined with silky, golden fabric. Once worn to celebrate her wedding anniversary.
+
+Lurking Stripes
+
+Yes
+
+Bonbon Bonesaw
+
+Event
+
+A spoonful of sugar won’t make this medicine go down any easier.
+
+Haunted by Daylight 2022
+
+Yes
+
+Nurse's Mask
+
+Event
+
+A mask she found herself wearing at the masquerade ball.
+
+Twisted Masquerade 2023
+
+Yes
+
+Exclusives
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Event
+
+Legacy Nurse 2
+
+Very Rare
+
+The touch of the Entity leaves burning scars and blisters of light. Is it a gift or a curse?
+
+Legacy Prestige Reward
+
+Legacy Nurse 3
+
+Very Rare
+
+The touch of the Entity leaves burning scars and blisters of light. Is it a gift or a curse?
+
+Legacy Prestige Reward
+
+Legacy Nurse I
+
+Very Rare
+
+The touch of the Entity leaves burning scars and blisters of light. Is it a gift or a curse?
+
+Legacy Prestige Reward
+
+ Rift
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Demure Dismemberer
+
+SPRING ENSEMBLES
+
+Tome 11 - Devotion
+
+12 June 2018 (Tuesday)
+
+Description
+
+A prim and proper exterior often hides a darkness deep within.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Bonnet Full of Posies
+
+SPRING ENSEMBLES
+
+29
+
+A crown of beautiful, vibrant flowers—all perfectly preserved and very dead.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Delicate Bodice
+
+SPRING ENSEMBLES
+
+21
+
+A light, flowery prison for the ribs and lungs that squeezes the very breath from its wearer.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Tendon Ripper
+
+SPRING ENSEMBLES
+
+7
+
+A piece of medical equipment that blurs the line between surgeon and butcher.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Dirge of Yesterday
+
+TRAGIC LOVE OPERA
+
+Tome 8 - Deliverance
+
+16 August 2022 (Tuesday)
+
+Description
+
+A tearful look back on the past.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Dark Rose Gauze
+
+TRAGIC LOVE OPERA
+
+41
+
+Elegant hair falls gently over the bloody linen cloth that covers her eyes.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Mourner’s Wedding Gown
+
+TRAGIC LOVE OPERA
+
+68
+
+A vintage wedding gown, perfect for that special day tragedy.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Lamenting Saw
+
+TRAGIC LOVE OPERA
+
+59
+
+A forged instrument with intricate, flowery metal work. Ideal for severing limbs, an action that helps numb the painful void in her chest.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+The Accident
+
+Grim Resolutions Collection
+
+Tome 12 - Discordance
+
+23 May 2023 (Tuesday)
+
+Description
+
+The ambulance that was supposed to take her to the hospital never made it.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Medical Shrapnel
+
+Grim Resolutions Collection
+
+16
+
+As the vehicle turned and tumbled off of the road, its contents crashed into her.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Annihilated Uniform
+
+Grim Resolutions Collection
+
+24
+
+Her outfit, already crimson with the blood of her victims, ran bright red from her fresh wounds.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Improvised Steel
+
+Grim Resolutions Collection
+
+31
+
+She was forced to cut herself loose from the wreckage with whatever she could pluck from the wreckage—or herself.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Deadly Harvest
+
+Dark Overgrowth
+
+Rift Pass 1 - Overgrowth
+
+26 May 2026 (Tuesday)
+
+Description
+
+The patient wandered the asylum grounds, urging the voices to be silent. In the distance, a nurse was picking colorful mushrooms.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Bouquet Bonnet
+
+Dark Overgrowth
+
+41
+
+The nurse heard him approach and rose to her feet. The voices yelled at the sight of her face, screaming ill omens of endless suffering.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Earthen Pixie
+
+Dark Overgrowth
+
+44
+
+The voices fell silent at last as the nurse took his arm. Walking back to his ward, he studied the basket of mushrooms in the crook of her elbow.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Sawtooth Arrangement
+
+Dark Overgrowth
+
+48
+
+She put him in bed and insisted on feeding him porridge. He opened his mouth and welcomed the spoon, unable to resist the inevitable.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Deadly Harvest (Deep Rift 1)
+
+Dark Overgrowth
+
+Rift Pass 1 - Overgrowth
+
+06 May 2025 (Tuesday)
+
+Description
+
+The patient wandered the asylum grounds, urging the voices to be silent. In the distance, a nurse was picking colorful mushrooms.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Bouquet Bonnet (Deep Rift 1)
+
+Dark Overgrowth
+
+74
+
+The nurse heard him approach and rose to her feet. The voices yelled at the sight of her face, screaming ill omens of endless suffering.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Earthen Pixie (Deep Rift 1)
+
+Dark Overgrowth
+
+74
+
+The voices fell silent at last as the nurse took his arm. Walking back to his ward, he studied the basket of mushrooms in the crook of her elbow.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Sawtooth Arrangement (Deep Rift 1)
+
+Dark Overgrowth
+
+74
+
+She put him in bed and insisted on feeding him porridge. He opened his mouth and welcomed the spoon, unable to resist the inevitable.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Deadly Harvest (Deep Rift 2)
+
+Dark Overgrowth
+
+Rift Pass 1 - Overgrowth
+
+06 May 2025 (Tuesday)
+
+Description
+
+The patient wandered the asylum grounds, urging the voices to be silent. In the distance, a nurse was picking colorful mushrooms.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Bouquet Bonnet (Deep Rift 2)
+
+Dark Overgrowth
+
+83
+
+The nurse heard him approach and rose to her feet. The voices yelled at the sight of her face, screaming ill omens of endless suffering.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Earthen Pixie (Deep Rift 2)
+
+Dark Overgrowth
+
+87
+
+The voices fell silent at last as the nurse took his arm. Walking back to his ward, he studied the basket of mushrooms in the crook of her elbow.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Sawtooth Arrangement (Deep Rift 2)
+
+Dark Overgrowth
+
+91
+
+She put him in bed and insisted on feeding him porridge. He opened his mouth and welcomed the spoon, unable to resist the inevitable.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Fluid Nightingale
+
+Hallowed Catalyst
+
+Tome 1 - Awakening
+
+20 October 2020 (Tuesday)
+
+Description
+
+With foul serum still dripping from her wound, she broke free from her captor.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Malignant Growth
+
+Hallowed Catalyst
+
+7
+
+There was no cure for the scorching mass expanding from her skull.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Dripping Uniform
+
+Hallowed Catalyst
+
+15
+
+Her robe was torn by her swollen entrails, which extended to her chest and fused with her lungs.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Needle Saw
+
+Hallowed Catalyst
+
+23
+
+An amputation saw injected with putrid serum to torture her patients with the pain she suffered.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Death's Cloak
+
+Castlevania
+
+Tome 21 - Dominus
+
+26 August 2025 (Tuesday)
+
+Description
+
+He woke to the sounds of struggle from the bed next to him. He turned slowly, fearing what he would see.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Shrouded Skull
+
+Castlevania
+
+25
+
+A flowing shadow was bent over the next bed, taking the life of a catatonic patient.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Checkered Robe
+
+Castlevania
+
+32
+
+He stifled a scream. It was as if Death was in the hospital, harvesting the latest crop of souls.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Scythe Saw
+
+Castlevania
+
+28
+
+The shadow turned towards him, its arms outstretched. The last thing he saw was Nurse Smithson's face emerging from the dark.
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Death's Cloak (Deep Rift)
+
+Deep Rift
+
+Tome 21 - Dominus
+
+12 June 2018 (Tuesday)
+
+Description
+
+He woke to the sounds of strangulation from the next bed over. He turned, shivering, dreading what he would see.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Shrouded Skull (Deep Rift)
+
+Deep Rift
+
+72
+
+A flowing shadow was floating over the next bed, gripping the patient's neck and shaking him.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Checkered Robe (Deep Rift)
+
+Deep Rift
+
+82
+
+He choked on a scream. It was as if Death was before him, harvesting the latest crop of souls.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Scythe Saw (Deep Rift)
+
+Deep Rift
+
+76
+
+The shadow flew to him, its arms outstretched. The last thing he saw was his favorite nurse's face emerging from the dark.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Open Heart Surgery
+
+Cupid's Chosen Collection
+
+Tome 14 - Betrayal
+
+14 February 2025 (Friday)
+
+Description
+
+If a patient suffers from a broken heart, she can fix them.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Toxic Love
+
+Cupid's Chosen Collection
+
+39
+
+A mask that ensures none of her patients will fall for her.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Racing Heart
+
+Cupid's Chosen Collection
+
+63
+
+A nurse's field uniform that soldiers would not want to see on a battlefield.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Breath Taker
+
+Cupid's Chosen Collection
+
+12
+
+A bone saw designed to steal her victims' last breath.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+The Ashen Lady
+
+Divergence
+
+Tome 6 - Divergence
+
+12 May 2022 (Thursday)
+
+Description
+
+The life and love she had was no more, turned to dust and blown away.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Weeping Mask
+
+Divergence
+
+19
+
+All she could do was cover her eyes and wish the horror would end.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Withering Soul
+
+Divergence
+
+1
+
+Once a symbol of love; now a reminder of death. The cloth decays in the wind and drifts away.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Rose Decay
+
+Divergence
+
+68
+
+A bonesaw decorated with roses, it decays with the heart of its wielder.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Deadly Harvest (Deep Rift 3)
+
+Dark Overgrowth
+
+Rift Pass 1 - Overgrowth
+
+06 May 2025 (Tuesday)
+
+Description
+
+The patient wandered the asylum grounds, urging the voices to be silent. In the distance, a nurse was picking colorful mushrooms.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Bouquet Bonnet (Deep Rift 3)
+
+Dark Overgrowth
+
+98
+
+The nurse heard him approach and rose to her feet. The voices yelled at the sight of her face, screaming ill omens of endless suffering.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Earthen Pixie (Deep Rift 3)
+
+Dark Overgrowth
+
+98
+
+The voices fell silent at last as the nurse took his arm. Walking back to his ward, he studied the basket of mushrooms in the crook of her elbow.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Sawtooth Arrangement (Deep Rift 3)
+
+Dark Overgrowth
+
+98
+
+She put him in bed and insisted on feeding him porridge. He opened his mouth and welcomed the spoon, unable to resist the inevitable.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Collector's Curse
+
+Darkest Dungeon
+
+Rift Pass 5 - Ruin
+
+28 April 2026 (Tuesday)
+
+Description
+
+When hope burns to cinders, fear arises from the ashes to blaze everlasting. Woe shall befall those basking in its sickening heat.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Head Trauma
+
+Darkest Dungeon
+
+1
+
+A spectral figure floats through the Fog, her head aglow with an unnatural blue flame.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Comfort Care
+
+Darkest Dungeon
+
+1
+
+Find peace in the fleeting comfort before the end, for closed eyes cannot see the horrors that come after.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Fate’s Cruelty
+
+Darkest Dungeon
+
+1
+
+To spend one’s life as caregiver, only to become a vessel of misery. A tragic fate indeed.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Collector's Curse (Deep Rift 1)
+
+Darkest Dungeon
+
+Rift Pass 5 - Ruin
+
+28 April 2026 (Tuesday)
+
+Description
+
+When hope burns to cinders, fear arises from the ashes to blaze everlasting. Woe shall befall those basking in its sickening heat.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Head Trauma (Deep Rift 1)
+
+Darkest Dungeon
+
+85
+
+A spectral figure floats through the Fog, her head aglow with an unnatural green flame.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Comfort Care (Deep Rift 1)
+
+Darkest Dungeon
+
+85
+
+Find peace in the fleeting comfort before the end, for closed eyes cannot see the horrors that come after.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Fate’s Cruelty (Deep Rift 1)
+
+Darkest Dungeon
+
+85
+
+To spend one’s life as caregiver, only to become a vessel of misery. A tragic fate indeed.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Collector's Curse (Deep Rift 2)
+
+Darkest Dungeon
+
+Rift Pass 5 - Ruin
+
+28 April 2026 (Tuesday)
+
+Description
+
+When hope burns to cinders, fear arises from the ashes to blaze everlasting. Woe shall befall those basking in its sickening heat.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Head Trauma (Deep Rift 2)
+
+Darkest Dungeon
+
+99
+
+A spectral figure floats through the Fog, her head aglow with an unnatural red flame.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Comfort Care (Deep Rift 2)
+
+Darkest Dungeon
+
+99
+
+Find peace in the fleeting comfort before the end, for closed eyes cannot see the horrors that come after.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Fate’s Cruelty (Deep Rift 2)
+
+Darkest Dungeon
+
+99
+
+To spend one’s life as caregiver, only to become a vessel of misery. A tragic fate indeed.
+
+Piece
+
+Name
+
+Tome
+
+Rift Tier
+
+Hazmat Mask
+
+Tome 4 - Conviction
+27
+
+A jute sand bag tightly wrapped around the head and accessorized with a gas mask.
+
+Piece
+
+Name
+
+Tome
+
+Rift Tier
+
+Metacarpal Saw (Cool Rust)
+
+Tome 3 - Escalation
+9
+
+A Benjamin Bell-type instrument designed to cut through thick bones during your arbitrary amputation rounds.
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+On Probation
+
+NURSE ABERRATIONS
+
+12 June 2018 (Tuesday)
+
+Description
+
+Your first weeks of training while working at the asylum. They say it gets better before it gets worse.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Cotton Pillow Case (Decayed)
+
+NURSE ABERRATIONS
+
+A dirty cotton pillow case pulled tightly across the face. Take a deep breath.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Ruined Nurse Outfit (Decayed)
+
+NURSE ABERRATIONS
+
+A vintage nurse uniform, soiled and tattered beyond repair.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+On Probation
+
+NURSE ABERRATIONS
+
+12 June 2018 (Tuesday)
+
+Description
+
+Your first weeks of training while working at the asylum. They say it gets better before it gets worse.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Cotton Pillow Case (Drowned)
+
+NURSE ABERRATIONS
+
+A dirty cotton pillow case pulled tightly across the face. Take a deep breath.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Ruined Nurse Outfit (Drowned)
+
+NURSE ABERRATIONS
+
+A vintage nurse uniform, soiled and tattered beyond repair.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+On Probation
+
+NURSE ABERRATIONS
+
+12 June 2018 (Tuesday)
+
+Description
+
+Your first weeks of training while working at the asylum. They say it gets better before it gets worse.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Cotton Pillow Case (Fruitless)
+
+NURSE ABERRATIONS
+
+A dirty cotton pillow case pulled tightly across the face. Take a deep breath.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Ruined Nurse Outfit (Fruitless)
+
+NURSE ABERRATIONS
+
+A vintage nurse uniform, soiled and tattered beyond repair.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+On Probation
+
+NURSE ABERRATIONS
+
+12 June 2018 (Tuesday)
+
+Description
+
+Your first weeks of training while working at the asylum. They say it gets better before it gets worse.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Cotton Pillow Case (Smothered)
+
+NURSE ABERRATIONS
+
+A dirty cotton pillow case pulled tightly across the face. Take a deep breath.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Ruined Nurse Outfit (Smothered)
+
+NURSE ABERRATIONS
+
+A vintage nurse uniform, soiled and tattered beyond repair.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+On Probation
+
+NURSE ABERRATIONS
+
+12 June 2018 (Tuesday)
+
+Description
+
+Your first weeks of training while working at the asylum. They say it gets better before it gets worse.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Cotton Pillow Case (Strangled)
+
+NURSE ABERRATIONS
+
+A dirty cotton pillow case pulled tightly across the face. Take a deep breath.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Ruined Nurse Outfit (Strangled)
+
+NURSE ABERRATIONS
+
+A vintage nurse uniform, soiled and tattered beyond repair.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Tainted Anniversary
+
+THE HOUSEWIFE
+
+18 September 2018 (Tuesday)
+
+Description
+
+Pieces from her old life, before it took a dark turn.
+
+180
+
+3600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Grieving Tears (Stifled)
+
+THE HOUSEWIFE
+
+A hand-embroidered headscarf to hide your pain.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+A Sorrowful Gown (Stifled)
+
+THE HOUSEWIFE
+
+What she wore on the day she learned that Andrew would never come home.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Bad News
+
+THE HOUSEWIFE
+
+18 September 2018 (Tuesday)
+
+Description
+
+Pieces from her old life, before it took a dark turn.
+
+180
+
+3600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Mourning Tears (Stifled)
+
+THE HOUSEWIFE
+
+A hand-embroidered headscarf to hide your pain.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+A Widow’s Gown (Stifled)
+
+THE HOUSEWIFE
+
+What she wore on the day she learned that Andrew would never come home.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Waste Management
+
+THE DISPOSED
+
+12 June 2018 (Tuesday)
+
+Description
+
+It's a Sicilian message.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Asphyxiation Trash Bag
+
+THE DISPOSED
+
+Submerged. An underwater grave.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Weighted Tarpaulin
+
+THE DISPOSED
+
+This was once weighed down with heavy rocks that have since been removed.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Bloodied Bone Cutter
+
+THE DISPOSED
+
+This used to be a medical instrument. Now it is used as an instrument of death.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Hazardous Material
+
+THE DISPOSED
+
+12 June 2018 (Tuesday)
+
+Description
+
+Now, I am become Death, the destroyer of worlds.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Contaminated Trash Bag
+
+THE DISPOSED
+
+A plastic bag wrapped tightly with duct tape. No room to move. No way to see. No air to breath.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Biohazard Tarpaulin
+
+THE DISPOSED
+
+A heavy, plastic tomb sealed tightly with duct tape.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Bronze Bone Cutter
+
+THE DISPOSED
+
+This used to be a medical instrument. Now it is used as an instrument of death.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Dirge of Yesterday
+
+TRAGIC LOVE OPERA
+
+Tome 8 - Deliverance
+
+16 August 2022 (Tuesday)
+
+Description
+
+A tearful look back on the past.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Dark Rose Gauze
+
+TRAGIC LOVE OPERA
+
+41
+
+Elegant hair falls gently over the bloody linen cloth that covers her eyes.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Mourner’s Wedding Gown
+
+TRAGIC LOVE OPERA
+
+68
+
+A vintage wedding gown, perfect for that special day tragedy.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Lamenting Saw
+
+TRAGIC LOVE OPERA
+
+59
+
+A forged instrument with intricate, flowery metal work. Ideal for severing limbs, an action that helps numb the painful void in her chest.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+The Accident
+
+Grim Resolutions Collection
+
+Tome 12 - Discordance
+
+23 May 2023 (Tuesday)
+
+Description
+
+The ambulance that was supposed to take her to the hospital never made it.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Medical Shrapnel
+
+Grim Resolutions Collection
+
+16
+
+As the vehicle turned and tumbled off of the road, its contents crashed into her.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Annihilated Uniform
+
+Grim Resolutions Collection
+
+24
+
+Her outfit, already crimson with the blood of her victims, ran bright red from her fresh wounds.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Improvised Steel
+
+Grim Resolutions Collection
+
+31
+
+She was forced to cut herself loose from the wreckage with whatever she could pluck from the wreckage—or herself.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Hope Slayer
+
+Blood And Bones
+
+25 July 2024 (Thursday)
+
+Description
+
+Her rage subsided as she was freed from the fog and released into a new realm.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Spiked Bonnet
+
+Blood And Bones
+
+She could see without seeing and was taken aback by her own appearance.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Distinguished Bodice
+
+Blood And Bones
+
+She never imagined such finery could ever exist, much less be made for her to wear.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Festooned Bonesaw
+
+Blood And Bones
+
+The screams of past patients rang in her ears as she readied her latest instrument of pain.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Blood Bag
+
+THE DISPOSED
+
+12 June 2018 (Tuesday)
+
+Description
+
+Wrapped up. Disposed of. Left for dead. It's time to break free. It's time for revenge.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Suffocation Trash Bag
+
+THE DISPOSED
+
+A plastic bag wrapped tightly with duct tape. No room to move. No way to see. No air to breath.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Landfill Tarpaulin
+
+THE DISPOSED
+
+A heavy, plastic tomb sealed tightly with duct tape.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Oxidized Bone Cutter
+
+THE DISPOSED
+
+This used to be a medical instrument. Now it is used as an instrument of death.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Deadly Harvest
+
+Dark Overgrowth
+
+Rift Pass 1 - Overgrowth
+
+26 May 2026 (Tuesday)
+
+Description
+
+The patient wandered the asylum grounds, urging the voices to be silent. In the distance, a nurse was picking colorful mushrooms.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Bouquet Bonnet
+
+Dark Overgrowth
+
+41
+
+The nurse heard him approach and rose to her feet. The voices yelled at the sight of her face, screaming ill omens of endless suffering.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Earthen Pixie
+
+Dark Overgrowth
+
+44
+
+The voices fell silent at last as the nurse took his arm. Walking back to his ward, he studied the basket of mushrooms in the crook of her elbow.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Sawtooth Arrangement
+
+Dark Overgrowth
+
+48
+
+She put him in bed and insisted on feeding him porridge. He opened his mouth and welcomed the spoon, unable to resist the inevitable.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Mother Mercy
+
+War is Hell
+
+21 August 2019 (Wednesday)
+
+Description
+
+A spoonful of sugar helps the mustard gas go down.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Gasp Mask
+
+War is Hell
+
+This shrapnel-torn gas mask would be the death of many, but some have a greater service to fulfill.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Medical Casualty
+
+War is Hell
+
+A nurse’s military uniform, clearly violating regulations due to the torn skirt, mutilated arm, and soaked blood.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Assisted Euthanasia
+
+War is Hell
+
+A bonesaw to mercifully end the suffering of those snagged on its barbed wire.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Until Death Parts
+
+THE BRIDE
+
+12 June 2018 (Tuesday)
+
+Description
+
+A special day. Left at the altar. No one shall rest until a soulmate is found.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Grim Veil
+
+THE BRIDE
+
+This one symbolizes mourning… for the death of innocence.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Reaper Wedding Gown
+
+THE BRIDE
+
+A vintage wedding gown, perfect for that special day tragedy.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Oxidized Bone Cleaver
+
+THE BRIDE
+
+An old-fashioned hand axe, specifically designed for chopping through hard bone.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Anguished Walk
+
+Days Gone By
+
+16 January 2024 (Tuesday)
+
+Description
+
+Sally watched the woman dressed in black roam through the asylum corridor during visiting hours, as she did every day.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Hidden Sorrow
+
+Days Gone By
+
+The woman always held her head high, despite covering her face with a black linen veil.
+
+Piece
+
+Name
+
+Collection
+
+Kin Burden
+
+Days Gone By
+
+Her weathered black dress inspired pity and despair in anyone who laid eyes upon her.
+
+Piece
+
+Name
+
+Collection
+
+Deadly Stain-Glass
+
+Days Gone By
+
+She found her patient’s body on the cell’s floor, surrounded by shattered stained glass.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Kampo Trainee
+
+Grim Matsuri
+
+29 January 2020 (Wednesday)
+
+Description
+
+She began her work at a private lunatic asylum created to provide humane care for domestic detainees.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+High-Top Hat
+
+Grim Matsuri
+
+She bandaged her face and pierced the dressing with rusty acupuncture needles.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Frostbitten Robe
+
+Grim Matsuri
+
+Her tattered robe was stocked with rancid mushrooms, dirty roots, and foul herbs.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rusted Amputation Saw
+
+Grim Matsuri
+
+A sharp, rusted blade used to saw off frozen limbs.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+In Sickness, In Health
+
+THE BRIDE
+
+12 June 2018 (Tuesday)
+
+Description
+
+It’s a nice day to start again.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Ill Veil
+
+THE BRIDE
+
+The bridal veil symbolizes innocence… but not today.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Plague Wedding Gown
+
+THE BRIDE
+
+A vintage wedding gown, perfect for that special day tragedy.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Bloodied Bone Cleaver
+
+THE BRIDE
+
+An old-fashioned hand axe, specifically designed for chopping through hard bone.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Fluid Nightingale
+
+Hallowed Catalyst
+
+Tome 1 - Awakening
+
+20 October 2020 (Tuesday)
+
+Description
+
+With foul serum still dripping from her wound, she broke free from her captor.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Malignant Growth
+
+Hallowed Catalyst
+
+7
+
+There was no cure for the scorching mass expanding from her skull.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Dripping Uniform
+
+Hallowed Catalyst
+
+15
+
+Her robe was torn by her swollen entrails, which extended to her chest and fused with her lungs.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Needle Saw
+
+Hallowed Catalyst
+
+23
+
+An amputation saw injected with putrid serum to torture her patients with the pain she suffered.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Fading Fire
+
+Aftermath
+
+02 May 2024 (Thursday)
+
+Description
+
+She was one with the embers that smoldered in the furthest reaches of the darkness.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Molten Skin
+
+Aftermath
+
+Her skin was wracked with pain, and she couldn’t understand why.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Consumed Uniform
+
+Aftermath
+
+The hem of her dress smoldered with the dying remains of a once-raging fire.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Red-Hot Saw
+
+Aftermath
+
+The blade still glowed as if it would never lose its heat.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Flashforward
+
+Holiday Horror
+
+14 December 2023 (Thursday)
+
+Description
+
+One of her most reclusive patients spent his days drawing a creature that drifted around while draped in a long robe.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Nailed Crown
+
+Holiday Horror
+
+Her small golden crown clashed with the numerous nails that pierced her skull.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Red Robe
+
+Holiday Horror
+
+The creature was clothed in a long crimson woolen robe decorated with fur borders and shining golden stars.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Sawing Star
+
+Holiday Horror
+
+The patient's drawing depicted in detail the creature using a star-topped wood saw to sever people's limbs.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Madness Wanderer
+
+Eldritch Nightmares
+
+10 February 2026 (Tuesday)
+
+Description
+
+Sally lost herself in the pages of her book, tuning out the wild cries of the patients in the background.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Pustular Growth
+
+Eldritch Nightmares
+
+Every description of the nightmarish world was like déjà vu. Images of scaly creatures staring, waiting in the shadows, flashed through her mind.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Bleed Gown
+
+Eldritch Nightmares
+
+It was as if she were there, caught in the chaos. It couldn't be a memory of hers, yet it was familiar. Too familiar.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Corrupted Saw
+
+Eldritch Nightmares
+
+She shut the book with doubts. She was reading this story for the first time, yet it felt like reliving a moment she knew well.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Vengeful Enchantress
+
+Greek Legends
+
+27 July 2021 (Tuesday)
+
+Description
+
+She projected a false image of serenity that deluded those around her.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Shrouded Face
+
+Greek Legends
+
+A silky scarf wrapped around her neck, concealing her true nature.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Luxurious Tunic
+
+Greek Legends
+
+A delicate, smooth tunic covering her venomous, arachnid legs.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Poisonous Scythe
+
+Greek Legends
+
+A sharp, poisoned blade wielded at night with grief.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Death's Cloak
+
+Castlevania
+
+Tome 21 - Dominus
+
+26 August 2025 (Tuesday)
+
+Description
+
+He woke to the sounds of struggle from the bed next to him. He turned slowly, fearing what he would see.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Shrouded Skull
+
+Castlevania
+
+25
+
+A flowing shadow was bent over the next bed, taking the life of a catatonic patient.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Checkered Robe
+
+Castlevania
+
+32
+
+He stifled a scream. It was as if Death was in the hospital, harvesting the latest crop of souls.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Scythe Saw
+
+Castlevania
+
+28
+
+The shadow turned towards him, its arms outstretched. The last thing he saw was Nurse Smithson's face emerging from the dark.
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Lady Lunatic
+
+VICIOUS VICTORIAN
+
+07 November 2018 (Wednesday)
+
+Description
+
+After breaking free from the madhouse, rejoin society to inflict your dark treatment.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Smothering Bonnet
+
+VICIOUS VICTORIAN
+
+A floral headdress dusted with brilliant hues of arsenic.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Choking Corset
+
+VICIOUS VICTORIAN
+
+Rows of lace knotting the waist into a suffocating garment, pressing a curvature of the spine and deformity of the ribs.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Metacarpal Saw
+
+VICIOUS VICTORIAN
+
+A Benjamin Bell-type instrument designed to cut through thick bones during your arbitrary amputation rounds.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Open Heart Surgery
+
+Cupid's Chosen Collection
+
+Tome 14 - Betrayal
+
+14 February 2025 (Friday)
+
+Description
+
+If a patient suffers from a broken heart, she can fix them.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Toxic Love
+
+Cupid's Chosen Collection
+
+39
+
+A mask that ensures none of her patients will fall for her.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Racing Heart
+
+Cupid's Chosen Collection
+
+63
+
+A nurse's field uniform that soldiers would not want to see on a battlefield.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Breath Taker
+
+Cupid's Chosen Collection
+
+12
+
+A bone saw designed to steal her victims' last breath.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+The Ashen Lady
+
+Divergence
+
+Tome 6 - Divergence
+
+12 May 2022 (Thursday)
+
+Description
+
+The life and love she had was no more, turned to dust and blown away.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Weeping Mask
+
+Divergence
+
+19
+
+All she could do was cover her eyes and wish the horror would end.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Withering Soul
+
+Divergence
+
+1
+
+Once a symbol of love; now a reminder of death. The cloth decays in the wind and drifts away.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Rose Decay
+
+Divergence
+
+68
+
+A bonesaw decorated with roses, it decays with the heart of its wielder.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Miss Smithson
+
+TRAGIC LOVE OPERA
+
+09 August 2019 (Friday)
+
+Description
+
+After the loss of her husband, she worked twelve-hour shifts at an asylum to pay the bills. In the halls at night, she’d hum a sad tune to numb her pain.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+White Rose Gauze
+
+TRAGIC LOVE OPERA
+
+Lush curls adorned with gleaming pearls wrapped by a linen cloth that covers her eyes.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Sumptuous Gown
+
+TRAGIC LOVE OPERA
+
+A long lavish gown lined with delicate lacework that covers up the bleeding cavity where her heart should be.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Barbed Saw
+
+TRAGIC LOVE OPERA
+
+A forged instrument with intricate, flowery metal work. Ideal for severing limbs, an action that helps numb the painful void in her chest.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Bonbon Bonesaw
+
+Tricks and Treats
+
+A spoonful of sugar won’t make this medicine go down any easier.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Icy Treatment
+
+Bone Chill
+
+A saw coated in ice, a cold that cuts to the bone.
+
+Piece
+
+Name
+
+Collection
+
+Spinal Blade
+
+Blood Moon
+
+The strange weapon that appeared in her hand gave new meaning to the term "bonesaw."
+
+Piece
+
+Name
+
+Festive Gown
+
+A long lavish gown, lined with silky, golden fabric. Once worn to celebrate her wedding anniversary.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Nurse’s Mask
+
+Twisted Masquerade
+
+A mask she found herself wearing at the masquerade ball.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rusted Bone Cleaver
+
+THE BRIDE
+
+An old-fashioned hand axe, specifically designed for chopping through hard bone.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Twisted Saw
+
+Twisted Masquerade
+
+A refined weapon suitable for the masquerade ball.
+
+400
+
+7200
+
+Alternate Character Models
+
+The 
+Nurse
+ has 
+2
+ alternate Character models available in the in-game Store:
+
+Death
+ (Costume)
+
+The Collector
+ (Costume)
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Nurse
+ is part of 
+3
+ DLCs:
+
+The Last Breath Chapter
+ (comes pre-installed)
+
+The Bloodstained Sack
+
+Charity Case
+
+History
+
+Lightburn
+
+ 
+Main article: 
+Lightburn
+ 
+
+Up to 
+Patch 6.7.0
+, '
+The Nurse
+ was affected by a unique mechanic when Survivors would use light-emitting Items against her when or before charging a 
+Blink
+:
+
+SPECIAL VULNERABILITY: LIGHTBURN
+
+Interacting with the 
+Spirit World
+ causes 
+The Nurse
+ to suffer from 
+Lightburn
+, which leaves her vulnerable to bright lights while using her Power:
+
+Shining 
+Flashlights
+ directly at 
+The Nurse
+ prevents her from charging a 
+Blink
+ for as long as the light is shining at her.
+
+Shining 
+Flashlights
+ directly at 
+The Nurse
+, or detonating 
+Firecrackers
+ or 
+Flash Grenades
+ near her, while she is in the process of charging a 
+Blink
+ will stun her, forcing her into 
+Fatigue
+.
+
+Change Log
+
+Patch 1.1.2
+Patch 1.3.0
+Patch 1.5.0
+Patch 1.9.0
+Patch 3.3.1
+Patch 5.5.0
+Patch 6.5.0
+Patch 6.7.0
+Patch 8.3.2
+Patch 1.1.2
+
+Nerf
+:
+ added 
+Lightburn
+ vulnerability.
+
+Nerf
+:
+ reduced the default charges of 
+Spencer's Last Breath
+ from 
+3 Blinks
+ to 
+2 Blinks
+.
+
+This, in conjunction to a 
+Nerf
+ to 
+Fragile Wheeze
+, reduced the maximum number of available Blinks and Chain Blinks from 
+7 Blinks
+ to 
+5 Blinks
+.
+
+7 Blinks
+ were possible with the 1.1.0-1.1.1 versions of 
+Fragile Wheeze
+ and 
+Campbell's Last Breath
+.
+
+Nerf
+:
+ reduced The Nurse's default 
+Movement speed
+ from 
+4.0 m/s or 100 %
+ to 
+3.85 m/s or 96.25 %
+.
+Patch 1.3.0
+
+Quality of Life
+: increased The Nurse's Carrying Movement speed from 
+3.504 m/s or 87.6 %
+ to 
+3.68 m/s or 92 %
+, to match that of the other Killers.
+Patch 1.5.0
+
+Nerf
+: 
+Bloodlust
+ is now reset when charging a 
+Blink
+.
+Patch 1.9.0
+
+Quality of Life
+: standardised The Nurse's post-Blink 
+Lunge
+ to the default variation shared by all Killers now.
+
+This now allows for full rotation mid-Lunge compared to the former Lunge which was restricted to a straight path and could not avoid potential obstacles by curving around them.
+
+Quality of Life
+: a Blink's duration is now determined by how long a Blink was charged for. Charging duration still determines the maximum available Blink distance, but The Nurse is no longer committed to that distance and can shorten her travel path by aiming her camera to a desired spot closer to her.
+
+Quality of Life
+: The Nurse can now blink upwards and downwards, including through floors and ceilings.
+Patch 3.3.1
+
+Nerf
+:
+ reworked 
+Spencer's Last Breath
+ to be based on Charges, requiring The Nurse to wait for her Blink Charges to reload instead of having the maximum amount available immediately post-Fatigue.
+
+Nerf
+:
+ reworked several Blink Charge Add-ons, reducing the maximum number of available Blinks (with Add-ons) from 
+5
+ to 
+3
+.
+Patch 5.5.0
+
+Quality of Life
+: rewrote the majority of the code governing 
+The Nurse
+, especially net-working, to fix a plethora of issues that plagued her over the years.
+Patch 6.5.0
+
+Quality of Life
+: added a new sound cue that plays when 
+The Nurse
+ has fully regenerated all her Blink charges.
+
+Nerf
+:
+ any attack following a 
+Blink
+ and before 
+The Nurse
+ succumbs to 
+Fatigue
+ is now considered a 
+Special Attack
+ and no longer activates any effects associated with 
+Basic Attacks
+.
+
+Change
+:
+ received a second Add-on Pass, which brings her strongest and her weakest Add-ons in line with the rest.
+
+Change
+:
+ 
+The Nurse
+ now features a unique Menu Music, 
+Terror Radius
+ and Chase Music.
+Patch 6.7.0
+
+Buff
+: removed the 
+Lightburn
+ mechanic.
+Patch 8.3.2
+
+Undocumented Change
+: slightly altered the Memento Mori animation.
+
+Trivia
+
+General
+
+The Nurse
+ was the first female Killer.
+
+The Nurse
+ was the first Killer to be introduced as a 
+DLC
+.
+
+Her 
+DLC
+ was later incorporated into the base game.
+
+In The 
+Entity
+'s 
+Realm
+, 
+The Nurse
+ shares her home turf with The 
+Clown
+ in the 
+Crotus Prenn Asylum
+.
+
+The Nurse
+ was the first Killer to use telekinesis to perform various interactions.
+
+She is also the first Killer to float rather than walk.
+
+She remained the only Killer to do so for nearly eight years until the addition of The 
+Lich
+ and The 
+Dark Lord
+ in his 
+Vampire Form
+.
+
+The Nurse
+ has the lowest default 
+Movement speed
+ of all Killers to balance her ability to teleport through obstacles, walls, and even floors.
+
+However, this also makes her entirely dependent on using her Power for any sort of viable mobility in chases.
+
+Before the standardisation of the 
+Lunge Attack
+, 
+The Nurse
+ had the shortest one amongst all Killers, due to its reach being tied to her base 
+Movement speed
+.
+
+The Nurse
+ was one of two Killers directly affected by the 
+Lightburn
+ mechanic before its deprecation due to her power's interaction with the 
+Spirit World
+, alongside The 
+Wraith
+.
+
+Artwork from the 
+Tragic Love Opera Collection
+ heavily implies a romantic relationship between her and The 
+Wraith
+.
+
+The description for The 
+Wraith
+'s 
+The Angel of Music
+ outfit supports this, stating that he is "compelling the grieving 
+Nurse
+ to find her voice again".
+
+Teleportation
+
+The Nurse
+ was the first Killer able to teleport.
+
+She is the only Killer with an unconditional activation teleport.
+
+She screams in pain and sighs with relief every time she uses her power, as the teleportation process itself is physically agonizing for her.
+
+She leaves a trail of glowing dots and black smoke after teleporting.
+
+Her power references several other games that feature teleportation abilities also named 
+"Blinking"
+.
+
+Design
+
+The Nurse
+ was hinted at by the Developers to have been inspired by the nurses featured in the 
+Silent Hill
+ franchise.
+
+The Nurse
+ was the first Killer introduced who was notably shorter in comparison to the original Killer trio (The 
+Trapper
+, The 
+Wraith
+, and The 
+Hillbilly
+).
+
+The Nurse
+ does not produce audible footsteps, though her dress creates a faint rustling noise when she moves.
+
+In the game's earlier days, 
+The Nurse
+ was one of the very few Killers whose breathing was not distorted in some way.
+
+She makes a rather human-like wheeze, which sounds stressed, as if her throat is closed up.
+
+This is possibly due to her suffering from 
+Stridor
+, an affliction that causes a high-pitched wheezing sound resulting from disrupted airflow, likely due to her burns.
+
+This medical condition is also the namesake of her Perk 
+Stridor
+.
+
+The Nurse
+ was "bat-shit crazy" when she strangled one of her patients at Crotus Prenn Asylum, which made her more susceptible to The 
+Entity
+'s corruption, according to the Developers during one of their Weekly Dev Streams.
+
+Gallery
+
+For more go to the 
+Nurse's Gallery
+
+In-game Assets
+
+The Nurse
+
+The Nurse (Portrait render)
+
+The Nurse (Background image)
+
+Official Art
+
+Introducing The Nurse to 
+Dead by Daylight
+
+The Nurse
+
+The Nurse
+
+Outfits
+
+Flashforward Outfit
+
+Old Assets
+
+The Nurse's previous portrait
+
+Concept Art
+
+Bloodstained Sack Concept Art
+
+'Miss Smithson' Concept Art
+
+'Kampo Trainee' Concept Art
+
+'Vengeful Enchantress' Concept Art
+
+'Flashforward' Concept Art
+
+Screenshots
+
+References
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

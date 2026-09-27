@@ -1,0 +1,2494 @@
+# Freddy Krueger
+Source: https://deadbydaylight.wiki.gg/wiki/Freddy_Krueger (page complète via API, consultée le 27/09/2026)
+
+"This place plays tricks on your mind…constantly I question whether I dream or if I am awake. This most recent horrid ghoul seems to bridge that gap – between the states of being awake or asleep. I saw him hunting another poor soul, someone who was not as lucky as me. A man with a hat and a claw clad hand, a scarred man of sorts. He spotted me and what actually happened next is still a mystery to me. Dreams took over, and I was sure to die. But I woke up. Not like in the manner where I awake at the campfire, but instead I just woke up…inside this wretched forest, with memories of nightmares within. I am now afraid to sleep, but also to stay awake."
+
+~ 
+Unknown (Potentially 
+Benedict Baker
+)
+
+The Nightmare
+
+Name
+
+Freddy Krueger
+
+Game Alias(es)
+
+"The Sandman"
+
+Gender
+
+Man
+
+Origin
+
+American
+
+Realm
+
+Springwood
+
+Power
+
+Dream Demon
+
+Power 
+Attack
+ Type
+
+Special Attack
+
+(Dream Pallet Explosion)
+
+Weapon
+
+Clawed Glove
+
+Movement Speed
+
+115 % 
+|
+ 4.6 m/s
+
+Alternate Movement speed
+
+100 % 
+|
+ 4 m/s
+( placing 
+Dream Snares
+)
+
+Terror Radius
+
+32 metres
+
+Lullaby
+ Radius
+
+32 metres (
+Dream World
+)
+
+Height 
+
+Average
+
+DLC
+
+A Nightmare on Elm Street™
+
+Voice Actor
+
+Filip Ivanovic (BHVR)
+
+Cost
+
+500 
+Auric Cells
+
+Breathing
+
+Lullaby
+
+Metadata
+
+CharID
+
+K10
+
+Freddy Krueger
+ or 
+"The Nightmare"
+ is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+He was introduced as the Killer of 
+A Nightmare on Elm Street™
+, a Chapter DLC released on 26 October 2017.
+
+He originates from the Supernatural Slasher film franchise, 
+A Nightmare on Elm Street
+, specifically from its 2010 remake of the same name.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: Clawed Glove
+
+3.3
+ 
+Power: Dream Demon
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for Dream Demon
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Base Cosmetics
+
+5.1.1
+ 
+Default
+
+5.1.2
+ 
+Prestige
+
+5.1.2.1
+ 
+Perk Charms
+
+5.1.2.2
+ 
+Prestige Badges
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+General
+
+8.2
+ 
+Cosmetics
+
+8.3
+ 
+Memento Mori
+
+8.4
+ 
+Voice Actor
+
+9
+ 
+Gallery
+
+9.1
+ 
+In-game Assets
+
+9.2
+ 
+Old Assets
+
+9.3
+ 
+Official Art
+
+9.4
+ 
+Models
+
+9.5
+ 
+Screenshots
+
+9.6
+ 
+Others
+
+Overview
+
+Over time, The Nightmare forces Survivors into the Dream World. Once inside, Survivors will quickly realize the absence of a Terror Radius. With the ability to slow Survivors with Dream Snares, deceive with fake Dream Pallets, and pressure the map by teleporting directly to generators, The Nightmare lives up to his name.
+
+The Nightmare
+ is a nightmare Killer, passively pulling Survivors into his 
+Dream World
+ where Survivors are vulnerable to his 
+Dream Abilities
+. His 
+Dream Projection
+ ability allows him to quickly appear across the map and put pressure onto Survivors.
+
+His personal Perks, 
+Fire Up
+, 
+Remember Me
+, and 
+Blood Warden
+, improve his abilities over time and make him stronger as the trial reaches its climax.
+
+His Perks revolve around stopping Survivors from fleeing. They will make surviving a real pain for all, and managing to escape the Hunting Ground won't be easy.
+
+Difficulty Rating: 
+Moderate
+(
+These Killers require the Player to be comfortable with the basics of the role, though they share common mechanics with easier ones
+)
+
+Lore
+
+Even while he lived, Freddy Krueger was a creature of nightmares for those who truly knew him. Hiding behind a mask of warmth and friendliness, Freddy's actual temperament was known only to his victims. When those victims were finally heard, the parents of 
+Springwood
+ tracked Freddy down and took the law into their own hands. They thought that fire had rid them of a monster that night, that their children were finally safe, but evil as strong as his has a way of surviving.
+
+Years passed, the horror was buried, the victims mercifully forgot. Then, somehow, Freddy returned, and dreams became nightmares once again.
+
+Freddy focused his anger on those he felt had wronged him, building up to his one true obsession, 
+Nancy Holbrook
+. But he underestimated her strength and resourcefulness. Together with her friend 
+Quentin Smith
+, she managed to weaken Freddy, mutilating him and leaving him for dead once more.
+
+Death didn't want Freddy the first time he encountered it, why did they think it would take him now? He emerged once more, consumed with vengeance. Then he turned his sights on the boy who had blocked his path to Nancy, his number one.
+
+Freddy invaded Quentin's dreams, terrorising him night after night, until his strength and defences would be at their lowest. When the time was right, he forced the boy to return to the dark reflection of Badham Preschool. Here he would have his final revenge.
+
+Freddy stalked the boy through the school's halls. He took his time, savouring every moment of the hunt. This was what he enjoyed the most, the smell of their sweat in the air, the ragged gasps of their terrified breath. They were his to toy with.
+
+There was the boy, at the end of a long corridor. Too tired and scared to run anymore? Resigned to his fate? Freddy closed in, arms wide, claws raking the wall. Their tips traced along a pipe, the metallic shrieking only adding to the boy’s apprehension.
+
+A shower of sparks rained on the ground, and into the liquid that covered the tiled floor. A blue flame blossomed and quickly engulfed the room.
+
+The boy took flight as Freddy burst from the flames in a fury. Rooms and walls raced past in a blur until they were in Freddy's basement. There would be no escape from here.
+
+Slowly Freddy closed in on the boy. His fear was so strong now that Freddy could almost taste it, but his eyes burned with a defiant hatred that was almost admirable.
+
+Freddy drew back his claws.
+
+Then Freddy felt another presence with him; something old, powerful and dark. A miasma enveloped him and the only sensation was a sound like wooden beams flexing and creaking in the distance. The echoing groan of metal crushed against metal. Something arcane and unknowable, half-way between language and pure terror.
+
+A moment of falling and spinning and then Freddy was back in the school. But not his school. It looked the same, but it felt different. His powers were tempered in some ways and focused in others. The boy had gone for now, but another prey walked the hallways. Some would be inconsequential; others would become his new favourites. All would fall before his claws.
+
+Load-out
+
+Unique Perks
+
+The Nightmare
+ comes with 
+3
+ 
+Perks
+ that are unique to him:
+
+ 
+
+Blood Warden
+
+As soon as at least one 
+Exit Gate
+ is opened, 
+Blood Warden
+ activates:
+
+The 
+Auras
+ of 
+Survivors
+ are revealed to you, whenever they are inside the 
+Exit Gate
+.
+
+Once per Trial, hooking a Survivor while 
+Blood Warden
+ is active calls upon The 
+Entity
+ to trigger the following effect:
+
+Blocks
+ all opened 
+Exit Gates
+ for 
+40
+/
+50
+/
+60
+ 
+seconds
+, preventing any remaining Survivor from leaving the Trial through them.
+
+"This is my world. And you can't ever leave." — Freddy Krueger
+
+ 
+
+Fire Up
+
+This description is based on the changes announced for or featured in the upcoming Patch 10.2.0
+The increased pressure of losing your preys fills you with anger and gives you unsuspected motivation.
+
+For each completed 
+Generator
+, 
+Fire Up
+ gains 
++1 Token
+, up to a maximum of 
+5 Tokens
+:
+
+Increases
+ the Action speeds for the following interactions by a stack-able 
+6
+/
+7
+/
+8
+ 
+%
+ per Token, up to a maximum of 
+30
+/
+35
+/
+40
+ 
+%
+:
+
+Picking up and dropping Survivors.
+
+Breaking 
+Breakable Walls
+ and dropped 
+Pallets
+.
+
+Damaging 
+Generators
+.
+
+Vaulting 
+Windows
+.
+
+"Now why don't you just fucking die?" — Freddy Krueger
+
+ 
+
+Remember Me
+
+Whenever the 
+Obsession
+ loses a 
+Health State
+ by any means, 
+Remember Me
+ gains 
++1 Token
+, up to a maximum of 
+3
+/
+4
+/
+5
+ 
+Tokens
+:
+
+Increases
+ the Opening time of both 
+Exit Gates
+ by a stack-able 
+6 seconds
+ per Token, up to a maximum additional Opening time of 
+18
+/
+24
+/
+30
+ 
+seconds
+.
+
+This results in a maximum possible Opening time of 
+38
+/
+44
+/
+50
+ 
+seconds
+ for both 
+Exit Gates
+.
+
+Remember Me
+ does not apply its penalty to the 
+Obsession
+, allowing them to open both 
+Exit Gates
+ in the default time of 
+20 seconds
+.
+
+You can only be 
+obsessed
+ with one Survivor at a time.
+
+"You don't remember? You must. You're my number one, and you'll never wake up again." — Freddy Krueger
+
+Prestige
+
+Prestiging 
+The Nightmare
+ will automatically add 
+Tier I
+ of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Nightmare
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: Clawed Glove
+
+The 
+Clawed Glove
+ is the Primary Weapon of 
+The Nightmare
+.
+A homemade device, crafted to torture and kill.
+
+Power: Dream Demon
+
+"Death won't accept him and thus he remains, a calamity, indisputable master of his victims' nightmares."
+SPECIAL ABILITY: DREAM DEMON
+The Nightmare
+ is cloaked from awake Survivors.
+While they can hear his 
+Terror Radius
+, he is not always visible to them:
+
+The Nightmare
+ is invisible to Survivors farther than 
+32 metres
+ away.
+
+The Nightmare
+ is intermittently visible to Survivors from 
+16 to 32 metres
+ away.
+
+The Nightmare
+ is fully visible to Survivors closer than 
+16 metres
+.
+
+SPECIAL STATE: MICROSLEEP
+The mere presence of 
+The Nightmare
+ induces 
+Microsleep
+ in awake Survivors, causing them to passively fall asleep over 
+60 seconds
+.
+Survivors who woke up with an 
+Alarm Clock
+ are protected from 
+Microsleep
+ for 
+30 seconds
+.
+SPECIAL STATE: ASLEEP
+Survivors who fall asleep automatically enter the 
+Dream World
+ and suffer from the following effects while inside it:
+
+Changes the penalty of interacting with 
+Dream Traps
+.
+
+Triggers 
+Killer Instinct
+ while performing a Healing action or while an 
+Awake Survivor
+ is performing one on them.
+
+Causes them to suffer from the 
+Oblivious
+ 
+Status Effect
+.
+
+Causes them to hear a non-directional 
+Lullaby
+ instead.
+
+Hitting Survivors with a 
+Basic Attack
+ immediately pulls them into the 
+Dream World
+, unless they are protected by the temporary 
+Sleep Immunity
+ granted by an 
+Alarm Clock
+.
+SPECIAL INTERACTION: WAKING UP
+Survivors have several ways to wake up and leave the 
+Dream World
+:
+
+Failing a 
+Skill Check
+.
+
+Having an 
+Awake Survivor
+ perform the 
+Wake Up
+ interaction on them for 
+5 seconds
+.
+
+Interacting with an 
+Alarm Clock
+ for 
+2 seconds
+.
+
+Entering the 
+Dying State
+ by any means.
+
+SPECIAL ABILITIES: DREAM TRAPS
+The Nightmare
+ has access to 
+2
+ types of 
+Dream Traps
+:
+Dream Snares and Dream Pallets
+.
+Press the 
+Secondary Power button
+ to switch between the two.
+SPECIAL TRAP: DREAM SNARES
+Press and hold the 
+Power button
+ to charge a 
+Dream Snare
+ over 
+0.35 seconds
+.
+While charged, press the 
+Attack button
+ to launch the 
+Dream Snare
+ forwards:
+
+Reduces
+ his Movement speed to 
+4.0 m/s
+.
+
+Moves at a speed of 
+12 m/s
+.
+
+Has a maximum range of 
+18 metres
+.
+
+Can go through walls and follow slopes, but does not go off ledges.
+
+When a 
+Dream Snare
+ collides with a Survivor, it inflicts either of the following effects, depending on their state:
+
+Awake
+: 
+Advances
+ their 
+Microsleep
+ timer by 
++30 seconds
+.
+
+Asleep
+: Causes them to suffer from a 
+-12 %
+Hindered
+ 
+Status Effect
+ for 
+4.5 seconds
+ and while hindered, 
+suppress
+ the ability to perform 
+Fast Vaults
+.
+
+Dream Snares
+ have a cool-down of 
+7 seconds
+.
+SPECIAL TRAP: DREAM PALLETS
+The Nightmare
+ can create up to 
+8
+ 
+Dream Pallets
+  at a time.
+
+Press the 
+Power button
+ to enter 
+Pallet Focus Mode
+.
+While in this mode, press the 
+Attack button
+ to spawn a 
+Dream Pallet
+ at any valid location within 
+24 metres
+Press the 
+Attack button
+ while targetting any 
+Dream Pallet
+ within that same range to 
+Rupture
+ it:
+
+Has a delay of 
+1.5 seconds
+.
+
+Has an 
+Area of Effect
+ of 
+3.5 metres
+.
+
+When a 
+Dream Pallet
+ ruptures while a Survivor is inside its 
+Area of Effect
+, it inflicts either of the following effects, depending on their state:
+
+Awake
+: 
+Advances
+ their 
+Microsleep
+ timer by 
++60 seconds
+.
+
+Asleep
+: Inflicts damage.
+
+Dream Pallets
+ have a cool-down of 
+1.5 seconds
+.
+
+Survivors can drop a 
+Dream Pallet
+ and attempt to stun 
+The Nightmare
+, if it is not in the process of rupturing.
+Dropping a 
+Dream Pallet
+ instantly destroys it, causing it to explode in blood.
+SPECIAL LOCOMOTION: DREAM PROJECTION
+The Nightmare
+ can teleport to any 
+Generator
+ in the environment at any time, regardless of its state, as well as to within 
+8 to 12 metres
+ of any 
+Asleep Survivors
+ involved in a Healing action.
+
+Once the Power Gauge is full, press and hold the 
+Secondary Power button
+ for at least 
+0.5 seconds
+ to perform a 
+Dream Projection
+.
+Release it prematurely to cancel the interaction, which incurs the full cool-down:
+
+Reveals the 
+Aura
+ of the 
+Husk
+ at the target location.
+
+Reduces
+ his Movement speed to 
+3.86 m/s
+.
+
+Takes 
+2.5 seconds
+ to complete.
+
+Upon completion, it inflicts either of the following effects on all Survivors within 
+8 metres
+:
+
+Awake
+: 
+Advances
+ their 
+Microsleep
+ timer by 
++15 seconds
+.
+
+Awake or Asleep
+: Triggers 
+Killer Instinct
+ for 
+3 seconds
+.
+
+Dream Projection
+ has a cool-down of 
+30 seconds
+, which is 
+reduced
+ by a stack-able 
+-15 %
+ for each 
+Asleep Survivor
+, up to a maximum of 
+-60 %
+.
+
+"You have nothing to worry about. This won't hurt one... little... bit." — Freddy Krueger
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Walking while charging 
+Dream Projection
+: 
+3.86 m/s
+
+Walking while placing 
+Dream Snares
+: 
+4.0 m/s
+
+Walking while placing 
+Dream Pallets
+: 
+4.6 m/s
+
+Dream Snares:
+
+Charge time: 
+0.35 seconds
+
+Ability cooldown: 
+7 seconds
+
+Travel speed: 
+12 m/s
+
+Range: 
+18 metres
+
+Penalties for 
+Asleep Survivors
+:
+
+Suffer from a 
+-12 %
+ 
+Hindered
+ Status Effect
+ for 
+4.5 seconds
+.
+
+Suppress
+ the ability to perform 
+Fast Vaults
+ for the duration of the hinder.
+
+Penalty for 
+Awake Survivors
+:
+
+Have their 
+Microsleep
+ timer advanced by 
++30 seconds
+.
+
+Dream Pallets:
+
+Token count: 
+8 Tokens
+
+Aura range: 
+24 metres
+
+Indicator and Placement range: 
+24 metres
+
+Placement angle: 
+40 °
+
+Rupture
+ Detonation delay: 
+1.5 seconds
+
+Rupture
+ Detonation radius: 
+3.5 metres
+
+Rupture
+ Detonation cooldown: 
+1.5 seconds
+
+Dream Pallet
+ Shimmer Maximum Distance: 
+6 metres
+
+This applies to 
+Survivors
+ only.
+
+The Shimmer effect will scale in intensity within this distance.
+
+Beyond this distance, they will appear as a normal 
+Pallet
+.
+
+Penalty for 
+Asleep Survivors
+:
+
+Are damaged for 
+1
+ Health State.
+
+Penalty for 
+Awake Survivors
+:
+
+Have their 
+Microsleep
+ timer advanced by 
++60 seconds
+.
+
+Dream Projection:
+
+Charge threshold: 
+0.5 seconds
+
+This acts as a buffer to avoid inadvertently putting the Ability on cooldown when pressing the button accidentally.
+
+Charge time: 
+2.5 seconds
+
+Ability cooldown: 
+30 seconds
+
+Ability Cooldown reduction: 
+-15 %
+ per 
+Asleep Survivor
+
+This only applies to using the ability on 
+Generators
+.
+
+Penalty radius: 
+8 metres
+
+Penalties inflicted on Survivors within the Penalty radius:
+
+Killer Instinct
+ for 
+3 seconds
+
+Have their 
+Microsleep
+ timer advanced by 
++15 seconds
+.
+
+Spawn Distance to healing Survivor: 
+8 to 12 metres
+
+Alarm Clocks
+:
+
+Interaction duration: 
+2 seconds
+
+Cooldown duration: 
+45 seconds
+
+Sleep Immunity
+ duration: 
+30 seconds
+
+Reveal duration after using : 
+disabled feature
+
+Microsleep:
+
+Timer duration: 
+60 seconds
+
+Wake Up:
+
+Interaction time: 
+5 seconds
+
+Glimpses:
+
+Awake Survivors
+ only see glimpses of 
+The Nightmare
+ within a certain range:
+
+Glimpse duration: 
+2 seconds
+
+Glimpse cool-down: 
+2 seconds
+
+Glimpse Minimum distance: 
+16 metres
+
+Glimpse Maximum distance: 
+32 metres
+
+Add-ons for Dream Demon
+
+Icon
+
+Name
+
+Description
+
+Garden Rake
+
+A small claw rake, a must have tool for any accomplished gardener.
+
+Increases
+ the size of the 
+Dream Snare
+ by 
++10 %
+.
+
+Kid's Drawing
+
+An unattributed drawing clearly crafted by a young child.
+
+Increases
+ the amount of 
+Microsleep
+ gained from the 
+Dream Abilities
+ by 
++10 %
+.
+
+Sheep Block
+
+A white and blue wooden block depicting two woolly Lambs grazing and the letter "S".
+
+Increases
+ the Cool-down time of 
+Alarm Clocks
+ by 
++10 %
+.
+
+Wool Shirt
+
+A small boy's orange and yellow striped shirt. Identified with a sewn name tag to "Jesse".
+
+Reduces
+ the Detonation delay of rupturing 
+Dream Pallets
+ by 
+-10 %
+.
+
+Cat Block
+
+A white and purple wooden block depicting a sleeping Cat and the letter "C".
+
+Reduces
+ the Cool-down duration of the 
+Dream Projection
+ ability by 
+-10 %
+.
+
+Green Dress
+
+A little girl's green dress with a silky white ribbon.
+
+Increases
+ the time required to perform the 
+Wake Up
+ action by 
++2 seconds
+.
+
+Nancy's Sketch
+
+A crude and bold sketch made with Fusain, signed by Nancy H.
+
+Reduces
+ the duration of 
+Sleep Immunity
+ by 
+-20 %
+.
+
+Outdoor Rope
+
+Sturdy outdoor rope, handy to tie up anything.
+
+Increases
+ the Travel speed of 
+Dream Snares
+ while placing them by 
++15 %
+.
+
+Prototype Claws
+
+A home-made tool to facilitate bush trimming.
+
+Reduces
+ the Charge time of 
+Dream Snares
+ by 
+-10 %
+.
+
+Blue Dress
+
+A little girl's pale blue dress with white lace which's front is ruined by large cuts.
+
+Reduces
+ the number of placeable 
+Dream Snares
+ to 
+1
+.
+
+Causes the 
+Dream Snare
+ to be stationary while placing.
+
+Causes the 
+Dream Snare
+ to automatically disappear after 
+8 seconds
+.
+
+Jump Rope
+
+A long Double-Dutch jump rope, stained with many years of use.
+
+Increases
+ the duration of the 
+-12 %
+ 
+Hindered
+ 
+Status Effect
+ caused by 
+Dream Snares
+ by 
++0.5 seconds
+ to 
+5 seconds
+.
+
+Nancy's Masterpiece
+
+A painting of a character, made by Nancy Holbrook at Badham and kept as a treasured memory.
+
+Reduces
+ the Cool-down duration of 
+Dream Projection
+ by 
+-10 %
+ whenever a Survivor is struck by a 
+Dream Ability
+.
+
+Paint Thinner
+
+A tin of a highly volatile and inflammable material.
+
+Causes Survivors dropping a 
+Dream Pallet
+ to trigger 
+Killer Instinct
+ for 
+6 seconds
+.
+
+Grants the ability to target these Survivors with the 
+Dream Projection
+ ability:
+
+Increases
+ the Charge speed of this 
+Dream Projection
+ by 
++100 %
+.
+
+Unicorn Block
+
+A white and red wooden block depicting a prancing Unicorn and the letter "U".
+
+Increases
+ the Detonation radius of rupturing 
+Dream Pallets
+ by 
++0.5 metres
+.
+
+"Z" Block
+
+A deeply scratched and burnt wooden block which's only recognisable feature is the letter "Z".
+
+The 
+Auras
+ of Survivors affected by a 
+Dream Snare
+ or a 
+Dream Pallet
+ are revealed for 
+3 seconds
+.
+
+Class Photo
+
+A large photograph taken at Badham Preschool showing the cheerful class of '94-95.
+
+Grants the ability target the 
+Exit Gate Switches
+ with the 
+Dream Projection
+ ability.
+
+Causes Survivors opening an 
+Exit Gate
+ to trigger 
+Killer Instinct
+.
+
+Pill Bottle
+
+An empty pill bottle which once contained a medicine called 
+Zoneral
+.
+
+Reduces
+ the duration of the next instance of 
+Microsleep
+ for Survivors having entered the 
+Dream World
+ by falling asleep by a stack-able 
+-10 %
+, up to a maximum of 
+-50 %
+.
+
+Swing Chains
+
+Rusty, but sturdy chains used to securely attach a swing seat.
+
+Blocks
+ all 
+Windows
+ within 
+16 metres
+ of your location for 
+6 seconds
+ after using the 
+Dream Projection
+ ability.
+
+Black Box
+
+A black cardboard box filled with photographs.
+
+Causes the 
+Exit Gates
+ to be blocked for 
+Asleep Survivors
+ for 
+15 seconds
+ after they are opened.
+
+This effect lingers for 
+3 seconds
+ after those Survivors wake up.
+
+Red Paint Brush
+
+A large paint brush, wet with crimson paint.
+
+The 
+Auras
+ of Survivors trapped in the 
+Dream World
+ are revealed to you, whenever they are farther than 
+32 metres
+ from your location.
+
+Increases
+ the default duration of 
+Microsleep
+ by 
++50 %
+.
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There are 
+2
+ Achievements related to 
+The Nightmare
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Nightmare
+
+Playing as The 
+Nightmare
+, achieve a 
+Merciless Victory
+ using only his 
+3
+ Unique Perks: 
+Fire Up
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+This description is based on the changes announced for or featured in the upcoming Patch 10.2.0
+The increased pressure of losing your preys fills you with anger and gives you unsuspected motivation.
+
+For each completed 
+Generator
+, 
+Fire Up
+ gains 
++1 Token
+, up to a maximum of 
+5 Tokens
+:
+
+Increases
+ the Action speeds for the following interactions by a stack-able 
+6
+/
+7
+/
+8
+ 
+%
+ per Token, up to a maximum of 
+30
+/
+35
+/
+40
+ 
+%
+:
+
+Picking up and dropping Survivors.
+
+Breaking 
+Breakable Walls
+ and dropped 
+Pallets
+.
+
+Damaging 
+Generators
+.
+
+Vaulting 
+Windows
+.
+
+"Now why don't you just fucking die?" — Freddy Krueger
+
+, 
+Remember Me
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+Whenever the 
+Obsession
+ loses a 
+Health State
+ by any means, 
+Remember Me
+ gains 
++1 Token
+, up to a maximum of 
+3
+/
+4
+/
+5
+ 
+Tokens
+:
+
+Increases
+ the Opening time of both 
+Exit Gates
+ by a stack-able 
+6 seconds
+ per Token, up to a maximum additional Opening time of 
+18
+/
+24
+/
+30
+ 
+seconds
+.
+
+This results in a maximum possible Opening time of 
+38
+/
+44
+/
+50
+ 
+seconds
+ for both 
+Exit Gates
+.
+
+Remember Me
+ does not apply its penalty to the 
+Obsession
+, allowing them to open both 
+Exit Gates
+ in the default time of 
+20 seconds
+.
+
+You can only be 
+obsessed
+ with one Survivor at a time.
+
+"You don't remember? You must. You're my number one, and you'll never wake up again." — Freddy Krueger
+
+, and 
+Blood Warden
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+As soon as at least one 
+Exit Gate
+ is opened, 
+Blood Warden
+ activates:
+
+The 
+Auras
+ of 
+Survivors
+ are revealed to you, whenever they are inside the 
+Exit Gate
+.
+
+Once per Trial, hooking a Survivor while 
+Blood Warden
+ is active calls upon The 
+Entity
+ to trigger the following effect:
+
+Blocks
+ all opened 
+Exit Gates
+ for 
+40
+/
+50
+/
+60
+ 
+seconds
+, preventing any remaining Survivor from leaving the Trial through them.
+
+"This is my world. And you can't ever leave." — Freddy Krueger
+
+.
+
+Dream Demon
+
+Playing as The 
+Nightmare
+, pull Survivors into the 
+Dream World
+ a total of 
+200 times
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Nightmare
+:
+
+Base Cosmetics
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Freddy Krueger
+
+Common
+
+The mottled and charred face of an odious man, topped with a fedora.
+
+Preschool Gardener
+
+Common
+
+A striped woolen shirt and sturdy gardener trousers, punctured with burn holes.
+
+Clawed Glove
+
+Common
+
+A homemade device, crafted to torture and kill.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Bloody Freddy
+
+Rare
+
+The burnt and blood splattered face of an odious man, topped with a fedora.
+
+Prestige Level 6 Reward
+
+Bloody Gardener
+
+Rare
+
+A striped woollen shirt and sturdy gardner trousers, dripping with his prey's blood.
+
+Prestige Level 5 Reward
+
+Bloody Clawed Glove
+
+Rare
+
+A bloody device of nightmares, crafted to torture and kill.
+
+Prestige Level 4 Reward
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+Even while he lived, Freddy Krueger was a creature of nightmares for those who truly knew him.
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Nightmare
+ is part of 
+1
+ DLC:
+
+A Nightmare on Elm Street™
+
+Change Log
+
+Patch 1.8.1
+Patch 1.8.2
+Patch 1.9.2
+Patch 2.0.0
+Patch 2.3.0
+Patch 3.1.0
+Patch 3.2.0
+Patch 4.7.0
+Unknown Patch
+Patch 8.5.0
+Patch 8.5.1
+Patch 1.8.1
+
+Nerf
+:
+ increased the time Survivors must have left the 
+Terror Radius
+ for to have their Auras revealed from 
+1 second
+ to 
+10 seconds
+.
+
+Nerf
+:
+ increased the 
+Terror Radius
+ from 
+16 metres
+ to 
+24 metres
+.
+
+This change was motivated by a desire to allow Survivors more room to manoeuvre around 
+The Nightmare
+ without having their Auras revealed for being outside his 
+Terror Radius
+.
+
+This change brought the 
+Terror Radius
+ to the same range as his 
+Lullaby
+.
+
+Nerf
+:
+ increased the duration of the Movement Speed penalty after tagging a Survivor with 
+Dream Demon
+ from 
+1 second
+ to 
+3 seconds
+.
+
+This change was motivated by a desire to allow Survivors to put more distance between themselves and 
+The Nightmare
+ before they fall asleep and become vulnerable to his attacks.
+
+Nerf
+:
+ dying Survivors who are healed to the Injured State are automatically woken up.
+Patch 1.8.2
+
+Quality of Life
+: increased the Movement Speed while casting 
+Dream Demon
+ from an unknown value to 
+95 %
+.
+
+This change was motivated by the Developers deeming the old penalty as too intense.
+
+Quality of Life
+: reduced the Interaction and Attack cool-down when successfully putting a Survivor into the 
+Dream Transition
+ from an unknown value to 
+0.5 seconds
+.
+Patch 1.9.2
+
+Change
+:
+ removed the unintentional ability to tag Survivors hiding inside 
+Lockers
+ with 
+Dream Demon
+.
+Patch 2.0.0
+
+Quality of Life
+: reduced the Vaulting time to match that of other Killers, as it was unintentionally higher.
+Patch 2.3.0
+
+Quality of Life
+: reduced the volume levels of his footsteps, making him stealthier.
+Patch 3.1.0
+
+Rework
+:
+
+Awake Survivors see 
+The Nightmare
+ always within 
+16 metres
+, intermittently within 
+32 metres
+, and not at all beyond that.
+
+Survivors experience 
+Micro-Sleep
+, passively falling asleep within 
+60 seconds
+.
+
+Asleep Survivors now have another way of waking up by interacting with the newly introduced 
+Alarm Clock
+.
+
+Switched when the 
+Terror Radius
+ or the 
+Lullaby
+ is heard.
+
+The 
+Wake Up
+ action now takes longer if it is performed more than once on the same Survivor.
+
+The Nightmare
+ now places 
+Dream Traps
+ as his main power.
+
+The Nightmare
+ can now teleport to unrepaired 
+Generators
+ using 
+Dream Projection
+.
+Patch 3.2.0
+
+Buff
+: Asleep Survivors now suffer from the 
+Oblivious
+ Status Effects
+.
+Patch 4.7.0
+
+Quality of Life
+: increased the brightness of the 
+Dream World
+ indicator on the HUD.
+
+Nerf
+:
+ added a Movement Speed penalty while placing 
+Dream Snares
+, reducing his Movement speed to 
+4.0 m/s
+.
+
+Nerf
+:
+ reduced the maximum number of 
+Dream Snares
+ from 
+8
+ to 
+5
+.
+
+Nerf
+:
+ reduced the maximum number of 
+Dream Pallets
+ from 
+10
+ to 
+7
+.
+
+Nerf
+:
+ Survivors using 
+Alarm Clocks
+ are granted full immunity from falling asleep for 
+30 seconds
+, including when 
+The Nightmare
+ attacks them.
+
+This is indicated on the HUD by a 
+yellow
+ Sleep timer ticking down.
+
+Change
+:
+ revisited some Add-ons.
+Unknown Patch
+
+Change
+:
+ reassessed the difficulty rating from 
+Hard
+ to 
+Moderate
+.
+Patch 8.5.0
+
+Rework
+: extensively reworked 
+The Nightmare's
+ Power.
+
+Buff
+: 
+The Nightmare
+ can now swap between 
+Dream Snares
+ and 
+Dream Pallets
+ by pressing the 
+Active Ability Button
+.
+
+Buff
+: 
+Dream Projection
+ can now be performed on completed or blocked Generators.
+
+Buff
+: 
+Asleep Survivors
+ involved in a Healing action are revealed to 
+The Nightmare
+ through 
+Killer Instinct
+, and can be teleported to using 
+Dream Projection
+.
+
+Buff
+: Survivors within 
+8 metres
+ of a completed 
+Dream Projection
+ are revealed through 
+Killer Instinct
+ for 
+3 seconds
+ and have their 
+Microsleep
+ timer advanced by 
+15 seconds
+.
+
+Buff
+: reduced the cool-down of 
+Dream Projection
+ from 
+45 seconds
+ to 
+30 seconds
+.
+
+Buff
+: halved the cool-down of a cancelled 
+Dream Projection
+ from 
+10 seconds
+ to 
+5 seconds
+.
+
+Buff
+: reduced the charge time of 
+Dream Projection
+ from 
+4 seconds
+ to 
+2.5 seconds
+.
+
+Buff
+: 
+Alarm Clocks
+ now have a global cool-down of 
+45 seconds
+ when used to 
+Wake Up
+.
+
+Buff
+: increased the duration of the 
+Wake Up
+ interaction from 
+3 seconds
+ to 
+5 seconds
+.
+
+Quality of Life
+: minor visual improvements to the 
+Dream World
+.
+
+One of these improvements is that the film grain effect that could be seen in the sky was removed, in response to the feedback that it was uncomfortable to look at.
+
+Nerf
+: cancelling 
+Dream Projection
+ will now incur a full Cool-down.
+
+Nerf
+: charging 
+Dream Projection
+ now reduces 
+The Nightmare's
+ Movement Speed to 
+3.86 m/s
+.
+
+Nerf
+: Survivors can 
+Wake Up
+ using any 
+Alarm Clock
+ within the Trial.
+
+Nerf
+ (undocumented): 
+The Nightmare
+ can no longer see the remaining 
+Sleep Immunity
+ duration on the 
+Status HUD
+ when survivors use an 
+Alarm Clock
+.
+
+Nerf
+: the 
+Wake Up
+ interaction no longer increases in duration the more it is performed.
+
+Nerf
+: Survivors now automatically 
+Wake Up
+ when entering the 
+Dying State
+.
+
+Change
+: injured Survivors can now be 
+Woken Up
+ without being healed first.
+
+Change
+: revisited all of 
+The Nightmare's
+ Add-ons.
+
+Change
+: 
+Dream Traps
+ can now be seen and interacted with by Awake Survivors.
+
+Change
+: significantly overhauled the behaviour of 
+Dream Snares
+.
+
+Dream Snares
+ now function as a ground projectile instead of a stationary trap.
+
+Holding the 
+Power Button
+ charges a 
+Dream Snare
+ over 
+0.35 seconds
+, which can then be launched with the 
+Attack Button
+.
+
+Dream Snares
+ travel at 
+12 m/s
+, with a maximum range of 
+18 metres
+.
+
+Dream Snares
+ can travel through walls and up slopes, but not off of ledges.
+
+When hit by a 
+Dream Snare
+, an Asleep Survivor will receive a 
+12 %
+ 
+Hindered
+ Status Effect
+ for 
+4.5 seconds
+.
+
+An Awake Survivor will instead have their 
+Microsleep
+ timer advanced by 
+30 seconds
+.
+
+Nerf
+: 
+Dream Snares
+ now have a cool-down of 
+7 seconds
+.
+
+Change
+: improved the abilities of 
+Dream Pallets
+.
+
+Buff
+: 
+Dream Pallets
+ now have a total of 
+8 Tokens
+.
+
+Buff
+: 
+Dream Pallets
+ can now activate the 
+Rupture
+ Ability:
+
+When activated, the 
+Dream Pallet
+ will explode in a shower of blood after a 
+1.5 second
+ delay.
+
+Asleep Survivors within 
+3.5 metres
+ of an exploding Pallet will be damaged for 1 
+Health State
+.
+
+Awake Survivors will instead have their 
+Microsleep
+ timer advanced by 
+60 seconds
+.
+
+Nerf
+: 
+The Nightmare
+ can now be stunned by his own 
+Dream Pallets
+.
+
+Nerf
+: 
+Dream Pallets
+ now have a visual effect revealing their illusory nature whenever a Survivor is near them.
+Patch 8.5.1
+
+Quality of Life
+: added new VFX when teleporting to a healing Survivor.
+
+Trivia
+
+General
+
+The Nightmare
+ is the third Killer with the ability to teleport.
+
+The Nightmare
+ is the second Killer to have a 
+Lullaby
+.
+
+The full name of 
+Freddy Krueger
+ is 
+"Frederick 'Freddy' Charles Krueger"
+.
+
+Though the character was popularised by 
+Robert Englund
+ in the original film series, his appearance is based on that of the 2010 film reboot, where he was portrayed by 
+Jackie Earle Haley
+.
+
+The Nightmare's
+ corresponding Survivor is 
+Quentin Smith
+, a Character who was created specifically for the 2010 film.
+
+The Nightmare
+ breathes the quietest out of all the Killers, with his breathing being similar in volume to that of Survivors.
+
+The Nightmare
+ is one of the two killers who makes a sound effect when selected from the lobby or the 
+Store
+, the other being The 
+Shape
+.
+
+In 
+The Nightmare's
+ case, he is heard laughing.
+
+Unlike other Killers, who simply step over 
+Windows
+ when vaulting, 
+The Nightmare
+ grabs the window ledge with both hands and lifts himself over, this is due to Freddy being much smaller in height than most other Killers.
+
+The 
+Pig
+ and The 
+Ghost Face
+ also have this same animation, for the same reason.
+
+The Nightmare
+ was the fifth licensed Character to be introduced to 
+Dead by Daylight
+.
+
+The Nightmare
+ was the first Killer to receive a major rework to his Power.
+
+At the time, 
+The Nightmare
+ was the only Killer who could change one of their abilities completely with the use of an Add-on.
+
+Both of these abilities were eventually added to his Power simultaneously with his second major rework.
+
+The original version of 
+Freddy Krueger
+ crossed paths with 
+Jason Voorhees
+ in 
+Freddy vs Jason
+.
+
+Cosmetics
+
+The Nightmare
+ is the Killer with the least amount of cosmetics, with only his three 
+Prestige
+ cosmetics.
+
+Memento Mori
+
+The Nightmare's
+ Memento Mori is a reference to the way he killed 
+Jesse Braun
+ in the film.
+
+The Nightmare's
+ Memento Mori used to feature a special effect from the Survivor POV, where the Survivor's POV briefly switched to as if they were awake, before suddenly switching back to the 
+Dream World
+ when 
+The Nightmare
+ thrusts his claw through the Survivor's chest.
+
+The Nightmare's
+ Memento Mori animation is the second one in which the Survivor attempts to get up on their own.
+
+Voice Actor
+
+The Nightmare
+ is voiced by Filip Ivanovic, who at that time worked as the Art Director on the Game.
+
+The Nightmare
+ shares his voice-actor with The 
+Trapper
+, The 
+Wraith
+, The 
+Hillbilly
+, The 
+Cannibal
+, The 
+Ghost Face
+, and 
+Jeff Johansen
+.
+
+Gallery
+
+For more go to the 
+Nightmare's Gallery
+
+In-game Assets
+
+The Nightmare
+
+The Nightmare (Portrait render)
+
+The Nightmare (Background image)
+
+Old Assets
+
+The Nightmare's previous portrait
+
+Added assets
+
+Official Art
+
+Sketches of The Nightmare and The 
+Cannibal
+
+Models
+
+Freddy's model
+
+Freddy's Prestige model
+
+Screenshots
+
+Others
+
+The Nightmare placing a Dream Snare
+
+Preview for the Add-ons
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

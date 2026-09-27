@@ -1,0 +1,5742 @@
+# Herman Carter
+Source: https://deadbydaylight.wiki.gg/wiki/Herman_Carter (page complète via API, consultée le 27/09/2026)
+
+I have difficulty keeping my sanity. Each day, this altering world provides me with new trials. A man wearing the robes of a doctor crossed my path. From afar, I witness him walking around, searching.. But he was not...normal. Eyes and mouth pried open, in a painful and disturbing way. Where do these fiends stem from? I do not trust him, he looks like he wants to bring pain, not healing? I will stay away, it is the wisest thing to do.
+
+~ 
+ Unknown (Potentially 
+Benedict Baker
+)
+
+The Doctor
+
+Name
+
+Herman Carter
+
+Game Alias(es)
+
+"Mu Yi"
+
+Gender
+
+Man
+
+Origin
+
+African American
+
+Realm
+
+Léry's Memorial Institute
+
+Power
+
+Carter's Spark
+
+Power 
+Attack
+ Type
+
+Basic Attack
+
+Weapon
+
+The Stick
+
+Movement Speed
+
+115 % 
+|
+ 4.6 m/s
+
+Alternate Movement speed
+
+77 % 
+|
+ 3.08 m/s
+(Shock Therapy)
+74.75 % 
+|
+ 2.99 m/s
+(Static Blast)
+
+Terror Radius
+
+32 metres
+
+Height 
+
+Tall
+
+DLC
+
+Spark of Madness
+
+Voice Actor
+
+Alex Lin (BHVR)
+
+Cost
+
+2,250 
+Iridescent Shards
+
+125 
+Auric Cells
+
+Breathing
+
+Menu Music
+
+Terror Radius Music
+
+Metadata
+
+CharID
+
+K07
+
+Herman Carter
+ or 
+"The Doctor"
+ is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+He was introduced as the Killer of 
+Spark of Madness
+, a Chapter DLC released on 11 May 2017 and retired on 8 January 2024.
+
+He is still available in the 
+In-Game Store
+ and as part of the 
+Maddening Darkness Pack
+ Chapter Pack DLC.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+2.1
+ 
+Original Lore
+
+2.2
+ 
+Revised Lore
+
+2.3
+ 
+The Archives
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: The Stick
+
+3.3
+ 
+Power: Carter's Spark
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for Carter's Spark
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Base Cosmetics
+
+5.1.1
+ 
+Default
+
+5.1.2
+ 
+Prestige
+
+5.1.2.1
+ 
+Perk Charms
+
+5.1.2.2
+ 
+Prestige Badges
+
+5.2
+ 
+Alternatives
+
+5.2.1
+ 
+DLC
+
+5.2.2
+ 
+Special
+
+5.2.3
+ 
+Event
+
+5.3
+ 
+Rift
+
+5.4
+ 
+In-Game Store
+
+5.5
+ 
+Alternate Character Models
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+General
+
+8.2
+ 
+Cosmetics
+
+8.3
+ 
+Development
+
+8.4
+ 
+Lore
+
+8.5
+ 
+Memento Mori
+
+8.6
+ 
+Voice Actor
+
+9
+ 
+Gallery
+
+9.1
+ 
+In-game Assets
+
+9.2
+ 
+Official Art
+
+9.3
+ 
+Old Assets
+
+9.4
+ 
+Concept Art
+
+9.5
+ 
+Screenshots
+
+Overview
+
+Even the simplest tasks become exceedingly difficult in the clutches of madness. The Doctor’s disturbing methods drive Survivors deep into insanity, filling the air with their deranged screams and revealing their locations. Nothing stops a window vault in its tracks like a healthy dose of Shock Therapy.
+
+The Doctor
+ is a madness-inducing Killer, able to use his Power - 
+Carter's Spark
+, incapacitating Survivors and causing them to hallucinate and scream in terror, revealing their position.
+
+His personal Perks, 
+Overwhelming Presence
+, 
+Monitor & Abuse
+, and 
+Overcharge
+, encourage chases, impact Survivors' ability to repair effectively and make him harder to detect when not in a Chase.
+
+His Perks are about hindering and creating problems for the Survivors. The sheer stature of The Doctor infuses fear and terror in those around him.
+
+Lore
+
+Original Lore
+
+This is the original Lore of 
+The Doctor
+ as it was presented in the official Game Manual on 
+Dead by Daylight's
+ original website (no longer accessible).
+
+From an early age, Herman Carter understood the human psyche. To analyse and de-construct something as powerful as the brain intrigued him. He was an apt pupil and gained the attention of his teachers. He excelled in high-school and was published in "Partisan" — a psychology gazette. Within a year, Carter was fast-tracked into Yale's advanced neuroscience programme, really a front for the CIA. Brainpower is a must if you're about to conquer the world and demolish foes across the pond. The CIA understood this, so interrogation and intelligence became their number one priority. All they needed were brilliant people — like Carter.
+
+Carter and other top-tier recruits were transferred off-campus and into a secret black site facility in Illinois known as 
+Léry's Memorial Institute
+. A protégé craves a mentor, and that's where Dr 
+Otto Stamper
+ stepped in, who taught Carter that information is everything and knowledge is power. He was given all instruments needed, a guiding hand, and more or less everything he asked for. He never realised that sunlight had started to become so scarce, that he too was kept in the dark. Because knowledge doesn't only give you power, it also transforms you into a threat.
+
+To extract information was his mission. Dr Stamper encouraged Carter to go further and not to consider this a normal medical facility — no eyes were watching them, there were no rules to abide. The agency just pointed Carter in the right direction, then he started to take a few steps back as he saw how Carter could walk on his own. Docile test subjects were exchanged for real, live spies. People that played a role in the troubles outside the facility. Carter shouldered this new role — Project Awakening took form, and on paper Carter described it as "experimental interrogation". It was approved and over a few months, nobody knocked on his door. Screams and moans filled the corridor outside his lab, but wars skew people and what they accept — as long as the enemy is kept at bay. The fluorescent lights flickered more and more often. Electro-convulsive Treatment became a standard dish on the menu. Prisoners held at the facility begged the guards to take them to any other lab but Carter's. Rumours were disregarded in the beginning.
+
+Over the years, Carter became known as The Doctor and no one ever questioned if he had even held a medical certificate or even what happened to the prisoners after they had given up their information. It was only after the Léry's Memorial Institute went silent for a week that they finally uncovered the true horror of what had happened there.
+
+Carter's experimental information extraction had turned to horrific and bizarre torture. Patients and prisoners were found dead or in vegetative states with all types of head trauma. In his office, they found the most terrible discovery of all. Dr Stamper himself, his head peeled open and an array of electrodes and sensors inserted into his still working, but annihilated brain. There was no sign of Herman "The Doctor" Carter, but his research papers suggested that he had been using the prisoners as part of awful ECT experiments as he searched for the panacea of mind control.
+
+The government didn't want to know. The black site was condemned and all knowledge of the Léry's Memorial Institute redacted forever.
+
+Revised Lore
+
+This is the revised Lore that is currently featured in the Game.
+
+Showing exceptional aptitude in psychology, Herman was handpicked for special training in an advanced neuroscience program located in a secret black site facility in Illinois known as Léry's Memorial Institute, really a front for the CIA.
+
+This is where Herman met Dr Otto Stamper, where, under his guidance, Herman began to use strange and ever increasingly vicious methods to extract information from prisoners sent to the institute, which was also a covert prison and re-education centre for whoever was the USA's current nemesis. His liberal use of violent electroshock therapy revealed dramatic results and several threats to national security were uncovered.
+
+Over the years, Herman became known as The Doctor and no one ever questioned if he had even held a medical certificate or even what happened to the prisoners after they had given up their information. It was only after Léry's Memorial Institute went silent for a week that the true horror was finally discovered. The personnel, patients, and prisoners were all found dead with all types of head trauma. All personnel and prisoners' bodies were accounted for, including Dr Stamper, but no sign of Herman “The Doctor” Carter.
+
+The Archives
+
+The table below lists additional Lore about 
+The Doctor
+ from 
+The Archives
+, either from 
+Tomes
+ that featured him or from individual Lore entries that mentioned him:
+
+Tome
+
+Entry
+
+Type
+
+Tome 2 - Reckoning
+
+Ascendance
+
+Featured Character
+
+Load-out
+
+Unique Perks
+
+The Doctor
+ comes with 
+3
+ 
+Perks
+ that are unique to him:
+
+ 
+
+Monitor & Abuse
+
+"Meticulous in your approach, terrifying in your application."
+
+While actively chasing a Survivor, 
+Monitor & Abuse
+ applies its primary effect:
+
+Increases
+ your 
+Terror Radius
+ by 
+5
+/
+10
+/
+15
+ 
+%
+.
+
+While 
+not
+ actively chasing a Survivor, 
+Monitor & Abuse
+ applies its secondary effect:
+
+Reduces
+ your 
+Terror Radius
+ by 
+15
+/
+20
+/
+25
+ 
+%
+.
+
+"It's time for your treatment!" — Herman Carter, The Doctor
+
+ 
+
+Overcharge
+
+"You are fuelled by your hate for progress."
+
+Performing the 
+Damage Generator
+ action on a 
+Generator
+ applies 
+Overcharge
+:
+
+The next Survivor interacting with that 
+Generator
+ is faced with a difficult 
+Skill Check
+.
+
+Instantly regresses that 
+Generator
+ by 
+2
+/
+3
+/
+4
+ 
+%
+ of its maximum possible Progression in addition to the default Progression penalty.
+
+After 
+Overcharge
+ is applied to a 
+Generator
+, the following effect also applies:
+
+Increases
+ the Regression speed from 
+85 %
+ to 
+130 %
+ of its default value over the next 
+30 seconds
+.
+
+"It is a trap, But a trap one must step in..." — Herman Carter
+
+ 
+
+Overwhelming Presence
+
+"Just knowing you are near is enough to disturb your victims."
+
+Whenever a Survivor starts using an 
+Item
+ within 
+32 metres
+ of your location, 
+Overwhelming Presence
+ triggers its primary effect:
+
+Inflicts the 
+Exhausted
+ 
+Status Effect
+ for 
+15 seconds
+.
+
+Whenever a Survivor within 
+32 metres
+ of your location becomes 
+Exhausted
+ by any means, 
+Overwhelming Presence
+ triggers its secondary effect:
+
+The 
+Aura
+ of whichever 
+Exhausted Survivor
+ is closest to your location is revealed to you for 
+2
+/
+3
+/
+4
+ 
+seconds
+.
+
+Overwhelming Presence
+ has a cool-down of 
+25 seconds
+.
+
+"Shit!! I dropped the gauze!"
+
+Prestige
+
+Prestiging 
+The Doctor
+ will automatically add 
+Tier I
+ of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Doctor
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: The Stick
+
+The Stick
+ is the Primary Weapon of 
+The Doctor
+.
+An instrument of punishment when all other treatments failed.
+
+Power: Carter's Spark
+
+"Is it a gift, or a curse?
+The Entity has ignited a corrupted and inexhaustible spark in The Doctor's heart which allows him to generate electroconvulsive power at will.
+His insidious treatment corrupts the minds of those it touches.
+Victims shocked by the corrupt spark begin to lose their grip on reality and, with repeated exposure, inevitably succumb to madness."
+SPECIAL ABILITY: CARTER'S SPARK
+Striking Survivors with his electro-convulsive abilities, 
+The Doctor
+ causes them to suffer from the tiered 
+Madness
+ 
+Status Effect
+.
+SPECIAL AFFLICTION: MADNESS
+Madness
+ causes increasingly potent afflictions in the affected Survivors, depending on its current tier.
+
+Once 
+Madness
+ is obtained, Survivors are unable to lose it and may only reset it to 
+Tier I
+ by performing the 
+Snap Out of It
+ interaction.
+Madness I
+ has the following permanent effects until a tier-up:
+
+Causes Survivors to scream and reveal their location during the tier-up.
+
+Skill Checks
+ have a chance of 
+33 %
+ to be 
+Madness Skill Checks
+.
+
+Madness II
+ has the following permanent effects until a tier-up:
+
+Causes Survivors to scream and reveal their location during the tier-up.
+
+Skill Checks
+ have a chance of 
+66 %
+ to be 
+Madness Skill Checks
+.
+
+Causes Survivors to experience occasional Hallucinations in the form of 
+Illusionary Doctors
+.
+
+Madness III
+ has the following permanent effects until Survivors 
+Snap Out of It
+:
+
+Causes Survivors to scream and reveal their location during the tier-up and continue doing so intermittently every few seconds.
+
+Skill Checks
+ are 
+100 %
+ 
+Madness Skill Checks
+.
+
+Causes Survivors to experience occasional Hallucinations in the form of 
+Illusionary Doctors
+.
+
+The 
+Auras
+ of 
+Illusionary Doctors
+ are revealed to 
+The Doctor
+.
+
+Suppresses
+ the ability to use any equipped 
+Item
+.
+
+Suppresses
+ the ability to perform, or have performed on themselves, any interaction with a Progress bar.
+
+Unhooking other Survivors is exempt from this restriction.
+
+SPECIAL INTERACTION: SNAP OUT OF IT
+Survivors having reached 
+Madness III
+ can perform the 
+Snap Out of It
+ interaction for 
+12 seconds
+:
+
+Triggers 
+Madness Skill Checks
+ at each quadrant of the Progress bar.
+
+Succeeding them continues the interaction.
+
+Failing them has the following repercussions:
+
+Interrupts the action and resets its Progress to the previous quadrant.
+
+Causes the Survivor to scream and reveal their location.
+
+Completing the interaction resets 
+Madness
+ to 
+Tier I
+.
+
+SPECIAL ABILITY: SHOCK THERAPY
+Press and hold the 
+Power button
+ to perform a 
+Shock Therapy Attack
+, unleashing a cone-shaped ranged shock attack on the ground in front of 
+The Doctor
+:
+
+Reduces
+ his Movement speed to 
+3.08 m/s
+ while charging.
+
+Shock Therapy
+ has a range of 
+12 metres
+ and detonates with a delay of 
+0.65 seconds
+.
+
+Survivors struck with a 
+Shock Therapy Attack
+ suffer from the following effects:
+
+Increases
+ their 
+Madness
+ by 
++0.5 Tiers
+.
+
+Causes them to scream, interrupting any on-going interactions at the moment of impact.
+
+Suppresses
+ their ability to perform any further interactions, including with 
+Pallets
+ and 
+Windows
+ for 
+2.5 seconds
+.
+
+Survivors suffering from the 
+Oblivious
+ 
+Status Effect
+ when struck by 
+Shock Therapy
+ have it removed immediately.
+SPECIAL ABILITY: STATIC BLAST
+Press and hold the 
+Secondary Power button
+, once the Power Gauge is full, to perform a 
+Static Blast Attack
+, unleashing a ranged shock attack that propagates outwards from 
+The Doctor
+:
+
+Reduces
+ his Movement speed to 
+2.99 m/s
+ while charging.
+
+Static Blast
+ passes through any obstacles and covers his entire 
+Terror Radius
+.
+
+Survivors struck with a 
+Static Blast Attack
+ suffer from the following effects:
+
+Increases
+ their 
+Madness
+ by 
++1 Tier
+.
+
+Causes them to scream, interrupting any on-going interactions at the moment of impact.
+
+Survivors can prevent being struck by 
+Static Blast
+ by hiding inside a 
+Locker
+.
+Survivors suffering from the 
+Oblivious
+ 
+Status Effect
+ when struck by 
+Static Blast
+ have it removed immediately.
+
+Static Blast
+ has a variable cool-down:
+
+30 seconds
+ while no Survivors are in its range.
+
+45 seconds
+ while at least one Survivor is in its range.
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Charging 
+Static Blast
+: 
+2.99 m/s
+
+Charging 
+Shock Therapy
+: 
+3.08 m/s
+
+Walking: 
+4.6 m/s
+
+Madness
+:
+
+Additional, detailed information can be found in the separate 
+Madness
+ Article.
+
+Madness
+ thresholds:
+
+Tier I: 
+1 Madness point
+
+Tier II: 
+2 Madness points
+
+Tier III: 
+3 Madness points
+
+Shock Therapy
+ Madness gain: 
++0.5 Madness points
+
+This is equal to half a Tier.
+
+Static Blast
+ Madness gain: 
++1 Madness point
+
+This is equal to a full Tier.
+
+Shock Therapy:
+
+Range: 
+12 metres
+
+This distance is calculated from the centre of 
+The Doctor's
+ hitbox capsule.
+
+Charge time: 
+1 second
+
+Detonation delay: 
+0.65 seconds
+
+This refers to how long it takes the attack to shock Survivors after releasing it.
+
+Cool-down duration: 
+1.5 seconds
+
+This refers to how long after the attack 
+The Doctor
+ is prohibited from initiating another attack or from interacting with Props.
+
+Survivor-Interactions Cool-down duration: 
+2.5 seconds
+
+This refers to how long after receiving a shock Survivors are prohibited from interacting with Props (indicated on the HUD).
+
+Static Blast:
+
+The 
+Static Blast
+ attack range is directly tied to 
+The Doctor's
+ 
+Terror Radius
+ and can be increased and decreased accordingly.
+It should be noted that Survivors suffering from 
+Oblivious
+ will still be affected by a 
+Static Blast
+, as the attack relies on the Terror Radius purely to determine its range, but does not require Survivors to be aware of it.
+
+Charge time: 
+2 seconds
+
+Power Recharge time: 
+30/45 seconds
+
+Add-ons for Carter's Spark
+
+Icon
+
+Name
+
+Description
+
+"Calm" - Class I
+
+An ECT procedure using a deep wavelength that soothes various mental illnesses.
+With 
+Carter's Spark
+ as its source, this procedure can cause mild anxiety in the patient.
+
+Increases
+ your 
+Terror Radius
+ by 
++4 metres
+ while 
+Static Blast
+ is ready to be used.
+
+Reduces
+ your Terror Radius by 
+-4 metres
+ while 
+Static Blast
+ is on cool-down.
+
+Survivors affected by 
+Madness
+ suffer from the 
+Affliction of Calm
+:
+
+Madness II
+: Survivors intermittently hear a distant 
+Illusionary Terror Radius
+.
+
+Madness III
+: Survivors constantly hear a distant 
+Illusionary Terror Radius
+.
+
+"Order" - Class I
+
+A conventional ECT procedure, part of a patient's daily routine at the Léry's Memorial Institute.
+Can cause a state of mild confusion in the patient.
+
+Reduces
+ the Cool-down duration of 
+Static Blast
+ by 
+-2 seconds
+.
+
+Survivors affected by 
+Madness
+ suffer from the 
+Affliction of Order
+:
+
+Broken Pallets
+ are randomly replaced by dropped or upright 
+Illusionary Pallets
+, which persist until approached by Survivors.
+
+New 
+Illusionary Pallets
+ are generated every 
+20 seconds
+.
+
+You share into your patients' 
+Madness
+ and can see the 
+Illusionary Pallets
+.
+
+Maple Knight
+
+A white knight chess piece made of maple.
+This gift from an old man brings back distant memories and imbues The Doctor with devastating focus.
+
+Grants the ability to see the 
+Area of Effect
+ of the 
+Shock Therapy Attack
+.
+
+Mouldy Electrode
+
+A mouldy electrode which can nevertheless conduct a weak electrical current.
+
+Extends
+ the 
+Area of Effect
+ of the 
+Shock Therapy Attack
+ by 
++2 metres
+.
+
+"Calm" - Class II
+
+A risky ECT procedure using a deep wavelength that soothes various mental illnesses.
+With 
+Carter's Spark
+ as its source, this procedure can cause moderate anxiety in the patient.
+
+Increases
+ your 
+Terror Radius
+ by 
++6 metres
+ while 
+Static Blast
+ is ready to be used.
+
+Reduces
+ your Terror Radius by 
+-6 metres
+ while 
+Static Blast
+ is on cool-down.
+
+Survivors affected by 
+Madness
+ suffer from the 
+Affliction of Calm
+:
+
+Madness II
+: Survivors intermittently hear a distant 
+Illusionary Terror Radius
+.
+
+Madness III
+: Survivors constantly hear a distant 
+Illusionary Terror Radius
+.
+
+"Discipline" - Class II
+
+Project Awakening
+ ECT procedure for disciplinary action which uses a fixed dose at high voltage.
+Can cause a state of moderate paranoia in the patient.
+
+Reduces
+ the Detonation delay of the 
+Shock Therapy Attack
+ by 
+-0.06 seconds
+.
+
+Survivors affected by 
+Madness
+ suffer from the 
+Affliction of Discipline
+:
+
+Madness II
+: During a Chase, Survivors perceive an 
+Illusionary Red Stain and Terror Radius
+, as if you were constantly right behind them.
+
+This effect lingers for 
+6 seconds
+ after the Chase ends.
+
+Madness III
+: In any situation, Survivors perceive an 
+Illusionary Red Stain and Terror Radius
+, as if you were constantly right behind them.
+
+You share into your patients' 
+Madness
+ and can see the 
+Illusionary Red Stain
+.
+
+"We re-educate our patients with the greatest care." — Léry's Memorial Institute
+
+"Order" - Class II
+
+A high stimulus ECT procedure, part of a patient's daily routine at the Léry's Memorial Institute.
+Can cause a state of moderate confusion in the patient.
+
+Reduces
+ the Cool-down duration of 
+Static Blast
+ by 
+-2.5 seconds
+.
+
+Survivors affected by 
+Madness
+ suffer from the 
+Affliction of Order
+:
+
+Broken Pallets
+ are randomly replaced by dropped or upright 
+Illusionary Pallets
+, which persist until approached by Survivors.
+
+New 
+Illusionary Pallets
+ are generated every 
+20 seconds
+.
+
+You share into your patients' 
+Madness
+ and can see the 
+Illusionary Pallets
+.
+
+"Side effects are very rare." — Léry's Memorial Institute
+
+"Restraint" - Class II
+
+An experimental ECT procedure developed within The Fog.
+Uses a wavelength that links the patient's and The Doctor's minds.
+This procedure is known to cause mild cases of hallucination in the patient.
+
+The 
+Auras
+ of Survivors who have their 
+Madness
+ increased by one Tier are revealed to you for 
+1 second
+.
+
+Survivors affected by 
+Madness
+ suffer from the 
+Affliction of Restraint
+:
+
+Increases
+ the duration of 
+Illusionary Doctors
+ by 
++6 seconds
+.
+
+You share into your patients' 
+Madness
+ and can see the 
+Illusionary Doctors
+.
+
+Polished Electrode
+
+A like-new standard electrode equipment to conduct electro-convulsive treatments.
+
+Extends
+ the 
+Area of Effect
+ of the 
+Shock Therapy Attack
+ by 
++3 metres
+.
+
+"Discipline" - Class III
+
+Project Awakening
+ ECT procedure for disciplinary action which uses a fixed dose at very high voltage.
+Can cause a state of serious paranoia in the patient.
+
+Reduces
+ the Detonation delay of the 
+Shock Therapy Attack
+ by 
+-0.08 seconds
+.
+
+Survivors affected by 
+Madness
+ suffer from the 
+Affliction of Discipline
+:
+
+Madness II
+: During a Chase, Survivors perceive an 
+Illusionary Red Stain and Terror Radius
+, as if you were constantly right behind them.
+
+This effect lingers for 
+6 seconds
+ after the Chase ends.
+
+Madness III
+: In any situation, Survivors perceive an 
+Illusionary Red Stain and Terror Radius
+, as if you were constantly right behind them.
+
+You share into your patients' 
+Madness
+ and can see the 
+Illusionary Red Stain
+.
+
+"Respect of our patients is at the core of our principles." — Léry's Memorial Institute
+
+"Restraint" - Class III
+
+An experimental ECT procedure developed within The Fog.
+Uses a high stimulus wavelength to link the patient's and The Doctor's minds.
+This procedure is known to cause serious cases of hallucinations in the patient.
+
+The 
+Auras
+ of Survivors who have their 
+Madness
+ increased by one Tier are revealed to you for 
+2 seconds
+.
+
+Survivors affected by 
+Madness
+ suffer from the 
+Affliction of Restraint
+:
+
+Increases
+ the duration of 
+Illusionary Doctors
+ by 
++6 seconds
+.
+
+You share into your patients' 
+Madness
+ and can see the 
+Illusionary Doctors
+.
+
+High Stimulus Electrode
+
+An experimental electrode that can withstand very high charges for a longer period of time.
+
+Extends
+ the 
+Area of Effect
+ of the 
+Shock Therapy Attack
+ by 
++4 metres
+.
+
+Interview Tape
+
+A compact cassette from 
+Project Awakening
+ containing an unedited interview of a victim.
+Opens The Doctor's mind to alternate treatment methods.
+
+Reshapes the 
+Area of Effect
+ of the 
+Shock Therapy Attack
+ from a cone into a narrow beam that is 
+2 metres
+ wide and 
+24 metres
+ long.
+
+Scrapped Tape
+
+A compact cassette from 
+Project Awakening
+ containing mostly white noise.
+Opens The Doctor's mind to alternate treatment methods.
+
+Reshapes the 
+Area of Effect
+ of the 
+Shock Therapy Attack
+ from a cone into a hollow ring which is placed 
+8 metres
+ in front of 
+The Doctor
+.
+
+The ring has a radius of 
+4 metres
+ a thickness of 
+1 metre
+.
+
+"Calm" - Carter's Notes
+
+An experimental version of the ECT procedure annotated by Doctor Herman Carter himself.
+Uses a deep wavelength that soothes various mental illnesses.
+With 
+Carter's Spark
+ as its source, this procedure causes uncontrollable fear and anxiety in the patient.
+
+Increases
+ your 
+Terror Radius
+ by 
++8 metres
+ while 
+Static Blast
+ is ready to be used.
+
+Reduces
+ your Terror Radius by 
+-8 metres
+ while 
+Static Blast
+ is on cool-down.
+
+Survivors affected by 
+Madness
+ suffer from the 
+Affliction of Calm
+:
+
+Madness II
+: Survivors intermittently hear a distant 
+Illusionary Terror Radius
+.
+
+Madness III
+: Survivors constantly hear a distant 
+Illusionary Terror Radius
+.
+
+"Higher quality seizures trigger catatonia. At least it gives me 
+peace
+ for the time it lasts." — Herman Carter
+
+"Discipline" - Carter's Notes
+
+Project Awakening
+ ECT procedure for disciplinary action, annotated by Doctor Herman Carter himself.
+The intolerably high voltage leaves the patient in a severe state of paranoia.
+
+Reduces
+ the Detonation delay of the 
+Shock Therapy Attack
+ by 
+-0.1 seconds
+.
+
+Survivors affected by 
+Madness
+ suffer from the 
+Affliction of Discipline
+:
+
+Madness II
+: During a Chase, Survivors perceive an 
+Illusionary Red Stain and Terror Radius
+, as if you were constantly right behind them.
+
+This effect lingers for 
+6 seconds
+ after the Chase ends.
+
+Madness III
+: In any situation, Survivors perceive an 
+Illusionary Red Stain and Terror Radius
+, as if you were constantly right behind them.
+
+You share into your patients' 
+Madness
+ and can see the 
+Illusionary Red Stain
+.
+
+"To avoid relapse from our most tenacious subjects, use 
+maximum
+ levels when proceeding with disciplinary actions." — Herman Carter
+
+"Order" - Carter's Notes
+
+An experimental version of the ECT procedure, annotated by Doctor Herman Carter himself.
+The long, constant stimulus leaves the patient in a state of severe confusion.
+
+Reduces
+ the Cool-down duration of 
+Static Blast
+ by 
+-3 seconds
+.
+
+Survivors affected by 
+Madness
+ suffer from the 
+Affliction of Order
+:
+
+Broken Pallets
+ are randomly replaced by dropped or upright 
+Illusionary Pallets
+, which persist until approached by Survivors.
+
+New 
+Illusionary Pallets
+ are generated every 
+20 seconds
+.
+
+You share into your patients' 
+Madness
+ and can see the 
+Illusionary Pallets
+.
+
+"The stimulus must be kept active at a 
+convulsive
+ level." — Herman Carter
+
+"Restraint" - Carter's Notes
+
+An experimental ECT procedure developed within The Fog, crudely annotated.
+Uses an unbearable stimulus wavelength to link the patient's and The Doctor's minds.
+This procedure is known to cause severe cases of hallucinations in the patient.
+
+The 
+Auras
+ of Survivors who have their 
+Madness
+ increased by one Tier are revealed to you for 
+3 seconds
+.
+
+Survivors affected by 
+Madness
+ suffer from the 
+Affliction of Restraint
+:
+
+Increases
+ the duration of 
+Illusionary Doctors
+ by 
++6 seconds
+.
+
+You share into your patients' 
+Madness
+ and can see the 
+Illusionary Doctors
+.
+
+"I CAN SEE THEIR DISGUSTING 
+ILLNESSES
+." — unsighned Notes, likely Herman Carter
+
+Iridescent King
+
+A glass-like king chess piece moulded from The Fog itself.
+The Entity's trace reverberating within can break the most powerful minds.
+
+Survivors affected by 
+Madness
+ suffer simultaneously from the 
+Afflictions of Calm, Discipline, Order, and Restraint
+:
+
+Survivors intermittently hear a distant 
+Illusionary Terror Radius
+.
+
+During a Chase, Survivors perceive an 
+Illusionary Red Stain and Terror Radius
+, as if you were constantly right behind them.
+
+Madness II
+: This effect lingers for 
+6 seconds
+ after the Chase ends.
+
+Madness III
+: This effect is constant, regardless of whether the Survivors are being chased or not.
+
+Broken Pallets
+ are randomly replaced by dropped or upright 
+Illusionary Pallets
+, which persist until approached by Survivors.
+
+New 
+Illusionary Pallets
+ are generated every 
+20 seconds
+.
+
+Increases
+ the duration of 
+Illusionary Doctors
+ by 
++6 seconds
+.
+
+You share into your patients' 
+Madness
+ and can see the 
+Illusionary Doctors, Red Stain, and Pallets
+.
+
+"Gazing into the iridescent glass is plunging one's self into madness." — Herman Carter
+
+Iridescent Queen
+
+A glass-like queen chess piece moulded from The Fog itself.
+It cannot be touched without receiving a considerable jolt of electricity.
+
+Survivors struck by either the 
+Shock Therapy Attack
+ or a 
+Static Blast
+ acquire a lingering 
+Static Charge
+, unless they are within 
+4 metres
+ of another Survivor:
+
+The 
+Static Charge
+ remains with the Survivor until it is discharged.
+
+Charged Survivors
+ who come within 
+4 metres
+ of another Survivor trigger an automatic 
+Shock Therapy Attack
+, shocking both Survivors and automatically discharging any remaining 
+Static Charges
+.
+
+"Once we have established an effective method of treatment, we can focus on its efficient means of delivery." — Herman Carter
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There are 
+3
+ Achievements related to 
+The Doctor
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Doctor
+
+Playing as The 
+Doctor
+, achieve a 
+Merciless Victory
+ using only his 
+3
+ Unique Perks: 
+Overwhelming Presence
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Just knowing you are near is enough to disturb your victims."
+
+Whenever a Survivor starts using an 
+Item
+ within 
+32 metres
+ of your location, 
+Overwhelming Presence
+ triggers its primary effect:
+
+Inflicts the 
+Exhausted
+ 
+Status Effect
+ for 
+15 seconds
+.
+
+Whenever a Survivor within 
+32 metres
+ of your location becomes 
+Exhausted
+ by any means, 
+Overwhelming Presence
+ triggers its secondary effect:
+
+The 
+Aura
+ of whichever 
+Exhausted Survivor
+ is closest to your location is revealed to you for 
+2
+/
+3
+/
+4
+ 
+seconds
+.
+
+Overwhelming Presence
+ has a cool-down of 
+25 seconds
+.
+
+"Shit!! I dropped the gauze!"
+
+, 
+Monitor & Abuse
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Meticulous in your approach, terrifying in your application."
+
+While actively chasing a Survivor, 
+Monitor & Abuse
+ applies its primary effect:
+
+Increases
+ your 
+Terror Radius
+ by 
+5
+/
+10
+/
+15
+ 
+%
+.
+
+While 
+not
+ actively chasing a Survivor, 
+Monitor & Abuse
+ applies its secondary effect:
+
+Reduces
+ your 
+Terror Radius
+ by 
+15
+/
+20
+/
+25
+ 
+%
+.
+
+"It's time for your treatment!" — Herman Carter, The Doctor
+
+, and 
+Overcharge
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"You are fuelled by your hate for progress."
+
+Performing the 
+Damage Generator
+ action on a 
+Generator
+ applies 
+Overcharge
+:
+
+The next Survivor interacting with that 
+Generator
+ is faced with a difficult 
+Skill Check
+.
+
+Instantly regresses that 
+Generator
+ by 
+2
+/
+3
+/
+4
+ 
+%
+ of its maximum possible Progression in addition to the default Progression penalty.
+
+After 
+Overcharge
+ is applied to a 
+Generator
+, the following effect also applies:
+
+Increases
+ the Regression speed from 
+85 
+ to 
+130 
+ of its default value over the next 
+30 seconds
+.
+
+"It is a trap, But a trap one must step in..." — Herman Carter
+
+.
+
+Shocking Treatment
+
+Playing as The 
+Doctor
+, hit Survivors with a 
+Shock Therapy Attack
+ a total of 
+500 times
+.
+
+Mad House
+
+Playing as The 
+Doctor
+, shock all four Survivors into 
+Madness
+ 
+Tier III
+ 
+1 time
+ in a single Trial.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Doctor
+:
+
+Base Cosmetics
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Herman Carter
+
+Common
+
+Strapped in his electroconvulsive gear, The Doctor is forever forced in a maniacal grin.
+
+Doctor's Coat
+
+Common
+
+A sleeveless doctor's coat that has seen better days. Herman always appreciated the dramatic look of a doctor's garment.
+
+The Stick
+
+Common
+
+An instrument of punishment when all other treatments failed.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Bloody Herman Carter
+
+Rare
+
+Strapped in his electroconvulsive gear, The Doctor has no choice but to get blood all over.... eyes and mouth included.
+
+Prestige Level 6 Reward
+
+Bloody Doctor's Coat
+
+Rare
+
+A sleeveless doctor's coat. The Doctor appreciates the dramatic look of blood on his coat.
+
+Prestige Level 5 Reward
+
+The Bloody Stick
+
+Rare
+
+An instrument of punishment when all other treatments failed. They often do.
+
+Prestige Level 4 Reward
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+Many patients were tortured and killed in his disturbing experiments.
+
+Alternatives
+
+DLC
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+DLC
+
+Overcharged Herman Carter
+
+Common
+
+A furious Doctor, overcharged with his maddening electroconvulsive power.
+
+CHAPTER 4: Spark of Madness
+
+Project Awakening Coat
+
+Common
+
+Official garments of the management staff at Léry's Memorial Institute
+
+CHAPTER 4: Spark of Madness
+
+Project Awakening Stick
+
+Common
+
+The Stick, crackling furiously with the power of Carter's Spark
+
+CHAPTER 4: Spark of Madness
+
+Special
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Event
+
+Frosty Eyes
+
+Uncommon
+
+Heart chilling eyes of the cold blooded.
+
+"Have a Wonderful Winter 2017-2018!" - The Dead by Daylight Team
+
+Winter Solstice 2017
+
+Event
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Event
+
+Exclusive to Event Participation
+
+Crown of the Entity
+
+Event
+
+A crown emanating a festive and ominous aura created by the Entity's biggest fan.
+
+Fourth Year Anniversary
+
+Yes
+
+5th Anniversary Crown
+
+Event
+
+A crown crafted for a very special anniversary.
+
+"Thank you for supporting & inspiring us along the years!" - The Dead by Daylight Team
+
+Fifth Year Anniversary
+
+Yes
+
+Hack Job
+
+Event
+
+What The Doctor lacked in looks, he more than made up for in intelligence.
+
+The Midnight Grove
+ 
+Tome: Level 2
+
+No
+
+Flesh Union
+
+Event
+
+The muscles and nerves of multiple corpses were forced together, creating a monstrosity that thrived on the pain of existence.
+
+The Midnight Grove
+ 
+Tome: Level 1
+
+No
+
+Shocking Touch
+
+Event
+
+A shock stick covered in flesh. Electric impulses course through the nerves.
+
+The Midnight Grove
+ 
+Tome: Level 2
+
+No
+
+Glucose Injection
+
+Event
+
+The fastest way to a sugar rush.
+
+Haunted by Daylight
+
+Yes
+
+Suit of Madness
+
+Event
+
+A flamboyant suit that tests everyone's sanity.
+
+Moonlight Burrow
+
+Yes
+
+Doctor's Mask
+
+Event
+
+A mask he found himself wearing at the masquerade ball.
+
+Twisted Masquerade 2024
+
+Yes
+
+ Rift
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Naval Warfare
+
+Treacherous Waters
+
+Tome 4 - Conviction
+
+12 June 2018 (Tuesday)
+
+Description
+
+The thought of having a hundred potential victims confined to a tin can in the ocean was only a dream. But The Entity has a way of providing...
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Deep Blue Death
+
+Treacherous Waters
+
+19
+
+There's nothing more invigorating than being jolted back to life after a spell in the deep abyss.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Captain of Waterboarding
+
+Treacherous Waters
+
+7
+
+The uniform makes it official. You have command over the lives of others, and the authority to destroy them.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Hydroshock
+
+Treacherous Waters
+
+39
+
+A prototype device specially made to electrocute captured enemy sailors. The navy forbid its production, though flattered The Doctor by calling it "cruel and grotesque."
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+MKAwakening
+
+Company Man
+
+Tome 2 - Reckoning
+
+20 April 2021 (Tuesday)
+
+Description
+
+His techniques were brutal, yet thoughtful and deliberate. This was a man who was going places.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Adreno-Head
+
+Company Man
+
+29
+
+The Doctor’s experiments started with simple questions. For example, what if someone was sleep deprived, eyes pried open, and injected with steady streams of adrenaline? The results were fascinating.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Blood Test
+
+Company Man
+
+21
+
+If you’re going to expand your mind—and someone’s ribcage—you have to be willing to get dirty.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Voltaic Ray
+
+Company Man
+
+9
+
+One of the Doctor’s first torture devices, made before the CIA money came flooding in. Holds a sentimental place in his heart.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+First Prototype
+
+Slice Of Life
+
+Tome 21 - Dominus
+
+12 June 2018 (Tuesday)
+
+Description
+
+He was all alone in the classroom, admiring his finished device, when the teacher came over.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Belittled Mind
+
+Slice Of Life
+
+20
+
+The teacher pretended to be impressed, and he saw it. She didn’t believe a high schooler could achieve this much.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Daring Hazard
+
+Slice Of Life
+
+18
+
+He asked her for permission to test it on a subject. She chuckled and suggested using the classroom rabbit as a joke.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Fascinating Result
+
+Slice Of Life
+
+23
+
+The next morning, the rabbit was found dead in its cage. Rumors claimed its fur was burned and its eye sockets emptied.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Ruthless Insanity
+
+Sonhadores Sombrios Collection
+
+Tome 15 - Ascension
+
+19 June 2024 (Wednesday)
+
+Description
+
+A sadistic villain from a nightmarish realm.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Protective Vision
+
+Sonhadores Sombrios Collection
+
+31
+
+He stalked victims endlessly.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Voltaic Limb
+
+Sonhadores Sombrios Collection
+
+38
+
+He could inflict a powerful shock.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Energy Prod
+
+Sonhadores Sombrios Collection
+
+26
+
+He had a lot of affection for this weapon, able to disrupt his patient's voluntary control of muscles without killing them.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Ruthless Insanity (Deep Rift)
+
+Deep Rift
+
+Tome 15 - Ascension
+
+12 June 2018 (Tuesday)
+
+Description
+
+A cruel tormentor from a nightmarish realm.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Protective Vision (Deep Rift)
+
+Deep Rift
+
+72
+
+He ambushed victims endlessly.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Voltaic Limb (Deep rift)
+
+Deep Rift
+
+82
+
+He could inflict a devastating electric punch.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Energy Prod (Deep Rift)
+
+Deep Rift
+
+77
+
+He had a lot of affection for this weapon, able to stun his patient during a chase.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Love Doctor
+
+Valentine’s 2022
+
+Tome 10 - SAW
+
+12 June 2018 (Tuesday)
+
+Description
+
+An outfit for the man who wants your heart. Literally.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Viral Mask
+
+Valentine’s 2022
+
+61
+
+A mask that prevents infection from the love bug.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Sophisticated Practitioner
+
+Valentine’s 2022
+
+53
+
+Centuries old and still stylish.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Cold Blood Cane
+
+Valentine’s 2022
+
+43
+
+A gentleman’s cane for a gentleman’s murder.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Endless Suffering
+
+Misery Everlasting
+
+Tome 19 - Splendor
+
+25 January 2025 (Saturday)
+
+Description
+
+The apparatus was complete. He could now administer pain like never before.
+
+1485
+
+29700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Afflicted Brain
+
+Misery Everlasting
+
+70
+
+Steroids and electric shocks were administered based on the victim's cortisol levels. More stress meant more pain.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Surging Body
+
+Misery Everlasting
+
+70
+
+He envisioned a system to pump adrenaline through the subject's body, keeping them conscious and energized.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Breaking Point
+
+Misery Everlasting
+
+70
+
+The agony ended with a spark, a lone strike from an electric wand that caused the engorged muscles to tear.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Endless Suffering (Deep Rift)
+
+Deep Rift
+
+Tome 19 - Splendor
+
+12 June 2018 (Tuesday)
+
+Description
+
+The apparatus was perfect. He took pleasure in watching his victims endure unfathomable pain.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Afflicted Brain (Deep Rift)
+
+Deep Rift
+
+83
+
+Steroids and electric shocks were administered based on the victim's cortisol levels. Every sensation was agony.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Surging Body (Deep Rift)
+
+Deep Rift
+
+83
+
+He envisioned a system to pump adrenaline through the subject's body, to ensure his subjects were awake and aware at all moments.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Breaking Point (Deep Rift)
+
+Deep Rift
+
+83
+
+The agony ended with a spark, a lone strike from an electric wand that caused tendons to rupture and skin to split open.
+
+Piece
+
+Name
+
+Tome
+
+Rift Tier
+
+Bloodied Pincushion
+
+Tome 4 - Conviction
+47
+
+A new form of physical therapy intended to stimulate the central nervous system by applying direct and intense pain. Do not try this at home.
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Neuroscientist
+
+DOCTOR ABERRATIONS
+
+12 June 2018 (Tuesday)
+
+Description
+
+The brain is the new frontier to conquer. In your able hands, this uncharted territory becomes a force to be reckoned with.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rehabilitation Eyes (Analyzed)
+
+DOCTOR ABERRATIONS
+
+Strap in to some electroconvulsive gear. Force out a maniacal grin. Make those crazy eyes pop! It's rehabilitation time!
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Medical Coat (Analyzed)
+
+DOCTOR ABERRATIONS
+
+A sleeveless medical coat that has seen better days. For those that appreciate the dramatic look of a doctor's garment.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Neuroscientist
+
+DOCTOR ABERRATIONS
+
+12 June 2018 (Tuesday)
+
+Description
+
+The brain is the new frontier to conquer. In your able hands, this uncharted territory becomes a force to be reckoned with.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rehabilitation Eyes (Demented)
+
+DOCTOR ABERRATIONS
+
+Strap in to some electroconvulsive gear. Force out a maniacal grin. Make those crazy eyes pop! It's rehabilitation time!
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Medical Coat (Demented)
+
+DOCTOR ABERRATIONS
+
+A sleeveless medical coat that has seen better days. For those that appreciate the dramatic look of a doctor's garment.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Neuroscientist
+
+DOCTOR ABERRATIONS
+
+12 June 2018 (Tuesday)
+
+Description
+
+The brain is the new frontier to conquer. In your able hands, this uncharted territory becomes a force to be reckoned with.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rehabilitation Eyes (Dissected)
+
+DOCTOR ABERRATIONS
+
+Strap in to some electroconvulsive gear. Force out a maniacal grin. Make those crazy eyes pop! It's rehabilitation time!
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Medical Coat (Dissected)
+
+DOCTOR ABERRATIONS
+
+A sleeveless medical coat that has seen better days. For those that appreciate the dramatic look of a doctor's garment.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Neuroscientist
+
+DOCTOR ABERRATIONS
+
+12 June 2018 (Tuesday)
+
+Description
+
+The brain is the new frontier to conquer. In your able hands, this uncharted territory becomes a force to be reckoned with.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rehabilitation Eyes (Probed)
+
+DOCTOR ABERRATIONS
+
+Strap in to some electroconvulsive gear. Force out a maniacal grin. Make those crazy eyes pop! It's rehabilitation time!
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Medical Coat (Probed)
+
+DOCTOR ABERRATIONS
+
+A sleeveless medical coat that has seen better days. For those that appreciate the dramatic look of a doctor's garment.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Neuroscientist
+
+DOCTOR ABERRATIONS
+
+12 June 2018 (Tuesday)
+
+Description
+
+The brain is the new frontier to conquer. In your able hands, this uncharted territory becomes a force to be reckoned with.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rehabilitation Eyes (Stunned)
+
+DOCTOR ABERRATIONS
+
+Strap in to some electroconvulsive gear. Force out a maniacal grin. Make those crazy eyes pop! It's rehabilitation time!
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Medical Coat (Stunned)
+
+DOCTOR ABERRATIONS
+
+A sleeveless medical coat that has seen better days. For those that appreciate the dramatic look of a doctor's garment.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Neuroscientist
+
+DOCTOR ABERRATIONS
+
+12 June 2018 (Tuesday)
+
+Description
+
+The brain is the new frontier to conquer. In your able hands, this uncharted territory becomes a force to be reckoned with.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rehabilitation Eyes (Unhinged)
+
+DOCTOR ABERRATIONS
+
+Strap in to some electroconvulsive gear. Force out a maniacal grin. Make those crazy eyes pop! It's rehabilitation time!
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Medical Coat (Unhinged)
+
+DOCTOR ABERRATIONS
+
+A sleeveless medical coat that has seen better days. For those that appreciate the dramatic look of a doctor's garment.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Secret Weapon
+
+COMBAT MEDIC
+
+18 September 2018 (Tuesday)
+
+Description
+
+Inspire front line trauma in your patients.
+
+180
+
+3600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Brainwash Fixation Straps
+
+COMBAT MEDIC
+
+For absolute restraint when bedtime arrives.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Sleeveless Leather Trench Coat
+
+COMBAT MEDIC
+
+A slick trench coat to command dismay in your freshly arrived patients.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Reformed Ally
+
+COMBAT MEDIC
+
+18 September 2018 (Tuesday)
+
+Description
+
+Inspire front line trauma in your patients.
+
+180
+
+3600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Propaganda Fixation Straps
+
+COMBAT MEDIC
+
+For absolute restraint when bedtime arrives.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Sleeveless U.S Camo Trench Coat
+
+COMBAT MEDIC
+
+A slick trench coat to command dismay in your freshly arrived patients.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+MKAwakening
+
+Company Man
+
+Tome 2 - Reckoning
+
+20 April 2021 (Tuesday)
+
+Description
+
+His techniques were brutal, yet thoughtful and deliberate. This was a man who was going places.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Adreno-Head
+
+Company Man
+
+29
+
+The Doctor’s experiments started with simple questions. For example, what if someone was sleep deprived, eyes pried open, and injected with steady streams of adrenaline? The results were fascinating.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Blood Test
+
+Company Man
+
+21
+
+If you’re going to expand your mind—and someone’s ribcage—you have to be willing to get dirty.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Voltaic Ray
+
+Company Man
+
+9
+
+One of the Doctor’s first torture devices, made before the CIA money came flooding in. Holds a sentimental place in his heart.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Strictly Business
+
+PHYSICAL THERAPIST
+
+12 June 2018 (Tuesday)
+
+Description
+
+It's not personal. It's strictly business.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Bandaged Pincushion
+
+PHYSICAL THERAPIST
+
+A new form of physical therapy intended to stimulate the central nervous system by applying direct and intense pain. Do not try this at home.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Bloody Business Suit
+
+PHYSICAL THERAPIST
+
+It's business. It's business time.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Spiked Therapy Bat
+
+PHYSICAL THERAPIST
+
+The nails have been included to help speed up the rehabilitation process.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Anger Management
+
+PHYSICAL THERAPIST
+
+12 June 2018 (Tuesday)
+
+Description
+
+Why don't you take a seat over there and explain exactly what the problem is? Oh, don't mind that… it is simply a therapy tool to help reach a desirable resolution.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Burnt Pincushion
+
+PHYSICAL THERAPIST
+
+A new form of physical therapy intended to stimulate the central nervous system by applying direct and intense pain. Do not try this at home.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Violent Business Suit
+
+PHYSICAL THERAPIST
+
+It's time to get down to business with this vest, collared shirt, and tie combo.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Bad Temper Therapy Bat
+
+PHYSICAL THERAPIST
+
+This is an instrument of death used for the sole purpose of therapy and rehabilitation.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Spirit Crusher
+
+PHYSICAL THERAPIST
+
+12 June 2018 (Tuesday)
+
+Description
+
+Why don't you take a seat over there and explain exactly what the problem is? Oh, don't mind that… it is simply a therapy tool to help reach a desirable resolution.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Wrapped Pincushion
+
+PHYSICAL THERAPIST
+
+A new form of physical therapy intended to stimulate the central nervous system by applying direct and intense pain. Do not try this at home.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Crumpled Business Suit
+
+PHYSICAL THERAPIST
+
+It's time to get down to business with this vest, collared shirt, and tie combo.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Metal Therapy Bat
+
+PHYSICAL THERAPIST
+
+This is an instrument of death used for the sole purpose of therapy and rehabilitation.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Wild Asylum
+
+MENTAL PATIENT
+
+12 June 2018 (Tuesday)
+
+Description
+
+Sometimes, one must experience the treatment in order to be able to administer it effectively. Now that is over, it's time to start the session…
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Auto-Lobotomizer
+
+MENTAL PATIENT
+
+Bzzzzzzzzt!
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Broken Straightjacket
+
+MENTAL PATIENT
+
+Well, you've got some real nuts here.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Spiked Brain Thumper
+
+MENTAL PATIENT
+
+The addition of spikes helps to apply multiple puncture wounds.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Pestilence Physician
+
+Gold & Silk
+
+09 August 2019 (Friday)
+
+Description
+
+Infections can be figurative as well as literal. Free will is an infection and The Doctor has just the cure.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Beaked Mask
+
+Gold & Silk
+
+Electricity surges across the mask's terminals, ridding the mind of unwanted thoughts.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Modified Suit
+
+Gold & Silk
+
+Formerly an elegant evening ensemble, The Doctor has customized it to his needs, weaving high-tension wires through the fabric.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Conductive Caduceus
+
+Gold & Silk
+
+Healing energies crackle along this staff, ready to purge you of all kinds of impurities, sinful thoughts, and life.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Test Subject 1
+
+Founded Experiments
+
+05 June 2020 (Friday)
+
+Description
+
+He conducted the first wave of experiments. His aim was to transmit information from his brain to his test subject despite the pain it would inflict.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Copper Synapses
+
+Founded Experiments
+
+He designed a brass helmet that made test subjects run, turn, and stop via remote control.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Leather Lab Coat
+
+Founded Experiments
+
+Reinforced with leather, this coat can be subjected to any ill treatment in the lab without leaving a trace. Ideal for project undisclosed to the public.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Copper Cable Tube
+
+Founded Experiments
+
+High bandwidth tube with electrical pulses that can inflict and transmit a high amount of pain per second.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Lord Chloroform
+
+VICIOUS VICTORIAN
+
+07 November 2018 (Wednesday)
+
+Description
+
+Prey on the flooded slums reeking of sewage and rot to conduct your experiments.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Corroded Eyepieces
+
+VICIOUS VICTORIAN
+
+Ocular apparatus with focus gears and lenses that transmit the physiological responses of a variety of pain stimuli.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Ladykiller Frock Coat
+
+VICIOUS VICTORIAN
+
+A long coat projecting an enigmatic silhouette for the discrete debauchee. The pockets are lined with chloroform to swiftly stifle your prey into narcosis.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Tainted Inoculation
+
+VICIOUS VICTORIAN
+
+A silvery spiked stick crowned with a crimson ruby, which is set in the mouth of a hungry beast thirsting for blood. An elegant way to administer your lethal dose.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Surgeon of Slaughter
+
+FAMILIAR FOES
+
+16 October 2019 (Wednesday)
+
+Description
+
+There's so much to learn from live human bodies, including your own.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Experimental Measures
+
+FAMILIAR FOES
+
+There’s no laughing gas coming through the mask and yet he can’t help but smile. It might have to do with the dangerous amount of electrodes he's streamed into his limbic cortex.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Dr. Vivisection
+
+FAMILIAR FOES
+
+An abundance of bloody malpractices are stabbed, twisted, and cut into his body. He wanted to feel what his last patient did before he opened them up.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Surgeon Buddy
+
+FAMILIAR FOES
+
+The arm of a surgical robotic tool. Though it once effectively drilled into human skulls, The Doctor tore it from its pedestal—possibly out of jealousy. That’ll teach it to take away jobs from humans.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Fire Moon Doctor
+
+Fire Moon Festival
+
+26 September 2023 (Tuesday)
+
+Description
+
+He dressed up for his torture session during the Fire Moon Festival.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Ferocious Maw
+
+Fire Moon Festival
+
+A horrifying face between sharp fangs.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Celestial Kimono
+
+Fire Moon Festival
+
+His kimono featured exquisite fabric and intricate handmade details.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Hard Whip Spark
+
+Fire Moon Festival
+
+A military weapon from ancient times once believed to be charged with electricity.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+The Transplant
+
+The Midnight Grove
+
+11 October 2022 (Tuesday)
+
+Description
+
+A horrifying combination of body parts stitched together, electrified, and brought to life.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Hack Job
+
+The Midnight Grove
+
+What The Doctor lacked in looks, he more than made up for in intelligence.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Flesh Union
+
+The Midnight Grove
+
+The muscles and nerves of multiple corpses were forced together, creating a monstrosity that thrived on the pain of existence.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Shocking Touch
+
+The Midnight Grove
+
+A shock stick covered in flesh. Electric impulses course through the nerves.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Resident Infestation
+
+Chrysalis
+
+15 June 2022 (Wednesday)
+
+Description
+
+His experiments in pain extended even to himself at times, with one particularly grim foray into insect breeding.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Larval Mask
+
+Chrysalis
+
+It didn’t take long for the reproducing creatures to get completely out of control.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Filthy Pustules
+
+Chrysalis
+
+He learned a lot about exotic types of pain over the years. Bug eggs under the skin was one of the worst.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Deadly Zapper
+
+Chrysalis
+
+The moth is a cautionary tale: sometimes the things you are most attracted to end up destroying you.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Foul Bile
+
+HALLOWED BLIGHT
+
+09 October 2019 (Wednesday)
+
+Description
+
+A relentless specimen with acute aggressive responses to experimentation. Physical restraints were used on both ankles.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Mind's Eye
+
+HALLOWED BLIGHT
+
+The scathed flesh reveals rotting canines and a third, malignant eye.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Bloody Intestine
+
+HALLOWED BLIGHT
+
+A gut seeping with the festering secretions of pierced bowels.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Serious Stick
+
+HALLOWED BLIGHT
+
+A soiled instrument to apply pain of a terrible kind.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Ruthless Insanity
+
+Sonhadores Sombrios Collection
+
+Tome 15 - Ascension
+
+19 June 2024 (Wednesday)
+
+Description
+
+A sadistic villain from a nightmarish realm.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Protective Vision
+
+Sonhadores Sombrios Collection
+
+31
+
+He stalked victims endlessly.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Voltaic Limb
+
+Sonhadores Sombrios Collection
+
+38
+
+He could inflict a powerful shock.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Energy Prod
+
+Sonhadores Sombrios Collection
+
+26
+
+He had a lot of affection for this weapon, able to disrupt his patient's voluntary control of muscles without killing them.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Blood Shock
+
+Blood Moon
+
+18 March 2024 (Monday)
+
+Description
+
+His early experiments with blood electrification gave him the false belief he was more spry, alert, and prone to outburst.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Sense of Humors
+
+Blood Moon
+
+Now he felt that old familiar rush in ways he never could have imagined.
+
+Piece
+
+Name
+
+Collection
+
+Heal Thyself
+
+Blood Moon
+
+Medical science took a back seat as he tapped into something more intuitive and elemental.
+
+Piece
+
+Name
+
+Collection
+
+The Exsanguinator
+
+Blood Moon
+
+The jolt was brief, but the pain was anything but.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Medical Advancements
+
+Techwear
+
+22 April 2025 (Tuesday)
+
+Description
+
+He delighted at the instrument on his workbench. He always sought to improve his methods for extracting information.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Sensory Attuner
+
+Techwear
+
+He gently placed the headgear over his ears. The speakers amplified the sound of his patient's heart.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Future Lab Gear
+
+Techwear
+
+His gloves were like a second skin; he lost none of his touch as he operated.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Ranged Defibrillator
+
+Techwear
+
+The instrument crackled, and he could hear his patient's fear reach a crescendo.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Love Doctor
+
+Valentine’s 2022
+
+Tome 10 - SAW
+
+12 June 2018 (Tuesday)
+
+Description
+
+An outfit for the man who wants your heart. Literally.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Viral Mask
+
+Valentine’s 2022
+
+61
+
+A mask that prevents infection from the love bug.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Sophisticated Practitioner
+
+Valentine’s 2022
+
+53
+
+Centuries old and still stylish.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Cold Blood Cane
+
+Valentine’s 2022
+
+43
+
+A gentleman’s cane for a gentleman’s murder.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Dearest Herman
+
+Black Banquet
+
+25 June 2026 (Thursday)
+
+Description
+
+You are cordially invited to the Black Banquet, where the bold are nourished on the spoils of their ambition.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Virtuosic Touch
+
+Black Banquet
+
+You have inflicted immeasurable pain, shattering minds with unmatched virtuosity. A feast for the senses!
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Upset Stomach
+
+Black Banquet
+
+Your presence would mean a great deal to us, dear doctor. Who better to tend to those who overindulge in our extravagances?
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Served Crispy
+
+Black Banquet
+
+Perhaps a first-hand demonstration of your methods is in order. That would surely galvanize the bash.
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Endless Suffering
+
+Misery Everlasting
+
+Tome 19 - Splendor
+
+25 January 2025 (Saturday)
+
+Description
+
+The apparatus was complete. He could now administer pain like never before.
+
+1485
+
+29700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Afflicted Brain
+
+Misery Everlasting
+
+70
+
+Steroids and electric shocks were administered based on the victim's cortisol levels. More stress meant more pain.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Surging Body
+
+Misery Everlasting
+
+70
+
+He envisioned a system to pump adrenaline through the subject's body, keeping them conscious and energized.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Breaking Point
+
+Misery Everlasting
+
+70
+
+The agony ended with a spark, a lone strike from an electric wand that caused the engorged muscles to tear.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Pharaoh Eddie
+
+Iron Maiden
+
+22 February 2024 (Thursday)
+
+Description
+
+A merciless ruler, who wielded ultimate power over his victims.
+
+1485
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Majestic Headdress
+
+Iron Maiden
+
+He ended upon a strange realm surrounded by the ruins of ancient pyramids.
+
+Piece
+
+Name
+
+Collection
+
+Mummified
+
+Iron Maiden
+
+His victims quaked in terror, their screams echoing through his hollow chest.
+
+Piece
+
+Name
+
+Collection
+
+Ruler’s Scepter
+
+Iron Maiden
+
+He raised the scepter over his fallen subject, a triumph of his reign of terror.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+The Look-See
+
+The Crypt TV
+
+04 May 2021 (Tuesday)
+
+Description
+
+He tore apart those haunted by grief and remorse.
+
+1296
+
+25920
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Sinister Grin
+
+The Crypt TV
+
+A sinister, scarred face that featured a twisted grin.
+
+Piece
+
+Name
+
+Collection
+
+Dark Suit
+
+The Crypt TV
+
+His sharp claws ripped through his gloved hands and tore his clean suit.
+
+Piece
+
+Name
+
+Collection
+
+Chance Wrench
+
+The Crypt TV
+
+A jolting and adjustable wrench for all of purposes, mainly shocking attacks.
+
+Piece
+
+Name
+
+Collection
+
+Glucose Injection
+
+Tricks and Treats
+
+The fastest way to a sugar rush.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Subzero Stick
+
+Bone Chill
+
+He poured liquid nitrogen into a tub, curious to modify his device.
+
+250
+
+Piece
+
+Name
+
+Collection
+
+Suit of Madness
+
+Moonlight Burrow
+
+A flamboyant suit that tests everyone's sanity.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Charged Brain Thumper
+
+MENTAL PATIENT
+
+A large, heavy rod that has been fashioned into an effective weapon used for applying moral clarity and punishment.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Doctor's Mask
+
+Twisted Masquerade
+
+A mask he found himself wearing at the masquerade ball.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Electric Syringe
+
+Mech Collection
+
+A precise weapon for a sharp electric shock.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Twisted Baton
+
+Twisted Masquerade
+
+A refined weapon suitable for the masquerade ball.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Zipper Mouthpiece
+
+Slipknot
+
+A mask appeared on The Doctor’s disturbing face after the unsettling tones of a distant keyboard echoed through the realm.
+
+400
+
+Alternate Character Models
+
+The Doctor
+ has 
+2
+ alternate Character models available in the in-game Store:
+
+The 
+Look-See
+
+Pharaoh Eddie
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Doctor
+ is part of 
+3
+ DLCs:
+
+Chapter DLC:
+
+Spark of Madness
+ (
+retired
+)
+
+Pack DLCs:
+
+Maddening Darkness Pack
+ (Chapter Pack)
+
+Terror Expansion Pack
+ (Character Pack)
+
+Change Log
+
+Hotfix 1.5.1a
+Hotfix 1.5.1b
+Patch 1.6.2
+Patch 1.9.2
+Patch 2.0.0
+Patch 2.4.0
+Patch 3.5.0
+Patch 3.6.0
+Patch 4.7.0
+Patch 7.6.0
+Patch 8.2.0
+Patch 8.6.0
+Patch 8.7.0
+Patch 9.6.0
+Patch 9.6.1
+Hotfix 1.5.1a
+
+Nerf
+: removed the (unintentional) ability to automatically shock injured Survivors anywhere within 
+The Doctor's
+ Terror Radius when performing a 
+Shock Therapy
+ attack.
+Hotfix 1.5.1b
+
+Buff
+: increased 
+Treatment Mode
+ Movement speed from 
+4.3 m/s
+ to 
+4.4 m/s
+.
+
+Buff
+: increased the 
+Shock Therapy
+ Attack range from 
+7.5 metres
+ to 
+9 metres
+.
+
+Buff
+: adjusted the 
+Shock Therapy
+ Area of Effect to also hit Survivors who, in terms of elevation, are slightly above or below 
+The Doctor
+.
+
+Buff
+: increased 
+Snap Out of It
+ duration by 
+4 seconds
+ to 
+12 seconds
+.
+
+Quality of Life
+: added the ability to read the Aura of 
+Illusionary Doctors
+ when the afflicted Survivor has 
+Tier III Madness
+ to 
+The Doctor's
+ base-kit.
+
+Change
+: 
+Hallucination
+ Aura colour changed from 
+"Notice Me!" Hot Pink
+ to 
+"I Indicate An Ally" Yellow
+.
+Patch 1.6.2
+
+For additional information about this special update, see 
+Doctor Cube
+.
+
+Buff
+: 
+Snap Out of It
+ now has a chance to trigger Skill Checks.
+
+Failing those Skill Checks will interrupt the action and cause the Survivor to scream, revealing their location.
+
+Buff
+: added 
+Madness Skill Checks
+ to the base-kit, allowing them to affect all skilful interaction rather than just 
+Snap Out of It
+.
+
+Buff
+: removed the Movement Speed penalty when switching Stances; 
+The Doctor
+ now already moves at 
+Treatment mode
+ speed.
+
+Buff
+: added an interaction cool-down of 
+2.5 seconds
+ to Survivors hit by the 
+Shock Therapy
+ attack.
+
+This change also added a new icon to the HUD for Survivors: whenever they are shocked by 
+Shock Therapy
+, 
+The Doctor's
+ Power icon in the red 
+debuff
+ colour is displayed with a timer overlaid on top of it.
+While the icon is visible, interactions are inhibited for the afflicted Survivor.
+
+Buff
+: added the ability for 
+Tier III Madness
+ to prevent Survivors from using Med-Kits and Toolboxes, as well as healing themselves, other Survivors, or repairing Generators.
+
+Change
+: 
+Snap Out of It
+ is now considered a Healing action.
+
+This change is deemed neutral, as it had both positive and negative effects for 
+The Doctor
+, with Perks like 
+A Nurse's Calling
+ revealing the Aura of Survivors, but Perks like 
+Botany Knowledge
+ also speeding up the interaction.
+Patch 1.9.2
+
+Buff
+: extended the ability for 
+Tier III Madness
+ to prevent Survivor interactions to include Sabotage actions as well as the use of any Item.
+Patch 2.0.0
+
+Quality of Life
+: changed 
+Illusionary Doctors
+ to always wear the same Outfit as 
+The Doctor
+ himself, instead of his default one.
+Patch 2.4.0
+
+Nerf
+: 
+Snap Out of It
+ is no longer considered a Healing action and remains unaffected by Perks such as 
+A Nurse's Calling
+ or 
+Coulrophobia
+.
+Patch 3.5.0
+
+Rework
+:
+
+Buff
+: increased the 
+Shock Therapy
+ range from 
+9 metres
+ to 
+10 metres
+ (the actual new value was 
+10.7 metres
+).
+
+Buff
+: removed the need to switch Stances in order to use 
+Shock Therapy
+.
+
+Buff
+: replaced the 
+Static Field
+ with the 
+Static Blast
+ ability.
+
+Quality of Life
+: 
+Illusionary Doctors
+ now use 
+The Doctor's
+ idle stance instead of his menu stance.
+
+Nerf
+: halved the Decay rate of 
+Madness
+ while outside of the 
+Terror Radius
+ from 
+-1 p/s
+ to 
+-0.5 p/s
+.
+
+Change
+: adjusted the modifier of his Movement speed while charging 
+Shock Therapy
+ from 
+70 %
+ to 
+67 %
+ to keep the same Movement speed of 
+3.08 m/s
+ he had in 
+Treatment Mode
+.
+
+Rework
+: reworked the 
+Snap Out of It
+ interaction.
+
+Change
+: 
+The Doctor
+ now features a unique Menu Music, Terror Radius and Chase Music.
+Patch 3.6.0
+
+Buff
+: removed the ability for 
+Madness
+ to decay over time.
+
+Buff
+: added the reversed variant of 
+Madness Skill Checks
+ to the base-kit.
+
+Quality of Life
+: standardised the 
+Madness
+ Tiers, with 
+Shock Therapy
+ filling 
+50 %
+ and 
+Static Blast
+ 
+100 %
+ of a Tier.
+Patch 4.7.0
+
+Quality of Life
+: Madness
+ Tiers now each possess a distinct visual on the HUD.
+
+Quality of Life
+: improved 
+The Doctor's
+ visual effects to improve performance.
+
+Reduced the intensity of the 
+"Glitch"
+ and 
+"Madness"
+ screen effects.
+
+Removed the visual horror effect showing 
+The Doctor's
+ face after failed 
+Madness Skill Checks
+ during 
+Snap Out of It
+.
+
+Updated and increased level-of-detail of his character model and various cosmetics.
+Patch 7.6.0
+
+Buff
+: increased the range of the 
+Shock Therapy
+ attack from 
+10.7 metres
+ to 
+12 metres
+.
+
+Buff
+: reduced the Detonation delay of 
+Shock Therapy
+ from 
+1 second
+ to 
+0.8 seconds
+.
+Patch 8.2.0
+
+Buff
+: reduced 
+Static Blast's
+ default cool-down from 
+60 seconds
+ to 
+45 seconds
+.
+
+Buff
+: 
+Static Blast's
+ cool-down is now further reduced to 
+30 seconds
+ if no Survivors are in range.
+
+Buff
+: increased the Movement Speed while charging 
+Static Blast
+ from 
+1.16 m/s
+ to 
+2.99 m/s
+.
+Patch 8.6.0
+
+Reinstation
+: reinstated the visual horror effect on failed 
+Madness Skill Checks
+ during 
+Snap Out of It
+ (removed in 
+Patch 4.7.0
+), though slightly modified.
+
+Instead of showing 
+The Doctor's
+ entire face, it now shows various zoomed-in parts of it.
+
+Indirect Nerf
+: 
+Mending
+ now pauses while performing 
+Snap Out of It
+.
+
+This change prevents Survivors suffering from 
+Deep Wound and Madness III
+ at the same time from essentially being forced to enter the 
+Dying State
+ once their Bleed-out timer depleted past the point of matching the duration of the 
+Snap Out of It
+ interaction, which takes precedence over 
+Mending
+.
+Patch 8.7.0
+
+Nerf
+: added a cooldown to interrupting Unhooks with 
+Shock Therapy
+ repeatedly.
+Patch 9.6.0
+
+Buff
+: decreased 
+Shock Therapy
+ delay from 
+0.8 seconds
+ to 
+0.75 seconds
+.
+Patch 9.6.1
+
+Buff
+: decreased 
+Shock Therapy
+ delay from 
+0.75 seconds
+ to 
+0.65 seconds
+.
+
+Trivia
+
+General
+
+The Doctor
+ introduced the 
+Madness
+ Status Effect
+ and Game Mechanic, which is unique to Trials featuring him.
+
+The Doctor
+ was the first Killer to have had two different stances, 
+Punishment Mode
+ for regular attacks and 
+Treatment Mode
+ to use his Power.
+
+Treatment Mode
+ allowed 
+The Doctor
+ to perform grabs, but prohibited any attacks with his primary weapon.
+
+Since so-called 
+Treatment Grabs
+ (i.e. spamming the Power during a Hook Stand-off) were virtually guaranteed to succeed (since in this mode, it counted as a grab attempt without triggering a 
+Basic Attack
+), it made unhooking against a face-camping 
+Doctor
+ near impossible to counter.
+
+Due to technical limitations, 
+Illusionary Doctors
+ originally used to wear the default customisation option of 
+The Doctor
+, making them easily distinguishable from Doctors wearing either the Prestige or Project Awakening outfits.
+
+This was changed with 
+Patch 2.0.0
+: 
+Illusionary Doctors
+ now wear the same customisation options as 
+The Doctor
+.
+
+After receiving a rework with 
+Patch 3.5.0
+, 
+The Doctor
+ received his own Main Menu Theme and unique Chase Music.
+
+Cosmetics
+
+ 
+The Doctor
+ as 
+"The Look-See"
+
+The Doctor's
+ 
+Legendary Outfit
+, 
+"The Look-See"
+, is a Character from the Crypt TV series of the same name.
+
+"The Look-See"
+ is an evil entity who haunts those unable to let go of their grief.
+After leaving a cryptic note as a warning of its imminent appearance, 
+"The Look-See"
+ murders its victim and takes a body part symbolic of the reason for the victim's grief.
+
+Whether the naming/design was a mistake or intentional, 
+The Doctor's
+ weapon in the 
+Very Rare
+ "
+Pestilence Physician
+" cosmetic, Conductive Caduceus, was incorrectly named and designed unfittingly for 
+The Doctor's
+ lore.
+
+The caduceus is the staff of Hermes, the Greek herald of the gods, which has two snakes. The rod of Asclepius (also called the asklepian), the Greek god of medicine, has one snake. Hermes' caduceus is often inappropriately misinterpreted as a symbol of medicine because of its association with thieves and liars, to which Hermes is a patron of.
+
+The Doctor's
+ lore focuses on his pursuit of discoveries and knowledge in medicine, which fits perfectly with the asklepian of Asclepius rather than the caduceus of Hermes.
+
+Development
+
+The Doctor's
+ main inspiration is the controversial Doctor 
+Yang Yongxin
+, a clinical psychiatric who runs a clinic that advocates treating patients with internet and gaming addiction using electro-convulsive therapy without anasthesia or muscle relaxants.
+
+His original methods were using electroshock therapy before it was banned for use for internet and gaming addiction in China in the basis that it didn't work.
+
+His original model was originally of Chinese descent before it was reworked to the current model with African American descent.
+
+His realm 
+Léry's Memorial Institute
+ originally had Chinese letters before it was removed.
+
+His accompanying survivor 
+Feng Min
+ is a video game competitor which further cemented his inspiration.
+
+Some file names also reveal that during development, 
+The Doctor
+ was originally called 
+"Mu Yi"
+, a name that sees 
+The Doctor's
+ original nationality as  Chinese.
+
+The terms "
+Mu"
+ (無 in Japanese; 무 in Korean) or 
+"Wú"
+ (无 in Chinese) mean 
+"not have; without"
+ and are a key word in Buddhism, especially in Zen traditions.
+
+The term 
+"Yi"
+ (義 in Confucianism) means 
+"justice, righteousness, meaning"
+, a moral disposition to do good.
+
+When combined, Carter's original name literally translates to either 
+"without justice"
+ or 
+"without meaning"
+.
+
+Other file and WIP names of his Add-ons (
+"Jade Charm", "Nanmu Catapult", "Tiger Fang Charm"
+) further cements 
+The Doctor's
+ original Chinese routes.
+
+This was later changed to his current name and ancestral descent.
+
+Lore
+
+The Doctor's
+ facial equipment is a reference to the 1971 Movie 
+A Clockwork Orange
+ where the protagonist undergoes brutal psychotherapy treatment in an attempt to cure his mania and bloodlust.
+
+The Doctor's
+ background story may be a reference to 
+MKULTRA
+, a CIA research project that officially ran from 1951 to 1973 and experimented with unethical methods of interrogation and mind control.
+
+"Herman"
+  was a widely popular name in the US in the 19th century and remained so throughout the first half of the 20th.
+
+"Carter"
+  is a surname common among African Americans capable of tracing their roots back to the southern United States or Caribbean from the early 20th century onward.
+
+Memento Mori
+
+The Doctor's
+ Memento Mori animation was the first one in which Survivors saw part of the animation from the Killer's perspective.
+
+Voice Actor
+
+The Doctor
+ is voiced by Alex Lin, who at that time worked as a Product Manager on the Game.
+
+Gallery
+
+For more, go to 
+Doctor's Gallery
+
+In-game Assets
+
+The Doctor
+
+The Doctor (Portrait render)
+
+The Doctor (Background image)
+
+The original version of the visual horror effect seen when Survivors scream due to 
+Madness
+.
+
+Official Art
+
+Teaser of The Doctor
+
+Old Assets
+
+The Doctor's previous portrait
+
+Concept Art
+
+'Foul Bile' Concept Art
+
+'Surgeon of Slaughter' Concept Art
+
+'Resident Infestation' Concept Art
+
+'Fire Moon Doctor' Concept Art
+
+'Pharoah Eddie' Concept Art
+
+Screenshots
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

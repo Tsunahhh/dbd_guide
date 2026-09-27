@@ -1,0 +1,3060 @@
+# Dracula
+Source: https://deadbydaylight.wiki.gg/wiki/Dracula (page complète via API, consultée le 27/09/2026)
+
+The Dark Lord
+
+Name
+
+Dracula
+
+Game Alias(es)
+
+"Vlad Tepes Dracula"
+
+"Vlad the Impaler"
+
+Gender
+
+Man
+
+Origin
+
+Wallachian (Romania)
+
+Power
+
+Vampiric Shift
+
+Power 
+Attack
+ Type
+
+Special Attack
+
+(Hellfire, Pounce)
+
+Weapon
+
+Pale Claws
+
+Movement Speed
+
+115 % 
+|
+ 4.6 m/s
+
+Alternate Movement speed
+
+162.5 % 
+|
+ 6.5 m/s
+(Bat Form)
+
+Terror Radius
+
+32 metres
+
+Lullaby
+ Radius
+
+48 metres (Bat Form)
+
+Height 
+
+Tall
+
+DLC
+
+Castlevania
+
+Voice Actor
+
+Crispin Freeman (Blindlight)
+
+Cost
+
+500 
+Auric Cells
+
+Menu Music
+
+Terror Radius Music
+
+Lullaby
+
+Metadata
+
+CharID
+
+K37
+
+Vlad Tepes Dracula
+ or 
+"The Dark Lord"
+ is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+He was introduced as the Killer of 
+Castlevania
+, a Chapter DLC released on 27 August 2024.
+
+He originates from the Video Game Franchise 
+Castlevania
+ by Konami, specifically 
+Castlevania: Symphony of the Night
+ (1997).
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+2.1
+ 
+The Archives
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: Pale Claws
+
+3.3
+ 
+Power: Vampiric Shift
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for Vampiric Shift
+
+3.5
+ 
+Innate Skill
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Default
+
+5.2
+ 
+Prestige
+
+5.2.1
+ 
+Perk Charms
+
+5.2.2
+ 
+Prestige Badges
+
+5.3
+ 
+Rift
+
+5.4
+ 
+In-Game Store
+
+5.5
+ 
+Alternate Character Models
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+General
+
+8.2
+ 
+Castle Easter Egg
+
+8.3
+ 
+Chase Theme
+
+8.4
+ 
+Cosmetics
+
+8.5
+ 
+Power References
+
+8.6
+ 
+Memento Mori
+
+8.7
+ 
+Voice Actor
+
+8.8
+ 
+Voice-Lines
+
+8.9
+ 
+Voice-Line References
+
+8.9.1
+ 
+Regular Voice-Lines
+
+8.9.2
+ 
+Specific to Trevor
+
+8.9.3
+ 
+Specific to Alucard
+
+8.9.4
+ 
+Specific to Soma
+
+9
+ 
+Gallery
+
+9.1
+ 
+In-game Assets
+
+9.2
+ 
+Official Art
+
+9.3
+ 
+Outfits
+
+Overview
+
+The Dark Lord, Dracula
+, is the embodiment of darkness and tragedy.
+
+His personal Perks, 
+Hex: Wretched Fate
+, 
+Human Greed
+, and 
+Dominance
+, allow him to slow the Repair speed of the 
+Obsession
+, reveal the Auras of unopened 
+Chests
+ and nearby Survivors, and temporarily block 
+Chests
+ and 
+Totems
+.
+
+Lore
+
+Inconsolable grief metamorphosed into madness after the death of Dracula's beloved. He sought out the fabled Crimson Stone as a way to cheat death, but death trapped his soul inside the stone, granting him eternal life as a vampire. Vlad Tepes Dracula was now the Dark Lord. He slept by day and hunted in the eventide, seeking out the living and stealing their lifeblood. He built a castle in Romania shielded with sinister magic and turned many of the local villagers into the living dead. Dracula's Castle became a symbol of terror and despair. His power seemed unassailable and many perished trying to defeat him as he sowed endless chaos, suffering, and death.
+
+In 1476 Trevor Belmont of the Belmont Clan ended Dracula's reign with the Vampire Killer. But the undead never stay dead for long and Dracula was resurrected more than once over the centuries to continue his quest for revenge.
+
+Last resurrected in 1999, Dracula raised an army of the undead. It took another descendant of the Belmont Clan to defeat him: Julius Belmont. In the savage clash - known as the Battle of 1999, Julius Belmont took the fight to Dracula's Castle and battled the Dark Lord with the same enchanted whip his distant ancestors wielded. Most believe Dracula suffered a true death. A final death. But Dracula didn't die that night. As the Vampire Killer tore the flesh from his bones, a strange fog rolled across the ancient stone floor. Dracula felt the icy fingers of something or someone beckoning him. The Fog engulfed him and transported him to a place where he could continue his dark vengeance against humanity.
+
+The Archives
+
+The table below lists additional Lore about 
+The Dark Lord
+ from 
+The Archives
+, either from 
+Tomes
+ that featured him or from individual Lore entries that mentioned him:
+
+Tome
+
+Entry
+
+Type
+
+Tome 21 - Dominus
+
+Memory Fragments
+
+Featured Character
+
+Load-out
+
+Unique Perks
+
+The Dark Lord
+ comes with 
+3
+ 
+Perks
+ that are unique to him:
+
+ 
+
+Dominance
+
+This description is based on the changes announced for or featured in the upcoming Patch 10.2.0
+The power you wield over the land strikes terror in the hearts of all who cross your path.
+
+The first time each 
+Totem
+ are interacted with by a Survivor, 
+Dominance
+ triggers its effect:
+
+Calls upon The 
+Entity
+ to block it for 
+25 seconds
+.
+
+The 
+Aura
+ of the blocked Prop is revealed to you in 
+white
+.
+
+The Survivor screams.
+
+The Survivor's aura is revealed to you for 
+3
+/
+4
+/
+5
+ 
+seconds
+.
+
+"Tragic, is it not? How powerless you must feel." — Dracula
+
+ 
+
+Hex: Wretched Fate
+
+You see your victim from afar and resolve to prolong their suffering.
+
+After a 
+Generator
+ is completed, 
+Hex: Wretched Fate
+ activates and lights a random 
+Dull Totem
+, cursing the 
+Obsession
+:
+
+Reduces
+ their Repair speed by 
+27
+/
+30
+/
+33
+ 
+%
+.
+
+The 
+Aura
+ of the 
+Hex Totem
+ is revealed to them within 
+12 metres
+.
+
+"So toil, mortal, toil! Your effort will be for naught!" — Dracula
+
+ 
+
+Human Greed
+
+One can always rely on the avarice of the living and use it to one's advantage.
+
+Grants the ability to kick opened 
+Chests
+ and close them.
+
+The 
+Auras
+ of unopened 
+Chests
+ are revealed to you at all times.
+
+The Auras of Survivors coming within 
+8 metres
+ of unopened or closed 
+Chests
+ are revealed to you for 
+3
+/
+4
+/
+5
+ 
+seconds
+.
+
+Human Greed
+ has a cool-down of 
+10 seconds
+ on the ability to kick 
+Chests
+.
+
+"Come running, one and all, and see what fortune awaits you." — Dracula
+
+Prestige
+
+Prestiging 
+The Dark Lord
+ will automatically add 
+Tier I
+ of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Dark Lord
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: Pale Claws
+
+Pale Claws
+ are the Primary Weapon of 
+The Dark Lord
+.
+All he needed to make quick work of his prey were his bare hands.
+
+Power: Vampiric Shift
+
+"His dark power allows him to exact revenge on humans, taking many forms to terrorise and slaughter them."
+SPECIAL ABILITY: SHAPESHIFT
+The Dark Lord
+ has access to 
+3
+ 
+Forms
+ and can freely change between them.
+Each 
+Form
+ has unique abilities and strengths.
+
+Press and hold the 
+Secondary Action button
+ in any 
+Form
+ to initialise a 
+Shapeshift
+:
+
+Confirm a 
+Shapeshift
+ by pressing either the 
+Attack button
+ or the 
+Power button
+.
+
+Cancel a 
+Shapeshift
+ by releasing the 
+Secondary Power button
+.
+
+Has a cool-down of 
+3.5 seconds
+.
+
+Regardless of his current 
+Form
+, 
+The Dark Lord
+ is always able to interact with Props, temporarily shifting into a ghostly husk of his 
+Vampire Form
+ during the interaction, if necessary.
+SPECIAL SHAPE: VAMPIRE FORM
+The default 
+Form
+ of 
+The Dark Lord
+.
+
+Default Movement speed of 
+4.6 m/s
+.
+
+Grants the ability to cast the 
+Hellfire Spell
+.
+
+SPECIAL SHAPE: WOLF FORM
+This 
+Form
+ provides 
+The Dark Lord
+ with access to several abilities that allow for more effective tracking:
+
+Default Movement speed of 
+4.6 m/s
+.
+
+Increases
+ the visibility of 
+Pools of Blood
+ and 
+Scratch Marks
+.
+
+Causes Survivors to spawn 
+Scent Orbs
+:
+
+Spawn at a rate of 
+1 every 6 seconds
+.
+
+Have a Life time of 
+10 seconds
+.
+
+Have a limit of 
+5
+ existing at the same time.
+
+Their Auras are revealed to you within 
+12 metres
+.
+
+Collecting a 
+Scent Orb
+ has the following effects:
+
+Grants a 
++4.35 %
+ 
+Haste
+ 
+Status Effect
+ for 
+2.5 seconds
+, temporarily 
+increasing
+ his Movement speed to 
+4.8 m/s
+.
+
+Reduces
+ the Cool-down duration of the 
+Pounce Attack
+ by 
+-20 %
+.
+
+Triggers 
+Killer Instinct
+ for 
+2 seconds
+ on Survivors causing a 
+Loud Noise Notification
+.
+
+Grants access to the 
+Pounce Attack
+.
+
+SPECIAL SHAPE: BAT FORM
+This 
+Form
+ provides 
+The Dark Lord
+ with access to several abilities that allow for greater stealth and mobility:
+
+Faster Movement speed of 
+6.5 m/s
+.
+
+Removes the ability to attack or interact with Survivors.
+
+Grants the 
+Undetectable
+ 
+Status Effect
+:
+
+Survivors hear a 
+Lullaby
+ within 
+48 metres
+.
+
+Grants the ability to fly over any dropped 
+Pallet
+ or any 
+Window
+ and also to teleport to them within a certain range.
+
+Survivors are invisible while in this 
+Form
+, but still leave 
+Scratch Marks
+:
+
+Increases
+ the volume of their Footsteps by 
++50 %
+.
+
+SPECIAL ATTACK: HELLFIRE SPELL
+While in 
+Vampire Form
+, press and hold the 
+Power button
+ for 
+0.9 seconds
+ to charge the 
+Hellfire Spell
+.
+Releasing the 
+Power button
+ will cancel it.
+Press the 
+Attack button
+ when fully charged to release 
+8
+ 
+Pillars of Flame
+ that travel in a straight line from the 
+The Dark Lord
+ with a range of 
+10 metres
+.
+The 
+Pillars of Flame
+ can pass over low obstacles.
+
+The 
+Hellfire Spell
+ has a cool-down of 
+9.5 seconds
+.
+SPECIAL ATTACK: POUNCE
+While in 
+Wolf Form
+, press and hold the 
+Power button
+ for 
+0.9 seconds
+ to charge a 
+Pounce
+ attack that is automatically executed once fully charged:
+
+Causes 
+The Dark Lord
+ to pounce up to 
+2 times
+.
+
+A consecutive 
+Pounce
+ is cancelled if the previous one hit a Survivor or breakable object.
+
+Has a window of opportunity of 
+0.5 seconds
+ between 
+Pounces
+ to adjust his aim.
+
+Hitting a 
+Breakable Wall
+ or a dropped 
+Pallet
+ during a 
+Pounce
+ destroys them.
+
+The 
+Pounce
+ attack has a cool-down of 
+20 seconds
+.
+SPECIAL LOCOMOTION: TELEPORT
+While in 
+Bat Form
+, press and hold the 
+Power button
+ to ready a 
+Teleport
+.
+Press the 
+Attack button
+ while aiming at any dropped 
+Pallet
+ or any 
+Window
+ within 
+2 to 32 metres
+ to teleport to it, travelling at 
+12 m/s
+.
+
+The 
+Teleport
+ ability has a cool-down of 
+15 seconds
+.
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Walking after casting 
+Hellfire
+: 
+2 m/s
+
+Walking while shapeshifting out of 
+Bat Form
+: 
+2.3 m/s
+ (x0.5)
+
+Walking while charging 
+Hellfire
+: 
+3.68 m/s
+ (x0.8)
+
+Walking in 
+Wolf Form
+ while charging 
+Pounce
+: 
+3.91 m/s
+ (x0.85)
+
+Walking in 
+Vampire/Wolf Form
+: 
+4.6 m/s
+
+Walking in 
+Wolf Form
+ with 
+Scent Orb
+ bonus: 
+4.8 m/s
+ (x1.04348)
+
+Flying in 
+Bat Form
+: 
+6.5 m/s
+
+Teleporting in 
+Bat Form
+: 
+12 m/s
+
+Pouncing
+ (during the Open Phase): 
+13.34 m/s
+ (x2.9)
+
+Shapeshifting:
+
+Shapeshifting out of 
+Wolf Form
+ and 
+Vampire Form
+: 
+1 second
+
+Shapeshifting out of 
+Bat Form
+: 
+1.5 seconds
+
+Cool-down time: 
+3.5 seconds
+
+Vampire Form:
+
+Terror Radius: 
+32 metres
+
+Lullaby Radius: n/a
+
+Footstep Volume bonus: n/a
+
+Killer Instinct
+ duration: n/a
+
+Wolf Form:
+
+Terror Radius: 
+32 metres
+
+Lullaby Radius: n/a
+
+Footstep Volume bonus: n/a
+
+Killer Instinct
+ duration: 
+2 seconds
+
+Bat Form:
+
+While Survivors are invisible in this 
+Form
+, 
+Static Illusions
+ created by Perks such as 
+Mirrored Illusion
+ remain visible, immediately betraying their trickery nature.
+
+Terror Radius: n/a (
+Undetectable
+ Status Effect
+)
+
+Lullaby Radius: 
+48 metres
+
+Footstep Volume bonus: 
++50 %
+
+This refers to the volume of Footsteps from nearby Survivors.
+
+Killer Instinct
+ duration: n/a
+
+Friction coefficient: 
+2.2
+
+This affects the sliding motion off of environmental objects, higher friction reduces sliding and makes it easier to navigate when changing direction.
+
+Hellfire Attack:
+
+Charge time: 
+0.9 seconds
+
+Cast duration: 
+2.35 seconds
+
+How long the attack itself lasts.
+
+Cancel Cool-down time: 
+1.5 seconds
+
+Recharge duration: 
+9.5 seconds
+
+The 
+Spell
+ immediately begins recharging once the Player presses the 
+Attack button
+ to unleash the 
+Spell
+.
+It does not wait until after the 
+Spell
+ is cast.
+
+Range: 
+10 metres
+
+Movement-Speed-Recovery time: 
+2.35 seconds
+
+This refers to how long it takes 
+The Dark Lord
+ to regain his full Movement speed after casting the attack.
+
+Hellfire Pillars:
+
+Spawn number: 
+8
+
+Attack phases:
+
+Spawning: 
+0.3 seconds
+
+Erupting: 
+0.4 seconds
+
+Vanishing: 
+0.4 seconds
+
+Height: 
+2.5 metres
+
+Vertical offset: 
+-0.5 metres
+
+This means that the Pillars are sunk slightly into the ground.
+
+Scent Orbs:
+
+Spawn rate: 
+1 every 6 seconds
+
+Spawn limit: 
+5
+
+Lifetime: 
+10 seconds
+
+Cool-down reduction on the 
+Pounce Attack
+: 
+-20 %
+ per Orb
+
+Haste
+ strength: 
++4.35 %
+
+This increases his Movement speed to 
+4.8 m/s
+.
+
+Haste
+ duration: 
+2.5 seconds
+
+Aura range: 
+12 metres
+
+Pounce:
+
+Charge time: 
+0.9 second
+
+Adjustment duration: 
+0.5 second
+
+This is the window of opportunity following the first 
+Pounce
+ during which the Player can adjust their aim before the second 
+Pounce
+ follows.
+
+Recharge duration: 
+20 seconds
+
+Range: 
+6 metres
+
+Attack Open Phase duration: 
+0.5 seconds
+
+Hitting Phase duration: 
+2.25 seconds
+
+Cool-down durations:
+
+Missed or obstructed hit: 
+2.25 seconds
+
+Successful hit: 
+2.7 seconds
+
+Teleport:
+
+Teleportation ranges:
+
+Minimum: 
+2 metres
+
+Maximum: 
+32 metres
+
+Movement speed: 
+12 m/s
+
+Recharge duration: 
+15 seconds
+
+Add-ons for Vampiric Shift
+
+Icon
+
+Name
+
+Description
+
+Cerberus Talon
+
+"A sharp memento from one of Dracula's most terrifying guards."
+
+Modifies the 
+Scent Orbs
+ with the following effect:
+
+Increases
+ their Aura-Reveal distance by 
++100 %
+.
+
+Clock Tower Gear
+
+"A piece of the great clock tower, a reminder of the inevitability of time itself."
+
+Modifies the 
+Shapeshift
+ ability with the following effect:
+
+Reduces
+ its Cool-down time by 
+-5 %
+.
+
+Ruby Circlet
+
+"An enchanted headpiece that brings even the mightiest of flames to heel."
+
+Modifies the 
+Hellfire
+ attack with the following effect:
+
+Reduces
+ its Cool-down duration by 
+-5 %
+.
+
+Traveller's Hat
+
+"A wide-brimmed hat that once belonged to a well-travelled man."
+
+Modifies the 
+Shapeshift
+ ability with the following effect:
+
+Reduces
+ the Transition time between 
+Forms
+ by 
+-5 %
+.
+
+Blood-Filled Goblet
+
+"The blood of his victims sustains him and makes him an even greater hunter."
+
+Modifies the 
+Scent Orbs
+ with the following effect:
+
+Extends
+ their Lifetime by 
++60 %
+.
+
+Magical Ticket
+
+"A strange artifact once used to transport across Dracula's castle."
+
+Modifies the 
+Teleport
+ ability with the following effect:
+
+Increases
+ the Teleporation speed by 
++10 %
+.
+
+Moonstone Necklace
+
+"A simple necklace by day, but its power comes to life in the dark."
+
+Modifies the 
+Vampire Form
+ and the 
+Wolf Form
+ with the following effect:
+
+Reduces
+ the 
+Terror Radius
+ by 
+-8 metres
+.
+
+White Wolf Medallion
+
+"A trinket once used to call a great spirit guide."
+
+Modifies 
+Wolf Form
+ with the following effect:
+
+Increases
+ its 
+Killer Instinct
+ duration by 
++1 second
+.
+
+Winged Boots
+
+"Long used by their wearers to move quickly."
+
+Modifies the 
+Teleport
+ ability with the following effect:
+
+Increases
+ its Teleportation range by 
++20 %
+.
+
+Force of Echo
+
+"An artifact that grants bats even greater senses in the dark."
+
+Modifies the 
+Scent Orbs
+ with the following effect:
+
+Increases
+ their Spawn rate by 
++10 %
+.
+
+Killer Doll
+
+"One of Dracula's minions, and a reminder that all are his playthings."
+
+Modifies the 
+Pounce
+ attack with the following effect:
+
+Increases
+ the Cool-down bonus from collecting 
+Scent Orbs
+ by 
++30 %
+.
+
+Pocket Watch
+
+"A tool that bends the rules of time itself."
+
+Modifies the 
+Teleport
+ ability with the following effect:
+
+Instantly recharges it after breaking a 
+Pallet
+.
+
+Sunglasses
+
+"They protect against bright lights, in addition to looking cool."
+
+Modifies the 
+Hellfire
+ attack with the following effects:
+
+Increases
+ the number of 
+Pillars of Flame
+ by 
+1
+.
+
+Increases
+ its Charge time by 
++25 %
+.
+
+Sylph Feather
+
+"An enchanted feather that grants its holder great agility."
+
+Whenever you break a 
+Pallet
+, 
+Sylph Feather
+ gains 
++1 Token
+, up to a maximum of 
+5 Tokens
+:
+
+Reduces
+ the Cool-down duration of the 
+Hellfire
+ attack by a stack-able 
+-5 %
+ per Token, up to a limit of 
+-25 %
+.
+
+Cube of Zoe
+
+"A strange box whose presence creates something from nothing."
+
+Whenever a 
+Generator
+ is completed, 
+Cube of Zoe
+ triggers its effect for 
+10 seconds
+:
+
+Causes the immediate area around 
+The Dark Lord
+ to continuously spawn 
+Pillars of Flame
+.
+
+Lapis Lazuli
+
+"A stone said to bring luck to its holders, or take it from their enemies."
+
+After teleporting to a 
+Window
+, 
+Lapis Lazuli
+ triggers its effect:
+
+Calls upon The 
+Entity
+ to block it to all Survivors for 
+8 seconds
+.
+
+Medusa's Hair
+
+"A snakelike memento from one of Dracula's most ancient and fearsome minions."
+
+Causes all Survivors within 
+8 metres
+ of your Teleport destination to suffer from the following effect:
+
+Inflicts a 
+-8 %
+ 
+Hindered
+ 
+Status Effect
+ for 
+4 seconds
+.
+
+Warg's Fang
+
+"A mighty tool of destruction taken from one of Dracula's most dangerous allies."
+
+While in 
+Wolf Form
+ , whenever the 
+Pounce
+ attack becomes available, you benefit from the following effect:
+
+The 
+Auras
+ of all Survivors whose 
+Scent Orbs
+ you have collected are revealed to you for 
+5 seconds
+.
+
+Alucard's Shield
+
+"A family heirloom that blocks its bearer's enemies at every turn."
+
+Whenever an 
+Exit Gate
+ is opened, 
+Alucard's Shield
+ triggers its effect:
+
+Causes the area inside the 
+Exit Gate
+ to continuously spawn 
+Pillars of Flame
+.
+
+"Oh, but this world invited me. Your own kind called me forth with praise and tribute." — Dracula
+
+Iridescent Ring of Vlad
+
+"A unique relic belonging to Dracula. It is said none can approach the Dark Lord without it."
+
+Modifies the 
+Hellfire
+ attack with the following effect:
+
+Causes the 
+Pillars of Flame
+ to home-in on nearby Survivors.
+
+"Enough talk... have at you!" — Dracula
+
+Innate Skill
+
+Used exclusively in 
+2v8
+ Trials, the 
+Innate Skill
+ modifies the 
+Vampiric Shift
+ with the following effects:
+
+Innate Skill
+ (
+Dark Lord Passive
+) 
+
+Modifies 
+Vampiric Shift
+ with the following effects:
+
+Reduces
+ the Cool-down rate of the 
+Shapeshift
+ ability by 
+-10 %
+.
+
+In 
+Vampire Form
+:
+
+Reduces
+ the Cool-down rate of 
+Hellfire
+ by 
+-10 %
+.
+
+In 
+Wolf Form
+:
+
+Increases
+ the number of 
+Pounces
+ to 
+3
+.
+
+In 
+Bat Form
+:
+
+Increases
+ the maximum range of the 
+Teleport
+ ability by 
++20 metres
+.
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There are 
+2
+ Achievements related to 
+The Dark Lord
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Dark Lord
+
+Playing as The 
+Dark Lord
+, achieve a 
+Merciless Victory
+ using only his 
+3
+ Unique Perks: 
+Hex: Wretched Fate
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+You see your victim from afar and resolve to prolong their suffering.
+
+After a 
+Generator
+ is completed, 
+Hex: Wretched Fate
+ activates and lights a random 
+Dull Totem
+, cursing the 
+Obsession
+:
+
+Reduces
+ their Repair speed by 
+27
+/
+30
+/
+33
+ 
+%
+.
+
+The 
+Aura
+ of the 
+Hex Totem
+ is revealed to them within 
+12 metres
+.
+
+"So toil, mortal, toil! Your effort will be for naught!" — Dracula
+
+, 
+Human Greed
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+One can always rely on the avarice of the living and use it to one's advantage.
+
+Grants the ability to kick opened 
+Chests
+ and close them.
+
+The 
+Auras
+ of unopened 
+Chests
+ are revealed to you at all times.
+
+The Auras of Survivors coming within 
+8 metres
+ of unopened or closed 
+Chests
+ are revealed to you for 
+3
+/
+4
+/
+5
+ 
+seconds
+.
+
+Human Greed
+ has a cool-down of 
+10 seconds
+ on the ability to kick 
+Chests
+.
+
+"Come running, one and all, and see what fortune awaits you." — Dracula
+
+, and 
+Dominance
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+This description is based on the changes announced for or featured in the upcoming Patch 10.2.0
+The power you wield over the land strikes terror in the hearts of all who cross your path.
+
+The first time each 
+Totem
+ are interacted with by a Survivor, 
+Dominance
+ triggers its effect:
+
+Calls upon The 
+Entity
+ to block it for 
+25 seconds
+.
+
+The 
+Aura
+ of the blocked Prop is revealed to you in 
+white
+.
+
+The Survivor screams.
+
+The Survivor's aura is revealed to you for 
+3
+/
+4
+/
+5
+ 
+seconds
+.
+
+"Tragic, is it not? How powerless you must feel." — Dracula
+
+.
+
+Symphony of Fire
+
+Playing as The 
+Dark Lord
+, damage Survivors using the 
+Hellfire Spell
+ a total of 
+20 times
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Dark Lord
+:
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+The Dark Lord
+
+Common
+
+A cruel and arrogant vampire who renounced his humanity centuries ago.
+
+Crimson Cape
+
+Common
+
+He draped himself in only the finest of materials, fit for undying nobility.
+
+Pale Claws
+
+Common
+
+All he needed to make quick work of his prey were his bare hands.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Bloody Dark Lord
+
+Rare
+
+A ruthless and foul vampire who spent centuries feasting on the blood of his victims.
+
+Blood-streaked Cape
+
+Rare
+
+He killed in cold blood while wearing only the finest on materials.
+
+Grisly Claws
+
+Rare
+
+All he needed to eviscerate his prey was his cold, dead hands.
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+A cruel and arrogant vampire who renounced his humanity centuries ago.
+
+ Rift
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+True Form
+
+Castlevania
+
+Tome 21 - Dominus
+
+26 August 2025 (Tuesday)
+
+Description
+
+The fight was in his favor. He summoned lightning overhead to deliver the fatal blow as black fog surrounded him.
+
+1755
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Demonic Might
+
+Castlevania
+
+70
+
+He only assumed this form as a last resort, when there was no longer a reason to restrain his dominance.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Menacing Eye
+
+Castlevania
+
+70
+
+It stared at its victim, unmoved, unerring, a symbol of its master's absolute authority.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Full Circle
+
+Castlevania
+
+70
+
+His victory had been cruelly interrupted. He stormed through this new realm, hungry for another fight.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+True Form (Deep Rift)
+
+Deep Rift
+
+Tome 21 - Dominus
+
+12 June 2018 (Tuesday)
+
+Description
+
+The fight was all but over. He sought to prolong his victim's suffering when the black fog swarmed around him.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Demonic Might (Deep Rift)
+
+Deep Rift
+
+79
+
+He assumed this form as a testament to his might, his centuries-old oath of absolute evil.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Menacing Eye (Deep Rift)
+
+Deep Rift
+
+79
+
+It never wavered, its unflinching gaze a symbol of its master's unyielding rule over all that he saw.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Full Circle (Deep Rift)
+
+Deep Rift
+
+79
+
+His fury drove him to victory, and he stormed through the realm to satiate his craving.
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Scorched Terror
+
+Castlevania
+
+06 November 2025 (Thursday)
+
+Description
+
+He knew he would never feel the sun's warmth again, lest he burn from its wrath.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Burning Rage
+
+Castlevania
+
+Were he to turn his face to the rising sun, he would pay the price immediately.
+
+Piece
+
+Name
+
+Collection
+
+Smouldering Cape
+
+Castlevania
+
+Even his clothes would spark and smoke beneath the merciless sun.
+
+Piece
+
+Name
+
+Collection
+
+Hand of Death
+
+Castlevania
+
+His skin would blister and burn away. The will to survive would be all-consuming.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Chronicle of Terror
+
+Castlevania
+
+27 August 2024 (Tuesday)
+
+Description
+
+His resurrection shattered the peace that had returned to Transylvania in his absence.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Undying Count
+
+Castlevania
+
+One hundred years after his last defeat at the hands of the Belmont clan, he sought to even the score.
+
+Piece
+
+Name
+
+Collection
+
+Prince of Darkness
+
+Castlevania
+
+His Castle emerged from the depths, and he returned to his rightful home to await the young Simon Belmont.
+
+Piece
+
+Name
+
+Collection
+
+Jeweled Hands
+
+Castlevania
+
+His hatred for humanity burned bright as darkness and despair returned to the land.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Darkness Reigns
+
+Castlevania
+
+27 August 2024 (Tuesday)
+
+Description
+
+Revived by a devoted servant, he thirsted for blood like never before. He would need many victims to satisfy his craving.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Unsealed Count
+
+Castlevania
+
+Two young women stood out among the prisoners. He understood their connection to the bloodline he sought to end.
+
+Piece
+
+Name
+
+Collection
+
+Ancient Cruelty
+
+Castlevania
+
+He kept the young women in his Castle, an invitation for Richter Belmont to face him in combat.
+
+Piece
+
+Name
+
+Collection
+
+Refined Nobility
+
+Castlevania
+
+Defeat no longer concerned him, for he knew he would always return to plunge the world in darkness.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+True Form
+
+Castlevania
+
+Tome 21 - Dominus
+
+26 August 2025 (Tuesday)
+
+Description
+
+The fight was in his favor. He summoned lightning overhead to deliver the fatal blow as black fog surrounded him.
+
+1755
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Demonic Might
+
+Castlevania
+
+70
+
+He only assumed this form as a last resort, when there was no longer a reason to restrain his dominance.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Menacing Eye
+
+Castlevania
+
+70
+
+It stared at its victim, unmoved, unerring, a symbol of its master's absolute authority.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Full Circle
+
+Castlevania
+
+70
+
+His victory had been cruelly interrupted. He stormed through this new realm, hungry for another fight.
+
+Alternate Character Models
+
+The 
+Dark Lord
+ has 
+1
+ alternate Character model available in the in-game Store:
+
+True Form
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Dark Lord
+ is part of 
+1
+ DLC:
+
+Castlevania
+
+Change Log
+
+Patch 8.2.2
+Patch 8.4.0
+Patch 9.2.0
+Patch 8.2.2
+
+Buff
+: increased the Flying speed in 
+Bat Form
+ from 
+6.0 m/s
+ to 
+6.5 m/s
+.
+
+Buff
+: increased the Teleportation speed in 
+Bat Form
+ from 
+10.0 m/s
+ to 
+12.0 m/s
+.
+
+Buff
+: reduced the Cooldown time of the 
+Shapeshift
+ ability from 
+5 seconds
+ to 
+2.5 seconds
+.
+Patch 8.4.0
+
+Buff
+: increased the Spawn rate of 
+Scent Orbs
+ from 
+1 every 6 seconds
+ to 
+1 every 5 seconds
+.
+
+Buff
+: reduced the Charge time of the 
+Pounce
+ attack from 
+1 second
+ to 
+0.85 seconds
+.
+
+Nerf
+: increased the Cool-down time of the 
+Shapeshift
+ ability from 
+2.5 seconds
+ to 
+3.5 seconds
+.
+
+Nerf
+: increased the Cool-down time of the 
+Hellfire
+ attack from 
+7 seconds
+ to 
+10 seconds
+.
+Patch 9.2.0
+
+Buff
+: reduced the Cool-down time of the 
+Hellfire
+ attack from 
+10 seconds
+ to 
+9.5 seconds
+.
+
+Buff
+: increased the number of 
+Hellfire
+ pillars from 
+7
+ to 
+8
+.
+
+Buff
+: increased the Attack range from 
+8 metres
+ to 
+10 metres
+.
+
+Quality of Life
+: increased the Friction coefficient while flying in 
+Bat Form
+ to reduce sliding motion from 
+1.6
+ to 
+2.2
+.
+
+Reversal
+: reduced the Spawn rate of 
+Scent Orbs
+ from 
+1 every 5 seconds
+ back to 
+1 every 6 seconds
+.
+
+Nerf
+: reduced the Movement speed while charging 
+Hellfire
+ from 
+3.8 m/s
+ to 
+3.68 m/s
+.
+
+Nerf
+: increased the Movement-Speed-Recovery time after casting 
+Hellfire
+ from 
+2.25 seconds
+ to 
+2.35 seconds
+.
+
+Nerf
+: increased the Charge time of the 
+Pounce
+ attack from 
+0.85 second
+ to 
+0.9 seconds
+.
+
+Trivia
+
+General
+
+The file name of the icon that used to pop up as a tooltip during the loading screen for the first few times a Player encountered 
+The Dark Lord
+ suggests that he could have been named 
+The Shapeshift
+ at an earlier point in development.
+
+The Dark Lord
+ is only the third Killer since The 
+Nurse
+ who floats and glides across the floor instead of walking, given that he is in his 
+Vampire Form
+.
+
+In a similar manner to her using telekinesis to interact with Props, 
+The Dark Lord
+ uses pyrokinesis instead of his own hands.
+
+The Developers did not want 
+The Dark Lord
+ to use his legs to vault through 
+Windows
+ as that would be "beneath him" and for "lowly humans" only, prompting them to create the misty husk form with which he phases through them.
+
+The Design of 
+Dead by Daylight's
+ 
+Dracula
+ originates from the 1997 Action RPG 
+Castlevania: Symphony of the Night
+, though his origin game is the original 1986 Action-Platform game 
+Castlevania
+.
+
+The Dark Lord
+ is the first Killer to have miniature power icons next to his power icon which are used for "ability readying" and "ability casting" as well as Vampire, Wolf, and Bat icons when readying Transform.
+
+In addition, 
+The Dark Lord
+ has even smaller icons for ability cooldown when not transformed into the form that uses that ability.
+
+The Dark Lord
+ is the second Killer to use a third-person camera since The 
+Good Guy
+.
+
+However, 
+The Dark Lord
+ only uses it in 
+Wolf Form
+ or 
+Bat Form
+, with his default 
+Vampire Form
+ using the regular first-person camera for Killers.
+
+The Dark Lord
+ alongside The 
+Executioner
+ is the fifth licensed killer to join 2v8, with its fifth iteration being based on both the 
+Silent Hill
+ and 
+Castlevania
+ chapters.
+
+Castle Easter Egg
+
+Trials with 
+The Dark Lord
+ can feature 
+Dracula's Castle
+ as a visual Easter Egg.
+
+The 
+Castle
+ looms over the Trial Grounds, situated on an inaccessible floating island beyond the border walls of the Map.
+
+The 
+Castle
+ is present in all Trials that take place on an original Map that is not associated with another license.
+Trials occurring on the latter do not feature the 
+Castle
+.
+
+Chase Theme
+
+The Chase Theme of 
+The Dark Lord
+ references his boss fight theme 
+"Nothing to Lose"
+ from the original NES version of 
+Castlevania (1987)
+.
+
+Cosmetics
+
+Almost all of 
+The Dark Lord
+ 's skins are taken from his appearances through 
+Castlevania
+.
+
+Default Outfit
+ is taken from his appearance from 
+Castlevania: Symphony of the Night
+.
+
+Darkness Reigns
+ is taken from his appearance from 
+Castlevania: Dracula X
+ the Super Nintendo Entertaintment System (SNES) reimagining of 
+Rondo of Blood
+.
+
+This skin mentions the events of 
+Dracula X/Rondo of Blood
+ and 
+Richter Belmont
+.
+
+Chronicle of Terror
+ is taken from the remake of the first Castlevania game 
+Castlevania Chronicles
+.
+
+This outfit references 
+Simon Belmont
+.
+
+True Form
+ is taken from his final boss form from 
+Castlevania: Circle of the Moon
+.
+
+This was the first Visceral featured in 
+The Rift
+ and also the first one to have a recoloured 
+Deep Rift
+ version.
+
+Power References
+
+A good part of 
+Vampiric Shift
+ references moves 
+Dracula
+ performs during boss fights in various other media that he is a part of:
+
+The 
+Hellfire Spell
+ is used in the boss fight between 
+Dracula
+ and 
+Trevor Belmont
+ in 
+Castlevania III: Dracula's Curse (1989)
+ and a move in his first phase in 
+Super Smash Bros. Ultimate (2018)
+.
+
+The 
+Wolf Form
+ references a move in 
+Dracula's
+ third phase in the video game 
+Castlevania: The Dracula X Chronicles (2007)
+.
+
+The 
+Bat Form
+ references 
+Dracula's
+ many uses of it as a teleportation ability, though it is most reminiscent of the one featured in the 1987 arcade game 
+Haunted Castle
+, the second installment of 
+Castlevania
+ arcade games.
+
+Memento Mori
+
+The 
+Memento Mori
+ references a scene from 
+Castlevania: Symphony of the Night
+ in which 
+Dracula
+, sitting on his throne, throws and destroys his glass while saying the infamous line: 
+"What is a man? A miserable little pile of secrets."
+
+Voice Actor
+
+The Dark Lord
+ is voiced by 
+Crispin Freeman
+, a Californian voice actor who has voiced several Characters in the 
+Castlevania
+ franchise, including 
+Dracula/Mathias Cronqvist
+, and 
+Hector
+.
+
+Voice-Lines
+
+The Dark Lord
+ is the eighth Killer to actively speak during Trials.
+
+As his archnemesis, 
+The Dark Lord
+ has several voice-lines specific to encounters with 
+Trevor Belmont
+, both in the Lobby and during the Trial.
+
+Voice-Line References
+
+The Dark Lord
+ has several unique voice-lines for when his nemesis, 
+Trevor Belmont
+, his son, 
+Alucard
+, and his reincarnation, 
+Soma Cruz
+, join the lobby, as well as when he kills them with 
+Memento Mori
+ or when he finds them hiding inside a 
+Locker
+, the most of any Killer that has special voice-lines for specific Survivors.
+
+Towards 
+Trevor
+, it is clear that 
+The Dark Lord
+ harbours but ill feelings and disdain, whereas towards 
+Alucard
+, he expresses regret and loss, but also disappointment. With 
+Soma
+, he expresses bewilderment, curiosity, and disdain.
+
+Several of his lines directed to 
+Soma
+ directly reference his nature as Dracula's reincarnation, with the line 
+"You thought you could eclipse me... now die!"
+ referencing the eclipse that begins the events of 
+Aria of Sorrow (2003)
+
+Several of 
+The Dark Lord's
+ voice-lines reference voice-lines from other 
+Castlevania
+ games, specifically 
+Symphony of the Night (1997)
+, 
+Rondo of Blood (1993)
+ and 
+Curse of Darkness (2005)
+.
+
+Regular Voice-Lines
+
+Voice Line
+
+Audio
+
+Hooking a Survivor.
+
+"What an emotional display."
+
+"Destiny can be quite fun at times."
+
+"I have waited for this moment."
+
+"Don’t be overdramatic."
+
+"Fascinating..."
+
+"Stop with the theatrics."
+
+"Try not to bleed out too quickly."
+
+"Escape is impossible."
+
+"Die, already."
+
+"Don’t even try to escape."
+
+Selecting him as the active Killer.
+
+"The powerful always judge the weak."
+
+"I am the Lord of Darkness!"
+
+"The humans made their judgment of me. Thus I sentenced them to extinction."
+
+"Destiny can be quite fun at times."
+
+"What is a man? A miserable little pile of secrets."
+
+"I am a creature of the night."
+
+"Humanity is a plague that must be eradicated."
+
+"My immortal soul is bound to the dark embrace of eternity."
+
+"What a dark and wonderous place."
+
+"This is… vampire heaven."
+
+Loading into the Trial.
+
+"I am the fury, your hate, your vengeance!"
+
+"I will have my vengeance!"
+
+"I will feast on blood this night!"
+
+"The true Lord of Darkness is upon you!"
+
+"My prey awaits."
+
+"I smell blood!"
+
+"The end is nigh!"
+
+"Destiny, be done."
+
+Killing a Survivor by his own hand.
+
+"Insufferable little wretch!"
+
+"Puny worm!"
+
+"Amusing."
+
+"Impeccable timing."
+
+"Endless darkness awaits!"
+
+"Your existence is but a fleeting flame."
+
+"Die, human!"
+
+"Die, monster!"
+
+"Destiny calls!"
+
+"Farewell, pathetic human."
+
+Getting stunned.
+
+"Better run, you fool!"
+
+"You’re just making me angry!"
+
+"You can't stop me!"
+
+"Futile attempt!"
+
+Specific to Trevor
+
+Voice Line
+
+Audio
+
+Finding 
+Trevor
+ hiding in a 
+Locker
+.
+
+"Trevor!"
+
+"Ahh! I did smell a Belmont!"
+
+"Trevor! You pathetic worm!"
+
+Hooking 
+Trevor
+.
+
+No one’s coming for you, Trevor."
+
+"You should have stayed retired."
+
+Seeing 
+Trevor
+ in his Lobby.
+
+"We shall meet again, blood of Belmont!"
+
+"I've been waiting for you."
+
+"I will enjoy destroying you."
+
+"You... I remember..."
+
+"Belmont."
+
+"I will give you a proper welcome."
+
+"I smell the blood of a Belmont."
+
+"We meet again, blood of Belmont."
+
+"You will suffer, blood of Belmont."
+
+"A Belmont… of course."
+
+"Once again… a Belmont!"
+
+"Prepare to suffer, blood of Belmont."
+
+"Trevor!"
+
+"Trevor... I’ll crush him like a maggot."
+
+"Trevor Belmont… you’ll never see your family again."
+
+"You’ll scream for death, Trevor Belmont."
+
+"Trevor Belmont… I’ll have your head on a hook!"
+
+"Trevor Belmont… too good to be true."
+
+"Trevor Belmont… This I will enjoy."
+
+Killing 
+Trevor
+ by his own hand.
+
+"Die, Belmont!"
+
+"Die, Trevor!"
+
+"Now you suffer, Trevor Belmont!"
+
+Specific to Alucard
+
+Voice Line
+
+Audio
+
+Finding 
+Alucard
+ hiding in a 
+Locker
+.
+
+"Alucard!"
+
+"I thought I smelled my own blood!"
+
+"What a disappointment you are!"
+
+Hooking 
+Alucard
+.
+
+"Alucard, you fool"
+
+"Don’t scream, son, it’s embarrassing"
+
+"It didn’t have to be this way."
+
+Seeing 
+Alucard
+ in his Lobby.
+
+"My son. It's been a long time."
+
+"Lisa, forgive me."
+
+"You side against me…"
+
+"My son. Choose your friends wisely."
+
+"Alucard… my son. You will not be spared."
+
+"My son… you will pay for going against me."
+
+"Alucard."
+
+"Alucard… my son…"
+
+Killing 
+Alucard
+ by his own hand.
+
+"You were always weak"
+
+"Your compassion for humans is what killed you"
+
+"Farewell, my son."
+
+Specific to Soma
+
+Voice Line
+
+Audio
+
+Finding 
+Soma
+ hiding in a 
+Locker
+.
+
+"Soma!"
+
+"Ahaha, the student!"
+
+"Mr. Cruz! Come with me."
+
+Hooking 
+Soma
+.
+
+"No one's coming for you, Soma."
+
+"Soma, you pathetic human!"
+
+"Wrong place, wrong time."
+
+Seeing 
+Soma
+ in his Lobby.
+
+"Soma..."
+
+"Soma... Destiny has a sense of humor."
+
+"Soma? Ohohoho..."
+
+"Soma... I will crush you first."
+
+Killing 
+Soma
+ by his own hand.
+
+"Farewell, Soma!"
+
+"You thought you could eclipse me... now die!"
+
+"Soma... you pathetic human!"
+
+Gallery
+
+In-game Assets
+
+The Dark Lord
+
+The Dark Lord (Portrait render)
+
+The Dark Lord (Background image)
+
+Official Art
+
+Promo Artwork for 
+The Dark Lord
+
+Outfits
+
+Chronicle of Terror Outfit
+
+Darkness Reigns Outfit
+
+Scorched Terror Outfit
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

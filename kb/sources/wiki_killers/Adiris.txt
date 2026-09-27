@@ -1,0 +1,4768 @@
+# Adiris
+Source: https://deadbydaylight.wiki.gg/wiki/Adiris (page complète via API, consultée le 27/09/2026)
+
+The Plague
+
+Name
+
+Adiris
+
+Game Alias(es)
+
+"High Priestess of Babylon"
+
+Gender
+
+Woman
+
+Origin
+
+Babylonian (Ancient Mesopotamia)
+
+Realm
+
+Red Forest
+
+Power
+
+Vile Purge
+
+Power 
+Attack
+ Type
+
+Special Attack
+
+(Corrupt Purge)
+
+Weapon
+
+Profane Censer
+
+Movement Speed
+
+115 % 
+|
+ 4.6 m/s
+
+Terror Radius
+
+32 metres
+
+Height 
+
+Tall
+
+DLC
+
+Demise of the Faithful
+
+Voice Actor
+
+Undisclosed Voice Actress
+
+Cost
+
+4,500 
+Iridescent Shards
+
+250 
+Auric Cells
+
+Breathing
+
+Menu Music
+
+Metadata
+
+CharID
+
+K15
+
+Adiris
+ or 
+"The Plague"
+ is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+She was introduced as the Killer of 
+Demise of the Faithful
+, a Chapter DLC released on 19 March 2019 and retired on 8 January 2024.
+
+She is still available in the 
+In-Game Store
+ and as part of the 
+Old Wounds Pack
+ Chapter Pack DLC.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+2.1
+ 
+The Archives
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: Profane Censer
+
+3.3
+ 
+Power: Vile Purge
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for Vile Purge
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Base Cosmetics
+
+5.1.1
+ 
+Default
+
+5.1.2
+ 
+Prestige
+
+5.1.2.1
+ 
+Perk Charms
+
+5.1.2.2
+ 
+Prestige Badges
+
+5.2
+ 
+Alternatives
+
+5.2.1
+ 
+Special
+
+5.2.2
+ 
+Event
+
+5.3
+ 
+Rift
+
+5.4
+ 
+In-Game Store
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+General
+
+8.2
+ 
+Development
+
+8.3
+ 
+Lore
+
+8.4
+ 
+Memento Mori
+
+9
+ 
+Video
+
+10
+ 
+Gallery
+
+10.1
+ 
+In-game Assets
+
+10.2
+ 
+Official Art
+
+10.3
+ 
+Outfits
+
+10.4
+ 
+Old Assets
+
+10.5
+ 
+Concept Art
+
+11
+ 
+References
+
+Overview
+
+Traditional healing methods are ineffective against The Plague’s vile Purge, which can infect generators and Survivors. Pools of Devotion are the only respite from the spreading pestilence. The more Survivors heal, the stronger The Plague’s power becomes, transforming her Purge into a sickening projectile of pain.
+
+The Plague
+ is a devout Killer, able to infect Survivors from a short distance using her Power, 
+Vile Purge
+. Survivors inflicted by this contamination risk becoming injured or broken, unless they find a way to cure themselves in a 
+Pool of Devotion
+.
+
+Her personal Perks, 
+Corrupt Intervention
+, 
+Infectious Fright
+, and 
+Dark Devotion
+, give her the ability to hinder Survivor objectives, while simultaneously confusing and frightening those within her presence.
+
+Lore
+
+When she was five years old, Adiris, the youngest of a family of seven, was left on the brick-red burning steps of the Temple of Purgation at the centre of Babylon. To process her shock and sorrow, she held onto the belief that the Gods had a plan for her. Her new life was one of quiet servitude. She would tend to the gardens, prepare ceremonial meals, and polish ceremonial incense burners. At night, she would pray for a sign that would reveal her purpose.
+
+When she came of age, she attended the high-ranking priests during the yearly worshipping of the sea-goat, the God of Water and Creation. Swinging a censer down the great hypo-style hall, she cast thick black fumes that reached the cold towering stone pillars before dissipating. Her worries lifted, and the resulting bliss made her feel closer to the Gods than ever. She worked herself to the bone each day that followed, fulfilling her duties while taking on new ones, as she aided the priests during purification rituals.
+
+The priests were more and more in need of assistance. Cleansings were being performed daily to answer the demand from outside the high temple walls, where a catastrophic plague had resurfaced. Within months, the priests contracted the disease. It did not take long before they became too weak to perform any kind of ritual. Adiris, having assisted many purification rituals, was the only one able to carry on. The swelling panic had to be contained, even if by a novice.
+
+Anxious before her first ceremony, Adiris visited the priests' sanctuary chamber. When she lit the candles, she noticed a narrow opening at the back. Sliding through the gap, she reached a crypt hidden under the sanctuary. The chamber was bare except for the golden statue of a woman, who stood with outstretched hands, her fingers covered in jewels. It was the sign Adiris had been waiting for.
+
+The great hall was packed with followers who bowed down as Adiris entered. She strode to the brick altar and grabbed a ceremonial dagger forged in silver, her ruby ringed fingers wrapping around the blade like claws. The sudden display of luxury intrigued the followers, who were struck already by her youth and beauty.
+
+As she began reciting the Epic of Creation, a woman at the back swooned and collapsed. Adiris rushed to her and noticed the black blisters covering her feet. Without hesitation, Adiris grabbed her sacred blade and swung it at her own foot, severing a toe. Then she offered the bloody part to the Gods, asking them to protect the woman. A silence fell over the followers, who revered Adiris as their new priestess.
+
+Tales of her wealth, beauty, and devotion began to spread across the city as quickly as the disease. Soon, Adiris' followers called her the High Priestess of Babylon.
+
+But her faith was tried when she showed the first signs of infection; her cough became a mix of phlegm and blood, her neck erupted in abscesses, and her four-toed foot darkened. Ashamed of her condition, she began wearing a veiled headpiece and carried a censer that masked the rancid smell of sick that clang to her skin. Hoping to be saved, she kept performing the rituals, offering blessed water and food to her followers.
+
+But no ritual could save her. In a desperate attempt to appease the Gods, Adiris banished herself from the city. She traveled north with a few followers, venturing through the cold woodlands of Urashtu, until it was no longer possible to walk.
+
+They camped in a damp cave, where Adiris lay in a pool of vomit. Her foot, which had turned black, was so swollen she could not go any further. Her followers and she realised the truth in that cave: they were all infected with the plague.
+
+Kneeling among her retching followers, Adiris made one last prayer. The black fumes of incense rose into the damp air before being wiped off by a cold breeze.
+
+Neither the body of Adiris nor those of her followers were ever found. Many told tales of her return, but no one truly knew what fate had befallen the High Priestess of Babylon.
+
+The Archives
+
+The table below lists additional Lore about 
+The Plague
+ from 
+The Archives
+, either from 
+Tomes
+ that featured her or from individual Lore entries that mentioned her:
+
+Tome
+
+Entry
+
+Type
+
+Tome 7 - Forsaken
+
+The Maiden Guard
+
+Featured Character
+
+Load-out
+
+Unique Perks
+
+The Plague
+ comes with 
+3
+ 
+Perks
+ that are unique to her:
+
+ 
+
+Corrupt Intervention
+
+Your prayers invoke a dark power that meddles with the Survivors' chances of survival.
+
+At the start of the Trial, the 
+3 Generators
+ located farthest from you are blocked by The 
+Entity
+ for 
+80
+/
+100
+/
+120
+ 
+seconds
+.
+
+Corrupt Intervention
+ deactivates prematurely once the first Survivor is put into the 
+Dying State
+.
+
+"It shall be known across the land that the Gods curse the unfaithful." — (The Tablet of Adiris, 3.7)
+
+ 
+
+Dark Devotion
+
+"The display of your Powers creates a whirlwind of panic that spreads throughout the land."
+
+Whenever the 
+Obsession
+ becomes injured by any means, 
+Dark Devotion
+ activates for 
+35
+/
+40
+/
+45
+ 
+seconds
+:
+
+Transfers your 
+Terror Radius
+ to the 
+Obsession
+.
+
+This 
+Terror Radius
+ is set to 
+40 metres
+.
+
+Grants the 
+Undetectable
+ 
+Status Effect
+.
+
+You can only be 
+obsessed
+ with one Survivor at a time.
+
+"And terror shall take hold of a defiant non-believer, who shall falsely announce my arrival." — (The Tablet of Adiris, 48.9)
+
+ 
+
+Infectious Fright
+
+"The cries of the unfaithful make your heart leap."
+
+Whenever a Survivor is put into the 
+Dying State
+ by any means, all other Survivors within your 
+Terror Radius
+ will scream and reveal their current location to you for 
+4
+/
+5
+/
+6
+ 
+seconds
+.
+
+"Horror overcomes the heart of infidels who cry at the feet of the fallen." — (Hymn of Praise, 11.4)
+
+Prestige
+
+Prestiging 
+The Plague
+ will automatically add 
+Tier I
+ of her Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Plague
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: Profane Censer
+
+The 
+Profane Censer
+ is the Primary Weapon of 
+The Plague
+.
+It is exuding the sweet fragrances of the Gardens the Priestess used to tend to. 
+
+Power: Vile Purge
+
+"Her condition deteriorated as the black plague overtook her body:
+Her toes blackened, her neck mushroomed into cysts, and her throat gagged with bloody vomit."
+SPECIAL ABILITY: VILE PURGE
+Press and hold the 
+Power button
+ to charge 
+Vile Purge
+.
+Release the 
+Power button
+ to unleash a stream of infectious bile or press the 
+Attack button
+ to swallow it back down:
+
+Hitting Survivors with a 
+Vomit Projectile
+ inflicts them with 
+Sickness
+.
+
+Successive hits slowly fill the 
+Sickness Meter
+.
+
+Hitting environmental objects causes them to become infectious to Survivors for 
+40 seconds
+.
+
+SPECIAL STATE: SICKNESS
+Sickness
+ is indicated on the Status HUD icon of affected Survivors, which also doubles as a 
+Sickness Meter
+:
+
+Infected Survivors
+ with a partially filled 
+Sickness Meter
+ vomit at random intervals, infecting both nearby environmental objects and other Survivors.
+
+Infected Survivors
+ with a full 
+Sickness Meter
+ are put into the 
+Injured State
+ and suffer permanently from the 
+Broken
+ 
+Status Effect
+.
+
+SPECIAL OBJECT: POOLS OF DEVOTION
+Pools of Devotion
+ spawn randomly throughout the environment:
+
+5
+ 
+Pools of Devotion
+ spawn in the 
+Uncorrupted State
+.
+
+1
+ 
+Pool of Devotion
+ spawns in the 
+Corrupted State
+.
+
+SPECIAL INTERACTION: CLEANSING INFECTION
+Survivors can approach an 
+Uncorrupted
+ 
+Pool of Devotion
+ and interact with it to cleanse themselves.
+Cleansing removes all 
+Sickness
+ and automatically heals them back to full health, but corrupts the 
+Pool of Devotion
+.
+SPECIAL INTERACTION: INGESTING CORRUPTION
+The Plague
+ can approach a 
+Corrupted
+ 
+Pool of Devotion
+ and press and hold the 
+Interaction button
+ to ingest its corruption and empower her purge:
+
+Replaces
+ 
+Vile Purge
+ with 
+Corrupt Purge
+ for 
+60 seconds
+.
+
+Resets
+ the 
+Pool of Devotion
+.
+
+The Plague
+ automatically receives 
+Corrupt Purge
+ when Survivors corrupt all available 
+Pools of Devotion
+, resetting them all.
+SPECIAL ATTACK: CORRUPT PURGE
+Press and hold the 
+Power button
+ to charge 
+Corrupt Purge
+Release the 
+Power button
+ to unleash a stream of lethal bile or press the 
+Attack button
+ to swallow it back down:
+
+Hitting Survivors with a 
+Vomit Projectile
+ inflicts them with damage, causing them to lose a 
+Health State
+.
+
+If 
+The Plague
+ is stunned by any means during 
+Corrupt Purge
+, her Power is instantly reset to 
+Vile Purge
+.
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Vomit Charging & Cool-down: 
+3.6 m/s
+
+Vomit Holding & Vomiting: 
+4.4 m/s
+
+Vomit Projectiles: 
+10.55 m/s
+
+Vile Purge
+ & 
+Corrupt Purge
+:
+
+Approximate maximum range: 
+13 metres
+
+Charges: 
+1.5 Charges
+
+Charge rate: 
+1 c/s
+
+Charge time: 
+1.5 seconds
+
+Activation Charge threshold: 
+25 %
+
+Tapping the 
+Power button
+ will cause 
+The Plague
+ to charge up to this threshold, then vomit automatically.
+
+Drain rate: 
+0.8 c/s
+
+Vomit time: 
+1.875 seconds
+
+Vomit Cool-down duration: 
+1.5 seconds
+
+Infection time of Interactables: 
+40 seconds
+
+This refers to how long vomited-on Props stay infected before becoming uninfected again.
+
+Corrupt Purge
+:
+
+deals damage: 
+Yes
+
+deals double damage: 
+No
+
+Damage Immunity duration after being hit by 
+Corrupt Purge
+: 
+3 seconds
+
+When 
+The Plague
+ is stunned with a 
+Pallet
+ or 
+Decisive Strike
+, 
+Head On
+, etc., she will lose 
+Corrupt Purge
+.
+
+Vomit Projectiles:
+
+Sickness additive: 
+1.25 %
+
+Amount of Killer momentum added to projectile speed: 
+100 %
+
+Launch rate: 
+1 Projectile every 0.03 seconds
+
+for 1 second: 
+~33.3 Projectiles
+
+for the entire Vomit duration: 
+~62.5 Projectiles
+
+Sickness:
+
+Sickness accumulated for:
+
+each Vomit Projectile: 
+1.25 %
+
+being infected, crawling, crouching, walking: 
+0 % per second; None
+
+running, interacting with non-infected Props: 
+1 % per second
+
+interacting with infected Props: 
+2 % per second
+
+Reaching 100 % Sickness:
+
+injures Survivors: 
+Yes
+
+downs Survivors: 
+No
+
+100 % Sickness inflicts Survivors with:
+
+Broken
+ 
+Status Effect
+: 
+Yes
+
+Exposed
+ 
+Status Effect
+: 
+No
+
+Inactive
+:
+ On being hooked, Sickness:
+
+resets completely: 
+No
+
+resets partially (to 50 % Sickness): 
+No
+
+Survivor Vomiting:
+
+Vomiting threshold: 
+50 % Sickness
+
+This refers to how sick Survivors must be before starting to vomit.
+
+Vomiting intervals: 
+5 seconds (min); 15 seconds (max)
+
+This refers to the minimum and maximum cool-down time in-between bouts of vomiting.
+
+Inactive
+:
+ vomiting inflicts a Movement Speed penalty of 
+0 %; nothing
+ for 
+1 second
+.
+
+Pools of Devotion:
+
+Cleansing 
+Sickness
+ duration: 
+8 seconds
+
+Ingesting 
+Corruption
+ duration: 
+1 second
+
+Reset delay: 
+5 seconds
+
+When all 
+Pools of Devotion
+ become corrupted: this refers to the delay before 
+The Plague
+ gains 
+Corrupt Purge
+ and the Pools reset.
+
+Amount of 
+Pools of Devotion
+ corrupted when loading into Trial: 
+1 Pool of Devotion
+.
+
+Add-ons for Vile Purge
+
+Icon
+
+Name
+
+Description
+
+Healing Salve
+
+A bitterly pungent paste of crushed roots, which were marinated in fish brine for three days and in wine for two.
+Applied on skin rashes.
+
+Reduces
+ the Cool-down duration of 
+Vile Purge
+ and 
+Corrupt Purge
+ by 
+-0.25 seconds
+.
+
+Limestone Seal
+
+A cylindrical seal made from porous stone that displays a ritualistic scene with winged deities.
+
+Increases
+ the Infection duration on Props hit with 
+Vile Purge
+ by 
++20 seconds
+.
+
+Olibanum Incense
+
+Precious resin extracted from Boswellia trees, used during ceremonies for their sweet citrusy fragrance.
+
+The 
+Auras
+ of Survivors cleansing at a 
+Pool of Devotion
+ are revealed to you for 
+4 seconds
+.
+
+Prayer Tablet Fragment
+
+A fragmented stone tablet with a corrupted incantation originally used to purge illnesses and feelings of general malaise.
+
+Increases
+ the Infection duration on Props hit with 
+Vile Purge
+ by 
++40 seconds
+.
+
+Increases
+ the Infection gained while performing Interactions for Survivors by 
++100 %
+.
+
+Grants 
++100 %
+ bonus Bloodpoints for Score Events in the 
+Deviousness
+ Category.
+
+Vile Purge
+ no longer affects Survivors directly.
+
+Blessed Apple
+
+A perfectly ripe fruit to break fast during the purification ceremony.
+Delicious.
+
+Causes 
+1
+ 
+Pool of Devotion
+ to spawn in the 
+Corrupted
+ state.
+
+Emetic Potion
+
+A mustard-water based syrup that induces vomiting when consumed.
+Used to purge evil from the body.
+
+Increases
+ the Infection gain from 
+Vile Purge
+ by 
++30 %
+.
+
+Haematite Seal
+
+A cylindrical seal forged from a metallic hard-stone, engraved with bird-headed beings that stood next to strange machines.
+Used as a container for sanctified ashes.
+
+Increases
+ the Infection duration on Props hit with 
+Vile Purge
+ by 
++30 seconds
+.
+
+Potent Tincture
+
+A frothing, murky liquid that permeates the air with an acute aroma of herbs and alcohol.
+Applied directly on blisters.
+
+Reduces
+ the Cool-down duration of 
+Vile Purge
+ and 
+Corrupt Purge
+ by 
+-0.4 seconds
+.
+
+Prophylactic Amulet
+
+A fragmented stone tablet with a corrupted incantation originally used to purge illnesses and feelings of general malaise.
+
+Reduces
+ the number of available 
+Pools of Devotion
+ by 
+-2
+.
+
+Ashen Apple
+
+A peeled apple rolled into sanctified ashes.
+Eating such a fruit warded off the malignantly envious spirits of the deceased.
+
+Causes 
+1
+ 
+Pool of Devotion
+ to spawn in the 
+Corrupted
+ state.
+
+Increases
+ the number of available 
+Pools of Devotion
+ by 
++1
+.
+
+Exorcism Amulet
+
+An obsidian amulet to ward off sickness during exorcism rituals. Inscribed with a prayer to the God of Mayhem and Pestilence.
+Fills the wearer with fierce devotion.
+
+Increases
+ the duration of 
+Corrupt Purge
+ by 
++10 seconds
+.
+
+Incensed Ointment
+
+A dark waxy paste, laced with cedar sap that diffuses a sweet and earthy aroma.
+Applied directly on infected skin.
+
+Ingesting 
+Corruption
+ causes all Survivors in your 
+Terror Radius
+ to scream and reveal their locations to you.
+
+Infected Emetic
+
+A disgusting syrup of unknown origin.
+The thick yellow liquid is consumed to induce vomiting.
+Used to purge evil from the body.
+
+Increases
+ the Infection gain from 
+Vile Purge
+ by 
++40 %
+.
+
+Rubbing Oil
+
+A beaker of rubbing oil with expectorant quality.
+Exudes the evergreen scent of laurel and rosemary.
+
+Increases
+ the Charge speed of 
+Vile Purge
+ and 
+Corrupt Purge
+ by 
++50 %
+.
+
+Devotee's Amulet
+
+A blood stone amulet carved intricately with the effigy of the Babylonian God of Mayhem and Pestilence.
+Fills the wearer with boundless devotion.
+
+Increases
+ the duration of 
+Corrupt Purge
+ by 
++20 seconds
+.
+
+Severed Toe
+
+The decaying severed toe of Adiris, weaved on a thread and worn as an amulet around the neck.
+Radiates with vile power.
+
+Increases
+ the Infection gained while performing Interactions for Survivors by 
++50 %
+.
+
+Vile Emetic
+
+A foul-smelling and half-congealed potion of unidentifiable ingredients.
+Consumed to rapidly induce vomiting.
+Used to purge evil from the body.
+
+Increases
+ the Projectile speed of 
+Vile Purge
+ and 
+Corrupt Purge
+ by 
++10 %
+.
+
+Worship Tablet
+
+A stone tablet adorned with gold, showing the drawings and writings of a corrupted incantation used originally to worship forgotten deities.
+
+Increases
+ the Ingestion speed at 
+Pools of Devotion
+ by 
++100 %
+.
+
+Increases
+ your Movement speed while holding 
+Corrupt Purge
+ by 
+4.4 %
+.
+
+Black Incense
+
+A dark paste made of sharp osseous shavings.
+The inhaling of its foul fumes sharpens the mind's eye.
+
+The 
+Auras
+ of vomitting 
+Infected Survivors
+ are revealed to you for 
+3 seconds
+.
+
+Iridescent Seal
+
+A translucent cylindrical seal moulded from The Fog itself with the effigy of The Plague.
+Its surface is warm and pulsates with The Entity's power.
+
+Automatically enter 
+Corrupt Purge
+ whenever a 
+Generator
+ is completed.
+
+Reduces
+ the duration of 
+Corrupt Purge
+ by 
+-20 seconds
+.
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There are 
+2
+ Achievements related to 
+The Plague
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Plague
+
+Playing as The 
+Plague
+, achieve a 
+Merciless Victory
+ using only her 
+3
+ Unique Perks: 
+Corrupt Intervention
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+Your prayers invoke a dark power that meddles with the Survivors' chances of survival.
+
+At the start of the Trial, the 
+3 Generators
+ located farthest from you are blocked by The 
+Entity
+ for 
+80
+/
+100
+/
+120
+ 
+seconds
+.
+
+Corrupt Intervention
+ deactivates prematurely once the first Survivor is put into the 
+Dying State
+.
+
+"It shall be known across the land that the Gods curse the unfaithful." — (The Tablet of Adiris, 3.7)
+
+, 
+Infectious Fright
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"The cries of the unfaithful make your heart leap."
+
+Whenever a Survivor is put into the 
+Dying State
+ by any means, all other Survivors within your 
+Terror Radius
+ will scream and reveal their current location to you for 
+4
+/
+5
+/
+6
+ 
+seconds
+.
+
+"Horror overcomes the heart of infidels who cry at the feet of the fallen." — (Hymn of Praise, 11.4)
+
+, and 
+Dark Devotion
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"The display of your Powers creates a whirlwind of panic that spreads throughout the land."
+
+Whenever the 
+Obsession
+ becomes injured by any means, 
+Dark Devotion
+ activates for 
+35
+/
+40
+/
+45
+ 
+seconds
+:
+
+Transfers your 
+Terror Radius
+ to the 
+Obsession
+.
+
+This 
+Terror Radius
+ is set to 
+40 metres
+.
+
+Grants the 
+Undetectable
+ 
+Status Effect
+.
+
+You can only be 
+obsessed
+ with one Survivor at a time.
+
+"And terror shall take hold of a defiant non-believer, who shall falsely announce my arrival." — (The Tablet of Adiris, 48.9)
+
+.
+
+Terminal Illness
+
+Playing as The 
+Plague
+, down Survivors inflicted with maximum 
+Sickness
+ a total of 
+50 times
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Plague
+:
+
+Base Cosmetics
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+The Plague
+
+Common
+
+A sacred crown worn to hide the affliction that slowly overcame the freshly ordained priestess.
+
+Babylonian Silk Robe
+
+Common
+
+Woven from the best silks of Babylon, this robe was crafted especially for the priestess to display her new social status.
+
+Profane Censer
+
+Common
+
+Exuding the sweet fragrances of the gardens that the priestess used to attend to.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Bloody Plague
+
+Rare
+
+A crown drenched in blood, worn to hide the affliction that slowly overcame the freshly ordained priestess.
+
+Prestige Level 6 Reward
+
+Murderous Robe
+
+Rare
+
+Woven from the best silks of Babylon, this robe was stained with the guts of the vultures that she eviscerated.
+
+Prestige Level 5 Reward
+
+Sanguinary Censer
+
+Rare
+
+Exuding the stench of congealed organs preserved by the priestess.
+
+Prestige Level 4 Reward
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+A Babylonian priestess who thought she could hide her rotting disease from her followers.
+
+Alternatives
+
+Special
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Collection
+
+Event
+
+Frosty Eyes
+
+Uncommon
+
+Heart chilling eyes of the cold blooded.
+
+"Have a Wonderful Winter 2019-2020!" - The Dead by Daylight Team
+
+No Collection
+
+Winter Event 2019
+
+Sinner's End
+
+Very Rare
+
+The mask of the Maiden Guards represented the executioner, and their divine right to end a sinner's life.
+
+Forsaken
+
+Amazon Prime Gaming August 2022 reward
+
+Purity of Soul
+
+Very Rare
+
+The uniforms of the Maiden Guards showed bare skin, symbolizing the purity of its members- and their right to judge others.
+
+Forsaken
+
+Amazon Prime Gaming August 2022 reward
+
+Cleansing Flame
+
+Very Rare
+
+A censer filled with embers and oil, it was used to cleanse a high priest of his blasphemous ways.
+
+Forsaken
+
+Amazon Prime Gaming August 2022 reward
+
+Event
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Event
+
+Exclusive to Event Participation
+
+Crown of the Entity
+
+Event
+
+A crown emanating a festive and ominous aura created by the Entity's biggest fan.
+
+Fourth Year Anniversary
+
+Yes
+
+5th Anniversary Crown
+
+Event
+
+A crown crafted for a very special anniversary.
+
+"Thank you for supporting & inspiring us along the years!" - The Dead by Daylight Team
+
+Fifth Year Anniversary
+
+Yes
+
+Gum Ball Vessel
+
+Event
+
+A vile, cloying scent disperses from the cracks in its glass.
+
+Haunted by Daylight
+
+Yes
+
+Plague's Mask
+
+Event
+
+A mask she found herself wearing at the masquerade ball.
+
+Twisted Masquerade 2024
+
+Yes
+
+ Rift
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Celestial Salvation
+
+Under the Night Sky
+
+Tome 5 - Unleashed
+
+05 May 2021 (Wednesday)
+
+Description
+
+With weeping eyes to the sky, she prayed for salvation from the gods...
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Crown of the Heavens
+
+Under the Night Sky
+
+9
+
+A headdress that pleases cosmic forces in times of unbalance.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Lunar Awakening
+
+Under the Night Sky
+
+27
+
+A robe offering fervent devotion to the moon and its role in maintaining light when all else is dark.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Eternal Moon Rock Censer
+
+Under the Night Sky
+
+19
+
+A censer made of boulder that fell from the sky, truly a gift from the gods.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Red Death
+
+Slice Of Life Collection
+
+Tome 18 - Revision
+
+12 June 2018 (Tuesday)
+
+Description
+
+Red and black vestments were her final attempt to conceal the infection ravaging her body.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Blackened Crown
+
+Slice Of Life Collection
+
+2
+
+The dark headpiece matched the complexion of her rotting foot.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Disheveled Robe
+
+Slice Of Life Collection
+
+5
+
+She barely had the strength to dress herself or cover her sores.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Decomposed Censer
+
+Slice Of Life Collection
+
+7
+
+The smoke was heavy and odorous, and did nothing to hide the priestess’ condition.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Message to the Gods
+
+Autumn Chill
+
+Tome 13 - Malevolence
+
+12 June 2018 (Tuesday)
+
+Description
+
+Some thought the dyes too rich and garish, but to gain a god’s attention, drastic measures sometimes had to be followed.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Elder’s Wisdom
+
+Autumn Chill
+
+10
+
+A deep red headdress that symbolizes vitality and long life.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Carmine Wrap
+
+Autumn Chill
+
+16
+
+A robe dyed deep red with the powdered remains of beetles.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Bloodlike Censer
+
+Autumn Chill
+
+7
+
+The stink of various incenses and reagents emanate from this heavy bronze container.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Dissident Priestess
+
+Sacrifice The Sunflesh
+
+Rift Pass 6 - Sunflesh
+
+21 July 2026 (Tuesday)
+
+Description
+
+The clothes of an ancient priestess. She abandoned her old beliefs to join a new movement, one she hoped would lead to happiness.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Feral Vizard
+
+Sacrifice The Sunflesh
+
+50
+
+When the scrap collector told her about the opening in the desert, she knew the gods had answered her prayers.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Golden Renewal
+
+Sacrifice The Sunflesh
+
+54
+
+She prayed to the anomaly every night, surrounded by a growing crowd of believers. When the fateful day came, she led them through the opening.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Censer Of Delusions
+
+Sacrifice The Sunflesh
+
+56
+
+What she found on the other side wasn't gods, but emaciated bodies with jagged teeth. There was no divine hand, only claws that tore apart.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Dissident Priestess (Deep Rift 1)
+
+Sacrifice The Sunflesh
+
+Rift Pass 6 - Sunflesh
+
+21 July 2026 (Tuesday)
+
+Description
+
+The clothes of an ancient priestess. She abandoned her old beliefs to join a new movement, one she hoped would lead to happiness.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Feral Vizard (Deep Rift 1)
+
+Sacrifice The Sunflesh
+
+73
+
+When the scrap collector told her about the opening in the desert, she knew the gods had answered her prayers.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Golden Renewal (Deep Rift 1)
+
+Sacrifice The Sunflesh
+
+78
+
+She prayed to the anomaly every night, surrounded by a growing crowd of believers. When the fateful day came, she led them through the opening.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Censer Of Delusions (Deep Rift 1)
+
+Sacrifice The Sunflesh
+
+83
+
+What she found on the other side wasn't gods, but emaciated bodies with jagged teeth. There was no divine hand, only claws that tore apart.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Dissident Priestess (Deep Rift 2)
+
+Sacrifice The Sunflesh
+
+Rift Pass 6 - Sunflesh
+
+21 July 2026 (Tuesday)
+
+Description
+
+The clothes of an ancient priestess. She abandoned her old beliefs to join a new movement, one she hoped would lead to happiness.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Feral Vizard (Deep Rift 2)
+
+Sacrifice The Sunflesh
+
+89
+
+When the scrap collector told her about the opening in the desert, she knew the gods had answered her prayers.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Golden Renewal (Deep Rift 2)
+
+Sacrifice The Sunflesh
+
+93
+
+She prayed to the anomaly every night, surrounded by a growing crowd of believers. When the fateful day came, she led them through the opening.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Censer Of Delusions (Deep Rift 2)
+
+Sacrifice The Sunflesh
+
+97
+
+What she found on the other side wasn't gods, but emaciated bodies with jagged teeth. There was no divine hand, only claws that tore apart.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Maiden of Vanity
+
+Community
+
+Tome 9 - Crescendo
+
+21 November 2023 (Tuesday)
+
+Description
+
+There was nothing delicate about this butterfly. Her faith had evolved and so had the extremes she would go to for it.
+Design inspired by 
+Dragonaer
+.
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Metamorphosis
+
+Community
+
+52
+
+A headdress that represents growth reaching its wondrous apex.
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Flight on the Wind
+
+Community
+
+63
+
+Light fabrics flow gently from the wings of her shoulders.
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Threat of Passage
+
+Community
+
+15
+
+A warm, inviting glow fills the censer, coyly underplaying the burning heat within.
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+The Maiden Guard
+
+Forsaken
+
+Tome 7 - Forsaken
+
+12 June 2018 (Tuesday)
+
+Description
+
+The robes of the devout women who interrogated those committing dire sins.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Sinner's End
+
+Forsaken
+
+23
+
+The mask of the Maiden Guards represented the executioner, and their divine right to end a sinner's life.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Purity of Soul
+
+Forsaken
+
+1
+
+The uniforms of the Maiden Guards showed bare skin, symbolizing the purity of its members—and their right to judge others.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Cleansing Flame
+
+Forsaken
+
+67
+
+A censer filled with embers and oil, it was used to cleanse a high priest of his blasphemous ways.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Outerworld Leader
+
+Space Travel Collection
+
+Tome 16 - Existence
+
+12 June 2018 (Tuesday)
+
+Description
+
+An elegant purple gown adorned with gold ornaments.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Solar Crown
+
+Space Travel Collection
+
+7
+
+A bold headdress made of gold.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Priestess Gown
+
+Space Travel Collection
+
+13
+
+The golden details on her gown drew attention away from her decaying body.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Terracotta Censer
+
+Space Travel Collection
+
+23
+
+The incense burned fiercely in the unglazed pot.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Dark Apostate
+
+Tortured Souls
+
+Tome 22 - Anguish
+
+13 January 2026 (Tuesday)
+
+Description
+
+Her followers feared the rise of another zealotry, but she told them to fear nothing.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Unholy Crown
+
+Tortured Souls
+
+8
+
+These newcomers were sent to test their faith, or so she told her quavering devotees.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Vainglorious
+
+Tortured Souls
+
+5
+
+Behind closed doors, she felt trapped on all sides. There was only one solution to this crisis.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Usurper's Censer
+
+Tortured Souls
+
+2
+
+The leader of the zealots was found dead and naked in the streets, his disciples scattered to the winds.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Dark Apostate (Deep Rift)
+
+Deep Rift
+
+Tome 22 - Anguish
+
+12 June 2018 (Tuesday)
+
+Description
+
+Her followers feared the rise of another zealotry, and she had to keep her own fears to herself.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Unholy Crown (Deep Rift)
+
+Deep Rift
+
+84
+
+These newcomers were sent to test their faith, but she wondered if they were a form of punishment.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Vainglorious (Deep Rift)
+
+Deep Rift
+
+79
+
+In her darkest moments, she felt trapped on all sides. She knew exactly what needed to be done.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Usurper's Censer (Deep Rift)
+
+Deep Rift
+
+74
+
+The leader of the zealots was found dead, stripped, and mutilated, his disciples never to be seen again.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Priestess of the Lost
+
+DEFENDER OF THE FAITH
+
+Tome 3 - Escalation
+
+17 February 2022 (Thursday)
+
+Description
+
+Worn during the holiest of days, or in the most desperate circumstances, and sure to draw the sea-goat's attention.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Zenith of Suffering
+
+DEFENDER OF THE FAITH
+
+59
+
+Passed down through many generations, the headdress is laden with symbolic language.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Shroud of Rebirth
+
+DEFENDER OF THE FAITH
+
+65
+
+A used burial shroud styled into priestesses' robes during the rebirthing ceremony. The former occupant is nothing but dust, stain, and an acrid smell upon the fabric, yet it's said they protect the wearer from harm.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Censer of Grief
+
+DEFENDER OF THE FAITH
+
+42
+
+Filled with tree resin and animal excrement, it's used to purge sickness by causing a heaving, uncontrollable regurgitation.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Tome
+
+Rift Tier
+
+Crown of Conviction
+
+Tome 2 - Reckoning
+23
+
+A humbler headdress to avoid attracting the attention of others.
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Leader of the Blind
+
+PLAGUE ABERRATIONS
+
+19 March 2019 (Tuesday)
+
+Description
+
+Worn for the first rituals ever performed by the young priestess.
+
+135
+
+2700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Crown of Devotion (Bronze)
+
+PLAGUE ABERRATIONS
+
+An imposing headdress to distract from the mushrooming cysts that spread to her cheek.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+The Priestess's Robe (Bronze)
+
+PLAGUE ABERRATIONS
+
+Robes stitched from the delicate fabrics offered by her followers. No one would mistake her for a servant girl now.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Ant Paste Censer
+
+PLAGUE ABERRATIONS
+
+Experimenting with different types of resins and pastes to mask her rancid smell.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Servant of the Gods
+
+PLAGUE ABERRATIONS
+
+19 March 2019 (Tuesday)
+
+Description
+
+Worn for the first rituals ever performed by the young priestess.
+
+135
+
+2700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Crown of Devotion (Gold)
+
+PLAGUE ABERRATIONS
+
+An imposing headdress to distract from the mushrooming cysts that spread to her cheek.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+The Priestess's Robe (Gold)
+
+PLAGUE ABERRATIONS
+
+Robes stitched from the delicate fabrics offered by her followers. No one would mistake her for a servant girl now.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Fermented Entrails Paste Censer
+
+PLAGUE ABERRATIONS
+
+Experimenting with different types of resins and pastes to mask her rancid smell.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Shepherd of the Flock
+
+PLAGUE ABERRATIONS
+
+19 March 2019 (Tuesday)
+
+Description
+
+Worn for the first rituals ever performed by the young priestess.
+
+135
+
+2700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Crown of Devotion (Silver)
+
+PLAGUE ABERRATIONS
+
+An imposing headdress to distract from the mushrooming cysts that spread to her cheek.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+The Priestess's Robe (Silver)
+
+PLAGUE ABERRATIONS
+
+Robes stitched from the delicate fabrics offered by her followers. No one would mistake her for a servant girl now.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Cartilage Paste Censer
+
+PLAGUE ABERRATIONS
+
+Experimenting with different types of resins and pastes to mask her rancid smell.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Defender of the Frail
+
+PLAGUE ABERRATIONS
+
+19 March 2019 (Tuesday)
+
+Description
+
+Worn for the first rituals ever performed by the young priestess.
+
+135
+
+2700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Crown of Devotion (Titanium)
+
+PLAGUE ABERRATIONS
+
+An imposing headdress to distract from the mushrooming cysts that spread to her cheek.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+The Priestess's Robe (Titanium)
+
+PLAGUE ABERRATIONS
+
+Robes stitched from the delicate fabrics offered by her followers. No one would mistake her for a servant girl now.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Oyster Flesh Paste Censer
+
+PLAGUE ABERRATIONS
+
+Experimenting with different types of resins and pastes to mask her rancid smell.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Purgation
+
+REAPING RITES
+
+19 March 2019 (Tuesday)
+
+Description
+
+While performing the most sacred of rituals, she was being consumed by a disease that she helped spread unknowingly.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Crown of Contempt
+
+REAPING RITES
+
+Intricate headdress that weighted heaviest on her sullied head and conscience.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Canticle Robe
+
+REAPING RITES
+
+Robe designed specially to reflect her distinctively merciless practices.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Bone Marrow Paste Censer
+
+REAPING RITES
+
+A thicker, smokier smell to mask the stench exuding from priestess's pores.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Memorium
+
+REAPING RITES
+
+19 March 2019 (Tuesday)
+
+Description
+
+While performing the most sacred of rituals, she was being consumed by a disease that she helped spread unknowingly.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Crown of Lament
+
+REAPING RITES
+
+Intricate headdress that weighted heaviest on her sullied head and conscience.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Mourning Robe
+
+REAPING RITES
+
+Robe designed specially to reflect her distinctively merciless practices.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Mussel Flesh Paste Censer
+
+REAPING RITES
+
+A thicker, smokier smell to mask the stench exuding from priestess's pores.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Call to Prayer
+
+REAPING RITES
+
+19 March 2019 (Tuesday)
+
+Description
+
+While performing the most sacred of rituals, she was being consumed by a disease that she helped spread unknowingly.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Crown of Repent
+
+REAPING RITES
+
+Intricate headdress that weighted heaviest on her sullied head and conscience.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Sacrificial Robe
+
+REAPING RITES
+
+Robe designed specially to reflect her distinctively merciless practices.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Fermented Liver Paste Censer
+
+REAPING RITES
+
+A thicker, smokier smell to mask the stench exuding from priestess's pores.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Levant Wanderer
+
+SELF-BANISHMENT
+
+19 March 2019 (Tuesday)
+
+Description
+
+Desperate to appease the god of mayhem and pestilence, the priestess exiled herself from the fair city of Babylon, never to return.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Crown of Secrets
+
+SELF-BANISHMENT
+
+A humbler headdress to avoid attracting the attention of others.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Abrasive Tunic
+
+SELF-BANISHMENT
+
+A suffocating tunic to protect her inflamed flesh against harsh traveling conditions.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Infinity Censer
+
+SELF-BANISHMENT
+
+A double crucible Censer for an increased provision of incense that keeps burning come hell or high water.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Urashtu Nomad
+
+SELF-BANISHMENT
+
+19 March 2019 (Tuesday)
+
+Description
+
+Desperate to appease the god of mayhem and pestilence, the priestess exiled herself from the fair city of Babylon, never to return.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Crown of Shame
+
+SELF-BANISHMENT
+
+A humbler headdress to avoid attracting the attention of others.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Moldy Tunic
+
+SELF-BANISHMENT
+
+A suffocating tunic to protect her inflamed flesh against harsh traveling conditions.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Undying Censer
+
+SELF-BANISHMENT
+
+A double crucible Censer for an increased provision of incense that keeps burning come hell or high water.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Celestial Salvation
+
+Under the Night Sky
+
+Tome 5 - Unleashed
+
+05 May 2021 (Wednesday)
+
+Description
+
+With weeping eyes to the sky, she prayed for salvation from the gods...
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Crown of the Heavens
+
+Under the Night Sky
+
+9
+
+A headdress that pleases cosmic forces in times of unbalance.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Lunar Awakening
+
+Under the Night Sky
+
+27
+
+A robe offering fervent devotion to the moon and its role in maintaining light when all else is dark.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Eternal Moon Rock Censer
+
+Under the Night Sky
+
+19
+
+A censer made of boulder that fell from the sky, truly a gift from the gods.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Desperate Plea
+
+Days Gone By
+
+16 April 2024 (Tuesday)
+
+Description
+
+Adiris traveled outside the city walls to gather her thoughts and make a critical decision — one that could be the key to appeasing the gods.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Bleak Vision
+
+Days Gone By
+
+The pasture, once filled with life, was now a graveyard of decaying rams. Amidst the desolation, she heard the faint bleat of a starving animal.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Grim Truth
+
+Days Gone By
+
+She grazed the ram's overgrown wool. Preparing for the sacrifice, she hoped this time they would hear her plea.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Dying Breath Censer
+
+Days Gone By
+
+She swung the censer while praying and pleading, but the ram breathed its last before she could act — depriving her of an offering for her gods.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Sea Goddess
+
+Greek Legends
+
+25 July 2023 (Tuesday)
+
+Description
+
+A garment crafted from fish skin and shells.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Coral Crown
+
+Greek Legends
+
+A crown made from the remains of deep-sea creatures.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Scale Skin
+
+Greek Legends
+
+A pair of gills have formed on her sides.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Seabed Censer
+
+Greek Legends
+
+The rusty censer emitted a foul odor of rotten fish.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Dark Devotee
+
+Cult of Anguish
+
+26 February 2020 (Wednesday)
+
+Description
+
+The High Priestess’s flesh was covered with swollen abscesses. Desperate for a cure, she followed the forbidden practices of a forgotten, dark cult.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Crown of Despair
+
+Cult of Anguish
+
+Her crown of spikes showed her adherence to the dark cult’s most fervent methods, namely impaling the sick.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Soiled Robe
+
+Cult of Anguish
+
+She bathed in gruesome mixtures of squirming worms, dead flies, and clay. She was desperate to find a cure.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Beeswax Censer
+
+Cult of Anguish
+
+Filled with moist larvae and mushed bee eggs, her censer casted distinct, nauseating fumes.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Sea-Goat Worshiper
+
+ZEALOT
+
+19 March 2019 (Tuesday)
+
+Description
+
+A lavish ceremony meant to invoke the god of water and mischief for a final cleanse from affliction.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Crown of Horns
+
+ZEALOT
+
+As disease developed, she grew more ashamed, and re-designed her headdress to cover most of her face.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Crimson Robe
+
+ZEALOT
+
+An opulent dress embellished with gold chains to display her wealth and importance to the goat-horned god.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Capricornus Censer
+
+ZEALOT
+
+Inspired by the symbols of the god of water and mischief, from the horned crucible to the goat liver paste inside, this censer carries a nefarious odor.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Servant of the Serum
+
+Hallowed Catalyst
+
+09 October 2019 (Wednesday)
+
+Description
+
+She emerged from confinement when the serum amplified the disease coursing through her blood.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Crown of Pustula
+
+Hallowed Catalyst
+
+A shattered headdress resting on a raw, molten scalp.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Foul Gown
+
+Hallowed Catalyst
+
+A once sacred gown torn by the surging power that deformed her body.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Putrid Censer
+
+Hallowed Catalyst
+
+Filled with the putrid nectar she drew from glass vials lying around, creating a new nauseating scent.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Queen Of Lost Beauty
+
+Modern Tales
+
+03 February 2026 (Tuesday)
+
+Description
+
+She gritted her teeth in front of the mirror. Her skin was covered in sores, blackened by necrosis.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Funeral Crown
+
+Modern Tales
+
+The disease crawled slowly but surely up her neck, reaching the tender flesh on her face.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Dark Velvet Garb
+
+Modern Tales
+
+She pulled at the dangling shreds of skin, murmuring her usual prayers with less fervor than the day before.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Red Apple Censer
+
+Modern Tales
+
+"Make me whole again," she pleaded. But the gods never answered and the mirror had long since been broken.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Forsaken Land
+
+The Void
+
+17 October 2024 (Thursday)
+
+Description
+
+Entering this land between life and death, she felt honored to have been bestowed with otherworldly gifts.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Horns Of Divinity
+
+The Void
+
+A mysterious energy swirled around her. With a quick gesture, she summoned the spectral captive into being.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Garb Of Desolation
+
+The Void
+
+The haunt appeared before her, disturbed, its hollow eyes full of despair.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Censer Of Ruin
+
+The Void
+
+With the grace of a true priestess, she calmed its restless spirit, imbuing it with renewed purpose.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Maiden of Vanity
+
+Community
+
+Tome 9 - Crescendo
+
+21 November 2023 (Tuesday)
+
+Description
+
+There was nothing delicate about this butterfly. Her faith had evolved and so had the extremes she would go to for it.
+Design inspired by 
+Dragonaer
+.
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Metamorphosis
+
+Community
+
+52
+
+A headdress that represents growth reaching its wondrous apex.
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Flight on the Wind
+
+Community
+
+63
+
+Light fabrics flow gently from the wings of her shoulders.
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Threat of Passage
+
+Community
+
+15
+
+A warm, inviting glow fills the censer, coyly underplaying the burning heat within.
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Cat Prediction
+
+Cursed Cats
+
+10 October 2023 (Tuesday)
+
+Description
+
+Adiris was praying by herself when a furless cat knocked over her censer.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Sharp Crown
+
+Cursed Cats
+
+The feline started to hiss, showing his sharp teeth to her.
+
+Piece
+
+Name
+
+Collection
+
+Furless Skin
+
+Cursed Cats
+
+She reached out her hand to the hairless animal, but it quickly darted away.
+
+Piece
+
+Name
+
+Collection
+
+Trinkets Censer
+
+Cursed Cats
+
+Adiris gazed upon the fuming incense spilled on the floor, taking a deep breath of its fragrance.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Dark Apostate
+
+Tortured Souls
+
+Tome 22 - Anguish
+
+13 January 2026 (Tuesday)
+
+Description
+
+Her followers feared the rise of another zealotry, but she told them to fear nothing.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Unholy Crown
+
+Tortured Souls
+
+8
+
+These newcomers were sent to test their faith, or so she told her quavering devotees.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Vainglorious
+
+Tortured Souls
+
+5
+
+Behind closed doors, she felt trapped on all sides. There was only one solution to this crisis.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Usurper's Censer
+
+Tortured Souls
+
+2
+
+The leader of the zealots was found dead and naked in the streets, his disciples scattered to the winds.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Priestess of the Damned
+
+DEFENDER OF THE FAITH
+
+23 July 2019 (Tuesday)
+
+Description
+
+Worn during the holiest of days, or in the most desperate circumstances, and sure to draw the sea-goat's attention.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Zenith of Devotion
+
+DEFENDER OF THE FAITH
+
+Passed down through many generations, the headdress is laden with symbolic language.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Shroud of Awakening
+
+DEFENDER OF THE FAITH
+
+A used burial shroud styled into priestesses’ robes during the rebirthing ceremony. The former occupant is nothing but dust, stain, and an acrid smell upon the fabric, yet it’s said they protect the wearer from harm.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Censer of Expulsion
+
+DEFENDER OF THE FAITH
+
+Filled with tree resin and animal excrement, it's used to purge sickness by causing a heaving, uncontrollable regurgitation.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Priestess of the Lost
+
+DEFENDER OF THE FAITH
+
+Tome 3 - Escalation
+
+17 February 2022 (Thursday)
+
+Description
+
+Worn during the holiest of days, or in the most desperate circumstances, and sure to draw the sea-goat's attention.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Zenith of Suffering
+
+DEFENDER OF THE FAITH
+
+59
+
+Passed down through many generations, the headdress is laden with symbolic language.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Shroud of Rebirth
+
+DEFENDER OF THE FAITH
+
+65
+
+A used burial shroud styled into priestesses' robes during the rebirthing ceremony. The former occupant is nothing but dust, stain, and an acrid smell upon the fabric, yet it's said they protect the wearer from harm.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Censer of Grief
+
+DEFENDER OF THE FAITH
+
+42
+
+Filled with tree resin and animal excrement, it's used to purge sickness by causing a heaving, uncontrollable regurgitation.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Gum Ball Vessel
+
+Tricks and Treats
+
+A vile, cloying scent disperses from the cracks in its glass.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Offal Censer
+
+Blood Moon
+
+The burning flesh gave off a pungent smoke that excited her senses.
+
+Piece
+
+Name
+
+Collection
+
+Plague's Mask
+
+Twisted Masquerade
+
+A mask she found herself wearing at the masquerade ball.
+
+400
+
+7200
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Plague
+ is part of 
+3
+ DLCs:
+
+Chapter DLC:
+
+Demise of the Faithful
+ (
+retired
+)
+
+Pack DLCs:
+
+Old Wounds Pack
+ (Chapter Pack)
+
+Terror Expansion Pack
+ (Character Pack)
+
+Change Log
+
+Patch 2.6.0
+Patch 2.7.0
+Patch 3.2.2
+Patch 3.6.0
+Patch 4.7.0
+Patch 5.1.0
+Patch 5.3.0
+Unknown Patch
+Patch 2.6.0
+
+Buff
+: increased 
+Corrupt Purge
+ duration from 
+45 seconds
+ to 
+60 seconds
+.
+
+Buff
+: increased Environmental Infection duration from 
+20 seconds
+ to 
+35 seconds
+.
+
+Buff
+: slightly increased The Plague's Movement speed while charging Vile Purge and Corrupt Purge
+
+Buff
+: Survivor Infection no longer resets upon being hooked.
+
+Quality of Life
+: added the ability for 
+The Plague
+ to infect 
+Exit Gate Switches
+.
+
+Quality of Life
+: once all 
+Pools of Devotion
+ are corrupted, they reset and automatically grant 
+The Plague
+ 
+Corrupt Purge
+.
+
+Quality of Life
+: improved 
+The Plague's
+ 
+Deviousness
+ and 
+Brutality
+ scoring.
+
+Nerf
+:
+ slightly reduced 
+The Plague's
+ Movement speed while holding 
+Vile Purge
+ and 
+Corrupt Purge
+Patch 2.7.0
+
+Quality of Life
+: further improved 
+The Plague's
+ 
+Brutality
+ scoring.
+Patch 3.2.2
+
+Quality of Life
+: adjusted the projectile-throwing interaction to increase its responsiveness.
+Patch 3.6.0
+
+Buff
+: The Plague now starts with one corrupted 
+Pool of Devotion
+.
+Patch 4.7.0
+
+Quality of Life
+: improved the colours of the 
+Sickness Meter
+ on the HUD for colour-blind players.
+Patch 5.1.0
+
+Change
+:
+ removed the redundant ability for 
+The Plague
+ to infect 
+Breakable Walls
+, since Survivors have no means of interacting with them in the first place.
+Patch 5.3.0
+
+Quality of Life
+: releasing the Power button early will now continue to charge 
+Vile Purge
+ until the minimum threshold is reached, instead of cancelling it.
+
+Buff
+: increased the Cool-down Movement speed of 
+Vile Purge
+ from 
+2.3 m/s
+ to 
+3.6 m/s
+.
+
+Buff
+: increased infection time on objects from 
+35 seconds
+ to 
+40 seconds
+.
+
+Buff
+: interacting with infected objects will now cause a Survivor's Sickness Meter to increase twice as fast.
+
+Buff
+: increased the time it takes to cleanse from 
+6 seconds
+ to 
+8 seconds
+.
+Unknown Patch
+
+Change
+:
+ Reassessed the difficulty rating from 
+Very Hard
+ to 
+Hard
+.
+
+Change
+:
+ Stuns from 
+Decisive Strike
+ now deactivate the Plague's 
+Corrupt Purge
+.
+
+Trivia
+
+General
+
+The Plague
+ was the sixth female Killer.
+
+The Plague
+ was the second Killer with just a first name, the first being The 
+Huntress
+.
+
+The Plague
+, unlike most Killers, has no weapon-wipe animation due to her Weapon being a censer swinging from her hand.
+
+The Plague
+ was the first Killer to speak an actual (albeit dead) language.
+
+The Plague
+ was the second Killer to break 
+Pallets
+ and damage 
+Generators
+ with her Weapon, the first being The 
+Spirit
+.
+
+The Plague
+ audibly swallows her vomit back down when cancelling her Power manually.
+
+Development
+
+The Incense Burner was jokingly referred to as 
+"The Onion"
+ by the Developers, due to remarks made by the Community on its shape in the first Teaser.
+
+Lore
+
+The Plague
+ is to-date the oldest Killer, coming from Babylonia (1895-539 BC), a state based in central-southern Mesopotamia, an ancient Kingdom in the region of present-day Iraq. However based on the math of Vecna, was born thousands of years ago. Being also sometime in BC according to DND lore.
+
+The Plague
+ took on the role of High Priestess after the other Priests succumbed to the plague in order to support her city.
+
+Playing as 
+The Plague
+, one can see the ruby-ringed fingers mentioned in her Lore, which she got from the gold-adorned goddess statue in 
+The Temple of Purgation
+.
+
+The Plague's
+ name, 
+"Adiris"
+, means persistence, resourcefulness and empathy.
+
+This is fitting with her personality and motivations in her Lore.
+
+The Plague
+ is also the only Killer to have willingly sacrificed herself to The 
+Entity
+ in an attempt to save her people from the plague.
+
+However, admittedly, 
+The Plague
+ believed that The 
+Entity
+ was her god, and was not aware of its true nature or intentions.
+
+A gold Tablet inside the Temple is inscribed with Akkadian cuneiform.
+The inscription consists of five repeating glyphs.
+The glyphs read as 
+Dingir I-ti-n Sîn
+, representing 
+"Iddin-Sin"
+, King of the Kingdom of Simurrum, an important city state in Mesopotamia
+[
+1
+]
+, where 
+Adiris
+ originates from.
+
+It is likely that 
+The Plague
+ exclaims the sentence 
+Adda ni ka dingir asar po me
+ in her Mori animation, which roughly translates to 
+Send them to your mouth, God
+.
+
+Her lobby animations share some similarities with those of 
+Taurie Cain
+, hinting that The Black Talon and, by extension, 
+The Black Vale
+ might have originated from her activities.
+
+Memento Mori
+
+Her vomit color in the Memento Mori depends on whether or not she is empowered by the 
+Corrupt Purge
+.
+
+Video
+
+The 
+Plague
+ ingesting Corruption
+
+Gallery
+
+For more go to The 
+Plague's Gallery
+
+In-game Assets
+
+The Plague
+
+The Plague (Portrait render)
+
+The Plague (Background image)
+
+Official Art
+
+Chapter keyart
+
+Outfits
+
+Forsaken Land Outfit
+
+Old Assets
+
+The Plague (Old Portrait render)
+
+Concept Art
+
+Default Concept Art
+
+Full Infected Design
+
+Hands Concept Art
+
+Default Recolors Concept Art
+
+'Levant Wander + Urashtu Nomad' Concept Arts
+
+'Sea-Goat Worshiper' Concept Art
+
+'Priestess of the Damned' Concept Art
+
+'Maiden of Vanity' Concept Art (Designed by Dragonaer.)
+
+'Sea Goddess' Concept Art
+
+'Cat Prediction' Concept Art
+
+References
+
+↑
+ 
+https://en.wikipedia.org/wiki/Dingir#/media/File:King_Iddin-Sin_name_inscription.jpg
+ King Iddin-Sin inscription. Retrieved 14 June 2019.
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter
