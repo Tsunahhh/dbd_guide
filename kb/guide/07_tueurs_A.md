@@ -1,6 +1,6 @@
 # 7. Les tueurs (1/2) : typologie et tueurs 1 à 22
 
-Ce chapitre répond à trois questions, dans cet ordre : **à quel type de tueur ai-je affaire ?**, **comment le reconnaître avant que le jeu me le dise ?**, et **que change-t-il à mes décisions ?** La première moitié donne les principes communs par archétype ; la seconde, une fiche par tueur, de The Trapper (1) à The Twins (22). Les tueurs 23 à 44 sont traités au chapitre 8.
+Trois questions, dans cet ordre : **quel type de tueur ?**, **comment le reconnaître avant que le jeu me le dise ?**, **que change-t-il à mes décisions ?** D'abord les principes par archétype, puis une fiche par tueur, de The Trapper (1) à The Twins (22). Tueurs 23 à 44 : chapitre 8.
 
 Référence : **LIVE 10.1.2a (17/09/2026)**. Aucune valeur du PTB 10.2.0 n'est utilisée comme valeur de jeu ; quand une perk citée y est modifiée, c'est signalé « PTB 10.2.0 — non LIVE ». Mode 1v4 uniquement : les lignes « 2v8 » des notes de patch (Oni et Deathslinger en 9.6.0, Ghost Face et Executioner en 10.1.2) sont ignorées.
 
@@ -73,7 +73,6 @@ Conséquences :
 | Son d'avertissement quand il vise vers toi | Deathslinger | Forte |
 | Tueur **visible sans TR** | Shape (Stalker), Ghost Face (Night Shroud), Pig (accroupie), Wraith (scintillement proche), Demogorgon (12 s après un portail), Charlotte endormie (Twins) | Moyenne : l'absence de TR a plusieurs causes |
 | TR très large (40 m) qui arrive très vite | Hillbilly, Blight, Legion (en Frenzy) | Moyenne |
-| TR court pour un tueur rapide | Pig, Ghost Face (24 m), Huntress (20 m) | Faible seule |
 
 ```
 Premier signal observé
@@ -91,7 +90,7 @@ Premier signal observé
 
 ### Pourquoi raisonner par archétype [Intermédiaire]
 
-La plupart des tueurs sont **hybrides** (2 à 4 archétypes). Le counterplay se construit en trois couches : (1) les principes de chaque archétype du tueur, superposés ; (2) la **phase** actuelle du tueur ; (3) les exceptions de sa fiche (add-ons compris). Cette méthode te permet aussi de jouer correctement un tueur que tu connais mal : identifie ses archétypes, applique les principes, corrige ensuite.
+La plupart des tueurs sont **hybrides** (2 à 4 archétypes). Le counterplay se construit en trois couches : (1) les principes de ses archétypes, superposés ; (2) sa **phase** actuelle ; (3) les exceptions de sa fiche (add-ons compris). La méthode marche aussi contre un tueur que tu connais mal.
 
 | # | Tueur | M1 | Anti-loop | Ranged | Mobilité | Furtif | Zone/piège | Info | Slug | Autre |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -136,7 +135,7 @@ Classement [HEURISTIQUE] repris des fiches du lot 4 et du handbook (`kb/delivera
 ### Anti-loop : décider plus tôt
 
 - **Quoi** : un pouvoir qui supprime l'avantage du « dernier moment » à la palette ou à la fenêtre (Doctor, Cannibal, Nurse, Clown, Demogorgon, Deathslinger, Executioner, Blight, Twins, Legion en Frenzy).
-- **Pourquoi** : ces pouvoirs frappent **pendant** que tu attends le bon moment. Jouer avant la fenêtre du pouvoir le rend neutre.
+- **Pourquoi** : ces pouvoirs frappent **pendant** que tu attends le bon moment.
 - **Comment** : décider plus tôt (quitter la tile, pré-drop, ou rester hors de portée du pouvoir) ; enchaîner les tiles (tile-to-tile) au lieu de tenir une boucle.
 - **Le pré-drop n'est pas universel** : trois cas différents.
 
@@ -148,7 +147,6 @@ Classement [HEURISTIQUE] repris des fiches du lot 4 et du handbook (`kb/delivera
 
 - **Quand ça échoue** :
   - Contre un joueur qui **attend** ton pré-drop (il ralentit avant la palette), le pré-drop systématique lui offre la palette : mélanger pré-drop, départ anticipé sans drop, et drop normal quand le pouvoir est en recharge.
-  - Chaque pré-drop consomme une palette de la carte : en fin de partie, la zone est morte.
   - Tile-to-tile échoue quand l'open entre deux tiles est la zone idéale du pouvoir (Blight, Hillbilly, Huntress) : préférer une zone dense même pauvre en palettes.
 
 ### Ranged : couper la ligne, pas seulement esquiver
@@ -164,7 +162,6 @@ Classement [HEURISTIQUE] repris des fiches du lot 4 et du handbook (`kb/delivera
 ### Mobilité : l'obstacle solide et le moment de récupération
 
 - **Quoi** : Hillbilly, Nurse, Wraith, Spirit, Hag (TP), Nightmare (TP), Demogorgon (portails), Oni (Dash), Blight, Clown (Antidote).
-- **Pourquoi** : la mobilité convertit l'espace ouvert en coups ; un obstacle solide l'oblige à corriger ou à rater.
 - **Comment** : rester collé aux obstacles **hauts et solides** ; ne pas traverser l'open ; utiliser ses **fenêtres de récupération** (fatigue de la Nurse 2 à 3 s, fatigue de la Blight 2,5 s, cooldown du Hillbilly 2,5 s après un choc) pour **se repositionner**, pas pour fuir en ligne droite ; en macro, se disperser et ne pas laisser un 3-gen compact.
 - **Quand ça échoue** :
   - Mobilité **qui traverse les obstacles** (blink de la Nurse, phase de la Spirit) : l'obstacle ne suffit plus, il faut casser la LOS au bon moment et lire les indices (husk figé, charge du blink).
@@ -184,7 +181,7 @@ Classement [HEURISTIQUE] repris des fiches du lot 4 et du handbook (`kb/delivera
 ### Zone / piège : son temps de setup est ta ressource
 
 - **Quoi** : Trapper, Hag, Nightmare (Dream Pallets, snares), Pig (Reverse Bear Traps), Plague (fontaines, objets infectés), Executioner (traînées), Twins (Victor posé).
-- **Pourquoi** : une zone ne rapporte que si un survivant y retourne. Un réseau nettoyé = temps de setup perdu pour lui.
+- **Pourquoi** : une zone ne rapporte que si tu y retournes.
 - **Comment** : ne pas rejouer une zone préparée ; tirer la chase **hors** de son réseau ; nettoyer (désarmer, effacer) **pendant qu'il chase ailleurs** ; décider en équipe (Pig : moment de finir un gen quand plusieurs survivants sont piégés).
 - **Quand ça échoue** :
   - Add-ons qui annulent le nettoyage : Iridescent Stone (Trapper : réarme un piège désarmé toutes les 30 s), Mint Rag (Hag : TP vers n'importe quel piège non déclenché), Tension Spring (réarmement 2 s après une libération).
@@ -194,9 +191,8 @@ Classement [HEURISTIQUE] repris des fiches du lot 4 et du handbook (`kb/delivera
 ### Info : ne pas nourrir son information
 
 - **Quoi** : Hag (déclenchements), Doctor (Madness, cris), Nightmare (TP sur les soigneurs endormis), Legion (Killer Instinct), Plague, Ghost Face, Demogorgon (Killer Instinct près des portails).
-- **Pourquoi** : l'info lui permet des rotations et des arrivées sur gen sans perte de temps.
 - **Comment** : ne pas lui donner l'info gratuite (soin endormi contre le Nightmare, course dans la zone de cri de Victor, traversée debout des traînées) ; face à une révélation (Killer Instinct, aura), **bouger** plutôt que se cacher sur place.
-- **Quand ça échoue** : info déclenchée par des actions indispensables (skill checks et Madness, soins) : il faut l'accepter et jouer le mouvement. Les perks anti-aura (Distortion) servent peu contre un tueur sans aura par défaut (Ghost Face).
+- **Quand ça échoue** : info déclenchée par des actions indispensables (skill checks, soins) : l'accepter et jouer le mouvement.
 
 ### Slug : neutraliser le garde avant de relever
 
@@ -228,7 +224,7 @@ Détail : `kb/research/batch7_tiles.md` §5 (palettes annulées par pouvoir) et 
 ### SoloQ et SWF
 
 - En **SWF**, les consignes d'équipe (annoncer la position d'un Ghost Face, désigner le sauveteur d'une cage, un « écraseur » de Victor, compter les Rushes de la Blight) s'annoncent au vocal.
-- En **SoloQ**, applique-les seulement sur **signaux observables** : HUD (qui est en chase, au crochet, au sol), cris de piège, sons de pouvoir, auras de perks. Heuristique : si un coéquipier plus proche bouge déjà vers l'objectif, reste sur ton gen, mais vérifie 10 à 15 s plus tard qu'il y va vraiment.
+- En **SoloQ**, applique-les sur **signaux observables** : HUD (chase, crochet, sol), cris de piège, sons de pouvoir, auras de perks. Si un coéquipier plus proche bouge déjà vers l'objectif, reste sur ton gen et vérifie 10 à 15 s plus tard.
 
 ### Exercice [Intermédiaire]
 
@@ -282,13 +278,12 @@ Détail : `kb/research/batch4_killers_g1.md` §1.
 
 **Ce qu'il cherche** : te surprendre sur un gen ; se désocculter hors de ta vue près d'une palette ; t'amener en zone morte où le sursaut de 6,9 m/s suffit.
 
-**Tiles** : en chase, il est un M1 à 4,6 sans anti-loop : toutes les boucles standards fonctionnent. Défavorables : grands espaces entre tiles (il reprend la distance occulté à 6 m/s si tu casses le contact) et tiles courtes où une désoccultation derrière un mur suffit. Casser la LOS l'aide plus qu'elle ne t'aide.
+**Tiles** : en chase, c'est un M1 à 4,6 : les boucles standards fonctionnent. Défavorables : grands espaces entre tiles (occulté, il reprend la distance à 6 m/s) et tiles courtes où une désoccultation derrière un mur suffit. Casser la LOS l'aide plus qu'elle ne t'aide.
 
 **Counterplay** :
 - *Mécanique* : garder la caméra sur lui en boucle ; lâcher la palette sur la désoccultation tardive, pas avant.
 - *Info* : distinguer **occultation** (cloche dès le début + cliquetis : il **part**) et **désoccultation** (silence puis cloche : il **arrive**). Quand tu entends la cloche de désoccultation, il lui reste ~1,5 s avant de pouvoir frapper, puis il bondit 1 s [DATA] : c'est le moment de rejoindre l'obstacle, pas de réparer une seconde de plus. La cloche annonce une menace, pas l'instant exact du coup.
 - *Macro* : quitter le gen quand la cloche est **proche et se rapproche**, pas à chaque cloche. Éviter le duo sur un gen quand il patrouille près : deux réparateurs produisent 1,7 charge/s contre 2,0 pour deux solos sur deux gens (coopération 85 %, [DATA, audit + calcul]), et offrent deux cibles.
-- *Équipe* : un stun pendant qu'il est occulté l'étourdit 4 s : bonne fenêtre pour un sauvetage proche.
 
 **Erreurs classiques** : réparer tête baissée sans info ; pré-lâcher par peur de la cloche ; courir en ligne droite en open ; croire qu'un Wraith immobile est loin (il est transparent à l'arrêt).
 
@@ -300,9 +295,7 @@ Détail : `kb/research/batch4_killers_g1.md` §1.
 - **"The Ghost" – Soot** (TR et Red Stain supprimés 6 s de plus après la désoccultation) → ne conclus pas « il est reparti » sur l'absence de TR.
 - **Windstorm** (+5/7/9 % occulté) → tiens la boucle en cours **au lieu de** fuir vers une tile éloignée.
 - **Swift Hunt** (désoccultation −8/−10/−12 %, ~2,64 s au max, calcul) → décide le drop un peu plus tôt.
-- **"Shadow Dance"** (+40/60 % à la casse et aux vaults occulté) → après un drop, enchaîne vers la tile suivante.
 - **"The Serpent" – Soot** (se désocculte en cassant une palette ou en abîmant un gen, 9.5.0) → moins de surprise sur gen : info gratuite.
-- **"The Beast" – Soot** (TR non supprimé occulté) → utilise son TR comme une alerte normale.
 
 Détail : `kb/research/batch4_killers_g1.md` §2.
 
@@ -327,7 +320,7 @@ Détail : `kb/research/batch4_killers_g1.md` §2.
 
 **Erreurs classiques** : pré-lâcher au premier son de charge ; courir en ligne droite en open ; croire qu'être blessé « protège » de la tronçonneuse.
 
-**Quand le counterplay échoue** : Apex Muffler (charge silencieuse hors TR) ; carte ouverte sans structures hautes : jouer la distance et la dispersion plutôt que la chase.
+**Quand le counterplay échoue** : carte ouverte sans structures hautes : jouer la distance et la dispersion plutôt que la chase.
 
 **Add-ons qui changent la décision** (SS) :
 - **LoPro Chains** (le sprint traverse palettes et murs en les cassant) → privilégie **murs solides et fenêtres** **au lieu des** palettes contre le sprint.
@@ -335,7 +328,6 @@ Détail : `kb/research/batch4_killers_g1.md` §2.
 - **Filthy Slippers** (Undetectable après 2 s de sprint) → TR qui disparaît pendant un sprint : reste à couvert **au lieu de** conclure qu'il s'éloigne.
 - **Tuned Carburettor** (charge +20 %, mais **4,4 m/s** permanent) → réagis dès le premier son ; en M1, les boucles tiennent plus longtemps.
 - **Counterweight** (virage initial −70 %) → un virage **précoce** suffit ; **Dad's Boots / Spiked Boots** (virage +20/30 %) → esquive **plus tard** et derrière un obstacle.
-- **Iridescent Engravings** (sprint +20 %) → la distance « sûre » grandit : colle-toi aux obstacles.
 - **Cracked Primer Bulb** (tronçonneuse = 1 état de santé) → sain, un coup ne te met pas à terre : ne sacrifie pas tout pour l'esquiver.
 
 Détail : `kb/research/batch4_killers_g1.md` §3.
@@ -363,7 +355,7 @@ Détail : `kb/research/batch4_killers_g1.md` §3.
 
 **Erreurs classiques** : courir en ligne droite ; lâcher des palettes ; double-back toujours au même moment ; rester visible derrière un obstacle bas.
 
-**Quand le counterplay échoue** : contre une Nurse experte, le double-back devient lisible : alterner continuer et revenir.
+**Quand le counterplay échoue** : une Nurse experte lit ton double-back : alterne continuer et revenir.
 
 **Add-ons qui changent la décision** (SS) :
 - **Torn Bookmark** (+1 charge, 3 blinks) → attends le **3e** blink avant de te repositionner **au lieu du** 2e.
@@ -372,7 +364,6 @@ Détail : `kb/research/batch4_killers_g1.md` §3.
 - **Matchbox** (**4,4 m/s** mais **1 seul blink**) → pas de chain blink : feinte le 1er blink puis tourne ; en M1, c'est un tueur 4,4.
 - **Kavanagh's Last Breath** (Blindness 60 s à ≤ 8 m pendant sa fatigue) → ne reste pas collé à elle si tu comptes sur des auras.
 - **Catatonic Boy's Treasure** (−65 % de fatigue de chain), **Ataxic Respiration** (fatigue −7 %, pas un add-on de portée), **Dark Cincture** → fenêtre de fatigue plus courte : repositionne plus tôt.
-- **"Bad Man's" Last Breath** (Undetectable 25 s après un coup) → le blessé joue la LOS **au lieu d'**attendre le TR.
 
 Détail : `kb/research/batch4_killers_g1.md` §4.
 
@@ -417,7 +408,6 @@ Détail : `kb/research/batch4_killers_g1.md` §4.
 - **Hair Bow** (EI +20 s = 80 s) → recompte le chrono **au lieu de** 60 s.
 - **Fragrant Tuft of Hair** (EI : Exposed pour tous, fente +50 %, **pas de SS**) → tout coup met à terre, mais les palettes redeviennent sûres : joue-les **au lieu de** ne jouer que les fenêtres.
 - **Scratched Mirror** (auras à ≤ 32 m pendant le stalk ; bloqué en Stalker) → se cacher derrière un mur ne suffit pas, **mais** il n'a ni EI, ni SS, ni exécution : chase contre un M1 lent.
-- **Lock of Hair** (peut finir l'EI plus tôt) → prudence après un arrêt brutal du TR 32 m.
 
 Détail : `kb/research/batch4_killers_g1.md` §5.
 
@@ -439,7 +429,7 @@ Détail : `kb/research/batch4_killers_g1.md` §5.
 
 **Erreurs classiques** : sprinter sur les marques ; rester à côté d'un piège déclenché ; sauvetage direct sur un crochet piégé ; compter sur une lampe pour nettoyer son réseau.
 
-**Quand le counterplay échoue** : Mint Rag (TP vers n'importe quel piège non déclenché) ; Rusty Shackles (aucune alerte de déclenchement).
+**Quand le counterplay échoue** : Mint Rag et Rusty Shackles (ci-dessous).
 
 **Add-ons qui changent la décision** (SS) :
 - **Mint Rag** (TP vers n'importe quel piège **non déclenché** de la carte, CD 10 s) → **efface** son réseau autour des gens **au lieu de** seulement l'éviter : un piège loin d'elle n'est plus hors de portée.
@@ -448,7 +438,6 @@ Détail : `kb/research/batch4_killers_g1.md` §5.
 - **Grandma's Heart** (son TR supprimé pendant un déclenchement ; faux TR du fantôme 24 m) → le TR entendu est celui du fantôme : ne t'en sers pas pour la localiser.
 - **Waterlogged Shoe** (**4,73 m/s**, plus de TP) → M1 plus rapide que d'habitude : évite les longues boucles en zone piégée.
 - **Scarred Hand** (pièges et fantômes **bloquent le passage**, plus de TP) → les marques deviennent des murs : ne t'enferme pas dans une tile piégée.
-- **Bog Water / Bloodied Water / Bloodied Mud** (rayon −10/−20/−30 %) → pièges plus précis aux passages obligés.
 
 Détail : `kb/research/batch4_killers_g1.md` §6.
 
@@ -458,7 +447,6 @@ Détail : `kb/research/batch4_killers_g1.md` §6.
 - **Shock Therapy** : charge 1 s (il avance à 3,08 m/s), cône au sol de **12 m**, détonation **0,65 s** après le relâchement (0,8 → 0,75 s en 9.6.0, → **0,65 s en 9.6.1**, VM), recharge 1,5 s. Touché : +0,5 palier de Madness, **cri** qui interrompt l'action, **aucune interaction (palettes et fenêtres comprises) pendant 2,5 s**.
 - **Static Blast** : charge **2 s**, onde qui **traverse les obstacles** et couvre **tout son TR** ; +1 palier ; **seul un casier protège** ; recharge **30 s** si personne n'était à portée, **45 s** sinon. Un survivant Oblivious est quand même touché.
 - **Madness** : I = 33 % de skill checks de Madness ; II = 66 % + faux Doctors ; III = 100 %, cris intermittents, **objets inutilisables**, **aucune interaction à barre de progression faite ou reçue sauf décrocher**. **Snap Out of It** (12 s) ramène au palier I.
-- 10.0.0 : vignette de bruit supprimée, lumière et secousse de caméra réduites (VP).
 
 **Identification** : crépitement électrique, skill checks inhabituels, cris involontaires, faux Doctors ; Static Blast = charge audible + onde.
 
@@ -482,7 +470,6 @@ Détail : `kb/research/batch4_killers_g1.md` §6.
 - **High Stimulus / Polished / Mouldy Electrode** (+4/+3/+2 m, jusqu'à 16 m) → prends plus de marge avant toute action.
 - **"Discipline" – Carter's Notes / Class III / Class II** (délai 0,55 / 0,57 / 0,59 s, VM ; faux Red Stain/TR en Madness II-III) → pré-drop encore plus tôt, et **ne lis pas la distance au Red Stain** en Madness.
 - **"Order"** (palettes illusoires pour les survivants en Madness) → en Madness, ne planifie pas une chase sur une palette apparue là où tu l'avais vue cassée.
-- **"Calm"** (TR modifié selon que le Static Blast est prêt) → un TR plus grand = Static Blast prêt : casier ou dispersion.
 
 Détail : `kb/research/batch4_killers_g1.md` §7.
 
@@ -985,5 +972,5 @@ Détail : `kb/research/batch4_killers_g3.md` §22.
 - `kb/research/batch4_killers_g1.md` (tueurs 1-7), `kb/research/batch4_killers_g2.md` (8-15), `kb/research/batch4_killers_g3.md` (16-22) : fiches auditées et re-vérifiées le 27/09/2026 sur pages wiki complètes et notes officielles.
 - `kb/ledgers/AUDIT_PHASE0_ERRATA.md` (casseurs de palette, 7 hachettes de la Huntress) ; `kb/seed/audit_phase0.txt` (vitesses survivant, protections de décrochage, anti-facecamp, Deep Wound).
 - `kb/deliverables/KILLER_COUNTERPLAY_HANDBOOK.md` §2-3 (typologie, matrice tile × archétype) ; `kb/research/batch7_tiles.md` §5.2 (palettes annulées par pouvoir) ; `kb/research/batch11_training.md` (DR-15).
-- Pages wiki.gg complètes (copies `kb/sources/wiki_killers/`) : Evan MacMillan, Philip Ojomo, Max Thompson Jr., Sally Smithson, Michael Myers, Lisa Sherwood, Herman Carter, Anna, Bubba Sawyer, Freddy Krueger, Amanda Young, Kenneth Chase, Rin Yamaoka, Frank Julie Susie Joey, Adiris, Danny Johnson, Demogorgon, Kazan Yamaoka, Caleb Quinn, Pyramid Head, Talbot Grimes, Charlotte & Victor Deshayes ; page Pallets ; page Cages of Atonement.
+- Pages wiki.gg complètes (copies `kb/sources/wiki_killers/`) : Evan MacMillan, Philip Ojomo, Max Thompson Jr., Sally Smithson, Michael Myers, Lisa Sherwood, Herman Carter, Anna, Bubba Sawyer, Freddy Krueger, Amanda Young, Kenneth Chase, Rin Yamaoka, Frank Julie Susie Joey, Adiris, Danny Johnson, The Demogorgon, Kazan Yamaoka, Caleb Quinn, Pyramid Head, Talbot Grimes, Charlotte & Victor Deshayes ; page Pallets ; page Cages of Atonement.
 - Notes officielles BHVR (copies `kb/sources/patches/official_*.txt`) : 9.1.0 (516), 9.2.0 (523), 9.2.3 (526), 9.5.0 (538), 9.6.0 (544), 9.6.1 (545), 9.6.2 (546), 10.1.0 (556) ; PTB 10.2.0 (559, non LIVE).

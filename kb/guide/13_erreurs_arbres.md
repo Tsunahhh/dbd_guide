@@ -2,7 +2,7 @@
 
 Deux outils complémentaires : la **base d'erreurs** (51 erreurs de survivant, du débutant au très avancé, au format **Erreur → Pourquoi → Punition → Correction → Drill**) sert à se diagnostiquer en revue ; les **9 arbres de décision** (palette, quitter la tile, crochet, soin, gen/99, totem, slug, endgame, trappe) servent à décider en partie. Chaque arbre a un schéma ASCII, une justification par feuille et ses variantes SoloQ / SWF.
 
-> **À retenir** : aucune ligne de ce chapitre n'est une règle absolue. Chaque correction et chaque feuille dit **quand** elle s'applique, **ce qu'elle risque** et **quelle est l'alternative**. Un arbre ordonne des questions. Il ne donne pas « la » réponse.
+> **À retenir** : aucune ligne de ce chapitre n'est une règle absolue ; chaque correction et chaque feuille donne sa condition, son risque et son alternative.
 
 **Version de référence** : LIVE 10.1.2a (17/09/2026), mode 1v4 uniquement (rien du 2v8 n'est transposé ici). Le PTB 10.2.0 (Survivor Intent System, refonte d'Abandon/Surrender, 58 perks modifiées) **n'est pas LIVE**. Rien ici n'en dépend. Les entrées qu'il pourrait changer portent la mention « à revoir après 10.2.0 ».
 
@@ -41,9 +41,8 @@ Deux outils complémentaires : la **base d'erreurs** (51 erreurs de survivant, d
 | Fenêtres | fast 0,5 s (≥ 2,5 m de course droite, garde l'élan, bruyant) · medium 0,9 s · slow 1,5 s ; tueur 1,7 s ; bloquée **30 s pour toi seul** après ton 3e vault de la même fenêtre dans la même poursuite | (SS) |
 | Palettes | stun 2 s (palette abaissée à ~50 % au moins) ; casse **2,34 s** ; Enduring −40/45/50 % sur le stun | (VM) casse / (SS) |
 | Bloodlust | +0,2 / +0,4 / +0,6 m/s à 15 / 25 / 35 s de poursuite ; perdue sur casse, coup réussi, ou usage des pouvoirs listés par le wiki ; effet d'un stun : non documenté | (VM) / (SS) / (INC) |
-| Match Details (9.6.0) | loadouts des coéquipiers visibles ; tueur révélé dès qu'un survivant entre en poursuite ou perd un état ; **loadout du tueur caché jusqu'à la fin** | (VP) |
 
-> **Erreur fréquente** : croire que les pouvoirs qui annulent une palette la cassent tous « instantanément ». La liste de l'audit phase 0 a été corrigée par l'errata : Knight (gardes) casse en 1,8 s ou 5 s ; Lich + Vorpal Sword casse en 4 s ; Mastermind et Good Guy ne cassent qu'avec un add-on (Lab Photo, Hard Hat) ; Shape, Executioner, Nemesis, Singularity et The First manquaient. Liste complète corrigée en §13.4 (E-A03).
+> **Erreur fréquente** : croire que tous les pouvoirs qui annulent une palette la cassent « instantanément ». Liste corrigée par l'errata en §13.4 (sous E-A03).
 
 ### 13.1.3 L'économie en secondes (calculs à réutiliser)
 
@@ -64,10 +63,7 @@ Deux outils complémentaires : la **base d'erreurs** (51 erreurs de survivant, d
 - **Chaque correction dit quand elle ne s'applique pas.** Plusieurs erreurs vont par paires opposées (§13.6.2) : corriger l'une en tombant dans l'autre n'est pas un progrès.
 - **Drill** : chaque erreur renvoie à un exercice `DR-xx` (liste en §13.6). Le détail des drills, du programme et de la fiche de revue se trouve dans `kb/research/batch11_training.md` (§3 à §6) et `kb/deliverables/TRAINING_PROGRAM.md`.
 
-**Méthode de revue en 3 questions** [HEURISTIQUE] :
-1. Quel état ou quelle ressource ai-je perdu, et à quelle seconde ?
-2. Quelle erreur de la base décrit la décision, **pas** le résultat ? Un coup reçu à cause de la latence n'est pas une erreur de décision (E-T08).
-3. Quel drill la travaille, et sur combien de parties ?
+**Revue en 3 questions** [HEURISTIQUE] : quel état ou quelle ressource ai-je perdu, à quelle seconde ? Quelle erreur décrit la **décision**, pas le résultat (un coup dû à la latence n'en est pas une, E-T08) ? Quel drill la travaille ?
 
 ---
 
@@ -104,7 +100,7 @@ Quatorze erreurs. Elles portent sur la caméra, le pathing, la palette gaspillé
 | **E-D10** · SOIN | Soigner sous le crochet, juste après le décrochage | Réflexe « d'abord soigner » | Le tueur revient au crochet, l'endroit qu'il connaît ; le soin de 16 s est interrompu et les deux survivants sont blessés au même endroit. Soigner est une action voyante : l'Endurance du décroché tombe [FACT (SS)] | Quitter la zone du crochet (hors LOS, vers une tile ou un gen éloigné du tueur), **puis** décider du soin (arbre Soin). Exception [SITUATIONNEL] : tueur confirmé en chase loin et engagé (callout SWF ou HUD) | DR-10, DR-18 |
 | **E-D12** · SOLOQ | Ignorer le HUD et les loadouts visibles des coéquipiers | Attention entièrement sur son propre écran | Doublons de sauvetage ou personne au crochet ; tu répares alors que le seul chaseur est au sol depuis 30 s | Lire les loadouts des coéquipiers en début de partie (visibles depuis 9.6.0, [FACT (VP)]) : Kindred, We'll Make It, Borrowed Time, lampe… Relire le HUD à chaque changement d'état. Défaut SoloQ : un coéquipier plus proche et déjà en mouvement va au crochet → rester sur son gen, **vérifier 10-15 s plus tard**. Contenu exact du HUD [INCERTAIN] ; à revoir après 10.2.0 | DR-16 |
 
-> **À retenir (débutant)** : les erreurs débutant ont un point commun. On agit **au moment où l'on a peur** (palette posée trop tôt, vault en regardant derrière, décrochage immédiat, cachette), au lieu d'agir au moment où l'action rapporte le plus. La correction passe presque toujours par une question : « qu'est-ce qui arrive si j'attends 2 secondes ? »
+> **À retenir (débutant)** : on agit **au moment où l'on a peur** (palette trop tôt, vault en regardant derrière, décrochage immédiat, cachette) au lieu du moment où l'action rapporte le plus. Question-clé : « que se passe-t-il si j'attends 2 secondes ? »
 
 **Variantes SoloQ / SWF (débutant)** :
 - `[SoloQ]` E-D09 et E-D12 se combinent. Sans information, attendre un signe d'engagement du tueur (icône de chase au HUD, TR qui s'éloigne) est la seule protection contre le trade.
@@ -149,7 +145,7 @@ Quatorze erreurs, dont E-I14 ajoutée par l'audit P14. Le joueur sait boucler un
 | **E-I10** · CROCHET | Croire que l'anti-camp décrochera un allié proxy-campé (tueur à 16-25 m) | Conseil faux du seed (audit A-283) | L'allié passe en phase 2 ou meurt sans que la jauge bouge | L'anti-camp n'agit qu'à < 16 m [FACT (VM)], faiblement près de 16 m (×0,375 à 15 m, (SS)), et ralentit si d'autres survivants sont proches. Contre un proxy : soit réparer **en sachant** que l'allié perd sa phase (tempo gagné), soit organiser un sauvetage (en SWF : un sauveteur + une distraction). Choix [SITUATIONNEL] selon gens restants et état de l'allié | DR-10 |
 | **E-I11** · CROCHET | Gaspiller les protections de décrochage (réparer ou soigner dans les 10 s, courir vers le tueur) | Envie de rattraper le temps perdu au crochet | Endurance perdue sur action voyante [FACT (SS)] : un coup met alors au sol au lieu de donner Deep Wound ; Elusive gaspillée si tu restes en vue | Les 10 s servent à **s'éloigner hors LOS** (Haste 10 % ; Elusive = ni griffures, ni flaques, ni grognements). Réparer seulement hors de portée et hors de piste. Will to Live : les actions qui la désactivent sont reprises du seed [INCERTAIN] | DR-10 |
 
-> **Erreur fréquente** : corriger E-I02 (over-heal) par « je ne me soigne plus jamais ». Le joueur qui ne soigne jamais raccourcit toutes ses chases suivantes d'un palier. La bonne question n'est pas « faut-il soigner ? » mais « cet état de santé servira-t-il dans une chase **avant** qu'un gen ne soit perdu ? ».
+> **Erreur fréquente** : corriger E-I02 par « je ne me soigne plus jamais ». La bonne question : « cet état servira-t-il dans une chase **avant** qu'un gen ne soit perdu ? »
 
 **Variantes SoloQ / SWF (intermédiaire)** :
 - `[SoloQ]` E-I03 et E-I04 sont les erreurs SoloQ les plus coûteuses, parce que personne ne sait qui va au crochet. Défaut robuste : un seul sauveteur, choisi par l'arbre Crochet (CRO-1 à CRO-3), avec une vérification en route.
@@ -213,7 +209,7 @@ Douze erreurs. Le joueur maîtrise l'exécution. Il perd maintenant de la valeur
 | **E-T11** · SOIN | Mal gérer Deep Wound ou les soins sous pression d'un tueur à statut | Deep Wound traité comme une blessure normale | À zéro, état mourant ; un dégât sous Deep Wound = au sol même avec Endurance [FACT (VP)] | Le timer (20 s) est en pause quand tu cours [FACT] : courir hors de la zone, puis mending hors de vue (10 s seul, 6 s avec un allié). Contre Legion, éviter d'être groupé : le mending à deux fait gagner 4 s mais expose deux survivants | DR-18, DR-15 |
 | **E-T12** · SWF | Callouts trop nombreux ou imprécis (« il est là ! ») | Confusion entre communiquer et informer | L'équipe ne distingue plus l'essentiel ; décisions retardées ; bruit qui couvre l'audio du jeu en pleine chase | Grammaire fixe **qui / quoi / où / état / intention**, en ≤ 5 mots pendant une chase ; le chaseur parle peu ; un seul joueur fait le point des gens environ chaque minute [HEURISTIQUE] | DR-08 |
 
-> **À retenir (très avancé)** : à ce niveau, la plupart des erreurs viennent d'une question mal posée. On se demande « comment survivre à cette chase ? » au lieu de « quel usage de mon temps et de mes états rapporte le plus à l'équipe ? ». E-T01, E-T05 et E-T06 sont trois versions de la même faute.
+> **À retenir (très avancé)** : E-T01, E-T05 et E-T06 sont la même faute : se demander « comment survivre à cette chase ? » au lieu de « quel usage de mon temps et de mes états rapporte le plus à l'équipe ? ».
 
 **Variantes SoloQ / SWF (très avancé)** :
 - `[SoloQ]` E-T05 est plus difficile : tu ne sais pas si les autres sont en sécurité. Par défaut, rester chassable quand tu es sain et que le HUD montre des coéquipiers sur les gens. E-T01 : un trade en SoloQ suppose que personne d'autre ne vient, donc compter les états **réellement** offerts.
@@ -274,14 +270,14 @@ Tous les seuils de réussite des drills sont [HEURISTIQUE] / [INCERTAIN]. Ils me
 
 ## 13.7 Arbres de décision : mode d'emploi
 
-**Format commun** : entrée (situation déclenchante) → squelette ASCII (les questions dans l'ordre où elles changent la décision, chaque feuille porte un code `[XXX-n]`) → table des feuilles (action · pourquoi · risque ou alternative) → variantes SoloQ / SWF et contre-jeu du tueur.
+**Format** : entrée → squelette ASCII (questions dans l'ordre où elles changent la décision, feuilles codées `[XXX-n]`) → table des feuilles → SoloQ / SWF et contre-jeu.
 
 **Trois règles d'usage** [HEURISTIQUE] :
 1. **Un arbre ordonne des questions, il ne donne pas « la » réponse.** Aucune feuille ne dit « toujours drop » ou « toujours greed ».
-2. **Version en jeu contre version de revue.** En pleine chase, ne traiter que les 3-4 premières questions. Les suivantes se **préparent avant** (état d'équipe, palettes restantes, perks suspectées) et se **vérifient en revue**. Une décision moyenne prise à temps vaut souvent mieux qu'une bonne décision 10 s trop tard.
+2. **En jeu, seulement les 3-4 premières questions** ; les suivantes se **préparent avant** (état d'équipe, palettes, perks suspectées) et se **vérifient en revue**. Une décision moyenne à temps vaut mieux qu'une bonne décision 10 s trop tard.
 3. **Règle de conflit.** Si deux questions mènent à des feuilles opposées, **la question la plus haute choisit la feuille, les suivantes règlent le moment**. C'est une convention, pas une règle démontrée.
 
-> **Erreur fréquente** : apprendre les feuilles par cœur sans les questions. Contre un tueur qui a compris ta réponse par défaut (il attend ton pre-drop, il simule un départ du crochet), une feuille appliquée mécaniquement devient prévisible. L'arbre sert à savoir **quelle information chercher**.
+> **Erreur fréquente** : appliquer une feuille mécaniquement. Un tueur qui a compris ta réponse par défaut (il attend ton pre-drop, simule un départ du crochet) l'exploite. L'arbre sert à savoir **quelle information chercher**.
 
 ---
 
@@ -479,7 +475,7 @@ Fin de partie où sauver coûte deux sorties (rare) ────► [CRO-16] NE 
 | **CRO-15** | [SWF] Un se montre, un décroche | Couvre le sauvetage | Deux cibles → CRO-12 |
 | **CRO-16** | Ne pas sauver [SITUATIONNEL, rare] | Sauver coûterait la sortie de deux survivants | Abandonner un allié sauvable |
 
-**Contre-indications** : crochets du sous-sol (insabotables, mais c'est la géométrie qui expose) ; The Judgment (Exile = état de crochet sans perks de crochet, réapparition à ≥ 32 m) ; Pain Resonance / Grim Embrace se déclenchent à l'**accrochage** (un trade raté qui accroche le sauveteur pour la 1re fois coûte en plus). **Contre-jeu du tueur** : simuler le départ (sortir des 16 m puis revenir). Un silence n'est pas un départ, surtout contre un furtif. Les saves (flash, pallet, sabotage, body block) sont hors périmètre (lot 5 non traité).
+**Contre-indications** : Pain Resonance / Grim Embrace se déclenchent à l'**accrochage** (un trade raté qui accroche le sauveteur pour la 1re fois coûte en plus) ; au sous-sol, c'est la géométrie qui expose. **Contre-jeu du tueur** : simuler le départ (sortir des 16 m puis revenir) ; un silence n'est pas un départ, surtout contre un furtif. Saves (flash, pallet, body block) : hors périmètre.
 
 Détail : `kb/deliverables/DECISION_TREES.md` §3 ; `kb/research/batch9_macro.md` §2.5-2.7.
 
@@ -725,7 +721,7 @@ Détail (arbres 6 à 9) : `kb/deliverables/DECISION_TREES.md` §6-9 ; `kb/resear
 ## 13.17 Limites et corrections du seed
 
 **Ce que ce chapitre ne sait pas** :
-- **Distances non quantifiables** : portée de fente, durée d'abaissement de la palette, effet d'un stun sur la Bloodlust et taux de base de l'anti-camp sont inconnus. Tous les seuils de distance des arbres 1 à 3 sont des ordres de grandeur.
+- **Distances non quantifiables** (portée de fente, abaissement de la palette, stun et Bloodlust, taux de l'anti-camp) : les seuils des arbres 1 à 3 sont des ordres de grandeur.
 - **Branches `[SoloQ]` fondées sur un HUD non vérifié** (icônes d'action, compteur de crochets, indicateur de chase). À revoir après 10.2.0 (Survivor Intent System).
 - **Lacunes de la base d'erreurs** : aucune erreur sur les objets (lampe, toolbox, med-kit), les casiers en chase ou les saves (flash, pallet save, sabotage, body block d'équipe) ; SWF sous-représenté (1 entrée).
 - **Aucun arbre n'a été testé sur des parties réelles.** Les délais de rédacteur (15-20 s de confirmation SoloQ, 70-80 % de gen, ~10 s de marge de sauvetage) n'ont pas de source.
@@ -752,4 +748,4 @@ Détail (arbres 6 à 9) : `kb/deliverables/DECISION_TREES.md` §6-9 ; `kb/resear
 - `kb/research/batch7_tiles.md` §5.2 (liste corrigée des pouvoirs qui annulent une palette).
 - `kb/research/batch9_macro.md` (crochet, soin, gens, slug, endgame) ; `kb/research/batch6_chase_tech.md` (palette, quitter la tile).
 - `kb/ledgers/AUDIT_PHASE0_ERRATA.md` (Knight, Lich, Mastermind, Good Guy, Huntress 7 hachettes).
-- `kb/seed/audit_phase0.txt` (constantes vérifiées) ; notes officielles 7.5.0, 8.2.0, 9.0.0, 9.1.0, 9.3.0, 9.6.0, 10.1.0, 10.1.1 (`kb/sources/patches/`) ; pages wiki Pallets, Bloodlust, Hooks.
+- `kb/seed/audit_phase0.txt` (constantes vérifiées) ; notes officielles 7.5.0, 8.2.0, 9.0.0, 9.1.0, 9.3.0, 9.6.0, 10.1.0, 10.1.1 (`kb/sources/patches/`) ; page wiki Pallets et pages des tueurs citées par l'errata et le lot 7.

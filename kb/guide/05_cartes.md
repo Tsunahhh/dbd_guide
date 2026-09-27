@@ -269,7 +269,7 @@ La hauteur des murs de maze tiles décide si une tile bloque la ligne de vue. C'
 2. **Quelle carte ?** → emplacement du main et des landmarks, **gens fixes**, ressources fixes (fenêtres, palettes, coffres).
 3. **Qu'est-ce qui est RNG à confirmer ?** → fenêtre active (Gas Heaven, Wretched Shop), portes ouvertes (Groaning Storehouse), paires exclusives (Garden of Joy, Shattered Square), côté des structures (Toba), gen du Main Hall (RPD).
 4. **Où peut être le sous-sol ?** → fixe (3 cartes), à 2 emplacements (3 cartes), sinon shack ou main.
-5. **Verticalité ?** → étages, drops, rampes : ressource pour le survivant, piège pour une Nurse, avantage pour un Ghoul ou un Hunstress en hauteur.
+5. **Verticalité ?** → étages, drops, rampes : ressource pour le survivant, piège pour une Nurse, avantage pour un Ghoul ou un Huntress en hauteur.
 6. **Intérieur ou extérieur ?** → sons, casiers, couloirs, LOS.
 7. **Quels gens fixes forment deux tiers d'un 3-gen ?** → surveiller le 3e gen RNG à mi-partie.
 8. **Quel est le « plan de fin » connu ?** → gates documentées (Nostromo, Underground Complex, RPD) ou « ne rien présumer ».
@@ -307,5 +307,209 @@ Un mur cassable se casse en **2,34 s**, par le tueur seulement [FACT] (VM). Cass
 > **À retenir** : côté tueur, casser les murs **en patrouille**, quand ils serviront à plusieurs chases, plutôt qu'en pleine chase. Côté survivant, un mur cassé en pleine chase vous donne 2,34 s (≈ 9,4 m) : utilisez-les pour **changer de loop**, pas pour refaire la même.
 
 Détail : `kb/research/batch8_maps.md` §3.0 et §4 ; `kb/research/batch7_tiles.md` §4.14.
+
+---
+## 5.4 Fiches par carte `[Intermédiaire]`
+
+**Format de chaque fiche**
+
+- **Fixe** : « contains » du wiki ou note officielle. Confiance par défaut **(SS)**.
+- **RNG** : possible, pas garanti.
+- **Verticalité / intérieur** : étages, drops, part d'intérieur.
+- **Zones fortes / faibles** : seulement ce que les sources décrivent ; le reste est dit « non documenté ».
+- **Archétypes** : toujours **[HYPOTHÈSE]** (aucun kill rate), avec le mécanisme.
+- **Plan** : **[HEURISTIQUE]** début / milieu / fin, avec la condition.
+
+Quand une fiche ne contient rien de propre à la carte dans les sources, elle le dit et renvoie au cadre général (§5.3). Mieux vaut une ligne vide qu'une ligne inventée.
+
+---
+
+### 5.4.1 The MacMillan Estate (industriel, hauts murs de briques)
+
+**Commun au royaume** [FACT] (SS) : **The Tower (Coal Tower) et le Lumber Pile sur toutes les cartes sauf Shelter Woods** ; le Water Tower (structure carrée en briques, ni fenêtre ni palette décrites : obstacle de LOS). Murs de gyms **hauts**. Royaume visé par les **trois** passes 9.2.0, 9.3.0 et 9.3.2 (VP) — mais sans liste par carte : impossible de dire quelle loop précise a changé.
+
+#### Coal Tower (I) — 132 sqT, petite
+- **Fixe** : main « Warehouse » sur 2 niveaux, escalier intérieur. RDC : 3 casiers, **3 murs cassables**, **1 fenêtre**. Étage : **gen fixe**, **coffre fixe**, 1 mur cassable qui bloque un drop ; **3 drops** depuis l'étage. **2 palettes** à l'extérieur du bâtiment.
+- **RNG** : escalier de sous-sol possible dans le main (sinon shack) ; gyms.
+- **Verticalité / intérieur** : oui (étage + drops) ; carte extérieure.
+- **Zones fortes / faibles** : fenêtre du RDC + drops = ressource de chase fixe ; un mur cassé change la loop du main (à réévaluer au pre-run).
+- **Archétypes [HYPOTHÈSE]** : petite (≈ 1,4 s de moins par traversée que la médiane) → M1 un peu moins pénalisés. Tueur qui casse vite les murs : le main raccourcit pour lui.
+- **Plan** :
+  - *Début* : le gen de l'étage est exposé ; les drops sont la sortie. Le faire quand le tueur est loin.
+  - *Milieu* : garder fenêtre + drops pour une chase longue (R3), **si** le tueur n'a pas cassé les murs qui prolongent le main.
+  - *Fin* : petite carte → gates vite couvertes, ne pas compter sur un long trajet.
+- **Côté tueur** : casser les murs qui prolongent le main coûte ≈ 7 s pour 3 murs (≈ 23 % d'un gen si 3 réparent) — rentable seulement si le main sert ensuite à plusieurs chases.
+- 9.3.2 : correctif Nurse sur le rebord du bâtiment (VP).
+
+#### Groaning Storehouse (I) — 156 sqT
+- **Fixe** : « Storehouse », grand bâtiment **un seul niveau** ; 2 entrées principales à 2 portes de garage chacune ; **2 fenêtres**, 1 mur cassable, 3 casiers, **coffre fixe**.
+- **RNG** : **certaines portes de garage parfois fermées** ; palette intérieure, gen, sous-sol possibles.
+- **Verticalité / intérieur** : aucune verticalité ; grand volume fermé qui coupe la LOS depuis l'extérieur [HEURISTIQUE].
+- **Zones fortes / faibles** : la sûreté du main dépend des portes ouvertes (RNG) ; le reste n'est pas documenté.
+- **Archétypes [HYPOTHÈSE]** : peu de relief → neutre ; murs hauts du royaume → furtifs un peu aidés.
+- **Plan** : *début* = noter quelles portes de garage sont ouvertes (change la sûreté du main) ; *milieu / fin* = cadre général.
+- « 3 totems possibles dans le main » : **[INCERTAIN]**, absent des sources.
+
+#### Ironworks of Misery (I) — 160 sqT
+- **Fixe** : « Foundry » sur 2 niveaux ; **escalier intérieur (3 drops)** + **escalier extérieur (1 drop)** ; 7 casiers ; **gen RDC fixe** ; **coffre dans le bureau (étage)** ; 3 fenêtres (1 RDC, 2 à l'étage dont **une toujours bloquée**) ; 2 murs cassables (1 par niveau) ; 3 entrées RDC. Landmark secondaire : **Water Tower** qui grince au passage.
+- **RNG** : crochet RDC, totem à l'étage, sous-sol possibles.
+- **Verticalité / intérieur** : **forte** (4 drops).
+- **Zones fortes / faibles** : main réputé fort [AVIS D'EXPERT, non mesuré].
+- **Archétypes [HYPOTHÈSE]** : main à étages → difficile pour un M1. Nuance : la Nurse peut perdre une fatigue sur un blink au mauvais étage (l'étage **aide** le survivant qui lit le blink) ; Ghoul (bonds) et Hillbilly (rampes) sont moins gênés.
+- **Plan** :
+  - *Début* : le gen RDC est au pied d'une grosse ressource → à faire quand le tueur est loin (R2).
+  - *Milieu* : garder le main pour une chase **si** le tueur n'a pas d'outil qui l'annule.
+  - *Fin* : cadre général.
+- Le grincement du Water Tower trahit un passage ; portée audible et notification éventuelle côté tueur **[INCERTAIN]**.
+- Correctifs : fenêtre non vaultable (9.2.0), gen inaccessible d'un côté (9.3.0), navigation (9.3.2) (VP).
+
+#### Shelter Woods (I) — 176 sqT, la plus grande (ex æquo Azarov's)
+- **Fixe** : landmark central **Hunting Camp** (6.6.0) avec gen « Command Centre » ; **Twisted Tree** déplacé sur un côté ; **ni Tower ni Lumber Pile** ; **pas de collines**.
+- **RNG** : gyms, fillers ; sous-sol (shack ou camp : non documenté).
+- **Verticalité / intérieur** : faible ; carte boisée (arbres, rochers).
+- **Zones fortes / faibles** : pas de main à étages ; non documenté au-delà.
+- **Archétypes [HYPOTHÈSE]** : la plus grande → mobilité avantagée, M1 pénalisés (≈ 1,7 s de plus par traversée que la médiane) ; arbres qui cassent la LOS → furtifs aidés.
+- **Plan** :
+  - *Milieu / fin* : éviter de laisser les 3 derniers gens proches (3-gen). La distance entre gens restants joue pour les survivants, **mais** allonge aussi leurs propres trajets (≈ 26,5 s d'un bord à l'autre à 4,0 m/s).
+  - *Fin* : gates potentiellement très éloignées l'une de l'autre (positions RNG) : repérer les deux avant l'EGC si possible.
+
+#### Suffocation Pit (I) — 160 sqT
+- **Fixe** : « Mine », grand bâtiment **un seul niveau** avec échafaudages ; 3 entrées (2 grandes, 1 petite) ; 3 fenêtres dont **une toujours bloquée** ; 1 mur cassable ; 2 casiers ; **coffre au-dessus de l'emplacement de sous-sol**.
+- **RNG** : sous-sol possible dans la Mine (confirmé indirectement par un correctif 9.6.0 de texture au-dessus de son entrée) ; gyms.
+- **Verticalité / intérieur** : faible (échafaudages non documentés comme accessibles).
+- **Zones fortes / faibles** : main à **2 fenêtres actives** = ressource de mi-partie.
+- **Archétypes [HYPOTHÈSE]** : profil « MacMillan standard » : murs hauts → furtifs aidés.
+- **Plan** : main = banque de chase de mi-partie (R3) ; le reste relève du cadre général.
+
+---
+
+### 5.4.2 Autohaven Wreckers (casse, murs de gyms medium)
+
+**Commun au royaume** [FACT] (SS) : **Crane, School Bus et Car Crusher sur toutes les cartes**. Crane : **toujours une palette entre la grue et une voiture** (ressource fiable). School Bus : 2 variantes, **un des deux vaults toujours bloqué** → identifier la variante et le vault actif à l'arrivée. Murs des gyms : « **medium** walls of metal scrap ». 9.3.0 : éclairage éclairci, **brouillard ajouté**, teinte revue (VP) ; passes palettes 9.2.0 et 9.3.2 (VP).
+
+> **Erreur fréquente** : « Autohaven = hauts murs, faible LOS, royaume survivant ». Les murs de **gyms** sont medium : le tueur voit plus souvent la tête du survivant, les mindgames sont plus lisibles, et un Ranged peut tirer par-dessus. Les **hauts** murs de ferraille ne sont décrits qu'en **périphérie** de Wreckers' Yard. La réputation « favorable aux survivants » est une [AVIS D'EXPERT] sans chiffre ; l'effet net du changement d'éclairage 9.3.0 n'est pas mesuré.
+
+#### Azarov's Resting Place (I) — 176 sqT, la plus grande (ex æquo)
+- **Fixe** : « Office », petit bâtiment **un seul niveau** ; **1 fenêtre**, 2 entrées, 1 mur cassable, 2 casiers. 4.4.0 : deux zones clôturées ouvertes (168 → 176).
+- **RNG** : sous-sol, coffre, totem possibles dans l'Office ; gyms, car piles.
+- **Verticalité / intérieur** : faible.
+- **Zones fortes / faibles** : **main faible** (une fenêtre) ; les survivants dépendent des tiles RNG, des car piles et de la palette fixe de la grue.
+- **Archétypes [HYPOTHÈSE]** : grande + main faible → mobilité avantagée ; M1 pénalisés par la distance.
+- **Plan** : *début* = repérer au pre-run les gyms et car piles utilisables (le main ne sauvera pas une chase) ; *milieu* = la palette de la grue est la seule palette garantie connue ; *fin* = gates potentiellement éloignées (RNG).
+
+#### Blood Lodge — 156 sqT
+- **Fixe** : « Lodge », petite cabane **2 niveaux reliés par une rampe** ; RDC : 1 fenêtre, 2 entrées, 1 mur cassable ; étage : 1 sortie + 1 drop ; **gen sur le porche** ; **coffre à l'étage** ; 2 casiers.
+- **RNG** : sous-sol possible.
+- **Historique** : rework 6.7.0 — main rapproché du centre, moins de tiles à faible LOS, maze tiles dangereux revus, 168 → 156.
+- **Verticalité / intérieur** : légère (rampe + drop).
+- **Zones fortes / faibles** : main central = carrefour des rotations.
+- **Archétypes [HYPOTHÈSE]** : rien de spécifique au-delà du cadre §5.3.
+- **Plan** : *début* = le gen du porche se fait près d'une ressource de chase (bon si le tueur est loin) ; *milieu* = main central, donc souvent traversé : le compter comme ressource commune, pas personnelle (SoloQ).
+
+#### Gas Heaven (I) — 156 sqT
+- **Fixe** : « Gas Station », **un seul niveau** (garage + boutique + pompe) ; **gen dans le garage — le terminer ouvre la porte du garage** ; 2 portes ; **2 fenêtres dont une seule ouverte** ; plusieurs murs cassables ; **Driveway Bell** : sonne quand un tueur **ou** un survivant marche sur le tuyau noir de la pompe.
+- **RNG** : **quelle fenêtre est ouverte** ; coffre (coin boutique ou garage) ; nombre de casiers selon l'emplacement du sous-sol ; sous-sol possible.
+- **Historique** : rework 6.7.0 — main rapproché du centre, car piles traversables, loops revues, 164 → 156.
+- **Verticalité / intérieur** : aucune.
+- **Zones fortes / faibles** : la valeur du main dépend de la fenêtre active ; la porte du garage change l'accès après le gen.
+- **Plan** :
+  - *Début* : repérer la fenêtre active à la première visite ; éviter la sonnette en infiltration (les deux camps l'entendent).
+  - *Milieu* : après le gen du garage, la porte ouverte modifie les trajets autour du main : réévaluer la loop.
+- Le « correctif de navigation autour du bus » de 9.2.0 concernait les **bots**, pas les joueurs (VP).
+
+#### Wreckers' Yard (I) — 144 sqT
+- **Fixe** : **pas de main building** ; **Killer Shack au centre, contient toujours le sous-sol**. Autour du shack : **pas de hauts murs** (murets bas, pull-downs, espace ouvert, souvent une petite colline). En périphérie : **hauts murs de ferraille**, bus, grues, citernes. 6.7.0 : **5 maze tiles** (au lieu de 6).
+- **RNG** : itération des gyms, fillers.
+- **Verticalité / intérieur** : faible.
+- **Zones fortes / faibles** : **centre dégagé** (murets bas : peu de LOS à casser) = zone faible pour le survivant ; périphérie à hauts murs = obstacles de LOS.
+
+```
+   Wreckers' Yard (schéma de principe, pas à l'échelle)
+   +--------------------------------------------+
+   |  hauts murs de ferraille / bus / grues     |
+   |    [gym]          [gym]          [gym]     |
+   |          .   murets bas, ouvert  .         |
+   |          .      [SHACK + sous-sol] .       |
+   |          .    (petite colline ?)  .        |
+   |    [gym]                        [gym]      |
+   |  hauts murs de ferraille / citernes        |
+   +--------------------------------------------+
+   Positions exactes des gyms : non documentées (5 gyms, zones stables).
+```
+
+- **Archétypes [HYPOTHÈSE]** : sous-sol central = crochets de sous-sol à courte distance de presque toute la carte → le tueur peut l'utiliser plus souvent qu'ailleurs.
+- **Plan** :
+  - *Chase* : **quand on a le choix de la direction**, préférer la périphérie au centre dégagé.
+  - *Sauvetage* : si un allié tombe près du centre, s'attendre au sous-sol et préparer un sauvetage **à plusieurs** (sortie unique).
+  - *Contre-cas* : le tueur ne choisit pas librement le sens de la chase et n'est pas obligé d'utiliser le sous-sol ; n'en faites pas une certitude.
+- 9.2.0 : vault de la grue réparé (VP).
+
+#### Wretched Shop (I) — 164 sqT
+- **Fixe** : « Garage », grand bâtiment **un seul niveau** ; **gen fixe**, **coffre fixe**, 1 mur cassable, 4 casiers, 2 entrées ; **4 fenêtres dont une seule ouverte à la fois**.
+- **RNG** : **quelle fenêtre est active** ; crochet, sous-sol possibles.
+- **Verticalité / intérieur** : aucune.
+- **Zones fortes / faibles** : la valeur du main dépend de la position de la fenêtre active.
+- **Archétypes [HYPOTHÈSE]** : grande → mobilité légèrement avantagée.
+- **Plan** : *début* = repérer la fenêtre active dès la première visite et le dire (SWF) ; *milieu* = main à une fenêtre = 3 vaults par poursuite, puis blocage : prévoir la tile suivante.
+- 9.4.0 : objets gênant la navigation autour d'un camion, gen non interactif d'un côté corrigés (VP).
+
+---
+
+### 5.4.3 Coldwind Farm (ferme, plein jour, maïs)
+
+**Commun au royaume** [FACT] (SS) : **Sacrificial Tree (« Cow Tree ») et Harvester sur toutes les cartes**. Cow Tree : murets de pierre bas, **1 fenêtre** dans un muret + **1 palette** entre deux murets. Harvester : accès par la tête et la rampe ; au sommet, vault **gauche** = drop sans retour, vault **droit** = balle de foin avec aller-retour (ancienne quasi-infinite, nerfée). Murs de gyms **hauts**. Seule passe palettes : **9.2.0** (VP). 9.6.0 : collision d'un mur près de l'arbre corrigée (VP).
+
+**Deux terrains opposés sur la même carte** [HYPOTHÈSE] :
+
+| Terrain | Effet | Aidés | Gênés |
+|---|---|---|---|
+| **Maïs** | Cache sans bloquer | furtifs, tueurs qui lisent les scratch marks | projectiles (cible cachée) |
+| **Zones dégagées** (plein jour, autour des structures) | Lecture à distance | Ranged | furtifs |
+| **Gyms** (murs hauts) | LOS bloquée | mindgames | Ranged |
+
+Contre les auras (perks, pouvoirs), le maïs n'aide pas. « Pas de 4-lane à Coldwind » : **[INCERTAIN]** depuis le pool commun 9.2.0.
+
+> **Note avancée** : le Cow Tree est entouré de murets **bas** : le tueur voit tout, le survivant peu. C'est une tile de transition, pas un refuge. Au Harvester, ne montez que si la sortie est planifiée (le vault gauche est sans retour).
+
+#### Fractured Cowshed — 152 sqT
+- **Fixe** : « Barn », grand bâtiment **un seul niveau**, 4 entrées, **2 fenêtres**, **gen fixe**, 4 casiers ; pièce murée (décor). 7.1.0 : nouvelles loops dans le main, dont **1 palette** ; 168 → 156 (3.7.0) → 152 (7.1.0).
+- **RNG** : coffre, sous-sol possibles.
+- **Verticalité / intérieur** : aucune.
+- **Zones fortes / faibles** : « tiles safe enchaînables vers la fenêtre du shack » [AVIS D'EXPERT, non vérifiable].
+- **Archétypes** : rien de propre à la carte dans les sources → cadre §5.3 (taille médiane : effet de taille négligeable).
+- **Plan** : *début* = le gen du Barn est à côté d'une ressource de chase → à faire tôt quand le tueur est loin ; *milieu* = 2 fenêtres + palette du main = banque de chase (R3).
+
+#### Rancid Abattoir (I) — 140 sqT
+- **Fixe** : « Slaughterhouse », grand bâtiment **un seul niveau**, 4 entrées, **3 fenêtres**, **2 palettes**, 7 casiers. 7.1.0 : 136 → 140, nouveaux tiles dans le main.
+- **RNG** : gen, coffre, sous-sol possibles.
+- **Verticalité / intérieur** : aucune.
+- **Zones fortes / faibles** : **main riche** (2 palettes + 3 fenêtres) ; réputée « plutôt tueur : petite, peu de ressources dehors » [AVIS D'EXPERT, non mesuré].
+- **Archétypes** : rien de propre à la carte dans les sources → cadre §5.3.
+- **Plan** : *milieu* = main à préserver comme banque de chase (R3) **si** les ressources extérieures suffisent au début ; *contre-cas* : contre un tueur anti-loop, les palettes du main valent moins, la fenêtre reste utile.
+
+#### Rotten Fields — 160 sqT
+- **Fixe** : **aucun bâtiment principal** ; seuls landmarks : **Killer Shack** et **Sacrificial Tree** (+ Harvester du royaume). **Sous-sol toujours au Killer Shack**.
+- **RNG** : tout le reste (tiles non décrits par le wiki).
+- **Verticalité / intérieur** : Harvester seulement.
+- **Zones fortes / faibles** : pas de main fort → dépend des tiles RNG ; fiche **peu documentée**.
+- **Archétypes [HYPOTHÈSE]** : grande (160) → mobilité légèrement avantagée.
+- **Plan** : même logique que Wreckers' Yard pour le sous-sol : sa position est connue dès que le shack est repéré. « Moitié à 2 structures = le haut » : **[INCERTAIN]**.
+
+#### The Thompson House (I) — 152 sqT
+- **Fixe** : « Farmhouse » **2 étages**, escalier intérieur ; RDC **5 entrées** ; étage : **1 fenêtre**, **gen fixe**, **coffre fixe** ; 4 casiers.
+- **RNG** : sous-sol possible.
+- **Verticalité / intérieur** : oui (étage à une fenêtre).
+- **Zones fortes / faibles** : le gen de l'étage n'a qu'une issue claire (la fenêtre).
+- **Archétypes** : rien de propre à la carte dans les sources → cadre §5.3.
+- **Plan** : *début / milieu* = faire le gen de l'étage à 1 ou 2, en gardant la fenêtre comme sortie ; ne pas s'y faire surprendre à 3.
+
+#### Torment Creek (I) — 156 sqT
+- **Fixe** : « Silo », grand bâtiment **un seul niveau**, 3 entrées, **1 fenêtre**, **gen fixe**, 1 casier.
+- **RNG** : sous-sol, coffre, crochet possibles.
+- **Historique** : 168 → 156 attribué à 9.2.0 par le wiki seul **[INCERTAIN]** ; 10.1.2 : mur du main qui laissait passer les projectiles corrigé (VP).
+- **Zones fortes / faibles** : main à **1 fenêtre** = ressource limitée (3 vaults par poursuite).
+- **Plan** : réparer le gen du Silo avec une **sortie planifiée** vers une autre tile ; rien de spécifique au-delà du cadre §5.3.
+
+Détail : `kb/research/batch8_maps.md` §3.1-3.3.
 
 ---

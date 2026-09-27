@@ -185,10 +185,7 @@ Secondes = `t_k + Δécart / v_r`, sans Bloodlust, contre un 4,6 / un 4,4 (CALC)
 
 > **À retenir** : une palette pré-jetée qu'il casse ≈ **18 s** de chase contre un 115 %, un stun + casse ≈ **33 s**, un fast vault qu'il suit ≈ **10 s**, un slow vault qu'il suit ≈ **3 s**. Ces ordres de grandeur expliquent presque toutes les décisions de chase.
 
-Limites :
-- Les secondes supposent qu'après l'interaction tu cours en ligne droite. Sur un tile, la distance se convertit autrement (refaire un cycle, atteindre le tile suivant).
-- Contre un tueur à distance ou à mobilité, les mètres valent beaucoup moins : un tir, un blink ou un rush ne « rattrape » pas à 0,6 m/s.
-- En pratique, le tueur ne suit pas une fenêtre qu'il peut contourner : la table compare des ordres de grandeur, elle ne prédit pas une chase.
+Limites : ces secondes supposent une ligne droite après l'interaction (sur un tile, la distance sert plutôt à refaire un cycle ou à atteindre le tile suivant) ; contre un tueur à distance ou à mobilité, les mètres valent beaucoup moins ; en pratique, le tueur ne suit pas une fenêtre qu'il peut contourner.
 
 ### La condition de loop sûre se compare en TEMPS, pas en mètres
 
@@ -252,12 +249,7 @@ Sauf mention [FACT], tout ce qui suit est [HEURISTIQUE] ou [SITUATIONNEL].
 ### T02 — Fente (lunge), attaque de base et cooldowns [Débutant]
 
 - **QUOI** : l'attaque de base du tueur comprend une fente (accélération courte) puis, touchée ou ratée, un cooldown pendant lequel il est fortement limité.
-- **POURQUOI** :
-  - pendant la fente, la vitesse vise **~6,9 m/s** quelle que soit sa classe [FACT] (SS) ; durée et distance : **[INCERTAIN]** (~0,87-1 s, ~2 m de gain, portée totale ~6 m selon des joueurs en désaccord) ;
-  - cooldown **2,7 s** après un coup réussi (VM), **1,5 s** après un coup raté ou obstrué (SS) ;
-  - le survivant touché reçoit **1,8 s** de boost (VP), ×1,65 → 6,6 m/s (SS) ;
-  - donc une fente ratée t'offre jusqu'à 1,5 s « gratuites » ; un coup reçu t'offre une fenêtre de 2,7 s + 1,8 s à convertir en distance ;
-  - en portant un survivant, le tueur n'a que la Quick Attack, sans fente (SS).
+- **POURQUOI** : fente à **~6,9 m/s** quelle que soit la classe (SS), durée et distance [INCERTAIN] ; cooldown **2,7 s** après un coup réussi (VM), **1,5 s** après un coup raté ou obstrué (SS) ; boost de **1,8 s** au survivant touché (VP). Une fente ratée t'offre jusqu'à 1,5 s « gratuites » ; un coup reçu, une fenêtre de 2,7 s + 1,8 s à convertir en distance. En portant un survivant, pas de fente (Quick Attack seulement, SS).
 - **QUAND** : faire rater la fente **près d'un obstacle** (coup obstrué = 1,5 s) ; après un coup reçu, utiliser le boost pour **atteindre** un tile ou une fenêtre (un fast vault garde l'élan, SS).
 - **COMMENT** : après un coup, cours **droit** vers la ressource la plus proche ; si c'est une fenêtre, arrive droit dessus (≥ 2,5 m de course droite) pour obtenir le fast vault.
 - **CONTRE** : le tueur retient sa fente pour frapper au bout de ton vault ; frappe à courte portée sans fente complète près des obstacles ; perks de réduction de cooldown (le seed cite Unrelenting et Keep Them Waiting, non vérifiées ici).
@@ -274,7 +266,7 @@ Sauf mention [FACT], tout ce qui suit est [HEURISTIQUE] ou [SITUATIONNEL].
 ### T03 — Vaults de fenêtre (fast / medium / slow) et vault du tueur [Débutant]
 
 - **QUOI** : franchir une fenêtre ; trois vitesses selon l'élan et l'angle.
-- **POURQUOI** [FACT] (SS) : fast 0,5 s (bruyant, garde l'élan) ; medium 0,9 s (angle ou élan insuffisant, élan à zéro) ; slow 1,5 s (pas de notification de bruit fort) ; tueur 1,7 s. Condition du fast : ≥ 2,5 m de course droite (angle toléré INC). Le 3e vault d'une fenêtre dans une même poursuite est permis, puis elle est bloquée **30 s pour toi seul**. (CALC) Un fast vault suivi rapporte +4,8 m (≈ 10 s) ; un slow vault suivi seulement +0,8 m.
+- **POURQUOI** : fast 0,5 s / medium 0,9 s / slow 1,5 s contre 1,7 s pour le tueur ; fast = ≥ 2,5 m de course droite ; blocage 30 s pour toi après le 3e vault (tout en 3.1). (CALC) Un fast vault suivi rapporte ≈ 10 s, un slow vault suivi ≈ 3 s.
 - **QUAND** :
   - fast vault quand le tueur ne peut pas te toucher pendant les 0,5 s **et** que son chemin pour te rejoindre est plus long que le tien (en temps, voir 3.2) ;
   - slow vault **volontaire** (silencieux) pour ne pas signaler ta position hors LOS : fin de chase, décrochage furtif [SITUATIONNEL].
@@ -291,13 +283,7 @@ Sauf mention [FACT], tout ce qui suit est [HEURISTIQUE] ou [SITUATIONNEL].
 ### T04 — Palettes : drop, fenêtre de stun, casse, vault de palette [Débutant]
 
 - **QUOI** : faire tomber une palette pour bloquer le passage, étourdir le tueur (stun) ou le forcer à casser ou contourner.
-- **POURQUOI** :
-  - [FACT] stun **2 s** (SS), seulement si la palette atteint ~50 % d'abaissement avec le tueur dans la zone ; un tueur au bord peut en sortir. Durée d'abaissement : INC ;
-  - casse **2,34 s** (VM), 1 s à la tronçonneuse, gratuite ou coûteuse selon les pouvoirs (3.1) ; Enduring réduit le stun de 40-50 % ;
-  - tu vaultes une palette baissée en 1,1 s (rapide, bruyant) ou 2 s (lent, silencieux) ; le tueur ne la vaulte pas (sauf pouvoirs listés en 3.1) ;
-  - casser une palette fait perdre la Bloodlust (SS) ;
-  - (CALC) casse = +9,4 m (≈ 18 s contre un 4,6) ; stun + casse = +17,4 m (≈ 33 s) ;
-  - la palette est une ressource **définitive et partagée** : cassée, elle disparaît pour toute l'équipe.
+- **POURQUOI** : stun **2 s** à ~50 % d'abaissement (SS) ; casse **2,34 s** (VM) qui lui fait perdre la Bloodlust ; tu vaultes la palette baissée en 1,1 s (bruyant) ou 2 s (silencieux), lui non (sauf pouvoirs, 3.1). (CALC) casse = +9,4 m (≈ 18 s contre un 4,6) ; stun + casse = +17,4 m (≈ 33 s). La palette est une ressource **définitive et partagée** : cassée, elle disparaît pour toute l'équipe.
 - **QUAND** : stun quand le tueur s'engage franchement sur la palette ; drop sans stun pour bloquer un chemin et forcer une décision (casser ou contourner). La décision fine est en T05.
 - **COMMENT** : jette quand le tueur entre dans la zone, pas quand il la « menace » ; puis **pars immédiatement** pendant la casse : 2,34 s = 9,4 m.
 - **CONTRE** : fausse avance (T17) pour provoquer un drop sans stun ; casser tout de suite si le tile devient infini, contourner si la palette est faible ; Enduring ; Spirit Fury (après 4/3/2 casses manuelles, la prochaine palette qui l'étourdit est cassée instantanément, le stun a lieu, SS) ; pouvoirs de casse.
@@ -370,7 +356,7 @@ Détail : `kb/research/batch6_chase_tech.md` T01-T06 ; Blight : `kb/research/bat
 ### T07 — Début / fin de poursuite, ligne de vue (LOS), chase break [Intermédiaire]
 
 - **QUOI** : la « poursuite » est un **état du jeu** (musique de chase, Bloodlust, perks de chase), distinct du fait d'être suivi. Le chase break consiste à sortir de cet état ou à se faire perdre.
-- **POURQUOI** [FACT] (SS) : début quand tu es dans son champ de vision à ≤ 12 m, que tu cours et qu'il se déplace ; fin au-delà de 18 m, après 5 s dans un casier, après > 8 s sans LOS, ou hors ±35° du centre de son FOV (temporisation INC). Le tueur n'entend pas son propre TR. Les griffures n'apparaissent qu'en course et vivent 10 s. Depuis 9.6.0, le tueur est révélé à tous dès la 1re poursuite (VP).
+- **POURQUOI** : conditions de début (≤ 12 m, champ de vision, tu cours) et de fin (> 18 m, casier 5 s, > 8 s sans LOS, hors ±35°) en 3.1 (SS). Les griffures n'apparaissent qu'en course et vivent 10 s : marcher efface ta piste.
 - **QUAND** : casser la LOS derrière des murs hauts, dans le maïs ou un bâtiment, puis **marcher** (pas de griffures) ou s'accroupir ; utile contre un tueur sans info d'aura et pour faire régresser la Bloodlust.
 - **COMMENT** : casse la LOS, fais encore 1-2 s de course pour sortir de sa ligne probable, puis passe en marche ; choisis un endroit avec deux sorties.
 - **CONTRE** : suivre griffures, flaques et grognements ; couper vers la sortie logique ; vérifier les casiers proches ; perks d'aura.
@@ -409,7 +395,6 @@ Détail : `kb/research/batch6_chase_tech.md` T01-T06 ; Blight : `kb/research/bat
   - en ligne droite : un check bref (≤ 0,5 s) seulement si le trajet devant est dégagé et mémorisé ; sinon écouter ;
   - à la perte de LOS du tueur : un check pour savoir s'il suit ou coupe ;
   - dès que le son change (TR qui monte ou baisse brusquement, pas qui s'arrêtent, bruit de pouvoir) ;
-  - fréquence : plus le tueur est proche et le tile court, plus les checks sont fréquents mais brefs ; en longue ligne droite contre un M1 lointain, presque aucun.
 - **COMMENT garder le pathing en regardant derrière** :
   - mémoriser les **2 prochains points de passage** avant de tourner la caméra ;
   - regarder seulement sur des segments droits et dégagés, jamais dans un virage serré ni à l'approche d'un fast vault ;
@@ -446,7 +431,7 @@ Détail : `kb/research/batch6_chase_tech.md` T01-T06 ; Blight : `kb/research/bat
 ### T16 — Lecture sonore [Intermédiaire]
 
 - **QUOI** : situer le tueur et comprendre ses actions sans le regarder.
-- **POURQUOI** : [FACT] (SS) TR à paliers (32 / 24 m à l'origine, nombreuses exceptions) ; musique de chase ; lullabies non affectées par Undetectable ; stinger de fin d'Undetectable ; fast vault et vault rapide de palette bruyants, slow vault et vault lent de palette silencieux ; corbeaux (4 m). Autres sons utiles [HEURISTIQUE] : pas et souffle du tueur, sons de pouvoir, casse, coup raté. Tes propres grognements quand tu es blessé (portée INC, réduits par Iron Will).
+- **POURQUOI** : TR, musique de chase, lullabies (insensibles à Undetectable), stinger de fin d'Undetectable ; fast vault et vault rapide de palette **bruyants**, slow vault et vault lent **silencieux** ; corbeaux (4 m) (SS). S'y ajoutent pas, souffle, sons de pouvoir, casse, coup raté [HEURISTIQUE] — et tes propres grognements quand tu es blessé.
 - **QUAND** : dès que regarder coûte trop (ligne droite, approche d'un fast vault) ; contre les tueurs furtifs ; pour savoir s'il casse sans te retourner.
 - **COMMENT** : casque ; distinguer TR (battement) et musique de chase ; associer chaque son à une durée (« bruit de casse → 2,34 s »).
 - **CONTRE** : Undetectable, marche silencieuse, feinte de départ (TR qui baisse puis revient).
@@ -866,17 +851,7 @@ Détail : `kb/research/batch6_chase_tech.md` §5.
 
 ## 3.11 Ce qui reste incertain
 
-- **Fente** : durée, distance, portée utile (~2-2,5 m estimés) — toutes les conditions de loop en dépendent.
-- **Durée d'abaissement de la palette** (`t_porte_S` du drop) et instant exact de la fenêtre de stun.
-- **Vitesse du tueur pendant les cooldowns** (fixe le gain réel après un coup reçu : +3 à +15,5 m).
-- **Bloodlust** : perte sur stun ou aveuglement ; taux de régression.
-- **Temporisation** des conditions de fin de poursuite (angle ±35°, > 18 m).
-- **Angle toléré** du fast vault ; conservation du boost pendant un fast vault.
-- **Tache rouge** : effet de regarder vers le bas ; vitesse en moonwalk.
-- **Hitbox / hurtbox** et seuil de ~300 ms de validation.
-- **Blight** : nombre exact de tokens perdus en cassant à 3 tokens ou moins (9.6.2).
-- **Modèles de 3.8** : `p`, `T_loop` par tile, `e`, coût réel d'un crochet — aucun n'est mesuré.
-- **Non couverts ici** : perks d'épuisement (Dead Hard, Sprint Burst, Lithe, Balanced Landing), Haste / Hindered de perks, objets en chase, 2v8.
+Fente (durée, portée utile) ; durée d'abaissement de la palette et instant du stun ; vitesse du tueur pendant ses cooldowns ; effet d'un stun sur la Bloodlust et taux de régression ; temporisation des conditions de fin de poursuite ; angle toléré du fast vault et conservation du boost ; tache rouge (regard vers le bas, vitesse en moonwalk) ; hitbox et seuil de validation ; tokens perdus par le Blight à 3 tokens ou moins (9.6.2) ; tous les paramètres des modèles de 3.8 (`p`, `T_loop`, `e`, coût d'un crochet). **Non couverts ici** : perks d'épuisement (Dead Hard, Sprint Burst, Lithe, Balanced Landing), Haste / Hindered de perks, objets en chase, 2v8.
 
 ## Sources du chapitre
 
