@@ -30,7 +30,7 @@ Référence unique pour vérifier que les chapitres ne se contredisent pas. En c
 
 ## Perks (valeurs tranchées fréquemment citées)
 - Eruption **−10 %** (changement 9.2.0 « Postponed ») ; Pop réécrit 9.5.0 (+15 % → 20 % du total, fenêtre 35/40/45 s) ; Ruin 100/125/150 %, DMS 25/30/35 s (9.2.0) + recharge 50 s ; Nowhere to Hide **24 m** ; Terminus 35/40/45 s.
-- Iron Will 80/90/100 % ; Built to Last **14/12/10 s** ; Vigil 20/25/30 % ; Will to Live 40/50/60 s, stun 4 s ; Off the Record 30/35/40 s avec Endurance (désactivation portes alimentées : INCERTAIN) ; Sprint Burst Haste 2 s ; Adrenaline 4 s ; Deliverance Broken 160/140/120 s ; Windows of Opportunity : pas de cooldown en LIVE ; Five Moves Ahead LIVE = drop de palette 50 % plus rapide + auras palettes ET fenêtres, CD 40/35/30 s (le « repartir 50 % plus tôt » et « palettes seulement » = PTB).
+- Iron Will 80/90/100 % ; Built to Last **14/12/10 s** ; Vigil 20/25/30 % ; Will to Live 40/50/60 s, stun 4 s ; Off the Record 30/35/40 s avec Endurance (désactivation portes alimentées : INCERTAIN) ; Sprint Burst Haste 2 s ; Adrenaline 4 s ; Deliverance Broken 160/140/120 s ; Windows of Opportunity : pas de cooldown en LIVE ; Five Moves Ahead LIVE (note officielle 9.5.0, art. 538 ; texte clarifié en 9.5.x sans changement de gameplay) = auras des 5 palettes ET fenêtres les plus proches en TR/chase, après un drop de palette on repart 50 % plus tôt, CD 40/35/30 s ; PTB 10.2.0 = palettes seulement.
 - Objet : **Anti-Exhaustion Syringe** existe (renommage 9.3.0) ; Fog Vial 4 charges (9.5.0) ; Pharmacy LIVE = ouverture accélérée seulement.
 
 ## Étiquettes attendues

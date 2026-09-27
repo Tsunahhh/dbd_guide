@@ -674,7 +674,7 @@ Contre un tueur qui a compris ta réponse par défaut (il attend le pre-drop), *
 | Superior Anatomy (T, LIVE 9.0.0) | Vault medium / fast à ≤ 12 m de lui → son prochain vault +30/35/40 % ; CD 25 s | (VM : onglet 9.0.0 du wiki + note 9.0.0 ; la page wiki affiche par défaut la version PTB 10.2.0, non LIVE) |
 | Brutal Strength, THWACK!, Enduring, Spirit Fury (T) | Casse +10/15/20 % ; cri + aura sur casse ; stun −40/45/50 % ; après 4/3/2 casses, la prochaine palette qui l'étourdit est cassée instantanément (le stun a lieu) | (SS) |
 | **Wide Open Throttle** (S, 10.0.1) | Fast vault d'une palette baissée → Haste 10/12,5/15 % 3 s ; la palette est **remise levée et bloquée 60 s**, aura visible par tous ; CD 60 s | (VP) |
-| Five Moves Ahead (S, LIVE 9.5.0) | En poursuite ou dans le TR : **drop de palette 50 % plus rapide** ; aura des 5 palettes et fenêtres les plus proches ; CD 40/35/30 s | (SS) |
+| Five Moves Ahead (S, LIVE 9.5.0) | En poursuite ou dans le TR : **drop de palette 50 % plus rapide** (on repart 50 % plus tôt ; note officielle 9.5.0) ; aura des 5 palettes et fenêtres les plus proches ; CD 40/35/30 s | (SS) |
 | Any Means Necessary (S) | Relever une palette baissée en 5/4/3 s | (SS) |
 | Lithe / Balanced Landing (S) | Haste 50 % 3 s après un Rushed Vault / une chute ; Exhausted 60/50/40 s | (SS) |
 | Last Stand (S) | Après 120/105/90 s dans le TR sans être poursuivi, un Rushed Vault étourdit le tueur 3 s s'il est à ≤ 2,5 m de la fenêtre ; une fois par partie | (SS) |

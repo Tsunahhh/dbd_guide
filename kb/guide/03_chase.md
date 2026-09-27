@@ -26,7 +26,7 @@ Seules ces valeurs sont présentées comme des faits. Tout le reste du chapitre 
 |---|---|---|
 | Survivant, course | **4,0 m/s** | VM |
 | Survivant, marche / accroupi | 2,26 m/s / 1,13 m/s | VM |
-| Survivant, ramper | 0,7 m/s (le 1,05 m/s vient d'un PTB 9.3.0 annulé) | VM |
+| Survivant, ramper | **0,7 m/s constant** (le 1,05 m/s affiché par le wiki vient du paquet anti-slug des PTB 9.2.0 / 9.3.0, « Postponed » puis « Reverted », jamais sorti en LIVE) ; pas de récupération en rampant sans Tenacity | VM |
 | Survivant blessé | **Même vitesse** que sain | SS |
 | Boost au coup reçu | **1,8 s**, ×1,65 → 6,6 m/s | durée VP ; ×1,65 SS |
 | Tueurs « 115 % » / « 110 % » | **4,6 m/s / 4,4 m/s** (quelques exceptions) | VM |
