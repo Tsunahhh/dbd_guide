@@ -841,3 +841,279 @@ Pas dans les passes palettes 9.x. Chaque carte a **sa propre offrande de carte**
 Détail : `kb/research/batch8_maps.md` §3.4-3.21.
 
 ---
+
+## 5.5 Historique des changements (9.0.0 → 10.1.2a) `[Intermédiaire]`
+
+Pourquoi ce paragraphe : une grande partie de ce qui circule sur les cartes (vidéos, guides, schémas) date d'**avant** les trois passes palettes de 2025-2026. Savoir **ce qui a changé et où** permet de trier une source avant de la croire.
+
+### 5.5.1 Chronologie
+
+| Patch (LIVE) | Changement de carte | Confiance |
+|---|---|---|
+| **9.0.0** (17/06/2025) | Nouvelle carte **Freddy Fazbear's Pizza** (Withered Isle) ; mode « Map Showcase » (file sur une carte prédéterminée) ; offrandes de royaume / carte : chance **fixe de 20 %**, **non cumulables** | [FACT] (VM) |
+| **9.1.0** (29/07/2025) | Nouvelle carte **Fallen Refuge** (tile thématique The Walking Dead) | [FACT] (VP) |
+| **9.2.0** | **Passe 1 — densité de palettes** : « adjust the quantity and distribution of pallets, reducing the presence of "dead zones" » sur **10 royaumes** : MacMillan, Autohaven, Coldwind, Crotus Prenn, Haddonfield, Backwater, Red Forest, Yamaoka, Ormond, Decimated Borgo. **Tous les royaumes piochent dans le même pool de maze tiles** | [FACT] (VP) |
+| 9.2.0 (wiki seul) | Torment Creek 168 → 156 sqT ; Disturbed Ward 172 → 152 sqT — **absent** des notes officielles | valeurs actuelles (SS) ; date **[INCERTAIN]** |
+| 9.2.0 | Correctifs : navigation des **bots** autour du bus de Gas Heaven ; vault de la grue de Wreckers' Yard ; fenêtre d'Ironworks non vaultable | [FACT] (VP) |
+| **9.3.0** | **Passe 2 — sûreté des loops** : « reduce the safety of pallet loops » sur MacMillan, Asylum, Red Forest, Yamaoka, Haddonfield et **Mount Ormond Resort** (la carte, pas tout Ormond) ; logique de spawn revue (**main de Disturbed Ward**, **piers de Backwater**, Red Forest) pour équilibrer la distance fenêtre / palette ; main de l'Asylum moins safe (il pouvait apparaître près de maze tiles et s'y enchaîner) | [FACT] (VP) |
+| 9.3.0 | **Underground Complex** : navigation améliorée, **au moins une porte ouverte sur chaque côté des grandes salles**, nouvel accès au gen de la salle du Rift | [FACT] (VP) |
+| 9.3.0 | **Autohaven** : textures recalibrées, **brouillard ajouté**, éclairage et teinte revus (moins sombre) | [FACT] (VP) |
+| 9.3.0 | **Dead Dawg Saloon** : « a totem was guaranteed to spawn in the same place » corrigé → le totem « garanti » du wiki est **périmé** | [FACT] (VP) |
+| **9.3.2** | **Passe 3 — « middle ground »** sur Autohaven, Backwater, Crotus Prenn, MacMillan, Ormond, Red Forest, Yamaoka : loops trop courtes **rallongées**, palettes empêchées contre de petits objets, randomisation de palettes revue sur certains tiles | [FACT] (VP) |
+| 9.4.0 (27/01/2026) | **Lampkin Lane** retirée de la rotation **et** des Custom Games (hors rotation depuis le 19/01/2026) | [FACT] (VP) |
+| 9.5.0 (17/03/2026) | Nouveau royaume **Sleepless District** / carte **Trickster's Delusion** | [FACT] (VP) |
+| **9.6.0** | « Map weighting has been adjusted in order for maps to have an **equal chance** of spawning — Realm Repeat Prevention remains in effect » ; correctif de collision d'un mur près de l'arbre de Coldwind | [FACT] (VP) |
+| **10.0.1** | **Badham Preschool, Grim Pantry, Pale Rose « re-enabled »** (désactivation antérieure : date et cause non trouvées) | [FACT] (VP) ; cause **[INCERTAIN]** |
+| 10.0.x → 10.1.2 | Correctifs de collisions / projectiles uniquement (Forgotten Ruins, Trickster's Delusion, Sanctum, Torment Creek, RPD…) ; en 2v8 : ajout de Nostromo | [FACT] (VP) |
+| PTB 10.2.0 | Aucun changement de carte (correctifs seulement) — **PTB 10.2.0 — non LIVE** | [FACT] (VP) |
+
+### 5.5.2 Les trois passes palettes : ce qu'elles changent pour vous
+
+**QUOI** : trois retouches successives des palettes, par **royaume**, sans liste publiée par carte ni par tile.
+
+| Royaume | 9.2.0 (densité) | 9.3.0 (sûreté) | 9.3.2 (longueur) | Cartes LIVE |
+|---|---|---|---|---|
+| MacMillan, Crotus Prenn, Red Forest, Yamaoka | ✔ | ✔ | ✔ | 11 |
+| Ormond | ✔ | Mount Ormond Resort seulement | ✔ | 2 |
+| Autohaven | ✔ | éclairage (pas les palettes) | ✔ | 5 |
+| Backwater Swamp | ✔ | spawn des piers | ✔ | 2 |
+| Coldwind, Decimated Borgo | ✔ | — | — | 7 |
+| Les 11 autres royaumes (Léry's, Springwood, Gideon, Hawkins, Glenvale, Silent Hill, Raccoon City, Boneyard, Withered Isle, Dvarka, Sleepless District) | — | — | — | 17 |
+
+Calcul : **27 cartes sur 44** (≈ 61 %) ont eu leurs palettes retouchées au moins une fois depuis 9.2.0 ; 17 n'ont été touchées par aucune passe.
+
+**POURQUOI BHVR a fait trois passes** (notes de dev, VP) : 9.2.0 visait les « dead zones » ; 9.3.0 répondait aux retours sur cette première itération en réduisant la sûreté des loops ; 9.3.2 cherchait explicitement « a middle ground between the last two updates », avec un suivi annoncé des données.
+
+**QUAND ça compte** : dès que vous appliquez un conseil de placement de palettes, de « loop safe » ou de « dead zone » tiré d'une source.
+
+**COMMENT l'utiliser** [HEURISTIQUE] :
+- Sur les **27 cartes retouchées**, un conseil de palette antérieur à 9.2.0 est suspect ; un conseil antérieur à 9.3.2 l'est aussi pour les 7 royaumes de la passe 3.
+- Sur les **17 cartes non retouchées**, un conseil ancien n'est pas périmé **à cause des passes** — mais peut l'être à cause d'un rework (§5.5.3).
+
+**CAS D'ÉCHEC** :
+- Croire qu'une passe « ajoute des palettes » partout : 9.3.0 en a **réduit la sûreté** et 9.3.2 a surtout touché la **longueur** des loops.
+- Citer un nombre de palettes par carte : **aucune source** ne donne le nombre de palettes par carte après 9.3.2 **[INCERTAIN]**. C'est à compter soi-même (drill D5).
+
+> **Erreur fréquente** : « Ormond a été nerfée en 9.3.0 ». La note 9.3.0 nomme **Mount Ormond Resort**, pas le royaume ; Ormond Lake Mine n'est concernée que par 9.2.0 et 9.3.2.
+
+### 5.5.3 Reworks antérieurs encore visibles
+
+| Patch | Carte | Changement | Confiance |
+|---|---|---|---|
+| 4.4.0 | Azarov's | Deux zones clôturées ouvertes (168 → 176) | [FACT] (SS) |
+| 6.5.0 | Eyrie of Crows | Gyms éloignés du main et du shack | [FACT] (SS) |
+| 6.6.0 | Shelter Woods | Landmark central Hunting Camp ; Twisted Tree déplacé | [FACT] (SS) |
+| 6.7.0 | Blood Lodge, Gas Heaven | Main rapproché du centre, moins de tiles à faible LOS, car piles traversables ; Wreckers' Yard à 5 gyms | [FACT] (SS) |
+| 7.1.0 | Fractured Cowshed, Rancid Abattoir | Nouvelles loops dans le main | [FACT] (SS) |
+| 7.3.0 / 7.3.2 | Shattered Square | Carré 12 × 12, main en coin (168 → 144) ; puis plus de palettes max et loops moins safe | [FACT] (SS) |
+| 7.4.0 | Mother's Dwelling, Temple, Garden of Joy | Réductions de taille (Mother's 188 → 152) ; passe gameplay Garden of Joy | [FACT] (SS) |
+| 7.5.0 | Mount Ormond Resort | Abords du chalet revus | [FACT] (SS) |
+| 8.0.2 / 8.1.0 | Forgotten Ruins | ≥ 4 crochets au donjon, Passages éloignés des palettes et fenêtres ; plus de palettes en surface | [FACT] (SS) |
+| 8.2.0 | Midwich | LOS de couloir réduite | [FACT] (SS) |
+| 8.6.0 | toutes | Variantes retirées du matchmaking public (sauf RPD East / West) | [FACT] (SS) |
+
+### 5.5.4 Dater une source de carte en 20 secondes [HEURISTIQUE]
+
+```
+Source (vidéo, guide, schéma) sur une carte
+ ├─ Date antérieure à 8.6.0 ? ── oui → vérifier que c'est la variante I
+ ├─ Parle de palettes / loops ?
+ │    ├─ Carte des 27 retouchées ? ── source < 9.2.0 → suspecte
+ │    │                              source < 9.3.2 et royaume de la passe 3 → suspecte
+ │    └─ Carte des 17 non retouchées → vérifier seulement les reworks (§5.5.3)
+ ├─ Cite un totem, un gen, un coffre « toujours là » ? → confronter à la fiche (§5.4) :
+ │    le totem de Dead Dawg ne l'est plus depuis 9.3.0
+ └─ Cite un kill rate par carte ? → écarter (aucune fenêtre datée avec n)
+```
+
+Détail : `kb/research/batch8_maps.md` §2.
+
+---
+
+## 5.6 SoloQ et SWF sur les cartes `[Intermédiaire]`
+
+Les éléments **fixes** d'une carte sont les mêmes pour tout le monde. Ce qui change entre SoloQ et SWF, c'est la circulation de l'**état RNG** (quelle fenêtre, quelle porte, quel côté) et la confiance qu'on peut accorder aux alliés.
+
+### 5.6.1 Ce qui change entre les deux [HEURISTIQUE]
+
+| Question | SWF (voix) | SoloQ |
+|---|---|---|
+| Qui repère l'état RNG ? | Un seul joueur, puis annonce | Chacun, pour soi |
+| Les alliés connaissent-ils les éléments fixes ? | Souvent (préparation possible) | **Supposer que non**, surtout sur les cartes rares (royaume à carte unique ≈ 2,3 % des parties) |
+| La « banque » de chase (R3) tient-elle ? | Oui si l'équipe s'entend pour la garder | **Incertaine** : un allié peut la consommer à tout moment |
+| 3-gen sur gens fixes (R4) | Répartition annoncée | Choisir le gen **le plus isolé** du groupe menacé |
+| Sauvetage au sous-sol fixe | Organisé à plusieurs (sortie unique) | Ne descendre que si un second allié est visible ou en route |
+| Offrande de carte | Préparée ensemble (§5.6.3) | Sans intérêt collectif (personne ne sait qu'elle vient de vous) |
+| Signaux sonores de carte | Redondants avec la voix | **Seule** information partagée sans parler (§5.6.4) |
+
+### 5.6.2 L'état RNG à annoncer (SWF) ou à vérifier seul (SoloQ)
+
+| Carte | Information RNG | Quand la prendre | Pourquoi elle vaut du temps |
+|---|---|---|---|
+| Groaning Storehouse | Portes de garage ouvertes | Première approche du main | La sûreté du main en dépend |
+| Gas Heaven | Fenêtre ouverte (1 sur 2) | Première visite | Une chase vers la mauvaise fenêtre finit sans vault |
+| Wretched Shop | Fenêtre active (1 sur 4) | Première visite | Idem : 3 vaults par poursuite sur la bonne, zéro ailleurs |
+| School Bus (Autohaven) | Variante et vault actif | À l'arrivée près du bus | Un des deux vaults est toujours bloqué |
+| Garden of Joy, Shattered Square | Paire présente (Marketplace **ou** Gallows, etc.) | Pre-run | Change les ressources d'une zone entière |
+| Toba Landing | Coin de l'Alien Flower / du Space Rover | Pre-run | Trajets entre gens fixes en coins opposés |
+| RPD East / West | Position du gen du Main Hall (bas ou statue) | Première rotation | Route et exposition du gen |
+| Treatment Theatre | Entrées ouvertes des salles | Premières secondes | Seules les fenêtres sont fixes (2.7.0) |
+| Trickster's Delusion | 2 fenêtres actives sur 4 (Low Streets) | Pre-run | Seules ressources de vault des ruelles |
+| Nostromo | 3e gen dans l'aile droite ou non | Mi-partie | Jusqu'à 3 gens dans l'épave = 3-gen possible |
+| Toutes | Emplacement du sous-sol | Dès qu'il est vu | Décide où l'on se laisse charger / où l'on sauve |
+
+**COMMENT annoncer** (SWF) [HEURISTIQUE] : une phrase, un lieu, un état — « Shop : fenêtre active côté X ». Le coût est d'une seconde ; le gain est d'éviter une chase vers une ressource absente, qui coûte souvent un état de santé.
+
+**CAS D'ÉCHEC** : annoncer un élément **fixe** comme s'il était RNG (bruit inutile) ; ou l'inverse, présenter une paire exclusive comme présente en entier (erreur du seed sur Garden of Joy).
+
+### 5.6.3 Offrandes de royaume et de carte (calcul)
+
+[FACT] (VP) : « All Realm/Map offerings now grant a **flat 20 % chance** to be sent the associated Realm/Map » ; les doublons **ne se cumulent pas** (9.0.0). Une offrande de royaume tire ensuite une carte au hasard dans ce royaume [FACT] (SS).
+
+Calcul, **sous hypothèse** que les 80 % restants suivent la sélection normale (1/44 par carte) — mécanisme exact **[INCERTAIN]**, interaction avec la Realm Repeat Prevention et avec une offrande adverse non documentée :
+
+| Offrande brûlée | Chance d'obtenir la cible | Sans offrande |
+|---|---|---|
+| Offrande de **carte** (ex. Alien Flora → Toba) | ≈ 20 % + 80 % × 1/44 ≈ **21,8 %** | 2,3 % |
+| Offrande de **royaume** à 5 cartes → le royaume | ≈ 20 % + 80 % × 5/44 ≈ **29 %** | 11,4 % |
+| … → **une carte précise** de ce royaume | ≈ 29 % × 1/5 ≈ **5,8 %** | 2,3 % |
+| Offrande de royaume à carte unique | ≈ **21,8 %** | 2,3 % |
+
+> **À retenir** : une offrande de carte fonctionne environ **une fois sur cinq**. Elle ne vaut que si l'équipe a **préparé** cette carte (drill D1) ; sans kill rate par carte, **aucune offrande « carte forte » ne peut être recommandée sur données** [FACT sur l'absence de données].
+
+**CONTRE** : côté tueur, la même mécanique s'applique ; brûler une offrande pour une petite carte intérieure est une [HYPOTHÈSE] cohérente avec §5.3.4, pas une recommandation mesurée.
+
+### 5.6.4 Signaux sonores de carte : l'information « sans voix »
+
+| Signal | Carte | Déclencheur |
+|---|---|---|
+| Sonnette (Driveway Bell) | Gas Heaven | Tueur **ou** survivant sur le tuyau de la pompe |
+| Grincement du Water Tower | Ironworks of Misery | Passage à proximité |
+| Corne de brume | The Pale Rose | Gen du bateau terminé |
+| Crow bomb | The Pale Rose | Corbeaux près du bateau |
+| Ascenseur qui s'écrase | Ormond Lake Mine | Joueur qui approche |
+| Flippers | Greenville Square | Palette de l'arcade |
+| Show des animatroniques | Freddy Fazbear's Pizza | Gen devant la scène |
+| Rôdeurs, portes barricadées | Fallen Refuge | Passage |
+| Feu d'artifice | Trickster's Delusion | Gen du Market terminé |
+
+[FACT] (SS) pour les déclencheurs. **Portée audible et éventuelle notification visuelle côté tueur : [INCERTAIN] pour tous** (drill D4).
+
+[HEURISTIQUE] En **SoloQ**, un signal entendu loin de vous indique qu'un allié (ou le tueur) est à cet endroit : c'est une information de position, pas une certitude sur **qui**. En **SWF**, ne comptez pas dessus : annoncez.
+
+> **Erreur fréquente** : traverser la zone d'un signal en infiltration (sonnette, ascenseur, crow bomb) parce qu'« on ne sait pas si le tueur l'entend ». Tant que la portée n'est pas vérifiée, supposez qu'il l'entend.
+
+### 5.6.5 Côté tueur : ce que SoloQ et SWF changent sur une carte [HYPOTHÈSE]
+
+- Contre une **SWF**, l'état RNG (fenêtre active, portes, sous-sol) est partagé vite : l'avantage de connaître la carte se réduit aux éléments fixes et à la gestion des 3-gens.
+- Contre une **SoloQ**, la même information circule mal : les survivants rejoignent plus souvent une ressource absente ou consommée. Une carte à gens fixes proches (§5.8, table A) se défend plus facilement si les survivants ne se coordonnent pas.
+- Dans les deux cas, le sous-sol fixe (The Game, Wreckers' Yard, Rotten Fields) est connu **aussi** des sauveteurs : ce n'est pas une surprise.
+
+Détail : `kb/research/batch8_maps.md` §4.3.
+
+---
+
+## 5.7 Drills de connaissance des cartes `[Intermédiaire]` → `[Avancé]`
+
+Principe : la Custom Game est le seul endroit où l'on choisit la carte ; on y apprend la **variante I** et on y **teste** ce que les sources laissent [INCERTAIN]. Tous les drills sont des [HEURISTIQUE].
+
+### Ordre d'apprentissage (calcul, pondération 9.6.0)
+
+| Étape | Cartes | Part cumulée des parties |
+|---|---|---|
+| 1 | MacMillan, Autohaven, Coldwind (15 cartes) | 15/44 ≈ **34 %** |
+| 2 | + Withered Isle (4) | 19/44 ≈ **43 %** |
+| 3 | + les 9 royaumes à 2 cartes (18) | 37/44 ≈ **84 %** |
+| 4 | + les 7 royaumes à carte unique | 100 % |
+
+Exception [HEURISTIQUE] : apprenez **tôt** les cartes à règles propres, même rares, car une erreur y coûte plus cher : The Game, Underground Complex (Exit **Doors**), RPD East / West, Nostromo, Trickster's Delusion.
+
+### D1 — Reconnaissance d'une carte (15-20 min, 1 carte par séance)
+
+- **Objectif** : connaître les éléments fixes sans regarder.
+- **Protocole** : Custom Game, variante I. Noter sur papier : main (niveaux, drops, fenêtres, palettes fixes), gens fixes, coffres fixes, emplacements possibles du sous-sol, structures du royaume (Tower, Crane, Cow Tree…). Relancer 2 ou 3 fois pour distinguer fixe et RNG. Comparer à la fiche §5.4.
+- **Réussite** : vous redessinez le schéma de principe de la carte de mémoire.
+- **Piège** : la fiche peut être périmée ou incomplète (4 cartes peu documentées : Rotten Fields, Dead Sands, Freddy Fazbear's Pizza, Fallen Refuge) — notez tout écart plutôt que de corriger votre observation.
+
+### D2 — Les 30 premières secondes (en partie publique)
+
+- **Objectif** : lire la carte avant le premier contact.
+- **Protocole** : à chaque partie, en moins de 30 s : royaume + carte, position du main, gens fixes proches, **un** élément RNG à confirmer (§5.6.2). L'annoncer (SWF) ou le noter (SoloQ). Vérifier après la partie.
+- **Réussite** : 10 parties de suite sans erreur d'identification.
+- **Piège** : confondre deux cartes d'un même royaume (Autohaven, MacMillan) à cause des structures communes : identifiez par le **main**, pas par la grue ou la tour.
+
+### D3 — Chronométrer une traversée
+
+- **Objectif** : relier la surface (sqT) à un temps réel.
+- **Protocole** : Custom Game, en tueur puis en survivant : chronométrer le trajet entre les deux gens fixes les plus éloignés (Toba : coin à coin ; Shelter Woods : bord à bord). Comparer au calcul §5.3.1 (≈ 23 s pour 176 sqT à 4,6 m/s, carte supposée carrée).
+- **Réussite** : vous savez, pour 5 cartes, si le trajet réel dépasse le calcul, et de combien.
+- **Piège** : le calcul suppose une ligne droite ; l'écart **est** l'information (obstacles, forme allongée).
+
+### D4 — Tester une question ouverte (1 question par séance)
+
+| Question | Protocole | Ce qui en dépend |
+|---|---|---|
+| The Game : quand les portes coulissantes s'ouvrent / se ferment ? | Noter l'état des portes avant, pendant et après la réparation de 3 gens | Le plan « porte fermée = gen non fini » (§5.4.9) |
+| Nostromo : délai des vents, le déclencheur est-il touché ? | 2 joueurs, chronomètre, passage lent puis rapide | Tout usage des vents en chase |
+| Dead Sands : sous-sol toujours au shack ? | 10 chargements, noter l'emplacement | Plan de sauvetage |
+| Underground Complex : 2e emplacement du sous-sol ? | Chargements successifs, repérer hors Rift Lab | Plan de sauvetage |
+| Portée des signaux sonores (§5.6.4) | 2 joueurs, distance maximale à laquelle le tueur entend ; notification visuelle ou non | Infiltration près des signaux |
+
+### D5 — Compter les palettes après 9.3.2 `[Avancé]`
+
+- **Objectif** : combler la lacune documentaire principale de ce chapitre.
+- **Protocole** : pour une carte des 7 royaumes de la passe 9.3.2, compter les palettes visibles sur **5 chargements** (Custom Game) ; noter minimum et maximum.
+- **Réussite** : un intervalle min-max par carte, daté du patch.
+- **Piège** : un comptage vaut pour le patch où il a été fait ; toute passe ultérieure l'invalide.
+
+### D6 — Plan de fin sur carte à gates documentées `[Avancé]`
+
+- **Objectif** : appliquer R5 là où c'est possible, et **seulement** là.
+- **Protocole** : sur Nostromo, Underground Complex et RPD, repérer les gates / Exit Doors en début de partie et vérifier à chaque partie si elles sont là où la fiche l'indique.
+- **Réussite** : vous distinguez « prévisible » (Nostromo) de « garanti » (aucune carte).
+- **Piège** : généraliser à une autre carte ; ailleurs, les gates sont RNG.
+
+Détail : `kb/research/batch8_maps.md` §4.4 ; `kb/audit/pass14_lot8_maps.md` (vérifications en jeu recommandées).
+
+---
+
+## 5.8 Tableaux récapitulatifs `[Intermédiaire]`
+
+### Table A — Cartes à plusieurs gens fixes (repère pour les 3-gens)
+
+| Carte | Gens fixes | Proches ? | Lecture [HEURISTIQUE] |
+|---|---|---|---|
+| Disturbed Ward | 2 (RDC + étage du main) | Même bâtiment | Deux tiers d'un 3-gen si un 3e gen RNG est voisin |
+| Grim Pantry | 2 (Pantry, Cursed Cabin), à l'étage | Non documenté | Faits → vannes ouvertes, accès modifiés |
+| Ormond Lake Mine | 2 (Mine Building, Mine Tower) | Oui (tunnel) | Deux tiers d'un 3-gen |
+| Dead Dawg Saloon | 3 (Saloon, Gallows, Water Tower — ce dernier sur 2 positions) | Saloon + Gallows proches | Deux tiers d'un 3-gen ; 3e proximité non documentée |
+| Toba Landing | 3 (Base, Alien Flower, Space Rover) | **Non** (coins opposés) | Aucun 3-gen avec ces trois-là ; trajets longs |
+| Nostromo Wreckage | 2 garantis + 1 possible | Même épave | Jusqu'à 3 gens dans un bâtiment |
+| Trickster's Delusion | 2 (Night Club, Market) | Non documenté | Market collé au shack |
+
+### Table B — Ce qu'aucune source ne documente (ne pas l'inventer)
+
+| Lacune | Portée | Que faire |
+|---|---|---|
+| Kill rate / escape rate par carte | Toutes | Ne citer aucun chiffre ; lire les « archétypes » comme [HYPOTHÈSE] |
+| Nombre de palettes par carte après 9.3.2 | Toutes | Drill D5 |
+| Positions des Exit Gates | Toutes sauf Nostromo, Underground Complex, RPD | Ne rien présumer (R5) |
+| Taille | RPD East / West, Trickster's Delusion | Profil « intérieur » ou « ville » plutôt que taille |
+| Fiches sans ligne de plan propre | Mother's Dwelling, Family Residence, Sanctum of Wrath, Garden of Joy (plan) ; Cowshed, Rancid, Thompson, Chapel, Mount Ormond Resort (archétypes) | Appliquer §5.3.5-5.3.6 |
+| Cartes peu documentées | Rotten Fields, Dead Sands, Freddy Fazbear's Pizza, Fallen Refuge | Drill D1, noter les écarts |
+| Exclusivités de maze tiles par royaume | Toutes (pool commun depuis 9.2.0) | Ne pas enseigner comme LIVE |
+
+> **À retenir** : ce chapitre dit **où** sont les ressources garanties et **quoi** vérifier ; il ne dit pas **qui gagne** sur une carte. Cette réponse n'existe pas dans les sources datées disponibles au 27/09/2026.
+
+Détail : `kb/research/batch8_maps.md` §5-6 et « Questions ouvertes ».
+
+---
+
+## Sources du chapitre
+
+- `kb/research/batch8_maps.md` (lot 8, cartes : inventaire, historique, 44 fiches, synthèse) et son audit `kb/audit/pass14_lot8_maps.md`.
+- `kb/research/batch7_tiles.md` (fonctionnement des tiles, murs cassables, maze tiles).
+- `kb/deliverables/KILLER_COUNTERPLAY_HANDBOOK.md` (archétypes de tueurs).
+- `kb/ledgers/AUDIT_PHASE0_ERRATA.md` ; `kb/seed/audit_phase0.txt` (règle des offrandes 20 %, liste 9.2.0).
+- Notes officielles BHVR archivées (`kb/sources/patches/`) : 9.0.0 (`official_510.txt`), 9.1.0 (`official_516.txt`), 9.2.0 (`official_523.txt`), 9.3.0 (`official_529.txt`), 9.3.2 (`official_530.txt`), FAQ Halloween (`official_531.txt`), 9.4.0 (`official_534.txt`), 9.4.2 (`official_536.txt`), 9.5.0 (`official_538.txt`), 9.6.0 (`official_544.txt`), 10.0.0-10.1.2 (`official_550.txt` à `official_558.txt`, dont 10.0.1 = `official_551.txt`), PTB 10.2.0 (`official_559.txt`, non LIVE).
+- Wiki officiel (deadbydaylight.wiki.gg, pages complètes consultées le 27/09/2026) : Realms, pages des 21 royaumes et des 46 cartes, Maze Tiles, Killer Shack, Basement, Hills, Sacrificial Tree, Harvester, Structures, 2v8 ; Module:Datatable et Module:Maps (`kb/sources/wiki_modules/`).

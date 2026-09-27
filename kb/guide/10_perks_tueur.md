@@ -309,7 +309,136 @@ Détail : `kb/deliverables/PERK_DEDUCTION.md` §1.1 et §3.
 | vers vous **pendant un portage** | Awakened Awareness ; Hangman's Trick | Rester loin du porteur et des crochets |
 | dès que vous **commencez un sabotage** | Hangman's Trick | Ne saboter que si le crochet est proche |
 | sur un blessé proche, au début d'une chase | Wandering Eye (≤ 20 m) | Blessés : s'éloigner des chases |
+| droit au gen **le plus avancé** après un hook | Scourge Hook: Jagged Compass (hook sur crochet Fléau : aura du gen 6/8/10 s) | Ne pas rester seul sur ce gen pendant un hook |
+| sur les blessés cachés, à répétition | Bloodhound (flaques rouge vif) ; Stridor (grognements plus forts) | Blessé : bouger, se soigner vite |
+| dans une zone vide sans hésiter, ou tourne autour d'une cachette | Whispers (≤ 48/40/32 m) | Quitter la zone plutôt que se cacher |
+| en lâchant volontairement l'Obsession en chase | See How They Run (Haste par jeton) | Obsession : ne pas se croire tranquille |
+
+### Compléments : cris, TR, vitesses, portage, totems
+
+| Signal | Candidates | Ce qui départage | Lien |
+|---|---|---|---|
+| **Cri** dans le TR au moment où un coéquipier tombe | Infectious Fright | Down par tout moyen ; position 4/5/6 s (SS) | Signature |
+| **Cri** au bruit d'une palette ou d'un mur cassé, **sans** Hindered | THWACK! | ≤ 36 m du tueur ; 3 jetons + 1 par hook (VM). Avec Hindered : Scared to Death | Signature |
+| **Tous** crient à chaque gen terminé | Rancor | Loud Noise Notification 3 s ; l'Obsession voit l'aura du tueur 5/4/3 s (SS) | Signature |
+| **Cri** en **regardant** le tueur depuis le TR | Phantom Fear | Aura 2 s ; recharge 80/70/60 s (VM) | Signature |
+| **Cris périodiques hors TR** tant qu'un coéquipier reste blessé | Hex: Face the Darkness | Toutes les 35/30/25 s ; cesse quand le maudit est soigné ou à terre (SS) | Signature |
+| Soin lent **dans le TR**, aiguille de skill check de soin plus rapide | Coulrophobia | −20/25/30 % (VM) | Fort |
+| Le **sauveteur** soigne lentement après un décrochage | Leverage | −20/25/30 % pendant 60 s (VM) | Signature |
+| Sacrifice qui avance plus vite quand le tueur s'éloigne d'un crochet | Scourge Hook: Monstrous Shrine | Tueur à > 24 m ; +10/15/20 % (SS) | Fort |
+| Gen bloqué + perte au kick, après des skill checks ratés | Undone | Valeurs LIVE en partie **[INCERTAIN]** | Fort |
+| 1er coffre ou 1er totem touché, aussitôt bloqué | Dominance | 8/12/16 s ; le tueur voit l'aura **du prop** (VM) | Signature |
+| TR qui disparaît quand un gen atteint **70 %** | Tinkerer | Une fois par gen (SS) | Fort |
+| TR qui disparaît quand on **termine** un gen que le tueur avait kické | Machine Learning | + Haste 8 %, 40/50/60 s, une seule fois (VM) | Fort |
+| Pas de TR après le hook **de l'Obsession**, puis l'Obsession passe au sauveteur | Furtive Chase | 14/16/18 s (SS) | Signature |
+| TR très large **pendant un portage**, crochet lointain atteint vite | Agitation | Haste 6/12/18 %, TR +12 m (VM) | Fort |
+| TR qui démarre **tard** hors chase | Monitor & Abuse | −15/20/25 % hors chase (VM) | Fort |
+| Fenêtre franchie **presque instantanément** derrière vous | Superior Anatomy | Après **votre** vault à ≤ 12 m ; un seul vault ; recharge 25 s (VM) | Fort |
+| Palette cassée « trop vite » (base 2,34 s) | Brutal Strength (SS) ; Fire Up (VM) | Fire Up accélère à chaque gen terminé | Fort |
+| Accélération après un vault, peu après une blessure | Unbound | +7 % pendant 10 s (VM) | Faible |
+| Récupération très courte après un coup **réussi** | Keep Them Waiting (VM) ; Help Wanted (VM) | KTW grandit sur les non-Obsession ; Help Wanted suit la complétion d'un gen « compromis » | Faible |
+| Récupération très courte après un coup **raté** | Unrelenting (VM) ; Mad Grit (en portant, SS) | Le contexte : portage ou non | Faible |
+| Tueur plus rapide près des gens **terminés** | Batteries Included | ≤ 16 m ; +5 % (VM) | Faible |
+| En chassant l'Obsession, accélère après une casse ou un kick | Game Afoot | +7 % 8/9/10 s (VM) | Faible |
+| Wiggle qui monte lentement, tueur qui ne dévie presque pas | Iron Grasp | +4/8/12 % ; déport −75 % (VM) | Fort |
+| Saves au ramassage qui échouent de peu, à répétition | Forever Entwined (SS) ; Fire Up (VM) | Jetons sur les dégâts subis / sur les gens terminés | Faible |
+| Totem Hex allumé **dès le début** | Ruin, Devour Hope, Undying, Blood Favour, Huntress Lullaby, Third Seal, Haunted Ground (2 totems), Thrill of the Hunt, Retribution, Overture of Doom | Identifier par l'effet. **Deux** Hex allumés : Haunted Ground ou Undying | Faible |
+| Hex allumé **en cours de partie** | 1er hook : Fortune's Fool, Hive Mind, Under Your Thumb · blessure : Face the Darkness · 1er vault : Crowd Control · 1er gen : Wretched Fate · 4/3/2 stuns ou blinds : Two Can Play · 8 coups : Nothing but Misery · 3 survivants accrochés : Scared to Death · portes : NOED | Le **déclencheur** qui précède. Tous exigent un totem terne restant | Fort |
 
 Détail : `kb/deliverables/PERK_DEDUCTION.md` §2.
+
+---
+
+## 10.5 Règles de déduction par phase `[Intermédiaire]` `[Avancé]`
+
+> Format : **observation → hypothèse → test → réponse robuste**. Tout est **[HEURISTIQUE]**, sauf les valeurs marquées d'une confiance. Une règle regroupe les perks qui partagent un **déclencheur** : c'est lui qu'on surveille, pas la perk.
+
+### Phase A : du spawn au premier down
+
+| # | Observation | → Hypothèse | Test | Réponse robuste |
+|---|---|---|---|---|
+| A1 | 3 gens non réparables au spawn, loin du tueur | Corrupt Intervention (SS) | Débloqués au 1er survivant mourant ? | 1-2 survivants sur les gens libres **près du tueur**, les autres font totems ou se placent près des gens bloqués ; **tenir la 1re chase** |
+| A2 | Hex allumé repéré tôt | Hex de départ (§10.4) ; si « sans effet » : Haunted Ground, Undying, Thrill, Retribution | Quel effet cesse après la purification ? Exposed pour tous = Haunted Ground ; purificateur Oblivious = Retribution ; effet qui persiste = Undying **ou** mauvais totem | Purifier **quand le tueur est en chase loin** et que personne n'est blessé en zone morte, pas « dès qu'il s'allume ». Une bénédiction déclenche les mêmes pièges |
+| A3 | Gen lâché qui a reculé sans kick | Hex: Ruin (VM) | D'abord écarter : kick non vu, skill check raté d'un coéquipier, explosion au hook ou au down | Finir les gens entamés ; purifier **en passant** ; ne pas envoyer toute l'équipe au totem |
+| A4 | 4 coffres ou plus ; coffres refermés | Hoarder (SS) ; Human Greed (SS) | Le tueur arrive-t-il sur un coffre qu'on vient d'ouvrir ? | Coffre seulement tueur localisé loin (Hoarder : ≤ 32/48/64 m) ; pas à ≤ 8 m d'un coffre fermé (Greed) ; un coffre refermé est vide |
+| A5 | 1er coffre ou totem touché bloqué aussitôt | Dominance (VM) | — | Votre position est connue : partir, revenir plus tard (seule la 1re interaction déclenche) |
+| A6 | Aura rouge du tueur sans perk d'aura | Deerstalker (VM) | Écarter une perk de coéquipier (Match Details) ; intervalle régulier de 40/35/30 s ? | Il vous voit aussi : **bouger** après chaque apparition, se rapprocher d'une tile |
+| A7 | TR « faux » : trop large, trop tardif, immobile | Distressing, Monitor & Abuse, add-ons ; TR **transféré** (Dark Devotion, Unforeseen, Overture) | Comparer avec une distance connue (aura d'un coéquipier en chase) | Ne pas lâcher un gen au 1er battement : confirmer direction et distance |
+| A8 | Tueur toujours sur les duos ; droit sur vous au spawn | Discordance (SS) ; Lethal Pursuer (SS) | Répétition | **1 survivant par gen** ; spawn près d'une structure forte |
+| A9 | Premières chases : fenêtre bloquée au 1er saut du tueur ; stun très court ; palette qui explose ; Hindered après un drop | Bamboozle ; Enduring ; Spirit Fury ; Knock Out | Le blocage basekit n'arrive qu'au 3e vault **du survivant** (SS) | Contre les perks de fenêtre : jouer les palettes. Contre l'anti-stun : drop pour **bloquer**, puis transition. Contre la casse rapide (Brutal Strength, Fire Up) : fenêtres et tiles sans palette |
+| A10 | 1er coup reçu : lire le HUD | Sloppy (Mangled + Haemorrhage), Genetic Limits (Exhausted), Third Seal (Blindness + Hex), Franklin's (objet au sol), Blood Favour (palettes bloquées), Hysteria (Oblivious des blessés) | Le pouvoir du tueur l'explique-t-il ? | Sloppy : soin **en une fois**. Franklin's : ne pas revenir chercher l'objet près du tueur, il ne perd plus de charges (VM). Blood Favour : fuir vers une fenêtre ou hors de 24/28/32 m |
+| A11 | Stun ou flash réussi | Hubris (Exposed), Nemesis (Obsession + Oblivious), Lightborn (pas d'aveuglement), Two Can Play (écran blanc), Shadowborn / Rampage (tueur plus rapide) | Compter les stuns de l'équipe (Two Can Play à 4/3/2) | Après **tout** stun : distance immédiate. Lightborn : arrêter les tentatives dès le 1er échec |
+
+> **Erreur fréquente** : purifier par réflexe un Hex « sans effet » pendant qu'un coéquipier blessé est poursuivi. C'est exactement le scénario où Haunted Ground transforme un coup en down.
+
+### Phase B : le premier crochet
+
+```
+ DOWN ──────► PICKUP ─────► PORTAGE ────► HOOK ──────► TUEUR À ≥16 m ──► DÉCROCHAGE
+  │             │             │             │              │                  │
+ Eruption     Thrilling     Starstruck    Pain Res.      Grim Embrace       Make Your Choice
+ Surge        Tremors       Agitation     DMS, Pop       (blocage global)   Weeping Wounds
+ Infectious   (+ Secret     Mad Grit      Turn Back      Monstrous Shrine   Floods of Rage
+  Fright       Project)     Iron Grasp     the Clock                        Furtive Chase
+ Forced                     Awakened      Silent Shadow                     Leverage
+  Hesitation                 Awareness    Insidious                         Devour Hope
+                            Hangman's     Blood Echo, Alien Instinct,
+                             Trick        FTTE, Fortune's Fool, Hive Mind
+```
+
+| # | Moment | Observation → hypothèse | Réponse robuste |
+|---|---|---|---|
+| B1 | Down | Cri + recul d'un gen **déjà kické**, même loin → **Eruption** (VM) · gens **proches** qui reculent **sans cri**, down au coup de base → **Surge** (SS) · cri dans le TR → **Infectious Fright** (SS) · Hindered près du down → **Forced Hesitation** (SS) | Eruption suspectée (cri déjà entendu) : lâcher les gens kickés quand une chase tourne mal. **Sans ce signal, rester** : un gen kické lâché régresse. Toujours : éloigner les chases des gens avancés, ne pas suivre à moins de 16 m |
+| B2 | Pickup | Gens libres bloqués → **Thrilling Tremors** (VM) ; si le TR disparaît en même temps → **+ Secret Project** (VM) | Garder **1-2 réparateurs actifs** quand une chase va finir en down (un gen en cours n'est pas bloqué). SWF : annoncer « down » |
+| B3 | Portage | Exposed en entrant dans le TR du porteur → **Starstruck** (SS) · TR énorme + tueur rapide → **Agitation** (VM) · coups en portant → **Mad Grit** (SS) · déviation vers les cachés → **Awakened Awareness** / **Hangman's Trick** | **Si un de ces signaux** est apparu : pas de body block ni de save au contact ; préparer les saves **avant** le pickup. Sans signal, flash save et suivi préparé restent légitimes (surtout en SWF) |
+| B4 | Hook | Cri + explosion du gen le plus avancé → **Pain Resonance** (VM) · tous les gens bloqués quand le tueur s'éloigne → **Grim Embrace** (SS) · explosion sans kick, tueur proche → **Turn Back the Clock** (VM) | Pas de gen très avancé isolé à un 1er hook ; après le cri, **réparer 5 %** tout de suite ; compter les survivants déjà accrochés (jetons) |
+| B5 | Hook (votre HUD) | Obsession Exposed → **FTTE** · blessé Exhausted + Haemorrhage → **Blood Echo** · blessé et le plus loin, Oblivious → **Alien Instinct** · Oblivious + Hex après **votre** 1er hook → **Fortune's Fool** · Hex au 1er hook → **Hive Mind** ou **Under Your Thumb** | FTTE : l'Obsession se cache ~20 s, ne sauve pas. Fortune's Fool : le maudit purifie (seul à pouvoir le faire 90 s). Hive Mind : purifier **avant** le 4e gen |
+| B6 | Après le hook : gens | Gen bloqué au moment où on le **lâche** → **DMS** (VM) · kick qui fait perdre ~20 % → **Pop** (VM) | 1er lâcher sur un **gen peu avancé** ; pendant 45 s (prudence), finir les gens proches ou revenir réparer 5 % juste après le kick |
+| B7 | Après le hook : silence | Plus de TR → **Silent Shadow** (VM) · TR coupé net + respiration → **Insidious** (VM) · après le hook de l'Obsession → **Furtive Chase** (SS) | « Pas de cœur ≠ tueur parti » : inspecter les angles morts. SWF : à deux. SoloQ : un seul s'approche si quelqu'un est déjà en route |
+| B8 | Décrochage | Sauveteur Exposed + cri, tueur à > 32 m → **MYC** (SS) · Haemorrhage **seule** → **Weeping Wounds** (SS) · tueur droit sur un tiers → **Floods of Rage** (SS) · sauveteur qui soigne lentement → **Leverage** (VM) | MYC : décrocher quand le tueur est **proche mais engagé** ailleurs, ou pendant la recharge. Weeping Wounds : ne pas soigner la victime tout de suite si le tueur approche. Leverage : le sauveteur ne soigne pas |
+
+**Faits utiles au crochet** [FACT] : l'anti-camp ne se remplit qu'**à moins de 16 m** du crochet (VM), donc un proxy camp à 17-20 m ne le déclenche pas ; il est en pause pendant un portage et désactivé dès que les portes sont alimentées (SS). Protections de décrochage (10.1.0, VP) : Endurance + 10 % de Haste pendant 10 s, + Elusive 10 s ; l'Endurance se perd sur une action « voyante » (réparer, soigner).
+
+> **Note avancée** : B4 et B6 se contredisent en apparence. Contre Pain Resonance, on veut **répartir** la progression ; contre Pop et DMS, on veut **finir** les gens. L'arbitrage robuste est de **finir avant le hook** le gen très avancé quand c'est possible (il ne peut plus exploser), sinon de réparer 5 % juste après le cri. Répartir coûte du tempo si Pain Res est absente : ne le faire qu'après un premier cri observé [AVIS D'EXPERT].
+
+### Phase C : milieu de partie
+
+| # | Déclencheur | Observation → hypothèse | Réponse robuste |
+|---|---|---|---|
+| C1 | Kick | Tueur qui se tourne vers les cachés → **Nowhere to Hide** (24 m, VM) · retour en moins de ~16 s quand on reprend → **Surveillance** (SS) · cri + Exposed en touchant le gen → **Dragon's Grip** (VM) · aura jaune du gen + pas de TR → **Trail of Torment** (SS) · TR fixe sur le gen → **Unforeseen** (SS) · skill check immédiat difficile → **Overcharge** (SS) · autres gens qui régressent → **Oppression** (VM) | **Si le tueur est encore près du gen** : partir **à plus de 24 m**, revenir réparer 5 %. Ne pas reprendre **seul** un gen kické dans les 30 s. Sur un gen kické depuis moins de 90 s, viser des Great (Call of Brine). Si le tueur est déjà loin et sans signal : reprendre tout de suite |
+| C2 | Gen terminé | Gen le plus avancé bloqué → **No Holds Barred** (SS) · toutes les fenêtres bloquées → **Cruel Limits** (SS) · tous crient → **Rancor** (SS) · fente longue → **Coup de Grâce** (SS) · tueur sur les réparateurs → **Bitter Murmur** (VM) · TR disparu + tueur rapide → **Machine Learning** (VM) · Hex + Obsession lente → **Wretched Fate** (SS) | **Se disperser** dès la complétion (hors 16 m) ; prévenir le coéquipier en chase avant de finir un gen (Cruel Limits) ; pas de gen très avancé isolé |
+| C3 | Soin | Tueur arrive sans ligne de vue → **A Nurse's Calling** (≤ 28/30/32 m, VM) · soin lent dans le TR → **Coulrophobia** (VM) · Blindness + Exhausted → **Septic Touch** (VM) · cri du soigneur → **Deathbound** (SS) · rafale de skill checks en fin d'auto-soin → **No Quarter** (SS) | **Soigner hors TR, à plus de 32 m**, en une fois, puis se séparer. No Quarter : se faire soigner par un coéquipier. Exception : contre un tueur qui re-blesse presque gratuitement (Legion, Plague en Corrupt Purge), jouer blessé peut être le bon choix |
+| C4 | Obsession | TR qui suit l'Obsession blessée → **Dark Devotion** (VM) · tueur qui l'évite → **KTW** (VM) / **Cull the Weak** (SS) · Obsession qui change → **Celestial Witness**, **Game Afoot**, **FTTE**, **Furtive Chase** (+ Nemesis si Oblivious) | Dark Devotion : l'Obsession blessée ne rejoint pas les autres ~45 s. KTW : l'Obsession prend les coups protecteurs (−2 jetons). Cull the Weak : l'Obsession devient sauveteuse et soigneuse (+33 %) |
+| C5 | Fin de chase | TR coupé en chase longue → **Beast of Prey** (SS) · retour 2-5 s après l'avoir semé → **Predator** / **Zanshin** · TR disparu à 70 % → **Tinkerer** (SS) | Garder la caméra sur le tueur ; après l'avoir semé, bouger ~4 s puis **changer d'axe** |
+| C6 | Totems | Totem rallumé → **Pentimento** (SS) · effet qui survit → **Undying** (SS) · Oblivious → **Retribution** (VM) · gen bloqué → **Secret Project** (VM) · Boon détruit → **Shattered Hope** (SS) · purification lente → **Thrill** (VM) | Pentimento / Retribution / Secret Project : **réduire** les purifications de ternes. Undying : purifier **tous** les totems allumés. Thrill : purifier d'abord des ternes |
+| C7 | Objets | Exhausted en sortant un objet → **Overwhelming Presence** (≤ 32 m, VM) · objet au sol à chaque coup → **Franklin's** (VM) · aura d'objet au sol / Oblivious au ramassage → **Weave Attunement** (SS) | Aucun objet près du tueur ; les objets au sol sont des **pièges à aura** |
+| C8 | Pointes | ≥ 4 regression events consommés (VM) | Un gen à pointes a une **valeur défensive** ; au 8e event, seul un raté le fait reculer |
+
+> **Erreur fréquente** : sauter sur un gen kické « pour stopper la régression » alors que le tueur est à 30 m. Les perks de C1 punissent précisément ce réflexe. La régression coûte 15 s de réparation par minute (calcul) : 10 s d'attente coûtent donc 2,5 s, un down coûte bien plus.
+
+### Phase D : endgame
+
+**Checklist des portes alimentées (5 s)** `[Avancé]` :
+1. Exposed **pour tous** → NOED (SS) ; **Obsession seule** → Rancor (SS).
+2. Broken chez les blessés, au sol, accrochés → Terminus (VM, 35/40/45 s après l'ouverture).
+3. Fenêtres **et** palettes bloquées → None Are Free (SS, jusqu'à 48/56/64 s).
+4. Plus aucun TR → Silent Shadow (VM).
+5. Qui est blessé ? Qui est l'Obsession ?
+6. Au 1er contact avec l'interrupteur : les deux bloqués → No Way Out (SS) ; ouverture lente sauf pour l'Obsession → Remember Me (SS) ; barre qui redescend → Haywire (VM).
+
+| Situation | Réponse robuste | Pourquoi |
+|---|---|---|
+| NOED, Terminus ou None Are Free encore plausibles | **Se soigner avant la dernière gen** ; finir le dernier gen **sain, groupé, près des portes, sans chase** | Un coup = un down (NOED) ; pas de soin (Terminus) ; pas de ressource de chase (None Are Free) |
+| NOED confirmé | À deux, trouver le totem (aura visible de 4 m, puis jusqu'à 24 m en 30 s, SS) ; le 3e ouvre | Le totem est la seule sortie de l'Exposed |
+| Terminus | Ouvrir une porte **vite** pour lancer le compte à rebours ; Adrenaline ne soigne pas | Le Broken persiste 35/40/45 s après l'ouverture |
+| No Way Out | **Toucher l'interrupteur puis s'éloigner**, revenir à la fin du blocage (jusqu'à 36/48/60 s) | Le tueur reçoit une Loud Noise Notification à l'interrupteur |
+| Haywire | Ne jamais lâcher une porte au-delà de 80 % | La barre régresse |
+| Porte ouverte, coéquipier porté ou au sol | **Sortir avant le hook** ou empêcher le hook | Blood Warden bloque les sorties 40/50/60 s, une fois (SS) ; l'EGC de 120 s ralentit de moitié mais ne s'arrête jamais (SS) |
+
+**Faits de contexte** [FACT] : en endgame, les protections de décrochage **restent** (Endurance + Haste 10 s), seule Elusive disparaît (VP) ; l'anti-camp est désactivé (SS) ; la désactivation de Batteries Included aux portes **n'est pas confirmée** **[INCERTAIN]** : la supposer active.
+
+> **Cas d'échec** : « finir le dernier gen groupé et sain » n'est pas toujours faisable. Contre un 3-gen tenu, finir le gen **pendant** une chase lointaine peut rapporter plus que d'attendre [HEURISTIQUE, non mesuré].
+
+Détail : `kb/deliverables/PERK_DEDUCTION.md` §3.
 
 ---
