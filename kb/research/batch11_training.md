@@ -430,3 +430,195 @@ Le « niveau » d'une erreur = le niveau auquel elle devient le **principal frei
 - **Drill** : DR-08.
 
 **Total : 14 (débutant) + 13 (intermédiaire) + 11 (avancé) + 12 (très avancé) = 50 erreurs.** Couverture par tag principal : CHASE 10 · MACRO 10 · CROCHET 8 · TILE 7 · SOIN 4 · COUNTER 3 · ENDGAME 3 · INFO 3 · SOLOQ 2 · SWF 1 (E-A10 porte deux tags). Le counterplay tueur est aussi traité dans E-D08, E-A02, E-T03 ; la SoloQ dans E-I03, E-I04 (horloge HUD).
+
+## 2. ARBRES DE DÉCISION (§32, T-Q01 → T-Q03)
+
+Principe : un arbre ne donne pas « la » réponse ; il ordonne les **questions** dans l'ordre où elles changent la décision, et chaque feuille dit ce qu'elle achète, ce qu'elle risque et l'alternative. Tous les seuils de distance sont **UNCERTAIN** (aucune mesure officielle de portée de fente : l'audit ne donne qu'une estimation communautaire ~2 m de gain de fente, ~6 m de portée totale avec la hitbox, désaccord entre joueurs). L'ensemble est **HEURISTIC**.
+
+### 2.1 T-Q01 — PALLET DECISION (arbre complet)
+
+**Situation d'entrée** : tu es poursuivi et une palette debout est à ta portée (sur ta tile ou sur ton chemin).
+
+**Les 5 feuilles** (+ 1 feuille « hors arbre ») :
+
+| Feuille | Définition | Ce qu'elle achète | Risque principal |
+|---|---|---|---|
+| **PRE-DROP** | Poser la palette **avant** que le tueur soit à portée, sans chercher le stun | Distance sûre : il doit casser (2,34 s → ~9,4 m pour toi, CALC) ou contourner ; reset de sa Bloodlust s'il casse (FACT) | Palette consommée pour « peu » de temps si la tile est forte ; zone qui s'épuise |
+| **TENIR** | Tourner autour de la palette **debout** et ne la poser que si le tueur s'engage dans la zone (stun possible) | Le maximum de temps par palette : le tueur doit respecter ; stun 2 s (FACT) + casse si le timing est bon | Coup si mauvais timing, feinte ou latence (E-T08) ; Bloodlust qui monte |
+| **GREED** | Continuer la tile (un tour de plus, ou jouer une autre partie de la tile) en gardant la palette en réserve, au-delà du moment « sûr » | Palette gardée pour la suite ; le tueur perd du temps à tourner | Coup avec la palette debout (le pire résultat : état perdu ET ressource non utilisée) |
+| **JOUER LA FENÊTRE** | Utiliser d'abord la fenêtre de la même tile (fast vault 0,5 s, FACT) | Temps gagné sans consommer de palette ; le tueur doit contourner (ou vaulter 1,7 s) | Blocage après ton 3e vault (30 s, FACT) ; ranged/mobilité qui punissent la réception prévisible |
+| **QUITTER LA TILE** | Ne pas utiliser cette palette ; partir vers la ressource suivante (voir arbre 2.2) | Palette laissée à l'équipe / pour plus tard ; évite une tile où le tueur gagne | Traversée exposée si le départ n'est pas calé sur un événement |
+| *(hors arbre)* PRENDRE LE COUP | Tu n'atteindras pas la palette avant le coup : ce n'est plus une décision de palette | Boost 1,8 s (FACT) + cooldown du tueur 2,7 s (FACT) pour atteindre une ressource | Perdre un état ; si blessé → au sol |
+
+**L'arbre** (lire de haut en bas ; une réponse peut suffire à trancher, sinon on descend) :
+
+```
+T-Q01  PALLET DECISION
+│
+├─ Q1. Atteindras-tu la palette avant que le tueur soit à portée de fente ?
+│   ├─ NON (il est déjà sur toi) ──────────────► PRENDRE LE COUP (hors arbre)
+│   │     sauf : palette à 1-2 pas ET un coup = mise au sol critique → poser immédiatement (stun de réaction)
+│   ├─ DE JUSTESSE ───────────────────────────► Q2 (GREED exclu)
+│   └─ LARGEMENT ─────────────────────────────► Q2
+│
+├─ Q2. Le tueur peut-il ignorer ou annuler cette palette ?
+│   ├─ Casse instantanée par pouvoir disponible (Demogorgon, Oni Fury, Blight, Mastermind,
+│   │   Knight garde, Good Guy, Lich, Dark Lord loup…)       ─► PRE-DROP tôt (force détour/pouvoir)
+│   │                                                          ou QUITTER ; jamais TENIR/GREED
+│   ├─ Tueur à distance avec LOS sur toi (Huntress, Deathslinger, Trickster…)
+│   │                                                        ─► JOUER LA FENÊTRE/LOS ou QUITTER vers
+│   │                                                          murs hauts ; PRE-DROP seulement si la palette
+│   │                                                          coupe aussi la LOS
+│   ├─ Mobilité qui franchit/contourne vite (Nurse, Blight…)  ─► palette = faible valeur ; LOS et
+│   │                                                          imprévisibilité ; PRE-DROP rarement utile
+│   ├─ Pouvoir anti-loop bientôt prêt (Q2 « quand » : UNCERTAIN selon tueur)
+│   │                                                        ─► PRE-DROP avant qu'il revienne
+│   └─ M1 / pouvoir indisponible ───────────────────────────► Q3
+│
+├─ Q3. Combien te coûte un coup ? (santé × statuts × crochets)
+│   ├─ Sain, 0-1 crochet ─────────────► marge : TENIR / GREED / FENÊTRE ouverts ─► Q4
+│   ├─ Endurance (décroché < 10 s) ───► un coup = Deep Wound, pas au sol (FACT) : marge d'un coup ─► Q4
+│   ├─ Blessé, 0-1 crochet ───────────► coup = au sol = 1 crochet : GREED exclu, TENIR prudent ─► Q4
+│   ├─ Blessé à 2 crochets (dead on hook) ou Exposed ou Deep Wound
+│   │                                  ─► PRE-DROP (sauf Q5 : tile suivante plus forte atteignable
+│   │                                     → QUITTER sur événement)
+│   └─ Sain à 2 crochets ────────────► un coup n'est pas mortel mais rapproche la mort : TENIR prudent ─► Q4
+│
+├─ Q4. Que vaut CETTE ressource ?
+│   ├─ La tile a une fenêtre non bloquée pour toi ─► JOUER LA FENÊTRE d'abord (la palette reste)
+│   ├─ Palette « forte » (il ne peut pas te toucher en tournant sans que tu la poses) ─► TENIR
+│   ├─ Palette « mindgame » (il peut te lire / couper) ─► TENIR avec départ tôt, ou PRE-DROP si Q3 serré
+│   └─ Palette faible / filler ─► PRE-DROP (pour la distance) ou QUITTER si la suivante est proche
+│
+├─ Q5. Loop suivant disponible ? (voir 2.2 pour le calcul en secondes)
+│   ├─ Oui, fort et atteignable ──────► QUITTER (après un événement) ; pre-drop pour partir si besoin
+│   ├─ Oui, mais faible ou déjà épuisé ─► rester : TENIR plus longtemps ici
+│   └─ Non (dead zone derrière) ──────► maximiser le temps ICI : TENIR ; ne pas PRE-DROP trop tôt
+│                                        (après la palette, il n'y a plus rien)
+│
+├─ Q6. Bloodlust (secondes depuis le début de chase ou le dernier coup/casse/pouvoir)
+│   ├─ < 15 s ───► aucune pression
+│   ├─ 15-35 s ──► la pose + casse remet à zéro (FACT) : PRE-DROP / stun deviennent plus rentables
+│   └─ ≥ 35 s ───► +0,6 m/s (FACT) : sur tile moyenne/faible, poser ou quitter maintenant
+│
+├─ Q7. Que fait l'équipe ? (valeur d'une seconde de chase, §0.3)
+│   ├─ 3 coéquipiers sur des gens séparés, loin ─► chaque seconde ≈ 1/30 gen : allonger (TENIR, FENÊTRE),
+│   │                                              accepter de consommer la palette pour des secondes
+│   ├─ Coéquipiers au crochet / en soin / sans gen ─► la chase rapporte peu : économiser (QUITTER, GREED
+│   │                                              seulement si sûr), durer par le mouvement
+│   ├─ Un gen à 99 %/presque fini, ou portes proches ─► quelques secondes suffisent : PRE-DROP accepté
+│   └─ Zone = futur 3-gen ou dernières palettes de la carte ─► garder : QUITTER / FENÊTRE en priorité
+│
+├─ Q8. Ressources restantes (palettes de la zone, de la carte ; ta perk d'Exhaustion)
+│   ├─ Beaucoup ─► PRE-DROP moins coûteux
+│   └─ Peu ─────► chaque palette compte : TENIR/FENÊTRE ; perk d'Exhaustion pour QUITTER
+│
+├─ Q9. Perks et add-ons suspectés (deduction, DR-07)
+│   ├─ Enduring (stun −40/45/50 %, FACT) ─► le stun rapporte moins : PRE-DROP > stun tardif
+│   ├─ Bamboozle (fenêtre bloquée 8/12/16 s pour tous, FACT) ─► FENÊTRE moins fiable : palette/QUITTER
+│   └─ Perk qui punit la casse ou la pose (non vérifiée ici) ─► pondérer
+│
+└─ Q10. Phase de partie
+    ├─ Portes alimentées / EGC ─► le temps restant du tueur est court : PRE-DROP généreux, tout pour sortir
+    ├─ Dernier survivant ─► chaque palette = dernière chance ; pas de « plus tard » pour l'équipe
+    └─ Début de partie ─► la zone servira encore : éviter le PRE-DROP gratuit
+```
+
+**Pourquoi cet ordre** (HEURISTIC) : Q1-Q2 éliminent les cas où la palette n'est pas une vraie option ; Q3 fixe ta tolérance au risque (une erreur à 2 crochets coûte un joueur, pas un état) ; Q4-Q5 comparent cette ressource aux suivantes ; Q6 introduit le coût du temps pour toi ; Q7-Q10 convertissent tout en valeur d'équipe. En jeu, Q1-Q3 doivent être **pré-calculées** avant d'arriver sur la tile (DR-12), sinon la décision arrive trop tard.
+
+**Justification de chaque feuille — quand elle est correcte, quand elle est fausse**
+
+| Feuille | Correcte quand… | Fausse quand… | Alternative si doute |
+|---|---|---|---|
+| PRE-DROP | tile faible ; tueur anti-loop/casse instantanée ; tu es blessé à 2 crochets / Exposed / Deep Wound ; Bloodlust ≥ 25-35 s ; Enduring suspecté ; fin de partie | tile forte en début de partie, sain ; dead zone derrière (tu brûles ta dernière ressource) ; tueur qui contourne au lieu de casser et te rattrape de l'autre côté | TENIR prudemment, quitter au premier signe d'engagement |
+| TENIR | palette forte ; tueur M1 sans pouvoir prêt ; tu vois le tueur (ou sa red stain) ; dead zone derrière ; équipe sur les gens | tu ne vois pas le tueur ; latence élevée ; tueur qui feinte bien (tu te fais lire) ; casse instantanée | PRE-DROP |
+| GREED | sain (ou Endurance), grande avance, tueur visible, tueur M1, équipe sur les gens, palettes rares | blessé ; tueur ranged ou pouvoir prêt ; Bloodlust haute ; tu ne vois pas le tueur | TENIR (pose au premier engagement) |
+| JOUER LA FENÊTRE | fenêtre non bloquée pour toi (< 3 vaults), approche droite possible (≥ 2,5 m, FACT), tueur M1 | ranged avec LOS sur la réception ; Bamboozle ; tu arrives en angle (medium 0,9 s) ; 3e vault déjà fait | palette (TENIR/PRE-DROP) ou QUITTER |
+| QUITTER LA TILE | palette faible et tile suivante forte atteignable ; zone à préserver (3-gen, dernières palettes) ; un événement te donne de l'avance | aucun événement (tueur au contact) ; dead zone entre les deux ; blessé à 2 crochets sans perk | PRE-DROP puis quitter sur la casse |
+
+**Cas combinés fréquents** (tous HEURISTIC ; « → » = feuille privilégiée, entre parenthèses l'alternative)
+
+| # | Contexte | Décision | Pourquoi |
+|---|---|---|---|
+| 1 | Sain, 0 crochet, début de partie, tueur 4,6 M1, shack avec fenêtre libre | → FENÊTRE puis TENIR (GREED si grande avance) | Gagner du temps sans consommer ; la zone servira encore |
+| 2 | Blessé, 2 crochets, tueur M1, palette moyenne, tile suivante lointaine | → PRE-DROP (TENIR si tu vois clairement le tueur loin) | Un coup = mort probable ; la palette ne vaut plus rien si tu tombes |
+| 3 | Sain, tueur à casse instantanée (ex. Demogorgon), Shred probablement prêt | → PRE-DROP tôt ou QUITTER | La palette debout ne se « respecte » pas ; poser tôt force le détour ou l'usage du pouvoir (qui coupe la Bloodlust, FACT) |
+| 4 | Huntress, tu es dans une tile basse, elle a une hachette armée et la LOS | → QUITTER vers murs hauts (FENÊTRE seulement si la réception est cachée) | La palette ne bloque pas un tir ; la LOS est la vraie ressource (lot 4) |
+| 5 | Sain, 30 s de chase, Bloodlust palier 2, tile moyenne, 3 coéquipiers sur les gens | → PRE-DROP (ou stun si engagement) | Reset de Bloodlust par la casse + ~15 s de rattrapage (CALC) ; chaque seconde ≈ 1/30 gen |
+| 6 | Sain, coéquipiers au crochet et en soin, zone = 3 derniers gens | → QUITTER / hold W, garder les palettes | La chase rapporte peu maintenant ; ces palettes vaudront plus pendant le 3-gen |
+| 7 | Endurance (décroché depuis 3 s), tueur revient, palette faible | → PRE-DROP ou QUITTER ; ne pas « tanker » sans but | Un coup = Deep Wound (FACT) : utile si tu protèges quelqu'un, sinon il te met en compte à rebours |
+| 8 | Portes alimentées, 1 gen déjà au 99 inutile, tu es blessé à 1 crochet près d'une porte | → PRE-DROP généreux | Le tueur n'a plus que la fin de partie : chaque seconde vers la porte compte |
+| 9 | Enduring suspecté (stuns courts vus), palette moyenne | → PRE-DROP > TENIR pour stun | Le stun rapporte −40 à −50 % (FACT) ; la casse, elle, reste 2,34 s |
+| 10 | Tu ne vois pas le tueur (Undetectable, pas de red stain) | → PRE-DROP si blessé ; sinon FENÊTRE/QUITTER, pas de GREED | Sans info, les feuilles qui exigent la lecture (TENIR, GREED) s'effondrent |
+
+### 2.2 T-Q01b — QUITTER LA TILE (arbre)
+
+**Question de départ** : « si je reste un tour de plus, le tueur peut-il me toucher ? » (le « test des 5 secondes » du seed est une bonne formulation, à condition de savoir **où** aller).
+
+```
+T-Q01b  QUITTER LA TILE ?
+│
+├─ R1. La tile a-t-elle encore une ressource que CE tueur doit respecter ?
+│   ├─ Non (palette cassée ET fenêtre bloquée pour toi / sans intérêt contre ce pouvoir) ─► doit partir ─► R3
+│   └─ Oui ─► R2
+│
+├─ R2. Le tueur a-t-il trouvé la solution ?
+│   (se poste au centre, coupe systématiquement, Bloodlust ≥ 25-35 s, pouvoir prêt qui annule la tile)
+│   ├─ Oui ─► partir ─► R3
+│   └─ Non ─► RESTER (encore un cycle) et reposer R2 à chaque tour
+│
+├─ R3. Un événement te donne-t-il de l'avance MAINTENANT ?
+│   ├─ Il casse une palette ─────────► ~2,34 s → ~9,4 m (CALC)          ─► QUITTER MAINTENANT
+│   ├─ Stun ─────────────────────────► 2 s (moins avec Enduring) → ~8 m ─► QUITTER MAINTENANT (ou casse ensuite)
+│   ├─ Il vault une fenêtre ──────────► 1,7 s → ~6,8 m (CALC)           ─► QUITTER MAINTENANT
+│   ├─ Tu viens d'être touché ────────► boost 1,8 s + son cooldown 2,7 s ─► QUITTER MAINTENANT (ne pas vaulter tout de suite)
+│   ├─ Il utilise/rate son pouvoir ───► selon le tueur (UNCERTAIN)       ─► QUITTER souvent
+│   ├─ Il perd la LOS (tile à murs hauts) ─► partir hors de sa ligne ; changer de direction
+│   └─ Aucun événement ──────────────► R4
+│
+├─ R4. Pas d'événement : peux-tu en créer un ?
+│   ├─ PRE-DROP la palette restante puis partir sur la casse / le détour
+│   ├─ Vault (fenêtre) qui l'oblige à contourner, puis partir
+│   ├─ Perk d'Exhaustion (si elle mène à une ressource, pas au vide)
+│   └─ Rien ─► R5
+│
+├─ R5. Où aller ? (calcul en secondes, CALC indicatif)
+│   Temps de trajet t = d / 4,0 (d en m). Avance à l'arrivée ≈ g − Δv·t
+│   (g = avance au départ ; Δv = 0,6 m/s tueur 4,6 ou 0,4 m/s tueur 4,4, + Bloodlust).
+│   Si l'avance à l'arrivée reste > portée de fente (≈ 2 m + hitbox, UNCERTAIN) → trajet sûr.
+│   Exemple : g ≈ 9,4 m (casse), tueur 4,6, pas de Bloodlust : trajet sûr jusqu'à t ≈ 12 s,
+│   soit d ≈ 49 m EN LIGNE DROITE — dans la réalité, pathing, fente et Bloodlust réduisent
+│   fortement ce chiffre : le traiter comme un plafond, pas comme une règle.
+│   ├─ Tile suivante atteignable avec marge ─► QUITTER vers elle
+│   ├─ Seulement une tile faible ─► QUITTER et PRE-DROP là-bas, ou rester ici un cycle de plus
+│   └─ Rien d'atteignable (dead zone) ─► RESTER et jouer le temps ici (LOS, obstacles, 360 contre M1)
+│                                        ou accepter le coup en le rendant le plus tardif possible
+│
+└─ R6. Filtre équipe : ta sortie mène-t-elle le tueur vers les gens actifs / le crochet / un blessé ?
+    ├─ Oui ─► choisir une autre direction même un peu moins bonne (E-I13)
+    └─ Non ─► go
+```
+
+**Feuilles et justification**
+- **RESTER encore un cycle** : la tile tient encore et partir sans événement donnerait un coup dans le dos. Risque : Bloodlust ; alternative : préparer le départ (regarder la sortie pendant le cycle).
+- **QUITTER MAINTENANT (sur événement)** : c'est le seul moment où la traversée ne coûte rien ; risque : tueur qui ne casse pas mais contourne (lecture : s'il n'est pas en animation de casse, l'événement n'existe pas).
+- **PRE-DROP puis QUITTER** : transforme une palette faible en ~9 m d'avance ; risque : il contourne au lieu de casser (tile courte) ; alternative : vault.
+- **PRENDRE LE COUP puis QUITTER** : acceptable **sain** quand aucune autre option n'existe ; le boost et le cooldown donnent le meilleur départ possible ; interdit à 2 crochets blessé.
+- **RESTER faute de mieux** : dead zone autour ; le temps gagné ici (même 5-10 s) vaut plus qu'une fuite perdue d'avance.
+
+### 2.3 Autres arbres (versions courtes, à développer au lot 9)
+
+**T-Q02 — Sauvetage (qui, quand)**
+1. Où est le tueur ? — au crochet (< 16 m) / en chase ailleurs / inconnu. En chase ailleurs → fenêtre de sauvetage. Au crochet → Q2. Inconnu → approcher hors LOS, vérifier TR/red stain.
+2. Combien reste-t-il dans la phase ? (70 s, FACT) — beaucoup → attendre qu'il parte ou que l'anti-camp agisse (< 16 m seulement) ; peu → sauvetage même risqué, ou trade **justifié** (E-T01).
+3. Qui y va ? — celui dont l'absence coûte le moins (pas en chase, gen non critique, 0 crochet, sain) **et** qui arrivera à temps. SoloQ : si quelqu'un y va déjà (HUD, Kindred), rester ; vérifier 10-15 s plus tard.
+4. Après le décrochage : sauveteur entre tueur et décroché, directions différentes, pas de soin sur place (E-D10, E-A06).
+Feuilles : SAUVER MAINTENANT · ATTENDRE (réparer en surveillant) · DISTRAIRE (SWF : un qui se montre, un qui décroche) · TRADE assumé · NE PAS SAUVER (fin de partie où le sauvetage coûte la sortie de deux survivants — rare, SITUATIONAL).
+
+**T-Q03 — Soin**
+1. Le tueur a-t-il un coup unique / Exposed fréquent ? oui → soin de faible valeur.
+2. Un gen proche est-il à ≥ 80 % ? oui → finir le gen d'abord.
+3. Une chase contre toi est-elle probable bientôt ? (tu es le plus proche du tueur, tu viens d'être décroché) oui → le soin vaut plus.
+4. Coût : 16 s × 2 survivants (≈ 0,36 gen) ; med-kit ou pas ; Mangled (+25 % de durée, FACT).
+5. Où ? hors de la zone du tueur, hors LOS, pas sous le crochet.
+Feuilles : SOIGNER MAINTENANT · SOIGNER PLUS TARD (après le gen) · NE PAS SOIGNER (jouer blessé en connaissant ce coût) · MENDING SEULEMENT (Deep Wound).
