@@ -95,7 +95,7 @@
   - Iridescent Umbrella Badge (Exposed après vaccin, selon seed) → ne prendre le vaccin qu'hors de portée du tueur et hors chase.
 - **Implications de carte** : maps avec beaucoup de petites tiles (Autohaven, Coldwind) favorisent le tentacule ; maps à gros bâtiments / murs hauts favorisent le survivant ; RPD (map RE) : couloirs et portes → zombies plus gênants — HEURISTIC.
 - **Perks fréquentes / synergies** : Lethal Pursuer (son perk), Pain Resonance, Eruption, Grim Embrace, Pop (seed, UNCERTAIN). Hysteria (Oblivious aux blessés) → avec un Nemesis qui blesse souvent, surveiller le TR réel plutôt que l'audio (HEURISTIC).
-- **Écart avec le seed** : **FAUX** — Eruption « −10 % » : audit [2] = Eruption 10 → **5 %** en 9.2.0 ; reste NON VÉRIFIABLE (valeurs du pouvoir, points de mutation, add-ons).
+- **Écart avec le seed** : **CONTESTÉ (non tranché)** — Eruption « −10 % » : le registre de patchs de l'audit [2] cite 10 → 5 % en 9.2.0, mais le lot 3 (batch3_perks_kill_p91) et la page wiki.gg 9.2.X indiquent que ce changement PTB aurait été annulé en LIVE (conflit UNRESOLVED, voir CONFLICT_REGISTER) ; reste NON VÉRIFIABLE (valeurs du pouvoir, points de mutation, add-ons).
 - **Sources** : [1], [2].
 
 ---
@@ -309,7 +309,7 @@
 | G4-03 | Trickster 36 lames (was 44), Main Event au rang max seulement | [2] | 9.5.0 | STRONG_SECONDARY (via audit) |
 | G4-04 | Laceration : décroissance après 16 s | [2] | 9.5.2 | STRONG_SECONDARY (via audit) |
 | G4-05 | Laceration : −1 charge / 4,4 s ; rang S 66 s ; Main Event 10 s ×1,67 | [1] | ? | UNCERTAIN (seed) |
-| G4-06 | Eruption : régression 5 % (was 10 %) | [2] | 9.2.0 | STRONG_SECONDARY (via audit) |
+| G4-06 | Eruption : perte 5 % (was 10 %) — contestée (annulation LIVE possible, conflit Eruption du lot 3) | [2] | 9.2.0 | UNCERTAIN |
 | G4-07 | Nemesis tentacle 5 / 6,5 m, cooldown 2,25 s, MR2 5 pts / MR3 15 pts | [1] | ? | UNCERTAIN (seed) |
 | G4-08 | Perks Hellraiser renommées : Deadlock → No Holds Barred, Plaything → Fortune's Fool, Gift of Pain → Weeping Wounds | [2] | 9.0.0 | STRONG_SECONDARY (via audit) |
 | G4-09 | Cenobite Chain Hunt à 90 s, chaîne retirée en 1 s, portail 16 m | [1] | ? | UNCERTAIN (seed) |
@@ -350,7 +350,7 @@
 | Élément | Le guide dit | Vérifié | Verdict |
 |---|---|---|---|
 | Knight — Nowhere to Hide | 18 m depuis 10.1.0, « moins bon » | 24 m LIVE (18 m = PTB 10.1.0) [2] | FAUX (PTB-comme-LIVE) |
-| Nemesis — Eruption | −10 % | 5 % depuis 9.2.0 [2] | FAUX |
+| Nemesis — Eruption | −10 % | 5 % selon registre audit ; annulation LIVE possible (conflit lot 3) | NON VÉRIFIABLE (conflit ouvert) |
 | Cenobite — perks enseignables | Deadlock, Hex: Plaything, Scourge Hook: Gift of Pain | renommées en 9.0.0 : No Holds Barred, Hex: Fortune's Fool, Scourge Hook: Weeping Wounds [2] | IMPRÉCIS (OBSOLETE) |
 | Trickster — No Way Out | 12 s/token, ~60 s | 12 s + 6/9/12 s par jeton [2] | IMPRÉCIS |
 | Knight — historique | 38 m depuis 9.1.0 ; rien sur 10.1.1 | 9.1.0 buff et 10.1.1 « gardes et palettes » confirmés, contenu non lu [2] | IMPRÉCIS (omission 10.1.1) |
