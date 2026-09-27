@@ -22,7 +22,7 @@ Règle : seules les affirmations **tranchées par une source** figurent ici. Un 
 | D-063 | Casse de palette ≈ 2,6 s | **2,34 s** depuis 6.1.0 | notes 6.1.0 |
 | A-059 | « Le vault annule l'élan » | Faux pour le **fast vault** (0,5 s), qui garde l'élan | wiki.gg Windows |
 | A-054 | 10 m d'avance ≈ 17 s / 25 s | ≈ 16,3 s / 21,7 s avec Bloodlust, sans fente | calcul |
-| A-186 | « Anti-Exhaustion Syringe » | N'existe pas : **Anti-Haemorrhagic Syringe** | notes 9.3.0 |
+| ~~A-186~~ | « Anti-Exhaustion Syringe » | **ANNULÉ (27/09)** : ce nom existe bien en LIVE (renommage 9.3.0) — voir `AUDIT_PHASE0_ERRATA.md` | notes 9.3.0 |
 | D-006 | 5 % au coup de pied depuis début 2025 | Depuis **7.5.0 (30/01/2024)** | wiki.gg 7.5.X |
 | ch. 09 | « Surge (ex-Jolt) » | **Surge** est le nom d'origine et actuel ; Jolt n'a existé que de 5.3.0 à 7.3.3 | wiki.gg Surge |
 | G11 | Nowhere to Hide 18 m en live | **24 m** (18 m = PTB 10.1.0) | notes 10.1.0 |

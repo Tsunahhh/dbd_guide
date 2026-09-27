@@ -113,7 +113,7 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
 - **Quand elle n'en produit pas** :
   - Tueur qui ne tunnel pas ; ou gens tous faits.
 - **Tracking** : la suppression des scratch marks (depuis 9.2.0) rend aussi la perk forte contre le pistage visuel, pas seulement contre les auras (HEURISTIC).
-- **Écart avec le seed** : durée OK ; Endurance OK (9.2.2 [41], maintenue en 9.3.0 [42] : CONFLICT-R2-02 du lot 1 **clos**) ; IMPRÉCIS : le seed omet la suppression des scratch marks ; « tant que des générateurs restent à réparer » concorde avec la page wiki mais contredit la note 9.2.0 (CONFLICT-L2P23-04).
+- **Écart avec le seed** : durée OK ; Endurance OK (9.2.2 [41], maintenue en 9.3.0 [42] : CONFLICT-R2-02 du lot 1 **clos**) ; IMPRÉCIS : le seed omet la suppression des scratch marks, et son historique (p. 32) place le passage à 30/35/40 s en 9.2.0 alors qu'il date du correctif 9.2.2 [41] ; « tant que des générateurs restent à réparer » concorde avec la page wiki mais contredit la note 9.2.0 (CONFLICT-L2P23-04).
 - **Sources** : [15][23][40][41][42]
 
 ### Five Moves Ahead — Kwon Tae-young

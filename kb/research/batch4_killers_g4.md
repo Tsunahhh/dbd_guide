@@ -329,34 +329,41 @@
 
 ## 30. The Knight (Tarhos Kovács) — archétype(s) : anti-loop (gardes) | zone (patrouilles)
 
-- **Version** : **buff 9.1.0** (29/07/2025, audit [2]) ; **changement 10.1.1** (01/09/2026) « Knight (gardes et palettes) » — audit [2], STRONG_SECONDARY, contenu non détaillé. Statut LIVE. Le seed ne mentionne pas 10.1.1.
-- **Données LIVE** (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN ; peuvent être modifiées par 10.1.1) :
-  - 4,6 m/s (115 %), TR 32 m, taille moyenne.
-  - Patrouille tracée jusqu'à 38 m (depuis 9.1.0 selon seed), 3 gardes à cooldown séparé.
-  - Carnifex : ordres rapides, cooldown 20 s ; Assassin : chasse la plus rapide (4,4 m/s), Deep Wound, cooldown 30 s ; Jailer : détection 16 m, chasses/patrouilles 24 s.
-  - Fin de chasse du garde : toucher la bannière (Haste 50 % + Endurance 3 s selon seed), décrocher quelqu'un, ou tenir jusqu'à la fin.
-  - Garde qui patrouille près d'une palette/mur/gen : casse ou endommage — casse de palette par gardes listée dans [2] (STRONG_SECONDARY).
-- **Identification** : trace fantomatique du tracé de patrouille, orbe, bannière sur la map, garde visible — seed / HEURISTIC.
-- **Ce qu'il cherche en chase** : « sandwich » garde + Knight de part et d'autre d'une tile ; patrouille à travers une palette pour la casser — seed / HEURISTIC.
+- **Version** : **buff 9.1.0** : tracé de patrouille max 32 → **38 m**, tracé plus rapide (13,8 → 15 m/s, accélération ×2, strafe 100 %) ; Call to Arms ramené à +4 m / +7 % ; les changements de temps d'apparition des étendards prévus au PTB ont été **annulés** — VERIFIED_MULTI_SOURCE ([10] + note 9.1.0 [13]). **Changement 10.1.1** : une palette baissée pendant qu'un garde te chasse l'oblige à la **contourner** ; si ce détour dépasse **48 m**, le garde **abandonne la chasse** ; une palette baissée **sur** le garde (à < 3 m de lui) → il passe à travers — VERIFIED_MULTI_SOURCE ([10] + note 10.1.1 [22]). Rien au PTB 10.2.0 pour son pouvoir [23]. Statut LIVE.
+- **Données LIVE** (STRONG_SECONDARY [10] sauf mention) :
+  - 4,6 m/s (115 %), TR 32 m, taille moyenne (Average), pas de berceuse.
+  - Tracé de patrouille (Guard Summon Mode) : 15 m/s, **38 m max** [13] (la description de la page dit encore 32 m, les données 38 m), 10 s max ; orbe visible des survivants qui rétrécit et disparaît après 10 m ; pendant le tracé il ne voit ni les survivants ni leurs traces, mais voit leurs interactions. Un tracé ≥ 10 m donne un garde qui patrouille jusqu'à détecter quelqu'un ; tracé long = Haste 5 % pour lui (2-10 s), chasse ×1,25-1,5 plus longue, étendard ×1,5-2 plus lent à apparaître.
+  - Ordre de garde (Guard Order) : à ≤ 6 m d'un mur cassable, d'une palette baissée ou d'un gen entamé → le garde casse / endommage (gen −5 %) ; **durée 1,8 s (Carnifex) ou 5 s (Assassin, Jailer)** — ce n'est pas une casse instantanée.
+  - Détection : survivant dans le rayon de vision du garde (180°) et dans sa LOS, **ou** qui déclenche une Loud Noise Notification → le garde traverse le décor jusqu'à la position détectée en 2,5 s, y plante un **étendard**, puis chasse ; il blesse tout survivant à portée, chassé ou non.
+  - Gardes : **Carnifex** patrouille 3,4 m/s, vision 10 m, casse 1,8 s, chasse 4,1 m/s pendant 12 s, étendard 5 s, cooldown 20 s ; **Assassin** patrouille 3,4 m/s, vision 10 m, chasse **4,4 m/s** pendant 12 s, **Deep Wound**, cooldown 30 s ; **Jailer** patrouille **4,1 m/s pendant 24 s**, vision **16 m**, chasse 4,1 m/s pendant **24 s**, étendard 10 s, cooldown 25 s.
+  - Fin de chasse sans dégât : toucher l'étendard matérialisé (**Haste 50 % + Endurance 3 s**), **décrocher un autre survivant**, ou tenir jusqu'à la fin du minuteur ; si le Knight est à ≤ 8 m de son garde, le minuteur baisse **3× plus vite** ; si le garde ou le Knight blesse le chassé, la chasse s'arrête ; si le garde met à terre, Killer Instinct 3 s. Les gardes sont ralentis à 2,2 m/s pendant 1 s aux palettes et vaults ; ils sortent un survivant d'un casier en 3 s.
+- **Identification** : orbe de tracé (disparaît après 10 m), garde visible, étendard sur la map — FACT [10] / HEURISTIC.
+- **Ce qu'il cherche en chase** : « sandwich » garde + Knight de part et d'autre d'une tile ; ordre de garde sur une palette baissée ou un gen — HEURISTIC fondé sur FACT [10]. (Le seed disait « patrouille à travers une palette pour la casser » : **faux**, la casse passe par un ordre de garde [10].)
 - **Tiles / structures** :
   - Favorables : quitter une tile où un garde arrive et aller vers une tile neuve ; bâtiments à plusieurs sorties — HEURISTIC.
-  - Défavorables : tiles à une seule palette « verrouillées » par une patrouille ; culs-de-sac — HEURISTIC.
-- **Mindgames propres** : tracé de patrouille qui coupe la sortie « évidente » ; choix du garde selon la situation (Jailer pour les gens) — HEURISTIC.
+  - Défavorables : tiles à une seule palette qu'un ordre de garde peut casser ; culs-de-sac — HEURISTIC.
+  - **Palettes contre un garde qui chasse (10.1.1)** : baisser la palette **quand le garde est encore à ≥ 3 m** l'oblige à la contourner ; sur une tile dont le contournement dépasse 48 m, **la chasse s'arrête** [22] ; baissée sur lui (< 3 m), il passe à travers [10] → baisser **tôt**, pas au contact — SITUATIONAL. Limite : le Knight lui-même casse la palette normalement ; la plupart des tiles se contournent en bien moins de 48 m (HYPOTHESIS : effet surtout sur longs murs / bâtiments).
+- **Mindgames propres** : tracé de patrouille qui coupe la sortie « évidente » ; choix du garde selon la situation (Jailer pour les gens : 16 m, 24 s) — HEURISTIC.
 - **Counterplay** :
-  - Mécanique : pendant une chasse de garde, se diriger tôt vers la bannière (seed) avant que le Knight n'arrive — HEURISTIC.
-  - Positionnel : ne pas jouer une boucle où garde et Knight se font face ; changer de tile — seed / HEURISTIC.
-  - Macro : sortir de la zone de détection d'une patrouille plutôt que continuer la réparation ; Assassin → soigner le Deep Wound rapidement (seed) — SITUATIONAL.
-  - Équipe : « un unhook met fin à la chasse de garde » est une mécanique **[SEED] UNCERTAIN** (non vérifiée, possiblement modifiée par 10.1.1) → ne pas planifier un sauvetage sur cette base ; au mieux un bonus si elle se confirme.
-- **Habitudes punissables / erreurs classiques** (HEURISTIC) : rester sur une tile pendant qu'un garde arrive ; oublier la bannière ; paniquer vers une zone morte.
-- **Adaptations avancées / échecs** (HEURISTIC) : le changement 10.1.1 sur « gardes et palettes » peut invalider les conseils de palette ci-dessus → à re-vérifier avant intégration.
-- **Add-ons qui changent la décision** (seed, NON RE-VÉRIFIÉ, UNCERTAIN) :
-  - Iridescent Company Banner (fenêtres cassables selon seed) → ne pas compter sur un vault de fenêtre répété.
-  - Town Watch's Torch (Undetectable pendant les chasses) → pendant une chasse de garde, s'attendre au Knight sans TR.
-  - Map of the Realm / Sharpened Mount : effets non décrits dans le seed → NON VÉRIFIABLE.
+  - Mécanique : pendant une chasse de garde, se diriger tôt vers l'étendard (Haste 50 % + Endurance 3 s [10]) avant que le Knight n'arrive — HEURISTIC fondé sur FACT. S'il reste à ≤ 8 m de son garde, la chasse se vide 3× plus vite [10] → tenir le temps devient réaliste.
+  - Positionnel : ne pas jouer une boucle où garde et Knight se font face ; changer de tile ; baisser une palette tôt contre le garde (voir 10.1.1) — HEURISTIC.
+  - Détection : ne pas déclencher de Loud Noise (skill check raté, actions précipitées) près d'un garde en patrouille ; rester hors de sa LOS (vision 180°, 10 m / 16 m Jailer [10]) — HEURISTIC fondé sur FACT.
+  - Macro : sortir de la zone de détection d'une patrouille plutôt que continuer la réparation ; Assassin → soigner le Deep Wound rapidement — SITUATIONAL. Un ordre de garde sur un gen = −5 % [10].
+  - Équipe : **un unhook met fin à la chasse de garde du survivant qui décroche** (FACT [10]) → si tu es chassé par un garde près d'un crochet, le décrochage te libère aussi — SITUATIONAL (le Knight reste une menace).
+- **Habitudes punissables / erreurs classiques** (HEURISTIC) : rester sur une tile pendant qu'un garde arrive ; oublier l'étendard ; paniquer vers une zone morte ; baisser la palette au contact du garde (il la traverse [10]).
+- **Adaptations avancées / échecs** (HEURISTIC) : contre Iridescent Company Banner, les fenêtres du tracé et celles que tu vaultes sont bloquées → jouer les palettes et les changements de tile.
+- **Add-ons qui changent la décision** (textes LIVE lus sur [10]) :
+  - Iridescent Company Banner (fenêtres sur le tracé bloquées 25 s après l'invocation ; fenêtres vaultées par le chassé bloquées pour les autres pendant la chasse ; **portes bloquées pour le chassé** pendant la chasse) → le survivant chassé joue les palettes / change de tile au lieu de compter sur des vaults répétés, et ne fonce pas vers les portes pendant une chasse.
+  - Town Watch's Torch (Knight Undetectable pendant une chasse) → pendant une chasse de garde, le survivant s'attend au Knight sans TR au lieu de guetter le TR.
+  - Blacksmith's Hammer (Broken 60 s si blessé par un garde) / Broken Hilt (Haemorrhage + Mangled 70 s) → le survivant évite le coup du garde en priorité (étendard) au lieu d'accepter une blessure « simple ».
+  - Grim Iron Mask (Blindness 75 s si détecté en patrouille) / Ironworker's Tongs (Oblivious 60 s si le garde rate sa chasse) → le survivant surveille visuellement au lieu de se fier aux auras / au TR.
+  - Map of the Realm (+2 m de vision en patrouille) → le survivant garde 2 m de marge supplémentaire.
+  - Sharpened Mount (étendards +15 % plus longs à apparaître) → le survivant part vers l'étendard un peu plus tard au lieu de courir dessus avant qu'il soit matérialisé.
+  - Dried Horsemeat (chasse +4 s) / Tattered Tabard (patrouille +8 s) → le survivant compte des durées plus longues avant la fin naturelle.
 - **Implications de carte** : maps ouvertes = patrouilles longues efficaces ; maps intérieures = tracés gênés — HEURISTIC.
-- **Perks fréquentes / synergies** : Hex: Face the Darkness, Hubris, Nowhere to Hide (ses perks) ; Pain Resonance, Grim Embrace, Pop, Lethal Pursuer (seed). **Nowhere to Hide LIVE = 24 m autour du gen endommagé, 3/4/5 s** (notes 10.1.0 via audit [2], STRONG_SECONDARY).
-- **Écart avec le seed** : **FAUX** — Nowhere to Hide « 18 m (nerf 10.1.0) » : 18 m = valeur PTB 10.1.0, **LIVE = 24 m** ([2]) ; conseil « Nowhere to Hide est moins bon depuis le passage à 18 m » donc infondé. **IMPRÉCIS** — absence du changement 10.1.1 sur les gardes/palettes.
-- **Sources** : [1], [2].
+- **Perks fréquentes / synergies** : Hex: Face the Darkness, Hubris, Nowhere to Hide (ses perks) ; Pain Resonance, Grim Embrace, Pop, Lethal Pursuer (seed, UNCERTAIN pour l'usage). **Nowhere to Hide LIVE = auras des survivants à ≤ 24 m du gen endommagé, 3/4/5 s** — VERIFIED_MULTI_SOURCE ([10] + note 10.1.0 [21]).
+- **Écart avec le seed** : **FAUX** — Nowhere to Hide « 18 m (nerf 10.1.0) » : 18 m = valeur PTB 10.1.0, **LIVE = 24 m** ([10][21]) ; conseil « moins bon depuis le passage à 18 m » infondé. **FAUX** — « Iridescent Company Banner : fenêtres cassables » (elle **bloque** des fenêtres et les portes pour le chassé [10]). **FAUX** — « garde qui patrouille près d'une palette : casse » (casse = ordre de garde de 1,8 / 5 s [10]). **OK** — 38 m depuis 9.1.0, Carnifex 20 s, Assassin 4,4 m/s + Deep Wound + 30 s, Jailer 16 m / 24 s, étendard Haste 50 % + Endurance 3 s, unhook qui termine la chasse. **IMPRÉCIS** — absence du changement 10.1.1 (palettes contre les gardes).
+- **Sources** : [1], [2], [10], [13], [21], [22], [23].
 
 ---
 

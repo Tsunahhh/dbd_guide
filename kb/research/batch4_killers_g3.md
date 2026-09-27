@@ -239,30 +239,62 @@
 - **Sources** : [8], [11], [13], [15], [20], [21], [26], [3], [1], [2].
 
 ## 21. The Blight (Talbot Grimes) — archétype(s) : mobilité | anti-loop
-- **Version** : nerf 9.6.0 (28/04/2026) : 4,6 → 4,4 m/s ; casser une palette au sol ramène les tokens de Rush à 2 sous le max et remet la recharge à 0 % [1] — VERIFIED_PRIMARY (via audit). Statut LIVE.
-- **Données LIVE** :
-  - Vitesse 4,4 m/s — LIVE, VERIFIED [1]. TR : 40 m (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN) vs 32 m (connaissance du modèle (antérieure à mi-2026), UNCERTAIN) — CONFLICT-B4G3-01. Taille moyenne — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN.
-  - Blighted Corruption : 5 tokens (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN) ; Rush (pas d'attaque) → Slam sur obstacle → Lethal Rush (attaque) — FACT de principe. Vitesse du Rush 9,2 m/s, recharge 2 s/token, fatigue 2,5 s — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN.
-  - Lethal Rush casse les palettes instantanément (audit, STRONG_SECONDARY, liste à reconfirmer) ; depuis 9.6.0, **casser une palette au sol** ramène ses tokens à « 2 sous le max » et remet la recharge à 0 % (FACT [AUDIT], VERIFIED_PRIMARY). Lecture précise (calcul P14) : le coût réel dépend de son stock — **2 tokens s'il était au max, 1 s'il était à max − 1, 0 token (seulement la recharge perdue) s'il était déjà à max − 2 ou moins** (interprétation de « ramène à », HYPOTHESIS) ; les notes, telles que l'audit les résume, ne distinguent pas la casse en Lethal Rush de la casse au pied.
-- **Identification** : vitesse 4,4 ; sons de Rush/Slam très reconnaissables ; déplacement en rebonds sur les murs — HEURISTIC. Stratégie : pression de map (tournées de gens rapides), chases courtes, souvent build régression — HEURISTIC.
-- **Ce qu'il cherche en chase** : un Lethal Rush en ligne droite ou via un bump sur l'obstacle de la tile — HEURISTIC.
+- **Version** :
+  - Nerf 9.6.0 [17] : vitesse **4,6 → 4,4 m/s** ; casser une palette baissée (casse au pied **et** casse par le pouvoir) « reduces Rush tokens down to 2 below maximum and resets current Rush token recharge to 0% ». VERIFIED_MULTI_SOURCE [9][17].
+  - 9.6.2 [19] : « Fixed an issue where The Blight did not lose Tokens when breaking a pallet with 3 or less Tokens ». VERIFIED_PRIMARY.
+  - 9.5.0 [16] : pouvoir classé « Special-break ».
+  - 10.1.0 [20] : correctifs (Lethal Rush qui ne touchait pas un survivant collé au tueur ; déplacements latéraux bloqués après le 2e Rush).
+  - PTB 10.2.0 : aucun changement de pouvoir. Hex: Blood Favour est modifiée au PTB (la page wiki affiche cette version) : non LIVE. Statut LIVE.
+- **Données LIVE** (page wiki [9], STRONG_SECONDARY sauf mention) :
+  - Vitesse **4,4 m/s** (VERIFIED_MULTI_SOURCE). **TR 40 m** : passé de 32 à 40 m au 8.6.0 (nerf) d'après le change log wiki ; pas de note 8.6.0 en local. CONFLICT-B4G3-01 **RÉSOLU** : le seed avait raison. Taille moyenne ; pas de berceuse.
+  - Blighted Corruption : **5 tokens** au départ, 1 token par Rush ou Lethal Rush, recharge **2 s par token**.
+  - Rush : **9,2 m/s**, jusqu'à 3 s, sans attaque possible.
+  - Slam : il percute un obstacle sous un angle d'au moins 45° (en dessous, il glisse le long), ce qui ouvre une **fenêtre de chaîne de 1,25 s**.
+  - Lethal Rush : 9,2 m/s, 3 s, avec attaque. Il casse les palettes baissées et les murs cassables (Special-break, VERIFIED_PRIMARY [16]).
+  - **Fatigue 2,5 s** : à la fin de la fenêtre de chaîne, du dernier Lethal Rush, ou après un Slam raté.
+  - Cooldown de l'attaque en Lethal Rush : 3 s si elle touche ; 2,5 s si elle rate, est bloquée, ou casse une palette ou un mur.
+  - Virage en Rush : la page donne des valeurs faibles (0,9 °/s) mais précise que d'autres variables inconnues rendent le virage réel plus grand : UNCERTAIN.
+- **Coût d'une casse de palette (tranche 9.6.0)** :
+  - Note officielle 9.6.0 : tokens ramenés à « 2 sous le max » et recharge en cours remise à 0 %, que la casse soit au pied ou en Lethal Rush (VERIFIED_PRIMARY [17]).
+  - Page wiki : la casse, au pied comme en Lethal Rush, « sets Blighted Corruption to 3 Power Tokens » (5 − 2 avec le kit de base) [9].
+  - Note officielle 9.6.2 : correction d'un bug où il **ne perdait aucun token** en cassant avec **3 tokens ou moins** [19]. Le comportement voulu en LIVE inclut donc une perte **même à 3 tokens ou moins** ; la quantité exacte n'est pas indiquée.
+  - Conséquences :
+    - À 5 tokens, une casse coûte **2 tokens + la recharge en cours** : FACT.
+    - À 4 tokens, elle coûte au moins 1 token + la recharge.
+    - À 3 tokens ou moins, elle coûte **aussi des tokens** d'après la note 9.6.2 (quantité UNCERTAIN).
+    - L'hypothèse P14 « 0 token s'il est déjà à max − 2 ou moins » est **contredite** par la note 9.6.2 (CONFLICT-B4G3-04).
+  - Avec add-ons (calcul sur le texte officiel « 2 sous le max ») : Adrenaline Vial (max 7) → il retombe à 5 ; Iridescent Blight Tag (max 3) → il retombe à 1.
+- **Identification** : vitesse 4,4 ; **TR 40 m**, soit une alerte plus précoce que pour un tueur à 32 m, mais il couvre la distance à 9,2 m/s ; sons de Rush et de Slam très reconnaissables ; déplacement en rebonds sur les murs — FACT [9] + HEURISTIC. Stratégie : pression de map (tournées de gens rapides), chases courtes, souvent build de régression — HEURISTIC.
+- **Ce qu'il cherche en chase** : un Lethal Rush en ligne droite, ou via un Slam sur l'obstacle de la tile — HEURISTIC.
 - **Tiles / structures** :
-  - Favorables : tiles serrées aux murs hauts qui empêchent un bump propre ; zones à nombreux petits obstacles irréguliers — HEURISTIC (SITUATIONAL : un Blight expert « hug » ces tiles).
-  - Défavorables : open areas et longues lignes, fillers bas espacés — HEURISTIC.
-  - Palettes : depuis 9.6.0, le forcer à casser une palette lui coûte jusqu'à 2 tokens (selon son stock, voir ci-dessus) + la recharge → pré-drop **le plus souvent** plus rentable qu'avant — HEURISTIC fondé sur un FACT [1]. Limites (§26 P14, cohérent avec le handbook fiche 21) : il peut **ne pas casser** et contourner la palette, qui devient un simple mur ; chaque pré-drop consomme une palette de la carte ; quand il a déjà peu de tokens (juste après plusieurs Rushes, en fatigue), la casse ne lui coûte presque rien et un drop normal suffit ; contre un Blight qui ralentit avant la palette pour obtenir le pré-drop, mélanger avec des départs anticipés sans drop.
-- **Mindgames propres** : faux Rush / rush court puis M1 ; bump tardif pour contourner la tile — HEURISTIC.
+  - Favorables : tiles serrées aux murs hauts qui empêchent un Slam propre ; zones à nombreux petits obstacles irréguliers (un angle d'impact inférieur à 45° le fait glisser au lieu de rebondir, FACT [9]) — HEURISTIC (SITUATIONAL : un Blight expert « hug » ces tiles).
+  - Défavorables : zones ouvertes et longues lignes, fillers bas espacés — HEURISTIC.
+  - Palettes : depuis 9.6.0, le forcer à casser une palette lui coûte 2 tokens et la recharge s'il est au max, et encore des tokens à bas stock depuis 9.6.2 (voir ci-dessus). Le pré-drop est donc **le plus souvent** plus rentable qu'avant — HEURISTIC fondé sur des FACT [17][19]. Limites (§26 P14, cohérent avec le handbook fiche 21) :
+    - Il peut **ne pas casser** et contourner la palette, qui devient un simple mur.
+    - Chaque pré-drop consomme une palette de la carte.
+    - Quand il a déjà peu de tokens (juste après plusieurs Rushes, en fatigue), il ne peut de toute façon pas enchaîner : un drop normal suffit souvent.
+    - Contre un Blight qui ralentit avant la palette pour obtenir le pré-drop, mélanger avec des départs anticipés sans drop.
+- **Mindgames propres** : faux Rush ou Rush court puis M1 ; Slam tardif pour contourner la tile — HEURISTIC.
 - **Counterplay** :
-  - Mécanique : tourner au dernier moment face au Lethal Rush (virage limité) ; après un Rush raté, repartir à l'opposé pendant sa fatigue — HEURISTIC (durée UNCERTAIN).
+  - Mécanique : tourner au dernier moment face au Lethal Rush (virage limité en Rush, valeur exacte UNCERTAIN). Après un Rush raté ou la fin d'une chaîne, repartir à l'opposé pendant ses **2,5 s de fatigue** (FACT [9]).
   - Positionnel : rester près des obstacles hauts ; éviter de traverser l'open quand il a des tokens — HEURISTIC.
   - Macro : sa mobilité rend les gens éloignés moins sûrs ; ne pas laisser un 3-gen compact — HEURISTIC.
-  - Équipe : compter ses Rushes (sons) pour estimer s'il est à court de tokens — HEURISTIC ; estimation grossière seulement : le nombre de tokens (5) et la recharge (2 s/token) viennent du seed, non vérifiés, et un add-on peut les changer.
-- **Habitudes punissables** : ligne droite en open ; attendre derrière une palette debout « pour le mindgame ». **Erreur classique** : appliquer le counterplay pré-9.6.0 (éviter **tout** pré-drop) alors que la casse lui coûte désormais des tokens — HEURISTIC. Erreur inverse (P14) : pré-drop **systématique**, même quand il n'a presque plus de tokens ou qu'il contourne.
-- **Adaptations avancées** : contre un Blight « hug tech », les tiles serrées perdent leur valeur → privilégier palettes + distance ; surveiller ses tokens avant de quitter une tile — HEURISTIC.
-- **Add-ons qui changent la décision** : NON VÉRIFIABLE. Seed : Compound Thirty-Three, Adrenaline Vial (+tokens), Blighted Rat / Blighted Crow, Iridescent Blight Tag. Règle : plus de tokens → ne plus compter sur l'épuisement de ses Rushes ; add-on de Rush en ligne droite rapide → rester encore plus proche des obstacles — HEURISTIC.
-- **Implications de carte** : cartes à nombreux obstacles bumpables le favorisent ; open maps très plates lui donnent de la vitesse mais peu de bumps — SITUATIONAL.
-- **Perks fréquentes / synergies** : seed : Pain Resonance, Pop, Eruption, Corrupt Intervention — NON VÉRIFIABLE.
-- **Écart avec le seed** : nerf 9.6.0 OK ; TR 40 m NON VÉRIFIABLE (connaissance du modèle : 32 m, UNCERTAIN) ; « fatigué 2,5 s après chaque Rush » NON VÉRIFIABLE ; « Sprint Burst 2 s désormais » hors périmètre, NON VÉRIFIABLE.
-- **Sources** : [1], [2].
+  - Équipe : compter ses Rushes (sons) pour estimer son stock de tokens : 5 au départ, 2 s de recharge par token (FACT [9], modifiables par add-on) — HEURISTIC.
+- **Habitudes punissables** : ligne droite en open ; attendre derrière une palette debout « pour le mindgame ». **Erreur classique** : appliquer le counterplay d'avant 9.6.0 (éviter **tout** pré-drop) alors que la casse lui coûte désormais des tokens — HEURISTIC. Erreur inverse (P14) : pré-drop **systématique**, même quand il contourne ou qu'il n'a plus de tokens pour enchaîner.
+- **Adaptations avancées** : contre un Blight « hug tech », les tiles serrées perdent leur valeur : privilégier palettes et distance ; surveiller ses tokens avant de quitter une tile — HEURISTIC.
+- **Add-ons qui changent la décision** (noms et effets LIVE lus sur [9]) :
+  - Adrenaline Vial (+2 tokens, soit 7 ; Rush +5 %) → ne plus compter sur l'épuisement de ses Rushes : compter jusqu'à 7, pas 5.
+  - Iridescent Blight Tag (max 3 tokens ; Rush +10 %) → Rushes plus rares mais plus rapides : après 3 Rushes, profiter du creux au lieu de rester sur la défensive.
+  - Compound Thirty-Three (virage et durée de Rush +11 %), Umbra Salts (virage +15 %) ou Plague Bile (+10 %) → il tourne plus serré : moins de dodges tardifs, rester collé aux obstacles hauts.
+  - Alchemist's Ring (durée de Rush +20 % par Lethal Rush consécutif), Blighted Crow (+3 % de vitesse par Lethal Rush consécutif) ou Blighted Rat (+2 %) → ses chaînes s'allongent : ne pas quitter la tile au milieu d'une chaîne.
+  - Vigo's Journal (Undetectable pendant les Rushes) → pas de TR pendant qu'il fonce : écouter les Slams au lieu du TR.
+  - Compound Twenty-One (auras des survivants à 8 m ou moins d'un Slam, 3,5 s) ou Compound Seven (il se tourne automatiquement vers le survivant le plus proche à 16 m ou moins après un Slam) → se cacher près de son point de Slam ne marche pas : s'éloigner.
+  - Rose Tonic (fenêtre de chaîne +1 s) ou Pustula Dust (+0,75 s) → il peut attendre avant de relancer : ne pas partir dès le Slam, attendre qu'il s'engage.
+  - Canker Thorn (fatigue −0,5 s) ou Foxglove (−0,25 s) → fenêtre de fatigue plus courte (2 s au lieu de 2,5 s) : se repositionner plus vite.
+- **Implications de carte** : cartes à nombreux obstacles bumpables le favorisent ; cartes ouvertes très plates lui donnent de la vitesse mais peu de Slams — SITUATIONAL.
+- **Perks fréquentes / synergies** : seed : Pain Resonance, Pop, Eruption, Corrupt Intervention — fréquence NON VÉRIFIABLE ; ses perks : Dragon's Grip, Hex: Blood Favour (PTB 10.2.0 sur la page), Hex: Undying [9].
+- **Écart avec le seed** : nerf 9.6.0 **OK** ; **TR 40 m OK** (STRONG_SECONDARY, 8.6.0 ; la « connaissance du modèle » à 32 m était **fausse**) ; fatigue 2,5 s après chaque Rush **OK** ; Rush 9,2 m/s OK ; 5 tokens et 2 s par token OK ; taille moyenne OK ; « Sprint Burst 2 s désormais » hors périmètre, NON VÉRIFIABLE.
+- **Sources** : [9], [16], [17], [19], [20], [23], [1], [2].
 
 ## 22. The Twins (Charlotte & Victor Deshayes) — archétype(s) : slug | anti-loop | zone
 - **Version** : 9.0.0 (17/06/2025) : Victor peut déclencher des chases [1] — VERIFIED via audit. Pas de rework en 9.x ; rework 2024 largement annulé en PTB (patch exact non vérifié) [1]. Statut LIVE.

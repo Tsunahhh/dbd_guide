@@ -2,7 +2,7 @@
 
 > **Statut : WRITTEN + AUDITED (audits adversariaux §25-26 du 27/09/2026) + RE-VÉRIFIÉ lot 12b (27/09/2026) sur pages wiki complètes et notes officielles BHVR locales**
 
-**Couverture : 7/7 tueurs re-vérifiés sur page wiki complète (27/09/2026), dont __NOFF__ points confirmés par note officielle.**
+**Couverture : 7/7 tueurs re-vérifiés sur page wiki complète (27/09/2026), dont 20 points confirmés par note officielle.**
 
 - Périmètre : Trapper, Wraith, Hillbilly, Nurse, Shape, Hag, Doctor.
 - Référence : LIVE 10.1.2a (17/09/2026). PTB 10.2.0 non LIVE (les pages wiki affichent déjà certaines perks « upcoming Patch 10.2.0 » : non retenues ici). Date de travail : 27/09/2026.
@@ -79,7 +79,7 @@
 
 ## 2. The Wraith (Philip Ojomo) — archétype(s) : furtif | mobilité | M1
 
-- **Version** : pas de changement de pouvoir 9.0.0 → 10.1.2a. 2025-2026 : **"The Serpent" – Soot modifié en 9.5.0** (VERIFIED_PRIMARY [17] : « While Cloaked, uncloak whenever you basic-break Pallets or Breakable Walls, explode or damage Generators ») → le « patch 9.5 » du seed est **OK** ; description du pouvoir réécrite en 10.0.0 (texte seulement, [20b]) ; correctifs (Wraith restant invisible après étourdissement par Last Stand / Head On / Blast Mine, 9.1.1-9.1.2 ; cloche muette avec une tenue, 9.6.0 ; "The Ghost" – Soot qui ne supprimait plus TR/Red Stain, 10.0.2). Dernier changement de pouvoir dans le change log wiki : 6.7.0 (suppression du Lightburn) [6].
+- **Version** : pas de changement de pouvoir 9.0.0 → 10.1.2a. 2025-2026 : **"The Serpent" – Soot modifié en 9.5.0** (VERIFIED_PRIMARY [17] : « While Cloaked, uncloak whenever you basic-break Pallets or Breakable Walls, explode or damage Generators ») → le « patch 9.5 » du seed est **OK** ; description du pouvoir réécrite en 10.0.0 (texte seulement, [21]) ; correctifs (Wraith restant invisible après étourdissement par Last Stand / Head On / Blast Mine, 9.1.1-9.1.2 ; cloche muette avec une tenue, 9.6.0 ; "The Ghost" – Soot qui ne supprimait plus TR/Red Stain, 10.0.2). Dernier changement de pouvoir dans le change log wiki : 6.7.0 (suppression du Lightburn) [6].
 - **Données LIVE** (STRONG_SECONDARY [6]) :
   - Vitesse 4,6 m/s ; **6,0 m/s occulté** ; TR 32 m (supprimé occulté) ; grand (Tall).
   - Occulté : **Undetectable** (pas de TR ni de Red Stain), **totalement invisible au-delà de 20 m**, partiellement visible (scintillement) en dessous, **totalement transparent à l'arrêt** ; ne peut ni attaquer ni interagir avec un survivant (il peut interagir avec les décors : palettes, gens).
@@ -118,7 +118,7 @@
 - **Implications de carte** (HEURISTIC) : fort sur grandes cartes (traversée occultée à 6 m/s) et cartes sombres ; faible sur petites cartes denses en palettes.
 - **Perks fréquentes** : Bamboozle, Pain Resonance, Sloppy Butcher, Pop, NOED (seed/NightLight) [SEED-NRV, fréquences non re-vérifiées]. HEURISTIC : Bamboozle → une fenêtre bloquée après son vault, prévoir la sortie palette.
 - **Écart avec le seed** : OK : 6,0 m/s occulté, invisibilité > 20 m, Surprise Attack 5 s, sursaut 6,9 m/s 1 s (l'hypothèse P14 « confusion fente/sursaut » est **réfutée** : la page donne bien 150 % pendant 1 s), occultation 1,5 s, Soot 9.5.0. **FAUX** : « cloche audible à l'échelle de la carte » (24 m / 40 m). **OBSOLETE** : « la lampe/le pétard interrompt la désoccultation » (Lightburn supprimé en 6.7.0). IMPRÉCIS : « désoccultation ~1,5 s » (c'est 3 s, cloche à 1,5 s).
-- **Sources** : [1] [2] [6] [17] [20b]
+- **Sources** : [1] [2] [6] [17] [21]
 
 ## 3. The Hillbilly (Max Thompson Jr.) — archétype(s) : mobilité | coup unique (instadown)
 
@@ -131,7 +131,7 @@
   - Coup de tronçonneuse = **double dégâts** → met à terre un survivant sain (FACT, [7] ; l'ancien « FACT de principe [MÉM] » est confirmé).
   - Cooldowns : touche un survivant 2,7 s ; heurte un obstacle **2,5 s** ; raté 2,7 s ; casse palette/mur 1 s. Il marche à **1,84 m/s** pendant le cooldown.
   - **Overdrive** : jauge chargée en faisant tourner/sprinter (+1,5 c/s, seuil 20 → ~13 s cumulées) ; se vide (−1 c/s) après **8 s** sans tronçonneuse ; une fois pleine, **20 s** de bonus : sprint 12 m/s, charge +5 %, cooldowns −10 %.
-  - Palettes : sa tronçonneuse **casse une palette baissée en ~1 s** (wiki Pallets [12], STRONG_SECONDARY ; [AUDIT] confirmé) ; **avec LoPro Chains**, le sprint **traverse** palettes et murs cassables en les cassant, sans s'arrêter [7]. Sans LoPro, un sprint qui percute un obstacle s'arrête (cooldown 2,5 s).
+  - Palettes : sa tronçonneuse **casse une palette baissée en ~1 s** (wiki Pallets [12], STRONG_SECONDARY ; [AUDIT] confirmé) ; **avec LoPro Chains**, le sprint **traverse** palettes et murs cassables en les cassant, sans s'arrêter [7]. Sans LoPro, le sprint **s'arrête** sur un obstacle (cooldown 2,5 s) ; la page du Hillbilly ne décrit la casse de palette **que** via LoPro, alors que la page Pallets et les notes 9.5.0 (pouvoir « Special-break ») l'attribuent au pouvoir de base : mécanique exacte de la casse basekit non tranchée (CONFLICT-L4G1-05).
 - **Identification** (HEURISTIC) :
   - Avant reveal : vrombissement de la tronçonneuse audible jusqu'à 60 m, puis sprint très rapide ; tueur qui arrive en quelques secondes depuis l'autre côté de la carte ; TR très large (40 m).
   - Add-ons observables : charge **inaudible hors de son TR** (Apex Muffler) ; il disparaît du TR pendant un sprint long (Filthy Slippers, Undetectable) ; sprint qui traverse les palettes (LoPro Chains) ; tueur lent hors pouvoir (4,4 m/s : Tuned Carburettor) ; coup de tronçonneuse qui ne met pas à terre (Cracked Primer Bulb).
@@ -148,7 +148,7 @@
   - Positionnel : rester près des tiles « hautes », éviter les traversées en open.
   - Macro : ne pas se soigner/réparer en open ; se disperser (il punit les groupes). Après un choc contre un obstacle, il a 2,5 s de cooldown à 1,84 m/s : c'est la fenêtre pour gagner la tile suivante.
   - Équipe : les sauvetages doivent être rapides (instadown → tunnel rapide).
-- **Habitudes punissables et erreurs classiques** (HEURISTIC) : pré-lâcher **au premier son de charge, de loin** (il annule puis casse la palette en ~1 s à la tronçonneuse [12]) ; nuance P14 : quand il est **engagé** dans un sprint vers toi à travers la tile, une palette qui tombe sur sa trajectoire l'arrête (collision = cooldown 2,5 s [7]) **sauf LoPro Chains** — c'est l'engagement, pas le son, qui décide le drop ; courir en ligne droite en open ; croire qu'**être blessé protège** de la tronçonneuse (trompeur : blessé, n'importe quel coup te met à terre ; la tronçonneuse n'apporte rien de plus contre toi, mais son M1 suffit).
+- **Habitudes punissables et erreurs classiques** (HEURISTIC) : pré-lâcher **au premier son de charge, de loin** (il annule puis casse la palette en ~1 s à la tronçonneuse [12]) ; nuance P14 : quand il est **engagé** dans un sprint vers toi à travers la tile, une palette qui tombe sur sa trajectoire **arrête son sprint** (collision : 2,5 s de cooldown, ou 1 s s'il la casse [7], voir CONFLICT-L4G1-05) **sauf LoPro Chains**, qui la traverse — c'est l'engagement, pas le son, qui décide le drop ; courir en ligne droite en open ; croire qu'**être blessé protège** de la tronçonneuse (trompeur : blessé, n'importe quel coup te met à terre ; la tronçonneuse n'apporte rien de plus contre toi, mais son M1 suffit).
 - **Adaptations avancées / échecs** (SITUATIONAL) : contre Apex Muffler, l'alerte sonore disparaît hors de ses 40 m de TR → Spine Chill (PTB 10.2.0 : rework, non LIVE) / caméra ouverte ; sur carte ouverte sans structures hautes, jouer la distance et la dispersion plutôt que la chase.
 - **Add-ons qui changent la décision** (noms et effets LIVE lus sur la page, STRONG_SECONDARY [7]) :
   - Apex Muffler (tronçonneuse **silencieuse pour les survivants hors du TR**) → réparer près d'un obstacle et surveiller le TR (40 m) **au lieu de** compter sur le son à 60 m.
@@ -249,7 +249,7 @@
   - Lock of Hair (peut finir EI plus tôt en gardant 50 % du reste en jauge) → la fin d'EI n'est plus au chrono : rester prudent après un arrêt brutal du TR 32 m.
 - **Implications de carte** (HEURISTIC) : fort sur cartes à nombreux coins/intérieurs (stalk facile) ; Lampkin Lane (Haddonfield) retirée de la rotation en 9.4.0 [AUDIT].
 - **Perks fréquentes** : Bamboozle, Pain Resonance, Corrupt Intervention, Pop ; Keep Them Waiting / See How They Run [SEED-NRV, fréquences non re-vérifiées]. FACT [AUDIT] : Keep Them Waiting 5 %/token (10.1.0) [1] ; ses perks d'origine sont devenues des perks générales en 9.4.0 [16].
-- **Écart avec le seed** : **OK** sur toutes les valeurs de pouvoir : EI 60 s, SS 7,5 m/s, CD 4 s, TR 16/32 m [AUDIT]+[14] ; Stalker 4,2 m/s Undetectable (VERIFIED_PRIMARY [13]) ; stalk 32 m indépendant de la distance, retombée après 20 s ; fente Pursuer +20 % ; SS jusqu'à 1,5 s, insta-down et casse de palettes/murs ; **exécution en EI d'un survivant à 2 crochets, sauf Endurance** ; pas d'Exposed basekit ; effets de Judith's Tombstone, Tombstone Piece, Scratched Mirror, Fragrant Tuft. Imprécis : le seed omet le plafond de 40 s de Judith's Tombstone et le verrouillage en Stalker de Scratched Mirror. Erreur de **cette fiche** corrigée : « kill à la main sur survivant sain (Tombstone ?) » → l'exécution est basekit en EI, Tombstone Piece donne l'Undetectable.
+- **Écart avec le seed** : **OK** sur toutes les valeurs de pouvoir : EI 60 s, SS 7,5 m/s, CD 4 s, TR 16/32 m [AUDIT]+[14] ; Stalker 4,2 m/s Undetectable (VERIFIED_PRIMARY [13]) ; stalk 32 m indépendant de la distance, retombée après 20 s ; fente Pursuer +20 % ; SS jusqu'à 1,5 s, insta-down et casse de palettes/murs ; **exécution en EI d'un survivant à 2 crochets, sauf Endurance** ; pas d'Exposed basekit ; effets de Judith's Tombstone, Tombstone Piece, Scratched Mirror, Fragrant Tuft. Imprécis : le seed omet le plafond de 40 s de Judith's Tombstone et le verrouillage en Stalker de Scratched Mirror. **FAUX / OBSOLETE** (seed, « Comment le jouer » 5) : « Tombstone Piece et Judith's Tombstone donnent la version "kill à la main" » — c'était le comportement d'avant 9.2.0 ; en LIVE l'exécution est basekit en EI et ces add-ons ont été retravaillés (Undetectable 20 s ; renouvellement d'EI) [13]. Erreur de **cette fiche** corrigée : « kill à la main sur survivant sain (Tombstone ?) » → l'exécution est basekit en EI, Tombstone Piece donne l'Undetectable.
 - **Sources** : [1] [2] [9] [12] [13] [14] [15] [16] [17] [22]
 
 ## 6. The Hag (Lisa Sherwood) — archétype(s) : zone/piège | téléportation | info

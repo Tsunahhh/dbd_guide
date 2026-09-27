@@ -375,80 +375,106 @@
 
 | ID | Claim | Source | Patch | Confiance |
 |---|---|---|---|---|
-| P25-C01 | Built to Last : 12/10/8 s, recharges 99/66/33 %, désactivée après 3 usages | [1][2] | LIVE 10.1.2a | STRONG_SECONDARY |
-| P25-C02 | Self-Care : auto-soin 25/30/35 %, efficacité médikit +10/15/20 % | [3] | LIVE | STRONG_SECONDARY (conflit [4]) |
-| P25-C03 | WGLF : relève +100 %, Endurance 6/8/10 s, CD 30 s | [5] | LIVE | STRONG_SECONDARY |
-| P25-C04 | Soul Guard : Endurance 4/6/8 s après soin/relève depuis l'état à terre, CD 30 s ; self-recovery sous Cursed | [6] | LIVE | STRONG_SECONDARY |
-| P25-C05 | Tenacity : rampe 30/40/50 %, rampe + récup, gémissements −75 % ; buff 9.3.0 | [7][8] | LIVE (9.3.0) | VERIFIED_MULTI_SOURCE |
-| P25-C06 | AMN : reset 5/4/3 s ; CD 100/80/60 s | [9] | LIVE ? | STRONG_SECONDARY (reset) / UNCERTAIN (CD) |
-| P25-C07 | Saboteur : auras crochets 56 m autour du ramassage ; sabotage sans toolbox +30 % ; CD 70/65/60 s | [10] | LIVE | STRONG_SECONDARY |
-| P25-C08 | Breakout : 5 m, lutte +25 % (12,8 s), Haste 6/8/10 % ou 5/6/7 % | [11] | LIVE | UNCERTAIN (Haste) |
-| P25-C09 | Boil Over : lutte +60/70/80 %, crochets masqués 16 m, +33 % de la progression actuelle par chute ≥1,25 m | [12] | LIVE | STRONG_SECONDARY |
-| P25-C10 | Flip-Flop : 50 % du taux de récup vers la lutte, max 40/45/50 % | [13] | LIVE | STRONG_SECONDARY |
-| P25-C11 | Power Struggle : 25/20/15 % de lutte, palette → stun ; auras palettes à terre | [14] | LIVE | STRONG_SECONDARY |
-| P25-C12 | Inner Strength : 10/9/8 s casier, blessé ou Deep Wound, pas sous Broken | [15] | LIVE | STRONG_SECONDARY |
-| P25-C13 | Empathic Connection : 25/30/35 % LIVE ; 40/45/50 % PTB | [16][18] | LIVE / PTB 10.2.0 | VERIFIED_PRIMARY (via résumé) |
-| P25-C14 | Alert : aura tueur 3/4/5 s sur Break/Damage | [17] | LIVE | STRONG_SECONDARY |
-| P25-C15 | Self-Preservation : Elusive 20/25/30 s LIVE ; 13/14/15 s PTB | [18] | LIVE / PTB 10.2.0 | VERIFIED_PRIMARY (via résumé) |
-| P25-C16 | Stake Out PTB : Good +150/175/200 %, Great +30 %, check spécial n'active plus d'autres perks | [18][19] | PTB 10.2.0 | VERIFIED_PRIMARY (via résumé) |
-| P25-C17 | Borrowed Time PTB : Deep Wound sous Endurance → soin passif 40/35/30 s | [19] | PTB 10.2.0 | STRONG_SECONDARY |
-| P25-C18 | Conviction 9.3.0 : exige de soigner un autre survivant | [8] | LIVE (9.3.0) | VERIFIED_PRIMARY (via résumé) |
+| P25-C01 | Built to Last : **14/12/10 s** (note 9.1.0, « Changes from PTB »), recharges 99/66/33 %, désactivée après 3 usages | [51][23] | LIVE (9.1.0) | VERIFIED_PRIMARY (durée) / STRONG_SECONDARY (mécanique) ; wiki en conflit (12/10/8 s) |
+| P25-C02 | Self-Care : auto-soin à 25/30/35 % de la vitesse normale | [24] | LIVE | STRONG_SECONDARY |
+| P25-C03 | WGLF : relève +100 %, Endurance 6/8/10 s, CD 30 s | [25] | LIVE (8.3.2) | STRONG_SECONDARY |
+| P25-C04 | Soul Guard : Endurance 4/6/8 s après soin/relève depuis l'état à terre, CD 30 s ; self-recovery sous Cursed | [26] | LIVE | STRONG_SECONDARY |
+| P25-C05 | Tenacity : rampe + récup, Haste 30/40/50 %, gémissements −75 %, aura bloquée à terre | [27][52][53] | LIVE (9.3.0) | VERIFIED_MULTI_SOURCE |
+| P25-C06 | AMN : relève 5/4/3 s (buff 9.1.0) ; aucun cooldown | [28][51] | LIVE (9.1.0) | VERIFIED_MULTI_SOURCE |
+| P25-C07 | Saboteur : auras crochets 56 m autour du ramassage ; sabotage sans toolbox +30 % ; CD 70/65/60 s | [29] | LIVE | STRONG_SECONDARY |
+| P25-C08 | Breakout : 5 m, lutte +25 %, Haste 6/8/10 % | [30] | LIVE (8.7.0) | STRONG_SECONDARY |
+| P25-C09 | Boil Over : lutte +60/70/80 %, crochets masqués 16 m, +33 % de la progression actuelle par chute | [31] | LIVE | STRONG_SECONDARY |
+| P25-C10 | Flip-Flop : 50 % du taux de récup vers la lutte, max 40/45/50 % | [32] | LIVE | STRONG_SECONDARY |
+| P25-C11 | Power Struggle : 25/20/15 % de lutte, palette → stun ; auras des palettes debout à terre | [33] | LIVE | STRONG_SECONDARY |
+| P25-C12 | Inner Strength : 10/9/8 s casier après purification, pas sous Broken | [34] | LIVE | STRONG_SECONDARY |
+| P25-C13 | Empathic Connection : 25/30/35 % LIVE, aura carte entière ; 40/45/50 % PTB | [35][50][57] | LIVE / PTB 10.2.0 | VERIFIED_MULTI_SOURCE |
+| P25-C14 | Alert : aura tueur 3/4/5 s sur Break/Damage, sans signal sonore | [36] | LIVE | STRONG_SECONDARY |
+| P25-C15 | Self-Preservation : Elusive 20/25/30 s LIVE ; 13/14/15 s PTB | [42][55][57] | LIVE (9.5.0) / PTB 10.2.0 | VERIFIED_MULTI_SOURCE |
+| P25-C16 | Stake Out PTB : jeton à ≤ 24 m ; skill checks spéciaux +4 % / −4 % ; n'active plus d'autres perks | [57][46] | PTB 10.2.0 (NON LIVE) | VERIFIED_MULTI_SOURCE |
+| P25-C17 | Borrowed Time PTB : Deep Wound sous Endurance → soin passif 40/35/30 s | [57][47] | PTB 10.2.0 (NON LIVE) | VERIFIED_MULTI_SOURCE |
+| P25-C18 | Conviction : exige d'avoir soigné un autre survivant (9.3.0) ; ≥ 25 % ; Broken ; retombe après 20/25/30 s | [41][53] | LIVE (9.3.0) | VERIFIED_MULTI_SOURCE |
+| P25-C19 | Champion of Light : +50 % Haste en éclairant ; Hindered 20 % 6 s ; CD 60/50/40 s | [37][50] | LIVE (9.0.0) | VERIFIED_MULTI_SOURCE |
+| P25-C20 | Counterforce : base 125 %, +25 % par totem, aura 10/12/14 s | [38][50] | LIVE (9.0.0) | VERIFIED_MULTI_SOURCE |
+| P25-C21 | Urban Evasion : accroupi +90/95/100 % | [39] | LIVE | STRONG_SECONDARY |
+| P25-C22 | Cross-Examination : hors poursuite (10.0.3), Light Marks 10 s, Elusive 3/4/5 s | [40] | LIVE | STRONG_SECONDARY |
+| P25-C23 | Wide Open Throttle : 10/12,5/15 % 3 s ; palette bloquée 60 s ; CD 60 s | [43] | LIVE | STRONG_SECONDARY |
+| P25-C24 | Desperate Measures : 16/18/20 % par survivant, max 64/72/80 % | [44][50] | LIVE (9.0.0) | VERIFIED_MULTI_SOURCE |
+| P25-C25 | Dance With Me : 5 s ; CD 25/20/15 s (description : 20/20/15) | [45] | LIVE (8.6.0) | STRONG_SECONDARY (rang I UNCERTAIN) |
+| P25-C26 | Stake Out LIVE : jeton / 15 s, max 2/3/4, good → great +1 % | [46] | LIVE | STRONG_SECONDARY |
+| P25-C27 | Borrowed Time LIVE : +6/8/10 s d'Endurance, +10 s de Haste | [47] | LIVE | STRONG_SECONDARY |
+| P25-C28 | Extrasensory Perception : 4 s, 44 m, Elusive + Oblivious, 11 s, CD 60/50/40 s | [48][54] | LIVE (9.4.0) | VERIFIED_MULTI_SOURCE |
+| P25-C29 | Salvation's Cry : 1/2/3 s ; 5 s pour les alliés hors poursuite | [49][56] | LIVE (10.1.0) | VERIFIED_MULTI_SOURCE |
 
 ## Conflits
 
 #### CONFLICT-P25-01 : Haste de Breakout
-- Source A : résumé wiki.gg/fandom Breakout — « Grants you a 5/6/7 % Haste » (https://deadbydaylight.fandom.com/wiki/Breakout, https://deadbydaylight.wiki.gg/wiki/Breakout)
-- Source B : 2e résumé des mêmes pages — « current version grants 6/8/10 % Haste… updated from an older version that had 5/6/7 % »
-- Hypothèse : le résumé A lit l'ancienne valeur ou l'historique ; B est plus explicite sur « current ». Le seed donne 6/8/10 %.
-- Résolution : UNRESOLVED (penche légèrement vers 6/8/10 %, à vérifier sur la page wiki).
+- Source A : résumé wiki.gg/fandom — 5/6/7 %.
+- Source B : 2e résumé — 6/8/10 % « current ».
+- Résolution : **RÉSOLU (6/8/10 %)** — page wiki complète [30] : « 6 / 8 / 10 % Haste », change log « Patch 8.7.0 : increased the Haste strength from 5 / 6 / 7 % to 6 / 8 / 10 % ».
 
 #### CONFLICT-P25-02 : Vitesse d'auto-soin de Self-Care
-- Source A : résumé wiki.gg (requête site:) — 25/30/35 %, médikit +10/15/20 % (https://deadbydaylight.wiki.gg/wiki/Self-Care)
-- Source B : résumé fandom/nightlight — 30/40/50 %, médikit +50/75/100 %, mais même résumé cite aussi 0,25/0,3/0,35 charge/s
-- Hypothèse : B mélange plusieurs versions historiques (le résumé est auto-contradictoire). A est cohérent et correspond au seed.
-- Résolution : retenu 25/30/35 % (STRONG_SECONDARY) ; efficacité médikit 10/15/20 % à confirmer.
+- Source A : résumé wiki.gg — 25/30/35 %, médikit +10/15/20 %.
+- Source B : résumé fandom/nightlight — 30/40/50 %, médikit +50/75/100 %.
+- Résolution : **RÉSOLU (25/30/35 %)** — page wiki complète [24] ; la description LIVE ne contient **aucun** bonus d'efficacité de médikit (ni 10/15/20 %, ni 50/75/100 %) : les deux bonus proviennent d'anciennes versions.
 
 #### CONFLICT-P25-03 : Cooldown d'Any Means Necessary
-- Source A : résumé wiki.gg/nightlight — CD 100/80/60 s, reset 5/4/3 s (https://deadbydaylight.wiki.gg/wiki/Any_Means_Necessary)
-- Source B : le même résumé avertit que « information from different patch versions » est mélangée ; le seed ne mentionne aucun CD.
-- Hypothèse : le buff 9.1.0 (seed) a pu retirer/raccourcir le CD ; non confirmé.
-- Résolution : UNRESOLVED.
+- Source A : résumé wiki.gg/nightlight — CD 100/80/60 s.
+- Source B : seed — aucun CD.
+- Résolution : **RÉSOLU (pas de cooldown)** — description LIVE complète [28] sans cooldown ; buff 9.1.0 (6/5/4 → 5/4/3 s) confirmé par la note officielle [51].
+
+#### CONFLICT-P25-04 : durée de Built to Last (wiki vs note officielle)
+- Source A : page wiki complète [23] : 12/10/8 s ; change log « Patch 9.1.0 : 14/13/12 → 12/10/8 ».
+- Source B : note officielle 9.1.0 [51] : section principale « Decreased the time spent in a locker to 14/12/10 seconds (was 14/13/12) » ; section « Changes from PTB » : « Increased the time spent in a locker to 14/12/10 seconds (was 12/10/8) ».
+- Hypothèse : le wiki a enregistré la valeur du PTB 9.1.0 et n'a pas intégré la correction de sortie ; aucune note 9.2.0-10.1.2a lue ne modifie Built to Last.
+- Résolution : **RÉSOLU en faveur de la note officielle (14/12/10 s, VERIFIED_PRIMARY)** ; à signaler au wiki. Le verdict « FAUX » porté sur le seed au lot 2 est retiré.
+
+#### CONFLICT-P25-05 : cooldown de Dance With Me (rang I)
+- Source A : description wiki [45] : « 20 / 20 / 15 seconds ».
+- Source B : change log du même wiki [45] : 8.6.0 « 30 / 25 / 20 → 25 / 20 / 15 seconds » ; seed : 25/20/15 s.
+- Hypothèse : coquille dans la description wiki (motif « 25/20/15 » identique à Quick & Quiet et Deception, modifiées au même patch 8.6.0).
+- Résolution : UNRESOLVED (retenir 25/20/15 s, rang I UNCERTAIN).
 
 ## Écarts avec le guide seed
 
 | Élément | Le guide dit | Vérifié | Verdict |
 |---|---|---|---|
-| Built to Last — durée | 14/12/10 s | 12/10/8 s (14/13/12 = ancienne) | FAUX |
-| Built to Last — limite | « 33 % de moins à chaque utilisation » | 99/66/33 %, désactivée après 3 | IMPRÉCIS |
-| Self-Care | 75/70/65 % plus lent | 25/30/35 % (+ médikit 10/15/20 %) | OK (omission médikit : IMPRÉCIS) |
-| WGLF | +100 %, Endurance 6/8/10 s, CD 30 s | idem | OK |
-| Soul Guard | Endurance à chaque relèvement complet | aussi après soin depuis état à terre | IMPRÉCIS |
-| Tenacity | 30/40/50 %, buff 9.3.0 | idem | OK |
-| Any Means Necessary | 5/4/3 s, pas de CD mentionné | CD 100/80/60 s possible | IMPRÉCIS / NON VÉRIFIABLE |
-| AMN buff 9.1.0 | buff | non confirmé | NON VÉRIFIABLE |
-| Saboteur | crochets à 56 m (de vous) ; sabotage 2,3 s | 56 m autour du point de ramassage ; +30 % vitesse sans toolbox | IMPRÉCIS |
-| Breakout | Haste 6/8/10 %, 5 m, +25 % | 5 m, +25 % OK ; Haste en conflit | NON VÉRIFIABLE (Haste) |
-| Boil Over | chute → 33 % de progression | 33 % de la progression **actuelle** | IMPRÉCIS |
-| Flip-Flop | au ramassage, 50 % de la récup devient lutte | charge continue à 50 % du taux, plafonnée | IMPRÉCIS |
-| Power Struggle | 25/20/15 %, palette → stun | idem (+ auras palettes à terre) | OK |
-| Inner Strength | 10/9/8 s blessé | + Deep Wound ; pas sous Broken | IMPRÉCIS (mineur) |
-| Empathic Connection | 25/30/35 % ; PTB 40/45/50 % | idem | OK |
-| Alert | signal sonore + aura 3/4/5 s | aura 3/4/5 s sur Break/Damage ; signal non retrouvé | IMPRÉCIS |
-| Self-Preservation | 20/25/30 s ; PTB 13/14/15 s | idem | OK |
-| Stake Out | pas de mention PTB en p25 | rework PTB 10.2.0 vérifié | IMPRÉCIS (omission PTB) |
-| Borrowed Time | PTB : rework complet | rework vérifié (soin passif Deep Wound 40/35/30 s) | OK (PTB) / LIVE NON VÉRIFIABLE |
-| Conviction | exige de soigner un autre survivant (9.3.0) | idem | OK (valeurs NON VÉRIFIABLES) |
-| Champion of Light, Counterforce, Urban Evasion, Cross-Examination, Wide Open Throttle, Desperate Measures, Dance With Me, Extrasensory Perception, Salvation's Cry | voir blocs | non recherchées (quota) | NON VÉRIFIABLE |
+| Built to Last — durée | 14/12/10 s | 14/12/10 s (note officielle 9.1.0 [51]) ; le wiki dit 12/10/8 s (valeur PTB) | **OK** (verdict FAUX du lot 2 retiré) |
+| Built to Last — limite | « 33 % de moins à chaque utilisation » | 99/66/33 %, désactivée après 3 [23] | IMPRÉCIS (mineur) |
+| Self-Care | 75/70/65 % plus lent | 25/30/35 % [24] ; pas de bonus médikit en LIVE | OK |
+| WGLF | +100 %, Endurance 6/8/10 s, CD 30 s | idem [25] | OK |
+| Soul Guard | Endurance à chaque relèvement complet | aussi quand un allié vous relève [26] | IMPRÉCIS |
+| Tenacity | 30/40/50 %, rampe + récup, −75 %, buff 9.3.0 | idem + aura bloquée à terre [27][52][53] | OK / IMPRÉCIS (aura omise) |
+| Any Means Necessary | 5/4/3 s, palettes tombées visibles | idem, pas de CD [28] ; buff 9.1.0 confirmé [51] | OK |
+| Saboteur | crochets à 56 m (de vous) ; sabotage 2,3 s | 56 m autour du point de ramassage ; +30 % de vitesse sans toolbox [29] | IMPRÉCIS |
+| Breakout | Haste 6/8/10 %, 5 m, +25 % | idem [30] | OK |
+| Boil Over | chute ≥ 1,25 m → 33 % de progression | 33 % de la progression **actuelle** ; hauteur non précisée [31] | IMPRÉCIS |
+| Flip-Flop | au ramassage, 50 % de la récup devient lutte | charge continue à 50 % du taux, plafonnée [32] | IMPRÉCIS |
+| Power Struggle | 25/20/15 %, palette → stun | idem (+ auras des palettes debout à terre) [33] | OK |
+| Inner Strength | 10/9/8 s blessé, une fois par purification | idem ; pas sous Broken [34] | OK (IMPRÉCIS mineur) |
+| Empathic Connection | 25/30/35 % ; carte entière ; PTB 40/45/50 % | idem [35][50][57] | OK |
+| Alert | signal sonore + aura 3/4/5 s | aura 3/4/5 s sur Break/Damage ; aucun signal [36] | IMPRÉCIS (signal inventé) |
+| Champion of Light | +50 % Haste, Hindered 20 % 6 s, 60/50/40 s | idem [37][50] | OK |
+| Counterforce | +25 %, +25 %/totem, 10/12/14 s | idem [38][50] | OK |
+| Urban Evasion | +90/95/100 % accroupi | idem [39] | OK |
+| Cross-Examination | dans le rayon de terreur, Light Marks 10 s, Elusive 3/4/5 s | idem **hors poursuite** (nerf 10.0.3) [40] | IMPRÉCIS |
+| Conviction | condition 9.3.0, 25 %, Broken, 20/25/30 s | idem [41][53] | OK |
+| Self-Preservation | 20/25/30 s ; PTB 13/14/15 s | idem [42][55][57] | OK |
+| Wide Open Throttle | 10/12,5/15 % 3 s, palette bloquée 60 s, CD 60 s | idem [43] | OK |
+| Desperate Measures | 16/18/20 % par survivant | idem, plafond 64/72/80 % omis [44][50] | OK (IMPRÉCIS mineur) |
+| Dance With Me | sortie rapide de casier ou saut moyen/rapide ; 5 s ; 25/20/15 s | sauts **rapides de fenêtre** et sorties rapides de casier seulement [45] | IMPRÉCIS |
+| Stake Out | LIVE good → great ; pas de mention PTB en p25 | LIVE OK [46] ; rework PTB [57] | IMPRÉCIS (omission PTB) |
+| Borrowed Time | +6/8/10 s Endurance, +10 s Haste ; PTB rework complet | idem [47][57] | OK |
+| Extrasensory Perception | 4 s, 44 m, Elusive + Oblivious, 11 s, 60/50/40 s | idem [48][54] | OK |
+| Salvation's Cry | 1/2/3 s ; 5 s | idem [49][56] | OK |
 
 ## Questions ouvertes
 
-1. Haste de Breakout (6/8/10 vs 5/6/7 %) — lire la page wiki.gg directement.
-2. AMN a-t-il encore un cooldown LIVE (100/80/60 s ?) et quel était le buff 9.1.0 ?
-3. Valeur exacte de Borrowed Time LIVE (prolongation Endurance/Haste, et Elusive ?) après 10.1.0.
-4. Liste complète des 31 perks survivant du PTB 10.2.0 : l'une des perks de cette page autre qu'Empathic Connection / Self-Preservation / Stake Out / Borrowed Time est-elle touchée ?
-5. 9 perks entièrement non vérifiées (quota WebSearch de session épuisé) : Champion of Light, Counterforce, Urban Evasion, Cross-Examination, Wide Open Throttle, Desperate Measures, Dance With Me, Extrasensory Perception, Salvation's Cry.
-6. Quels modificateurs de ces perks (vitesse de soin, Haste, vitesse de lutte) sont soumis aux DR 9.6.0 ? (liste officielle du manuel 9.6.1 non lue).
-7. Alert : l'audio « signal » existe-t-il ou est-ce une invention du seed ?
+1. Built to Last : faire corriger la page wiki (12/10/8 s) ou vérifier en jeu que la valeur LIVE est bien 14/12/10 s (CONFLICT-P25-04).
+2. Dance With Me : cooldown du rang I (25 ou 20 s ; CONFLICT-P25-05).
+3. Boil Over : hauteur minimale de chute (1,25 m selon le seed) — absente de la description wiki.
+4. Saboteur : durée réelle d'un sabotage sans toolbox (« 2,3 s » du seed ?).
+5. Inner Strength : fonctionne-t-elle sous Deep Wound (non précisé par le wiki) ?
+6. Quels modificateurs de ces perks (vitesse de soin, Haste, vitesse de lutte) sont soumis aux DR 9.6.0 ? (liste officielle du manuel non lue).
 
 ## Sources
 
@@ -474,3 +500,38 @@
 [20] Patch Notes 9.1.X — wiki.gg — https://deadbydaylight.wiki.gg/wiki/Patch_9.1.0 — consulté le 27/09/2026 via WebSearch (résumé sans détail AMN)
 [21] Self-Care nerf discussion / 6.1.0 notes — https://www.shacknews.com/article/131473/dead-by-daylight-update-610-patch-notes — consulté le 27/09/2026 via WebSearch (historique seulement)
 [22] Audit interne phase 0 — kb/seed/audit_phase0.txt (tableau patchs 9.3.0-9.5.0, glossaire Elusive) — lecture locale
+[23] Built to Last — deadbydaylight.wiki.gg/wiki/Built_to_Last — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[24] Self-Care — deadbydaylight.wiki.gg/wiki/Self-Care — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[25] We're Gonna Live Forever — deadbydaylight.wiki.gg/wiki/We're_Gonna_Live_Forever — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[26] Soul Guard — deadbydaylight.wiki.gg/wiki/Soul_Guard — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[27] Tenacity — deadbydaylight.wiki.gg/wiki/Tenacity — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[28] Any Means Necessary — deadbydaylight.wiki.gg/wiki/Any_Means_Necessary — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[29] Saboteur — deadbydaylight.wiki.gg/wiki/Saboteur — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[30] Breakout — deadbydaylight.wiki.gg/wiki/Breakout — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[31] Boil Over — deadbydaylight.wiki.gg/wiki/Boil_Over — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[32] Flip-Flop — deadbydaylight.wiki.gg/wiki/Flip-Flop — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[33] Power Struggle — deadbydaylight.wiki.gg/wiki/Power_Struggle — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[34] Inner Strength — deadbydaylight.wiki.gg/wiki/Inner_Strength — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[35] Empathic Connection — deadbydaylight.wiki.gg/wiki/Empathic_Connection — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[36] Alert — deadbydaylight.wiki.gg/wiki/Alert — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[37] Champion of Light — deadbydaylight.wiki.gg/wiki/Champion_of_Light — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[38] Counterforce — deadbydaylight.wiki.gg/wiki/Counterforce — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[39] Urban Evasion — deadbydaylight.wiki.gg/wiki/Urban_Evasion — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[40] Cross-Examination — deadbydaylight.wiki.gg/wiki/Cross-Examination — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[41] Conviction — deadbydaylight.wiki.gg/wiki/Conviction — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[42] Self-Preservation — deadbydaylight.wiki.gg/wiki/Self-Preservation — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[43] Wide Open Throttle — deadbydaylight.wiki.gg/wiki/Wide_Open_Throttle — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[44] Desperate Measures — deadbydaylight.wiki.gg/wiki/Desperate_Measures — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[45] Dance With Me — deadbydaylight.wiki.gg/wiki/Dance_With_Me — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[46] Stake Out — deadbydaylight.wiki.gg/wiki/Stake_Out — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[47] Borrowed Time — deadbydaylight.wiki.gg/wiki/Borrowed_Time — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[48] Extrasensory Perception — deadbydaylight.wiki.gg/wiki/Extrasensory_Perception — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[49] Salvation's Cry — deadbydaylight.wiki.gg/wiki/Salvation's_Cry — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[50] Note officielle BHVR 9.0.0 | Five Nights at Freddy's — https://forums.bhvr.com/dead-by-daylight/kb/articles/510 — lue en local (`kb/sources/patches/official_510.txt`), consultée le 27/09/2026
+[51] Note officielle BHVR 9.1.0 | The Walking Dead — https://forums.bhvr.com/dead-by-daylight/kb/articles/516 — lue en local (`kb/sources/patches/official_516.txt`), consultée le 27/09/2026
+[52] Note officielle BHVR 9.2.0 | Sinister Grace — https://forums.bhvr.com/dead-by-daylight/kb/articles/523 — lue en local (`kb/sources/patches/official_523.txt`), consultée le 27/09/2026
+[53] Note officielle BHVR 9.3.0 | Mid-Chapter — https://forums.bhvr.com/dead-by-daylight/kb/articles/529 — lue en local (`kb/sources/patches/official_529.txt`), consultée le 27/09/2026
+[54] Note officielle BHVR 9.4.0 | Stranger Things Chapter 2 — https://forums.bhvr.com/dead-by-daylight/kb/articles/534 — lue en local (`kb/sources/patches/official_534.txt`), consultée le 27/09/2026
+[55] Note officielle BHVR 9.5.0 | All-Kill: Comeback — https://forums.bhvr.com/dead-by-daylight/kb/articles/538 — lue en local (`kb/sources/patches/official_538.txt`), consultée le 27/09/2026
+[56] Note officielle BHVR 10.1.0 | Chorus of Sin — https://forums.bhvr.com/dead-by-daylight/kb/articles/556 — lue en local (`kb/sources/patches/official_556.txt`), consultée le 27/09/2026
+[57] Note officielle BHVR 10.2.0 PTB Patch Notes (NON LIVE) — https://forums.bhvr.com/dead-by-daylight/kb/articles/559 — lue en local (`kb/sources/patches/official_559.txt`), consultée le 27/09/2026

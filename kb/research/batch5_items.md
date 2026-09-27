@@ -621,3 +621,207 @@ CALC utile : en 16 s de portage, le tueur parcourt **≈ 59 m** (3,68 × 16). To
 - **FAILURE** : clé déjà vidée par les lectures d'aura (gardez **1 charge**) ; ouvrir sous les yeux du tueur (saisie) ; tenter la trappe au sol.
 - **DRILL** : partie personnalisée : le tueur ferme la trappe et garde une porte ; entraînez les trajets porte ↔ trappe sur 3 cartes.
 
+---
+
+## 6. Synthèse : quel objet pour quel plan
+
+Tout ce tableau est **HEURISTIC** (raisonnement à partir des FACT ci-dessus, aucune statistique d'évasion consultée pour ce lot).
+
+| Plan | SoloQ | SWF | Add-ons qui changent la décision |
+|---|---|---|---|
+| Réparer vite | Commodious (+ Socket Swivels / Wire Spool) | Idem, + Brand New Part | Instructions (anti-tests), Brand New Part |
+| Survivre à la chase | Vigo's Fog Vial | Fog Vial ou kit + Anti-Exhaustion Syringe | Reactive Compound, Potent Extract, Syringe |
+| Ne dépendre de personne | Med-Kit (Gel Dressings) | — | Gel Dressings, Syringe |
+| Saves | Rarement rentable | Lampe (visée / largeur) ; Alex's (sabotage) | Rubber Grip, Wide Lens ; Protective Gloves, Grip Wrench |
+| Information | Map (faisceau) ou Key | Key (coffres Rare+ pour l'équipe) | Sharpened Flint, Crimson Stamp ; Blood Amber, Wedding Ring |
+| Fin de partie seul | Dull / Skeleton Key (1 charge gardée) | — | — |
+
+Critique du classement seed (« 1. Toolbox, 2. Med-Kit, 3. Fog Vial, 4. Flashlight, 5. Map, 6. Key ») : ordre **défendable** pour la SoloQ (EXPERT OPINION non sourcée), mais pas une vérité. La valeur dépend du tueur (Overwhelming Presence, Franklin's Demise, Lightborn) et de la composition.
+
+---
+
+## Claims
+
+| ID | Claim | Source | Patch | Confiance |
+|---|---|---|---|---|
+| L5-01 | Toolbox 20 ch +50 % ; Commodious 32 ch +50 % / sabo +50 % ; Mechanic's 16 ch +75 % ; Engineer's 16 ch +100 % ; Worn-Out 16 ch +50 %, zone Good −10 % ; Alex's 18 ch, +10 % / sabo +100 % | [1][2] | LIVE | STRONG_SECONDARY (Alex's : CONFLICT-L5-02) |
+| L5-02 | Chance de test en réparant avec toolbox 40 %/s (8 % sans) ; Great +1 %, raté −10 % | [15] | LIVE | STRONG_SECONDARY |
+| L5-03 | Sabotage 3 s, 6 charges, réparation auto 30 s, bruit fort, sous-sol insabotable | [2][11] | LIVE | STRONG_SECONDARY |
+| L5-04 | Brand New Part : un test difficile, −10 charges au gen ; Visceral | [2][20] | LIVE (7.1.0) | STRONG_SECONDARY |
+| L5-05 | Tous les Med-Kits 24 charges ; altruiste +35/40/45/50 % ; auto-soin −33 % vitesse et efficacité ; 1 état = 16 charges | [1][3] | LIVE (6.7.0) | STRONG_SECONDARY |
+| L5-06 | Add-on « Anti-Exhaustion Syringe » (nom LIVE) : retire Exhausted, consomme le kit | [3][21][O-9.3.0] | 9.3.0 | VERIFIED_MULTI_SOURCE |
+| L5-07 | Styptic Agent : +15 % d'efficacité en auto-soin, plus d'Endurance, plus consommé | [22][O-9.3.0] | 9.3.0 | VERIFIED_MULTI_SOURCE |
+| L5-08 | Lampes : 8 / 8 / 12 s ; Sport visée +20 %, déplétion −11 % ; Utility luminosité +30 %, aveuglement +15 %, visée −20 % | [1][4] | LIVE | STRONG_SECONDARY |
+| L5-09 | Lampe : portée 10 m, 1 s pour aveugler, aveuglement 2 s ; add-ons n'accélèrent plus l'aveuglement (1.8.3) | [4] | LIVE | STRONG_SECONDARY |
+| L5-10 | Tampon 0,4 s en fin de ramassage ; immunité lors d'une saisie au casier (6.4.0) | [4] | LIVE | STRONG_SECONDARY |
+| L5-11 | Lightborn : immunité lampes, pétards, Flash Grenades, aveuglement Blast Mine ; aura 6/8/10 s | [10] | LIVE | STRONG_SECONDARY |
+| L5-12 | Fog Vial : 4 charges ; 2 / 1,5 / 1,2 s ; 8 / 10 / 12 s ; recharge 70 / 65 / 60 s ; rayon 8 m ; opacité 33 % | [6][O-9.1.0][O-9.1.1][O-9.5.0] | 9.5.0 | VERIFIED_MULTI_SOURCE |
+| L5-13 | Fog Vial 9.5.0 : opaque vu de l'extérieur ; auras des survivants au sol / accrochés visibles | [6][O-9.5.0] | 9.5.0 | VERIFIED_MULTI_SOURCE |
+| L5-14 | Singularity peut se téléporter vers un survivant visible dans le nuage | [O-9.1.2] | 9.1.2 | VERIFIED_PRIMARY |
+| L5-15 | Keys : Broken 6 ch / 48 m / 8 s ; Dull 5 ch / 56 m / 9 s ; Skeleton 6 ch / 64 m / 10 s ; coffre Rare+ + fouille d'un allié ; trappe 2,5 s, 1 charge | [5][O-9.1.0] | 9.1.0 | VERIFIED_MULTI_SOURCE |
+| L5-16 | Maps : 4/5/6/8 ch ; 24/32/40/48 m ; 10/12/14/14 s ; faisceau 16 s, gens dans 32 m révélés à tous | [7][O-9.1.0] | 9.1.0 | VERIFIED_MULTI_SOURCE |
+| L5-17 | Add-ons Key / Map / Fog Vial : 5 par objet, 1 par rareté (valeurs du §2) | [5][6][7][O-9.1.0] | 9.1.0 | VERIFIED_MULTI_SOURCE |
+| L5-18 | DR : Powers, Items, Perks, Offerings ; add-ons exclus ; 100/50/25/12,5/5 % | [O-9.6.0] | 9.6.0 | VERIFIED_PRIMARY |
+| L5-19 | Offrandes de royaume : 20 % fixe, doublons non cumulables ; offrandes « gameplay » secrètes | [8][O-9.0.0] | 9.0.0 | VERIFIED_MULTI_SOURCE |
+| L5-20 | Spawn ≤ 12 m par défaut ; Shroud of Separation (survivant) ; Shroud of Vanishing (tueur) | [8][O-9.0.0] | 9.0.0 | VERIFIED_MULTI_SOURCE |
+| L5-21 | Luck : seule façon hors exceptions de tenter l'auto-décrochage ; 4 % de base ; −20 s par échec ; 3 essais | [11][16][O-9.0.0] | 9.0.0 | VERIFIED_MULTI_SOURCE |
+| L5-22 | Coffres : 3 par défaut (1 au sous-sol), 8 s, bruit 20 m, 1 à 13 coffres | [9] | LIVE (8.4.0) | STRONG_SECONDARY |
+| L5-23 | Probabilités de coffre 43/33/16/5/2 % | [9] (Reddit 2019) | HISTORICAL | COMMUNITY_OBSERVATION |
+| L5-24 | Plunderer's LIVE : auras 32/48/64 m, +50 % de rareté | [17] | 8.4.0 | STRONG_SECONDARY |
+| L5-25 | Appraisal LIVE : 4 jetons, 2 fouilles par coffre, +40/60/80 % | [18] | 9.1.0 | STRONG_SECONDARY |
+| L5-26 | Wiggle 16 s ; lâcher +25 % ; ≥ 75 % → libéré au 1er lâcher ; portage 3,68 m/s | [12][11] | LIVE | STRONG_SECONDARY |
+| L5-27 | Pallet stun 2 s ; tueur qui porte : lâche le survivant (blessé) ; pas pendant le ramassage | [13] | LIVE | STRONG_SECONDARY |
+| L5-28 | Protection hit : coup pris dans 10 m d'un survivant blessé, ou pendant un portage | [14] | LIVE | STRONG_SECONDARY |
+| L5-29 | Overwhelming Presence : usage d'un objet dans 32 m → Exhausted 15 s | [19][O-9.1.0] | 9.1.0 | VERIFIED_MULTI_SOURCE |
+| L5-30 | Built to Last : 12/10/8 s ; 99/66/33 % ; 3 fois | [23] | 9.1.0 | STRONG_SECONDARY |
+| L5-31 | Head On : 3 s en casier, stun 3 s à ≤ 2,5 m, Exhausted 60/50/40 s | [24] | 9.0.0 | STRONG_SECONDARY |
+| L5-32 | Flashbang : 50/45/40 % de réparation personnelle, réutilisable | [25] | 8.2.0 | STRONG_SECONDARY |
+| L5-33 | Saboteur : crochets dans 56 m, Scourge en jaune, sabotage sans toolbox +30 %, cooldown 70/65/60 s | [26] | 7.1.0 | STRONG_SECONDARY |
+| L5-34 | Trappe : n'apparaît qu'au dernier survivant ; fermée → EGC ; clé impossible au sol ; saisie possible | [27] | LIVE | STRONG_SECONDARY |
+| L5-35 | Gains de toolbox en s-surv (§4.3) | CALC sur L5-01 | — | CALC (hypothèses additives) |
+
+## Conflits
+
+#### CONFLICT-L5-01 : nom de la seringue (Anti-Exhaustion vs Anti-Haemorrhagic)
+- Source A : audit phase 0, A-186 (`kb/ledgers/OUTDATED_CONTENT_REPORT.md`) : « Anti-Exhaustion Syringe » n'existerait pas, le nom serait Anti-Haemorrhagic Syringe.
+- Source B : notes officielles 9.3.0 LIVE (forums BHVR, article 529) : « Anti-Exhaustion Syringe (renamed Anti-Hemorrhagic Syringe) » ; wiki *Anti-Exhaustion Syringe* : « renamed the Add-on **from** Anti-Haemorrhagic Syringe **to** Anti-Exhaustion Syringe » ; la page wiki Med-Kits liste l'add-on sous ce nom. Les notes du **PTB** 9.3.0 (copie wiki) disaient encore « Anti-Hemorrhagic Syringe ».
+- Hypothèse : l'audit a lu la parenthèse « (renamed Anti-Hemorrhagic Syringe) » comme le nouveau nom, ou s'est fondé sur les notes PTB.
+- Résolution : **nom LIVE = Anti-Exhaustion Syringe** (VERIFIED_MULTI_SOURCE). **A-186 est à retirer** de l'OUTDATED CONTENT REPORT ; le seed avait raison sur le nom.
+
+#### CONFLICT-L5-02 : charges de l'Alex's Toolbox
+- Source A : description de l'objet (pages Items et Toolboxes) : **18 charges**.
+- Source B : tableau « Repair Speeds » de la même page Toolboxes : **24 charges** (21,8 s, 26,7 %).
+- Hypothèse : tableau non mis à jour (ou description non mise à jour).
+- Résolution : **UNRESOLVED**. Retenu : 18 (description en tête d'article, concordante avec le seed). À vérifier en jeu.
+
+#### CONFLICT-L5-03 : charges d'une fouille de coffre (8 vs 10)
+- Source A : page Chests : ouvrir **et** fouiller demandent 8 charges (réduit de 10 à 8 en 8.4.0, pour l'ouverture).
+- Source B : page Appraisal, section Calculations : la fouille demande **10 charges**.
+- Hypothèse : la réduction 8.4.0 ne visait que l'ouverture, ou la page Appraisal n'a pas été mise à jour.
+- Résolution : **UNRESOLVED**.
+
+#### CONFLICT-L5-04 : probabilités de coffre
+- Source A : page Chests (wiki) : 43/33/16/5/2 %, types 37/37/16/7/2 %.
+- Source B : leur propre référence est une étude Reddit de juin 2019, antérieure aux Fog Vials, à la refonte Keys / Maps (9.1.0) et à Plunderer's +50 % (8.4.0).
+- Hypothèse : tables de rareté probablement toujours proches, tables de **type** certainement fausses (Fog Vial absente).
+- Résolution : **UNRESOLVED** → étiquette HISTORICAL / COMMUNITY_OBSERVATION.
+
+#### CONFLICT-L5-05 : taille du nuage de Fog Vial
+- Source A : notes 9.1.0 : « 8-meter **radius** ».
+- Source B : wiki : « maximum **size** of 8 metres » (ambigu : rayon ou diamètre).
+- Résolution : rayon de 8 m retenu (source primaire). Le rendu refait en 9.5.0 n'a pas changé la valeur annoncée.
+
+#### CONFLICT-L5-06 : soin altruiste au kit, 1,5 état ou plus ?
+- Source A : wiki Med-Kits : consommation altruiste « −1 c/s », vitesse 1,35-1,5 c/s.
+- Source B : même page : « allows to heal the equivalent of 1.5 Health States » (24 / 16).
+- Hypothèse : la consommation suit les charges de soin (16 par état), pas le temps. Sinon un Ranger soignerait ~2,25 états.
+- Résolution : **1,5 état retenu** (texte explicite du wiki) ; UNRESOLVED en jeu.
+
+## Écarts avec le guide seed
+
+| Élément | Le guide dit | Vérifié | Verdict |
+|---|---|---|---|
+| Nom de la seringue | « Anti-Exhaustion / Anti-Haemorrhagic Syringe », « Anti-Exhaustion Syringe » (builds 3, 24) | Nom LIVE : **Anti-Exhaustion Syringe** (9.3.0) | **OK** (c'est l'audit A-186 qui est faux, CONFLICT-L5-01) ; la double appellation est IMPRÉCIS |
+| Seringue « idéale avec Lithe, Sprint Burst, Dead Hard » ; « second Lithe » | Reset d'Exhausted à la demande | Seulement **pendant un soin** (vous devez être blessé, ou soigner un allié) ; consomme le kit | IMPRÉCIS |
+| Combo « Looper : kit + Syringe + Styptic Agent » | — | La seringue consomme le kit : le Styptic devient inutile | FAUX (incohérent) |
+| Fog Vial « 4 charges depuis la 9.5.0 » | 4 charges | 1 (9.1.0, recharge infinie) → 2 (9.1.2) → **4 (9.5.0)** | OK |
+| Fog Vial : 8/10/12 s, recharge 70/65/60 s, ~8 m, 33 % | — | Idem ; manquent l'expansion (2/1,5/1,2 s) et les changements 9.5.0 (opaque vu de l'extérieur, auras des survivants au sol / accrochés visibles) | OK / incomplet |
+| Potent Extract « opacité doublée, durée /2, taille −25 % » | — | +100 % d'opacité (9.5.0), −50 %, −25 % | OK |
+| Toolboxes Commodious / Engineer's / Mechanic's / Alex's / Worn-Out | 32 / 16 / 16 / 18 / 16 charges | Idem (Alex's : CONFLICT-L5-02) ; la **Toolbox de base (20 ch)** manque ; Worn-Out a aussi +50 % de réparation | OK / incomplet |
+| Commodious « +50 % de réparation et de sabotage » | — | Idem | OK |
+| Add-ons de toolbox (BNP −10 charges, Socket Swivels +30 %, Clean Rag +20 %, Wire Spool +12, Scraps +8, Hacksaw +30 %, Cutting Wire +20 %, Grip Wrench +20 s, Protective Gloves, Instructions, Spring Clamp −8 m) | — | Idem | OK |
+| Built to Last « casier 10 s (T3) … 99 %, puis −33 % » | 10 s au T3 | **8 s au T3** (12/10/8) ; 99/66/33 %, 3 fois | IMPRÉCIS |
+| Med-Kits : 24 charges, 16 par état, −33 %, +35/40/45/50 % | — | Idem | OK |
+| Add-ons de kit (Gel +16, Gauze +10, Bandages +8, Self Adherent +8 et +5 %, Abdominal +15 %, Scissors +10 %, Butterfly +5 %, Suture, Needle, Sponge / Rubber Gloves) | — | Idem | OK |
+| Lampe standard 8 s ; Sport visée +20 %, déplétion −11 % ; Utility 12 s, +30 %, +15 %, −20 % | — | Idem | OK |
+| Odd Bulb « le plus fort » ; combo save « Utility + Odd Bulb + Long Life » | La luminosité rend plus fort | La luminosité est **visuelle** depuis 1.8.3 ; l'aveuglement prend 1 s quoi qu'il arrive ; Utility a **−20 % de visée** | IMPRÉCIS (choix discutable pour les saves) |
+| « TIR Optic, Wide Lens : faisceau large mais court » | TIR élargit | TIR Optic = luminosité +30 %, aveuglement +15 %, **aucun effet de largeur** ; seule Wide Lens élargit (+25 %, portée −25 %) | FAUX (TIR) |
+| Odd Bulb « batterie −14 % » | — | **Déplétion +14 %** (la batterie dure moins) | OK (formulation ambiguë) |
+| Lampe : lightburn retiré 6.7.0, anti-stroboscope 6.3.0, immunité saisie au casier, Lightborn | — | Idem (casier : 6.4.0) | OK |
+| Tampon de 0,4 s après l'animation (build 17) | — | 0,4 s **à la fin** de l'animation de ramassage (6.4.0) | OK |
+| Maps : 24/32/40/48 m, 4/5/6/8 charges ; faisceau 16 s, gens dans 32 m pour tous | — | Idem ; manquent les durées d'aura (10/12/14/14 s) | OK |
+| Crimson Stamp « aura du tueur près du faisceau, −10 s, −2 charges » | — | Idem (8 m du faisceau, révélée à **tous** les survivants) | OK |
+| Keys : 48/56/64 m, 8/9/10 s, 6/5/6 charges | — | Idem | OK |
+| Dull / Skeleton « rouvrent la trappe en 2,5 s sans être consommées » | Sans coût | Clé non détruite, mais **1 charge consommée**, clé vide inutilisable, impossible au sol | IMPRÉCIS |
+| Unique Wedding Ring « vous ne pouvez plus être Obsession » | Jamais Obsession | Chance d'être l'Obsession **initiale** réduite de 100 % | IMPRÉCIS |
+| « Les add-ons échappent aux DR (9.6.0) » | — | Vrai ; mais le **bonus de base de l'objet** (Items) est soumis aux DR | OK / incomplet |
+| Offrandes de royaume « se cumulent, poids 2 / 5 / 9999 » | Cumul pondéré | **20 % fixe, doublons non cumulables** (9.0.0) | FAUX (déjà A-190) |
+| Chalk Pouch / Salt « anecdotique, pour les memes » | Sans intérêt | Depuis 9.0.0, la Luck **débloque** l'auto-décrochage (sinon impossible hors exceptions) | IMPRÉCIS (sous-évalué) |
+| Shroud of Union « (depuis 9.0.0, n'affecte plus l'autre paire) » | — | Non vérifié ; et le spawn par défaut regroupe déjà à ≤ 12 m | NON VÉRIFIABLE / valeur surestimée |
+| Shroud of Separation / Vigo's Shroud / Shroud of Vanishing | — | Idem (9.0.0) | OK |
+| Bloody Party Streamers « se cumule si plusieurs en brûlent » | Cumul | Non indiqué par le wiki | NON VÉRIFIABLE |
+| White Ward « garde l'objet et les add-ons même si vous mourez » | — | Idem | OK |
+| Coins +2 / +1 / −1 / −2 | — | Idem ; 1 à 13 coffres | OK |
+| « Sabotage : crochet réparé en 30 s » ; « crochets du sous-sol insabotables » | — | Idem | OK |
+| Saboteur « crochets dans 56 m du point de ramassage » | — | Idem, + Scourge en jaune | OK |
+| Flashbang « grenades chargées tous les 40 % » | — | 50/45/40 %, réutilisable | OK (T3) |
+| Power Struggle « dès 15 % de wiggle » ; Flip-Flop « jusqu'à 50 % » | — | 25/20/15 % ; 40/45/50 % | OK (T3) |
+| Head On « 3 s, stun 3 s à < 2,5 m, Exhausted 60/50/40 s » | — | Idem | OK |
+| Champion of Light « +50 % de Haste en éclairant, Hindered 20 % 6 s » | — | Idem, cooldown 60/50/40 s | OK |
+| Residual Manifest « Blindness 20/25/30 s, lampe dans un coffre ouvert » | — | Idem (une fois par partie, lampe de base) | OK |
+| Absences | — | Overwhelming Presence et Franklin's Demise (contres d'objet), probabilités des coffres, clé → coffre Rare+ pour 2 joueurs, Instructions contre les tueurs à tests, 2v8 hors sujet | Incomplet |
+
+## Questions ouvertes
+
+1. Durées de canalisation de la Key et de la Map, et durée de l'« ouverture rapide » d'un coffre à la clé (non indiquées).
+2. Durée exacte de l'animation de ramassage (pour caler le flash save) ; possibilité d'aveugler pendant l'accrochage au LIVE (retirée en 1.1.2a, non re-vérifiée).
+3. Alex's Toolbox : 18 ou 24 charges (CONFLICT-L5-02) ; fouille : 8 ou 10 charges (CONFLICT-L5-03).
+4. Probabilités de coffre actuelles, y compris la part des Fog Vials (CONFLICT-L5-04).
+5. Cumul des bonus d'add-ons (additif ou multiplicatif) : les calculs §4.3 supposent l'additif.
+6. Quels bonus d'objet entrent dans les DR avec quelles perks (liste du manuel 9.6.1 non consultée).
+7. « Affected Survivor » de l'Anti-Exhaustion Syringe : le survivant soigné seulement, ou aussi le soigneur ?
+8. Cumul de plusieurs offrandes de Luck (personnelle + collective) et de plusieurs Bloody Party Streamers.
+9. Valeurs LIVE d'Iron Grasp et d'Agitation (le wiki affiche déjà le PTB 10.2.0).
+10. Statut Light-Resistant (Black Banquet 2026) : présent en file normale au 27/09/2026 ?
+11. Comportement de la Fog Vial à 0 charge (la recharge continue-t-elle ?).
+
+## Sources
+
+Pages wiki lues **en entier** via l'API MediaWiki (`kb/tools/wiki_text.py`), consultées le 27/09/2026 :
+
+1. Items — https://deadbydaylight.wiki.gg/wiki/Items
+2. Toolboxes — https://deadbydaylight.wiki.gg/wiki/Toolboxes
+3. Med-Kits — https://deadbydaylight.wiki.gg/wiki/Med-Kits
+4. Flashlights — https://deadbydaylight.wiki.gg/wiki/Flashlights
+5. Keys — https://deadbydaylight.wiki.gg/wiki/Keys
+6. Fog Vials — https://deadbydaylight.wiki.gg/wiki/Fog_Vials
+7. Maps — https://deadbydaylight.wiki.gg/wiki/Maps
+8. Offerings — https://deadbydaylight.wiki.gg/wiki/Offerings
+9. Chests — https://deadbydaylight.wiki.gg/wiki/Chests (probabilités : étude Reddit de juin 2019 citée par le wiki, non lue : reddit en 403)
+10. Lightborn — https://deadbydaylight.wiki.gg/wiki/Lightborn
+11. Hooks — https://deadbydaylight.wiki.gg/wiki/Hooks
+12. Wiggle — https://deadbydaylight.wiki.gg/wiki/Wiggle
+13. Pallets — https://deadbydaylight.wiki.gg/wiki/Pallets
+14. Protection Hits — https://deadbydaylight.wiki.gg/wiki/Protection_Hits
+15. Skill Checks — https://deadbydaylight.wiki.gg/wiki/Skill_Checks
+16. Luck — https://deadbydaylight.wiki.gg/wiki/Luck
+17. Plunderer's Instinct — https://deadbydaylight.wiki.gg/wiki/Plunderer%27s_Instinct
+18. Appraisal — https://deadbydaylight.wiki.gg/wiki/Appraisal
+19. Overwhelming Presence — https://deadbydaylight.wiki.gg/wiki/Overwhelming_Presence
+20. Brand New Part — https://deadbydaylight.wiki.gg/wiki/Brand_New_Part
+21. Anti-Exhaustion Syringe — https://deadbydaylight.wiki.gg/wiki/Anti-Exhaustion_Syringe
+22. Styptic Agent — https://deadbydaylight.wiki.gg/wiki/Styptic_Agent
+23. Built to Last — https://deadbydaylight.wiki.gg/wiki/Built_to_Last
+24. Head On — https://deadbydaylight.wiki.gg/wiki/Head_On
+25. Flashbang — https://deadbydaylight.wiki.gg/wiki/Flashbang
+26. Saboteur — https://deadbydaylight.wiki.gg/wiki/Saboteur
+27. Hatch — https://deadbydaylight.wiki.gg/wiki/Hatch
+28. Add-ons (raretés extraites du HTML) — https://deadbydaylight.wiki.gg/wiki/Add-ons
+29. Autres pages lues : Lockers, Blindness, Scourge Hook Perks, Basement, Pharmacy, Ace in the Hole, Streetwise, Residual Manifest, Champion of Light, Breakout, Boil Over, Change of Plan, Franklin's Demise, Bloody Party Streamers, Iridescent Button, Firecrackers, Status HUD/Light-Resistant, Score Events (wikitext) — https://deadbydaylight.wiki.gg/wiki/<Titre>
+
+Notes officielles BHVR (archives locales `kb/sources/patches/`, consultées le 27/09/2026) :
+
+- [O-9.0.0] https://forums.bhvr.com/dead-by-daylight/kb/articles/510 — offrandes, spawn, Luck
+- [O-9.1.0] …/articles/516 — Fog Vial, refonte Keys / Maps, Overwhelming Presence, Franklin's Demise
+- [O-9.1.1] …/articles/517 — opacité 33 %, Potent Extract
+- [O-9.1.2] …/articles/519 — 2 charges, téléportation de la Singularity
+- [O-9.2.0] …/articles/523 — Dark Arrogance, Pharmacy
+- [O-9.3.0] …/articles/529 — Anti-Exhaustion Syringe, Styptic Agent
+- [O-9.3.2] …/articles/530 — Breakdown / Wicked réactivées
+- [O-9.5.0] …/articles/538 — Fog Vial 4 charges, rendu, auras
+- [O-9.6.0] …/articles/544 — Diminishing Returns
+- [O-10.0.0 / 10.0.1] …/articles/550, 551 — immunités (Animatronic, Iridescent Button), Rampage
+- [O-10.1.2] …/articles/558 — objets de départ et coffres du **2v8** (hors 1v4)
+- [O-PTB 10.2.0] …/articles/559 — **PTB, non LIVE**
+
+Sources internes : `kb/seed/ch4_7.txt` (seed, pages 33-35, 41-42, 50-54) ; `kb/seed/audit_phase0.txt` (tables 1.2, 1.6, registre des patchs, A-186, A-190).
