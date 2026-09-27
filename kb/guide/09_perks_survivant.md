@@ -1,6 +1,6 @@
 # 9. Perks survivant : comprendre, choisir, construire
 
-> **Périmètre** : mode **1v4**, version **LIVE 10.1.2a (17/09/2026)**. Le chapitre couvre les **176 perks survivant** du périmètre du guide (fiches `kb/research/batch2_perks_surv_p23…p30.md`). Toutes ont été re-vérifiées sur page wiki complète le 27/09/2026 ; **81** ont en plus une valeur LIVE confirmée, en tout ou en partie, par une note officielle BHVR. **31** sont modifiées par le **PTB 10.2.0** : leurs nouvelles valeurs sont toujours écrites « **PTB 10.2.0 — non LIVE** » et ne servent jamais de base à une décision aujourd'hui.
+> **Périmètre** : mode **1v4**, version **LIVE 10.1.2a (17/09/2026)**. Le chapitre couvre les **176 perks survivant** du périmètre du guide (fiches `kb/research/batch2_perks_surv_p23…p30.md`). Toutes ont été re-vérifiées sur page wiki complète le 27/09/2026 ; **81** ont en plus une valeur LIVE confirmée par une note officielle BHVR (83 en comptant deux confirmations partielles : Slippery Meat, Up the Ante). **31** sont modifiées par le **PTB 10.2.0** : leurs nouvelles valeurs sont toujours écrites « **PTB 10.2.0 — non LIVE** » et ne servent jamais de base à une décision aujourd'hui.
 >
 > Ce périmètre est celui du guide d'origine, **pas une liste officielle relue** : une perk sortie hors de ce périmètre n'est pas traitée ici.
 
@@ -216,7 +216,7 @@ Chaque catégorie suit le même plan : **à quoi elle sert** (en secondes), un *
 | Perk | Effet LIVE (valeurs) | Conf. | Quand / contre quoi | Synergies · anti-synergies |
 |---|---|---|---|---|
 | **Windows of Opportunity** | Auras des murs cassables, palettes et fenêtres à 24/28/32 m, en permanence, **sans cooldown** | SS | Cartes mal connues ; zones denses. Vaut moins contre Blight, Nurse, et une fois les palettes consommées | Lithe, Finesse, Resilience ; **doublon** avec Five Moves Ahead en LIVE. **Rework PTB 10.2.0** |
-| **Five Moves Ahead** | Dans le rayon de terreur ou en poursuite : auras des 5 palettes **et fenêtres** les plus proches ; après un lâcher de palette, vous repartez **50 % plus tôt** ; CD 40/35/30 s après un lâcher | VM | Loops de palette ; inactive hors TR et hors poursuite ; peu utile contre les tueurs anti-palette | Lithe, Resilience. **PTB 10.2.0 : palettes seulement** |
+| **Five Moves Ahead** | Dans le rayon de terreur ou en poursuite : auras des 5 palettes **et fenêtres** les plus proches ; après un lâcher de palette, vous repartez **50 % plus tôt** (= « lâcher de palette 50 % plus rapide » du wiki : même effet, texte clarifié en 9.5.0 sans changement de gameplay, VP) ; CD 40/35/30 s après un lâcher | VM | Loops de palette ; inactive hors TR et hors poursuite ; peu utile contre les tueurs anti-palette | Lithe, Resilience. **PTB 10.2.0 : palettes seulement** |
 | **Finesse** | En bonne santé : saut rapide **+20 %** ; CD 40/35/30 s après un saut rapide | SS | Premier contact sur une fenêtre forte | Lithe, Windows ; **jamais active en même temps que Resilience** |
 | **Resilience** | Blessé : +3/6/9 % pour réparer, soigner, décrocher, ouvrir les portes, saboter, fouiller, bénir/purifier et **sauter les fenêtres** | VM | Parties jouées blessé (tueurs à Deep Wound, soins non rentables) | No Mither, Lithe ; exclut Finesse. **PTB 10.2.0 : 7/8/9 %** |
 | **Any Means Necessary** | Auras des palettes tombées ; relever une palette tombée en 5/4/3 s ; **aucun cooldown** | VM | Recréer une palette forte **avec de l'avance** ; inutile contre les tueurs qui cassent tout | Windows ; Brutal Strength / Enduring la rendent moins rentable |
@@ -448,7 +448,7 @@ Détail : `kb/research/batch2_perks_surv_p23.md` (Will to Live, Off the Record, 
 
 **COMMENT** [HEURISTIQUE] : l'anti-slug se joue **à deux perks** : une qui vous fait bouger ou vous relever (Tenacity, Unbreakable, Exponential), une qui fait relever les autres plus vite (WGLF, Buckle Up). Relever un allié **sous les yeux** du tueur est le piège classique du slug : attendez qu'il parte ou qu'il soit en chase.
 
-**CAS D'ÉCHEC** : tueur qui ramasse immédiatement (aucune de ces perks ne sert) ; Shattered Hope ; Deep Wound déjà actif (l'Endurance ne protège plus) ; **Knock Out** cache l'aura des mourants aux alliés au-delà d'une courte portée (SS, ch. 2).
+**CAS D'ÉCHEC** : tueur qui ramasse immédiatement (aucune de ces perks ne sert) ; Shattered Hope ; Deep Wound déjà actif (l'Endurance ne protège plus). **Knock Out** n'est **pas** une menace anti-slug : sa limitation d'aura des survivants au sol a disparu au rework 8.6.0 ; seul effet LIVE, Hindered 5 % 3/4/5 s si vous vous éloignez de plus de 6 m d'une palette lâchée dans les 6 s (VM, ch. 2 et 10).
 
 Détail : `kb/research/batch2_perks_surv_p23.md` (Unbreakable), `p24.md` (Exponential, Plot Twist), `p25.md` (Tenacity, Soul Guard, WGLF, Conviction), `p26.md` (Buckle Up).
 
@@ -538,7 +538,7 @@ Ces perks transforment du **temps de coffre** en objets ou en progression (Plund
 
 ## 9.4 Archétypes de builds `[Intermédiaire → Avancé]`
 
-> **Toute cette section est [HEURISTIQUE]** : raisonnement à partir des fiches, sans taux de victoire ni donnée d'usage. Les quatre perks d'un archétype ne sont pas testées ensemble ; les listes « contre quoi » et « cas d'échec » ne sont pas exhaustives. Un archétype se choisit selon **votre rôle** dans l'équipe et **votre file** (SoloQ / SWF), puis s'ajuste après chaque partie. Marque **[PTB]** = perk modifiée au PTB 10.2.0 : archétype à revoir à la sortie de 10.2.0. Logique reprise de `kb/deliverables/PERK_DATABASE.md` §4, valeurs reprises des fiches.
+> **Toute cette section est [HEURISTIQUE]** : raisonnement à partir des fiches, sans taux de victoire ni donnée d'usage. Les quatre perks d'un archétype ne sont pas testées ensemble ; les listes « contre quoi » et « cas d'échec » ne sont pas exhaustives. Un archétype se choisit selon **votre rôle** dans l'équipe et **votre file** (SoloQ / SWF), puis s'ajuste après chaque partie. Marque **[PTB]** = perk modifiée au PTB 10.2.0 : archétype à revoir à la sortie de 10.2.0. Logique reprise de `kb/deliverables/PERK_DATABASE.md` §5, valeurs reprises des fiches.
 
 ### 9.4.1 Chase — Lithe · Windows of Opportunity [PTB] · Parental Guidance · Lucky Break
 - **POURQUOI** : Windows montre la prochaine tile sans la chercher ; Lithe convertit un saut rapide en 3 s de +50 % Haste pour l'atteindre. Parental Guidance (5/6/7 s sans traces après un stun) et Lucky Break (sans griffures ni sang quand blessé) cassent la piste après le contact.
@@ -580,7 +580,7 @@ Ces perks transforment du **temps de coffre** en objets ou en progression (Plund
 - **POURQUOI** : à terre, Tenacity (rampe +30/40/50 %, aura illisible) vous mène au Boon ; Exponential (+90/95/100 %) ou Unbreakable (une fois) vous relèvent seul ; WGLF relève les autres deux fois plus vite avec Endurance.
 - **QUAND** : tueurs qui sluggent ; menace de 4-slug.
 - **CONTRE QUOI** : slug en fin de chase, slug de fin de partie.
-- **CAS D'ÉCHEC** : Shattered Hope ; tueur qui ramasse tout de suite ; Knock Out ; Deep Wound déjà actif. Variante : Soul Guard contre un build Hex (auto-relève sous Cursed), Buckle Up.
+- **CAS D'ÉCHEC** : Shattered Hope ; tueur qui ramasse tout de suite ; Deep Wound déjà actif (Knock Out ne limite plus l'aura des survivants au sol depuis 8.6.0 : pas une menace pour ce build). Variante : Soul Guard contre un build Hex (auto-relève sous Cursed), Buckle Up.
 
 ### 9.4.8 Fin de partie — Adrenaline · No One Left Behind [PTB] · Reassurance · Clairvoyance
 - **POURQUOI** : aux portes, Adrenaline rend un état et 4 s de Haste ; NOLB accélère soins et décrochages de 50/75/100 % ; Reassurance contre le face-camp final ; Clairvoyance montre interrupteurs, trappe et crochets (64 m) après un totem.
@@ -588,11 +588,11 @@ Ces perks transforment du **temps de coffre** en objets ou en progression (Plund
 - **CONTRE QUOI** : camp de fin de partie, perks tueur de fin de partie.
 - **CAS D'ÉCHEC** : partie perdue avant les portes ; 3-gen (trois perks sans valeur) ; Terminus (pas de soin d'Adrenaline). **C'est l'archétype le plus spécialisé** : en pratique, gardez une perk d'endgame dans un autre build [AVIS D'EXPERT].
 
-### 9.4.9 SoloQ — Will to Live · Kindred [PTB] · Deliverance · Windows of Opportunity [PTB]
-- **POURQUOI** : sans vocal, des perks qui ne dépendent pas des coéquipiers ou qui remplacent les annonces : anti-tunnel autonome (Will to Live), auto-décrochage (Deliverance), coordination des sauvetages et détection du camp (Kindred, 8/12/16 m), tiles visibles (Windows).
+### 9.4.9 SoloQ — Will to Live · Windows of Opportunity [PTB] · Deliverance · Empathy
+- **POURQUOI** : sans vocal, des perks qui ne dépendent pas des coéquipiers ou qui remplacent les annonces : anti-tunnel autonome (Will to Live), auto-décrochage (Deliverance), tiles visibles (Windows), position des blessés et mourants (Empathy, 64/96/128 m).
 - **QUAND** : file solo.
 - **CONTRE QUOI** : tunnel ; crochets mal gérés par l'équipe.
-- **CAS D'ÉCHEC** : Deliverance exige un décrochage sûr **avant** votre crochet ; slug ; joueur qui connaît déjà les cartes (Windows perd sa valeur). Variantes : Empathy, Déjà Vu, Corrective Action.
+- **CAS D'ÉCHEC** : Deliverance exige un décrochage sûr **avant** votre crochet ; slug ; joueur qui connaît déjà les cartes (Windows perd sa valeur). Variantes : **Kindred** [PTB] à la place d'Empathy si le problème est le double sauvetage ou le camp (tueur révélé à ≤ 8/12/16 m du crochet ; 14/15/16 m = PTB 10.2.0 — non LIVE), Déjà Vu, Corrective Action.
 
 ### 9.4.10 SWF — Shoulder the Burden [PTB] · Breakout · Teamwork: Throw Down · Teamwork: Full Circuit
 - **POURQUOI** : le vocal rend exploitables les effets à deux : Full Circuit (+5 %, zone Good +15/20/25 % par allié) ; Throw Down (Endurance 6/8/10 s aux alliés blessés à 24 m après un aveuglement ou un stun de palette) ; Breakout (Haste 6/8/10 %, lutte +25 %) ; Shoulder the Burden (prendre un état de crochet d'un allié tunnelé).
@@ -880,7 +880,7 @@ Détail : note officielle 559 (`kb/sources/patches/official_559.txt`) ; fiches p
 ## Sources du chapitre
 
 - **Fiches re-vérifiées (27/09/2026)** : `kb/research/batch2_perks_surv_p23.md` à `batch2_perks_surv_p30.md` (176 perks ; valeurs LIVE, PTB, synergies, notes HEURISTIQUE).
-- **Logique des archétypes** : `kb/deliverables/PERK_DATABASE.md` §4 (valeurs remplacées par celles des fiches) ; déduction côté tueur : `kb/deliverables/PERK_DEDUCTION.md`.
+- **Logique des archétypes** : `kb/deliverables/PERK_DATABASE.md` §5 (valeurs remplacées par celles des fiches) ; déduction côté tueur : `kb/deliverables/PERK_DEDUCTION.md`.
 - **Corrections prioritaires** : `kb/ledgers/AUDIT_PHASE0_ERRATA.md` (piège du digest wiki affichant le PTB).
 - **Notes officielles BHVR** (`kb/sources/patches/official_*.txt`) : 9.0.0, 9.1.0 (516), 9.2.0 (523), 9.3.0 (529), 9.3.2, 9.4.0 (534), 9.5.0, 9.6.0 (544, Diminishing Returns), 10.1.0 (556), 10.1.1 (557), **PTB 10.2.0 (559, non LIVE)**.
 - **Pages wiki** : pages de chaque perk sur deadbydaylight.wiki.gg (via `kb/sources/wiki_perks_digest.md`, brut `wiki_perks.json`).

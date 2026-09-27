@@ -48,7 +48,7 @@ En général, **rien ne vous dit que le tueur vous voit** [HEURISTIQUE]. Deux ex
 | L'aura rouge du tueur, sans perk d'aura (ni chez vous, ni chez un coéquipier) | Il voit la vôtre pendant la même durée | Deerstalker | (VM) |
 | L'aura d'un **objet au sol** en passant près de lui | Vous êtes à ≤ 12 m de l'objet et le tueur vous voit | Weave Attunement | (SS) |
 
-Un jeton de **Distortion** consommé signale aussi une lecture d'aura, mais la mécanique de Distortion n'a pas été re-vérifiée **[INCERTAIN]**.
+Un jeton de **Distortion** consommé signale aussi une lecture d'aura (SS : fiche re-vérifiée sur page wiki complète).
 
 ### Les familles de signaux
 
@@ -96,7 +96,7 @@ Détail : `kb/deliverables/PERK_DEDUCTION.md` §1.
 | Skill check raté | ne compte **pas** comme event et fait **toujours** régresser, même au plafond | [FACT] (VM) | — |
 | Gen bloqué | ni progression, ni régression, ni perte instantanée pendant le blocage | [FACT] (SS) | protège le gen des explosions |
 | Diminishing Returns (9.6.0) | modificateurs **identiques** : 100 / 50 / 25 / 12,5 / 5 % ; **add-ons exclus** ; malus de vitesse d'action réduits seulement entre sources d'un **même rôle** | [FACT] (VP) | — |
-| DR : quelles catégories ? | liste **non publiée** dans les notes ; blocages, pertes instantanées, régressions (Ruin, Call of Brine, Overcharge, Lay Waste) : concernés ou non ? | **[INCERTAIN]** | ne pas compter dessus |
+| DR : quelles catégories ? | **en partie tranché** : vitesse de skill check (correctif 9.6.0), Haste de perks et vitesse de vault (notes de dev 10.2.0) sont soumises (VP) ; la liste complète est dans le **manuel en jeu** (9.6.1), non transcrite. Blocages, pertes instantanées, régressions (Ruin, Call of Brine, Overcharge, Lay Waste) : non établis | [FACT] (VP) pour les règles ; **[INCERTAIN]** pour la liste | ne pas compter sur un DR des régressions |
 
 > **Note avancée** : « le 3-gen infini n'existe plus » est une **conséquence** du plafond de 8 events [HEURISTIQUE]. Un gen avancé à pointes a une **valeur défensive** : peu de kicks restants, et au 8e seul un skill check raté le fait encore reculer.
 
@@ -104,7 +104,7 @@ Détail : `kb/deliverables/PERK_DEDUCTION.md` §1.
 
 | Idée répandue | Réalité LIVE 10.1.2a | Confiance |
 |---|---|---|
-| « Eruption est passée à −5 % en 9.2.0 » | **Faux.** Le changement 10 → 5 % du PTB 9.2.0 a été **reporté** (« Postponed ») et annulé. **Eruption = −10 %** en LIVE | [FACT] (VM) |
+| « Eruption est passée à −5 % en 9.2.0 » | **Faux.** Le changement 10 → 5 % annoncé pour 9.2.0 a été **reporté** (« Postponed ») et n'est jamais entré en LIVE. **Eruption = −10 %** en LIVE | [FACT] (VM) |
 | « Pop est passé de 20 à 15 % en 9.2.0 » | **Faux**, même report. Pop a été **réécrit en 9.5.0** : +15 % de la progression **totale**, soit **20 %** avec les 5 % du kick ; fenêtre 35/40/45 s | [FACT] (VM) |
 | « Pain Resonance a été nerfée en 9.2.0 » | **Faux**, même report. **10/15/20 %** de la progression totale (depuis 8.0.0) | [FACT] (VM) |
 | Hex: Ruin | **100/125/150 %** de la régression normale depuis 9.2.0 (était 50/75/100) | [FACT] (VM) |
@@ -454,7 +454,7 @@ Détail : `kb/deliverables/PERK_DEDUCTION.md` §3.
 | **Thrilling Tremors + Secret Project** | Au pickup : gens libres bloqués **et** TR disparu 30 s | 1-2 réparateurs actifs pendant la chase ; 30 s de prudence après le pickup | Attesté par un correctif 9.5.0 (VM) |
 | **Kicks + régression** (Pop, Eruption, Call of Brine) **+ Surveillance** | Beaucoup de kicks, retour pile quand on reprend un gen kické | Reprendre **puis bouger** (leurre) ; en SWF, un seul reprend ; finir d'abord les gens non kickés | [HEURISTIQUE] |
 | **Hex: Ruin + Hex: Undying** | Ruin purifiée, les gens reculent encore | Purifier **tous** les totems allumés ; plus tard, Undying en premier | [HEURISTIQUE] |
-| **Empilement de régressions** (Ruin + Call of Brine + Overcharge + Lay Waste) | Gens qui fondent de plusieurs façons | Réparer 5 % stoppe **toute** régression [FACT] ; finir les gens. Les Diminishing Returns 9.6.0 réduisent **peut-être** l'empilement | Rendement : **[HYPOTHÈSE]** (catégories DR non publiées) |
+| **Empilement de régressions** (Ruin + Call of Brine + Overcharge + Lay Waste) | Gens qui fondent de plusieurs façons | Réparer 5 % stoppe **toute** régression [FACT] ; finir les gens. Les Diminishing Returns 9.6.0 réduisent **peut-être** l'empilement | Rendement : **[HYPOTHÈSE]** (régressions absentes des catégories DR établies) |
 | **Lethal Pursuer + auras** (BBQ, Nurse's Calling…) | Ruée au spawn ; auras de 2 s plus longues | Bouger juste après chaque fenêtre d'aura ; spawn près d'une structure forte | [HEURISTIQUE] |
 | **Franklin's Demise + Weave Attunement** | Objets au sol partout ; aura d'objet visible ; Oblivious au ramassage | **Ignorer** les objets au sol ; utiliser son objet avant la chase | [HEURISTIQUE] |
 | **Enduring + Spirit Fury** (± Brutal Strength) | Stun très court, puis palette qui explose au stun | Compter les palettes cassées ; drop pour bloquer, transition immédiate ; avec Brutal Strength, préférer fenêtres et enchaînement de tiles | [HEURISTIQUE] |
@@ -543,7 +543,7 @@ Détail : `kb/deliverables/PERK_DEDUCTION.md` §6.
 | Distressing | Palier 2 : 25 % (wiki) ou 23 % (note 559) **[INCERTAIN]** |
 | Batteries Included | Désactivation aux portes **[INCERTAIN]** |
 | None Are Free | Le tueur franchit-il les ressources bloquées ? **[INCERTAIN]** |
-| Transverse | Visibilité des crochets Fléau côté survivant ; rendu d'un gen bloqué ; Distortion ; Calm Spirit contre les cris ; catégories des Diminishing Returns **[INCERTAIN]** |
+| Transverse | Visibilité des crochets Fléau côté survivant ; rendu d'un gen bloqué ; Calm Spirit contre les cris ; liste complète des catégories de Diminishing Returns (manuel en jeu non transcrit ; skill check, Haste de perks et vault : soumis, VP) **[INCERTAIN]** |
 | Périmètre | Les 145 perks n'ont **pas** été comparées à la liste officielle LIVE : un lien « Signature » peut ignorer une perk hors périmètre |
 
 Détail : `kb/deliverables/PERK_DEDUCTION.md` §7.

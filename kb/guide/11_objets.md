@@ -308,7 +308,7 @@ Détail : `kb/research/batch5_items.md` §2.4.
 
 **Usage** [HEURISTIQUE] : d'abord un **objet d'information** (qui est en chase, qui répare où), puis en SWF un **générateur d'objets Rare+** pour l'équipe (11.10). La trappe ne sert que si **vous êtes le dernier** et que le tueur l'a **fermée** (technique T8).
 
-> **Erreur fréquente** : vider la clé en lectures d'aura puis arriver à la trappe fermée avec 0 charge. **Gardez toujours 1 charge** dès qu'il reste 2 survivants.
+> **Erreur fréquente** : vider la clé en lectures d'aura puis arriver à la trappe fermée avec 0 charge. **Gardez 1 charge** dès qu'il reste 2 survivants, sauf si une dernière lecture d'aura décide d'un sauvetage qui vaut plus que la trappe [HEURISTIQUE].
 
 **Valeur** [HEURISTIQUE] : SoloQ **moyenne** (info ; trappe rarement décisive). SWF **moyenne** (redondant avec la voix, mais coffres Rare+ pour l'équipe).
 

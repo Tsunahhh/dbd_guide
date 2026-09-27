@@ -1,6 +1,6 @@
 # 3. Mouvement, caméra et théorie de la chase
 
-> **Périmètre** : ce chapitre couvre la mécanique fine de la chase côté survivant (vitesses, fente, vaults, palettes, Bloodlust, ligne de vue, caméra, son, feintes, pathing) puis la **chase theory** : raisonner en secondes gagnées ou perdues pour l'équipe. Les tiles et loops en détail sont au chapitre des tiles (`kb/research/batch7_tiles.md`), les réponses tueur par tueur au chapitre des tueurs, la macro (crochets, soins, tempo global) au chapitre macro.
+> **Périmètre** : ce chapitre couvre la mécanique fine de la chase côté survivant (vitesses, fente, vaults, palettes, Bloodlust, ligne de vue, caméra, son, feintes, pathing) puis la **chase theory** : raisonner en secondes gagnées ou perdues pour l'équipe. Les tiles et loops en détail sont au chapitre 4 (`kb/research/batch7_tiles.md`), les réponses tueur par tueur aux chapitres 7-8, la macro (crochets, soins, tempo global) au chapitre 6.
 >
 > **Version** : LIVE 10.1.2a (17/09/2026). Rien ici ne vient du PTB 10.2.0 (Survivor Intent System, etc. : non LIVE). **Mode 1v4 uniquement** : aucun chiffre ni modèle de ce chapitre ne s'applique tel quel au 2v8.
 
@@ -8,7 +8,7 @@
 
 **Étiquettes** : **[FACT]** valeur vérifiée, avec sa confiance **(VP)** note officielle, **(VM)** wiki + note, **(SS)** wiki seul ; **(CALC)** arithmétique faite uniquement sur des valeurs vérifiées (aussi fiable que sa moins fiable entrée, et toujours une simplification : ligne droite, vitesses constantes) ; **[HEURISTIQUE]** règle de joueur non sourcée ; **[SITUATIONNEL]** conseil qui s'inverse selon le contexte ; **[HYPOTHÈSE]** modèle plausible non confirmé — **tous les modèles de 3.8 en sont** ; **[INCERTAIN]** / **(INC)** valeur non documentée.
 
-**Format des techniques** : chaque technique importante suit la grille **QUOI → POURQUOI → QUAND → COMMENT → CONTRE → CAS D'ÉCHEC → EXERCICE**. Les seuils de réussite des exercices sont des propositions [HEURISTIQUE] à recalibrer avec tes propres données (chapitre entraînement). Aucune VOD n'a été analysée pour écrire ce chapitre.
+**Format des techniques** : chaque technique importante suit la grille **QUOI → POURQUOI → QUAND → COMMENT → CONTRE → CAS D'ÉCHEC → EXERCICE**. Les seuils de réussite des exercices sont des propositions [HEURISTIQUE] à recalibrer avec tes propres données (chapitre 14). Aucune VOD n'a été analysée pour écrire ce chapitre.
 
 **Unité de compte** : la **seconde-survivant (s-s)** = 1 survivant qui répare seul pendant 1 s. **1 gen = 90 s-s** [FACT] (VM) (90 charges depuis 6.1.0) ; 5 gens = 450 s-s.
 
@@ -74,8 +74,8 @@ La liste de « casses instantanées » de l'audit phase 0 était fausse sur plus
 | Cas | Tueurs |
 |---|---|
 | Casse **de base** par le pouvoir | Shape (Slaughtering Strike, Evil Incarnate), Demogorgon (Shred), Oni (Blood Fury), Blight (Lethal Rush, **avec coût en tokens**, voir T05), Nemesis (Mutation Rate 2+), Singularity (palette baissée sur lui en Overclock), Dark Lord (bond du loup) |
-| Casse **pas instantanée** | Hillbilly / Cannibal : tronçonneuse 1 s ; Knight : un garde casse sur ordre en **1,8 s ou 5 s** ; depuis **10.1.1**, une palette baissée tôt force le garde en chasse à **contourner** (abandon si le détour dépasse 48 m) (VP) ; Lich + add-on Vorpal Sword : Mage Hand casse une palette baissée en **4 s** (sans l'add-on, Mage Hand **relève** la palette ou bloque une palette levée 4 s) |
-| Casse **seulement avec un add-on** | Mastermind (Lab Photo ; de base Virulent Bound **franchit** la palette), Good Guy (Hard Hat ; de base le Scamper passe **sous** la palette en 1 s — la casse de base n'existe qu'en 2v8), Legion (Iridescent Button ; de base vault en Frenzy), Ghoul (Iridescent Eye Patch, 3e bond), Executioner (Obsidian Goblet), The First (Shattered Wrist Rocket) |
+| Casse **pas instantanée** | Hillbilly / Cannibal : tronçonneuse 1 s, **pouvoir de base** (aucun add-on requis ; LoPro Chains ne fait que prolonger le sprint du Hillbilly) ; Knight : un garde casse sur ordre en **1,8 s ou 5 s** ; depuis **10.1.1**, une palette baissée tôt force le garde en chasse à **contourner** (abandon si le détour dépasse 48 m) (VP) ; Lich + add-on Vorpal Sword : Mage Hand casse une palette baissée en **4 s** (sans l'add-on, Mage Hand **relève** la palette ou bloque une palette levée 4 s) |
+| Casse **seulement avec un add-on** | Mastermind (Lab Photo ; de base Virulent Bound **franchit** la palette), Good Guy (Hard Hat ; de base le Scamper passe **sous** la palette en 1 s — la casse de base n'existe qu'en 2v8), Legion (Iridescent Button ; de base vault en Frenzy), Ghoul (Iridescent Eye Patch, 3e bond), Executioner (Obsidian Goblet), The First (Shattered Wrist Rocket ; « seulement avec l'add-on » reste **[INCERTAIN]** : la casse par la liane citée par le seed n'est ni confirmée ni exclue) |
 
 > **Erreur fréquente** : « Good Guy, Mastermind et Knight cassent les palettes instantanément ». Faux en 1v4 LIVE sans add-on pour les deux premiers, et le Knight ne casse jamais instantanément. Identifie l'add-on avant de changer ton plan.
 
@@ -225,7 +225,7 @@ Sauf mention [FACT], tout ce qui suit est [HEURISTIQUE] ou [SITUATIONNEL].
   - contre un tueur 110 % (chaque mètre vaut 2,5 s) ;
   - pour **traverser une dead zone** vers une zone riche en palettes ;
   - pour éloigner la chase des gens à finir (zoning inversé, 3.8) ;
-  - contre certains tueurs anti-loop dont le pouvoir punit plus la boucle que la ligne droite (le seed classait ainsi Legion, Clown, Doctor : **à confirmer tueur par tueur**, voir le chapitre des tueurs).
+  - contre certains tueurs anti-loop dont le pouvoir punit plus la boucle que la ligne droite (le seed classait ainsi Legion, Clown, Doctor : **à confirmer tueur par tueur**, voir les chapitres 7-8).
 - **COMMENT** : choisir la destination **avant** de partir ; courir droit sans te retourner longuement (le son suffit, voir T16) ; compter les secondes (la Bloodlust court aussi).
 - **CONTRE** (ce que fait le tueur) : couper l'angle vers ta destination probable ; utiliser son pouvoir dans l'open ; lâcher la chase si l'avance est trop grande (3.8, abandon) ; perks de Haste ou d'Hindered.
 - **CAS D'ÉCHEC** :
@@ -276,7 +276,7 @@ Sauf mention [FACT], tout ce qui suit est [HEURISTIQUE] ou [SITUATIONNEL].
 - **POURQUOI** : stun **2 s** à ~50 % d'abaissement (SS) ; casse **2,34 s** (VM) qui lui fait perdre la Bloodlust ; tu vaultes la palette baissée en 1,1 s (bruyant) ou 2 s (silencieux), lui non (sauf pouvoirs, 3.1). (CALC) casse = +9,4 m (≈ 18 s contre un 4,6) ; stun + casse = +17,4 m (≈ 33 s). La palette est une ressource **définitive et partagée** : cassée, elle disparaît pour toute l'équipe.
 - **QUAND** : stun quand le tueur s'engage franchement sur la palette ; drop sans stun pour bloquer un chemin et forcer une décision (casser ou contourner). La décision fine est en T05.
 - **COMMENT** : jette quand le tueur entre dans la zone, pas quand il la « menace » ; puis **pars immédiatement** pendant la casse : 2,34 s = 9,4 m.
-- **CONTRE** : fausse avance (T17) pour provoquer un drop sans stun ; casser tout de suite si le tile devient infini, contourner si la palette est faible ; Enduring ; Spirit Fury (après 4/3/2 casses manuelles, la prochaine palette qui l'étourdit est cassée instantanément, le stun a lieu, SS) ; pouvoirs de casse.
+- **CONTRE** : fausse avance (T17) pour provoquer un drop sans stun ; casser tout de suite si la loop baissée devient trop forte (aucune loop n'est infinie, chapitre 4), contourner si la palette est faible ; Enduring ; Spirit Fury (après 4/3/2 casses manuelles, la prochaine palette qui l'étourdit est cassée instantanément, le stun a lieu, SS) ; pouvoirs de casse.
 - **CAS D'ÉCHEC** :
   - contre la Nurse, les palettes valent peu (elle blinke à travers) ;
   - contre une casse gratuite, un drop précoce ne coûte presque rien au tueur ;
@@ -310,10 +310,10 @@ F. La Bloodlust est-elle haute ?
      oui -> la casse forcée la remet à 0 : le pre-drop gagne plus
 ```
 
-- **Le pre-drop n'est pas universel** (correction d'audit ; aligné sur le handbook de counterplay et le chapitre des tiles). Contre un tueur qui a un pouvoir sur les palettes, trois cas **différents** [HEURISTIQUE fondée sur des FACT] :
+- **Le pre-drop n'est pas universel** (correction d'audit ; aligné sur le handbook de counterplay et le chapitre 4). Contre un tueur qui a un pouvoir sur les palettes, trois cas **différents** [HEURISTIQUE fondée sur des FACT] :
   1. **La casse lui coûte** — **Blight**. Depuis **9.6.0**, casser une palette baissée (au pied ou en Lethal Rush) ramène ses tokens de Rush à **2 sous le max** et remet la recharge en cours à 0 % (VP). La note **9.6.2** corrige un bug où il ne perdait **aucun** token en cassant avec 3 tokens ou moins : en LIVE, la casse coûte donc aussi des tokens à bas stock (quantité exacte [INCERTAIN]). Le pre-drop contre lui est **le plus souvent** rentable. Limites : il peut contourner sans casser (la palette devient un mur) ; chaque pre-drop consomme une palette ; quand il est déjà à sec (plusieurs Rushes, fatigue), un drop normal suffit ; contre un Blight qui ralentit avant la palette pour obtenir le pre-drop, mélange avec des départs anticipés sans drop.
   2. **Son pouvoir punit l'attente à la palette** (Doctor, Cannibal, Nemesis MR2+, Mastermind, Lich) → pre-drop **puis départ immédiat** vers le tile suivant, pas « pre-drop puis tenir ».
-  3. **La casse est gratuite et le drop tardif n'est pas plus puni** (Demogorgon Shred, Oni en Fury, Ghoul avec tokens, Dark Lord loup) → la palette vaut surtout le **stun** ; la garder levée n'a de sens que si son pouvoir est en recharge ou inutilisable à cet endroit.
+  3. **La casse (ou le franchissement) est gratuite et le drop tardif n'est pas plus puni** (Demogorgon Shred, Oni en Fury, Dark Lord loup ; Ghoul avec tokens, qui **franchit** la palette en Kagune Leap sans la casser, le vault déclenchant toutefois son cooldown) → la palette vaut surtout le **stun** ; la garder levée n'a de sens que si son pouvoir est en recharge ou inutilisable à cet endroit.
 - **COMMENT** : réévaluer **à chaque cycle** (la Bloodlust monte, le tueur apprend ton trajet) ; en SoloQ, supposer que la palette suivante a peut-être été consommée par un allié.
 - **CONTRE** : alterner respect et non-respect pour rendre ton greed risqué ; casser tôt la palette pour interdire le greed ; zoner vers la palette cassée (3.8) ; contre un casseur par add-on, identifie l'add-on avant de changer de plan.
 - **CAS D'ÉCHEC** :
@@ -406,7 +406,7 @@ Détail : `kb/research/batch6_chase_tech.md` T01-T06 ; Blight : `kb/research/bat
 | Début du vault du tueur | 1,7 s | Revaulter ou changer de côté |
 | Essuyage après un coup | 2,7 s | Rejoindre un tile |
 | Levée de l'arme / début de fente | — | Esquive latérale ou obstacle |
-| Charge, visée, posture de pouvoir | selon le tueur | voir chapitre des tueurs |
+| Charge, visée, posture de pouvoir | selon le tueur | voir chapitres 7-8 |
 
 - **QUAND** : dans tout duel rapproché ; pour savoir s'il casse ou feinte (T17).
 - **COMMENT** : une action lancée = une décision prise ; réagis à l'**action**, pas au mouvement de caméra.
@@ -435,7 +435,7 @@ Détail : `kb/research/batch6_chase_tech.md` T07, T08, T14-T16.
 - **QUOI** : faire demi-tour brusquement (souvent juste après être sorti de sa LOS) pour exploiter son engagement dans l'autre sens.
 - **POURQUOI** : le tueur doit engager son trajet avant de savoir où tu vas ; chaque changement de sens lui fait refaire une partie du tile. Mais il récupère 0,4-0,6 m **par seconde** de trajet (1,0-1,2 m/s à Bloodlust max) : un détour de 4 m est compensé en ≈ 7-10 s sans Bloodlust, ≈ 3-4 s à Bloodlust max (CALC). **Le double-back paie sur un cycle court**, beaucoup moins sur une longue boucle. Hors LOS, il brouille aussi les griffures (elles restent 10 s sur les deux trajets).
 - **QUAND** : tueur engagé loin dans l'autre sens ; tiles à murs hauts (shack, jungle gym) ; il te suit à la trace plutôt qu'à la vue ; il « précommande » un mindgame.
-- **COMMENT** : double-back **sur une info** (tache, pas, corps vu à un checkspot), jamais à l'aveugle ; varier les endroits.
+- **COMMENT** : double-back **sur une info** (tache, pas, corps vu à un checkspot) ; à l'aveugle, c'est un pari à réserver aux cas sans autre option ; varier les endroits.
 - **CONTRE** : couper par le centre du tile ; s'arrêter à un point qui couvre les deux sorties ; faire son propre demi-tour ; tache rouge utilisée pour faire croire à un engagement.
 - **CAS D'ÉCHEC** : il a la LOS ; murs bas ; tueur à distance ou mobilité (un demi-tour prévisible offre un tir ou un blink ; contre une Nurse experte il devient lisible) ; double-back vers une fenêtre déjà vaultée 2 fois ; toujours au même endroit (appris en 1-2 boucles) ; sans info (tu cours dans ses bras).
 - **EXERCICE « Double-back sur info »** : 10 parties, chaque double-back noté avec l'info qui l'a motivé. Réussite : ≥ 80 % sur info, ≥ 60 % réussis.
@@ -533,7 +533,7 @@ Détail : `kb/research/batch6_chase_tech.md` T18, T19, T23.
 
 - **QUOI** : tueur et survivants entrent en collision entre eux et avec le décor ; un corps peut bloquer une porte, une sortie de fenêtre, un couloir.
 - **POURQUOI** : observation constante mais **non chiffrée** (taille des capsules : INC). Le tueur peut te coincer ; un allié peut te bloquer involontairement ; les aspérités accrochent.
-- **QUAND / COMMENT** : body block volontaire pour un allié blessé seulement si l'échange vaut un coup (3.8.4) ; ne jamais fuir dans une pièce à une seule sortie ; vaulter vers un espace où il ne peut pas se tenir devant la sortie.
+- **QUAND / COMMENT** : body block volontaire pour un allié blessé seulement si l'échange vaut un coup (3.8.4) ; éviter de fuir dans une pièce à une seule sortie (sauf si le tueur ne peut pas t'y suivre à temps) ; vaulter vers un espace où il ne peut pas se tenir devant la sortie.
 - **CONTRE** : body block à la sortie d'une fenêtre ou dans un couloir ; te pousser contre le décor ; frapper un bloqueur s'il l'accepte (le seed : seulement si cela le rapproche d'un crochet, [SITUATIONNEL]).
 - **CAS D'ÉCHEC** : cul-de-sac ; boucler près d'un allié (collision et deux cibles) ; courir vers un allié pendant une chase.
 - **EXERCICE** : parcours en partie personnalisée les 10 tiles les plus fréquents en collant les murs et note les points d'accroche. Réussite : une liste écrite par tile.
@@ -649,7 +649,7 @@ Le « prix » d'une palette n'est pas 2,34 s mais **2,34 s + 9,4 m offerts + la 
 | Rester blessé | Prochaine chase plus courte, info au tueur (grognements, sang), un coup = au sol | mécanique FACT, valeur hypothèse |
 | Coup quand déjà blessé | chase restante perdue (≈ 20-30 s-s) + crochet (≈ 80-120 s-s) ≈ **100-150 s-s** + 1 état de crochet | hypothèse |
 
-- **Conversion en secondes de chase** : 3 alliés (2,4 s-s/s) → coup sain ≈ 42 s-s ≈ **17 s**, coup blessé ≈ **40-60 s** ; 2 alliés (1,6 s-s/s) → ≈ **26 s** et ≈ **62-94 s**. Ordres de grandeur : le soin peut ne jamais avoir lieu (chapitre macro).
+- **Conversion en secondes de chase** : 3 alliés (2,4 s-s/s) → coup sain ≈ 42 s-s ≈ **17 s**, coup blessé ≈ **40-60 s** ; 2 alliés (1,6 s-s/s) → ≈ **26 s** et ≈ **62-94 s**. Ordres de grandeur : le soin peut ne jamais avoir lieu (chapitre 6).
 - **QUAND** : décider de se soigner ou non ; décider du greed (3.8.3) ; accepter un coup volontaire (body block) quand l'échange est rentable.
 - **COMMENT** : compte le coût d'un coup **avant** la décision risquée, pas après.
 - **CONTRE** : laisser les survivants blessés (pression de soin) ; perks de Mangled, Haemorrhage, Broken.
@@ -762,7 +762,7 @@ Détail : `kb/research/batch6_chase_tech.md` §4 ; corrections : `kb/audit/pass1
 
 **Décision** : A. B redevient raisonnable si tu arrives avec ≥ 10 m d'avance, **sain**, et que le tueur a montré qu'il suit au lieu de couper (alors : 1 cycle, puis drop dès qu'il s'engage côté palette).
 
-**Variantes selon le tueur** (T05) : casse gratuite (Demogorgon, Oni en Fury, Ghoul, Dark Lord) → garde la palette pour un **stun** ou change de zone ; pouvoir qui punit l'attente (Doctor, Cannibal, Nemesis, Mastermind, Lich) → pre-drop **puis départ immédiat** ; **Blight** → pre-drop le plus souvent rentable (tokens, 9.6.0 / 9.6.2) ; Knight → un garde en chasse **contourne** une palette baissée tôt (10.1.1).
+**Variantes selon le tueur** (T05) : casse ou franchissement gratuits (Demogorgon, Oni en Fury, Dark Lord ; Ghoul qui la franchit au bond) → garde la palette pour un **stun** ou change de zone ; pouvoir qui punit l'attente (Doctor, Cannibal, Nemesis, Mastermind, Lich) → pre-drop **puis départ immédiat** ; **Blight** → pre-drop le plus souvent rentable (tokens, 9.6.0 / 9.6.2) ; Knight → un garde en chasse **contourne** une palette baissée tôt (10.1.1).
 
 **Erreur typique** : appliquer la règle du seed « deux tours de fenêtre avant la palette » en étant blessé (le 2e tour est un pari dont l'enjeu est ≈ 60-90 s de chase, selon le modèle) ; ou pré-jeter puis **regarder** la casse au lieu de partir (2,34 s = 9,4 m jetés).
 
@@ -818,7 +818,7 @@ Détail : `kb/research/batch6_chase_tech.md` §5.
 
 ## 3.11 Ce qui reste incertain
 
-Fente (durée, portée utile) ; durée d'abaissement de la palette et instant du stun ; vitesse du tueur pendant ses cooldowns ; effet d'un stun sur la Bloodlust et taux de régression ; temporisation des conditions de fin de poursuite ; angle toléré du fast vault et conservation du boost ; tache rouge (regard vers le bas, vitesse en moonwalk) ; hitbox et seuil de validation ; tokens perdus par le Blight à 3 tokens ou moins (9.6.2) ; tous les paramètres des modèles de 3.8 (`p`, `T_loop`, `e`, coût d'un crochet). **Non couverts ici** : perks d'épuisement (Dead Hard, Sprint Burst, Lithe, Balanced Landing), Haste / Hindered de perks, objets en chase, 2v8.
+Fente (durée, portée utile) ; durée d'abaissement de la palette et instant du stun ; vitesse du tueur pendant ses cooldowns ; effet d'un stun sur la Bloodlust et taux de régression ; temporisation des conditions de fin de poursuite ; angle toléré du fast vault et conservation du boost ; tache rouge (regard vers le bas, vitesse en moonwalk) ; hitbox et seuil de validation ; tokens perdus par le Blight à 3 tokens ou moins (9.6.2) ; casse de palette de The First sans l'add-on Shattered Wrist Rocket ; tous les paramètres des modèles de 3.8 (`p`, `T_loop`, `e`, coût d'un crochet). **Non couverts ici** : perks d'épuisement (Dead Hard, Sprint Burst, Lithe, Balanced Landing), Haste / Hindered de perks, objets en chase, 2v8.
 
 ## Sources du chapitre
 

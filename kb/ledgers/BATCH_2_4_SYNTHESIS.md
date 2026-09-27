@@ -1,5 +1,13 @@
 # BATCH_2_4_SYNTHESIS — synthèse des lots 2 (perks survivant), 3 (perks tueur) et 4 (tueurs)
 
+> **Mise à jour 27/09 (soir) : re-vérification complète effectuée, la file de re-vérification §5 est CLOSE ; voir `OUTDATED_CONTENT_REPORT.md` partie B.**
+> - Les 321 perks et les 44 tueurs ont été re-vérifiés sur pages wiki complètes (API MediaWiki) et notes officielles BHVR archivées (`kb/sources/patches/`) ; les lots 5, 7, 8 et 12 ont été écrits avec ces sources. Le blocage « quota WebSearch épuisé » décrit ci-dessous ne s'applique plus.
+> - **§1 (comptages)** et **§2 (statuts PROUVÉ / PROBABLE / SUSPECT)** sont **périmés** : tous les PROBABLE et SUSPECT sont tranchés. État final des erreurs du seed : `OUTDATED_CONTENT_REPORT.md` partie B (59 erreurs distinctes prouvées, 42 points où le seed avait raison, dont Iron Will, Built to Last, 7 hachettes, TR de Hillbilly / Blight / Hag / Pig / Skull Merchant, Terminus).
+> - **§3 (conflits)** : état final dans `CONFLICT_REGISTER.md`, section « Conflits des lots 2-11 après re-vérification » (113 blocs, 85 résolus, 26 conflits distincts encore ouverts ; Eruption = −10 % LIVE, résolu).
+> - **§4 (questions ouvertes)** : état final dans `OPEN_QUESTIONS.md` partie B (117 questions ouvertes, 23 tranchées).
+> - **§5 (file de re-vérification)** : CLOSE — ne pas la dérouler. Sources lues : `SOURCE_LEDGER.md`.
+
+
 Rédigé le 27/09/2026 à partir des 21 fichiers `kb/research/batch2_*.md`, `batch3_*.md` et `batch4_*.md` (ligne « Couverture web » en tête, sections Claims, Conflits, Écarts avec le guide seed et Questions ouvertes).
 Référence de version : **LIVE 10.1.2a (17/09/2026)**. Le **PTB 10.2.0** (15-21/09/2026) **n'est pas LIVE**.
 Aucune recherche web n'a été faite pour cette synthèse (quota de 200 recherches de la session épuisé). Aucune valeur n'y est ajoutée : tout vient des fichiers de lot ou de `kb/seed/audit_phase0.txt`.

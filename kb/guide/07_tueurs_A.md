@@ -20,7 +20,7 @@ Vitesse de base, terror radius (TR), taille, et **casse de palette par le pouvoi
 |---|---|---|---|---|---|---|
 | 1 | Trapper | 4,6 m/s | 32 m | Grand | Non | Zone/piège · M1 |
 | 2 | Wraith | 4,6 (6,0 occulté) | 32 m (aucun occulté) | Grand | Non | Furtif · mobilité · M1 |
-| 3 | Hillbilly | 4,6 | **40 m** | Grand | **Oui**, tronçonneuse ~1 s (mécanique de base exacte (INC)) ; LoPro Chains : traverse sans s'arrêter | Mobilité · coup unique |
+| 3 | Hillbilly | 4,6 | **40 m** | Grand | **Oui**, tronçonneuse de base ~1 s, sans add-on (VP « Special-break » 9.5.0 ; durée SS) ; LoPro Chains : traverse sans s'arrêter | Mobilité · coup unique |
 | 4 | Nurse | **3,85** | 32 m | Moyenne | Non (elle blinke à travers) | Mobilité (TP) · anti-loop total |
 | 5 | Shape | 4,2 Stalker / 4,6 (VM) | aucun / **16 m** / 32 m (VM) | Grand | **Oui**, Slaughtering Strike en Evil Incarnate (VM) | Furtif · coup unique · M1 |
 | 6 | Hag | 4,4 | **24 m** | Moyenne | Non | Zone/piège · TP · info |
@@ -137,7 +137,7 @@ Les archétypes de chaque tueur sont dans la dernière colonne du tableau récap
 - **Quand ça échoue** :
   - Mobilité **qui traverse les obstacles** (blink de la Nurse, phase de la Spirit) : l'obstacle ne suffit plus, il faut casser la LOS au bon moment et lire les indices (husk figé, charge du blink).
   - Mobilité **ancrée sur la carte** : pièges de la Hag, gens et réveils du Nightmare, portails du Demogorgon. Une zone riche en ces points devient un **point d'arrivée** du tueur.
-  - Casse de palette gratuite pendant la mobilité (Oni, Demogorgon, Hillbilly LoPro) : voir anti-loop.
+  - Casse de palette gratuite pendant la mobilité (Oni, Demogorgon, Hillbilly : ~1 s de base, sans s'arrêter avec LoPro) : voir anti-loop.
 
 ### Furtif : l'absence de TR est une information, pas une sécurité
 
@@ -185,7 +185,7 @@ Les archétypes de chaque tueur sont dans la dernière colonne du tableau récap
 | Structure | M1 | Anti-loop | Ranged | Mobilité | Furtif | Zone/piège |
 |---|---|---|---|---|---|---|
 | Fenêtre forte | ↑ (Cannibal n'a aucun outil contre, sauf Bamboozle) | ± ↑ Demogorgon, Oni (le pouvoir ne vaulte pas) ; ↓ Legion en Frenzy | ↓ réception prévisible (Huntress, Deathslinger) | ± ↑ Hillbilly (il boucle en M1) ; ↓ Nurse | ≈ | ↓ fenêtre piégée côté sortie (Trapper, Hag) |
-| Palette safe | ↑↑ | ↓ Demogorgon, Oni Fury, Shape EI, Legion Frenzy ; Blight avec coût | ± ↓ palette basse ne bloque ni hachette ni onde | ↓ Nurse, Spirit (jeter tôt puis marcher) ; Hillbilly LoPro | ≈ | ≈ |
+| Palette safe | ↑↑ | ↓ Demogorgon, Oni Fury, Shape EI, Legion Frenzy ; Blight avec coût | ± ↓ palette basse ne bloque ni hachette ni onde | ↓ Nurse, Spirit (jeter tôt puis marcher) ; Hillbilly (casse ~1 s ; LoPro sans s'arrêter) | ≈ | ≈ |
 | Shack / murs hauts | ↑ | ↑ Oni, Demogorgon | ↑ Huntress, Deathslinger ; ↓ Executioner (onde à travers) | ↑ Hillbilly, Nurse (obstacle opaque) | ↓ Ghost Face (il stalke hors de ta vue) | ↓ Trapper (entrée unique) |
 | Zone ouverte | ↓ | ↓ | ↓↓ | ↓↓ Hillbilly, Nurse, Oni, Blight, Victor | ↑ tu le vois venir | ↑ réseau dispersé |
 | Intérieur, coins | ≈ | ± ↑ Demogorgon (Shred limité), Cannibal (Tantrum) | ↑ Huntress, Deathslinger ; ↓ Executioner | ↑ Hillbilly, Nurse (multi-niveaux) | ↓ Ghost Face, Shape | ↓ Hag, Doctor (Static Blast) |
@@ -268,7 +268,7 @@ Détail : `kb/research/batch4_killers_g1.md` §2.
 
 ### 3. The Hillbilly (Max Thompson Jr.) — mobilité · coup unique [Intermédiaire]
 
-**Données LIVE** : 4,6 m/s ; **TR 40 m** (32 → 40 m en 8.6.0) ; grand. Tronçonneuse : charge **2,5 s** (il avance à 3,68 m/s), bruit audible à **60 m**, son qui évolue avec la charge. **Sprint 10,12 m/s**, **12 m/s en Overdrive**. Virage **412 °/s pendant la 1re seconde** du sprint, puis **32 °/s**. Coup de tronçonneuse = **double dégâts** (un sain tombe). Cooldowns : touche 2,7 s ; **choc contre un obstacle 2,5 s** ; raté 2,7 s ; casse de palette/mur 1 s ; il marche à 1,84 m/s pendant le cooldown. Overdrive : jauge chargée en sprintant, vidée après 8 s sans tronçonneuse ; pleine = **20 s** de sprint à 12 m/s, charge +5 %, cooldowns −10 %. Palettes : la tronçonneuse casse une palette baissée en ~1 s (page Pallets) ; **avec LoPro Chains**, le sprint traverse palettes et murs sans s'arrêter ; la mécanique exacte de la casse **sans** add-on n'est pas tranchée (INC, CONFLICT-L4G1-05). Aucun changement de pouvoir 9.0.0 → 10.1.2a.
+**Données LIVE** : 4,6 m/s ; **TR 40 m** (32 → 40 m en 8.6.0) ; grand. Tronçonneuse : charge **2,5 s** (il avance à 3,68 m/s), bruit audible à **60 m**, son qui évolue avec la charge. **Sprint 10,12 m/s**, **12 m/s en Overdrive**. Virage **412 °/s pendant la 1re seconde** du sprint, puis **32 °/s**. Coup de tronçonneuse = **double dégâts** (un sain tombe). Cooldowns : touche 2,7 s ; **choc contre un obstacle 2,5 s** ; raté 2,7 s ; casse de palette/mur 1 s ; il marche à 1,84 m/s pendant le cooldown. Overdrive : jauge chargée en sprintant, vidée après 8 s sans tronçonneuse ; pleine = **20 s** de sprint à 12 m/s, charge +5 %, cooldowns −10 %. Palettes : la tronçonneuse casse une palette baissée en ~1 s **avec le pouvoir de base, sans add-on** (pouvoir classé « Special-break » en 9.5.0, VP ; 1 s : page Pallets, SS ; question tranchée le 27/09/2026, `kb/ledgers/CONFLICT_REGISTER.md`) ; **LoPro Chains** permet seulement de **continuer** le sprint à travers palettes et murs sans s'arrêter. Aucun changement de pouvoir 9.0.0 → 10.1.2a.
 
 **Identification** : vrombissement à 60 m, puis sprint très rapide en ligne droite ; tueur qui traverse la carte en quelques secondes ; TR très large. Différence avec le Cannibal : sprints longs et droits (Hillbilly) contre balayages courts et Tantrums (Cannibal).
 
@@ -355,7 +355,7 @@ Détail : `kb/research/batch4_killers_g1.md` §4.
 **Counterplay** :
 - *Mécanique* : casser la LOS dès que tu le vois stalker : la jauge se remplit en ~5 s, chaque seconde refusée compte. En EI, jouer les fenêtres et esquiver la charge **latéralement**. Une palette lâchée devant une SS sera cassée, mais il en ressort à 1,84 m/s pendant ~2 s : fenêtre pour gagner la tile suivante.
 - *Temps* : **gagner 60 s pendant l'EI** est l'objectif de chase prioritaire (fin au chrono seulement, sans add-on).
-- *Survivant à 2 crochets* : pendant l'EI, ne **jamais** le laisser arriver à 3 m, même sain, même au sol. L'**Endurance** empêche l'exécution (protection de décrochage, Off the Record…) mais saute sur une action voyante et ne protège pas sous Deep Wound [FACT, audit].
+- *Survivant à 2 crochets* : pendant l'EI, éviter en priorité qu'il arrive à 3 m, même sain, même au sol (sauf sous Endurance). L'**Endurance** empêche l'exécution (protection de décrochage, Off the Record…) mais saute sur une action voyante et ne protège pas sous Deep Wound [FACT, audit].
 - *Signaux* : au signal global de jauge pleine, réparer loin de lui et avoir fini ses soins **avant**.
 - *Macro* : en Stalker, il est lent (4,2 m/s) : bonne fenêtre pour les gens, **mais** Undetectable : réparer en surveillant les angles, pas « sans pression ». Ne pas grouper pendant l'EI.
 
@@ -568,7 +568,7 @@ Détail : `kb/research/batch4_killers_g2.md` §11.
 
 **Counterplay** :
 - *Mécanique* : contourner le rose, ou le traverser au plus court ; **traverser son jaune** (tu gagnes +12 % toi aussi) ; **un nuage jaune annule le rose** ; gagner la distance pendant sa recharge (2,5 s à 2,3 m/s).
-- *Fenêtres* : ne mise jamais une chase sur un fast vault intoxiqué.
+- *Fenêtres* : évite de miser une chase sur un fast vault intoxiqué (pas de fast vault possible dans le Tonic).
 
 **Erreurs classiques** : courir dans un nuage rose ; rester groupés dans le gaz ; ignorer son Antidote.
 
@@ -897,7 +897,7 @@ Détail : `kb/research/batch4_killers_g3.md` §22.
 
 ## Points incertains à suivre
 
-- Casse de palette du Hillbilly **sans** LoPro Chains ; tokens perdus par la Blight sur une casse à 3 tokens ou moins ; délai sans orbes de l'Oni après un décrochage (10 ou 15 s) ; totaux d'Undetectable des add-ons du Demogorgon ; vault de fenêtre de la Nurse ; projectiles et palettes basses (Huntress, Deathslinger) : tous (INC).
+- Tokens perdus par la Blight sur une casse à 3 tokens ou moins ; délai sans orbes de l'Oni après un décrochage (10 ou 15 s) ; totaux d'Undetectable des add-ons du Demogorgon ; vault de fenêtre de la Nurse ; projectiles et palettes basses (Huntress, Deathslinger) : tous (INC).
 - Fréquences de perks et d'add-ons : non vérifiables (NightLight inaccessible) ; les perks sont citées pour leur **effet**.
 - À la sortie de 10.2.0 : revoir Agitation, Iron Grasp, Knock Out (LIVE 6 m / 5 % → PTB 10 m / 20 %), Fire Up, Dead Man's Switch, Hex: Blood Favour, Spine Chill, Calm Spirit, Borrowed Time. Aucun **pouvoir** des tueurs 1 à 22 n'est modifié au PTB 10.2.0 (VP).
 

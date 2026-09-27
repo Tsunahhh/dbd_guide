@@ -98,7 +98,7 @@ Le mot « infinite » survit dans la communauté pour désigner une loop que le 
 
 > **Note avancée — pool commun et exclusivités** : la page wiki Maze Tiles (non datée) exclut encore certaines tiles de certains royaumes (4-lane absent de Coldwind et Withered Isle, pallet gym absent de Withered Isle, debris / locker / labyrinth / variant gym réservés à quelques royaumes). La note officielle 9.2.0 dit pourtant « Updated all Realms to draw from the same pool of available maze tile layouts ». Conflit **non résolu** : soit la page n'a pas été mise à jour, soit « layouts » désigne des agencements de zones et non des itérations. **Consigne : n'apprends aucune exclusivité de tile par royaume** ; identifie l'itération sur place.
 
-Les loops des cartes **intérieures** (RPD, Midwich, Treatment Theatre, Underground Complex, Lampkin Lane, Badham), qui n'ont pas de maze tiles, ne sont **pas** couvertes par ce chapitre (pages de cartes non lues) : voir le chapitre des cartes.
+Les loops des cartes **intérieures** (RPD, Midwich, Treatment Theatre, Underground Complex, Lampkin Lane, Badham), qui n'ont pas de maze tiles, ne sont **pas** couvertes par ce chapitre (pages de cartes non lues) : voir le chapitre 5.
 
 ### 4.1.4 Densité et sécurité des palettes : 9.2.0 → 9.3.0 → 9.3.2 [FACT] (VP)
 
@@ -257,7 +257,7 @@ Lecture [HEURISTIQUE] :
 
 ### 4.3.2 Ce que change le tueur
 
-Les catégories tombent d'un cran (ou plus) dès que le tueur a un outil sur la porte : **aucune tile n'est god** contre une Nurse, un Blight, un Hillbilly bien équipé, etc. [AVIS D'EXPERT]. La matrice 4.5 donne le sens du déplacement par archétype. Réflexe : **« god contre qui ? »**.
+Les catégories tombent d'un cran (ou plus) dès que le tueur a un outil sur la porte : **aucune tile n'est god** contre une Nurse, un Blight, un Hillbilly (casse à la tronçonneuse en ~1 s avec son pouvoir de base, sans add-on), etc. [AVIS D'EXPERT]. La matrice 4.5 donne le sens du déplacement par archétype. Réflexe : **« god contre qui ? »**.
 
 > **Erreur fréquente** : apprendre « la palette X est god » et la jouer pareil contre tous les tueurs. Contre un Demogorgon, un Oni en Fury ou une Lich, la même palette ne vaut pas la même chose (4.5.2).
 
@@ -323,7 +323,7 @@ Détail : `kb/research/batch7_tiles.md` §3.
 | Red stain | Tache qui fait le tour dehors = il suit → vault. Tache immobile, ou qui sort par une ouverture proche de W = il tient / coupe → pas de vault, jouer P ou repartir dehors. Tache absente (Undetectable) = checkspot à travers W ou une ouverture **avant** de vaulter, pas de vault à l'aveugle. Un tueur expérimenté montre sa tache exprès (moonwalk) |
 | Double-back | Tile de référence : à un angle hors LOS, repartir quand il s'engage sur le long côté. Un double-back vers une W déjà vaultée 2 fois reste possible (le 3e est permis) **si** la sortie est prévue : après, W est bloquée pour toi 30 s |
 | Greed | Point de départ : tant qu'il **suit** dehors, que le test en temps tient pour W et que ton compteur est ≤ 2, garder P levée. Réévaluer **chaque cycle** (santé, pouvoir, palettes restantes, Bloodlust : arbre de décision du chapitre 3) ; un greed toujours au même moment devient prévisible |
-| Pre-drop | Blessé et tueur à portée à l'approche de P ; tueur qui tient l'intérieur ; Bloodlust II-III. **Pouvoir anti-loop prêt : ça dépend du pouvoir** (4.5.3) — rentable si la casse lui coûte (Blight : tokens) ; pre-drop **puis départ immédiat** si son pouvoir punit l'attente (Doctor, Nemesis MR2+, Cannibal) ; contre-productif si la casse est gratuite (Demogorgon Shred, Oni en Fury, Ghoul avec tokens) : garder P pour un stun ou changer de zone |
+| Pre-drop | Blessé et tueur à portée à l'approche de P ; tueur qui tient l'intérieur ; Bloodlust II-III. **Pouvoir anti-loop prêt : ça dépend du pouvoir** (4.5.3) — rentable si la casse lui coûte (Blight : tokens) ; pre-drop **puis départ immédiat** si son pouvoir punit l'attente (Doctor, Nemesis MR2+, Cannibal) ; contre-productif si la casse est gratuite (Demogorgon Shred, Oni en Fury) ou si le tueur la franchit (Ghoul avec tokens : Kagune Leap, le vault déclenchant toutefois son cooldown) : garder P pour un stun ou changer de zone |
 | Abandonner | W bloquée **pour toi** + P cassée ; ou tueur qui tient le centre alors que tu n'as plus de porte sûre. Partir **pendant** la casse de P (2,34 s, caméra basculée [FACT] (SS)) par l'ouverture opposée à lui |
 | Connecter | Repérer la tile suivante **pendant** le 1er cycle. Sous-sol dans le shack = crochet à côté : ne pas finir la chase blessé ici |
 | Tueurs qui changent tout | Nurse (blink à travers les murs) ; Blight (rush ; tokens sur casse depuis 9.6.0) ; Hillbilly / Cannibal (casse 1 s) ; casseurs de palette (4.5.2) ; Lich (Mage Hand **relève** P baissée ou **bloque** P levée 4 s) ; Knight (garde qui chasse : il **contourne** P baissée) ; Good Guy (Scamper 1 s par W ou sous P) ; Trapper (piège à la réception de W ou dans P) ; tueurs à distance : **les murs hauts t'avantagent** ; Bamboozle / Hex: Crowd Control / Cruel Limits (W bloquée pour tous) |
@@ -534,7 +534,7 @@ Lecture [HEURISTIQUE] : une fenêtre à sens unique **n'est pas une loop**, c'es
 
 ### 4.4.10 Main buildings (générique) [Avancé]
 
-Le détail par carte est au chapitre des cartes. Ici, les principes.
+Le détail par carte est au chapitre 5. Ici, les principes.
 
 | Point | Contenu |
 |---|---|
@@ -643,7 +643,7 @@ L'ancienne liste de « casses instantanées » (audit phase 0, ancien guide) ét
 | | Legion | De base, vault en Frenzy | **Iridescent Button** |
 | | Ghoul | De base, vault en Kagune Leap ; casse au 3e bond consécutif | **Iridescent Eye Patch** |
 | | Executioner | Punishment of the Damned | **Obsidian Goblet** |
-| | The First | Undergate Attack | **Shattered Wrist Rocket** |
+| | The First | Undergate Attack | **Shattered Wrist Rocket** ; « seulement avec l'add-on » **(INC)** (casse par la liane citée par le seed : non vérifiable) |
 | **Vault sans casse** | Krasue | Head Form : vault de palette 1,9 s (fenêtre 1,67 s), stun 2,5 s, pas de Bloodlust, **ne casse pas** | Head Form |
 | **Fausses palettes** | Nightmare | Dream Pallets : se brisent au drop mais **peuvent** l'étourdir | Pouvoir |
 | | Doctor | Palettes illusoires | Add-on |
@@ -658,7 +658,7 @@ Contre un tueur qui a un pouvoir sur les palettes, trois situations **différent
 
 1. **La casse lui coûte** (Blight : tokens) → le **pre-drop reste rentable**. Limite : il peut contourner sans casser. Appliquer contre Blight le conseil d'avant 9.6.0 (« éviter le pre-drop ») est une erreur.
 2. **Son pouvoir punit l'attente à la palette** (Doctor, Cannibal, Nemesis MR2+, Mastermind, Lich) → **pre-drop puis départ immédiat** vers la tile suivante, pas « pre-drop puis tenir ».
-3. **La casse est gratuite et un drop tardif n'est pas plus puni** (Demogorgon Shred, Oni en Fury, Ghoul avec tokens, Dark Lord loup) → la palette vaut surtout le **stun** ; la garder levée n'a de sens que si son pouvoir est en recharge ou inutilisable à cet endroit.
+3. **La casse (ou le franchissement) est gratuite et un drop tardif n'est pas plus puni** (Demogorgon Shred, Oni en Fury, Dark Lord loup ; Ghoul avec tokens, qui **franchit** la palette en Kagune Leap sans la casser, le vault déclenchant son cooldown) → la palette vaut surtout le **stun** ; la garder levée n'a de sens que si son pouvoir est en recharge ou inutilisable à cet endroit.
 
 Contre un tueur qui a compris ta réponse par défaut (il attend le pre-drop), **varie**.
 
@@ -671,14 +671,14 @@ Contre un tueur qui a compris ta réponse par défaut (il attend le pre-drop), *
 | Cruel Limits (T) | Chaque gen terminé : **toutes les fenêtres** bloquées 20/25/30 s | (SS) |
 | Zanshin Tactics (T) | Aura des palettes et fenêtres à 32 m ; ton aura 3/4/5 s quand tu baisses une palette | (SS) |
 | I'm All Ears (T) | Aura 8 s d'un survivant qui fait un Rushed Vault à ≤ 48 m ; CD 60/45/30 s | (SS) |
-| Superior Anatomy (T, LIVE 9.0.0) | Rushed Vault à ≤ 12 m de lui → son prochain vault +30/35/40 % ; CD 25 s | (SS, le wiki affiche la version PTB) |
+| Superior Anatomy (T, LIVE 9.0.0) | Vault medium / fast à ≤ 12 m de lui → son prochain vault +30/35/40 % ; CD 25 s | (VM : onglet 9.0.0 du wiki + note 9.0.0 ; la page wiki affiche par défaut la version PTB 10.2.0, non LIVE) |
 | Brutal Strength, THWACK!, Enduring, Spirit Fury (T) | Casse +10/15/20 % ; cri + aura sur casse ; stun −40/45/50 % ; après 4/3/2 casses, la prochaine palette qui l'étourdit est cassée instantanément (le stun a lieu) | (SS) |
 | **Wide Open Throttle** (S, 10.0.1) | Fast vault d'une palette baissée → Haste 10/12,5/15 % 3 s ; la palette est **remise levée et bloquée 60 s**, aura visible par tous ; CD 60 s | (VP) |
 | Five Moves Ahead (S, LIVE 9.5.0) | En poursuite ou dans le TR : **drop de palette 50 % plus rapide** ; aura des 5 palettes et fenêtres les plus proches ; CD 40/35/30 s | (SS) |
 | Any Means Necessary (S) | Relever une palette baissée en 5/4/3 s | (SS) |
 | Lithe / Balanced Landing (S) | Haste 50 % 3 s après un Rushed Vault / une chute ; Exhausted 60/50/40 s | (SS) |
 | Last Stand (S) | Après 120/105/90 s dans le TR sans être poursuivi, un Rushed Vault étourdit le tueur 3 s s'il est à ≤ 2,5 m de la fenêtre ; une fois par partie | (SS) |
-| Windows of Opportunity (S) | Aura des ressources de chase ; **valeurs LIVE non relues** (le wiki affiche la refonte PTB) | **(INC)** |
+| Windows of Opportunity (S) | Auras permanentes des palettes, fenêtres et murs cassables à 24/28/32 m ; **aucun cooldown** en LIVE (le cooldown et la version « fenêtres seulement » affichés par le wiki sont la refonte PTB 10.2.0, non LIVE) | (SS, reconstruit depuis l'historique wiki et le change log 5.3.0) |
 
 Lecture [HEURISTIQUE] :
 - **Bamboozle et Crowd Control** transforment les tiles **à fenêtre seule** (L-T, fenêtres à sens unique) en tiles mortes ; contre elles, les tiles à **palette** gardent leur valeur.
@@ -895,8 +895,7 @@ Détail : `kb/research/batch7_tiles.md` §6.6.
 - **Portée utile de la fente** : ~2-2,5 m, non tranchée. Toutes les tables CALC en dépendent.
 - **Pool commun 9.2.0 vs exclusivités du wiki** : non résolu.
 - **Chien du Houndmaster et palettes baissées** : non résolu (ne pas compter dessus).
-- **Nemesis MR1** et palettes ; **Bloodlust** après stun ou casse de mur ; remise à zéro du compteur de fenêtre entre deux poursuites ; vaults medium / slow dans le compteur : non documentés.
-- **Windows of Opportunity** LIVE : valeurs non relues.
+- **Nemesis MR1** et palettes ; **The First** sans l'add-on Shattered Wrist Rocket ; **Bloodlust** après stun ou casse de mur ; remise à zéro du compteur de fenêtre entre deux poursuites ; vaults medium / slow dans le compteur : non documentés.
 - Origine du critère d'espacement 14/16/18/20 m ; nombre de palettes par carte après 9.3.2 ; portée du son de casse.
 - Hiérarchies « LW > SW », « opened > closed », « T > L » : aucune source experte écrite et datée.
 - Tiles des cartes intérieures (RPD, Midwich, Lampkin Lane…) : non traitées ici.

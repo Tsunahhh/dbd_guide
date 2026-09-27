@@ -208,7 +208,7 @@ Détail : `kb/research/batch9_macro.md` §2.1-2.3, §2.9, §2.11, §7.3, §7.4.
 
 ### Après le décrochage
 
-- **QUOI** [FACT] (VP, 10.1.0) : **Endurance + 10 % de Haste pendant 10 s + Elusive 10 s**. Elusive **ne s'applique plus** une fois tous les gens réparés ; Endurance et Haste **restent** après l'alimentation. Endurance est annulée par toute **action voyante** (réparer, soigner…) [FACT] (SS).
+- **QUOI** [FACT] (VP, 10.1.0) : **Endurance + 10 % de Haste pendant 10 s + Elusive 10 s**. Elusive **ne s'applique plus** une fois tous les gens réparés ; Endurance et Haste **restent** après l'alimentation. Endurance est annulée par toute **action voyante** (réparer, soigner, ouvrir une porte…) [FACT] (SS) ; que l'Elusive le soit aussi est **[INCERTAIN]** (wiki contradictoire) : jouer comme si c'était le cas.
 - **COMMENT** : ces 10 s servent à **casser la ligne de vue et changer de direction** (le tueur ne voit ni traces ni aura, mais il vous voit si vous restez dans son champ). Aucune action voyante pendant l'Endurance. Soin **loin** du crochet.
 
 > **Erreur fréquente** : soigner le décroché sous le crochet (E-D10). Le tueur qui revient trouve deux cibles, dont une qui vient de perdre son Endurance en se faisant soigner.
@@ -376,7 +376,7 @@ Détail : `kb/research/batch9_macro.md` §2.6-2.8, §7.5.
 | Tueur à **coup unique** fréquent (Hillbilly, Cannibal, Oni Blood Fury, Shape en Evil Incarnate via la Slaughtering Strike (VM)) | Soin souvent **non rentable** | L'état de santé ne vaut rien contre l'attaque spéciale | Il garde de la valeur contre ses M1 [SITUATIONNEL] |
 | Tueur à **blessure à distance / statut** (Legion, Plague, Trickster, Krasue…) | **Pas de soin par réflexe** | Il reblesse vite et à distance | Contre Plague, purifier crée des fontaines corrompues ; rester Broken est un compromis, pas une règle |
 | Gen > ~70 % et tueur loin | **Finir le gen**, soigner après | Un gen fini est un acquis définitif | Si le tueur arrive : arbre GEN |
-| Dernier gen, **Adrenaline** dans l'équipe | Le porteur ne se soigne pas | Adrenaline soigne d'un état à l'alimentation [FACT] (SS) | **Terminus** rend Broken à l'alimentation : Adrenaline ne soigne plus [FACT] (SS) |
+| Dernier gen, **Adrenaline** dans l'équipe | Le porteur ne se soigne pas | Adrenaline soigne d'un état à l'alimentation [FACT] (SS) | **Terminus** rend Broken à l'alimentation : Adrenaline ne soigne plus [FACT] (VM) |
 | Perks « blessé » (Resilience 3/6/9 % (VM)…) | Rester blessé est **acceptable** | Bonus d'action | Un seul coup vous met au sol |
 | Le TR arrive pendant le soin | **Par défaut, arrêter et partir** ; si le soin est presque fini (temps restant < arrivée − 2 s), finir | Soin interrompu conservé, sauf **Haemorrhage** (−7 %/s) [FACT] (SS) | Contre un tueur furtif, le TR arrive trop tard |
 | **A Nurse's Calling** possible (28/30/32 m, LIVE 10.1.0 [FACT] (VP)) | Soigner **loin** du tueur ou derrière de la couverture | Auras de soin révélées dans ce rayon | Loadout du tueur caché : c'est une hypothèse à tester |
@@ -596,7 +596,7 @@ Le loadout du tueur est caché jusqu'à la fin [FACT] (VP). Un joueur (souvent l
 | Portes bloquées après un accrochage, une porte déjà ouverte | Blood Warden (40/50/60 s, une fois) | (SS) |
 | Exposed généralisé à l'alimentation | Hex: No One Escapes Death (Haste 2/3/4 %) | (SS) |
 | Broken à l'alimentation, Adrenaline sans soin | Terminus (Broken jusqu'à 35/40/45 s après l'ouverture) | (VM) |
-| Hindered juste après un drop de palette suivi d'une course | Knock Out (> 6 m dans les 6 s, 5 %) | (VM) |
+| Hindered juste après un drop de palette suivi d'une course | Knock Out (> 6 m dans les 6 s : Hindered 5 % 3/4/5 s) | (VM) |
 
 **Suivi des crochets** : quelqu'un tient le compte « A:1, B:2, C:0, D:1 » et le rappelle à chaque accrochage. Il décide qui prend les risques et quand un trade devient inacceptable. Déduction détaillée : `kb/deliverables/PERK_DEDUCTION.md`.
 
@@ -766,7 +766,7 @@ Détail : `kb/research/batch9_macro.md` §8.
 - **Faits** [FACT] (SS) : EGC **120 s**, déclenché par l'ouverture d'une porte **ou** la fermeture de la trappe ; **moitié de vitesse** si un survivant est au sol ou accroché (max 4 min) ; **jamais arrêté** ; gens bloqués.
 - Un allié accroché pendant l'EGC **ralentit le timer** : il reste du temps pour un sauvetage, mais sa phase de 70 s continue de courir.
 - **Fin à 2 survivants** [FACT] (VP / SS) : auto-décrochage possible (4 %) ; **2 skill checks de lutte manqués = sacrifice** ; **tous les survivants restants accrochés en même temps = sacrifice** ; **Mori** possible si l'un est en Struggle et l'autre au sol. Donc :
-  - **ne jamais être mis au sol pendant que l'allié est en Struggle, où que vous soyez** : les sources ne donnent aucune condition de distance pour ce Mori ; la proximité du crochet augmente seulement la probabilité d'être trouvé ;
+  - **éviter à tout prix d'être mis au sol pendant que l'allié est en Struggle, où que vous soyez** (refuser les chases évitables ; si elle est inévitable, la jouer sur le tile le plus fort) : les sources ne donnent aucune condition de distance pour ce Mori ; la proximité du crochet augmente seulement la probabilité d'être trouvé ;
   - tenter le sauvetage **seulement** si le tueur est engagé ailleurs ou loin ; sinon la trappe ne s'ouvrira qu'à la mort de l'autre ;
   - jouer la trappe quand le sauvetage est impossible n'est pas « égoïste » [AVIS D'EXPERT].
 

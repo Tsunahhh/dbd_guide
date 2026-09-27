@@ -8,8 +8,8 @@ Ce chapitre transforme le reste du guide en **plan de travail** : un programme e
 
 Il s'appuie sur :
 - la **base d'erreurs** `E-xx` (E-D débutant, E-I intermédiaire, E-A avancé, E-T très avancé) de `kb/research/batch11_training.md` §1 ;
-- les **arbres de décision** (PALETTE, QUITTER LA TILE, CROCHET, SOIN, GEN, ENDGAME, TRAPPE…) de `kb/deliverables/DECISION_TREES.md` ;
-- les fiches tueurs de `kb/deliverables/KILLER_COUNTERPLAY_HANDBOOK.md` et la perk deduction de `kb/deliverables/PERK_DEDUCTION.md`.
+- les **arbres de décision** (PALETTE, QUITTER LA TILE, CROCHET, SOIN, GEN, ENDGAME, TRAPPE…) de `kb/deliverables/DECISION_TREES.md` (présentés au chapitre 13) ;
+- les fiches tueurs (chapitres 7 et 8, `kb/deliverables/KILLER_COUNTERPLAY_HANDBOOK.md`) et la perk deduction (chapitre 10, `kb/deliverables/PERK_DEDUCTION.md`).
 
 ---
 
@@ -291,7 +291,7 @@ Format : **Objectif · Méthode · Métrique · Erreur typique · Réussite**. T
 | **DR-14 Skill checks / audio** [Débutant] | Ne plus perdre de temps, entendre les signaux | Réglages audio (musique réduite, casque) ; 5 parties en comptant les ratés ; lever la caméra toutes les N s sans rater de check | Ratés / partie (≈ 12 s solo chacun) ; % de Great (info seulement) | Viser le Great au prix de ratés | ≤ 1 raté / partie hors perks de skill check difficiles |
 | **DR-16 HUD SoloQ** [Intermédiaire] | Savoir qui est en chase, au crochet, au sol, sur gen | Loadouts alliés (Match Details) au début ; coup d'œil au HUD ~toutes les 30 s (à chaque skill check, par exemple) + une phrase mentale (« Meg en chase depuis 40 s, Dwight crochet phase 1 à mi-jauge ») | Sauvetages doublés ou manqués ; délai de réaction à un accrochage | Lire le HUD seulement au bruit de crochet | 0 doublon et 0 passage en phase 2 « par oubli » **de ta part** sur 10 parties SoloQ |
 | **DR-17 Horloge mentale** [Débutant→Avancé] | Compter crochets, gens, palettes, Bloodlust | Dire le décompte à chaque accrochage (« Claudette 2, moi 1, gens : 3 restants ») ; en chase, compter depuis le dernier coup / casse (15 / 25 / 35 s) ; vérifier en fin | Erreurs de comptage ; décisions prises sur un compte faux | Ne compter que soi | Compte juste à chaque accrochage sur 5 parties |
-| **DR-18 Soin** [Intermédiaire] | Soigner quand c'est rentable (arbre SOIN) | Avant chaque soin, dire « oui / non / plus tard » + raison ; noter le coût (16 s × 2) et ce qui arrive dans les 60 s | Soins interrompus ; perdus dans les 30 s ; contre coup unique | Soigner sous le crochet ; se regrouper à 3 pour un soin (2 soigneurs max selon le wiki, 3 selon le seed [INCERTAIN]) | < 20 % inutiles sur 10 parties, **lu avec** les mises au sol blessé sans raison |
+| **DR-18 Soin** [Intermédiaire] | Soigner quand c'est rentable (arbre SOIN) | Avant chaque soin, dire « oui / non / plus tard » + raison ; noter le coût (16 s × 2) et ce qui arrive dans les 60 s | Soins interrompus ; perdus dans les 30 s ; contre coup unique | Soigner sous le crochet ; se regrouper à 3 pour un soin (**2 soigneurs max en 1v4** [FACT] (VM) ; le « 3 » du seed est la règle du 2v8) | < 20 % inutiles sur 10 parties, **lu avec** les mises au sol blessé sans raison |
 | **DR-19 Revue de partie** [Débutant→Expert] | Transformer chaque partie en information | Méthode et gabarit de 14.6 | Erreurs classées par ID ; 1 erreur focus / semaine | Ne revoir que les défaites ; juger au résultat | 1 revue complète pour ~5 parties ; erreur focus en baisse sur 2 semaines |
 
 > **Erreur fréquente — DR-16** : compter les oublis des coéquipiers. Le critère ne compte que **tes** oublis : tu étais le mieux placé et tu n'as pas bougé. Note aussi que le contenu exact du HUD survivant (icônes d'action, jauge de crochet, indicateur de chase) **n'est pas documenté** dans les sources du guide [INCERTAIN], et que le Survivor Intent System du PTB 10.2.0 (non LIVE) changerait ce drill s'il sortait.
@@ -569,7 +569,7 @@ Détail : `kb/research/batch11_training.md` §5.1-5.4 ; `kb/deliverables/TRAININ
 - Pièges vérifiés : biais de résultat [ ] · biais rétrospectif [ ] · latence [ ] · coéquipiers/tueur accusés à tort [ ] · inaction récompensée [ ]
 ````
 
-> **Note avancée — la colonne « Tueur à < 16 m ? »** : 16 m est le rayon de la zone anti-camp [FACT] (VM) ; rien ne se remplit au-delà, et le poids décroît avec la distance. Le taux de base de remplissage depuis 9.3.0 est **inconnu** [INCERTAIN] : la colonne sert à classer le contexte du sauvetage, pas à calculer un temps de libération.
+> **Note avancée — la colonne « Tueur à < 16 m ? »** : 16 m est le rayon de la zone anti-camp [FACT] (VM) ; rien ne se remplit au-delà, et le poids décroît avec la distance. Ordre de grandeur (calcul SS, ±10 %, tueur immobile, aucun autre survivant proche) : tueur collé (≤ 4 m) → auto-décrochage ≈ 29,5 s après l'accrochage ; à 10 m ≈ 44,5 s ; à 15 m, pas avant la fin de la phase. La colonne sert d'abord à classer le contexte du sauvetage ; ces temps ne sont qu'un repère.
 
 Détail : `kb/research/batch11_training.md` §5.5 et §6 ; `kb/deliverables/TRAINING_PROGRAM.md` §5-6.
 
@@ -635,12 +635,12 @@ Détail : `kb/research/batch11_training.md` §4.3 ; `kb/deliverables/TRAINING_PR
 | **Aucun seuil calibré** : le calibrage demandé par l'audit (M-01, M-03, M-05, M-09, M-11 relevés sur 30 parties : 10 SoloQ à MMR supposé bas, 10 SoloQ, 10 SWF) n'a pas été fait | Les seuils peuvent être trop durs ou trop faciles pour toi |
 | **Grille « coup évitable » (M-05)** : accord entre deux relecteurs non testé | Deux personnes peuvent compter différemment la même VOD |
 | **Pas de drill sur les objets** (lampe, toolbox, med-kit), les **casiers**, les **saves** (flash save, pallet save, sabotage, body block) | Programme incomplet côté SWF et saves |
-| Portée de fente, durée d'abaissement d'une palette, effet d'un stun sur la Bloodlust, taux de base de l'anti-camp **inconnus** | DR-12, DC-02, DC-03 et l'arbre PALETTE ne sont pas pleinement quantifiables |
+| Distance de fente, durée d'abaissement d'une palette, effet d'un stun sur la Bloodlust **inconnus** ; remplissage de l'anti-camp seulement **calculé** (SS, ±10 %) | DR-12, DC-02, DC-03 et l'arbre PALETTE ne sont pas pleinement quantifiables |
 | **HUD survivant** non documenté (icônes d'action, jauge de crochet, indicateur de chase) | DR-16, M-02, M-19 reposent sur une lecture [INCERTAIN] |
 | **KYF / parties personnalisées** : options non vérifiées | Les variantes KYF supposent des réglages non confirmés |
 | **Pratique délibérée** : principe général, aucune étude propre à DBD | Le cadre lui-même est une [HYPOTHÈSE] raisonnable |
 | **Reset MMR 10.1.0** [INCERTAIN] | Une base mesurée depuis le 25/08/2026 peut dériver |
-| **Vitesse du tueur portant (3,68 m/s)** [INCERTAIN] et efficacité de réparation (0,8 vs 1 selon les sources) | M-19 et DC-08 sont des **plafonds** |
+| Vitesse du tueur portant **3,68 m/s** (SS) ; efficacité de réparation **supposée** (0,8 dans le modèle du lot 6, 1 ailleurs : [HYPOTHÈSE]) | M-19 et DC-08 sont des **plafonds** |
 | **Programme survivant seulement** | Pas de programme tueur symétrique (DR-20 n'est qu'un drill de compréhension) |
 | **PTB 10.2.0 (non LIVE)** : Survivor Intent System, refonte d'Abandon | Changerait DR-16, les critères SoloQ et la gestion au sol : **à revoir à sa sortie LIVE** |
 

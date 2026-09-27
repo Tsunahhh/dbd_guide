@@ -135,7 +135,7 @@ Détail : `kb/research/batch4_killers_g4.md` §23.
 | Ne-α Parasite | Oblivious 60 s après contamination | Surveiller visuellement au lieu de se fier au TR |
 | Licker Tongue | Hindered porté à 3 s | Éviter la première touche près d'un mur |
 
-**Perk à connaître** : **Eruption** LIVE = **−10 %** (la valeur −5 % était le PTB 9.2.0, reporté) (VM).
+**Perk à connaître** : **Eruption** LIVE = **−10 %** (VM) : le passage à −5 % annoncé pour 9.2.0 a été **reporté** (« Postponed ») et n'est jamais entré en LIVE.
 
 Détail : `kb/research/batch4_killers_g4.md` §24.
 
@@ -165,7 +165,7 @@ Détail : `kb/research/batch4_killers_g4.md` §24.
 
 - **Mécanique** : casser la LOS vers le portail ; arracher les chaînes (1 s chacune) dès qu'il ne peut pas punir. Se faire lier en arrivant sur une tile = coup quasi gratuit : vaulter tôt ou changer de tile avant qu'il ait la trajectoire.
 - **Positionnel** : se déplacer de tile en tile en longeant le décor.
-- **Macro** : **un seul** survivant gère la boîte, loin du tueur, et la résout avant les 90 s. Coût : le porteur est Oblivious et ne répare pas. Ne jamais la laisser traîner près de lui (3 chaînes sur tous s'il la ramasse).
+- **Macro** : **un seul** survivant gère la boîte, loin du tueur, et la résout avant les 90 s. Coût : le porteur est Oblivious et ne répare pas. Éviter de la laisser traîner près de lui (3 chaînes sur tous s'il la ramasse).
 - **Équipe** : SWF = désigner le porteur au vocal. SoloQ = si un coéquipier va vers la boîte ou la porte, ne pas y aller aussi ; si personne ne la prend et qu'elle est près de toi, la prendre plutôt qu'attendre le Chain Hunt.
 - **Endgame** : arracher les chaînes **avant** d'arriver à l'interrupteur (portes bloquées enchaîné + 5 s) [FACT].
 
@@ -378,7 +378,7 @@ Détail : `kb/research/batch4_killers_g4.md` §28.
 | Maiden Medallion / Uroboros Virus | Blindness 60 s / aura 4 s en infection critique | Se soigner avant 100 |
 | Helicopter Stick / Bullhorn | Aura 8 s / Oblivious 30 s après un spray | Utiliser le spray loin de sa zone de réparation |
 
-**Perk à connaître** : **Superior Anatomy** LIVE = son prochain vault de fenêtre plus rapide après ton fast vault à ≤ 12 m, cooldown 25 s ; le texte du wiki (30/35/40 %, 20 s) est le **PTB 10.2.0 — non LIVE**.
+**Perk à connaître** : **Superior Anatomy** LIVE = après ton vault rapide (ou moyen) à ≤ 12 m de lui, son **prochain** vault est 30/35/40 % plus rapide (un seul vault), cooldown 25 s (VM) ; l'effet actif pendant 10 s avec un cooldown de 20 s affiché par le wiki est le **PTB 10.2.0 — non LIVE**.
 
 Détail : `kb/research/batch4_killers_g4.md` §29.
 
@@ -876,7 +876,7 @@ Détail : `kb/research/batch4_killers_g6.md` §39.
 | Faz-Coin | La hache émet une copie de son TR ; +10 s d'Undetectable | Localiser la source : le TR peut venir de la hache |
 | Loot Bag | Hache plantée = portes bloquées pour le porteur et à ≤ 12 m | En endgame, retirer la hache avant la porte ; les autres restent à > 12 m |
 
-**Perk à connaître** : Haywire → ne pas lâcher une porte de sortie à 80 %+ sans nécessité. Help Wanted : la page affiche le texte PTB 10.2.0, valeur LIVE non relue **[INCERTAIN]**.
+**Perk à connaître** : Haywire → ne pas lâcher une porte de sortie à 80 %+ sans nécessité. Help Wanted LIVE : un kick rend **un seul** gen « compromis » ; s'il est terminé par les survivants, récupération après un coup réussi +25 % pendant 40/50/60 s (VM, reconstruit depuis la note 559) ; les 3 gens compromis et les 100/110/120 s affichés par le wiki sont le **PTB 10.2.0 — non LIVE**.
 
 Détail : `kb/research/batch4_killers_g6.md` §40.
 
