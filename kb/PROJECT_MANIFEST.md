@@ -32,7 +32,7 @@
 | `kb/ledgers/TODO_RESEARCH.md` | File de lots + prochain lot exact | tenue à jour |
 | `kb/ledgers/SOURCE_LEDGER.md` | Sources | tenue à jour |
 | `kb/ledgers/CHANGELOG.md` | Historique du projet | tenue à jour |
-| `kb/deliverables/` | Livrables §51 : `PERK_DATABASE.md` (§51-5), `PERK_DEDUCTION.md` (§10), `KILLER_COUNTERPLAY_HANDBOOK.md` (§51-3) | en construction |
+| `kb/deliverables/` | Livrables §51 : `QUICK_REFERENCE.md` (§51-2), `KILLER_COUNTERPLAY_HANDBOOK.md` (§51-3), `PERK_DATABASE.md` (§51-5), `TRAINING_PROGRAM.md` (§51-6), `DECISION_TREES.md` (§51-7), `PERK_DEDUCTION.md` (§10). Manquent : MASTER GUIDE (§51-1), MAP & LOOP HANDBOOK (§51-4, lots 7-8). SOURCE LEDGER, CHANGELOG, OUTDATED REPORT, OPEN QUESTIONS sont dans `kb/ledgers/` | en construction |
 | `kb/ledgers/BATCH_2_4_SYNTHESIS.md` | Bilan lots 2-4, erreurs du seed PROUVÉ/PROBABLE/SUSPECT, 58 conflits, file de re-vérification | fait |
 | `kb/research/batch6/9/11_*.md` | Brouillons sans web (chase, macro, entraînement) | WRITTEN + AUDITED (sans web) |
 | `kb/audit/pass14_*.md` | Rapports des audits adversariaux §25-26 | fait (27/09) |
