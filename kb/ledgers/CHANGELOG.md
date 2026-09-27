@@ -29,4 +29,4 @@
 2. **Lot 12a — re-vérification** : dérouler la file de `BATCH_2_4_SYNTHESIS.md` §5 dans l'ordre (P0-A notes de patch → P0-B valeurs décisionnelles et erreurs suspectes → P1 perks méta → P2), en mettant à jour les fiches `batch*` concernées (remplacer « NON RE-VÉRIFIÉ » par la valeur + confiance) et les livrables. Budget : ≤ 180 recherches (quota 200/session). **Ne pas lancer plus de 3-4 agents web en parallèle** : ils partagent le quota.
 3. Si l'accès web complet est rétabli (domaines autorisés), relire les pages wiki.gg / notes officielles au lieu des résumés et relever la confiance.
 4. Puis lot 5 (objets/add-ons/offrandes/techniques de save), lot 7 (tiles), lot 8 (cartes), en appliquant `TODO_RESEARCH.md`.
-5. Audits adversariaux (§25-26) sur les brouillons des lots 6, 9, 11.
+5. Audits adversariaux (§25-26) des fiches des lots 2-4 (les lots 6, 9, 11 et les livrables sont faits), puis audits de couverture (§28-30) et de praticité (§27).
