@@ -201,26 +201,36 @@ Limites :
 
 ### La condition de loop sûre se compare en TEMPS, pas en mètres
 
-C'est la correction la plus importante de l'audit pass 14 (P03). L'intuition « mon trajet est plus court que le sien, et la différence dépasse la fente » est **fausse**, parce qu'elle oublie qu'il court plus vite que toi.
+C'est la correction la plus importante des audits pass 14 (lot 6, P03 ; précisée par l'audit du lot 7). L'intuition « mon trajet est plus court que le sien, et la différence dépasse la fente » est **fausse** pour deux raisons : elle oublie qu'il court plus vite que toi, et elle oublie le **temps où tu es immobile dans la « porte »** (fenêtre, palette) pendant qu'il continue d'avancer.
 
-Condition correcte (CALC ; fente INC) :
+Condition correcte (CALC ; fente et durée de drop INC) — tu dois avoir **fini** de franchir la porte avant qu'il soit en portée de fente :
 
 ```
-Boucle sûre si :   ton trajet × (v_tueur / 4,0)  <  son trajet − portée de fente
+trajet_S / 4,0  +  t_porte_S   <   (trajet_K − fente) / v_K  +  t_porte_K
 
-  v_tueur / 4,0 = 1,15 contre un 4,6   |   1,10 contre un 4,4
-  + environ 0,2 m par seconde de trajet et par palier de Bloodlust
+t_porte_S (toi, immobile) : fast vault 0,5 s | medium 0,9 s | vault de palette 1,1 s
+                            drop de palette : durée non documentée (INC)
+t_porte_K (tueur)         : 0 s'il contourne | 1,7 s s'il suit par la fenêtre | 2,34 s s'il casse
+v_K                       : 4,6 ou 4,4 m/s + Bloodlust        fente utile : ~2-2,5 m (INC)
 ```
 
-**Exemple** : ton trajet 10 m, le sien 13 m, fente 2,5 m.
+**Traduit en mètres** (multiplier par `v_K`), le trajet du tueur doit dépasser le tien de :
+- **+15 %** (4,6) ou **+10 %** (4,4) ;
+- **+ la fente** (~2-2,5 m) ;
+- **+ ~0,2 m par seconde de trajet et par palier de Bloodlust** ;
+- **+ `v_K × t_porte_S`** : ≈ **2,3 m** pour un fast vault (2,2 m contre un 4,4), ≈ 4,1 m pour un medium vault, ≈ **5,1 m** pour un vault de palette (4,8 m contre un 4,4).
+
+**Exemple** : ton trajet 10 m jusqu'à une fenêtre, le sien 13 m (il contourne), fente 2,5 m, tueur 4,6 sans Bloodlust.
 - Intuition en mètres : 13 − 10 = 3 m > 2,5 m → « sûr ».
-- Calcul en temps : il dispose de 13 − 2,5 = **10,5 m** ; il lui en faut 10 × 1,15 = **11,5 m** (4,6) ou 11 m (4,4) → **pas sûr**. Il faudrait que son trajet dépasse ≈ 14 m (4,6) ou 13,5 m (4,4), sans Bloodlust.
+- En temps : toi 10 / 4,0 + 0,5 = **3,0 s** ; lui (13 − 2,5) / 4,6 ≈ **2,3 s** → **pas sûr**, il est en portée pendant ton vault.
+- Trajet tueur nécessaire : > 3,0 × 4,6 + 2,5 ≈ **16,3 m** (≈ 15,7 m contre un 4,4). Sans compter la porte, on aurait trouvé 14 m : c'est exactement l'écart entre une fenêtre « safe » et une fenêtre où l'on prend le coup en plein vault.
+- Même trajet mais porte = vault de palette baissée (1,1 s) : il faut > ≈ 19,1 m de trajet tueur (≈ 18,3 m contre un 4,4).
 
-> **Erreur fréquente** : greeder un tile qui « a l'air » sûr parce que tu passes par l'intérieur. Sur un cycle de 10 m, un 115 % récupère 1,5 m ; à Bloodlust max, il en récupère 3.
+> **Erreur fréquente** : greeder un tile qui « a l'air » sûr parce que tu passes par l'intérieur. Sur un cycle de 10 m, un 115 % récupère 1,5 m par la vitesse, 2,3 m de plus pendant ton fast vault, et encore 2 m à Bloodlust max.
 
-En jeu, personne ne mesure les trajets au mètre près : l'usage pratique est de **garder une marge** [HEURISTIQUE], et de savoir que cette marge fond à chaque palier de Bloodlust.
+En jeu, personne ne mesure les trajets au mètre près : l'usage pratique est de **garder une marge** [HEURISTIQUE], de savoir que chaque porte « coûte » quelques mètres, et que la marge fond à chaque palier de Bloodlust.
 
-Détail : `kb/research/batch6_chase_tech.md` §2, T11, T18 ; `kb/audit/pass14_lot6_chase.md` (P01, P03).
+Détail : `kb/research/batch6_chase_tech.md` §2, T11, T18 ; `kb/research/batch7_tiles.md` §2.1 ; `kb/audit/pass14_lot6_chase.md` (P01, P03) ; `kb/audit/pass14_lot7_tiles.md`.
 
 ---
 
@@ -361,5 +371,158 @@ F. La Bloodlust est-elle haute ?
 - **EXERCICE « Horloge de Bloodlust »** : compte à voix haute depuis le début de chase, reset à chaque coup / casse / pouvoir. Métrique : écart avec la VOD. Réussite : palier correct dans ≥ 90 % des vérifications sur 10 chases.
 
 Détail : `kb/research/batch6_chase_tech.md` T01-T06 ; Blight : `kb/research/batch4_killers_g3.md` §21 ; palettes et pouvoirs : `kb/research/batch7_tiles.md` §5.2.
+
+---
+
+## 3.4 L'information en chase : poursuite, LOS, tache rouge, caméra, animation, son
+
+### T07 — Début / fin de poursuite, ligne de vue (LOS), chase break [Intermédiaire]
+
+- **QUOI** : la « poursuite » est un **état du jeu** (musique de chase, Bloodlust, perks de chase), distinct du fait d'être suivi. Le chase break consiste à sortir de cet état ou à se faire perdre.
+- **POURQUOI** [FACT] (SS) : début quand tu es dans son champ de vision à ≤ 12 m, que tu cours et qu'il se déplace ; fin au-delà de 18 m, après 5 s dans un casier, après > 8 s sans LOS, ou hors ±35° du centre de son FOV (temporisation INC). Le tueur n'entend pas son propre TR. Les griffures n'apparaissent qu'en course et vivent 10 s. Depuis 9.6.0, le tueur est révélé à tous dès la 1re poursuite (VP).
+- **QUAND** : casser la LOS derrière des murs hauts, dans le maïs ou un bâtiment, puis **marcher** (pas de griffures) ou s'accroupir ; utile contre un tueur sans info d'aura et pour faire régresser la Bloodlust.
+- **COMMENT** : casse la LOS, fais encore 1-2 s de course pour sortir de sa ligne probable, puis passe en marche ; choisis un endroit avec deux sorties.
+- **CONTRE** : suivre griffures, flaques et grognements ; couper vers la sortie logique ; vérifier les casiers proches ; perks d'aura.
+- **CAS D'ÉCHEC** :
+  - courir après la perte de LOS (10 s de griffures te trahissent) ;
+  - tu es blessé sans Iron Will ni Elusive (grognements, sang) ; le tueur a une info d'aura ;
+  - entrer dans un casier sous ses yeux ; t'arrêter dans un cul-de-sac ;
+  - croire que la musique de chase qui s'arrête = tueur parti (il regarde peut-être juste ailleurs : condition d'angle).
+
+> **Erreur fréquente** : la statistique du seed « un survivant perdu près d'un casier y est 1 fois sur 3 » n'est pas mesurable. Ne l'utilise pas.
+
+- **EXERCICE « 8 secondes »** : à chaque perte de LOS derrière un mur haut, choisis : marcher 3-5 s puis t'accroupir, ou continuer à courir ; note le résultat. Métrique : % de pertes de LOS converties en fin de poursuite ; secondes gagnées avant la reprise. Réussite : sur 20 cas, savoir dire quand marcher bat courir (avec vs sans info d'aura du tueur).
+
+### T08 — Tache rouge (red stain) : lecture et moonwalk [Intermédiaire]
+
+- **QUOI** : la lumière rouge projetée par la tête du tueur. Le **moonwalk** est la technique du tueur qui marche à reculons ou de côté pour que la tache indique une fausse direction.
+- **POURQUOI** : [FACT] (SS) la tache vient de la tête, dans la direction où il **regarde et se déplace** ; il ne la voit pas ; Undetectable la supprime ; le wiki décrit la marche à reculons ou de côté autour des murs comme technique pour tromper. [HYPOTHÈSE] (déduite de cette description) : la tache suit surtout le **regard** ; quand regard et déplacement divergent, l'information ment. [INCERTAIN] : effet de regarder vers le bas, vitesse en marche arrière.
+- **QUAND** : quand tu n'as pas la LOS sur le corps mais vois la tache dépasser d'un mur ; pour repérer un tueur qui attend derrière un coin (tache immobile ou qui balaie) ; combinée au TR et aux pas pour trianguler.
+- **COMMENT** : utilise la tache pour **savoir où regarder**, puis décide sur le **corps** (checkspot, T14) ou sur les pas. Si tu ne peux pas voir le corps, reste à une position qui couvre les deux options (option coverage, 3.8).
+- **CONTRE** : moonwalk autour des murs hauts, balayage de caméra, attente immobile, Undetectable.
+- **CAS D'ÉCHEC** :
+  - tueurs Undetectable ou furtifs (Ghost Face, Wraith, Pig accroupie, Myers selon le palier) : pas de tache ;
+  - se fier à la tache quand tu as la LOS sur le corps (le corps est l'info fiable) ;
+  - croire qu'une tache qui disparaît = tueur parti ;
+  - te retourner pour chercher la tache au lieu d'écouter les pas.
+- **EXERCICE « Tache vs corps »** : avec un ami tueur, 20 boucles sur un jungle gym à murs hauts ; il moonwalke ou non au hasard (tirage noté avant chaque boucle). Métrique : % de lectures correctes ; coups reçus sur un moonwalk. Réussite : ≥ 75 % de lectures correctes et 0 coup sur les 10 dernières boucles.
+
+### T14 — Caméra, checkspots et information pendant la chase [Avancé]
+
+- **QUOI** :
+  - **Caméra en chase** : orienter la caméra vers le tueur tout en continuant à courir dans la bonne direction.
+  - **Checkspot** : point du trajet où tu vois le tueur (trou dans un mur, fenêtre, muret, angle) **sans dévier** et sans perdre de distance.
+- **POURQUOI** : toute décision (vaulter, jeter, double-back, partir) dépend de la position du tueur. Sans info, chaque décision est un 50/50 ; avec info, tu joues l'option sûre. Mais regarder derrière coûte : dévier, heurter le décor, rater l'approche droite d'un fast vault (≥ 2,5 m, SS). Le compromis : regarder **aux bons endroits** plutôt que souvent.
+- **QUAND** [HEURISTIQUE] :
+  - **avant chaque point de décision** (~1 s avant une fenêtre, une palette, un coin où un double-back est possible) : **un check par décision**, c'est la règle principale ;
+  - en ligne droite : un check bref (≤ 0,5 s) seulement si le trajet devant est dégagé et mémorisé ; sinon écouter ;
+  - à la perte de LOS du tueur : un check pour savoir s'il suit ou coupe ;
+  - dès que le son change (TR qui monte ou baisse brusquement, pas qui s'arrêtent, bruit de pouvoir) ;
+  - fréquence : plus le tueur est proche et le tile court, plus les checks sont fréquents mais brefs ; en longue ligne droite contre un M1 lointain, presque aucun.
+- **COMMENT garder le pathing en regardant derrière** :
+  - mémoriser les **2 prochains points de passage** avant de tourner la caméra ;
+  - regarder seulement sur des segments droits et dégagés, jamais dans un virage serré ni à l'approche d'un fast vault ;
+  - utiliser les checkspots naturels du tile : ils donnent l'info sans tourner la tête ;
+  - revenir face à la route **avant** d'arriver à 2,5 m de la fenêtre.
+- **CONTRE** : jouer sur ce que tu vois (fausse direction, moonwalk, attente hors LOS) ; se placer là où tes checkspots ne montrent rien ; Undetectable.
+- **CAS D'ÉCHEC** :
+  - tueurs à distance (Huntress, Deathslinger, Trickster…) : regarder derrière dans l'open est souvent nécessaire pour esquiver mais te fait perdre la ligne ;
+  - tueurs furtifs : tache et TR mentent ou manquent, la caméra devient ta seule info ;
+  - tueurs à mobilité (Blight, Nurse) : l'info de dernière seconde décide de tout ;
+  - regarder « par anxiété » à chaque seconde, ou ne jamais regarder (le seed « tenez droit sans vous retourner » est juste en ligne droite, faux sur les tiles) ;
+  - heurter un obstacle ou rater un fast vault en regardant.
+- **EXERCICE « Drill caméra »** : partie personnalisée, 10 tours de jungle gym ; à chaque tour, exactement 1 check avant la fenêtre et 1 avant la palette ; un ami tueur note tes positions. Métrique : accrochages, vaults non rapides, checks au bon endroit. Réussite : 0 accrochage et 100 % de fast vaults sur 10 tours, puis pareil en partie réelle sur 5 chases.
+
+### T15 — Lecture d'animation [Intermédiaire]
+
+- **QUOI** : déduire l'action du tueur de son animation avant qu'elle produise son effet.
+- **POURQUOI** : chaque action a une durée connue [FACT] (casse 2,34 s, vault tueur 1,7 s, cooldowns 2,7 / 1,5 s). Reconnaître le **début** d'une action te donne tout son temps pour réagir :
+
+| Animation vue | Temps garanti | Réaction |
+|---|---|---|
+| Début de casse (coup de pied) | 2,34 s | **Partir**, ne pas regarder |
+| Début du vault du tueur | 1,7 s | Revaulter ou changer de côté |
+| Essuyage après un coup | 2,7 s | Rejoindre un tile |
+| Levée de l'arme / début de fente | — | Esquive latérale ou obstacle |
+| Charge, visée, posture de pouvoir | selon le tueur | voir chapitre des tueurs |
+
+- **QUAND** : dans tout duel rapproché ; pour savoir s'il casse ou feinte (T17).
+- **COMMENT** : une action lancée = une décision prise ; réagis à l'**action**, pas au mouvement de caméra.
+- **CONTRE** : ne lancer l'action qu'une fois sa décision sûre ; attendre hors de ta vue.
+- **CAS D'ÉCHEC** : réagir à une fausse avance (qui n'est pas encore une action) ; rester à regarder la casse ; confondre le recul d'un stun et une casse ; la latence décale légèrement ce que tu vois (valeur INC). Qu'une casse lancée soit annulable ou non est [INCERTAIN].
+- **EXERCICE « Nommer l'animation »** : en VOD, pause au premier frame de chaque action du tueur et nomme-la. Réussite : ≥ 90 % sur 50 actions, puis vérifier en partie que tu **pars** dans les 0,3 s après un début de casse.
+
+### T16 — Lecture sonore [Intermédiaire]
+
+- **QUOI** : situer le tueur et comprendre ses actions sans le regarder.
+- **POURQUOI** : [FACT] (SS) TR à paliers (32 / 24 m à l'origine, nombreuses exceptions) ; musique de chase ; lullabies non affectées par Undetectable ; stinger de fin d'Undetectable ; fast vault et vault rapide de palette bruyants, slow vault et vault lent de palette silencieux ; corbeaux (4 m). Autres sons utiles [HEURISTIQUE] : pas et souffle du tueur, sons de pouvoir, casse, coup raté. Tes propres grognements quand tu es blessé (portée INC, réduits par Iron Will).
+- **QUAND** : dès que regarder coûte trop (ligne droite, approche d'un fast vault) ; contre les tueurs furtifs ; pour savoir s'il casse sans te retourner.
+- **COMMENT** : casque ; distinguer TR (battement) et musique de chase ; associer chaque son à une durée (« bruit de casse → 2,34 s »).
+- **CONTRE** : Undetectable, marche silencieuse, feinte de départ (TR qui baisse puis revient).
+- **CAS D'ÉCHEC** : absence de TR = tueur loin (erreur classique contre Ghost Face) ; perks ou add-ons qui modifient le TR ; oublier que tes propres fast vaults te trahissent hors LOS ; son mal localisé sans casque.
+- **EXERCICE « Yeux fermés au TR »** : un ami tueur se place ; annonce direction et distance sans le regarder. Réussite : direction correcte à ±45° dans ≥ 80 % des essais.
+
+Détail : `kb/research/batch6_chase_tech.md` T07, T08, T14-T16.
+
+---
+
+## 3.5 Techniques de tile : double-back, mindgames, pathing, coins, feintes
+
+### T09 — Double-back [Intermédiaire]
+
+- **QUOI** : faire demi-tour brusquement (souvent juste après être sorti de sa LOS) pour exploiter son engagement dans l'autre sens.
+- **POURQUOI** : le tueur doit engager son trajet avant de savoir où tu vas ; chaque changement de sens lui fait refaire une partie du tile. Mais il récupère 0,4-0,6 m **par seconde** de trajet (1,0-1,2 m/s à Bloodlust max) : un détour de 4 m est compensé en ≈ 7-10 s sans Bloodlust, ≈ 3-4 s à Bloodlust max (CALC). **Le double-back paie sur un cycle court**, beaucoup moins sur une longue boucle. Hors LOS, il brouille aussi les griffures (elles restent 10 s sur les deux trajets).
+- **QUAND** : tueur engagé loin dans l'autre sens ; tiles à murs hauts (shack, jungle gym) ; il te suit à la trace plutôt qu'à la vue ; il « précommande » un mindgame.
+- **COMMENT** : double-back **sur une info** (tache, pas, corps vu à un checkspot), jamais à l'aveugle ; varier les endroits.
+- **CONTRE** : couper par le centre du tile ; s'arrêter à un point qui couvre les deux sorties ; faire son propre demi-tour ; tache rouge utilisée pour faire croire à un engagement.
+- **CAS D'ÉCHEC** : il a la LOS ; murs bas ; tueur à distance ou mobilité (un demi-tour prévisible offre un tir ou un blink ; contre une Nurse experte il devient lisible) ; double-back vers une fenêtre déjà vaultée 2 fois ; toujours au même endroit (appris en 1-2 boucles) ; sans info (tu cours dans ses bras).
+- **EXERCICE « Double-back sur info »** : 10 parties, chaque double-back noté avec l'info qui l'a motivé. Réussite : ≥ 80 % sur info, ≥ 60 % réussis.
+
+### T10 — Mindgames et 50/50 [Avancé]
+
+- **QUOI** : situation où chacun doit choisir sans connaître le choix de l'autre (continuer / revenir ; vaulter / attendre ; respecter / pousser).
+- **POURQUOI** : sur un tile « mindgamable », il existe au moins deux trajets pour chacun et aucun ne domine ; le résultat dépend de la **prédiction**, pas de la vitesse. Un bon mindgame survivant **réduit** le 50/50 : tu cherches la position où plusieurs options restent sûres même en cas de mauvaise lecture.
+- **QUAND** : plus de palette sûre, et tile assez long pour qu'une bonne lecture rapporte un cycle entier ; tu as une info (checkspot, tache, son) que le tueur n'a pas ; équipe en retard qui a besoin de variance (3.8).
+- **COMMENT** : observer ses habitudes sur les 2-3 premières boucles ; décider au dernier moment utile ; ne pas choisir 3 fois de suite la même option.
+- **CONTRE** : varier ses choix, te lire sur les premières boucles, se placer pour couvrir deux options, Undetectable, moonwalk.
+- **CAS D'ÉCHEC** : tile safe (inutile de prendre un risque) ; dernier état de santé sans raison ; tueur à pouvoir qui couvre les deux options ; mindgame « pour le style » ; réagir à chaque mouvement de caméra ; attendre trop longtemps (la Bloodlust monte).
+- **EXERCICE « Journal de 50/50 »** : note chaque 50/50 (option, info disponible, résultat). Réussite : jamais plus de 3 fois de suite la même option ; taux de réussite **avec** info nettement au-dessus de 50 %.
+
+### T11 — Pathing : sur et entre les tiles [Intermédiaire]
+
+- **QUOI** : le choix du chemin — quel côté du tile, où entrer, où sortir, vers quel tile suivant.
+- **POURQUOI** : un loop fonctionne quand tu as **fini de franchir la porte** (fenêtre, palette) avant qu'il arrive à portée de fente. La condition se compare en temps (3.2) : `trajet_S / 4,0 + t_porte_S < (trajet_K − fente) / v_K + t_porte_K` — en mètres, son trajet doit dépasser le tien de 15 % (10 %), plus la fente, plus ≈ 2,3 m par fast vault ou ≈ 5 m par vault de palette, plus la Bloodlust. Le pathing consiste à garder cette marge **face à tous ses trajets possibles**. Deux **palettes** sont espacées d'au moins 14-20 m [FACT] (SS) : une transition de palette à palette coûte au moins 3,5-5 s de course (CALC) ; une transition vers une fenêtre peut être plus courte.
+- **QUAND** : toujours ; surtout en début de chase (choisir la zone la plus riche) et en fin de tile (transition).
+- **COMMENT** : connaître le tile suivant **avant** d'en avoir besoin ; entrer dans un tile par le côté qui te laisse le choix ; en SoloQ, surveiller les palettes utilisées par l'équipe.
+- **CONTRE** : te pousser vers une zone vide (zoning, 3.8) ; bloquer l'entrée du tile suivant ; casser les palettes de transition.
+- **CAS D'ÉCHEC** : pathing « parfait » sur un tile qui mène à une dead zone ; ramener la chase vers les gens de tes alliés ou un crochet proche ; courir au milieu des couloirs (trajet plus long) ; se bloquer dans le décor.
+- **EXERCICE « Carte mentale »** : pendant chaque chase, annonce « suivant : X » dès que tu arrives sur un tile. Réussite : 100 % des transitions annoncées, 0 transition vers une dead zone non choisie sur 10 parties.
+
+### T12 — Cornering et T13 — Hugging [Intermédiaire]
+
+Deux techniques sœurs : **prendre les coins au plus serré** (cornering) et **longer les murs au plus près** (hugging).
+
+- **QUOI** : raccourcir ton trajet et casser la LOS le plus tôt possible.
+- **POURQUOI** : le chemin le plus court autour d'un obstacle suit sa paroi. Chaque mètre perdu dans un virage large vaut 1,67-2,5 s de chase en ligne droite (CALC) et prolonge le temps où le tueur te voit (il peut couper l'angle ou tirer). Coller le mur maximise aussi la couverture visuelle.
+- **QUAND** : tiles à murs hauts ; boucles longues ; contre les tueurs M1 (les dixièmes de seconde séparent un coup d'un stun) ; contre les tueurs à distance (moins de temps exposé) ; chaque entrée et sortie de tile.
+- **COMMENT** : entre dans le virage au ras de l'angle, sans le toucher ; ne regarde pas derrière pendant un virage ; repère les aspérités qui accrochent.
+- **CONTRE** : attendre au coin (« corner mindgame ») plutôt que te suivre ; couper par l'intérieur du tile ; se servir des aspérités pour frapper ; attaques de pouvoir le long du mur.
+- **CAS D'ÉCHEC** : couper un coin derrière lequel il attend (le coin serré te met à portée de fente sans info) ; murs avec aspérités (perte de 0,5-1 s, non mesurée, INC) ; murs bas ou transparents (la LOS ne se casse pas) ; coller le côté intérieur d'un tile où il coupe ; tourner trop tôt et heurter l'angle, ou trop tard par peur.
+- **EXERCICE « Mur collé vs couloir »** : partie personnalisée sans tueur ; 5 tours d'un même tile en collant le mur, puis 5 au milieu du couloir, chronométrés ; puis 10 tours de shack et de jungle gym. Réussite : temps par tour stabilisé (±0,5 s) et 0 accrochage sur 5 tours consécutifs. La différence mesurée est une donnée utile pour tes tiles.
+
+### T17 — Fake vault, fake pallet (et fausse avance du tueur) [Avancé]
+
+- **QUOI** :
+  - **Fake vault** : amorcer une approche de fenêtre puis continuer (ou faire demi-tour) pour faire engager le tueur du mauvais côté ;
+  - **Fake pallet** : se tenir près d'une palette levée comme pour la jeter, pour le faire respecter sans consommer la palette ;
+  - **Fausse avance** (tueur) : avancer vers la palette pour provoquer un drop, puis reculer ou contourner.
+- **POURQUOI** : le tueur doit décider **avant** ton action, sinon il perd le cycle. Tant que tu **peux** le stun (stun à ~50 % d'abaissement, SS), il doit respecter.
+- **QUAND** : le tueur anticipe (il se place pour la sortie de vault) ; palette forte à conserver ; fin de partie où chaque seconde compte.
+- **COMMENT** : règle d'or [HEURISTIQUE] — **une feinte n'est permise que si l'option réelle (vault ou drop) reste possible après la feinte**.
+- **CONTRE** : pousser franchement (si tu ne jettes pas, coup) ; attendre au bord de la zone de stun ; alterner respect et pression.
+- **CAS D'ÉCHEC** : tueur qui couvre les deux options (pouvoir, tile court) ; feinte qui coûte une distance que tu n'as pas ; fake vault qui te fait approcher en angle et rate le vrai fast vault ; répéter la même feinte ; feinter alors que tu étais en sécurité ; rester trop longtemps à la palette.
+- **EXERCICE « Feinte avec plan B »** : note chaque feinte. Réussite : ≥ 50 % de feintes utiles (tueur mal placé), 0 coup pris sur feinte sur 10 parties.
+
+Détail : `kb/research/batch6_chase_tech.md` T09-T13, T17 ; tiles : `kb/research/batch7_tiles.md`.
 
 ---

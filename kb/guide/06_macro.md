@@ -449,3 +449,165 @@ Détail : `kb/research/batch9_macro.md` §2.9-2.10, §7.2.
 
 Détail : `kb/research/batch9_macro.md` §2.12-2.13.
 
+---
+
+## 6.7 Solo Queue : jouer sans voix `[Intermédiaire]`
+
+> **Hypothèse de base** : vous ne parlez à personne. Le Survivor Intent System (messages d'intention) est **PTB 10.2.0 — non LIVE** : en 10.1.2a, vous n'avez que le HUD, les loadouts et le mouvement des autres.
+
+### Le problème central
+
+En SoloQ, la perte principale n'est pas la chase : c'est **le doublon et l'inaction**. Deux sauveteurs sur le même crochet, personne sur un autre, deux soigneurs pour un blessé, trois réparateurs sur un gen. L'ordre de grandeur (plusieurs gens perdus par partie désorganisée) est plausible [HYPOTHÈSE], mais aucune mesure fiable ne le chiffre.
+
+### Lire le HUD
+
+| Signal | Ce qu'il dit | Fiabilité | Décision typique |
+|---|---|---|---|
+| **Match Details : loadouts des coéquipiers** | Qui a Kindred, un Med-Kit, un anti-tunnel, Adrenaline… | [FACT] (VP, 9.6.0) | Choisir son rôle avant et pendant la partie |
+| **Identité du tueur** (révélée à la 1re chase / 1re perte d'état) | Pouvoir, classe de vitesse | [FACT] (VP, 9.6.0) | Adapter soin, groupement, gens |
+| **Onglet pouvoir du tueur** (Match Details) | Rappel du pouvoir | [FACT] (10.0.0) | Lire les mots-clés d'un tueur peu connu |
+| **Portraits : état de santé** (sain, blessé, au sol, accroché, porté, mort) | Combien sont « chassables » | à vérifier en jeu [INCERTAIN] | Qui peut prendre des risques |
+| **Portraits : indicateur de chase** | Quel allié est poursuivi | [INCERTAIN] | Un allié en chase → **réparer** |
+| **Portraits : icônes d'action** (réparation, soin, décrochage…) | Ce que chacun fait | [INCERTAIN] (liste exacte à relever) | Éviter les doublons |
+| **Compteur d'états de crochet** | Qui est à 1 ou 2 crochets | [INCERTAIN] (forme exacte) | Qui prend les risques |
+| **Barre de phase d'un accroché** | Temps avant la phase suivante | 70 s [FACT] ; affichage [INCERTAIN] | Timing du sauvetage |
+| **Jauge anti-camp** | Visible des autres survivants accrochés | [FACT] (SS, 9.3.0) | Accroché : savoir si l'auto-décrochage approche |
+| **Barres de progression colorées** (9.6.0) | Mentionnées sans détail | existence [FACT] ; sens [INCERTAIN] | À vérifier en jeu |
+| **Aura d'un allié au sol** | Position à secourir ; Knock Out la réduit | basekit [INCERTAIN] ; Knock Out (SS) | Allié invisible → suspecter Knock Out |
+
+> **À retenir** : faire un « tour de HUD » de ~1 s **à chaque événement** (crochet, gen fini, cri, fin de chase), pas en continu. La caméra reste sur le jeu.
+
+> **Note avancée** : toutes les branches `[SoloQ]` des arbres reposent sur des éléments du HUD que les sources vérifiées ne décrivent pas en détail. Relevez-les vous-même en jeu (DR-16) avant de leur faire une confiance aveugle.
+
+### Comportements probabilistes des coéquipiers
+
+Vous ne savez pas ce que feront les trois autres, mais vous pouvez **estimer** (probabilités subjectives, non mesurées) [HEURISTIQUE] :
+
+| Situation | Hypothèse par défaut | Ajustement |
+|---|---|---|
+| Allié accroché, vous n'êtes pas le plus proche | Quelqu'un **peut** y aller, pas sûrement | **Délai de confirmation** (ex. 15-20 s, valeur de rédacteur) **adapté** : délai + trajet doit tomber avant la fin des 70 s. Si aucun portrait ne montre de sauvetage et qu'aucune aura ne bouge vers le crochet, **y aller** |
+| Piège du délai fixe | Si les 3 joueurs appliquent le même délai, ils partent **ensemble** | En route, revérifier portraits/auras toutes les ~5 s et faire demi-tour si un autre est clairement devant |
+| Deux auras se dirigent vers le crochet (Kindred) | Doublon imminent | Le plus loin fait demi-tour ; en cas d'égalité, départager sur ce que **vous voyez** : le sain / à 0 crochet continue, le blessé ou à 2 crochets fait demi-tour ; sinon celui déjà en course continue |
+| Un allié a Adrenaline | Il ne se soignera pas au dernier gen | Ne pas perdre 16 s à le soigner |
+| Un allié blessé s'approche | Il veut un soin… ou il amène le tueur | Vérifier le TR avant d'accepter ; soin loin du gen occupé |
+| Un allié tourne en chase près de votre gen | Il peut vous amener le tueur | Lâcher le gen **tôt** si la chase se rapproche |
+| Un allié est au sol près du tueur | Au moins un autre va tenter | Ne pas être le 2e ; rester à distance de relevage « après » |
+
+### Communication indirecte (LIVE)
+
+- **Mouvement visible** : se diriger franchement vers un crochet (visible pour ceux qui ont Kindred) est un message ; faire demi-tour aussi.
+- **Actions visibles au HUD** : commencer un soin ou un décrochage apparaît sur votre portrait [INCERTAIN]. Ne pas « tenter » une action pour signaler si elle coûte.
+- **Gestes et accroupissements** : utiles pour guider un blessé ou montrer un totem, **mais** contre The Judgment, 3 accroupissements / gestes à < 10 m donnent Heresy [FACT] (VP). Inutiles si l'allié ne vous regarde pas.
+- **Préparation ostensible d'un save** (lampe, sabotage près d'un crochet) : indique aux autres qu'ils peuvent rester sur leurs gens.
+
+### Décisions robustes `[Avancé]`
+
+**QUOI** : une décision **robuste** est celle dont le **pire cas** reste acceptable, même si elle n'est pas optimale en moyenne. En SoloQ, l'incertitude sur les alliés est forte : préférer la robustesse [HEURISTIQUE].
+
+| Choix | Version « optimale si l'équipe suit » | Version robuste SoloQ |
+|---|---|---|
+| Sauvetage | Attendre que le meilleur sauveteur y aille | Délai de confirmation adapté, puis y aller soi-même |
+| Soin | Se faire soigner par un allié qui a un kit | Soin seulement s'il est rentable (§6.5) ; sinon rester blessé et réparer |
+| 3-gen | Coordonner deux gens du triangle | Réparer soi-même un gen du groupe serré au bon moment |
+| Anti-tunnel | Un coéquipier prend le protection hit | Prendre soi-même un anti-tunnel (Match Details : personne n'en a ?) |
+| Endgame | Répartir les portes | Porte **la plus éloignée du dernier emplacement connu du tueur** ; supposer que les autres ouvrent la plus proche d'eux |
+| Info | Compter sur le Kindred d'un allié | Prendre soi-même une perk d'info si personne ne l'a |
+
+> **Erreur fréquente** — la plus coûteuse en SoloQ [AVIS D'EXPERT] : **« quelqu'un d'autre ira »** sur un crochet en fin de phase 1. Un doublon coûte quelques dizaines de s-surv (ordre de grandeur [INCERTAIN]) ; un état de crochet offert coûte une phase de 70 s de la vie de l'allié et un pas vers une mort qui retire un réparateur.
+
+**CAS D'ÉCHEC** : la robustesse poussée à l'extrême devient de l'égoïsme ou du doublon systématique. Le délai de confirmation n'est pas une règle : c'est une horloge à ajuster au trajet et à la phase.
+
+**EXERCICE** : DR-16 (lecture du HUD en SoloQ) ; erreurs E-D12 (ignorer le HUD et les loadouts) et E-A11 (supposer ce que feront les coéquipiers), `kb/research/batch11_training.md`.
+
+Détail : `kb/research/batch9_macro.md` §3.
+
+---
+
+## 6.8 SWF : jouer en vocal `[Intermédiaire]`
+
+> **Hypothèse de base** : groupe en vocal. La coordination supprime les doublons, mais crée d'autres erreurs : **surconfiance, altruisme excessif, bruit radio**. Aucun chiffre sourcé ne mesure le « gain » du vocal : ne citez pas de pourcentage d'évasion.
+
+### Rôles (flexibles, pas des castes)
+
+| Rôle | Mission | Perks / objets typiques (valeurs [INCERTAIN]) | Échec typique |
+|---|---|---|---|
+| **Runner / looper** | Prendre la 1re chase, la tenir **loin** des gens | Perks de chase, Will to Live | Ramener le tueur vers les gens |
+| **Gen jockey** (×1-2) | Réparer sans être trouvé, annoncer les gens | Toolbox, Déjà Vu | Aller « voir » les chases |
+| **Support / rescuer** | Suivre les crochets, soigner, décrocher | Med-Kit, Kindred, Babysitter, Reassurance | Trop tôt sur le crochet ; trade au mauvais moment |
+| **Shot-caller** (rôle de parole) | Trancher : qui sauve, quel gen, quelle porte | — | Parler trop ; micro-gérer la chase |
+
+Les rôles **changent** avec l'état de la partie [HEURISTIQUE] : le runner blessé à 2 crochets devient gen jockey ; le jockey sain devient runner si le tueur le trouve.
+
+### Protocoles
+
+1. **Crochet** : l'accroché annonce position + comportement du tueur (« il part nord » / « il reste »). Le shot-caller désigne **un** sauveteur (le plus proche **ou** le plus sain), qui annonce son **ETA**. Les autres continuent. « Décroché » ; le décroché annonce sa direction.
+2. **Chase** : le poursuivi annonce le tile, les palettes restantes, son état, son intention (« je traîne vers killer shack ») ; il annonce **tôt** s'il va tomber (« je tombe dans 5 »).
+3. **Gens** : repère de carte + % arrondi à la dizaine. Au-delà de 80 %, l'annoncer : candidat au 99.
+4. **3-gen** : dès 3 gens restants (5 sur la carte), le shot-caller désigne deux réparateurs sur **deux gens différents du groupe serré**, pour les finir avant qu'ils ne deviennent le triangle final. Triangle déjà formé : split ou duo selon la position du tueur (§6.2).
+5. **Slug** : « au sol, tueur à côté » → personne ne vient **par défaut** ; « tueur parti » → un relève. Exception annoncée : tueur qui attend indéfiniment → un sain le tire en chase, un autre relève (2 joueurs, assumé).
+6. **Endgame** : décision **explicite** : 99 ou alimenter ; qui ouvre quelle porte ; qui sauve.
+
+### Grammaire des callouts
+
+**Structure** [HEURISTIQUE] : `[PRIORITÉ] SUJET – ÉTAT – LIEU – DIRECTION – INTENTION`, en **moins de 2 s**. Tout ce qui ne change pas une décision se tait pendant une chase.
+
+- **Priorité** : « URGENT / STOP » pour un danger immédiat. Pendant une chase, seul le poursuivi parle, sauf URGENT.
+- **Lieu** : **repères** de carte (main, killer shack, sous-sol, coins nommés) ; à défaut, boussole relative au bâtiment principal (« nord de main »). Se mettre d'accord au chargement.
+- **Nombres** : dizaines de % pour les gens (« shack 60 »), secondes pour les ETA (« ETA 10 »), crochets en entier (« Nea deux crochets »).
+- **Négations utiles** : « pas de TR », « pas de BBQ », « pas de Pop » — l'absence d'un effet est une information.
+
+### Lexique FR / EN
+
+| FR | EN courant | Sens |
+|---|---|---|
+| « Sur moi » | « On me » | Le tueur me poursuit |
+| « Il part / il revient » | « He's leaving / he's back » | Direction du tueur après un crochet |
+| « Proxy » | « Proxy camping » | Tueur qui patrouille à ~16-30 m du crochet |
+| « Face camp » | « Face camping » | Tueur collé au crochet : personne ne vient, gens à fond |
+| « Je prends le save, ETA 15 » | « I'll go, 15 out » | Un seul sauveteur désigné |
+| « Reste sur ton gen » | « Stay on gen » | Anti-doublon |
+| « Décroché » | « Unhooked » | Les 10 s de protections commencent |
+| « Je tombe dans 5 » | « Going down » | Mise au sol imminente |
+| « Trade » | « Trade » | Décrochage sous ses yeux, accepté par l'équipe |
+| « Je prends le hit » | « I'll take a hit » | Protection hit prévu |
+| « Gen shack 70 » | « Shack gen 70 » | Progression d'un gen |
+| « 99 » | « 99 » | Gen tenu à 99 % |
+| « Frappé / pointes » | « Kicked / spiked » | Gen frappé (pointes dès le 4e event) |
+| « Bloqué » | « Blocked » | Gen bloqué par l'Entité (indice de perk) |
+| « Hex à … » | « Hex at … » | Totem Hex trouvé |
+| « Il a son pouvoir / plus de pouvoir » | « Power up / power down » | État du pouvoir (charges, cooldown) |
+| « Palettes finies à … » | « Pallets gone at … » | Zone épuisée |
+| « Porte à … / je l'ouvre » | « Gate at … / opening » | Gestion des portes |
+| « Trappe à … » | « Hatch at … » | Position de la trappe |
+
+### Suivi du tueur et de ses perks
+
+Le loadout du tueur est caché jusqu'à la fin [FACT] (VP). Un joueur (souvent le shot-caller) tient un **registre oral** des indices et le résume à chaque événement :
+
+| Indice observé | Hypothèse de perk | Confiance de l'effet |
+|---|---|---|
+| Gen le plus avancé perd un gros bloc, cris à un accrochage | Scourge Hook: Pain Resonance (−10/15/20 %) | (SS) |
+| Les 3 gens les plus éloignés bloqués au début, déblocage au premier mourant | Corrupt Intervention (80/100/120 s) | (SS) |
+| Le tueur arrive droit sur des survivants à ~24 m d'un gen qu'il vient de frapper | Nowhere to Hide (24 m, 3/4/5 s) | (VP) |
+| Gens non réparés qui régressent seuls | Hex: Ruin (100/125/150 %) | (SS) |
+| Gen le plus avancé bloqué à chaque gen fini | No Holds Barred | valeurs (INC) |
+| Interrupteur bloqué avec bruit à l'ouverture | No Way Out (12 s + 6/9/12 s par jeton) | (SS) |
+| Portes bloquées après un accrochage, une porte déjà ouverte | Blood Warden (40/50/60 s, une fois) | (SS) |
+| Exposed généralisé à l'alimentation | Hex: No One Escapes Death | valeurs (INC) |
+| Broken à l'alimentation, Adrenaline sans soin | Terminus | (SS), durée contestée |
+| Aura d'un mourant invisible au-delà d'une distance après un M1 | Knock Out | (SS) |
+
+**Suivi des crochets** : quelqu'un tient le compte « A:1, B:2, C:0, D:1 » et le rappelle à chaque accrochage. Il décide qui prend les risques et quand un trade devient inacceptable. Déduction détaillée : `kb/deliverables/PERK_DEDUCTION.md`.
+
+### Erreurs propres au SWF
+
+1. **Trop d'altruisme** : deux sauveteurs, deux soigneurs. Défaut (pas absolu) : **un événement = un joueur**, sauf appel explicite du shot-caller (relevage + protection hit contre un slug, par exemple).
+2. **La lampe au lieu du gen** : chercher un flash save coûte les s-surv d'un réparateur ; seulement si l'on était déjà près du portage.
+3. **Bruit radio** : parler pendant la chase d'un allié l'empêche d'entendre le TR et les sons du pouvoir. Silence par défaut.
+4. **Sous-estimer l'adaptation du tueur** : une équipe qui répare vite déclenche souvent tunnel ou slug [AVIS D'EXPERT]. L'anticiper dans la composition (les loadouts sont aussi visibles en SWF).
+5. **Surconfiance dans une annonce** : vérifier qu'elle est **récente** ; une position de tueur vieille de 15 s vaut un cône de ~70 m.
+
+**EXERCICE** : DR-08 (callouts) — objectif ≥ 80 % de callouts actionnables en revue ; erreur E-T12 (callouts trop nombreux ou imprécis).
+
+Détail : `kb/research/batch9_macro.md` §4.
+

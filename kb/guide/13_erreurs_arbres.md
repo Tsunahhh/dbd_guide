@@ -200,3 +200,81 @@ Onze erreurs. Le joueur tient des chases. Il perd maintenant de la valeur par **
 - `[SWF]` E-A08 se résout par les callouts (« palette du shack cassée »). E-A06 se prépare : le sauveteur annonce qu'il prendra le coup de protection, le décroché annonce sa direction.
 
 Détail : `kb/research/batch11_training.md` §1.3 ; `kb/research/batch7_tiles.md` §5.2.
+
+---
+
+## 13.5 Erreurs de niveau très avancé [Expert]
+
+Douze erreurs. Le joueur maîtrise l'exécution. Il perd maintenant de la valeur sur des **arbitrages d'équipe** (trade, moment où casser la chase, 3-gen) et sur l'**information** (perk deduction, add-ons, latence, callouts).
+
+| ID · tag | Erreur | Pourquoi on la fait | Punition | Correction (avec conditions) | Drill |
+|---|---|---|---|---|---|
+| **E-T01** · CROCHET | Hook trade sans valeur : décrocher avec le tueur proche en comptant sur un trade qui ne rapporte rien | Le trade semble « neutre » ; il consomme pourtant un état de crochet et fait gagner du trajet au tueur | Un état de crochet et ~30-60 s de gens perdus [INCERTAIN] ; effet en plus si le tueur a des perks d'accrochage (Pain Resonance, Grim Embrace…) | Trade **généralement** justifié si : l'allié va perdre sa phase sinon ; le risque passe à un survivant plus « riche » (0 crochet, sain, ressource de chase proche) ; les 2 autres réparent déjà (même un trade raté achète une chase). Refuser : sauveteur blessé, dead zone autour du crochet, tueur à coup unique prêt, **2 survivants restants** (tous accrochés = sacrifice, Mori à 2 [FACT (VP)]). Sinon attendre ou distraire | DR-10, DR-19 |
+| **E-T02** · INFO | Ne pas mettre à jour sa perk deduction (jouer comme si le tueur n'avait aucune perk, ou garder une hypothèse infirmée) | Le loadout du tueur est caché jusqu'à la fin [FACT (VP) 9.6.0] : il faut le déduire | Gen qui explose au prochain accrochage ; zone « tracée » par une perk d'aura ; surprise en endgame | Tenir un journal d'indices : effet observé → perk candidate → conséquence pratique. Réviser à chaque indice ; vérifier à l'écran de fin. Préparer la réponse **la plus coûteuse à ignorer** (en endgame : jouer comme si NOED était possible tant qu'il reste des totems ternes). Voir le chapitre perk deduction | DR-07 |
+| **E-T03** · CHASE | Choisir le mauvais mode : boucler contre un tueur qui y gagne, ou « hold W » vers le vide contre un M1 alors qu'une tile forte est à côté | Un seul mode appris | Loop contre un anti-loop = coup rapide ; hold W vers le vide contre un M1 = coup au bout de ~16 s pour 10 m d'avance (~12-13 s avec fente) | Le choix dépend de la **distance au contact** et du **type de tueur**. À grande distance contre un tueur lent (4,4 m/s, sans mobilité) : tenir la distance **vers** des ressources. Au contact contre un M1 : boucler. Contre un casseur de palettes : enchaîner les LOS. « Hold W contre anti-loop » (seed) est vrai en tendance, **faux** contre un tueur mobile qui te rattrape en ligne droite (Blight, Nurse) [SITUATIONNEL] | DR-15, DR-13 |
+| **E-T04** · CHASE | Réagir à la première feinte (changer de côté au premier mouvement du tueur) | On veut lire le tueur trop vite | Fausse avance, double-back : coup gratuit. À haut niveau, un survivant « prévisible dans sa réaction » est aussi exploitable qu'un survivant passif | S'engager au **dernier moment sûr** (la plus longue attente possible sans perdre l'accès à la ressource) ; préférer les positions qui gardent deux options (palette ET fenêtre en vue). [HYPOTHÈSE] La lecture précoce paie contre un tueur inexpérimenté et coûte contre un bon : adapter après 2-3 interactions | DR-05, DR-03 |
+| **E-T05** · MACRO | Casser la poursuite au mauvais moment : disparaître alors que l'équipe a besoin que le tueur reste occupé, ou rester visible blessé à 2 crochets quand les autres sont en sécurité | On optimise sa survie au lieu du temps d'équipe | Le tueur libéré retourne aux gens, au crochet ou vers un blessé : l'équipe perd plus que ce que tu as sauvé | Question : « que fait le tueur si je disparais maintenant ? » Sain et crochets bas : rester « chassable » sans donner de coup est souvent plus utile. Blessé à 2 crochets avec un gen critique ailleurs : disparaître est souvent mieux. [SITUATIONNEL] par définition | DR-19, DR-17 |
+| **E-T06** · MACRO | Détecter le 3-gen trop tard (seulement à 3 gens restants) | Pas de plan initial (E-I06), ou plan non revu | Défense concentrée ; chaque retour du tueur repousse un gen | À **4 gens restants**, vérifier la géométrie : lequel faire pour ne pas laisser un triangle serré ? Accepter un gen « moins confortable ». Si le 3-gen est acquis : duo dès qu'il part, split sur deux gens du triangle pendant qu'un troisième tient la chase, garder les palettes de la zone. Le plafond de 8 events par gen est un fond de décor : « le forcer à les épuiser » **n'est pas un plan** (8 × 3 gens) | DR-09 |
+| **E-T07** · ENDGAME | Dernier survivant : trappe contre porte mal arbitrées | Pas de scénario pré-appris | Le tueur ferme la trappe (→ EGC 120 s) et garde la porte la plus proche ; 20 s d'ouverture à découvert | **Avant** d'être seul : savoir où sont les portes, si l'une a de la progression (conservée [FACT (SS)]) et où la trappe est probable. Une fois seul, si la trappe est fermée : porte **la plus éloignée du tueur**, ouverture par étapes si besoin, en exploitant son trajet entre les portes. Arbre Trappe (§13.16) | DR-11 |
+| **E-T08** · CHASE | Jouer les vaults et les poses « au pixel » en croyant l'écran | On croit que ce qu'on voit est la vérité serveur | Si la connexion du tueur est bonne, le coup est validé par **son client** [FACT (VP), principe] ; la latence cumulée le favorise (observation communautaire) : « touché derrière la palette » | Garder une marge sur les actions serrées (valeur [INCERTAIN], dépend du ping), surtout si le tueur semble avoir un ping élevé. Accepter que certains coups « injustes » fassent partie du jeu, et **ne pas en tirer de mauvaises leçons en revue** | DR-12, DR-19 |
+| **E-T09** · TILE | Garder une palette forte « pour plus tard » jusqu'à tomber avec | Excès inverse du gaspillage (« une god pallet se garde », seed) | Au sol à côté d'une palette debout : ressource inutilisée ET état perdu ; le tueur la casse ensuite en passant | Une palette vaut ce qu'elle protège **maintenant** comparé à ce qu'elle protégera plus tard (probabilité qu'elle serve × valeur future). Blessé à 2 crochets, il n'y a pas de « plus tard » : poser. Sain en début de partie : la faire respecter longtemps est souvent mieux. On la garde **tant que la garder ne coûte pas d'état et qu'une autre ressource (fenêtre, LOS) travaille à sa place** | DR-12 |
+| **E-T10** · COUNTER | Ne pas adapter son jeu aux add-ons observés | On identifie le tueur, pas ses add-ons | Tu comptes des munitions qu'il n'a pas ; tu « tankes » un tir qui met au sol | Pour chaque tueur, connaître 2-3 signes d'add-ons qui changent la décision et changer de plan au premier signe. Exemple Huntress : la base est de **7 hachettes** depuis 7.6.0 [FACT (SS)] (errata phase 0) ; plus de hachettes sans recharger, ou une hachette qui met au sol d'un coup, signalent un add-on [INCERTAIN]. Voir le chapitre counterplay par tueur | DR-06, DR-15 |
+| **E-T11** · SOIN | Mal gérer Deep Wound ou les soins sous pression d'un tueur à statut | Deep Wound traité comme une blessure normale | À zéro, état mourant ; un dégât sous Deep Wound = au sol même avec Endurance [FACT (VP)] | Le timer (20 s) est en pause quand tu cours [FACT] : courir hors de la zone, puis mending hors de vue (10 s seul, 6 s avec un allié). Contre Legion, éviter d'être groupé : le mending à deux fait gagner 4 s mais expose deux survivants | DR-18, DR-15 |
+| **E-T12** · SWF | Callouts trop nombreux ou imprécis (« il est là ! ») | Confusion entre communiquer et informer | L'équipe ne distingue plus l'essentiel ; décisions retardées ; bruit qui couvre l'audio du jeu en pleine chase | Grammaire fixe **qui / quoi / où / état / intention**, en ≤ 5 mots pendant une chase ; le chaseur parle peu ; un seul joueur fait le point des gens environ chaque minute [HEURISTIQUE] | DR-08 |
+
+> **À retenir (très avancé)** : à ce niveau, la plupart des erreurs viennent d'une question mal posée. On se demande « comment survivre à cette chase ? » au lieu de « quel usage de mon temps et de mes états rapporte le plus à l'équipe ? ». E-T01, E-T05 et E-T06 sont trois versions de la même faute.
+
+**Variantes SoloQ / SWF (très avancé)** :
+- `[SoloQ]` E-T05 est plus difficile : tu ne sais pas si les autres sont en sécurité. Par défaut, rester chassable quand tu es sain et que le HUD montre des coéquipiers sur les gens. E-T01 : un trade en SoloQ suppose que personne d'autre ne vient, donc compter les états **réellement** offerts.
+- `[SWF]` E-T12 est la seule erreur propre au SWF dans la base. C'est une lacune connue (§13.17) : les erreurs de coordination SWF sont sous-représentées.
+
+Détail : `kb/research/batch11_training.md` §1.4.
+
+---
+
+## 13.6 Index de la base d'erreurs
+
+### 13.6.1 Par domaine
+
+| Domaine | Débutant | Intermédiaire | Avancé | Très avancé |
+|---|---|---|---|---|
+| CHASE | E-D01, E-D02, E-D05 | E-I07 | E-A02, E-A04, E-A05 | E-T03, E-T04, E-T08 |
+| TILE | E-D03, E-D04 | E-I01, E-I12 | E-A01, E-A07 | E-T09 |
+| MACRO | E-D06, E-D07, E-D08, E-D14 | E-I06, E-I08, E-I09, E-I13, E-I14 | — | E-T05, E-T06 |
+| CROCHET | E-D09 | E-I03, E-I04, E-I05, E-I10, E-I11 | E-A06 | E-T01 |
+| SOIN | E-D10 | E-I02 | E-A10 | E-T11 |
+| COUNTER | E-D11 | — | E-A03 | E-T10 |
+| ENDGAME | — | — | E-A09, E-A10 | E-T07 |
+| INFO | E-D13 | — | E-A08 | E-T02 |
+| SOLOQ / SWF | E-D12 | — | E-A11 | E-T12 |
+
+Total : 14 + 14 + 11 + 12 = **51 erreurs** (E-A10 porte deux tags).
+
+### 13.6.2 Paires d'erreurs opposées
+
+| Excès « trop peu » | Excès « trop » | Juste milieu (arbre) |
+|---|---|---|
+| E-D04 palette gaspillée | E-I01 greed, E-T09 palette gardée | Arbre Palette |
+| E-I02 over-heal | « ne jamais soigner » (E-I02, excès inverse) | Arbre Soin |
+| E-D09 / E-I04 sauvetage trop tôt | E-I04 sauvetage trop tard | Arbre Crochet |
+| E-I14 quitter le gen trop tôt | E-I14 quitter le gen trop tard | Arbre Gen |
+| E-A01 rester sur une tile perdue | partir sans événement (E-A01) | Arbre Quitter la tile |
+| E-I09 (a) purifier tout Hex | E-I09 (b) ignorer les totems | Arbre Totem |
+| E-T05 disparaître trop tôt | E-T05 rester visible trop longtemps | Revue de partie |
+
+### 13.6.3 Drills référencés
+
+| Drill | Objet | Drill | Objet |
+|---|---|---|---|
+| DR-01 | Caméra sans casser le pathing | DR-11 | Endgame (portes, trappe, EGC) |
+| DR-02 | Fast vault | DR-12 | Décision de palette à voix haute |
+| DR-03 | Shack (tile unique) | DR-13 | Route planning / enchaînement de tiles |
+| DR-04 | Jungle gym | DR-14 | Skill checks et fondamentaux audio |
+| DR-05 | Red stain et lecture d'approche | DR-15 | Counterplay d'un tueur (une session = un tueur) |
+| DR-06 | Identification du tueur et de ses add-ons | DR-16 | Lecture du HUD en SoloQ |
+| DR-07 | Perk deduction | DR-17 | Comptage (horloge mentale) |
+| DR-08 | Callouts (SWF) | DR-18 | Décision de soin |
+| DR-09 | Rotation de gens / anti-3-gen | DR-19 | Revue de partie |
+| DR-10 | Sauvetage (timing, approche, protection) | DR-20 | Jouer tueur (changement de rôle) |
+
+Tous les seuils de réussite des drills sont [HEURISTIQUE] / [INCERTAIN]. Ils mesurent un progrès **par rapport à ta propre base**, pas par rapport aux autres. Détail : `kb/research/batch11_training.md` §3.
