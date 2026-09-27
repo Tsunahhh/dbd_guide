@@ -1,6 +1,6 @@
 # OPEN_QUESTIONS — informations encore insuffisamment vérifiées
 
-Livrable §51-11. Partie A reprise telle quelle du rapport de phase 0 (p. 49-50). Partie B : questions ouvertes des lots 2-4 (voir chaque fichier `kb/research/batch*`, section « Questions ouvertes », et `BATCH_2_4_SYNTHESIS.md`).
+Livrable §51-11. Partie A reprise telle quelle du rapport de phase 0 (p. 49-50) — **plusieurs de ses questions sont tranchées depuis : voir B0**. Partie B : état FINAL (27/09/2026 soir) des questions encore ouvertes après la re-vérification complète (lots 2-12), dédoublonnées et classées par thème.
 
 ## Partie A — Phase 0
 
@@ -76,6 +76,3 @@ Discord DBDL.
 9. « Team-based Ratings » pour les SWF (6.4.0) : encore actifs après 10.1.0 ? (lot R1)
 10. Origine des « 76 % / 80 % des votants » : confirmer ou écarter dennisreep.nl.
 
-## Partie B — Lots 2-4
-
-Voir `kb/ledgers/BATCH_2_4_SYNTHESIS.md`.

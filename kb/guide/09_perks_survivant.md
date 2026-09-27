@@ -148,7 +148,7 @@ Modificateurs d'Exhaustion : **Vigil** (vous et alliés à 16 m récupèrent de 
 
 **Règle 3 — Broken coupe tous les soins.** Sources de Broken dans votre propre build : No Mither (toute la partie), Deliverance (160/140/120 s), For the People (80/70/60 s), Second Wind, Moment of Glory, Clean Break (Broken puis soin automatique), Conviction (après l'auto-relève), Invocation: Weaving Spiders et Invocation: Treacherous Crows (jusqu'à la fin de l'épreuve). À ne pas combiner avec des perks de soin **reçu** (Resurgence, Self-Care) [HEURISTIQUE].
 
-**Règle 4 — Les actions « voyantes » coupent les protections.** Une action voyante (*conspicuous action* : réparer, soigner, etc. ; liste exacte non publiée, INC) désactive Will to Live, annule l'Endurance d'Off the Record, de Made for This, de Soul Guard et des protections de décrochage, et désactive Blood Rush (SS). Pendant ces fenêtres, **ne réparez pas et ne vous soignez pas vous-même**.
+**Règle 4 — Les actions « voyantes » coupent les protections.** Une action voyante (*conspicuous action* ; selon le wiki, SS : réparer, soigner soi-même ou un autre, bénir ou purifier un totem, **ouvrir une porte de sortie**, saboter un crochet, décrocher un allié, Invocation ; aucune liste officielle) désactive Will to Live, annule l'Endurance d'Off the Record, de Made for This, de Soul Guard et des protections de décrochage, et désactive Blood Rush (SS). Pendant ces fenêtres, **ne réparez pas et ne vous soignez pas vous-même**.
 
 **Règle 5 — L'Obsession se choisit.** Will to Live, Bound by Obsession et Mettle of Man donnent **+100 %** de chance d'être l'Obsession initiale ; For the People, Blood Pact et A Place For Us donnent **−100 %** (SS). For the People vous **rend** Obsession quand vous l'utilisez, ce qui désactive votre propre Blood Pact.
 
@@ -167,18 +167,21 @@ Détail : fiches `kb/research/batch2_perks_surv_p23.md` à `p30.md` ; mécanique
 - **[FACT] (VP)** Depuis **9.6.0**, les modificateurs **identiques** issus de pouvoirs, objets, **perks** et offrandes sont réduits quand ils s'empilent : le plus fort à **100 %**, puis **50 / 25 / 12,5 %**, et **5 %** au-delà. Les **add-ons** en sont exclus.
 - **[FACT] (VP)** **Règle de rôle** : les modificateurs **positifs de chance de skill check** et **négatifs de vitesse d'action** ne se réduisent qu'entre sources d'un **même rôle**. Exemples officiels : ONE-TWO-THREE-FOUR! ne réduit plus Unnerving Presence ; la pénalité de Calm Spirit (−30 % au rang III) n'est plus réduite par Hex: Thrill of the Hunt.
 - **[FACT] (SS)** **Hyperfocus est soumise aux DR** (chance de skill check, au sein du rôle survivant). L'idée « Hyperfocus hors DR » de l'ancien guide est fausse.
-- **La liste des modificateurs jugés « identiques » n'est pas publiée** (le manuel en jeu n'a pas été consulté) : **toutes** les interactions DR entre perks citées ci-dessous sont des **[HYPOTHÈSE]**.
+- **[FACT] (VP indirect)** La **Haste de perks** est concernée : la note de dev 10.2.0 écrit que la capacité de Blood Pact à se combiner avec d'autres perks « a été réduite depuis les Diminishing Returns ». La **vitesse de saut** l'est aussi (note de dev 10.2.0 sur Spine Chill : les DR permettent de réintroduire un bonus de saut). La **vitesse de l'aiguille** de skill check est soumise depuis un correctif 9.6.0 (ch. 2).
+- La **liste itemisée** des modificateurs « identiques » existe dans le **manuel en jeu** depuis 9.6.1 mais n'a **pas** été consultée pour ce guide : les autres interactions DR entre perks citées ci-dessous restent des **[HYPOTHÈSE]**.
 
-### 9.2.2 Familles de modificateurs probablement concernées [HYPOTHÈSE]
+### 9.2.2 Familles de modificateurs concernées ou probablement concernées
 
 | Famille | Perks survivant qui y contribuent (LIVE) |
 |---|---|
-| **Vitesse de soin** | Botany Knowledge, We'll Make It, Boon: Circle of Healing, Empathic Connection, Desperate Measures, Do No Harm, Flow State, Leader, Better Than New, Road Life, Resilience, Spine Chill, Bound by Obsession |
-| **Vitesse de réparation** | Déjà Vu, Resilience, Prove Thyself, Quick Gambit, Boon: Steadfast, Teamwork: Full Circuit, Teamwork: Soft-Spoken, Friendly Competition, Overzealous, Spine Chill, Bound by Obsession, Hyperfocus (bonus de skill check) |
-| **Haste** | Sprint Burst, Lithe, Balanced Landing, Background Player, Smash Hit, Adrenaline, Dramaturgy, Hope, Boon: Dark Theory, Blood Pact, Teamwork: Power of Two, Breakout, Made for This, Fruits of Your Labor, Duty of Care, Champion of Light, Wide Open Throttle, Buckle Up, Plot Twist, Babysitter, No One Left Behind (ces deux dernières renforcent la Haste de base du décrochage) |
-| **Vitesse de récupération à terre** | Unbreakable, Plot Twist, Boon: Exponential, No Mither |
-| **Chance de skill check** | Hyperfocus, ONE-TWO-THREE-FOUR!, Deadline |
-| **Vitesse de saut** | Finesse, Resilience (au PTB 10.2.0 : Windows of Opportunity, Spine Chill) |
+| **Vitesse de soin** [HYPOTHÈSE] | Botany Knowledge, We'll Make It, Boon: Circle of Healing, Empathic Connection, Desperate Measures, Do No Harm, Flow State, Leader, Better Than New, Road Life, Resilience, Spine Chill, Bound by Obsession |
+| **Vitesse de réparation** [HYPOTHÈSE] | Déjà Vu, Resilience, Prove Thyself, Quick Gambit, Boon: Steadfast, Teamwork: Full Circuit, Teamwork: Soft-Spoken, Friendly Competition, Overzealous, Spine Chill, Bound by Obsession, Hyperfocus (bonus de skill check) |
+| **Haste** (concernée, VP indirect) | Sprint Burst, Lithe, Balanced Landing, Background Player, Smash Hit, Adrenaline, Dramaturgy, Hope, Boon: Dark Theory, Blood Pact, Teamwork: Power of Two, Breakout, Made for This, Fruits of Your Labor, Duty of Care, Champion of Light, Wide Open Throttle, Buckle Up, Plot Twist, Babysitter, No One Left Behind (ces deux dernières renforcent la Haste de base du décrochage : voir sous le tableau) |
+| **Vitesse de récupération à terre** [HYPOTHÈSE] | Unbreakable, Plot Twist, Boon: Exponential, No Mither |
+| **Chance de skill check** (concernée, VP ; entre survivants seulement) | Hyperfocus, ONE-TWO-THREE-FOUR!, Deadline |
+| **Vitesse de saut** (concernée, VP indirect) | Finesse, Resilience (au PTB 10.2.0 : Windows of Opportunity, Spine Chill) |
+
+Les effets **de base** (Haste de décrochage, boost au coup) : soumission inconnue (INC, ch. 2) ; Babysitter et No One Left Behind, qui les renforcent, sont donc incertaines.
 
 **COMMENT le calculer** (exemple, [HYPOTHÈSE] : Botany et We'll Make It considérés comme « identiques ») :
 
