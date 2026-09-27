@@ -206,7 +206,7 @@
 ### Red Herring — Zarina Kassir
 - **Statut** : LIVE 10.1.2a (buffée : 3 → 1 s, recharge 60/50/40 → 25/20/15 s)
 - **Effet LIVE** : après ≥1 s de réparation, l'aura du gen est surlignée en jaune ; entrer dans un casier déclenche une Loud Noise Notification pour le tueur sur ce gen — STRONG_SECONDARY (wiki page complète [27] ; change log 8.6.0 : 3 → 1 s, 60/50/40 → 25/20/15 s)
-- **Valeurs / CD / conditions / limites** : recharge 25/20/15 s (LIVE) ; surlignage perdu si gen terminé, autre gen commencé ou entrée en casier [27]. Notes 9.5.1 / 9.6.0 : correctifs seulement (surlignage resté actif, icône de recharge) [31][32].
+- **Valeurs / CD / conditions / limites** : recharge 25/20/15 s (LIVE) ; surlignage perdu si gen terminé, autre gen commencé ou entrée en casier [27]. Notes 9.5.1 / 9.6.0 : correctifs seulement (surlignage resté actif, icône de recharge) [36][32].
 - **PTB 10.2.0** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [27][34].
 - **Interactions, DR** : aucune.
 - **Synergies** : Quick & Quiet, Lucky Break, Distortion (fausses pistes).
@@ -249,29 +249,31 @@
 - **Quand elle n'en produit pas** :
   - En LIVE, gain trop faible ; effet perdu au premier coup.
 - **Écart avec le seed** : OK (LIVE et PTB) ; « pourrait remonter » = spéculation non sourcée
-- **Sources** : [21][25][4]
+- **Sources** : [27][34][21][25][4]
 
 ### Low Profile — Ada Wong
 - **Statut** : LIVE 10.1.2a
-- **Effet LIVE** : quand vous êtes le seul survivant non neutralisé (autres **à terre, portés ou accrochés**), gémissements, flaques de sang et griffures supprimés 70/80/90 s — STRONG_SECONDARY [22]
-- **Valeurs / CD / conditions / limites** : usage unique (se désactive après usage) ; ne compte que les survivants encore en jeu [22].
-- **PTB 10.2.0** : non citée dans les résumés lus — UNCERTAIN
+- **Effet LIVE** : quand vous êtes le seul survivant non neutralisé (autres **à terre, portés ou accrochés**), gémissements, flaques de sang et griffures supprimés 70/80/90 s — VERIFIED_MULTI_SOURCE (wiki page complète [27] ; note 9.5.0 : « When all other Survivors are downed or hooked, for 70/80/90s » [31])
+- **Valeurs / CD / conditions / limites** : l'effet se désactive à la fin de son utilisation, mais **peut se redéclencher** à chaque fois que la condition est de nouveau remplie — VERIFIED_MULTI_SOURCE (note 9.5.0 : « Reverted all previous changes and enabled multiple triggers per Trial » [31] ; change log wiki 6.2.0 : « multiple activations during the Trial » [27]). Ne compte que les survivants encore en jeu [27].
+- **Correction (lot 12a)** : la 1ʳᵉ passe disait « usage unique » : **FAUX** (lecture erronée de « deactivates after use »).
+- **PTB 10.2.0** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [27][34].
 - **Interactions, DR** : aucune.
 - **Synergies** : builds trappe/furtivité (Lightweight, Distortion, Left Behind).
 - **Difficulté** : 2
 - **Valeur (HEURISTIC)** : SoloQ 1 · SWF 0 · chase 0 · macro 0 · info 0 · anti-tunnel 0 · soin 0 · gen 0 · endgame 1
 - **Quand elle produit de la valeur** :
   - Fin de partie où vous restez seul debout : se cacher/aller à la trappe.
+  - Aussi en milieu de partie, à chaque fois que les 3 autres sont à terre/portés/accrochés en même temps (redéclenchable).
 - **Quand elle n'en produit pas** :
-  - Toute la partie avant cet état, soit l'essentiel du match.
-- **Écart avec le seed** : IMPRÉCIS mineur (omet « portés » ; usage unique)
-- **Sources** : [22]
+  - Toute la partie hors de cet état, soit l'essentiel du match.
+- **Écart avec le seed** : OK (formulation du seed = texte officiel 9.5.0 « downed or hooked » ; le wiki ajoute « portés »). La mention « usage unique » de la 1ʳᵉ passe est retirée.
+- **Sources** : [27][31][34][22]
 
 ### Teamwork: Collective Stealth — Renato Lyra
 - **Statut** : LIVE 10.1.2a
-- **Effet LIVE** : quand un allié finit de vous soigner, vos griffures et les siennes sont supprimées tant que vous restez à 8/12/16 m l'un de l'autre ; l'effet persiste 4 s hors portée — STRONG_SECONDARY [23]
-- **Valeurs / CD / conditions / limites** : reprise si on revient en portée avant la fin des 4 s [23].
-- **PTB 10.2.0** : non citée dans les résumés lus — UNCERTAIN
+- **Effet LIVE** : quand un allié finit de vous soigner, vos griffures et les siennes sont supprimées tant que vous restez à 8/12/16 m l'un de l'autre ; l'effet persiste 4 s hors portée — STRONG_SECONDARY (wiki page complète [27], concordant avec [23])
+- **Valeurs / CD / conditions / limites** : reprise si on revient en portée avant la fin des 4 s ; pas de recharge et pas de fin sur perte d'état de santé (change log 8.3.0) ; un survivant ne peut bénéficier que d'une instance à la fois [27].
+- **PTB 10.2.0** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [27][34].
 - **Interactions, DR** : aucune.
 - **Synergies** : Teamwork: Power of Two, builds duo SWF.
 - **Difficulté** : 2 (coordination)
@@ -281,13 +283,13 @@
 - **Quand elle n'en produit pas** :
   - SoloQ : les alliés se séparent aussitôt.
 - **Écart avec le seed** : OK
-- **Sources** : [23]
+- **Sources** : [27][34][23]
 
 ### Cut Loose — Thalita Lyra
 - **Statut** : LIVE 10.1.2a
-- **Effet LIVE** : après un « Rush Vault » en poursuite, 4/5/6 s pendant lesquelles les sauts rapides ne déclenchent ni Loud Noise Notification ni sons ; chaque nouveau Rush Vault relance le compteur — STRONG_SECONDARY [24]
-- **Valeurs / CD / conditions / limites** : recharge 45 s ; le **premier** saut n'est pas silencieux ; ne couvre pas les sorties/entrées rapides de casier [24].
-- **PTB 10.2.0** : non citée dans les résumés lus — UNCERTAIN
+- **Effet LIVE** : après une action de **Rushed Vault** (saut précipité) en poursuite, Cut Loose s'active 4/5/6 s : tous les bruits des sauts précipités sont supprimés, Loud Noise Notification comprise ; chaque nouveau saut précipité relance le compteur — STRONG_SECONDARY (wiki page complète [27], concordant avec [24])
+- **Valeurs / CD / conditions / limites** : recharge 45 s après usage et fin du compteur ; le **premier** saut (déclencheur) n'est pas couvert (déduction du libellé « after performing ») ; ne couvre pas les casiers [24].
+- **PTB 10.2.0** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [27][34].
 - **Interactions, DR** : aucune.
 - **Synergies** : Lithe, Quick & Quiet, zones à fenêtres.
 - **Difficulté** : 2
@@ -296,14 +298,14 @@
   - Perdre un tueur à travers une suite de fenêtres (moins d'info sonore).
 - **Quand elle n'en produit pas** :
   - En ligne de vue du tueur : le silence ne change rien.
-- **Écart avec le seed** : IMPRÉCIS / UNCERTAIN (le seed dit « saut moyen ou rapide » ; la source dit « Rush Vault » — inclusion du saut moyen non confirmée)
-- **Sources** : [24]
+- **Écart avec le seed** : IMPRÉCIS (le seed dit « saut moyen ou rapide » ; la page complète dit « Rushed Vault » seulement ; l'inclusion du saut moyen reste UNCERTAIN)
+- **Sources** : [27][34][24]
 
 ### Friendly Competition — Thalita Lyra
-- **Statut** : LIVE 10.1.2a (supposé)
-- **Effet LIVE** : seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) : en finissant un gen avec ≥1 allié, les participants réparent 5 % plus vite pendant 100/110/120 s — UNCERTAIN
-- **Valeurs / CD / conditions / limites** : seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN (5 %, 100/110/120 s) — UNCERTAIN.
-- **PTB 10.2.0** : **buff (PTB)** : les survivants qui ont fini le gen réparent 10 % plus vite pendant 80/85/90 s [25][4].
+- **Statut** : LIVE 10.1.2a (durée buffée en 9.2.0)
+- **Effet LIVE** : chaque fois que vous finissez un gen avec au moins un autre survivant, tous les participants (vous compris) réparent **+5 %** plus vite pendant **100/110/120 s** — VERIFIED_MULTI_SOURCE (wiki, onglet historique 9.2.0 = LIVE [27] ; note 9.2.0 : durée « 100/110/120 seconds (was 45/60/75) » [30] ; note 559 « was 5% for 100/110/120s » [34])
+- **Valeurs / CD / conditions / limites** : +5 % ; 100/110/120 s (depuis 9.2.0 ; avant : 45/60/75 s, OBSOLETE).
+- **PTB 10.2.0 (NON LIVE)** : **buff** : +10 % pendant 80/85/90 s pour les survivants qui ont fini le gen [27][34].
 - **Interactions, DR** : bonus de vitesse de réparation → DR 9.6.0 probable avec d'autres bonus identiques (HYPOTHESIS).
 - **Synergies** : Teamwork: Full Circuit, Prove Thyself (duo sur gen).
 - **Difficulté** : 1
@@ -312,14 +314,14 @@
   - Équipe qui travaille à deux sur les gens.
 - **Quand elle n'en produit pas** :
   - Joueurs dispersés (SoloQ solitaire), ou après les gens.
-- **Écart avec le seed** : LIVE NON VÉRIFIABLE ; PTB OK
-- **Sources** : [25][4]
+- **Écart avec le seed** : OK (LIVE 5 % / 100/110/120 s et PTB 10 % / 80/85/90 s)
+- **Sources** : [27][30][34][25][4]
 
 ### Deadline — Alan Wake
-- **Statut** : LIVE 10.1.2a (supposé)
-- **Effet LIVE** : seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) : Injured → skill checks 6/8/10 % plus fréquents, placés au hasard, pénalité d'échec réduite de 50 % — UNCERTAIN
-- **Valeurs / CD / conditions / limites** : seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN.
-- **PTB 10.2.0** : non vérifiable — UNCERTAIN
+- **Statut** : LIVE 10.1.2a
+- **Effet LIVE** : quand vous êtes Injured, en réparant **ou en soignant** : chance de déclencher un skill check +6/8/10 %, skill checks placés au hasard, pénalité des skill checks ratés −50 % — STRONG_SECONDARY (wiki page complète [27])
+- **Valeurs / CD / conditions / limites** : 6/8/10 % ; −50 % de pénalité ; état Injured requis. Aucune note officielle 9.x/10.x ne la modifie.
+- **PTB 10.2.0** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [27][34].
 - **Interactions, DR** : fréquence de skill checks → combinable avec Stake Out/Hyperfocus (HEURISTIC).
 - **Synergies** : No Mither, This Is Not Happening, Technician.
 - **Difficulté** : 2
@@ -328,15 +330,15 @@
   - Build Injured/Great skill checks.
 - **Quand elle n'en produit pas** :
   - Joueur sain ; skill checks aléatoires = plus de ratés.
-- **Écart avec le seed** : NON VÉRIFIABLE
-- **Sources** : aucune (seed)
+- **Écart avec le seed** : OK (omet « ou en soignant », mineur)
+- **Sources** : [27][34]
 
 ### Hardened — Lara Croft
-- **Statut** : LIVE 10.1.2a (supposé)
-- **Effet LIVE** : seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) : après avoir béni/purifié un totem ET ouvert un coffre, chaque cri révèle l'aura du tueur 3/4/5 s — UNCERTAIN
-- **Valeurs / CD / conditions / limites** : seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN. Question ouverte : le cri est-il supprimé ou non ?
-- **PTB 10.2.0** : non vérifiable — UNCERTAIN
-- **Interactions, DR** : anti-synergie logique avec Calm Spirit (plus de cris) — HYPOTHESIS.
+- **Statut** : LIVE 10.1.2a
+- **Effet LIVE** : après avoir ouvert un coffre ET béni ou purifié un totem, Hardened s'active : **le cri est supprimé** (toute cause) et remplacé par une révélation de l'aura du tueur pendant 3/4/5 s — STRONG_SECONDARY (wiki page complète [27])
+- **Valeurs / CD / conditions / limites** : 3/4/5 s ; pas de recharge mentionnée. Le cri est bien supprimé (question ouverte du lot 2 résolue). Correctifs officiels : déclenchement par THWACK! (9.1.0 [29]) et par l'attaque de lianes de The First (9.4.1 [37]) — sans changement de valeur.
+- **PTB 10.2.0** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [27][34].
+- **Interactions, DR** : Calm Spirit supprime aussi le cri ; le cumul (révélation déclenchée ou non) n'est pas documenté — HYPOTHESIS. Contre les effets qui exploitent le cri (Doctor, Infectious Fright), Hardened retire l'info au tueur en plus.
 - **Synergies** : Plunderer's Instinct, Small Game ; contre Doctor/Infectious Fright.
 - **Difficulté** : 2
 - **Valeur (HEURISTIC)** : SoloQ 1 · SWF 0 · chase 0 · macro 0 · info 1 · anti-tunnel 0 · soin 0 · gen 0 · endgame 0
@@ -344,15 +346,15 @@
   - Contre Doctor / builds à cris, après un détour coffre + totem.
 - **Quand elle n'en produit pas** :
   - Conditions d'activation coûteuses ; tueurs qui ne font pas crier.
-- **Écart avec le seed** : NON VÉRIFIABLE
-- **Sources** : aucune (seed)
+- **Écart avec le seed** : OK (omet que le cri est supprimé, mineur)
+- **Sources** : [27][29][34]
 
 ### Invocation: Treacherous Crows — Taurie Cain
-- **Statut** : LIVE 10.1.2a (supposé)
-- **Effet LIVE** : seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) : invocation de 60 s au sous-sol ; vous devenez Injured et Broken pour le reste de la partie ; quand le tueur effraie un corbeau près d'un survivant, son aura est révélée 1/1,5/2 s — UNCERTAIN
-- **Valeurs / CD / conditions / limites** : seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN ; bénéficiaires de la révélation (vous ou toute l'équipe) non vérifiés.
-- **PTB 10.2.0** : non vérifiable — UNCERTAIN
-- **Interactions, DR** : Broken permanent → anti-synergie avec soins et perks Healthy (FACT sur Broken ; application à cette perk = seed).
+- **Statut** : LIVE 10.1.2a
+- **Effet LIVE** : au sous-sol, près du cercle, Active Ability → invocation de **60 s** ; pendant l'invocation, votre aura est révélée aux autres survivants, qui peuvent la rejoindre (+100 % de vitesse s'ils ont une perk d'Invocation, +50 % sinon). Une fois terminée : chaque fois que le tueur effraie un corbeau alors qu'un survivant est **dans son Terror Radius**, l'aura du tueur est révélée à **tous les survivants** 1/1,5/2 s ; vous passez Injured et restez **Broken** jusqu'à la fin de l'épreuve — STRONG_SECONDARY (wiki page complète [27])
+- **Valeurs / CD / conditions / limites** : 60 s ; 1/1,5/2 s ; bénéficiaires = tous les survivants (question du lot 2 résolue). Note 9.2.1 [38] : correctif de priorité avec ONE-TWO-THREE-FOUR! — sans changement de valeur.
+- **PTB 10.2.0** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [27][34].
+- **Interactions, DR** : Broken permanent → anti-synergie avec soins et perks Healthy (FACT, wiki [27]). Un allié qui aide l'invocation divise le temps passé au sous-sol (+50/+100 %).
 - **Synergies** : No Mither (déjà Broken), builds Injured.
 - **Difficulté** : 3
 - **Valeur (HEURISTIC)** : SoloQ 0 · SWF 0 · chase 0 · macro 0 · info 1 · anti-tunnel 0 · soin 0 · gen 0 · endgame 0
@@ -360,14 +362,14 @@
   - Parties fun / défi ; info marginale sur des cartes riches en corbeaux.
 - **Quand elle n'en produit pas** :
   - Toute partie sérieuse : 60 s au sous-sol + Broken permanent.
-- **Écart avec le seed** : NON VÉRIFIABLE (« l'une des pires perks » = EXPERT OPINION non sourcée)
-- **Sources** : aucune (seed)
+- **Écart avec le seed** : IMPRÉCIS mineur (valeurs OK ; « corbeau près d'un survivant » = survivant **dans le Terror Radius** du tueur ; omet l'aide des alliés et le partage de l'info à toute l'équipe). « L'une des pires perks » = EXPERT OPINION non sourcée.
+- **Sources** : [27][34]
 
 ### Duty of Care — Orela Rose
-- **Statut** : LIVE 10.1.2a (supposé)
-- **Effet LIVE** : seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) : protection hit pris en bonne santé → alliés à 12 m gagnent 25 % de Haste pendant 4/5/6 s — UNCERTAIN
-- **Valeurs / CD / conditions / limites** : seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN ; valeur « 25 % Haste » inhabituellement haute → à vérifier en priorité.
-- **PTB 10.2.0** : non vérifiable — UNCERTAIN
+- **Statut** : LIVE 10.1.2a
+- **Effet LIVE** : en bonne santé, prendre un protection hit donne à tous les autres survivants à **12 m** de vous **+25 % de Haste** pendant **4/5/6 s** — STRONG_SECONDARY (wiki page complète [27])
+- **Valeurs / CD / conditions / limites** : 25 % (confirmé, malgré la valeur élevée) ; 12 m (réduit de 16 à 12 m au PTB 8.7.0 selon le change log) ; 4/5/6 s. Pas de recharge mentionnée.
+- **PTB 10.2.0** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [27][34].
 - **Interactions, DR** : Haste soumis aux DR 9.6.0 entre sources identiques ; cumul avec protections d'unhook (10 % Haste) → HYPOTHESIS.
 - **Synergies** : Borrowed Time, We're Gonna Live Forever, Babysitter (non vérifié).
 - **Difficulté** : 2
@@ -376,31 +378,31 @@
   - Joueur « bodyblocker » qui prend des coups pour un allié blessé.
 - **Quand elle n'en produit pas** :
   - Pas de protection hit dans la partie.
-- **Écart avec le seed** : NON VÉRIFIABLE
-- **Sources** : aucune (seed)
+- **Écart avec le seed** : OK (12 m, 25 %, 4/5/6 s)
+- **Sources** : [27][34]
 
 ### Rapid Response — Orela Rose
-- **Statut** : LIVE 10.1.2a (supposé)
-- **Effet LIVE** : seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) : sortie rapide de casier → Exhausted 30/25/20 s ; chaque fois que vous devenez Exhausted, vous voyez le tueur 2 s — UNCERTAIN
-- **Valeurs / CD / conditions / limites** : seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN.
-- **PTB 10.2.0** : non vérifiable — UNCERTAIN
-- **Interactions, DR** : anti-synergie évidente avec les perks d'Exhaustion (Sprint Burst, Lithe, Dead Hard) si l'Exhaustion est imposée (HYPOTHESIS, selon libellé exact).
-- **Synergies** : Vigil (réduction d'Exhaustion) — HYPOTHESIS.
+- **Statut** : LIVE 10.1.2a
+- **Effet LIVE** : chaque fois que vous devenez Exhausted (toute source), l'aura du tueur vous est révélée **2 s**. Une sortie **précipitée** de casier permet de vous infliger volontairement Exhausted pendant **30/25/20 s** ; impossible d'écraser un Exhausted déjà présent — STRONG_SECONDARY (wiki page complète [27])
+- **Valeurs / CD / conditions / limites** : 2 s fixe ; 30/25/20 s (valeurs modifiées au PTB 8.7.0 selon le change log).
+- **PTB 10.2.0** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [27][34].
+- **Interactions, DR** : l'Exhaustion volontaire (casier) bloque vos perks d'Exhaustion (Sprint Burst, Lithe, Dead Hard) pendant 30/25/20 s : ne l'utiliser que pour l'info. En revanche, chaque usage d'une perk d'Exhaustion déclenche aussi l'aura 2 s (synergie, FACT d'après le libellé « whenever »).
+- **Synergies** : perks d'Exhaustion (aura du tueur à chaque usage) ; Vigil (réduction d'Exhaustion) — HYPOTHESIS.
 - **Difficulté** : 2
 - **Valeur (HEURISTIC)** : SoloQ 0 · SWF 0 · chase 0 · macro 0 · info 1 · anti-tunnel 0 · soin 0 · gen 0 · endgame 0
 - **Quand elle produit de la valeur** :
-  - Info ponctuelle sur le tueur avec une perk d'Exhaustion (seed).
+  - Info ponctuelle sur le tueur à chaque usage d'une perk d'Exhaustion (2 s d'aura juste après un Sprint Burst, un Dead Hard…).
 - **Quand elle n'en produit pas** :
-  - Si elle bloque votre perk d'Exhaustion principale.
-- **Écart avec le seed** : NON VÉRIFIABLE
-- **Sources** : aucune (seed)
+  - Usage volontaire au casier : il bloque votre perk d'Exhaustion principale 30/25/20 s.
+- **Écart avec le seed** : OK (sortie « rapide » = précipitée ; omet qu'elle ne peut pas écraser un Exhausted existant, mineur)
+- **Sources** : [27][34]
 
 ### Apocalyptic Ingenuity — Rick Grimes
-- **Statut** : LIVE 10.1.2a (retouchée en 10.1.0 : « 1 coffre » d'après l'audit)
-- **Effet LIVE** : partiellement vérifié. Audit (notes 10.1.0) : condition ramenée à **1 coffre** [12]. Reste — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — (3 s près d'une palette cassée → palette fragile ; aura des palettes cassées à 24/28/32 m) = seed, UNCERTAIN.
-- **Valeurs / CD / conditions / limites** : 1 coffre (10.1.0, VERIFIED via audit) ; le reste seed.
-- **PTB 10.2.0** : non vérifiable — UNCERTAIN
-- **Interactions, DR** : palette « fragile » (casse au lieu d'étourdir ? non vérifié).
+- **Statut** : LIVE 10.1.2a (retouchée en 10.1.0)
+- **Effet LIVE** : aura des palettes cassées à **24/28/32 m** ; après avoir ouvert ou fouillé **1 coffre**, maintenir Active Ability **3 s** à l'emplacement d'une palette cassée la reconstruit en **palette fragile**, qui se brise instantanément une fois abaissée — VERIFIED_MULTI_SOURCE (wiki page complète [27] ; note 10.1.0 : « 1 Chest… 3s… (was 2 chests, and 4 seconds) … 24/28/32m » [33] ; note 9.1.0 : version d'origine 2 coffres / 4 s [29])
+- **Valeurs / CD / conditions / limites** : 1 coffre, 3 s, 24/28/32 m (LIVE depuis 10.1.0) ; 2 coffres / 4 s = OBSOLETE (9.1.0-10.0.x). Pas de limite d'usage mentionnée.
+- **PTB 10.2.0** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [27][34].
+- **Interactions, DR** : palette fragile = « instantly break when dropped » (wiki) / « destroyed after being dropped » (note 9.1.0) ; qu'elle étourdisse le tueur en tombant n'est pas précisé — UNCERTAIN.
 - **Synergies** : Plunderer's Instinct, Appraisal, Ace in the Hole.
 - **Difficulté** : 2
 - **Valeur (HEURISTIC)** : SoloQ 1 · SWF 1 · chase 1 · macro 1 · info 0 · anti-tunnel 0 · soin 0 · gen 0 · endgame 0
@@ -408,8 +410,8 @@
   - Carte dépouillée de palettes en milieu de partie.
 - **Quand elle n'en produit pas** :
   - Début de partie (palettes intactes) ; tueurs qui ignorent les palettes fragiles.
-- **Écart avec le seed** : OK sur « 1 coffre » ; reste NON VÉRIFIABLE
-- **Sources** : [12]
+- **Écart avec le seed** : OK (1 coffre, 3 s, 24/28/32 m : note 10.1.0)
+- **Sources** : [27][29][33][34][12]
 
 ---
 
@@ -417,31 +419,39 @@
 
 | ID | Claim | Source | Patch | Confiance |
 |---|---|---|---|---|
-| P29-C01 | Premonition : cône 45°, 36 m, recharge 60/45/30 s | [1][2] | LIVE | STRONG_SECONDARY |
-| P29-C02 | Premonition : aura 3 s, recharge 70/65/60 s, désactivée en poursuite | [3][4] | PTB 10.2.0 | STRONG_SECONDARY |
-| P29-C03 | Slippery Meat : +3 tentatives, +2/3/4 % | [6] | LIVE | STRONG_SECONDARY |
-| P29-C04 | Slippery Meat : décrochage par allié 90/95/100 % plus rapide + 5 % Haste | [3][4] | PTB 10.2.0 | STRONG_SECONDARY |
-| P29-C05 | Small Game : 45°, 8/10/12 m, recharge 14/12/10 s, −5°/jeton (max −25°) | [7] | LIVE | STRONG_SECONDARY |
-| P29-C06 | Small Game : aura des totems à 10/11/12 m | [3][4] | PTB 10.2.0 | STRONG_SECONDARY |
-| P29-C07 | TINH : Great +10/20/30 % en réparation et soin, Injured requis | [8] | LIVE | STRONG_SECONDARY |
-| P29-C08 | TINH : Good +150/175/200 %, Great +30 %, sans condition Injured | [9] | PTB 10.2.0 | UNCERTAIN |
-| P29-C09 | Calm Spirit : totems/coffres 40/35/30 % plus lents | [10] | LIVE | STRONG_SECONDARY |
-| P29-C10 | Calm Spirit : +8/9/10 % sur totems/coffres | [4] | PTB 10.2.0 | STRONG_SECONDARY |
-| P29-C11 | Technician : −16 m de bruit, pénalité +4/3/2 % | [12][11] | LIVE (10.1.0) | VERIFIED_MULTI_SOURCE |
-| P29-C12 | No Mither : gémissements −100 % (9.2.0), récupération +15/20/25 % | [13] | LIVE | STRONG_SECONDARY |
-| P29-C13 | Ace in the Hole : 100 % add-on ≤ Very Rare, 10/25/50 % second ≤ Uncommon | [14] | LIVE | STRONG_SECONDARY |
-| P29-C14 | Up the Ante : +1/2/3 % par jeton, max 3/6/9 % | [15] | LIVE | STRONG_SECONDARY |
-| P29-C15 | Visionary : 32 m, désactivée 20/18/16 s | [16] | LIVE | STRONG_SECONDARY |
-| P29-C16 | Better Together : 20/25/30 s, portée illimitée (9.1.0) | [17] | LIVE | STRONG_SECONDARY |
-| P29-C17 | Camaraderie : 16 m, pause 26/30/34 s | [18] | LIVE | STRONG_SECONDARY |
-| P29-C18 | Red Herring : 1 s, recharge 25/20/15 s | [19] | LIVE | STRONG_SECONDARY |
-| P29-C19 | Rookie Spirit : 5/4/3 skill checks | [20] | LIVE | STRONG_SECONDARY |
-| P29-C20 | Better Than New : 12/14/16 % (LIVE) → 40/45/50 % (PTB) | [21][25][4] | LIVE / PTB 10.2.0 | STRONG_SECONDARY |
-| P29-C21 | Low Profile : 70/80/90 s, usage unique | [22] | LIVE | STRONG_SECONDARY |
-| P29-C22 | Collective Stealth : 8/12/16 m, 4 s de persistance | [23] | LIVE | STRONG_SECONDARY |
-| P29-C23 | Cut Loose : 4/5/6 s, recharge 45 s, 1er saut non silencieux | [24] | LIVE | STRONG_SECONDARY |
-| P29-C24 | Friendly Competition : 10 % pendant 80/85/90 s | [25][4] | PTB 10.2.0 | STRONG_SECONDARY |
-| P29-C25 | Apocalyptic Ingenuity : condition 1 coffre | [12] | LIVE (10.1.0) | STRONG_SECONDARY (audit) |
+| P29-C01 | Premonition : cône 45°, 36 m, recharge 60/45/30 s | [27][34] | LIVE | VERIFIED_MULTI_SOURCE |
+| P29-C02 | Premonition : hors poursuite, 32 m, aura 3 s, recharge 70/65/60 s | [27][34] | PTB 10.2.0 (NON LIVE) | VERIFIED_MULTI_SOURCE |
+| P29-C03 | Slippery Meat : +3 tentatives, +2/3/4 % | [27][6] | LIVE | STRONG_SECONDARY |
+| P29-C03b | Slippery Meat / Up the Ante débloquent l'auto-décrochage (hors cas 2 survivants / offrande) | [28] | 9.0.0 → LIVE | VERIFIED_MULTI_SOURCE |
+| P29-C04 | Slippery Meat : décrochage par allié 90/95/100 % plus rapide + 5 % Haste | [27][34] | PTB 10.2.0 (NON LIVE) | VERIFIED_MULTI_SOURCE |
+| P29-C05 | Small Game : 45°, 8/10/12 m, recharge 14/12/10 s, −5°/jeton (max −25°) | [27][7] | LIVE | STRONG_SECONDARY |
+| P29-C06 | Small Game : aura des totems à 10/11/12 m | [27][34] | PTB 10.2.0 (NON LIVE) | VERIFIED_MULTI_SOURCE |
+| P29-C07 | TINH : Great +10/20/30 % en réparation et soin, Injured requis | [27][34] | LIVE | VERIFIED_MULTI_SOURCE |
+| P29-C08 | TINH : Good +150/175/200 %, Great +30 % fixe, sans condition Injured | [27][34] | PTB 10.2.0 (NON LIVE) | VERIFIED_MULTI_SOURCE |
+| P29-C09 | Calm Spirit : totems/coffres 40/35/30 % plus lents | [27][34][32] | LIVE | VERIFIED_MULTI_SOURCE |
+| P29-C10 | Calm Spirit : +8/9/10 % sur totems/coffres | [27][34] | PTB 10.2.0 (NON LIVE) | VERIFIED_MULTI_SOURCE |
+| P29-C11 | Technician : −16 m de bruit, pénalité +4/3/2 % | [27][33] | LIVE (10.1.0) | VERIFIED_MULTI_SOURCE |
+| P29-C12 | No Mither : pas de sang, gémissements −100 % (9.2.0), récupération +15/20/25 % | [27][30] | LIVE | VERIFIED_MULTI_SOURCE |
+| P29-C13 | Ace in the Hole : 1er add-on 100 % ≤ Visceral/Ultra Rare ; 2e 50/75/100 % ≤ Uncommon | [27] | LIVE (depuis 8.4.0) | STRONG_SECONDARY |
+| P29-C14 | Up the Ante : +1/2/3 % par jeton, max 3/6/9 % | [27][15] | LIVE | STRONG_SECONDARY |
+| P29-C15 | Visionary : 32 m, désactivée 20/18/16 s | [27][16] | LIVE | STRONG_SECONDARY |
+| P29-C16 | Better Together : 20/25/30 s, portée illimitée (9.1.0) | [27][29] | LIVE | VERIFIED_MULTI_SOURCE |
+| P29-C17 | Camaraderie : 16 m, pause 26/30/34 s | [27][18] | LIVE | STRONG_SECONDARY |
+| P29-C18 | Red Herring : 1 s, recharge 25/20/15 s | [27][19] | LIVE | STRONG_SECONDARY |
+| P29-C19 | Rookie Spirit : 5/4/3 skill checks | [27][20] | LIVE | STRONG_SECONDARY |
+| P29-C20 | Better Than New : 12/14/16 % (LIVE) → 40/45/50 % (PTB) | [27][34] | LIVE / PTB 10.2.0 (NON LIVE) | VERIFIED_MULTI_SOURCE |
+| P29-C21 | Low Profile : 70/80/90 s, **redéclenchable** (plusieurs fois par épreuve) | [27][31] | LIVE (9.5.0) | VERIFIED_MULTI_SOURCE |
+| P29-C22 | Collective Stealth : 8/12/16 m, 4 s de persistance | [27][23] | LIVE | STRONG_SECONDARY |
+| P29-C23 | Cut Loose : 4/5/6 s, recharge 45 s, déclenché par un Rushed Vault | [27][24] | LIVE | STRONG_SECONDARY |
+| P29-C24 | Friendly Competition : +5 % pendant 100/110/120 s | [27][30][34] | LIVE | VERIFIED_MULTI_SOURCE |
+| P29-C24b | Friendly Competition : +10 % pendant 80/85/90 s | [27][34] | PTB 10.2.0 (NON LIVE) | VERIFIED_MULTI_SOURCE |
+| P29-C25 | Apocalyptic Ingenuity : 1 coffre, 3 s, 24/28/32 m | [27][33] | LIVE (10.1.0) | VERIFIED_MULTI_SOURCE |
+| P29-C26 | Deadline : Injured, réparation/soin, +6/8/10 % de skill checks, pénalité −50 % | [27] | LIVE | STRONG_SECONDARY |
+| P29-C27 | Hardened : coffre + totem → cri supprimé, aura du tueur 3/4/5 s | [27] | LIVE | STRONG_SECONDARY |
+| P29-C28 | Treacherous Crows : 60 s ; aura du tueur 1/1,5/2 s à tous (survivant dans le TR) ; Injured + Broken | [27] | LIVE | STRONG_SECONDARY |
+| P29-C29 | Duty of Care : 12 m, +25 % Haste, 4/5/6 s | [27] | LIVE | STRONG_SECONDARY |
+| P29-C30 | Rapid Response : aura 2 s à chaque Exhausted ; Exhausted volontaire 30/25/20 s | [27] | LIVE | STRONG_SECONDARY |
+| P29-C31 | Technician, No Mither, Ace in the Hole, Up the Ante, Visionary, Better Together, Camaraderie, Red Herring, Rookie Spirit, Low Profile, Collective Stealth, Cut Loose, Deadline, Hardened, Treacherous Crows, Duty of Care, Rapid Response, Apocalyptic Ingenuity : non modifiées au PTB 10.2.0 | [27][34] | PTB 10.2.0 | VERIFIED_MULTI_SOURCE |
 
 ## Conflits
 
@@ -449,61 +459,73 @@
 - Source A : résumé wiki Technician [11] : « increased by 4/3/2% »
 - Source B : même résumé, section historique : « decreased from +3/+4/+5% to +2/+3/+4% »
 - Hypothèse : B liste les tiers dans l'ordre inverse (III→I) ; valeurs identiques en ensemble (5/4/3 → 4/3/2).
-- Résolution : **4/3/2 % (tier I→III)**, confirmé par l'audit phase 0 (notes 10.1.0) [12].
+- Résolution : **RÉSOLU — 4/3/2 % (tier I→III)** : page wiki complète « by 4 / 3 / 2 % » [27] et note 10.1.0 « 4/3/2% more progress (was 5/4/3%) » [33].
 
 #### CONFLICT-P29-02 : Premonition PTB, portée
 - Source A : seed p32 : « directionnelle, 32 m »
 - Source B : résumés patched.gg / timesaver [3][4] : aura 3 s, recharge 70/65/60 s, désactivée en poursuite ; aucune portée citée.
-- Hypothèse : 32 m peut être exact mais absent des résumés.
-- Résolution : UNRESOLVED
+- Résolution : **RÉSOLU — 32 m (PTB 10.2.0, NON LIVE)** : note 559 « within 32 m (was 36m and within 45 degrees) » [34] ; page wiki complète [27].
 
 #### CONFLICT-P29-03 : This Is Not Happening PTB, valeurs
 - Source A : résumé [9] : Good +150/175/200 %, Great « 30 % (reduced from 10/20/30 %) », condition Injured supprimée.
 - Source B : seed : « zones good et great agrandies » (sans chiffres) ; timesaver : « buffed to fit the same niche as Stake Out » [4].
-- Hypothèse : Great passe à 30 % fixe sur tous les tiers (hausse pour I/II), formulation du résumé erronée.
-- Résolution : UNRESOLVED (valeurs exactes)
+- Résolution : **RÉSOLU — Great +30 % fixe à tous les tiers, Good +150/175/200 %, plus de condition Injured (PTB 10.2.0, NON LIVE)** : note 559 « Great basic Skill Check zones are 30% bigger (was while injured and 10/20/30%) » [34] ; wiki [27]. Le « reduced » du résumé était une erreur de formulation.
 
 #### CONFLICT-P29-04 : Red Herring, activation et recharge
 - Source A : premier résumé [19] : 3 s, recharge 60/50/40 s
 - Source B : second résumé [19] : buff 3 → 1 s, 60/50/40 → 25/20/15 s
-- Hypothèse : A = texte d'avant le buff.
-- Résolution : **1 s / 25/20/15 s** (LIVE), STRONG_SECONDARY.
+- Résolution : **RÉSOLU — 1 s / 25/20/15 s (LIVE)** : page wiki complète [27] (change log 8.6.0). A = texte d'avant 8.6.0.
+
+#### CONFLICT-P29-05 : Ace in the Hole, rareté et chance du 2e add-on (ouvert au lot 12a)
+- Source A : résumé fandom [14] (lot 2) : 1er add-on ≤ Very Rare, 2e à 10/25/50 %.
+- Source B : page wiki.gg complète [27] : 1er ≤ Visceral (Ultra Rare), 2e à 50/75/100 % ; change log 8.4.0 : « from Very Rare to Ultra Rare », « from 10/25/50 % to 50/75/100 % ».
+- Résolution : **RÉSOLU — B (LIVE depuis 8.4.0)** ; A = valeurs d'avant 8.4.0 (OBSOLETE). Le verdict « FAUX » contre le seed est annulé.
+
+#### CONFLICT-P29-06 : Low Profile, usage unique ou multiple (ouvert au lot 12a)
+- Source A : résumé [22] et wiki (« Low Profile deactivates after use ») : lu au lot 2 comme « usage unique ».
+- Source B : note 9.5.0 : « enabled multiple triggers per Trial » [31] ; change log wiki 6.2.0 : « multiple activations during the Trial » [27].
+- Résolution : **RÉSOLU — redéclenchable** : « deactivates after use » désigne la fin de chaque activation, pas un usage unique.
 
 ## Écarts avec le guide seed
 
 | Élément | Le guide dit | Vérifié | Verdict |
 |---|---|---|---|
-| Technician | bruit −8 m, pénalité +5/4/3 % | −16 m, +4/3/2 % (10.1.0) | FAUX (OBSOLETE) |
-| Ace in the Hole | add-on « rare ou mieux », 2e à 50/75/100 % | ≤ Very Rare (100 %), 2e ≤ Uncommon à 10/25/50 % | FAUX |
-| Slippery Meat | 6 tentatives, +2/3/4 % | exact, mais omet qu'elle débloque l'auto-décrochage (9.0.0) | IMPRÉCIS |
-| Up the Ante | +1/2/3 % par allié vivant | exact ; omet max 3/6/9 % et le déblocage d'auto-décrochage | IMPRÉCIS |
-| This Is Not Happening (LIVE) | Great +10/20/30 % blessé | + réparation et soin seulement | IMPRÉCIS mineur |
-| This Is Not Happening (PTB) | good et great agrandies | Good +150/175/200 %, Great 30 %, sans Injured (UNCERTAIN) | OK (non chiffré) |
-| Premonition (PTB, p32) | directionnelle, 32 m | aura 3 s, CD 70/65/60 s, off en poursuite ; 32 m non trouvé | NON VÉRIFIABLE (portée) |
-| Slippery Meat (PTB, p32) | +5 % Haste | + décrochage par allié 90/95/100 % plus rapide | IMPRÉCIS |
-| Small Game (PTB) | aura 10/11/12 m | idem | OK |
-| Calm Spirit (PTB) | 8/9/10 % plus rapide | idem | OK |
-| Better Than New (PTB) | 40/45/50 % | idem | OK |
-| Friendly Competition (PTB) | 10 % pendant 80/85/90 s | idem | OK |
-| Friendly Competition (LIVE) | 5 % pendant 100/110/120 s | non vérifié (quota) | NON VÉRIFIABLE |
-| Low Profile | autres à terre ou accrochés | + portés ; usage unique | IMPRÉCIS mineur |
-| Cut Loose | saut moyen ou rapide | « Rush Vault » ; 1er saut non silencieux | IMPRÉCIS / UNCERTAIN |
-| Red Herring | 1 s, 25/20/15 s | idem | OK |
-| Premonition, Small Game, Calm Spirit, No Mither, Visionary, Better Together, Camaraderie, Rookie Spirit, Better Than New, Collective Stealth (LIVE) | valeurs seed | concordantes | OK |
-| Deadline, Hardened, Treacherous Crows, Duty of Care, Rapid Response | valeurs seed | non vérifiées (quota) | NON VÉRIFIABLE |
-| Apocalyptic Ingenuity | 1 coffre, 3 s, 24/28/32 m | 1 coffre confirmé (audit) ; reste non vérifié | OK partiel / NON VÉRIFIABLE |
-| Historique 9.1.0 « buff de Better Together » | — | 8/9/10 → 20/25/30 s, portée retirée | OK |
-| Historique 9.2.0 « No Mither à 100 % » | — | gémissements 100 % | OK |
+| Technician | bruit −8 m, pénalité +5/4/3 % | −16 m, +4/3/2 % (note 10.1.0 [33]) | FAUX (OBSOLETE) |
+| Ace in the Hole | add-on « rare ou mieux », 2e uncommon à 50/75/100 % | 1er ≤ Ultra Rare (100 %), 2e ≤ Uncommon à 50/75/100 % [27] | IMPRÉCIS (2e emplacement OK ; « rare ou mieux » faux sens). Verdict « FAUX » du lot 2 annulé |
+| Slippery Meat | 6 tentatives, +2/3/4 % | exact, mais omet qu'elle débloque l'auto-décrochage (note 9.0.0 [28]) | IMPRÉCIS |
+| Up the Ante | +1/2/3 % par allié vivant | exact ; omet max 3/6/9 % et le déblocage d'auto-décrochage [27][28] | IMPRÉCIS |
+| This Is Not Happening (LIVE) | Great +10/20/30 % blessé | + réparation et soin seulement (note 559 « was while injured and 10/20/30% ») | IMPRÉCIS mineur |
+| This Is Not Happening (PTB) | good et great agrandies | Good +150/175/200 %, Great +30 %, sans Injured [34] | OK (non chiffré) |
+| Premonition (PTB, p32) | directionnelle, 32 m | 32 m, aura 3 s, CD 70/65/60 s, off en poursuite [34] | OK |
+| Slippery Meat (PTB, p32) | +5 % Haste | + décrochage par allié 90/95/100 % plus rapide [34] | IMPRÉCIS |
+| Small Game (PTB) | aura 10/11/12 m | idem [34] | OK |
+| Calm Spirit (PTB) | 8/9/10 % plus rapide | idem [34] | OK |
+| Better Than New (PTB) | 40/45/50 % | idem [34] | OK |
+| Friendly Competition (LIVE) | 5 % pendant 100/110/120 s | idem [27][30][34] | OK |
+| Friendly Competition (PTB) | 10 % pendant 80/85/90 s | idem [34] | OK |
+| Low Profile | autres à terre ou accrochés, 70/80/90 s | texte officiel 9.5.0 identique ; wiki ajoute « portés » ; redéclenchable | OK |
+| Cut Loose | saut moyen ou rapide | « Rushed Vault » ; 1er saut non couvert | IMPRÉCIS / UNCERTAIN |
+| Red Herring | 1 s, 25/20/15 s | idem [27] | OK |
+| Deadline | Injured, 6/8/10 %, au hasard, −50 % | idem + « ou en soignant » [27] | OK |
+| Hardened | coffre ET totem, cri → aura 3/4/5 s | idem ; le cri est supprimé [27] | OK |
+| Treacherous Crows | 60 s, Injured + Broken, corbeau « près d'un survivant », 1/1,5/2 s | survivant **dans le Terror Radius** ; info pour **tous** les survivants [27] | IMPRÉCIS mineur |
+| Duty of Care | protection hit en bonne santé, 12 m, 25 % Haste, 4/5/6 s | idem [27] | OK |
+| Rapid Response | casier → Exhausted 30/25/20 s ; aura 2 s à chaque Exhausted | idem [27] | OK |
+| Apocalyptic Ingenuity | 1 coffre, 3 s, 24/28/32 m | idem (note 10.1.0 [33]) | OK |
+| Premonition, Small Game, Calm Spirit, No Mither, Visionary, Better Together, Camaraderie, Rookie Spirit, Better Than New, Collective Stealth (LIVE) | valeurs seed | concordantes [27] | OK |
+| Historique 9.1.0 « buff de Better Together » | — | 8/9/10 → 20/25/30 s, portée retirée [29] | OK |
+| Historique 9.2.0 « No Mither à 100 % » | — | gémissements 100 % [30] | OK |
 | Historique 10.1.0 « Technician retouchée » | — | oui, mais la p29 affiche les valeurs d'avant | Incohérence interne du seed |
 
 ## Questions ouvertes
 
-1. Vérifier (quand le quota WebSearch le permet) : Friendly Competition LIVE, Deadline, Hardened, Invocation: Treacherous Crows, Duty of Care (valeur « 25 % Haste » suspecte), Rapid Response, Apocalyptic Ingenuity (3 s, 24/28/32 m, nature de la palette fragile).
-2. PTB 10.2.0 : liste complète des 58 perks non consultée → confirmer qu'aucune autre perk de cette page (Technician, No Mither, Visionary, Red Herring…) n'y figure.
-3. Premonition PTB : portée exacte (32 m ?). TINH PTB : valeurs exactes des zones Great.
-4. Cut Loose : le « Rush Vault » inclut-il le saut moyen ?
-5. Luck (Slippery Meat, Up the Ante) et vitesses de soin/réparation (Better Than New, Friendly Competition) : soumis aux DR 9.6.0 ? (liste DR du manuel 9.6.1 non consultée).
-6. No Mither : suppression des flaques de sang non re-confirmée par le résumé lu.
+1. Cut Loose : le « Rushed Vault » inclut-il le saut moyen ?
+2. Luck (Slippery Meat, Up the Ante) et vitesses de soin/réparation (Better Than New, Friendly Competition) : soumis aux DR 9.6.0 ? La note 9.6.0 [32] parle de modificateurs « identiques » sans liste ; le manuel 9.6.1 n'a pas été consulté.
+3. Hardened + Calm Spirit : la révélation se déclenche-t-elle quand Calm Spirit empêche le cri ?
+4. Apocalyptic Ingenuity : la palette fragile étourdit-elle le tueur quand elle tombe ?
+5. Ace in the Hole : application à Pharmacy / Residual Manifest / Appraisal (résumé [14] seulement).
+6. Up the Ante : décompte exact des jetons (vous inclus ou non ; plafond 3).
+7. Toutes les valeurs PTB 10.2.0 : à revérifier à la sortie LIVE du 10.2.0 (estimée début octobre 2026).
 
 ## Sources
 
@@ -533,3 +555,15 @@
 [24] Cut Loose — Official DBD Wiki — https://deadbydaylight.wiki.gg/wiki/Cut_Loose — consulté le 27/09/2026 via WebSearch
 [25] 10.2.0 | PTB Patch Notes — SteamPeaks — https://steampeaks.com/news/706656822950364293 — consulté le 27/09/2026 via WebSearch
 [26] Dev Update: 10.2.0 Perks Update — BHVR forums — https://forums.bhvr.com/dead-by-daylight/discussion/472297/dev-update-10-2-0-perks-update — consulté le 27/09/2026 via WebSearch (URL renvoyée, non résumée)
+[27] deadbydaylight.wiki.gg/wiki/<Page> — page complète via API, consultée le 27/09/2026 — pages : Premonition, Slippery_Meat, Small_Game, This_Is_Not_Happening, Calm_Spirit, Technician, No_Mither, Ace_in_the_Hole, Up_the_Ante, Visionary, Better_Together, Camaraderie, Red_Herring, Rookie_Spirit, Better_than_New, Low_Profile, Teamwork:_Collective_Stealth, Cut_Loose, Friendly_Competition, Deadline, Hardened, Invocation:_Treacherous_Crows, Duty_of_Care, Rapid_Response, Apocalyptic_Ingenuity (extrait local : `kb/sources/wiki_perks_digest.md`, brut `wiki_perks.json`)
+[28] 9.0.0 | Five Nights at Freddy's — notes officielles BHVR — https://forums.bhvr.com/dead-by-daylight/kb/articles/510 — copie locale `kb/sources/patches/official_510.txt`, lue le 27/09/2026
+[29] 9.1.0 | The Walking Dead — notes officielles BHVR — https://forums.bhvr.com/dead-by-daylight/kb/articles/516 — copie locale official_516.txt, lue le 27/09/2026
+[30] 9.2.0 | Sinister Grace — notes officielles BHVR — https://forums.bhvr.com/dead-by-daylight/kb/articles/523 — copie locale official_523.txt, lue le 27/09/2026
+[31] 9.5.0 | All-Kill: Comeback — notes officielles BHVR — https://forums.bhvr.com/dead-by-daylight/kb/articles/538 — copie locale official_538.txt, lue le 27/09/2026
+[32] 9.6.0 | Patch Notes — notes officielles BHVR — https://forums.bhvr.com/dead-by-daylight/kb/articles/544 — copie locale official_544.txt, lue le 27/09/2026
+[33] 10.1.0 | Chorus of Sin — notes officielles BHVR — https://forums.bhvr.com/dead-by-daylight/kb/articles/556 — copie locale official_556.txt, lue le 27/09/2026
+[34] 10.2.0 PTB Patch Notes (NON LIVE) — notes officielles BHVR — https://forums.bhvr.com/dead-by-daylight/kb/articles/559 — copie locale official_559.txt, lue le 27/09/2026
+[35] 10.0.3 | Bugfix Patch — notes officielles BHVR — https://forums.bhvr.com/dead-by-daylight/kb/articles/553 — copie locale official_553.txt, lue le 27/09/2026
+[36] 9.5.1 | Bugfix Patch — notes officielles BHVR — https://forums.bhvr.com/dead-by-daylight/kb/articles/539 — copie locale official_539.txt, lue le 27/09/2026
+[37] 9.4.1 | Bugfix Patch — notes officielles BHVR — https://forums.bhvr.com/dead-by-daylight/kb/articles/535 — copie locale official_535.txt, lue le 27/09/2026
+[38] 9.2.1 | Bugfix Patch — notes officielles BHVR — https://forums.bhvr.com/dead-by-daylight/kb/articles/524 — copie locale official_524.txt, lue le 27/09/2026

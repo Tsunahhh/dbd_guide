@@ -1,141 +1,165 @@
 # Lot 4 — Fiches tueurs 23 à 30 vues du SURVIVANT (ch8_killers.txt l. 1094-1418)
 
-> **Statut : WRITTEN + AUDITED (audits adversariaux §25-26 du 27/09/2026, sans web) — voir kb/audit/pass14_lot4_g4-g6.md**
+> **Statut : WRITTEN + AUDITED (audits adversariaux §25-26 du 27/09/2026, sans web) — voir kb/audit/pass14_lot4_g4-g6.md ; RE-VÉRIFIÉ lot 12b (27/09/2026) sur pages wiki complètes + notes officielles**
 >
 > Rappels de l'audit : toutes les consignes sont des **HEURISTIC** (option par défaut, à varier contre un tueur qui l'anticipe) ; le **pré-drop n'est pas universel** (voir `KILLER_COUNTERPLAY_HANDBOOK.md` §2.2) ; les lignes « Équipe » qui supposent une répartition des rôles demandent le vocal (SWF) — en SoloQ, les appliquer seulement sur signaux observables ; aucune fiche n'a encore de rubrique DRILL ni d'interactions perks survivant ↔ pouvoir vérifiées.
 
-**Couverture web : 0 élément vérifié par recherche / 8 tueurs (toutes valeurs) non re-vérifiés (quota WebSearch de session épuisé 200/200 avant la 1re requête de cet agent).**
+**Couverture : 8/8 tueurs re-vérifiés sur page wiki complète (27/09/2026), dont 24 points confirmés par note officielle** (lot 12b ; détail dans « Claims » : lignes VERIFIED_PRIMARY / VERIFIED_MULTI_SOURCE).
 
 - Référence : LIVE 10.1.2a (17/09/2026) ; PTB 10.2.0 (15-21/09/2026) **non LIVE**, toujours étiqueté PTB. Date de travail : 27/09/2026.
 - Périmètre : Trickster, Nemesis, Cenobite, Artist, Onryō, Dredge, Mastermind, Knight.
-- Sources réellement utilisées : seed `kb/seed/ch8_killers.txt` [1] et audit `kb/seed/audit_phase0.txt` [2] (historique des patchs 9.0.0 → 10.1.2a, corrections déjà prouvées). **Aucune source web consultée par cet agent.**
+- Sources : seed [1], audit phase 0 [2], **pages wiki.gg complètes [3]-[10]** (texte local `kb/sources/wiki_killers/`, page Cenobite lue via `kb/tools/wiki_text.py`), **notes officielles BHVR [11]-[23]** (`kb/sources/patches/official_*.txt`). Attention : certaines pages wiki affichent déjà des textes du **PTB 10.2.0** (Superior Anatomy sur la page Mastermind, avec bandeau ; **Dissolution sur la page Dredge, sans bandeau** — repéré par comparaison avec la note PTB [23]) ; ces textes ne sont pas LIVE.
 - Conventions de valeur :
-  - « seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) » → **UNCERTAIN**.
-  - « audit [2] » → repris de l'audit phase 0 (vérifié par un lot antérieur sur notes de patch / wiki), non re-vérifié ici → **STRONG_SECONDARY (via audit)**.
-  - « connaissance du modèle (antérieure à mi-2026) » → **UNCERTAIN** ; à re-vérifier avant intégration.
-- Conseils : **HEURISTIC** = analyse de l'agent, non sourcée ; **EXPERT OPINION** n'est utilisé nulle part car aucun guide expert n'a pu être lu ; **SITUATIONAL** = dépend du contexte indiqué ; **FACT** seulement quand la mécanique est confirmée par [2].
+  - **VERIFIED_PRIMARY** = note officielle explicite ; **VERIFIED_MULTI_SOURCE** = wiki complet + note officielle ; **STRONG_SECONDARY** = page wiki complète seule.
+  - « seed, UNCERTAIN » = valeur absente des pages lues.
+  - Les valeurs entre crochets [WIKI], [OFF], [SEED] rappellent la source.
+- Conseils : **HEURISTIC** = analyse de l'agent, non sourcée ; **EXPERT OPINION** n'est utilisé nulle part car aucun guide expert n'a pu être lu ; **SITUATIONAL** = dépend du contexte indiqué ; **FACT** = mécanique lue sur la page wiki / note officielle.
 - Abréviations : TR = terror radius ; LOS = ligne de vue ; gen = générateur.
 
 ---
 
 ## 23. The Trickster (Ji-Woon Hak) — archétype(s) : ranged | anti-loop (usure)
 
-- **Version** : rework 9.5.0 « All-Kill: Comeback » (LIVE 17/03/2026) + buffs 9.5.2 (31/03/2026 : décroissance de Laceration 16 s, add-ons) — audit [2], STRONG_SECONDARY. Aucun changement ultérieur relevé dans [2] jusqu'à 10.1.2a. Statut LIVE.
+- **Version** : rework 9.5.0 « All-Kill: Comeback » (LIVE 17/03/2026) [17] + 9.5.1 (décroissance de Laceration **en pause** au rang S) [18] + 9.5.2 (délai de décroissance 12 → 16 s, add-ons) [19] — VERIFIED_MULTI_SOURCE (wiki [3] + notes officielles). Aucun changement de pouvoir ultérieur dans les notes 9.6.0 → 10.1.2a ni au PTB 10.2.0 [23]. Statut LIVE.
 - **Données LIVE** :
-  - Vitesse 4,4 m/s (110 %, was 4,6) — audit [2], STRONG_SECONDARY.
-  - TR 24 m, **44 m au rang S** (was 32 m) — audit [2], STRONG_SECONDARY.
-  - 36 lames (was 44) ; Main Event disponible seulement au rang maximal — audit [2], STRONG_SECONDARY.
-  - 3,86 m/s en lançant ; ~3 lames/s ; Laceration 6 charges = 1 état de santé ; l'attaque de base retire 3 charges — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN.
-  - Décroissance : 16 s sans touche (audit [2], STRONG_SECONDARY) puis 1 charge / 4,4 s (seed, NON RE-VÉRIFIÉ, UNCERTAIN).
-  - Rang S : notification globale, révélation des survivants à 44 m pendant 4,4 s, Laceration figée, durée max 66 s ; Main Event 10 s, cadence ×1,67, interdit à moins de 20 m d'un survivant accroché — seed, NON RE-VÉRIFIÉ, UNCERTAIN.
-  - Taille : moyenne — seed, UNCERTAIN.
+  - Vitesse 4,4 m/s (110 %, was 4,6) ; TR 24 m (was 32), **44 m au rang S** ; 36 lames (was 44) — VERIFIED_MULTI_SOURCE [3][17].
+  - **Berceuse (Lullaby) : 44 m par défaut, désactivée au rang S** ; volume en cloche : inaudible à < 8 m, maximale entre 20 et 30 m, s'éteint vers 40 m — STRONG_SECONDARY [3].
+  - Taille : moyenne (Average) — STRONG_SECONDARY [3].
+  - Throw State : entrée 0,3 s, sortie 1,15 s ; 1 lame / 0,33 s (≈ 3 lames/s), cadence +5 % après 5 lames, +10 % après 10 ; lames à 55 m/s, portée 128 m — VERIFIED_MULTI_SOURCE [3][17].
+  - **Vitesse en lançant : 3,86 m/s, puis 3,53 m/s après 5 lames consécutives, 3,16 m/s après 10** ; 3,92 m/s pendant Main Event — VERIFIED_MULTI_SOURCE [3][17].
+  - Laceration : 6 charges = 1 état de santé ; +1 charge par lame ; une attaque de base retire immédiatement 3 charges ; décroissance −1 charge / 4,4 s après **16 s** sans être touché par une lame — VERIFIED_MULTI_SOURCE [3][17][19].
+  - Rangs de style E → S (points : touche de lame, blessure, crochet, casse de palette/mur, dégât de gen, Boon éteint = 1 ; 4 lames d'affilée à ≥ 4 m, touche à > 16 m, interruption/saisie = 2 ; touche à travers un petit interstice = 3) ; chaque rang accélère lancer et recharge ; les rangs D-A redescendent après 30 → 20 s sans action — VERIFIED_MULTI_SOURCE [3][17].
+  - Rang S : notification à tous les survivants, révélation (Killer Instinct) de ceux à ≤ 44 m pendant 4,4 s, TR 44 m, berceuse coupée, **Laceration figée** (9.5.1), Main Event disponible ; dure **66 s**, minuteur non rafraîchissable **mais en pause pendant Main Event** — VERIFIED_MULTI_SOURCE [3][17][18].
+  - Main Event : 10 s (annulable), lames illimitées, cadence ×1,67 ; ensuite pouvoir en recharge 4 s et retour au rang E (remontée partielle selon les touches) ; **impossible à activer à < 20 m d'un survivant accroché** — VERIFIED_MULTI_SOURCE [3][17].
+  - Recharge des lames au casier : 3 s ; auras des casiers à lames visibles pour lui à ≤ 36 m quand il n'a plus de lames — STRONG_SECONDARY [3].
+  - Laceration toujours visible sur les portraits des survivants, même vide → **identification dès le chargement** (9.5.0) — STRONG_SECONDARY [3].
 - **Identification** :
-  - Avant le reveal : TR court (24 m) pour un tueur non furtif, vitesse 110 % (il rattrape moins vite qu'un 115 % sur un couloir) — HEURISTIC fondé sur valeurs audit.
-  - Pouvoir en action : pluie de lames lumineuses, barre de Laceration sur le HUD du survivant, bruit de recharge au casier (seed, UNCERTAIN).
-  - Rang S : notification pour tous + TR qui passe à 44 m (seed ; TR 44 m confirmé par [2]) → **signal clair** qu'une fenêtre dangereuse de ≤ 66 s commence (HEURISTIC).
-  - Stratégie probable : usure multi-survivants pour monter en rang, puis Main Event sur un groupe (unhook, gen à plusieurs) — HEURISTIC.
-- **Ce qu'il cherche en chase** : longues lignes droites et zones ouvertes (tirs ≥ 16 m bonus), survivants qui tiennent un vault de fenêtre face à lui (tir dans l'interstice), actions variées pour ses Style Points — seed (barème), UNCERTAIN ; lecture HEURISTIC.
+  - Avant le reveal : jauges de Laceration sur les portraits dès le début de partie (FACT [3]) ; berceuse audible de loin (44 m) mais **silencieuse à moins de 8 m** (FACT [3]) → une berceuse qui « disparaît » veut dire qu'il est tout près, pas qu'il est parti (HEURISTIC) ; TR court (24 m), vitesse 110 %.
+  - Pouvoir en action : pluie de lames, barre de Laceration, bruit de recharge au casier.
+  - Rang S : notification pour tous + TR 44 m + berceuse coupée → **fenêtre dangereuse de 66 s + durée du Main Event** (FACT [3][17]).
+  - Stratégie probable : monter en rang par des actions variées, puis Main Event sur un groupe (unhook, gen à plusieurs) — HEURISTIC.
+- **Ce qu'il cherche en chase** : longues lignes droites et zones ouvertes (touche à > 16 m = 2 points), vaults face à lui (touche dans un interstice = 3 points) — barème FACT [17] ; lecture HEURISTIC.
 - **Tiles / structures** :
   - Favorables : tiles à murs hauts et pleins, boucles courtes où la LOS se coupe souvent, structures intérieures (main building) — HEURISTIC.
   - Défavorables : tiles bas « see-through » (rochers bas, palettes de champs), longues fenêtres de jungle gym vues de loin, couloirs droits — HEURISTIC.
-  - Fenêtres vs palettes : une fenêtre vaultée dans sa LOS l'expose à un tir en « interstice » (3 points au barème seed) → quand il est déjà chargé en lames, préférer une palette posée un peu plus tôt, ou mieux, **casser la LOS sans vaulter** — HEURISTIC / SITUATIONAL. Limite : une palette basse ne bloque probablement pas les lames (projectiles, comme les hachettes, [CM] UNCERTAIN) ; le gain du drop anticipé est d'éviter l'animation de vault dans sa LOS, pas de le bloquer. Coût : la palette est consommée ; un Trickster qui attend le drop sans tirer la récupère gratuitement → varier (drop normal quand il n'a pas de LOS).
+  - Fenêtres vs palettes : une fenêtre vaultée dans sa LOS l'expose à une touche « dans un interstice » (3 points de style [17]) → quand il est chargé en lames, préférer une palette posée un peu plus tôt, ou mieux, **casser la LOS sans vaulter** — HEURISTIC / SITUATIONAL. Limite : aucune page lue ne dit si une palette baissée bloque les lames (UNCERTAIN) ; le gain du drop anticipé est d'éviter l'animation de vault dans sa LOS. Coût : la palette est consommée ; varier (drop normal quand il n'a pas de LOS). Contre **Hex: Crowd Control**, chaque fast vault de fenêtre la bloque (voir Perks).
   - Verticalité : un dénivelé coupe la LOS mieux qu'un mur bas — HEURISTIC.
-- **Mindgames propres** : il pré-lance avant l'angle (seed) → changer de direction au coin plutôt que de courir la trajectoire attendue ; le forcer à recharger au casier crée des fenêtres de reset — HEURISTIC.
+- **Mindgames propres** : il pré-lance avant l'angle → changer de direction au coin plutôt que de courir la trajectoire attendue ; le forcer à recharger au casier (3 s [3]) crée des fenêtres de reset — HEURISTIC.
 - **Counterplay** :
-  - Mécanique : couper la LOS très souvent ; strafes latéraux larges plutôt que petits zigzags (les lames sont des projectiles, pas du hitscan — seed) — HEURISTIC. Calcul : en lançant il irait à 3,86 m/s [SEED] contre 4,0 m/s pour toi [AUDIT] : tu ne gagnes que 0,14 m/s (≈ 1 m toutes les 7 s) pendant ses volées → **une volée ne crée pas d'écart**, seule la LOS coupée en crée.
+  - Mécanique : couper la LOS très souvent ; strafes latéraux larges plutôt que petits zigzags (lames = projectiles à 55 m/s [3], pas du hitscan) — HEURISTIC. Calcul corrigé (valeurs [3][17]) : face à 4,0 m/s pour toi [AUDIT], il est à 3,86 m/s au début d'une volée (+0,14 m/s pour toi), 3,53 m/s après 5 lames (+0,47 m/s), 3,16 m/s après 10 lames (+0,84 m/s) → **une courte volée ne crée presque pas d'écart ; une longue volée (10+ lames, ≈ 3,3 s) t'en donne un peu**, et Main Event (3,92 m/s) presque rien. La LOS coupée reste la vraie source de distance.
   - Positionnel : rester près de tiles à murs hauts ; ne pas traverser une zone ouverte quand il a des lames — HEURISTIC.
-  - Macro : attention, les 16 s [AUDIT] sont le **délai avant que la Laceration commence à baisser**, pas la durée de sa disparition. Ensuite −1 charge / 4,4 s [SEED] : depuis 3 charges ≈ 16 + 3 × 4,4 ≈ 29 s sans touche ; depuis 5 charges ≈ 38 s (ordre de grandeur, UNCERTAIN). Attendre ce délai avant de reprendre un risque n'est rentable que si tu n'es pas en chase ; se soigner n'est pas forcément prioritaire si la Laceration est haute — SITUATIONAL.
-  - Équipe : au rang S, s'écarter les uns des autres et éviter l'unhook « groupé » (Main Event bloqué à < 20 m d'un accroché selon seed, UNCERTAIN) ; « jouer la montre » jusqu'à la fin du rang S (≤ 66 s, seed) veut dire **ne pas lui offrir de groupe ni de ligne ouverte**, pas arrêter les gens : 66 s d'arrêt de 3 réparateurs ≈ 198 s-survivant ≈ 2,2 gens solo perdus — HEURISTIC. En SoloQ, la notification globale est le seul signal commun : s'écarter de soi-même sans attendre d'annonce.
+  - Macro : les 16 s [3][19] sont le **délai avant que la Laceration commence à baisser**, pas la durée de sa disparition. Ensuite −1 charge / 4,4 s [3] : depuis 3 charges ≈ 16 + 3 × 4,4 ≈ 29 s sans touche ; depuis 5 charges ≈ 38 s (calcul sur valeurs vérifiées). **Pendant son rang S, la Laceration ne baisse pas du tout** (9.5.1 [18]). Se soigner n'est pas forcément prioritaire si la Laceration est haute — SITUATIONAL.
+  - Équipe : au rang S, s'écarter les uns des autres ; tant qu'un survivant est accroché, il **ne peut pas lancer Main Event s'il est à < 20 m de l'accroché** (FACT [3][17]) — le risque du sauvetage commence donc surtout après l'unhook, quand les survivants se regroupent ; « jouer la montre » jusqu'à la fin du rang S (66 s + Main Event éventuel) veut dire **ne pas lui offrir de groupe ni de ligne ouverte**, pas arrêter les gens : 66 s d'arrêt de 3 réparateurs ≈ 198 s-survivant ≈ 2,2 gens solo perdus — HEURISTIC. En SoloQ, la notification globale est le seul signal commun : s'écarter de soi-même.
 - **Habitudes punissables et erreurs classiques** (HEURISTIC) :
   - Courir en ligne droite dans un champ ouvert « pour atteindre la tile suivante » avec une Laceration à 3+.
   - Vaulter une fenêtre face à lui à distance moyenne.
   - Se regrouper sur un gen quand la notification de rang S tombe.
   - Ignorer la barre de Laceration (on croit être « sain » alors qu'1-2 lames suffisent).
+  - Croire qu'il est loin parce que la berceuse s'est tue (silence à < 8 m [3]).
 - **Adaptations avancées / échecs du counterplay** (HEURISTIC) :
-  - Contre un Trickster qui arrive au rang S en endgame, le « jouer la montre » échoue : à portes alimentées, éviter les longues lignes vers la sortie. (Peut-il **retarder** volontairement le rang S ? Mécanique non vérifiée, en tension avec la durée max de 66 s [SEED] : HYPOTHESIS.)
+  - Contre un Trickster qui arrive au rang S en endgame, le « jouer la montre » échoue : à portes alimentées, éviter les longues lignes vers la sortie. Retarder volontairement le rang S : il ne peut pas « stocker » le rang S (66 s non rafraîchissables [17]), mais rien n'indique qu'il ne puisse pas rester au rang A en espaçant ses actions — HYPOTHESIS.
   - Sur une map intérieure (LOS courte), la valeur du tueur baisse fortement — ne pas sur-jouer la prudence au prix des gens.
-- **Add-ons qui changent la décision** (tous : seed, NON RE-VÉRIFIÉ, UNCERTAIN ; les effets post-rework ont pu changer en 9.5.0/9.5.2) :
-  - Iridescent Photocard (Main Event plus long, auras, blocage des gens selon seed) → au rang S, quitter le gen et casser la LOS plutôt que de « finir le gen ».
-  - Death Throes Compilation (recharge après Main Event) → ne pas considérer la fin du Main Event comme une fenêtre de sécurité.
-  - Trick Blades (ricochet) → les murs obliques ne protègent plus totalement ; privilégier les murs perpendiculaires à sa LOS.
-- **Implications de carte** : maps ouvertes (champs, Coldwind-like, Red Forest ouverte) = avantage tueur ; maps intérieures ou très encombrées = avantage survivant — HEURISTIC. Map Trickster's Delusion (Sleepless District, 9.5.0 — audit [2]) : aucune donnée lue.
-- **Perks fréquentes / synergies** : Grim Embrace, Pain Resonance, Pop Goes the Weasel, Lethal Pursuer, No Way Out (seed, UNCERTAIN) ; Hex: Crowd Control (perk perso, reworkée en 9.5.0 : bloque les 4/5/6 dernières fenêtres vaultées — audit [2]) → après des vaults de fenêtre répétés, s'attendre à des fenêtres bloquées sur les boucles déjà jouées ; c'est un Hex : le purifier supprime l'effet (HEURISTIC).
-- **Écart avec le seed** : OK pour vitesse / TR / 36 lames / 16 s (cohérent avec [2]) ; IMPRÉCIS pour No Way Out (« 12 s par token, ~60 s » vs audit « 12 s + 6/9/12 s par jeton ») ; reste NON VÉRIFIABLE (barème Style Points, 66 s, ×1,67, add-ons).
-- **Sources** : [1], [2].
+- **Add-ons qui changent la décision** (textes LIVE lus sur [3], valeurs 9.5.2 confirmées par [19] quand indiqué) :
+  - Iridescent Photocard (Main Event +100 % = 20 s ; à l'activation : son aura révélée aux survivants, toutes les auras révélées pour lui, **tous les gens bloqués 6 s**) → au rang S, le survivant quitte le gen et casse la LOS au lieu de « finir le gen ».
+  - Death Throes Compilation (recharge 75 % des lames à la fin du Main Event [19]) → le survivant ne considère plus la fin du Main Event comme une fenêtre de sécurité au lieu d'y ressortir à découvert.
+  - Trick Blades (les lames ricochent une fois sur le décor) → le survivant se cache derrière des murs perpendiculaires à sa LOS au lieu de se fier aux murs obliques.
+  - Edge of Revival Album (touches à > 20 m : +100 % de Laceration) → le survivant ne se croit plus en sécurité à longue distance et coupe la LOS au lieu de fuir en ligne droite.
+  - Bloody Boa (décroissance de Laceration −75 % [19]) → le survivant considère la Laceration comme quasi permanente et se soigne / joue safe au lieu d'attendre qu'elle baisse.
+  - On Target Single (+0,5 s de Main Event par touche au rang S, jusqu'à 20 s [19]) / Ji-Woon's Autograph (+44 %) → le survivant compte sur un Main Event plus long et reste caché plus longtemps au lieu de ressortir après 10 s.
+  - Waiting For You Watch (aura révélée 10 s quand la Laceration retombe à 0 [19]) → le survivant évite d'être près d'un gen ou d'un blessé au moment où sa jauge se vide au lieu de s'y croire invisible.
+  - Cut Thru U Single (au rang A : Killer Instinct à ≤ 32 m pendant 4,4 s) → le survivant s'attend à être localisé dès le rang A au lieu du seul rang S.
+- **Implications de carte** : maps ouvertes = avantage tueur ; maps intérieures ou très encombrées = avantage survivant — HEURISTIC. Map Trickster's Delusion (Sleepless District, 9.5.0 [17]) : aucune donnée de tiles lue.
+- **Perks fréquentes / synergies** : Grim Embrace, Pain Resonance, Pop Goes the Weasel, Lethal Pursuer (seed, UNCERTAIN, pas de données d'usage lues). **No Way Out** (sa perk) : bloque les deux interrupteurs 12 s + 6/9/12 s par jeton (1 jeton par survivant accroché pour la 1re fois), max 36/48/60 s — STRONG_SECONDARY [3]. **Hex: Crowd Control** (sa perk) : chaque **fast vault (Rushed Vault) de fenêtre** bloque cette fenêtre pour tous (limite 4/5/6 fenêtres à la fois), le tueur la vault 15 % plus vite et voit son aura à ≤ 24 m — STRONG_SECONDARY [3] → éviter les fast vaults inutiles sur la même boucle ; c'est un Hex : le purifier ou le bénir supprime l'effet (HEURISTIC sur la conduite).
+- **Écart avec le seed** : OK pour vitesse / TR / 36 lames / 16 s / 4,4 s par charge / 66 s / ×1,67 / 10 s / 20 m anti-camp / 3,86 m/s (valeurs [3][17]) ; **IMPRÉCIS** : 3,86 m/s est la vitesse de début de volée seulement (3,53 / 3,16 m/s après 5 / 10 lames) ; No Way Out « 12 s par token, ~60 s » → 12 s + 6/9/12 s par jeton, max 60 s au rang III (IMPRÉCIS) ; berceuse (44 m, silencieuse à < 8 m) absente du seed (omission).
+- **Sources** : [1], [2], [3], [17], [18], [19], [23].
 
 ---
 
 ## 24. The Nemesis (T-Type) — archétype(s) : anti-loop | zone (zombies)
 
-- **Version** : aucun changement de pouvoir 1v4 relevé dans [2] entre 9.0.0 et 10.1.2a ; 2v8 : Nemesis ajouté en 9.4.x avec 4 zombies (audit [2]) — ne pas mélanger avec le 1v4. Statut LIVE ; dernier changement 1v4 : non vérifié.
-- **Données LIVE** (toutes : seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN) :
-  - 4,6 m/s (115 %), TR 32 m, grand.
-  - Tentacle Strike : charge 0,35 s, portée 5 m (6,5 m en MR3), cooldown 2,25 s ; survivant non contaminé touché → Contaminated sans perte de santé (+ Hindered 20 % 2 s selon seed) ; déjà contaminé → perd un état de santé.
-  - Mutation : MR2 à 5 points (casse palettes et murs cassables au tentacule), MR3 à 15 points.
-  - 2 zombies (1v4), ~1 m/s ; vaccins dans des caisses (4 selon seed), usage = Killer Instinct 3 s.
+- **Version** : pouvoir 1v4 inchangé depuis 5.2.0 (dernier changement : vitesse de charge MR3 3,8 → 4,0 m/s) — STRONG_SECONDARY [4] ; aucune modification dans les notes 9.0.0 → 10.1.2a ni au PTB 10.2.0 [23]. 2v8 : 9.4.2 ajoute 2 zombies (total 4) et +35 % de vitesse de zombie — VERIFIED_MULTI_SOURCE [4][16] — **ne pas mélanger avec le 1v4**. Statut LIVE.
+- **Données LIVE** :
+  - 4,6 m/s (115 %), TR 32 m, grand (Tall), pas de berceuse — STRONG_SECONDARY [4].
+  - Tentacle Strike : charge 0,35 s ; vitesse en charge 3,8 m/s (MR1/MR2), 4,0 m/s (MR3) ; portée 5 m (MR1/MR2), **6,5 m (MR3)** ; cooldown après frappe 2,25 s ; annulation 1,5 s — STRONG_SECONDARY [4].
+  - Survivant non contaminé touché → Contaminated **sans perte de santé** + Hindered −20 % pendant 2 s ; déjà contaminé → perd un état de santé — STRONG_SECONDARY [4].
+  - Mutation : MR2 à 5 points (le tentacule casse palettes baissées et murs cassables), MR3 à 14-15 points (la page dit « 15 » dans la description, « 5 + 9 = 14 » dans les données) ; +3 points par nouvelle contamination, +1 par touche sur contaminé, +1 par zombie détruit au tentacule — STRONG_SECONDARY [4]. **Une frappe ne peut pas casser une palette et toucher un survivant en même temps** (fonction désactivée) — STRONG_SECONDARY [4]. Nemesis classé « special-break » par la note 9.5.0 — VERIFIED_PRIMARY [17].
+  - Zombies (1v4) : 2, 1 m/s, détection 14 m dans un champ de vision de ±95°, lâchent au-delà de 20 m, détection audio 6 m, attirés par les Loud Noise Notifications (rushed actions, réparations, coffres…) ; leur attaque contamine / blesse comme un tentacule ; détruits par stun de palette ou Head On → réapparition après 45 s sous un crochet aléatoire ; lampe / pétards / flash grenade → aveuglés et immobiles 15 s — STRONG_SECONDARY [4].
+  - Vaccins : 4 caisses (aura visible des contaminés), 1 vaccin à usage unique par caisse, ouverture 4 s, injection 3 s, Killer Instinct 3 s à l'usage ; le vaccin ne soigne pas — STRONG_SECONDARY [4].
+  - Contaminés : toussent de temps en temps (révèle la position) — STRONG_SECONDARY [4].
 - **Identification** :
   - Avant le reveal : TR 32 m, silhouette grande, zombies errants sur la map = identification quasi immédiate — HEURISTIC.
-  - Pouvoir : bruit de charge du tentacule ; icône Contaminated ; murs/palettes détruits à distance → il est au moins MR2 (seed, UNCERTAIN).
+  - Pouvoir : bruit de charge du tentacule ; icône Contaminated ; murs/palettes détruits à distance → il est au moins MR2 (FACT [4]).
   - Stratégie probable : contaminer tout le monde tôt pour monter en mutation, puis anti-loop — HEURISTIC.
-- **Ce qu'il cherche en chase** : survivants contaminés à 5-6,5 m derrière une palette basse ou une fenêtre ; drops de palette tardifs ; boucles courtes — HEURISTIC.
+- **Ce qu'il cherche en chase** : survivants contaminés à 5-6,5 m derrière une palette basse ou une fenêtre ; boucles courtes — HEURISTIC.
 - **Tiles / structures** :
-  - Favorables : tiles longues où l'on garde plus que la portée du tentacule (6,5 m en MR3 selon le seed, [SEED] UNCERTAIN : ordre de grandeur, pas une marge exacte) ; murs hauts qui coupent la trajectoire du tentacule — HEURISTIC.
+  - Favorables : tiles longues où l'on garde plus que la portée du tentacule (5 m, 6,5 m en MR3 [4] : ordre de grandeur de marge, la portée réelle dépend de l'angle et du ping — HEURISTIC) ; murs hauts qui coupent la trajectoire du tentacule — HEURISTIC.
   - Défavorables : petites tiles « pallet + mur bas » (couvertes par la portée en MR3), jungle gyms courts — HEURISTIC.
-  - Fenêtres vs palettes : en MR1 (connaissance du modèle, UNCERTAIN : le tentacule ne casse pas les palettes), une palette posée reste une vraie ressource ; dès MR2 il la casse à distance → pré-drop + départ vers la tile suivante plutôt que « jouer autour » — SITUATIONAL. C'est un pré-drop « parce que le pouvoir punit l'attente », pas parce que casser lui coûte (KCH §2.2 b) : la palette est perdue de toute façon. Contre un Nemesis qui ralentit avant la palette pour obtenir le pré-drop gratuit, ou pendant le cooldown du tentacule (2,25 s selon seed), alterner avec un drop normal ou un départ sans drop.
-- **Mindgames propres** : faux-charge du tentacule pour provoquer un drop ou un vault ; il peut cancel la charge — HEURISTIC.
+  - Fenêtres vs palettes : **en MR1, le tentacule ne casse ni palettes ni murs** (FACT [4]) → une palette posée reste une vraie ressource ; dès MR2 il la casse à distance → pré-drop + départ vers la tile suivante plutôt que « jouer autour » — SITUATIONAL. C'est un pré-drop « parce que le pouvoir punit l'attente », pas parce que casser lui coûte (KCH §2.2 b). Nuance vérifiée : la frappe qui casse la palette ne peut pas te toucher en même temps, puis le tentacule repart en cooldown 2,25 s [4] → la casse au tentacule te donne ce délai pour gagner la tile suivante. Contre un Nemesis qui ralentit avant la palette pour obtenir le pré-drop gratuit, alterner avec un drop normal ou un départ sans drop.
+- **Mindgames propres** : faux-charge du tentacule pour provoquer un drop ou un vault ; annuler la charge lui coûte 1,5 s de cooldown [4] — HEURISTIC sur l'usage.
 - **Counterplay** :
-  - Mécanique : strafe latéral au moment du son de charge (le tentacule est une ligne droite — seed) ; ne pas rester **dans son axe, à 4-6 m devant lui** (portée 5 / 6,5 m [SEED]) — HEURISTIC. Un Nemesis qui feinte la charge exploite un strafe systématique : strafer au son, pas à l'animation seule.
-  - Positionnel : quand vous êtes contaminé, chaque touche coûte un état de santé → jouer les tiles longues, pas les « safe » courtes — HEURISTIC.
-  - Macro : prendre un vaccin quand il est loin/occupé (Killer Instinct au moment de l'usage, seed) ; les vaccins sont limités, ne pas les gaspiller en début de partie si on reste loin de lui — SITUATIONAL.
-  - Équipe : éviter de laisser les zombies bloquer un gen ; les écarter avec un stun de palette seulement si ça ne coûte pas une palette clé (seed : zombies stunnables) — HEURISTIC.
+  - Mécanique : strafe latéral au moment du son de charge ; ne pas rester **dans son axe, à 4-6,5 m devant lui** (portée 5 / 6,5 m [4]) — HEURISTIC. Un Nemesis qui feinte la charge exploite un strafe systématique : strafer au son, pas à l'animation seule. Sa vitesse en charge (3,8 / 4,0 m/s [4]) est inférieure ou égale à la tienne (4,0 m/s) : **s'il avance en tenant la charge, il ne te rattrape pas** ; il te rattrape entre deux charges (4,6 m/s).
+  - Positionnel : quand vous êtes contaminé, chaque touche (tentacule ou zombie) coûte un état de santé → jouer les tiles longues, pas les « safe » courtes — HEURISTIC.
+  - Macro : prendre un vaccin quand il est loin/occupé (Killer Instinct 3 s à l'usage [4]) ; 4 vaccins pour toute la partie [4] → ne pas les gaspiller si on reste loin de lui — SITUATIONAL. Un vaccin ne soigne pas l'état de santé [4].
+  - Équipe / zombies : un zombie détecte à 14 m devant lui et entend à 6 m [4] → réparer **derrière** lui ou loin de sa trajectoire ; un raté de skill check (Loud Noise) l'attire ; un stun de palette le détruit pour 45 s, une lampe / des pétards l'immobilisent 15 s [4] — n'utiliser une palette clé que si le zombie bloque vraiment un gen ou une sortie — HEURISTIC.
 - **Habitudes punissables / erreurs classiques** (HEURISTIC) :
-  - Rester « à distance de tentacule » en croyant être safe à 4-5 m.
-  - Drop de palette tardif contre un Nemesis MR2+ (il casse sans stun et touche dans la foulée).
-  - Réparer sans surveiller le zombie (coup gratuit, bruit de raté).
-- **Adaptations avancées / échecs** (HEURISTIC) : contre MR3, la « boucle sur petite tile » échoue presque toujours → enchaîner les tiles (tile-to-tile) et utiliser la hauteur/LOS ; un zombie peut couper l'unique sortie d'une tile, vérifier sa position avant d'engager.
-- **Add-ons qui changent la décision** (seed, NON RE-VÉRIFIÉ, UNCERTAIN) :
-  - Marvin's Blood / T-Virus Sample (mutation plus rapide) → considérer MR2 comme acquis très tôt, pré-drop plus tôt.
-  - Shattered S.T.A.R.S. Badge (zombies accélérés après chaque gen) → ne plus ignorer les zombies en fin de partie.
-  - Iridescent Umbrella Badge (Exposed après vaccin, selon seed) → ne prendre le vaccin qu'hors de portée du tueur et hors chase.
-- **Implications de carte** : maps avec beaucoup de petites tiles (Autohaven, Coldwind) favorisent le tentacule ; maps à gros bâtiments / murs hauts favorisent le survivant ; RPD (map RE) : couloirs et portes → zombies plus gênants — HEURISTIC.
-- **Perks fréquentes / synergies** : Lethal Pursuer (son perk), Pain Resonance, Eruption, Grim Embrace, Pop (seed, UNCERTAIN). Hysteria (Oblivious aux blessés) → avec un Nemesis qui blesse souvent, surveiller le TR réel plutôt que l'audio (HEURISTIC).
-- **Écart avec le seed** : **CONTESTÉ (non tranché)** — Eruption « −10 % » : le registre de patchs de l'audit [2] cite 10 → 5 % en 9.2.0, mais le lot 3 (batch3_perks_kill_p91) et la page wiki.gg 9.2.X indiquent que ce changement PTB aurait été annulé en LIVE (conflit UNRESOLVED, voir CONFLICT_REGISTER) ; reste NON VÉRIFIABLE (valeurs du pouvoir, points de mutation, add-ons).
-- **Sources** : [1], [2].
+  - Rester « à distance de tentacule » en croyant être safe à 4-5 m (6,5 m en MR3 [4]).
+  - Tenir une palette debout contre un Nemesis MR2+ en attendant le stun : il la casse à distance sans se faire stun.
+  - Réparer face à un zombie ou rater un skill check près de lui (attiré par le bruit [4]).
+- **Adaptations avancées / échecs** (HEURISTIC) : contre MR3, la « boucle sur petite tile » échoue presque toujours → enchaîner les tiles et utiliser la hauteur/LOS ; un zombie peut couper l'unique sortie d'une tile, vérifier sa position avant d'engager.
+- **Add-ons qui changent la décision** (textes LIVE lus sur [4]) :
+  - Marvin's Blood (+0,5 point de mutation par touche de tentacule sur survivant) / T-Virus Sample (+1 point par zombie détruit au tentacule) → le survivant considère MR2/MR3 comme atteints plus tôt et pré-drop plus tôt au lieu de compter sur des palettes « sûres » en milieu de partie.
+  - Shattered S.T.A.R.S. Badge (zombies +1,5 m/s pendant 60 s après chaque gen terminé) → le survivant s'éloigne des zombies juste après un gen au lieu de les ignorer.
+  - Depleted Ink Ribbon (zombies +0,5 m/s, réapparition plus rapide, et **dans la zone de sortie une fois les portes alimentées**) → le survivant vérifie la zone de sortie avant d'y courir au lieu de s'y croire en sécurité.
+  - Iridescent Umbrella Badge (Exposed 60 s après avoir utilisé un vaccin) → le survivant ne prend le vaccin que loin du tueur et hors chase au lieu de le prendre dès qu'il le trouve.
+  - Ne-α Parasite (Oblivious 60 s après contamination, ou jusqu'au vaccin) → le survivant contaminé surveille visuellement le tueur au lieu de se fier au TR.
+  - Licker Tongue (Hindered porté à 3 s) → le survivant non contaminé traite la première touche comme plus dangereuse et évite de la prendre près d'un mur.
+- **Implications de carte** : maps avec beaucoup de petites tiles favorisent le tentacule ; maps à gros bâtiments / murs hauts favorisent le survivant ; RPD : couloirs et portes → zombies plus gênants — HEURISTIC.
+- **Perks fréquentes / synergies** : Lethal Pursuer, Hysteria, Eruption (ses perks), Pain Resonance, Grim Embrace, Pop (seed, UNCERTAIN pour l'usage). **Eruption LIVE : −10 % de progression + régression sur les gens marqués quand un survivant passe au sol ; les réparateurs crient et leurs auras sont révélées 8/10/12 s ; cooldown 30 s** — VERIFIED_MULTI_SOURCE ([4] + note 9.2.0 [14] : « Reverted the perk changes associated with this update. Notably: … Eruption ») → le « 5 % » du registre [2] était la valeur PTB 9.2.0. Hysteria (Oblivious aux blessés) → surveiller le tueur visuellement plutôt que l'audio (HEURISTIC).
+- **Écart avec le seed** : **OK** — Eruption −10 % (conflit RÉSOLU, voir CONFLICT-L4G4-04) ; valeurs du pouvoir OK (5 / 6,5 m, 2,25 s, 0,35 s, Hindered 20 % 2 s, MR2 5 pts, 2 zombies ~1 m/s, 4 vaccins, KI 3 s) ; **IMPRÉCIS** : MR3 « 15 points » (14 selon les données de la page, incohérence interne du wiki).
+- **Sources** : [1], [2], [4], [14], [16], [17], [23].
 
 ---
 
 ## 25. The Cenobite (Pinhead) — archétype(s) : ranged (chaîne pilotée) | zone (Lament Configuration)
 
-- **Version** : licence Hellraiser quittée en 2025 ; au patch 9.0.0 (17/06/2025) ses perks sont devenues générales et ont été renommées : Deadlock → **No Holds Barred**, Hex: Plaything → **Hex: Fortune's Fool**, Scourge Hook: Gift of Pain → **Scourge Hook: Weeping Wounds** ; les possesseurs du Cenobite gardent le nom « Deadlock » — audit [2], STRONG_SECONDARY. Aucune modification de pouvoir relevée dans [2]. Statut LIVE (jouable par les possesseurs).
-- **Données LIVE** (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN) :
-  - 4,6 m/s (115 %), TR 32 m, grand.
-  - Gateway à 16 m max, chaîne pilotée ; survivant touché = enchaîné (Incapacitated, pas de course, ralenti), chaîne retirable en 1 s ; chaîne tendue cassée par le décor ; 5 s sans ouvrir de porte après retrait.
-  - Lament Configuration : 90 s → Chain Hunt ; porteur Oblivious ; résolution 6 s + Killer Instinct ; téléportation du Cenobite possible vers la résolution ; si le Cenobite ramasse la boîte, 3 chaînes à tous.
+- **Version** : chapitre Hellraiser retiré des boutiques le **4 mars 2025** (13 mars 2025 sur Nintendo eShop) ; le Cenobite reste jouable et supporté pour ceux qui l'ont acheté — STRONG_SECONDARY [5]. Au patch 9.0.0, ses perks sont devenues générales et ont été renommées : Deadlock → **No Holds Barred**, Hex: Plaything → **Hex: Fortune's Fool**, Scourge Hook: Gift of Pain → **Scourge Hook: Weeping Wounds** — VERIFIED_PRIMARY [11] (la page du personnage garde les anciens noms, « identique à… » [5]). 9.3.0 : add-on Original Pain retravaillé ; retour de la possibilité d'enchaîner un survivant sous Endurance — VERIFIED_PRIMARY [15]. Aucun autre changement de pouvoir depuis 8.5.0 [5]. Statut LIVE (possesseurs).
+- **Données LIVE** (STRONG_SECONDARY [5] sauf mention) :
+  - 4,6 m/s (115 %), TR 32 m, grand (Tall), pas de berceuse.
+  - Gateway posé jusqu'à 16 m devant lui ; possession max 6 s ; chaîne pilotée : 10 m/s au départ, accélère jusqu'à 40 m/s, **24 m de trajet max** ; cooldown de tir 5 s ; vitesse du Cenobite pendant la frappe 3,68 m/s.
+  - Survivant touché : lié par **3 chaînes** (1 + 2 bonus) → Incapacitated, ne peut plus courir, vitesse 1,13 / 1,695 / 2,26 m/s avec 3 / 2 / 1 chaîne(s) ; **portes de sortie bloquées** tant qu'il est enchaîné et **5 s** après le retrait de la dernière chaîne. Chaque chaîne s'arrache en 1 s (Break Free). Une chaîne qui heurte le décor casse **mais une chaîne de remplacement tente de re-lier le survivant** ; une chaîne cassée par un autre joueur n'est pas remplacée ; rupture au-delà de 18 m.
+  - Lament Configuration : apparaît loin des survivants (−5 000 points à < 16 m d'un survivant) et surtout loin du Cenobite (−15 000 à < 40 m) ; aura blanche visible des survivants ; charge un **Chain Hunt en 90 s**. Le porteur : Oblivious permanent, son ambiant remplacé, ne peut pas la lâcher. Résolution 6 s (skill checks) → Killer Instinct, la boîte réapparaît 45 s plus tard ailleurs.
+  - Pendant la résolution, le Cenobite peut se téléporter (charge 3,25 s) à 10-12 m du survivant, ce qui interrompt la résolution.
+  - Chain Hunt : chaînes non pilotées qui apparaissent à 2,5-6 m des survivants toutes les 9-12 s, 10 m/s, 16 m de trajet, jusqu'à 3 chaînes par survivant ; continue jusqu'à ce qu'un survivant ramasse la boîte. S'il ramasse la boîte lui-même (ou met à terre son porteur) : 3 chaînes sur tous, tous crient (position révélée 3 s), la boîte réapparaît 10 s plus tard. Porteur mis à terre : boîte réapparaît 30 s plus tard. Aucun effet sur le dernier survivant.
+  - Si le Cenobite reste 5 s sur la boîte, elle se téléporte (6.7.0).
 - **Identification** :
-  - Avant le reveal : TR 32 m, grand ; la **boîte** (Lament Configuration) qui apparaît sur la map est un indice sans ambiguïté — HEURISTIC.
-  - Pouvoir : tunnel lumineux/portail, bruit de chaîne ; Chain Hunt = chaînes qui arrivent sur tous (seed).
-  - Stratégie probable : 3-gen facilité par No Holds Barred/Deadlock (sa perk) ; pression par la boîte — HEURISTIC.
-- **Ce qu'il cherche en chase** : survivants à découvert entre deux tiles (la chaîne a besoin d'une trajectoire libre), vault imminent (chaîne = vault bloqué selon seed) — HEURISTIC.
+  - Avant le reveal : TR 32 m, grand ; la **boîte** (Lament Configuration) dont l'aura est visible dès le début est un indice sans ambiguïté (FACT [5]).
+  - Pouvoir : portail, bruit de chaîne ; Chain Hunt = chaînes qui arrivent sur tous.
+  - Stratégie probable : 3-gen facilité par No Holds Barred/Deadlock ; pression par la boîte — HEURISTIC.
+- **Ce qu'il cherche en chase** : survivants à découvert entre deux tiles (la chaîne a besoin d'une trajectoire libre, 24 m max [5]) — HEURISTIC. (Le seed affirme « chaîne = vault bloqué » : non décrit sur la page [5] → UNCERTAIN ; ce qui est vérifié : plus de course et vitesse ≤ 2,26 m/s.)
 - **Tiles / structures** :
-  - Favorables : tout décor dense ; la chaîne se casse au contact d'obstacles (seed ; mécanique largement connue, UNCERTAIN) → coller les murs — HEURISTIC.
+  - Favorables : tout décor dense ; la chaîne casse au contact du décor (FACT [5]) → coller les murs — HEURISTIC. Limite vérifiée : une chaîne cassée par le décor est **remplacée** par une autre qui retente de te lier [5] → le décor gagne du temps, il ne suffit pas à lui seul.
   - Défavorables : zones ouvertes, longues lignes droites vers la tile suivante — HEURISTIC.
-  - Fenêtres vs palettes : se faire enchaîner juste avant un vault = coup gratuit → vaulter tôt ou changer de tile avant qu'il ait la trajectoire — HEURISTIC.
-- **Mindgames propres** : faux portail / timing de lancer ; courbe de chaîne autour d'un tile (add-ons de portée) — HEURISTIC.
+  - Fenêtres vs palettes : enchaîné, tu ne cours plus (≤ 2,26 m/s [5]) : se faire lier en arrivant sur une tile = coup quasi gratuit → vaulter tôt ou changer de tile avant qu'il ait la trajectoire — HEURISTIC.
+- **Mindgames propres** : faux portail / timing de lancer ; courbe de chaîne autour d'un tile (add-ons de rotation) — HEURISTIC.
 - **Counterplay** :
-  - Mécanique : casser la LOS vers le portail ; arracher les chaînes immédiatement quand il ne peut pas punir — seed, HEURISTIC.
+  - Mécanique : casser la LOS vers le portail ; arracher les chaînes (1 s chacune [5]) immédiatement quand il ne peut pas punir — HEURISTIC. Un coéquipier qui touche la chaîne la casse sans remplacement [5] (SITUATIONAL : utile seulement s'il est déjà au contact, pas une raison de s'approcher).
   - Positionnel : se déplacer d'une tile à l'autre en longeant le décor — HEURISTIC.
-  - Macro/équipe : **un seul** survivant gère la boîte, loin du tueur, et la résout avant le Chain Hunt ; ne pas la résoudre si le tueur est proche (téléportation, seed) — HEURISTIC. SWF : le rôle se désigne au vocal. SoloQ : pas de désignation possible → si tu vois un coéquipier aller vers la boîte (ou la porter), ne pas y aller aussi ; si personne ne la prend et qu'elle est près de toi, la prendre toi-même plutôt que d'attendre le Chain Hunt. Coût : le porteur ne répare pas pendant ce temps.
-  - Endgame : prévoir le blocage de 5 s des portes après retrait des chaînes (seed, UNCERTAIN) — SITUATIONAL.
-- **Habitudes punissables / erreurs classiques** (HEURISTIC) : traverser un champ ouvert à 10-16 m de lui ; ignorer la boîte jusqu'au Chain Hunt ; deux survivants qui se battent pour la boîte ; résoudre la boîte à côté d'un gen où le tueur patrouille.
-- **Adaptations avancées / échecs** (HEURISTIC) : avec des add-ons de portée, « coller le décor » ne suffit plus si le tueur courbe la chaîne → préférer les tiles à murs hauts qui bloquent la trajectoire de départ plutôt que les objets bas.
-- **Add-ons qui changent la décision** (seed, NON RE-VÉRIFIÉ, UNCERTAIN) :
-  - Frank's Heart / Larry's Blood (portée) → engager la chase plus tôt vers une tile dense ; ne plus considérer 16 m comme sûr.
-  - Torture Pillar (Chain Hunt plus tôt) → attribuer la boîte dès son apparition.
-  - Chatterer's Tooth (aura de la boîte, Undetectable quand ramassée, selon seed) → le porteur doit s'attendre à une approche sans TR.
+  - Macro/équipe : **un seul** survivant gère la boîte, loin du tueur, et la résout avant le Chain Hunt (90 s [5]) ; la résolution (6 s) peut être interrompue par une téléportation qui charge en 3,25 s et arrive à 10-12 m [5] → la résoudre quand il est en chase ailleurs — HEURISTIC. SWF : le rôle se désigne au vocal. SoloQ : si tu vois un coéquipier aller vers la boîte (ou la porter), ne pas y aller aussi ; si personne ne la prend et qu'elle est près de toi, la prendre plutôt que d'attendre le Chain Hunt. Coût : le porteur est Oblivious et ne répare pas pendant la résolution. Ne pas la laisser traîner près de lui : s'il la ramasse, **3 chaînes sur tous** [5].
+  - Endgame : les portes sont bloquées pour un survivant enchaîné et 5 s après le retrait (FACT [5]) → arracher les chaînes avant d'arriver à l'interrupteur — SITUATIONAL.
+- **Habitudes punissables / erreurs classiques** (HEURISTIC) : traverser un champ ouvert à 10-24 m du portail ; ignorer la boîte jusqu'au Chain Hunt ; deux survivants qui se battent pour la boîte ; résoudre la boîte à côté d'un gen où le tueur patrouille.
+- **Adaptations avancées / échecs** (HEURISTIC) : avec des add-ons de portée / rotation, « coller le décor » ne suffit plus si le tueur courbe la chaîne → préférer les tiles à murs hauts qui bloquent la trajectoire de départ plutôt que les objets bas.
+- **Add-ons qui changent la décision** (textes LIVE lus sur [5]) :
+  - Frank's Heart (Gateway posé +8 m, soit 24 m) / Larry's Blood (chaîne +4 m, soit 28 m de trajet) → le survivant engage le changement de tile plus tôt au lieu de considérer 16-24 m comme sûrs.
+  - Torture Pillar (Chain Hunt −6 s, soit 84 s) / Burning Candle (−3 s) → le survivant garde le plan « boîte résolue avant le Chain Hunt » mais part vers la boîte un peu plus tôt au lieu de finir d'abord un gen long (effet faible : quelques secondes).
+  - Chatterer's Tooth (il voit l'aura de la boîte ; ramasser la boîte stoppe le Chain Hunt en cours et donne Undetectable 25 s — le texte ne précise pas qui la ramasse ; lecture la plus probable : le Cenobite, UNCERTAIN) → le survivant évite de laisser la boîte au sol près de lui et s'attend à une approche sans TR au lieu de guetter le TR.
+  - Engineer's Fang (une chaîne pilotée **blesse** un survivant sain, sans chaînes bonus) → le survivant sain traite chaque tir comme un coup et coupe la LOS au lieu de laisser venir la chaîne.
+  - Slice of Frank (porteur de la boîte Exhausted) → le porteur ne compte plus sur une perk d'exhaustion et résout la boîte loin du tueur au lieu de la garder en chase.
+  - Iridescent Lament Configuration (aura de la boîte cachée aux survivants à > 24 m hors Chain Hunt) → les survivants explorent / se répartissent pour la trouver au lieu d'attendre de la voir.
+  - Original Pain (aura révélée 8 s après avoir arraché une chaîne [5][15]) → le survivant arrache ses chaînes derrière un obstacle ou en direction de la tile suivante au lieu de le faire en plein champ.
 - **Implications de carte** : maps intérieures / encombrées (Midwich, Hawkins, RPD, Lery's) = chaîne très gênée → avantage survivant ; maps ouvertes = avantage tueur — HEURISTIC.
-- **Perks fréquentes / synergies** : No Holds Barred (ex-Deadlock), Pain Resonance, Grim Embrace, Lethal Pursuer (seed, UNCERTAIN). Hex: Fortune's Fool, Scourge Hook: Weeping Wounds = ex-perks du Cenobite, désormais générales (audit [2]) → à anticiper chez n'importe quel tueur.
-- **Écart avec le seed** : **IMPRÉCIS/OBSOLETE** — perks enseignables listées sous leurs anciens noms (Hex: Plaything, Scourge Hook: Gift of Pain ; Deadlock n'est le nom que pour les possesseurs) → renommées en 9.0.0 (audit [2]) ; « retiré de la vente en mars 2025 » : date NON VÉRIFIABLE ([2] ne cite que « 2025 » et le patch 9.0.0) ; difficulté « très élevée » dans la fiche vs « élevée » dans le tableau d'ensemble = incohérence interne.
-- **Sources** : [1], [2].
+- **Perks fréquentes / synergies** : No Holds Barred (ex-Deadlock), Pain Resonance, Grim Embrace, Lethal Pursuer (seed, UNCERTAIN pour l'usage). Hex: Fortune's Fool, Scourge Hook: Weeping Wounds = ex-perks du Cenobite, générales depuis 9.0.0 [11] → à anticiper chez n'importe quel tueur.
+- **Écart avec le seed** : **IMPRÉCIS/OBSOLETE** — perks enseignables listées sous leurs anciens noms (renommées en 9.0.0, VERIFIED_PRIMARY [11]) ; « retiré de la vente en mars 2025 » : **OK** (4 mars 2025 [5]) ; difficulté : la page wiki dit « Very Hard » [5] → la fiche du seed (« très élevée ») est juste, le tableau d'ensemble (« élevée ») est faux ; valeurs du pouvoir (16 m, 1 s, 90 s, 6 s, 5 s, 3 chaînes) : **OK** ; « chaîne = vault bloqué » : NON VÉRIFIABLE (absent de [5]).
+- **Sources** : [1], [2], [5], [11], [15].
 
 ---
 

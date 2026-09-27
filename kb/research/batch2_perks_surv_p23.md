@@ -1,9 +1,9 @@
 # Lot 2 — Perks survivant, page 23 du guide seed (tiers S et A)
 
-**Couverture : 21/21 perks re-vérifiées sur page wiki complète (27/09/2026) ; dont 11 confirmées par note officielle** (Windows of Opportunity [PTB], Will to Live [renommage], Adrenaline, Sprint Burst, Off the Record, Five Moves Ahead, Déjà Vu [9.1.0], Resilience [PTB], Kindred [PTB], Unbreakable, Deliverance).
+**Couverture : 21/21 perks re-vérifiées sur page wiki complète (27/09/2026) ; dont 8 confirmées par note officielle** (valeur LIVE : Adrenaline, Sprint Burst, Off the Record, Five Moves Ahead, Resilience, Kindred, Unbreakable, Deliverance) ; 3 autres recoupées partiellement (Windows of Opportunity : PTB seulement ; Will to Live : renommage 9.4.0 ; Déjà Vu : Maps 9.1.0).
 
 - Référence : **LIVE 10.1.2a** (17/09/2026). **PTB 10.2.0** (15-21/09/2026) = non LIVE, toujours étiqueté PTB.
-- Méthode initiale (lot 2) : WebSearch seul (résumés). **Re-vérification lot 12a (27/09/2026)** : description LIVE 10.1.2a et change log 8.x-10.x des pages wiki.gg complètes (via API MediaWiki, `kb/sources/wiki_perks_digest.md`, brut `wiki_perks.json`) [18]-[38], croisées avec les notes officielles BHVR 9.x-10.x (`kb/sources/patches/official_*.txt`) [39]-[46]. Confiance : STRONG_SECONDARY (page wiki complète), VERIFIED_MULTI_SOURCE si une note officielle concorde.
+- Méthode initiale (lot 2) : WebSearch seul (résumés). **Re-vérification lot 12a (27/09/2026)** : description LIVE 10.1.2a et change log 8.x-10.x des pages wiki.gg complètes (via API MediaWiki, `kb/sources/wiki_perks_digest.md`, brut `wiki_perks.json`) [18]-[38], croisées avec les notes officielles BHVR 9.x-10.x (`kb/sources/patches/official_*.txt`) [39]-[45] et [1] (PTB 10.2.0). Confiance : STRONG_SECONDARY (page wiki complète), VERIFIED_MULTI_SOURCE si une note officielle concorde.
 - Historique : le lot 2 n'avait pu vérifier que 7 perks (quota WebSearch épuisé) ; les 14 autres reprenaient le seed ou la connaissance du modèle. Ces lignes sont maintenant remplacées par les valeurs du wiki.
 - Anomalie de la source : pour Windows of Opportunity, le digest étiquette « LIVE (current) » un texte qui est en réalité celui du **PTB 10.2.0** (page wiki déjà basculée, sans drapeau). La LIVE a été reconstruite depuis l'historique de la page (version 5.3.0) et le change log.
 - Les notes de valeur (0-3), synergies, anti-synergies comportementales et puces « quand elle produit / n'en produit pas » sont **HEURISTIC / EXPERT OPINION** (avis de l'auteur du lot, pas des données).
@@ -268,10 +268,10 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
 - **Sources** : [32]
 
 ### Background Player — Renato Lyra
-- **Statut** : LIVE (présumée).
-- **Effet LIVE** (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN) : quand le tueur ramasse un survivant, vous avez 10 s pour commencer à courir et gagner +50 % de Haste pendant 5 s ; Exhausted 30/25/20 s (seed). UNCERTAIN. L'audit signale une **incohérence interne du seed** sur cette perk [15].
-- **Valeurs / CD / conditions / limites** : 10 s ; 50 % / 5 s ; 30/25/20 s (UNCERTAIN).
-- **PTB 10.2.0** : UNCERTAIN.
+- **Statut** : LIVE 10.1.2a (8.0.0 : Exhausted divisé par deux 60/50/40 → 30/25/20 s, Haste ramenée de 100 à 50 %).
+- **Effet LIVE** : quand le tueur ramasse un **autre** survivant à terre, la perk s'active 10 s ; commencer à courir pendant ce temps donne +50 % de Haste pendant 5 s ; inutilisable si Exhausted ; Exhausted 30/25/20 s. STRONG_SECONDARY [33]. L'audit signale une **incohérence interne du seed** sur cette perk [15] ; la page 23 du seed concorde avec le wiki.
+- **Valeurs / CD / conditions / limites** : 10 s ; 50 % / 5 s ; 30/25/20 s (LIVE, STRONG_SECONDARY [33]).
+- **PTB 10.2.0 (NON LIVE)** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [1][33].
 - **Interactions, DR, anti-synergies** : Exhaustion (une seule utile).
 - **Synergies** : Flashlight / Flashbang (sauvetage au ramassage), Kindred.
 - **Difficulté** : 2
@@ -280,14 +280,14 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
   - SWF qui planifie les sauvetages au ramassage ou le trade du crochet.
 - **Quand elle n'en produit pas** :
   - Aucun ramassage (slug) ou déjà Exhausted.
-- **Écart avec le seed** : NON VÉRIFIABLE (et incohérence interne du seed à résoudre).
-- **Sources** : [15]
+- **Écart avec le seed** : OK pour la page 23 (10 s, 50 %, 5 s, 30/25/20 s [33]) ; l'incohérence interne signalée par l'audit [15] concerne un autre passage du seed (non localisé, à vérifier au niveau du livrable).
+- **Sources** : [15][33]
 
 ### Made for This — Gabriel Soma
-- **Statut** : LIVE (présumée).
-- **Effet LIVE** (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN) : +3 % de Haste avec Deep Wound ; quand vous finissez de soigner un allié alors que vous êtes blessé : Endurance 6/8/10 s (seed). UNCERTAIN ; Haste peut-être 1/2/3 % selon les versions : connaissance du modèle (antérieure à mi-2026), UNCERTAIN.
-- **Valeurs / CD / conditions / limites** : 3 % ; 6/8/10 s (UNCERTAIN).
-- **PTB 10.2.0** : UNCERTAIN.
+- **Statut** : LIVE 10.1.2a (aucune modification 8.x-10.1.2a au change log wiki).
+- **Effet LIVE** : active quand vous êtes blessé. Effet principal : finir un soin sur un autre survivant donne **Endurance 6/8/10 s** (annulée prématurément par une action conspicuous). Effet secondaire : avec Deep Wound, courir donne **1/2/3 %** de Haste. STRONG_SECONDARY [34]
+- **Valeurs / CD / conditions / limites** : Endurance 6/8/10 s ; Haste 1/2/3 % (LIVE, STRONG_SECONDARY [34]).
+- **PTB 10.2.0 (NON LIVE)** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [1][34] (la 559 ne cite Made for This que pour un correctif de bug avec The Judgment).
 - **Interactions, DR, anti-synergies** : Haste cumulée avec d'autres Haste (Hope, protections de base) : DR probables (HYPOTHESIS).
 - **Synergies** : Off the Record / Dead Hard (qui donnent du Deep Wound) ; perks de soin.
 - **Difficulté** : 2
@@ -296,14 +296,15 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
   - Soigner un allié sous pression : l'Endurance vous protège quand le tueur revient.
 - **Quand elle n'en produit pas** :
   - Rarement blessé en soignant, ou peu de Deep Wound dans la partie.
-- **Écart avec le seed** : NON VÉRIFIABLE.
-- **Sources** : aucune.
+  - Endurance perdue si vous enchaînez sur une action conspicuous (réparer, soigner…) [34].
+- **Écart avec le seed** : Endurance 6/8/10 s OK ; **IMPRÉCIS** : Haste 1/2/3 % selon le rang, pas 3 % fixe [34] ; annulation de l'Endurance par action conspicuous omise.
+- **Sources** : [34]
 
 ### Bond — Dwight Fairfield
-- **Statut** : LIVE (présumée).
-- **Effet LIVE** (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN) : auras des autres survivants dans un rayon de 20/28/36 m. UNCERTAIN.
-- **Valeurs / CD / conditions / limites** : 20/28/36 m (UNCERTAIN).
-- **PTB 10.2.0** : UNCERTAIN.
+- **Statut** : LIVE 10.1.2a (aucune modification 8.x-10.1.2a au change log wiki).
+- **Effet LIVE** : auras de tous les autres survivants dans un rayon de 20/28/36 m. STRONG_SECONDARY [35]
+- **Valeurs / CD / conditions / limites** : 20/28/36 m (LIVE, STRONG_SECONDARY [35]).
+- **PTB 10.2.0 (NON LIVE)** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [1][35].
 - **Interactions, DR, anti-synergies** : redondante avec Kindred (pendant les crochets) et Empathy.
 - **Synergies** : Prove Thyself, Leader, Déjà Vu.
 - **Difficulté** : 1
@@ -312,15 +313,15 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
   - SoloQ : ne pas amener le tueur sur un allié qui répare, et trouver un soigneur.
 - **Quand elle n'en produit pas** :
   - En SWF au vocal.
-- **Écart avec le seed** : NON VÉRIFIABLE.
-- **Sources** : aucune.
+- **Écart avec le seed** : OK (20/28/36 m [35]).
+- **Sources** : [35]
 
 ### Iron Will — Jake Park
-- **Statut** : LIVE (présumée).
-- **Effet LIVE** (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN) : blessé, gémissements de douleur réduits ; inactive si vous êtes Exhausted. Le seed donne 80/90/100 % ; connaissance du modèle (antérieure à mi-2026), UNCERTAIN : 50/75/100 %. UNCERTAIN, à vérifier en priorité.
-- **Valeurs / CD / conditions / limites** : pourcentages UNCERTAIN ; condition non-Exhausted (UNCERTAIN).
-- **PTB 10.2.0** : UNCERTAIN.
-- **Interactions, DR, anti-synergies** : anti-synergie avec les perks d'Exhaustion (Iron Will est coupée pendant l'Exhausted qu'elles provoquent). Redondante pendant Off the Record.
+- **Statut** : LIVE 10.1.2a (8.1.0 : 25/50/75 → 80/90/100 % ; 8.1.2 : réduction désormais **additive**).
+- **Effet LIVE** : blessé, volume des gémissements de douleur réduit de **80/90/100 %** ; inutilisable si Exhausted, mais ne provoque pas l'Exhausted. STRONG_SECONDARY [36]. L'hypothèse « 50/75/100 % » (connaissance du modèle) est **écartée**.
+- **Valeurs / CD / conditions / limites** : 80/90/100 % (LIVE, STRONG_SECONDARY [36]) ; condition non-Exhausted confirmée. Depuis 8.1.2, l'effet s'additionne aux autres modificateurs : même à 100 %, d'autres effets (perks du tueur) peuvent rendre les gémissements de nouveau audibles, à volume réduit [36].
+- **PTB 10.2.0 (NON LIVE)** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [1][36].
+- **Interactions, DR, anti-synergies** : anti-synergie avec les perks d'Exhaustion (Iron Will est coupée pendant l'Exhausted qu'elles provoquent). Redondante pendant Off the Record (qui supprime les gémissements).
 - **Synergies** : Distortion, Lucky Break (discrétion complète).
 - **Difficulté** : 2 (il faut savoir casser la ligne de vue)
 - **Valeur (HEURISTIC, 0-3)** : SoloQ 2 · SWF 2 · chase 2 · macro 0 · info 0 · anti-tunnel 1 · soin 0 · gen 0 · endgame 1
@@ -328,14 +329,14 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
   - Mindgames et fins de chase à l'écoute, surtout contre les tueurs qui pistent au son.
 - **Quand elle n'en produit pas** :
   - Build à perks d'Exhaustion ; tueurs à aura ou à pouvoir global.
-- **Écart avec le seed** : NON VÉRIFIABLE (écart probable sur les pourcentages).
-- **Sources** : aucune.
+- **Écart avec le seed** : OK (blessé et non Exhausted, 80/90/100 % [36]) ; le soupçon d'écart du lot 2 était infondé.
+- **Sources** : [36]
 
 ### Hyperfocus — Rebecca Chambers
-- **Statut** : LIVE (présumée).
-- **Effet LIVE** (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) — UNCERTAIN) : chaque great skill check en réparation ou en soin donne un jeton (max 6). Par jeton : skill checks +4 % plus fréquents, aiguille +4 % plus rapide, bonus de progression du great +10/20/30 %. Jetons perdus sur un good, un raté ou un arrêt. UNCERTAIN.
-- **Valeurs / CD / conditions / limites** : 6 jetons ; 4 % ; 10/20/30 % (UNCERTAIN).
-- **PTB 10.2.0** : UNCERTAIN.
+- **Statut** : LIVE 10.1.2a (aucune modification 8.x-10.1.2a au change log wiki).
+- **Effet LIVE** : chaque great skill check en réparation ou en soin donne +1 jeton (max 6). Par jeton : chance de skill check et vitesse de l'aiguille +4 % chacune (max +24 %) ; bonus de progression du skill check +10/20/30 % de sa valeur de base (max 60/120/180 %). Tous les jetons sont perdus sur un good, un raté ou une interruption de l'action. STRONG_SECONDARY [37]
+- **Valeurs / CD / conditions / limites** : 6 jetons ; 4 % par jeton (max 24 %) ; 10/20/30 % par jeton (max 60/120/180 %) (LIVE, STRONG_SECONDARY [37]).
+- **PTB 10.2.0 (NON LIVE)** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [1][37].
 - **Interactions, DR, anti-synergies** : **soumise aux DR** (chance de skill check, au sein du rôle survivant ; seuls les add-ons sont exclus) : STRONG_SECONDARY [15], qui corrige l'ancienne affirmation « Hyperfocus hors DR ». Anti-synergie avec les tueurs à skill checks difficiles (Unnerving Presence, Merciless Storm, Doctor).
 - **Synergies** : Stake Out (goods convertis en greats), Déjà Vu, Prove Thyself.
 - **Difficulté** : 3 (il faut enchaîner les greats)
@@ -344,14 +345,14 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
   - Joueur régulier aux greats, sur un gen solo sans interruption.
 - **Quand elle n'en produit pas** :
   - Tueurs qui interrompent souvent, qui déforment les skill checks, ou en cas de latence.
-- **Écart avec le seed** : NON VÉRIFIABLE (texte) ; le seed ne dit rien des DR (IMPRÉCIS au regard de [15]).
-- **Sources** : [15]
+- **Écart avec le seed** : texte OK (6 jetons, 4 %, 10/20/30 %, pertes [37]) ; le seed ne dit rien des DR (IMPRÉCIS au regard de [15]).
+- **Sources** : [15][37]
 
 ### Deliverance — Adam Francis
 - **Statut** : LIVE ; **nerf 10.1.0**.
-- **Effet LIVE** : une fois par épreuve, après avoir décroché un allié en sécurité, vous pouvez vous décrocher seul ; ce décrochage vous rend Broken 160/140/120 s (était 100/80/60 s). VERIFIED_MULTI_SOURCE [13][15]
-- **Valeurs / CD / conditions / limites** : Broken 160/140/120 s (LIVE) ; décrochage « safe » requis.
-- **PTB 10.2.0** : non modifiée d'après les sources lues (UNCERTAIN).
+- **Effet LIVE** : après avoir décroché un allié en sécurité, vous pouvez réussir un auto-décrochage à tout moment pendant la **première phase de crochet** ; ce décrochage vous rend Broken 160/140/120 s (était 100/80/60 s) ; inutilisable en deuxième phase ou si vous êtes le dernier survivant ; désactivée après usage. VERIFIED_MULTI_SOURCE [38][45][13][15]
+- **Valeurs / CD / conditions / limites** : Broken 160/140/120 s (LIVE, wiki [38] + note 556 [45]) ; décrochage « safe » requis ; première phase de crochet seulement ; pas en dernier survivant.
+- **PTB 10.2.0 (NON LIVE)** : non modifiée au PTB 10.2.0 d'après le wiki et la note officielle 559 [1][38].
 - **Interactions, DR, anti-synergies** : le Broken empêche tout soin (Resurgence, Adrenaline sans effet de soin pendant la durée : HYPOTHESIS, selon la définition de Broken).
 - **Synergies** : Kindred, Borrowed Time / Babysitter (décrochage sûr), Off the Record.
 - **Difficulté** : 2
@@ -359,9 +360,9 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
 - **Quand elle produit de la valeur** :
   - SoloQ où personne ne vient vous chercher : le sauveteur n'est pas nécessaire, le temps d'équipe est économisé.
 - **Quand elle n'en produit pas** :
-  - Vous êtes accroché avant d'avoir fait un décrochage sûr ; ou le tueur campe.
-- **Écart avec le seed** : OK (160/140/120 s, 10.1.0).
-- **Sources** : [13][15]
+  - Vous êtes accroché avant d'avoir fait un décrochage sûr ; ou le tueur campe ; ou vous êtes déjà en deuxième phase de crochet / dernier survivant [38].
+- **Écart avec le seed** : OK (160/140/120 s, 10.1.0, réussite garantie) ; IMPRÉCIS : limites « première phase de crochet » et « pas en dernier survivant » omises [38].
+- **Sources** : [13][15][38][45]
 
 ---
 
@@ -369,81 +370,101 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
 
 | ID | Claim | Source | Patch | Confiance |
 |---|---|---|---|---|
-| L2P23-C01 | Windows of Opportunity : auras palettes / fenêtres / murs à 24/28/32 m | [6][3] | LIVE | VERIFIED_MULTI_SOURCE |
-| L2P23-C02 | WoO PTB : fenêtres seulement, 24 m, +10 % de vitesse de saut, CD 40/35/30 s | [1][2][3][4][5] | PTB 10.2.0 | VERIFIED_MULTI_SOURCE |
-| L2P23-C03 | WoO cooldown LIVE : aucun (fandom) vs 30/25/20 s (timesaver) | [6][3] | LIVE | UNCERTAIN |
-| L2P23-C04 | Five Moves Ahead : 5 palettes / fenêtres ; repartir 50 % plus tôt ; CD 40/35/30 s | [7][8][9] | LIVE | STRONG_SECONDARY |
-| L2P23-C05 | Five Moves Ahead PTB : palettes seulement | [2][5][17] | PTB 10.2.0 | VERIFIED_MULTI_SOURCE |
-| L2P23-C06 | Will to Live : 40/50/60 s, stun 4 s, devient Obsession, usage unique | [10][15] | LIVE | VERIFIED_MULTI_SOURCE |
-| L2P23-C07 | Lithe : rushed vault → 50 % de Haste 3 s ; Exhausted 60/50/40 s | [11] | LIVE | STRONG_SECONDARY |
-| L2P23-C08 | Lithe ne se déclenche pas sur un saut moyen | [12] | LIVE | UNCERTAIN |
-| L2P23-C09 | Sprint Burst : 50 % de Haste 2 s (était 3 s) ; 60/50/40 s | [13][15] | LIVE (10.1.0) | VERIFIED_MULTI_SOURCE |
-| L2P23-C10 | Adrenaline : Haste 4 s (3 → 4 en 10.1.0) | [15] vs [14] | LIVE | UNCERTAIN (conflit) |
-| L2P23-C11 | Deliverance : Broken 160/140/120 s (était 100/80/60 s) | [13][15] | LIVE (10.1.0) | VERIFIED_MULTI_SOURCE |
-| L2P23-C12 | Off the Record : 30/35/40 s avec Endurance | [15] | LIVE (9.2.2) | STRONG_SECONDARY |
-| L2P23-C13 | Unbreakable : une fois par épreuve, mises à terre causées par le tueur | [15] | LIVE (9.5.0) | STRONG_SECONDARY |
+| L2P23-C01 | Windows of Opportunity : auras palettes / fenêtres / murs cassables à 24/28/32 m, sans cooldown | [18][6][3] | LIVE (depuis 5.3.0) | STRONG_SECONDARY |
+| L2P23-C02 | WoO PTB : fenêtres seulement, 24 m, +10 % de vitesse de saut de fenêtre, CD 40/35/30 s | [1][18] | PTB 10.2.0 (NON LIVE) | VERIFIED_MULTI_SOURCE |
+| L2P23-C03 | WoO : aucun cooldown en LIVE | [18][6] | LIVE | STRONG_SECONDARY (conflit résolu) |
+| L2P23-C04 | Five Moves Ahead : 5 palettes et fenêtres ; repartir 50 % plus tôt ; CD 40/35/30 s | [24][44] | LIVE (9.5.0) | VERIFIED_MULTI_SOURCE |
+| L2P23-C05 | Five Moves Ahead PTB : palettes seulement (seul changement) | [1][24] | PTB 10.2.0 (NON LIVE) | VERIFIED_MULTI_SOURCE |
+| L2P23-C06 | Will to Live : 40/50/60 s, stun 4 s, devient Obsession, usage unique, coupée par action conspicuous et portes alimentées | [19][15] | LIVE | STRONG_SECONDARY (renommage 9.4.0 : VERIFIED_PRIMARY [43]) |
+| L2P23-C07 | Lithe : Rushed Vault → 50 % de Haste 3 s ; Exhausted 60/50/40 s | [20][11] | LIVE | STRONG_SECONDARY |
+| L2P23-C08 | Lithe ne se déclenche pas sur un saut moyen | [12] | LIVE | UNCERTAIN (la page wiki ne le précise pas) |
+| L2P23-C09 | Sprint Burst : 50 % de Haste 2 s (était 3 s) ; 60/50/40 s | [22][45] | LIVE (10.1.0) | VERIFIED_MULTI_SOURCE |
+| L2P23-C10 | Adrenaline : Haste 50 % 4 s (3 → 4 en 10.1.0) ; Exhausted 60/50/40 s | [21][45] | LIVE (10.1.0) | VERIFIED_MULTI_SOURCE |
+| L2P23-C11 | Deliverance : Broken 160/140/120 s ; première phase de crochet seulement | [38][45] | LIVE (10.1.0) | VERIFIED_MULTI_SOURCE |
+| L2P23-C12 | Off the Record : 30/35/40 s avec Endurance (maintenue en 9.3.0, PTB annulé) ; supprime aura, gémissements, scratch marks | [23][41][42] | LIVE (9.2.2) | VERIFIED_MULTI_SOURCE |
+| L2P23-C13 | Unbreakable : une fois par épreuve, mises à terre par le tueur, 25/30/35 % | [28][44] | LIVE (9.5.0) | VERIFIED_MULTI_SOURCE |
 | L2P23-C14 | Hyperfocus soumise aux DR (chance de skill check) | [15] | LIVE (9.6.0) | STRONG_SECONDARY |
+| L2P23-C15 | Déjà Vu : 3 gens les plus proches, aura permanente, 4/5/6 % | [25] | LIVE | STRONG_SECONDARY |
+| L2P23-C16 | Resilience : 3/6/9 % LIVE ; 7/8/9 % au PTB | [26][1] | LIVE / PTB 10.2.0 | VERIFIED_MULTI_SOURCE |
+| L2P23-C17 | Kindred : 8/12/16 m LIVE ; 14/15/16 m au PTB | [27][1] | LIVE / PTB 10.2.0 | VERIFIED_MULTI_SOURCE |
+| L2P23-C18 | Resurgence : 50/60/70 % de soin au décrochage | [29] | LIVE (8.1.0) | STRONG_SECONDARY |
+| L2P23-C19 | Dead Hard : Endurance 0,5 s ; Exhausted 60/50/40 s | [30] | LIVE | STRONG_SECONDARY |
+| L2P23-C20 | Finesse : en bonne santé, fast vault +20 % ; CD 40/35/30 s | [31] | LIVE | STRONG_SECONDARY |
+| L2P23-C21 | Prove Thyself : 6/8/10 % par autre survivant à 4 m, max 18/24/30 %, une seule instance par survivant | [32] | LIVE | STRONG_SECONDARY |
+| L2P23-C22 | Background Player : 10 s ; 50 % Haste 5 s ; Exhausted 30/25/20 s | [33] | LIVE (8.0.0) | STRONG_SECONDARY |
+| L2P23-C23 | Made for This : Endurance 6/8/10 s ; Haste 1/2/3 % avec Deep Wound | [34] | LIVE | STRONG_SECONDARY |
+| L2P23-C24 | Bond : 20/28/36 m | [35] | LIVE | STRONG_SECONDARY |
+| L2P23-C25 | Iron Will : 80/90/100 %, non Exhausted, additive (8.1.2) | [36] | LIVE (8.1.0) | STRONG_SECONDARY |
+| L2P23-C26 | Hyperfocus : 6 jetons, 4 %/jeton (max 24 %), 10/20/30 %/jeton (max 60/120/180 %) | [37] | LIVE | STRONG_SECONDARY |
 
 ## Conflits
 
 #### CONFLICT-L2P23-01 : cooldown LIVE de Windows of Opportunity
-- Source A : wiki fandom [6] (via résumé) : cooldown supprimé en 5.3.0 ; la mention revenue en 7.2.0 serait purement visuelle, sans cooldown réel.
-- Source B : timesaver [3] (via résumé) : « Previously… on a 30 / 25 / 20 second cooldown » (état avant le PTB, donc LIVE).
-- Hypothèse : timesaver recopie la description en jeu (visuelle) ; ou un cooldown réel a été réintroduit après la rédaction de la page fandom (qui n'est plus le wiki officiel à jour ; le wiki officiel est wiki.gg).
-- Résolution : UNRESOLVED. À trancher sur deadbydaylight.wiki.gg/wiki/Windows_of_Opportunity ou par un test en jeu.
+- Source A : wiki fandom [6] (via résumé) : cooldown supprimé en 5.3.0.
+- Source B : timesaver [3] (via résumé) : « Previously… on a 30 / 25 / 20 second cooldown ».
+- Hypothèse : timesaver recopiait une ancienne version (3.0.0 : 30/25/20 s).
+- Résolution : **RÉSOLU** — page wiki.gg complète [18] : dernière version LIVE (historique 5.3.0) sans cooldown ; change log « Patch 5.3.0 : removed the Cool-down altogether », aucune réintroduction 8.x-10.1.2a ni dans les notes officielles 9.x-10.1.x lues. Le cooldown 40/35/30 s n'existe qu'au PTB 10.2.0 [1].
 
 #### CONFLICT-L2P23-02 : « repartir 50 % plus tôt » de Five Moves Ahead, LIVE ou ajout PTB ?
-- Source A : wiki.gg / allmyperks / NightLight [7][8][9] (via résumés) : effet déjà présent dans la description actuelle.
-- Source B : patched.gg / Dev Update [5][2] (via résumés) : « added 50 % earlier movement after dropping a pallet » au PTB.
-- Hypothèse : le PTB modifie la valeur ou la formulation (résumé ambigu) ; ou les pages wiki résumées ont déjà intégré le texte PTB.
-- Résolution : UNRESOLVED.
+- Source A : wiki.gg / allmyperks / NightLight [7][8][9] (via résumés) : effet déjà présent.
+- Source B : patched.gg / Dev Update [5][2] (via résumés) : présenté comme un ajout PTB.
+- Résolution : **RÉSOLU (LIVE)** — note officielle 9.5.0 [44] : « After you drop a Pallet, you start moving 50% earlier » et « Clarified the text description of the pallet-dropping speed effect (no gameplay change) » ; la note 559 [1] ne marque « (was Pallets and Windows) » que sur la ligne des auras ; change log wiki 10.2.0 [24] : « no longer reveals Window auras » seulement.
 
 #### CONFLICT-L2P23-03 : durée de la Haste d'Adrenaline
-- Source A : audit lot 1 [15] (notes 10.1.0 lues) : 3 → 4 s.
-- Source B : résumé wiki fandom / wiki.gg [14] : 3 s « most recent ».
-- Hypothèse : résumé fondé sur une version en cache antérieure au 10.1.0 (août 2026).
-- Résolution : provisoirement 4 s (source primaire lue par le lot 1), à reconfirmer. Statut : UNRESOLVED jusqu'à relecture.
+- Source A : audit lot 1 [15] : 3 → 4 s en 10.1.0.
+- Source B : résumé wiki [14] : 3 s.
+- Résolution : **RÉSOLU (4 s)** — page wiki complète [21] (« +50 % Haste for 4 seconds », change log 10.1.0) + note officielle 556 [45] (« 4s (was 3 seconds) »). Le résumé [14] reposait sur une version en cache.
+
+#### CONFLICT-R2-02 (lot 1) : Endurance d'Off the Record en LIVE
+- Source A : note 9.2.2 [41] : Endurance ré-ajoutée, 30/35/40 s.
+- Source B : change log wiki [23] : « Patch 9.3.0 : Again removed the Endurance… restored the previous Active duration ».
+- Résolution : **RÉSOLU (Endurance présente, 30/35/40 s)** — la note 9.3.0 [42] (« Changes from PTB… Reverted the following perks… Off the Record ») montre que le retrait décrit par le change log n'a existé qu'au PTB 9.3.0 ; la description wiki actuelle [23] contient bien 30/35/40 s + Endurance.
+
+#### CONFLICT-L2P23-04 : Off the Record se désactive-t-elle quand les portes sont alimentées ?
+- Source A : description wiki actuelle [23] : « deactivates prematurely and is disabled for the remainder of the Trial upon powering the Exit Gates » (et seed : « tant que des générateurs restent à réparer »).
+- Source B : note officielle 9.2.0 [40] : « Removed the stipulation that it disables once Exit Gates are powered » ; la note 9.2.2 [41] ne la ré-ajoute pas, et aucune note ultérieure lue ne la mentionne. La version 9.2.2 de l'historique wiki ne la contient pas non plus.
+- Hypothèse : texte en jeu remis à jour sans note de patch, ou page wiki qui a recollé l'ancienne clause (6.1.0).
+- Résolution : UNRESOLVED (impact pratique faible : 30-40 s après un décrochage, rarement à cheval sur l'alimentation des portes). À trancher par la description en jeu.
 
 ## Écarts avec le guide seed
 
 | Élément | Le guide dit | Vérifié | Verdict |
 |---|---|---|---|
-| Windows of Opportunity (LIVE) | 24/28/32 m, permanent | 24/28/32 m ; cooldown LIVE contesté | OK / IMPRÉCIS (CD passé sous silence) |
-| Windows of Opportunity (PTB) | fenêtres seulement, +10 %, 40/35/30 s | idem + rayon fixe 24 m | IMPRÉCIS (rayon omis) |
-| Five Moves Ahead (PTB) | « palettes seulement, +50 % de vitesse après le lâcher » | palettes seulement ; « repartir 50 % plus tôt » (pas de Haste) | IMPRÉCIS |
-| Lithe | « saut moyen ou rapide » | rushed vault ; saut moyen probablement exclu | IMPRÉCIS (UNCERTAIN) |
-| Will to Live | 40/50/60 s, stun 4 s, Obsession, usage unique | idem | OK |
-| Sprint Burst | 2 s (nerf 10.1.0) | idem | OK |
-| Deliverance | Broken 160/140/120 s (10.1.0) | idem | OK |
-| Adrenaline | 4 s (10.1.0) | 4 s [15] vs 3 s [14] | OK (conflit ouvert) |
-| Off the Record | 30/35/40 s, Endurance | idem [15] | OK (conditions NON VÉRIFIABLE) |
-| Unbreakable | limitée aux mises à terre par le tueur (9.5.0) | idem [15] | OK (valeurs NON VÉRIFIABLE) |
-| Hyperfocus | aucune mention des DR | soumise aux DR [15] | IMPRÉCIS |
-| Iron Will | 80/90/100 % | non re-vérifié (quota) ; connaissance du modèle (antérieure à mi-2026), UNCERTAIN : 50/75/100 % | NON VÉRIFIABLE (écart probable) |
-| Déjà Vu | aura permanente (implicite) | non vérifié ; possiblement 30 s par événement | NON VÉRIFIABLE |
-| Resilience PTB 7/8/9 %, Kindred PTB 14/15/16 m | cités comme PTB | absents des résumés lus | NON VÉRIFIABLE |
-| Resurgence, Dead Hard, Finesse, Prove Thyself, Background Player, Made for This, Bond, Kindred, Resilience (LIVE) | valeurs page 23 | seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) | NON VÉRIFIABLE |
+| Windows of Opportunity (LIVE) | 24/28/32 m, permanent | 24/28/32 m, sans cooldown [18] | OK |
+| Windows of Opportunity (PTB) | fenêtres seulement, +10 %, 40/35/30 s | idem + rayon fixe 24 m [1] | IMPRÉCIS (rayon omis) |
+| Five Moves Ahead (PTB) | « palettes seulement, +50 % de vitesse après le lâcher » | palettes seulement ; « repartir 50 % plus tôt » déjà LIVE depuis 9.5.0 [44][1] | FAUX (effet PTB inventé) |
+| Lithe | « saut moyen ou rapide » | « Rushed Vault » seulement [20] | IMPRÉCIS |
+| Will to Live | 40/50/60 s, stun 4 s, Obsession, usage unique, désactivations | idem [19] | OK |
+| Sprint Burst | 2 s (nerf 10.1.0) | idem [22][45] | OK |
+| Deliverance | Broken 160/140/120 s (10.1.0), réussite garantie | idem + 1re phase de crochet seulement, pas en dernier survivant [38] | OK (IMPRÉCIS : limites omises) |
+| Adrenaline | 4 s (10.1.0) | 4 s [21][45] | OK |
+| Off the Record | 30/35/40 s, Endurance, gémissements, aura, tant que des gens restent | idem + scratch marks supprimées ; clause des portes contestée [23][40] | IMPRÉCIS (scratch marks omises ; CONFLICT-L2P23-04) |
+| Unbreakable | 1×/partie, mises à terre par le tueur, 25/30/35 % | idem [28][44] | OK |
+| Hyperfocus | aucune mention des DR | texte OK [37] ; soumise aux DR [15] | IMPRÉCIS |
+| Iron Will | 80/90/100 %, non Exhausted | idem [36] | OK |
+| Déjà Vu | aura permanente, 4/5/6 % | idem [25] | OK |
+| Resilience | 3/6/9 % ; PTB 7/8/9 % | idem [26][1] | OK |
+| Kindred | 8/12/16 m ; PTB 14/15/16 m | idem [27][1] | OK |
+| Resurgence | 50/60/70 % | idem [29] | OK |
+| Dead Hard | Endurance 0,5 s ; 60/50/40 s | idem [30] | OK |
+| Finesse | bonne santé, 20 %, 40/35/30 s | idem [31] | OK |
+| Prove Thyself | 6/8/10 % par survivant à 4 m, pour tous | idem + plafond 18/24/30 %, une instance à la fois [32] | IMPRÉCIS |
+| Background Player | 10 s, 50 % 5 s, 30/25/20 s | idem [33] | OK |
+| Made for This | Endurance 6/8/10 s ; +3 % de Haste avec Deep Wound | Endurance OK ; Haste **1/2/3 %** [34] | IMPRÉCIS |
+| Bond | 20/28/36 m | idem [35] | OK |
 
 ## Questions ouvertes
 
-1. Cooldown LIVE réel de Windows of Opportunity (CONFLICT-L2P23-01).
-2. « Repartir 50 % plus tôt » de Five Moves Ahead : LIVE ou PTB (CONFLICT-L2P23-02) ?
-3. Adrenaline : 3 ou 4 s de Haste en LIVE (CONFLICT-L2P23-03) ?
-4. Lithe se déclenche-t-elle sur un saut moyen ?
-5. Off the Record : désactivation sur action conspicuous ? Condition « générateurs restants » ?
-6. Iron Will : 80/90/100 % (seed) ou 50/75/100 % ? Condition « non Exhausted » toujours présente ?
-7. Déjà Vu : aura permanente ou temporaire ?
-8. Dead Hard LIVE : Endurance ou invulnérabilité, durée exacte, désactivation portes alimentées ?
-9. Prove Thyself : bonus cumulatif par survivant ? Bonus appliqué aux coéquipiers ?
-10. Background Player : Exhausted 30/25/20 s ou autre (incohérence interne du seed, [15]) ?
-11. Made for This : Haste 3 % fixe ou 1/2/3 % ?
-12. PTB 10.2.0 : Resilience (7/8/9 %) et Kindred (14/15/16 m) figurent-elles bien dans les 58 perks ? Liste complète à relire sur [1] / [4].
-13. DR 9.6.0 : les bonus de vitesse de réparation (Déjà Vu / Resilience / Prove Thyself) et de saut (Finesse / Resilience / WoO PTB) sont-ils des « modificateurs identiques » soumis aux DR ?
-14. Reprendre les 14 perks du tier A sans vérification web lorsque le quota WebSearch sera rétabli.
+1. Off the Record : clause « désactivée aux portes alimentées » en LIVE (CONFLICT-L2P23-04) ?
+2. Lithe se déclenche-t-elle sur un saut moyen ? (la page wiki dit seulement « Rushed Vault »).
+3. Adrenaline : si vous êtes accroché à l'alimentation des portes, l'effet est-il différé jusqu'au décrochage ? (non décrit sur la page wiki).
+4. Background Player et Kindred : localiser l'incohérence interne du seed signalée par l'audit [15] (la page 23 concorde avec le wiki).
+5. DR 9.6.0 : les bonus de vitesse de réparation (Déjà Vu / Resilience / Prove Thyself) et de saut (Resilience / WoO PTB) sont-ils des « modificateurs identiques » soumis aux DR ?
+6. Définition exacte de « Conspicuous Action » (se faire soigner compte-t-il ?) pour Will to Live, Off the Record, Made for This.
 
 ## Sources
 
-[1] 10.2.0 PTB Patch Notes — BHVR — https://forums.bhvr.com/dead-by-daylight/kb/articles/559-10-2-0-ptb-patch-notes — consulté le 27/09/2026 via WebSearch
+[1] 10.2.0 PTB Patch Notes — BHVR — https://forums.bhvr.com/dead-by-daylight/kb/articles/559 — consulté le 27/09/2026 via WebSearch, puis note complète lue en local (`kb/sources/patches/official_559.txt`)
 [2] Dev Update: 10.2.0 Perks Update — BHVR — https://forums.bhvr.com/dead-by-daylight/discussion/472297/dev-update-10-2-0-perks-update — consulté le 27/09/2026 via WebSearch
 [3] DBD Windows of Opportunity Rework: 10.2.0 PTB Changes and Alternatives — timesaver.gg — https://timesaver.gg/blog/dbd-windows-of-opportunity-rework — consulté le 27/09/2026 via WebSearch
 [4] DBD Perk Changes: All 58 Killer and Survivor Perks in the 10.2.0 PTB — timesaver.gg — https://timesaver.gg/blog/dbd-perk-changes-10-2-0 — consulté le 27/09/2026 via WebSearch
@@ -460,3 +481,31 @@ Périmètre (21 perks, seed l. 95-199) : Windows of Opportunity, Will to Live, L
 [15] Audit phase 0 + lot 1 (notes 9.2.2, 9.5.0, 9.6.0, 10.1.0 relues par le lot 1) — fichier interne kb/seed/audit_phase0.txt — consulté le 27/09/2026
 [16] DBD Patch Notes 10.2.0: PTB Date, 58 Perk Changes — timesaver.gg — https://timesaver.gg/blog/dbd-patch-notes-10-2-0 ; HappyGamer — https://happygamer.com/dead-by-daylight-10-2-0-ptb-58-perk-changes-164427/ — consulté le 27/09/2026 via WebSearch
 [17] Windows Of Opportunity and Five Moves Ahead Changes — forum BHVR — https://forums.bhvr.com/dead-by-daylight/discussion/472358/windows-of-opportunity-and-five-moves-ahead-changes — consulté le 27/09/2026 via WebSearch
+[18] Windows of Opportunity — deadbydaylight.wiki.gg/wiki/Windows_of_Opportunity — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[19] Will to Live — deadbydaylight.wiki.gg/wiki/Will_to_Live — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[20] Lithe — deadbydaylight.wiki.gg/wiki/Lithe — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[21] Adrenaline — deadbydaylight.wiki.gg/wiki/Adrenaline — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[22] Sprint Burst — deadbydaylight.wiki.gg/wiki/Sprint_Burst — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[23] Off the Record — deadbydaylight.wiki.gg/wiki/Off_the_Record — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[24] Five Moves Ahead — deadbydaylight.wiki.gg/wiki/Five_Moves_Ahead — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[25] Déjà Vu — deadbydaylight.wiki.gg/wiki/Déjà_Vu — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[26] Resilience — deadbydaylight.wiki.gg/wiki/Resilience — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[27] Kindred — deadbydaylight.wiki.gg/wiki/Kindred — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[28] Unbreakable — deadbydaylight.wiki.gg/wiki/Unbreakable — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[29] Resurgence — deadbydaylight.wiki.gg/wiki/Resurgence — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[30] Dead Hard — deadbydaylight.wiki.gg/wiki/Dead_Hard — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[31] Finesse — deadbydaylight.wiki.gg/wiki/Finesse — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[32] Prove Thyself — deadbydaylight.wiki.gg/wiki/Prove_Thyself — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[33] Background Player — deadbydaylight.wiki.gg/wiki/Background_Player — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[34] Made for This — deadbydaylight.wiki.gg/wiki/Made_for_This — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[35] Bond — deadbydaylight.wiki.gg/wiki/Bond — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[36] Iron Will — deadbydaylight.wiki.gg/wiki/Iron_Will — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[37] Hyperfocus — deadbydaylight.wiki.gg/wiki/Hyperfocus — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[38] Deliverance — deadbydaylight.wiki.gg/wiki/Deliverance — page complète via API, consultée le 27/09/2026 (digest `kb/sources/wiki_perks_digest.md`)
+[39] Note officielle BHVR 9.1.0 | The Walking Dead — https://forums.bhvr.com/dead-by-daylight/kb/articles/516 — lue en local (`kb/sources/patches/official_516.txt`), consultée le 27/09/2026
+[40] Note officielle BHVR 9.2.0 | Sinister Grace — https://forums.bhvr.com/dead-by-daylight/kb/articles/523 — lue en local (`kb/sources/patches/official_523.txt`), consultée le 27/09/2026
+[41] Note officielle BHVR 9.2.2 | Bugfix Patch — https://forums.bhvr.com/dead-by-daylight/kb/articles/525 — lue en local (`kb/sources/patches/official_525.txt`), consultée le 27/09/2026
+[42] Note officielle BHVR 9.3.0 | Mid-Chapter — https://forums.bhvr.com/dead-by-daylight/kb/articles/529 — lue en local (`kb/sources/patches/official_529.txt`), consultée le 27/09/2026
+[43] Note officielle BHVR 9.4.0 | Stranger Things Chapter 2 — https://forums.bhvr.com/dead-by-daylight/kb/articles/534 — lue en local (`kb/sources/patches/official_534.txt`), consultée le 27/09/2026
+[44] Note officielle BHVR 9.5.0 | All-Kill: Comeback — https://forums.bhvr.com/dead-by-daylight/kb/articles/538 — lue en local (`kb/sources/patches/official_538.txt`), consultée le 27/09/2026
+[45] Note officielle BHVR 10.1.0 | Chorus of Sin — https://forums.bhvr.com/dead-by-daylight/kb/articles/556 — lue en local (`kb/sources/patches/official_556.txt`), consultée le 27/09/2026

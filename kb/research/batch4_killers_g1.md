@@ -1,31 +1,30 @@
 # Lot 4 — Fiches tueurs vue SURVIVANT, groupe 1 (tueurs 1 à 7)
 
-> **Statut : WRITTEN + AUDITED (audits adversariaux §25-26 du 27/09/2026, sans web) — voir kb/audit/pass14_lot4_g1-g3.md**
+> **Statut : WRITTEN + AUDITED (audits adversariaux §25-26 du 27/09/2026) + RE-VÉRIFIÉ lot 12b (27/09/2026) sur pages wiki complètes et notes officielles BHVR locales**
 
-**Couverture web : 0 élément vérifié par recherche / 7 non re-vérifiés (quota WebSearch épuisé)** — les 7 tueurs sont traités ; seules les valeurs reprises de l'audit phase 0 sont vérifiées.
+**Couverture : 7/7 tueurs re-vérifiés sur page wiki complète (27/09/2026), dont __NOFF__ points confirmés par note officielle.**
 
 - Périmètre : Trapper, Wraith, Hillbilly, Nurse, Shape, Hag, Doctor.
-- Référence : LIVE 10.1.2a (17/09/2026). PTB 10.2.0 non LIVE. Date de travail : 27/09/2026.
-- Méthode prévue : WebSearch uniquement (WebFetch bloqué). Méthode réelle : **aucune recherche possible** (quota) → sources internes au repo seulement.
+- Référence : LIVE 10.1.2a (17/09/2026). PTB 10.2.0 non LIVE (les pages wiki affichent déjà certaines perks « upcoming Patch 10.2.0 » : non retenues ici). Date de travail : 27/09/2026.
+- Méthode (lot 12b) : lecture des pages wiki.gg **complètes** des 7 tueurs (`kb/sources/wiki_killers/<Nom>.txt`, extraites via l'API le 27/09/2026 : infobox, pouvoir, « Power Trivia », add-ons, change log), de la page wiki.gg **Pallets** (via `kb/tools/wiki_text.py`), et des notes officielles BHVR 9.0.0 → 10.1.2 (`kb/sources/patches/official_*.txt`).
 - Étiquettes : FACT / DATA / HEURISTIC / EXPERT OPINION / SITUATIONAL ; valeurs chiffrées : LIVE / PTB / OBSOLETE / HISTORICAL / UNCERTAIN.
+- Confiance : **STRONG_SECONDARY** = page wiki complète ; **VERIFIED_MULTI_SOURCE** = wiki + note officielle concordantes ; **VERIFIED_PRIMARY** = note officielle explicite.
 - Seed comparé : `kb/seed/ch8_killers.txt` l. 257-546 ; audit : `kb/seed/audit_phase0.txt`.
 
-> **AVERTISSEMENT DE VÉRIFICATION (bloquant)** — Au lancement de ce lot, le quota WebSearch de la session était **épuisé** (« 200 of 200 WebSearch calls », réponse de l'outil le 27/09/2026 ; les 2 premières requêtes Trapper n'ont renvoyé aucun résultat). **Aucune recherche web n'a donc été faite pour ce lot.**
-> - Les seules valeurs confirmées viennent de `audit_phase0.txt` (déjà vérifié en phase 0) : elles sont marquées **[AUDIT]** avec la confiance de l'audit.
-> - Valeurs reprises du seed sans vérification : **[SEED-NRV]** = « seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) », confiance **UNCERTAIN**.
-> - Valeurs ajoutées de ma propre connaissance : **[MÉM]** = « connaissance du modèle (antérieure à mi-2026), UNCERTAIN ». Ne pas les promouvoir en LIVE sans recherche.
-> - Les parties analytiques (identification, chase, counterplay, erreurs, adaptations) sont des **HEURISTIC** (raisonnement mécanique, non sourcé). Aucun guide expert n'a pu être lu : l'étiquette EXPERT_OPINION n'est **pas** utilisée pour ne pas simuler une source.
-> - Les champs « Version » sont limités à ce que l'audit a établi pour 9.0.0 → 10.1.2a.
-> - Ce fichier est un **squelette survivant à re-vérifier** (lot à relancer quand WebSearch est disponible) ; voir « Questions ouvertes ».
+> **Historique de vérification** — La 1re version (27/09/2026) avait été écrite **sans aucune recherche web** (quota WebSearch épuisé) : valeurs [SEED-NRV] / [MÉM] UNCERTAIN. Le lot 12b a remplacé ces valeurs par celles des pages wiki complètes et des notes officielles.
+> - **[AUDIT]** = valeur déjà vérifiée en phase 0 (`audit_phase0.txt`), confiance de l'audit.
+> - **[MÉM]** = connaissance du modèle, UNCERTAIN : ne subsiste que là où les pages lues ne disent rien (signalé).
+> - Les parties analytiques (identification, chase, counterplay, erreurs, adaptations) restent des **HEURISTIC** (raisonnement mécanique à partir des valeurs vérifiées). Aucun guide expert n'a été lu : l'étiquette EXPERT_OPINION n'est pas utilisée.
+> - Les pages wiki lues n'ont **pas de change log** détaillé 9.x-10.x pour Trapper, Wraith, Hillbilly, Nurse, Hag (dernières entrées : 7.3.0, 6.7.0, 8.6.0, 8.3.2, 7.6.0) ; les changements 2025-2026 viennent des notes officielles.
 
 ## Règles transversales (vue survivant, les 7 tueurs)
 
-- FACT [AUDIT] : classes de vitesse 4,6 m/s (115 %) ou 4,4 m/s (110 %) ; Nurse 3,85 m/s (STRONG_SECONDARY) ; classe 4,2 m/s (Evil Within I / Stalker de la Shape) UNCERTAIN [1].
-- FACT [AUDIT] : l'identité du tueur est révélée ; son **loadout reste caché** jusqu'à la fin (D-092, notes 9.6.0) [1][4]. → Les sections « Identification » ci-dessous servent à déduire le pouvoir, les add-ons et la stratégie, pas les perks.
+- FACT : vitesses LIVE du lot — 4,6 m/s : Trapper, Wraith (non occulté), Hillbilly, Doctor, Shape (Pursuer / Evil Incarnate) ; 4,4 m/s : Hag ; 3,85 m/s : Nurse ; **4,2 m/s : Shape en Stalker Mode** (VERIFIED_PRIMARY, notes 9.2.0 [13] ; le « UNCERTAIN » de l'audit est levé) [5]-[11].
+- FACT [AUDIT] + VERIFIED_PRIMARY : le **loadout** du tueur reste caché jusqu'à la fin ; son **identité** est affichée à tous les survivants **dès qu'un survivant entre en chase ou perd un état de santé** (Match Details, notes 9.6.0 [18]) [1][4]. → Les sections « Identification » ci-dessous servent à deviner le tueur avant ce moment, puis à déduire ses add-ons et sa stratégie, pas ses perks.
 - FACT [AUDIT] : protections d'unhook LIVE 10.1.0 = Endurance + 10 % Haste 10 s + Elusive 10 s (pas une fois les gens alimentés) [1]. Pertinent contre les tueurs à pièges (Trapper, Hag) qui piègent le crochet. Ajout audit P14 : l'Endurance est **annulée par une action voyante** (conspicuous action) et ne protège pas un survivant déjà sous Deep Wound ; l'Elusive supprime griffures, grognements et flaques de sang et prend fin si le survivant est frappé (FACT [AUDIT], STRONG_SECONDARY) [1].
 - FACT [AUDIT] : Diminishing Returns (9.6.0) sur Powers/Items/Perks/Offerings, **pas sur les add-ons** [1].
-- FACT [AUDIT] (STRONG_SECONDARY) : règle d'origine du TR = **32 m pour les tueurs à 4,6 m/s, 24 m pour ceux à 4,4 m/s**, avec « beaucoup d'exceptions » pour les tueurs récents [1]. C'est un **indice**, pas une preuve par tueur : il soutient la mémoire du modèle pour le Hillbilly (32 m), mais le seed pour la Hag (24 m). Voir CONFLICT-L4G1-01 et 03.
-- FACT [AUDIT] (STRONG_SECONDARY, « liste à reconfirmer ») : la liste wiki.gg Pallets des destructions **instantanées** par pouvoir ne cite **aucun** des 7 tueurs de ce lot ; la tronçonneuse du Hillbilly casse en ~1 s [1]. Les casses de palette attribuées par le seed à la Slaughtering Strike (Shape) ou à LoPro Chains (Hillbilly) sont donc **UNCERTAIN** : ne pas construire de counterplay dessus.
+- FACT (STRONG_SECONDARY, pages wiki complètes) : TR LIVE du lot — **32 m** : Trapper, Wraith (supprimé occulté), Nurse, Doctor ; **40 m : Hillbilly** (passé de 32 à 40 m au patch 8.6.0) ; **24 m : Hag** (depuis 1.9.3) ; **Shape : aucun en Stalker (Undetectable), 16 m en Pursuer, 32 m en Evil Incarnate** (VERIFIED_PRIMARY, notes 9.2.3 [14]) [5]-[11]. La règle d'origine « 32 m à 4,6 m/s, 24 m à 4,4 m/s » [1] vaut pour la Hag mais **pas** pour le Hillbilly (exception). CONFLICT-L4G1-01 et 03 **RÉSOLUS**.
+- FACT (STRONG_SECONDARY, page wiki.gg Pallets lue en entier le 27/09/2026 [12]) : « The Hillbilly and The Cannibal can alternatively destroy a Pallet with their Power, being Chainsaws. Both actions only take one second. » et « The Shape can destroy a Pallet … by colliding with it while using Slaughtering Strike ». La réserve de l'audit P14 (« aucun des 7 tueurs dans la liste ») est **levée** : Shape (Slaughtering Strike, VERIFIED_MULTI_SOURCE avec les notes 9.2.0 [13]) et Hillbilly (tronçonneuse, ~1 s ; LoPro Chains permet en plus de **traverser** palettes et murs sans arrêter le sprint [7]) cassent les palettes par leur pouvoir. Les notes 9.5.0 classent le pouvoir du Hillbilly et celui de la Shape en « Special-break » [17].
 - HEURISTIC : les 7 tueurs de ce lot se classent vue survivant en 3 familles : (a) chase M1 + setup (Trapper, Hag, Doctor, Shape) → le temps de setup est la ressource du survivant ; (b) mobilité/coup unique (Hillbilly, Nurse) → LOS et imprévisibilité priment sur les palettes **contre le pouvoir** (en M1, le Hillbilly se boucle comme un 4,6 normal : voir sa fiche) ; (c) furtif/rotation (Wraith, Shape Stalker) → l'info (son, cloche, TR absent) prime.
 - **Mode d'emploi des consignes (audit §26 P14)** : chaque « Counterplay » décrit l'**option par défaut** contre un joueur qui utilise normalement son pouvoir (HEURISTIC, pas règle). Un tueur expérimenté anticipe l'option par défaut (fausse cloche du Wraith, charge annulée du Hillbilly, blink retenu de la Nurse, fausse pose du Trapper) : s'il exploite visiblement ta réponse habituelle, **varier** vaut mieux que répéter la consigne.
 - **SoloQ / SWF (audit §25 P14)** : les consignes « Équipe » et « Macro » (désarmer le 3-gen pendant qu'il chase ailleurs, sauveteur qui vérifie le sol, chrono des 60 s d'Evil Incarnate) supposent souvent une information partagée. En **SoloQ**, les appliquer sur signaux observables : HUD (qui est en chase, au crochet), cris de piège, sons de pouvoir, auras de perks ; en **SWF**, les annoncer.
@@ -35,18 +34,20 @@
 
 ## 1. The Trapper (Evan MacMillan) — archétype(s) : zone/piège | M1
 
-- **Version** : aucun rework ni changement de pouvoir relevé par l'audit entre 9.0.0 et 10.1.2a [1]. Seed : « patch 9.5 : hitbox des pièges cohérente, exploits de placement corrigés » [SEED-NRV]. Statut LIVE présumé, UNCERTAIN.
-- **Données LIVE** :
-  - Vitesse 4,6 m/s ; TR 32 m ; grand [SEED-NRV] (cohérent avec la classe 4,6 [AUDIT]) — UNCERTAIN.
-  - 8 pièges sur la carte ; 2 en main au départ, capacité 2 ; pose 2,5 s ; Haste +7,5 % 5 s après la pose [SEED-NRV] — UNCERTAIN. Le Haste post-pose n'est pas dans ma connaissance [MÉM] → à vérifier en priorité.
-  - Survivant piégé : blessé s'il était sain ; libération par tentatives (~16,7 %/essai selon le seed) [SEED-NRV] — UNCERTAIN (la loi exacte des tentatives n'est pas confirmée).
-  - Désarmement 3,5 s ; le Trapper peut tomber dans ses pièges [SEED-NRV] — UNCERTAIN.
+- **Version** : pas de changement de pouvoir 9.0.0 → 10.1.2a. Changements 2025-2026 = correctifs : pièges cachés sous des décors (9.0.0, 9.2.3, 9.6.0, 10.0.0), **cumul de Haste corrigé** en posant/réarmant plusieurs pièges (9.2.3 [14]), Iridescent Stone qui n'armait pas le dernier piège (9.2.0 [13]), **hitbox des pièges incohérente + contournements de zones de pose corrigés** (9.5.0 [17]) → le « patch 9.5 » du seed est **OK** (VERIFIED_PRIMARY). Dernier changement de pouvoir dans le change log wiki : 7.3.0 (8 pièges, Haste à la pose) [5]. Statut LIVE : STRONG_SECONDARY.
+- **Données LIVE** (STRONG_SECONDARY [5] sauf mention) :
+  - Vitesse 4,6 m/s ; TR 32 m ; grand (Tall).
+  - Commence avec **2 pièges en main** ; **8 pièges désarmés** apparaissent sur la carte (près des gens en général depuis 7.3.1) ; capacité 2 ; il voit l'aura de tous les pièges en permanence.
+  - Pose **2,5 s** (0,5 s accroupi + 1,5 s pose + 0,5 s relevé ; seule la phase centrale est modifiée par add-on) ; **Haste +7,5 % pendant 5 s** après chaque pose (depuis 7.3.0 ; un bug de cumul corrigé en 9.2.3 [14] → VERIFIED_MULTI_SOURCE). Il peut **réarmer un piège sur place** sans le ramasser ; ramassage 1 s.
+  - Survivant piégé : immobilisé, **blessé s'il était sain** ; tentative de libération 1,8 s, **16,67 % par tentative, succès garanti à la 6e** ; sauvetage par un coéquipier 1,5 s ; le Trapper peut te **ramasser directement** dans le piège.
+  - Désarmement **3,5 s** ; les pièges **ne se sabotent plus** (depuis 3.6.0) ; un survivant ne peut **pas** déplacer un piège. Distance minimale entre deux pièges 1,5 m.
+  - Le Trapper peut se prendre dans ses propres pièges (sauf 3 s de grâce après la pose ; add-on Makeshift Wrap) : il lâche alors le survivant porté.
 - **Identification** (HEURISTIC) :
-  - Avant reveal : pièges armés/désarmés visibles au sol (souvent herbe haute, entrées de tiles, crochets) ; aucun son de pouvoir à distance. Un piège qui « bouge » de place entre deux passages = Trapper en train de ramasser/reposer.
-  - Pouvoir en action : animation de pose (accroupi) en chase ; claquement du piège + cri quand quelqu'un est pris.
-  - Add-ons observables : pièges quasi invisibles (Tar Bottle probable) ; pièges qui se réarment seuls (Iridescent Stone probable) ; ramassage rapide de plusieurs pièges d'affilée (Trapper Bag / sac). Identification d'add-on = SITUATIONAL.
+  - Avant reveal : pièges armés/désarmés visibles au sol (souvent herbe haute, entrées de tiles, crochets, gens) ; aucun son de pouvoir à distance. Un piège déplacé entre deux passages = Trapper qui ramasse/repose.
+  - Pouvoir en action : animation de pose (accroupi ~2,5 s) en chase ; claquement du piège + cri quand quelqu'un est pris.
+  - Add-ons observables : pièges noircis (Tar Bottle) ; piège désarmé retrouvé armé sans passage du tueur (Iridescent Stone) ; **3 poses d'affilée sans ramassage** (Trapper Bag) ; aucun piège au sol en début de partie (Trapper Sack) ; pose silencieuse (Bear Oil) ; survivant libéré qui tombe au sol (Honing Stone). Identification d'add-on = SITUATIONAL.
   - Stratégie probable : 3-gen piégé + garde de crochet (proxy camp) ; peu de pression cross-map.
-- **Ce qu'il cherche en chase** (HEURISTIC) : te forcer à repasser par un point piégé (fenêtre, sortie de palette, coin de jungle gym) ; te faire courir en herbe haute/zone sombre ; te pousser vers le 3-gen piégé.
+- **Ce qu'il cherche en chase** (HEURISTIC) : te forcer à repasser par un point piégé (fenêtre, sortie de palette, coin de jungle gym) ; te faire courir en herbe haute/zone sombre ; te pousser vers le 3-gen piégé ; poser en chase pour prendre les 7,5 % de Haste (5 s).
 - **Tiles / structures** (HEURISTIC) :
   - Favorables : longues boucles à visibilité au sol (sols clairs), main buildings avec plusieurs sorties, chaînes de tiles non piégées.
   - Défavorables : tiles à entrée unique (shack côté fenêtre), herbe haute/maïs, zones déjà piégées (le temps de setup y est déjà payé).
@@ -54,94 +55,114 @@
   - Open areas : M1 pur, il est « un 4,6 sans pouvoir » s'il n'a pas de piège en main.
 - **Mindgames propres** (HEURISTIC) : fausse pose (il s'accroupit/feinte pour te faire changer de trajet) ; pose visible pour te « parquer » d'un côté de la boucle ; piège dans le trajet d'un double-back.
 - **Counterplay** (HEURISTIC) :
-  - Mécanique : regarder le sol avant les vaults et sorties **qu'il a eu le temps de piéger** (il t'a perdu de vue, zone déjà fréquentée, sortie évidente de la tile) ; crouch-walk pour lire l'herbe ; ne pas sprinter aveuglément dans la végétation. Limite (audit §26 P14) : vérifier **chaque** vault en pleine chase coûte des mètres et la caméra ; contre un Trapper qui n'a pas quitté ta vue, il n'a pas pu poser sur ta sortie.
+  - Mécanique : regarder le sol avant les vaults et sorties **qu'il a eu le temps de piéger** (il t'a perdu de vue, zone déjà fréquentée, sortie évidente de la tile) ; crouch-walk pour lire l'herbe ; ne pas sprinter aveuglément dans la végétation. Limite (audit §26 P14) : vérifier **chaque** vault en pleine chase coûte des mètres et la caméra ; contre un Trapper qui n'a pas quitté ta vue, il n'a pas pu poser sur ta sortie. Une pose lui coûte 2,5 s d'immobilité (DATA [5]) mais lui rend 7,5 % de Haste 5 s : gagner de la distance **pendant** la pose, pas après.
   - Positionnel : changer de tile tôt quand il a posé ; choisir les chaînes de tiles propres.
-  - Macro : désarmer/déplacer les pièges du 3-gen et des crochets **pendant qu'il chase ailleurs** ; compter ses pièges en main (2 de base selon le seed [SEED-NRV], UNCERTAIN ; un add-on de sac en ajoute : si tu vois une 3e pose d'affilée, le comptage est faux).
+  - Macro : **désarmer** (3,5 s) les pièges du 3-gen et des crochets **pendant qu'il chase ailleurs** ; savoir que c'est temporaire (il réarme sur place sans ramasser [5]) : on ne peut ni saboter ni déplacer un piège. Compter ses pièges en main : 2 de base (DATA [5]) ; une 3e pose d'affilée = Trapper Bag.
+  - Piégé : les tentatives de libération sont aléatoires (16,67 %, 6e garantie, 1,8 s chacune [5]) → jusqu'à ~11 s seul ; si un coéquipier est proche, **le sauvetage (1,5 s) est plus rapide** (DATA [5] ; HEURISTIC sur le choix).
   - Équipe : sauver en vérifiant le sol sous/autour du crochet ; ne pas s'agglutiner sur un gen piégé.
-- **Habitudes punissables et erreurs classiques** (HEURISTIC) : courir en herbe haute par réflexe ; vaulter la même fenêtre deux fois ; décrocher sans regarder ses pieds ; ignorer les pièges « déjà vus » (ils ont pu être réarmés).
-- **Adaptations avancées / échecs du counterplay** (SITUATIONAL) : avec pièges assombris + carte à herbe haute (maïs de Coldwind, Red Forest), la lecture du sol ne suffit plus → privilégier les zones dégagées et les trajets déjà parcourus. Contre un Trapper qui garde le crochet piégé en fin de partie, la sortie par la trappe ou l'autre porte vaut souvent mieux que le sauvetage (SITUATIONAL : dépend du nombre de survivants restants, des portes ouvertes et de la phase de l'accroché ; s'il reste à moins de 16 m du crochet, l'anti-facecamp 9.3.0 accélère la progression 1×/2×/4× [AUDIT], ce qui peut rendre le sauvetage plus rentable qu'attendre).
-- **Add-ons qui changent la décision** (tous [SEED-NRV]/[MÉM], UNCERTAIN) :
-  - Tar Bottle (pièges assombris) → le survivant doit éviter l'herbe/les zones sombres au lieu de compter sur la lecture visuelle.
-  - Iridescent Stone (réarmement aléatoire périodique selon le seed) → **une fois l'add-on identifié** (piège désarmé retrouvé armé sans passage du tueur), ne plus considérer un piège désarmé comme sûr ; saboter/déplacer au lieu de juste désarmer. Sans ce signe, un piège désarmé reste un piège désarmé.
-  - Honing Stone (libération → état mourant selon le seed, effet exact non confirmé) → ne pas se libérer seul si le tueur est proche ; attendre un sauveteur si possible.
-  - Trapper Bag / sacs (capacité +1) → il pose plus en chase : quitter la tile encore plus tôt.
+- **Habitudes punissables et erreurs classiques** (HEURISTIC) : courir en herbe haute par réflexe ; vaulter la même fenêtre deux fois ; décrocher sans regarder ses pieds ; considérer un piège désarmé comme neutralisé (il se réarme sur place, et tout seul avec Iridescent Stone).
+- **Adaptations avancées / échecs du counterplay** (SITUATIONAL) : avec Tar Bottle + carte à herbe haute (maïs de Coldwind, Red Forest), la lecture du sol ne suffit plus → privilégier les zones dégagées et les trajets déjà parcourus. Contre un Trapper qui garde le crochet piégé en fin de partie, la sortie par la trappe ou l'autre porte vaut souvent mieux que le sauvetage (SITUATIONAL : dépend du nombre de survivants restants, des portes ouvertes et de la phase de l'accroché ; s'il reste à moins de 16 m du crochet, l'anti-facecamp 9.3.0 accélère la progression 1×/2×/4× [AUDIT], ce qui peut rendre le sauvetage plus rentable qu'attendre).
+- **Add-ons qui changent la décision** (noms et effets LIVE lus sur la page, STRONG_SECONDARY [5]) :
+  - Tar Bottle (pièges noircis) → le survivant évite l'herbe/les zones sombres et marche là où il est déjà passé **au lieu de** compter sur la lecture visuelle du sol.
+  - Iridescent Stone (réarme un piège désarmé **aléatoire toutes les 30 s**) → une fois identifié, le survivant contourne les pièges désarmés **au lieu de** les traiter comme sûrs ; désarmer n'achète que ≤ 30 s.
+  - Tension Spring (réarme automatiquement le piège **2 s** après une libération) → le sauveteur/le libéré quitte la case immédiatement **au lieu de** repasser dessus.
+  - Honing Stone (se libérer seul **met à terre**) → le survivant piégé attend un sauveteur **au lieu de** tenter de se libérer (si personne ne peut venir, se libérer = rester au sol à attendre le relevage ou le tueur).
+  - Bloody Coil (désarmer en étant sain **te blesse**) → ne désarmer qu'en étant déjà blessé, ou laisser le piège **au lieu de** le désarmer par réflexe.
+  - Lengthened Jaws (Deep Wound après libération) / Serrated Jaws (Haemorrhage) / Rusted Jaws (Mangled 70 s) → après un piège, se soigner/mender vite ou jouer blessé **au lieu de** compter sur un soin normal.
+  - Trapper Bag (+1 piège porté, 3) → il pose plus en chase : quitter la tile encore plus tôt **au lieu de** compter 2 poses.
+  - Trapper Sack (tous les pièges en main dès le départ, il ne peut plus les ramasser) → début de partie : le 3-gen et les crochets se piègent très vite ; désarmer un piège posé l'oblige à le **réarmer sur place**, il ne peut plus le déplacer.
+  - Bear Oil (pose silencieuse) → garder le visuel sur lui **au lieu de** compter sur le son de pose.
 - **Implications de carte** (HEURISTIC) : fort sur cartes à herbe haute / intérieures sombres ; faible sur grandes cartes ouvertes à longues boucles (pièges trop dispersés).
-- **Perks fréquentes à anticiper** : seed : Agitation, Brutal Strength, Corrupt Intervention, Iron Grasp, NOED [SEED-NRV]. HEURISTIC : Iron Grasp/Agitation → risque de crochet porté vers un piège ou un crochet de basement.
-- **Écart avec le seed** : NON VÉRIFIABLE (quota). Seed à 75 % orienté tueur (§ « Comment le jouer »). Vue survivant du seed globalement cohérente (HEURISTIC). À vérifier : Haste post-pose, loi de libération, effets d'Iridescent/Honing Stone.
-- **Sources** : [1] [2]
+- **Perks fréquentes à anticiper** : seed : Agitation, Brutal Strength, Corrupt Intervention, Iron Grasp, NOED [SEED-NRV, non re-vérifié : fréquences]. Agitation (perk du Trapper) et Iron Grasp sont modifiées au **PTB 10.2.0** (non LIVE ; la page wiki affiche déjà la version 10.2.0 d'Agitation [5]). HEURISTIC : Iron Grasp/Agitation → risque de crochet porté vers un piège ou un crochet de basement.
+- **Écart avec le seed** : valeurs du seed **OK** (vitesse, TR, 8 pièges, 2 en main, pose 2,5 s, Haste 7,5 % 5 s, 16,7 %/tentative, désarmement 3,5 s, patch 9.5) ; ajout : plafond de 6 tentatives. Iridescent Stone « réarmement aléatoire périodique » OK (30 s). Honing Stone OK (libération → état mourant). « Saboter/déplacer les pièges » (ancienne formulation de cette fiche) : **FAUX** depuis 3.6.0 (désarmer seulement).
+- **Sources** : [1] [2] [5] [13] [14] [17]
 
 ## 2. The Wraith (Philip Ojomo) — archétype(s) : furtif | mobilité | M1
 
-- **Version** : aucun changement de pouvoir 9.0.0 → 10.1.2a relevé par l'audit [1]. Seed : « patch 9.5 : The Serpent – Soot désocculte aussi en cassant palette/mur ou en abîmant un gen » [SEED-NRV], UNCERTAIN.
-- **Données LIVE** :
-  - Vitesse 4,6 m/s ; 6,0 m/s occulté ; TR 32 m ; grand [SEED-NRV] — UNCERTAIN (6,0 m/s cohérent avec ma connaissance [MÉM]).
-  - Occultation ~1,5 s ; Undetectable occulté ; invisible au-delà de 20 m, scintillement en dessous [SEED-NRV] — UNCERTAIN (seuil de distance non confirmé).
-  - Pas d'attaque occulté ; cloche audible à l'échelle de la carte à la désoccultation ; sursaut de vitesse post-désoccultation (~6,9 m/s 1 s selon le seed) [SEED-NRV] — UNCERTAIN. Note de calcul (audit P14) : 6,9 m/s est exactement la vitesse de **fente** standard d'un tueur à 4,6 m/s (×1,5 = 6,9 m/s [AUDIT] STRONG_SECONDARY) ; confusion possible du seed entre fente et sursaut (HYPOTHESIS).
-  - Surprise Attack = coup dans les 5 s après désoccultation [SEED-NRV] — UNCERTAIN.
+- **Version** : pas de changement de pouvoir 9.0.0 → 10.1.2a. 2025-2026 : **"The Serpent" – Soot modifié en 9.5.0** (VERIFIED_PRIMARY [17] : « While Cloaked, uncloak whenever you basic-break Pallets or Breakable Walls, explode or damage Generators ») → le « patch 9.5 » du seed est **OK** ; description du pouvoir réécrite en 10.0.0 (texte seulement, [20b]) ; correctifs (Wraith restant invisible après étourdissement par Last Stand / Head On / Blast Mine, 9.1.1-9.1.2 ; cloche muette avec une tenue, 9.6.0 ; "The Ghost" – Soot qui ne supprimait plus TR/Red Stain, 10.0.2). Dernier changement de pouvoir dans le change log wiki : 6.7.0 (suppression du Lightburn) [6].
+- **Données LIVE** (STRONG_SECONDARY [6]) :
+  - Vitesse 4,6 m/s ; **6,0 m/s occulté** ; TR 32 m (supprimé occulté) ; grand (Tall).
+  - Occulté : **Undetectable** (pas de TR ni de Red Stain), **totalement invisible au-delà de 20 m**, partiellement visible (scintillement) en dessous, **totalement transparent à l'arrêt** ; ne peut ni attaquer ni interagir avec un survivant (il peut interagir avec les décors : palettes, gens).
+  - **Occultation 1,5 s** (cloche pendant toute l'animation + bruit de cliquetis au début). **Désoccultation 3 s** : la cloche ne sonne **qu'à partir de 1,5 s** (moitié de l'animation) ; il avance à 1,6 m/s pendant la désoccultation, puis **sursaut à 150 % = 6,9 m/s pendant 1 s** (description du pouvoir ; la section « Trivia » de la page contient une ligne contradictoire « 1 second at 6 m/s ») ; il peut frapper **immédiatement** après.
+  - Portée sonore : **tintement de cloche 24 m**, souffle (*whoosh*) de transition 40 m → la cloche **n'est pas** audible sur toute la carte.
+  - Surprise Attack = coup de base dans les **5 s** après la désoccultation (score event utilisé par des add-ons).
+  - Étourdi occulté (palette, Head On…) → désoccultation forcée + **4 s** d'étourdissement. **Lightburn supprimé en 6.7.0** : la lampe n'interrompt plus la désoccultation (OBSOLETE).
 - **Identification** (HEURISTIC) :
-  - Avant reveal : cloche (sonnerie à la occultation/désoccultation) ; aucun TR alors qu'un tueur arrive « trop vite » ; distorsion visuelle proche ; souffle/grognement du Wraith à courte distance.
-  - Pouvoir en action : scintillement qui se déplace à grande vitesse ; désoccultation = ralentissement visible puis accélération.
-  - Add-ons observables : cloche inaudible ou non localisable (type Bone Clapper selon le seed) ; vitesse occultée anormalement haute (Windstorm) ; désoccultation très rapide (Swift Hunt). SITUATIONAL.
-  - Stratégie probable : pression de gens par rotations rapides, chases courtes ; « gen tapping ».
-- **Ce qu'il cherche en chase** (HEURISTIC) : te surprendre sur un gen ; se désocculter hors de ta vue près d'une palette pour gagner la course ; t'amener en zone morte où le sursaut suffit.
+  - Avant reveal : cloche (sonne à l'occultation et à la désoccultation, audible ≤ 24 m) ; aucun TR alors qu'un tueur arrive « trop vite » ; scintillement proche ; souffle/grognement à courte distance.
+  - Pouvoir en action : scintillement qui se déplace vite ; désoccultation = quasi-arrêt (1,6 m/s) puis bond.
+  - Add-ons observables : cloche impossible à localiser (Bone Clapper) ou muette (Coxcombed Clapper) ; TR qui reste audible alors qu'il est occulté ("The Beast" – Soot) ; TR absent 6 s après la désoccultation ("The Ghost" – Soot) ; il se désocculte en cassant une palette ou en tapant un gen ("The Serpent" – Soot) ; Blindness après un coup surprise ("Blind Warrior" – Mud). SITUATIONAL.
+  - Stratégie probable : pression de gens par rotations rapides, chases courtes ; « hit and run ».
+- **Ce qu'il cherche en chase** (HEURISTIC) : te surprendre sur un gen ; se désocculter hors de ta vue près d'une palette pour gagner la course ; t'amener en zone morte où le sursaut de 6,9 m/s suffit.
 - **Tiles / structures** (HEURISTIC) :
   - Favorables : toutes les boucles standards (en chase il est un M1 4,6 sans anti-loop).
-  - Défavorables : grands espaces ouverts entre tiles (il rattrape la distance occulté si tu casses le contact) ; tiles courtes où la désoccultation derrière un mur suffit.
-  - LOS : casser la LOS aide moins (il est Undetectable/invisible) que garder une vue sur lui.
-- **Mindgames propres** (HEURISTIC) : désocculter derrière un mur « au hasard » ; s'occulter en chase pour faire croire à un abandon puis revenir ; feinte de désoccultation au bord de la palette.
-- **Counterplay** (HEURISTIC) :
+  - Défavorables : grands espaces ouverts entre tiles (il rattrape la distance occulté à 6 m/s si tu casses le contact) ; tiles courtes où la désoccultation derrière un mur suffit.
+  - LOS : casser la LOS aide moins (il est Undetectable/invisible au-delà de 20 m) que garder une vue sur lui.
+- **Mindgames propres** (HEURISTIC) : désocculter derrière un mur ; s'occulter en chase pour faire croire à un abandon puis revenir ; commencer la désoccultation (silencieuse pendant 1,5 s) au bord de la palette.
+- **Counterplay** (HEURISTIC, sur valeurs [6]) :
   - Mécanique : garder la caméra sur lui en boucle ; lâcher la palette sur la désoccultation tardive, pas avant.
-  - Info : écouter la cloche et sa direction ; une cloche de **désoccultation** proche = il **peut** attaquer très vite (durée de désoccultation ~1,5 s selon le seed, UNCERTAIN), mais il peut aussi désocculter sans attaquer ou attendre derrière un mur (voir Mindgames) : la cloche annonce une menace, pas le moment exact du coup. La cloche sonne aussi quand il **s'occulte** : distinguer les deux (HEURISTIC).
-  - Lampe/pétard : aveugler pendant la désoccultation l'interromprait selon le seed [SEED-NRV], UNCERTAIN → SITUATIONAL.
-  - Macro : quitter un gen quand la cloche est **proche et se rapproche** (ou quand une perk d'alerte confirme), pas à chaque cloche lointaine : un Wraith qui fait sonner sa cloche pour vider les gens gagne du temps sans chase (HEURISTIC). Éviter le duo sur un même gen **quand il patrouille près** : deux réparateurs = 1,7 charge/s contre 2,0 pour deux solos sur deux gens (coop 85 % [AUDIT], calcul P14), et deux cibles découvertes ; le duo reste acceptable pour finir un gen avancé (SITUATIONAL).
-- **Habitudes punissables et erreurs classiques** (HEURISTIC) : réparer tête baissée sans perk d'info ; pré-lâcher par peur de la cloche ; courir en ligne droite en open (sursaut post-désoccultation).
-- **Adaptations avancées / échecs** (SITUATIONAL) : cloche silencieuse/non localisable → Spine Chill ou perk d'alerte devient la principale source d'info (réserves : l'effet de Spine Chill contre un tueur **Undetectable** comme le Wraith occulté n'est pas vérifié ; Spine Chill est reworkée au **PTB 10.2.0**, non LIVE) ; si Windstorm, ne pas chercher à « reset » la chase en fuyant loin : il te rattrape occulté.
-- **Add-ons qui changent la décision** (UNCERTAIN, noms/effets [SEED-NRV]) :
-  - Bone Clapper / variante cloche → se fier au visuel (scintillement) et aux perks au lieu du son.
-  - Windstorm (Blood/White/Mud) → ne pas quitter une tile pour une autre éloignée ; tenir la boucle en cours.
-  - Swift Hunt → pas de marge pour lâcher la palette après la cloche : décider plus tôt.
-  - The Serpent – Soot (effet 9.5 selon le seed) → il se révèle en cassant/tapant : moins de surprise sur gen, info gratuite.
-- **Implications de carte** (HEURISTIC) : fort sur grandes cartes (traversée occultée) et cartes sombres ; faible sur petites cartes denses en palettes.
-- **Perks fréquentes** : Bamboozle, Pain Resonance, Sloppy Butcher, Pop, NOED (seed/NightLight) [SEED-NRV]. HEURISTIC : Bamboozle → une fenêtre bloquée après son vault, prévoir la sortie palette.
-- **Écart avec le seed** : NON VÉRIFIABLE (quota). À vérifier : distance d'invisibilité (20 m), sursaut post-désoccultation, add-on Soot 9.5, interaction lampe.
-- **Sources** : [1] [2]
+  - Info : la cloche de désoccultation est entendue ≤ 24 m et sonne **à mi-animation** : quand tu l'entends, il lui reste ~1,5 s avant de pouvoir frapper, puis il bondit à 6,9 m/s pendant 1 s (DATA [6]) → c'est le moment de rejoindre l'obstacle, pas de réparer une seconde de plus. Il peut aussi désocculter sans attaquer ou attendre derrière un mur : la cloche annonce une menace, pas le moment exact du coup. Distinguer occultation (cloche dès le début + cliquetis, il **part**) et désoccultation (silence puis cloche, il **arrive**).
+  - Lampe/pétard : **ne comptent plus** pour interrompre la désoccultation (Lightburn supprimé 6.7.0, [6]). Un étourdissement (palette, Head On) pendant qu'il est occulté le force à se désocculter et l'étourdit 4 s (DATA [6]).
+  - Macro : quitter un gen quand la cloche est **proche et se rapproche** (ou quand une perk d'alerte confirme), pas à chaque cloche : au-delà de 24 m tu n'entends plus le tintement, seulement le souffle (≤ 40 m). Éviter le duo sur un même gen **quand il patrouille près** : deux réparateurs = 1,7 charge/s contre 2,0 pour deux solos sur deux gens (coop 85 % [AUDIT], calcul P14), et deux cibles découvertes ; le duo reste acceptable pour finir un gen avancé (SITUATIONAL).
+- **Habitudes punissables et erreurs classiques** (HEURISTIC) : réparer tête baissée sans perk d'info ; pré-lâcher par peur de la cloche ; courir en ligne droite en open (sursaut post-désoccultation) ; croire qu'un Wraith immobile est loin (transparent à l'arrêt).
+- **Adaptations avancées / échecs** (SITUATIONAL) : cloche muette ou non localisable → Spine Chill ou perk d'alerte devient la principale source d'info (réserves : Spine Chill est reworkée au **PTB 10.2.0**, non LIVE ; son effet contre un tueur **Undetectable** comme le Wraith occulté n'est pas vérifié ici) ; avec Windstorm, ne pas chercher à « reset » la chase en fuyant loin : il te rattrape occulté.
+- **Add-ons qui changent la décision** (noms et effets LIVE lus sur la page, STRONG_SECONDARY [6]) :
+  - Bone Clapper (distance et direction de la cloche indiscernables) → se fier au visuel (scintillement) et aux perks **au lieu du** son.
+  - Coxcombed Clapper (cloche **muette**) → réparer caméra ouverte, se placer avec un obstacle à portée **au lieu d'**attendre un signal sonore.
+  - "The Ghost" – Soot (TR et Red Stain supprimés **6 s de plus** après la désoccultation) → ne pas conclure « il est reparti » sur l'absence de TR après une cloche **au lieu de** rester sur ses gardes.
+  - Windstorm – Mud/White/Blood (+5/7/9 % de vitesse occulté) → tenir la boucle en cours **au lieu de** fuir vers une tile éloignée.
+  - Swift Hunt – Mud/White/Blood (désoccultation −8/−10/−12 %) → la marge après la cloche se réduit un peu (≈ 3 s → 2,64 s d'animation au max, calcul) : décider du drop un peu plus tôt **au lieu de** l'attendre jusqu'au dernier moment.
+  - "Shadow Dance" – White/Blood (+40/60 % à la casse, aux dégâts de gen et aux vaults **occulté**) → une palette lâchée tient moins longtemps : enchaîner vers la tile suivante **au lieu de** rester à la regarder.
+  - "Blind Warrior" – White (Haemorrhage + Mangled 70 s après un coup surprise) / – Mud (Blindness 60 s) → après un coup surprise, soin plus lent ou auras perdues : prévoir un soin en équipe **au lieu d'**un auto-soin rapide.
+  - "The Serpent" – Soot (se désocculte en cassant palette/mur ou en abîmant un gen, 9.5.0 [17]) → il ne peut plus taper un gen occulté sans se révéler : moins de surprise sur gen, info gratuite.
+  - "The Beast" – Soot (TR non supprimé occulté) → son TR te renseigne : l'utiliser comme alerte normale.
+- **Implications de carte** (HEURISTIC) : fort sur grandes cartes (traversée occultée à 6 m/s) et cartes sombres ; faible sur petites cartes denses en palettes.
+- **Perks fréquentes** : Bamboozle, Pain Resonance, Sloppy Butcher, Pop, NOED (seed/NightLight) [SEED-NRV, fréquences non re-vérifiées]. HEURISTIC : Bamboozle → une fenêtre bloquée après son vault, prévoir la sortie palette.
+- **Écart avec le seed** : OK : 6,0 m/s occulté, invisibilité > 20 m, Surprise Attack 5 s, sursaut 6,9 m/s 1 s (l'hypothèse P14 « confusion fente/sursaut » est **réfutée** : la page donne bien 150 % pendant 1 s), occultation 1,5 s, Soot 9.5.0. **FAUX** : « cloche audible à l'échelle de la carte » (24 m / 40 m). **OBSOLETE** : « la lampe/le pétard interrompt la désoccultation » (Lightburn supprimé en 6.7.0). IMPRÉCIS : « désoccultation ~1,5 s » (c'est 3 s, cloche à 1,5 s).
+- **Sources** : [1] [2] [6] [17] [20b]
 
 ## 3. The Hillbilly (Max Thompson Jr.) — archétype(s) : mobilité | coup unique (instadown)
 
-- **Version** : pas de changement relevé par l'audit 9.0.0 → 10.1.2a [1]. L'audit signale que la fiche Hillbilly du seed **contient des erreurs** (« Erreurs relevées (Hillbilly, …) ») sans les détailler dans `audit_phase0.txt` [1] → toute valeur du seed est suspecte.
-- **Données LIVE** :
-  - Vitesse 4,6 m/s [SEED-NRV], cohérent classe 4,6 [AUDIT].
-  - **TR** : seed 40 m [SEED-NRV] vs **32 m** [MÉM] → CONFLICT-L4G1-01, UNCERTAIN.
-  - **Sprint tronçonneuse** : seed ~10,1 m/s (~12 m/s en Overdrive) [SEED-NRV] vs ~8,8 m/s [MÉM, ancienne valeur possible] → CONFLICT-L4G1-02, UNCERTAIN.
-  - Charge 2,5 s ; jauge Overdrive (bonus 20 s ; retombe après 8 s d'inactivité) ; récupération ~2,5-2,7 s [SEED-NRV] — UNCERTAIN (mécanique Overdrive non confirmée en session).
-  - FACT de principe [MÉM], UNCERTAIN (non couvert par l'audit ; requalifié P14) : un coup de tronçonneuse met à terre depuis l'état sain.
-  - Casse de palette à la tronçonneuse ~1 s (wiki Pallets via audit) [AUDIT], STRONG_SECONDARY.
+- **Version** : pas de changement de pouvoir 9.0.0 → 10.1.2a. Dernières modifications (change log wiki [7]) : **8.3.0** (Overdrive nerfé : sprint Overdrive 13 → 12 m/s, délai de décharge 15 → 8 s, charge 2 → 1,5 c/s, cooldown de raté 2,5 → 2,7 s) et **8.6.0** (TR 32 → 40 m). 2025-2026 : description de LoPro Chains et du pouvoir mise à jour (« Special-break », 9.5.0 [17]) ; correctifs LoPro Chains (demi-tour en cassant une porte, 9.2.0 [13] ; saccade en cassant palette/mur avec latence, 9.3.0 [15]) ; sprint interrompu par un petit arbre à Toba Landing (9.3.2 [21]).
+- **Données LIVE** (STRONG_SECONDARY [7]) :
+  - Vitesse 4,6 m/s ; **TR 40 m** (8.6.0) ; grand (Tall). → CONFLICT-L4G1-01 **RÉSOLU** : le seed (40 m) avait raison, la mémoire du modèle (32 m) était la valeur d'avant 8.6.0.
+  - Tronçonneuse : charge **2,5 s** (il avance à 3,68 m/s en chargeant) ; bruit de tronçonneuse audible à **60 m** ; le son varie avec la progression de la charge (on peut juger quand il va partir).
+  - **Sprint 10,12 m/s** ; **12 m/s en Overdrive** → CONFLICT-L4G1-02 **RÉSOLU** : le seed (≈ 10,1 / 12 m/s) est OK ; 8,8 m/s (mémoire) était une ancienne valeur.
+  - Virage : **412 °/s pendant la 1re seconde** du sprint, puis **32 °/s** → il peut contourner un obstacle en début de sprint, presque plus en fin de sprint.
+  - Coup de tronçonneuse = **double dégâts** → met à terre un survivant sain (FACT, [7] ; l'ancien « FACT de principe [MÉM] » est confirmé).
+  - Cooldowns : touche un survivant 2,7 s ; heurte un obstacle **2,5 s** ; raté 2,7 s ; casse palette/mur 1 s. Il marche à **1,84 m/s** pendant le cooldown.
+  - **Overdrive** : jauge chargée en faisant tourner/sprinter (+1,5 c/s, seuil 20 → ~13 s cumulées) ; se vide (−1 c/s) après **8 s** sans tronçonneuse ; une fois pleine, **20 s** de bonus : sprint 12 m/s, charge +5 %, cooldowns −10 %.
+  - Palettes : sa tronçonneuse **casse une palette baissée en ~1 s** (wiki Pallets [12], STRONG_SECONDARY ; [AUDIT] confirmé) ; **avec LoPro Chains**, le sprint **traverse** palettes et murs cassables en les cassant, sans s'arrêter [7]. Sans LoPro, un sprint qui percute un obstacle s'arrête (cooldown 2,5 s).
 - **Identification** (HEURISTIC) :
-  - Avant reveal : vrombissement de la tronçonneuse (charge) audible bien au-delà du TR, puis sprint très rapide ; tueur qui arrive en quelques secondes depuis l'autre côté de la carte.
-  - Add-ons observables : charge silencieuse hors TR (Apex Muffler selon le seed) ; charge très courte ; sprint qui traverse palettes/murs cassables (LoPro Chains selon le seed, UNCERTAIN).
+  - Avant reveal : vrombissement de la tronçonneuse audible jusqu'à 60 m, puis sprint très rapide ; tueur qui arrive en quelques secondes depuis l'autre côté de la carte ; TR très large (40 m).
+  - Add-ons observables : charge **inaudible hors de son TR** (Apex Muffler) ; il disparaît du TR pendant un sprint long (Filthy Slippers, Undetectable) ; sprint qui traverse les palettes (LoPro Chains) ; tueur lent hors pouvoir (4,4 m/s : Tuned Carburettor) ; coup de tronçonneuse qui ne met pas à terre (Cracked Primer Bulb).
   - Stratégie probable : forte pression de carte, punition des soins et réparations à découvert ; tunnel facile (instadown).
-- **Ce qu'il cherche en chase** (HEURISTIC) : te surprendre en open ou sur un gen isolé ; un curve autour d'un petit obstacle ; te faire lâcher une palette trop tôt puis gagner du temps via la casse rapide.
+- **Ce qu'il cherche en chase** (HEURISTIC) : te surprendre en open ou sur un gen isolé ; un curve autour d'un petit obstacle pendant la 1re seconde de sprint ; te faire lâcher une palette trop tôt puis la casser en ~1 s à la tronçonneuse ; accumuler l'Overdrive (12 m/s).
 - **Tiles / structures** (HEURISTIC) :
-  - Favorables : tiles à hauts murs et obstacles serrés (jungle gyms, shack, main buildings, intérieurs), passages étroits où le sprint heurte un obstacle.
+  - Favorables : tiles à hauts murs et obstacles serrés (jungle gyms, shack, main buildings, intérieurs), passages étroits où le sprint heurte un obstacle (2,5 s de cooldown à 1,84 m/s).
   - Défavorables : open areas, tiles basses ou fines (curves faciles), longues lignes droites.
   - Fenêtres vs palettes : en M1 il boucle comme un 4,6 normal ; la tronçonneuse sert surtout à combler la distance entre tiles.
   - Verticalité : les étages/rampes coupent ses trajectoires ; bon refuge.
 - **Mindgames propres** (HEURISTIC) : charger puis annuler pour provoquer un pré-drop ; charger en angle pour couvrir deux sorties ; faux abandon de chase suivi d'un sprint.
-- **Counterplay** (HEURISTIC) :
-  - Mécanique : au son de la charge, se mettre derrière un obstacle solide ; esquiver par un virage perpendiculaire tardif (il tourne mal en fin de sprint selon le seed, mais les curves de début de sprint existent).
+- **Counterplay** (HEURISTIC, sur valeurs [7]) :
+  - Mécanique : au son de la charge (2,5 s), se mettre derrière un obstacle solide ; esquiver par un virage **tardif** : passé la 1re seconde de sprint, il tourne à 32 °/s (DATA [7]) et ne peut plus te suivre ; un virage trop tôt laisse le temps de corriger (412 °/s).
   - Positionnel : rester près des tiles « hautes », éviter les traversées en open.
-  - Macro : ne pas se soigner/réparer en open ; se disperser (il punit les groupes).
+  - Macro : ne pas se soigner/réparer en open ; se disperser (il punit les groupes). Après un choc contre un obstacle, il a 2,5 s de cooldown à 1,84 m/s : c'est la fenêtre pour gagner la tile suivante.
   - Équipe : les sauvetages doivent être rapides (instadown → tunnel rapide).
-- **Habitudes punissables et erreurs classiques** (HEURISTIC) : pré-lâcher **au premier son de charge, de loin** (il annule, puis casse la palette en ~1 s [AUDIT] ou la contourne) ; nuance P14 : quand il est **engagé** dans un sprint vers toi à travers la tile, une palette qui tombe sur sa trajectoire l'arrête (le sprint s'arrête à la collision, seed) — c'est l'engagement, pas le son, qui décide le drop ; courir en ligne droite en open ; croire qu'**être blessé protège** de la tronçonneuse (trompeur : blessé, n'importe quel coup te met à terre ; la tronçonneuse n'apporte rien de plus contre toi, mais son M1 suffit).
-- **Adaptations avancées / échecs** (SITUATIONAL) : contre un Billy à charge silencieuse, l'alerte sonore disparaît → Spine Chill (PTB 10.2.0 : rework, non LIVE) / garder la caméra ouverte ; sur carte ouverte sans structures hautes, jouer la distance et la dispersion plutôt que la chase.
-- **Add-ons qui changent la décision** (UNCERTAIN, [SEED-NRV]) :
-  - Apex Muffler → pas de préavis sonore hors TR : tenir des positions plus proches des obstacles.
-  - Tuned Carburettor / charge plus rapide → moins de temps pour atteindre l'obstacle : réagir au premier son.
-  - LoPro Chains (traverse palettes/murs cassables selon le seed ; absent de la liste audit des casses par pouvoir, UNCERTAIN) → **si l'effet est observé**, une palette ne bloque plus le sprint : privilégier les murs solides.
+- **Habitudes punissables et erreurs classiques** (HEURISTIC) : pré-lâcher **au premier son de charge, de loin** (il annule puis casse la palette en ~1 s à la tronçonneuse [12]) ; nuance P14 : quand il est **engagé** dans un sprint vers toi à travers la tile, une palette qui tombe sur sa trajectoire l'arrête (collision = cooldown 2,5 s [7]) **sauf LoPro Chains** — c'est l'engagement, pas le son, qui décide le drop ; courir en ligne droite en open ; croire qu'**être blessé protège** de la tronçonneuse (trompeur : blessé, n'importe quel coup te met à terre ; la tronçonneuse n'apporte rien de plus contre toi, mais son M1 suffit).
+- **Adaptations avancées / échecs** (SITUATIONAL) : contre Apex Muffler, l'alerte sonore disparaît hors de ses 40 m de TR → Spine Chill (PTB 10.2.0 : rework, non LIVE) / caméra ouverte ; sur carte ouverte sans structures hautes, jouer la distance et la dispersion plutôt que la chase.
+- **Add-ons qui changent la décision** (noms et effets LIVE lus sur la page, STRONG_SECONDARY [7]) :
+  - Apex Muffler (tronçonneuse **silencieuse pour les survivants hors du TR**) → réparer près d'un obstacle et surveiller le TR (40 m) **au lieu de** compter sur le son à 60 m.
+  - Filthy Slippers (Undetectable après **2 s** de sprint, jusqu'à l'arrêt) → sur un sprint long, son TR disparaît : ne pas conclure qu'il s'éloigne **au lieu de** rester à couvert.
+  - Tuned Carburettor (charge +20 %, mais **4,4 m/s** permanent) → réagir dès le premier son **au lieu d'**attendre ; en chase M1, les boucles tiennent plus longtemps (4,4 m/s).
+  - LoPro Chains (sprint qui traverse palettes/murs en les cassant ; un survivant sain touché dans les 5 s qui suivent ne perd qu'un état, un blessé prend Deep Wound) → privilégier **murs solides et fenêtres** **au lieu des** palettes contre le sprint.
+  - Iridescent Engravings (sprint +20 %, charge +12 % plus longue) → distance « sûre » plus grande : se rapprocher des obstacles **au lieu de** traverser en open.
+  - Counterweight (virage initial −70 %) / Dad's Boots, Spiked Boots (virage +20/30 %) → contre Counterweight, un virage **précoce** suffit ; contre les bottes, esquiver **plus tard** et derrière un obstacle au lieu de compter sur un simple virage.
+  - Cracked Primer Bulb (tronçonneuse = 1 seul état de santé, Overdrive plus rapide) → sain, un coup de tronçonneuse ne te met pas à terre : jouer la distance **au lieu de** tout sacrifier pour l'esquiver.
+  - Begrimed Chains (Haemorrhage + Mangled 70 s) → surtout pertinent avec Cracked Primer Bulb / LoPro : soin plus lent.
 - **Implications de carte** (HEURISTIC) : très fort sur cartes ouvertes (Coldwind, Red Forest) ; plus faible en intérieur (Lery's, Hawkins, Gideon) grâce aux murs.
-- **Perks fréquentes** : Pain Resonance, Pop, Barbecue & Chili, Lethal Pursuer, Bamboozle ; trio Enduring/Lightborn/Tinkerer [SEED-NRV]. HEURISTIC : Tinkerer → il arrive silencieux sur un gen à 70 %.
-- **Écart avec le seed** : IMPRÉCIS/SUSPECT (TR 40 m, vitesse de sprint, Overdrive) ; IMPRÉCIS / trompeur (requalifié P14, était « FAUX ») : « un survivant blessé est moins exposé à la tronçonneuse » (vrai au sens où la tronçonneuse n'apporte rien de plus contre un blessé ; faux s'il est lu comme une protection ; la synthèse le classe SUSPECT).
-- **Sources** : [1] [2]
+- **Perks fréquentes** : Pain Resonance, Pop, Barbecue & Chili, Lethal Pursuer, Bamboozle ; trio Enduring/Lightborn/Tinkerer [SEED-NRV, fréquences non re-vérifiées]. Enduring LIVE : étourdissement de palette −40/45/50 % ; Lightborn : immunité aux aveuglements (lampes, pétards, flash grenades, Blast Mine) + aura du survivant qui tente 6/8/10 s ; Tinkerer : alerte bruyante sur un gen à 70 % [7]. HEURISTIC : Tinkerer → il arrive silencieux sur un gen à 70 %.
+- **Écart avec le seed** : TR 40 m **OK** (CONFLICT-01 résolu, erreur du modèle) ; sprint 10,12 / 12 m/s **OK** (CONFLICT-02 résolu) ; Overdrive (20 s, retombe après 8 s) **OK** ; charge 2,5 s, récupération 2,5-2,7 s **OK** ; « il tourne mal en fin de sprint » **OK** (32 °/s après 1 s) ; LoPro Chains traverse palettes/murs **OK**. « Blessé = moins exposé à la tronçonneuse » : IMPRÉCIS / trompeur (inchangé). Les « erreurs de la fiche Hillbilly » signalées par l'audit ne sont donc **pas** sur ces valeurs.
+- **Sources** : [1] [2] [7] [12] [13] [15] [17] [21]
 
 ## 4. The Nurse (Sally Smithson) — archétype(s) : mobilité (téléportation) | anti-loop total
 

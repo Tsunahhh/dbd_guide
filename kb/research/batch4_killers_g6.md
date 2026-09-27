@@ -1,20 +1,22 @@
 # Lot 4 — Fiches tueur vues du survivant, groupe 6 (tueurs 38 à 44)
 
-> **Statut : WRITTEN + AUDITED (audits adversariaux §25-26 du 27/09/2026, sans web) — voir kb/audit/pass14_lot4_g4-g6.md**
+> **Statut : WRITTEN + AUDITED (audits adversariaux §25-26 du 27/09/2026, sans web) — voir kb/audit/pass14_lot4_g4-g6.md — RE-VÉRIFIÉ lot 12b (27/09/2026) sur pages wiki complètes + notes officielles BHVR**
 >
 > Rappels de l'audit : toutes les consignes sont des **HEURISTIC** (option par défaut, à varier contre un tueur qui l'anticipe) ; l'étiquette EXPERT OPINION non sourcée a été **requalifiée** (HEURISTIC, ou [SEED] UNCERTAIN quand l'idée vient du seed) ; Krasue, The First, The Slasher et The Judgment ont été recoupés avec le registre de patchs de l'audit (9.2.0 → 10.1.2a) ; les lignes « Équipe » supposant des rôles demandent le vocal (SWF).
 
-Couverture web : 0 élément vérifié par recherche / 7 non re-vérifiés (quota WebSearch de la session épuisé, 200/200). Valeurs reprises de l'audit phase 0 quand il les couvre (surtout Krasue, The First, Slasher, Animatronic, Judgment) ; tout le reste vient du seed ou de la connaissance du modèle, en UNCERTAIN.
+Couverture : 7/7 tueurs re-vérifiés sur page wiki complète (27/09/2026), dont 31 points confirmés par note officielle (lot 12b ; voir `## Claims`, lignes VERIFIED_PRIMARY / VERIFIED_MULTI_SOURCE).
 
-- Référence : LIVE 10.1.2a (17/09/2026). PTB 10.2.0 (15-21/09/2026) **non LIVE**, jamais utilisé ici comme valeur LIVE. Mode 2v8 exclu.
+- Référence : LIVE 10.1.2a (17/09/2026). PTB 10.2.0 (15-21/09/2026) **non LIVE**, jamais utilisé ici comme valeur LIVE. Mode 2v8 exclu. Les notes PTB 10.2.0 (KB 559) ne modifient le pouvoir d'aucun des 7 tueurs (seulement des perks, dont Ravenous, et des correctifs de collision du chien de la Houndmaster) ; les pages wiki de l'Animatronic (Help Wanted) et de la Krasue (Ravenous) affichent déjà la description PTB 10.2.0 : **non utilisée**.
 - Périmètre : Houndmaster, Ghoul, Animatronic, Krasue, First, Slasher, Judgment (seed `kb/seed/ch8_killers.txt` l. 1664-1953).
-- **Méthode (dérogation)** : aucune recherche web n'a été faite. Trois sources seulement :
-  1. **audit phase 0** (`kb/seed/audit_phase0.txt`) : cité avec la confiance qui y figure (VERIFIED_PRIMARY / VERIFIED_MULTI_SOURCE / STRONG_SECONDARY).
-  2. **seed** : noté « seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé) », confiance UNCERTAIN.
-  3. **connaissance du modèle** : notée « connaissance du modèle (antérieure à mi-2026), UNCERTAIN ».
+- **Méthode (lot 12b, re-vérification du 27/09/2026)** : sources lues **en local** :
+  1. **pages wiki.gg complètes** de chaque tueur (`kb/sources/wiki_killers/<Nom>.txt` : infobox vitesse / TR / taille, description du pouvoir, « Power Trivia » chiffrée, add-ons, Change Log) → STRONG_SECONDARY ;
+  2. **notes de patch officielles BHVR** (`kb/sources/patches/official_*.txt`, forums.bhvr.com KB) → VERIFIED_PRIMARY quand la note donne la valeur, VERIFIED_MULTI_SOURCE quand wiki et note concordent ;
+  3. **audit phase 0** (`kb/seed/audit_phase0.txt`) pour les rappels système ;
+  4. **seed** : ce qui reste non confirmé par le wiki ou les notes est encore noté « seed-NRV » (UNCERTAIN) ; la **connaissance du modèle** (CM) n'est plus utilisée comme source de valeur.
+  - Version précédente (sans web, quota WebSearch épuisé) : les valeurs venaient de l'audit, du seed et de la CM ; elles ont toutes été confrontées aux pages ci-dessus.
 - Le cœur de la valeur de ce fichier est l'**analyse survivant** (identification, counterplay par couche, erreurs, adaptations). Elle est étiquetée **HEURISTIC** (raisonnement à partir de la mécanique). La version initiale employait aussi **EXPERT OPINION** pour un « consensus communautaire tel que le modèle le connaît » : ce n'est pas le sens de §41 (conclusion d'un joueur expert identifiable), et aucun guide expert n'a été lu → ces passages sont **requalifiés en HEURISTIC** (audit pass 14), ou en **[SEED] UNCERTAIN** quand l'idée vient du guide seed, qui n'est pas une source experte.
 - Étiquettes : FACT (mécanique vérifiée par l'audit) / HEURISTIC / SITUATIONAL / HYPOTHESIS. Une valeur [AUDIT] STRONG_SECONDARY « à reconfirmer » est **probable**, pas un FACT ferme. Les tiers et les notes de menace sont **HEURISTIC**.
-- Abréviations : TR = terror radius ; LOS = ligne de vue ; « seed-NRV » = seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN ; « CM » = connaissance du modèle (antérieure à mi-2026), UNCERTAIN.
+- Abréviations : TR = terror radius ; LOS = ligne de vue ; « seed-NRV » = seed, non confirmé par la page wiki ni par les notes officielles, UNCERTAIN ; « CM » = connaissance du modèle (antérieure à mi-2026), UNCERTAIN ; **[WIKI]** = page wiki.gg complète du tueur (STRONG_SECONDARY) ; **[KB nnn]** = note officielle BHVR https://forums.bhvr.com/dead-by-daylight/kb/articles/nnn (VERIFIED_PRIMARY).
 
 ### Rappels système utiles pour ce groupe (audit phase 0)
 
