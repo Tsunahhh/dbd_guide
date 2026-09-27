@@ -4,16 +4,7 @@ Ce chapitre prolonge le chapitre 7 : même format de fiche, pour les tueurs 23 (
 
 **Référence** : LIVE **10.1.2a (17/09/2026)**. Toute valeur du PTB 10.2.0 est signalée « PTB 10.2.0 — non LIVE ». Les valeurs propres au mode 2v8 ne sont jamais utilisées comme valeurs 1v4.
 
-**Comment lire une fiche**
-
-- **Données LIVE** : tableau des chiffres utiles au survivant, chacun avec sa confiance : **(VP)** note officielle BHVR, **(VM)** page wiki complète + note officielle concordantes, **(SS)** page wiki complète seule, **(INC)** incertain.
-- **Identification** : comment le reconnaître avant et après le reveal.
-- **Ce qu'il cherche** : la situation que son pouvoir veut créer.
-- **Tiles** : structures favorables / défavorables au survivant.
-- **Counterplay par couche** : mécanique (la seconde près de lui), positionnel (où se placer), macro (gens, soins, ressources), équipe (avec la distinction **SoloQ / SWF** : tout ce qui suppose une répartition de rôles demande le vocal).
-- **Erreurs classiques** et **cas d'échec** : où le réflexe habituel coûte cher.
-- **Add-ons qui changent la décision** : seulement des add-ons réels, lus sur la page wiki LIVE, sous la forme « → le survivant fait X au lieu de Y ».
-- Étiquettes : **[FACT]** mécanique lue sur la page wiki ou la note officielle ; **[HEURISTIQUE]** raisonnement de jeu tiré de la mécanique (option par défaut, à varier si le tueur l'anticipe) ; **[SITUATIONNEL]** ; **[HYPOTHÈSE]** ; **[INCERTAIN]**. Aucun guide d'expert n'a été lu pour ces fiches : il n'y a donc pas d'étiquette [AVIS D'EXPERT] dans ce chapitre.
+**Comment lire une fiche** : données LIVE avec confiance — **(VP)** note officielle BHVR, **(VM)** page wiki complète + note officielle, **(SS)** page wiki seule, **(INC)** incertain ; puis identification, ce qu'il cherche, tiles, counterplay par couche (mécanique, positionnel, macro, équipe — tout ce qui suppose une répartition de rôles demande le vocal, donc **SWF** ; en **SoloQ**, n'agir que sur des signaux observables), erreurs, cas d'échec, et add-ons réels sous la forme « → le survivant fait X au lieu de Y ». Étiquettes : **[FACT]** mécanique lue sur la page wiki ou la note officielle ; **[HEURISTIQUE]** raisonnement tiré de la mécanique (option par défaut, à varier si le tueur l'anticipe) ; **[SITUATIONNEL]** ; **[HYPOTHÈSE]** ; **[INCERTAIN]**. Aucun guide d'expert n'a été lu pour ces fiches : pas d'étiquette [AVIS D'EXPERT] ici.
 
 Repères chiffrés utilisés partout : survivant **4,0 m/s** en course ; tueur à 115 % = 4,6 m/s (il reprend 0,6 m/s, soit 10 m en ≈ 16,7 s) ; tueur à 110 % = 4,4 m/s (0,4 m/s, 10 m en 25 s) ; 1 générateur solo = **90 s** ; phase de crochet = 70 s ; casse de palette normale ≈ 2,34 s (audit phase 0).
 
@@ -69,7 +60,7 @@ Repères chiffrés utilisés partout : survivant **4,0 m/s** en course ; tueur �
 
 **Identification** [FACT] : les jauges de Laceration apparaissent sur les portraits dès le chargement. Berceuse audible de loin mais silencieuse à moins de 8 m : une berceuse qui « disparaît » veut dire qu'il est **tout près**, pas qu'il est parti [HEURISTIQUE].
 
-**Ce qu'il cherche** : les lignes droites et les zones ouvertes (une touche à > 16 m rapporte 2 points de style), et les vaults face à lui (une touche « dans un interstice » en rapporte 3) [FACT sur le barème ; lecture HEURISTIQUE].
+**Ce qu'il cherche** : lignes droites et open (touche à > 16 m = 2 points de style), vaults face à lui (touche « dans un interstice » = 3 points) [FACT sur le barème].
 
 **Tiles** [HEURISTIQUE] : favorables = murs hauts et pleins, boucles courtes où la LOS se coupe souvent, bâtiments intérieurs, dénivelés. Défavorables = tiles bas « see-through », longues fenêtres vues de loin, couloirs droits.
 
@@ -78,7 +69,7 @@ Repères chiffrés utilisés partout : survivant **4,0 m/s** en course ; tueur �
 - **Mécanique** : couper la LOS très souvent ; strafes latéraux larges plutôt que petits zigzags. Calcul : une courte volée ne te donne presque rien (+0,14 m/s sur toi) ; une volée de 10+ lames (≈ 3,3 s) te rend +0,84 m/s ; pendant Main Event (3,92 m/s), presque rien. **La vraie source de distance reste la LOS coupée.**
 - **Fenêtres** : vaulter face à lui chargé en lames = touche à 3 points. Préférer casser la LOS sans vaulter, ou poser une palette un peu plus tôt [SITUATIONNEL]. Qu'une palette abaissée bloque les lames n'est écrit nulle part **[INCERTAIN]**.
 - **Macro** : les 16 s sont le délai **avant** que la Laceration commence à baisser. Depuis 3 charges, il faut ≈ 29 s sans touche pour revenir à 0 ; depuis 5 charges, ≈ 38 s. Au rang S, **elle ne baisse pas du tout**. Se soigner n'est pas forcément prioritaire quand la jauge est haute [SITUATIONNEL].
-- **Équipe** : au rang S, s'écarter les uns des autres. Il ne peut pas lancer Main Event à moins de 20 m de l'accroché : le vrai risque du sauvetage commence **après** l'unhook, quand les survivants se regroupent. « Jouer la montre » veut dire ne pas lui offrir de groupe ni de ligne ouverte, pas s'arrêter : 66 s d'arrêt de 3 réparateurs ≈ 2,2 gens solo perdus. SoloQ : la notification globale est le seul signal commun, s'écarter de soi-même.
+- **Équipe** : au rang S, s'écarter. Main Event est impossible à moins de 20 m de l'accroché : le risque du sauvetage commence **après** l'unhook, quand on se regroupe. « Jouer la montre » = ne lui offrir ni groupe ni ligne ouverte, pas s'arrêter (66 s d'arrêt de 3 réparateurs ≈ 2,2 gens solo perdus). SoloQ : la notification globale suffit à s'écarter de soi-même.
 
 **Erreurs classiques** [HEURISTIQUE] : traverser un champ avec 3+ charges de Laceration ; vaulter une fenêtre face à lui à distance moyenne ; se regrouper sur un gen quand le rang S tombe ; oublier sa jauge (1-2 lames suffisent) ; se croire tranquille parce que la berceuse s'est tue.
 
@@ -94,7 +85,6 @@ Repères chiffrés utilisés partout : survivant **4,0 m/s** en course ; tueur �
 | Edge of Revival Album | Touches à > 20 m : Laceration doublée | Couper la LOS au lieu de fuir en ligne droite |
 | Bloody Boa | Décroissance de Laceration −75 % | Traiter la jauge comme quasi permanente : se soigner ou jouer safe au lieu d'attendre |
 | Waiting For You Watch | Aura révélée 10 s quand la Laceration retombe à 0 | Ne pas être près d'un gen ou d'un blessé au moment où la jauge se vide |
-| Cut Thru U Single | Killer Instinct ≤ 32 m dès le rang A | S'attendre à être localisé avant le rang S |
 
 > **À retenir** : contre le Trickster, la distance ne sauve pas, la LOS oui. Surveille ta jauge comme un état de santé, et disperse l'équipe dès la notification de rang S.
 

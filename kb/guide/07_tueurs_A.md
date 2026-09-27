@@ -738,3 +738,252 @@ Détail : `kb/research/batch4_killers_g2.md` §14.
 
 Détail : `kb/research/batch4_killers_g2.md` §15.
 
+## Fiches : tueurs 16 à 22
+
+### 16. The Ghost Face (Danny Johnson) — furtif · M1 · info [Intermédiaire]
+
+**Données LIVE** : 4,6 m/s ; **accroupi 4,0 m/s** (9.6.1, VM) ; **TR 24 m** ; taille moyenne. **Night Shroud** : Undetectable ; une attaque de base y met fin ; recharge **15 s** (9.6.0, VM). **Stalk** : portée 40 m, marquage en **~4,4 s**, **~2,2 s en se penchant** derrière un couvert, sans pénalité de distance. **Marked** : **Exposed 60 s**, et un Marked **ne peut plus le révéler**. **Reveal** : ≥ 30 % de son modèle au centre de ton écran, à **≤ 32 m**, pendant **1,5 s** ; fin du Night Shroud, et il reçoit ta direction + 4 s de Killer Instinct.
+
+**Calcul clé** [DATA] : accroupi, il va **exactement à ta vitesse de course**. En marchant (2,26 m/s), tu lui rends 1,74 m/s, soit ~17 m en 10 s : marcher pour cacher tes griffures face à un Ghost Face proche coûte cher.
+
+**Identification** : ni TR, ni berceuse, ni red stain en Night Shroud ; seul indice sonore, un froissement de vêtements. Un envol de corbeaux est un indice faible (l'audit signale qu'ils ne s'envolent pas pour certains furtifs).
+
+**Ce qu'il cherche** : te faire tourner autour d'une tile opaque pendant qu'il stalke penché (~2,2 s suffisent), puis un M1 = mise à terre.
+
+**Tiles** : favorables : tiles où tu vois ses angles de lean en premier (fenêtres, fillers bas). Défavorables : murs hauts, rochers épais, intérieurs à coins (Midwich, Hawkins).
+
+**Counterplay** :
+- *Mécanique* : caméra derrière toi régulièrement sur gen ; **révèle-le** dès qu'il apparaît à ≤ 32 m (1,5 s de visée) : son pouvoir est coupé 15 s. Puis **change d'angle** : il connaît ta direction.
+- *Positionnel* : réparer face aux accès probables ; jamais dos à un mur ouvert.
+- *Marked* : joue « comme Exposed » pendant 60 s (pré-drop plus tôt, pas de tile à mindgame serré) ; inutile de chercher à le révéler. Un Marked qui vient d'être décroché garde l'Endurance de base 10 s (coup → Deep Wound) tant qu'il ne fait pas d'action voyante [FACT, audit].
+- *Équipe* : en SWF, annoncer sa position ; un coéquipier qui regarde vers toi peut le révéler.
+
+**Erreurs classiques** : réparer ou soigner longtemps sans tourner la caméra ; décrocher à l'aveugle ; croire qu'il est loin parce qu'il n'y a pas de TR.
+
+**Quand le counterplay échoue** : zones sombres ou encombrées, où le reveal est difficile.
+
+**Add-ons qui changent la décision** (SS) :
+- **Leather Knife Sheath** (accroupi ~4,4 m/s, calcul) → accroupi, il **te rattrape** : casse la LOS tôt **au lieu de** compter sur « il ne gagne pas de terrain ».
+- **Knife Belt Clip** (TR 12 m accroupi) → un TR qui apparaît = il est déjà tout proche : réagis tout de suite.
+- **"Ghost Face Caught on Tape"** / **Olsen's Wallet** (recharge instantanée après un down / une casse) → après un down ou une casse, attends-toi à un Night Shroud immédiat.
+- **Night Vision Monocular / Telephoto Lens** (Exhausted 10 s / Oblivious 60 s pour qui le révèle) → ne révèle que si c'est toi qu'il approche.
+- **Driver's License** (marquer un réparateur fait exploser le gen, −20 %, bloqué 15 s) → lâche le gen dès qu'il stalke.
+
+Détail : `kb/research/batch4_killers_g3.md` §16.
+
+### 17. The Demogorgon — mobilité · anti-loop · info [Intermédiaire]
+
+**Données LIVE** (buffs 9.6.0, VM) : 4,6 m/s ; TR 32 m ; grand.
+- **Shred** : charge 1 s (il avance à **3,86 m/s**, moins vite que toi) ; relâché avant 65 %, simple lunge ; bond à **19 m/s** ; virage **55 °/s** (27,5 avant 9.6.0) ; **casse les palettes baissées et les murs** (cooldown 1,8 s, VP). Cooldowns : raté 2,25 s, réussi 2,7 s.
+- **Portails** (6) : posés, ils sont **inactifs** et invisibles pour toi. Traversés, départ et arrivée deviennent **actifs** : visibles, scellables, avec une zone de **4 m où tu es Oblivious**. Sortie de portail en **Undetectable 12 s** (5 s avant 9.6.0). Bruit de portail 8 m.
+- **Scellement** : **12 s seul**, ~9 s à deux, 8 s à trois ; son global ; un portail scellé retourne dans son inventaire.
+
+**Identification** : portails actifs visibles ; posture ramassée de la charge du Shred ; son de sortie de portail.
+
+**Ce qu'il cherche** : un Shred en ligne droite ; une palette pré-lâchée qu'il détruit en 1,8 s.
+
+**Tiles** : favorables : murs hauts qui forcent des virages serrés ; **fenêtres** (le Shred ne franchit pas une fenêtre). Défavorables : lignes droites, open, palettes pré-lâchées.
+
+**Counterplay** :
+- *Mécanique* : pendant la charge, prends la distance ou coupe la ligne ; change de direction à la détente. Depuis 9.6.0, les esquives latérales tardives rapportent moins (virage doublé).
+- *Palette* (cas « casse gratuite ») : ne pas pré-lâcher ; lâcher quand il est **engagé dans une animation**. Quand le Shred est chargé, reste collé à un obstacle haut.
+- *Macro* : sceller les portails actifs proches des gens clés. À deux, on ne gagne que 3 s pour deux survivants mobilisés : en SoloQ, un seul scelleur. Après toute sortie de portail : **12 s** sans TR, vérifie les abords du gen.
+- *Oblivious* : ne répare pas et ne soigne pas collé à un portail actif (pas de TR même s'il est proche).
+
+**Erreurs classiques** : pré-drop systématique ; réparer près d'un portail actif ; croire qu'un tueur « disparu » est loin.
+
+**Quand le counterplay échoue** : réseau étendu (8 portails) ou arrivées silencieuses (Red Moss).
+
+**Add-ons qui changent la décision** (SS) :
+- **Red Moss** (Undetectable +8 s, sortie silencieuse) → surveille les abords ~20 s après chaque sortie (12 + 8, calcul ; le total affiché par le wiki date d'avant 9.6.0 (INC)).
+- **Lifeguard Whistle / Mews' Guts** (+2/+1 portail) → scelle en priorité près des gens clés **au lieu de** laisser le réseau grandir. **Deer Lung** (4 portails) → chaque scellement pèse plus.
+- **Barb's Glasses** (cooldown −10 % après une casse au Shred) → garde la palette debout.
+- **Sticky Lining** (zone d'Oblivious 6,5 m) → éloigne-toi davantage des portails actifs.
+- **Brass Case Lighter** (Blindness 60 s après un scellement) → ne scelle que les portails qui menacent le 3-gen.
+
+Détail : `kb/research/batch4_killers_g3.md` §17.
+
+### 18. The Oni (Kazan Yamaoka) — M1 · mobilité · coup unique (Fury) [Intermédiaire]
+
+**Version** : 9.1.0 = **nerf** (limite de rotation de la Demon Strike rétablie à 540°, VM) ; 9.2.0 = **buff** (orbes au crochet 2 → 5, VM). « Buffs Oni 9.1.0 » (audit, seed) est imprécis.
+
+**Données LIVE** : 4,6 m/s ; TR 32 m ; grand. Jauge de 100 : gain passif plafonné à 98 ; **coup sur un survivant sain +40** ; orbe +2,5. Il absorbe à 3,45 m/s et voit les orbes à 8 m.
+- **Orbes** (seulement les survivants **blessés**) : 2 toutes les 4 s ; 2 par interaction (palette, casier, vault) ; 2 par skill check raté ; **5 au crochet**. Ils ne disparaissent jamais. Délai sans orbes après un décrochage : 10 s (note 9.5.0) ou 15 s (wiki) (INC).
+- **Blood Fury** : activation **3 s** (rugissement), **~45 s** max, **−7 s par down**. Un stun ne la termine que si la jauge est au-dessus de 99 ou sous 5.
+- **Demon Dash** : charge 2 s, **7,82 m/s**. **Demon Strike** : charge 2 s, double dégâts, multi-touche, rotation max 540° en phase d'ouverture. Casse palettes et murs en Fury (VP ; geste exact (INC)).
+
+**Identification** : M1 classique avant la Fury ; rugissement d'activation ; charge du Dash.
+
+**Ce qu'il cherche** : blesser vite (+40 par coup), farmer les orbes près des crochets, puis lancer la Fury en terrain ouvert.
+
+**Tiles** : en Fury, murs hauts et virages serrés ; **fenêtres** (le Dash ne vaulte pas). Défavorables en Fury : open et palettes (cassées).
+
+**Counterplay** :
+- *Mécanique* : en Fury, force le Dash à tourner derrière un mur haut ; la charge de 2 s laisse le temps de réagir. Au corps à corps, la Strike tourne jusqu'à 540° : l'esquive par le côté marche mal, mets un obstacle haut **avant** qu'il soit à portée.
+- *Macro* : **hors Fury, se soigner** quand c'est sûr lui refuse des orbes ; **pendant la Fury, ne commence pas de soin**. Ne lui offre pas de coups gratuits sur un sain (+40). Après un crochet, 5 orbes l'attendent : prévois une Fury rapide.
+- *Temps* : la Fury dure ~45 s et perd 7 s par down : temporiser la raccourcit.
+- *Équipe* : se disperser quand la Fury démarre.
+
+**Erreurs classiques** : rester blessé longtemps ; pré-drop pendant la Fury ; fuir en ligne droite en open ; sous-estimer la portée de la Fury depuis un gen éloigné.
+
+**Quand le counterplay échoue** : jauge probablement pleine (plusieurs blessés, crochet récent) → anticipe la Fury avant de prendre une tile faible.
+
+**Add-ons qui changent la décision** (SS) :
+- **Lion Fang / Yamaoka Sashimono / Chipped Saihai** (Fury +10/+8/+6 s) → tiens la LOS **au lieu de** compter sur la fin de Fury.
+- **Akito's Crutch / Scalped Topknot** (Dash +1 m/s / charge −0,5 s) → quitte l'open plus tôt.
+- **Splintered Hull** (+33 % d'orbes) → soigne plus tôt, évite les vaults inutiles blessé.
+- **Shattered Wakizashi** (+0,2 charge/s passif) → se soigner ne suffit plus à retarder la Fury : joue la distance.
+- **Iridescent Family Crest** (Strike ratée = cri et révélation à ≤ 24 m) → en Fury, éloigne-toi de plus de 24 m d'une chase.
+
+Détail : `kb/research/batch4_killers_g3.md` §18.
+
+### 19. The Deathslinger (Caleb Quinn) — ranged · anti-loop [Intermédiaire]
+
+**Données LIVE** (dernier changement 1v4 en 8.0.0) : **4,4 m/s** ; **TR 32 m** ; grand. **Redeemer** : visée 0,4 s (il avance à 3,74 m/s), tir après 0,5 s, harpon **40 m/s**, portée **18 m** ; raté : CD 1,5 s ; **rechargement 2,6 s après chaque tir** (à 3,08 m/s). **Harponné** : immobilisé 0,75 s, puis enroulé ; le coup au bout de la chaîne = blessure + **Deep Wound**. **Chaîne** : casse en **~2,7 s si tu tires ET qu'elle frotte un obstacle**, ~4,4 s en frottement seul, ~5,7 s en tirant seul ; chaîne cassée = blessé + Deep Wound, et lui **étourdi 2,7 s**. **Avertissement sonore** quand il vise vers toi (dans son TR et à portée).
+
+**Identification** : 4,4 m/s avec TR 32 m ; son d'avertissement de visée ; bruit de rechargement.
+
+**Ce qu'il cherche** : une ligne droite ou une sortie de vault où tu ne peux pas tourner.
+
+**Tiles** : favorables : obstacles serrés et hauts, jungle gyms fermés, intérieurs (ce sont aussi les obstacles qui cassent la chaîne vite). Défavorables : open, fenêtres exposées sur une longue ligne, fillers bas. Vaulter seulement si la sortie est couverte.
+
+**Counterplay** :
+- *Mécanique* : à l'avertissement, **casse la ligne** vers un obstacle au lieu de zigzaguer en open ; au-delà de 18 m, tu es hors de portée.
+- *Harponné* : **tire ET frotte la chaîne contre un obstacle** (~2,7 s contre ~5,7 s). Casser la chaîne gagne 2,7 s, pas la sécurité : tu restes blessé sous Deep Wound, où le coup suivant te met à terre.
+- *Macro* : il recharge 2,6 s après **chaque** tir : fais-le tirer dans le vide, puis gagne une tile pendant le rechargement.
+
+**Erreurs classiques** : vault automatique vers l'open ; zigzag régulier et lisible ; rester en Deep Wound sans mender ; croire qu'une palette lâchée bloque un tir par-dessus (INC).
+
+**Quand le counterplay échoue** : contre un bon tireur, une grosse tile séparée par de l'open ne vaut rien : préfère des chaînes de tiles serrées, même peu « safe ».
+
+**Add-ons qui changent la décision** (SS) :
+- **Iridescent Coin** (Exposed pendant le harpon tiré de ≥ 12 m) → harponné de loin, casse la chaîne **immédiatement** au lieu de te laisser ramener.
+- **Hellshire Iron** (Undetectable pendant le harpon, puis 10 s) → après le harpon d'un coéquipier, ne te fie pas au TR ~10 s.
+- **Gold Creek Whiskey / Marshal's Badge** (TR −8/−4 m en visée) → l'avertissement arrive plus tard : quitte l'open sans l'attendre.
+- **Bayshore's Cigar** (étourdissement ~1,95 s) → après la casse, vise une LOS immédiate, pas une longue fuite.
+- **Warden's Keys / Modified Ammo Belt** (rechargement plus court) → traverse moins d'open pendant le rechargement.
+
+Détail : `kb/research/batch4_killers_g3.md` §19.
+
+### 20. The Executioner (Pyramid Head) — ranged · zone · anti-loop [Avancé]
+
+**Données LIVE** (refonte 9.1.0, VM) : 4,6 m/s ; **4,2 m/s en traçant** ; TR 32 m ; grand.
+- **Rites of Judgement** : 10 s de tracé max, recharge 40 s ; traînées **90 s** ; elles s'effacent en ~3 s près des gens, crochets, portes, trappe et au sous-sol.
+- **Torment** : toucher une traînée **debout** donne Torment + Killer Instinct 3 s ; **accroupi, rien**. Torment ne s'enlève **qu'en sauvant quelqu'un d'une cage ou en étant sauvé**.
+- **Punishment of the Damned** : onde de **10 m** devant lui (8 m avant 9.1.0), qui part après 0,27 s et **traverse les murs**, fenêtres et palettes (VM, preuve indirecte) ; CD 2,25 s.
+- **Cage of Atonement** : un Tormented au sol peut être mis en cage au lieu d'être accroché ; la cage progresse **comme un crochet** ; elle apparaît **le plus loin possible** de lui ; il ne voit pas son aura. S'il reste à **≤ 10 m pendant 3,5 s**, la cage se déplace (anti-camp). Sauver : pas de bruit fort (9.2.3, VM) ; le sauvé reçoit 10 % Haste + Endurance 10 s + Elusive 10 s (10.1.0, VM).
+- **Final Judgement** : exécution sur place d'un Tormented **au sol déjà en 2e phase** (il serait mort à son prochain crochet).
+
+**Identification** : traînées rouges au sol ; bruit de l'onde ; cages loin de lui.
+
+**Ce qu'il cherche** : te fixer derrière une palette, une fenêtre ou un mur fin, puis envoyer l'onde à travers.
+
+**Tiles** : favorables : tiles longues, murs épais, distance latérale **> 10 m**. Défavorables : fillers bas, palettes courtes, couloirs en ligne, intérieurs à murs fins. La palette ne protège pas contre l'onde : elle sert à gagner de la distance.
+
+**Counterplay** :
+- *Mécanique* : bouger **latéralement** par rapport à son axe au lancer ; ne pas rester aligné derrière une palette.
+- *Traînées* : hors chase, traverser **accroupi** (3 m ≈ 2,7 s au lieu de 0,75 s [DATA]) ; en chase, accepter parfois le Torment pour garder la distance [SITUATIONNEL].
+- *Macro* : sauver les cages vite ; **priorité absolue** à un Tormented en 2e phase au sol (Final Judgement). Sauver retire le Torment au sauveteur **et** au sauvé.
+- *Équipe* : cages loin de lui = sauveteurs éloignés. En SWF, désigner le plus proche ; en SoloQ, y aller si tu es le plus proche d'après le HUD et que personne ne bouge.
+
+**Erreurs classiques** : croire que fenêtres, palettes ou murs bloquent l'onde ; traverser les traînées debout sans raison ; laisser au sol un Tormented en 2e phase ; croire que la cage bouge quand un **survivant** s'en approche (c'est lui qui la déclenche).
+
+**Quand le counterplay échoue** : un joueur qui trace toutes les tiles : changer de tile tôt plutôt qu'accumuler les tours.
+
+**Add-ons qui changent la décision** (SS) :
+- **Obsidian Goblet** (l'onde casse palettes et murs ; CD +20 %) → ne lâche plus de palette pour le bloquer : file vers la tile suivante.
+- **Iridescent Seal of Metatron** (portée −50 %, puis jusqu'à +200 % en traçant) → après un long tracé, fuis bien au-delà de 10 m (portée max exacte (INC)).
+- **Lead Ring** (12,5 m) → garde ~13 m ; **Black Strap** (onde plus large) → joue la distance plutôt que l'esquive latérale.
+- **Tablet of the Oppressor** (Undetectable en traçant) → surveille les traînées à l'œil.
+- **Scarlet Egg** (un Tormented qui court laisse ses propres traînées) → Tormented, ne cours pas à travers le groupe ou près d'un gen partagé.
+
+Détail : `kb/research/batch4_killers_g3.md` §20.
+
+### 21. The Blight (Talbot Grimes) — mobilité · anti-loop [Avancé]
+
+**Données LIVE** : **4,4 m/s** (nerf 9.6.0, VM) ; **TR 40 m** (8.6.0) ; taille moyenne. **5 tokens**, recharge **2 s par token**. **Rush** : **9,2 m/s** jusqu'à 3 s, sans attaque. **Slam** contre un obstacle sous un angle ≥ 45° (en dessous, il glisse) → fenêtre de chaîne de **1,25 s**. **Lethal Rush** : avec attaque ; **casse palettes baissées et murs** (VP). **Fatigue 2,5 s** en fin de chaîne ou après un Slam raté. Virage exact en Rush (INC).
+
+**Coût d'une casse de palette** (9.6.0, VM ; correctif 9.6.2, VP) : casser une palette baissée, **au pied comme en Lethal Rush**, ramène ses tokens à « **2 sous le max** » et remet la recharge en cours à 0 %. À 5 tokens, une casse coûte **2 tokens + la recharge** ; à 3 tokens ou moins, elle coûte **aussi** des tokens depuis 9.6.2, quantité non précisée (INC).
+
+**Identification** : TR 40 m qui arrive très vite ; sons de Rush et de Slam ; déplacement en rebonds sur les murs.
+
+**Ce qu'il cherche** : un Lethal Rush en ligne droite, ou via un Slam sur l'obstacle de ta tile.
+
+**Tiles** : favorables : tiles serrées aux murs hauts, obstacles irréguliers (un angle < 45° le fait glisser). Défavorables : open, longues lignes, fillers bas espacés.
+
+**Counterplay** :
+- *Mécanique* : tourner au dernier moment face au Lethal Rush ; après un Rush raté ou une fin de chaîne, repartir à l'opposé pendant ses **2,5 s de fatigue**.
+- *Palette* (cas « la casse lui coûte ») : le pré-drop est **le plus souvent** plus rentable qu'avant 9.6.0. Limites : il peut contourner sans casser ; chaque pré-drop consomme une palette ; s'il a déjà peu de tokens, un drop normal suffit ; s'il ralentit avant la palette pour l'obtenir, mélange avec des départs anticipés sans drop.
+- *Info* : compter ses Rushes au son (5 tokens, 2 s par token) pour estimer son stock.
+- *Macro* : pas de 3-gen compact ; les gens éloignés ne sont pas plus sûrs.
+
+**Erreurs classiques** : ligne droite en open ; attendre derrière une palette debout « pour le mindgame » ; appliquer le counterplay d'avant 9.6.0 (aucun pré-drop) ; ou l'inverse, pré-drop systématique même quand il contourne.
+
+**Quand le counterplay échoue** : Blight « hug tech » qui exploite les tiles serrées : palettes et distance redeviennent prioritaires.
+
+**Add-ons qui changent la décision** (SS) :
+- **Adrenaline Vial** (7 tokens) → compte jusqu'à 7 ; une casse le ramène à 5 (calcul).
+- **Iridescent Blight Tag** (3 tokens max, Rush +10 %) → après 3 Rushes, profite du creux **au lieu de** rester sur la défensive.
+- **Compound Thirty-Three / Umbra Salts** (virage +11/+15 %) → moins de dodges tardifs : reste collé aux obstacles hauts.
+- **Rose Tonic / Pustula Dust** (fenêtre de chaîne +1/+0,75 s) → ne pars pas dès le Slam : attends qu'il s'engage.
+- **Vigo's Journal** (Undetectable pendant les Rushes) → écoute les Slams **au lieu du** TR.
+- **Canker Thorn** (fatigue −0,5 s) → repositionne-toi plus vite.
+
+Détail : `kb/research/batch4_killers_g3.md` §21.
+
+### 22. The Twins (Charlotte & Victor Deshayes) — slug · anti-loop · zone [Avancé]
+
+**Données LIVE** (Victor peut lancer des chases depuis 9.0.0, VM) :
+- **Charlotte** : 4,6 m/s ; TR 32 m ; grande. Endormie (Dormant) quand elle contrôle Victor : **ni TR ni red stain** ; elle garde sa collision 30 s.
+- **Victor** : **6,0 m/s** ; berceuse (cris) 12 m au repos, 14 m accroché, 18 m contrôlé. Libération 0,75 s ; passage Charlotte → Victor 0,25 s, retour 1,5 s.
+- **Détection** : Victor posé, un survivant qui **marche ou court** dans son rayon de cri est révélé ; **accroupi, rien**.
+- **Bond** (charge 0,85 s) : sur un sain, Victor **s'accroche** (tu es blessé) ; sur un blessé, il te **met à terre** et garde le contrôle. Raté : **vulnérable 3 s**. Obstacle de plus de 80 cm à l'atterrissage : Victor détruit.
+- **Accroché** : **Broken, Incapacitated, Oblivious**, pas de casier, **pas de sortie par une porte** (5 s après le retrait). **Retrait : 8 s.**
+- **Écrasement** : **0,35 s** quand il brille en **rouge** (blanc = invulnérable). Rappel automatique au repos **90 s**.
+- Spine Chill **ne détecte pas Victor** (SS).
+
+**Identification** : cris de Victor (berceuse de 12 à 18 m) ; TR de Charlotte absent quand elle est immobile.
+
+**Ce qu'il cherche** : Charlotte blesse, Victor achève ; Victor posé près d'un survivant au sol ou d'un crochet pour bloquer la relève.
+
+**Tiles** : contre Victor, vaults et obstacles hauts qui cassent ses lignes de bond ; contre Charlotte seule, boucles standards. Défavorables : open (bond de Victor).
+
+**Counterplay** :
+- *Mécanique* : esquiver le bond (changer de direction pendant la charge de 0,85 s), puis **écraser Victor quand il est rouge** (0,35 s).
+- *Positionnel* : près d'un Victor posé, **accroupi**.
+- *Slug* : ne pas approcher un survivant au sol gardé par Victor sans pouvoir l'écraser ; attendre que Charlotte le rappelle (90 s au plus). Aucune auto-relève basekit en LIVE [FACT, audit].
+- *Macro* : pendant que Charlotte contrôle Victor, elle est immobile et sans TR : fenêtre pour les gens **éloignés d'elle** ; ne traverse pas son corps pour fuir (collision 30 s).
+- *Victor accroché* : fais-le retirer (8 s) **avant** de viser la sortie.
+- *Équipe* : en SWF, un « écraseur » désigné pendant la relève ; en SoloQ, ne relève que si Victor est visible et rouge, ou rappelé.
+
+**Erreurs classiques** : se regrouper autour d'un survivant au sol gardé ; marcher debout dans le rayon de cri ; croire que Victor ne peut pas lancer de chase.
+
+**Quand le counterplay échoue** : un joueur qui garde Victor en sécurité → joue Charlotte comme un M1, sans quitter une zone de LOS blockers.
+
+**Add-ons qui changent la décision** (SS) :
+- **Iridescent Pendant** (écraser Victor pendant que Charlotte contrôle = Exposed 45 s) → n'écrase qu'en sécurité, jamais pendant une chase de Charlotte.
+- **Silencing Cloth** (Charlotte Undetectable 20 s en sortant du Dormant) → après le retour de Victor, ne reprends pas le gen près d'elle.
+- **Cat's Eye** (bond silencieux) → garde un obstacle entre toi et Victor **au lieu d'**attendre le cri de charge.
+- **Madeleine's Glove / Soured Milk** (rayon de cri +4/+2 m) → accroupis-toi plus tôt.
+- **Weighty Rattle / Sewer Sludge** (retrait plus coûteux ou plus long) → éloigne-toi de Charlotte avant le retrait.
+
+Détail : `kb/research/batch4_killers_g3.md` §22.
+
+## Points incertains à suivre
+
+- **Hillbilly** : la casse de palette **sans** LoPro Chains (page du tueur contre page Pallets et note 9.5.0) (INC).
+- **Blight** : nombre exact de tokens perdus sur une casse à 3 tokens ou moins après 9.6.2 (INC).
+- **Oni** : délai sans orbes après un décrochage (10 ou 15 s) ; geste exact de sa casse de palette (INC).
+- **Demogorgon** : totaux d'Undetectable avec Violet Waxcap, Vermilion Webcap et Red Moss (INC).
+- **Nurse** : peut-elle vaulter les fenêtres ? (INC). **Huntress, Deathslinger** : une palette basse ou le maïs bloquent-ils les projectiles ? (INC).
+- **Spine Chill** contre les tueurs Undetectable (INC) ; perk reworkée au PTB 10.2.0.
+- **Fréquences de perks et d'add-ons** par tueur : non vérifiables (NightLight inaccessible). Les perks citées ici le sont pour leur **effet**, pas pour leur fréquence.
+- À la sortie de 10.2.0 : revoir Agitation (Trapper), Iron Grasp, Knock Out (Cannibal : LIVE 6 m / 5 % → PTB 10 m / 20 %), Fire Up, Dead Man's Switch, Hex: Blood Favour, Spine Chill, Calm Spirit, Borrowed Time. Aucun **pouvoir** des tueurs 1 à 22 n'est modifié au PTB 10.2.0.
+
+## Sources du chapitre
+
+- `kb/research/batch4_killers_g1.md` (tueurs 1-7), `kb/research/batch4_killers_g2.md` (8-15), `kb/research/batch4_killers_g3.md` (16-22) : fiches auditées et re-vérifiées le 27/09/2026 sur pages wiki complètes et notes officielles.
+- `kb/ledgers/AUDIT_PHASE0_ERRATA.md` (casseurs de palette, 7 hachettes de la Huntress) ; `kb/seed/audit_phase0.txt` (vitesses survivant, protections de décrochage, anti-facecamp, Deep Wound).
+- `kb/deliverables/KILLER_COUNTERPLAY_HANDBOOK.md` §2-3 (typologie, matrice tile × archétype) ; `kb/research/batch7_tiles.md` §5.2 (palettes annulées par pouvoir) ; `kb/research/batch11_training.md` (DR-15).
+- Pages wiki.gg complètes (copies `kb/sources/wiki_killers/`) : Evan MacMillan, Philip Ojomo, Max Thompson Jr., Sally Smithson, Michael Myers, Lisa Sherwood, Herman Carter, Anna, Bubba Sawyer, Freddy Krueger, Amanda Young, Kenneth Chase, Rin Yamaoka, Frank Julie Susie Joey, Adiris, Danny Johnson, Demogorgon, Kazan Yamaoka, Caleb Quinn, Pyramid Head, Talbot Grimes, Charlotte & Victor Deshayes ; page Pallets ; page Cages of Atonement.
+- Notes officielles BHVR (copies `kb/sources/patches/official_*.txt`) : 9.1.0 (516), 9.2.0 (523), 9.2.3 (526), 9.5.0 (538), 9.6.0 (544), 9.6.1 (545), 9.6.2 (546), 10.1.0 (556) ; PTB 10.2.0 (559, non LIVE).

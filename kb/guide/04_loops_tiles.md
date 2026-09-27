@@ -264,3 +264,335 @@ Les catégories tombent d'un cran (ou plus) dès que le tueur a un outil sur la 
 Détail : `kb/research/batch7_tiles.md` §3.
 
 ---
+
+## 4.4 Fiches des tiles et structures [Intermédiaire → Expert]
+
+### 4.4.0 À lire avant les fiches
+
+**Ce que contient toujours une maze tile** [FACT] (SS) : au moins un casier ; possiblement coffre, crochet, totem ; la plupart des itérations peuvent porter un générateur. Conséquence [HEURISTIQUE] : une maze tile peut être à la fois **ta loop** et **l'objectif du tueur** (gen à patrouiller, crochet à côté) ; une chase qui y dure le garde près d'un crochet.
+
+**Hauteur des murs de maze par royaume** [FACT] (SS, section « Designs » du wiki) — c'est elle qui décide si la tile coupe la ligne de vue (LOS) :
+
+| Royaume | Murs de maze | Lecture LOS [HEURISTIQUE] |
+|---|---|---|
+| MacMillan, Coldwind, Crotus Prenn, Backwater, Red Forest, Yamaoka, Ormond, Grave of Glenvale, Silent Hill, Forsaken Boneyard | Hauts (briques, planches, béton, boue et bois, rondins, bois et bambou, pierre, bois western, haies, grès) | Bloque la LOS |
+| Gideon | Murs industriels jusqu'au plafond | Bloque totalement |
+| **Autohaven** | **Murs « medium »** de ferraille de voitures | LOS **partielle** : il voit plus souvent ta tête, les mindgames sont plus lisibles (l'ancien guide disait « hauts murs » : imprécis) |
+| Withered Isle | Hautes palissades ; **Garden of Joy** : béton « medium » + planches hautes | LOS **mixte** selon le segment |
+| Decimated Borgo ; Toba Landing / Nostromo | Paille brûlée ; roche (hauteur non précisée) | **(INC)** |
+
+**Comment lire une fiche.** Forme, entrées, fenêtres, palettes = [FACT] (SS) quand le wiki les décrit, sinon [HYPOTHÈSE]. **Tous les autres points (sens, checkspots, pathing, greed, pre-drop, abandon, connexion) sont [HEURISTIQUE]** dérivés du modèle 4.2, sauf mention. Les tueurs cités renvoient à 4.5 et aux chapitres 7-8.
+
+**Vocabulaire des fiches** :
+- **Checkspot** : regarder le tueur (par une fenêtre, un trou, un angle) **avant** de décider, sans ralentir.
+- **Red stain** : la tache rouge projetée par la tête du tueur, dans la direction où il regarde et se déplace ; supprimée par Undetectable ; **manipulable** (moonwalk : il marche dans un sens en regardant dans l'autre).
+- **Greed** : garder une ressource (palette levée, vault de plus) pour gagner un cycle gratuit.
+- **Pre-drop** : baisser la palette **avant** qu'il soit à portée, pour la distance et non pour le stun.
+- **Double-back** : repartir dans l'autre sens hors LOS quand il s'engage.
+
+### 4.4.1 Killer Shack [Intermédiaire]
+
+```
+ SCHÉMA DE PRINCIPE ([HYPOTHÈSE] : le wiki donne seulement « 1 fenêtre + 2 ouvertures dont
+ 1 à palette » ; la disposition exacte varie selon le royaume)
+
+        ┌───────────── boucle extérieure ─────────────┐
+        │   ###########################W#####         │
+        v   #                               #         ^
+            D        intérieur              #    <─── S longe le mur, fast vault W
+        ^   #     (zone du tueur qui        P             quand K est derrière lui
+        │   #      « tient » le centre)     #
+        │   ##################################        │
+        └─────────────────────────────────────────────┘
+   Boucle 1 (fenêtre) : extérieur → W → sortie par D ou P → extérieur → W  (3 vaults max)
+   Boucle 2 (palette) : P baissée → S vaulte P (1,1 s), K fait le tour ou casse (2,34 s)
+```
+
+| Point | Contenu |
+|---|---|
+| Forme | Petit bâtiment d'un niveau, 2 casiers, escalier du sous-sol possible ; trou dans le toit sans collision utile (la Nurse ne peut plus s'y poser depuis 1.9.0). Dead Dawg Saloon : itération western avec **mur cassable** [FACT] (SS) |
+| Entrées | 3 passages : fenêtre W, ouverture à palette P, ouverture libre D [FACT] (SS) |
+| Fenêtres / palettes | 1 fenêtre (compteur personnel 3 vaults) ; 1 palette dans une ouverture [FACT] (SS) |
+| LOS | Murs hauts : il te perd dès que tu passes un angle, et toi aussi. Checkspots par W et par les ouvertures |
+| Sens optimal | Arriver sur W **par l'extérieur en longeant le mur**, tueur derrière toi du même côté : pour te suivre il vaulte (1,7 s) ou fait le tour par une ouverture. Ressortir par l'ouverture qui t'éloigne de lui |
+| Mauvais sens | Arriver sur W alors qu'il est plus près de l'ouverture qui mène à la **réception intérieure** de W : il t'attend. Ne pas vaulter ; continuer dehors ou jouer P |
+| Checkspots | À travers W **avant** d'y arriver (est-il entré ?) ; chaque ouverture ; la tache rouge qui dépasse d'un angle |
+| Pathing survivant | Coller les murs (cornering serré) ; mémoriser W, P, D **avant** la chase ; ne jamais s'arrêter à l'intérieur sans raison |
+| Pathing tueur | 1) suivre dehors pour lire ; 2) **tenir l'intérieur** entre W et P pour couvrir les deux portes ; 3) entrer par P pour casser le cycle ; 4) forcer le 3e vault puis attendre le blocage |
+| Fast vault | L'approche de W doit offrir ≥ 2,5 m de course **droite** : tourner le coin **avant**, pas au dernier moment |
+| Red stain | Tache qui fait le tour dehors = il suit → vault. Tache immobile, ou qui sort par une ouverture proche de W = il tient / coupe → pas de vault, jouer P ou repartir dehors. Tache absente (Undetectable) = checkspot à travers W ou une ouverture **avant** de vaulter, pas de vault à l'aveugle. Un tueur expérimenté montre sa tache exprès (moonwalk) |
+| Double-back | Tile de référence : à un angle hors LOS, repartir quand il s'engage sur le long côté. Un double-back vers une W déjà vaultée 2 fois reste possible (le 3e est permis) **si** la sortie est prévue : après, W est bloquée pour toi 30 s |
+| Greed | Point de départ : tant qu'il **suit** dehors, que le test en temps tient pour W et que ton compteur est ≤ 2, garder P levée. Réévaluer **chaque cycle** (santé, pouvoir, palettes restantes, Bloodlust : arbre de décision du chapitre 3) ; un greed toujours au même moment devient prévisible |
+| Pre-drop | Blessé et tueur à portée à l'approche de P ; tueur qui tient l'intérieur ; Bloodlust II-III. **Pouvoir anti-loop prêt : ça dépend du pouvoir** (4.5.3) — rentable si la casse lui coûte (Blight : tokens) ; pre-drop **puis départ immédiat** si son pouvoir punit l'attente (Doctor, Nemesis MR2+, Cannibal) ; contre-productif si la casse est gratuite (Demogorgon Shred, Oni en Fury, Ghoul avec tokens) : garder P pour un stun ou changer de zone |
+| Abandonner | W bloquée **pour toi** + P cassée ; ou tueur qui tient le centre alors que tu n'as plus de porte sûre. Partir **pendant** la casse de P (2,34 s, caméra basculée [FACT] (SS)) par l'ouverture opposée à lui |
+| Connecter | Repérer la tile suivante **pendant** le 1er cycle. Sous-sol dans le shack = crochet à côté : ne pas finir la chase blessé ici |
+| Tueurs qui changent tout | Nurse (blink à travers les murs) ; Blight (rush ; tokens sur casse depuis 9.6.0) ; Hillbilly / Cannibal (casse 1 s) ; casseurs de palette (4.5.2) ; Lich (Mage Hand **relève** P baissée ou **bloque** P levée 4 s) ; Knight (garde qui chasse : il **contourne** P baissée) ; Good Guy (Scamper 1 s par W ou sous P) ; Trapper (piège à la réception de W ou dans P) ; tueurs à distance : **les murs hauts t'avantagent** ; Bamboozle / Hex: Crowd Control / Cruel Limits (W bloquée pour tous) |
+
+> **Erreur fréquente** : la règle populaire « au moins deux tours de fenêtre avant de toucher à la palette » (ou « 3 vaults puis palette »). C'est une **règle absolue**, fausse dès que le tueur tient l'intérieur, que tu es blessé, ou contre un pouvoir anti-loop.
+
+**Exercice « shack à l'info »** [HEURISTIQUE] : en partie personnalisée, un ami tueur choisit au hasard, à chaque cycle, « suivre » ou « tenir l'intérieur ». Toi, tu n'as droit qu'à la tache rouge et à un checkspot par cycle pour décider W ou P. Mesure : % de cycles où tu as choisi la bonne porte sur 20 cycles ; refais l'exercice avec un tueur Undetectable (checkspots seuls).
+
+### 4.4.2 Jungle gym « long wall » (LW) [Intermédiaire]
+
+```
+ SCHÉMA DE PRINCIPE — mur long (avec fenêtre) face à un mur en L ; fenêtre et palette TOUJOURS
+ de côtés opposés [FACT] (SS) ; l'emplacement de la fenêtre de l'autre variante devient un TROU (o)
+
+      ####################W####################   <- mur long, fenêtre W
+                                              #
+      #          centre de la tile            #
+      #     (K « au milieu » couvre W et P)
+      #
+      ########o########              P          <- mur en L, trou o ; P du côté opposé à W
+       S boucle par l'extérieur du mur long → vault W → contourne → revient
+```
+
+| Point | Contenu |
+|---|---|
+| Forme / entrées | Deux murs (long + L) autour d'un espace central ouvert ; plusieurs entrées (nombre non décrit) |
+| Fenêtres / palettes | 1 fenêtre sur le mur long ; 1 palette côté opposé ; trou à l'emplacement de la fenêtre de la variante SW [FACT] (SS) |
+| LOS | Selon le royaume (4.4.0). Le trou et la fenêtre sont des checkspots naturels |
+| Sens optimal | Longer le mur long **par l'extérieur** vers W, tueur derrière : il ne peut pas couper (mur long). Vault W, repartir vers l'extrémité opposée du mur |
+| Mauvais sens | Revenir vers W **par l'intérieur** quand il est au centre : il couvre la réception |
+| Checkspots | Par W en approchant ; par le trou `o` ; aux deux extrémités du mur long |
+| Pathing tueur | Rester au milieu plutôt que suivre en rond ; fausse avance sur P ; attendre au coin de W |
+| Fast vault | Le long du mur, tu n'as souvent pas 2,5 m droits **vers** la fenêtre : « ouvrir » la trajectoire avant (léger écart puis ligne droite) |
+| Red stain | Tueur au centre : la tache pointe vers W ou vers P → aller vers l'**autre** porte |
+| Double-back | Efficace au bout du mur long, hors LOS |
+| Greed | Garder P tant que la boucle W fonctionne (il suit) |
+| Pre-drop | Quand il s'installe au centre et que tu es entre lui et P sans marge |
+| Abandonner | W bloquée pour toi + P cassée ; ou tueur au centre qui couvre les deux portes. Sortie pendant la casse |
+| Connecter | Les maze tiles occupent des emplacements fixes : la suivante est souvent à portée. Choisir celle qui **n'est pas du côté** du tueur |
+| Tueurs | Houndmaster (angles courts favorables au survivant, selon le handbook) ; Nemesis MR3 (tiles courtes dans sa portée) ; Trickster (longue fenêtre vue de loin) ; Trapper (coin piégé) |
+
+« Long wall bien plus fort que short wall » : [AVIS D'EXPERT] non sourcé, cohérent avec le modèle (trajet du tueur vers la réception plus long).
+
+### 4.4.3 Jungle gym « short wall » (SW) [Intermédiaire]
+
+| Point | Contenu |
+|---|---|
+| Forme | Même tile, fenêtre sur le mur **court en L** ; le mur long a un **trou** à la place de sa fenêtre [FACT] (SS) |
+| Différence clé | Le trajet du tueur entre le centre et la réception de W est **court** : W se couvre facilement → tile plus « mindgame » que safe [AVIS D'EXPERT] |
+| Sens optimal | Utiliser W **seulement** quand le tueur est engagé loin (côté mur long) |
+| Mauvais sens | Vaulter W alors qu'il est au centre : réception couverte |
+| Checkspot | Le **trou** du mur long montre le centre sans dévier |
+| Fast vault / red stain / double-back | Comme le LW ; le double-back se fait plutôt autour du mur long (le côté où il a le plus long trajet) |
+| Greed | Plus rare que sur LW : la palette est ta vraie ressource |
+| Pre-drop | Plus précoce que sur LW |
+| Abandonner | Quand P est cassée **et** qu'il coupe par le centre : une W courte seule ne tient pas [AVIS D'EXPERT]. S'il continue de suivre, W garde 1-2 vaults utiles pour préparer la transition |
+| Connecter | Préparer la sortie **avant** la casse de P |
+| Tueurs | Tout tueur qui profite d'une réception courte : ranged (Huntress, Deathslinger), anti-loop à dash |
+
+### 4.4.4 L-T walls [Intermédiaire]
+
+```
+ SCHÉMA DE PRINCIPE — un mur en T et un mur en L, CHACUN avec une fenêtre [FACT] (SS) ;
+ un petit mur séparé (casier possible). Grave of Glenvale : un mur cassable en plus.
+
+          ###W###########                 ##########
+                #                                  #
+                #   (centre : K qui               W#
+                #    « coupe »)                     #
+                #                          ##########
+   S serpente : vault W(T) → court vers W(L) → vault → revient
+```
+
+| Point | Contenu |
+|---|---|
+| Fenêtres / palettes | 2 fenêtres, **aucune palette** décrite par le wiki [FACT] (SS). 9.3.2 a revu la randomisation des palettes « sur certaines tiles » : une palette proche n'est pas exclue **(INC)** |
+| Budget | 2 compteurs indépendants : jusqu'à 3 vaults par fenêtre (CALC) |
+| LOS | Selon le royaume ; le jeu se fait presque entièrement **à l'info** |
+| Sens optimal | Enchaîner les fast vaults en « S » entre les deux murs, toujours vers la fenêtre dont **la réception est loin du tueur** |
+| Mauvais sens | Vaulter vers le côté où il se trouve ; tourner toujours dans le même sens (lu en 1 cycle) |
+| Checkspots | Chaque fenêtre ; les extrémités des murs |
+| Pathing tueur | Se placer entre les deux murs pour atteindre la réception de l'une ou l'autre |
+| Fast vault | Chaque fenêtre doit être abordée droite : les murs étant séparés, tu as en général la place de t'aligner |
+| Red stain / double-back | Tache ou corps vus → fenêtre opposée ; double-back à l'extrémité du T |
+| Greed | Pas de palette : « greed » = un vault de plus ; à éviter quand ton compteur d'une fenêtre est à 2 et que l'autre est couverte |
+| Abandonner | Quand il coupe par le centre avec LOS sur toi (l'ancien guide disait « 50/50, partez quand il n'a plus de ligne de vue » : correct) ; quand les deux fenêtres sont bloquées pour toi |
+| Connecter | **Tile de transition idéale** : rien de consommable, tu gagnes 1-2 vaults en passant puis tu pars vers une palette |
+| Tueurs | Anti-loop à dash ou projectile ; Bamboozle / Crowd Control neutralisent la moitié de la tile ; Houndmaster (le chien peut être envoyé par une fenêtre [FACT] (VP, correctif 9.3.2)) ; Good Guy (Scamper par-dessus une fenêtre) ; ranged (réception prévisible) |
+
+« Le T est plus sûr que le L » : [AVIS D'EXPERT] **invérifiable** ici.
+
+### 4.4.5 4-lane (4-wall gym) [Intermédiaire]
+
+```
+ SCHÉMA DE PRINCIPE — 4 murs parallèles ; fenêtre sur un mur EXTÉRIEUR = « opened »,
+ sur un mur INTÉRIEUR = « closed » ; la palette est entre un mur extérieur et un mur intérieur
+ SANS fenêtre ; l'emplacement de l'autre fenêtre devient un trou [FACT] (SS)
+
+   Variante « opened »                 Variante « closed »
+   #######W#######  ext. A             ###############  ext. A
+
+   #######o#######  int. B             #######W#######  int. B
+
+   ###############  int. C             ###############  int. C
+          P                                   P
+   ###############  ext. D             ###############  ext. D
+```
+
+| Point | Contenu |
+|---|---|
+| Forme | 4 murs parallèles = 3 couloirs ; 1 fenêtre + 1 palette ; Glenvale : mur cassable en plus [FACT] (SS) |
+| Présence | Wiki non daté : absent de Coldwind et Withered Isle ; pool commun 9.2.0 → **conflit non résolu** (4.1.3) |
+| LOS | Les couloirs cassent la LOS si les murs sont hauts (Autohaven : « medium ») |
+| Sens optimal | **Opened** : boucler le mur extérieur qui porte W, vault quand il suit ; la palette sert quand il coupe vers les couloirs intérieurs. **Closed** : la W intérieure se couvre plus facilement depuis les couloirs (« opened > closed » : [AVIS D'EXPERT]) |
+| Mauvais sens | Entrer dans le couloir de la palette alors qu'il est dans le couloir voisin : il coupe par l'extrémité |
+| Checkspots | Le trou `o` et W ; les bouts de couloir |
+| Pathing tueur | Se placer dans le couloir central pour voir les deux sorties ; zoner vers la palette pour la casser |
+| Red stain / double-back | Changer de couloir **hors LOS** ; les bouts de couloir sont les points de double-back |
+| Greed | Palette entre deux murs sans fenêtre : loop de palette longue, greed possible tant que tu la vaultes plus vite qu'il ne contourne |
+| Pre-drop | Si tu entres dans le couloir de P avec lui à portée |
+| Abandonner | P cassée + W bloquée ; tueur au couloir central avec LOS |
+| Connecter | Sortir par le bout de couloir opposé à lui |
+| Tueurs | Ranged dans l'axe des couloirs (tir en ligne droite : défavorable) ; Demogorgon (Shred dans l'axe) ; Executioner (Punishment traverse les murs fins) |
+
+### 4.4.6 Pallet gym [Intermédiaire]
+
+```
+ SCHÉMA DE PRINCIPE — long mur en C + court mur en L, palette TOUJOURS entre les deux ;
+ un petit mur en C séparé (totem possible) et un mur droit parallèle (crochet possible) [FACT] (SS)
+
+        ##############
+        #            #          ###   <- petit C (totem)
+        #     C      P  L##
+        #            #   #          ###   <- mur droit (crochet)
+        ##############
+```
+
+| Point | Contenu |
+|---|---|
+| Fenêtres / palettes | Pas de fenêtre décrite ; 1 palette garantie entre C et L [FACT] (SS). Absent de Withered Isle selon le wiki (conflit 4.1.3) |
+| LOS | Mur en C haut (selon royaume) : il ne voit pas ton choix de côté |
+| Sens optimal | Boucler le long C **palette levée** tant qu'il la respecte ; drop quand il s'engage sur le côté court (stun possible) |
+| Mauvais sens | Arriver sur P du même côté que lui : pas de stun possible (règle 5.2.0) |
+| Checkspots | Les deux extrémités du C |
+| Greed | Tant qu'il respecte : c'est la **seule** ressource de la tile, chaque cycle gratuit compte |
+| Pre-drop | Dès qu'il ne respecte plus (engagement franc) et que tu n'as pas la marge d'un cycle |
+| Abandonner | Une fois la palette cassée : plus aucune porte asymétrique (CALC). Partir **pendant** la casse |
+| Connecter | Avoir repéré la suivante avant la casse ; un crochet peut apparaître sur le mur droit : une chute ici = crochet immédiat |
+| Tueurs | Casseurs et vaulteurs de palette (4.5.2) : la tile perd presque tout. **Dissolution** (LIVE : après que tu as subi des dégâts, pendant 12/16/20 s, la prochaine palette que tu **fast-vaultes** dans son rayon de terreur est détruite — valeur LIVE reconstruite depuis le « was » de la note PTB 559 ; le wiki affiche déjà la version PTB) → vault **lent** (2 s, silencieux) ou ne pas revaulter blessé |
+
+### 4.4.7 Autres gyms : debris, locker, labyrinth, variant [Avancé]
+
+Forme = [FACT] (SS). Les listes de royaumes du wiki pour ces tiles sont **à ignorer** tant que le conflit du pool commun n'est pas levé (4.1.3). Le jeu ci-dessous est [HEURISTIQUE] déduit de la géométrie : **aucune source tactique** n'existe pour ces tiles.
+
+| Tile | Forme [FACT] (SS) | Sens / portes | Greed / pre-drop / abandon | Pièges |
+|---|---|---|---|---|
+| **Debris pile gym** (= « Trash / Junk pile gym » : **une seule et même tile**, l'ancien guide en faisait deux) | Deux murs principaux parallèles ; d'un côté une **fenêtre à côté d'un tas de débris** ; de l'autre une **loop de palette coupée par un autre tas** ; petit mur au fond ; casier au bout du mur de la palette | Deux sous-loops séparées par les murs parallèles : fenêtre tant qu'il suit, bascule vers la palette quand il coupe | Greed de palette tant que la sous-loop fenêtre tient ; abandon quand W bloquée + P cassée | Les tas de débris sont des obstacles de collision : ne pas s'y accrocher |
+| **Locker gym** | Mur courbe avec **5 casiers** (totem possible) ; mur central avec **fenêtre au milieu** + 1 casier ; deux murs fragmentés, **palette entre le central et le droit, à l'avant** | Loop autour du mur central par la fenêtre ; palette pour le cycle de droite | Comme une tile fenêtre + palette | Les casiers ne sont **pas** une ressource de chase (entrer sous ses yeux = prise) ; ils servent après un chase break |
+| **Labyrinth gym** | Nombreux segments à petites avancées ; **5 chemins d'entrée** ; palette entre deux murs frontaux ; variante 1 : fenêtre **en face** de la palette ; variante 2 : fenêtre **plus à gauche** | 5 entrées = beaucoup d'options **pour les deux** : tile de mindgame et de double-back. V1 : fenêtre et palette se couvrent mutuellement (un seul point à surveiller pour lui, un seul passage court pour toi) ; V2 : deux sous-loops plus espacées | Greed plus risqué en V1 (il couvre les deux portes d'un point) | Noms « Wolfpack / Lone Wolf » invérifiables |
+| **Variant gym** | 5 segments ; fenêtre près de l'avant du mur de gauche ; palette entre le mur central et celui de droite, à l'avant ; deux segments à l'arrière ; 3 casiers. Ressemble au LW | Se joue comme un LW : fenêtre d'abord, palette quand il coupe | Comme LW | Les segments arrière offrent des angles de double-back |
+
+Checkspots, red stain et connexion : mêmes principes que le LW (4.4.2).
+
+### 4.4.8 Fillers (palettes « de remplissage ») [Débutant → Intermédiaire]
+
+```
+ SCHÉMA DE PRINCIPE — palette posée contre un petit objet (rocher, arbre, voiture, balle de foin)
+
+        (rocher)
+         ▓▓▓▓
+         ▓▓▓▓ P ────── S       Boucle très courte : le tueur, plus rapide, rattrape le tour
+         ▓▓▓▓                  → valeur = STUN ou PRE-DROP pour la distance, puis PARTIR
+```
+
+| Point | Contenu |
+|---|---|
+| Définition | Palette dont l'obstacle support est **court** : le détour du tueur est plus court que « ton trajet × 1,10-1,15 + fente + `v_K` × durée de ton action » (vault de palette 1,1 s ≈ 5 m ; drop INC) → **unsafe par construction** (CALC ; le classement reste [HEURISTIQUE]) |
+| Changement LIVE | 9.3.2 : « Prevented pallets from spawning against certain small objects » + loops trop courtes rallongées sur 7 royaumes [FACT] (VP) → moins de fillers absurdes ; les connaissances antérieures sont périmées pour ces royaumes |
+| Sens optimal | Arriver **sans** faire le tour : la palette sert d'une traite (drop puis départ) |
+| LOS / checkspots | Peu de LOS : l'objet est petit. Checkspot par-dessus l'épaule en approchant pour savoir s'il s'engage |
+| Greed | Rare : seulement s'il est loin **et** respecte (il s'arrête devant) |
+| Pre-drop | Cas normal **contre un tueur sans pouvoir sur les palettes** : dès qu'il sera en portée de fente à ton arrivée ; il doit alors casser (2,34 s, Bloodlust à 0) ou faire un détour. **Aucune garantie** contre les vaulteurs (Legion Frenzy, Mastermind, Ghoul, Good Guy Scamper 1 s, Krasue Head Form 1,9 s), les casseurs gratuits (4.5.2), la Lich (Mage Hand relève la palette). Contre un tueur qui **attend** ton pre-drop (il ralentit avant la zone de stun) : varier (départ sans drop, drop normal) |
+| Stun | S'il s'engage franchement : drop au bon moment = stun 2 s, puis casse éventuelle (≈ +8 m, +17 m s'il casse ensuite, CALC chapitre 3) |
+| Abandonner | **Immédiatement** après le drop : tourner autour d'un filler coûte un coup |
+| Connecter | Un filler est une **ressource de transition** : il sert à gagner les mètres pour atteindre la tile suivante, pas à y rester |
+| Tueurs | Nurse (peu utile) ; casseurs gratuits (valeur = stun ou rien) ; **exception Blight** : la casse lui coûte des tokens, le pre-drop rapporte ; Hillbilly / Cannibal : casse 1 s ≈ +4 m, pas zéro ; Spirit : « jeter tôt puis marcher » (handbook) |
+
+### 4.4.9 Fenêtres fortes, faibles, à sens unique [Intermédiaire]
+
+Critères [HEURISTIQUE] (aucun n'est documenté comme tel) :
+
+| Critère | Fenêtre forte | Fenêtre faible |
+|---|---|---|
+| Trajet du tueur vers la réception | Long (mur long, pas de raccourci) | Court (mur court, ouverture proche) |
+| Hauteur des murs | Haute (il ne voit pas ton choix) | Basse / « medium » (il lit ton approche) |
+| Approche | Ligne droite ≥ 2,5 m naturelle (fast vault) | En angle (medium 0,9 s, corps exposé [FACT] (SS)) |
+| Sortie | Vers une autre ressource ou le reste du cycle | Vers une zone morte |
+| Réutilisation | Cycle qui te ramène à elle | À sens unique (drop-off) |
+
+**Fenêtres à sens unique (drop-offs)** [FACT] (SS) :
+- **Crane** (Autohaven) : fenêtre au sommet, le vault fait descendre de la grue.
+- **Car Crusher** (Autohaven) : vault dans la benne, on retombe du camion.
+- **School Bus** (Autohaven) : fenêtre à l'arrière de la moitié arrière.
+- **Harvester** (Coldwind) : vault **gauche** → panneau latéral d'où l'on **ne peut pas** revaulter ; vault **droit** → balle de foin d'où l'on **peut** revaulter dans les deux sens.
+- **Shrine** (Yamaoka) : balustrade avec fenêtre et une descente ; fenêtre intérieure vers la terrasse.
+
+Lecture [HEURISTIQUE] : une fenêtre à sens unique **n'est pas une loop**, c'est un **outil de transition** (le tueur fait le tour par la rampe ou vaulte en 1,7 s). Ne compte pas dessus pour un 2e passage.
+
+### 4.4.10 Main buildings (générique) [Avancé]
+
+Le détail par carte est au chapitre des cartes. Ici, les principes.
+
+| Point | Contenu |
+|---|---|
+| Composition | Variable : main window, palettes intérieures et extérieures, étages avec **drop-offs**, **murs cassables** (cartes retravaillées), escaliers, parfois sous-sol [FACT] (SS). Exemples lus : **Coal Tower** (entrepôt à 2 niveaux, escalier intérieur, **1 fenêtre** au rez-de-chaussée, **3 drop-offs** dont un derrière un mur cassable, **3 murs cassables**, **2 palettes dehors**) ; **Pale Rose** (bateau à 2 niveaux, 3 escaliers extérieurs, 4 entrées au rez-de-chaussée, **2 fenêtres à l'étage**, plusieurs palettes) ; **Grim Pantry** (Pantry + Cursed Cabin, 2 palettes chacun ; la Cabin a 1 fenêtre et une porte ; réparer le gen de l'étage ouvre une vanne qui facilite l'accès) |
+| Changements LIVE | 9.3.0 : main de **Crotus Prenn** rendu moins safe (il pouvait « s'y chaîner » aux maze tiles) ; main de **Disturbed Ward** : spawn revu [FACT] (VP) |
+| Main window | « Souvent god » : [AVIS D'EXPERT] non sourcé. Le compteur de 3 vaults s'applique aussi [FACT] : **aucune** main window n'est infinie |
+| Sens optimal | Main window d'abord (compteur neuf), palettes en réserve ; les 3 vaults de la main window sont un budget **séparé** de ceux des tiles précédentes |
+| Étages | « Ne monte que s'il existe un drop libre ; descends quand il monte l'escalier » : [HEURISTIQUE] correcte. « Il perd 3 à 5 s » : **invérifiable** (aucune mesure) |
+| Murs cassables | S'il casse un mur en pleine chase, tu gagnes 2,34 s **maintenant** (≈ +9,4 m, CALC) mais la loop est **définitivement** plus courte pour lui : profite des 2,34 s pour **changer de loop**, pas pour refaire la même |
+| Checkspots | Fenêtres intérieures, cages d'escalier, ouvertures |
+| Pathing (pre-run) | Mémoriser où est la main window, quelles palettes, où sont les drops, quels murs sont déjà ouverts (état partagé par tous) |
+| Abandonner | Main window bloquée pour toi + palettes cassées + étage sans drop libre |
+| Tueurs | Nurse (blink d'étage ; un blink raté = fatigue gratuite) ; Ghoul (bonds vers le haut / bas) ; Hillbilly (rampes) ; Huntress en hauteur ; Mastermind (bâtiments à étages favorables au survivant selon le handbook) ; Shape, Ghost Face (coins) ; Doctor (Static Blast) |
+
+### 4.4.11 Murs cassables (modificateur de tile)
+
+- [FACT] (SS) : présents sur la plupart des cartes sorties ou retravaillées depuis Chains of Hate (liste du wiki de 22 cartes, probablement incomplète) ; exceptions retravaillées sans murs cassables : Shelter Woods, Wreckers' Yard, Rotten Fields, Sanctum of Wrath. À Glenvale, L-T et 4-lane ont **toujours** un mur cassable ; le shack de Dead Dawg Saloon aussi.
+- Perks liées [FACT] (SS) : Brutal Strength (+10/15/20 % de vitesse de casse) ; THWACK! (casse de palette ou de mur → cri + aura des survivants à 36 m, 3 jetons) ; Rampage ; côté survivant, Alert (aura du tueur 3/4/5 s quand il casse).
+- [HEURISTIQUE] : un mur **encore fermé** rend la loop plus longue pour le tueur ; il a intérêt à l'ouvrir **hors chase**. Un mur ouvert avant ta chase = loop à réévaluer au pre-run. Effet d'une casse de mur sur la Bloodlust : **(INC)**.
+
+### 4.4.12 Structures propres aux royaumes [Avancé]
+
+| Structure (royaume) | Description [FACT] (SS) | Jeu [HEURISTIQUE] |
+|---|---|---|
+| **Sacrificial Tree / « Cow Tree »** (Coldwind) | Entouré de **murets de pierre** ; 1 fenêtre ; 1 palette entre deux autres murets | Murets bas = il voit tout : peu de mindgame pour toi, beaucoup pour lui. « Fenêtre d'abord, palette ensuite » : plausible (garder la palette pour le moment où il coupe) |
+| **Harvester** (Coldwind) | Accès par la tête et une rampe ; 2 vaults au sommet (gauche à sens unique, droite sur une balle de foin, aller-retour possible) ; ancien quasi-infini corrigé | Le vault droit permet un aller-retour ; le gauche est un drop de transition. Ne monter que si la sortie est planifiée |
+| **School Bus** (Autohaven) | 2 variantes (moitiés collées ou séparées par un couloir, 6.7.0) ; **un des deux vaults toujours bloqué** ; fenêtre arrière = drop-off ; palette **possible** au milieu de la moitié avant ; ancien quasi-infini | « Le bus se boucle en longueur » : imprécis. Identifier la variante et le vault actif **en arrivant** |
+| **Crane** (Autohaven) | Rampe en bois vers le sommet ; fenêtre au sommet = drop-off ; **toujours une palette entre la grue et une voiture** | Palette garantie = ressource fiable de la zone ; le sommet est une transition |
+| **Car Crusher** (Autohaven) | Escaliers ; vault dans la benne (drop-off) ; voiture à côté | Transition, pas une loop |
+| **Water Tower** (MacMillan) | Structure carrée en briques ; caisses à l'arrière (totem possible) ; ni fenêtre ni palette décrites | **Obstacle de LOS**, loop « à pied » seulement |
+| **Lumber Pile** (MacMillan) | Pile de bois + fendeuse ; 2 casiers possibles | « Long mur avec palette » (ancien guide) : invérifiable, le wiki ne mentionne pas de palette |
+| **Coal Tower** (MacMillan) | C'est le **main building** d'une carte (voir 4.4.10), pas une structure générique | « Se joue comme un shack » : imprécis |
+| **Pier** (Backwater) | Étage avec gen, 2 casiers, **plusieurs drop-offs** ; rez-de-chaussée « ressemblant à des jungle gyms » avec **plusieurs vaults et une palette** (2 emplacements) ; 9.3.0 : spawn revu [FACT] (VP) | Structure riche : loops du bas + drops ; attention aux corbeaux (« crow bombs » documentés sur Pale Rose) |
+| **Shrimp Boat** (Pale Rose) | 2 entrées latérales ; pont accessible par rampes ou par la fenêtre | Petite structure à fenêtre ; transition vers le Pale Rose |
+| **Arbor** (Yamaoka) | Bâtiment japonais ; 3 escaliers ; un vault ; une **palette sur un rocher parallèle**, face à un pont rouge | Combiner le vault de l'Arbor et la palette du rocher |
+| **Shrine** (Yamaoka) | 2 escaliers vers la terrasse ; balustrade avec **fenêtre** et **descente** ; fenêtre intérieure | Sortie par la descente = transition |
+| **Patio** (Yamaoka) | Dallage entouré de **murets de pierre** à plusieurs ouvertures ; **1 fenêtre + 1 palette** | Petite tile fenêtre + palette ; murets : la LOS est pour lui |
+| **Hills** (plusieurs royaumes) | Sentier vers le sommet ; totem, coffre, objets de tueur ; Red Forest et Yamaoka : 2 accès | **Pas une loop** : obstacle de LOS et dénivelé ; tourner autour casse la LOS contre ranged |
+| **Basement** (partout) | **Une seule entrée / sortie** ; 4 crochets ; 6 casiers | **Presque jamais** une destination de chase (cul-de-sac, crochets sur place) ; l'escalier du shack reste un obstacle de LOS utilisable **dehors** |
+| **Maïs** (Coldwind) | Non traité par les pages lues | « Pas de loop, LOS cassée » : [AVIS D'EXPERT] plausible ; inutile contre les auras |
+
+### 4.4.13 La « god pallet » : définition et usage [Avancé]
+
+**QUOI** [HEURISTIQUE]. Une palette dont la **loop baissée** reste forte : après le drop, tu la vaultes (1,1 s) et le tueur doit faire un détour **plus long** que « ton trajet × 1,15 + fente + ≈ 5 m » (les ≈ 5 m = 4,6 × 1,1 s où tu es immobile dans le vault). Il n'a alors que deux choix rentables : **casser** (2,34 s, Bloodlust à 0) ou **quitter** la chase. Définition valable contre un tueur **sans pouvoir sur les palettes**. Palette levée impossible à contester = « safe » ; « god » = safe **et** forte une fois baissée.
+
+**POURQUOI la distinguer.** Elle force une décision coûteuse au tueur : c'est la ressource qui convertit le mieux une palette en secondes.
+
+**QUAND la garder.** L'ancienne règle « une god pallet se garde, sauf dernier crochet ou fin de partie » est **trop absolue**. Règle de remplacement [HEURISTIQUE] : **on garde une palette forte tant que la garder ne coûte pas d'état de santé et qu'une autre ressource travaille à sa place** (fenêtre, LOS).
+
+**CONTRE-EXEMPLES** (la garder est une erreur) :
+- la garder te coûte un coup (tueur qui coupe) ;
+- tueur à casse gratuite (la garder = la perdre sans stun) ;
+- une ressource équivalente est à côté (inutile de l'économiser) ;
+- **Hex: Blood Favour** peut la bloquer levée 15 s après une blessure (LIVE : 24/28/32 m, reconstruit depuis le « was » de la note 559) ;
+- SoloQ : tu ne sais pas si un allié en aura besoin plus tard ; SWF : l'équipe peut décider qui la garde.
+
+**CAS D'ÉCHEC.** Garder la palette « pour plus tard » et tomber en ligne droite avant d'y revenir ; ou la jouer baissée contre une Lich (Mage Hand la relève).
+
+Détail : `kb/research/batch7_tiles.md` §4 ; `kb/audit/pass14_lot7_tiles.md` (T02, T07, T08, T22-T26, T40).
+
+---

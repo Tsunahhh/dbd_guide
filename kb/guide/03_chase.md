@@ -113,16 +113,7 @@ La liste de « casses instantanées » de l'audit phase 0 était fausse sur plus
 
 ### Économie (pour la chase theory)
 
-| Élément | Valeur LIVE | Confiance |
-|---|---|---|
-| Gen solo | **90 s** | VM |
-| Coop | 85 / 70 / 55 % par personne → ~52,9 / ~42,9 / ~40,9 s pour 2 / 3 / 4 réparateurs | SS |
-| Coup de pied de gen | Action 1,8 s ; −5 % instantané puis −0,25 charge/s | VM |
-| Phase de crochet | 70 s | VP |
-| Accrocher / décrocher | 1,5 s / 1 s | SS |
-| Soin d'un état de santé | 16 s ; auto-soin au Med-Kit −33 % de vitesse ; Mangled +25 % de durée | SS |
-| Deep Wound | Timer 20 s ; mending 10 s seul, 6 s par un allié | VP |
-| Wiggle | 16 s cumulées | SS |
+Gen solo **90 s** (VM) ; coop 85 / 70 / 55 % par personne (SS) ; coup de pied de gen 1,8 s, −5 % puis −0,25 charge/s (VM) ; phase de crochet **70 s** (VP) ; accrocher / décrocher 1,5 s / 1 s (SS) ; soin d'un état **16 s**, Med-Kit en auto-soin −33 %, Mangled +25 % (SS) ; Deep Wound : mending 10 s seul, 6 s par un allié (VP) ; wiggle 16 s (SS).
 
 Détail : `kb/research/batch6_chase_tech.md` §1 ; liste des palettes : `kb/research/batch7_tiles.md` §5.2.
 
@@ -639,18 +630,7 @@ Détail : `kb/research/batch6_chase_tech.md` T20-T22.
 
 ### 3.8.2 Ce que chaque action coûte au tueur
 
-| Action du tueur | Temps [FACT] | Confiance | Remarque |
-|---|---|---|---|
-| Casser une palette ou un mur | 2,34 s | VM | Perd la Bloodlust |
-| Casse à la tronçonneuse | 1 s | SS | Hillbilly, Cannibal |
-| Stun de palette | 2 s (1-1,2 s avec Enduring) | SS | Effet sur la Bloodlust : INC |
-| Vault de fenêtre | 1,7 s | SS | Bamboozle : ~1,48-1,62 s (CALC, si la conversion est durée / (1 + x) : INC) |
-| Cooldown après coup réussi / raté | 2,7 s / 1,5 s | VM / SS | + 1,8 s de boost pour toi après un coup |
-| Coup de pied de gen | 1,8 s | VM | −5 % (4,5 charges) puis −0,25 charge/s |
-| Accrocher | 1,5 s | SS | |
-| Porter un survivant | 3,68 m/s | SS | 20 m ≈ 5,4 s ; 40 m ≈ 10,9 s (CALC) |
-| Ramasser | non documenté | INC | |
-| Chercher après une chase perdue | non mesurable | — | Souvent le plus gros coût caché [HYPOTHÈSE] |
+Casse (2,34 s), tronçonneuse (1 s), stun (2 s ; 1-1,2 s avec Enduring), vault (1,7 s), cooldowns (2,7 / 1,5 s) : voir 3.1 et 3.2. S'y ajoutent : coup de pied de gen 1,8 s (VM) ; accrochage 1,5 s (SS) ; portage à 3,68 m/s (SS), soit 20 m ≈ 5,4 s et 40 m ≈ 10,9 s (CALC) ; ramassage non documenté (INC) ; et surtout le temps de **recherche** après une chase perdue, non mesurable, souvent le plus gros coût caché [HYPOTHÈSE]. Bamboozle ramène son vault à ~1,48-1,62 s (CALC, conversion INC).
 
 Le « prix » d'une palette n'est pas 2,34 s mais **2,34 s + 9,4 m offerts + la Bloodlust perdue** ≈ 18 s de chase contre un 115 % (CALC, 3.2). **Exception Blight** : casse instantanée en Lethal Rush, mais payée en **tokens** (9.6.0, précisé par 9.6.2, voir T05) : le prix est payé en pouvoir, pas en secondes.
 
@@ -683,15 +663,7 @@ Le « prix » d'une palette n'est pas 2,34 s mais **2,34 s + 9,4 m offerts + la 
   Le seuil varie d'un facteur ~8. **Robuste** : l'ordre des situations — blessé, tile faible, peu d'alliés sur les gens → presque aucun risque acceptable ; sain, tile fort, 3 alliés sur les gens → un risque modéré l'est. Blessé, le risque acceptable est environ **deux fois plus bas** que sain. **Fragile** : toute valeur précise de `p*`.
 - **COMMENT** : valeur future d'une palette gardée ≈ ce qu'elle rapportera au prochain usage (≈ +9,4 m et reset, ≈ 16-18 s contre un 115 %) × la probabilité qu'elle serve encore (à toi ou à un allié). Plus la zone est pauvre, plus cette valeur monte.
 - **CONTRE** : le tueur augmente ton `p` (pouvoir, mindgame, zoning) ou réduit ton `T_loop` (couper le tile, Bamboozle, casser tôt).
-- **CAS D'ÉCHEC — hypothèses cachées du modèle** :
-  1. le drop immédiat est supposé sans risque (en réalité : coup pendant l'animation, casse, tir) ;
-  2. une seule décision : `p` monte à chaque cycle (Bloodlust, tueur qui apprend) ; le modèle ne vaut que pour le **prochain** cycle ;
-  3. `p` n'est pas exogène : un greed prévisible fait cesser le respect ;
-  4. branche « coup » : gain partiel du cycle, palette souvent encore debout, boost et reset de Bloodlust **réduisent** `C_hit` sain ; rester blessé pour la suite l'**augmente** : signe net inconnu ;
-  5. la valeur future de la palette est supposée identique dans les deux branches ;
-  6. un état de crochet ne se convertit pas entièrement en secondes (un 3e crochet retire un réparateur pour toute la partie) : blessé à 2 crochets, `C_hit` est **sous-estimé** ;
-  7. `p` n'est pas observable en direct.
-  Erreurs de lecture : oublier `C_hit` (penser seulement « une boucle de plus ») ; surestimer `T_loop` sur un tile faible ; ignorer que `p` monte avec la Bloodlust.
+- **CAS D'ÉCHEC — hypothèses cachées du modèle** : (1) drop immédiat supposé sans risque ; (2) une seule décision, alors que `p` monte à chaque cycle (Bloodlust, tueur qui apprend) : le modèle ne vaut que pour le **prochain** cycle ; (3) `p` n'est pas exogène : un greed prévisible fait cesser le respect ; (4) dans la branche « coup », boost, reset de Bloodlust et palette encore debout **réduisent** `C_hit` sain, rester blessé l'**augmente** : signe net inconnu ; (5) valeur future de la palette supposée identique dans les deux branches ; (6) un état de crochet ne se convertit pas entièrement en secondes : blessé à 2 crochets, `C_hit` est **sous-estimé** ; (7) `p` n'est pas observable en direct. Erreurs de lecture : oublier `C_hit`, surestimer `T_loop` sur un tile faible, ignorer que `p` monte avec la Bloodlust.
 - **EXERCICE « EV à froid »** : après 5 parties, prends 10 décisions de palette en VOD ; estime `p` et `T_loop` **avant** de regarder la suite. Réussite : ≥ 70 % de décisions cohérentes avec ton modèle, et une liste de tes biais (greed blessé, pre-drop trop tôt…).
 
 ### 3.8.4 Coût d'une blessure
@@ -878,25 +850,19 @@ Détail : `kb/research/batch6_chase_tech.md` §5.
 
 ---
 
-## 3.10 Idées reçues corrigées
+## 3.10 Idées reçues corrigées (guide seed)
 
-| Le guide seed disait | Ce qui est vrai (LIVE 10.1.2a) | Verdict |
-|---|---|---|
-| 1 s de chase ≈ 1/3 de gen | ≈ 1/30 (3 alliés, e = 1), ≈ 1/37 à e = 0,8 | Faux |
-| 10 m d'avance ≈ 17 s / 25 s | ≈ 16,3 / 21,7 s avec Bloodlust ; ≈ 12-13 / 17-18 s en comptant la fente | Imprécis |
-| « Le vault annule l'élan » ; ne pas vaulter après un coup | Faux pour le fast vault (garde l'élan) ; vrai pour medium / slow ; conservation du boost : INC | Faux (partiel) |
-| Casse de palette ≈ 2,6 s | 2,34 s depuis 6.1.0 | Faux |
-| Gen solo ≈ 80 s | 90 s | Faux |
-| La Bloodlust disparaît quand le tueur est étourdi | Non documenté | Non vérifiable |
-| Deux tours de fenêtre avant la palette du shack | Trop absolu : faux blessé, contre anti-loop, tueur proche | Imprécis |
-| Une god pallet se garde | Dépend de `p`, `C_hit` et des ressources restantes | Imprécis |
-| Le 360 est utile contre les M1 dans l'open | Dernier recours seulement | Imprécis |
-| « Tenez droit sans vous retourner » | Vrai en ligne droite ; faux sur les tiles (un check par décision) | Imprécis |
-| Loadout du tueur visible après la 1re chase | Identité seulement ; loadout caché jusqu'à la fin | Faux |
-| Good Guy / Mastermind cassent les palettes ; Knight casse instantanément | Add-on requis (Hard Hat / Lab Photo) ; gardes du Knight 1,8 s ou 5 s | Faux (errata) |
-| Contre Blight, le pre-drop ne lui coûte rien | Casse = tokens de Rush (9.6.0, 9.6.2) | Faux |
-| Un survivant perdu près d'un casier y est 1 fois sur 3 | Non mesurable | Non vérifiable |
-| Le tueur perd 3-5 s sur un drop depuis l'étage | Aucune mesure | Non vérifiable |
+| Le seed disait | Ce qui est vrai (LIVE 10.1.2a) |
+|---|---|
+| 1 s de chase ≈ 1/3 de gen | ≈ 1/30 (3 alliés, e = 1) |
+| 10 m d'avance ≈ 17 s / 25 s | ≈ 16,3 / 21,7 s avec Bloodlust ; ≈ 12-13 / 17-18 s avec la fente |
+| « Le vault annule l'élan » | Faux pour le fast vault |
+| Casse ≈ 2,6 s ; gen ≈ 80 s | 2,34 s ; 90 s |
+| La Bloodlust disparaît au stun | Non documenté |
+| Deux tours de fenêtre avant la palette ; une god pallet se garde ; le 360 est utile | Trop absolus (T05, T22) |
+| Loadout du tueur visible après la 1re chase | Identité seulement |
+| Good Guy / Mastermind / Knight cassent instantanément ; le pre-drop ne coûte rien au Blight | Faux (errata ; tokens 9.6.0 / 9.6.2) |
+| « 1 fois sur 3 dans le casier » ; « 3-5 s perdues sur un drop d'étage » | Non mesurables |
 
 ## 3.11 Ce qui reste incertain
 
@@ -920,4 +886,4 @@ Détail : `kb/research/batch6_chase_tech.md` §5.
 - `kb/research/batch4_killers_g3.md` §21 (Blight) ; `kb/deliverables/KILLER_COUNTERPLAY_HANDBOOK.md` (anti-loop, pre-drop non universel).
 - `kb/seed/audit_phase0.txt` : tables « Référence vérifiée : mouvement, chase, combat » et « objectifs, crochets, soins, statuts ».
 - Notes officielles BHVR : 6.1.0 (cooldowns, casse), 9.2.0 (Krasue, densité), 9.3.0 / 9.3.2 (loops), 9.6.0 (Blight, Match Details, DR), 9.6.2 (Blight tokens), 10.1.0 (protections de décrochage), 10.1.1 (Knight) — `kb/sources/patches/`.
-- Pages wiki (via l'audit) : Pallets, Windows, Bloodlust, Chase, Terror Radius, Red Stain, pages des tueurs cités.
+- Pages wiki citées par l'audit et le lot 7 : Pallets, Bloodlust, pages des tueurs cités.
