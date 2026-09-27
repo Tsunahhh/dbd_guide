@@ -2,7 +2,7 @@
 
 > **Statut : WRITTEN + AUDITED (audits adversariaux §25-26, P14) + RE-VÉRIFIÉ (lot 12b, 27/09/2026, sources locales complètes)** — audits : kb/audit/pass14_lot4_g1-g3.md
 
-Couverture : 8/8 tueurs re-vérifiés sur page wiki complète (27/09/2026), dont 14 points confirmés par note officielle (Cannibal 1, Pig 4, Clown 6, Legion 2, perk Knock Out 1).
+Couverture : 8/8 tueurs re-vérifiés sur page wiki complète (27/09/2026), dont 15 points confirmés par note officielle (Cannibal 1, Pig 4, Clown 6, Legion 2, perks Knock Out et Fire Up 2).
 
 - Périmètre : The Huntress, The Cannibal, The Nightmare, The Pig, The Clown, The Spirit, The Legion, The Plague (seed `kb/seed/ch8_killers.txt` l. 547-844).
 - Référence : LIVE 10.1.2a (17/09/2026). PTB 10.2.0 (15-21/09/2026) **non LIVE**, toujours étiqueté PTB.
@@ -325,74 +325,143 @@ Règles d'usage ajoutées par l'audit P14 :
 
 | ID | Claim | Source | Patch | Confiance |
 |---|---|---|---|---|
-| L4G2-01 | Huntress : « 7 hachettes » faux ; 5 de base | [2] (7 = erreur) + mémoire modèle (5) | — | « 7 » FAUX : audit ; « 5 » : UNCERTAIN-MM (corrigé P14, était STRONG_SECONDARY) |
-| L4G2-02 | Huntress : 4,4 m/s, TR 20 m, berceuse | mémoire modèle | — | UNCERTAIN-MM |
-| L4G2-03 | Cannibal : buff au 9.6.0 | [2] | 9.6.0 | VERIFIED dans l'audit |
-| L4G2-04 | Casse de palette à la tronçonneuse ≈ 1 s | [2] (wiki.gg Pallets) | — | STRONG_SECONDARY |
-| L4G2-05 | Nightmare : rework au 8.5.0 (28/01/2025) | [2] | 8.5.0 | VERIFIED dans l'audit |
-| L4G2-06 | Pig : buffs au 9.1.0 | [2] | 9.1.0 | VERIFIED dans l'audit |
-| L4G2-07 | Pig : TR 32 m (seed : 24 m) | mémoire modèle | — | UNCERTAIN-MM (CONFLICT) |
-| L4G2-08 | Pig : sortir avec un piège actif = mort | mémoire modèle | — | UNCERTAIN-MM |
-| L4G2-09 | Clown : buffs au 9.1.0 | [2] | 9.1.0 | VERIFIED dans l'audit |
+| L4G2-01 | Huntress : **7 hachettes** de base (5 → 7 au 7.6.0) ; aucun add-on de capacité sauf Iridescent Head (→ 1) | [3] | 7.6.0 | STRONG_SECONDARY (corr. 12b : « 7 faux / 5 » était une erreur de l'audit et du modèle) |
+| L4G2-02 | Huntress : 4,4 m/s, TR 20 m, berceuse 45 m, armement 0,9 s, 25-40 m/s, cooldown 2 s, casier 3 s | [3] ; aucun changement dans [O-510]→[O-558] | LIVE 10.1.2a | STRONG_SECONDARY |
+| L4G2-03 | Cannibal : buff 9.6.0 = sweep max **5,35 → 5,45 m/s** | [O-544] + [4] | 9.6.0 | VERIFIED_MULTI_SOURCE |
+| L4G2-04 | Cannibal : casse de palette à la tronçonneuse = cooldown 1 s ; 3 jetons, charge 2 s, sweep 2,5 s, Tantrum 3-6 s | [4] (+ [2] pour ≈ 1 s) | 8.0.0 / LIVE | STRONG_SECONDARY |
+| L4G2-05 | Nightmare : rework 8.5.0 ; Snares 12 m/s / 18 m / −12 % 4,5 s / CD 7 s ; 8 Dream Pallets, Rupture 1,5 s / 3,5 m ; TP 2,5 s / 30 s (−15 % par endormi) ; réveils 2 s / CD 45 s / immunité 30 s | [5] ; [2] pour la date | 8.5.0 | STRONG_SECONDARY (aucun changement 9.x-10.x : VERIFIED_PRIMARY par absence) |
+| L4G2-06 | Pig : buffs 9.1.0 (ruée 7,1 m/s, accroupie 4,0 m/s, transition 0,8 s, fondu du TR plus rapide) | [O-516] + [6] | 9.1.0 | VERIFIED_MULTI_SOURCE |
+| L4G2-07 | Pig : **TR 24 m** (32 → 24 au 9.1.0) | [6] (infobox + changelog) ; absent de [O-516] | 9.1.0 | STRONG_SECONDARY (CONFLICT-L4G2-02 RÉSOLU) |
+| L4G2-08 | Pig : sortir avec un piège actif = mort ; trappe possible ; 1 à 4 boîtes à fouiller sur 5 ; 12 fouilles par partie | [6] | LIVE | STRONG_SECONDARY |
+| L4G2-09 | Clown : 9.1.0 (Haste 12 %, recharge 2,5 s à 2,3 m/s, Tonic −14 %) puis 9.2.0 (Antidote 1,6 s, persistance du Hindered 1,6 s) | [O-516] [O-523] + [7] | 9.1.0 / 9.2.0 | VERIFIED_MULTI_SOURCE |
 | L4G2-10 | Coulrophobia 20/25/30 % | [2] | 10.1.0 | VERIFIED dans l'audit |
 | L4G2-11 | Pop Goes the Weasel 20 % au total | [2] | 9.5.0 | VERIFIED dans l'audit |
-| L4G2-12 | Spirit : 4,4 m/s, TR 24 m | mémoire modèle | — | UNCERTAIN-MM |
-| L4G2-13 | Legion : désactivé puis réactivé au 9.6.0 | [1] seulement | 9.6.0 | UNCERTAIN (absent de [2]) |
+| L4G2-12 | Spirit : 4,4 m/s, TR 24 m, phase 5 s à 7,04 m/s, charge 1,5 s, recharge 15 s, son directionnel 24 m, **phasing passif LIVE** | [8] ; aucun changement dans [O-510]→[O-558] | 6.7.0 / LIVE | STRONG_SECONDARY |
+| L4G2-13 | Legion : réactivé au 9.6.0 | [O-544] | 9.6.0 | VERIFIED_PRIMARY |
 | L4G2-14 | Protections d'unhook : Endurance + 10 % Haste 10 s + Elusive 10 s | [2] | 10.1.0 | VERIFIED dans l'audit |
+| L4G2-15 | Legion : **le 5e Feral Slash met à terre** (aussi sous Deep Wound) ; Frenzy 11 s, 5,2 m/s +0,24/slash, fatigue 2,5 s | [9] ; indice 2v8 [O-519] | 5.7.0 / 8.6.0 | STRONG_SECONDARY |
+| L4G2-16 | Legion : Feral Vault seulement sur palettes tombées et fenêtres (vault de palette debout = bug corrigé) | [9] + [O-516] | 9.1.0 | VERIFIED_MULTI_SOURCE |
+| L4G2-17 | Plague : 1 fontaine corrompue au début ; tout stun met fin au Corrupt Purge ; Sickness 0 % en marchant | [10] | 4.7.0 / LIVE | STRONG_SECONDARY |
+| L4G2-18 | Knock Out LIVE : 6 m / 5 % Hindered (PTB 10.2.0 : 10 m / 20 %) | [O-559] (ligne « was ») | LIVE 10.1.2a / PTB 10.2.0 | VERIFIED_PRIMARY |
+| L4G2-19 | Fire Up LIVE : 4/5/6 % par jeton (PTB : 6/7/8 %) | [O-559] | LIVE / PTB 10.2.0 | VERIFIED_PRIMARY |
+| L4G2-20 | 9.6.0 : Match Details montrent le tueur aux survivants dès une chase ou une perte d'état de santé | [O-544] | 9.6.0 | VERIFIED_PRIMARY |
 
 ## Conflits
 
 #### CONFLICT-L4G2-01 : Huntress « plus haut kill rate global » vs « pick le plus large »
 - Source A : seed [1] : « Plus haut kill rate global dans les stats officielles BHVR 2026 ».
-- Source B : audit [2] : pick Huntress (broad) ; kill rate le plus haut tous MMR = The Lich. La vue d'ensemble du seed dit aussi Lich, Nightmare, Onryō…
+- Source B : audit [2] : pick Huntress (broad) ; kill rate le plus haut tous MMR = The Lich. La note officielle « First Look at Stats in 2026 » cite aussi Huntress parmi les **plus joués** en MMR large [O-540].
 - Hypothèse : confusion entre pick rate et kill rate dans la fiche du seed.
-- Résolution : B retenue (l'audit cite les données officielles) ; fiche du seed FAUSSE sur ce point.
+- Résolution : B retenue ; fiche du seed FAUSSE sur ce point.
 
-#### CONFLICT-L4G2-02 : TR de la Pig
+#### CONFLICT-L4G2-02 : TR de la Pig — RÉSOLU
 - Source A : seed [1] : 24 m.
-- Source B : mémoire du modèle : 32 m.
-- Hypothèse : erreur du seed, ou changement 9.1.0 non lu.
-- Indice (audit P14) : règle d'origine « 32 m pour les tueurs à 4,6 m/s » (wiki.gg Terror Radius, SS, avec exceptions) → penche vers 32 m sans le prouver.
-- Résolution : UNRESOLVED (aucune vérification possible cette session).
+- Source B : mémoire du modèle (lot 4) : 32 m.
+- Preuve : page wiki complète [6] : infobox « Terror Radius 24 metres » et changelog 9.1.0 « reduced the Terror Radius from 32 metres to 24 metres ». La note officielle 9.1.0 [O-516] ne cite que le fondu du TR accroupie (0,25 → 0,33), pas le rayon.
+- Résolution : **RÉSOLU → 24 m (LIVE depuis 9.1.0), STRONG_SECONDARY**. Le seed avait raison ; la valeur du modèle (32 m) est antérieure au 9.1.0.
+
+#### CONFLICT-L4G2-03 : nombre de hachettes de la Huntress — RÉSOLU
+- Source A : seed [1] : 7 hachettes.
+- Source B : audit [2] : « Huntress "7 hachettes" » listé parmi les erreurs du seed ; mémoire du modèle : 5.
+- Preuve : page wiki complète [3] : « starts the Trial with 7 Hunting Hatchets » et changelog 7.6.0 « increased the default Carrying capacity of Hatchets from 5 to 7 ». Aucune note officielle 9.0.0 → 10.1.2 ne modifie la capacité.
+- Résolution : **RÉSOLU → 7 (LIVE), STRONG_SECONDARY**. Le seed avait raison ; l'audit [2] et la mémoire du modèle reflétaient l'état d'avant 7.6.0. L'erreur réelle du seed sur la Huntress est ailleurs (« Infantry Belt +2 hachettes »).
+
+#### CONFLICT-L4G2-04 : Haste de l'Antidote du Clown (12 % ou 14 %) — RÉSOLU
+- Source A : wiki [7], description du pouvoir : « +14 % Haste » (et add-ons formulés « +2 % to +16 % », « +3 % to +17 % »).
+- Source B : note officielle 9.1.0 [O-516] : « Increased Haste effect of Afterpiece Antidote to 12% (was 10%) » ; wiki [7], Power Trivia : « Haste strength: +12 % » et vitesse revigorée 5,152 m/s (= 4,6 × 1,12) ; aucune note 9.2.0 → 10.1.2 ne touche à la Haste (9.2.0 ne change que l'activation et la persistance).
+- Hypothèse : phrase de description du wiki non mise à jour (ou confusion avec le Hindered de 14 %).
+- Résolution : **RÉSOLU → 12 % (VERIFIED_PRIMARY)**. Réserve faible : un changement non documenté n'est pas exclu, mais aucune source ne le date.
+
+#### CONFLICT-L4G2-05 : Legion, le Frenzy met-il à terre ? — RÉSOLU
+- Source A : seed [1] : « Le 5e Feral Slash met à terre ».
+- Source B : mémoire du modèle (lot 4) : le Frenzy ne mettrait plus à terre.
+- Preuve : wiki [9] : « Causes the fifth Feral Slash to be lethal and apply double damage. This also affects Survivors already suffering from Deep Wound » (rework 5.7.0) ; indice officiel : en 2v8, [O-519] réduit le nombre de coups « needed to down a Survivor while in Feral Frenzy » de 7 à 6.
+- Résolution : **RÉSOLU → le 5e slash met à terre (STRONG_SECONDARY)**. Le seed avait raison.
+
+#### CONFLICT-L4G2-06 : Spirit, phasing passif — RÉSOLU
+- Source A : seed [1] : phasing passif (clignotement).
+- Source B : mémoire du modèle (lot 4) : supprimé.
+- Preuve : wiki [8] : « SPECIAL ABILITY: PASSIVE-PHASING », 0,5 s toutes les 1 à 5 s ; add-on Juniper Bonsai qui le modifie.
+- Résolution : **RÉSOLU → existe en LIVE (STRONG_SECONDARY)**. Le seed avait raison.
 
 ## Écarts avec le guide seed
 
 | Élément | Le guide dit | Vérifié | Verdict |
 |---|---|---|---|
-| Huntress, nombre de hachettes | 7 | 7 relevé comme erreur ([2]) ; 5 = mémoire du modèle, UNCERTAIN | FAUX (valeur de remplacement non vérifiée) |
-| Huntress, kill rate | plus haut kill rate global BHVR 2026 | pick le plus large ; kill rate top = Lich ([2]) | FAUX |
-| Huntress, valeurs de hachette | 25-40 m/s, hitbox 0,4 m, recharge 2 s | — | NON VÉRIFIABLE |
-| Cannibal, buff 9.6.0 | oui | oui ([2]) | OK |
-| Cannibal, 5,45 m/s | buff du 9.6.0 | contenu non lu | NON VÉRIFIABLE |
-| Knock Out | ralentit après une palette ; valeurs PTB 10.2 (hypothèse du lot) | signalé comme erreur par [2] ; effet principal (aura à 32/24/16 m) omis | IMPRÉCIS / à vérifier (lot perks tueur) |
-| Nightmare, valeurs du pouvoir | Snares 12 %, TP 30 s, CD réveil 45 s | rework 8.5.0 non lu | NON VÉRIFIABLE |
-| Nightmare, Z-Block | « selon version » | — | IMPRÉCIS (versions mélangées) |
-| Pig, TR | 24 m | 32 m (mémoire modèle) | CONFLICT (UNRESOLVED) |
-| Pig, buff 9.1 | oui | oui ([2]) | OK |
-| Clown, patchs 9.1 et 9.2 | valeurs 9.1 et 9.2 | seul 9.1.0 documenté ([2]) | IMPRÉCIS |
+| Huntress, nombre de hachettes | 7 | 7 depuis 7.6.0 ([3]) | **OK** (corr. 12b ; l'audit [2] se trompait) |
+| Huntress, Infantry Belt | +2 hachettes | +3 % Haste 5 s au toucher ; aucun add-on de capacité ([3]) | **FAUX** (nouveau 12b) |
+| Huntress, kill rate | plus haut kill rate global BHVR 2026 | pick le plus large ; kill rate top = Lich ([2], [O-540]) | FAUX |
+| Huntress, valeurs de hachette | 25-40 m/s, hitbox 0,4 m, recharge 2 s, casier 3 s, berceuse 45 m | idem ([3]) | OK |
+| Cannibal, buff 9.6.0 | 5,45 m/s | 5,35 → 5,45 m/s ([O-544], [4]) | OK (VERIFIED_PRIMARY) |
+| Cannibal, pouvoir | 3 tokens, 2 s de charge, 2,5 s de sweep | idem ([4]) | OK |
+| Knock Out | ralentit après une palette ; 10 m / 20 % au PTB 10.2 | LIVE 6 m / 5 % ; PTB 10 m / 20 % ([O-559]) | **OK** (corr. 12b ; l'hypothèse « aura 32/24/16 m » décrit une version antérieure) |
+| Nightmare, valeurs du pouvoir | Snares 12 m/s, 18 m, 12 % 4,5 s, CD 7 s ; 8 pallets 24 m ; TP 2,5 s / 30 s ; réveil 45 s | idem ([5]) | OK |
+| Nightmare, Z-Block | « sélection de pallets ou snares selon version » | aura 3 s des survivants touchés ; bascule de base depuis 8.5.0 ([5]) | **FAUX** (nouveau 12b) |
+| Fire Up | 4 à 6 % | LIVE 4/5/6 % ; PTB 6/7/8 % ([O-559]) | OK |
+| Pig, TR | 24 m | 24 m depuis 9.1.0 ([6]) | **OK** (CONFLICT-L4G2-02 résolu) |
+| Pig, buff 9.1 | 4,0 m/s, 7,1 m/s, 0,8 s | idem ([O-516], [6]) | OK (VERIFIED_MULTI_SOURCE) |
+| Pig, Jigsaw Boxes | fouiller les 5 boîtes jusqu'à la bonne clé | 5 boîtes, il faut en fouiller 1 à 4 ; 12 fouilles par partie ([6]) | **IMPRÉCIS** (nouveau 12b) |
+| Clown, patchs 9.1 et 9.2 | valeurs 9.1 et 9.2 | 9.1.0 + 9.2.0 documentés ([O-516], [O-523]) | **OK** (corr. 12b ; lacune de [2]) |
+| Clown, valeurs | 6 bouteilles, 2,5 s, −14 %, Antidote 1,6 s, +12 % 6 s | idem ([7], [O-516], [O-523]) | OK |
 | Coulrophobia | 20-30 % depuis 10.1 | 20/25/30 % ([2]) | OK |
 | Pop Goes the Weasel | 20 % au total | 20 % au total au 9.5.0 ([2]) | OK |
-| Spirit, phasing passif | existe | suppression probable (mémoire modèle) | IMPRÉCIS / UNCERTAIN |
-| Legion, 5e Feral Slash à terre | oui | probablement obsolète (mémoire modèle) | IMPRÉCIS / UNCERTAIN |
-| Legion, désactivé puis réactivé au 9.6.0 | oui | absent de [2] | NON VÉRIFIABLE |
+| Spirit, phasing passif, son 24 m, CD 15 s | existent | idem ([8]) | **OK** (corr. 12b) |
+| Spirit, respiration comme indice en phase | oui | inaudible en phase depuis 2.3.0 ([8]) | **FAUX** (nouveau 12b) |
+| Spirit, Prayer Beads (sans son en phase) | add-on fort | absent de la liste LIVE ([8]) ; Wakizashi Saya = retour au husk | **FAUX / OBSOLETE** (nouveau 12b) |
+| Legion, 5e Feral Slash à terre | oui | oui, y compris sous Deep Wound ([9]) | **OK** (corr. 12b) |
+| Legion, désactivé puis réactivé au 9.6.0 | oui | « re-enabled » au 9.6.0 ([O-544]) | OK (VERIFIED_PRIMARY) |
+| Legion, Deep Wound « en pause en chase » | oui | en pause **en courant** ou en mending ([9], [2]) | IMPRÉCIS |
+| Legion, « chaque slash recharge une partie de la jauge » | partielle | remplit entièrement la jauge ([9]) | IMPRÉCIS (nouveau 12b) |
+| Plague, valeurs | ~13 m, 40 s, 60 s, stun = fin du Corrupt Purge, Iridescent Seal | idem ([10]) | OK |
+| Plague, fontaine corrompue au départ | non mentionnée | 1 fontaine corrompue dès le début ([10]) | IMPRÉCIS (omission) |
 | Plague, « soignez vite » (ch7) | règle absolue | relevé par [2] | IMPRÉCIS |
 
 ## Questions ouvertes
 
-À relancer avec WebSearch dès que le budget est rétabli :
-1. Huntress : vitesse de hachette, capacité exacte des add-ons, portée de la berceuse, changements 2025-2026 éventuels.
-2. Cannibal : contenu exact du buff 9.6.0 (vitesse de sweep, charges).
-3. Nightmare : contenu complet du rework 8.5.0 (réveils, snares, pallets, TP, add-ons).
-4. Pig : TR (24 ou 32 m), contenu du buff 9.1.0 (vitesse accroupie, dash), nombre de Jigsaw Boxes, comportement des pièges après alimentation des portes, efficacité de Spine Chill contre Undetectable.
-5. Clown : contenu du buff 9.1.0 ; blocage des fast vaults sous intoxication.
-6. Spirit : phasing passif, son directionnel, effet actuel de Prayer Beads Bracelet, cooldown.
-7. Legion : Frenzy peut-il mettre à terre ? désactivation au 9.6.0 ?
-8. Plague : un stun met-il fin à Corrupt Purge ? effet d'Iridescent Seal.
-9. Pour tous : perks fréquentes (NightLight inaccessible) et impact des Diminishing Returns 9.6.0 sur les pouvoirs Hindered et Haste.
+Restantes après le lot 12b :
+1. Huntress : le maïs et les palettes basses bloquent-ils les hachettes ? (page muette).
+2. Pig : signal sonore de la ruée (« rugissement ») non décrit par la page ; efficacité de Spine Chill LIVE contre Undetectable ; comportement exact des pièges posés après l'alimentation des portes (indice : [O-556]) ; la note officielle 9.1.0 ne mentionne pas la réduction du TR à 24 m (seul le wiki la donne).
+3. Clown : confirmer 12 % contre 14 % dans le jeu ou une note ultérieure (CONFLICT-L4G2-04, résolu à 12 %).
+4. Legion : date et cause de la désactivation levée au 9.6.0 ; un Feral Slash (non 5e) sur un survivant déjà sous Deep Wound inflige-t-il un dégât ? (la page dit seulement qu'il met fin au Frenzy) ; les add-ons « after mending themselves » s'appliquent-ils au mending par un allié ?
+5. Nightmare : les Alarm Clocks sont-ils visibles dès le début de partie pour les survivants éveillés ?
+6. Plague : aspect visuel des objets infectés ; effet d'Iron Will sur les vomissements.
+7. Pour tous : perks fréquentes (NightLight inaccessible), catégories exactes des Diminishing Returns 9.6.0 (manuel 9.6.1) et effet sur les pouvoirs Hindered / Haste ; descriptions LIVE des teachables non relues (Spirit, Legion, Plague, Clown).
 
 ## Sources
 
 [1] Guide seed, chapitre 8 — `/home/user/dbd_guide/kb/seed/ch8_killers.txt` (l. 1-256 et 547-844) — lu le 27/09/2026 (fichier local, non fiable).
 [2] Audit phase 0 — `/home/user/dbd_guide/kb/seed/audit_phase0.txt` — lu le 27/09/2026 (historique des patchs 9.0.0 → 10.1.2a, erreurs relevées).
+[3] Anna (The Huntress) — https://deadbydaylight.wiki.gg/wiki/Anna — page complète, copie locale `kb/sources/wiki_killers/Anna.txt`, consultée le 27/09/2026.
+[4] Bubba Sawyer (The Cannibal) — https://deadbydaylight.wiki.gg/wiki/Bubba_Sawyer — page complète, `Bubba_Sawyer.txt`, 27/09/2026.
+[5] Freddy Krueger (The Nightmare) — https://deadbydaylight.wiki.gg/wiki/Freddy_Krueger — page complète, `Freddy_Krueger.txt`, 27/09/2026.
+[6] Amanda Young (The Pig) — https://deadbydaylight.wiki.gg/wiki/Amanda_Young — page complète, `Amanda_Young.txt`, 27/09/2026.
+[7] Kenneth Chase (The Clown) — https://deadbydaylight.wiki.gg/wiki/Kenneth_Chase_alias_Jeffrey_Hawk — page complète, `Kenneth_Chase_alias_Jeffrey_Hawk.txt`, 27/09/2026.
+[8] Rin Yamaoka (The Spirit) — https://deadbydaylight.wiki.gg/wiki/Rin_Yamaoka — page complète, `Rin_Yamaoka.txt`, 27/09/2026.
+[9] Frank, Julie, Susie, Joey (The Legion) — https://deadbydaylight.wiki.gg/wiki/Frank,_Julie,_Susie,_Joey — page complète, `Frank_Julie_Susie_Joey.txt`, 27/09/2026.
+[10] Adiris (The Plague) — https://deadbydaylight.wiki.gg/wiki/Adiris — page complète, `Adiris.txt`, 27/09/2026.
 
-Aucune source web : budget WebSearch épuisé (200/200) au moment du lot. Toute information marquée UNCERTAIN-MM vient de la mémoire du modèle.
+Notes officielles BHVR (copies locales `kb/sources/patches/official_<id>.txt`, consultées le 27/09/2026) :
+- [O-510] 9.0.0 — https://forums.bhvr.com/dead-by-daylight/kb/articles/510
+- [O-511] 9.0.1 — https://forums.bhvr.com/dead-by-daylight/kb/articles/511
+- [O-512] 9.0.2 — https://forums.bhvr.com/dead-by-daylight/kb/articles/512
+- [O-513] Developer Update juillet 2025 — https://forums.bhvr.com/dead-by-daylight/kb/articles/513
+- [O-516] 9.1.0 — https://forums.bhvr.com/dead-by-daylight/kb/articles/516
+- [O-519] 9.1.2 — https://forums.bhvr.com/dead-by-daylight/kb/articles/519
+- [O-520] 9.1.3 — https://forums.bhvr.com/dead-by-daylight/kb/articles/520
+- [O-521] Developer Update août 2025 — https://forums.bhvr.com/dead-by-daylight/kb/articles/521
+- [O-523] 9.2.0 — https://forums.bhvr.com/dead-by-daylight/kb/articles/523
+- [O-526] 9.2.3 — https://forums.bhvr.com/dead-by-daylight/kb/articles/526
+- [O-529] 9.3.0 — https://forums.bhvr.com/dead-by-daylight/kb/articles/529
+- [O-530] 9.3.2 — https://forums.bhvr.com/dead-by-daylight/kb/articles/530
+- [O-534] 9.4.0 — https://forums.bhvr.com/dead-by-daylight/kb/articles/534
+- [O-538] 9.5.0 — https://forums.bhvr.com/dead-by-daylight/kb/articles/538
+- [O-540] Stats, First Look at Stats in 2026 — https://forums.bhvr.com/dead-by-daylight/kb/articles/540
+- [O-541] 9.5.2 — https://forums.bhvr.com/dead-by-daylight/kb/articles/541
+- [O-544] 9.6.0 — https://forums.bhvr.com/dead-by-daylight/kb/articles/544
+- [O-546] 9.6.2 — https://forums.bhvr.com/dead-by-daylight/kb/articles/546
+- [O-550] 10.0.0 — https://forums.bhvr.com/dead-by-daylight/kb/articles/550
+- [O-552] 10.0.2 — https://forums.bhvr.com/dead-by-daylight/kb/articles/552
+- [O-556] 10.1.0 — https://forums.bhvr.com/dead-by-daylight/kb/articles/556
+- [O-559] PTB 10.2.0 (NON LIVE) — https://forums.bhvr.com/dead-by-daylight/kb/articles/559
+
+Toute information encore marquée UNCERTAIN-MM vient de la mémoire du modèle et n'est pas vérifiée.

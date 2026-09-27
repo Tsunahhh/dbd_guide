@@ -449,19 +449,34 @@ Comptage « confirmés par note officielle » (ligne de couverture) = lignes VER
 
 | Élément | Le guide dit | Vérifié | Verdict |
 |---|---|---|---|
-| Knight — Nowhere to Hide | 18 m depuis 10.1.0, « moins bon » | 24 m LIVE (18 m = PTB 10.1.0) [2] | FAUX (PTB-comme-LIVE) |
-| Nemesis — Eruption | −10 % | 5 % selon registre audit ; annulation LIVE possible (conflit lot 3) | NON VÉRIFIABLE (conflit ouvert) |
-| Cenobite — perks enseignables | Deadlock, Hex: Plaything, Scourge Hook: Gift of Pain | renommées en 9.0.0 : No Holds Barred, Hex: Fortune's Fool, Scourge Hook: Weeping Wounds [2] | IMPRÉCIS (OBSOLETE) |
-| Trickster — No Way Out | 12 s/token, ~60 s | 12 s + 6/9/12 s par jeton [2] | IMPRÉCIS |
-| Knight — historique | 38 m depuis 9.1.0 ; rien sur 10.1.1 | 9.1.0 buff et 10.1.1 « gardes et palettes » confirmés, contenu non lu [2] | IMPRÉCIS (omission 10.1.1) |
-| Trickster — 4,4 m/s, TR 24/44 m, 36 lames, décroissance 16 s | idem | idem [2] | OK |
-| Onryō — Call of Brine | 30/40/50 %, 90 s | idem [2] | OK |
-| Dredge / Mastermind — buffs 9.6.0 | existence + détails | existence confirmée [2], détails non lus | OK (existence) / NON VÉRIFIABLE (détails) |
-| Dredge — Dissolution | nerf PTB 10.2.0 | étiqueté PTB dans le seed ; changement absent de l'audit | OK (étiquetage) / NON VÉRIFIABLE (existence) |
-| Cenobite — retrait boutique | mars 2025 | [2] : « départ Hellraiser, 2025 », renommage 9.0.0 | NON VÉRIFIABLE |
-| Cenobite — difficulté | « très élevée » (fiche) | « élevée » (tableau d'ensemble du seed) | IMPRÉCIS (incohérence interne) |
-| Artist — « s'accroupir évite le Killer Instinct » | affirmé | aucune source | NON VÉRIFIABLE (douteux) |
-| Toutes les autres valeurs de pouvoir / add-ons (8 tueurs) | voir fiches | — | NON VÉRIFIABLE (quota) |
+| Knight — Nowhere to Hide | 18 m depuis 10.1.0, « moins bon » | 24 m LIVE (18 m = PTB 10.1.0) [10][21] | FAUX (PTB-comme-LIVE) |
+| Knight — Iridescent Company Banner | « fenêtres cassables » | bloque les fenêtres du tracé (25 s) et celles vaultées par le chassé ; portes bloquées pour le chassé [10] | FAUX |
+| Knight — gardes et palettes | garde qui patrouille près d'une palette la casse | casse par ordre de garde (1,8 s / 5 s) ; 10.1.1 : contournement, abandon si détour > 48 m [10][22] | FAUX / IMPRÉCIS (omission 10.1.1) |
+| Knight — 38 m, gardes, étendard, unhook | 38 m depuis 9.1.0 ; valeurs des gardes ; Haste 50 % + Endurance ; unhook met fin à la chasse | idem [10][13] | OK |
+| Nemesis — Eruption | −10 % | −10 % LIVE ; le 5 % était un changement PTB 9.2.0 annulé [4][14] | OK |
+| Nemesis — valeurs du pouvoir | 5 / 6,5 m, 2,25 s, MR2 5 / MR3 15, Hindered 20 % 2 s, 2 zombies, 4 vaccins | idem [4] (MR3 : 14 ou 15 selon la section de la page) | OK |
+| Cenobite — perks enseignables | Deadlock, Hex: Plaything, Scourge Hook: Gift of Pain | renommées en 9.0.0 : No Holds Barred, Hex: Fortune's Fool, Scourge Hook: Weeping Wounds [11] | IMPRÉCIS (OBSOLETE) |
+| Cenobite — retrait boutique | mars 2025 | 4 mars 2025 (13 mars eShop) [5] | OK |
+| Cenobite — difficulté | « très élevée » (fiche) / « élevée » (tableau d'ensemble) | « Very Hard » [5] | OK (fiche) / FAUX (tableau d'ensemble) |
+| Cenobite — « chaîne = vault bloqué » | affirmé | non décrit sur [5] (vérifié : pas de course, ≤ 2,26 m/s, portes bloquées) | NON VÉRIFIABLE |
+| Trickster — No Way Out | 12 s/token, ~60 s | 12 s + 6/9/12 s par jeton, max 36/48/60 s [3] | IMPRÉCIS |
+| Trickster — 4,4 m/s, TR 24/44 m, 36 lames, décroissance 16 s + 4,4 s/charge, 66 s, ×1,67, 10 s, 20 m | idem | idem [3][17][18][19] | OK |
+| Trickster — 3,86 m/s en lançant | valeur unique | 3,86 → 3,53 → 3,16 m/s après 5 / 10 lames [3][17] | IMPRÉCIS |
+| Onryō — Call of Brine | 30/40/50 %, 90 s | idem [7][21] | OK |
+| Onryō — projection | +1 Condemned à 16 m de la TV d'arrivée | à ≤ 16 m de **n'importe quelle** TV allumée [7] | IMPRÉCIS |
+| Onryō — cassette portée | fait monter le Condemned | supprimé (7.1.0 / 7.5.0) [7] | FAUX (OBSOLETE) |
+| Onryō — TR 24 m, petite, 7 stacks, verrouillage 3/6, 70 s, −3 stacks | idem | idem [7] | OK |
+| Artist — « s'accroupir évite le Killer Instinct » | affirmé | FACT : les Swarms ne déclenchent pas de KI sur un survivant accroupi [6] | OK |
+| Artist — « pas le décor vertical très épais » | coupe la ligne de corbeau | les Swarms traversent tous les obstacles [6] | FAUX |
+| Artist — « add-ons de vitesse de corbeau » | cités | aucun add-on de ce type [6] | FAUX |
+| Artist — valeurs du pouvoir | 3 corbeaux, 1 s, 10 s, 8 s, 5 / 12 s, ~12 m | idem [6] | OK |
+| Dredge — buff 9.6.0 | 4 m/s pendant la charge | 3,8 → 4,0 m/s en chargeant Reign of Darkness [8][20] | OK |
+| Dredge — Nightfall 60 s, 3 jetons, verrou 2,25 s | idem | idem [8] | OK |
+| Dredge — casier et jauge | se cacher en casier remplit la jauge | c'est le Dredge caché qui remplit la jauge (+6/s) [8] | FAUX |
+| Dredge — Dissolution | nerf PTB 10.2.0 (attaque de base) | confirmé par la note PTB [23] ; LIVE = tout dégât, 12/16/20 s | OK (étiquetage PTB correct) |
+| Mastermind — buff 9.6.0 | 2e bond dans 2,5 s, récupération 2,7 s, Loose Crank buffé | idem [9][20] | OK |
+| Mastermind — TR 40 m, Hindered 4 %, sprays 6 × 2 usages, KI 4 s | idem | idem [9] | OK |
+| Mastermind — palettes | « passe fenêtres et palettes » | franchissement (special-vault) ; casse seulement avec Lab Photo [9][17] | OK (le seed était juste ; c'est l'audit [2] qui parlait de casse instantanée) |
 | Orientation des fiches | ~75 % joueur tueur | refondu ici en vue survivant | — |
 
 ## Questions ouvertes
