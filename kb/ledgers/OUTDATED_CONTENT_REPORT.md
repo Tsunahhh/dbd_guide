@@ -50,7 +50,7 @@ Good Guy : buffs 9.4.2 propres au 2v8 cités comme counterplay 1v4.
 
 ## Partie B — Lots 2-11 après re-vérification (état FINAL, 27/09/2026 soir)
 
-Méthode : chaque ligne vient d'un verdict **FAUX / OBSOLETE / PTB-comme-LIVE** d'une section « Écarts avec le guide seed » (lots 2, 3, 4, 5, 7, 8, 9) ou d'un audit pass 14, **confirmé par une page wiki lue en entier ou une note officielle BHVR archivée** (`kb/sources/patches/official_<id>.txt`, URL `https://forums.bhvr.com/dead-by-daylight/kb/articles/<id>`). « wiki » = page deadbydaylight.wiki.gg complète (API MediaWiki, 27/09/2026 ; pages tueurs archivées dans `kb/sources/wiki_killers/`, perks dans `kb/sources/wiki_perks_digest.md`). Les lots 6 et 11 n'ont pas de table d'écarts (brouillons sans comparaison ligne à ligne) ; leurs constats sur le seed sont ceux de la partie A (A-054, A-059, A-267).
+Méthode : chaque ligne vient d'un verdict **FAUX / OBSOLETE / PTB-comme-LIVE** d'une section « Écarts avec le guide seed » (lots 2, 3, 4, 5, 7, 8, 9, 12) ou d'un audit pass 14, **confirmé par une page wiki lue en entier ou une note officielle BHVR archivée** (`kb/sources/patches/official_<id>.txt`, URL `https://forums.bhvr.com/dead-by-daylight/kb/articles/<id>`). « wiki » = page deadbydaylight.wiki.gg complète (API MediaWiki, 27/09/2026 ; pages tueurs archivées dans `kb/sources/wiki_killers/`, perks dans `kb/sources/wiki_perks_digest.md`). Les lots 6 et 11 n'ont pas de table d'écarts (brouillons sans comparaison ligne à ligne) ; leurs constats sur le seed sont ceux de la partie A (A-054, A-059, A-267).
 
 Les lignes marquées **(déjà A)** figurent en partie A ; elles sont reconfirmées, pas nouvelles.
 
@@ -115,7 +115,7 @@ Les lignes marquées **(déjà A)** figurent en partie A ; elles sont reconfirm�
 
 Reconfirmés par les lots mais comptés en partie A seulement : offrandes de royaume cumulables (A-190, lot 5), kill rates par carte à 3 fenêtres mélangées (A2, lot 8), « 1 s de chase ≈ 1/3 de gen » (A-267), proxy camp et anti-camp (A-283), protections inactives portes alimentées (A-074) (lot 9).
 
-**Décompte B1 : 49 erreurs prouvées, dont 4 déjà en partie A (n° 1, 9, 11, 41) → 45 nouvelles.** S'y ajoutent les 7 PTB-comme-LIVE nouveaux de B4 (hors Nowhere to Hide) et les 2 cas 2v8 nouveaux de B5.
+**Décompte B1 : 49 erreurs prouvées, dont 4 déjà en partie A (n° 1, 9, 11, 41) → 45 nouvelles.** S'y ajoutent les 7 PTB-comme-LIVE nouveaux de B4 (hors Nowhere to Hide) et les 3 cas 2v8 nouveaux de B5 (Good Guy « très buffé », Mother's Dwelling, 3 soigneurs). **Total des erreurs nouvelles prouvées en partie B : 45 + 7 + 3 = 55.**
 
 ### B2. Imprécisions à impact (valeur non fausse, mais conseil erroné si appliqué à la lettre)
 
@@ -125,7 +125,7 @@ Toutes prouvées par la page wiki complète (et la note officielle quand citée)
 - **Tueurs** : Hillbilly « blessé = moins exposé » (trompeur) · Oni : 9.1.0 = nerf, buff 9.2.0 · Executioner : Final Judgement sur un Tormented déjà en 2e phase · Legion : Deep Wound en pause **en courant** ; le slash remplit toute la jauge · Plague : 1 fontaine corrompue dès le début · Pig : il faut fouiller 1 à 4 boîtes · Skull Merchant : accroupi **ou immobile** ; Hindered 10 % pour un Claw-trapped scanné seulement ; Undetectable 8 s au rappel (9.3.2) omis · Singularity : téléportation = Overheat · Lich : casse de palette en 4 s avec Vorpal Sword omise ; Ring / Pearl = −1 s / −2 s · The First / Slasher : murs **cassables** seulement · Slasher : épinglage seulement si le pic met au sol · Judgment : hotfix 10.1.2a, Heresy, réapparition des exilés ≥ 32 m (10.1.2) omis · Ghoul : marque retirée par le **mend** · Houndmaster : faire **tomber** la palette sur le chien · Onryō : ≤ 16 m de **n'importe quelle** TV allumée · Trickster : 3,86 → 3,53 → 3,16 m/s selon les lames.
 - **Objets** : Anti-Exhaustion Syringe utilisable seulement pendant un soin · Odd Bulb (luminosité visuelle ; aveuglement 1 s fixe) · Dull / Skeleton Key : 1 charge consommée · Unique Wedding Ring : Obsession **initiale** seulement · Chalk Pouch / Salt sous-évalués (Luck = auto-décrochage).
 - **Tiles / cartes** : fenêtre bloquée **après** le 3e vault (pas au 3e) · « god pallet se garde » et « ne jamais partir vers une dead zone » trop absolus · variantes : pas de mode classé, seulement le matchmaking public · liste 9.3.0 incomplète (Haddonfield) · Garden of Joy : paires exclusives RNG présentées comme fixes · Ormond Lake Mine : 3 + 2 **emplacements** de palettes · Mother's Dwelling 188 → 152 (7.4.0).
-- **Macro (lot 9)** : régression stoppée par **5 %** de réparation (7.5.0), pas « brièvement » · règles absolues (qui décroche, un seul altruiste, purifier tout Hex, « soignez vite » contre la Plague).
+- **Macro (lot 9)** : régression stoppée par **5 %** de réparation (7.5.0), pas « brièvement » · règles absolues (qui décroche, un seul altruiste, purifier tout Hex, « soignez vite » contre la Plague) · face camp « inutile au-delà d'environ 20 s » : la jauge se remplit en ≈ 22,5 s à ≤ 4 m, soit ≈ 29,5 s après l'accrochage avec la grâce de 7 s (lot 12 Q3, calcul STRONG_SECONDARY à ±10 % sur la note 529 et l'historique du wiki Resolve).
 
 ### B3. Le seed avait raison (suspicions infirmées — ne pas « corriger »)
 
@@ -170,8 +170,11 @@ Suspicions venues de la mémoire du modèle, de résumés WebSearch obsolètes o
 37. **Rotten Fields / Wreckers' Yard** : le shack contient toujours le sous-sol (page Killer Shack ; audit M02).
 38. **Haddonfield / Lampkin Lane** : hors rotation le 19/01/2026 (FAQ 531), retrait des Custom Games en 9.4.0.
 39. **Ace in the Hole** : 2e add-on ≤ Uncommon à 50/75/100 % (verdict « FAUX » du lot 2 annulé ; seul le 1er emplacement est imprécis, voir B2).
+40. **Rampement 0,7 m/s** constant (ch0_2 l. 230) : la montée à 1,05 m/s affichée par le wiki est le paquet anti-slug du PTB 9.3.0, annulé (notes 523, 529 ; lot 12 Q2, CONFLICT-002 résolu).
+41. **Vitesse de portage 3,68 m/s** (ch0_2 l. 230 ; A-044 était UNCERTAIN) : wiki Movement Speeds (lot 12 Q6, STRONG_SECONDARY).
+42. **Tronçonneuse du Hillbilly : casse de palette en 1 s avec le pouvoir de base** (ch0_2 l. 211) : « Special-break » (note 538) ; LoPro Chains sert seulement à continuer le sprint (lot 12 Q10, CONFLICT-L4G1-05 résolu).
 
-**Décompte B3 : 39 points** (s'ajoutent aux 11 de A3).
+**Décompte B3 : 42 points** (s'ajoutent aux 11 de A3).
 
 ### B4. PTB présenté comme LIVE
 
@@ -197,7 +200,7 @@ Piège pour la suite : **51 des 327 pages de perks du wiki** affichent déjà le
 | Good Guy, Scamper | casse les palettes (9.4.2) | Innate Skill 2v8 ; en 1v4 seulement avec Hard Hat | note 536 (section 2v8) ; wiki — **déjà A5** |
 | Good Guy | « très buffé début 2026 » | les buffs 9.4.2 sont ceux du 2v8 | note 536 |
 | Mother's Dwelling | taille « était 188-200 » | 188 → 152 en 7.4.0 ; 200 = version 2v8 | wiki Mother's Dwelling |
-| Soin coopératif | 3 soigneurs simultanés | l'augmentation à 3 (9.4.2) est rangée **sous la section 2v8** de la note ; 1v4 = 2 selon le wiki | note 536 ; lot 12 Q1 (`batch12_mechanics_open.md`, en cours) — CONFLICT-001, **probable, pas encore tranché** |
+| Soin coopératif (ch0_2 l. 179) | « jusqu'à 3 soigneurs simultanés » | **2 en 1v4** ; 3 seulement en 2v8 (la ligne 9.4.0 PTB / 9.4.2 est rangée sous l'en-tête « 2v8 ») | notes 536 et 533 (PTB 9.4.0) ; wiki Health States ; lot 12 Q1 — CONFLICT-001 / L12-01 **RÉSOLU** (VERIFIED_MULTI_SOURCE) |
 
 ### B6. Décompte final (partie B)
 
@@ -205,7 +208,8 @@ Piège pour la suite : **51 des 327 pages de perks du wiki** affichent déjà le
 |---|---:|---:|
 | Erreurs prouvées (B1) | 49 | 4 (Vigil, Nowhere to Hide, Surge, Good Guy) |
 | PTB présenté comme LIVE (B4) | 8 | 1 (Nowhere to Hide, compté aussi en B1) |
-| 2v8 dans le 1v4 (B5) | 3 prouvés + 1 probable | 1 (Good Guy) |
-| Le seed avait raison (B3) | 39 | — |
+| 2v8 dans le 1v4 (B5) | 4 | 1 (Good Guy, compté aussi en B1) |
+| **Erreurs distinctes prouvées (B1 + B4 + B5, sans doublon)** | **59** | 4 → **55 nouvelles** |
+| Le seed avait raison (B3) | 42 | — |
 
 Les verdicts « PROBABLE » et « SUSPECT » de `BATCH_2_4_SYNTHESIS.md` §2 sont **tous tranchés** : ils sont soit ici (B1, B2, B4), soit dans B3.

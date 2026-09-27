@@ -493,7 +493,7 @@ Détail : `kb/research/batch2_perks_surv_p24.md` (Distortion, Quick & Quiet, Dec
 
 ### 9.3.10 Totems et Boons
 
-**Rappels [FACT] (SS, ch. 2)** : purifier un totem, bénir un totem terne en **14 s** ou un Hex en **28 s** ; une zone de Boon fait **24 m** ; le tueur éteint un Boon en **1 s**. Tous les Boons d'un même joueur partagent **un seul totem** (SS).
+**Rappels [FACT] (SS, ch. 2 et 10)** : purifier un totem ou bénir un totem terne prend **14 s**, bénir un Hex **28 s** ; une zone de Boon fait **24 m** ; le tueur éteint un Boon en **1 s**. Tous les Boons d'un même joueur partagent **un seul totem** (SS).
 
 | Perk | Effet LIVE (valeurs) | Conf. |
 |---|---|---|
@@ -535,7 +535,7 @@ Ces perks transforment du **temps de coffre** en objets ou en progression (Plund
 
 ## 9.4 Archétypes de builds `[Intermédiaire → Avancé]`
 
-> **Tout cette section est [HEURISTIQUE]** : raisonnement à partir des fiches, sans taux de victoire ni donnée d'usage. Les quatre perks d'un archétype ne sont pas testées ensemble ; les listes « contre quoi » et « cas d'échec » ne sont pas exhaustives. Un archétype se choisit selon **votre rôle** dans l'équipe et **votre file** (SoloQ / SWF), puis s'ajuste après chaque partie. Marque **[PTB]** = perk modifiée au PTB 10.2.0 : archétype à revoir à la sortie de 10.2.0. Logique reprise de `kb/deliverables/PERK_DATABASE.md` §4, valeurs reprises des fiches.
+> **Toute cette section est [HEURISTIQUE]** : raisonnement à partir des fiches, sans taux de victoire ni donnée d'usage. Les quatre perks d'un archétype ne sont pas testées ensemble ; les listes « contre quoi » et « cas d'échec » ne sont pas exhaustives. Un archétype se choisit selon **votre rôle** dans l'équipe et **votre file** (SoloQ / SWF), puis s'ajuste après chaque partie. Marque **[PTB]** = perk modifiée au PTB 10.2.0 : archétype à revoir à la sortie de 10.2.0. Logique reprise de `kb/deliverables/PERK_DATABASE.md` §4, valeurs reprises des fiches.
 
 ### 9.4.1 Chase — Lithe · Windows of Opportunity [PTB] · Parental Guidance · Lucky Break
 - **POURQUOI** : Windows montre la prochaine tile sans la chercher ; Lithe convertit un saut rapide en 3 s de +50 % Haste pour l'atteindre. Parental Guidance (5/6/7 s sans traces après un stun) et Lucky Break (sans griffures ni sang quand blessé) cassent la piste après le contact.
@@ -664,7 +664,7 @@ Ces perks transforment du **temps de coffre** en objets ou en progression (Plund
 | Plunderer's Instinct | Auras à 32/48/64 m | Sans limite ; déverrouillage +150/175/200 % |
 | Pharmacy | Déverrouillage +75/100/125 %, Emergency Med-Kit | Bonus étendu à la fouille ; chaque coffre fouillable une fois |
 | Wake Up! | +8/10/12,5 % par survivant vivant (max 32/40/50 %) | +8/9/10 % + 20 % par **autre** survivant vivant (max 68/69/70 %) ; seul, un peu plus lent |
-| Blood Pact | Désactivée si vous êtes l'Obsession | Valeurs inchangées ; si l'Obsession porteuse est accrochée, un autre survivant devient l'Obsession |
+| Blood Pact | Désactivée si vous êtes l'Obsession | Valeurs inchangées ; si vous êtes vous-même l'Obsession et êtes accroché, un autre survivant devient l'Obsession |
 | Self-Preservation | Elusive 20/25/30 s | **Nerf** : 13/14/15 s |
 | Shoulder the Burden | Exposed 60/50/40 s | Blessé + **Broken 160/140/120 s** ; désactivée ensuite pour **tous** les survivants |
 | Borrowed Time | Endurance +6/8/10 s, Haste +10 s au décroché | **Rework** : Deep Wound subi avec Endurance → soin passif (mend) en 40/35/30 s |
