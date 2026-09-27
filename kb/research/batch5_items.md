@@ -1,6 +1,6 @@
 # Lot 5 — Objets, add-ons, offrandes, économie et techniques de save (mission §11)
 
-> **Statut : WRITTEN (vérifié web, 27/09/2026), NON AUDITÉ (§25-26 à faire).**
+> **Statut : WRITTEN + AUDITED (audits adversariaux §25-26 du 27/09/2026, sans web) — voir kb/audit/pass14_lot5_items.md** (rédaction : vérifiée sur pages wiki complètes et notes officielles, 27/09/2026).
 
 - Référence de version : **LIVE 10.1.2a** (17/09/2026). Le **PTB 10.2.0** n'est **pas** LIVE : ses valeurs (Plunderer's Instinct, Pharmacy, Down to the Last…) sont signalées **PTB** et jamais utilisées comme LIVE.
 - Mode : **1v4**. Les objets de départ par classe et les 27 coffres du **2v8** (notes 10.1.2) ne s'appliquent pas au 1v4.
@@ -18,6 +18,10 @@
 | **HEURISTIC** | Règle pratique de joueur, non sourcée |
 | **HYPOTHESIS** | Modèle ou interprétation plausible non confirmée |
 | **UNCERTAIN** | Valeur non trouvée ou sources en désaccord |
+
+**Portée des étiquettes (audit §25)** : **FACT [SS]** = une seule source (page wiki), à recouper au lot 12. Au sens du projet, seules les valeurs présentes aussi dans `kb/seed/audit_phase0.txt` (ou dans une note officielle, [VP] / [VMS]) sont vérifiées. Deux valeurs que l'audit notait faibles ont été relues sur page complète : chance de test 40 %/s avec toolbox (audit : UNCERTAIN ; tableau de la page Skill Checks lu : SS) et portage 3,68 m/s (audit : SS via fandom ; page wiki.gg Hooks : 3,68 m/s).
+
+**PTB 10.2.0 (NON LIVE) touchant ce lot** (note officielle 559, lue en local) : Pharmacy (fouille accélérée + une fouille par coffre), Plunderer's Instinct (auras illimitées, ouverture +150/175/200 %), Down to the Last (trappe sans clé), Slippery Meat (refonte : **plus de Luck**), Iron Grasp (10/11/12 %), Agitation (Haste 14/16/18 %), Dark Arrogance (aveuglements et stuns subis +25 % au lieu de 15 %), Better Than New (coffres +40/45/50 %). Tout le fichier utilise les valeurs **LIVE** ; relire ces lignes à la sortie de la 10.2.0.
 
 Unité économique : **seconde-survivant (s-surv)** = 1 survivant × 1 s. Un gen = 90 s-surv en solo (FACT audit VMS).
 
@@ -40,6 +44,9 @@ Raretés : depuis la refonte 8.7.0, la rareté la plus haute des add-ons s'appel
   - **Overwhelming Presence** (Doctor, refonte 9.1.0) : un survivant qui **commence à utiliser un objet** dans 32 m du tueur devient **Exhausted 15 s**. Le tueur voit alors l'aura du survivant Exhausted le plus proche 2/3/4 s. Cooldown 25 s (FACT [VMS]). Conséquence : sortir une lampe, une Fog Vial ou un kit près de ce tueur **coupe Sprint Burst, Lithe, Dead Hard…**
   - **Franklin's Demise** (Cannibal) : un coup de base fait **tomber l'objet**, dont l'aura est révélée au tueur (32/48/64 m). Depuis 9.1.0, l'objet tombé **ne perd plus ses charges** (FACT [VMS]).
   - Dans 32 m d'Overwhelming Presence : HEURISTIC, n'utilisez l'objet qu'une fois le tueur identifié, ou acceptez l'Exhausted.
+- **Match Details (9.6.0, FACT audit VP)** : en partie, chaque survivant voit le **loadout de ses coéquipiers** (perks, objets, add-ons, offrandes non secrètes). Le loadout **du tueur** reste caché jusqu'à la fin de la partie.
+  - Conséquence SoloQ (HEURISTIC) : on peut savoir qui porte une lampe, une clé, une toolbox ou un kit, et jouer autour (ne pas doubler un save, garder la trappe pour le porteur de clé, demander un soin au porteur de kit). C'est la seule « coordination » d'objets possible sans voix.
+  - Conséquence contre le tueur : **Lightborn, Franklin's Demise, Overwhelming Presence ne se voient pas avant d'être subis**. Il faut les déduire en partie (`deliverables/PERK_DEDUCTION.md`).
 
 ---
 
@@ -72,37 +79,37 @@ Toutes les valeurs : FACT [SS] (pages Items + Toolboxes, lues en entier).
 | Add-on | Rareté | Effet | Change la décision ? |
 |---|---|---|---|
 | Clean Rag | Common | +20 % de vitesse de réparation à la toolbox | Non (vitesse brute) |
-| Instructions | Common | **Supprime les tests de réparation normaux** (pas les tests spéciaux) | **Oui** : plus de raté possible (utile contre Doctor, Huntress Lullaby, Unnerving Presence, Overcharge… HEURISTIC), mais **plus aucun Great** : incompatible avec Hyperfocus, Stake Out, Fast Track, Specialist |
+| Instructions | Common | **Supprime les tests de réparation normaux**. Ne touche **pas** aux « special Skill Checks triggered by outside effects » (FACT [SS], page Instructions) | **Oui** : plus de raté possible sur les tests normaux. Utile contre ce qui **modifie** les tests normaux (Unnerving Presence, Huntress Lullaby : HYPOTHESIS déduite du texte). **Inutile** contre les tests **spéciaux** : Overcharge, Oppression, Merciless Storm (listés comme tests à part sur la page Skill Checks, FACT [SS]). Doctor : les Madness Skill Checks sont un type à part, effet d'Instructions **UNCERTAIN**. Coût : **plus aucun Great** (≈ +5 s de gain perdu par Commodious, §4.3) ; incompatible avec Hyperfocus, Stake Out, Fast Track, Specialist |
 | Scraps | Common | +8 charges | Non |
 | Cutting Wire | Uncommon | +20 % de vitesse de sabotage | Non |
 | Protective Gloves | Uncommon | **Supprime la Loud Noise Notification** du sabotage | **Oui** : le tueur n'apprend plus le sabotage, il marche vers un crochet cassé |
 | Socket Swivels | Uncommon | +30 % de vitesse de réparation | Non |
 | Spring Clamp | Uncommon | −8 m de portée des bruits de réparation | Faible (stealth) |
 | Wire Spool | Uncommon | +12 charges | Non |
-| Grip Wrench | Rare | +20 s avant la réparation automatique du crochet saboté (30 → 50 s) | **Oui** : un sabotage « tient » tout un portage |
+| Grip Wrench | Rare | +20 s avant la réparation automatique du crochet saboté (30 → 50 s) | **Oui**, mais pas pour la raison intuitive : 30 s couvrent **déjà** un wiggle complet (16 s). Les 20 s de plus servent à **saboter avant le ramassage** (pendant la chase) ou à couvrir un portage long (lâchers, reprise) (HEURISTIC) |
 | Hacksaw | Rare | +30 % de vitesse de sabotage | Non |
 | Brand New Part | Visceral | Action dédiée près d'un gen : **un test difficile** ; réussi, il retire **définitivement 10 charges** au besoin de ce gen. Consommé | **Oui** (voir usage) |
 
 **Brand New Part : détails** (FACT [SS]) : test « Always (1x) », zone Great de 7 %, pas de zone Good distincte ; raté = −10 % de progression. Historique : insta-complétion (avant 1.5.3), puis +15 %/+25 % (2.1.0), puis −10 charges (7.1.0).
 - CALC : −10 charges = **10 s-surv** (11,1 % d'un gen).
-- HEURISTIC : posez-le **sur un gen à 0 %**. Un raté y coûte −10 % de rien, donc aucun risque. Sur un gen avancé, un raté coûte jusqu'à 9 charges.
+- HEURISTIC : posez-le **sur un gen peu avancé que l'équipe va vraiment finir**. À 0 %, un raté ne coûte aucune progression ; sur un gen avancé, il coûte jusqu'à 9 charges. Risques qui restent (pas « aucun risque ») : un test raté est **probablement** un bruit fort comme tout test de réparation raté (HYPOTHESIS, non indiqué sur la page) ; le bonus est **perdu** si ce gen n'est jamais terminé (abandonné, ou gen d'un 3-gen que le tueur tient).
 
 **Perks qui changent la toolbox** :
-- Built to Last (LIVE) : dans un casier avec un objet **vide**, recharge après **12/10/8 s** : 99 %, puis 66 %, puis 33 %, 3 fois max (FACT [SS]).
+- Built to Last (LIVE) : dans un casier avec un objet **vide**, recharge après **14/12/10 s** (FACT [VP], note officielle 9.1.0, section « Changes from PTB » : « Increased the time spent in a locker to 14/12/10 seconds (was 12/10/8) ») : 99 %, puis 66 %, puis 33 %, 3 fois max (FACT [SS]). La page wiki affiche 12/10/8 s, valeur du **PTB** 9.1.0 (CONFLICT-P25-04, `batch2_perks_surv_p25.md`).
 - Scavenger : 5 Great avec une toolbox vide = recharge complète, mais −50 % de réparation pendant 40/35/30 s (FACT [SS]).
 - Change of Plan (9.4.0) : dans un casier, transforme une toolbox (non-événement) en Med-Kit de même rareté avec un add-on aléatoire, 80/90/100 % des charges, 2 jetons (FACT [VMS]).
 - Streetwise (refonte 9.1.0) : les objets **trouvés dans un coffre** ont +60/70/80 % de charges permanentes. Aura du tueur 8 s au premier épuisement (FACT [VMS]).
 
 **Usage optimal** (HEURISTIC) :
-- Réparer seul un gen que personne d'autre ne touche : la toolbox n'ajoute pas de pénalité de groupe.
-- Garder 3-5 s de charges pour **finir** un gen quand le tueur arrive.
+- Les gains chiffrés de la toolbox (§4.3) sont calculés **en réparation solo**. En coop (efficacité 85/70/55 % par personne, FACT audit SS), on ne sait pas si le bonus de la toolbox s'applique avant ou après la pénalité : gain réel **UNCERTAIN**. Ne pas en déduire « toujours réparer seul » : la coop finit un gen plus vite à l'horloge, ce qui compte quand le tueur arrive.
+- Garder 3-5 s de charges pour **finir** un gen quand le tueur arrive (CALC Commodious à 1,5 c/s : 4,5 à 7,5 charges, soit 5-8 % d'un gen).
 - En SWF sabo : Alex's + Grip Wrench + Protective Gloves (ou Hacksaw).
 
 **Erreurs fréquentes** (HEURISTIC) :
 - Instructions avec Hyperfocus / Stake Out (le seed le signale correctement).
-- Toolbox près d'un tueur à pénalité de test (Unnerving Presence, Lullaby, Overcharge) : 40 %/s de tests = 5 fois plus d'occasions de rater, chaque raté est un bruit fort.
+- Toolbox près d'un tueur à pénalité de test (Unnerving Presence, Lullaby) : 40 %/s de tests = 5 fois plus de tests **par seconde** (≈ 3,3 fois plus **à progression égale**, CALC : la toolbox réduit aussi la durée), chaque raté est un bruit fort. Parade : Instructions (tests normaux seulement) ou une autre toolbox d'objet.
 - Brand New Part posée sur un gen à 70 % : risque maximal, gain identique.
-- Built to Last « en rotation » (voir §4.3 : le gain net est faible hors situation de cachette).
+- Built to Last « en rotation » (voir §4.3 : avec les 14/12/10 s LIVE, le gain net est **nul ou négatif** hors situation de cachette).
 
 **Valeur** (HEURISTIC) : SoloQ **haute** (la réparation est l'objectif, aucune coordination requise). SWF **haute** (gen rush, sabotage).
 

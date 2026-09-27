@@ -1,6 +1,6 @@
 # Lot 7 — Théorie des loops, catalogue des tiles et connectivité (mission §5 et §6)
 
-> **Statut : WRITTEN (27/09/2026), non audité.** Structure de fichier conforme à `kb/research/AGENT_BRIEF.md`.
+> **Statut : WRITTEN + AUDITED (audits adversariaux §25-26 du 27/09/2026, sans web) — voir kb/audit/pass14_lot7_tiles.md**. Structure de fichier conforme à `kb/research/AGENT_BRIEF.md`. Relecture d'audit : pages wiki relues via `kb/tools/wiki_text.py` (Pallets, Windows, Maze Tiles, The Lich) et `kb/sources/wiki_killers/*`, notes officielles archivées 10.1.1 (557), 9.3.2 (530), 9.5.0 (538), 9.6.0 (544), PTB 10.2.0 (559).
 
 - Référence de version : **LIVE 10.1.2a** (17/09/2026). Le **PTB 10.2.0** n'est **pas** LIVE : plusieurs pages wiki lues affichent déjà des descriptions 10.2.0 (Resilience, Dark Arrogance, Fire Up, Superior Anatomy, Unbound, Game Afoot). **Leurs valeurs ne sont pas utilisées ici.**
 - Mode : **1v4 uniquement** (le 2v8 utilise des cartes agrandies ; rien ici ne s'y applique tel quel).
@@ -16,7 +16,7 @@
 | Étiquette | Sens |
 |---|---|
 | **FACT [PN x.y.z]** | Texte de note de patch officielle BHVR lu (VERIFIED_PRIMARY) |
-| **FACT [W]** | Page wiki.gg lue en entier le 27/09/2026 (STRONG_SECONDARY) |
+| **FACT [W]** | Page wiki.gg lue en entier le 27/09/2026 (STRONG_SECONDARY, **source unique** : ces valeurs ne figurent pas dans l'audit phase 0 sauf mention « audit » ; elles restent à trianguler au lot 12. Le mot FACT désigne ici la **nature** — mécanique du jeu — pas un niveau de vérification) |
 | **FACT [W+PN]** | Les deux concordants (VERIFIED_MULTI_SOURCE) |
 | **FACT [audit : …]** | Valeur reprise de l'audit phase 0 / lot 6 |
 | **CALC** | Arithmétique sur des FACT ; ordre de grandeur, lignes droites, vitesses constantes |
@@ -48,12 +48,12 @@ C'est la correction la plus importante du seed : il présente comme propriétés
 | Vault tueur (fenêtre) | 1,7 s par défaut | FACT [W Windows] |
 | Saisie (grab) | Un survivant peut être saisi en plein vault (fenêtre ou palette ; pour la palette le wiki précise « Injured ») | FACT [W Windows, Pallets] |
 | Palette : casse | 2,34 s ; caméra du tueur basculée vers le bas pendant l'animation | FACT [W Pallets] + audit VMS |
-| Palette : stun | 2 s, appliqué quand la palette est abaissée à ~50 % ; depuis 5.2.0, pas de stun si le tueur est **du même côté** que le survivant | FACT [W Pallets] |
+| Palette : stun | 2 s, appliqué quand la palette est abaissée à ~50 % ; depuis 5.2.0, pas de stun si le tueur est **du même côté** que le survivant. Modificateurs : Enduring −40/45/50 % (audit SS) ; Krasue en Head Form **2,5 s** (+25 %, FACT [W page Krasue]) | FACT [W Pallets] ; audit SS (2 s, Enduring) |
 | Palette : vault survivant | Rapide 1,1 s (bruyant), lent 2 s (silencieux) | FACT [W Pallets] |
 | Espacement des palettes | Emplacements prédéfinis, au moins **14, 16, 18 ou 20 m** entre deux palettes (exceptions, ex. Midwich) | FACT [W Pallets] (voir CONFLICT-L7-02) |
 | Double palette | Supprimée en 1.5.1 sur les structures à plusieurs emplacements possibles | FACT [W Pallets, historique] |
 | Murs cassables | Tueur seulement, 2,34 s ; la plupart des effets de casse de palette s'y appliquent ; le survivant ne peut rien en faire | FACT [W Breakable Walls] + audit VMS |
-| Bloodlust | +0,2 / +0,4 / +0,6 m/s à 15 / 25 / 35 s de poursuite active ; perdue en cassant une **palette**, en touchant, en utilisant le pouvoir | FACT [W Bloodlust] + audit VMS |
+| Bloodlust | +0,2 / +0,4 / +0,6 m/s à 15 / 25 / 35 s de poursuite active ; perdue en cassant une **palette**, en touchant, en utilisant **certains** pouvoirs (liste du wiki, non recopiée ici) ; perte par stun : **UNCERTAIN** | Paliers : audit VMS ; pertes : audit SS |
 | Bloodlust et fente | Depuis 1.5.0 la fente ignore le bonus de Bloodlust | FACT [W Bloodlust, historique] |
 | Bloodlust et mur cassable | Le wiki ne cite que la **palette** : effet d'une casse de mur sur la Bloodlust **UNCERTAIN** | — |
 | Fin de poursuite | > 18 m ; 5 s dans un casier ; LOS perdue > 8 s ; hors ±35° du centre du FOV (87° par défaut) | FACT [W Chase] + audit SS |
@@ -102,10 +102,16 @@ Conséquence pratique (HEURISTIC) : les connaissances de tiles antérieures à f
 
 ### 2.1 Une loop = deux trajets et des « portes »
 
-Une loop existe quand le survivant dispose d'un **trajet fermé** autour d'un obstacle opaque ou non franchissable, et que ce trajet contient au moins une **porte asymétrique** : un passage que le survivant franchit plus vite que le tueur (fenêtre : 0,5 s contre 1,7 s ; palette baissée : 1,1 s contre « impossible » sauf exceptions, ou 2,34 s de casse). CALC de base (lot 6 T11) :
+Une loop existe quand le survivant dispose d'un **trajet fermé** autour d'un obstacle opaque ou non franchissable, et que ce trajet contient au moins une **porte asymétrique** : un passage que le survivant franchit plus vite que le tueur (fenêtre : 0,5 s contre 1,7 s ; palette baissée : 1,1 s contre « impossible » pour la plupart des tueurs, ou 2,34 s de casse). **Exceptions à « impossible »** : Legion (Frenzy), Mastermind (Virulent Bound), Ghoul (Kagune Leap), Good Guy (Scamper 1 s sous une palette baissée **ou par-dessus une fenêtre**, pendant Slice & Dice), Krasue en Head Form (vault de palette 1,9 s, de fenêtre 1,67 s) — FACT [W Pallets + pages tueurs] ; contre eux la porte « palette baissée » est beaucoup moins asymétrique.
 
-- la loop tient tant que `trajet_S × v_K / 4,0 < trajet_K − portée de fente` (portée utile de la fente : ~2-2,5 m, **UNCERTAIN**), avec `v_K` = 4,6 ou 4,4 m/s + Bloodlust ;
-- en clair : le trajet du tueur doit dépasser celui du survivant de **15 %** (4,6) ou **10 %** (4,4), **plus** la fente, **plus** ~0,2 m par seconde de trajet et par palier de Bloodlust.
+**Condition de loop sûre — à écrire en TEMPS (CALC, cohérente avec lot 6 T11 et l'audit pass 14 P03, précisée ici)** : tu dois avoir **fini** de franchir la porte avant que le tueur soit en portée de fente :
+
+`trajet_S / 4,0 + t_porte_S  <  (trajet_K − fente) / v_K + t_porte_K`
+
+- `t_porte_S` = temps où **tu es immobile** dans la porte : fast vault 0,5 s ; medium 0,9 s ; vault de palette 1,1 s ; drop de palette : durée **UNCERTAIN (INV)**. `t_porte_K` = 0 s'il contourne, 1,7 s s'il te suit par la fenêtre, 2,34 s s'il casse. `v_K` = 4,6 ou 4,4 m/s + Bloodlust. Fente utile ~2-2,5 m (**UNCERTAIN**).
+- En distance (multiplier par `v_K`) : le trajet du tueur doit dépasser celui du survivant de **15 %** (4,6) ou **10 %** (4,4), **plus** la fente, **plus** ~0,2 m par seconde de trajet et par palier de Bloodlust, **plus** `v_K × t_porte_S` : ≈ **2,3 m** pour un fast vault (2,2 m contre un 4,4), ≈ **4,1 m** pour un medium vault, ≈ **5,1 m** pour un vault de palette (4,8 m contre un 4,4).
+- Exemple (CALC) : ton trajet 10 m jusqu'à la fenêtre + fast vault ; son trajet de contournement 14 m ; fente 2,5 m ; tueur 4,6 sans Bloodlust → toi 2,5 + 0,5 = **3,0 s** ; lui (14 − 2,5) / 4,6 = **2,5 s** → **pas sûr**. Sans compter le vault (2,5 s contre 2,5 s), la même boucle paraissait « limite ». Il faudrait ≥ 3,0 × 4,6 + 2,5 ≈ **16,3 m** de trajet pour lui (≈ 15,7 m contre un 4,4).
+- Oublier `t_porte_S` (comme le faisait la version non auditée de ce fichier, et comme la formule du lot 6 T11 qui ne compte que l'arrivée au point de sécurité) **surestime** la sécurité de toutes les boucles de 2 à 5 m de trajet tueur : c'est l'écart entre une fenêtre « safe » et une fenêtre où l'on prend le coup en plein vault.
 
 ```
       trajet du survivant (court)            trajet du tueur (long)
@@ -118,7 +124,7 @@ Une loop existe quand le survivant dispose d'un **trajet fermé** autour d'un ob
 
 ### 2.2 Sens optimal, mauvais sens (définition générale)
 
-- **Sens optimal** (HEURISTIC) : le sens de rotation où tu arrives sur la porte **après** avoir longé le mur le plus long et le plus haut, avec le tueur **derrière** toi et **sans** raccourci pour lui. Tu atteins la fenêtre avec ≥ 2,5 m de course droite (fast vault garanti) et la sortie de la fenêtre te mène vers la suite du cycle ou vers la tile suivante.
+- **Sens optimal** (HEURISTIC) : le sens de rotation où tu arrives sur la porte **après** avoir longé le mur le plus long et le plus haut, avec le tueur **derrière** toi et **sans** raccourci pour lui. Tu atteins la fenêtre avec ≥ 2,5 m de course droite (fast vault **attendu** : l'angle toléré est UNCERTAIN, audit INV) et la sortie de la fenêtre te mène vers la suite du cycle ou vers la tile suivante.
 - **Mauvais sens** : le sens où le tueur peut atteindre **la sortie** de la porte avant toi en coupant par l'intérieur (ou par-dessus un mur bas), ou où tu arrives sur la fenêtre **en angle** (medium vault 0,9 s, plus de corps exposé : FACT [W]).
 - Règle de choix (HEURISTIC) : le sens optimal dépend de **où est le tueur**, pas d'une orientation fixe ; le seed « serpenter dans le sens horaire » est donc faux comme règle (orientation RNG).
 
@@ -127,11 +133,11 @@ Une loop existe quand le survivant dispose d'un **trajet fermé** autour d'un ob
 | Horloge | Ce qui se passe | Nature |
 |---|---|---|
 | Compteur de fenêtre | 3 vaults par fenêtre et par poursuite, puis 30 s de blocage (pour toi seul) | FACT [W] |
-| Bloodlust | Paliers à 15 / 25 / 35 s sans reset ; la casse d'une palette la remet à 0 | FACT [W] |
+| Bloodlust | Paliers à 15 / 25 / 35 s sans reset ; la casse d'une palette, un coup porté ou certains pouvoirs la remettent à 0 ; un stun : UNCERTAIN (ne pas compter dessus) | audit VMS / SS |
 | Lecture du tueur | Après 1-2 cycles, le tueur connaît tes habitudes (même sens, même double-back) | HEURISTIC |
 | Palette | Levée = menace (le tueur respecte ou prend un stun) ; baissée = porte asymétrique jusqu'à la casse | FACT (mécanique) + HEURISTIC (valeur) |
 
-« Budget » d'une tile (CALC) : une tile à **une** fenêtre offre au plus 3 vaults à toi par poursuite ; une tile à **deux** fenêtres (L-T walls) jusqu'à 6 ; une tile fenêtre + palette offre 3 vaults + 1 drop + des vaults de palette jusqu'à la casse. Le temps réellement gagné dépend de ce que le tueur fait (il ne suit pas une fenêtre qu'il peut contourner) : ne jamais convertir ce budget en secondes sans regarder son trajet.
+« Budget » d'une tile (CALC) : une tile à **une** fenêtre offre 3 vaults à toi avant 30 s de blocage (puis **1 seul** vault par fenêtre de 30 s tant que tu la revaultes dans les 30 s suivant chaque déblocage, FACT [W Windows]) ; le compteur devrait repartir à zéro dans une **nouvelle** poursuite après le tampon de 5 s (déduit de « same Chase sequence », non écrit tel quel : HYPOTHESIS) ; une tile à **deux** fenêtres (L-T walls) jusqu'à 6 avant blocage ; une tile fenêtre + palette offre 3 vaults + 1 drop + des vaults de palette jusqu'à la casse. Le temps réellement gagné dépend de ce que le tueur fait (il ne suit pas une fenêtre qu'il peut contourner) : ne jamais convertir ce budget en secondes sans regarder son trajet.
 
 ---
 
@@ -142,14 +148,14 @@ Une loop existe quand le survivant dispose d'un **trajet fermé** autour d'un ob
 | Catégorie | Définition opérationnelle proposée | Test pratique (se poser la question) | Ce que le tueur « doit » faire |
 |---|---|---|---|
 | **God** (tile ou palette) | Même si le tueur joue parfaitement (coupe, attend, fausse avance), il **ne peut pas** atteindre la portée de fente avant que tu franchisses la porte, **et** la porte reste utilisable après usage (fenêtre avec cycle long ; palette dont la loop **baissée** reste forte). Limites externes seulement : blocage de fenêtre, Bloodlust II-III, pouvoir | « Si je le lis mal, est-ce que je prends quand même zéro coup ? » → oui | Casser, attendre le blocage, ou partir (abandon) |
-| **Safe** | Tu atteins la palette **avant** qu'il soit en portée de fente, par tous ses trajets ; il doit **respecter** la palette levée ou la casser une fois baissée ; un mindgame est possible **seulement** s'il accepte le risque de stun | « Peut-il me toucher avant la palette s'il prend le plus court chemin ? » → non | Respecter, feinter pour provoquer un drop précoce, casser |
+| **Safe** | Tu atteins la palette **et finis de la baisser** (durée de drop UNCERTAIN) **avant** qu'il soit en portée de fente, par tous ses trajets (test en temps, §2.1) ; il doit **respecter** la palette levée ou la casser une fois baissée ; un mindgame est possible **seulement** s'il accepte le risque de stun | « Peut-il me toucher avant la palette s'il prend le plus court chemin ? » → non | Respecter, feinter pour provoquer un drop précoce, casser |
 | **Mindgame** (« pseudo-safe » du seed) | L'issue dépend d'une **prédiction** (50/50) : il existe au moins un trajet du tueur qui gagne contre chacun de tes choix | « Mon choix est-il sûr quelle que soit sa direction ? » → non | Jouer la lecture, varier |
 | **Unsafe** | S'il ne respecte pas la palette, il te touche **avant** ou **pendant** l'usage ; la palette n'a de valeur qu'en **pre-drop** (distance) ou en stun sur un tueur trop agressif | « Si je greed un cycle, est-ce que je prends un coup ? » → oui | Ne pas respecter, forcer le pre-drop |
 | **Dead zone** | Zone d'où **aucune ressource** (palette, fenêtre, LOS utilisable) n'est atteignable avant d'être rattrapé, compte tenu de l'écart actuel | Voir le calcul ci-dessous | Rien : il te rattrape en ligne droite |
 
 ### 3.1 La dead zone est relative à ton avance (CALC)
 
-Distance maximale que tu peux courir avant d'être rattrapé en terrain ouvert : `D_max ≈ 4,0 × (écart − fente) / v_r` (v_r = vitesse de rapprochement, lot 6 §2.1). Avec une fente utile de 2,5 m (UNCERTAIN) :
+Distance maximale que tu peux courir avant d'être rattrapé en terrain ouvert : `D_max ≈ 4,0 × (écart − fente) / v_r` (v_r = vitesse de rapprochement, lot 6 §2.1). Avec une fente utile de 2,5 m (UNCERTAIN). Hypothèses : ligne droite, **palier de Bloodlust constant pendant la course** (en réalité il peut monter en route : la colonne du palier suivant donne alors la borne prudente), et **sans** le temps d'utilisation de la ressource à l'arrivée (retirer `v_K × t_porte_S`, §2.1 : ≈ 2,3 m pour un fast vault) :
 
 | Écart réel au départ | 4,6 sans BL (v_r 0,6) | 4,6 BL II (1,0) | 4,6 BL III (1,2) | 4,4 sans BL (0,4) | 4,4 BL III (1,0) |
 |---|---|---|---|---|---|
@@ -161,7 +167,7 @@ Distance maximale que tu peux courir avant d'être rattrapé en terrain ouvert :
 
 Lecture (HEURISTIC) :
 - Une zone n'est pas « morte » dans l'absolu : **elle l'est pour toi, maintenant**, si la prochaine ressource est plus loin que `D_max`.
-- Comme deux **palettes** sont à ≥ 14-20 m l'une de l'autre (FACT [W]), une transition palette → palette (14-20 m) demande au minimum ≈ 6-8,5 m d’écart contre un 4,6 avec Bloodlust II-III (2,5 + v_r × D / 4). C'est pourquoi on quitte une tile **pendant** une casse (+9,4 m, lot 6 §2.3) ou un stun, pas après.
+- Comme deux **palettes** sont à ≥ 14-20 m l'une de l'autre (FACT [W]), une transition palette → palette (14-20 m) demande au minimum ≈ 6-8,5 m d’écart contre un 4,6 avec Bloodlust II-III (2,5 + v_r × D / 4). C'est pourquoi, **quand l'écart manque**, on quitte une tile de préférence **pendant** une casse (+9,4 m, lot 6 §2.3) ou un stun plutôt qu'après (HEURISTIC) ; avec un écart déjà suffisant (table 6.3), partir à un autre moment reste correct, et un départ toujours calé sur la casse devient lisible pour un bon tueur (il peut refuser de casser).
 - **Dead zone structurelle** (vocabulaire, HEURISTIC) : zone où aucune ressource n'existe dans un rayon de ~30-40 m ; 9.2.0 a cherché à les réduire (FACT [PN 9.2.0]) mais la randomisation peut encore en créer.
 - **Zone consommée** : zone qui avait des ressources mais dont les palettes sont cassées et les fenêtres bloquées **pour toi** (compteur personnel !). Une fenêtre bloquée pour toi reste ouverte pour un allié (FACT [W]).
 

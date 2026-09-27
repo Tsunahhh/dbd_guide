@@ -1,5 +1,9 @@
 # Lot 8 — Cartes (mission §7 MAP KNOWLEDGE, §29 audit de couverture par carte)
 
+> **Statut : WRITTEN + AUDITED (audits adversariaux §25-26 du 27/09/2026, sans web) — voir kb/audit/pass14_lot8_maps.md**
+> Mode : **1v4 uniquement** (le 2v8 est isolé en §1.5 ; aucun conseil de ce fichier ne s'y applique tel quel).
+> Portée des étiquettes (audit M25) : **aucun** contenu de carte (structures, tailles, gens fixes) ne figure dans `kb/seed/audit_phase0.txt` ; seuls la règle des offrandes (20 %, non cumulables) et la liste 9.2.0 y sont vérifiées. « FACT » signifie ici **documenté** (page wiki lue en entier et/ou note officielle) : sa solidité réelle est la **confiance** indiquée par fiche (STRONG_SECONDARY = wiki seul, jamais recoupé en jeu).
+
 > Référence : **LIVE 10.1.2a (17/09/2026)** · date de travail 27/09/2026 · PTB 10.2.0 **non LIVE** (aucun changement de carte hors bugfix dans ses notes, KB 559 [16]).
 > Sources lues **en texte complet** : wiki officiel (API MediaWiki deadbydaylight.wiki.gg, pages « Realms », 44 pages de cartes + Lampkin Lane + RPD original, 20 pages de royaume, Maze Tiles, Killer Shack, Basement, Hills, Sacrificial Tree, Harvester, 2v8) et notes de patch BHVR archivées (`kb/sources/patches/official_*.txt`). Module wiki `Datatable.lua` (table `maps`) et `Maps.lua` archivés.
 > Pas de VOD, pas de NightLight (403), pas de reddit : **aucun kill rate** n'est donné (aucune fenêtre unique datée avec n n'a pu être lue). Voir §6.
@@ -13,13 +17,14 @@
 - **FACT** — « Minor tiles can be placed and rotated randomly, whereas major tiles with large structures tend to remain in the same location. Most Map tiles come in one of three sizes: 16x16, 16x32, or 32x32 metres. » (wiki Realms [1]). → Le **bâtiment principal (main)** et les **landmarks** sont à un emplacement **généralement** constant ; leur **contenu** varie (voir « potentially contains » dans chaque fiche).
 - **FACT** — Maze Tiles (jungle gyms) : « They always spawn in the same general location of a Map, however, the chosen iteration may change between Trials » [17]. Donc : **zone** du gym ≈ stable, **type** (long wall, short wall, L-T, 4-lane…) = RNG.
 - **FACT** — 9.2.0 : « Updated all Realms to draw from the same pool of available maze tile layouts » (KB 523 [4]). ⚠️ Les exclusivités de gyms par royaume encore listées sur la page wiki Maze Tiles (Locker Gym = Red Forest/Ormond, pas de 4-lane à Coldwind/Withered Isle, etc.) **datent d'avant 9.2.0** et sont **possiblement périmées** (UNCERTAIN — la formule « layouts » est ambiguë : dispositions ou types ?). Le seed les reprend comme vérités → voir écarts.
-- **FACT** — Sous-sol (Basement) : toujours 4 crochets indestructibles sur un pilier central, 6 casiers, 1 coffre garanti, une seule entrée (wiki Basement, 6.4.0 : +2 casiers) [17]. Il apparaît soit dans le **Killer Shack**, soit dans le **main / un landmark** (« potentially contains the entrance to the Basement » sur presque toutes les cartes). Exceptions fixes documentées : **The Game** (escalier toujours derrière la Bathroom), **Wreckers' Yard** (toujours dans le shack central).
+- **FACT** — Sous-sol (Basement) : toujours 4 crochets indestructibles sur un pilier central, 6 casiers, 1 coffre garanti, une seule entrée (wiki Basement, 6.4.0 : +2 casiers) [17]. Il apparaît soit dans le **Killer Shack**, soit dans le **main / un landmark** (« potentially contains the entrance to the Basement » sur presque toutes les cartes). Exceptions fixes documentées : **The Game** (escalier toujours derrière la Bathroom), **Wreckers' Yard** et **Rotten Fields** (toujours dans le Killer Shack, « as there are no other Landmarks on those Maps » — page Killer Shack [17] ; concorde avec le lot 7 §1.2). Emplacement **restreint à 2 options** : Treatment Theatre (Treatment Room ou Library), Underground Complex (2 emplacements, dont un dans le Rift Lab), RPD (2 emplacements sur le RPD original).
 - **FACT** — Cartes **sans Killer Shack** : Lampkin Lane (retirée), Treatment Theatre, The Game, The Underground Complex, Midwich Elementary School, Raccoon City Police Station (East/West), Nostromo Wreckage [17]. Dead Dawg Saloon a un shack western avec **mur cassable** [17].
 - **FACT** — Cartes **sans Maze Tiles** : Lampkin Lane, Badham Preschool, Treatment Theatre, The Underground Complex, RPD East Wing, RPD West Wing [17]. The Game est la seule carte **100 % intérieure** avec maze tiles [2].
 - **FACT** — Collines (Hills) absentes de : Shelter Woods, Lampkin Lane, Treatment Theatre, Badham, The Game, Underground Complex, Dead Dawg Saloon, Midwich, RPD, Garden of Joy, Shattered Square, Toba Landing, Nostromo Wreckage [17].
 - **FACT** — Taille : **aucune mesure officielle** ; les tailles sont mesurées par le wiki (segments de mur extérieur de 8 m ; 1 sqT = 8×8 m = 64 m²) ; les cartes intérieures (RPD) ne sont pas mesurées [1]. Le « tile » du seed (« 1 tile = 8×8 m ») confond l'unité wiki sqT avec les vraies tuiles de génération (16×16 à 32×32 m) → IMPRÉCIS.
-- **FACT** — Sélection : 8.5.0 = Realm Repeat Prevention (même royaume deux fois de suite : chance nulle) [1] ; **9.6.0 : « Map weighting has been adjusted in order for maps to have an equal chance of spawning - Realm Repeat Prevention remains in effect »** (KB 544 [10]) ; offrandes de royaume/carte : chance fixée à 20 %, non cumulables depuis 9.0.0 (déjà vérifié par l'audit phase 0 ; wiki : « to 20 % » [19]).
-- **FACT** — Achievements « réparer le gen dans X et s'échapper » ⇒ X contient un gen **fixe** (utile pour savoir quels gens sont garantis) [2].
+- **FACT** — Sélection : 8.5.0 = Realm Repeat Prevention (même royaume deux fois de suite : chance nulle ; royaumes **récemment** joués : chance « unlikely, but not zero ») [1] ; **9.6.0 : « Map weighting has been adjusted in order for maps to have an equal chance of spawning - Realm Repeat Prevention remains in effect »** (KB 544 [10]) ; offrandes de royaume/carte : chance fixée à 20 %, non cumulables depuis 9.0.0 (déjà vérifié par l'audit phase 0 ; wiki : « to 20 % » [19] ; une offrande de **royaume** choisit ensuite une carte au hasard dans ce royaume, sauf royaume à carte unique et offrandes de carte de Dvarka [1]).
+- **CALC (approximation, audit M22)** — Avec une chance égale par carte (9.6.0) et sans offrande, chaque carte ≈ 1/44 ≈ **2,3 %** par partie, et un royaume sort en proportion de son nombre de cartes : MacMillan, Autohaven, Coldwind ≈ 5/44 ≈ **11,4 %** chacun ; Withered Isle 4/44 ≈ 9,1 % ; royaumes à 2 cartes ≈ 4,5 % ; royaumes à carte unique ≈ 2,3 %. La Realm Repeat Prevention déforme ces valeurs d'une partie à l'autre (valeurs exactes **non publiées**). Conséquence pratique (HEURISTIC) : les 15 cartes de MacMillan/Autohaven/Coldwind représentent ≈ 1/3 des parties → à apprendre en premier ; on ne peut pas enchaîner deux parties publiques sur le même royaume → apprendre une carte précise se fait en **Custom Game** (variante I).
+- **HEURISTIC (inférence, audit M08)** — Achievements « réparer le gen dans X et s'échapper » ⇒ X contient très probablement un gen **fixe** (sinon l'achievement serait parfois impossible) ; pour les cartes citées ici, la page wiki confirme séparément « contains a Generator » [2]. Ce n'est pas une règle documentée du jeu.
 - **HEURISTIC** — Tout ce qui n'est pas marqué « contains » (fixe) sur le wiki doit être traité comme **possible, pas garanti** : coffre, totem, crochet, palette annexe, sous-sol.
 
 ---
@@ -89,7 +94,8 @@ Taille = variante en rotation (sqT wiki ; ×64 = m²). « Patch » = sortie de l
 
 Notes de la table :
 - « Shack oui » = non listée parmi les exceptions de la page Killer Shack [17] ; pour Badham, confirmé par la note 2.5.0 (« if the Basement spawned in the Killer Shack ») [2]. Pour Trickster's Delusion, confirmé par la page de la carte (« Market … with an adjacent Killer Shack »).
-- Plus grandes cartes LIVE : Shelter Woods I et Azarov's Resting Place I (176). Plus petite : Treatment Theatre (98), puis Midwich (113,5), Fallen Refuge (128) [1]. Moyenne wiki 146 sqT (inclut variantes) [1].
+- Plus grandes cartes LIVE : Shelter Woods I et Azarov's Resting Place I (176). Plus petite **parmi les cartes mesurées** : Treatment Theatre (98), puis Midwich (113,5), Fallen Refuge (128) [1] — RPD East/West et Trickster's Delusion ne sont pas mesurées. Moyenne wiki 146 sqT (inclut variantes) [1] ; **CALC (audit M27)** sur les 41 cartes LIVE mesurées de la table : moyenne ≈ 148 sqT, médiane 152 sqT.
+- ⚠️ Limites de la mesure (FACT, wiki Realms [1]) : la surface « disregards all structures placed within it that reduce the actual playable size » ; pour les cartes à étages, le wiki **additionne** les niveaux. L'emprise au sol est donc bien plus petite que le total pour The Game (76 sqT au niveau le plus grand), Midwich (64) et Forgotten Ruins (92 en surface) — à en tenir compte avant toute conclusion « grande / petite » (voir §3.0).
 - 10.0.1 (KB 551 [11]) : « Badham Preschool, Grim Pantry and Pale Rose Maps have been re-enabled » → ces 3 cartes ont été **temporairement désactivées** avant 10.0.1 (date et cause **non trouvées** dans les notes archivées). Elles sont en rotation en 10.1.2a (aucune désactivation ultérieure trouvée dans KB 552-558).
 
 ### 1.3 Cartes retirées / hors rotation 1v4
@@ -152,6 +158,26 @@ Reworks antérieurs utiles (wiki [2]) : Blood Lodge et Gas Heaven 6.7.0 (main ra
 Format : **Fixe** (FACT wiki sauf mention) · **RNG / possible** · **Verticalité / intérieur** · **Lecture** (visibilité, zones fortes/faibles — COMMUNITY ou HEURISTIC) · **Tueurs** (HEURISTIC, descriptif) · **Plan** (HEURISTIC). Les données « contains » du wiki sont traitées comme fixes ; « potentially » comme RNG.
 
 Archétypes utilisés (HEURISTIC, définitions) : **mobilité** (couvre la distance : Blight, Nurse, Spirit, Wesker, Billy…) · **distance/LOS** (projectiles, profitent des lignes de vue longues) · **furtif** (profite des murs hauts / faible LOS) · **zone/pièges** (profite des goulets : portes, couloirs, escaliers) · **M1/lent** (sans outil de déplacement ni anti-loop).
+
+### 3.0 Comment lire les lignes « Tueurs » et « Plan » (ajout d'audit M10, M13 — à lire avant les fiches)
+
+**Correspondance avec le handbook** (`deliverables/KILLER_COUNTERPLAY_HANDBOOK.md`, 8 archétypes) : « distance/LOS » = **Ranged** ; « M1/lent » = **M1** ; mobilité, furtif, zone/piège identiques. Les archétypes **Anti-loop**, **Info** et **Slug** du handbook n'ont pas de ligne ici : pour eux la carte compte surtout par la **densité de palettes** (anti-loop : une carte riche en palettes safe perd de la valeur contre Blight, Demogorgon, Oni… voir lot 7 §5.2) et par la densité de **casiers** (Dredge : intérieurs pleins de casiers = avantage tueur, handbook §2 et lot 4 g4). Une fiche qui dit « M1 pénalisés » ne dit **rien** d'un tueur anti-loop.
+
+**Pourquoi la taille joue (mécanisme, HEURISTIC)** : sur une grande carte, le tueur perd plus de temps à se déplacer entre deux gens ou deux chases ; pendant ce trajet, les réparateurs avancent. Un tueur à mobilité compresse ce trajet, un M1 le subit.
+
+**De combien (CALC, hypothèses : carte carrée, trajet en ligne droite d'un bord à l'autre, sans obstacle, taille wiki = surface totale)** : côté = √(sqT × 64).
+
+| Surface (sqT) | Côté ≈ | Traversée tueur 4,6 m/s | 4,4 m/s | Survivant 4,0 m/s |
+|---|---|---|---|---|
+| 98 (Treatment Theatre) | 79 m | 17,2 s | 18,0 s | 19,8 s |
+| 132 | 92 m | 20,0 s | 20,9 s | 23,0 s |
+| 152 (médiane) | 99 m | 21,4 s | 22,4 s | 24,7 s |
+| 176 (Shelter Woods, Azarov) | 106 m | 23,1 s | 24,1 s | 26,5 s |
+
+- Entre la médiane et la plus grande carte : ≈ **1,7 s** par traversée pour un tueur 4,6 ; entre la plus petite et la plus grande : ≈ **5,9 s**. Avec 3 survivants qui réparent chacun seuls (1 charge/s, gen = 90 charges : audit), 1,7 s ≈ 5 charges ≈ **6 % d'un gen** par traversée ; 5,9 s ≈ 18 charges ≈ **20 % d'un gen**.
+- **Lecture** : l'effet « grande carte → mobilité avantagée » est **net aux extrêmes** (Treatment Theatre, Midwich, The Game vs Shelter Woods, Azarov) et **faible entre cartes moyennes** (132-160 sqT) : là, la position RNG des gens, la densité de palettes (9.2.0-9.3.2) et la forme de la carte pèsent probablement plus que la surface (HYPOTHESIS, aucune mesure).
+- **Quand la règle échoue** : carte allongée (trajet réel plus long que le côté du carré) ; gens RNG regroupés (petite distance utile même sur grande carte) ; surface gonflée par les étages (The Game, Midwich) ; carte à gros bâtiments qui bloquent le trajet ; tueur M1 qui compense par des perks de régression ou d'info (non chiffré ici).
+- **Statut des lignes « Tueurs » des fiches** : ce sont des **hypothèses à tester**, dérivées de ce cadre et de la matrice du handbook §3 / lot 7 §5 ; aucune n'est appuyée par un kill rate (§6). Les lignes « Plan » sont des HEURISTIC ; les conditions, contre-cas et drills communs sont en §4.2.
 
 ### 3.1 The MacMillan Estate (industriel, murs de briques hauts)
 
