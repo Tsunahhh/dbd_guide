@@ -10,5 +10,7 @@ L'audit phase 0 reste la base des chiffres vérifiés, mais les re-vérification
 | Table 1.5 (liste) | Mastermind casse les palettes (Virulent Bound) | Mastermind et Good Guy ne détruisent une palette qu'avec un add-on ; à ajouter à la liste des casseurs par pouvoir : Shape, Executioner, Nemesis, Singularity, The First | Page wiki Pallets et pages des tueurs | lot 7 (tiles) |
 | A-186 (Outdated report) | « Anti-Exhaustion Syringe » n'existe pas, seul « Anti-Haemorrhagic Syringe » | Le nom LIVE est bien **Anti-Exhaustion Syringe** (renommage en 9.3.0) : le seed avait raison | Note officielle 9.3.0 (529) l. 70-71 ; page wiki de l'add-on | lot 5 (objets) |
 
+| Matrice §1 « Fiches tueurs » (erreurs relevées) | Huntress « 7 hachettes » présenté comme erreur du seed | **7 hachettes de base depuis 7.6.0** : le seed avait raison | Page wiki Anna (The Huntress) ; change log 7.6.0 | re-vérif lot 4 g2 |
+
 ## Piège connu du digest wiki (`kb/sources/wiki_perks_digest.md`)
 Pour **Dissolution, Distressing, Do No Harm, Hex: Nothing but Misery, Shattered Hope, Wake Up!, Windows of Opportunity**, la page wiki affiche déjà le texte PTB 10.2.0 sans avertissement : la ligne « LIVE (current) » du digest est en réalité PTB. La valeur LIVE se reconstruit depuis les lignes « was … » de la note officielle 559. Les fiches de lots concernées ont été corrigées par les agents de re-vérification (27/09/2026).

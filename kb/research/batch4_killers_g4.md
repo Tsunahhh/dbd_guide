@@ -481,20 +481,40 @@ Comptage « confirmés par note officielle » (ligne de couverture) = lignes VER
 
 ## Questions ouvertes
 
-1. Valeurs LIVE complètes du Trickster post-9.5.0/9.5.2 (barème Style Points, durée rang S, Main Event, décroissance par charge, add-ons refondus).
-2. Contenu exact des buffs 9.6.0 du Dredge et du Mastermind, et du changement 10.1.1 du Knight (gardes et palettes).
-3. TR réels de l'Onryō (24 m ?) et du Mastermind (40 m ?) — CONFLICT-L4G4-03.
-4. Nemesis : effet exact d'un tentacule sur un survivant non contaminé (Hindered 20 % 2 s ?), seuils de mutation, nombre de caisses de vaccin.
-5. Durée du Nightfall (60 s ?) et nombre de tokens de Gloaming.
-6. Uroboros : Hindered réel à 100 % d'infection ; nombre de caisses et d'usages de sprays.
-7. Knight : mécanique exacte de la bannière (Haste 50 % + Endurance ?), portée de patrouille 38 m.
-8. Artist : effet exact de Swarmed (aura vs Killer Instinct), durée de retrait, propagation.
-9. Cenobite : statut actuel en boutique et date exacte de retrait.
-10. Guides experts écrits vue survivant (8 tueurs) : aucun lu — les parties counterplay sont toutes HEURISTIC et devraient être recoupées.
+Questions 1-9 de la version précédente : **résolues** par le lot 12b (valeurs Trickster, buffs 9.6.0, 10.1.1, TR Onryō/Mastermind, Nemesis, Nightfall, Uroboros, étendard du Knight, Swarmed, retrait du Cenobite). Restent :
+
+1. Pentimento : les totems ravivés peuvent-ils être bénis ? (CONFLICT-L4G4-05).
+2. Cenobite : un survivant enchaîné peut-il vaulter ? (affirmé par le seed, absent de [5]).
+3. Trickster : une palette baissée bloque-t-elle les lames ? (absent de [3]).
+4. Onryō : différence exacte entre « éteindre une TV » (+1 stack) et « retirer une cassette » (+0) dans les données de [7] ; désignation de la TV cible pour la cassette (7.5.0).
+5. Chatterer's Tooth (Cenobite) : qui doit ramasser la boîte pour déclencher l'Undetectable 25 s ?
+6. Mastermind : la réduction de recharge « −0,5 s par survivant infecté » (données de [9]) est-elle toujours active après 9.6.0 ?
+7. Knight 10.1.1 : sur quelles tiles réelles le détour dépasse-t-il 48 m ? (à traiter avec le lot 7, loops et tiles).
+8. Guides experts écrits vue survivant (8 tueurs) : aucun lu — les parties counterplay restent HEURISTIC et devraient être recoupées.
+9. Données d'usage des perks (« perks fréquentes ») : aucune source statistique lue ; listes du seed conservées en UNCERTAIN.
 
 ## Sources
 
 [1] Guide seed, chapitre 8 « Les 44 tueurs » — `/home/user/dbd_guide/kb/seed/ch8_killers.txt` (l. 1-256, 1094-1418) — lu le 27/09/2026 (brouillon non fiable).
 [2] Audit phase 0 — `/home/user/dbd_guide/kb/seed/audit_phase0.txt` (historique des patchs 9.0.0 → 10.1.2a, OUTDATED CONTENT REPORT, référence vérifiée) — lu le 27/09/2026.
-
-Aucune source web : quota WebSearch de session épuisé (200/200) avant la première requête de cet agent ; aucune URL n'est citée pour ne pas inventer de source.
+[3] Hak Ji-woon (The Trickster) — https://deadbydaylight.wiki.gg/wiki/Hak_Ji-woon — page complète (texte local `kb/sources/wiki_killers/Hak_Ji_woon.txt`), consultée le 27/09/2026.
+[4] Nemesis T-Type — https://deadbydaylight.wiki.gg/wiki/Nemesis_T-Type — page complète (`Nemesis_T_Type.txt`), consultée le 27/09/2026.
+[5] The Cenobite — https://deadbydaylight.wiki.gg/wiki/The_Cenobite — page complète via API (`kb/tools/wiki_text.py "The Cenobite"`), consultée le 27/09/2026.
+[6] Carmina Mora (The Artist) — https://deadbydaylight.wiki.gg/wiki/Carmina_Mora — page complète (`Carmina_Mora.txt`), consultée le 27/09/2026.
+[7] Sadako Yamamura (The Onryō) — https://deadbydaylight.wiki.gg/wiki/Sadako_Yamamura — page complète (`Sadako_Yamamura.txt`), consultée le 27/09/2026.
+[8] The Dredge — https://deadbydaylight.wiki.gg/wiki/The_Dredge — page complète (`The_Dredge.txt`), consultée le 27/09/2026 (texte de Dissolution = PTB 10.2.0 sans bandeau).
+[9] Albert Wesker (The Mastermind) — https://deadbydaylight.wiki.gg/wiki/Albert_Wesker — page complète (`Albert_Wesker.txt`), consultée le 27/09/2026 (Superior Anatomy = PTB 10.2.0 ; description du pouvoir non mise à jour pour 9.6.0).
+[10] Tarhos Kovács (The Knight) — https://deadbydaylight.wiki.gg/wiki/Tarhos_Kovács — page complète (`Tarhos_Kov_cs.txt`), consultée le 27/09/2026.
+[11] 9.0.0 | Five Nights at Freddy's — https://forums.bhvr.com/dead-by-daylight/kb/articles/510 — consulté le 27/09/2026.
+[12] 9.0.2 | Bugfix Patch — https://forums.bhvr.com/dead-by-daylight/kb/articles/512 — consulté le 27/09/2026.
+[13] 9.1.0 | The Walking Dead — https://forums.bhvr.com/dead-by-daylight/kb/articles/516 — consulté le 27/09/2026.
+[14] 9.2.0 | Sinister Grace — https://forums.bhvr.com/dead-by-daylight/kb/articles/523 — consulté le 27/09/2026.
+[15] 9.3.0 | Mid-Chapter — https://forums.bhvr.com/dead-by-daylight/kb/articles/529 — consulté le 27/09/2026.
+[16] 9.4.2 | Bugfix Patch — https://forums.bhvr.com/dead-by-daylight/kb/articles/536 — consulté le 27/09/2026.
+[17] 9.5.0 | All-Kill: Comeback — https://forums.bhvr.com/dead-by-daylight/kb/articles/538 — consulté le 27/09/2026.
+[18] 9.5.1 | Bugfix Patch — https://forums.bhvr.com/dead-by-daylight/kb/articles/539 — consulté le 27/09/2026.
+[19] 9.5.2 | Bugfix Patch — https://forums.bhvr.com/dead-by-daylight/kb/articles/541 — consulté le 27/09/2026.
+[20] 9.6.0 | Patch Notes — https://forums.bhvr.com/dead-by-daylight/kb/articles/544 — consulté le 27/09/2026.
+[21] 10.1.0 — https://forums.bhvr.com/dead-by-daylight/kb/articles/556 — consulté le 27/09/2026.
+[22] 10.1.1 | Bugfix Patch — https://forums.bhvr.com/dead-by-daylight/kb/articles/557 — consulté le 27/09/2026.
+[23] PTB 10.2.0 (**non LIVE**) — https://forums.bhvr.com/dead-by-daylight/kb/articles/559 — consulté le 27/09/2026 ; sert à repérer les textes PTB affichés par le wiki et à lire les valeurs LIVE (« was ») des perks modifiées.
