@@ -34,7 +34,8 @@
 | `kb/ledgers/CHANGELOG.md` | Historique du projet | tenue à jour |
 | `kb/deliverables/` | Livrables §51 : `PERK_DATABASE.md` (§51-5), `PERK_DEDUCTION.md` (§10), `KILLER_COUNTERPLAY_HANDBOOK.md` (§51-3) | en construction |
 | `kb/ledgers/BATCH_2_4_SYNTHESIS.md` | Bilan lots 2-4, erreurs du seed PROUVÉ/PROBABLE/SUSPECT, 58 conflits, file de re-vérification | fait |
-| `kb/research/batch6/9/11_*.md` | Brouillons sans web (chase, macro, entraînement) | WRITTEN, non audités |
+| `kb/research/batch6/9/11_*.md` | Brouillons sans web (chase, macro, entraînement) | WRITTEN + AUDITED (sans web) |
+| `kb/audit/pass14_*.md` | Rapports des audits adversariaux §25-26 | fait (27/09) |
 | `kb/tools/summarize_batches.py` | Comptages des lots + `SOURCE_LEDGER_batches.md` | outil |
 
 ## 3. Contraintes d'accès connues (à relire avant chaque session)
@@ -56,14 +57,14 @@ Aucune analyse de VOD n'a été faite ; le guide ne doit jamais prétendre le co
 | 3 | Perks tueur vue survivant (145) + perk deduction | PARTIALLY_VERIFIED — 145 fiches ; 42 web, 17 audit partiel, 86 UNCERTAIN | `batch3_*`, `deliverables/PERK_DEDUCTION.md`, `PERK_DATABASE.md` |
 | 4 | 44 tueurs, volet survivant | WRITTEN, NON VÉRIFIÉ web (quota) — 44 fiches, 62 claims via audit | `batch4_*`, `deliverables/KILLER_COUNTERPLAY_HANDBOOK.md` |
 | 5 | Objets, add-ons, offrandes, techniques (flash/pallet save, sabo, body block) | NOT_STARTED | — |
-| 6 | Techniques de chase fines + chase theory avancée | WRITTEN (brouillon sans web, non audité) | `batch6_chase_tech.md` |
+| 6 | Techniques de chase fines + chase theory avancée | WRITTEN + AUDITED (§25-26, 36 pb / 31 corrigés) | `batch6_chase_tech.md`, `audit/pass14_lot6_chase.md` |
 | 7 | Loops et tiles, matrice tile × tueur, connectivité | NOT_STARTED | — |
 | 8 | Cartes (44) : fixe vs RNG, dimensions stratégiques | NOT_STARTED | — |
-| 9 | Macro, SoloQ/SWF, game sense, états de partie, endgame | WRITTEN (brouillon sans web, non audité) | `batch9_macro.md` |
+| 9 | Macro, SoloQ/SWF, game sense, états de partie, endgame | WRITTEN + AUDITED (§25-26, 43 pb / 37 corrigés) | `batch9_macro.md`, `audit/pass14_lot9_macro.md` |
 | 10 | Compétitif approfondi / VOD | BLOCKED (accès) | — |
-| 11 | Erreurs, arbres de décision, drills, programme, métriques | WRITTEN (brouillon sans web, non audité) | `batch11_training.md` |
+| 11 | Erreurs, arbres de décision, drills, programme, métriques | WRITTEN + AUDITED (§25-26, 54 pb / 51 corrigés) | `batch11_training.md`, `audit/pass14_lot11_training.md` |
 | 12 | Triangulation + freshness (sortie 10.2.0) — **PROCHAIN LOT** : file de 180 requêtes | NOT_STARTED | `ledgers/BATCH_2_4_SYNTHESIS.md` §5 |
-| 13-15 | Audits couverture / adversariaux ×2 / praticité | NOT_STARTED | — |
+| 13-15 | Audits couverture / adversariaux ×2 / praticité | PARTIEL : audits adversariaux §25-26 faits sur lots 6, 9, 11 et les 3 livrables (sans web) ; audit de couverture et de praticité restants | `kb/audit/pass14_*.md` |
 | 16-17 | Réécriture + fact-check final | NOT_STARTED | — |
 
 (Cette table est mise à jour à la fin de chaque session ; voir `kb/ledgers/CHANGELOG.md`.)

@@ -19,6 +19,10 @@
 - **Synthèse** : `kb/ledgers/BATCH_2_4_SYNTHESIS.md` (erreurs du seed classées PROUVÉ / PROBABLE / SUSPECT, 58 conflits, questions ouvertes, **file de re-vérification de 180 requêtes**).
 - Correction : le verdict « FAUX » sur Eruption (fiche Nemesis, lot 4) a été ramené à « conflit non tranché ».
 
+## 2026-09-27 — même session, suite
+- PR ouverte : https://github.com/Tsunahhh/dbd_guide/pull/1
+- **Audits adversariaux §25-26** (sans web) avec corrections appliquées : lot 6 (36 problèmes, 31 corrigés), lot 9 (43/37), lot 11 (54/51), livrables (53/48). Principaux correctifs : condition de loop sûre (comparer des temps, pas des distances) ; modèle de greed requalifié HYPOTHESIS ; pré-drop contre Blight (tokens de Rush 9.6.0), Mastermind, Lich, Brutal Strength, Fire Up ; définition de « gens restants » et 3-gen ; récupération au sol « à l'arrêt » ; arbre crochet (bande 10-16 m) ; étiquettes surestimées corrigées. Rapports : `kb/audit/pass14_*.md`.
+
 ## Prochaine session — lot exact à lancer
 
 1. **Vérifier d'abord l'état du jeu** : 10.2.0 est-il sorti en LIVE ? (1re requête de la file P0-A de `BATCH_2_4_SYNTHESIS.md` §5.) Si oui : mettre à jour le registre de version, puis traiter les 58 perks modifiées en priorité.

@@ -90,8 +90,8 @@ Dernière mise à jour : 27/09/2026 (fin de session lots 2-4).
 | Builds (T-G04) | 12 archétypes | dans PERK_DATABASE §5 | — | — | — | 2-3 | WRITTEN (HEURISTIC) |
 | Tueurs, volet survivant (T-F01-44) | 44 | 44 | 0 | 62 claims | la plupart des valeurs | 3 (analyse) / 1 (valeurs) | WRITTEN, non vérifié |
 | Typologie + tile × archétype (T-F45, T-C11) | — | handbook §2-3 | 0 | — | — | 2-3 | WRITTEN (HEURISTIC) |
-| Techniques de chase + chase theory (T-B08-15, T-L) | — | batch6 | 0 | valeurs audit | — | 3 | WRITTEN (brouillon) |
-| Macro, SoloQ/SWF, game sense, états, endgame (T-J, K, M, N, O) | — | batch9 | 0 | valeurs audit | — | 3 | WRITTEN (brouillon) |
-| Erreurs, arbres, drills, programme, métriques (T-P, Q, R) | — | batch11 (50 erreurs, 20 drills, 19 métriques) | 0 | valeurs audit | — | 3 | WRITTEN (brouillon) |
+| Techniques de chase + chase theory (T-B08-15, T-L) | — | batch6 | 0 | valeurs audit | — | 3 | WRITTEN + AUDITED (sans web) |
+| Macro, SoloQ/SWF, game sense, états, endgame (T-J, K, M, N, O) | — | batch9 | 0 | valeurs audit | — | 3 | WRITTEN + AUDITED (sans web) |
+| Erreurs, arbres, drills, programme, métriques (T-P, Q, R) | — | batch11 (51 erreurs, 20 drills, 19 métriques) | 0 | valeurs audit | — | 3 | WRITTEN + AUDITED (sans web) |
 
-Détail et erreurs du seed : `kb/ledgers/BATCH_2_4_SYNTHESIS.md`. Aucun de ces domaines n'est AUDITED (audits adversariaux §25-26 à faire).
+Détail et erreurs du seed : `kb/ledgers/BATCH_2_4_SYNTHESIS.md`. Audits adversariaux §25-26 faits le 27/09 (sans web) sur batch6, batch9, batch11 et les 3 livrables : `kb/audit/pass14_*.md`. Les lots 2-4 (fiches) ne sont pas encore audités. Statut AUDITED ≠ COMPLETE : la vérification par sources reste à faire.
