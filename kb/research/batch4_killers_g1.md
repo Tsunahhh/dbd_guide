@@ -166,36 +166,45 @@
 
 ## 4. The Nurse (Sally Smithson) — archétype(s) : mobilité (téléportation) | anti-loop total
 
-- **Version** : seed : « 9.6.0 : Heavy Panting nerfé ; 10.1 : correction de blinks hors carte » [SEED-NRV], UNCERTAIN (non relevé par l'audit).
-- **Données LIVE** :
-  - Vitesse **3,85 m/s** [AUDIT] (STRONG_SECONDARY) ; TR 32 m ; taille moyenne [SEED-NRV], UNCERTAIN.
-  - 2 charges de blink ; 1er blink ~20 m max (charge ~2 s) ; 2e blink enchaîné ~12 m dans une fenêtre de 1,5 s [SEED-NRV] — UNCERTAIN.
-  - Fatigue après blink : 2 s + 0,5 s par blink enchaîné + 1 s si attaque ratée [SEED-NRV] — UNCERTAIN.
-  - FACT de principe [MÉM], UNCERTAIN (non couvert par l'audit ; requalifié P14) : le blink traverse murs, palettes et obstacles ; elle ne vaulte pas les fenêtres.
-  - Calcul (P14, d'après l'audit) : hors blink elle marche à 3,85 m/s contre 4,0 m/s pour toi → tu gagnes 0,15 m/s, soit **1,5 m par 10 s** : courir tout droit ne crée presque pas de distance, seule la gestion de ses blinks et de sa fatigue compte.
-- **Identification** (HEURISTIC) : son de charge/souffle, silhouette qui disparaît et réapparaît ; tueur très lent entre les blinks ; add-ons : blinks supplémentaires (3+ enchaînés), portée anormale, charge ultra-rapide. Stratégie : chases courtes, info via perks (aura), pression par vitesse de down.
+- **Version** : pas de changement de pouvoir 9.0.0 → 10.1.2a. 2025-2026 : **Heavy Panting nerfé en 9.6.0** (allonge de la fente après plus d'un blink **30 % → 10 %**, VERIFIED_MULTI_SOURCE [18][8]) → seed OK ; nombreux correctifs de **blinks hors carte / dans le décor** (9.0.0, 9.1.0, 9.2.1-9.2.3, 9.3.0-9.3.2, 9.5.0, 10.0.0-10.0.3, **10.1.0, 10.1.1, 10.1.2** [20][21]) → le « 10.1 : correction de blinks hors carte » du seed est OK (VERIFIED_PRIMARY) ; Chain Blink qui pouvait ne pas se charger (9.2.2) ; corrections serveur de position après un blink (9.4.2).
+- **Données LIVE** (STRONG_SECONDARY [8] ; vitesse aussi [AUDIT]) :
+  - Vitesse **3,85 m/s** ; TR 32 m ; taille moyenne (Average).
+  - **2 charges** de blink ; recharge **3 s par charge**. Charge du blink **2 s** (elle avance à 2,89 m/s en chargeant) ; 1er blink **≤ 20 m** (min. 1,5 m) ; elle peut viser plus court que la distance chargée, mais la **durée** du blink reste celle de la charge.
+  - **Chain Blink** : fenêtre de **1,5 s** après le 1er blink (s'il reste une charge), **≤ 12 m** ; elle marche à 1,54 m/s pendant la fenêtre.
+  - Blinks à travers murs, sols et plafonds (changement d'étage en visant le plafond/sol).
+  - **Fatigue** : 2 s (1 blink), 2,5 s (2 blinks), 3 s (3 blinks) ; **+1 s** si elle a attaqué avant la fatigue (Wooden Horse le décrit comme la pénalité d'une attaque ratée) ; elle se déplace à **0,96 m/s** en fatigue et **ne peut pas être étourdie** pendant la fatigue (la fatigue prime sur les étourdissements).
+  - Toute attaque après un blink (avant la fatigue) est une **Special Attack** (fente de blink à 6,16 m/s).
+  - Lightburn supprimé en 6.7.0 : lampes, pétards et flash grenades n'empêchent plus ses blinks (OBSOLETE).
+  - Calcul (P14, valeurs vérifiées) : hors blink elle marche à 3,85 m/s contre 4,0 m/s pour toi → tu gagnes 0,15 m/s, soit **1,5 m par 10 s** ; en fatigue (0,96 m/s) tu gagnes ~3 m/s, soit **6 à 9 m** sur 2-3 s de fatigue : c'est **là** que se crée la distance.
+  - Vault de fenêtre : la page ne le dit pas ; « elle ne vaulte pas les fenêtres » reste [MÉM], UNCERTAIN.
+- **Identification** (HEURISTIC) : son de charge/souffle, silhouette qui disparaît et réapparaît ; tueur très lent entre les blinks ; add-ons : 3 blinks enchaînés (Torn Bookmark), blink automatique après un blink complet (Campbell's), retour au point de départ (Jenner's), un seul blink mais tueur à 4,4 m/s (Matchbox). Stratégie : chases courtes, info via perks (aura), pression par vitesse de down.
 - **Ce qu'il cherche en chase** (HEURISTIC) : une LOS continue sur toi ; un trajet prévisible ; un double-back mal timé ; le moment où tu t'arrêtes derrière un obstacle.
 - **Tiles / structures** (HEURISTIC) :
   - Favorables : structures hautes et opaques, étages (main à plusieurs niveaux), zones à LOS cassée en permanence ; grands obstacles qui rendent la distance difficile à estimer.
   - Défavorables : open areas, petites tiles basses (elle voit tout), palettes (inutiles).
-  - Fenêtres vs palettes : quasi sans valeur **comme obstacles** (elle blinke à travers) ; la tile reste utile comme source de LOS et de repositionnement.
+  - Fenêtres vs palettes : quasi sans valeur **comme obstacles** (elle blinke à travers) ; la tile reste utile comme source de LOS et de repositionnement. **Ne pas lâcher une palette sur une Nurse en fatigue** : elle n'est pas étourdissable pendant la fatigue (DATA [8]).
   - Verticalité : forte (un blink au mauvais étage = fatigue gratuite).
-- **Mindgames propres** (HEURISTIC) : blink court puis long ; attendre ta réaction avant le 2e blink ; faux blink (charge annulée).
-- **Counterplay** (HEURISTIC) :
-  - Mécanique : casser la LOS au moment de la charge ; changer de direction pendant son 1er blink (elle doit corriger au 2e) ; profiter de la fatigue pour repositionner, pas pour fuir en ligne droite.
+- **Mindgames propres** (HEURISTIC) : blink court puis long ; attendre ta réaction avant le 2e blink (fenêtre de 1,5 s) ; faux blink (charge annulée).
+- **Counterplay** (HEURISTIC, sur valeurs [8]) :
+  - Mécanique : casser la LOS pendant sa charge (2 s) ; changer de direction pendant son 1er blink (elle doit corriger au 2e, ≤ 12 m, dans une fenêtre de 1,5 s) ; profiter de la fatigue (2-3 s à 0,96 m/s) pour repositionner, pas pour fuir en ligne droite. Après ses 2 blinks, elle doit attendre ~3 s par charge : compter ses blinks.
   - Positionnel : garder, autant que possible, un obstacle haut entre elle et toi ; utiliser les étages.
-  - Macro : réparer vite, rester dispersés ; contrer les perks d'aura avec Distortion. Correction P14 : **Calm Spirit n'est pas une perk anti-aura** (LIVE : corbeaux calmes, pas de cri ; `PERK_DATABASE.md`, SS ; modifiée au PTB 10.2.0) ; elle n'aide que contre ce qui fait crier.
+  - Macro : réparer vite, rester dispersés ; contrer les perks d'aura avec Distortion. Correction P14 : **Calm Spirit n'est pas une perk anti-aura** (LIVE : corbeaux calmes, pas de cri ; `PERK_DATABASE.md`, SS ; modifiée au PTB 10.2.0) ; elle n'aide que contre ce qui fait crier. A Nurse's Calling (sa perk) montre les survivants qui se soignent à 28/30/32 m (VERIFIED_MULTI_SOURCE [8][13]) : se soigner hors de ce rayon.
   - Équipe : le temps de chase moyen est court → gens rapides plutôt que sauvetages risqués.
 - **Habitudes punissables et erreurs classiques** (HEURISTIC) : courir en ligne droite ; lâcher des palettes ; double-back prévisible (toujours au même moment) ; rester visible derrière un obstacle bas.
-- **Adaptations avancées / échecs** (SITUATIONAL) : contre une Nurse experte, le double-back devient lisible → alterner continuer/revenir ; avec add-ons de blinks multiples, compter ses blinks avant de se repositionner.
-- **Add-ons qui changent la décision** (UNCERTAIN, [SEED-NRV]) :
-  - Matchbox (charge plus rapide) → moins de temps pour lire la charge : casser la LOS plus tôt.
-  - Campbell's Last Breath (enchaînement automatique selon le seed) / add-ons +blink → ne pas se repositionner après le 2e blink, attendre la fatigue.
-  - Ataxic Respiration (portée) → la distance « sûre » augmente : se cacher plutôt que fuir.
+- **Adaptations avancées / échecs** (SITUATIONAL) : contre une Nurse experte, le double-back devient lisible → alterner continuer/revenir ; avec Torn Bookmark (3 blinks), compter jusqu'à 3 avant de se repositionner.
+- **Add-ons qui changent la décision** (noms et effets LIVE lus sur la page, STRONG_SECONDARY [8]) :
+  - Torn Bookmark (**+1 charge**, 3 blinks ; recharge ×1,3) → attendre le **3e** blink avant de se repositionner **au lieu du** 2e.
+  - Campbell's Last Breath (après un blink à pleine charge, **re-blink automatique** à pleine charge droit devant, s'il reste une charge) → sortir de son axe après un long blink **au lieu de** reculer tout droit.
+  - Jenner's Last Breath (après tous ses blinks, retour instantané au point de départ, +1 charge) → un double-back derrière elle peut être puni : le faire **après** sa fatigue **au lieu de** pendant la fenêtre.
+  - Matchbox (**4,4 m/s** mais **1 seul blink**) → pas de chain blink : feinter le 1er blink puis tourner **au lieu de** fuir ; en M1 c'est un tueur 4,4.
+  - Kavanagh's Last Breath (en fatigue, **Blindness 60 s** aux survivants à ≤ 8 m) → ne pas rester collé à elle pendant sa fatigue si tu comptes sur des auras.
+  - "Bad Man's" Last Breath (Undetectable 25 s après un coup spécial, CD 45 s) / Spasmodic Breath (4,6 m/s pendant 60 s après un coup mais pouvoir désactivé) → après un coup, pas de TR / tueur M1 rapide : le blessé joue la LOS **au lieu d'**attendre le TR.
+  - Plaid Flannel (elle voit la zone d'arrivée) / Dark Cincture (+30 % de vitesse pendant la fenêtre de chain) / Catatonic Boy's Treasure (−65 % de fatigue de chain) / Ataxic Respiration (fatigue −7 %) → la fenêtre de fatigue est plus courte : repositionner plus tôt, **au lieu de** compter sur 2-3 s pleines. (Correction : Ataxic Respiration n'augmente **pas** la portée.)
+  - Heavy Panting (fente +10 % après 2-3 blinks, LIVE 9.6.0) → effet faible, ne change presque rien.
 - **Implications de carte** (HEURISTIC) : faible sur cartes à multi-niveaux complexes (intérieurs), forte sur cartes ouvertes plates.
-- **Perks fréquentes** : Nowhere to Hide, Lethal Pursuer, Pain Resonance, Eruption / Barbecue [SEED-NRV]. FACT [AUDIT] : Nowhere to Hide LIVE 10.1.0 = auras à 24 m autour du gen abîmé (3/4/5 s) ; A Nurse's Calling 28/30/32 m (10.1.0) [1].
-- **Écart avec le seed** : Vitesse OK [AUDIT] ; « Dead Hard peut valider l'esquive » : NON VÉRIFIABLE ; reste NON VÉRIFIABLE (quota).
-- **Sources** : [1] [2]
+- **Perks fréquentes** : Nowhere to Hide, Lethal Pursuer, Pain Resonance, Eruption / Barbecue [SEED-NRV, fréquences non re-vérifiées]. FACT [AUDIT] : Nowhere to Hide LIVE 10.1.0 = auras à 24 m autour du gen abîmé (3/4/5 s) ; A Nurse's Calling 28/30/32 m (9.2.0 [13], page [8]) [1].
+- **Écart avec le seed** : vitesse OK [AUDIT] ; 2 charges, 20 m + 12 m, fenêtre 1,5 s, fatigue 2 s +0,5 s/blink +1 s après attaque : **OK** ; Heavy Panting 9.6.0 **OK** (VERIFIED_MULTI_SOURCE) ; correctifs de blinks hors carte en 10.1 **OK**. « Dead Hard peut valider l'esquive » : NON VÉRIFIABLE (hors pages lues). Erreurs de **cette fiche** corrigées : Matchbox n'est pas une « charge plus rapide » (4,4 m/s + 1 blink) ; Ataxic Respiration n'est pas un add-on de portée (fatigue −7 %).
+- **Sources** : [1] [2] [8] [13] [18] [20] [21]
 
 ## 5. The Shape (Michael Myers) — archétype(s) : furtif | coup unique (Slaughtering Strike) | M1
 
