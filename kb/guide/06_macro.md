@@ -259,3 +259,193 @@ d'engagement ailleurs : chase visible au HUD, kick lointain) ?
 
 Détail : `kb/research/batch9_macro.md` §2.4-2.5, §7.1, §9.A.
 
+---
+
+## 6.4 Camping, proxy camp, tunneling, slugging `[Avancé]`
+
+### Ce que fait vraiment l'anti-camp
+
+| Règle | Valeur | Confiance |
+|---|---|---|
+| Zone | **rayon de 16 m** autour du crochet | [FACT] (VM) |
+| Poids par distance | 4 m ×2,5 ; 10 m ×1 ; 15 m ×0,375 ; **16 m ×0** | [FACT] (SS) |
+| Poids par durée de présence | 0-10 s ×1 ; 10-20 s **×2** ; > 20 s **×4** ; remis à zéro au décrochage | [FACT] (VP, 9.3.0) |
+| Grâce | **7 s** de pause de la jauge pour **tous** les accrochés à chaque nouvel accrochage | [FACT] (VP, 9.3.0) |
+| Ralentissement | par les **autres survivants à < 16 m** ; en pause si le tueur porte un survivant | [FACT] (SS) |
+| Coupure | **désactivé dès que les portes sont alimentées** | [FACT] (SS) |
+| Jauge pleine | tentative d'auto-décrochage garantie | [FACT] (SS) |
+| Taux de base | ~50 % de l'ancien, **non retrouvé en source primaire** | [INCERTAIN] (INC) |
+
+> **Erreur fréquente** : « contre un proxy camp, l'anti-camp décrochera l'allié ». **Faux** : au-delà de 16 m, la jauge ne se remplit **pas du tout**. Et le temps de remplissage d'un face camp n'est **pas calculable** (taux de base inconnu) : toute phrase du type « inutile au-delà de 20 s » est invérifiable.
+
+### Face camp, zone grise, proxy camp
+
+```
+          crochet
+             ●
+        ┌────┴────┐
+   < 10 m : FACE CAMP        jauge ×1 à ×2,5, puis ×2 / ×4 avec la durée
+   10-16 m : ZONE GRISE      jauge lente (×1 → ×0,375) : ne pas compter dessus
+   16-30 m : PROXY CAMP      jauge à ZÉRO : décision de sauvetage obligatoire
+   > 30 m : tueur engagé ailleurs (si signe d'engagement) → sauvetage « propre »
+```
+
+1. **Face camp** (tueur à < ~10 m, immobile) [HEURISTIQUE] : la jauge accélère avec le temps (×2 après 10 s, ×4 après 20 s de présence). **Ne restez pas dans les 16 m** : votre présence **ralentit** la jauge [FACT] (SS) et vous offre en cible. Réparez. Réévaluez si le tueur reste plus de ~20-30 s [INCERTAIN] : soit la jauge libère l'allié, soit le tueur perd énormément de temps.
+2. **Zone grise 10-16 m** (tueur qui tourne autour sans être collé) : il tire l'essentiel du bénéfice d'un face camp en ne payant presque pas l'anti-camp. **Le traiter comme un proxy.**
+3. **Proxy camp** (16-30 m, patrouille entre crochet et gens voisins) : **aucune aide du système**. Il faut une vraie décision (arbre CROCHET, §6.3). Les gens **éloignés** du crochet sont gratuits ; les gens dans sa zone de patrouille sont des pièges.
+4. **Portes alimentées** : anti-camp coupé [FACT] (SS). Un camp de fin de partie est « légitime » mécaniquement (§6.11).
+
+**Le coût du camp pour le tueur (calcul)** : chaque seconde de camp immobile = 0 pression ailleurs ; si 3 survivants réparent hors de sa zone, il leur cède **3 s-surv par seconde**. **Un camp de 60 s ≈ 2 gens** de progression. **Contre-cas** [SITUATIONNEL] : si l'accroché est en phase 2, ou si la partie est déjà gagnée pour le tueur, le camp est rentable pour lui.
+
+**Perks qui changent la décision** (voir Match Details avant de décider) :
+- **Deliverance** : auto-décrochage 1×/partie après un décrochage sûr d'un allié ; Broken 160/140/120 s [FACT] (VP, 10.1.0).
+- **Reassurance** : à ≤ 6 m de l'accroché, pause du sacrifice 20/25/30 s [FACT] (SS au mieux). Elle achète du temps mais **impose d'entrer à 6 m**, donc dans la zone qui ralentit l'anti-camp et vous expose.
+
+### Tunneling
+
+- **QUOI** : le tueur revient chercher le survivant qu'il vient d'accrocher.
+- **POURQUOI il le fait** : une mort retire un réparateur ; c'est la stratégie la plus rentable contre une équipe qui répare vite (§6.1).
+- **Protections basekit** : Endurance + Haste 10 s + Elusive 10 s (§6.3). **Aucun système anti-tunnel plus lourd n'est LIVE** (projets PTB 9.2.0 reportés, 9.3.0 annulés) [FACT] (VP).
+- **Perks anti-tunnel** : **Will to Live** (stun 4 s, actif 40/50/60 s après un décrochage, désactivé portes alimentées [FACT] (SS) ; réparer ou soigner le coupe : l'utiliser, c'est accepter de ne rien faire d'utile pendant la fenêtre) ; **Off the Record** 30/35/40 s avec Endurance [FACT] (SS) ; **Babysitter** (+10 % Haste, pas de traces 20/25/30 s [FACT] (SS)) ; **Borrowed Time** LIVE : [INCERTAIN] (la refonte est PTB 10.2.0 — non LIVE).
+- **COMMENT** [HEURISTIQUE] :
+  - **vous êtes décroché et il revient** : les 10 s servent à casser la LOS et changer de direction, pas à courir tout droit ; aucune action voyante ; allez vers des tiles, **pas vers un gen** ;
+  - **un allié est tunnelé** : l'équipe **répare en priorité** — le tueur investit sa chase sur une cible déjà « payée ». Un seul survivant sain peut prendre un protection hit s'il est déjà proche ([SoloQ]) ou si c'est son rôle ([SWF]).
+- **CAS D'ÉCHEC** : si le tunnel réussit vite, l'équipe passe à 3 réparateurs très tôt. **Alternative** : quand le tunnel est certain et rapide, le sauveteur peut **retarder** le décrochage jusqu'à ce que le tueur s'engage ailleurs, quitte à perdre ~10-20 s de phase.
+- **EXERCICE** : erreurs E-I11 (gaspiller les protections) et E-A06 (mal protéger le décroché).
+
+### Slugging
+
+**Faits** : récupération au sol **automatique** jusqu'à **95 % en 30,4 s** [FACT] (VM), « **à l'arrêt** » selon le wiki (ramper la suspend probablement : à tester) (SS) ; **aucune auto-relève basekit LIVE** [FACT] (VP) ; bleed-out **240 s** [FACT] (SS) ; rampement 0,7 m/s (1,05 m/s selon une autre source : [INCERTAIN]) ; **Abandon** possible au 3e passage au sol après avoir été relevé ou soigné 2 fois (9.2.0) ; **Surrender** quand tous les survivants sont au sol (8.6.0) [FACT] (VP). Relevage complet seul uniquement via perk (Unbreakable 1×/épreuve sur une mise au sol par le tueur ; Boon: Exponential dans 24 m).
+
+- **POURQUOI le tueur slug** : relever coûte du temps (durée du relevage : [INCERTAIN], absente des sources vérifiées) et attire un sauveteur qu'il peut mettre au sol aussi. Le slug est rentable pour lui quand **plusieurs survivants sont proches**.
+- **Vous êtes au sol — ramper ou récupérer ?** [SITUATIONNEL]
+  - **ramper** vers un coéquipier ou une zone couverte (pas vers un gen occupé, un cul-de-sac ou le crochet le plus proche) **si** cela rapproche réellement un sauveteur ou vous sort de la vue du tueur ;
+  - **rester immobile** si le tueur est parti loin et qu'un allié arrive déjà : relevé depuis 95 %, le coéquipier finit plus vite ;
+  - ne pas alterner au hasard : chaque changement perd du temps des deux côtés.
+- **Un allié est au sol, le tueur est à côté** : **ne venez pas à deux**. Un seul relève, **quand le tueur est engagé ailleurs**. **Exception** : un tueur qui **attend** indéfiniment ne s'engagera jamais ailleurs ; attendre coûte le bleed-out de l'allié. Un survivant **sain** peut alors le **tirer en chase** vers un tile fort pendant qu'un autre relève — en [SWF] sur annonce ; en [SoloQ] seulement si vous êtes clairement le mieux placé.
+- **Knock Out** (auras des mourants réduites à 32/24/16 m après un M1 [FACT] (SS)) : si vous ne voyez pas l'allié, ne partez pas à l'aveugle vers son dernier point connu.
+- **Tout le monde au sol sauf vous** : le dernier debout **évite la chase** (s'il tombe : tous au sol, Surrender possible) ; relever si le tueur s'éloigne, sinon attendre qu'il accroche (un accrochage le fixe ailleurs). S'il vous trouve quand même, tenir la chase **le plus longtemps possible** près d'un tile fort : chaque seconde laisse récupérer les alliés au sol.
+- **Abandon / Surrender** : des options de fin, pas des stratégies. Abandonner prive l'équipe d'un réparateur et d'un leurre : en [SWF], l'annoncer ; en [SoloQ], préférer ramper vers un allié tant qu'une chance réelle existe [AVIS D'EXPERT].
+
+**Arbre SLUG (version courte)** — complet : arbre 7 de `DECISION_TREES.md` (SLG-1 à SLG-11).
+
+```
+Un allié est au sol → où est le tueur ?
+├─ à côté / en vue → par défaut NE PAS y aller ; il cherche la 2e cible
+│     exception : il attend indéfiniment → un SAIN le tire en chase, un autre relève
+├─ en chase avec un autre → j'y vais SEUL si je suis le plus proche
+│     (immobile depuis 30,4 s → allié à 95 % ; s'il a rampé, jauge plus basse)
+└─ inconnu → Knock Out possible ? je ne le vois pas → pas d'aller à l'aveugle
+Plusieurs au sol ?
+├─ je suis le dernier debout → éviter la chase ; relever s'il s'éloigne ;
+│     sinon attendre qu'il accroche ; trappe seulement si je suis seul en vie
+└─ deux debout → un relève, l'autre reste loin (ou fait diversion loin)
+Je suis au sol → ramper vers allié/couverture OU rester immobile (récupération)
+      perk de relève (Unbreakable, Exponential) → la garder pour quand il s'éloigne
+  [SoloQ] supposer qu'un allié viendra probablement, ramper vers lui
+  [SWF]   « tueur à côté, ne venez pas » / « il est parti, relève-moi »
+```
+
+**EXERCICE** : erreur E-A10 (mal gérer l'état au sol).
+
+Détail : `kb/research/batch9_macro.md` §2.6-2.8, §7.5.
+
+---
+
+## 6.5 Soigner ou ne pas soigner `[Intermédiaire]`
+
+### Le prix et le rapport d'un soin
+
+- **Prix (calcul)** : **32 s-surv** pour un soin altruiste (16 s × 2 survivants) ; auto-soin au Med-Kit ≈ **24 s** (calcul sur l'hypothèse d'un −33 % de vitesse appliqué simplement : à vérifier en jeu) ; Mangled +25 % ; Deep Wound à mender avant tout (10 s seul / 6 s par un allié).
+- **Rapport** [HYPOTHÈSE] : un état de santé force au minimum un coup de plus, soit le cooldown de coup réussi (**2,7 s** [FACT] (VM)), votre boost au coup, puis une nouvelle phase de rattrapage (10 m d'avance ≈ 16,7 / 25 s bruts à 4,6 / 4,4 m/s ; ≈ 12-13 / 17-18 s avec Bloodlust et fente : calcul). Ordre de grandeur plausible : **~12-30 s de chase en plus**, très dépendant des tiles.
+- **Bilan (calcul sur cette hypothèse)** :
+
+| Réparateurs pendant la chase gagnée | Gain de la chase | Coût du soin altruiste | Verdict |
+|---|---|---|---|
+| 3 | 36-90 s-surv | 32 s-surv | **rentable** dans le cas idéal |
+| 2 | 24-60 s-surv | 32 s-surv | **proche de l'équilibre** |
+| + trajet vers le soigneur, coup unique, reblessure à distance, soigné qui ne sera pas le prochain chassé | — | — | **perdant** |
+
+> **À retenir** : ni « toujours soigner » ni « jamais soigner ». Un état de santé n'est « encaissé » que s'il sert **en chase** : soignez en priorité le prochain survivant qui sera chassé.
+
+### Table de décision
+
+| Contexte | Décision | Pourquoi | Risque / alternative |
+|---|---|---|---|
+| Tueur à **coup unique** fréquent (Hillbilly, Cannibal, Oni Blood Fury ; Shape Evil Incarnate [INCERTAIN]) | Soin souvent **non rentable** | L'état de santé ne vaut rien contre l'attaque spéciale | Il garde de la valeur contre ses M1 [SITUATIONNEL] |
+| Tueur à **blessure à distance / statut** (Legion, Plague, Trickster, Krasue…) | **Pas de soin par réflexe** | Il reblesse vite et à distance | Contre Plague, purifier crée des fontaines corrompues ; rester Broken est un compromis, pas une règle |
+| Gen > ~70 % et tueur loin | **Finir le gen**, soigner après | Un gen fini est un acquis définitif | Si le tueur arrive : arbre GEN |
+| Dernier gen, **Adrenaline** dans l'équipe | Le porteur ne se soigne pas | Adrenaline soigne d'un état à l'alimentation [FACT] (SS) | **Terminus** rend Broken à l'alimentation : Adrenaline ne soigne plus [FACT] (SS) |
+| Perks « blessé » (Resilience…, valeurs [INCERTAIN]) | Rester blessé est **acceptable** | Bonus d'action | Un seul coup vous met au sol |
+| Le TR arrive pendant le soin | **Par défaut, arrêter et partir** ; si le soin est presque fini (temps restant < arrivée − 2 s), finir | Soin interrompu conservé, sauf **Haemorrhage** (−7 %/s) [FACT] (SS) | Contre un tueur furtif, le TR arrive trop tard |
+| **A Nurse's Calling** possible (28/30/32 m, LIVE 10.1.0 [FACT] (VP)) | Soigner **loin** du tueur ou derrière de la couverture | Auras de soin révélées dans ce rayon | Loadout du tueur caché : c'est une hypothèse à tester |
+| Forte pression, 2 blessés | **Un seul** soin, le plus utile (meilleur looper ou prochain chassé) | Le 2e soin coûte 0,36 gen de plus | Zéro soin, gens à fond |
+| **2 survivants restants** | Soin **presque toujours** rentable | Plus de cibles alternatives : chaque coup encaissé allonge la partie | Sauf si trappe / porte proche |
+
+**Nombre de soigneurs** : 2 maximum selon le wiki, 3 selon une autre source [INCERTAIN] : ne planifiez jamais un soin à 3.
+
+### Reset, regroupement, split pressure
+
+- **Reset** [HEURISTIQUE] : remettre l'équipe « tout le monde sain » après une vague de pression. Deux soins altruistes = **64 s-surv ≈ 0,7 gen**. Rentable seulement si le tueur doit **encore** faire beaucoup de coups (tueur M1, gens nombreux). À 1-2 gens de la fin ou contre un tueur à coup unique, **rarement** rentable — mais un soin **ciblé** reste juste pour le survivant qui tiendra la chase d'endgame ou fera un protection hit, ou si personne n'a Adrenaline. Sous NOED / Exposed, être sain ne protège plus : ce n'est pas une raison de soigner.
+- **Regroupement** : seulement pour **échanger des ressources** (Med-Kit, relevage, Boon) ou pour convertir en fin de partie. Toute autre proximité donne des cibles multiples.
+
+**Arbre SOIN (version courte)** — complet : arbre 4 de `DECISION_TREES.md` (SOI-1 à SOI-12).
+
+```
+Blessé (moi ou un allié) → tueur proche (TR, chase près de nous) ?
+├─ OUI → pas de soin ; partir (soin interrompu conservé, sauf Haemorrhage)
+└─ NON → type de tueur ?
+    ├─ coup unique → peu rentable contre le pouvoir ; valeur contre ses M1 ; défaut : gens
+    ├─ blessure à distance / statut → pas par réflexe ; soigner le prochain chassé
+    └─ M1 standard → Deep Wound ? oui → mender d'abord (10 s / 6 s)
+                     non → 1 gen + Adrenaline dans l'équipe → le porteur ne se soigne pas
+                                (Terminus suspecté → Adrenaline ne soigne pas)
+                           gen en cours > ~70 % et tueur loin → finir d'abord
+                           sinon : allié à < ~10 s → soin altruiste (32 s-surv)
+                                   Med-Kit → auto-soin loin des gens occupés
+                                   rien → rester blessé et réparer
+  [SoloQ] un allié blessé vient vers moi : vérifier le TR avant de lâcher mon gen
+  [SWF]   « je reste blessé » évite qu'un allié quitte son gen pour rien
+```
+
+**EXERCICE** : DR-18 (décision de soin) ; erreurs E-I02 (over-heal), E-T11 (Deep Wound sous pression).
+
+Détail : `kb/research/batch9_macro.md` §2.9-2.10, §7.2.
+
+---
+
+## 6.6 Économie de l'information et positionnement `[Avancé]`
+
+### Ce que vous émettez
+
+| Émission | Reçue par | Effet | Confiance |
+|---|---|---|---|
+| Traces de griffures (course) | tueur, 10 s | Marcher les supprime ; indispensable après une perte de LOS | [FACT] (SS) |
+| Flaques de sang, grognements (blessé) | tueur | Rester blessé rend la furtivité plus difficile | [FACT] existence ; portée [INCERTAIN] |
+| Corbeaux (4 m) | tueur | Accroupi / Calm Spirit : pas d'envol | [FACT] (SS) |
+| Corbeaux AFK (80/100/120 s d'inactivité) | tueur | Se cacher trop longtemps immobile finit par vous signaler | [FACT] (VP) |
+| Skill check raté | tueur | −10 % ; bruit : à vérifier en jeu | [FACT] pénalité ; bruit [INCERTAIN] |
+| Gen fini | tout le monde | Peut déclencher des perks (No Holds Barred…) | notification [INCERTAIN] |
+| Interrupteur de porte (No Way Out) | tueur | Loud Noise ; blocage 12 s + 6/9/12 s par jeton | [FACT] (SS) |
+| Accroupissements / gestes à < 10 m de The Judgment | tueur | 3 → Heresy | [FACT] (VP) |
+
+### Ce que vous recevez gratuitement
+
+- l'**identité du tueur**, révélée dès qu'un survivant entre en chase ou perd un état [FACT] (VP, 9.6.0) ;
+- les **loadouts de vos coéquipiers** dans Match Details (perks, objets, add-ons, offrandes) [FACT] (VP, 9.6.0) ;
+- le TR, la musique de chase, la tache rouge, l'aura de la trappe pour le dernier survivant [FACT] (SS) ; les auras des alliés accrochés : à vérifier en jeu [INCERTAIN].
+
+**Le loadout du tueur reste caché jusqu'à la fin** [FACT] (VP) : toute « connaissance » de ses perks est une **déduction** (§6.8, suivi des perks).
+
+> **Note avancée** — principe d'économie [HEURISTIQUE] : ne rien montrer au tueur coûte peu en début de partie et beaucoup en fin ; **acheter** de l'information (aller vérifier un crochet, regarder la chase d'un allié) coûte des s-surv. En SoloQ, on achète l'information avec des **perks** (Kindred, Bond, Empathy…, valeurs [INCERTAIN]) ; en SWF, avec la **voix**, qui est gratuite.
+
+### Positionnement
+
+- **Distance au crochet probable** [HEURISTIQUE] : pendant la chase d'un allié, se placer de façon à atteindre la zone de crochets probable **bien avant 70 s** — idéalement 20-30 s de course, soit **80-120 m** (calcul à 4 m/s) — sans être sur son chemin de portage.
+- **Éviter le gen le plus proche du crochet** au moment de l'accrochage : c'est le premier que le tueur visite en repartant, et celui que Pain Resonance / Grim Embrace et Nowhere to Hide rendent dangereux.
+- **Respecter les 16 m** pendant un face camp : être au-delà ne ralentit pas l'anti-camp [FACT] (SS). Mais **hors rayon ≠ hors vue** : à 16-30 m, un tueur qui regarde autour du crochet vous voit.
+- **Rayons d'équipe** : Vigil (16 m), Boons (24 m), Bond, Empathy dictent le placement **si** l'équipe les porte (Match Details).
+- **Proximité des ressources** : réparer un gen **adossé à un tile fort** plutôt qu'en dead zone ; contre les tueurs à mobilité, la LOS haute compte plus que le nombre de palettes.
+
+Détail : `kb/research/batch9_macro.md` §2.12-2.13.
+
