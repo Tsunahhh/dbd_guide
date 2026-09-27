@@ -264,3 +264,84 @@
 - **Écart avec le seed** : Shock Therapy 0,65 s (9.6.1) OK [AUDIT] ; valeurs Static Blast / Madness III : NON VÉRIFIABLE.
 - **Sources** : [1] [2]
 
+## Claims
+
+| ID | Claim | Source | Patch | Confiance |
+|---|---|---|---|---|
+| L4G1-C01 | Nurse 3,85 m/s | [1] (wiki via audit) | LIVE | STRONG_SECONDARY [AUDIT] |
+| L4G1-C02 | Shape : Evil Incarnate 60 s, Slaughtering Strike 7,5 m/s, CD 4 s, TR Pursuer 16 m / EI 32 m | [1] | 9.2.3 (LIVE) | VERIFIED (audit) |
+| L4G1-C03 | Shape : rework modes Stalker/Pursuer/Evil Incarnate | [1] | 9.2.0 | VERIFIED (audit) |
+| L4G1-C04 | Shape retirée de la boutique, jouable pour possesseurs | [1] | 19/01/2026 ; renommages 9.4.0 | VERIFIED (audit) |
+| L4G1-C05 | Doctor : Shock Therapy 0,65 s | [1] | 9.6.1 (LIVE) | VERIFIED (audit) |
+| L4G1-C06 | Hillbilly/Cannibal : casse de palette à la tronçonneuse ~1 s | [1] (wiki Pallets) | LIVE | STRONG_SECONDARY [AUDIT] |
+| L4G1-C07 | Shape Stalker 4,2 m/s | [1] (fandom), [2] | ? | UNCERTAIN |
+| L4G1-C08 | Hillbilly TR 40 m (seed) vs 32 m | [2] vs [MÉM] | ? | UNCERTAIN |
+| L4G1-C09 | Hillbilly sprint ~10,1 m/s (seed) vs ~8,8 m/s | [2] vs [MÉM] | ? | UNCERTAIN |
+| L4G1-C10 | Hag TR 24 m (seed) vs 32 m | [2] vs [MÉM] | ? | UNCERTAIN |
+| L4G1-C11 | Wraith 6,0 m/s occulté | [2], [MÉM] | ? | UNCERTAIN |
+| L4G1-C12 | Nurse : 2 blinks, ~20 m puis ~12 m, fatigue 2 s +0,5/blink +1 s si raté | [2] | ? | UNCERTAIN |
+| L4G1-C13 | Trapper : 8 pièges, 2 en main, pose 2,5 s, Haste 7,5 % 5 s | [2] | ? | UNCERTAIN |
+| L4G1-C14 | Hag : 10 pièges, téléport ≤ 48 m, faux TR 8 m | [2] | ? | UNCERTAIN |
+| L4G1-C15 | Doctor Static Blast recharge 30-45 s | [2] | ? | UNCERTAIN |
+| L4G1-C16 | Protections d'unhook : Endurance + 10 % Haste 10 s + Elusive 10 s | [1] | 10.1.0 | VERIFIED (audit) |
+
+## Conflits
+
+#### CONFLICT-L4G1-01 : TR de The Hillbilly
+- Source A : seed `ch8_killers.txt` (« RT : 40 m »).
+- Source B : connaissance du modèle (antérieure à mi-2026) : 32 m. Aucune source web consultée (quota).
+- Hypothèse : erreur du seed (l'audit signale des erreurs dans la fiche Hillbilly sans les détailler) ; 40 m est le TR de certains tueurs à distance, confusion possible.
+- Résolution : UNRESOLVED (à vérifier sur wiki.gg).
+
+#### CONFLICT-L4G1-02 : vitesse de sprint tronçonneuse du Hillbilly
+- Source A : seed (~10,1 m/s ; ~12 m/s en Overdrive).
+- Source B : connaissance du modèle : ~8,8 m/s (valeur possiblement antérieure à l'Overdrive).
+- Hypothèse : changement de mécanique (Overdrive) non capté par ma connaissance, ou erreur du seed.
+- Résolution : UNRESOLVED.
+
+#### CONFLICT-L4G1-03 : TR de The Hag
+- Source A : seed (« RT : 24 m »).
+- Source B : connaissance du modèle : 32 m.
+- Hypothèse : erreur du seed, ou changement non capté.
+- Résolution : UNRESOLVED.
+
+## Écarts avec le guide seed
+
+| Élément | Le guide dit | Vérifié | Verdict |
+|---|---|---|---|
+| Orientation des 7 fiches | ~75 % « comment le jouer » (tueur) | audit [1] | IMPRÉCIS (angle tueur ; remplacé ici par vue survivant) |
+| Nurse vitesse | 3,85 m/s | audit [1] | OK |
+| Shape EI / SS / CD / TR | 60 s, 7,5 m/s, ~4 s, 16/32 m | audit [1] (9.2.3) | OK |
+| Shape retrait boutique | janv. 2026 | audit [1] (19/01/2026) | OK |
+| Shape Stalker 4,2 m/s | 4,2 m/s | audit : UNCERTAIN | NON VÉRIFIABLE |
+| Doctor Shock Therapy | 0,65 s (9.6.1) | audit [1] | OK |
+| Doctor 0,8 → 0,75 s (9.6.0) | étape intermédiaire | audit : « buff Doctor 9.6.0 » sans valeur | NON VÉRIFIABLE |
+| Hillbilly TR | 40 m | mémoire : 32 m | SUSPECT → NON VÉRIFIABLE (CONFLICT-01) |
+| Hillbilly sprint | ~10,1 / ~12 m/s | mémoire : ~8,8 m/s | NON VÉRIFIABLE (CONFLICT-02) |
+| Hillbilly « blessé = moins exposé à la tronçonneuse » | conseil de counterplay | logique de jeu (tout coup met un blessé à terre) | FAUX (HEURISTIC, confiance élevée) |
+| Hag TR | 24 m | mémoire : 32 m | SUSPECT → NON VÉRIFIABLE (CONFLICT-03) |
+| Trapper Haste post-pose 7,5 % | présent | non connu de ma mémoire | NON VÉRIFIABLE |
+| Wraith invisibilité > 20 m, sursaut 6,9 m/s | présent | — | NON VÉRIFIABLE |
+| Wraith add-on Soot (9.5) | présent | non relevé par l'audit | NON VÉRIFIABLE |
+| Nurse Heavy Panting nerf 9.6.0 | présent | non relevé par l'audit | NON VÉRIFIABLE |
+| Shape exécution sur 2e crochet en EI | présent | — | NON VÉRIFIABLE (impact survivant élevé) |
+| Doctor Static Blast 30-45 s, Madness III bloque les actions | présent | — | NON VÉRIFIABLE |
+| Build/kill rates NightLight par tueur | chiffres sans n | audit : « ~70 kill rates NightLight par tueur sans n » | IMPRÉCIS (audit) |
+
+## Questions ouvertes
+
+1. **Relancer ce lot avec WebSearch** (quota épuisé le 27/09/2026) : les 7 tueurs sont à re-vérifier ; priorité aux valeurs à fort impact survivant : TR Hillbilly et Hag, sprint/Overdrive Hillbilly, exécution Shape en EI, Madness III et Static Blast (Doctor), Haste post-pose et libération du piège (Trapper).
+2. Contenu exact du buff Doctor 9.6.0 (l'audit le cite sans valeurs).
+3. Changements 9.x-10.x non relevés par l'audit sur Trapper, Wraith, Nurse, Hag (le seed mentionne 9.5 / 9.6.0 / 10.1 sans source).
+4. Effets LIVE exacts des add-ons cités (Tar Bottle, Iridescent/Honing Stone, Bone Clapper, Windstorm, Swift Hunt, Serpent – Soot, Apex Muffler, LoPro Chains, Matchbox, Campbell's, Judith's/Tombstone, Scratched Mirror, Fragrant Tuft, Mint Rag, Rusty Shackles, Interview Tape, High Stimulus Electrode, Carter's Notes).
+5. Guides de counterplay survivant écrits par des experts (à étiqueter EXPERT_OPINION) : non consultés.
+6. Mécanique lampe/pétard vs désoccultation du Wraith au LIVE.
+7. Fréquence réelle de la Shape en partie depuis le retrait boutique (19/01/2026).
+
+## Sources
+
+[1] Audit phase 0 du projet — `/home/user/dbd_guide/kb/seed/audit_phase0.txt` (tableau des patchs 9.2.0 → 10.1.2a, « Référence vérifiée ») — consulté le 27/09/2026 (fichier local, pas via WebSearch).
+[2] Guide seed, chapitre 8 — `/home/user/dbd_guide/kb/seed/ch8_killers.txt` l. 1-546 — consulté le 27/09/2026 (fichier local ; brouillon non fiable).
+[3] Brief des agents — `/home/user/dbd_guide/kb/research/AGENT_BRIEF.md` — consulté le 27/09/2026.
+[4] Registre des contenus obsolètes — `/home/user/dbd_guide/kb/ledgers/OUTDATED_CONTENT_REPORT.md` (D-092) — consulté le 27/09/2026.
+- Aucune source web : quota WebSearch épuisé (0 recherche aboutie). [MÉM] = connaissance du modèle (antérieure à mi-2026), non citée comme source.
