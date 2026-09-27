@@ -72,57 +72,86 @@
 - **Sources** : [4], [16], [17], [18], [21], [1], [2].
 
 ## 17. The Demogorgon — archétype(s) : mobilité | anti-loop | info
-- **Version** : buffs 9.6.0 (28/04/2026) : Shred 19 m/s, Undetectable 12 s (sortie de portail) [1] — VERIFIED_PRIMARY (via audit). Statut LIVE.
-- **Données LIVE** :
-  - Vitesse 4,6 m/s, TR 32 m, grand — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN ; concorde avec connaissance du modèle (antérieure à mi-2026), UNCERTAIN.
-  - Portails (Of the Abyss) : nombre max (seed : 6, 8 avec Lifeguard Whistle) — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN. Traversée par l'Upside Down, sortie en Undetectable 12 s — LIVE [1] ; « 5 s avant 9.6.0 » — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN.
-  - Scellement de portail par les survivants (seed : 12 s solo) — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN.
-  - Shred : attaque chargée, 19 m/s (LIVE [1]) ; casse les palettes instantanément (audit, STRONG_SECONDARY, liste à reconfirmer) ; murs cassables — UNCERTAIN ; rotation « 55°/s doublée au 9.6.0 » — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN.
-- **Identification** : TR 32 m ; portails posés (visibles seulement une fois activés — UNCERTAIN) ; cri/son d'émergence ; posture de charge du Shred (il se ramasse avant de bondir) — HEURISTIC.
-  - Stratégie probable : réseau de portails autour du 3-gen/crochets centraux, arrivée Undetectable sur un gen — HEURISTIC.
-- **Ce qu'il cherche en chase** : un Shred sur une ligne droite ou une palette pré-lâchée qu'il détruit sans perte de temps — HEURISTIC.
+- **Version** : buffs 9.6.0 [17] : Shred 18,4 → 19 m/s, virage du Shred **27,5 → 55 °/s**, Undetectable en sortie de portail **5 → 12 s**. Confiance : VERIFIED_PRIMARY, concordant avec le change log wiki [5]. Le wiki écrit « 18,3 m/s » et « 26,5 °/s » pour les anciennes valeurs, et son infobox affiche encore 18,4 m/s : la note officielle prime. 9.5.0 : pouvoir classé « Special-break » [16]. 9.6.2 : correction de Red Moss, qui ne coupait pas le gargouillis de sortie [19]. PTB 10.2.0 : « known issue » seulement. Statut LIVE.
+- **Données LIVE** (page wiki [5], STRONG_SECONDARY sauf mention) :
+  - Vitesse 4,6 m/s, **TR 32 m**, grand, pas de berceuse. En canalisant Of the Abyss : **3,86 m/s**.
+  - Shred : charge 1 s. Relâché avant 65 % de charge, c'est un simple lunge. Bond à **19 m/s** (VERIFIED_MULTI_SOURCE). Détruit les palettes baissées et les murs cassables (cooldown 1,8 s ; Special-break VERIFIED_PRIMARY [16]). Cooldowns : Shred raté 2,25 s, réussi 2,7 s ; annuler un Shred chargé coûte 0,45 s.
+  - Portails : capacité 6. Posé, un portail est **inactif** : invisible pour les survivants, non scellable, sans zone d'effet. Quand il traverse, le portail de départ et celui d'arrivée deviennent **actifs** : visibles, scellables, avec une zone de 4 m où les survivants sont **Oblivious en permanence** et révélés par Killer Instinct pendant qu'il canalise. Traversée à 32 m/s, entrée 1,35 s, recharge du pouvoir 10 s, sortie en **Undetectable 12 s** (VERIFIED_MULTI_SOURCE). Bruit de portail : 8 m. Pose interdite à moins de 2,5 m d'une palette, 4 m d'une porte de sortie ou d'un crochet, et 8 m d'un autre portail.
+  - Scellement : **12 s seul**, ~9 s à deux (efficacité −33 %), 8 s à trois, 6 s à quatre. Le portail en cours de scellement montre son aura aux autres survivants et émet un son global. Un portail scellé retourne dans son inventaire : il peut le reposer.
+- **Identification** : TR 32 m ; portails actifs visibles ; posture de charge du Shred (il se ramasse avant de bondir) ; son de sortie de portail (sauf Red Moss) — FACT [5] + HEURISTIC.
+  - Stratégie probable : réseau de portails autour du 3-gen et des crochets centraux, arrivée Undetectable sur un gen — HEURISTIC.
+- **Ce qu'il cherche en chase** : un Shred sur une ligne droite, ou une palette pré-lâchée qu'il détruit sans perte de temps (1,8 s de cooldown seulement) — HEURISTIC.
 - **Tiles / structures** :
   - Favorables : tiles à murs hauts qui cassent la LOS et forcent des virages serrés ; fenêtres (le Shred ne franchit pas une fenêtre) — HEURISTIC.
-  - Défavorables : longues lignes droites, zones ouvertes, palettes pré-lâchées (cassées en Shred) — HEURISTIC.
-- **Mindgames propres** : charge de Shred tenue puis relâchée en M1 ; faux repli vers un portail — HEURISTIC.
+  - Défavorables : longues lignes droites, zones ouvertes, palettes pré-lâchées (cassées au Shred) — HEURISTIC.
+- **Mindgames propres** : charge de Shred tenue puis relâchée en M1 (avant 65 % = lunge normal) ; faux repli vers un portail — HEURISTIC.
 - **Counterplay** :
-  - Mécanique : pendant qu'il charge le Shred il est plus lent → prendre de la distance ou couper la ligne ; changer de direction au moment de la détente — HEURISTIC (valeur de ralentissement UNCERTAIN).
+  - Mécanique : pendant la charge, il avance à 3,86 m/s contre 4,0 m/s pour vous (FACT [5]). Prendre de la distance ou couper la ligne ; changer de direction au moment de la détente. Depuis 9.6.0, son virage en Shred est doublé (55 °/s) : les esquives latérales tardives rapportent moins qu'avant — HEURISTIC fondé sur un FACT [17].
   - Positionnel : ne pas pré-lâcher trop tôt ; lâcher la palette quand il est engagé dans une animation — HEURISTIC.
-  - Macro : sceller les portails proches des gens clés (à deux seulement si le second survivant n'a pas mieux à faire : l'effet d'un scellement à deux n'est pas vérifié, et en SoloQ cela retire souvent un réparateur d'un gen) ; toute sortie = 12 s d'Undetectable → vérifier les abords du gen après son disparition — FACT (12 s) + HEURISTIC.
-  - Équipe : annoncer les portails actifs ; le sceau d'un portail près du 3-gen vaut plus qu'un portail excentré — HEURISTIC.
-- **Habitudes punissables** : réparer près d'un portail actif sans surveillance ; pré-drop systématique ; courir en ligne droite en open. **Erreur classique** : croire qu'un tueur « disparu » est parti loin (12 s d'Undetectable depuis 9.6.0).
-- **Adaptations avancées** : quand le Shred est chargé, rester collé à l'obstacle (il ne peut pas « couper » un mur haut) ; si son virage a bien été amélioré (seed, non vérifié), les dodges tardifs marchent moins que sur l'ancien Demogorgon — UNCERTAIN.
-- **Add-ons qui changent la décision** : NON VÉRIFIABLE. Seed : Red Moss (+Undetectable, sortie silencieuse), Lifeguard Whistle (+portails), Vermilion Webcap, Rat Liver / Unknown Egg. Règle (HEURISTIC) : sortie silencieuse → ne plus compter sur le son d'émergence, surveiller visuellement ; portails supplémentaires → prioriser le sceau.
+  - Macro : sceller les portails actifs proches des gens clés. Seul : 12 s ; à deux : ~9 s, donc deux survivants mobilisés pour ne gagner que 3 s (FACT [5]). À deux seulement si le second n'a rien de mieux à faire ; en SoloQ, cela retire souvent un réparateur d'un gen. Toute sortie de portail = 12 s d'Undetectable : vérifier les abords du gen après sa disparition — FACT + HEURISTIC.
+  - Près d'un portail actif (4 m), vous êtes Oblivious : pas de TR même s'il est proche. Ne pas réparer ou soigner collé à un portail actif — FACT [5] + HEURISTIC.
+  - Équipe : annoncer les portails actifs ; le sceau d'un portail près du 3-gen vaut plus que celui d'un portail excentré. Le son de scellement est entendu par tous les survivants, donc inutile de l'annoncer en SoloQ — HEURISTIC.
+- **Habitudes punissables** : réparer près d'un portail actif ; pré-drop systématique ; courir en ligne droite en open. **Erreur classique** : croire qu'un tueur « disparu » est parti loin (12 s d'Undetectable depuis 9.6.0).
+- **Adaptations avancées** : quand le Shred est chargé, rester collé à l'obstacle (il ne peut pas « couper » un mur haut). Son virage a bien été doublé (27,5 → 55 °/s, VERIFIED_PRIMARY) : les dodges tardifs marchent moins que contre l'ancien Demogorgon — HEURISTIC.
+- **Add-ons qui changent la décision** (noms et effets LIVE lus sur [5]) :
+  - Red Moss (Undetectable +8 s, bruits de sortie supprimés, sortie 15 % plus lente) → ne plus compter sur le son d'émergence : surveiller visuellement les abords des gens pendant ~20 s après chaque sortie, au lieu des 12 s habituelles. Le total de ~20 s est un calcul (12 + 8) : le wiki affiche « to 13 seconds », texte d'avant 9.6.0 (UNCERTAIN, CONFLICT-B4G3-07).
+  - Vermilion Webcap (+3 s) ou Violet Waxcap (+1 s) → même adaptation, marge plus courte.
+  - Lifeguard Whistle (+2 portails, soit 8) ou Mews' Guts (+1 portail) → prioriser le scellement des portails près des gens clés au lieu de laisser le réseau grandir.
+  - Deer Lung (−2 portails, soit 4 ; traversée +30 %) → chaque scellement pèse plus : sceller dès que possible.
+  - Leprose Lichen (auras de tous pendant la traversée, qui persistent 3 s pour les survivants à 16 m ou moins d'un portail actif) → pendant ses traversées, ne pas compter sur la cachette ; s'éloigner des portails actifs.
+  - Brass Case Lighter (Blindness 60 s après avoir scellé) → sceller coûte vos auras : sceller quand même si le portail menace le 3-gen, sinon laisser.
+  - Upside Down Resin (+20 %), Viscous Webbing (+10 %), Thorny Vines (+8 % et zone +1 m) → scellement plus long : ne sceller que les portails prioritaires.
+  - Sticky Lining (zone +2,5 m, soit 6,5 m) → zone d'Oblivious plus large : s'éloigner davantage des portails actifs.
+  - Barb's Glasses (−10 % de cooldown après une casse au Shred) → le pré-drop devient encore moins rentable : garder la palette debout.
 - **Implications de carte** : grandes cartes = plus de valeur pour les portails ; cartes à nombreux murs hauts = Shred limité — HEURISTIC.
-- **Perks fréquentes / synergies** : Surge (nom actuel, ex-Jolt, confirmé audit) [1] ; téléportation → perks de régression à distance — HEURISTIC.
-- **Écart avec le seed** : Shred 19 m/s OK ; Undetectable 12 s OK ; « 5 s avant 9.6.0 », virage « doublé », Oblivious près des portails, 6/8 portails, scellement 12 s : NON VÉRIFIABLE.
-- **Sources** : [1], [2].
+- **Perks fréquentes / synergies** : Surge (nom actuel, ex-Jolt ; perks de la page : Surge, Mindbreaker, Cruel Limits [5]) ; téléportation → perks de régression à distance — HEURISTIC.
+- **Écart avec le seed** : Shred 19 m/s OK ; Undetectable 12 s OK ; « 5 s avant 9.6.0 » **OK (VERIFIED_PRIMARY)** ; virage « doublé » à 55 °/s **OK (VERIFIED_PRIMARY)** ; Oblivious près des portails actifs **OK** (zone de 4 m) ; 6 portails, 8 avec Lifeguard Whistle **OK** ; scellement 12 s seul **OK**.
+- **Sources** : [5], [16], [17], [19], [23], [1], [2].
 
 ## 18. The Oni (Kazan Yamaoka) — archétype(s) : M1 | mobilité | coup unique (Fury)
-- **Version** : buffs 9.1.0 (29/07/2025, détail non documenté dans l'audit) [1]. Statut LIVE. Détails 9.1.0/9.2 (seed : 5 orbes par crochet, virage Demon Strike) — NON VÉRIFIABLE.
-- **Données LIVE** :
-  - Vitesse 4,6 m/s, TR 32 m, grand — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN ; concorde avec connaissance du modèle (antérieure à mi-2026), UNCERTAIN.
-  - Yamaoka's Wrath : orbes de sang laissés par les survivants blessés, absorbés pour remplir la jauge ; jauge pleine → Blood Fury — FACT de principe ; durées/quantités (seed : ~45 s, 5 orbes/crochet, Demon Dash ~7,8 m/s, 3,45 m/s en absorption) — seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN.
-  - En Blood Fury : Demon Dash (charge puis course rapide) + Demon Strike (met à terre un survivant sain) ; casse les palettes instantanément (audit, STRONG_SECONDARY, liste à reconfirmer).
-- **Identification** : TR 32 m ; avant la Fury = M1 standard ; activation de la Fury = cri/roar audible et musique de chase changée (UNCERTAIN sur portée) ; bruit de dash caractéristique — HEURISTIC.
-  - Stratégie probable : blesser beaucoup tôt, farm d'orbes près des crochets, tournée de gens en Fury — HEURISTIC.
-- **Ce qu'il cherche en chase** : injurer vite (orbes), puis Fury en terrain ouvert où la Demon Strike ne peut pas être évitée par une tile — HEURISTIC.
+- **Version** (tranche du lot 12b) :
+  - 9.1.0 [13] : « Increased the Demon Strike turn rate limit during the open phase of the attack to 540 degrees (was disabled) ». La limite de rotation de la Demon Strike, supprimée au 8.7.0, est **rétablie** à 540° pendant la phase d'ouverture. Le wiki [6] le classe en **Nerf**. VERIFIED_MULTI_SOURCE.
+  - 9.2.0 [14] : orbes de sang générés au crochet **2 → 5**. C'est le vrai buff, annoncé par la Developer Update d'août 2025 [24] comme compensation des mesures anti-slug. VERIFIED_MULTI_SOURCE.
+  - 9.5.0 [16] : pouvoir classé « Special-break » (casse de palettes baissées et de murs).
+  - 9.6.0 [17] : « perte de 10 s de Demon Mode par down » est une ligne **2v8 uniquement**. En 1v1, la pénalité reste 7 s [6].
+  - → Les « buffs Oni 9.1.0 » de l'audit et du seed sont **IMPRÉCIS** : le 9.1.0 ajoute une limite (nerf), le buff date du 9.2.0. PTB 10.2.0 : aucun changement. Statut LIVE.
+- **Données LIVE** (page wiki [6], STRONG_SECONDARY sauf mention) :
+  - Vitesse 4,6 m/s, **TR 32 m**, grand, pas de berceuse.
+  - Jauge de 100 charges. Gain passif de +0,2 charge/s, **plafonné à 98** : il doit absorber au moins un orbe pour atteindre 100. Coup réussi sur un survivant **sain** : +40 charges. Orbe absorbé : +2,5 charges. En absorption, il avance à **3,45 m/s**, voit l'aura des orbes à 8 m et les attire à 6 m (cône de 45°).
+  - Orbes (émis par les survivants **blessés** seulement) : 2 toutes les 4 s en passif ; 2 par interaction (palette, casier, vault) ; 2 par skill check raté ; 1 en s'accroupissant ; **5 au crochet** (VERIFIED_MULTI_SOURCE). Ils ne disparaissent jamais (100 au maximum sur la carte). Ils sont invisibles pour les survivants, sauf un bref aperçu à leur apparition.
+  - Délai avant les premiers orbes d'un survivant décroché : 10 s selon la note 9.5.0 [16], 15 s selon le wiki. CONFLICT-B4G3-05, faible impact.
+  - Blood Fury : activation **3 s** (rugissement), durée max **~45,45 s** (−2,2 charges/s), −7 s par down en 1v1. Ramasser un survivant annule la Fury, mais les charges restantes sont conservées. Un stun palette ne met fin à la Fury que si la jauge est au-dessus de 99 ou en dessous de 5.
+  - Demon Dash : charge **2 s**, **7,82 m/s**, maniabilité réduite.
+  - Demon Strike : charge 2 s (bouton maintenu plus de 0,35 s). Double dégâts : un survivant sain va à terre. Peut toucher plusieurs survivants. Rotation max 540° pendant la phase d'ouverture. Cooldown 3 s si touché, 2 s si raté. L'attaque rapide en Fury compte comme attaque spéciale : pas de double dégâts via Exposed.
+  - Casse de palettes et de murs par le pouvoir : Special-break, VERIFIED_PRIMARY [16]. La page ne précise pas le mécanisme ; une correction 9.6.0 évoque la casse d'un mur en Demon Dash [17], donc probablement au Dash (UNCERTAIN).
+- **Identification** : TR 32 m. Avant la Fury, M1 standard. L'activation de la Fury prend 3 s avec un rugissement audible ; la charge du Dash (2 s) est reconnaissable — FACT [6] + HEURISTIC.
+  - Stratégie probable : blesser beaucoup tôt (+40 charges par coup sur un survivant sain), farmer les orbes près des crochets (5 par crochet), puis tournée de gens en Fury — HEURISTIC fondé sur [6].
+- **Ce qu'il cherche en chase** : blesser vite, puis lancer la Fury en terrain ouvert où la Demon Strike ne peut pas être évitée par une tile — HEURISTIC.
 - **Tiles / structures** :
-  - Favorables : tiles à murs hauts et virages serrés (casse la LOS du dash) ; fenêtres (dash ≠ vault) — HEURISTIC.
-  - Défavorables : open areas et longues lignes en Fury ; palettes en Fury (cassées instantanément) — HEURISTIC.
-- **Mindgames propres** : dash annulé/flick au dernier moment ; absorption pendant la chase pour déclencher la Fury juste avant une tile — HEURISTIC.
+  - Favorables : tiles à murs hauts et virages serrés (cassent la LOS du dash) ; fenêtres (le dash ne vaulte pas) — HEURISTIC.
+  - Défavorables : zones ouvertes et longues lignes en Fury ; palettes en Fury (cassables par son pouvoir) — HEURISTIC.
+- **Mindgames propres** : dash annulé ou flick au dernier moment ; absorption pendant la chase pour déclencher la Fury juste avant une tile — HEURISTIC.
 - **Counterplay** :
-  - Mécanique : en Fury, forcer le dash à tourner (virage au dernier moment, derrière un mur haut) ; attendre qu'il s'engage avant de changer de direction — HEURISTIC.
-  - Positionnel : hors Fury, jouer normalement ; en Fury, se rapprocher d'un groupement de LOS blockers plutôt que d'une palette isolée — HEURISTIC.
-  - Macro : limiter les orbes → se soigner quand c'est sûr et ne pas rester longtemps blessé (SITUATIONAL : ne pas soigner sous pression de gens) — HEURISTIC. Articulation avec `batch9_macro.md` §2.10 (P14) : là-bas, le soin est « souvent non rentable » contre un tueur à coup unique **en Blood Fury** ; ici, le soin **hors Fury** sert à lui refuser les orbes. Les deux tiennent : se soigner tôt pour retarder la Fury ; une fois la Fury lancée, ne pas commencer un soin.
+  - Mécanique : en Fury, forcer le dash à tourner (virage au dernier moment, derrière un mur haut) ; attendre qu'il s'engage avant de changer de direction. La charge de 2 s du Dash comme de la Strike laisse le temps de réagir. En revanche, au corps à corps, la Strike tourne jusqu'à 540° : l'esquive « par le côté » marche mal, il faut mettre un obstacle haut entre vous avant qu'il ne soit à portée — HEURISTIC fondé sur [6].
+  - Positionnel : hors Fury, jouer normalement ; en Fury, se rapprocher d'un groupe de LOS blockers plutôt que d'une palette isolée — HEURISTIC.
+  - Macro : limiter les orbes. Blessé, un survivant émet 2 orbes toutes les 4 s, plus 2 par vault ou palette (FACT [6]) : se soigner quand c'est sûr (SITUATIONAL : pas sous pression de gens). Chaque coup sur un survivant sain lui donne 40 % de jauge (FACT) : ne pas offrir de coups gratuits. Articulation avec `batch9_macro.md` §2.10 (P14) : là-bas, le soin est « souvent non rentable » contre un tueur à coup unique **en Blood Fury** ; ici, le soin **hors Fury** sert à lui refuser des orbes. Les deux tiennent : se soigner tôt pour retarder la Fury ; une fois la Fury lancée, ne pas commencer un soin.
+  - Après un crochet, 5 orbes sont au sol près du crochet (depuis 9.2.0) : attendre une Fury rapide — FACT + HEURISTIC.
+  - La Fury dure au plus ~45 s et perd 7 s par down : temporiser (LOS, distance) raccourcit sa fenêtre — FACT + HEURISTIC.
   - Équipe : se disperser quand la Fury démarre ; éviter de se regrouper blessés — HEURISTIC.
 - **Habitudes punissables** : rester blessé longtemps ; pré-drop pendant la Fury ; fuir en ligne droite en open. **Erreur classique** : sous-estimer la portée de la Fury depuis un gen éloigné.
 - **Adaptations avancées** : si la jauge est probablement pleine (plusieurs blessés, crochet récent), anticiper la Fury avant de prendre une tile faible — HEURISTIC/SITUATIONAL.
-- **Add-ons qui changent la décision** : NON VÉRIFIABLE. Seed : Lion Fang (+durée), Iridescent Family Crest, Renjiro's Bloody Glove, Splintered Hull. Règle (HEURISTIC) : add-on de durée → survivre en tenant la LOS plutôt que chercher une palette ; add-on d'aura sur orbes/blessés → ne pas compter sur la cachette.
+- **Add-ons qui changent la décision** (noms et effets LIVE lus sur [6]) :
+  - Lion Fang (Fury +10 s), Yamaoka Sashimono (+8 s) ou Chipped Saihai (+6 s) → Fury jusqu'à ~55 s : tenir la LOS au lieu de compter sur la fin de la Fury.
+  - Akito's Crutch (Dash +1 m/s), Kanai-Anzen Talisman (+0,64 m/s) ou Scalped Topknot (charge du Dash −0,5 s) → le dash vous rattrape plus vite : quitter l'open plus tôt, au lieu d'attendre de voir la charge.
+  - Splintered Hull (+33 % d'orbes et +1 par interaction) ou Wooden Oni Mask (+14 % et +1) → rester blessé coûte encore plus : soigner plus tôt, éviter les vaults inutiles quand vous êtes blessé.
+  - Renjiro's Bloody Glove (un survivant qui touche un orbe l'absorbe, et son aura est révélée 2 s par orbe ; les survivants voient les orbes) → contourner les orbes visibles au lieu de marcher dessus.
+  - Iridescent Family Crest (une Demon Strike ratée fait crier et révèle les survivants à 24 m ou moins) → en Fury, ne pas rester caché près d'une chase : s'éloigner à plus de 24 m.
+  - Tear-Soaked Tenugui (pénalité par down réduite de 4 s) ou Ink Lion (−2 s, et transitions plus courtes) → les downs raccourcissent moins la Fury : ne pas compter sur « un down = fin de Fury proche ».
+  - Shattered Wakizashi (+0,2 charge/s en passif) ou Polished Maedate (+0,1) → Fury régulière même sans orbes : se soigner ne suffit plus à la retarder, jouer la distance.
 - **Implications de carte** : cartes ouvertes (champs de maïs, Coldwind) favorisent la Fury ; cartes intérieures à murs hauts favorisent le survivant — HEURISTIC.
-- **Perks fréquentes / synergies** : seed : Pain Resonance, Corrupt Intervention, Pop, Eruption — NON VÉRIFIABLE. Côté survivant, Iron Will n'a pas d'effet documenté sur les orbes (le seed l'affirme « selon version ») — UNCERTAIN.
-- **Écart avec le seed** : buff 9.1.0 OK (existence) ; « 5 orbes par crochet depuis le 9.2 » NON VÉRIFIABLE ; « virage 540° au 9.1 » NON VÉRIFIABLE ; Iron Will contre les orbes IMPRÉCIS (probablement sans effet, UNCERTAIN).
-- **Sources** : [1], [2].
+- **Perks fréquentes / synergies** : seed : Pain Resonance, Corrupt Intervention, Pop, Eruption — fréquence NON VÉRIFIABLE ; ses perks : Zanshin Tactics, Blood Echo, Nemesis [6]. Côté survivant, Iron Will : aucune interaction avec les orbes dans la mécanique décrite par la page Oni [6] (émission liée à l'état blessé et aux interactions, pas au bruit). Probablement sans effet, non prouvé (page Iron Will non lue) — UNCERTAIN.
+- **Écart avec le seed** : buff 9.1.0 **IMPRÉCIS** (le 9.1.0 ajoute la limite de 540°, un nerf ; le buff d'orbes est au 9.2.0) ; « 5 orbes par crochet depuis le 9.2 » **OK (VERIFIED_PRIMARY [14])** ; « virage 540° au 9.1 » **OK (VERIFIED_PRIMARY [13])** ; Demon Dash ~7,8 m/s OK (7,82) ; 3,45 m/s en absorption OK ; Fury ~45 s OK (45,45 s) ; Iron Will contre les orbes IMPRÉCIS (probablement sans effet, UNCERTAIN).
+- **Sources** : [6], [13], [14], [16], [17], [24], [1], [2].
 
 ## 19. The Deathslinger (Caleb Quinn) — archétype(s) : ranged | anti-loop
 - **Version** : aucun changement 9.x → 10.1.2a trouvé dans l'audit [1]. Statut LIVE (valeurs non revérifiées).

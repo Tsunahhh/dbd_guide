@@ -561,3 +561,153 @@ Lecture (HEURISTIC) : contre un casseur **de base**, une palette « god » ne va
 
 Lecture (HEURISTIC) : Bamboozle et Crowd Control transforment les tiles **à fenêtre seule** (L-T, fenêtres à sens unique) en tiles mortes ; contre elles, les tiles à **palette** gardent leur valeur. Wide Open Throttle transforme un pallet gym en tile réutilisable **une fois** (palette relevée) mais bloquée 60 s : ne pas compter sur un drop immédiat.
 
+---
+
+## 6. Tile connectivity (mission §6, T-D01 à T-D04)
+
+### 6.1 Vocabulaire (définitions HEURISTIC)
+
+| Terme | Définition opérationnelle |
+|---|---|
+| **Chain loop / tile chaining** | Suite de tiles assez proches pour qu'on passe de l'une à l'autre **sans** traverser de zone morte (au sens §3.1) ; BHVR nomme explicitement ce chaînage comme facteur de sécurité (main de Crotus Prenn « could spawn near maze tiles and chain into other tiles », FACT [PN 9.3.0]) |
+| **Transition tile** | Tile qu'on traverse pour gagner quelques mètres sans y rester : L-T walls, fenêtres à sens unique, filler en pre-drop, murs hauts pour casser la LOS |
+| **Escape route** | Chemin de sortie d'une tile prévu **avant** d'en avoir besoin, avec sa condition de déclenchement |
+| **Resource route** | Chemin qui passe par le plus grand nombre de ressources **non consommées** (palettes levées, fenêtres non bloquées pour toi) |
+| **Dead zone** | Relative : ressource suivante au-delà de `D_max` (§3.1) |
+| **Zone consommée** | Zone dont les palettes sont cassées / fenêtres bloquées **pour toi** ; en SoloQ, zone dont tu **ne sais pas** si elle a été consommée |
+| **Carte mentale** | Ce que tu sais (FIXE) + ce que tu as vu (RNG observé) + ce qui a été consommé |
+| **Probabilité de la ressource suivante** | Chance qu'une ressource existe **et** soit encore disponible à l'arrivée (voir 6.5) |
+
+### 6.2 Ce que tu peux savoir avant la chase
+
+| Source d'info | Ce qu'elle donne | Nature |
+|---|---|---|
+| Connaissance de la carte (lot 8) | Emplacements **généraux** des maze tiles, du shack, du main, des structures de royaume | FIXE (FACT [W Maze Tiles] : « always spawn in the same general location ») |
+| Écran de chargement / nom de la carte | Royaume → design des murs (hauteur, §4.0), structures possibles | FIXE |
+| Pre-run (premières secondes, trajet vers un gen) | **Itération** de chaque maze tile vue (LW/SW, opened/closed, variante de labyrinthe), palettes présentes, murs cassables déjà ouverts | RNG observé |
+| Sons et HUD pendant la partie | Casses de palettes, poursuites des alliés (icônes de HUD) | Partiel ; portée des sons de casse : UNCERTAIN |
+| Perks d'aura | Palettes / fenêtres visibles (Windows of Opportunity LIVE : valeur non relue) | Conditionnel |
+
+### 6.3 Planifier 5 à 15 secondes d'avance : la méthode des trois horizons (HEURISTIC)
+
+1. **H1 — maintenant (0-5 s)** : quelle porte j'utilise, où est le tueur (un checkspot **avant** la décision : lot 6 T14), combien de vaults il me reste sur cette fenêtre (3 par poursuite).
+2. **H2 — la sortie (5-10 s)** : quel **déclencheur** me fera quitter la tile (fenêtre bloquée pour moi, palette baissée qu'il va casser, tueur qui tient le centre, Bloodlust au palier II) et **par où** je sortirai (côté opposé à lui).
+3. **H3 — la destination (10-15 s)** : tile suivante **et** plan B, avec la distance D et l'écart nécessaire (table ci-dessous). Si aucune destination ne passe le test → rester et étirer la tile actuelle (greed prudent), ou partir **pendant** la prochaine animation du tueur.
+
+Le « test des 5 secondes » du seed (« où serai-je dans 5 s, pourra-t-il me toucher là ? ») est une bonne version courte de H1-H2 (lot 6 : OK, HEURISTIC).
+
+**Écart nécessaire au départ pour atteindre une ressource à D mètres** (CALC : `v_r × D / 4,0`, **à quoi s'ajoutent la fente ~2-2,5 m (UNCERTAIN) et une marge pour utiliser la ressource (durée de drop : UNCERTAIN)**) :
+
+| D | 4,6 · BL 0 | 4,6 · BL I | 4,6 · BL II | 4,6 · BL III | 4,4 · BL 0 | 4,4 · BL III |
+|---|---|---|---|---|---|---|
+| 10 m | 1,5 m | 2,0 m | 2,5 m | 3,0 m | 1,0 m | 2,5 m |
+| 15 m | 2,3 m | 3,0 m | 3,8 m | 4,5 m | 1,5 m | 3,8 m |
+| 20 m | 3,0 m | 4,0 m | 5,0 m | 6,0 m | 2,0 m | 5,0 m |
+| 30 m | 4,5 m | 6,0 m | 7,5 m | 9,0 m | 3,0 m | 7,5 m |
+| 40 m | 6,0 m | 8,0 m | 10,0 m | 12,0 m | 4,0 m | 10,0 m |
+
+(Cohérent avec le lot 6 §2.2 : 20 m contre un 4,6 à BL II-III → 5-6 m + fente.)
+
+**Quand partir : les « fenêtres de départ »** (gains du lot 6 §2.3, CALC) :
+
+| Moment | Écart ajouté (ordre de grandeur) | Remarque |
+|---|---|---|
+| Il casse la palette | ≈ +9,4 m, Bloodlust à 0 | Caméra du tueur basculée vers le bas (FACT [W]) : il ne voit pas **par où** tu pars |
+| Stun de palette | ≈ +8 m (+17 m s'il casse ensuite) | Départ + casse = meilleure transition possible |
+| Il te suit par la fenêtre | ≈ +4,8 m | Rare : il préfère contourner |
+| Coup manqué | ≤ +6 m | Cooldown 1,5 s |
+| Coup reçu | ≈ +3 à +15 m (boost 1,8 s) | Coûte un état de santé ; Bloodlust à 0 |
+| Il casse un mur cassable | ≈ +9,4 m | Effet sur la Bloodlust : UNCERTAIN |
+| Perte de LOS (angle de mur haut) | 0 m, mais il doit **deviner** | Départ discret : la poursuite finit si LOS perdue > 8 s (FACT [W]) |
+
+### 6.4 Checklist de transition (HEURISTIC)
+
+Avant de quitter une tile, cocher :
+1. **Direction** : la tile suivante n'est **pas du côté** du tueur (sinon il coupe la route) ; sinon choisir le plan B.
+2. **Distance** : l'écart au départ ≥ table 6.3 + fente, pour **ton** palier de Bloodlust estimé.
+3. **Terrain** : trajet couvert (murs hauts, dénivelés) contre ranged/mobilité ; ligne droite acceptable contre M1 sans pouvoir.
+4. **État de la destination** : ressource vue au pre-run et non consommée (ou probabilité raisonnable, 6.5).
+5. **Macro** : ne pas amener la chase sur les gens de tes alliés ni vers un crochet proche d'un gen à finir (seed principe 14, lot 9).
+6. **Plan B** : une ressource de secours à portée si la destination est prise (tueur qui coupe, palette cassée entre-temps).
+
+### 6.5 Probabilité de trouver la ressource suivante (HYPOTHESIS, modèle jouet)
+
+- Une destination à **n** ressources indépendantes, chacune déjà consommée avec une probabilité q (inconnue en SoloQ), offre au moins une ressource avec la probabilité `1 − qⁿ` : pour q = 0,5, une tile à 1 palette → 50 % ; un main à 2 palettes + 1 fenêtre (fenêtre jamais « consommée » pour toi si tu ne l'as pas vaultée) → la fenêtre garantit au moins une porte. **Interprétation** : en cas de doute, un main ou une tile à **fenêtre** est une destination plus fiable qu'une tile à palette seule. Modèle non mesuré : q varie selon la phase de partie et le nombre de chases passées.
+- En SoloQ : les palettes proches des générateurs très disputés et du shack sont plus souvent consommées (HEURISTIC) ; vérifier à distance (checkspot sur la palette) avant de s'engager.
+
+### 6.6 Trois exemples commentés : « Tile A → Tile B → Main → filler »
+
+Conventions : distances **inventées pour l'exemple** (schémas de principe) ; chiffres de temps et d'écart = CALC (lot 6) ; décisions = HEURISTIC.
+
+#### Exemple 1 — Tueur M1 à 4,6 m/s, survivant sain, carte extérieure à murs hauts
+
+```
+                       18 m                         25 m                    15 m
+   [A] Jungle gym LW ───────────► [B] L-T walls ─────────────► [MAIN] ─────────────► [F] filler
+    W (3 vaults)  P                W1 (3)  W2 (3)               W main (3), 2 P, drop     P
+        \                                                         ^
+         \______________ 30 m à découvert (dead zone relative) ___/
+   Départ de la chase : le tueur te repère à ~8 m de A.
+```
+
+| Temps | Situation | Options | Décision (et pourquoi) |
+|---|---|---|---|
+| 0 s | Tu arrives sur A, 8 m d'avance, BL 0 | (a) boucle fenêtre ; (b) pre-drop P ; (c) filer vers B | **(a)** : avec 8 m, rien ne presse ; (b) gaspille la palette ; (c) consomme de l'avance sans utiliser A |
+| ~5-15 s | 2 vaults faits, il suit dehors | Continuer la fenêtre ; garder P levée | **Greed P** tant qu'il suit (T05). Compteur W = 2 : **le 3e vault est ton dernier** avant 30 s de blocage |
+| ~15 s | BL I (+0,2). Il arrête de suivre et tient le centre | (a) 3e vault ; (b) aller à P ; (c) partir vers B (18 m) | **(b)** : le 3e vault vers un tueur au centre = réception couverte. À P : drop **quand il s'engage** (stun) ou pre-drop si tu n'as pas la marge |
+| Drop | Il casse (2,34 s) | Revaulter P ; partir | **Partir vers B pendant la casse** : +9,4 m, BL à 0 ; D = 18 m demande ≈ 2,7 m + fente contre BL 0 → largement couvert |
+| ~25 s | B : 2 fenêtres, 6 vaults potentiels | Serpenter ; tenir B longtemps | Utiliser B comme **transition** : 2-3 vaults pour replacer le tueur **derrière** toi, puis partir quand il coupe par le centre **hors LOS** (seed : correct) |
+| Départ vers main | D = 25 m, BL I probable | Partir ; rester | Il faut ≈ 5 m + fente (BL I) : ne partir qu'après une réception de vault qu'il n'a pas couverte ou un coup manqué. **Ne pas** prendre le raccourci de 30 m à découvert depuis A |
+| Main | Nouvelle fenêtre (compteur neuf), 2 palettes, drop | Monter ; boucler la main window | Monter **seulement** si le drop est libre ; main window d'abord, palettes en réserve ; les 3 vaults de la main window sont un budget séparé |
+| Fin | Main consommé | Filler F (15 m) | F = **pre-drop pour la distance** (ou stun s'il s'engage), puis continuer vers la ressource suivante ; ne pas tourner autour |
+
+Erreur typique : quitter A **après** la casse (il a déjà fini son animation) au lieu de **pendant** ; ou vaulter la 3e fois vers un tueur au centre « parce que la règle dit 2 tours puis palette ».
+
+#### Exemple 2 — Tueur à distance (type Huntress / Deathslinger), survivant blessé
+
+```
+   [A] Shack ──12 m (derrière un muret bas) ──► [B] 4-lane (opened) ──20 m (couvert, le long de murs) ──► [MAIN]
+                                                                                                          │ 10 m
+                                                                                                         [F] filler
+   Principe : contre un tueur à distance, la route COUVERTE bat la route COURTE.
+```
+
+| Étape | Options | Décision (HEURISTIC, cohérente avec handbook §3 : murs hauts ↑, open ↓↓ contre ranged) |
+|---|---|---|
+| Shack (A), blessé | Boucle fenêtre ; pre-drop | Les murs hauts du shack coupent ses tirs : **boucler la fenêtre** en coupant la LOS à chaque angle ; ne pas rester dans l'axe des ouvertures |
+| Sortie de A | Route directe par le muret bas (12 m) ; route le long du shack puis du 4-lane | Muret bas = tir par-dessus : **ne partir que sur une casse ou hors LOS** ; changer de trajectoire pendant la course (pas de ligne droite prévisible) |
+| 4-lane (B) | Couloir de la palette ; couloir de la fenêtre | Ne pas courir **dans l'axe** d'un couloir où il a la ligne : changer de couloir hors LOS ; pre-drop plus tôt (blessé) |
+| Vers le main | Route courte en open ; route plus longue couverte | **Couverte**, même 5 m plus longue : en open, la distance ne vaut presque rien contre un tir (lot 6 §2.3, limites) |
+| Main | Intérieur, plafond | Handbook : intérieur ↑ contre plusieurs ranged ; attention aux étages (tir depuis le haut) |
+| Filler (F) | Pre-drop ; LOS derrière l'objet | Une palette basse **ne bloque pas** une hachette (handbook) : F sert surtout d'**obstacle de LOS** ; un pre-drop ne te protège pas du tir |
+
+Erreur typique : choisir la tile la plus proche à travers une zone ouverte ; courir en ligne droite dans un couloir de 4-lane face au tueur.
+
+#### Exemple 3 — Fin de chase, zone consommée, SoloQ, tueur à mobilité (type Blight) ou M1 à Bloodlust haute
+
+```
+   [A] Pallet gym (palette DÉJÀ CASSÉE : zone consommée) ──15 m──► [B] Debris gym (état inconnu)
+                                          \                                  │ 20 m
+                                           \───── 35 m ─────► [MAIN] ◄──────┘
+                                                                 │ 15 m
+                                                                [F] filler
+```
+
+| Étape | Options | Décision (HEURISTIC) |
+|---|---|---|
+| A consommée, BL II (+0,4) | Rester sur A ; B (15 m, inconnu) ; main (35 m) | A n'a plus de porte asymétrique → partir. Main à 35 m demande ≈ 8,8 m + fente contre un 4,6 à BL II (CALC) : **irréaliste** sans un coup reçu ou une casse |
+| Choix de B | Vérifier la palette de B depuis un checkspot pendant la course | Si la palette de B est **visible levée** → B ; si inconnue → B reste le seul choix atteignable, mais préparer le plan B (sa fenêtre : compteur neuf pour toi) |
+| À B | Fenêtre d'abord ; palette | Contre un casseur de base (Blight : Lethal Rush casse la palette), la palette vaut **le stun** : drop sur lui, pas de greed. Contre un M1 à BL II : pre-drop pour **remettre la Bloodlust à 0** quand il casse |
+| Vers le main (20 m) | Partir sur la casse ; rester | **Pendant la casse** (+9,4 m, BL 0) : 20 m demandent ≈ 3 m + fente → couvert. Le main offre plusieurs ressources (6.5) : destination la plus probable |
+| Main contre mobilité | Étages ; boucles serrées | Handbook : Blight — murs hauts gênent les rebonds (SITUATIONAL) ; boucles courtes à murs hauts plutôt que longues lignes droites |
+| Filler final | Pre-drop / stun | Contre un casseur de base, le filler ne vaut qu'un stun ; si pas de stun possible, le garder pour un allié plus tard (ressource d'équipe) |
+
+Erreur typique : aller vers la ressource la plus « forte » (main) à travers une zone morte au lieu de la plus **atteignable** (B) ; greed une palette contre un tueur qui la casse gratuitement.
+
+### 6.7 Exercice « Annonce H3 » (drill, HEURISTIC)
+
+- Objectif : avoir toujours une destination et un plan B.
+- Méthode : en chase, annoncer à voix haute (ou mentalement) à l'entrée de chaque tile : « sortie : [déclencheur] ; suivante : [tile] à ~[D] m ; plan B : [tile] ».
+- Métriques : % de transitions annoncées ; transitions vers une zone morte ; départs faits **pendant** une animation du tueur.
+- Réussite : ≥ 90 % de transitions annoncées et ≥ 50 % des départs sur une animation (casse, stun, vault, coup manqué) sur 10 parties.
+

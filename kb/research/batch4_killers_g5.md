@@ -117,7 +117,7 @@ Couverture : 7/7 tueurs re-vérifiés sur page wiki complète (27/09/2026), dont
   - Foreign Plant Fibres (pénalité de vitesse après un stun de palette en Overclock réduite de 20 %) → la palette jetée sur un Overclock rapporte moins que ≈ 5 m.
   - Cremated Remains (Slipstreamed = Blindness) / Spent Oxygen Tank (Slipstreamed = Exhausted 6 s) → après un tag, le survivant ne compte ni sur ses auras ni sur sa perk d'Exhaustion immédiate.
 - **Implications de carte** : maps à murs hauts et nombreuses surfaces → meilleur réseau de pods. Maps ouvertes → longues LOS (HEURISTIC). Realm : Dvarka Deepwood ; chapitre End Transmission sorti le 13/06/2023 [9].
-- **Perks fréquentes / synergies** : Pain Resonance, Grim Embrace, Pop, Lethal Pursuer ou Machine Learning [seed, NON RE-VÉRIFIÉ, UNCERTAIN]. Ses enseignables : Genetic Limits (Exhausted sur blessure → garder la perk d'exhaustion pour plus tard), Forced Hesitation (Hindered si quelqu'un tombe près de toi → s'écarter de la chase d'un allié), Machine Learning (Undetectable + Haste après un gen « compromis ») (valeurs [seed, NON RE-VÉRIFIÉ, UNCERTAIN] ; la page wiki ne les a pas été re-lues pour ce lot).
+- **Perks fréquentes / synergies** : Pain Resonance, Grim Embrace, Pop, Lethal Pursuer ou Machine Learning [seed, NON RE-VÉRIFIÉ, UNCERTAIN]. Ses enseignables : Genetic Limits (Exhausted sur blessure → garder la perk d'exhaustion pour plus tard), Forced Hesitation (Hindered si quelqu'un tombe près de toi → s'écarter de la chase d'un allié), Machine Learning (Undetectable + Haste après un gen « compromis ») (valeurs [seed, NON RE-VÉRIFIÉ, UNCERTAIN] ; non re-lues pour ce lot).
 - **Écart avec le seed** : 8 pods, 22 m, 20 m, 6 m, Overclock 5,7 s (+3 %, +75 %, immunité), Overheat 3 s à 50 %, 4 EMP, 10 m, 45 s : **OK** [9]. « Stunner pendant l'Overclock ne sert à rien : attendez la fin des 5,7 s » : **FAUX** — la tentative de stun le met en **Overheat 3 s à 2,3 m/s** et sans pods [9] : elle coûte la palette mais rapporte de la distance. « Toutes les palettes au sol sur sa route sont détruites » : **IMPRÉCIS** (omet l'Overheat déclenché par cette casse [9]). L'erreur Singularity signalée par l'audit phase 0 est probablement celle-ci (non confirmable : `audit/pass0_*` absent).
 - **Sources** : [1] [2] [5] [7] [9] [21]
 
@@ -207,7 +207,7 @@ Couverture : 7/7 tueurs re-vérifiés sur page wiki complète (27/09/2026), dont
 - **Implications de carte** : maps encombrées (hautes herbes, décor) → sa petite taille l'avantage. Maps ouvertes → le survivant le voit venir (HEURISTIC).
 - **Perks fréquentes / synergies** : Pain Resonance, Friends 'til the End, Grim Embrace, Lethal Pursuer [seed, NON RE-VÉRIFIÉ, UNCERTAIN]. Ses enseignables : Hex: Two Can Play (aveuglé après un stun ou une lampe → chercher le totem), Friends 'til the End (Obsession Exposed), Batteries Included (Haste près d'un gen terminé) (valeurs [seed, NON RE-VÉRIFIÉ, UNCERTAIN]).
 - **Écart avec le seed** : « Scamper casse la palette depuis 9.4.2 » présenté comme 1v4 : **FAUX** — en 1v4, seul l'add-on Hard Hat donne cette casse ; la casse de base est une Innate Skill **2v8** de 9.4.2 [7][11][15] (VERIFIED_MULTI_SOURCE). Le conseil du seed « jouez le tile, pas la palette » est **IMPRÉCIS** : la palette reste une ressource en 1v4 sans Hard Hat. « Très buffé début 2026 » : **IMPRÉCIS** (buffs 2v8). Vitesse 4,4 m/s, TR 32 m, Hidey-Ho 14 s / 12 s, Slice & Dice 8 m/s 1,8 s, Scamper 1 s, cooldown raté 2,25 s, Portable TV 170 %, Iridescent Amulet +50 % : **OK** [11]. Tier A- : HEURISTIC non vérifiable.
-- **Sources** : [1] [2] [3] [7] [11] [15]
+- **Sources** : [1] [2] [3] [7] [11] [15] [23]
 
 ## 35. The Unknown — archétype(s) : ranged (UVX) | furtif/mobilité (hallucinations, téléportation)
 - **Version** : buffs **9.2.0** (Weakened prolongé de 8 s au lieu de 6 s quand l'UVX blesse un survivant sain ; recovery après téléportation 1,3 s ; visée plus haute ; plusieurs add-ons) (VERIFIED_MULTI_SOURCE [12][17]) et **9.6.0** (cooldown de l'UVX **6,25 s** au lieu de 7 s ; « vision linger » du Stare Down 0,75 s au lieu de 1,25 s) (VERIFIED_MULTI_SOURCE [8][12]). Aucun changement en 10.x. **Statut : LIVE 9.6.0.**
@@ -294,7 +294,7 @@ Couverture : 7/7 tueurs re-vérifiés sur page wiki complète (27/09/2026), dont
 - **Implications de carte** : maps ouvertes → Fly et Flight of the Damned plus forts. Terrain en pente → le crouch ne protège peut-être pas (le wiki précise « level terrain ») (HEURISTIC fondé sur [13]).
 - **Perks fréquentes / synergies** : Pain Resonance, Surge, Dead Man's Switch, Barbecue & Chilli [seed, NON RE-VÉRIFIÉ, UNCERTAIN]. Ses enseignables : Dark Arrogance (vault et recovery plus rapides, mais stuns plus longs → un stun de palette rapporte plus de distance ; ⚠ valeurs du seed ch8 SUSPECTES PTB-comme-LIVE, CONFLICT-K96-01), Languid Touch (Exhausted si des corbeaux s'envolent près de toi → marcher autour des corbeaux), Weave Attunement (objets au sol + auras) (valeurs [seed, NON RE-VÉRIFIÉ, UNCERTAIN]).
 - **Écart avec le seed** : « sorts dès le début (9.0.0) » : **OK** [13][19]. Fly 8 m/s 5 s 20 s 2,75 s ; Flight 30 s 5 entités 22 m ; Sphere 30 s / 45 s ; Mage Hand 35 s / 4 s ; 6 coffres : **OK** [13]. Casse de palette par Mage Hand + Vorpal Sword : **omise** par le seed (IMPRÉCIS) — et elle **n'est pas instantanée** (4 s, [13][20][22]) : l'étiquette « instantanée » venait de la table Pallets de l'audit phase 0, qui est donc **fausse sur ce point**. Ring of Spell Storing / Pearl of Power « cooldowns réduits → réduire le greed » : **IMPRÉCIS** (−1 s / −2 s). « Ouvrir un coffre révèle (Killer Instinct) » : **NON CONFIRMÉ** [13][18]. « N°1 tous MMR » : **OK en substance** [AUDIT]. Top 5 MMR élevé et NightLight 50,1 % : **NON VÉRIFIABLE**.
-- **Sources** : [1] [2] [7] [13] [18] [19] [20] [22]
+- **Sources** : [1] [2] [7] [13] [18] [19] [20] [22] [23]
 
 ## 37. The Dark Lord (Dracula) — archétype(s) : mobilité (chauve-souris) | ranged/zone (Hellfire) | anti-loop (loup)
 - **Version** : ajustements **9.2.0** (Hellfire : cooldown 9,5 s au lieu de 10 s, 8 piliers au lieu de 7, charge à 3,68 m/s, recovery 2,35 s ; Pounce : charge 0,9 s ; Scent Orbs : 1 toutes les 6 s ; friction en chauve-souris ; passe d'add-ons) (VERIFIED_MULTI_SOURCE [14][17]). La portée de l'Hellfire passée de 8 à 10 m en 9.2.0 n'est donnée que par le wiki (STRONG_SECONDARY [14]). 9.5.0 : pouvoir classé « Special-break », descriptions de Pocket Watch et Sylph Feather réécrites [7]. 10.x : bugfixes seulement. **Statut : LIVE 9.2.0.**
@@ -338,89 +338,139 @@ Couverture : 7/7 tueurs re-vérifiés sur page wiki complète (27/09/2026), dont
 - **Implications de carte** : maps denses en palettes et fenêtres → mobilité de la chauve-souris accrue (HEURISTIC). Chapitre Castlevania sorti le 27/08/2024 [14] ; map de chapitre non vérifiée.
 - **Perks fréquentes / synergies** : Pain Resonance, Grim Embrace, Pop, Lethal Pursuer [seed, NON RE-VÉRIFIÉ, UNCERTAIN]. Ses enseignables : Hex: Wretched Fate (réparation plus lente pour l'Obsession → chercher le totem), Human Greed, Dominance (blocage de coffre ou de totem) (valeurs [seed, NON RE-VÉRIFIÉ, UNCERTAIN]).
 - **Écart avec le seed** : 4,6 / 6,5 m/s, TR 32 m, berceuse 48 m, cooldown 3,5 s, Hellfire 0,9 s / 8 piliers / 10 m / 9,5 s, Pounce 2 bonds / 20 s, téléportation 2-32 m / 15 s : **OK** [14][17]. « 4,8 m/s en loup avec Scent Orbs » : **OK** (Haste 4,35 % pendant 2,5 s par orbe [14]) — l'ancien verdict « formulation suspecte » est levé. « Hellfire buffé en 9.2.x » : **OK** (9.2.0 [17]). Casse de palette en forme loup : **OK**, mais par un **Pounce qui touche la palette abaissée** (et qui consomme le Pounce) [14]. Le seed omet que les survivants lui sont **invisibles** en chauve-souris et la transformation de 1,5 s en sortie de chauve-souris : **IMPRÉCIS** (omission).
-- **Sources** : [1] [2] [7] [14] [17]
+- **Sources** : [1] [2] [7] [14] [17] [23]
 
 ---
 
 ## Claims
 
-Calculs dérivés (audit pass 14) : Skull Merchant sous Hindered 10 % [AUDIT] + Haste 5 % [SEED] → 3,6 contre 4,83 m/s, écart repris ≈ 1,23 m/s (×2 par rapport à 0,6) ; Good Guy à 4,4 m/s → 0,4 m/s repris (10 m en 25 s), mais dash 8 m/s × 1,8 s [SEED] ≈ 14,4 m contre 7,2 m pour le survivant → ≈ 7 m repris par dash.
+Calculs dérivés (HEURISTIC, fondés sur les valeurs vérifiées) : Skull Merchant, survivant Claw-trapped scanné (Hindered 10 %) + elle en Haste 5 % → 3,6 contre 4,83 m/s, écart repris ≈ 1,23 m/s ; Singularity en Overheat (2,3 m/s, 3 s) → ≈ 5 m regagnés ; Xenomorph après une queue ratée (1,2 m/s, 2,5 s) → ≈ 7 m regagnés ; Good Guy à 4,4 m/s → 0,4 m/s repris, mais dash 8 m/s × 1,8 s ≈ 14,4 m contre 7,2 m → ≈ 7 m repris par dash.
 
 | ID | Claim | Source | Patch | Confiance |
 |---|---|---|---|---|
-| L4G5-01 | Skull Merchant : rotation des drones 105°/s, Hindered 10 %, « CD 7 s », Undetectable 6 s | [1] audit phase 0 | 9.3.0 | VERIFIED selon l'audit (non re-vérifié) |
-| L4G5-02 | Skull Merchant : Undetectable 8 s au rappel d'un drone | [1] | 9.3.2 | VERIFIED selon l'audit |
-| L4G5-03 | Skull Merchant : pas de rework en 9.x | [1] | 9.x | VERIFIED selon l'audit |
-| L4G5-04 | Skull Merchant TR 24 m | [2] seed | ? | UNCERTAIN (32 m [connaissance du modèle (antérieure à mi-2026), UNCERTAIN]) |
-| L4G5-05 | Good Guy : buffs 9.4.2 = 2v8 uniquement | [1] [3] | 9.4.2 | VERIFIED selon l'audit |
-| L4G5-05b | Good Guy cité parmi les pouvoirs qui détruisent les palettes (mode non précisé) | [1] (wiki.gg Pallets) | — | STRONG_SECONDARY, « liste à reconfirmer » ; capacité 1v4 UNRESOLVED |
-| L4G5-09b | Lich : Mage Hand + Vorpal Sword détruit une palette instantanément | [1] (wiki.gg Pallets) | — | STRONG_SECONDARY, « liste à reconfirmer » |
-| L4G5-06 | Good Guy 4,4 m/s | [2] + [connaissance du modèle (antérieure à mi-2026), UNCERTAIN] | — | UNCERTAIN |
-| L4G5-07 | Unknown buffé | [1] | 9.6.0 | VERIFIED selon l'audit (sans détail) |
-| L4G5-08 | Unknown : cooldown de l'UVX 6,25 s | [2] | 9.6.0 ? | UNCERTAIN |
-| L4G5-09 | Lich : sorts disponibles dès le début | [1] | 9.0.0 | VERIFIED selon l'audit |
-| L4G5-10 | Lich : kill rate le plus élevé « broad » (sept. 2025 - févr. 2026) | [1] | — | VERIFIED selon l'audit (noms seulement) |
-| L4G5-11 | Xenomorph ajouté au 2v8 (Nostromo Wreckage) | [1] | 10.1.2 | VERIFIED selon l'audit ; 2v8 ≠ 1v4 |
-| L4G5-12 | Dark Lord : la forme loup détruit les palettes | [1] (wiki Pallets) | — | STRONG_SECONDARY |
-| L4G5-13 | Toutes les autres valeurs chiffrées des 7 fiches | [2] | — | UNCERTAIN / NON VÉRIFIABLE |
+| L4G5-01 | Skull Merchant : rotation 105°/s, Hindered 10 % (Claw-trapped scanné, 6 s), cooldown de pose 7 s | [4] [5] | 9.3.0 | VERIFIED_MULTI_SOURCE |
+| L4G5-02 | Skull Merchant : Undetectable 8 s au **rappel** d'un drone | [4] [6] | 9.3.2 | VERIFIED_MULTI_SOURCE |
+| L4G5-02b | Skull Merchant : fast vault ne protège plus du scan ; sous un drone = +1 Lock-On / 2,5 s | [5] | 9.3.0 | VERIFIED_PRIMARY (texte de pouvoir du wiki périmé sur ces 2 points) |
+| L4G5-03 | Skull Merchant : pas de changement de gameplay 9.3.2 → 10.1.2a | [4] [8] + notes 10.x | — | VERIFIED_MULTI_SOURCE |
+| L4G5-04 | Skull Merchant TR 24 m (depuis 8.6.0), 4,6 m/s, taille moyenne | [4] | 8.6.0 | STRONG_SECONDARY |
+| L4G5-04b | Skull Merchant : crouch ou immobilité = pas de détection ; drones 10 m, lignes visibles à 16 m, 3 stacks → blessure/Deep Wound + Broken + Claw Trap 45 s | [4] | LIVE | STRONG_SECONDARY |
+| L4G5-05 | Good Guy : casse de palette par Scamper = Innate Skill **2v8** (9.4.2) | [15] | 9.4.2 | VERIFIED_PRIMARY |
+| L4G5-05b | Good Guy en 1v4 : Scamper = vault spécial (1 s) sans casse ; casse seulement avec l'add-on **Hard Hat** | [7] [11] [23] | LIVE | VERIFIED_MULTI_SOURCE |
+| L4G5-06 | Good Guy 4,4 m/s, TR 32 m, taille petite ; Hidey-Ho 14 s / 12 s ; Slice & Dice 8 m/s 1,8 s ; cooldown raté 2,25 s / touché 3 s | [11] | 8.6.0 | STRONG_SECONDARY |
+| L4G5-07 | Unknown : UVX 6,25 s ; linger du Stare Down 0,75 s | [8] [12] | 9.6.0 | VERIFIED_MULTI_SOURCE |
+| L4G5-08 | Unknown : Weakened +8 s si l'UVX blesse un sain ; recovery téléportation 1,3 s | [12] [17] | 9.2.0 | VERIFIED_MULTI_SOURCE |
+| L4G5-08b | Unknown : taille moyenne, zone 2,25 m, Hindered 6 % 3 s, Stare Down 25 m / 10 s, 4 hallucinations, téléportation 25 s | [12] | LIVE | STRONG_SECONDARY |
+| L4G5-09 | Lich : sorts dès le début ; cooldowns Fly 20 s, Flight 30 s, Sphere 30 s, Mage Hand 35 s ; Fly 5 s | [13] [19] | 9.0.0 | VERIFIED_MULTI_SOURCE |
+| L4G5-09b | Lich : Mage Hand + Vorpal Sword casse une palette abaissée en **4 s** (pas instantané) ; sans Vorpal Sword, Mage Hand la **relève** | [13] [20] [22] [23] | 8.0.2 / 9.1.0 | VERIFIED_MULTI_SOURCE |
+| L4G5-09c | Lich : Flight of the Damned (hauteur 1,4 m) ne touche pas un survivant accroupi sur terrain plat ; Iridescent Book l'abaisse de 0,7 m | [13] | LIVE | STRONG_SECONDARY |
+| L4G5-10 | Lich : kill rate le plus élevé « broad » | [1] (KB 540) | — | VERIFIED selon l'audit (noms seulement) |
+| L4G5-11 | Xenomorph ajouté au 2v8 (10.1.2), Innate Skills 2v8 ≠ 1v4 | [10] [16] | 10.1.2 | VERIFIED_MULTI_SOURCE |
+| L4G5-11b | Xenomorph : TR 32 m / 24 m en Crawler ; queue 4,8 m ; 7 stations ; 18 m/s ; 4 tourelles ; 125 charges ; Crawler 35 s hors tunnel / ≈ 4,4 s en tunnel | [10] | 8.6.0 | STRONG_SECONDARY |
+| L4G5-12 | Dark Lord : Hellfire 9,5 s, 8 piliers, charge à 3,68 m/s, recovery 2,35 s ; Pounce charge 0,9 s ; orbes 1 / 6 s | [14] [17] | 9.2.0 | VERIFIED_MULTI_SOURCE |
+| L4G5-12b | Dark Lord : un Pounce qui touche une palette abaissée la détruit (pouvoir « Special-break ») | [7] [14] [23] | LIVE | VERIFIED_MULTI_SOURCE |
+| L4G5-12c | Dark Lord : survivants invisibles en chauve-souris ; transformation depuis la chauve-souris 1,5 s ; téléportation 2-32 m / 15 s ; Hellfire 10 m | [14] | LIVE | STRONG_SECONDARY |
+| L4G5-13 | Singularity : Overclock 5,7 s (+3 %, actions +75 %, immunité aux stuns) ; stun tenté ou palette traversée → palette cassée + **Overheat 3 s à −50 %** sans pods | [9] [23] | 8.1.0 | STRONG_SECONDARY |
+| L4G5-13b | Singularity : Soma Family Photo Hindered 6 s ; téléportation dans le brouillard du Fog Vial | [5] [9] [21] | 9.3.0 / 9.1.2 | VERIFIED_MULTI_SOURCE / VERIFIED_PRIMARY |
+| L4G5-14 | Perks enseignables, builds, stats NightLight des 7 fiches | [2] | — | UNCERTAIN / NON VÉRIFIABLE (hors périmètre du lot 12b) |
 
 ## Conflits
 
 #### CONFLICT-L4G5-01 : TR de The Skull Merchant
 - Source A : seed ch8 l. 1420, « TR : 24 m ».
 - Source B : connaissance interne du modèle, 32 m (non sourcée).
-- Hypothèse : le seed confond peut-être avec une réduction de TR temporaire ou une ancienne version.
-- Résolution : UNRESOLVED (à vérifier sur wiki.gg The_Skull_Merchant).
+- Source C : wiki.gg Adriana_Imai [4] : TR 24 m ; change log 8.6.0 « reduced the Terror Radius from 32 metres to 24 metres ».
+- Résolution : **RÉSOLU — 24 m** (STRONG_SECONDARY [4]). La valeur 32 m était l'ancienne (avant 8.6.0) ; le seed avait raison.
 
 #### CONFLICT-L4G5-02 : TR du Xenomorph en Crawler Mode
 - Source A : seed, 24 m en Crawler.
-- Source B : aucune (la connaissance interne n'est pas assez fiable pour trancher).
-- Résolution : UNRESOLVED.
+- Source B : wiki.gg The_Xenomorph [10] : « Alternate Terror Radius 24 metres (Crawler Mode) » ; texte du pouvoir « Reduces its Terror Radius to 24 metres ».
+- Résolution : **RÉSOLU — 32 m, 24 m en Crawler** (STRONG_SECONDARY [10]).
 
 #### CONFLICT-L4G5-03 : Scamper de Good Guy qui casse les palettes en 1v4
 - Source A : seed, « depuis 9.4.2 », présenté comme 1v4.
-- Source B : audit phase 0, changements 9.4.2 propres au 2v8.
-- Source C : audit phase 0, table Palettes (wiki.gg Pallets, STRONG_SECONDARY, « liste à reconfirmer ») : le Good Guy figure parmi les destructions de palette par pouvoir, sans mode précisé.
-- Hypothèse : le seed a mélangé 2v8 et 1v4 pour la datation des buffs ; la capacité de casse elle-même existe peut-être aussi en 1v4.
-- Résolution : **partielle**. Prouvé : les buffs 9.4.2 sont propres au 2v8 (A vs B). **UNRESOLVED** : le Scamper casse-t-il les palettes en 1v4 en 10.1.2a (B vs C) ? Ne pas conclure « ne casse pas en 1v4 ».
+- Source B : note officielle 9.4.2 [15], section « Game Mode: 2v8 — The Good Guy - Innate Skills » : « Performing a Scamper under a pallet breaks it immediately ».
+- Source C : audit phase 0, table Palettes (« Good Guy » parmi les destructions « instantanées » par pouvoir, sans condition).
+- Source D : wiki.gg Charles_Lee_Ray [11] : le texte de pouvoir décrit le Scamper comme un passage sous la palette en 1 s, **sans casse** ; l'add-on **Hard Hat** « Instantly breaks Pallets, when performing a Scamper under them » ; l'Innate Skill 2v8 reprend la casse.
+- Source E : wiki.gg Pallets [23] : « The Good Guy can destroy Pallets by Scampering underneath them […], **if the Hard Hat add-on is equipped** ».
+- Source F : note officielle 9.5.0 [7] : Good Guy classé dans les pouvoirs « **Special-vault** » (pas « Special-break ») ; description de Hard Hat mise à jour.
+- Résolution : **RÉSOLU — en 1v4, le Scamper ne casse PAS la palette en kit de base** ; seul Hard Hat le permet (VERIFIED_MULTI_SOURCE [7][11][15][23]). L'audit phase 0 avait omis la condition « add-on ».
+
+#### CONFLICT-L4G5-04 : casse « instantanée » de palette par le Lich (Mage Hand + Vorpal Sword)
+- Source A : audit phase 0, table Palettes : « destruction instantanée par pouvoir […] Lich (Mage Hand + Vorpal Sword) », STRONG_SECONDARY, « liste à reconfirmer ».
+- Source B : wiki.gg Vecna [13] et Vorpal Sword [22] : Mage Hand « break dropped Pallets, instead of lifting them. This action takes **4 seconds** to complete » (3 s avant le nerf 8.0.2) ; la description en jeu affiche une valeur un peu plus courte (≈ 0,8 s d'écart, animation d'entrée/sortie).
+- Source C : note officielle 9.1.0 [20] : « Fixed an issue where The Lich's Vorpal Sword add-on would display the wrong time for the Mage Hand to break downed pallets » (confirme qu'il existe une durée).
+- Source D : wiki.gg Pallets [23] : le Lich « can destroy Pallets by using Mage Hand on them, if the Vorpal Sword add-on is equipped » (aucune mention d'instantanéité).
+- Résolution : **RÉSOLU — casse à distance en 4 s, pas instantanée**, et uniquement avec Vorpal Sword (VERIFIED_MULTI_SOURCE [13][20][22][23]). L'étiquette « instantanée » de l'audit est fausse pour ce cas.
+
+#### CONFLICT-L4G5-05 : Skull Merchant, texte de pouvoir du wiki vs note 9.3.0
+- Source A : texte de pouvoir wiki [4] : « stands below an elevated Drone for longer than 1 second → instantly Locked On » ; « performing a Fast Vault […] cannot be detected ».
+- Source B : note officielle 9.3.0 [5] : « For every 2.5 seconds spent standing underneath a Drone, the Survivor gains 1 Lock On (was instant) » ; « Removed the fast vault immunity to Scan Lines » ; le change log du même wiki [4] le confirme.
+- Résolution : **RÉSOLU — la note officielle prime** (VERIFIED_PRIMARY [5]) : le texte de pouvoir du wiki n'a pas été mis à jour.
 
 ## Écarts avec le guide seed
 
 | Élément | Le guide dit | Vérifié | Verdict |
 |---|---|---|---|
-| Skull Merchant TR | 24 m | non (32 m ? [connaissance du modèle (antérieure à mi-2026), UNCERTAIN]) | NON VÉRIFIABLE (CONFLICT-01) |
-| Skull Merchant, Undetectable au rappel d'un drone | absent | 8 s (9.3.2) [AUDIT] | IMPRÉCIS (omission) |
-| Skull Merchant, crouch/marche pour éviter le scan | oui | non | NON VÉRIFIABLE |
+| Skull Merchant TR | 24 m | 24 m depuis 8.6.0 [4] | OK |
+| Skull Merchant, Undetectable au rappel d'un drone | absent | 8 s (9.3.2) [4][6] | IMPRÉCIS (omission) |
+| Skull Merchant, fast vault n'immunise plus | oui | 9.3.0 [5] | OK |
+| Skull Merchant, crouch/marche pour éviter le scan | « crouch ou marche » | crouch ou **immobile** [4] | IMPRÉCIS |
+| Skull Merchant, Hindered 10 % | présenté comme général | seulement pour un survivant Claw-trapped scanné [4] | IMPRÉCIS |
 | Skull Merchant, rework 2027 | confirmé | non | NON VÉRIFIABLE |
-| Singularity, Overclock/Overheat, EMP | valeurs détaillées | non ; zone d'erreur signalée par l'audit | NON VÉRIFIABLE (suspect) |
-| Xenomorph TR en Crawler | 24 m | non | NON VÉRIFIABLE |
-| Good Guy, Scamper qui casse la palette + counterplay associé | 1v4 depuis 9.4.2 | buffs 9.4.2 = 2v8 [AUDIT] ; casse citée dans la liste Pallets (SS) | FAUX sur la datation/le mode des buffs ; capacité 1v4 UNRESOLVED |
-| Lich, casse de palette | non mentionnée | Mage Hand + Vorpal Sword = destruction instantanée (liste Pallets, SS) | IMPRÉCIS (omission) || Good Guy « très buffé début 2026 » | oui | buffs 2v8 | IMPRÉCIS |
-| Unknown UVX 6,25 s (9.6.0) | oui | buff 9.6.0 confirmé, valeur non | NON VÉRIFIABLE |
-| Lich, sorts dès le début (9.0.0) | oui | [AUDIT] | OK |
+| Singularity, 8 pods / 22 m / 20 m / 6 m / Overclock 5,7 s / Overheat 3 s / 4 EMP / 10 m / 45 s | oui | [9] | OK |
+| Singularity, « stunner pendant l'Overclock ne sert à rien » | oui | la tentative casse la palette mais le met en **Overheat 3 s à −50 %** sans pods [9] | FAUX |
+| Singularity, palettes détruites par la téléportation | oui | oui, **avec Overheat 3 s** [9] | IMPRÉCIS (omission) |
+| Xenomorph TR en Crawler | 24 m | [10] | OK |
+| Xenomorph, queue 4,8 m / 7 stations / 18 m/s / 4 tourelles / 125 charges / crouch = non détecté | oui | [10] | OK |
+| Good Guy, Scamper qui casse la palette en 1v4 (depuis 9.4.2) | oui | casse = Innate Skill 2v8 (9.4.2) ; en 1v4 seulement avec Hard Hat [7][11][15][23] | FAUX |
+| Good Guy, « jouez le tile, pas la palette » | oui | la palette reste une ressource en 1v4 sans Hard Hat | IMPRÉCIS |
+| Good Guy « très buffé début 2026 » | oui | buffs 2v8 [15] | IMPRÉCIS |
+| Good Guy, 4,4 m/s / 32 m / Hidey-Ho 14 s-12 s / S&D 8 m/s 1,8 s / Scamper 1 s / Portable TV 170 % | oui | [11] | OK |
+| Unknown UVX 6,25 s (9.6.0) | oui | [8][12] | OK |
+| Unknown, taille | grande | moyenne (Average) [12] | FAUX |
+| Unknown, Slashed Backpack | « une hallucination touchée explose » | l'UVX qui touche une hallucination la transforme en zone d'explosion [12] | IMPRÉCIS |
+| Lich, sorts dès le début (9.0.0) et cooldowns 20/30/30/35 s | oui | [13][19] | OK |
 | Lich n°1 tous MMR (BHVR) | oui | [AUDIT] | OK (noms seulement, sans chiffres) |
-| Dark Lord, loup 4,8 m/s avec orbes | oui | non | NON VÉRIFIABLE (formulation suspecte) |
-| Dark Lord, loup casse les palettes | oui | wiki Pallets via [AUDIT] | OK |
+| Lich, casse de palette (Mage Hand + Vorpal Sword) | non mentionnée | casse à distance en 4 s, non instantanée [13][20][22] | IMPRÉCIS (omission) |
+| Lich, Ring of Spell Storing / Pearl of Power | « cooldowns réduits » | −1 s / −2 s [13] | IMPRÉCIS (effet exagéré) |
+| Lich, ouvrir un coffre révèle (Killer Instinct) | oui | non décrit ; risque réel = Mimic, Robe of Eyes [13][18] | NON CONFIRMÉ |
+| Dark Lord, loup 4,8 m/s avec orbes | oui | Haste 4,35 % 2,5 s = 4,8 m/s [14] | OK |
+| Dark Lord, Hellfire 0,9 s / 8 piliers / 10 m / 9,5 s « 9.2.x » | oui | 9.2.0 [14][17] | OK |
+| Dark Lord, loup casse les palettes | oui | par un Pounce qui touche la palette abaissée [7][14][23] | OK |
+| Dark Lord, invisibilité des survivants en chauve-souris | absente | [14] | IMPRÉCIS (omission) |
 | Stats NightLight (Xeno 41,5/58,8 %, Unknown 49,9 %, Lich 50,1 %) | oui | non | NON VÉRIFIABLE (ni échantillon ni date) |
 
 ## Questions ouvertes
 
-1. Relancer ce lot avec un **budget WebSearch disponible**. Priorités :
-   - TR de la Skull Merchant et mécanique exacte du Lock-On et des Claw Traps (LIVE 9.3.2) ;
-   - Overclock/Overheat et EMP du Singularity ;
-   - comportement 1v4 du Scamper de Good Guy ;
-   - détail du buff de l'Unknown en 9.6.0 ;
-   - cooldowns des sorts du Lich ;
-   - valeurs du Dark Lord.
-2. Quelle erreur précise l'audit phase 0 a-t-il relevée sur le Singularity ? (`audit/pass0_*.md` est absent du repo.)
-3. Le crouch protège-t-il du scan des drones de la Skull Merchant et de la détection autour des sorties de tunnel du Xenomorph ?
-4. Le radar de la Skull Merchant dépend-il de la ligne de vue ?
-5. Aucune source EXPERT_OPINION (guides survivants écrits) n'a pu être consultée. Tout le counterplay de ce fichier est HEURISTIC.
+1. Perks enseignables des 7 tueurs : valeurs LIVE à re-vérifier (le wiki affiche déjà les versions PTB 10.2.0 ; il faut une source antérieure au 15/09/2026 ou attendre la sortie de 10.2.0).
+2. Skull Merchant : le survivant peut-il retirer manuellement un Claw Trap ? Le texte de pouvoir ne décrit que l'extinction de la batterie (45 s), mais l'add-on Infrared Upgrade parle d'un retrait.
+3. Xenomorph : la queue passe-t-elle au-dessus des palettes et des fenêtres dans tous les cas ? Le wiki ne le dit pas explicitement.
+4. Unknown : les tirs en cloche de l'UVX sont-ils limités en intérieur à plafond bas ? Non documenté.
+5. Aucune source EXPERT_OPINION (guides survivants écrits, VOD) n'a pu être consultée : tout le counterplay de ce fichier reste HEURISTIC, fondé sur des valeurs désormais vérifiées.
+6. La table « Palettes » de `audit_phase0.txt` doit être corrigée dans les ledgers (Good Guy : Hard Hat requis ; Lich : 4 s, non instantané) — hors du périmètre de ce fichier.
 
 ## Sources
 
 [1] Audit phase 0 (historique des patchs 9.0.0 → 10.1.2a, référence vérifiée) — `kb/seed/audit_phase0.txt` — lu le 27/09/2026 (fichier local).
 [2] Guide seed, chapitre 8 (brouillon non fiable) — `kb/seed/ch8_killers.txt` l. 1-256 et 1419-1663 — lu le 27/09/2026 (fichier local).
 [3] Outdated content report — `kb/ledgers/OUTDATED_CONTENT_REPORT.md` l. 48 — lu le 27/09/2026 (fichier local).
-Aucune source web : 0 recherche WebSearch aboutie (budget de session 200/200 épuisé).
-URL à consulter lors de la relance (listées par le seed, non consultées) : https://deadbydaylight.wiki.gg/wiki/The_Skull_Merchant · /The_Singularity · /The_Xenomorph · /The_Good_Guy · /The_Unknown · /The_Lich · /The_Dark_Lord
+[4] wiki.gg, Adriana Imai (The Skull Merchant) — https://deadbydaylight.wiki.gg/wiki/Adriana_Imai — page complète via API, consultée le 27/09/2026 (`kb/sources/wiki_killers/Adriana_Imai.txt`).
+[5] BHVR, 9.3.0 | Mid-Chapter — https://forums.bhvr.com/dead-by-daylight/kb/articles/529 — consulté le 27/09/2026 (fichier local).
+[6] BHVR, 9.3.2 | Bugfix Patch — https://forums.bhvr.com/dead-by-daylight/kb/articles/530 — consulté le 27/09/2026 (fichier local).
+[7] BHVR, 9.5.0 | All-Kill: Comeback (Killer Actions Update : Special-break / Special-vault) — https://forums.bhvr.com/dead-by-daylight/kb/articles/538 — consulté le 27/09/2026 (fichier local).
+[8] BHVR, 9.6.0 | Patch Notes — https://forums.bhvr.com/dead-by-daylight/kb/articles/544 — consulté le 27/09/2026 (fichier local).
+[9] wiki.gg, HUX-A7-13 (The Singularity) — https://deadbydaylight.wiki.gg/wiki/HUX-A7-13 — page complète via API, consultée le 27/09/2026.
+[10] wiki.gg, The Xenomorph — https://deadbydaylight.wiki.gg/wiki/The_Xenomorph — page complète via API, consultée le 27/09/2026.
+[11] wiki.gg, Charles Lee Ray (The Good Guy) — https://deadbydaylight.wiki.gg/wiki/Charles_Lee_Ray — page complète via API, consultée le 27/09/2026.
+[12] wiki.gg, The Unknown — https://deadbydaylight.wiki.gg/wiki/The_Unknown — page complète via API, consultée le 27/09/2026.
+[13] wiki.gg, Vecna (The Lich) — https://deadbydaylight.wiki.gg/wiki/Vecna — page complète via API, consultée le 27/09/2026.
+[14] wiki.gg, Dracula (The Dark Lord) — https://deadbydaylight.wiki.gg/wiki/Dracula — page complète via API, consultée le 27/09/2026.
+[15] BHVR, 9.4.2 | Bugfix Patch (2v8 : The Good Guy - Innate Skills) — https://forums.bhvr.com/dead-by-daylight/kb/articles/536 — consulté le 27/09/2026 (fichier local).
+[16] BHVR, 10.1.2 Bugfix Patch (2v8 : The Xenomorph - Innate Skills) — https://forums.bhvr.com/dead-by-daylight/kb/articles/558 — consulté le 27/09/2026 (fichier local).
+[17] BHVR, 9.2.0 | Sinister Grace (Unknown, Dark Lord) — https://forums.bhvr.com/dead-by-daylight/kb/articles/523 — consulté le 27/09/2026 (fichier local).
+[18] wiki.gg, Treasure Chest — https://deadbydaylight.wiki.gg/wiki/Treasure_Chest — via `kb/tools/wiki_text.py`, consulté le 27/09/2026.
+[19] BHVR, 9.0.0 | Five Nights at Freddy's (The Lich) — https://forums.bhvr.com/dead-by-daylight/kb/articles/510 — consulté le 27/09/2026 (fichier local).
+[20] BHVR, 9.1.0 | The Walking Dead (bugfix Vorpal Sword) — https://forums.bhvr.com/dead-by-daylight/kb/articles/516 — consulté le 27/09/2026 (fichier local).
+[21] BHVR, 9.1.2 | Bugfix Patch (Fog Vial / Singularity) — https://forums.bhvr.com/dead-by-daylight/kb/articles/519 — consulté le 27/09/2026 (fichier local).
+[22] wiki.gg, Vorpal Sword — https://deadbydaylight.wiki.gg/wiki/Vorpal_Sword — via `kb/tools/wiki_text.py`, consulté le 27/09/2026.
+[23] wiki.gg, Pallets (section destruction par pouvoir) — https://deadbydaylight.wiki.gg/wiki/Pallets — via `kb/tools/wiki_text.py`, consulté le 27/09/2026.

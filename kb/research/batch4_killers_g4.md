@@ -212,36 +212,42 @@
 
 ## 27. The Onryō (Sadako Yamamura) — archétype(s) : furtif | mobilité (TV) | condamnation (mori)
 
-- **Version** : aucun changement de pouvoir relevé dans [2] entre 9.0.0 et 10.1.2a. Dernier rework : non vérifié. Statut LIVE.
-- **Données LIVE** (seed, NON RE-VÉRIFIÉ (quota WebSearch épuisé), UNCERTAIN) :
-  - 4,6 m/s (115 %), TR 24 m (voir Questions ouvertes), petite.
-  - Démanifestée : Undetectable, invisible au-delà de 24 m ; ne peut ni attaquer ni être stun par palette.
-  - Projection sur TV : +1 Condemned aux survivants à 16 m de la TV d'arrivée ; 6,9 m/s pendant 2 s après projection.
-  - Condemned : 7 stacks = mori ; stacks verrouillés par les crochets (3 au 1er, 6 au 2e selon seed).
-  - Cassettes : TV éteinte 70 s après retrait ; déposer une cassette retire 3 stacks ; porter une cassette fait monter le Condemned.
+- **Version** : dernier rework 7.5.0 / 7.5.1 (Condemned verrouillé au crochet, vitesse après projection) — STRONG_SECONDARY [7] ; aucun changement de pouvoir dans les notes 9.0.0 → 10.1.2a ni au PTB 10.2.0 [23]. Problème connu signalé par BHVR en 10.1.0 : « l'Onryō peut parfois être vue à plus de 24 m en étant démanifestée » — VERIFIED_PRIMARY [21]. Statut LIVE.
+- **Données LIVE** (STRONG_SECONDARY [7] sauf mention) :
+  - 4,6 m/s (115 %), **TR 24 m, berceuse 24 m** (démanifestée), **petite (Short)**. CONFLICT-L4G4-03 RÉSOLU pour l'Onryō (24 m).
+  - Démanifestée (état de départ) : Undetectable (persiste 1 s après la manifestation) ; **totalement invisible à > 24 m**, visible par intermittence à ≤ 24 m (le clignotement persiste 4 s après la manifestation) ; ne peut ni attaquer ni interagir avec les survivants ; **ne peut pas être stun par une palette**. Manifestation / démanifestation : 1,5 s de charge ; 4,0 m/s pendant la manifestation.
+  - TV : allumées 30 s après le début ; **éteintes 70 s** quand un survivant retire/insère une cassette ; éteintes 45 s après une projection ; zone d'effet 16 m.
+  - Projection (bouton secondaire, démanifestée) vers n'importe quelle TV allumée : **+1 Condemned à tous les survivants à ≤ 16 m de n'importe quelle TV allumée** (pas seulement la TV d'arrivée) ; 6,9 m/s pendant 2 s après la projection ; téléportation 2,7 s.
+  - Condemned : 7 stacks = Killer Instinct 6 s, puis mori (Inexorable Stare) possible sur ce survivant **à terre** ; crochet : 1er crochet verrouille jusqu'à 3 stacks, 2e crochet jusqu'à 6.
+  - Cassettes : retirer une cassette éteint la TV (+0 stack) ; l'insérer dans une autre TV retire −3 stacks ; depuis 7.5.0 la cassette doit être portée **vers une TV précise** ; porter une cassette **ne fait plus monter** le Condemned (supprimé en 7.1.0/7.5.0) ; les données listent aussi « éteindre une TV : +1 stack » (distinction avec le retrait de cassette non expliquée, UNCERTAIN).
 - **Identification** :
-  - Avant le reveal : **pas de TR** en approche démanifestée ; scintillement de silhouette ; TV qui grésillent / s'allument ; statut Condemned qui monte près d'une TV — HEURISTIC.
+  - Avant le reveal : **pas de TR ni de silhouette à > 24 m** ; scintillement de silhouette à ≤ 24 m ; TV qui s'allument ; Condemned qui monte d'un coup (projection) — FACT [7] / HEURISTIC.
   - Stratégie probable : mori sans crochet en fin de partie ; pression passive par projections près des gens — HEURISTIC.
-- **Ce qu'il cherche en chase** : jumpscare sur un survivant qui ne regarde pas derrière lui ; vaults « sans palette » (immunité au stun démanifestée) ; survivants à 5-6 stacks — HEURISTIC.
+- **Ce qu'elle cherche en chase** : jumpscare sur un survivant qui ne regarde pas derrière lui ; palettes jouées alors qu'elle est démanifestée (pas de stun possible [7]) ; survivants à 5-6 stacks — HEURISTIC.
 - **Tiles / structures** :
-  - Favorables : tiles standard avec palettes quand elle est **manifestée** (elle redevient stun-able, seed) — SITUATIONAL.
-  - Défavorables : zones sombres ou encombrées où l'on ne voit pas son approche ; zones à 16 m d'une TV allumée — HEURISTIC.
-- **Mindgames propres** : manifestation juste avant le coup ; démanifester pour traverser une palette sans risque de stun — seed, HEURISTIC.
+  - Favorables : tiles standard avec palettes quand elle est **manifestée** (le stun redevient possible : la page limite l'immunité à l'état démanifesté [7]) — SITUATIONAL.
+  - Défavorables : zones sombres ou encombrées où l'on ne voit pas son approche ; zones à ≤ 16 m d'une TV allumée — HEURISTIC fondé sur FACT.
+- **Mindgames propres** : manifestation (1,5 s) juste avant le coup ; démanifester pour traverser une palette sans risque de stun — HEURISTIC fondé sur FACT [7].
 - **Counterplay** :
-  - Mécanique : regarder derrière soi régulièrement (checkspots) pendant les gens ; surveiller la barre de Condemned — HEURISTIC. Quand : surtout si une TV à moins de ~16 m [SEED] est allumée, si ton Condemned vient de monter (projection proche) ou si un coéquipier vient de la perdre de vue ; où : vers les accès du gen et la TV, pas au hasard. Coût : chaque check fait rater des skill checks si mal synchronisé (raté = −10 % + 3 s, [AUDIT]) → checker entre deux skill checks. Pas de fréquence chiffrée sourcée.
-  - Positionnel : ne pas réparer à 16 m d'une TV allumée quand elle se projette (seed) — HEURISTIC.
-  - Macro : gérer les cassettes : un survivant la dépose vite dans une TV **éloignée** ; retirer les cassettes des TV proches des gens à 3 pour éteindre ses points de projection — HEURISTIC.
-  - Équipe : partager le travail des cassettes pour qu'aucun survivant n'approche 7 stacks ; à 5-6 stacks, jouer très prudemment — HEURISTIC.
-- **Habitudes punissables / erreurs classiques** (HEURISTIC) : garder une cassette trop longtemps ; réparer dos à la zone d'arrivée ; oublier le Condemned en endgame (mori direct).
-- **Adaptations avancées / échecs** (HEURISTIC) : l'habitude « pas de TR = pas de tueur » échoue totalement ; contre Iridescent Videotape (seed) les TV restent allumées → le counterplay « éteindre les TV » ne sert plus, mais le Condemned de projection disparaît.
-- **Add-ons qui changent la décision** (seed, NON RE-VÉRIFIÉ, UNCERTAIN) :
-  - Tape Editing Deck (tous commencent avec une cassette) → déposer immédiatement, loin.
-  - Ring Drawing (accrocher un porteur de cassette donne +1 Condemned aux autres) → ne pas porter de cassette en chase.
-  - Iridescent Videotape (TV pas coupées, pas de Condemned de projection) → priorité aux gens, gestion des cassettes secondaire.
+  - Mécanique : regarder derrière soi régulièrement (checkspots) pendant les gens ; surveiller la barre de Condemned — HEURISTIC. Quand : surtout si une TV à ≤ 16 m est allumée, si ton Condemned vient de monter (projection) ou si un coéquipier vient de la perdre de vue ; où : vers les accès du gen et la TV. Rappel : à > 24 m elle est totalement invisible [7], donc un check ne voit que ce qui est à ≤ 24 m. Coût : checker entre deux skill checks (raté = −10 % + 3 s, [AUDIT]).
+  - Palettes : **ne pas compter sur un stun tant qu'elle est démanifestée** ; la manifestation dure 1,5 s [7] → une palette baissée pendant qu'elle se manifeste derrière toi peut stun — SITUATIONAL.
+  - Positionnel : ne pas réparer à ≤ 16 m d'une TV allumée (chaque projection, vers n'importe quelle TV, donne +1 stack [7]) — HEURISTIC.
+  - Macro : retirer les cassettes des TV proches des gens pour les éteindre 70 s [7] (elle ne peut plus s'y projeter et elles ne comptent plus pour la zone de 16 m) ; porter la cassette jusqu'à la TV indiquée pour −3 stacks — HEURISTIC fondé sur FACT.
+  - Équipe : partager le travail des cassettes pour qu'aucun survivant n'approche 7 stacks ; après 2 crochets, jusqu'à 6 stacks sont verrouillés [7] → un seul stack de marge : jouer très prudemment — HEURISTIC.
+- **Habitudes punissables / erreurs classiques** (HEURISTIC) : réparer près d'une TV allumée ; réparer dos à la zone d'arrivée ; oublier le Condemned en endgame (mori direct une fois à terre) ; lâcher une palette sur elle alors qu'elle est démanifestée.
+- **Adaptations avancées / échecs** (HEURISTIC) : l'habitude « pas de TR = pas de tueur » échoue totalement ; contre Iridescent Videotape, la projection n'éteint plus la TV mais ne donne plus de Condemned → la gestion des TV/cassettes perd de sa valeur, les gens reprennent la priorité.
+- **Add-ons qui changent la décision** (textes LIVE lus sur [7]) :
+  - Tape Editing Deck (tous commencent avec une cassette à porter à la TV la plus éloignée ; aura révélée 6 s à l'insertion) → le survivant dépose sa cassette tôt mais quand elle est occupée ailleurs, au lieu de l'insérer sous ses yeux.
+  - Ring Drawing (accrocher un porteur de cassette donne +1 Condemned à tous les autres) → le survivant ne garde pas de cassette en chase au lieu de la porter « pour plus tard ».
+  - Iridescent Videotape (la projection n'éteint plus les TV et ne donne plus de Condemned ; TV éteintes par les survivants +20 % plus longtemps) → les survivants font les gens en priorité au lieu de passer du temps sur les TV.
+  - Distorted Photo (les survivants à ≤ 16 m qui la voient se manifester crient et sont révélés 4 s) → le survivant s'éloigne dès qu'il la voit clignoter au lieu de la regarder se manifester.
+  - Sea-Soaked Cloth / Rickety Pinwheel (Blindness / Oblivious à ≤ 8 m d'une TV allumée, 7 s après l'avoir éteinte) → le survivant n'entre dans le rayon d'une TV que pour l'éteindre au lieu d'y réparer.
+  - Yoichi's Fishing Net (Blindness dès 4 stacks) → le survivant à 4+ stacks surveille visuellement au lieu de se fier aux auras.
+  - Remote Control (auras des survivants à ≤ 12 m d'une TV allumée révélées 7 s après une projection) → le survivant évite les abords des TV allumées au lieu de s'y cacher.
 - **Implications de carte** : maps sombres et encombrées (Swamp, Yamaoka, Red Forest) = furtivité renforcée ; maps claires/ouvertes = approche visible — HEURISTIC.
-- **Perks fréquentes / synergies** : Call of Brine (sa perk ; LIVE 10.1.0 = 30/40/50 % pendant 90 s — audit [2], STRONG_SECONDARY), Merciless Storm, Scourge Hook: Floods of Rage, Pain Resonance, Pop (seed, UNCERTAIN).
-- **Écart avec le seed** : Call of Brine 30/40/50 % 90 s : **OK** (cohérent avec [2]) ; valeurs du pouvoir et TR 24 m : NON VÉRIFIABLE.
-- **Sources** : [1], [2].
+- **Perks fréquentes / synergies** : Call of Brine, Merciless Storm, Scourge Hook: Floods of Rage (ses perks), Pain Resonance, Pop (seed, UNCERTAIN pour l'usage). **Call of Brine LIVE : régression 130/140/150 % (soit +30/40/50 %) pendant 90 s après un dégât de gen, aura du gen, alerte sur Good skill check** — VERIFIED_MULTI_SOURCE ([7] + note 10.1.0 [21] : « 90s (was 70 seconds) »). Merciless Storm : à 90 % d'un gen, skill checks en continu ; un raté ou une interruption bloque le gen — STRONG_SECONDARY [7].
+- **Écart avec le seed** : Call of Brine 30/40/50 % 90 s : **OK** (VERIFIED_MULTI_SOURCE) ; TR 24 m : **OK** ; petite, 6,9 m/s 2 s, 7 stacks, verrouillage 3/6, 70 s, −3 stacks : **OK** ; **IMPRÉCIS** : « +1 Condemned à 16 m de la TV d'arrivée » → à 16 m de **n'importe quelle** TV allumée ; **FAUX (obsolète)** : « porter une cassette fait monter le Condemned » (supprimé depuis 7.1.0/7.5.0 [7]).
+- **Sources** : [1], [2], [7], [21], [23].
 
 ---
 

@@ -452,3 +452,172 @@ Modèle : un objet « rapporte » les s-surv qu'il fait gagner, moins ce qu'il c
 - Une Fog Vial vaut ce que vaut **une ligne de vue cassée** : de 0 (espace ouvert) à une chase entière (perte du tueur).
 - Map et Key valent l'**information** : utiles surtout si elles évitent un trajet inutile ou le 3-gen.
 
+---
+
+## 5. Techniques (WHAT → WHY → WHEN → HOW → COUNTER → FAILURE → DRILL)
+
+Chiffres communs (FACT [SS] sauf mention) : tueur qui porte un survivant **3,68 m/s** ; **wiggle 16 s** cumulées ; accrocher **1,5 s** ; décrocher **1 s** ; protections post-décrochage (LIVE 10.1.0) : **10 s** d'Endurance et de Haste + **10 s** d'Elusive (FACT audit VP) ; stun de palette **2 s** ; casse de palette **2,34 s** ; cooldown après un coup réussi **2,7 s** et boost de vitesse du survivant touché **1,8 s** (FACT audit).
+
+CALC utile : en 16 s de portage, le tueur parcourt **≈ 59 m** (3,68 × 16). Tout ce qui l'oblige à marcher plus loin que ça fait gagner le wiggle.
+
+### 5.1 Flash save (sauvetage à la lampe)
+
+- **WHAT** : aveugler le tueur **pendant qu'il porte** un survivant (ou dans les 0,4 s de fin du ramassage) : il est étourdi et lâche le survivant (FACT [SS]).
+- **WHY** : annule un crochet entier, sans que le sauveteur prenne un coup s'il est bien placé.
+- **WHEN** :
+  - Vous êtes **déjà** à portée (≤ 10 m, faisceau par défaut) au moment de la mise au sol, **caché**.
+  - Le tueur n'a **pas Lightborn** (vérifiez la fin de partie précédente, ou un tueur qui ne réagit pas à la lampe).
+  - Le ramassage **n'est pas** une saisie dans un casier (**immunité**, 6.4.0).
+- **Tueurs / états immunisés LIVE** :
+  - **Lightborn** : immunité aux lampes, pétards, Flash Grenades et à l'aveuglement de Blast Mine (pas à son stun) ; votre aura est révélée 6/8/10 s (FACT [SS]).
+  - Saisie depuis un **casier** (FACT [SS], 6.4.0).
+  - **The Animatronic** qui saisit un survivant dans une porte : immunité voulue (corrigée en 10.0.0 / 10.0.1, FACT [VP]).
+  - **The Legion** avec **Iridescent Button** : immunité pendant les sauts spéciaux (FACT [VP] par la correction de description 10.0.0 ; détail wiki SS).
+  - Les **Guards** du Knight ne peuvent pas être aveuglés (le Knight lui-même, si) (FACT [SS]).
+  - Statut **Light-Resistant** : réservé à l'événement Black Banquet 2026 (FACT [SS]) ; présence en file normale le 27/09/2026 : UNCERTAIN.
+- **HOW** :
+  1. Placez-vous **face au point où la caméra du tueur regardera à la fin du ramassage**, idéalement dos à un mur ou dans un coin qu'il ne peut pas « viser » en détournant la caméra (HEURISTIC, cohérent avec le seed).
+  2. Restez caché (hors de son champ) jusqu'au **début** de l'animation de ramassage. Le ramassage **ne peut pas être annulé** : une fois lancé, il est engagé.
+  3. Il faut **1 s** de faisceau sur la tête. Allumez donc **~1 s avant la fin** de l'animation, pour finir dans le tampon de 0,4 s, ou visez le tueur **pendant le portage** avant qu'il n'atteigne le crochet. Durée exacte de l'animation de ramassage : **UNCERTAIN** (non documentée).
+  4. Pendant l'animation d'**accrochage**, un étourdissement n'est plus possible (retiré en 1.1.2a ; comportement LIVE non re-vérifié : UNCERTAIN).
+- **COUNTER (tueur)** :
+  - Regarder autour avant de ramasser ; ramasser **face à un mur** ou tête baissée.
+  - Frapper ou chasser d'abord le porteur de lampe ; laisser le survivant au sol.
+  - Lightborn. Dark Arrogance allonge en fait les aveuglements subis de 15 % (perk à contrepartie, FACT [VP] 9.2.0).
+- **FAILURE** :
+  - Allumer trop tôt : le tueur vous voit, détourne la tête, et le blind **régresse** au même rythme qu'il progresse.
+  - Être vu en approche : il vous frappe d'abord ou ramasse face au mur.
+  - Venir de loin : 20-40 s-surv perdues (lot 9).
+- **DRILL** (partie personnalisée, 1 ami tueur) : 10 ramassages par séance, en variant l'orientation (mur à gauche, à droite, en coin). Notez à quel moment vous allumez (début / milieu / fin de l'animation) et le taux de réussite. Objectif : > 6/10 sur ramassage « libre », puis contre un tueur qui regarde un mur.
+
+### 5.2 Aveuglement en chase et à la casse de palette
+
+- **WHAT** : aveugler le tueur **pendant qu'il casse une palette** (2,34 s, caméra verrouillée vers le bas, il ne peut pas détourner la tête) (FACT [SS]).
+- **WHY** : 2 s d'aveuglement (plus avec add-ons) et **Quick Attack seulement** pendant ce temps. Avec Residual Manifest : Blindness 20/25/30 s (plus de lecture d'aura) (FACT [SS]).
+- **WHEN** : face à un tueur qui casse beaucoup de palettes. Jamais contre Lightborn.
+- **HOW** : placez-vous devant la palette, à ≤ 10 m, et commencez **dès** le début de la casse (il faut 1 s).
+- **COUNTER** : ne pas casser la palette quand une lampe attend ; perks qui récompensent l'aveuglement ou le stun (Rampage : +1 % de Haste par jeton pendant 13 s après un aveuglement ou un stun, FACT [VP] 10.0.0).
+- **FAILURE** : rester à côté du tueur aveuglé. Il entend toujours, et un Quick Attack peut vous toucher.
+- **DRILL** : partie personnalisée, le tueur casse 10 palettes ; comptez les blinds réussis.
+
+### 5.3 Pallet save (sauvetage à la palette)
+
+- **WHAT** : faire tomber une palette sur un tueur **qui porte** un survivant. Le tueur est étourdi 2 s et **lâche le survivant, qui repart blessé** (FACT [SS]).
+- **WHY** : pas d'objet requis, et le stun ne peut pas être « évité » en détournant la caméra.
+- **WHEN** : le trajet du porteur **passe par une palette debout** (ou le tueur n'a pas d'autre crochet que de l'autre côté d'une palette).
+- **HOW** :
+  1. Précédez le tueur à la palette ; attendez-le sans vous montrer.
+  2. Le stun ne s'applique qu'une fois la palette tombée à ~50 % : lâchez-la **juste avant** qu'il n'entre dans la zone (FACT [SS] pour le seuil de 50 %).
+  3. Pas pendant l'animation de ramassage (non annulable) : seulement quand il peut **bouger** (FACT [SS]).
+- **COUNTER** : contourner les palettes debout en portant ; Agitation (portage plus rapide) ; Awakened Awareness (voir les survivants près de soi en portant) ; lâcher le survivant et frapper le sauveteur (pénalité de lâcher : +25 % de wiggle, voir §5.8).
+- **FAILURE** : lâcher trop tôt (le tueur s'arrête, casse ou contourne) ; attendre sur une palette qu'il n'a aucune raison d'emprunter.
+- **DRILL** : partie personnalisée, trajets de portage vers 3 crochets différents ; pour chacun, repérez la palette « obligée ». Puis 10 tentatives en variant le moment du lâcher.
+
+### 5.4 Sabotage (toolbox, Saboteur, crochets Scourge, sous-sol)
+
+- **WHAT** : casser temporairement un crochet pour que le tueur doive aller plus loin, et que le survivant porté wiggle hors de ses mains.
+- **Règles LIVE** (FACT [SS]) :
+  - **3 s** par défaut ; avec une toolbox, **6 charges** par crochet. Commodious +50 % → 2 s (CALC) ; Alex's +100 % → 1,5 s (CALC) ; Saboteur sans toolbox +30 % → ≈ 2,3 s (CALC), cooldown 70/65/60 s.
+  - Réparation automatique **30 s** (+20 s Grip Wrench).
+  - Toujours une **Loud Noise Notification** (sauf Protective Gloves).
+  - **Crochets du sous-sol : insabotables**, et ils ne cassent pas non plus lors d'un sacrifice.
+  - Saboteur (LIVE) : pendant qu'un allié est porté, aura des crochets dans **56 m** du point de ramassage ; les **crochets Scourge** apparaissent en **jaune** (FACT [SS]).
+  - **Crochets Scourge** : 4 crochets choisis au hasard ; ce sont des crochets normaux pour le sabotage. Ils sont **indiscernables** sans Saboteur (FACT [SS]).
+- **WHY** : le wiggle se remplit en 16 s ; chaque crochet cassé ajoute du trajet (CALC : ~59 m de marge).
+- **WHEN** :
+  - Un allié est porté, **loin du sous-sol**, et vous êtes près du crochet vers lequel il se dirige.
+  - Priorité aux **crochets Scourge** (Saboteur) : ils appliquent l'effet de la perk Scourge (ex. Pain Resonance), les casser prive le tueur de sa perk (HEURISTIC).
+- **HOW** :
+  1. Suivez la trajectoire du tueur (Saboteur, Kindred, son).
+  2. Sabotez le crochet **visé**, **au dernier moment** (2-4 s avant son arrivée). Le bruit l'avertit : trop tôt, il change de crochet.
+  3. Enchaînez avec le crochet suivant si possible (Alex's : 3 sabotages par toolbox, CALC 18 / 6).
+  4. Combinez avec Breakout (+25 % de wiggle → 12,8 s, CALC) et le body block (§5.5).
+- **COUNTER (tueur)** :
+  - **Scourge Hook: Hangman's Trick** : bruit fort dès qu'un survivant **commence** un sabotage, et en portant, auras des survivants dans 12/14/16 m d'un crochet Scourge (FACT [SS]).
+  - Aller vers le **sous-sol** ; offrandes Oak (crochets plus serrés) ; Iron Grasp, Agitation ; Mad Grit.
+  - Frapper le saboteur (il est souvent sain, près du trajet).
+- **FAILURE** :
+  - Saboter trop tôt (le tueur reroute) ou un crochet qu'il ne visait pas.
+  - Saboter près du sous-sol : il ira au sous-sol.
+  - Deux saboteurs sur le même crochet pendant que les gens n'avancent pas.
+- **DRILL** : sur 3 cartes, repérez en partie personnalisée l'emplacement du sous-sol et les chaînes de crochets. Chronométrez « ramassage → crochet le plus proche » à 3,68 m/s ; entraînez-vous à arriver 3 s avant le tueur.
+
+### 5.5 Body block
+
+- **WHAT** : se placer physiquement sur le chemin du tueur (collision) pour lui faire perdre du temps.
+- **WHY** : gagner les mètres qui manquent à un allié blessé, ou prolonger un portage (wiggle).
+- **WHEN** :
+  - Passages étroits : porte, couloir, escalier, sortie de fenêtre, entre deux obstacles.
+  - Un allié porté : bloquer la route vers le crochet le plus proche. Chaque détour compte (CALC : 1 s de détour ≈ 3,7 m de portage).
+  - **Jamais** si vous êtes vous-même à 2 paliers (lot 9 et 11).
+- **HOW** : anticipez sa trajectoire, restez **au centre** du passage, bougez légèrement avec lui. Acceptez le coup s'il frappe : c'est alors un **protection hit** (§5.6).
+- **COUNTER** : frapper le bloqueur (il perd un état de santé) ; lâcher l'allié porté pour le frapper puis le reprendre (lâcher = +25 % de wiggle) ; faire le tour.
+- **FAILURE** : bloquer dans un espace ouvert (il vous contourne) ; bloquer en étant blessé (vous vous faites mettre au sol) ; bloquer un tueur qui n'avait pas besoin de passer par là.
+- **DRILL** : partie personnalisée, un ami porte un bot vers un crochet : mesurez le temps gagné par un blocage dans une porte, puis en terrain ouvert.
+
+### 5.6 Protection hit
+
+- **WHAT** : prendre volontairement le coup à la place d'un allié plus fragile.
+- **Définition du jeu** (FACT [SS], page Protection Hits) : le Score Event *Protection* (200 BP) se déclenche quand vous **prenez un coup dans 10 m d'un survivant blessé**, ou **pendant que le tueur porte un survivant**. Toutes les attaques ne le déclenchent pas (liste sur la page *Attacks*, non lue).
+- **Perks liées** (FACT [SS]) : Duty of Care (sain : +25 % de Haste 4/5/6 s aux alliés dans 12 m) ; Mettle of Man (après 3 protection hits) ; **Forced Penance** (tueur : Broken 60/70/80 s à qui prend un protection hit).
+- **WHY** : le tueur perd son cooldown de **2,7 s** et doit réorienter la chase. Vous gagnez un boost de **1,8 s**. L'allié garde sa santé (HYPOTHESIS sur le gain net : environ 3-5 s de chase plus la réorientation, non mesuré).
+- **WHEN** :
+  - Vous êtes **sain**, avec des paliers bas.
+  - L'allié est **blessé** et proche d'une tile, ou vient d'être décroché.
+  - Le tueur n'est **pas** à one-shot, et n'a pas Forced Penance (sinon Broken 60-80 s).
+- **HOW** : placez-vous **entre** le tueur et l'allié, dans l'axe de sa fente. Juste après le coup, partez **dans une autre direction** que l'allié pour séparer les cibles.
+- **COUNTER** : ne pas frapper le bloqueur, le contourner (vous « prenez » sans avoir été frappé) ; Forced Penance.
+- **FAILURE** :
+  - Prendre un coup inutile (le tueur ne visait pas l'allié) : un état de santé offert.
+  - Deux protecteurs : deux blessés.
+  - Protéger un décroché qui a encore son **Endurance** (10 s) : il encaisse déjà le coup sans aller au sol.
+- **DRILL** : partie personnalisée, un allié blessé boucle une tile ; interposez-vous au moment de la fente. 10 essais.
+
+### 5.7 Save au casier (Head On, Flashbang)
+
+- **WHAT** : étourdir ou aveugler le tueur **depuis un casier** pour lui faire lâcher un allié porté. Tout étourdissement ou aveuglement du porteur **libère** le survivant (« by any means », FACT [SS] page Hooks).
+- **Outils LIVE** (FACT [SS]) :
+  - **Head On** : après 3 s dans le casier, sortie en sprint ; stun **3 s** si le tueur est à **≤ 2,5 m** ; Exhausted 60/50/40 s si réussi ; **bruit fort si raté** ; inutilisable si Exhausted. **Pas un aveuglement** : Lightborn ne le bloque pas.
+  - **Flashbang** : grenade fabriquée dans un casier (50/45/40 % de réparation personnelle, réutilisable). Aveugle tous les joueurs proches, **bloquée par Lightborn**.
+- **WHY** : le casier cache votre présence (auras bloquées à l'intérieur, sauf à l'entrée et à la sortie, FACT [SS]).
+- **WHEN** : casier **sur le trajet** probable du porteur (entre le lieu du ramassage et le crochet), ou près d'un crochet quand le tueur revient.
+- **HOW** : entrez **sans être vu** (une entrée normale est lente mais silencieuse ; une entrée en sprint fait un bruit fort, sauf Quick & Quiet). Attendez 3 s (Head On), puis sortez quand le tueur passe **à ≤ 2,5 m**.
+- **COUNTER** : fouiller les casiers proches (2,33 s pour un casier vide ; 5 s pour extraire un survivant, avec **immunité aux lampes** pendant la saisie) ; Lightborn contre Flashbang ; éviter les rangées de casiers en portant.
+- **FAILURE** : casier trop loin du trajet ; sortie trop tôt (raté = bruit fort, le tueur vous trouve) ; Head On pendant votre Exhausted ; être vu en entrant.
+- **DRILL** : partie personnalisée, 10 passages de tueur devant un casier ; travaillez la distance de 2,5 m.
+
+### 5.8 Wiggle, drop et libération
+
+- **WHAT** : se libérer en étant porté.
+- **Règles LIVE** (FACT [SS], page Wiggle) :
+  - Tests de wiggle « ping-pong » (zones à 3 h et 9 h). Tant qu'ils sont réussis, la jauge monte à **+1 c/s** : **16 s** pour se libérer.
+  - Un raté **met en pause** la jauge et le déport latéral du tueur. Good = déport 50 %, Great = 120 %.
+  - **Lâcher** un survivant (dribble) : **+25 %** de jauge. Au plus tard au 4e lâcher, il est libre. Dès 75 % de jauge, **le premier lâcher le libère**.
+  - Perks : Boil Over (déport +60/70/80 %, auras des crochets dans 16 m cachées au tueur, +33 % de la jauge actuelle si le tueur tombe d'une hauteur), Breakout (allié dans 5 m : +25 % de wiggle, Haste 6/8/10 %), Flip-Flop (la récupération au sol remplit la jauge jusqu'à 40/45/50 %), Power Struggle (à 25/20/15 % de jauge, faire tomber une palette en étant porté : stun et libération).
+  - Contres : Iron Grasp (déport −75 %, +10/11/12 % de temps pour se libérer ; **modifiée au PTB 10.2.0**, valeur LIVE à re-vérifier : UNCERTAIN), Agitation, Mad Grit (pause de la jauge 2/3/4 s par coup porté), Awakened Awareness.
+- **WHY** : chaque seconde de wiggle se combine avec le sabotage, le body block et le pallet save. Le tueur doit arriver au crochet en < 16 s.
+- **WHEN** : toujours wiggler, et réussir les tests (un raté fige la jauge).
+- **HOW** : wigglez **vers** les obstacles et les coéquipiers qui bloquent ; avec Boil Over, vers les hauteurs.
+- **COUNTER** : crochets proches (Oak), sous-sol, Iron Grasp.
+- **FAILURE** : rater les tests par panique ; l'allié qui bloque se place du mauvais côté du déport.
+- **DRILL** : partie personnalisée, 10 portages : comptez les tests ratés. Objectif 0.
+
+### 5.9 Trappe avec une clé
+
+- **Règles LIVE** (FACT [SS] / [VMS]) :
+  - La trappe n'apparaît et ne s'ouvre **que s'il reste un seul survivant** (5.3.0). Elle reste ouverte **tant que le tueur ne la ferme pas**.
+  - Le tueur qui la ferme déclenche l'**EGC** (120 s, FACT audit).
+  - Une **Dull ou Skeleton Key avec au moins 1 charge** la rouvre en **2,5 s** (1 charge). **Impossible en étant au sol**. Le tueur peut vous **saisir** pendant l'ouverture. Depuis 9.1.0, la clé n'est plus détruite.
+  - Left Behind : aura de la trappe dans 24/28/32 m quand vous êtes le dernier (FACT [SS]).
+  - *PTB 10.2.0 : Down to the Last permettrait d'ouvrir la trappe sans clé avec ≥ 3 jetons — **non LIVE**.*
+- **WHAT** : rouvrir une trappe fermée pendant l'EGC.
+- **WHY** : une 3e sortie que le tueur ne peut pas surveiller en même temps que les deux portes.
+- **WHEN** : vous êtes le dernier, le tueur a fermé la trappe **et** s'éloigne vers une porte, ou vous êtes plus proche de la trappe que lui.
+- **HOW** :
+  1. Repérez la trappe **avant** d'être le dernier (Left Behind, son de la trappe ouverte, Blueprints qui orientent son apparition).
+  2. Après la fermeture, laissez le tueur choisir une porte, puis allez à la trappe.
+  3. 2,5 s d'ouverture : ne la lancez que si le tueur est à plus de ~2,5 s de vous (HEURISTIC).
+- **COUNTER** : Franklin's Demise (la clé tombe) ; rester près de la trappe fermée ; Overwhelming Presence (Exhausted à l'usage de la clé).
+- **FAILURE** : clé déjà vidée par les lectures d'aura (gardez **1 charge**) ; ouvrir sous les yeux du tueur (saisie) ; tenter la trappe au sol.
+- **DRILL** : partie personnalisée : le tueur ferme la trappe et garde une porte ; entraînez les trajets porte ↔ trappe sur 3 cartes.
+
