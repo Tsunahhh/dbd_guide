@@ -1,6 +1,6 @@
 # 9. Perks survivant : comprendre, choisir, construire
 
-> **Périmètre** : mode **1v4**, version **LIVE 10.1.2a (17/09/2026)**. Le chapitre couvre les **176 perks survivant** du périmètre du guide (fiches `kb/research/batch2_perks_surv_p23…p30.md`). Toutes ont été re-vérifiées sur page wiki complète le 27/09/2026 ; **81** ont en plus une valeur LIVE confirmée par une note officielle BHVR. **31** sont modifiées par le **PTB 10.2.0** : leurs nouvelles valeurs sont toujours écrites « **PTB 10.2.0 — non LIVE** » et ne servent jamais de base à une décision aujourd'hui.
+> **Périmètre** : mode **1v4**, version **LIVE 10.1.2a (17/09/2026)**. Le chapitre couvre les **176 perks survivant** du périmètre du guide (fiches `kb/research/batch2_perks_surv_p23…p30.md`). Toutes ont été re-vérifiées sur page wiki complète le 27/09/2026 ; **81** ont en plus une valeur LIVE confirmée, en tout ou en partie, par une note officielle BHVR. **31** sont modifiées par le **PTB 10.2.0** : leurs nouvelles valeurs sont toujours écrites « **PTB 10.2.0 — non LIVE** » et ne servent jamais de base à une décision aujourd'hui.
 >
 > Ce périmètre est celui du guide d'origine, **pas une liste officielle relue** : une perk sortie hors de ce périmètre n'est pas traitée ici.
 
@@ -221,8 +221,8 @@ Chaque catégorie suit le même plan : **à quoi elle sert** (en secondes), un *
 | **Parental Guidance** | Après avoir étourdi le tueur (tout moyen) : griffures, sang et gémissements supprimés 5/6/7 s | SS | Stun de palette près d'herbes hautes ou de structures | Head On, Iron Will |
 | **Lucky Break** | Blessé : griffures et flaques de sang supprimées, **40/50/60 s au total** ; se recharge en soignant un autre survivant | SS | Casser la piste après un coup ; nulle en bonne santé et contre les tueurs à aura | Iron Will (audio) = complément exact |
 | **Iron Will** | Blessé : gémissements −80/90/100 % ; **inactive si Exhausted** ; réduction additive (d'autres effets peuvent les rendre audibles) | SS | Mindgames à l'écoute | Distortion, Lucky Break ; **anti-synergie avec les perks d'Exhaustion** |
-| **Chemical Trap** | Après 20 % de réparation : piège sur une palette tombée 40/50/60 s ; si le tueur la casse, Hindered 50 % pendant 4 s | SS | Palette de dead zone que le tueur doit casser | Nulle contre les casses par pouvoir |
-| **Bada Bada Boom** | Après 20 % : piège sur une fenêtre 40/50/60 s ; le tueur qui la saute est Hindered 50 % pendant 6 s | VM | Fenêtre d'une boucle forte près du gen travaillé | Nulle contre les tueurs qui ne sautent pas |
+
+Pièges de chase (voir 9.7) : **Chemical Trap** (palette tombée piégée, Hindered 50 % 4 s, SS) et **Bada Bada Boom** (fenêtre piégée, Hindered 50 % 6 s, VM) ; ils ne rapportent que si le tueur casse la palette ou saute la fenêtre dans les 40-60 s.
 
 **Choisir sa perk d'Exhaustion** [HEURISTIQUE] : prenez celle dont **vous contrôlez le déclencheur** dans vos parties habituelles.
 
@@ -300,8 +300,8 @@ Détail : `kb/research/batch2_perks_surv_p23.md` (Kindred, Bond, Déjà Vu), `p2
 | **Friendly Competition** | Finir un gen avec au moins un allié → +5 % de réparation pour les participants, 100/110/120 s | VM | Équipe qui finit les gens à deux | **PTB 10.2.0 : +10 % 80/85/90 s** |
 | **Fast Track** | +1 jeton par survivant que **vous** décrochez (max 1/2/3) ; un Great consomme tout : **5 % permanents par jeton** (note 9.6.0) ou 5 charges (wiki) | VM (unité INC) | Rôle de sauveteur qui enchaîne décrochage → gen | Hyperfocus, Stake Out |
 | **Specialist** | +1 jeton par coffre ouvert ou fouillé (max 6) ; un Great consomme tout : −2/3/4 charges par jeton, max 12/18/24 charges | SS | Build coffres ; garder les jetons (faire des Goods) pour un gen critique | Coûte du temps de coffres |
-| **Overzealous** | Après un totem purifié ou béni : +8/9/10 % (Dull) ou +16/18/20 % (Hex) ; perdue à la perte d'un état de santé | SS | Hex trouvé tôt | Small Game, Detective's Hunch |
-| **Technician** | Bruit de réparation réduit de **16 m** ; un raté ne fait pas exploser le gen ni ne notifie, mais pénalité **+4/3/2 %** | VM | Joueur qui rate (latence, Doctor) | Ne compense jamais pour un joueur précis |
+
+Autres perks de gen (voir 9.7) : **Overzealous** (après un totem, +8/9/10 % ou +16/18/20 % si Hex, perdue au premier état perdu, SS) ; **Technician** (bruit du gen −16 m, raté sans explosion mais pénalité +4/3/2 %, VM) : utile seulement si vous ratez souvent.
 
 **Trois calculs qui changent les décisions** (calc. sur [FACT] ; bonus supposé multiplicatif sur le débit de chacun, [HYPOTHÈSE]) :
 
@@ -354,10 +354,9 @@ Détail : `kb/research/batch2_perks_surv_p23.md` (Déjà Vu, Prove Thyself, Hype
 | **Solidarity** | Blessé, en soignant un allié **sans médikit** : vous vous soignez à 50/60/70 % de votre vitesse de soin altruiste | VM | Deux blessés qui se soignent mutuellement | **PTB 10.2.0 : 65/70/75 %, médikit autorisé** |
 | **Inner Strength** | Après un totem purifié : 10/9/8 s dans un casier = soigné d'un état ; une fois par purification ; pas sous Broken | SS | SoloQ contre les builds Hex | Casier = risque de grab |
 | **Moment of Glory** | Après 1 coffre : quand vous devenez blessé → Broken, puis soigné après 80/70/60 s si vous n'êtes pas à terre | VM | SoloQ : rester sur gen au lieu de chercher un soin | Broken = aucun autre soin pendant ce temps |
-| **Clean Break** | Après avoir soigné un allié : bouton pendant qu'on vous soigne → Broken, puis soigné après 75/60/45 s | VM | Libérer le soigneur | Inutile si personne ne vous soigne |
-| **Second Wind** | Après avoir soigné l'équivalent d'1 état : au décrochage suivant, Broken puis soigné après 28/24/20 s si pas à terre | SS | Économise le soin du décroché | Tunnel immédiat |
 | **For the People** | En bonne santé, en soignant un allié sans médikit : soin instantané (à terre → blessé, blessé → sain) ; vous devenez blessé, Broken 80/70/60 s et l'Obsession | SS | Relever un allié sous le nez du tueur | Obsession : active les perks tueur d'Obsession |
-| **Made for This** | Blessé : finir un soin sur un allié → Endurance 6/8/10 s (annulée par action voyante) ; sous Deep Wound, courir → +1/2/3 % Haste | SS | Soigner sous pression | — |
+
+Autres perks à Broken programmé (voir 9.7) : **Second Wind** (28/24/20 s), **Clean Break** (75/60/45 s) ; et **Made for This** (Endurance 6/8/10 s après un soin donné, blessé).
 
 **COMMENT choisir** [HEURISTIQUE] :
 - **Un seul** bonus de vitesse de soin « pur » (Botany *ou* Empathic Connection *ou* Circle of Healing) : les suivants sont probablement réduits par les DR (9.2).
@@ -387,10 +386,9 @@ Détail : `kb/research/batch2_perks_surv_p24.md` (Botany, We'll Make It, Circle 
 | **Saboteur** | Quand le tueur porte un allié : auras des crochets à 56 m **autour du point de ramassage** ; sabotage sans boîte, +30 % ; CD 70/65/60 s | SS | SWF, longs portages | Crochets denses, Agitation |
 | **Flashbang** | Après 50/45/40 % de réparation : dans un casier, fabrique une grenade aveuglante ; une seule | SS | Sauver un porté, bloquer un ramassage | Lightborn |
 | **Shoulder the Burden** | Une fois, hors dernier crochet : décroche l'allié et **prend un de ses états de crochet** ; vous criez et êtes **Exposed 60/50/40 s** | VM | Allié tunnelé à 2 crochets tôt dans la partie | Exposed = mis à terre en un coup. **PTB 10.2.0 : blessé + Broken 160/140/120 s, désactivée pour tous** |
-| **Camaraderie** | Accroché en phase de lutte : un survivant à 16 m met la phase en pause 26/30/34 s | SS | Sauveteur en retard sur un 2e crochet | Ne sert pas si le tueur camp |
 | **Teamwork: Throw Down** | Quand vous aveuglez le tueur ou l'étourdissez **à la palette** : les autres survivants **blessés** à 24 m gagnent Endurance 6/8/10 s (et l'aura du tueur, selon la note officielle) | VM (aura INC) | Sauvetage de chase d'un allié blessé | Rien sans allié blessé proche |
-| **Duty of Care** | En bonne santé, prendre un coup de protection → +25 % de Haste 4/5/6 s aux autres survivants à 12 m | SS | Bodyblocker | Aucun coup de protection = aucune valeur |
-| **Mettle of Man** | Après le 3e coup de protection : blessé, vous encaissez le prochain coup qui vous mettrait à terre ; ensuite, de retour en bonne santé, votre aura est révélée au tueur au-delà de 12/14/16 m | SS | SWF qui prend les coups volontairement | 3 coups de protection rarement atteints en SoloQ |
+
+Coups de protection (voir 9.7) : **Duty of Care** (+25 % Haste 4/5/6 s aux alliés à 12 m) et **Mettle of Man** (après 3 coups de protection) ; **Camaraderie** met la phase de lutte en pause 26/30/34 s quand un allié est à 16 m.
 
 **COMMENT** [HEURISTIQUE] : au crochet, séparez les rôles. **Avant** le décrochage : Kindred (qui y va), Reassurance (quand). **Au** décrochage : Babysitter, Borrowed Time (sécurité du décroché). **Après** : We'll Make It (soin), Resurgence chez le décroché. Au **portage**, les perks n'ont de valeur qu'avec un outil de sauvetage (lampe, Flashbang, palette) et un joueur qui suit le porteur : c'est un jeu de **SWF**.
 
@@ -514,19 +512,7 @@ Détail : `kb/research/batch2_perks_surv_p24.md` (Boons), `p25.md` (Counterforce
 
 ### 9.3.11 Objets et coffres (bref)
 
-Ces perks transforment du **temps de coffre** en objets ou en progression. Elles coûtent du temps de gen : leur place est dans les parties sans forte pression ou dans un build dédié [HEURISTIQUE].
-
-| Perk | Effet LIVE court | Conf. |
-|---|---|---|
-| Plunderer's Instinct | Auras des coffres et objets à 32/48/64 m ; +50 % de chance de rareté supérieure | VM |
-| Appraisal | 4 jetons ; fouiller un coffre ouvert et vide (2 fois max par coffre) ; fouille +40/60/80 % | VM |
-| Pharmacy | Déverrouillage +75/100/125 %, bruit −12 m, Emergency Med-Kit garanti | VM |
-| Ace in the Hole | Objet de coffre : 1er add-on garanti (≤ Ultra Rare), 2e à 50/75/100 % (≤ Uncommon) ; add-ons gardés en cas de fuite | SS |
-| Built to Last | Casier avec objet vide, 14/12/10 s → recharge 99 / 66 / 33 % ; 3 usages | **VP** (le wiki dit 12/10/8 s, valeur du PTB 9.1.0) |
-| Streetwise | Objets de coffre +60/70/80 % de charges ; aura du tueur 8 s au premier objet vidé | VM |
-| Exultation | Stun de palette avec un objet en main : +75 % de charges et rareté supérieure (conservée à la fuite) ; CD 30/25/20 s | VM |
-| Change of Plan | 2 jetons : dans un casier, boîte à outils non-événement → Med-Kit de même rareté, 80/90/100 % de charges | VM |
-| Scavenger, Residual Manifest, Apocalyptic Ingenuity | voir inventaire (9.7) | SS/VM |
+Ces perks transforment du **temps de coffre** en objets ou en progression (Plunderer's Instinct, Appraisal, Pharmacy, Ace in the Hole, Streetwise, Specialist, Exultation, Scavenger, Residual Manifest, Change of Plan, Apocalyptic Ingenuity, Moment of Glory ; effets en 9.7). Elles coûtent du temps de gen : leur place est dans les parties sans forte pression ou dans un build dédié [HEURISTIQUE]. Un point de vigilance : **Built to Last** dure **14/12/10 s** en casier selon la note officielle 9.1.0 (**VP**) ; le wiki affiche 12/10/8 s, qui est la valeur du PTB 9.1.0 non retenue à la sortie. Objets eux-mêmes : chapitre 11.
 
 ### 9.3.12 SoloQ contre SWF
 
@@ -700,3 +686,198 @@ Détail : note officielle 559 (`kb/sources/patches/official_559.txt`) ; fiches p
 
 ---
 
+## 9.7 Inventaire compact des 176 perks survivant `[Référence]`
+
+**Contrôle du compte** : 176 lignes = 21 + 23 + 27 + 24 + 27 + 25 + 25 + 4 fiches (p23 → p30) ; 17 perks générales + 53 survivants × 3 perks = 176 ; aucun doublon (contrôle par script sur les en-têtes des fiches). Ce compte vérifie la cohérence avec les fiches, **pas** l'exhaustivité par rapport au jeu.
+
+**Légende** — Catégorie : **Chase**, **Exh** (perk d'Exhaustion ou modificateur d'Exhaustion), **Info**, **Gen**, **Soin**, **Altr** (décrochage, sauvetage, porté), **Tunnel** (anti-tunnel), **Slug** (anti-slug), **Endg** (fin de partie), **Stealth**, **Totem** (totems et Boons), **Objet** (objets et coffres). Confiance : **VM** = page wiki complète + note officielle ; **SS** = page wiki complète seule ; **VP** = note officielle qui fait foi contre le wiki ; **INC** = détail non tranché. PTB 10.2.0 : « — » = non modifiée ; sinon nature du changement (détail en 9.6, **non LIVE**). Effets résumés : la fiche fait foi.
+
+| Perk | Propriétaire | Effet LIVE court | Cat. | Conf. | PTB 10.2.0 |
+|---|---|---|---|---|---|
+| A Place For Us | Kwon Tae-young | En soignant un allié : Elusive pour les deux ; soin de l'Obsession fini → Elusive 20/25/30 s | Soin, Stealth | VM | — |
+| Ace in the Hole | Ace Visconti | Objet de coffre : add-on ≤ Ultra Rare garanti, 2e (≤ Uncommon) à 50/75/100 % | Objet | SS | — |
+| Adrenaline | Meg Thomas | Portes alimentées : +1 état, +50 % Haste 4 s ; ignore l'Exhausted | Endg, Exh | VM | — |
+| Aftercare | Jeff Johansen | Auras mutuelles avec les 1/2/3 derniers survivants aidés ou aidants ; reset au crochet | Info | SS | — |
+| Alert | Feng Min | Le tueur casse ou endommage → son aura 3/4/5 s | Info | SS | — |
+| Any Means Necessary | Yui Kimura | Auras des palettes tombées ; relevées en 5/4/3 s, sans CD | Chase | VM | — |
+| Apocalyptic Ingenuity | Rick Grimes | Auras des palettes cassées à 24/28/32 m ; après 1 coffre, en reconstruire une (fragile) en 3 s | Chase, Objet | VM | — |
+| Appraisal | Élodie Rakoto | 4 jetons : fouiller un coffre vide (2 fois max par coffre) ; fouille +40/60/80 % | Objet | VM | — |
+| Autodidact | Adam Francis | Soin d'autrui : jeton par skill check réussi (max 3/4/5), de −15 % à +60 % par check ; pas de Great ; inactive avec Med-Kit | Soin | SS | — |
+| Babysitter | Steve Harrington | En décrochant : aura du tueur 8 s ; décroché sans traces, Haste de décrochage +10 % 20/25/30 s | Altr, Tunnel | VM | — |
+| Background Player | Renato Lyra | Allié ramassé → 10 s pour courir : +50 % Haste 5 s ; Exhausted 30/25/20 s | Exh, Altr | SS | — |
+| Bada Bada Boom | Dustin Henderson | Après 20 % : fenêtre piégée 40/50/60 s ; tueur Hindered 50 % 6 s | Chase | VM | — |
+| Balanced Landing | Nea Karlsson | Chute silencieuse, stagger −75 %, +50 % Haste 3 s ; Exhausted 60/50/40 s | Exh | SS (hauteur INC) | — |
+| Bardic Inspiration | Aestri Yazar & Baermar Uraz | Performance 15 s : alliés à 16 m, 0 à +3 % par skill check basique (d20) pendant 90 s ; CD 110/100/90 s | Gen | SS | — |
+| Better Than New | Rebecca Chambers | Allié soigné : bénir/purifier, soin, coffres +12/14/16 % jusqu'au prochain dégât | Soin | VM | buff |
+| Better Together | Nancy Wheeler | Aura de votre gen à tous ; mise à terre pendant votre réparation → auras de tous 20/25/30 s | Info | VM | — |
+| Bite the Bullet | Leon S. Kennedy | Soin silencieux ; raté sans bruit, pénalité 3/2/1 % | Soin, Stealth | SS | — |
+| Blast Mine | Jill Valentine | Après 40 % : gen piégé 100/110/120 s ; kick → stun 4 s, aveuglement à 12,5 m | Gen, Altr | SS | — |
+| Blood Pact | Cheryl Mason | Vous ou l'Obsession blessé : auras mutuelles ; soin mutuel → +5/6/7 % Haste à 16 m | Soin | VM | modifiée |
+| Blood Rush | Renato Lyra | Après décrochage, 40/50/60 s : bouton = fin de l'Exhausted ; coupée par action voyante et aux portes | Tunnel, Exh | SS (nb d'usages INC) | — |
+| Boil Over | Kate Denson | Porté : lutte +60/70/80 %, crochets à 16 m cachés ; chute du tueur → +33 % de la lutte actuelle | Altr | SS | — |
+| Bond | Dwight Fairfield | Auras des alliés à 20/28/36 m | Info | SS | — |
+| Boon: Circle of Healing | Mikaela Reid | Zone 24 m : soin d'autrui sans kit +50/75/100 % ; blessés visibles de tous | Soin, Totem | SS | — |
+| Boon: Dark Theory | Yoichi Asakawa | Zone 24 m : +3 % Haste, 2/3/4 s après la sortie | Totem | SS | — |
+| Boon: Exponential | Jonah Vasquez | Zone 24 m : récupération +90/95/100 %, auto-relève | Slug, Totem | SS | — |
+| Boon: Illumination | Alan Wake | Zone 24 m : auras des coffres et gens ; bénir/purifier +6/8/10 % | Totem, Info | VM | rework |
+| Boon: Shadow Step | Mikaela Reid | Zone 24 m : sans griffures, aura cachée, 2/3/4 s après la sortie | Stealth, Totem | SS | — |
+| Boon: Steadfast | Aurora Stardotter | Zone 24 m : régression −50 %, réparation +8/9/10 %, auras des gens | Gen, Totem | VM | — |
+| Borrowed Time | Bill Overbeck | En décrochant : Endurance du décroché +6/8/10 s, Haste +10 s | Altr, Tunnel | SS | rework |
+| Botany Knowledge | Claudette Morel | Soin +30/40/50 % | Soin | VM | — |
+| Bound by Obsession | Générale (ex-Object of Obsession) | Vous voyez le tueur quand il lit votre aura ; Obsession : aura 3 s toutes les 30 s ; +2/4/6 % purif., soin, réparation | Info | VM | buff |
+| Breakdown | Jeff Johansen | Après votre décrochage : crochet cassé (180 s), aura du tueur 4/5/6 s | Tunnel | VM | — |
+| Breakout | Yui Kimura | À 5 m du porteur : Haste 6/8/10 %, lutte du porté +25 % | Altr | SS | — |
+| Buckle Up | Ash Williams | En relevant : aura du tueur (pour les deux) ; relevé sans griffures, +50 % Haste 3/4/5 s | Slug | SS | — |
+| Built to Last | Felix Richter | Casier 14/12/10 s avec objet vide → recharge 99/66/33 % ; 3 usages | Objet | VP | — |
+| Calm Spirit | Jake Park | Jamais de cri, corbeaux calmes ; coffres et totems 40/35/30 % plus lents | Stealth | VM | buff |
+| Camaraderie | Steve Harrington | Phase de lutte : allié à 16 m → pause 26/30/34 s | Altr | SS | — |
+| Champion of Light | Alan Wake | En éclairant : +50 % Haste ; aveuglement → tueur Hindered 20 % 6 s ; CD 60/50/40 s | Chase, Altr | VM | — |
+| Change of Plan | Dustin Henderson | 2 jetons : en casier, boîte à outils → Med-Kit de même rareté, 80/90/100 % de charges | Objet, Soin | VM | — |
+| Chemical Trap | Ellen Ripley | Après 20 % : palette tombée piégée 40/50/60 s ; casse → Hindered 50 % 4 s | Chase | SS | — |
+| Clairvoyance | Mikaela Reid | Après un totem, mains vides : coffres, interrupteurs, gens, trappe, crochets à 64 m 10/11/12 s | Info, Endg | VM | — |
+| Clean Break | Taurie Cain | Après avoir soigné : Broken puis soigné après 75/60/45 s | Soin | VM | — |
+| Come and Get Me! | Rick Grimes | Après un décrochage : blessés et mourants à 24 m sans traces 10/12,5/15 s ; vous criez, aura 5 s | Tunnel, Altr | VM | — |
+| Conviction | Michonne Grimes | Après un soin donné, à terre : auto-relève dès 25 %, Broken, retour à terre après 20/25/30 s | Slug | VM | — |
+| Corrective Action | Jonah Vasquez | Jetons (1/2/3, +1 par Great, max 5) : raté d'un allié → Good, aura 6 s | Gen | SS | — |
+| Counterforce | Jill Valentine | Purification 125 %, +25 % par totem ; aura du totem le plus éloigné 10/12/14 s | Totem | VM | — |
+| Cross-Examination | Shane Wiigwaas | TR hors poursuite : Light Marks du tueur ; dessus, Elusive 3/4/5 s | Stealth | SS | — |
+| Cut Loose | Thalita Lyra | Après un saut rapide en poursuite : sauts rapides silencieux 4/5/6 s ; CD 45 s | Stealth, Chase | SS (saut moyen INC) | — |
+| Dance With Me | Kate Denson | Saut rapide de fenêtre ou sortie rapide de casier : sans griffures 5 s ; CD 25/20/15 s | Stealth | SS (CD rang I INC) | — |
+| Dark Sense | Générale | Après chaque gen : tueur à 24 m → aura 5/7/10 s | Info | VM | buff |
+| Dead Hard | David King | Après décrochage, blessé en course : Endurance 0,5 s ; Exhausted 60/50/40 s | Exh, Tunnel | SS | — |
+| Deadline | Alan Wake | Blessé, en réparant ou soignant : skill checks +6/8/10 %, placés au hasard, pénalité −50 % | Gen | SS | — |
+| Deception | Élodie Rakoto | Feinte de casier (Loud Noise) ; sans griffures ni sang 5 s ; CD 25/20/15 s | Stealth | SS | — |
+| Déjà Vu | Générale | Auras des 3 gens les plus groupés ; +4/5/6 % dessus | Gen, Info | SS | — |
+| Deliverance | Adam Francis | Après un décrochage sûr : auto-décrochage en 1re phase ; Broken 160/140/120 s | Tunnel | VM | — |
+| Desperate Measures | Felix Richter | Soin et décrochage +16/18/20 % par survivant non sain (max 64/72/80 %) | Soin | VM | — |
+| Detective's Hunch | David Tapp | Après chaque gen : coffres, gens, totems à 32/48/64 m, 20 s | Info, Totem | VM | — |
+| Distortion | Jeff Johansen | Jetons (max 2, +1 par 15 s de poursuite) : lecture d'aura bloquée et sans griffures 8/10/12 s | Stealth | SS | — |
+| Diversion | Adam Francis | Après 30/25/20 s dans le TR hors poursuite : caillou → Loud Noise et fausses griffures à 20 m | Stealth | SS | — |
+| Do No Harm | Orela Rose | Soin d'un allié +30/40/50 % par état de crochet ; Great de soin +3 % | Soin | VM | modifiée |
+| Down to the Last | Générale (ex-Sole Survivor) | Aura illisible à 20/22/24 m par survivant mort ; dernier survivant : réparation +75 %, portes et trappe +50 % | Endg | SS | rework |
+| Dramaturgy | Nicolas Cage | Sain, en course : +25 % Haste 2 s puis effet aléatoire (dont Exposed 12 s) ; Exhausted 60/50/40 s | Exh | SS | — |
+| Duty of Care | Orela Rose | Sain, coup de protection : alliés à 12 m +25 % Haste 4/5/6 s | Altr | SS | — |
+| Empathic Connection | Yoichi Asakawa | Soin des autres +25/30/35 % ; les blessés voient votre aura | Soin | VM | buff |
+| Empathy | Claudette Morel | Auras des blessés et mourants à 64/96/128 m | Info | SS | — |
+| Exultation | Trevor Belmont | Stun de palette avec objet : +75 % de charges, rareté supérieure ; CD 30/25/20 s | Objet | VM | — |
+| Extrasensory Perception | Eleven | Accroupi 4 s : auras jusqu'à 44 m, Elusive + Oblivious, 11 s ; CD 60/50/40 s | Info | VM | — |
+| Eyes of Belmont | Trevor Belmont | Gen fini → aura du tueur 1/2/3 s ; +2 s à vos auras temporisées du tueur | Info | SS | — |
+| Fast Track | Lee Yun-jin | Jeton par décrochage (max 1/2/3) ; un Great → 5 % permanents par jeton | Gen | VM (unité INC) | — |
+| Finesse | Lara Croft | Sain : saut rapide +20 % ; CD 40/35/30 s | Chase | SS | — |
+| Five Moves Ahead | Kwon Tae-young | TR ou poursuite : 5 palettes et fenêtres ; repartir 50 % plus tôt après un lâcher ; CD 40/35/30 s | Chase | VM | modifiée |
+| Fixated | Nancy Wheeler | Vitesse de marche +10/15/20 % ; vous voyez vos griffures | Stealth | SS | — |
+| Flashbang | Leon S. Kennedy | Après 50/45/40 % de réparation : grenade aveuglante (casier), une fois | Altr | SS | — |
+| Flip-Flop | Ash Williams | Récupération à terre → lutte à 50 % du taux, max 40/45/50 % | Slug, Altr | SS | — |
+| Flow State | Kwon Tae-young | Jeton par gen (max 5) : bénir/purifier, soin, décrochage +8/9/10 % par jeton | Endg, Soin | VM | buff |
+| Fogwise | Vittorio Toscano | Great de réparation → aura du tueur 4/5/6 s | Info | SS | — |
+| For the People | Zarina Kassir | Sain, sans kit : soin instantané d'un allié ; vous : blessé, Broken 80/70/60 s, Obsession | Soin, Slug | SS | — |
+| Friendly Competition | Thalita Lyra | Gen fini à plusieurs : +5 % pendant 100/110/120 s | Gen | VM | buff |
+| Fruits of Your Labor | Aurora Stardotter | Jeton par gen ; finir un gen : par jeton +5 % Haste 2 s et +10/15/20 % de soin | Gen, Soin | VM (cumul INC) | — |
+| Ghost Notes | Vee Boonyasak | Exhausted : griffures qui s'effacent 50 % plus vite, récupération +5/7,5/10 % | Exh, Stealth | VM | — |
+| Hardened | Lara Croft | Après un coffre et un totem : cri supprimé, remplacé par l'aura du tueur 3/4/5 s | Info | SS | — |
+| Head On | Jane Romero | Casier (3 s) : sortie → stun 3 s à ≤ 2,5 m ; Exhausted 60/50/40 s si réussi | Exh, Altr | SS | correctif de bug seul |
+| Hope | Générale | Portes alimentées : +3/4/5 % Haste | Endg | VM | — |
+| Hyperfocus | Rebecca Chambers | Jetons de Great (max 6) : chance et aiguille +4 %, bonus de Great +10/20/30 % par jeton | Gen | SS | — |
+| Inner Focus | Haddie Kaur | Griffures des alliés ; allié touché par le tueur → aura 6/8/10 s | Info | SS | — |
+| Inner Strength | Nancy Wheeler | Après un totem : 10/9/8 s en casier = soigné d'un état | Soin, Totem | SS | — |
+| Invocation: Treacherous Crows | Taurie Cain | Invocation 60 s (sous-sol) : corbeaux → aura du tueur à tous 1/1,5/2 s ; blessé + Broken permanent | Info | SS | — |
+| Invocation: Weaving Spiders | Sable Ward | Invocation 60 s (sous-sol) : −8/9/10 charges à tous les gens ; blessé + Broken permanent | Gen | SS | — |
+| Iron Will | Jake Park | Blessé : gémissements −80/90/100 % ; inactive si Exhausted | Stealth, Chase | SS | — |
+| Kindred | Générale | Survivant accroché : auras alliées ; tueur à ≤ 8/12/16 m du crochet visible | Info | VM | buff |
+| Last Stand | Michonne Grimes | Après 120/105/90 s dans le TR hors poursuite : saut rapide → stun 3 s (≤ 2,5 m), une fois | Chase | VM | — |
+| Leader | Dwight Fairfield | Alliés à 10 m : purif., portes, soin, sabotage, décrochage, déverrouillage +20/25/30 % | Altr, Endg | VM | — |
+| Left Behind | Bill Overbeck | Dernier survivant : aura de la trappe à 24/28/32 m | Endg | SS | — |
+| Lend a Hand | Shane Wiigwaas | Après un totem, une fois par allié : +2/3/4 charges de soin permanentes | Soin, Totem | SS | — |
+| Light-Footed | Ellen Ripley | Sain : pas silencieux ; CD 14/12/10 s après un saut rapide | Stealth | VM | — |
+| Lightweight | Générale | Griffures −3/4/5 s, espacement irrégulier | Stealth | SS (espacement INC) | — |
+| Lithe | Feng Min | Saut rapide → +50 % Haste 3 s ; Exhausted 60/50/40 s | Exh, Chase | SS | — |
+| Low Profile | Ada Wong | Seul debout : sans gémissements, sang ni griffures 70/80/90 s ; redéclenchable | Endg, Stealth | VM | — |
+| Lucky Break | Yui Kimura | Blessé : sans griffures ni sang 40/50/60 s au total ; recharge en soignant | Stealth, Chase | SS | — |
+| Lucky Star | Ellen Ripley | Sortie de casier : 30 s sans gémissements ni sang, auras des alliés et du gen proche ; CD 35/30/25 s | Stealth, Info | VM | — |
+| Made for This | Gabriel Soma | Blessé : soin donné → Endurance 6/8/10 s ; Deep Wound → +1/2/3 % Haste | Soin | SS | — |
+| Mettle of Man | Ash Williams | Après 3 coups de protection : encaisse le coup suivant ; ensuite aura révélée au-delà de 12/14/16 m | Altr | SS (3e coup VM) | — |
+| Mirrored Illusion | Aestri Yazar & Baermar Uraz | Après 20 % : illusion statique 40/50/60 s ; usage unique | Stealth | SS | — |
+| Moment of Glory | Trevor Belmont | Après 1 coffre : devenir blessé → Broken, soigné après 80/70/60 s | Soin | VM | — |
+| No Mither | David King | Broken toute la partie ; sans sang ni gémissements ; auto-relève, récupération +15/20/25 % | Slug, Stealth | VM | — |
+| No One Left Behind | Générale | Portes alimentées : soin d'autrui et décrochage +50/75/100 % ; Haste de décrochage 20 % 15 s | Endg | VM | buff |
+| Off the Record | Zarina Kassir | Après décrochage, 30/35/40 s : aura illisible, sans gémissements ni griffures, Endurance | Tunnel | VM (clause des portes INC) | — |
+| One-Two-Three-Four! | Vee Boonyasak | Performance 15 s : alliés à 16 m +20 % de chance de skill check 90 s ; CD 110/100/90 s | Gen | VM | — |
+| Open-Handed | Ace Visconti | Lectures d'aura à portée de tous +8/12/16 m | Info | SS | — |
+| Overcome | Jonah Vasquez | Passer de sain à blessé : boost du coup +2 s ; Exhausted 60/50/40 s | Exh | SS | — |
+| Overzealous | Haddie Kaur | Après un totem : réparation +8/9/10 % (+16/18/20 % si Hex) jusqu'au prochain état perdu | Gen, Totem | SS | — |
+| Parental Guidance | Yoichi Asakawa | Après un stun : sans griffures, sang ni gémissements 5/6/7 s | Chase, Stealth | SS | — |
+| Pharmacy | Quentin Smith | Coffres +75/100/125 %, bruit −12 m, Emergency Med-Kit garanti | Objet | VM | buff |
+| Plot Twist | Nicolas Cage | Blessé, accroupi : passer à terre en silence ; auto-relève +25 % → soigné, +50 % Haste 2/3/4 s | Slug, Soin | SS (+25 % VM) | — |
+| Plunderer's Instinct | Générale | Auras des coffres et objets à 32/48/64 m ; +50 % de rareté | Objet | VM | buff |
+| Poised | Jane Romero | Aura du tueur 8 s au 1er gen commencé ; 20/25/30 s sans griffures après chaque gen | Stealth, Info | VM | — |
+| Potential Energy | Vittorio Toscano | Stocke 10/15/20 % de réparation, posés d'un coup ; perdus à la perte d'un état | Gen | VM | — |
+| Power Struggle | Élodie Rakoto | À terre : palettes debout visibles ; porté, dès 25/20/15 % de lutte, palette → libération | Altr, Slug | SS | — |
+| Premonition | Générale | Cône de 45° à 36 m : son si le tueur y est ; CD 60/45/30 s | Info | VM | rework |
+| Prove Thyself | Dwight Fairfield | +6/8/10 % par allié à 4 m (max 18/24/30 %) ; une instance | Gen | SS | — |
+| Quick & Quiet | Meg Thomas | Saut ou casier rapide silencieux ; CD 25/20/15 s | Stealth | SS | — |
+| Quick Gambit | Vittorio Toscano | En poursuite : vous voyez les alliés, ils réparent +3/4/5 % ; CD 40 s | Info, Gen | VM | — |
+| Rapid Response | Orela Rose | Devenir Exhausted → aura du tueur 2 s ; sortie rapide de casier = Exhausted volontaire 30/25/20 s | Info, Exh | SS | — |
+| Reactive Healing | Ada Wong | Blessé ; allié à 32 m perd un état → +40/45/50 % de votre soin manquant | Soin | SS | — |
+| Reassurance | Rebecca Chambers | À 6 m d'un accroché : pause 20/25/30 s | Altr, Endg | SS | — |
+| Red Herring | Zarina Kassir | Après 1 s de réparation, casier → Loud Noise sur ce gen ; CD 25/20/15 s | Stealth | SS | — |
+| Repressed Alliance | Cheryl Mason | Après 40/35/30 s de réparation seul : gen bloqué 15 s | Gen | VM | — |
+| Residual Manifest | Haddie Kaur | Aveuglement → tueur Blindness 20/25/30 s ; 1 fouille de coffre ouvert = lampe | Altr, Objet | SS | — |
+| Resilience | Générale | Blessé : +3/6/9 % sur la plupart des actions et les sauts de fenêtre | Gen, Chase | VM | buff |
+| Resurgence | Jill Valentine | Après tout décrochage : +50/60/70 % de soin | Soin, Tunnel | SS | — |
+| Road Life | Vee Boonyasak | Blessé, non Broken : Greats en réparation → à 6/5/4 jetons, soin +100 % ; usage unique | Soin | VM | rework |
+| Rookie Spirit | Leon S. Kennedy | Après 5/4/3 bons skill checks : auras des gens qui régressent | Info, Gen | SS | — |
+| Saboteur | Jake Park | Allié porté : crochets à 56 m du ramassage ; sabotage sans boîte +30 % ; CD 70/65/60 s | Altr | SS | — |
+| Salvation's Cry | Aurora Stardotter | Chase sur vous : auras des alliés 1/2/3 s ; eux voient vous et le tueur 5 s | Info | VM | — |
+| Scavenger | Gabriel Soma | Boîte vide : 5 Greats → recharge, puis réparation −50 % 40/35/30 s ; 1 boîte garantie | Objet, Gen | SS | — |
+| Scene Partner | Nicolas Cage | Regarder le tueur dans le TR : cri, aura 4/5/6 s (+2 s à 50 %) ; CD 40 s | Info | SS | — |
+| Second Wind | Steve Harrington | Après 1 état soigné : au décrochage, Broken puis soigné après 28/24/20 s | Soin | SS | — |
+| Self-Care | Claudette Morel | Auto-soin sans kit à 25/30/35 % | Soin | SS | — |
+| Self-Preservation | Lee Yun-jin | Allié accroché → Elusive 20/25/30 s | Stealth | VM | nerf |
+| Shoulder the Burden | Taurie Cain | Prendre un état de crochet d'un allié ; Exposed 60/50/40 s ; une fois | Altr, Tunnel | VM | rework |
+| Slippery Meat | Générale | +3 tentatives d'auto-décrochage, +2/3/4 % ; débloque l'auto-décrochage | Tunnel | SS (déblocage VP) | rework |
+| Small Game | Générale | Cône de 8/10/12 m : son sur un totem ; CD 14/12/10 s | Totem | SS | rework |
+| Smash Hit | Lee Yun-jin | Stun de palette → +50 % Haste 4 s ; Exhausted 30/25/20 s | Exh | SS | — |
+| Solidarity | Jane Romero | Blessé, soin d'un allié sans kit : auto-soin à 50/60/70 % | Soin | VM | buff |
+| Soul Guard | Cheryl Mason | Soigné ou relevé : Endurance 4/6/8 s (CD 30 s) ; auto-relève sous Cursed | Slug | SS | — |
+| Specialist | Lara Croft | Jeton par coffre (max 6) ; Great → −2/3/4 charges par jeton (max 12/18/24) | Gen, Objet | SS | — |
+| Spine Chill | Générale | Tueur à ≤ 36 m vous regarde : icône, +2/4/6 % de vitesse d'action | Info | SS | rework |
+| Sprint Burst | Meg Thomas | En courant : +50 % Haste 2 s ; Exhausted 60/50/40 s | Exh | VM | — |
+| Stake Out | David Tapp | Jetons dans le TR hors poursuite (max 2/3/4) : Good → Great | Gen | SS | rework |
+| Still Sight | Aestri Yazar & Baermar Uraz | Immobile 4/3/2 s : auras du tueur, des coffres et gens à 24 m | Info | VM | — |
+| Streetwise | Nea Karlsson | Objets de coffre +60/70/80 % de charges ; objet vidé → aura du tueur 8 s | Objet | VM | — |
+| Strength in Shadows | Sable Ward | Sous-sol : auto-soin à 70 % ; soin fini → aura du tueur 6/8/10 s | Soin | SS | — |
+| Teamwork: Collective Stealth | Renato Lyra | Soigné par un allié : sans griffures tous deux à 8/12/16 m | Stealth | SS | — |
+| Teamwork: Full Circuit | Dustin Henderson | Par allié sur le gen : zone Good +15/20/25 % ; +5 % | Gen | VM | — |
+| Teamwork: Power of Two | Thalita Lyra | Après un soin donné : +5 % Haste à deux, à 8/12/16 m | Soin | SS | — |
+| Teamwork: Soft-Spoken | Eleven | Par allié sur le gen : bruit −15/20/25 % ; +5 % | Gen, Stealth | VM | — |
+| Teamwork: Throw Down | Michonne Grimes | Aveuglement ou stun de palette : alliés blessés à 24 m Endurance 6/8/10 s | Altr | VM (aura INC) | — |
+| Teamwork: Toughen Up | Rick Grimes | Blessé ; un allié à 24 m aveugle ou stun (palette) → sans traces 20/25/30 s | Stealth | VM | — |
+| Technician | Feng Min | Bruit du gen −16 m ; raté sans explosion, pénalité +4/3/2 % | Gen, Stealth | VM | — |
+| Tenacity | David Tapp | À terre : récupérer en rampant, rampe +30/40/50 %, gémissements −75 %, aura illisible | Slug | VM | — |
+| This Is Not Happening | Générale | Blessé : zone Great +10/20/30 % (réparation, soin) | Gen | VM | buff |
+| Troubleshooter | Gabriel Soma | En poursuite : gen le plus avancé ; palette lâchée → aura du tueur 4/5/6 s | Info, Chase | SS | — |
+| Unbreakable | Bill Overbeck | Une fois, mis à terre par le tueur : récupération +25/30/35 %, auto-relève | Slug | VM | — |
+| Up the Ante | Ace Visconti | Débloque l'auto-décrochage pour tous ; +1/2/3 % par survivant vivant (max 3/6/9 %) | Tunnel | SS (déblocage VM) | — |
+| Urban Evasion | Nea Karlsson | Accroupi +90/95/100 % | Stealth | SS | — |
+| Vigil | Quentin Smith | Vous et alliés à 16 m : récupération d'Exhausted +20/25/30 % | Exh | VM | — |
+| Visionary | Felix Richter | Auras des gens à 32 m ; coupée 20/18/16 s après chaque gen | Info | SS | — |
+| Wake Up! | Quentin Smith | Gens finis : interrupteurs visibles ; ouverture +8/10/12,5 % par survivant vivant | Endg | VM | buff |
+| We See You | Eleven | 4 lectures de votre aura → aura du tueur à tous 10/12,5/15 s | Info | VM | — |
+| We'll Make It | Générale | Après un décrochage : soin des autres +100 % pendant 30/60/90 s | Soin, Altr | VM | buff |
+| We're Gonna Live Forever | David King | Relève +100 % ; relevé → Endurance 6/8/10 s (une fois / 30 s) | Slug | SS | — |
+| Wicked | Sable Ward | Après tout décrochage : aura du tueur 16/18/20 s ; sous-sol, 1er état : auto-décrochage | Tunnel, Info | VM | — |
+| Wide Open Throttle | Shane Wiigwaas | Saut rapide de palette : +10/12,5/15 % Haste 3 s, palette bloquée 60 s ; CD 60 s | Chase | SS | — |
+| Will to Live | Générale (ex-Decisive Strike) | Après décrochage, 40/50/60 s : saisie → skill check, stun 4 s ; une fois | Tunnel | SS | — |
+| Windows of Opportunity | Kate Denson | Murs, palettes, fenêtres à 24/28/32 m ; sans CD | Chase | SS | rework |
+| Wiretap | Ada Wong | Après 40 % : gen piégé 100/110/120 s ; tueur à 14 m → aura à tous | Info, Gen | SS | — |
+
+---
+
+## Sources du chapitre
+
+- **Fiches re-vérifiées (27/09/2026)** : `kb/research/batch2_perks_surv_p23.md` à `batch2_perks_surv_p30.md` (176 perks ; valeurs LIVE, PTB, synergies, notes HEURISTIQUE).
+- **Logique des archétypes** : `kb/deliverables/PERK_DATABASE.md` §4 (valeurs remplacées par celles des fiches) ; déduction côté tueur : `kb/deliverables/PERK_DEDUCTION.md`.
+- **Corrections prioritaires** : `kb/ledgers/AUDIT_PHASE0_ERRATA.md` (piège du digest wiki affichant le PTB).
+- **Notes officielles BHVR** (`kb/sources/patches/official_*.txt`) : 9.0.0, 9.1.0 (516), 9.2.0 (523), 9.3.0 (529), 9.3.2, 9.4.0 (534), 9.5.0, 9.6.0 (544, Diminishing Returns), 10.1.0 (556), 10.1.1 (557), **PTB 10.2.0 (559, non LIVE)**.
+- **Pages wiki** : pages de chaque perk sur deadbydaylight.wiki.gg (via `kb/sources/wiki_perks_digest.md`, brut `wiki_perks.json`).
+- **Mécaniques de base** : chapitre 2 (protections de décrochage, statuts, DR) ; chapitre 3 (vitesses, conversion distance → temps) ; chapitre 10 (perks tueur et contre-jeu).

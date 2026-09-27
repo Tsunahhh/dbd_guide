@@ -53,3 +53,21 @@ Les 33 conflits de la phase 0 étaient dans des fichiers `research/batch1_*.md` 
 ## Conflits des lots 2-4 (27/09/2026)
 
 Voir la section « Conflits » de chaque fichier `kb/research/batch2_*`, `batch3_*`, `batch4_*`. Synthèse : `kb/ledgers/BATCH_2_4_SYNTHESIS.md` (écrit à la fin des lots).
+
+## Résolutions du 27/09/2026
+
+Détail et sources : `kb/research/batch12_mechanics_open.md` (lot 12 ; notes officielles + wiki.gg lu en entier via l'API, historique des révisions compris).
+
+| Conflit | Résolution | Preuve clé | Confiance |
+|---|---|---|---|
+| **CONFLICT-001** / **G05** : soigneurs simultanés | **Résolu : 2 en 1v4** ; **3 en 2v8 seulement** | La ligne « Cooperative Healing … to 3 (was 2) » est dans la section **2v8** du PTB 9.4.0 (art. 533) et de la 9.4.2 (art. 536) ; wiki Health States : « one or two other Survivors » | VERIFIED_MULTI_SOURCE |
+| **CONFLICT-002** : vitesse de rampement | **Résolu : 0,7 m/s constante** ; pas de récupération en rampant sans Tenacity | 9.2.0 « Postponed » ; 9.3.0 « Reverted the Slugging changes » ; 9.3.0 Tenacity « Re-added the ability to recover while crawling » ; wiki : « Recovery progress pauses whenever a dying Survivor is crawling » | VERIFIED_MULTI_SOURCE |
+| **CONFLICT-003** : taux de base Resolve | **Résolu : +1 c/s nominal, poids de distance divisés par 2** (×2,5 à ≤ 4 m, ×1 à 10 m, ×0,375 à 15 m, ×0 à 16 m) ; face camp ≤ 4 m ≈ 22,5 s de jauge (≈ 29,5 s après l'accrochage), 10 m ≈ 37,5 s, 15 m ≈ 79 s ; ±10 % | Wiki Hooks rév. 168478 (29/10/2025, avant 9.3.0) : ×5/×2/×0,75/×0,5 ; wiki Resolve après 9.3.0 : ×2,5/×1/×0,375/×0 ; note 9.3.0 « roughly 50 % » | STRONG_SECONDARY (calcul sur base VP) |
+| **CONFLICT-L2P23-04** : Off the Record désactivée portes alimentées | **UNRESOLVED, penche oui** | Description wiki réécrite avec la clause le 07/10/2025 (jour de la 9.2.2, rév. 167681) ; mais notes 9.2.0 (clause retirée) et 9.2.2 (muette), module History wiki sans clause | UNCERTAIN |
+| **CONFLICT-L12-04** (nouveau) : Elusive de décrochage et action voyante | **UNRESOLVED** | Wiki Hooks (10/08/2026) : annulée avec les autres protections — simple ajout d'Elusive à une phrase existante ; wiki Elusive : seulement coup ou mise au sol ; notes 10.1.0 muettes | UNCERTAIN |
+| Question ouverte R2-08 / R3-1 : catégories DR | **Partiellement résolu** : vitesse de skill check soumise (correctif 9.6.0) ; Haste de perks et vitesse de vault soumises (notes de dev 10.2.0) ; liste complète **dans le manuel en jeu** (9.6.1), non transcrite | Notes 9.6.0 (544), 9.6.1 (545), PTB 10.2.0 (559) | VERIFIED_PRIMARY (règles) / UNRESOLVED (liste) |
+| Question ouverte : Hillbilly et palettes sans add-on | **Résolu : oui**, casse en ~1 s avec le pouvoir de base ; LoPro Chains ne fait que prolonger le sprint | 9.5.0 : Hillbilly listé « Special-break » ; wiki Max Thompson Jr. et Pallets (1 s) | VERIFIED_PRIMARY / STRONG_SECONDARY (1 s) |
+| Question ouverte A-044 : vitesse de portage | **3,68 m/s** (92 %), tous tueurs | Wiki Movement Speeds ; aucune note contraire | STRONG_SECONDARY |
+| Boost au coup | **1,8 s** (6.1.0) ; ×1,65 → 6,6 m/s | Notes 6.1.0 (via wiki) ; ×1,65 : wiki seul | VERIFIED_MULTI_SOURCE (durée) / STRONG_SECONDARY (×1,65) |
+
+Restent **UNRESOLVED** (aucune source trouvée) : durée du ramassage (seul le plafond de bonus +42 %, 8.6.x, est connu), durée du saut dans la trappe, plafond de Haste, perte de Bloodlust sur stun/aveuglement (absente des listes des deux wikis), portée des grognements, durée de vie des flaques de sang.

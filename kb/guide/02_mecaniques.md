@@ -163,8 +163,8 @@ Détail : `kb/research/batch9_macro.md` §2.1-2.2, §2.11 ; `kb/research/batch6_
 | Accrocher / décrocher | **1,5 s** / **1 s** | — | SS |
 | Affichage | Le timer de crochet est divisé en **deux barres** (clarifie le 2e palier et les déclencheurs de mort) | 10.1.0 | VP |
 | Wiggle (porté) | **16 s** cumulées si tous les tests de wiggle sont réussis ; lâcher le survivant = +25 % de jauge (libre au plus tard au 4e lâcher) | — | SS |
-| Vitesse du tueur qui porte | 3,68 m/s | — | **INC** (l'audit la classe « non suffisamment vérifiée ») |
-| Durée du ramassage | Non documentée | — | INC |
+| Vitesse du tueur qui porte | **3,68 m/s** (92 %), valeur fixe pour tous les tueurs selon le wiki ; aucune note officielle ne la contredit | — | SS (lot 12) |
+| Durée du ramassage | Non documentée ; seul le **bonus** de vitesse de ramassage est plafonné (**+42 %**, 8.6.x) | 8.6.x | INC (durée) / SS (plafond) |
 
 ```
 Premier accrochage                     Deuxième accrochage          Troisième
@@ -201,10 +201,11 @@ Calcul utile (calc., à partir de 4 % et des offrandes de Luck +1/2/3 %) : avec 
 |---|---|---|---|
 | Zone | **Rayon de 16 m** autour du crochet | 7.3.0 ; 16 m rétabli en 9.3.0 (le PTB avait testé 20 m) | VM |
 | Jauge | 100 charges | 7.3.0 | SS |
-| Poids selon la distance | 4 m **×2,5** ; 10 m **×1** ; 15 m **×0,375** ; 16 m **×0** | 7.3.0 | SS |
+| Poids selon la distance | 4 m **×2,5** ; 10 m **×1** ; 15 m **×0,375** ; 16 m **×0** (avant 9.3.0 : ×5 / ×2 / ×0,75 / ×0,5 : chaque poids a été divisé par 2) | 9.3.0 | SS (lot 12) |
 | Poids selon la durée de présence | 0-10 s **×1** ; 10-20 s **×2** ; > 20 s **×4** | 9.3.0 | VP |
 | Accumulation du multiplicateur | Seulement quand le tueur est considéré comme campant (la jauge progresse) ; remis à zéro au décrochage | 9.3.0 | VP |
-| Taux de base | Réduit « d'environ 50 % » en 9.3.0 en contrepartie ; **valeur absolue inconnue** (le wiki donne +1 charge/s, sans date sûre) | 9.3.0 | VP (réduction) / **INC** (valeur) |
+| Taux de base | **+1 charge/s**, multiplié par les poids de distance ci-dessus. La réduction « d'environ 50 % » (VP) a été appliquée aux poids : l'historique du wiki montre +1 c/s avant et après 9.3.0, avec des poids divisés par 2 | 9.3.0 | VP (réduction) / SS (valeurs, lot 12) |
+| Temps de remplissage (calc.) | Tueur immobile, aucun autre survivant dans les 16 m : **≤ 4 m ≈ 22,5 s** de jauge (**≈ 29,5 s** après l'accrochage avec la grâce) ; **10 m ≈ 37,5 s** ; **15 m ≈ 79 s**. Avant 9.3.0 : 20 s / 50 s / ≈ 133 s. Marge ±10 % (« roughly ») | 9.3.0 | SS (calcul, lot 12) |
 | Grâce | **7 s** de pause de la jauge pour **tous** les survivants accrochés à chaque nouvel accrochage (avant : seulement le dernier accroché) | 9.3.0 | VP |
 | Ralentissement | Remplissage ralenti par les **autres survivants à moins de 16 m** | 7.3.0 | SS |
 | Pauses et arrêt | En pause si le tueur **porte** un survivant ; **désactivé dès que les portes sont alimentées** | — | SS |
@@ -229,15 +230,15 @@ Calcul utile (calc., à partir de 4 % et des offrandes de Luck +1/2/3 %) : avec 
 
 > **Erreur fréquente** : « contre un proxy camp, l'anti-camp finira par décrocher l'allié » (ancien guide, audit A-283). **Faux** : au-delà de 16 m, la jauge ne bouge pas.
 
-> **Erreur fréquente** : « le face camp est inutile au-delà de ~20 s ». **Non vérifiable** : sans le taux de base, aucun temps de remplissage ne se calcule (CONFLICT-003).
+> **Erreur fréquente** : « le face camp est inutile au-delà de ~20 s ». **Faux depuis 9.3.0** : à moins de 4 m, la jauge se remplit en ≈ 22,5 s de présence, soit ≈ 30 s après l'accrochage (SS, calcul ; CONFLICT-003 résolu le 27/09/2026).
 
 **CAS D'ÉCHEC** : attendre que le système travaille alors que le tueur proxy camp ; ou entrer à 6 m pour une perk (Reassurance) sans compter que vous ralentissez la jauge et devenez une cible.
 
-**[HYPOTHÈSE]** Le multiplicateur de durée n'accumulant que « quand la jauge progresse », il ne devrait pas courir pendant la grâce de 7 s ni pendant un portage (jauge en pause). Ce n'est pas écrit explicitement dans les notes.
+**[FACT] (VP, lecture directe)** Le multiplicateur de durée n'accumule que « quand la jauge progresse » : il ne court donc ni pendant la grâce de 7 s ni pendant un portage (jauge en pause). Les temps ci-dessus reposent sur cette règle.
 
 **Coût du camp pour le tueur** (calc.) : chaque seconde immobile au crochet cède **3 s-surv** si 3 survivants réparent hors de sa zone. Un camp de 60 s ≈ 2 gens. Contre-cas : accroché en phase 2, ou partie déjà gagnée → le camp est rentable pour lui **[SITUATIONNEL]**.
 
-> **Exercice** `[Avancé]` : en partie personnalisée avec un ami tueur, chronométrez le remplissage de la jauge à 4 m puis à 10 m, sans autre survivant proche. Vous produirez la seule mesure qui manque au guide (taux de base post-9.3.0). Notez la date et le patch.
+> **Exercice** `[Avancé]` : en partie personnalisée avec un ami tueur, chronométrez le remplissage de la jauge à 4 m puis à 10 m, sans autre survivant proche. Comparez à ≈ 22,5 s et ≈ 37,5 s (après la grâce de 7 s) : c'est la seule façon de vérifier le « roughly 50 % ». Notez la date et le patch.
 
 ### 2.3.4 Crochets détruits, sabotage, sous-sol
 
@@ -285,9 +286,9 @@ Historique (VM) : 6.1.0 : 5 s, Haste 7 % → 6.2.0 : 10 s, 10 % → 9.3.0 : 15 s
 | Endurance | Toute **action voyante** (*conspicuous action* : réparer, soigner, etc.) ; inopérante si le survivant est déjà sous Deep Wound | SS |
 | Haste de décrochage | Même règle que l'Endurance selon la presse du PTB 6.1.0 | SS (source ancienne) |
 | Elusive | Survivant frappé (attaque de base ou spéciale) ou mis au sol | SS |
-| Elusive et action voyante | **Rien n'est documenté** | **INC** |
+| Elusive et action voyante | **Non tranché** : la page wiki Hooks l'annule avec les autres protections, la page Elusive ne cite que le coup et la mise au sol ; notes 10.1.0 muettes. Jouez comme si une action voyante l'annulait | **INC** (CONFLICT-L12-04) |
 
-La liste exacte des actions « voyantes » n'est pas publiée **[INCERTAIN]** ; ouvrir une porte en fait-il partie ? Inconnu.
+Actions voyantes selon le wiki (SS) : bénir ou purifier un totem, soigner (soi ou un autre), **ouvrir une porte de sortie**, Invocation, réparer, saboter un crochet, décrocher un allié. Le texte officiel ne publie pas de liste.
 
 ### 2.4.3 Utiliser la fenêtre de 10 s
 
@@ -301,7 +302,7 @@ La liste exacte des actions « voyantes » n'est pas publiée **[INCERTAIN]** ; 
 
 ### 2.4.4 Ce qui n'existe pas en LIVE
 
-**[FACT] (VP)** Aucun système anti-tunnel ou anti-slug complet n'est sorti : testé au PTB 9.2.0 (reporté) puis au PTB 9.3.0 (« Reverted » : protection de 30 s, jauge de relevé de 120 s, bonus de crochets uniques). Les perks anti-tunnel restent les outils : **Will to Live** (ex-Decisive Strike ; stun 4 s, actif 40/50/60 s après un décrochage, désactivé portes alimentées et après usage, SS), **Off the Record** (30/35/40 s avec Endurance, SS via note 9.2.2), Babysitter, Deliverance (Broken 160/140/120 s depuis 10.1.0, VP). Borrowed Time : rework PTB 10.2.0 — non LIVE.
+**[FACT] (VP)** Aucun système anti-tunnel ou anti-slug complet n'est sorti : testé au PTB 9.2.0 (reporté) puis au PTB 9.3.0 (« Reverted » : protection de 30 s, jauge de relevé de 120 s, bonus de crochets uniques). Les perks anti-tunnel restent les outils : **Will to Live** (ex-Decisive Strike ; stun 4 s, actif 40/50/60 s après un décrochage, désactivé portes alimentées et après usage, SS), **Off the Record** (30/35/40 s avec Endurance, SS via note 9.2.2 ; **probablement désactivée portes alimentées** selon le texte wiki réécrit le jour de la 9.2.2, sans note officielle : INC), Babysitter, Deliverance (Broken 160/140/120 s depuis 10.1.0, VP). Borrowed Time : rework PTB 10.2.0 — non LIVE.
 
 ### 2.4.5 Le cas The Judgment (Exile)
 
@@ -318,7 +319,7 @@ Détail : `kb/research/batch9_macro.md` §2.7 ; note officielle 10.1.0.
 | Mécanique | Valeur LIVE | Conf. |
 |---|---|---|
 | Soin d'un état de santé | **16 charges**, +1 charge/s → **16 s** | SS |
-| Soigneurs simultanés | **2 max** selon le wiki (+2 c/s sans pénalité) ; 3 selon l'ancien guide | **INC** (CONFLICT-001) |
+| Soigneurs simultanés | **2 max en 1v4** (+2 c/s combinés). Le passage à **3** (9.4.0 / 9.4.2) figure dans la section **2v8** des notes : règle du mode 2v8 seulement | VM (CONFLICT-001 résolu) |
 | Auto-soin | Exige un Med-Kit ou une perk (Self-Care). Avec Med-Kit : vitesse **−33 %**, efficacité de l'objet −33 % | SS |
 | Durée d'un auto-soin au kit | ≈ 24 s (16 / 0,67, si le −33 % s'applique simplement) | calc. sur hypothèse |
 | Med-Kits | **24 charges** pour tous ; bonus de soin altruiste : Camping +35 %, First Aid +40 %, Emergency +45 %, Ranger +50 % | SS |
@@ -379,8 +380,9 @@ Détail : `kb/research/batch9_macro.md` §2.10 ; `kb/research/batch6_chase_tech.
 | Plafond de récupération | **95 %**, à 50 % de la vitesse de soin → **30,4 s** | 9.2.0 | VM |
 | Relevage complet seul | Seulement via une perk (touche Interact quand disponible) | 9.2.0 | VP |
 | Auto-relève de base | **Inexistante en LIVE** (PTB 9.2.0 à 90 s et PTB 9.3.0 à 120 s annulés) | — | VP |
-| Rampement | **0,7 m/s** (le wiki affiche une montée à 1,05 m/s, valeur d'un PTB annulé) | — | VM (0,7) / **INC** (1,05) |
-| Durée du relevage par un allié | Non documentée dans les sources | — | INC |
+| Rampement | **0,7 m/s constante**. La montée à 1,05 m/s affichée par le wiki vient du paquet anti-slug : « Postponed » en 9.2.0, « Reverted » en 9.3.0 | 9.3.0 | VM (CONFLICT-002 résolu) |
+| Récupérer en rampant | **Impossible** sans perk : la récupération se met en pause dès que vous rampez. Tenacity la rend possible (9.3.0) | 9.3.0 | VM |
+| Durée du relevage par un allié | 1 état de santé = 16 charges à +1 c/s → **16 s** seul sans kit, **8 s** à deux, moins ce que le survivant a déjà récupéré (à 95 % : **< 1 s**) | — | SS (calcul, lot 12) |
 
 ### 2.6.2 Abandon et Surrender
 
@@ -394,9 +396,9 @@ Détail : `kb/research/batch9_macro.md` §2.10 ; `kb/research/batch6_chase_tech.
 
 ### 2.6.3 Ramper ou récupérer ?
 
-**QUOI** : au sol, vous avez deux options qui s'excluent probablement : ramper, ou rester immobile pour récupérer.
+**QUOI** : au sol, vous avez deux options qui s'excluent : ramper, ou rester immobile pour récupérer.
 
-**POURQUOI c'est un arbitrage** : la récupération se fait « à l'arrêt » selon le wiki (SS) ; ramper la suspend **probablement** **[HYPOTHÈSE, à tester]**.
+**POURQUOI c'est un arbitrage** : la récupération ne progresse qu'à l'arrêt ; ramper la met en pause (VM : wiki + note 9.3.0 qui rend cette capacité à Tenacity seulement). Le PTB 9.3.0 l'avait écrit en toutes lettres : il faut « choisir entre rester immobile pour récupérer, ou ramper pour que le tueur ne vous trouve pas ».
 
 **QUAND [SITUATIONNEL]** :
 - **ramper** vers un coéquipier ou une zone couverte si cela rapproche réellement un sauveteur ou vous sort de la vue du tueur ; jamais vers un gen occupé, un cul-de-sac ou le crochet le plus proche ;
@@ -409,7 +411,7 @@ Détail : `kb/research/batch9_macro.md` §2.10 ; `kb/research/batch6_chase_tech.
 
 > **Erreur fréquente** : croire à une « auto-relève » de base. Elle n'existe pas en LIVE : sans perk (Unbreakable, Boon: Exponential…), vous plafonnez à 95 %.
 
-> **Exercice** `[Débutant]` : en partie personnalisée, chronométrez 0 → 95 % immobile, puis en rampant en continu. Vous saurez si ramper suspend vraiment la jauge (point encore ouvert dans le guide).
+> **Exercice** `[Débutant]` : en partie personnalisée, chronométrez 0 → 95 % immobile (≈ 30,4 s attendues), puis vérifiez que la jauge s'arrête dès que vous rampez.
 
 Détail : `kb/research/batch9_macro.md` §2.8 ; note officielle 9.2.0 (523).
 
@@ -425,7 +427,7 @@ Définitions LIVE, d'après la page wiki.gg « Status Effects » (SS) sauf menti
 |---|---|---|---|---|
 | **Blessed** | Survivant | Dans la zone d'un Boon (24 m) | Voir 2.10.3 | SS |
 | **Blindness** | Les deux rôles | Ne lit **aucune aura**, y compris les auras de base | Contre-intuitif : touche aussi les auras données par les perks | SS |
-| **Bloodlust** | Tueur | Vitesse croissante en poursuite prolongée : 15 s → +0,2 m/s ; 25 s → +0,4 ; 35 s → +0,6 | Perdue en cassant une palette, en frappant, en utilisant son pouvoir ; perte sur stun ou aveuglement **non documentée** | VM / INC |
+| **Bloodlust** | Tueur | Vitesse croissante en poursuite prolongée : 15 s → +0,2 m/s ; 25 s → +0,4 ; 35 s → +0,6 | Perdue en cassant une palette, en frappant, en utilisant son pouvoir ; stun et aveuglement **absents** de la liste des deux wikis (perte non prouvée ni exclue) | VM / INC |
 | **Broken** | Survivant | Impossible d'être soigné au-delà de blessé | Bloque aussi les soins « automatiques » de perks (ex. Adrenaline sous Terminus, lot 3) | SS |
 | **Cursed** | Survivant | Affecté par un Hex actif | — | SS |
 | **Deep Wound** | Survivant | Barre de 20 s qui se vide hors course et hors mending ; à zéro, état mourant | Mending 10 s seul / 6 s par un allié (8.6.0) | VP |
@@ -435,7 +437,7 @@ Définitions LIVE, d'après la page wiki.gg « Status Effects » (SS) sauf menti
 | **Exhausted** | Survivant | Empêche d'utiliser les perks d'épuisement | Se recharge **seulement** en marchant, accroupi ou immobile (la course met le timer en pause) ; le wiki indique une récupération instantanée au décrochage | SS |
 | **Exposed** | Survivant | Une attaque de base met **directement à l'état mourant** | Endurance le contre (Deep Wound à la place) | SS |
 | **Haemorrhage** | Survivant | Plus de flaques de sang ; soin partiel perdu à −7 %/s | — | SS |
-| **Haste** | Les deux rôles | + vitesse de déplacement | Les sources se cumulent ; DR depuis 9.6.0 ; aucun plafond documenté | VP / INC |
+| **Haste** | Les deux rôles | + vitesse de déplacement | Les sources se cumulent ; DR depuis 9.6.0 (Haste de perks concernée : note de dev 10.2.0) ; aucun plafond trouvé | VP / INC |
 | **Hindered** | Les deux rôles | − vitesse de déplacement | Mêmes règles de cumul que Haste | VP |
 | **Incapacitated** | Survivant | Ne peut pas interagir avec certains éléments ni avec les survivants | Liste des interactions bloquées : selon la source de l'effet **[INCERTAIN]** | SS |
 | **Madness** | Survivant | Hallucinations et entraves | **Exclusif au Doctor** | SS |
@@ -519,13 +521,15 @@ Depuis le LIVE, ces paires ne se réduisent plus entre elles : chaque loadout fo
 
 | Question | Statut |
 |---|---|
-| Liste itemisée des catégories jugées « identiques » | Non publiée dans les notes **[INCERTAIN]** |
+| Liste itemisée des catégories jugées « identiques » | Publiée **dans le manuel en jeu** depuis 9.6.1 (« lists all Action Speeds and Modifiers affected ») ; non transcrite par les notes ni le wiki (VP pour l'existence ; contenu non consulté) |
+| Vitesse de l'aiguille de skill check | **Soumise** aux DR (correctif 9.6.0) | 
+| Haste de perks | **Soumise** (note de dev 10.2.0 sur Blood Pact, VP indirect) |
 | Pertes instantanées de gen (Pop, Pain Resonance, Eruption…) et blocages | Rien dans les notes ni le wiki **[INCERTAIN]** |
 | Palettes, fenêtres, nombre de stuns | **Aucun DR** mentionné : le système vise les modificateurs (VP, par absence dans un texte exhaustif) |
 | Endurance (effet binaire) | Application **inconnue** |
-| Vitesse de vault (ex. Bamboozle + autre perk) | Probablement concernée, non détaillé **[INCERTAIN]** |
+| Vitesse de vault | **Concernée** selon la note de dev 10.2.0 sur Spine Chill (VP indirect) ; détail du calcul non publié |
 | Effets de base (Haste de décrochage, boost au coup) | Soumission **inconnue** |
-| Plafond de Haste | Aucun documenté (preuve par absence seulement) |
+| Plafond de Haste | Aucun trouvé (notes, wiki) ; seul plafond tueur connu : vitesse de ramassage +42 % (8.6.x) — preuve par absence **[INCERTAIN]** |
 
 > **Note avancée** : la note de dev du **PTB** disait « all major gameplay modifiers and status effects for both roles are included ». Le texte **LIVE** est plus prudent et ajoute la règle de rôle. Ne citez pas la formule du PTB comme une liste officielle.
 
@@ -671,7 +675,7 @@ Détail : `kb/research/batch6_chase_tech.md` T07, T08, T16 ; `kb/research/batch9
 | Fermeture par le tueur | Déclenche l'**EGC** | — | SS |
 | Après une évasion | Se referme | 8.1.0 | SS |
 | Offrandes | Blueprints : trappe plus probable près du Killer Shack ou du bâtiment principal (+100 % de probabilité) | — | SS |
-| Durée du saut | Non documentée | — | INC |
+| Durée du saut | Non documentée ; le tueur **ne peut plus** vous saisir en plein saut depuis qu'il peut fermer la trappe | 2.7.0 | INC (durée) / SS (saisie) |
 
 > **Erreur fréquente** : chercher la trappe « au son » avant d'être le dernier. Elle ne s'ouvre (donc ne s'entend) qu'au dernier survivant.
 
@@ -694,7 +698,7 @@ Détail : `kb/research/batch6_chase_tech.md` T07, T08, T16 ; `kb/research/batch9
 |---|---|---|
 | Vaults de fenêtre | Fast **0,5 s** (garde l'élan, ≥ 2,5 m de course droite) / medium 0,9 s / slow 1,5 s ; tueur 1,7 s | SS |
 | Blocage par l'Entité | Après le **3e vault** de la même fenêtre dans une poursuite : bloquée **30 s pour ce survivant seulement** | SS |
-| Palettes | Stun **2 s** (à partir de ~50 % d'abaissement) ; casse **2,34 s** (6.1.0) ; tronçonneuse 1 s ; vault 1,1 s / 2 s | VM / SS |
+| Palettes | Stun **2 s** (à partir de ~50 % d'abaissement) ; casse **2,34 s** (6.1.0) ; tronçonneuse (Hillbilly, Cannibal) **1 s**, avec le **pouvoir de base** : le Hillbilly est classé « Special-break » (9.5.0, VP) ; LoPro Chains permet seulement de **continuer** le sprint à travers ; vault 1,1 s / 2 s | VM / SS |
 | Murs cassables | 2,34 s, tueur seulement | VM |
 | Espacement des palettes | Au moins 14, 16, 18 ou 20 m | SS |
 
@@ -765,18 +769,18 @@ Détail : notes officielles 9.0.0, 9.3.0, 9.6.0, 10.1.0 ; `kb/research/batch5_it
 
 | # | Question | Pourquoi ça compte |
 |---|---|---|
-| 1 | Taux de base absolu de la jauge anti-camp après 9.3.0 (CONFLICT-003) | Aucun temps de face camp n'est calculable |
-| 2 | Nombre max de soigneurs : 2 (wiki) ou 3 (ancien guide) (CONFLICT-001) | Planification des soins en groupe |
-| 3 | Rampement : 0,7 m/s constant ou montée à 1,05 m/s (CONFLICT-002) | Ramper vers un allié |
-| 4 | La récupération au sol progresse-t-elle en rampant ? | Arbitrage ramper / récupérer |
-| 5 | Elusive de décrochage annulée par une action voyante ? Liste des actions voyantes (porte ?) | Usage des 10 s de protection |
-| 6 | Liste des catégories soumises aux DR ; DR sur Endurance, vaults, effets de base, pertes instantanées | Construction de builds empilés |
+| 1 | ~~Taux de base de la jauge anti-camp~~ **Résolu 27/09/2026** : +1 c/s × poids divisés par 2 (SS) ; reste l'effet exact des survivants proches | Temps de face camp à ±10 % |
+| 2 | ~~Nombre max de soigneurs~~ **Résolu** : 2 en 1v4, 3 en 2v8 (VM) | — |
+| 3 | ~~Rampement~~ **Résolu** : 0,7 m/s constant (VM) | — |
+| 4 | ~~Récupération en rampant~~ **Résolu** : non, sauf Tenacity (VM) | — |
+| 5 | Elusive de décrochage annulée par une action voyante ? (la porte **est** une action voyante, SS) | Usage des 10 s de protection |
+| 6 | Contenu de la liste des DR du manuel en jeu ; DR sur Endurance, effets de base, pertes instantanées | Construction de builds empilés |
 | 7 | Plafond de Haste | Builds de vitesse |
 | 8 | Chance de skill check avec toolbox (40 % ?) ; ouverture de porte par le tueur (0,75 s ?) | Valeurs du wiki non recoupées |
-| 9 | Portée des grognements ; fréquence et durée des flaques de sang | Furtivité en étant blessé |
-| 10 | Vitesse de portage (3,68 m/s ?) et durée du ramassage | Tous les calculs de portage et de sabotage |
-| 11 | Durée du relevage d'un allié au sol ; durée du saut dans la trappe | Décisions de slug et de trappe |
-| 12 | Perte de Bloodlust sur stun ou aveuglement | Valeur d'un stun en chase |
+| 9 | Portée des grognements ; fréquence et durée des flaques de sang (lot 12 : aucune valeur trouvée) | Furtivité en étant blessé |
+| 10 | Durée du ramassage (portage 3,68 m/s : SS) | Calculs de portage et de sabotage |
+| 11 | Durée du saut dans la trappe (relevage : 16 s seul, SS) | Décisions de trappe |
+| 12 | Perte de Bloodlust sur stun ou aveuglement (absente des listes wiki) | Valeur d'un stun en chase |
 | 13 | Reset du MMR en 10.1.0 ; détail du nouveau calcul (CONFLICT-G04) | Lecture de sa cote |
 | 14 | Probabilités de coffre actuelles (étude de 2019 seulement) | Rentabilité des coffres |
 | 15 | Application des protections de décrochage à une libération d'Exile | Jeu contre The Judgment |
@@ -793,6 +797,7 @@ Détail : notes officielles 9.0.0, 9.3.0, 9.6.0, 10.1.0 ; `kb/research/batch5_it
 - `kb/research/batch9_macro.md` (§1, §2, §3.2, §6)
 - `kb/research/batch6_chase_tech.md` (§1, §4.1-4.4, T07, T08, T16)
 - `kb/research/batch5_items.md` (§1, §3, §4, §5.7-5.9)
+- `kb/research/batch12_mechanics_open.md` (résolutions du 27/09/2026 : soigneurs, rampement, Resolve, portage, DR, Hillbilly)
 - `kb/ledgers/CONFLICT_REGISTER.md`, `kb/ledgers/OPEN_QUESTIONS.md`, `kb/ledgers/OUTDATED_CONTENT_REPORT.md`
 - `kb/deliverables/QUICK_REFERENCE.md` (cohérence des chiffres clés)
 
