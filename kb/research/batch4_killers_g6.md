@@ -4,7 +4,7 @@
 >
 > Rappels de l'audit : toutes les consignes sont des **HEURISTIC** (option par défaut, à varier contre un tueur qui l'anticipe) ; l'étiquette EXPERT OPINION non sourcée a été **requalifiée** (HEURISTIC, ou [SEED] UNCERTAIN quand l'idée vient du seed) ; Krasue, The First, The Slasher et The Judgment ont été recoupés avec le registre de patchs de l'audit (9.2.0 → 10.1.2a) ; les lignes « Équipe » supposant des rôles demandent le vocal (SWF).
 
-Couverture : 7/7 tueurs re-vérifiés sur page wiki complète (27/09/2026), dont 31 points confirmés par note officielle (lot 12b ; voir `## Claims`, lignes VERIFIED_PRIMARY / VERIFIED_MULTI_SOURCE).
+Couverture : 7/7 tueurs re-vérifiés sur page wiki complète (27/09/2026), dont 35 points confirmés par note officielle (lot 12b ; voir `## Claims`, lignes VERIFIED_PRIMARY / VERIFIED_MULTI_SOURCE).
 
 - Référence : LIVE 10.1.2a (17/09/2026). PTB 10.2.0 (15-21/09/2026) **non LIVE**, jamais utilisé ici comme valeur LIVE. Mode 2v8 exclu. Les notes PTB 10.2.0 (KB 559) ne modifient le pouvoir d'aucun des 7 tueurs (seulement des perks, dont Ravenous, et des correctifs de collision du chien de la Houndmaster) ; les pages wiki de l'Animatronic (Help Wanted) et de la Krasue (Ravenous) affichent déjà la description PTB 10.2.0 : **non utilisée**.
 - Périmètre : Houndmaster, Ghoul, Animatronic, Krasue, First, Slasher, Judgment (seed `kb/seed/ch8_killers.txt` l. 1664-1953).
@@ -243,7 +243,7 @@ Couverture : 7/7 tueurs re-vérifiés sur page wiki complète (27/09/2026), dont
 
 ## 43. The Slasher (Jason Voorhees) — archétype(s) : furtif | mobilité | ranged (pics) | anti-loop
 
-- **Version** : 10.0.0 « Jason » (CHAPTER 40), 16/06/2026 [WIKI ; KB 550]. Changements PTB → LIVE [KB 549 ; KB 550 ; WIKI] : sauver un survivant épinglé ne compte plus comme un soin ; l'attaque de la « husk » a un délai (0,35 s) ; anti-camp du Jump Scare ×2 → **×3** (4,5 s) ; annuler un lancer de pic ralentit davantage (3,2 → 2,8 m/s) ; add-ons (Coroner's Coffee 13 → 8 %, Bloody Magazine 13 → 8 m, Eye Goop 9 → 13 s, Iridescent Boat Motor 5 → 13 s, Toxic Waste 6 → 8 m, Deputy's Badge refondu à 4 m). **10.0.2** (06/07/2026) [KB 552] : Deputy's Badge 4 → **2 m** (et plus sur un gen déjà en régression). **10.0.3** (21/07/2026) [KB 553] : l'anti-camp du Jump Scare **ne s'applique plus entre étages** ; Sauna Rock 13 → **3 s**, Two Nails 6 → 5 s, Mirror Shards 30 → 40 s, Toxic Waste 8 → 10 m, Sleeping Bag 8 → 10 m, Party Noisemaker 32 → 28 m. (Cela lève l'ambiguïté de l'audit : les ajustements d'add-ons sont en 10.0.2 **et** en 10.0.3.) Nouvel état **Impaled**. Statut LIVE.
+- **Version** : 10.0.0 « Jason » (CHAPTER 40), 16/06/2026 [WIKI ; KB 550]. Changements PTB → LIVE [KB 549 ; KB 550 ; WIKI] : sauver un survivant épinglé ne compte plus comme un soin ; l'attaque de la « husk » a un délai (0,35 s) ; anti-camp du Jump Scare ×2 → **×3** (4,5 s) ; annuler un lancer de pic ralentit davantage (3,2 → 2,8 m/s) ; add-ons (Coroner's Coffee 13 → 8 %, remis à **13 %** dès 10.0.1 [KB 551] ; Bloody Magazine 13 → 8 m, Eye Goop 9 → 13 s, Iridescent Boat Motor 5 → 13 s, Toxic Waste 6 → 8 m, Deputy's Badge refondu à 4 m). **10.0.2** (06/07/2026) [KB 552] : Deputy's Badge 4 → **2 m** (et plus sur un gen déjà en régression). **10.0.3** (21/07/2026) [KB 553] : l'anti-camp du Jump Scare **ne s'applique plus entre étages** ; Sauna Rock 13 → **3 s**, Two Nails 6 → 5 s, Mirror Shards 30 → 40 s, Toxic Waste 8 → 10 m, Sleeping Bag 8 → 10 m, Party Noisemaker 32 → 28 m. (Cela lève l'ambiguïté de l'audit : les ajustements d'add-ons sont en 10.0.2 **et** en 10.0.3.) Nouvel état **Impaled**. Statut LIVE.
 - **Données LIVE** ([WIKI], STRONG_SECONDARY sauf mention) :
   - 4,4 m/s ; 8,0 m/s en Omnipresent Evil ; TR 32 m [WIKI + audit] → VERIFIED_MULTI_SOURCE. Taille moyenne.
   - Perks enseignables : Hex: Scared to Death, Silent Shadow, Rampage [WIKI + audit].
@@ -283,7 +283,7 @@ Couverture : 7/7 tueurs re-vérifiés sur page wiki complète (27/09/2026), dont
 - **Implications de carte** (HEURISTIC) : fort sur les maps denses en palettes, fenêtres et murs cassables (points d'apparition). Plus faible dans les grandes zones vides.
 - **Perks fréquentes** (seed-NRV) : Pain Resonance, Pop, Surge, Corrupt Intervention ; variante Spirit Fury, Enduring, Bamboozle, Tinkerer. Ses perks [WIKI] : Hex: Scared to Death (après avoir accroché 3 survivants différents : casser une palette en chase fait crier et Hindered −11/12/13 % pendant 3 s tous les survivants à ≤ 13 m), Silent Shadow (Undetectable 11/12/13 s à chaque crochet ; permanent une fois les portes alimentées), Rampage (1 token par palette ou mur cassé, max 13 ; stun de palette ou aveuglement → Haste +1 % par token pendant 13 s ; cooldown 30/25/20 s). → Contre Spirit Fury et Enduring, **ne misez pas sur un stun de palette tardif** ; cherchez la distance. Contre Rampage chargé, après un stun, quittez la boucle au lieu d'y rester (jusqu'à +13 % pendant 13 s). Contre Silent Shadow, en endgame, aucun TR : surveillez les corbeaux et l'aura des portes.
 - **Écart avec le seed** : vitesse (4,4 / 8,0), TR, date, perks **OK** [WIKI + audit]. Détection 16 m, accroupi 2,5 s, Jump Scare à ≤ 16 m, Haste 25 s, cooldown 12 s, ×3 près d'un crochet, retrait 5 s, aura 26 m, épinglage 8 s : **OK** [WIKI]. « Traverse palettes, murs et fenêtres » : **IMPRÉCIS** (murs **cassables**). « Chaque pic … épinglage au mur possible » : **IMPRÉCIS** (épinglage seulement si le pic met au sol). Add-ons « ajustés en 10.0.2 » : **OK** (Deputy's Badge 4 → 2 m [KB 552]), mais le seed omet les ajustements 10.0.3 [KB 553] : **IMPRÉCIS**. Iridescent Boat Motor 13 s : **OK** [KB 550].
-- **Sources** : [4] (Jason_Voorhees), [5] (KB 549, 550, 552, 553), [1], [2].
+- **Sources** : [4] (Jason_Voorhees), [5] (KB 549, 550, 551, 552, 553), [1], [2].
 
 ---
 ## 44. The Judgment (pas de nom réel) — archétype(s) : ranged | zone | alternative au crochet (Exile) | pression de gens passive (Heresy)
@@ -353,95 +353,177 @@ Couverture : 7/7 tueurs re-vérifiés sur page wiki complète (27/09/2026), dont
 
 ## Claims
 
-Calculs dérivés (audit pass 14) : 5 % de gen = 4,5 s solo / 2,65 s à deux ; Animatronic 0,4 m/s (hache) / 0,6 m/s (sans hache) repris ; Krasue Head 4,8 m/s = tueur 4,6 m/s + Bloodlust I (0,8 m/s repris, 10 m en 12,5 s) ; The First 0,4 m/s repris ; Slasher : 2 s × 4,0 m/s = 8 m contre un espacement de palettes ≥ 14-20 m ; Heresy : 0,08 × 2,7 ≈ 0,22 charge/s au pire, seuil de rentabilité du Repent ≈ 140 s + 4,6 T de réparation restante ; Exile : 10 × 0,5 = 5 s.
+Calculs dérivés (audit pass 14, mis à jour lot 12b) : 5 % de gen = 4,5 s solo / 2,65 s à deux ; Animatronic 0,4 m/s (hache) / 0,6 m/s (sans hache), 7 m comblés en ≈ 11,7 s avant un Grab Axe ; Krasue Head 4,8 m/s = tueur 4,6 m/s + Bloodlust I (0,8 m/s, 10 m en 12,5 s) ; Krasue Leeched I → II en 100 / 1,665 ≈ 60 s ; The First 0,4 m/s ; liane : 0,6 s × 4,0 m/s = 2,4 m > rayon 1,46 m ; horloges : 240 / 9 ≈ 27 s, 240 / 12 = 20 s, 240 / 15 = 16 s ; Ghoul : recharge complète 2 × 4 = 8 s, 3 × 2,5 = 7,5 s ; Slasher : 2 + 0,5 + 1,5 + 1 ≈ 5 s entre la coupure du TR et le premier coup possible après Jump Scare, 2,5 s × 4,0 m/s ≈ 10 m ; Judgment : traversée de 1,2 m à 4,0 m/s ≈ 0,3 s ; Heresy : 0,08 × 2,7 ≈ 0,22 charge/s au pire, seuil du Repent ≈ 140 s + 4,6 T ; Exile : 10 × 0,5 = 5 s. (L'ancien calcul Slasher « 2 s × 4,0 m/s = 8 m contre un espacement de palettes ≥ 14-20 m » est **retiré** : le rayon de 16 m se mesure depuis Jason.)
 
 | ID | Claim | Source | Patch | Confiance |
 |---|---|---|---|---|
-| G6-01 | Animatronic sorti le 17/06/2025, nom réel William Afton | [1] | 9.0.0 | VERIFIED_MULTI_SOURCE (audit) |
-| G6-02 | Animatronic : nerfs d'add-ons en 9.0.2, buffs en 9.6.0 (détail inconnu) | [1] | 9.0.2 / 9.6.0 | VERIFIED (audit, registre) |
-| G6-03 | Animatronic 4,4 m/s avec hache / 4,6 sans, TR 24 m | [2] | ? | UNCERTAIN |
-| G6-04 | Animatronic : batterie 100, 12/passage, 6/s caméra, reboot 45 s | [2] | 9.6.0 selon seed | UNCERTAIN |
-| G6-05 | Krasue Body 4,6 m/s TR 32 m ; Head 4,8 m/s TR 40 m | [1] | 9.2.0 | VERIFIED_PRIMARY (notes via audit) |
-| G6-06 | Krasue Head Form sans Bloodlust | [1] | 9.2.0 | VERIFIED_PRIMARY |
-| G6-07 | Krasue : paliers Leech 100/200, champignons 5 (6 max), 3 s | [2] | ? | UNCERTAIN |
-| G6-08 | The First 4,4 m/s, TR 32 m, sorti le 27/01/2026 | [1] | 9.4.0 | VERIFIED (audit) |
-| G6-09 | The First : Worldbreaker phase 2 = 50 s | [1] | 9.5.0 | VERIFIED (audit) |
-| G6-10 | The First : Upside Down 8 m/s, cooldown 35 s | [2] | ? | UNCERTAIN |
-| G6-11 | Slasher 4,4 m/s, 8,0 m/s en Omnipresent Evil, TR 32 m ; Impaled | [1] | 10.0.0 | VERIFIED (audit) |
-| G6-12 | Slasher : détection 16 m, accroupi 2,5 s, Jump Scare ≤ 16 m, Haste 25 s, CD 12 s | [2] | ? | UNCERTAIN |
-| G6-13 | Judgment 4,4 m/s, TR 32 m, grand | [1] | 10.1.0 | VERIFIED (audit) |
-| G6-14 | Exile : pas de perks de crochet, −3 s/Seed, +0,5 s/âme (10 max), tue à 2 états | [1] | 10.1.0 | VERIFIED_PRIMARY |
-| G6-15 | Heresy : −3 % sur Good ; porte bloquée 8 s si acquise à < 32 m ; 45 s de seuil ; Repent au Shrine | [1] | 10.1.0 | STRONG_SECONDARY (wiki via audit) |
-| G6-16 | Divine Light : courbe 0,6 s en Zealous, aucune hors Zealous | [1] | 10.1.2a | VERIFIED_MULTI_SOURCE |
-| G6-17 | Exilés libérés réapparaissent à ≥ 32 m | [1] | 10.1.2 | VERIFIED (audit, registre) |
-| G6-18 | Ghoul : Kagune Leap 14 m, 2 tokens / 4 s, Enragé 3 tokens / 2,5 s | [2] | 8.6.2 selon seed | UNCERTAIN |
-| G6-19 | Ghoul : 3e Kagune Leap + add-on détruit instantanément une palette | [1] | ? | STRONG_SECONDARY (« à reconfirmer ») |
-| G6-20 | Houndmaster 4,6 m/s, TR 32 m ; traîne 8 s (2 s avec Endurance), CD 3 s | [2] | 8.4.2 selon seed | UNCERTAIN |
-| G6-21 | Stats BHVR (KB 540, sept. 2025-févr. 2026) : « kill Krasue (high) », « pick Ghoul (high) », sans chiffres | [1] | — | PRIMARY via audit (noms seulement) |
+| G6-01 | Animatronic sorti le 17/06/2025 ; nom réel William Afton (alias Springtrap) | [4], [5] KB 510 | 9.0.0 | VERIFIED_MULTI_SOURCE |
+| G6-02 | Animatronic : nerfs d'add-ons 9.0.2 (Security Guard's Badge 25 %, Streamers 15 %, Party Hat −20 %, Bonnie's Guitar Strings −100 %, Foxy's Hook 6 s, Endo CPU 40 %) | [5] KB 512 ; [4] | 9.0.2 | VERIFIED_MULTI_SOURCE |
+| G6-03 | Animatronic : recharge de hache 6 s (décor) / 8 s (survivant), batterie −6 %/s par caméra et −12 % par téléportation, Access Panel 6 m | [5] KB 544 ; [4] | 9.6.0 | VERIFIED_MULTI_SOURCE |
+| G6-04 | Animatronic 4,4 m/s avec hache / 4,6 sans, TR 24 m ; hache 16 m, 30 m/s, windup 1 s | [4] | LIVE | STRONG_SECONDARY |
+| G6-05 | Animatronic : batterie 100, reboot 45 s (reprise à 50) ; retrait de hache 5 s (allié) / 8 s (seul) ; Grab Axe à ≤ 3 m = portage direct ; révélation 10 s après 4 s de caméra | [4] | LIVE | STRONG_SECONDARY |
+| G6-06 | Krasue Body 4,6 m/s TR 32 m ; Head 4,8 m/s TR 40 m ; vol 7 m/s | [4], [1] (notes 9.2.0) | 9.2.0 | VERIFIED_MULTI_SOURCE |
+| G6-07 | Krasue Head Form sans Bloodlust | [4], [1] | 9.2.0 | VERIFIED_MULTI_SOURCE |
+| G6-08 | Krasue : Leeched entièrement retiré au crochet | [5] KB 525 ; [4] | 9.2.2 | VERIFIED_MULTI_SOURCE |
+| G6-09 | Krasue : fouet windup 0,3 s, traversée d'obstacles 0,32 s ; Body → Head 1,2 s | [5] KB 525 ; [4] | 9.2.2 | VERIFIED_MULTI_SOURCE |
+| G6-10 | Krasue : champignons 5 au départ, 6 max | [5] KB 524 ; [4] | 9.2.1 | VERIFIED_MULTI_SOURCE |
+| G6-11 | Krasue : Leeched I à 100, +1,665/s (II en 60 s), glande +100, fouet +34 (blesse à partir de I), champignon 3 s puis −5/s, annulé si touché | [4] | LIVE | STRONG_SECONDARY |
+| G6-12 | Ravenous LIVE : 4 tokens → cri + Exposed 40/50/60 s (la version 80/85/90 s + Haste est PTB 10.2.0) | [5] KB 523, KB 559 | 9.2.0 / PTB 10.2.0 | VERIFIED_PRIMARY |
+| G6-13 | The First 4,4 m/s, TR 32 m, sorti le 27/01/2026 | [4], [1] | 9.4.0 | VERIFIED_MULTI_SOURCE |
+| G6-14 | The First : Worldbreaker phase 2 = 50 s | [5] KB 538 ; [4] | 9.5.0 | VERIFIED_MULTI_SOURCE |
+| G6-15 | The First : liane = 1 token, Undergate = 2 tokens (hors Worldbreaker) ; 1 s de verrou après l'Undergate | [5] KB 534 ; [4] | 9.4.0 | VERIFIED_MULTI_SOURCE |
+| G6-16 | The First : refonte d'add-ons 9.5.0 (Pizza Goggles −90 % / −25 s, Chess Piece rayon −40 %, Electroshock Collar…) | [5] KB 538 ; [4] | 9.5.0 | VERIFIED_MULTI_SOURCE |
+| G6-17 | The First : Upside Down 8 m/s, cooldown 35 s, traverse palettes / fenêtres / murs cassables ; liane rayon 1,46 m, délai 0,6 s, cooldown 3 s, anti-camp 6 s à ≤ 8 m ; horloges −9 / −12 / −15 / −18 par s | [4] | LIVE | STRONG_SECONDARY |
+| G6-18 | Slasher 4,4 m/s, 8,0 m/s en OE, TR 32 m ; état Impaled | [4], [1] | 10.0.0 | VERIFIED_MULTI_SOURCE |
+| G6-19 | Slasher : le Jump Scare effectue un special-break / special-vault sur la cible | [5] KB 550 ; [4] | 10.0.0 | VERIFIED_MULTI_SOURCE |
+| G6-20 | Slasher : anti-camp ×3 (4,5 s), plus appliqué entre étages depuis 10.0.3 | [5] KB 550, KB 553 ; [4] | 10.0.0 / 10.0.3 | VERIFIED_MULTI_SOURCE |
+| G6-21 | Slasher : Deputy's Badge 2 m | [5] KB 552 ; [4] | 10.0.2 | VERIFIED_MULTI_SOURCE |
+| G6-22 | Slasher : Sauna Rock 3 s, Mirror Shards 40 s, Toxic Waste 10 m, Two Nails 5 s, Sleeping Bag 10 m, Party Noisemaker 28 m | [5] KB 553 ; [4] | 10.0.3 | VERIFIED_MULTI_SOURCE |
+| G6-23 | Slasher : Iridescent Boat Motor 13 s ; Eye Goop 13 s | [5] KB 550 ; [4] | 10.0.0 | VERIFIED_MULTI_SOURCE |
+| G6-24 | Slasher : Coroner's Coffee Haste 13 % pendant 3 s (8 % seulement entre 10.0.0 et 10.0.1) | [5] KB 550, KB 551 ; [4] | 10.0.1 | VERIFIED_MULTI_SOURCE (CONFLICT-B4G6-04 résolu) |
+| G6-25 | Slasher : épinglage seulement si le pic met au sol et pousse contre un mur | [4] ; [5] KB 550 | 10.0.0 | VERIFIED_MULTI_SOURCE |
+| G6-26 | Slasher : détection 16 m, accroupi > 2,5 s indétectable, Jump Scare à ≤ 16 m de Jason après 2 s, réapparition 1,5 s + 1 s, cible bloquée 4 s, Haste 4,5454 % 25 s, cooldown 12 s | [4] | LIVE | STRONG_SECONDARY |
+| G6-27 | Judgment 4,4 m/s, TR 32 m, grand | [4], [1] | 10.1.0 | VERIFIED_MULTI_SOURCE |
+| G6-28 | Exile : pas de perks de crochet, −3 s par Seed, +0,5 s par âme (10 max), hérétique à 2 états tué | [5] KB 556 ; [4] ; [1] | 10.1.0 | VERIFIED_MULTI_SOURCE |
+| G6-29 | Seul un hérétique au sol peut être exilé | [5] KB 556 ; [4] | 10.1.0 | VERIFIED_MULTI_SOURCE |
+| G6-30 | Les protections de décrochage basekit s'appliquent à la sortie d'Exile (les âmes les prolongent) | [5] KB 556 ; [4] | 10.1.0 | VERIFIED_MULTI_SOURCE |
+| G6-31 | Heresy : Good −3 %, porte bloquée 8 s si acquise à ≤ 32 m, 45 s de seuil, 3 accroupissements / gestes à ≤ 10 m du Judgment, Repent = retrait sur 30 s | [4] ; principe [5] KB 556 | 10.1.0 | STRONG_SECONDARY (valeurs) |
+| G6-32 | Divine Light : contrôle 3 s sans dégâts, traverse les obstacles, délai 0,9 → 0,3 s, cooldown 6 s, frôlement 0,5 m | [5] KB 556 ; [4] | 10.1.0 | VERIFIED_MULTI_SOURCE |
+| G6-33 | Courbe (contrôle après projection) : 0,6 s en Zealous, aucune hors Zealous | [5] KB 558 ; [4] | 10.1.2a | VERIFIED_MULTI_SOURCE |
+| G6-34 | Exilés libérés à ≥ 32 m du Judgment + 1 s d'immunité | [5] KB 558 ; [4] | 10.1.2 | VERIFIED_MULTI_SOURCE |
+| G6-35 | Zealous : 60 s, taille +10 %, cooldown −20 % | [5] KB 556 ; [4] | 10.1.0 | VERIFIED_MULTI_SOURCE |
+| G6-36 | Celestial Witness : toutes les 30 s, Obsession à ≥ 40 m révélée 2/2,5/3 s | [5] KB 556 | 10.1.0 | VERIFIED_PRIMARY |
+| G6-37 | Ghoul : TR 40 m, 14 m, 2 tokens / 4 s, Enragé 3 / 2,5 s, recharge complète requise, 1er bond sur survivant sans dégât, Countdown 40 s (50 s) | [4] | LIVE | STRONG_SECONDARY |
+| G6-38 | Ghoul : survivant attrapé derrière un vault relâché au début du vault | [5] KB 523, KB 521 ; [4] | 9.2.0 | VERIFIED_MULTI_SOURCE |
+| G6-39 | Ghoul : stickiness 0,05 s ; plus de coup automatique après un Leap Vault | [5] KB 538 ; [4] | 9.5.0 | VERIFIED_MULTI_SOURCE |
+| G6-40 | Ghoul : Iridescent Eye Patch, 3e bond en Enragé = palette tombée détruite | [4] ; [1] (wiki.gg Pallets) | LIVE | STRONG_SECONDARY (confirmé) |
+| G6-41 | Ghoul : Kagune Mark retirée par le mend complet ou le passage au sol | [4] | LIVE | STRONG_SECONDARY |
+| G6-42 | Houndmaster 4,6 m/s (6 m/s en Slipstream), TR 32 m ; traîne 8 s (2 s avec Endurance), Chase Command 3 s | [4] | 8.4.2 → LIVE | STRONG_SECONDARY |
+| G6-43 | Houndmaster : le chien vaulte fenêtres et palettes tombées en chase | [4] ; [5] KB 550, KB 552 | LIVE | VERIFIED_MULTI_SOURCE |
+| G6-44 | Houndmaster : libération par palette sur le chien (stun 3 s) ou par un allié (0,65 s) | [4] | LIVE | STRONG_SECONDARY |
+| G6-45 | Houndmaster : aucun changement d'équilibrage 9.0.0 → 10.1.2a | [5] KB 510 → 558 ; [4] | — | VERIFIED_MULTI_SOURCE |
+| G6-46 | Stats BHVR KB 540 (sept. 2025-mars 2026) : Ghoul le plus joué en high MMR, Krasue « leading the carnage » en high MMR, aucun chiffre, The First absent | [5] KB 540 | — | VERIFIED_PRIMARY (texte seulement) |
 
 ## Conflits
 
 #### CONFLICT-B4G6-01 : Ghoul, statistique « plus de 60 % de kill en MMR élevé selon BHVR »
 - Source A : seed (`ch8_killers.txt`, fiche 39), sans source précise.
-- Source B : audit phase 0 (tableau des publications statistiques BHVR) : la KB 540 ne donne **aucun chiffre en texte** et cite le Ghoul pour le **pick rate** high MMR ; le kill rate high MMR mis en avant est la Krasue.
-- Hypothèse : confusion pick/kill, ou chiffre tiré d'une infographie non lue.
-- Résolution : UNRESOLVED (retirer le chiffre du guide tant qu'il n'est pas sourcé).
+- Source B : note officielle KB 540 (https://forums.bhvr.com/dead-by-daylight/kb/articles/540), texte lu en local : « Ghoul taking the spot for high MMR » (tueur **le plus joué**) ; le tueur le plus létal en high MMR est la Krasue ; **aucun chiffre** dans le texte.
+- Hypothèse : confusion pick / kill, ou chiffre tiré d'une infographie non lue.
+- Résolution : **non étayé par le texte officiel** (chiffre retiré du guide) ; UNRESOLVED seulement pour l'infographie, illisible.
 
 #### CONFLICT-B4G6-02 : The First « n°2 en kill rate MMR élevé selon BHVR »
 - Source A : seed, fiche 42.
-- Source B : audit phase 0 : kill rates cités = Krasue (high), Lich (broad) ; The First n'est pas mentionné et n'est sorti que le 27/01/2026.
+- Source B : KB 540, texte lu en local : seuls Krasue (high MMR) et The Lich (broad MMR) sont cités pour la létalité ; The First n'est pas mentionné (sorti le 27/01/2026). KB 554 (Global Stats) ne le cite pas non plus.
 - Hypothèse : extrapolation ou source postérieure non identifiée.
-- Résolution : UNRESOLVED.
+- Résolution : **non étayé** ; UNRESOLVED pour l'infographie.
 
 #### CONFLICT-B4G6-03 : Ghoul, TR 40 m
 - Source A : seed (40 m).
 - Source B : connaissance du modèle (32 m ?), UNCERTAIN.
-- Résolution : UNRESOLVED (à vérifier sur le wiki quand le quota le permettra).
+- Résolution : **RÉSOLU → 40 m** (page wiki Ken_Kaneki, infobox « Terror Radius 40 metres »). Le seed avait raison.
+
+#### CONFLICT-B4G6-04 : Slasher, Haste de Coroner's Coffee
+- Source A : page wiki Jason_Voorhees : « +13 % Haste pendant 3 s ».
+- Source B : KB 549 (PTB → LIVE) et KB 550 (notes 10.0.0) : « Coroner's Coffee: Haste decreased to 8% (was 13%) ».
+- Source C : KB 551 (10.0.1, https://forums.bhvr.com/dead-by-daylight/kb/articles/551) : « Gain 13% haste (was 8%) for 3 seconds » ; aucune modification ultérieure dans KB 552 / 553.
+- Résolution : **RÉSOLU → 13 % LIVE depuis 10.0.1** (wiki et KB 551 concordent ; les 8 % n'ont duré que de 10.0.0 à 10.0.1).
+
+#### CONFLICT-B4G6-05 : Houndmaster, le chien franchit-il fenêtres et palettes ?
+- Source A : version précédente de cette fiche (CM, UNCERTAIN) + seed : le chien ne vaulte pas les fenêtres, une palette posée le bloque.
+- Source B : wiki (durées de vault du chien en chase, 0,65 s) + correctifs officiels « Dog was unable to Jump Pallets at sharp angles » (KB 550) et « Dog can't vault over a window » (KB 552).
+- Résolution : **RÉSOLU → il vaulte les deux** ; counterplay corrigé (palette **debout** à faire tomber sur lui, pas de vault au moment de son arrivée).
+
+#### CONFLICT-B4G6-06 : Krasue, Ravenous (renvoi à CONFLICT-K96-01)
+- Source A : page wiki Burong_Sukapat : Haste en portant + Exposed 80/85/90 s (marquée « upcoming Patch 10.2.0 »).
+- Source B : KB 523 (9.2.0) : Exposed 40/50/60 s ; KB 559 (PTB 10.2.0) : nouvelle version.
+- Résolution : **RÉSOLU → LIVE 10.1.2a = Exposed 40/50/60 s** ; la version wiki est PTB 10.2.0.
 
 ## Écarts avec le guide seed
 
 | Élément | Le guide dit | Vérifié | Verdict |
 |---|---|---|---|
-| Animatronic, nom réel | Springtrap | William Afton (audit) | IMPRÉCIS |
-| Animatronic, historique | Seulement 9.6.0 cité | 9.0.2 nerfs d'add-ons + 9.6.0 buffs (audit) | IMPRÉCIS |
-| Krasue, vitesses / TR | 4,6/32 Body, 4,8/40 Head | Idem (audit, notes 9.2.0) | OK |
-| Krasue, Bloodlust | Pas de Bloodlust | Head Form exclue (audit) | OK (préciser « Head Form ») |
-| Krasue, hotfix 9.2.2 Leech | Leech retiré au crochet | Absent du résumé 9.2.2 de l'audit | NON VÉRIFIABLE |
-| Krasue, n°1 kill rate BHVR | N°1 high MMR | « kill Krasue (high) », sans chiffre (audit) | OK sur le fond / classement non chiffré |
-| The First, vitesse / TR / date | 4,4 / 32 / janv. 2026 | Idem (audit) | OK |
-| The First, phase 2 Worldbreaker | 50 s (9.5.0) | Idem (audit) | OK |
-| The First, n°2 kill rate BHVR | N°2 | Non trouvé (audit) | NON VÉRIFIABLE (douteux) |
-| Slasher, vitesse / TR / date / perks | 4,4 / 8,0 / 32 / 16/06/2026 | Idem (audit) | OK |
-| Slasher, add-ons 10.0.2 | Deputy's Badge nerfé | 10.0.2 : ajustements d'add-ons, sans détail (audit) | OK sur le principe, détail NON VÉRIFIABLE |
-| Judgment, stats de base | 4,4 / 32 / grand / 25/08/2026 | Idem (audit) | OK |
-| Judgment, hotfix 10.1.2a | 0,6 s en Zealous | + suppression de la fenêtre hors Zealous (audit) | IMPRÉCIS (omission) |
-| Judgment, Heresy | 3 gestes à 10 m ; porte bloquée 8 s | 3 accroupissements ou gestes < 10 m ; 8 s si acquise < 32 m ; purge Repent au Shrine (audit) | IMPRÉCIS (omission de la purge) |
-| Judgment, Exile | −3 s, +0,5 s/âme, 10, mort à 2 états, pas de perks de crochet | Idem (audit) | OK |
-| Judgment, réapparition des exilés | Non mentionnée | ≥ 32 m depuis 10.1.2 (audit) | IMPRÉCIS (omission) |
-| Ghoul, > 60 % kill BHVR | Oui | Aucun chiffre ; Ghoul = pick rate (audit) | NON ÉTAYÉ, pas prouvé faux (infographie non lue ; CONFLICT-B4G6-01 ; aligné sur BATCH_2_4_SYNTHESIS) |
-| Ghoul, 3e bond + add-on casse une palette | Iridescent Eye Patch | Liste wiki.gg Pallets (audit, STRONG_SECONDARY) | OK |
-| Ghoul, TR 40 m, nerf 8.6.2, magnétisme 9.5.0 | — | Non couvert | NON VÉRIFIABLE |
-| Houndmaster, toutes valeurs | — | Non couvert par l'audit | NON VÉRIFIABLE |
+| Animatronic, nom réel | Springtrap | William Afton ; Springtrap = alias [WIKI] | IMPRÉCIS |
+| Animatronic, historique | Seulement 9.6.0 cité | 9.0.2 nerfs d'add-ons [KB 512] + 9.6.0 [KB 544] | IMPRÉCIS (omission) |
+| Animatronic, valeurs de pouvoir | 4,4 / 4,6, TR 24, 16 m, 30 m/s, 5 / 8 s, batterie 12 / 6 / 45 s, rappel 6 / 8 s | Idem [WIKI ; KB 544] | OK |
+| Animatronic, grab de la hache | « récupération par le tueur au grab (4,2 s) » | Le Grab Axe **charge le survivant sur l'épaule** [WIKI] | IMPRÉCIS |
+| Animatronic, caméra | 4 s = Undetectable retiré 10 s | Aura révélée à tous 10 s + Undetectable retiré [WIKI] | IMPRÉCIS |
+| Krasue, vitesses / TR | 4,6 / 32 Body, 4,8 / 40 Head | Idem [WIKI + audit] | OK |
+| Krasue, Bloodlust | Pas de Bloodlust | Head Form exclue | OK (préciser « Head Form ») |
+| Krasue, hotfix 9.2.2 Leech | Leech retiré au crochet | Idem [KB 525] | OK |
+| Krasue, valeurs Leech / champignons / vol | 100 / 200, +100 / +34, 5 (6), 3 s, 12 charges | Idem [WIKI ; KB 524] | OK |
+| Krasue, n°1 kill rate BHVR | N°1 high MMR | « leading the carnage in high MMR », sans chiffre [KB 540] | OK sur le fond / classement non chiffré |
+| The First, vitesse / TR / date | 4,4 / 32 / janv. 2026 | Idem | OK |
+| The First, phase 2 Worldbreaker | 50 s (9.5.0) | Idem [KB 538] | OK |
+| The First, Upside Down | Traverse palettes, fenêtres et murs | Murs **cassables** seulement [WIKI] | IMPRÉCIS |
+| The First, liane casse les palettes / casier contre l'Undergate | Oui | Absents du wiki et des notes | NON VÉRIFIABLE |
+| The First, horloges | « Les ajouts n'aident presque pas » | 1 → 9/s, 2 → 12/s : +33 % pour le 2e [WIKI] | IMPRÉCIS |
+| The First, n°2 kill rate BHVR | N°2 | Absent du texte KB 540 / 554 | NON ÉTAYÉ (douteux) |
+| Slasher, vitesse / TR / date / perks | 4,4 / 8,0 / 32 / 16/06/2026 | Idem [WIKI + audit] | OK |
+| Slasher, valeurs de pouvoir | 16 m, 2,5 s, 2 s, ×3, 25 s, 12 s, 5 s, 26 m, 8 s | Idem [WIKI] ; rayon de 16 m mesuré depuis Jason | OK |
+| Slasher, traversée | Palettes, murs et fenêtres | Murs **cassables** [WIKI] | IMPRÉCIS |
+| Slasher, épinglage | Possible à chaque pic | Seulement si le pic met au sol [WIKI ; KB 550] | IMPRÉCIS |
+| Slasher, add-ons | Deputy's Badge nerfé en 10.0.2 | 4 → 2 m [KB 552] ; + ajustements 10.0.3 omis [KB 553] | OK / IMPRÉCIS (omission 10.0.3) |
+| Judgment, stats de base | 4,4 / 32 / grand / 25/08/2026 | Idem | OK |
+| Judgment, Divine Light et Zealous | 0,6 m / 16 m, 3 s, 0,5 m, 6 s ; 60 s, +10 %, +50 %, −20 % | Idem [WIKI ; KB 556] | OK |
+| Judgment, hotfix 10.1.2a | 0,6 s en Zealous | + suppression de la fenêtre hors Zealous [KB 558] | IMPRÉCIS (omission) |
+| Judgment, Heresy | 3 gestes à 10 m ; porte bloquée 8 s | 3 accroupissements ou gestes à ≤ 10 m du Judgment ; 8 s si acquise ≤ 32 m ; purge Repent ; **seul un hérétique est exilable** [WIKI ; KB 556] | IMPRÉCIS (omissions) |
+| Judgment, Exile | −3 s, +0,5 s/âme, 10, mort à 2 états, pas de perks de crochet | Idem [KB 556] | OK |
+| Judgment, réapparition des exilés | Non mentionnée | ≥ 32 m + 1 s d'immunité depuis 10.1.2 [KB 558] | IMPRÉCIS (omission) |
+| Ghoul, > 60 % kill BHVR | Oui | Texte KB 540 : Ghoul = le plus joué, aucun chiffre | NON ÉTAYÉ, pas prouvé faux (infographie non lue ; CONFLICT-B4G6-01) |
+| Ghoul, 3e bond + add-on casse une palette | Iridescent Eye Patch | Idem [WIKI] | OK |
+| Ghoul, TR 40 m | 40 m | 40 m [WIKI] | OK |
+| Ghoul, nerf 8.6.2 (14 m), magnétisme 9.5.0 | Oui | 16 → 14 m [WIKI] ; 0,18 → 0,05 s [KB 538] | OK |
+| Ghoul, retrait de la marque | Le soin | Le **mend** (ou le passage au sol) [WIKI] | IMPRÉCIS |
+| Houndmaster, valeurs de base | 4,6 / 6 m/s, TR 32, traîne 8 / 2 s, cooldown 3 s (8.4.2) | Idem [WIKI] | OK |
+| Houndmaster, libération | « traîné contre une palette, il se libère » | Il faut faire **tomber** la palette sur le chien (stun 3 s), ou un allié le libère en 0,65 s [WIKI] | IMPRÉCIS |
+| Houndmaster, Leather Harness | Chien +20 % | +20 % 30 s après chaque gen, permanent en endgame [WIKI] | IMPRÉCIS |
 | Orientation générale des 7 fiches | ~50 % conseils tueur | — | Lacunaire côté survivant (corrigé ici par l'analyse) |
+
+Erreurs de la **version précédente de cette fiche** (CM / lecture), corrigées au lot 12b : chien de la Houndmaster bloqué par fenêtres et palettes (FAUX) ; rayon de 16 m du Jump Scare mesuré depuis le survivant (FAUX : depuis Jason) ; murs pleins traversés par The First et le Slasher (FAUX : murs cassables) ; Chains of the Heretic « dirigée vers le survivant » (FAUX : vers le Judgment) ; tiles fermés qui « bloquent » la Divine Light (FAUX : elle traverse les obstacles) ; recharge du Ghoul « 4 s / 2,5 s » (par token ; recharge complète ≈ 8 s / 7,5 s).
 
 ## Questions ouvertes
 
-1. Toutes les valeurs de pouvoir marquées seed-NRV sont à re-vérifier (wiki.gg) dès que le quota WebSearch est rétabli, en priorité Houndmaster et Ghoul, qui ne sont pas couverts par l'audit.
-2. Judgment : les « 3 accroupissements ou gestes à moins de 10 m » se comptent-ils à 10 m **du tueur** ou **d'un autre survivant** ? Le counterplay en dépend.
-3. Judgment : une libération d'Exile déclenche-t-elle les protections de décrochage basekit (Endurance + Haste 10 s + Elusive 10 s, 10.1.0) ?
-4. Judgment : la « fenêtre de courbe » est-elle la durée pendant laquelle la trajectoire reste modifiable **après** la projection ? (lecture adoptée ici, HYPOTHESIS).
-4b. Judgment : que signifie « décroissance 30 s » pour le Repent (durée de l'action au Shrine, ou décroissance progressive) ? Le calcul de rentabilité du Repent (Macro) en dépend. L'Heresy a-t-elle d'autres effets que −3 % sur Good et le blocage de porte ?
-5. Krasue : le Leech est-il remis à zéro au crochet (hotfix 9.2.2 selon le seed) ?
-6. Animatronic : quels add-ons ont été nerfés en 9.0.2 et quelles valeurs ont été buffées en 9.6.0 (batterie, rappel de hache) ?
-7. Slasher : détail des ajustements d'add-ons 10.0.2 / 10.0.3.
-8. Ghoul : le soin retire-t-il la Kagune Mark ? Le TR est-il de 32 ou 40 m ?
-9. Houndmaster : le chien franchit-il les fenêtres en Chase Command ? Quelles sont les conditions exactes de libération pendant la traîne ?
-10. Diminishing Returns : la Haste du Jump Scare (pouvoir) et celle de Rampage (perk) sont-elles réduites entre elles (même rôle, modificateur identique) ?
+1. Judgment : pendant le Repent, faut-il rester au Shrine pendant les 30 s de purge, et combien dure l'interaction elle-même ? Le calcul de rentabilité du Repent (Macro) en dépend. L'Heresy a-t-elle d'autres effets que l'éligibilité à l'Exile, −3 % sur Good et le blocage de porte ?
+2. The First : un casier protège-t-il de l'Undergate ? La liane casse-t-elle les palettes (seed) ? Les tokens de Worldbreaker sont-ils remis à zéro à la fin d'un Worldbreaker ? Les taux des horloges remplacent-ils le −1/s de base ?
+3. Animatronic : dans quelles conditions la batterie se recharge-t-elle (+5/s) ? Les survivants entendent-ils Afton entrer dans une porte ?
+4. Houndmaster : longueur maximale du chemin de Chase Command (non publiée sur la page).
+5. Diminishing Returns : la Haste du Jump Scare (pouvoir) et celle de Rampage (perk) sont-elles réduites entre elles (même rôle, modificateur identique) ?
+6. Judgment : à qui l'aura est-elle révélée à la libération d'un exilé (« Killer aura reveal range 32 m, 10 s » et « Rescued Survivor aura reveal 10 s » dans la Power Trivia) ?
+- Résolues au lot 12b : ancienne n° 2 (provocation = à ≤ 10 m **du Judgment**), n° 3 (protections basekit à la sortie d'Exile : oui), n° 4 (fenêtre de courbe = contrôle conservé après projection), n° 5 (Leech remis à zéro au crochet : oui, KB 525), n° 6 (détail 9.0.2 / 9.6.0 de l'Animatronic), n° 7 (add-ons 10.0.2 / 10.0.3 du Slasher), n° 8 (marque retirée par le mend ; TR 40 m), n° 9 (le chien vaulte fenêtres et palettes ; conditions de libération).
 
 ## Sources
 
-[1] Audit phase 0, `kb/seed/audit_phase0.txt` (registre des patchs 9.0.0 → 10.1.2a, tables 1.x, publications statistiques BHVR). Il cite lui-même les notes officielles BHVR (KB 551, 556, 558) et wiki.gg (The Judgment, Pallets, Patches), **non consultées directement dans ce lot**. Lecture locale le 27/09/2026 (pas via WebSearch).
+[1] Audit phase 0, `kb/seed/audit_phase0.txt` (registre des patchs 9.0.0 → 10.1.2a, tables 1.x, publications statistiques BHVR). Lecture locale le 27/09/2026.
 [2] Guide seed, `kb/seed/ch8_killers.txt` l. 1664-1953 (brouillon non fiable). Lecture locale le 27/09/2026.
-[3] Connaissance du modèle (antérieure à mi-2026), UNCERTAIN. Aucune URL, ce n'est pas une source vérifiable.
-
-Aucune source web n'a été consultée dans ce lot (quota WebSearch épuisé). Aucune URL n'est citée pour ne pas inventer de source.
+[3] Connaissance du modèle (antérieure à mi-2026), UNCERTAIN. N'est plus utilisée comme source de valeur depuis le lot 12b (les affirmations CM de la version précédente ont été confrontées aux sources [4] et [5]).
+[4] Pages wiki.gg complètes (texte via API, copies locales `kb/sources/wiki_killers/`), consultées le 27/09/2026 :
+  - Portia Maye (The Houndmaster) — https://deadbydaylight.wiki.gg/wiki/Portia_Maye ; pouvoir : https://deadbydaylight.wiki.gg/wiki/Scent_of_Blood
+  - Ken Kaneki (The Ghoul) — https://deadbydaylight.wiki.gg/wiki/Ken_Kaneki
+  - William Afton (The Animatronic) — https://deadbydaylight.wiki.gg/wiki/William_Afton
+  - Burong Sukapat (The Krasue) — https://deadbydaylight.wiki.gg/wiki/Burong_Sukapat
+  - Henry Creel (The First) — https://deadbydaylight.wiki.gg/wiki/Henry_Creel
+  - Jason Voorhees (The Slasher) — https://deadbydaylight.wiki.gg/wiki/Jason_Voorhees
+  - The Judgment — https://deadbydaylight.wiki.gg/wiki/The_Judgment
+[5] Notes officielles BHVR (copies locales `kb/sources/patches/official_*.txt`), consultées le 27/09/2026 :
+  - KB 510 (9.0.0) — https://forums.bhvr.com/dead-by-daylight/kb/articles/510
+  - KB 512 (9.0.2) — https://forums.bhvr.com/dead-by-daylight/kb/articles/512
+  - KB 521 (Developer Update, août 2025) — https://forums.bhvr.com/dead-by-daylight/kb/articles/521
+  - KB 523 (9.2.0) — https://forums.bhvr.com/dead-by-daylight/kb/articles/523
+  - KB 524 (9.2.1) — https://forums.bhvr.com/dead-by-daylight/kb/articles/524
+  - KB 525 (9.2.2) — https://forums.bhvr.com/dead-by-daylight/kb/articles/525
+  - KB 534 (9.4.0) — https://forums.bhvr.com/dead-by-daylight/kb/articles/534
+  - KB 538 (9.5.0) — https://forums.bhvr.com/dead-by-daylight/kb/articles/538
+  - KB 540 (Stats, début 2026) — https://forums.bhvr.com/dead-by-daylight/kb/articles/540
+  - KB 544 (9.6.0) — https://forums.bhvr.com/dead-by-daylight/kb/articles/544
+  - KB 549 (PTB → Live, The Slasher) — https://forums.bhvr.com/dead-by-daylight/kb/articles/549
+  - KB 550 (10.0.0) — https://forums.bhvr.com/dead-by-daylight/kb/articles/550
+  - KB 551 (10.0.1) — https://forums.bhvr.com/dead-by-daylight/kb/articles/551
+  - KB 552 (10.0.2) — https://forums.bhvr.com/dead-by-daylight/kb/articles/552
+  - KB 553 (10.0.3) — https://forums.bhvr.com/dead-by-daylight/kb/articles/553
+  - KB 554 (Global Stats) — https://forums.bhvr.com/dead-by-daylight/kb/articles/554
+  - KB 556 (10.1.0) — https://forums.bhvr.com/dead-by-daylight/kb/articles/556
+  - KB 557 (10.1.1) — https://forums.bhvr.com/dead-by-daylight/kb/articles/557
+  - KB 558 (10.1.2 / 10.1.2a) — https://forums.bhvr.com/dead-by-daylight/kb/articles/558
+  - KB 559 (PTB 10.2.0, **non LIVE**, utilisé seulement pour écarter des valeurs PTB) — https://forums.bhvr.com/dead-by-daylight/kb/articles/559
+  - Parcourues sans résultat pertinent pour ces 7 tueurs au-delà des correctifs : KB 511, 516, 526, 529, 530, 535, 536, 539, 541, 545, 546.
