@@ -68,7 +68,7 @@ def main():
     files = sorted(glob.glob(os.path.join(GUIDE, "[0-9][0-9]_*.md")))
     if not files:
         sys.exit("Aucun chapitre dans kb/guide/")
-    md = markdown.Markdown(extensions=["tables", "fenced_code", "sane_lists", "attr_list"])
+    md = markdown.Markdown(extensions=["tables", "fenced_code", "sane_lists", "attr_list", "md_in_html"])
     parts, toc, seen = [], [], set()
     cover = ""
     for f in files:

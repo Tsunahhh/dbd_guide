@@ -450,3 +450,99 @@ Détail : `kb/research/batch2_perks_surv_p23.md` (Will to Live, Off the Record, 
 
 Détail : `kb/research/batch2_perks_surv_p23.md` (Unbreakable), `p24.md` (Exponential, Plot Twist), `p25.md` (Tenacity, Soul Guard, WGLF, Conviction), `p26.md` (Buckle Up).
 
+### 9.3.8 Fin de partie (endgame)
+
+**À quoi elles servent** : elles s'allument à l'**alimentation des portes** (ou quand vous restez seul). Elles ne rapportent **rien** avant : leur valeur dépend de la probabilité d'arriver aux portes avec quelque chose à sauver.
+
+| Perk | Effet LIVE (valeurs) | Conf. | Remarque |
+|---|---|---|---|
+| **Adrenaline** | Portes alimentées : soigné d'un état (à terre ou blessé), +50 % Haste **4 s** ; ignore l'Exhausted en cours, puis Exhausted 60/50/40 s | VM | Effet différé si vous êtes accroché : non décrit (INC) |
+| **Hope** | Portes alimentées : +3/4/5 % de Haste jusqu'à la fin de l'épreuve | VM | Nerf 9.2.0 (était 5/6/7 %) |
+| **No One Left Behind** | Portes alimentées : soin des autres et décrochage +50/75/100 % ; la Haste de décrochage que vous donnez passe à **20 % pendant 15 s** ; auras des autres survivants | VM | **PTB 10.2.0 : 80/90/100 %** |
+| **Wake Up!** | Tous les gens finis : auras des interrupteurs (128 m) ; ouverture +8/10/12,5 % **par survivant vivant** (max 32/40/50 %) ; votre aura est visible des autres pendant l'ouverture | VM | Wiki déjà basculé sur le PTB ; LIVE reconstruite depuis la note officielle. **PTB 10.2.0 : rework** |
+| **Reassurance** | Pause du crochet 20/25/30 s | SS | Contre le face-camp final |
+| **Down to the Last** (ex-Sole Survivor) | Aura illisible dans un rayon de 20/22/24 m par survivant tué ou sacrifié ; dernier survivant : réparation +75 %, portes et trappe +50 % | SS (cumul de portée INC) | Rien à 4 vivants. **Rework PTB 10.2.0** |
+| **Left Behind** | Dernier survivant : aura de la trappe à 24/28/32 m | SS | Slot mort tant qu'un allié vit |
+| **Low Profile** | Seul survivant non neutralisé (autres à terre, portés ou accrochés) : gémissements, sang et griffures supprimés 70/80/90 s ; **redéclenchable** | VM | Aussi en milieu de partie, à chaque fois que la condition revient |
+| **Flow State** | +1 jeton par gen fini (max 5) ; par jeton : bénir/purifier, soigner, décrocher +8/9/10 % | VM | Forte en fin de partie. **PTB 10.2.0 : 13/14/15 %** |
+
+**POURQUOI** [HEURISTIQUE] : l'endgame est le moment où **tous** les survivants ont le même objectif et où le tueur n'a plus de gens à défendre ; un état de santé ou 20 s de crochet y valent plus qu'en début de partie. **QUAND** : parties qui arrivent régulièrement aux portes, équipes qui réparent vite. **CAS D'ÉCHEC** : partie perdue avant les portes ; 3-gen qui ne se termine pas ; perks tueur de fin de partie qui annulent le soin (Terminus rend Broken : pas de soin d'Adrenaline, chapitre 10).
+
+> **À retenir** : une perk d'endgame est une **assurance**. Une seule par build suffit en général [AVIS D'EXPERT] ; deux ou trois transforment le build en pari sur l'arrivée aux portes.
+
+Détail : `kb/research/batch2_perks_surv_p23.md` (Adrenaline), `p24.md` (Hope), `p26.md` (No One Left Behind, Wake Up!, Down to the Last), `p28.md` (Left Behind, Flow State), `p29.md` (Low Profile).
+
+### 9.3.9 Furtivité (stealth)
+
+**À quoi elles servent** : le tueur vous trouve par cinq canaux : la **vue**, le **rayon de terreur** (le sien, pas le vôtre), les **griffures et le sang**, le **son** (gémissements, pas, bruits d'action, notifications) et les **auras**. Une perk de furtivité ferme **un** canal. Ce qui compte, c'est le canal que **votre** tueur utilise.
+
+| Canal fermé | Perks (effet LIVE, conf.) |
+|---|---|
+| **Aura** | Distortion : 1 jeton au départ, max 2, +1 par 15 s de poursuite ; une lecture d'aura consomme un jeton → aura bloquée **et** griffures supprimées 8/10/12 s (SS). Off the Record (après décrochage), Tenacity (à terre), Down to the Last. Boon: Shadow Step : zone de 24 m, griffures supprimées et auras cachées au tueur, 2/3/4 s après la sortie (SS). Self-Preservation : un autre survivant est accroché → **Elusive 20/25/30 s** (VM ; **PTB 10.2.0 : 13/14/15 s**) |
+| **Griffures, sang** | Lucky Break, Parental Guidance (9.3.1). Lightweight : durée des griffures −3/4/5 s, espacement irrégulier (SS ; bug d'espacement signalé depuis 8.6.0, INC). Dance With Me : saut rapide de fenêtre ou sortie rapide de casier → griffures supprimées 5 s, CD 25/20/15 s (SS ; CD du rang I INC). Deception : feinte d'entrée de casier (Loud Noise au casier), griffures et sang supprimés 5 s, CD 25/20/15 s (SS). Poised : 20/25/30 s sans griffures après chaque gen fini (VM). Teamwork: Collective Stealth : après un soin reçu, griffures des deux survivants supprimées tant qu'ils restent à 8/12/16 m (SS). Ghost Notes (Exhausted : griffures qui s'effacent 50 % plus vite) |
+| **Son** | Iron Will (gémissements). Quick & Quiet : saut rapide de palette ou fenêtre, entrée/sortie de casier sans bruit ni Loud Noise, CD 25/20/15 s (SS). Cut Loose : après un saut rapide en poursuite, les sauts rapides suivants sont silencieux 4/5/6 s, CD 45 s (SS). Light-Footed : en bonne santé, pas silencieux en course, CD 14/12/10 s après un saut rapide (VM). Calm Spirit : jamais de cri, corbeaux calmes ; coffres et totems **40/35/30 % plus lents** (VM ; **PTB 10.2.0 : +8/9/10 % à la place**). Teamwork: Soft-Spoken (bruit du gen) |
+| **Déplacement discret** | Urban Evasion : accroupi +90/95/100 % (SS). Fixated : **vitesse de marche** +10/15/20 % (pas un statut Haste) et vous voyez vos griffures (SS). Cross-Examination : dans le TR **hors poursuite**, vous voyez les « Light Marks » du tueur ; dessus, Elusive qui persiste 3/4/5 s (SS) |
+| **Leurres** | Diversion : après 30/25/20 s dans le TR sans poursuite, accroupi, un caillou fait une Loud Noise et de fausses griffures à 20 m (SS). Red Herring : après 1 s de réparation, entrer dans un casier crée une Loud Noise sur ce gen, CD 25/20/15 s (SS). Mirrored Illusion : après 20 %, une illusion statique de vous 40/50/60 s près d'un coffre, gen, totem ou porte ; usage unique (SS) |
+
+**COMMENT** [HEURISTIQUE] : combinez deux canaux **complémentaires** (Lucky Break visuel + Iron Will audio est l'exemple des fiches), et jouez-les **après une rupture de ligne de vue** : aucune perk de furtivité ne vous cache d'un tueur qui vous voit.
+
+**CAS D'ÉCHEC** : ligne de vue directe ; tueurs à aura ou à pouvoir de pistage global ; Distortion qui gâche ses jetons sur des lectures d'aura passives ; Extrasensory Perception ou Cross-Examination qui donnent Elusive mais pas l'invisibilité.
+
+> **Erreur fréquente** : Distortion contre un tueur sans aucune lecture d'aura : 0 déclenchement. Inversement, **un jeton de Distortion qui part est une information** : le tueur a une perk ou un pouvoir d'aura (chapitre 10).
+
+Détail : `kb/research/batch2_perks_surv_p24.md` (Distortion, Quick & Quiet, Deception, Shadow Step), `p25.md` (Urban Evasion, Cross-Examination, Self-Preservation, Dance With Me), `p26.md` (Lightweight, Diversion, Poised), `p27.md` (Light-Footed), `p29.md` (Calm Spirit, Red Herring, Cut Loose).
+
+### 9.3.10 Totems et Boons
+
+**Rappels [FACT] (SS, ch. 2)** : purifier un totem, bénir un totem terne en **14 s** ou un Hex en **28 s** ; une zone de Boon fait **24 m** ; le tueur éteint un Boon en **1 s**. Tous les Boons d'un même joueur partagent **un seul totem** (SS).
+
+| Perk | Effet LIVE (valeurs) | Conf. |
+|---|---|---|
+| **Counterforce** | Purification de base à 125 % ; chaque totem purifié : +25 % cumulable et aura du totem le plus éloigné 10/12/14 s | VM |
+| **Small Game** | Cône de 45° à 8/10/12 m : signal quand un totem (tout type) s'y trouve ; CD 14/12/10 s ; le cône se resserre de 5° par totem purifié (max −25°) | SS (**PTB 10.2.0 : aura des totems à 10/11/12 m**) |
+| **Detective's Hunch** | Après chaque gen : coffres, gens et totems à 32/48/64 m, 20 s | VM |
+| **Boon: Dark Theory** | Zone : +3 % de Haste, 2/3/4 s après la sortie | SS |
+| **Boon: Illumination** | Zone : auras de tous les coffres et gens (bleu) ; tant que votre Boon brûle, bénir et purifier +6/8/10 % | VM (**PTB 10.2.0 : bénir +150/175/200 %, plus de bonus de purification**) |
+| Circle of Healing, Shadow Step, Exponential, Steadfast | voir 9.3.4, 9.3.9, 9.3.7, 9.3.3 | SS/VM |
+| Inner Strength, Overzealous, Clairvoyance, Hardened, Lend a Hand | perks qui **s'activent** par un totem (9.3.4, 9.3.3, 9.3.2 ; Lend a Hand : après un totem, une fois par allié, +2/3/4 charges de soin permanentes pendant que vous le soignez, SS) | SS/VM |
+
+**POURQUOI / QUAND** [HEURISTIQUE] : un Boon rapporte s'il **oblige le tueur à un détour** (1 s pour l'éteindre, mais il doit venir). Posez-le près des gens que vous défendez ou d'une zone de soin, pas sur le chemin du tueur. Un Hex purifié **coupe une perk** du tueur ; le béni en fait un Boon (28 s au lieu de 14 s).
+
+**CAS D'ÉCHEC** : **Shattered Hope** (perk tueur) détruit le Boon et révèle les survivants dans sa zone (fiches) ; tueur qui éteint systématiquement ; plus de totems disponibles en fin de partie (Inner Strength, Clairvoyance, Lend a Hand se vident).
+
+Détail : `kb/research/batch2_perks_surv_p24.md` (Boons), `p25.md` (Counterforce), `p26.md` (Detective's Hunch), `p27.md` (Dark Theory, Clairvoyance, Overzealous), `p28.md` (Illumination, Lend a Hand), `p29.md` (Small Game, Hardened).
+
+### 9.3.11 Objets et coffres (bref)
+
+Ces perks transforment du **temps de coffre** en objets ou en progression. Elles coûtent du temps de gen : leur place est dans les parties sans forte pression ou dans un build dédié [HEURISTIQUE].
+
+| Perk | Effet LIVE court | Conf. |
+|---|---|---|
+| Plunderer's Instinct | Auras des coffres et objets à 32/48/64 m ; +50 % de chance de rareté supérieure | VM |
+| Appraisal | 4 jetons ; fouiller un coffre ouvert et vide (2 fois max par coffre) ; fouille +40/60/80 % | VM |
+| Pharmacy | Déverrouillage +75/100/125 %, bruit −12 m, Emergency Med-Kit garanti | VM |
+| Ace in the Hole | Objet de coffre : 1er add-on garanti (≤ Ultra Rare), 2e à 50/75/100 % (≤ Uncommon) ; add-ons gardés en cas de fuite | SS |
+| Built to Last | Casier avec objet vide, 14/12/10 s → recharge 99 / 66 / 33 % ; 3 usages | **VP** (le wiki dit 12/10/8 s, valeur du PTB 9.1.0) |
+| Streetwise | Objets de coffre +60/70/80 % de charges ; aura du tueur 8 s au premier objet vidé | VM |
+| Exultation | Stun de palette avec un objet en main : +75 % de charges et rareté supérieure (conservée à la fuite) ; CD 30/25/20 s | VM |
+| Change of Plan | 2 jetons : dans un casier, boîte à outils non-événement → Med-Kit de même rareté, 80/90/100 % de charges | VM |
+| Scavenger, Residual Manifest, Apocalyptic Ingenuity | voir inventaire (9.7) | SS/VM |
+
+### 9.3.12 SoloQ contre SWF
+
+**Le principe** [HEURISTIQUE] : le vocal d'un SWF remplace la plupart des perks d'information alliée ; il **débloque** en revanche les perks à déclenchement coordonné. La SoloQ a besoin d'**autonomie** (perks qui ne dépendent de personne) et d'**information** (perks qui remplacent le vocal).
+
+| Famille | Valeur en SoloQ | Valeur en SWF | Pourquoi |
+|---|---|---|---|
+| Info sur les alliés (Kindred, Bond, Empathy, Better Together, Aftercare, Salvation's Cry) | Forte | Faible | Le vocal donne déjà ces positions |
+| Info sur le tueur (Alert, Inner Focus, Spine Chill) | Forte | Moyenne | Au vocal, un allié en chase annonce déjà le tueur |
+| Autonomie (Self-Care, Deliverance, Unbreakable, Inner Strength, Resurgence) | Forte | Moyenne | Personne ne garantit votre sauvetage en SoloQ |
+| Anti-tunnel personnel (Will to Live, Off the Record) | Forte | Forte | Le tunnel frappe les deux files |
+| Coordination (Teamwork: Throw Down, Toughen Up, Full Circuit, Soft-Spoken, Collective Stealth, Power of Two, Blood Pact, Background Player, Breakout, Saboteur, Mettle of Man) | Faible | Forte | Déclenchement par un allié à un moment précis |
+| Gens en groupe (Prove Thyself, Friendly Competition, Bardic Inspiration, ONE-TWO-THREE-FOUR!) | Faible | Moyenne à forte | La SoloQ se disperse ; le SWF peut grouper volontairement |
+| Correction des alliés (Corrective Action) | Forte | Moyenne | Couvre les ratés d'alliés que vous ne connaissez pas |
+
+> **Erreur fréquente** : jouer en SoloQ le build de son SWF. Les perks « Teamwork » et de portage y deviennent des slots morts : personne ne sait qu'il doit déclencher votre perk.
+
+---
+
