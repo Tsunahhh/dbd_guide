@@ -82,6 +82,11 @@ Repères chiffrés utilisés partout : survivant **4,0 m/s** en course ; tueur �
 
 **Quand le counterplay habituel échoue** : rang S en endgame, portes alimentées → le « jouer la montre » ne marche plus, éviter les longues lignes vers la sortie. Sur map intérieure (LOS courtes), sa valeur chute : ne pas sur-jouer la prudence au prix des gens [HEURISTIQUE].
 
+**Implications de carte** [HEURISTIQUE]
+
+- Maps ouvertes et longues fenêtres vues de loin = avantage tueur ; intérieurs et maps encombrées (The Game, Midwich, RPD…) = sa valeur chute (ch. 5 §5.3.4).
+- Trickster's Delusion (Sleepless District, 9.5.0) : ruelles et bâtiments serrés, LOS courtes, mais aucune donnée de tiles lue **[INCERTAIN]**.
+
 **Add-ons qui changent la décision**
 
 | Add-on | Effet LIVE | Décision du survivant |
@@ -92,6 +97,11 @@ Repères chiffrés utilisés partout : survivant **4,0 m/s** en course ; tueur �
 | Edge of Revival Album | Touches à > 20 m : Laceration doublée | Couper la LOS au lieu de fuir en ligne droite |
 | Bloody Boa | Décroissance de Laceration −75 % | Traiter la jauge comme quasi permanente : se soigner ou jouer safe au lieu d'attendre |
 | Waiting For You Watch | Aura révélée 10 s quand la Laceration retombe à 0 | Ne pas être près d'un gen ou d'un blessé au moment où la jauge se vide |
+
+**Perks / synergies à anticiper**
+
+- Ses perks : **Hex: Crowd Control** (Hex allumé à ton 1er fast vault ; les fenêtres franchies en fast vault restent bloquées) → synergie directe avec ses touches sur vault : éviter les fast vaults inutiles, purifier le Hex ; **No Way Out** (les deux interrupteurs bloqués au 1er contact) → toucher l'interrupteur puis s'éloigner.
+- Slowdown cité par le seed (Pain Resonance, Grim Embrace, Pop) : usage **[INCERTAIN]**, à confirmer au hook (cri + explosion, blocage global) → ch. 10 §10.4-10.6.
 
 > **À retenir** : contre le Trickster, la distance ne sauve pas, la LOS oui. Surveille ta jauge comme un état de santé, et disperse l'équipe dès la notification de rang S.
 
@@ -131,6 +141,11 @@ Détail : `kb/research/batch4_killers_g4.md` §23.
 
 **Quand le counterplay habituel échoue** : en MR3, la boucle sur petite tile échoue presque toujours → enchaîner les tiles, utiliser la hauteur et la LOS. Un zombie peut fermer l'unique sortie d'une tile : vérifier sa position avant d'engager [HEURISTIQUE].
 
+**Implications de carte** [HEURISTIQUE]
+
+- Maps riches en petites tiles = tentacule avantagé ; gros bâtiments et murs hauts = avantage survivant.
+- Intérieurs à couloirs et portes (RPD, The Game, Midwich) : les zombies y gênent davantage → repérer leur position avant d'entrer dans un couloir.
+
 **Add-ons qui changent la décision**
 
 | Add-on | Effet LIVE | Décision du survivant |
@@ -141,6 +156,11 @@ Détail : `kb/research/batch4_killers_g4.md` §23.
 | Iridescent Umbrella Badge | Exposed 60 s après un vaccin | Vacciner loin de lui et hors chase |
 | Ne-α Parasite | Oblivious 60 s après contamination | Surveiller visuellement au lieu de se fier au TR |
 | Licker Tongue | Hindered porté à 3 s | Éviter la première touche près d'un mur |
+
+**Perks / synergies à anticiper**
+
+- Ses perks : **Eruption** (au down, cri + recul d'un gen déjà kické, même loin), **Hysteria** (Oblivious chez les blessés quand un sain est blessé → surveiller visuellement), **Lethal Pursuer** (droit sur toi au spawn → spawn près d'une structure forte).
+- Seed : Pain Resonance, Grim Embrace, Pop (usage **[INCERTAIN]**). Signaux et conduites : ch. 10 §10.4, combos §10.6.
 
 **Perk à connaître** : **Eruption** LIVE = **−10 %** (VM) : le passage à −5 % annoncé pour 9.2.0 a été **reporté** (« Postponed ») et n'est jamais entré en LIVE.
 
@@ -180,6 +200,10 @@ Détail : `kb/research/batch4_killers_g4.md` §24.
 
 **Quand le counterplay habituel échoue** : avec des add-ons de portée, « coller le décor » ne suffit plus → préférer les murs hauts aux objets bas [HEURISTIQUE].
 
+**Implications de carte** [HEURISTIQUE]
+
+- Maps intérieures ou encombrées (Midwich, Underground Complex, RPD, Treatment Theatre) = chaîne très gênée par le décor → avantage survivant ; maps ouvertes = avantage tueur (ch. 5 §5.3.4).
+
 **Add-ons qui changent la décision**
 
 | Add-on | Effet LIVE | Décision du survivant |
@@ -190,6 +214,11 @@ Détail : `kb/research/batch4_killers_g4.md` §24.
 | Slice of Frank | Porteur de la boîte Exhausted | Résoudre loin de lui, sans compter sur une perk d'exhaustion |
 | Iridescent Lament Configuration | Boîte invisible à > 24 m hors Chain Hunt | Se répartir pour la trouver au lieu d'attendre de la voir |
 | Chatterer's Tooth | Il voit l'aura de la boîte ; ramassage = Undetectable 25 s (qui ramasse : texte ambigu) [INCERTAIN] | Ne pas laisser la boîte près de lui ; s'attendre à une approche sans TR |
+
+**Perks / synergies à anticiper**
+
+- Ses anciennes perks, générales depuis 9.0.0 : **No Holds Barred** (gen le plus avancé bloqué quand un autre est terminé), **Hex: Fortune's Fool** (Oblivious + Hex après ton 1er hook), **Weeping Wounds** (Haemorrhage seule au décrochage d'un crochet Fléau) → à anticiper chez **n'importe quel** tueur.
+- Seed : Pain Resonance, Grim Embrace, Lethal Pursuer (usage **[INCERTAIN]**) ; Lethal Pursuer + chaîne = première chase immédiate en terrain découvert [HEURISTIQUE] → ch. 10 §10.4.
 
 Détail : `kb/research/batch4_killers_g4.md` §25.
 
@@ -227,6 +256,11 @@ Détail : `kb/research/batch4_killers_g4.md` §25.
 
 **Quand le counterplay habituel échoue** : le réflexe « LOS » contre les ranged ne marche pas. La protection vient du changement de direction, de la lecture des auras et de l'absence de statut Swarmed → retirer l'essaim passe plus haut dans les priorités que contre un autre tueur [HEURISTIQUE].
 
+**Implications de carte** [HEURISTIQUE]
+
+- Maps ouvertes et longues (champs) = avantage tueuse ; maps très coudées, où l'on change souvent de direction = mieux pour le survivant.
+- Un intérieur ne l'affaiblit **pas** comme un ranged classique : les Swarms traversent les murs (Dead Dawg et ses murs cassables : Artist citée parmi les tueurs aidés, ch. 5).
+
 **Add-ons qui changent la décision**
 
 | Add-on | Effet LIVE | Décision du survivant |
@@ -240,6 +274,11 @@ Détail : `kb/research/batch4_killers_g4.md` §25.
 | Ink Egg | +1 corbeau | Compter 4 corbeaux par volée |
 
 > **Erreur fréquente** : il n'existe **aucun** add-on de « vitesse de corbeau » (affirmation du seed, fausse).
+
+**Perks / synergies à anticiper**
+
+- Ses perks : **Pain Resonance + Grim Embrace**, combo type (ch. 10 §10.6) : explosion du gen le plus avancé au hook, puis blocage global quand elle s'éloigne → pas de gen très avancé isolé au 1er hook ; profiter des blocages pour se déplacer ou sauver.
+- **Hex: Pentimento** : un totem purifié qui se rallume ; les totems ravivés ralentissent réparation et soin (aura visible à ≤ 16 m) et chacun ne peut être ravivé qu'une fois → les re-purifier (bénédiction : CONFLICT-L4G4-05, **[INCERTAIN]**).
 
 Détail : `kb/research/batch4_killers_g4.md` §26.
 
@@ -277,6 +316,11 @@ Détail : `kb/research/batch4_killers_g4.md` §26.
 
 **Quand le counterplay habituel échoue** : « pas de TR = pas de tueur » échoue totalement. Contre **Iridescent Videotape**, la gestion des TV perd sa valeur : les gens reprennent la priorité.
 
+**Implications de carte** [HEURISTIQUE]
+
+- Maps sombres et encombrées (Swamp, Yamaoka, Red Forest) et intérieurs à coins (Midwich, The Game) = furtivité renforcée.
+- Maps claires ou ouvertes (Mount Ormond Resort, Coldwind hors maïs) : approche plus lisible, mais **à ≤ 24 m seulement** (au-delà, elle reste invisible partout).
+
 **Add-ons qui changent la décision**
 
 | Add-on | Effet LIVE | Décision du survivant |
@@ -287,6 +331,11 @@ Détail : `kb/research/batch4_killers_g4.md` §26.
 | Distorted Photo | Survivants à ≤ 16 m qui la voient se manifester : cri + aura 4 s | S'éloigner dès qu'elle clignote au lieu de la regarder |
 | Remote Control | Auras à ≤ 12 m d'une TV allumée 7 s après une projection | Éviter les abords des TV au lieu de s'y cacher |
 | Yoichi's Fishing Net | Blindness dès 4 stacks | Surveiller visuellement à 4+ stacks |
+
+**Perks / synergies à anticiper**
+
+- Ses perks : **Call of Brine** (retour pile après un Good, jamais après un Great → viser les Great), **Merciless Storm** (rafale de skill checks à 90 % ; raté ou arrêt = gen bloqué), **Floods of Rage** (droit sur un tiers au décrochage d'un crochet Fléau).
+- Synergie [HEURISTIQUE] : une rafale de Merciless Storm cloue le réparateur à son gen, exactement ce qu'exploite une Onryō démanifestée → checks visuels avant d'atteindre 90 % (ch. 10 §10.4).
 
 **Perk à connaître** : **Call of Brine** LIVE = régression 130/140/150 % pendant **90 s** (was 70 s, 10.1.0) (VM).
 
@@ -324,6 +373,11 @@ Détail : `kb/research/batch4_killers_g4.md` §27.
 
 **Quand le counterplay habituel échoue** : sur map intérieure pleine de casiers, verrouiller ne suffit pas → jouer les tiles extérieures ; Nightfall en endgame → se rapprocher des portes avant.
 
+**Implications de carte** [HEURISTIQUE]
+
+- Treatment Theatre, Underground Complex, RPD et mains chargés = beaucoup de casiers → avantage tueur ; maps extérieures ouvertes à peu de casiers = moins de mobilité (ch. 5 §5.3.4).
+- Les retouches de cartes 9.2.0 ont ajouté des casiers : ne pas se fier à un vieux souvenir de la carte.
+
 **Add-ons qui changent la décision**
 
 | Add-on | Effet LIVE | Décision du survivant |
@@ -334,6 +388,11 @@ Détail : `kb/research/batch4_killers_g4.md` §27.
 | Boat Key | Verrous cassés quand les portes sont alimentées | Ne plus compter sur les verrous en endgame |
 | Sacrificial Knife | En Nightfall, vaults bloqués 5 s à ≤ 16 m du casier dont il sort | Quitter la zone au lieu de viser la fenêtre proche |
 | Tilling Blade | Blindness + Haemorrhage + Mangled 80 s si blessé en Nightfall | Éviter tout coup pendant la nuit |
+
+**Perks / synergies à anticiper**
+
+- Ses perks : **Darkness Revealed** (après une fouille de casier, auras des survivants à ≤ 8 m de **n'importe quel** casier) → synergie directe avec ses téléportations : ne pas réparer ni attendre près d'un casier ; **Septic Touch** (soin dans le TR → Blindness + Exhausted) → se soigner hors TR, surtout en Nightfall.
+- **Dissolution** (valeur LIVE ci-dessous) : palette qui se brise sous toi en fast vault après un coup → ch. 10 §10.4.
 
 **Perk à connaître** : **Dissolution** LIVE = n'importe quel dégât, **12/16/20 s** (le texte « attaque de base, 13/14/15 s » affiché par le wiki est le **PTB 10.2.0 — non LIVE**) (VP).
 
@@ -374,6 +433,11 @@ Détail : `kb/research/batch4_killers_g4.md` §28.
 
 **Quand le counterplay habituel échoue** : sur maps ouvertes, le tile-to-tile échoue souvent → préférer les zones denses même avec moins de palettes. Avec **Lab Photo**, retour au schéma « pré-drop + départ ».
 
+**Implications de carte** [HEURISTIQUE]
+
+- Maps ouvertes = bonds en ligne droite très forts ; intérieurs étroits = bonds bloqués par le décor.
+- Grandes cartes (≥ 160 sqT) : sa mobilité compresse les rotations, des gens éloignés protègent moins que contre un M1 (ch. 5 §5.3.1).
+
 **Add-ons qui changent la décision**
 
 | Add-on | Effet LIVE | Décision du survivant |
@@ -384,6 +448,11 @@ Détail : `kb/research/batch4_killers_g4.md` §28.
 | Loose Crank | +15 % pendant la fenêtre du 2e bond | Garder plus de distance après le 1er bond |
 | Maiden Medallion / Uroboros Virus | Blindness 60 s / aura 4 s en infection critique | Se soigner avant 100 |
 | Helicopter Stick / Bullhorn | Aura 8 s / Oblivious 30 s après un spray | Utiliser le spray loin de sa zone de réparation |
+
+**Perks / synergies à anticiper**
+
+- Ses perks : **Awakened Awareness** (auras des survivants proches quand il porte → rester loin du porteur et des crochets), **Terminus** (Broken aux portes → se soigner avant le dernier gen), **Superior Anatomy** (ci-dessous).
+- Seed : Pain Resonance, Brutal Strength, Pop, Lethal Pursuer (usage **[INCERTAIN]**) ; Brutal Strength se soupçonne à une casse de palette « trop rapide » → ch. 10 §10.4.
 
 **Perk à connaître** : **Superior Anatomy** LIVE = après ton vault rapide (ou moyen) à ≤ 12 m de lui, son **prochain** vault est 30/35/40 % plus rapide (un seul vault), cooldown 25 s (VM) ; l'effet actif pendant 10 s avec un cooldown de 20 s affiché par le wiki est le **PTB 10.2.0 — non LIVE**.
 
@@ -425,6 +494,10 @@ Détail : `kb/research/batch4_killers_g4.md` §29.
 
 **Quand le counterplay habituel échoue** : contre **Iridescent Company Banner**, les fenêtres ne sont plus fiables → palettes et changements de tile.
 
+**Implications de carte** [HEURISTIQUE]
+
+- Maps ouvertes = longues patrouilles efficaces ; maps intérieures = tracés gênés (le handbook §3 classe l'intérieur ↑ survivant contre le Knight).
+
 **Add-ons qui changent la décision**
 
 | Add-on | Effet LIVE | Décision du survivant |
@@ -435,6 +508,11 @@ Détail : `kb/research/batch4_killers_g4.md` §29.
 | Grim Iron Mask / Ironworker's Tongs | Blindness 75 s / Oblivious 60 s | Surveiller visuellement |
 | Sharpened Mount | Étendards 15 % plus lents à apparaître | Partir vers l'étendard un peu plus tard |
 | Dried Horsemeat / Tattered Tabard | Chasse +4 s / patrouille +8 s | Compter des durées plus longues |
+
+**Perks / synergies à anticiper**
+
+- Ses perks : **Nowhere to Hide** (auras autour du gen kické, valeur ci-dessous) ; **Hubris** (Exposed juste après l'avoir étourdi → un stun seulement avec une vraie avance) ; **Hex: Face the Darkness** (cris périodiques hors TR tant qu'un coéquipier reste blessé → soigner le blessé, surtout après un Deep Wound d'Assassin).
+- Seed : Pain Resonance, Grim Embrace, Pop, Lethal Pursuer (usage **[INCERTAIN]**) → ch. 10 §10.4.
 
 **Perk à connaître** : **Nowhere to Hide** LIVE = **24 m**, 3/4/5 s ; le « 18 m » du seed était la valeur PTB 10.1.0 (VM).
 
@@ -474,6 +552,11 @@ Détail : `kb/research/batch4_killers_g4.md` §30.
 
 **Erreurs classiques** [HEURISTIQUE] : tenir une boucle « safe » sous un drone ; compter sur le fast vault ; croire « pas de TR = elle est loin » après un rappel.
 
+**Implications de carte** [HEURISTIQUE]
+
+- Petites maps et gens proches = zone de drones plus dense ; maps à étages : **aucun scan à travers les planchers** → un main à étage est un refuge contre le Lock-On.
+- Pas de royaume propre (son camp est sur Shelter Woods) : rien de spécifique à préparer côté carte.
+
 **Add-ons qui changent la décision**
 
 | Add-on | Effet LIVE | Décision du survivant |
@@ -483,6 +566,11 @@ Détail : `kb/research/batch4_killers_g4.md` §30.
 | Low-Power Mode | Lignes **immobiles** | Contourner le faisceau fixe |
 | Geographical Readout | Casse et vault +20 % 8 s après une pose | Quitter la palette au lieu de la faire casser juste après une pose |
 | Powdered Glass / Loose Screw | Haemorrhage + Mangled / Exhausted 6 s pour les Claw-trapped | Éviter le coup, ne pas compter sur sa perk d'exhaustion |
+
+**Perks / synergies à anticiper**
+
+- Ses perks : **THWACK!** (cri au bruit d'une palette ou d'un mur cassé, ≤ 36 m, sans Hindered → repérer l'endroit avant de se cacher), **Leverage** (le sauveteur soigne lentement après un décrochage), **Game Afoot** (plus rapide en chassant l'Obsession après une casse ou un kick). La page wiki affiche leurs versions PTB 10.2.0 — non LIVE : valeurs au ch. 10 §10.10.
+- Seed : Pain Resonance, Grim Embrace, Pop, Lethal Pursuer (usage **[INCERTAIN]**) → ch. 10 §10.4.
 
 Détail : `kb/research/batch4_killers_g5.md` §31.
 
@@ -517,6 +605,10 @@ Détail : `kb/research/batch4_killers_g5.md` §31.
 
 **Erreurs classiques** [HEURISTIQUE] : rester dans la LOS d'un pod à < 20 m ; réparer à plusieurs dans la vue d'un pod ; utiliser l'EMP sans rien à nettoyer.
 
+**Implications de carte** [HEURISTIQUE]
+
+- Maps à murs hauts et nombreuses surfaces = meilleur réseau de pods ; maps ouvertes = longues LOS vers les pods → dans les deux cas, repérer les pods en hauteur avant de s'installer sur un gen.
+
 **Add-ons qui changent la décision**
 
 | Add-on | Effet LIVE | Décision du survivant |
@@ -526,6 +618,11 @@ Détail : `kb/research/batch4_killers_g5.md` §31.
 | Nutritional Slurry | +2 pods | Changer de zone au lieu de casser toutes les LOS |
 | Foreign Plant Fibres | Pénalité d'Overheat réduite de 20 % | La palette sur un Overclock rapporte moins de 5 m |
 | Cremated Remains / Spent Oxygen Tank | Slipstreamed = Blindness / Exhausted 6 s | Après un tag, ne compter ni sur ses auras ni sur sa perk d'exhaustion |
+
+**Perks / synergies à anticiper**
+
+- Ses perks : **Machine Learning** (TR disparu quand tu termines un gen qu'il avait kické, + Haste → s'attendre à une arrivée rapide sans TR), **Genetic Limits** (Exhausted en perdant un état de santé → garder la perk d'exhaustion pour plus tard), **Forced Hesitation** (Hindered quand un coéquipier tombe près de toi → s'écarter de la chase d'un allié).
+- Seed : Pain Resonance, Grim Embrace, Pop, Lethal Pursuer (usage **[INCERTAIN]**) → ch. 10 §10.4.
 
 Détail : `kb/research/batch4_killers_g5.md` §32.
 
@@ -561,6 +658,11 @@ Détail : `kb/research/batch4_killers_g5.md` §32.
 
 **Quand le counterplay habituel échoue** : s'il détruit toutes les tourelles, les poser par paires ou derrière un obstacle ; une tourelle seule surchauffe.
 
+**Implications de carte** [HEURISTIQUE]
+
+- Nostromo Wreckage est dans le pool 1v4 ; la position des 7 Control Stations dépend de la carte (non vérifiée) → repérer celles proches des gens au premier passage.
+- Maps riches en jungle gyms courts, L-T et palettes basses = queue avantagée (handbook §3) ; murs hauts pleins = queue obstruée.
+
 **Add-ons qui changent la décision**
 
 | Add-on | Effet LIVE | Décision du survivant |
@@ -570,6 +672,11 @@ Détail : `kb/research/batch4_killers_g5.md` §32.
 | Ripley's Watch | Tourelle autodétruite après l'avoir sorti du Crawler | Aller chercher une nouvelle tourelle après chaque sortie |
 | Crew Headset | Détection des pas à 22 m | S'accroupir plus tôt près des stations |
 | Kane's Helmet / Multipurpose Hatchet | Mangled 70 s / Haemorrhage sur coup de queue | Soigner près d'une tourelle, finir le soin |
+
+**Perks / synergies à anticiper**
+
+- Ses perks : **Ultimate Weapon** (cri + Blindness quand il fouille un casier, ≤ 40 m du casier → un cri sans chase trahit la perk), **Alien Instinct** (Oblivious au hook d'un autre si tu es blessé et le plus loin), **Rapid Brutality** (Haste sur coup, sans Bloodlust).
+- **Bamboozle** (seed, usage **[INCERTAIN]**) : fenêtre bloquée pour tous dès son 1er saut ; avec la queue, les fenêtres deviennent fragiles → jouer murs hauts et tourelles (ch. 10 §10.4).
 
 Détail : `kb/research/batch4_killers_g5.md` §33.
 
@@ -605,6 +712,11 @@ Détail : `kb/research/batch4_killers_g5.md` §33.
 
 **Fenêtre à exploiter** : après un dash raté, 2,25 s ; ensuite Hidey-Ho met 12 s à revenir : c'est le moment de changer de tile [SITUATIONNEL].
 
+**Implications de carte** [HEURISTIQUE]
+
+- Maps encombrées (hautes herbes, décor dense) = sa petite taille l'avantage ; maps ouvertes = tu le vois venir.
+- Coldwind : lumineuse hors maïs, mais le maïs inverse la lecture (ch. 5 §5.3.4).
+
 **Add-ons qui changent la décision**
 
 | Add-on | Effet LIVE | Décision du survivant |
@@ -615,6 +727,11 @@ Détail : `kb/research/batch4_killers_g5.md` §33.
 | Silk Pillow | TR −6 m permanent (26 m) | Ne pas juger la distance au TR |
 | Plastic Bag | Traverser un faux pas = Exhausted 15 s | Ne pas compter sur sa perk d'exhaustion en Hidey-Ho |
 | Straight Razor | Haemorrhage + Mangled 80 s sur coup de dash | Reporter le soin ou se soigner loin |
+
+**Perks / synergies à anticiper**
+
+- Ses perks : **Friends 'til the End** (Obsession Exposed quand un autre est accroché), **Hex: Two Can Play** (écran blanc après un stun ou un flash ; Hex allumé après 4/3/2 stuns ou blinds → compter les stuns de l'équipe), **Batteries Included** (plus rapide près des gens terminés).
+- Synergie [HEURISTIQUE] : FTTE + Hidey-Ho sans TR = une Obsession Exposed qui ne le voit pas venir → pendant un hook, l'Obsession évite de réparer seule (ch. 10 §10.4).
 
 Détail : `kb/research/batch4_killers_g5.md` §34.
 
@@ -649,6 +766,11 @@ Détail : `kb/research/batch4_killers_g5.md` §34.
 
 **Quand le counterplay habituel échoue** : déjà Weakened, tu n'as plus la marge d'une première explosion → murs hauts ou changement de zone au lieu de tenir le tile.
 
+**Implications de carte** [HEURISTIQUE]
+
+- Maps ouvertes = portée maximale ; étages favorables à ses tirs (visée verticale élargie en 9.2.0).
+- Intérieurs à plafond bas = moins de tirs en cloche : non vérifié **[INCERTAIN]**.
+
 **Add-ons qui changent la décision**
 
 | Add-on | Effet LIVE | Décision du survivant |
@@ -659,6 +781,11 @@ Détail : `kb/research/batch4_killers_g5.md` §34.
 | Iridescent OSS Report | Téléportation 20 s ; Decoys 15 s avec TR et Red Stain | Vérifier visuellement avant de fuir un TR près d'une hallucination |
 | Homemade Mask / Punctured Eyeball | Dispel réussi = Blindness 60 s / Deep Wound si blessé et Weakened | Dissiper seulement sain et non-Weakened |
 | B-Movie Poster | Blessure par UVX = Broken 30 s | Pas de soin immédiat après une blessure UVX |
+
+**Perks / synergies à anticiper**
+
+- Ses perks : **Unforeseen** (TR fixe centré sur un gen kické → un TR soudain sur ce gen n'est pas forcément lui ; synergie avec sa téléportation [HEURISTIQUE]), **Unbound**, **Undone** (valeurs LIVE en partie **[INCERTAIN]** ; Undone retravaillée au PTB 10.2.0 — non LIVE : ne retenir que le principe).
+- Seed : Pain Resonance, Pop, Lethal Pursuer (usage **[INCERTAIN]**) → ch. 10 §10.4.
 
 Détail : `kb/research/batch4_killers_g5.md` §35.
 
@@ -694,6 +821,11 @@ Détail : `kb/research/batch4_killers_g5.md` §35.
 
 **Erreurs classiques** [HEURISTIQUE] : attendre à la palette debout jusqu'au dernier moment avec Mage Hand prêt ; courir debout face aux entités ; rester près d'une palette relevée sans la rabaisser. Contre un Lich qui **garde** Mage Hand en attendant ton pré-drop : varier (départ sans drop, fenêtre).
 
+**Implications de carte** [HEURISTIQUE]
+
+- Maps ouvertes = Fly et Flight of the Damned plus forts ; sur terrain en pente, l'accroupissement ne protège peut-être pas (le texte dit « terrain plat »).
+- Tiles à palette unique (pallet gyms) = cible idéale de Mage Hand (handbook §3).
+
 **Add-ons qui changent la décision**
 
 | Add-on | Effet LIVE | Décision du survivant |
@@ -704,6 +836,11 @@ Détail : `kb/research/batch4_killers_g5.md` §35.
 | Cloak of Invisibility | 4 sorts en cooldown = Undetectable 20 s | Après une rafale de sorts, attendre une approche sans TR |
 | Staff of Withering | Entrer dans la Sphere = Exhausted 30 s | Après un Killer Instinct de Sphere, ne pas compter sur sa perk d'exhaustion |
 | Ring of Spell Storing / Pearl of Power | −1 s / −2 s sur les recharges | Effet faible : ajuster le suivi, pas la stratégie |
+
+**Perks / synergies à anticiper**
+
+- Ses perks : **Weave Attunement** (aura d'objets au sol, Oblivious au ramassage) → synergie avec ses coffres et objets : ignorer les objets au sol ; **Languid Touch** (Exhausted après un envol de corbeaux → marcher autour des corbeaux) ; **Dark Arrogance** (vaults plus rapides mais stuns plus longs ; valeurs LIVE suspectes **[INCERTAIN]**).
+- Seed : Pain Resonance, Surge, Dead Man's Switch, Barbecue & Chilli (usage **[INCERTAIN]**) → ch. 10 §10.4.
 
 Détail : `kb/research/batch4_killers_g5.md` §36.
 
@@ -739,6 +876,11 @@ Détail : `kb/research/batch4_killers_g5.md` §36.
 
 **Erreurs classiques** [HEURISTIQUE] : rester dans l'axe d'un vampire qui charge ; tenir une palette abaissée seule contre un loup au Pounce prêt ; se croire loin parce que la berceuse l'est (une téléportation couvre 32 m).
 
+**Implications de carte** [HEURISTIQUE]
+
+- Maps denses en palettes et fenêtres = plus de points d'arrivée pour la chauve-souris.
+- Obstacles bas (murets, Cow Tree de Coldwind) : l'Hellfire passe au-dessus → privilégier les obstacles hauts.
+
 **Add-ons qui changent la décision**
 
 | Add-on | Effet LIVE | Décision du survivant |
@@ -749,6 +891,11 @@ Détail : `kb/research/batch4_killers_g5.md` §36.
 | Pocket Watch | Téléportation rechargée après une casse de palette | S'attendre à une nouvelle arrivée sur la ressource suivante |
 | Lapis Lazuli / Medusa's Hair | Fenêtre bloquée 8 s / Hindered 8 % près de la destination | S'éloigner de la ressource où la chauve-souris arrive |
 | Moonstone Necklace | TR 24 m en vampire et loup | Ne pas juger la distance au TR |
+
+**Perks / synergies à anticiper**
+
+- Ses perks : **Dominance** (1er coffre ou totem touché aussitôt bloqué → ta position est connue : partir), **Human Greed** (coffres refermés), **Hex: Wretched Fate** (réparation lente de l'Obsession seule après le 1er gen → chercher le totem).
+- Seed : Pain Resonance, Grim Embrace, Pop, Lethal Pursuer (usage **[INCERTAIN]**) → ch. 10 §10.4.
 
 Détail : `kb/research/batch4_killers_g5.md` §37.
 
@@ -785,6 +932,10 @@ Détail : `kb/research/batch4_killers_g5.md` §37.
 
 **Quand le counterplay habituel échoue** : « courir loin pour étirer la chase » échoue : la distance en open est exactement sa portée idéale → pre-run vers la structure suivante pour offrir le moins de ligne droite possible.
 
+**Implications de carte** [HEURISTIQUE]
+
+- Fort sur les maps ouvertes aux longues lignes (Coldwind, Red Forest selon la génération) ; plus faible sur les intérieurs denses en angles, **sauf** longs couloirs droits (Underground Complex, RPD, The Game).
+
 **Add-ons qui changent la décision**
 
 | Add-on | Effet LIVE | Décision du survivant |
@@ -793,6 +944,11 @@ Détail : `kb/research/batch4_killers_g5.md` §37.
 | Marlinspike | Houndsense à tous les survivants à ≤ 20 m du chien lors d'une prise | Le sauveteur décide en sachant qu'il prendra Houndsense |
 | Iridescent Wheel Handle | Portia Undetectable pendant la Search Command | Ne plus lire la berceuse du chien comme « Portia est loin » |
 | Spiked Collar | Blessé pendant la prise = Haemorrhage + Mangled 60 s | Finir la chase avant de soigner |
+
+**Perks / synergies à anticiper**
+
+- Seed : Pain Resonance, Surge, Dead Man's Switch, Barbecue & Chilli, All-Shaking Thunder (usage **[INCERTAIN]**). Contre DMS **suspecté** : après un hook, lâcher d'abord un gen peu avancé.
+- Ses perks : **All-Shaking Thunder** (fente très longue quand il vient de sauter d'un étage), **Scourge Hook: Jagged Compass** (droit au gen le plus avancé après un hook sur crochet Fléau → ne pas y rester seul), No Quarter (ci-dessous) → ch. 10 §10.4.
 
 **Perk à connaître** : No Quarter (auto-soin à 75 % → skill checks en continu, raté = Broken) → ne lancer un auto-soin que si tu peux le finir.
 
@@ -831,6 +987,10 @@ Détail : `kb/research/batch4_killers_g6.md` §38.
 
 **Quand le counterplay habituel échoue** : « tenir la boucle de palette » échoue tant qu'il a des tokens → penser en fenêtres de recharge (≈ 8 s / ≈ 7,5 s). Un marqué en bonne position peut étirer la chase plutôt que chercher un mend risqué [SITUATIONNEL].
 
+**Implications de carte** [HEURISTIQUE]
+
+- Très fort en open et sur les maps à plusieurs étages (bonds jusqu'à 8 m de dénivelé) ; plus faible sur les intérieurs denses à murs hauts, même si la verticalité intérieure l'aide.
+
 **Add-ons qui changent la décision**
 
 | Add-on | Effet LIVE | Décision du survivant |
@@ -839,6 +999,11 @@ Détail : `kb/research/batch4_killers_g6.md` §38.
 | Hinami's Umbrella | +10 s de Countdown par grab parfait (60 s) | Mender plus tôt |
 | Yamori's Mask | Accrocher en Enragé révèle 3 s les survivants à > 40 m | Rester à ≤ 40 m, derrière un obstacle, pendant un crochet |
 | Red-Headed Centipede | En Enragé, fenêtre qu'il vaulte bloquée 10 s | Quitter la boucle au lieu de compter sur le re-vault |
+
+**Perks / synergies à anticiper**
+
+- Ses perks : **Hex: Nothing but Misery** (Hex apparu en cours de partie ; Hindered à chaque coup de base → purifier), **Forever Entwined** (saves au ramassage qui échouent de peu, à répétition), None Are Free (ci-dessous).
+- Seed : Pain Resonance, Surge, Friends 'til the End, Brutal Strength / Lethal Pursuer (usage **[INCERTAIN]**) → anticiper un repérage dès le spawn et un premier grab rapide (ch. 10 §10.4).
 
 **Perk à connaître** : **None Are Free** (endgame : fenêtres et palettes debout bloquées 12-16 s par token) → en endgame, aller directement aux portes.
 
@@ -874,6 +1039,11 @@ Détail : `kb/research/batch4_killers_g6.md` §39.
 
 **Quand le counterplay habituel échoue** : l'info TR échoue (24 m + 20 s d'Undetectable après chaque porte) → écouter les portes, utiliser Kindred ou Alert, repérer les portes proches de ton gen.
 
+**Implications de carte** [HEURISTIQUE]
+
+- Sa carte (Freddy Fazbear's Pizza) est intérieure et peu documentée (ch. 5).
+- Maps ouvertes = hache plus menaçante ; maps denses = ses portes compensent sa vitesse (4,4 m/s hache en main).
+
 **Add-ons qui changent la décision**
 
 | Add-on | Effet LIVE | Décision du survivant |
@@ -882,6 +1052,11 @@ Détail : `kb/research/batch4_killers_g6.md` §39.
 | Access Panel | La hache traverse les portes | Ne plus se cacher près d'une porte « à l'abri » |
 | Faz-Coin | La hache émet une copie de son TR ; +10 s d'Undetectable | Localiser la source : le TR peut venir de la hache |
 | Loot Bag | Hache plantée = portes bloquées pour le porteur et à ≤ 12 m | En endgame, retirer la hache avant la porte ; les autres restent à > 12 m |
+
+**Perks / synergies à anticiper**
+
+- Ses perks : **Phantom Fear** (cri quand tu le regardes depuis son TR → caché, ne pas le fixer), Haywire et Help Wanted (ci-dessous).
+- Seed : Pain Resonance, Pop, Barbecue & Chilli, Grim Embrace (usage **[INCERTAIN]**). Synergie [HEURISTIQUE] : Undetectable en sortie de porte + BBQ = arrivée sans TR après un hook → bouger derrière un obstacle après chaque hook (ch. 10 §10.4).
 
 **Perk à connaître** : Haywire → ne pas lâcher une porte de sortie à 80 %+ sans nécessité. Help Wanted LIVE : un kick rend **un seul** gen « compromis » ; s'il est terminé par les survivants, récupération après un coup réussi +25 % pendant 40/50/60 s (VM, reconstruit depuis la note 559) ; les 3 gens compromis et les 100/110/120 s affichés par le wiki sont le **PTB 10.2.0 — non LIVE**.
 
@@ -917,6 +1092,11 @@ Détail : `kb/research/batch4_killers_g6.md` §40.
 
 **Erreurs classiques** [HEURISTIQUE] : ignorer la jauge ; boucler une palette contre la tête comme contre un M1 ; courir en ligne droite contre la glande ; oublier qu'un TR de 40 m peut être la tête **loin du corps** ; manger à portée de glande.
 
+**Implications de carte** [HEURISTIQUE]
+
+- Forte sur les maps ouvertes à murs proches (rebonds des glandes) ; les maps riches en palettes perdent de la valeur contre la Head Form, qui les vaulte.
+- Murs pleins et gros rochers (que la tête doit contourner) gardent leur valeur.
+
 **Add-ons qui changent la décision**
 
 | Add-on | Effet LIVE | Décision du survivant |
@@ -926,6 +1106,11 @@ Détail : `kb/research/batch4_killers_g6.md` §40.
 | Shredded Gown | À chaque changement de forme, auras à ≤ 8 m d'un champignon | Manger vite et quitter la zone |
 | Queen's Sceptre | Un fouet qui touche fait jaillir une glande depuis toi | Après un fouet, casser la LOS |
 | Janjira's Hand | Vol rechargé après chaque gen, permanent au dernier | Attendre une arrivée rapide après un gen et en endgame |
+
+**Perks / synergies à anticiper**
+
+- Ses perks : **Wandering Eye** (au début d'une chase, auras des blessés à ≤ 20 m → blessé, s'éloigner de la chase), **Hex: Overture of Doom** (TR qui semble venir du gen le plus éloigné d'un totem), Ravenous (ci-dessous).
+- Seed : **Dissolution**, Pain Resonance, Pop, No Way Out (usage **[INCERTAIN]**) ; Dissolution confirmée → ne pas fast-vaulter une palette près d'elle après un coup (ch. 10 §10.4).
 
 **Perk à connaître** : **Ravenous** LIVE = Exposed **40/50/60 s** à 4 tokens (VP) ; le « 80/85/90 s » affiché par le wiki est le **PTB 10.2.0 — non LIVE**.
 
@@ -959,7 +1144,14 @@ Détail : `kb/research/batch4_killers_g6.md` §41.
 - **Équipe — horloges** : **un seul** survivant. Calcul (4 vivants, 240 charges) : 1 survivant ≈ 27 s, 2 ≈ 20 s, 3 ≈ 16 s → le 2e ne fait gagner qu'≈ 7 s pour ≈ 20 s de réparation perdue [HEURISTIQUE ; lecture des taux = HYPOTHÈSE]. SoloQ : si un coéquipier est déjà sur une horloge, rester sur ton gen.
 - **Sauvetage** : une liane à ≤ 8 m du crochet met 6 s à se déclencher : décrocher et sortir de la zone passent avant.
 
+**Erreurs classiques** [HEURISTIQUE] : rester immobile ou vaulter quand l'indicateur de liane apparaît ; aller à deux sur une horloge ; laisser un survivant à 4 tokens exposé au tunnel au 2e crochet ; garder une boucle longue en Worldbreaker ; garder un gen avancé à ≤ 20 m de lui juste après un crochet (Turn Back the Clock).
+
 **Quand le counterplay habituel échoue** : « exploiter sa lenteur » échoue en Worldbreaker → tile à murs hauts, penser distance plutôt que durée. Après chaque sortie d'Upside Down, 35 s sans nouvelle embuscade par ce biais (≈ 10 s avec Pizza Goggles), pas 35 s sans danger.
+
+**Implications de carte** [HEURISTIQUE]
+
+- L'Upside Down (8 m/s, traverse palettes, fenêtres et murs cassables) réduit l'avantage des grandes maps.
+- Intérieurs à couloirs (The Game, Midwich, Underground Complex) : zones de liane faciles à placer → éviter les couloirs sans issue en Worldbreaker.
 
 **Add-ons qui changent la décision**
 
@@ -970,6 +1162,11 @@ Détail : `kb/research/batch4_killers_g6.md` §41.
 | Chess Piece | Liane à 2 charges, rayon −40 % | Après un 1er dodge, attendre la 2e zone |
 | Pizza Goggles | Upside Down toutes les ≈ 10 s, Undergate minuscule | Se répartir ; plus besoin de fuir un grand anneau |
 | Iridescent Soteria Chip | Au Worldbreaker : Undetectable + auras à ≤ 12 m | Quitter les gens proches au déclenchement |
+
+**Perks / synergies à anticiper**
+
+- **Secret Project** (sa perk) : tout blocage de gen le rend Undetectable 30 s → synergie avec l'Upside Down : après un blocage, s'attendre à une approche sans TR (ch. 10 §10.1).
+- Seed : Pain Resonance, Turn Back the Clock, Lethal Pursuer, Pop (usage **[INCERTAIN]**) ; Turn Back the Clock et Hive Mind ci-dessous → ch. 10 §10.4.
 
 **Perks à connaître** : Turn Back the Clock (après un crochet, explosion d'un gen à ≤ 20 m) → pas de gen avancé à sa portée juste après un crochet ; Hex: Hive Mind → purifier avant le 4e gen.
 
@@ -1006,6 +1203,10 @@ Détail : `kb/research/batch4_killers_g6.md` §42.
 
 **Quand le counterplay habituel échoue** : « TR = info » échoue, c'est **l'absence** de TR qui est l'info. Contre Spirit Fury / Enduring, ne pas miser sur un stun tardif ; contre Rampage chargé, quitter la boucle après un stun.
 
+**Implications de carte** [HEURISTIQUE]
+
+- Fort sur les maps denses en palettes, fenêtres et murs cassables (points d'apparition du Jump Scare ; ex. Dead Dawg, murs cassables partout) ; plus faible dans les grandes zones vides.
+
 **Add-ons qui changent la décision**
 
 | Add-on | Effet LIVE | Décision du survivant |
@@ -1015,6 +1216,11 @@ Détail : `kb/research/batch4_killers_g6.md` §42.
 | Deputy's Badge | En OE, passer à ≤ 2 m d'un gen le fait exploser (−5 %) ; skill check spécial | Réussir le skill check au lieu de lâcher le gen |
 | Sauna Rock | Exhausted **3 s** aux survivants détectés après un Jump Scare | Garder le Sprint Burst pour après ces 3 s |
 | Burnt Fuse | Empalé : portes bloquées pour lui et à ≤ 13 m | Retirer le pic avant la porte ; les autres à > 13 m |
+
+**Perks / synergies à anticiper**
+
+- Ses perks : **Silent Shadow** (plus de TR après chaque hook, permanent aux portes → en endgame, surveiller corbeaux et auras), **Rampage** (Haste après un stun de palette ou un blind, grandit avec les palettes et murs cassés), **Hex: Scared to Death** (cri + Hindered à ≤ 13 m quand une palette est cassée, après 3 survivants accrochés).
+- Seed : Pop, Surge, Corrupt Intervention ; variante Spirit Fury, Enduring, Bamboozle (usage **[INCERTAIN]**). Que les casses du Jump Scare alimentent Rampage ou Scared to Death n'est pas vérifié **[HYPOTHÈSE]** → ch. 10 §10.4.
 
 Détail : `kb/research/batch4_killers_g6.md` §43.
 
@@ -1069,6 +1275,11 @@ BHVR justifie le retour arrière de 10.1.2a par des performances qui avaient « 
 
 **Quand le counterplay habituel échoue** : l'anti-tunnel par perks de décrochage échoue contre l'Exile. Deux réponses : des perks indépendantes du crochet (le seed cite Distortion, Boon: Shadow Step, Self-Preservation… **[INCERTAIN]**), et surtout **rester non-hérétique** : un non-hérétique est accroché normalement et tes perks de décrochage gardent leur valeur. Les protections de décrochage basekit (Endurance + Haste 10 % + Elusive) s'appliquent bien à la sortie d'Exile (VM).
 
+**Implications de carte** [HEURISTIQUE]
+
+- Fort sur les maps ouvertes à tiles bas ; les intérieurs lui sont moins favorables parce qu'ils **cachent ta position** (la lumière traverse les murs, mais il doit te voir pour la guider).
+- La position des 7 Shrines dicte les routes de Repent et de sauvetage : les repérer au premier passage.
+
 **Add-ons qui changent la décision**
 
 | Add-on | Effet LIVE | Décision du survivant |
@@ -1078,6 +1289,11 @@ BHVR justifie le retour arrière de 10.1.2a par des performances qui avaient « 
 | Obsidian Feather | Projection **automatique** à la fin du contrôle (≈ 2,25 s) | Dodger ≈ 2,25 s après l'apparition de la colonne |
 | Eyes of Gerhardt | Un hérétique qui finit un gen, ouvre une porte ou sort d'un casier révèle tous les hérétiques 5 s | Purger avant de finir un gen ou d'ouvrir une porte |
 | Superheated Glass | En Zealous, la lumière casse palettes et murs ; survivants à ≤ 12 m hérétiques | En Zealous, ne pas compter sur une palette posée ; s'en éloigner à > 12 m |
+
+**Perks / synergies à anticiper**
+
+- Ses perks : **Celestial Witness** (Obsession à ≥ 40 m révélée → ne pas s'éloigner inutilement), **Hex: Under Your Thumb** (alerte quand un survivant gagne de la Haste en courant à ≤ 32 m), **Lay Waste** (régression visiblement rapide après un kick).
+- Seed : **A Nurse's Calling** (≤ 28/30/32 m), Lethal Pursuer, Nemesis (usage **[INCERTAIN]**) → ne pas se soigner à ≤ 32 m d'un tueur possiblement proche (ch. 10 §10.4).
 
 > **À retenir** : contre le Judgment, l'état qui compte n'est pas « blessé ou sain » mais « **hérétique ou non** ». À 2 états de crochet, l'Heresy est une condamnation à mort différée : Repent avant toute autre chose.
 

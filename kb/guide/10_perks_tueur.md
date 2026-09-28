@@ -466,6 +466,15 @@ Détail : `kb/deliverables/PERK_DEDUCTION.md` §3.
 
 > **À retenir** : un combo se casse presque toujours au **point de jonction**. Pain Res + DMS se casse en ne lâchant pas le gen après le cri ; Thrilling Tremors + Secret Project en gardant des gens **en cours** au pickup ; Ruin + Undying en purifiant le bon totem.
 
+**QUAND jouer « anti-combo »** [HEURISTIQUE] : seulement quand **les deux** moitiés ont été vues ou qu'une moitié est confirmée et l'autre est la conséquence la plus coûteuse (ex. Pain Resonance vue → ne pas lâcher le gen au cri, car DMS coûterait 25/30/35 s de blocage). Sur une moitié seule et incertaine, reste sur les réflexes à coût nul de 10.7.
+
+**CAS D'ÉCHEC** :
+- **Combo fantôme** : annoncer « Pain Res + DMS » sur un seul cri. Sans blocage observé, la réponse anti-DMS (reprendre tout de suite) est neutre ; mais la réponse anti-Pain Res (répartir la progression) coûte du tempo si la perk n'y est pas (10.5, B4 contre B6).
+- **Casser la mauvaise jonction** : purifier Ruin avant Undying, lâcher un gen kické sans cri d'Eruption. Le coût d'une réponse fausse se paie en secondes-survivant, pas seulement en information.
+- **Hypothèse figée** : continuer à jouer contre un combo que la suite de la partie a infirmé (E-T02).
+
+**EXERCICE** : drill DR-07 (ch. 14) en ne notant **que** les combos : jonction observée → réponse choisie → vérification à l'écran de fin. Réussite [HEURISTIQUE] : aucune réponse anti-combo déclenchée sur un seul indice, sur 10 parties.
+
 Détail : `kb/deliverables/PERK_DEDUCTION.md` §4.
 
 ---

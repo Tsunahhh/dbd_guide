@@ -634,6 +634,17 @@ Ces perks transforment du **temps de coffre** en objets ou en progression (Plund
 
 > **Erreur fréquente** : changer tout le build après une partie perdue. Une partie ne dit presque rien (tueur, carte, équipe) ; jugez sur 5 à 10 parties le **nombre de déclenchements utiles** de chaque perk.
 
+**POURQUOI partir du problème et pas de la perk** [HEURISTIQUE] : une perk ne rapporte que si son **déclencheur** survient dans tes parties (9.1). Choisir d'après ce qui t'a réellement coûté des parties garantit au moins que le déclencheur existe.
+
+**QUAND revoir le build** : à la fin d'un bloc de 5-10 parties (revue 14.6), ou quand ton **rôle** change (ex. SoloQ → SWF, où la voix remplace une perk d'info) ; pas après une seule défaite.
+
+**CAS D'ÉCHEC** :
+- **Mauvais diagnostic** : « je meurs par tunnel » alors que la revue montre des coups évitables avant le premier crochet (M-05) ; l'anti-tunnel ne répare pas une erreur de chase. Classe d'abord tes morts par ID d'erreur (ch. 13), **puis** choisis la perk.
+- **Béquille permanente** : une perk qui compense une lacune de connaissance (tiles, HUD) empêche d'apprendre ; retire-la quand le drill correspondant est réussi (9.4.11, « Retirez une béquille »).
+- **Build de SWF en SoloQ** : perks dont la valeur suppose une coordination (Match Details permet au moins de vérifier ce que portent les alliés).
+
+**EXERCICE** : dans la fiche de revue (14.6.5), ajoute une ligne « perks : déclenchements utiles / inutiles ». Après 5 parties, remplace la perk au plus faible taux utile, **une seule** à la fois (drill DR-19).
+
 ---
 
 ## 9.6 PTB 10.2.0 : ce qu'il faut anticiper (**non LIVE**) `[Avancé]`
