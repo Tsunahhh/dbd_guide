@@ -1,0 +1,322 @@
+# Descriptions en jeu des 321 perks (dbd.tricky.lol/api/perks, version 10.1.2, maj 2026-09-17 06:43 UTC), tunables substitués — extrait le 28/09/2026
+A Nurse's Calling [killer] :: Within 28/30/32m of Survivors who are healing or being healed, you see their Auras.
+A Place For Us [survivor] :: While healing another Survivor, you both gain Elusive.  Whenever you finish healing the Obsession, you both gain Elusive for 20/25/30s.  When the trial starts, you are less likely to be the Obsession.
+Ace in the Hole [survivor] :: Whenever you loot an item from a Chest, it will have: A Visceral or lower rarity add-on. 50/75/100% chance for an Uncommon or lower rarity add-on.  When you escape, you keep your add-ons.
+Adrenaline [survivor] :: When all Generators are completed, if you are downed or injured, heal instantly. Then, ignoring Exhausted: You gain 50% Haste for 4s. You gain Exhausted for 60/50/40s.
+Aftercare [survivor] :: You and up to 1/2/3 Survivors see each other's Auras whenever: You unhook them, or they unhook you. You finish healing them, or they finish healing you.  This effect lasts until you are hooked.
+Agitation [killer] :: While carrying a Survivor: You gain 6/12/18% Haste. Your Terror Radius is 12m larger.
+Alert [survivor] :: Whenever the Killer breaks a Pallet or Breakable Wall, or damages a Generator: You hear a sound cue. You see their Aura for 3/4/5s.
+Alien Instinct [killer] :: Whenever you hook a Survivor, the farthest injured Survivor: Gains Oblivious for 40/50/60s. You see their Aura for 8s.
+All-Shaking Thunder [killer] :: Whenever you fall from at least 1.25m, your lunge-attacks are 75% longer for 15/20/25s. Cooldown: 5s.
+Any Means Necessary [survivor] :: While next to a Dropped Pallet, use {Input.ActivatableButton1} for 5/4/3s to reset it.  You see the Auras of Dropped Pallets.
+Apocalyptic Ingenuity [survivor] :: After you rummage or unlock 1 Chest, while next to a Broken Pallet, use {Input.ActivatableButton1} for 3s to create a Fragile Pallet.  Within 24/28/32m, you see the Auras of Broken Pallets.
+Appraisal [survivor] :: When the trial starts, you earn 4 Tokens.  Spend 1 Token to rummage an empty Chest, up to 2 times per Chest.  You rummage Chests 40/60/80% faster.
+Autodidact [survivor] :: You start the trial with 0 Tokens, up to 3/4/5, and your good basic healing Skill Checks give 15% less progress.  While healing another Survivor without a Med-Kit: Whenever you hit a basic Skill Check, you earn 1 token. Whenever you hit a basic Skill Check, for each Token, you gain 15% more progress. You cannot get great basic Skill Checks.
+Awakened Awareness [killer] :: While carrying a Survivor, within 16/18/20m of you, you see the Auras of other Survivors.
+Babysitter [survivor] :: Whenever you unhook a Survivor: They gain 10% Haste for 20/25/30s. They leave no Pools of Blood for 20/25/30s. They leave no Scratch Marks for 20/25/30s. You see the Killer's Aura for 8s.
+Background Player [survivor] :: Whenever the Killer picks-up another Survivor, for the next 10s, when you start running: Gain 50% Haste for 5s. Gain Exhausted for 30/25/20s.
+Bada Bada Boom [survivor] :: After repairing 20% of Generators, while next to a Window, use {Input.ActivatableButton2} to trap it for 40/50/60s. All Survivors see that Window's Aura for that time.  When the Killer vaults that Window, the trap explodes and they gain 50% Hindered for 6s.
+Balanced Landing [survivor] :: Whenever you fall from at least 1.25m: You gain 50% Haste for 3s. You gain Exhausted for 60/50/40s. Your stagger is 75% shorter. Your Grunts from falling are 100% quieter.
+Bamboozle [killer] :: Whenever you vault a Window, it is blocked for Survivors for 8/12/16s.  You basic-vault Windows 5/10/15% faster.  Only 1 Window can be blocked at a time.
+Barbecue & Chili [killer] :: Whenever you hook a Survivor, for 5s, you see the Auras of all Survivors who are at least 60/50/40m away from the hooked Survivor.
+Bardic Inspiration [survivor] :: While idle, use {Input.ActivatableButton1} to perform, empowering all Survivors within 16m for up to 15s. While you are performing, other Survivors will see your Aura. Roll a d20: 1 | You scream, but nothing happens. 2-10 | Basic Skill Checks give +1% progress. 11-19 | Basic Skill Checks give +2% progress. 20 | Basic Skill Checks give +3% progress.  If you complete the performance, this effect ends after 90s. Cooldown: 110/100/90s.
+Batteries Included [killer] :: Within 16m of a completed Generator, you gain 5% Haste. When you leave the range, this ends after 1/3/5s.
+Beast of Prey [killer] :: Whenever you gain Bloodlust, gain Undetectable for 30/35/40s.
+Better Than New [survivor] :: Whenever you finish healing another Survivor, until they take damage: They bless and cleanse Totems 12/14/16% faster. They heal 12/14/16% faster. They unlock Chests 12/14/16% faster.
+Better Together [survivor] :: While you are repairing a Generator: Other Survivors see that Generator's Aura. Whenever the Killer downs a Survivor, you see the Auras of all Survivors for 20/25/30s. 
+Bite the Bullet [survivor] :: While healing, you and the healed Survivor make no noises or Grunts of Pain. Whenever you miss a basic Skill Check: You lose only 3/2/1% progress. The Killer is not alerted.
+Bitter Murmur [killer] :: Whenever a Generator is completed, you see the Auras of Survivors within 16m of it for 5s.  When all Generators are completed, you see the Auras of all Survivors for 5/7/10s.
+Blast Mine [survivor] :: After repairing 40% of Generators, while next to a Generator, use {Input.ActivatableButton2} to trap it for 100/110/120s. All Survivors see that Generator's Aura for that time.  When the Killer damages that Generator, the trap explodes, then: They are stunned for 4s. Everyone nearby looking at the detonation is blinded.
+Blood Echo [killer] :: Whenever you hook a Survivor, for 20/25/30s, all injured Survivors: Gain Exhausted. Gain Hemorrhage.
+Blood Pact [survivor] :: While you are not the Obsession: While you or the Obsession are injured, you see each other's Auras. Whenever you finish healing the Obsession, or they finish healing you, while within 16m of each other, you both gain 5/6/7% Haste.  When the trial starts, you are less likely to be the Obsession.
+Blood Rush [survivor] :: Until all Generators are completed, whenever you are unhooked, for the next 40/50/60s, while Exhausted, use {Input.ActivatableButton1} to lose Exhausted instantly.  This is disabled by conspicuous actions.
+Blood Warden [killer] :: When an Exit Gate is opened, once per trial, when you hook a Survivor, both Exits are blocked for 40/50/60s.  You see the Auras of Survivors within Exit Thresholds.
+Bloodhound [killer] :: Pools of Blood are brighter and last 2/3/4s longer.
+Boil Over [survivor] :: While carried by the Killer: Whenever the Killer falls from at least 1.25m, you gain 33% of your current wiggle progress. Your wiggle is 60/70/80% stronger. Within 16m, the Killer cannot see Hook Auras.
+Bond [survivor] :: Within 20/28/36m, you see other Survivors' Auras.
+Boon: Circle of Healing [survivor] :: While next to a Totem, use {Input.ActivatableButton1} to bless it, creating a unique Boon Totem that combines all your Boons.  Survivors within the Boon's range: While healing without a Med-Kit, they heal others 50/75/100% faster. While injured, other Survivors see their Aura.
+Boon: Dark Theory [survivor] :: While next to a Totem, use {Input.ActivatableButton1} to bless it, creating a unique Boon Totem that combines all your Boons.  Survivors within the Boon's range gain 3% Haste. When leaving the range, this ends after 2/3/4s.
+Boon: Exponential [survivor] :: While next to a Totem, use {Input.ActivatableButton1} to bless it, creating a unique Boon Totem that combines all your Boons.  Downed Survivors within the Boon's range: Recover 90/95/100% faster. Can fully recover.
+Boon: Illumination [survivor] :: While next to a totem, use {Input.ActivatableButton1} to bless it, creating a unique Boon totem that combines all your Boons.  Survivors within the Boon's range: See the Auras of Chests. See the Auras of Generators.  While you have a Boon Totem, you bless and cleanse 6/8/10% faster.
+Boon: Shadow Step [survivor] :: While next to a Totem, use {Input.ActivatableButton1} to bless it, creating a unique Boon Totem that combines all your Boons. Survivors within the Boon's range: Leave no Scratch Marks. Their Auras cannot be seen by the Killer.  When leaving the range, this ends after 2/3/4s.
+Boon: Steadfast [survivor] :: While next to a Totem, use {Input.ActivatableButton1} to bless it, creating a unique Boon Totem that combines all your Boons.  Generators within the Boon's range: Regress 50% slower. Survivors repair them 8/9/10% faster.  Survivors within the Boon's range see the Auras of affected Generators.
+Borrowed Time [survivor] :: Whenever you unhook a Survivor: They retain their unhook Endurance for 6/8/10s longer. They retain their unhook Haste for 10s longer.
+Botany Knowledge [survivor] :: You heal 30/40/50% faster.
+Breakdown [survivor] :: Whenever you are unhooked: The Hook breaks, then is repaired after 180s. You see the Killer's Aura for 4/5/6s.
+Breakout [survivor] :: Within 5m of a carried Survivor: You gain 6/8/10% Haste. The carried Survivor wiggles 25% faster.
+Brutal Strength [killer] :: You basic-break Pallets and Breakable Walls, and damage Generators 10/15/20% faster.
+Buckle Up [survivor] :: While healing a downed Survivor, you both see the Killer's Aura.  Whenever you finish healing a downed Survivor or fully recover: The Survivor gains 50% Haste for 3/4/5s. The Survivor leaves no Scratch Marks for 3/4/5s.
+Built to Last [survivor] :: While holding a depleted item, after hiding in a Locker for 14/12/10s, it is recharged to 99%.  Each time you recharge an item this way, it recharges 33% fewer Charges.
+Call of Brine [killer] :: Whenever you damage a Generator, it regresses 30/40/50% faster for 90s.  For that time, whenever a Survivor hits a good basic Skill Check while repairing that Generator, you are alerted.
+Calm Spirit [survivor] :: You do not scare Crows or scream.  You bless and cleanse Totems, and unlock Chests silently, but 40/35/30% slower.
+Camaraderie [survivor] :: While you are struggling on Hook, when another Survivor gets within 16m, the timer is paused for 26/30/34s.
+Celestial Witness [killer] :: Every 30s, if the Obsession is at least 40m away from you, you see their Aura for 2/2.5/3s. Otherwise, the farthest Survivor becomes the Obsession.
+Champion of Light [survivor] :: While you are using a Flashlight, you gain 50% Haste.  Whenever you blind the Killer, they gain 20% Hindered for 6s. Cooldown: 60/50/40s.
+Change of Plan [survivor] :: When the trial starts, you earn 2 Tokens.  While hiding in a Locker and holding a non-event Toolbox, use {Input.ActivatableButton2} and spend 1 Token to transform your Toolbox and add-ons into a Med-Kit of the same rarity with 80/90/100% Charges and random add-ons of the same rarity.
+Chemical Trap [survivor] :: After repairing 20% of Generators, while next to a Dropped Pallet, use {Input.ActivatableButton2} to trap it for 40/50/60s. All Survivors see that Pallet's Aura for that time.  When the Killer breaks that Pallet, the trap explodes and they gain 50% Hindered for 4s.
+Clairvoyance [survivor] :: Whenever you bless or cleanse a Totem, while not holding an item, use {Input.UseItem} to, for up to 10/11/12s and within 64m: See the Auras of Chests. See the Auras of Exit Gate Switches. See the Auras of Generators. See the Aura of the Hatch. See the Auras of Hooks.
+Clean Break [survivor] :: Whenever you finish healing another Survivor, while being healed by another Survivor, use {Input.ActivatableButton1} to gain Broken.  After 75/60/45s, if you are not downed, you are instantly healed.
+Come and Get Me! [survivor] :: Whenever you unhook a Survivor, while crouched and idle, use {Input.ActivatableButton1} to have injured and downed Survivors within 24m: Make no Grunts of Pain for 10/12.5/15s. Leave no Pools of Blood for 10/12.5/15s. Leave no Scratch Marks for 10/12.5/15s.  You scream, then the Killer sees your Aura for 5s.
+Conviction [survivor] :: After you finish healing 1 other Survivor, while downed with at least 25% recovery, use {Input.ActivatableButton1} to recover instantly.  You gain Broken, then, after 20/25/30s, you are downed instantly.
+Corrective Action [survivor] :: When the trial starts, you earn 1/2/3 Tokens, up to 5.  Whenever you hit a great basic Skill Check, earn 1 Token.  Whenever another Survivor misses a basic Skill Check, spend 1 Token: The missed Skill Check becomes a good Skill Check. You see that Survivor's Aura for 6s.
+Corrupt Intervention [killer] :: When the trial starts, the 3 farthest Generators from you are blocked for 80/100/120s, or until you down a Survivor.
+Coulrophobia [killer] :: Survivors within your Terror Radius: Heal 20/25/30% slower. While healing, basic Skill Checks spin 50% faster.
+Counterforce [survivor] :: When the trial starts, you earn 1 Token.  Whenever you cleanse a Totem, earn 1 Token, then, you see the Aura of the farthest Totem for 10/12/14s.  For each Token, you cleanse Totems 25% faster.
+Coup de Grâce [killer] :: Whenever a Generator is completed, you earn 2 Tokens, up to 5.  Whenever you lunge-attack, spend 1 Token to make it 70/75/80% longer.
+Cross-Examination [survivor] :: While in the Killer's Terror Radius and not being chased by the Killer, they leave Light Marks that last for 10s that you can see. While on the Killer's Light Marks, you gain Elusive. This ends after 3/4/5s.
+Cruel Limits [killer] :: Whenever a Generator is completed: You see the Auras of all Windows for 20/25/30s. All Windows are blocked for Survivors for 20/25/30s.
+Cut Loose [survivor] :: While chased by the Killer, whenever you medium or fast-vault: For up to 4/5/6s, your medium and fast vaults are silent. During that time, whenever you medium or fast-vault, the timer is reset.  Cooldown: 45s.
+Dance With Me [survivor] :: Whenever you fast-exit a Locker, medium-vault, or fast-vault, you leave no Scratch Marks for 5s. Cooldown: 25/20/15s.
+Dark Arrogance [killer] :: You basic-vault Windows 15/20/25% faster.  Whenever you are blinded or Pallet-stunned, the duration is 15% longer.
+Dark Devotion [killer] :: Whenever the Obsession takes damage, for 35/40/45s: Your Terror Radius is set to 40m. The Obsession has your Terror Radius. You gain Undetectable.
+Dark Sense [survivor] :: Whenever a Generator is completed, when the Killer gets within 24m of you, you see their Aura for 5/7/10s.
+Darkness Revealed [killer] :: Whenever you search a Locker, you see the Auras of Survivors within 8m of Lockers for 6/7/8s. Cooldown: 30s.
+Dead Hard [survivor] :: Whenever you are unhooked, while injured and running, use {Input.ActivatableButton1}: You gain Endurance for 0.5s. You gain Exhausted for 60/50/40s.
+Dead Man’s Switch [killer] :: When you hook a Survivor, the first time a Survivor stops repairing a Generator, it is blocked for 25/30/35s. Cooldown: 25/30/35s.
+Deadline [survivor] :: While injured, basic Skill Checks: Are 6/8/10% more likely to appear. Appear in random places.  Whenever you miss a basic Skill Check, you lose 50% less progress.
+Deadlock [killer] :: Whenever a Generator is completed, the Generator with the most progress is blocked for 15/20/25s.
+Deathbound [killer] :: Whenever a Survivor finishes healing another, the healer screams. Then, until the healer takes damage, while they are at least 12/8/4m away from the healed Survivor: The healer gains Oblivious. The healer sees the healed Survivor's Aura.  This can only apply to one Survivor at a time.
+Deception [survivor] :: Whenever you attempt to fast-enter a Locker: You do not enter the Locker. The Killer is alerted. You leave no Pools of Blood for 5s. You leave no Scratch Marks for 5s.  Cooldown: 25/20/15s.
+Decisive Strike [survivor] :: Until all Generators are completed, whenever you are unhooked, for the next 40/50/60s: when the Killer picks you up, once per trial, hit a Special Skill check: Stun the Killer for 4s. Become the Obsession.  This is disabled by conspicuous actions. At the start of the trial, you are more likely to be the Obsession.
+Deerstalker [killer] :: Every 40/35/30s, the Survivor with the least time in chase sees your Aura for 3s.  While a Survivor sees your Aura, you see their Aura.
+Deja Vu [survivor] :: You see the Auras of the 3 Generators closest to each other and repair them 4/5/6% faster.
+Deliverance [survivor] :: Once per trial, when you safely unhook another Survivor, you can unhook yourself. When you unhook yourself this way, you gain Broken for 160/140/120s.
+Desperate Measures [survivor] :: For each injured, downed, or hooked Survivor: You heal 16/18/20% faster. You unhook 16/18/20% faster.
+Detective's Hunch [survivor] :: Whenever a Generator is completed, for 20s, within 32/48/64m of you: You see the Auras of Chests. You see the Auras of Generators. You see the Auras of Totems.
+Discordance [killer] :: Within 64/96/128m of you, whenever a Generator is being repaired by at least 2 Survivors, you are alerted.  While that Generator is being repaired by at least 2 Survivors, you see its Aura. When it is no longer being repaired by at least 2 Survivors, this ends after 4s.
+Dissolution [killer] :: 3s after a Survivor takes damage, for 12/16/20s, the next time a Survivor fast-vaults a Pallet while within your Terror Radius, it is destroyed.
+Distortion [survivor] :: When the trial starts, and after being chased for 15s, you earn 1 Token, up to 2.  While not downed, whenever the Killer attempts to see your Aura, spend 1 Token. Then, for the next 8/10/12s: The Killer cannot see your Aura. You leave no Scratch Marks.
+Distressing [killer] :: Your Terror Radius is 20/25/30% larger.
+Diversion [survivor] :: After hiding for 30/25/20s within the Killer's Terror Radius, while crouched and idle, use {Input.ActivatableButton1} to throw a pebble 20m away: The Killer is alerted. The pebble leaves Scratch Marks.
+Do No Harm [survivor] :: While healing another Survivor: For each Hook State they have, you heal 30/40/50% faster. Whenever you hit a great basic Skill Check, you gain 3% more progress.
+Dominance [killer] :: The first time each Chest is being unlocked and each Totem is being blessed or cleansed by a Survivor, it is blocked for 8/12/16s.
+Dragon’s Grip [killer] :: Whenever you damage a Generator, for the next 30s, the first Survivor that repairs that Generator: They scream, then you are alerted to their position for 4s. They gain Exposed for 60s.  Cooldown: 60/45/30s.
+Dramaturgy [survivor] :: While healthy and running, use {Input.ActivatableButton1}: You gain 25% Haste for 2s. You gain Exhausted for 60/50/40s.  Then, one happens at random: You gain 25% Haste for 2s. You gain Exposed for 12s. You gain a random rare item with random add-ons. You scream, but nothing happens.  The same effect cannot happen twice in a row.
+Duty of Care [survivor] :: While healthy, whenever you take a protection hit, other Survivors within 12m gain 25% Haste for 4/5/6s.
+Dying Light [killer] :: Whenever you hook a Survivor that is not the Obsession, earn 1 token.  While the Obsession is alive, for each Token: Other Survivors heal 2/2.5/3% slower. Other Survivors repair 2/2.5/3% slower. Other Survivors sabotage Hooks 2/2.5/3% slower.  The Obsession: Heals other Survivors 33% faster. Unhooks other Survivors 33% faster.
+Empathic Connection [survivor] :: You heal other Survivors 25/30/35% faster.  Injured Survivors see your Aura.
+Empathy [survivor] :: Within 64/96/128m, you see the Auras of injured Survivors.
+Enduring [killer] :: While not carrying a Survivor, Pallet-stuns are 40/45/50% shorter.
+Eruption [killer] :: Whenever you damage a Generator, when you down a Survivor, all Generators damaged this way: Explode, lose 10% progress and start regressing. Survivors repairing them scream, then you see their Auras for 8/10/12s.  Cooldown: 30s.
+Extrasensory Perception [survivor] :: After crouching for 4s: You see Auras in an expanding radius up to 44m. You gain Elusive. You gain Oblivious.  When you stop crouching, or after 11s, cooldown: 60/50/40s.
+Exultation [survivor] :: Whenever you Pallet-stun the Killer: Your item rarity is upgraded to the next tier, if possible. If the item was upgraded, it recharges 75% Charges.  Cooldown: 30/25/20s.
+Eyes of Belmont [survivor] :: Whenever a Generator is completed, you see the Killer's Aura for 1/2/3s.  Whenever you see the Killer's Aura for a duration, it is 2s longer.
+Fast Track [survivor] :: Whenever you unhook another Survivor, you earn 1 Token, up to 1/2/3.  While repairing, whenever you hit a great basic Skill Check, spend all Tokens. For each Token spent, the Generator gains 5% permanent progress.
+Finesse [survivor] :: While healthy, you fast-vault 20% faster.  Whenever you fast-vault, cooldown: 40/35/30s.
+Fire Up [killer] :: Whenever a Generator is completed, earn 1 Token, up to 5.  For each Token: You basic-break Pallets and Breakable Walls 4/5/6% faster. You damage Generators 4/5/6% faster. You pick-up and drop Survivors 4/5/6% faster. You basic-vault Windows 4/5/6% faster.
+Five Moves Ahead [survivor] :: While you are in the Killer's Terror Radius or chased by the Killer: You see the Auras of the 5 closest Pallets and Windows. After you drop a Pallet, you start moving 50% earlier. Whenever you drop a Pallet, cooldown: 40/35/30s.
+Fixated [survivor] :: While walking, you gain 10/15/20% Haste.  You see your own Scratch Marks.
+Flashbang [survivor] :: After repairing 50/45/40% of Generators, while hiding in a Locker, use {Input.ActivatableButton1} to craft a Flashbang.  When you use the Flashbang: Everyone nearby looking at the detonation is blinded. The Killer is alerted.
+Flip-Flop [survivor] :: While downed, whenever the Killer picks you up, 50% of your recovery progress is added to your wiggle progress, up to 40/45/50%.
+Flow State [survivor] :: Whenever a Generator is completed, earn 1 Token, up to 5.  For each Token: You bless and cleanse Totems 8/9/10% faster. You heal 8/9/10% faster. You unhook Survivors 8/9/10% faster.
+Fogwise [survivor] :: While repairing, whenever you hit a great basic Skill Check, you see the Killer's Aura for 4/5/6s.
+For the People [survivor] :: While healthy and healing another Survivor without a Med-Kit, use {Input.ActivatableButton1} to heal them instantly: You take damage. You gain Broken for 80/70/60s. You become the Obsession.  When the trial starts, you are less likely to be the Obsession.
+Forced Hesitation [killer] :: Whenever you down a Survivor, other Survivors within 16m of the downed Survivor gain 20% Hindered for 10s. Cooldown: 40/35/30s.
+Forced Penance [killer] :: Whenever a Survivor takes a protection hit, they gain Broken for 60/70/80s.
+Forever Entwined [killer] :: Whenever a Survivor takes damage, you earn 1 Token, up to 6/7/8.  For each Token: You hook Survivors 4% faster. You pick-up and drop Survivors 4% faster.
+Franklin's Demise [killer] :: Whenever you damage a Survivor with a basic-attack, they drop their item.  Within 32/48/64m, you see the Auras of dropped items.
+Friendly Competition [survivor] :: Whenever you finish repairing a Generator with at least 1 other Survivor, Survivors who finished repairing it repair 5% faster for 100/110/120s.
+Friends ‘Til the End [killer] :: Whenever you Hook a Survivor that is not the Obsession: The Obsession gains Exposed for 20s. You see the Obsession's Aura for 6/8/10s.  Whenever you Hook the Obsession, another Survivor: Screams, then you are alerted. Becomes the Obsession.
+Fruits of Your Labor [survivor] :: Whenever a Generator is completed, you earn 1 Token.  Whenever you finish repairing a Generator, for each Token: You gain 5% Haste for 2s. You gain 10/15/20% healing progress.
+Furtive Chase [killer] :: Whenever you hook the Obsession: You gain 10% Haste for 14/16/18s. You gain Undetectable for 14/16/18s.  Whenever the Obsession is unhooked, the Survivor who unhooked them becomes the Obsession.
+Game Afoot [killer] :: While chasing the Obsession, whenever you basic-break Pallets or Breakable Walls, or damage Generators, you gain 7% Haste for 8/9/10s.  Whenever you damage the Survivor with the most chase time with a basic-attack, they become the Obsession.
+Gearhead [killer] :: Whenever a Survivor takes damage, for the next 30s, whenever a Survivor repairing a Generator hits a good basic Skill Check, you see their Aura for 6/7/8s.
+Genetic Limits [killer] :: Whenever a Survivor takes damage, they gain Exhausted for 6/7/8s.
+Ghost Notes [survivor] :: While you have Exhausted, your Scratch Marks disappear 50% faster.  You lose Exhausted 5/7.5/10% faster.
+Grim Embrace [killer] :: Whenever you Hook a Survivor for the first time, earn 1 Token.  When you move 16m away from the hooked Survivor, all Generators are blocked for 6/8/10s.  When you have 4 Tokens, when you move 16m away from the hooked Survivor: All Generators are blocked for 40s. You see the Obsession's Aura for 10s.
+Hardened [survivor] :: When you have blessed or cleansed a Totem and unlocked a Chest, whenever you would scream, you see the Killer's Aura for 3/4/5s instead.
+Haywire [killer] :: Exit Gate Switches with at least 80% progress regress at 80/90/100% speed.  While they are regressing, Survivors see the Exit Gate Lights flicker randomly.
+Head On [survivor] :: After hiding in a Locker for 3s, fast-exit to stun the Killer for 3s if they are within 2.5m, then gain Exhausted for 60/50/40s.
+Help Wanted [killer] :: Whenever you damage a Generator, it is compromised.  When that Generator is completed by Survivors, your basic-attack cooldowns are 25% shorter for 40/50/60s.  Only 1 Generator can be compromised at a time.
+Hex: Blood Favor [killer] :: When the trial starts, a Dull Totem ignites.  Whenever you damage a Survivor, Upright Pallets within 24/28/32m of them are blocked for 15s.
+Hex: Crowd Control [killer] :: The first time a Survivor medium or fast-vaults a Window, a Dull Totem ignites.  The last 4/5/6 Windows Survivors medium or fast-vault are blocked.  You basic-vault blocked Windows 15% faster.  You see the Auras of blocked Windows within 24m.
+Hex: Devour Hope [killer] :: When the trial starts, a Dull Totem ignites.  Whenever a Survivor is unhooked while you are at least 24m away, earn 1 Token, up to 5: 2 Tokens | 10s after hooking a Survivor, gain 3/4/5% Haste for 10s. 3 Tokens | Survivors gain Exposed. 5 Tokens | You can Kill downed Survivors.
+Hex: Face the Darkness [killer] :: Whenever you damage a Survivor, they are hexed and a Dull Totem ignites.  Every 35/30/25s, other Survivors not within your Terror Radius scream, then you see their Auras for 2s.  When the hexed Survivor is downed or becomes healthy, the Hex Totem is extinguished.
+Hex: Haunted Ground [killer] :: When the trial starts, 2 Dull Totems ignite.  When either of those Hex Totems is blessed or cleansed: All Survivors gain Exposed for 40/50/60s. The other Totem is extinguished.
+Hex: Hive Mind [killer] :: The first time you hook a Survivor, a Dull Totem ignites.  The Auras of Generators show their progress.  When 1 Generator remains: All Generators explode, lose 6/8/10% progress and start regressing. The Hex Totem is extinguished.
+Hex: Huntress Lullaby [killer] :: When the trial starts, a Dull Totem ignites.  Whenever you hook a Survivor, earn 1 Token. For each Token, Basic Skill Check warnings appear later and good success zones are smaller.  While you have 5 Tokens, Basic Skill Check warnings don't appear.  Whenever a Survivor misses a basic Skill Check, they lose 2/4/6% more progress.
+Hex: No One Escapes Death [killer] :: When all Generators are completed, a Dull Totem ignites: Survivors gain Exposed. You gain 2/3/4% Haste.  Within 4m, Survivors see the Hex Totem's Aura, expanding to 24m over 30s.
+Hex: Nothing But Misery [killer] :: After you damage Survivors with a basic-attack 8 times, a Dull Totem ignites.  Whenever you damage a Survivor with a basic-attack, they gain 5% Hindered for 10/12.5/15s.
+Hex: Overture of Doom [killer] :: When the trial starts, a Dull Totem ignites and hexes the farthest Generator from it.  After a Survivor repairs the hexed Generator for 5 seconds: You gain Undetectable for 20/25/30s. For that time, your Terror Radius is set to that Generator.  When the hexed Generator is repaired, the next farthest Generator is hexed.
+Hex: Pentimento [killer] :: You see the Auras of cleansed Totems, and can rekindle each once.  Within 16m, Survivors see the Auras of Rekindled Totems.  While a Totem is rekindled, Survivors heal and repair 20% slower, plus 1/2/3% for each additional Rekindled Totem.  When all 5 Totems are rekindled at once, they are blocked.
+Hex: Plaything [killer] :: The first time you hook each Survivor, they are hexed and a Dull Totem ignites.  For 90s, the Hex Totem is blocked to other Survivors.  The hexed Survivors:   Gain Oblivious. Within 24/20/16m of the Hex Totem, they see its Aura.
+Hex: Retribution [killer] :: When the trial starts, a Dull Totem ignites.  Whenever a Survivor starts blessing or cleansing a Totem, they gain Oblivious for 40/50/60s.  Whenever a Hex Totem is blessed or cleansed, you see the Auras of all Survivors for 20s.
+Hex: Ruin [killer] :: When the trial starts, a Dull Totem ignites.  While a Generator is not being repaired, it regresses at 100/125/150% speed.
+Hex: Scared to Death [killer] :: After you hook 3 different Survivors, a Dull Totem ignites.  While chasing a Survivor, whenever you basic-break a Pallet, Survivors within 11/12/13m: Scream. Gain 11/12/13% Hindered for 3s.
+Hex: The Third Seal [killer] :: When the trial starts, a Dull Totem ignites.  Whenever you damage a Survivor with a basic or special-attack, they gain Blindness.  This applies for up to 2/3/4 Survivors.
+Hex: Thrill of the Hunt [killer] :: When the trial starts, a Dull Totem ignites.  For each Dull and Hex Totem remaining, you have 1 Token.  For each Token, Survivors bless and cleanse totems 8/9/10% slower.
+Hex: Two Can Play [killer] :: While this Hex is dull, each time you are blinded or stunned by a Survivor 4/3/2 times, a Dull Totem ignites.  Whenever you are blinded or stunned by a Survivor you are not carrying, they are blinded for 1.5s.
+Hex: Under Your Thumb [killer] :: The first time a Survivor gains a Hook State, a Dull Totem ignites.  Whenever a running Survivor gains Haste within 32m of you, you are alerted.  Running Survivors cannot gain more than 25/20/15% Haste at a time.
+Hex: Undying [killer] :: When the trial starts, a Dull Totem ignites.  When another Hex Totem is blessed or cleansed, it replaces this one and keeps any Tokens it had.  You see the Auras of Survivors within 2/3/4m of Dull Totems.
+Hex: Wretched Fate [killer] :: The first time a Generator is completed, a Dull Totem ignites.  The Obsession: Repairs 27/30/33% slower. Sees the Hex Totem's Aura within 12m.
+Hoarder [killer] :: When the trial starts, 2 more Chests appear.  Whenever a Survivor picks-up an Item or starts unlocking a Chest within 32/48/64m of you, you are alerted.
+Hope [survivor] :: When all Generators are completed, you gain 3/4/5% Haste.
+Hubris [killer] :: Whenever you are stunned by a Survivor, they gain Exposed for 20/25/30s. Cooldown: 20s.
+Human Greed [killer] :: Whenever a Survivor gets within 8m of a locked Chest, you see their Aura for 3/4/5s.  You can lock unlocked Chests. Cooldown: 10s.  You see the Auras of locked Chests.
+Hyperfocus [survivor] :: Whenever you hit a great basic Skill Check, you earn 1 Token, up to 6.  For each Token, basic Skill Checks: Appear 4% more often. Spin 4% faster. Whenever you hit a great, give 10/20/30% more progress.  Whenever you miss a basic Skill Check, hit a good Skill Check, or stop healing or repairing, lose all Tokens.
+Hysteria [killer] :: Whenever a healthy Survivor becomes injured, all injured Survivors gain Oblivious for 30/35/40s. Cooldown: 20s.
+I'm All Ears [killer] :: Whenever a Survivor fast-enters or fast-exits a Locker, or medium or fast-vaults within 48m of you, you see their Aura for 8s. Cooldown: 60/45/30s.
+Infectious Fright [killer] :: Whenever a Survivor is downed, Survivors within your Terror Radius scream and you are alerted for 4/5/6s.
+Inner Focus [survivor] :: Whenever the Killer damages another Survivor, you see the Killer's Aura for 6/8/10s.  You see other Survivors' Scratch Marks.
+Inner Strength [survivor] :: Whenever you cleanse a Totem, while injured and not Broken, after hiding in a Locker for 10/9/8s, you become healthy instantly.
+Insidious [killer] :: After being idle for 3/2/1s, you gain Undetectable until you act.
+Invocation: Treacherous Crows [survivor] :: While in the Basement next to the circle, use {Input.ActivatableButton2} to invoke. While invoking, other Survivors see your Aura and can join your Invocation.  When the Invocation is completed: Whenever the Killer scares a Crow while a Survivor is in their Terror Radius, all Survivors see the Killer's Aura for 1/1.5/2s. You become injured. You gain Broken.  Each Invocation can only be completed once per trial.
+Invocation: Weaving Spiders [survivor] :: While in the Basement next to the circle, use {Input.ActivatableButton1} to invoke. While invoking, other Survivors see your Aura and can join your Invocation.  When the Invocation is completed: All Generators gain 8/9/10 permanent charges. You become injured. You gain Broken.  Each Invocation can only be completed once per trial.
+Iron Grasp [killer] :: While carrying a Survivor: They wiggle 4/8/12% slower. Their wiggle is 75% weaker.
+Iron Maiden [killer] :: Whenever a Survivor exits a Locker: They gain Exposed for 30s. They scream, then you are alerted to their location for 4s.  You open Lockers 30/40/50% faster.
+Iron Will [survivor] :: While injured and not Exhausted, your Grunts of Pain are 80/90/100% quieter.
+Kindred [survivor] :: While you are hooked, all Survivors see each others' Auras. While the Killer is within 8/12/16m, all Survivors sees the Killer's Aura.  While another Survivor is hooked, you see the Auras of other Survivors. While the Killer is within 8/12/16m of the hooked Survivor, you see the Killer's Aura.
+Knock Out [killer] :: Whenever a Survivor drops a Pallet, for the next 6s, if they move 6m away from it, they gain 5% Hindered for 3/4/5s.
+Languid Touch [killer] :: Whenever a Survivor within 36m of you scares a Crow, they gain Exhausted for 6/8/10s. Cooldown: 5s.
+Last Stand [survivor] :: After hiding for 120/105/90s within the Killer's Terror Radius, when you fast-vault, once per trial, stun the Killer for 3s if they are within 2.5m.
+Lay Waste [killer] :: Whenever you damage a Generator, for each Charge it has, it regresses 2% faster. Cooldown: 55/50/45s.
+Leader [survivor] :: Within 10m of you, other Survivors: Cleanse Totems 20/25/30% faster. Heal 20/25/30% faster. Open Exit Gates 20/25/30% faster. Sabotage Hooks 20/25/30% faster. Unhook Survivors 20/25/30% faster. Unlock Chests 20/25/30% faster.  After they leave your range, this ends after 20s.
+Left Behind [survivor] :: When all other Survivors are dead, while within 24/28/32m of the Hatch, you see its Aura.
+Lend a Hand [survivor] :: Whenever you bless or cleanse 1 Totem, while healing another Survivor and only once per Survivor, use {Input.ActivatableButton2} to give them 2/3/4 permanent healing charges.
+Lethal Pursuer [killer] :: When the trial starts, you see the Auras of all Survivors for 7/8/9s.  Whenever you see a Survivor's Aura for a duration, it is 2s longer.
+Leverage [killer] :: Whenever a Survivor unhooks another or themselves, they heal 20/25/30% slower for 60s.
+Light-footed [survivor] :: While healthy and running, your footsteps are silent to the Killer.  Whenever you do a fast-action, cooldown: 14/12/10s.
+Lightborn [killer] :: Whenever a Survivor attempts to blind you, you see their Aura for 6/8/10s.  You cannot be blinded.
+Lightweight [survivor] :: Your Scratch Marks disappear 3/4/5s faster and appear more spread out.
+Lithe [survivor] :: Whenever you medium or fast-vault: You gain 50% Haste for 3s. You gain Exhausted for 60/50/40s.
+Low Profile [survivor] :: When all other Survivors are downed or hooked, for 70/80/90s: You make no Grunts of Pain. You leave no Pools of Blood. You leave no Scratch Marks.
+Lucky Break [survivor] :: While injured, for up to 40/50/60s: You leave no Pools of Blood. You leave no Scratch Marks.  For each second spent healing another Survivor, recharge the duration by 1s.
+Lucky Star [survivor] :: While hiding in a Locker, you make no Grunts of Pain.  Whenever you exit a Locker, for 30s: You see the Aura of the closest Generator. You see the Auras of other Survivors. You make no Grunts of Pain. You leave no Pools of Blood.  Cooldown: 35/30/25s.
+Machine Learning [killer] :: Whenever you damage a Generator, it becomes compromised.  When that Generator is completed by Survivors: You gain 8% Haste for 40/50/60s. You gain Undetectable for 40/50/60s.  Only one Generator can be compromised at a time.
+Mad Grit [killer] :: While carrying a Survivor: Whenever you miss a basic-attack, your cooldown is 100% shorter. Whenever you damage a Survivor with a basic attack, the carried Survivor gains no wiggle progress for 2/3/4s.
+Made for This [survivor] :: While injured, whenever you finish healing another Survivor, you gain Endurance for 6/8/10s.  While you are running and have DeepWound, you gain 3% Haste.
+Make your Choice [killer] :: Whenever a Survivor unhooks another or themselves while you are at least 32m away: They scream. They gain Exposed for 40/50/60s.  Cooldown: 40/50/60s.
+Merciless Storm [killer] :: The first time each Generator has 90% progress: Survivors repairing it get special Skill Checks. If they miss one of these or stop repairing, that Generator is blocked for 16/18/20s.
+Mettle of Man [survivor] :: After taking 3 protection hits, while injured and until you go down, the next time you would be downed by the Killer, take no damage instead.  When you become healthy, while you are at least 12/14/16m from the Killer, they see your Aura.  When the trial starts, you are more likely to be the Obsession.
+Mindbreaker [killer] :: While Survivors are repairing a Generator: They gain Blindness. They gain Exhausted.  When they stop repairing a Generator, this ends after 3/4/5s.
+Mirrored Illusion [survivor] :: After repairing 20% of Generators, while next to a Chest, Exit Gate Switch, Generator, or Totem, use {Input.ActivatableButton2} to create a static illusion for 40/50/60s.
+Moment of Glory [survivor] :: After you rummage or unlock 1 Chest, while not Broken, when you become injured, gain Broken.  After 80/70/60s, if you are not downed, you are instantly healed.
+Monitor & Abuse [killer] :: While chasing a Survivor, your Terror Radius is 5/10/15% bigger.  While not chasing a Survivor, your Terror Radius is 15/20/25% smaller.
+Nemesis [killer] :: Whenever a Survivor blinds you, Locker-stuns or Pallet-stuns you, they become the Obsession.  Whenever a Survivor becomes the Obsession: They gain Oblivious for 40/50/60s. You see their Aura for 8s.
+No Mither [survivor] :: When the trial starts, you become injured, then: You gain Broken. Your Grunts of Pain are 100% quieter. You leave no Pools of Blood. You recover 15/20/25% faster. You can fully recover.
+No One Left Behind [survivor] :: When all Generators are completed: You heal other Survivors 50/75/100% faster. You unhook other Survivors 50/75/100% faster. Whenever you unhook a Survivor, they gain 10% more Haste. You see the Auras of other Survivors.
+No Quarter [killer] :: While self-healing, whenever a Survivor has 75% progress, they get special Skill Checks. If they miss one of these or stop healing, they gain Broken for 20/25/30s.
+No Way Out [killer] :: The first time you Hook each Survivor, you earn 1 Token.  When all Generators are completed, when a Survivor starts opening an Exit Gate: It is blocked 12s, plus 6/9/12s for each Token. You are alerted.
+None Are Free [killer] :: The first time you hook each Survivor, earn 1 Token.  When all Generators are completed, for each Token: Upright Pallets are blocked for 12/14/16s. Windows are blocked for 12/14/16s.
+Nowhere to Hide [killer] :: Whenever you damage a Generator, for 3/4/5s, you see the Auras of Survivors within 24m of it.
+ONE-TWO-THREE-FOUR! [survivor] :: While idle, use {Input.ActivatableButton2} to perform, empowering all Survivors within 16m for up to 15s. While you are performing, other Survivors will see your Aura. You get special Skill Checks during that time: while healing or repairing, basic Skill Checks are 20% more likely to appear.  If you complete the performance, the effect ends after 90s. Cooldown: 110/100/90s.
+Object of Obsession [survivor] :: While you are the Obsession, every 30s, the Killer sees your Aura for 3s.  While the Killer sees your Aura: You see their Aura. You cleanse totems 2/4/6% faster. You heal 2/4/6% faster. You repair 2/4/6% faster.  When the trial starts, you are more likely to be the Obsession.
+Off the Record [survivor] :: Until all Generators are completed, whenever you are unhooked, for the next 30/35/40s: You gain Endurance. Your Grunts of Pain are 100% quieter. The Killer cannot see your Aura.
+Open-Handed [survivor] :: All Survivors see Auras that have a range from 8/12/16m farther.
+Oppression [killer] :: Whenever you damage a Generator, up to 4 other Generators start regressing. Survivors repairing them get a special Skill Check. Cooldown: 45/40/35s.
+Overcharge [killer] :: Whenever you damage a Generator: Its regression speed will go from 85% to 130% over the next 30s. The next Survivor who starts repairing it gets a special Skill Check. If they miss it, they lose 2/3/4% more progress.
+Overcome [survivor] :: Whenever you take damage: You retain your speed boost for 2s longer. You gain Exhausted for 60/50/40s.
+Overwhelming Presence [killer] :: Whenever a Survivor uses an item within 32m of you, they gain Exhausted for 15s.  Whenever a Survivor within 32m of you gains Exhausted, you see the closest Exhausted Survivor's Aura for 2/3/4s. Cooldown: 25s.
+Overzealous [survivor] :: Whenever you bless or cleanse a Totem, until you take damage, you repair 8/9/10% faster. If that Totem was a Hex Totem, the effect is doubled.
+Parental Guidance [survivor] :: Whenever you stun the Killer, for 5/6/7s: You make no Grunts of Pain. You leave no Pools of Blood. You leave no Scratch Marks.
+Phantom Fear [killer] :: Whenever a Survivor within your Terror Radius looks at you, they scream, then you see their Aura for 2s. Cooldown: 80/70/60s.
+Pharmacy [survivor] :: Whenever you unlock a Chest, it will contain a rare Med-Kit.  You unlock Chests 75/100/125% faster.  The range at which the Killer hears you unlocking Chests is 12m shorter.
+Play With Your Food [killer] :: Whenever you stop chasing the Obsession, you earn 1 Token, up to 3. Cooldown: 10s.   For each Token, gain 3/4/5% Haste.   Whenever you attack, lose 1 Token.
+Plot Twist [survivor] :: While injured, crouched and idle, use {Input.ActivatableButton2} to be downed silently.  While downed this way, once per trial: You make no Grunts of Pain. You leave no Pools of Blood. You recover 25% faster. You can fully recover.  Whenever you recover this way: You gain 50% Haste for 2/3/4s. You are healed instantly.  When all Generators are completed, you can use this ability once again.
+Plunderer's Instinct [survivor] :: Within 32/48/64m of locked Chests and dropped items, you see their Auras.   Whenever you unlock a Chest, you are 50% more likely to find an item of higher rarity.
+Poised [survivor] :: The first time you start repairing each Generator, you see the Killer's Aura for 8s.   Whenever a Generator is completed, you leave no Scratch Marks for 20/25/30s.
+Pop Goes the Weasel [killer] :: Whenever you hook a Survivor, for the next 35/40/45s, when you damage a Generator, it explodes and loses 15% more progress.
+Potential Energy [survivor] :: While repairing, use {Input.ActivatableButton2} to earn Tokens instead of progress, up to 10/15/20 Tokens.  While you have at least 1 Token, {Input.ActivatableButton2} to spend all Tokens and gain 1% progress for each Token spent.  Whenever you take damage, lose all Tokens.
+Power Struggle [survivor] :: While carried by the Killer, while you have at least 25/20/15% wiggle and next to an Upright Pallet, you can drop it to stun the Killer.  While downed, you see the Auras of Upright Pallets.
+Predator [killer] :: When you stop chasing a Survivor, you see their Aura for 4s. Cooldown: 60/50/40s.
+Premonition [survivor] :: While the Killer is within 36m of you and inside a 45 degree cone, whenever you look at them, you hear a sound cue. Cooldown: 60/45/30s.
+Prove Thyself [survivor] :: For each other Survivor within 4m of you, all Survivors repair 6/8/10% faster.
+Quick & Quiet [survivor] :: You hide in Lockers and vault silently. The Killer is not alerted. Cooldown: 25/20/15s.
+Quick Gambit [survivor] :: While chased by the Killer: You see the Auras of other Survivors. Other Survivors repair 3/4/5% faster.  Whenever you take damage, cooldown: 40s.
+Rampage [killer] :: Whenever you basic-break a Pallet or Breakable Wall, you earn 1 Token, up to 13.  Whenever you are blinded or Pallet-stunned, for the next 13s you gain 1% Haste for each Token. Cooldown: 30/25/20.
+Rancor [killer] :: Whenever a Generator is completed: You are alerted to the position of all Survivors for 3s. The Obsession sees your Aura for 5/4/3s.  When all Generators are completed: The Obsession gains Exposed. You can Kill the Obsession.
+Rapid Brutality [killer] :: Whenever you damage a Survivor with a basic-attack, you gain 5% Haste for 8/9/10s.  While chasing a Survivor, you cannot gain Bloodlust.
+Rapid Response [survivor] :: Whenever you fast-exit a Locker, you gain Exhausted for 30/25/20s.  Whenever you gain Exhausted, you see the Killer's Aura for 2s.
+Ravenous [killer] :: The first time you hook each Survivor, you earn 1 Token.  When you have 4 Tokens, all Survivors: Scream. Gain Exposed for 40/50/60s.
+Reactive Healing [survivor] :: While injured, whenever another Survivor within 32m of you takes damage, you gain 40/45/50% missing healing progress.
+Reassurance [survivor] :: Once per Hook State, while within 6m of a hooked Survivor, use {Input.ActivatableButton2} to stop the sacrifice progress for 20/25/30s.
+Red Herring [survivor] :: After you repair a Generator for at least 1s, you see its Aura.  When you hide in a Locker, the Killer is alerted to the Generator. Cooldown: 25/20/15s.
+Remember Me [killer] :: Whenever the Obsession takes damage, you earn 1 Token, up to 3/4/5.   For each Token, Survivors who are not the Obsession open Exit Gates 30% slower.
+Repressed Alliance  [survivor] :: After repairing Generators for 40/35/30s, while repairing a Generator alone, use {Input.ActivatableButton1} to block that generator for 15s.
+Residual Manifest [survivor] :: Whenever you blind the Killer, they gain Blindness for 20/25/30s.  You can rummage Chests 1 time. The first time you rummage a Chest, it will contain an uncommon Flashlight.
+Resilience [survivor] :: While injured: You bless and cleanse Totems 3/6/9% faster. You heal 3/6/9% faster. You open Exit Gates 3/6/9% faster. You repair 3/6/9% faster. You sabotage Hooks 3/6/9% faster. You unhook Survivors 3/6/9% faster. You unlock chests 3/6/9% faster. You vault 3/6/9% faster.
+Resurgence [survivor] :: Whenever you are unhooked, you gain 50/60/70% healing progress.
+Road Life [survivor] :: While injured, not Broken and repairing a Generator: Whenever you hit a basic great Skill Check, you earn 1 Token. Whenever you miss a basic Skill Check, you lose 1 token.  When you have 6/5/4 Tokens, spend all Tokens to heal 100% faster until you stop healing.
+Rookie Spirit [survivor] :: After you hit 5/4/3 basic repair Skill Checks, while a Generator is regressing, you see its Aura.
+Saboteur [survivor] :: Within 56m of where another Survivor was picked-up by the Killer and is being carried, you see the Auras of Hooks and Scourge Hooks.  You can sabotage Hooks. Cooldown: 70/65/60s.
+Salvation's Cry [survivor] :: Whenever the Killer starts chasing you: You see the Auras of other Survivors for 1/2/3s. Survivors not being chased see your Aura for 5s. Survivors not being chased see the Killer's Aura for 5s.
+Save the best for last [killer] :: Whenever you damage a Survivor who is not the Obsession with a basic-attack, you earn 1 Token, up to 6/7/8.  For each Token, your basic-attack cooldown are 5% shorter.  Whenever the Obsession takes damage, lose 2 Tokens.  While the Obsession is dead, you cannot earn Tokens.
+Scavenger [survivor] :: While repairing and while your Toolbox is empty, whenever you hit a great basic Skill Check, you earn 1 Token.  When you have 5 Tokens, spend them all: Your Toolbox is recharged instantly. You repair 50% slower for 40/35/30s.  You can rummage Chests 1 time. The first time you rummage a Chest, it will contain an uncommon Toolbox.
+Scene Partner [survivor] :: While you are within the Killer's Terror Radius, whenever you look at them: Scream, then see the Killer's Aura for 4/5/6s. There is a 50% chance you will scream again. If you do, you see the Killer's Aura for 2s more.  Cooldown: 40s.
+Scourge Hook: Floods of Rage [killer] :: When the trial starts, 4 random Hooks become Scourge Hooks.  Whenever a Survivor is unhooked from a Scourge Hook, you see the Auras of other Survivors for 5/6/7s.
+Scourge Hook: Gift of Pain [killer] :: When the trial starts, 4 random Hooks become Scourge Hooks.  Whenever a Survivor is unhooked from a Scourge Hook: They gain Hemorrhage for 90s. They gain Mangled for 90s. When they are healed, until they take damage, they heal and repair 10/13/16% slower.
+Scourge Hook: Hangman's Trick [killer] :: When the trial starts, 4 random Hooks become Scourge Hooks.  While carrying a Survivor, you see the Auras of Survivors within 12/14/16m of Scourge Hooks.  Whenever a Survivor starts sabotaging a Hook, you are alerted.
+Scourge Hook: Jagged Compass [killer] :: When the trial starts, 4 random Hooks become Scourge Hooks.  Whenever a Survivor is unhooked, the Hook becomes a Scourge Hook.  Whenever you hook a Survivor on a Scourge Hook, for 6/8/10s, you see the Aura of the Generator with the most progress.
+Scourge Hook: Monstrous Shrine [killer] :: When the trial starts: 4 random Hooks become Scourge Hooks. The Basement Hooks become Scourge Hooks.  While you are at least 24m away from a Survivor on a Scourge Hook, they are sacrificed 10/15/20% faster.
+Scourge Hook: Pain Resonance [killer] :: When the trial starts: 4 random Hooks become Scourge Hooks. You earn 4 Tokens.  The first time each Survivor is hooked on a Scourge Hook, spend 1 Token, then the Generator with the most progress: Explodes, loses 10/15/20% progress and starts regressing. Survivors repairing it scream.
+Second Wind [survivor] :: After you heal 1 Survivor, while not Broken, when you are unhooked, you gain Broken.  After 28/24/20s, if you are not downed, you are instantly healed.
+Secret Project [killer] :: Whenever a Totem is blessed or cleansed, a random unblocked Generator is blocked for 20/25/30s.  Whenever 1 or more Generators are blocked, you gain Undetectable for 30s.
+Self-Care [survivor] :: You can heal yourself, but 75/70/65% slower.
+Self-Preservation [survivor] :: Whenever another Survivor is hooked, you gain Elusive for 20/25/30s.
+Septic Touch [killer] :: While a Survivor within your Terror Radius is healing: They gain Blindness. They gain Exhausted.  When they stop healing, this ends after 20/25/30s.
+Shadowborn [killer] :: Whenever you are blinded, gain 6/8/10% Haste for 10s.
+Shattered Hope [killer] :: Whenever you snuff a Boon Totem: You see the Auras of all Survivors within its range for 6/7/8s. It is destroyed.
+Shoulder the Burden [survivor] :: Once per trial, while you do not have 2 Hook States and are next to a hooked Survivor, use {Input.ActivatableButton2} to unhook them: They lose 1 Hook State. You gain 1 Hook State. You scream. You gain Exposed for 60/50/40s.
+Silent Shadow [killer] :: Whenever you hook a Survivor, you gain Undetectable for 11/12/13s.  When all Generators are completed, you gain Undetectable.
+Slippery Meat [survivor] :: You can attempt to unhook yourself up to 6 times and have 2/3/4% more chance to succeed.
+Sloppy Butcher [killer] :: Whenever you damage a Survivor with a basic-attack: They gain Hemorrhage for 70/80/90s. They gain Mangled for 70/80/90s.  Survivors with Hemorrhage lose healing progress 25% faster.
+Small Game [survivor] :: Within 8/10/12m of you, whenever you look at a Totem in a 45 degree cone, you hear a sound cue. Cooldown: 14/12/10s.  Whenever a Survivor cleanses a Totem, you earn 1 Token, up to 5.  For each Token, the cone is 5 degrees smaller.
+Smash Hit [survivor] :: Whenever you Pallet-stun the Killer: You gain 50% Haste for 4s. You gain Exhausted for 30/25/20s.
+Sole Survivor [survivor] :: Whenever a Survivor dies, you earn 1 Token.  For each Token, within 20/22/24m, the Killer cannot see your Aura.  When all other Survivors are dead: You repair 75% faster. You open Exit Gates and the Hatch 50% faster.  When the trial starts, you are more likely to be the Obsession.
+Solidarity [survivor] :: While injured and healing another Survivor without a Med-Kit, you also gain healing progress at 50/60/70% speed.
+Soul Guard [survivor] :: While hexed, you can fully recover.  Whenever you fully recover, you gain Endurance for 4/6/8s. Cooldown: 30s.
+Specialist [survivor] :: Whenever you rummage or unlock a Chest, you earn 1 Token, up to 6.  While repairing a Generator, whenever you hit a great basic Skill Check, spend all Tokens. For each Token spent, the Generator gains 2/3/4% permanent progress.
+Spies from the Shadows [killer] :: Whenever a Survivor scares a Crow within 20/28/36m of you, you are alerted. Cooldown: 5s.
+Spine Chill [survivor] :: Within 36m, whenever the Killer looks at you, you hear a sound cue.  Within 36m, while the Killer is looking at you: You bless and cleanse Totems 2/4/6% faster. You heal 2/4/6% faster. You open Exit Gates 2/4/6% faster. You repair Generators 2/4/6% faster. You sabotage Hooks 2/4/6% faster. You unhook Survivors 2/4/6% faster. You unlock Chests 2/4/6% faster.
+Spirit Fury [killer] :: After you break 4/3/2 Pallets, when you are Pallet-stunned, the Pallet is destroyed.
+Sprint Burst [survivor] :: Whenever you start running: You gain 50% Haste for 2s. You gain Exhausted for 60/50/40s.
+Stake Out [survivor] :: After hiding for 15s within the Killer's Terror Radius, you earn 1 Token, up to 2/3/4.  Whenever you hit a good basic Skill Check, spend 1 Token: The good Skill Check becomes a great Skill Check. You gain 1% more progress.
+Starstruck [killer] :: While carrying a Survivor, Survivors within your Terror Radius gain Exposed. This ends 26/28/30s after: They leave your Terror Radius. You drop or Hook the carried Survivor.  Cooldown: 60s.
+Still Sight [survivor] :: After being idle for 4/3/2s, within 24m, until you start moving: You see the Killer's Aura. You see the Auras of Chests. You see the Auras of Generators.
+Streetwise [survivor] :: The first time you deplete an item's Charges, you see the Killer's Aura for 8s.  Whenever you loot an item from a Chest, it has 60/70/80% more Charges.
+Strength in Shadows [survivor] :: While in the Basement: You can heal yourself, but 30% slower. Whenever you finish healing, you see the Killer's Aura for 6/8/10s.
+Stridor [killer] :: Survivors' breathing noises are 15/20/25% louder and their Grunts of Pain are 30/40/50% louder.
+Superior Anatomy [killer] :: Whenever a Survivor fast-vaults within 12m of you, the next time you basic-vault a window, it is 30/35/40% faster. Cooldown: 25s.
+Surge [killer] :: Whenever you down a Survivor with a basic-attack, Generators within 32m: Explode, lose 6/7/8% progress and start regressing. Survivor repairing them scream.
+Surveillance [killer] :: You see the Auras of regressing Generators.  Whenever a Generator stops regressing, you see its Aura for 8/12/16s.  Generator repair noises can be heard from 8m farther away. 
+THWACK! [killer] :: When the trial starts, you earn 3 Tokens, up to 3.  Whenever you hook a Survivor, you earn 1 Token.  Whenever you break a Pallet or Breakable Wall, spend 1 Token. Then, all Survivors within 36m scream and you see their Auras for 4/5/6s.
+Teamwork: Collective Stealth [survivor] :: Whenever another Survivor finishes healing you, while within 8/12/16m of each other, you both leave no Scratch Marks. When either of you leaves the range, this ends after 4s.
+Teamwork: Full Circuit [survivor] :: For each other Survivor repairing a Generator with you, good basic Skill Check zones are 15/20/25% bigger.  While repairing with at least 1 other Survivor, you repair 5% faster.
+Teamwork: Power of Two [survivor] :: Whenever you finish healing another Survivor, while you stay within 8/12/16m of each other, you both gain 5% Haste. When either of you leaves the range, this ends after 4s.
+Teamwork: Soft-Spoken [survivor] :: For each other Survivor repairing a Generator with you, the range of Generator repair noises is 15/20/25% smaller.  While repairing with at least 1 other Survivor, you repair 5% faster.
+Teamwork: Throw Down [survivor] :: Whenever you blind or Pallet-stun the Killer, for 6/8/10s, other injured Survivors within 24m: Gain Endurance. See the Killer's Aura.
+Teamwork: Toughen Up [survivor] :: While injured, whenever another Survivor within 24m of you blinds or Pallet-stuns the Killer, for 20/25/30s: You make no Grunts of Pain. You leave no Pools of Blood. You leave no Scratch Marks.
+Technician [survivor] :: While repairing a Generator: The range of Generator repair noises is 16m shorter. Whenever you miss a basic Skill Check, the Generator does not explode, but loses 4/3/2% more progress.
+Tenacity [survivor] :: While downed: You gain 30/40/50% Haste. You can crawl and recover at the same time. Your Grunts of Pain are 75% quieter. The Killer cannot see your Aura.
+Terminus [killer] :: When all Generators are completed: all injured, downed, and hooked Survivors gain Broken.  When an Exit Gate is opened, this ends after 35/40/45s.
+Territorial Imperative [killer] :: Whenever a Survivor enters the Basement while you are 24m away from it, you see their Aura for 4/5/6s. Cooldown: 45s.
+Thanatophobia [killer] :: For each injured, downed, or hooked Survivor, all Survivors: Cleanse Totems 1/1.5/2% slower. Repair 1/1.5/2% slower. Sabotage Hooks 1/1.5/2% slower.  While 4 Survivors are either injured, downed or hooked, all above actions are additionally 12% slower.
+This Is Not Happening [survivor] :: While injured, great basic Skill Check zones are 10/20/30% bigger.
+Thrilling Tremors [killer] :: Whenever you pick-up a Survivor, all Generators not being repaired are blocked for 16s. Cooldown: 40/35/30s.
+Tinkerer [killer] :: The first time each Generator has 70% progress: You gain Undetectable for 12/14/16s. You are alerted.
+Trail of Torment [killer] :: Whenever you damage a Generator, until it stops regressing: You gain undetectable. Survivors see that Generator's Aura.  Cooldown: 60/45/30s.
+Troubleshooter [survivor] :: While chased by the Killer: You see the Aura of the Generator with the most progress. Whenever you drop a Pallet, you see the Killer's Aura for 4/5/6s.  When the Killer stops chasing you, this ends after 6/8/10s.
+Turn Back The Clock [killer] :: After hooking a Survivor, for the next 40/50/60s, use {Input.ActivatableButton1} to make target Generator you can see within 20m explode, lose 10% progress and start regressing. 
+Ultimate Weapon [killer] :: Whenever you search a Locker, Survivors within 40m: Gain Blindness for 30s. Scream.  Cooldown: 55/50/45s.
+Unbound [killer] :: Whenever a healthy Survivor becomes injured, for the next 24/27/30s, whenever you basic-vault a window, gain 7% Haste for 10s.
+Unbreakable [survivor] :: Once per trial, while downed by the Killer, you can fully recover.  While downed, you recover 25/30/35% faster.
+Undone [killer] :: Whenever a Survivor misses a basic Skill Check, earn 3 Tokens, up to 18/24/30.  Whenever you damage a Generator, spend all Tokens. For each Token spent: The Generator loses 1% progress. The Generator is blocked for 1s.  When that Generator is unblocked, it begins regressing. Cooldown: 60s.
+Unforeseen [killer] :: Whenever you damage a Generator: Your Terror Radius is set to that Generator for 22/26/30s and its radius is 32m. You gain Undetectable for that time.  Cooldown: 30s.
+Unnerving Presence [killer] :: Survivors within your Terror Radius get 10% more basic Skill Checks.  The good zone of basic Skill Checks is 40/50/60% smaller.
+Unrelenting [killer] :: Whenever you miss a basic-attack, your cooldown is 20/25/30% shorter.
+Up the Ante [survivor] :: For each other Survivor alive, all Survivors are 1/2/3% luckier.  All Survivors can attempt to unhook themselves.
+Urban Evasion [survivor] :: While crouched, you gain 90/95/100% Haste.
+Vigil [survivor] :: All Survivors within 16m of you lose Exhausted 20/25/30% faster.  This effect ends 15s after they leave your range.
+Visionary [survivor] :: Within 32m of you, you see the Auras of Generators.  Whenever a Generator is completed, cooldown: 20/18/16s.
+Wake Up! [survivor] :: When all Generators are completed: You see the Auras of Exit Gate Switches. While opening an Exit Gate, other Survivors see your Aura. For each Survivor alive, you open Exit Gates 8/10/12.5% faster.
+Wandering Eye [killer] :: Whenever you start chasing a Survivor, for the next 5s, you see the Auras of all other injured Survivors within 20m. Cooldown: 40/35/30s.
+We See You [survivor] :: Whenever the Killer sees your Aura, you earn 1 Token. Cooldown: 10s.  When you have 4 Tokens, spend them all. Then, all Survivors see the Killer's Aura for 10/12.5/15s.
+We'll make it [survivor] :: Whenever you unhook a Survivor, for 30/60/90s, you heal other Survivors 100% faster.
+We're Gonna Live Forever [survivor] :: You heal downed Survivors 100% faster.  Whenever you finish healing a downed Survivor, they gain Endurance for 6/8/10s. Cooldown: 30s.
+Weave Attunement [killer] :: The first time each item is depleted, it is dropped.  While a Survivor is within 12m of a dropped item: You see their Aura. They see the item's Aura.  Whenever a Survivor picks-up an item, they gain Oblivious for 20/25/30s.
+Whispers [killer] :: While within 48/40/32m of a Survivor, you randomly hear whispers.
+Wicked [survivor] :: While in the Basement, you can unhook yourself.  Whenever you are unhooked, you see the Killer's Aura for 16/18/20s.
+Wide Open Throttle [survivor] :: Whenever you fast-vault a Pallet: You gain 10/12.5/15% Haste for 3s. The Pallet is reset, blocked for 60s, and all Survivors see its Aura for that time.  Cooldown: 60s.
+Windows of Opportunity [survivor] :: Within 24/28/32m of you: You see the Auras of Pallets. You see the Auras of Breakable Walls. You see the Auras of Windows.
+Wiretap [survivor] :: After repairing 40% of Generators, while next to a Generator, use {Input.ActivatableButton2} to trap it for 100/110/120s or until the Killer damages that Generator. All Survivors see that Generator's Aura for that time.  While the Killer is within 14m of that Generator, all Survivors see the Killer's Aura.
+Zanshin Tactics [killer] :: Within 32m, you see the Auras of Pallets and windows.  Whenever a Survivor drops a Pallet, you see their Aura for 3/4/5s.

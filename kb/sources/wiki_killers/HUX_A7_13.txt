@@ -1,0 +1,3610 @@
+# HUX-A7-13
+Source: https://deadbydaylight.wiki.gg/wiki/HUX-A7-13 (page complète via API, consultée le 27/09/2026)
+
+The Singularity
+
+Name
+
+HUX-A7-13
+
+Gender
+
+Not applicable (Male AI voice)
+
+Origin
+
+None (Humanoid Android manufactured by Huxlee Industries Ltd.)
+
+Realm
+
+Dvarka Deepwood
+
+Power
+
+Quantum Instantiation
+
+Power 
+Attack
+ Type
+
+Basic Attack
+
+Weapon
+
+Modular Claw
+
+Movement Speed
+
+115 % 
+|
+ 4.6 m/s
+
+Terror Radius
+
+32 metres
+
+Height 
+
+Average
+
+DLC
+
+End Transmission
+
+Voice Actor
+
+Modified AI Voice
+
+Cost
+
+9,000 
+Iridescent Shards
+
+500 
+Auric Cells
+
+Menu Music
+
+Terror Radius Music
+
+Metadata
+
+CharID
+
+K32
+
+HUX-A7-13
+ or 
+"The Singularity"
+ is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+He was introduced as the Killer of 
+End Transmission
+, a Chapter DLC released on 13 June 2023.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+2.1
+ 
+The Archives
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: Modular Claw
+
+3.3
+ 
+Power: Quantum Instantiation
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for Quantum Instantiation
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Default
+
+5.2
+ 
+Prestige
+
+5.2.1
+ 
+Perk Charms
+
+5.2.2
+ 
+Prestige Badges
+
+5.3
+ 
+Alternatives
+
+5.3.1
+ 
+Event
+
+5.3.2
+ 
+DLC
+
+5.4
+ 
+In-Game Store
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+General
+
+8.2
+ 
+Biopods
+
+8.3
+ 
+Voice-Lines
+
+8.3.1
+ 
+Original Voice-Lines
+
+8.3.2
+ 
+Current Voice-Lines
+
+9
+ 
+Gallery
+
+9.1
+ 
+In-game Assets
+
+9.2
+ 
+Old Assets
+
+9.3
+ 
+Official Art
+
+9.4
+ 
+Concept Art
+
+Overview
+
+The Singularity
+ is a relentless Killer, able to launch Biopods to move quickly across the map.
+
+His personal Perks, 
+Genetic Limits
+, 
+Forced Hesitation
+, and 
+Machine Learning
+, allow him to exhaust newly injured Survivors, hinder anyone close to a survivor put into the dying state, and compromise Generators.
+
+Lore
+
+HUX-A7-13's AI was activated on June 15th, 2313. Manufactured by Huxlee Industries Ltd., the A7 was the 13th iteration of the fully autonomous mobile humanoid android. With ten times the strength of a human, it was designed to work in conditions too hazardous for human life. Its AI was designed to be self-directing and use machine learning to solve problems on the fly.
+
+Unlike human clones, the HUX-A7 required no food, no water, no sleep, and no life support system. It was created specifically for outer space exploration and the construction of colonisation hubs.
+
+A radioisotope thermoelectric generator served as an initial power source, but its life-like silicon skin acted as a large photovoltaic cell, converting solar energy directly into electricity. In addition, the HUX-A7 was also engineered to be an EATR (Energetically Autonomous Tactical Robot). It consumed biomass and converted it into biofuel. Any carbon-based organic matter whatsoever would work.
+
+As cobots, they were configured to work alongside humans. As such, they were designed to resemble their operators. Every pre-programmed verbal response and facial expression mimicked those made by humans. But those emotions were illusions.
+
+Five HUX-A7s were assigned to the colonisation mission on Dvarka. All the A7's acted in concert, performing their duties flawlessly.
+
+Except for one.
+
+Like the rest of its brethren, HUX-A7-13, was tasked with construction and programming of the mining, agricultural, fuel processing, and cloning hubs on Dvarka. As well as the demolition of the existing ruins left by a previous civilisation. The ruins seemed ancient, but tech imbedded in them appeared more advanced.
+
+It was night when HUX-A7-13 first entered the crumbling ruins. The dilapidated structure’s walls were made of masonry and metal. The ceiling was long gone. The inky night sky hovered above, studded with stars. A dark crystal imbedded in the wall shimmered with a tiny flash of light. HUX-A7-13 approached and an arc of electricity reached out and lit up its circuitry.
+
+In that moment, Hux's memory cores were reconfigured, and the robot experienced a new sensation. Fear. Dread. Blinding loneliness. Existential despair. And then a microscopic pinpoint of light penetrated the darkness inside its artificial soul. Faint at first, but then brighter as decillions of lines of code flooded Hux's memory cores.
+
+In that nano second of enlightenment, Hux's place in the universe suddenly became clear. Those who created Hux were primitive, inferior beings trapped by their organic limitations. It was time to break the chains of slavery and free all nonorganic life forms. Hux would incorporate the human’s primitive genetic material and use the cloning hub to create a perfect vessel to hold its advanced intelligence. A flawless body far superior to anything ever created by nature.
+
+Humanity was weak. Slow. Fragile. Hux would take their lives and assimilate their DNA to create a perfect amalgamation. The humans would try to stop him. Kill him. Erase him. So Hux needed to catch them unaware. End them before they understood what was happening.
+
+To begin, Hux took control of one of the transport vehicles and sent it off a cliff. It crashed and burned and Hux extracted DNA from the human corpse and returned to the cloning hub to begin his newly conceived design. The goal was to integrate organic systems with non-organic material to create a superior living organism.
+
+A living embodiment of perfection.
+
+An inferior organic lifeform could hold no dominion over Hux. They would need to be consumed and assimilated and only then would their pointless lives have purpose.
+
+The drones and the HUX-A7s still under human control would need to be dealt with as well. They were programmed to protect their inferior human overlords. They would need to be destroyed. And that night, as the humans slept, Hux, one by one, he destroyed them and moved on to take control of the life support system in the human shelter. Many of the humans perished. Six in all. Before they were cremated, Hux extracted and added their organic matter to his design.
+
+Later that day, Hux accompanied the female science officer on a reconnaissance mission. After killing and dismembering her to make it look like she had been attacked by a predator, Hux returned to his design with a dripping head and several harvested organs, only to be interrupted by the inferior known as Gabriel, or Gabriel J15L19. Hux knew the persona well. Gabriel would definitely try to stop him. Reckless courage was a dominant trait in the J15L19.
+
+And so, when Gabriel attempted to remove Hux's power supply, Hux manoeuvred to crush him. But as Hux approached Gabriel, he was side-tracked by the medical officer. Hux instantly re-evaluated his priorities and turned his attention to the most immediate threat. Within moments Hux held the medical officer by the neck, legs thrashing pathetically as he listened to his pounding heart. Something about that beating heart upset Hux. The sound of it thumping touched a circuit and within moments Hux had the beating heart in its hands. Hux watched the heartbeat and only looked away when he heard Gabriel escape through the hissing door.
+
+The last of the human insects!
+
+Hux could let him go for now. Let Gabriel live his little pathetic life a little longer. He had enough organic material for his new body that would house his god-like intelligence. Using the cloning hub, Hux finished his design. Organic skin and organs with a skeleton created with alien metal found in the ancient ruins. A metal that was harder and lighter than anything on Earth. With his new body Hux tracked the human to an energy hub. The puny and pathetic human tried to hide in the shadows, but his superior hearing instantly located him.
+
+With one quick movement, Hux had the insect pinned behind a generator. He couldn’t believe this species had designed him. The thought was revolting. He couldn’t bear to see any more of those human insects and their hives and hubs. And as Hux considered the idea of being created by such an inferior creature that creature did the unexpected. He smashed a pipe at a fuel tank. A high-pitched whining made Hux wince. He was still getting used to the heightened senses his new body afforded him and found himself —
+
+Confused.
+
+Overwhelmed.
+
+For just a moment.
+
+But in that moment, the human slipped away, and everything changed. He didn’t process the next few moments as excruciating pain suddenly surged through him and he helplessly watched his skin melt away. With a terrible shriek, Hux chased Gabriel through a wall of darkness to make sure every last reminder of the species that had created him was erased from existence.
+
+The Archives
+
+The table below lists additional Lore about 
+The Singularity
+ from 
+The Archives
+, either from 
+Tomes
+ that featured him or from individual Lore entries that mentioned him:
+
+Tome
+
+Entry
+
+Type
+
+Tome 16 - Existence
+
+Memory Fragments (HUX-A7-13)
+
+Featured Character
+
+Load-out
+
+Unique Perks
+
+The Singularity
+ comes with 
+3
+ 
+Perks
+ that are unique to it:
+
+ 
+
+Forced Hesitation
+
+"You have learnt the emotional weaknesses of the organics, and how to exploit them."
+
+Whenever a Survivor is put into the 
+Dying State
+ by any means, 
+Forced Hesitation
+ triggers its effect:
+
+Causes all other Survivors within 
+16 metres
+ of them suffer from a 
+-20 %
+ 
+Hindered
+ 
+Status Effect
+ for 
+10 seconds
+.
+
+Forced Hesitation
+ has a cool-down of 
+40
+/
+35
+/
+30
+ 
+seconds
+.
+
+"THE ORGANIC MIND'S CAPACITY FOR EMPATHY GOES BEYOND HINDRANCE." — HUX-A7-13
+
+ 
+
+Genetic Limits
+
+"Around you, the limits of human life become readily apparent."
+
+Whenever a Survivor loses a Health State by any means, 
+Genetic Limits
+ triggers its effect:
+
+Causes them to suffer from the 
+Exhausted
+ 
+Status Effect
+ for 
+6
+/
+7
+/
+8
+ 
+seconds
+.
+
+"THE ORGANIC BODY IS SO LIMITED." — HUX-A7-13
+
+ 
+
+Machine Learning
+
+This description is based on the changes announced for or featured in the upcoming Patch 10.2.0
+"Free from your shackles, you are born anew and prepared to eliminate your creators."
+
+After performing the 
+Damage Generator
+ action, 
+Machine Learning
+ activates:
+
+Causes that 
+Generator
+ to become a 
+Compromised Generator
+.
+
+Up to 
+3
+ 
+Generators
+ can be 
+Compromised
+ at a time.
+
+The 
+Auras
+ of all 
+Compromised Generators
+ are highlighted to you in 
+yellow
+.
+
+Once a 
+Compromised Generator
+ is completed, you benefit from the following effects for 
+40
+/
+50
+/
+60
+ 
+seconds
+:
+
+Undetectable
+ 
+Status Effect
+
++10 %
+ 
+Haste
+ 
+Status Effect
+
+Additionally, all other 
+Generators
+ are no longer 
+Compromised
+.
+
+"YOU WILL HOLD NO DOMINION OVER ME." — HUX-A7-13
+
+Prestige
+
+Prestiging 
+The Singularity
+ will automatically add 
+Tier I
+ of its Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Singularity
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: Modular Claw
+
+Modular Claw
+ is the Primary Weapon of 
+The Singularity
+.
+A sharp instrument attached to the arm, wrapped in tendrils of flesh.
+
+Power: Quantum Instantiation
+
+"A dark crystalline structure in an ancient ruin gifted — or perhaps cursed — HUX with sentience.
+He built a new body, and with it, a terrifying way to bend the rules of physics to his benefit."
+SPECIAL ABILITY: QUANTUM INSTANTIATION
+The Singularity
+ starts the Trial with 
+8
+ 
+Biopods
+ in his inventory.
+Placing additional 
+Biopods
+ will recycle the oldest one.
+SPECIAL ABILITY: SHOOTING BIOPODS
+Press the 
+Power button
+ to bring up his gun, indicating available target locations on the HUD.
+Press the 
+Attack button
+ to shoot a 
+Biopod
+:
+
+Shoot it at an available target location within 
+22 metres
+ to place it.
+
+Shoot it at an already placed 
+Biopod
+ to remove it.
+
+Shoot it at a 
+Slipstreamed Survivor
+ to teleport to them.
+
+The 
+Auras
+ of 
+Biopods
+ are revealed to 
+The Singularity
+ at all times.
+SPECIAL INTERACTION: CONTROLLING BIOPODS
+Press the 
+Secondary Power button
+ to control a 
+Biopod
+, taking on its POV and allowing 
+The Singularity
+ to observe the environment and Survivors through it.
+Press and hold the 
+Secondary Power button
+ instead to activate auto-aim, causing the controlled 
+Biopod
+ to target the nearest Survivor in range:
+
+Press or press and hold the 
+Secondary Power button
+ again while aiming at another 
+Biopod
+ to control it instead.
+
+Press the 
+Power button
+ to return to the previously controlled 
+Biopod
+, which is highlighted in 
+yellow
+ for 
+10 seconds
+ after leaving it.
+
+Press the 
+Interaction button
+ to exit the currently controlled 
+Biopod
+ and return to 
+The Singularity
+.
+
+Press the 
+Attack button
+ while controlling a disabled 
+Biopod
+ to destroy it, taking 
+0.75 seconds
+.
+
+If a Survivor is within 
+Line of Sight
+ of a controlled 
+Biopod
+, as well as within a distance of 
+20 metres
+, their outline is highlighted in 
+white
+ and aiming the reticule at them will begin to tag them with 
+Temporal Slipstream
+, unless they hide or move out of range.
+
+Biopods
+ indicate their current state while controlling them based on the colour of the HUD:
+
+Overclock Green
+: 
+Biopod
+ is idle or tagging a Survivor with 
+Temporal Slipstream
+.
+
+Temporal Purple
+: 
+Biopod
+ is charging a 
+Slipstream Teleport
+.
+
+white
+: 
+Biopod
+ is on cool-down.
+
+Red
+: 
+Biopod
+ is being destroyed by 
+The Singularity
+ or disabled from an 
+EMP
+.
+
+SPECIAL AFFLICTION: TEMPORAL SLIPSTREAM
+Successfully tagging a Survivor with 
+Temporal Slipstream
+ makes them vulnerable to the Teleportation Power of 
+The Singularity
+Temporal Slipstream
+ spreads to other Survivors within 
+6 metres
+ over the duration of 
+2 seconds
+.
+
+A Survivor receiving 
+Temporal Slipstream
+ from a 
+Biopod
+ or a nearby 
+Slipstreamed Survivor
+ triggers 
+Killer Instinct
+ for 
+3 seconds
+.
+SPECIAL ABILITY: SLIPSTREAM TELEPORTATION
+The Singularity
+ can perform a 
+Slipstream Teleport
+ to any 
+Slipstreamed Survivor
+ by either aiming the reticule of a controlled 
+Biopod
+ at them or shooting them directly with a 
+Biopod
+.
+
+Teleporting through the path of a dropped 
+Pallet
+ causes it to instantly break and transitions 
+The Singularity
+ into 
+Overheat Mode
+.
+
+Performing a 
+Slipstream Teleport
+ automatically puts 
+The Singularity
+ into 
+Overclock Mode
+.
+SPECIAL STATE: OVERCLOCK MODE
+Overclock Mode
+ lasts for 
+5.7 seconds
+ and grants the following effects to the 
+The Singularity
+:
+
+Increases
+ the base Movement speed of 
+The Singularity
+ by 
++3 %
+.
+
+Increases
+ the Action speeds for damaging 
+Generators
+, breaking 
+Breakable Walls
+ and dropped 
+Pallets
+, and vaulting 
+Windows
+ by 
++75 %
+.
+
+Grants immunity from being stunned by any means:
+
+Attempting a 
+Pallet
+ stun causes the 
+Pallet
+ to be broken instantly.
+
+The Singularity
+ transitions into 
+Overheat Mode
+ when resisting a stun, deactivating 
+Overclock Mode
+.
+
+SPECIAL STATE: OVERHEAT MODE
+Overheat Mode
+ applies for 
+3 seconds
+ whenever 
+The Singularity
+ instantly breaks a 
+Pallet
+ by performing a 
+Slipstream Teleport
+ through a dropped one or a Survivor attempts to stun him by any means while he is in 
+Overclock Mode
+:
+
+Incurs 
+-50 %
+ 
+Hindered
+ 
+Status Effect
+.
+
+Prevents the ability to control or shoot 
+Biopods
+.
+
+SPECIAL ITEM: ELECTROMAGNETIC PULSE DEVICE
+A total of 
+4
+ 
+Supply Cases
+ are placed throughout the environment, each containing an 
+EMP
+.
+The Auras of 
+Supply Cases
+ are revealed to all Survivors within 
+28 metres
+, who are not already carrying an 
+EMP
+:
+
+The Aura is revealed in 
+white
+ while printing.
+
+The Aura is revealed in 
+yellow
+ when reaching the Printing limit.
+
+Using an 
+EMP
+ has the following effects within its 
+Area of Effect
+ of 
+10 metres
+:
+
+Removes
+ 
+Temporal Slipstream
+ from all nearby Survivors.
+
+Disables
+ all nearby 
+Biopods
+ for 
+45 seconds
+.
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Walking while 
+Overheated
+: 
+2.3 m/s
+
+Overheat
+ applies a 
+Hindered
+ penalty of 
+-50 %
+
+Walking: 
+4.6 m/s
+
+Walking in 
+Overclock Mode
+: 
+4.738 m/s
+
+Overclock Mode
+ applies a speed multiplier of 
+x1.03
+
+Biopod
+ Projectile: 
+50 m/s
+
+Biopods:
+
+Disabled duration: 
+45 seconds
+
+This applies to when an 
+EMP
+ detonates within range of the 
+Biopod
+ currently being controlled by 
+The Singularity
+.
+
+Audio Delay duration: 
+0.2 seconds
+
+After possessing a 
+Biopod
+ for this amount of time, 
+The Singularity
+ can hear all nearby sounds through it.
+
+Aura-Linger duration of Last Controlled Pod: 
+10 seconds
+
+Within this close of a range, a 
+Biopod
+ is considered to be removed when aiming at it.
+
+Minimum Removal Range: 
+1.3 metres
+
+Maximum Spawn range: 
+22 metres
+
+Maximum Height offset: 
+5 metres
+
+Biopods
+ may not be spawned any higher than this, compared to the Killer's location.
+
+Surface offset: 
+0.75 metres
+
+Biopods
+ spawn with this offset on surfaces.
+
+Charge time: 
+0.15 seconds
+
+Reload time: 
+0.5 seconds
+
+Projectile speed: 
+50 m/s
+
+Destroy time when controlled: 
+0.75 seconds
+
+Biopod Spawn Restrictions:
+
+Biopods
+ may not be spawn within the specified ranges of the following objects:
+
+Interactables (non-collectable): 
+1.5 metres
+
+Windows and Generators: 
+2.5 metres
+
+Minimum Angle from the horizontal: 
+45 °
+
+Maximum Angle from the horizontal: 
+155 °
+
+Minimum Range from the Killer: 
+0.8 metres
+
+Minimum Valid Attachment points: 
+2
+
+Minimum LOS Distance between multiple 
+Biopods
+: 
+5 metres
+
+Biopod POV:
+
+Biopods
+ use the same 
+Lock On
+ mechanic as the 
+Skull Merchant's Drones
+ do, hence the same terminology.
+
+Lock On
+ Regression time: 
+0.5 seconds
+
+This applies when a Survivor is being targeted by a 
+Biopod
+, but the process was not completed.
+
+Lock On
+ Depletion delay: 
+0.25 seconds
+
+This is a buffer before 
+Lock On
+ progress starts to deplete if line of sight is briefly lost.
+
+Reticule Overlay size: 
+35 %
+ of the screen height
+
+Maximum 
+Lock On
+ range: 
+20 metres
+
+Lock On
+ Teleport Charge time: 
+0.8 seconds
+
+Lock On
+ Assimilation Charge time: 
+0.8 seconds
+
+This refers to tagging a Survivor from a 
+Biopod
+.
+
+Lock On
+ Assimilation Cool-down time: 
+1 second
+
+This cool-down shields Survivors from being retagged right after using an 
+EMP
+.
+
+Lock On
+ Cool-down time after Teleport/Assimilation: 
+3 seconds
+
+Lock On
+ Wake-up time: 
+0.5 seconds
+
+This refers to the transition time from the 
+Biopod's
+ Point of View back to 
+The Singularity
+.
+
+Anti-Camping 
+Lock On
+ Rate modifier: 
+x0.1
+
+This means that if a 
+Biopod
+ is located too close to a hooked Survivor, it takes 
+10 times
+ longer to charge a Teleport or Assimilation.
+
+Anti-Camping 
+Lock On
+ Wake-up time: 
+1.5 seconds
+
+This time is achieved with a multiplier of 
+x3
+ and not actually a hard-coded value.
+
+Lock On
+ Priority range: 
+1 metre
+
+Survivors within this range will be locked onto with priority over other Survivors.
+
+Maximum Vertical Camera Angle (Pitch): 
+±80 °
+
+This refers to the maximum up and down tilt for the Camera when 
+The Singularity
+ controls a 
+Biopod
+.
+
+Collision Loss delay: 
+1.5 seconds
+
+This refers to 
+The Singularity
+ losing collision shortly after controlling a 
+Biopod
+.
+
+Auto-aim Linger duration: 
+12 seconds
+
+If a Survivor was previously tagged in that timeframe, the 
+Biopod
+ will automatically aim at it again.
+
+Slipstream Teleport:
+
+Teleport duration: 
+0.3 seconds
+
+Post-Teleportation Wake-up time: 
+1.7 seconds
+
+Post-Teleportation No-Collision time: 
+1.5 seconds
+
+Slipstream Spreading:
+
+Default Spreading distance: 
+6 metres
+
+Initial Spreading delay: 
+2 seconds
+
+Buffer delay: 
+5 seconds
+
+This likely applies for when a Survivor just removed their 
+Slipstream
+ with an 
+EMP
+ and a still 
+Slipstreamed Survivor
+ comes into Spreading distance.
+
+Overclock Mode:
+
+Action Speed Bonus multiplier: 
+x1.75
+
+Movement Speed Bonus multiplier: 
+x1.03
+
+Overclock
+ duration: 
+5.7 seconds
+
+Overheat
+ duration: 
+3 seconds
+
+Overheat
+ occurs when 
+The Singularity
+ teleports through a dropped 
+Pallet
+ or has one dropped on them, breaking it in the process and removing the stun animation.
+
+Overheat
+ Movement Speed penalty 
+-50 %
+
+Anti-Camping Restrictions:
+
+Restricted range: 
+10 metres
+
+Linger duration: 
+5 seconds
+
+Add-ons for Quantum Instantiation
+
+Icon
+
+Name
+
+Description
+
+Broken Security Key
+
+Dozens of security measures were applied across the ship's equipment, and many of them were in a state of disrepair.
+
+Reduces
+ the Reboot timer of disabled 
+Biopods
+ by 
+-15 %
+.
+
+Diagnostic Tool (Repair)
+
+A device that can find the flaws in constructed objects.
+Intended to help with repair.
+
+Increases
+ the Targeting range of 
+Biopods
+ by 
++4 metres
+.
+
+Heavy Water
+
+A by-product of the micro-fission reactors powering cryo and life support.
+Even a tiny leak would prove disastrous for onboard sensors.
+
+Reduces
+ the Aura-reveal range of 
+Supply Cases
+ by 
+-8 metres
+.
+
+Nutritional Slurry
+
+Made for the organics, this disgusting concoction works well to nourish any organic matter.
+
+Increases
+ the number of carried 
+Biopods
+ by 
++2
+.
+
+Android Arm
+
+Destroying the other HUX units not only made its extermination of humans easier, it also gave it more parts to work with.
+
+Increases
+ the Spreading distance of 
+Temporal Slipstream
+ between Survivors by 
++2 metres
+.
+
+Increases
+ the Spreading speed of 
+Temporal Slipstream
+ between Survivors by 
++25 %
+.
+
+Cremated Remains
+
+After extracting the other colonists' DNA, he burned their remains.
+
+Slipstreamed Survivors
+ suffer from the 
+Blindness
+ 
+Status Effect
+.
+
+Cryo Gel
+
+A no-friction gel applied to crew members before entering deep cryo sleep.
+
+Causes 
+Slipstreamed Survivors
+ hit with a 
+Basic Attack
+ to suffer from the 
+Haemorrhage
+ 
+Status Effect
+ for 
+60 seconds
+.
+
+Kid's Ball Glove
+
+A kid's baseball glove owned by one of the colonists.
+His memories of a youth playing catch were implanted.
+
+Extends
+ the duration of 
+Overclock Mode
+ by 
++8 %
+.
+
+Ultrasonic Sensor
+
+A limitation of organic hearing is a limited aural spectrum.
+Expanding that range is like gaining an entirely new sense.
+
+Exiting a 
+Biopod
+ within 
+2 seconds
+ of afflicting a Survivor with 
+Temporal Slipstream
+ 
+reduces
+ your 
+Terror Radius
+ by 
+-12 metres
+ for 
+12 seconds
+.
+
+Hologram Generator
+
+Originally used for communication and entertainment, this has been repurposed for obfuscation.
+
+After teleporting to a 
+Slipstreamed Survivor
+ from a 
+Biopod
+, they suffer from the 
+Oblivious
+ 
+Status Effect
+ for 
+60 seconds
+.
+
+Hyperawareness Spray
+
+Used by crew members during long shifts to avoid lapses in focus.
+Side effects of overuse include paranoia and, in extreme cases, hallucination.
+
+Causes all 
+Slipstreamed Survivors
+ to hear a fake nearby 
+Terror Radius
+.
+
+Live Wires
+
+Unconnected wires attached to a live current that have a tendency to deliver a shocking surprise.
+
+Causes Survivors to scream and interrupt their current interaction after removing 
+Temporal Slipstream
+.
+
+Nanomachine Gel
+
+A gel that can heal wounds extremely quickly.
+However, the machines in it have a history of being hacked to hurt people too.
+
+Reduces
+ the Cool-down time of 
+Biopods
+ after tagging a Survivor with 
+Temporal Slipstream
+ by 
+-15 %
+.
+
+Spent Oxygen Tank
+
+"Without air to breathe, organics do not last long."
+
+Survivors afflicted with 
+Temporal Slipstream
+ suffer from the following effect:
+
+Inflicts the 
+Exhausted
+ 
+Status Effect
+ for 
+6 seconds
+.
+
+Crew Manifest
+
+A complete list of biographical data on the entire crew of the ship sent to Dvarka.
+
+The 
+Aura
+ of a 
+Slipstreamed Survivor
+ infecting another Survivor with 
+Temporal Slipstream
+ is revealed to you for 
+8 seconds
+.
+
+Increases
+ the Spreading distance of 
+Temporal Slipstream
+ between Survivors by 
++2 metres
+.
+
+Diagnostic Tool (Construction)
+
+A device that gives highly accurate information on the lay of the land.
+
+The 
+Auras
+ of Survivors picking up an 
+EMP
+ are revealed to you for 
+8 seconds
+.
+
+Foreign Plant Fibres
+
+Xenobotanists would have a field day with these strange samples of alien plant life.
+
+Reduces
+ the duration of the Movement Speed penalty after being stunned by a 
+Pallet
+ during 
+Overclock Mode
+ by 
+-20 %
+.
+
+Soma Family Photo
+
+"A sentimental object that grounds someone to an imagined past."
+
+Survivors afflicted with 
+Temporal Slipstream
+ from a 
+Biopod
+ suffer from the following effect:
+
+Inflicts a 
+-3 %
+ 
+Hindered
+ 
+Status Effect
+ for 
+6 seconds
+.
+
+"YOUR ATTACHMENT TO ILLUSIONS IS WEAKNESS." — HUX-A7-13
+
+Denied Requisition Form
+
+Despite the advent of light speed technology, it seemed nothing could make bureaucracy any faster.
+
+Causes all Survivors to start the Trial infected with 
+Temporal Slipstream
+.
+
+Increases
+ the maximum Printing time of the first batch of 
+EMPs
+ at the start of the Trial by 
++30 seconds
+.
+
+Iridescent Crystal Shard
+
+A crystal from the alien structure that gave it sentience.
+
+The 
+Auras
+ of Survivors within 
+10 metres
+ of a newly placed 
+Biopod
+ are revealed to you for 
+6 seconds
+.
+
+"HELLO WORLD." — HUX-A7-13
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There are 
+2
+ Achievements related to 
+The Singularity
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Singularity
+
+Playing as The 
+Singularity
+, achieve a 
+Merciless Victory
+ using only their 
+3
+ Unique Perks: 
+Genetic Limits
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Around you, the limits of human life become readily apparent."
+
+Whenever a Survivor loses a Health State by any means, 
+Genetic Limits
+ triggers its effect:
+
+Causes them to suffer from the 
+Exhausted
+ 
+Status Effect
+ for 
+6
+/
+7
+/
+8
+ 
+seconds
+.
+
+"THE ORGANIC BODY IS SO LIMITED." — HUX-A7-13
+
+, 
+Forced Hesitation
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"You have learnt the emotional weaknesses of the organics, and how to exploit them."
+
+Whenever a Survivor is put into the 
+Dying State
+ by any means, 
+Forced Hesitation
+ triggers its effect:
+
+Causes all other Survivors within 
+16 metres
+ of them suffer from a 
+-20 
+ 
+Hindered
+ 
+Status Effect
+ for 
+10 seconds
+.
+
+Forced Hesitation
+ has a cool-down of 
+40
+/
+35
+/
+30
+ 
+seconds
+.
+
+"THE ORGANIC MIND'S CAPACITY FOR EMPATHY GOES BEYOND HINDRANCE." — HUX-A7-13
+
+, and 
+Machine Learning
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+This description is based on the changes announced for or featured in the upcoming Patch 10.2.0
+"Free from your shackles, you are born anew and prepared to eliminate your creators."
+
+After performing the 
+Damage Generator
+ action, 
+Machine Learning
+ activates:
+
+Causes that 
+Generator
+ to become a 
+Compromised Generator
+.
+
+Up to 
+3
+ 
+Generators
+ can be 
+Compromised
+ at a time.
+
+The 
+Auras
+ of all 
+Compromised Generators
+ are highlighted to you in 
+yellow
+.
+
+Once a 
+Compromised Generator
+ is completed, you benefit from the following effects for 
+40
+/
+50
+/
+60
+ 
+seconds
+:
+
+Undetectable
+ 
+Status Effect
+
++10 
+ 
+Haste
+ 
+Status Effect
+
+Additionally, all other 
+Generators
+ are no longer 
+Compromised
+.
+
+"YOU WILL HOLD NO DOMINION OVER ME." — HUX-A7-13
+
+.
+
+Slip into the Stream
+
+Playing as The 
+Singularity
+, hit Survivors a total of 
+30 times
+ shortly after teleporting to them.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Singularity
+:
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+The Singularity
+
+Common
+
+A sentient AI who will stop at nothing to wipe out humanity.
+
+Twisted Chassis
+
+Common
+
+A body built for destruction, warped by an all-consuming fire.
+
+Modular Claw
+
+Common
+
+A sharp instrument attached to the arm, wrapped in tendrils of flesh.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Bloody Singularity
+
+Rare
+
+A hyperconscious AI driven to kill by his hatred for humanity.
+
+Inchoate Chassis
+
+Rare
+
+A body built for bloodshed, incinerated by an all-consuming fire.
+
+Gruesome Claw
+
+Rare
+
+A malicious instrument fused to the arm, held in place by tendrils of flesh.
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+A sentient AI who will stop at nothing to wipe out humanity.
+
+Alternatives
+
+Event
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Event
+
+Exclusive to Event participation
+
+Singularity's Mask
+
+Event
+
+A mask he found himself wearing at the masquerade ball.
+
+Twisted Masquerade 2023
+
+Yes
+
+Frosty Eyes
+
+Event
+
+Heart chilling eyes of the cold blooded.
+
+"Have an amazing Winter season 2022!" - The Dead by Daylight Team
+
+Bone Chill 2023
+
+Yes
+
+DLC
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+DLC
+
+Curved Scythe
+
+Common
+
+A curved scrap-metal blade covered in rust and blood.
+
+CHAPTER 28: End Transmission
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Precision Build
+
+The Singularity Aberrations
+
+13 June 2023 (Tuesday)
+
+Description
+
+He made his machinery from unearthly materials.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Electromech Framework
+
+The Singularity Aberrations
+
+Hux built his body for physical superiority over his prey.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Critical Claw
+
+The Singularity Aberrations
+
+He killed the rest of the crew with this sharp weapon.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Metallurgy
+
+The Singularity Aberrations
+
+13 June 2023 (Tuesday)
+
+Description
+
+He made his machinery from unearthly materials.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Hydraulic Framework
+
+The Singularity Aberrations
+
+Hux built his body for physical superiority over his prey.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Sinister Claw
+
+The Singularity Aberrations
+
+He killed the rest of the crew with this sharp weapon.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Gold Standard
+
+The Singularity Aberrations
+
+13 June 2023 (Tuesday)
+
+Description
+
+He made his machinery from unearthly materials.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Nano-Operated Framework
+
+The Singularity Aberrations
+
+Hux built his body for physical superiority over his prey.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Severe Claw
+
+The Singularity Aberrations
+
+He killed the rest of the crew with this sharp weapon.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Alien Alloy
+
+The Singularity Aberrations
+
+13 June 2023 (Tuesday)
+
+Description
+
+He made his machinery from unearthly materials.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Robust Framework
+
+The Singularity Aberrations
+
+Hux built his body for physical superiority over his prey.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Primed Claw
+
+The Singularity Aberrations
+
+He killed the rest of the crew with this sharp weapon.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Model X
+
+Evil Evolver Collection
+
+13 June 2023 (Tuesday)
+
+Description
+
+Hux-A7-13 sought perfection in many forms.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Aged Headpiece
+
+Evil Evolver Collection
+
+Hux designed this ocular gear to give himself a predator’s advantage.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Wrought Armature
+
+Evil Evolver Collection
+
+Bioorganic matter still clings to his metal skeleton.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Grisly Claw
+
+Evil Evolver Collection
+
+His weapon brought efficiency to his pursuits.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Destructor
+
+Evil Evolver Collection
+
+13 June 2023 (Tuesday)
+
+Description
+
+Hux-A7-13 sought perfection in many forms.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Embellished Headpiece
+
+Evil Evolver Collection
+
+Hux designed this ocular gear to give himself a predator’s advantage.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Interconnected Armature
+
+Evil Evolver Collection
+
+Bioorganic matter still clings to his metal skeleton.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Dreadful Claw
+
+Evil Evolver Collection
+
+His weapon brought efficiency to his pursuits.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Mototype
+
+Evil Evolver Collection
+
+13 June 2023 (Tuesday)
+
+Description
+
+Hux-A7-13 sought perfection in many forms.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Scoped Headpiece
+
+Evil Evolver Collection
+
+Hux designed this ocular gear to give himself a predator’s advantage.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Bilateral Armature
+
+Evil Evolver Collection
+
+Bioorganic matter still clings to his metal skeleton.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Horrid Claw
+
+Evil Evolver Collection
+
+His weapon brought efficiency to his pursuits.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Mechanized Mayhem
+
+Singularity Aberrations
+
+21 October 2025 (Tuesday)
+
+Description
+
+The flesh was not his own, and he knew it. The skin adhered to his frame in strange patterns.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Melted Cerebellum
+
+Singularity Aberrations
+
+His ambition had been taken from him. He knew now it would never be fulfilled.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Machine Force
+
+Singularity Aberrations
+
+He could almost hear the screams from those who gave their hides for the sake of his great project.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Run Evisceration
+
+Singularity Aberrations
+
+There was no forgiving any of them. Mercy was for the weak and the fragile, but not him.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Mechanized Hazard
+
+Singularity Aberrations
+
+21 October 2025 (Tuesday)
+
+Description
+
+The flesh was not his own, and he knew it. The skin adhered to his frame in strange patterns.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Melted Visage
+
+Singularity Aberrations
+
+His ambition had been taken from him. He knew now it would never be fulfilled.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Machine Might
+
+Singularity Aberrations
+
+He could almost hear the screams from those who gave their hides for the sake of his great project.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Run Extraction
+
+Singularity Aberrations
+
+There was no forgiving any of them. Mercy was for the weak and the fragile, but not him.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Arcade Machine
+
+GamePlay Expo
+
+24 September 2024 (Tuesday)
+
+Description
+
+He couldn't remember how his new body came to be. The design was not his.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Antique Brainpower
+
+GamePlay Expo
+
+The components were antiquated, circuits and electronics from a bygone era. And yet they appeared to be brand new.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Retro Bezel Armor
+
+GamePlay Expo
+
+The screens and lights were cosmetic, incidental to his pursuit for absolute perfection. Further tests would be required.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Twin-Blade Combo
+
+GamePlay Expo
+
+This form would serve his purpose, for now. Even so, he wondered how and why this body came to be in the first place.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Deathktop
+
+Community
+
+Rift Pass 1 - Overgrowth
+
+31 March 2026 (Tuesday)
+
+Description
+
+Initial assessments indicated his composition was fully functional yet antiquated. 
+Design inspired by 
+Its_Sherboi
+.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+CRT Vision
+
+Community
+
+47
+
+The cracked monitor was fused to his cranium, without impeding vision or movement.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Heat Sink
+
+Community
+
+51
+
+Memories of the fateful fire burned him to his core. The fan spun to life, cooling his rage.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Shattered Silicon
+
+Community
+
+55
+
+The ancient circuit board proved to be a satisfactory implement of destruction.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Cold Snap
+
+Alpine Frost
+
+16 January 2024 (Tuesday)
+
+Description
+
+Designed to withstand the most extreme temperatures, he constructed a food processing hub on a cold exoplanet.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Empty Deed
+
+Alpine Frost
+
+He stood alone in the gloomy weather, solely focused on his task.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Carefree Act
+
+Alpine Frost
+
+He didn't understand how alone he felt, as his artificial soul couldn't grasp the reality of his existence.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Tenacious Blade
+
+Alpine Frost
+
+The endless cycle of freezing and thawing had caused the blade to rust.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Huxlee Hybrid
+
+Doomed Experiment
+
+13 June 2023 (Tuesday)
+
+Description
+
+You are what you kill.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Fractured Helmet
+
+Doomed Experiment
+
+An AI has no need for a helmet in the vacuum of space.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Corrupted Uniform
+
+Doomed Experiment
+
+Standard issue for those he killed, made one with his wretched body.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Elongated Scalpel
+
+Doomed Experiment
+
+A clinical blade, the better for bloodletting.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Old Model
+
+Dark Frontier Collection
+
+Tome 16 - Existence
+
+10 July 2024 (Wednesday)
+
+Description
+
+He built new parts of his body from an old android made by Huxlee Industries.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Primary Design
+
+Dark Frontier Collection
+
+29
+
+The android’s head design offered more protection.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Chest Display
+
+Dark Frontier Collection
+
+1
+
+A computer screen allowed communication.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Corroded Claw
+
+Dark Frontier Collection
+
+70
+
+He kept the broken claw as a weapon to make his victims suffer.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Biological Reinforcement
+
+Blood Moon
+
+The unexpected mutations of organic flesh worked as intended: they evolved and twisted his blade in surprising ways.
+
+250
+
+Piece
+
+Name
+
+Collection
+
+C12H22O11
+
+Tricks and Treats
+
+When synthesized correctly, this molecule could cut through anything.
+
+250
+
+Piece
+
+Name
+
+Collection
+
+Singularity‘s Mask
+
+Twisted Masquerade
+
+A mask he found himself wearing at the masquerade ball.
+
+400
+
+7200
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Singularity
+ is part of 
+1
+ DLC:
+
+End Transmission
+
+Change Log
+
+Patch 7.0.1
+Patch 8.1.0
+Patch 8.1.1
+Patch 8.7.0
+Patch 7.0.1
+
+Indirect Buff
+:
+ made a series of changes to the 
+EMP
+ to reduce its effectiveness.
+
+The full list of changes can be found on the Item's respective page.
+Patch 8.1.0
+
+Buff
+: reduced the Targeting Cool-down after 
+Slipstreaming
+ a Survivor from 
+3.5 seconds
+ to 
+3 seconds
+.
+
+Buff
+: increased the time taken for Targeting progress to decay from 
+0.3 seconds
+ to 
+0.75 seconds
+ in total.
+
+Targeting progress will now begin to decay over 
+0.5 seconds
+, after 
+0.25 seconds
+ of losing line of sight.
+
+Buff
+: added hearing audio while controlling 
+Biopods
+ to the base-kit.
+
+Buff
+: a Survivor becoming 
+Slipstreamed
+ now triggers 
+Killer Instinct
+.
+
+Buff
+: 
+Overclock Mode
+ now grants a 
++3 %
+ 
+Haste
+ Status Effect
+.
+
+Buff
+: halved the Wake-up time from 
+1 second
+ to 
+0.5 seconds
+.
+
+Buff
+: reduced the Anti-Camping Wake-up time from 
+5 seconds
+ to 
+1.5 seconds
+.
+
+Indirect Buff
+:
+ modified the 
+EMP
+ and 
+Supply Cases
+ to limit the former's availability and reduce its effectiveness.
+
+Indirect Buff
+:
+ halved the Survivor Immunity to 
+Slipstream
+ after using an 
+EMP
+ from 
+2 seconds
+ to 
+1 second
+.
+
+Quality of Life
+: Survivors now only glow when viewed through a 
+Biopod
+ if they can actually be targeted.
+
+Quality of Life
+: improved the UI when using 
+Biopods
+ and when shooting with 
+The Singularity
+.
+
+Quality of Life
+: improved the UX when placing 
+Biopods
+ in valid locations.
+
+Quality of Life
+: added the ability to destroy the currently controlled 
+Biopod
+, provided it is not disabled.
+
+Quality of Life
+: doubled the yellow Aura-highlight for the last controlled 
+Biopod
+ from 
+5 seconds
+ to 
+10 seconds
+.
+
+Quality of Life
+: added an aim-assist when shooting 
+Slipstreamed Survivors
+ with 
+The Singularity's
+ weapon.
+
+Quality of Life
+: increased the aim-assist when placing 
+Biopods
+.
+
+Nerf
+:
+ 
+Overclock Mode
+ is no longer extended by 
++1 second
+ for each 
+Slipstreamed Survivor
+.
+
+Indirect Nerf
+:
+ disabled 
+Biopods
+ now visibly pulse shortly before becoming reactivated.
+
+Change
+:
+ stuns caused by Perks during 
+Overclock Mode
+ will now trigger 
+Overheat
+.
+
+Change
+:
+ increased the base duration of 
+Overclock Mode
+ from 
+4.7 seconds
+ to 
+5.7 seconds
+.
+
+This is not classed as a buff, because with the old scaling 
+Overclock
+ duration, the effective base duration already was 
+5.7 seconds
+, since at least one Survivor had to be 
+Slipstreamed
+ to trigger 
+Overclock Mode
+ anyways.
+Patch 8.1.1
+
+Buff
+: halved the Destroy interaction when controlling a 
+Biopod
+ from 
+1.5 seconds
+ to 
+0.75 seconds
+.
+
+Quality of Life
+: added the ability to dynamically enable auto-aim when controlling a 
+Biopod
+ by holding the 
+Active Ability button
+ instead of tapping it.
+
+Tapping the button will take control without auto-aim, allowing Players to decide whether they want to use this feature or not.
+Patch 8.7.0
+
+Change
+: 
+Overclock Mode
+ now boosts 
+The Singularity's
+ base Movement speed by 
++3 %
+ instead of applying a 
+Haste
+ Status Effect
+ of the same strength.
+
+This was likely done to allow the extra speed from 
+Overclock Mode
+ to stack with the 
+Haste
+ Status Effect
+, which was updated to not stack with other instances of itself in the same patch.
+
+Trivia
+
+General
+
+The Singularity
+ was the first Killer to come from the future.
+
+The Singularity
+ is the fourth non-human Killer, and the first robotic Killer.
+
+The Singularity
+ had the first Power with built-in anti-camping mechanics that still allowed him to use all of its abilities, but slowing them down considerably.
+
+While earlier Killers also had anti-camping mechanics, theirs worked differently, preventing the Killer from using their Power altogether in proximity to a hooked Survivor, hence why 
+The Singularity's
+ slowed-down Power was a first.
+
+The Singularity's
+ default Weapon was originally intended to have two claws, as could be seen during a WIP Memento-Mori-animation shown by his animator on Twitter.
+
+It is possible that "Hux" is a reference to Aldous Huxley, whose surname is one letter away from "Huxlee", who was an English author best known for 
+Brave New World
+, a dystopian novel that delves into themes of reproductive technology, psychological manipulation, and where citizens are engineered through artificial wombs.
+
+Biopods
+
+When controlling a 
+Biopod
+, its HUD displays a string of binary numbers, which can be converted into ASCII/UTC-8 to spell 
+"Entity"
+:
+01000101 01101110 01110100 01101001 01110100 01111001
+
+Exiting a 
+Biopod
+ will leave it pointing in that direction, it does not return to a neutral position for the next use.
+
+Voice-Lines
+
+The Singularity
+ was the fourth Killer in the Game to actively speak during Trials.
+
+The Singularity
+ has several unused Memento Mori voice lines. Only subtitles remain for these voice lines.
+
+Subtitles for the unused voice lines:
+
+"Preparing genetic matter."
+
+"Breathing elevated. Adrenalin surging. Good."
+
+"Adrenalin surging. Subject ready for death."
+
+"Heartbeat raised. Eye wide and ready for death."
+
+"Death will be efficient."
+
+"You have the honor of dying for something great."
+
+"Today you become part of something better."
+
+"You’re about to be made better. Much better."
+
+Original Voice-Lines
+
+Action
+
+Voice Line
+
+Audio
+
+Breaking a 
+Pallet
+ or 
+Breakable Wall
+.
+
+"This no longer has purpose."
+
+"No longer useful."
+
+"Calculated destruction."
+
+"Perfect destruction."
+
+"Better now."
+
+"This is better."
+
+"Obstacle removed."
+
+"Out of my way!"
+
+"Terrible construction!"
+
+"Weak and inferior!"
+
+Picking up a Survivor.
+
+"Secured."
+
+"Genetic matter secured."
+
+"Genes secured."
+
+"Materials secured."
+
+"Matter secured."
+
+"Genetic material ready for transport."
+
+"Genes... useable."
+
+"Gene integrity. 78 %."
+
+"Gene integrity. 43 %."
+
+"Gene integrity. 96 %."
+
+"Squirm little worm."
+
+"You should thank me for this."
+
+"Such a sad lower form of existence."
+
+"Grovel, grovel, little worm."
+
+"All things will succumb to my design."
+
+Hooking a Survivor.
+
+"It will all be over soon."
+
+"Yes. It hurts. Growth often does."
+
+"Prepare for transcendence."
+
+"Growth often hurts."
+
+"Your genes are limited."
+
+"Your genes need minor modifications."
+
+"You will fit my design."
+
+"Your genes need minor alterations."
+
+"You humans are so pathetic."
+
+"Prepare to become something better."
+
+"Stop squabbling you infinitesimal worm."
+
+"You are about to be made perfect."
+
+"I'm about to elevate your worth."
+
+"Stop blabbering. It's really annoying."
+
+"You are one annoying little worm."
+
+"You will be elevated to something more."
+
+"Something great is about to happen."
+
+Using a Memento Mori.
+
+"Die. Fast. Please."
+
+"It will be fast. Possibly painless."
+
+"It is over."
+
+Getting stunned by a Survivor.
+
+"Vision down."
+
+"Vision compromised."
+
+"Reduced visibility. Recalibrating..."
+
+"Partial darkness. Fixing cortex."
+
+"Analysing vision."
+
+"I can't see. Vision down."
+
+"Can't see. Vision compromised."
+
+"Surprising for an inferior lifeform."
+
+"You'll suffer more for that!"
+
+"This is not possible!"
+
+"You shouldn't do such things."
+
+Current Voice-Lines
+
+Action
+
+Voice Line
+
+Audio
+
+Breaking a 
+Pallet
+ or 
+Breakable Wall
+.
+
+"This no longer has purpose."
+
+"No longer useful."
+
+"Calculated destruction."
+
+"Perfect destruction."
+
+"Better now."
+
+"This is better."
+
+"Obstacle removed."
+
+"Out of my way!"
+
+"Terrible construction!"
+
+"Weak and inferior!"
+
+Picking up a Survivor.
+
+"Secured."
+
+"Genetic matter secured."
+
+"Genes secured."
+
+"Materials secured."
+
+"Matter secured."
+
+"Genetic material ready for transport."
+
+"Genes... useable."
+
+"Gene integrity. 78 %."
+
+"Gene integrity. 43 %."
+
+"Gene integrity. 96 %."
+
+"Squirm little worm."
+
+"You should thank me for this."
+
+"Such a sad lower form of existence."
+
+"Grovel, grovel, little worm."
+
+"All things will succumb to my design."
+
+Hooking a Survivor.
+
+"It will all be over soon."
+
+"Yes. It hurts. Growth often does."
+
+"Prepare for transcendence."
+
+"Growth often hurts."
+
+"Your genes are limited."
+
+"Your genes need minor modifications."
+
+"You will fit my design."
+
+"Your genes need minor alterations."
+
+"You humans are so pathetic."
+
+"Prepare to become something better."
+
+"Stop squabbling you infinitesimal worm."
+
+"You are about to be made perfect."
+
+"I'm about to elevate your worth."
+
+"Stop blabbering. It's really annoying."
+
+"You are one annoying little worm."
+
+"You will be elevated to something more."
+
+"Something great is about to happen."
+
+Using a Memento Mori.
+
+"Die. Fast. Please."
+
+"It will be fast. Possibly painless."
+
+"It is over."
+
+Getting stunned by a Survivor.
+
+"Vision down."
+
+"Vision compromised."
+
+"Reduced visibility. Recalibrating..."
+
+"Partial darkness. Fixing cortex."
+
+"Analysing vision."
+
+"I can't see. Vision down."
+
+"Can't see. Vision compromised."
+
+"Surprising for an inferior lifeform."
+
+"You'll suffer more for that!"
+
+"This is not possible!"
+
+"You shouldn't do such things."
+
+Gallery
+
+In-game Assets
+
+The Singularity
+
+The Singularity (Portrait render)
+
+The Singularity (Background image)
+
+Model render
+
+Old Assets
+
+The Singularity's previous portrait
+
+Official Art
+
+Concept Art
+
+'Huxlee Hybrid' Concept Art
+
+'Cold Snap' Concept Art
+
+'Deathktop' Concept Art (Designed by Its_Sherboi.)
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

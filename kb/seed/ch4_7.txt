@@ -1,0 +1,1078 @@
+
+=====PAGE 33=====
+CHAPITRE 4
+4. Survivant : objets, add-ons et
+offrandes
+Un objet bien choisi vaut une cinquième perk. Depuis 2025, la liste a changé : les Maps et les Keys ont été refondues
+(9.1.0) et un nouvel objet est apparu, la Fog Vial. Et depuis les Diminishing Returns (9.6.0), les add-ons sont devenus le
+moyen le plus « propre » d'ajouter de la vitesse.
+Quel objet prendre ?
+• Solo queue, survie : Fog Vial (Vigo's) ou Med-Kit avec seringue anti-Exhausted.
+• Gen rush : Commodious Toolbox + Brand New Part + Socket Swivels.
+• SWF coordonné : Flashlight (Utility + Odd Bulb) pour les sauvetages, Map pour l'info d'équipe.
+• Fin de partie / hatch : Skeleton Key.
+• Vous ne savez pas : Med-Kit. C'est l'objet qui rend le plus d'erreurs pardonnables.
+Règle clé : les add-ons échappent aux Diminishing Returns
+Depuis la 9.6.0, les add-ons ne sont pas soumis aux Diminishing Returns. Le bonus d'un add-on est donc souvent
+« meilleur » qu'une perk qui fait la même chose.
+Classement général des objets
+1. Toolbox : c'est le vrai objet de victoire (réparation), surtout Commodious + Built to Last.
+2. Med-Kit : les soins altruistes sont renforcés depuis la 6.7.0 (24 charges, un état de soin = 16 charges). L'auto-soin est à
+−33 % de vitesse et d'efficacité. La seringue qui retire Exhausted est un vrai outil de poursuite.
+3. Fog Vial (9.1.0, 4 charges depuis la 9.5.0) : l'objet de survie personnelle le plus fort en solo queue.
+4. Flashlight : très fort en SWF coordonné, sinon situationnel.
+5. Map (refonte 9.1.0) : excellent pour l'info d'équipe grâce au faisceau de générateurs.
+6. Key (refonte 9.1.0) : ouvre coffres et trappe (Dull/Skeleton) et lit l'aura des survivants.
+Toolbox
+• Types :
+– Commodious : 32 charges, +50 % de réparation et de sabotage. C'est le meilleur en général.
+– Engineer's : 16 charges, repair très rapide (selon le wiki, +100 %).
+– Mechanic's : 16 charges, +75 %.
+– Alex's : 18 charges, spécialisée sabotage (+100 %).
+– Worn-Out Tools : 16 charges, zones Good réduites.
+• Meilleurs add-ons :
+– Brand New Part : un test difficile ; en cas de réussite, −10 charges nécessaires sur le générateur. C'est le meilleur add-on
+pour un générateur.
+– Socket Swivels : +30 % de réparation (toolbox).
+– Clean Rag : +20 % de réparation (toolbox).
+– Wire Spool (+12 charges) et Scraps (+8 charges) : durée de vie.
+– Sabotage : Hacksaw (+30 %), Cutting Wire (+20 %), Grip Wrench (+20 s avant retour du crochet), Protective Gloves
+(supprime le bruit d'un sabotage).
+– Instructions : supprime les tests normaux. À éviter avec Hyperfocus.
+– Spring Clamp : −8 m de bruit de réparation (stealth).
+• Combos recommandés :
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : OBJETS, ADD-ONS ET OFFRANDES
+33
+
+=====PAGE 34=====
+– Gen rush : Commodious + Brand New Part + Socket Swivels.
+– Endurance : Commodious + Socket Swivels + Wire Spool.
+– Sabo : Alex's + Hacksaw + Grip Wrench.
+Med-Kit
+• Types : Camping Aid Kit (+35 % de soin altruiste), First Aid Kit (+40 %), Emergency (+45 %), Ranger (+50 %).
+• Meilleurs add-ons :
+– Gel Dressings (+16 charges), puis Gauze Roll (+10), Bandages (+8), Self Adherent Wrap (+8 charges, +5 %).
+– Vitesse : Abdominal Dressing (+15 %), Medical Scissors (+10 %), Butterfly Tape (+5 %).
+– Tests d'habileté : Surgical Suture (+15 % de chance, +10 % de progression), Needle & Thread, Sponge / Rubber Gloves
+(zone Great plus grande).
+– Styptic Agent (depuis 9.3.0) : +15 % d'efficacité en auto-soin, n'est plus consommé et ne donne plus d'Endurance.
+– Anti-Exhaustion / Anti-Haemorrhagic Syringe (depuis 9.3.0) : consomme le kit pour retirer Exhausted. C'est idéal avec
+Lithe, Sprint Burst ou Dead Hard.
+• Combos :
+– Soin d'équipe : Ranger + Gel Dressings + Abdominal Dressing.
+– Looper : n'importe quel kit + Syringe + Styptic Agent.
+– Skill-check healer : Gel Dressings + Surgical Suture.
+Flashlight
+• Types : Flashlight standard (8 s) ; Sport (visée +20 %, déplétion −11 %) ; Utility (12 s, luminosité +30 %, aveuglement
++15 %, visée −20 %) ; Will O' Wisp / Anniversary / Masquerade (événements).
+• Meilleurs add-ons :
+– Odd Bulb : +50 % de luminosité, +25 % d'aveuglement, batterie −14 %. C'est le plus fort.
+– Intense Halogen : +40 % de luminosité, +20 % d'aveuglement.
+– Long Life Battery : +6 s.
+– High-End Sapphire Lens : portée +25 %, faisceau plus étroit, mieux pour les tireurs précis.
+– TIR Optic, Wide Lens : faisceau large mais court.
+• Combos :
+– Save rapide : Utility + Odd Bulb + Long Life Battery.
+– Précision à distance : Sport + High-End Sapphire Lens + Intense Halogen.
+• Mécanique : il n'y a plus de « lightburn » sur Wraith et Nurse (6.7.0), un cooldown anti-stroboscope existe (6.3.0), et les
+tueurs sont immunisés quand ils saisissent un survivant dans un casier. Contre-perk : Lightborn.
+Map (après la refonte 9.1.0)
+• Types : Cryptic (24 m, 4 charges), Scribbled (32 m, 5 charges), Annotated (40 m, 6 charges), Bloodsense (48 m, 8
+charges, montre aussi les blessés mais crée des flaques de sang sous vous).
+• Effet : canaliser montre palettes et fenêtres autour de vous. L'action secondaire projette un faisceau qui révèle les
+générateurs à tous les survivants dans 32 m pendant 16 s.
+• Add-ons : Battered Tape (+8 m), Gnarled Compass (+2 charges), Glowing Ink (+2 s), Sharpened Flint (montre les
+totems : parfait pour les Boons ou pour chasser les Hex), Crimson Stamp (montre l'aura du tueur près du faisceau, mais
+−10 s de faisceau et −2 charges).
+• Combos :
+– Info : Annotated + Battered Tape + Gnarled Compass.
+– Boon / anti-Hex : + Sharpened Flint.
+Key (après la refonte 9.1.0)
+• Types : Broken Key (48 m, 8 s, 6 charges, sans coffre ni trappe), Dull Key (56 m, 9 s, 5 charges), Skeleton Key (64 m, 10 s,
+6 charges).
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : OBJETS, ADD-ONS ET OFFRANDES
+34
+
+=====PAGE 35=====
+• Effet : lecture d'aura des survivants. Les Dull et Skeleton Keys ouvrent les coffres verrouillés (objet Rare ou mieux, et le
+coffre peut être fouillé une fois de plus) et rouvrent la trappe refermée en 2,5 s sans être consommées.
+• Add-ons : Friendship Charm (+1 charge), Shrill Whistle (−35 % de temps de canalisation), Braided Bauble (+2 s d'aura),
+Unique Wedding Ring (aura permanente de l'Obsession pour vous et inversement, et vous ne pouvez plus être
+Obsession), Blood Amber (montre l'aura du tueur pendant la canalisation, mais révèle la vôtre au tueur, −2 charges et
+−6 s).
+• Combo : Skeleton Key + Friendship Charm + Braided Bauble.
+Fog Vial
+• Types : Apprentice's (8 s, recharge 70 s), Artisan's (10 s, 65 s), Vigo's (12 s, 60 s). Toutes ont 4 charges et un nuage de ~8
+m à 33 % d'opacité qui masque traces et auras.
+• Add-ons : Oily Sap (+2 s), Volcanic Stone (−5 s de recharge), Reactive Compound (−1 s de déploiement), Mushroom
+Formula (+2 m), Potent Extract (opacité doublée, mais durée /2 et taille −25 %).
+• Combos :
+– Survie : Vigo's + Oily Sap + Volcanic Stone.
+– Casser une poursuite ponctuelle : Vigo's + Potent Extract + Reactive Compound.
+Offrandes utiles côté survivant
+Offrande
+Effet
+Quand l'utiliser
+Escape! Cake / Survivor Pudding
++100 % de BP sur toutes les catégories (vous
+seul)
+Toujours quand on farm. Le bonus dépasse le
+plafond de 10 000 par catégorie.
+Bloody Party Streamers
++100 % de BP sur toutes les catégories pour tous
+les joueurs
+Excellent en SWF (se cumule si plusieurs en
+brûlent)
+Bound Envelope
++25 % de BP pour tous les survivants
+Défaut « poli » en solo queue
+Primrose Blossom / Sweet William / Bog
+Laurel / Crispleaf Amaranth
++50/75/100 % sur Altruism / Boldness /
+Objectives / Survival
+À accorder à votre build (altruiste, sabo/lampe,
+générateurs)
+Vigo's Shroud
+Vous apparaissez le plus loin possible du tueur
+(offrande secrète)
+Solo queue, stealth, key
+Shroud of Union
+Vous commencez avec un autre survivant
+Duo SWF, heal/boon (depuis la 9.0.0, n'affecte
+plus l'autre paire)
+Shroud of Separation (version survivant
+depuis la 9.0.0)
+Les survivants apparaissent séparés
+Gen rush : se répartir d'emblée sur 4
+générateurs
+(tueur) Shroud of Vanishing
+Annule les offrandes d'apparition survivant
+À connaître : si votre shroud « ne marche pas »
+Offrandes de royaume (Map offerings)
+Oriente vers un royaume ou une carte. Survivant
+et tueur se cumulent, les rarités donnent des
+poids 2 / 5 / 9999.
+SWF : forcer une carte favorable. Sacrificial
+Ward (des deux côtés) les bloque.
+Chalk Pouch / Cream / Ivory
+Chance personnelle (tentatives
+d'auto-décrochage)
+Anecdotique, pour les memes
+Salt Pouch / Black Salt Statuette / Vigo's
+Jar of Salty Lips
+Chance pour tous les survivants (se cumulent)
+Anecdotique
+White Ward
+Garde l'objet et les add-ons même si vous
+mourez
+Pour vos meilleurs objets (Skeleton Key, lampe
+Odd Bulb, BNP)
+Annotated / Vigo's Blueprint
+Influence l'emplacement de la trappe
+Builds key/hatch
+Shiny / Tarnished Coin (+2 / +1 coffres),
+Cut / Scratched Coin (−)
+Nombre de coffres
+Builds Appraisal / Plunderer's / Residual
+Manifest
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : OBJETS, ADD-ONS ET OFFRANDES
+35
+
+=====PAGE 36=====
+CHAPITRE 5
+5. Survivant : 24 builds expliqués
+Chaque build est donné avec ses 4 perks, un objet et deux add-ons, une offrande, puis la façon de le jouer en partie. Les
+builds touchés par le PTB 10.2.0 ont une variante « après la 10.2.0 ».
+Quel build pour quel objectif ?
+Objectif
+Build conseillé
+Pourquoi
+Survivre au maximum en solo queue
+n° 1 (Windows, Sprint Burst, Off the Record, Will to Live)
+Chase + anti-tunnel + fenêtre
+post-crochet
+Faire gagner l'équipe en solo queue
+n° 2 (Kindred, We'll Make It, Reassurance, Sprint Burst)
+Info partagée, sauvetages propres
+Chase longue
+n° 3 ou n° 4
+Épuisement + info de tiles + Resilience
+Taux d'évasion maximal (statistique)
+n° 5 (Déjà Vu, Stake Out, Hyperfocus, Built to Last)
+Les builds générateurs s'évadent le plus
+Contre un tueur qui tunnel
+n° 9 ou n° 24
+3 à 4 « coups gratuits » après un crochet
+Contre un tueur qui slug
+n° 10
+Relevage, wiggle rapide, palette en étant
+porté
+Discrétion
+n° 11
+Le tueur ne vous trouve pas
+Maximum de Bloodpoints
+n° 13
+Remplit les 4 catégories + offrandes
+Troller le tueur
+n° 14, 15, 16, 17
+Casiers, pièges, sabotage, lampe
+Dernier survivant / trappe
+n° 18
+Clé + perks de fin
+Débuter en méta
+n° 20
+Apprend les cartes et les bons réflexes
+Sans DLC
+n° 22
+Tout est gratuit
+Le piège des actions « ostentatoires »
+Off the Record et Will to Live se désactivent dès que vous réparez, soignez, purifiez un totem, décrochez, etc. Après un
+décrochage, courez vers une zone de tiles, laissez le tueur venir s'exposer, et ne retouchez un générateur qu'une fois la
+fenêtre passée ou le tueur parti.
+1. Solo queue : survie maximale (« le défaut 2026 »)
+• Perks : Windows of Opportunity, Sprint Burst, Off the Record, Will to Live
+• Objet : Vigo's Fog Vial (ou Artisan's) avec Oily Sap (+2 s de nuage) et Volcanic Stone (−5 s de recharge)
+• Offrande : Vigo's Shroud (apparition le plus loin possible du tueur)
+Comment le jouer. C'est le défaut recommandé en solo queue en 2026, parce qu'il couvre la poursuite, l'anti-tunnel et la
+fenêtre après le décrochage. Au début de partie, marchez : Sprint Burst ne sert que si vous arrivez reposé. Il est nerfé à 2 s
+de Haste en 10.1.0, donc déclenchez-le dès le Terror Radius ou dès que le tueur vous voit, pas au dernier moment. Sur un
+générateur, gardez un œil sur les auras de WoO pour savoir vers quelle boucle fuir avant que le tueur n'arrive. Après un
+crochet, Off the Record masque votre aura et vos cris et vous donne de l'Endurance pendant 30/35/40 s (la perk a été
+retouchée plusieurs fois en 2025 : vérifiez son infobulle en jeu). Will to Live (ex-DS) reste actif 40/50/60 s. Pendant cette
+fenêtre, ne faites aucune action ostentatoire (générateur, soin, totem, décrochage) : elle annule les deux perks. Le bon
+réflexe est d'aller vers une zone de boucles et d'attendre que le tueur vienne s'exposer au stun. La Fog Vial se lance quand
+le tueur perd la ligne de vue, ou juste avant une fenêtre pour cacher la direction de votre sortie. Elle masque aussi les
+traces et l'aura. Après la 10.2.0 : remplacez WoO par Five Moves Ahead (palettes proches et +50 % de vitesse pour faire
+tomber une palette) ou par Dark Sense (buffée).
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : 24 BUILDS EXPLIQUÉS
+36
+
+=====PAGE 37=====
+2. Solo queue : aider l'équipe (« le coéquipier idéal »)
+• Perks : Kindred, We'll Make It, Reassurance, Sprint Burst
+• Objet : Emergency Med-Kit avec Gel Dressings (+16 charges) et Medical Scissors (+10 % de vitesse de soin, un add-on
+donc exempt de DR)
+• Offrande : Bound Envelope (+25 % de BP pour tous les survivants, ce qui rend service à tout le lobby)
+Comment le jouer. En solo, le premier problème est le manque d'information. Kindred, désormais perk générale, montre
+l'aura de tous les survivants à chacun quand quelqu'un est accroché, et l'aura du tueur s'il s'approche du crochet. Tout le
+lobby sait alors qui va décrocher. Votre règle : si vous êtes le plus proche et que personne ne bouge, vous y allez ; si
+quelqu'un est déjà en route, vous restez sur votre générateur. Reassurance (dans 6 m du crochet) met en pause la
+progression du crochet pendant 20/25/30 s. Elle vous fait gagner du temps quand le tueur campe ou quand vous devez
+finir un générateur avant de sauver. Après le décrochage, We'll Make It donne +100 % de soin altruiste : soignez la
+personne décrochée hors de la vue du tueur (elle a de l'Elusive basekit pendant 10 s), puis retournez sur les générateurs.
+Avant la partie, consultez Match Details (9.6.0) pour voir les builds de vos coéquipiers. Si un autre joueur a déjà Kindred,
+vous pouvez remplacer le vôtre par Deja Vu.
+3. Chase / looper « fenêtres »
+• Perks : Lithe, Windows of Opportunity, Finesse, Resilience
+• Objet : Med-Kit (Camping Aid Kit suffit) avec Anti-Exhaustion / Anti-Haemorrhagic Syringe (consomme le kit pour
+retirer Exhausted, soit un second Lithe) et Styptic Agent (+15 % d'efficacité en auto-soin)
+• Offrande : offrande de royaume vers une carte à fenêtres fortes (sur les cartes à beaucoup de « jungle gyms » :
+Coldwind, MacMillan)
+Comment le jouer. C'est le build le plus utilisé sur NightLight (≈2 % d'usage), mais son taux d'évasion reste modeste
+(≈27,6 %). Il fait des poursuites longues, pas forcément des évasions. Finesse (+20 % de vitesse sur les sauts rapides, CD
+40/35/30 s) ne marche qu'en pleine santé. Au premier contact, enchaînez donc les sauts de fenêtre en santé complète
+pour faire gagner du temps. Une fois blessé, Resilience (+9 % sur saut, générateur, soin, etc.) prend le relais. Gardez Lithe 
+pour une fenêtre ou palette qui vous amène à la boucle suivante, pas pour étirer une boucle morte. Le but de la poursuite
+est de durer 60 à 90 s : c'est à peu près le temps qu'il faut aux trois autres pour finir un générateur. Si vous êtes blessé et
+que votre Lithe est en recharge, utilisez la seringue pour le relancer. Ne donnez jamais la poursuite en ligne droite vers vos
+coéquipiers. Après la 10.2.0 : WoO ne montre plus que les fenêtres, ce qui colle encore mieux à ce build. Ajoutez Five
+Moves Ahead à la place de Finesse si vous voulez les palettes.
+4. Chase / looper « palettes » (compatible 10.2.0)
+• Perks : Five Moves Ahead, Lithe, Vigil, Resilience
+• Objet : Vigo's Fog Vial avec Reactive Compound (le nuage se déploie 1 s plus vite) et Mushroom Formula (+2 m de
+taille)
+• Offrande : Vigo's Shroud
+Comment le jouer. Five Moves Ahead (Kwon Tae-young, 9.5.0) s'active en poursuite ou dans le Terror Radius. Elle montre
+les 5 palettes et fenêtres les plus proches, et après avoir fait tomber une palette vous vous remettez à courir plus tôt
+(recharge 40/35/30 s ; le PTB 10.2.0 la recentre sur les palettes). C'est l'info parfaite pour enchaîner les boucles, car vous
+voyez où est la prochaine palette sûre avant d'avoir usé la vôtre. Vigil accélère la récupération d'Exhausted (et d'autres
+statuts négatifs), pour vous et les alliés à 16 m, donc Lithe revient plus vite. Jouez les palettes « tôt » face aux tueurs à dash
+(Blight, Hillbilly) et « tard » face aux tueurs M1. Lancez la Fog Vial au moment où le tueur casse une palette : il perd votre
+direction pendant l'animation de casse.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : 24 BUILDS EXPLIQUÉS
+37
+
+=====PAGE 38=====
+5. Gen rush « skill checks » (le build le plus efficace
+statistiquement)
+• Perks : Deja Vu, Stake Out, Hyperfocus, Built to Last
+• Objet : Commodious Toolbox avec Socket Swivels (+30 % de vitesse de réparation de la toolbox) et Brand New Part (un
+test difficile qui retire 10 charges au générateur en cas de réussite)
+• Offrande : Shroud of Separation (depuis la 9.0.0, les survivants apparaissent collés par défaut ; celle-ci les disperse sur
+plusieurs générateurs)
+Comment le jouer. Sur NightLight, c'est le build le plus fréquent contenant Deja Vu : environ 12,7 % d'usage parmi les
+joueurs qui ont Built to Last, et ≈37-38 % d'évasion. C'est nettement au-dessus des builds de poursuite. Restez dans le
+Terror Radius sans être poursuivi (dans 24 m) pour charger les tokens de Stake Out (1 toutes les 15 s, 4 maximum).
+Chaque token transforme un test en Great garanti. Hyperfocus cumule jusqu'à 6 tokens sur les Great consécutifs : les tests
+apparaissent plus souvent et rapportent jusqu'à +30 % de progression chacun à T3. La toolbox multiplie la fréquence des
+tests, d'où la synergie. Deja Vu montre les 3 générateurs les plus proches entre eux : réparez-les en priorité pour
+empêcher le 3-gen. Quand la toolbox est vide, entrez dans un casier 10 s (T3) pour qu'elle soit rechargée (99 %, puis −33 %
+à chaque utilisation). Faites-le quand le tueur est loin. Utilisez Brand New Part sur le premier générateur. Ne ratez pas les
+tests : un raté remet Hyperfocus à zéro. Après la 10.2.0 : Stake Out est refondue et Timesaver annonce que la combo
+casse. Remplacez-la par Resilience (buffée à 7/8/9 %) ou par Boon: Steadfast.
+6. Gen rush « équipe » (proche du tier S des sites de tier list)
+• Perks : Prove Thyself, Deja Vu, Resilience, Adrenaline
+• Objet : Commodious Toolbox avec Socket Swivels et Clean Rag (+20 % de vitesse de la toolbox ; les deux sont exempts
+de DR)
+• Offrande : Bound Envelope
+Comment le jouer. Prove Thyself donne +10 % de réparation à toute l'équipe pour chaque autre survivant dans 4 m (30 %
+maximum). Elle ne se cumule pas avec une autre Prove Thyself et compense en partie la pénalité d'efficacité à plusieurs sur
+un générateur. Le build pousse à réparer à deux les générateurs signalés par Deja Vu, loin du tueur. Quand la poursuite
+arrive, l'un des deux part et l'autre reste s'il n'est pas repéré. Resilience ne compte que blessé : ne vous soignez pas
+pendant que les générateurs avancent, sauf contre un tueur à one-shot. Adrenaline (4 s de Haste et un soin quand les
+portes sont alimentées) récompense ce choix de rester blessé. Avec les DR, Deja Vu (6 %) + Prove Thyself (10-30 %) +
+Resilience (9 %) perdent de la valeur une fois cumulées. C'est pour ça que les add-ons de toolbox, eux exempts, font le gros
+du travail.
+7. Altruiste / décrocheur
+• Perks : Kindred, Reassurance, Borrowed Time, Babysitter
+• Objet : Ranger Med-Kit (+50 % de soin altruiste) avec Gel Dressings et Abdominal Dressing (+15 % de vitesse de soin)
+• Offrande : Primrose Blossom (bonus de BP en Altruism) ou Bound Envelope
+Comment le jouer. Vous êtes le « rescuer » désigné. Kindred vous dit si le tueur campe. Reassurance fige la progression du
+crochet quand vous ne pouvez pas y aller tout de suite. Décrochez quand le tueur s'éloigne ou poursuit quelqu'un d'autre,
+jamais sous ses yeux. Borrowed Time allonge les protections de décrochage basekit de l'allié : il garde Endurance et Haste
+plus longtemps. Babysitter vous montre l'aura du tueur pendant 8 s et masque traces et flaques de sang de l'allié décroché
+avec +10 % de Haste. Vous savez donc exactement de quel côté l'envoyer. Au décrochage, placez-vous entre le tueur et
+l'allié (body block) si le tueur revient. Ensuite, soin avec le kit derrière un mur. Après la 10.2.0 : Borrowed Time devient une
+perk de soin du Deep Wound. Remplacez-la par We'll Make It (70/80/90 s en 10.2.0).
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : 24 BUILDS EXPLIQUÉS
+38
+
+=====PAGE 39=====
+8. Healer (conscient des DR)
+• Perks : Empathy, Botany Knowledge, We'll Make It, Made for This
+• Objet : Emergency Med-Kit avec Gel Dressings et Medical Scissors
+• Offrande : Bound Envelope
+Comment le jouer. Empathy montre les survivants blessés ou au sol dans un rayon de 128 m, ce qui revient à la carte
+entière. Votre file de patients est toujours connue. Attention aux DR : Botany (+50 %) compte pleinement, We'll Make It
+(+100 % après un décrochage) devient le plus fort bonus et Botany tombe à 50 % de sa valeur pendant cette fenêtre. Ne
+mettez pas un 3e bonus de vitesse de soin, il ne vaudrait plus que 25 %. Les add-ons du kit sont exemptés, c'est là qu'il faut
+empiler la vitesse. Made for This donne de l'Endurance 6/8/10 s quand vous finissez un soin sur un allié alors que vous êtes
+blessé : soignez-vous en dernier. Depuis la 9.4.0, trois survivants peuvent soigner la même personne : si un coéquipier se
+joint à vous, laissez-le faire. En partie, soignez pendant que le tueur est engagé dans une poursuite lointaine, et jamais en
+plein Terror Radius sans info. Après la 10.2.0 : Better Than New (40/45/50 %) et Empathic Connection (40/45/50 %)
+deviennent des alternatives fortes. On peut faire un build « tout soin » avec Better Than New, Empathic Connection, We'll
+Make It et Resurgence, en surveillant les DR.
+9. Anti-tunnel
+• Perks : Off the Record, Will to Live, Resurgence, Dead Hard
+• Objet : Emergency Med-Kit avec Styptic Agent (+15 % d'efficacité en auto-soin) et Gel Dressings
+• Offrande : Vigo's Shroud
+Comment le jouer. Ce build empile les protections post-crochet. Resurgence rend 50/60/70 % de soin dès le décrochage,
+soit quelques secondes de soin pour redevenir sain. Off the Record rend invisible aux perks d'aura et supprime les cris. Will
+to Live punit une saisie : réussissez le test, 4 s de stun. Dead Hard donne 0,5 s d'Endurance en courant blessé ; elle ne
+s'active qu'après avoir été décroché. Utilisez-la à la fin de l'animation d'attaque, pas au début. Séquence idéale : on vous
+décroche, vous courez (protections basekit, 10 s d'Elusive), vous vous soignez avec Resurgence et le kit. Si le tueur revient
+malgré tout, vous gardez Off the Record, Will to Live et Dead Hard, soit 3 coups « gratuits » à encaisser. Le piège : faire un
+générateur pendant que Will to Live est active. Cela la désactive.
+10. Anti-slug
+• Perks : Unbreakable, Boon: Exponential, Flip-Flop, Power Struggle
+• Objet : Skeleton Key avec Friendship Charm (+1 charge) et Braided Bauble (+2 s d'aura), pour localiser les survivants au
+sol
+• Offrande : White Ward (garde la clé et ses add-ons)
+Comment le jouer. Depuis la 9.2.0, un survivant au sol récupère automatiquement jusqu'à 95 %, mais ne peut pas se
+relever seul sans perk (le relevage automatique testé en PTB n'est jamais sorti). Un tueur peut donc toujours mettre 2 ou 3
+survivants au sol pour qu'ils saignent en même temps. Unbreakable (une récupération autonome, +25/30/35 % de vitesse
+de récupération) ne marche que si le tueur vous a lui-même mis au sol (9.5.0). Boon: Exponential (totem, 24 m) donne
++100 % de récupération et un relevage autonome à tous les survivants dans la zone, sans limite d'utilisations. Posez-la
+dans une zone centrale, près des générateurs restants. Flip-Flop convertit la récupération en progression de wiggle (jusqu'à
+50 %). Power Struggle permet de faire tomber une palette en étant porté dès 15 % de wiggle, donc presque
+immédiatement grâce à Flip-Flop. Au sol, rampez vers une palette debout (Power Struggle montre leur aura) avant d'être
+ramassé. La clé sert à voir qui est au sol et à rejoindre le totem.
+11. Stealth
+• Perks : Iron Will, Lucky Break, Quick & Quiet, Distortion
+• Objet : Vigo's Fog Vial avec Oily Sap et Mushroom Formula
+• Offrande : Vigo's Shroud
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : 24 BUILDS EXPLIQUÉS
+39
+
+=====PAGE 40=====
+Comment le jouer. Iron Will coupe 100 % des cris de douleur blessé (inactive si Exhausted). Lucky Break supprime flaques
+de sang et traces pendant 40/50/60 s une fois blessé, et le compteur se recharge quand vous soignez quelqu'un. Quick & 
+Quiet rend silencieux les sauts rapides et les entrées ou sorties de casier (CD 25/20/15 s). Distortion bloque l'aura et les
+traces pendant 8/10/12 s quand le tueur tente de lire votre aura (1 token au départ, recharge en poursuite). Le principe : 
+perdre le tueur plutôt que le boucler. Brisez la ligne de vue, faites un saut rapide silencieux et changez de direction. Blessé,
+vous devenez presque intraçable avec Lucky Break et Iron Will. La Fog Vial couvre la sortie. Jouez les générateurs « isolés »
+et évitez de vous faire trouver en premier. Point faible : ce build ne rapporte presque rien à l'équipe si vous êtes trouvé.
+C'est un build de survie personnelle.
+12. Info / aura
+• Perks : Kindred, Empathy, Deja Vu, Wicked
+• Objet : Annotated Map avec Battered Tape (+8 m de portée) et Glowing Ink (+2 s)
+• Offrande : offrande de royaume vers une carte que vous connaissez mal (pour l'apprendre avec la Map), ou Bound
+Envelope
+Comment le jouer. Vous « voyez » la partie pour les autres. Deja Vu montre le 3-gen à éviter. Empathy montre les blessés.
+Kindred montre les crochets et le tueur près du crochet. Wicked montre l'aura du tueur pendant 16/18/20 s après votre
+propre décrochage et garantit un auto-décrochage au 1er crochet en cave. La Map (refonte 9.1.0) montre palettes et
+fenêtres autour de vous. Son faisceau (action secondaire) révèle les générateurs à tous les survivants dans 32 m pendant
+16 s, idéal en début de partie pour que l'équipe se répartisse. En solo queue, utilisez aussi le Survivor Intent System
+(10.2.0) pour signaler ce que vous voyez.
+13. Bloodpoint farming (maximum de BP)
+• Perks : Bond, Saboteur, Flashbang, We'll Make It
+• Objet : Alex's Toolbox (+100 % de sabotage) avec Hacksaw (+30 % de sabotage) et Cutting Wire (+20 %)
+• Offrande : Bloody Party Streamers (+100 % sur toutes les catégories pour tous les joueurs) ou Escape! Cake / Survivor
+Pudding (+100 % pour vous seul)
+Comment le jouer. Rappel historique : les anciennes perks à BP n'en donnent plus. We're Gonna Live Forever a perdu son
+bonus en 6.1.0 et Prove Thyself en 7.1.0. Farmer, c'est désormais remplir les 4 catégories (Objectives, Survival, Altruism,
+Boldness), plafonnées à 10 000 BP chacune (40 000 par partie). Le bonus des offrandes est calculé après et ne dépend pas
+du plafond. Donc Cake ou Streamers + 40 000 = jusqu'à 80 000 BP, et 120 000+ si plusieurs Streamers ou un événement BP
+s'ajoutent. Le build couvre :
+• Boldness : sabotages de crochet (Saboteur + toolbox), aveuglements avec les grenades de Flashbang (chargées tous les
+40 % de réparation personnelle, lancées depuis un casier), poursuites.
+• Altruism : décrochages et soins, accélérés par We'll Make It ; Bond montre les alliés à aider dans 36 m.
+• Objectives : réparer pour charger Flashbang.
+• Survival : s'échapper.
+Conseils : jouez la partie jusqu'au bout (fuir tôt coupe les BP de la fin), ouvrez les coffres, purifiez les totems. Le wallet est
+limité à 5 000 000 BP (hors codes et récompenses de connexion). Pendant les événements BP (Blood Moon, etc.), les
+offrandes d'événement remplacent le Cake. Les codes promo publiés chaque mois (NightLight, PCGamesN, Dexerto)
+donnent aussi des BP qui dépassent le plafond du wallet.
+14. Troll / meme n°1 : « le clown du casier »
+• Perks : Head On, Quick & Quiet, Flashbang, Deception
+• Objet : Utility Flashlight avec Odd Bulb (+50 % de luminosité, +25 % de durée d'aveuglement) et Long Life Battery (+6 s)
+• Offrande : Vigo's Shroud
+Comment le jouer. Head On : après 3 s dans un casier, sortez en sprintant pour stunner 3 s un tueur à moins de 2,5 m
+(Exhausted 60/50/40 s ; un raté fait un bruit fort). Quick & Quiet rend l'entrée dans le casier silencieuse : le tueur vous perd
+de vue une seconde, pense que vous avez continué et passe devant le casier. Stun. Deception (Élodie) fait croire que vous
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : 24 BUILDS EXPLIQUÉS
+40
+
+=====PAGE 41=====
+êtes entré dans un casier alors que vous passez devant : le tueur ouvre un casier vide pendant que vous partez. Flashbang :
+après 40 % de réparation personnelle, fabriquez une grenade dans le casier, puis aveuglez le tueur quand il ramasse un
+allié ou quand il ouvre votre casier. La lampe finit le spectacle. C'est fort contre les tueurs qui fouillent les casiers, nul
+contre Lightborn.
+15. Troll / meme n°2 : « le piégeur »
+• Perks : Blast Mine, Chemical Trap, Bada Bada Boom, Wiretap
+• Objet : Commodious Toolbox avec Socket Swivels et Clean Rag (pour charger vite les seuils de réparation)
+• Offrande : Bog Laurel (bonus de BP en Objectives)
+Comment le jouer. Les quatre perks se chargent en réparant, d'où la toolbox rapide :
+• Bada Bada Boom (Dustin, 9.4.0) : à 20 % de réparation, piège une fenêtre ; le tueur qui la saute subit Hindered 50 %
+pendant 6 s.
+• Chemical Trap (Ripley) : à 20 %, piège une palette tombée ; elle explose à la casse (Hindered 50 % pendant 4 s).
+• Blast Mine (Jill) : à 40 %, piège un générateur pendant 100/110/120 s ; quand le tueur tape le générateur, stun de 4 s et
+aveuglement.
+• Wiretap (Ada) : à 40 %, pose un micro qui révèle l'aura du tueur dans 14 m du générateur à toute l'équipe pendant
+100/110/120 s.
+Avec une toolbox rapide, vous posez tout ça sur les générateurs et la boucle que vous allez utiliser, puis vous traînez le
+tueur dessus. Blast Mine et Wiretap sur le générateur le plus avancé (celui que le tueur voudra frapper) ; Bada Bada Boom
+sur la fenêtre de la boucle voisine.
+16. Sabo / hooks (troll « Breakout »)
+• Perks : Saboteur, Breakout, Background Player, Empathy
+• Objet : Alex's Toolbox avec Hacksaw et Grip Wrench (+20 s avant réapparition du crochet saboté)
+• Offrande : offrande de royaume vers une carte à crochets espacés (grandes cartes extérieures), idéalement en SWF
+Comment le jouer. C'est le build le plus fréquent avec Background Player sur NightLight : ≈1,5 % d'usage et ≈34 %
+d'évasion. Empathy montre qui est blessé ou au sol, donc qui risque d'être ramassé. Saboteur montre les crochets dans 56
+m du point de ramassage pendant que le tueur porte quelqu'un. Sabotez celui vers lequel il se dirige, juste avant qu'il
+arrive : un sabotage fait toujours un bruit fort. Background Player : dès que le tueur ramasse un allié, votre prochaine
+course donne +50 % de Haste pendant 5 s, ce qui permet de rattraper le porteur. Breakout donne +6/8/10 % de Haste près
+du tueur qui porte et +25 % de wiggle au porté. Collez-vous à lui, faites-le dévier, sabotez le crochet suivant. 
+Contre-risque : un tueur qui abandonne le porté pour vous frapper. Évitez de vous faire blesser pour rien.
+17. Flashlight saves (spécialiste)
+• Perks : Background Player, Champion of Light, Residual Manifest, Bond
+• Objet : Utility Flashlight (12 s de batterie, +15 % de durée d'aveuglement) avec Odd Bulb et Long Life Battery.
+Alternative : Sport Flashlight avec High-End Sapphire Lens pour la visée.
+• Offrande : Bloody Party Streamers (les saves rapportent beaucoup de Boldness)
+Comment le jouer. Bond (36 m) vous montre les alliés pour vous placer avant la mise au sol. Background Player vous
+amène sur le ramassage en 5 s de sprint. Champion of Light donne +50 % de Haste pendant que vous éclairez, ce qui
+corrige un angle raté, et inflige Hindered 20 % pendant 6 s après un aveuglement. Residual Manifest prolonge l'état
+Blindness du tueur (20/25/30 s, qui empêche la lecture d'aura) et garantit une lampe dans un coffre déjà ouvert. Timing :
+restez caché jusqu'au début de l'animation. Visez la tête du tueur pendant que le survivant passe de la hanche à l'épaule.
+Mettez-vous dos à un mur ou dans un coin : le tueur ne pourra pas se retourner vers un mur. Une petite zone tampon de
+0,4 s après l'animation est prévue par le jeu. Lightborn = immunité totale : si vous voyez ce perk (écran de fin, ou le tueur
+ne réagit pas), passez sur les générateurs. En solo queue, remplacez Bond par Empathy.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : 24 BUILDS EXPLIQUÉS
+41
+
+=====PAGE 42=====
+18. Key / hatch (le « dernier survivant »)
+• Perks : Left Behind, Down to the Last, Low Profile, Distortion
+• Objet : Skeleton Key avec Friendship Charm et Braided Bauble. Variante : Blood Amber, qui montre l'aura du tueur
+pendant la canalisation mais révèle aussi la vôtre, pour −2 charges.
+• Offrande : Vigo's Blueprint / Annotated Blueprint (influence l'emplacement de la trappe) + White Ward
+Comment le jouer. Depuis la refonte 9.1.0, la clé sert surtout à voir les survivants (64 m, 10 s par charge avec la Skeleton
+Key). Une Dull ou Skeleton Key ouvre les coffres verrouillés (objet Rare ou mieux garanti) et rouvre une trappe refermée
+sans être consommée. En fin de partie, c'est la sortie de secours. Down to the Last (ex-Sole Survivor, perk générale depuis
+la 9.4.0) masque votre aura quand vous êtes le dernier. En 10.2.0, elle permettrait d'ouvrir la trappe sans clé avec 3 tokens
+ou plus : vérifiez la version live après le 6 octobre. Low Profile (9.5.0) supprime cris, flaques et traces pendant 70/80/90 s
+quand tous les autres sont au sol ou accrochés : le tueur ne peut pas vous pister pendant qu'il gère les autres. Left Behind
+montre la trappe quand vous êtes le dernier. Distortion bloque les perks d'aura du tueur. Jouez honnêtement jusqu'au
+bout : ce build n'est pas un « égoïste » tant que vous tentez les sauvetages.
+19. Boons « totem tout-en-un »
+• Perks : Boon: Circle of Healing, Boon: Shadow Step, Boon: Exponential, Boon: Steadfast
+• Objet : Scribbled / Annotated Map avec Sharpened Flint (montre les totems quand vous utilisez la Map) et Gnarled
+Compass (+2 charges)
+• Offrande : Shroud of Union (commencer avec un allié qui protégera le totem), ou aucune
+Comment le jouer. Toutes vos Boons s'activent sur un seul totem (14 s de bénédiction sur un totem normal, 28 s sur un
+Hex). Dans 24 m :
+• Circle of Healing : +50/75/100 % de soin altruiste sans kit, et aura des blessés.
+• Shadow Step : traces et auras masquées, effet qui persiste 2-4 s hors zone.
+• Exponential : relevage autonome et +100 % de récupération.
+• Steadfast (Aurora, 10.1.0) : régression des générateurs −50 %, +8/9/10 % de réparation et aura des générateurs de la
+zone.
+Choisissez un totem au centre d'un groupe de 2-3 générateurs (cherchez-le avec la Sharpened Flint). Le tueur voit le totem
+béni et vient l'éteindre. Rebénissez un autre totem ailleurs : chaque extinction lui fait perdre ~10-20 s de trajet. Circle of
+Healing ne marche qu'une instance à la fois par survivant. En SWF, deux joueurs avec CoH n'additionnent rien : répartissez
+plutôt les Boons entre coéquipiers pour avoir deux totems dans deux zones. Attention au perk tueur Shattered Hope, qui
+détruit le totem au lieu de l'éteindre.
+20. Beginner-friendly mais fort
+• Perks : Windows of Opportunity, Lithe, Deja Vu, Kindred
+• Objet : Emergency Med-Kit avec Gel Dressings et Bandages (+8 charges)
+• Offrande : offrande de royaume vers votre carte « d'entraînement » (apprenez 2-3 cartes à fond)
+Comment le jouer. WoO apprend les cartes en montrant où sont palettes et fenêtres. Deja Vu apprend quels générateurs
+protéger. Kindred apprend quand décrocher. Lithe est l'épuisement le plus simple : un saut rapide = distance. Routine à
+acquérir : 1) jamais de sprint inutile (traces) ; 2) sur générateur, regardez autour de vous tous les 5-10 s ; 3) quand un allié
+est en poursuite, réparez au lieu de venir voir ; 4) décrochez quand le tueur est loin (Kindred) ; 5) soignez la personne
+décrochée hors de vue. Le kit rend l'erreur pardonnable. Après la 10.2.0 : si WoO perd les palettes, passez à Five Moves
+Ahead ou Dark Sense (perk générale gratuite, buffée).
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : 24 BUILDS EXPLIQUÉS
+42
+
+=====PAGE 43=====
+21. Endgame / portes
+• Perks : Adrenaline, Hope, Wake Up!, Will to Live
+• Objet : Commodious Toolbox avec Socket Swivels et Scraps (+8 charges), pour finir les derniers générateurs
+• Offrande : Bound Envelope
+Comment le jouer. À la mise sous tension des portes : Adrenaline soigne d'un état et donne 4 s de Haste 50 %, même au
+sol ou accroché, et même si vous êtes Exhausted. Hope donne ensuite +3/4/5 % de Haste permanent. Avec les DR, Hope
+ne compte qu'à 50 % pendant les 4 s d'Adrenaline (effet de même type). C'est négligeable, mais il ne faut pas empiler 3
+perks de Haste. Wake Up! montre l'aura des portes et accélère leur ouverture (davantage en 10.2.0). Will to Live se
+recharge avec les décrochages de fin de partie. Contre No Way Out ou Remember Me, ouvrez la porte la plus loin du
+crochet et lancez-la dès l'alimentation. Ce build est faible en milieu de partie : à réserver aux joueurs qui ont déjà un solide
+jeu de générateur.
+22. Build sans DLC (perks générales)
+• Perks : Resilience, Kindred, We'll Make It, Will to Live (ou Dark Sense)
+• Objet : Toolbox ou kit trouvé dans un coffre. Le budget peut suffire : Emergency Med-Kit avec Gauze Roll et Butterfly
+Tape.
+• Offrande : Escape! Cake (pour financer la montée des personnages)
+Comment le jouer. Build « budget » : tout se débloque aux Bloodpoints. Depuis la 9.4.0, Will to Live (ex-DS) et Down to
+the Last sont générales, et Kindred aussi. Un débutant sans DLC a donc un anti-tunnel de premier ordre. Jouez-le comme le
+build 2 : info, sauvetages propres et soins rapides. Trois de ces perks sont buffées en 10.2.0 (Resilience, Kindred, We'll
+Make It), donc c'est un bon investissement.
+23. Build « nouvelles perks 2026 » (expérimental)
+• Perks : Boon: Steadfast, Fruits of Your Labor, Five Moves Ahead, Salvation's Cry
+• Objet : Commodious Toolbox avec Brand New Part et Socket Swivels
+• Offrande : Shroud of Union
+Comment le jouer. Build 100 % contenu récent : Aurora (10.1.0) et Kwon (9.5.0).
+• Boon: Steadfast protège le générateur en cours contre la régression (−50 %) et accélère les réparations dans la zone.
+• Fruits of Your Labor gagne des tokens à chaque générateur fini : petits boosts de Haste et bonus de soin au moment où
+vous terminez vos réparations.
+• Salvation's Cry, en poursuite, vous montre brièvement les alliés, et les autres voient votre aura et celle du tueur 5 s.
+C'est de l'info précieuse en solo queue pour savoir où ne pas mener le tueur.
+• Five Moves Ahead gère la poursuite.
+Placez le totem Steadfast dans une zone à 2 générateurs que Deja Vu (d'un coéquipier) ou le faisceau de Map signalent
+comme le futur 3-gen. Hors méta pour l'instant : peu de données de taux d'évasion publiques.
+24. Anti-tunnel + chase « contrôle de l'unhook » (solo queue
+agressive)
+• Perks : Lithe, Off the Record, Blood Rush, Resurgence
+• Objet : Med-Kit avec Anti-Exhaustion Syringe et Styptic Agent
+• Offrande : Vigo's Shroud
+Comment le jouer. Blood Rush (Renato), après votre décrochage, permet d'annuler Exhausted une fois pendant 40/50/60
+s. Vous pouvez donc utiliser Lithe, vous faire décrocher, puis réutiliser Lithe immédiatement si le tueur revient vous
+chercher. Avec Off the Record et la seringue, vous avez trois épuisements potentiels dans la minute qui suit un crochet.
+Resurgence vous remet vite en pleine santé. Idéal contre les tueurs qui tunnellent systématiquement. Restez en
+mouvement : les actions ostentatoires coupent Off the Record.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : 24 BUILDS EXPLIQUÉS
+43
+
+=====PAGE 44=====
+CHAPITRE 6
+6. Jouer en solo, à 2, à 3 ou à 4
+Le même build n'a pas la même valeur selon que vous jouez seul ou en groupe vocal. En solo, votre ennemi numéro un est
+le manque d'information ; en groupe, c'est le doublon (deux joueurs qui font la même chose au même moment). Ce
+chapitre donne les règles pour chaque format, des compositions complètes, puis une analyse chiffrée de ce qui fait
+réellement monter le taux d'évasion.
+Solo queue : les 10 règles qui remplacent le vocal
+1. Regardez Match Details avant et pendant la partie (depuis la 9.6.0, les perks, objets et offrandes des coéquipiers sont
+visibles). Si quelqu'un a déjà Kindred, prenez Déjà Vu ; si personne n'a d'anti-tunnel, prenez Will to Live.
+2. Kindred ou Bond en solo : sans info, vous perdez du temps à vérifier ce que font les autres.
+3. Le plus proche du crochet décroche, les autres réparent. Si deux auras bougent vers le crochet (Kindred), celui qui est
+le plus loin fait demi-tour.
+4. Réparez quand un allié est en poursuite. Aller « voir » ou « aider » la poursuite ne fait que donner une seconde cible
+au tueur.
+5. Décrochez à la fin de la phase 1 (autour de 50 %) si le tueur est proche : l'allié a eu le temps de s'éloigner des gens, et
+vous évitez le trade immédiat. Si le tueur est loin, décrochez tout de suite.
+6. Ne soignez pas pendant que le tueur arrive : partez, puis soignez plus loin.
+7. Prenez un objet qui pardonne (Med-Kit, Fog Vial) : en solo, personne ne rattrapera vos erreurs.
+8. Fin de partie : ouvrez la porte la plus éloignée du tueur ; ne restez pas dans la zone de sortie « pour aider » sans raison
+(Heresy contre The Judgment, No Way Out, Blood Warden).
+9. Utilisez le Survivor Intent System (messages rapides, PTB 10.2.0) dès sa sortie : « je prends la poursuite », « je
+décroche », « gen à 80 % ».
+10. Jouez pour l'équipe, pas pour les statistiques : une évasion à 1 et trois morts est souvent moins satisfaisante qu'une
+partie où tout le monde a eu une chance.
+Le « rôle adaptatif » en solo
+Dans les 30 premières secondes, repérez qui a quel objet. Si vous voyez deux toolboxes, devenez le support (kit,
+Kindred, sauvetages). Si vous voyez deux kits, faites les générateurs. Si personne n'a d'anti-tunnel et que vous êtes bon
+en chase, prenez le rôle de runner et gardez vos coéquipiers loin de vous.
+Les rôles en groupe
+• Runner / looper : prend la première poursuite, la fait durer, l'emmène vers un coin vide.
+• Gen jockey : répare sans relâche, évite d'être trouvé, annonce la progression.
+• Support / healer : soigne hors de vue, suit le crochet, garde un objet utile (kit, lampe).
+• Rescuer : décroche au bon moment. En duo ou trio, une même personne cumule souvent support et rescuer.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+JOUER EN SOLO, À 2, À 3 OU À 4
+44
+
+=====PAGE 45=====
+Répartition typique en milieu de partie : un runner loin des générateurs, deux réparateurs sur le 3-gen, un support prêt à décrocher.
+Les principes d'une bonne composition
+1. Le temps est la ressource. Il faut ≈ 5 générateurs × 90 s ≈ 450 « secondes-survivant » de réparation (hors bonus et
+régression). Le tueur doit obtenir 12 états de crochet, ou les tuer autrement. Chaque seconde de poursuite ou d'escorte
+vers un crochet doit correspondre, pour l'équipe, à ≥ 1 seconde de réparation faite ailleurs. Une bonne compo SWF 
+maximise le temps de réparation en parallèle et minimise le temps perdu (soins inutiles, décrochages en face à face,
+déplacements).
+2. Pas de doublon sur une perk à instance unique. Prove Thyself, Boon: Circle of Healing, Leader, Vigil, Breakout et
+Teamwork: Collective Stealth sont limitées à une instance par survivant.
+3. Pas plus de 2 sources d'un même stat de vitesse, à cause des DR (le 3e source vaut 25 %). Mettez la vitesse dans les 
+add-ons (exemptés).
+4. Les perks d'info se partagent en vocal : en SWF, une seule copie de Kindred, Deja Vu ou Bond suffit souvent (le vocal
+remplace le reste). En solo, les doublons d'info sont utiles, car chaque joueur voit pour lui.
+5. Rôles :
+– Runner/looper : prend la première poursuite et la fait durer.
+– Gen jockey : répare sans relâche, évite le tueur.
+– Healer/support : soigne et accompagne.
+– Rescuer : décroche au bon moment, suit les crochets.
+En duo ou trio, une même personne cumule souvent deux rôles.
+Duos
+Duo A : « Looper + Healer-rescuer »
+• Joueur 1 (looper) : Lithe, Five Moves Ahead / WoO, Resilience, Will to Live
+• Joueur 2 (healer-rescuer) : Botany Knowledge, We'll Make It, Reassurance, Kindred, avec un kit (Gel Dressings + Medical
+Scissors)
+• Pourquoi ça marche : le looper tient la poursuite. Le rescuer répare pendant ce temps, décroche au bon moment et
+remet le looper en pleine santé en ≈ 6-8 s (We'll Make It + Botany + kit). Le looper retourne en poursuite en santé
+complète, et Finesse ou les coups tampons redeviennent utiles. L'équipe gagne ≈ 10 s par soin, et un tunnel devient
+coûteux pour le tueur.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+JOUER EN SOLO, À 2, À 3 OU À 4
+45
+
+=====PAGE 46=====
+Duo B : « Gen duo »
+• Joueur 1 : Prove Thyself, Deja Vu, Resilience, Adrenaline (toolbox Socket Swivels + Clean Rag)
+• Joueur 2 : Teamwork: Full Circuit, Friendly Competition, Stake Out / Hyperfocus, Kindred (Commodious + Brand New
+Part)
+• Pourquoi ça marche : Prove Thyself (+10 % avec 1 allié) et Full Circuit (zone Good plus grande, +5 %) ajoutent de la
+vitesse ; Friendly Competition donne +5 % pendant 100-120 s après un générateur fini à deux. Ces bonus de vitesse
+sont soumis aux DR, mais les tests d'habileté (Hyperfocus) et les add-ons y échappent. C'est pour ça qu'on sépare les
+deux « types » de vitesse entre les deux joueurs. Surtout, travailler à deux sur les générateurs Deja Vu empêche le
+3-gen.
+Duo C : « Chaos de ramassage »
+• Joueur 1 : Background Player, Flashbang, Bond, Head On (lampe Odd Bulb + Long Life)
+• Joueur 2 : Background Player, Blast Mine, Breakout, Saboteur (Alex's Toolbox Hacksaw + Grip Wrench)
+• Pourquoi ça marche : chaque ramassage déclenche deux Background Player. Un joueur aveugle (lampe ou grenade),
+l'autre sabote ou pousse le wiggle avec Breakout. Le tueur doit choisir entre ramasser (risque d'aveuglement) et laisser
+au sol (risque de perdre du temps et de subir un sauvetage). Ça rend chaque crochet cher en temps.
+Trios
+Trio A : « Anti-tunnel complet »
+• Rescuer : Kindred, Reassurance, Babysitter, Borrowed Time (après la 10.2.0 : We'll Make It)
+• Joueur 2 : Off the Record, Will to Live, Resurgence, Lithe
+• Joueur 3 : Deja Vu, Prove Thyself, Resilience, Will to Live
+• Pourquoi ça marche : les protections de décrochage de base (10 s d'Endurance, de Haste et d'Elusive) sont prolongées
+par Borrowed Time. Off the Record et Will to Live couvrent la minute suivante. Babysitter indique où envoyer l'allié. Le
+tueur qui tunnel perd ≈ 60-90 s pour un seul crochet, ce qui correspond à ≈ 1 générateur pour les deux autres.
+Trio B : « Boon + soin »
+• Joueur 1 : Boon: Circle of Healing, Boon: Shadow Step, Botany Knowledge, Kindred
+• Joueur 2 : Boon: Steadfast, Boon: Exponential, Deja Vu, Resilience
+• Joueur 3 (looper) : Lithe, Five Moves Ahead, Vigil, Will to Live
+• Pourquoi ça marche : deux totems différents dans deux zones. CoH + Botany donnent des soins sans kit très rapides, le
+soin altruiste passant avant Botany avec les DR. Steadfast protège les générateurs contre la régression ; Exponential
+neutralise le slug. Le looper profite de Vigil dans 16 m de ses alliés. Le tueur doit dépenser du temps pour éteindre les
+totems, et chaque extinction coûte du temps de trajet.
+Trio C : « Info totale solo-like »
+• Kindred / Deja Vu / Empathy / Bond répartis sur les trois, plus une Map (faisceau de générateurs) et une Skeleton Key
+(auras survivants)
+• Pourquoi ça marche : c'est utile quand les trois ne sont pas en vocal. On recrée l'information d'un SWF, et on la
+complète par les messages rapides du Survivor Intent System (10.2.0).
+Groupes de quatre (4-man SWF)
+4-man A : « Méta compétitive / gen pressure »
+Rôle
+Perks
+Objet (add-ons)
+Runner/looper
+Lithe, Windows of Opportunity (après 10.2.0 : Five Moves
+Ahead), Resilience, Will to Live
+Fog Vial (Oily Sap + Volcanic Stone)
+Gen jockey 1
+Deja Vu, Stake Out, Hyperfocus, Built to Last
+Commodious (Brand New Part + Socket Swivels)
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+JOUER EN SOLO, À 2, À 3 OU À 4
+46
+
+=====PAGE 47=====
+Rôle
+Perks
+Objet (add-ons)
+Gen jockey 2 / support
+Prove Thyself, Boon: Steadfast, Resilience, Kindred
+Commodious (Socket Swivels + Clean Rag)
+Healer/rescuer
+Botany Knowledge, We'll Make It, Reassurance, Borrowed Time
+/ Off the Record
+Ranger Med-Kit (Gel Dressings + Abdominal
+Dressing)
+Pourquoi ça fait monter l'évasion :
+1. Une seule copie de chaque perk à instance unique (Prove Thyself, etc.).
+2. Deja Vu est tenu par un seul joueur, qui annonce le 3-gen en vocal. L'équipe commence par les générateurs du 3-gen,
+ce qui prive le tueur de sa stratégie de fin la plus forte.
+3. La vitesse de réparation vient à la fois des perks (DR-limitées) et des add-ons (non limités). Chaque gen jockey tire donc
+le maximum de sa toolbox.
+4. Le healer ne répare qu'entre deux soins et reste proche des générateurs Steadfast.
+5. Le runner ouvre la partie : si la première poursuite dure 60-90 s, trois générateurs avancent en parallèle, et ≈ 2
+générateurs peuvent tomber avant le premier crochet.
+Offrandes : Shroud of Separation (répartir l'équipe) et Bound Envelope ×2 (BP), avec une offrande de royaume vers une
+carte favorable si l'équipe est d'accord.
+4-man B : « Chaos comp » (Blast Mine + Flashbang + Background Player)
+• Joueur 1 : Blast Mine, Wiretap, Deja Vu, Background Player
+• Joueur 2 : Flashbang, Background Player, Head On, Quick & Quiet
+• Joueur 3 : Saboteur, Breakout, Background Player, Kindred (Alex's Toolbox)
+• Joueur 4 : Champion of Light, Residual Manifest, Bond, Background Player (lampe)
+• Pourquoi ça marche : chaque ramassage lance 4 sprints à +50 % sur le tueur. Les Blast Mines rendent dangereuses les
+frappes de générateur, Wiretap indique quand le tueur approche, les grenades et lampes menacent chaque ramassage.
+Le tueur perd du temps à chaque crochet et ne peut pas facilement garder la pression sur les générateurs. Limite :
+contre Lightborn ou un tueur qui laisse les survivants au sol, la compo s'effondre. Gardez 1-2 joueurs sur les
+générateurs.
+4-man C : « Boon comp »
+• Joueur 1 : Circle of Healing, Shadow Step
+• Joueur 2 : Exponential, Steadfast
+• Joueurs 3 et 4 : jockeys et looper classiques, avec Botany Knowledge chez un joueur
+• Deux totems bénis dans deux zones de générateurs. Le tueur doit choisir entre éteindre les totems (temps perdu) et les
+laisser (soins, relevage et générateurs boostés).
+Autres synergies utiles entre coéquipiers
+• Built to Last + Commodious sur deux joueurs : deux toolboxes qui se rechargent, soit ≈ 3-4 générateurs de charge
+chacune.
+• Distortion sur tout le monde contre les tueurs à aura (Nurse avec auras, Lethal Pursuer, Nowhere to Hide, etc.).
+• Deja Vu sur 1 joueur en SWF, sur 2-3 en solo : tout le monde voit le 3-gen.
+• Bond, Kindred, Empathy : un porteur de chaque en SWF, pas de doublon.
+• Vigil sur le joueur qui accompagne le looper : l'Exhausted revient 30 % plus vite pour les deux.
+• Leader (+30 % de vitesse d'action pour les alliés dans 10 m, persiste 15 s) sur le healer : soins, décrochages et portes
+plus rapides pour les autres. Ça ne s'additionne pas avec une 2e Leader.
+• Teamwork: Power of Two / Collective Stealth (Thalita, Renato) : récompensent le soin mutuel (+5 % de Haste, pas de
+traces), bien en duo SWF.
+• Shoulder the Burden (live) : transfère un état de crochet vers l'utilisateur, sous Exposed. En 10.2.0, une seule utilisation
+par partie pour tout le lobby.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+JOUER EN SOLO, À 2, À 3 OU À 4
+47
+
+=====PAGE 48=====
+Analyse : qu'est-ce qui fait vraiment monter le taux d'évasion ?
+Les données publiques montrent qu'un groupe vocal s'échappe en moyenne environ 3 points de plus qu'un joueur solo, et
+environ 8 points de plus au plus haut niveau. Ce n'est pas énorme : la coordination n'est pas magique, elle supprime des
+pertes de temps. Pour comprendre où se trouve le gain, on peut chiffrer les principales pertes d'une partie typique.
+Hypothèses de calcul : partie avec environ 8 accrochages, générateur à 90 s pour un survivant, trajet moyen de 15 à 25 s
+entre deux points d'intérêt, soin d'un état de santé à 16 s. Les chiffres sont des ordres de grandeur, pas des mesures.
+Levier
+Perte évitée (ordre de grandeur)
+Équivalent
+générateur
+Solo
+SWF
+Un seul sauveteur par crochet (au lieu
+de deux qui se déplacent)
+~20 s × 1 survivant de trop × 8
+crochets ≈ 160 s-survivant
+≈ 1,8 gen
+Kindred + règle « le
+plus proche y va »
+Automatique au
+vocal
+Pas de soin inutile (tueur one-shot,
+gens presque finis, Adrenaline en
+réserve)
+3 à 5 soins évités × 16 s × 2 survivants
+≈ 100-160 s-survivant
+≈ 1,1-1,8 gen
+Discipline
+individuelle
+Annonces « je reste
+blessé »
+Première poursuite de 60 s au lieu de
+30 s
+30 s × 3 réparateurs = 90 s-survivant
+≈ 1 gen
+Le runner doit être
+bon
+On envoie le
+meilleur looper au
+contact
+Casser le 3-gen tôt
+Évite une fin de partie bloquée de 2 à
+4 minutes
+Souvent décisif
+Déjà Vu
+Un joueur
+« appelle » le 3-gen
+Pas de doublon de perk à instance
+unique (Prove Thyself, CoH, Leader,
+Vigil…)
+1 perk gaspillée = 25 % du build
+Variable
+Match Details
+Planifié avant la
+partie
+Trade de crochet propre (décrocher
+quand le tueur est loin)
+Évite la chaîne « décrochage → 2
+blessés → 2 soins »
+≈ 0,5-1 gen par
+erreur évitée
+Kindred
+Annonce de la
+position du tueur
+Répartition sur des gens différents
+(pas à 4 sur un gen)
+Jusqu'à -45 % de rendement évité
+≈ 1 gen sur une
+partie
+Shroud of
+Separation
+Répartition
+annoncée
+Lecture : cumulées, ces pertes représentent facilement 3 à 5 générateurs de temps perdu dans une partie solo
+désorganisée, soit plus que la marge qui sépare une victoire d'une défaite. Un groupe coordonné en récupère une partie,
+mais pas toutes : le tueur aussi s'adapte (Lightborn, blocages, tunnel ciblé). D'où un écart final de quelques points
+seulement.
+Ce que chaque joueur de plus apporte
+Format
+Gain principal
+Risque principal
+Priorité de build
+Solo
+Aucun (vous dépendez des autres)
+Info manquante, doublons, sauvetages
+ratés
+Info (Kindred, Bond) + anti-tunnel +
+objet qui pardonne
+Duo
+Deux rôles complémentaires fiables (looper
++ support)
+Les deux autres joueurs restent
+imprévisibles
+Un joueur « chase », un joueur
+« soin/sauvetage »
+Trio
+Contrôle de la majorité des décisions
+Le 4e joueur solo est souvent laissé sans
+info
+Un porteur d'info qui annonce aussi
+pour le solo (Bond/Kindred)
+4-man
+Rôles complets, aucun doublon, tactiques
+de sabotage et de lampe
+Excès de confiance, altruisme excessif
+(trop de sauveteurs), tueurs
+Lightborn/anti-SWF
+Une seule copie de chaque perk
+utilitaire, vitesse dans les add-ons
+Les trois erreurs typiques des groupes vocaux
+1. Trop d'altruisme : quatre joueurs qui se parlent ont tendance à tous vouloir aider. Fixez une règle simple : un seul
+joueur quitte son générateur par événement (crochet, soin, sauvetage).
+2. Le « tunnel sur la lampe » : chercher le sauvetage à la lampe au lieu de réparer. Un sauvetage raté coûte le temps de 2
+survivants et donne souvent un deuxième accrochage.
+3. Sous-estimer le tueur : un groupe qui répare vite provoque souvent un tueur qui tunnel ou slug. Ayez toujours au
+moins deux anti-tunnel (Will to Live, Off the Record) et un outil anti-slug dans l'équipe.
+Conclusion de l'analyse
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+JOUER EN SOLO, À 2, À 3 OU À 4
+48
+
+=====PAGE 49=====
+Le premier facteur d'évasion n'est pas la qualité de la chase, c'est l'absence de temps perdu : un sauveteur, pas deux ;
+des soins seulement quand ils servent ; le 3-gen cassé tôt ; chaque perk utile une seule fois dans l'équipe. En solo, vous
+ne contrôlez que votre part de ces pertes, mais c'est déjà la moitié du chemin.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+JOUER EN SOLO, À 2, À 3 OU À 4
+49
+
+=====PAGE 50=====
+CHAPITRE 7
+7. Survivant : stratégies avancées
+Les trois phases d'une partie
+Ouverture (0 à 90 s) : investir le temps offert
+• Depuis la 9.0.0, tout le monde apparaît groupé. Séparez-vous immédiatement vers des générateurs différents (sauf duo
+Prove Thyself). Un tueur qui trouve deux survivants sur le même générateur gagne une deuxième cible gratuite.
+• Choisissez vos générateurs avec Déjà Vu en tête : réparez d'abord ceux qui sont proches les uns des autres ou au
+centre de la carte, pas les plus faciles d'accès.
+• Ne jetez rien, ne vous soignez pas, ne cherchez pas de coffre tant que le tueur n'a pas été localisé, sauf build
+spécifique.
+• Le premier poursuivi doit durer : chaque seconde de chase vaut environ un tiers de générateur pour l'équipe.
+• Identifiez le tueur (rayon de terreur, musique, bruit de pouvoir) et adaptez immédiatement : contre un Nurse ou un
+Blight, restez près des obstacles hauts ; contre un Legion ou un Plague, dispersez-vous.
+Milieu de partie : gérer la pression
+• Le crochet est le moment critique : il retire au moins deux survivants des générateurs (l'accroché et le sauveteur).
+L'objectif est de limiter la perte à ces deux-là.
+• Surveillez la régression : un générateur frappé perd 5 % puis régresse. Il suffit de réparer brièvement pour stopper la
+régression. Un générateur frappé plusieurs fois se hérisse de pointes (à partir du 4e « regression event ») : au 8e, le
+tueur ne peut plus rien lui faire.
+• Pain Resonance fait crier les survivants sur le générateur le plus avancé quand un allié est accroché sur un crochet
+Scourge (aura blanche). Si vous criez, vous êtes localisé : relâchez et changez de générateur si le tueur est proche.
+• Totems : purifiez un Hex dès qu'il s'allume et qu'il est accessible (Ruin, Devour Hope, Third Seal, Pentimento…). Les
+totems ternes se purifient en passant, surtout en fin de partie contre les tueurs susceptibles de jouer NOED.
+Fin de partie : convertir
+• Gardez un générateur à 99 % si un allié est accroché ou si le tueur joue une perk de fin de partie : vous choisissez le
+moment où les portes s'alimentent (Adrenaline, Hope, Wake Up! se déclenchent à ce moment).
+• Ouvrez la porte la plus éloignée du tueur et du crochet. Deux portes ouvertes en même temps divisent son attention.
+• Contre NOED (tout le monde Exposed et le tueur plus rapide après l'alimentation des portes) : purifiez les totems ternes
+avant la fin quand c'est rentable, et si NOED s'allume, un joueur cherche le totem (aura visible de près, rayon qui grandit
+jusqu'à 24 m) pendant que les autres ouvrent.
+• Contre No Way Out (interrupteurs bloqués jusqu'à ~60 s) et Blood Warden (portes bloquées après un accrochage) : ne
+vous faites pas accrocher pendant que les portes sont ouvertes, et ne restez pas dans la zone de sortie.
+• Contre The Judgment : rester 45 s dans le seuil d'une porte, s'accroupir ou faire des gestes devant lui donne Heresy. Pas
+de t-bag !
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : STRATÉGIES AVANCÉES
+50
+
+=====PAGE 51=====
+Le piège du 3-gen : il se construit dès les premières minutes, quand l'équipe choisit ses générateurs.
+Crochets et sauvetages
+• Qui décroche ? Le plus proche, et un seul. Les autres continuent à réparer.
+• Quand ? Si le tueur est loin (aura, rayon de terreur absent) : tout de suite. S'il patrouille près du crochet : attendez qu'il
+s'engage dans une poursuite, ou décrochez vers la fin de la phase 1 pour ne pas lui offrir deux cibles.
+• Après le décrochage : l'allié décroché a 10 s d'Endurance, de Haste et d'Elusive. Le sauveteur, lui, n'a aucune
+protection : c'est souvent lui que le tueur doit viser. Si le tueur revient, placez-vous entre lui et l'allié (protection hit) si
+vous êtes en bonne santé.
+• Soin après le décrochage : hors de la vue du tueur, derrière un mur, jamais à côté du crochet.
+• Sous-sol : les crochets du sous-sol ne peuvent pas être sabotés. Un sauvetage au sous-sol demande plus de patience :
+attendez que le tueur parte loin.
+• Sabotage : un crochet saboté est réparé en 30 s. Saboteur (sans boîte à outils) ou une Alex's Toolbox permettent de
+saboter le crochet vers lequel le tueur se dirige, juste avant qu'il n'arrive.
+Le trade (échange de crochet)
+Décrocher sous les yeux du tueur, c'est lui proposer un échange : il frappe le sauveteur, remet l'allié au sol après ses 10
+s, et vous passez de 1 crochet à 2 ou 3. Si le tueur campe à distance (proxy camp), réparez : l'anti-facecamp décrochera
+l'allié s'il reste trop près, et chaque seconde de proxy camp est une seconde de générateur pour vous.
+Anti-tunnel : que faire quand le tueur revient sur vous
+Si vous êtes la cible
+1. Pendant les 10 s d'Elusive, brisez la ligne de vue et changez de direction : le tueur ne voit ni vos traces ni votre aura.
+2. Allez vers une zone de tiles, pas vers un générateur. Ne faites aucune action « visible » tant que Will to Live ou Off the
+Record sont actives.
+3. Si vous êtes attrapé avec Will to Live, réussissez le skill check : stun de 4 s, puis partez vers un tile fort.
+4. Utilisez l'Endurance d'Off the Record ou le Dead Hard pour atteindre une palette ou une fenêtre, pas pour gagner
+quelques mètres en terrain vide.
+Si un allié est tunnelé
+1. Réparez à fond : un tueur qui tunnel dépense tout son temps sur un seul survivant. C'est le moment où l'équipe peut
+finir 2 à 3 générateurs.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : STRATÉGIES AVANCÉES
+51
+
+=====PAGE 52=====
+2. Un joueur en bonne santé peut prendre un coup de protection ou bloquer le passage près d'une palette, mais pas
+deux joueurs.
+3. Gardez un anti-tunnel (Will to Live, Off the Record) sur au moins deux membres de l'équipe.
+Fenêtre de protection après un décrochage, avec les perks les plus courantes.
+Anti-slug : quand le tueur laisse les survivants au sol
+• Un survivant au sol récupère automatiquement jusqu'à 95 %, mais ne se relève pas seul sans perk (Unbreakable une
+fois par partie, Boon: Exponential, Soul Guard, Plot Twist, No Mither, Tenacity pour ramper).
+• Rampez vers une position utile : loin du tueur, près d'un allié en approche, ou vers une palette si vous avez Power
+Struggle.
+• Ne venez pas relever à deux : le tueur n'attend que ça. Un seul joueur relève, pendant que le tueur est en poursuite
+ailleurs.
+• Si tout le monde est au sol, l'équipe peut abandonner (le tueur récupère les kills). Avant d'en arriver là, un seul joueur
+debout doit éviter à tout prix la poursuite et jouer la trappe ou le relevage.
+Soins : quand se soigner, quand rester blessé
+Situation
+Décision
+Tueur à coup unique fréquent (Hillbilly, Cannibal, Shape en Evil
+Incarnate, Oni en Blood Fury)
+Rester blessé coûte peu : réparez, gardez de la distance
+Tueur qui blesse à distance ou applique des statuts (Legion, Plague,
+Trickster, Krasue)
+Soignez vite, séparez-vous des autres
+Générateur à plus de 70 % et tueur loin
+Finissez le générateur, soignez ensuite
+Vous avez Adrenaline et 1 générateur restant
+Ne vous soignez pas : Adrenaline le fera
+Vous jouez Resilience ou Made for This
+Rester blessé est une force (bonus actifs)
+Rayon de terreur qui approche
+Arrêtez le soin et partez : un soin interrompu n'est pas perdu (sauf
+Haemorrhage)
+Contre A Nurse's Calling
+Soignez loin du tueur (plus de 32 m)
+L'art de tromper le tueur
+Un tueur ne voit que ce que vous lui montrez : traces de griffures, flaques de sang, grognements, bruits de vault, oiseaux,
+générateurs qui explosent, auras. Tromper, c'est contrôler ces signaux.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : STRATÉGIES AVANCÉES
+52
+
+=====PAGE 53=====
+Tromperies de chase
+• Double-back : faites demi-tour juste après avoir disparu derrière un mur. Le tueur, qui suit vos traces, part du mauvais
+côté. Idéal dans les maze tiles et les bâtiments.
+• Fausse direction au tile : amorcez un départ vers la fenêtre, puis continuez tout droit. Le tueur qui anticipe le vault se
+place du mauvais côté.
+• Couper la ligne de vue puis s'arrêter : derrière un rocher ou dans le maïs, s'accroupir et ne plus bouger laisse des traces
+qui « s'arrêtent ». Le tueur cherche plus loin.
+• Walking break : marcher au lieu de courir supprime les griffures. Hors de la vue du tueur, marcher quelques mètres
+peut suffire à le perdre complètement.
+• Casier au bon moment : entrer dans un casier seulement quand le tueur ne vous voit pas et n'a pas d'info. Contre un
+tueur qui vient de vous perdre de vue près d'un casier, c'est le premier endroit qu'il ouvre.
+• Pré-jeter une palette puis partir : le tueur, qui entend la palette tomber, croit que vous bouclez. Vous êtes déjà sur le
+tile suivant.
+Tromperies d'information
+• Red Herring : entrer dans un casier envoie une fausse alerte de bruit sur le générateur que vous réparez.
+• Deception : une fausse entrée de casier en sprint déclenche une alerte trompeuse et vous rend invisible (ni sang ni
+griffures) pendant 5 s.
+• Diversion : un caillou lancé à 20 m crée une alerte de bruit et des traces.
+• Quick & Quiet : vaults et entrées de casier silencieux, le tueur ne sait pas que vous êtes passé.
+• Distortion, Off the Record, Shadow Step, Self-Preservation : bloquent les auras quand le tueur compte dessus (Lethal
+Pursuer, BBQ, Nowhere to Hide).
+• Fog Vial : lancée au moment où le tueur casse une palette ou perd la ligne de vue, elle masque votre direction.
+• Mirrored Illusion : une illusion immobile près d'un générateur attire l'œil du tueur.
+• Calm Spirit : vous ne faites pas s'envoler les corbeaux (qui trahissent votre position).
+Tromperies d'équipe
+• Attirer le tueur loin d'un crochet : un joueur en bonne santé se montre bruyamment (vault rapide, générateur raté
+volontaire en dernier recours) à l'opposé de l'allié à secourir.
+• Faire croire à un générateur abandonné : lâchez un générateur à 90 % et partez. Un tueur qui le frappe gaspille un
+« regression event » s'il n'y a pas beaucoup de progression, puis un allié le termine plus tard.
+• Le sabotage de crochet au dernier moment (Saboteur, Alex's Toolbox) : le tueur, qui porte déjà quelqu'un, doit changer
+de trajet, et le porté gagne du wiggle.
+Tromper n'est pas provoquer
+Le t-bag et les emotes près du tueur ne trompent personne : ils donnent de l'information (et désormais Heresy contre
+The Judgment). Gardez l'humour pour l'écran de fin.
+Builds « troll » : ennuyer le tueur sans saboter votre équipe
+Les builds pour troller (casiers, pièges, lampes, sabotage) sont détaillés au chapitre 5 (builds 14 à 17). Trois règles pour
+qu'ils restent drôles et utiles :
+1. Au moins un joueur répare en permanence. Une équipe entière qui cherche à stun le tueur ne sort jamais.
+2. Identifiez Lightborn (immunité aux aveuglements, aura révélée de celui qui tente) : si le tueur l'a, rangez la lampe et
+passez aux générateurs.
+3. Head On et Flashbang se déclenchent près des casiers : choisissez des casiers proches des générateurs et des
+crochets.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : STRATÉGIES AVANCÉES
+53
+
+=====PAGE 54=====
+Maximiser les Bloodpoints
+• Remplissez les quatre catégories (Objectives, Survival, Altruism, Boldness), plafonnées à 10 000 BP chacune par partie.
+Une catégorie pleine ne rapporte plus rien : diversifiez vos actions.
+• Les offrandes de BP (Escape! Cake, Survivor Pudding, Bloody Party Streamers, Bound Envelope) s'appliquent après le
+plafond. Un Cake double donc tout votre score.
+• Jouez la partie jusqu'au bout : fuir tôt coupe les BP de fin de partie. Les sauvetages, les soins, les stuns, les
+aveuglements et les poursuites rapportent beaucoup.
+• Aucune perk ne donne plus de bonus direct de BP (We're Gonna Live Forever et Prove Thyself l'ont perdu). Le farm
+passe par le style de jeu et les offrandes (build 13).
+• Les codes promotionnels officiels publiés régulièrement donnent des BP qui dépassent le plafond du portefeuille (5
+millions).
+Jouer pour sa survie personnelle
+Parfois, l'objectif est simplement de sortir vivant (défi, partie perdue d'avance, dernier survivant). Priorités :
+1. Ne jamais être trouvé en premier : générateurs isolés, Iron Will / Lucky Break / Distortion, Fog Vial.
+2. Garder ses ressources : pas de palette jetée sans nécessité, pas de soin sous pression.
+3. Hatch : quand il ne reste que vous, la trappe s'ouvre. Left Behind montre son aura ; une clé Dull ou Skeleton la rouvre si
+le tueur l'a fermée. Le tueur qui ferme la trappe lance l'End Game Collapse : allez directement vers la porte la plus
+éloignée de lui.
+4. Rester éthique : l'égoïsme total (laisser mourir tout le monde) se voit et vous coûte des parties sur le long terme.
+Tentez les sauvetages qui ont une chance raisonnable.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : STRATÉGIES AVANCÉES
+54

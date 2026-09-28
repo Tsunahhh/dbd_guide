@@ -1,0 +1,2356 @@
+Contents
+
+1
+ 
+Release Dates
+
+2
+ 
+Public Test Build 9.5.0
+
+3
+ 
+Patch 9.5.0
+
+3.1
+ 
+Hotfix 9.5.1
+
+3.2
+ 
+Hotfix 9.5.2
+
+Release Dates
+
+Patches
+
+Release Dates
+
+PTB 9.5.0
+
+24 February 2026
+
+9.5.0
+
+17 March 2026
+
+9.5.1
+
+24 March 2026
+
+9.5.2
+
+31 March 2026
+
+Public Test Build 9.5.0
+
+Content
+
+NEW MAP: 
+Trickster's Delusion
+
+The Sleepless District will be the new Realm
+
+New Survivor: 
+Kwon Tae-Young
+
+Perks:
+
+Flow State
+
+Whenever a generator is completed, earn 1 token, up to 5.
+
+For each token:
+
+You bless and cleanse Totems 8/9/10% faster.
+
+You heal 8/9/10% faster.
+
+You unhook Survivors 8/9/10% faster.
+
+A Place For Us
+
+While healing another Survivor, you both gain Elusive.
+
+Whenever you finish healing The Obsession, they gain Elusive for 20/25/30s.
+
+When the trial starts, you are less likely to be the Obsession.
+
+Five Moves Ahead
+
+While you are in the Killer's Terror radius or chased by the Killer:
+
+You see the Auras of the 5 closest Pallets and Windows.
+
+You drop Pallets 50% faster.
+
+Whenever you drop a Pallet, cooldown: 30/25/20s.
+
+FEATURES
+
+Perks Description Update
+
+All Survivor and Killer Perk descriptions in the game have been updated and revised with simplified and consistent language.
+
+Aside from Perk updates above, Perk gameplay has not changed across the board. Our goals were the following: Shorten text and character usage, Ease Player understanding, Reset Perk language for easier future maintenance.
+
+To help achieve this, we have added Expanding Tooltips in the user interface:
+
+Status Effects can now be expanded separately to display reminders.
+
+Status Effects each feature unique colour labels, flagging them as positive or negative.
+
+Keybindings associated with a Perk's activated effect are now displayed in within Perk's text description.
+
+Examples: Dead Hard, Come And Get Me!, Dramaturgy, etc
+
+Auras Customization
+
+Auras colors have been updated
+
+Players can customize some auras' colors on Beta tab
+
+Survivors
+
+Killers
+
+Hooked/dying survivors
+
+Normal Hooks
+
+Generators
+
+Pallets
+
+Windows
+
+Store
+
+Players can use a "Clear all" button to remove active notifications
+
+New Prestige Menu & Rewards System
+
+Added a new way to track and view your rewards when Prestiging your character.
+
+Simply clicking on your characters' Prestige level will let you access and track your progress
+
+New rewards given at Prestige 25, 50, 75 & 100 per character
+
+The Player Card Badge Menu now includes the option to select between variations on a single Badge (currently used for Prestige Badge Rewards).
+
+Perk Updates
+
+Survivor
+
+Better Together
+
+Plot Twist can no longer force this Perk's effect to activate out of the Survivor's control.
+
+Fast Track (Rework)
+
+Whenever another Survivor is hooked, you earn 1/2/3 Token(s), up to 9.
+
+While repairing, whenever you hit a great basic Skill Check, spend all Tokens. For each Token spent, the Generator gains 2 permanent Charges.
+
+Self-Preservation (Rework)
+
+When another Survivor is hooked, you gain Elusive for 20/25/30s.
+
+The icon has been updated to reflect this change
+
+Unbreakable
+
+Once per trial, while downed by the Killer, you can fully recover.
+
+While downed, you recover 25/30/35% faster.
+
+Note: now only grants the Survivor the ability to recover when the Killer was specifically responsible for them entering the downed state.
+
+Killer
+
+Forced Hesitation
+
+Plot Twist can no longer force this Perk's effect to activate out of the Killer's control.
+
+Genetic Limits
+
+Updated to apply the Exhausted status effect simultaneously when the health state loss is recognized on Survivors, not afterwards.
+
+Hex: Crowd Control (Rework)
+
+The first time a Survivor medium or fast-vaults a Window, a Dull Totem ignites.
+
+The last 4/5/6 Windows Survivors medium or fast-vault are blocked.
+
+You basic-vault blocked Windows 15% faster.
+
+You see the Auras of blocked Windows within 24m.
+
+Pop Goes The Weasel
+
+Whenever you hook a Survivor, for the next 35/40/45s, when you damage a Generator, it explodes and loses 15% more progress (was 20% current progress, now total progress-only).
+
+Terminus
+
+Updated to trigger earlier when Generators are completed to block healing abilities of Survivors occurring simultaneously.
+
+KILLER UPDATES
+
+The Trickster
+
+Summary
+
+The Trickster now gains Style Points by throwing Blades, injuring Survivors and performing distinct gameplay actions back-to-back.
+
+The Trickster goes up in Style Ranks by earning Style Points.
+
+Each Style Rank improves The Trickster's Blade throw and Locker Restocking speed.
+
+Main Event can now only be activated once reaching the highest Style Rank.
+
+Style Points and Style Ranks are tracked via a new user interface element custom-made for The Trickster.
+
+Basekit
+
+The Trickster's movement speed decreased to 4.4m/s (was 4.6 m/s).
+
+Blade count decreased to 36 (was 44).
+
+Decreased Terror Radius to 24m (was 32m).
+
+Decreased time to enter Throw State to 0.3s (was 0.35s).
+
+Decreased time to exit Throw State to 1.15s (was 1.25s).
+
+Increased time between Blade throws to 0.33s (was 0.3s).
+
+Decreased base Throw State movement speed to 3.68m/s (was 3.86m/s).
+
+After 8 consecutive Blade throws, Throw State movement speed is decreased to 3.53 m/s.
+
+After 16 consecutive Blade throws, Throw State movement speed is decreased to 3.16 m/s.
+
+Increase Blade throw rate per Blade thrown:
+
+After 8 consecutive Blade throws, the throw rate increased by 50%.
+
+After 16 consecutive Blade throws, the throw rate is increased by 100%.
+
+Laceration
+
+Laceration now only counted using whole numbers (previously decayed into decimals).
+
+Laceration Meter decreased to 6 (was 8).
+
+Laceration Meter decay delay decreased to 12s (was 15s).
+
+Increase Laceration stack decay time to 3s (was 2s).
+
+Laceration visual feedback updated.
+
+Now displayed on the Survivor directly, for both Survivors and Killer.
+
+Laceration cuts removed from Survivors' user interface.
+
+Style Points
+
+The Trickster performing combo actions generates Style Points.
+
+A combo action is triggered when two back-to-back gameplay actions are distinct.
+
+The following actions generate 1 Style Point:
+
+Hitting a Survivor with a Blade (first-hit only).
+
+Injuring a Survivor (from Laceration or basic-attack).
+
+Hooking a Survivor.
+
+Basic-breaking a Downed Pallet.
+
+Basic-breaking a Breakable Wall.
+
+Damaging a Generator.
+
+Snuffing a Boon Totem.
+
+The following actions generate 2 Style Points:
+
+Hitting a Survivor with 4 Blades from at least 4m (without missing or exiting the Throw State).
+
+Hitting a Survivor with a Blade from more than 16m away.
+
+Interrupting a Survivor.
+
+The following actions generate 3 Style Points:
+
+Hitting a Survivor with a Blade through small gaps.
+
+Style Ranks
+
+There are 6 Style Ranks: E, D, C, B, A and S-Rank.
+
+Style Ranks each have their respective bonus maximum throw rate and Locker restocking speed modifiers.
+
+Higher bonuses at higher ranks.
+
+Higher Style Ranks require more Style Points to reach.
+
+Higher Style Ranks feature progressively shorter combo timers.
+
+Ranks regress to previous in order if combo timer ever lapses.
+
+Earning Style Points refreshes the current Style Rank's combo timer.
+
+Style Rank combo timers are paused while The Trickster is performing interactions with Survivors or interactable objects.
+
+S-Rank
+
+When reaching of S-Rank
+
+Survivors within 44m of The Trickster are revealed via Killer Instinct for 4.4s.
+
+All Survivors are notified across the Trial.
+
+While in S-Rank:
+
+The Trickster gains a 44m Terror radius.
+
+Lullaby is disabled.
+
+Laceration Meters decay 50% slower.
+
+Blade throw and Locker restock speeds increased to maximum.
+
+Main Event can be activated.
+
+S-Rank has a 66s combo timer.
+
+S-Rank cannot be paused or refreshed (unlike lower Style Ranks).
+
+S-Rank always reverts to E-Rank (via timer, or once Main Event ends).
+
+Main Event
+
+Press the Secondary Ability button to activate Main Event
+
+Main Event lasts 8s (was 6s).
+
+The Trickster throws Blades at at 1.67x the default Blade throw speed.
+
+Note: not affected by Consecutive Blade Throw and Style Rank Blade Throw modifiers.
+
+Survivors near The Trickster are notified.
+
+While performing Main Event:
+
+S-Rank timer is paused.
+
+Each Blade hitting Survivors awards bonus Style Points.
+
+The Trickster can cancel Main Even via the Secondary Ability button.
+
+When Main Event ends:
+
+The Trickster's Power goes on cooldown for 4s.
+
+S-Rank resets to E-Rank
+
+The Trickster goes up in Style Ranks over time, based on bonus Style Points earned during Main Event.
+
+Add-Ons
+
+Memento Blades (Rework)
+
+Displays a reticle while aiming with Blades.
+
+Trick Pouch
+
+Increases maximum carried Blades by 4.
+
+Start the Trial with 4 extra Blades.
+
+Killing Part Chords (Rework)
+
+Increases time before Style Ranks from D to A decay by 20%.
+
+Inferno Wires (Rework)
+
+Decreases Showstopper's cooldown after Main Event by 10%.
+
+Ji-Woon's Autograph (Rework)
+
+Increases the duration of Main Event by 33%.
+
+Lucky Blade (Rework)
+
+On every eighth Blade Hit, an additional bonus is assigned at random:
+
+Increases Laceration by 100%.
+
+Gain 3% Haste for 3 seconds.
+
+Gain an additional Style Point.
+
+Caged Heart Shoes (Rework)
+
+Increases movement speed while in the Throw State by 1%.
+
+Tequila Moonrock (Rework)
+
+Increases Throw Speed by 10% for 8 seconds after gaining a Style Rank.
+
+Bloody Boa (Rework)
+
+Decreases the speed at which Laceration decays by 10%.
+
+On Target Single (Rework)
+
+Increases time before Laceration starts decaying by 15%.
+
+Fizz-Spin Soda (Rework)
+
+Increases the number of Blade Throws required to slow movement speed while throwing by 2.
+
+Waiting for You Watch (Rework)
+
+Survivors whose Laceration Meter fully decays are revealed for 4 seconds.
+
+Ripper Brace (Rework)
+
+For each Style Rank, you basic-vault Windows, basic-break Pallets or Breakable Walls, and damage Generators 3% faster.
+
+Melodious Murder
+
+Increases Blade reload speed at lockers by 25%.
+
+Diamond Cufflinks
+
+Reveals Survivors' auras for 6 seconds when their Laceration reaches one Blade hit from maximum.
+
+Edge of Revival Album (Rework)
+
+Blade Hits from more than 32 meters away deal 100% more Laceration.
+
+Cut Thru U Single (Rework)
+
+When reaching a new Style Rank, adds a stackable 1% Haste bonus. All stacks last until Style Rank decreases by any means.
+
+Death Throes Compilation (Rework)
+
+Refills Blades by 50% of the maximum when Main Event ends.
+
+Iridescent Photocard (Rework)
+
+Increases the duration of Main Event by 100%.
+
+When Main Event is activated, reveals your aura to all Survivors and blocks all generators for 6 seconds.
+
+Please note the Trick Blades add-on has been disabled.
+
+The First
+
+Power
+
+Decreased 2nd phase of the Wordbreaker Timer from 60 seconds to 50 seconds.
+
+Charge Vine Attack Ready sounds plays slightly in advance for Survivors. (Charge 0.33 sec; sound activate at 0.18 sec)
+
+Killer Base Attack lunge speed adjusted from 6.6m/s to 6.9m/s to be on par with all Killers.
+
+Add-Ons
+
+Bead Maze: Now increases Worldbreaker Timer for 2.5 seconds for each living Survivor.
+
+Shattered Wrist Rocket: Changed Common Rarity to Uncommon Rarity.
+
+Bloody Roller Skate: Now Killer gains the Haste Effect for 1.5 seconds upon exiting Undergate Attack.
+
+Mid-Century Radio: Changed Uncommon Rarity to Common Rarity.
+
+Forged Death Certificate: Reworked for Each successful Worldbreaker Token placed on a Survivor via Vine Attack Undetectable Status Effect until the next Worldbreaker Mode activation.
+
+Rabbit Remains: Changed Rare Rarity to Very Rare. Now give Exhausted status effect for 10 seconds, and increase the Upside Down Ability cooldown by 5 seconds.
+
+Broken Skateboard: Reworked for When Worldbreaker Mode starts, you basic-vault windows 30% faster and auras of Pallets and Windows are revealed to you within 32 meters for the next 65 seconds.
+
+Pizza Goggles: Changed Very Rare Rarity to Rare Rarity. Reworked for The Undergate Attack's area of effect range is reduced by 90%, and its cooldown time is shortened by 25 seconds. Your exit cooldown time after executing the Undergate Attack is reduced by 80%.
+
+Chess Piece: Removed the negative aspect of increasing the Upside Down Ability cooldown and the two charges attack radius are now diminished by 40%.
+
+The Ghoul
+
+Power
+
+Adjusted Reticule stickiness on Survivor from 0.18 to 0.05 seconds when attempting a Kagune grabs.
+
+Updated the automatic hit detection that occurs at the end of a Kagune Leap vault when a Survivor attempts to vault back toward the Killer to ensure greater consistency.
+
+Killer Actions Update
+
+Accompanying the new language found in the Perks Description Update (see UX section below), we have expanded our distinction between basic and special actions performed by Killers.
+
+Starting in update 9.5.0, the following terms will now appear in Power, Add-on and Perk descriptions:
+
+Basic-break
+
+When a Pallet or Breakable Wall is broken by the default ability of any Killer.
+
+Special-break
+
+When a Downed Pallet or Breakable Wall is broken due to an ability granted by a Killer's Power.
+
+Basic-vault
+
+When a Window is vaulted by the default ability of any Killer.
+
+Special-vault
+
+When a Window or Downed Pallet is vaulted due to an ability granted by a Killer's Power.
+
+Damaging Generators
+
+When a Generator is damaged and loses progress due to the default ability of any Killer.
+
+Generator Explosions
+
+When a Generator loses progress due to an ability granted by a Killer's Power or Perk.
+
+With these new terms, we intend to express with increased accuracy when specific gameplay interactions are intended to work alongside one another.
+
+Notably Killer Powers and Killer Perks.
+
+Multiple gameplay descriptions. been updated to surface these new interactions.
+
+The following Killers' Power descriptions have been updated:
+
+Basic-break
+
+The Singularity
+
+Special-break
+
+The Shape
+
+The Hillbilly
+
+The Cannibal
+
+The Demogorgon
+
+The Oni
+
+The Blight
+
+The Nemesis
+
+The Knight
+
+The Dark Lord
+
+Special-vault
+
+The Legion
+
+The Mastermind
+
+The Good Guy
+
+The Ghoul
+
+The Krasue
+
+The following Killer Add-on descriptions have been updated:
+
+The Wraith - "The Serpent" - Soot
+
+The Wraith - "Shadow Dance" - White
+
+The Wraith - "Shadow Dance" - Blood
+
+The Hillbilly - Lo Pro Chains
+
+The Spirit - Kintsugi Teacup
+
+The Legion - Iridescent Button
+
+The Ghost Face - Olsen's Wallet
+
+The Demogorgon - Barb's Glasses
+
+The Executioner - Obsidian Goblet
+
+The Mastermind - Lab Photo
+
+The Knight - Pillaged Mead
+
+The Skull Merchant - Geographical Readout
+
+The Xenomorph - Self-Destruct Bolt
+
+The Good Guy - Hard Hat
+
+The Lich - Ring of Telekinesis
+
+The Lich - Vorpal Sword
+
+The Dark Lord - Pocket Watch
+
+The Dark Lord - Sylph Feather
+
+The Houndmaster - Gunpowder Tin
+
+The Ghoul - CCG ID Card
+
+The Ghoul - Red-headed Centipede
+
+The Ghoul - Iridescent Eye Patch
+
+The Animatronic - Endo CPU
+
+The Krasue - Rotten Swine
+
+The Krasue - Mysterious Elixir
+
+The First - Shattered Wrist Rocket
+
+The First - Stained Glass Mural
+
+The First - Broken Skateboard
+
+The First - Electroshock Collar
+
+The following Killer Perk descriptions have been updated:
+
+Brutal Strength
+
+Overcharge
+
+Fire-Up
+
+Bamboozle
+
+Pop Goes The Weasel
+
+Spirit Fury (now "destroys" pallets)
+
+Surge
+
+Trail of Torment
+
+Dragon's Grip
+
+Oppression
+
+Eruption
+
+Scourge Hook: Pain Resonance
+
+Call of Brine
+
+Dissolution (now "destroys" pallets)
+
+Superior Anatomy
+
+Nowhere to Hide
+
+Game Afoot
+
+THWACK!
+
+Machine Learning
+
+Unbound
+
+Unforeseen
+
+Undone
+
+Dark Arrogance
+
+Help Wanted
+
+Turn Back The Clock
+
+Hex: Hive Mind
+
+The following Survivor Perk descriptions have been updated:
+
+Alert
+
+Blast Mine
+
+Wiretap
+
+Chemical Trap
+
+Bada Bada Boom
+
+Survivor Item Update
+
+Fog Vial
+
+Reworked the Fog Cloud visual effect and rendering method.
+
+Opacity inside and outside its bounds is now consistent across all Realms.
+
+Always fully opaque when seen from the outside.
+
+Adapts to each Realm's unique lighting and color.
+
+The following essential Auras are now always displayed through the Fog Cloud:
+
+When a Survivor is downed.
+
+When a Survivor is hooked.
+
+Increased the number of charges to 4 (was 2) for the following items:
+
+Apprentice's Fog Vial
+
+Artisan's Fog Vial
+
+Vigo's Fog Vial
+
+Fog Vial Add-ons
+
+Potent Extract (Visceral):
+
+Increased Fog Cloud increased opacity bonus to 100% (was 5%).
+
+Note: the increased bonus opacity is relative to the new Fog Cloud visual effect.
+
+BUG FIXES
+
+Audio
+
+Fixed an issue where Haddie's 'Silent Breach' outfit does not have its Lobby theme playing when equipped.
+
+Fixed an issue where outfits in the 'Moonrise' collection are missing their Lobby Themes when equipped.
+
+Fixed an issue where JunjiIto' Lobby theme is missing when using the 'Soichi's Party Clothes' outfit for the Trickster in Lobby.
+
+Fixed an issue where The generator repair dialog between the Walking Dead characters no longer trigger.
+
+Fixed an issue where Reward Gauge Fill SFX is out of sync in Prestige Reward Menu.
+
+Fixed an issue where SFX from the Furin add-on plays from Killer POV when phasing with the Spirit.
+
+Fixed an issue where Cage of atonement music is not working properly.
+
+Bot Improvements
+
+Fixed issues causing Survivor Bots to not dodge the intended direction.
+
+Improved Survivor Bots' dodging against The Trickster.
+
+Survivor Bots now have as much control as players when speared by The Deathslinger.
+
+Tentative fix for Survivor Bots sometimes automatically revealing Ghostface from anywhere.
+
+Survivor Bots are now smarter with what they interact with when playing against The Plague.
+
+Survivor Bots now no longer use Plot Twist when infected by The Plague or The Krasue.
+
+Survivor Bots will now avoid taunting and blocking the path of other Survivors during chases.
+
+Fixed multiple navigation issues in Ormond Lake Mine.
+
+Characters
+
+Fixed an issue where The Animatronic no longer holds the side of the screen when performing Lobby animation.
+
+Fixed an issue where The Animatronic's animation could break when pallet stunned while using Axe Grab on a Survivor.
+
+Fixed an issue where Remove Axe could allow Survivors to walk through The Animatronic in some instances.
+
+Fixed an issue where The Nemesis could hit Survivors with Tentacle Strike after they exited the trial.
+
+Fixed an issue where The Trapper could bypass trap placement areas by flicking.
+
+Fixed an issue where The Trapper's Bear Trap had inconsistent hitbox detection.
+
+Fixed an issue where The Trapper could place traps in inaccessible locations by FPS glitching.
+
+Fixed an issue where The Cannibal's power could break during state changes.
+
+Fixed an issue where The Shape was unable to Tombstone Mori a Survivor while Bardic Inspiration was being performed.
+
+Fixed an issue where The Shape could kill a Survivor during the self-unhook animation while Evil Incarnate was active.
+
+Fixed an issue where The Demogorgon would stutter when spamming M2.
+
+Fixed an issue where the Dire Crow could be missing from the Survivor POV during The Artist's mori.
+
+Fixed an issue where The Artist's Dire Crow's flight path did not behave consistently around small assets.
+
+Fixed an issue where the external icon was missing when the add-on "Geographical Readout" was active for The Skull Merchant.
+
+Fixed an issue where the Survivor Reveal distance was inconsistent between 15 and 32 meters against The Ghost Face.
+
+Fixed an issue where The Legion's power could break when blinded while vaulting.
+
+Fixed an issue where The First's Vine attack animation would frequently remain in the charged state after spamming Release Vine Attack.
+
+Fixed an issue where The First's Mind Break animation was missing when two or more Survivors were hit at the same time while the Mini-Mori requirements were met.
+
+Fixed an issue where the mend action could not be executed when two or more Survivors were hit at the same time while the Mini-Mori requirements were met for The First.
+
+Fixed an issue where The Houndmaster would rubberband when walking after successfully grabbing a Survivor with the Chase ability.
+
+Fixed an issue where the application could crash for Survivors and the Killer after The Houndmaster hooked a Survivor.
+
+Fixed an issue where the camera could get stuck in Charlotte's or Victor's head, making it difficult to control The Twins.
+
+Fixed an issue where The Lich could rarely keep the movement speed of "Fly" when stunned at the same time as casting the spell.
+
+Fixed an issue where the flashlight beam would reappear after The Dark Lord changed to Bat From after being previously blinded by the flashlight and the Survivor crafted a Flash Bang.
+
+Characters - The Mastermind
+
+Refactor done in the Virulent Bound power. This specifically tackles the desync issues found while using the power. Will also improve responsiveness for most of his power usage. As well changed how we detect a collision with other characters (Survivors, Killers, Zombies) while grabbing a Survivor. It will now properly detect the size of the character collision size.
+
+Fixed an issue where The Mastermind’s Virulent Bound could glide off a hill’s ledge when falling
+
+Fixed an issue where The Mastermind’s Virulent Bound Speed effect was displayed after vaulting and falling a ledge.
+
+Fixed an issue where Survivors were able to use their flashlight while being thrown with Virulent Bound by The Mastermind.
+
+Fixed an issue where The Mastermind could initiate a partial vault on a pallet near a hole while falling.
+
+Fixed an issue where The Mastermind could grab Survivors through vault locations when using Virulent Bound at a certain angle.
+
+Fixed an issue where The Mastermind would briefly float in the air when vaulting from a higher vantage point while using Virulent Bound.
+
+Fixed an issue where The Mastermind's supply crate could be climbed on when forcing collision with other players.
+
+Fixed an issue where the chase music would end after successfully hitting a healthy Survivor with the Virulent Bound as The Mastermind.
+
+Fixed an issue where Survivors could be stuck in rocks after being charged by The Mastermind on Thompson House.
+
+Fixed an issue where a Survivor could lose control of their character if The Mastermind used Virulent Bound as they entered a locker.
+
+Fixed an issue where players could escape a trial when grabbed by The Mastermind under high latency conditions.
+
+Fixed an issue where the collision box was too large when using Charge Bound on a Survivor towards another Survivor as The Mastermind.
+
+Environment/Maps
+
+Fixed an issue in the Disturbed Wall where there`s not enough space to interact in front of a hook.
+
+Fixed an issue in the Treatment Theater where the Plague's Vile Purge was blocked by an invisible collision.
+
+Fixed an issue where The Mastermind could bound off a balcony on The Sanctum of Wrath
+
+Fixed an issue where The Nurse could blink into the caged bathroom stalls in Midwich Elementary.
+
+Perks
+
+Fixed an issue where the Phantom Fear perk could trigger during the mori animation for The Shape with the Tombstone add-on.
+
+Fixed an issue where Survivors held item's rarity would increase when using Blast Mine and the Exultation perk on a cloaked The Wraith.
+
+Fixed an issue where Face The Darkness did not activate with Claw Traps and For The People.
+
+Fixed an issue where the Recover bar could appear reduced after interacting with a generator while Invocation: Weaving Spiders was active.
+
+Fixed an issue where the wolf form pounce special attack did not remove Play With Your Food tokens for The Dark Lord.
+
+Fixed an issue where Turn Back The Clock's ability button was briefly visible when several Killers used their power.
+
+Fixed an issue where Low Profile could activate more than once per match.
+
+Fixed an issue where Off The Record failed to activate when unhooked by Shoulder The Burden.
+
+Fixed an issue where Thrilling Tremors would trigger Secret Project's Undetectable effect after all generators were completed.
+
+UI
+
+Bottom Navigation menu buttons now display their input prompts for Controllers.
+
+Fixed an issue where the Survivor HUD would update whenever a Survivor used a locker against The Lich.
+
+Misc
+
+Fixed an error preventing Tutorial Bot matches from starting.
+
+Fixed an issue where Survivor could unhook themselves in the Tutorial, softlocking them.
+
+Fixed an issue where Survivors were unable to use Fog Vials near ledges.
+
+Fixed an issue where the Potent Extract Fog Vial add-on had no effect on the duration.
+
+Known Issues
+
+Custom Game Match Management settings only visually update when adding bots or players to the lobby. Note: This is a visual bug only, the functionality is good.
+
+Mori Previews are disabled.
+
+On The Trickster's Rank Up UI, rarely, the S-rank effects will blink in and out and remain when S rank ends.
+
+The Mastermind's charge remains active without player input when quickly double tapping the power button.
+
+Patch 9.5.0
+
+CONTENT
+
+New Realm: 
+Sleepless District
+
+New Map: 
+Trickster's Delusion
+
+New Survivor: 
+Kwon Tae-Young
+
+Perks:
+
+Flow State
+
+A Place For Us
+
+Five Moves Ahead
+
+KILLER UPDATES
+
+The Trickster
+
+Summary
+
+The Trickster now gains Style Points by throwing Blades, injuring Survivors and performing distinct gameplay actions back-to-back
+
+The Trickster goes up in Style Ranks by earning Style Points.
+
+Each Style Rank improves The Trickster's Blade throw rate and Locker Restocking speed.
+
+Main Event can now only be activated once reaching the highest Style Rank.
+
+Style Points and Style Ranks are tracked via a new user interface element custom-made for The Trickster.
+
+Basekit
+
+The Trickster's movement speed decreased to 4.4m/s (was 4.6 m/s).
+
+Blade count decreased to 36 (was 44).
+
+Decreased Terror Radius to 24m (was 32m).
+
+Decreased time to enter Throw State to 0.3s (was 0.35s).
+
+Decreased time to exit Throw State to 1.15s (was 1.25s).
+
+Increased time between Blade throws to 0.33s (was 0.3s).
+
+Increased base Throw State movement speed to 3.86m/s (was 3.68m/s).
+
+After 5 consecutive Blade throws, Throw State movement speed is decreased to 3.53 m/s.
+
+After 10 consecutive Blade throws, Throw State movement speed is decreased to 3.16 m/s.
+
+Increase Blade throw rate per Blade thrown:
+
+After 5 consecutive Blade throws, the throw rate increased by 50%.
+
+After 10 consecutive Blade throws, the throw rate is increased by 100%.
+
+Laceration
+
+Laceration now only counted using whole numbers (previously decayed into decimals).
+
+Laceration Meter decreased to 6 (was 8).
+
+Laceration Meter decay delay decreased to 12s (was 15s).
+
+Increase Laceration stack decay time to 4.4s (was 3s).
+
+Laceration visual feedback updated.
+
+Now displayed on the Survivor directly, for both Survivors and Killer.
+
+Laceration cuts removed from Survivors' user interface.
+
+Style Points
+
+The Trickster performing combo actions generates Style Points.
+
+A combo action is triggered when two back-to-back gameplay actions are distinct.
+
+The following actions generate 1 Style Point:
+
+Hitting a Survivor with a Blade (first-hit only).
+
+Injuring a Survivor (from Laceration or basic-attack).
+
+Hooking a Survivor.
+
+Basic-breaking a Downed Pallet.
+
+Basic-breaking a Breakable Wall.
+
+Damaging a Generator.
+
+Snuffing a Boon Totem.
+
+The following actions generate 2 Style Points:
+
+Hitting a Survivor with 4 Blades from at least 4m (without missing or exiting the Throw State).
+
+Hitting a Survivor with a Blade from more than 16m away.
+
+Interrupting a Survivor.
+
+The following actions generate 3 Style Points:
+
+Hitting a Survivor with a Blade through small gaps.
+
+Style Ranks
+
+There are 6 Style Ranks: E, D, C, B, A and S-Rank.
+
+Style Ranks each have their respective bonus maximum throw rate and Locker restocking speed modifiers.
+
+Higher bonuses at higher ranks.
+
+Higher Style Ranks require more Style Points to reach.
+
+Higher Style Ranks feature progressively shorter combo timers.
+
+Ranks regress to previous in order if combo timer ever lapses.
+
+Earning Style Points refreshes the current Style Rank's combo timer.
+
+Style Rank combo timers are paused while The Trickster is performing interactions with Survivors or interactable objects.
+
+S-Rank
+
+When reaching of S-Rank
+
+Survivors within 44m of The Trickster are revealed via Killer Instinct for 4.4s.
+
+All Survivors are notified across the Trial.
+
+While in S-Rank:
+
+The Trickster gains a 44m Terror radius.
+
+Lullaby is disabled.
+
+Laceration Meters decay 50% slower.
+
+Blade throw and Locker restock speeds increased to maximum.
+
+Main Event can be activated.
+
+S-Rank has a 66s combo timer.
+
+S-Rank cannot be paused or refreshed (unlike lower Style Ranks).
+
+S-Rank always reverts to E-Rank (via timer, or once Main Event ends).
+
+Main Event
+
+Press the Secondary Ability button to activate Main Event
+
+Main Event lasts 10s (was 8s).
+
+Main Event movement speed set at 3.92 m/s.
+
+The Trickster throws Blades at at 1.67x the default Blade throw speed.
+
+Note: not affected by Consecutive Blade Throw and Style Rank Blade Throw modifiers.
+
+Survivors near The Trickster are notified.
+
+While performing Main Event:
+
+S-Rank timer is paused.
+
+Each Blade hitting Survivors awards bonus Style Points.
+
+The Trickster can cancel Main Even via the Secondary Ability button.
+
+When Main Event ends:
+
+The Trickster's Power goes on cooldown for 4s.
+
+S-Rank resets to E-Rank
+
+The Trickster goes up in Style Ranks over time, based on bonus Style Points earned during Main Event.
+
+Add-Ons
+
+Memento Blades (Rework)
+
+Displays a reticle while aiming with Blades.
+
+Trick Pouch
+
+Increases maximum carried Blades by 4.
+
+Start the Trial with 4 extra Blades.
+
+Killing Part Chords (Rework)
+
+Increases time before Style Ranks from D to A decay by 20%.
+
+Inferno Wires (Rework)
+
+Decreases Showstopper's cooldown after Main Event by 44%.
+
+Ji-Woon's Autograph (Rework)
+
+Increases the duration of Main Event by 44%.
+
+Lucky Blade (Rework)
+
+On every eighth Blade Hit, an additional bonus is assigned at random:
+
+Increases Throw Speed by 8% for 8 seconds.
+
+Gain 3% Haste for 3 seconds.
+
+Gain an additional Style Point.
+
+Caged Heart Shoes (Rework)
+
+When you basic-break Pallets and Breakable Walls or damage Generators, the next time you enter the Throw State, increase movement speed while in the Throw State by 5% for 10 seconds.
+
+Tequila Moonrock (Rework)
+
+Increases Throw Speed by 15% for 10 seconds after gaining a Style Rank.
+
+Bloody Boa (Rework)
+
+Decreases the speed at which Laceration decays by 25%.
+
+On Target Single (Rework)
+
+Increases time before Laceration starts decaying by 30%.
+
+Fizz-Spin Soda (Rework)
+
+Increases the number of Blade Throws required to slow movement speed while throwing by 2.
+
+Waiting for You Watch (Rework)
+
+Survivors whose Laceration Meter fully decays are revealed for 4 seconds.
+
+Ripper Brace (Rework)
+
+For each Style Rank, you basic-vault Windows, basic-break Pallets or Breakable Walls, and damage Generators 3% faster.
+
+Melodious Murder
+
+Increases Blade reload speed at lockers by 25%.
+
+Diamond Cufflinks
+
+Reveals Survivors' auras for 6 seconds when their Laceration reaches one Blade hit from maximum.
+
+Edge of Revival Album (Rework)
+
+Blade Hits from more than 20 meters away deal 100% more Laceration.
+
+Trick Blades (Rework)
+
+Blades can ricochet off the environment once.
+
+On every eighth Blade Hit after a ricochet, an additional bonus is assigned at random:
+
+Increases Laceration by 100%.
+
+Reveal Survivor auras within 12 meters for 4.4 seconds.
+
+Gain an additional Style Point.
+
+Cut Thru U Single (Rework)
+
+When reaching A-Rank, Survivors within 32 meters are revealed with Killer Instinct for 4.4 seconds.
+
+Death Throes Compilation (Rework)
+
+Refills Blades by 50% of the maximum when Main Event ends.
+
+Iridescent Photocard (Rework)
+
+Increases the duration of Main Event by 100%.
+
+When Main Event is activated: reveal your aura to all Survivors, all Survivors’ auras are revealed, and block all Generators for 6 seconds.
+
+The First
+
+Power
+
+Decreased 2nd phase of the Wordbreaker Timer from 60 seconds to 50 seconds.
+
+Killer Base Attack lunge speed adjusted from 6.6m/s to 6.9m/s to be on par with all Killers.
+
+Add-Ons
+
+Bead Maze
+
+Now increases Worldbreaker Timer for 2.5 seconds for each living Survivor.
+
+Shattered Wrist Rocket
+
+Changed Common Rarity to Uncommon Rarity.
+
+Bloody Roller Skate
+
+Now Killer gains the Haste Effect for 1.5 seconds upon exiting Undergate Attack.
+
+Mid-Century Radio
+
+Changed Uncommon Rarity to Common Rarity.
+
+Forged Death Certificate
+
+Reworked for Each successful Worldbreaker Token placed on a Survivor via Vine Attack Undetectable Status Effect until the next Worldbreaker Mode activation.
+
+Rabbit Remains
+
+Changed Rare Rarity to Very Rare.
+
+Now give Exhausted status effect for 10 seconds, and increase the Upside Down Ability cooldown by 5 seconds.
+
+Broken Skateboard
+
+Reworked for When Worldbreaker Mode starts, you basic-vault windows 30% faster and auras of Pallets and Windows are revealed to you within 32 meters for the next 65 seconds.
+
+Pizza Goggles
+
+Changed Very Rare Rarity to Rare Rarity.
+
+Reworked for The Undergate Attack's area of effect range is reduced by 90%, and its cooldown time is shortened by 25 seconds.
+
+Your exit cooldown time after executing the Undergate Attack is reduced by 80%.
+
+Chess Piece
+
+Removed the negative aspect of increasing the Upside Down Ability cooldown and the two charges attack radius are now diminished by 40%.
+
+The Ghoul
+
+Power
+
+Adjusted Reticule stickiness on Survivor from 0.18 to 0.05 seconds when attempting a Kagune grabs.
+
+Killer can no longer automatically damages nearby Survivors following a Leap vault.
+
+FEATURES
+
+Killer Actions Update
+
+Accompanying the new language found in the Perks Description Update (see below), we have expanded our distinction between basic and special actions performed by Killers.
+
+Starting in update 9.5.0, the following terms will now appear in Power, Add-on and Perk descriptions:
+
+Basic-break
+
+When a Pallet or Breakable Wall is broken by the default ability of any Killer.
+
+Special-break
+
+When a Downed Pallet or Breakable Wall is broken due to an ability granted by a Killer's Power.
+
+Basic-vault
+
+When a Window is vaulted by the default ability of any Killer.
+
+Special-vault
+
+When a Window or Downed Pallet is vaulted due to an ability granted by a Killer's Power.
+
+Damaging Generators
+
+When a Generator is damaged and loses progress due to the default ability of any Killer.
+
+Generator Explosions
+
+When a Generator loses progress due to an ability granted by a Killer's Power or Perk.
+
+With these new terms, we intend to express with increased accuracy when specific gameplay interactions are intended to work alongside one another.
+
+Notably Killer Powers and Killer Perks.
+
+Multiple gameplay descriptions. been updated to surface these new interactions.
+
+The following Killers' Power descriptions have been updated:
+
+Basic-break
+
+The Singularity
+
+Special-break
+
+The Shape
+
+The Hillbilly
+
+The Cannibal
+
+The Demogorgon
+
+The Oni
+
+The Blight
+
+The Nemesis
+
+The Knight
+
+The Dark Lord
+
+Special-vault
+
+The Legion
+
+The Mastermind
+
+The Good Guy
+
+The Ghoul
+
+The Krasue
+
+The following Killer Add-on descriptions have been updated:
+
+The Wraith - "The Serpent" - Soot
+
+The Wraith - "Shadow Dance" - White
+
+The Wraith - "Shadow Dance" - Blood
+
+The Hillbilly - Lo Pro Chains
+
+The Spirit - Kintsugi Teacup
+
+The Legion - Iridescent Button
+
+The Ghost Face - Olsen's Wallet
+
+The Demogorgon -  Barb's Glasses
+
+The Executioner - Obsidian Goblet
+
+The Mastermind - Lab Photo
+
+The Knight - Pillaged Mead
+
+The Skull Merchant - Geographical Readout
+
+The Xenomorph - Self-Destruct Bolt
+
+The Good Guy - Hard Hat
+
+The Lich - Ring of Telekinesis
+
+The Lich - Vorpal Sword
+
+The Dark Lord - Pocket Watch
+
+The Dark Lord - Sylph Feather
+
+The Houndmaster - Gunpowder Tin
+
+The Ghoul - CCG ID Card
+
+The Ghoul - Red-headed Centipede
+
+The Ghoul - Iridescent Eye Patch
+
+The Animatronic - Endo CPU
+
+The Krasue - Rotten Swine
+
+The Krasue - Mysterious Elixir
+
+The First - Shattered Wrist Rocket
+
+The First - Stained Glass Mural
+
+The First - Broken Skateboard
+
+The First - Electroshock Collar
+
+The following Killer Perk descriptions have been updated:
+
+Brutal Strength
+
+Brutal Strength
+
+Overcharge
+
+Overcharge
+
+Fire-Up
+
+Bamboozle
+
+Pop Goes The Weasel
+
+Spirit Fury (now "destroys" pallets)
+
+Surge
+
+Trail of Torment
+
+Dragon's Grip
+
+Oppression
+
+Eruption
+
+Scourge Hook: Pain Resonance
+
+Call of Brine
+
+Dissolution (now "destroys" pallets)
+
+Superior Anatomy
+
+Nowhere to Hide
+
+Game Afoot
+
+THWACK!
+
+Machine Learning
+
+Unbound
+
+Unforeseen
+
+Undone
+
+Dark Arrogance
+
+Help Wanted
+
+Turn Back The Clock
+
+Hex: Hive Mind
+
+The following Survivor Perk descriptions have been updated:
+
+Alert
+
+Blast Mine
+
+Wiretap
+
+Chemical Trap
+
+Bada Bada Boom
+
+Survivor Item Update
+
+Fog Vial
+
+Reworked the Fog Cloud visual effect and rendering method.
+
+Opacity inside and outside its bounds is now consistent across all Realms.
+
+Always fully opaque when seen from the outside.
+
+Adapts to each Realm's unique lighting and color.
+
+The following essential Auras are now always displayed through the Fog Cloud:
+
+When a Survivor is downed.
+
+When a Survivor is hooked.
+
+Increased the number of charges to 4 (was 2) for the following items:
+
+Apprentice's Fog Vial
+
+Artisan's Fog Vial
+
+Vigo's Fog Vial
+
+Add-ons
+
+Potent Extract (Visceral):
+
+Increased Fog Cloud increased opacity bonus to 100% (was 5%).
+
+Note: the increased bonus opacity is relative to the new Fog Cloud visual effect.
+
+Perks Description Update
+
+All Survivor and Killer Perk descriptions in the game have been updated and revised with simplified and consistent language.
+
+Aside from Perk updates above, Perk gameplay has not changed across the board.
+
+Our goals were the following:
+
+Shorten text and character usage.
+
+Ease Player understanding.
+
+Reset Perk language for easier future maintenance.
+
+To help achieve this, we have added Expanding Tooltips in the user interface:
+
+Status Effects can now be expanded separately to display reminders.
+
+Status Effects each feature unique colour labels, flagging them as positive or negative.
+
+Keybindings associated with a Perk's activated effect are now displayed within a Perk's text description.
+
+Examples: Dead Hard, Come And Get Me!, Dramaturgy, etc.
+
+Auras Customization
+
+Auras colors have been updated
+
+Players can customize some auras' colors on Beta tab
+
+Survivors
+
+Killers
+
+Hooked/dying survivors
+
+Normal Hooks
+
+Generators
+
+Pallets
+
+Windows
+
+Store
+
+Players can use a "Clear all" button to remove active notifications
+
+New Prestige Menu & Rewards System
+
+Added a new way to track and view your rewards when Prestiging your character.
+
+Simply clicking on your characters' Prestige level will let you access and track your progress
+
+New rewards given at Prestige 25, 50, 75 & 100 per character
+
+PERK UPDATES
+
+Survivor
+
+Better Together
+
+Plot Twist can no longer force this Perk's effect to activate out of the Survivor's control.
+
+Fast Track (Rework)
+
+Whenever another Survivor is hooked, you earn 1/2/3 Token(s), up to 9.
+
+While repairing, whenever you hit a great basic Skill Check, spend all Tokens. For each Token spent, the Generator gains 2 permanent Charges.
+
+Self-Preservation (Rework)
+
+When another Survivor is hooked, you gain Elusive for 20/25/30s.
+
+The icon has been updated to reflect this change
+
+Unbreakable
+
+Once per trial, while downed by the Killer, you can fully recover.
+
+While downed, you recover 25/30/35% faster.
+
+Note: now only grants the Survivor the ability to recover when the Killer was specifically responsible for them entering the downed state.
+
+Killer
+
+Forced Hesitation
+
+Plot Twist can no longer force this Perk's effect to activate out of the Killer's control.
+
+Genetic Limits
+
+Updated to apply the Exhausted status effect simultaneously when the health state loss is recognized on Survivors, not afterwards.
+
+Hex: Crowd Control (Rework)
+
+The first time a Survivor medium or fast-vaults a Window, a Dull Totem ignites.
+
+The last 4/5/6 Windows Survivors medium or fast-vault are blocked.
+
+You basic-vault blocked Windows 15% faster.
+
+You see the Auras of blocked Windows within 24m.
+
+Pop Goes The Weasel
+
+Whenever you hook a Survivor, for the next 35/40/45s, when you damage a Generator, it explodes and loses 15% more progress (was 20% current progress, now total progress-only).
+
+Terminus
+
+Updated to trigger earlier when Generators are completed to block healing abilities of Survivors occurring simultaneously.
+
+BUG FIXES
+
+Audio
+
+Fixed an issue where Haddie's 'Silent Breach' outfit does not have its Lobby theme playing when equipped.
+
+Fixed an issue where outfits in the 'Moonrise' collection are missing their Lobby Themes when equipped.
+
+Fixed an issue where Junji-Ito' Lobby theme is missing when using the 'Soichi's Party Clothes' outfit for the Trickster in Lobby.
+
+Fixed an issue where the generator repair dialog between the Walking Dead characters no longer trigger.
+
+Fixed an issue where SFX from the Furin add-on plays from Killer POV when phasing with the Spirit.
+
+Fixed an issue where Cage of atonement music is not working properly.
+
+Fixed an issue where missing final part of the Audio during a Mori with The Trickster.
+
+Fixed an issue where Rift Animations and SFX is repeated when pressing the Rift Pass Button.
+
+Fixed an issue where the Trickster's bat swinging SFX are inconsistent between the Camera Pan animation, his M1, and the idle lobby animation.
+
+Fixed an issue where the Trickster's Chase music will not return to default after unequipping either of the two special addons.
+
+Fixed an issue where some surfaces were playing a metallic sound instead of cloth when hit.
+
+Fixed an issue where several of the Trickster's customization outfits will play no sound effects from the weapon while loading into a lobby.
+
+Fixed an issue where there was an SFX that triggers every time the Survivors or the Killer enter or exit the radius of the Fog Vial.
+
+Fixed an issue where the Generators' progress SFX is missing in the Tutorials.
+
+Bot Improvements
+
+Fixed issues causing Survivor Bots to not dodge the intended direction.
+
+Improved Survivor Bots' dodging against The Trickster.
+
+Survivor Bots now have as much control as players when speared by The Deathslinger.
+
+Tentative fix for Survivor Bots sometimes automatically revealing Ghostface from anywhere.
+
+Survivor Bots are now smarter with what they interact with when playing against The Plague.
+
+Survivor Bots now no longer use Plot Twist when infected by The Plague or The Krasue.
+
+Survivor Bots will now avoid taunting and blocking the path of other Survivors during chases.
+
+Fixed multiple navigation issues in Ormond Lake Mine.
+
+Characters
+
+Fixed an issue where The Animatronic no longer holds the side of the screen when performing Lobby animation.
+
+Fixed an issue where The Animatronic's animation could break when pallet stunned while using Axe Grab on a Survivor.
+
+Fixed an issue where Remove Axe could allow Survivors to walk through The Animatronic in some instances.
+
+Fixed an issue where The Animatronic could display stretching issues when performing a lunge attack or passing through a security door.
+
+Fixed an issue where The Nemesis could hit Survivors with Tentacle Strike after they exited the trial.
+
+Fixed an issue where The Trapper could bypass trap placement areas by flicking.
+
+Fixed an issue where The Trapper's Bear Trap had inconsistent hitbox detection.
+
+Fixed an issue where The Trapper could place traps in inaccessible locations by FPS glitching.
+
+Fixed an issue where The Cannibal's power could break during state changes.
+
+Fixed an issue where The Shape was unable to Tombstone Mori a Survivor while
+
+Fixed an issue where The Shape could kill a Survivor during the self-unhook animation while Evil Incarnate was active.
+
+Fixed an issue where The Demogorgon would stutter when spamming M2.
+
+Fixed an issue where The Demogorgon’s animation would not play properly when channeling the Abyss.
+
+Fixed an issue where the Dire Crow could be missing from the Survivor POV during The Artist's mori.
+
+Fixed an issue where The Artist's Dire Crow's flight path did not behave consistently around small assets.
+
+Fixed an issue where The Blight's turn rate slows down when stunned by Head On.
+
+Fixed an issue where The Blight was unable to injure Survivors when performing a Lunge Attack and Rush at the same time.
+
+Fixed an issue where The Ghoul's Kagune Leap reticle would change colors when targeting an occupied locker.
+
+Fixed an issue where The Ghoul's Enrage Mode countdown continued when a Kagune Mark got cleansed while carrying a Survivor.
+
+Fixed an issue where Survivors who unhook themselves started generating Blood Orbs from The Oni immediately instead of 10 seconds after the unhook.
+
+Fixed an issue where The Good Guy's Slice & Dice did not always land the hit after releasing the button early.
+
+Fixed an issue where the external icon was missing when The Skull Merchant's add-on "Geographical Readout" was active.
+
+Fixed an issue where the Survivor Reveal distance was inconsistent between 15 and 32 meters against The Ghost Face.
+
+Fixed an issue where The Legion's power could break when blinded while vaulting.
+
+Fixed an issue where The Legion's power description incorrectly labelled the movement speed bonus from landing a Feral Slash hit as 0.2m/s.
+
+Fixed an issue where The Huntress' hatchets would inconsistently detect collision when attempting to hatchet throw through a window.
+
+Fixed an issue where The Krasue was unable to Intestinal Whip crouched Survivors on stairs.
+
+Fixed an issue where The First's Vine attack animation would frequently remain in the charged state after spamming Release Vine Attack.
+
+Fixed an issue where The First's Mind Break animation sometimes wouldn’t play properly for the Survivor.
+
+Fixed an issue where The First's Mind Break animation was missing when two or more Survivors were hit at the same time while the Mini-Mori requirements were met.
+
+Fixed an issue where The First became invisible from the Custom Game Spectator point of view after exiting the Upside Down.
+
+Fixed an issue where the mend action could not be executed when two or more Survivors were hit at the same time while the Mini-Mori requirements were met for The First.
+
+Fixed an issue where The Houndmaster would rubberband when walking after successfully grabbing a Survivor with the Chase ability.
+
+Fixed an issue where the application could crash for Survivors and the Killer after The Houndmaster hooked a Survivor.
+
+Fixed an issue where the camera could get stuck in Charlotte's or Victor's head, making it difficult to control The Twins.
+
+Fixed an issue where The Lich could rarely keep the movement speed of "Fly" when stunned at the same time as casting the spell.
+
+Fixed an issue where the flashlight beam would reappear after The Dark Lord changed to Bat From after being previously blinded by the flashlight and the Survivor crafted a Flash Bang.
+
+Fixed an issue where The Dark Lord's Hellfire pillar could be visually missing.
+
+Fixed an issue where, as Eleven, a texture stretching issue could be seen in the left armpit area of the outfit.
+
+Fixed an issue where Survivors could not remove the Reverse Bear Trap if they screamed at the end of a Jigsaw Box search.
+
+Fixed an issue where The Pig's HUD prompts change when falling from a ledge while crouched.
+
+Fixed an issue where some of The Dredge's Smoke is played over the Map Item light beam.
+
+Fixed an issue where generators, TV auras and out of world are visible while the Onryo projects to a TV.
+
+Fixed an issue where Survivors were unable to grab The Onryo's VHS Tape after crafting a Flashbang.
+
+The Mastermind
+
+Refactor done in the Virulent Bound power. This specifically tackles the desync issues found while using the power. Will also improve responsiveness for most of his power usage. As well changed how we detect a collision with other characters (Survivors, Killers, Zombies) while grabbing a Survivor. It will now properly detect the size of the character collision size.
+
+Fixed an issue where The Mastermind’s Virulent Bound could glide off a hill’s ledge when falling
+
+Fixed an issue where The Mastermind’s Virulent Bound Speed effect was displayed after vaulting and falling a ledge.
+
+Fixed an issue where Survivors were able to use their flashlight while being thrown with Virulent Bound by The Mastermind.
+
+Fixed an issue where The Mastermind could initiate a partial vault on a pallet near a hole while falling.
+
+Fixed an issue where The Mastermind could grab Survivors through vault locations when using Virulent Bound at a certain angle.
+
+Fixed an issue where The Mastermind would briefly float in the air when vaulting from a higher vantage point while using Virulent Bound.
+
+Fixed an issue where The Mastermind's supply crate could be climbed on when forcing collision with other players.
+
+Fixed an issue where the chase music would end after successfully hitting a healthy Survivor with the Virulent Bound as The Mastermind.
+
+Fixed an issue where Survivors could be stuck in rocks after being charged by The Mastermind on Thompson House.
+
+Fixed an issue where a Survivor could lose control of their character if The Mastermind used Virulent Bound as they entered a locker.
+
+Fixed an issue where players could escape a trial when grabbed by The Mastermind under high latency conditions.
+
+Fixed an issue where the collision box was too large when using Charge Bound on a Survivor towards another Survivor as The Mastermind.
+
+Environment/Maps
+
+Fixed an issue in the Disturbed Wall where there`s not enough space to interact in front of a hook.
+
+Fixed an issue in the Treatment Theater where the Plague's Vile Purge was blocked by an invisible collision.
+
+Fixed an issue where The Mastermind could bound off a balcony on The Sanctum of Wrath
+
+Fixed an issue where The Nurse could blink into the caged bathroom stalls in Midwich Elementary.
+
+Moved a simple collision in the tunnel of the Lake Ormond Mine map, in order to correct the issue of survivors who could stand on an invisible collision and become immune to killer attacks
+
+Fixed an issue in the realm Autohaven Wreckers where the projectile of the Plague would be blocked by invisible collisions
+
+Fixed an issue in the realm Coldwind Farm where the projectile of the Plague would be blocked by invisible collisions
+
+Fixed an issue in Garden Of Joy where the legion could not vault one side of a pallet next to the green house
+
+Fixed an issue in Dead Dawg Saloon where killers could not kick one side of a generator
+
+Fixed an issue in Trickster's Delusion where the camera introduction of the Houndmaster clips inside the character
+
+Fixed multiple issues where the guards of The Knight where they would get stuck on the side of hills
+
+Fixed an issue in Ormond Lake Mine where the collisions of tires were blocking powers of killers
+
+Fixed an issue in Coal Tower where Killers would not be able to navigate between trees
+
+Fixed an issue in Garden Of Joy where the killers were able to climb a rock
+
+Perks
+
+Fixed an issue where the Phantom Fear perk could trigger during the mori animation for The Shape with the Tombstone add-on.
+
+Fixed an issue where Survivors held item's rarity would increase when using Blast Mine and the Exultation perk on a cloaked The Wraith.
+
+Fixed an issue where Face The Darkness did not activate with Claw Traps and For The People.
+
+Fixed an issue where the Recover
+
+Fixed an issue where the wolf form pounce special attack did not remove Play With Your Food tokens for The Dark Lord.
+
+Fixed an issue where Turn Back The Clock's ability button was briefly visible when several Killers used their power.
+
+Fixed an issue where Off The Record failed to activate when unhooked by Shoulder The Burden.
+
+Fixed an issue where Thrilling Tremors would trigger Secret Project's Undetectable effect after all generators were completed.
+
+Fixed an issue where Hex: Pentimento rekindled totem auras were not revealed to Survivors.
+
+Fixed an issue where Blood Warden's aura reading was active before the conditions were met.
+
+Platforms
+
+Fixed an issue where Survivors were unable to remove Killer Items when the pick up item / interaction buttons were bound to the D-Pad.
+
+UI
+
+Bottom Navigation menu buttons now display their input prompts for Controllers.
+
+Fixed an issue where the Survivor HUD would update whenever a Survivor used a locker against The Lich
+
+Fixed an issue where the game would crash if you stayed for extended periods of time in the tally screen.
+
+Fixed controller input placeholder in the shrine of secret.
+
+Fixed equip button feedback not triggering correctly.
+
+Misc
+
+Fixed an error preventing Tutorial Bot matches from starting.
+
+Fixed an issue where Survivor could unhook themselves in the Tutorial, softlocking them.
+
+Fixed an issue where Survivors were unable to use Fog Vials near ledges.
+
+Fixed an issue where the Potent Extract Fog Vial add-on had no effect on the duration.
+
+Fixed an issue where pink fog appears briefly behind the Killer after previewing a Mori.
+
+Changes from PTB
+
+New Perks Updates
+
+A Place For Us
+
+When you finish healing the Obsession, you now "both" gain Elusive for the duration.
+
+Five Moves Ahead
+
+Increased cooldown by 10 seconds for each perk tier.
+
+Clarified the text description of the "pallet-dropping speed" effect. (no gameplay change)
+
+Killer Updates
+
+The Trickster
+
+Power
+
+Increased base Throw State movement speed to 3.86 m/s (was 3.68 m/s).
+
+Decreased to after 5 consecutive Blade throws, throw state movement speed is decreased to 3.53 m/s (was 8).
+
+Decreased to after 10 consecutive Blade throws, throw state movement speed is decreased to 3.16 m/s (was 16).
+
+Updated Blade throw rates per blade thrown
+
+Decreased to after 5 consecutive Blade throws, the throw rate is at the 50% point in the curve (was 8).
+
+Decreased to after 10 consecutive Blade throws, the throw rate is at the 100% point in the curve (was 16).
+
+Increase Laceration Stack Decay to 4.4 seconds (was 3 seconds).
+
+Increase Main Event movement speed to 3.92 m/s (was 3.86 m/s).
+
+Increase Main Event duration to 10 seconds (was 8 seconds).
+
+The Tricker's Add-Ons
+
+Inferno Wires
+
+Decreases Showstopper's cooldown after Main Event by 44% (was 10%).
+
+Ji-Woon's Autograph 
+
+Increases the duration of Main Event by 44% (was 33%).
+
+Tequila Moonrock
+
+Increases Throw Speed by 15% for 10 seconds after gaining a Style Rank (was 10% for 8s).
+
+Bloody Boa
+
+Decreases the speed at which Laceration decays by 25% (was 10%).
+
+On Target Single
+
+Increases time before Laceration starts decaying by 30% (was 15%).
+
+Edge of Revival Album
+
+Blade Hits from more than 20 meters away deal 100% more Laceration (was 32 meters).
+
+Add-Ons (Rework)
+
+Caged Heart Shoes
+
+When you basic-break Pallets and Breakable Walls or damage Generators, the next time you enter the Throw State, increase movement speed while in the Throw State by 5% for 10 seconds.
+
+Lucky Blade
+
+On every eighth Blade Hit, an additional bonus is assigned at random:
+
+Increases Throw Speed by 8% for 8 seconds (new effect).
+
+Gain 3% Haste for 3 seconds.
+
+Gain an additional Style Point.
+
+Trick Blades
+
+Blades can ricochet off the environment once.
+
+On every eighth Blade Hit after a ricochet, an additional bonus is assigned at random: (new effect)
+
+Increases Laceration by 100%.
+
+Reveal Survivor auras within 12 meters for 4.4 seconds.
+
+Gain an additional Style Point.
+
+Cut Thru U Single
+
+When reaching A-Rank, Survivors within 32 meters are revealed with Killer Instinct for 4.4 seconds.
+
+Iridescent Photo (Rework)
+
+Increases the duration of Main Event by 100%.
+
+When Main Event is activated: reveal your aura to all Survivors, all Survivors’ auras are revealed, and block all Generators for 6 seconds (updated Aura reveal effect to be symmetrical).
+
+The First
+
+Power
+
+Charge Vine Attack Ready sounds playing slightly in advance for Survivors has been reverted.
+
+The Ghoul
+
+Power
+
+Removed the automatic hit detection that occurs at the end of a Kagune Leap vault when a Survivor attempts to vault back toward the Killer. The Killer can no longer automatically damage Survivors.
+
+The Ghost Face
+
+Power
+
+Technical improvement on the Killer's reveal system.
+
+Survivors can now reveal Ghost Face more accurately while he is within 18 meters of their location.
+
+The Wraith
+
+Add-Ons
+
+"The Serpent" - Soot
+
+While Cloaked, uncloak whenever you basic-break Pallets or Breakable Walls, explode or damage Generators (previously included "Generator Damage" events only).
+
+Note: updated the add-on's behavior to be more consistent across all existing Generator Damage and Generator Explosion effects that can trigger while The Wraith is cloaked.
+
+Survivor Perk Updates
+
+Low Profile
+
+When all other Survivors are downed or hooked, for 70/80/90s: (updated text in bold)
+
+You make no Grunts of Pain.
+
+You leave no Pools of Blood.
+
+You leave no Scratch Marks.
+
+Note: Reverted all previous changes and enabled multiple triggers per Trial. Updated text to more accurately convey previous usage of "last Survivor standing" the Perk's description.
+
+Feature Updates
+
+New Prestige Menu & Rewards System
+
+Resident Evil Prestige Badges have been added.
+
+The Prestige Badges for Vittorio Toscano, Nancy Wheeler, and Dustin Henderson have had an update
+
+Fixed an issue where the incorrect Prestige Badges were displaying in the Reward track of some Survivors.
+
+Bug Fixes
+
+Fixed an issue where S Rank could expire during Main Event when playing as The Trickster.
+
+Fixed an issue where The Trickster's Memento Blades add-on reticle did not disappear before the cooldown ends.
+
+Fixed an issue where The Trickster's Trickshot combo action could be earned too easily in areas with no gaps.
+
+Fixed an issue where The Trickster's reload speed time was not affected by Iron Maiden.
+
+Fixed an issue where The Trickster's Chase Music would not return to default after unequipping either the Death Throes Compilation or the Edge of Revival Album add-ons.
+
+Fixed an issue where generator auras were always blue when revealed by Boon: Illumination.
+
+Fixed an issue where injured Survivor auras were not blue when revealed by Boon: Circle of Healing.
+
+Fixed an issue where Survivors went beyond the exit threshold when crossing the threshold while being shocked by The Doctor.
+
+Fixed an issue where the Anti-Camp meter appeared full when another Survivor was hooked.
+
+Fixed an issue where Survivors saw red generator auras when creating a Beam of Light with a Map.
+
+Fixed an issue where the red arrow indicator was missing when targeting a generator with Turn Back The Clock.
+
+Fixed an issue where Self-Preservation activated when the perk owner was hooked.
+
+Fixed an issue where the auras of Blocked Windows was missing before Hex: Crowd Control activated.
+
+Fixed an issue where The Pig could see Jigsaw Box auras.
+
+Fixed an issue where The Mastermind's charge remained active without player input when quickly double tapping the power button.
+
+Fixed an issue where The Mastermind's Virulent Bound charge ability did not allow him to slide off assets.
+
+Fixed an issue where The Mastermind could Virulent Bound off obstacles under high latency.
+
+Fixed an issue where the Lock (when playing against The Dredge) and Hide locker interactions has the same prompt.
+
+Fixed an issue in Trickster's Delusion where collisions are added next to a table in the Nightclub section
+
+Fixed an issue in Trickster's Delusion where character would spawn of the map or on top of assets
+
+Fixed an issue in Trickster's Delusion where the crates with records didn't have collisions
+
+Fixed an issue in Trickster's Delusion where the neon signage connected to generators was inconsistent
+
+Fixed an issue in Trickster's Delusion where boxes around the market had collisions that were not aligned to the asset
+
+Hotfix 9.5.1
+
+FEATURES
+
+Blood Moon begins March 26th!
+
+Perk Support
+
+Most Perks for Survivors and Killers are supported on Blood Generators
+
+A new marker is displayed on top of perks that are not supported on Blood Generators.
+
+Killer Power Support
+
+All Killer Powers are supported on Blood Generators
+
+Blood Can Changes
+
+Blood Cans now be held with both a Regular Item and a Killer Item at the same time
+
+Functionality of item use is not affected when holding a Blood Can
+
+Score Event Change
+
+Score Event for completing a Blood Generator is shared among all Survivors
+
+KILLER UPDATES
+
+The Trickster
+
+Power
+
+Laceration Meter decay now paused while The Trickster is in S-Rank (previously decayed normally at all times).
+
+Includes Laceration Stacks applied before The Trickster achieves S-Rank, and those received while in S-Rank.
+
+Power description updated.
+
+BUG FIXES
+
+Audio
+
+Fixed an issue where the voice lines are missing when closing a Chest with the Perk "Human Greed" as Trickster with the Mina Customization.
+
+Fixed an issue where the SFX of a fully infected Survivor remained after a disconnection during a Custom Game.
+
+Characters
+
+Fixed an issue where an incorrect animation would play while performing the fill action as male Survivors.
+
+Fixed an issue where, as The Mastermind, performing the Mori animation on a female Survivor caused the camera not to play properly.
+
+Fixed an issue where, during a Trial against The Hillbilly, Survivors carried by the Killer would remain static from the Survivor’s POV if the Killer hit an asset with a Basic Attack.
+
+Fixed an issue where The First’s arm textures would stretch while performing the Pallet Break action.
+
+Fixed an issue where The First was able to use "Traverse Upside Down" ability at the Start of the Trial.
+
+Fixed an issue where Survivors' aura was shown in the default Red color with The First's Iridescent Soteria Chip add-on equipped.
+
+Fixed an issue where, when equipped with a T-shirt, Taurie Cain could be seen bending unnaturally while repairing a generator.
+
+Fixed an issue where, as The Knight, when using the Vanquished Destroyer (Deep Rift) outfit, kicking a generator caused the leg to not be visible.
+
+Fixed an issue where The Knight did not have Highlight Aura for guard orders on Pallets.
+
+Fixed an issue where Survivor Maggie Rhee had a green tint around her armpit when hooked.
+
+Fixed an issue where The Ghost Face briefly stopped Stalking when activating Night Shroud near cover.
+
+Fixed an issue where The Demogorgon's Aura could be seen while using Traverse Upside Down.
+
+Fixed an issue where The Demogorgon did not have Highlights for portals when able to Traverse.
+
+Fixed an issue where The Nurse had a small hitch/lag at the end of a Blink when the User experienced lag.
+
+Fixed an issue where The Animatronic looked straight up after performing a mori.
+
+Fixed an issue where The Trickster Combo Meter kept decaying when Grabbing a Survivor from an interrupt.
+
+Fixed an issue where The Trickster's Style Rank stopped decaying after breaking 2 Pallets or 2 Breakable Walls.
+
+Fixed an issue where The Trickster gained the score event "Thread the needle" when hitting Survivors with Showstopper inside of a Fog vial.
+
+Fixed an issue where The Skull Merchant's Drones had incorrect Killer Object and Highlight Auras.
+
+Fixed an issue where The Lich's Special items could be swapped with Survivors items and were unusable.
+
+Environment/Maps
+
+Fixed an issue where an invisible collision was blocking projectiles through an opening in Midwich Primary School, by changing the collision of the concrete wall.
+
+Fixed an issue where rocks would be floating in the main menu.
+
+Fixed an issue causing the floor to be missing in the Online Lobby.
+
+Fixed an issue in Family Residence map where the Knight's guard would get stuck on collisions around the hill.
+
+Fixed an issue in Eyrie of Crows map where projectiles were blocked on parts of the railing on the second floor of the main structure.
+
+Fixed an issue in Trickster's Delusion where the Nurse would be blinded with a black screen when blinking in the map.
+
+Fixed an issue in Pale Rose where traps are seen floating in an opening in the floor of the main structure.
+
+Fixed an issue in Garden of Joy where survivors could not interact properly in the main structure.
+
+Fixed an issue in Freddy Fazbear's Pizza where projectiles were blocked on the railings around the basement in the main structure.
+
+Fixed an issue in Treatment Theater where a hook get stuck in assets.
+
+Fixed an issue in Ironworks of Misery where totems could spawn very close to each others in the main structure.
+
+Perks
+
+Fixed an issue where We're Gonna Live Forever's healing buff persisted onto the Injured State when using med-kits.
+
+Fixed an issue where The Doctor's Illusionary Pallets became permanent when spawned where a Fragile Pallet is being crafted with Apocalyptic Ingenuity.
+
+Fixed an issue where the Obsession changed to another Survivor when Dramaturgy gave a key with the Wedding Ring Key add-on to the Obsession.
+
+Fixed an issue where Clean Break's icon never highlighted when activated.
+
+Fixed an issue where Red Herring remained active on the same Generator when repairing a Generator twice before entering a Locker.
+
+Fixed an issue where Hex: Crowd Control's icon was put back in the regular disabled state when the related Hex Totem was cleansed.
+
+Fixed an issue where Five Moves Ahead's icon remained lit while in cooldown.
+
+Fixed an issue where Five Moves Ahead was unable to activate after stunning the Killer equipped with Nemesis.
+
+Fixed an issue where Five Moves Ahead remained activated without going on Cooldown while dropping a Pallet inside The Unknown's transferred terror radius with the Iridescent OSS Report add-on.
+
+Fixed an issue where the External Perk Icon for A Place For Us disappeared before the Elusive Status Effect ended.
+
+Fixed an issue where Survivors' auras were briefly visible when performing a healing action in the radius of A Nurse's Calling with in combination with A Place for Us.
+
+Fixed an issue where the Bamboozle's icon was missing a duration timer.
+
+Fixed an issue where blocked Generators from Corrupt Intervention did not have users' selected aura color.
+
+Fixed an issue where blocked Generators from Deadlock did not have users' selected aura color.
+
+Quests
+
+Fixed an issue where Survivor Milestone Quests displayed incorrect repetitions.
+
+Fixed an issue where Milestone Quests could not earn progress due to incorrect parameters.
+
+UI
+
+Fixed an issue where text was overlapping in the Player Level Tooltip.
+
+Fixed an issue where the reduced value tooltip was missing for the Potential Energy perk.
+
+Fixed prestige rewards that could remain on screen and overlap other rewards selected afterward.
+
+Fixed bonus blood point showing a bigger total multiplier by including the base 1x value in every multiplier.
+
+Fixed preset in character customization that could not be renamed.
+
+Fixed an issue where Trickster's S-rank UI sometimes blinked and remained after S-rank had ended.
+
+Fixed an issue where Survivor Portraits were inconsistent when showing the Survivor interaction while facing The Lich.
+
+Hotfix 9.5.2
+
+FEATURES
+
+Killer Updates
+
+The Trickster
+
+Power
+
+Laceration Meter decay delay increased to 16s (was 12).
+
+Add-Ons
+
+Common – Trick Pouch
+
+Increases maximum carried Blades by 8. (was 4).
+
+Start the Trial with 8 extra Blades. (was 4).
+
+Common – Killing Part Chords
+
+Increases time before Style Ranks from D to A decay by 50%. (was 20%).
+
+Uncommon – Tequila Moonrock
+
+Increases Throw Speed by 8% for 10 seconds after gaining a Style Rank. (was 15%).
+
+Uncommon – Lucky Blade
+
+On every eighth Blade Hit, an additional bonus is assigned at random:
+
+Increases Throw Speed by 5% for 5 seconds. (was 8% for 8 seconds).
+
+Gain 3% Haste for 6 seconds. (was 3 seconds).
+
+Gain an additional Style Point.
+
+Uncommon – Bloody Boa 
+
+Decreases the speed at which Laceration decays by 75%. (was 25%).
+
+Rare – Waiting For You Watch
+
+Survivors whose Laceration Meter fully decays are revealed for 10 seconds. (was 4 seconds).
+
+Rare – Ripper Brace
+
+For each Style Rank, you basic-vault Windows, basic-break Pallets or Breakable Walls, and damage Generators 6% faster. (was 3%).
+
+Visceral – Death Throes Compilation
+
+Refills Blades by 75% of the maximum when Main Event ends. (was 50%).
+
+Common – Inferno Wires
+
+Increases the Style Rank timer of S-Rank by 20%. (Rework)
+
+Rare – Fizz-Spin Soda
+
+Decreases the number of Blade Throws required to increase Throw Speed by 2. (Rework)
+
+Rare – On Target Single
+
+Increases the duration of Main Event by 0.5 seconds for each Blade hit while in S-Rank, up to a maximum of 20 seconds. (Rework)
+
+BUG FIXES
+
+Audio
+
+Fixed an issue where Globally, Survivors in a building can hear The Huntress' Lullaby from any distance.
+
+Fixed an issue where The Unknown's Mask customization plays the male voice lines always.
+
+Fixed an issue where Richter Belmont's is missing audio in the intro animation.
+
+Fixed an issue where Static audio can be heard when Eleven is breathing in-game.
+
+Fixed an issue where Multiple outfits don't have the Menu theme of their respective collection.
+
+Fixed an issue where The Creeping Fog. 5. journal entry is missing audio.
+
+Fixed an issue where 2 walls of the shop emit a metallic or a glass breaking sound when hit in Tricksters Delusion Map.
+
+Blood Moon
+
+Fixed an issue where the Stop Leak action could be performed while holding a Blood Can.
+
+Bot Improvements
+
+Fixed an issue causing Bots to be unable to complete multiple charged interactions.
+
+Characters
+
+Fixed an issue where the crawling animation for female Survivors wasn’t playing properly.
+
+Fixed an issue where The Clown outfit “Lethal Scarecrow” was missing the bottom part of the pants during kick animations.
+
+Fixed an issue where repairing a generator as Lara Croft while equipping the Teal Throwback cosmetic caused dislocated arms.
+
+Fixed an issue where The Mastermind was unable to interrupt vaulting Survivors during Virulent Bound cooldown animation.
+
+Fixed an issue where The Mastermind was unable to move after Missing 1 Virulent Bound with 2 charges left.
+
+Fixed an issue where it was possible to consume all of The Mastermind's Dash Tokens while holding the Dash Input.
+
+Fixed an issue where The Mastermind's Virulent Bound Dash had a small delay between the first and second Dash.
+
+Environment/Maps
+
+Fixed an issue where the lighting in the basement was incorrect in Trickster's Delusion, Greenville Square, Freddy Fazbear's Pizza, Fallen Refuge, and Ormond Lake Mine.
+
+Fixed an issue in Pale Rose where a trap was floating in a hole of the structure.
+
+Fixed an issue in Treatment Theater where a hook was stuck in assets.
+
+Fixed an issue in Ironworks of Misery where two totems would spawn close to each other.
+
+Fixed an issue in Rancid Abattoir where a collision is placed above the visual asset.
+
+Fixed an issue in Toba Landing where Snug could not vault off a ledge of the main building.
+
+Fixed an issue in Treatment Theater where a Pool of Devotion could not be interacted with.
+
+Fixed an issue in Pale Rose where it was impossible to place a trap in certain locations on the second floor of the Ferry Boat.
+
+Perks
+
+Fixed an issue where the Perk Quick & Quiet could be used just before the cooldown ends, which made the Vault silent to the Survivor.
+
+UI
+
+Fixed an issue where a red glow was appearing behind Prestige levels outside of the Loadout menu.
+
+Fixed an issue where some Store Bundle banners were shifted to the right.
+
+Fixed an issue where Match Details would not be displayed in the Tally Screen.
+
+Animation
+
+Fixed an issue blocking rotation of Survivors and Killers in the Lobby.
+
+KNOWN ISSUES
+
+Mirrored Illusion is unable to be placed on the short side of a 3 sided generator when used for the second time.
+
+We're Gonna Live Forever's healing buff persists into the Injured State when using med-kits.
+
+Characters would be unable to move during the Tutorial or Trials if two accounts are linked to the Xbox and, the player uses the Xbox Account that is not set to log in automatically.

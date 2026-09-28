@@ -1,0 +1,4500 @@
+# Kazan Yamaoka
+Source: https://deadbydaylight.wiki.gg/wiki/Kazan_Yamaoka (page complète via API, consultée le 27/09/2026)
+
+The Oni
+
+Name
+
+Kazan Yamaoka
+
+Gender
+
+Man
+
+Origin
+
+Japanese
+
+Realm
+
+Yamaoka Estate
+
+Power
+
+Yamaoka's Wrath
+
+Power 
+Attack
+ Type
+
+Special Attack
+
+(Demon Slash/Strike)
+
+Weapon
+
+Yamaoka Blade
+
+Movement Speed
+
+115 % 
+|
+ 4.6 m/s
+
+Alternate Movement speed
+
+86.25 % 
+|
+ 3.45 m/s
+(Absorption)
+195.5 % 
+|
+ 7.82 m/s
+(Demon Dash)
+
+Terror Radius
+
+32 metres
+
+Height 
+
+Tall
+
+DLC
+
+Cursed Legacy
+
+Voice Actor
+
+Jean-Baptiste Garnier (BHVR)
+
+Cost
+
+4,500 
+Iridescent Shards
+
+250 
+Auric Cells
+
+Breathing
+
+Menu Music
+
+Terror Radius Music
+
+Metadata
+
+CharID
+
+K18
+
+Kazan Yamaoka
+  (Japanese: 山岡 崋山) or 
+"The Oni"
+ is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+He was introduced as the Killer of 
+Cursed Legacy
+, a Chapter DLC released on 3 December 2019 and retired on 8 January 2024.
+
+He is still available in the 
+In-Game Store
+ and as part of the 
+Old Wounds Pack
+ Chapter Pack DLC.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+2.1
+ 
+The Archives
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: Yamaoka Blade
+
+3.3
+ 
+Power: Yamaoka's Wrath
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for Yamaoka's Wrath
+
+3.5
+ 
+Innate Skill
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Base Cosmetics
+
+5.1.1
+ 
+Default
+
+5.1.2
+ 
+Prestige
+
+5.1.2.1
+ 
+Perk Charms
+
+5.1.2.2
+ 
+Prestige Badges
+
+5.2
+ 
+Alternatives
+
+5.2.1
+ 
+Special
+
+5.2.2
+ 
+Event
+
+5.3
+ 
+Rift
+
+5.4
+ 
+In-Game Store
+
+5.5
+ 
+Alternate Character Models
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+General
+
+8.2
+ 
+Lore
+
+8.3
+ 
+Name
+
+8.4
+ 
+Voice Actor
+
+9
+ 
+Gallery
+
+9.1
+ 
+In-game Assets
+
+9.2
+ 
+Old Assets
+
+9.3
+ 
+Outfits
+
+9.4
+ 
+Concept Art
+
+Overview
+
+Redefine wrath with The Oni, a truly formidable force. Injured Survivors leave a trail of Blood Orbs, fuelling The Oni’s rage and sending him into a state of fury. Upon unleashing a bloodcurdling roar, The Oni gains the ability to charge with vengeful purpose, instantly cutting down anyone in his way.
+
+The Oni
+ is a monstrous Killer, able to absorb the blood energy of his injured foes, and then use that energy to transform into a brutal demon. Using his power, 
+Yamaoka's Wrath
+, he can rush down Survivors at great speed and deal deadly strikes with his kanabō.
+
+His personal Perks, 
+Zanshin Tactics
+, 
+Blood Echo
+, and 
+Nemesis
+, provide navigational information, punish injured Survivors, and gain advantages over those that interfere.
+
+Lore
+
+Honouring his family name was never enough for Kazan Yamaoka. He wanted to surpass his father's reputation and end what he saw as the thinning of samurai culture with farmers often posing as samurai.  His father tried to turn Kazan's attention to more noble pursuits, but Kazan refused to heed his advice, and borrowing his father's Katana, he embarked on a dark pilgrimage to prove his worth and rid Japan of impostors. Ignoring the code that had been taught to him, Kazan killed impostors in the hills and the valleys, on the beaches and in the woodland. The killings were brutal, cruel and morbid. He humiliated farmers and warriors alike, yanking off their topknots and stripping them of their armour. His rage, bloodlust and perverse sense of honour knew no bounds. Monks believed he was possessed by something dark and otherworldly and cursed him while a noble lord began to call him 'Oni-Yamaoka,' the rageful Samurai, an insult both to Kazan and his family.
+
+Determined to redeem his family's name, Kazan now butchered anyone who dared call him Oni-Yamaoka. The insult confused him. He had defeated the best and he had purified the samurai class by ridding the land of impostors. How could anyone refer to him as an ogre? Had it been because he had marched onto a battlefield to cut down the fiercest warriors. Had it been because he had taken a Kanabo and dashed hundreds of skulls with it?  Or had it been because of his need to secure a 'trophy' from his victims. It didn't matter. Being called an ogre was more than he could bear and an ominous voice in his head urged him to strike down the lord who had desecrated his name.
+
+As Kazan made for the lord's town, he suddenly found himself face to face with a samurai standing on a dirt road, blocking his way. Kazan readied his Kanabo. Without a word, the samurai attacked and quickly secured the upper hand. But he hesitated. With a devastating blow, Kazan crushed the samurai's head and cracked his helmet. As Kazan approached the fallen samurai, he saw his father's face and staggered back to his haunches. His father stared at Kazan with mingled shame and regret as he issued his last breath. Kazan closed his eyes and screamed in agony until he could scream no more. When he opened his eyes again... his father was gone. Not only had he killed his father, but he had allowed thieves to steal his body for armour.
+
+Bitter, lost and disillusioned, Kazan roamed the land aimlessly with his father's voice rattling in his head, taunting him, reminding him of his failures, sending him into fits of uncontrollable black rage. One day, walking in the woods, Kazan happened upon an Oni statue. He stopped and stood motionless for a long moment. The weathered and overgrown statue seemed to be ridiculing him, accusing him of being the impostor samurai he had so desperately sought to destroy. Kazan shook the laughing voice out of his head and half remembered the lord who had ridiculed him as 'Oni-Yamaoka.'
+
+With renewed anger, Kazan journeyed to a town high up in the snowy mountains where the lord resided. A dozen samurai met Kazan at the gates of the town. A dozen samurai fell to his Kanabo. His speed and strength were unmatched. His rage was incomprehensible. Covered in blood and gore, Kazan battled through the town and soon found the lord hiding in a villa. He dragged him out of a cabinet, sliced his tendons to immobilise him and watched him beg and squirm like a dog. Without hesitation, he thrust his fist into the lord’s mouth and yanked out the wicked tongue that had desecrated his name.
+
+Satisfied, Kazan exited the villa to find himself surrounded by dozens of farmers wielding rusted scythes, sharp pitchforks, and heavy clubs. He survived the first few assaults, but there were too many attackers coming from every direction. Within moments Kazan was on the ground staring at a cold, indifferent, darkening sky as farmers took turns stabbing and torturing the 'Oni' who had butchered their beloved lord. The frenzied mob dragged Kazan into a small stone mill to continue the torture and finally left him to die a slow, agonising death. When they returned, the mill was filled with a strange black fog and Kazan’s body and the Kanabo were nowhere to be found. It was the beginning of a dark legend about a rageful Oni haunting the town.
+
+The Archives
+
+The table below lists additional Lore about 
+The Oni
+ from 
+The Archives
+, either from 
+Tomes
+ that featured him or from individual Lore entries that mentioned him:
+
+Tome
+
+Entry
+
+Type
+
+Tome 6 - Divergence
+
+Survivor Statement. Sean Dint.
+
+Mentioned
+
+Tome 10 - SAW
+
+Chamber of Blood. The Redcrane. Veil of Blood. 1.
+
+Mentioned
+
+Tome 17 - Commitment
+
+Memory Fragments
+
+Featured Character
+
+Tome 20 - Mythic
+
+Memory 4306
+
+Mentioned
+
+Load-out
+
+Unique Perks
+
+The Oni
+ comes with 
+3
+ 
+Perks
+ that are unique to him:
+
+ 
+
+Blood Echo
+
+"The agony of one is inflicted onto others."
+
+Whenever you hook a Survivor, 
+Blood Echo
+ triggers its effect:
+
+Causes all Survivors in the 
+Injured State
+ to suffer from the 
+Exhausted
+ and 
+Haemorrhage
+ 
+Status Effects
+ for 
+20
+/
+25
+/
+30
+ 
+seconds
+.
+
+"Attack an enemy with precision and their allies will feel it." — Renjiro's Doctrine 6:3
+
+ 
+
+Nemesis
+
+"You seek retribution on those who have wronged you."
+
+Whenever a Survivor other than your 
+Obsession
+ blinds you by any means or stuns you with a 
+Pallet
+ or a 
+Locker
+, 
+Nemesis
+ triggers its primary effect:
+
+Causes that Survivor to become your current 
+Obsession
+.
+
+Whenever your 
+Obsession
+ switches to a different Survivor by any means, 
+Nemesis
+ triggers its secondary effects:
+
+Causes that Survivor to suffer from the 
+Oblivious
+ 
+Status Effect
+ for 
+40
+/
+50
+/
+60
+ 
+seconds
+.
+
+Their 
+Aura
+ is revealed to you for 
+8 seconds
+.
+
+You can only be 
+obsessed
+ with one Survivor at a time.
+
+"Only a fool would spit in a demon's face and declare victory." — Renjiro's Doctrine 4:9
+
+ 
+
+Zanshin Tactics
+
+"You are mentally alert and aware of key points on the battlefield and nearby enemies in retreat."
+
+Unlocks potential in your Aura-reading ability:
+
+The 
+Auras
+ of 
+Pallets
+ and 
+Windows
+ are revealed to you within 
+32 metres
+.
+
+Whenever a Survivor drops a 
+Pallet
+, 
+Zanshin Tactics
+ triggers the following effect:
+
+Their Aura is revealed to you for 
+3
+/
+4
+/
+5
+ 
+seconds
+.
+
+"Within your enemy's strength is weakness." — Renjiro's Doctrine 12:5
+
+Prestige
+
+Prestiging 
+The Oni
+ will automatically add 
+Tier I
+ of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Oni
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: Yamaoka Blade
+
+The 
+Yamaoka Blade
+ is the Primary Weapon of 
+The Oni
+.
+A long blade that was passed down from one generation to the next. 
+
+Power: Yamaoka's Wrath
+
+"The desire to destroy weaker bloodlines shaped into a literal force."
+SPECIAL ABILITY: YAMAOKA'S WRATH
+Yamaoka's Wrath
+ passively fills the Power Gauge by 
++0.2 c/s
+, up to a maximum of 
+98 Charges
+.
+
+Successful 
+Basic Attacks
+ on healthy Survivors fill the Power Gauge by 
++40 Charges
+.
+SPECIAL STATE: ABSORPTION MODE
+Press and hold the 
+Power button
+ to absorb nearby 
+Blood Orbs
+ left in the environment by injured Survivors, further filling the Power Gauge:
+
+Fills
+ the Power Gauge by 
++2.5 Charges per Orb
+.
+
+The 
+Auras
+ of 
+Blood Orbs
+ are revealed to 
+The Oni
+ within 
+8 metres
+.
+
+Reduces
+ his Movement speed to 
+3.45 m/s
+.
+
+SPECIAL STATE: BLOOD FURY
+Once the Power Gauge is full at 
+100 Charges
+, press the 
+Secondary Power button
+ to transition into 
+Blood Fury
+:
+
+Grants the ability to perform 
+Demon Dash
+ and 
+Demon Strike
+.
+
+SPECIAL LOCOMOTION: DEMON DASH
+Press and hold the 
+Power button
+ during 
+Blood Fury
+ to perform a 
+Demon Dash
+:
+
+Increases
+ his Movement speed to 
+7.82 m/s
+.
+
+Reduces
+ his manoeuvrability.
+
+SPECIAL ATTACK: DEMON STRIKE
+Press and hold the 
+Attack button
+ during 
+Blood Fury
+ to perform a 
+Demon Strike
+ with extended reach:
+
+Striking Survivors with the 
+Kanabo
+ inflicts double damage.
+
+The Oni
+ will strike his 
+Kanabo
+ a total of 
+3 times
+.
+
+The Oni
+ can hit and damage multiple Survivors with his 
+Kanabo
+.
+
+Hitting Survivors with the 
+Kanabo
+ instead by just pressing the 
+Attack button
+ only inflicts single damage.
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Absorption: 
+3.45 m/s
+
+Demon Strike: 
+4.6 m/s
+
+Demon Dash: 
+7.82 m/s
+
+Absorption Mode:
+
+This is whenever 
+The Oni
+ is 
+not
+ in 
+Blood Fury
+.
+
+Absorption range: 
+0.5 metres
+
+When within this range, 
+Blood Orbs
+ are absorbed by 
+The Oni
+, filling his Power gauge.
+
+Attraction range: 
+6 metres
+
+When within this range, 
+Blood Orbs
+ start moving towards 
+The Oni
+, if they are within a 
+45 °
+ cone in his 
+Field of View
+.
+
+Attraction speed: 
+10 m/s
+
+Forced Drop range: 
+8 metres
+
+When within this range, Survivors are forced to drop 
+Blood Orbs
+, if they are within a 
+45 °
+ cone in 
+The Oni's
+ 
+Field of View
+.
+
+Movement speed: 
+3.45 m/s
+ or 
+86.25 %
+
+Blood Orbs:
+
+Visibility range: 
+35 metres
+
+Blood Orbs
+ are invisible to Survivors with the exception of a short glimpse upon spawning or if 
+The Oni
+ uses 
+Renjiro's Bloody Glove
+.
+
+Blood Orbs
+ are invisible to 
+The Oni
+ during 
+Blood Fury
+ and cannot be absorbed.
+
+Aura range: 
+8 metres
+
+If obscured by an obstacle, 
+Blood Orbs
+ within this range will reveal their Aura to 
+The Oni
+.
+
+Drop rates (only applies to injured Survivors):
+
+Crouching: 
+1 Blood Orb
+ (with a buffer of 
+1 second
+ to prevent spamming)
+
+Interactions: 
+2 Blood Orbs
+ (e.g. dropping Pallets, entering Lockers, vaulting Windows, etc.)
+
+Failed Skill Check: 
+2 Blood Orbs
+
+Being Hooked: 
+5 Blood Orbs
+
+Passively (over time): 
+2 Blood Orbs
+ every 
+4 seconds
+.
+
+Unhooked Survivors have a grace period of 
+15 seconds
+ before they start dropping 
+Blood Orbs
+ (until the 
+Safe Unhook
+ 
+Score Event
+ triggers).
+
+Lifetime: 
+Unlimited
+ (do not despawn)
+
+Reservoir: 
+100 Blood Orbs
+
+This refers the maximum number of 
+Blood Orbs
+ that can exist simultaneously in the Trial Grounds.
+After reaching this number, Survivors will not spawn any additional 
+Blood Orbs
+ before some are absorbed.
+
+Blood Fury:
+
+Activation time: 
+3 seconds
+
+Activation Yaw scale (horizontal): 
+80 % (44 % with Gamepad)
+
+Depletion rate: 
+-2.2 Charges per second
+
+This causes 
+Blood Fury
+ to last a maximum of 
+45.45 seconds
+.
+
+Time penalty when downing a Survivor: 
+-7 seconds
+
+Picking up a downed Survivor will cancel 
+Blood Fury
+, but conserve any remaining Charges.
+
+Cool-down time: 
+3 seconds
+.
+
+Blood Fury
+ will end if 
+The Oni
+ is stunned with a Pallet if the Power gauge is either 
+above 99 Charges
+ or 
+below 5 Charges
+.
+
+This allows the Game to play the Blood-Fury-to-Idle animation.
+
+Demon Dash:
+
+Charge time: 
+2 seconds
+
+Cool-down time: 
+1 second
+
+Movement speed: 
+7.82 m/s
+ or 
+195.5 %
+
+Demon Dash
+ Yaw scale (horizontal): 
+44 %
+
+Demon Strike:
+
+Charge time: 
+2 seconds
+
+Charge threshold: 
+0.35 seconds
+
+Holding the 
+Attack button
+ for longer than this will initiate a 
+Demon Strike
+ instead of 
+Quick Attack
+ and vice versa.
+
+It should be noted that a 
+Quick Attack
+ while in 
+Blood Fury
+ is considered a 
+Special Attack
+ and will 
+not
+ apply effects such as the double-damage of the 
+Exposed
+ Status Effect
+, for example.
+
+Attack open time: 
+0.5 seconds
+
+Attack hitting time: 
+0.3 seconds
+
+Attack cool-downs:
+
+Successful hit: 
+3 seconds
+
+Missed/Obstacle hit: 
+2 seconds
+
+Attack Yaw scale (horizontal): 
+27.5 %
+
+Cool-down Yaw scale (horizontal): 
+12 % (6.6 % with Gamepad)
+
+Cool-down Pitch scale (vertical): 
+25 % (13.75 % with Gamepad)
+
+Maximum Attack Yaw speed (horizontal): 
+uncapped
+
+This refers to the maximum speed at which 
+The Oni
+ can turn during a 
+Demon Strike
+.
+
+Maximum Attack Turn angle: 
+540 °
+
+This is the maximum angle 
+The Oni
+ can turn to the left or right during a 
+Demon Strike
+.
+
+Power Gauge:
+
+Capacity: 
+100 Charges
+
+Passive gain: 
++0.2 Charges per second
+.
+
+This gain is capped at 
+98 Charges
+, requiring the absorption of at least 
+one Blood Orb
+ to fill the Power gauge.
+
+Active gain:
+
+Absorbing 
+Blood Orbs
+: 
++2.5 Charges
+
+Successful 
+Basic Attack
+: 
++40 Charges
+
+This only applies to healthy Survivors being put into the 
+Injured State
+.
+Downing Survivors does 
+not
+ grant this bonus.
+
+Add-ons for Yamaoka's Wrath
+
+Icon
+
+Name
+
+Description
+
+Blackened Toenail
+
+Fell off during one of Kazan's hundred winter treks to the temple.
+Despite his pilgrimage, Akito's leg would never heal.
+
+Increases
+ your Movement speed while in 
+Absorption Mode
+ by 
+0.4 m/s
+.
+
+"If a father sacrifices not for his children, then who does he father?" — Renjiro's Doctrine 11:12
+
+Cracked Sakazuki
+
+A cup from Kazan's wedding ceremony.
+It never made it through the night before being damaged.
+
+Reduces
+ the Transition time into 
+Blood Fury
+ by 
+-0.5 seconds
+.
+
+Reduces
+ the Transition time out of 
+Blood Fury
+ by 
+-0.5 seconds
+.
+
+Paper Lantern
+
+Perhaps a memento of simpler times, before rage fully enveloped him.
+
+Increases
+ the Floating speed of 
+Blood Orbs
+ towards you when in 
+Absorption Mode
+ by 
++4 m/s
+.
+
+Rotting Rope
+
+Had the rope been stronger it would have likely held Kazan.
+As it was, he escaped and butchered his captors.
+
+Increases
+ the Aura-reading range on 
+Blood Orbs
+ in the environment by 
++2 metres
+.
+
+"Though Death is focused, he has been known to blink." — Renjiro's Doctrine 14:5
+
+Bloody Sash
+
+Blood from a boy who called Kazan 
+"The Noble Impostor"
+.
+Kazan hid evidence of the fight from his father, often revelling at the sash in secret.
+
+Increases
+ your Movement speed while in 
+Absorption Mode
+ by 
+0.7 m/s
+.
+
+Child's Wooden Sword
+
+Akito's practice sword.
+The child had little use for it after his injury.
+
+Increases
+ the Aura-reading range on 
+Blood Orbs
+ in the environment by 
++3 metres
+.
+
+Chipped Saihai
+
+A baton that belonged to Renjiro.
+It was stolen by Kazan upon his departure.
+
+Increases
+ the duration of 
+Blood Fury
+ by 
++6 seconds
+.
+
+Ink Lion
+
+An ink painting that once hung in the Yamaoka Estate.
+Depicts the story of a lion eaten by mice.
+
+Reduces
+ the Transition time into 
+Blood Fury
+ by 
+-0.5 seconds
+.
+
+Reduces
+ the Transition time out of 
+Blood Fury
+ by 
+-0.5 seconds
+.
+
+Reduces
+ the Power Gauge penalty for downing Survivors during 
+Blood Fury
+ by 
+-2 seconds
+.
+
+Polished Maedate
+
+A horned crest Kazan tore from his helmet after being compared to a demon.
+
+Increases
+ the passive Charge rate of 
+Blood Fury
+ by 
++0.1 c/s
+.
+
+Kanai-Anzen Talisman
+
+A trinket given to Kazan at birth, its powers are meant to protect his family from harm.
+
+Increases
+ your Movement speed during a 
+Demon Dash
+ by 
++0.64 m/s
+.
+
+Scalped Topknot
+
+The topknot of a samurai who questioned Kazan's honour.
+The roots cling to a thin strip of bloody skin.
+
+Reduces
+ the Charge time of 
+Demon Dash
+ by 
+-0.5 seconds
+.
+
+Shattered Wakizashi
+
+The fragments of an ancestral blade, destroyed by Kazan in a fit of rage.
+
+Increases
+ the passive Charge rate of 
+Blood Fury
+ by 
++0.2 c/s
+.
+
+Wooden Oni Mask
+
+A mask that a young Kazan bought to celebrate Setsubun, its repulsively fanged mouth began haunting his nightmares.
+
+Increases
+ the Spawn frequency of 
+Blood Orbs
+ from injured Survivors by 
++14 %
+.
+
+Increases
+ the number of 
+Blood Orbs
+ spawned when Survivors perform specific interactions by 
++1
+.
+
+"It is no coincidence that man is so familiar with demons." — Renjiro's Doctrine 3:8
+
+Yamaoka Sashimono
+
+The banner of the Yamaoka family, Kazan felt an overwhelming pride from it.
+
+Increases
+ the duration of 
+Blood Fury
+ by 
++8 seconds
+.
+
+Akito's Crutch
+
+The crutch used by Kazan's son after falling from a tree.
+Akito's playmate and her family were punished for the boy's injury.
+
+Increases
+ your Movement speed during a 
+Demon Dash
+ by 
++1 m/s
+.
+
+Lion Fang
+
+A tooth sold from an exotic vendor, it symbolises power and nobility.
+
+Increases
+ the duration of 
+Blood Fury
+ by 
++10 seconds
+.
+
+Splintered Hull
+
+Fragments of a ship that carried Renjiro Yamaoka.
+Against all odds, the legendary samurai seemed to survive.
+
+Increases
+ the Spawn frequency of 
+Blood Orbs
+ from injured Survivors by 
++33 %
+.
+
+Increases
+ the number of 
+Blood Orbs
+ spawned when Survivors perform specific interactions by 
++1
+.
+
+"To plan subterfuge, begin with a counsel of none." — Renjiro's Doctrine 7:9
+
+Tear-Soaked Tenugui
+
+The cloth that Kazan's mother cried into when he left on his pilgrimage to cleanse the samurai.
+
+Reduces
+ the Power Gauge penalty for downing Survivors during 
+Blood Fury
+ by 
+-4 seconds
+.
+
+Iridescent Family Crest
+
+A crest that denotes its owner as being a part of the Yamaoka family.
+
+Causes Survivors within 
+24 metres
+ of your location to scream and reveal their location to you after hitting the ground with a missed 
+Demon Strike
+.
+
+"Know who you are so you may shield your heart." — Renjiro's Doctrine 11:2
+
+Renjiro's Bloody Glove
+
+The glove Renjiro held to his sternum following the strike dealt by his son Kazan.Whenever a Survivor comes into a contact with a 
+Blood Orb
+, the following effects apply:
+
+The 
+Blood Orb
+ is absorbed by the Survivor.
+
+Their 
+Aura
+ is revealed to you for 
+2 seconds
+ per absorbed 
+Blood Orb
+.
+
+Renjiro's Bloody Glove
+ grants Survivors the ability to see 
+Blood Orbs
+ at the same distance as you.
+
+"When all else spills out, cling only to your honour." — Renjiro's Doctrine 14:12
+
+Innate Skill
+
+Used exclusively in 
+2v8
+ Trials, the 
+Innate Skill
+ modifies 
+Yamaoka's Wrath
+ with the following effects:
+
+Innate Skill
+ (
+Oni Passive
+) 
+
+Modifies 
+Yamaoka's Wrath
+ with the following effects:
+
+Increases
+ its Charge rate by 
++15 %
+.
+
+Increases
+ the Absorption range of 
+Blood Orbs
+ to 
+12 metres
+.
+
+Increases
+ the power time consumed when hitting a Survivor in Blood Fury by 
+-3 seconds
+.
+
+During a 
+Demon Dash
+:
+
+Increases
+ his Movement speed by 
++15 %
+.
+
+Increases
+ its Turning speed by 
++20 %
+.
+
+Reduces
+ its Activation time by 
+-10 %
+.
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There are 
+2
+ Achievements related to 
+The Oni
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Oni
+
+Playing as The 
+Oni
+, achieve a 
+Merciless Victory
+ using only his 
+3
+ Unique Perks: 
+Zanshin Tactics
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"You are mentally alert and aware of key points on the battlefield and nearby enemies in retreat."
+
+Unlocks potential in your Aura-reading ability:
+
+The 
+Auras
+ of 
+Pallets
+ and 
+Windows
+ are revealed to you within 
+32 metres
+.
+
+Whenever a Survivor drops a 
+Pallet
+, 
+Zanshin Tactics
+ triggers the following effect:
+
+Their Aura is revealed to you for 
+3
+/
+4
+/
+5
+ 
+seconds
+.
+
+"Within your enemy's strength is weakness." — Renjiro's Doctrine 12:5
+
+, 
+Blood Echo
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"The agony of one is inflicted onto others."
+
+Whenever you hook a Survivor, 
+Blood Echo
+ triggers its effect:
+
+Causes all Survivors in the 
+Injured State
+ to suffer from the 
+Exhausted
+ and 
+Haemorrhage
+ 
+Status Effects
+ for 
+20
+/
+25
+/
+30
+ 
+seconds
+.
+
+"Attack an enemy with precision and their allies will feel it." — Renjiro's Doctrine 6:3
+
+, and 
+Nemesis
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"You seek retribution on those who have wronged you."
+
+Whenever a Survivor other than your 
+Obsession
+ blinds you by any means or stuns you with a 
+Pallet
+ or a 
+Locker
+, 
+Nemesis
+ triggers its primary effect:
+
+Causes that Survivor to become your current 
+Obsession
+.
+
+Whenever your 
+Obsession
+ switches to a different Survivor by any means, 
+Nemesis
+ triggers its secondary effects:
+
+Causes that Survivor to suffer from the 
+Oblivious
+ 
+Status Effect
+ for 
+40
+/
+50
+/
+60
+ 
+seconds
+.
+
+Their 
+Aura
+ is revealed to you for 
+8 seconds
+.
+
+You can only be 
+obsessed
+ with one Survivor at a time.
+
+"Only a fool would spit in a demon's face and declare victory." — Renjiro's Doctrine 4:9
+
+.
+
+Bloodbath
+
+Playing as The 
+Oni
+, down Survivors during 
+Blood Fury
+ a total of 
+75 times
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Oni
+:
+
+Base Cosmetics
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Oni-Yamaoka
+
+Common
+
+The cruel, disciplined warrior who strove to bring purity to the samurai by exterminating impostor samurai within its ranks.
+
+Domestic Armor
+
+Common
+
+The fabric that protected his flesh and inflamed his ego.
+
+Yamaoka Blade
+
+Common
+
+A long blade that was passed down from one generation to the next.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Bloody Oni-Yamaoka
+
+Rare
+
+The cruel, disciplined warrior who strove to bring purity to the samurai by exterminating the imposter samurai within its ranks... and feeding them to dogs.
+
+Prestige Level 6 Reward
+
+Dripping Domestic Armor
+
+Rare
+
+The bloodstained fabric that protected his flesh and inflamed his ego.
+
+Prestige Level 5 Reward
+
+Bloodshed Blade
+
+Rare
+
+A blood-encrusted blade that shed the blood of many unfortunate souls.
+
+Prestige Level 4 Reward
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+A disciplined warrior who strove to bring purity to the samurai by exterminating imposters within its ranks.
+
+Alternatives
+
+Special
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Event
+
+Frosty Eyes
+
+Uncommon
+
+Heart chilling eyes of the cold blooded.
+
+"Have a Wonderful Winter 2019-2020!" - The Dead by Daylight Team
+
+Winter Event 2019
+
+Event
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Event
+
+Exclusive to Event Participation
+
+Crown of the Entity
+
+Event
+
+A crown emanating a festive and ominous aura created by the Entity's biggest fan.
+
+Fourth Year Anniversary
+
+Yes
+
+5th Anniversary Crown
+
+Event
+
+A crown crafted for a very special anniversary.
+
+"Thank you for supporting & inspiring us along the years!" - The Dead by Daylight Team
+
+Fifth Year Anniversary
+
+Yes
+
+Rain Slicer
+
+Event
+
+This weapon's blade can slice a drop of water in half.
+
+Moonlight Burrow
+
+Yes
+
+Oni's Mask
+
+Event
+
+A mask he found himself wearing at the masquerade ball.
+
+Twisted Masquerade 2023
+
+Yes
+
+ Rift
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Demon’s End
+
+Grim Resolutions
+
+Tome 6 - Divergence
+
+19 May 2022 (Thursday)
+
+Description
+
+It was a violent, horrible end for Kazan. Overwhelmed by dozens of peasants after killing dozens of others, he was slashed, stabbed, beaten and left to die.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Atrocious Disfigurement
+
+Grim Resolutions
+
+52
+
+Jaw broken, nose sliced off, mask smashed into his face, yet still he fought to the end.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Death Throes
+
+Grim Resolutions
+
+41
+
+A bound and tortured monstrosity, he was dealt pain inconceivable to most humans.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Last Stand
+
+Grim Resolutions
+
+63
+
+As his kanabo crumbled under the damage he wrought, he reached for his jintachi sword. It too would be ravaged by the sheer amount of bones it struck.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Vengeful Lord
+
+FEUDAL DOMAIN
+
+Tome 4 - Conviction
+
+12 June 2018 (Tuesday)
+
+Description
+
+He entered the battle dressed as a lord and humiliated imposter samurai before exiling into a forest where he would later cut them down.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Wicker Grin Mask
+
+FEUDAL DOMAIN
+
+53
+
+His dark and vindictive plan was discovered, and villagers began to call him, “Oni-Yamaoka,” the rageful samurai.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Distraught Souls
+
+FEUDAL DOMAIN
+
+63
+
+He decided he would not tolerate this dishonor and set off to kill anyone who would dare call him an Oni.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Coastal Sword
+
+FEUDAL DOMAIN
+
+37
+
+The blade used to butcher those who call him Oni-Yamaoka.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Dreadful Assailant
+
+Playtime collection
+
+Tome 17 - Commitment
+
+20 August 2024 (Tuesday)
+
+Description
+
+He discovered the clothing near a sculpted Daruma figurine that looked like him.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Deer Antlers
+
+Playtime collection
+
+24
+
+The ominous shadow cast by the moonlight inspired terrifying tales.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Nightmarish Plastron
+
+Playtime collection
+
+31
+
+The plastron had a haunting face that always stared down the opponent, regardless of their position.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Slaughter Blade
+
+Playtime collection
+
+28
+
+The toothed part of the blade did gruesome damage.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Dreadful Assailant (Deep Rift)
+
+Deep Rift
+
+Tome 17 - Commitment
+
+12 June 2018 (Tuesday)
+
+Description
+
+He discovered the clothing near a sculpted Daruma figurine that reminded him of himself.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Deer Antlers (Deep Rift)
+
+Deep Rift
+
+74
+
+The ominous silhouette against the moonlight inspired fear in the travelers.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Nightmarish Plastron (Deep Rift)
+
+Deep Rift
+
+77
+
+The plastron had a haunting face that always stared down the opponent, regardless of their pleading.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Slaughter Blade (Deep Rift)
+
+Deep Rift
+
+72
+
+The toothed part of the blade shredded the bodies.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Midsummer Bloodshed
+
+Slice Of Life
+
+Tome 20 - Mythic
+
+12 June 2018 (Tuesday)
+
+Description
+
+Kazan was sitting under the shadow of a tree. Flies flew around him, attracted by sweat and blood.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Hidden Torment
+
+Slice Of Life
+
+63
+
+His sight grew hazy as he listened to the voice humming in his mind—constant, taunting.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Lulling kimono
+
+Slice Of Life
+
+68
+
+Torn bodies dangled from branches above him. Their blood dripped over him in a steady rhythm.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Satiated Blade
+
+Slice Of Life
+
+57
+
+He stared up at the trees and reveled in his work. All was silent once again.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Wildfire
+
+Night Owl Collection
+
+Tome 15 - Ascension
+
+12 June 2018 (Tuesday)
+
+Description
+
+On a red-sky night, he emerged from the burning forest, ready to kill.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Stream of Flame
+
+Night Owl Collection
+
+11
+
+While walking out from the flames, a fire trail furiously floated above him.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Blazing Armor
+
+Night Owl Collection
+
+17
+
+His armor protected him from fire and burned everyone who dared touch it.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Scenery Slayer
+
+Night Owl Collection
+
+21
+
+A blade nourished by the emanating darkness of a bloody landscape.
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Defiant Warrior
+
+BLOOD AND TRADITION
+
+03 December 2019 (Tuesday)
+
+Description
+
+He set off to bring honor back to the samurai. He disappeared from home with his kanabo and his father's katana.
+
+135
+
+2700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Ancestral Mask (Moss)
+
+BLOOD AND TRADITION
+
+A face that terrorized the imposter farmers who dared call themselves samurai.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Ceremonial Armor (Aureate)
+
+BLOOD AND TRADITION
+
+The armor that he wore to punish those who soiled the title of samurai.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Legacy Blade (Aureate)
+
+BLOOD AND TRADITION
+
+A blade rumored to come from the city of Hakodate, obtained by first of the Yamaoka before he sailed off to Kanawaza. His ship never made it and some say neither did he.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Runaway Warrior
+
+BLOOD AND TRADITION
+
+03 December 2019 (Tuesday)
+
+Description
+
+He set off to bring honor back to the samurai. He disappeared from home with his kanabo and his father's katana.
+
+135
+
+2700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Ancestral Mask (Sand)
+
+BLOOD AND TRADITION
+
+A face that terrorized the imposter farmers who dared call themselves samurai.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Ceremonial Armor (Bronze)
+
+BLOOD AND TRADITION
+
+The armor that he wore to punish those who soiled the title of samurai.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Legacy Blade (Bronze)
+
+BLOOD AND TRADITION
+
+A blade rumored to come from the city of Hakodate, obtained by first of the Yamaoka before he sailed off to Kanawaza. His ship never made it and some say neither did he.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Rogue Warrior
+
+BLOOD AND TRADITION
+
+03 December 2019 (Tuesday)
+
+Description
+
+He set off to bring honor back to the samurai. He disappeared from home with his kanabo and his father's katana.
+
+135
+
+2700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Ancestral Mask (Teal)
+
+BLOOD AND TRADITION
+
+A face that terrorized the imposter farmers who dared call themselves samurai.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Ceremonial Armor (Silver)
+
+BLOOD AND TRADITION
+
+The armor that he wore to punish those who soiled the title of samurai.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Legacy Blade (Silver)
+
+BLOOD AND TRADITION
+
+A blade rumored to come from the city of Hakodate, obtained by first of the Yamaoka before he sailed off to Kanawaza. His ship never made it and some say neither did he.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Purist Warrior
+
+BLOOD AND TRADITION
+
+03 December 2019 (Tuesday)
+
+Description
+
+He set off to bring honor back to the samurai. He disappeared from home with his kanabo and his father's katana.
+
+135
+
+2700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Ancestral Mask (Violet)
+
+BLOOD AND TRADITION
+
+A face that terrorized the imposter farmers who dared call themselves samurai.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Ceremonial Armor (Obsidian)
+
+BLOOD AND TRADITION
+
+The armor that he wore to punish those who soiled the title of samurai.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Legacy Blade (Obsidian)
+
+BLOOD AND TRADITION
+
+A blade rumored to come from the city of Hakodate, obtained by first of the Yamaoka before he sailed off to Kanawaza. His ship never made it and some say neither did he.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Ensnared Nobleman
+
+IMPOSTER NOBLE
+
+03 December 2019 (Tuesday)
+
+Description
+
+He was captured by a small group of farmers posing as samurai to be presented to the region's lord, but he escaped and killed all his captors.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Demon Mask
+
+IMPOSTER NOBLE
+
+Some locals nicknamed him 'The Imposter Noble,' for they believed his hatred for false samurai was rooted in his father's ambiguous past—in his own illegitimate bloodline.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Savage Armor
+
+IMPOSTER NOBLE
+
+Hardened leather armor to protect him against the foes who outnumbered him five to one.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Ruthless Blade
+
+IMPOSTER NOBLE
+
+The heavy, sharp blade he used to set himself free from his captors.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Captured Nobleman
+
+IMPOSTER NOBLE
+
+03 December 2019 (Tuesday)
+
+Description
+
+He was captured by a small group of farmers posing as samurai to be presented to the region's lord, but he escaped and killed all his captors.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Ferocious Mask
+
+IMPOSTER NOBLE
+
+Some locals nicknamed him 'The Imposter Noble,' for they believed his hatred for false samurai was rooted in his father's ambiguous past—in his own illegitimate bloodline.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Brutal Armor
+
+IMPOSTER NOBLE
+
+Hardened leather armor to protect him against the foes who outnumbered him five to one.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Unleashed Blade
+
+IMPOSTER NOBLE
+
+The heavy, sharp blade he used to set himself free from his captors.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Imprisoned Nobleman
+
+IMPOSTER NOBLE
+
+03 December 2019 (Tuesday)
+
+Description
+
+He was captured by a small group of farmers posing as samurai to be presented to the region's lord, but he escaped and killed his captors.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Murderous Mask
+
+IMPOSTER NOBLE
+
+Some locals nicknamed him 'The Imposter Noble,' for they believed his hatred for false samurai was rooted in his father's ambiguous past—in his own illegitimate bloodline.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Bestial Armor
+
+IMPOSTER NOBLE
+
+Hardened leather armor to protect him against the foes who outnumbered him five to one.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Furious Blade
+
+IMPOSTER NOBLE
+
+The heavy, sharp blade he used to set himself free from his captors.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Demon’s End
+
+Grim Resolutions
+
+Tome 6 - Divergence
+
+19 May 2022 (Thursday)
+
+Description
+
+It was a violent, horrible end for Kazan. Overwhelmed by dozens of peasants after killing dozens of others, he was slashed, stabbed, beaten and left to die.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Atrocious Disfigurement
+
+Grim Resolutions
+
+52
+
+Jaw broken, nose sliced off, mask smashed into his face, yet still he fought to the end.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Death Throes
+
+Grim Resolutions
+
+41
+
+A bound and tortured monstrosity, he was dealt pain inconceivable to most humans.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Last Stand
+
+Grim Resolutions
+
+63
+
+As his kanabo crumbled under the damage he wrought, he reached for his jintachi sword. It too would be ravaged by the sheer amount of bones it struck.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Humiliated Lord
+
+FEUDAL DOMAIN
+
+03 December 2019 (Tuesday)
+
+Description
+
+He entered the battle dressed as a lord and humiliated imposter samurai before exiling into a forest where he would later cut them down.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Dark Grin Mask
+
+FEUDAL DOMAIN
+
+His dark and vindictive plan was discovered, and villagers began to call him, “Oni-Yamaoka,” the rageful samurai.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Defeated Souls
+
+FEUDAL DOMAIN
+
+He decided he would not tolerate this dishonor and set off to kill anyone who would dare call him an Oni.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Jaded Sword
+
+FEUDAL DOMAIN
+
+The blade used to butcher those who call him Oni-Yamaoka.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Degraded Lord
+
+FEUDAL DOMAIN
+
+03 December 2019 (Tuesday)
+
+Description
+
+He entered the battle dressed as a lord and humiliated imposter soldiers before exiling them into a forest where he would later cut them down.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Green Grin Mask
+
+FEUDAL DOMAIN
+
+His dark and vindictive plan was discovered, and villagers began to call him, “Oni-Yamaoka,” the rageful samurai.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Weak Souls
+
+FEUDAL DOMAIN
+
+He decided he would not tolerate this dishonor and set off to kill anyone who would dare call him an Oni.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Mossy Sword
+
+FEUDAL DOMAIN
+
+The blade used to butcher those who call him Oni-Yamaoka.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Mountain Hunt
+
+Days Gone By
+
+16 January 2024 (Tuesday)
+
+Description
+
+After a small town was ravaged by bandits, he eagerly tracked them down in the mountains.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Black-Horned Ordeal
+
+Days Gone By
+
+Those who escaped in time were forever haunted by the nightmarish image of his black-horned mask.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Sense of Triumph
+
+Days Gone By
+
+He stood tall among the fallen bandits, his tunic draped loosely over him, held together by a metal belt etched with a daunting visage.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Black Blade
+
+Days Gone By
+
+A sword with a long blade and a golden handle that requires fortitude skill to wield.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Fire Moon Warrior
+
+Fire Moon Festival
+
+16 September 2021 (Thursday)
+
+Description
+
+He cleansed his blades in a sacred pond touched by the rays of the full Fire Moon.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Crescent Helmet
+
+Fire Moon Festival
+
+Intricate metal work to craft a crescent-shaped helmet in honor of the moon.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Lunar Armor
+
+Fire Moon Festival
+
+Blessed armor protecting him from foes and spirits haunting warriors during the full blood moon.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Celestial Sword
+
+Fire Moon Festival
+
+Ornamented blade cleansed with moon water to keep it from rust.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Dreadful Assailant
+
+Playtime collection
+
+Tome 17 - Commitment
+
+20 August 2024 (Tuesday)
+
+Description
+
+He discovered the clothing near a sculpted Daruma figurine that looked like him.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Deer Antlers
+
+Playtime collection
+
+24
+
+The ominous shadow cast by the moonlight inspired terrifying tales.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Nightmarish Plastron
+
+Playtime collection
+
+31
+
+The plastron had a haunting face that always stared down the opponent, regardless of their position.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Slaughter Blade
+
+Playtime collection
+
+28
+
+The toothed part of the blade did gruesome damage.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Cursed Fate
+
+Yamaoka Curse
+
+15 May 2020 (Friday)
+
+Description
+
+As stories circulated, many peasants believed him to be a literal oni. They feared that an otherworldly creature—something beyond human—was coming for them in the night.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Horned Demon
+
+Yamaoka Curse
+
+He spilled the blood of farmers across the prefecture. No one could escape his wrath.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Feral Armor
+
+Yamaoka Curse
+
+His body morphed, turning into the creature of dark tales that spread through the land like wildfire.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Burst Blade
+
+Yamaoka Curse
+
+Carved from a large, ancestral tree, his weapon was the sturdiest ever forged.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Blind Revenge
+
+Artists From The Fog
+
+01 August 2023 (Tuesday)
+
+Description
+
+Designed by 
+Ikumi Nakamura
+.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Melting Candles
+
+Artists From The Fog
+
+The dripping wax sealed the blindfold to his eyes.
+
+Piece
+
+Name
+
+Collection
+
+Dark Cloud Kimono
+
+Artists From The Fog
+
+The eyes painted on his back never looked away.
+
+Piece
+
+Name
+
+Collection
+
+Crimson Katana
+
+Artists From The Fog
+
+A red sword with engraved words.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Red Mist
+
+Blood Moon
+
+18 March 2024 (Monday)
+
+Description
+
+A new, unnatural fury took hold of him. Instinct took over, and his thirst for violence grew.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Plasmatic Frenzy
+
+Blood Moon
+
+The fury did not simmer as it once had. It burned immediately and intensely, hotter than the sun.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Swollen Etchings
+
+Blood Moon
+
+The symbols on his skin resembled neither his language nor that of the traders.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Fell Edge
+
+Blood Moon
+
+Even the greatest bloodshedding couldn’t soothe the feeling that flowed through him.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Demonic Force
+
+PERFECT FORM
+
+03 December 2019 (Tuesday)
+
+Description
+
+He grew arrogant following his recent conquests and believed that his success was destined.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Sanguinary Mask
+
+PERFECT FORM
+
+Drunk one night, he challenged a legendary samurai to a duel.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Noble Armor
+
+PERFECT FORM
+
+Though he won, he nearly bled out after the fight due to a gash along his torso.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Bloodthirsty Sword
+
+PERFECT FORM
+
+The ancient blade he held as he bled out, whispering one final prayer. But his blood clotted and he survived as per divine intervention.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Night Hum
+
+Chrysalis
+
+23 April 2024 (Tuesday)
+
+Description
+
+He moved through the forest, trying to keep up as his target darted around him.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Sensory Helmet
+
+Chrysalis
+
+His eyes shot back and forth. He needed to prove his speed and precision against an elusive target.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Stained Wings
+
+Chrysalis
+
+His true powers were emerging from deep within. A transformation was underway.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Twirling Blade
+
+Chrysalis
+
+He found his target, swung his katana, and sliced through the moth mid-flight. The night was quiet, the challenge completed.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Bursting With Fury
+
+HALLOWED BLIGHT
+
+11 October 2022 (Tuesday)
+
+Description
+
+His overwhelming strength made him a priority candidate for testing. The searing pain of the experiment, more than anything, made his rage even more potent.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Shattered Spike
+
+HALLOWED BLIGHT
+
+The excruciating pain of the procedure caused him to snap one of the horns from his head in a whirlwind of fury.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Weeping Plates
+
+HALLOWED BLIGHT
+
+Pustules exuded from the gaps in his ancient armor, lighting his intimidating frame.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Polluted Blade
+
+HALLOWED BLIGHT
+
+The foul, toxic fluid mingled and roiled with the blood of his victims.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Martial Encounter
+
+Deadly Games
+
+12 September 2023 (Tuesday)
+
+Description
+
+He practiced in heavy gear to build his strength.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Skull Mask
+
+Deadly Games
+
+He wore the remains of a beast.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+High Grade Kimono
+
+Deadly Games
+
+His outfit alone intimidated his opponents.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Warrior Katana
+
+Deadly Games
+
+A traditional lethal weapon.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Ice-Cold Legacy
+
+WINTERTIME
+
+23 December 2019 (Monday)
+
+Description
+
+The day of Namahage was the perfect opportunity for him. Dressing as an Oni, he was welcomed into homes to admonish naughty children... but it wasn't the children he was after.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Snowy Journey
+
+WINTERTIME
+
+His long ashen hair caught every flake of snow, striking fear into the hearts of children, good and bad.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Wolfen Fur & Heavy Skulls
+
+WINTERTIME
+
+He had travelled far and wide to reach this isolated village, hunting prey and fighting off wolves to reach his destination.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Legendary Blade
+
+WINTERTIME
+
+When he was allowed into the home of a wealthy swordmaker who had supplied false samurai with his wares, he launched into battle. The merchant never stood a chance.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+The Minotaur
+
+Greek Legends
+
+31 July 2020 (Friday)
+
+Description
+
+As memories and myths of The Entity’s victims merged in The Fog, a wretched minotaur materialized, unbound from any prison maze.
+
+1485
+
+29700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Beastly Rage
+
+Greek Legends
+
+A battle-scarred bull head, fiery and animalistic in its rage, yet with enough of a human mind to express endless scorn.
+
+Piece
+
+Name
+
+Collection
+
+Prisoner of the Labyrinth
+
+Greek Legends
+
+The ramshackle remains of a deceased hero's armor clothe the beast's burnt, stabbed, and scarred figure.
+
+Piece
+
+Name
+
+Collection
+
+Brute's Xiphos
+
+Greek Legends
+
+A golden sword intended to slay the minotaur, it now rests in the beast's deathly grip.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Samurai Eddie
+
+Iron Maiden
+
+22 February 2024 (Thursday)
+
+Description
+
+The field was littered with thousands of fallen undead samurai and he sought the one responsible.
+
+1485
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Eyes Of Torment
+
+Iron Maiden
+
+Death itself lurked in his eyes as he stared down the samurai on her loyal horse.
+
+Piece
+
+Name
+
+Collection
+
+Armor Of Fury
+
+Iron Maiden
+
+Unfazed by the blade that pierced his body, he travelled the land looking for a worthy opponent.
+
+Piece
+
+Name
+
+Collection
+
+Ceremonial Blade
+
+Iron Maiden
+
+His hand fell to the grip, and he raised his weapon against the samurai on horseback.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Armored Titan
+
+Attack on Titan Collection
+
+19 July 2022 (Tuesday)
+
+Description
+
+A violent and deadly creature from a lost realm.
+
+1296
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Immovable Object
+
+Attack on Titan Collection
+
+He took the form of a defensively-minded behemoth capable of unspeakable violence.
+
+Piece
+
+Name
+
+Collection
+
+Adamantine Form
+
+Attack on Titan Collection
+
+Its body could form armor so powerful that not even artillery could pierce it.
+
+Piece
+
+Name
+
+Collection
+
+Hardened Edge
+
+Attack on Titan Collection
+
+Its blade was as impenetrable as its skin, and just as deadly.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Murderous Grizzly
+
+Nyaight Of The Living Cat
+
+30 September 2025 (Tuesday)
+
+Description
+
+The bear roared in bloody fury when it was swept away by a chilling black fog.
+
+1755
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Ursine Puppet
+
+Nyaight Of The Living Cat
+
+It never knew that something else was actually pulling its strings.
+
+Piece
+
+Name
+
+Collection
+
+Slashed-Up Torso
+
+Nyaight Of The Living Cat
+
+Its thick hide meant nothing and no one could stop its gruesome rampage.
+
+Piece
+
+Name
+
+Collection
+
+Fur-Handled Katana
+
+Nyaight Of The Living Cat
+
+The bear swung the razor-sharp blade at anyone and anything in its sight.
+
+Piece
+
+Name
+
+Collection
+
+Candied Centipede
+
+Tricks and Treats
+
+A katana covered in sweet and creepy goodies.
+
+Piece
+
+Name
+
+Collection
+
+Rain Slicer
+
+Moonlight Burrow
+
+This weapon's blade can slice a drop of water in half.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+High-Tech Saber
+
+Mech Collection
+
+A light blade with a steady handle.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Oni’s Mask
+
+Twisted Masquerade
+
+A mask he found himself wearing at the masquerade ball.
+
+400
+
+7200
+
+Alternate Character Models
+
+The Oni
+ has 
+4
+ alternate Character models available in the in-game Store:
+
+The 
+Minotaur
+
+The 
+Armoured Titan
+
+Samurai Eddie
+
+Murderous Grizzly
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Oni
+ is part of 
+3
+ DLCs:
+
+Chapter DLC:
+
+Cursed Legacy
+ (
+retired
+)
+
+Pack DLCs:
+
+Old Wounds Pack
+ (Chapter Pack)
+
+Terror Expansion Pack
+ (Character Pack)
+
+Change Log
+
+Patch 3.4.2
+Patch 3.5.0
+Patch 8.6.0
+Patch 8.7.0
+Patch 9.1.0
+Patch 9.2.0
+Patch 3.4.2
+
+Quality of Life
+: improved the Turn rate of 
+Demon Dash
+.
+Patch 3.5.0
+
+Buff
+: removed the Turn-Rate limit during a 
+Demon Strike
+.
+
+Nerf
+: added a limit to the 
+Demon Strike
+ attack angle of 
+90 °
+.
+Patch 8.6.0
+
+Buff
+: doubled the limit of the 
+Demon Strike
+ attack angle from 
+90 °
+ to 
+180 °
+.
+Patch 8.7.0
+
+Buff
+: removed the Turn-Rate limit during the Open phase of a 
+Demon Strike
+.
+Patch 9.1.0
+
+Nerf
+: re-added the Turn-Rate limit during the Open phase of a 
+Demon Strike
+, but increased it to 
+540 °
+.
+Patch 9.2.0
+
+Buff
+: increased the number of 
+Blood Orbs
+ spawned when hooking a Survivor from 
+2
+ to 
+5
+.
+
+Trivia
+
+General
+
+The Oni
+ was the third Killer to have a unique Terror Radius and Chase Music.
+
+The Oni
+ was the fourth Killer to be able to destroy Breakables with his Weapon, but only when he charges 
+Demon Strike
+ while 
+Blood Fury
+ is active.
+
+The Oni
+ has the most Weapon-cleansing animations of any Killer, using a total of 
+4
+ unique animations.
+
+The Oni
+ will flick the blood off his blade in a Japanese custom called 
+chiburui (血振るい)
+ after injuring a Survivor.
+
+The Oni
+ is a outfit for the hero 
+Sohei
+ in 
+For Honor
+.
+
+Lore
+
+An Oni is a demonic creature popular in Japanese folklore. The name has several meanings across Asian cultures; however, the most common ones are 
+"spirit/soul of the dead"
+, 
+"evil spectre"
+ or 
+"ancestral spirit"
+.
+
+According to some of his Add-ons, Kazan had a little son called 
+"Akito"
+, and his father was named 
+"Renjiro".
+
+This makes him possibly the first killer to have had an actual biological child prior to being taken by The Entity.
+
+Name
+
+The Oni's
+ last name, Yamaoka, roughly translates to “Mountain Hill”.
+
+The Oni
+ is Rin Yamaoka's (
+The Spirit's
+) great-great-great-great-great grandfather.
+
+The Developers went through several iterations of 
+The Oni's
+ first name before settling on Kazan: Kenji, Kazuya, Kojiro, etc.
+
+Voice Actor
+
+The Oni
+ is voiced by Jean-Baptiste Garnier, who at that time worked as the Senior Sound Designer on the Game.
+
+The Oni
+ shares his voice-actor with The 
+Executioner
+, The 
+Twins
+ (
+Victor
+), and partially with The 
+Blight
+.
+
+Gallery
+
+For more go to The 
+Oni's Gallery
+
+In-game Assets
+
+The Oni
+
+The Oni (Portrait render)
+
+The Oni (Background image)
+
+Old Assets
+
+The Oni (Old Portrait render)
+
+Outfits
+
+Bursting with Fury Outfit
+
+Concept Art
+
+Default Concept Art
+
+Default Concept Art #2
+
+Early Sketch Sheet
+
+Power Concept Art
+
+Kanabō Early Designs
+
+Default Recolors Concept Art
+
+'Degraded + Humiliated Lord' Concept Art
+
+'Demonic Force' Concept Art
+
+'Fire Moon Warrior' Concept Art
+
+'Armored Titan' Concept Art
+
+'Bursting With Fury' Concept Art
+
+'Blind Revenge' Concept Art (Designed by Ikumi Nakamura.)
+
+'Martial Encounter' Concept Art
+
+'Samurai Eddie' Concept Art
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

@@ -1,0 +1,5236 @@
+# Max Thompson Jr.
+Source: https://deadbydaylight.wiki.gg/wiki/Max_Thompson_Jr. (page complète via API, consultée le 27/09/2026)
+
+A most terrible man to behold. His physique is all twisted and disfigured as of by some awful accident. He carries a deadly and cruel chainsaw which he wields with devastating violence, seemingly imbuing him with a superhuman speed for a while. His advantage is also a weakness as the loud noise can give away his position. So I have tried to heighten my sense of sound. Honing in on any sound that is not stemming from nature. 
+
+~ 
+ 
+Benedict Baker
+'s Journal, Nov. 1896 on The Hillbilly
+
+The Hillbilly
+
+Name
+
+Max Thompson Jr.
+
+Game Alias(es)
+
+"The Crooked"
+
+Gender
+
+Man
+
+Origin
+
+American
+
+Realm
+
+Coldwind Farm
+
+Power
+
+Chainsaw
+
+Power 
+Attack
+ Type
+
+Special Attack
+
+(Chainsaw)
+
+Weapon
+
+The Hammer
+
+Movement Speed
+
+115 % 
+|
+ 4.6 m/s
+
+Alternate Movement speed
+
+253 % 
+|
+ 10.12 m/s
+(Chainsaw Sprint)
+
+Terror Radius
+
+40 metres
+
+Height 
+
+Tall
+
+Voice Actor
+
+Filip Ivanovic (BHVR)
+
+Breathing
+
+Menu Music
+
+Terror Radius Music
+
+Metadata
+
+CharID
+
+K03
+
+Max Thompson Jr.
+ or 
+"The Hillbilly"
+ is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+He was introduced as a member of the original Killer Trio that released with the Game on 14 June 2016.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+2.1
+ 
+The Archives
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: The Hammer
+
+3.3
+ 
+Power: Chainsaw
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for the Chainsaw
+
+3.5
+ 
+Innate Skill
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Base Cosmetics
+
+5.1.1
+ 
+Default
+
+5.1.2
+ 
+Prestige
+
+5.1.2.1
+ 
+Perk Charms
+
+5.1.2.2
+ 
+Prestige Badges
+
+5.2
+ 
+Alternatives
+
+5.2.1
+ 
+Special
+
+5.2.2
+ 
+Event
+
+5.2.3
+ 
+DLC
+
+5.2.4
+ 
+Exclusives
+
+5.3
+ 
+Rift
+
+5.4
+ 
+In-Game Store
+
+6
+ 
+DLC
+
+7
+ 
+History
+
+7.1
+ 
+Up to Patch 4.1.0
+
+7.2
+ 
+Up to Patch 7.5.0
+
+8
+ 
+Change Log
+
+9
+ 
+Trivia
+
+9.1
+ 
+General
+
+9.2
+ 
+Lore
+
+9.3
+ 
+Voice Actor
+
+10
+ 
+Gallery
+
+10.1
+ 
+In-game Assets
+
+10.2
+ 
+Official Art
+
+10.3
+ 
+Outfits
+
+10.4
+ 
+Old Assets
+
+10.5
+ 
+Concept Art
+
+10.6
+ 
+Screenshots
+
+11
+ 
+References
+
+Overview
+
+The sound of a revving motor, followed by a bloodthirsty scream of rage. The Hillbilly isn’t exactly subtle, but he makes up for it in brutal efficiency. Capable of traversing great distances at a rapid pace, those in his path will be rudely introduced to one-hundred gnashing chainsaw blades.
+
+The Hillbilly
+ is a high-mobility Killer, able to cover large distances in a short amount of time and instantly down Survivors using his 
+Chainsaw
+.
+
+His personal Perks, 
+Enduring
+, 
+Lightborn
+, and 
+Tinkerer
+, allow him to enhance his Power and make him harder to lose during chases.
+
+He is about persistence and resilience. This will make it harder for Survivors to foil him.
+
+Lore
+
+The son of wealthy landowners 
+Max Thompson Sr.
+ and 
+Evelyn Thompson
+, this unnamed boy was an unwanted child born to savage parents. Hideously disfigured, he was shut away from society. So ashamed of their son, they bricked him off into a room and fed him through a hole in the wall. When the boy escaped, he took his revenge savagely and terribly, slaughtering the parents that had tortured him instead of raising him.
+
+After the deed was done, he continued to live his life at the farm, taking out his deranged violence on the animals that were allowed to run free. As he finally broke free from his shackles he ran through the cornfields, chasing and slaughtering whatever he could find. They never found the bodies of Max and Evelyn, but they did find tortured and disembowelled animals all over the farm.
+
+Coldwind Farm was quickly settled and the land split up and sold off. There was never a buyer for the farmhouse. Perhaps it was the sound of the chainsaw you could hear throughout those hot summer nights.
+
+The Archives
+
+The table below lists additional Lore about 
+The Hillbilly
+ from 
+The Archives
+, either from 
+Tomes
+ that featured him or from individual Lore entries that mentioned him:
+
+Tome
+
+Entry
+
+Type
+
+Tome 2 - Reckoning
+
+Arcus 9082
+
+Mentioned
+
+Tome 5 - Unleashed
+
+A Man Named Boy
+
+Featured Character
+
+Load-out
+
+Unique Perks
+
+The Hillbilly
+ comes with 
+3
+ 
+Perks
+ that are unique to him:
+
+ 
+
+Enduring
+
+"You are resilient to pain."
+
+You benefit from the following effect:
+
+Reduces
+ the duration of 
+Pallet Stuns
+ by 
+40
+/
+45
+/
+50
+ 
+%
+.
+
+This effect does not apply when stunned while carrying a Survivor.
+
+"He stops at nothing."
+
+ 
+
+Lightborn
+
+Unlike other beasts of The Fog, you have adapted to light.
+
+The 
+Auras
+ of Survivors attempting to blind you by any means are revealed to you for 
+6
+/
+8
+/
+10
+ 
+seconds
+.
+
+Grants immunity from being blinded from 
+Flashlights
+, 
+Firecrackers
+, 
+Flash Grenades
+, and 
+Blast Mine
+.
+
+"These monsters... they adapt! They emerge with strange new abilities." — Vigo, Vigo's Journal
+
+ 
+
+Tinkerer
+
+Whenever a 
+Generator
+ is repaired to 
+70 %
+, you benefit from the following effects:
+
+Triggers a 
+Loud Noise Notification
+ for that Generator, revealing its location.
+
+Grants the 
+Undetectable
+ 
+Status Effect
+ for the next 
+12
+/
+14
+/
+16
+ 
+seconds
+.
+
+Tinkerer
+ can only trigger once per Generator per Trial.
+
+"The Hillbilly makes impressive tools out of scraps. Tools aimed at maiming us in creative ways." — Notebook
+
+Prestige
+
+Prestiging 
+The Hillbilly
+ will automatically add 
+Tier I
+ of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Hillbilly
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: The Hammer
+
+The Hammer
+ is the Primary Weapon of 
+The Hillbilly
+.
+The cattle hammer deals a sharp blow to the skull as the most effective manner of slaughter.
+
+Power: Chainsaw
+
+"A hulking and deadly Chainsaw of terrifying strength.
+Grinds through flesh, bone, and soul.
+Once revved up, it sends its user into a violent frenzy."
+SPECIAL WEAPON: CHAINSAW
+Press and hold the 
+Power button
+ to charge the 
+Chainsaw
+ and break into a 
+Chainsaw Sprint
+:
+
+Hitting Survivors with the 
+Chainsaw
+ inflicts double damage.
+
+SPECIAL LOCOMOTION: CHAINSAW SPRINT
+During a 
+Chainsaw Sprint
+, 
+The Hillbilly
+ benefits from the following effects:
+
+Increases
+ his Movement speed to 
+10.12 m/s
+.
+
+Reduces
+ his manoeuvrability.
+
+SPECIAL STATE: OVERDRIVE
+Revving the 
+Chainsaw
+ and sprinting with it automatically charges the 
+Overdrive Meter
+.
+It decharges whenever the 
+Chainsaw
+ is not in use for a prolonged time.
+
+Once the meter is full, the 
+Chainsaw
+ is enhanced and benefits from the following effects for 
+20 seconds
+:
+
+Increases
+ the Movement speed of the 
+Chainsaw Sprint
+ to 
+12 m/s
+.
+
+Increases
+ the Charge speed of the 
+Chainsaw
+ by 
++5 %
+.
+
+Reduces
+ the Cool-down time of the 
+Chainsaw
+ by 
+-10 %
+.
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Walking during the 
+Chainsaw's
+ Cool-down: 
+1.84 m/s
+
+Charging the 
+Chainsaw
+: 
+3.68 m/s
+
+Walking: 
+4.6 m/s
+
+Chainsaw Sprint
+: 
+10.12 m/s
+
+Turn rate:
+
+Initial Turn rate: 
+412 °/s
+
+This phase lasts for 
+1 second
+
+Eventual Turn rate: 
+32 °/s
+
+Chainsaw:
+
+Charge time: 
+2.5 seconds
+
+Long 
+Chainsaw Sprint
+ duration: 
+2 seconds
+
+Attack Zone Scale factor: 
+x0.9
+
+Obstruction Zone Scale factor: 
+x0.5
+
+Chainsaw Noise Range: 
+60 metres
+
+Overdrive:
+
+Duration: 
+20 seconds
+
+Activation threshold: 
+20 Charges
+
+Accumulation rate when revving the 
+Chainsaw
+: 
++1.5 c/s
+
+Accumulation rate during the 
+Chainsaw Sprint
+: 
++1.5 c/s
+
+Dissipation rate when not using the 
+Chainsaw
+: 
+-1 c/s
+
+Decay delay: 
+8 seconds
+
+This refers to how long it takes after stopping to use the 
+Chainsaw
+ before the 
+Overdrive Meter
+ starts discharging.
+
+Rev Buffer time: 
+0.5 seconds
+
+This buffer prevents 
+The Hillbilly
+ from slowly accumulating 
+Overdrive
+ by repeatedly tapping the 
+Power button
+ without properly revving the 
+Chainsaw
+.
+
+Overdrive Bonuses:
+
+Chainsaw Sprint
+ speed: 
+12 m/s
+
+Transition time: 
+1 second
+
+This refers to how long it takes the 
+Chainsaw
+ to change between its regular speed and the 
+Overdrive
+ speed, and vice versa.
+
+General Cool-down Time reduction: 
+-10 %
+
+Charge Speed bonus: 
++5 %
+
+Chainsaw Cool-downs:
+
+Hitting Survivors: 
+2.7 seconds
+
+Hitting obstacles: 
+2.5 seconds
+
+Hitting nothing (miss): 
+2.7 seconds
+
+Breaking 
+Breakable Walls/Pallets
+: 
+1 second
+
+Add-ons for the Chainsaw
+
+Icon
+
+Name
+
+Description
+
+Counterweight
+
+Adds weight to the base, for stability.
+
+Reduces
+ the initial Turn rate of the 
+Chainsaw
+ during a 
+Chainsaw Sprint
+ by 
+-70 %
+.
+
+Cracked Primer Bulb
+
+A button that clears air from the fuel lines.
+This machine needs to be fed.
+
+Increases
+ the Charge rate of the 
+Overdrive Meter
+ by 
++15 %
+.
+
+Survivors hit with the 
+Chainsaw
+ are only damaged for a single 
+Health State
+.
+
+Discarded Air Filter
+
+A cracked and dusty filter.
+It still manages to work better than the stock model.
+
+Increases
+ the Decay delay for the 
+Overdrive Meter
+ by 
++20 %
+.
+
+Steel Toe Boots
+
+Boots with a reinforced toe that offer protection from impact.
+
+Reduces
+ the Cool-down time after hitting an obstacle during a 
+Chainsaw Sprint
+ by 
+-10 %
+.
+
+Clogged Intake
+
+Modifying the airflow is key to modifying the 
+Chainsaw's
+ power.
+
+Extends
+ the duration of 
+Overdrive
+ by 
++15 %
+.
+
+Greased Throttle
+
+A lubricated trigger.
+One twitch of the finger brings the 
+Chainsaw
+ back to life.
+
+Reduces
+ the Cool-down time after using the 
+Chainsaw
+ by 
+-5 %
+, when not in 
+Overdrive
+.
+
+High-Speed Idler Screw
+
+A loosened screw will bring more power to the 
+Chainsaw
+
+Increases
+ the Decay delay for the 
+Overdrive Meter
+ by 
++30 %
+.
+
+Off-Brand Motor Oil
+
+Affordable oil that can be used to lubricate noisy chains.
+
+Increases
+ the Charge rate of the 
+Overdrive Meter
+ by 
++15 %
+.
+
+Thermal Casing
+
+A thicker case that allows the user to control the conservation of energy.
+
+Reduces
+ the Dissipation speed of the 
+Overdrive Meter
+ when not using the 
+Chainsaw
+ by 
+-20 %
+.
+
+Begrimed Chains
+
+A foul yet oddly familiar chain, coated with something unpleasant.
+
+Survivors hit with the 
+Chainsaw
+ suffer from the 
+Haemorrhage
+ and 
+Mangled
+ 
+Status Effects
+ for 
+70 seconds
+.
+
+Dad's Boots
+
+A pair of trusty boots, pulled from the corpse of Max Thompson Senior.
+
+Increases
+ the Turn speed during a 
+Chainsaw Sprint
+ by 
++20 %
+.
+
+Low Kickback Chains
+
+A specialised chain that reduces the likelihood of kickback.
+
+Reduces
+ the Cool-down time after hitting an obstacle during a 
+Chainsaw Sprint
+ by 
+-15 %
+.
+
+Ragged Engine
+
+Some would say it needs a tune-up.
+Max would say it is tuned-up.
+
+Reduces
+ the Dissipation speed of the 
+Overdrive Meter
+ when not using the 
+Chainsaw
+ by 
+-30 %
+.
+
+The Thompsons' Mix
+
+A special oily substance used in the lubrication of all machinery concocted by the Thompsons themselves.
+
+Reduces
+ the Cool-down time after using the 
+Chainsaw
+ by 
+-10 %
+, when not in 
+Overdrive
+.
+
+Apex Muffler
+
+A masterfully crafted chainsaw muffler that outperforms all others.
+
+Silences
+ the 
+Chainsaw
+ for all Survivors outside of the 
+Terror Radius
+.
+
+Filthy Slippers
+
+Max sometimes struggled to hear his mother's footfalls.
+
+Gain the 
+Undetectable
+ 
+Status Effect
+ until you stop sprinting after maintaining a 
+Chainsaw Sprint
+ for at least 
+2 seconds
+.
+
+LoPro Chains
+
+Light chains that decrease the weight of the Chainsaw, allowing for greater manoeuvrability.
+
+Grants the ability to continue a 
+Chainsaw Sprint
+ through 
+Breakable Walls
+ and dropped 
+Pallets
+, breaking them in the process.
+
+Healthy Survivors hit with the 
+Chainsaw
+ within 
+5 seconds
+ of triggering the primary effect are only damaged for a single 
+Health State
+.
+
+Injured Survivors will suffer from the 
+Deep Wound
+ 
+Status Effect
+ instead.
+
+Spiked Boots
+
+Boots with strapped-on pieces of metal which burrow into mud for more stability and control with each step.
+
+Increases
+ the Turn speed during the 
+Chainsaw Sprint
+ by 
++30 %
+.
+
+Iridescent Engravings
+
+Engravings found on the Chainsaw body representing the dark beast that lives in The Fog.
+Fills the user with determination.
+
+Increases
+ your Movement speed during a 
+Chainsaw Sprint
+ by 
++20 %
+.
+
+Increases
+ the Charge time of the 
+Chainsaw
+ by 
++12 %
+.
+
+Tuned Carburettor
+
+Despite being caked in dirt and oil, this carburettor has been well adjusted.
+
+Increases
+ the Charge speed of the 
+Chainsaw
+ by 
++20 %
+.
+
+Permanently reduces
+ the default Movement speed to 
+4.4 m/s
+.
+
+Innate Skill
+
+Used exclusively in 
+2v8
+ Trials, the 
+Innate Skill
+ modifies the 
+Chainsaw
+ with the following effects:
+
+Innate Skill
+ (
+Hillbilly Passive
+) 
+
+Modifies the 
+Chainsaw
+ with the following effects during a 
+Chainsaw Sprint
+:
+
+Increases
+ its Turning speed by 
++30 %
+.
+
+Increases
+ the Cool-down time after colliding with an obstacle by 
+-12 %
+.
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There are 
+2
+ Achievements related to 
+The Hillbilly
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Hillbilly
+
+Playing as The 
+Hillbilly
+, achieve a 
+Merciless Victory
+ using only his 
+3
+ Unique Perks: 
+Enduring
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"You are resilient to pain."
+
+You benefit from the following effect:
+
+Reduces
+ the duration of 
+Pallet Stuns
+ by 
+40
+/
+45
+/
+50
+ 
+%
+.
+
+This effect does not apply when stunned while carrying a Survivor.
+
+"He stops at nothing."
+
+, 
+Lightborn
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+Unlike other beasts of The Fog, you have adapted to light.
+
+The 
+Auras
+ of Survivors attempting to blind you by any means are revealed to you for 
+6
+/
+8
+/
+10
+ 
+seconds
+.
+
+Grants immunity from being blinded from 
+Flashlights
+, 
+Firecrackers
+, 
+Flash Grenades
+, and 
+Blast Mine
+.
+
+"These monsters... they adapt! They emerge with strange new abilities." — Vigo, Vigo's Journal
+
+, and 
+Tinkerer
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+Whenever a 
+Generator
+ is repaired to 
+70 
+, you benefit from the following effects:
+
+Triggers a 
+Loud Noise Notification
+ for that Generator, revealing its location.
+
+Grants the 
+Undetectable
+ 
+Status Effect
+ for the next 
+12
+/
+14
+/
+16
+ 
+seconds
+.
+
+Tinkerer
+ can only trigger once per Generator per Trial.
+
+"The Hillbilly makes impressive tools out of scraps. Tools aimed at maiming us in creative ways." — Notebook
+
+.
+
+The Grind
+
+Playing as The 
+Hillbilly
+, hit Survivors with a 
+Chainsaw Sprint
+ a total of 
+100 times
+ / 
+50 times
+ (
+For consoles
+) 
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Hillbilly
+:
+
+Base Cosmetics
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Farmhand's Undershirt
+
+Common
+
+Twisted, crooked skin covered with the rags of the unwanted.
+
+Torn Jeans
+
+Common
+
+A life imprisoned in a cage requires no fine clothing.
+
+Brutal Cattle Hammer
+
+Common
+
+The cattle hammer deals a sharp blow to the skull as the most effective manner of slaughter.
+
+Dull Hammer
+
+Common
+
+Edged striking surface delivers an awful and violent killing blow.
+
+Alternate customisation of the default Brutal Cattle Hammer
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Slaughterhouse Casual
+
+Rare
+
+His violence-filled rage covers the body with fluids of others.
+
+Prestige Level 6 Reward
+
+Bloodstained Farmwear
+
+Rare
+
+Everyday work clothes for life in the slaughterhouse.
+
+Prestige Level 5 Reward
+
+Bloody Soaked Cattle Hammer
+
+Rare
+
+The blood of countless animals runs free with the brains of victims.
+
+Prestige Level 4 Reward
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+Locked away by his abusive parents, he dreamt of making a better life for himself.
+
+Alternatives
+
+Special
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Event
+
+Marked Spike Maul
+
+Common
+
+A heavy spiking hammer with an asymmetrical elongated double faced hardened steel head. An almost imperceptible whisper echoes in the wielder's mind: "anoyk yeqkany'ye hvay'k l'gnoo eydokl'x : sekall'o ammk'ix"
+
+1 Year Anniversary
+
+All Hallows' Eyes
+
+Uncommon
+
+Something wicked pierces the shadows of this frightful night.
+
+"Have a fabulous Halloween 2016!" -The Dead by Daylight Team
+
+2016 Halloween Event
+
+Frosty Eyes
+
+Uncommon
+
+Heart chilling eyes of the cold blooded.
+
+"Have a Wonderful Winter 2017-2018!" - The Dead by Daylight Team
+
+Winter Solstice 2017
+
+Event
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Event
+
+Exclusive to Event Participation
+
+Pro-Pain
+
+Event
+
+This spiked hammer combines rusty BBQ tools from the old Coldwind farmhouse. It offers a crafty way to tenderize even the most venous meat. Waste not, want not.
+
+Scorching Summer BBQ
+
+No
+
+Brutal Rat Hammer
+
+Event
+
+A hefty cattle hammer with a festive rodent flair.
+
+Scarlet Swarm
+
+Yes
+
+Crown of the Entity
+
+Event
+
+A crown emanating a festive and ominous aura created by the Entity's biggest fan.
+
+Fourth Year Anniversary
+
+Yes
+
+5th Anniversary Crown
+
+Event
+
+A crown crafted for a very special anniversary.
+
+"Thank you for supporting & inspiring us along the years!" - The Dead by Daylight Team
+
+Fifth Year Anniversary
+
+Yes
+
+Honeycomb Hammer
+
+Event
+
+This hammer was thought to be lost to a beehive out back, but a few stings later, he had a terrifying weapon.
+
+Haunted by Daylight
+
+Yes
+
+Hillbilly’s Mask
+
+Event
+
+A mask he found himself wearing at the masquerade ball.
+
+Twisted Masquerade 2023
+
+Yes
+
+Twisted Tailor Pants
+
+Event
+
+Despite the quality of the work, the pants ripped with the first attack.
+
+Twisted Masquerade 2023
+
+Yes
+
+Golden Hammer
+
+Event
+
+A heavy hammer carved in gold.
+
+Twisted Masquerade 2023
+
+Yes
+
+Buckskin Hammer
+
+Event
+
+Buckskin was wrapped around the handle to prevent the hammer from slipping when striking.
+
+Bone Chill 2023
+
+Yes
+
+DLC
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+DLC
+
+The Scarecrow
+
+Uncommon
+
+When you have nothing else but to put the family's scarecrow's clothes on.
+
+Bloodstained Sack
+
+Rancher's Vest & Hat
+
+Uncommon
+
+From the Thompson's wardrobe, one of his father's preferred looks when going out to the city.
+
+Bloodstained Sack
+
+Exclusives
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Event
+
+Legacy Hillbilly 3
+
+Very Rare
+
+The touch of the Entity leaves burning scars and blisters of light. Is it a gift or a curse?
+
+Legacy Prestige Reward
+
+Legacy Hillbilly 2
+
+Very Rare
+
+The touch of the Entity leaves burning scars and blisters of light. Is it a gift or a curse?
+
+Legacy Prestige Reward
+
+Legacy Hillbilly 1
+
+Very Rare
+
+The touch of the Entity leaves burning scars and blisters of light. Is it a gift or a curse?
+
+Legacy Prestige Reward
+
+ Rift
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+The Milkman
+
+Wholesome Days
+
+Tome 10 - SAW
+
+28 February 2023 (Tuesday)
+
+Description
+
+The Hillbilly couldn’t help but envy the freedom of the milkman, coming and going as he pleased.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Fable Acres Delivery
+
+Wholesome Days
+
+15
+
+A beacon of American wholesomeness, right up there with apple pie.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Dairy Pants
+
+Wholesome Days
+
+27
+
+There’s something friendly and warm about this uniform. Surely, you can trust anyone wearing it...
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Spilled Milk
+
+Wholesome Days
+
+66
+
+Give them something to cry about with a hammer made of milk bottles.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Williwaw's Touch
+
+Winter Chill
+
+Tome 6 - Divergence
+
+12 June 2018 (Tuesday)
+
+Description
+
+After a blizzard, his appearance changed, but his murderous appetite stayed the same.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Glacial tissue
+
+Winter Chill
+
+47
+
+He spent the entire winter ridding Coldwind Farm of anything that moved.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Ice-capped Jeans
+
+Winter Chill
+
+34
+
+A pair of bloodstained jeans that don’t smell that bad because of the cold.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Tempest Hammer
+
+Winter Chill
+
+26
+
+The hammer is remarkably clean despite the amount of blood and brains it has spilled.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Highwayman
+
+BLOODTHIRSTY MECHANIC
+
+Tome 1 - Awakening
+
+26 February 2021 (Friday)
+
+Description
+
+There was some kid who used to wear a jacket just like this. He went for a drive one day and never made it home.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Auto Mo-Boys
+
+BLOODTHIRSTY MECHANIC
+
+46
+
+A tight-fitting jacket clearly made for someone of smaller stature. The inside tag has a name written in sloppy, black marker.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Brown Patch Slacks
+
+BLOODTHIRSTY MECHANIC
+
+69
+
+Pants reinforced with added material and complimented with an eye-catching belt buckle. They held up well during a murderous chase through thorny brush.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Hard Stock Shotgun
+
+BLOODTHIRSTY MECHANIC
+
+60
+
+Any frustration over the gun's damaged barrel can be alleviated by bludgeoning the stock into a victim's head.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Employee of the Month
+
+Slice Of Life Collection
+
+Tome 17 - Commitment
+
+12 June 2018 (Tuesday)
+
+Description
+
+He found someone's old employee uniform in the trash.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Striped Shirt
+
+Slice Of Life Collection
+
+39
+
+He tore one of the sleeves while putting on the shirt.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Classic Blue Jeans
+
+Slice Of Life Collection
+
+47
+
+He knew these jeans would be sturdy enough for physical labor of all kinds.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Spiked Club
+
+Slice Of Life Collection
+
+32
+
+The club was heavy, and its spikes were as sharp as needles.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Cabin Fever
+
+SPRING ENSEMBLES
+
+Tome 11 - Devotion
+
+12 June 2018 (Tuesday)
+
+Description
+
+The chill of last winter lingered in the air. An extra layer was necessary for the backbreaking labor of the farm.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Flannel Work Shirt
+
+SPRING ENSEMBLES
+
+47
+
+A cozy plaid shirt found amongst his father’s belongings. This top keeps one warm and obscures bloodstains quite effectively.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Duck Cloth Britches
+
+SPRING ENSEMBLES
+
+36
+
+Canvas pants favored by workers for being tough, these won’t tear even if they’re brushed by, for example, a shotgun covered in rusty nails.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Fleecy Heater
+
+SPRING ENSEMBLES
+
+63
+
+The business end of this shotgun is wrapped tight in extra flannel torn from his shirt, to keep the fingers warm while gripping cold steel.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Headlining Act
+
+Fashion Flashback
+
+Rift Pass 4 - Flashback
+
+12 June 2018 (Tuesday)
+
+Description
+
+When live performances were broadcast on TV, it was yet another world taking place before Max's eyes.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Metal Mane
+
+Fashion Flashback
+
+10
+
+The freewheeling singers with their long, flowing hair reminded him of superheroes flying across the screen.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Frontman's Costume
+
+Fashion Flashback
+
+14
+
+They were moving fast and shouting loudly. But it wasn’t scary like his father’s screams.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Shredded Guitar
+
+Fashion Flashback
+
+16
+
+He promised himself he would look like a rock star one day, and he would do anything to make it happen.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Headlining Act (Deep Rift 1)
+
+Fashion Flashback
+
+Rift Pass 4 - Flashback
+
+12 June 2018 (Tuesday)
+
+Description
+
+When live performances were broadcast on TV, it was yet another world taking place before Max's eyes.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Metal Mane (Deep Rift 1)
+
+Fashion Flashback
+
+72
+
+The freewheeling singers with their long, flowing hair reminded him of superheroes flying across the screen.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Frontman's Costume (Deep Rift 1)
+
+Fashion Flashback
+
+78
+
+They were moving fast and shouting loudly. But it wasn’t scary like his father’s screams.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Shredded Guitar (Deep Rift 1)
+
+Fashion Flashback
+
+83
+
+He promised himself he would look like a rock star one day, and he would do anything to make it happen.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Headlining Act (Deep Rift 2)
+
+Fashion Flashback
+
+Rift Pass 4 - Flashback
+
+12 June 2018 (Tuesday)
+
+Description
+
+When live performances were broadcast on TV, it was yet another world taking place before Max's eyes.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Metal Mane (Deep Rift 2)
+
+Fashion Flashback
+
+88
+
+The freewheeling singers with their long, flowing hair reminded him of superheroes flying across the screen.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Frontman's Costume (Deep Rift 2)
+
+Fashion Flashback
+
+93
+
+They were moving fast and shouting loudly. But it wasn’t scary like his father’s screams.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Shredded Guitar (Deep Rift 2)
+
+Fashion Flashback
+
+98
+
+He promised himself he would look like a rock star one day, and he would do anything to make it happen.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Sunday Slaughter
+
+Unleashed
+
+Tome 5 - Unleashed
+
+12 July 2022 (Tuesday)
+
+Description
+
+It was a day like no other on Coldwind Farm, as years of rage were finally unleashed in one horrific massacre.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Pig-Headed
+
+Unleashed
+
+1
+
+Even his parents’ prize-winning pig suffered his wrath, a stinking trophy to be adorned upon his head.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Hog Wild
+
+Unleashed
+
+31
+
+A farmboy’s attire, festooned with the stripped skin of a Coldwind Farm pig. A terrifying sight that could give pause to any sheriff’s in his way.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Butcher’s Harvest
+
+Unleashed
+
+68
+
+Sharpened knives, strapped to the metal frame of a sheriff car’s lights. An improvised weapon that demonstrates a proclivity for violence in the maker’s brain.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+3rd Degree Heat
+
+Waterfront Massacre
+
+Tome 8 - Deliverance
+
+23 August 2022 (Tuesday)
+
+Description
+
+A scorching look that leaves permanent injuries.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Smokin’ Bod
+
+Waterfront Massacre
+
+63
+
+The Hawaiian shirt frames an impressively char-grilled figure. Mmm... something smells good.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Thrashed Beach Pants
+
+Waterfront Massacre
+
+15
+
+Cool down and show off those calves with tastefully mangled 3/4 pants.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Propane Cudgel
+
+Waterfront Massacre
+
+31
+
+This spiked hammer combines rusty BBQ tools from the old Coldwind farmhouse. It offers a crafty way to tenderize even the most venous meat. Waste not, want not.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Twisted Hero
+
+Inner Struggle
+
+Tome 18 - Revision
+
+13 January 2025 (Monday)
+
+Description
+
+He received an old comic book from a kind-hearted farmhand.
+
+1296
+
+25920
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Swooping Mask
+
+Inner Struggle
+
+64
+
+The hero's eyes always looked kind beneath his mask.
+
+480
+
+8640
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Flight Suit
+
+Inner Struggle
+
+68
+
+He hoped that one day he could be just like the superhero.
+
+480
+
+8640
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Winged Hammer
+
+Inner Struggle
+
+70
+
+The hero didn’t carry a weapon, which he always found confusing.
+
+480
+
+8640
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Twisted Hero (Deep Rift)
+
+Deep Rift
+
+Tome 18 - Revision
+
+12 June 2018 (Tuesday)
+
+Description
+
+He found the comic book in the dead farmhand’s pocket while exploring a lost realm.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Swooping Mask (Deep Rift)
+
+Deep Rift
+
+82
+
+The hero’s eyes told him everything would be all right one day.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Flight Suit (Deep Rift)
+
+Deep Rift
+
+72
+
+He knew he would never be able to fly, but he wanted to try anyway.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Winged Hammer (Deep Rift)
+
+Deep Rift
+
+77
+
+The hero never carried a weapon, so he saw this as an improvement.
+
+Piece
+
+Name
+
+Tome
+
+Rift Tier
+
+Wild Cap
+
+Tome 3 - Escalation
+5
+
+A soft, fuzzy cap made of raccoon skins with a cute tail at the back. It's the inanimate pet you always dreamed of.
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Coldwind Farming
+
+HILLBILLY ABERRATIONS
+
+12 June 2018 (Tuesday)
+
+Description
+
+Taking care of the farm since the landowners died. Killing is easy, farming is hard.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Ragged Undershirt (Defiled)
+
+HILLBILLY ABERRATIONS
+
+Twisted, crooked skin covered with the badly torn remains of a victim's undershirt.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Filthy Jeans (Defiled)
+
+HILLBILLY ABERRATIONS
+
+These ruined jeans are the opposite of fine clothing.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Coldwind Farming
+
+HILLBILLY ABERRATIONS
+
+12 June 2018 (Tuesday)
+
+Description
+
+Taking care of the farm since the landowners died. Killing is easy, farming is hard.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Ragged Undershirt (Deformed)
+
+HILLBILLY ABERRATIONS
+
+Twisted, crooked skin covered with the badly torn remains of a victim's undershirt.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Filthy Jeans (Deformed)
+
+HILLBILLY ABERRATIONS
+
+These ruined jeans are the opposite of fine clothing.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Coldwind Farming
+
+HILLBILLY ABERRATIONS
+
+12 June 2018 (Tuesday)
+
+Description
+
+Taking care of the farm since the landowners died. Killing is easy, farming is hard.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Ragged Undershirt (Disfigured)
+
+HILLBILLY ABERRATIONS
+
+Twisted, crooked skin covered with the badly torn remains of a victim's undershirt.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Filthy Jeans (Disfigured)
+
+HILLBILLY ABERRATIONS
+
+These ruined jeans are the opposite of fine clothing.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Coldwind Farming
+
+HILLBILLY ABERRATIONS
+
+12 June 2018 (Tuesday)
+
+Description
+
+Taking care of the farm since the landowners died. Killing is easy, farming is hard.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Ragged Undershirt (Maimed)
+
+HILLBILLY ABERRATIONS
+
+Twisted, crooked skin covered with the badly torn remains of a victim's undershirt.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Filthy Jeans (Maimed)
+
+HILLBILLY ABERRATIONS
+
+These ruined jeans are the opposite of fine clothing.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Coldwind Farming
+
+HILLBILLY ABERRATIONS
+
+12 June 2018 (Tuesday)
+
+Description
+
+Taking care of the farm since the landowners died. Killing is easy, farming is hard.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Ragged Undershirt (Scarred)
+
+HILLBILLY ABERRATIONS
+
+Twisted, crooked skin covered with the badly torn remains of a victim's undershirt.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Filthy Jeans (Scarred)
+
+HILLBILLY ABERRATIONS
+
+These ruined jeans are the opposite of fine clothing.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Unwanted Child
+
+RIPPED HAND-ME-DOWN
+
+18 September 2018 (Tuesday)
+
+Description
+
+Some dirty hand-me-downs for you.
+
+180
+
+3600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Blue-Gray Camo Tank Top
+
+RIPPED HAND-ME-DOWN
+
+What’s left of the tank top you wanted.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Patched-Up Jeans
+
+RIPPED HAND-ME-DOWN
+
+These dirt-lined jeans are a new addition. They smell of cheap cologne and something else…perhaps rotten flesh.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Another Mouth to Feed
+
+RIPPED HAND-ME-DOWN
+
+18 September 2018 (Tuesday)
+
+Description
+
+Some dirty hand-me-downs for you.
+
+180
+
+3600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Lumberjack Tank Top
+
+RIPPED HAND-ME-DOWN
+
+What’s left of the tank top you wanted.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Beer Fest Jeans
+
+RIPPED HAND-ME-DOWN
+
+These dirt-lined jeans are a new addition. They smell of cheap cologne and something else…perhaps rotten flesh.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+The Milkman
+
+Wholesome Days
+
+Tome 10 - SAW
+
+28 February 2023 (Tuesday)
+
+Description
+
+The Hillbilly couldn’t help but envy the freedom of the milkman, coming and going as he pleased.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Fable Acres Delivery
+
+Wholesome Days
+
+15
+
+A beacon of American wholesomeness, right up there with apple pie.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Dairy Pants
+
+Wholesome Days
+
+27
+
+There’s something friendly and warm about this uniform. Surely, you can trust anyone wearing it...
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Spilled Milk
+
+Wholesome Days
+
+66
+
+Give them something to cry about with a hammer made of milk bottles.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Death Carver
+
+Blood And Bones
+
+25 July 2024 (Thursday)
+
+Description
+
+His heart swelled with joy. Something inside told him he would have a friend at last.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Spiked Flesh
+
+Blood And Bones
+
+He wished he could see how fearsome he looked in this strange new mask.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Distinguished Trousers
+
+Blood And Bones
+
+He didn't question the clothes he was wearing. He knew it was all for a higher purpose.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Barbed Hammer
+
+Blood And Bones
+
+He revved his chainsaw, wondering when he'd meet his new friend.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Frontier Miner
+
+MOUNTAIN SAVAGE
+
+12 June 2018 (Tuesday)
+
+Description
+
+A life of isolation deep in the mountains. Surviving the wilderness. Eradicating any threats that come too close.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Coonskin Cap
+
+MOUNTAIN SAVAGE
+
+That's a proper mountain man beard too. It will provide much warmth through the winter months.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Man of the Wild
+
+MOUNTAIN SAVAGE
+
+Immerse yourself in the wilderness. Live off the land. Become one with nature. Devour some fresh roadkill. Drink your own urine (if necessary). The classic outfit of a true frontier survivalist!
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Bloodied Miner's Pickaxe
+
+MOUNTAIN SAVAGE
+
+This weighted pickaxe was once used for chipping away at stone. These days it is used for chipping away at bone.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Rabbit Season
+
+SPRING ENSEMBLES
+
+17 April 2019 (Wednesday)
+
+Description
+
+Head into the woods for nature's bounty. Them varmints are good eatin'!
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Cookout Clothes
+
+SPRING ENSEMBLES
+
+Thick cotton soaks up any fat stains, while the bandolier holds whiskey and hot sauce for basting, and tasting.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Bloody Overalls
+
+SPRING ENSEMBLES
+
+You can't catch a rabbit without getting your hands, and pants, dirty.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Shock Hammer
+
+SPRING ENSEMBLES
+
+Not everyone has the time to craft a club from wood, and that car's just sitting on those blocks…
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Highwayman
+
+BLOODTHIRSTY MECHANIC
+
+Tome 1 - Awakening
+
+26 February 2021 (Friday)
+
+Description
+
+There was some kid who used to wear a jacket just like this. He went for a drive one day and never made it home.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Auto Mo-Boys
+
+BLOODTHIRSTY MECHANIC
+
+46
+
+A tight-fitting jacket clearly made for someone of smaller stature. The inside tag has a name written in sloppy, black marker.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Brown Patch Slacks
+
+BLOODTHIRSTY MECHANIC
+
+69
+
+Pants reinforced with added material and complimented with an eye-catching belt buckle. They held up well during a murderous chase through thorny brush.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Hard Stock Shotgun
+
+BLOODTHIRSTY MECHANIC
+
+60
+
+Any frustration over the gun's damaged barrel can be alleviated by bludgeoning the stock into a victim's head.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Buoy on the Beach
+
+Waterfront Massacre
+
+31 July 2019 (Wednesday)
+
+Description
+
+If chicks dig scars, they are gonna love you!
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Hot Bod
+
+Waterfront Massacre
+
+The Hawaiian shirt frames an impressively char-grilled figure. Mmm... something smells good.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Chainsawed Beach Pants
+
+Waterfront Massacre
+
+Cool down and show off those calves with tastefully mangled 3/4 pants.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Grill 'em Good Cow Leg
+
+Waterfront Massacre
+
+A hefty chunk of flesh and bone, cooked to perfection and crawling with maggots. Probably the best tasting weapon out there.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Vile Scarecrow
+
+Harrowing Night
+
+19 October 2021 (Tuesday)
+
+Description
+
+A repugnant patchwork of human skin that strikes fear in birds and humans alike.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Flesh Patchwork
+
+Harrowing Night
+
+Stretched skin stitched from the shreds of his victims.
+
+Piece
+
+Name
+
+Collection
+
+Exposed Bones
+
+Harrowing Night
+
+The result of chasing countless victims through thorny bushes and farmland.
+
+Piece
+
+Name
+
+Collection
+
+Scythe Hammer
+
+Harrowing Night
+
+Both deals a powerful blow and peels off the skin of his victims.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Auto-Repair Reaper
+
+BLOODTHIRSTY MECHANIC
+
+24 July 2018 (Tuesday)
+
+Description
+
+Well, howdy. You look like you could use some help. You're lucky you arrived when you did! This is the last stop for about a days' drive from here.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Buck's Hunting Cap
+
+BLOODTHIRSTY MECHANIC
+
+The inside of the cap has the word "Buck" written in smudged, black pen.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Grease-Stained Slacks
+
+BLOODTHIRSTY MECHANIC
+
+These filthy slacks loosely resemble part of a uniform of sorts. They appear to be covered in dark stains. Could be grease… or dried blood.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Busted Shotgun
+
+BLOODTHIRSTY MECHANIC
+
+This weapon don't shoot slugs… it makes 'em!
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Sunday Slaughter
+
+Unleashed
+
+Tome 5 - Unleashed
+
+12 July 2022 (Tuesday)
+
+Description
+
+It was a day like no other on Coldwind Farm, as years of rage were finally unleashed in one horrific massacre.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Pig-Headed
+
+Unleashed
+
+1
+
+Even his parents’ prize-winning pig suffered his wrath, a stinking trophy to be adorned upon his head.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Hog Wild
+
+Unleashed
+
+31
+
+A farmboy’s attire, festooned with the stripped skin of a Coldwind Farm pig. A terrifying sight that could give pause to any sheriff’s in his way.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Butcher’s Harvest
+
+Unleashed
+
+68
+
+Sharpened knives, strapped to the metal frame of a sheriff car’s lights. An improvised weapon that demonstrates a proclivity for violence in the maker’s brain.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Thousand-Eyed Toad
+
+Days Gone By
+
+01 October 2024 (Tuesday)
+
+Description
+
+He would stare through the crack in the wall for hours, watching the creatures hopping freely around the farmhouse.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Amphibious Jaw
+
+Days Gone By
+
+He imagined living on his own in the wilderness, scurrying, swimming, doing as he pleased.
+
+Piece
+
+Name
+
+Collection
+
+Marsh Camouflage
+
+Days Gone By
+
+His parents would be so shocked to find his room empty. He would watch from the trees as they searched for him.
+
+Piece
+
+Name
+
+Collection
+
+Horned Club
+
+Days Gone By
+
+He would make sure they felt as scared as him. And then he would strike.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+The Woodland Ranger
+
+WICKED WARES
+
+09 August 2019 (Friday)
+
+Description
+
+Learn to live off the land, building shelters, lighting fires and eating only what you kill yourself. Luckily, there's plenty to kill. Nature provides.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Ranger Uniform
+
+WICKED WARES
+
+Broad-brimmed hat and a decorated shirt to scout the woodlands for new victims. Includes badges for Fire Safety, Woodland Management, and Knot Tying. FYI, a noose counts as a knot.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Muddy Jeans
+
+WICKED WARES
+
+A pair of comfortable jeans for searching and executing any distressed visitor.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Nature's Protection
+
+WICKED WARES
+
+You can find anything you need in the woods, even a sturdy weapon, such as this. Trees harbor a lot of anger, and you can help to let it out.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Pyromania
+
+NEW YEAR CELEBRATION
+
+29 December 2019 (Sunday)
+
+Description
+
+Darkness took its toll on The Hillbilly who had spent most of his days secluded in a dark, damp room. For the New Year, he sought the light that had been taken from him all those years ago.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Gas Work
+
+NEW YEAR CELEBRATION
+
+He gathered all kinds of tools to tinker a metallic frame for the pyre he planned to build.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Short Fused
+
+NEW YEAR CELEBRATION
+
+At midnight, he lit up his creation and a wall of fire engulfed him.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Firework Launcher Hammer
+
+NEW YEAR CELEBRATION
+
+He repurposed a broken firework launcher into a weapon to bludgeon sozzled partygoers at the local trailer park.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Fictional Cat
+
+Cursed Cats
+
+10 October 2023 (Tuesday)
+
+Description
+
+The only friend from Max's childhood was a cartoon cat.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Mouser Grin
+
+Cursed Cats
+
+Singing and smiling, the tv cat was never bothered by his appearance.
+
+Piece
+
+Name
+
+Collection
+
+Stapled Fur
+
+Cursed Cats
+
+Max kneeled in front of the screen, listening like the feline was talking to him personally.
+
+Piece
+
+Name
+
+Collection
+
+Kitten Bowl
+
+Cursed Cats
+
+The credits rolled as the cat ate from its bowl in the background, not caring for Max anymore.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Osseous Carcass
+
+HALLOWED BLIGHT
+
+09 October 2019 (Wednesday)
+
+Description
+
+A particularly aggressive specimen following experimentation. Injected in multiple locations to yield faster results, which caused severe fluid-filled lumps.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Conjoined Souls
+
+HALLOWED BLIGHT
+
+Dark pair of eyes, peering through a thick film of yellow secretions.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Swollen Cartilage
+
+HALLOWED BLIGHT
+
+Sharp, protuberant fibula, inflamed by excessive lymph.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Festering Hammer
+
+HALLOWED BLIGHT
+
+A wooden-handle hammer punctured by nails dipped in bile to pummel your prey to a slimy pulp.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+3rd Degree Heat
+
+Waterfront Massacre
+
+Tome 8 - Deliverance
+
+23 August 2022 (Tuesday)
+
+Description
+
+A scorching look that leaves permanent injuries.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Smokin’ Bod
+
+Waterfront Massacre
+
+63
+
+The Hawaiian shirt frames an impressively char-grilled figure. Mmm... something smells good.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Thrashed Beach Pants
+
+Waterfront Massacre
+
+15
+
+Cool down and show off those calves with tastefully mangled 3/4 pants.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Propane Cudgel
+
+Waterfront Massacre
+
+31
+
+This spiked hammer combines rusty BBQ tools from the old Coldwind farmhouse. It offers a crafty way to tenderize even the most venous meat. Waste not, want not.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Masquerade Chainsaw
+
+Twisted Masquerade
+
+25 June 2026 (Thursday)
+
+Description
+
+He didn’t like the gatherings, and he let everybody know it.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Hillbilly’s Mask
+
+Twisted Masquerade
+
+A mask he found himself wearing at the masquerade ball.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Twisted Tailor Pants
+
+Twisted Masquerade
+
+Despite the quality of the work, the pants ripped with the first attack.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Golden Hammer
+
+Twisted Masquerade
+
+A heavy hammer carved in gold.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Twisted Hero
+
+Inner Struggle
+
+Tome 18 - Revision
+
+13 January 2025 (Monday)
+
+Description
+
+He received an old comic book from a kind-hearted farmhand.
+
+1296
+
+25920
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Swooping Mask
+
+Inner Struggle
+
+64
+
+The hero's eyes always looked kind beneath his mask.
+
+480
+
+8640
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Flight Suit
+
+Inner Struggle
+
+68
+
+He hoped that one day he could be just like the superhero.
+
+480
+
+8640
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Winged Hammer
+
+Inner Struggle
+
+70
+
+The hero didn’t carry a weapon, which he always found confusing.
+
+480
+
+8640
+
+Piece
+
+Name
+
+Collection
+
+Brutal Shovel
+
+MOUNTAIN SAVAGE
+
+A simple shovel. Probably dangerous when used as a weapon. Ya dig?
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Cruel Shovel
+
+MOUNTAIN SAVAGE
+
+A simple shovel. Probably dangerous when used as a weapon. Ya dig?
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Vicious Miner's Shovel
+
+MOUNTAIN SAVAGE
+
+A simple shovel. Probably dangerous when used as a weapon. Ya dig?
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Arctic Hammer
+
+Bone Chill
+
+He wrenched the instrument free from the ice and swung.
+
+250
+
+Piece
+
+Name
+
+Brutal Rat Hammer
+
+A hefty cattle hammer with a festive rodent flair.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Chrome Pickaxe
+
+MOUNTAIN SAVAGE
+
+That was not the play.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Honeycomb Hammer
+
+Tricks and Treats
+
+This hammer was thought to be lost to a beehive out back, but a few stings later, he had a terrifying weapon.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Onyx Pickaxe
+
+MOUNTAIN SAVAGE
+
+This weighted pickaxe was once used for chipping away at stone. These days it is used for chipping away at bone.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Barbed Shotgun
+
+BLOODTHIRSTY MECHANIC
+
+Come here, my little sausage.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Buckskin Hammer
+
+Bone Chill
+
+Buckskin was wrapped around the handle to prevent the hammer from slipping when striking.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Engraved Flesh
+
+Slipknot
+
+Low-frequency vibrations reverberated through the realm, distracting The Hillbilly from his destructive frenzy. He stood in the middle of the cornfield, clutching the mask of flesh that spread across his disfigured face.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Spiked Shotgun
+
+BLOODTHIRSTY MECHANIC
+
+Spiked… for your pleasure.
+
+400
+
+7200
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Hillbilly
+ is part of 
+1
+ DLC:
+
+The Bloodstained Sack
+
+History
+
+Up to 
+Patch 4.1.0
+
+The 
+Chainsaw
+ featured no 
+Overheat
+ mechanic that would penalise using it too much.
+
+Up to 
+Patch 7.5.0
+
+The 
+Chainsaw
+ featured the 
+Overheat
+ mechanic.
+Using the 
+Chainsaw
+ (i.e. pressing the 
+Power button
+ for any length of time) would accumulate heat and eventually cause it to into 
+Overheat
+, disabling its use until it cooled down.
+
+Statistics:
+
+Overheat
+ limit: 
+100 Charges
+
+Minimum Penalty for using the 
+Chainsaw
+: 
++2 Charges
+
+Penalty for revving the 
+Chainsaw
+: 
++3 c/s
+
+Penalty during the 
+Chainsaw Sprint
+: 
++5 c/s
+
+Dissipation rate when not overheated: 
+-3.5 c/s
+
+Dissipation rate when overheated: 
+-6.6 c/s
+
+Change Log
+
+Patch 2.0.0
+Patch 4.1.0
+Patch 4.1.1
+Patch 4.1.2
+Patch 4.7.0
+Patch 6.7.0
+Patch 7.5.0
+Patch 7.5.2
+Patch 8.3.0
+Patch 8.6.0
+Patch 2.0.0
+
+Nerf
+: 
+Bloodlust
+ is now reset when revving 
+The Chainsaw
+.
+Patch 4.1.0
+
+Rework
+: reworked 
+The Chainsaw
+ and the majority of its 
+Add-ons
+.
+
+Nerf
+: added an 
+Overheat
+ meter where various actions with the Chainsaw cause overheating.
+
+Nerf
+: disables the Chainsaw once the 
+Overheat
+ meter is filled and must wait for it to cool down.
+
+Quality of Life
+: 
+Overheating
+ during a 
+Chainsaw Sprint
+ will not interrupt the action and the Chainsaw will go on its cool-down after the action is complete.
+
+Quality of Life
+: downing Survivors, missing a Chainsaw attack or colliding with an obstacle do not fill the 
+Overheat
+ meter.
+
+Change
+: reworked add-ons so 
+The Hillbilly
+ no longer shares them with The 
+Cannibal
+, making them exclusive to 
+The Hillbilly
+.
+
+Change
+: added an audio cue, causing 
+The Hillbilly
+ to roar when starting to 
+Chainsaw Sprint
+.
+
+Change
+: 
+The Hillbilly
+ now features a unique Menu Music, 
+Terror Radius
+ and Chase Music.
+Patch 4.1.1
+
+Balancing
+: applied several balance changes and improvements to the newly reworked 
+Add-ons
+.
+Patch 4.1.2
+
+Balancing
+: lowered the Heat dissipation from 
+-5 c/s
+ to 
+-3.5 c/s
+.
+Patch 4.7.0
+
+Quality of Life
+: the 
+Chainsaw
+ now continuously revs while in the Charge state.
+Patch 6.7.0
+
+Buff
+: reduced the heat gain when starting the 
+Chainsaw
+ from 
+5 Charges
+ to 
+2 Charges
+.
+
+Buff
+: reduced the heat gain when revving the 
+Chainsaw
+ from 
++8 c/s
+ to 
++3 c/s
+.
+
+Nerf
+: increased the heat gain during a 
+Chainsaw Sprint
+ from 
++2 c/s
+ to 
++5 c/s
+.
+Patch 7.5.0
+
+Rework
+: reworked 
+The Chainsaw
+ for a second time and the majority of its 
+Add-ons
+.
+
+Change
+: removed the 
+Overheat
+ mechanic entirely and replaced it with the 
+Overdrive
+ mechanic, granting new properties;
+
+Performing actions now fills the 
+Overdrive Meter
+.
+Once the meter is full, 
+The Hillbilly
+ gains new bonuses towards the 
+Chainsaw
+:
+
+Increases the 
+Chainsaw
+ Charge speed by 
++5 %
+.
+
+Increases the 
+Chainsaw Sprint
+ Movement speed to 
+13 m/s
+.
+
+Reduces the Cool-down duration of the 
+Chainsaw
+ by 
+-10 %
+.
+
+Buff
+: increased the default Movement speed during a 
+Chainsaw Sprint
+ from 
+9.2 m/s
+ to 
+10.12 m/s
+.
+
+Buff
+: reduced the Cool-down duration for successful 
+Chainsaw Hits
+ from 
+3 seconds
+ to 
+2.7 seconds
+.
+
+Buff
+: reduced the Cool-down duration for missed 
+Chainsaw Hits
+ from 
+3 seconds
+ to 
+2.5 seconds
+.
+
+Buff
+: increased the default Movement speed during the Cool-down phase of the 
+Chainsaw
+ from 
+1.38 m/s
+ to 
+2.3 m/s
+.
+
+Undocumented Buff
+: allows 
+The Hillbilly
+ to begin moving after colliding with obstacles.
+
+Quality of Life
+: reduced the Collision hitbox of the 
+Chainsaw
+ to improve navigation.
+
+Quality of Life
+: disconnected the sensitivity of the 
+Chainsaw
+ from the controller sensitivity for MKB users.
+
+Quality of Life
+: reduced the audio volume of the 
+Chainsaw
+ from 
+The Hillbilly's
+ Point of View.
+
+Undocumented Nerf
+: the 
+Chainsaw
+ Charge progress now affects the sound it gives off, allowing perceptive Survivors to gauge how close 
+The Hillbilly
+ is to start sprinting.
+
+Change
+: added new audio and visual cues to specify when 
+The Hillbilly
+ is in 
+Overdrive
+.
+Patch 7.5.2
+
+Buff
+: increased the duration of the 
+Chainsaw
+ transitioning from its initial to its eventual Turn rate from 
+0.75 seconds
+ to 
+1 second
+.
+
+This allows 
+The Hillbilly
+ to curve more around obstacles when starting a 
+Chainsaw Sprint
+.
+
+Quality of Life
+: added a new audio cue informing 
+The Hillbilly
+ when the Cool-down of the 
+Chainsaw
+ is over and it is ready to be used again.
+
+Nerf
+: reduced the default Movement speed during the Cool-down phase of the 
+Chainsaw
+ from 
+2.3 m/s
+ to 
+1.84 m/s
+.
+
+Change
+: increased the volume of the 
+Chainsaw
+ for Survivors.
+Patch 8.3.0
+
+Nerf
+: reduced the 
+Overdrive
+ Dissipation buffer from 
+15 seconds
+ to 
+8 seconds
+.
+
+Nerf
+: reduced the 
+Overdrive Chainsaw Sprint
+ speed from 
+13 m/s
+ to 
+12 m/s
+.
+
+Nerf
+: reduced the Charge rate of 
+Overdrive
+ while revving from 
++2 c/s
+ to 
++1.5 c/s
+.
+
+Nerf
+: reduced the Charge rate of 
+Overdrive
+ while sprinting from 
++2 c/s
+ to 
++1.5 c/s
+.
+
+Nerf
+: increased the Cool-down time after missing a 
+Chainsaw Sprint
+ from 
+2.5 seconds
+ to 
+2.7 seconds
+.
+
+This makes it equal to the default Cool-down time of missed attacks.
+Patch 8.6.0
+
+Nerf
+: increased the 
+Terror Radius
+ from 
+32 metres
+ to 
+40 metres
+.
+
+Trivia
+
+General
+
+The Hillbilly
+ is based on 
+Leatherface
+, both having similarly disfigured faces and wielding Hammers and Chainsaws.
+
+The Developers originally wanted to have 
+Leatherface
+ in the game, however obtaining this licence was not an option at that point during development.
+
+The Hillbilly
+ was the first Killer with an ability that allowed him to instantly put a Survivor into the 
+Dying State
+.
+
+The Hillbilly
+ was the first Killer to not have standard cosmetic slots (Head, Body & Weapon), instead his head and torso are combined into a single slot while his legs is a separate slot.
+
+The Hillbilly
+ limps when he walks and hunches over when he stands. However, when breaking a 
+Pallet
+ or damaging a 
+Generator
+, his posture is completely straight as this interaction uses a default animation for most Killers.
+
+ 
+The Hillbilly's
+ Theme music is a remix of the 
+All Hallows' Eve
+ Theme music from around Halloween 2017.
+
+The Hillbilly's
+ version adds a new melody line on top of the otherwise same accompaniment.
+
+The 
+Overheat
+ mechanic was reworked into the 
+Overdrive
+ mechanic instead of being removed entirely due to development time spent on the former.
+
+Lore
+
+In the original Lore with the Game's release, 
+The Hillbilly
+ is referred to as an unnamed child, but the official Art Book revealed it to be 
+"Max Thompson"
+, same as his father.
+
+Memory 3729
+ in 
+Tome 5 - Unleashed
+ subsequently revealed that 
+The Hillbilly
+ had longed to have been named the same as his father and eventually took on the name by his own volition, despite his parents never having called him any name, having just referred to him as 
+"Boy"
+.
+
+According to the Manual, 
+The Hillbilly
+ had killed his parents, which was confirmed by Memories 
+3729
+ and 
+3730
+ in 
+Tome 5 - Unleashed
+, but the site contradicts itself on whether or not their bodies were found.
+
+The Coldwind Farm Lore states: "...remains were discovered in the basement, both from Mr and Mrs Adams together with livestock".
+
+It should be noted here that the family name 
+"Adams"
+ was likely a 
+Work in Progress
+ name for the Thompsons and that 
+"Mr and Mrs Adams"
+ here actually refers to Max and Evelyn Thompson.
+
+The Hillbilly's
+ Lore states: "they never found the bodies of Max and Evelyn, but they did find tortured and disembowelled animals, all over the farm."
+
+Benedict Baker
+'s journal entry about 
+The Hillbilly
+ makes little sense as the first hand-held, motorised Chainsaws weren't invented until in 1918 and thus a man that, according to Baker, was taken into the Entity's Realm in 1896 should not know about their existence, let alone how to use one.
+
+As per the canon 
+Legion
+ comic series, it is revealed that, years after the events, 
+Hillbilly's
+ story has been made into several Hollywood films which are loosely based on the true story. The 
+Coldwind
+ horror film series includes 
+A Man Named Boy
+ and 
+The Cowshed Incident
+.
+
+Voice Actor
+
+The Hillbilly
+ is voiced by Filip Ivanovic, who at that time worked as the Art Director on the Game.
+
+The Hillbilly
+ shares his voice-actor with The 
+Trapper
+, The 
+Wraith
+, The 
+Cannibal
+, The 
+Nightmare
+, The 
+Ghost Face
+, and 
+Jeff Johansen
+.
+
+Gallery
+
+For more go to the 
+Hillbilly's Gallery
+
+In-game Assets
+
+The Hillbilly
+
+The Hillbilly (Portrait render)
+
+The Hillbilly (Background image)
+
+Official Art
+
+The Hillbilly: Max Thompson
+
+Outfits
+
+Pyromania Outfit
+
+Old Assets
+
+The Hillbilly's previous portrait
+
+Concept Art
+
+'The Scarecrow' Concept Art
+
+'Osseous Carcass' Concept Art
+
+'Buoy on the Beach' Concept Art
+
+'Pyromania' Concept Art
+
+ Scrapped Christmas Cosmetic
+
+'Fictional Cat' Concept Art
+
+'Twisted Hero' Concept Art
+
+Screenshots
+
+Max carrying a survivor
+
+Max at 
+Autohaven Wreckers
+
+Max looking at a fire barrel
+
+Max in his Rancher's Vest and Hat
+
+Max carrying 
+Meg
+
+Max in the 
+basement
+
+Max on 
+Coldwind Farm
+
+Max at 
+MacMillan Estate
+
+References
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

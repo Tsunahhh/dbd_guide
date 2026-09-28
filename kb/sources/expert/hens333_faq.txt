@@ -1,0 +1,58 @@
+Titre : Hens' FAQ
+Auteur : Hens333
+URL : https://hens333.com/faq
+Date de publication / mise à jour : non affichée
+Date de consultation : 28/09/2026
+Méthode : curl + BeautifulSoup (texte brut)
+Note : onglets « Streaming » et « DBD » rendus côté client ; seul l'onglet « About Hens » est dans le HTML. Aucun contenu de jeu.
+======================================================================
+
+Hens' FAQ
+Hens333
+Menu
+Home
+Merch
+NEW!
+FAQ
+Callouts
+YouTube
+Prof. Hens
+YouTube
+Not Hens
+Killer Builds
+Survivor Builds
+Contact
+FAQ
+Merch
+NEW!
+Callouts
+More Hens
+YouTube
+Prof. Hens
+YouTube
+Not Hens
+Best Builds
+Killer Builds
+Survivor Builds
+Contact
+About Hens
+Streaming
+DBD
+Where are you from?
+I am from northern Germany
+How old are you?
+I am 31 years old
+When is your Birthday?
+16th of June
+Do you have any pets?
+No
+How tall are you?
+199cm or 6"5' ft
+What is your favorite animal?
+MegaSloth
+What is your favorite drink?
+Coffee
+What is your favorite food?
+Pasta Bolognese
+Do you play any games outside of DBD?
+Sometimes I play Rimworld or Shooters but rarely.

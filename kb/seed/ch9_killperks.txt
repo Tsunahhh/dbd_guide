@@ -1,0 +1,841 @@
+
+=====PAGE 89=====
+CHAPITRE 9
+9. Tueur : toutes les perks (tier list)
+Cette tier list couvre les 145 perks tueur distinctes (44 tueurs × 3, plus 13 perks générales). Six perks ont changé de nom
+quand leur licence a quitté le jeu : les joueurs qui possédaient le chapitre gardent l'ancien nom.
+Ancien nom
+Nouveau nom (perk générale)
+Licence partie
+Deadlock
+No Holds Barred
+Hellraiser (2025)
+Hex: Plaything
+Hex: Fortune's Fool
+Hellraiser
+Scourge Hook: Gift of Pain
+Scourge Hook: Weeping Wounds
+Hellraiser
+Save the Best for Last
+Keep Them Waiting
+Halloween (janv. 2026)
+Play With Your Food
+See How They Run
+Halloween
+Dying Light
+Cull the Weak
+Halloween
+Règles de régression et de blocage (à connaître avant de choisir)
+• Coup de pied sur un générateur (action Damage Generator, 1,8 s) : le générateur perd 5 % de sa progression totale d'un
+coup, puis régresse.
+• Régression de base : 0,25 charge par seconde. Un générateur presque terminé met environ 360 s à retomber à zéro.
+• Limite de 8 « Regression Events » par générateur. Un événement compte chaque fois que le tueur fait perdre d'un
+coup au moins 2,5 % au générateur (coup de pied ou perk). Des pointes apparaissent autour du générateur à partir du
+4ᵉ événement. Au 8ᵉ, le tueur ne peut plus du tout interagir avec ce générateur.
+– Les ratés de skill-check des survivants ne comptent pas dans cette limite.
+– Si le générateur visé a atteint sa limite, Pain Resonance se rabat sur un autre générateur.
+– Conséquence : le 3-gen infini n'existe plus. Le 3-gen ralentit la partie, mais il faut toujours gagner des poursuites.
+• Générateur bloqué (Entité) : progression et régression sont figées. Un générateur bloqué ne subit pas les pertes
+instantanées. Il ne faut donc pas empiler un blocage et une explosion sur le même générateur au même moment.
+• Arrêter la régression : un survivant doit réparer au moins environ +5 % pour stopper la régression d'un générateur.
+• Rendements décroissants (patch 9.6.0, 28 avril 2026) : quand plusieurs modificateurs de même nature s'appliquent en
+même temps (vitesse de régression, Haste, Hindered, vitesse d'action, etc.), le plus fort compte à 100 %, le 2ᵉ à 50 %, le
+3ᵉ à 25 %, le 4ᵉ à 12,5 %, et les suivants à 5 %.
+– Les modificateurs venant des add-ons ne sont pas concernés.
+– Les pénalités de vitesse d'action négatives ne sont réduites qu'entre sources d'un même rôle.
+– Conséquence : empiler Ruin + Call of Brine + Overcharge + Lay Waste (tous des accélérateurs de régression) est peu
+rentable.
+– Les blocages (Corrupt, Grim Embrace, DMS, No Holds Barred) et les pertes instantanées (Pain Res, Eruption, Surge, Turn
+Back the Clock) ne relèvent pas de la même catégorie. Mélanger les types reste donc efficace.
+– Pop Goes the Weasel augmente le montant du coup de pied (+15 %). C'est le seul des 4 perks du build « gen control » qui
+subit la taxe.
+• Patch 9.2.0 (septembre 2025) : Ruin passe à 100/125/150 % ; Pop passe à 20 % → 15 % (il sera réécrit en 9.5.0) ; DMS
+passe à 25/30/35 s ; Oppression touche 4 générateurs, avec un temps de recharge de 45/40/35 s.
+– Les nerfs de Pain Resonance et d'Eruption testés au PTB 9.2.0 ne sont PAS passés en live. Pain Res est toujours à
+10/15/20 % et Eruption à 10 %.
+• Patch 9.5.0 (mars 2026) : Pop Goes the Weasel est réécrit. Il ajoute +15 % au coup de pied de base, soit 20 % au total,
+calculé sur la progression totale (et non plus sur la progression actuelle).
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+TUEUR : TOUTES LES PERKS (TIER LIST)
+89
+
+=====PAGE 90=====
+Les perks tueur les plus jouées (NightLight, septembre 2026)
+1. Scourge Hook: Pain Resonance : 34,6 %
+2. Lethal Pursuer : 19,8 %
+3. Pop Goes the Weasel : 15,1 %
+4. Nowhere to Hide : 12,4 %
+5. Corrupt Intervention : 11,7 %
+6. Barbecue & Chilli : 11,7 %
+7. Dead Man's Switch : 11,6 %
+8. Eruption : 11,4 %
+9. A Nurse's Calling : 10,8 %
+10. Hex: Ruin : 10,1 %
+11. Surge : 9,0 %
+12. Bamboozle : 8,8 %
+13. Celestial Witness : 7,9 % (nouveauté du chapitre Judgment)
+14. Grim Embrace : 6,75 %
+Juste derrière : Brutal Strength 6,5 %, Deadlock 6,4 % (plus la version No Holds Barred), Friends 'til the End 6,3 %, Turn Back
+the Clock 6,3 %, NOED 5,9 %, Save the Best for Last 5,9 % (plus Keep Them Waiting), Sloppy Butcher 5,8 %, Enduring 5,4 %.
+Note : NightLight sépare les statistiques des perks renommées (Deadlock / No Holds Barred, Save the Best for Last / Keep
+Them Waiting) : leur usage réel est donc sous-estimé. En cumulant les deux noms, No Holds Barred et Keep Them Waiting
+sont nettement plus jouées que ce qu'indique chaque ligne.
+Combos les plus fréquents :
+• Pain Res + Corrupt + Pop + Eruption : build n°1 de Pop et d'Eruption, ~75 % de taux de kill.
+• Pain Res + DMS : 23 % des builds Pain Res.
+• Lethal Pursuer + A Nurse's Calling + Gearhead + Nowhere to Hide : ~72 % de kill.
+Tier list complète
+Les pourcentages entre crochets sont les taux d'utilisation NightLight (14 derniers jours, septembre 2026). Sources du
+classement : tier list timesaver.gg (patch 10.1.2a), usage NightLight et consensus communautaire.
+S
+Tier S : à jouer sur presque tous les tueurs
+Perk
+Tueur d'origine
+Effet (FR, reformulé)
+Scourge Hook: Pain Resonance 
+[34,6 %, n°1]
+The Artist
+4 crochets Fléau (aura blanche) et 4 jetons. La 1ʳᵉ fois qu'un survivant est accroché sur
+un crochet Fléau, le générateur le plus avancé explose. Il perd 10/15/20 % de sa
+progression totale et commence à régresser, et les survivants qui le réparent crient.
+Chaque survivant ne peut déclencher le perk qu'une fois.
+Pop Goes the Weasel [15,1 %,
+n°3]
+The Clown
+Pendant 35/40/45 s après un accrochage, le prochain coup de pied fait perdre +15 % en
+plus du coup de base, soit 20 % au total. Un seul usage par accrochage.
+Corrupt Intervention [11,7 %]
+The Plague
+En début de partie, les 3 générateurs les plus éloignés de vous sont bloqués pendant
+80/100/120 s. L'effet s'arrête dès qu'un survivant passe au sol.
+Grim Embrace [6,75 %, n°15]
+The Artist
+Chaque 1ᵉʳ accrochage d'un survivant donne un jeton. Dès que vous êtes à 16 m du
+crochet, tous les générateurs sont bloqués 6/8/10 s. Au 4ᵉ jeton, ils sont bloqués 40 s et
+l'aura de l'Obsession est révélée 6 s.
+Lethal Pursuer [19,8 %, n°2]
+The Nemesis
+Au début de la partie, les auras de tous les survivants sont visibles 7/8/9 s. Tous vos
+autres effets de lecture d'aura durent +2 s.
+Nowhere to Hide [12,4 %]
+The Knight
+Quand vous frappez un générateur, vous voyez pendant 3/4/5 s les survivants à moins
+de 18 m. La portée est passée de 24 à 18 m au patch 10.1.0.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+TUEUR : TOUTES LES PERKS (TIER LIST)
+90
+
+=====PAGE 91=====
+A
+Tier A : excellentes, un peu situationnelles
+Perk
+Tueur
+Effet
+Dead Man's Switch [11,6 %]
+Deathslinger
+Après un accrochage, le 1ᵉʳ générateur qu'un survivant lâche est bloqué 25/30/35 s,
+avec aura blanche. Pas de nouveau blocage tant que le précédent est actif.
+Eruption [11,4 %]
+Nemesis
+Les générateurs que vous frappez sont marqués en jaune. Quand un survivant passe au
+sol, ils explosent : -10 % et régression. Les réparateurs crient et leur aura est révélée
+8/10/12 s. Temps de recharge 30 s.
+Hex: Ruin [10,1 %]
+The Hag
+Hex actif dès le départ. Tout générateur qui n'est pas en réparation régresse
+automatiquement à 100/125/150 % de la vitesse normale.
+Barbecue & Chilli [11,7 %]
+Cannibal
+À chaque accrochage, vous voyez pendant 5 s les survivants à plus de 60/50/40 m du
+crochet. Le bonus de Bloodpoints a été retiré au patch 6.1.0.
+A Nurse's Calling [10,8 %]
+Nurse
+Vous voyez l'aura des survivants en train de soigner ou d'être soignés dans un rayon de
+28/30/32 m.
+Surge (ex-Jolt) [9,0 %]
+Demogorgon
+Quand vous mettez un survivant au sol avec une attaque de base, les générateurs dans
+un rayon de 32 m explosent (-6/7/8 %, régression), et les réparateurs crient.
+No Holds Barred (ex-Deadlock)
+[6,4 % sous le nom Deadlock,
+plus la version générale]
+Général
+(ex-Cénobite)
+Quand un générateur est terminé, le générateur le plus avancé est bloqué 15/20/25 s,
+avec aura blanche.
+Keep Them Waiting (ex-Save
+the Best for Last) [5,9 % sous
+l'ancien nom, plus la version
+générale]
+Général
+(ex-Shape)
+Chaque coup de base sur un survivant autre que l'Obsession donne un jeton, jusqu'à
+6/7/8. Chaque jeton réduit de 5 % le temps de récupération des attaques de base
+(maximum 30/35/40 %). Toucher l'Obsession fait perdre 2 jetons. Les jetons sont figés si
+l'Obsession meurt.
+Bamboozle [8,8 %, n°12]
+Clown
+Vous passez les fenêtres 5/10/15 % plus vite. Chaque fenêtre que vous franchissez est
+bloquée pour les survivants pendant 8/12/16 s, une seule fenêtre à la fois.
+Hex: No One Escapes Death
+(NOED) [5,9 %]
+Général
+Quand les portes sont alimentées, un totem terne s'allume. Tous les survivants
+deviennent Exposed et vous gagnez 2/3/4 % de Haste. L'aura du totem apparaît aux
+survivants dans un rayon de 4 m, qui s'élargit jusqu'à 24 m en 30 s.
+Turn Back the Clock [6,3 %]
+The First
+Pendant 40/50/60 s après un accrochage, le bouton de pouvoir 1 fait exploser un
+générateur visible à moins de 20 m : -10 % et régression.
+Celestial Witness [7,9 %, n°13]
+The Judgment
+Toutes les 30 s, si l'Obsession est à plus de 40 m, vous voyez son aura 2/2,5/3 s. Sinon, le
+survivant le plus éloigné devient l'Obsession.
+Discordance [3,2 %]
+Legion
+Un générateur réparé par 2 survivants ou plus est surligné en jaune, dans un rayon de
+64/96/128 m. Vous recevez aussi une alerte.
+Darkness Revealed [1,6 %]
+Dredge
+Quand vous fouillez un casier, vous voyez les survivants à moins de 8 m de tous les
+casiers pendant 6/7/8 s. Temps de recharge 30 s.
+Scourge Hook: Floods of Rage 
+[1,8 %]
+Onryō
+4 crochets Fléau. Quand un survivant est décroché d'un crochet Fléau, vous voyez les
+autres survivants pendant 5/6/7 s.
+Ultimate Weapon [0,9 %]
+Xenomorph
+Quand vous ouvrez un casier, les survivants à moins de 40 m crient (leur position est
+révélée) et sont aveuglés (Blindness) 30 s. Temps de recharge 55/50/45 s.
+Scourge Hook: Weeping
+Wounds (ex-Gift of Pain) [2,8 %
+sous l'ancien nom]
+Général
+(ex-Cénobite)
+4 crochets Fléau. Un survivant décroché subit Hemorrhage et Mangled pendant 90 s.
+Après son 1ᵉʳ soin complet, il répare et soigne 10/13/16 % plus lentement jusqu'à sa
+prochaine blessure.
+Hex: Fortune's Fool 
+(ex-Plaything) [4,6 % sous
+l'ancien nom]
+Général
+(ex-Cénobite)
+Au 1ᵉʳ accrochage de chaque survivant, un Hex s'allume. Le survivant est Oblivious, et lui
+seul peut purifier le totem pendant 90 s. Il voit l'aura du totem dans un rayon de
+24/20/16 m.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+TUEUR : TOUTES LES PERKS (TIER LIST)
+91
+
+=====PAGE 92=====
+B
+Tier B : bonnes dans le bon build
+Perk
+Tueur
+Effet
+Brutal Strength [6,5 %, n°14]
+Trapper
+Vous cassez palettes et murs, et frappez les générateurs, 10/15/20 % plus vite.
+Enduring [5,4 %]
+Hillbilly
+Les étourdissements de palette durent 40/45/50 % moins longtemps, sauf si vous
+portez un survivant.
+Sloppy Butcher [5,8 %]
+Général
+Chaque coup de base inflige Hemorrhage et Mangled pendant 70/80/90 s. Le
+saignement fait perdre la progression de soin 25 % plus vite.
+Friends 'til the End [6,3 %]
+Good Guy
+Quand vous accrochez un survivant autre que l'Obsession, l'Obsession est Exposed 20 s
+et révélée 6/8/10 s. Quand vous accrochez l'Obsession, un autre survivant crie et
+devient la nouvelle Obsession.
+Starstruck [1,2 %]
+Trickster
+Pendant que vous portez un survivant, les survivants dans votre rayon de terreur
+deviennent Exposed. L'effet persiste 26/28/30 s après leur sortie du rayon. Temps de
+recharge 60 s.
+No Way Out [4,7 %]
+Trickster
+Chaque 1ᵉʳ accrochage d'un survivant donne un jeton. Quand un survivant touche un
+interrupteur de porte, les deux portes sont bloquées 12 s + 6/9/12 s par jeton, et vous
+êtes alerté.
+Coup de Grâce [1,8 %]
+Twins
+Chaque générateur terminé donne 2 jetons (maximum 5). Chaque fente (lunge)
+consomme 1 jeton et est 70/75/80 % plus longue.
+Terminus [0,7 %]
+Mastermind
+Quand les portes sont alimentées, les survivants blessés, au sol ou accrochés sont
+Broken. L'effet dure jusqu'à 35/40/45 s après l'ouverture d'une porte.
+Hex: Undying [3,2 %]
+Blight
+Si un autre Hex est purifié, il se transfère sur ce totem en gardant ses jetons. Vous voyez
+les survivants à moins de 2/3/4 m des totems ternes.
+Hex: Pentimento [1,8 %]
+Artist
+Vous voyez les totems purifiés et pouvez les rallumer. Premier totem rallumé :
+réparation et soin -20 %, plus 1-3 % par totem supplémentaire. Avec 5 totems rallumés,
+ils sont bloqués de façon permanente.
+Hex: Devour Hope [2 %]
+Hag
+Chaque décrochage fait à plus de 24 m de vous donne un jeton. 2 jetons : Haste de
+3/4/5 % pendant 10 s après un accrochage. 3 jetons : tout le monde est Exposed. 5
+jetons : vous pouvez tuer à la main.
+Hex: Blood Favour [3,1 %]
+Blight
+Quand vous blessez un survivant, les palettes debout à moins de 24/28/32 m de lui sont
+bloquées 15 s.
+Thanatophobia [2,6 %]
+Nurse
+Chaque survivant blessé, au sol ou accroché donne à tous les survivants un malus de
+réparation, purification et sabotage de 1/1,5/2 %. Si les 4 sont dans cet état, +12 % en
+plus (total 16/18/20 %).
+Deathbound (C+)
+Executioner
+Quand un survivant en soigne un autre, il crie. Ensuite, s'il est à plus de 12/8/4 m du
+survivant soigné, il est Oblivious et voit l'aura de ce survivant.
+Call of Brine [2,2 %]
+Onryō
+Un générateur frappé régresse 30/40/50 % plus vite pendant 90 s. Vous êtes alerté à
+chaque skill-check réussi sur ce générateur. Buffé au patch 10.1.0.
+Overcharge [2,2 %]
+Doctor
+Après un coup de pied, la régression du générateur passe de 85 à 130 % en 30 s. Le
+prochain réparateur reçoit un skill-check spécial ; s'il le rate, il perd 2/3/4 % de plus.
+Oppression [2,2 %]
+Twins
+Quand vous frappez un générateur, jusqu'à 4 autres générateurs se mettent à régresser,
+et leurs réparateurs reçoivent un skill-check difficile. Temps de recharge 45/40/35 s.
+Lay Waste [3,1 %]
+Judgment
+Un générateur frappé régresse 2 % plus vite par charge qu'il possède. Temps de
+recharge 55/50/45 s.
+Rapid Brutality [4,6 %]
+Xenomorph
+Chaque coup de base donne 5 % de Haste pendant 8/9/10 s. En contrepartie, vous ne
+gagnez plus de Bloodlust.
+Lightborn [4,4 %]
+Hillbilly
+Immunité aux aveuglements (lampes, pétards, flashbangs, Blast Mine). Les survivants
+qui tentent de vous aveugler sont révélés 6/8/10 s. Contre les équipes SWF à lampes.
+Nemesis [4,4 %]
+Oni
+Le survivant qui vous aveugle ou vous étourdit (palette, casier) devient l'Obsession. Il est
+Oblivious 40/50/60 s et révélé 8 s.
+Gearhead [4,6 %]
+Deathslinger
+Pendant 30 s après chaque dégât infligé, chaque « Good » skill-check en réparation
+révèle le survivant 6/7/8 s.
+I'm All Ears [3,0 %]
+Ghost Face
+Un survivant qui fait une action rapide (casier, vault moyen ou rapide) à moins de 48 m
+est révélé 8 s. Temps de recharge 60/45/30 s.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+TUEUR : TOUTES LES PERKS (TIER LIST)
+92
+
+=====PAGE 93=====
+Perk
+Tueur
+Effet
+Thrilling Tremors [3,4 %]
+Ghost Face
+Quand vous ramassez un survivant, tous les générateurs qui ne sont pas en réparation
+sont bloqués 16 s. Temps de recharge 40/35/30 s.
+Deerstalker [3,4 %]
+Général
+Toutes les 40/35/30 s, le survivant qui a le moins été poursuivi voit votre aura 3 s, et
+vous voyez la sienne en même temps.
+Hex: Thrill of the Hunt [3,1 %]
+Général
+5 jetons (un par totem). Chaque jeton ralentit purification et bénédiction de 8/9/10 %.
+Infectious Fright [2,8 %]
+Plague
+Quand vous mettez un survivant au sol, ceux qui sont dans votre rayon de terreur crient
+et sont révélés 4/5/6 s.
+Tinkerer [2,8 %]
+Hillbilly
+La 1ʳᵉ fois qu'un générateur atteint 70 %, vous êtes alerté et devenez Undetectable 
+12/14/16 s.
+Spirit Fury [2,6 %]
+Spirit
+Après avoir cassé 4/3/2 palettes, le prochain étourdissement de palette la détruit
+instantanément. Vous subissez quand même l'étourdissement.
+Hex: Face the Darkness [1,3 %]
+Knight
+Quand vous blessez un survivant, il est maudit. Toutes les 35/30/25 s, les autres
+survivants hors de votre rayon de terreur crient et sont révélés 2 s, tant que le maudit
+reste blessé.
+Agitation [3,8 %]
+Trapper
+Quand vous portez un survivant : 6/12/18 % de Haste et rayon de terreur +12 m. Passe
+à 14/16/18 % au patch 10.2.0.
+Iron Grasp [2,2 %]
+Général
+Le survivant porté se débat 4/8/12 % plus lentement, et ses mouvements vous
+déportent 75 % moins.
+Blood Warden [2,4 %]
+Nightmare
+Une porte est ouverte : une fois par partie, votre prochain accrochage bloque les deux
+sorties 40/50/60 s. Vous voyez les survivants dans les zones de sortie.
+Remember Me [1,1 %]
+Nightmare
+Chaque fois que l'Obsession perd un état de santé, vous gagnez un jeton (maximum
+3/4/5). Chaque jeton rallonge le temps d'ouverture des portes pour les survivants autres
+que l'Obsession.
+Dragon's Grip [1,2 %]
+Blight
+Après un coup de pied, le 1ᵉʳ survivant qui touche ce générateur dans les 30 s crie, est
+localisé 4 s et devient Exposed 60 s. Temps de recharge 60/45/30 s.
+Furtive Chase [1,5 %]
+Ghost Face
+Quand vous accrochez l'Obsession : 10 % de Haste et Undetectable pendant 14/16/18 s.
+Le sauveteur devient la nouvelle Obsession.
+Machine Learning [0,8 %]
+Singularity
+Un générateur frappé devient « compromis ». Quand il est terminé : 8 % de Haste et
+Undetectable pendant 40/50/60 s.
+Trail of Torment [2,0 %]
+Executioner
+Après un coup de pied, vous êtes Undetectable tant que le générateur régresse, mais les
+survivants voient son aura. Temps de recharge 60/45/30 s.
+Silent Shadow [1,6 %]
+Slasher
+Undetectable pendant 11/12/13 s à chaque accrochage. Undetectable permanent une
+fois tous les générateurs terminés.
+Hex: Retribution
+Deathslinger
+Interagir avec un totem (terne ou hex) rend Oblivious 40/50/60 s. Si un Hex est purifié,
+tous les survivants sont révélés 20 s.
+Mindbreaker [1,7 %]
+Demogorgon
+Pendant qu'ils réparent, les survivants sont aveuglés (Blindness, pas d'auras) et
+Exhausted. L'effet dure encore 3/4/5 s après l'arrêt. Réactivé au patch 9.3.0.
+Hex: Hive Mind [0,9 %]
+The First
+Au 1ᵉʳ accrochage, un Hex s'allume et vous voyez la progression de tous les générateurs.
+Quand il ne reste qu'un générateur, tous explosent (-6/8/10 %, régression).
+Secret Project [1,0 %]
+The First
+Chaque totem béni ou purifié bloque un générateur au hasard pendant 20/25/30 s.
+Chaque fois qu'un générateur est bloqué : Undetectable 30 s.
+Scourge Hook: Monstrous
+Shrine [0,9 %]
+Général
+4 crochets Fléau, plus tous les crochets de la cave. Quand vous êtes à plus de 24 m, un
+survivant sur un crochet Fléau progresse vers le sacrifice 10/15/20 % plus vite.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+TUEUR : TOUTES LES PERKS (TIER LIST)
+93
+
+=====PAGE 94=====
+C
+Tier C : niches ou dépassées
+Perk
+Tueur
+Effet
+Whispers
+Général
+Vous entendez des murmures quand un survivant est à moins de 48/40/32 m.
+Territorial Imperative
+Huntress
+Un survivant qui entre dans la cave pendant que vous êtes à plus de 24 m est révélé
+4/5/6 s. Temps de recharge 45 s.
+Predator
+Wraith
+Quand vous perdez un survivant en poursuite, son aura est visible 4 s. Temps de
+recharge 60/50/40 s.
+Distressing
+Général
+Rayon de terreur +20/25/30 %. Bonus de Bloodpoints en Deviousness.
+Insidious
+Général
+Undetectable après 3/2/1 s d'immobilité, jusqu'à votre prochaine action.
+Knock Out
+Cannibal
+Un survivant qui fait tomber une palette puis s'en éloigne de 6 m dans les 6 s est
+Hindered 5 % pendant 3/4/5 s. Rework majeur prévu en 10.2.0.
+Shattered Hope
+Général
+Éteindre un totem Boon le détruit, et vous voyez les survivants dans son rayon pendant
+6/7/8 s.
+Dominance
+Dark Lord
+Coffres et totems touchés par un survivant sont bloqués 8/12/16 s, avec révélation
+d'aura.
+Scourge Hook: Jagged Compass
+Houndmaster
+Les crochets d'où un survivant est décroché deviennent Fléau. Accrocher sur un crochet
+Fléau révèle le générateur le plus avancé 6/8/10 s.
+Hex: Crowd Control
+Trickster
+Les 4/5/6 dernières fenêtres franchies (vault moyen ou rapide) par les survivants sont
+bloquées. Vous les passez 15 % plus vite et voyez leur aura dans un rayon de 24 m.
+Hex: Huntress Lullaby
+Huntress
+Chaque accrochage donne un jeton. Les skill-checks préviennent plus tard et leur zone
+« Good » rétrécit. À 5 jetons, plus d'avertissement du tout ; un raté fait perdre 2/4/6 %
+en plus.
+Unnerving Presence
+Trapper
+Dans votre rayon de terreur : 10 % de skill-checks en plus, zone « Good » 40/50/60 %
+plus petite.
+Coulrophobia
+Clown
+Dans votre rayon de terreur, les survivants soignent 20/25/30 % plus lentement et les
+skill-checks de soin tournent 50 % plus vite. Nerf au 10.1.0.
+Hubris
+Knight
+Le survivant qui vous étourdit est Exposed 20/25/30 s. Temps de recharge 20 s.
+Dissolution
+Dredge
+3 s après qu'un survivant a pris un coup, et pendant 12/16/20 s, la prochaine palette
+franchie en vault rapide dans votre rayon de terreur est détruite.
+Superior Anatomy
+Mastermind
+Un vault rapide d'un survivant à moins de 12 m vous donne +30/35/40 % de vitesse de
+vault pendant 10 s. Temps de recharge 25 s.
+Merciless Storm
+Onryō
+À 90 % de progression, chaque générateur impose des skill-checks continus. Un raté ou
+un arrêt bloque le générateur 16/18/20 s.
+Hex: Haunted Ground
+Spirit
+2 Hex. Si l'un est purifié, tout le monde est Exposed 40/50/60 s.
+Rancor
+Spirit
+Chaque générateur terminé vous montre tous les survivants pendant 3 s. En fin de
+partie, l'Obsession est Exposed et peut être tuée à la main.
+Hex: The Third Seal
+Hag
+Les 2/3/4 survivants que vous blessez sont aveuglés (Blindness).
+Iron Maiden
+Legion
+Ouverture des casiers 30/40/50 % plus rapide. Un survivant qui sort d'un casier crie, est
+Exposed 30 s et révélé 4 s.
+Mad Grit
+Legion
+Pendant que vous portez un survivant, pas de temps de récupération sur une attaque
+ratée. Chaque coup réussi met en pause le débattement 2/3/4 s.
+Zanshin Tactics
+Oni
+Vous voyez palettes et fenêtres dans un rayon de 32 m. Un survivant qui fait tomber une
+palette est révélé 3/4/5 s.
+Blood Echo
+Oni
+Quand vous accrochez un survivant, tous les blessés sont Exhausted et Hemorrhage
+pendant 20/25/30 s.
+Forced Penance
+Executioner
+Un survivant qui prend un coup protecteur devient Broken 60/70/80 s.
+Forced Hesitation
+Singularity
+Quand vous mettez un survivant au sol, ceux à moins de 16 m sont Hindered 20 %
+pendant 10 s. Temps de recharge 40/35/30 s.
+Genetic Limits
+Singularity
+Tout survivant qui perd un état de santé est Exhausted 6/7/8 s.
+Alien Instinct
+Xenomorph
+À chaque accrochage, le blessé le plus éloigné est révélé 8 s et devient Oblivious
+40/50/60 s.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+TUEUR : TOUTES LES PERKS (TIER LIST)
+94
+
+=====PAGE 95=====
+Perk
+Tueur
+Effet
+Hysteria
+Nemesis
+Quand un survivant en bonne santé est blessé, tous les blessés sont Oblivious 30/35/40
+s. Temps de recharge 20 s.
+Surveillance
+Pig
+Les générateurs qui régressent sont en blanc, puis en jaune quand ils sont repris
+(pendant 8/12/16 s). Les bruits de réparation portent 8 m plus loin.
+Make Your Choice
+Pig
+Un décrochage fait pendant que vous êtes à plus de 32 m : le sauveteur crie et est
+Exposed 40/50/60 s. Temps de recharge 40/50/60 s.
+Dark Devotion
+Plague
+Quand l'Obsession prend un coup, pendant 35/40/45 s : vous êtes Undetectable et c'est
+elle qui porte votre rayon de terreur (40 m).
+Franklin's Demise
+Cannibal
+Vos coups de base font tomber l'objet du survivant. Vous voyez les objets au sol dans un
+rayon de 32/48/64 m.
+Fire Up
+Nightmare
+Chaque générateur terminé donne un jeton (maximum 5). Chaque jeton accélère de
+4/5/6 % la casse, les coups de pied, le ramassage/dépôt et les vaults.
+Hex: Two Can Play
+Good Guy
+S'allume après 4/3/2 étourdissements ou aveuglements. Ensuite, chaque survivant qui
+vous étourdit ou vous aveugle est aveuglé 1,5 s.
+Batteries Included
+Good Guy
+5 % de Haste près des générateurs terminés (16 m), qui persiste 1/3/5 s.
+Unforeseen
+Unknown
+Après un coup de pied, votre rayon de terreur (32 m) est transféré sur le générateur et
+vous êtes Undetectable pendant 22/26/30 s.
+Languid Touch
+Lich
+Un survivant qui fait s'envoler un corbeau à moins de 36 m de vous est Exhausted
+6/8/10 s.
+Weave Attunement
+Lich
+Un objet vide tombe automatiquement. Vous voyez les objets au sol et les survivants à
+moins de 12 m d'eux. Ramasser un objet rend Oblivious 20/25/30 s.
+Human Greed
+Dark Lord
+Vous voyez les coffres fermés et pouvez refermer les coffres ouverts. Un survivant à
+moins de 8 m d'un coffre est révélé 3/4/5 s.
+All-Shaking Thunder
+Houndmaster
+Après une chute, vos fentes sont 75 % plus longues pendant 15/20/25 s.
+Forever Entwined
+Ghoul
+Chaque dégât donne un jeton (maximum 6/7/8). Chaque jeton : +4 % de vitesse pour
+ramasser, déposer et accrocher.
+Hex: Nothing but Misery
+Ghoul
+S'allume après 8 coups de base. Ensuite, chaque coup inflige 5 % de Hindered pendant
+10/12,5/15 s. Passera à 4 coups en 10.2.0.
+None Are Free
+Ghoul
+Jetons au 1ᵉʳ accrochage de chaque survivant (maximum 4). Quand tous les générateurs
+sont terminés, fenêtres et palettes debout sont bloquées 12/14/16 s par jeton.
+Help Wanted
+Animatronic
+Le générateur frappé est « compromis ». Quand il est terminé, récupération après coup
+réussi 25 % plus rapide pendant 40/50/60 s.
+Phantom Fear
+Animatronic
+Un survivant dans votre rayon de terreur qui vous regarde crie et est révélé 2 s. Temps
+de recharge 80/70/60 s.
+Haywire
+Animatronic
+Une porte lâchée après 80 % de progression régresse à 80/90/100 % de la vitesse
+d'ouverture.
+Hex: Under Your Thumb
+Judgment
+Au 1ᵉʳ accrochage, un Hex s'allume. La Haste des survivants qui courent est plafonnée à
+25/20/15 %. Vous êtes alerté si un survivant gagne de la Haste à moins de 32 m.
+See How They Run (ex-PWYF)
+[2,1 %]
+Général
+(ex-Shape)
+Chaque fois que vous perdez l'Obsession en poursuite, vous gagnez un jeton (maximum
+3). Chaque jeton donne 3/4/5 % de Haste ; chaque attaque en retire un.
+Cull the Weak (ex-Dying Light)
+[2,0 %]
+Général
+(ex-Shape)
+Chaque accrochage d'un survivant autre que l'Obsession donne un jeton. Tant que
+l'Obsession est vivante, les autres réparent, soignent et sabotent 2/2,5/3 % plus
+lentement par jeton (maximum 33 %). L'Obsession décroche et soigne 33 % plus vite.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+TUEUR : TOUTES LES PERKS (TIER LIST)
+95
+
+=====PAGE 96=====
+D
+Tier D : faibles ou mèmes
+Perk
+Tueur
+Effet
+Bloodhound
+Wraith
+Les flaques de sang sont plus visibles et durent 2/3/4 s de plus.
+Shadowborn
+Wraith
+Quand vous êtes aveuglé : 6/8/10 % de Haste pendant 10 s.
+Stridor
+Nurse
+Respiration des survivants 15/20/25 % plus forte, grognements 30/40/50 % plus forts.
+Beast of Prey
+Huntress
+Quand vous gagnez du Bloodlust, vous êtes Undetectable 30/35/40 s. Il ne donne plus
+de bonus de Bloodpoints.
+Overwhelming Presence
+Doctor
+Un survivant qui utilise un objet à moins de 32 m devient Exhausted 15 s. Vous voyez
+l'aura du survivant Exhausted le plus proche 2/3/4 s. Temps de recharge 25 s.
+Monitor & Abuse
+Doctor
+Rayon de terreur +5/10/15 % en poursuite, -15/20/25 % hors poursuite.
+Cruel Limits
+Demogorgon
+Chaque générateur terminé bloque toutes les fenêtres 20/25/30 s.
+Hoarder
+Twins
+Alerte quand un survivant interagit avec un coffre ou ramasse un objet. 2 coffres en plus
+sur la carte.
+Septic Touch
+Dredge
+Un survivant qui se soigne dans votre rayon de terreur est Blind et Exhausted, pendant
+encore 20/25/30 s après l'arrêt.
+Awakened Awareness
+Mastermind
+Pendant que vous portez un survivant, vous voyez les survivants à moins de 16/18/20 m.
+Game Afoot
+Skull Merchant
+Le survivant le plus poursuivi devient l'Obsession. Casser ou frapper pendant sa
+poursuite donne 7 % de Haste pendant 8/9/10 s.
+THWACK!
+Skull Merchant
+Casser un mur ou une palette tombée fait crier les survivants proches (36 m) et les
+révèle 4/5/6 s (système de jetons).
+Leverage
+Skull Merchant
+Après un décrochage, le sauveteur soigne 20/25/30 % plus lentement pendant 60 s.
+Unbound
+Unknown
+Pendant 24/27/30 s après une blessure, chaque vault de fenêtre donne 7 % de Haste
+pendant 10 s.
+Undone
+Unknown
+Chaque skill-check raté par un survivant donne 3 jetons (maximum 18/24/30). Le
+prochain coup de pied les consomme : 1 % de perte et 1 s de blocage par jeton. Rework
+prévu en 10.2.0.
+Dark Arrogance
+Lich
+Vaults 15/20/25 % plus rapides, mais étourdissements et aveuglements 15 % plus longs.
+Hex: Wretched Fate
+Dark Lord
+Après le 1ᵉʳ générateur terminé, l'Obsession répare 27/30/33 % plus lentement.
+No Quarter
+Houndmaster
+À 75 % d'un auto-soin, skill-checks continus. Un raté donne Broken 20/25/30 s.
+Scourge Hook: Hangman's Trick
+Pig
+4 crochets Fléau. Pendant que vous portez un survivant, ceux à moins de 12/14/16 m
+d'un crochet Fléau sont révélés. Alerte en cas de sabotage.
+Hex: Overture of Doom
+Krasue
+Hex sur le générateur le plus éloigné. Après 5 s de réparation, votre rayon de terreur est
+transféré dessus et vous êtes Undetectable 20/25/30 s.
+Ravenous
+Krasue
+Au 4ᵉ jeton (1ᵉʳ accrochage de chacun des 4 survivants), tous crient et sont Exposed
+40/50/60 s. Buff prévu en 10.2.0.
+Wandering Eye
+Krasue
+Au début d'une poursuite, vous voyez les autres blessés à moins de 20 m pendant 5 s.
+Temps de recharge 40/35/30 s.
+Hex: Scared to Death
+Slasher
+S'allume après avoir accroché 3 survivants différents. Casser une palette en poursuite
+fait crier les survivants à moins de 13 m et les ralentit (Hindered 11/12/13 %, 3 s).
+Rampage
+Slasher
+Chaque palette ou mur cassé donne un jeton (maximum 13). Quand vous êtes étourdi
+ou aveuglé, +1 % de Haste par jeton pendant 13 s. Temps de recharge 30/25/20 s.
+Spies from the Shadows
+Général
+Alerte quand un survivant fait s'envoler un corbeau à moins de 20/28/36 m. Temps de
+recharge 5 s. Buff prévu en 10.2.0.
+Unrelenting
+Général
+Temps de récupération après une attaque ratée 20/25/30 % plus court.
+Bitter Murmur
+Général
+Chaque générateur terminé révèle 5 s les survivants à moins de 16 m. En fin de partie,
+tous sont révélés 5/7/10 s.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+TUEUR : TOUTES LES PERKS (TIER LIST)
+96
+
+=====PAGE 97=====
+Catégories de perks tueur
+Ralentissement des générateurs : blocages
+Corrupt Intervention, Grim Embrace, Dead Man's Switch, No Holds Barred, Thrilling Tremors, Merciless Storm, Secret
+Project, Hex: Pentimento (blocage de totems à 5 rallumés). Les blocages ne subissent pas les rendements décroissants.
+Ralentissement des générateurs : pertes instantanées (explosions)
+Pain Resonance (10/15/20 %), Pop (+15 %), Eruption (10 %), Surge (6/7/8 %), Turn Back the Clock (10 %), Hive Mind
+(6/8/10 %), Overcharge (skill-check raté), Undone. Chaque perte d'au moins 2,5 % consomme 1 des 8 « regression events »
+du générateur.
+Ralentissement des générateurs : vitesse de régression (soumis aux Diminishing
+Returns)
+Hex: Ruin, Call of Brine, Overcharge, Lay Waste, Oppression (régression multiple), Hex: Huntress Lullaby.
+Ralentissement des générateurs : vitesse d'action des survivants
+Thanatophobia, Cull the Weak, Weeping Wounds, Hex: Pentimento, Hex: Wretched Fate, Mindbreaker (indirectement),
+Distressing (à partir de 10.2.0).
+Lecture d'aura et information
+Lethal Pursuer (+2 s sur toutes les auras), Nowhere to Hide, BBQ, A Nurse's Calling, Gearhead, Discordance, Darkness
+Revealed, Floods of Rage, Celestial Witness, Friends 'til the End, Eruption, I'm All Ears, Infectious Fright, Ultimate Weapon,
+Deerstalker, Bitter Murmur, Alien Instinct, Awakened Awareness, Hangman's Trick, Human Greed, Phantom Fear,
+Wandering Eye, Predator, Zanshin Tactics, Nemesis, Face the Darkness, Hex: Retribution, Jagged Compass (générateur),
+Surveillance (générateur), Tinkerer (alerte).
+Poursuite et anti-loop
+Bamboozle, Enduring, Spirit Fury, Brutal Strength, Keep Them Waiting, Coup de Grâce, Superior Anatomy, Dark Arrogance,
+Hex: Blood Favour, Hex: Crowd Control, Dissolution, Rapid Brutality, See How They Run, Unrelenting, Fire Up, Rampage,
+Hex: Scared to Death, Hex: Nothing but Misery, Knock Out, Hubris, Unbound, Batteries Included, Hex: Under Your Thumb
+(anti-boosts de vitesse), Forced Hesitation, Help Wanted.
+Fin de partie
+NOED, Blood Warden, No Way Out, Remember Me, Terminus, Haywire, None Are Free, Rancor, Bitter Murmur, Coup de
+Grâce, Cruel Limits, Silent Shadow (Undetectable en fin de partie), Fire Up.
+Hex
+Ruin, Devour Hope, Third Seal, NOED, Thrill of the Hunt, Huntress Lullaby, Haunted Ground, Retribution, Blood Favour,
+Undying, Crowd Control, Plaything / Fortune's Fool, Pentimento, Face the Darkness, Two Can Play, Wretched Fate, Nothing
+but Misery, Overture of Doom, Hive Mind, Scared to Death, Under Your Thumb. Soit 21 Hex.
+Crochets Fléau (Scourge Hook)
+Pain Resonance, Floods of Rage, Gift of Pain / Weeping Wounds, Monstrous Shrine, Hangman's Trick, Jagged Compass. Soit
+6 perks.
+Slugging (jeu au sol) et Exposed
+Infectious Fright, Forced Hesitation, Eruption, Surge (déclenchement sur mise au sol), Starstruck, Friends 'til the End, Make
+Your Choice, Iron Maiden, Hubris, Dragon's Grip, Devour Hope, Haunted Ground, Ravenous, NOED, Knock Out (dans sa
+version 10.2.0).
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+TUEUR : TOUTES LES PERKS (TIER LIST)
+97
+
+=====PAGE 98=====
+Furtivité (Undetectable)
+Insidious, Beast of Prey, Tinkerer, Trail of Torment, Dark Devotion, Furtive Chase, Machine Learning, Unforeseen, Silent
+Shadow, Secret Project, Hex: Overture of Doom, Monitor & Abuse (partiel), Mindbreaker (aveugle les survivants).
+Transport et crochets
+Agitation, Iron Grasp, Mad Grit, Forever Entwined, Awakened Awareness, Starstruck, Ravenous (en 10.2.0).
+Contre les objets et les SWF
+Lightborn, Franklin's Demise, Overwhelming Presence, Weave Attunement, Hoarder, Shattered Hope (contre les Boons),
+Languid Touch, Spies from the Shadows.
+Ce que prépare le PTB 10.2.0 (pas encore en live)
+Buffs
+• Agitation : Haste 14/16/18 %.
+• Iron Grasp : débattement 10/11/12 % plus lent.
+• Bitter Murmur : 20 m pendant 8 s ; fin de partie 10/12/14 s.
+• Deerstalker : aura 4 s.
+• Fire Up : 6/7/8 % par jeton.
+• Game Afoot : Haste 10 %.
+• Spies from the Shadows : 36/38/40 m, temps de recharge 3 s.
+• Unbound : 5 % de Haste pendant 25 s.
+• Help Wanted et Machine Learning : jusqu'à 3 générateurs compromis.
+• Dark Arrogance : +15/20/25 % de récupération après attaque.
+• Dead Man's Switch : 30/35/40 s, déclenché après 2 s d'arrêt de réparation, avec un temps de recharge de 30/35/40 s.
+• Distressing : rayon de terreur +30 % et réparation 6/7/8 % plus lente dans le rayon.
+• Dominance : totems seulement, blocage 25 s.
+• Hex: Nothing but Misery : s'allume après 4 coups, plus 10 % de ralentissement de vault.
+• Knock Out : 10 m, Hindered 20 %.
+• Ravenous : Haste et vitesse d'accrochage +4 % par jeton, Exposed 80/85/90 s.
+• Superior Anatomy : 30/35/40 % sur plusieurs vaults pendant 10 s, temps de recharge 20 s.
+• Unrelenting : 30/35/40 % sur les ratés, +10 % sur les coups réussis.
+• Whispers : 28/26/24 m, plus 5 % de Haste en dehors de cette portée.
+Reworks
+• Hex: Thrill of the Hunt : s'allume au 1ᵉʳ accrochage ; chaque accrochage bloque les totems Hex 6/7/8 s par Hex allumé.
+• Shattered Hope : bloque les totems 16/18/20 s.
+• Undone : jetons gagnés en accrochant, puis 8/9/10 % de perte et de blocage.
+• Monstrous Shrine : régression à 150/175/200 % quand vous êtes à plus de 24 m d'un survivant accroché.
+• Insidious : Undetectable après 2 s d'immobilité, qui persiste 6/7/8 s.
+• Dissolution : déclenchée uniquement par les attaques de base.
+• Hex: Blood Favour : 32 m.
+La suite de la mise à jour vise à rééquilibrer les perks en tenant compte des rendements décroissants : 26 perks concernés
+par ce système, 23 perks généraux buffés, et 9 perks jugés « oppressifs ». Attention : ce sont des valeurs de PTB, elles
+peuvent encore changer.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+TUEUR : TOUTES LES PERKS (TIER LIST)
+98

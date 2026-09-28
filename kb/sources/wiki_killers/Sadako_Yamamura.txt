@@ -1,0 +1,2559 @@
+# Sadako Yamamura
+Source: https://deadbydaylight.wiki.gg/wiki/Sadako_Yamamura (page complète via API, consultée le 27/09/2026)
+
+The Onryō
+
+Name
+
+Sadako Yamamura
+
+Game Alias(es)
+
+"山村 貞子"
+
+Gender
+
+Woman
+
+Origin
+
+Japanese
+
+Power
+
+Deluge of Fear
+
+Power 
+Attack
+ Type
+
+Basic Attack
+
+Weapon
+
+Ring of Fury
+
+Movement Speed
+
+115 % 
+|
+ 4.6 m/s
+
+Terror Radius
+
+24 metres
+
+Lullaby
+ Radius
+
+24 metres (
+Otherworld
+)
+
+Height 
+
+Short
+
+DLC
+
+Sadako Rising
+
+Voice Actor
+
+None
+
+Cost
+
+500 
+Auric Cells
+
+Menu Music
+
+Terror Radius Music
+
+Lullaby
+
+Metadata
+
+CharID
+
+K27
+
+Sadako Yamamura
+ (Japanese: 山村 貞子) or 
+"The Onryō"
+ is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+She was introduced as the Killer of 
+Sadako Rising
+, a Chapter DLC released on 8 March 2022.
+
+She originates from the 1998 Horror movie 
+Ring
+ (Japanese: リング, 
+Ringu
+).
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: Ring of Fury
+
+3.3
+ 
+Power: Deluge of Fear
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for Deluge of Fear
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Default
+
+5.2
+ 
+Prestige
+
+5.2.1
+ 
+Perk Charms
+
+5.2.2
+ 
+Prestige Badges
+
+5.3
+ 
+In-Game Store
+
+6
+ 
+DLC
+
+7
+ 
+History
+
+7.1
+ 
+Up to Patch 7.1.0
+
+7.2
+ 
+Up to Patch 7.5.0
+
+8
+ 
+Change Log
+
+9
+ 
+Trivia
+
+9.1
+ 
+General
+
+9.2
+ 
+Cursed Video
+
+9.3
+ 
+Lobby Jump-Scare
+
+9.4
+ 
+Lullaby
+
+9.5
+ 
+Origin
+
+9.6
+ 
+Kanji Characters
+
+9.7
+ 
+Memento Mori
+
+10
+ 
+References
+
+11
+ 
+Gallery
+
+11.1
+ 
+In-game Assets
+
+11.2
+ 
+Outfits
+
+11.3
+ 
+Concept Art
+
+11.4
+ 
+Screenshots
+
+Overview
+
+Capable of condemning Survivors to death through a powerful cursed videotape, Sadako’s wrath is inevitable. Her presence conjures several televisions, through which she can teleport and emerge with malevolent purpose. The fleeting glimpse of her approach ensures that a chilling fate is not far behind.
+
+Imbued with the power of Nensha, 
+The Onryō
+ is able to silently and invisibly traverse the Realm, manifesting when she is ready to strike.
+
+Her personal Perks, 
+Scourge Hook: Floods of Rage
+, 
+Call of Brine
+, and 
+Merciless Storm
+, allow her to expose hidden Survivors, survey Generators, and hamper repair progress.
+
+Lore
+
+A powerful and lethal onryō, Sadako Yamamura was the daughter of a famed seer from Izu Oshima, Japan.
+
+Her mother left many questions unanswered. In her hometown, sailors disliked the way her mother would spend days on the beach, her eyes fixed on the foaming waves of the sea. Some said, frolic in brine, goblins be thine--if you keep playing in the water, the monster will come for you.
+
+Nine months later, Sadako was born. As a child, her immense powers seemed impossible to control and flared in anger. This became apparent when she was unable to control her rage during a public demonstration of her mother’s powers. When a journalist called her mother a fraud, Sadako’s powers surged, and the journalist collapsed on the floor, struck dead.
+
+Then everything went wrong. Her mother passed away and shortly after Sadako was lured to an old, crumbling well. As she leaned over the rim, a long shadow fell over her. She turned and a sudden jolt of pain hit her over the head, cracking it open. Her vision dimmed and her mind swirled into unconsciousness. She felt two hands pushing her over the rim.
+
+Pain exploded in her skull as she hit the cold ground. A grinding noise came from above and the well darkened, all light obscured like a midday eclipse.
+
+Every inch of her body screamed in pain. Looking up, she saw the only way out. She dug her nails into the muddy ground and slowly crawled toward the cobbled wall. She gripped the stones to climb but had neither hold nor strength. Each time she clawed up a few inches, her nails slid against the wet wall and she slipped down. Her fingers gushed with blood as the coarse cobblestone tore off her nails and lacerated the flesh underneath. And yet she tried, again and again.
+
+Decades later, the meadow became a resort, and a log cabin was built above the well. When a visitor rented the cabin, Sadako found an opportunity for revenge. She summoned all her nensha power and projected a terrible curse on a videotape that killed its viewer after seven days.
+
+Her wrath was like the tides of a stormy sea, violent and unforgiving. As she plunged into a fury, a dark fog coiled at her feet. The sound of crashing waves echoed through the old stone well.
+
+Suddenly, a tidal surge came crashing down on the cabin's walls, wrecking its logs into a torrent of mud and filth. The black current flooded the well underneath and swallowed Sadako at once.
+
+When she opened her eyes, she stood on a desolate beach facing a vast, stormy ocean. A thick, black fog caressed the water's surface.
+
+Sadako walked into a coming wave and slowly disappeared into the opaque fog.
+
+Load-out
+
+Unique Perks
+
+The Onryō
+ comes with 
+3
+ 
+Perks
+ that are unique to her:
+
+ 
+
+Call of Brine
+
+"Your psychic abilities influence technology in devastating ways."
+
+After performing the 
+Damage Generator
+ action on a 
+Generator
+, 
+Call of Brine
+ applies its effects to it for 
+90 seconds
+:
+
+Increases
+ its Regression speed to 
+130
+/
+140
+/
+150
+ 
+%
+ of the default value.
+
+Highlights its 
+Aura
+ to you in 
+yellow
+.
+
+Triggers a 
+Loud Noise Notification
+ whenever a Survivor succeeds a 
+Good Skill Check
+ while repairing it.
+
+ 
+
+Merciless Storm
+
+"Your horrible trauma is felt by everyone."
+
+Whenever a 
+Generator
+ reaches 
+90 %
+ of Repair progression, 
+Merciless Storm
+ triggers its effect:
+
+All Survivors repairing that 
+Generator
+ are faced with a continuous stream of 
+Skill Checks
+ until the 
+Generator
+ is completed.
+
+If any contributing Survivor fails a 
+Skill Check
+ or interrupts the action by any means, The 
+Entity
+ blocks the 
+Generator
+ for 
+16
+/
+18
+/
+20
+ 
+seconds
+.
+
+Merciless Storm
+ can only trigger once per 
+Generator
+ per Trial.
+
+ 
+
+Scourge Hook: Floods of Rage
+
+"You form a psychic connection with 
+The Entity
+ and alter the rules of the Trial."
+
+At the start of the Trial, 
+4
+ 
+Hooks
+ in the environment are changed into 
+Scourge Hooks
+:
+
+The 
+Auras
+ of these 
+Scourge Hooks
+ are highlighted in 
+white
+.
+
+Each time a Survivor is unhooked from a 
+Scourge Hook
+, the following effects apply:
+
+The Auras of all other Survivors are revealed for 
+5
+/
+6
+/
+7
+ 
+seconds
+.
+
+Prestige
+
+Prestiging 
+The Onryō
+ will automatically add 
+Tier I
+ of her Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Onryō
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: Ring of Fury
+
+The Ring of Fury
+ is the Primary Weapon of 
+The Onryō
+.
+Her thirst for vengeance remained and nothing could stop her flooding rage.
+
+Power: Deluge of Fear
+
+"Through the medium of a mysterious videotape, Sadako spreads her curse to unwitting viewers and causes their untimely deaths."
+SPECIAL ABILITY: DELUGE OF FEAR
+The Onryō
+ starts the Trial in the 
+Demanifested State
+, which has the following effects:
+
+Grants the 
+Undetectable
+ 
+Status Effect
+.
+
+This effect lingers for 
+1 second
+ after 
+Manifesting
+.
+
+Fully invisible to Survivors who are farther than 
+24 metres
+ away from her.
+
+Intermittently invisible to Survivors who are within 
+24 metres
+ of her.
+
+This effect lingers for 
+4 seconds
+ after 
+Manifesting
+.
+
+Removes
+ the ability to attack or interact with Survivors.
+
+The Onryō
+ is still able to interact with Props.
+
+The Onryō
+ cannot be stunned by 
+Pallets
+.
+
+SPECIAL ABILITY: MANIFESTATION / DEMANIFESTATION
+Press the 
+Power button
+ while 
+Demanifested
+ to 
+Manifest
+ and be able to attack and interact with Survivors.
+Press the 
+Power button
+ while 
+Manifested
+ to 
+Demanifest
+ again.
+SPECIAL PROP: TV
+TVs
+ spawn randomly throughout the environment.
+They are turned off at the start of the Trial, but turn on automatically after 
+30 seconds
+.
+They become turned off for 
+70 seconds
+ after a Survivor inserts a 
+VHS Tape
+ or for 
+45 seconds
+ after 
+The Onryō
+ projects through it.
+
+TVs
+ have an 
+Area of Effect
+ of 
+16 metres
+ around them within which they apply 
+Condemned
+ and any other applicable effects.
+SPECIAL LOCOMOTION: PROJECTION
+Press the 
+Secondary Power button
+ while 
+Demanifested
+ to project yourself to any powered 
+TV
+ in the environment.
+If the Power Gauge is full when projecting, all Survivors within the 
+Area of Effect
+ of any powered 
+TV
+ receive 
++1 Stack
+ of 
+Condemned
+.
+
+After a 
+Projection
+, her Movement speed is 
+increased
+ to 
+6.9 m/s
+ for 
+2 seconds
+.
+SPECIAL AFFLICTION: CONDEMNED
+Interacting with the Power of 
+The Onryō
+ causes Survivors to gain 
+Condemned
+, slowly filling their 
+Condemned Meter
+.
+Hooking a Survivor locks in some of their 
+Condemned
+ making the affected Stacks impossible to remove:
+
+The first time being hooked locks in all current 
+Condemned
+ up to 
+3 Stacks
+, leaving a minimum of 
+4 Stacks
+ empty.
+
+The second time being hooked locks in all current 
+Condemned
+ up to 
+6 Stacks
+, leaving a minimum of 
+1 Stack
+ empty.
+
+Once the 
+Condemned Meter
+ is full at 
+7 Stacks
+, they are in mortal danger from the 
+Inexorable Stare
+.
+SPECIAL INTERACTION: INEXORABLE STARE
+Upon reaching full 
+Condemned
+ the affected Survivors triggers 
+Killer Instinct
+ for 
+6 seconds
+.
+Press the 
+Secondary Power button
+ while standing over a downed and fully 
+Condemned Survivor
+ to execute them on the spot, performing a 
+Mini-Mori
+.
+SPECIAL INTERACTIONS: RETRIEVING TAPE / TURNING OFF TV
+Survivors can walk up to any powered 
+TV
+ and interact with it to retrieve its 
+Cursed Tape
+, which temporarily turns it off and prevents 
+The Onryō
+ from projecting to it.
+
+Inserting the 
+Cursed Tape
+ into a different 
+TV
+ spreads the message of 
+The Onryō
+ and removes 
+-3 Stacks
+ of 
+Condemned
+.
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Walking while 
+Manifesting
+: 
+4.0 m/s
+
+Walking in general: 
+4.6 m/s
+
+Walking while 
+Demanifesting
+: 
+4.6 m/s
+
+Walking after 
+Projection
+: 
+6.9 m/s
+ for 
+2 seconds
+
+Condemned:
+
+Activation threshold: 
+7 Stacks
+
+At this point, Survivors will have filled their 
+Condemned Meter
+.
+
+Stacks gained from hooking a Survivor with a 
+Cursed Tape
+: 
++1 Stack
+
+This only applies to the other Survivors and only when using the 
+Ring Drawing
+ Add-on.
+
+Stacks gained from 
+Projection
+: 
++1 Stack
+
+This only applies to Survivors who are within 
+16 metres
+ of any powered 
+TV
+.
+
+Stacks gained from turning off a 
+TV
+: 
++1 Stack
+
+Stacks gained from retrieving a 
+Cursed Tape
+ from a 
+TV
+: 
++0 Stacks
+
+Stacks lost from inserting a 
+Cursed Tape
+ into a 
+TV
+: 
+-3 Stacks
+
+Duration of 
+Killer Instinct
+ when fully 
+Condemned
+: 
+6 seconds
+
+Passive Condemned (unused mechanic):
+
+Stacks gained passively while carrying a 
+Cursed Tape
+: 
++0 Stacks per second
+
+Paused while being chased.
+
+Pause-Buffer after a Chase: 
+16 metres
+
+If the Killer remained within that range after ending a Chase, 
+Passive Condemned
+ would remain paused.
+
+Delay timer after Pause-Buffer is exceeded: 
+6 seconds
+
+If the Killer remained outside the Pause-Buffer for this long, 
+Passive Condemned
+ would resume.
+
+TVs:
+
+Minimum distance for the farthest 
+TV
+: 
+32 metres
+
+Maximum distance for the farthest 
+TV
+: 
+76 metres
+
+Area of Effect
+ radius: 
+16 metres
+
+This radius (around powered 
+TVs
+ only) is used to apply global 
+Condemned
+ after 
+Projection
+ as well as apply any other effects from Add-ons.
+
+Turned-off duration from Survivors: 
+70 seconds
+
+Turned-off duration from 
+Cursed Tape
+ insertion:  
+70 seconds
+
+Turned-off duration at start of Trial: 
+30 seconds
+
+Turned-off duration from 
+Projection
+: 
+45 seconds
+
+Turn-off Interaction time: 
+0.5 seconds
+
+Retrieve/insert 
+Cursed Tape
+ Interaction time: 
+1 second
+
+Distance to play 
+Cursed Tape
+ VFX: 
+16 metres
+
+This refers to how close a Survivor must be for the TV to start playing the 
+Tape
+.
+
+Distance threshold to 
+Generators
+: 
+16 metres
+
+If a 
+TV
+ spawns within this threshold, the Game will attempt to spawn the next TV further away than usual.
+
+Repower all 
+TVs
+ if the last one is turned off: 
+disabled feature
+
+This mechanic would work similarly to how The 
+Plague
+ automatically receives 
+Corrupt Purge
+ if all 
+Pools of Devotion
+ become corrupted.
+
+Projection:
+
+Interaction time: 
+0.3 seconds
+
+The Onryō
+ must press the button to activate 
+Projection
+ for this long to commit to a teleport.
+
+Teleport duration: 
+2.7 seconds
+
+Cancellation Cool-down duration: 
+0.5 seconds
+
+Maximum angle: 
+45 °
+
+Lingering 
+Undetectable
+ Status Effect
+ duration: 
+1 second
+
+Power Gauge Recharge time: 
+disabled feature
+
+This mechanic had 2 iterations. The first iteration was used during Patch 7.1.0 to Patch 7.4.2 in which it would simply disable the use of 
+Projection
+ before the Power Gauge is fully recharged. The second iteration was briefly used during Patch 7.5.0 in which it would allow the usage of 
+Projection
+ for mobility even if the Power Gauge is recharging by not applying any 
+Condemned
+ after a 
+Projection
+ as a trade-off.
+
+The Recharge time was 
+10 seconds
+ for both iterations.
+
+Otherworld:
+
+Charge time for 
+Manifestation
+ and 
+Demanifestation
+: 
+1.5 seconds
+
+Cool-down duration of 
+Demanifestation
+: 
+1.25 seconds
+
+Lingering Flicker-State duration: 
+4 seconds
+
+Maximum Visibility distance for Survivors: 
+24 metres
+
+Beyond this range, 
+The Onryō
+ is completely invisible to Survivors.
+
+Flickering:
+
+Otherworld Visible duration: 
+1.5 seconds
+
+Otherworld Invisible duration: 
+1.2 seconds
+
+Lingering Visible duration: 
+0.5 seconds
+
+Lingering Invisible duration: 
+0.75 seconds
+
+Unused
+ - Phasing Through Objects:
+
+Data for this unused mechanic was added in 
+Patch 7.1.0
+, simply titled "Phasing Through Objects" internally. Based on the title, it likely would've allowed 
+The Onryō
+ to phase through gameplay props while 
+Demanifested
+.
+
+Phasing
+ slowdown duration when 
+Phasing
+ is started: 
+0.1 seconds
+
+Phasing
+ slowdown duration when 
+Phasing
+ is ended: 
+1 second
+
+Phasing
+ movement speed multiplier: 
+x0.75
+
+Add-ons for Deluge of Fear
+
+Icon
+
+Name
+
+Description
+
+Cabin Sign
+
+The cabin where both Tomoko and Reiko watched the tape.
+Carries the memory of those first curses.
+
+Reduces
+ the time it takes for 
+TVs
+ to turn back on after 
+Projection
+ by 
+-4.5 seconds
+.
+
+Mother's Mirror
+
+A mirror from Sadako's mother's house.
+A reminder of what Sadako has lost.
+
+Increases
+ the duration of your intermittent Invisibility after 
+Manifesting
+ by 
++2 seconds
+.
+
+Old Newspaper
+
+It tells of a local woman who predicted a volcanic eruption, evidence used to initially find Sadako.
+
+Increases
+ the duration of your full Invisibility after 
+Manifesting
+ by 
++33 %
+.
+
+Videotape Copy
+
+A copy of the deadly videotape imprinted upon by Sadako.
+It dampens the desire for vengeance.
+
+Extends
+ the radius around 
+TVs
+ within which Survivors gain 
+Condemned
+ from 
+Projection
+ by 
++2 metres
+.
+
+Clump of Hair
+
+Once beautiful and long, Sadako now hides behind her ragged, matted locks.
+
+Reduces
+ the threshold for full Invisibility while 
+Demanifested
+ by 
+-6 metres
+.
+
+Reiko's Watch
+
+The watch that Reiko left her son Yoichi.
+A distracting and constant reminder of one's impending doom.
+
+Increases
+ the duration of your full Invisibility while 
+Demanifested
+ by 
++25 %
+.
+
+Sea-Soaked Cloth
+
+The hood worn by the mysterious figure in the tape.
+Makes those near it unable to trust what they see.
+
+Survivors suffer from the 
+Blindness
+ 
+Status Effect
+ when within 
+8 metres
+ of powered 
+TVs
+.
+
+This effect lingers for 
+7 seconds
+ after turning off a 
+TV
+.
+
+Well Stone
+
+A piece of the well where Sadako was trapped, an image burned into the mind of all those who have watched the tape.
+
+Reduces
+ the time it takes for 
+TVs
+ to turn back on after being turned off by a  
+Survivor
+ by 
+-7 seconds
+.
+
+Yoichi's Fishing Net
+
+The net Yoichi used while fishing with his grandfather.
+A reminder that death comes to us all.
+
+Survivors suffer from the 
+Blindness
+ 
+Status Effect
+ after acquiring at least 
+4 Stacks
+ of 
+Condemned
+.
+
+Bloody Fingernails
+
+Sadako's bloody fingernails, lost as she tried to claw her way out of the well.
+Evidence of her single-minded need to kill.
+
+Increases
+ the Speed Boost duration after 
+Projection
+ by 
++50 %
+.
+
+Mother's Comb
+
+The comb Sadako's mother used in the tape.
+Sadako's psychic abilities are enhanced when she focuses on it.
+
+Highlights the 
+Auras
+ of all turned-off 
+TVs
+ in 
+yellow
+.
+
+Causes 
+TVs
+ being turned off to trigger a 
+Loud Noise Notification
+.
+
+Rickety Pinwheel
+
+A pinwheel found in the caves of Izu Oshima.
+It spins even when there is no wind, disorienting those who see or hear it.
+
+Survivors suffer from the 
+Oblivious
+ 
+Status Effect
+ when within 
+8 metres
+ of powered 
+TVs
+.
+
+This effect lingers for 
+7 seconds
+ after turning off a 
+TV
+.
+
+Ring Drawing
+
+A drawing of the view from inside the well, as drawn by a young Yoichi.
+Helping those cursed by the tape can only bring misfortune.
+
+Hooking a Survivor carrying a 
+VHS Tape
+ causes all other Survivors to gain 
++1 Stack
+ of 
+Condemned
+.
+
+Well Water
+
+Water from the well where Sadako was left to die.
+Murky and black, it obscures everything around it.
+
+Increases
+ the duration of the 
+Undetectable
+ 
+Status Effect
+ by 
++2 seconds
+ after 
+Manifesting
+ by any means.
+
+Distorted Photo
+
+Those who have watched the tape find all photos of themselves distorted, a reminder of their impending doom.
+
+Causes all Survivors within 
+16 metres
+ of your location who witness your 
+Manifestation
+ to scream and reveal their 
+Auras
+ for 
+4 seconds
+.
+
+"Why is it only you were saved?" — Sadaoka Yamamura
+
+Tape Editing Deck
+
+The editing deck used by Reiko and Ryuji to analyse and copy the tape.
+Copying and sharing the tape is the only way to survive the curse.
+
+Causes all Survivors start the Trial with a 
+VHS Tape
+.
+
+All Survivors must bring their 
+VHS Tape
+ to the 
+TV
+ that is farthest from their current location.
+
+The 
+Auras
+ of Survivors inserting a 
+VHS Tape
+ into a 
+TV
+ are revealed to you for 
+6 seconds
+.
+
+"Frolic in brine, goblins be thine." — Message hidden in Sakado's Tape
+
+Telephone
+
+After watching the video, victims receive a phone call.
+They are frozen in fear as they realise they have seven days left to live.
+
+Survivors suffer from a 
+-3 %
+ 
+Hindered
+ 
+Status Effect
+ for 
+3 seconds
+ when 
+Manifesting
+ within 
+7 metres
+ of them.
+
+"I saw a weird video the other day... after it ended, someone called us. Some kind of prank call." — Tomoko Oishi
+
+VCR
+
+The original VCR that played Sadako's Tape.
+It is still warm to the touch.
+
+Causes all 
+TVs
+ to play the 
+Projection Effects
+ when using 
+Projection
+.
+
+Iridescent Videotape
+
+The original tape containing Sadako's curse.
+
+Projection
+ no longer turns off 
+TVs
+, but also no longer applies any 
+Condemned
+.
+
+Increases
+ the time required for 
+TVs
+ to turn back on after having been turned off by Survivors by 
++20 %
+.
+
+"That video... It's not of this world. It's Sadako's rage." — Ryuji Takayama
+
+Remote Control
+
+A remote for the VCR at the cabin.
+It allows Sadako to focus on those enemies at a distance.
+
+The 
+Auras
+ of all Survivors within 
+12 metres
+ of powered 
+TVs
+ are revealed to you for 
+7 seconds
+ after using 
+Projection
+.
+
+"She killed a man just by willing him dead. That's power of a different order from her mother." — Ryuji Takayama
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There are 
+2
+ Achievements related to 
+The Onryō
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Onryō
+
+Playing as The 
+Onryō
+, achieve a 
+Merciless Victory
+ using only her 
+3
+ Unique Perks: 
+Scourge Hook: Floods of Rage
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"You form a psychic connection with 
+The Entity
+ and alter the rules of the Trial."
+
+At the start of the Trial, 
+4
+ 
+Hooks
+ in the environment are changed into 
+Scourge Hooks
+:
+
+The 
+Auras
+ of these 
+Scourge Hooks
+ are highlighted in 
+white
+.
+
+Each time a Survivor is unhooked from a 
+Scourge Hook
+, the following effects apply:
+
+The Auras of all other Survivors are revealed for 
+5
+/
+6
+/
+7
+ 
+seconds
+.
+
+, 
+Call of Brine
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Your psychic abilities influence technology in devastating ways."
+
+After performing the 
+Damage Generator
+ action on a 
+Generator
+, 
+Call of Brine
+ applies its effects to it for 
+90 seconds
+:
+
+Increases
+ its Regression speed to 
+130
+/
+140
+/
+150
+ 
+%
+ of the default value.
+
+Highlights its 
+Aura
+ to you in 
+yellow
+.
+
+Triggers a 
+Loud Noise Notification
+ whenever a Survivor succeeds a 
+Good Skill Check
+ while repairing it.
+
+, and 
+Merciless Storm
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Your horrible trauma is felt by everyone."
+
+Whenever a 
+Generator
+ reaches 
+90 
+ of Repair progression, 
+Merciless Storm
+ triggers its effect:
+
+All Survivors repairing that 
+Generator
+ are faced with a continuous stream of 
+Skill Checks
+ until the 
+Generator
+ is completed.
+
+If any contributing Survivor fails a 
+Skill Check
+ or interrupts the action by any means, The 
+Entity
+ blocks the 
+Generator
+ for 
+16
+/
+18
+/
+20
+ 
+seconds
+.
+
+Merciless Storm
+ can only trigger once per 
+Generator
+ per Trial.
+
+.
+
+Viral Video
+
+Inflict Survivors with 
+Condemned
+ a total of 
+30 times
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Onryō
+:
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Sadako Yamamura
+
+Common
+
+A powerful and unforgiving onryō, Sadako Yamamura sought revenge for her tragic end.
+
+White Gown
+
+Common
+
+A white dress soiled by mud and water.
+
+Ring of Fury
+
+Common
+
+Her thirst for vengeance remained and nothing could stop her flooding rage.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Bloody Sadako
+
+Rare
+
+A deadly and terrifying onryō, Sadako Yamamura sought revenge for her tragic end.
+
+Prestige Level 6 Reward
+
+Carnage Dress
+
+Rare
+
+A white dress soiled by blood and water.
+
+Prestige Level 5 Reward
+
+Ring of Blood
+
+Rare
+
+Her thirst for vengeance was insatiable.
+
+Prestige Level 4 Reward
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+Her wrath was like the tides of a stormy sea.
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Swollen Excrescence
+
+HALLOWED BLIGHT
+
+24 October 2023 (Tuesday)
+
+Description
+
+Boils spread beneath her rotting skin due to over-injection.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Cranial Growth
+
+HALLOWED BLIGHT
+
+A golden protuberance emerged on the side of her head.
+
+Piece
+
+Name
+
+Collection
+
+Torn Membrane
+
+HALLOWED BLIGHT
+
+Her skin was oozing with excess serum.
+
+Piece
+
+Name
+
+Collection
+
+Infected Ring
+
+HALLOWED BLIGHT
+
+The serum corrupted the ring, creating incandescent ripples on its edges.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Deadly Equinox
+
+Days Gone By
+
+26 June 2024 (Wednesday)
+
+Description
+
+Down in the depths of her prison, Sadako thought she could see bright red flowers growing from the muddy ground.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Crimson Bloom
+
+Days Gone By
+
+Soon she would be one with these flowers; the thought was both terrifying and comforting.
+
+Piece
+
+Name
+
+Collection
+
+Infested Gown
+
+Days Gone By
+
+Crimson blossoms would sprout through her skin as nature reclaimed her dead body.
+
+Piece
+
+Name
+
+Collection
+
+Swarming Flower Ring
+
+Days Gone By
+
+Petals would spread around the ring in a deadly wreath. She closed her eyes and waited.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Rotten Remains
+
+Bottomless Well
+
+08 March 2022 (Tuesday)
+
+Description
+
+She dug her nails into the muddy ground and slowly crawled toward the cobbled wall inside the well. She gripped the stones to climb but had no hold or strength.
+
+1296
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Mucky Hair
+
+Bottomless Well
+
+A pile of muddy, grime dripping hair.
+
+Piece
+
+Name
+
+Collection
+
+Decomposing Dress
+
+Bottomless Well
+
+A muddy and moldy dress in tatters.
+
+Piece
+
+Name
+
+Collection
+
+Ring of Vengeance
+
+Bottomless Well
+
+A grinding noise came from above and the well darkened, all light obscured like an eclipse in midday.
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Onryō
+ is part of 
+1
+ DLC:
+
+Sadako Rising
+
+History
+
+Up to 
+Patch 7.1.0
+
+Survivors would passively gain 
+Condemned
+ from carrying 
+Cursed Tapes
+ (see 
+Passive Condemned
+ in 
+Power Trivia
+).
+
+Survivors could close any powered 
+TV
+, but it would 
+increase
+ their 
+Condemned
+ by 1 (reinstated in Patch 7.5.0).
+
+Only inserting the tape into the highlighted 
+TV
+ would 
+reduce
+ their 
+Condemned
+ (reinstated in Patch 7.5.0).
+
+Survivors would only gain 
+Condemned
+ when within 
+16 metres
+ of a 
+TV
+ being teleported to during 
+Projection
+.
+
+Up to 
+Patch 7.5.0
+
+Survivors would receive 
++¾ Stacks
+ of 
+Condemned
+ from 
+Projection
+ anywhere on the Map if they did not carry a 
+Cursed Tape
+, which would shield them.
+
+There was a Cool-down of 
+10 seconds
+ to using 
+Projection
+.
+
+Survivors could insert 
+Cursed Tapes
+ into any nearby 
+TV
+ to lose 
+Condemned
+, unless a specific Add-on was equipped that forced them to insert it into a specific 
+TV
+.
+
+Hitting Survivors holding a 
+Cursed Tape
+ destroys it and gives 
++2 Stacks
+ of 
+Condemned
+.
+
+Change Log
+
+Patch 6.6.0
+Patch 7.1.0
+Patch 7.1.1
+Patch 7.5.0
+Patch 7.5.1
+Patch 6.6.0
+
+Quality of Life
+: removed the HUD elements when using the 
+Inexorable Stare
+ to allow for a more cinematic experience when killing Survivors this way.
+Patch 7.1.0
+
+Rework
+:
+ reworked 
+Deluge of Fear
+ to make 
+The Onryō
+ more terrifying to deal with.
+
+Buff
+: 
+Projecting
+ to a 
+TV
+ now applies 
+Condemned
+ to all Survivors not holding a 
+VHS Tape
+ instead of them being near a powered 
+TV
+.
+
+Buff
+: reduced the Cool-down duration of 
+TVs
+ turned-off from 
+Projection
+ from 
+100 seconds
+ to 
+45 seconds
+.
+
+Buff
+: injuring a Survivor carrying a 
+VHS Tape
+ destroys the tape and applies 
+Condemned
+.
+
+Buff
+: 
+The Onryō
+ cannot be stunned by any means while 
+Demanifested
+.
+
+Nerf
+:
+ 
+Projecting
+ to a 
+TV
+ only applies 
+0.75 Stacks
+ of 
+Condemned
+ instead of an entire stack.
+
+Nerf
+:
+ 
+Projecting
+ to a 
+TV
+ now has a base Cool-down of 
+10 seconds
+.
+
+Nerf
+:
+ increased the Cool-down duration of 
+TVs
+ turned off by Survivors from 
+60 seconds
+ to 
+70 seconds
+.
+
+Nerf
+:
+ Survivors no longer acquire or passively gain 
+Condemned
+ when retrieving and carrying a 
+VHS Tape
+.
+
+Nerf
+:
+ 
+VHS Tapes
+ can now be inserted into any 
+TV
+ to lose 
+Condemned
+.
+
+Change
+:
+ received an Add-on Pass, which brings her strongest and her weakest Add-ons in line with the rest.
+
+Change
+:
+ added a static visual effect after killing Survivors with 
+Inexorable Stare
+.
+
+Change
+:
+ chases no longer trigger while 
+The Onryō
+ is 
+Demanifested
+, allowing her to be harder to track, but at the cost of no longer building 
+Bloodlust
+.
+Patch 7.1.1
+
+Change
+:
+ added a static visual effect and SFX when avoiding Pallet stuns while 
+Demanifested
+.
+Patch 7.5.0
+
+Rework
+:
+ reworked 
+Deluge of Fear
+ again to partially restore her original, more strategic gameplay, while keeping 
+Condemned
+ more prominent:
+
+Buff
+: 
+Condemned
+ is now partially locked-in upon being hooked, making the locked-in part of the meter impossible to remove.
+
+First time being hooked locks in all current 
+Condemned
+ up to 
+2 Stacks
+.
+
+Second time being hooked locks in all current 
+Condemned
+ up to 
+4 Stacks
+.
+
+Buff
+: increased the duration of full Invisibility while 
+Demanifested
+ from 
+1 second
+ to 
+1.2 seconds
+.
+
+Buff
+: Survivors are now forced to bring their 
+Cursed Tape
+ to a specific 
+TV
+.
+
+Nerf
+:
+ 
+Condemned
+ gained from 
+Projection
+ is no longer global, but restricted to a radius of 
+16 metres
+ around all powered 
+TVs
+.
+
+Nerf
+:
+ added a Cool-down to the Power Gauge that does not affect 
+Projection
+ itself, but its ability to apply 
+Condemned
+ when used.
+
+Nerf
+:
+ reduced the Interaction time with 
+TVs
+ for Survivors from 
+2 seconds
+ to 
+1 second
+.
+
+Nerf
+:
+ 
+TVs
+ now have VFX indicating their range when powered.
+
+Reversal
+:
+ removed the previously added Cool-down to using 
+Projection
+.
+
+Reversal
+:
+ 
+Cursed Tapes
+ no longer offer protection from 
+Condemned
+ while holding them.
+
+Reversal
+:
+ Survivors no longer gain 
+Condemned
+ if hit when holding a 
+Cursed Tape
+.
+
+Reversal
+:
+ 
+Projection
+ once again applies 
+1 Stack
+ of 
+Condemned
+.
+
+Reversal
+:
+ chases once again trigger while 
+The Onryō
+ is 
+Demanifested
+, as it made it too obvious when she transitioned states mid-Chase.
+Patch 7.5.1
+
+Buff
+: increased the number of locked-in 
+Condemned
+ by 
++1 Stack
+ each:
+
+First time being hooked locks in all current 
+Condemned
+ up to 
+3 Stacks
+.
+
+Second time being hooked locks in all current 
+Condemned
+ up to 
+6 Stacks
+.
+
+Buff
+: increased the duration of the Movement Speed boost after 
+Projection
+ from 
+1.5 seconds
+ to 
+2 seconds
+.
+
+Buff
+: increased the Movement speed while 
+Manifesting
+ from 
+3.68 m/s
+ to 
+4 m/s
+.
+
+Reversal
+:
+ removed the previously added Cool-down to the Power Gauge that affected the application of 
+Condemned
+ when using 
+Projection
+.
+
+Trivia
+
+General
+
+The Onryō
+ can still be blinded by Survivors when she is 
+Demanifested
+.
+
+Score Events that require a recent 
+Manifestation
+ to trigger track that state for 
+8 seconds
+
+The Onryō
+ is the first Killer to be of short height, with the previous shortest Killers being considered of average height.
+
+The Onryō's
+ last name, 
+Yamamura (山村)
+, consists of the characters 
+yama (山)
+, meaning "mountain", and 
+mura (村)
+, meaning "town" or "village". As such, her last name can be roughly translated to "Mountain Village".
+
+The Onryō
+ is the first and to date only Killer to not injure Survivors with a physical weapon or her bare fists, instead conjuring a Kanji glyph which she projects forward to injure Survivors with.
+
+The Onryō
+ is the second Killer to not physically interact with the environment or Survivors, relying solely on her telekinetic abilities or her Kanji glyph.
+
+The Onryō
+ is the second Killer to use telekinesis to perform interactions.
+
+The Onryō
+ is the fourth Killer to have a Lullaby, which is active whenever she is 
+Demanifested
+.
+
+The Onryō
+ has a unique breathing sound which resembles ocean waves. This is a reference to her supposed biological father, a malevolent entity which lives in the ocean.
+
+According to 
+Nicolas Cage
+ during Summer Game Fest 2023, 
+The Onryō
+ is one of the reasons 
+Nicolas Cage
+ became interested in a collaboration with 
+Behaviour Interactive
+, with horror being his favourite genre.
+
+Purchasing the "Sadako Rising" DLC or 
+The Onryō
+ through the in-game store will start a hidden one week timer. After this timer is up, a special video will play when loading up the game, referencing the cursed video from the films.
+
+The Onryō
+ is one of just a few Killers with the base-kit ability to kill Survivors using her Power and the currently only killer able to kill with 0 hook states.
+
+The Onryō
+ is the third Japanese killer added to Dead by Daylight
+
+Cursed Video
+
+The 
+Cursed Video
+ plays on a 
+TV
+ whenever a Survivor is within 
+16 metres
+ of it, otherwise it just plays static.
+This can be used to gauge a Survivor's whereabouts if they are stealthy.
+
+Lobby Jump-Scare
+
+When idling in the menu or levelling up her Bloodweb, 
+The Onryō
+ will occasionally jump-scare the Player by swiftly teleporting up close to the camera and staring at the Player.
+
+If the Player turns 
+The Onryō
+ around to prevent the jump-scare, she will instantly turn herself back to face the camera for the jump-scare, then return to the position the Player left her facing.
+
+Lullaby
+
+The Onryō's
+ Lullaby has directional audio, which is unique as most Lullabies are non-directional.
+[
+1
+]
+
+Although coded as a Lullaby, it acts as a directional audio cue for when she is 
+Demanifested
+ and 
+Undetectable
+.
+
+Origin
+
+BHVR confirmed that the 1998 movie and its sequel, were their only source of inspiration for the creation of 
+Sadako Rising
+ and its content, the novel from 1991 had no influence on it and any aspects from it are considered non-canon for 
+Dead by Daylight
+[
+2
+]
+.
+
+Kanji Characters
+
+The Kanji glyph in her default outfits is 
+呪
+, meaning 
+"Curse"
+.
+
+The Kanji glyph in her 
+Rotten Remains
+ outfit is 
+恨
+, meaning 
+"Resentment"
+.
+
+The Kanji glyph in her Blighted outfit is 
+怨
+, meaning 
+"Grudge, Resentment, or Jealousy"
+.
+
+The Kanji glyph in her Deadly Equinox outfit is 
+華
+, meaning 
+"Flower"
+.
+
+Memento Mori
+
+The Onryō
+, in a technical sense, is the fifth Killer to have two Memento Mori animations.
+
+The Onryō
+ is the second Killer to have two entirely different Moris.
+
+The Onryō's
+ default Mori features her lifting the Survivor up with telekinetic powers, breaking their right arm, then left leg, and dropping them to the ground as she stares into their eyes.
+
+The Onryō's
+ 
+Inexorable Stare
+ features her simply staring into the Survivors eyes and giving them a heart attack.
+
+The Onryō's
+ 
+Inexorable Stare
+ is a reference to how she kills her victims in the films.
+
+The Onryō
+ is the second Killer with a Mini-Mori ability.
+
+References
+
+↑
+ 
+https://forums.bhvr.com/dead-by-daylight/discussion/412292/lullaby-s-aren-t-suppose-to-be-directional-feedback
+ Post on the Dead by Daylight forums confirming Onryō's directional Lullaby to be intentional.
+
+↑
+ 
+https://www.reddit.com/r/deadbydaylight/comments/1i59o22/bhvr_support_confirms_that_the_sadako_rising/
+ BHVR Support Confirming the Source Material for Sadako Rising. Reddit thread. Retrieved 20 January 2025
+
+Gallery
+
+For more, go to 
+Onryō's Gallery
+
+In-game Assets
+
+The Onryō
+
+The Onryō (Portrait render)
+
+The Onryō (Background image)
+
+Outfits
+
+Rotten Remains Outfit
+
+Concept Art
+
+'Swollen Excresecence' Concept Art
+
+Screenshots
+
+HUD Overlay while 
+Demanifested
+.
+
+Showing 
+Sadako's
+ small height.
+
+Sadako's
+ default Aura-reading.
+
+Loud Noise Notification
+ showing the location of the highlighted TV.
+
+Turned-off 
+TV
+.
+
+ditto
+
+Yoichi
+ inside a 
+Demanifested
+ 
+Sadako
+.
+
+1st Person visual effects when fully 
+Condemned
+.
+
+3rd Person visual effect when fully 
+Condemned
+.
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

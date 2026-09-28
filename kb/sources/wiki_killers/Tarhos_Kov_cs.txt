@@ -1,0 +1,5057 @@
+# Tarhos Kovács
+Source: https://deadbydaylight.wiki.gg/wiki/Tarhos_Kovács (page complète via API, consultée le 27/09/2026)
+
+The Knight
+
+Name
+
+Tarhos Kovács
+
+Gender
+
+Man
+
+Origin
+
+Hungarian
+
+Realm
+
+The Decimated Borgo
+
+Power
+
+Guardia Compagnia
+
+Power 
+Attack
+ Type
+
+Special Attack
+
+(Guards)
+
+Weapon
+
+Imposing Claymore
+
+Movement Speed
+
+115 % 
+|
+ 4.6 m/s
+
+Alternate Movement speed
+
+375 % 
+|
+ 15 m/s
+(Patrol-Path Drawing)
+
+Terror Radius
+
+32 metres
+
+Height 
+
+Average
+
+DLC
+
+Forged in Fog
+
+Voice Actor
+
+Knight: Misha Standjofski
+
+Carnifex: David A. B.
+
+Assassin: Simon Girard
+
+Jailer: Jeff Mott
+
+(all The Monster Factory)
+
+Cost
+
+4,500 
+Iridescent Shards
+
+250 
+Auric Cells
+
+Breathing
+
+Menu Music
+
+Terror Radius Music
+
+Metadata
+
+CharID
+
+K30
+
+Tarhos Kovács
+ or 
+"The Knight"
+ is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+He was introduced as the Killer of 
+Forged in Fog
+, a Chapter DLC released on 22 November 2022 and retired on 14 May 2024.
+
+He is still available in the 
+In-Game Store
+ and as part of the 
+Endless Hunt Pack
+ Chapter Pack DLC.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+2.1
+ 
+The Archives
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: Imposing Claymore
+
+3.3
+ 
+Power: Guardia Compagnia
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for Guardia Compagnia
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Default
+
+5.2
+ 
+Prestige
+
+5.2.1
+ 
+Perk Charms
+
+5.2.2
+ 
+Prestige Badges
+
+5.3
+ 
+Special
+
+5.4
+ 
+Event
+
+5.5
+ 
+Rift
+
+5.6
+ 
+In-Game Store
+
+5.7
+ 
+Alternate Character Models
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+General
+
+8.2
+ 
+Guards
+
+8.3
+ 
+Name
+
+8.4
+ 
+Patrol Path
+
+8.5
+ 
+Standard
+
+8.6
+ 
+The Faithful Three
+
+8.7
+ 
+Voice Actors
+
+8.8
+ 
+Weapon
+
+9
+ 
+Gallery
+
+9.1
+ 
+In-game Assets
+
+9.2
+ 
+Old Assets
+
+9.3
+ 
+Concept Art
+
+Overview
+
+The Knight
+ is a strategic Killer, able to send his faithful 
+Guards
+ to hunt for Survivors and damage objects on the battlefield.
+
+His personal Perks, 
+Nowhere to Hide
+, 
+Hex: Face the Darkness
+, and 
+Hubris
+, allow him to reveal Survivors near Generators, curse Survivors to scream out in fear, and cause a Survivor who stuns you to become 
+Exposed
+.
+
+Lore
+
+Tarhos Kovács didn’t remember much about his childhood, but what he did remember he would chase his entire life. He remembered the cries and screams in the village. He remembered his mother forcing him to swallow a thick, black fluid like medicine. He remembered collapsing to the hard floor only to awaken in a mass grave, buried under a crush of bodies, with the sound of the village burning in his ears. He remembered pushing, pulling, and climbing to the top of the bloody mass only to be seized by the death, destruction, and silence—the indifferent and impenetrable silence. A high-pitched whine suddenly sounded in his ears and his skin began to prickle as he realised he was in the presence of something he couldn’t possibly understand. And though he couldn’t articulate what he was experiencing, he knew it wasn’t pain, grief, or fear. It was something else. Something closer to—
+
+Awe.
+
+As Tarhos tried to make sense of the moment, he didn’t notice the men who approached him from behind. He didn’t even react when they carried him off to a horse-drawn buggy and locked him up in a small, wooden cage with other slaves. He just stared at the scene, mesmerised. And even as they rode away telling him he was headed for Italy, Tarhos stared through the wooden cracks with eyes wide open and a heart wanting to understand what could not be understood.
+
+From that day on, Tarhos belonged to the Guardia Compagnia where he trained under Kadir Hakam. There he learned to wield weapons, forge armour, and recite a code of chivalry to obediently serve those who would employ his services. As the years passed, Tarhos made few friends amongst the hostile and competitive mercenaries. But his skill, strength, and smarts attracted a small following who believed his courage brought them luck in battle and that one day he would help them earn their collective freedom. Three of his followers pledged their undying allegiance to Tarhos and came to be known as his faithful three. His pack.
+
+Alejandro Santiago apprenticed with the Guardia Compagnia’s Armourer.
+
+Durkos Malecek showed an aptitude for stealth and silent kills.
+
+Sander Rault matched Tarhos in size and strength. His weapon of choice: a massive battle axe.
+
+As the Guardia Compagnia carried out campaigns in faraway lands, Tarhos dispatched countless enemies. Years passed. Blood flowed. And yet, all that killing still didn’t bring Tarhos closer to what he had experienced in his village. Nevertheless, for his bravery in battle, Tarhos was granted knighthood and freedom. The Hungarian slave was now liberated, his brutality rewarded, though his heart still longed for something else — something he could not name or describe. Tired of taking orders from those he considered his inferiors, Tarhos left the Guardia Compagnia to strike out on his own. Their leader, however, refused to release his followers.
+
+Determined to raise enough gold to liberate his followers, Tarhos found employment with a wealthy Italian Lord. Vittorio Toscano was the Duke of Portoscuro. He was also a scholar, a world traveller, and a collector of ancient knowledge that had been hidden by an unknown cabal of mystics. Tarhos joined Vittorio’s latest expedition to find a fragment of a pillar from an ancient school lost to time. A stone Vittorio called the Lapis Paradisus for he believed it held secrets to open a gateway into a perfect world beyond good and evil.
+
+The expedition searched Roman ruins in France and crossed the Pyrenees Mountains into Spain where the path led to the catacombs beneath the Portuguese city of Sintra.
+
+The citizens there considered the catacombs sacred. Tarhos would have to kill the villagers guarding the entrance to retrieve the stone. Not wanting to shed blood, Vittorio commanded Tarhos to find another way. But Tarhos — who had seen the most horrific acts committed under the guise of chivalry — refused to be dissuaded by pretences of honour. He waited for Vittorio to ride back to camp. Then, with a mighty roar, he pushed forward, cutting a path of blood and gore into the darkness until he had the stone in his grasp.
+
+Upon returning to the town of Portoscuro, Tarhos imprisoned Vittorio in his own dungeon, demanding to know the meaning behind the symbols etched in the stone. When Vittorio refused to talk, Tarhos brutally tortured his friends and relatives and made horrific displays of their bodies in the streets. But nothing he did shook Vittorio’s resolve to keep the secrets of the stone from Tarhos. Enraged, Tarhos seized control of Vittorio’s riches and raised a small army. Within months, Tarhos fearlessly marched upon the Guardia Compagnia, decimating their barracks, freeing his followers, cutting down his enemies like twigs and collecting their ‘righteous’ heads for his growing displays of ‘valour.’
+
+In time several lords in neighbouring provinces believed Tarhos was the very embodiment of evil. They banded together to create a ‘moral’ and ‘virtuous’ army to purge evil from Portoscuro. Tarhos ignored their threats. He viewed the lords as a cowardly lot who cloaked their greed and ambition in laws, codes, and platitudes. Laws and codes and platitudes designed to hide from the very darkness Tarhos embraced and accepted without judgment.
+
+But, with his enemies on the march, Tarhos headed toward the dungeons to give Vittorio the death he deserved. He refused to afford him even the slightest hope of rescue. With dark intentions, he entered the small prison, wound his way into the bowels of the earth, and pushed through a torch-lit corridor. He hesitated for a moment, realising he would never learn Vittorio’s knowledge and secrets. But neither would anyone else. That was good enough for him. And so, he unlocked and kicked open the dungeon door. Two quick strides brought him to an empty, rat-infested chamber.
+
+Tarhos stood silent for a moment, then a roar of indignation burst out of his lungs as the sounds of battle suddenly reverberated through the town. Instantly, he stumbled through the corridor, rushed up the twisting stairs, vaulted out of the moonlit doorway and charged through pools of gleaming blood and viscera, smashing and shattering his way through the enemy. The ‘moral’ and ‘virtuous’ lords rained flaming boulders and tree-trunks among the town, bursting through homes, crushing villagers like worms, pounding the ground and igniting stacks of hay and piles of lumber into massive tongues of fire.
+
+Amidst the carnage and chaos, the pack found Tarhos, and back-to-back, they became a whirlwind of death. Some believed their courage gave them luck. Others believed something otherworldly protected them. Whatever it was, they alone felled dozens of warriors as easily as stomping and crushing beetles. And as they butchered the enemy, Tarhos didn’t notice the strange fog rising from the fallen corpses and clattering armour until he couldn’t see two inches in front of him in any direction.
+
+Tarhos stumbled forward, groping in the thick fog like the dark fluid his mother forced down his throat all those years ago. His coordination and sense of direction was confused as he called out for his pack. How long he stumbled in the almost perfect darkness he did not know. But suddenly the fog dissipated to reveal a phantasmal wasteland of rotting bodies and burning villages and great crumbling towers leaning drunkenly on the horizon. He stared in awe. A familiar high-pitched whine sounded in his ears and his skin began to prickle. He stood transfixed, realising by some incredible chance, his heart had found exactly what it had been searching for all his life. He didn’t need Vittorio. He didn’t need the stone. He had found his paradise. He had found — 
+
+The beauty and the horror. 
+
+He had found — 
+
+The Sublime.
+
+The Archives
+
+The table below lists additional Lore about 
+The Knight
+ from 
+The Archives
+, either from 
+Tomes
+ that featured him or from individual Lore entries that mentioned him:
+
+Tome
+
+Entry
+
+Type
+
+Tome 14 - Betrayal
+
+Nothing but Darkness
+
+Featured Character
+
+Load-out
+
+Unique Perks
+
+The Knight
+ comes with 
+3
+ 
+Perks
+ that are unique to him:
+
+ 
+
+Hex: Face the Darkness
+
+"You make an example of one of your victims, forcing their allies to become awed by your power."
+
+If there is still a 
+Dull Totem
+ in the environment, 
+Hex: Face the Darkness
+ lights a 
+Hex Totem
+ after injuring a Survivor by any means, cursing them with its 
+Hex Effects
+.
+While cursed, the following effects trigger once every 
+35
+/
+30
+/
+25
+ 
+seconds
+ on all other Survivors outside of the 
+Terror Radius
+:
+
+Causes them to scream.
+
+Their 
+Auras
+ are revealed to you for 
+2 seconds
+.
+
+Hex: Face the Darkness
+ is deactivated once the 
+Cursed Survivor
+ either returns to 
+Healthy
+ or enters the 
+Dying State
+ by any means, extinguishing the 
+Hex Totem
+.
+The 
+Hex Effects
+ persist until the 
+Hex Totem
+ is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.
+
+"I shall make an example of one. These mewling worms will never know peace." — Tarhos Kovács
+
+ 
+
+Hubris
+
+"You show no mercy, especially to those foolish enough to resist."
+
+Whenever a Survivor stuns you by any means, 
+Hubris
+ triggers its effect:
+
+Causes them to suffer from the 
+Exposed
+ 
+Status Effect
+ for 
+20
+/
+25
+/
+30
+ 
+seconds
+.
+
+Hubris
+ has a cool-down of 
+20 seconds
+.
+
+"You have made a grave mistake, standing in opposition to me this day." — Tarhos Kovács
+
+ 
+
+Nowhere to Hide
+
+"The machinations of the weak and craven draw your ire.
+Your anger forces Survivors to reveal themselves."
+
+Performing the 
+Damage Generator
+ action on a 
+Generator
+ triggers 
+Nowhere to Hide
+:
+
+The 
+Auras
+ of all Survivors within 
+24 metres
+ of the 
+Generator
+'s location are revealed to you for 
+3
+/
+4
+/
+5
+ 
+seconds
+.
+
+"Out with you, cowards! Show yourselves!" — Tarhos Kovács
+
+Prestige
+
+Prestiging 
+The Knight
+ will automatically add 
+Tier I
+ of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Knight
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: Imposing Claymore
+
+The Imposing Claymore
+ is the Primary Weapon of 
+The Knight
+.
+A massive weapon capable of cleaving a foe in half, in the right hands.
+
+Power: Guardia Compagnia
+
+"The Knight alone is a terrifying monster on the battlefield, but with his loyal Guards, he is nearly unstoppable.
+Together, the Guardia Compagnia fights for their own freedom, killing anyone who gets in their way."
+SPECIAL ABILITY: GUARDIA COMPAGNIA
+The Knight
+ can summon his three loyal companions one at a time to patrol nearby areas, hunt Survivors, or perform tasks on his behalf.
+SPECIAL ABILITY: GUARD SUMMON
+Press and hold the 
+Secondary Power button
+ to cycle through the 
+3
+ 
+Guards
+.
+Press and hold the 
+Power button
+ to enter the 
+Guard Summon Mode
+.
+Press the 
+Secondary Power button
+ to exit it at any time.
+
+While in the 
+Guard Summon Mode
+, 
+The Knight
+ can move forwards at 
+13.8 m/s
+ while steering with his camera, represented to Survivors as a 
+Ghostly Orb
+ that quickly fades to become invisible after exceeding 
+10 metres
+.
+Moving in this form leaves a trail known as the 
+Patrol Path
+.
+
+The Knight
+ automatically exits the 
+Guard Summon Mode
+ after exceeding the maximum length of the 
+Patrol Path
+ of 
+32 metres
+ or after 
+10 seconds
+ have elapsed.
+
+The Knight
+ is unable to see Survivors in this mode, as well as their 
+Scratch Marks
+ and 
+Pools of Blood
+, but can still see their interactions with the environment.
+
+The Knight
+ can summon a new 
+Guard
+ at any time while another one is already active, causing that one to de-spawn and go on cool-down.
+SPECIAL COMPANIONS: GUARDS
+Each of the 
+3
+ 
+Guards
+ comes with his own special abilities and has their own separate cool-down:
+
+The Carnifex
+ performs a 
+Guard Order
+ more quickly and has a shorter cool-down.
+
+The Assassin
+ walks faster during a 
+Hunt
+ and inflicts hit Survivors with 
+Deep Wound
+ 
+Status Effect
+.
+
+The Jailer
+ walks faster during a 
+Patrol
+, has a larger Detection range, and longer 
+Hunt and Patrol
+ durations.
+
+SPECIAL ABILITY: GUARD PATROL
+While in the 
+Guard Summon Mode
+ drawing a 
+Patrol Path
+ of at least 
+10 metres
+ grants the ability to order a 
+Guard Patrol
+, summoning a 
+Guard
+ at the far end of the 
+Patrol Path
+, causing him to repeatedly walk it up and down until either the Power Gauge is depleted or he detects a nearby Survivor, which will initiate a 
+Hunt
+.
+Additionally, the following effects apply, depending on the final length of the 
+Patrol Path
+:
+
+Grants 
+The Knight
+ a 
++5 %
+ 
+Haste
+ 
+Status Effect
+ for 
+2 to 10 seconds
+.
+
+Reduces
+ the duration of the 
+Hunt
+ Start-up phase of a 
+Guard
+ by 
+-10 to -25 %
+.
+
+Increases
+ the duration of the 
+Hunt
+ of a 
+Guard
+ by a factor of 
+x1 to x1.5
+:
+
+1 to 15 metres
+: 
+x1
+
+16 to 25 metres
+: 
+x1.25
+
+26+ metres
+: 
+x1.5
+
+Increases
+ the Materialisation phase of the 
+Standard
+ placed by a 
+Guard
+ by a factor of 
+x1 to x2
+:
+
+1 to 15 metres
+: 
+x1
+
+16 to 25 metres
+: 
+x1.5
+
+26+ metres
+: 
+x2
+
+The Knight
+ can cancel an active 
+Patrol
+ by hitting the 
+Guard
+ with a 
+Basic Attack
+:
+
+Reduces
+ the Cool-down duration of that 
+Guard
+ for that time to 
+10 seconds
+.
+
+SPECIAL ABILITY: GUARD ORDER
+While in the 
+Guard Summon Mode
+, press the 
+Attack button
+ while within 
+6 metres
+ of a 
+Breakable Wall
+, dropped 
+Pallet
+, or partially repaired 
+Generator
+ to initiate a 
+Guard Order
+, causing the summoned 
+Guard
+ to perform the 
+Break or Damage
+ action on the highlighted object.
+
+A 
+Guard Order
+ regresses a 
+Generator
+ by 
+-5 %
+.
+SPECIAL ATTACK: GUARD HUNT
+If a Survivor is inside the Detection range of a 
+Guard
+ and either in his line-of-sight or triggers a 
+Loud Noise Notification
+, the 
+Guard
+ will detect their presence and phase through the environment, including through floors and across elevation, to reach their exact detected location over 
+2.5 seconds
+, after which he starts a 
+Hunt
+ , chasing after the 
+Hunted Survivor
+:
+
+Places a 
+Standard
+ at the exact detected location of the Survivor, which materialises over several seconds.
+
+Damages any Survivor coming into its attack range, regardless of whether they are the 
+Hunted Survivor
+ or not.
+
+Hunted Survivors
+ can escape a 
+Hunt
+ unharmed by doing either of the following:
+
+Grabbing the materialised 
+Standard
+ by walking into it.
+
+This also grants the Survivor a 
++50 %
+ 
+Haste
+ 
+Status Effect
+ and the 
+Endurance
+ 
+Status Effect
+, both lasting for 
+3 seconds
+.
+
+Unhooking another Survivor.
+
+Outlasting the duration of the 
+Hunt
+ indicated on their HUD portrait.
+
+If 
+The Knight
+ comes within 
+8 metres
+ of his 
+Guard
+, the Depletion rate of the 
+Hunt
+ is 
+increased
+ by a factor of 
+x3
+.
+If either the 
+Guard
+ or 
+The Knight
+ damages the 
+Hunted Survivor
+, the 
+Hunt
+ ends immediately and the former disappears.
+If the 
+Guard
+ downs the 
+Hunted Survivor
+, they trigger 
+Killer Instinct
+ for 
+3 seconds
+.
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Walking: 
+4.6 m/s
+
+Drawing the 
+Patrol Path
+: 
+15 m/s
+
+The Carnifex:
+ 
+ 
+
+Patrol speed: 
+3.4 m/s
+ (default)
+
+Break or Damage Action
+ duration: 
+1.8 seconds
+ (
+shortest
+)
+
+Patrol duration: 
+12 seconds
+ (default)
+
+Hunt speed: 
+4.1 m/s
+ (default)
+
+Attacks cause 
+Deep Wound
+: 
+no
+ (default)
+
+Flag Materialisation time: 
+5 seconds
+ (default)
+
+Hunt duration: 
+12 seconds
+ (default)
+
+Spawn Vision range: 
+2 metres
+ (default)
+
+Patrol Vision range: 
+10 metres
+ (default)
+
+Cool-down duration: 
+20 seconds
+ (
+shortest
+)
+
+The Assassin:
+ 
+ 
+
+Patrol speed: 
+3.4 m/s
+ (default)
+
+Break or Damage Action
+ duration: 
+5 seconds
+ (default)
+
+Patrol duration: 
+12 seconds
+ (default)
+
+Hunt speed: 
+4.4 m/s
+ (
+fastest
+)
+
+Attacks cause 
+Deep Wound
+: 
+yes
+ (
+damages
+)
+
+Flag Materialisation time: 
+5 seconds
+ (default)
+
+Hunt duration: 
+12 seconds
+ (default)
+
+Spawn Vision range: 
+2 metres
+ (default)
+
+Patrol Vision range: 
+10 metres
+ (default)
+
+Cool-down duration: 
+30 seconds
+ (
+longest
+)
+
+The Jailer:
+ 
+ 
+
+Patrol speed: 
+4.1 m/s
+ (
+fastest
+)
+
+Break or Damage Action
+ duration: 
+5 seconds
+ (default)
+
+Patrol duration: 
+24 seconds
+ (
+longest
+)
+
+Hunt speed: 
+4.1 m/s
+ (default)
+
+Attacks cause 
+Deep Wound
+: 
+no
+ (default)
+
+Flag Materialisation time: 
+10 seconds
+ (
+longest
+)
+
+Hunt duration: 
+24 seconds
+ (
+longest
+)
+
+Spawn Vision range: 
+2 metres
+ (default)
+
+Patrol Vision range: 
+16 metres
+ (
+largest
+)
+
+Cool-down duration: 
+25 seconds
+ (default)
+
+Guards:
+
+Guard Order
+, maximum distance: 
+6 metres
+
+Spawn time: 
+1.5 seconds
+
+Vision angle: 
+180 °
+
+Vision Radius Expansion duration: 
+0.5 seconds
+
+This refers to how long it takes for a 
+Guard's
+ Vision radius to reach its full range, since it grows from the centre of the 
+Guard's
+ model outwards after they first spawn.
+
+Hunt Start-up duration: 
+2.5 seconds
+
+This refers to the time it takes a 
+Guard
+ to travel to the location the Survivor was detected at before the actual 
+Hunt
+ starts.
+
+This time is progressively reduced if the 
+Patrol Path
+ exceeds a length of 
+10 metres
+ and ranges from a reduction of 
+-10 %
+ to a maximum of 
+-25 %
+ if the length reaches 
+32 metres
+.
+
+Pulling Survivors out of Lockers: 
+3 seconds
+
+Killer Instinct duration: 
+3 seconds
+
+Pallet and Vault Slow-down speed: 
+2.2 m/s
+
+Pallet and Vault Slow-down duration: 
+1 second
+
+Minimum Aura visibility distance: 
+12 metres
+
+Below this threshold, 
+The Knight
+ is unable to see an Aura of his 
+Guards
+.
+
+Progression Penalty when Damaging Generators: 
+-5 %
+
+Path around dropped Pallet range: 
+3 metres
+
+If a Pallet was dropped this far away from a hunting Guard, the Guard will attempt pathing around the dropped Pallet, otherwise the Guard will phase through it.
+
+Pallet path length limit: 
+48 metres
+
+If a Guard attempts pathing around a dropped Pallet and path length exceeds this value, the Hunt is instantly ended.
+
+Patrol Path:
+
+Drawing Mode Charge time: 
+0.01 seconds
+
+Drawing Mode FOV increase: 
++25 °
+
+Drawing Mode Drawing time: 
+up to 10 seconds
+
+After this time elapses, 
+The Knight
+ is automatically forced out of the 
+Guard Summon
+ mode.
+In normal use cases, this has no effect on his ability to draw Paths, but prevents him from remaining in this mode for too long as a tactic to hide his Terror Radius.
+
+Drawing Mode Drawing Time Warning threshold: 
+ at 70 %
+
+Reaching the threshold while drawing the 
+Patrol Path
+ will sound an alarm that not much Drawing time is left.
+
+Using the default values, this means the warning will sound after 
+7 seconds
+.
+
+Path length: 
+up to 38 metres
+
+Path Length Warning threshold: 
+at 70 %
+
+Reaching the threshold while drawing the 
+Patrol Path
+ will sound an alarm that not much Path is left.
+
+Using the default values, this means the warning will sound after drawing a Path of 
+22.4 metres
+.
+
+Distance between Path nodes: 
+2 to 5 metres
+
+Patrol Path Camera:
+
+It should be noted that  while drawing a 
+Patrol Path
+, the position of the camera (the 
+Green Orb
+) is considered to be the location of 
+The Knight
+, not where his body is physically located.
+This does not, however, influence Unlockables with distance-related activation conditions as of 
+Patch 6.4.2
+ anymore.
+
+Maximum Yaw input: 
+290 °
+
+Yaw is the turning motion of the camera.
+
+Initial Offset distance: 
+80 centimetres
+
+This refers to how far the camera is offset from 
+The Knight's
+ location when entering the 
+Summon Guard
+ mode.
+
+Maximum Camera Walk speed: 
+15 m/s
+
+Camera Acceleration multiplier: 
+x2
+
+The camera uses the same acceleration curve when moving as the Killer.
+
+Camera Strafe multiplier: 
+x1
+
+The camera uses the same acceleration curve when strafing as the Killer.
+
+The 
+Green Orb
+ is visible to Survivors, but continuously shrinks in size while moving forward, until it completely disappears once the 
+Patrol Path
+ is longer than 
+10 metres
+.
+
+Standard:
+
+Haste
+ strength on pick-up: 
++50 %
+
+Haste
+ duration on pick-up: 
+3 seconds
+
+Endurance
+ duration on pick-up: 
+3 seconds
+
+Add-ons for Guardia Compagnia
+
+Icon
+
+Name
+
+Description
+
+Gritty Lump
+
+A rock-hard, dense loaf filled their stomachs on most days, giving them the energy to commit truly heinous acts.
+
+Increases
+ the Movement Speed of 
+Guards
+ during the 
+Patrol Phase
+ by 
++9 %
+.
+
+Map of the Realm
+
+These unique leather maps were not easy to come by, but when they could not be purchased, they could be taken by force.
+
+Increases
+ the Vision range of a 
+Guard
+ during the 
+Patrol Phase
+ by 
++2 metres
+.
+
+Pillaged Mead
+
+Drinks taken from their victims tasted sweet, but such frivolities were often short-lived.
+
+Reduces
+ the duration of the 
+Break or Damage
+ action of a 
+Guard
+ by 
+-10 %
+.
+
+Tattered Tabard
+
+Cloaked in heavy fabrics, neither human nor nature could stop them once they had their target.
+
+Extends
+ the duration of the 
+Patrol Phase
+ by 
++8 seconds
+.
+
+Battle Axe Head
+
+Sander Rault was a tower of a man, terrifying in form and demeanour.
+
+Reduces
+ the Cool-down time after summoning 
+The Carnifex
+ by 
+-20 %
+.
+
+Call to Arms
+
+"Posted across many towns, lords desperate to protect their riches posted for able-bodied mercenaries. None survived."
+
+Modifies the 
+Patrol Path
+ with the following effects:
+
+Increases
+ its maximum length by 
++4 metres
+.
+
+Increases
+ its Drawing speed by 
++7 %
+.
+
+Cold Steel Manacles
+
+Alejandro Santiago apprenticed as an armourer and showed no remorse.
+
+Reduces
+ the Cool-down time after summoning 
+The Jailer
+ by 
+-20 %
+.
+
+Dried Horsemeat
+
+Long campaigns often required restocking, and the steeds of fallen enemies were as good as any farm-fresh ration.
+
+Extends
+ the duration of a 
+Hunt
+ by 
++4 seconds
+.
+
+Treated Blade
+
+Durkos Malecek stuck to the shadows, and was an efficient slaughterer.
+
+Reduces
+ the Cool-down time after summoning 
+The Assassin
+ by 
+-20 %
+.
+
+Broken Hilt
+
+A fresh weapon is clean, even surgical; an attack with a broken one is malicious and desperate.
+
+Survivors damaged by a 
+Guard
+ suffer from the 
+Haemorrhage
+ and 
+Mangled
+ 
+Status Effects
+ for 
+70 seconds
+.
+
+Grim Iron Mask
+
+No method of torture was too base for Guardia Compagnia.
+Pain and humiliation went hand-in-hand.
+
+Survivors detected by a 
+Guard
+ during the 
+Patrol Phase
+ suffer from the 
+Blindness
+ 
+Status Effect
+ for 
+75 seconds
+.
+
+Ironworker's Tongs
+
+Vital for repairs between battles and a horrifying, gauging, tearing improvisational weapon.
+
+Causes Survivors to suffer from the 
+Oblivious
+ 
+Status Effect
+ for 
+60 seconds
+, if a 
+Guard
+ fails to damage them during a 
+Hunt
+.
+
+Sharpened Mount
+
+To stand before the Standard of the Guardia Compagnia was to stand at the threshold between life and death.
+
+Increases
+ the Spawn duration of 
+Standards
+ by 
++15 %
+.
+
+Town Watch's Torch
+
+Upon breaching a village, the first thing they would extinguish was the torches, and with them, hope.
+
+Grants the 
+Undetectable
+ 
+Status Effect
+ during a 
+Hunt
+.
+
+Blacksmith's Hammer
+
+In their hands, everything was a weapon.
+
+Causes Survivors damaged by a 
+Guard
+ during a 
+Hunt
+ to suffer from the 
+Broken
+ 
+Status Effect
+ for 
+60 seconds
+.
+
+Flint and Steel
+
+Attacks at night were not uncommon.
+Fear was often their greatest ally.
+
+Summoning 
+The Carnifex
+ has the following effect:
+
+The 
+Auras
+ of all Survivors within 
+24 metres
+ of unbroken 
+Pallets
+ are revealed to you for 
+8 seconds
+.
+
+Healing Poultice
+
+Their reputation was so large, so horrible, that the mere knowledge that they were coming was enough to bring people to their knees.
+
+Summoning 
+The Assassin
+ has the following effect:
+
+The 
+Auras
+ of all Survivors within 
+8 metres
+ of his Spawn location are revealed to you for 
+8 seconds
+.
+
+Jailer's Chimes
+
+Many captives met the same grisly end for attempting to escape his clutches.
+
+The 
+Auras
+ of Survivors crossing the 
+Patrol Path
+ of 
+The Jailer
+ are revealed to you for 
+8 seconds
+.
+
+Iridescent Company Banner
+
+Where this banner was raised, those who called themselves 'civilised' ran and hid, because for all their codes and laws, they had nothing resembling actual strength.
+
+Causes all 
+Windows
+ on the 
+Patrol Path
+ to be blocked to all Survivors for 
+25 seconds
+ after summoning a 
+Guard
+.
+
+Causes all 
+Windows
+ vaulted by the 
+Hunted Survivor
+ to be blocked to all other Survivors for the duration of the 
+Hunt
+.
+
+Causes the 
+Exit Gates
+ to be blocked to the 
+Hunted Survivor
+ for the duration of the 
+Hunt
+.
+
+"They huddle in their villages like parasites! They have lost the drive for power." — Tarhos Kovács
+
+Knight's Contract
+
+The original document contracting Tarhos to Vittorio's employ.
+The laws of man could not stand up, though, to natural law.
+
+Causes a 
+Guard
+ to linger around for 
+8 seconds
+ after completing a 
+Guard Order
+, triggering a 
+Hunt
+, should he detect a Survivor in that time.
+
+"I fear he has left me here to die." — Vittorio Toscano
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There are 
+2
+ Achievements related to 
+The Knight
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Knight
+
+Playing as The 
+Knight
+, achieve a 
+Merciless Victory
+ using only his 
+3
+ Unique Perks: 
+Nowhere to Hide
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"The machinations of the weak and craven draw your ire.
+Your anger forces Survivors to reveal themselves."
+
+Performing the 
+Damage Generator
+ action on a 
+Generator
+ triggers 
+Nowhere to Hide
+:
+
+The 
+Auras
+ of all Survivors within 
+24 metres
+ of the 
+Generator
+'s location are revealed to you for 
+3
+/
+4
+/
+5
+ 
+seconds
+.
+
+"Out with you, cowards! Show yourselves!" — Tarhos Kovács
+
+, 
+Hex: Face the Darkness
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"You make an example of one of your victims, forcing their allies to become awed by your power."
+
+If there is still a 
+Dull Totem
+ in the environment, 
+Hex: Face the Darkness
+ lights a 
+Hex Totem
+ after injuring a Survivor by any means, cursing them with its 
+Hex Effects
+.
+While cursed, the following effects trigger once every 
+35
+/
+30
+/
+25
+ 
+seconds
+ on all other Survivors outside of the 
+Terror Radius
+:
+
+Causes them to scream.
+
+Their 
+Auras
+ are revealed to you for 
+2 seconds
+.
+
+Hex: Face the Darkness
+ is deactivated once the 
+Cursed Survivor
+ either returns to 
+Healthy
+ or enters the 
+Dying State
+ by any means, extinguishing the 
+Hex Totem
+.
+The 
+Hex Effects
+ persist until the 
+Hex Totem
+ is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.
+
+"I shall make an example of one. These mewling worms will never know peace." — Tarhos Kovács
+
+, and 
+Hubris
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"You show no mercy, especially to those foolish enough to resist."
+
+Whenever a Survivor stuns you by any means, 
+Hubris
+ triggers its effect:
+
+Causes them to suffer from the 
+Exposed
+ 
+Status Effect
+ for 
+20
+/
+25
+/
+30
+ 
+seconds
+.
+
+Hubris
+ has a cool-down of 
+20 seconds
+.
+
+"You have made a grave mistake, standing in opposition to me this day." — Tarhos Kovács
+
+.
+
+Cruelty Loves Company
+
+Playing as The 
+Knight
+, damage a total of 
+50
+ Survivors while they are being pursued by a 
+Guard
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Knight
+:
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+The Knight
+
+Common
+
+A dangerous and terrifying warrior obsessed with death and darkness.
+
+Polished Armor
+
+Common
+
+Shining cold iron adorned his body from head to toe, making him an unstoppable juggernaut.
+
+Imposing Claymore
+
+Common
+
+A massive weapon capable of cleaving a foe in half, in the right hands.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Bloody Knight
+
+Rare
+
+A deadly and blood-soaked warrior obsessed with death and darkness.
+
+Prestige Level 6 Reward
+
+Streaked Armor
+
+Rare
+
+Bloody cold iron adorned his body from head to toe, making him a terrifying juggernaut.
+
+Prestige Level 5 Reward
+
+War-Scarred Claymore
+
+Rare
+
+A massive and gory weapon that cleaved many a foe in half.
+
+Prestige Level 4 Reward
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+A dangerous and terrifying warrior obsessed with death and darkness.
+
+Special
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Event
+
+The Bloodwyrm
+
+Very Rare
+
+He had no reason to believe in dragons. But he knew they struck fear in the hearts of gormless serfs.
+
+Buying a Pack of 
+Auric Cells
+ in 
+Blood Moon 2024
+
+Event
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Event
+
+Exclusive to Event Participation
+
+Frosty Eyes
+
+Event
+
+Heart chilling eyes of the cold blooded.
+
+"Have an amazing Winter season 2022!" - The Dead by Daylight Team
+
+Bone Chill 2022
+Tome: Level 2
+
+Yes
+
+Knight's Mask
+
+Event
+
+A mask he found himself wearing at the masquerade ball.
+
+Twisted Masquerade 2023
+
+Yes
+
+Burning Sight
+
+Event
+
+His gaze had the power to incite chaos and fear.
+
+Haunted by Daylight 2023
+
+Yes
+
+Open Heart
+
+Event
+
+The sight of his exposed heart unnerved his enemies.
+
+Haunted by Daylight 2023
+
+Yes
+
+Knight Pommel
+
+Event
+
+He carved into the pommel with one of his opponent's sharpened blade.
+
+Haunted by Daylight 2023
+
+Yes
+
+ Rift
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Splinter Rose
+
+Community
+
+Rift Pass 6 - Sunflesh
+
+21 July 2026 (Tuesday)
+
+Description
+
+The warriors pursued him for days, but Tarhos lured them to a secluded forest. On verdant soil, their quest would end. 
+Design inspired by 
+ATHS_ART
+.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Chivalry's Demise
+
+Community
+
+43
+
+While lesser knights adhered to the chivalric code, he took great pleasure in making a mockery of it.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Wilted Virtue
+
+Community
+
+49
+
+The noble fools sprung from the grove, dashing across flower and foliage to meet his eager blade.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Cut By Thorns
+
+Community
+
+53
+
+He stopped to pluck a rose from the corpse-laden ground. In spite of everything he had done, he was touched by its beauty.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Vanquished Destroyer
+
+Tortured Souls
+
+Tome 22 - Anguish
+
+20 January 2026 (Tuesday)
+
+Description
+
+Tarhos was locked in gruesome battle with the most fearsome mercenary in the empire.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Death Mask
+
+Tortured Souls
+
+41
+
+The enemy wore the death mask of a defeated general, a testament to his prowess and brutality.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Field of Battle
+
+Tortured Souls
+
+48
+
+His enemy lived by a code of honor – Tarhos knew this, and he used it to his advantage.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Upraised Triumph
+
+Tortured Souls
+
+45
+
+Tarhos ripped the weapon from his enemy’s severed hand and claimed the armor as a trophy.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Vanquished Destroyer (Deep Rift)
+
+Deep Rift
+
+Tome 22 - Anguish
+
+12 June 2018 (Tuesday)
+
+Description
+
+Tarhos was locked in brutal combat with a mercenary feared by all who knew his name.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Death Mask (Deep Rift)
+
+Deep Rift
+
+82
+
+The enemy wore the death mask of a slaughtered general, a warning to anyone who dared confront him.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Field of Battle (Deep Rift)
+
+Deep Rift
+
+73
+
+His enemy lived by a code of honor – Tarhos used this weakness to his benefit.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Upraised Triumph (Deep Rift)
+
+Deep Rift
+
+78
+
+Tarhos tore the weapon from his enemy’s severed hand and took the armor for himself.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Weathered Armor
+
+Darkest Dungeon
+
+Rift Pass 5 - Ruin
+
+28 April 2026 (Tuesday)
+
+Description
+
+How many eyes have gazed upon this weathered suit of armor before blinking their last?
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Death's Doorman
+
+Darkest Dungeon
+
+5
+
+A fearsome terror on the battlefield, he has ushered countless through death’s door.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Duellist’s Curse
+
+Darkest Dungeon
+
+13
+
+He cherished every swing, every cleave, and every riposte. Yet in what remained of his heart, he longed to duel a worthy foe.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+En Garde
+
+Darkest Dungeon
+
+19
+
+When the blade is drawn, the time for words is over. There are other ways to express eloquence.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Permanent Injunction
+
+Of Blood And Rust Collection
+
+Tome 14 - Betrayal
+
+19 November 2024 (Tuesday)
+
+Description
+
+Armor he was forced to wear by his lord.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Infuriating Muzzle
+
+Of Blood And Rust Collection
+
+68
+
+This frustrating mask only increased his desire for chaos.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+False Beliefs
+
+Of Blood And Rust Collection
+
+1
+
+Whatever the situation, he would always upset the balance in his favor.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Beast Blade
+
+Of Blood And Rust Collection
+
+31
+
+This blade was used to deliver crushing blows.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Permanent Injunction (Deep Rift)
+
+Deep Rift
+
+Tome 14 - Betrayal
+
+12 June 2018 (Tuesday)
+
+Description
+
+Armor he was forced to wear by his lord, corrupted by the Rift.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Infuriating Muzzle (Deep Rift)
+
+Deep Rift
+
+74
+
+This mask only increased his desire for chaos.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+False Beliefs (Deep Rift)
+
+Deep Rift
+
+84
+
+No matter the realm, he would always upset the balance in his favor.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Beast Blade (Deep Rift)
+
+Deep Rift
+
+79
+
+This warped blade was used to deliver crushing blows.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Cruel Champion
+
+Slice Of Life
+
+Tome 21 - Dominus
+
+12 June 2018 (Tuesday)
+
+Description
+
+Tarhos arrived at the village where his target was rumored to be hiding. The air was heavy with the stench of decay and despair.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Stench Resistance
+
+Slice Of Life
+
+47
+
+The sound of coughing and cries of pain bothered him to no end. He spat on the floor, distancing himself from mediocrity.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Soiled Armor
+
+Slice Of Life
+
+53
+
+A man grabbed his cape, begging for crumbs. He pushed him away in disgust, his frail frame cowering on the sidewalk.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Harvester Blade
+
+Slice Of Life
+
+42
+
+The sight of his own reflection in the beggar’s eyes fueled his anger. He set the village on fire and watched as the flames consumed the crowd.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Funeral March
+
+Entombed Remains
+
+Rift Pass 2 - Entombment
+
+07 April 2026 (Tuesday)
+
+Description
+
+A soft light shined through a hole in the rock, illuminating the human bones covering the entire cave floor.
+
+1296
+
+25920
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Cranial Helmet
+
+Entombed Remains
+
+70
+
+So many deaths. A great massacre occurred here, at the hand of a force he couldn't help but respect.
+
+480
+
+8640
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Crushed Bone Armor
+
+Entombed Remains
+
+66
+
+He selected several bones and sat under the light to build his new armor, his new self, in silence.
+
+480
+
+8640
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Vertebrae Mortiferae
+
+Entombed Remains
+
+68
+
+His squires stood still as he came out from the cave. They stared at their master, wondering if he had escaped death or become its very essence.
+
+480
+
+8640
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Funeral March (Deep Rift 1)
+
+Entombed Remains
+
+Rift Pass 2 - Entombment
+
+29 July 2025 (Tuesday)
+
+Description
+
+A soft light shined through a hole in the rock, illuminating the human bones covering the entire cave floor.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Cranial Helmet (Deep Rift 1)
+
+Entombed Remains
+
+77
+
+So many deaths. A great massacre occurred here, at the hand of a force he couldn't help but respect.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Crushed Bone Armor (Deep Rift 1)
+
+Entombed Remains
+
+77
+
+He selected several bones and sat under the light to build his new armor, his new self, in silence.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Vertebrae Mortiferae (Deep Rift 1)
+
+Entombed Remains
+
+77
+
+His squires stood still as he came out from the cave. They stared at their master, wondering if he had escaped death or become its very essence.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Funeral March (Deep Rift 2)
+
+Entombed Remains
+
+Rift Pass 2 - Entombment
+
+29 July 2025 (Tuesday)
+
+Description
+
+A soft light shined through a hole in the rock, illuminating the human bones covering the entire cave floor.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Cranial Helmet (Deep Rift 2)
+
+Entombed Remains
+
+87
+
+So many deaths. A great massacre occurred here, at the hand of a force he couldn't help but respect.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Crushed Bone Armor (Deep Rift 2)
+
+Entombed Remains
+
+87
+
+He selected several bones and sat under the light to build his new armor, his new self, in silence.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Vertebrae Mortiferae (Deep Rift 2)
+
+Entombed Remains
+
+87
+
+His squires stood still as he came out from the cave. They stared at their master, wondering if he had escaped death or become its very essence.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Funeral March (Deep Rift 3)
+
+Entombed Remains
+
+Rift Pass 2 - Entombment
+
+29 July 2025 (Tuesday)
+
+Description
+
+A soft light shined through a hole in the rock, illuminating the human bones covering the entire cave floor.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Cranial Helmet (Deep Rift 3)
+
+Entombed Remains
+
+100
+
+So many deaths. A great massacre occurred here, at the hand of a force he couldn't help but respect.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Crushed Bone Armor (Deep Rift 3)
+
+Entombed Remains
+
+100
+
+He selected several bones and sat under the light to build his new armor, his new self, in silence.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Vertebrae Mortiferae (Deep Rift 3)
+
+Entombed Remains
+
+100
+
+His squires stood still as he came out from the cave. They stared at their master, wondering if he had escaped death or become its very essence.
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Calculating Behemoth
+
+The Knight Aberrations
+
+22 November 2022 (Tuesday)
+
+Description
+
+His armor gave no indication of his humanity and made him look like an iron statue.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Oppressive Champion
+
+The Knight Aberrations
+
+His freakish physique bowed and broke any armor except for this, custom-made for him by his company.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Massacring Broadsword
+
+The Knight Aberrations
+
+Few could handle the weight of this enormous sword, let alone use it so effectively.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Sickening Behemoth
+
+The Knight Aberrations
+
+22 November 2022 (Tuesday)
+
+Description
+
+His armor gave no indication of his humanity and made him look like an iron statue.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Overwhelming Champion
+
+The Knight Aberrations
+
+His freakish physique bowed and broke any armor except for this, custom-made for him by his company.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Bonecrushing Broadsword
+
+The Knight Aberrations
+
+Few could handle the weight of this enormous sword, let alone use it so effectively.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Pale Behemoth
+
+The Knight Aberrations
+
+22 November 2022 (Tuesday)
+
+Description
+
+His armor gave no indication of his humanity and made him look like an iron statue.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Pale Champion
+
+The Knight Aberrations
+
+His freakish physique bowed and broke any armor except for this, custom-made for him by his company.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Intimidating Broadsword
+
+The Knight Aberrations
+
+Few could handle the weight of this enormous sword, let alone use it so effectively.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Furious Behemoth
+
+The Knight Aberrations
+
+22 November 2022 (Tuesday)
+
+Description
+
+His armor gave no indication of his humanity and made him look like an iron statue.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Tyrannical Champion
+
+The Knight Aberrations
+
+His freakish physique bowed and broke any armor except for this, custom-made for him by his company.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Mutilating Broadsword
+
+The Knight Aberrations
+
+Few could handle the weight of this enormous sword, let alone use it so effectively.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Rusted Colossus
+
+Invulnerable Harbinger
+
+22 November 2022 (Tuesday)
+
+Description
+
+Years of battle wore at his protection, but not his resolve.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Corroded Cover
+
+Invulnerable Harbinger
+
+He marched through rain and snow. He was even tougher than his armor.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Dilapidated Panels
+
+Invulnerable Harbinger
+
+A horrible grinding sound followed him as rust tore into rust.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Blade of Decay
+
+Invulnerable Harbinger
+
+The sword has gone dull, but it’s still effective—just crueler.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Hide and Copper
+
+Invulnerable Harbinger
+
+22 November 2022 (Tuesday)
+
+Description
+
+Earlier iterations of his gear utilized whatever protective materials his company could find.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Destroyed Headwear
+
+Invulnerable Harbinger
+
+The smell of copper reminded him of the blood of his victims.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Tattered Leather
+
+Invulnerable Harbinger
+
+Early in his career, he worked for others. He didn’t really start to earn until he and his company worked for themselves.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Ancient Weapon
+
+Invulnerable Harbinger
+
+One of the first swords he wielded.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Silver Despot
+
+Invulnerable Harbinger
+
+22 November 2022 (Tuesday)
+
+Description
+
+He was rarely more intimidating than he was in this armor.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Glorious Helmet
+
+Invulnerable Harbinger
+
+During downtime, he took great care to polish his armor.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Shimmering Plate
+
+Invulnerable Harbinger
+
+Bold and fearless, he liked to stand out amongst the other knights.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Brilliant Blade
+
+Invulnerable Harbinger
+
+A fine sword forged in the village he razed to the ground.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Cruel Impaler
+
+Knight Aberrations
+
+21 October 2025 (Tuesday)
+
+Description
+
+Along the road between nations, he and his men came across another band of armored travelers.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rotting Helm
+
+Knight Aberrations
+
+The travelers' gear was of an unfamiliar culture. They approached from the opposite direction. The road narrowed between them.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Polished Plate
+
+Knight Aberrations
+
+His men looked to him. This encounter could end in a number of different ways.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Cry Vengeance
+
+Knight Aberrations
+
+He ordered his men to let the travelers pass. The man at their head gave a knowing nod as they rode onward.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Brutal Impaler
+
+Knight Aberrations
+
+21 October 2025 (Tuesday)
+
+Description
+
+Along the road between nations, he and his men came across another band of armored travelers.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Torn Helm
+
+Knight Aberrations
+
+The travelers' gear was of an unfamiliar culture. They approached from the opposite direction. The road narrowed between them.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Patinaed Plate
+
+Knight Aberrations
+
+His men looked to him. This encounter could end in a number of different ways.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Cry Wrath
+
+Knight Aberrations
+
+He ordered his men to let the travelers pass. The man at their head gave a knowing nod as they rode onward.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Grim Campaign
+
+Wasteland
+
+18 April 2023 (Tuesday)
+
+Description
+
+An armor he forged himself, knowing the fear he wanted to inspire.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Beak Helmet
+
+Wasteland
+
+A helmet that inspired horror in all villages.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Impalement Spike
+
+Wasteland
+
+A refined armor with a touch of gold and forged details that daunted every opponent he met.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Lengthy Blade
+
+Wasteland
+
+A sharpened blade with reach.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Menacing Knight
+
+Dungeons & Dragons
+
+03 June 2024 (Monday)
+
+Description
+
+The thieves heard of an ancient relic hidden in a cave. An encampment had surrounded the cave, so they knew they'd have to be careful.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Blood Threat
+
+Dungeons & Dragons
+
+They came across a towering knight on their way to the cave. In the dark of the night, his eyes seemed to glow red like fire.
+
+Piece
+
+Name
+
+Collection
+
+Resurrection Armor
+
+Dungeons & Dragons
+
+It was hard to see through the darkness, but the knight appeared to be more monster than man, powered by some sinister darkness.
+
+Piece
+
+Name
+
+Collection
+
+Harbinger Sword
+
+Dungeons & Dragons
+
+Their screams were suddenly silenced. Only the thuds of their severed bodies hitting the ground echoed in the mountain pass.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Jack O'Lantern
+
+Tricks and Treats
+
+18 October 2023 (Wednesday)
+
+Description
+
+Captured by creeping ivy in the fog, he let his burning desire for chaos consume him, changing him.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Burning Sight
+
+Tricks and Treats
+
+His gaze had the power to incite fear and chaos.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Open Heart
+
+Tricks and Treats
+
+The sight of his exposed heart unnerved his enemies.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Knight Pommel
+
+Tricks and Treats
+
+He carved into the pommel with one of his opponent's sharpened blade.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Vanquished Destroyer
+
+Tortured Souls
+
+Tome 22 - Anguish
+
+20 January 2026 (Tuesday)
+
+Description
+
+Tarhos was locked in gruesome battle with the most fearsome mercenary in the empire.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Death Mask
+
+Tortured Souls
+
+41
+
+The enemy wore the death mask of a defeated general, a testament to his prowess and brutality.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Field of Battle
+
+Tortured Souls
+
+48
+
+His enemy lived by a code of honor – Tarhos knew this, and he used it to his advantage.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Upraised Triumph
+
+Tortured Souls
+
+45
+
+Tarhos ripped the weapon from his enemy’s severed hand and claimed the armor as a trophy.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Moth Warrior
+
+Chrysalis
+
+23 April 2024 (Tuesday)
+
+Description
+
+The boy was unique among the slaves bound for Italy. While others were gripped by fear, he was entranced by visions of blood and fire.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Horned Helm
+
+Chrysalis
+
+A moth fluttered into the slaves' cage. He reached out for the creature, and it landed in his hand.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Omen of Death
+
+Chrysalis
+
+He watched as the moth crawled from his fingertips to his palm. It looked so small and weak in his grasp.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Sharpened Eclipse
+
+Chrysalis
+
+After a moment's rest, the moth was on its way again. He watched it slip out of the cage and fly freely into the night.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Permanent Injunction
+
+Of Blood And Rust Collection
+
+Tome 14 - Betrayal
+
+19 November 2024 (Tuesday)
+
+Description
+
+Armor he was forced to wear by his lord.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Infuriating Muzzle
+
+Of Blood And Rust Collection
+
+68
+
+This frustrating mask only increased his desire for chaos.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+False Beliefs
+
+Of Blood And Rust Collection
+
+1
+
+Whatever the situation, he would always upset the balance in his favor.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Beast Blade
+
+Of Blood And Rust Collection
+
+31
+
+This blade was used to deliver crushing blows.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Blighted Knight
+
+HALLOWED BLIGHT
+
+01 October 2026 (Thursday)
+
+Description
+
+The subject seldom strayed from the infernal trifecta, drawing on their wicked talents. Fitting that he now holds them dearer than ever.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Muscle Memory
+
+HALLOWED BLIGHT
+
+Even after the bloom softened his skull like rotting fruit, his martial prowess and dexterity remain unparalleled.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Boiling Agony
+
+HALLOWED BLIGHT
+
+From the boils emerged three faces, contorted in perpetual anguish. They screamed without sound as pungent orange pus spilled down the steel plate.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Blightbane
+
+HALLOWED BLIGHT
+
+The serum coursed along the fuller of the blade, granting renewed life to an instrument of death.
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Eredin's End
+
+The Witcher
+
+03 June 2025 (Tuesday)
+
+Description
+
+He left the warcamp behind, walking toward the rising moon. His sole objective was to find the mythical King of the Wild Hunt.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Sparrowhawk
+
+The Witcher
+
+The locals spoke of this so-called King with reverence and fear. Every threat to Tarhos's power had to be accounted for.
+
+Piece
+
+Name
+
+Collection
+
+Lord of Nightmares
+
+The Witcher
+
+The woods were deadly silent. He studied the stars through the treetops and sensed he was on the right path.
+
+Piece
+
+Name
+
+Collection
+
+Commander Blade
+
+The Witcher
+
+The silence was disturbed by a charging shadow. Tarhos spun on his feet and blocked a dangerous strike.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Red Knight
+
+Blood Moon
+
+07 April 2025 (Monday)
+
+Description
+
+His latest conquest was a superstitious farming community with a harvest big enough to feed his army.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+The Bloodwyrm
+
+Blood Moon
+
+He had no reason to believe in dragons. But he knew they struck fear in the hearts of gormless serfs.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Grave Armor
+
+Blood Moon
+
+He joined his soldiers in throwing torches on the thatched rooves, watching the village burn before him.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Blade of the Fallen
+
+Blood Moon
+
+Those who rushed out of their burning homes were cut down until none were left. The dragon spared no one.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Funeral March
+
+Entombed Remains
+
+Rift Pass 2 - Entombment
+
+07 April 2026 (Tuesday)
+
+Description
+
+A soft light shined through a hole in the rock, illuminating the human bones covering the entire cave floor.
+
+1296
+
+25920
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Cranial Helmet
+
+Entombed Remains
+
+70
+
+So many deaths. A great massacre occurred here, at the hand of a force he couldn't help but respect.
+
+480
+
+8640
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Crushed Bone Armor
+
+Entombed Remains
+
+66
+
+He selected several bones and sat under the light to build his new armor, his new self, in silence.
+
+480
+
+8640
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Vertebrae Mortiferae
+
+Entombed Remains
+
+68
+
+His squires stood still as he came out from the cave. They stared at their master, wondering if he had escaped death or become its very essence.
+
+480
+
+8640
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Enchanted Plates
+
+Spectral Mercenary
+
+22 November 2022 (Tuesday)
+
+Description
+
+Something in The Entity’s Realm brought him to the brink of death… and back again.
+
+1296
+
+25920
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Glowing Horn
+
+Spectral Mercenary
+
+The ancient sigils discovered by his former employer created unexpected effects.
+
+Piece
+
+Name
+
+Collection
+
+Impaled Flesh
+
+Spectral Mercenary
+
+Without his armor, he could be stabbed.
+
+Piece
+
+Name
+
+Collection
+
+Runic Edge
+
+Spectral Mercenary
+
+Covered in an ancient, unknown script with an otherworldly glow.
+
+Piece
+
+Name
+
+Collection
+
+Icestorm Claymore
+
+Bone Chill
+
+The shards of ice bit into his enemy's shoulder, spraying blood.
+
+250
+
+Piece
+
+Name
+
+Collection
+
+Jawbreaker
+
+Tricks and Treats
+
+The taste of bloody victory was sweet enough for him.
+
+250
+
+Piece
+
+Name
+
+Collection
+
+Knight’s Mask
+
+Twisted Masquerade
+
+A mask he found himself wearing at the masquerade ball.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Machine Blade
+
+Mech Collection
+
+The blade was designed to cut through armor.
+
+400
+
+7200
+
+Alternate Character Models
+
+The Knight
+ has 
+2
+ alternate Character models available in the in-game Store:
+
+The 
+Draugr
+
+Eredin Bréacc Glas
+ (Costume)
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Knight
+ is part of 
+2
+ DLCs:
+
+Chapter DLC:
+
+Forged in Fog
+ (
+retired
+)
+
+Pack DLCs:
+
+Endless Hunt Pack
+ (Chapter Pack)
+
+Change Log
+
+Patch 6.4.2
+Patch 6.5.0
+Patch 7.7.0
+Patch 8.1.0
+Patch 8.2.0
+Patch 9.1.0
+Patch 10.1.1
+Patch 6.4.2
+
+Buff
+: 
+Generators
+ damaged by 
+Guards
+ now also lose some Progression in addition to starting to regress.
+Patch 6.5.0
+
+Buff
+: Doubled the Regression penalty from 
+-2.5 %
+ to 
+-5 %
+.
+
+Buff
+: The Patrol-Path-Orb now shrinks in size when starting to draw and completely disappears after a distance of 
+10 metres
+.
+
+Buff
+: Drawing a 
+Patrol Path
+ of at least 
+10 metres
+ now grants special bonuses after ending the interaction:
+
+Grants 
+The Knight
+ a 
+Haste
+ Status Effect
+ with a variable duration that depends on the final length of the 
+Patrol Path
+.
+
+Grants the summoned 
+Guard
+ a Time-Reduction bonus to the Hunt-Initialisation phase.
+
+Nerf
+: Drawing the 
+Patrol Path
+ now has a time limit of 
+10 seconds
+.
+Patch 7.7.0
+
+Quality of Life
+: 
+Guards
+ no longer get stuck on stairs.
+Patch 8.1.0
+
+Rework
+: Reworked 
+Guardia Compagnia
+ and its 
+Add-ons
+ to give more versatility between 
+The Knight
+ and his 
+Guards
+.
+
+Buff
+: Reduced the Breaking time of all 
+Guards
+:
+
+Reduced it for 
+The Carnifex
+ from 
+2 seconds
+ to 
+1.8 seconds
+.
+
+Reduced it for 
+The Jailer & Assassin
+ from 
+6 seconds
+ to 
+5 seconds
+.
+
+Buff
+: Increased the maximum range of the Detection radius of all 
+Guards
+:
+
+Increased it for 
+The Jailer
+ from 
+14 metres
+ to 
+16 metres
+.
+
+Increased it for 
+The Carnifex & Assassin
+ from 
+8 metres
+ to 
+10 metres
+.
+
+Undocumented Buff
+: Halved the Detection-Range Expansion time from 
+1 second
+ to 
+0.5 seconds
+.
+
+Buff
+: 
+Guards
+ can now be cycled through at will instead of following a strict rotation.
+
+Buff
+: Drawing longer 
+Patrol Paths
+ now grant the following additional bonuses to the summoned 
+Guards
+:
+
+Time-Increase to the Patrol phase.
+
+Time-Increase to the Flag-Materialisation time.
+
+Quality of Life
+: Halved the minimum Camera-Offset when starting to summon a 
+Guard
+ from 
+160 cm
+ to 
+80 cm
+.
+
+This allows 
+The Knight
+ to place 
+Guards
+ in tighter spaces.
+
+Quality of Life
+: 
+The Knight
+ now has the ability to exit the 
+Patrol-Path-Mode
+ without having to summon a 
+Guard
+.
+
+Nerf
+: 
+Patrol Paths
+ now must have a minimum length of 
+10 metres
+ unless a 
+Guard
+ is summoned to perform a 
+Guard Order
+.
+
+This change prevents 
+The Knight
+ from placing 
+Guards
+ in a single location without the 
+Guard
+ moving.
+
+Nerf
+: Added a proximity penalty that accelerates the Drain rate of the Hunt timer whenever 
+The Knight
+ comes too close to his 
+Guard
+.
+
+Nerf
+: Adjusted the ability of 
+Guards
+ to detect Survivors, reducing the possibility of them being detected through solid walls.
+
+Nerf
+: Increased the Cool-down time after a 
+Guard
+ despawns from 
+3 seconds
+ to 
+10 seconds
+
+Change
+: Swapped the Hunt phase and Flag-Materialisation times between 
+The Carnifex
+ and 
+The Jailer
+ to make the latter a more valid choice:
+
+Reduced the base Hunt duration of 
+The Carnifex
+ from 
+24 seconds
+ to 
+12 seconds
+.
+
+Increased the base Hunt duration of 
+The Jailer
+ from 
+12 seconds
+ to 
+24 seconds
+.
+
+Reduced the Flag-Materialisation time of 
+The Carnifex
+ from 
+10 seconds
+ to 
+5 seconds
+.
+
+Increased the Flag-Materialisation time of 
+The Jailer
+ from 
+5 seconds
+ to 
+10 seconds
+.
+Patch 8.2.0
+
+Buff
+: 
+Guards
+ now feature individual Cool-down durations and now allow for a different 
+Guard
+ to be summoned instead:
+
+The Carnifex
+: 
+20 seconds
+
+The Assassin
+: 
+30 seconds
+
+The Jailer
+: 
+25 seconds
+
+Forcefully despawning a 
+Guard
+ with a 
+Basic Attack
+ still applies the old cool-down of 
+10 seconds
+.
+
+Buff
+: A 
+Guard
+ can now be summoned while the previous one is still active, causing the latter to despawn and be replaced with the new one.
+
+If the previous 
+Guard
+ is completing a 
+Guard Order
+, they will finish the interaction first before despawning.
+Patch 9.1.0
+
+Buff
+: Increased the maximum length of the 
+Patrol Path
+ from 
+32 metres
+ to 
+38 metres
+.
+
+Buff
+: Sped up the 
+Patrol-Path-Orb
+:
+
+Increased its Movement speed from 
+13.8 m/s
+ to 
+15 m/s
+.
+
+Increased its Acceleration multiplier from 
+x1
+ to 
+x2
+.
+
+Increased its Strafing multiplier from 
+x0.25
+ to 
+x1
+.
+
+Quality of Life
+: Added input-buffering to the 
+Draw Patrol Path
+ interaction.
+Patch 10.1.1
+
+Even though these changes were announced in 10.1.1, these changes were likely implemented in 10.1.0 PTB.
+
+Change
+: 
+Guards
+ during a Hunt will now reliably path around Pallets when a Pallet was dropped 
+3 metres
+ away from them.
+
+Guards will path and phase through the Pallet if it was dropped less than 
+3 metres
+ away from them.
+
+Change
+: 
+Guards
+ who attempt pathing around a Pallet will abandon the Hunt entirely if the path length exceeds 
+48 metres
+.
+
+Trivia
+
+General
+
+The Knight
+ was originally a Hungarian slave, but was eventually granted freedom and a knighthood for his bravery in battle as a soldier.
+
+The Carnifex
+ was originally called 
+"The Executioner"
+, according to the Power icon's file name.
+This was likely changed to use the Latin terminology to avoid confusion with the actual Killer The 
+Executioner
+.
+
+The Knight
+, unlike other average height Killers, does not hoist himself through 
+Window
+ vaults, but rather steps through them in the same manner as tall Killers do.
+
+Guards
+
+Each 
+Guard
+ is represented by a unique Power icon, meaning that the Power icon tells 
+The Knight
+ which particular 
+Guard
+ will be summoned next.
+
+That symbol is also shown as a green hologram floating above 
+The Knight's
+ left arm (which controls his Power).
+
+As the hologram is also visible to Survivors, attentive Survivors can see it and know which 
+Guard
+ he will summon next as well.
+
+Name
+
+"Tarhos"
+ is a Hungarian given name.
+
+"Kovács"
+ (anglicised as 
+"Kovach"
+) is the Hungarian word for 
+"Forger"
+ or 
+"Smith"
+ and is the Hungarian equivalent to the common English last name 
+"Smith"
+, which denotes the profession.
+
+"Carnifex"
+ is the Latin word for 
+"Butcher"
+, but was also used in Ancient Rome to refer to an executioner.
+
+The connection to the Roman terminology is also evidenced by the fact that 
+The Carnifex
+ is referred to as 
+The Executioner
+ in the game files.
+
+Patrol Path
+
+When 
+The Knight
+ is drawing the 
+Patrol Path
+, Survivors can see the current position of 
+The Knight's
+ free-floating camera represented as a green orb moving about the Trial Grounds, but only if the drawn 
+Path
+ is shorter than 
+10 metres
+, after which it becomes invisible to Survivors.
+
+The green orb will emit the same stinger sound effect Killers have when starting to move after having stood still for a while, if 
+The Knight
+ has been standing still long enough to be considered stationary before he enters the 
+Guard Summon
+ mode.
+
+The green orb represents 
+The Knight's
+ actual location in the game world, rather than his visible, physical one.
+This behaviour is analogous to The 
+Spirit
+ while 
+Phase Walking
+, with the 
+phase-walking
+ 
+Spirit
+ representing the green orb, and her 
+Husk
+ representing the kneeling 
+Knight
+.
+
+For 
+The Knight
+, this behaviour used to have implications on Perks such as 
+Make Your Choice
+ or 
+Hex: Devour Hope
+, which have distance-related activation conditions and would activate based on the location of the green orb, rather than 
+The Knight's
+ "
+Husk"
+.
+
+For balancing purposes, this behaviour was deemed a "bug" and was remedied with 
+Patch 6.4.2
+.
+
+Standard
+
+A 
+Standard
+ is a special form of a flag, whose use dates back to ancient times to mark locations for troops on a battlefield.
+
+The Faithful Three
+
+The Knight
+ had three loyal followers that formed his pack known as 
+"The Faithful Three"
+:
+
+Alejandro Santiago
+ (
+The Jailer
+), who apprenticed with the Guardia Compagnia's Armourer.
+
+Durkos Malecek
+ (
+The Assassin
+), who showed an aptitude for stealth and silent kills.
+
+Sander Rault
+ (
+The Carnifex
+), who matched Tarhos in size and strength, and wielded a massive Battle Axe.
+
+Voice Actors
+
+The Knight
+ shares his voice actor, Misha Standjofski, with one of the many pained, wailing voices that can be heard during 
+Nightfall
+ when facing The 
+Dredge
+ and 
+William Birkin
+.
+
+The Carnifex
+ shares his voice actor, David A.B., with the Male 
+Zombie
+ when facing The 
+Nemesis
+.
+
+Weapon
+
+The Knight's
+ Weapon is a 
+Claymore
+, a Scottish variant of the late medieval two-handed sword and one of the most recognisable types of swords in popular culture.
+
+The Knight
+ accurately uses both hands to wield this Weapon.
+
+While carrying a Survivor on his shoulder, 
+The Knight
+ is physically unable to wield the sword with both hands.
+
+To adjust for this, the Developers created a unique animation for attacking while carrying, having 
+The Knight
+ carry the sword at the hilt and hitting Survivors with its pommel (the tip of the hilt) by thrusting it forwards.
+
+Gallery
+
+In-game Assets
+
+The Knight
+
+The Knight (Portrait render)
+
+The Knight (Background image)
+
+Old Assets
+
+The Knight (Old Portrait render)
+
+Concept Art
+
+'Enchanted Plates' Concept Art
+
+'Permanent Injuction' Concept Art
+
+'Grim Campaign' Concept Art
+
+'Splinter Rose' Concept Art (Designed by ATHS_ART.)
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

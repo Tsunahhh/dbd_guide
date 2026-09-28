@@ -1,0 +1,2178 @@
+# Henry Creel
+Source: https://deadbydaylight.wiki.gg/wiki/Henry_Creel (page complète via API, consultée le 27/09/2026)
+
+For the Dungeons & Dragons character also known as "Vecna", 
+click here
+.
+
+The First
+
+Name
+
+Henry Creel
+
+Game Alias(es)
+
+"Vecna"
+
+"One"
+
+Gender
+
+Man
+
+Origin
+
+American
+
+Power
+
+Test Subject #001
+
+Power 
+Attack
+ Type
+
+Special Attack
+
+(Vine Attack & Undergate Attack)
+
+Weapon
+
+Foul Intent
+
+Movement Speed
+
+110 % 
+|
+ 4.4 m/s
+
+Terror Radius
+
+32 metres
+
+Height 
+
+Average
+
+DLC
+
+Stranger Things Chapter 2
+
+Voice Actor
+
+Andrew Morgado (Voice Actor)
+
+Cost
+
+500 
+Auric Cells
+
+Menu Music
+
+Terror Radius Music
+
+Metadata
+
+CharID
+
+K42
+
+Henry Creel
+ or 
+"The First"
+, also known as  "
+Vecna
+", is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+He was introduced as the Killer of 
+Stranger Things Chapter 2
+, a Chapter DLC released on 27 January 2026. 
+
+He originates from the 2016 Sci-Fi-Horror Web Television series 
+Stranger Things
+, specifically from Season 4 and 5.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: Foul Intent
+
+3.3
+ 
+Power: Test Subject #001
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for Test Subject #001
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Base Cosmetics
+
+5.1.1
+ 
+Default
+
+5.1.2
+ 
+Prestige
+
+5.1.2.1
+ 
+Perk Charms
+
+5.1.2.2
+ 
+Prestige Badges
+
+5.2
+ 
+Alternatives
+
+5.3
+ 
+Rift
+
+5.4
+ 
+In-Game Store
+
+5.5
+ 
+Alternate Character Models
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+General
+
+8.2
+ 
+Character Memes
+
+8.3
+ 
+Cosmetics
+
+8.4
+ 
+Lore
+
+8.5
+ 
+Memento Mori
+
+8.6
+ 
+Voice Lines
+
+8.7
+ 
+Voice Line References
+
+9
+ 
+Gallery
+
+9.1
+ 
+In-game Assets
+
+9.2
+ 
+Older Assets
+
+9.3
+ 
+Official Art
+
+9.4
+ 
+Screenshots
+
+Overview
+
+The First
+ is a cunning and cruel former test subject, whose powers were sharpened in an alternate dimension.
+
+His personal Perks, 
+Turn Back the Clock
+, 
+Secret Project
+, and 
+Hex: Hive Mind
+, allow him to damage distant 
+Generators
+, block them from repair, and set them back when another is completed.
+
+Lore
+
+From a young age, Henry Creel was disgusted by humanity and their endless cycles of eating, reproducing and dying. Their mindless play. As this hatred bubbled and fermented, he found that he had strange powers: first, an ability to control the house's grandfather clock, and later, the ability to manipulate minds. His powers reached a terrifying new level as he contorted and destroyed the bodies of his mother and sister. Henry's father, blamed for their deaths, was sent to Pennhurst Mental Hospital.
+
+A shadowy organization faked Henry's death and moved him to a facility where his powers were limited by the Soteria chip, and studied along with several other children with psionic powers. He played along and was eventually made an orderly. But his compliance was a ruse. Once he was able to convince Eleven to remove his chip, he massacred the students and staff of the facility, only stopping when Eleven was able to banish him to another dimension.
+
+Henry thought he was going to die. Instead, he became more powerful than ever before. From this new dimension, he committed a series of grisly murders as part of his plan to open gates to the real world and destroy all of humanity. But as he passed through a gate, a black fog appeared and he crossed over into a new realm - one unfamiliar, but full of potential.
+
+Load-out
+
+Unique Perks
+
+The First
+ comes with 
+3
+ 
+Perks
+ that are unique to him:
+
+ 
+
+Hex: Hive Mind
+
+"You found yourself connected to something dark and unknowable... and you embraced it."
+
+The first time you hook any 
+Survivor
+, a random 
+Dull Totem
+ becomes a 
+Hex Totem
+, provided that a 
+Dull Totem
+ remains in the Trial Grounds.
+
+Generators
+ are highlighted; the intensity of the generator's 
+Auras
+ reveals their repair progress.
+
+As soon as a total of 
+4
+ generators have been completed in the Trial:
+
+All remaining generators explode, lose 
+6
+/
+8
+/
+10
+ 
+%
+ progess, and start 
+regressing
+.
+
+The associated 
+Hex Totem
+ becomes dull, and this perk becomes disabled for the remainder of the trial.
+
+The 
+Hex Effects
+ persist until the 
+Hex Totem
+ is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.
+
+"You... let us in. And now, you are going to have to let us stay" — Henry Creel
+
+ 
+
+Secret Project
+
+"Raised to be weapon, you broke free with the very skills your captors honed within you."
+
+Whenever a 
+Totem
+ is blessed or cleansed, a random unblocked generator becomes 
+blocked
+ for  
+20
+/
+25
+/
+30
+ 
+seconds
+.
+
+Whenever any number of 
+Generators
+ become blocked, you gain 
+Undetectable
+ 
+Status Effect
+ for 
+30 seconds
+.
+
+"You are a prisoner here, just like me" — Henry Creel
+
+ 
+
+Turn Back the Clock
+
+"Resist as they might, time marches on, and your master plan comes closer to fruition."
+
+After hooking a Survivor, for 
+40
+/
+50
+/
+60
+ 
+seconds
+, press the 
+Active Ability button
+ to make a target generator within 
+20 meters
+ explode, lose 
+-10 %
+ progress, and start regressing.
+
+"Nothing will happen to you... Nothing that you don't deserve!" — Henry Creel
+
+Prestige
+
+Prestiging 
+The First
+ will automatically add 
+Tier I
+ of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The First
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: Foul Intent
+
+Foul Intent
+ is the Primary Weapon of 
+The First
+.
+
+He decided to bring that malevolent realm to the human world and extinguish them once and for all.
+
+Power: Test Subject #001
+
+SPECIAL ABILITY: VINE ATTACK
+Press and hold 
+Power button
+ to start charging 
+Vine Attack
+. Release the 
+Power button
+ button to cancel the Power.
+Press the 
+Attack button
+ while fully charged to create an area of effect on the ground, Survivors caught inside it will be inflicted 
+1
+ 
+Worldbreaker Token
+.
+SPECIAL ABILITY: THE UPSIDE DOWN
+The First
+ can enter 
+The Upside Down
+ by pressing the 
+Secondary Power button
+.
+While in 
+The Upside Down
+, 
+The First
+:
+
+Can peform 
+Undergate Attack
+.
+
+Is granted 
+Undetectable
+.
+
+Moves at 
+8 m/s
+.
+
+Ignores the collisions of: 
+Breakable Walls
+, 
+Pallets
+ and 
+Windows
+
+This ability has a 
+35 second
+ cool-down after exitting 
+The Upside Down
+. At the start of the trial, the ability starts at 
+50%
+ of the base cool-down.
+SPECIAL ABILITY: UNDERGATE ATTACK
+Press the 
+Attack button
+ to peform the 
+Undergate Attack
+.
+Performing the attack causes an area of effect to grow around 
+The First
+'s position.  Once it reaches the full radius, 
+The First
+ exits 
+The Upside Down
+. Any Survivors caught inside the radius of the attack are inflicted 
+2
+ 
+Worldbreaker
+ tokens.
+SPECIAL AFFLICTION: WORLDBREAKER & WORLDBREAKER TOKENS
+Survivors can be inflicted up to 
+4
+ 
+Worldbreaker
+ tokens.
+Worldbreaker
+ is activated when:
+
+Any Survivor reaches 
+2
+ or 
+4
+ 
+Worldbreaker
+ tokens.
+
+Any Survivor with 
+4
+ 
+Worldbreaker
+ tokens is hit by either 
+Vine Attack
+ or 
+Undergate Attack
+.
+
+While 
+Worldbreaker
+ is active, 
+Vine Attack
+ and 
+Undergate Attack
+ will inflict damage to Survivors instead of inflicting 
+Worldbreaker
+ tokens.
+Worldbreaker
+ has two durations phases: Phase One and Phase Two.
+Phase One's duration is determined by the amount of Survivors present in the Trial: 
+60 seconds
+ for each Survivor present in the Trial.
+Phase Two lasts for 
+50 seconds
+.
+Worldbreaker
+'s base count down is paused while carrying a Survivor.
+SPECIAL OBJECT: GRANDFATHER CLOCK
+4
+ 
+Grandfather Clocks
+ spawn in the Trial. They become available to Survivors during 
+Worldbreaker
+'s Phase One duration phase.
+Survivors are able to interact with 
+Grandfather Clocks
+ to speed up the count down of Phase One.
+SPECIAL INTERACTION: MIND BREAK
+Survivors who reached the second Hook Stage and have 
+4
+ 
+Worldbreaker
+ tokens become exposed to 
+Mind Break
+.
+During 
+Worldbreaker
+, if the Survivor exposed to 
+Mind Break
+ is inflicted damage that would send them to the 
+Dying State
+ by 
+Vine Attack
+ or 
+Undergate Attack
+, the Survivor will be sent floating into the air.
+The First
+ is able to perform the 
+Mind Break
+ Mini-Mori while standing next to the floating Survivor by pressing the 
+Secondary Power button
+.
+
+Power Trivia
+
+Movement Speeds:
+
+Walking: 
+4.4 m/s
+
+Traversing the 
+Upside Down
+: 
+8 m/s
+
+Walking movement speed multiplier while charging 
+Vine Attack
+: 
+x0.681818
+
+This results in a walking movement speed of 
+2.99m/s
+
+Walking movement speed multiplier while casting 
+Vine Attack
+: 
+x0.40909
+
+This results in a walking movement speed of 
+1.79m/s
+
+Vine Attack:
+
+Cooldown: 
+3 seconds
+
+Charge time: 
+0.4 seconds
+
+Casting time: 
+0.6 seconds
+
+Cancel cooldown time: 
+1.5 seconds
+
+Vine Attack - Area Of Effect:
+
+Area of Effect delay: 
+0.6 seconds
+
+Area of Effect linger time: 
+0.3 seconds
+
+Area of Effect radius: 
+1.46 metres
+
+Area of Effect height: 
+5 metres
+
+Anti-camp range = 
+8 metres
+
+Anti-camp Area of Effect delay: 
+6 seconds
+
+Upside Down:
+
+Cooldown: 
+35 seconds
+
+Trial start cooldown: 
+50% of base cooldown
+
+Transition to 
+Upside Down
+ time: 
+1.5 seconds
+
+Delay before reaching 
+Upside Down
+ walking movement speed: 
+0.32 seconds
+
+Delay before reaching normal walking movement speed after performing 
+Undergate Attack
+: 
+2.5 seconds
+
+Upside Down - Undergate Attack:
+
+Time to reach maximum radius: 
+1.65 seconds
+
+Attack delay: 
+0.45 seconds
+
+Attack linger time: 
+0.25 seconds
+
+Attack blast height: 
+5 metres
+
+Interaction lock time after performing the attack: 
+1 second
+
+Survivor warning radius visibility delay time: 
+0.45 seconds
+
+Worldbreaker:
+
+Phase One duration: 
+60 seconds for each Survivor still alive
+
+Phase Two duration: 
+50 seconds
+
+Base decharge rate: 
+-1 charge per second
+
+Decharge rate based on the amount of Survivors performing the 
+Grandfather Clock
+ interaction:
+
+1
+ Survivor: 
+-9 charges per second
+
+2
+ Survivors: 
+-12 charges per second
+
+3
+ Survivors: 
+-15 charges per second
+
+4
+ Survivors: 
+-18 charges per second
+
+Worldbreaker - Mind Break Mini Mori:
+
+Mind Broken Survivor float duration: 
+15 seconds
+
+Add-ons for Test Subject #001
+
+Icon
+
+Name
+
+Description
+
+Bead Maze
+
+"A developmental toy used to enrich the minds of captive children."
+
+Modifies 
+Worldbreaker
+ with the following effect:
+
+The second phase of the Worldbreaker Timer is 
+increased
+ by 
+2.5 seconds
+ for each living Survivor.
+
+Mid-Century Radio
+
+"It sat silent in the Creel's dining room until the slaughter was about to begin."
+
+Unlocks potential in your Aura-reading ability while using 
+Worldbreaker
+:
+
+Survivors more than 
+32 meters
+ away have their 
+Auras
+ revealed while interacting with 
+Grandfather Clocks
+.
+
+Orderly ID
+
+"Bears the face of Henry Creel as he appeared before he was changed by another dimension."
+
+Modifies 
+Vine Attack
+ with the following effect:
+
+While not in 
+Worldbreaker Mode
+,  the aiming range is 
+increased
+ by 
+2 meters
+.
+
+Stained Glass Mural
+
+"A design once found on the Creel family door. Now it darkens the door of another dimension."
+
+Modifies 
+The Upside Down
+ with the following effect: 
+
+While on cooldown, breaking 
+Pallets
+ and 
+Breakable Walls
+decreases
+ that cooldown by 
+12 seconds
+.
+
+Bloody Roller Skate
+
+"A memento of the fury that Eleven was capable of."
+
+Modifies the 
+Undergate Attack
+ with the following effect:
+
+Grants the 
+20 %
+ 
+Haste
+ 
+Status Effect
+ for 
+1.5 seconds
+.
+
+Clock Hands
+
+"Hands of the Creel family's grandfather clock, corrupted by Henry's dark power."
+
+Modifies the 
+Grandfather Clocks
+ with the following effect:
+
+Causes Survivors to gain the 
+Oblivious
+ 
+Status Effect
+ while interacting with the 
+Grandfather Clocks
+ and for 
+12 seconds
+ after.
+
+Gutted Supercom
+
+"A broken communication device that now crackles to life at the most terrifying times."
+
+Unlocks potential in your Aura-reading ability while using 
+Vine Attack
+:
+
+While not in 
+Worldbreaker Mode
+ hitting a Survivor with a 
+Vine Attack
+ reveals their 
+Aura
+ to you for 
+1.5 seconds
+.
+
+Shattered Wrist Rocket
+
+"A once-powerful slingshot, now laid to ruin."
+
+Modifies 
+Undergate Attack
+ with the following effect:
+
+The explosion from the 
+Undergate Attack
+ breaks 
+Pallets
+ instantly and damages 
+Generators
+.
+
+Smashed Cassette Deck
+
+"They once used music to escape Henry's grasp. Without it, they do not stand a chance."
+
+At the start of the match, all Survivors scream.
+
+All Survivors start with one 
+Worldbreaker token
+. When 
+Worldbreaker
+ is activated for the first time, all Survivors lose their 
+Worldbreaker token
+. 1 less 
+Grandfather Clock
+ appears on the map.
+
+Electrode Cap
+
+"Used to measure the brain's activity. In the lab, nothing goes unnoticed."
+
+Modifies 
+Worldbreaker
+ with the following effect:
+
+At the start of the second phase, Survivors more than 
+26 meters
+ away have their 
+Auras
+ revealed to you for 
+6 seconds
+.
+
+Forged Death Certificate
+
+"A piece of paper used to prove the death of a powerful person who was very much alive."
+
+Modifies 
+Vine Attack
+ with the following effect:
+
+Applying a 
+Worldbreaker Token
+ on any Survivor afflicts the Killer with 
+Undetectable
+ 
+Status Effect
+ until the next 
+Worldbreaker Mode
+ activation.
+
+Neck Tendril
+
+"He was furious when the tendril was torn from his neck as Max escaped his mind realm."
+
+Modifies 
+Vine Attack
+ with the following effect:
+
+While in 
+Worldbreaker Mode
+,  Survivors hit by 
+Vine Attack
+ gain the 
+Haemorrhage
+ and 
+Mangled
+ 
+Status Effects
+ for 
+70 seconds
+.
+
+Pizza Goggles
+
+"Used while Eleven entered sensory deprivation, they rid the user of distractions and focus the mind."
+
+Modifies 
+The Upside Down
+ with the following effect:
+
+Cooldown is reduced by 
+25 seconds
+.
+
+Modifies 
+Undergate Attack
+ with the following effects:
+
+Attack radius is decreased by 
+90 %
+.
+
+Attack cool-down is reduced by 
+80 %
+
+Victor's Razor Blade
+
+"In his own grief, Henry's father used a hidden blade to take out his own eyes."
+
+Modifies 
+Worldbreaker
+ with the following effect:
+
+Upon ending, injured Survivors gain the 
+Broken
+ 
+Status Effect
+ for 
+20 seconds
+.
+
+Black Widow Spider
+
+"A terrifying spider that is no longer a mere hallucination."
+
+Unlocks potential in your Aura-reading ability while using 
+The Upside Down
+ in 
+Worldbreaker Mode
+:
+
+The 
+Aura
+ of the furthest survivor more than 
+36 meters
+ is revealed to you for 
+3 seconds
+.
+
+Broken Skateboard
+
+"A cool way to get around, smashed by a furious brother as a means of control."
+
+Modifies 
+Worldbreaker
+ with the following effect:
+When 
+Worldbreaker Mode
+ activates, the following effects trigger for 
+65 seconds
+
+Increases vaulting speed by 
+30 %
+.
+
+Pallet
+ and 
+Window
+ auras are revealed within 
+32 metres
+
+Electroshock Collar
+
+"A cruelly efficient way of training and punishing the facility's prisoners."
+
+Modifies 
+The Upside Down
+ with the following effect: 
+
+When exiting, all Vault locations within 
+32 meters
+ are blocked for 
+12 seconds
+.
+
+Rabbit Remains
+
+"Before massacring his family, Henry started small, killing rabbits and leaving their corpses strewn about town."
+
+Modifies 
+Undergate Attack
+ with the following effect:
+
+Survivors standing in or entering the area of effect gain the 
+Exhausted
+ 
+Status Effect
+ and for 
+10 seconds
+ after.
+
+Modifies 
+The Upside Down
+ with the following effect:
+
+Increases cool-down by 
+5 seconds
+.
+
+Chess Piece
+
+"One of the few forms of entertainment while in the facility, it helped the students learn logic and tactics."
+
+Modifies the 
+Vine Attack
+ with the following effect:
+
+Gains two charges, and has it's attack radius reduced by 
+40 %
+
+Iridescent Soteria Chip
+
+"A chip that once limited his powers is now a source of even greater power."
+
+Modifies 
+Worldbreaker
+ with the following effect:
+
+Upon activation, grants the 
+Undetectable
+ 
+Status Effect
+ and the 
+Auras
+ of Survivors with at least one 
+Worldbreaker Token
+ are revealed to you when they are within 
+12 meters
+. This lasts until you perform a 
+Vine Attack
+,  enter 
+The Upside Down
+,  or when 
+Worldbreaker
+ ends.
+
+Achievements
+
+Main article: 
+Achievements
+
+There are 
+2
+ Achievements related to 
+The First
+:
+
+Icon
+
+Name
+
+Description
+
+Adept First
+
+Playing as The 
+First
+, achieve a 
+Merciless Victory
+ using only his 
+3
+ Unique Perks: 
+Turn Back the Clock
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Resist as they might, time marches on, and your master plan comes closer to fruition."
+
+After hooking a Survivor, for 
+40
+/
+50
+/
+60
+ 
+seconds
+, press the 
+Active Ability button
+ to make a target generator within 
+20 meters
+ explode, lose 
+-10 
+ progress, and start regressing.
+
+"Nothing will happen to you... Nothing that you don't deserve!" — Henry Creel
+
+, 
+Secret Project
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Raised to be weapon, you broke free with the very skills your captors honed within you."
+
+Whenever a 
+Totem
+ is blessed or cleansed, a random unblocked generator becomes 
+blocked
+ for  
+20
+/
+25
+/
+30
+ 
+seconds
+.
+
+Whenever any number of 
+Generators
+ become blocked, you gain 
+Undetectable
+ 
+Status Effect
+ for 
+30 seconds
+.
+
+"You are a prisoner here, just like me" — Henry Creel
+
+, and 
+Hex: Hive Mind
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"You found yourself connected to something dark and unknowable... and you embraced it."
+
+The first time you hook any 
+Survivor
+, a random 
+Dull Totem
+ becomes a 
+Hex Totem
+, provided that a 
+Dull Totem
+ remains in the Trial Grounds.
+
+Generators
+ are highlighted; the intensity of the generator's 
+Auras
+ reveals their repair progress.
+
+As soon as a total of 
+4
+ generators have been completed in the Trial:
+
+All remaining generators explode, lose 
+6
+/
+8
+/
+10
+ 
+%
+ progess, and start 
+regressing
+.
+
+The associated 
+Hex Totem
+ becomes dull, and this perk becomes disabled for the remainder of the trial.
+
+The 
+Hex Effects
+ persist until the 
+Hex Totem
+ is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.
+
+"You... let us in. And now, you are going to have to let us stay" — Henry Creel
+
+.
+
+Torn Asunder
+
+Playing as The 
+First
+, damage a Survivor using the 
+Vine
+ or 
+Undergate
+ Attacks 
+50 times
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customize 
+The First
+:
+
+Base Cosmetics
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Alternate Dimension
+
+Common
+
+His hatred for humanity led him to an alternate world, free of people, bursting with untapped potential.
+
+Creeping Vines
+
+Common
+
+The strange energies in this new dimension warped his flesh and sharpened his twisted mind.
+
+Foul Intent
+
+Common
+
+He decided to bring that malevolent world to the human realm and extinguish them once and for all.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Dimension of Suffering
+
+Rare
+
+His hatred for humanity led him to an alternate world that honed his killing instincts.
+
+Prestige Level 6 Reward
+
+Tearing Vines
+
+Rare
+
+The strange energies in this new dimension turned him into something horrifying, violent and unrecognizable.
+
+Prestige Level 5 Reward
+
+Murderous Intent
+
+Rare
+
+He decided to bring that sickening world to the human realm and began his crusade against the population.
+
+Prestige Level 4 Reward
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+A blood-soaked monster whose hatred for people led him to destroy them in horrifying and perverse ways.
+
+Alternatives
+
+ Rift
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Henry Creel
+
+Stranger Things
+
+Rift Pass 4 - Flashback
+
+12 June 2018 (Tuesday)
+
+Description
+
+Before his monstrous transformation, he lived as a prisoner and test subject in a secret government facility.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Violent Tendencies
+
+Stranger Things
+
+1
+
+With each experiment, each indignity, his hatred for humanity grew stronger, and his plans for revenge came closer to fruition.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Manipulative Orderly
+
+Stranger Things
+
+1
+
+He got to know other test subjects, and found one in particular who would be a useful tool in his scheme.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Calculating Turncoat
+
+Stranger Things
+
+1
+
+Once he was able to remove the chip that limited his powers, all of the pieces came together, and he began to execute his master plan.
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Scion of the Upside Down
+
+Stranger Things
+
+27 January 2026 (Tuesday)
+
+Description
+
+The alternate dimension would have destroyed anyone but the most powerful and driven monster.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Fearsome Gestalt
+
+Stranger Things
+
+Banished by Eleven during their first showdown, he seemed doomed to a life of torment.
+
+Piece
+
+Name
+
+Collection
+
+Horrible Hybrid
+
+Stranger Things
+
+The unending, chaotic storms twisted and warped him, turning his flesh into something more than human.
+
+Piece
+
+Name
+
+Collection
+
+Warped by Hatred
+
+Stranger Things
+
+He gave form to the malevolence on the other side and leveraged it to his own ends.
+
+Alternate Character Models
+
+The 
+First
+ has 
+1
+ alternate Character model available in the in-game Store:
+
+Henry Creel
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The First
+ is part of 
+1
+ DLC:
+
+Stranger Things Chapter 2
+
+Change Log
+
+Patch 9.4.2
+Patch 9.5.0
+Patch 9.4.2
+
+Undocumented Nerf
+: 
+Vine Attack
+ charging movement speed multiplier is now applied when the 
+Vine Attack
+ charge interaction is started instead of after completing the charge interaction.
+Patch 9.5.0
+
+Buff
+: increased lunge attack speed from 
+6.6 m/s
+ to 
+6.9 m/s
+ to match other Killers.
+
+Nerf
+: 
+Worldbreaker
+ Phase Two duration decreased from 
+60 seconds
+ to 
+50 seconds
+.
+
+Trivia
+
+General
+
+Henry Creel's
+ alias, 
+Vecna
+, originates from The 
+Lich
+ , due to being nicknamed so by the cast of 
+Stranger Things
+. He is loosely based on the character.
+[
+1
+]
+
+This is shared with The 
+Demogorgon
+.
+
+Three of his voice-lines, 
+"I will not be denied"
+, 
+"Enough games"
+ and 
+"Your time draws near"
+, are shared with The 
+Lich
+.
+
+Additionally, quite a few of 
+The First's
+ voice-lines are 
+nearly
+ identical to some voice-lines of The 
+Lich
+, such as, 
+"There is no escape"
+, versus The Lich's 
+"There will be no escape."
+
+The First
+ shares his lobby theme with The 
+Demogorgon
+ and the 
+Stranger Things
+ survivors.
+
+The First
+ is the first killer to share a menu theme with another killer outside of the default menu theme and cosmetic menu themes.
+
+The First
+ was inspired by many classic horror villains.
+[
+2
+]
+
+The First's
+ visuals and his methods of killing are inspired by 
+Freddy Krueger
+.
+
+It was also partially inspired by 
+Pinhead
+ alongside his presence in the show.
+
+The First
+ is also inspired by 
+Pennywise
+ from 
+IT
+, due to him targeting his victims by using their fear as an exploitable weapon.
+
+The First
+ was the first Killer to receive a portrait update from PTB to Live.
+
+Originally, it was more saturated and with higher contrast. Those were reversed at release.
+
+The associated achievement, 
+"Torn Asunder"
+, is likely a reference to the lyrics of a song used in Season 4, 
+"Running Up That Hill"
+ by Kate Bush, 
+"Unaware I'm tearin' you asunder"
+.
+
+The First
+ is the first killer that cannot be rotated by the player while in the 
+Store
+.
+
+The First's
+ character portrait mirrors The 
+Lich
+.
+
+Character Memes
+
+Due to being the second Killer named 
+Vecna
+ to be added to 
+Dead by Daylight
+, 
+Henry
+ has been memed on endlessly by the community. This has led to several humorous remarks, such as naming him 
+The Second - Vecna
+, or comparing him to The 
+Lich
+, the latter being called "The Cooler Vecna", which was strengthened by Season 5's mixed reception.
+
+His title 
+"The First"
+ was also turned into a joke, due to the fact he is in the literal and in the meta sense not the first 
+Vecna
+.
+
+Cosmetics
+
+All of 
+The First's
+ skins are taken from his appearances through the show.
+
+Henry Creel
+ was worn by 
+The First
+ during the flashbacks of Season 4, when Henry worked as an orderly for Hawkins Laboratory (Season 4, Episode 5-7 & Season 5, Episode 4 & 5).
+
+Henry Creel
+ is the third legendary since 
+Rize Kamishiro
+ to slightly alter the mori of the Killer. Instead of stabbing through his victims's skull, Henry levitates them with a hand gesture.
+
+Scion of The Upside Down
+ was worn by 
+The First
+ during the flashbacks of Season 4, when Henry is sent to Dimension X by 
+Eleven
+ (Season 4, Episode 7)
+
+It was slightly altered so it features a precursor to his main Season 4 design with his clawed hand.
+
+Default Outfit
+ originates from Season 5, being his true form. (Season 5, Episodes 4-8).
+
+Lore
+
+His lore depicts his origin story and the events of Season 4. However, his appearance is from Season 5.
+
+Despite the Mind Flayer appearing in the Stranger Things lobby, it is unknown whether it is the real thing or a manifestation of The Entity.
+
+The lore makes no mention of the Mind Flayer entering the Fog too, but could possibly have still entered the realm due its strong connection to Henry at the time of his entry.
+
+Memento Mori
+
+The First
+ is the fourth killer to feature two entirely different Moris.
+
+His first Mori is his iconic method of killing his victims by stabbing them in the head with his clawed hand, lifting them up into the air, breaking their limbs and jaw and making their eyes pop out of their sockets.
+
+When he killed 
+Chrissy
+ in Season 4, it was a reference a reference to one of 
+Freddy Krueger
+'s kills, from both the original and remake, where he kills Tina/Kris.
+
+His second Mori, 
+Mindbreak,
+ suspends the Survivors in the air, before twisting their neck backwards.
+
+Voice Lines
+
+The First
+ is the eleventh Killer to actively speak during Trials.
+
+Peforming a Mori on 
+Dustin Henderson
+, 
+Eleven
+, 
+Nancy Wheeler
+, and 
+Steve Harrington
+ along with their legendary outfits will trigger a special interaction where 
+The First
+ speaks to them by name and mocks them.
+
+Voice Line References
+
+Several of his voice lines are taken from Season 4 of Stranger Things, when Henry taunts his victims before killing them. In particular, 
+"It's time for your suffering to end"
+, 
+"Join me"
+, 
+"Weak. Fragile"
+ and 
+"You. Will. Break"
+.
+
+Voice Line
+
+Audio
+
+Selecting in the Lobby
+
+"The door has opened."
+
+"Nothing can stop this now."
+
+"I will remake this world."
+
+"More worlds to conquer."
+
+"Have you been looking for me?"
+
+"I see your secrets."
+
+"You cannot escape me."
+
+"My explorations continue."
+
+"This realm has been spoiled."
+
+"Yes... transcendence..."
+
+"Can you hear me?"
+
+"Who will join me?"
+
+"No one can help you."
+
+"There is a reason we are here."
+
+"There is no escape."
+
+"Join me."
+
+"The time has come."
+
+"Another realm. So be it."
+
+"I will reshape this world, as I have all others."
+
+"All roads have led to this realm."
+
+Worldbreaker Start
+
+"I will reshape the world."
+
+"Your days are numbered."
+
+"I am inevitable."
+
+"You have little time left."
+
+"It begins."
+
+"I have prepared."
+
+"Your time draws near."
+
+"I am superior."
+
+"Soon."
+
+"Prepare yourself."
+
+Worldbreaker End
+
+"No!"
+
+"A brave one."
+
+"You..."
+
+"Enough games."
+
+"You are stronger than I expected..."
+
+"Very clever."
+
+"You will not escape."
+
+"It will not be so easy."
+
+"I will not be denied."
+
+"You only delay the inevitable."
+
+"You cannot run."
+
+"I will show you no mercy."
+
+Taunting Survivors (Mindbreak)
+
+"Your time is now."
+
+"Come to me."
+
+"This is it."
+
+"I will break you."
+
+"Weak. Fragile."
+
+"Time for your suffering to end."
+
+"Join me."
+
+"I see you."
+
+Performing Memento Mori
+
+"It's time."
+
+"Your suffering is almost at an end."
+
+"You have lost."
+
+"This will be... beautiful."
+
+"You. Will. Break."
+
+"I want you to join me."
+
+"This ends now."
+
+"Everything you've done. For nothing."
+
+"You cannot stop this."
+
+"That's enough."
+
+"You do not have much longer."
+
+"It's over."
+
+Performing Memento Mori - 
+Nancy Wheeler
+
+"Nancy."
+
+"It's time for you to leave, Nancy."
+
+Performing Memento Mori - 
+Robin Buckley
+
+"Robin."
+
+"There is no escape for you, Robin."
+
+Performing Memento Mori - 
+Eleven
+
+"Eleven."
+
+"I have waited a long time for this, Eleven."
+
+Performing Memento Mori - 
+Steve Harrington
+
+"Steve."
+
+"You're not saving the day today, Steve."
+
+Performing Memento Mori - 
+Jonathan Byers
+
+"Jonathan."
+
+"Poor little Jonathan."
+
+Performing Memento Mori - 
+Dustin Henderson
+
+"Dustin."
+
+"This ends your little game, Dustin."
+
+Performing Memento Mori - 
+Eddie Munson
+
+"Eddie."
+
+"You were never the hero, Eddie."
+
+Gallery
+
+In-game Assets
+
+The First (Portrait render)
+
+The First (Background image)
+
+Older Assets
+
+The First 9.4.0 PTB Portrait render
+
+Official Art
+
+Screenshots
+
+Henry Creel (The First) in Stranger Things Chapter 2 Menu Background
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter
+
+↑
+ 
+https://www.digitalspy.com/tv/ustv/a40142136/vecna-stranger-things-season-4/
+
+↑
+ 
+https://screenrant.com/stranger-things-vecna-inspiration-freddy-kreuger-pennywise/

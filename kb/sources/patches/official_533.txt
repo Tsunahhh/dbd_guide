@@ -1,0 +1,309 @@
+# 9.4.0 | PTB Patch Notes - BHVR
+Source: https://forums.bhvr.com/dead-by-daylight/kb/articles/533 (consulté le 28/09/2026)
+
+Important
+The 9.4.0 PTB will be available from January 6-13, 2026.
+New content and features will be available to test for the entire duration of this PTB.
+2V8 content will become available for testing on January 8, 2026.
+All characters you have unlocked on the in-game store, combined with any DLCs unlocked on Steam, will be automatically unlocked.
+If DLC content has been unlocked via a platform other than Steam, it will not be automatically unlocked in the PTB. This content can be unlocked with the provided Auric Cells.
+When accessing a character's Bloodweb, the character will be automatically set to Level 50 and Prestige 3, unlocking their perks to Tier 3, as well as any items that would regularly be obtained during this process.
+All offerings, items, and add-ons will be pre-loaded with 99 units available.
+12,500 Auric Cells and 1 million Bloodpoints will be given on each new PTB version, available to explore Outfits and Characters in the Store.
+New Content
+New Killer - The First
+SPECIAL ABILITY: VINE ATTACK
+Press and hold the Power button to charge a Vine Attack. When charged, press the Attack button to activate it, creating a small area of effect on the ground.
+Any Survivors caught within the area of the Vine Attack earn a Worldbreaker token.
+SPECIAL ABILITY: THE UPSIDE DOWN & UNDERGATE
+The Killer can enter The Upside Down to navigate the map quickly by tapping the Ability button. While in The Upside Down, the Killer can activate an Undergate attack to return to the map, creating a large area of effect on the ground. Survivors caught within its radius gain 2 Worldbreaker tokens.
+SPECIAL CONDITION / ITEM: WORLDBREAKER & GRANDFATHER CLOCKS
+Once a Survivor has gained enough tokens, Worldbreaker activates, and the Worldbreaker Timer begins. While Worldbreaker is active, both the Vine Attack and
+Undergate attacks do damage to Survivors instead of adding Worldbreaker tokens, and 4 Grandfather Clocks activate.
+Worldbreaker lasts for a predetermined amount of time, based on the number of Survivors alive. Survivors can interact with the Grandfather Clocks spread around the map to speed up the Worldbreaker Timer.
+NEW KILLER PERKS:
+Turn Back the Clock
+After hooking a Survivor, for
+40/50/60 seconds
+, press Ability button 1 to make target generator within
+20/20/20 meters
+explode, lose
+10/10/10%
+progress and start regressing.
+Secret Project
+When a totem is blessed or cleansed, block a random unblocked generator for
+20/25/30 seconds
+.
+When 1 or more generators become blocked, you gain
+Undetectable
+for
+30/30/30 seconds
+.
+Hex: Hive Mind
+The first time you hook any Survivor, a Dull Totem becomes a Hex Totem.
+Generators are highlighted; the intensity of generator auras reveals their repair progress.
+When
+1/1/1
+generator remains, all remaining generators explode, lose
+6/8/10%
+progress and start regressing, and the Hex Totem becomes dull.
+New Survivor - Dustin Henderson
+NEW SURVIVOR PERKS:
+Bada Bada Boom
+After completing
+20/20/20%
+worth of repairs, press Ability button 1 next to a window to trap it for
+40/50/60 seconds
+.
+The trap triggers when the Killer performs a vault on the window, inflicting them with
+50/50/50% Hindered
+for
+6/6/6 seconds
+.
+Change of Plan
+You start with
+2/2/2
+tokens.
+While inside a locker and holding a non-event Toolbox, press Ability button 2 to spend
+1/1/1
+token and transform your Toolbox into a Med-kit of the same rarity with a random add-on of the same rarity.
+The new Med-kit has
+80/90/100%
+of its charges.
+Teamwork: Full Circuit
+For each other Survivor repairing a generator with you, the size of the Good Skill Check zone is increased by
+15/20/25%
+.
+While repairing with at least 1 other Survivor, you repair
+5/5/5%
+faster.
+New Survivor - Eleven
+NEW SURVIVOR PERKS:
+Extrasensory Perception
+After crouching for
+4/4/4 seconds
+, you see auras in an expanding radius, up to
+44/44/44 meters
+, have
+Elusive
+and
+Oblivious
+.
+When you stop crouching or after
+11/11/11 seconds
+, this perk enters a
+60/50/40-second
+cooldown.
+We See You
+When the Killer reveals your aura, gain
+one
+token.
+When you have
+4/4/4
+tokens, spend all tokens and you and other Survivors see the Killer's aura for
+10/12.5/15 seconds
+.
+This perks has a
+10/10/10-second
+cooldown.
+Teamwork: Soft-Spoken
+For each other Survivor repairing a generator with you, the range at which generator repair noise is heard is reduced by
+15/20/25%
+.
+While repairing with at least 1 other Survivor, you repair
+5/5/5%
+faster.
+Features
+Visual Terror Radius
+Updated the 2D version of the Visual Terror Radius heart to be animated.
+Matches 3D heart behavior.
+Has its own Lullaby version.
+2V8
+Available on the PTB from January 8-13, 2026.
+NEW KILLER
+The Good Guy - Innate Skills:
+Slice & Dice turn speed increased by
+10%
+.
+Increased Hidey-Ho Mode uptime by
+15%
+.
+Performing a Scamper under a pallet breaks it immediately.
+The Good Guy can see Illusionary Footfalls around Survivors.
+Increased Slice & Dice attack duration by
+50%
+.
+KILLER UPDATE
+The Nemesis:
+Added 2 additional Zombies for a total of
+4
+.
+Increased Zombie movement speed by
+35%
+.
+KILLER CLASS UPDATES
+Brute - Team Skill:
+Break action speed increased by
+25%
+.
+Kicking a Generator causes it to weaken and begin regressing.
+The aura of the kicked generator will appear in yellow to the Brute.
+The next time a Survivor interacts with the Generator and repairs it past its regression point, it explodes triggering a loud noise notification and sprays the Survivor with smoke. The Survivor suffers from the
+Hindered
+status effect for
+12 seconds
+.
+The aura of the generator returns to red after the effect occurs.
+Cooldown for
+60 seconds
+where break action speed bonus is not applied.
+Fearmonger - Team Skill:
+Gain
+5%
+Haste
+when unseen.
+Injuring a Survivor by any means causes up to
+2
+Survivors within
+12 meters
+of the injured Survivor to scream, revealing their aura to your teammate for
+2 seconds
+.
+Cooldown for
+60 seconds
+where
+Haste
+bonus is not applied.
+Enforcer - Team Skill:
+Gain
+3% Haste
+when chasing an injured Survivor.
+When you hit a Survivor, the Survivor receives the Enforcer’s Mark, which is visible to both you and your teammate.
+Survivors with Enforcer’s Mark applied have their aura revealed for
+1 second
+every
+8 seconds
+while marked for
+45 seconds
+. Downing the Survivor consumes the mark and increases the Enforcer's lunge attack distance by
+60%
+for
+15 seconds
+.
+60 second
+cooldown where the
+Haste
+bonus is not applied.
+NEW SURVIVOR CLASS: TORCHBEARER
+Class Skill:
+Starts with Flashlight of uncommon rarity.
+Class Skill charges over
+60 seconds
+, granting a Flash Grenade when fully charged.
+Behaves like an ability; does not take up any item slot.
+Press the Active Ability button 2 to activate the Flash Grenade.
+Cooldown
+60s
+.
+Info Skill:
+Survivors in chase have their aura revealed to you within
+32 meters
+.
+Point a Flashlight at a Killer for
+0.5 seconds
+to reveal them for
+2 seconds
+.
+Unlockable Skill:
+Grant
+Endurance
+to Survivors you pick up from the Dying State. Injured Survivors that unhook you gain
+Endurance
+.
+SURVIVOR CLASS UPDATE
+Scout – Unlockable Skill:
+Increase your walking speed by
+25%
+and make no grunts of pain while injured.
+Grants immunity to screaming.
+NEW MAPS
+Groaning Storehouse
+Rotten Field
+FEATURES
+Tonics:
+Herb gameplay returns in the form of tonics! They can be found in locations where you would normally find totems and are scattered throughout the map.
+There are two types of tonics that have different effects for Survivor and Killers:
+Diluted Tonic:
+Survivor:
+Restores a health state on use.
+Killer:
+Increases
+Haste
+by
+10%
+for
+20 seconds
+.
+Purified Tonic:
+Survivor
+: Restores a hook state on use.
+Killer
+: Grants a
+10% Haste
+bonus to both Killers for
+20 seconds
+.
+Dual Terror Radius:
+We have updated the Terror Radius to reflect both Killers in range, adjusting the audio tracks for each Killer as they get closer to or further from Survivors.
+The Visual Terror Radius indicator from the Accessibility settings has also been updated to show both Killers when in range, including Lullabies and regular Terror Radii.
+Cooperative Healing:
+Increased the number of Survivors able to simultaneously heal one another to 3
+(was 2)
+.
+Bug Fixes
+2v8
+Fixed an issue where canceling the uncage interaction as the caged Survivor relocated caused them to get stuck in place for the rest of the Trial.
+Fixed an issue where Survivors could immediately die after being uncaged if they were uncaged at the same time as their hook progress depleted.
+Fixed an issue where performing a Flashlight save or pallet stun during the caging sequence would sometimes not work.
+Fixed an issue where the End Game Collapse Entity spikes briefly flickered on screen when picking up a Survivor.
+Fixed an issue where Survivors' auras were briefly seen as they appeared in a cage if they were revealed as they were sent to the cage.
+Fixed an issue where the Survivor's camera was misplaced when being picked up by The Dark Lord.
+Fixed an issue where The Executioner's Torment Trail SFX remained when he stopped using Rites of Judgement.
+Fixed an issue where Survivor voice lines wouldn't play while in "Play While You Wait" mode.
+Fixed an issue where Survivor classes were missing from their HUD portraits in 2v8.
+Audio
+Fixed an issue where Renato Lyra's "Hidden Bones" cosmetic played incorrect footstep SFX.
+Fixed an issue where The Trapper's bear trap was missing SFX during the Survivor struggle animation.
+Fixed an issue where Survivors' screams could sometimes be heard globally throughout a map.
+Fixed an issue where The Knight's footsteps could be heard when creating a path for his Guards.
+Fixed an issue where The Good Guy's voice lines could trigger when playing as The Good Gal.
+Bots Improvements
+Improved Survivor bots' usage of Flashlights during chases.
+Survivor bots are now able to perform Flashlight, Flashbang and pallet saves.
+Fixed an issue where Survivor bots were able to blind a Killer through obstacles with Flashlights.
+Fixed multiple issues preventing Survivor bots from correctly using various perks.
+Fixed multiple issues causing Survivor bots to not participate correctly in group heals.
+Fixed multiple issues where Nemesis' Zombies could jump up and hit Survivors from a lower level in the Forgotten Ruins map, Forsaken Boneyard Realm and the Raccoon City Realm.
+Characters
+Fixed an issue where Cybil Bennett’s mouth appeared distorted in the lobby when she was not holding an item.
+Fixed an issue where The Dark Lord was missing the black screen while performing a Teleport while in Bat Form.
+Fixed an issue where The Good Guy and The Good Gal never looked back at the player in Hidey-Ho Mode.
+Environment / Maps
+Fixed an issue in the Backwater Swamp Realm where the water would flicker.
+Fixed an issue in The Underground Complex map where players could not interact with one side of a generator.
+Fixed an issue in the Temple of Purgation map where players could get stuck in a dead end.
+Fixed an issue in the Ormond Lake Mine map where players could land on top of objects when falling from the side of the main building.
+Fixed an issue in The Underground Complex map where The Nurse could blink out of bounds.
+Fixed an issue in the Dead Dawg Saloon map where The Xenomorph could get stuck on a Flame Turret when falling from an opening on the gallows platform.
+Fixed an issue in the Pale Rose map where a generator couldn't be repaired on one side.
+Fixed an issue in the Forgotten Ruins map where the cameras of Killers could clip through a wall.
+Perks
+Fixed an issue where For The People's Obsession odds did not follow the same logic as other perks.
+UI
+Fixed an issue where starting a search with "B" in the Friend List would cause a crash.
+Miscellaneous
+Fixed a crash that could occur during the game's initialization process.
+Fixed a crash that could occur when closing the game while being in a lobby.
+Known Issues
+Voiceover lines for new Survivors are unavailable on the PTB and will be available when 9.4.0 releases.
+There is a missing interaction cooldown from when The First emerges from an Undergate Attack allowing the Killer to perform interactions faster than intended. There will be a 1 second cooldown applied for the 9.4.0 release.

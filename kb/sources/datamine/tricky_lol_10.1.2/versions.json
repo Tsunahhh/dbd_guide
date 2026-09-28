@@ -1,0 +1,50 @@
+{
+    "addons": {
+        "version": "10.1.2",
+        "lastupdate": 1789627391
+    },
+    "archives": {
+        "version": "9.1.2",
+        "lastupdate": 1755415091
+    },
+    "characters": {
+        "version": "10.1.2",
+        "lastupdate": 1789627414
+    },
+    "customizations": {
+        "version": "10.1.2",
+        "lastupdate": 1788927884
+    },
+    "dlc": {
+        "version": "10.1.0",
+        "lastupdate": 1787828038
+    },
+    "gamemodes": {
+        "version": "10.0.0",
+        "lastupdate": 1782023714
+    },
+    "items": {
+        "version": "10.1.2",
+        "lastupdate": 1789627388
+    },
+    "journals": {
+        "version": "10.0.0",
+        "lastupdate": 1782023715
+    },
+    "maps": {
+        "version": "10.1.2",
+        "lastupdate": 1789627405
+    },
+    "offerings": {
+        "version": "10.1.2",
+        "lastupdate": 1789627408
+    },
+    "perks": {
+        "version": "10.1.2",
+        "lastupdate": 1789627394
+    },
+    "rift": {
+        "version": "9.1.2",
+        "lastupdate": 1755415077
+    }
+}

@@ -1,0 +1,4535 @@
+# Talbot Grimes
+Source: https://deadbydaylight.wiki.gg/wiki/Talbot_Grimes (page complète via API, consultée le 27/09/2026)
+
+The Blight
+
+Name
+
+Talbot Grimes
+
+Gender
+
+Man
+
+Origin
+
+Scottish
+
+Power
+
+Blighted Corruption
+
+Power 
+Attack
+ Type
+
+Special Attack
+
+(Lethal Rush)
+
+Weapon
+
+Bonebuster
+
+Movement Speed
+
+110 % 
+|
+ 4.4 m/s
+
+Alternate Movement speed
+
+230 % 
+|
+ 9.2 m/s
+(Rush)
+
+Terror Radius
+
+40 metres
+
+Height 
+
+Average
+
+DLC
+
+Descend Beyond
+
+Voice Actor
+
+Jean-Baptiste Garnier
+
+Mathieu Favier
+
+(both BHVR)
+
+Cost
+
+4,500 
+Iridescent Shards
+
+250 
+Auric Cells
+
+Breathing
+
+Menu Music
+
+Terror Radius Music
+
+Metadata
+
+CharID
+
+K21
+
+Talbot Grimes
+ or 
+"The Blight"
+ is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+He was introduced as the Killer of 
+Descend Beyond
+, a Chapter DLC released on 8 September 2020 and retired on 8 January 2024.
+
+He is still available in the 
+In-Game Store
+ and as part of the 
+Macabre Tales Pack
+ Chapter Pack DLC.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+2.1
+ 
+The Archives
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: Bonebuster
+
+3.3
+ 
+Power: Blighted Corruption
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for Blighted Corruption
+
+3.5
+ 
+Innate Skill
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Base Cosmetics
+
+5.1.1
+ 
+Default
+
+5.1.2
+ 
+Prestige
+
+5.1.2.1
+ 
+Perk Charms
+
+5.1.2.2
+ 
+Prestige Badges
+
+5.2
+ 
+Alternatives
+
+5.2.1
+ 
+Special
+
+5.2.2
+ 
+Event
+
+5.3
+ 
+Rift
+
+5.4
+ 
+In-Game Store
+
+5.5
+ 
+Alternate Character Models
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+General
+
+8.2
+ 
+Lore
+
+8.3
+ 
+Voice Actor
+
+9
+ 
+Gallery
+
+9.1
+ 
+In-game Assets
+
+9.2
+ 
+Official Art
+
+9.3
+ 
+Outfits
+
+9.4
+ 
+Old Assets
+
+9.5
+ 
+Concept Art
+
+Overview
+
+Capable of gaining ground on Survivors in mere moments, The Blight’s lethal efficiency must never be underestimated. With the ability to bounce off surfaces and realign his trajectory, his relentless presence forces Survivors into snap decisions. The learning curve may feel steep, but mastering The Blight is a worthwhile pursuit.
+
+The Blight
+ is an unpredictable Killer, able to rush forward in a burst of speed and carom off obstacles to injure Survivors using his power, 
+Blighted Corruption
+.
+
+His personal Perks, 
+Dragon's Grip
+, 
+Hex: Blood Favour
+, and 
+Hex: Undying
+, allow him to impose powerful effects on Generators, Totems and Pallets.
+
+Lore
+
+To understand the human condition, one must rise above it. This was the credo of Talbot Grimes, a Scottish chemist whose unrestrained ambition took him to towering heights. As a boy, he was a popular child—bright, charismatic, and unafraid to challenge authority—yet despite his social graces he was fiercely independent, spending much of his time exploring the sprawling fields near his town alone. What began as a child's curiosity nearly turned deadly after experimenting with a patch of poisonous foxglove. For days, he laid in bed dripping with sweat, purging any food that touched his stomach. When he recovered, it wasn't fear that gripped him, but fascination. There was something magical in how a single flower could so drastically affect him.
+
+Into his adult years, his ambition developed as quickly as his questionable methods. He attended the London School of Medicine and excelled despite several reprimands. His willingness to push the limits secured him a position with the British East India Company, and within seven years he was made head chemist. In time, he completed one of his greatest achievements: a chemical that could increase a worker's productivity while reducing their need for rest. He was rewarded with a secret laboratory beneath a prison camp on Dyer Island.
+
+There, off the coast of India, prisoners from the Opium War became his unwilling subjects, leading to a drug that allowed soldiers to withstand incredible amounts of pain. Though most side effects were minor, there were rumours that a small number of soldiers went mad. In feral states, they massacred villages, impaling the populace on bayonets, leaving them hanging from trees. There were no official reports on the subject, and Talbot refused to blame himself for what could only be exaggerated war stories.
+
+Though his callous brilliance seemed unflappable, he was ignorant to the enemies his questionable work had amassed. The realisation struck him quite literally—with a steel pipe to the back of his head during a trip to Mangalore. He was bound and loaded into a wagon. When his blindfold was removed, a sickly man showed him a mass grave filled with hundreds of bodies. Unbeknownst to Talbot, his productivity-increasing drug had killed nearly an entire factory's worth of workers. He knew he couldn't defend himself against the anger and accusations of his abductor—all he could do was curl up as the blows from the steel pipe rained down. His body was thrown into the grave and left for dead. Shifting between consciousness and the darkest black, he crawled for an escape, fingers sinking into rotting flesh. Black flies feasted on his uncovered skin, the sensation of a hundred pin pricks stabbing into him. As he collapsed, he came face to face with a dead woman's dazzling hazel eyes. Too weak to pull away, he could do nothing but witness his life's work.
+
+Then, from the edge of death, he was brought back. He found himself on a small bed as a kindly, wrinkled face looked over him. With each pained breath, he was nursed back to health in an ancient mystery school posing as a monastery. In verdant gardens behind tall, unassuming walls, monks studied forbidden texts, striving to expand the human mind in the search for other dimensions — believing one to be connected to the other.
+
+Talbot's knowledge proved indispensable, his mind-altering chemicals integrating seamlessly with theories of neural expansion. He realised then that his salvation was no coincidence—he was plucked from the pit specifically to advance the school's knowledge. He agreed to help until his recovery was complete, being tasked with researching what the monks called the soul chemical, a compound derived from the pineal gland that could open the mind's eye. What began as a favour to his saviours, soon became an obsession. Poring over the school's archives of lost texts, he uncovered scientific formulas that confirmed previously unthinkable ideas. He dreamt of ushering humankind into a new period of enlightenment. Perhaps then, the nightmares of hundreds of dead factory workers — and of those two hazel eyes — would fade from his mind.
+
+As he came closer to a breakthrough, the demeanour of the monks shifted. The gentle smiles they offered were paired with uneasy eyes that quickly darted away when spotted. The polite conversations he was once privy to turned to hushed murmurs. The last thing he would see of the school was the cracked ceiling above his bed, branching like a dendrite through plaster.
+
+His next memories were a shattered mosaic of images and sensations. Smearing lights, horse hoofs on cobblestone, coarse burlap scratching at his cheeks, and sharp bites into his arm. He awoke ragged and unwashed, splayed on the straw mattress of an opium den. Mind in a dense fog, his first thought was of his notes, the only record of his ground-breaking revelations. He searched frantically, scrambling through the dingy basement, pleading aloud for help. The few other denizens looked up from their hammocks, offering nothing but drug-soaked eyes and apathetic gazes that soon fell into half-slumber. Before he noticed the robed figure appear behind him, a needle plunged into his arm and the world disappeared once more.
+
+Awoken. Again. Each time, hazier than the last. He tongued at hollow gaps between his teeth. How long, he wondered. A faint memory returned. The soul chemical. His notes. The verge of a breakthrough. A faraway whisper entered his mind.
+
+He fumbled with a stone, sharpening it with shaking hands. In the dim light of the den, amongst the catatonic occupants, he carved his research from memory into the walls. He wrote for hours until his fingers bled, moving to the floor, taking in everything the voice whispered despite his inability to comprehend it. When there was nowhere left to write, he gripped the stone and carved the message into his chest. Stained with blood, he witnessed a miracle appear before him — a magnificent field of lush, orange flowers. The whispered voice beckoned to him, urging him to enter the field and discover worlds and dimensions beyond human comprehension. For a moment, Talbot felt the sense of wonder he possessed as a child.
+
+The denizens of the opium den awoke to silence, the dry scent of smoke still lingering in the air. Shambling out of their drug-hazed fog, they found the stone floor wet with blood, tiny rivulets coursing through the cracks. As eyes adjusted to the darkened room, the jagged lettering scrawled along its length began to appear. Written over and over without end, there was but one single line: 
+Death is only the beginning.
+
+The Archives
+
+The table below lists additional Lore about 
+The Blight
+ from 
+The Archives
+, either from 
+Tomes
+ that featured him or from individual Lore entries that mentioned him:
+
+Tome
+
+Entry
+
+Type
+
+Tome 1 - Awakening
+
+The Hunger
+
+Featured Character
+(as 
+The Alchemist
+)
+
+Tome 5 - Unleashed
+
+Doors Unknown
+
+Featured Character
+(as 
+The Blight
+)
+
+Tome 12 - Discordance
+
+The Human Quotient
+
+Featured Character
+
+Tome 22 - Anguish
+
+Memory Fragments (Talbot Grimes)
+
+Featured Character
+
+Load-out
+
+Unique Perks
+
+The Blight
+ comes with 
+3
+ 
+Perks
+ that are unique to him:
+
+ 
+
+Dragon's Grip
+
+After performing the 
+Damage Generator
+ action on a 
+Generator
+, 
+Dragon's Grip
+ activates for 
+30 seconds
+.
+While active, the first Survivor interacting with that 
+Generator
+ suffers from the following effects:
+
+Causes them to scream and reveal their location for 
+4 seconds
+.
+
+Inflicts the 
+Exposed
+ 
+Status Effect
+ for 
+60 seconds
+.
+
+Dragon's Grip
+ has a cool-down of 
+60
+/
+45
+/
+30
+ 
+seconds
+.
+
+"Such potential in this compound... even the slightest trace causes unnatural effects." — Journal of Talbot Grimes
+
+ 
+
+Hex: Blood Favour
+
+This description is based on the changes announced for or featured in the upcoming Patch 10.2.0
+"A Hex that gains the favour of The Entity when blood is spilt."
+
+Hex: Blood Favour
+ lights a 
+Hex Totem
+ at the start of the Trial, cursing Survivors with its 
+Hex Effects
+.
+Whenever a Survivor loses a 
+Health State
+ by a basic-attack, 
+Hex: Blood Favour
+ triggers its effect for 
+13
+/
+14
+/
+15
+ 
+seconds
+:
+
+Blocks
+ all upright 
+Pallets
+ within 
+32 metres
+ of that Survivor.
+
+Blocked Pallets
+ cannot be dropped by any Survivor.
+
+The 
+Hex Effects
+ persist until the 
+Hex Totem
+ is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.
+
+"It would be no leap of the imagination to suggest that the Trials are a biological response of sorts." — Journal of Talbot Grimes
+
+ 
+
+Hex: Undying
+
+"A Hex which maintains the vile powers that flow throughout the Trial."
+
+Whenever a Survivor is within 
+2
+/
+3
+/
+4
+ 
+metres
+ of a 
+Dull Totem
+, 
+Hex: Undying
+ triggers its primary effect:
+
+Their 
+Aura
+ is revealed to you for as long as they remain in that range.
+
+Whenever a 
+Hex Totem
+ is cleansed, 
+Hex: Undying
+ triggers its secondary effect:
+
+Transfers the cleansed 
+Hex
+ to the 
+Hex Totem
+ associated with 
+Hex: Undying
+ instead, replacing it.
+
+The 
+Hex Effects
+ persist until the 
+Hex Totem
+ is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.
+
+Prestige
+
+Prestiging 
+The Blight
+ will automatically add 
+Tier I
+ of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Blight
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: Bonebuster
+
+The 
+Bonebuster
+ is the Primary Weapon of 
+The Blight
+.
+An elegant accessory, specially weighted to deliver a deceptively brutal blow.
+
+Power: Blighted Corruption
+
+"Pustula Serum courses through his veins, corrupting his mind and body, yet granting him unnatural physical abilities."
+SPECIAL ABILITY: BLIGHTED CORRUPTION
+The Blight
+ starts the Trial with 
+5 Tokens
+.
+
+Basic-breaking a 
+Pallet
+ sets 
+Blighted Corruption
+ to 
+3
+ Power Tokens.
+Using 
+Blighted Corruption
+ consumes 
+-1 Token
+ per 
+Rush / Lethal Rush
+.
+SPECIAL LOCOMOTION: RUSH
+Press the 
+Power button
+ to initiate a 
+Rush
+ that lasts for up to 
+3 seconds
+:
+
+Increases
+ his Movement speed to 
+9.2 m/s
+.
+
+Reduces
+ his manoeuvrability.
+
+Suppresses
+ his ability to perform an attack.
+
+SPECIAL INTERACTION: SLAM
+Running into obstacles or walls during a 
+Rush
+ causes 
+The Blight
+ to perform a 
+Slam
+ and opens the 
+Chain Rush Window
+.
+SPECIAL LOCOMOTION: LETHAL RUSH
+Press the 
+Power button
+ during the 
+Chain Rush Window
+ to chain a 
+Lethal Rush
+ that lasts for up to 
+3 seconds
+:
+
+Increases
+ his Movement speed to 
+9.2 m/s
+.
+
+Reduces
+ his manoeuvrability.
+
+Grants the ability to perform an attack by pressing the 
+Attack button
+.
+
+Attacking 
+Breakable Walls
+ or dropped 
+Pallets
+ breaks them.
+
+Breaking a Pallet by 
+Lethal Rush
+ sets 
+Blighted Corruption
+ to 
+3
+ Power Tokens.
+
+SPECIAL STATE: FATIGUE
+After either the 
+Chain Rush Window
+ closes, the final 
+Lethal Rush
+ elapses, or 
+The Blight
+ fails to perform a 
+Slam
+, he enters a state of 
+Fatigue
+ for 
+2.5 seconds
+.
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Rush
+ and 
+Rush Attacks
+: 
+9.2 m/s
+
+Blighted Corruption:
+
+Recharge Rate: 
+2 seconds per Token
+
+Fatigue duration: 
+2.5 seconds
+
+Rush & Lethal Rush:
+
+Rush
+ and 
+Lethal Rush
+ duration: 
+3 seconds each
+
+Rush
+ and 
+Lethal Rush
+ Movement speed: 
+9.2 m/s
+ or 
+230 %
+
+Rush
+ and 
+Lethal Rush
+ Turn rate: 
+0.9 °/s
+
+Lethal Rush
+ Turn rate during an Attack: 
+1.6 °/s
+
+Lethal Rush
+ duration during an Attack: 
+4 seconds
+
+Lethal Rush
+ Survivor Dodge parameters: within 
+1 metre
+ of a missed 
+Lethal Rush
+.
+
+This refers to the conditions a Survivor must meet to trigger the 
+Lethal Rush Dodged
+ 
+Score Event
+.
+
+Lethal Rush Attack
+ Open time: 
+0.5 seconds
+
+Lethal Rush Attack
+ Hitting time: 
+0.3 seconds
+
+NOTE
+:
+ based on in-game observations, it appears that in addition to the comparatively low values in degrees per second mentioned above, other unknown variables must also factor into 
+The Blight's
+ final Turn rate during a 
+Rush
+, as it appears to be greater than just the values mentioned above.
+
+Slam:
+
+Minimum 
+Angle of Attack
+: 
+45 °
+
+This refers to the minimum Angle at which 
+The Blight
+ must hit an obstacle's hitbox to initiate a 
+Slam
+, otherwise he will slide past it.
+
+Chain Rush Window:
+
+Duration: 
+1.25 seconds
+
+This refers to the maximum hang-time of 
+The Blight
+ in-between 
+Rushes
+ before he goes into Fatigue.
+
+Cool-downs:
+
+Successful 
+Lethal Rush Attack
+ cool-down: 
+3 seconds
+
+Missed 
+Lethal Rush Attack
+ cool-down: 
+2.5 seconds
+
+Obstructed 
+Lethal Rush Attack
+ cool-down: 
+2.5 seconds
+
+Destroying Breakables with 
+Lethal Rush Attack
+ cool-down: 
+2.5 seconds
+
+Add-ons for Blighted Corruption
+
+Icon
+
+Name
+
+Description
+
+Chipped Monocle
+
+A monocle Talbot rarely used despite his eyesight weakening in later years.
+
+Unlocks the ability to see the Target location of a 
+Slam
+.
+
+Compound Seven
+
+This early sample failed to achieve desired results, but demonstrated surprising effects regardless.
+
+Causes you to automatically face the nearest Survivor within 
+16 metres
+ of your location after a 
+Slam
+.
+
+Foxglove
+
+A poisonous plant that sparked Talbot's interest in chemistry.
+It rekindles deeply buried memories.
+
+Reduces
+ the duration of 
+Fatigue
+ by 
+-0.25 seconds
+.
+
+Placebo Tablet
+
+A pill that is utterly ineffective... or is it?
+
+Reduces
+ your Movement speed during a 
+Rush
+ by 
+-15 %
+.
+
+Grants 
++100 %
+ bonus Bloodpoints for 
+Rush
+ Score Events.
+
+Blighted Rat
+
+A rat that briefly returned to life when injected with Putrid Serum, becoming aggressive and uncontrollable.
+
+Increases
+ your Movement speed during a 
+Rush
+ by a stack-able 
++2 %
+ for each consecutive 
+Lethal Rush
+.
+
+Canker Thorn
+
+A sizeable thorn snipped from a Visceral Canker.
+It secretes a mild toxin.
+
+Reduces
+ the duration of 
+Fatigue
+ by 
+-0.5 seconds
+.
+
+Plague Bile
+
+A sample of bile from 
+The Plague
+ distilled and treated with a mixture of chemicals.
+
+Increases
+ the Turn rate during a 
+Rush
+ by 
++10 %
+.
+
+Pustula Dust
+
+Dried 
+Pustula Petals
+ ground into a fine dust.
+
+Increases
+ the duration of the 
+Chain Rush Window
+ by 
++0.75 seconds
+.
+
+Shredded Notes
+
+The remnants of Talbot's notes, they still contain some valuable information within.
+
+Reduces
+ the Recharge time per Power Token by 
+-0.33 seconds
+.
+
+Adrenaline Vial
+
+A hormone removed from an unwilling subject's adrenal gland.
+Though it provides a jolt of energy, it can fatigue its user.
+
+Increases
+ the number of available Power Tokens by 
++2
+.
+
+Increases
+ your Movement speed during a 
+Rush
+ by 
++5 %
+.
+
+Increases
+ your maximum Look angle during a 
+Rush
+ by 
++20 °
+.
+
+Reduces
+ your Turn rate during a 
+Rush
+ by 
+-0.5 °/s
+.
+
+"Please, don't do this..."
+
+Blighted Crow
+
+A dead crow that has been grotesquely mutated by Putrid Serum.
+
+Increases
+ your Movement speed during a 
+Rush
+ by a stack-able 
++3 %
+ for each consecutive 
+Lethal Rush
+.
+
+Compound Twenty-One
+
+A serum that's fatal to humans.
+It evokes beneficial qualities in those who are... something more.
+
+The 
+Auras
+ of Survivors within 
+8 metres
+ of a 
+Slam
+ are revealed to you for 
+3.5 seconds
+.
+
+Rose Tonic
+
+A mixture made with dried roses from the exceedingly rare 
+New Moon Bouquet
+.
+
+Increases
+ the duration of the 
+Chain Rush Window
+ by 
++1 second
+.
+
+Umbra Salts
+
+Regular sea salt that has momentarily passed through the Spirit World, altering its properties in the process.
+
+Increases
+ the Turn rate during a 
+Rush
+ by 
++15 %
+.
+
+Alchemist's Ring
+
+A ring given to chemists graduating from the London School of Medicine.
+It is a reminder of unrestrained ambition.
+
+Extends
+ the 
+Rush
+ duration by 
++20 %
+ for each consecutive 
+Lethal Rush
+.
+
+"The student is accused of grave-robbing with the intent of unsanctioned scientific testing." — Faculty Reprimand of Talbot Grimes, 1838
+
+Soul Chemical
+
+A chemical squeezed from the pineal gland of a recently deceased Survivor.
+
+Increases
+ the initial Movement speed of a 
+Rush
+ by 
++5 %
+.
+
+"...suspected to cause atypical alterations in neural rhythmic activity." — Unlabelled Mystery School Text
+
+Summoning Stone
+
+Talbot used this stone to carve what he believed was his research into the Opium Den's walls.
+
+Increases
+ the initial duration of a 
+Rush
+ by 
++0.5 seconds
+.
+
+"Death is only the beginning."
+
+Vigo's Journal
+
+The journal of a man who claimed to have returned from The Void.
+The knowledge within has practical applications.
+
+Grants the 
+Undetectable
+ 
+Status Effect
+ during a 
+Rush
+.
+
+"In a wasteland of forgotten dreams and endless routine, the man with a way out is God." — Talbot Grimes
+
+Compound Thirty-Three
+
+Talbot's penultimate attempt at a serum.
+Though it did not facilitate his escape, it did have powerful side effects.
+
+Blighted Corruption
+ is capped at 
+5 Tokens
+.
+
+Increases
+ your Turn rate during a 
+Rush
+ by 
++11 %
+.
+
+Increases
+ the duration of a 
+Rush
+ by 
++11 %
+.
+
+"Time is scarce. Let this be the one..." — Talbot Grimes
+
+Iridescent Blight Tag
+
+A glass-like laboratory tag, moulded from The Fog itself.
+Either a gift from The Entity or a cruel jest to tag The Blight as he once did to others.
+
+Blighted Corruption
+ is capped at 
+3 Tokens
+.
+
+Increases
+ your Movement speed during a 
+Rush
+ by 
++10 %
+.
+
+Increases
+ your maximum Look angle during a 
+Rush
+ by 
++20 °
+.
+
+"Progress requires drastic change." — Talbot Grimes
+
+Innate Skill
+
+Used exclusively in 
+2v8
+ Trials, the 
+Innate Skill
+ modifies 
+Blighted Corruption
+ with the following effects:
+
+Innate Skill
+ (
+Blight Passive
+) 
+
+Modifies 
+Blighted Corruption
+ with the following effects:
+
+Increases
+ the duration of a 
+Slam
+ by 
++0.75 seconds
+.
+
+During a 
+Rush
+:
+
+Increases
+ his Movement speed by 
++1.3 m/s
+.
+
+Increases
+ its Turn-Rate sensitivity by 
++0.2
+.
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There are 
+2
+ Achievements related to 
+The Blight
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Blight
+
+Playing as The 
+Blight
+, achieve a 
+Merciless Victory
+ using only his 
+3
+ Unique Perks: 
+Dragon's Grip
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+After performing the 
+Damage Generator
+ action on a 
+Generator
+, 
+Dragon's Grip
+ activates for 
+30 seconds
+.
+While active, the first Survivor interacting with that 
+Generator
+ suffers from the following effects:
+
+Causes them to scream and reveal their location for 
+4 seconds
+.
+
+Inflicts the 
+Exposed
+ 
+Status Effect
+ for 
+60 seconds
+.
+
+Dragon's Grip
+ has a cool-down of 
+60
+/
+45
+/
+30
+ 
+seconds
+.
+
+"Such potential in this compound... even the slightest trace causes unnatural effects." — Journal of Talbot Grimes
+
+, 
+Hex: Blood Favour
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+This description is based on the changes announced for or featured in the upcoming Patch 10.2.0
+"A Hex that gains the favour of The Entity when blood is spilt."
+
+Hex: Blood Favour
+ lights a 
+Hex Totem
+ at the start of the Trial, cursing Survivors with its 
+Hex Effects
+.
+Whenever a Survivor loses a 
+Health State
+ by a basic-attack, 
+Hex: Blood Favour
+ triggers its effect for 
+13
+/
+14
+/
+15
+ 
+seconds
+:
+
+Blocks
+ all upright 
+Pallets
+ within 
+32 metres
+ of that Survivor.
+
+Blocked Pallets
+ cannot be dropped by any Survivor.
+
+The 
+Hex Effects
+ persist until the 
+Hex Totem
+ is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.
+
+"It would be no leap of the imagination to suggest that the Trials are a biological response of sorts." — Journal of Talbot Grimes
+
+, and 
+Hex: Undying
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"A Hex which maintains the vile powers that flow throughout the Trial."
+
+Whenever a Survivor is within 
+2
+/
+3
+/
+4
+ 
+metres
+ of a 
+Dull Totem
+, 
+Hex: Undying
+ triggers its primary effect:
+
+Their 
+Aura
+ is revealed to you for as long as they remain in that range.
+
+Whenever a 
+Hex Totem
+ is cleansed, 
+Hex: Undying
+ triggers its secondary effect:
+
+Transfers the cleansed 
+Hex
+ to the 
+Hex Totem
+ associated with 
+Hex: Undying
+ instead, replacing it.
+
+The 
+Hex Effects
+ persist until the 
+Hex Totem
+ is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.
+
+.
+
+Speed Kills
+
+Playing as The 
+Blight
+, hit Survivors with a 
+Lethal Rush Attack
+ a total of 
+30 times
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Blight
+:
+
+Base Cosmetics
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+The Blight
+
+Common
+
+An alchemist whose ambition took him to the precipice of madness and beyond.
+
+Mystery Robes
+
+Common
+
+The vestments from an ancient mystery school, now a relic from a time past.
+
+Bonebuster
+
+Common
+
+An elegant accessory, specially weighted to deliver a deceptively brutal blow.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Bloody Blight
+
+Rare
+
+An alchemist whose ambition brought about bloody undertakings.
+
+Prestige Level 6 Reward
+
+Dripping Mystery Robes
+
+Rare
+
+The vestments from an ancient mystery school, now stained in blood that will never be cleansed.
+
+Prestige Level 5 Reward
+
+Bloodybuster
+
+Rare
+
+An elegant accessory, its lethality proven by the gobs of blood upon it.
+
+Prestige Level 4 Reward
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+An alchemist whose ambition took him to the precipice of madness and beyond.
+
+Alternatives
+
+Special
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Event
+
+Frosty Eyes
+
+Uncommon
+
+The cold eyes of a Killer who wants warm blood.
+
+"Have a fantastic holiday season and a bloody good new year!" — The Dead by Daylight Team
+
+Advent Calendar 2020
+
+Biting Gaze
+
+Very Rare
+
+Opaline clusters of the everlasting frost pierced his jaw and punctured his eye.
+
+Amazon Prime Gaming January 2022 reward
+
+Arctic Remnants
+
+Very Rare
+
+Remnants of clothing torn apart by sharp, impaling clusters of ice.
+
+Amazon Prime Gaming January 2022 reward
+
+Frosted Cane
+
+Very Rare
+
+A thick layer of ice crystallized and weighted down on his cane.
+
+Amazon Prime Gaming January 2022 reward
+
+Jingle Cane
+
+Very Rare
+
+His cane was wrapped in a festive red ribbon to trick his target during the holiday season.
+
+Buying a Pack of 
+Auric Cells
+ in 
+Bone Chill 2023
+
+Event
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Event
+
+Exclusive to Event Participation
+
+Crown of the Entity
+
+Event
+
+A crown emanating a festive and ominous aura created by the Entity's biggest fan.
+
+Fourth Year Anniversary
+
+Yes
+
+5th Anniversary Crown
+
+Event
+
+A crown crafted for a very special anniversary.
+
+"Thank you for supporting & inspiring us along the years!" - The Dead by Daylight Team
+
+Fifth Year Anniversary
+
+Yes
+
+Golden Tall Hat
+
+Event
+
+A luxurious hat he likes to wear during his New Year's hunt for serum.
+
+Moonlight Burrow
+
+Yes
+
+Blight's Mask
+
+Event
+
+A mask he found himself wearing at the masquerade ball.
+
+Twisted Masquerade 2023
+
+Yes
+
+ Rift
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Tragic Monstrosity
+
+Tragic Fate
+
+Tome 7 - Forsaken
+
+12 June 2018 (Tuesday)
+
+Description
+
+Some could argue that the alchemist hadn’t so much destroyed his former self, as he had enhanced it.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Shattered Mandible (Navy Blue)
+
+Tragic Fate
+
+9
+
+The dosage of serum was more than a human body could normally withstand. The gruesome mutations were a necessary biological response to facilitate his survival.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Remnants of Humanity (Navy Blue)
+
+Tragic Fate
+
+16
+
+Was the humble robe he wore the last vestige of his humanity, or was there still something remaining inside of him?
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Scabrous Cane (Ebony)
+
+Tragic Fate
+
+27
+
+A cane with considerable weight, it’s best used when lulling victims into a false sense of security.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Lucky Greens
+
+St. Patrick’s 2022
+
+Tome 10 - SAW
+
+12 June 2018 (Tuesday)
+
+Description
+
+An Irish outfit to celebrate the holiday, gifted to Talbot by a friend in the East India Company.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Leprechaun Topper
+
+St. Patrick’s 2022
+
+23
+
+A sophisticated top hat with a festive twist.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Emerald Tailcoat
+
+St. Patrick’s 2022
+
+39
+
+However torn and stained it may be, there’s still a nice green hue to it.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Gold Cane
+
+St. Patrick’s 2022
+
+55
+
+Melted from a pot of gold and weaponized.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Past Resurgence
+
+Tortured Souls
+
+Tome 22 - Anguish
+
+13 January 2026 (Tuesday)
+
+Description
+
+He thought he was alone in the depths of The Bleed when the figure emerged from the ground.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Foul Reflection
+
+Tortured Souls
+
+28
+
+The figure’s mouth hung open, the unending scream of one utterly consumed.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Battleworn Leathers
+
+Tortured Souls
+
+32
+
+The figure’s primitive armor struck his curiosity; he wondered how long this monstrosity had been trapped here.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Ancient Attack
+
+Tortured Souls
+
+25
+
+The figure charged, reaching out like a drowning man, before collapsing one last time.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Past Resurgence (Deep Rift)
+
+Deep Rift
+
+Tome 22 - Anguish
+
+12 June 2018 (Tuesday)
+
+Description
+
+He roamed the depths of The Bleed alone, until a figure rose from the ground.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Foul Reflection (Deep Rift)
+
+Deep Rift
+
+71
+
+The figure's mouth hung open; a silent cry born from complete devastation.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Battleworn Leathers (Deep Rift)
+
+Deep Rift
+
+71
+
+The figure’s antiquated armor piqued his interest; the monstrosity may have been trapped there for centuries.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Ancient Attack (Deep Rift)
+
+Deep Rift
+
+71
+
+The figure charged, arms thrashing like a dying bird, before finally falling one last time.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Walking Biome
+
+Slice Of Life Collection
+
+Tome 18 - Revision
+
+12 June 2018 (Tuesday)
+
+Description
+
+Each seeping pore contributed to the ecosystem that grew within and without him.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Fungal Growth
+
+Slice Of Life Collection
+
+32
+
+New life grew and spread across the orifices of his face.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Tattered Blazer
+
+Slice Of Life Collection
+
+39
+
+Once a fetching jacket, now food for the organisms that called his body home.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Rooted Cane
+
+Slice Of Life Collection
+
+35
+
+He dared not let go, for fear that the cane and his hand were now intertwined.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Invasive Species
+
+Enter The Bleed Collection
+
+Tome 12 - Discordance
+
+09 May 2023 (Tuesday)
+
+Description
+
+He travelled to North Africa to investigate a strange new flora causing madness among the colonists.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Melting Headwrap
+
+Enter The Bleed Collection
+
+67
+
+Perhaps it was sweat… perhaps his headwear was changing form. He couldn’t be sure.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Phosphoric Pores
+
+Enter The Bleed Collection
+
+1
+
+He tried to take as many samples as he could, but before long, the samples were taking him.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Psychedelic Staff
+
+Enter The Bleed Collection
+
+39
+
+As time passed near the Tree of Death, the difference between reality and unreality bent and warped.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Prophet’s Sight
+
+Darkest Dungeon
+
+Rift Pass 5 - Ruin
+
+28 April 2026 (Tuesday)
+
+Description
+
+When one is plagued by visions beyond mortal comprehension, one must surrender to a greater purpose.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Visions Of Darkness
+
+Darkest Dungeon
+
+50
+
+They called him mad. Turned their ire upon him. They always feared what they could not understand.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Beyond The Veil
+
+Darkest Dungeon
+
+52
+
+There are other worlds beyond the veil. Those willing to extend their hand shall be rewarded beyond measure.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Ambition's Grip
+
+Darkest Dungeon
+
+56
+
+Can you feel it stirring from within? Such ambition! Such mercy, such cruelty, such unspeakable power!
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Prophet’s Sight (Deep Rift 1)
+
+Darkest Dungeon
+
+Rift Pass 5 - Ruin
+
+28 April 2026 (Tuesday)
+
+Description
+
+When one is plagued by visions beyond mortal comprehension, one must surrender to a greater purpose.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Visions Of Darkness (Deep Rift 1)
+
+Darkest Dungeon
+
+71
+
+They called him mad. Turned their ire upon him. They always feared what they could not understand.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Beyond The Veil (Deep Rift 1)
+
+Darkest Dungeon
+
+76
+
+There are other worlds beyond the veil. Those willing to extend their hand shall be rewarded beyond measure.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Ambition's Grip (Deep Rift 1)
+
+Darkest Dungeon
+
+81
+
+Can you feel it stirring from within? Such ambition! Such mercy, such cruelty, such unspeakable power!
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Prophet’s Sight (Deep Rift 2)
+
+Darkest Dungeon
+
+Rift Pass 5 - Ruin
+
+28 April 2026 (Tuesday)
+
+Description
+
+When one is plagued by visions beyond mortal comprehension, one must surrender to a greater purpose.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Visions Of Darkness (Deep Rift 2)
+
+Darkest Dungeon
+
+87
+
+They called him mad. Turned their ire upon him. They always feared what they could not understand.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Beyond The Veil (Deep Rift 2)
+
+Darkest Dungeon
+
+91
+
+There are other worlds beyond the veil. Those willing to extend their hand shall be rewarded beyond measure.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Ambition's Grip (Deep Rift 2)
+
+Darkest Dungeon
+
+95
+
+Can you feel it stirring from within? Such ambition! Such mercy, such cruelty, such unspeakable power!
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Rampant Hunger
+
+Blight Aberrations
+
+08 September 2020 (Tuesday)
+
+Description
+
+Only shades of who he once was remained, the void left filled with an unrestrained fervor for something more.
+
+135
+
+2700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Hooded Maw (Black)
+
+Blight Aberrations
+
+The hood can hardly conceal the grotesque sight that the alchemist has become.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Yesterday's Robes (Black)
+
+Blight Aberrations
+
+The robes worn during better days, before his life’s work overcame his very soul.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Gemstone Cane (Blue)
+
+Blight Aberrations
+
+Though stylishly adorned with a brightly colored gemstone, this cane is constructed more as a weapon than a walking aid.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Rampant Ambition
+
+Blight Aberrations
+
+08 September 2020 (Tuesday)
+
+Description
+
+Only shades of who he once was remained, the void left filled with unrestrained fervor.
+
+135
+
+2700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Hooded Maw (Green)
+
+Blight Aberrations
+
+The hood can hardly conceal the grotesque sight that the alchemist has become.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Yesterday's Robes (Green)
+
+Blight Aberrations
+
+The robes worn during better days, before his life’s work overcame his very soul.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Gemstone Cane (Red)
+
+Blight Aberrations
+
+Though stylishly adorned with a brightly colored gemstone, this cane is constructed more as a weapon than a walking aid.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Rampant Madness
+
+Blight Aberrations
+
+08 September 2020 (Tuesday)
+
+Description
+
+Only shades of who he once was remained, the void left filled with unrestrained fervor.
+
+135
+
+2700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Hooded Maw (Red)
+
+Blight Aberrations
+
+The hood can hardly conceal the grotesque sight that the alchemist has become.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Yesterday's Robes (Red)
+
+Blight Aberrations
+
+The robes worn during better days, before his life’s work overcame his very soul.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Gemstone Cane (Green)
+
+Blight Aberrations
+
+Though stylishly adorned with a brightly colored gemstone, this cane is constructed more as a weapon than a walking aid.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Rampant Gluttony
+
+Blight Aberrations
+
+08 September 2020 (Tuesday)
+
+Description
+
+Only shades of who he once was remained, the void left filled with unrestrained fervor.
+
+135
+
+2700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Hooded Maw (Yellow)
+
+Blight Aberrations
+
+The hood can hardly conceal the grotesque sight that the alchemist has become.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Yesterday's Robes (Yellow)
+
+Blight Aberrations
+
+The robes worn during better days, before his life’s work overcame his soul.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Gemstone Cane (Yellow)
+
+Blight Aberrations
+
+Though stylishly adorned with a brightly colored gemstone, this cane is constructed more as a weapon than a walking aid.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Ravenous Monstrosity
+
+Tragic Fate
+
+08 September 2020 (Tuesday)
+
+Description
+
+Some could argue that the alchemist hadn’t so much destroyed his former self, as he had enhanced it.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Shattered Mandible (Black Leather)
+
+Tragic Fate
+
+The dosage of serum was more than a human body could normally withstand. The gruesome mutations were a necessary biological response to facilitate his survival.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Remnants of Humanity (Black Leather)
+
+Tragic Fate
+
+Was the humble robe he wore the last vestige of his humanity, or was there still something remaining inside of him?
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Scabrous Cane (Gold)
+
+Tragic Fate
+
+A cane with considerable weight, it’s best used when lulling victims into a false sense of security.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Intellectual Monstrosity
+
+Tragic Fate
+
+08 September 2020 (Tuesday)
+
+Description
+
+Some could argue that the alchemist hadn’t so much destroyed his former self, as he had enhanced it.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Shattered Mandible (Brown Leather)
+
+Tragic Fate
+
+The dosage of serum was more than a human body could normally withstand. The gruesome mutations were a necessary biological response to facilitate his survival.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Remnants of Humanity (Brown Leather)
+
+Tragic Fate
+
+Was the humble robe he wore the last vestige of his humanity, or was there still something remaining inside of him?
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Scabrous Cane (Oxidized Bronze)
+
+Tragic Fate
+
+A cane with considerable weight, it’s best used when lulling victims into a false sense of security.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Chemical Monstrosity
+
+Tragic Fate
+
+08 September 2020 (Tuesday)
+
+Description
+
+Some could argue that the alchemist hadn’t so much destroyed his former self, as he had enhanced it.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Shattered Mandible (Faded Leather)
+
+Tragic Fate
+
+The dosage of serum was more than a human body could normally withstand. The gruesome mutations were a necessary biological response to facilitate his survival.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Remnants of Humanity (Faded Leather)
+
+Tragic Fate
+
+Was the humble robe he wore the last vestige of his humanity, or was there still something remaining inside of him?
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Scabrous Cane (Steel)
+
+Tragic Fate
+
+A cane with considerable weight, it’s best used when lulling victims into a false sense of security.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Park Lane Aristocrat
+
+Dapper Deformations
+
+08 September 2020 (Tuesday)
+
+Description
+
+A finely made outfit that identifies the wearer as a person of wealth and taste.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Decaying End
+
+Dapper Deformations
+
+The face that was once there had been reduced to skin clinging onto jagged, broken bone.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Victorian Ruffle
+
+Dapper Deformations
+
+An extravagant silk ruffled shirt, accompanied by a dapper vest and finely tailored trousers. Worth more than what the working class would make in a year.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Ironbone Cane
+
+Dapper Deformations
+
+An unusual combination of fossilized bone and metal that creates a vein-like pattern throughout the cane.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Westminster Aristocrat
+
+Dapper Deformations
+
+08 September 2020 (Tuesday)
+
+Description
+
+A finely made outfit that identifies the wearer as a person of wealth and taste.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Eroding End
+
+Dapper Deformations
+
+The face that was once there had been reduced to skin clinging onto jagged, broken bone.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+English Ruffle
+
+Dapper Deformations
+
+An extravagant silk ruffled shirt, accompanied by a dapper vest and finely tailored trousers. Worth more than what the working class would make in a year.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Copperbone Cane
+
+Dapper Deformations
+
+An unusual combination of fossilized bone and metal that creates a vein-like pattern throughout the cane.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Lucky Greens
+
+St. Patrick’s 2022
+
+Tome 10 - SAW
+
+12 June 2018 (Tuesday)
+
+Description
+
+An Irish outfit to celebrate the holiday, gifted to Talbot by a friend in the East India Company.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Leprechaun Topper
+
+St. Patrick’s 2022
+
+23
+
+A sophisticated top hat with a festive twist.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Emerald Tailcoat
+
+St. Patrick’s 2022
+
+39
+
+However torn and stained it may be, there’s still a nice green hue to it.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Gold Cane
+
+St. Patrick’s 2022
+
+55
+
+Melted from a pot of gold and weaponized.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Seething Ice
+
+Everlasting Frost
+
+25 January 2025 (Saturday)
+
+Description
+
+During the Darkening, glacial winds blew from the Lost Realms, spreading an everlasting frost of penetrating ice clusters.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Biting Gaze
+
+Everlasting Frost
+
+Opaline clusters of the everlasting frost pierced his jaw and punctured his eye.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Arctic Remnants
+
+Everlasting Frost
+
+Remnants of clothing torn apart by sharp, impaling clusters of ice.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Frosted Cane
+
+Everlasting Frost
+
+A thick layer of ice crystallized and weighted down on his cane.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Past Resurgence
+
+Tortured Souls
+
+Tome 22 - Anguish
+
+13 January 2026 (Tuesday)
+
+Description
+
+He thought he was alone in the depths of The Bleed when the figure emerged from the ground.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Foul Reflection
+
+Tortured Souls
+
+28
+
+The figure’s mouth hung open, the unending scream of one utterly consumed.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Battleworn Leathers
+
+Tortured Souls
+
+32
+
+The figure’s primitive armor struck his curiosity; he wondered how long this monstrosity had been trapped here.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Ancient Attack
+
+Tortured Souls
+
+25
+
+The figure charged, reaching out like a drowning man, before collapsing one last time.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Merry Delirium
+
+Holiday Horror
+
+12 December 2024 (Thursday)
+
+Description
+
+Little Talbot strolled through the woods with his family, gathering sprigs of holly to spruce up their home.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Hard Ears
+
+Holiday Horror
+
+Despite his uncle's warnings, Talbot was drawn to the bright red berries. When no one was looking, he ate a few.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Highland Dress
+
+Holiday Horror
+
+The forest darkened and panicked figures fled in all directions. He tried to chase after them, but soon everything went black.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Bellringer
+
+Holiday Horror
+
+He awoke in bed to find a cool towel on his forehead, his mother soothing him as he trembled from the frightful dream.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Invasive Species
+
+Enter The Bleed Collection
+
+Tome 12 - Discordance
+
+09 May 2023 (Tuesday)
+
+Description
+
+He travelled to North Africa to investigate a strange new flora causing madness among the colonists.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Melting Headwrap
+
+Enter The Bleed Collection
+
+67
+
+Perhaps it was sweat… perhaps his headwear was changing form. He couldn’t be sure.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Phosphoric Pores
+
+Enter The Bleed Collection
+
+1
+
+He tried to take as many samples as he could, but before long, the samples were taking him.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Psychedelic Staff
+
+Enter The Bleed Collection
+
+39
+
+As time passed near the Tree of Death, the difference between reality and unreality bent and warped.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Organic Monstrosity
+
+SPRING ENSEMBLES
+
+27 April 2022 (Wednesday)
+
+Description
+
+Organisms festered in his forgotten wounds, spreading disease from limb to limb.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Mushrooming Mandible
+
+SPRING ENSEMBLES
+
+An intricate network of spores reclaimed his face, turning his mouth into a sickening, gaping hole.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Decomposing Jacket
+
+SPRING ENSEMBLES
+
+The vestige of his former wear, mercilessly reclaimed by nature.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Budding Bludgeon
+
+SPRING ENSEMBLES
+
+A once sophisticated cane now infested with putrid mushrooms and crawling with insects.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+True Blight
+
+Hallowed Curse
+
+20 October 2020 (Tuesday)
+
+Description
+
+An extreme overdose of putrid serum culminated in a corruption like no other. Visceral cankers blossomed through his body, sprouting from his flesh and twisting out of nearly every orifice.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Parasitic Pustula
+
+Hallowed Curse
+
+Forever gagging on the tendrils that wound their way up his throat, Talbot was no longer sure if his decisions were his own or those of the flourishing growth that nestled into his brain.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Engorged Canker
+
+Hallowed Curse
+
+As his veins coursed a sickly orange color, a visceral canker wove through his spine and tore from his back.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Corrupted Staff
+
+Hallowed Curse
+
+Serum seeped into the wooden finish of the cane, rejuvenating its life and creating a hybrid pustula plant.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Aquatic Anomaly
+
+Horrors From The Deep
+
+06 August 2024 (Tuesday)
+
+Description
+
+The corpse had been pulled from the sea. He studied it with curiosity, taken by the creatures who made the body their home.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Squid-like Stare
+
+Horrors From The Deep
+
+Tentacles hung from the corpse's mouth, still slithering even as the creature suffocated in the open air.
+
+Piece
+
+Name
+
+Collection
+
+Translucent Skin
+
+Horrors From The Deep
+
+The body was waterlogged, and Talbot thought he saw tiny creatures swimming just beneath the skin.
+
+Piece
+
+Name
+
+Collection
+
+Shell Blade
+
+Horrors From The Deep
+
+The potential for true genetic symbiosis sparked his imagination, a being neither human nor sea-creature, but something so much more.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Sophisticated Slaughter
+
+Gentleman Horror
+
+08 September 2020 (Tuesday)
+
+Description
+
+A high-class ensemble that still holds the smell of London’s smoggy streets.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Terror Top
+
+Gentleman Horror
+
+The remains of a top hat placed upon the remains of a man.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Mangled Tailcoat
+
+Gentleman Horror
+
+Once an elegant jacket and trouser combo, it has since been thrashed during one of its wearer’s frenzied states.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Gentleman’s Cudgel
+
+Gentleman Horror
+
+A cane chiseled of shimmering volcanic glass and fitted with an ivory collar.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+William Birkin
+
+Resident Evil X LNY
+
+24 January 2023 (Tuesday)
+
+Description
+
+A genius scientist with a cruel personality.
+
+1485
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Scientist’s Scowl
+
+Resident Evil X LNY
+
+His brilliant mind hid under a horrifying visage.
+
+Piece
+
+Name
+
+Collection
+
+Twisted Form
+
+Resident Evil X LNY
+
+This new form made him more dangerous than ever.
+
+Piece
+
+Name
+
+Collection
+
+Rusty Pipe
+
+Resident Evil X LNY
+
+A brutal and cruel improvised weapon.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Ferryman of the Underworld
+
+Greek Legends
+
+27 July 2021 (Tuesday)
+
+Description
+
+Death was just the beginning of the journey.
+
+1296
+
+25920
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Decayed Laurel Crown
+
+Greek Legends
+
+He found no peace in the realm beyond.
+
+Piece
+
+Name
+
+Collection
+
+Ferryman's Tunic
+
+Greek Legends
+
+Caught in the underworld, his flesh was torn apart by lost souls. He wore a thick girdle, foul with grease, to cover up the markings.
+
+Piece
+
+Name
+
+Collection
+
+Cursed Oar
+
+Greek Legends
+
+A cursed oar used to drown those unable to pay for a safe passage.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Wandering Cat
+
+Cursed Cats
+
+10 October 2023 (Tuesday)
+
+Description
+
+Talbot couldn't find the mice he used for his experiments.
+
+1296
+
+25920
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Glutton Beast
+
+Cursed Cats
+
+The cat scurried off with the mice clasped firmly between its pointed teeth.
+
+Piece
+
+Name
+
+Collection
+
+Feline Mutation
+
+Cursed Cats
+
+Talbot was concerned since the mice's blood contained various substances from his laboratory.
+
+Piece
+
+Name
+
+Collection
+
+Vertebra Cane
+
+Cursed Cats
+
+Later, he found an unknown animal's carcass torn apart from the inside.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Bad Transfusion
+
+Blood Moon
+
+26 March 2026 (Thursday)
+
+Description
+
+As Talbot injected the needle into himself, he noticed the serum was the color of the moon.
+
+1296
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Slathering Maw
+
+Blood Moon
+
+His bleeding eyes widened as liquid spilled from his gaping jaws, unwilling to resist the transformation.
+
+480
+
+Piece
+
+Name
+
+Collection
+
+Cursed Injection
+
+Blood Moon
+
+He cherished the tainted blood coursing through his veins, as flesh ripped and pustulating blisters blossomed.
+
+480
+
+Piece
+
+Name
+
+Collection
+
+Bloodletter
+
+Blood Moon
+
+Overcome with blissful agony, he plunged his blade into his chest and tore himself apart.
+
+480
+
+Piece
+
+Name
+
+Collection
+
+Golden Tall Hat
+
+Moonlight Burrow
+
+A luxurious hat he likes to wear during his New Year's hunt for serum.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Sugar High
+
+Tricks and Treats
+
+The world around him faded as his senses honed in on the sugary bliss.
+
+250
+
+Piece
+
+Name
+
+Collection
+
+Blight’s Mask
+
+Twisted Masquerade
+
+A mask he found himself wearing at the masquerade ball.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Jingle Cane
+
+Holiday Horror
+
+His cane was wrapped in a festive red ribbon to trick his target during the holiday season.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Mechanical Staff
+
+Mech Collection
+
+Made from scrap and polished with care.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Molded Visage
+
+Slipknot
+
+As a rapid-fire pounding echoed through the realm, a gruesome mask wrapped itself around The Blight’s face, serum gurgling from his maw.
+
+400
+
+Alternate Character Models
+
+The Blight
+ has 
+3
+ alternate Character models available in the in-game Store:
+
+The Ferryman
+
+William Birkin
+
+The Prophet
+ (Costume)
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Blight
+ is part of 
+3
+ DLCs:
+
+Chapter DLC:
+
+Descend Beyond
+ (
+retired
+)
+
+Pack DLCs:
+
+Macabre Tales Pack
+ (Chapter Pack)
+
+Terror Expansion Pack
+ (Character Pack)
+
+Change Log
+
+Patch 4.2.2
+Patch 4.4.0
+Patch 4.6.0
+Patch 4.7.1
+Patch 5.0.0
+Patch 7.5.0
+Patch 7.7.0
+Patch 8.6.0
+Patch 9.6.0
+Patch 4.2.2
+
+Buff
+: added the ability to destroy Pallets and Breakable Walls to 
+The Blight's
+ base-kit by using 
+Lethal Rush
+.
+Patch 4.4.0
+
+Change
+:
+ 
+The Blight
+ now features a change to his 
+Terror Radius
+ Music. This change makes his nearby layer more distinct than the approaching layer as previously, the transitions between the two layers are too subtle.
+Patch 4.6.0
+
+Change
+:
+ adjusted the first person animations and camera position to be higher up.
+
+Rework
+:
+ reworked the collision detection for 
+Blighted Corruption
+, making it consistent with 
+Basic Attack
+ obstructions and no longer resulting in sliding off of various surfaces.
+Patch 4.7.1
+
+Nerf
+:
+ added a cap to the maximum turn rate while 
+Rushing
+.
+
+Quality of Life
+: increased the maximum turn rate and sensitivity for controllers while 
+Rushing
+.
+Patch 5.0.0
+
+Nerf
+:
+ adjusted the maximum turn rate at large angles while 
+Rushing
+.
+Patch 7.5.0
+
+Change
+:
+ received an Add-on Pass, reworking several Add-ons.
+Patch 7.7.0
+
+Quality of Life
+: improved collision detection to reduce cases of 
+The Blight
+ sliding off of objects instead of performing the intended 
+Slam
+.
+
+Quality of Life
+: added several UX improvements to the Power Gauge:
+
+Cool-downs are now indicated through changes in icon opacity.
+
+The Power Gauge being on Cool-down is now displayed in 
+white
+, matching the behaviour of Power Gauges from other Killers.
+
+Cool-downs are now displayed per Power Token.
+
+The 
+Rush
+ duration is now surfaced.
+
+The time to perform a 
+Rush
+ is now also surfaced.
+Patch 8.6.0
+
+Nerf
+: increased the 
+Terror Radius
+ from 
+32 metres
+ to 
+40 metres
+.
+Patch 9.6.0
+
+Nerf
+: decreased the base Movement Speed from 
+4.6 m/s
+ to 
+4.4 m/s
+.
+
+Nerf
+: basic-breaking or special-breaking a Pallet now resets the 
+Rush
+ token amount to 2 below maximum and resets the current recharge to 0%.
+
+Trivia
+
+General
+
+The Blight
+ has a special vault animation: he leans one hand on the window and jumps over it, an animation very similar to the Survivors' vault animation. However, his animation changes if the vault leads to a drop-down, in which case he puts both feet on the window, then leaps down.
+
+Talbot Grimes as well as the Descend Beyond DLC, are referenced in the lore of 
+Nicolas Cage
+ in 
+Chapter 28.5
+
+Lore
+
+The Blight
+ is heavily intertwined with various Lore from 
+Dead by Daylight
+:
+
+He is the first Killer to have had Lore about him in the game prior to his release with the Memories of 
+"The Alchemist"
+ in 
+Tome I - Awakening
+, a year prior to his release.
+
+He was also retconned to be the speaker in 2018's 
+Hallowed Blight
+ Journal entries, originally attributed to 
+Benedict Baker
+.
+
+His Add-on descriptions feature references to various other 
+Characters
+, 
+Sub-Realms
+, and 
+Unlockables
+.
+
+New Moon Bouquet
+ Offering
+
+The 
+Plague
+
+Pustula Petals
+ Offering
+
+Putrid Serum
+
+The 
+Spirit World
+ Sub-Realm
+
+Vigo
+
+Visceral Cankers
+
+The 
+Void
+ Sub-Realm
+
+He himself is a mutation induced by the 
+Putrid Serum
+ harvested from the Pustulas during The Entity's yearly blight.
+
+The Blight
+ is heavily involved in the annual 
+Halloween Events
+ and the creation of 
+Blighted Cosmetics
+.
+
+The Blight
+ may have indirectly brought 
+The Dredge
+ into existence, as the Black Vale could have studied his notes on "Fold Energy".
+
+The Blight
+ was the first Character to have storylines in more than one Tome.
+
+The Blight
+ is the only Killer to date with confirmed, canonical interactions with other Killers.
+
+Talbot Grimes
+ was originally taken by The Entity as a Survivor. His experiments with the Pustula Petals on other Killers and on himself to finally escape the Trials backfired, which led to his mutation as 
+The Blight
+.
+
+According to the Developers, 
+The Blight
+ is very close to The 
+Entity
+ and is one of the only Characters who was outside the Trials and could freely visit The 
+Void
+ and other restricted zones of The Entity's Realm. They also mentioned that he was able to harness and use part of the Entity's own power.
+
+The Developers mentioned that the inspiration behind 
+Talbot Grimes
+ and 
+The Blight
+ is Dr. Jekyll and his alternative personality Mr. Hyde, the central character of Robert Louis Stevenson's 1886 novella 
+Strange Case of Dr. Jekyll and Mr. Hyde
+.
+
+Voice Actor
+
+The Blight
+ is partially voiced by Jean-Baptiste Garnier, who at that time worked as the Senior Sound Designer on the Game.
+
+The Blight
+ shares his voice-actor partially with The 
+Oni
+, The 
+Executioner
+, and The 
+Twins
+ (
+Victor
+).
+
+Gallery
+
+In-game Assets
+
+The Blight
+
+The Blight (Portrait render)
+
+The Blight (Background image)
+
+Official Art
+
+Blood Moon Collection Banner (2026)
+
+Outfits
+
+Bad Transfusion Outfit
+
+Old Assets
+
+The Blight (Old Portrait render)
+
+Concept Art
+
+Default Concept Art
+
+Early Sketch Sheet
+
+'Park Lane + Westminister Aristocrat' Concept Art
+
+'Invasive Species' Concept Art
+
+'Wandering Cat' Concept Art
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

@@ -1,0 +1,179 @@
+# 9.4.2 | Bugfix Patch - BHVR
+Source: https://forums.bhvr.com/dead-by-daylight/kb/articles/536 (consulté le 27/09/2026)
+
+2v8
+The 2v8 event returns Tuesday, February 10th at 11:00 AM Eastern.
+NEW KILLER
+The Good Guy - Innate Skills:
+Slice & Dice turn speed increased by
+10%
+.
+Increased Hidey-Ho Mode uptime by
+15%
+.
+Performing a Scamper under a pallet breaks it immediately.
+The Good Guy can see Illusionary Footfalls around Survivors.
+Increased Slice & Dice attack duration by
+50%
+.
+KILLER UPDATE
+The Nemesis:
+Added 2 additional Zombies for a total of
+4
+.
+Increased Zombie movement speed by
+35%
+.
+KILLER CLASS UPDATES
+Brute - Team Skill:
+Break action speed increased by
+25%
+.
+Kicking a Generator causes it to weaken and begin regressing.
+The aura of the kicked generator will appear in yellow to the Brute.
+The next time a Survivor interacts with the Generator and repairs it past its regression point, it explodes triggering a loud noise notification and sprays the Survivor with smoke. The Survivor suffers from the
+Hindered
+status effect for
+12 seconds
+.
+The aura of the generator returns to red after the effect occurs.
+Cooldown for
+60 seconds
+where break action speed bonus is not applied.
+Fearmonger - Team Skill:
+Gain
+5%
+Haste
+when unseen.
+Injuring a Survivor by any means causes up to
+2
+Survivors within
+12 meters
+of the injured Survivor to scream, revealing their aura to your teammate for
+2 seconds
+.
+Cooldown for
+60 seconds
+where
+Haste
+bonus is not applied.
+Enforcer - Team Skill:
+Gain
+3% Haste
+when chasing an injured Survivor.
+When you hit a Survivor, the Survivor receives the Enforcer’s Mark, which is visible to both you and your teammate.
+Survivors with Enforcer’s Mark applied have their aura revealed for
+1 second
+every
+8 seconds
+while marked for
+45 seconds
+. Downing the Survivor consumes the mark and increases the Enforcer's lunge attack distance by
+60%
+for
+15 seconds
+.
+60 second
+cooldown where the
+Haste
+bonus is not applied.
+NEW SURVIVOR CLASS: TORCHBEARER
+Class Skill:
+Starts with Flashlight of uncommon rarity.
+Class Skill charges over
+60 seconds
+, granting a Flash Grenade when fully charged.
+Behaves like an ability; does not take up any item slot.
+Press the Active Ability button 2 to activate the Flash Grenade.
+Cooldown
+60s
+.
+Info Skill:
+Survivors in chase have their aura revealed to you within
+32 meters
+.
+Point a Flashlight at a Killer for
+0.5 seconds
+to reveal them for
+2 seconds
+.
+Unlockable Skill:
+Grant
+Endurance
+to Survivors you pick up from the Dying State. Injured Survivors that unhook you gain
+Endurance
+.
+SURVIVOR CLASS UPDATE
+Scout – Unlockable Skill:
+Increase your walking speed by
+25%
+and make no grunts of pain while injured.
+Grants immunity to screaming.
+NEW MAPS
+Groaning Storehouse
+Rotten Field
+FEATURES
+Tonics:
+Herb gameplay returns in the form of tonics! They can be found in locations where you would normally find totems and are scattered  throughout the map.
+There are two types of tonics that have different effects for Survivor and Killers:
+Diluted Tonic:
+Survivor:
+Restores a health state on use.
+Killer:
+Increases
+Haste
+by
+10%
+for
+20 seconds
+.
+Purified Tonic:
+Survivor
+: Restores a hook state on use.
+Killer
+: Grants a
+10% Haste
+bonus to both Killers for
+20 seconds
+.
+Dual Terror Radius:
+We have updated the Terror Radius to reflect both Killers in range, adjusting the audio tracks for each Killer as they get closer to or further from Survivors.
+The Visual Terror Radius indicator from the Accessibility settings has also been updated to show both Killers when in range, including Lullabies and regular Terror Radii.
+Cooperative Healing:
+Increased the number of Survivors able to simultaneously heal one another to 3
+(was 2)
+.
+Content
+Increased the probability of Steve Harrington to use the original Scared Scream audio (Steagull) to 10%.
+Bug Fixes
+Audio
+Fixed an issue where performing a Mori with any Killer triggers the voice line of 2 specific Killers during 2V8.
+Characters
+Fixed an issue where The First was unable to perform the Traverse Upside Down Killer Power after hooking a Survivor.
+Fixed an issue where the outer ring of The First's Vine attack aiming reticle stayed the same color for the duration of the Trial.
+Fixed an issue where The First's Vine attack animation will not play when done right after cancelling a non-fully charged vine attack.
+Fixed an issue where The Houndmaster's Commands were temporarily unavailable for a few seconds after dropping from a high elevation.
+Fixed an issue where The Ghoul's Kagune Leap remained active when pressing the vault prompt immediately after vaulting with Kagune Leap.
+Fixed an issue where The Ghoul walked at regular speed while holding the power when quickly missing a Kagune Leap after a successful one.
+Fixed an issue where The Ghoul could attack downed Survivors when using Kagune Leap near vault points.
+Fixed an issue where The Ghoul's vault attack animation did not play if The Ghoul moved forward after vaulting a window.
+Fixed an issue where The Skull Merchant's Drone clipped inside her when Deploying a Drone.
+Fixed an issue where sometimes The Dredge's Reign of Darkness ability did not show locker auras, blocking The Dredge from teleporting.
+Fixed an issue where The Mastermind’s Virulent Bond could injure Survivors near pallets that were farther away than intended.
+Fixed an issue where The Legion would clip inside the Pallet when vaulting while in Feral Frenzy.
+Fixed an issue where The Pig could damage Survivors from the other side of a Jigsaw Box.
+Fixed an issue where terrain was visible when The Xenomorph exited a specific Control Station in several maps.
+Fixed an issue where assets and Survivors would appear invisible momentarily when The Xenomorph exited a Tunnel.
+Fixed an issue where Nancy’s facial likeness did not fully match the actress. Her appearance has now been updated to better reflect the actress.
+Fixed an issue where the server would sometimes correct positions after The Nurse blinks.
+Environment/Maps
+Fixed an issue in MacMillan's Estate where coming out of a locker shows the character bouncing out.
+Fixed an issue in all realms where Killers can hit Survivors through fire barrels.
+Fixed an issue in Raccoon City Police Station where a chest is hard to interact with.
+Fixed an issue in Grim Pantry where the device of Bada Bada Boom is misaligned with a vault.
+Fixed an issue in Dead Dawg Saloon where The First's power, Focus Ground, can be placed on top of a structure.
+Perks
+Small text clarification: Turn Back The Clock now mentions that you can only target generators "you can see" within distance.
+Fixed an issue where the external perk icon disappeared when a Survivor with either Teamwork: Full Circuit and/or Teamwork: Soft Spoken stopped repairing a generator while another Survivor still had the perk(s) active.
+Fixed an issue where Killers kept the Undetectable status effect from Trail of Torment if the generator became blocked by any means.
+Fixed an issue where The Mastermind could be affected by the effects of Hex: The Third Seal after using vault attacks or attacks on Survivors with the Endurance status.

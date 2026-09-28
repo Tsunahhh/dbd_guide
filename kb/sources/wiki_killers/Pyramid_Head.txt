@@ -1,0 +1,2326 @@
+# Pyramid Head
+Source: https://deadbydaylight.wiki.gg/wiki/Pyramid_Head (page complète via API, consultée le 27/09/2026)
+
+The Executioner
+
+Name
+
+Pyramid Head
+
+Game Alias(es)
+
+"Red Pyramid Thing"
+
+Gender
+
+Man
+
+Origin
+
+None (Creature, Manifestation of Guilt)
+
+Realm
+
+Silent Hill
+
+Power
+
+Rites of Judgement
+
+Power 
+Attack
+ Type
+
+Special Attack
+
+(Attack Trail)
+
+Weapon
+
+Great Knife
+
+Movement Speed
+
+115 % 
+|
+ 4.6 m/s
+
+Alternate Movement speed
+
+105 % 
+|
+ 4.2 m/s
+(Rites of Judgement)
+
+Terror Radius
+
+32 metres
+
+Height 
+
+Tall
+
+DLC
+
+Silent Hill (Chapter)
+
+Voice Actor
+
+Jean-Baptiste Garnier (BHVR)
+
+Cost
+
+500 
+Auric Cells
+
+Breathing
+
+Menu Music
+
+Terror Radius Music
+
+Metadata
+
+CharID
+
+K20
+
+Pyramid Head
+ or 
+"The Executioner"
+ is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+He was introduced as the Killer of 
+Silent Hill (Chapter)
+, a Chapter DLC released on 16 June of 2020.
+
+He originates from the video game franchise 
+Silent Hill
+, specifically 
+Silent Hill 2 (2001)
+.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: Great Knife
+
+3.3
+ 
+Power: Rites of Judgement
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for Rites of Judgement
+
+3.5
+ 
+Innate Skill
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Base Cosmetics
+
+5.1.1
+ 
+Default
+
+5.1.2
+ 
+Prestige
+
+5.1.2.1
+ 
+Perk Charms
+
+5.1.2.2
+ 
+Prestige Badges
+
+5.2
+ 
+In-Game Store
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+General
+
+8.2
+ 
+Differences from the Video Games
+
+8.3
+ 
+Cosmetics
+
+8.4
+ 
+Memento Mori
+
+8.5
+ 
+Voice Actor
+
+9
+ 
+Gallery
+
+9.1
+ 
+In-game Assets
+
+9.2
+ 
+Official Art
+
+9.3
+ 
+Outfits
+
+9.4
+ 
+Models
+
+9.5
+ 
+Others
+
+10
+ 
+References
+
+Overview
+
+Merciless and unforgiving, The Executioner brings his own form of twisted justice to The Fog, tormenting Survivors with hazards around the map. Hooks are an effective tool, but nothing punishes quite like a Cage of Torment. All hope will swiftly fade the moment Pyramid Head raises his mighty blade to deliver the Final Judgment.
+
+The Executioner
+ is a map-manipulation Killer, able to torment Survivors with the hazards he creates.
+Affected Survivors will be vulnerable to his special 
+Hook
+, the 
+Cage of Atonement
+ and his special Mori, 
+Final Judgement
+.
+
+His personal Perks, 
+Forced Penance
+, 
+Trail of Torment
+, and 
+Deathbound
+, allow him to aggressively defend his prey while deceiving and tracking Survivors.
+
+Lore
+
+A sadistic and merciless executioner, Pyramid Head is fixated on dispensing punishment through pain.
+
+Encumbered by the steel frame upon his head and with a hulking great blade in tow, he stalked the hellish corridors of Silent Hill, committed to a duty that no one truly understood. Where he trod, even monsters fled for the shadows, and those who crossed his path fell victim to unrestrained acts of aggression.
+
+When his duty was complete and his presence no longer needed, he prepared for the long rest — and yet, his skills were required elsewhere. The Fog that streamed over him was somehow different than that he was accustomed to in Silent Hill, as if each wisp contained the nerves of a creature, writhing, seeking him out.
+
+There was an unspoken agreement in that moment. The billowing cloud was an invitation to duty and sadism, and Pyramid Head, taking a step into The Fog, accepted his obligation once more.
+
+Load-out
+
+Unique Perks
+
+The Executioner
+ comes with 
+3
+ 
+Perks
+ that are unique to him:
+
+ 
+
+Deathbound
+
+"Those whose lives are intertwined in darkness are destined to suffer together."
+
+Whenever a Survivor finishes healing another Survivor for the equivalent of 
+1
+ 
+Health State
+, 
+Deathbound
+ activates:
+
+Causes the Healer to scream and reveal their location.
+
+Causes the Healer to suffer from the 
+Oblivious
+ 
+Status Effect
+ whenever they are farther than 
+12
+/
+8
+/
+4
+ 
+metres
+ from the other Survivor.
+
+The Healer sees the 
+Aura
+ of the Healed Survivor while 
+Deathbound
+ is active.
+
+Deathbound
+ deactivates after the Healer loses a Health State.
+
+ 
+
+Forced Penance
+
+"Those who stand in the way of duty will suffer harsh judgement."
+
+Whenever a Survivor triggers a 
+Protection Hit
+, they suffer from the following effect:
+
+Inflicts the 
+Broken
+ 
+Status Effect
+ for 
+60
+/
+70
+/
+80
+ 
+seconds
+.
+
+ 
+
+Trail of Torment
+
+"You guide your victims along a path of pain and punishment."
+
+Performing the 
+Damage Generator
+ action on a 
+Generator
+ activates 
+Trail of Torment
+:
+
+Grants the 
+Undetectable
+ 
+Status Effect
+.
+
+The 
+Aura
+ of the 
+Damaged Generator
+ is revealed to all Survivors and highlighted in 
+yellow
+.
+
+Trail of Torment
+ deactivates after the 
+Damaged Generator
+ stops regressing by any means and has a cool-down of 
+60
+/
+45
+/
+30
+ 
+seconds
+ between activations.
+
+Prestige
+
+Prestiging 
+The Executioner
+ will automatically add 
+Tier I
+ of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Executioner
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: Great Knife
+
+The 
+Great Knife
+ is the Primary Weapon of 
+The Executioner
+.
+A massive chef's knife to reap affliction and misery from his victims. 
+
+Power: Rites of Judgement
+
+"Open the Gates of Suffering and be judged! The Great Knife splits the ground, giving rise to an infernal construct and spreading agony to all who approach."
+SPECIAL ABILITY: RITES OF JUDGEMENT
+Press and hold the 
+Power button
+ to carve a 
+Torment Trail
+ into the ground beneath you while moving:
+
+Reduces
+ his Movement to 
+4.2 m/s
+.
+
+The Power gauge has a capacity of 
+10 Charges
+.
+
+Drawing the 
+Torment Trail
+ drains it at a rate of 
+-1 c/s
+, allowing for a maximum Draw time of 
+10 seconds
+.
+
+Remaining stationary or stopping to move automatically pauses the Power gauge.
+
+Segments of the 
+Torment Trail
+ have a Life time of 
+90 seconds
+.
+Their 
+Auras
+ are revealed to 
+The Executioner
+ in 
+white
+ within 
+32 metres
+.
+SPECIAL ATTACK: PUNISHMENT OF THE DAMNED
+While performing 
+Rites of Judgement
+, press the 
+Attack button
+ to trigger 
+Punishment of the Damned
+, unleashing a propagating 
+Attack Trail
+ in front of 
+The Executioner
+:
+
+Inflicts damage to all Survivors it touches.
+
+Depletes the Power Gauge by 
+-2 Charges
+.
+
+Has a range of 
+10 metres
+.
+
+SPECIAL AFFLICTION: TORMENT
+If a Survivor touches the 
+Torment Trail
+ while not crouched, it applies the following effects:
+
+Inflicts 
+Torment
+.
+
+Triggers 
+Killer Instinct
+ for 
+3 seconds
+.
+
+Torment
+ is only removed after rescuing or being rescued from a 
+Cage of Atonement
+.
+SPECIAL INTERACTION: SEND TO CAGE
+Press the 
+Secondary Power button
+ while standing over a downed 
+Tormented Survivor
+ to send them to a 
+Cage of Atonement
+.
+SPECIAL INTERACTION: FINAL JUDGEMENT
+Press the 
+Secondary Power button
+ while standing over a downed 
+Tormented Survivor
+ that has reached the second 
+Hook Stage
+ to execute them on the spot, performing a 
+Mini-Mori
+.
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Walking while initiating or cancelling 
+Punishment of the Damned
+: 
+3.68 m/s
+
+Walking while performing 
+Rites of Judgement
+: 
+4.2 m/s
+
+Walking: 
+4.6 m/s
+
+Rites of Judgement / Torment Mode
+:
+
+Power Activation time: 
+1 second
+
+Power Cancellation time: 
+1 second
+
+Power Capacity: 
+10 Charges
+
+This refers to for how long 
+The Executioner
+ can draw 
+Torment Trails
+ before the Power runs out and he needs to recharge it.
+
+Power Depletion rate: 
+-1 c/s
+
+This results in a Depletion time of 
+10 seconds
+.
+
+Power Recharge rate: 
++0.25 c/s
+
+This results in a Recharge time of 
+40 seconds
+.
+
+Killer Instinct
+ duration: 
+3 seconds
+
+Cages of Atonement
+:
+
+ 
+Main article: 
+Cages of Atonement
+ 
+
+Interaction time: 
+1 second
+
+Auto-relocation Trigger radius: 
+10 metres
+
+Auto-relocation Trigger timer: 
+3.5 seconds
+
+Auto-relocation Entity-Progression Cool-down duration: 
+10 seconds
+
+Attack Trail
+:
+
+Initial Spawn delay: 
+0.267 seconds
+
+Delay after initiating the attack before the 
+Attack Trail
+ spawns.
+
+Spawn interval per segment: 
+0.033 seconds
+
+Interval between the individual segments of the 
+Attack Trail
+ spawning.
+
+This is what causes the 
+Attack Trail
+ to spawn as a propagating wave.
+
+Life time per segment: 
+0.18 seconds
+
+Trail length: 
+10 metres
+
+Slope-Angle limit: 
+42 °
+
+Slopes with a larger angle will prohibit the Trail from propagating further, to avoid having it climb onto objects.
+
+Attack time (open-phase): 
+0.3 seconds
+
+Attack time (hitting-phase): 
+0.6 seconds
+
+Attack Cool-down time: 
+2.25 seconds
+
+This applies to all three attack-types: successful, missed, and obstructed
+
+Post-Hit Immunity buffer: 
+1 second
+
+This aims to prevent Survivors from being hit multiple times by the same attack.
+
+Initiation Power Gauge penalty: 
+-2 Charges
+
+This penalty prevents 
+The Executioner
+ from spamming his attack, forcing him to wait for the Power Gauge to fully recharge first.
+
+Torment Trail:
+
+Spawn limit: 
+100 Segments
+
+Drawing more paths will recycle the oldest segments.
+
+Spawn Distance between individual segments: 
+0.8 metres
+
+Aura range: 
+32 metres
+
+Restricted Trail
+:
+
+Various props have a restricted zone around them that, while allowing them to spawn, cause 
+Torment Trail
+ segments within them to despawn after just a few seconds.
+
+Spawn limit: 
+25 Segments
+
+Drawing more paths will recycle the oldest segments.
+
+Life time per segment: 
+3 seconds
+
+Restricted ranges:
+
+Generators
+ and 
+Hooks
+: 
+4 metres
+
+Exit Gate Switches
+ and the 
+Hatch
+: 
+3 metres
+
+Anywhere inside the 
+Basement
+.
+
+On any staircase, due to the Slope-Angle limit.
+
+Add-ons for Rites of Judgement
+
+Icon
+
+Name
+
+Description
+
+Black Strap
+
+"A nylon strap that was used to restrain a victim to a metal frame.
+The colour makes it difficult to see the blood-soaked into it."
+
+Modifies 
+Punishement of the Damned
+ with the following effects:
+
+Increases
+ its width by 
++25 %
+.
+
+Reduces
+ its range by 
+-25 %
+.
+
+Copper Ring
+
+"Found in the basement of Brookhaven Hospital.
+It is engraved with a picture of a spider."
+
+Modifies 
+Rites of Judgement
+ with the following effect:
+
+Increases
+ its maximum duration by 
++5 seconds
+.
+
+"I was locked up inside the basement's basement. It was so small and dark, and I was so afraid. I dropped my precious ring. But I'll never ever go back there."
+
+Dead Butterfly
+
+"A butterfly found on a bed at Wood Side Apartments.
+It is frail and nearly falls apart when touched."
+
+Modifies 
+Rites of Judgement
+ with the following effect:
+
+Increases
+ its Recharge rate by 
++10 %
+.
+
+Lead Ring
+
+"Found in a refrigerator.
+It is engraved with a disgusting, bloated face."
+
+Modifies 
+Punishment of the Damned
+ with the following effects:
+
+Increases
+ its range by 
++25 %
+.
+
+Reduces
+ its width by 
+-25 %
+.
+
+Cinderella Music Box
+
+"A music box with a figure from the fairy tale Cinderella, found inside a suitcase adorned with stickers from multiple destinations."
+
+Modifies 
+Punishment of the Damned
+ with the following effect:
+
+Reduces
+ its Cool-down time by 
+-10 %
+.
+
+Forgotten Videotape
+
+"A videotape of two lovers vacationing in Silent Hill.
+Despite its sentimental value, it was left behind in the Lakeview Hotel."
+
+Modifies 
+Punishment of the Damned
+ with the following effect:
+
+Increases
+ its Travel speed by 
++10 %
+.
+
+Leopard-Print Fabric
+
+"A shred of pink, leopard-print fabric.
+It is difficult to tell what it was used for."
+
+While using 
+Rites of Judgement
+, you benefit from the following effect:
+
+Reduces
+ the duration of stuns by 
+-15 %
+.
+
+"It doesn't matter who I am. I'm here for you, James." — Maria
+
+Spearhead
+
+"The sharp, rusted tip of a spear.
+It is flaked with blood from its last victim."
+
+Survivors rescuing others from a 
+Cage of Atonement
+ suffer from the following effect:
+
+Their 
+Aura
+ is revealed to you for 
+8 seconds
+.
+
+Wax Doll
+
+"A doll carved from wax, handcrafted by a prisoner who would soon face their judgement."
+
+Modifies 
+Punishment of the Damned
+ with the following effect:
+
+Increases
+ its range by 
++5 %
+.
+
+Burning Man Painting
+
+"A diagram of the Lakeview Hotel.
+Red flames are painted over this place of guilt."
+
+Missed 
+Punishment of the Damned
+ attacks trigger the following effect:
+
+The 
+Auras
+ of all Survivors within 
+3 metres
+ of your current location are revealed to you for 
+6 seconds
+.
+
+Mannequin Foot
+
+"The smooth grey foot of a mannequin, brutally torn from its leg."
+
+Modifies 
+Torment Trails
+ with the following effect:
+
+Causes Survivors to suffer from the 
+Exhausted
+ 
+Status Effect
+ for 
+10 seconds
+ upon contact.
+
+Misty Day, Remains of Judgement
+
+"A painting of an imposing figure wearing a steel pyramid atop his head.
+Victims are caged in the background."
+
+Successful 
+Punishment of the Damned
+ attacks trigger the following effect:
+
+Causes the 
+Auras
+ of hit Survivors to be revealed to you for 
+8 seconds
+.
+
+Tablet of the Oppressor
+
+"A metal tablet engraved with Aztec figures."
+
+While using 
+Rites of Judgement
+, the following effect applies:
+
+Grants the 
+Undetectable
+ 
+Status Effect
+.
+
+Valtiel Sect Photograph
+
+"A photograph of two figures in red hoods.
+Entitled Crimson and White Banquet for the Gods."
+
+For each Survivor afflicted by 
+Torment
+, you benefit from the following effect:
+
+Reduces
+ your 
+Terror Radius
+ by a stack-able 
+-2 metres
+, up to a maximum of 
+-8 metres
+.
+
+Crimson Ceremony Book
+
+"A book about an ancient god. Author unknown."
+
+Successful 
+Punishment of the Damned
+ attacks trigger the following effect:
+
+Causes hit Survivors to suffer from the 
+Haemorrhage
+ and 
+Mangled
+ 
+Status Effects
+ for 
+80 seconds
+.
+
+"Speak! I am the Crimson One! The lies and the mist are not they, but I!"
+
+Lost Memories Book
+
+"A book about the history and legends of Silent Hill and the surrounding area."
+
+Successful 
+Punishment of the Damned
+ attacks trigger the following effect:
+
+Causes hit Survivors to suffer from the 
+Oblivious
+ 
+Status Effect
+ for 
+80 seconds
+.
+
+"They called this place 'The Place of the Silent Spirits'."
+
+Rust-Coloured Egg
+
+"An old-looking egg, coloured reddish orange, about the size of a quail's egg."
+
+Successful 
+Punishment of the Damned
+ attacks trigger the following effect:
+
+Recharges 
+Rites of Judgement
+ by 
++30 %
+.
+
+"James... you made me happy." — Mary
+
+Scarlet Egg
+
+"A fresh egg, strikingly red in colour, about the size of a quail's egg."
+
+Modifies 
+Rites of Judgement
+ with the following effects:
+
+While running, Survivors afflicted by 
+Torment
+ create their own 
+Torment Trails
+ trailing after them.
+
+These 
+Torment Trails
+ last for 
+5 seconds
+.
+
+Removes
+ the ability to read the 
+Auras
+ of 
+Torment Trails
+.
+
+"I've never been so scared in my whole life! You couldn't care less about me... could you?" — Maria
+
+Iridescent Seal of Metatron
+
+"A talisman with an odd design inscribed on it.
+The Entity's influence seems to have altered it."
+
+Modifies 
+Punishment of the Damned
+ with the following effects:
+
+Reduces
+ its base range by 
+-50 %
+.
+
+Increases
+ its range progressively while drawing 
+Torment Trials
+, up to a maximum 
++200 %
+.
+
+This effect resets after hitting a Survivor with 
+Punishment of the Damned
+.
+
+"This magic square, with strong protective and dispelling properties, is called the 'Virun VII Crest' or the 'Seal of Metatron'."
+
+Obsidian Goblet
+
+"An ancient looking goblet carved from pure obsidian."
+
+Modifies 
+Punishment of the Damned
+ with the following effects:
+
+Grants the ability to destroy 
+Breakable Walls
+ and 
+Pallets
+ upon contact.
+
+Increases
+ its cool-down by 
++20 %
+.
+
+"Forgive me for waking you. But without you, I just can't go on." — James Sunderland
+
+Innate Skill
+
+Used exclusively in 
+2v8
+ Trials, the 
+Innate Skill
+ modifies the 
+Rites of Judgement
+ with the following effects:
+
+Innate Skill
+ (
+Executioner Passive
+) 
+
+Modifies 
+Rites of Judgement
+ with the following effects:
+
+Reduces
+ its Recharge time by 
+-4 seconds
+.
+
+Increases
+ the Lifetime of 
+Torment Trails
+ by 
++20 seconds
+.
+
+Increases
+ the Length of the 
+Attack Trail
+ by 
++1.5 metres
+.
+
+Increases
+ the Width of the 
+Attack Trail
+ by 
++30 %
+.
+
+Increases
+ the duration of 
+Killer Instinct
+ by 
++3 seconds
+ to 
+6 seconds
+.
+
+Grants the ability to kill dying Survivors with 
+Final Judgement
+, if either of the following applies:
+
+They have been sent to a 
+Cage of Atonement
+ 
+twice
+.
+
+They have been sent to both a 
+Cage of Atonement
+ and a 
+Cage of Corruption
+ 
+once
+.
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There are 
+2
+ Achievements related to 
+The Executioner
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Executioner
+
+Playing as The 
+Executioner
+, achieve a 
+Merciless Victory
+ using only his 
+3
+ Unique Perks: 
+Forced Penance
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Those who stand in the way of duty will suffer harsh judgement."
+
+Whenever a Survivor triggers a 
+Protection Hit
+, they suffer from the following effect:
+
+Inflicts the 
+Broken
+ 
+Status Effect
+ for 
+60
+/
+70
+/
+80
+ 
+seconds
+.
+
+, 
+Trail of Torment
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"You guide your victims along a path of pain and punishment."
+
+Performing the 
+Damage Generator
+ action on a 
+Generator
+ activates 
+Trail of Torment
+:
+
+Grants the 
+Undetectable
+ 
+Status Effect
+.
+
+The 
+Aura
+ of the 
+Damaged Generator
+ is revealed to all Survivors and highlighted in 
+yellow
+.
+
+Trail of Torment
+ deactivates after the 
+Damaged Generator
+ stops regressing by any means and has a cool-down of 
+60
+/
+45
+/
+30
+ 
+seconds
+ between activations.
+
+, and 
+Deathbound
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Those whose lives are intertwined in darkness are destined to suffer together."
+
+Whenever a Survivor finishes healing another Survivor for the equivalent of 
+1
+ 
+Health State
+, 
+Deathbound
+ activates:
+
+Causes the Healer to scream and reveal their location.
+
+Causes the Healer to suffer from the 
+Oblivious
+ 
+Status Effect
+ whenever they are farther than 
+12
+/
+8
+/
+4
+ 
+metres
+ from the other Survivor.
+
+The Healer sees the 
+Aura
+ of the Healed Survivor while 
+Deathbound
+ is active.
+
+Deathbound
+ deactivates after the Healer loses a Health State.
+
+.
+
+Cleansed in Agony
+
+Playing as The 
+Executioner
+, send Survivors to a 
+Cage of Atonement
+ a total of 
+30 times
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Executioner
+:
+
+Base Cosmetics
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Pyramid Head
+
+Common
+
+A manifestation of guilt, this punishing force took shape in the nightmares of the tormented.
+
+Butcher's Apron
+
+Common
+
+Born from the unhinged minds of his victims tormented by guilt.
+
+Great Knife
+
+Common
+
+A massive chief's knife to reap affliction and misery from his victims.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Blood-Soaked Pyramid Head
+
+Rare
+
+A manifestation of guilt, this punishing force took shape in Cheryl's dreams and tormented her with nightmarish visions of gore.
+
+Prestige Level 6 Reward
+
+Gory Butcher's Apron
+
+Rare
+
+Born from the unhinged minds of his victims that he tormented with brutal and sanguinary methods.
+
+Prestige Level 5 Reward
+
+Bloodthirsty Great Knife
+
+Rare
+
+A massive, bloodstained chef's knife to reap affliction and misery from his victims.
+
+Prestige Level 4 Reward
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+A sadistic and merciless executioner, fixated on dispensing punishment through pain.
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Flayed Torturer
+
+Silent Hill
+
+06 November 2025 (Thursday)
+
+Description
+
+The body hanged upside down, affixed to the rotting wall, skin dangling to the filthy floor.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Chained Helmet
+
+Silent Hill
+
+He had screamed at the sight of death incarnate, wrapped in chains and covered in blood.
+
+Piece
+
+Name
+
+Collection
+
+Muscle and Gore
+
+Silent Hill
+
+Nails and blades pierced the torso, pinning him fast to his final resting place.
+
+Piece
+
+Name
+
+Collection
+
+Skin-Wrapped Knife
+
+Silent Hill
+
+The blade was sharp, and slicing skin from flesh was easy work.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Forge Born
+
+Immolation
+
+21 August 2020 (Friday)
+
+Description
+
+Straight from the fiery forge, an inferno of cruelty and malice rages.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Molten Pyramid
+
+Immolation
+
+A red-hot slab of metal burning endlessly at extreme temperatures. Pain is atonement.
+
+Piece
+
+Name
+
+Collection
+
+Third Degree
+
+Immolation
+
+Fiery rage courses through his veins, scorching his vestments and peeling skin from muscle.
+
+Piece
+
+Name
+
+Collection
+
+Inferno Blade
+
+Immolation
+
+A searing blade that lights the night, warning of the blistering pain to come.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Pyramid Blight
+
+Hallowed Curse
+
+26 October 2021 (Tuesday)
+
+Description
+
+The putrid serum took hold of the creature born from a dark wish, rotting with putrid ways to punish the guilty.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Putrid Pyramid Head
+
+Hallowed Curse
+
+Dribbling with fetid, foul discharges.
+
+Piece
+
+Name
+
+Collection
+
+Foul Apron
+
+Hallowed Curse
+
+A vile mass of fetid secretions, festering in his entrails.
+
+Piece
+
+Name
+
+Collection
+
+Rancid Knife
+
+Hallowed Curse
+
+A massive knife dripping with sour, rotting matter.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Hornet Punishment
+
+Chrysalis
+
+20 May 2025 (Tuesday)
+
+Description
+
+The insects chittered and buzzed as they crept along the hallway. The man tried to swat them away, unaware that someone was approaching.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Swarm Head
+
+Chrysalis
+
+He recoiled at the sight of the rotting helmet as it emerged from the darkness like a walking infestation.
+
+Piece
+
+Name
+
+Collection
+
+Nesting Apron
+
+Chrysalis
+
+The sight of this unnatural being was overwhelming. Dread overtook the man, the buzzing of the insects growing louder in his ears.
+
+Piece
+
+Name
+
+Collection
+
+Infested Blade
+
+Chrysalis
+
+He begged for mercy but knew in his heart there was none to be had. The giant blade flew in a wide arc, and the man's cries were cut short.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+The Corrupted
+
+Dark Wish
+
+16 June 2020 (Tuesday)
+
+Description
+
+Born from a dark wish, his purpose was to find and punish the guilty.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Venous Pyramid Head
+
+Dark Wish
+
+A venous head pulsating with the will to execute the guilty consciousness of his victims.
+
+Piece
+
+Name
+
+Collection
+
+Executioner's Apron
+
+Dark Wish
+
+He pierced his victims' psyche, wearing shredded leather and barbed wire.
+
+Piece
+
+Name
+
+Collection
+
+Corroded Great Knife
+
+Dark Wish
+
+A massive chef's knife wielded to reap torment from guilty victims.
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Executioner
+ is part of 
+1
+ DLC:
+
+Silent Hill (Chapter)
+
+Change Log
+
+Patch 4.0.2
+Patch 4.3.0
+Patch 6.6.0
+Patch 7.1.0
+Patch 8.1.0
+Patch 9.1.0
+Patch 9.2.3
+Patch 9.3.0
+Patch 10.1.0
+Patch 4.0.2
+
+Nerf
+: disabled 
+The Executioner's
+ ability to see Survivors inside of a 
+Cage of Atonement
+.
+
+Change
+: added an Anti-Camp system that relocates a 
+Cage of Atonement
+, if 
+The Executioner
+ remains too close to it for too long, during which the Sacrifice process will be paused.
+Patch 4.3.0
+
+Buff
+: reduced the cool-down after using 
+Punishment of the Damned
+ from 
+2.75 seconds
+ to 
+2.25 seconds
+.
+
+Nerf
+: cancelling 
+Rites of Judgement
+ now applies the same slow-down for the same duration as activating it.
+
+During this time, 
+The Executioner
+ is also prevented from initiating a 
+Basic Attack
+.
+Patch 6.6.0
+
+Quality of Life
+: removed the HUD elements when performing 
+The Final Judgment
+ to allow for a more cinematic experience when killing Survivors this way.
+Patch 7.1.0
+
+Nerf
+: increased the required range of the relocation mechanic for caged Survivors from 
+5 meters
+ to 
+10 metres
+.
+Patch 8.1.0
+
+Indirect Buff
+: significantly reduced the time it takes to send Survivors to a 
+Cage of Atonement
+.
+
+This change coincides with the introduction of the 
+Cage of Corruption
+ exclusive to 
+2v8
+, which is functionally identical.
+Patch 9.1.0
+
+Buff
+: increased the Attack range of 
+Punishment of the Damned
+ from 
+8 metres
+ to 
+10 metres
+.
+
+Buff
+: increased the Life time of regular 
+Torment Trail
+ segments from 
+75 seconds
+ to 
+90 seconds
+.
+
+Buff
+: doubled the maximum Drawing time of 
+Rites of Judgement
+.
+
+This was achieved by doubling the Power Capacity of 
+Rites of Judgement
+ from 
+5 Charges
+ to 
+10 Charges
+.
+
+This change also resulted, however, in the Power Recharge time doubling from 
+20 seconds
+ to 
+40 seconds
+, due to the Recharge rate remaining unchanged at 
++0.25 c/s
+.
+
+Quality of Life
+: added input-buffering to the following interactions:
+
+Transitioning from 
+Punishment of the Damned
+ to 
+Rites of Judgement
+.
+
+Beginning the process of sending a Survivor to a 
+Cage of Atonement
+ or initiating the 
+Mini-Mori
+.
+
+Nerf
+: reduced his Movement speed while performing 
+Rites of Judgement
+ from 
+4.4 m/s
+ to 
+4.2 m/s
+.
+
+Indirect Nerf
+: uncaged Survivors now also benefit from the 
+Haste and Endurance
+ Status Effects
+ as unhooked Survivors did previously.
+
+Change
+: received an Add-On Pass, updating and reworking several 
+Add-ons
+ to introduce more interesting options and increase the viability of his underused ones.
+Patch 9.2.3
+
+Nerf
+: uncaging a Survivor no longer triggers a 
+Loud Noise Notification
+.
+Patch 9.3.0
+
+Indirect Nerf
+: increased the duration of the 
+Haste
+ and 
+Endurance
+ benefits from being uncaged from 
+10 seconds
+ to 
+15 seconds
+.
+
+This change coincides with the same changes made for unhooking Survivors in the same update.
+Patch 10.1.0
+
+Indirect Buff
+: decreased the duration of the 
+Haste
+ and 
+Endurance
+ benefits from being uncaged from 
+15 seconds
+ to 
+10 seconds
+.
+
+Indirect Nerf
+: uncaged Survivors now also benefit from the 
+Elusive
+ 
+Status Effect
+.
+
+These changes once again coincide with the same changes made for unhooking Survivors in the same update.
+
+Trivia
+
+General
+
+The Executioner
+ was the thirteenth licensed Character to be introduced and the first video game licensed killer.
+
+The Executioner
+ was the second non-human Killer featured in 
+Dead by Daylight
+, being a physical manifestation of 
+James Sunderland
+'s guilt.
+
+The Executioner
+ was the fifth Killer to have a special chase music.
+
+The Executioner
+ is the first Killer to receive a Power that affects a Survivor's Sacrifice Process.
+
+Cages of Atonement
+ are internally referred to as 
+"Deathbeds"
+.
+
+The Executioner
+ is the tallest Killer in the game based on absolute model-height.
+
+The Executioner
+ possesses an unused model of a tongue in the Game Files.
+
+The Executioner's
+ tongue originally appears in 
+Silent Hill 2
+, when he grabs 
+James Sunderland
+ by the throat in a boss fight.
+
+The Executioner's
+ creator, 
+Masahiro Ito
+, explained that it "[s]trictly speaking [is] something like a tongue.
+[He] used [the] word tongue for [the sake of] convenience.
+There is no way the helmet is his actual head.
+Also, the bottom left of the front plate of Pyramid Head's helmet is turned up."
+[
+1
+]
+
+Unlike all other Killers and due to the size of his head, 
+The Executioner
+ does not have any animations for looking upwards or down at the ground. Instead, the position of his left hand shows whether he is looking up or down.
+
+The Executioner
+ alongside The 
+Dark Lord
+ is the fourth licensed killer to join 
+2v8
+, with its fifth iteration being based on both the 
+Silent Hill
+ and 
+Castlevania
+ chapters.
+
+Differences from the Video Games
+
+The Executioner
+ has a lot of differences with his first appearence in 
+Silent Hill 2
+ and its remake.
+
+Pyramid Head's
+ gloves are conjoined in the original while in DBD they are separated.
+
+Pyramid Head
+ is taller and muscular compared to the original.
+
+Pyramid Head
+ is missing his bag under his helmet.
+
+This bag is present in his 
+Flayed Torturer
+ cosmetic.
+
+Cosmetics
+
+The Corrupted
+ is inspired by his appearences in the 
+Silent Hill
+ movies and 
+Silent Hill: Homecoming
+.
+
+Hornet Punishment
+ features reference the creepers from 
+Silent Hill 1
+ and 
+Silent Hill 2
+.
+
+Flayed Torturer
+ has the bag that 
+Pyramid Head
+ has under his head which is missing in his 
+Default Outfit
+. 
+
+It is also potentially a reference to the  first 
+Silent Hill
+ movie where 
+Pyramid Head
+ flays 
+Anna
+.
+
+Memento Mori
+
+The Executioner
+ was the first Killer introduced with a "Mini-Mori" ability and is one of the few Killers with a base-kit ability to kill Survivors using his Power.
+
+While technically the third Killer to have multiple Memento Mori animations, he was the first to feature two entirely distinct Moris:
+
+His default Mori features him lifting the Survivor with his left hand, wrapping them in barbed wire and twisted steel, and finally piercing them with his 
+Great Knife
+.
+
+His 
+Final Judgement
+ features him cleaving the Survivor in half lengthwise with an overhead swing of his 
+Great Knife
+.
+
+His default Mori appears to be partially inspired by a kill animation from a boss fight in 
+Silent Hill 2
+, where he grabs 
+James Sunderland
+ by the throat.
+
+Voice Actor
+
+The Executioner
+ is voiced by Jean-Baptiste Garnier, who at that time worked as the Senior Sound Designer on the Game.
+
+The Executioner
+ shares his voice-actor with The 
+Oni
+, The 
+Twins
+ (
+Victor
+), and partially with The 
+Blight
+.
+
+Gallery
+
+In-game Assets
+
+The Executioner
+
+The Executioner (Portrait render)
+
+The Executioner (Background image)
+
+Official Art
+
+Edited lighting
+
+Outfits
+
+Flayed Torturer Outfit
+
+Models
+
+Side view of the tongue
+
+3/4 view of the tongue
+
+Close-up of the tongue
+
+Others
+
+Pyramid Head as he appears in 
+Silent Hill 2
+, with tongue
+
+References
+
+↑
+ 
+https://www.twitter.com/adsk4/status/1101325009492963328
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

@@ -1,0 +1,897 @@
+# 9.2.0 | PTB Patch Notes - BHVR
+Source: https://forums.bhvr.com/dead-by-daylight/kb/articles/522 (consulté le 28/09/2026)
+
+Important
+New PTB Flow
+Starting with the 9.2.0 PTB, we are changing the way users connect to the PTB, simplifying the process we use to port saves over to test builds:
+All characters you have unlocked via Steam will be unlocked on the PTB, including any new character(s) introduced in this update.
+If DLC content has been unlocked via a platform other than Steam (including the in-game Store), this will not be automatically unlocked in the PTB. This content can be unlocked with the provided Auric Cells.
+When accessing a character's Bloodweb, the character will be automatically set to Level 50 and Prestige 3, unlocking their perks to Tier 3, as well as any items that would regularly be obtained during this process.
+All offerings, items, and add-ons will be pre-loaded with 99 units available.
+12,500 Auric Cells and 1 million Bloodpoints will be given on each new PTB version, available to explore Outfits and Characters in the Store.
+New Content
+New Killer - The Krasue
+KILLER POWER: UNBODIED FLESH
+The Krasue detaches from its body, emerging as a floating head with a trail of organs drifting behind it.
+SPECIAL ABILITY: CORPOREAL WEAVE
+Press Ability button 1
+to shift between Body and Head Form.
+Body Form has a 32 meter
+Terror Radius.
+Head Form has a 40 meter Terror Radius. It is slightly faster but cannot break pallets and is not granted the Bloodlust status effect.
+KILLER EFFECT: LEECHED
+Hitting a Survivor with
+Intestinal Whip
+and
+Regurgitate
+adds to their Leech Meter.
+When the meter is filled, the Survivor is afflicted with Leeched I.
+Leeched I: The Leech Meter automatically fills over time, up to Leeched II.
+Leeched II: The Survivor is afflicted with Broken. If healthy, they become injured.
+SPECIAL ABILITY: INTESTINAL WHIP
+In Head Form, press the Attack button to lash out with your internal organs.
+Survivors afflicted with Leeched
+can be damaged by Intestinal Whip.
+Intestinal Whip partially fills a Survivor’s Leech Meter, up to Leech I.
+SPECIAL ABILITY: REGURGITATE
+In Body Form, press and hold the Power button to charge Regurgitate. When charged, tap the Attack button to spew a Leeching Gland.
+Leeching Gland completely fills a Survivor’s Leech Meter, up to Leech I.
+SPECIAL ABILITY: HEADLONG FLIGHT
+In Head Form, press and hold the Power button to speed through the air.
+SPECIAL ITEM: GLOWING FUNGUS
+Survivors can eat Glowing Fungus
+to decrease the Leech Meter over time. Being hit ends the effect.
+NEW KILLER PERKS:
+Ravenous
+Whenever you hook a Survivor for the first time, gain
+1 token
+, up to 4.
+When you have
+4 tokens
+, all Survivors scream and gain Exposed for
+40/50/60 seconds
+.
+Wandering Eye
+Whenever you start chasing a Survivor, reveal the auras of all other injured Survivors within
+16/16/16 meters
+for
+5/5/5 seconds
+.
+This perk has a
+40/35/30-second
+cooldown.
+Hex: Overture of Doom
+Spawns a Hex Totem that curses the farthest generator and reveals its aura to you in yellow.
+When a Survivor repairs the cursed generator for
+5/5/5 seconds
+, you gain
+Undetectable
+and your Terror Radius is applied to the generator for
+20/25/30 seconds
+.
+When the cursed generator is repaired, the next farthest generator is cursed.
+New Survivor - Vee Boonyasak
+NEW SURVIVOR PERKS:
+Road Life
+While injured, not Broken and repairing a generator, gain
+1/1/1 token
+for each regular great skill check success.
+When you have
+8/7/6 tokens
+, spend all tokens and gain
+100%/100%/100%
+healing speed until you stop healing.
+Lose
+2/2/2 tokens
+when you fail a regular skill check.
+ONE-TWO-THREE-FOUR!
+Press Ability button 2 while standing and idle to enter the "performance" interaction that lasts up to
+15/15/15 seconds
+and empowers Survivors within
+16/16/16 meters
+. You will get continuous skill checks during the performance. The effect lasts for
+90/90/90 seconds
+if the performance is completed.
+Increases the odds of getting healing and repair skill checks by
+20/20/20%
+.
+When the ability is cancelled or the performance completes, it goes on cooldown for
+110/100/90 seconds
+.
+Ghost Notes
+While you have
+Exhausted
+, your scratch marks disappear
+50/50/50%
+faster.
+You recover
+5/7.5/10%
+faster from
+Exhausted
+.
+Features
+Tunneling Reduction Update
+Added Custom Match options to enable/disable this feature.
+Unhook Protections Update
+Survivors that are unhooked or unhook themselves receive Unhook Protections for
+30 seconds
+, which include:
+10% Haste
+status effect
+Endurance
+status effect
+Elusive
+status effect (new status effect that hides grunts of pain, aura, scratch marks, and pools of blood)
+No collision with other players
+Reveal the Killer's aura within
+32 meters
+Immunity to Killer Instinct
+Immunity to AFK crows
+These effects linger for
+3 seconds
+after being healed for a full health state.
+These effects are lost when performing a Conspicuous Action.
+These effects are disabled when all generators are completed, except for the
+Haste
+and
+Endurance
+status effects.
+The Survivor is still susceptible to attacks and powers.
+Hook Status Update
+When a Survivor is hooked, the hook's status is obscured for the Killer:
+The Killer cannot see the hook's status in the HUD
+The Killer can no longer see the hook's aura
+When a Survivor is unhooked:
+There is no loud noise notification
+The hook's status in the HUD is revealed
+10 seconds
+later
+These effects are disabled when all generators are completed.
+Unique Hook Bonuses
+When hooking a Survivor that is different than the last hooked Survivor, the Killer gains the following effects:
+20%
+bonus to the next damage generator action ("kicking" the generator)
+10% Haste
+for
+15 seconds
+Breaking a pallet or damaging a Survivor removes this bonus
+Reveal all Survivors outside of
+40 meters
+that have less than or equal hook states for
+4 seconds
+(
+think: basekit Barbecue & Chili
+)
+These effects can only be gained when the Killer performs the hook interaction themselves.
+The following Killers have a different set of bonuses:
+The Blight, The Dark Lord, The Ghoul, The Hillbilly, The Krasue, and The Nurse
+They get:
+10%
+bonus to the next damage generator action
+5% Haste
+for
+10 seconds
+The same aura reveal bonus as above
+These effects are disabled when all generators are completed.
+Tunneling Penalties
+When a Survivor dies to a hook action or Mori before 6 total hook states, the remaining Survivors gain a
+25%
+repair speed bonus.
+When a Survivor that was previously hooked is Killed or Sacrificed, the Killer loses the ability to block, damage, or regress generators by any means.
+Perks
+The following perks have been updated. See the Perk Updates sections below for more details:
+Killer:
+Barbecue & Chili, Eruption, Pop Goes the Weasel, Scourge Hook: Pain Resonance
+Survivor:
+Babysitter, Borrowed Time, Off the Record
+Slugging Reduction Update
+Self-Recovery
+While in the Dying State, the Resolve bar appears below the Recovery bar.
+The Resolve bar takes
+90 seconds
+to fill. Progress does not reset between downs.
+Once the Resolve bar is full, the Survivor gains the ability to pick themselves up from the Dying State after fully recovering.
+Added a custom game setting to disable full recovery.
+Note: Perks can allow a Survivor to pick themselves up before the Resolve bar has been filled, so long as their conditions are met.
+Quality of Life Improvements
+Survivors can now crawl and recover at the same time.
+Recovery is now automatic and no longer requires a button to be held.
+When full self-recovery is available, tap the Interact button to pick yourself up.
+Crawling speed increases over time when left in the Dying State, from
+0.7m/s
+to
+1.05m/s
+.
+Added a new scenario to the Abandon option: After recovering or being healed from the Dying State twice, the option to Abandon becomes available the next time you are downed.
+Perks
+The following perks have been updated. See the Perk Updates sections below for more details:
+Survivor:
+Tenacity, No Mither, Plot Twist
+Killer:
+Deerstalker, A Nurse's Calling
+Pallet Density Quality of Life Update
+Updated various Realms to adjust the quantity and distribution of pallets, reducing the presence of "dead zones".
+Affected Realms: The MacMillan Estate, Autohaven Wreckers, Coldwind Farm, Crotus Prenn Asylum, Haddonfield, Backwater Swamp, Red Forest, Yamaoka Estate, Ormond, The Decimated Borgo
+Content Updates
+Killer Rework - The Shape
+Summary
+The Shape now has three modes: Stalker, Pursuer, and Evil Incarnate.
+The Shape can swap between Stalker & Pursuer modes without needing to Stalk.
+The Shape must Stalk Survivors to unlock Evil Incarnate mode.
+While Evil Incarnate mode is active, The Shape has a new special attack: Slaughtering Strike.
+Updated most Add-Ons.
+Stalker Mode
+(Previously Evil Within I)
+The Shape is
+Undetectable
+and moves at
+4.2m/s
+.
+Hold the Power button to Stalk nearby Survivors.
+When the Stalk meter is full, automatically enter Pursuer Mode. Stalker Mode becomes unavailable.
+Note: No longer decreases lunge range.
+Pursuer Mode
+(Previously Evil Within II)
+The Shape has a
+24m
+Terror Radius and moves at
+4.6m/s
+.
+Vault speed is increased by
+15%
+.
+Lunge range, breaking speed, and stun recovery speeds are increased by
+10%
+.
+Evil Incarnate Mode
+(Previously Evil Within III)
+When the Stalk meter is full, tap the Ability button to activate Evil Incarnate Mode.
+Evil Incarnate mode lasts
+40 seconds
+.
+The Shape has a
+40m
+Terror Radius and moves at
+4.6m/s
+.
+Vault speed is increased by
+15%
+.
+Unlocks a new special attack:
+Slaughtering Strike
+.
+Unlocks the ability to kill Survivors who have reached the final hook stage.
+This cannot be used on Survivors with Endurance.
+Note: Survivors are no longer Exposed.
+Note: No longer increases lunge range.
+Special Attack: Slaughtering Strike
+Hold the Power button to charge a lunge, then press the Attack button to begin the attack.
+Holding the Power button longer extends the lunge's duration up to a maximum of
+2 seconds
+.
+Slaughtering Strike has a base speed of
+6.9m/s
+.
+Hits with Slaughtering Strike instantly down healthy Survivors.
+Slaughtering Strike can break pallets and breakable walls.
+Slaughtering Strike has a
+6 second
+cooldown.
+Stalking
+The Stalk meter now takes
+5 points
+to fill (
+was 3 for Tier 1, 6 for Tier 2
+).
+Increased the movement speed multiplier when Stalking a Survivor to
+60%
+(
+was 20%
+).
+Stalk rate is decreased by
+25%
+while moving.
+When the Stalk meter is not full, after
+20 seconds
+of not Stalking, Stalk progress decays to
+50%
+.
+Decreased the maximum Stalking range to
+32m
+(
+was 40m
+).
+Note: Survivors no longer have a limited amount of Stalk points.
+Note: Stalk rate is no longer affected by distance.
+The Shape's Add-Ons
+Tacky Earrings:
+Increases movement speed while Stalking by
+20%
+(was 10%)
+.
+Memorial Flower
+(Rework)
+:
+Increases movement speed in Stalker Mode to
+4.4m/s
+.
+Boyfriend's Memo
+(Rework)
+:
+Increases maximum Stalk range by
+8 meters
+.
+Blond Hair
+(Rework)
+:
+Scratch marks and pools of blood last
+100%
+longer while in Stalker Mode.
+Reflective Fragment
+(Rework)
+:
+Slaughtering Strike only deals a single health state of damage. Hitting a Survivor with Slaughtering Strike adds
+20 seconds
+to Evil Incarnate's duration.
+Jewelry
+(Rework)
+:
+Increases Stalk rate when Stalking stationary Survivors by
+10%
+.
+Hair Brush
+(Rework)
+:
+When Evil Incarnate is activated, the next pallet you break is destroyed
+50%
+faster.
+Glass Fragment
+(Rework)
+:
+Increases the movement speed of Slaughtering Strike by
+5%
+. Decreases the charge speed of Slaughtering Strike by
+25%
+.
+Dead Rabbit:
+Decreases Terror Radius in Pursuer Mode by
+25%
+. Increases Terror Radius in Evil Incarnate by
+25%
+.
+Mirror Shard
+(Rework)
+:
+Increases the base duration of Slaughtering Strike by
+0.25 seconds
+. Decreases the charge speed of Slaughtering Strike by
+25%
+.
+Jewelry Box
+(Rework)
+:
+Decreases Stalk range by
+16 meters
+. Increases Stalk rate by
+30%
+.
+J. Myers Memorial
+(Rework)
+:
+While Evil Incarnate is active, your pickup and hook speeds are increased by
+40%
+.
+Hair Bow:
+Increases the duration of Evil Incarnate by
+20 seconds
+(
+was 30
+). Decreases Stalk rate by
+20%
+.
+Vanity Mirror
+(Rework)
+:
+When Evil Incarnate ends, you see the auras of all Survivors for
+4 seconds
+.
+Tombstone Piece
+(Rework)
+:
+When Evil Incarnate is activated, you become
+Undetectable
+for
+20 seconds
+.
+Lock of Hair
+(Rework)
+:
+While Evil Incarnate is active, hold the Ability button to end it prematurely and retain
+50%
+of the remaining duration as Stalk progress.
+Judith's Tombstone
+(Rework)
+:
+Hooking a Survivor during Evil Incarnate refreshes its duration. Limits the duration of Evil Incarnate to
+40 seconds
+.
+Fragrant Tuft of Hair
+(Rework)
+:
+Survivors become
+Exposed
+while Evil Incarnate is active. Your lunge range is increased by
+50%
+while in Evil Incarnate mode. You can no longer use Slaughtering Strike.
+Killer Updates
+The Unknown
+Increased
+Weakened
+duration increase upon injuring a healthy Survivor with UVX projectile to
+8 seconds
+(was 6 seconds)
+.
+Reduced movement speed recovery time after teleporting to
+1.3 seconds
+(
+was 1.4 seconds
+).
+Increased The Unknown's vertical camera axis to allow higher aim elevation with the UVX Projectile.
+The Unknown's Add-Ons
+Rabbit's Foot:
+Afflicts the
+Hemorrhage
+status effect to Survivors injured by UVX for
+45 seconds
+(
+was 30 seconds
+).
+Blurry Photo:
+After Teleporting, regain full movement speed
+7%
+faster (
+was 15%
+).
+Last Known Recording:
+Reduces the Hallucinations’ aura range visible to Survivors by
+35%
+(
+was 25%
+).
+Slashed Backpack:
+Destroying a Hallucination with UVX decreases the time until the next Hallucination spawns by
+65%
+(
+was 75%
+). The extra time should allow for more precise placement.
+Vanishing Box:
+Increases Hallucination spawn time by
+120%
+(
+was 80%
+).
+Hypnotist’s Watch:
+Inflicts the
+Exhausted
+status effect for
+15 seconds
+(
+was 10 seconds
+).
+Serum Vial:
+Inflicts the
+Exhausted
+status effect for
+15 seconds
+(
+was 10 seconds
+).
+The Dark Lord
+Vampire Form:
+Reduced the cooldown of Hellfire to
+9.5 seconds
+(was 10 seconds)
+.
+Increased the number of Hellfire pillars to
+8
+(was 7)
+.
+Reduced Hellfire charge movement speed to
+3.68m/s
+(was 3.8m/s)
+.
+Increased movement speed recovery time after activating Hellfire to
+2.35 seconds
+(was 2.25 seconds)
+.
+Wolf Form:
+Increased Pounce Attack charge time to
+0.9 seconds
+(was 0.85 seconds)
+.
+Increased Scent Orb spawn time to
+6 seconds
+(was 5 seconds)
+.
+Bat Form:
+Increased Bat Form flying movement friction to reduce sliding motion to
+2.2
+(was 1.6)
+.
+The Dark Lord's Add-Ons
+Ruby Circlet:
+Reduces the cooldown of Hellfire by
+5%
+(
+was 10%
+).
+Clock Tower Gear:
+Reduces the cooldown of Shapeshift by
+5%
+(
+was 10%
+).
+Traveler's Hat:
+Increases Shapeshift speed by
+5%
+(
+was 10%
+).
+Moonstone Necklace:
+Reduces the size of the Terror Radius in Vampire and Wolf Forms by
+8 meters
+(
+was 4 meters
+).
+Blood-Filled Goblet:
+Increases the duration of Scent Orbs by
+60%
+(
+was 50%
+).
+White Wolf Medallion:
+Increases Killer Instinct duration by
+1 second
+while in Wolf Form after Survivors complete rushed actions (
+was 0.8 seconds
+)
+Killer Doll:
+Increases the cooldown reduction of Pounce Attacks from Scent Orbs by
+30%
+(
+was 50%
+).
+Force of Echo:
+Increases the spawn rate of Scent Orbs by
+10%
+(
+was 17%
+).
+Medusa's Hair:
+Survivors within
+8 meters
+(
+was 12 meters
+) of your teleport destination suffer from an 8%
+Hindered
+status effect for
+2 seconds
+(
+was 3 seconds
+).
+Warg's Fang:
+Reveals the auras of all Survivors whose Scent Orbs you have collected for
+5 seconds
+(
+was 4 seconds
+).
+Lapis Lazuli:
+After teleporting to a window, it is blocked for
+8 seconds
+(
+was 15 seconds
+).
+Ring of Vlad:
+Hellfire pillar reduction downside
+removed
+(
+was reduced by 1 pillar
+).
+The Clown
+Increased the time it takes for Afterpiece Antidote clouds to activate to
+1.6 seconds
+(
+was 1
+).
+Increased the duration of the
+Hindered
+effect after leaving an Afterpiece Tonic cloud to
+1.6 seconds
+(
+was 1
+).
+The Ghoul
+When grabbing a Survivor on the other side of a vault with Kagune Leap, the Survivor is released at the start of the vault instead of the end.
+The Oni
+Increased the number of Blood Orbs that spawn when hooking a Survivor to
+5
+(
+was 2
+).
+Survivor Perk Updates
+Babysitter
+(Rework)
+:
+After unhooking a Survivor, you see the Survivor's aura and the Killer's aura for
+8/10/12 seconds
+.
+Borrowed Time:
+Survivors you unhook retain their Unhook Protections for an additional
+8/10/12 seconds
+.
+Clairvoyance:
+Increased aura reading duration to
+10/11/12 seconds
+(
+was 8/9/10 seconds
+)
+.
+Friendly Competition:
+Increased the bonus repair progress speed duration to
+100/110/120
+seconds
+(
+was 45/60/75 seconds
+)
+.
+Hope:
+Decreased the
+Haste
+status effect gained when the Exit Gates are powered to
+3/4/5%
+(was
+5/6/7%
+)
+.
+No Mither:
+Increased the volume reduction for grunts of pain to
+100%
+across all tiers (
+was 25/50/75%
+)
+.
+Off the Record:
+Removed the
+Endurance
+status effect.
+Removed the stipulation that it disables once Exit Gates are powered.
+Added a new effect: While active, you do not leave scratch marks while sprinting.
+Leader:
+Increased action speed bonus value to
+20/25/30%
+(
+was 15/20/25%
+).
+Increased action speed bonus range to
+10 meters
+(
+was 8 meters
+).
+Updated perk description to simplify linger effect.
+Lucky Star:
+Decreased cooldown to
+35/30/25
+seconds
+(
+was 40/35/30 seconds
+).
+Pharmacy:
+Unlocking chests is
+75/100/125%
+faster
+(was 70/85/100%).
+The hearing distance for noises from unlocking chests is reduced by
+12 meters
+(was 16 meters).
+Guarantees an Emergency Med-Kit upon completing the interaction.
+Plot Twist:
+Added a new effect: Increases recovery speed by
+25%
+when used.
+Poised:
+Increased Killer aura reveal duration when repairing a generator for the first time to
+8 seconds
+(
+was 6 seconds
+).
+Increased time where you leave no scratch marks after a generator is completed to
+20/25/30 seconds
+(
+was 10/12/14 seconds
+).
+Quick Gambit:
+Decreased the cooldown when losing a health state to
+40 seconds
+(
+was 60 seconds
+).
+Tenacity:
+Added a new effect: Prevents your aura from being read while in the Dying State.
+Decreased crawling speed bonus to
+15/20/25%
+(
+was 30/40/50%
+).
+Vigil:
+Survivors can now only benefit from one Vigil perk's effect at a time (
+previously stacked with other versions of itself
+).
+Killer Perk Updates
+All-Shaking Thunder:
+Increased lunge attack distance increase duration to
+15/20/25 seconds
+(
+was 8/12/16 seconds
+).
+A Nurse's Calling:
+Increased range to
+28/30/32m
+(
+was 20/24/28
+). No longer affects Survivors who are in the Dying State.
+Barbecue and Chili
+(Rework):
+After hooking all Survivors once, increase the base generator damage by
+3/4/5%.
+Dark Arrogance
+:
+Decreased the blind and pallet stun duration increase to
+15%
+(
+was 25%
+).
+Dead Man's Switch:
+Decreased generator blocking duration to
+25/30/35 seconds
+(was 40/45/50 seconds).
+Deerstalker
+(Rework)
+:
+When a Survivor sees your aura, you see their aura. Every
+40/35/30 seconds
+, reveal your aura to the Survivor with the lowest chase time for
+3 seconds
+.
+Eruption:
+Decreased generator progress loss to
+5/5/5%
+(was 10/10/10%).
+Hex: Ruin:
+Increased the generator regression to
+100/125/150%
+(was 50/75/100%).
+Leverage:
+Decreased healing speed reduction value to
+20/25/30%
+(was 30/40/50%).
+Increased healing speed reduction duration to
+60 seconds
+(was 30 seconds).
+Monitor and Abuse:
+While in a chase, your terror radius is now increased by
+5/10/15%
+(
+was 6/7/8 meters
+).
+Otherwise, your terror radius is now decreased by
+15/20/25%
+(
+was 6/7/8 meters
+).
+Pop Goes the Weasel:
+Decreased generator progress loss to
+15/15/15%
+(was 20/20/20%).
+Oppression:
+Increased random generator selection to
+4
+(
+was 3
+).
+Decreased cooldown to
+45/40/35 seconds
+(
+was 60/50/40 seconds
+).
+Scourge Hook: Pain Resonance:
+Decreased generator progress loss to
+8/10/12%
+(was 10/15/20%).
+Septic Touch:
+Increased the linger duration of the
+Blindness
+and
+Exhausted
+status effects to
+20/25/30 seconds
+(
+was 6/8/10 seconds
+).
+Ultimate Weapon:
+Increased range when opening a locker to
+40 meters
+(
+was 32 meters
+).
+Reduced cooldown to
+55/50/45 seconds
+(
+was 80/70/60 seconds
+).
+Bug Fixes
+Audio
+Fixed an issue where the Pharmacy perk would remove chest SFX.
+Fixed an issue where The Dark Lord's Wolf Form would be silent.
+Fixed an issue where The Twins' chase music was missing for survivors when chased by Victor.
+Fixed an issue where The Twins' chase music would not stop when switching from Victor to Charlotte in a chase.
+Fixed an issue where The Good Guy's Trial win voiceover would trigger every time a Survivor died.
+Fixed an issue where the "Geralt of Rivia" outfit voiceover at the start of a Trial would not trigger when playing against The Animatronic.
+Fixed an issue where Rick and Michonne Grimes' voiceover at the start of a Trial would not trigger when playing against The Animatronic.
+Fixed an issue where The Houndmaster's stunned voiceover would not play.
+Bots Improvements
+Fixed an issue where bots were unable to move when a player disconnected in specific locations.
+Fixed multiple issues where bots would vault at undesired times.
+Survivor bots will now crawl toward pallets instead of toward other Survivors.
+Characters
+Fixed an issue where certain VFX wouldn't play when switching between cosmetics.
+Fixed an issue where The Trapper's "Iridescent Stone" add-on would not arm the last trap.
+Fixed an issue where generators would not be highlighted white for The Knight when ordering a guard to break them.
+Fixed an issue where certain Killer power icons would not become transparent during cooldown.
+Fixed an issue where dying Survivors would be missing animations and movement from other players' perspectives after being discovered by The Knight's Carnifex.
+Fixed an issue where status effects belonging to The Twins' Charlotte would be displayed while controlling Victor.
+Fixed an issue where The Knight's Guard would not de-spawn when a Survivor picked up the Standard.
+Fixed an issue where certain Nightfall VFX would not display from the Spectator POV when watching The Dredge.
+Fixed an issue where The Nemesis' Tentacle Strike could hit Survivors crouching behind windows.
+Fixed an issue where The Knight's Guards would struggle to navigate between tables and chairs in the Freddy Fazbear's Pizza map.
+Fixed an issue where The Hillbilly could completely turn around when breaking a door while using the LoPro Chains add-on.
+Fixed an issue where The Animatronic would slide toward the hook from another Survivor's perspective when hooking a Survivor.
+Fixed an issue where The Knight's Jailer would have a delay before beginning to chase a Survivor.
+Fixed an issue where The Animatronic's Fire Axe would disappear from a Survivor upon entering and leaving a locker.
+Fixed an issue where Security Doors would not be highlighted in yellow if The Animatronic entered one while a Survivor was teleporting.
+Fixed an issue where The Lich would display unselected spells after quickly choosing several.
+Fixed an issue where smoke color would display incorrectly in the Spectator's HUD when watching The Clown.
+Fixed an issue where The Lich's Dispelling Sphere could become stuck on his model.
+Fixed an issue where The Knight's Guards would take a longer-than-intended path when a Survivor vaulted.
+Fixed an issue where Broken Keys obtained from The Lich's Treasure Chests would not work.
+Fixed an issue where The Executioner's Punishment of the Damned trail VFX would appear off-centered.
+Fixed an issue where Survivors afflicted with The Animatronic's Fire Axe could not unhook other Survivors.
+Environment/Maps
+Fixed an issue in the Badham Preschool map where players could not drop through a hole.
+Fixed an issue in The Underground Complex map where invisible collisions blocked the navigation of players.
+Perks
+Fixed an issue where Knock Out would remain inactive after dropping a Fragile Pallet.
+Fixed an issue where the first wiggle skill check after being grabbed off a generator by a Killer with Unnerving Presence would be smaller than intended.
+Fixed an issue where Finesse would not go on cooldown if a vaulted pallet was destroyed by a Killer's power.
+Fixed an issue where Survivor auras were not revealed to the Killer when Blood Warden was equipped.
+Fixed an issue where leaving a locker with Head On could be blocked by another Survivor.
+Fixed an issue where players could get stuck when using Plot Twist at the same time they were grabbed by The Animatronic.
+Platforms
+Fixed an issue where input settings were incorrectly applied to newly created accounts.
+UI
+Fixed an issue where the "Lisa Garland" outfit was missing an earring in her in-game portrait.
+Fixed an issue where the fire wings would not show up on The Wraith's "Phantom of Vengeance" outfit in the Store icons.
+Fixed an issue where quest tooltips would still show their prerequisite quest needs despite being already unlocked.
+Fixed an issue where declining a party join request would not send a confirmation popup to the requesting player.
+Fixed an issue where the virtual keyboard would not load when adding a friend on Xbox touch interfaces.
+Fixed an issue where the matchmaking popup would display the wrong text.
+Improved animated smoke shader on tooltips.
+Miscellaneous
+Fixed an issue where the game could softlock on the Tally Screen.
+Fixed an issue where spamming the ready button could result in a connection error message.
+Fixed an issue where the Fragile Pallet animation would not transition from the downed to upright position.
+Fixed an issue where certain Survivors would not play voiceover related to crows when surrounded by AFK crows.
+Fixed an issue where Fog Vial VFX would display incorrectly when falling after use.
+Fixed an issue where some users could not unlock the Lost All Hope achievement.
+Known Issues
+Whilst in third person head view with The Krasue, the camera can clip into the environment, leading to some uncomfortable camera movements or partial obscuring of the view.
+Tunneling reduction penalties trigger when Survivors go from the struggle hook phase to Sacrifice. These should only trigger when a hook interaction is performed to Sacrifice a Survivor.

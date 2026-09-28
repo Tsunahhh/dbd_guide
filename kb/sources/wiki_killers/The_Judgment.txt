@@ -1,0 +1,3473 @@
+# The Judgment
+Source: https://deadbydaylight.wiki.gg/wiki/The_Judgment (page complète via API, consultée le 27/09/2026)
+
+The Judgment
+
+Gender
+
+None
+
+Origin
+
+Celestial
+
+Power
+
+Will of the Gods
+
+Power 
+Attack
+ Type
+
+Special Attack
+
+(Divine Light)
+
+Weapon
+
+Staff of Absolution
+
+Movement Speed
+
+110 % 
+|
+ 4.4 m/s
+
+Terror Radius
+
+32 metres
+
+Height 
+
+Tall
+
+DLC
+
+Chorus of Sin
+
+Voice Actor
+
+Elsie Lovelock (Voice Actress)
+
+Cost
+
+9,000 
+Iridescent Shards
+
+500 
+Auric Cells
+
+Menu Music
+
+Terror Radius Music
+
+Metadata
+
+CharID
+
+K44
+
+The Judgment
+ is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+It was introduced as the Killer of 
+Chorus of Sin
+, a Chapter 
+DLC
+ released on August 25 2026.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon
+
+3.3
+ 
+Power: Will of the Gods
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for Will of the Gods
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Base Cosmetics
+
+5.1.1
+ 
+Default
+
+5.1.2
+ 
+Prestige
+
+5.1.2.1
+ 
+Perk Charms
+
+5.1.2.2
+ 
+Prestige Badges
+
+5.2
+ 
+Alternatives
+
+5.3
+ 
+In-Game Store
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+Voice Lines
+
+8.2
+ 
+General
+
+8.3
+ 
+Memento Mori
+
+8.4
+ 
+Development
+
+9
+ 
+Gallery
+
+9.1
+ 
+In-game Assets
+
+9.2
+ 
+Official Art
+
+9.3
+ 
+Outfits
+
+9.4
+ 
+Concept Art
+
+10
+ 
+Alternative/Unused Designs & Concept Art
+
+11
+ 
+References
+
+Overview
+
+A member of the Celestial Echelon, The Judgment metes out divine punishment throughout the cosmos. When the people of Terra Primus aspired to godhood, The Judgment answered their sins with fiery retribution, razing their cities to the ground with pillars of divine light. So began a decades-long apocalypse that turned their paradise into a wasteland.
+
+The Judgment
+ enforces the will of The Creators with its divine light.
+
+Its personal perks, 
+Celestial Witness
+, 
+Hex: Under Your Thumb
+ and 
+Lay Waste
+, allow it to track the 
+Obsession
+, limit and surveil Survivors with 
+Haste
+, and increase 
+Generator
+ regression.
+
+Lore
+
+Recovered Fragments from the Arbiters’ Book of Letters:
+“Would you be counted among the heretics cleansed from this world? Or do you aspire to prove yourself to Judgment time and again, as we have proved ourselves? Then heed well these words, for their collective wisdom have saved us and, we pray, will save us still each time It returns.” 
+(I Barbarians, ch. 3)
+“Some of you ask, ‘What was life before Judgment?’ Those old enough to remember dare not tell, but know that the world called Terra Primus was rife with sin and heresy. The faithless built great and terrible monuments to themselves, cities reaching into the sky, ships that pierced the heavens, and unholy machines that reached across worlds. The rulers of Terra Primus elevated themselves as gods, and in their wisdom, the Celestials sent Judgment so that we may see the error of our ways and suffer for it.” 
+(Truths Revealed, ch. 5)
+“Do not seek to return to the old ways, for the towers and technologies of Terra Primus were heresy.” 
+(Laws from Beyond, ch. 15)
+“Remember the settlement of Dend. Remember Lucia the Mother, who offered up her babe to Judgment and declared “great Celestial, bear witness to my devotion!” and plunged the knife into her only child. Judgment brought its light upon the people of Dend regardless, as punishment for sacrificing the innocent.” 
+(I Barbarians, ch. 11)
+“Build only that which allows you to live. Sow only that which is needed to eat. To do more than this is heresy and must be punished.” 
+(Laws from Beyond, ch. 1)
+“Remember that even the one who built the first shrine to Judgment was burned in Its light. Of all in the encampment, the only one spared was Koenrad the Pious, who pierced his hands upon the shrine.” 
+(I Barbarians, ch. 12)
+“To worship is to suffer. Do not forget your worship but refrain from overindulging. The extent to which you must suffer is for you to discover. Anything more or less is heresy and must be punished.” 
+(Laws from Beyond, ch. 2)
+“Some of you ask of the Celestials, saying ‘What is their nature? What is the order of their echelon?’ Know that their nature is unknowable, that their order is the ultimate order. Know that Judgment is the favorite of the echelon, that It represents all that is right and just across all time and all worlds.” 
+(Truths Revealed, ch. 2)
+“Do not seek answers outside of Judgment, for any deviation from the will of the Gods is heresy and must be punished.” 
+(Laws from Beyond, ch. 5)
+“Remember Gerhardt the Blind, who tore out his own eyes as testament to the trust he placed in Judgment. Gerhardt proved himself worthy and his death from old age was a gift from Judgment. But remember also those who followed in his example and tore out their own eyes. They were burned in Judgment’s light, as punishment for their bare-faced imitation.” 
+(II Barbarians, ch. 7)
+“Fear is faith. Fear is love for Judgment. To live a life without fear is heresy, and must be punished.” 
+(Laws from Beyond, ch. 5)
+“Some of you ask, ‘Why does Stardotter the Deceiver prosper? She builds beyond what is needed and stores food and wealth. She does not worship, she seeks answers in the stars. Why do her repeated heresies go unpunished while we starve and strive to see our siblings, spouses, and children burn in Judgment’s light?’ Know that Stardotter the Deceiver lives so that we may punish her, and all who follow her. This is the greatest test of our worthiness, and Judgment permits us to live so that we may triumph over her.” 
+(Truths Revealed, ch. 3)
+“Look to your neighbors, and see that they are righteous in word and action. Granting mercy to heretics is itself heresy, and must be punished.” 
+(Laws from Beyond, ch. 8)
+“Remember Ragnar the Traitor. Once a proud hunter of heretics, she abandoned The Arbiters and sought protection under the shadow of Stardotter the Deceiver. Protection she did not find, for when Judgment returned the following year, Ragnar was destroyed in Its light.” 
+(III Barbarians, ch. 6)
+“Turn your ears away from those who followed the Deceiver. Ignore tales of black fog or dark shadows. Punish those who would talk of the Deceiver triumphing over Judgment. Engaging with the enemy’s lies is heresy and must be punished.” 
+(Laws from Beyond, ch. 3)
+“Let these be the last words of The Arbiters. Judgment has not returned in twelve winters, not since It destroyed Stardotter the Deceiver. But even though our God is gone, and the heretics who call themselves Auroran have brought us low, we will never waver in our devotion. Judgment will surely return, and we will be remembered as the ones who remained faithful. It is our grim responsibility, for our children, and for our children’s children, to fight against heresy and create a new world in Judgment’s image.” 
+(Final Testament, ch. 11)
+
+Load-out
+
+Unique Perks
+
+The Judgment
+ comes with 
+3
+ 
+Perks
+ that are unique to it:
+
+ 
+
+Celestial Witness
+
+Every 
+30 seconds
+, if the 
+Obsession
+ is 
+40 metres
+ away from you, you see their aura for 
+2
+/
+2.5
+/
+3
+ 
+seconds
+. Otherwise, the farthest Survivor becomes the 
+Obsession
+.
+
+"And so the heretics huddled, cowardly, in the night; but upon Judgment’s arrival, It saw them all, and punished them." — (Witness to Koenrad, ch. 32)
+
+ 
+
+Hex: Under Your Thumb
+
+When a Survivor gains a Hook State, 
+Hex: Under Your Thumb
+ activates on a random Dull 
+Totem
+:
+
+Running Survivors cannot gain more than 
+25
+/
+20
+/
+15
+ 
+%
+ 
+Haste
+ at once.
+
+Whenever a running Survivor within 
+32 metres
+ gains 
+Haste
+, the Survivor's location is revealed to you for 
+4 seconds
+.
+
+The 
+Hex Effects
+ persist until the 
+Hex Totem
+ is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.
+
+"They will run, but Judgment will make the very ground they tread turn to ash and smoke." — (Visions of Gerhardt, ch. 1)
+
+ 
+
+Lay Waste
+
+Damaging a 
+Generator
+ makes it regress 
++2 %
+ faster for each Charge it has.
+
+This perk has a cool-down of 
+55
+/
+50
+/
+45
+ 
+seconds
+ after damaging a 
+Generator
+.
+
+"They built hypercomputers and skyscrapers and quantum networks, but all of those things trembled and fell under the power of Judgment’s light." — (Witness to Koenrad, ch. 8)
+
+Prestige
+
+Prestiging 
+The Judgment
+ will automatically add 
+Tier I
+ of it's Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Judgment
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon
+
+Staff of Absolution
+ is the Primary Weapon of 
+The Judgment
+.
+"Those who gaze upon its mighty staff and heavenly form cannot help but fall to their knees and worship." (Visions of Gerhadt, ch. 2)
+
+Power: Will of the Gods
+
+SPECIAL ABILITY: DIVINE LIGHT
+Press and hold the 
+Power button
+ to start controlling 
+Divine Light
+. Release the input to stop the interaction.
+While controlling, a column of 
+Divine Light
+ appears infront of the Killer and follows the direction the Killer is facing while rapidly moving away. It does not affect Survivors during this phase.
+If the Killer does not cast while controlling for 
+3 seconds
+, 
+Divine Light
+ goes on cool-down.
+Press the 
+Attack button
+ to cast the controlled column forward.
+After a brief delay, it will deal damage and inflict 
+Heresy
+ to Survivors. Column damage delay and cast duration are improved the longer the Killer has spent controlling the column.
+If the column passes within 
+0.5 metres
+ of a Survivor but does not hit them, they are revealed with 
+Killer Instinct
+.
+
+This can disabled/enabled in the game settings.
+
+Divine Light
+ goes on a 
+6 second
+ cool-down after casting the column forward, cancelling the casting or failing to cast in time.
+SPECIAL AFFLICTION: HERESY
+Survivors afflicted by Heresy are known as Heretics.
+Survivors gain 
+Heresy
+ by getting hit by 
+Divine Light
+ or by taunting 
+The Judgment
+.
+To taunt 
+The Judgment
+, the Survivor has to either:
+
+Crouch or gesture 
+3 times
+ within 
+10 metres
+
+Stand within an Exit Threshold for 
+45 seconds
+.
+
+Heretics
+ suffer from the following effects:
+
+Can be sent to the 
+Exile
+ while in the 
+Dying State
+
+While repairing 
+Generators
+, Good 
+Skill Checks
+ will cause the 
+Generator
+ to regress by 
+-3 %
+
+If 
+Heresy
+ is gained while within 
+32 metres
+ of an 
+Exit Gate
+, it becomes blocked to the 
+Heretic
+ Survivor  for 
+8 seconds
+.
+SPECIAL ABILITY: EXILE
+Heretics
+ who are in the 
+Dying State
+ can be sent to the 
+Exile
+ by pressing the 
+Secondary Power button
+.
+When sending a Survivor to the 
+Exile
+, all 
+Heretics
+ whose 
+Heresy
+ is not being removed are revealed by 
+Killer Instinct
+ for 
+3 seconds
+The 
+Exile
+ acts like a 
+Hook
+, Survivors who are sent to the 
+Exile
+ gain a 
+Hook Stage
+ and lose them at the same rate as being 
+Hooked
+.
+Exile
+ is filled with Hazards - 
+Seeds of Punishment
+. If a Survivor is hit by a hazard, they lose 
+-3 seconds
+ of 
+Hook Stage
+ progress.
+While in 
+Exile
+, Survivors are equipped with 
+Searcher's Pendant
+.
+Survivors can point their 
+Searcher's Pendant
+ to collect nearby 
+Exiled Souls
+. Survivors may collect up to 
+10
+ 
+Exiled Souls
+.
+Each collected 
+Exiled Soul
+ extends the 
+Unhook Protections
+ by 
++0.5 seconds
+ once rescued from the 
+Exile
+. 
+Exiled Souls
+ do not extend Unhook Protections once all 
+Generators
+ have been completed.
+SPECIAL MODE: ZEALOUS
+Zealous
+ is activated for 
+60 seconds
+ after sending a Survivor to the 
+Exile
+.
+While 
+Zealous
+, the 
+Divine Light
+ is enhanced with the following effects:
+
+Size increased by 
++10 %
+
+Cast duration increased by 
++50 %
+.
+
+Cool-down decreased by 
+-20 %
+.
+
+Cast column control is retained for 
+0.6 seconds
+.
+
+SPECIAL OBJECT: SHRINES OF JUDGMENT
+7
+ 
+Shrines of Judgment
+ spawn in the Trial Grounds.
+Heretics
+ are able to interact with a 
+Shrine
+ to start removing their 
+Heresy
+ over a period of 
+30 seconds
+.
+When a Survivor is 
+Exiled
+, the 
+2
+ 
+Shrines
+ closest to 
+The Judgment
+ activate for Survivors.
+Interacting with an active 
+Shrine
+ will rescue Survivors inside the 
+Exile
+.
+SPECIAL INTERACTION: HERETIC KILL
+Heretics
+ who have reached the final 
+Hook Stage
+ can be killed while in the Dying State by pressing the 
+Secondary Power button
+. This also triggers 
+Zealous
+ mode.
+
+Power Trivia
+
+Movement Speeds
+:
+
+Charging 
+Divine Light
+: 
+4 m/s
+
+Controlling 
+Divine Light
+: 
+3.68 m/s
+
+Casting 
+Divine Light
+: 
+1.5 m/s
+
+Failing to cast 
+Divine Light
+: 
+2.0 m/s
+
+Divine Light
+:
+
+Fling delay: 
+0.9 seconds - 0.3 seconds
+
+Duration of the cast column phase of not affecting Survivors
+
+Fling uptime: 
+0.7 seconds - 1 second
+
+Duration of the active column
+
+Controlled speed: 
+7 m/s - 12 m/s
+
+Speed of the column while its being controlled
+
+Fling delay speed: 
+12 m/s
+
+Speed of the cast column that is in the phase of not affecting Survivors
+
+Fling speed: 
+12 m/s - 25 m/s - 35 m/s
+
+Speed of the cast column that is in the phase of attacking Survivors
+
+Obstructed controlled column speed modifier: 
+0.7x
+
+Modifier applied to the controlled column speed while it is being obstructed
+
+Survivor aura reveal range: 
+48 metres
+
+Killer Instinct range: 
+0.5 metres
+
+Divine Light - Hitbox
+:
+
+Radius: 
+0.6 metres
+
+Height: 
+16 metres
+
+Exile - Rescue Interactions
+:
+
+Rescued Survivor aura reveal duration: 
+10 seconds
+
+Killer aura reveal range: 
+32 metres
+
+When rescued from the Exile, the Killer's aura will be revealed within this range
+
+Killer aura reveal duration: 
+10 seconds
+
+Minimum teleport distance from Shrine of Judgment: 
+8 metres
+
+Maximum teleport distance from Shrine of Judgment: 
+16 metres
+
+Exile - Seeds of Punishment (Hazards):
+
+Hook time to remove when hit by a hazard: 
+-3 seconds
+
+Maximum hazard count: 
+10
+
+Hazard radius: 
+0.75 metres
+
+Hazard immunity duration when hit by a Hazard: 
+0.5 seconds
+
+Hazard delay based on the amount of Survivors present in Exile:
+
+1 Survivor: 
+1 second
+
+2 Survivors: 
+0.5 seconds
+
+3 Survivors: 
+0.33 seconds
+
+Hazard delay based on the amount of time the Survivor spent inside the Exile:
+
+>70 seconds: 
+1 second
+
+70+ seconds: 
+0.5 seconds
+
+Hazard active duration: 
+1 second
+
+Minimum distance within hazards: 
+4 metres
+
+Hazards cannot spawn this close to each other
+
+There are 3 hazard spawn types: At the Survivor's current location, Infront of the Survivor, Away from the Survivor 
+
+Chance bonuses are reset back to the base chance if the hazard hits the Survivor
+
+Hazard spawn type - At the Survivor's current location
+
+Base chance to trigger hazard spawn: 
+15 %
+
+Base chance increase to trigger hazard spawn if it misses: 
++5 %
+
+Maximum chance to trigger hazard spawn: 
+50 %
+
+Hazard spawn type - Infront of the Survivor
+
+Minimum distance from the target Survivor: 
+2.5 metres
+
+Maximum distance from the target Survivor: 
+6.5 metres
+
+Base chance to trigger hazard spawn: 
+50 %
+
+Does not have chance bonuses on miss
+
+Hazard spawn type - Away from the Survivor
+
+Minimum distance from the target Survivor: 
+4 metres
+
+Chance to trigger hazard spawn: 
+35 %
+
+Does not have chance bonuses on miss
+
+Exile - Exiled Souls (Crystal) and Searcher's Pendant (Artifact):
+
+Artifact charges: 
+99999
+
+Artifact beam cone angle: 
+10 degrees
+
+Artifact beam detection radius: 
+0.4 metres
+
+Artifact beam cone length: 
+11 metres
+
+Crystal tagged duration: 
+2 seconds
+
+After being tagged by the Artifact, how long it takes for it disappear
+
+Crystal lifetime: 
+10 seconds
+
+Heresy:
+
+Crouch taunt range: 
+10 metres
+
+Gesture taunt range: 
+10 metres
+
+Time needed to stay in Exit Gate area to taunt: 
+45 seconds
+
+Heresy decay time after repenting at a Shrine of Judgment: 
+30 seconds
+
+Killer Instinct duration on Heretics when an another Survivor is sent to the Exile: 
+3 seconds
+
+Exit Gate blocker duration: 
+8 seconds
+
+Exit Gate blocker range: 
+32 metres
+
+Good Generator skill check penalty: 
+-3 %
+
+Unlike pre-rework 
+Hex: Ruin
+'s skill checks, Heresy skill checks don't stop progression for the same time as missing a skill check
+
+Add-ons for Will of the Gods
+
+Icon
+
+Name
+
+Description
+
+Heretic's Mark
+
+"Those who stray from the path shall never escape ostracization once they received the mark." — (III On Heresy, ch. 3)
+
+When a cast 
+Divine Light
+ passes a Survivor within 
+1 metre
+ without hitting them, they are revealed by 
+Killer Instinct
+ for 
+2 seconds
+.
+
+Koenrad's Gauntlet
+
+"When darkness threatened to swallow his flock, he led them towards the light." — (Witness to Koenrad, ch. 1)
+
+Increases the maximum control duration of 
+Divine Light
+ by 
++25 %
+.
+
+Decreases the maximum speed of controlled 
+Divine Light
+ by 
+-10 %
+
+Prayer Kneeler
+
+"Suffer the pain of prayer, for the suffering of unbelievers is far worse." — (II On Heresy, ch. 8)
+
+While controlling an obstructed 
+Divine Light
+:
+
+Decrease its maximum speed by 
+-99 %
+.
+
+Searcher's Skull
+
+"The skulls of the heretics shall be cleaned and displayed as a warning to others who might stray from the light." — (Witness to Koenrad, ch. 33)
+
+When a Survivor blinds you:
+
+The Survivor gains 
+Heresy
+.
+
+If the Survivor is a 
+Heretic
+, they become blinded themselves for 
+2.5 seconds
+.
+
+Aurora's Telereceptor
+
+"None should stare into the abyss with the wretched devices made by the heretics." — (III On Heresy, ch. 12)
+
+Survivors who gain 
+Heresy
+ have their aura revealed for 
+4 seconds
+. They also see your aura for 
+4 seconds
+.
+
+Heretics
+ see your aura for 
++2 seconds
+ longer.
+
+Confessor's War Horn
+
+"The sound of the horn shall strike fear into the hearts of unbelievers and muster the will of the faithful." — (Witness to Koenrad, ch. 33)
+
+Survivors who gain 
+Heresy
+ are inflicted 
+Exhausted
+ 
+Status Effect
+ for 
+10 seconds
+.
+
+Magnetised Manacles
+
+"Those who do not go into hiding will be locked deep underground, far from the guiding light of the stars." — (Visions of Gerhardt, ch. 6)
+
+Gain 
++1 Token
+ when you send a Survivor with the lowest amount of Hook States to the 
+Exile
+, up to 
+5 Tokens
+.
+
+For each token, increase the duration of 
+Zealous
+ when activated by 
++10 %
+
+Mark of the Adherent
+
+"Wear your faith proudly and permanently. Let it be a reminder to others that It is always present." — (II On Heresy, ch. 1)
+
+While not 
+Zealous
+, 
+Divine Light
+'s radius is 
++10 %
+ larger.
+
+Undying Flame
+
+"The village of Dend was repentant in its last moments, but its remnants still burn to this day as a warning." — (II Barbarians, ch. 4)
+
+While 
+Zealous
+:
+
+Increase the duration of the cast 
+Divine Light
+ by 
++200 %
+.
+
+Decrease the radius of 
+Divine Light
+ by 
+-20 %
+.
+
+Increase Survivor 
+Divine Light
+ aura reading range by 
++200 %
+.
+
+Blindfold of the Devoted
+
+"Those who follow Gerhardt's path shall wear blindfolds, to remember the sacrifice he made for his prophecy." — (III On Heresy, ch. 61)
+
+Sending a Survivor to the 
+Exile
+ with the lowest amount of Hook States reveals the auras of all other Survivors with the lowest amount of Hook States outside 
+32 metres
+ for 
+5 seconds
+.
+
+Electric Torch
+
+"The faithful shall go out in great numbers at night, searching for the heretics who hide in the dark." — (Witness to Koenrad, ch. 40)
+
+Increases the maximum speed of the controlled 
+Divine Light
+ by 
++25 %
+.
+
+Increases movement speed while controlling 
+Divine Light
+ by 
++10 %
+.
+
+Holy Winged Icon
+
+"Clutch it to your chest and pray, lest your heart appear untrue to It." — (II On Heresy, ch. 14)
+
+While casting 
+Divine Light
+, press the 
+Secondary Power button
+ to cast it back towards your location.
+
+When cast this way:
+
+Minimum delay before it deals damage and inflicts 
+Heresy
+ is set to 
+0.4 seconds
+.
+
+Increase its maximum speed by 
++10 %
+.
+
+It only damages 
+Heretics
+
+Order of Inquisition
+
+"All those who believe in Its glory are deputized to search for heretics. Trust not even your own neighbor." — (Witness to Koenrad, ch. 16)
+
+When 
+Divine Light
+ is cast, its radius starts 
+-25 %
+ smaller, but grows 
++50 %
+ larger over a period of 
+1 second
+.
+
+Superheated Glass
+
+"The planet of Aleide was unrepentant; after their leader was Exiled, Its Divine Light turned the surface to glass." — (II Barbarians, ch. 12)
+
+Decreases the duration of 
+Zealous
+ by 
+-20 %
+.
+
+While 
+Zealous
+, a cast 
+Divine Light
+ breaks all 
+Breakable Walls
+ and 
+Pallets
+ it passes through.
+
+Breaking an object this way causes Survivors within 
+12 metres
+ to scream and gain 
+Heresy
+.
+
+Chains of the Heretic
+
+"Examples shall be made of the loudest apostates. They shall be dragged through the streets in chains." — (Witness to Koenrad, ch. 41)
+
+While 
+Zealous
+:
+
+Cast 
+Divine Light
+ will always be directed towards you.
+
+Minimum delay before cast 
+Divine Light
+ deals damage and inflicts 
+Heresy
+ is set to 
+0.35 seconds
+.
+
+Increases the maximum speed of controlled 
+Divine Light
+ by 
++100 %
+.
+
+Increases the maximum speed of cast 
+Divine Light
+ by 
++50 %
+.
+
+Crown of the Destroyer
+
+"The Creators saw this and bestowed upon It a crown and said, use this to bring light to the darkness." — (I Barbarians, ch. 6)
+
+When a Survivor is rescued from the 
+Exile
+, for 
+20 seconds
+:
+
+Your 
+Terror Radius
+ is reduced by 
+-70 %
+.
+
+Your 
+Terror Radius
+ is copied to all 
+Shrines of Judgment
+.
+
+Grants the 
+Undetectable
+ 
+Status Effect
+.
+
+Eyes of Gerhardt
+
+"He rapturously tore the eyes from his face after seeing such brilliant visions of the future." — (II Barbarians, ch. 60)
+
+When a 
+Heretic
+ completes a 
+Generator
+, opens an 
+Exit Gate
+ or exits a 
+Locker
+, all 
+Heretics
+ have their aura revealed for 
+5 seconds
+.
+
+Improvised Detonators
+
+"Like cowards, they strike with bombs in the night, afraid to let the light of day illuminate their blackened souls." — (Witness to Koenrad, ch. 35)
+
+If no Survivors are dead, sending a Survivor with the lowest amount of Hook States to the 
+Exile
+ grants 
++1 Token
+.
+
+Reaching 
+4 Tokens
+ or more causes the 
+Generator
+ with the highest progress to explode, lose 
+-20 %
+ progress and start regressing.
+
+Mirror of the Creators
+
+"And They said unto It, take this mirror, and show them the error of their ways." — (I Barbarians, ch. 6)
+
+Cast 
+Divine Light
+ reflects off the first 
+2 obstructions
+ it would otherwise pass through.
+
+When reflecting, it pauses for 
+0.4 seconds
+ before reflecting again.
+
+Obsidian Feather
+
+"Some villagers will carve feathers from rocks, hoping that their faith might protect them." — (Visions of Gerhardt, ch. 3)
+
+You can no longer cancel nor manually cast the controlled 
+Divine Light
+ and it is automatically cast when it would instead time out.
+
+Increases movement speed while controlling 
+Divine Light
+ by 
++100 %
+.
+
+Decreases the maximum amount of time you can control 
+Divine Light
+ for by 
+-25 %
+.
+
+Increases the recovery time after casting 
+Divine Light
+ by 
++10 %
+.
+
+Decreases the movement speed while recovering after casting 
+Divine Light
+ by 
+-30 %
+.
+
+Achievements
+
+Main article: 
+Achievements
+
+There are 
+4
+ Achievements related to 
+The Judgment
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Judgment
+
+Playing as The 
+Judgment
+, achieve a 
+Merciless Victory
+ using only their 
+3
+ Unique Perks: 
+Hex: Under Your Thumb
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+When a Survivor gains a Hook State, 
+Hex: Under Your Thumb
+ activates on a random Dull 
+Totem
+:
+
+Running Survivors cannot gain more than 
+25
+/
+20
+/
+15
+ 
+%
+ 
+Haste
+ at once.
+
+Whenever a running Survivor within 
+32 metres
+ gains 
+Haste
+, the Survivor's location is revealed to you for 
+4 seconds
+.
+
+The 
+Hex Effects
+ persist until the 
+Hex Totem
+ is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.
+
+"They will run, but Judgment will make the very ground they tread turn to ash and smoke." — (Visions of Gerhardt, ch. 1)
+
+, 
+Celestial Witness
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+Every 
+30 seconds
+, if the 
+Obsession
+ is 
+40 metres
+ away from you, you see their aura for 
+2
+/
+2.5
+/
+3
+ 
+seconds
+. Otherwise, the farthest Survivor becomes the 
+Obsession
+.
+
+"And so the heretics huddled, cowardly, in the night; but upon Judgment’s arrival, It saw them all, and punished them." — (Witness to Koenrad, ch. 32)
+
+, and 
+Lay Waste
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+Damaging a 
+Generator
+ makes it regress 
++2 
+ faster for each Charge it has.
+
+This perk has a cool-down of 
+55
+/
+50
+/
+45
+ 
+seconds
+ after damaging a 
+Generator
+.
+
+"They built hypercomputers and skyscrapers and quantum networks, but all of those things trembled and fell under the power of Judgment’s light." — (Witness to Koenrad, ch. 8)
+
+.
+
+Above Judgment
+
+Escape The 
+Judgement's
+Exile
+ without being hit by any 
+Seeds of Punishment
+.
+
+Sacrilege
+
+THIS  IS HIDDEN
+
+Gain 
+Heresy
+ by 
+Taunting
+ The 
+Judgment
+.
+
+Sacrosanct
+
+THIS  IS HIDDEN
+
+Playing as The 
+Judgment
+,  
+Exile
+ a Survivor that gained 
+Heresy
+ from 
+Taunting
+ you.
+
+Under my Dominion
+
+Playing as The 
+Judgment
+, hit 
+15 Survivors
+ with 
+Divine Light
+ from at least 
+16 metres
+ away.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customize 
+The Judgment
+:
+
+Base Cosmetics
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Guiding Light
+
+Common
+
+"It sets forth across the universe to bring heretics to justice, be it through Exile or Divine Light." (I Barbarians, ch. 10)
+
+Wings of Justice
+
+Common
+
+"While the righteous worship Judgment, none anger It more than those who look to the night sky for answers." (Witness to Koenrad, ch. 12)
+
+Staff of Absolution
+
+Common
+
+"Those who gaze upon Its mighty staff and heavenly form cannot help but fall to their knees and worship." (Visions of Gerhardt, ch. 2)
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Blinding Light
+
+Rare
+
+"It sets forth across the universe, setting villages, cities and even entire planets to ruin." (Truths Revealed, ch. 3)
+
+Wings of Punishment
+
+Rare
+
+"Those who seek truth in the darkness of night receive the worst of Judgment's zealous fury and flame." (Truths Revealed, ch. 3)
+
+Staff of Obliteration
+
+Rare
+
+"Those who see Its blinding staff and terrifying form are doomed to an end in vociferous light." (Truths Revealed, ch. 3)
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+"To see Judgment is to see true beauty. No words written here or anywhere else could truly capture It." (Witness to Koenrad, ch. 15)
+
+Alternatives
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+File:K44 outfit 01 CV01.png
+
+Avatar of the Rising Sun
+
+Chorus of Sin
+
+25 August 2026 (Tuesday)
+
+Description
+
+"To see Judgment is to see true beauty. No words written here or anywhere else could truly capture It." (Witness to Koenrad, ch. 15)
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+File:K44 Head01 CV01.png
+
+Piece
+
+Name
+
+Collection
+
+Message of Truth
+
+Chorus of Sin
+
+Those who dared to confront Judgment's glory found themselves filled with Divine Light. (II Barbarians, ch. 8)
+
+50
+
+900
+
+File:K44 Body01 CV01.png
+
+Piece
+
+Name
+
+Collection
+
+Amber Incarnation
+
+Chorus of Sin
+
+"Judgment came to them, bright, so brilliant, so profound, their eyes were forced to fall." (II Barbarians, ch. 8)
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+File:K44 outfit 01 CV03.png
+
+Avatar of the Vivid Fields
+
+Chorus of Sin
+
+25 August 2026 (Tuesday)
+
+Description
+
+"To see Judgment is to see true beauty. No words written here or anywhere else could truly capture It." (Witness to Koenrad, ch. 15)
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+File:K44 Head01 CV03.png
+
+Piece
+
+Name
+
+Collection
+
+Message of Punishment
+
+Chorus of Sin
+
+Those who dared to confront Judgment's glory found themselves filled with Divine Light. (II Barbarians, ch. 8)
+
+50
+
+900
+
+File:K44 Body01 CV03.png
+
+Piece
+
+Name
+
+Collection
+
+Emerald Incarnation
+
+Chorus of Sin
+
+"Judgment came to them, bright, so brilliant, so profound, their eyes were forced to fall." (II Barbarians, ch. 8)
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+File:K44 outfit 01 CV02.png
+
+Avatar of the Brightest Day
+
+Chorus of Sin
+
+25 August 2026 (Tuesday)
+
+Description
+
+"To see Judgment is to see true beauty. No words written here or anywhere else could truly capture It." (Witness to Koenrad, ch. 15)
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+File:K44 Head01 CV02.png
+
+Piece
+
+Name
+
+Collection
+
+Message of Justice
+
+Chorus of Sin
+
+Those who dared to confront Judgment's glory found themselves filled with Divine Light. (II Barbarians, ch. 8)
+
+50
+
+900
+
+File:K44 Body01 CV02.png
+
+Piece
+
+Name
+
+Collection
+
+Golden Incarnation
+
+Chorus of Sin
+
+"Judgment came to them, bright, so brilliant, so profound, their eyes were forced to fall." (II Barbarians, ch. 8)
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+File:K44 outfit 01 CV04.png
+
+Avatar of the Cloudless Sky
+
+Chorus of Sin
+
+25 August 2026 (Tuesday)
+
+Description
+
+"To see Judgment is to see true beauty. No words written here or anywhere else could truly capture It." (Witness to Koenrad, ch. 15)
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+File:K44 Head01 CV04.png
+
+Piece
+
+Name
+
+Collection
+
+Message of Penance
+
+Chorus of Sin
+
+Those who dared to confront Judgment's glory found themselves filled with Divine Light. (II Barbarians, ch. 8)
+
+50
+
+900
+
+File:K44 Body01 CV04.png
+
+Piece
+
+Name
+
+Collection
+
+Sapphire Incarnation
+
+Chorus of Sin
+
+"Judgment came to them, bright, so brilliant, so profound, their eyes were forced to fall." (II Barbarians, ch. 8)
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+File:K44 outfit 01 01.png
+
+Prayer for Clemency
+
+Chorus of Sin
+
+25 August 2026 (Tuesday)
+
+Description
+
+"For It has existed as long as anything has existed, and It shall exist forevermore." (Truths Revealed, ch. 6)
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+File:K44 Head01 01.png
+
+Piece
+
+Name
+
+Collection
+
+Unblinking Eyes
+
+Chorus of Sin
+
+"Its eyes gaze, unblinking, upon the lost and wretched masses." (Witness to Koenrad, ch. 5)
+
+100
+
+1800
+
+File:K44 Body01 01.png
+
+Piece
+
+Name
+
+Collection
+
+Verdigris Wings
+
+Chorus of Sin
+
+"Do not look to the darkness for answers, for Judgment is the light, and the answers lie with It." (Laws from Beyond, ch. 3)
+
+100
+
+1800
+
+File:K44 W01 01.png
+
+Piece
+
+Name
+
+Collection
+
+Heretic's End
+
+Chorus of Sin
+
+"The unworthy are not forgotten, for in their Exile they find a place within Judgment, forever." (Witness to Koenrad, ch. 11)
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+File:K44 outfit 01 03.png
+
+Prayer for Reprieve
+
+Chorus of Sin
+
+25 August 2026 (Tuesday)
+
+Description
+
+"For It has existed as long as anything has existed, and It shall exist forevermore." (Truths Revealed, ch. 6)
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+File:K44 Head01 03.png
+
+Piece
+
+Name
+
+Collection
+
+Unflinching Eyes
+
+Chorus of Sin
+
+"Its eyes gaze, unblinking, upon the lost and wretched masses." (Witness to Koenrad, ch. 5)
+
+100
+
+1800
+
+File:K44 Body01 03.png
+
+Piece
+
+Name
+
+Collection
+
+Copper Wings
+
+Chorus of Sin
+
+"Do not look to the darkness for answers, for Judgment is the light, and the answers lie with It." (Laws from Beyond, ch. 3)
+
+100
+
+1800
+
+File:K44 W01 03.png
+
+Piece
+
+Name
+
+Collection
+
+Unbeliever's End
+
+Chorus of Sin
+
+"The unworthy are not forgotten, for in their Exile they find a place within Judgment, forever." (Witness to Koenrad, ch. 11)
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+File:K44 outfit 01 02.png
+
+Prayer for Respite
+
+Chorus of Sin
+
+25 August 2026 (Tuesday)
+
+Description
+
+"For It has existed as long as anything has existed, and It shall exist forevermore." (Truths Revealed, ch. 6)
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+File:K44 Head01 02.png
+
+Piece
+
+Name
+
+Collection
+
+Unwavering Eyes
+
+Chorus of Sin
+
+"Its eyes gaze, unblinking, upon the lost and wretched masses." (Witness to Koenrad, ch. 5)
+
+100
+
+1800
+
+File:K44 Body01 02.png
+
+Piece
+
+Name
+
+Collection
+
+Amethyst Wings
+
+Chorus of Sin
+
+"Do not look to the darkness for answers, for Judgment is the light, and the answers lie with It." (Laws from Beyond, ch. 3)
+
+100
+
+1800
+
+File:K44 W01 02.png
+
+Piece
+
+Name
+
+Collection
+
+Apostate's End
+
+Chorus of Sin
+
+"The unworthy are not forgotten, for in their Exile they find a place within Judgment, forever." (Witness to Koenrad, ch. 11)
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Merciless Messenger
+
+Chorus of Sin
+
+25 August 2026 (Tuesday)
+
+Description
+
+"It who judges us, we thank you for your noble and unending mission!" (Witness to Koenrad, ch. 45
+)
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Conviction's Halo
+
+Chorus of Sin
+
+"We raise our hands, so that you may see us, and see within us, and understand our faith!" (Witness to Koenrad, ch. 45)
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Bound by Morality
+
+Chorus of Sin
+
+"We close our eyes so that our minds are not sullied by the heretical filth in our midst!" (Witness to Koenrad, ch. 45)
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Hardened Resolve
+
+Chorus of Sin
+
+"We accept our lot, be it here, within thee, or oblivion!" (Witness to Koenrad, ch. 45)
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Cruel Messenger
+
+Chorus of Sin
+
+25 August 2026 (Tuesday)
+
+Description
+
+"It who judges us, we thank you for your noble and unending mission!" (Witness to Koenrad, ch. 45)
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Punishment's Halo
+
+Chorus of Sin
+
+"We raise our hands, so that you may see us, and see within us, and understand our faith!" (Witness to Koenrad, ch. 45)
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Bound by Duty
+
+Chorus of Sin
+
+"We close our eyes so that our minds are not sullied by the heretical filth in our midst!" (Witness to Koenrad, ch. 45)
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Tempered Resolve
+
+Chorus of Sin
+
+"We accept our lot, be it here, within thee, or oblivion!" (Witness to Koenrad, ch. 45)
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Vanguard of the Creators
+
+Chorus of Sin
+
+25 August 2026 (Tuesday)
+
+Description
+
+"Some of that which was created needed to be punished, and so they needed a punisher." (Truths Revealed, ch. 11)
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Salvation's Visage
+
+Chorus of Sin
+
+“It fell to Judgment to punish those who would see themselves as Gods.” (I Celestials, ch. 12)
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Jury Without Peers
+
+Chorus of Sin
+
+“It did not falter, nor hesitate; for Judgment's duty was necessary to hold the very universe together.” (II Celestials, ch. 5)
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Hand of Execution
+
+Chorus of Sin
+
+"And so It did on every planet, in every country, in every home, across all of the cosmos." (II Celestials, ch. 5)
+
+400
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Judgment
+ is part of 
+1
+ DLC:
+
+Chorus of Sin
+
+Change Log
+
+Patch 10.1.0
+Patch 10.1.1
+Patch 10.1.2
+Patch 10.1.2a
+
+Buff
+: Added a toggleable Killer Instinct feedback when Divine Light barely misses a Survivor
+
+Buff
+: Adjusted Seeds of Punishment to be a little bit more aggressive:
+
+Hazard spawn type - At the Survivor's current location
+
+Increased base spawn chance from 
+5 %
+ to 
+15 %
+
+Hazard spawn type - Infront of the Survivor
+
+Increased base spawn chance from 
+35 %
+ to 
+50 %
+
+Removed spawn chance bonuses on miss
+
+Hazard spawn type - Away from the Survivor
+
+Reduced minimum distance from the target Survivor from 
+8 metres
+ to 
+4 metres
+
+Reduced base spawn chance from 
+60 %
+ to 
+35 %
+
+Buff
+: Increased Hook Timer penalty from being hit by Seeds of Punishment from 
+-1 second
+ to 
+-3 seconds
+
+Buff
+: Reduced Seeds of Punishment immunity when hit from 
+2 seconds
+ to 
+0.5 seconds
+
+Nerf
+: Increased distance between Seeds of Punishment from 
+3 metres
+ to 
+4 metres
+
+Nerf
+: Increased Survivor Divine Light aura reading range from 
+32 metres
+ to 
+48 metres
+
+Buff
+: Increased the Divine Light curve window while Zealous from 
+0.3 seconds
+ to 
+0.6 seconds
+.
+
+Buff
+: Increased the Divine Light curve window while Zealous from 
+0.6 seconds
+ to 
+0.8 seconds
+.
+
+Buff
+: Added a 
+0.3 seconds
+ curve window when not Zealous.
+
+Nerf
+: Survivors Liberated from Exile respawn at least 
+32 metres
+ away from 
+The Judgment
+ and are granted 
+1 second
+ of immunity from Divine Light.
+
+Reversal
+: Decreased the Divine Light curve window while Zealous from 
+0.8 seconds
+ back to 
+0.6 seconds
+.
+
+Reversal
+: Removed the 
+0.3 seconds
+ curve window when not Zealous.
+
+Trivia
+
+Voice Lines
+
+Voice Line
+
+Audio
+
+Selected in the Menu
+
+"I alone shall judge."
+
+"There is mercy in punishment."
+
+"There is mercy in punishment."
+
+"I will light the way."
+
+"Let those without Heresy come forward."
+
+"Heresy begets punishment."
+
+"Heresy begets punishment."
+
+"I shall show you a God's love."
+
+"I shall show you a God's love."
+
+"Bask in my light."
+
+"Bask in my light."
+
+"Kneel before your God."
+
+"Kneel before your God."
+
+"None shall stand in defiance."
+
+"None shall stand in defiance."
+
+"Here exists nothing but.. degeneracy."
+
+"Who dares stand before me?!"
+
+"This realm's Heresy must be sanctified."
+
+"This realm's Heresy must be sanctified."
+
+"More Heretics require my attention."
+
+"More Heretics require my attention."
+
+"My fervor will be satiated."
+
+"My fervor will be satiated."
+
+"Extermination is mercy."
+
+"Extermination is mercy."
+
+"This form is immaculate."
+
+"This form is immaculate."
+
+"I will wash this realm of its stain..!"
+
+"I will wash this realm of its stain."
+
+"My work never ends."
+
+"My work never ends."
+
+"She cannot escape me!"
+
+"She cannot escape me.."
+
+"The Heretics cultivate their foul ideology."
+
+Joined a Lobby with: 
+Aurora Stardotter
+
+"I see your lesson remains unlearned."
+
+"I see your lesson remains unlearned."
+
+"Have you not suffered enough?"
+
+"Have you not suffered enough?"
+
+"See where your insolence has gotten you."
+
+"See where your insolence has gotten you?"
+
+"Very well, we shall do this.. again."
+
+"Very well, we shall do this.. again."
+
+"Stardotter.."
+
+"Stardotter."
+
+Trial Start
+
+"I am a light onto darkness."
+
+"I am a light onto darkness."
+
+"Unrest will be quelled."
+
+"Unrest will be quelled."
+
+"Death to Heretics."
+
+"There will be no redemption."
+
+"There will be no redemption."
+
+"There will be no redemption."
+
+"Begin your penance."
+
+"Begin your penance."
+
+"I will deliver my punishment."
+
+"I.. will deliver my punishment."
+
+"I will remove the blot from existence."
+
+"None will escape my sight."
+
+"None will escape my sight."
+
+"You shall not evade my reach."
+
+"You.. shall not evade my reach.."
+
+"Your absolution is within reach."
+
+"Your absolution is within reach.."
+
+"Nothing here can be saved."
+
+"Nothing here can be saved."
+
+"There is nowhere to hide from the light."
+
+"There is nowhere to hide from the light."
+
+Using Will of the Gods
+
+"Begone!"
+
+"Begone."
+
+"Begone."
+
+"Begone."
+
+"Begone!"
+
+"Die!"
+
+"Die."
+
+"Die."
+
+"Enough!"
+
+"Enough!"
+
+"Enough."
+
+"Enough!"
+
+"You are done."
+
+"You are done."
+
+"You are done!"
+
+"It ends here!"
+
+"It ends here."
+
+"It ends here."
+
+"It ends.. here!"
+
+"Bow!"
+
+"Bow."
+
+"Bow."
+
+"Bow!"
+
+"Praise me!"
+
+"Praise me."
+
+"Praise me."
+
+"Praise me."
+
+"Praise me!"
+
+"Confess!"
+
+"Confess."
+
+"Confess."
+
+"Confess!"
+
+"See the light!"
+
+"See the light."
+
+"See the light."
+
+"See the light!"
+
+"I have you!"
+
+"I have you."
+
+"I have you."
+
+"I have you.."
+
+"I.. have you!"
+
+"There!"
+
+"There."
+
+"There.."
+
+"There."
+
+"Burn!"
+
+"See the truth!"
+
+"See.. the truth."
+
+"See the truth."
+
+"See the truth!"
+
+Survivor Cleansing Heresey
+
+"The Heretic repents."
+
+"The Heretic repents."
+
+"This does not absolve you."
+
+"This does not absolve you."
+
+"I am a merciful God."
+
+"I am a merciful God."
+
+"I recognize your piety."
+
+"I recognize your piety."
+
+"I shall stave your execution."
+
+"I shall stave your execution."
+
+"Your obedience is noted."
+
+"Your obedience is noted."
+
+Exile Enter
+
+"You deserve no less!"
+
+"You deserve no less."
+
+"Enter Exile!"
+
+"So begins your sentence."
+
+"So begins your sentence!"
+
+"I have delivered my edict."
+
+"I have delivered my edict."
+
+"Heed my righteous judgment."
+
+"Heed my righteous judgment."
+
+"Accept your fate."
+
+"Accept your fate!"
+
+Exile Exit
+
+"Your penitence is not complete."
+
+"I will not be denied."
+
+"You defy your own fate."
+
+"And still you reject the truth."
+
+"And still you reject the truth."
+
+"Do not reject the light."
+
+"Do not reject the light."
+
+"Do not defy me!"
+
+"Do not defy me."
+
+Hooking
+
+"A worthy sacrifice."
+
+"A worthy sacrifice."
+
+"It is your time."
+
+"It is your time."
+
+"You will see the light."
+
+"You will see the light."
+
+"I shall set this right."
+
+"I shall set this right."
+
+"This is your purpose."
+
+"This is your purpose."
+
+"Remember this mercy."
+
+"Remember this mercy."
+
+"This is absolution."
+
+"This is absolution."
+
+"Your redemption lies here."
+
+"Your redemption lies here."
+
+"The rot ends here."
+
+"The rot ends here."
+
+"You are weak."
+
+"You are weak."
+
+"You are weak."
+
+Hooking - 
+Aurora Stardotter
+
+"I'll make an example of you."
+
+"I'll make an example of you."
+
+"I'll make an example of you."
+
+"This has gone on too long."
+
+"This has gone on too long."
+
+"This has gone on too long."
+
+"I release you."
+
+"I release you."
+
+"No more chances."
+
+"No more chances."
+
+"For your many Heresies."
+
+"For your many Heresies."
+
+"For your many Heresies."
+
+Locker Find
+
+"You cannot hide."
+
+"You cannot hide."
+
+"I see all."
+
+"I see all!"
+
+"You only had to bend the knee."
+
+"You only had to bend the knee."
+
+"You only had to bend the knee."
+
+"There will be no shelter."
+
+"There will be no shelter."
+
+"Your plans are nothing."
+
+"Your plans are nothing!"
+
+"Foolish."
+
+"Foolish."
+
+"You cannot escape."
+
+"You cannot escape."
+
+"Insolent mortal."
+
+"Insolent mortal."
+
+"I see you."
+
+"I see you."
+
+"You will see."
+
+"You will see."
+
+"I have you."
+
+"I have you."
+
+"I have you."
+
+"I have you."
+
+"The Heretic cannot hide."
+
+"The Heretic cannot hide."
+
+Locker Find - 
+Aurora Stardotter
+
+"I did not forget you."
+
+"I did not forget you."
+
+"You are mine."
+
+"You are mine."
+
+"You've hidden long enough."
+
+"You've hidden long enough."
+
+"Stardotter."
+
+"Stardotter!"
+
+"You are persistent."
+
+"You are persistent."
+
+Stunned
+
+"Insolence!"
+
+"Insolence."
+
+"Yet still you sing."
+
+"Yet still you sing?!"
+
+"A grave error."
+
+"A grave error."
+
+"A grave error!"
+
+"Do not deny me!"
+
+"Do not deny me."
+
+"Do not deny me."
+
+"This ends now."
+
+"This ends now."
+
+"This ends now!"
+
+"How impertinent!"
+
+"How impertinent."
+
+"How impertinent."
+
+"No more."
+
+"No more!"
+
+"No more."
+
+"I'm losing patience."
+
+"I am losing patience."
+
+"I'm losing patience!"
+
+"You will pay."
+
+"You will pay!"
+
+"You will pay."
+
+"Enough."
+
+"Enough!."
+
+"Enough."
+
+"Cease this foolishness!"
+
+"Cease this foolishness."
+
+"Cease this foolishness."
+
+"Cease this foolishness."
+
+"I will purge you."
+
+"I will purge you."
+
+"I will purge you."
+
+Downing Survivor - 
+Aurora Stardotter
+
+"Beg for forgiveness."
+
+"Beg for forgiveness."
+
+"I have had enough of this charade."
+
+"I have had enough of this charade."
+
+"Your defiance was a mistake."
+
+"Your defiance was a mistake."
+
+"I have waited so long."
+
+"I have waited so long."
+
+"You will not escape this time!"
+
+"You will not escape this time."
+
+Chasing - 
+Aurora Stardotter
+
+"When will you learn?"
+
+"You cannot escape a God!"
+
+"One hundred years was not enough."
+
+"You will search no more."
+
+Carrying - 
+Aurora Stardotter
+
+"So the cycle repeats."
+
+"I have you.. Again."
+
+"This is your fate, Stardotter."
+
+"This time will be decisive."
+
+"I tire of you."
+
+Performing Momento Mori
+
+"You will see the truth!"
+
+"You will see the truth."
+
+"You will see the truth."
+
+"Consider this a mercy!"
+
+"Consider this a mercy."
+
+"Consider this a mercy."
+
+"My gift to you."
+
+"My gift to you."
+
+"My gift to you."
+
+"See my true being!"
+
+"See my true being."
+
+"Open your eyes."
+
+"Open your eyes!"
+
+"It ends now."
+
+"It ends now!"
+
+"You were imperfect."
+
+"You were imperfect."
+
+"Accept my gift!"
+
+"Accept my gift."
+
+"This is the only way."
+
+"This is the only way!"
+
+"Find the truth."
+
+"This is your exoneration!"
+
+"This is your exoneration."
+
+"I shall expunge your darkness."
+
+"I.. shall expunge your darkness."
+
+Performing Momento Mori - 
+Aurora Stardotter
+
+"Exile was not enough."
+
+"Exile was not enough."
+
+"Aurora.. finally."
+
+"Aurora.. finally."
+
+"My decree is final."
+
+"My decree is final."
+
+"My leniency was a mistake."
+
+"My leniency.. was a mistake."
+
+"You have defied me for too long!"
+
+"You.. have defied me for too long."
+
+General
+
+The Judgment
+ is the first original 
+Killer
+ entirely designed by the community as part of The 
+Grimoire
+.
+
+Prior to 
+The Judgment
+, The 
+Doctor
+ was the closest to a community-developed Killer, as his main theme was chosen by the Chinese community, drawing inspiration from a real-life figure (
+Yang Yongxin
+).
+
+During the 
+Ask Me Anything - About the Grimoire!
+[
+1
+]
+, Behaviour Interactive stated they considered giving 
+The Judgment
+ a more gender-neutral appearance, as opposed to its originally feminine concept art.
+
+They also mentioned the possibility of giving the Killer both male and female voice lines, similar to The 
+Unknown
+.
+
+Ultimately It remained feminine in appearance.
+
+Due to an error on Behaviour's social media channels, the second-place design was mistakenly announced as the winner instead of the actual winning concept.
+
+The Judgment
+ had 3 alternative names before It's name was decided by the community.
+
+The Apocalypse
+
+The Exalted
+
+The Messenger
+
+The Judgment
+ had 3 alternative perks before the final 3 were decided by the community.
+
+Run Down the Sinner
+ Which was a totem perk that gave incremental haste in chase.
+
+Hex: The Flesh is Weak
+ Which was a hex perk that would have increased the exhaustion duration.
+
+Desolation
+ Which was a perk that gave broken to survivors who  were nearby and recovered from the dying state while they were inside the killer's terror radius.
+
+It is currently unknown if these perks will return in future chapters.
+
+The Judgment
+ is the first Killer whose Power can be directly modified by the game settings.
+
+Despite power descriptions being reworked to instead be split into separate elements in 
+Patch 10.1.0
+, 
+The Judgment
+ still has a description in the style of pre-10.1.0 descriptions, but it cannot be seen in-game by any means.
+
+Text for the pre-10.1.0 style description:
+
+Expand to view content
+
+Description
+
+DIVINE LIGHT
+Press the Power button to Charge Will of The Gods and call upon Divine Light, allowing The Judgment to control its trajectory for a moment.
+Divine Light passes through all obstacles, at a slightly lower speed.
+When The Judgment is ready, they can Cast Divine Light, sending forth, becoming lethal and gaining constant speed, unaffected by obstacles.
+The longer Divine Light is controlled, the stronger the Cast action will be, increasing its acceleration, duration, and becoming lethal more quickly.
+Anytime a Survivor is caught in a Cast Divine Light’s trajectory, if they are not a Heretic, they gain Heresy and lose a health state.
+HERESY
+When a Survivor is damaged by Divine Light, they gain Heresy, which makes their repairs less efficient, causing loss of progress on Good Repair Skillcheck.
+Heresy will decay over time after Repenting at a Shrine of Judgment, when Liberating Heretics from Exile or when saved from the Exile.
+EXILE
+When standing over a Survivor affected by Heresy, The Judgment can Exile them or Kill them if they are on their second hook, gaining Zealous.
+When Exiled, they gain a Hook State and must dodge Seeds of Punishment, which seek to purify the Exile of their presence. While in Exile, Survivors can use the Searcher’s Pendant to collect Exiled Souls, which grant them bonus protections when saved from the Exile by Survivors who liberate them at a Shrine of Judgment.
+ZEALOUS
+While Zealous, The Judgment gains the ability to quickly redirect Divine Light after casting it.
+Divine Light is also larger and faster.
+
+Memento Mori
+
+The Judgment
+ is the third Killer whose Memento Mori overrides the default Memento Mori music.
+
+The first was The 
+Trickster
+'s 
+MiNA
+ outfit and the second was The 
+Slasher
+ .
+
+The Judgment
+ is the seventh Killer with a base-kit ability to kill Survivors using its Power.
+
+The Judgment
+ is also the first original with the ability to 
+Mini-Mori
+ the Survivors, as the ability had been exclusive to a few Licensed Killers since its introduction 6 years prior.
+
+Development
+
+The first iteration of 
+Divine Light (Formerly known as Ray of Retribution)
+ used to work as a laser that would follow 
+The Judgment's
+ hand, but it was deemed unfun and too easy to use by playtesters.
+
+The second and current iteration of 
+Divine Light
+ functions as an Area-of-Effect laser-like attack that can be moved by killer after it spawns. It is currently under playtesting and polishing.
+
+Which is quite similar to "Pursuing Smite", an option from the grimoire before 
+Ray of Retribution
+ won the vote.
+
+At some point in the early stages of development, the Killer Effect went from being a progressive effect  (0-100%) to a binary effect (on/off), to alleviate cognitive load as binary states are easier to understand, according to the developers in the 
+Ask Me Anything - About the Grimoire!
+.
+
+The Judgment'
+s placeholder model used The 
+Spirit
+'s 
+Ragged Burial Kimono
+ as body and 
+Putrid Katana
+ as weapon. It lacked a head model and instead used a blue flame effect.
+
+In a developer preview, the interaction to cast the 
+Divine Light
+ was jokingly named "Woe Be Upon Ye".
+
+Gallery
+
+In-game Assets
+
+The Judgement
+
+The Judgment (Portrait render)
+
+The Judgment (Background image)
+
+Official Art
+
+The Judgment render
+
+Chorus of Sin Collection banner
+
+Default model render
+
+Cruel Messenger outfit model render
+
+Steam library.
+
+Steam library.
+
+Steam library.
+
+Outfits
+
+Merciless Messenger Outfit
+
+Concept Art
+
+ Judgment's silhouette
+
+ Material used
+
+ Default Concept Art
+
+ The Judgment's Weapon 
+
+ Prototype Power Explanation
+
+ Hopeless Exile Visual
+
+ The Judgment's Memento Mori Storyboard
+
+ Cosmetic Concept Art
+
+ Ray of Retribution Concept Art
+
+ Hopeless Exile Hazard Concept Art
+
+ Artifact Concept Art
+
+Alternative/Unused Designs & Concept Art
+
+ Judgment's second silhouette
+
+ Judgment's third silhouette
+
+ Red material
+
+ Gold material
+
+ Bone material 
+
+ Judgment's alternative default design
+
+ Judgment's first alternative weapon (Hammer)
+
+ Judgment's second alternative weapon (Flail)
+
+ Judgment's second mori storyboard
+
+ Hopeless Exile's alternative visual
+
+ Judgment's alternative cosmetic design
+
+References
+
+↑
+ 
+https://www.reddit.com/r/deadbydaylight/comments/1ry756y/ask_me_anything_about_the_grimoire
+ Behaviour Interactive Thread | Ask Me Anything | About The Grimoire!. Retrieved: 20 April 2026.
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

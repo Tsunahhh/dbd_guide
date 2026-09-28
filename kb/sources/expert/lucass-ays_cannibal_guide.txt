@@ -1,0 +1,279 @@
+Titre : Bubba Guide (In-depth Guide, Cannibal)
+Auteur : Lucass & ays
+URL : https://docs.google.com/document/d/1rpadxYbdjf7MDsu0Ug-Ogkuejj6HwQ04D8-cgB9pcWw/edit
+Publication / mise à jour : non datée dans le document (voir analyse de date dans batch13_expert_killers.md)
+Consulté le : 28/09/2026 (curl, Google Docs /mobilebasic ou équivalent ; texte extrait, images non incluses)
+Trouvé via : https://otzdarva.com/dbd/killer-guides
+Statut : EXPERT OPINION (guide de joueur tueur), pas une source primaire
+----------------------------------------------------------------
+Bubba Guide
+Bubba Guide (Made by Lucass & ays)
+# 1. Intro
+# 2.Chainsaw mechanics
+- Charge management
+- Movement speed
+- Tantrum
+- Cooldown
+- Chainsaw durations
+# 3.Perks
+- Base kit bam/bam
+- Strongly advised
+- Other usable perks/Combos
+# 4.Add-Ons
+- Best add-ons
+- Best add-on combination
+- Other add-on combos
+- Remaining add-ons
+# 5.Chase
+- Looping thightly
+- When to M1
+- When to rev
+- Using bambam
+- Zoning
+- Out Playing pallets
+- Counter bt
+- How to run different structures
+- Sideways tec
+- Locker tantrum
+- Invisible hitbox
+# 6.Flick/Reverse
+- Normal flick
+- Flick/reverse
+- Double flick
+- Pallet flick
+# 7.Moonsaw
+- Effective moonsaw
+- Where to apply a moonsaw
+- T&L moonsaw
+- Fake flick
+- Fake pallet flick
+# 1 Intro
+Bubba is probably one of the most underestimated killers in Dead by Daylight. Because of his “baby camper” reputation, people usually think of him as “easy to loop” but he is actually one of the more oppressive killers in Dead By Daylight. We hope this guide will teach you how to get better with bubba, and also help to get rid of his bad reputation that he has built up over the past couple of years. Leatherface has a lot of interesting mechanics that are very hard to notice by average players in Dead By Daylight. At the start we want to say that Leatherface can do a lot of stuff we will introduce later - without duration addons and even without addons. Best addon on Leatherface is Beast’s Marks , because it boosts our movement speed and without it outplaying loops is much harder, but not impossible. Beast’s Marks is more important add-on than Award Winning Chili at the high level Leatherface gameplay.
+This guide requires you to know bubba’s basics but still, here is a list of terms used in this guide.
+Token/Charge: Bubba has 3 chainsaw tokens at base kit.
+Chainsaw Revving: Charging up the chainsaw
+Chainsaw Sweep: Bubbas power
+Bambam: The perk “Bamboozle”
+M1: Basic attack
+99 the chainsaw: Holding the chainsaw rev bar at (about) 99%
+# 2 Chainsaw management
+### 2.1 Charges management
+Cannibal should use his Chainsaw Charges carefully to get most value out of them during the chase. If Bubba knows he can catch a Survivor with 3 Chainsaw Charges before Survivor reaches a Pallet or Window - it’s a good play. If Bubba can not do that, in that scenario Bubba should break a Pallet with only 1 Chainsaw Charge if it’s possible .
+Timing the tokens is one of the most important things to master. Sometimes a slightly worse token timing can mean the difference in getting a down, and not getting a down.
+How do you practice token timing? Bubba gets 15 Bloodpoints for every second in Chainsaw Sweep. This can give you information on how good you are at pressing Tokens. Base kit Bubba can get a maximum 90 Bloodpoints in the Chainsaw Sprint category, but it’s extremely hard to get. Decent level is 88 or 89 . With the Award Winning Chili Bubba can get a maximum 112 Bloodpoints in the Chainsaw Sprint category. Decent level is 110-111 .
+### 2.2 Movement speed
+[1] Revving movement speed
+Bubba needs 2 seconds to activate Chainsaw Sweep. During the first second of revving, his movement speed is decreased from his base 115% to 109.25% . It’s easy to notice in game. But after a 1 second of revving his movement speed has decreased tremendously from 109.25% to 86.25% .
+[2] Chainsaw Sweep movement speed
+When the Chainsaw Sweep starts, Bubba’s movement speed is at 86.25% and accelerates to the max 132.25% (without add-ons). Acceleration takes 60% duration of his first charge. It means, without addons Bubba needs 1.2 seconds to reach Chainsaw Sweep maximum movement speed. That's another problem about Bubba. Bubba got this stupid code after the TWINS DLC . Acceleration makes Carburetor Tunning Guide the worst addon in the game. With this addon Bubba needs 4.5 seconds to reach maximum movement speed because it counts all 3 charges as 1. This also makes Award Winning Chili & Chili addons much weaker than they should be. With Award Winning Chili & Chili,  Bubba needs more time to accelerate ( 1.5 & 1.35 seconds). For this reason Double Chili is an extremely bad add-on combination, because of long acceleration & no additional speed.
+[3] Tantrum movement speed - during the Tantrum, movement speed is decreased to 11.5% .
+2.3 Tantrum (fast explain how it works)
+Duration of Tantrum depends how many charges Cannibal used before a Tantrum.
+Every charge used adds an additional 1 second to Tantrum duration.
+One charge used = 5 seconds duration
+Two charges used = 6 seconds duration
+Three charges used = 7 seconds duration
+Four charges used = 8 seconds duration (Depth Gauge Rake scenario)
+2.4 Chainsaw cooldowns (fast explain how it works)
+Every charge used adds an additional 1 second to the cooldown duration.
+One charge used = 1.5 seconds cooldown
+Two charges used = 2.5 seconds cooldown
+Three charges used = 3.5 seconds cooldown
+Four charges used = 4.5 seconds cooldown (Depth Gauge Rake scenario)
+Successful Chainsaw cooldown = 2 seconds
+2.5 Chainsaw duration
+At base kit Chainsaw Sweep maximum duration is 6 seconds.
+(We have a Bubba Mains discord. I put in some of our Bubba-Tips from discord)
+# 3 Perks
+### 3.1 Base kit Bam Bam [Bamboozle]
+Always use bamboozle since it is by far the best perk on bubba for lots of situations. It makes him super dangerous in chase.
+### 3.2 Strongly advised
+No way out: Bubba is good at camping so if you are losing the match, this perk will almost always give you an extra kill. Also, it’s good for endgame when you close the hatch with 1 survivor left so you don’t have to worry about checking exit gates.
+Pop Goes The Weasel: Combo with eruption for good slowdown
+Eruption: Combo with Pop for good slowdown
+Pain Resonance: One of the best and most fair slow downs in the game.
+Deadlock: Decent overall slowdown and especially good for camping. Recommended decent Builds on Leatherface
+- Bamboozle & Pain Resonance & Pop Goes The Weasel & Eruption - this combination is really good on Bubba, because this Killer has good potential to get fast downs. Build award for getting downs and it’s very strong. Great build for Public Games. (Chase playstyle)
+- Bamboozle & Dead Lock & No Way Out & Corrupt Intervention - this build is great at very high level matches. (camping playstyle)
+### 3.3 Other usable fun Perks/Combos
+Spirit fury/Enduring: Very fun combination to use, because you can boost potential to eat Pallets even more. Unfortunately this combination is really bad against decent Survivors, because on average we can get 1-2 values from Spirit Fury (pre-drops when they know).
+Iron maiden: Counter to locker dodging Bubba's Chainsaw.
+Nowhere To Hide: Combo with Pop/Eruption for max value. Aura reading is good on Bubba since catching hiding survivors with an insta down is super good.
+BBQ: Bubba is strong in chase so this gives you your next chase faster.
+Monitor & Abuse: Gives Bubba more time to get close to the Survivor. Since he doesn't have mobility every meter that you can get closer to the Survivor is a win. With the best addon combo, survivors are already in chainsaw range when they hear your Terror Radius.
+Agitation: Spend less time hooking, more time chasing. Also when you are in a corner of the map, you can get back to middle hooks easily, while carrying. Even better with Scourge Hooks perks.
+Shadowborn: We shouldn’t recommend this perk, but playing with it is very fun. Be careful and don’t get addicted to playing with it.
+# 4 Add-Ons
+### 4.1 Best add-ons
+Beast’s Marks: Increases Chainsaw Sweep movement speed by 3% and increases time required to charge a Chainsaw by 12%. [132.25% —> 136.21%]
+Award Winning Chili: Increases Chainsaw Sweep maximum duration by 1.5 seconds.
+Base kit 6 seconds + 1.5 seconds (Award Winning Chili) = 7.5 seconds. With this add on you can reach a max of 112 Bloodpoints in the Chainsaw Sprint category. Decent level is 110-111.
+Primer Bulb: Decreases time required to recharge Chainsaw token by 1 second.
+With this addon Bubba needs 3 seconds (instead of 4 ) to recharge a Chainsaw Token.
+### 4.2 Best add-ons combination
+Award Winning Chili & Beast’s Marks is the best addons combination on Leatherface. With these addons Bubba’s Chainsaw Sweep movement speed is increased to 136.21% ( 3.96% difference compared to base kit) and Chainsaw Sweep maximum duration is increased to 7.5 seconds ( 1.5 seconds difference compared to base kit). Because of Award Winning Chili Bubba needs 1.5 seconds to reach maximum movement speed (instead of 1.2 seconds base kit).
+1): These addons are incredibly good for long distances. Duration & movement speed bonuses grants ability to catch Survivors before they reach a specific loop.
+2): This combination gives the ability to do “insta-rev” . What does it mean? If Bubba has 3 Charges and he starts a Chainsaw Sweep on the Pallet and Survivor waits to drop it, Bubba can break a Pallet with 1 Token and immediately rev his Chainsaw and catch a Survivor with Two Tokens. It's incredibly strong in some situations. ( EXAMPLE )
+3): These addons make Bubba amazingly good on loops, especially on very long loops. With this speed & duration long loops are not a problem at all. Bubba can outplay TL-s without Bamboozle, Pallet Gyms are incredibly dangerous for Survivors and Bubba can outplay almost every Pallet in the game.
+### 4.3 Other add-on combinations
+Beast marks & Primer bulb: Very strong combination, because still very strong on loops & recharge helps with breaking god Pallets when you need it. It may be the second best combination. This add-on combination is Top 2 (after Award Winning Chili & Beast’s Marks).
+Award Winning Chili & Primer Bulb: Increased duration & recharge speed makes Bubba much better at zoning & breaking big amounts of Pallets. But, these addons are not the best when you want to outplay a Survivor on the loop. The movement speed is the most important thing on Bubba. This combo is good for playing Bubba without flicking.
+Beast’s Marks & Knife Scratches (Double speed): What makes these add-ons good? The fact Bubba’s movement speed is incredibly high ( almost 139% ) and he reaches this movement speed very fast. These add ons combined together are the best addons to outplay Survivors on short/medium loops. Additionally, these addons are surprisingly decent in revving Chainsaw from some distances. Since it doesn’t take a lot of time to catch up because of the big speed difference compared to survivor speed.
+### 4.4 Remaining add-ons :
+Homemade Muffler & Chainsaw File: Decreases Tantrum duration by 1 and 0.5 seconds. Overall almost useless addons. Good Bubba shouldn’t trigger a Tantrum at all. These addons may be helpful just on Lockers because of the different timing than usual.
+Vegetable Oil: Gives you a nice feeling of shorter cooldown after successful Chainsaw Hit. Sometimes can be helpful on Lockers, because of the shorter cooldown you can grab a Survivor in time when he jumps out. Addon description is “Decreases Chainsaw cooldown by 0.3 seconds”, but this 0.3 seconds are for his missed Chainsaw cooldown , not for the successful one. This addon decreases cooldown after Successful Chainsaw Attack from 2 seconds to something around 1.3 - 1.4 seconds.
+Speed Limiter: Obviously a very bad addon for Leatherface. It’s not even good to farm Bloodpoints, because Deviousness Category on Leatherface is very easy to get.
+The Grease & Long Guide Bar: Bubba can rev his Chainsaw longer. These addons are completely useless. Unless you wanna face camp all game. These addons should be reworked.
+Spark Plug & Knife Scratches & Chili : Weaker versions of Primer Bulb, Beast’s Marks & Award Winning Chili.
+Shop Lubricant: Completely useless addon. Apply Knockout Effect on Survivor when no others Survivors in your Terror Radius - just for 20 seconds. This addon should be reworked.
+Rusted Chains & Grisly Chains: These addons are bad, because these addons force Survivor to not heal and rush the generators even more. Bubba isn’t a good M1 Killer.
+Begrimed Chains: Franklin Demise, but with Chainsaw. Nothing special. Also it doesn’t give the Item regression effect that Franklis Demise gives.
+Light Chassis: Actually pretty good addon on indoor maps and may be helpful on loops. Be careful with using it. Best way to use this addon is just pressing M2 constantly to 0.x seconds, because his movement speed does not decrease during the first second of revving ( 109.25%, then after 1 second - 86.25% ).
+Depth Gauge Rake : Very weak addon, two massive penalties for just one extra Token. It’s not worth it. This addon should be buffed (just remove one of these two penalties).
+Iridescent Flesh : This addon is insane at camping, because every hit gives you all charges back. Additionally this addon is extremely good on Lockers, because Tantrum duration is always 5 seconds. Survivors can not expect that short Tantrum after a long Chainsaw.
+### 4.5 Add on tier list
+5 Chase
+### 5.1 Looping thightly
+While chasing a Survivor while using your chainsaw, it's important that you use your speed to your advantage to catch up. This is achieved by looping around objects as tight as possible without bumping. Make sure you learn yourself to do this consistently. Knowing all the shapes of the structures on the map really helps with this.
+Try to use your A and D key as few as possible. This makes your pathing while chainsawing wider and less efficient.
+Even though this topic might look obvious, it's one of the most important things to keep in mind in chase .
+### 5.2 When to use M1
+If you are a beta bubba.
+Nah just kidding, but to answer this topic, almost never. Using Chainsaw as your main chase tool is most effective when done correctly. Even on injured survivors!
+When to actually M1:
+- When an injured survivor is in M1 range
+- When you can m1 a healthy survivor if you are about to leave that chase anyway. Quickly M1 them and leave chase.
+### 5.3 When to rev
+Rule of thumb on when to rev is that you should always be in your first charge when you arrive at the pallet when back-reving a Survivor. This gives you the option to respect the pallet to insta break it. If the survivor decides to greed, you can always still catch up with your remaining 2 tokens. ( EXAMPLE )
+Playing like this gives you a win-win scenario. Either you break the pallet super fast with 1 token or you catch up and down the survivor. Good Leatherface can not waste his tokens in stupid ways. He needs to be active every second in the chase.
+When running the best add on combo, you can apply something called the insta-rev or 2 charge tech. (Already mentioned earlier in this guide) Basically, after breaking a pallet with 1 charge like described above, you can instantly rev up with your remaining 2 tokens and still catch up to the survivor.
+Watch out, because when a survivor is in an area with many pallets and windows, they often can reach those before you actually catch up. If you can’t catch up before they reach a window/pallet, don’t rev up, instead get your 3rd charge back and continue the chase.
+If you can catch up to the survivor and down them with multiple tokens, before they can reach a window/pallet, then you should always do this!
+### 5.4 Using bambam
+Whenever you apply bambam on a window, make sure you get the survivor as close to you as possible. Do this by PRETENDING to go around, but instead, hide your red stain, and then vault ( EXAMPLE ) . This strategy can be applied to almost every structure with a window.
+When you are right behind the survivor when they vault, DONT do this. Just instantly vault after them.
+### 5.5 Zoning
+Since bubba has a quick way of destroying pallets combined with an insta down, makes Bubba good at zoning. When breaking a pallet, make sure you push the survivor towards the worst side of the loop and then break the pallet with your chainsaw. Try to always do this with 1 token. Try to push Survivor in a bad area. ( EXAMPLE )
+Always stay aware of your surroundings to know where the weak and where the strong areas of the map are. Make sure you take chases as much to the weak zones as possible. Don't over commit to survivors in the good zones.
+Before breaking any pallet, always think: Do I want the survivor on that side of the loop, or on this side of the loop? If they are on the (for you) bad side of the loop, simply go around and break the pallet from that side. Try to do this with 1 Token.
+Never get stun on the (for you) bad side of the loop since this gives the survivor a lot of distance in the direction of the (for them) good side of the map. Also keep this in mind when you do a flick.
+### 5.6 Outplaying pallets
+Sometimes it is best to not break a pallet. Apply this at pallets with 1 long loop side, and 1 short side. (Good example is the long mcmillan pallet loop, found near shack on coal tower, like shown in the example)
+How it works:
+- You approach the pallet like usual. Pretend to go towards the pallet so that the survivor will try to stun you with the pallet.
+- Last second, go around the short side of the loop. Make sure your chaisaw doesn’t get sucked into the pallet automatically.
+- Go around the loop, so you force the survivor into a 50/50. Unsafe vault, or hold W. Most of the time they hold W.
+- Catch up to them, and down them :)
+( EXAMPLE )
+This method is great because it gives you a down and a pallet break at the same time. The best add-on combo is super good for this since it gives you the ability to wait for what the survivor is gonna do. They hold W? You still catch up. They vault the pallet and hold W? You go back around and still catch up. This makes the 50/50 a 100% win for you. ( EXAMPLE )
+### 5.7 Countering BT
+When a survivor unhooks another survivor close to you, you can down both of them in a single chainsaw run, no matter what add-ons you have.
+How it works:
+- You 99 your chainsaw next to them and wait until the hooked survivor is fully unhooked.
+- Now start your Chainsaw. What will happen is that you down the unhooking survivor and deep wound the unhooked survivor with only 1 Sweep.
+- Catch up to the survivor with the remaining 2,5 tokens
+With the best addon combo, you can even catch up if the survivor has Sprint Burst
+( EXAMPLE )
+If you wouldn’t wait and instead you rev from far away, you may just get the unhooking Survivor instead of both of them. (EXAMPLE)
+### 5.8 How to play different structures
+Rule of thumb: Bamboozle window first, then get rid of the pallet
+T & L walls: ( EXAMPLE )
+Long Wall Jungle Gym: ( EXAMPLE )
+Short Wall Jungle Gym:( EXAMPLE )
+Pallet Gym: ( EXAMPLE )
+Double Window: ( EXAMPLE )
+Note: Survivors sometimes run it differently. This is just a basic example on how to most efficiently get rid of strong structures. Often these loops are chainable to other loops. This just shows how to get rid of loops as quick as possible. It does Not always give you a down.
+### 5.9 Sideways tech
+Bubba has some weird mechanics around pallets. Sometimes, when a survivor vaults a pallet and you are chainsawing right behind them, you will break the pallet and not get the down . This is frustrating. ( EXAMPLE )
+For some reason, you will get the down when you approach the pallet “sideways” and then flick your chainsaw towards the pallet when they vault it. This way you get the down and the pallet at once. ( EXAMPLE )
+### 5.10 Locker tantrum
+When a survivor hops into a Locker to dodge your chainsaw, you should always let your chainsaw run out, instead of bumping into the locker unless you are out of charges. Most people know the locker timing so it is best to let your chainsaw run out. ( EXAMPLE )
+After they get out of the locker you start revving again, but never actually start your Chainsaw until you are certain that you can down them with it. Sometimes the survivor will run around you and hop back into the locker, when you are not fully ready to start the chainsaw.
+If they do;
+- Let your Chainsaw Sweep out of rev animation and grab them out ( EXAMPLE )
+- Keep your chainsaw 99% until they hop out by themself. ( EXAMPLE )
+If a survivor gets out of the locker and tries to make it to the nearest pallet or window, simply body block them while revving so that they don’t reach it. If they turn around to the locker again, simply apply the tactic explained above.
+### 5.11 Invisible hitbox
+Bubba's chainsaw will tantrum on lots of different invisible hitboxes spread over all the different maps. Here are some examples of the bump spots you need to watch out for.
+Yamaoka: ( EXAMPLE )
+Iri:( EXAMPLE )
+Badham:( EXAMPLE )
+Garden of Joy:( EXAMPLE )
+Autohaven:( EXAMPLE ) fun bus ( EXAMPLE )
+McMillan: ( EXAMPLE )
+Swamp: ( EXAMPLE )
+Most holes and drop off’s , drop down while moonsawing to not T antrum !
+# 6 Flicking/Reversing
+### 6.1 Normal Flick
+Bubba’s way of flicking is basically a simple double back on a pallet loop, when you have control of the pallet side of the loop.
+Because of Bubba's high speed during chainsaw sweep ( 132,25% base kit, 136.21% Beast’s Marks) you can actually outplay the pallet before a Survivor can reach the pallet again.
+How it works:
+- Take control of the pallet side (make sure Survivor stays on the loop)
+- Rev up
+- Start chainsawing around either side of the loop
+- At about ⅓ of the way around, double back (you reached max speed now)
+- Go through the pallet again and all the way around the other side
+- Catch up and down the survivor :)
+( EXAMPLE )
+Watch out: When survivors know about this or when they are very good at the game, they will be very patient for you to do the flick, so that you won’t catch up after you flick and go around the other way. You need to do it very well to outplay a Survivor. It’s very hard on the open loop (Survivor sees a Killer).
+### 6.2 Flick/Reverse
+A reverse is almost the same thing as a flick.The difference between the two is:
+A Flick: is a 180 degree turn where you turn away from the loop (first 90 degrees) and back to the loop (second 90 degrees). This is done in one motion. Now you are facing the exact way you came from.
+( EXAMPLE )
+A reverse: is a 180 degree turn where you turn towards the loop (first 90 degrees) and then away from the loop (second 90 degrees). Make sure that you have a little bit of distance from the loop when you reverse, because you will bump if you don’t.
+( EXAMPLE )
+If you want to do a perfect flick, you can not do it too late, because Survivor will drop a Pallet on the second side. If you do it too early, you will just break a Pallet, you will not down a Survivor.
+Pro’s Flick:
+- Looks cooler
+- you don’t have to take distance from the loop since your chainsaw doesn’t come in contact with the loop
+Con’s Flick:
+- less vision on the loop and survivor during the turn, compared to reverse
+Pro’s reverse:
+- Easier/safer to pull off, strongly advised for console players
+- More vision on loop/survivor during the turn
+Con’s reverse:
+- You have to take distance from the loop before doing it because otherwise you will bump
+- It’s the Bèta variant of a flick :)
+### 6.3 Double Flick
+Same concept as a normal flick but you do it twice. After you double back the first time and you see that you can’t catch up to the survivor, you can go to ⅓ of the other side of the loop and flick again. ( EXAMPLE )
+Only do this on small/medium loops, when you are certain that you can reach. (Best add-on combo is good for this)
+### 6.4 Pallet Flicks
+A pallet flick is a little more advanced and works a little different. This is most effective on the shorter loops. It is a flick where you take advantage of the fact that you can hide yourself behind the pallet when you “double back” so that the survivor will react a fraction of a second too late. This is often already enough to catch up to them.
+It can only be done when a survivor is on the same side of the loop as the pallet. Also the pallet needs to be on either short side of the loop.( EXAMPLE )
+How it works:
+- Rev up outside of the loop
+- Chainsaw towards the pallet to reach max movement speed
+- Go into pallet
+- Press “s” to double back out of the pallet
+- Flick 270 degrees around the corner towards the survivor and go forward again
+- Catch up and down them :)
+Sounds difficult? Just watch the example.
+# 7 Moonsaw
+### 7.1 Effective moonsaw
+Some people will moonsaw just to make it look fancy, with a lot of risk to bump and lose time in chase. Don’t do this. Whenever you flick/moonsaw, you always have the chance that you mess it up. Make sure that whenever you do it, it will pay off.
+Effective moonsaws are moonsaws, without line of sight , that actually delay the survivor’s reaction and/or confuse them. Not just to make your play look fancy.
+It’s often also useful to stand still while moonwalking for about 1-2 seconds (when the Survivor has no line of sight on you!), because this can make survivors confused about where you are and make them hesitate. ( EXAMPLE )
+### 7.2 Where to apply a moonsaw
+Apply a moonsaw wherever the survivor has no line of sight on you. For example; pallet gyms, jungle gyms (when the window is bamboozled), high rock pallet loops like found on Autohaven/McMillan , and pallets that you can hide yourself behind.
+### 7.3 T&L wall moonwalks
+On t&l walls, using moonwalks and double backs can be very effective. Best strategy is to block one of the windows with bamboozle, and zone the survivor on the the second window. This can give you a down by winning 1 good mindgame.
+Be creative, because outplaying a survivor on a T&L can be done by many different mindgames.
+### 7.4 Fake flick
+This “fake flick” is put in the moonsaw section, because it actually is a moonsaw instead of a flick. Whenever a survivor knows about flicking, they will expect you to do that every time. If you know that they are expecting you to flick, simply give them what they are looking for.
+How it works:
+- Take control of the pallet
+- Rev up, and start chainsawing around either side of the pallet
+- Turn around, but use your a,s,d,w keys to keep moving the same way (while moonwalking) towards the survivor.
+- After this “fake flick” turn around to face forward again and continue chasing around the loop
+This will create a hesitation on the survivors end. They see what they expect, so they stop moving to go the other way. Too late they will realise that you never actually went “back” and that you were moving towards them the whole time. The flick around will create the hesitation and gives you the time to catch up.( EXAMPLE )
+Note : this is most effective on small/medium loops
+### 7.5 Fake pallet flick
+This “fake pallet flick” is similar to the fake flick.
+How it’s done:
+- Rev up
+- Chainsaw to the pallet to build up speed
+- Go into the pallet
+- Instead of backing out again, you flick your camera around and start moonwalking around the corner
+- After you turn the corner while moonsawing, turn around again so you face forward again.
+This will make the survivors see your red stain flick around when you are behind the pallet. It will make them slow down to go the other way. Once again they see that you didn’t stop, but instead you were moving towards them the whole time at 132+% speed. This hesitation on their part gives you the ability to catch up. ( EXAMPLE )
+Note: This is also most effective with double speed.

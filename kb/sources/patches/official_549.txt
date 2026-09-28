@@ -1,0 +1,32 @@
+# PTB To Live Changes: The Slasher - BHVR
+Source: https://forums.bhvr.com/dead-by-daylight/kb/articles/549 (consulté le 27/09/2026)
+
+In late May, we brought the much-anticipated Jason chapter to the Public Test Build (PTB). Since then, we’ve been keeping a close eye on what you, the community, have had to say about it. We’re glad to see people enjoying The Slasher as much as we enjoyed bringing him to the Fog, but we also want to address some pain points we’ve noticed.
+In this post, we’d like to be transparent about what changes you can expect to see before the chapter goes to Live.
+POWER
+Pinned rescues are no longer considered healing actions
+We noticed that there were some unintended synergies with perks and items that trigger from healing actions.
+The Killer husk attack now activates with a slight delay and is no longer instant upon appearing.
+Many of you were using the husk as a direct attack by spawning it on top of Survivors. While arguably funny, this was never an intended mechanic. The husk is meant to reinforce the idea that staying close to the Killer or approaching him carelessly is a bad idea and is not meant to be used aggressively.
+Increased the slowdown effectiveness of the anti-camp system from X2 to X3 time in sec.
+This change was made to further discourage camping when using the Killer’s power by increasing the penalty.
+Increased the movement speed penalty when cancelling the charge Projectile action.
+We felt like The Slasher’s zoning effectiveness was too strong; this change aims to make the charge cancellation feel like a more meaningful commitment.
+ADDONS
+Along with his power, we’ve also made a handful of changes to The Slasher’s Addons, as detailed below.
+Toxic Waste - Range increased to 8m (was 6m)
+Coroner's Coffee - Haste decreased to 8% (was 13%)
+Bloody Magazine - Range decreased to 8m (was 13m)
+Eye Goop - Undetectable duration increased to 13s (was 9s)
+Iridescent Boat Motor - Window block duration increased to 13s (was 5s)
+These are the Addons that we felt could use some number tweaks to get them into a more comfortable spot.
+Deputy's Badge - Reworked: While in Omnipresent Evil, passing within 4m of a generator will cause it to explode, losing 5% progress and begin regressing. If any survivors are repairing the generator, it doesn't explode, but they get a special Skill Check.
+While we felt the other Addons could be tuned with number changes, Deputy’s Badge needed a bit more work. The previous effect's information was too strong when combined with Omnipresent Evil's low cooldown and high mobility. The reworked effect grants the Killer efficiency when dealing with generators while not granting global knowledge on survivors' whereabouts.
+PERK
+Last but not least, you can expect to see one Perk change from PTB to Live.
+Silent Shadow:
+Changed the perk so that the 11/12/13s Undetectable occurs whenever you hook a Survivor, instead of at the start of the trial. When all Generators are completed, you gain Undetectable.
+We determined that this perk gave Killers too much of a stealth identity at the beginning of a match. Instead, we wanted to make it repeatable for each hook and give a larger payoff in the End Game.
+We want to thank everyone who took the time to write down their feedback after playing the PTB. You can expect to see all the adjustments mentioned in this post when the Jason Chapter releases on June 16th. As always, we’ll be keeping an eye out for your feedback once these changes go live.
+Until next time…
+The Dead by Daylight team

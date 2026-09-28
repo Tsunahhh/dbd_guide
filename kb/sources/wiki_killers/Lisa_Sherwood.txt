@@ -1,0 +1,4863 @@
+# Lisa Sherwood
+Source: https://deadbydaylight.wiki.gg/wiki/Lisa_Sherwood (page complète via API, consultée le 27/09/2026)
+
+A new terror stalks the darkness; her appearance strikes me as more intense than the others after but a glimpse of her haggard silhouette. Twisted and torn in unspeakable ways, with greyish dead skin stretched out over her emaciated body. Her arm is a horrid overgrown deformity capable of slashing through both flesh and bone alike. Her very presence speaks of endless torture similar to mine. I wonder - did she refuse the entity's calling until broken or did she wish for this?
+
+~ 
+ Unknown (Potentially 
+Benedict Baker
+)
+
+The Hag
+
+Name
+
+Lisa Sherwood
+
+Game Alias(es)
+
+"Witch"
+
+Gender
+
+Woman
+
+Origin
+
+African American
+
+Realm
+
+Backwater Swamp
+
+Power
+
+Blackened Catalyst
+
+Power 
+Attack
+ Type
+
+Basic Attack
+
+Weapon
+
+The Claw
+
+Movement Speed
+
+110 % 
+|
+ 4.4 m/s
+
+Terror Radius
+
+24 metres
+
+Height 
+
+Average
+
+DLC
+
+Of Flesh and Mud
+
+Voice Actor
+
+Eliane Pregent
+
+Cost
+
+2,250 
+Iridescent Shards
+
+125 
+Auric Cells
+
+Breathing
+
+Menu Music
+
+Terror Radius Music
+
+Metadata
+
+CharID
+
+K06
+
+Lisa Sherwood
+ or 
+"The Hag"
+ is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+She was introduced as the Killer of 
+Of Flesh and Mud
+, a Chapter DLC released on 8 December 2016 and retired on 8 January 2024.
+
+She is still available in the 
+In-Game Store
+ and as part of the 
+Maddening Darkness Pack
+ Chapter Pack DLC.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+2.1
+ 
+The Archives
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: The Claw
+
+3.3
+ 
+Power: Blackened Catalyst
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for Blackened Catalyst
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Base Cosmetics
+
+5.1.1
+ 
+Default
+
+5.1.2
+ 
+Prestige
+
+5.1.2.1
+ 
+Perk Charms
+
+5.1.2.2
+ 
+Prestige Badges
+
+5.2
+ 
+Alternatives
+
+5.2.1
+ 
+Special
+
+5.2.2
+ 
+Event
+
+5.3
+ 
+Rift
+
+5.4
+ 
+In-Game Store
+
+5.5
+ 
+Alternate Character Models
+
+6
+ 
+DLC
+
+7
+ 
+History
+
+7.1
+ 
+Light Vulnerability
+
+8
+ 
+Change Log
+
+9
+ 
+Trivia
+
+9.1
+ 
+General
+
+9.2
+ 
+Cosmetics
+
+9.3
+ 
+Development
+
+9.4
+ 
+Memento Mori
+
+9.5
+ 
+Name
+
+10
+ 
+Gallery
+
+10.1
+ 
+In-game Assets
+
+10.2
+ 
+Official Art
+
+10.3
+ 
+Old Assets
+
+10.4
+ 
+Concept Art
+
+10.5
+ 
+Screenshots
+
+11
+ 
+References
+
+Overview
+
+The Hag specialises in creating a dangerous web of Phantasm Traps, to be triggered by unsuspecting Survivors. She can instantly teleport to a triggered Trap, striking the Survivor that sprung it. Lock down key areas, make rescues a deadly gamble, and end chases quickly with strategic Phantasm Trap placement.
+
+The Hag
+ is a cursed Killer, able to place Phantasm Traps and then teleport to them upon activation, using her Power.
+
+Her personal Perks, 
+Hex: The Third Seal
+, 
+Hex: Ruin
+, and 
+Hex: Devour Hope
+, apply crippling penalties to Survivors as long as the associated Totem remains uncleansed.
+
+Her Perks revolve around 
+Hex Totems
+. They are focused on cursing the Survivors and sapping their abilities. The curse lasts until the Survivors manage to track the Hex Totem down and cleanse it.
+
+Lore
+
+Lisa Sherwood grew up in a quiet village, mainly isolated from the rest of civilisation. The people of the hamlet were kind and the elders kept old traditions alive, often keeping the peace by personally settling the ever-rare disputes. Lisa was particularly fond of the charms they taught her to draw for safety and good fortune. One night, as she was walking home through the woods, a terrible storm struck without warning. Howling winds whipped at her hair as she stumbled through the swamp, her rain-drenched dress plastered to her skin. In the slick, wet mud she lost her footing, careening backwards and striking her head against rock. Slipping in and out of consciousness, she strained to identify the dark shapes approaching her from between the trees. That's the last thing she could remember.
+
+Her kidnappers kept her chained to the wall in a flooded cellar. Though dimly lit, she could see others whose large open wounds swarmed with flies. It took merely a day before they returned, carving chunks from the prisoners' bodies with rusted blades, consuming their very flesh down to the bone. Most she saw did not survive long once the cannibals targeted them but somehow, deep within, Lisa persisted. Starved, infected, and mutilated after several weeks of torture, her gaunt arms became loose in their shackles. She pulled hard, the metal tearing through skin and muscle until she was free. Her flesh oozed viscous yellow pus and bones were visible beneath gangrenous wounds. She could go no further. Delirious, she thought of home; she thought of the elders. With her dying breath, she etched the symbols they had taught her into the floor using what remained of her fingers. Almost in response, a dark hunger stirred inside her. It yearned for blood. In oath, she chose vengeance.
+
+The village's search party eventually brought them to an old shack in a swamp. Inside, its previous inhabitants had been viciously dismembered and devoured by an unidentifiable animal. In the cellar, amid rotting corpses and disconnected flesh, the elders’ charms were scrawled in blood on the floor. Lisa’s body was not among the bodies and was never found. The village was never the same again.
+
+The Archives
+
+The table below lists additional Lore about 
+The Hag
+ from 
+The Archives
+, either from 
+Tomes
+ that featured her or from individual Lore entries that mentioned her:
+
+Tome
+
+Entry
+
+Type
+
+Tome 4 - Conviction
+
+Stroke of Luck
+
+Featured Character
+
+Load-out
+
+Unique Perks
+
+The Hag
+ comes with 
+3
+ 
+Perks
+ that are unique to her:
+
+ 
+
+Hex: Devour Hope
+
+"A Hex rooting its power on hope.
+The false hope of Survivors ignites your hunger."
+
+Hex: Devour Hope
+ lights a 
+Hex Totem
+ at the start of the Trial, cursing Survivors with its 
+Hex Effects
+.
+Whenever a Survivor is unhooked at least 
+24 metres
+ from your location, 
+Hex: Devour Hope
+ gains 
++1 Token
+, up to a maximum of 
+5 Tokens
+:
+
+At 2 Tokens
+: 
+10 seconds
+ after hooking a Survivor, you are granted a 
+3
+/
+4
+/
+5
+ 
+%
+ 
+Haste
+ 
+Status Effect
+ for 
+10 seconds
+.
+
+At 3 Tokens
+: Afflicts all Survivors with the 
+Exposed
+ 
+Status Effect
+.
+
+At 5 Tokens
+: Unlocks the 
+Kill
+ ability, allowing you to kill dying Survivors by your own hands.
+
+The 
+Hex Effects
+ persist until the 
+Hex Totem
+ is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.
+
+"If you do nothing, you have their blood on your hands. If you save them, her hunger grows."
+
+ 
+
+Hex: Ruin
+
+"A Hex that affects the Generator Repair progress of all Survivors."
+
+All 
+Generators
+ not currently being repaired experience the following effect:
+
+Causes them to automatically regress at 
+100
+/
+125
+/
+150
+ 
+%
+ of the default Regression rate.
+
+The 
+Hex Effects
+ persist until the 
+Hex Totem
+ is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.
+
+"A curse is upon you. It will cause your ruin."
+
+ 
+
+Hex: The Third Seal
+
+"A Hex that hinders the Survivors' Aura-reading abilities."
+
+The last 
+2
+/
+3
+/
+4
+  Survivors you hit with a 
+Basic or Special Attack
+ suffer permanently from the 
+Blindness
+ 
+Status Effect
+.
+The 
+Hex Effects
+ persist until the 
+Hex Totem
+ is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.
+
+"She touched your skin, you bear the witch's mark!"
+
+Prestige
+
+Prestiging 
+The Hag
+ will automatically add 
+Tier I
+ of her Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Hag
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: The Claw
+
+The Claw
+ is the Primary Weapon of 
+The Hag
+.
+A horridly overgrown deformity, clawing its way through flesh and bone.
+
+Power: Blackened Catalyst
+
+"The source of The Hag's power: a blackened finger used as a catalyst for her terrible power.
+She bends and shapes mud to her will.
+With simple ritualistic drawings, she creates deceitful duplicates of herself, made from mud and decay, which she can use for various effects."
+SPECIAL ABILITY: BLACKENED CATALYST
+The Hag
+ starts the Trial with 
+10
+ 
+Phantasm Traps
+ in her inventory.
+Placing additional 
+Phantasm Traps
+ will recycle the oldest one.
+SPECIAL TRAP: PHANTASM TRAP
+Press the 
+Power button
+ to bend down and draw a muddy sign into the ground, placing and arming a 
+Phantasm Trap
+.
+
+Survivors entering the 
+Area of Effect
+, which is only visible to 
+The Hag
+, will trip the trap, causing a 
+Mud Phantasm
+ to spawn that has the following effects:
+
+Yanks the camera of the Survivor who tripped the trap towards itself, disorienting them and keeps its sight trained on them.
+
+Emits a 
+Fake
+ 
+Terror Radius
+ of 
+8 metres
+.
+
+Survivors can prevent tripping the trap by doing either of the following:
+
+Crouch while inside the 
+Area of Effect
+.
+
+Interact with Props while inside the 
+Area of Effect
+.
+
+Survivors can safely remove a trap by wiping it away for 
+4 seconds
+ when crouching above it.
+SPECIAL LOCOMOTION: TELEPORT
+Press the 
+Secondary Power button
+ to teleport to any currently tripped 
+Phantasm Trap
+ within 
+48 metres
+, taking the place of the 
+Mud Phantasm
+.
+In case of multiple tripped traps, a specific 
+Mud Phantasm
+ can be chosen by aiming at it before teleporting.
+
+Power Trivia
+
+Main Article
+
+Walking: 
+4.4 m/s
+
+Phantasm Traps:
+
+Maximum Teleportation range: 
+48 metres
+
+Capacity: 
+10
+
+This refers to how many 
+Phantasm Traps
+ can co-exist in the environment.
+Placing an additional 
+Phantasm Trap
+ at this point will recycle the oldest one.
+
+Setting time: 
+1.9 seconds
+
+Trigger radius: 
+2.7 metres
+
+Loud Noise Notification
+ range (when tripped): 
+1,000 metres
+
+Tripped duration: 
+6 seconds
+
+Score Event
+ timer: 
+10 seconds
+
+If 
+The Hag
+ lands a hit on the Survivor who tripped the 
+Phantasm Trap
+ specifically or on any Survivor after teleporting to a 
+Phantasm Trap
+ within that timeframe, special 
+Score Events
+ are triggered.
+
+Post-Teleport Stun duration: 
+0.01 second
+
+This refers to the time during which 
+The Hag
+ cannot attack or move.
+
+Post-Teleport Slow-down duration: 
+1 second
+
+Tripped-Event range: 
+16 metres
+
+This is only used for 
+Survivor Bots
+ and refers to the maximum audible range at which they can detect a tripped 
+Phantasm Trap
+.
+
+Wipe-away time: 
+4 seconds
+
+Mud Phantasm:
+
+After spawning, 
+Mud Phantasms
+ keep their sight trained on whichever Survivor tripped their 
+Phantasm Trap
+, continuously rotating their Character model to adjust, causing 
+The Hag
+ to always face that Survivor, should she teleport to a tripped 
+Phantasm Trap
+.
+
+Fake Terror Radius range: 
+8 metres
+
+Light Vulnerability (obsolete):
+
+This mechanic was removed with 
+Patch 6.7.0
+.
+
+Burn time: 
+0.5 seconds
+
+At the time, this action was the only way for Survivors to remove placed 
+Phantasm Traps
+.
+
+Add-ons for Blackened Catalyst
+
+Icon
+
+Name
+
+Description
+
+Bog Water
+
+Murky water contained in a glass pill bottle from another time.
+
+Reduces
+ the Trigger range of 
+Phantasm Traps
+ by 
+-10 %
+.
+
+Dead Fly Mud
+
+A small lump of mud, black with the remains of flies.
+Devoured to increase stamina.
+
+Increases
+ the Teleport range to tripped 
+Phantasm Traps
+ by 
++10 %
+.
+
+Powdered Eggshell
+
+Minuscule eggshell fragments shimmering with a pale golden hue.
+
+Increases
+ the Tripped duration of 
+Phantasm Traps
+ by 
++20 %
+.
+
+Rope Necklet
+
+A rigid ornament worn around the neck made from dead plants.
+
+Increases
+ the Setting speed of 
+Phantasm Traps
+ by 
++10 %
+.
+
+Bloodied Water
+
+Tainted water contained in a folded water lily leaf.
+
+Reduces
+ the Trigger range of 
+Phantasm Traps
+ by 
+-20 %
+.
+
+Cypress Necklet
+
+A rigid ornament worn around the neck made from dead plants adorned with crudely attached cypress bark and swamp moss.
+
+Increases
+ the Setting speed of 
+Phantasm Traps
+ by 
++15 %
+.
+
+Dragonfly Wings
+
+A handful of yellowish wings, dry and crisp.
+Devoured to increase stamina.
+
+Increases
+ the Teleport range to tripped 
+Phantasm Traps
+ by 
++12.5 %
+.
+
+Half Eggshell
+
+One half of a perfectly round hollow eggshell.
+
+Increases
+ the Tripped duration of 
+Phantasm Traps
+ by 
++25 %
+.
+
+Pussy Willow Catkins
+
+A handful of small, pristine flower clusters covered in a fine greyish fur.
+
+The 
+Auras
+ of Survivors tripping 
+Phantasm Traps
+ are revealed to you for 
+3 seconds
+.
+
+Bloodied Mud
+
+A handful of mud with veins of deep crimson.
+
+The bloody layers empower the mud.
+
+Reduces
+ the Trigger range of 
+Phantasm Traps
+ by 
+-30 %
+.
+
+Cracked Turtle Egg
+
+A pale orange turtle egg, cracked and emptied of its content.
+
+Increases
+ the Tripped duration of 
+Phantasm Traps
+ by 
++30 %
+.
+
+Dried Cicada
+
+A large swamp cicada covered in a fine layer of ash; crispy.
+Devoured to increase stamina.
+
+Increases
+ the Teleport range to tripped 
+Phantasm Traps
+ by 
++15 %
+.
+
+Swamp Orchid Necklet
+
+A rigid ornament worn around the neck made from dead plants adorned with withered orchid petals and leaves.
+
+Increases
+ the Setting speed of 
+Phantasm Traps
+ by 
++20 %
+.
+
+Willow Wreath
+
+Three frail willow branches attached to form a triangular wreath.
+
+The 
+Auras
+ of Survivors tripping 
+Phantasm Traps
+ are revealed to you for 
+5 seconds
+.
+
+Disfigured Ear
+
+The cannibal village deaf boy's ear.
+Deformed due to several hits to the head.
+The trapped life essence within unlocks tremendous potential in The Hag's power:
+
+Triggering a 
+Phantasm Trap
+ inflicts the following effect on Survivors:
+
+Causes them to suffer from the 
+Deafened
+ 
+Status Effect
+ for 
+6 seconds
+.
+
+Grandma's Heart
+
+The cold heart of the cannibal village elder.
+The trapped life essence within unlocks tremendous potential in The Hag's power.
+
+Whenever Survivors trigger 
+Phantasm Traps
+, you benefit from the following effects for their tripped duration:
+
+Suppresses
+ your 
+Terror Radius
+.
+
+Increases
+ the 
+Fake Terror Radius
+ of the 
+Mud Phantasms
+ by 
++16 metres
+.
+
+"Bring me another slice of the girl." — Grandma
+
+Rusty Shackles
+
+Shackles once used to hold prisoners and carcasses in the cannibal village cellar.
+The trapped life essence within unlocks tremendous potential in The Hag's power.
+
+Suppresses
+ any indication to Survivors that they tripped 
+Phantasm Traps
+.
+
+Suppresses
+ the creation of 
+Mud Phantasms
+.
+
+Scarred Hand
+
+The cut up, severed hand of the cannibal village butcher.
+The trapped life essence within unlocks tremendous potential in The Hag's power.
+
+Grants collision with Survivors to both 
+Phantasm Traps
+ and the 
+Mud Phantasms
+.
+
+Grants 
++300 %
+ bonus Bloodpoints in the 
+Deviousness
+ Category.
+
+Disables your ability to teleport to tripped 
+Phantasm Traps
+.
+
+Scarred Hand
+ trumps all other Add-ons.
+
+"..." — The Butcher
+
+Mint Rag
+
+A small piece of cotton torn from the dress worn by Lisa Sherwood on the day she disappeared.
+The trapped life essence within unlocks tremendous potential in The Hag's power.
+
+Press the 
+Active Ability button
+ to teleport to any untripped 
+Phantasm Trap
+ anywhere in the environment.
+
+Mint Rag
+ has a cool-down of 
+10 seconds
+.
+
+Waterlogged Shoe
+
+A child's shoe, long lost in the bog's waters.
+The trapped life essence within unlocks tremendous potential in The Hag's power.
+
+Permanently increases
+ the default Movement speed by 
++7.5 %
+ to 
+4.73 m/s
+.
+
+Survivors suffer from a 
+-9 %
+ 
+Hindered
+ 
+Status Effect
+ within the Trigger range of 
+Phantasm Traps
+.
+
+Disables your ability to teleport to tripped 
+Phantasm Traps
+.
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There are 
+3
+ Achievements related to 
+The Hag
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Hag
+
+Playing as The 
+Hag
+, achieve a 
+Merciless Victory
+ using only her 
+3
+ Unique Perks: 
+Hex: The Third Seal
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"A Hex that hinders the Survivors' Aura-reading abilities."
+
+The last 
+2
+/
+3
+/
+4
+  Survivors you hit with a 
+Basic or Special Attack
+ suffer permanently from the 
+Blindness
+ 
+Status Effect
+.
+The 
+Hex Effects
+ persist until the 
+Hex Totem
+ is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.
+
+"She touched your skin, you bear the witch's mark!"
+
+, 
+Hex: Ruin
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"A Hex that affects the Generator Repair progress of all Survivors."
+
+All 
+Generators
+ not currently being repaired experience the following effect:
+
+Causes them to automatically regress at 
+100
+/
+125
+/
+150
+ 
+%
+ of the default Regression rate.
+
+The 
+Hex Effects
+ persist until the 
+Hex Totem
+ is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.
+
+"A curse is upon you. It will cause your ruin."
+
+, and 
+Hex: Devour Hope
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"A Hex rooting its power on hope.
+The false hope of Survivors ignites your hunger."
+
+Hex: Devour Hope
+ lights a 
+Hex Totem
+ at the start of the Trial, cursing Survivors with its 
+Hex Effects
+.
+Whenever a Survivor is unhooked at least 
+24 metres
+ from your location, 
+Hex: Devour Hope
+ gains 
++1 Token
+, up to a maximum of 
+5 Tokens
+:
+
+At 2 Tokens
+: 
+10 seconds
+ after hooking a Survivor, you are granted a 
+3
+/
+4
+/
+5
+ 
+%
+ 
+Haste
+ 
+Status Effect
+ for 
+10 seconds
+.
+
+At 3 Tokens
+: Afflicts all Survivors with the 
+Exposed
+ 
+Status Effect
+.
+
+At 5 Tokens
+: Unlocks the 
+Kill
+ ability, allowing you to kill dying Survivors by your own hands.
+
+The 
+Hex Effects
+ persist until the 
+Hex Totem
+ is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.
+
+"If you do nothing, you have their blood on your hands. If you save them, her hunger grows."
+
+.
+
+Triggered
+
+Playing as The 
+Hag
+, cause Survivors to trip your 
+Phantasm Traps
+ a total of 
+300 times
+ / 
+100 times
+ (
+For consoles
+) 
+.
+
+Even Punishment
+
+Playing as The 
+Hag
+, hit all Survivors at least once after teleporting to 
+Phantasm Traps
+ in a single Trial.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Hag
+:
+
+Base Cosmetics
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Muddy Dreadlock
+
+Common
+
+A dense and compact hairlock glued with mud.
+
+Lisa
+
+Common
+
+Dried skin and soul, deformed by an insatiable hunger for flesh.
+
+Ashen Claws
+
+Common
+
+A horridly overgrown deformity, clawing its way through flesh and bone.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Bloody Dreadlock
+
+Rare
+
+Dense and compact dreadlock glued with blood and guts.
+
+Prestige Level 6 Reward
+
+Bloody Lisa
+
+Rare
+
+Dripping with the blood of countless feasts.
+
+Prestige Level 5 Reward
+
+Bloody Claws
+
+Rare
+
+Horridly overgrown claws dripping with blood and gory chunks.
+
+Prestige Level 4 Reward
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+She exacted revenge against the swamp dwellers who imprisoned her in their cellar.
+
+Alternatives
+
+Special
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Event
+
+Frosty Eyes
+
+Uncommon
+
+Heart chilling eyes of the cold blooded.
+
+"Have a Wonderful Winter 2017-2018!" - The Dead by Daylight Team
+
+Winter Solstice 2017
+
+Sugared Claws
+
+Event
+
+Devastating claws with shards of sugar glass embedded in the skin.
+
+2 Hours Watch Reward of 
+Haunted by Daylight Livestream
+
+Event
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Collection
+
+Event
+
+Exclusive to Event Participation
+
+Crown of the Entity
+
+Event
+
+A crown emanating a festive and ominous aura created by the Entity's biggest fan.
+
+-
+
+Fourth Year Anniversary
+
+Yes
+
+5th Anniversary Crown
+
+Event
+
+A crown crafted for a very special anniversary.
+
+"Thank you for supporting & inspiring us along the years!" - The Dead by Daylight Team
+
+-
+
+Fifth Year Anniversary
+
+Yes
+
+Garland Talon
+
+Event
+
+A rotting garland of moss spread on the twisted and fractured claw.
+
+Bone Chill
+
+Bone Chill
+
+Yes
+
+Aquatic Visage
+
+Event
+
+Her face resembled a fish, her body almost human… a true horror from the depths.
+
+Tricks and Treats
+
+Haunted by Daylight
+ 
+Tome: Level 2
+
+Yes
+
+Foul Scales
+
+Event
+
+The smell alone was nearly enough to kill.
+
+Tricks and Treats
+
+Haunted by Daylight
+ 
+Tome: Level 1
+
+Yes
+
+Amphibious Claws
+
+Event
+
+Just as capable of rending flesh on land as they are at sea.
+
+Tricks and Treats
+
+Haunted by Daylight
+ 
+Tome: Level 2
+
+Yes
+
+Hag's Mask
+
+Event
+
+A mask she found herself wearing at the masquerade ball.
+
+Twisted Masquerade Collection
+
+Twisted Masquerade 2024
+
+Yes
+
+ Rift
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Verdant Outbreak
+
+Under the Night Sky
+
+Tome 5 - Unleashed
+
+11 November 2021 (Thursday)
+
+Description
+
+The rituals brought her closer to nature until, one day, she became one with it.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Overgrowth Affliction
+
+Under the Night Sky
+
+49
+
+Her head crawled with pain as sprouts twisted within, brightening her with leafy hues.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Overwatered
+
+Under the Night Sky
+
+67
+
+Vegetation grew deep within her husk, tearing her apart in a beautiful red and green glow.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Venus Grip
+
+Under the Night Sky
+
+59
+
+A sticky fluid oozed from her pores as her claw felt more like a merciless clamp.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+The Abomination
+
+Conviction
+
+Tome 4 - Conviction
+
+07 October 2021 (Thursday)
+
+Description
+
+Her grandmother warned her not to trifle with such power...
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Twin Terror
+
+Conviction
+
+42
+
+The mark of power carved into her forehead allowed her to access unnatural abilities, but with it came a repulsive transformation.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Teratoma
+
+Conviction
+
+31
+
+Something, or someone, grew within her, its bones protruding, limbs reaching for freedom from the prison of flesh.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Reach of Other
+
+Conviction
+
+17
+
+The ferocity of her claw was given new life by the tumorous growth that formed from it.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Unwitting Witness
+
+Entombed Remains
+
+Rift Pass 2 - Entombment
+
+21 April 2026 (Tuesday)
+
+Description
+
+She was still a child when she was awakened that night by angry voices and the sound of a door slamming.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Bare Cortex
+
+Entombed Remains
+
+40
+
+She peeked through the crack in the door at her parents and some villagers gathered around the kitchen table.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Perforated Skin
+
+Entombed Remains
+
+36
+
+Her eyes widened at the sight of bones on the table, arranged in a pattern she recognized immediately.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Fortified Claws
+
+Entombed Remains
+
+34
+
+The floorboards creaked beneath her feet, which got the adults’ attention. Terrified, she ran to her bed and hid under the covers.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Unwitting Witness (Deep Rift 1)
+
+Entombed Remains
+
+Rift Pass 2 - Entombment
+
+29 July 2025 (Tuesday)
+
+Description
+
+She was still a child when she was awakened that night by angry voices and the sound of a door slamming.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Bare Cortex (Deep Rift 1)
+
+Entombed Remains
+
+72
+
+She peeked through the crack in the door at her parents and some villagers gathered around the kitchen table.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Perforated Skin (Deep Rift 1)
+
+Entombed Remains
+
+75
+
+Her eyes widened at the sight of bones on the table, arranged in a pattern she recognized immediately.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Fortified Claws (Deep Rift 1)
+
+Entombed Remains
+
+79
+
+The floorboards creaked beneath her feet, which got the adults’ attention. Terrified, she ran to her bed and hid under the covers.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Unwitting Witness (Deep Rift 2)
+
+Entombed Remains
+
+Rift Pass 2 - Entombment
+
+29 July 2025 (Tuesday)
+
+Description
+
+She was still a child when she was awakened that night by angry voices and the sound of a door slamming.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Bare Cortex (Deep Rift 2)
+
+Entombed Remains
+
+89
+
+She peeked through the crack in the door at her parents and some villagers gathered around the kitchen table.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Perforated Skin (Deep Rift 2)
+
+Entombed Remains
+
+93
+
+Her eyes widened at the sight of bones on the table, arranged in a pattern she recognized immediately.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Fortified Claws (Deep Rift 2)
+
+Entombed Remains
+
+85
+
+The floorboards creaked beneath her feet, which got the adults’ attention. Terrified, she ran to her bed and hid under the covers.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Sapling Siren
+
+PHOTOSYNTHESIS
+
+Tome 2 - Reckoning
+
+06 January 2021 (Wednesday)
+
+Description
+
+The transformation into full plant creature is almost complete. Just a few more souls to produce the light and energy required…
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Exposed Floret (Grey / Blue)
+
+PHOTOSYNTHESIS
+
+52
+
+This compound arrangement across the head provides both, a hard outer covering as well as an attractive cluster of plant-based material.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Blooming Seed Core (Ice Blue)
+
+PHOTOSYNTHESIS
+
+59
+
+The seed core is the central component in converting light into the chemical energy required to perform the key functions of a plant creature.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Entangled Thorn (Light Purple / Ice Blue)
+
+PHOTOSYNTHESIS
+
+68
+
+A tangled mess of intertwined stems and shoots that have formed into a sharp, rigid spike. Like a root, it can drain and absorb liquid from whatever it is lodged in for long enough.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Delicate Garments
+
+Gold & Silk
+
+Tome 19 - Splendor
+
+12 June 2018 (Tuesday)
+
+Description
+
+Baubles and finery were hard to come by in her quaint little village.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Pearly Hair Wrap
+
+Gold & Silk
+
+3
+
+Her grandmother spoke of people in big cities who dressed in luxury every day.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Grandmother's Gown
+
+Gold & Silk
+
+14
+
+It was a family heirloom, passed down through the generations. It was meant to be hers one day.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Ringed Claw
+
+Gold & Silk
+
+7
+
+She saw something shiny embedded in the mud before everything went black.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Rouge Creature
+
+Tortured Souls
+
+Tome 22 - Anguish
+
+12 June 2018 (Tuesday)
+
+Description
+
+As a young girl, she thought she saw something lying in wait as she passed by the swamp.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Pondspawner
+
+Tortured Souls
+
+18
+
+Beneath a glistening lily pad, she thought she could see eyes staring back at her.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+In Flora
+
+Tortured Souls
+
+22
+
+She ran without looking back, even when she heard something burble out of the swampwater.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Barbed Pain
+
+Tortured Souls
+
+15
+
+It was only years later that she realized this had been a dark omen of things to come.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Bile Beldam
+
+CHEMOSYNTHESIS
+
+Tome 1 - Awakening
+
+12 June 2018 (Tuesday)
+
+Description
+
+She relished in the darkness of the swamp, growing stronger as days turned into an endless night.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Venom Veins
+
+CHEMOSYNTHESIS
+
+52
+
+Exterior veins have developed across the surface of the skin, most likely supporting the twisted, snake-like protrusions from the side of the skull.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Toxic Talon
+
+CHEMOSYNTHESIS
+
+33
+
+The talon supports both, the injection of poisons and toxins, as well as the removal of liquids, such as blood.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Unwitting Witness (Deep Rift 3)
+
+Entombed Remains
+
+Rift Pass 2 - Entombment
+
+29 July 2025 (Tuesday)
+
+Description
+
+She was still a child when she was awakened that night by angry voices and the sound of a door slamming.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Bare Cortex (Deep Rift 3)
+
+Entombed Remains
+
+97
+
+She peeked through the crack in the door at her parents and some villagers gathered around the kitchen table.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Perforated Skin (Deep Rift 3)
+
+Entombed Remains
+
+97
+
+Her eyes widened at the sight of bones on the table, arranged in a pattern she recognized immediately.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Fortified Claws (Deep Rift 3)
+
+Entombed Remains
+
+97
+
+The floorboards creaked beneath her feet, which got the adults’ attention. Terrified, she ran to her bed and hid under the covers.
+
+Piece
+
+Name
+
+Tome
+
+Rift Tier
+
+Dreaded Husks
+
+Tome 3 - Escalation
+53
+
+These spurs are hardened outgrowths protruding from the skull. They resemble the horns of the unfortunate wildlife that have found themselves trapped in the swamps.
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Weathered Crone
+
+HAG ABERRATIONS
+
+12 June 2018 (Tuesday)
+
+Description
+
+A misshapen, discolored swamp creature, with a deadly claw for a hand.
+
+135
+
+2700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Crusty Dreadlock (Corrupted)
+
+HAG ABERRATIONS
+
+Dense and compact dreads caked in dried mud.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Withered Flesh (Corrupted)
+
+HAG ABERRATIONS
+
+Dried skin and broken soul. Only a burning hunger remains.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Ashen Claw (Corrupted)
+
+HAG ABERRATIONS
+
+A horridly overgrown deformity, breaking through flesh and bone to form a vicious claw-like weapon.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Weathered Crone
+
+HAG ABERRATIONS
+
+12 June 2018 (Tuesday)
+
+Description
+
+A misshapen, discolored swamp creature, with a deadly claw for a hand.
+
+135
+
+2700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Crusty Dreadlock (Muddied)
+
+HAG ABERRATIONS
+
+Dense and compact dreads caked in dried mud.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Withered Flesh (Muddied)
+
+HAG ABERRATIONS
+
+Dried skin and broken soul. Only a burning hunger remains.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Ashen Claw (Muddied)
+
+HAG ABERRATIONS
+
+A horridly overgrown deformity, breaking through flesh and bone to form a vicious claw-like weapon.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Weathered Crone
+
+HAG ABERRATIONS
+
+12 June 2018 (Tuesday)
+
+Description
+
+A misshapen, discolored swamp creature, with a deadly claw for a hand.
+
+135
+
+2700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Crusty Dreadlock (Splintered)
+
+HAG ABERRATIONS
+
+Dense and compact dreads caked in dried mud.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Withered Flesh (Splintered)
+
+HAG ABERRATIONS
+
+Dried skin and broken soul. Only a burning hunger remains.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Ashen Claw (Splintered)
+
+HAG ABERRATIONS
+
+A horridly overgrown deformity, breaking through flesh and bone to form a vicious claw-like weapon.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Weathered Crone
+
+HAG ABERRATIONS
+
+12 June 2018 (Tuesday)
+
+Description
+
+A misshapen, discolored swamp creature, with a deadly claw for a hand.
+
+135
+
+2700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Crusty Dreadlock (Tortured)
+
+HAG ABERRATIONS
+
+Dense and compact dreads caked in dried mud.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Withered Flesh (Tortured)
+
+HAG ABERRATIONS
+
+Dried skin and broken soul. Only a burning hunger remains.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Ashen Claw (Tortured)
+
+HAG ABERRATIONS
+
+A horridly overgrown deformity, breaking through flesh and bone to form a vicious claw-like weapon.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Weathered Crone
+
+HAG ABERRATIONS
+
+12 June 2018 (Tuesday)
+
+Description
+
+A misshapen, discolored swamp creature, with a deadly claw for a hand.
+
+135
+
+2700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Crusty Dreadlock (Twisted)
+
+HAG ABERRATIONS
+
+Dense and compact dreads caked in dried mud.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Withered Flesh (Twisted)
+
+HAG ABERRATIONS
+
+Dried skin and broken soul. Only a burning hunger remains.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Ashen Claw (Twisted)
+
+HAG ABERRATIONS
+
+A horridly overgrown deformity, breaking through flesh and bone to form a vicious claw-like weapon.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Weathered Crone
+
+HAG ABERRATIONS
+
+12 June 2018 (Tuesday)
+
+Description
+
+A misshapen, discolored swamp creature, with a deadly claw for a hand.
+
+135
+
+2700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Crusty Dreadlock (Vile)
+
+HAG ABERRATIONS
+
+Dense and compact dreads caked in dried mud.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Withered Flesh (Vile)
+
+HAG ABERRATIONS
+
+Dried skin and broken soul. Only a burning hunger remains.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Ashen Claw (Vile)
+
+HAG ABERRATIONS
+
+A horridly overgrown deformity, breaking through flesh and bone to form a vicious claw-like weapon.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Verdant Outbreak
+
+Under the Night Sky
+
+Tome 5 - Unleashed
+
+11 November 2021 (Thursday)
+
+Description
+
+The rituals brought her closer to nature until, one day, she became one with it.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Overgrowth Affliction
+
+Under the Night Sky
+
+49
+
+Her head crawled with pain as sprouts twisted within, brightening her with leafy hues.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Overwatered
+
+Under the Night Sky
+
+67
+
+Vegetation grew deep within her husk, tearing her apart in a beautiful red and green glow.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Venus Grip
+
+Under the Night Sky
+
+59
+
+A sticky fluid oozed from her pores as her claw felt more like a merciless clamp.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Birch Twigs
+
+WICKED BREWER
+
+18 September 2018 (Tuesday)
+
+Description
+
+As days go by, she becomes the wilderness.
+
+180
+
+3600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Stumpy Dreads (Chalky)
+
+WICKED BREWER
+
+Tangled dreads marred with soil and clay.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Rooted Limbs (Chalky)
+
+WICKED BREWER
+
+Starved limbs striving to find a source of light.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Red Sap
+
+WICKED BREWER
+
+18 September 2018 (Tuesday)
+
+Description
+
+As days go by, she becomes the wilderness.
+
+180
+
+3600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Stumpy Dreads (Marrow)
+
+WICKED BREWER
+
+Tangled dreads marred with sap and clay.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Rooted Limbs (Marrow)
+
+WICKED BREWER
+
+Starved limbs striving to find a source of light.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Wood Witch
+
+PETRIFICATION
+
+12 June 2018 (Tuesday)
+
+Description
+
+As old as the forest itself. A fossil. A preserved shell. The petrification process has begun. Only the blood of the living can reverse it.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Ashen Locks
+
+PETRIFICATION
+
+A tightly wrapped ponytail of pale, brittle braids.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Ragged Red Dress
+
+PETRIFICATION
+
+The remains of what was once an elegant dress. It is now covered in dust, dirt, and dried blood.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Fossilized Barb
+
+PETRIFICATION
+
+Petrification has affected the limb significantly. Now it is used to siphon liquids from other organic materials for sustenance.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+The Abomination
+
+Conviction
+
+Tome 4 - Conviction
+
+07 October 2021 (Thursday)
+
+Description
+
+Her grandmother warned her not to trifle with such power...
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Twin Terror
+
+Conviction
+
+42
+
+The mark of power carved into her forehead allowed her to access unnatural abilities, but with it came a repulsive transformation.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Teratoma
+
+Conviction
+
+31
+
+Something, or someone, grew within her, its bones protruding, limbs reaching for freedom from the prison of flesh.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Reach of Other
+
+Conviction
+
+17
+
+The ferocity of her claw was given new life by the tumorous growth that formed from it.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Swamp Creature
+
+Tricks and Treats
+
+18 October 2023 (Wednesday)
+
+Description
+
+She emerged from the foul dark marshes, stinking of algae and rot… something from a lost realm had changed her.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Aquatic Visage
+
+Tricks and Treats
+
+Her face resembled a fish, her body almost human… a true horror from the depths.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Foul Scales
+
+Tricks and Treats
+
+The smell alone was nearly enough to kill.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Amphibious Claws
+
+Tricks and Treats
+
+Just as capable of rending flesh on land as they are at sea.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Unwitting Witness
+
+Entombed Remains
+
+Rift Pass 2 - Entombment
+
+21 April 2026 (Tuesday)
+
+Description
+
+She was still a child when she was awakened that night by angry voices and the sound of a door slamming.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Bare Cortex
+
+Entombed Remains
+
+40
+
+She peeked through the crack in the door at her parents and some villagers gathered around the kitchen table.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Perforated Skin
+
+Entombed Remains
+
+36
+
+Her eyes widened at the sight of bones on the table, arranged in a pattern she recognized immediately.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Fortified Claws
+
+Entombed Remains
+
+34
+
+The floorboards creaked beneath her feet, which got the adults’ attention. Terrified, she ran to her bed and hid under the covers.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Mud Medusa
+
+CHEMOSYNTHESIS
+
+08 August 2018 (Wednesday)
+
+Description
+
+The veined Medusa has relished in the darkness of the swamp, growing stronger and stronger, day by day.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Crone Spurs
+
+CHEMOSYNTHESIS
+
+These spurs are hardened outgrowths protruding from the skull. They resemble the horns of the unfortunate wildlife that have found themselves trapped in the swamps.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Gorgon Veins
+
+CHEMOSYNTHESIS
+
+Exterior veins have developed across the surface of the skin, most likely supporting the twisted, snake-like protrusions from the side of the skull.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Veined Talon
+
+CHEMOSYNTHESIS
+
+The talon supports both, the injection of poisons and toxins, as well as the removal of liquids, such as blood.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Scorched Harvester
+
+Hallowed Catalyst
+
+09 October 2019 (Wednesday)
+
+Description
+
+She escaped when a charm of strength buried within her was ignited by the serum.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Ember Locks
+
+Hallowed Catalyst
+
+Her charred dreads could not cover the painful, serum-filled blisters on her head.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Molten Limbs
+
+Hallowed Catalyst
+
+Her organs melted and fused into a burning mass.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Calcified Talons
+
+Hallowed Catalyst
+
+The serum turned her flesh into hardened thorns.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Sapling Siren
+
+PHOTOSYNTHESIS
+
+12 June 2018 (Tuesday)
+
+Description
+
+The transformation into full plant creature is almost complete. Just a few more souls to produce the light and energy required…
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Exposed Floret
+
+PHOTOSYNTHESIS
+
+This compound arrangement across the head provides both, a hard outer covering as well as an attractive cluster of plant-based material.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Blooming Seed Core
+
+PHOTOSYNTHESIS
+
+This hybrid reaction is also the start of the reproductive process, causing new, unexpected plant life to form.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Entangled Thorn
+
+PHOTOSYNTHESIS
+
+A tangled mess of intertwined stems and shoots that have formed into a sharp, rigid spike. Like a root, it can drain and absorb liquid from whatever it is lodged in for long enough.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Sapling Siren
+
+PHOTOSYNTHESIS
+
+Tome 2 - Reckoning
+
+06 January 2021 (Wednesday)
+
+Description
+
+The transformation into full plant creature is almost complete. Just a few more souls to produce the light and energy required…
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Exposed Floret (Grey / Blue)
+
+PHOTOSYNTHESIS
+
+52
+
+This compound arrangement across the head provides both, a hard outer covering as well as an attractive cluster of plant-based material.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Blooming Seed Core (Ice Blue)
+
+PHOTOSYNTHESIS
+
+59
+
+The seed core is the central component in converting light into the chemical energy required to perform the key functions of a plant creature.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Entangled Thorn (Light Purple / Ice Blue)
+
+PHOTOSYNTHESIS
+
+68
+
+A tangled mess of intertwined stems and shoots that have formed into a sharp, rigid spike. Like a root, it can drain and absorb liquid from whatever it is lodged in for long enough.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Snake Charmer
+
+The Road Less Traveled
+
+28 August 2019 (Wednesday)
+
+Description
+
+Reeking of blood and rotting serpent meat, there’s the husk of a woman somewhere beneath it.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Fangtasmagoria
+
+The Road Less Traveled
+
+Ornamented of bone and blood, with teeth formed of the serpent. The result of one whose humanity has long been lost to rage and revenge.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Slithering Den
+
+The Road Less Traveled
+
+Wrapped in the remains of a boa constrictor, teeming with filth and moss—that which the swamp provides shall never be returned.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Voracious Talon
+
+The Road Less Traveled
+
+Squeezed tight by the body of a snake, moss grows fat on the twisted, fractured claw.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Black Widow
+
+Days Gone By
+
+01 October 2024 (Tuesday)
+
+Description
+
+Her little cellar was home to many dangerous creatures. She imagined joining them, learning their ways.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Gaping Maw
+
+Days Gone By
+
+She imagined looking down from the ceiling, her many eyes blinking as she watched her captors enter the room.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Arachnid Agility
+
+Days Gone By
+
+She would scurry softly along the ceiling, ambushing them when there was no chance of escape.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Venomous Claw
+
+Days Gone By
+
+She would feel the life drain from them slowly, painfully, until they stopped fighting back.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Queen of the Mire
+
+Gold & Silk
+
+09 August 2019 (Friday)
+
+Description
+
+One of the many possible lives denied to Lisa Sherwood by her captors.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Hair Rings
+
+Gold & Silk
+
+The mud has been wiped away and the Hag's hair is held off her face with rings and clips.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Tattered Silk Dress
+
+Gold & Silk
+
+The dress has seen better days, but still retains a semblance of the beauty that it once possessed, much like its wearer.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Golden Bands
+
+Gold & Silk
+
+Ornate bands, carved with symbols of power, encircle her talon.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+The Birch Witch
+
+The Crypt TV
+
+04 May 2021 (Tuesday)
+
+Description
+
+The wind blew and whispered, a warm breath that stirred an ancient power within her.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Knotted Crown
+
+The Crypt TV
+
+Damp soil grumbled, and roots sprung from the ground.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Bark Crust
+
+The Crypt TV
+
+A deep outrage surged and stiffened her body, transforming her limbs into a hard, crust.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Gnarled Talon
+
+The Crypt TV
+
+Her bond with nature empowered her to tear her assailants apart.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Fetid Bloom
+
+Forgotten Garden
+
+21 May 2024 (Tuesday)
+
+Description
+
+Her body lay in a foul swamp for what felt like ages, straddling the blurry line between dream and reality.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Lilypad Cap
+
+Forgotten Garden
+
+The local flora took its nutrients from her, just as her captors once had.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Marsh Blossoms
+
+Forgotten Garden
+
+Instead of simply being sapped, she found ways to take power back. A grim symbiosis.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Backwater Sting
+
+Forgotten Garden
+
+There was a wretched, violent beauty in the thing that she had become.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Toxic Roots
+
+Visions Of The Future
+
+05 September 2023 (Tuesday)
+
+Description
+
+Her body was exposed to foreign organisms in a deadly realm.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Oozing Bulb
+
+Visions Of The Future
+
+Pollen continued to seep from the growth on her head.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Gnawed Wood
+
+Visions Of The Future
+
+Insects had burrowed their way through her emaciated body.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Wooden Clamps
+
+Visions Of The Future
+
+A lethal claw produced by a merciless nature.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Bile Beldam
+
+CHEMOSYNTHESIS
+
+Tome 1 - Awakening
+
+12 June 2018 (Tuesday)
+
+Description
+
+She relished in the darkness of the swamp, growing stronger as days turned into an endless night.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Venom Veins
+
+CHEMOSYNTHESIS
+
+52
+
+Exterior veins have developed across the surface of the skin, most likely supporting the twisted, snake-like protrusions from the side of the skull.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Toxic Talon
+
+CHEMOSYNTHESIS
+
+33
+
+The talon supports both, the injection of poisons and toxins, as well as the removal of liquids, such as blood.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Family Knowledge
+
+Holiday Horror
+
+14 December 2023 (Thursday)
+
+Description
+
+Her grandmother used to teach her survival lessons during long walks in the woods.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Wooden Charm
+
+Holiday Horror
+
+Her grandmother taught her how to create wooden charms out of twigs and branches.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Wooden Ribcage
+
+Holiday Horror
+
+Her grandmother told her a story of a moss-covered woman with a glowing heart.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Piercing Thorn
+
+Holiday Horror
+
+The moss-covered woman had limbs like tree branches and a rough grip.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Scaly Grip
+
+Blood Moon
+
+Her skin took on an inhuman, almost reptilian texture; she marveled at the claws that emerged from her fingertips.
+
+250
+
+Piece
+
+Name
+
+Collection
+
+Sugared Claws
+
+Tricks and Treats
+
+Devastating claws with shards of sugar glass embedded in the skin.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Garland Talon
+
+A rotting garland of moss spread on the twisted and fractured claw.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Hag's Mask
+
+Twisted Masquerade
+
+A mask she found herself wearing at the masquerade ball.
+
+400
+
+7200
+
+Alternate Character Models
+
+The Hag
+ has 
+1
+ alternate Character model available in the in-game Store:
+
+The 
+Birch
+ (Costume)
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Hag
+ is part of 
+3
+ DLCs:
+
+Chapter DLC:
+
+Of Flesh and Mud
+ (
+retired
+)
+
+Pack DLCs:
+
+Maddening Darkness Pack
+ (Chapter Pack)
+
+Terror Expansion Pack
+ (Character Pack)
+
+History
+
+Light Vulnerability
+
+Up to 
+Patch 6.7.0
+, 
+The Hag's
+ 
+Phantasm Traps
+ were vulnerable to bright lights:
+
+Shining 
+Flashlights
+ near 
+Phantasm Traps
+ would reveal their 
+Aura
+ to the Survivor.
+
+Shining 
+Flashlights
+ directly at 
+Phantasm Traps
+ or detonating 
+Firecrackers
+ or 
+Flash Grenades
+ near them would destroy them.
+
+Destroying a 
+Phantasm Trap
+ notified 
+The Hag
+ with a 
+Loud Noise Notification
+.
+
+Change Log
+
+Patch 1.5.0
+Patch 1.9.3
+Patch 2.0.0
+Patch 2.1.0
+Patch 2.2.0
+Patch 2.3.0
+Patch 6.3.0
+Patch 6.7.0
+Patch 7.3.0
+Patch 1.5.0
+
+Buff
+: reduced 
+Phantasm Trap
+ Setting phases 1 and 3 from 
+2 seconds
+ each to 
+1 second
+ each.
+
+Nerf
+: 
+Phantasm Traps
+ no longer trigger when Survivors crouch in their trigger area.
+
+Nerf
+: 
+Bloodlust
+ is now reset when teleporting to a tripped 
+Phantasm Trap
+.
+Patch 1.9.3
+
+Buff
+: reduced her 
+Terror Radius
+ from 
+28 metres
+ to 
+24 metres
+.
+Patch 2.0.0
+
+Quality of Life
+: fixed an issue that caused 
+The Hag
+ to vault more slowly than other Killers.
+Patch 2.1.0
+
+Buff
+: reduced 
+Phantasm Trap
+ Setting phases 1 and 3 from 
+1 second
+ each to 
+0.5 seconds
+ each.
+
+Buff
+: reduced 
+Phantasm Trap
+ Setting phase 2 from 
+2 seconds
+ to 
+1 second
+.
+
+Buff
+: increased her Teleport range from 
+32 metres
+ to 
+40 metres
+.
+
+Change
+: revisited all of her 
+Add-ons
+.
+Patch 2.2.0
+
+Quality of Life
+: standardised the 
+Lunge
+ mechanic so that 
+4.4 m/s
+ Killers now lunge at the same speed as 
+4.6 m/s
+ Killers.
+Patch 2.3.0
+
+Quality of Life
+: reduced the footstep audio.
+Patch 6.3.0
+
+Change
+: 
+The Hag
+ now features a unique Menu Music, 
+Terror Radius
+ and Chase Music.
+Patch 6.7.0
+
+Buff
+: removed the ability of 
+Flashlights
+ to burn 
+Phantasm Traps
+.
+
+Nerf
+: added an interaction for Survivors to manually wipe them away instead.
+Patch 7.6.0
+
+Buff
+: increased the Teleportation distance from 
+40 metres
+ to 
+48 metres
+.
+
+Buff
+: reduced the Trap Setting time (Phase 2) from 
+1 second
+ to 
+0.9 seconds
+.
+
+Buff
+: increased the Trigger duration from 
+5 seconds
+ to 
+6 seconds
+.
+
+Buff
+: increased Wipe-away duration from 
+3.5 seconds
+ to 
+4 seconds
+.
+
+Buff
+: reduced the Trigger range from 
+3 metres
+ to 
+2.7 metres
+.
+
+This change was motivated by an increased range (especially when using certain Add-ons) being counter-productive, as it would place a teleported 
+Hag
+ further away from fleeing Survivors.
+
+Trivia
+
+General
+
+The Hag
+ was the second female Killer.
+
+The Hag
+ was the second Killer with the ability to teleport.
+
+The Hag
+ was the second Killer to place traps.
+
+The Hag's
+ voice sounds like high pitched distorted gurgling.
+
+The Hag
+ was the first Killer to not attack with an actual weapon, but instead using her massive claw.
+
+The Hag
+ is Mathieu Cotés favorite Killer to play.
+[
+1
+]
+
+The Hag
+ was the first Killer whose Perks could be permanently disabled by the Survivors after cleansing their associated 
+Totems
+.
+
+The Hag
+ is one of few Killers to break 
+Pallets
+ and damage 
+Generators
+ with their own hand.
+
+The Hag
+ is one of few Killers to have a unique Hatch-closing animation.
+
+Unlike most other Killers at the time, 
+The Hag
+ did not step through 
+Windows
+, but rather jumped through them, a mechanic now shared by most Killers of average height.
+
+The Hag's
+ 
+Phantasms
+ always wear the same customisation option as 
+The Hag
+ herself.
+
+The Hag
+ was leaked a couple of weeks prior to her release due to the new 
+Daily Rituals
+ already having been assigned to some players.
+
+Cosmetics
+
+ 
+The Hag
+ as 
+"The Birch"
+
+The Hag's
+ 
+Very Rare Outfit
+, 
+"The Birch"
+, is a character from the 
+Crypt TV short-film
+ of the same name.
+
+"The Birch"
+ is a vengeful protector living in a forest, protecting people with love in their hearts from those who threaten their safety upon being summoned.
+
+Development
+
+Shortly before 
+The Hag
+ released, the game files contained a fully functional prototype of her Power:
+
+The Developers gave it a temporary name, as well as a funny description: 
+Phantom Trap - Scare the dude. Teleport to the thing.
+
+General description of the prototype Power:
+
+Pressing the 
+Power button
+ would instantly spawn a Phantom Trap infront of the Killer, which used a beer bottle as it's model as a placeholder. Only 3 Phantom Traps could exist at once, spawning more caused the oldest trap to despawn.
+
+Triggering the Phantom Trap spawned The 
+Trapper
+'s body model performing the stun animation for a couple of seconds at the position of the Trap and revealed the Survivor's aura. Survivors have collision with the triggered Trap.
+
+The Killer could instantly teleport to the triggered Trap from any distance by pressing the 
+Secondary Power
+ button.
+
+Internally, 
+The Hag
+ is referred to as 
+K05
+ (Killer 05, fifth Killer), which, in theory, should belong to The 
+Shape
+ instead.
+
+This is because 
+The Hag
+ was being actively developed before 
+The Shape
+ had entered development. As such, he is referred to as 
+K06
+ (Killer 06, sixth Killer).
+
+Memento Mori
+
+The Hag
+ was the first Killer whose Memento Mori animation takes place in third person rather than from her own perspective.
+
+Her Memento Mori further confirms that she is heavily based on the 
+Wendigo
+, an Algonquian myth that says those who commit cannibalism will become possessed by spirits, deformed and eventually turn insane.
+
+Name
+
+The English name Lisa, a shortened version of Elizabeth, means "God's oath; God's promise" or "consecrated to God."
+
+Sherwood is of Old English origin and means "from the bright forest" or "bright forest"; in Celtic, it means "wild."
+
+Sherwood is also the name of the forest in which the legendary outlaw Robin Hood made his home
+[
+2
+]
+.
+
+Gallery
+
+For more go to the 
+Hag's Gallery
+
+In-game Assets
+
+The Hag
+
+The Hag (Portrait render)
+
+The Hag (Background image)
+
+The Hag model
+
+Hag's trap
+
+Official Art
+
+The Hag
+
+Old Assets
+
+The Hag's previous portrait
+
+Concept Art
+
+'Queen of the Mire' Concept Art
+
+'The Abomination' Concept Art
+
+'Toxic Roots' Concept Art
+
+'Family Knowledge' Concept Art
+
+Screenshots
+
+The Hag
+
+Ditto
+
+And again
+
+The Hag vaulting a window
+
+The Hag performing her mori on 
+Meg
+ as she tries to escape
+
+The Hag on the main menu
+
+The Hag performing her mori on 
+Laurie Strode
+
+The Hag carrying 
+Claudette
+
+The Hag teleporting behind Meg
+
+The Hag feeding
+
+References
+
+↑
+ 
+https://youtu.be/qLZpP4FnPwg?si=YIsUAW0tcjkHI3tq
+ Interview Mathieu Coté
+
+↑
+ 
+https://en.wikipedia.org/wiki/Robin_Hood#Sherwood_Forest
+ Sherwood Forest. Access: 11 April 2026
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

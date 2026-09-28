@@ -1,0 +1,4981 @@
+# Rin Yamaoka
+Source: https://deadbydaylight.wiki.gg/wiki/Rin_Yamaoka (page complète via API, consultée le 27/09/2026)
+
+She inherited incredible fury from her ancestors. The wrath that flows through her veins is her legacy. The terrible pain she suffered set it off. Swift and lethal, The Spirit exacts her revenge endlessly.
+
+~ 
+Unknown (Potentially 
+Benedict Baker
+)
+
+The Spirit
+
+Name
+
+Rin Yamaoka
+
+Gender
+
+Woman
+
+Origin
+
+Japanese
+
+Realm
+
+Yamaoka Estate
+
+Power
+
+Yamaoka's Haunting
+
+Power 
+Attack
+ Type
+
+Basic Attack
+
+Weapon
+
+Shattered Katana
+
+Movement Speed
+
+110 % 
+|
+ 4.4 m/s
+
+Alternate Movement speed
+
+176 % 
+|
+ 7.04 m/s
+(Phase-Walk)
+
+Terror Radius
+
+24 metres
+
+Height 
+
+Average
+
+DLC
+
+Shattered Bloodline
+
+Voice Actor
+
+Gabrielle Murphy (BHVR)
+
+Cost
+
+2,250 
+Iridescent Shards
+
+125 
+Auric Cells
+
+Breathing
+
+Menu Music
+
+Terror Radius Music
+
+Metadata
+
+CharID
+
+K13
+
+Rin Yamaoka
+ (Japanese: 山岡 凜) or 
+"The Spirit"
+ is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+She was introduced as the Killer of 
+Shattered Bloodline
+, a Chapter DLC released on 18 September 2018 and retired on 8 January 2024.
+
+She is still available in the 
+In-Game Store
+ and as part of the 
+Maddening Darkness Pack
+ Chapter Pack DLC.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+2.1
+ 
+The Archives
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: Shattered Katana
+
+3.3
+ 
+Power: Yamaoka's Haunting
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for Yamaoka's Haunting
+
+3.5
+ 
+Innate Skill
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Base Cosmetics
+
+5.1.1
+ 
+Default
+
+5.1.2
+ 
+Prestige
+
+5.1.2.1
+ 
+Perk Charms
+
+5.1.2.2
+ 
+Prestige Badges
+
+5.2
+ 
+Alternatives
+
+5.2.1
+ 
+Special
+
+5.2.2
+ 
+Event
+
+5.3
+ 
+Rift
+
+5.4
+ 
+In-Game Store
+
+5.5
+ 
+Alternate Character Models
+
+6
+ 
+DLC
+
+7
+ 
+History
+
+7.1
+ 
+Light Vulnerability
+
+8
+ 
+Change Log
+
+9
+ 
+Trivia
+
+9.1
+ 
+General
+
+9.2
+ 
+Development
+
+9.3
+ 
+Lore
+
+9.4
+ 
+Voice Actress
+
+10
+ 
+Gallery
+
+10.1
+ 
+In-game Assets
+
+10.2
+ 
+Old Assets
+
+10.3
+ 
+Outfits
+
+10.4
+ 
+Concept Art
+
+Overview
+
+While using her Yamaoka’s Haunting Power, both The Spirit and Survivors cannot be seen by one another. Instead, Survivors are revealed by their Scratch Marks, breathing, and interactions with the environment. Each chase becomes a battle of wits, a duel where only the sharpest mind-games prevail.
+
+The Spirit
+ is a phase-walking Killer, able to catch Survivors off-guard with her traversal Power, 
+Yamaoka's Haunting
+. Her Power allows her to teleport from one place to another without being seen.
+
+Her personal Perks, 
+Spirit Fury
+, 
+Hex: Haunted Ground
+, and 
+Rancor
+, give her tools to observe and bait Survivors, and deal with obstacles directly in her path.
+
+She inherited incredible fury from her ancestors. The wrath that flows through her veins is her legacy. The terrible pain she suffered set it off. Swift and lethal, The Spirit exacts her revenge endlessly.
+
+Lore
+
+Rin was the only child of the Yamaoka family. She was raised in the dusty halls of a traditional house in Kagawa. She studied Education at Takamatsu, a private university, which weighed heavily on her family's shaky finances. Her mother got ill that year and the bills started piling up. Rin worked part-time in a futile attempt to help lighten the load.
+
+Her father faced a debt that grew without end. He started working double-shifts in hopes of obtaining a promotion. That's when he started losing sleep. A dark whisper would keep him awake all night, reminding him of his hopeless situation. Exhausted, he started to lose grasp of reality. Fighting to deny what the voice whispered at night, Rin's father made a desperate move. He met with his superior and explained his situation. He begged for a bonus, an advance, time-off---anything.
+
+His request was denied. The company had launched a defective production line that was costing them dearly. Someone had to be held accountable and Rin's father fitted the bill perfectly. He was fired after twenty-two years of service.
+
+That evening, Rin came home from work. She'd stayed late to entertain customers that lingered at the restaurant. As she parked her bike in the shed, she heard her mother's scream come from the house.
+
+She rushed in, climbing up the stairs to her parents' room. There she found bits and pieces of her mother on the floor. Her limbs were clean-cut, tangled up in an unnatural position. Her breasts were sliced up, revealing her rib cage, which was cracked open. Rin gagged.
+
+A sharp Katana came crashing down. Rin blocked the blade, which bit into her bare forearm. The shock of recognition interrupted her pain: her father was wielding the Katana with a stoic expression. She cried out to make him stop, but he slashed her arm again.
+
+She rushed off and slid on the blood-smeared floor. Using the door frame as support, she raised herself up. The Katana ripped through the wall, cleaving her other arm. She screamed in pain as she limped into the hallway, only to be met by her father's blade.
+
+She stepped back, trembling, as she held together the soft loose flesh of her abdomen. Images of her mother's tangled limbs flashed before her eyes.
+
+Rin charged at her father, making him stumble back. He punched her torn abdomen and she recoiled in pain. As she struggled to get back up, he slashed her thigh, making her collapse on the floor.
+
+As she crawled towards the stairs, he grabbed her hair and yanked her against a partition. The glass shattered on impact and she fell through, landing one floor down.
+
+She heard footsteps somewhere above her. With effort, she moved, worming her way into a sea of broken glass. The shards gnawed at her, ripping her flesh. He had to be stopped. He would not get away with what he'd done to her--with what he'd done to her mother.
+
+Coughing up blood, her chin grazed the glass, adding to the bleeding. A low-pitched heartbeat started to ring in her ears. Her body felt so heavy she could no longer move.
+
+The ground shook with her father's footsteps. She knew she was not going to make it, but she no longer cared. She would make him pay, in this life or the next.
+
+A dark Fog slowly veiled her eyes, but it could not subdue her rage. She would not rest--not yet. The darkness whispered, promising blood and revenge.
+
+An oath was made and Rin closed her eyes.
+
+The Archives
+
+The table below lists additional Lore about 
+The Spirit
+ from 
+The Archives
+, either from 
+Tomes
+ that featured her or from individual Lore entries that mentioned her:
+
+Tome
+
+Entry
+
+Type
+
+Tome 2 - Reckoning
+
+Steeped in Blood
+
+Featured Character
+
+Tome 20 - Mythic
+
+Memory Fragments
+
+Featured Character
+
+Load-out
+
+Unique Perks
+
+Yamaoka's Haunting
+ comes with 
+3
+ 
+Perks
+ that are unique to her:
+
+ 
+
+Hex: Haunted Ground
+
+Hex: Haunted Ground
+ lights 
+2
+ 
+Hex Totems
+ at the start of the Trial, laying a trap for Survivors.
+Blessing or cleansing either 
+Hex Totem
+ trips the trap and triggers the following effect:
+
+Causes all Survivors to suffer from the 
+Exposed
+ 
+Status Effect
+ for 
+40
+/
+50
+/
+60
+ 
+seconds
+.
+
+Hex: Haunted Ground
+ extinguishes the second 
+Hex Totem
+ after tripping its trap.
+Hex: Haunted Ground
+ is disabled for the remainder of the Trial after triggering its effect.
+
+"Her home become profane."
+
+ 
+
+Rancor
+
+Whenever a 
+Generator
+ is completed, 
+Rancor
+ triggers its primary effects:
+
+Causes all Survivors to scream and trigger a 
+Loud Noise Notification
+ at their current location.
+
+This effect lingers for 
+3 seconds
+.
+
+Your 
+Aura
+ is revealed to the 
+Obsession
+ for 
+5
+/
+4
+/
+3
+ 
+seconds
+.
+
+Once the 
+Exit Gates
+ are powered, 
+Rancor
+ additionally triggers its secondary effects on the 
+Obsession
+:
+
+Inflicts the 
+Exposed
+ 
+Status Effect
+ for the remainder of the Trial.
+
+Grants the ability to kill them when in close proximity.
+
+You can only be 
+obsessed
+ with one Survivor at a time.
+
+ 
+
+Spirit Fury
+
+"Each obstacle you break magnifies the wrath of The Entity."
+
+After manually breaking a total of 
+4
+/
+3
+/
+2
+  dropped 
+Pallets
+ by any means, 
+Spirit Fury
+ activates:
+
+Instantly breaks the next 
+Pallet
+ used by a Survivor to stun you.
+
+Spirit Fury
+ deactivates after use and does not affect the duration of the 
+Pallet Stun
+.
+
+"Fury is her blood."
+
+Prestige
+
+Prestiging 
+The Spirit
+ will automatically add 
+Tier I
+ of her Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Spirit
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: Shattered Katana
+
+The 
+Shattered Katana
+ is the Primary Weapon of 
+The Spirit
+.
+A single-edged straight sword handed down from generation to generation.
+The blade shattered after spilling the blood of her kin.
+
+Power: Yamaoka's Haunting
+
+"Yamaoka is the name she carries from her ancestors, who unleashed hell on the battlefield.
+The Spirit draws her power from their wrath, haunting the living as retribution for her suffering.
+The Spirit can use Yamaoka's Haunting to enter the Ethereal Plane and re-appear at a new location."
+SPECIAL ABILITY: YAMAOKA'S HAUNTING
+Press and hold the 
+Power button
+ to charge 
+Yamaoka's Haunting
+ and initiate a 
+Phase-Walk
+ for up to 
+5 seconds
+:
+
+Causes 
+The Spirit
+ to depart her physical body and enter the 
+Ethereal Plane
+, leaving behind a stationary 
+Husk
+.
+
+Yamaoka's Haunting
+ has a cool-down of 
+15 seconds
+.
+SPECIAL LOCOMOTION: PHASE-WALK
+During a 
+Phase-Walk
+, 
+The Spirit
+ experiences the following effects:
+
+Increases
+ her Movement speed to 
+7.04 m/s
+.
+
+Survivors are invisible to her.
+
+She can still see and track 
+Scratch Marks
+.
+
+The Spirit
+ emits a directional sound cue audible to all Survivors within 
+24 metres
+.
+
+The Husk
+ emits a 
+Terror Radius
+ of 
+24 metres
+.
+
+The Spirit
+ retains her speed boost for 
+1 second
+ after ending a 
+Phase-Walk
+.
+SPECIAL ABILITY: PASSIVE-PHASING
+The Spirit
+ is constantly phasing in and out of view for Survivors whenever she is not currently in a 
+Phase-Walk
+.
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Walking: 
+4.4 m/s
+
+Phase-Walking
+: 
+7.04 m/s
+
+Phase-Walking:
+
+Charge time: 
+1.5 seconds
+
+Power Gauge: 
+5 Charges
+
+Depletion rate: 
+-1 c/s
+
+By default, this makes 
+Yamaoka's Haunting
+ last for 
+5 seconds
+.
+
+Recharge rate: 
++0.333333 c/s
+
+By default, this makes 
+Yamaoka's Haunting
+ recharge over 
+15 seconds
+.
+
+Linger duration of Power effects: 
+1 second
+
+This refers to visual effects of 
+Phase-Walking
+ as well as the increased Movement speed.
+
+Cool-down duration: 
+0 seconds
+
+This allows 
+The Spirit
+ to instantly attack after ending her 
+Phase-Walk
+.
+
+Movement Speed multiplier: 
+x1.6
+
+Passive Phasing:
+
+Duration: 
+0.5 seconds
+
+This refers to the duration of the visual effects causing 
+The Spirit
+ to flicker in-and-out of view from the Survivors' POV.
+
+Cool-down duration (minimum): 
+1 second
+
+This refers to the Cool-down duration between two instances of 
+Passive Phasing
+.
+
+Cool-down duration (maximum): 
+5 seconds
+
+Ditto.
+
+Husk:
+
+Perks tracking 
+The Spirit
+ are unable to track her ethereal form and will only track or reveal the 
+Husk
+ instead.
+
+Miscellaneous:
+
+The Spirit
+ is able to hear all sounds Survivors make while she is 
+Phase-Walking
+ and can see them interacting with the environment (e.g. moving grass-blades) and use that to track them.
+She can also see the location of 
+Loud Noise Notifications
+.
+
+Add-ons for Yamaoka's Haunting
+
+Icon
+
+Name
+
+Description
+
+Gifted Bamboo Comb
+
+A narrow tooth bamboo comb to gently untangle dishevelled hair.
+
+Increases
+ the Charge speed of 
+Yamaoka's Haunting
+ by 
++15 %
+.
+
+Origami Crane
+
+One of the one thousand Orizuru for your wish to come true.
+
+Increases
+ the Recharge rate of 
+Yamaoka's Haunting
+ by 
++20 %
+.
+
+Shiawase Amulet
+
+A talisman that makes one happy and enthusiastic.
+
+Increases
+ the Duration of a 
+Phase-Walk
+ by 
++0.5 seconds
+.
+
+Zōri
+
+A comfortable pair of flat sandals that can easily be slipped on and off.
+
+Increases
+ your Movement speed during a 
+Phase-Walk
+ by 
++5 %
+.
+
+Juniper Bonsai
+
+Dark blue-green foliage bonsai tree.
+Once the symbol of Yamaoka family tradition.
+
+Reduces
+ the Cool-down of your 
+Passive Phasing
+ by 
+-1 second
+.
+
+Increases
+ the Duration of your 
+Passive Phasing
+ by 
++50 %
+.
+
+Kaiun Talisman
+
+A talisman to get luck on your side.
+
+Increases
+ the Duration of a 
+Phase-Walk
+ by 
++1 second
+.
+
+Muddy Sports Day Cap
+
+A muddy sport cap with a High School logo.
+Identified with a sewn name tag to "Rin".
+
+Increases
+ your Movement speed during a 
+Phase-Walk
+ by 
++10 %
+.
+
+Rin's Broken Watch
+
+A wristwatch with a shattered glass.
+The name "Rin" is scribbled on the wristband.
+
+Increases
+ the Recharge rate of 
+Yamaoka's Haunting
+ by 
++30 %
+.
+
+White Hair Ribbon
+
+A silken bow to tame wild hair.
+
+Increases
+ the Charge speed of 
+Yamaoka's Haunting
+ by 
++20 %
+.
+
+Katana Tsuba
+
+The hand-guard of an ancestral blade.
+Crafted for the Yamaoka family.
+
+Extends
+ the Invisibility duration while reappearing from a 
+Phase-Walk
+ by 
++0.2 seconds
+.
+
+Increases
+ your Movement speed while reappearing from a 
+Phase-Walk
+ by 
++5 %
+.
+
+Mother's Glasses
+
+A pair of glasses belonging to a loving mother afflicted by a chronic disease.
+
+Survivors coming within 
+2 metres
+ of the 
+Husk
+ during a 
+Phase-Walk
+ triggers 
+Killer Instinct
+.
+
+Rusty Flute
+
+A rusty transverse flute with a haunting sound.
+
+Increases
+ the Recharge rate of 
+Yamaoka's Haunting
+ by 
++40 %
+.
+
+Senko Hanabi
+
+Thin sparklers that light up summer nights and display the beauty of ephemeral moments in life.
+
+Causes the 
+Husk
+ to explode after ending a 
+Phase-Walk
+, blocking all Vault locations within 
+4 metres
+ of its location for 
+5 seconds
+.
+
+Uchiwa
+
+A handheld fan with a koi motif to create a nice breeze on a hot summer day.
+
+Instantly recharges 
+Yamaoka's Haunting
+ after being stunned by a 
+Pallet
+.
+
+Dried Cherry Blossom
+
+A crumbling, dried cherry flower.
+Once the symbol of mortality.
+
+Coming within 
+3 metres
+ of a Survivor during a 
+Phase-Walk
+ triggers 
+Killer Instinct
+.
+
+Scratch Marks
+ are no longer visible to you during a 
+Phase-Walk
+.
+
+Furin
+
+A warm summer breeze chimes the little bell hanging from the balcony ceiling.
+
+Causes all Survivors to hear the audio cue of the 
+Phase-Walk
+.
+
+Wakizashi Saya
+
+The scabbard of an ancestral blade.
+Once crafted for the Yamaoka family.
+
+Press the 
+Active Ability button
+ during a 
+Phase-Walk
+ to instantly reappear at the location of the 
+Husk
+.
+
+Yakuyoke Amulet
+
+A powerful talisman to protect your endeavours from being hindered by suspicious circumstances.
+
+Increases
+ the Duration of a 
+Phase-Walk
+ by 
++3.5 seconds
+.
+
+Reduces
+ your Movement speed during a 
+Phase-Walk
+ by 
+-15 %
+.
+
+Kintsugi Teacup
+
+A cup mended and lacquered with powdered gold.
+Both the breakage and repair are part the cup.
+
+Instantly recharges 
+Yamaoka's Haunting
+ after breaking a 
+Breakable Wall
+ or a 
+Pallet
+.
+
+Mother-Daughter Ring
+
+A silver ring engraved with "for my precious daughter".
+
+Increases
+ your Movement speed during a 
+Phase-Walk
+ by 
++25 %
+.
+
+Scratch Marks
+ are no longer visible to you during a 
+Phase-Walk
+.
+
+Innate Skill
+
+Used exclusively in 
+2v8
+ Trials, the 
+Innate Skill
+ modifies 
+Yamaoka's Haunting
+ with the following effects:
+
+Innate Skill
+ (
+Spirit Passive
+) 
+
+Modifies 
+Yamaoka's Haunting
+ with the following effects:
+
+Increases
+ its duration by 
++3 seconds
+.
+
+Increases
+ its Recharge rate by 
++0.33 c/s
+.
+
+During a 
+Phase-Walk
+:
+
+Increases
+ the Movement-Speed multiplier by 
++0.2
+ to 
+x1.8
+.
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There are 
+2
+ Achievements related to 
+The Spirit
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Spirit
+
+Playing as The 
+Spirit
+, achieve a 
+Merciless Victory
+ using only her 
+3
+ Unique Perks: 
+Spirit Fury
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Each obstacle you break magnifies the wrath of The Entity."
+
+After manually breaking a total of 
+4
+/
+3
+/
+2
+  dropped 
+Pallets
+ by any means, 
+Spirit Fury
+ activates:
+
+Instantly breaks the next 
+Pallet
+ used by a Survivor to stun you.
+
+Spirit Fury
+ deactivates after use and does not affect the duration of the 
+Pallet Stun
+.
+
+"Fury is her blood."
+
+, 
+Hex: Haunted Ground
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+Hex: Haunted Ground
+ lights 
+2
+ 
+Hex Totems
+ at the start of the Trial, laying a trap for Survivors.
+Blessing or cleansing either 
+Hex Totem
+ trips the trap and triggers the following effect:
+
+Causes all Survivors to suffer from the 
+Exposed
+ 
+Status Effect
+ for 
+40
+/
+50
+/
+60
+ 
+seconds
+.
+
+Hex: Haunted Ground
+ extinguishes the second 
+Hex Totem
+ after tripping its trap.
+Hex: Haunted Ground
+ is disabled for the remainder of the Trial after triggering its effect.
+
+"Her home become profane."
+
+, and 
+Rancor
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+Whenever a 
+Generator
+ is completed, 
+Rancor
+ triggers its primary effects:
+
+Causes all Survivors to scream and trigger a 
+Loud Noise Notification
+ at their current location.
+
+This effect lingers for 
+3 seconds
+.
+
+Your 
+Aura
+ is revealed to the 
+Obsession
+ for 
+5
+/
+4
+/
+3
+ 
+seconds
+.
+
+Once the 
+Exit Gates
+ are powered, 
+Rancor
+ additionally triggers its secondary effects on the 
+Obsession
+:
+
+Inflicts the 
+Exposed
+ 
+Status Effect
+ for the remainder of the Trial.
+
+Grants the ability to kill them when in close proximity.
+
+You can only be 
+obsessed
+ with one Survivor at a time.
+
+.
+
+Conniption
+
+Playing as The 
+Spirit
+, down Survivors shortly after ending a 
+Phase-Walk
+ a total of 
+30 times
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Spirit
+:
+
+Base Cosmetics
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+The Spirit
+
+Common
+
+The Spirit drifts into the night, her wild windswept hair dancing in the dark.
+
+Shredded Sarashi
+
+Common
+
+What's left of what she wore that night.
+
+Shattered Katana
+
+Common
+
+A single-edged straight sword handed down from generation to generation. The blade shattered after spilling the blood of her kin.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Bloody Spirit
+
+Rare
+
+The Spirit drifts into the night, her disheveled hair smoothened by the midnight wind.
+
+Prestige Level 6 Reward
+
+Bloodstained Sarashi
+
+Rare
+
+This shredded bloodied bandage is all that is left of what she wore on that tragic night.
+
+Prestige Level 5 Reward
+
+Thirsty Katana
+
+Rare
+
+Single-edged straight sword passed down from generation to generation within the Yamaoka family. The blade is drenched in the blood of her family.
+
+Prestige Level 4 Reward
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+She used her dying breath to vow revenge against her murderous father.
+
+Alternatives
+
+Special
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Outfit
+
+Collection
+
+Event
+
+Frosty Eyes
+
+Uncommon
+
+Heart chilling eyes of the cold blooded.
+
+"Have a Wonderful Winter 2018-2019!" - The Dead by Daylight Team
+
+No Outfit
+
+No Collection
+
+Winter Solstice 2018
+
+Event
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Event
+
+Exclusive to Event Participation
+
+Crown of the Entity
+
+Event
+
+A crown emanating a festive and ominous aura created by the Entity's biggest fan.
+
+Fourth Year Anniversary
+
+Yes
+
+Scarlet Edge
+
+Event
+
+A blade crafted of bull’s horn, adorned with a dangling scarlet ribbon.
+
+Gilded Stampede
+
+Yes
+
+5th Anniversary Crown
+
+Event
+
+A crown crafted for a very special anniversary.
+
+"Thank you for supporting & inspiring us along the years!" - The Dead by Daylight Team
+
+Fifth Year Anniversary
+
+Yes
+
+Spirit's Mask
+
+Event
+
+A mask they found themselves wearing at the masquerade ball.
+
+Twisted Masquerade Event
+
+Yes
+
+ Rift
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Haru Damashi
+
+Spring Harvest
+
+Tome 3 - Escalation
+
+07 April 2022 (Thursday)
+
+Description
+
+Does the gentle hue reveal humanity beneath her rancor, or is it simply a reminder of what has been lost?
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Crimson Overflow
+
+Spring Harvest
+
+31
+
+A color that pays homage to the trees that withered and the death that soon followed.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Blossom Onslaught
+
+Spring Harvest
+
+68
+
+A soft, spring-like appearance that deceives Survivors into dropping their guard.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Jagged Thorn
+
+Spring Harvest
+
+7
+
+A pink-hued blade that evokes the changing of seasons and the loss it brings.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Shimmering Birthright
+
+Midsummer Mayhem Collection
+
+Tome 12 - Discordance
+
+12 June 2018 (Tuesday)
+
+Description
+
+An opulent suit of ancient armor, lost for generations until it mysteriously reappeared one day.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Golden Jaw
+
+Midsummer Mayhem Collection
+
+62
+
+The mask did little to obscure the fury that hid beneath the surface.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Glorious Armor
+
+Midsummer Mayhem Collection
+
+55
+
+Its dazzling appearance contrasted with the darkness in her heart.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Fossilized Blade
+
+Midsummer Mayhem Collection
+
+50
+
+Jagged and dull, its hideous edge took all her anger and fury to wield.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Death Of Grief
+
+Shades of Reverence
+
+Rift Pass 3 - Reverence
+
+07 October 2025 (Tuesday)
+
+Description
+
+Rin lost everything, and in her last moments she swore revenge on her murderous father.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Frozen Sorrow
+
+Shades of Reverence
+
+16
+
+When all else is taken away, only violence remains. Everyone needs something to live for.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Gilded Wounds
+
+Shades of Reverence
+
+13
+
+Cut after cut. Pain after pain. That’s how the monster was made — there’s no taking it back.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Avenging Blade
+
+Shades of Reverence
+
+10
+
+Many in this world cry out for justice, dreaming of a day that will never come.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Death Of Grief (Altered)
+
+Shades of Reverence
+
+Rift Pass 3 - Reverence
+
+07 October 2025 (Tuesday)
+
+Description
+
+Rin lost everything, and in her last moments she swore revenge on her murderous father.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Frozen Sorrow (Altered)
+
+Shades of Reverence
+
+42
+
+When all else is taken away, only violence remains. Everyone needs something to live for.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Gilded Wounds (Altered)
+
+Shades of Reverence
+
+48
+
+Cut after cut. Pain after pain. That’s how the monster was made — there’s no taking it back.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Avenging Blade (Altered)
+
+Shades of Reverence
+
+45
+
+Many in this world cry out for justice, dreaming of a day that will never come.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Death Of Grief (Deep Rift 1)
+
+Shades of Reverence
+
+Rift Pass 3 - Reverence
+
+07 October 2025 (Tuesday)
+
+Description
+
+Rin lost everything, and in her last moments she swore revenge on her murderous father.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Frozen Sorrow (Deep Rift 1)
+
+Shades of Reverence
+
+85
+
+When all else is taken away, only violence remains. Everyone needs something to live for.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Gilded Wounds (Deep Rift 1)
+
+Shades of Reverence
+
+77
+
+Cut after cut. Pain after pain. That’s how the monster was made — there’s no taking it back.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Avenging Blade (Deep Rift 1)
+
+Shades of Reverence
+
+73
+
+Many in this world cry out for justice, dreaming of a day that will never come.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Accursed Armor
+
+Damned Bloodlines
+
+Tome 2 - Reckoning
+
+13 April 2021 (Tuesday)
+
+Description
+
+The armor fit perfectly. It felt like it was made for her. Yet... something made her feel uneasy.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Wrathful
+
+Damned Bloodlines
+
+47
+
+Fury rushed through her blood as she attacked. Her jet-black hair flowed wildly, the ribbon failing to keep it contained.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Kendogu
+
+Damned Bloodlines
+
+35
+
+Training armor passed down for generations, it’s said to have been worn by a samurai during his younger years before the carnage began.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Splintered Kendo
+
+Damned Bloodlines
+
+55
+
+A sword of jagged bamboo bunches. Once used to train, it now has a much more malicious purpose.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Nightmare Serpent
+
+Guardians & Shadows
+
+Tome 20 - Mythic
+
+15 May 2025 (Thursday)
+
+Description
+
+Every dream was the same. Her father, thirsty for blood. And a snake that saves her at the last moment.
+
+1485
+
+29700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Horns of Blood
+
+Guardians & Shadows
+
+70
+
+She wished for the power to defend herself. She wished for something more.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Slashed Kimono
+
+Guardians & Shadows
+
+70
+
+The snake emerged from the darkness, tearing into her father with its razor-sharp fangs.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Rude Awakening
+
+Guardians & Shadows
+
+70
+
+She awoke in a sweat, fearing the day as much as she did the night.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Nightmare Serpent (Deep Rift)
+
+Deep Rift
+
+Tome 20 - Mythic
+
+12 June 2018 (Tuesday)
+
+Description
+
+The nightmares were relentless. Death lit up her father's eyes, and only the snake could save her.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Horns of Blood (Deep Rift)
+
+Deep Rift
+
+85
+
+She felt the violence within her own self, and feared she'd become as monstrous as her father.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Slashed Kimono (Deep Rift)
+
+Deep Rift
+
+85
+
+She never understood why rescue came in the form of a snake, but there it was, bearing its fangs.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Rude Awakening (Deep Rift)
+
+Deep Rift
+
+85
+
+She awoke screaming, knowing the day would bring its own dangers.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Death Of Grief (Deep Rift 2)
+
+Shades of Reverence
+
+Rift Pass 3 - Reverence
+
+07 October 2025 (Tuesday)
+
+Description
+
+Rin lost everything, and in her last moments she swore revenge on her murderous father.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Frozen Sorrow (Deep Rift 2)
+
+Shades of Reverence
+
+88
+
+When all else is taken away, only violence remains. Everyone needs something to live for.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Gilded Wounds (Deep Rift 2)
+
+Shades of Reverence
+
+93
+
+Cut after cut. Pain after pain. That’s how the monster was made — there’s no taking it back.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Avenging Blade (Deep Rift 2)
+
+Shades of Reverence
+
+98
+
+Many in this world cry out for justice, dreaming of a day that will never come.
+
+Piece
+
+Name
+
+Collection
+
+Tome
+
+Rift Tier
+
+Thunder & Lightning
+
+Surging Rage
+
+Tome 3 - Escalation
+17
+
+A dramatic makeup for a tasteful revenge.
+
+Piece
+
+Name
+
+Tome
+
+Rift Tier
+
+Seifuku (Red)
+
+Tome 4 - Conviction
+9
+
+Dating from her high school days, this uniform is accessorized with a shoestring necktie and a pair of loose, glass-filled socks.
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+In the Family
+
+SPIRIT ABERRATIONS
+
+26 April 2019 (Friday)
+
+Description
+
+Darkness runs in the family. Go home, if you dare.
+
+135
+
+2700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Smeared Tears (Ashy)
+
+SPIRIT ABERRATIONS
+
+The Spirit drifts into the night, her wild hair smoothed by the midnight wind.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Shredded Sarashi (Ashy)
+
+SPIRIT ABERRATIONS
+
+An ashy bandage is all that is left of what she wore on that tragic night.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Shattered Katana (Ashy)
+
+SPIRIT ABERRATIONS
+
+A single-edged straight sword handed down from generation to generation. The blade shattered after spilling the blood of her kin.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+In the Family
+
+SPIRIT ABERRATIONS
+
+26 April 2019 (Friday)
+
+Description
+
+Darkness runs in the family. Go home, if you dare.
+
+135
+
+2700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Smeared Tears (Bloody)
+
+SPIRIT ABERRATIONS
+
+The Spirit drifts into the night, her wild hair smoothed by the midnight wind.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Shredded Sarashi (Bloody)
+
+SPIRIT ABERRATIONS
+
+A bloody bandage is all that is left of what she wore on that tragic night.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Shattered Katana (Bloody)
+
+SPIRIT ABERRATIONS
+
+A single-edged straight sword handed down from generation to generation. The blade shattered after spilling the blood of her kin.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+In the Family
+
+SPIRIT ABERRATIONS
+
+26 April 2019 (Friday)
+
+Description
+
+Darkness runs in the family. Go home, if you dare.
+
+135
+
+2700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Smeared Tears (Ice-Cold)
+
+SPIRIT ABERRATIONS
+
+The Spirit drifts into the night, her wild hair smoothed by the midnight wind.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Shredded Sarashi (Ice-Cold)
+
+SPIRIT ABERRATIONS
+
+An ice-cold bandage is all that is left of what she wore on that tragic night.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Shattered Katana (Ice-Cold)
+
+SPIRIT ABERRATIONS
+
+A single-edged straight sword handed down from generation to generation. The blade shattered after spilling the blood of her kin.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+In the Family
+
+SPIRIT ABERRATIONS
+
+26 April 2019 (Friday)
+
+Description
+
+Darkness runs in the family. Go home, if you dare.
+
+135
+
+2700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Smeared Tears (Muddy)
+
+SPIRIT ABERRATIONS
+
+The Spirit drifts into the night, her wild hair smoothed by the midnight wind.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Shredded Sarashi (Muddy)
+
+SPIRIT ABERRATIONS
+
+A muddy bandage is all that is left of what she wore on that tragic night.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Shattered Katana (Muddy)
+
+SPIRIT ABERRATIONS
+
+A single-edged straight sword handed down from generation to generation. The blade shattered after spilling the blood of her kin.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+In the Family
+
+SPIRIT ABERRATIONS
+
+26 April 2019 (Friday)
+
+Description
+
+Darkness runs in the family. Go home, if you dare.
+
+135
+
+2700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Smeared Tears (Rotten)
+
+SPIRIT ABERRATIONS
+
+The Spirit drifts into the night, her wild hair smoothed by the midnight wind.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Shredded Sarashi (Rotten)
+
+SPIRIT ABERRATIONS
+
+A rotten bandage is all that is left of what she wore on that tragic night.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Shattered Katana (Rotten)
+
+SPIRIT ABERRATIONS
+
+A single-edged straight sword handed down from generation to generation. The blade shattered after spilling the blood of her kin.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Drowned
+
+Surging Rage
+
+26 April 2019 (Friday)
+
+Description
+
+Gasping for air and only getting water. But your vengeance awaits. Your focus shifts: surviving is inevitable and so is your retaliation.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Cold Dread
+
+Surging Rage
+
+Glassy, empty eyes and blue lips: the effects of Death’s embrace.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Soaked Sarashi
+
+Surging Rage
+
+Drenched and left out in the cold, your seething hate keeps you going.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Sunken Katana
+
+Surging Rage
+
+An ancestral blade abandoned at the bottom of a pond.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Dark Manifest
+
+Surging Rage
+
+26 April 2019 (Friday)
+
+Description
+
+The night whispers in your ears as you feel claws grazing your skin. Bear the markings of evil.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Ghastly Legacy
+
+Surging Rage
+
+The oath you made cannot be broken.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Pure Evil
+
+Surging Rage
+
+Awake anew in Realms beyond belief.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Corrupted Katana
+
+Surging Rage
+
+The blade is engraved with secrets in a language unknown to you. But if you come closer…
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Onna Shibaraku
+
+Surging Rage
+
+26 April 2019 (Friday)
+
+Description
+
+Embody the tale of superhuman strength and bravery.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Kumadori
+
+Surging Rage
+
+A dramatic makeup for a tasteful revenge.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Kagemasa
+
+Surging Rage
+
+An eye for an eye.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Tomokirimaru Blade
+
+Surging Rage
+
+A legendary sword used as a tool for usurpation, howling for blood.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Senior Student
+
+HIT THE BOOKS
+
+26 April 2019 (Friday)
+
+Description
+
+A uniform dating from when her mother was healthy and her father employed. These days are long gone.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Chic Headband
+
+HIT THE BOOKS
+
+A short, messy bob decorated with a patterned headband.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Seifuku (Striped)
+
+HIT THE BOOKS
+
+Dating from her high school days, this uniform is accessorized with a shoestring necktie and a pair of loose, glass-filled socks.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Okinawan Blade (Frozen)
+
+HIT THE BOOKS
+
+They say this precious blade came from the sea. Forged from iron sands, this long, sharp blade was kept in the Yamaoka family for generations.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Haru Damashi
+
+Spring Harvest
+
+Tome 3 - Escalation
+
+07 April 2022 (Thursday)
+
+Description
+
+Does the gentle hue reveal humanity beneath her rancor, or is it simply a reminder of what has been lost?
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Crimson Overflow
+
+Spring Harvest
+
+31
+
+A color that pays homage to the trees that withered and the death that soon followed.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Blossom Onslaught
+
+Spring Harvest
+
+68
+
+A soft, spring-like appearance that deceives Survivors into dropping their guard.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Jagged Thorn
+
+Spring Harvest
+
+7
+
+A pink-hued blade that evokes the changing of seasons and the loss it brings.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Top Student
+
+HIT THE BOOKS
+
+26 April 2019 (Friday)
+
+Description
+
+A uniform dating from when her mother was healthy and her father employed. These days are long gone.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Soiled Headband
+
+HIT THE BOOKS
+
+A short, messy bob decorated with a patterned headband.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Seifuku (Navy)
+
+HIT THE BOOKS
+
+Dating from her high school days, this uniform is accessorized with a shoestring necktie and a pair of loose, glass-filled socks.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Okinawan Blade (Tarnished)
+
+HIT THE BOOKS
+
+They say this precious blade came from the sea. Forged from iron sands, this long, sharp blade was kept in the Yamaoka family for generations.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Junior Student
+
+HIT THE BOOKS
+
+26 April 2019 (Friday)
+
+Description
+
+A uniform dating from when her mother was healthy and her father employed. These days are long gone.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Woolen Headband
+
+HIT THE BOOKS
+
+A short, messy bob decorated with a patterned headband.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Seifuku (Plaid)
+
+HIT THE BOOKS
+
+Dating from her high school days, this uniform is accessorized with a shoestring necktie and a pair of loose, glass-filled socks.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Okinawan Blade (Mossy)
+
+HIT THE BOOKS
+
+They say this precious blade came from the sea. Forged from iron sands, this long, sharp blade was kept in the Yamaoka family for generations.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Marine Maiden
+
+Sea-Washed Creatures
+
+20 July 2021 (Tuesday)
+
+Description
+
+Originating from an island surrounded by the sea, she grew up by the water, fascinated by the haunting myths of the human-fish.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Daunting Gills
+
+Sea-Washed Creatures
+
+Oily, inky hair fused with algae.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Oceanic Robe
+
+Sea-Washed Creatures
+
+A soaked, tattered gown wrapped in algae and dripping with murky seawater.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Hard Shell Blade
+
+Sea-Washed Creatures
+
+A sharpened whale bone encrusted with sea-washed barnacles.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Furious Nyx
+
+Greek Legends
+
+04 August 2020 (Tuesday)
+
+Description
+
+Fused in The Fog with the myths and stories of Survivors past, Rin took on the appearance of the Greek goddess of night.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Deathly Pallor
+
+Greek Legends
+
+A cadaverous, ancient face, judging the world from the gloom of two empty eyes.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Schism of Darkness
+
+Greek Legends
+
+Armor carves its way through the soft flesh that remains, as bone-like fragments protrude in unnatural patterns.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Twilight’s End
+
+Greek Legends
+
+Carved from bone, the ancient blade is hued with the dying colors of twilight before the darkest night.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Traditional Yozakura
+
+Hanami
+
+10 March 2022 (Thursday)
+
+Description
+
+Sakura blossoms swaying in the cold night wind was a distant memory tainted with blood.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Flowery Hair
+
+Hanami
+
+A tangle of long black hair adorned with blood red flowers.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Red Spider Lily Kimono
+
+Hanami
+
+A torn kimono embroidered with red spider lilies.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Embellished Blade
+
+Hanami
+
+An ornamental sword once used to protect the household from evil spirits.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Blazing Lineage
+
+Hallowed Catalyst
+
+09 October 2019 (Wednesday)
+
+Description
+
+She emerged from captivity when the serum sparked her ancestral rage, making her blood boil with fury.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Fused Demon
+
+Hallowed Catalyst
+
+An eerie face erupted from her flesh, revealing her birthright.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Swollen Lumps
+
+Hallowed Catalyst
+
+Her flesh flared up with pustules and power.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Putrid Katana
+
+Hallowed Catalyst
+
+Her ancient blade oozed with nectar, forged by serum and steel.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Tattered Tradition
+
+CURSED KIMONO
+
+22 May 2019 (Wednesday)
+
+Description
+
+Once the height of luxury and elegance, now a testament to years of woe.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Loose Shimada
+
+CURSED KIMONO
+
+An elaborate hairstyle that is held together with pins, combs and supernatural energies.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Pierced Silk Kimono
+
+CURSED KIMONO
+
+The silk is interwoven with gold threads, creating a scintillation that can still be seen, even through the bloodstains.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Jagged Wakizashi
+
+CURSED KIMONO
+
+Whether the blade's edges were torn by design, or years of use, none can tell.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+The Reckoning
+
+ONRYŌ
+
+26 April 2019 (Friday)
+
+Description
+
+When the moon hangs low, the haunting begins.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Messy Maru Mage
+
+ONRYŌ
+
+A voluminous bun made of waxed hair for a classy rampage.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Ragged Burial Kimono
+
+ONRYŌ
+
+Proper attire for a proper ceremony. No one gets out alive
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Vengeful ōdachi
+
+ONRYŌ
+
+This traditional great sword was used as a ceremonial object before falling into your hands.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Shady Sunbather
+
+Hooked on You
+
+14 February 2023 (Tuesday)
+
+Description
+
+As long she could lay in the shadows, she wouldn’t say no to a day at the beach.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Oversized Beach Hat
+
+Hooked on You
+
+Sunburns aren’t so much the problems as the sunlight is.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Sandy Cover Up
+
+Hooked on You
+
+After a night of killing, she liked to walk on the beach before the sun rose.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Lethal fish scale
+
+Hooked on You
+
+She liked watching the fish swimming in the clear water and decided to take a part of them back home.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Incendiary Fury
+
+Smoldering Fury
+
+23 January 2024 (Tuesday)
+
+Description
+
+Her gaze was fixated on her father's sword as it grew hotter in the fire while everything else froze in time.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Sparkling Fire
+
+Smoldering Fury
+
+She felt a slight pinching sensation on her face when sparks flew from the burning blade every now and then.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Embers Kimono
+
+Smoldering Fury
+
+The beautiful designs on the kimono were slowly consumed by blazing embers.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Lava Blade
+
+Smoldering Fury
+
+The fiery metal gleamed in the darkness of the night, melting any glimmer of hope.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Awakened Origin
+
+Yamaoka Curse
+
+15 May 2020 (Friday)
+
+Description
+
+Since defeating her opponent in a sparring match, it had been bubbling up inside her. She couldn't shove it back down. Confidence? Strength? Yes, but something more.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Teeth of Wrath
+
+Yamaoka Curse
+
+When she closed her eyes, she saw blood. She heard screams. And she was the one causing it. A pale spirit filled with the rage of her ancestors. And the pain.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Legacy Armor
+
+Yamaoka Curse
+
+She inherited the armor of a bloodthirsty ancestor who slayed farmers and laid to waste thousands of acres of farmlands.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Ancestral Blade
+
+Yamaoka Curse
+
+When she held the weapon, she felt a surge of fury, a rage she wanted to unleash.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+New Tradition
+
+Visions Of The Future
+
+05 September 2023 (Tuesday)
+
+Description
+
+A traditional outfit that combined ancestral patterns with modern designs.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Textured Bangs
+
+Visions Of The Future
+
+Her salt-and-pepper bangs stopped just above her blue eyes.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Fluorescent Edges
+
+Visions Of The Future
+
+A traditional outfit with a futuristic twist.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Neon Katana
+
+Visions Of The Future
+
+A dangerous blade made of shiny metal of unknown origin.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Lonely Celebration
+
+Fire Moon Festival
+
+17 September 2024 (Tuesday)
+
+Description
+
+She rushed home after a long shift at the restaurant. Lanterns hung from the windows of each house she passed.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Unfulfilled Wishes
+
+Fire Moon Festival
+
+Her house was dark and silent as she entered. All she wanted was to gaze at the moon with her mom.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Dishearten Kimono
+
+Fire Moon Festival
+
+Her mother was still sleeping, her breathing frail. Rin swallowed her disappointment and unwrapped the mooncakes from the restaurant.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Ill-Fated Blade
+
+Fire Moon Festival
+
+She watched the moon through the window, her mother's hand in her's, and she wished things could be different.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Broken Peace
+
+Cozy Break
+
+12 November 2024 (Tuesday)
+
+Description
+
+She arranged her pillows and settled in to read her book. The summer sun beamed through the window, and she tried to ignore the sweat on her brow.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Unsteady Dream
+
+Cozy Break
+
+She drifted off to sleep, only to be startled awake by a vase breaking in the corridor. There she found her father standing over the shattered pieces.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Fractured Kimono
+
+Cozy Break
+
+She scurried over with a dustpan to gather the shards. He didn't take his eyes off her until she had collected every single piece.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Kintsugi Katana
+
+Cozy Break
+
+The moon hung high in the sky as she finished reassembling the vase. At last, she returned to her book, leaving bloody fingerprints on the pages.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Crystalline Apparition
+
+Everlasting Frost
+
+30 November 2021 (Tuesday)
+
+Description
+
+During the Darkening, glacial winds blew from the Lost Realms, spreading an everlasting frost of penetrating ice clusters.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Wintry Wrath
+
+Everlasting Frost
+
+As she drifted through glacial winds, the everlasting frost whitened and froze her disheveled hair.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Hibernal Sarashi
+
+Everlasting Frost
+
+Everlasting frost penetrated her skin and tore apart her exposed flesh.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Gelid Katana
+
+Everlasting Frost
+
+Clusters of sharp ice grew over her ancestral sword, turning the weapon into a blade of ice.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Accursed Armor
+
+Damned Bloodlines
+
+Tome 2 - Reckoning
+
+13 April 2021 (Tuesday)
+
+Description
+
+The armor fit perfectly. It felt like it was made for her. Yet... something made her feel uneasy.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Wrathful
+
+Damned Bloodlines
+
+47
+
+Fury rushed through her blood as she attacked. Her jet-black hair flowed wildly, the ribbon failing to keep it contained.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Kendogu
+
+Damned Bloodlines
+
+35
+
+Training armor passed down for generations, it’s said to have been worn by a samurai during his younger years before the carnage began.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Splintered Kendo
+
+Damned Bloodlines
+
+55
+
+A sword of jagged bamboo bunches. Once used to train, it now has a much more malicious purpose.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Tomie
+
+Junji Ito
+
+07 January 2025 (Tuesday)
+
+Description
+
+She started to split, a new face growing next to hers, when the fog engulfed her.
+
+1485
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Beauty Mark
+
+Junji Ito
+
+Her beauty was the object of obsession, and many were driven mad by her influence.
+
+Piece
+
+Name
+
+Collection
+
+Spawning Flesh
+
+Junji Ito
+
+Her body had been torn to pieces countless times. And every time, those pieces grew into her duplicates.
+
+Piece
+
+Name
+
+Collection
+
+Deceitful Blade
+
+Junji Ito
+
+Whether she was human or a monster, she would do anything to get what she wanted.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Nightmare Serpent
+
+Guardians & Shadows
+
+Tome 20 - Mythic
+
+15 May 2025 (Thursday)
+
+Description
+
+Every dream was the same. Her father, thirsty for blood. And a snake that saves her at the last moment.
+
+1485
+
+29700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Horns of Blood
+
+Guardians & Shadows
+
+70
+
+She wished for the power to defend herself. She wished for something more.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Slashed Kimono
+
+Guardians & Shadows
+
+70
+
+The snake emerged from the darkness, tearing into her father with its razor-sharp fangs.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Rude Awakening
+
+Guardians & Shadows
+
+70
+
+She awoke in a sweat, fearing the day as much as she did the night.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+War Hammer Titan
+
+Attack on Titan Collection
+
+19 July 2022 (Tuesday)
+
+Description
+
+A monstrous and calculating creature from a lost realm.
+
+1296
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Deadly Constructor
+
+Attack on Titan Collection
+
+She appeared as a versatile monster whose unique skills could cause all sorts of chaos.
+
+Piece
+
+Name
+
+Collection
+
+Architectural Form
+
+Attack on Titan Collection
+
+It was capable of making durable and dangerous objects at will.
+
+Piece
+
+Name
+
+Collection
+
+Crystalized Blade
+
+Attack on Titan Collection
+
+The hardened crystals formed into a deadly weapon capable of impaling nearly anything.
+
+Piece
+
+Name
+
+Collection
+
+Scarlet Edge
+
+Gilded Stampede
+
+A blade crafted of bull’s horn, adorned with a dangling scarlet ribbon.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Sweet Treat
+
+Tricks and Treats
+
+The sweetness took her back to a time with no worries, no fears, no sickness.
+
+250
+
+Piece
+
+Name
+
+Collection
+
+Spirit’s Mask
+
+Twisted Masquerade
+
+A mask they found themselves wearing at the masquerade ball.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Twisted Katana
+
+Twisted Masquerade
+
+A refined weapon suitable for the masquerade ball.
+
+400
+
+7200
+
+Alternate Character Models
+
+The Spirit
+ had 
+3
+ alternate Character models available in the in-game Store:
+
+The 
+War Hammer Titan
+
+Tomie Kawakami
+
+Bubble Head Nurse
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Spirit
+ is part of 
+3
+ DLCs:
+
+Chapter DLC:
+
+Shattered Bloodline
+ (
+retired
+)
+
+Pack DLCs:
+
+Maddening Darkness Pack
+ (Chapter Pack)
+
+Terror Expansion Pack
+ (Character Pack)
+
+History
+
+Light Vulnerability
+
+Up to 
+Patch 6.7.0
+, 
+The Spirit's
+ 
+Husk
+ was vulnerable to bright lights:
+
+Survivors could disperse the 
+Husk
+ by shining a 
+Flashlight
+ on it.
+
+Change Log
+
+Patch 2.2.0
+Patch 2.2.1
+Patch 2.3.0
+Patch 2.3.3
+Patch 3.4.0
+Patch 5.3.0
+Patch 6.7.0
+Patch 2.2.0
+
+Quality of Life
+: standardised the 
+Lunge
+ mechanic so that 
+4.4 m/s
+ Killers now lunge at the same speed as 
+4.6 m/s
+ Killers.
+Patch 2.2.1
+
+Buff
+: reduced 
+Yamaoka's Haunting
+ Recharge time from 
+20 seconds
+ to 
+15 seconds
+.
+Patch 2.3.0
+
+Rework
+:
+ reworked 
+The Spirit's
+ phasing audio:
+
+Survivors within the 
+Husk's
+ Terror Radius do not hear the phasing sound.
+
+Survivors outside the 
+Husk's
+ Terror Radius can hear the phasing sound, but it is non-directional.
+
+Survivors no longer hear 
+The Spirit's
+ breathing while she is phasing.
+
+Quality of Life
+: reduced the footstep audio.
+Patch 2.3.3
+
+Buff
+: adjusted 
+The Spirit's
+ 
+Husk
+ animations while activating 
+Yamaoka's Haunting
+ to make the transition more seamless, allowing for more mind-game potential.
+Patch 3.4.0
+
+Quality of Life
+: adjusted 
+The Spirit's
+ speed curve after exiting a 
+Phase-Walk
+ to drop off more gradually and over a longer period of time.
+
+Nerf
+:
+ removed the collision between 
+The Spirit
+ and Survivors while she is phasing, removing her ability to use this to detect invisible Survivors' presence.
+
+Nerf
+:
+ restored visible 3rd person (Survivor POV) for when 
+The Spirit
+ is vaulting, removing this mind-game potential.
+Patch 5.3.0
+
+Nerf
+:
+ 
+The Spirit
+ now emits a directional audio cue while phasing.
+
+Change
+:
+ received an Add-on Pass, reworking several Add-ons.
+
+Change
+:
+ 
+The Spirit
+ now features a unique Terror Radius and Chase Music.
+Patch 6.7.0
+
+Buff
+: removed the ability to burn and thus dissolve the 
+Husk
+ while 
+The Spirit
+ is 
+phase-walking
+.
+
+Trivia
+
+General
+
+The Spirit
+ is the fifth female killer.
+
+The Spirit
+ was the first Killer to break 
+Pallets
+ and damage 
+Generators
+ with her Weapon.
+
+The Spirit
+ was the second Killer to vocalise her attack, the first being The 
+Huntress
+.
+
+The Spirit
+ was the second Killer to have facial expressions, the first being The 
+Clown
+.
+
+The Developers programmed a special facial rig that is unique to her, allowing her to show a very wide range of emotions.
+
+The Spirit
+ is one of the Killers that have a unique Hatch-closing animation, that she stabs the Hatch with her weapon.
+
+The Spirit
+ occasionally performs a passive phase, leaving a trail of 
+"still images"
+ behind her, confusing Survivors about her movement.
+
+The Spirit
+ does not step over, but rather climbs through 
+Windows
+ to get to the other side.
+
+Originally, if a Survivor watched her vault a Window, they would just see her standing in front of it, then teleport to the other side.
+
+As of 
+Patch 3.4.0
+, 
+The Spirit
+ received a custom third person vault animation.  She climbs onto the sill then steps down on the other side.
+
+The Spirit
+ was inspired by 
+Sadako Yamamura
+ and 
+Kayako Saeki
+ from the 
+Ringu
+ and 
+Ju-on (The Grudge)
+, respectively.
+
+This is cemented by her score for hitting a Survivor after leaving phasing be named 
+Grudge
+.
+
+Development
+
+In a stream showcasing the development of 
+The Spirit
+, it was mentioned that she cost the Developers about 30,000 Dollars to create.
+
+In the teaser 
+First Cut
+, she was voiced by 
+Isabelle Mocquard
+. This was later changed to 
+Gabrielle Murphy
+, also known as the Community Manager not_Queen.
+
+According to Louis McLean, 
+The Spirit
+ did not have her bandages at some point during development.
+
+They were ultimately added as the non-bandaged 
+Spirit
+ was 
+"distracting"
+ and 
+"it [might have] caused a stir in some countries"
+.
+
+Lore
+
+The 
+Entity
+ originally chose 
+Rin's father
+ as a new Killer.
+
+During the confrontation between Rin and her father, The 
+Entity
+ sensed greater potential in Rin's rage over her father's despair and decided to choose her instead to become a new Killer.
+
+The Spirit
+ is directly related to The 
+Oni
+, who is a paternal ancestor of hers.
+
+The Spirit
+ resembles an 
+"Onryō"
+, a ghost in Japanese culture, believed to be able to enter the world of the living and cause pain in order to fulfil their need of vengeance.
+
+The Spirit's
+ last name, Yamaoka, roughly translates to 
+"Mountain Hill"
+.
+
+Takamatsu University
+, the college that 
+Rin Yamaoka
+ attended, exists in real life. It is located in Takamatsu, Kagawa Prefecture, Japan.
+
+Since 
+Takamatsu University
+ was established 1996, it can be argued that the Spirit's backstory happened between 1996 and 2018.
+
+The Spirit's
+ 
+Tattered Tradition
+ Outfit (a 
+Kimono
+) is based on her Japanese heritage, a theme which is also shared by 
+Yui Kimura
+'s 
+Kumi-Daiko Performer
+ Outfit and The 
+Oni
+'s Outfits.
+
+Voice Actress
+
+The Spirit
+ is voiced by 
+Gabrielle Murphy
+, who at that time worked as the Lead Community Manager on the Game.
+
+Gallery
+
+See 
+Spirit's Gallery
+
+In-game Assets
+
+The Spirit
+
+The Spirit (Portrait render)
+
+The Spirit (Background image)
+
+Old Assets
+
+The Spirit (Old Portrait render)
+
+Outfits
+
+Marine Maiden Outfit
+
+Sliced to Ribbons Outfit
+
+Concept Art
+
+Default Concept Art
+
+Pose Study
+
+Face Study
+
+Hands Study
+
+Hands Study #2
+
+'The Reckoning' Concept Art
+
+'Tattered Tradition' Concept Art
+
+'Accursed Armor' Concept Art
+
+'Crystalline Apparation' Concept Art
+
+'Warhammer' Concept Art
+
+'Shady Sunbather' Concept Art
+
+'New Tradition' Concept Art
+
+'Incendiary Fury' Concept Art
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

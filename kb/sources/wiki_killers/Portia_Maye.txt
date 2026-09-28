@@ -1,0 +1,3516 @@
+# Portia Maye
+Source: https://deadbydaylight.wiki.gg/wiki/Portia_Maye (page complète via API, consultée le 27/09/2026)
+
+The Houndmaster
+
+Name
+
+Portia Maye
+
+Gender
+
+Woman
+
+Origin
+
+Caribbean
+
+Power
+
+Scent of Blood
+
+Power 
+Attack
+ Type
+
+Special Attack
+
+(Dog Damage)
+
+Weapon
+
+Deadly Cane
+
+Movement Speed
+
+115 % 
+|
+ 4.6 m/s
+
+Alternate Movement speed
+
+150 % 
+|
+ 6 m/s
+(Slipstream)
+
+Terror Radius
+
+32 metres
+
+Lullaby
+ Radius
+
+32 metres (The Dog)
+
+Height 
+
+Average
+
+DLC
+
+Doomed Course
+
+Voice Actor
+
+Debra Wilson (Blindlight)
+
+Cost
+
+9,000 
+Iridescent Shards
+
+500 
+Auric Cells
+
+Menu Music
+
+Terror Radius Music
+
+Metadata
+
+CharID
+
+K38
+
+Portia Maye
+ or 
+"The Houndmaster"
+ is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+She was introduced as the Killer of 
+Doomed Course
+, a Chapter DLC that released on 28 November 2024.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+2.1
+ 
+The Archives
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: Deadly Cane
+
+3.3
+ 
+Power: Scent of Blood
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for Scent of Blood
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Default
+
+5.2
+ 
+Prestige
+
+5.2.1
+ 
+Perk Charms
+
+5.2.2
+ 
+Prestige Badges
+
+5.3
+ 
+In-Game Store
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+General
+
+8.2
+ 
+Dogs
+
+8.2.1
+ 
+Pet the Dog
+
+8.3
+ 
+Voice Actress
+
+8.4
+ 
+Voice-Lines
+
+8.5
+ 
+Voice-Line References
+
+9
+ 
+Gallery
+
+9.1
+ 
+In-game Assets
+
+9.2
+ 
+Key Art
+
+9.3
+ 
+Outfits
+
+9.4
+ 
+Screenshots
+
+9.5
+ 
+Concept Art
+
+10
+ 
+References
+
+Overview
+
+The Houndmaster
+ is a force to be feared, with an equally fearsome dog at her side.
+
+Her personal Perks, 
+All-Shaking Thunder
+, 
+Scourge Hook: Jagged Compass
+, and 
+No Quarter
+, help her increase her lunge attack distance, create scourge hooks, and overwhelm Survivors with healing Skill Checks.
+
+Lore
+
+Portia Maye's father helped found a prosperous settlement of sailors and merchants on an uncharted island in the Caribbean. They called their port town Fortune and created a vast trading network which exposed Portia to cultures and knowledge from around the world. As a sailor and lover of stories, Portia's father read her the Arabian Nights, Shakespeare and Greek mythology, and he instructed her in sailing and celestial navigation. To be sure, he instilled within her a love for adventure so that she always wanted to travel with him.
+
+Once she accompanied her father on a trip to Italy where he traded sugar and silver for rare silks and spices. There they also acquired a litter of Corso puppies which her father said they would train as hunting dogs for Fortune's yearly hunting games. He also mentioned she could keep the strongest of the litter for her upcoming twelfth birthday. She named the pups Caeser, King, Shah, Athena, and the runt of the bunch-Snug. But before she could begin their training, a violent storm pushed Nightsdream off course into an area controlled by freebooters.
+
+Desperately, her father tried to steer the ship to safety, but the dreaded Mad Molak attacked them with his ships and took Nightsdream quickly. Those who survived the initial attack were pitted against each other in vicious fights that Molak and his crew would wager on. The brigand promised that the last man standing would be let go.
+
+When Portia's father refused to participate, the most vicious of Molak's men, his son, Tariq, tortured him for hours and finally-
+
+Slit his throat.
+
+Keeping Portia alive to get past Fortune's outer defenses, Molak and Tariq returned to their sloop and left a skeleton crew on Nightsdream. Portia would lead them into Fortune and, once inside, Molak and his raiders would attack, pillage and burn their beloved town to the ground.
+
+Using her skills in celestial navigation, Portia led them off-course through an area that many claimed to be cursed. Known as the Dragon's Tooth, some believed the area bled into the dark malignant domain of some ineffable evil where monsters roamed. Portia hoped to lead Molak to his doom and if she perished in the effort, so be it.
+
+As she approached the Dragon's Tooth, dark clouds accumulated, and a cold black fog surrounded them. Sheets of rain fell, and a fierce wind roared down on the ship, creating black mountains that crashed over the mast.
+
+Instantly, Molak and his ship turned away from the storm and left her to perish. But Portia refused to surrender as Nightsdream plowed through the thick fog and lightning. Her heart thundered in her chest as the ship creaked and groaned and slowly capsized. The last thing she saw before the ocean swallowed her whole was the silhouette of a giant tentacle crashing down on them.
+
+Portia opened her blurry eyes to see Snug staring down at her. He licked her face and barked for her to get up. Blinking the saltwater out of her eyes, she pushed her aching and bruised body from the ground but collapsed onto the strange purple sand. She had never seen anything like it before.
+
+With difficulty, she gathered herself, stood, and turned to face the runt. Snug barked twice and began sniffing the ground, leading her to a cluster of coconuts and purple seaweed. She dried out the seaweed, cracked the coconuts, and ate on the rocks, quietly listening to creatures she had never heard before and suddenly realized-
+
+They were marooned on an island in the Dragon's Tooth.
+
+They were in a strange world, an in-between world, a world her father had once described as a living nightmare that tortured the mind and played with the heart. And as she listened to these strange new sounds, she suddenly saw Molak everywhere.
+
+Instinctively, Portia closed her eyes and shrieked and only stopped when Snug jumped into her lap, returning her to the moment with a crescendo of barks.
+
+Over the years, Portia survived on whatever washed ashore as she battled the predators that stalked the island. Ferocious animals, vicious humans, and savage abominations not of this world. Snug now weighed over a hundred pounds and followed Portia everywhere. Together they made a daunting pair and most of the survivors on the island kept their distance. The few who didn't lived to regret it if they lived at all. And just when she was about to give up on the idea of escaping, she spotted an impossible thing while searching the beach for Snug. To her disbelief, she saw-
+
+Nightsdream drifting offshore in the cold, black fog.
+
+She knew better than to doubt or question anything on this island. With a whistle she entered the water but was suddenly attacked by a group of castaways. In her mind, she slaughtered Molak fifty times and spared only those she needed to crew her ship. Together they spent days searching for Snug, but he was nowhere to be found. He was-
+
+Gone.
+
+Gone, as if he had never been-as if he had only been a figment of her imagination.
+
+For decades Portia terrorized the Caribbean as she searched for Molak. She only attacked freebooters, taking their gold and torturing them sadistically to satiate some intangible darkness living within her. A darkness like a parasite that demanded blood until it had its fill.
+
+On the occasions Portia couldn't appease its hunger, the parasite would squeeze her mind with its deadly talons, crushing reason and reality until she would see Molak's face on every crewmember. She would attack and butcher everyone and anyone until one of her many trusted guard dogs barked for her to stop and-
+
+Molak would suddenly dematerialize into wisps of black fog.
+
+Terrified, the crew knew it was just a matter of time before her madness turned against them. And so, even when they finally located Molak, they conspired to mutiny.
+
+But they had underestimated their captain.
+
+By the time Portia was through with them there were only five left standing in a pool of blood and gore. They instantly threw themselves on her mercy as her dogs surrounded them waiting for the kill command that never came.
+
+Destroying Molak would take more hands than she possessed. Gathering her wits, she ordered the mutineers to clean up the deck and feed her dogs as she steered Nightsdream toward Mad Molak's Island.
+
+Molak himself was out on the high seas, but Portia's crew captured Tariq and locked him up in preparation for his father's return.
+
+When Molak returned, he found the island deserted apart from a woman offering chests of gold and jewels. She claimed she wanted to join Molak's crew and had prepared an amazing feast for him and his men. Not recognizing her, Molak accepted the treasure and asked about Tariq. She smiled and assured him his son would be joining them for dinner.
+
+Portia served Molak an elaborate meal and he drank and ate with gusto. The meat was especially good, roasted crisp and black on the outside and pink and juicy on the inside. He wanted to know if it was wild boar or venison.
+
+Portia smiled, stood proudly and reached over the table and lifted a golden food cover to reveal Tariq's decapitated, glazed head frozen in a scream of terror, the mouth vomiting bullion and jewels.
+
+Molak roared his anguish like a wounded bull, and she reveled in his torment as a thick black fog rose from the floor like a black veil. But before she could strike Molak down, something unseen jerked him backward into the darkness.
+
+At once her laughter died. Lips curled with mingled panic and rage. Veins in her neck stood out in livid ridges. Talons gripped her mind and squeezed and refused to let go. He was gone! Gone! Gone before she could stomp his head into a bloody pulp.
+
+Unintelligible words fumbled out of her mouth and degenerated into a guttural rasp. And just as she was about to scream, she heard the impossible. A bark. A bark she hadn't heard in years.
+
+She heard it, again.
+
+And again.
+
+Snug!
+
+He had Molak's scent.
+
+Not trying to understand what could not be understood, she charged into the fog to finish what she started with her long, lost friend.
+
+The Archives
+
+The table below lists additional Lore about 
+The Houndmaster
+ from 
+The Archives
+, either from 
+Tomes
+ that featured him or from individual Lore entries that mentioned her:
+
+Tome
+
+Entry
+
+Type
+
+Tome 24 - The Frayed Rope
+
+Memory Fragments (Portia Maye)
+
+Featured Character
+
+Load-out
+
+Unique Perks
+
+The Houndmaster
+ comes with 
+3
+ 
+Perks
+ that are unique to her:
+
+ 
+
+All-Shaking Thunder
+
+"Enemies on land and sea learned to tremble before your might."
+
+After falling from a height, 
+All-Shaking Thunder
+ activates for 
+15
+/
+20
+/
+25
+ 
+seconds
+:
+
+Increases
+ the range of your 
+Lunge Attack
+ by 
++75 %
+.
+
+All-Shaking Thunder
+ has a cool-down of 
+5 seconds
+.
+
+"Go on. Run. Tell your friends I'm coming for them." — Portia Maye
+
+ 
+
+No Quarter
+
+"Every skirmish ended with a relentless volley of cannon fire, leaving no doubt who was superior."
+
+Whenever a Survivor healing themselves by any means reaches 
+75 %
+ Healing Progress, 
+No Quarter
+ triggers its effect:
+
+The Survivor is faced with a continuous stream of 
+Skill Checks
+ until the 
+Self-Heal
+ is completed.
+
+If they fail a 
+Skill Check
+ or interrupt the action by any means, they suffer from the 
+Broken
+ 
+Status Effect
+ for 
+20
+/
+25
+/
+30
+ 
+seconds
+.
+
+"Fire another broadside! Don't stop until the sea takes them!" — Portia Maye
+
+ 
+
+Scourge Hook: Jagged Compass
+
+"Sometimes the compass points north. Other times it points somewhere else entirely."
+
+At the start of the Trial, 
+4
+ 
+Hooks
+ in the environment are changed into 
+Scourge Hooks
+:
+
+The 
+Auras
+ of these 
+Scourge Hooks
+ are highlighted in 
+white
+.
+
+Whenever a Survivor is unhooked from a normal 
+Hook
+, the following effect applies:
+
+The 
+Hook
+ is converted into a 
+Scourge Hook
+.
+
+Whenever you hook a Survivor onto a 
+Scourge Hook
+, the following effect applies:
+
+The 
+Aura
+ of the 
+Generator
+ with the most progression is highlighted in 
+yellow
+ for 
+6
+/
+8
+/
+10
+ 
+seconds
+.
+
+"Drop anchor! I will chart us a new course." — Portia Maye
+
+Prestige
+
+Prestiging 
+The Houndmaster
+ will automatically add 
+Tier I
+ of her Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Houndmaster
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: Deadly Cane
+
+The 
+Deadly Cane
+ is the Primary Weapon of 
+The Houndmaster
+.
+Her desire for revenge went unfulfilled, as her father's killer disappeared into the darkness.
+
+Power: Scent of Blood
+
+"The Houndmaster and her dog operate as one.
+Her commands are followed without question or delay."
+SPECIAL COMPANION: THE DOG
+The Houndmaster
+ sees the 
+Aura
+ of 
+The Dog
+ at all times.
+SPECIAL INTERACTION: PET DOG
+Press the 
+Interaction button
+ while standing near 
+The Dog
+ to pet it.
+SPECIAL INTERACTION: SWITCH COMMAND
+Press the 
+Secondary Power button
+ to switch between the 
+Chase Command
+ and the 
+Search Command
+.
+SPECIAL ABILITY: CHASE
+Press and hold the 
+Power button
+ to initiate the 
+Chase Command
+, charting the 
+Chase Path
+ in front of you that 
+The Dog
+ will follow:
+Press the 
+Attack button
+ to send 
+The Dog
+ out at high speed or release the 
+Power button
+ to cancel the ability.
+
+The 
+Chase Command
+ has a cool-down of 
+3 seconds
+.
+SPECIAL ABILITY: REDIRECT CHASE
+ 
+Press the 
+Power button
+ after sending out 
+The Dog
+ to temporarily take possession of it:
+Press the 
+Attack button
+ to redirect the 
+Chase Path
+ or press the 
+Secondary Power button
+ to cancel the redirect altogether.
+SPECIAL INTERACTION: DOG GRAB
+When 
+The Dog
+ comes across a Survivor in its path, it pounces and grabs onto them:
+
+Causes the 
+Grabbed Survivor
+ to suffer from a 
+-10 %
+ 
+Hindered
+ 
+Status Effect
+ and the 
+Incapacitated
+ 
+Status Effect
+.
+
+Causes the 
+Grabbed Survivor
+ to slowly be pulled towards 
+The Houndmaster
+ for a maximum of 
+8 seconds
+, after which they are released again.
+
+This duration is 
+reduced
+ to 
+2 seconds
+, if the 
+Grabbed Survivor
+ is protected by the 
+Endurance
+ 
+Status Effect
+.
+
+Causes the 
+Exit Gates
+ to be blocked for the 
+Grabbed Survivor
+.
+
+This effect lingers for 
+1.5 seconds
+ after being released.
+
+The Aura of the 
+Grabbed Survivor
+ is revealed to 
+The Houndmaster
+ in 
+red
+.
+
+The 
+Grabbed Survivor
+ can fight against the pull by moving in opposite directions and potentially steer 
+The Dog
+ towards nearby 
+Pallets
+.
+
+The 
+Grabbed Survivor
+ can free themselves sooner by stunning 
+The Dog
+ or being rescued by another Survivor interacting with it:
+
+The Auras of upright 
+Pallets
+ within 
+16 metres
+ of the 
+Grabbed Survivor
+ are revealed to them in 
+yellow
+.
+
+Dropping a 
+Pallet
+ onto 
+The Dog
+ stuns it for 
+3 seconds
+ and triggers 
+Killer Instinct
+ for 
+5 seconds
+.
+
+If the 
+Grabbed Survivor
+ is released without injury by any means, they continue to suffer from the 
+Hindered
+ 
+Status Effect
+ for another 
+5 seconds
+.
+
+If 
+The Dog
+ collides with a vaulting Survivor while trying to grab them, the Survivor receives damage.
+SPECIAL ABILITY: SEARCH
+ 
+Press and hold the 
+Power button
+ to initiate the 
+Search Command
+:
+
+Causes her cane to be sent out as a beacon, marking the 
+Target Location
+ of 
+The Dog
+.
+
+The beacon can moved to any location within 
+5 to 40 metres
+ of 
+The Houndmaster
+.
+
+Aiming at the Aura of a Prop transforms the beacon into a marker that also acts as the 
+Target Location
+.
+
+The marker can target the Aura of any Prop in the environment and has an unlimited range.
+
+Grants the ability to also see the Auras of completed 
+Generators
+, which are highlighted in 
+light orange
+.
+
+This allows the marker to target them as well.
+
+Press the 
+Attack button
+ to send 
+The Dog
+ out along a 
+Search Path
+ towards the 
+Target Location
+ or release the 
+Power button
+ to cancel the ability.
+
+While searching, 
+The Dog
+ has its own 
+Lullaby
+ of 
+32 metres
+ and uses its 
+Houndsense
+ to locate nearby Survivors:
+
+Increases
+ the radius of the 
+Houndsense
+ based on the distance 
+The Dog
+ travels along the 
+Search Path
+.
+
+Causes Survivors entering its radius to become affected by 
+Houndsense
+ and trigger 
+Killer Instinct
+.
+
+This effect lingers for 
+2 seconds
+ after leaving the radius.
+
+Increases
+ the Movement speed of 
+The Houndmaster
+ to 
+6 m/s
+ after travelling along the 
+Search Path
+ for a certain distance.
+
+This effect lasts for as long as she remains on or close to the 
+Search Path
+ and ends once 
+The Dog
+ returns to her side.
+
+SPECIAL EFFECT: HOUNDSENSE
+Survivors affected by 
+Houndsense
+ are highlighted to 
+The Houndmaster
+ in 
+bright red
+ and experience either of the following effects:
+
+Healthy Survivors after entering the 
+Injured State
+:
+
+Suffer from the 
+Deep Wound
+ 
+Status Effect
+ upon becoming injured.
+
+Injured Survivors after entering the 
+Dying State
+:
+
+Increases
+ the volume of their 
+Grunts of Pain
+.
+
+Increases
+ the duration of their 
+Pools of Blood
+.
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Charging Command (
+The Houndmaster
+): 
+3.68 m/s
+
+Walking (
+The Houndmaster
+): 
+4.6 m/s
+
+Slipstream-Walking (
+The Houndmaster
+): 
+6.0 m/s
+
+Following (
+The Dog
+): 
+9.2 m/s
+
+Returning (
+The Dog
+): 
+18.4 m/s
+
+Patrolling (
+The Dog
+): 
+22.5 m/s
+
+Dashing (
+The Dog
+): 
+35 m/s
+
+Pouncing (Unused) (
+The Dog
+): 
+50 m/s
+
+Chase Command:
+
+Power triggered cool-down: 
+3 seconds
+
+Power cancelled cool-down: 
+1 second
+
+Search Command:
+
+Power triggered cool-down: 
+0.5 seconds
+
+Power cancelled cool-down: 
+1 second
+
+Target Location minimum distance: 
+5 metres
+
+Target Location maximum distance: 
+40 metres
+
+It should be noted that this only applies to 
+Searches
+ that are not directed at a specific Prop.
+
+Slipstream:
+
+The mechanic that unlocks a Movement Speed after walking along the 
+Search Path
+ is internally referred to as 
+Slipstream
+.
+Walking along the 
+Search Path
+ grants 
+The Houndmaster
+ so-called 
+Slipstream
+ points at a given rate per travelled metre.
+Once she reaches a specific threshold, she is granted the Movement Speed bonus.
+
+Slipstream range: 
+1.1 metres
+
+The Houndmaster
+ must remain within this distance of the 
+Search Path
+ in order to gain 
+Slipstream
+ points.
+Going beyond it causes her to lose them.
+
+Slipstream
+ gain rate: 
++85 pts/m
+ (distance-based)
+
+Slipstream
+ lose rate: 
+-70 pts/s
+ (time-based)
+
+Slipstream
+ threshold: 
+100 pts
+
+Reaching this threshold grants the Movement Speed bonus.
+
+Dog (General):
+
+Pet-the-Dog interaction duration: 
+5.5 seconds
+
+Stun duration: 
+3 seconds
+
+Post-Stun 
+Killer Instinct
+ duration: 
+5 seconds
+
+Chase Path
+ maximum deviation: 
+2 metres
+
+The maximum distance it can deviate from a straight line to circumvent small obstacles.
+
+Follow distance: 
+3.25 metres
+
+The distance 
+The Dog
+ tries to stay in front of the Killer while following her.
+
+Hitbox size: 
+0.65 metres
+
+Applies while chasing and pouncing.
+
+Vault durations:
+
+while following: 
+0.9 seconds
+
+while chasing: 
+0.65 seconds
+
+Pre-Vault turn-to-face durations:
+
+while following: 
+0.3 seconds
+
+while chasing: 
+0.015 seconds
+
+Dog (Chase Command):
+
+Pull-cycles: 
+3 seconds each
+
+How long it takes 
+The Dog
+ to complete a pull-cycle while pulling a Survivor towards the Killer.
+
+Maximum Pull-duration: 
+8 seconds
+
+Maximum 
+Endurance
+ Pull-duration: 
+2 seconds
+
+Recall Cool-down: 
+4 seconds
+
+Interaction Charge time to free a 
+Grabbed Survivor
+: 
+0.65 seconds
+
+Aura-reveal range to upright 
+Pallets
+: 
+16 metres
+
+Applies to the 
+Grabbed Survivor
+.
+
+Aura-reveal range to other Survivors: 
+20 metres
+
+Applies to the 
+Grabbed Survivor
+ and nearby other Survivors
+, prompting them to help.
+
+Hindered
+ strength while grabbed: 
+-10 %
+
+Hindered
+ strength after uninjured release: 
+-10 %
+
+Duration: 
+5 seconds
+
+Gate Blocker
+ Linger duration: 
+1.5 seconds
+
+Acceleration: 
+32 m/s
+2
+
+Redirect
+ Linger duration: 
+1 second
+
+Camera Transition time: 
+0.15 seconds
+
+Between 
+The Houndmaster
+ and 
+The Dog
+ and vice-versa.
+
+Dog (Search Command):
+
+Linger duration: 
+3 seconds
+
+Houndsense
+ radius (initial): 
+2.5 metres
+
+Houndsense
+ radius (eventual): 
+5 metres
+
+Houndsense
+ visibility range (for Survivors): 
+20 metres
+
+Killer Effect duration after detecting a Survivor: 
+45 seconds
+
+Extension if a down was prevented by 
+Endurance
+: 
++20 seconds
+
+Patrol Idle Seconds: 
+3 seconds
+
+If Dog doesn't return to Killer in that time, it will be automatically teleported to them.
+
+Dog (Search Command - Taunting):
+
+This is an unused feature for the 
+Search Command
+
+Any Survivor that is inside the 
+Search Command'
+s radius while 
+The Dog
+ is lingering at the 
+Search Command
+s destination will be considered "taunting". Spending enough time inside the radius would cause 
+The Dog
+ to attack the taunting Survivor with a fast attack, internally referred to as 
+Pounce
+.
+
+This never happens since the 
+Search Command
+ destination linger time never lasts long enough for the taunt to fully charge:
+
+Taunt
+ Charge time: 
+4 seconds
+
+Pounce
+ Initialisation duration: 
+0.2 seconds
+
+How long it takes 
+The Dog
+ to turn to face the taunting Survivor before attacking them.
+
+Pounce
+ charge duration: 
+0.6 seconds
+
+Pounce
+ range: 
+20 metres
+
+Pounce
+ speed: 
+50 m/s
+
+Add-ons for Scent of Blood
+
+Icon
+
+Name
+
+Description
+
+Creature's Bone
+
+It was unlike anything she'd ever seen, and the marrow in its bones was delectable.
+
+Reduces
+ the Stun duration of 
+The Dog
+ by 
+-50 %
+.
+
+Sticky Pitch
+
+A vital commodity for keeping a ship in tip-top shape.
+
+Increases
+ the bonus Movement speed of 
+The Houndmaster
+ while walking along the 
+Search Path
+ by 
++2 %
+.
+
+Trainer's Book
+
+Some of the advice contained within helped strengthen their bond.
+
+Increases
+ the duration of 
+Houndsense
+ by 
++35 %
+.
+
+Young Coconut
+
+Her first meal as a castaway, she shared it with her loyal companion.
+
+Increases
+ the Chase speed of 
+The Dog
+ by 
++5 %
+.
+
+Barley Meal
+
+The key ingredient for a bland but reinvigorating porridge.
+
+Increases
+ the distance of the 
+Initial Chase Path
+ by 
++20 %
+.
+
+Belaying Pins
+
+Ideal for holding rope, securing knots, and rigging sails.
+
+Causes Survivors affected by 
+Houndsense
+ to also suffer from the 
+Oblivious
+ 
+Status Effect
+ for 
+20 seconds
+.
+
+Knotted Rope
+
+The dog's jaws tightened around the makeshift toy, and he thrashed it back and forth.
+
+Reduces
+ the Attack cool-down of successful 
+Basic Attacks
+ on Survivors caught in the grasp of 
+The Dog
+ by 
+-2 %
+.
+
+Smoked Snapper
+
+A protein-packed foodstuff, preserved to ensure its quality over long expeditions.
+
+Reduces
+ the Power Recharge time by 
+-5 %
+.
+
+Spyglass
+
+Used to spot what one is looking for, no matter how far away.
+
+The 
+Auras
+ of Survivors affected by 
+Houndsense
+ are revealed for 
+3 seconds
+ after it ends.
+
+Fatty Meat
+
+A strange and irresistible treat for a canine friend.
+
+Survivors affected by 
+Houndsense
+ periodically scream every 
+15 seconds
+, but without revealing their location to 
+The Houndmaster
+.
+
+Spiked Collar
+
+A dangerous accessory worn by dogs sent to battle.
+
+Causes Survivors becoming injured while they were grabbed by 
+The Dog
+ to suffer from the 
+Haemorrhage
+ and 
+Mangled
+ 
+Status Effects
+ for 
+60 seconds
+.
+
+Training Bell
+
+Even over great distances, it will notify a dog exactly where their owner is.
+
+The 
+Aura
+ of the Survivor responsible for stunning 
+The Dog
+ is revealed to you for 
+8 seconds
+.
+
+Unfinished Map
+
+Features details on the area that would come to be known as the Bermuda Triangle.
+
+Causes Survivors affected by 
+Houndsense
+ to also suffer from the 
+Exhausted
+ 
+Status Effect
+ for 
+15 seconds
+.
+
+Waterskin
+
+She gave him the last of her water, knowing he needed the strength to hunt.
+
+Increases
+ the distance of the 
+Redirected Chase Path
+ by 
++20 %
+.
+
+Gunpowder Tin
+
+Useful for all manner of explosive schemes.
+
+Increases
+ the Action speeds for the following interactions by 
++30 %
+ for 
+20 seconds
+ after a Survivor becomes affected by 
+Houndsense
+:
+
+Breaking 
+Breakable Walls
+.
+
+Breaking 
+Pallets
+.
+
+Damaging 
+Generators
+.
+
+Leather Harness
+
+Allows greater control over a dog's every movement.
+
+Whenever a 
+Generator
+ is completed, 
+Leather Harness
+ triggers its effect for 
+30 seconds
+:
+
+Increases
+ the Chase speed of 
+The Dog
+ by 
++20 %
+.
+
+Leather Harness
+ applies its effect permanently after all 
+Generators
+ are completed.
+
+Marlinspike
+
+As good for unsplicing rope as it is for causing grievous bodily harm.
+
+Causes all Survivors within 
+20 metres
+ of 
+The Dog
+ grabbing a Survivor to become affected by 
+Houndsense
+.
+
+Marlinspike
+ does not affect the 
+Grabbed Survivor
+.
+
+Ship Figurehead
+
+A trophy torn from the bow of another ship.
+
+The 
+Terror Radius
+ of 
+The Houndmaster
+ changes based on the proximity of 
+The Dog
+:
+
+Increases
+ the 
+Terror Radius
+ by 
++8 metres
+ while it is following.
+
+Reduces
+ the 
+Terror Radius
+ by 
+-8 metres
+ while it is away.
+
+Iridescent Wheel Handle
+
+Once used to guide a greast vessel across the open seas, its remnants now serve as a memory of times past.
+
+Increases
+ the Linger duration of 
+The Dog
+ at the 
+Target Location
+ of the 
+Search Command
+ by 
++20 %
+.
+
+Grants the 
+Undetectable
+ 
+Status Effect
+ while 
+The Dog
+ fulfils the 
+Search Command
+.
+
+Touching the 
+Search Path
+ as 
+The Houndmaster
+ immediately removes the 
+Status Effect
+.
+
+"I fear no obstacle, be it man or storm." — Portia Maye
+
+Torn Novel
+
+A book given to her by her father.
+All but destroyed after a raid.
+
+While possessing 
+The Dog
+ during the 
+Chase Command
+ to access the 
+Redirect Chase
+ ability, the following effect applies:
+
+The 
+Auras
+ of Survivors within 
+10 metres
+ of 
+The Dog
+ are revealed to you.
+
+This effect lingers for 
+2 seconds
+ after exiting the ability by any means.
+
+"I'll find out who they are... and they'll pay. Every last one." — Portia Maye
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There are 
+2
+ Achievements related to 
+The Houndmaster
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Houndmaster
+
+Playing as The 
+Houndmaster
+, achieve a 
+Merciless Victory
+ using only her 
+3
+ Unique Perks: 
+All-Shaking Thunder
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Enemies on land and sea learned to tremble before your might."
+
+After falling from a height, 
+All-Shaking Thunder
+ activates for 
+15
+/
+20
+/
+25
+ 
+seconds
+:
+
+Increases
+ the range of your 
+Lunge Attack
+ by 
++75 
+.
+
+All-Shaking Thunder
+ has a cool-down of 
+5 seconds
+.
+
+"Go on. Run. Tell your friends I'm coming for them." — Portia Maye
+
+, 
+Scourge Hook: Jagged Compass
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Sometimes the compass points north. Other times it points somewhere else entirely."
+
+At the start of the Trial, 
+4
+ 
+Hooks
+ in the environment are changed into 
+Scourge Hooks
+:
+
+The 
+Auras
+ of these 
+Scourge Hooks
+ are highlighted in 
+white
+.
+
+Whenever a Survivor is unhooked from a normal 
+Hook
+, the following effect applies:
+
+The 
+Hook
+ is converted into a 
+Scourge Hook
+.
+
+Whenever you hook a Survivor onto a 
+Scourge Hook
+, the following effect applies:
+
+The 
+Aura
+ of the 
+Generator
+ with the most progression is highlighted in 
+yellow
+ for 
+6
+/
+8
+/
+10
+ 
+seconds
+.
+
+"Drop anchor! I will chart us a new course." — Portia Maye
+
+, and 
+No Quarter
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Every skirmish ended with a relentless volley of cannon fire, leaving no doubt who was superior."
+
+Whenever a Survivor healing themselves by any means reaches 
+75 
+ Healing Progress, 
+No Quarter
+ triggers its effect:
+
+The Survivor is faced with a continuous stream of 
+Skill Checks
+ until the 
+Self-Heal
+ is completed.
+
+If they fail a 
+Skill Check
+ or interrupt the action by any means, they suffer from the 
+Broken
+ 
+Status Effect
+ for 
+20
+/
+25
+/
+30
+ 
+seconds
+.
+
+"Fire another broadside! Don't stop until the sea takes them!" — Portia Maye
+
+.
+
+Binding Teeth
+
+Playing as The 
+Houndmaster
+, damage Survivors detained by 
+The Dog
+ a total of 
+25 times
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Houndmaster
+:
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Face of Revenge
+
+Common
+
+Marooned on a mysterious island, she narrowed her eyes to the horizon, planning her revenge.
+
+Captain's Longcoat
+
+Common
+
+She terrorised freebooters across the Caribbean for decades, desperate to satisfy her bloodlust.
+
+Deadly Cane
+
+Common
+
+Her desire for revenge went unfulfilled, as her father's killer disappeared into darkness.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Face of Viscera
+
+Rare
+
+Fighting for her life on a mysterious island, she never doubted she would exact bloody vengeance.
+
+Crimson Longcoat
+
+Rare
+
+She spent decades slaughtering freeboaters across the Caribbean, desperate to satisfy her bloodlust.
+
+Murderous Cane
+
+Rare
+
+She raised her blade to strike when her father's killer disappeared into darkness.
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+She sailed with a crew of cutthroats, killing her way towards the freebooter who murdered her father.
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+To the Deep
+
+Houndmaster Aberrations
+
+28 November 2024 (Thursday)
+
+Description
+
+She chose only the best and cruelest for her crew. They served her out of deep-seated fear.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Cold-Blooded
+
+Houndmaster Aberrations
+
+The crew made designs to mutiny, but their plans would soon be cut short.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Below Water
+
+Houndmaster Aberrations
+
+The crew dreaded the day that they would be casualties of her fits of madness.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+To the Horizon
+
+Houndmaster Aberrations
+
+28 November 2024 (Thursday)
+
+Description
+
+She chose only the best and cruelest for her crew. They served her out of deep-seated fear.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Warm-Blooded
+
+Houndmaster Aberrations
+
+The crew made designs to mutiny, but their plans would soon be cut short.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Golden Hour
+
+Houndmaster Aberrations
+
+The crew dreaded the day that they would be casualties of her fits of madness.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+To the Inferno
+
+Houndmaster Aberrations
+
+28 November 2024 (Thursday)
+
+Description
+
+She chose only the best and cruelest for her crew. They served her out of deep-seated fear.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Hot-Blooded
+
+Houndmaster Aberrations
+
+The crew made designs to mutiny, but their plans would soon be cut short.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Redfire
+
+Houndmaster Aberrations
+
+The crew dreaded the day that they would be casualties of her fits of madness.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+To the Hurricane
+
+Houndmaster Aberrations
+
+28 November 2024 (Thursday)
+
+Description
+
+She chose only the best and cruelest for her crew. They served her out of deep-seated fear.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Ice-Blooded
+
+Houndmaster Aberrations
+
+The crew made designs to mutiny, but their plans would soon be cut short.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Surging Storm
+
+Houndmaster Aberrations
+
+The crew dreaded the day that they would be casualties of her fits of madness.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+With a Plan
+
+Houndmaster Aberrations
+
+28 November 2024 (Thursday)
+
+Description
+
+She sailed into the dark fog and was shipwrecked on an otherworldly island.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Blue Scowl
+
+Houndmaster Aberrations
+
+She was determined to survive, waiting for the day when she could make her escape.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Royal Purple
+
+Houndmaster Aberrations
+
+The creatures were unlike anything she'd ever seen, and every day was a fight for survival.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Pewter Skull
+
+Houndmaster Aberrations
+
+Years later, her ship rose from the churning sea, an opportunity to escape her the Dragon’s Tooth.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+With a Vengeance
+
+Houndmaster Aberrations
+
+28 November 2024 (Thursday)
+
+Description
+
+She sailed into the dark fog and was shipwrecked on an otherworldly island.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Green Scowl
+
+Houndmaster Aberrations
+
+She was determined to survive, waiting for the day when she could make her escape.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Monster's Hide
+
+Houndmaster Aberrations
+
+The creatures were unlike anything she'd ever seen, and every day was a fight for survival.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Marble Skull
+
+Houndmaster Aberrations
+
+Years later, her ship rose from the churning sea, an opportunity to escape her the Dragon’s Tooth.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+With a Bloodthirst
+
+Houndmaster Aberrations
+
+28 November 2024 (Thursday)
+
+Description
+
+She sailed into the dark fog and was shipwrecked on an otherworldly island.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Red Scowl
+
+Houndmaster Aberrations
+
+She was determined to survive, waiting for the day when she could make her escape.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Leopard Finery
+
+Houndmaster Aberrations
+
+The creatures were unlike anything she'd ever seen, and every day was a fight for survival.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Bronze Skull
+
+Houndmaster Aberrations
+
+Years later, her ship rose from the churning sea, an opportunity to escape her the Dragon’s Tooth.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Mighty Strut
+
+Houndmaster Aberrations
+
+28 November 2024 (Thursday)
+
+Description
+
+Rumors spread in the wake of her high-seas campaigns, desperate warnings of an unstoppable force.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Amethyst Crown
+
+Houndmaster Aberrations
+
+They said she had the bearing of a queen, powerful and terrifying to behold.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Fur-Lined Parlor
+
+Houndmaster Aberrations
+
+Many spoke of the quality of her finery, though few witnesses lived to verify such claims.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Ravenous Cry
+
+Houndmaster Aberrations
+
+It was said that scavenger birds would follow her ship, knowing meat would be plentiful.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Mighty Swagger
+
+Houndmaster Aberrations
+
+28 November 2024 (Thursday)
+
+Description
+
+Rumors spread in the wake of her high-seas campaigns, desperate warnings of an unstoppable force.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Sapphire Crown
+
+Houndmaster Aberrations
+
+They said she had the bearing of a queen, powerful and terrifying to behold.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Fur-Lined Shore
+
+Houndmaster Aberrations
+
+Many spoke of the quality of her finery, though few witnesses lived to verify such claims.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Earthen Cry
+
+Houndmaster Aberrations
+
+It was said that scavenger birds would follow her ship, knowing meat would be plentiful.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Captain In Exile
+
+Blood Moon
+
+07 April 2025 (Monday)
+
+Description
+
+Memories of her time in the Dragon's Tooth became twisted, playing out in her mind differently than she remembered.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Festering Scar
+
+Blood Moon
+
+She recalled an injury she suffered, but the wound festered and oozed in her memory; almost as if it were alive.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Scarlet Outlaw
+
+Blood Moon
+
+She started to wonder if these disturbing visions would ever stop tormenting her.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Heart Staff
+
+Blood Moon
+
+Even the weapon in her hand evoked these twisted memories, shining red beneath the glowing moonlight.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Solemn Torment
+
+Tortured Souls
+
+13 January 2026 (Tuesday)
+
+Description
+
+The man was trapped in an iron cage on the side of the boat, while the crew stood in a line.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Queen's Ribbons
+
+Tortured Souls
+
+Her merciless heels clicked along the hardwood deck. The fiddler began playing, silencing the condemned man’s cries.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Iron Dress
+
+Tortured Souls
+
+As she approached the cage, the prisoner tried to grab her dress. Repulsed, she grabbed his hand and sliced it open.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Strike Of Agony
+
+Tortured Souls
+
+Humming along to the fiddler's elegy, she pushed the cage overboard. She smiled as it disappeared beneath the waves, the salty water closing in.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Ultimate Houndmaster
+
+Houndmaster Legendary
+
+28 November 2024 (Thursday)
+
+Description
+
+She formed a natural bond with each of her dogs, of which there were many.
+
+1755
+
+35100
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Undercut
+
+Houndmaster Legendary
+
+Her dogs were the only ones who didn’t fear her. They were the only ones she trusted.
+
+Piece
+
+Name
+
+Collection
+
+Ruby and Gold
+
+Houndmaster Legendary
+
+As she entered the fog, she caught glimpses of her most favorite dogs, past and present, running free in the darkness.
+
+Piece
+
+Name
+
+Collection
+
+Snarling Hounds
+
+Houndmaster Legendary
+
+At last, she could be one with her dogs, with nothing and no one to stop them.
+
+Piece
+
+Name
+
+Collection
+
+Brain Freeze
+
+Bone Chill
+
+A skull covered with a thick layer of ice, adding a chilling sting to the blow.
+
+Piece
+
+Name
+
+Collection
+
+Houndmaster's Mask
+
+Twisted Masquerade
+
+A mask she found herself wearing at the masquerade ball.
+
+400
+
+7200
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Houndmaster
+ is part of 
+1
+ DLC:
+
+Doomed Course
+
+Change Log
+
+Patch 8.4.1
+Patch 8.4.2
+Patch 8.5.0
+Patch 8.5.1
+Patch 8.6.0
+Patch 8.7.0
+Patch 8.4.1
+
+Buff
+: reduced the Cool-down duration of the 
+Chase Command
+ from 
+5 seconds
+ to 
+4 seconds
+.
+
+Buff
+: the visibility range of 
+Houndsense
+ for Survivors is now limited to 
+20 metres
+ from being previously unlimited.
+
+Quality of Life
+: 
+The Houndmaster
+ must now first charge the 
+Search Command
+ to see the Auras of completed 
+Generators
+ (still highlighted in a light orange), instead of at all times.
+
+This change reduces the visual clutter of seeing too many Auras at all times.
+
+Quality of Life
+: reduced the colour and opacity of the outline on Survivors afflicted with 
+Houndsense
+.
+
+This change reduces the visual interference with the 
+Killer Instinct
+ VFX.
+
+Undocumented Change
+: slightly altered the Memento Mori animation.
+
+Undocumented Change
+: added new Lobby animations for 
+The Houndmaster
+.
+
+Undocumented Change
+: reverted the Terror Radius and Chase music to the PTB version.
+Patch 8.4.2
+
+Buff
+: further reduced the Cool-down duration of the 
+Chase Command
+ from 
+4 seconds
+ to 
+3 seconds
+.
+
+Buff
+: increased the Movement speed during the Cool-down period after cancelling the 
+Chase Command
+ from 
+2 m/s
+ to 
+3 m/s
+.
+
+Buff
+: increased the hitbox of 
+The Dog
+ while following the 
+Chase Command
+ from 
+0.5 metres
+ to 
+0.65 metres
+.
+
+Buff
+: reduced the Camera Transition times between 
+The Houndmaster
+ and 
+The Dog
+ from 
+0.25 seconds
+ to 
+0.15 seconds
+.
+
+Buff
+: increased the strength of the 
+Hindered
+ Status Effect
+ afflicting the 
+Grabbed Survivor
+ from 
+-3 %
+ to 
+-10 %
+.
+
+Buff
+: halved the Vaulting time of 
+The Dog
+ mid-chase from 
+0.9 seconds
+ to 
+0.45 seconds
+.
+
+It should be noted, however, that this change might just be a bugfix, as the value was already the coded one since the Public Test Build of 
+The Houndmaster
+.
+
+Quality of Life
+: updated the pathfinding logic of 
+The Dog
+ when pulling a 
+Grabbed Survivor
+.
+
+Instead of pulling them towards where 
+The Houndmaster
+ stood at the moment of activating the 
+Chase Command
+, 
+The Dog
+ now pulls them towards the location of the 
+Grab
+ starting.
+
+Nerf
+: increased the time it takes 
+The Houndmaster
+ to regain her full Movement speed during the Cool-down period after cancelling the 
+Chase Command
+ from 
+0.85 seconds
+ to 
+1 second
+.
+Patch 8.5.0
+
+Undocumented Reversal
+: restored the Live 
+Terror Radius
+ and Chase Music from the PTB version.
+Patch 8.5.1
+
+Nerf
+: Reduced the time the 
+Exit Gates
+ are blocked after a survivor is released from a 
+Dog Grab
+ from 
+5 seconds
+ to 
+1.5 seconds
+
+This change was documented as a bug fix.
+Patch 8.6.0
+
+Undocumented Reversal
+: restored the PTB 
+Terror Radius
+ and Chase Music from the Live version.
+Patch 8.7.0
+
+Quality of Life
+: doubled Bloodpoint gains on her Deviousness Score Events.
+
+Nerf
+: increased the Vaulting time of 
+The Dog
+ while chasing from 
+0.45 seconds
+ to 
+0.65 seconds
+.
+
+Trivia
+
+General
+
+The Houndmaster
+ is the second Killer whose upper and lower body is split into separate cosmetic slots instead of a Head and Body slot, the first being The 
+Hillbilly
+.
+
+The Houndmaster
+ might be friends with The 
+Clown
+, as indicated by one of her unique voice-lines when killing 
+Jake Park
+, mentioning taking his fingers for a pal.
+
+The Clown
+ is well-known to collect a Survivor's finger after killing them and always wearing a key-chain on his belt with several fingers on it already.
+
+The Houndmaster
+ is aware of the roles some of the oldest original Survivors play in the Trials, featuring unique voice-lines for each when killing them.
+
+Like The 
+Good Guy
+, she also knows who 
+Nicolas Cage
+ is.
+
+The Houndmaster
+ is the third Killer to feature miniature Power icons next to the primary one.
+
+They are used to display switching between the 
+Chase Command
+ and the 
+Search Command
+.
+
+The Houndmaster
+ premiered a Cosmetic Outfit that alters the visuals of a Killer's Power.
+
+In her case, the Cosmetic changes the breed of her dog.
+
+Dogs
+
+Snug
+ is the name of the dog.
+
+The Anniversary Dev Quotes of the 
+Twisted Masquerade 2025
+ revealed that 
+Snug's
+ pawprint is modelled after the dog of one of the game's VFX Artists, 
+Rui
+.
+The dog is called 
+Taro
+ and is a nearly 16-year-old border collie.
+
+There was a community theory where it was believed that 
+Snug
+ was not the same one in the lore and was instead an entity creation used to convince Portia to willingly join the trials. It was due to Snug teleporting in trial and having glowing yellow eyes.
+
+This theory was debunked by the developers on the 
+Doomed Course launch livestream
+ as they said it was indeed the real 
+Snug
+.
+[
+1
+]
+
+The dog's name in the 
+Ultimate Houndmaster
+ outfit is Dagmar and she is a female.
+
+The dog in the 
+Ultimate Houndmaster
+ has a Lion style haircut.
+
+Pet the Dog
+
+Load video
+
+YouTube
+
+YouTube might collect personal data. 
+Privacy Policy
+
+Continue
+
+Dismiss
+
+Voice Actress
+
+The Houndmaster
+ shares her voice-actress with 
+Saga Anderson
+.
+
+Voice-Lines
+
+The Houndmaster
+ is the ninth Killer to actively speak during Trials.
+
+The Houndmaster
+ is the first character to have voice lines acknowledging a specific lobby animation, being 
+Ellen Ripley
+'s Jonesy lobby animation.
+
+Voice-Line References
+
+The Houndmaster
+ has several unique voice-lines when killing any of the four original Survivors (
+Dwight Fairfield
+, 
+Meg Thomas
+, 
+Claudette Morel
+, and 
+Jake Park
+), as well as 
+Nea Karlsson
+, 
+David King
+, and 
+Nicolas Cage
+.
+
+In those voice-lines, she makes direct references to their roles in the Trials, as well as their personal preferences and known character traits, revealing a deep knowledge of who they are, making her unique amongst Killers.
+
+Several of 
+The Hounmaster's
+ voice-lines make reference to Shakespearean literature that ties into her lore of having a fondness for his sonnets and plays, taught to her by her father.
+
+"Scullions! Rampallians! Catastrophe, awaits!" references 
+Henry IV
+, Part 2, Act 2, Scene 1: "Away, you scullion! You rampallian! You fustilarian!".
+
+"Out of my sight! Thou dost infect mine eyes!" directly quotes 
+Richard III
+, Act 1, Scene 2: "Out of my sight! Thou dost infect mine eyes."
+
+"Run, you Lilly-livered idiots" makes reference to 
+Macbeth
+, Act 5, Scene 3, where Shakespeare famously first used the term "lily-liver’d" in the line: "Go, prick thy face, and over-red thy fear, Thou lily-liver’d boy."
+
+Voice Line
+
+Audio
+
+Selecting in the Lobby
+
+"There is no hope. Not for them, not for us."
+
+"That's it, get ready."
+
+"See if you can catch a scent. We'll be chasing them soon enough."
+
+"You're unfit for any place but here."
+
+"Look at what we have here."
+
+"Just you and me. Odds I would say, are in our favour."
+
+"Once again it's just you and me."
+
+"Once again it's just us."
+
+"Prepare yourself, ya old salt."
+
+"I've still got business to settle. You smell him anywhere?"
+
+"Where the devil are we?"
+
+"Shouldn't be difficult. These imbeciles think with their toes."
+
+"Hurry it up ya gutless idiots. No one should be late to their own death."
+
+"This should be fast."
+
+Idling in Lobby
+
+"Patience. The hunt will begin soon enough."
+
+"Won't be long now. Patience."
+
+"Easy, we'll get 'em soon enough."
+
+"Come on now, don't look at me like that."
+
+"Patience."
+
+Lobby: 
+Ellen Ripley
+ - Jonesy Lobby Animation
+
+"Easy… just a cat."
+
+"Easy… it’s just a yellow-bellied cat."
+
+"Yes, yes. I see the cat too."
+
+"Take it easy. You don’t want to scare the cat."
+
+"Here kitty, kitty. I have someone who wants to say hi."
+
+Trial Start
+
+"I’ll have you all before I break a sweat."
+
+"It begins."
+
+"Ha! Like old times."
+
+"Let’s pick up a scent, shall we."
+
+"Make speed, then. This shouldn’t be too difficult."
+
+"Run, you Lilly-livered idiots. We're coming for you!"
+
+"Let’s give these yellow-bellied sea-rats a chance to hide."
+
+"You smell that fish and swine? There be filthy rats out and about."
+
+"These lice-infested rats aren’t worthy enough to spit on."
+
+"Scullions! Rampallians! Catastrophe, awaits!"
+
+"Let's go!"
+
+"Quickly, before these festering rats abandon ship."
+
+Hooking a Survivor
+
+"Like a worm."
+
+"Enough theatrics!"
+
+"Stop your whining!"
+
+Stunned
+
+"Viper! Maggot!"
+
+"Ya rotten hog!"
+
+"Ya stewed worm!"
+
+"May your head rot off!"
+
+Locker Found
+
+"Out ya tallow faced parasite!"
+
+"Loathsome scab!"
+
+"Detested parasite!"
+
+"Gutless scab!"
+
+"Rotten cumberworld!"
+
+"Come you spineless loon!"
+
+"Filthy stewstick, I'll break ya!"
+
+"Cobloaf!"
+
+"Yolkless egg, out with ya!"
+
+"Festering boil, out with ya!"
+
+"Stinking carbuncle!"
+
+"Incharitable dog!"
+
+"Ya stinkin' claybrained boot!"
+
+"Pus filled boil!"
+
+"Stinking boil, out with ya!"
+
+"Pus filled newt. You can't hide from me!"
+
+Chase Command
+
+"Go!"
+
+"Sa!"
+
+"Catch!"
+
+"Now!"
+
+Search Command
+
+"Seek!"
+
+"Find me a rat!"
+
+"Find 'em."
+
+"Find!"
+
+"Now!"
+
+Snug Return
+
+"Back!"
+
+"Come!"
+
+"Come back!"
+
+"Return!"
+
+"Hurry!"
+
+Thank Snug
+
+"That's it."
+
+"You are a worthy companion aren't ya."
+
+"Good good."
+
+"Loyal one aren't ya."
+
+"Look at ya. You're the best."
+
+"Good work! Extra chum for you after."
+
+"Look at ya. Extra bones for you."
+
+Pet Snug
+
+"That's it, good dog."
+
+"Good dog."
+
+"There you go, good dog."
+
+"Good dog, good dog!."
+
+"Aww, good dog."
+
+Perform Memento Mori
+
+"Despicable rat you!"
+
+"Out of my sight! Thou dost infect mine eyes!"
+
+"There's no more honour in thee than a crushed maggot!"
+
+"You're a boil, a sore, everything that irritates me!"
+
+"You lump of vermin!"
+
+"You rotting hog, loud and pathetic!"
+
+"Thy stupidity is not accidental, but a trade!"
+
+"Die already hedgeborn fool!"
+
+"Despicable vermin!"
+
+"Just die!"
+
+"Shut it and die!"
+
+Perform Memento Mori - 
+Dwight Fairfield
+
+"Feed the rats ya salty maggot!"
+
+"Ha, some leader!"
+
+"I'll use your face to scare the rats!"
+
+"I'll hang you by your guts, ya kneeknockin' swine!"
+
+"I'm more scared of a dead fish, than I am of you."
+
+"Die ya corn faced coward"
+
+"Die, ya gutless scrub!"
+
+Perform Memento Mori - 
+Meg Thomas
+
+"Thought you could outrun me did ya?!"
+
+"Ya done runnin' lassie?!"
+
+"Never cared for yellow bellied runners!"
+
+Perform Memento Mori - 
+Claudette Morel
+
+"No flowers for you, vermin!"
+
+"To a rosy grave with ya!"
+
+"You'll be feedin' the weeds soon enough deary."
+
+"Filthy barnacle, there's no escape!"
+
+"Rotten weed, there be no escape for you!"
+
+Perform Memento Mori - 
+Jake Park
+
+"You'll make good chum."
+
+"Landlover. I'll use your head for a cannonball!"
+
+"I'll take those fingers for a pal."
+
+Perform Memento Mori - 
+Nea Karlsson
+
+"I'll swab the deck with your face!"
+
+"There be no escapin' deary!"
+
+"Pesky scab this one is!"
+
+Perform Memento Mori - 
+David King
+
+"You've got fight swine, I'll give you that!"
+
+"I'll hang ya by the ears, you mutinous ass!"
+
+"You roar like a lily livered rat!"
+
+Perform Memento Mori - 
+Nicolas Cage
+
+"Liver muckspout, die!"
+
+"Die ya lowly dunghill coward!"
+
+"Shut your hatch ya blundering bullcalf!"
+
+"Stinkin' scab, off with ya!"
+
+"Pity, you were entertaining."
+
+Gallery
+
+In-game Assets
+
+The Houndmaster
+
+The Houndmaster (Portrait render)
+
+The Houndmaster (Background image)
+
+Ultimate Houndmaster's 
+Status HUD
+ icon
+
+Key Art
+
+Official Wallpaper
+
+ Wallpaper (Render)
+
+Outfits
+
+ Ultimate Houndmaster Outfit
+
+Captain In Exile Outfit
+
+Solemn Torment Outfit
+
+Screenshots
+
+ Gameplay
+
+ During chase
+
+ 
+
+ Snug attacks
+
+ Power
+
+ 
+
+ Mori
+
+ Ultimate Houndmaster Cosmetic
+
+Concept Art
+
+ "Ultimate Houndmaster" Concept
+
+ "Solemn Torment" Concept
+
+References
+
+↑
+ 
+https://www.youtube.com/live/JuqghIvpa80?t=1920&si=s2Hb7vLHnFbhpk5O
+ Dead by Daylight | Doomed Course Livestream
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

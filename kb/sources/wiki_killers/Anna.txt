@@ -1,0 +1,4851 @@
+# Anna
+Source: https://deadbydaylight.wiki.gg/wiki/Anna (page complète via API, consultée le 27/09/2026)
+
+A figure clad in the head of a hare. A most disturbing sight. This new foe holds something human within her. Some shards of ordinary life. She seems to be a hunter. I have met many different beings in this place, but this is the first one with a natural skill of hunting. In any other place one could deem it a talent. But her knack for tracking, capturing and killing is something else here. There is something else in her too, she seems to seek something.
+
+~ 
+ Unknown (Potentially 
+Benedict Baker
+)
+
+The Huntress
+
+Name
+
+Anna
+
+Game Alias(es)
+
+"Анна"
+
+"Bear"
+
+Gender
+
+Woman
+
+Origin
+
+Russian
+
+Realm
+
+Red Forest
+
+Power
+
+Hunting Hatchets
+
+Power 
+Attack
+ Type
+
+Special Attack
+
+(Hatchets)
+
+Weapon
+
+Broad Axe
+
+Movement Speed
+
+110 % 
+|
+ 4.4 m/s
+
+Alternate Movement speed
+
+77 % 
+|
+ 3.08 m/s
+(Wind-up)
+
+Terror Radius
+
+20 metres
+
+Lullaby
+ Radius
+
+45 metres
+
+Height 
+
+Tall
+
+DLC
+
+A Lullaby for the Dark
+
+Voice Actor
+
+Amélie Leguiader (BHVR)
+
+Breathing
+
+Menu Music
+
+Lullaby
+
+Metadata
+
+CharID
+
+K08
+
+Anna
+ (Russian: Анна) or 
+"The Huntress"
+ is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+She was introduced as the Killer of 
+A Lullaby for the Dark
+, a free Chapter DLC released on 27 July 2017.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+2.1
+ 
+The Archives
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: Broad Axe
+
+3.3
+ 
+Power: Hunting Hatchets
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for the Hunting Hatchets
+
+3.5
+ 
+Innate Skill
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Base Cosmetics
+
+5.1.1
+ 
+Default
+
+5.1.2
+ 
+Prestige
+
+5.1.2.1
+ 
+Perk Charms
+
+5.1.2.2
+ 
+Prestige Badges
+
+5.2
+ 
+Alternatives
+
+5.2.1
+ 
+DLC
+
+5.2.2
+ 
+Special
+
+5.2.3
+ 
+Event
+
+5.3
+ 
+Rift
+
+5.4
+ 
+In-Game Store
+
+5.5
+ 
+Alternate Character Models
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+General
+
+8.2
+ 
+Cosmetics
+
+8.2.1
+ 
+The Mordeo
+
+8.2.2
+ 
+The Baba Yaga
+
+8.2.3
+ 
+The Red Queen
+
+8.3
+ 
+Lore
+
+8.4
+ 
+Voice Actress
+
+9
+ 
+Gallery
+
+9.1
+ 
+In-game Assets
+
+9.2
+ 
+Official Art
+
+9.3
+ 
+Outfits
+
+9.4
+ 
+Old Assets
+
+9.5
+ 
+Concept Art
+
+9.6
+ 
+Screenshots
+
+Overview
+
+Armed with throwable hatchets, The Huntress is a constant threat to Survivors, even those at a great distance. With patience and precision, chases can end as quickly as they begin. Predict Survivor movement and let your hatchet fly – there's nothing quite like the rewarding sound of a target struck.
+
+The Huntress
+ is a ranged Killer, able to throw 
+Hunting Hatchets
+ at Survivors to injure them from a distance.
+
+Her personal Perks, 
+Beast of Prey
+, 
+Territorial Imperative
+, and 
+Hex: Huntress Lullaby
+, allow her to apply pressure through better Map awareness and enhanced chasing abilities.
+
+Her Perks revolve around the hunt of the prey, to track and find so that she can get close enough to make the kill.
+
+Lore
+
+As soon as Anna was able to walk, her 
+mother
+ started teaching her how to survive a harsh, solitary life in the northern woods. Living in such an extremely remote and dangerous area required skill and resilience. When sunlight became too dim for productive activities, they would take refuge in their house, a sturdy old cabin constructed to resist the toughest winters. Close to the hearth’s warmth, Anna would rest in her mother's arms, surrounded by the few wooden toys and masks she had crafted for her. Drifting off to sleep with stories and lullabies, she dreamt happy dreams, ignorant of the events that would soon change everything.
+
+Anna and her mother were stalking a great elk through the woods. They knew it was dangerous prey, but it had been a particularly difficult winter and they were almost out of food. The spectre of starvation frightened them more than any forest creature. Without warning, the elk reared, bellowed and charged at Anna. She was paralysed with fear as the whole world seemed to shake under the immense beast’s pounding hooves. The elk was close enough for Anna to see the murderous fury in its eyes when her mother threw herself in its path, axe in hand. A blood-curdling scream escaped from her lips as the elk impaled her upon its antlers and hoisted her into the air. With all her strength, she brought her axe down on its head again and again while it tried to shake her loose. With a sickening crack, the antlers snapped and Anna’s mother was free. The beast collapsed.
+
+Anna was too small to move her mother’s broken body, so she sat with her in the clearing where she had fallen. To distract her from the dying elk’s cries, Anna’s mother held her and hummed her favourite lullaby. They stayed like that, the huntress and the elk getting quieter and colder, until Anna was alone in the silent forest. Eventually she stood up and started the long walk back home.
+
+Still a child, she knew just enough about life in the frozen forest to survive. She followed her instincts and became one with the wild. She got older and stronger and practised her hunt. As she grew into a dangerous predator, her humanity became a half-remembered dream.
+
+She widened her territory and lived off her hunts. She worked her way up through squirrels, hares, mink and foxes. Eventually she grew tired of them and hunted more dangerous animals like wolves and bears. When unsuspecting travellers came through her woods, she discovered her new favourite prey: humans. Unlucky souls who strayed into her territory were slaughtered like any other animal. She liked to collect their tools and colourful garments and especially toys when there were little ones. But she could never bring herself to kill the little girls.
+
+Girls she would take back to her house, deep in the woods. They were precious, and looking at them woke up something deep in her heart. She craved the closeness of a loved one, a child of her own. Among the pillaged wooden toys, dolls and story books she couldn't read, the girls would be tied by the neck with a rough and chafing rope fastened firmly to the wall. She couldn't let them wander off, or they would surely die outside.
+
+Every time, the girls would waste away and die of cold or starvation or sickness. Every time, it plunged Anna deeper into pain and sorrow and madness. She was compelled to try again, and started raiding the nearest villages to slaughter families and kidnap their daughters. She wore one of the animal masks her mother crafted for her so many years earlier to try to calm the frightened children. Villagers spread the legend of a half-beast lurking in 
+Red Forest
+: The Huntress, who killed men and ate little girls.
+
+War eventually came to the forest. German soldiers began to pass through, on the march to attack the collapsing Russian Empire.  During these dark times, there were no more travellers. The villagers had abandoned their homes, and no more little ones to be found; only soldiers. Many of them were found with violent axe wounds. Whole groups disappeared mysteriously. Once the war was over, the rumours of The Huntress disappeared with it, engulfed by the Red Forest.
+
+The Archives
+
+The table below lists additional Lore about 
+The Huntress
+ from 
+The Archives
+, either from 
+Tomes
+ that featured her or from individual Lore entries that mentioned her:
+
+Tome
+
+Entry
+
+Type
+
+Tome 3 - Escalation
+
+A Lovely War
+
+Featured Character
+
+Load-out
+
+Unique Perks
+
+The Huntress
+ comes with 
+3
+ 
+Perks
+ that are unique to her:
+
+ 
+
+Beast of Prey
+
+"Your lust for a kill is so intense that your connection with
+The Entity
+ is momentarily lost, making you totally unpredictable."
+
+Whenever you trigger the 
+Bloodlust
+ 
+Status Effect
+, 
+Beast of Prey
+ activates for 
+30
+/
+35
+/
+40
+ 
+seconds
+:
+
+Grants the 
+Undetectable
+ 
+Status Effect
+.
+
+"Where did she go?"
+
+ 
+
+Hex: Huntress Lullaby
+
+"A Hex rooting its power in despair.
+Your hunt is an irresistible song of dread which muddles your prey's attention."
+
+Survivors performing Healing or Repairing actions suffer from the following effect:
+
+Increases
+ the Progression penalty for 
+Failed Skill Checks
+ by 
+2
+/
+4
+/
+6
+ 
+%
+.
+
+Each time a Survivor is hooked, 
+Hex: Huntress Lullaby
+ grows in power and gains 
++1 Token
+, up to a maximum of 
+5 Tokens
+.
+Survivors performing Healing or Repairing actions suffer from the following additional effect:
+
+Reduces
+ the time between the audio cue announcing an imminent 
+Skill Check
+ and it appearing, depending on the number of accumulated Tokens:
+
+1 Token
+: 
+-14 %
+
+2 Tokens
+: 
+-28 %
+
+3 Tokens
+: 
+-42 %
+
+4 Tokens
+: 
+-56 %
+
+5 Tokens
+: 
+Suppresses
+ the audio cue altogether.
+
+The 
+Hex Effects
+ persist until the 
+Hex Totem
+ is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.
+
+"That song, it drives me crazy!"
+
+ 
+
+Territorial Imperative
+
+Unlocks potential in your Aura-reading ability.
+Whenever a Survivor enters the 
+Basement
+ while you are farther than 
+24 metres
+ from its entrance, 
+Territorial Imperative
+ activates:
+
+The 
+Aura
+ of that Survivor is revealed to you for 
+4
+/
+5
+/
+6
+ 
+seconds
+.
+
+Territorial Imperative
+ has a cool-down of 
+45 seconds
+.
+
+"We're not safe anywhere..."
+
+Prestige
+
+Prestiging 
+The Huntress
+ will automatically add 
+Tier I
+ of her Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Huntress
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: Broad Axe
+
+The 
+Broad Axe
+ is the Primary Weapon of 
+The Huntress
+.
+A traditional Axe with a large and heavy head, suitable for squaring logs and planks.
+
+Power: Hunting Hatchets
+
+"A skill taught by her mother and mastered in the wild.
+The Huntress can throw hatchets with deadly precision."
+SPECIAL WEAPON: HUNTING HATCHETS
+The Huntress
+ starts the Trial with 
+7
+ 
+Hunting Hatchets
+ equipped.
+
+Press and hold the 
+Power button
+ to wind up and charge a 
+Hunting Hatchet
+.
+Release the 
+Power button
+ to throw the 
+Hunting Hatchet
+ or press the 
+Attack button
+ to cancel the throw:
+
+Releasing at minimum charge throws them at 
+25 m/s
+.
+
+Releasing at maximum charge throws them at 
+40 m/s
+.
+
+Hunting Hatchets
+ can be replenished at 
+Lockers
+.
+The 
+Auras
+ of 
+Hunting Hatchets
+ inside 
+Lockers
+ are automatically revealed to 
+The Huntress
+ within 
+36 metres
+, when she is out of them.
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Wind-up
+ phase: 
+3.08 m/s
+
+Throw Cool-down
+ phase: 
+3.74 m/s
+
+Walking: 
+4.4 m/s
+
+Minimum Flight speed of 
+Hatchets
+: 
+25 m/s
+
+Maximum Flight speed of 
+Hatchets
+: 
+40 m/s
+
+Hatchets:
+
+Wind-up time: 
+0.9 seconds
+
+This describes the minimum time it takes 
+The Huntress
+ to be ready to launch a 
+Hatchet
+ when releasing the 
+Power button
+.
+
+If she releases a 
+Hatchet
+ right after this phase concludes, the 
+Hatchet
+ will be uncharged and thrown with the minimum Flight speed.
+
+If she continues to hold the 
+Power button
+, she will enter the next phase, allowing her to charge the 
+Hatchet
+ (see next Bullet point).
+
+Throw Charge time: 
+1 second
+
+This describes the phase that immediately follows the 
+Wind-up
+ phase
+
+This phase allows 
+The Huntress
+ to charge her 
+Hatchets
+ for increased Flight speed.
+
+Charging 
+Hatchets
+ for the full duration (announced with an audio cue) will throw them with the maximum Flight speed.
+
+Throw Cool-down duration: 
+2 seconds
+
+Reload time at 
+Lockers
+: 
+3 seconds
+
+Hitboxes:
+
+Environmental collision radius: 
+0.1 metres
+
+Survivor detection radius: 
+0.4 metres
+
+Hit validation radius: 
+0.8 metres
+
+Add-ons for the Hunting Hatchets
+
+Icon
+
+Name
+
+Description
+
+Amanita Toxin
+
+A toxin from the Amanita mushroom, applied to the Hatchet's blade.
+It numbs the mind.
+
+Survivors hit by 
+Hatchets
+ suffer from the 
+Blindness
+ 
+Status Effect
+ for 
+60 seconds
+.
+
+Bandaged Haft
+
+First-aid bandages securely rolled and attached to the Hatchet's haft.
+
+Reduces
+ the Cool-down duration between successive 
+Hatchet
+ throws by 
+-10 %
+.
+
+Coarse Stone
+
+This stone is too coarse to do any good.
+A blade damaged by it inflicts awful open wounds.
+
+Increases
+ the volume of 
+Grunts of Pain
+ of injured Survivors hit by 
+Hatchets
+ by 
++50 %
+.
+
+Yellowed Cloth
+
+A simple scrap of material to tend to blisters and wipe the puss away.
+
+Increases
+ the Projectile speed of 
+Hatchets
+ by 
++10 %
+.
+
+Leather Loop
+
+The right tool in the right hands is key to a successful hunt.
+
+Successfully hitting a Survivor with a 
+Hatchet
+ grants a 
++2 %
+ 
+Haste
+ 
+Status Effect
+ for 
+5 seconds
+.
+
+Manna Grass Braid
+
+A circular decorative braid made from manna grass.
+This memory of a lost little one fills The Huntress with rage and focus.
+
+Reduces
+ the Wind-up time of 
+Hatchets
+ by 
+-8 %
+.
+
+Oak Haft
+
+A polished haft which allows for a quick and sly manipulation of the deadly tool.
+
+Reduces
+ the Cool-down duration between successive 
+Hatchet
+ throws by 
+-20 %
+.
+
+Shiny Pin
+
+A copper pin defaced beyond recognition yet polished to a high sheen.
+Pillaged from a particularly difficult prey.
+
+Increases
+ the Movement speed while winding 
+Hatchets
+ up by 
++5 %
+.
+
+Weighted Head
+
+An oddly weighted Hatchet head, crafted to deliver a hard blow to its target.
+It requires a wielder with a strong arm.
+
+Survivors hit by 
+Hatchets
+ suffer from the 
+Incapacitated
+ 
+Status Effect
+ for 
+10 seconds
+.
+
+Deerskin Gloves
+
+Cured leather gloves that protect the hands and give a sure grip.
+
+Reduces
+ the Reload time of 
+Hatchets
+ at 
+Lockers
+to 
+80 %
+ of its default value.
+
+Flower Babushka
+
+A clean and colourful handkerchief adorned with a flower pattern.
+This memory of a lost little one fills The Huntress with rage and focus.
+
+Reduces
+ the Wind-up time of 
+Hatchets
+ by 
+-0.1 seconds
+.
+
+Rose Root
+
+Dried petals that relieve symptoms of fatigue and overexertion when brewed in a tea.
+
+Increases
+ the Projectile speed of 
+Hatchets
+ by 
++20 %
+.
+
+Rusty Head
+
+This Hatchet head is covered with crusty and volatile rust spots that make injuries particularly difficult to heal from.
+
+Survivors hit by 
+Hatchets
+ suffer from the 
+Mangled
+ 
+Status Effect
+ for 
+70 seconds
+.
+
+Venomous Concoction
+
+A toxic concoction, applied to the Hatchet's blade.
+The murky concoction is mainly composed of Berus Snake venom, which gives it fatiguing capabilities.
+
+Survivors hit by 
+Hatchets
+ suffer from the 
+Exhausted
+ 
+Status Effect
+ for 
+5 seconds
+.
+
+Begrimed Head
+
+This Hatchet head is stained with a foul substance that afflicts anyone who it touches with debilities.
+
+Survivors hit by 
+Hatchets
+ suffer from the 
+Haemorrhage
+ and 
+Mangled
+ 
+Status Effects
+ for 
+80 seconds
+.
+
+Glowing Concoction
+
+An otherworldly concoction that faintly glows a foreboding light.
+
+Survivors hit by 
+Hatchets
+ have their 
+Aura
+ revealed to you for 
+5 seconds
+.
+
+Infantry Belt
+
+A sturdy utility belt pillaged from a soldier.
+He was quick in combat, but she was quicker.
+
+Successfully hitting a Survivor with a 
+Hatchet
+ grants a 
++3 %
+ 
+Haste
+ 
+Status Effect
+ for 
+5 seconds
+.
+
+Wooden Fox
+
+Roughly carved, this fox statuette is no more than a few inches.
+A reminder that stealth and cunning is as effective as raw power.
+
+Grants the 
+Undetectable
+ 
+Status Effect
+ after reloading at 
+Lockers
+ for 
+30 seconds
+.
+
+Iridescent Head
+
+A glass-like Hatchet head moulded from The Fog itself.
+The blade is warm and reverberating with The Entity's power.
+
+Survivors hit by 
+Hatchets
+ are automatically put into the 
+Dying State
+.
+
+Reduces
+ the number of carried 
+Hatchets
+ to 
+1
+.
+
+"The iridescent glass cuts through flesh and soul."
+
+Soldier's Puttee
+
+A wrap taken from a dead soldier.
+It provides protection and support to the ankle and lower leg.
+
+Increases
+ the Movement speed of 
+The Huntress
+ to 
+4.6 m/s
+ while out of 
+Hatchets
+.
+
+Innate Skill
+
+Used exclusively in 
+2v8
+ Trials, the 
+Innate Skill
+ modifies the 
+Hunting Hatchets
+ with the following effects:
+
+Innate Skill
+ (
+Huntress Passive
+) 
+
+Modifies the 
+Hunting Hatchets
+ with the following effects:
+
+Causes 
+The Huntress
+ to start the Trial with 
+10
+ 
+Hunting Hatchets
+ equipped.
+
+Reduces
+ the Reload time at 
+Lockers
+ by 
+-20 %
+.
+
+While winding up a 
+Hunting Hatchet
+:
+
+Increases
+ her Movement speed by 
+movementSpeed(1)
+.
+
+While out of 
+Hunting Hatchets
+:
+
+Increases
+ her base Movement speed by 
++4.35 %
+ to 
+4.6 m/s
+.
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There are 
+3
+ Achievements related to 
+The Huntress
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Huntress
+
+Playing as The 
+Huntress
+, achieve a 
+Merciless Victory
+ using only her 
+3
+ Unique Perks: 
+Beast of Prey
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Your lust for a kill is so intense that your connection with
+The Entity
+ is momentarily lost, making you totally unpredictable."
+
+Whenever you trigger the 
+Bloodlust
+ 
+Status Effect
+, 
+Beast of Prey
+ activates for 
+30
+/
+35
+/
+40
+ 
+seconds
+:
+
+Grants the 
+Undetectable
+ 
+Status Effect
+.
+
+"Where did she go?"
+
+, 
+Territorial Imperative
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+Unlocks potential in your Aura-reading ability.
+Whenever a Survivor enters the 
+Basement
+ while you are farther than 
+24 metres
+ from its entrance, 
+Territorial Imperative
+ activates:
+
+The 
+Aura
+ of that Survivor is revealed to you for 
+4
+/
+5
+/
+6
+ 
+seconds
+.
+
+Territorial Imperative
+ has a cool-down of 
+45 seconds
+.
+
+"We're not safe anywhere..."
+
+, and 
+Hex: Huntress Lullaby
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"A Hex rooting its power in despair.
+Your hunt is an irresistible song of dread which muddles your prey's attention."
+
+Survivors performing Healing or Repairing actions suffer from the following effect:
+
+Increases
+ the Progression penalty for 
+Failed Skill Checks
+ by 
+2
+/
+4
+/
+6
+ 
+%
+.
+
+Each time a Survivor is hooked, 
+Hex: Huntress Lullaby
+ grows in power and gains 
++1 Token
+, up to a maximum of 
+5 Tokens
+.
+Survivors performing Healing or Repairing actions suffer from the following additional effect:
+
+Reduces
+ the time between the audio cue announcing an imminent 
+Skill Check
+ and it appearing, depending on the number of accumulated Tokens:
+
+1 Token
+: 
+-14 
+
+2 Tokens
+: 
+-28 
+
+3 Tokens
+: 
+-42 
+
+4 Tokens
+: 
+-56 
+
+5 Tokens
+: 
+Suppresses
+ the audio cue altogether.
+
+The 
+Hex Effects
+ persist until the 
+Hex Totem
+ is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.
+
+"That song, it drives me crazy!"
+
+.
+
+Skilled Huntress
+
+Playing as The 
+Huntress
+, down Survivors with 
+Hunting Hatchets
+ from at least 
+24 metres
+ away a total of 
+20 times
+ / 
+100 times
+ (
+For consoles
+) 
+.
+
+Swirling Death
+
+Playing as The 
+Huntress
+, throw a total of 
+1,000
+ 
+Hunting Hatchets
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Huntress
+:
+
+Base Cosmetics
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Hare
+
+Common
+
+Don't be afraid child. The gentle Hare will take good care of you.
+
+Pillager's Sarafan
+
+Common
+
+A torn sarafan, customized with pillaged soldier utility belts.
+
+Broad Axe
+
+Common
+
+A traditional axe with a large and heavy head, suitable for squaring logs and planks.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Bloody Hare
+
+Rare
+
+Don't be afraid of the blood, child. The gentle Hare will take good care of you.
+
+Prestige Level 6 Reward
+
+Bloody Pillager's Sarafan
+
+Rare
+
+A torn sarafan, customized with pillaged soldier utility belts and covered in their blood.
+
+Prestige Level 5 Reward
+
+Bloody Broad Axe
+
+Rare
+
+A traditional axe with a large and heavy head, suitable for smashing skulls and cutting limbs.
+
+Prestige Level 4 Reward
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+She survived in the forest, taking the lives of those who trespassed.
+
+Alternatives
+
+DLC
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+DLC
+
+The Ohmwrecker
+
+Uncommon
+
+A unique mask for the Huntress, created for The Ohmwrecker.
+
+Charity Case
+
+Special
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Outfit
+
+Collection
+
+Event
+
+Hare - Black
+
+Common
+
+Don't be afraid child. The gentle Hare will take good care of you.
+
+No Outfit
+
+No Collection
+
+Fall Masquerade
+ participation prize
+
+Frosty Eyes
+
+Uncommon
+
+Heart chilling eyes of the cold blooded.
+
+"Have a Wonderful Winter 2017-2018!" - The Dead by Daylight Team
+
+No Outfit
+
+No Collection
+
+Winter Solstice 2017
+
+Toothed Axe
+
+Very Rare
+
+An axe with a serrated blade for maximum damage.
+
+No Outfit
+
+Meet Your Maker Collection
+
+Owning 
+Meet Your Maker
+ and 
+Dead by Daylight
+ in same platform.
+
+Event
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Collection
+
+Event
+
+Exclusive to Event Participation
+
+Hound
+
+Event
+
+Hush, little one. She bares her teeth, but she won't bite... unless you make her.
+
+"Happy Lunar New Year 2018!" -The Dead by Daylight Team
+
+Howling Grounds
+
+No
+
+Crown of the Entity
+
+Event
+
+A crown emanating a festive and ominous aura created by the Entity's biggest fan.
+
+Birthday Crown
+
+Fourth Year Anniversary
+
+Yes
+
+5th Anniversary Crown
+
+Event
+
+A crown crafted for a very special anniversary.
+
+"Thank you for supporting & inspiring us along the years!" - The Dead by Daylight Team
+
+5th Anniversary
+
+Fifth Year Anniversary
+
+Yes
+
+Huntress' Mask
+
+Event
+
+A mask they found themselves wearing at the masquerade ball.
+
+Twisted Masquerade Collection
+
+Twisted Masquerade Event
+
+Yes
+
+Holiday Surprise
+
+Event
+
+A perfect gift to throw at survivors during the holiday season.
+
+Bone Chill
+
+Bone Chill 2022
+ 
+Tome: Level 2
+
+Yes
+
+Jaw Slasher
+
+Event
+
+A serrated blade for a tangy swing.
+
+Tricks and Treats
+
+Haunted by Daylight 2023
+
+Yes
+
+ Rift
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Night Owl
+
+Of Blood And Rust Collection
+
+Tome 14 - Betrayal
+
+18 March 2025 (Tuesday)
+
+Description
+
+A traditional outfit she found on an old corpse from the Lost Realms.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Owl Helmet
+
+Of Blood And Rust Collection
+
+56
+
+At night, you might mistake her for a wild animal in the forest.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Chain Mail
+
+Of Blood And Rust Collection
+
+48
+
+Nothing could hurt her when she wore this impregnable armor.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Wrought Iron Axe
+
+Of Blood And Rust Collection
+
+60
+
+An axe permeated with old, gloomy stories about the Red Forest.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Night Owl (Deep Rift)
+
+Deep Rift
+
+Tome 14 - Betrayal
+
+12 June 2018 (Tuesday)
+
+Description
+
+A distorted outfit she found on an old corpse from the Lost Realms.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Owl Helmet (Deep Rift)
+
+Deep Rift
+
+82
+
+In the darkness of the Trials, you might mistake her for a beast hiding in trees.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Chain Mail (Deep Rift)
+
+Deep Rift
+
+72
+
+Nothing in any realm could hurt her when she wore this impregnable armor.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Wrought Iron Axe (Deep Rift)
+
+Deep Rift
+
+77
+
+An axe permeated with old, gloomy stories about the Lost Realms.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Ignition
+
+Grim Resolutions
+
+Tome 8 - Deliverance
+
+19 May 2022 (Thursday)
+
+Description
+
+She charged through a flamethrower’s fiery stream to strike her mark, but the battle was paid at a horrible cost.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Shell Shock
+
+Grim Resolutions
+
+53
+
+Under the mask was pain, confusion, and fear.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Scorcher
+
+Grim Resolutions
+
+42
+
+Her clothing, burnt to shreds, provided little protection from the fire. The pain was seared into her skin.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Cooked Steel
+
+Grim Resolutions
+
+7
+
+The heat of the flames deformed the steel head, giving it an unsettling, mottled look.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Nocturnal Fowl
+
+Slice Of Life Collection
+
+Tome 18 - Revision
+
+12 June 2018 (Tuesday)
+
+Description
+
+Night fell, and she watched from the trees as the soldiers hunted for birds.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Feathered Cowl
+
+Slice Of Life Collection
+
+17
+
+They plucked their dinner by the campfire, unaware that she was getting closer.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Battered Breastplate
+
+Slice Of Life Collection
+
+23
+
+Her heartrate was steady as she crept up behind a patrolling soldier.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Broken Halberd
+
+Slice Of Life Collection
+
+31
+
+It was an ancient weapon repurposed for close combat, and she drove it through his skull.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Spoils of War
+
+Escalation
+
+Tome 3 - Escalation
+
+02 September 2021 (Thursday)
+
+Description
+
+A terrifying assembly of German and Soviet military accessories, pilfered from the bodies of dead soldiers.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Horsewoman of the Apocalypse
+
+Escalation
+
+1
+
+A macabre mask whose original purpose of design is unknown. It seemed a fitting visage for Anna as she massacred German cavalry units.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Stolen Valor
+
+Escalation
+
+34
+
+The tattered uniform of a Cossack soldier who fought bravely against Anna and paid the ultimate price.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Battle Tested Hatchet
+
+Escalation
+
+55
+
+A weapon that's proven itself in the chaos of war, this hatchet holds the dog tag of its deceased owner around its hilt.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Apex Ursine
+
+MEDVEDITSA
+
+Tome 7 - Forsaken
+
+12 June 2018 (Tuesday)
+
+Description
+
+The time for hibernating is over. Emerge from your slumber and pursue your prey. Tonight, you shall feast on your enemies!
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Wretched Bear Skull
+
+MEDVEDITSA
+
+31
+
+Let the fear of death and disgust wash over you; your quarry will feel it even more so. That is when you strike!
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Winter's Respite
+
+MEDVEDITSA
+
+44
+
+This light garb is not meant for long periods in the harsh wilderness. Curl up and take refuge from the cold winds in front of the fireplace.
+Look children! Toys for you to admire!
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Savage Battle Axe
+
+MEDVEDITSA
+
+15
+
+A barbarous instrument of death, used primarily to remove limbs and inflict bodily harm.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Break the Cage
+
+Tortured Souls
+
+Tome 22 - Anguish
+
+20 January 2026 (Tuesday)
+
+Description
+
+The remaining soldiers wheeled her through the forest. Those who survived were relieved to finally capture their worst nightmare.
+
+1296
+
+25920
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Captive's Helm
+
+Tortured Souls
+
+67
+
+She never kept her eyes off her captors, waiting until they stopped for a break.
+
+480
+
+8640
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Chainbearer
+
+Tortured Souls
+
+70
+
+She used the chains that bound her to strangle a guard who dared to get too close. The rest died screaming.
+
+480
+
+8640
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Uncaged Axe
+
+Tortured Souls
+
+65
+
+Only one was able to escape to the nearby village, to tell the rest of her carnage.
+
+480
+
+8640
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Break the Cage (Deep Rift)
+
+Deep Rift
+
+Tome 22 - Anguish
+
+12 June 2018 (Tuesday)
+
+Description
+
+The remaining soldiers wheeled her through the forest, thankful that their greatest fear was finally captured.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Captive's Helm (Deep Rift)
+
+Deep Rift
+
+83
+
+She never kept her eyes off her captors, imagining all the ways she would hurt them.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Chainbearer (Deep Rift)
+
+Deep Rift
+
+83
+
+She broke free of her chains and used them to strangle a guard until his eyes popped out. The rest died in brutal agony.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Uncaged Axe (Deep Rift)
+
+Deep Rift
+
+83
+
+Only one was able to escape to the nearby village, to warn the others to stay away.
+
+Piece
+
+Name
+
+Collection
+
+Tome
+
+Rift Tier
+
+Miss Pussens
+
+KOSHKA
+
+Tome 1 - Awakening
+23
+
+Come child, don't cry. Be good for your kitty momma.
+
+Piece
+
+Name
+
+Tome
+
+Rift Tier
+
+Hunting Hitatare (Winter Blue)
+
+Tome 2 - Reckoning
+37
+
+Hunt with bow, arrow, and ax in the dead of night. This archery formalwear comes with a sturdy Igote to steady your aim while on the run. It’s hunting time!
+
+Piece
+
+Name
+
+Collection
+
+Tome
+
+Rift Tier
+
+Lacquered Wono Ax
+
+Grim Matsuri
+
+Tome 1 - Awakening
+49
+
+Forged from three layers of carbon steel with a heavier head and longer shaft than traditional wono models. Meant to gut and shred.
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Fur-Trimmed
+
+WINTER WOOL
+
+18 September 2018 (Tuesday)
+
+Description
+
+As the nights grow longer, the woods turn quieter. Winter is near and so is the long slumber.
+
+180
+
+3600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Kolyada Skull
+
+WINTER WOOL
+
+A powerful symbol for evening rituals as the seasons change.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Raw Cashmere Sweater
+
+WINTER WOOL
+
+This blend of silk and goat fiber can keep you warm even on the coldest nights.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Orenburg
+
+WINTER WOOL
+
+18 September 2018 (Tuesday)
+
+Description
+
+As the nights grow longer, the woods turn quieter. Winter is near and so is the long slumber.
+
+180
+
+3600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Obzhynki Skull
+
+WINTER WOOL
+
+A powerful symbol for evening rituals as the seasons change.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Sakhalin Knitted Sweater
+
+WINTER WOOL
+
+This blend of silk and goat fiber can keep you warm even on the coldest nights.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Miss Kitty
+
+KOSHKA
+
+12 June 2018 (Tuesday)
+
+Description
+
+Never fear these little rodents. There is nothing to be afraid of. It is time to play some cat and mouse!
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Little Pussycat
+
+KOSHKA
+
+Come child, don't cry. Be good for your kitty momma.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Thick Hunter's Coat
+
+KOSHKA
+
+A heavy winter coat lined with the skins of captured prey. Provides sufficient warmth even in the deepest of winters.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Northern Broad Axe
+
+KOSHKA
+
+This flat, angular axe is just as good at harvesting crops as it is at harvesting souls.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Night Owl
+
+Of Blood And Rust Collection
+
+Tome 14 - Betrayal
+
+18 March 2025 (Tuesday)
+
+Description
+
+A traditional outfit she found on an old corpse from the Lost Realms.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Owl Helmet
+
+Of Blood And Rust Collection
+
+56
+
+At night, you might mistake her for a wild animal in the forest.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Chain Mail
+
+Of Blood And Rust Collection
+
+48
+
+Nothing could hurt her when she wore this impregnable armor.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Wrought Iron Axe
+
+Of Blood And Rust Collection
+
+60
+
+An axe permeated with old, gloomy stories about the Red Forest.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Ignition
+
+Grim Resolutions
+
+Tome 8 - Deliverance
+
+19 May 2022 (Thursday)
+
+Description
+
+She charged through a flamethrower’s fiery stream to strike her mark, but the battle was paid at a horrible cost.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Shell Shock
+
+Grim Resolutions
+
+53
+
+Under the mask was pain, confusion, and fear.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Scorcher
+
+Grim Resolutions
+
+42
+
+Her clothing, burnt to shreds, provided little protection from the fire. The pain was seared into her skin.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Cooked Steel
+
+Grim Resolutions
+
+7
+
+The heat of the flames deformed the steel head, giving it an unsettling, mottled look.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Dark Hunter
+
+Blood And Bones
+
+25 July 2024 (Thursday)
+
+Description
+
+She looked up at the tempestuous skies just as a cold grip overtook her.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Spiked Horns
+
+Blood And Bones
+
+She imagined stalking the forests of her homeland, menacing the invaders with this blood-red mask.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Distinguished Corset
+
+Blood And Bones
+
+A worthy sacrifice suddenly ran by, and she quickly pulled out a hatchet.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Stained Axe
+
+Blood And Bones
+
+As she swung her axe, a figure emerged from out of sight. Not another sacrifice, but someone different altogether.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Curious Kill
+
+Bone Chill
+
+12 December 2024 (Thursday)
+
+Description
+
+Anna studied at the lifeless warhorse in the clearing. Its body was eviscerated, flesh stripped from its face.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Bit Back
+
+Bone Chill
+
+She followed the trail of blood to the horse's dead owner. This was the work of wolves, and she quickly realized she was not alone.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Wild Pounce
+
+Bone Chill
+
+In an instant, an entire pack was upon her, snapping at her heels, wrists, and throat as she fought them off one by one.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Last Howl
+
+Bone Chill
+
+She cut them down until only one was left. It ran for the trees, but fell in a heap when she threw her axe into its back.
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Bird of Prey Sugata
+
+Grim Matsuri
+
+26 April 2019 (Friday)
+
+Description
+
+Hear the blood-curdling shrieks calling, haunting the forest with a shrill song of mercilessness.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Forest Eagle-Owl Skull
+
+Grim Matsuri
+
+Coarse bloody feathers to adorn your mask. The bird’s skull painting your cheeks red, your faces as one. It’s the beauty of the fittest.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Hunting Hitatare
+
+Grim Matsuri
+
+Hunt with bow, arrow, and ax in the dead of night. This archery formalwear comes with a sturdy Igote to steady your aim while on the run. It’s hunting time!
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Extended Wono Ax
+
+Grim Matsuri
+
+Forged from three layers of carbon steel with a heavier head and longer shaft than traditional wono models. Meant to gut and shred.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Mother Bear
+
+MEDVEDITSA
+
+12 June 2018 (Tuesday)
+
+Description
+
+The time for hibernating is over. Emerge from your slumber and pursue your prey. Tonight, you shall feast on your enemies!
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Grisly Bear Skull
+
+MEDVEDITSA
+
+Let the fear of death and disgust wash over you; your quarry will feel it even more so. That is when you strike!
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Winter's Hearth
+
+MEDVEDITSA
+
+Look children! Toys for you to admire!
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Grim War Axe
+
+MEDVEDITSA
+
+A barbarous instrument of death, used primarily to remove limbs and inflict bodily harm.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Winter Warrior
+
+Boulet Brothers
+
+08 July 2025 (Tuesday)
+
+Description
+
+She stood before her foes, taking in their abject fear as they beheld her.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Horny Skull
+
+Boulet Brothers
+
+She stared from beneath the beast's skull, her long, black hair flowing in the icy wind as she charged.
+
+Piece
+
+Name
+
+Collection
+
+Ribbed and Furry
+
+Boulet Brothers
+
+She had strength and passion on her side. She felt unstoppable.
+
+Piece
+
+Name
+
+Collection
+
+Axe of Power
+
+Boulet Brothers
+
+It was an extension of her body as she swung. None were left standing in the end.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Spoils of War
+
+Escalation
+
+Tome 3 - Escalation
+
+02 September 2021 (Thursday)
+
+Description
+
+A terrifying assembly of German and Soviet military accessories, pilfered from the bodies of dead soldiers.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Horsewoman of the Apocalypse
+
+Escalation
+
+1
+
+A macabre mask whose original purpose of design is unknown. It seemed a fitting visage for Anna as she massacred German cavalry units.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Stolen Valor
+
+Escalation
+
+34
+
+The tattered uniform of a Cossack soldier who fought bravely against Anna and paid the ultimate price.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Battle Tested Hatchet
+
+Escalation
+
+55
+
+A weapon that's proven itself in the chaos of war, this hatchet holds the dog tag of its deceased owner around its hilt.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Doll Collector
+
+Artists From The Fog
+
+01 August 2023 (Tuesday)
+
+Description
+
+Designed by 
+Jay
+.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Mangled Mask
+
+Artists From The Fog
+
+A new mask made of leftovers.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Broken Mannequin
+
+Artists From The Fog
+
+She brought her beloved dolls along with her.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Doll Face
+
+Artists From The Fog
+
+A disturbing rabbit’s face was attached at the end of the axe.
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Growth Surge
+
+HALLOWED BLIGHT
+
+09 October 2019 (Wednesday)
+
+Description
+
+This feral specimen was the first experiment of its kind.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Mucky Eyes
+
+HALLOWED BLIGHT
+
+A thick film of yellow serum drips from the dark lashes of her eyes.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Pelt Lice
+
+HALLOWED BLIGHT
+
+A strong body with a dense coat of hair swarming with bloodthirsty parasites.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rancid Broadaxe
+
+HALLOWED BLIGHT
+
+Some dry rot spreads to the head of the axe where the serum leaks, soaking the broad blade in a putrid smell.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Red Queen
+
+Alice in Wonderland
+
+06 April 2023 (Thursday)
+
+Description
+
+Notes from the Absurd (NFA). The realm is filled with giant cards and massive red hearts. The perfect place for the Red Queen to play croquet with putrid heads. The only thing missing now is a rabbit. Or was the version of the story with a skunk better? The Not-So Mad Designer.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Red Crown
+
+Alice in Wonderland
+
+Now the Red Queen will give you options: The ax or the ax, and don’t twiddle your thumbs about it.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Executioner Robe
+
+Alice in Wonderland
+
+Death first… Sentence afterwards!
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Queen Ax
+
+Alice in Wonderland
+
+Off with your head!
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Solstice Devotee
+
+WINTER TALES
+
+18 December 2019 (Wednesday)
+
+Description
+
+The huntress honored her ancestors during the solstice with a feast that lasted three nights.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Runny Antlers
+
+WINTER TALES
+
+The bloody remains of the reindeer she decapitated on the first night.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Bony Ribs
+
+WINTER TALES
+
+Each morning, she hunted and brought back game ranging from rodents to vultures, all to be sacrificed.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Birch Hatchet
+
+WINTER TALES
+
+She bound animal parts to her hatchets, smeared with sacrificial blood.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Beach Day
+
+Hooked on You
+
+14 February 2023 (Tuesday)
+
+Description
+
+When she was still a child, she heard a story about a little girl living by a giant lake filled with salty water called the sea.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Sea Hunter
+
+Hooked on You
+
+Her starfish hairpin and floating blue veil make her feel like the little girl living by the sea.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Sand Flower Dress
+
+Hooked on You
+
+All that was important to her was that the dress stayed out of her way while she hunted.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Shell Axe
+
+Hooked on You
+
+A primitive weapon used to cut wood and, in her case, people's heads.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Cold Wasteland Survivor
+
+LOST TRIBE
+
+10 July 2019 (Wednesday)
+
+Description
+
+In the endless frozen wastes, some members of native tribes still survive, however they can.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Snow Ram Skull
+
+LOST TRIBE
+
+A way to commemorate the decapitation of a terrified animal.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Traditional Pelt Coat
+
+LOST TRIBE
+
+Made from many pelts, and patched with many more. Provides surprising levels of warmth.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Handmade Hunting Axe
+
+LOST TRIBE
+
+It may be handmade, but it is perfectly balanced and razor-sharp. Good for hunting all manner of game.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Brave Beast
+
+MOONRISE
+
+30 January 2019 (Wednesday)
+
+Description
+
+The Huntress honors and embodies the defiant spirit of the wild boar.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Wild Boar
+
+MOONRISE
+
+A brown-haired, muddy boar head with long, sharp tusks. Ideal to crush your opponent.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Red Sarafan
+
+MOONRISE
+
+A long, traditional dress made of linen with large floral embroidery, decorated with natural motifs.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Boar Battle Axe
+
+MOONRISE
+
+A ragged battle axe strapped with a boar’s sharp canines, powerful tusks, and hard hoofed toes.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Lethal Eclipse
+
+Chrysalis
+
+05 May 2026 (Tuesday)
+
+Description
+
+The soldier found the corpse slumped on the ground. It was imposing, in a beastly way.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Winged Mask
+
+Chrysalis
+
+Its face was hidden by a cloud of fluttering moths. The soldier approached, hoping to find something to loot.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Moth Shell
+
+Chrysalis
+
+As he searched, the dead body stirred and groaned. Through the swarm of moths, the soldier found dilated pupils staring at him.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Gliding Axe
+
+Chrysalis
+
+The soldier didn't get the chance to scream before a massive hatchet cut straight through his head.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Facemelter Eddie
+
+Iron Maiden
+
+14 July 2026 (Tuesday)
+
+Description
+
+Headbangers unite! The face of metal is here to shred his way through your nightmares.
+
+1485
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Killer Chorus
+
+Iron Maiden
+
+It’s one thing to have a song stuck in your head. It's another to have a hook stuck in your chest.
+
+Piece
+
+Name
+
+Collection
+
+In His Blood
+
+Iron Maiden
+
+Once the metal hits you, there’s no escape. The same can be said for any Survivor in his path.
+
+Piece
+
+Name
+
+Collection
+
+Axe Slinger
+
+Iron Maiden
+
+He knows his way around an axe, as any good metal legend should.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Baba Yaga
+
+Modern Tales
+
+25 January 2022 (Tuesday)
+
+Description
+
+As a cruel executioner, her voice deepened and haunted the nightmares of children.
+
+1485
+
+29700
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Mask of Judgment
+
+Modern Tales
+
+Two faces as one, embodying the paradoxical identity of villain and provider.
+
+Piece
+
+Name
+
+Collection
+
+Traditional Garb
+
+Modern Tales
+
+Intricate garb of the fabrics stitched from the clothes of her victims.
+
+Piece
+
+Name
+
+Collection
+
+Sadistic Hatchet
+
+Modern Tales
+
+The harrowing, artful blade she used to extract judgment.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Break the Cage
+
+Tortured Souls
+
+Tome 22 - Anguish
+
+20 January 2026 (Tuesday)
+
+Description
+
+The remaining soldiers wheeled her through the forest. Those who survived were relieved to finally capture their worst nightmare.
+
+1296
+
+25920
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Captive's Helm
+
+Tortured Souls
+
+67
+
+She never kept her eyes off her captors, waiting until they stopped for a break.
+
+480
+
+8640
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Chainbearer
+
+Tortured Souls
+
+70
+
+She used the chains that bound her to strangle a guard who dared to get too close. The rest died screaming.
+
+480
+
+8640
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Uncaged Axe
+
+Tortured Souls
+
+65
+
+Only one was able to escape to the nearby village, to tell the rest of her carnage.
+
+480
+
+8640
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+The Mordeo
+
+The Crypt TV
+
+04 May 2021 (Tuesday)
+
+Description
+
+Mordeo hunted the unworthy who trespassed into her sacred patch of the forest.
+
+1296
+
+25920
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Skull of Flesh-Eaters
+
+The Crypt TV
+
+After desperation turned her to cannibalism, her flesh melted away, horns adorned her head and she became the monster that her hunger drove her to be.
+
+Piece
+
+Name
+
+Collection
+
+Queen's Shroud
+
+The Crypt TV
+
+Alerted by a howl in the moonless night, she hunted trespassers and tore them into pieces.
+
+Piece
+
+Name
+
+Collection
+
+Insatiable Hunger
+
+The Crypt TV
+
+She dipped the flesh-adorned weapon into the blood of those who did not respect the Mordeo’s ritual.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Were-Elk
+
+Forgotten Myth
+
+23 April 2024 (Tuesday)
+
+Description
+
+The injured traveler found refuge in a small village. Warming himself by the fire of a modest tavern, he told the locals about his encounter with a beast lurking in the nearby woods.
+
+1755
+
+35100
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Inhuman Brute
+
+Forgotten Myth
+
+Antlers grew from the beast's head, and its piercing eyes scanned the trees for its prey.
+
+Piece
+
+Name
+
+Collection
+
+Macabre Trophies
+
+Forgotten Myth
+
+The beast walked like a human and wore ragged clothes, an abomination of nature.
+
+Piece
+
+Name
+
+Collection
+
+Well-Worn Hunting Axe
+
+Forgotten Myth
+
+The traveler warned the crowd of the axe the beast carried. The blade glistened with the blood of victims past.
+
+Piece
+
+Name
+
+Collection
+
+Marauder's Sarafan (Bristly)
+
+HUNTRESS ABERRATIONS
+
+A torn sarafan, customized with the utility belts of unfortunate victims.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Marauder's Sarafan (Grisly)
+
+HUNTRESS ABERRATIONS
+
+A torn sarafan, customized with the utility belts of unfortunate victims.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Marauder's Sarafan (Macabre)
+
+HUNTRESS ABERRATIONS
+
+A torn sarafan, customized with the utility belts of unfortunate victims.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Marauder's Sarafan (Repulsive)
+
+HUNTRESS ABERRATIONS
+
+A torn sarafan, customized with the utility belts of unfortunate victims.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Marauder's Sarafan (Rough)
+
+HUNTRESS ABERRATIONS
+
+A torn sarafan, customized with the utility belts of unfortunate victims.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Marauder's Sarafan (Tainted)
+
+HUNTRESS ABERRATIONS
+
+A torn sarafan, customized with the utility belts of unfortunate victims.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Jaw Slasher
+
+Tricks and Treats
+
+A serrated blade for a tangy swing.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Rustic Broad Axe
+
+KOSHKA
+
+This flat, angular axe is just as good at harvesting crops as it is at harvesting souls.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Wrapped Broad Axe
+
+KOSHKA
+
+This flat, angular axe is just as good at harvesting crops as it is at harvesting souls.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Axe For Seconds
+
+Black Banquet
+
+It wouldn’t be a banquet until at least one axe lies embedded in the roast.
+
+Piece
+
+Name
+
+Collection
+
+Holiday Surprise
+
+Bone Chill
+
+A perfect gift to throw at survivors during the holiday season.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Huntress’s Mask
+
+Twisted Masquerade
+
+A mask they found themselves wearing at the masquerade ball.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Muddied War Axe
+
+MEDVEDITSA
+
+A barbarous instrument of death, used primarily to remove limbs and inflict bodily harm.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Sharpened War Axe
+
+MEDVEDITSA
+
+A barbarous instrument of death, used primarily to remove limbs and inflict bodily harm.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Twisted Axe
+
+Twisted Masquerade
+
+A refined weapon suitable for the masquerade ball.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Winding Axe
+
+Mech Collection
+
+The blades were unbreakable.
+
+400
+
+7200
+
+Alternate Character Models
+
+The Huntress
+ has 
+5
+ alternate Character models available in the in-game Store:
+
+The 
+Mordeo
+
+The 
+Baba Yaga
+
+The 
+Were-Elk
+
+Winter Warrior
+ (Costume)
+
+Facemelter Eddie
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Huntress
+ is part of 
+2
+ DLCs:
+
+A Lullaby for the Dark
+
+This Chapter DLC comes pre-installed on the PC and Nintendo Switch versions.
+It is available as a free download on the XBOX and PlayStation versions.
+
+Charity Case
+
+Change Log
+
+Patch 2.2.0
+Patch 2.2.1
+Patch 3.2.2
+Patch 4.7.0
+Patch 4.7.1
+Patch 5.5.0
+Patch 7.3.0
+Patch 7.6.0
+Patch 2.2.0
+
+Quality of Life
+: standardised the 
+Lunge
+ mechanic so that 
+4.4 m/s
+ Killers now lunge at the same speed as 
+4.6 m/s
+ Killers.
+
+Rework
+: reworked the hitbox of 
+Hunting Hatchets
+ to more closely resemble the Prop's actual shape to allow for more precise shots.
+Patch 2.2.1
+
+Reversal
+: reverted the hitbox changes as the resulting changes were unsatisfactory.
+Patch 3.2.2
+
+Quality of Life
+: adjusted the projectile-throwing interaction to increase its responsiveness.
+Patch 4.7.0
+
+Change
+: received an Add-on Pass, reworking several Add-ons.
+Patch 4.7.1
+
+Change
+: the ammo count now updates after the Reload interaction ends.
+Patch 5.5.0
+
+Change
+: introduced new 
+Lobby Theme
+ for 
+The Huntress
+.
+Patch 7.3.0
+
+Buff
+: reduced the Reload time at 
+Lockers
+ from 
+4 seconds
+ to 
+3 seconds
+.
+Patch 7.6.0
+
+Buff
+: increased the default Carrying capacity of 
+Hatchets
+ from 
+5
+ to 
+7
+.
+
+Buff
+: reduced the Wind-up time from 
+1 second
+ to 
+0.9 seconds
+, speeding the interaction up by 
+10 %
+.
+
+Trivia
+
+General
+
+The Huntress
+ was nicknamed 
+"Bear"
+ in development.
+
+The Huntress
+ was the first Killer to have a ranged attack.
+
+The Huntress
+ was the third female Killer.
+
+The Huntress
+ was the first playable Character with an unknown surname.
+
+The Huntress
+ was the third Killer to wear face masks.
+
+The Huntress
+ is likely ambidextrous, guiding her Axe with her right and throwing Hatchets with her left hand.
+
+The Huntress'
+ hare mask might be inspired from similar masks worn by the Spider Splicers of the 
+BioShock
+ franchise.
+
+The Huntress
+ is one of the most human-looking Killers in the game, as she has very few unnatural alterations from The Entity.
+
+However, she does have pitch-black, animal-like eyes, likely a hint at her being a Bodark (see below).
+
+The Huntress
+ wears a silver ring on the middle finger of her left hand.
+
+She likely does this due to her affinity for collecting shiny things.
+
+The Huntress
+ was the first Killer to vocalise her attack.
+
+The Huntress
+ is one of the few killers that is directly associated with animals.
+
+Cosmetics
+
+The Mordeo
+
+ 
+The Huntress
+ as 
+"The Mordeo"
+
+The Huntress'
+ 
+Legendary Outfit
+, 
+"The Mordeo"
+, is a character from the Crypt TV series of the same name.
+
+"The Mordeo"
+ is one of several demons serving 
+"The Mordeo Queen"
+.
+
+A Mordeo is created whenever a human entering its territory in the woodlands engages desperately in cannibalism, similar to how a 
+"Wendigo"
+ is created.
+
+In languages such as Spanish, the word 
+mordeo
+ is translated as "bite," "sink your teeth into," "destroy," and "dreadful."
+
+The Mordeo Queen commands her tribe similar to a wolf pack.
+
+The Baba Yaga
+
+ 
+The Huntress
+ as 
+"The Baba Yaga"
+
+In Slavic folklore, Baba Yaga is a witch known to be a trickster and a provider of guidance.
+
+She flies on a giant mortar and pestle, and uses her broom to clear out traces of her presence.
+
+Lives in a hut with giant chicken legs.
+
+Baba Yaga has an ambiguous moral nature, as she's been depicted in stories as a motherly helper and others that describe her as a fiendish cannibal who eats children.
+
+Whenever 
+The Huntress
+ is wearing the 
+"The Baba Yaga"
+ 
+Ultra Rare Outfit
+ from the 
+Modern Tales Collection
+ (early 2022), the following special features include:
+
+Unique Lobby Theme Music will be playing instead of the standard Killer Theme.
+
+Unique idle animation in Killer Selection.
+
+New Lullaby with a melody similar to her old Lullaby.
+
+Sinister witch voice when attacking Survivors.
+
+The 
+"Baba Yaga"
+ 
+Ultra Rare Outfit
+ contains references of Russian folklore connected to the witch:
+
+The three colours (red, white, and black) represents the 3 horsemen from the fairy tale 
+Vasilisa the Beautiful
+: Dawn (white), Midday (red), and Dusk (black).
+
+The mask depicts the duality of Baba Yaga: Black witch mask shows her fiendishness and trickery (also shown by the snake symbol on her robe) and the white mask shows her helpful nature (also shown by the plant symbol on her robe).
+
+The mask also references stories depicting Baba Yaga as a trio of witches, which explains the two faces forming into one.
+
+The hanging chicken skulls and legs are a reference to her living chicken-legged hut.
+
+Both 
+The Huntress
+ and Baba Yaga bear similarities.
+
+Both express a motherly side to them.
+
+Both are cannibalistic.
+
+Both kidnap children, but with different motivations:
+
+Baba Yaga is depicted in some stories kidnapping and eating children.
+
+Often mistaken by the villagers for eating children, 
+The Huntress
+ instead kidnaps them with the intention of raising them as her own.
+
+The "Mother's Dwelling" Map was originally going to be designed as Baba Yaga's chicken-legged hut for the cosmetic, but the chicken legs were instead added onto the cosmetic as an aesthetic.
+
+The Red Queen
+
+ 
+The Huntress
+ as 
+"The Red Queen"
+
+The Huntress'
+ 
+Very Rare Outfit
+, "
+The Red Queen
+," is a character originating from "
+Through the Looking-Glass
+" by author and mathematician Lewis Carroll.
+
+The character is often mistaken for the Queen of Hearts, a character originating from Carroll's "
+Alice's Adventures in Wonderland
+."
+
+Carroll described the two queens as both being "Fury" but distinct: The Queen of Hearts is "ungovernable passion... blind and aimless" and the Red Queen being "cold and calm... formal and strict, yet not unkindly."
+
+The Huntress'
+ cosmetic even hints the Queen of Hearts' character:
+
+Her Queen Axe description quotes the Queen of Hearts' famous line "Off with your head!"
+
+Her Executioner Robe description quotes Queen of Hearts' "Death first... Sentence afterwards!", switched from the original "Sentence first--verdict afterwards."
+
+It's unknown whether the developers combined the two queens into one whole character or simply made a common mistake. However, she seems to be a combination of the two since a line from the Red Queen can be seen in her Red Crown description "don't twiddle your fingers about it" from the original "
+Through the Looking-Glass
+," "Look up, speak nicely, and don't twiddle your fingers all the time."
+
+Lore
+
+The Huntress
+ originates from the time of around World War I.
+
+The soldiers encountered by her (
+Memory 2436
+) define 
+The Huntress
+ as a 
+"Bodark
+,
+"
+ one of several types of lycanthropes in Russian and Slavic folklore.
+
+A Bodark is a person that willingly chooses to become a werewolf, often uses a ritual to force the change and are not affected by the lunar cycle unlike common werewolves. They're considerably more dangerous and terrifying than other werewolves in that they retain control over their actions and remain completely aware in their wolf form, which combined with heightened senses and enhanced abilities makes them excellent hunters and tremendously difficult opponents to face.
+
+The other type of werewolf that fits The Huntress' background is the 
+"Volkolak"
+, who can also transform at will, but unlike the Bodark both into a wolf and a bear form, which is the likely inspiration for The Huntress' WIP name 
+"Bear"
+.
+
+The Lullaby hummed by 
+The Huntress
+ is an actual, well-known Russian lullaby called 
+"баюшки баю" (Bayushki Bayu)
+. The lyrics warn children to not sleep close to the edge of their bed as they risk getting snatched by a wolf and dragged off into the woods.
+
+In 
+The Huntress'
+ family portrait inside the cabin of the "Mother's Dwelling" Map, it is likely hinted that she had a younger sibling.
+
+Voice Actress
+
+The Huntress
+ is voiced by Amélie Leguidader, who at that time worked as the Lead Game Programmer on the Game. She also sang the in-game Lullaby for most outfits.
+
+Gallery
+
+For more go to the 
+Huntress' Gallery
+
+In-game Assets
+
+The Huntress
+
+The Huntress (Portrait render)
+
+The Huntress (Background image)
+
+Official Art
+
+The Huntress
+
+The Huntress' teaser
+
+Outfits
+
+Lethal Eclipse Outfit
+
+Old Assets
+
+The Huntress (Old Portrait render)
+
+Concept Art
+
+'Bird of Prey Sugata' Concept Art
+
+'Growth Surge' Concept Art
+
+'Brave Beast' Concept Art
+
+'Cold Wasteland Survivor' Concept Art
+
+'Baba Yaga' Concept Art
+
+'Beach Day' Concept Art
+
+'Night Owl' Concept Art
+
+'Red Queen' Concept Art
+
+'Doll Collector' Concept Art
+
+Screenshots
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

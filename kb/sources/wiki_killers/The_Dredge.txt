@@ -1,0 +1,4016 @@
+# The Dredge
+Source: https://deadbydaylight.wiki.gg/wiki/The_Dredge (page complète via API, consultée le 27/09/2026)
+
+The Dredge
+
+Game Alias(es)
+
+"The Druanee"
+
+Gender
+
+Not applicable (not human)
+
+Origin
+
+None (Creature, Manifestation of Malthink)
+
+Realm
+
+Withered Isle
+
+Power
+
+Reign of Darkness
+
+Power 
+Attack
+ Type
+
+Basic Attack
+
+Weapon
+
+Knotted Appendage
+
+Movement Speed
+
+115 % 
+|
+ 4.6 m/s
+
+Terror Radius
+
+32 metres
+
+Height 
+
+Tall
+
+DLC
+
+Roots of Dread
+
+Voice Actor
+
+Roxana B.L.
+
+Maude Théberge
+
+Vanessa Landry
+
+Misha Standjofski
+
+Philippe Langelier
+
+Sébastien Croteau
+
+(all The Monster Factory)
+
+Cost
+
+4,500 
+Iridescent Shards
+
+250 
+Auric Cells
+
+Menu Music
+
+Terror Radius Music
+
+Metadata
+
+CharID
+
+K28
+
+The Dredge
+ is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+It was introduced as the Killer of 
+Roots of Dread
+, a Chapter DLC released on 7 June 2022 and retired on 14 May 2024.
+
+It is still available in the 
+In-Game Store
+ and as part of the 
+Endless Hunt Pack
+ Chapter Pack DLC.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: Knotted Appendage
+
+3.3
+ 
+Power: Reign of Darkness
+
+3.3.1
+ 
+Power Trivia
+
+3.3.2
+ 
+Locker Priorities
+
+3.4
+ 
+Add-ons for Reign of Darkness
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Default
+
+5.2
+ 
+Prestige
+
+5.2.1
+ 
+Perk Charms
+
+5.2.2
+ 
+Prestige Badges
+
+5.3
+ 
+Event
+
+5.4
+ 
+Rift
+
+5.5
+ 
+In-Game Store
+
+5.6
+ 
+Alternate Character Models
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+General
+
+8.2
+ 
+Lore
+
+8.3
+ 
+Memento Mori
+
+8.4
+ 
+Model
+
+8.5
+ 
+Voice Actors
+
+9
+ 
+Gallery
+
+9.1
+ 
+In-game Assets
+
+9.2
+ 
+Old Assets
+
+9.3
+ 
+Concept Art
+
+9.4
+ 
+Screenshots
+
+Overview
+
+A twisted abomination too disturbing to bear, The Dredge’s malevolence is palpable. All light slowly drains in its presence, surrounding Survivors in darkness. Using lockers as map-wide gateways, it can emerge at any moment, seemingly everywhere at once.
+
+The Dredge
+ is a manifestation of the dark thoughts of a once-vibrant community, able to teleport between Lockers and summon an overwhelming darkness.
+
+Its personal Perks, 
+Dissolution
+, 
+Darkness Revealed
+, and 
+Septic Touch
+, allow it to destroy Pallets, spot Survivors near Lockers, and afflict healing Survivors with 
+Blindness
+ and 
+Exhausted
+.
+
+Lore
+
+The Fold was founded on a private American island in the 1960s by a group of anonymous philanthropists. Their goal was to establish a peaceful society free of dark thoughts and emotions, attracting the dismayed, disenchanted, and disillusioned from all over the country.
+
+This peace-loving community thrived over the years, and members freely followed the dictates of its charismatic leader Otto Stamper who taught his followers the secret of maintaining happiness through joy-talk, meditation, and the endless reciting of 'good-thinking' mantras.
+
+But not all was bliss within The Fold, and Otto swiftly banished anyone who confessed to having dark thoughts or speaking dark words. Those he appointed as guardians of The Fold were quick to root out malcontents, banishing anyone who thought or spoke against the almost perfect community he had established. 
+
+Life was more or less a Utopian dream on the island. Until, that is, the darkness began to slowly leak through the cracks of their spiritual dam and members began to mysteriously disappear. 
+
+It wasn't long before fear closed its septic jaws on the island and refused to let go.
+
+The once happy community now gathered in a few homes chanting all the 'good-thinking' mantras in a desperate attempt to rid their lives of this formless creature that seemed to stalk them in the shadows and consume them in their sleep.
+
+Otto tried to quell his followers, telling them that there were malcontents among their ranks and that they alone had summoned the Druanee to their Garden of Joy.
+
+As The Fold bleated fear, Otto evoked desperate measures. Ottomarians were restricted to their homes to prevent the spread of rumours and dark-talk while sleep was forbidden to prevent anyone from releasing dark dreams into the world. Freedom and sleep would return just as soon as the Druanee was no longer upon them. 
+
+But when Ottomarians continued to disappear, Otto assembled his followers near the beach where he placed a screaming woman on a wooden stage. There, in the rain, Otto explained to his drenched, alienated, and sleep-deprived congregation that the woman was a journalist here to destroy everything they had created.
+
+As the guardians held the trembling woman, she screamed that Otto wasn't the saviour he claimed to be. He belonged to an ancient cult, an exclusive club of billionaires that took pleasure in corrupting and sacrificing people, towns and even countries to an Elder God. The journalist told them Otto hadn't banished anyone! He had tortured and sacrificed them and that they would all be next.
+
+Without hesitation, Otto slit her throat before she could continue to spread lies. As she collapsed to her knees with her hands clasped around her neck, he told his confused and terrified herd that she was working with others within their ranks and that they needed to find the impostors before the Druanee came for them all.
+
+Otto's words shot over the congregation and reached into the murky recesses of their hearts and dredged up dark and fearful things. 
+
+Years of suppressed emotions began to bubble up as a thick fog pushed through restless legs and feet. Whispers began, and the whispers became panicked mantras, and the mantras became screams and curses as each member accused the next of malthinking and malspeaking.
+
+Over the howling wind and pounding rain, the screams and curses grew louder and louder as everyone desperately tried to contain the darkness within. But the harder they tried, the quicker they ailed, and within moments the dam burst to release a torrent of hell.
+
+Otto watched his once blissful and joyful herd suddenly erupt into violence unlike anything he had ever seen before. The Fold bleated accusations and tore each other to bits and pieces with hands and teeth and never once did they look up to see their kind and charismatic shepherd smiling down upon them with eyes that were cold, bleak and without pity.
+
+When it was all over, Otto felt the creaking, wooden stage shake as a murder of crows circled above. Suddenly, the ground rose and then sank into a thick, oozing black mud like molasses. Moments later, a formless mass squelched out of the muck and rose like a rearing horse to feed upon the writhing mass of butchered humanity.
+
+It was everywhere and nowhere at once as it slowly picked its way through the carnage, absorbing the darkness, savouring the misery, trailing terrible noises. Shrieks. Cries. Whimpers. Pops. Cracks.
+
+Feasting sounds.
+
+Death sounds.
+
+Dark sounds.
+
+Otto watched the creature as it slowly began to manifest into the very thing he had imagined—the very thing he had made them all imagine.
+
+It turned slowly to look at Otto for a long silent moment, then the Druanee trudged away through the thick black sludge, disappearing into the shadows from which it had come.
+
+Load-out
+
+Unique Perks
+
+The Dredge
+ comes with 
+3
+ 
+Perks
+ that are unique to it:
+
+ 
+
+Darkness Revealed
+
+"In your presence, places once thought to be safe are perhaps the most dangerous."
+
+Searching a 
+Locker
+ has the following effect:
+
+The 
+Auras
+ of Survivors within 
+8 metres
+ of any 
+Locker
+ are revealed to you for 
+6
+/
+7
+/
+8
+ 
+seconds
+.
+
+Darkness Revealed
+ has a cool-down of 
+30 seconds
+.
+
+"Stay in the light, my children. In darkness, your fear will expose you." — Otto Stamper
+
+ 
+
+Dissolution
+
+"Everything turns to dust. It is as inescapable as the coming of the night."
+
+After 
+3 seconds
+ of injuring a Survivor using a basic-attack, 
+Dissolution
+ activates for 
+13
+/
+14
+/
+15
+ 
+seconds
+:
+
+Instantly breaks the next 
+Pallet
+ that Survivor performs a 
+Fast Vault
+ across while inside your 
+Terror Radius
+.
+
+"The Garden shall be a place of perfect Joy; through Joy, nothing shall stand in our way." — Otto Stamper
+
+ 
+
+Septic Touch
+
+"The Land of the Shadows subsumes all.
+Healing only delays the inevitable."
+
+Whenever a Survivor performs a Healing action while inside the 
+Terror Radius
+, they suffer from the following effects:
+
+Inflicts the 
+Blindness
+ and 
+Exhausted
+ 
+Status Effects
+.
+
+These effects linger for 
+20
+/
+25
+/
+30
+ 
+seconds
+ after the Healing action is interrupted by any means.
+
+"Do not admit to fear, or pain, or doubt. These are the seeds from which darkness grows." — Otto Stamper
+
+Prestige
+
+Prestiging 
+The Dredge
+ will automatically add 
+Tier I
+ of its Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Dredge
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: Knotted Appendage
+
+The Knotted Appendage
+ is the Primary Weapon of 
+The Dredge
+.
+Some of the body parts formed into a crude and horrifying weapon.
+
+Power: Reign of Darkness
+
+"Like a dark thought, The Dredge is difficult to shake.
+And when night falls, it is nearly impossible."
+SPECIAL ABILITY: REIGN OF DARKNESS
+The Dredge
+ starts the Trial with 
+3 Tokens
+.
+
+Press and hold the 
+Power button
+ to activate 
+The Gloaming
+ while leaving a 
+Remnant
+ behind:
+
+Reduces
+ its Movement speed to 
+4.0 m/s
+.
+
+Removes
+ the ability to attack or interact with Survivors or interact with Props.
+
+SPECIAL LOCOMOTION: THE GLOAMING
+While roaming the environment in this state, the 
+Auras
+ of all 
+Lockers
+ are revealed to 
+The Dredge
+
+Press the 
+Secondary Power button
+ to consume 
+-1 Token
+ and teleport into any 
+Locker
+ at a speed of 
+19 m/s
+.
+Press it again while inside a 
+Locker
+ to teleport into another 
+Locker
+ until all Tokens are consumed.
+
+Press the 
+Attack button
+ to cancel 
+The Gloaming
+ and instantly return to the 
+Remnant
+, if it is still available.
+The 
+Remnant
+ is removed after the first teleport or when a Survivor collides with it.
+
+The Gloaming
+ has a cool-down of 
+10 seconds
+ during 
+Daytime
+ and 
+4 seconds
+ during 
+Nightfall
+.
+SPECIAL INTERACTION: HIDING INSIDE LOCKERS
+After teleporting to a 
+Locker
+ 
+The Dredge
+ sits inside it and can observe the environment outside.
+While there is no time limit to this, nearby Survivors will hear a warning sound after 
+8 seconds
+ have elapsed.
+
+Press the 
+Interaction button
+ to exit the 
+Locker
+.
+
+If 
+The Dredge
+ teleports into a 
+Locker
+ already occupied by a Survivor, it will trap the Survivor and emerge from the 
+Locker
+ carrying them.
+This also happens when a Survivor interacts with a 
+Locker
+ in any way that is already occupied by 
+The Dredge
+.
+SPECIAL INTERACTION: LOCKING LOCKERS
+All 
+Lockers
+ spawn with an open latch on their door that Survivors can interact with to close it and lock the door.
+Locked Lockers
+ cannot be entered by Survivors and take priority when 
+The Dredge
+ teleports to them.
+
+The Dredge
+ takes 
+2.25 seconds
+ to open a 
+Locked Locker
+ from the inside, making a lot of noise in the process.
+Once 
+The Dredge
+ emerges from a 
+Locked Locker
+, its lock is broken permanently.
+The Dredge
+ can also break the lock from the outside by hitting it with a 
+Basic Attack
+.
+SPECIAL AFFLICTION: NIGHTFALL
+The 
+Nightfall Meter
+ fills passively at a rate of 
++0.25 c/s
+ during 
+Daytime
+.
+The fill rate is accelerated whenever 
+The Dredge
+ uses its Power and when Survivors are injured or hooked:
+
+Teleporting to the 
+Remnant
+ grants 
++10 Charges
+.
+
+Hooking a Survivor or injuring them with a 
+Basic Attack
+ grants 
++20 Charges
+.
+
+Hiding inside a 
+Locker
+ grants 
++6 c/s
+.
+
+Each injured Survivor grants a stack-able 
++1 c/s
+, up to a maximum of 
++4 c/s
+.
+
+Once the 
+Nightfall Meter
+ is full at 
+300 Charges
+, 
+Nightfall
+ begins and lasts for 
+60 seconds
+, forcing Survivors to navigate the environment in near-total darkness while 
+The Dredge
+ benefits from clearer vision and several effects:
+
+Grants the 
+Undetectable
+ 
+Status Effect
+.
+
+Increases
+ its Teleporation speed to 
+38 m/s
+.
+
+Reduces
+ the Cool-down duration of 
+The Gloaming
+ to 
+4 seconds
+.
+
+Survivors trigger 
+Killer Instinct
+ within 
+16 metres
+ of 
+Lockers
+ occupied by 
+The Dredge
+ or 
+The Remnant
+ upon returning to it.
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Charging/Holding 
+Reign of Darkness
+: 
+4.0 m/s
+
+Walking: 
+4.6 m/s
+
+Teleportation speed during 
+Daytime
+: 
+19 m/s
+
+Teleportation speed during 
+Nightfall
+: 
+38 m/s
+
+Gloaming Ability:
+
+Initial Charge time: 
+10 seconds
+
+This refers to how long it takes for the Power to become available after loading into a Trial.
+
+Cool-down time during 
+Daytime
+: 
+10 seconds
+
+Cool-down time during 
+Nightfall
+: 
+4 seconds
+
+Activation time: 
+0.5 seconds
+
+Fade-in / Fade-out time for 
+Remnant
+: 
+0.25 seconds
+
+Grabbing Survivor in teleported-to Locker: 
+3 seconds
+
+Restrictions:
+
+Minimum distance to hooked Survivors: 
+12 metres
+
+Minimum distance to Locker: 
+3 metres
+
+Locks:
+
+Time to lock: 
+0.1 seconds
+
+Time to break: 
+1.5 seconds
+
+This is identical to the cool-down time of an 
+Obstructed Hit
+.
+While 
+The Dredge
+ does use a 
+Basic Attack
+ to hit the 
+Locker
+, it hitting a prop instead of a Survivor causes it to apply that cool-down instead.
+
+This is also the reason 
+Perks
+ such as 
+Save the Best for Last
+ have no effect on this interaction.
+
+Lockers:
+
+Exit Locked Locker duration: 
+2.25 seconds
+
+Inside Locker 
+FOV
+: 
+120 °
+
+Killer Instinct
+ radius during 
+Nightfall
+: 
+16 metres
+
+Killer Instinct
+ Linger duration: 
+3 seconds
+
+Warning Sound threshold: 
+8 seconds
+
+This refers to how long 
+The Dredge
+ can hide in a Locker before the warning sound triggers.
+
+Prevent Locker-Search cool-down: 
+1.25 seconds
+
+Nightfall Activation:
+
+Activation threshold: 
+300 Charges
+
+This refers to how many Charges must be accumulated for 
+Nightfall
+ to start.
+
+Automatic Charge rate: 
+0.25 c/s
+
+Nightfall
+ automatically charges at this default rate during 
+Daytime
+.
+The value can be increased by 
+The Dredge
+ in various ways, accelerating the progression towards 
+Nightfall
+:
+
+Hiding inside a Locker adds 
++6 c/s
+
+Each injured Survivors adds a stack-able 
++1 c/s
+ each for a maximum of:
+
++1 c/s
+ for 
+1
+ injured Survivor.
+
++2 c/s
+ for 
+2
+ injured Survivors.
+
++3 c/s
+ for 
+3
+ injured Survivors.
+
++4 c/s
+ for 
+4
+ injured Survivors.
+
+Injuring a Survivor with a 
+Basic Attack
+ adds 
++20 Charges
+
+Hooking a Survivor adds 
++20 Charges
+
+Teleporting back to the 
+Remnant
+ adds 
++10 Charges
+
+Imminent 
+Nightfall
+ Warning threshold: 
+85 % charged
+
+This refers to the percentage 
+Nightfall
+ must be charged to when it gives a global sound cue warning to all Players that 
+Nightfall
+ is imminent.
+
+Transition time from 
+Daytime
+ to 
+Nightfall
+: 
+3 seconds
+
+Nightfall Discharging:
+
+Discharging threshold: 
+60 Charges
+
+This refers to how many Charges must be discharged in order for 
+Nightfall
+ to end.
+
+Discharge rate: 
+-1 c/s
+
+Transition time from 
+Nightfall
+ to 
+Daytime
+: 
+1.5 seconds
+
+Nightfall VFX:
+
+During 
+Nightfall
+, to counteract the darkness, the Survivors show special visual effects on their model, akin to an Aura, which cannot be read through objects, however.
+This effect has the following requirements for it to be seen:
+
+Survivor to other Survivor: 
+up to 54 metres
+
+Killer to Survivors: 
+up to 20 metres
+
+Locker Priorities
+
+When teleporting to a pair of 
+Lockers
+, there is a distinct hierarchy 
+The Dredge
+ follows when choosing which of the two 
+Lockers
+ it will teleport into:
+
+The 
+Locker
+ a Survivor is either hiding in or interacting with (i.e. locking).
+
+The 
+Locker
+ that is locked (in case of just one of them being locked).
+
+Any of the two 
+Lockers
+ if both have the same state (i.e. both are either unlocked or locked).
+
+Add-ons for Reign of Darkness
+
+Icon
+
+Name
+
+Description
+
+Caffeine Tablets
+
+Stamper's followers were told not to sleep, or they would bring the wrath of Druanee upon them.
+Towards the end, he brought in drugs from the mainland.
+
+The 
+Auras
+ of locked 
+Lockers
+ are highlighted to you in 
+yellow
+ while charging 
+The Gloaming
+ or teleporting.
+
+Follower's Cowl
+
+They believed the cowls proved their enlightenment, but they merely kept them in darkness.
+
+Returning to the 
+Remnant
+ triggers 
+Killer Instinct
+ during 
+Daytime
+.
+
+Mortar and Pestle
+
+Disconnected from the world and modern medicine, Stamper's followers originally had to make do with the flora local to the island.
+
+You emerge from the 
+Remnant
+ facing your direction at the moment of Teleportation, rather than the one in which you had placed the 
+Remnant
+.
+
+Wooden Plank
+
+A wooden plank torn from the stage where Otto Stamper sacrificed a meddling journalist.
+
+Increases
+ the Charges added to the 
+Nightfall Meter
+ for hooking Survivors by 
++25 %
+.
+
+Air Freshener
+
+After her parents were found, this was in the bag of belongings the police returned.
+Haddie does not know why she keeps it.
+
+Increases
+ the number of available Power Tokens to 
+4
+.
+
+Burnt Letters
+
+Some followers tried to write letters home.
+Stamper ensured that nobody would have contact with the outside world.
+
+Increases
+ the Charges added to the 
+Nightfall Meter
+ for injuring Survivors by 
++25 %
+.
+
+Fallen Shingle
+
+After the Ottomarians were subsumed by The Dredge, the mansion fell into disrepair.
+
+Increases
+ the Charge rate of the 
+Nightfall Meter
+ while using 
+Reign of Darkness
+ by 
++15 % per second
+.
+
+Haddie's Calendar
+
+She planned to cross out each day until her parents took her to India, but when tragedy struck, she abandoned her calendar.
+
+Reduces
+ the Exiting time from locked 
+Lockers
+ by 
+-0.4 seconds
+.
+
+Malthinker's Skull
+
+Those who brought negativity to the commune would mysteriously disappear from time to time.
+Their remains were never found... until The Dredge brought them up.
+
+Increases
+ the Charge rate of the 
+Nightfall Meter
+ while Survivors are injured by 
++25 % per second
+.
+
+Broken Doll
+
+Followers brought their families to live in a utopia.
+None of them were spared.
+
+Increases
+ the duration of 
+Nightfall
+ by 
++20 seconds
+.
+
+Destroyed Pillow
+
+While not allowed to sleep, leaders amongst the Ottomarians tore sleeping supplies to shreds to prevent malthinkers from sneaking off to nap.
+
+Reduces
+ the Cool-down time of 
+The Gloaming
+ by 
+-2.5 seconds
+ during 
+Nightfall
+.
+
+Ottomarian Writing
+
+The words of Otto Stamper were the only words available for his followers to read, decrying malthink and malspeak.
+
+Reduces
+ the Cool-down time of 
+The Gloaming
+ by 
+-2 seconds
+ during 
+Daytime
+.
+
+War Helmet
+
+While investigating an Overlap in the Alps, she found an abandoned war bunker.
+She took a helmet from it after the Overlap nearly took her.
+
+Increases
+ the duration of 
+Killer Instinct
+ by 
++1.5 seconds
+ during 
+Nightfall
+.
+
+Worry Stone
+
+While the Ottomarians were told to think only positive thoughts, some kept these stones in their pockets to rub when negative thoughts arose.
+
+The 
+Auras
+ of Survivors locking a 
+Locker
+ are revealed to you for 
+6 seconds
+.
+
+Boat Key
+
+Only one boat allowed people on and off the island, and the keys were hidden away to prevent deserters.
+
+Increases
+ your Teleportation speed during 
+Daytime
+ by 
++3 m/s
+.
+
+Causes all active 
+Locks
+ on 
+Lockers
+ to break once the 
+Exit Gates
+ are powered by any means.
+
+Field Recorder
+
+Haddie documented all of her forays near Overlaps, to prove not only to the world but herself what she saw and felt.
+
+Causes the Trial to start in 
+Nightfall
+.
+
+Causes 
+Nightfall
+ to activate automatically once the last 
+Generator
+ is completed.
+
+Survivors suffer from the 
+Exhausted
+ 
+Status Effect
+ for 
+15 seconds
+ after coming into contact with the 
+Remnant
+.
+
+Lavalier Microphone
+
+She kept a lavalier mic nearby, allowing her to record her innermost feelings when under great stress.
+
+The 
+Auras
+ of all Survivors are revealed to you for 
+3 seconds
+ after consuming the last Power Token.
+
+Causes all 
+Lockers
+ within 
+6 metres
+ of Survivors to open and slam their doors when entering them through teleporation.
+
+Tilling Blade
+
+The island was self-sufficient, and followers tilled the tough soil to grow crops during the warm season.
+
+Survivors suffer from the 
+Blindness
+, 
+Haemorrhage
+,  and 
+Mangled
+ 
+Status Effects
+ for 
+80 seconds
+ after becoming injured during 
+Nightfall
+.
+
+"Like a predatory beast, it can smell and track blood."
+
+Iridescent Wooden Plank
+
+Once the journalist's blood stained the wooden boards of the stage, everything was set into motion for The Dredge's arrival.
+
+Survivors suffer from the 
+Exposed
+ 
+Status Effect
+ for the last 
+12 seconds
+ of 
+Nightfall
+.
+
+"She came here to poison your minds with fear! Do not let the fear in!" — Otto Stamper
+
+Sacrificial Knife
+
+When a journalist attempted to warn the Ottomarians of Stamper's true task, he slit her throat as a warning to any dissenters.
+
+Blocks
+ all Vault locations within 
+16 metres
+ of the 
+Locker
+ you emerge from during 
+Nightfall
+ for 
+5 seconds
+.
+
+"There are imposters amongst you! They intend to destroy our perfect home with dark thoughts. Find them and bring them to me!" — Otto Stamper
+
+Achievements
+
+Main article: 
+Achievements
+
+There are 
+2
+ Achievements related to 
+The Dredge
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Dredge
+
+Playing as The 
+Dredge
+, achieve a 
+Merciless Victory
+ using only its 
+3
+ Unique Perks: 
+Dissolution
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Everything turns to dust. It is as inescapable as the coming of the night."
+
+After 
+3 seconds
+ of injuring a Survivor using a basic-attack, 
+Dissolution
+ activates for 
+13
+/
+14
+/
+15
+ 
+seconds
+:
+
+Instantly breaks the next 
+Pallet
+ that Survivor performs a 
+Fast Vault
+ across while inside your 
+Terror Radius
+.
+
+"The Garden shall be a place of perfect Joy; through Joy, nothing shall stand in our way." — Otto Stamper
+
+, 
+Darkness Revealed
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"In your presence, places once thought to be safe are perhaps the most dangerous."
+
+Searching a 
+Locker
+ has the following effect:
+
+The 
+Auras
+ of Survivors within 
+8 metres
+ of any 
+Locker
+ are revealed to you for 
+6
+/
+7
+/
+8
+ 
+seconds
+.
+
+Darkness Revealed
+ has a cool-down of 
+30 seconds
+.
+
+"Stay in the light, my children. In darkness, your fear will expose you." — Otto Stamper
+
+, and 
+Septic Touch
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"The Land of the Shadows subsumes all.
+Healing only delays the inevitable."
+
+Whenever a Survivor performs a Healing action while inside the 
+Terror Radius
+, they suffer from the following effects:
+
+Inflicts the 
+Blindness
+ and 
+Exhausted
+ 
+Status Effects
+.
+
+These effects linger for 
+20
+/
+25
+/
+30
+ 
+seconds
+ after the Healing action is interrupted by any means.
+
+"Do not admit to fear, or pain, or doubt. These are the seeds from which darkness grows." — Otto Stamper
+
+.
+
+Bump in the Night
+
+Playing as The 
+Dredge
+, down Survivors during 
+Nightfall
+ a total of 
+50 times
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Dredge
+:
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+The Dredge
+
+Common
+
+A hideous amalgam of the lives lost in The Garden, hungry for revenge against those who shunned and tried to bury it.
+
+Tangled Corpus
+
+Common
+
+A coil of limbs and heads that looked suspiciously like those who disappeared from the Garden.
+
+Knotted Appendage
+
+Common
+
+Some of the body parts formed into a crude and horrifying weapon.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Bloody Dredge
+
+Rare
+
+A hideous amalgam of the lives lost in The Garden, slaked by the blood of those unlucky enough to end up in its path.
+
+Prestige Level 6 Reward
+
+Gore-Soaked Corpus
+
+Rare
+
+A blood-soaked tangle of vaguely recognisable body parts.
+
+Prestige Level 5 Reward
+
+Grisly Appendage
+
+Rare
+
+A gore-soaked patchwork of human parts in the form of a crude and horrifying weapon.
+
+Prestige Level 4 Reward
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+A hideous amalgam of the lives lost in The Garden.
+
+Event
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Event
+
+Exclusive to Event Participation
+
+Chewing Blade
+
+Rare
+
+A sticky weapon made with candies and dread.
+
+Haunted by Daylight 2023
+
+Yes
+
+Dredge's Mask
+
+Event
+
+A mask they found themselves wearing at the masquerade ball.
+
+Twisted Masquerade
+ 
+Tome: Level 2
+
+Yes
+
+Glittering Mass
+
+Event
+
+Even in the dark of night, its body glistened with gold.
+
+Twisted Masquerade
+ 
+Tome: Level 1
+
+Yes
+
+Golden Limb
+
+Event
+
+Whatever force embellished it with gold turned the end of its arm into a beautiful but deadly blade.
+
+Twisted Masquerade
+ 
+Tome: Level 1
+
+Yes
+
+Infernal Snowball
+
+Event
+
+It doesn't look like it's going to melt any time soon.
+
+Bone Chill 2022
+ 
+Tome: Level 1
+
+Yes
+
+Dead Branches
+
+Event
+
+The leaves have long since fallen and left a chilling silhouette.
+
+Bone Chill 2022
+ 
+Tome: Level 2
+
+Yes
+
+Icy Bramble
+
+Event
+
+The ornaments aren't the only things that will be hung with care.
+
+Bone Chill 2022
+ 
+Tome: Level 2
+
+Yes
+
+Frosty Eyes
+
+Event
+
+Heart chilling eyes of the cold blooded.
+
+"Have an amazing Winter season 2022!" - The Dead by Daylight Team
+
+Bone Chill 2022
+ 
+Tome: Level 1
+
+Yes
+
+ Rift
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+A House Not A Home
+
+Community
+
+Rift Pass 4 - Flashback
+
+12 June 2018 (Tuesday)
+
+Description
+
+She was just a child, but she would never forget the day she and her family moved into their new home.
+ Design inspired by 
+Ivana Krovinova
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Serrated Splinters
+
+Community
+
+57
+
+From day one, she complained to her parents about the knocking on the walls and the doors that would open and slam on their own.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Horror Shack
+
+Community
+
+63
+
+Her parents didn’t take her seriously, saying it was just the wind. But it wasn’t. It was the house talking, shifting.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Splinter Scythe
+
+Community
+
+67
+
+The house was a monstrous place, with a gaping maw, lying in wait. She would cry herself to sleep every night.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Fear of Reminiscence
+
+Community
+
+Rift Pass 3 - Reverence
+
+07 October 2025 (Tuesday)
+
+Description
+
+Amidst the screams and violence, he saw a figure draped in a white sheet. It was a familiar sight that chilled him to the bone. 
+Design inspired by 
+urouroutsuro
+.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Suffocating Grip
+
+Community
+
+67
+
+He was haunted by a ghost such as this as a child. He ran through the streets on Halloween, barely making it home in time.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Hidden Torment
+
+Community
+
+67
+
+He had forced himself to forget such horrible things. But now there was no place for his memories to hide.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Haunter's Scythe
+
+Community
+
+67
+
+The draped terror grew closer and closer. Its stare consumed him. There was no running away this time.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Mycelium Nightmare
+
+Dark Overgrowth
+
+Rift Pass 1 - Overgrowth
+
+02 June 2026 (Tuesday)
+
+Description
+
+He was a man of faith until the end, clinging to positivity even as he was trampled into the sand by the fleeing crowd.
+
+1296
+
+25920
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Fairy Incisors
+
+Dark Overgrowth
+
+65
+
+He could barely see the creature as it approached, but he recognized the bright caps and drosera growing from its body.
+
+480
+
+8640
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Fungi Wreath
+
+Dark Overgrowth
+
+68
+
+He was a scared little boy once again, listening to his mother read that awful book about the forest monster that consumed the unicorn.
+
+480
+
+8640
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Merciless Nature
+
+Dark Overgrowth
+
+70
+
+At last, he began to scream through the wet sand clinging to his throat. The forest monster descended upon him, and fed.
+
+480
+
+8640
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Mycelium Nightmare (Deep Rift 1)
+
+Dark Overgrowth
+
+Rift Pass 1 - Overgrowth
+
+06 May 2025 (Tuesday)
+
+Description
+
+He was a man of faith until the end, clinging to positivity even as he was trampled into the sand by the fleeing crowd.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Fairy Incisors (Deep Rift 1)
+
+Dark Overgrowth
+
+82
+
+He could barely see the creature as it approached, but he recognized the bright caps and drosera growing from its body.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Fungi Wreath (Deep Rift 1)
+
+Dark Overgrowth
+
+82
+
+He was a scared little boy once again, listening to his mother read that awful book about the forest monster that consumed the unicorn.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Merciless Nature (Deep Rift 1)
+
+Dark Overgrowth
+
+82
+
+At last, he began to scream through the wet sand clinging to his throat. The forest monster descended upon him, and fed.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Mycelium Nightmare (Deep Rift 2)
+
+Dark Overgrowth
+
+Rift Pass 1 - Overgrowth
+
+06 May 2025 (Tuesday)
+
+Description
+
+He was a man of faith until the end, clinging to positivity even as he was trampled into the sand by the fleeing crowd.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Fairy Incisors (Deep Rift 2)
+
+Dark Overgrowth
+
+90
+
+He could barely see the creature as it approached, but he recognized the bright caps and drosera growing from its body.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Fungi Wreath (Deep Rift 2)
+
+Dark Overgrowth
+
+90
+
+He was a scared little boy once again, listening to his mother read that awful book about the forest monster that consumed the unicorn.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Merciless Nature (Deep Rift 2)
+
+Dark Overgrowth
+
+90
+
+At last, he began to scream through the wet sand clinging to his throat. The forest monster descended upon him, and fed.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Mycelium Nightmare (Deep Rift 3)
+
+Dark Overgrowth
+
+Rift Pass 1 - Overgrowth
+
+06 May 2025 (Tuesday)
+
+Description
+
+He was a man of faith until the end, clinging to positivity even as he was trampled into the sand by the fleeing crowd.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Fairy Incisors (Deep Rift 3)
+
+Dark Overgrowth
+
+100
+
+He could barely see the creature as it approached, but he recognized the bright caps and drosera growing from its body.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Fungi Wreath (Deep Rift 3)
+
+Dark Overgrowth
+
+100
+
+He was a scared little boy once again, listening to his mother read that awful book about the forest monster that consumed the unicorn.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Merciless Nature (Deep Rift 3)
+
+Dark Overgrowth
+
+100
+
+At last, he began to scream through the wet sand clinging to his throat. The forest monster descended upon him, and fed.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Unwanted Toy
+
+Playtime collection
+
+Tome 17 - Commitment
+
+04 March 2025 (Tuesday)
+
+Description
+
+A blend of terrifying toys made from the lost memories of children.
+
+1296
+
+25920
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Monster Claw
+
+Playtime collection
+
+64
+
+The claw's back eye looked like something out of a child's worst nightmare.
+
+480
+
+8640
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Plastic Heap
+
+Playtime collection
+
+70
+
+The forgotten toys fused together, forming a colorful mass.
+
+480
+
+8640
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Noxious Spike
+
+Playtime collection
+
+68
+
+A weapon crafted from plastic flesh.
+
+480
+
+8640
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Unwanted Toy (Deep Rift)
+
+Deep Rift
+
+Tome 17 - Commitment
+
+12 June 2018 (Tuesday)
+
+Description
+
+An unsettled creature made from the lost memories of children.
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Monster Claw (Deep Rift)
+
+Deep Rift
+
+79
+
+The terrifying eye on the back of his claw never blinked.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Plastic Heap (Deep Rift)
+
+Deep Rift
+
+82
+
+The forgotten toys fused together, creating a tangled mess of eyes and unsettling grins.
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Noxious Spike (Deep Rift)
+
+Deep Rift
+
+85
+
+A weapon crafted from forgotten toys parts.
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Blistered Muscle
+
+Mangled Flesh Collection
+
+07 June 2022 (Tuesday)
+
+Description
+
+The bodies of those sacrificed were torn mercilessly, forming hideous scars and scabs.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Disfigured Appendage
+
+Mangled Flesh Collection
+
+To look upon it was to see beyond the limits of what human flesh could endure.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Coarse Cicatrix
+
+Mangled Flesh Collection
+
+Despite the enormous damage its body took, it lurched ever forward, unfeeling.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Scaly Protuberance
+
+Mangled Flesh Collection
+
+Hardened by the growth of scar tissue, it struck harder than ever.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Gangrenous Thews
+
+Mangled Flesh Collection
+
+07 June 2022 (Tuesday)
+
+Description
+
+Torn asunder and left to the elements, the flesh became sickly and grim.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rotting Nodule
+
+Mangled Flesh Collection
+
+Severed from anything resembling actual life, it turned into a putrid mess.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Pustulous Husk
+
+Mangled Flesh Collection
+
+The filth of the outdoors infected the flesh that remained.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Diseased Limb
+
+Mangled Flesh Collection
+
+The corruption reached through all of its extremities, turning it as foul as it was dangerous.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Overgrown Sinew
+
+Mangled Flesh Collection
+
+07 June 2022 (Tuesday)
+
+Description
+
+Unaging and unfeeling, its muscle grew over with local vegetation between victims.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Verdant Limb
+
+Mangled Flesh Collection
+
+After decimating the people of The Garden, it began to become one with The Garden.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Petrified Limbs
+
+Mangled Flesh Collection
+
+The flesh mixed with the flora, turning to something like stone.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Wild Extremity
+
+Mangled Flesh Collection
+
+Hands that once tended to The Garden now grew green themselves.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Memory of Maurice
+
+MAURICE
+
+31 January 2023 (Tuesday)
+
+Description
+
+There was no sign of Maurice, but the memory of him was reflected in The Dredge’s darkness.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Dark Horse
+
+MAURICE
+
+With its new appearance, The Dredge was sure to attract more prey.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Old Friend
+
+MAURICE
+
+Now armed with four legs, it could knock out its prey before destroying them.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Killing Hoof
+
+MAURICE
+
+The rusty nails coming out of its hooves could easily pierce the skin.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Masquerade Colors
+
+Twisted Masquerade
+
+25 June 2026 (Thursday)
+
+Description
+
+It arrived at some kind of party, its body adorned in gold and bright colors.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Dredge’s Mask
+
+Twisted Masquerade
+
+A mask they found themselves wearing at the masquerade ball.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Glittering Mass
+
+Twisted Masquerade
+
+Even in the dark of night, its body glistened with gold.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Golden Limb
+
+Twisted Masquerade
+
+Whatever force embellished it with gold turned the end of its arm into a beautiful but deadly blade.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Decaying Misery
+
+Autumn Fashion
+
+03 September 2024 (Tuesday)
+
+Description
+
+She froze at the sight of dark antlers looming over her. This thing was reaching into the dark recesses of her memory.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+False Security
+
+Autumn Fashion
+
+She recalled running through the forest on a chilly autumn day, wiping her nose with her sleeve. Her cousins cheered as she leaped into a pile of leaves.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Invasive Flesh
+
+Autumn Fashion
+
+Her laughter faded as the stench of decay overwhelmed her. Beneath the leaves, she found the head of a deer staring blankly at the sky.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Cervid's Claw
+
+Autumn Fashion
+
+The creature was upon her, but she was frozen to the spot. She shed a tear as she waited to be consumed by the shambling nightmare.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Frosty the Nightmare
+
+Bone Chill
+
+19 December 2023 (Tuesday)
+
+Description
+
+From the subconscious of the cold and scared emerged a horrifying creature of ice and malice.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Infernal Snowball
+
+Bone Chill
+
+It doesn’t look like it’s going to melt any time soon.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Dead Branches
+
+Bone Chill
+
+The leaves have long since fallen and left a chilling silhouette.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Icy Bramble
+
+Bone Chill
+
+The ornaments aren’t the only things that will be hung with care.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Skeletal Mass
+
+Grave Amalgamation Collection
+
+26 July 2022 (Tuesday)
+
+Description
+
+With its flesh decayed, only a sickening collection of bones remains.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Jagged Protrusion
+
+Grave Amalgamation Collection
+
+The bones of the damned snapped through the gnarled skin.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Withered Carcass
+
+Grave Amalgamation Collection
+
+Whatever animates this abomination continues to do so, even after the skin and sinew have sloughed away.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Cartilaginous Club
+
+Grave Amalgamation Collection
+
+Stiff and cold, its horrifying limb smashes and strikes harder than ever.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Twisted Plaything
+
+Malicious Mannequin Collection
+
+07 June 2022 (Tuesday)
+
+Description
+
+As it decayed, it replaced parts of itself with anything even resembling a human, particularly those that struck fear.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Porcelain Dolls
+
+Malicious Mannequin Collection
+
+A dreadful strand of children’s toys grew from the thing’s side.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Toy Chest
+
+Malicious Mannequin Collection
+
+It shambled along, unstopping, powered by something dark and unknowable.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Bludgeon of Baubles
+
+Malicious Mannequin Collection
+
+The doll parts formed something almost resembling a human hand.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Crustacean Threat
+
+Horrors From The Deep
+
+06 August 2024 (Tuesday)
+
+Description
+
+Amidst the chaos and violence on that beach, the loyal follower attacked his neighbor as their leader looked on.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Primitive Hold
+
+Horrors From The Deep
+
+He grabbed a dead crab half-buried in the sand. The shell was cracked, and he used it to slice his neighbor's throat open.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rotten Shell
+
+Horrors From The Deep
+
+The sand turned to black mud and the sight of what emerged made him cry out in terrified elation.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Depth Stake
+
+Horrors From The Deep
+
+He closed his eyes and spread his arms, ready to receive whatever fate would befall him.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+War is Hell
+
+Greek Legends
+
+25 July 2023 (Tuesday)
+
+Description
+
+They crossed a field of warriors’ remains and bones, nourishing themselves with the flavor of death.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Spartan Remains
+
+Greek Legends
+
+The chains of war could not restrain the abomination.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Skull Bearer
+
+Greek Legends
+
+They kept the soldiers' carcasses as trophies.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Reaper Scythe
+
+Greek Legends
+
+A devastating rusty blade.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Eddie's Tribute
+
+Iron Maiden
+
+22 February 2024 (Thursday)
+
+Description
+
+Many terrible forms of Eddie merged into one, a nightmarish chimera of haunting shapes.
+
+1485
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Bolted Hooks
+
+Iron Maiden
+
+The hooks dragged across the blood-soaked soil, kicking up long-buried stones.
+
+Piece
+
+Name
+
+Collection
+
+Maddening Riff
+
+Iron Maiden
+
+Many hands wrapped around the guitar, an omen of the pain and suffering to come.
+
+Piece
+
+Name
+
+Collection
+
+Undead Pincer
+
+Iron Maiden
+
+The flesh claw was adorned with predator fangs, pierced by a forgotten blade, and wired to amplify fear.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Half Spirits' Torments
+
+Junji Ito
+
+07 January 2025 (Tuesday)
+
+Description
+
+Everything had gone terribly wrong. He tried to run, but the sand gave way beneath his feet and he fell.
+
+1485
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Dead Past
+
+Junji Ito
+
+He crawled, half-blind from sand in his eyes. In his darkest moments he heard the screaming, echoes from his memory.
+
+Piece
+
+Name
+
+Collection
+
+Broken Promise
+
+Junji Ito
+
+He was just a kid, but he had survived where they did not. Growing old had been both a blessing and a curse.
+
+Piece
+
+Name
+
+Collection
+
+Phantom Grasp
+
+Junji Ito
+
+As his eyes cleared, something flipped him onto his back. He wailed at the sight of those he'd left behind, back to reclaim him.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Mycelium Nightmare
+
+Dark Overgrowth
+
+Rift Pass 1 - Overgrowth
+
+02 June 2026 (Tuesday)
+
+Description
+
+He was a man of faith until the end, clinging to positivity even as he was trampled into the sand by the fleeing crowd.
+
+1296
+
+25920
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Fairy Incisors
+
+Dark Overgrowth
+
+65
+
+He could barely see the creature as it approached, but he recognized the bright caps and drosera growing from its body.
+
+480
+
+8640
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Fungi Wreath
+
+Dark Overgrowth
+
+68
+
+He was a scared little boy once again, listening to his mother read that awful book about the forest monster that consumed the unicorn.
+
+480
+
+8640
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Merciless Nature
+
+Dark Overgrowth
+
+70
+
+At last, he began to scream through the wet sand clinging to his throat. The forest monster descended upon him, and fed.
+
+480
+
+8640
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Unwanted Toy
+
+Playtime collection
+
+Tome 17 - Commitment
+
+04 March 2025 (Tuesday)
+
+Description
+
+A blend of terrifying toys made from the lost memories of children.
+
+1296
+
+25920
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Monster Claw
+
+Playtime collection
+
+64
+
+The claw's back eye looked like something out of a child's worst nightmare.
+
+480
+
+8640
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Plastic Heap
+
+Playtime collection
+
+70
+
+The forgotten toys fused together, forming a colorful mass.
+
+480
+
+8640
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Noxious Spike
+
+Playtime collection
+
+68
+
+A weapon crafted from plastic flesh.
+
+480
+
+8640
+
+Piece
+
+Name
+
+Collection
+
+Chewing Blade
+
+Tricks and Treats
+
+A sticky weapon made with candies and dread.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Disordered Meat
+
+Blood Moon
+
+The limb burst from its body, a mass of teeth, bones and sinew.
+
+Piece
+
+Name
+
+Collection
+
+Gelid Appendage
+
+Bone Chill
+
+It reached out from a realm of eternal ice.
+
+250
+
+Piece
+
+Name
+
+Collection
+
+Eat, Prey, Limb
+
+Black Banquet
+
+Viscera, fat, muscle, bone. Combine in a ritualistic bowl, toss generously, and season to taste.
+
+Alternate Character Models
+
+The Dredge
+ has 
+2
+ alternate Character models available in the in-game Store:
+
+Eddie's Tribute
+
+Half Spirits' Torments
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Dredge
+ is part of 
+2
+ DLCs:
+
+Chapter DLC:
+
+Roots of Dread
+ (
+retired
+)
+
+Pack DLCs:
+
+Endless Hunt Pack
+ (Chapter Pack)
+
+Change Log
+
+Patch 6.0.2
+Patch 8.2.0
+Patch 9.2.0
+Patch 9.6.0
+Patch 6.0.2
+
+Buff
+: reduced the Maximum range at which 
+The Dredge
+ is visible during 
+Nightfall
+ from 
+24 metres
+ to 
+20 metres
+.
+
+Nerf
+:
+ increased the Maximum range at which Survivors are visible to other Survivors during 
+Nightfall
+ from 
+24 metres
+ to 
+54 metres
+.
+Patch 8.2.0
+
+Buff
+: increased 
+The Dredge's
+ Movement Speed while charging 
+The Gloaming
+ from 
+3.68 m/s
+ to 
+3.8 m/s
+.
+
+Buff
+: increased the 
+Daytime
+ Teleportation speed from 
+12 m/s
+ to 
+19 m/s
+.
+
+Buff
+: reduced the 
+Daytime
+ Teleport cool-down from 
+12 seconds
+ to 
+10 seconds
+.
+
+Buff
+: reduced the time it takes to break out of a Locked Locker from 
+3 seconds
+ to 
+2.25 seconds
+.
+
+Buff
+: increased the stack-able 
+Nightfall
+ charging bonus per Injured Survivor from 
+0.75 c/s
+ to 
+1.0 c/s
+.
+
+Buff
+: reduced the volume of 
+The Dredge's
+ SFX in order to make it harder to detect.
+
+Change
+:
+ updated several Add-ons.
+Patch 9.2.0
+
+Indirect Buff
+: updated several maps to reduce deadzones, which also added and increased Locker location and placements.
+Patch 9.6.0
+
+Buff
+: increased 
+The Dredge's
+ Movement Speed while charging 
+The Gloaming
+ from 
+3.8 m/s
+ to 
+4.0 m/s
+.
+
+Trivia
+
+General
+
+The Dredge
+ is the third non-human Killer introduced to 
+Dead by Daylight
+, acting as a manifestation of the creature 
+Otto Stamper
+ warned his cult-members from.
+
+However, 
+The Dredge
+ is the first non-humanoid Killer, as all previous Killers vaguely resemble a human shape.
+
+The Dredge
+ is the first original non-human character introduced to 
+Dead by Daylight
+.
+
+The Dredge
+ is the second Killer to have a separate animation when chasing survivors.
+
+The Dredge
+ is the Killer with the highest situational Movement speed in 
+Dead by Daylight
+, able to move at a maximum of 
+38 m/s
+ when teleporting during 
+Nightfall
+.
+
+This disregards instantaneous teleportation Powers, as those are not associated with a 
+Movement speed
+.
+
+The Dredge
+ is the second Killer to have the pronouns "it" and "its" to refer to it.
+
+This can be attributed to the fact that there is no discernible gender to be assigned to it or to its predecessor in this regard, The 
+Demogorgon
+.
+
+Despite this, 
+The Dredge
+ has been referred to before with "he/him" pronouns
+[
+1
+]
+.
+
+The Dredge
+ has 2 unused Score Events that mention an unused mechanic called "Blood Altar", unknown what it would've affected or did in gameplay.
+
+These Score Events do not have localized names and instead use a placeholder string as their names:
+
+"SCORE_K28_COMPLETEBLOODALTAR" - Grants 200 
+Boldness
+ points.
+
+"SCORE_K28_COMPLETEBLOODALTAR_INJURED" - Grants 100 
+Altruism
+ points.
+
+The Dredge
+ Can enter lockers without charging The Gloaming by pressing the Secondary Power Button while standing in front of a locker that is not locked. This does not let you teleport without having your power available, as you cannot enter lockers at all without your power.
+
+Lore
+
+The Dredge
+ is described as a Druanee in its Lore, but in real-life mythology, would actually be an 
+"Egregore"
+.
+
+An 
+"Egregore"
+ is an entity described in the Book of Enoch, an ancient Hebrew text, that describes it as "an autonomous psychic entity that is composed of and influencing the thoughts of a group of people", which in 
+Dead by Daylight
+ is the cult led by Otto Stamper.
+
+The Dredge's
+ Lore is heavily intertwined with 
+Otto Stamper
+, an Unseen Character that was previously mentioned in the Lore of The 
+Doctor
+, as Stamper was Herman Carter's mentor at 
+Léry's Memorial Institute
+.
+
+Tome 12
+ - The Human Quotient, may shed some light on the true origins of the Dredge.
+At some point during Talbots journey, he theorises that if enough people worshipped, feared, and thought about a being, it could be brought into existence as a god or demi-god.
+His theory seems to have been proven correct by Otto Stamper and the Black Vale.
+
+The name 
+"Fold Energy"
+ also seems to be referenced in the name of the cult itself: 
+"The Fold"
+.
+
+Talbot's theory seems to be based on the idea that Auric Cells can be manipulated by thought, an idea which was also mentioned by Frank Morrison in 
+Tome 3
+.
+
+Memento Mori
+
+The Dredge
+ is one of the few Killers who kidnap the Survivor's body after the Memento Mori, akin to The 
+Cenobite
+ and The 
+Unknown
+.
+
+It is implied that the Survivor might be alive inside 
+The Dredge
+ to join the cacophony of suffering screams.
+
+Model
+
+The horse head that occasionally drops out of 
+The Dredge's
+ body when idling in the Lobby is 
+"Maurice"
+, 
+The Clown's
+ horse that can be seen on 
+Father Campbell's Chapel
+.
+The Developers reused his asset for 
+The Dredge
+, deliberately letting Maurice's head fall onto its left side, in order to hide the burnt half of Maurice's head, making it more difficult to recognise him.
+
+As of update 6.5.1, Maurice has been returned to Father Campbells Chapel. The "Memory of Maurice" skin still features the horse head and several others.
+
+The "Skeletal Mass" cosmetic was originally planned to be the default model of 
+The Dredge
+.
+
+Since every Killer's model is split into three parts for the sake of Cosmetics, 
+The Dredge's
+ rather unusual model causes its splits to be unique.
+This also causes the descriptions and names of its Cosmetic Pieces to not match the depicted icons.
+
+The right appendage, holding its weapon, is considered its head piece.
+
+The central amalgam with the "head" is considered its body piece.
+
+The left appendage, acting as both "hand" and "foot", is considered its leg piece. However, the left appendage usually has a description resembling that of the central "body". This can be clearly seen in the anniversary outfit, which calls the left hand a Mask.
+
+Equipping the "Bludgeon of Baubles" Cosmetic grants 
+The Dredge
+ a unique cool-down animation for attacks.
+
+Voice Actors
+
+The Dredge
+ has the most accredited voice actors and actresses of any Killer to date, mostly due to its sound design encompassing crowds of wailing souls.
+All of the voice actors and actresses are from 
+The Monster Factory
+ and several of them have previously voiced Characters in 
+Dead by Daylight
+ already:
+
+Maude Théberge (previously voiced 
+Lisa Garland
+)
+
+Sébastien Croteau (previously voiced The 
+Nemesis
+)
+
+Roxana B.L. (previously voiced 
+The Nemesis'
+ female 
+Zombie
+)
+
+Vanessa Landry
+
+Misha Standjofski (would go on to voice The 
+Knight
+)
+
+Philippe Langelier
+
+Gallery
+
+In-game Assets
+
+The Dredge
+
+The Dredge (Portrait render)
+
+The Dredge (Background image)
+
+Old Assets
+
+The Dredge (Old Portrait render)
+
+Concept Art
+
+Default Concept Art
+
+'Twisted Plaything' Concept Art
+
+'War is Hell' Concept Art
+
+'Eddie's Tribute' Concept Art
+
+'Fear of Reminiscence' Concept Art (Designed by urouroutsuro.)
+
+'A House Not A Home' Concept Art (Designed by Ivana Krovinova.)
+
+Screenshots
+
+Charged 
+Reign of Darkness
+ POV
+
+ditto
+
+Aura of the 
+Remnant
+
+The 
+Remnant
+
+Locker POV
+
+ditto
+
+ditto
+
+ditto
+
+ditto
+
+Catching a Survivor in Locker that is being teleported to
+
+ditto
+
+ditto
+
+Teleportation POV
+
+Lockers close to a hooked Survivor cannot be teleported to
+
+ditto
+
+Nightfall VFX (PTB)
+
+Nightfall VFX (Dredge)
+
+ditto
+
+Nightfall VFX (Survivors)
+
+A locked (left) and an unlocked, but lockable Locker (right)
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter
+
+↑
+ 
+https://twitter.com/DeadByBHVR/status/1634209063029424131?s=20

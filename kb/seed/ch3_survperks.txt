@@ -1,0 +1,1011 @@
+
+=====PAGE 22=====
+CHAPITRE 3
+3. Survivant : toutes les perks (tier list)
+Cette tier list couvre les 176 perks survivant distinctes du jeu au patch 10.1.2a (54 survivants × 3 perks, plus les perks
+générales). Les trois perks de Laurie Strode, devenues générales en janvier 2026 sous d'autres noms, sont comptées une
+seule fois (par exemple Will to Live = Decisive Strike).
+Comment utiliser cette tier list
+Le tier mesure la valeur moyenne d'une perk dans la méta actuelle, pas sa valeur dans un build précis. Une perk C peut
+être excellente dans le bon build (Stake Out avec Hyperfocus, Flip-Flop avec Power Struggle). Construisez vos builds par
+catégories (chapitre 5) plutôt qu'en prenant « les quatre meilleures ».
+Sources du classement : tier lists timesaver.gg (patch 10.1.2, septembre 2026) et playhub.com (juillet 2026), taux
+d'utilisation et d'évasion NightLight.gg (septembre 2026), consensus communautaire. En cas de désaccord entre sources, le
+choix est expliqué en fin de chapitre.
+Les 17 perks les plus jouées (NightLight, septembre 2026)
+#
+Perk
+Taux de sélection
+Commentaire
+1
+Lithe
+25,7 %
+L'épuisement de référence pour les loopers
+2
+Windows of Opportunity
+22,6 %
+Info de chase ; va être limitée aux fenêtres (PTB 10.2.0)
+3
+Déjà Vu
+21,2 %
+Anti-3-gen, gratuite
+4
+Resilience
+20,3 %
+Tout va plus vite quand on est blessé
+5
+Dead Hard
+15,1 %
+Endurance à la demande après un décrochage
+6
+Decisive Strike / Will to Live
+14,9 %
+L'anti-tunnel le plus redouté
+7
+Five Moves Ahead
+13,4 %
+Nouvelle venue (mars 2026), excellente
+8
+Finesse
+13,3 %
+Vaults rapides en pleine santé
+9
+Iron Will
+8,2 %
+Furtivité blessé
+10
+Bond
+7,1 %
+Info alliés
+11
+Unbreakable
+6,9 %
+Anti-slug
+12
+Adrenaline
+6,8 %
+Soin + vitesse aux portes
+13
+Sprint Burst
+6,8 %
+Épuisement le plus simple
+14
+We'll Make It
+6,3 %
+Soins rapides après un décrochage
+15
+Resurgence
+6,3 %
+Remise en forme au décrochage
+16
+Kindred
+6,2 %
+L'info solo queue indispensable
+Juste derrière : Hyperfocus (5,4 %), We're Gonna Live Forever (5,2 %), Botany Knowledge (4,9 %), Prove Thyself (4,7 %),
+Stake Out (4,3 %), Quick & Quiet, Head On, Background Player, Plot Twist (~4,1 % chacune). À noter : Off the Record n'est
+jouée que par environ 1 % des joueurs malgré sa valeur anti-tunnel.
+Le build au meilleur taux d'évasion observé
+Hope + Decisive Strike (Will to Live) + Resurgence + Five Moves Ahead : environ 82 % d'évasion sur NightLight parmi les
+porteurs de Resurgence. Anti-tunnel, remise en forme, chase et bonus de fin de partie : les quatre catégories sont
+couvertes.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : TOUTES LES PERKS (TIER LIST)
+22
+
+=====PAGE 23=====
+Tier list complète
+S
+Tier S : piliers du méta (à jouer presque tout le temps)
+Perk
+Survivant
+Effet (valeurs I/II/III)
+Windows of Opportunity
+Kate Denson
+Affiche en permanence l'aura des palettes, fenêtres et murs cassables dans un rayon de
+24/28/32 m. (PTB 10.2.0 : limitée aux fenêtres, +10 % de vitesse de saut, recharge de
+40/35/30 s.)
+Will to Live (= Decisive
+Strike)
+Générale (ex-Laurie
+Strode)
+Pendant 40/50/60 s après un décrochage, si le tueur vous attrape, un skill check réussi vous
+libère et l'étourdit 4 s (vous devenez l'Obsession). Usage unique. Se désactive si vous faites
+une action « conspicuous » (réparer, soigner, etc.) ou quand les portes sont alimentées.
+Lithe
+Feng Min
+Un saut moyen ou rapide donne +50 % de Haste pendant 3 s. Exhausted 60/50/40 s.
+Adrenaline
+Meg Thomas
+Quand les portes s'alimentent : vous regagnez un état de santé (même à terre) et +50 % de
+Haste pendant 4 s (buff 10.1.0, avant 3 s). Fonctionne même si vous êtes Exhausted.
+Exhausted 60/50/40 s ensuite.
+Sprint Burst
+Meg Thomas
+Quand vous commencez à courir : +50 % de Haste pendant 2 s (nerf 10.1.0, avant 3 s).
+Exhausted 60/50/40 s.
+Off the Record
+Zarina Kassir
+Pendant 30/35/40 s après un décrochage (tant que des générateurs restent à réparer) :
+Endurance, gémissements réduits de 100 %, aura cachée au tueur.
+Five Moves Ahead
+Kwon Tae-young
+Dans le rayon de terreur ou en poursuite : aura des 5 palettes ou fenêtres les plus proches.
+Après avoir fait tomber une palette, vous repartez 50 % plus tôt. Recharge de 40/35/30 s.
+(PTB 10.2.0 : palettes seulement, +50 % de vitesse après le lâcher.)
+A
+Tier A : très fortes, staples
+Perk
+Survivant
+Effet (valeurs I/II/III)
+Déjà Vu
+Générale
+Aura des 3 générateurs les plus proches les uns des autres (le « 3-gen »), que vous réparez
+4/5/6 % plus vite.
+Resilience
+Générale
+Blessé : +3/6/9 % de vitesse pour réparer, soigner, saboter, décrocher, ouvrir,
+bénir/purifier et sauter. (PTB 10.2.0 : 7/8/9 %.)
+Kindred
+Générale
+Quand vous êtes accroché, tous les survivants voient les auras les uns des autres, et celle
+du tueur s'il est à 8/12/16 m du crochet. Même effet pour vous quand un allié est accroché.
+(PTB 10.2.0 : 14/15/16 m.)
+Unbreakable
+Bill Overbeck
+Une fois par partie, si le tueur vous a mis à terre, vous pouvez vous relever seul
+entièrement. Récupération 25/30/35 % plus rapide. (Limité aux mises à terre causées par le
+tueur depuis la 9.5.0.)
+Resurgence
+Jill Valentine
+Au décrochage, vous gagnez immédiatement 50/60/70 % de progression de soin.
+Dead Hard
+David King
+Après un décrochage, blessé et en course : bouton actif = Endurance pendant 0,5 s (le coup
+donne Deep Wound au lieu de vous mettre à terre). Exhausted 60/50/40 s.
+Finesse
+Lara Croft
+En bonne santé : sauts rapides 20 % plus rapides. Recharge de 40/35/30 s après un saut
+rapide.
+Prove Thyself
+Dwight Fairfield
+Pour chaque autre survivant à 4 m ou moins, tous réparent 6/8/10 % plus vite.
+Background Player
+Renato Lyra
+Quand le tueur ramasse un survivant, vous avez 10 s pour commencer à courir et gagner
++50 % de Haste pendant 5 s. Exhausted 30/25/20 s.
+Made for This
+Gabriel Soma
+Blessé, quand vous finissez de soigner un allié : Endurance 6/8/10 s. +3 % de Haste tant que
+vous avez Deep Wound.
+Bond
+Dwight Fairfield
+Aura des autres survivants dans un rayon de 20/28/36 m.
+Iron Will
+Jake Park
+Blessé et non Exhausted : gémissements de douleur réduits de 80/90/100 %.
+Hyperfocus
+Rebecca Chambers
+Chaque great skill check (réparation ou soin) donne un jeton (max 6). Par jeton, les skill
+checks apparaissent 4 % plus souvent et tournent 4 % plus vite, et chaque great rapporte
+10/20/30 % de bonus en plus. Tous les jetons sont perdus sur un good, un raté ou un arrêt.
+Cœur des builds « gen rush » (avec Stake Out).
+Deliverance
+Adam Francis
+Une fois par partie, après avoir décroché un allié en sécurité, vous pouvez vous décrocher
+seul (réussite garantie). Vous êtes ensuite Broken 160/140/120 s (nerf 10.1.0).
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : TOUTES LES PERKS (TIER LIST)
+23
+
+=====PAGE 24=====
+Perk
+Survivant
+Effet (valeurs I/II/III)
+Distortion
+Jeff Johansen
+1 jeton au départ, 2 au maximum, +1 toutes les 15 s de poursuite. Quand le tueur devrait
+lire votre aura, un jeton est consommé : aura masquée et pas de griffures pendant 8/10/12
+s.
+Reassurance
+Rebecca Chambers
+Une fois par état de crochet, à 6 m d'un survivant accroché : bouton actif = le sacrifice est
+mis en pause 20/25/30 s. Contre le camping.
+We'll Make It
+Générale
+Après avoir décroché un allié, vous soignez les autres 100 % plus vite pendant 30/60/90 s.
+(PTB 10.2.0 : 70/80/90 s.)
+Plot Twist
+Nicolas Cage
+Blessé et accroupi : vous vous mettez à terre en silence (pas de gémissements ni de sang),
+récupérez 25 % plus vite et pouvez vous relever seul. En vous relevant, vous êtes soigné et
+gagnez +50 % de Haste pendant 2/3/4 s. Se réactive une fois quand les portes sont
+alimentées.
+Shoulder the Burden
+Taurie Cain
+Une fois par partie (si vous n'êtes pas au dernier crochet) : vous décrochez un allié en
+prenant un de ses états de crochet. Vous criez et êtes Exposed 60/50/40 s. (PTB 10.2.0 :
+Broken 160/140/120 s à la place d'Exposed.)
+B
+Tier B : bonnes ou situationnelles solides
+Perk
+Survivant
+Effet (valeurs I/II/III)
+Boon: Circle of Healing
+Mikaela Reid
+Bénit un totem. Dans la zone du boon, les survivants soignent les autres 50/75/100 % plus
+vite sans médikit, et les blessés présents voient les auras des autres.
+Boon: Shadow Step
+Mikaela Reid
+Dans la zone du boon : pas de griffures et aura cachée au tueur. L'effet dure encore 2/3/4 s
+après la sortie.
+Boon: Exponential
+Jonah Vasquez
+Dans la zone du boon : récupération au sol 90/95/100 % plus rapide et relèvement complet
+possible.
+Boon: Steadfast
+Aurora Stardotter
+Dans la zone du boon, les générateurs régressent 50 % plus lentement et se réparent
+8/9/10 % plus vite.
+Botany Knowledge
+Claudette Morel
+Soin 30/40/50 % plus rapide (plus de malus d'efficacité du médikit depuis la 9.0.0).
+Vigil
+Quentin Smith
+Vous et les alliés à 16 m récupérez 30/35/40 % plus vite de Blindness, Broken, Exhausted,
+Exposed, Haemorrhage, Hindered, Mangled et Oblivious. Dure 15 s après la sortie de zone
+(nerf 10.1.0 : avant 44/55/66 %).
+Wicked
+Sable Ward
+Au premier crochet au sous-sol, l'auto-décrochage réussit à coup sûr. À chaque
+décrochage, vous voyez le tueur 16/18/20 s.
+Overcome
+Jonah Vasquez
+Quand vous êtes blessé, le boost de vitesse après le coup dure 2 s de plus. Exhausted
+60/50/40 s.
+Hope
+Générale
+Quand tous les générateurs sont finis : +3/4/5 % de Haste jusqu'à la fin de la partie.
+Fixated
+Nancy Wheeler
+En marchant : +10/15/20 % de Haste. Vous voyez vos propres griffures.
+Dramaturgy
+Nicolas Cage
+En bonne santé et en course : bouton actif = +25 % de Haste pendant 2 s, puis un effet au
+hasard (encore de la Haste, Exposed 12 s, un objet rare ou un cri). Exhausted 60/50/40 s.
+Flashbang
+Leon S. Kennedy
+Après 50/45/40 % de réparation cumulée, vous fabriquez dans un casier une grenade
+aveuglante (1 charge).
+Balanced Landing
+Nea Karlsson
+Chute d'au moins 1,25 m : +50 % de Haste pendant 3 s, étourdissement de chute réduit de
+75 % et silencieux. Exhausted 60/50/40 s.
+Head On
+Jane Romero
+Après 3 s dans un casier, une sortie rapide étourdit le tueur 3 s s'il est à 2,5 m ou moins.
+Exhausted 60/50/40 s.
+Quick & Quiet
+Meg Thomas
+Sauts et entrées dans un casier silencieux, le tueur n'est pas alerté. Recharge de 25/20/15
+s.
+Deception
+Élodie Rakoto
+En sprint, une tentative d'entrée rapide dans un casier devient une feinte : le tueur reçoit
+une fausse alerte et vous ne laissez ni sang ni griffures pendant 5 s. Recharge de 25/20/15
+s.
+Blast Mine
+Jill Valentine
+Après 40 % de réparation, vous piégez un générateur pendant 100/110/120 s (tous les
+survivants le voient). Si le tueur le frappe : explosion, il est étourdi 4 s et aveuglé.
+Smash Hit
+Lee Yun-jin
+Un étourdissement du tueur avec une palette donne +50 % de Haste pendant 4 s.
+Exhausted 30/25/20 s.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : TOUTES LES PERKS (TIER LIST)
+24
+
+=====PAGE 25=====
+Perk
+Survivant
+Effet (valeurs I/II/III)
+Built to Last
+Felix Richter
+Après 14/12/10 s dans un casier avec un objet vide, il est rechargé à 99 % (33 % de moins à
+chaque utilisation).
+Self-Care
+Claudette Morel
+Vous pouvez vous soigner sans médikit, mais 75/70/65 % plus lentement.
+We're Gonna Live Forever
+David King
+Vous relevez les survivants à terre 100 % plus vite. Ensuite, ils gagnent Endurance 6/8/10 s
+(recharge de 30 s).
+Soul Guard
+Cheryl Mason
+Sous l'effet d'un Hex, vous pouvez vous relever seul. Chaque relèvement complet donne
+Endurance 4/6/8 s (recharge de 30 s).
+Tenacity
+David Tapp
+À terre : +30/40/50 % de vitesse de rampe, vous rampez et récupérez en même temps,
+gémissements réduits de 75 % (buff 9.3.0).
+Any Means Necessary
+Yui Kimura
+Relève une palette tombée en 5/4/3 s. Vous voyez les palettes tombées.
+Saboteur
+Jake Park
+Quand un allié est porté, vous voyez les crochets dans un rayon de 56 m. Vous pouvez
+saboter un crochet sans boîte à outils (2,3 s), recharge de 70/65/60 s.
+Breakout
+Yui Kimura
+À 5 m d'un allié porté : +6/8/10 % de Haste, et il se débat 25 % plus vite.
+Boil Over
+Kate Denson
+Porté : chaque chute du tueur de 1,25 m ou plus vous donne 33 % de progression de lutte.
+Lutte 60/70/80 % plus efficace, et le tueur ne voit pas l'aura des crochets à 16 m.
+Flip-Flop
+Ash Williams
+Au ramassage, 50 % de votre progression de récupération au sol devient de la progression
+de lutte (max 40/45/50 %).
+Power Struggle
+Élodie Rakoto
+Porté, à 25/20/15 % de lutte : vous pouvez faire tomber une palette proche pour étourdir
+le tueur et vous libérer.
+Inner Strength
+Nancy Wheeler
+Après avoir purifié un totem, 10/9/8 s dans un casier en étant blessé vous soignent d'un
+état de santé (une fois par purification).
+Empathic Connection
+Yoichi Asakawa
+Vous soignez les autres 25/30/35 % plus vite. Les survivants blessés voient votre aura sur
+toute la carte. (PTB 10.2.0 : 40/45/50 %.)
+Alert
+Feng Min
+Quand le tueur casse une palette ou un mur, ou frappe un générateur, vous entendez un
+signal et voyez son aura 3/4/5 s.
+Champion of Light
+Alan Wake
++50 % de Haste pendant que vous éclairez avec une lampe. Un aveuglement réussi inflige
+au tueur Hindered 20 % pendant 6 s. Recharge de 60/50/40 s.
+Counterforce
+Jill Valentine
+Purification des totems 25 % plus rapide, +25 % de plus à chaque totem purifié. Ensuite,
+aura du totem le plus éloigné pendant 10/12/14 s.
+Urban Evasion
+Nea Karlsson
+Accroupi : +90/95/100 % de vitesse de déplacement.
+Cross-Examination
+Shane Wiigwaas
+Dans le rayon de terreur, vous voyez les « Light Marks » laissées par le tueur (10 s).
+Marcher dessus vous rend Elusive, effet qui dure 3/4/5 s.
+Conviction
+Michonne Grimes
+Après avoir soigné un autre survivant, une fois à terre avec au moins 25 % de récupération :
+vous vous relevez instantanément, mais vous êtes Broken et retombez au sol au bout de
+20/25/30 s.
+Self-Preservation
+Lee Yun-jin
+Quand un autre survivant est accroché : Elusive 20/25/30 s (rework 9.5.0). (PTB 10.2.0 :
+13/14/15 s.)
+Wide Open Throttle
+Shane Wiigwaas
+Saut rapide par-dessus une palette : +10/12,5/15 % de Haste pendant 3 s. La palette est
+relevée mais bloquée 60 s, et visible par tous. Recharge de 60 s.
+Desperate Measures
+Felix Richter
+Pour chaque survivant blessé, à terre ou accroché : vous soignez et décrochez 16/18/20 %
+plus vite.
+Dance With Me
+Kate Denson
+Sortie rapide de casier ou saut moyen/rapide : pas de griffures pendant 5 s. Recharge de
+25/20/15 s.
+Stake Out
+David Tapp
+15 s caché dans le rayon de terreur rapportent un jeton (max 2/3/4). Un jeton transforme
+un good skill check en great (+1 %). À combiner avec Hyperfocus.
+Borrowed Time
+Bill Overbeck
+Quand vous décrochez un allié, son Endurance après le décrochage dure 6/8/10 s de plus et
+sa Haste 10 s de plus. (PTB 10.2.0 : rework complet.)
+Extrasensory Perception
+Eleven
+Après 4 s accroupi : vous voyez les auras (tueur, survivants, objets) dans un rayon qui
+grandit jusqu'à 44 m, et vous êtes Elusive et Oblivious. S'arrête quand vous vous relevez ou
+après 11 s ; recharge de 60/50/40 s.
+Salvation's Cry
+Aurora Stardotter
+Quand le tueur commence à vous poursuivre : vous voyez les survivants 1/2/3 s, et les alliés
+hors poursuite voient votre aura et celle du tueur pendant 5 s.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : TOUTES LES PERKS (TIER LIST)
+25
+
+=====PAGE 26=====
+Perk
+Survivant
+Effet (valeurs I/II/III)
+Quick Gambit
+Vittorio Toscano
+Quand vous êtes poursuivi, les autres survivants voient votre aura et réparent 3/4/5 % plus
+vite. Recharge de 40 s quand vous perdez un état de santé.
+Potential Energy
+Vittorio Toscano
+En réparant, un bouton accumule des jetons (max 10/15/20) au lieu de faire progresser le
+générateur. Un autre appui les dépense d'un coup (1 % par jeton). Tous les jetons sont
+perdus si vous prenez un coup.
+Autodidact
+Adam Francis
+Malus de −15 % sur les skill checks de soin en début de partie, puis +15 % par jeton gagné
+sur chaque skill check réussi (max 3/4/5). Pas de great possible.
+Chemical Trap
+Ellen Ripley
+Après 20 % de réparation, piège une palette tombée pendant 40/50/60 s (visible par tous).
+Si le tueur la casse : Hindered 50 % pendant 4 s.
+Wiretap
+Ada Wong
+Après 40 % de réparation, pose un micro sur un générateur pendant 100/110/120 s : tous
+les survivants voient le tueur quand il s'en approche (environ 14 m). S'arrête si le tueur
+frappe ce générateur.
+C
+Tier C : niches ou dépassées
+Perk
+Survivant
+Effet (valeurs I/II/III)
+Leader
+Dwight Fairfield
+Alliés à 10 m : purification, soin, ouverture des portes et sabotage 20/25/30 % plus rapides.
+Empathy
+Claudette Morel
+Aura des survivants blessés dans un rayon de 64/96/128 m.
+Lightweight
+Générale
+Vos griffures disparaissent 3/4/5 s plus vite et sont plus espacées.
+Spine Chill
+Générale
+Signal sonore quand le tueur vous regarde dans un rayon de 36 m ; pendant ce temps,
++2/4/6 % sur toutes les actions. (PTB 10.2.0 : rework, 40 m.)
+No One Left Behind
+Générale
+Quand tous les générateurs sont finis : soin et décrochage 50/75/100 % plus rapides, et les
+survivants décrochés gagnent 10 % de Haste en plus. (PTB 10.2.0 : 80/90/100 %.)
+Dark Sense
+Générale
+Après chaque générateur fini, la prochaine fois que le tueur arrive à 24 m, vous voyez son
+aura 5/7/10 s.
+Plunderer's Instinct
+Générale
+Aura des coffres fermés et des objets au sol à 32/48/64 m ; objets de rareté supérieure plus
+fréquents.
+Bound by Obsession (=
+Object of Obsession)
+Générale (ex-Laurie
+Strode)
+Si vous êtes l'Obsession, le tueur voit votre aura 3 s toutes les 30 s et vous voyez la sienne
+en retour ; pendant ce temps, purification, soin et réparation +2/4/6 %. (PTB 10.2.0 :
+8/9/10 %.)
+Down to the Last (= Sole
+Survivor)
+Générale (ex-Laurie
+Strode)
+Un jeton par survivant mort. Avec des jetons, le tueur ne peut pas lire votre aura dans un
+rayon de 20/22/24 m. (PTB 10.2.0 : rework avec bonus pour les portes et la trappe.)
+Wake Up!
+Quentin Smith
+Quand tous les générateurs sont finis : aura des interrupteurs, les alliés vous voient
+pendant que vous ouvrez, et vous ouvrez 8/10/12,5 % plus vite par survivant vivant.
+Pharmacy
+Quentin Smith
+Coffres ouverts 75/100/125 % plus vite avec moins de bruit (−12 m) ; le coffre contient
+toujours un médikit rare.
+Detective's Hunch
+David Tapp
+Quand un générateur est fini : pendant 20 s, aura des coffres, générateurs et totems à
+32/48/64 m.
+Aftercare
+Jeff Johansen
+Vous et 1/2/3 survivants voyez vos auras mutuelles après un décrochage ou un soin
+échangé, jusqu'à votre prochain crochet.
+Breakdown
+Jeff Johansen
+Quand on vous décroche, le crochet se casse (réparé après 180 s) et vous voyez le tueur
+4/5/6 s.
+Diversion
+Adam Francis
+Après 30/25/20 s caché dans le rayon de terreur, accroupi et immobile : vous lancez un
+caillou à 20 m qui alerte le tueur et laisse des griffures.
+Poised
+Jane Romero
+La première fois que vous réparez chaque générateur, vous voyez le tueur 8 s. Quand un
+générateur est fini, pas de griffures pendant 20/25/30 s.
+Solidarity
+Jane Romero
+Blessé, quand vous soignez un allié sans médikit, vous vous soignez aussi à 50/60/70 % de
+cette vitesse.
+Buckle Up
+Ash Williams
+Pendant que vous relevez un survivant à terre, vous voyez tous les deux le tueur. Ensuite, il
+gagne +50 % de Haste et ne laisse pas de griffures pendant 3/4/5 s.
+Mettle of Man
+Ash Williams
+Après 3 protection hits, le prochain coup qui devait vous mettre à terre est ignoré. Une fois
+soigné, votre aura est révélée au tueur quand vous êtes à plus de 12/14/16 m de lui.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : TOUTES LES PERKS (TIER LIST)
+26
+
+=====PAGE 27=====
+Perk
+Survivant
+Effet (valeurs I/II/III)
+Babysitter
+Steve Harrington
+Quand vous décrochez un allié, il gagne de la Haste et ne laisse ni sang ni griffures pendant
+un moment ; vous voyez l'aura du tueur environ 8 s (rework 9.2.0, valeurs retouchées
+plusieurs fois).
+Second Wind
+Steve Harrington
+Après avoir soigné un survivant, au décrochage suivant : vous êtes Broken, puis soigné
+automatiquement après 28/24/20 s si vous n'êtes pas à terre.
+Lucky Break
+Yui Kimura
+Blessé : pas de sang ni de griffures pendant 40/50/60 s au total ; +1 s par seconde passée à
+soigner un allié.
+For the People
+Zarina Kassir
+En bonne santé : bouton actif pour soigner instantanément un allié sans médikit ; vous
+devenez blessé et Broken 80/70/60 s.
+Blood Pact
+Cheryl Mason
+Après un soin mutuel avec l'Obsession : vous gagnez tous les deux 5/6/7 % de Haste tant
+que vous restez à 16 m l'un de l'autre.
+Repressed Alliance
+Cheryl Mason
+Après 55/50/45 s de réparation, seul sur un générateur : bouton actif pour le bloquer 15 s
+(nerf 10.1.0 : avant 30 s).
+Appraisal
+Élodie Rakoto
+4 jetons au départ. Un jeton permet de fouiller un coffre déjà vide (2 fois max par coffre).
+Fouille 40/60/80 % plus rapide.
+Fast Track
+Lee Yun-jin
+Un jeton à chaque allié que vous décrochez (max 1/2/3). Un great en réparation les
+consomme tous : environ +5 % de progression permanente par jeton (rework 9.5.0/9.6.0).
+Bite the Bullet
+Leon S. Kennedy
+Soins silencieux (vous et le survivant soigné). Un skill check raté ne fait perdre que 3/2/1 %
+et ne prévient pas le tueur.
+Clairvoyance
+Mikaela Reid
+Après avoir béni ou purifié un totem, sans objet en main : bouton actif pour voir coffres,
+interrupteurs, générateurs, trappe et crochets à 64 m pendant 10/11/12 s.
+Corrective Action
+Jonah Vasquez
+1/2/3 jetons au départ (max 5), +1 par great. Quand un allié rate un skill check, un jeton le
+transforme en good et vous voyez son aura 6 s.
+Boon: Dark Theory
+Yoichi Asakawa
+Dans la zone du boon : +3 % de Haste, qui dure encore 2/3/4 s après la sortie.
+Parental Guidance
+Yoichi Asakawa
+Après avoir étourdi le tueur : ni gémissements, ni sang, ni griffures pendant 5/6/7 s.
+Inner Focus
+Haddie Kaur
+Vous voyez les griffures des autres survivants. Quand un allié perd un état de santé, vous
+voyez le tueur 6/8/10 s.
+Overzealous
+Haddie Kaur
+Après avoir béni ou purifié un totem, vous réparez 8/9/10 % plus vite (double si c'était un
+Hex) jusqu'à ce que vous preniez un coup.
+Residual Manifest
+Haddie Kaur
+Un aveuglement réussi inflige au tueur Blindness pendant 20/25/30 s. Vous pouvez fouiller
+une fois un coffre déjà ouvert.
+Reactive Healing
+Ada Wong
+Blessé : quand un allié à 32 m prend un coup, vous regagnez 40/45/50 % de la progression
+de soin qui vous manque.
+Fogwise
+Vittorio Toscano
+En réparant, chaque great skill check révèle le tueur 4/5/6 s.
+Blood Rush
+Renato Lyra
+Après un décrochage, pendant 40/50/60 s : bouton actif pour annuler instantanément
+votre Exhausted (une fois).
+Teamwork: Power of Two
+Thalita Lyra
+Après avoir soigné un allié : +5 % de Haste pour vous deux tant que vous restez à 8/12/16
+m, avec 4 s de plus après la séparation.
+Scavenger
+Gabriel Soma
+Boîte à outils vide en main : chaque great en réparation donne un jeton. À 5 jetons, la boîte
+se recharge, mais vous réparez 50 % moins vite pendant 40/35/30 s.
+Troubleshooter
+Gabriel Soma
+En poursuite : aura du générateur le plus avancé, et du tueur quelques secondes après
+avoir fait tomber une palette. L'effet dure 6/8/10 s après la poursuite.
+Scene Partner
+Nicolas Cage
+Dans le rayon de terreur, regarder le tueur vous fait crier et révèle son aura 4/5/6 s (50 %
+de chance de crier une deuxième fois, qui prolonge l'effet).
+Light-Footed
+Ellen Ripley
+En bonne santé et en course, vos pas sont silencieux. Recharge de 14/12/10 s après une
+action précipitée.
+Lucky Star
+Ellen Ripley
+Pas de gémissements dans un casier. En sortant : aura du générateur le plus proche et de
+tous les survivants, ni sang ni gémissements pendant 30 s. Recharge de 35/30/25 s.
+Invocation: Weaving
+Spiders
+Sable Ward
+Invocation de 60 s au cercle du sous-sol (les alliés peuvent aider) : vous devenez blessé et
+Broken jusqu'à la fin, mais tous les générateurs restants demandent 8/9/10 charges de
+moins.
+Strength in Shadows
+Sable Ward
+Au sous-sol : vous vous soignez sans médikit (30 % plus lentement), puis voyez le tueur
+6/8/10 s.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : TOUTES LES PERKS (TIER LIST)
+27
+
+=====PAGE 28=====
+Perk
+Survivant
+Effet (valeurs I/II/III)
+Bardic Inspiration
+Aestri Yazar &
+Baermar Uraz
+Immobile, vous jouez jusqu'à 15 s pour les survivants à 16 m. Lancer de d20 : de 0 à +3 % de
+progression par skill check pendant 90 s (un 1 vous fait crier). Recharge de 110/100/90 s.
+Mirrored Illusion
+Aestri Yazar &
+Baermar Uraz
+Après 20 % de réparation, crée une illusion immobile de vous près d'un coffre, générateur,
+totem ou interrupteur, pendant 40/50/60 s.
+Still Sight
+Aestri Yazar &
+Baermar Uraz
+Après 4/3/2 s immobile : vous voyez le tueur, les générateurs et les coffres à 24 m jusqu'à
+ce que vous bougiez.
+Specialist
+Lara Croft
+Un jeton par coffre ouvert ou fouillé (max 6). Un great sur un générateur consomme tout :
+2/3/4 charges requises en moins par jeton.
+Exultation
+Trevor Belmont
+Un étourdissement avec une palette augmente la rareté de l'objet tenu et le recharge de
+75 %. Recharge de 30/25/20 s.
+Eyes of Belmont
+Trevor Belmont
+Générateur fini : aura du tueur 1/2/3 s. Toutes vos lectures d'aura du tueur durent 2 s de
+plus.
+Moment of Glory
+Trevor Belmont
+Après un coffre ouvert ou fouillé : quand vous êtes blessé, vous devenez Broken et êtes
+soigné automatiquement après 80/70/60 s si vous n'êtes pas à terre.
+Clean Break
+Taurie Cain
+Après avoir soigné un allié, quand quelqu'un vous soigne : bouton actif pour devenir
+Broken, puis être soigné automatiquement après 75/60/45 s.
+Do No Harm
+Orela Rose
+Vous soignez plus vite les alliés qui ont déjà été accrochés (30/40/50 % par état de
+crochet), avec un petit bonus sur les greats. (PTB 10.2.0 : ajustée.)
+Last Stand
+Michonne Grimes
+Après environ 90 à 120 s dans le rayon de terreur sans être poursuivi, un saut précipité
+étourdit le tueur 3 s s'il est à 2,5 m (une fois). Valeurs différentes selon les sources.
+Teamwork: Throw Down
+Michonne Grimes
+Quand vous aveuglez le tueur ou l'étourdissez avec une palette, les alliés blessés à 24 m
+gagnent Endurance et voient le tueur pendant 6/8/10 s.
+One-Two-Three-Four!
+Vee Boonyasak
+Immobile, vous jouez jusqu'à 15 s : les survivants à 16 m ont 20 % de skill checks en plus en
+réparation et en soin pendant 90 s. Recharge de 110/100/90 s.
+Ghost Notes
+Vee Boonyasak
+Quand vous êtes Exhausted, vos griffures disparaissent 50 % plus vite et l'Exhausted se
+dissipe 5/7,5/10 % plus vite.
+Bada Bada Boom
+Dustin Henderson
+Après 20 % de réparation, piège une fenêtre 40/50/60 s : le tueur qui la saute est Hindered
+50 % pendant 6 s.
+Teamwork: Full Circuit
+Dustin Henderson
+Par allié qui répare avec vous, zone de good skill check +15/20/25 %. +5 % de réparation si
+au moins un allié répare avec vous.
+We See You
+Eleven
+Un jeton chaque fois que le tueur voit votre aura (recharge de 10 s). À 4 jetons, tous les
+survivants voient le tueur 10/12,5/15 s.
+Teamwork: Soft-Spoken
+Eleven
+Par allié qui répare avec vous, le bruit du générateur porte 15/20/25 % moins loin. +5 % de
+réparation en groupe.
+A Place For Us
+Kwon Tae-young
+Pendant un soin sur un allié, vous êtes tous les deux Elusive. Après avoir soigné l'Obsession,
+Elusive 20/25/30 s pour vous deux.
+Flow State
+Kwon Tae-young
+Un jeton par générateur fini (max 5). Par jeton : bénir/purifier, soigner et décrocher
+8/9/10 % plus vite. (PTB 10.2.0 : 13/14/15 %.)
+Lend a Hand
+Shane Wiigwaas
+Après avoir béni ou purifié un totem, pendant un soin sur un allié (une fois par allié) : il
+reçoit 2/3/4 charges de soin permanentes.
+Fruits of Your Labor
+Aurora Stardotter
+Un jeton par générateur fini. Quand vous finissez de réparer un générateur, par jeton :
++5 % de Haste pendant 2 s et +10/15/20 % de progression de soin.
+Left Behind
+Bill Overbeck
+Quand vous êtes le dernier survivant, aura de la trappe à 24/28/32 m.
+Open-Handed
+Ace Visconti
+Toutes les lectures d'aura à portée limitée des survivants ont 8/12/16 m de portée en plus
+(s'applique à l'équipe).
+Streetwise
+Nea Karlsson
+La première fois qu'un de vos objets se vide, vous voyez le tueur 8 s. Les objets trouvés
+dans les coffres ont 60/70/80 % de charges en plus (rework 9.1.0).
+Boon: Illumination
+Alan Wake
+Dans la zone du boon, les survivants voient les coffres (et les générateurs selon les sources)
+en bleu et bénissent/purifient un peu plus vite. (PTB 10.2.0 : bénédiction bien plus rapide.)
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : TOUTES LES PERKS (TIER LIST)
+28
+
+=====PAGE 29=====
+D
+Tier D : à éviter (ou pour le fun)
+Perk
+Survivant
+Effet (valeurs I/II/III)
+Premonition
+Générale
+Signal sonore quand vous regardez vers le tueur (cône de 45°, 36 m). Recharge de 60/45/30
+s. (PTB 10.2.0 : rework.)
+Slippery Meat
+Générale
+Jusqu'à 6 tentatives d'auto-décrochage, avec +2/3/4 % de chance de réussite. (PTB 10.2.0 :
+rework en bonus de décrochage.)
+Small Game
+Générale
+Signal sonore quand vous regardez un totem (cône de 45°, 8/10/12 m), recharge de
+14/12/10 s. Le cône se resserre à chaque totem purifié.
+This Is Not Happening
+Générale
+Blessé : zones de great skill check 10/20/30 % plus grandes. (PTB 10.2.0 : bien meilleure,
+zones good et great agrandies.)
+Calm Spirit
+Jake Park
+Vous ne criez jamais et n'effrayez pas les corbeaux. Totems et coffres silencieux, mais
+40/35/30 % plus lents.
+Technician
+Feng Min
+Bruit de réparation portant 8 m de moins. Un skill check raté ne fait pas exploser le
+générateur (pas d'alerte) mais coûte 5/4/3 % de progression en plus.
+No Mither
+David King
+Broken pendant toute la partie. Pas de sang, gémissements −100 %, récupération au sol
++15/20/25 % et relèvement complet possible.
+Ace in the Hole
+Ace Visconti
+Les objets trouvés dans les coffres ont un add-on (rare ou mieux, avec 50/75/100 % de
+chance d'un second, uncommon). Vous gardez vos add-ons si vous vous échappez.
+Up the Ante
+Ace Visconti
+Pour chaque autre survivant vivant, tous les survivants ont 1/2/3 % de chance en plus
+(auto-décrochage).
+Visionary
+Felix Richter
+Aura des générateurs à 32 m. Recharge de 20/18/16 s après chaque générateur fini.
+Better Together
+Nancy Wheeler
+Les alliés voient le générateur que vous réparez. Si un survivant est mis à terre pendant
+votre réparation, vous voyez tous les survivants 20/25/30 s.
+Camaraderie
+Steve Harrington
+Accroché en phase de lutte : quand un allié arrive à 16 m, le compteur est en pause
+pendant 26/30/34 s.
+Red Herring
+Zarina Kassir
+Après au moins 1 s de réparation, vous voyez l'aura de ce générateur. En entrant dans un
+casier, le tueur reçoit une fausse alerte sur ce générateur. Recharge de 25/20/15 s.
+Rookie Spirit
+Leon S. Kennedy
+Après 5/4/3 skill checks good ou great sur les générateurs, vous voyez les générateurs qui
+régressent.
+Better Than New
+Rebecca Chambers
+Après avoir soigné un allié, il bénit/purifie, soigne et ouvre les coffres 12/14/16 % plus vite
+jusqu'à son prochain coup. (PTB 10.2.0 : 40/45/50 %, pourrait remonter.)
+Low Profile
+Ada Wong
+Quand tous les autres survivants sont à terre ou accrochés : ni gémissements, ni sang, ni
+griffures pendant 70/80/90 s.
+Teamwork: Collective
+Stealth
+Renato Lyra
+Quand un allié finit de vous soigner, vous ne laissez de griffures ni l'un ni l'autre tant que
+vous restez à 8/12/16 m (4 s de plus après la séparation).
+Cut Loose
+Thalita Lyra
+En poursuite, un saut moyen ou rapide rend vos sauts silencieux pendant 4/5/6 s (le
+compteur repart à chaque saut). Recharge de 45 s.
+Friendly Competition
+Thalita Lyra
+En finissant un générateur avec au moins un allié, les participants réparent 5 % plus vite
+pendant 100/110/120 s. (PTB 10.2.0 : 10 % pendant 80/85/90 s.)
+Deadline
+Alan Wake
+Blessé : skill checks 6/8/10 % plus fréquents, placés au hasard, avec 50 % de pénalité en
+moins en cas d'échec.
+Hardened
+Lara Croft
+Après avoir béni/purifié un totem ET ouvert un coffre, chaque cri devient une révélation de
+l'aura du tueur pendant 3/4/5 s.
+Invocation: Treacherous
+Crows
+Taurie Cain
+Invocation de 60 s au sous-sol : vous devenez blessé et Broken jusqu'à la fin. Quand le
+tueur effraie un corbeau près d'un survivant, son aura est révélée 1/1,5/2 s. Considérée
+comme l'une des pires perks du jeu.
+Duty of Care
+Orela Rose
+Quand vous prenez un protection hit en bonne santé, les alliés à 12 m gagnent 25 % de
+Haste pendant 4/5/6 s.
+Rapid Response
+Orela Rose
+Une sortie rapide de casier vous rend Exhausted 30/25/20 s (utile pour certaines
+interactions). Chaque fois que vous devenez Exhausted, vous voyez le tueur 2 s.
+Apocalyptic Ingenuity
+Rick Grimes
+Après avoir ouvert ou fouillé un coffre, 3 s près d'une palette cassée pour créer une palette
+fragile. Vous voyez les palettes cassées à 24/28/32 m.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : TOUTES LES PERKS (TIER LIST)
+29
+
+=====PAGE 30=====
+Perk
+Survivant
+Effet (valeurs I/II/III)
+Come and Get Me!
+Rick Grimes
+Après un décrochage, accroupi et immobile : les survivants blessés ou à terre à 24 m ne
+laissent ni griffures ni sang et ne gémissent pas pendant 10/12,5/15 s (votre aura est
+brièvement révélée au tueur).
+Teamwork: Toughen Up
+Rick Grimes
+Blessé : quand un allié à 24 m aveugle ou étourdit le tueur, ni gémissements, ni sang, ni
+griffures pendant 20/25/30 s.
+Change of Plan
+Dustin Henderson
+2 jetons. Dans un casier avec une boîte à outils, un jeton la transforme en médikit de même
+rareté avec un add-on au hasard (80/90/100 % des charges).
+Road Life
+Vee Boonyasak
+Blessé, en réparant : un jeton par great (un de perdu par skill check raté). À 6/5/4 jetons,
+soin 100 % plus rapide jusqu'à ce que vous arrêtiez de soigner. Très peu jouée (environ
+0,1 %).
+Catégories de perks
+Pour construire un build, il est plus utile de raisonner par fonction que par tier. Voici toutes les perks classées par rôle.
+Perks d'épuisement (Exhaustion)
+Sprint Burst (50 % pendant 2 s ; Exhausted 60/50/40 s) · Lithe (50 % pendant 3 s ; 60/50/40 s) · Adrenaline (50 % pendant 4
+s ; 60/50/40 s, ignore l'Exhausted) · Dead Hard (Endurance 0,5 s ; 60/50/40 s) · Balanced Landing (50 % pendant 3 s ;
+60/50/40 s) · Overcome (+2 s de boost après un coup ; 60/50/40 s) · Background Player (50 % pendant 5 s ; 30/25/20 s) ·
+Smash Hit (50 % pendant 4 s ; 30/25/20 s) · Head On (étourdissement de 3 s ; 60/50/40 s) · Dramaturgy (25 % pendant 2 s +
+effet aléatoire ; 60/50/40 s) · Rapid Response (Exhausted 30/25/20 s volontaire). Perks qui agissent sur l'épuisement : Vigil
+(récupération plus rapide), Ghost Notes (récupération +5/7,5/10 %), Blood Rush (annule l'Exhausted une fois).
+Anti-tunnel (protection après le décrochage)
+Will to Live / Decisive Strike · Off the Record · Dead Hard · Resurgence · Borrowed Time (pour l'allié décroché) · Babysitter ·
+Breakdown · Wicked · Deliverance · Distortion · Blood Rush · Shoulder the Burden · Made for This · Background Player (pour
+aller chercher l'allié vite). Contre le camping : Reassurance, Camaraderie, Kindred.
+Anti-slug (contre les survivants laissés à terre)
+Unbreakable · Tenacity · Boon: Exponential · Soul Guard · Plot Twist · Conviction · No Mither · We're Gonna Live Forever ·
+Buckle Up · Flip-Flop · Power Struggle · Boil Over · Breakout · Saboteur · Mettle of Man (le coup qui mettrait à terre est
+ignoré).
+Lecture d'aura / information
+Windows of Opportunity · Five Moves Ahead · Déjà Vu · Kindred · Bond · Empathy · Empathic Connection (inverse : les
+blessés vous voient) · Alert · Dark Sense · Spine Chill · Premonition · Small Game · Detective's Hunch · Visionary ·
+Clairvoyance · Still Sight · Extrasensory Perception · Salvation's Cry · We See You · Eyes of Belmont · Fogwise · Poised ·
+Troubleshooter · Wicked · Breakdown · Inner Focus · Scene Partner · Strength in Shadows · Streetwise · Hardened · Rapid
+Response · Aftercare · Better Together · Quick Gambit · Lucky Star · Wake Up! · Left Behind · Plunderer's Instinct · Any
+Means Necessary · Apocalyptic Ingenuity · Rookie Spirit · Corrective Action · Open-Handed (portée +8/12/16 m pour toute
+l'équipe) · Wiretap · Boon: Illumination · Saboteur · Babysitter · Teamwork: Throw Down · Invocation: Treacherous Crows.
+Vitesse de réparation (gen speed)
+Prove Thyself · Déjà Vu · Resilience · Hyperfocus · Stake Out · Built to Last (recharge la boîte à outils) · Boon: Steadfast ·
+Overzealous · Potential Energy · Fast Track · Specialist · Invocation: Weaving Spiders · Friendly Competition · Teamwork:
+Full Circuit · Teamwork: Soft-Spoken · Bardic Inspiration · One-Two-Three-Four! · Quick Gambit · Bound by Obsession ·
+Spine Chill · Scavenger · Corrective Action · Technician (limite les pertes) · Repressed Alliance (bloque un générateur).
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : TOUTES LES PERKS (TIER LIST)
+30
+
+=====PAGE 31=====
+Soins
+Botany Knowledge · Self-Care · Boon: Circle of Healing · We'll Make It · Resurgence · Desperate Measures · Empathic
+Connection · Do No Harm · Autodidact · Solidarity · Reactive Healing · Inner Strength · Strength in Shadows · Leader · Flow
+State · Fruits of Your Labor · Lend a Hand · For the People · Second Wind · Clean Break · Moment of Glory · Road Life · Bite
+the Bullet · Better Than New · No One Left Behind · Pharmacy (médikit rare garanti) · Change of Plan · Adrenaline (soin
+instantané en fin de partie).
+Boons (totems bénis)
+Boon: Circle of Healing · Boon: Shadow Step · Boon: Exponential · Boon: Dark Theory · Boon: Illumination · Boon: Steadfast
+(nouveau, août 2026). Toutes les boons se cumulent sur un seul totem. Perks liées aux totems : Counterforce,
+Clairvoyance, Overzealous, Inner Strength, Hardened, Lend a Hand, Small Game, Flow State, Calm Spirit.
+Perks qui aident les coéquipiers (synergie d'équipe)
+Kindred · Prove Thyself · Leader · Borrowed Time · Babysitter · We'll Make It · Aftercare · Bond (vous seul voyez, mais cela
+facilite les rotations) · Empathic Connection · Boon: Circle of Healing / Shadow Step / Exponential / Dark Theory / Steadfast
+/ Illumination · Vigil · Open-Handed · Up the Ante · Better Than New · Better Together · Quick Gambit · Salvation's Cry · We
+See You · Wiretap · Blast Mine · Duty of Care · Bardic Inspiration · One-Two-Three-Four! · Friendly Competition · tous les
+« Teamwork: » (Power of Two, Collective Stealth, Full Circuit, Soft-Spoken, Throw Down, Toughen Up) · Come and Get Me!
+· Lend a Hand · A Place For Us · Blood Pact · Corrective Action · Reassurance · Shoulder the Burden · Breakout · Saboteur ·
+Buckle Up · We're Gonna Live Forever · Invocation: Weaving Spiders · Invocation: Treacherous Crows · Change of Plan
+(indirectement).
+Perks qui donnent de l'Endurance
+Off the Record · Dead Hard (0,5 s) · Made for This (6/8/10 s) · We're Gonna Live Forever (donne 6/8/10 s à l'allié relevé) ·
+Soul Guard (4/6/8 s) · Teamwork: Throw Down (alliés blessés, 6/8/10 s) · Borrowed Time (allonge l'Endurance de l'allié
+décroché). Proche de l'Endurance : Mettle of Man (le coup qui mettrait à terre est ignoré).
+Perks qui donnent Elusive (nouveau statut en 2026)
+Self-Preservation · Extrasensory Perception · A Place For Us · Cross-Examination.
+Perks « troll » / fun
+Head On · Flashbang · Blast Mine · Wiretap · Red Herring · Chemical Trap · Bada Bada Boom · Bardic Inspiration ·
+One-Two-Three-Four! · Fogwise · Dramaturgy · Scene Partner · Deception · Quick & Quiet · Diversion · Mirrored Illusion ·
+Power Struggle · Boil Over · Residual Manifest · Champion of Light · Exultation · Last Stand · Plot Twist · Invocation:
+Treacherous Crows · Apocalyptic Ingenuity · Wide Open Throttle · Rapid Response · Up the Ante · Ace in the Hole.
+Pourquoi ces choix quand les sources divergent
+• Off the Record : S chez timesaver, A chez playhub, très peu jouée. Gardée en S pour sa valeur anti-tunnel (Endurance +
+aura cachée + silence pendant 30 à 40 s).
+• Resurgence : S chez playhub, B chez timesaver. Placée en A : 16e en usage et présente dans le build au meilleur taux
+d'évasion.
+• Dead Hard : C chez timesaver, A chez playhub, 5e en usage. Placée en A.
+• Unbreakable : S chez playhub, A chez timesaver. Placée en A depuis sa limitation à une utilisation par partie (9.5.0).
+• Five Moves Ahead : absente de certaines listes (trop récente), 7e en usage avec d'excellents taux d'évasion. Placée en S,
+mais le PTB 10.2.0 la réduit aux palettes.
+• Sprint Burst : nerfée en 10.1.0 (2 s au lieu de 3). Toujours S chez timesaver ; S- / A+ en réalité.
+• Stake Out : C chez timesaver, placée en B pour son rôle central dans les builds Hyperfocus.
+• Borrowed Time : descendue en B (0,7 % d'usage, rework complet au PTB 10.2.0) ; Deliverance reste A malgré son nerf.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : TOUTES LES PERKS (TIER LIST)
+31
+
+=====PAGE 32=====
+Ce que prépare le PTB 10.2.0 (pas encore en live)
+Behaviour prévoit 58 perks modifiées (26 touchées par les rendements décroissants), dont environ 31 perks survivant.
+Changements principaux côté survivant :
+• Reworks : Borrowed Time (soin passif du Deep Wound), Down to the Last (jetons, bonus pour les portes et la trappe),
+Premonition (directionnelle, 32 m), Road Life, Slippery Meat (vitesse de décrochage +5 % de Haste), Small Game (simple
+aura des totems à 10/11/12 m), Spine Chill (40 m, bonus de saut), Stake Out, Windows of Opportunity (fenêtres
+seulement, +10 % de vitesse de saut, recharge de 40/35/30 s), Five Moves Ahead (palettes seulement), Shoulder the
+Burden (Broken au lieu d'Exposed).
+• Buffs chiffrés : Kindred (14/15/16 m), No One Left Behind (80/90/100 %), Resilience (7/8/9 %), We'll Make It (70/80/90
+s), Better Than New (40/45/50 %), Empathic Connection (40/45/50 %), Flow State (13/14/15 %), Friendly Competition
+(10 % pendant 80/85/90 s), Bound by Obsession (8/9/10 %, sur plus d'actions), Calm Spirit (devient plus rapide :
+8/9/10 %), Dark Sense (8/9/10 s + palettes/fenêtres/survivants), This Is Not Happening (zones bien plus grandes),
+Solidarity (65/70/75 %), Boon: Illumination, Plunderer's Instinct, Pharmacy, Blood Pact, Wake Up!, Do No Harm.
+• Nerfs : Self-Preservation (Elusive 13/14/15 s au lieu de 20/25/30 s).
+→ Quand le 10.2.0 passera en live (probablement début octobre 2026), Windows, Five Moves Ahead et Self-Preservation
+seront affaiblies, et plusieurs perks générales (Resilience, Kindred, We'll Make It, No One Left Behind) remonteront.
+Vérifiez l'état live après la sortie du patch.
+Historique des changements 2025-2026
+• 9.0.0 (juin 2025) : Botany Knowledge perd son malus, Empathic Connection passe à la carte entière, buffs de
+Counterforce, Desperate Measures et Light-Footed.
+• 9.1.0 (juillet 2025, The Walking Dead : Rick et Michonne) : rework de Streetwise, buffs de Better Together, Appraisal,
+Potential Energy et Any Means Necessary.
+• 9.2.0 (sept. 2025, Vee Boonyasak) : rework de Babysitter, nerfs de Hope (3/4/5 %) et d'Off the Record (30/35/40 s), No
+Mither à 100 %, buffs de Leader, Poised, Quick Gambit et Plot Twist.
+• 9.3.0 (nov. 2025) : Tenacity à 30/40/50 %, Conviction exige de soigner un autre survivant.
+• 9.4.0 (janv. 2026, Stranger Things 2 : Dustin et Eleven) : arrivée d'Elusive ; perks de Laurie converties en perks générales.
+• 9.5.0 (mars 2026, Kwon Tae-young) : reworks de Fast Track et Self-Preservation, Unbreakable limitée aux mises à terre
+causées par le tueur, buff de Distortion (15 s), descriptions réécrites.
+• 9.6.0 (avril 2026) : rendements décroissants, nouveau nerf de Fast Track.
+• 10.0.x (juin 2026, Shane Wiigwaas) : nouvelles perks uniquement.
+• 10.1.0 (août 2026, Aurora Stardotter) : Sprint Burst 3 → 2 s, Adrenaline 3 → 4 s, Deliverance Broken 160/140/120 s,
+Vigil 30/35/40 %, Repressed Alliance 15 s, Technician et Apocalyptic Ingenuity retouchées.
+DEAD BY DAYLIGHT · GUIDE AVANCÉ 2026
+SURVIVANT : TOUTES LES PERKS (TIER LIST)
+32

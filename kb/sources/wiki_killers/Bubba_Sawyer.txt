@@ -1,0 +1,2128 @@
+# Bubba Sawyer
+Source: https://deadbydaylight.wiki.gg/wiki/Bubba_Sawyer (page complète via API, consultée le 27/09/2026)
+
+"Whether Killers perform their heinous acts by the compulsions of their diseased minds, or if they are forced into them by external pressures, has long been a matter of debate. But for one Killer, nature and nurture are inextricably linked. Leatherface kills not from a desire to exert his will over others, to satisfy carnal urges, or even to quiet the voices in his head. He kills because he is scared. Scared that others will hurt him; scared that his family will be displeased with him, scared that their shared willingness to eat human flesh will be discovered."
+
+~ 
+Unknown (Potentially 
+Benedict Baker
+)
+
+The Cannibal
+
+Name
+
+Bubba Sawyer
+
+Game Alias(es)
+
+"Leatherface"
+
+Gender
+
+Man
+
+Origin
+
+American
+
+Power
+
+Bubba's Chainsaw
+
+Power 
+Attack
+ Type
+
+Special Attack
+
+(Chainsaw)
+
+Weapon
+
+The Sledge
+
+Movement Speed
+
+115 % 
+|
+ 4.6 m/s
+
+Alternate Movement speed
+
+133.75 % 
+|
+ 5.35 m/s
+(Chainsaw Sweep)
+
+Terror Radius
+
+32 metres
+
+Height 
+
+Tall
+
+DLC
+
+LEATHERFACE™
+
+Voice Actor
+
+Filip Ivanovic (BHVR)
+
+Cost
+
+500 
+Auric Cells
+
+Breathing
+
+Metadata
+
+CharID
+
+K09
+
+Bubba Sawyer
+ or 
+"The Cannibal"
+, also known as "
+Leatherface
+", is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+He was introduced with 
+LEATHERFACE™
+, a Half-Chapter DLC released on 14 September 2017.
+
+He originates from the 1974 Horror Movie 
+The Texas Chain Saw Massacre
+ and its 1986 Sequel 
+The Texas Chainsaw Massacre 2
+.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: The Sledge
+
+3.3
+ 
+Power: Bubba's Chainsaw
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for Bubba's Chainsaw
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Base Cosmetics
+
+5.1.1
+ 
+Default
+
+5.1.2
+ 
+Prestige
+
+5.1.2.1
+ 
+Perk Charms
+
+5.1.2.2
+ 
+Prestige Badges
+
+5.2
+ 
+In-Game Store
+
+6
+ 
+DLC
+
+7
+ 
+History
+
+7.1
+ 
+Original Power
+
+7.2
+ 
+Original Add-ons
+
+7.3
+ 
+Decommissioned Cosmetics
+
+8
+ 
+Change Log
+
+9
+ 
+Trivia
+
+9.1
+ 
+General
+
+9.2
+ 
+Memento Mori
+
+9.3
+ 
+Cosmetics
+
+9.4
+ 
+Voice Actor
+
+10
+ 
+References
+
+11
+ 
+Gallery
+
+11.1
+ 
+In-game Assets
+
+11.2
+ 
+Old Assets
+
+11.3
+ 
+Official Art
+
+11.4
+ 
+Models
+
+11.5
+ 
+Screenshots
+
+Overview
+
+Leatherface knows a thing or two about chainsaw massacres. Any Survivor in his path will be instantly cut down, and his presence alone is enough to instill sheer panic. Capable of hitting multiple targets with a single swing, Leatherface is an unstoppable force with an insatiable appetite.
+
+The Cannibal
+ is a chainsaw-wielding Killer, able to trigger a deadly frenzy using his Power, immediately downing anyone in its path.
+
+His personal Perks, 
+Knock Out
+, 
+Barbecue & Chilli
+, and 
+Franklin's Demise
+, make Survivors easier to locate while robbing them of their tools and abilities.
+
+Lore
+
+Whether killers perform their heinous acts by the compulsions of their diseased minds, or if they are forced into them by external pressures, has long been a matter of debate. But for one killer, nature and nurture are inextricably linked.
+
+Leatherface kills not from a desire to exert his will over others, to satisfy carnal urges, or even to quiet the voices in his head. He kills because he is scared. Scared that others will hurt him; scared that his family will be displeased with him, scared that their shared willingness to eat human flesh will be discovered.
+
+He does as he is told. His family loves him and that is all that matters. Outsiders are a threat, and threats need to be dealt with.
+
+Like those kids that came into the house, uninvited. Walked in like they owned the place. Looked around the house, trying to find out his family’s secrets, no doubt. But Leatherface deals with them, and protects his family just as he’s been taught.
+
+He is not just protector, he has many roles, and each role has its own face. He serves dinner, cares for the family, and dresses well when they eat. His Grandpa and Ma used to care for them all, but Grandpa, he is old now and Ma has been still for a while, so Leatherface and his brothers had to take over. Family is everything to him. Family is security and safety.
+
+But, even though he did his best, one of the kids got away. He tried to stop her, chasing after her as fast as he could, but she had help: another outsider, driving a truck. The evil trucker killed his brother, ran him over like he was a possum. In a fury, Leatherface leapt at him, the saw ready to avenge his family, but the trucker was too quick. He knocked Leatherface aside and turned his own saw against him.
+
+As he watched the outsiders driving away, the rage, grief and pain combined with the worry about what would happen to his family now. They would surely return with the police, and the police would take his brothers, his Grandpa. Without them, what would he do? Without their commands, he would wither and die.
+
+As his world collapsed, Leatherface spun in circles, swinging the saw all around, trying to fight off the myriad external threats that surrounded him.
+
+Then another feeling overtook him. It came from outside his vision, crawling over his skin with cold dread. He realised that no matter what outsiders could do to him, there was something worse, something bigger that lived in the shadows. He was filled with a terror unlike any he had ever felt before. But it was almost comforting, like the fear he'd felt with his family. The fear of disappointing them.
+
+He was brought to a place that was familiar but unknowable, and he instinctively knew what he had to do. He couldn't fail it, the way he had his family. Outsiders would come but he would use his skills to overcome any threats. There would be screaming, but he could make the world quiet again. Until the only sound remaining was the blessed howl of the saw.
+
+Let the outsiders come.
+
+Load-out
+
+Unique Perks
+
+The Cannibal
+ comes with 
+3
+ 
+Perks
+ that are unique to him:
+
+ 
+
+Barbecue & Chilli
+
+A deep bond with The 
+Entity
+ unlocks potential in one's Aura-reading ability.
+
+After hooking a Survivor, all Survivors who are at least 
+60
+/
+50
+/
+40
+ 
+metres
+ away from that Hook have their 
+Aura
+ revealed to you for 
+5 seconds
+.
+
+"I just can't take no pleasure in killing. There's just some things you gotta do. Don't mean you have to like it." — Drayton Sawyer
+
+ 
+
+Franklin's Demise
+
+Survivors hit with your vicious 
+Basic Attack
+ drop any equipped 
+Item
+ on impact:
+
+The 
+Auras
+ of lost 
+Items
+ are revealed to within 
+32
+/
+48
+/
+64
+ 
+metres
+.
+
+"Sally, I hear something. Stop! Stop!" — Franklin Hardesty
+
+ 
+
+Knock Out
+
+This description is based on the changes announced for or featured in the upcoming Patch 10.2.0
+"The trauma caused by your brutal attacks makes crying for help painfully difficult."
+
+Whenever a Survivor moves farther than 
+10 metres
+ from a 
+Pallet
+ within 
+6 seconds
+ of dropping it and without the Pallet being destroyed, 
+Knock Out
+ triggers its effect:
+
+Causes them to suffer from a 
+-20 %
+ 
+Hindered
+ 
+Status Effect
+ for 
+3
+/
+4
+/
+5
+ 
+seconds
+.
+
+"Oh, that gun's no good. The old way... with a sledge! You see, that way's better. They die better that way." — Nubbins Sawyer
+
+Prestige
+
+Prestiging 
+The Cannibal
+ will automatically add 
+Tier I
+ of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Cannibal
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: The Sledge
+
+The Sledge
+ is the Primary Weapon of 
+The Cannibal
+.
+The Sledge
+ might be old-fashioned, but it is still the fastest and cleanest way to put down cattle.
+
+Power: Bubba's Chainsaw
+
+"An incredibly powerful and heavy Chainsaw which sank its teeth into countless victims.
+A suitable birthday gift for The Cannibal."
+SPECIAL WEAPON: BUBBA'S CHAINSAW
+The Cannibal
+ starts the Trial with 
+3 Tokens
+.
+Tokens
+ automatically recharge at a rate of 
+0.25 c/s
+ while the 
+Chainsaw
+ is not in use.
+SPECIAL ABILITY: CHAINSAW SWEEP
+Press and hold the 
+Power button
+ to charge the 
+Chainsaw
+ and break into a 
+Chainsaw Sweep
+ for 
+2.5 seconds
+:
+
+Increases
+ his Movement speed gradually to 
+5.35 m/s
+.
+
+Hitting Survivors with the 
+Chainsaw
+ inflicts double damage.
+
+The 
+Chainsaw
+ can hit multiple targets in one sweep.
+
+Using 
+Bubba's Chainsaw
+ consumes 
+1 Token
+.
+SPECIAL ABILITY: CHAINSAW DASH
+Press the 
+Power button
+ again during an on-going 
+Chainsaw Sweep
+ to chain a 
+Chainsaw Dash
+:
+
+Resets
+ the Power Gauge timer, extending the 
+Chainsaw Sweep
+.
+
+Increases
+ the Cool-down time of the 
+Chainsaw
+ by 
++1 second per consumed Token
+.
+
+SPECIAL STATE: TANTRUM
+Revving the 
+Chainsaw
+ fills the 
+Tantrum Meter
+ by 
++33 % per second
+, with it discharging at the same rate when stopping to rev.
+Once the meter is full, or after hitting an obstacle during a 
+Chainsaw Sweep
+, 
+The Cannibal
+ unleashes a 
+Tantrum
+ for a minimum of 
+3 seconds
+, wildly slashing out and damaging any Survivors in close proximity, dealing double damage:
+
+Extends
+ the 
+Tantrum
+ duration by 
++1 second per consumed Token
+.
+
+Removes
+ any remaining Tokens.
+
+Reduces
+ his Movement speed by 
+-90 %
+.
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Walking during a 
+Tantrum
+: 
+0.46 m/s
+
+Walking while 
+Charging
+ (eventual): 
+3.45 m/s
+
+The Cannibal
+ reaches this speed after 
+1 second
+.
+
+Walking while 
+Charging
+ (initial): 
+4.37 m/s
+
+The Cannibal
+ reaches this speed after 
+0.3 seconds
+.
+
+Walking during a 
+Chainsaw Dash
+ (eventual): 
+5.45 m/s
+
+The Cannibal
+ continuously accelerates until he reaches this top speed.
+
+Bubba's Chainsaw
+:
+
+Chainsaw Recharge rate: 
+0.25 c/s
+ by default.
+
+It therefore takes 
+4 seconds
+ to replenish 
+1 Charge
+ by default.
+
+Chainsaw Dash
+ duration: 
+2.5 seconds
+ by default.
+
+Chainsaw Sweep
+ Missed Hit Cool-down: 
+1.5 seconds
+.
+
+The missed Cool-down duration is increased by 
+1 second
+ for each consumed Charge up to a maximum of 
+4.5 seconds
+.
+
+Chainsaw Sweep
+ Successful Hit Cool-down: 
+2 seconds
+.
+
+Chainsaw Sweep
+ Obstructed Hit Cool-down: 
+3 seconds (
+Tantrum
+)
+.
+
+Chainsaw Sweep
+ Cool-down on breaking 
+Pallets
+ or 
+Breakable Walls
+: 
+1 second
+.
+
+Each use of a Charge is considered an individual attack by the Game.
+
+This mainly affects the use of 
+Play with Your Food
+.
+
+Chainsaw Charge time: 
+2 seconds
+.
+
+Chainsaw Noise range: 
+60 metres
+.
+
+Tantrum
+:
+
+Hitting an obstacle with 
+Bubba's Chainsaw
+ will trigger a 
+Tantrum
+, which lasts for 
+3 seconds
+ by default.
+
+The same applies when a 
+Tantrum
+ is triggered by overheating 
+Bubba's Chainsaw
+.
+
+The 
+Tantrum
+ duration is increased by 
+1 second
+ for each consumed 
+Chainsaw Sweep
+ charge up to a maximum of 
+6 seconds
+.
+
+The 
+Tantrum
+ meter fills and empties at a rate of 
+±1 c/s
+.
+
+By default, a 
+Tantrum
+ is initiated when 
+3 Charges
+ are reached, which, assuming continuous revving, occurs after 
+3 seconds
+.
+
+Add-ons for Bubba's Chainsaw
+
+Icon
+
+Name
+
+Description
+
+Chainsaw File
+
+A file whose purpose is to hone Chainsaw chains.
+
+Reduces
+ the duration of a 
+Tantrum
+ by 
+-0.25 seconds
+.
+
+Spark Plug
+
+A clean spark plug fitted for a Chainsaw.
+
+Reduces
+ the Power Recharge time by 
+-0.5 seconds
+.
+
+Speed Limiter
+
+A mechanical device that limits the amount of fuel small engines can intake at one time, forcing a constant and safe speed.
+
+Grants 
++100 %
+ bonus Bloodpoints for 
+Chainsaw Hit
+ Score Events in the 
+Deviousness
+ Category.
+
+Survivors hit with 
+Bubba's Chainsaw
+ are only damaged for a single 
+Health State
+.
+
+Vegetable Oil
+
+A rancid oil used as a poor quality lubricant.
+
+Reduces
+ the Cool-down duration of 
+Bubba's Chainsaw
+ by 
+-0.3 seconds
+.
+
+Chilli
+
+A big bowl of steaming Chilli to keep you fresh and strong.
+
+Increases
+ the duration of the 
+Chainsaw Dash
+ by 
++0.15 seconds
+ per consumed Token.
+
+Increases
+ the duration of the 
+Chainsaw Dash Window
+ by 
++0.15 seconds
+.
+
+"I got some good barbecue here!" — Drayton Sawyer
+
+Homemade Muffler
+
+A makeshift exhaust system made of black gas pipes.
+
+Reduces
+ the duration of a 
+Tantrum
+ by 
+-0.5 seconds
+.
+
+Knife Scratches
+
+Scratches cover the Chainsaw's body, caused by a searing blade.
+Memories of reprimands fill its holder with the fear of failure.
+
+Increases
+ the Movement speed during a 
+Chainsaw Dash
+ by 
++1.5 %
+.
+
+Increases
+ the Power Charge time by 
++10 %
+.
+
+Long Guide Bar
+
+A sturdy iron replacement bar for long chains.
+
+Increases
+ the threshold before Revving triggers a 
+Tantrum
+ by 
++2 seconds
+.
+
+Primer Bulb
+
+Pumps more gas in the ignition system to ensure a quick and powerful start.
+
+Reduces
+ the Power Recharge time by 
+-1 second
+.
+
+Begrimed Chains
+
+This chain is stained with a foul substance that debilitates anyone it touches.
+
+Causes Survivors hit by 
+Bubba's Chainsaw
+ to drop any carried 
+Item
+.
+
+Grisly Chains
+
+A chain with unusually hefty cutter teeth that leaves victims crippled even after being healed.
+
+Survivors hit by 
+Bubba's Chainsaw
+ suffer from the 
+Mangled
+ 
+Status Effect
+ for 
+70 seconds
+.
+
+Shop Lubricant
+
+An oil specifically formulated for Chainsaws.
+A special additive prevents oil throw off.
+
+The 
+Auras
+ of Survivors downed by 
+Bubba's Chainsaw
+, if no other Survivors were within the 
+Terror Radius
+, are hidden to other Survivors for 
+20 seconds
+.
+
+The Beast's Marks
+
+Jagged marks cover the Chainsaw's body, punishment from the dark beast that lives in The Fog.
+Memories of violent reprimands fill its holder with the fear of failure.
+
+Increases
+ the Movement speed during a 
+Chainsaw Dash
+ by 
++2 %
+.
+
+Increases
+ the Power Charge time by 
++12 %
+.
+
+The Grease
+
+A thick yellowish ooze, concocted by the Sawyers.
+Used for all-purpose lubrication around their house.
+
+Increases
+ the threshold before Revving triggers a 
+Tantrum
+ by 
++3 seconds
+.
+
+Award-winning Chilli
+
+A big bowl of spicy Chilli made famous thanks to prime meat.
+
+Increases
+ the duration of the 
+Chainsaw Dash
+ by 
++0.2 seconds
+ per consumed Token.
+
+Increases
+ the duration of the 
+Chainsaw Dash Window
+ by 
++0.2 seconds
+.
+
+"The secret's in the meat" — Drayton Sawyer
+
+Depth Gauge Rake
+
+A tool that increases the angle of the depth gauge, making the chain eat more "wood".
+
+Increases
+ the Power Tokens by 
++1
+.
+
+Reduces
+ the Power Charge speed by 
+-18 %
+.
+
+Reduces
+ the Movement speed during a 
+Chainsaw Dash
+ by 
+-2 %
+.
+
+Light Chassis
+
+A light and durable Chainsaw chassis with a shorter guide bar.
+Makes the Chainsaw easier to handle.
+
+The 
+Auras
+ of Survivors within 
+8 metres
+ are revealed to you while revving 
+Bubba's Chainsaw
+.
+
+Rusted Chains
+
+This chain is covered with crusty and volatile rust spots that make injuries particularly difficult to heal.
+
+Survivors hit by 
+Bubba's Chainsaw
+ suffer from the 
+Broken
+ 
+Status Effect
+ for 
+90 seconds
+.
+
+Carburettor Tuning Guide
+
+A crudely drawn guide to properly adjust and tune a Chainsaw carburettor.
+
+Starting a 
+Chainsaw Dash
+ automatically consumes all available Power Tokens, combining their durations:
+
+Increases
+ the duration of the 
+Chainsaw Dash
+ by 
++0.5 seconds
+ per Token.
+
+Reduces
+ the Movement speed during the 
+Chainsaw Dash
+ by 
+-2 %
+.
+
+Iridescent Flesh
+
+A thin slice of smooth, young flesh.
+The veins shimmer with luminescent glow, as if life still flows within.
+
+Instantly recharges all Power Tokens after hitting a Survivor with 
+Bubba's Chainsaw
+.
+
+Reduces
+ the maximum duration of a 
+Tantrum
+ to 
+3 seconds
+.
+
+"There are moments when we cannot believe that what is happening is really true.
+Pinch yourself and you may find out that it is." — Pam Jones
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There are 
+2
+ Achievements related to 
+The Cannibal
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Cannibal
+
+Playing as The 
+Cannibal
+, achieve a 
+Merciless Victory
+ using only his 
+3
+ Unique Perks: 
+Knock Out
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+This description is based on the changes announced for or featured in the upcoming Patch 10.2.0
+"The trauma caused by your brutal attacks makes crying for help painfully difficult."
+
+Whenever a Survivor moves farther than 
+10 metres
+ from a 
+Pallet
+ within 
+6 seconds
+ of dropping it and without the Pallet being destroyed, 
+Knock Out
+ triggers its effect:
+
+Causes them to suffer from a 
+-20 
+ 
+Hindered
+ 
+Status Effect
+ for 
+3
+/
+4
+/
+5
+ 
+seconds
+.
+
+"Oh, that gun's no good. The old way... with a sledge! You see, that way's better. They die better that way." — Nubbins Sawyer
+
+, 
+Barbecue & Chilli
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+A deep bond with The 
+Entity
+ unlocks potential in one's Aura-reading ability.
+
+After hooking a Survivor, all Survivors who are at least 
+60
+/
+50
+/
+40
+ 
+metres
+ away from that Hook have their 
+Aura
+ revealed to you for 
+5 seconds
+.
+
+"I just can't take no pleasure in killing. There's just some things you gotta do. Don't mean you have to like it." — Drayton Sawyer
+
+, and 
+Franklin's Demise
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+Survivors hit with your vicious 
+Basic Attack
+ drop any equipped 
+Item
+ on impact:
+
+The 
+Auras
+ of lost 
+Items
+ are revealed to within 
+32
+/
+48
+/
+64
+ 
+metres
+.
+
+"Sally, I hear something. Stop! Stop!" — Franklin Hardesty
+
+.
+
+Butcherin'
+
+Playing as The 
+Cannibal
+, hit Survivors during a 
+Chainsaw Sweep
+ a total of 
+100 times
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Cannibal
+:
+
+Base Cosmetics
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Leatherface
+
+Common
+
+A terrifying mask of dried skin, stretched and stitched together. A relic of detached faces, frozen in fear.
+
+The Butcher
+
+Common
+
+Providing meat for the whole family can be messy work.
+
+The Sledge
+
+Common
+
+The Sledge might be old fashioned but it is still the fastest and cleanest way to put down cattles.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Bloody Leatherface
+
+Rare
+
+A terrifying mask of dried skin, stretched, stitched together and heavily marinated with two month old type 0 negative blood.
+
+Prestige Level 6 Reward
+
+The Bloody Butcher
+
+Rare
+
+Providing meat for the whole family is messy work. Especially uncooperative squirming meat.
+
+Prestige Level 5 Reward
+
+The Bloody Sledge
+
+Rare
+
+The Sledge might be old fashioned but it is still the fastest and cleanest way to put down cattles.
+
+Prestige Level 4 Reward
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+Leatherface kills not from a desire to exert his will over others, to satisfy carnal urges, or even to quiet the voices in his head. He kills because he is scared.
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Old Lady
+
+Texas Chainsaw Massacre
+
+13 November 2020 (Friday)
+
+Description
+
+Leatherface's homemaker persona, serene and harmonious until everything goes wrong.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Lady of Leather
+
+Texas Chainsaw Massacre
+
+An older woman's flayed face and scalp, lovingly cured into a kindly mask of domestic bliss.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Homemaker’s Apron
+
+Texas Chainsaw Massacre
+
+An extra-large apron for helping around the kitchen and cleaning whatever blood may spill.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Dinner Smasher
+
+Texas Chainsaw Massacre
+
+A brutal chunk of wood for when your meal's on the run.
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Pretty Woman
+
+Fine Dining
+
+30 September 2021 (Thursday)
+
+Description
+
+Leatherface put on a pretty face to dress up for a delicious diner.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Makeup Mask
+
+Fine Dining
+
+While the face is colored with white concealer, blue eyeshadow, and red lipstick, nothing can conceal the darkness that lies underneath.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Black Suit
+
+Fine Dining
+
+A formal, dining dress suit lightly splashed with blood.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Sturdy Hammer
+
+Fine Dining
+
+A robust hammer with a sturdy grip, ideal to crack skulls.
+
+400
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Cannibal
+ is part of 
+1
+ DLC:
+
+LEATHERFACE™
+
+History
+
+Original Power
+
+BUBBA'S CHAINSAW:
+
+Press and hold the 
+Power button
+ to charge the Chainsaw:
+
+Start a timed 
+Chainsaw Sweep
+ upon activation.
+
+Can hit multiple Survivors in one 
+Chainsaw Sweep
+.
+
+The 
+Chainsaw Sweep
+ stops automatically after 
+7
+ swings or upon bumping into an object.
+
+Bumping into an object forces The Cannibal into a 
+Tantrum
+, whereupon he wildly swings his Chainsaw around.
+
+Survivors hit by Bubba's Chainsaw are automatically put into the 
+Dying State
+.
+
+Power Trivia:
+
+Bubba's Chainsaw
+ has default charge and cool-down times of 
+2 seconds
+.
+
+The Cannibal's
+ 
+Tantrum
+ has a default duration of 
+5 seconds
+.
+
+The Chainsaw Noise can be heard within 
+60 metres
+.
+
+Original Add-ons
+
+Up to his rework in 
+Patch 4.1.0
+, 
+The Cannibal
+ shared most of his Add-ons with The 
+Hillbilly
+, with few exceptions:
+
+Award-winning Chilli
+
+Chilli
+
+Knife Scratches
+
+The Beast's Marks
+
+Decommissioned Cosmetics
+
+Prior to 
+Patch 5.5.0
+, 
+The Cannibal
+ was able to acquire Masks of each of the original four Survivors.
+They have since been removed and are no longer obtainable or usable by any Player.
+This change was motivated by issues with racism in post-game chats in conjunction with Claudette's Mask
+[
+1
+]
+.
+
+All Players who had played at least one game with 
+The Cannibal
+ at any point since his original release, were recompensed for the removal of the Masks with 
+6,000 Iridescent Shards
+.
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Leaderface
+
+Common
+
+Maybe they'll finally listen and stay put.
+
+A mask made of Dwight's face. Unlocked after sacrificing Dwight 25 times
+
+Athleteface
+
+Common
+
+A mask imbued with strength and willpower.
+
+A mask made of Meg's face. Unlocked after sacrificing Meg 25 times
+
+Smartface
+
+Common
+
+He's not completely devoid of empathy.
+
+A mask made of Claudette's face. Unlocked after sacrificing Claudette 25 times
+
+Survivorface
+
+Common
+
+If he can't be with them, he'll find another way to be like them.
+
+A mask made of Jake's face. Unlocked after sacrificing Jake 25 times
+
+Change Log
+
+Patch 1.7.2
+Patch 3.1.0
+Patch 4.1.0
+Patch 5.5.0
+Patch 7.3.0
+Patch 8.0.0
+Unknown Patch
+Patch 9.6.0
+Patch 1.7.2
+
+Nerf
+: 
+Bloodlust
+ is now reset when revving 
+The Chainsaw
+.
+Patch 3.1.0
+
+Quality of Life
+: adjusted the cool-down for successful Chainsaw attacks to be the same as for missed attacks (adjusted Movement speed and reduced duration from 
+3 seconds
+ to 
+2 seconds
+).
+Patch 4.1.0
+
+Rework
+: reworked 
+Bubba's Chainsaw
+ and the majority of its 
+Add-ons
+.
+
+Buff
+: added Charges to 
+Bubba's Chainsaw
+, allowing him to extend the duration of his 
+Chainsaw Sweep
+ by consuming Charges as well as increase its speed.
+
+Buff
+: increased movement speed during 
+Chainsaw Sweep
+ from 
+5.06 m/s
+ to 
+5.29 m/s
+.
+
+Buff
+: removed the secondary action to initiate a 
+Chainsaw Sweep
+ when the revving bar is fully charged, allowing it to activate as soon as the bar is completely full.
+
+Nerf
+: added a cool-down after missing a 
+Chainsaw Sweep
+, with the duration dependent on the number of Charges consumed during the respective 
+Chainsaw Sweep
+.
+
+Quality of Life
+: downing a Survivor with 
+Bubba's Chainsaw
+ no longer inflict the same cool-down as when performing a missed 
+Chainsaw Sweep
+, regardless of the number of Charges spent.
+
+Nerf
+: 
+Bubba's Chainsaw
+ is now disabled when no charges are available until they are replenished.
+
+Nerf
+: added a 
+Tantrum
+ meter, causing 
+The Cannibal
+ to enter a 
+Tantrum
+ after revving 
+Bubba's Chainsaw
+ for too long without initiating a 
+Chainsaw Sweep
+.
+
+Nerf
+: added an extended cool-down towards 
+Tantrum
+ that is dependent on the number of Charges consumed when running into an obstacle.
+
+Nerf
+: entering a 
+Tantrum
+ by any means now depletes all Charges and disables 
+Bubba's Chainsaw
+ until the 
+Tantrum
+ ends.
+
+Quality of Life
+: the 
+Tantrum
+ cool-down is now unchanged if 
+The Cannibal
+ runs into an obstacle after downing a Survivor during the same 
+Chainsaw Sweep
+.
+
+Quality of Life
+: the 
+Tantrum
+ meter now immediately depletes after cancelling revving 
+Bubba's Chainsaw
+.
+
+Change
+: reworked nearly all 
+Add-ons
+ so that 
+The Cannibal
+ no longer shares them with The 
+Hillbilly
+, making them exclusive to 
+The Cannibal
+.
+Patch 5.5.0
+
+Change
+: removed the Survivor Masks of the original four Survivors that could be unlocked by sacrificing them 25 times each.
+
+This change was motivated by issues with racism in post-game chats in conjunction with Claudette's mask
+[
+2
+]
+.
+Patch 7.3.0
+
+Nerf
+: Survivors benefitting from the 
+Endurance
+ Status Effect
+ are now immune from being hit a second time by a 
+Chainsaw Sweep
+ within 
+0.5 seconds
+.
+
+This prevents 
+The Cannibal
+ from downing a freshly unhooked Survivor immediately below the 
+Hook
+, before that Survivor had a chance to run away.
+Patch 8.0.0
+
+Buff
+: increased the 
+Chainsaw Sweep
+ duration from 
+2 seconds
+ to 
+2.5 seconds
+ per Token.
+
+Buff
+: increased the Movement speed during 
+Chainsaw Sweep
+ from 
+5.29 m/s
+ to 
+5.35 m/s
+.
+
+Buff
+: reduced the size of the Collision detection from 
+17.5 cm
+ to 
+10 cm
+.
+
+This change assists 
+The Cannibal
+ in better navigating tight spaces.
+
+Buff
+: reduced the base 
+Tantrum
+ duration from 
+5 seconds
+ to 
+3 seconds
+.
+
+This was accomplished by reducing the Power Gauge capacity from 
+5 Charges
+ to 
+3 Charges
+, since a 
+Tantrum
+ discharges it at a fixed rate of 
+-1 c/s
+.
+
+This change results in an 
+Indirect Nerf
+, as it effectively reduces the time 
+The Cannibal
+ can rev his Chainsaw for, before he reaches the 
+Tantrum
+ limit.
+
+Undocumented Buff
+: reduced the cap on the maximum 
+Tantrum
+ duration from 
+8 seconds
+ to 
+6 seconds
+.
+
+Change
+: adjusted several 
+Add-ons
+ in accordance with the changes mentioned above.
+Unknown Patch
+
+Undocumented Change
+: changed the Memento Mori POV to Third Person, making it identical to the Survivors' POV.
+Patch 9.6.0
+
+Buff
+: increased the Movement speed during 
+Chainsaw Sweep
+ from 
+5.35 m/s
+ to 
+5.45 m/s
+.
+
+Trivia
+
+General
+
+The Cannibal
+ is the fourth Killer to wear face masks.
+
+Dead by Daylight
+'
+s 
+Leatherface
+ is based on the Killer mask 
+Leatherface
+ from the 1974 movie 
+The Texas Chain Saw Massacre
+.
+
+The Cannibal
+ is the fourth licensed Character and the second licensed Killer to be introduced in 
+Dead by Daylight
+.
+
+The 
+Hillbilly
+ is said to be based directly on 
+Leatherface
+ and the 
+Texas Chainsaw Massacre
+ franchise, explaining their similarities in looks and abilities.
+
+The Cannibal
+ is one of few Killers that can instantly put Survivors into the 
+Dying State
+ without any 
+Perks
+ or 
+Add-ons
+.
+
+During a 
+Tantrum
+, 
+The Cannibal's
+ speed is reduced to about that of The 
+Nurse
+ when she is blink fatigued.
+
+The Cannibal
+ is one of the most human-looking Killers in the game, as he doesn't have any unnatural alterations to his appearance like most of the other Killers.
+
+The Cannibal
+ is one of few Killers without an associated Realm, though unofficially, and due to his promotional material featuring him in it, the 
+Coldwind Farm
+ can be considered his associated Realm.
+
+According to 
+The Cannibal's
+ Lore, he was taken directly after the events of the first movie from 1974.
+
+However, due to the fact that he is named as 
+"Bubba Sawyer"
+ and there are references to 
+"Drayton"
+ and 
+"Nubbins"
+, 
+Dead by Daylight's
+ version technically originates from the second movie from 1986.
+
+The Add-ons 
+Chilli
+ and 
+Award-winning Chilli
+ reference a scene from the start of 
+The Texas Chainsaw Massacre 2
+ where Drayton wins a chilli-cookoff with human chilli.
+
+Memento Mori
+
+The Cannibal's
+ Memento Mori animation was the first one in which the Survivor attempts to get up on their own.
+
+The Cannibal's
+ Memento Mori is a reference to 
+Franklin'
+s death in the original film.
+
+The Cannibal's
+ Memento Mori originally envisioned featuring the infamous chainsaw dance from the ending of 
+The Texas Chain Saw Massacre
+ at the end of the animation. This was scrapped since it made the animation way too long.
+
+Cosmetics
+
+Default Outfit
+ originates from 
+The Texas Chain Saw Massacre (1974)
+.
+
+Old Lady
+ originates from 
+The Texas Chain Saw Massacre (1974)
+.
+
+Pretty Woman
+ originates from 
+The Texas Chain Saw Massacre (1974)
+.
+
+Voice Actor
+
+The Cannibal
+ is voiced by Filip Ivanovic, who at that time worked as the Art Director on the Game.
+
+The Cannibal
+ shares his voice-actor with The 
+Trapper
+, The 
+Wraith
+, The 
+Hillbilly
+, The 
+Nightmare
+, The 
+Ghost Face
+, and 
+Jeff Johansen
+.
+
+References
+
+↑
+ 
+https://forum.deadbydaylight.com/en/discussion/302915
+ January 2022 Developer Update. Dead by Daylight Forum. Retrieved 5 January 2022.
+
+↑
+ 
+https://forum.deadbydaylight.com/en/discussion/302915
+ January 2022 Developer Update. Dead by Daylight Forum. Retrieved 5 January 2022.
+
+Gallery
+
+For more go to the 
+Cannibal's Gallery
+
+In-game Assets
+
+The Cannibal
+
+The Cannibal (Portrait render)
+
+The Cannibal (Background image)
+
+Old Assets
+
+The Cannibal's previous portrait
+
+The Cannibal's head model #2 (Original survivors' heads)
+
+Official Art
+
+Sketches of The Cannibal and The 
+Nightmare
+
+Models
+
+The Cannibal's model
+
+The Cannibal's head model #1
+
+Screenshots
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

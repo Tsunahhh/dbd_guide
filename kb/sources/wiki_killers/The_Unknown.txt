@@ -1,0 +1,3809 @@
+# The Unknown
+Source: https://deadbydaylight.wiki.gg/wiki/The_Unknown (page complète via API, consultée le 27/09/2026)
+
+The Unknown
+
+Gender
+
+None (inhuman Entity that adapts its appearance as needed)
+
+Origin
+
+Unknown (Malevolent Entity)
+
+Realm
+
+Withered Isle
+
+Power
+
+UVX
+
+Power 
+Attack
+ Type
+
+Special Attack
+
+(UVX Projectile)
+
+Weapon
+
+Gently-Used Axe
+
+Movement Speed
+
+115 % 
+|
+ 4.6 m/s
+
+Terror Radius
+
+32 metres
+
+Height 
+
+Average
+
+DLC
+
+All Things Wicked
+
+Voice Actor
+
+Zoey Alexandria Wendorf (Blindlight, Transvoice Teacher)
+
+Cost
+
+9,000 
+Iridescent Shards
+
+500 
+Auric Cells
+
+Menu Music
+
+Terror Radius Music
+
+Metadata
+
+CharID
+
+K35
+
+The Unknown
+ is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+It was introduced as the Killer of 
+All Things Wicked
+, a Chapter DLC released on 12 March 2024.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: Gently-Used Axe
+
+3.3
+ 
+Power: UVX
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for UVX
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Default
+
+5.2
+ 
+Prestige
+
+5.2.1
+ 
+Perk Charms
+
+5.2.2
+ 
+Prestige Badges
+
+5.3
+ 
+Alternatives
+
+5.3.1
+ 
+Event
+
+5.3.2
+ 
+DLC
+
+5.4
+ 
+Rift
+
+5.5
+ 
+In-Game Store
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+General
+
+8.2
+ 
+Lore Trivia
+
+8.3
+ 
+Character Memes
+
+8.4
+ 
+Controversy
+
+8.5
+ 
+Gender
+
+8.6
+ 
+Memento Mori
+
+8.7
+ 
+Misconception
+
+8.8
+ 
+Voice Actress
+
+8.9
+ 
+Voice-Lines
+
+9
+ 
+Gallery
+
+9.1
+ 
+In-game Assets
+
+9.2
+ 
+Outfits
+
+9.3
+ 
+Concept Art
+
+10
+ 
+References
+
+Overview
+
+The Unknown
+ is a being beyond understanding, though many have tried.
+
+Its personal Perks, 
+Unbound
+, 
+Unforeseen
+, and 
+Undone
+, allow it to move quicker, put its 
+Terror Radius
+ on a 
+Generator
+, and deplete Repair progress.
+
+Lore
+
+Olivia’s master’s thesis was on urban legends and their origins. She believed they shared similarities with traditional folklore and picked one to illustrate her point. The Unknown was believed to be a mysterious evil so heinous that investigating it almost immediately invited death. At least that was how the story went. And there were many stories. One story was of a woman in Greenville who disappeared without a trace on stage in front of a room full of witnesses. Her friend disappeared weeks later while trying to investigate what happened. The police were stumped. They had no clues or leads, and that mystery created the perfect storm for amplifying and spreading an urban legend.
+
+Instead of going back home for spring break, Olivia headed to Greenville to investigate. She drove to the second-cheapest motel in town and began to set up in a small room that smelled of cigarette smoke, mould, and booze. She turned one wall into a kind of evidence board. She taped up articles and various theories on similar disappearances attributed to The Unknown throughout the country. She made connections with red string and yellow thumbtacks. Anyone walking into the motel room would think she had lost her mind.
+
+There were many theories as to The Unknown’s origin. Some said it was a malevolent entity conjured long ago by an ancient cult. Others believed it to be an alien that escaped from Area 51. Legend was it thrived in darkness and stole the voices of those it consumed so as to lure others to their doom.
+
+The first newspaper articles Olivia found referenced a disappearance at a séance held in the 1800s. In the late 1950s, several college students mysteriously disappeared from a movie theatre. Witnesses saw them go inside. Some remembered seeing them in their seats. But when the lights came up, they were gone. No one saw them leave. No trace of them was ever found. A projectionist claimed to have heard voices in the empty darkness of the theatre later that night. But when he turned on the lights, no one was there. Then in the 1960s a group of teens disappeared while exploring an abandoned hospital believed to be haunted.
+
+Stories and speculation arose to explain these mystifying disappearances. Some talked about a top-secret government research program run by the Office of Strategic Services in the 1950s. Project Apple-Pie. Mind control experiments using hallucinogenic drugs. Most of the records were destroyed in the '70s, but witnesses claim that experiments were performed on unsuspecting civilians in various settings and locations throughout the country, including movie theatres, hospitals and universities. Many believed these unethical experiments opened doorways to other dimensions which allowed evil things to enter the world.
+
+Olivia wrote observations to pin to her evidence board. The Unknown dwells in darkness and can mimic its victims. Was it an evil entity? An extra-terrestrial? A failed government experiment? Or just a garden variety serial killer allergic to publicity? She wanted to prove The Unknown was nothing more than modern-day folklore. And that investigation led here to this night, to this place, to this shabby motel room.
+
+Yet she couldn’t help but notice that the disappearances in Greenville included one detail the other stories didn’t. The fog. And she half-remembered another urban legend with a thick, unnatural fog that somehow made people disappear. Maybe, she mused, the Greenville disappearances didn’t relate to The Unknown but some other darkness.
+
+For a moment Olivia wondered what would happen if one urban legend encountered another. She laughed at the idea and tempted fate by sketching a picture of what she thought The Unknown might look like. Then she pinned the sketch right in the middle of her evidence board, laughed nervously and waited to be consumed by The Unknown for having tried to define it. Anxiously, she stared at the windows and front door for seconds that turned to minutes and minutes that turned to hours.
+
+But nothing happened.
+
+Now it was after 2AM and Olivia was exhausted as she examined the articles and sipped cold coffee. So, when she first heard the whisper, she wondered if she imagined it.
+
+“Olivia…”
+
+It seemed to come from the bathroom.
+
+“Help…”
+
+The lights in the room flickered.
+
+“Who’s there?”
+
+Olivia stared with wide eyes at the closed door of the bathroom. Her mind was playing tricks on her. Or — 
+
+Her friends had shown up to prank her.
+
+“Ariella? Sean? Stop messing around...”
+
+The lights continued to flicker as she edged closer to the bathroom. Fear spread in long waves through her, and a terrible realisation bloomed within her that The Unknown was behind the bathroom door, was preparing to make her pay for her hubris. Something began to whisper her name again. But then the voice rose, cracked, and distorted in sudden panic as if the brooding creature behind the door were under attack.
+
+An unknown horror filled Olivia’s heart and left room for nothing else. She breathed deeply as cold sweat beaded on her forehead. She placed her hand on the doorknob. The lights turned off, but she could still hear the strangely inhuman cries. Then the lights turned back on, and she could see a strange black fog seeping through the bottom of the door.
+
+Hesitantly, Olivia creaked the door open to see a bulky shape with frenzied tentacles being pulled into a thick mass of fog, vanishing slowly into the darkness like a dying shadow. The shrieking stopped suddenly, neighbours banged on the wall to turn down the TV, and Olivia stared intently at the black abyss that yawned before her. She wasn’t sure what to do. Part of her wanted to run. But the other part wanted to know more.  And as she considered what to do next, dozens of voices began to call out to her with promises of the unknown and the impossible and of unearthly things beyond human experience.
+
+Load-out
+
+Unique Perks
+
+The Unknown
+ comes with 
+3
+ 
+Perks
+ that are unique to it:
+
+ 
+
+Unbound
+
+This description is based on the changes announced for or featured in the upcoming Patch 10.2.0
+"Pain lingers in the air, an alluring aroma that excites the impulses."
+
+When a Survivor becomes injured by any means, 
+Unbound
+ activates for 
+26
+/
+28
+/
+30
+ 
+seconds
+:
+
+Vaulting a 
+Window
+ while 
+Unbound
+ is active grants a 
++5 %
+ 
+Haste
+ 
+Status Effect
+ for 
+25 seconds
+.
+
+This effect cannot stack with itself.
+
+"I heard it. Running. It was getting closer!" — Anonymous Testimony, 09/09/1979
+
+ 
+
+Undone
+
+This description is based on the changes announced for or featured in the upcoming Patch 10.2.0
+"Hope is the delusion that keeps its victims alive."
+
+For every time you hook a Survivor, 
+Undone
+ gains 
++1 Token
+, up to a maximum of 
+1
+/
+2
+/
+3
+ 
+Token(s)
+.
+Performing the 
+Damage Generator
+ action on a 
+Generator
+ consumes all accumulated Tokens and applies the following effects:
+
+Instantly regresses the 
+Damaged Generator
+ by a stack-able 
+-10 %
+ of its total Progression per Token, up to a maximum of 
+10
+/
+20
+/
+30
+ 
+%
+.
+
+Blocks
+ the 
+Damaged Generator
+ for 
+10 seconds
+ per Token, up to a maximum of 
+10
+/
+20
+/
+30
+ 
+seconds
+.
+
+Causes the 
+Damaged Generator
+ to start regressing once it becomes unblocked.
+
+"Erratic behavior in machinery could be related to [REDACTED], further testing required." — OSS Report, 12/02/1943
+
+ 
+
+Unforeseen
+
+"Terror takes many forms and whispers devastating lies in its victims' ears."
+
+After performing the 
+Damage Generator
+ action on a 
+Generator
+, you benefit from the following effects for 
+22
+/
+26
+/
+30
+ 
+seconds
+:
+
+Transfers your 
+Terror Radius
+ to the damaged 
+Generator
+.
+
+This 
+Terror Radius
+ is set to 
+32 metres
+.
+
+Grants the 
+Undetectable
+ 
+Status Effect
+.
+
+Unforeseen
+ has a cool-down of 
+30 seconds
+.
+
+"Mom, if you find this, I'm sorry..." — Final Journal Entry, 07/12/1991
+
+Prestige
+
+Prestiging 
+The Unknown
+ will automatically add 
+Tier I
+ of its Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Unknown
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: Gently-Used Axe
+
+The 
+Gently-Used Axe
+ is the Primary Weapon of 
+The Unknown
+.
+Even its victims' belongings would disappear, with no sign of where they could have gone.
+
+Power: UVX
+
+"Some believed a specimen was recovered by the military for their experiments.
+The codename: Unknown Venom X."
+SPECIAL ABILITY: UVX PROJECTILE
+Press and hold the 
+Power button
+ to charge 
+UVX
+Once it is fully charged, press the 
+Attack button
+ to launch a bouncing projectile, which creates a 
+Blast Area
+ of 
+2.25 metres
+ upon impact:
+
+Survivors touching an airborne projectile suffer from a 
+-6 %
+ 
+Hindered
+ 
+Status Effect
+ for 
+3 seconds
+.
+
+Survivors touching the 
+Blast Area
+ suffer from the 
+Weakened State
+.
+
+UVX
+ has a cool-down of 
+6.25 seconds
+.
+SPECIAL AFFLICTION: WEAKENED
+Weakened Survivors
+ receive damage when touching a 
+Blast Area
+ and have up to 
+8 seconds
+ added back to their 
+Weakened Meter
+ indicated on the HUD.
+SPECIAL INTERACTION: STARING DOWN THE UNKNOWN
+Survivors can remove their 
+Weakened State
+ by looking directly at 
+The Unknown
+ within a distance of 
+25 metres
+ for a cumulative total of 
+10 seconds
+.
+Doing so will highlight their outline in 
+pink
+ to 
+The Unknown
+.
+SPECIAL ABILITY: HALLUCINATIONS
+The Unknown
+ intermittently leaves behind a 
+Hallucination
+, which charges over the course of 
+45 seconds
+.
+
+Up to 
+4
+ 
+Hallucinations
+ can exist simultaneously in the environment, with the oldest one being recycled when creating another one.
+New 
+Hallucinations
+ cannot be created when too close to other existings ones or several props.
+
+The 
+Auras
+ are revealed to 
+The Unknown
+ at all times and to Survivors when within 
+8 metres
+.
+
+Survivors becoming 
+Weakened
+ or touching a 
+Blast Area
+ 
+reduces
+ the Charge time of the next 
+Hallucination
+ by 
+-10 seconds
+.
+SPECIAL INTERACTION: DISPELLING HALLUCINATIONS
+Survivors can remove 
+Hallucinations
+ by approaching them and performing the 
+Dispel
+ interaction for 
+4 seconds
+:
+
+Reduces
+ the Dispelling speed of 
+Weakened Survivors
+ by 
+-25 %
+.
+
+Succeeding removes the 
+Hallucination
+ from the environment.
+
+Failing to complete the interaction causes the Survivor to become 
+Weakened
+ and triggers 
+Killer Instinct
+ for 
+5 seconds
+.
+
+This also applies when 
+The Unknown
+ teleports into a 
+Hallucination
+ mid-dispelling.
+
+SPECIAL LOCOMOTION: TELEPORT
+Press the 
+Secondary Power button
+ to teleport to any available 
+Hallucination
+ that is at least 
+3 metres
+ away from your location, leaving behind a temporary 
+Decoy
+ for 
+5 seconds
+.
+
+Teleportation
+ has a cool-down of 
+25 seconds
+.
+"... Request for analysis [REDACTED] incident [REDACTED] awaiting approval." — Excerpt from leaked OSS report
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Walking: 
+4.6 m/s
+
+Charging UVX: 
+4.002 m/s 
+
+Hallucinations (General):
+
+Spawn requirement: 
+45 Charges
+
+Charge rates:
+
+Default, no 
+Weakened Survivors
+: 
++1 c/s
+ = 
+45 seconds
+
+1
+ 
+Weakened Survivor
+: 
++1.25 c/s
+ = 
+36 seconds
+
+2
+ 
+Weakened Survivors
+: 
++1.75 c/s
+ ≈ 
+26 seconds
+
+3
+ 
+Weakened Survivors
+: 
++2.375 c/s
+ ≈ 
+19 seconds
+
+4
+ 
+Weakened Survivors
+: 
++3.5 c/s
+ ≈ 
+13 seconds
+
+Charge-Time reduction: 
+-10 seconds
+
+This bonus is applied whenever either of the following occurs:
+
+A Survivor becomes 
+Weakened
+ or is injured by the 
+UVX Projectile
+.
+
+A 
+Hallucination
+ is refunded, which can occur when the Spawn restriction zone around a 
+Hook
+ extends by hooking a Survivor onto it and now encompasses a 
+Hallucination
+ placed earlier.
+
+Spawn duration: 
+3 seconds
+
+This refers to the period after the Spawning timer has been filled, in which the indicators on the sides of the HUD quickly rise to the top of the screen.
+
+Post-Spawn inactivity: 
+5 seconds
+
+Aura Reveal range: 
+8 metres
+
+This refers to the 
+Auras
+ of 
+Hallucinations
+ that are shown to Survivors who approach them, 
+The Unknown
+ can see its 
+Hallucinations
+ at any distance.
+
+Hallucinations (Spawn Restrictions):
+
+Hallucinations
+ cannot be spawned while 
+The Unknown
+ is within a certain range of any of the following:
+
+Generators, Pallets
+: 
+1.75 metres
+
+Hooks
+: 
+2.15 metres
+
+Hatch, Exit Gates
+: 
+3 metres
+
+Hooked Survivors: 
+12 metres
+
+Other 
+Hallucinations
+: 
+14 metres
+
+Teleport:
+
+Minimum distance: 
+3 metres
+
+Maximum distance: 
+n/a, unlimited range
+
+Teleport duration: 
+0.3 seconds
+
+Teleport Cool-down timer: 
+25 seconds
+
+Movement Speed Penalty duration: 
+1.3 seconds
+
+This refers to the slow-down after teleporting.
+
+Decoy Remnant Lifetime: 
+5 seconds
+
+This refers to the decoy left behind after a teleport
+
+UVX (General):
+
+Charge time: 
+1 second
+
+Cancellation Cool-down time: 
+0.85 second
+
+It should be noted that if 
+UVX
+ is cancelled before reaching 
+20 %
+ of its Charge time (i.e. 
+0.2 seconds
+), the Cancellation cool-down will not be applied.
+
+Launch Cool-down time: 
+2 seconds
+
+Hitbox size with environment: 
+10 centimetres
+
+Hitbox size with Survivors: 
+30 centimetres
+
+Starting Projectile Speed: 
+25 m/s
+
+Maximum Projectile Speed: 
+50 m/s
+
+Maximum Projectile Airborne duration: 
+5 seconds
+
+UVX (Blast Range):
+
+Minimum scale: 
+30 %
+
+Maximum scale: 
+125 %
+
+Pre-Grow time: 
+0.1 seconds
+
+Grow time: 
+0.38 seconds
+
+Pre-Shrink time: 
+0.2 seconds
+
+Shrink time: 
+0.22 seconds
+
+Weakened State:
+
+Removal duration: 
+10 seconds
+
+Buffer duration: 
+0.75 seconds
+
+This buffer prevents the interruption of 
+Staring Down The Unknown
+ when only briefly losing line of sight.
+
+Maximum Removal distance: 
+25 metres
+
+UVX-Injury penalty: 
+8 seconds
+
+This time is added back to the 
+Weakened Meter
+ upon becoming injured from a 
+UVX Projectile
+ hit.
+
+Add-ons for UVX
+
+Icon
+
+Name
+
+Description
+
+Blurry Photo
+
+"The photo was found at an abandoned campsite.
+The campers were never seen again."
+
+Modifies the 
+Teleport
+ ability with the following effect:
+
+Increases
+ the Recovery rate back to full Movement speed after Teleportation by 
++7 %
+.
+
+Punctured Eyeball
+
+"The station was a scene of madness.
+The officers had seemingly turned on each other."
+
+Survivors performing the 
+Dispelling
+ action successfully while both injured and in the 
+Weakened State
+ suffer from the following effect:
+
+Inflicts the 
+Deep Wound
+ 
+Status Effect
+.
+
+Rabbit's Foot
+
+"The unlucky creature's remains were found by a tree, its intestines wedged between its teeth."
+
+While charging 
+UVX
+, you benefit from the following primary effect:
+
+Pools of Blood
+ are highlighted in 
+bright red
+.
+
+Survivors damaged by 
+UVX
+ suffer from the following secondary effect:
+
+Inflicts the 
+Haemorrhage
+ 
+Status Effect
+ for 
+45 seconds
+.
+
+Sketch Attempt
+
+"The victim’s child was given paper and crayons at the station, while he waited for his father to pick him up."
+
+Survivors in the 
+Blast Area
+ of the 
+UVX Projectile
+ suffer from the following effect:
+
+Inflicts the 
+Oblivious
+ 
+Status Effect
+ for 
+20 seconds
+.
+
+Device of Undisclosed Origin
+
+"Was the thing made on Earth? Or somewhere else entirely?"
+
+While within range of seeing the 
+Aura
+ of a 
+Hallucination
+, Survivors suffer from the following effect:
+
+Inflicts the 
+Oblivious
+ 
+Status Effect
+.
+
+Last Known Recording
+
+"She studied 
+Musique Concrète
+ before she disappeared, her screams the last sound on the tape."
+
+Modifies 
+Hallucinations
+ with the following effect:
+
+Reduces
+ the range at which Survivors can see their 
+Auras
+ by 
+-35 %
+.
+
+Notebook of Theories
+
+"His studio apartment was empty and reeked of black mould.
+The book was the only thing left."
+
+Survivors hit by an airborne 
+UVX Projectile
+ suffer from the following effect:
+
+Increases
+ the duration of the 
+Hindered
+ 
+Status Effect
+ by 
++2 seconds
+ to 
+5 seconds
+.
+
+Slashed Backpack
+
+"When the hiker was rescued from the mountain pass, she insisted her companion would never wander off alone."
+
+Hitting a 
+Hallucination
+ with the 
+UVX Projectile
+ triggers the following effects:
+
+Causes the 
+Hallucination
+ to disintegrate, creating a 
+Blast Area
+.
+
+Reduces
+ the Spawn timer of your next 
+Hallucination
+ by 
+-65 %
+.
+
+Victim's Map
+
+"He thought the key to solving the mystery lay beyond the forest, and feared he would never return."
+
+Survivors performing the 
+Stare Down The Unknown
+ action successfully suffer from the following effect:
+
+Triggers 
+Killer Instinct
+ for 
+3 seconds
+.
+
+B-Movie Poster
+
+"The movie was rumored to be state-funded propaganda, made specifically for something called Project Apple-Pie."
+
+Survivors damaged by 
+UVX
+ suffer from the following effect:
+
+Inflicts the 
+Broken
+ 
+Status Effect
+ for 
+30 seconds
+.
+
+Footprint Cast
+
+"The cast sits in the Museum of the Weird in Sarasota, Florida and has long since been debunked."
+
+Whenever a Survivor enters the 
+Weakened State
+, 
+Footprint Cast
+ triggers its effect:
+
+Reduces
+ the Spawn timer of the next 
+Hallucination
+ by 
+-15 seconds
+.
+
+Front-Page Article
+
+"The assailant had torn gaping holes in the walls of the cabin, and drove the family into the woods."
+
+Whenever you break a 
+Breakable Wall
+ or a dropped 
+Pallet
+, 
+Front-Page Article
+ triggers its effect:
+
+Reduces
+ the Spawn timer of the next 
+Hallucination
+ by 
+-50 %
+.
+
+Hypnotist's Watch
+
+"Hypnotherapy was recommended to recover repressed memories.
+What emerged from his mind would be his undoing."
+
+Survivors hit by an airborne 
+UVX Projectile
+ suffer from the following effect:
+
+Inflicts the 
+Exhausted
+ 
+Status Effect
+ for 
+15 seconds
+.
+
+Vanishing Box
+
+"The magician was popular at children's parties, and quickly became the top suspect."
+
+Modifies 
+UVX
+ with the following primary effect:
+
+Increases
+ the default value of the Spawn timer of 
+Hallucinations
+ by 
++120 %
+.
+
+Whenever one or multiple Survivors complete a 
+Generator
+, 
+Vanishing Box
+ triggers its secondary effect:
+
+Causes all participating Survivors to enter the 
+Weakened State
+.
+
+Discarded Milk Carton
+
+"She decided to take the long way home, and waved goodbye to her friends before parting ways."
+
+Modifies 
+UVX
+ with the following effects:
+
+Doubles
+ the Bounce strength of the 
+UVX Projectile
+ by changing the following:
+
+Increases
+ Bounciness by 
++8 %
+.
+
+Reduces
+ Friction by 
+-15 %
+.
+
+Homemade Mask
+
+"The killer had made the mask in the shed in his backyard, where he would bring the others when the sun went down."
+
+Survivors performing the 
+Dispelling
+ action successfully suffer from the following effect:
+
+Inflicts the 
+Blindness
+ 
+Status Effect
+ for 
+60 seconds
+.
+
+Obscure Game Cartridge
+
+"Some maintained 
+Project Apple-Pie
+ evolved over time, turning to new forms of media for results."
+
+After teleporting to a 
+Hallucination
+, 
+Obscure Game Cartridge
+ triggers its effect for 
+20 seconds
+:
+
+Increases
+ the Action speeds for Breaking, Damaging, and Vaulting by 
++30 %
+.
+
+Serum Vial
+
+"The molecular structure of the substance was synthesised in the lab, but its effects could never be replicated."
+
+Upon entering the range of seeing the 
+Aura
+ of a 
+Hallucination
+, Survivors suffer from the following effect:
+
+Inflicts the 
+Exhausted
+ 
+Status Effect
+ for 
+15 seconds
+.
+
+Captured by the Dark
+
+"The documentary purported that the disappearances were linked to small-town cinemas.
+Audiences left the theater feeling uneasy."
+
+Modifies 
+UVX
+ with the following effects:
+
+All Survivors start the Trial in the 
+Weakened State
+.
+
+Reduces
+ the number of 
+Hallucinations
+ that can exist at the same time by 
+1
+.
+
+Iridescent OSS Report
+
+"The report was redacted to the point of being meaningless.
+But still, theorists tried to extract meaning from it."
+
+Modifies 
+UVX
+ with the following effects:
+
+Reduces
+ the Cool-down duration of the 
+Teleport
+ ability by 
+-5 seconds
+.
+
+Increases
+ the Lifetime of 
+Decoys
+ by 
++10 seconds
+.
+
+Causes 
+Decoys
+ to emit a 
+Terror Radius
+ and 
+Red Stain
+.
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There are 
+2
+ Achievements related to 
+The Unknown
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Unknown
+
+Playing as The 
+Unknown
+, achieve a 
+Merciless Victory
+ using only their 
+3
+ Unique Perks: 
+Unbound
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+This description is based on the changes announced for or featured in the upcoming Patch 10.2.0
+"Pain lingers in the air, an alluring aroma that excites the impulses."
+
+When a Survivor becomes injured by any means, 
+Unbound
+ activates for 
+26
+/
+28
+/
+30
+ 
+seconds
+:
+
+Vaulting a 
+Window
+ while 
+Unbound
+ is active grants a 
++5 
+ 
+Haste
+ 
+Status Effect
+ for 
+25 seconds
+.
+
+This effect cannot stack with itself.
+
+"I heard it. Running. It was getting closer!" — Anonymous Testimony, 09/09/1979
+
+, 
+Unforeseen
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Terror takes many forms and whispers devastating lies in its victims' ears."
+
+After performing the 
+Damage Generator
+ action on a 
+Generator
+, you benefit from the following effects for 
+22
+/
+26
+/
+30
+ 
+seconds
+:
+
+Transfers your 
+Terror Radius
+ to the damaged 
+Generator
+.
+
+This 
+Terror Radius
+ is set to 
+32 metres
+.
+
+Grants the 
+Undetectable
+ 
+Status Effect
+.
+
+Unforeseen
+ has a cool-down of 
+30 seconds
+.
+
+"Mom, if you find this, I'm sorry..." — Final Journal Entry, 07/12/1991
+
+, and 
+Undone
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+This description is based on the changes announced for or featured in the upcoming Patch 10.2.0
+"Hope is the delusion that keeps its victims alive."
+
+For every time you hook a Survivor, 
+Undone
+ gains 
++1 Token
+, up to a maximum of 
+1
+/
+2
+/
+3
+ 
+Token(s)
+.
+Performing the 
+Damage Generator
+ action on a 
+Generator
+ consumes all accumulated Tokens and applies the following effects:
+
+Instantly regresses the 
+Damaged Generator
+ by a stack-able 
+-10 
+ of its total Progression per Token, up to a maximum of 
+10
+/
+20
+/
+30
+ 
+%
+.
+
+Blocks
+ the 
+Damaged Generator
+ for 
+10 seconds
+ per Token, up to a maximum of 
+10
+/
+20
+/
+30
+ 
+seconds
+.
+
+Causes the 
+Damaged Generator
+ to start regressing once it becomes unblocked.
+
+"Erratic behavior in machinery could be related to [REDACTED], further testing required." — OSS Report, 12/02/1943
+
+.
+
+Prey Upon
+
+Playing as The 
+Unknown
+, down Survivors with 
+UVX
+ a total of 
+20 times
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Unknown
+:
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+The Unknown
+
+Common
+
+Nobody knows for sure what it looks like, but there are many theories.
+
+Uncanny Being
+
+Common
+
+Its otherworldly form would be the last thing its victims ever saw.
+
+Gently-Used Axe
+
+Common
+
+Even its victims’ belongings would disappear, with no sign of where they could have gone.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Bloody Unknown
+
+Rare
+
+Nobody knows for sure what it looks like, and those that find out are never seen again.
+
+Abnormal Being
+
+Rare
+
+Its unnatural form would be the last thing its victims ever saw.
+
+Heavily-Used Axe
+
+Rare
+
+Even its victims’ belongings would disappear, to be used for more ominous purposes.
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+Nobody knows for sure what it looks like, but there are many theories.
+
+Alternatives
+
+Event
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Event
+
+Unknown's Mask
+
+Event
+
+She heard someone calling her name. A voice she recognized, but something was off, and she couldn’t tell what.
+
+Twisted Masquerade 2024
+
+Twisted Flapper Gown
+
+Event
+
+The voice kept calling her, like a kid asking to play hide-and-seek. She grabbed a bottle of champagne, ready to strike, and turned to face... It.
+
+Twisted Masquerade 2024
+
+Sparkling Slaughter
+
+Event
+
+She stared at the twisted figure as its skin oozed, materializing blue fabric. The champagne crashed to the floor. Escape was never an option.
+
+Twisted Masquerade 2024
+
+DLC
+
+Expand to view content
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+DLC
+
+Garden Casuals
+
+Common
+
+Her prize-winning peonies wilted without someone to care for them.
+
+CHAPTER 31: All Things Wicked
+.
+
+ Rift
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Bonfire Faire
+
+Gothic Tales
+
+Tome 21 - Dominus
+
+03 March 2026 (Tuesday)
+
+Description
+
+The people celebrated a fateful anniversary with music, dancing, and a great pyre in the town square.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Crooked Hood
+
+Gothic Tales
+
+8
+
+He kept watch over the festivities, only diverting his attention when he heard a soft voice calling for aid.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Threadbare Uniform
+
+Gothic Tales
+
+5
+
+Fear struck the crowd when they heard a man's screams from the forest outside the city walls. Had evil returned once again?
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Tormented Cutlass
+
+Gothic Tales
+
+2
+
+Search parties found neither clue nor sign of the guard. The loss was lamented for a moment, before life carried on as it always had.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Unsolved
+
+Community
+
+Rift Pass 2 - Entombment
+
+21 July 2026 (Tuesday)
+
+Description
+
+The entire police department was on high alert after a detective went missing during a murder investigation.
+Design inspired by 
+Shyboi
+.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Warning Tape
+
+Community
+
+53
+
+His superior last heard that he went back to the crime scene in the middle of the night hoping to find more clues.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Detective's Trench
+
+Community
+
+44
+
+The detective had called his partner to let him know he found the victim's journal, where she wrote about a mysterious threat.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+The Murder Weapon
+
+Community
+
+49
+
+A witness thought she saw the detective stumble away from the crime scene, but it was too dark to be certain.
+
+400
+
+7200
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Time For Funeral
+
+The Unknown Aberrations
+
+12 March 2024 (Tuesday)
+
+Description
+
+Most folks were focused on the event. They didn’t notice someone had wandered off until it was too late.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Bereavement Casual
+
+The Unknown Aberrations
+
+Someone thought they saw movement in the distance, but couldn’t make it out.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Bouquet Axe
+
+The Unknown Aberrations
+
+The axe blade caught the sunlight as the mysterious figure disappeared into the forest.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Time For Office
+
+The Unknown Aberrations
+
+12 March 2024 (Tuesday)
+
+Description
+
+Most folks were focused on the event. They didn’t notice someone had wandered off until it was too late.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Business Casual
+
+The Unknown Aberrations
+
+Someone thought they saw movement in the distance, but couldn’t make it out.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Spreadsheet Axe
+
+The Unknown Aberrations
+
+The axe blade caught the sunlight as the mysterious figure disappeared into the forest.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Time For Barbecue
+
+The Unknown Aberrations
+
+12 March 2024 (Tuesday)
+
+Description
+
+Most folks were focused on the event. They didn’t notice someone had wandered off until it was too late.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Cookout Casual
+
+The Unknown Aberrations
+
+Someone thought they saw movement in the distance, but couldn’t make it out.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Hot Dog Axe
+
+The Unknown Aberrations
+
+The axe blade caught the sunlight as the mysterious figure disappeared into the forest.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Time For the Big Game
+
+The Unknown Aberrations
+
+12 March 2024 (Tuesday)
+
+Description
+
+Most folks were focused on the event. They didn’t notice someone had wandered off until it was too late.
+
+90
+
+1800
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Sunday Casual
+
+The Unknown Aberrations
+
+Someone thought they saw movement in the distance, but couldn’t make it out.
+
+50
+
+900
+
+Piece
+
+Name
+
+Collection
+
+Football Axe
+
+The Unknown Aberrations
+
+The axe blade caught the sunlight as the mysterious figure disappeared into the forest.
+
+50
+
+900
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Alien Invasion
+
+The Unknown Aberrations
+
+12 March 2024 (Tuesday)
+
+Description
+
+All we know is there are things in this world beyond our understanding.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Cosmic Visitor
+
+The Unknown Aberrations
+
+Its face would be the last you ever saw.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Martian's Disguise
+
+The Unknown Aberrations
+
+It walks among us, without our knowledge.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Extraterrestrial Slasher
+
+The Unknown Aberrations
+
+We may never know what drives it.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Government Conspiracy
+
+The Unknown Aberrations
+
+12 March 2024 (Tuesday)
+
+Description
+
+All we know is there are things in this world beyond our understanding.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Failed Experiment
+
+The Unknown Aberrations
+
+Its face would be the last you ever saw.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Fed's Disguise
+
+The Unknown Aberrations
+
+It walks among us, without our knowledge.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Operative Cutter
+
+The Unknown Aberrations
+
+We may never know what drives it.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Serial Abductor
+
+The Unknown Aberrations
+
+12 March 2024 (Tuesday)
+
+Description
+
+All we know is there are things in this world beyond our understanding.
+
+270
+
+5400
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Kidnapper's Smirk
+
+The Unknown Aberrations
+
+Its face would be the last you ever saw.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Stalker's Disguise
+
+The Unknown Aberrations
+
+It walks among us, without our knowledge.
+
+100
+
+1800
+
+Piece
+
+Name
+
+Collection
+
+Underworld Hacker
+
+The Unknown Aberrations
+
+We may never know what drives it.
+
+100
+
+1800
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Greenville Pep
+
+The Unknown Aberrations
+
+12 March 2024 (Tuesday)
+
+Description
+
+A high school cheerleader had gone missing a decade ago, but someone thought they saw her at the playoff game.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Hair-Raiser
+
+The Unknown Aberrations
+
+The whispers on the street were getting louder, and it seemed like everyone was on edge.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Friday Night Frights
+
+The Unknown Aberrations
+
+The quarterback was last seen that same night; was it a coincidence?
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Crooked Wrench
+
+The Unknown Aberrations
+
+A custodian notified police that something had been removed from the shed during the game.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Greenville Cheer
+
+The Unknown Aberrations
+
+12 March 2024 (Tuesday)
+
+Description
+
+A high school cheerleader had gone missing a decade ago, but someone thought they saw her at the playoff game.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Hair-Splitter
+
+The Unknown Aberrations
+
+The whispers on the street were getting louder, and it seemed like everyone was on edge.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Friday Night Plights
+
+The Unknown Aberrations
+
+The quarterback was last seen that same night; was it a coincidence?
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Distorted Wrench
+
+The Unknown Aberrations
+
+A custodian notified police that something had been removed from the shed during the game.
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Missing Zookeeper
+
+Cats & Dogs
+
+27 May 2025 (Tuesday)
+
+Description
+
+There was nothing to suggest he had been mauled or eaten by the animals. The victim had simply disappeared without a trace.
+
+675
+
+13500
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Weathered Cap
+
+Cats & Dogs
+
+The victim was last seen in the ape pavilion. Colleagues said he was a fan of urban legends and often communicated with the elder gorilla using sign language.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Torn Uniform
+
+Cats & Dogs
+
+Surveillance footage showed the victim wandering away, as if drawn to something. Whatever was there had sent the apes into a frenzy.
+
+250
+
+4500
+
+Piece
+
+Name
+
+Collection
+
+Savage Shovel
+
+Cats & Dogs
+
+A junior zookeeper repeatedly asked the elder gorilla what had happened but always got the same answer: "Do not know."
+
+250
+
+4500
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Tome
+
+Release Date
+
+Price
+
+Bonfire Faire
+
+Gothic Tales
+
+Tome 21 - Dominus
+
+03 March 2026 (Tuesday)
+
+Description
+
+The people celebrated a fateful anniversary with music, dancing, and a great pyre in the town square.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Crooked Hood
+
+Gothic Tales
+
+8
+
+He kept watch over the festivities, only diverting his attention when he heard a soft voice calling for aid.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Threadbare Uniform
+
+Gothic Tales
+
+5
+
+Fear struck the crowd when they heard a man's screams from the forest outside the city walls. Had evil returned once again?
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Tormented Cutlass
+
+Gothic Tales
+
+2
+
+Search parties found neither clue nor sign of the guard. The loss was lamented for a moment, before life carried on as it always had.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Sister Sunshine
+
+GamePlay Expo
+
+15 September 2026 (Tuesday)
+
+Description
+
+Pink had always been her color. She lifted her phone for a better angle, determined to capture the entire costume in frame.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Friendly Greeting
+
+GamePlay Expo
+
+An unsettling voice called her name. She looked up, catching a glimpse of a shadowy figure in the alleyway across the street.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Shades Of Panic
+
+GamePlay Expo
+
+Her sister waited on the expo floor until impatience turned to panic.  She searched desperately for any sign of the pink dress.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Wilted Wand
+
+GamePlay Expo
+
+Her sister spent that night staring at her ceiling, numb with disbelief. Her mother's anguished wails carried through the bedroom door.
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Eyeless Woman
+
+Shop 'Til You Drop
+
+12 March 2024 (Tuesday)
+
+Description
+
+Stories spread across the Midwest about a woman who disappeared in the middle of a parking lot.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Gaping Maw
+
+Shop 'Til You Drop
+
+She dropped her grocery bags and screamed as some dark revelation took hold of her.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Secret Shopper
+
+Shop 'Til You Drop
+
+Witnesses wondered if she saw something at the far end of the parking lot that made her scream.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Menacing Clippers
+
+Shop 'Til You Drop
+
+These blades could cut more than just coupons.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Real-Life Tale
+
+Artists From The Fog
+
+04 February 2025 (Tuesday)
+
+Description
+
+The biggest kid in the schoolyard had everyone's attention – he told them The Unknown was so scary, it even killed the Big Bad Wolf.
+Design inspired by 
+DuckieGrumpy
+.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Snarling Muzzle
+
+Artists From The Fog
+
+The big kid told a story about an actor who became obsessed with the legend of The Unknown and paid dearly for it.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Distorted Peignoir
+
+Artists From The Fog
+
+The actor was playing the Big Bad Wolf in a play about fairy tales – in the middle of the show, there was a horrible accident.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Nana's Claw
+
+Artists From The Fog
+
+There was a scream and the stagelights suddenly went down. When they came back on, the actor had disappeared, never to be seen again.
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Unknown Blighting
+
+HALLOWED BLIGHT
+
+31 October 2025 (Friday)
+
+Description
+
+So blight-poisoned was his mind that the legends surrounding this creature seemed not to apply to him.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Throat Out
+
+HALLOWED BLIGHT
+
+The creature's true nature seemed to react to the injection. Muscles writhed like tentacles begging for escape.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Noisy Flesh
+
+HALLOWED BLIGHT
+
+Its raw flesh formed humanoid limbs that clung to its body like a desperate plea that was no longer silenced.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Oozing Axe
+
+HALLOWED BLIGHT
+
+It grabbed the pustulating weapon and fled. A subject of this caliber would never be seen again.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Masquerade Obscure
+
+Twisted Masquerade
+
+25 June 2026 (Thursday)
+
+Description
+
+The party made a certain guest anxious. As she grabbed her coat, she couldn’t shake the feeling of eyes boring into her back.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Unknown's Mask
+
+Twisted Masquerade
+
+She heard someone calling her name. A voice she recognized, but something was off, and she couldn’t tell what.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Twisted Flapper Gown
+
+Twisted Masquerade
+
+The voice kept calling her, like a kid asking to play hide-and-seek. She grabbed a bottle of champagne, ready to strike, and turned to face... It.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Sparkling Slaughter
+
+Twisted Masquerade
+
+She stared at the twisted figure as its skin oozed, materializing blue fabric. The champagne crashed to the floor. Escape was never an option.
+
+400
+
+7200
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Rift Pass
+
+Release Date
+
+Price
+
+Unsolved
+
+Community
+
+Rift Pass 2 - Entombment
+
+21 July 2026 (Tuesday)
+
+Description
+
+The entire police department was on high alert after a detective went missing during a murder investigation.
+Design inspired by 
+Shyboi
+.
+
+1080
+
+21600
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Warning Tape
+
+Community
+
+53
+
+His superior last heard that he went back to the crime scene in the middle of the night hoping to find more clues.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+Detective's Trench
+
+Community
+
+44
+
+The detective had called his partner to let him know he found the victim's journal, where she wrote about a mysterious threat.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Rift Tier
+
+The Murder Weapon
+
+Community
+
+49
+
+A witness thought she saw the detective stumble away from the crime scene, but it was too dark to be certain.
+
+400
+
+7200
+
+Piece
+
+Name
+
+Collection
+
+Arctic Strike
+
+Bone Chill
+
+An arm ravaged by frostbite, used for a new brutal purpose.
+
+Piece
+
+Name
+
+Collection
+
+Sugary Twist
+
+Tricks and Treats
+
+The sign in the candy shop honored a young cashier who disappeared during his shift.
+
+250
+
+Piece
+
+Name
+
+Collection
+
+Cap and Bells
+
+April Fools
+
+Look away while you can, or the next fool may be you.
+
+5
+
+Piece
+
+Name
+
+Collection
+
+Noro's Mask
+
+Tokyo Ghoul
+
+The face of a tall and mysterious ghoul.
+
+400
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Unknown
+ is part of 
+1
+ DLC:
+
+All Things Wicked
+
+Change Log
+
+Patch 8.3.0
+Patch 9.2.0
+Patch 9.6.0
+Patch 8.3.0
+
+Buff
+: reduced the Movement Speed Recovery time after a 
+Teleport
+ from 
+1.7 seconds
+ to 
+1.4 seconds
+.
+
+Quality of Life
+: the body texture on Survivors hit with a 
+Projectile
+ now only appears if it successfully 
+Weakened
+ the Survivor.
+
+Quality of Life
+: added new HUD icons to better surface the various mechanics and cool-downs of its Power.
+
+Quality of Life
+: updated the SFX for airborne hits to make them sound more neutral.
+Patch 9.2.0
+
+Buff
+: further reduced the Movement Speed Recovery time after a 
+Teleport
+ from 
+1.4 seconds
+ to 
+1.3 seconds
+.
+
+Buff
+: increased the duration which 
+Weakened
+ is extended by when hitting a Healthy Survivor with 
+UVX
+ from 
+6 seconds
+ to 
+8 seconds
+.
+
+Buff
+: increased the vertical camera axis when aiming a 
+Projectile
+ to allow for higher aim elevations.
+Patch 9.6.0
+
+Buff
+: decreased the cool-down of 
+UVX
+ from 
+7 seconds
+ to 
+6.25 seconds
+.
+
+Buff
+: decreased the vision linger time when 
+Staring Down The Unknown
+ from 
+1.25 seconds
+ to 
+0.75 seconds
+.
+
+Trivia
+
+General
+
+The Unknown
+ was originally named 
+The Horror
+.
+
+The Unknown's
+ name, as well as its Unique Perks, all start with the prefix 
+"un-"
+.
+
+The Unknown
+ is the second Killer to have miniature power icons next to the main power icon, which are used to display various Cool-downs.
+
+The Unknown
+ usually speaks a quick phrase directed at the Player when selected as the active Killer, crawling off-screen before appearing again and looking right at the camera.
+
+The Unknown
+ features a unique look-around animation.
+
+When remaining stationary and turning the camera, only the head and upper torso of 
+The Unknown
+ will rotate to match the player's line of sight, while its lower body remains still. This contrasts with other Killers, whose entire character models rotate to match their field of view.
+
+The 
+Red Stain
+ rotates alongside the head, accurately indicating the direction the Killer is currently looking, despite the stationary lower body.
+
+This twisted animation is only visible from the Survivors' POV. The Killer player will see their arms and lower parts behave normally, as if their entire body had rotated.
+
+This visual discrepancy occurs because the first-person viewmodels are directly tied to the Killer's camera rotation, rather than the third-person model.
+
+Lore Trivia
+
+Its heavily implied that the serial killer and some of the killings rumor that was attributed to 
+Unknown
+ in its base lore is actually  
+Jason Voorhees
+, as both of them fought in lore with 
+Jason
+ coming out on top.
+
+Character Memes
+
+The Unknown
+ received the nickname 
+The Harmless
+ from the community due to its in-game mechanics being easily abusable by competent Survivors and allowing it to feel helpless in those matches, despite generally being considered an average killer in tier lists.
+
+Controversy
+
+Some members of the community believed that 
+The Unknown
+ resembled a transphobic caricature, particularly due to the cosmetics resembling a high school cheerleader.
+
+However, this was not the intention behind this, as 
+The Unknown
+ is meant to poorly resemble and mimic the victims it takes.
+
+The Voice Actress behind 
+The Unknown
+ was, however, the target of transphobic harassment by hateful members of the community due to her involvement in the character.
+
+She later clarified in a 
+Twitter/X
+ post that 
+Behaviour
+ were not transphobic, and her only issue was the lack of communication surrounding the character's final appearance, and not the skins themselves.
+
+A spokesperson for 
+Behaviour Interactive
+ told PinkNews that “We will continue to express support to our voice actress, to all of our community members as well as standing actively against hate in our game”.
+
+Zoey Alexandria
+ also said in the previously mentioned post that 
+Behaviour
+ have been "nothing but kind and supporting" through the process.
+
+Gender
+
+Based on its Lore, 
+The Unknown
+ does not really have a specific gender, as it adjusts its appearance and voice between seemingly male and female as it desires, in order to efficiently stalk and attack its victims.
+
+This is also supported by the general use of the neuter singular pronoun 'it', intermingled with male and female pronouns in various Cosmetic descriptions, and it always using both its male and female voice simultaneously.
+
+Furthermore, which of the voices is heard predominantly changes with the selected outfit:
+
+When wearing a male outfit, the male voice is louder than the female voice.
+
+When wearing a female outfit, the female voice is louder than the male voice.
+
+Nevertheless, its default Cosmetic features a mostly male appearance, based on the features of its head and its style of clothing, when compared to its other Cosmetic options in the Store and the Game's code categorises it as a male Killer, suggesting that 
+The Unknown
+ prefers to default to its male appearance in the Realm of the Entity, which it likely had upon entering The Fog.
+
+Memento Mori
+
+The Unknown
+ is the first and only Killer whose Memento Mori animation has collisions with environmental objects.
+
+This is due to 
+The Unknown
+ ending the animation in a different place than started.
+
+If there were no collisions, 
+The Unknown
+ could potentially get to inaccessible areas using the Memento Mori animation.
+
+The Unknown
+ is one of the few Killers who kidnap the Survivor's body after the Memento Mori, akin to The 
+Cenobite
+ and The 
+Dredge
+.
+
+Misconception
+
+Some members of the Community believe that 
+The Unknown
+ has built-in 
+Whispers
+, thinking that 
+The Unknown
+ only speaks mid-Trial if a Survivor is detected in their vicinity.
+
+This, however, is not true, as that would be an unfair advantage.
+
+While 
+The Unknown
+ and its 
+Hallucinations
+ do indeed speak when detecting a Survivor nearby, they also occasionally do so when there is no one nearby.
+
+Voice Actress
+
+The Unknown
+ was voiced by the late 
+Zoey Alexandria Wendorf
+, who had been a professional voice feminization teacher, classically trained and educated singer, and metal vocalist.
+
+She had voiced both the female and male voices heard from 
+The Unknown
+, as she had specialized in that vocal technique and also used it in her performing work.
+
+Zoey Alexandria Wendorf
+, who had suffered from several auto-immune diseases and related health issues, unfortunately passed away on 30 April 2024 at the age of 29, just two months after the release of 
+The Unknown's
+ Chapter.
+[
+1
+]
+
+The Unknown
+ is the second character to be voiced by a transgender voice actor/actress, with the first being 
+Tubarão
+.
+
+Voice-Lines
+
+The Unknown
+ is the sixth Killer to actively speak during Trials.
+
+The Unknown
+ speaks in a distorted manner and uses both its male and female voice simultaneously.
+
+However, 
+Weakened Survivors
+ will hear one voice clearly (which one depends on the chosen Cosmetics) and with much less distortion, suggesting that 
+The Unknown
+ and its 
+Hallucinations
+ are much more convincing to weakened victims.
+
+One lobby voice line is a copy of the "Now, I am mad!" Memento Mori voice line, however, its subtitle is "I don’t know whether to laugh or cry.".
+
+Voice Line
+
+Male Voice Audio
+
+Female Voice Audio
+
+Selected in the Menu
+
+"Hello."
+
+"Life is what we make it."
+
+"I lived in dungeons long forgotten."
+
+"I will not be denied my happiness."
+
+"I, the nameless legend."
+
+"Tonight. The world at my feet."
+
+"Hunger—intolerable hunger!"
+
+"Terribly frightening isn’t it."
+
+"You must be lonely here."
+
+"No one will hurt you… no one but me…"
+
+"I don’t know whether to laugh or cry." 
+ (Voice line audio is a copy of the Memento Mori voice line)
+
+"A little laughter… a little tear."
+
+"I’ll send you a post card."
+
+"You give me the creeps."
+
+"I deal in strange."
+
+"At last… the fools."
+
+"Prepare for the expedition."
+
+"What’s this all about?"
+
+"Nobody leaves tonight."
+
+"Why so nervous tonight?"
+
+Survivor POV: Hallucination Dialog While Afflicted With Weakened
+
+"Psst… over here…."
+
+"Hey… I found something…"
+
+"Hey… come see this…"
+
+"Can you help me please?"
+
+"Is this yours?"
+
+"Have you seen my dog?"
+
+"Help me over here… please…"
+
+"I need help over here…"
+
+"Is this yours?"
+
+"Hey… you… this yours?"
+
+"Help…"
+
+"Help me…"
+
+"I need help… someone… anyone… please…"
+
+"This is embarrassing… can you help… please…"
+
+"I need help with this…"
+
+"You… yes you… help…"
+
+"Can you help me lift this?"
+
+"Hey you… want some candy?"
+
+"Hey… I’ve got something for you…"
+
+"Oh wow… you’re gonna wanna see this…"
+
+"Sorry… is this yours?"
+
+"Excuse me… help me out here…"
+
+"Sorry… did you drop this?"
+
+"Hey come here for a sec…"
+
+"Excuse me… I need some help…"
+
+Passive Dialog 
+ Survivor POV: Hallucination Dialog While Not Afflicted With Weakened
+
+"Psst… over…here…."
+
+"Hey… Hey… I found something…"
+
+"Hey… come see…"
+
+"Can you help?"
+
+"Is this yours? Yours…"
+
+"Have you seen my dog?"
+
+"Help me over here… please…"
+
+"I need help over here… please…"
+
+"Is this yours? This is… yours…"
+
+"Hey… you… this yours?"
+
+"Help…"
+
+"Help me…"
+
+"I need help… someone… anyone… please…"
+
+"This is … can you help… please…"
+
+"I need help… help with this…"
+
+"You… help…"
+
+"Can you help lift this?"
+
+"You… want some candy?"
+
+"I’ve got something for you…"
+
+"You’re gonna wanna see this…"
+
+"Sorry… is this yours?"
+
+"Excuse me… excuse me…"
+
+"Sorry… sorry…"
+
+"Hey come here… come here…"
+
+"I need some help… help…"
+
+Perform Memento Mori
+
+"Gottchya"
+
+"Here’s looking at you…"
+
+"You die."
+
+"Now, I am mad!"
+
+"The pain! The pain!"
+
+"Frightening."
+
+"Perfect."
+
+"The terror..."
+
+"The horror..."
+
+"Just die..."
+
+Gallery
+
+In-game Assets
+
+The Unknown
+
+The Unknown (Portrait render)
+
+The Unknown (Background image)
+
+Outfits
+
+Sister Sunshine Outfit
+
+Concept Art
+
+'Greenville Pep' Concept Art
+
+'Bonfire Faire' Concept Art
+
+'Real-Life Tale' Concept Art (Designed by DuckieGrumpy.)
+
+'Unsolved' Concept Art (Designed by shyboi.art.)
+
+References
+
+↑
+ 
+https://www.reddit.com/r/deadbydaylight/comments/1ck018z/the_unknowns_voice_actor_zoey_alexandria_has_died/
+ The Unknown's Voice Actor, Zoey Alexandria, Has Died. Reddit post. Retrieved 4 May 2024
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

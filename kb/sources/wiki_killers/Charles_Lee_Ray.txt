@@ -1,0 +1,2689 @@
+# Charles Lee Ray
+Source: https://deadbydaylight.wiki.gg/wiki/Charles_Lee_Ray (page complète via API, consultée le 27/09/2026)
+
+The Good Guy
+
+Name
+
+Charles Lee Ray
+
+Game Alias(es)
+
+"Chucky"
+
+"The Lakeshore Strangler"
+
+Gender
+
+Man
+
+Origin
+
+American
+
+Power
+
+Playtime's Over
+
+Power 
+Attack
+ Type
+
+Special Attack
+
+(Slice & Dice)
+
+Weapon
+
+Chef's Knife
+
+Movement Speed
+
+110 % 
+|
+ 4.4 m/s
+
+Terror Radius
+
+32 metres
+
+Height 
+
+Short
+
+DLC
+
+Chucky (Chapter)
+
+Voice Actor
+
+Brad Dourif (Blindlight, Original Actor)
+
+Cost
+
+500 
+Auric Cells
+
+Menu Music
+
+Terror Radius Music
+
+Metadata
+
+CharID
+
+K34
+
+Charles Lee Ray
+ or 
+"The Good Guy"
+, also known as "
+Chucky
+", is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+He was introduced as the Killer of 
+Chucky (Chapter)
+, a Chapter DLC released on 28 November 2023.
+
+He originates from the 1990 Supernatural Slasher franchise 
+Child's Play
+, specifically from 
+Child's Play 2
+.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: Chef's Knife
+
+3.3
+ 
+Power: Playtime's Over
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for Playtime's Over
+
+3.5
+ 
+Innate Skill
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Base Cosmetics
+
+5.1.1
+ 
+Default
+
+5.1.2
+ 
+Prestige
+
+5.1.2.1
+ 
+Perk Charms
+
+5.1.2.2
+ 
+Prestige Badges
+
+5.2
+ 
+In-Game Store
+
+5.3
+ 
+Alternate Character Models
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+General
+
+8.2
+ 
+Cosmetics
+
+8.3
+ 
+Lore
+
+8.4
+ 
+Memento Mori
+
+8.5
+ 
+Voice Actors
+
+8.6
+ 
+Voice Lines
+
+8.7
+ 
+Voice Line References
+
+9
+ 
+Gallery
+
+9.1
+ 
+In-game Assets
+
+9.2
+ 
+Promotional Art
+
+Overview
+
+The Good Guy
+ is an elusive Killer, capable of deceiving Survivors with his illusory Footfalls and deadly Slice & Dice.
+
+His personal Perks, 
+Hex: Two Can Play
+, 
+Friends 'til the End
+, and 
+Batteries Included
+, allow him to blind those who blind him, relentlessly hunt his 
+Obsession
+, and move faster around completed Generators.
+
+Lore
+
+Charles Lee Ray, the infamous Lakeshore Strangler, was tracked down and shot after a murderous rampage. However, he escaped death by having his soul possess a Good Guys doll named Chucky through a curse.
+
+Chucky didn't want to stay a Good Guy forever, though, and he knew there was only one way to change that: take the body of Andy Barclay, the first person he had revealed his secret to. After his first attempt failed, Chucky waited two long years before he found Andy again.
+
+With nobody standing between Chucky and Andy, he took the boy to the Good Guy factory to complete the process of stealing Andy’s body. But Andy’s foster sister, Kyle, realised something was amiss, and followed Andy to the factory.
+
+Inside the factory Chucky forced Andy to the ground and spoke ancient words to take possession of his body. But the ritual didn’t go as planned and Kyle quickly and desperately toppled a stack of Good Guy boxes over him.
+
+Chucky screamed his frustration as he pushed through the pile of boxes. Gathering his wits, he looked down the brightly lit aisle and saw Andy running into a thick, swirling mass of fog. He thought he was seeing things at first, but then he realised the Fog was real and there to help him. His words hadn’t worked as intended but he had somehow conjured something else, something unexpected, something he didn’t quite understand.
+
+And not wanting to lose his only chance for a real body, he charged through the Fog screaming after Andy.
+
+Load-out
+
+Unique Perks
+
+The Good Guy
+ comes with 
+3
+ 
+Perks
+ that are unique to him:
+
+ 
+
+Batteries Included
+
+"Being somewhere between man and machine has its upsides."
+
+While within 
+16 metres
+ of a completed 
+Generator
+, you benefit from the following effect:
+
+Grants a 
++5 %
+ 
+Haste
+ 
+Status Effect
+.
+
+This effect lingers for 
+1
+/
+3
+/
+5
+ 
+second(s)
+.
+
+"Surprise! Did you miss me, Andy?" — Chucky
+
+ 
+
+Friends 'til the End
+
+"You will kill anyone who gets between you and your target."
+
+When you hook any Survivors that is not the 
+Obsession
+, the following effects apply to the 
+Obsession
+:
+
+Their 
+Aura
+ is revealed for 
+6
+/
+8
+/
+10
+ 
+seconds
+.
+
+They suffer from the 
+Exposed
+ 
+Status Effect
+ for 
+20 seconds
+.
+
+When you hook the 
+Obsession
+, the following effects apply to a random Survivor:
+
+Causes the Survivor to scream and reveal their location to the Killer.
+
+They become the new 
+Obsession
+.
+
+You can only be 
+obsessed
+ with one Survivor at a time.
+
+"I got some fresh meat lined up, and I'm not gonna let you spoil it, not this time!" — Chucky
+
+ 
+
+Hex: Two Can Play
+
+"A Hex that teaches those who mess with you a lesson."
+
+Anytime you are stunned or blinded by any Survivor a total of 
+4
+/
+3
+/
+2
+ 
+times
+, and if there is not yet a 
+Hex Totem
+ already associated with 
+Hex: Two Can Play
+ and there is at least one 
+Dull Totem
+ remaining in the Trial Grounds, 
+Hex: Two Can Play
+ activates on a random Totem:
+
+Blinds
+ all Survivors who stun or blind you for 
+1.5 seconds
+.
+
+This does not affect carried Survivors.
+
+The 
+Hex Effects
+ persist until the 
+Hex Totem
+ is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.
+
+"From now on, no more Mr Good Guy." — Chucky
+
+Prestige
+
+Prestiging 
+The Good Guy
+ will automatically add 
+Tier I
+ of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Good Guy
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: Chef's Knife
+
+The 
+Chef's Knife
+ is the Primary Weapon of 
+The Good Guy
+.
+A practical and easy-to-use weapon available in every kitchen.
+
+Power: Playtime's Over
+
+"After the rage of being trapped in the body of a doll subsided, the Lakeshore Strangler realised this new body was the perfect host to disorient and surprise his kills."
+SPECIAL ABILITY: HIDEY-HO MODE
+Press the 
+Secondary Power button
+ to enter 
+Hidey-Ho Mode
+ for 
+14 seconds
+:
+
+Grants the 
+Undetectable
+ 
+Status Effect
+.
+
+Creates 
+Illusionary Footfalls
+.
+
+Press it again to exit the mode prematurely.
+
+Hidey-Ho Mode
+ has a cool-down of 
+12 seconds
+.
+SPECIAL ABILITY: ILLUSIONARY FOOTFALLS
+Illusionary Footfalls
+ generate in a radius of 
+16 metres
+ around each Survivor and aim to disorient them with sounds and footsteps coming from different directions, hiding the true whereabouts of 
+The Good Guy
+.
+SPECIAL LOCOMOTION: SLICE & DICE
+While in 
+Hidey-Ho Mode
+, press the 
+Power button
+ to launch a 
+Slice & Dice
+ attack:
+
+Increases
+ his Movement speed to 
+8 m/s
+ for 
+1.8 seconds
+.
+
+Increases
+ his Lunge duration to 
+0.6 seconds
+.
+
+SPECIAL INTERACTION: SCAMPER
+During a 
+Slice & Dice
+ attack, collide with a dropped 
+Pallet
+ or a 
+Window
+ to perform a 
+Scamper
+ under/over it, which takes 
+1 second
+ to complete.
+"I'm one of the most notorious slashers in history. And I don't want to give that up. I am Chucky, the killer doll! And I dig it!" — Chucky
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Walking (both Modes): 
+4.4 m/s
+
+Slice & Dice
+: 
+8 m/s
+
+Footsteps:
+
+Spawn interval: 
+0.15 seconds
+
+Lifetime: 
+0.85 seconds
+
+This refers to the time how long an individual footstep remains visible for.
+
+Maximum Visibility range: 
+16 metres
+
+Illusory Footfalls:
+
+Distraction Lifetime: 
+10 seconds
+
+Maximum simultaneous distractions per Survivor: 
+2
+
+Maximum idle timer: 
+0.2 seconds
+
+Chance to randomly turn back on path (mind-game): 
+15 %
+
+Chance to randomly change direction: 
+1 %
+
+Chance to randomly stop for the maximum idle timer: 
+10 %
+
+Hidey-Ho Mode:
+
+Duration: 
+14 seconds
+
+Cool-down: 
+12 seconds
+
+Transition time between modes: 
+1 second
+
+Duration penalty per Attack attempt: 
+-50 %
+
+This only applies while in 
+Hidey-Ho Mode
+.
+
+Warning threshold: 
+1 second
+ before exiting the Mode
+
+Camera:
+
+Spring Arm length: 
+130 centimetres
+
+Spring Arm length in 
+Hidey-Ho Mode
+: 
+95 centimetres
+
+Height: 
+110 centimetres
+
+Height in 
+Hidey-Ho Mode
+: 
+95 centimetres
+
+Slice & Dice + Scamper:
+
+Scamper
+ Charge-up duration: 
+1 second
+
+Scamper
+ Crawl duration: 
+1 second
+
+Scamper
+ Acceleration multiplier: 
+x10
+
+S&D
+ Acceleration multiplier: 
+x100
+
+S&D
+ duration: 
+1.8 seconds
+
+S&D
+ Attack phase duration: 
+0.6 seconds
+
+S&D
+ Cool-down duration (successful hit): 
+3 seconds
+
+S&D
+ Cool-down duration (missed/obstructed hit): 
+2.25 seconds
+
+S&D
+ Turn Rate limit: 
+300 °
+ to the left or to the right.
+
+Add-ons for Playtime's Over
+
+Icon
+
+Name
+
+Description
+
+Doll Eyes
+
+One of the advantages of possessing a mass-produced doll is easy access to replacement parts.
+
+When in 
+Hidey-Ho Mode
+, the 
+Auras
+ of all 
+Windows
+ and downed 
+Pallets
+ are revealed to you within 
+20 metres
+.
+
+Good Guy Box
+
+Someone kept this box around in case they needed to bring Chucky back to the store.
+
+Reduces
+ the Cool-down duration of successful 
+Slice & Dice Attacks
+ to 
+93 %
+ of their default duration.
+
+Strobing Light
+
+With the right training, it can be used to make people more suggestible.
+
+Reduces
+ your 
+Terror Radius
+ by 
+-8 metres
+, when 
+Hidey-Ho Mode
+ is on cool-down.
+
+Tiny Scalpel
+
+Sometimes, a precision cut can lead to a beautiful bleed.
+
+When in 
+Hidey-Ho Mode
+, 
+Pools of Blood
+ appear to you in 
+bright red
+.
+
+Automatic Screwdriver
+
+A good way to make mechanical adjustments on the fly.
+
+Reduces
+ the Cool-down duration of 
+Hidey-Ho Mode
+ by 
+-8 %
+ after missing a 
+Slice & Dice Attack
+.
+
+Electric Carving Knife
+
+The annoying buzzing sound means it is ready to carve some flesh.
+
+Reduces
+ the Cool-down duration of missed 
+Slice & Dice Attacks
+ to 
+95 %
+ of their default duration.
+
+Hair Spray & Candle
+
+An aerosolised inferno that will ensure a bad hair day is the least of your worries.
+
+Reduces
+ the Power-Gauge penalty of 
+Basic Attacks
+ when in 
+Hidey-Ho Mode
+ by 
+-20 %
+.
+
+Jump Rope
+
+Good for a bit of exercise, or for tying up your target.
+
+Extends
+ the duration of 
+Slice & Dice
+ to 
+108 %
+ of its default duration.
+
+Power Drill
+
+Comes with a dozen convenient drill tips.
+They all make a big mess when applied to people.
+
+Reduces
+ the Cool-down duration of 
+Hidey-Ho Mode
+ by 
+-10 %
+ after successful 
+Slice & Dice Attacks
+.
+
+Portable TV
+
+Small enough for any room.
+Just keep it out of the bath.
+
+Extends
+ the duration of 
+Slice & Dice
+ to 
+170 %
+ of its default duration once the 
+Exit Gates
+ have been powered.
+
+Rat Poison
+
+The secret ingredient in a killer chilli.
+
+While performing a 
+Slice & Dice
+ attack, benefit from the following effect:
+
+The 
+Auras
+ of all Survivors within 
+6 metres
+ of your location are revealed to you for 
+2.5 seconds
+.
+
+Running Shoes
+
+The latest in high-performance killer doll athletic technology.
+
+Performing a 
+Scamper
+ grants a 
++2 %
+ 
+Haste
+ 
+Status Effect
+ for 
+5 seconds
+.
+
+Silk Pillow
+
+For when you want to smother your target with silky-smooth softness.
+
+Permanently reduces
+ your 
+Terror Radius
+ by 
+-6 metres
+.
+
+Increases
+ the Charge time of 
+Slice & Dice
+ to 
+150 %
+ of its default duration.
+
+Yardstick
+
+Good for measuring distance.
+Even better for laying down a beating.
+
+Performing a 
+Scamper
+ reveals the 
+Auras
+ of all Survivors within 
+16 metres
+ of you for 
+3 seconds
+.
+
+Mirror Shards
+
+A bunch of shattered mirror pieces that reflect light and shadow, further disorienting the already disoriented.
+
+Grants the ability to see the 
+Illusory Footfalls
+ around Survivors.
+
+Pile of Nails
+
+It is a lot easier to stay hidden when your target is worried about a pile of nails flying at their head.
+
+Grants the 
+Undetectable
+ 
+Status Effect
+ for 
+3 seconds
+ after manually ending 
+Hidey-Ho Mode
+.
+
+Plastic Bag
+
+Nothing tires out a kill like a lack of oxygen.
+
+Survivors walking through an 
+Illusory Footfall
+ suffer from the 
+Exhausted
+ 
+Status Effect
+ for 
+15 seconds
+.
+
+Straight Razor
+
+For when a close shave needs to be really, really close.
+
+Survivors hit with successful 
+Slice & Dice Attacks
+ suffer from the 
+Haemorrhage
+ and 
+Mangled
+ 
+Status Effects
+ for 
+80 seconds
+.
+
+Hard Hat
+
+Keeps the dome intact while performing high-impact activities
+
+Instantly breaks
+Pallets
+, when performing a 
+Scamper
+ under them.
+
+"A true classic never goes out of style." — Chucky
+
+Iridescent Amulet
+
+A pendant of great power, recreated within the Realm.
+
+Extends
+ the duration of 
+Hidey-Ho Mode
+ by 
++50 %
+.
+
+Basic Attacks
+ immediately end 
+Hidey-Ho Mode
+.
+
+"If I don't get out of this body soon, I'm screwed." — Chucky
+
+Innate Skill
+
+Used exclusively in 
+2v8
+ Trials, the 
+Innate Skill
+ modifies the 
+Playtime's Over
+ with the following effects:
+
+Innate Skill
+ (
+Good Guy Passive
+) 
+
+Modifies the 
+Playtime's Over
+ with the following effects:
+
+Increases
+ 
+Slice & Dice
+'s attack duration by 
+50 %
+.
+
+Increases
+ 
+Slice & Dice
+'s turn speed by 
+10 %
+.
+
+Increases
+ 
+Hidey-Ho
+'s duration by 
+15 %
+.
+
+Performing a 
+Scamper
+ under a Pallet breaks the Pallet.
+
+The Good Guy
+ can see 
+Illusory Footfalls
+ around Survivors.
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There are 
+2
+ Achievements related to 
+The Good Guy
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Good Guy
+
+Playing as The 
+Good Guy
+, achieve a 
+Merciless Victory
+ using only his 
+3
+ Unique Perks: 
+Hex: Two Can Play
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"A Hex that teaches those who mess with you a lesson."
+
+Anytime you are stunned or blinded by any Survivor a total of 
+4
+/
+3
+/
+2
+ 
+times
+, and if there is not yet a 
+Hex Totem
+ already associated with 
+Hex: Two Can Play
+ and there is at least one 
+Dull Totem
+ remaining in the Trial Grounds, 
+Hex: Two Can Play
+ activates on a random Totem:
+
+Blinds
+ all Survivors who stun or blind you for 
+1.5 seconds
+.
+
+This does not affect carried Survivors.
+
+The 
+Hex Effects
+ persist until the 
+Hex Totem
+ is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.
+
+"From now on, no more Mr Good Guy." — Chucky
+
+, 
+Friends 'til the End
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"You will kill anyone who gets between you and your target."
+
+When you hook any Survivors that is not the 
+Obsession
+, the following effects apply to the 
+Obsession
+:
+
+Their 
+Aura
+ is revealed for 
+6
+/
+8
+/
+10
+ 
+seconds
+.
+
+They suffer from the 
+Exposed
+ 
+Status Effect
+ for 
+20 seconds
+.
+
+When you hook the 
+Obsession
+, the following effects apply to a random Survivor:
+
+Causes the Survivor to scream and reveal their location to the Killer.
+
+They become the new 
+Obsession
+.
+
+You can only be 
+obsessed
+ with one Survivor at a time.
+
+"I got some fresh meat lined up, and I'm not gonna let you spoil it, not this time!" — Chucky
+
+, and 
+Batteries Included
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"Being somewhere between man and machine has its upsides."
+
+While within 
+16 metres
+ of a completed 
+Generator
+, you benefit from the following effect:
+
+Grants a 
++5 
+ 
+Haste
+ 
+Status Effect
+.
+
+This effect lingers for 
+1
+/
+3
+/
+5
+ 
+second(s)
+.
+
+"Surprise! Did you miss me, Andy?" — Chucky
+
+.
+
+Joke's on You
+
+Playing as The 
+Good Guy
+, successfully hit Survivors within 
+3 seconds
+ of performing a 
+Scamper
+ a total of 
+10 times
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Good Guy
+:
+
+Base Cosmetics
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Chucky
+
+Common
+
+A ruthless killer trapped in a doll's body. He never missed an opportunity to terrorise, even within the Entity's Realm.
+
+Good Guy Overalls
+
+Common
+
+A tiny pair of overalls adorned with playful patterns for an innocent doll.
+
+Chef's Knife
+
+Common
+
+A practical and easy-to-use weapon available in every kitchen.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Bloody Chucky
+
+Rare
+
+A ruthless killer trapped in a doll's body. He never missed an opportunity to draw blood, even within the Entity's Realm.
+
+Stained Overalls
+
+Rare
+
+A tiny pair of overalls soaked in blood for a troubled doll.
+
+Filthy Chef's Knife
+
+Rare
+
+A practical knife for cutting out the veins of his victims.
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+A ruthless killer trapped in a doll's body. He never missed an oppurtunity to terrorise, even within the Entity's realm.
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Charred Chucky
+
+Friends 'til The End
+
+03 September 2024 (Tuesday)
+
+Description
+
+He moved in for the kill as the house became engulfed in flames.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Melty Face
+
+Friends 'til The End
+
+The smells of burning flesh and plastic filled the air. There was no escape for him.
+
+Piece
+
+Name
+
+Collection
+
+Cooked Overalls
+
+Friends 'til The End
+
+The fire spread down the side of his body, and he scurried away to hide.
+
+Piece
+
+Name
+
+Collection
+
+Red-Hot Knife
+
+Friends 'til The End
+
+The blade burned brightly, a perfect match for Chucky's fiery rage.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Birthday Doll
+
+Friends 'til The End
+
+19 August 2025 (Tuesday)
+
+Description
+
+When Chucky said he was ready to party, this was not what he had in mind.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Party Hat
+
+Friends 'til The End
+
+His friends threw him a retro birthday party to celebrate the big 4-0. Holding Chucky made him feel like a kid again.
+
+Piece
+
+Name
+
+Collection
+
+Goody Bag
+
+Friends 'til The End
+
+He and his friends thought it would be fun to decorate Chucky with leftover ribbons and bows. They were gravely mistaken.
+
+Piece
+
+Name
+
+Collection
+
+Cake Knife
+
+Friends 'til The End
+
+He saved his new owner for last, wishing the man a happy birthday before slicing his throat open.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Blighted Good Guy
+
+HALLOWED BLIGHT
+
+08 October 2024 (Tuesday)
+
+Description
+
+Testing on a plastic specimen seemed like a waste of time, but the results were staggering.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Serum-Padded Brain
+
+HALLOWED BLIGHT
+
+His knowing smile never broke, even when yellow blisters swelled from within.
+
+Piece
+
+Name
+
+Collection
+
+Synthetic Protrusion
+
+HALLOWED BLIGHT
+
+Against all odds, the doll did not melt. His body sprouted random limbs that hung lifeless at his sides.
+
+Piece
+
+Name
+
+Collection
+
+Unwrapped Blade
+
+HALLOWED BLIGHT
+
+Something sharp cut through his insides. He pulled the blade out, eager to play with his new toy.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Back From The Dead Chucky
+
+Friends 'til The End
+
+28 November 2023 (Tuesday)
+
+Description
+
+A doll that has been through many deaths but always came back.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Stitched Chucky
+
+Friends 'til The End
+
+His plastic face was stitched up, but he lost a handful of hair.
+
+Piece
+
+Name
+
+Collection
+
+Damaged Overalls
+
+Friends 'til The End
+
+It was unclear if his overalls were torn from his misfortunes or his victims’ desperate grip.
+
+Piece
+
+Name
+
+Collection
+
+Hunting Blade
+
+Friends 'til The End
+
+He would not stop until he quenched his thirst for murder.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Bloody Christmas
+
+Holiday Horror
+
+09 December 2025 (Tuesday)
+
+Description
+
+On the night before Christmas, he made his escape. He tore open the wrapping and cut through the tape.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Stocking Cap
+
+Holiday Horror
+
+He said not a word, and went straight to his work. He murdered the father who looked like a jerk.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Splattered Sweater
+
+Holiday Horror
+
+The blood spilled all over; it covered his belly. Redder than red, like a bowlful of jelly.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Carved Candy Cane
+
+Holiday Horror
+
+They all heard him say as he ran out of sight, "Merry Christmas to all, I will kill you tonight!"
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+The Good Gal
+
+Friends 'til The End
+
+28 November 2023 (Tuesday)
+
+Description
+
+The Bride was marked by a rare blend of authentic kindness and a craving for murder.
+
+1485
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+The Bride of Chucky
+
+Friends 'til The End
+
+Her doll-like face concealed a dangerous yearning for blood.
+
+Piece
+
+Name
+
+Collection
+
+Wedding Dress
+
+Friends 'til The End
+
+Her bond with Chucky defied the grip of death and remained unbreakable.
+
+Piece
+
+Name
+
+Collection
+
+Bread Knife
+
+Friends 'til The End
+
+She relished the experience of cutting flesh with a serrated knife.
+
+Piece
+
+Name
+
+Collection
+
+Good Guy Sweater
+
+UGLY SWEATERS
+
+He was ready for some holiday mischief, all while staying cozy in a warm sweater.
+
+250
+
+Alternate Character Models
+
+The Good Guy
+ has 
+1
+ alternate Character models available in the in-game Store:
+
+The 
+Good Gal
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Good Guy
+ is part of 
+1
+ DLC:
+
+Chucky (Chapter)
+
+Change Log
+
+Patch 7.4.1
+Patch 8.0.0
+Patch 8.1.0
+Patch 8.4.0
+Patch 8.4.1
+Patch 8.6.0
+Patch 7.4.1
+
+Quality of Life
+:  added a short buffer after entering 
+Hidey-Ho Mode
+, before it can be cancelled again.
+
+This change was implemented to prevent 
+Hidey-Ho Mode
+ from being insta-cancelled when accidentally double-tapping the button prompt.
+Patch 8.0.0
+
+Buff
+: reduced the Power Recovery time from 
+18 seconds
+ to 
+12 seconds
+.
+
+Buff
+: reduced the 
+Scamper
+ time from 
+1.4 seconds
+ to 
+1.3 seconds
+.
+
+Nerf
+: a 
+Scamper
+ can now only be performed during a 
+Slice & Dice Attack
+.
+Patch 8.1.0
+
+Buff
+: reduced the Power Recovery time from 
+12 seconds
+ to 
+10 seconds
+.
+
+Nerf
+: delayed the Power Recovery to start at the end of a 
+Slice & Dice Attack
+.
+Patch 8.4.0
+
+Buff
+: further reduced the 
+Scamper
+ time from 
+1.3 seconds
+ to 
+1 second
+.
+
+Reversal
+: reverted the Power Recovery time back from 
+10 seconds
+ to 
+12 seconds
+.
+Patch 8.4.1
+
+Buff
+: increased the duration of 
+Slice & Dice
+ from 
+1.2 seconds
+ to 
+1.8 seconds
+.
+
+Nerf
+: reduced the Movement speed during 
+Slice & Dice
+ from 
+10 m/s
+ to 
+8 m/s
+.
+
+Nerf
+: increased the Power Recovery time from 
+12 seconds
+ to 
+14 seconds
+.
+Patch 8.6.0
+
+Undocumented Buff
+: removed the initial cool-down of 
+Hidey-Ho
+ at the start of a Trial.
+
+Quality of Life
+: reduced the time it takes to reach max speed after using 
+Slice & Dice
+ and after using 
+Scamper
+.
+
+Reversal
+: reverted the Power Recovery time back from 
+14 seconds
+ to 
+12 seconds
+.
+
+Trivia
+
+General
+
+The Good Guy
+ was the third Killer with an ability that allows them to vault faster than other Killers by using their power (i.e. Special-vault), the first being The 
+Legion
+.
+
+Chucky
+ is the first Killer to use a third-person camera and still remains the only one to use it exclusively.
+
+While some Killers after him do also feature a third-person camera, it is always in addition to a first-person one as well, which 
+Chucky
+ himself does not have.
+
+A first-person camera would not have been feasible due to his extremely short height.
+
+However, when carrying Survivors, his perspective changes to first-person as due to it now being from the perspective of the ghostly apparition of 
+Charles
+, who carries both 
+Chucky
+ and the Survivor.
+
+During the carrying animation, if The Killer decides to move their camera, both 
+Charles'
+ and 
+Chucky's
+ heads will move along.
+
+In order to Flashlight Save the carried Survivor, players must aim the 
+Flashlight
+ to 
+Charles'
+ face, not the doll.
+
+In the files, the ghost is named 
+Dodson
+.
+
+Chucky
+ occasionally flicks the bird during the 
+Tally Screen
+.
+
+Chucky
+ is the sixth licensed killer to join 2v8.
+
+Chucky
+ despite coming from 
+Child's Play 2
+ references several other films from the franchise in his Add-ons, Perks, and Skins:
+
+The Perk Friends 'til the End quotes is "I got some fresh meat lined up, and I'm not gonna let you spoil it, not this time!" and the Straight Razor Add-on comes from 
+Child's Play 3
+.
+
+Mirror Shards, Pile of Nails, Iridescent Amulet Add-ons, and the Back From The Dead Skin comes from 
+Bride of Chucky
+.
+
+Hair Spray & Candle Add-on comes from 
+Seed of Chucky
+.
+
+Rat Poison Add-on comes from 
+Curse of Chucky
+.
+
+Automatic Screwdriver comes from 
+Cult of Chucky
+.
+
+Cosmetics
+
+Most of 
+The Good Guy's
+ skins are taken from his appearances through the 
+Child's Play
+ Franchise.
+
+Default Outfit
+ is taken from 
+Child's Play
+.
+
+Back From The Dead Chucky
+ is taken from the 
+Bride of Chucky
+ when Tiffany stitches Chucky's remains back together.
+
+The Good Gal
+ originates from 
+Bride of Chucky
+.
+
+Charred Chucky
+ is taken from the fourth episode of season 1 of 
+Chucky
+ when half of Lexy's House is burned down.
+
+Blighted Good Guy
+ is based on 
+Child's Play 2
+.
+
+Bloody Christmas
+ is inspired by the Season 2 finale of 
+Chucky
+ where he slices 
+Michelle Cross
+ in half with a chainsaw while wearing a santa hat.
+
+He is the second Killer, after The 
+Legion
+, to receive an 
+Ugly Sweater
+ cosmetic.
+
+Chucky
+ is thus far the only Licensed Killer to receive one.
+
+Lore
+
+Chucky
+ was taken by The Entity during the events of 
+Child's Play 2
+, near the end of the film, to be specific.
+
+Charles
+ appears to be wearing the same pinstriped suit he died in shortly after transferring his soul into the Good Guy Doll in the opening scene of 
+Child's Play
+.
+
+Memento Mori
+
+Chucky's
+ Mori references three scenes from the first two 
+Child's Play
+ movies:
+
+The hammer references how he killed Andy's aunt, throwing a hammer at her, which caused her to stumble backwards and falling out of a window.
+
+The baseball bat references how he attacked the injured Detective towards the end of the first movie.
+
+The yardstick references how he killed Andy's school teacher in the second movie.
+
+Voice Actors
+
+Chucky
+ is voiced by 
+Brad Dourif
+.
+Dourif
+ is the original actor who portrayed 
+Charles Lee Ray
+ and voiced the Chucky doll in the 
+Child's Play
+ movies.
+
+When playing as 
+Tiffany
+, she has her own voice lines and is voiced by 
+Jennifer Tilly
+.
+Tilly
+ is the original actress who portrayed 
+Tiffany Valentine
+ and voiced the Tiffany doll in the later 
+Child's Play
+ movies.
+
+Voice Lines
+
+Chucky
+ was the fifth Killer to actively speak during Trials.
+
+Chucky
+ is aware of and recognises both 
+Nicolas Cage
+ and 
+Ash Williams
+, and will have unique voice lines for when either Character is present in the Lobby.
+
+Voice Line 
+Menu C5 05
+, which is one of those that plays when those Characters are present, makes a size joke.
+
+Chucky
+ was the first killer to get voice lines when blinded by flashlights or flash bangs.
+
+Voice Line References
+
+Voice Line 
+Menu C1 08
+ is a reference to one of the few pre-programmed sentences the Good Guy dolls can say.
+
+After possessing the doll, 
+Charles Lee Ray
+ changes the doll's name to his own nickname, but otherwise adopts the phrase verbatim and in the same voice in order to hide his true identity from the adults around 
+Andy
+.
+
+Voice Line 
+Dialog Hook 04
+ is a reference to the line Chucky says right before he kills Phil in Child’s Play 2.
+
+Voice Lines 
+Dialog Trial Start 01
+ and  
+Dialog Mori 08
+ reference the iconic line Chucky says during the climax of Child’s Play 2 right as he’s about to transfer his soul into Andy Barclay.
+
+Voice Line 
+Dialog Trial Start 04
+ is a reference to what Chucky says upon revealing he’s still alive to Andy in Child’s Play 3.
+
+Voice Line 
+Dialog Trial Start 10
+ is a quote from Bride of Chucky.
+
+Voice Lines 
+Dialog Mori 10
+ and 
+Dialog Trial Win 04
+ reference his iconic quote from Child’s Play 3 upon killing President Sullivan.
+
+Voice Line
+
+Audio
+
+Idling in the Menu
+
+"Now what do we have here?"
+
+"I love this place."
+
+"What do we have here?"
+
+"Alright, what's going on here?"
+
+"Who wants to play?"
+
+"Will you look at this."
+
+"Fun's about to begin."
+
+No audio.
+
+"Hi, I'm Chucky, and I'm your friend 'til the end! Hidey-ho, ha-ha-ha!"
+
+"This should be fun."
+
+Idling in a Lobby featuring 
+Nicolas Cage
+ or 
+Ash Williams
+
+"Wait a minute... I know that guy!"
+
+"Oh shit... is that who I think it is?"
+
+"Shit! I recognise him!"
+
+"Wait, I thought I was the star here."
+
+"You know size doesn't really matter."
+
+Attacking a Survivor.
+
+"Got something for ya!"
+
+"Got something for you, pisshead!"
+
+"Run, dipshit!"
+
+"You're mine, asshole!"
+
+"You're mine!"
+
+"Just die, already!"
+
+"Take this, dipshit!"
+
+(Laughs)
+
+(Laughs)
+
+(Laughs)
+
+"That's what you get when you play with dolls!"
+
+Blinded by a Survivor.
+
+"Ahhh!"
+
+"Sunuva bitch!"
+
+"My eyes!"
+
+"What the hell!"
+
+"Shit!"
+
+"I'm gonna break that flashlight over your freakin' head!"
+
+"Shit! I'm gonna smash you to bits!"
+
+Chasing a Survivor.
+
+"Come here!"
+
+"Come here, you dumb shit!"
+
+"You can't run from me, you stupid shit!"
+
+"I'm gonna kick your fuckin' teeth in!"
+
+"You better run!"
+
+"Where the hell do you think you're going?!"
+
+"You're mine!"
+
+"You're mine, asshole!"
+
+"I just wanna play!"
+
+"I will fucking kill you!"
+
+"I'll rip you to pieces!"
+
+"Hey! I'm one of the Good Guys!"
+
+"Why are you running? I'm the Good Guy!"
+
+"Don't be a drag!"
+
+"You're dead, you hear me?! Dead!"
+
+"Hey Pal! Slow down!"
+
+"I don't have time for this shit!"
+
+"Where the hell are you going?!"
+
+"Stop running from a doll, will ya?!"
+
+"Stop being such a chickenshit!"
+
+Downing a Survivor.
+
+"And stay down!"
+
+"About time!"
+
+"About fucking time!"
+
+"You don't look so good!"
+
+"Gottchya!"
+
+"Gottchya, you dumb shit!"
+
+"I'm amazing!"
+
+Grabbing a Survivor.
+
+"Let's go!"
+
+"Got a fun little game with hooks. You're gonna love it!"
+
+"You're mine shithead!"
+
+"You're mine, shit for brains!"
+
+"Come on, don't look so sad chump!"
+
+"Cheer up, this is gonna be fun!"
+
+"We're gonna play a little game with hooks!"
+
+"You're mine now!"
+
+(Laughs)
+
+(Laughs)
+
+"Come on."
+
+"Up you go."
+
+"There you go."
+
+"Come on, you."
+
+"Get the fuck over here."
+
+"Let's go."
+
+"Fucking doll."
+
+"Let's get you up."
+
+"Dolls can't lift shit."
+
+"Come here."
+
+Hooking a Survivor.
+
+"Don't worry. Shouldn't be too long now."
+
+"Good times."
+
+"Good times are coming."
+
+"How's it hanging?"
+
+"Playtime's over!"
+
+"You didn't stand a chance!"
+
+"You're fucked!"
+
+"Guess who's comin' for ya!"
+
+"Okay! Who's next?!"
+
+"Now that's gotta hurt!"
+
+"Ooouch!"
+
+Getting stunned.
+
+"What the?!"
+
+"Sssshit!"
+
+"I'm pissed now!"
+
+"Damn! That hurt!"
+
+"Shit! That hurst!"
+
+"That hurt!"
+
+"Oh, I'm really pissed now!"
+
+"Now I'm pissed!"
+
+"Oh, I'm pissed off!"
+
+Idling/Walking around.
+
+"Where are you shitheads hiding?"
+
+"Come out, come out, wherever you are!"
+
+"Why is everyone hiding? I just wanna play!"
+
+"Come on! Don't be a chicken!"
+
+"You can hide, but you're all screwed in the end!"
+
+"Why are you hiding? I'm the freakin' Good Guy!"
+
+"You can't hide from me!"
+
+"I'm gonna find you! And when I do, I'm gonna rip you to pieces!"
+
+"Who the hell do you think you're hiding from!"
+
+"Come on! Let's play!"
+
+"Let's play hookie."
+
+"Come on. Play fair!"
+
+"Where'd you go? Come on, I don't bite."
+
+"Where did you go? I just want to play."
+
+"That's it. Hide from freakin' doll!"
+
+Finding a Survivor hiding inside a Locker.
+
+"Gottchya!"
+
+"Gottchya, you dumb shit!"
+
+"Peek-a-boo, asshole!"
+
+"I knew it!"
+
+"You're it!"
+
+"Boo!"
+
+"You're pathetic!"
+
+"You pathetic little shit!"
+
+"Surprise!"
+
+"Hidey-fuckin-ho, ha-ha-ha!"
+
+Searching an empty Locker.
+
+"Shit..."
+
+"I thought I heard something."
+
+"Nothing."
+
+"That's disappointing."
+
+"Seriously."
+
+"Where'd you go?"
+
+"Empty. Shit."
+
+"Where are you freakin' hiding!"
+
+"Just my luck!"
+
+"Give me a break!"
+
+"Shit!"
+
+"Damn!"
+
+Killing a Survivor.
+
+"Fuck you and die!"
+
+"You're gonna freakin' pay!"
+
+"You don't run from the Chuck!"
+
+"Pathetic little shit!"
+
+"Fun, aren't I?!"
+
+"Die already!"
+
+"Good Guys... finish first! Ain't that right?"
+
+No audio.
+
+"No more Mr Good Guy!"
+
+"You fuck with the Chuck and you die!"
+
+"Don't fuck with the Chuck!"
+
+"That's what you get when you play with dolls!"
+
+"Hidey-ho, ha-ha-ha!"
+
+"Dipshit!"
+
+"Nimrod!"
+
+"Bedwetter!"
+
+"Freakin' bedwetter!"
+
+"Just die already!"
+
+"Just die!"
+
+"Sayonara!"
+
+"Fun's over, dipshit!"
+
+Entering 
+Hidey-Ho Mode
+.
+
+"Shhhh!"
+
+"Let's try this on the quiet side."
+
+"Quiet time."
+
+"Let's keep it on the down low."
+
+"Let's play the quiet game."
+
+"Okay. Let's play the quiet game."
+
+"Let's keep it quiet."
+
+"Tip toe time."
+
+Getting stunned by a Survivor.
+
+"Fuck!"
+
+"Shit!"
+
+"Piece of shit!"
+
+(Grunts)
+
+(Grunts)
+
+"Shit! I'm gonna rip you apart!"
+
+"Damn it!"
+
+"You dipshit!"
+
+"You better run!"
+
+"I'm gonna tear you apart!"
+
+Noticing Survivors escaping the Trial.
+
+"Are you kidding me?"
+
+"I ain't done with you! Come back!"
+
+No audio.
+
+"Why the hell are you leavin'? I'm not done with you!"
+
+"Come back here, you piece of shit."
+
+"Where are you going?! Get back here!"
+
+"You're leaving?! We're having fun over here!"
+
+"Get back here, shithead!"
+
+"Are you kidding me?!"
+
+"Get back here! I'm not freakin' done with you!"
+
+"Don't you leave! Don't! You! Leave!"
+
+"That's it, run!"
+
+"Piece-of-shit coward!"
+
+"Why are you scared of a freakin' doll?!"
+
+Loading into the Trial.
+
+"This is it world. No more Mr Good Guy!"
+
+"They're in a world of trouble."
+
+"We'll see if Good Guys finish last."
+
+"Ha! Can't keep a Good Guy down."
+
+"Life is full of surprises, ain't it?"
+
+"Where are you assholes?"
+
+"Okay. Let's play!"
+
+"Hi, I'm Chucky, your friend 'til the end."
+
+(Laughs)
+
+"Ah, what the hell, I need the exercise."
+
+Winning the Trial (presumably killing all Survivors).
+
+"The Good Guy always win!"
+
+"And the Good Guy wins!"
+
+"Good Guys always win!"
+
+"Don't fuck with the Chuck!"
+
+"Ha! That was easy!"
+
+"Hidey-Ho, assholes!"
+
+"I rock!"
+
+"Hidey-ho, ha-ha-ha!"
+
+(Laughs)
+
+"Yeah!"
+
+Gallery
+
+In-game Assets
+
+The Good Guy
+
+The Good Guy (Portrait render)
+
+The Good Guy (Background image)
+
+Promotional Art
+
+The Good Guy Doll
+
+Back From The Dead Chucky
+
+The Good Gal Doll from 
+Bride of Chucky
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

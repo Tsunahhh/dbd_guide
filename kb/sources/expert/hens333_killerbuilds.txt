@@ -1,0 +1,278 @@
+Titre : Hens' Killer Builds
+Auteur : Hens333
+URL : https://hens333.com/killerbuilds
+Date de publication / mise à jour : non affichée (chunk KillerHandler.e0d96896.js ; 42 tueurs, sans The Slasher ni The Judgment)
+Date de consultation : 28/09/2026
+Méthode : curl + BeautifulSoup (texte brut)
+======================================================================
+
+Hens' Killer Builds
+Hens333
+Menu
+Home
+Merch
+NEW!
+FAQ
+Callouts
+YouTube
+Prof. Hens
+YouTube
+Not Hens
+Killer Builds
+Survivor Builds
+Contact
+FAQ
+Merch
+NEW!
+Callouts
+More Hens
+YouTube
+Prof. Hens
+YouTube
+Not Hens
+Best Builds
+Killer Builds
+Survivor Builds
+Contact
+Hens' Killer Builds
+Welcome to Hens' Killer Builds! Here you'll find a curated set of builds for all the
+          killers in Dead by Daylight made by Hens.
+Each killer has three builds:
+Best Build Without Limitations
+This build is what Hens thinks is the strongest possible for the killer, including
+                  the best map for that killer.
+Best Build Without "Crutch Addons"
+This build is that Hens thinks is the strongest possible for the killer while not
+                  using any addons that might be considered too strong and therefore a "crutch" for
+                  that killer.
+Hens' Favorite Builds
+Hens' favorite build for that killer!
+To check out the builds for any killer simply click the button for the killer below!
+Choose Killer
+Builds for The Hillbilly
+Best Build Without Limitations
+Iridescent Engravings
+Engravings found on the Chainsaw body representing the dark beast that lives in The Fog.Fills the user with determination.
+Increases
+your Movement speed during a
+Chainsaw Sprint
+by
++20 %
+.
+Increases
+the Charge time of the
+Chainsaw
+by
++12 %
+.
+Spiked Boots
+Boots with strapped-on pieces of metal which burrow into mud for more stability and control with each step.
+Increases
+the Turn speed during the
+Chainsaw Sp
+
+DONNÉES COMPLÈTES EXTRAITES DU JS (tableau KillerBuilds) :
+## The Artist
+- Best Build Without Limitations: perks=Corrupt Intervention, Scourge Hook: Pain Resonance, Dead Man's Switch, Rapid Brutality | addons=Severed Hands, Untitled Agony
+- Hens' Favorite: perks=Barbecue & Chilli, Surveillance, Oppression, Discordance | addons=Severed Hands, Festering Carrion
+- Best Beginner Build: perks=Hex: Pentimento, Hex: Fortune's Fool, Scourge Hook: Pain Resonance, Grim Embrace | addons=Thick Tar, Festering Carrion
+- Unique Builds - Stagger Shot Artist: perks=Discordance, Oppression, Surveillance, Barbecue & Chilli | addons=Severed Hands, Thick Tar
+## The Blight
+- Best Build Without Limitations: perks=Corrupt Intervention, Scourge Hook: Pain Resonance, Eruption, Pop Goes the Weasel | addons=Blighted Crow, Alchemist's Ring
+- Hens' Favorite: perks=Barbecue & Chilli, Lethal Pursuer, Awakened Awareness, Agitation | addons=Blighted Crow, Blighted Rat
+- Best Beginner Build: perks=Brutal Strength, Enduring, Scourge Hook: Weeping Wounds, No Holds Barred | addons=Canker Thorn, Shredded Notes
+- Unique Builds - Stealth Blight: perks=A Nurse's Calling, Gearhead, Spies from the Shadows, Tinkerer | addons=Rose Tonic, Vigo's Journal
+## The Cannibal
+- Best Build Without Limitations: perks=Corrupt Intervention, Scourge Hook: Pain Resonance, Turn Back the Clock, Bamboozle | addons=The Beast's Marks, Iridescent Flesh
+- Hens' Favorite: perks=Corrupt Intervention, Bamboozle, Unforeseen, Scourge Hook: Pain Resonance | addons=The Beast's Marks, Primer Bulb
+- Best Beginner Build: perks=Enduring, Bamboozle, Pop Goes the Weasel, Barbecue & Chilli | addons=Primer Bulb, Vegetable Oil
+- Unique Builds - Snowball Bubba: perks=Insidious, Infectious Fright, Iron Maiden, Forced Hesitation | addons=Iridescent Flesh, The Beast's Marks
+## The Cenobite
+- Best Build Without Limitations: perks=Scourge Hook: Pain Resonance, Dead Man's Switch, Corrupt Intervention, Turn Back the Clock | addons=Impaling Wire, Greasy Black Lens
+- Hens' Favorite: perks=Hex: Ruin, Sloppy Butcher, Lethal Pursuer, Barbecue & Chilli | addons=Larry's Remains, Frank's Heart
+- Best Beginner Build: perks=Scourge Hook: Weeping Wounds, No Holds Barred, Hex: Fortune's Fool, Brutal Strength | addons=Skewered Rat, Liquified Gore
+- Unique Builds - Infinite Chainhunt Pinhead: perks=Hex: Ruin, Barbecue & Chilli, Lethal Pursuer, Sloppy Butcher | addons=Frank's Heart, Larry's Blood
+## The Clown
+- Best Build Without Limitations: perks=Corrupt Intervention, Scourge Hook: Pain Resonance, Eruption, Dragon's Grip | addons=Garish Make-Up Kit, Cheap Gin Bottle
+- Hens' Favorite: perks=Rapid Brutality, Dead Man's Switch, Scourge Hook: Pain Resonance, Brutal Strength | addons=Flask of Bleach, Ether 15 Vol%
+- Best Beginner Build: perks=Pop Goes the Weasel, Brutal Strength, Sloppy Butcher, Bamboozle | addons=Starling Feather, Thick Cork Stopper
+- Unique Builds - Speed Clown: perks=Rapid Brutality, Machine Learning, Coup de Grâce, Save the Best for Last | addons=Garish Make-Up Kit, Cheap Gin Bottle
+## The Dark Lord
+- Best Build Without Limitations: perks=Hex: Hive Mind, Hex: Thrill of the Hunt, Hex: Ruin, Hex: Pentimento | addons=Lapis Lazuli, Winged Boots
+- Hens' Favorite: perks=Hex: Ruin, Barbecue & Chilli, Spies from the Shadows, Hex: Undying | addons=Traveller's Hat, Clock Tower Gear
+- Best Beginner Build: perks=Hex: Wretched Fate, Dominance, Scourge Hook: Weeping Wounds, Hex: Fortune's Fool | addons=Clock Tower Gear, Traveller's Hat
+- Unique Build - Wolf Dracula: perks=Lethal Pursuer, Coup de Grâce, Rapid Brutality, Unforeseen | addons=Warg's Fang, Force of Echo
+## The Deathslinger
+- Best Build Without Limitations: perks=Corrupt Intervention, Scourge Hook: Pain Resonance, Dead Man's Switch, Turn Back the Clock | addons=Bayshore's Cigar, Iridescent Coin
+- Hens' Favorite: perks=Unforeseen, Eruption, Scourge Hook: Pain Resonance, Barbecue & Chilli | addons=Warden's Keys, Bayshore's Cigar
+- Best Beginner Build: perks=A Nurse's Calling, Scourge Hook: Weeping Wounds, Hex: Fortune's Fool, Dead Man's Switch | addons=Warden's Keys, Modified Ammo Belt
+- Unique Builds - 0 Terror Radius Deathslinger: perks=Monitor & Abuse, Gearhead, Whispers, Barbecue & Chilli | addons=Marshal's Badge, Gold Creek Whiskey
+## The Demogorgon
+- Best Build Without Limitations: perks=Corrupt Intervention, Scourge Hook: Pain Resonance, Turn Back the Clock, Dead Man's Switch | addons=Barb's Glasses, Leprose Lichen
+- Hens' Favorite: perks=Barbecue & Chilli, Scourge Hook: Pain Resonance, Corrupt Intervention, Grim Embrace | addons=Black Heart, Barb's Glasses
+- Best Beginner Build: perks=Bamboozle, Enduring, Pop Goes the Weasel, Scourge Hook: Weeping Wounds | addons=Barb's Glasses, Black Heart
+- Unique Builds - Devour Demogorgon: perks=Hex: Devour Hope, Hex: Undying, Hex: Thrill of the Hunt, Hex: Pentimento | addons=Deer Lung, Lifeguard Whistle
+## The Doctor
+- Best Build Without Limitations: perks=Corrupt Intervention, Scourge Hook: Pain Resonance, Dead Man's Switch, Rapid Brutality | addons="Discipline" - Carter's Notes, High Stimulus Electrode
+- Hens' Favorite: perks=Rapid Brutality, Corrupt Intervention, Scourge Hook: Pain Resonance, Merciless Storm | addons="Discipline" - Carter's Notes, "Discipline" - Class II
+- Best Beginner Build: perks=Agitation, Scourge Hook: Weeping Wounds, Pop Goes the Weasel, Brutal Strength | addons="Discipline" - Class II, Polished Electrode
+- Unique Builds - Terror Radius Doctor: perks=Merciless Storm, Unforeseen, Monitor & Abuse, Hex: Face the Darkness | addons="Calm" - Class II, "Calm" - Carter's Notes
+## The Dredge
+- Best Build Without Limitations: perks=Pop Goes the Weasel, Scourge Hook: Pain Resonance, Eruption, Corrupt Intervention | addons=Ottomarian Writing, Lavalier Microphone
+- Hens' Favorite: perks=Eruption, Corrupt Intervention, Scourge Hook: Pain Resonance, Sloppy Butcher | addons=Broken Doll, Haddie's Calendar
+- Best Beginner Build: perks=A Nurse's Calling, Tinkerer, Brutal Strength, Scourge Hook: Weeping Wounds | addons=Haddie's Calendar, Malthinker's Skull
+- Unique Builds - One Shot Dredge: perks=Make Your Choice, Dragon's Grip, Hex: Devour Hope, Friends 'Til The End | addons=Field Recorder, Lavalier Microphone
+## The Executioner
+- Best Build Without Limitations: perks=Hex: Ruin, Hex: Thrill of the Hunt, Hex: Pentimento, Hex: Hive Mind | addons=Obsidian Goblet, Cinderella Music Box
+- Hens' Favorite: perks=Trail of Torment, Dragon's Grip, A Nurse's Calling, Mindbreaker | addons=Burning Man Painting, Wax Doll
+- Best Beginner Build: perks=No Holds Barred, Scourge Hook: Weeping Wounds, Brutal Strength, Spies from the Shadows | addons=Spearhead, Wax Doll
+- Unique Builds - Jumpscare One Shot Pyramid Head: perks=Mindbreaker, Dragon's Grip, Trail of Torment, A Nurse's Calling | addons=Obsidian Goblet, Crimson Ceremony Book
+## The Ghost Face
+- Best Build Without Limitations: perks=Corrupt Intervention, Scourge Hook: Pain Resonance, Play with Your Food, Turn Back the Clock | addons=Drop-Leg Knife Sheath, Walleye's Matchbook
+- Hens' Favorite: perks=Surge, Discordance, Spies from the Shadows, Sloppy Butcher | addons=Driver's License, Drop-Leg Knife Sheath
+- Best Beginner Build: perks=Sloppy Butcher, No Holds Barred, A Nurse's Calling, Hex: Ruin | addons="Philly", Walleye's Matchbook
+- Unique Builds - Jumpscare License Ghostface: perks=Spies from the Shadows, Pop Goes the Weasel, Scourge Hook: Floods of Rage, Discordance | addons=Driver's License, "Philly"
+## The Good Guy
+- Best Build Without Limitations: perks=Scourge Hook: Pain Resonance, Corrupt Intervention, Turn Back the Clock, Dead Man's Switch | addons=Straight Razor, Jump Rope (Playtime's Over)
+- Hens' Favorite: perks=Barbecue & Chilli, Brutal Strength, Scourge Hook: Pain Resonance, Corrupt Intervention | addons=Power Drill, Jump Rope (Playtime's Over)
+- Best Beginner Build: perks=Brutal Strength, Hex: Fortune's Fool, Scourge Hook: Weeping Wounds, Friends 'Til The End | addons=Power Drill, Jump Rope (Playtime's Over)
+- Unique Build - Infinite Dash Chucky: perks=Remember Me, No Way Out, Zanshin Tactics, Terminus | addons=Portable TV, Power Drill
+## The Hag
+- Best Build Without Limitations: perks=Corrupt Intervention, Turn Back the Clock, Sloppy Butcher, Scourge Hook: Pain Resonance | addons=Rusty Shackles, Mint Rag
+- Hens' Favorite: perks=Sloppy Butcher, Corrupt Intervention, A Nurse's Calling, Spies from the Shadows | addons=Swamp Orchid Necklet, Cypress Necklet
+- Best Beginner Build: perks=Hex: Thrill of the Hunt, Hex: Devour Hope, Hex: Ruin, Sloppy Butcher | addons=Cypress Necklet, Dragonfly Wings
+- Unique Builds - Chase Hag: perks=Unrelenting, Rapid Brutality, Save the Best for Last, Play with Your Food | addons=Waterlogged Shoe, Scarred Hand
+## The Hillbilly
+- Best Build Without Limitations: perks=Barbecue & Chilli, Scourge Hook: Pain Resonance, Turn Back the Clock, Dead Man's Switch | addons=Iridescent Engravings, Spiked Boots
+- Hens' Favorite: perks=Barbecue & Chilli, Lethal Pursuer, Awakened Awareness, Agitation | addons=Iridescent Engravings, Spiked Boots
+- Best Beginner Build: perks=Scourge Hook: Weeping Wounds, Enduring, Bamboozle, Spies from the Shadows | addons=Spiked Boots, Dad's Boots
+- Unique Builds - Jumpscare Billy: perks=Hex: Fortune's Fool, Machine Learning, Mindbreaker, Trail of Torment | addons=Apex Muffler, Spiked Boots
+## The Houndmaster
+- Best Build Without Limitations: perks=Corrupt Intervention, Scourge Hook: Pain Resonance, Turn Back the Clock, Starstruck | addons=Barley Meal, Spiked Collar
+- Hens' Favorite: perks=Agitation, Awakened Awareness, Starstruck, Barbecue & Chilli | addons=Ship Figurehead, Young Coconut
+- Best Beginner Build: perks=No Quarter, Scourge Hook: Weeping Wounds, Brutal Strength, Spies from the Shadows | addons=Smoked Snapper, Young Coconut
+## The Huntress
+- Best Build Without Limitations: perks=Corrupt Intervention, Scourge Hook: Pain Resonance, Dead Man's Switch, Turn Back the Clock | addons=Flower Babushka, Rose Root
+- Hens' Favorite: perks=Darkness Revealed, Barbecue & Chilli, Lethal Pursuer, Bitter Murmur | addons=Flower Babushka, Glowing Concoction
+- Best Beginner Build: perks=Brutal Strength, No Holds Barred, Bitter Murmur, A Nurse's Calling | addons=Oak Haft, Shiny Pin
+- Unique Builds - Jump Scare Melee Huntress: perks=Discordance, Spies from the Shadows, Darkness Revealed, Coup de Grâce | addons=Soldier's Puttee, Wooden Fox
+## The Knight
+- Best Build Without Limitations: perks=Hex: Ruin, Hex: Hive Mind, Hex: Thrill of the Hunt, Hex: Pentimento | addons=Dried Horsemeat, Call to Arms
+- Hens' Favorite: perks=Discordance, Barbecue & Chilli, Scourge Hook: Pain Resonance, Corrupt Intervention | addons=Call To Arms, Map of the Realm
+- Best Beginner Build: perks=Nowhere to Hide, Scourge Hook: Weeping Wounds, Spies from the Shadows, Pop Goes the Weasel | addons=Call To Arms, Map of the Realm
+- Unique Build - Languid Spies Knight: perks=Machine Learning, Spies from the Shadows, Languid Touch, Discordance | addons=Knight's Contract, Call to Arms
+## The Legion
+- Best Build Without Limitations: perks=Corrupt Intervention, Scourge Hook: Pain Resonance, Turn Back the Clock, Bamboozle | addons=Scratched Ruler, Iridescent Button
+- Hens' Favorite: perks=Corrupt Intervention, Scourge Hook: Pain Resonance, Enduring, Spirit Fury | addons=Julie's Mix Tape, Iridescent Button
+- Best Beginner Build: perks=Scourge Hook: Weeping Wounds, Discordance, Bamboozle, Pop Goes the Weasel | addons=Mischief List, Friendship Bracelet
+- Unique Builds- 150% Speed Legion: perks=No Way Out, Hex: No One Escapes Death, Batteries Included, Machine Learning | addons=BFFs, Mural Sketch
+## The Lich
+- Best Build Without Limitations: perks=Scourge Hook: Pain Resonance, Corrupt Intervention, Turn Back the Clock, Deerstalker | addons=Boots of Speed, Raven's Feather
+- Hens' Favorite: perks=Barbecue & Chilli, Rapid Brutality, Scourge Hook: Weeping Wounds, Scourge Hook: Pain Resonance | addons=Pearl of Power, Ring of Spell Storing
+- Best Beginner Build: perks=A Nurse's Calling, Scourge Hook: Weeping Wounds, Languid Touch, Spies from the Shadows | addons=Potion of Speed, Raven's Feather
+- Unique Build - Sneak Fake Chest Vecna: perks=Trail of Torment, Rapid Brutality, Machine Learning, Dragon's Grip | addons=Cloak of Invisibility, Bag of Holding
+## The Mastermind
+- Best Build Without Limitations: perks=Pop Goes the Weasel, Scourge Hook: Pain Resonance, Eruption, Grim Embrace | addons=Iridescent Uroboros Vial, Lab Photo
+- Hens' Favorite: perks=Barbecue & Chilli, Brutal Strength, Scourge Hook: Pain Resonance, Lethal Pursuer | addons=Egg (Gold), Leather Gloves
+- Best Beginner Build: perks=Brutal Strength, Scourge Hook: Weeping Wounds, Hex: Fortune's Fool, Spies from the Shadows | addons=Uroboros Tendril, Leather Gloves
+- Unique Build - Throw Wesker: perks=Dominance, Hex: Fortune's Fool, Hex: Undying, Hex: Blood Favour | addons=Jewel Beetle, Lion Medallion
+## The Nemesis
+- Best Build Without Limitations: perks=Turn Back the Clock, Discordance, Corrupt Intervention, Scourge Hook: Pain Resonance | addons=Marvin's Blood, Licker Tongue
+- Hens' Favorite: perks=Corrupt Intervention, Hex: Ruin, Hex: Undying, Discordance | addons=Depleted Ink Ribbon, Shattered S.T.A.R.S. Badge
+- Best Beginner Build: perks=Pop Goes the Weasel, Eruption, Scourge Hook: Weeping Wounds, Lethal Pursuer | addons=Marvin's Blood, Mikhail's Eye
+- Unique Builds - Speed Zombie Nemesis: perks=Hex: Ruin, Discordance, Hex: Face the Darkness, Infectious Fright | addons=Shattered S.T.A.R.S. Badge, Depleted Ink Ribbon
+## The Nightmare
+- Best Build Without Limitations: perks=Corrupt Intervention, Scourge Hook: Pain Resonance, Pop Goes the Weasel, Eruption | addons=Unicorn Block, Jump Rope (Dream Demon)
+- Hens' Favorite: perks=Pop Goes the Weasel, Barbecue & Chilli, Rapid Brutality, Sloppy Butcher | addons=Pill Bottle, Unicorn Block
+- Best Beginner Build: perks=Pop Goes the Weasel, Tinkerer, Scourge Hook: Weeping Wounds, Brutal Strength | addons=Garden Rake, Outdoor Rope
+- Unique Builds - Skillcheck Freddy: perks=Merciless Storm, Overcharge, Hex: Huntress Lullaby, Oppression | addons=Green Dress, Blue Dress
+## The Nurse
+- Best Build Without Limitations: perks=Scourge Hook: Pain Resonance, Eruption, Lethal Pursuer, Nowhere to Hide | addons=Jenner's Last Breath, Heavy Panting
+- Hens' Favorite: perks=Barbecue & Chilli, Lethal Pursuer, Scourge Hook: Floods of Rage, Agitation | addons=Fragile Wheeze, Heavy Panting
+- Best Beginner Build: perks=Spies from the Shadows, Thanatophobia, Scourge Hook: Weeping Wounds, Predator | addons=Bad Man Keepsake, Wooden Horse
+- Unique Builds - 5 Blink Nurse: perks=Barbecue & Chilli, Hex: Fortune's Fool, Discordance, Lethal Pursuer | addons=Torn Bookmark, Jenner's Last Breath
+## The Oni
+- Best Build Without Limitations: perks=Corrupt Intervention, Eruption, Scourge Hook: Pain Resonance, Dead Man's Switch | addons=Splintered Hull, Akito's Crutch
+- Hens' Favorite: perks=Barbecue & Chilli, Corrupt Intervention, Scourge Hook: Pain Resonance, Brutal Strength | addons=Splintered Hull, Lion Fang
+- Best Beginner Build: perks=Pop Goes the Weasel, Brutal Strength, Bamboozle, Scourge Hook: Weeping Wounds | addons=Ink Lion, Cracked Sakazuki
+- Unique Builds - All Seeing Oni: perks=Machine Learning, Tinkerer, Mindbreaker, Trail of Torment | addons=Renjiro's Bloody Glove, Splintered Hull
+## The Onryō
+- Best Build Without Limitations: perks=Corrupt Intervention, Sloppy Butcher, Hex: Ruin, Hex: Face the Darkness | addons=Remote Control, Bloody Fingernails
+- Hens' Favorite: perks=Hex: Face the Darkness, Sloppy Butcher, Discordance, Spies from the Shadows | addons=Old Newspaper, Bloody Fingernails
+- Best Beginner Build: perks=Spies from the Shadows, Sloppy Butcher, A Nurse's Calling, Hex: Ruin | addons=Reiko's Watch, Old Newspaper
+- Unique Builds - Infinite Teleport Onryo: perks=Surveillance, Oppression, Sloppy Butcher, Hex: Face the Darkness | addons=Bloody Fingernails, Iridescent Videotape
+## The Pig
+- Best Build Without Limitations: perks=Scourge Hook: Pain Resonance, Pop Goes the Weasel, Eruption, Brutal Strength | addons=Rules Set No.2, Video Tape
+- Hens' Favorite: perks=Sloppy Butcher, Scourge Hook: Pain Resonance, Monitor & Abuse, Whispers | addons=Workshop Grease, Last Will
+- Best Beginner Build: perks=Hex: Fortune's Fool, Whispers, Brutal Strength, Scourge Hook: Weeping Wounds | addons=Combat Straps, John's Medical File
+- Unique Builds - Scream Pig: perks=Hex: Face the Darkness, Ultimate Weapon, Infectious Fright, THWACK! | addons=Razor Wires, Interlocking Razor
+## The Plague
+- Best Build Without Limitations: perks=Hex: Ruin, Hex: Thrill of the Hunt, Hex: Blood Favour, Hex: Pentimento | addons=Devotee's Amulet, Iridescent Seal
+- Hens' Favorite: perks=Corrupt Intervention, Scourge Hook: Pain Resonance, Eruption, Trail of Torment | addons=Rubbing Oil, Infected Emetic
+- Best Beginner Build: perks=Corrupt Intervention, Hex: Fortune's Fool, Thanatophobia, No Holds Barred | addons=Blessed Apple, Emetic Potion
+- Unique Builds - Speed Plague: perks=Play with Your Food, Batteries Included, Furtive Chase, Machine Learning | addons=Rubbing Oil, Infected Emetic
+## The Shape
+- Best Build Without Limitations: perks=Corrupt Intervention, Scourge Hook: Pain Resonance, Turn Back the Clock, Bamboozle | addons=Lock of Hair, Vanity Mirror
+- Hens' Favorite: perks=Bamboozle, Fire Up, Superior Anatomy, Dark Arrogance | addons=J. Myers Memorial, Memorial Flower
+- Best Beginner Build: perks=Bamboozle, Pop Goes the Weasel, Play with Your Food, Tinkerer | addons=Memorial Flower, Dead Rabbit
+- Unique Builds - Speed Vault Wallhack Myers: perks=Bamboozle, Superior Anatomy, Monitor & Abuse, Hex: Face the Darkness | addons=Dead Rabbit, Vanity Mirror
+## The Singularity
+- Best Build Without Limitations: perks=Rapid Brutality, Scourge Hook: Pain Resonance, Eruption, Pop Goes the Weasel | addons=Denied Requisition Form, Diagnostic Tool (Repair)
+- Hens' Favorite: perks=Corrupt Intervention, Rapid Brutality, Sloppy Butcher, Scourge Hook: Pain Resonance | addons=Kid's Ball Glove, Soma Family Photo
+- Best Beginner Build: perks=Machine Learning, Genetic Limits, Scourge Hook: Weeping Wounds, A Nurse's Calling | addons=Diagnostic Tool (Repair), Nutritional Slurry
+- Unique Build - Speed Singularity: perks=Enduring, Hubris, Coup de Grâce, Batteries Included | addons=Iridescent Crystal Shard, Diagnostic Tool (Repair)
+## The Skull Merchant
+- Best Build Without Limitations: perks=Corrupt Intervention, Scourge Hook: Pain Resonance, Turn Back the Clock, Dead Man's Switch | addons=Vital Targeting Processor, Ultrasonic Speaker
+- Hens' Favorite: perks=Dissolution, Hex: Ruin, Hex: Undying, Barbecue & Chilli | addons=Adaptive Lighting, Ultrasonic Speaker
+- Best Beginner Build: perks=Leverage, Scourge Hook: Weeping Wounds, A Nurse's Calling, Brutal Strength | addons=Adaptive Lighting, Ultrasonic Speaker
+- Unique Build - Wall Beam Skull Merchant: perks=Dissolution, Rapid Brutality, Dark Devotion, Infectious Fright | addons=Low-Power Mode, Iridescent Unpublished Manuscript
+## The Spirit
+- Best Build Without Limitations: perks=Scourge Hook: Pain Resonance, Corrupt Intervention, Turn Back the Clock, Genetic Limits | addons=Mother-Daughter Ring, Rusty Flute
+- Hens' Favorite: perks=Barbecue & Chilli, Scourge Hook: Weeping Wounds, Scourge Hook: Jagged Compass, Scourge Hook: Pain Resonance | addons=Muddy Sports Day Cap, Rusty Flute
+- Best Beginner Build: perks=Hex: Ruin, Hex: Haunted Ground, Hex: Devour Hope, Hex: Thrill of the Hunt | addons=Rusty Flute, Muddy Sports Day Cap
+- Unique Builds - One Shot Spirit : perks=Hubris, Fire Up, Brutal Strength, Enduring | addons=Kintsugi Teacup, Muddy Sports Day Cap
+## The Trapper
+- Best Build Without Limitations: perks=Corrupt Intervention, Agitation, Scourge Hook: Pain Resonance, Turn Back the Clock | addons=Bloody Coil, Iridescent Stone
+- Hens' Favorite: perks=Save the Best for Last, Agitation, Fire Up, Mad Grit | addons=Coffee Grounds, Fastening Tools
+- Best Beginner Build: perks=Agitation, Brutal Strength, Bamboozle, Pop Goes the Weasel | addons=Makeshift Wrap, Bear Oil
+- Unique Builds - Small Room Trapper: perks=Insidious, Dragon's Grip, Agitation, Mad Grit | addons=Trapper Bag, Fastening Tools
+## The Trickster
+- Best Build Without Limitations: perks=Hex: Pentimento, Hex: Ruin, Hex: Thrill of the Hunt, Hex: Crowd Control | addons=Cut Thru U Single, Ripper Brace
+- Hens' Favorite: perks=Barbecue & Chilli, Hex: Blood Favour, Corrupt Intervention, Scourge Hook: Pain Resonance | addons=Memento Blades, Waiting For You Watch
+- Best Beginner Build: perks=Hex: Crowd Control, Scourge Hook: Weeping Wounds, Hex: Fortune's Fool, No Holds Barred | addons=Tequila Moonrock, Caged Heart Shoes
+- Unique Builds - Main Event Trickster: perks=Forced Hesitation, Batteries Included, Discordance, Machine Learning | addons=Memento Blades, Waiting For You Watch
+## The Twins
+- Best Build Without Limitations: perks=Hex: Pentimento, Hex: Ruin, Hex: Hive Mind, Hex: Thrill of the Hunt | addons=Forest Stew, Madeleine's Scarf
+- Hens' Favorite: perks=Deerstalker, Scourge Hook: Pain Resonance, Corrupt Intervention, Forced Hesitation | addons=Madeleine's Scarf, Forest Stew
+- Best Beginner Build: perks=Hex: Thrill of the Hunt, Hex: Ruin, Coup de Grâce, Scourge Hook: Weeping Wounds | addons=Tiny Fingernail, Toy Sword
+- Unique Builds - Insidious Twins: perks=Deerstalker, Insidious, Forced Hesitation, Dragon's Grip | addons=Tiny Fingernail, Bloody Black Hood
+## The Unknown
+- Best Build Without Limitations: perks=Corrupt Intervention, Scourge Hook: Pain Resonance, Dead Man's Switch, Eruption | addons=Captured by the Dark, Iridescent OSS Report
+- Hens' Favorite: perks=Scourge Hook: Pain Resonance, Barbecue & Chilli, Eruption, Nowhere to Hide | addons=Slashed Backpack, Notebook of Theories
+- Best Beginner Build: perks=Unforeseen, Brutal Strength, Scourge Hook: Weeping Wounds, A Nurse's Calling | addons=Blurry Photo, Notebook of Theories
+- Unique Build - Fake Illusion Unknown: perks=Dragon's Grip, Insidious, Discordance, Scourge Hook: Floods of Rage | addons=Last Known Recording, Notebook of Theories
+## The Wraith
+- Best Build Without Limitations: perks=Sloppy Butcher, Scourge Hook: Pain Resonance, Eruption, Bamboozle | addons="Shadow Dance" - Blood, "Swift Hunt" - Blood
+- Hens' Favorite: perks=Bamboozle, Sloppy Butcher, Eruption, Scourge Hook: Pain Resonance | addons="Swift Hunt" - Blood, "Shadow Dance" - Blood
+- Best Beginner Build: perks=Pop Goes the Weasel, Bamboozle, A Nurse's Calling, Scourge Hook: Weeping Wounds | addons=Bone Clapper, "Swift Hunt" - Mud
+- Unique Builds - Dissolution Wraith: perks=Dissolution, Rapid Brutality, Hex: Crowd Control, Coup de Grâce | addons="The Beast" - Soot, "The Serpent" - Soot
+## The Xenomorph
+- Best Build Without Limitations: perks=Hex: Pentimento, Hex: Ruin, Hex: Thrill of the Hunt, Hex: Blood Favour | addons=Self-Destruct Bolt, Harpoon Gun
+- Hens' Favorite: perks=Barbecue & Chilli, Scourge Hook: Pain Resonance, Eruption, Bamboozle | addons=Self-Destruct Bolt, Lambert's Star Map
+- Best Beginner Build: perks=Bamboozle, Spies from the Shadows, Pop Goes the Weasel, Scourge Hook: Weeping Wounds | addons=Cereal Rations, Lambert's Star Map
+- Unique Build - One Shot Xenomorph: perks=Bamboozle, Enduring, Superior Anatomy, Spirit Fury | addons=Acidic Blood, Self-Destruct Bolt
+## The Ghoul
+- Best Build Without Limitations: perks=Hex: Hive Mind, Hex: Ruin, Hex: Thrill of the Hunt, Hex: Blood Favour | addons=Yamori's Mask, Fresh Coffee
+- Hens' Favorite: perks=Scourge Hook: Pain Resonance, Barbecue & Chilli, Surge, Thanatophobia | addons=Blood-Stained Handkerchief, Rize's Glasses
+- Unique Build - Endgame Kaneki: perks=No Way Out, None Are Free, Hex: No One Escapes Death, Bitter Murmur | addons=Blood-Stained Handkerchief, Coffee Grounds
+- Best Beginner Build: perks=Forever Entwined, Brutal Strength, Scourge Hook: Weeping Wounds, Spies from the Shadows | addons=Fresh Coffee, Blood-Stained Handkerchief
+## The Animatronic
+- Best Build Without Limitations: perks=Corrupt Intervention, Scourge Hook: Pain Resonance, Turn Back the Clock, Mindbreaker | addons=Foxy's Hook, Restaurant Menu
+- Hens' Favorite: perks=Batteries Included, Furtive Chase, Machine Learning, Unbound | addons=Foxy's Hook, Celebrate! Poster
+- Best Beginner Build: perks=Scourge Hook: Weeping Wounds, Brutal Strength, Tinkerer, Phantom Fear | addons=Restaurant Menu, Help Wanted Ad
+## The Krasue
+- Best Build Without Limitations: perks=Scourge Hook: Pain Resonance, Hex: Ruin, Hex: Undying, Dead Man's Switch | addons=Chicken Head, Framed Newspaper
+- Hens' Favorite: perks=Bamboozle, Barbecue & Chilli, Hex: Ruin, Hex: Undying | addons=Framed Newspaper, Dulled Knife
+- Best Beginner Build: perks=Bamboozle, Scourge Hook: Weeping Wounds, Hex: Fortune's Fool, Spies from the Shadows | addons=Luckless Mouse, Pig's Eye
+## The First
+- Best Build Without Limitations: perks=Hex: Hive Mind, Hex: Ruin, Hex: Thrill of the Hunt, Hex: Pentimento | addons=Rabbit Remains, Smashed Cassette Deck

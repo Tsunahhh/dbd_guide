@@ -1,0 +1,938 @@
+Titre : The Animatronic Guide by TabaFaba (Version 2.3.0)
+Auteur : TabaFaba
+URL : https://docs.google.com/document/d/1XcUusQV2QIsQowEAWRTZIaF-AUQxhKYNeRIZd4tT0EY/edit
+Publication / mise à jour : v2.3.0, mise à jour 11/06/2026 (indiquée dans le document)
+Consulté le : 28/09/2026 (curl, Google Docs /mobilebasic ou équivalent ; texte extrait, images non incluses)
+Trouvé via : https://otzdarva.com/dbd/killer-guides
+Statut : EXPERT OPINION (guide de joueur tueur), pas une source primaire
+----------------------------------------------------------------
+The Animatronic Guide by TabaFaba (Version 2.3.0)
+Springtrap Guide
+Welcome, New Employee!
+Welcome to your new job at Fazbear’s Fright. You will be tasked with monitoring generators, keeping track of survivors and most importantly making the necessary sacrifices for The Entity. Now please pick up your Fire Axe and Kitchen Knife, put on your springlock suit and get ready to please The Entity.
+From, Fazbear Entertainment
+Disclaimer: Most information I am currently using from my own experiences, other people’s experience and/or DBD Wiki. Images and GIFs that aren’t credited are mine.
+# Table Of Contents
+2……………………………………………… Credits and Patch Notes
+3……………………………………………… Basics about The Animatronic
+- General Information
+- Rankings
+- Teachable Perks
+- Fazbear’s Fright
+- Security Doors and Camera System
+7……………………………………………… The Animatronics Add-Ons
+- General Overview
+- Personal Tier List
+- Add-On Combos
+11……………………………………………… Add-Ons In Detail
+- Brown Add-Ons
+- Green Add-Ons
+- Blue Add-Ons
+- Purple Add-Ons
+- Visceral Add-Ons
+16……………………………………………… The Fire Axe
+- Fire Axe Stats
+- The Fire Axe trajectory
+- Area of Effect Uses
+- Addon-Ons for the Fire Axe/AoE
+20……………………………………………… Type of Axe Shots
+- Straight Shot
+- Lob Shot
+- Orbital
+- Gap Shot
+- Flicks
+- Skyrocket Orbital
+23……………………………………………… More About Security Doors
+- Linking Doors Manually
+- Doors strengths and weaknesses
+- Add-ons for Security Doors
+25……………………………………………… Perks for The Animatronic
+- Personal Perk Tier List
+- Perk Categories Ranked
+- What Characters to Unlock?
+- Killer List Order Explained
+30………………………………………………. Specific Perks in Detail
+- Hex: Blood Favor
+- Coup de Grâce
+- Batteries Included
+- A Nurse’s Calling
+- Human Greed
+- Forever Entwined & Fire Up
+- Whispers
+- Overwhelming Presence
+- Hex: Ruin
+- Surveillance
+- Phantom Fear
+- Zanshin Tactics
+34………………………………………………. Builds for The Animatronic
+- Beginner Friendly Builds
+- Chase Builds
+- Hex Builds
+- Haste Builds
+- End Game
+- All Rounded Builds
+- Meta Builds
+- Meme Builds
+67………………………………………………. Map Tierlist + Explanations
+70………………………………………………. Basic Counterplay to Generic Tiles
+- Killer Shack
+- Trash Pile Gyms
+- TL Walls
+- 4 Lanes
+- Long Wall Gyms
+- Short Wall Gyms
+- Pallet Gyms
+- Variant Gyms
+- Window Gyms
+- Labyrinth Tiles
+- Locker Gyms
+- Filler Pallets
+129………………………………………………. Tips for The Animatronic
+131………………………………………………. Employees of The Month
+131………………………………………………. Other Useful Sources
+Written by: TabaFaba
+Contributions: theMrHeadache , SkinnyQuinny
+Updated 6/11/2026
+Patch Notes:
+- Updated Map Tierlist
+- Updated text explanations
+- Added new text explanation
+# The Animatronic
+“I can taste the FEAR!”
+The Animatronic, aka Springtrap, is an all rounded killer that is incredible in 1v1 chases. His Security Doors grants him the ability to traverse the map at will and grant himself stealth. His power, Fazbear’s Fright, gives him decent range with strong zoning. To top it off, his add-ons allow him to be played in almost any way you could imagine.
+General Information
+Power: Fazbear’s Fright
+Movement Speed (With Fire Axe): 110% | 4.4m/s
+Movement Speed (Without Fire Axe): 115% | 4.6m/s
+Terror Radius: 24 Meters
+Rankings
+The rankings will be from D to S rank, ranking The Animatronic in different categories.
+Power Design - A-
+Add-On Design - B-
+Perks - C-
+Lethality - B+
+Map Pressure - B+
+Gen Control - S
+Chase - B+
+Tunneling - A
+Camping - A-
+Spreading Hooks - B-
+Slugging - D+
+Teachable Perks Info
+Haywire: Whenever a Survivor stops opening an Exit Gate after accumulating at least 80% Progression towards being opened, Haywire causes it to regress:
+- Regresses at a rate of 80/90/100% of the normal Gate-Opening speed.
+- Causes Survivors to see the lights atop the switch flickering randomly while it regresses.
+Help Wanted: After performing the Damage Generator action, Help Wanted activates:
+- Causes that Generator to become a Compromised Generator.
+Once the Compromised Generator is completed, you benefit from the following effect for 40/50/60 seconds:
+- Increases the Recovery speed of successful Basic Attacks by +25%
+Phantom Fear: Whenever a Survivor within your Terror Radius looks at you, they suffer from the following effects:
+- Causes them to scream and reveal their Aura to you for 2 seconds.
+Phantom Fear has a cool-down of 80/70/60 seconds.
+(Source: DBD Wiki )
+Power: Fazbear’s Fright
+"The Animatronic lived to kill, even when his mechanical costume became his tomb."
+When spawning in the trial, 7 security doors will spawn across the map (occupying chest spawn placements). We will get to the security door in a little bit. For his main power, Springtrap wields a Fire Axe that he can throw and embed survivors with at range.
+Embedded Survivors: Survivors embedded with the Fire Axe will not only be injured, but will also gain the Broken and the Oblivious status effects. While embedded, survivors can try to remove the axe by either doing it themselves (takes 8 seconds, can be performed while running) or by another survivor (takes 5 seconds.) When The Animatronic is in range of the embedded survivor (3 meters,) he can perform a grab attack which will carry out a short animation before automatically putting the survivor on his shoulder.
+“RAWRRRR!”
+Near Missed on Survivor: Nearly missing a survivor with your axe will grant you Killer Instinct for 2 seconds.
+Area of Effect: When embedding the axe into the environment, a small 2 meter bubble will spawn around the axe for 15 seconds. Survivors that go through the AoE will give Killer Instinct till they leave the bubble. *Certain add-ons will affect this*
+Recalling the Axe: Recalling the axe will begin after it has been embedded/downs a survivor or is embedded in the environment. The time it takes depends on whether you missed it or not. Missing the axe will have a 6 second recharge. While embedding and/or downing a survivor will have a 8 second recharge. The recharge begins as the throw action is initiated.
+(Updated in 9.6.0)
+Security Doors + Camera System
+"You will not be spared, you will not be saved"
+The iconic Security Doors and Camera System is Springtrap's secondary power, allowing both The Animatronic and survivors to traverse the map and giving survivors the ability to use cameras to reveal Springtrap to their team.
+The Animatronic using the Doors: When The Animatronic enters the Security Door, he is given full access to every other door around the map. The doors will always spawn nearby generators. After exiting a Security Door, The Animatronic will gain Undetectable for 20 seconds. If he is revealed by a survivor, however, undetectable will immediately cancel. *Certain add-ons will affect this.* The Animatronic can also temporarily disable doors by tossing his axe at them. It will also cancel out survivors revealing him.
+Killer Teleporting
+Disabling Door + Cameras
+Survivors Using the Doors: The Animatronic isn’t the only one who can use the Security Door to his benefit. Survivors can also use the doors to teleport around the map, however, they will drain battery life. Survivors also have another function being the Security Cameras. If a survivor stares at The Animatronic for 4 seconds (distance he needs to be in has to be at least 18 meters) his Aura will be revealed to all survivors for 10 seconds.
+Camera System UI
+Revealing The Animatronic (Killer POV)
+Reveal Audio
+Battery Life: However, unlike The Animatronic, survivors cannot use the doors infinitely. Every time a survivor uses the Security Doors, they’ll drain battery life. At 0%, the doors will power down and be unusable for survivors while The Animatronic has full reign over them.
+# The Animatronics Add-Ons
+"I always come back"
+Add-ons can make or break a killer, and thankfully Springtrap has plenty of add-ons that allow him to be played in any way you could imagine.
+Brown Add-Ons
+Greasy Paper Plate: While removing the Fire Axe embedded in them, the Survivor suffers from the following effect:
+- Increases the Removal time by +15%.
+Help Wanted Ad: While winding up an axe throw, you benefit from the following effect:
+- Shows the starting trajectory of the Fire Axe.
+Restaurant Menu (Nerfed in 9.6.0): While retrieving the Fire Axe whenever it is embedded in the environment, you benefit from the following effect:
+- Reduces the minimum Retrieval time by -10%.
+Rotten Pizza: You benefit from the following effect:
+- Increases the duration of Killer Instinct from the Fire Axe by +100%.
+Green Add-Ons
+Office Phone: Decreases the time required to remove the Fire Axe from another Survivor by -50%.
+While within 24 metres of the Survivor embedded with the Fire Axe, other Survivors suffer from the primary effect:
+- Inflicts the Oblivious Status Effect.
+Additionally, if they are in the Injured State ,they also suffer from the secondary effect:
+- Inflicts the Broken Status Effect.
+Party Hat: While the Fire Axe is embedded in the environment, the following effects apply:
+- Increases its Area of Effect to 250% for 3 seconds.
+- Reduces the duration of the Area of Effect by -20%.
+Ripped Curtain: Survivors hit with the Fire Axe suffer from the following effects:
+- Inflicts the Hemorrhage and Mangled Status Effects for 60 seconds.
+Security Guard's Badge: Upon exiting a Security Door after teleporting to it, the following effect applies:
+- Extends the duration of the Undetectable Status Effect by +25% to 25 seconds.
+Streamers: While travelling through the Security Doors, you benefit from the following effect:
+- Increases your Movement Speed by +15%.
+Blue Add-Ons
+Bonnie's Guitar Strings: Unlocks potential in your Aura-reading ability while moving between Security Doors:
+- The intensity of the Generator Auras  reveals their current Repair progress.
+Upon exiting a Security Door after teleporting to it, the following effect applies:
+- Reduces the duration of the Undetectable Status Effect by -100% to 0 seconds.
+This causes the Status Effect to be removed instantly.
+Chica's Bib: While inside the Area of Effect of the Fire Axe, Survivors suffer from the following effect:
+- Inflicts the Exhausted Status Effect .
+This effect lingers for 5 seconds after leaving the Area of Effect .
+Foxy's Hook: While inside the Area of Effect of the Fire Axe, Players benefit from the following effect:
+- Grants a +7% Haste Status Effec t.
+This effect lingers for 6 seconds after leaving the Area of Effect .
+Freddy's Hat: Modifies the trajectory of the Fire Axe:
+- Increases the weight of the Fire Axe by +100%.
+Purple Guy Drawing: While a Survivor has the Fire Axe embedded in them, whenever they perform a Rushed action of any kind, Purple Guy Drawing triggers its primary effect:
+- Their Aura is revealed to you for 3 seconds.
+After removing the Fire Axe by themselves, Purple Guy Drawing triggers its secondary effect:
+- Their Aura is revealed to you for 6 seconds.
+Purple Add-Ons
+Access Panel (Buffed in 9.6.0): U nlocks a special ability for the Fire Axe:
+- The Fire Axe can travel through Security Doors and will exit straight through the connected Security Door.
+While aiming the Fire Axe, you benefit from the following effect:
+- Survivors within 6 metres of any Security Door trigger Killer Instinct.
+Celebrate! Poster: After embedding the Fire Axe in a Survivor, all Players benefit from the following effects while within 32 metres of that Survivor:
+- Grants a +12% Haste Status Effect.
+- Increases the Vaulting speed by +20%.
+Both effects last until the Fire Axe is removed.
+Endo CPU: While inside the Area of Effect of the embedded Fire Axe, you benefit from the following effect:
+- Increases the Action speeds for Breaking and Damaging by +40%.
+This effect lingers for 5 seconds after leaving the Area of Effec t.
+Loot Bag: While a Survivor has the Fire Axe embedded in them, they suffer from the following effect:
+- Blocks the Exit Gates for that Survivor and also for all other Survivors within 12 metres of them.
+Visceral Add-Ons
+Faz-Coin: Upon throwing the Fire Axe, the following effects are applied:
+- Causes the Fire Axe to emit a copy of your Terror Radius until it is retrieved.
+- This Terror Radius is set to 24 metres.
+- Grants the Undetectable Status Effect for 10 seconds.
+Iridescent Remnant: Upon travelling to a Security Door, the following effect is applied to it:
+- Blocks all upright Pallets within 32 metres of that Security Door for 12 seconds.
+(Source: DBD Wiki )
+Personal Tier List
+(9.5.1 Update)
+Add-On Combos
+⭐’s are used for combos efficiency. One star being not very efficient and five stars being the best combos.
+- Help Wanted Ad + Restaurant Menu (⭐) - This add-on combo allows newcomers to Springtrap get used to his power while not being too punished for missing.
+- Restaurant Menu + Streamers (⭐) - Another very beginner friendly combo for players who are still learning the axe’s range and trajectory and also want a faster traversal through Security Doors.
+- Foxy’s Hook + Restaurant Menu (⭐⭐) - This add-on allows players to play Springtrap as an M1 killer, giving themselves 7% Haste for 6 seconds every time they go throw the AoE and picking up the Axe to move the AoE elsewhere for chase.
+- Streamers + Bonnie’s Guitar Strings (⭐⭐) - This combo allows players to see what generators are being worked while in the Security Door due to Bonnie’s Guitar Strings (Note: You will not be granted Undetectable using this add-on.) Streamers will allow you to teleport from door to door 15% faster.
+- Bonnie’s Guitar Strings + Security Guard’s Badge (⭐⭐) - Same reason as above, but gives you some Undetectable from coming out the door due to Security Guard’s Badge.
+- Iri Remnant + Streamers (⭐⭐) - Iri Remnant will block all upright pallets 32 meters away from whatever current Security Door you’ve exited from for 12 seconds. Streamers faster door movement speed allows you to gain more value from the 12 second window of pallets being blocked whenever you teleport to find your next target.
+- Party Hat + Chica’s Bib (⭐⭐⭐) - This combo increases the AoE effect by 250% (2 meters to 7 meters) for 3 seconds, making it bigger and causing survivors to gain Exhaustion till they leave the AoE, which makes the effect linger for 5 seconds due to Chica’s Bib. Using this before or during a chase will make survivors not be able to use any exhaustion perks while running. However, the duration of the AoE is decreased by 20% (15 seconds to 12 seconds.)
+- Party Hat + Foxy’s Hook (⭐⭐⭐) - This combo allows you to access your haste quicker while chasing a survivor while reducing the duration of the AoE so the survivor won’t be able to gain another boost of Haste.
+- Purple Guy Drawing + Celebrate Poster (⭐⭐⭐) - Celebrate Poster grants both you, the embedded survivor and any survivor near the embedded survivor 12% Haste and 20% faster vault speeds till the axe is removed or recalled. Thanks to Purple Guy Drawing, you will see the Aura of the embedded survivor for 3 seconds whenever they perform a rushed action (i.e: Vaulting a Pallet or Fast/Medium Vaulting a Window.) When they remove the axe from themselves, you get to see their Aura again for 6 seconds. This combo allows you to keep track of the survivor during chase, and gives you some help tracking them down if you ever lose the embedded survivor.
+- Access Panel + Faz-Coin (⭐⭐⭐) - Access Panel gives you the ability to throw your axe through linked Security Doors and get Killer Instinct whenever a survivor is near a Security Door (4 meters.) While Faz-Coin transfers your terror radius to the axe whenever you throw it for 10 seconds. This combo allows you to trick survivors and sneak up on them when they’re most vulnerable.
+- Celebrate Poster + Ripped Curtain (⭐⭐⭐) - This combo gives you the speed to down embedded survivors quickly while applying both Hemorrhage and Mangled making the embedded survivor take longer to heal after getting unhooked.
+- Greasy Paper Plate + Celebrate Poster (⭐⭐⭐⭐) - This combo allows you to stay 12% faster while in chase with the embedded survivor for longer due to Greasy Paper Plate increasing the time to remove the axe by 15% (8 seconds to 9.2 seconds.)
+- Endo CPU + Bonnie’s Guitar Strings  (⭐⭐⭐⭐) - This combo allows you see which generator has the most progress currently while using your doors and giving yourself a 40% speed increase to kicking damage whenever you walk through the axes AoE gives Springtrap a consistent way to use kick perks after exiting a door.
+- Foxy’s Hook + Celebrate Poster  (⭐⭐⭐⭐) - This combo will always guarantee you to gain 7 to 12 percent Haste whenever you miss or embed a survivor with your axe.
+- Party Hat + Access Panel (⭐⭐⭐⭐⭐) - This combo allows you to have full on information on where survivors currently are when you raise up your axe due to Access Panel. Paired with Party Hat’s extended radius, you’ll be able to track survivors throughout the trial.
+- Foxy’s Hook + Endo CPU (⭐⭐⭐⭐⭐) - This combo allows you to gain both the Haste effect and the ability to kick pallets, breakable walls, and generators 40% faster (1.8 seconds to 2.52 seconds not *accounting for perks that increase kick speeds.* )
+- Chica’s Bib + Endo CPU (⭐⭐⭐⭐⭐) - This combo not only allows you to damage generators and destroy pallets/breakable walls 40% faster, but also tricks the survivors to Exhaust themselves for 5 seconds when walking into the AoE when watching you walk through it for CPU. CPU not only gives you benefits, but survivors who think you were using Foxy’s Hook rids themselves of exhaustion perks unless they start walking.
+- More Will Be Added Soon
+# Add-Ons In Detail
+"I promise a fun time."
+This segment will go over Springtraps’ add-ons in more detail and why some should be used and some shouldn’t be used. I will be going in order from Greasy Paper Plate to Iridescent Remnant.
+⭐'s are used for ranking the add-ons. One star means very weak and five stars means the best of the best.
+Greasy Paper Plate (⭐⭐)
+The first brown add-on is the Greasy Paper Plate! A very simple add-on, allowing you to go for an axe grab a bit more consistently. It also extends how long Celebrate Poster and Loot Bag are embedded in the survivors. Not a very strong add-on, but better than some of his other add-ons.
+Help Wanted Ad (⭐⭐)
+Springtrap’s second brown add-on is Help Wanted Ad. This add-on should only be used when you are first learning Springtrap and that’s it. Otherwise, this add-on becomes a crutch and will not allow you to use his better add-ons.
+Restaurant Menu (⭐⭐⭐⭐⭐)
+By far Springtrap’s best add-on, and surprisingly or unsurprisingly, is the brown add-on Restaurant Menu. This add-on isn’t only a very good beginner add-on, being less punished for learning how the axe trajectory works, but it basically allows you to have access to your power whenever you miss. This also pairs well with AoE add-ons like Foxy’s Hook.
+Rotten Pizza (⭐)
+Springtrap’s final brown add-on and the second weakest add-on overall is Rotten Pizza. There’s nothing really to say here, longer Killer Instinct duration is okay , but his other add-ons do more for him and are more efficient than Rotten Pizza.
+Office Phone (⭐)
+Springtrap’s weakest add-on in the entire add-on pool is none other than Office Phone. On paper, Office Phone looks like an interesting way to play hit-and-run with him or make him more stealthy while also making survivors Broken while around the embedded survivor. However, the biggest downside to this add-on is the fact that it’s very hard to injure multiple survivors at once with Springtrap. Not only that, but the injured survivor can also see the Fire Axe on the embedded survivor and not go near them. Besides if you want to make survivors Broken, Forced Penance is more useful and consistent.
+Party Hat (⭐⭐)
+The green add-on in Springtraps kit is the Party Hat. Party Hat is overall a very niche add-on, basically allowing you to get information on survivors in wider areas,and afflict status effects on yourself and the survivors more easily!
+Ripped Curtain (⭐⭐⭐⭐)
+Of course the mandatory Hemorrhage and Mangled add-on is Ripped Curtain. Overall it’s just pretty decent. Very good for anti-healing builds and for Celebrate Poster builds. Also rewards you for hitting your axe shots on survivors.
+Security Guard’s Badge (⭐⭐)
+Security Guard’s Badge is Springtrap’s first stealth related add-on. It is pretty niche, only making Undetectable last 5 seconds longer when exiting a security door. This add-on is only used in stealth builds or to slightly mitigate the downside of Bonnie’s Guitar Strings.
+Streamers (⭐⭐⭐⭐)
+Springtrap's final green add-on is Streamers. This is more of a feels good add-on rather than helping in any major way. It is normally paired with Bonnie’s Guitar Strings, but overall it isn’t bad to run it just to get out of doors faster.
+Bonnie’s Guitar Strings (⭐⭐⭐⭐⭐)
+Another top three add-on for Springtrap is of course Bonnie’s Guitar Strings. The ability to know the repair progress of all generators when inside a door makes kick perks extremely good on Springtrap. It is also useful for finding survivors very early on. The downside of losing Undetectable doesn’t mean too much, since survivors will likely pre-run if you’re using the doors.
+Chica’s Bib (⭐⭐⭐)
+Chica’s Bib is an decent way to make survivors Exhausted , especially since near misses can still trigger them getting Exhausted (however, I need to test this more.) This add-on can also trick survivors into thinking you have Foxy’s Hook, making them exhaust themselves thinking they will gain Haste.
+Foxy’s Hook (⭐⭐⭐⭐⭐)
+Another one of Springtraps’ best add-ons is Foxy’s Hook. Being able to gain 7% Haste on will is very strong, basically making Springtrap a 122% base movement speed killer (since he becomes 115 without the axe) when inside the AoE or for 6 seconds. However, the downside to add-on is that survivors can also gain the 7% Haste. This makes whiffing shots even more punishing and makes chases take longer than needed. Height Mogging (tech discovered by UnladenCrow ) removes this downside, but it requires a lot of practice to set it up consistently.
+Freddy’s Hat (⭐)
+A rare time a meme add-on is Blue Rarity instead of Brown Rarity is Freddy’s Hat. Freddy’s Hat decreases the max trajectory range of the axe. I do not recommend using this add-on unless you are going for something very specific.
+Purple Guy Drawing (⭐⭐⭐⭐)
+Springtrap's final and very good blue add-on is Purple Guy Drawing. Purple Guy Drawing awards you for embedding survivors with free aura reading whenever a rushed action is performed anywhere on the map. Not only that, you also get 6 seconds of aura reading whenever the survivor removes the axe themselves. Though this only works if the embedded survivor does it, and not by their teammates or you recalling the axe.
+Access Panel (⭐⭐⭐)
+The first purple add-on on the list is Access Panel. This add-on is an overall decent way to track survivors whereabouts, gaining Killer Instinct whenever a survivor is 6 meters from a door. This is very useful at the start of the game as well, learning where survivors spawned at. This add-on really shines whenever you pair it with Party Hat, being able to send your axe through a door and cover a pretty good area to track survivors (combo is mainly useful for Hex builds.)
+Celebrate Poster (⭐⭐⭐⭐)
+This add-on can be a way less punishing and more consistent Foxy’s Hook, giving you 12% Haste and 20% vaulting speed whenever you embed a survivor. While yes the embedded survivor and survivors within 32 meters also gain this effect, this add-on ends chases so quickly that it doesn’t even matter if the survivor is also 12% faster. This add-on shines even more with Haste or vault perks (ie: Batteries Included, Dark Arrogance, Bamboozle, Game Afoot, etc.) However, you need to be consistent with landing your shots.
+Endo CPU (⭐⭐⭐)
+The second to last purple add-on to talk about is Endo CPU. This add-on, in my opinion, pairs extremely well with Bonnie’s Guitar Strings. Being able to damage the most progressed generator 40% faster makes getting back into chase or patrolling generators faster. This add-on is also good in very aggressive builds (Battletrap being one of them) or just make kick builds more consistent. This add-on, just like Chica’s Bib, also tricks survivors into thinking you have Foxy’s Hook. This allows you to get a free hit on them or quickly destroy a recourse when they realize you don’t have Foxy’s Hook.
+Loot Bag (⭐⭐⭐)
+Springtrap’s final purple add-on is the one and only Loot Bag. Loot Bag is a very situational add-on, blocking the exit gates whenever you embed a survivor with your axe. This also blocks the gates for survivors that are within 12 meters of the embedded survivor. This add-on is usually used in end game builds or at the very least paired with Blood Warden. However, it can catch survivors off guard in the end game.
+Faz-Coin (⭐⭐)
+The second to last add-on in Springtrap’s arsenal is Fazbear Entertainments Faz-Coin. This is his second stealth related add-on, being able to both gain 10 seconds of Undetectable and transfer your terror radius to your axe whenever it's thrown. This add-on is more usable in stealth builds, but can also be paired well with certain perk combos (ie: Clouraphobia in anti-heal builds or to trigger Infectious Fright in other parts of the map.)
+Iridescent Remnant (⭐)
+And for the final add-on is the molten metal Iridescent Remnant. On paper, this add-on looks incredible! Being able to block all pallets for 12 seconds within 32 meters when traveling to a security door. However, that is where the problem lies. It doesn’t trigger upon exiting the door, but when you are traveling through the door (which makes the pallets be blocked for 7 seconds in total.) This makes blocking the pallets barely do anything for you once you exit the door. If it triggered upon exiting, then this add-on would be even better, but for now you either don’t use it or are forced to run Streamers to increase the time you get to use the blocked pallets.
+# The Fire Axe
+“The darkest pit of hell is open for business”
+The main part of Springtraps power, Fazbear’s Fright, is his ranged weapon. The Fire Axe, much like The Huntress, can be used to zone survivors and/or get a quick injury from range. However unlike The Huntress, the trajectory and weight of the axe differs heavily. This alone makes his power more similar to The Unknown with his arc shots and orbitals.
+Fire Axe Stats
+Fire Axe:
+- Winding up a Throw: 1 second
+- Winding up grace period: 0.15 seconds
+(The grace period is part of the winding up phase and starts as soon as the input for it is initiated, making the wind up action seem shorter than it actually is.)
+- Cancel Wind up: 1 second
+- Recall Duration: 1.5 seconds
+- Post-Throw Cool-down Duration: 2 seconds
+(This cool-down starts after the projectile launch phase is finished.)
+- Missed Fire Axe Recharge: 6 seconds
+- Successful Fire Axe Recharge: 8 seconds
+(The cooldown starts as soon as the projectile lands on a player or the environment.)
+- Projectile Launch: 0.25 seconds
+- Projectile Speed: 30 m/s
+- Projectile Gravity: 68.6 m/s2
+- Projectile Maximum Range: 16 metres
+Hitboxes:
+- Environmental Collision Radius: 0.05 metres
+- Survivor Detection Radius: 0.55 metres
+Grab/Jumpscare:
+- Grab Survivor Interaction: 4.2 seconds
+- Grab distance: 3 metres
+- Killer look angle tolerance for a valid grab: 45°
+Area of Effect:
+- AoE shrinking time: 0 seconds
+- AoE expansion time: 0.5 seconds
+- AoE duration: 15 seconds
+- Initial AoE Radius: 1 metre
+- Final AoE Radius: 2 metres
+Near-Miss:
+- Near-Miss Killer Instinct Duration: 2 seconds
+- Near-Miss Radius: 1 meter
+(Source: DBD Wiki )
+The Fire Axe Trajectory
+The Trajectory of the Fire Axe is what makes him different from The Huntress. While she excles at longer range pressure and being able to quickly down survivors with multiple hatchets, Springtrap’s max distance he can throw his axe is 16 meters flat. And with only having one projectile, he cannot down multiple survivors quickly. His unique trajectory allows him to play around loops unlike most other killers due to the unique arc it makes. This allows him to hit over walls, hills and over obstacles. These are known as Orbitals.
+Orbital Examples
+Trajectory and Distance (No Freddy’s Hat)
+Trajectory and Distance (With Freddy’s Hat)
+Area of Effect Uses
+Whenever the fire axe is embedded into the environment, it will create an expanding bubble (takes 0.5 seconds) that has a 2 meter radius. Whenever survivors enter the radius, Springtrap will be given Killer Instinct allowing him to effectively know where the survivors current location is. The AoE can also help Springtrap in many other ways as well.
+⭐’s are used for how efficient using the AoE for certain actions . One Star being niche and Three Stars being useful.
+Add-On Effects ( ⭐⭐⭐ ) : This is obvious as some of the add-ons affect the AoE giving it unique traits. I’ll talk more about it in a bit.
+Locating Survivors ( ⭐ ⭐⭐) : Another way to use the AoE is to locate where survivors currently are.
+Checking Lockers ( ⭐⭐⭐) : Some survivors will try and hide in lockers to make it difficult to track them. However, thanks to Killer Instinct the AoE gives you, you will be able to know which locker the survivor is exactly in or do process of elimination.
+Checking Check Spots ( ⭐⭐) : While in chase, a survivor will occasionally position themselves in what are known as Check Spots (spots in a loop that gives them a view of which way the killer is approaching in a loop.) However, Springtrap can use the AoE of the axe to reveal survivors in Check Spots in order to try and play around it.
+Searching Two Places at Once ( ⭐ ): Another way to use the AoE is to leave your axe in an area where you think a survivor will end up going while checking elsewhere.
+Keeping an Eye on Generators ( ⭐⭐ ): Survivors will pre-run when they see or hear you coming to make distance. Throwing your axe at or near the generator they were working on will give you a notification of the survivor going back to their generator or someone else currently working on the generator.
+Add-Ons For The Fire Axe/AoE
+Here I’ll be going over and ranking each add-on that affects both the Fire Axe and the AoE so you can figure out which one will be more useful to use ( this will be changed regularly regarding killer changes.)
+Fire Axe Add-Ons
+⭐’s are used for how efficient each add-on is. One Star being niche and Three Stars being useful .
+Help Wanted Ad - ⭐
+Office Phone - ⭐
+Freddy’s Hat - ⭐
+Loot Bag - ⭐⭐
+Faz-Coin - ⭐⭐
+Ripped Curtain - ⭐⭐⭐
+Purple Guy Drawing - ⭐⭐⭐
+Restaurant Menu - ⭐⭐⭐
+Greasy Paper Plate - ⭐⭐ ⭐
+Celebrate Poster - ⭐⭐⭐
+AoE Add-Ons
+Rotten Pizza - ⭐
+Faz-Coin - ⭐⭐
+Chica’s Bib - ⭐⭐⭐
+Party Hat - ⭐⭐⭐
+Foxy’s Hook - ⭐⭐⭐
+Endo CPU - ⭐⭐⭐
+# Types of Axe Shots
+“Fear and Death. Perfect.”
+Now that we know about the trajectory of the Fire Axe, I will go over some shots you can perform with your power. I will be ranking them from how consistent they are to pull off in a match and how difficult they are to learn . This will go over Orbitals, Flicks, Lob Shots, etc.
+⭐’s are used to rank how difficult shots are to learn. One star means very easy and five stars means very hard.
+Type of Shot: Straight Shot
+Consistency Rating: Consistent
+Difficulty Rank: ⭐
+Brief Description: The most basic and easiest shot to learn as Springtrap is the straight shot. They are very simple and straightforward to learn and easy to consistently land in matches. However, survivors being unpredictable can make you miss them. Holding the axe for a few seconds before throwing will force survivors to try and dodge, making it easier to follow their movements and/or land a Basic Attack (unless they aren’t looking behind themselves, then throw it.) You also get them from survivors entering animation locks (ie: vaulting a window or throwing a pallet.)
+Type of Shot: Lob Shot
+Consistency Rating: Semi-Consistent to Consistent
+Difficulty Rank: ⭐⭐ to ⭐⭐⭐⭐
+Brief Description: Lob shots are another fairly simple, yet somewhat challenging shot to learn when playing Springtrap. You perform these shots by aiming slightly over obstacles (ie: cars or rocks) before throwing your axe. These can be very tricky to land if survivors have a clear Line of Sight (LoS) on you. However, you can use LoS blockers to your advantage by hiding yourself, winding the axe up and adjusting your aim to where the survivor will end up running to (warning: this takes a lot of knowledge of survivor pathing.) You can also shimmy in order to get survivors to a desirable spot before throwing the axe as well.
+Type of Shot: Orbitals (Long Range)
+Difficulty Rank: ⭐⭐⭐⭐
+Brief Description: The main star of the show and probably the main reason you want to learn Springtrap are his Orbitals. This version of his Orbital is mainly achieved by arcing your axe high enough before throwing it at a distance in order to hit a survivor. These are very hard to learn and can be very inconsistent to land in real games, but as time goes on it will naturally become second nature to set up Orbitals. Easiest ways to get them is when a survivor is unhooking another survivor (or if you hit the unhooked survivor.) You can also set up Orbitals by using LoS blockers when chasing a survivor, giving yourself time to prep the axe. Of course, you also have to learn how survivors will path as well when learning Orbitals.
+Type of Shot: Gap Shot
+Difficulty Rank: ⭐⭐⭐ to ⭐⭐⭐⭐⭐
+Brief Description: Springtrap’s axe hitbox is small enough to go through certain gaps on almost every map. Gap shots require a lot of knowledge of the tile you are playing on, understanding the axe hitbox and understanding collision in DBD. Much like Deathslinger, Springtrap can throw his axe through small gaps between rocks or objects. He can also throw his axe through ceiling gaps (mainly certain shack maps) and small gaps at higher verticality (ie: small gap at the top right of Forsaken Boneyard shack.)
+Type of Shot: Flicks
+Consistency Rating: Inconsistent
+Difficulty Rank: ⭐⭐⭐⭐⭐
+Brief Description: A very inconsistent, yet stylish way to land shots with your axe on survivors is by flicking. Flicking your mouse very quickly makes predicting where you’re throwing your axe difficult due to how fast you’re turning your camera and letting go of your axe. I do not recommend learning or going for flicks due to how inconsistent they can be (ie: random survivor pathing or overshooting.) When you get better at Springtrap and get more comfortable with his axe speed, then you can try going for flicks for fun.
+Type of Shot: Skyrocket Orbital
+Consistency Rating: VERY INCONSISTENT
+Difficulty Rank: ⭐⭐⭐⭐⭐⭐
+Brief Description: By far the hardest shot you can learn as Springtrap are Orbitals that he shoots almost completely upwards (or what I am going to call them Skyrocket Orbitals.) These Orbitals are very very hard to not only learn, but to even land in a match. It requires you to almost completely throw the axe upwards so it lands on top of a survivor without them knowing. However, it can be next to impossible to read a survivors movement and the environment itself can make it impossible to go for these shots (ie: Trees on Red Forest.) Hopefully as time goes on, we learn how to perform these more consistently, but for now, this Orbitals is only something you go for if you are already winning and nothing else.
+# More About Security Doors
+“I’m The FUN One!”
+The Security Door and Camera System spawns at the beginning of the trial (7 in total) whenever you select Springtrap as your killer. Both you and the survivors can access the doors to traverse across the map. Survivors will also have the Camera System to track you down and reveal you to their teammates.
+Linking Doors Manually
+As Springtrap, whenever you move from door to door, you’ll be automatically linking the two doors together! This is mainly used to make the purple add-on Access Panel a stronger information tool.
+MS Paint Example #1
+MS Paint Example #2
+Strengths and Weaknesses
+Strengths | Weaknesses
+Map Mobility | Gives Survivors map control
+Amazing Gen Control | Easy to tell when you’re using the doors
+Stealth on Will | Only two good add-ons
+Unlimited Use | Doors could have terrible spawns
+Tough Luck informs you when a survivor is near your door | Survivors can take you out of Undetectable and show their team your position
+ | Survivors can force flashlight saves since you do not have blindness protection
+Security Door Add-Ons
+Here we will talk about the add-ons that affect the Security Doors just like what we did for the Fire Axe.
+Security Door Add-Ons
+Iri Remnant - ⭐
+Security Guard’s Badge - ⭐⭐
+Streamers - ⭐⭐ ⭐
+Access Panel - ⭐⭐
+Bonnie’s Guitar Strings - ⭐⭐⭐
+# Perks for The Animatronic
+“Let's pull you apart.”
+Here we will be going over Perks that should and shouldn’t be used on Springtrap. This includes a (personal) list of what perks are good on Springtrap, what killers you should unlock/level up first for their perks and perks that combo well with his add-ons.
+Personal Perk Tierlist (Updated Since 9.3.0)
+Kick Perks: ⭐⭐⭐⭐⭐
+Springlocked yet gained strength to destroy with ease.
+Springtrap excels with kicking perks due to his ability to transverse through the map quickly with the security doors. With the Bonnie’s Guitar Strings addon, his security doors will also give him information on which door to go to in order to use his kick perks more effectively. His other addon, Endo CPU , also allows him to kick generators (and pallets/breakable walls) 40% making him able to quickly get back to chasing his next victim.
+Aura Reading Perks: ⭐⭐⭐⭐⭐
+He always knows where his next victim will hide.
+Aura reading is Springtrap's best friend when it comes to chase and information on his next target. Due to him being a range killer, he’ll be able to quickly pin down survivors' locations and ambush them with his axe. This also allows him to perform orbitals a lot easier due to having better information on the survivors position.
+Haste Perks: ⭐⭐⭐⭐⭐
+Hearing children's laughter gives you an adrenaline rush.
+Haste gives Springtrap the speed he needs to catch his victims with ease. Becoming faster without his axe and his addon Foxys Hook allows you to catch up with survivors and end chases quickly. Celebrate Poster , while also giving survivors the same benefits, also helps with shortening the time it takes in chase.
+Exhaustion Perks: ⭐⭐⭐⭐⭐
+Your presence alone exhausts their minds and bodies.
+Springtrap pairs well with exhaustion perks in order to make sure survivors do not extend time in chase. Mindbreaker causes survivors to be unable to prerun effectively against you while Genetic Limits or Languid Touch prevents Dead Hard or Lithe while in chase. And since he is also an M2 killer, his axe can also activate Genetic Limits.
+Vault Perks: ⭐⭐⭐⭐
+Your human-like movements come off uncanny to others.
+While Springtrap does genuinely well against pallets, some window loops can make it a bit tricky to catch a survivor off guard. Vault perks allow Springtrap to play around windows more efficiently and can even make him more lethal. With Unbound being able to be activated with your axe, you can gain a boost in speed to chase down survivors quickly or using Bamboozle to completely render the window useless for 16 seconds.
+Hex Perks: ⭐⭐⭐⭐
+Using the remnant of your victims for more evil purposes.
+Hex perks are both powerful yet easy to get rid of. Springtrap being one of the few killers to benefit from their effectives to the fullest due to him being able to quickly monitor and patrol around his totems. Not only that, but he can use the AoE from his axe or his purple addon Access Panel to gain killer instinct on any survivor that goes near his totems.
+Information Perks: ⭐⭐⭐⭐
+No matter what, you are always one step ahead.
+Information on what generator the survivors are currently working on or their current location during the trial is what can make or break a win. Springtrap can use these perks effectively well due to his ability to teleport around the map with ease.
+M1 Perks: ⭐⭐⭐⭐
+Your pizza knife will be stained by more victims' blood.
+Despite being an M2 killer, Springtrap is also able to take advantage of M1 perks like Coup de Grâce due to him gaining a longer lunge without his axe and Surge as a quick way to get regression across multiple generators.
+End Game Perks: ⭐⭐⭐
+You will have the last laugh no matter what.
+The end game can make or break a tie or a win. Even a chance for a full on comeback! Springtrap can use perks such as Remember Me (really good since he gets stacks from his m2 and m1), No Way Out and Terminus in order to slow down the exit gates and leave survivors broken to get quick downs. Blood Warden and his purple addon Loot-Bag will also surprise any survivors who don't take a quick exit. However getting to this point isn’t always likely.
+Anti-Heal Perks: ⭐⭐
+The wounds you deal to your victims run deeper than bandage could fix.
+Stopping survivors from healing each other or themselves can lead into faster downs, kills and wins. Springtraps green addon Ripped Curtain can provide a slow down to healing from the survivor that was embedded with your axe. This effect is only made stronger with perks like Scourge Hook: Gift of Pain or Leverage. However, running anti-heal can end up backfiring due to how fast survivors heal and how fast generators can get completed.
+Stealth Perks: ⭐⭐
+When stalking your victims you are as quiet as a mouse.
+Stealth can allow you to sneak up to unexpecting survivors to catch them off guard for a quick down. However, Springtrap already has built in stealth thanks to his security doors. His footsteps are also too loud to make these perks worth running unless you make a dedicated build for it.
+Terror Radius Perks: ⭐
+Your sudden disappearance causes confusion and terror.
+Perks that change your terror radius that make it bigger or require survivors to be in your terror radius rarely help Springtrap. His small terror radius makes using perks such as Starstruck or Coulrophobia harder to use and get value off. And increasing your terror radius removes the stealth aspect of Springtrap. Only terror radius based perks I would recommend would be Monitor & Abuse.
+What Killers to Unlock/Level Up
+Tierlist Order Explained
+This section is to explain what each tier represents and the reasons why each killer was put into those categories.
+Already Have Tier
+The “Already have” category should be simple to understand. By buying Springtrap, you will already have access to his perks. While the Cenobite and the Shapes perks are in the generic perk pool due to losing the license.
+Must Picks Tier
+The “Must Picks” is the category with some of Springtrap's best perks. Some of these perks being; Furtive Chase from The Ghostface, Hex: Blood Favor from The Blight, Batteries Included from The Good Guy, Pop Goes the Weasel from The Clown and many more. These killers have one or no weak/niche perks for Springtrap to use and are top priorities to get first.
+High Priority Tier
+The “High Priority” is the category with a lot of strong perks for Springtrap to use, but with a few weak/niche perks that doesn’t help his kit greatly. Some of the strong perks consist of Call of Brine from The Onyro, Dissolution from The Dredge, Corrupt Intervention from The Plague and more. However, perks like Secret Project from The First and Hoarder from The Twins are hard to use on Springtrap. While some like Septic Touch from The Dredge and Merciless Storm from The Onyro need dedicated builds for them to be useful.
+Standard Priority Tier
+The “Standard Priority" category is for the one or two good perks that Springtrap can use from these killers. While the rest are either very weak/niche or not worth running at all. The few good perks are Nowhere to Hide from The Knight, Dark Arrogance from The Lich, Brutal Strength from The Trapper, Hex: Ruin from The Hag and a few more. However, perks like Superior Anatomy from The Mastermind and Trial of Torment from The Executioner require dedicated builds. While other perks like Starstruck from The Trickster and Hubris from The Knight shouldn’t be considered running on Springtrap for the most part.
+Niche Tier
+The “Niche” category is filled with a ton of very niche to basically useless perks on Springtrap, with some of these killers having one really good perk. Good perks being Genetic Limits from The Singularity, Enduring from The Hillbilly, Surveillance from The Pig, Scourge Hook: Jagged Compass from The Houndmaster, Predator from The Wraith and a very few others. While perks like Knockout from The Cannibal, Hex: Wretched Fate from The Dark Lord, Rancor from The Spirit, Discordance from The Legion, Make Your Choice from The Pig and Ultimate Weapon from The Xenomorph only works in very niche builds or if you do not own any other better perks. Then perks like Mad Grit and Iron Maiden from The Legion, Spirit Fury from The Spirit, Shadowborne and Bloodhound from The Wraith and the other perks I haven’t listed should not be considered since Springtrap has way better options to choose from.
+Huntress & Krasue Tier
+Huntress and Krasue share this category because well… their perks are way too niche and underpowered for Springtrap to make use of. Outside of fun meme builds, their perks are not worth getting at all.
+# Specific Perks in Detail
+"Who ordered the special?"
+This segment is to go over and explain a handful of perks that I believe are very strong on Springtrap and how some certain perks could be used or should not be considered in more detail!
+Hex: Blood Favor
+Hex: Blood Favor is one of, if not, Springtrap’s BEST chase perk by far! It allows you to quickly end chases and immediately start getting value from perks like Pain Resonance or Pop Goes the Weasel. It also rewards you heavily for getting good at hitting your axe shots, as it will also trigger Blood Favor. The “downside” of this perk is that it can be cleansed early on, but in reality that is also slowdown in itself!
+Coup de Grâce
+Another fantastic chase perk in Springtrap’s arsenal is Coup de Grâce! Since Springtrap's lunge is already increased when he isn’t holding his axe (since he becomes an 115 killer without it,) Coup extends it even more. This allows you to play tiles you normally wouldn’t be able to play and catch survivors off guard 9 outta 10 times. Coup also pairs well with Haste perks and his two chase addons Foxy’s Hook and Celebrate Poster.
+Batteries Included
+One of Springtrap’s best perks when it comes to Haste related effects. A passive 5% Haste does a lot for him, especially when he doesn’t have his axe in hand. Unfortunately following the 9.3.0 patch, you no longer gain Haste from teleporting through the doors.
+A Nurse’s Calling
+There’s many aura perks I could’ve chosen to talk about (ie: Lethal Pursuer, BBQ & Chilli, Nowhere to Hide,) but I wanted to go over why Nurse’s Calling is really good on Springtrap. Firstly, being able to see survivors healing (especially in the current healing meta) can help keep pressure and get easy downs. It also sets up orbitals on the survivors who are healing, leading to a free health state and even a free instadown.
+Human Greed
+Human Greed is another aura reading perk that is surprisingly very good on Springtrap! Getting information across the map, especially if you are also running Hoarder, is very valuable for Springtrap. It helps you set up orbitals and gives you information on where to teleport to. However, this perk can be very map dependent and can sometimes be very unhelpful in certain situations.
+Forever Entwined & Fire Up
+I am pairing both Forever Entwined and Fire Up in this due to both perks being useful to make playing Springtrap (and killer) more smoother. Being able to pick up, drop, and hook survivors faster shortens the time you aren’t patrolling gens or chasing survivors. And the extra vault speed, damaging generators and breaking pallets/breakable walls faster is also just more QoL for Springtrap.
+Whispers
+I wanted to highlight Whispers because it is a very helpful and beginner friendly perk when it comes to beginner builds! It also works really well for Springtrap, since it will go off when using your doors to search for survivors.
+Overwhelming Presence
+Ever since its buff in update 9.1.0. Overwhelming Presence a fantastic perk for Springtrap when it comes to exhausting survivors and gaining very useful information. The only downside of this perk is the 25 second cooldown and the 4 second aura reading. This makes using Lethal Pursuer and another exhaustion perk (ie: Languid Touch or Mindbreaker) a must for this perk at times.
+Hex: Ruin
+Hex: Ruin has always been one of Springtrap’s best passive slow down perks, with one of my builds featuring it alongside Surveillance. However, in the 9.2.0 update Ruin got a massive buff to its regression! Going from 100% to 150% regression rate makes this one of or if not Springtrap’s best slowdown perk. With already great generator control and good ways to protect totems, running Hex: Ruin is now a no-brainer on Springtrap.
+Surveillance
+As of this recent patch (version 9.2.0) Surveillance became one Springtrap’s best information perks with newly buffed Hex: Ruin and Oppression! Beforehand, Surveillance was just a pretty decent information perk when you aren’t running Bonnie’s Guitar Strings and kick perks. But now, you can get better information on what generators are regressing with Oppression hitting 4 generators instead of 3 and Ruin regressing generators at 150% instead of 100%. This makes patrolling your generators, which was something Springtrap already excelled at, even more consistent.
+Phantom Fear
+Springtrap's own teachable perk, Phantom Fear, is extremely good on him and another nice way to gain information on survivors. The reason for this is his ability to trigger Phantom Fear at will by going Undetectable when using your doors! This makes it easier to trigger Phantom Fear when you need it to trigger instead of it triggering at random.
+Zanshin Tactics
+Zanshin Tactics is another really strong and beginner friendly information tool in Springtraps disposal. Being able to see pallets and windows within 32 meters allows you to not only learn tiles, but also predetermine how survivors will play the tile. This can also help set up your AoE for Chica’s Bib or Foxy’s Hook. Finally, the aura reading you get when survivors drop a pallet can help you set up orbitals or make sure you stay on the survivors trail.
+# Animatronic Builds
+“I shall make you SUFFER.”
+This section of the guide will go over build recommendations that I have found myself using and/or other Springtraps. This will be for beginners up to people who just want to do their best to win with this character.
+Beginner Friendly Builds #1
+Perks: Phantom Fear, Bitter Murmur, No Holds Barred (Deadlock), Whispers
+Needed Killers: None
+Addons: Restaurant Menu & Help Wanted Ad
+Consistency Rank: ⭐⭐
+Brief Description: The ultimate beginner friendly build for newcomers to Springtrap and DBD as a whole. With Springtrap's best teachable perk, Phantom Fear , you will be able to find survivors quickly via their screams and aura being revealed for 2 seconds while looking at you in your terror radius. However, the 60 second cooldown won’t allow you to gain value from it all the time which is where the generic teachable perk, Whispers , gives you the most information when it activates when a survivor is within 32 meters of you. Bitter Murmur is another generic perk that will give you information whenever a generator is completed, showing you the survivors' auras 16 meters around that generator for 5 seconds and for 10 seconds when all generators are completed. That's when the last newly generic teachable perk, No Holds Barred (previously known as Deadlock,) will block the generator with the most progress for 25 seconds. The two best Brown Addons to help newer players, Restaurant Menu and Help Wanted Ad , allows you to see the arc your axe will travel and allows you to retrieve your axe embedded in the environment faster. These addons will punish you less from missing survivors while also learning the axes trajectory.
+Beginner Friendly Builds #2
+Perks: Phantom Fear, A Nurses Calling, Predator, Agitation
+Needed Killers: The Nurse, The Wraith, and The Trapper
+Consistency Rank: ⭐⭐ to ⭐⭐⭐
+Brief Description: This a very beginner friendly aura reading build, reusing the two Brown Addons to help with learning Springtrap. Phantom Fear makes its return with your main way of locating survivors to allow you to get into chase quickly. With The Wraith teachable perk, Predator , activates if you ever lose a survivor in chase; allowing you to their aura for 4 seconds. This perk goes into cooldown for 40 seconds after use, but the value you get from it will help you locate that survivor you lost quickly (warning: Predator will go off whenever any survivor escapes chase if you find 2 or more survivors together.) The Nurse teachable perk, A Nurses Calling , reveals the auras of survivors healing/getting healed whenever they’re in a 32 meter range of you. This allows you to find injured survivors easier and can lead into deadly snipes with your axe. Finally the teachable perk, Agitation , from The Trapper increases your terror radius by 12 meters (from 24 to 36) and gives you 18% Haste while carrying a survivor. This perks allows you to quickly hook survivors after getting a down, allowing you to get back right to finding a new victim. It also increases the range Phantom Fear will go off.
+Beginner Friendly Builds #3
+Perks: Rapid Brutality, Save The Best For Last (STBFL), Surge, Scourge Hook: Pain Resonance (Pain Res)
+Killers Needed: The Shape, The Xenomorph, The Demogorgon, and The Artist
+Addons: Endo CPU & Foxy’s Hook
+Consistency Rank:  ⭐⭐⭐ to ⭐⭐⭐⭐
+Brief Description: For Springtrap players too intimidated to use your M2 (aka your Axe,) you can make him into an M1 killer with this build. Rapid Brutality is The Xenomorph teachable perk that gives you 5% Haste for every successful basic attack for 10 seconds. This pairs well with The Shape teachable perk, Save The Best For Last , giving you a token for each basic attack that is not dealt to the Obsession (max amount of tokens is 8.) Each token gives you a stackable 4% decreased cooldown on every successful basic attack adding up to 32% with max tokens (warning: attacking the Obsession will lose you 2 tokens of STBFL.) These two perks combined with the Blue Addon, Foxy’s Hook, giving you another 7% of Haste after walking through the AoE for 6 seconds (making the max amount of Haste you gain 12%) allows you to quickly down your target before they can even escape you. After downing the survivor; you will be activating The Demogoron teachable perk, Surge , which will cause any generators in a 32 meter radius of you to explode and start regressing. The affected generators will lose 8% of their progress and any survivor working on the affected generators will scream. Finally the last teachable perk, Scourge Hook: Pain Resonance, from The Artist will make 4 random hooks at the start of the trial Scourge Hooks . After hooking a survivor on one of these hooks, the generator with the most progress will explode and instantly lose 20% of progress before starting to regress. Any survivors working on the affected generator will scream (warning: you can only activate Pain Res a maximum of 4 times in a trial.) The Purple Addon, Endo CPU, gives an additional bonus of breaking pallets, breakable walls and generators 40% faster making chases end faster.
+Chase Builds #1
+Perks: Unbound, Hex: Undying, Hex: Blood Favor, Coup de Grâce
+Killers Needed: The Unknown, The Blight, and The Twins
+Consistency Rank: ⭐⭐⭐⭐ to  ⭐⭐⭐⭐⭐
+Brief Description: For Springtrap players looking to have good chases, this build gives you the ability to stop survivors from using pallets against you and gain a haste boost for vaulting windows. With the two Blight teachable perks, Hex: Undying and Hex: Blood Favor , this combo blocks pallets from 32 meters of the survivors location for 15 seconds after injuring them while also protecting your Blood Favor from being broken right away (Undying also lets you see auras of Survivors within 4 meters of Dull Totems.) Injuring the survivor will also activate The Unknown teachable perk, Unbound , which gives you a 7% Haste boost for 10 seconds after vaulting a window. The activation time for this perk being 30 seconds gives you wiggle room to when you want to activate the Haste boost. The final teachable perk, Coup de Grâce , from The Twins grants you two tokens (max amount being 5) for each generator completed. Lunging consumes a token, increasing the distance by 80% (Springtrap benefits a lot due to becoming a 115 killer after throwing the Axe; which by itself increases his lunge distance due to becoming faster.) The Blue and Purple Addons give Springtrap extra lethality in chase whenever he walks through the AoE. Ending your chases quickly will put immense pressure on survivors without using any generator regression perks.
+Chase Builds #2
+Perks: Genetic Limits, Hex: Undying, Hex: Blood Favor, Coup de Grâce
+Killers Needed: The Singularity, The Blight, and The Twins
+Addons: Celebrate Poster & Foxy’s Hook
+Consistency Rank: ⭐⭐⭐⭐⭐
+Brief Description: Using the last three perks from the first build; The Singularity teachable perk, Genetic Limits , replaces Unbound as a way to counter survivors strong exhaustion perks such a Lithe and Dead Hard while also needing the same requirement to activate (survivors will be exhausted for 8 seconds.) Celebrate Poster also replaces Endo CPU in this build, rewarding you with 12% Haste after embedding a survivor.
+Chase Builds #3
+Perks: Unbound, Dark Arrogance, Batteries Included, Coup de Grâce
+Killers Needed: The Lich, The Unknown, The Twins and The Good Guy
+Addons: Foxy’s Hook & Celebrate Poster
+Consistency Rank: ⭐⭐⭐
+Brief Description: Another pure chase build, focusing mainly on stacking Haste with Unbound and Foxy’s Hook. Celebrate Poster will also add 12% more Haste whenever embedded in a survivor and also increase your vault speed by 20%. This also stacks with Dark Arrogance, making your vault speed 45% faster than the survivors. Finally, Batteries Included and Coup de Grâce makes your chases more consistent with constant Haste and a longer lunge.
+Hex Builds #1
+Perks: Hex: Blood Favor, Hex Undying, Hex: Ruin, Hex Thrill of the Hunt
+Killers Needed: The Hag and The Blight
+Addons: Party Hat & Access Panel
+Consistency Rank: ⭐⭐⭐
+Brief Description: With Springtraps Green addon, Party Hat, and Purple Addon, Access Panel; this combo gives him the ability to track survivors with his doors and monitor his totems near doors with Killer Instinct. We already know why the Hex perks Blood Favor and Undying are a part of this build; but The Hag teachable perk, Hex: Ruin , gives you passive regression till the totem is cleansed. The passive regression starts whenever a survivor lets go of a generator, in which the generator will start regressing at 150% of the normal regression speed. The last perk being the generic perk, Hex: Thrill of the Hunt , increases the amount of time it takes survivors to cleanse and bless your totems by 12% for each totem on the map.
+Hex Builds #2
+Perks: Hex: Fortune’s Fool, Hex: Pentimento, Hex: Thrill of the Hunt, Hex: Blood Favor
+Killers Needed: The Blight and The Artist
+Consistency Rank: ⭐ to ⭐⭐
+Brief Description: This hex build wants your totems to be cleansed by survivors in order to get Hex: Pentimento activated which is another Artist teachable perk. Pentimento slows down survivors healing and repair speeds by 20% + an additional 3% for each rekindled totem on the map (adding up to 32% at 5 tokens.) Additionally; at 5 tokens all hex totems cannot be cleansed or blessed.Survivors will get affected with the Oblivious status effect by the newly generic perk, Hex: Fortune’s Fool (previously known as Hex: Plaything ,) after getting unhooked. The affected survivor can see the aura of their totem when they’re within 16 meters of it. Thrill of the Hunt and Blood Favor will also aid in making survivors wanting to cleanse your totems or be forced to deal with Blood Favor blocking pallets every chase. However, Hex: Pentimento comes with a downside; all survivors can see the rekindled totem from within 16 meters, making it very easy to find and cleanse.
+Hex Builds #3
+Perks: Hex: Blood Favor, Hex: Ruin, Hex: Crowd Control, Hex: Thrill of the Hunt
+Killers Needed: The Trickster The Hag and The Blight
+Addons: Party Hat & Access Panel (or Celebrate Poster & Party Hat)
+Consistency Rank: ⭐⭐ to ⭐⭐⭐⭐
+Brief Description: A very aggressive hex build that makes your chases with survivors extremely deadly. Hex: Crowd Control , belonging to The Trickster, will block the first 5 windows any survivors fast vaults through. This paired up with Blood Favor blocking pallets after injuring a survivor makes survivors have no chance of not getting down (unless they don’t get downed in 15 seconds or pre-dropped the pallet.) While all of this chaos is going on in the background, Ruin will be passively regressing generators and Thrill of the Hunt makes cleansing your totems take longer. This build allows you to either run the classic Access Panel and Party Hat combo for easy information on survivors. Or you could run Celebrate Poster and Party Hat to still retain a way to get information on survivors whereabouts while also ending chases even faster.
+Haste Builds #1
+Perks: Furtive Chase, Friends ‘Til The End (FTTE), Game Afoot, Agitation
+Killers Needed: The Ghostface, The Good Guy, The Skullmerchant, and The Trapper
+Addons: Celebrate Poster + Foxy’s Hook
+Consistency Rank: ⭐⭐⭐ to ⭐⭐⭐⭐
+Brief Description: Swapping your Obsession to continuously gain Haste from The Ghostface teachable perk, Furtive Chase , is your main goal with this build. Using The Good Guy teachable perk, Friends ‘Til The End , and The Skullmerchant teachable perk, Game Afoot ; you will be swapping your Obsession target by hooking (FTTE) or injuring the survivor with the most chase time (Game Afoot.) FTTE will also give you information on your Obsession by revealing their aura for 10 seconds and exposing them for 20 seconds after hooking a non Obsession. Chasing your Obsession and breaking pallets with Game Afoot will grant you 7% Haste for 10 seconds. Finally Agitation wraps up this build by allowing you to carry your Obsession to the hook faster and active Furtive Chase (which grants you 10% Haste and Undetectable for 18 seconds, allowing you to quickly sneak up on your next victim.)
+Haste Builds #2
+Perks: Game Afoot, Rapid Brutality, Machine Learning, Batteries Included
+Killers Needed: The Skullmerchant, The Xenomorph, The Singularity, and The Good Guy
+Addons: Party Hat & Foxy’s Hook
+Brief Description: A different approach to gaining Haste with it being more centered around generators being completed. Rapid Brutality and Game Afoot helps with making chases end quickly; combo’ing with Party Hat and Foxy’s Hook (thanks to Party Hat increasing the AoE size making the 7% Haste from Foxy’s Hook more accessible,) makes it more likely survivors won’t escape from you. Now whenever a generator gets completed; if you are within 16 meters of a completed generator you will gain 5% Haste from The Good Guy teachable perk, Batteries Included , which will last till you leave the range with a 5 second lingering period before losing the Haste. Finally if you kick a generator and a survivor completes it, they will be activating your final perk Machine Learning . This Singularity teachable perk allows you to compromise a generator and whenever it is completed, you will gain 8% Haste and Undetectable for 60 seconds (warning: if the survivors never finishes the compromised generator and/or finishes the last generator that isn’t it, you will not gain the Haste and Undetectable.)
+Haste Builds #3
+Perks: Game Afoot, Fire Up, Batteries Included, Furtive Chase
+Killers Needed: The Skullmerchant, The Nightmare, The Ghostface, and The Good Guy
+Consistency Rank: ⭐⭐⭐
+Brief Description: This Haste build takes the Obsession swapping from the last two builds, but slots in The Nightmare teachable perk, Fire Up , giving a better perk combo with Batteries Included without relying on survivors doing your compromised generator for the Haste. While Fire Up doesn’t give you Haste whenever a generator is completed, it gives you a 6% stackable token (up to 5 max.) These tokens give you increased action speed (breaking pallets/breakable walls, picking up and dropping survivors, damaging generators, and increased vault speed) for the rest of the trial. This pairs well with Celebrate Poster already increasing your vault speed by 20% and makes getting rid of pallets more convenient while maintaining your Haste.
+End Game Builds #1
+Perks: Remember Me, No Way Out, Hex: No One Escapes Death (NOED), Blood Warden
+Killers Needed: The Nightmare and The Trickster
+Addons: Greasy Paper Plate & Loot Bag
+Brief Description: A very generic End Game build that gives extra lethality from Hex: No One Escapes Death , which is a generic perk. Before getting to that point however; you must make your two perks Remember Me and No Way Out stronger by hooking survivors and damaging the Obsession. Remember Me is The Nightmares teachable perk which makes all non Obsession open the exit gates slower by 30% for each token (up to 5 max.) However, the Obsession isn’t affected by this slow down. That's when No Way Out (teachable perk from The Trickster) comes into play. For every unique hook you gain 1 token (up to 4 max.) Whenever a survivor attempts to open an exit gate, both gates become blocked for 12 seconds. And each additional token adds another 12 seconds to the timer (max being 60 seconds total.) This extra  time gives you enough wiggle room to cause more damage with NOED since you become 4% faster and can instantly down survivors with basic attacks once the last generator is completed (warning: survivors can see the aura of the totem after you first down someone and that range increases over time.) If the survivors make it through all that; your final perk from The Nightmare, Blood Warden , and your Purple Addon Loot Bag will come into play. Loot Bag blocks the exit to all the survivors within 12 meters of the survivor embedded by your axe. This allows you to grab that survivor and hook them, activating Blood Warden which blocks the exits for 60 seconds.
+End Game Builds #2
+Perks: Remember Me, No Way Out, Game Afoot, Rancor
+Killers Needed: The Nightmare, The Spirit, The Trickster and The Skullmerchant
+Brief Description: This build is centered around The Spirit teachable per, Rancor , which allows you to instantly down and  kill your Obsession when all generators are completed. This perk will also reveal survivors locations for every generator completed for 3 seconds while your Obsession sees your aura for 3 seconds. To help with this comes three very common perks you have seen at this point: Remember Me, No Way Out and Game Afoot. While No Way Out and Remember Me give you time to find and kill your Obsession; Game Afoot on the other hand will swap your Obsession constantly giving you the ability to kill all 4 survivors by your hand.
+Well Rounded Builds #1
+Perks: Surveillance, Surge, Scourge Hook: Pain Resonance, Mindbreaker
+Killers Needed: The Pig, The Demogorgon and The Artist
+Addons: Restaurant Menu & Party Hat
+Consistency Rank: ⭐⭐⭐
+Brief Description: This build focuses on keeping an eye on generators you have damaged with Surge and Pain Res with The Pig teachable perk Surveillance . Surveillance highlights generators that are damaged and regressing in white. Survivors who start repairing the generator highlight it in yellow for 16 seconds (and generators being worked on overall can be heard by an extra 8 meters.) The second teachable Demogorgon perk, Mindbreaker , affects survivors working on generators with Exhaustion and Blindness. If they get off the generator the effects linger for an additional 5 seconds. Mindbreaker helps a lot to counter pre-running whenever the survivors sees you since they won’t have access to their exhaustion perks. Finally, the add-on combo Restaurant Menu & Party Hat helps you find survivors working on generators or near generators due to the larger AoE size giving you Killer Instinct more often and moving your AoE around more often.
+Well Rounded Builds #2
+Perks: Human Greed, Lethal Purseuer, Hoarder, Scourge Hook: Floods of Rage
+Killers Needed: The Dark Lord, The Nemesis. The Twins and The Onryo
+Addons: Purple Guy Drawing & Restaurant Menu
+Brief Description: This aura build focuses around chests and your 4 scourge hooks. Hoarder , The Twins teachable perk adds two additional chests to the trial and reveals the location of survivors interacting with a chest or picking up an item within 64 meters of your current location. Hoarder pairs well with The Dark Lord teachable perk, Human Greed , which shows the auras of survivors in an 8 meter range of chests for 5 seconds. After downing and hooking a survivor on a scourge hook; whenever they are unhooked all survivor auras are revealed for 7 seconds due to Scourge Hook: Floods of Rage from The Onyro. That’s not all because thanks to your Blue addon, Purple Guy Drawing, the embedded survivor will reveal their aura to you when vaulting (for 3 seconds) and removing the axe (for 6 seconds.) Finally, the final teachable perk from The Nemesis, Lethal Pursuer , increases the aura reading duration of the build for an additional 2 seconds and shows you the survivors auras at the start of the trial for 9 seconds (which goes up to 11 seconds.)
+Well Rounded Builds #3
+Perks: Scourge Hook: Jagged Compass, Scourge Hook: Weeping Wounds (Gift of Pain), Leverage, A Nurses Calling
+Killers Needed: The Houndmaster, The Skullmerchant and The Nurse
+Addons: Purple Guy Drawing & Ripped Curtain
+Consistency Rank: ⭐⭐⭐
+Brief Description: This build stops survivors from being able to heal quickly after getting unhooked thanks to the last newly generic perk, Scourge Hook: Weeping Wounds (Previously known as Gift of Pain,) and The Skullmerchant teachable perk, Leverage. Whenever the unhooked survivor is getting healed by the survivor who unhooked them, that survivor heal speed is reduced by 30% for 60 seconds due to Leverage. On top of that, Weeping Wounds applies Hemorrhage and Mangled to the unhooked survivor for 90 seconds, making heals take even longer. Once healed, however, the survivor suffers from a 16% penalty from repairing and healing till injured again. This effect of Weeping Wounds will always be applied due to Scourge Hook: Jagged Compass from The Houndmaster always creating a new scourge hook after a survivor is unhooked. A Nurses calling wraps this build up nicely, giving you aura reading of whenever a survivor is healing or getting healed to continue the pressure. Additionally, Ripped Curtain also applies Hemorrhage and Mangled to survivors embedded by your axe for 60 seconds.
+Well Rounded Builds #4
+Perks: Lethal Pursuer, Scourge Hook: Weeping Wounds, Scourge Hook: Floods of Rage, Scourge Hook: Jagged Compass
+Killers Needed: The Nemesis, The Onryo and The Houndmaster
+Addons: Celebrate Poster & Purple Guy Drawing
+Brief Description: Another aura reading build based solely on hooking survivors. With Jagged Compass creating more scourge hooks as the trial goes on, you will always be activating Weeping Wounds and Floods of Rage every time a survivor is unhooked. This not only makes the unhooked survivor take longer to heal/receive a 16% repair and healing penalty; but you also get to see the auras of all survivors as well. Celebrate Poster and Purple Guy Drawing helps due to your chases always ending quickly, meaning more hooks and more aura reading.
+Well Rounded Builds #5
+Perks: Genetic Limits, Unbound, Surge, Predator
+Killers Needed: The Singularity, The Demogorgon, The Wraith, and The Unknown
+Addons: Foxy’s Hook & Chica’s Bib
+Consistency Rank: ⭐⭐⭐
+Brief Description: A well rounded build that makes Springtrap into an M1 killer with the AoE not only giving him (and the survivors) 7% Haste, but also Exhausting survivors for 5 seconds with Chica’s Bib. Genetic Limits continue to exhaust survivors after injuring them. Unbound pairing with Foxy’s Hook gives you 14% Haste for around 6 to 10 seconds. Predator helps you re-enter chase with a survivor you lost in order to make sure you get the down to trigger Surge and damage multiple generators with your M1.
+Well Rounded Builds #6
+Perks: Hex: Ruin, Hex: Undying , Surveillance, Surge
+Killers Needed: The Hag, The Blight, The Pig and The Demogorgon
+Consistency Rank: ⭐⭐⭐
+Brief Description: This build gives you constant information of your generators with the perk Surveillance the moment a survivor gets off one, triggering Hex: Ruin. While Ruin is up, all generators start regressing instantly. This allows Surveillance to always show you what generator is regressing and is being worked on as long Ruin is around during the trial. Surge is another perk that can actually regress generators while Ruin is up after downing a survivor with an M1. Finally, your addons Party Hat and Access Panel gives you even more information when it comes to survivors locations and whereabouts.
+Well Rounded Builds #7
+Perks: Pop Goes the Weasel, Unforeseen, Oppression, Nowhere to Hide
+Killers Needed: The Clown, The Unknown, The Twins and The Knight
+Addons: Bonnie’s Guitar Strings & Security Guard’s Badge
+Consistency Rank: ⭐⭐⭐⭐
+Brief Description: Another kick based build; introducing The Unknown teachable perk, Unforeseen , into the mix by giving Springtrap stealth after damaging a generator. To support Unforeseen, Pop Goes the Weasel and Oppression gives this build decent regression after hooking a survivor or kicking a generator overall. This will activate Nowhere to Hide to find any survivors stealthing around the kicked gen. Finally, Security Guard’s Badge helps to keep your Undetectable after exiting a door due to Bonnie’s Guitar Strings removing it completely (though only 25% of the Undetectable lingers, which also includes Unforeseen.)
+Meta Builds #1
+Perks: Friends ‘Til The End, Dead Man's Switch (DMS), No Way Out, Coup de Grâce
+Killers Needed: The Good Guy, The Deathslinger, The Trickster, and The Twins
+Addons: Celebrate Poster & Ripped Curtain
+Consistency Rank: ⭐⭐⭐⭐⭐
+Brief Description: This all rounded build has everything you need to do to win your games easily. FTTE will always activate your main slow down perk Dead Man’s Switch from The Deathlinger to block the generator your next Obsession is working on for 50 seconds due to FTTE causing them to scream and let go of the generator. Since you’re hooking so many different survivors with FTTE, No Way Out also comes into play whenever all generators are completed to buy you extra time by blocking the exit gates. Coup also helps you end chases quickly with Celebrate Poster, downing survivors at insane speeds and catching them off guard at pallets.
+Meta Builds #2
+Perk: Dead Man’s Switch, Pop Goes The Weasel, Scourge Hook: Pain Resonance, Hex: Blood Favor
+Killers Needed: The Deathslinger, The Artist, The Blight and The Clown
+Addons: Bonnie’s Guitar Strings & Streamers
+Consistency Rank: ⭐⭐⭐⭐ to ⭐⭐⭐⭐⭐
+Brief Description: Another all rounded build with a slight focus on damaging generators with Scourge Hook: Pain Res and The Clown teachable perk, Pop Goes The Weasel . After hooking a survivor on a scourge hook, Pain Res will damage the generator with the most progress and activate DMS if any survivor was working on that generator (a maximum of 4 times.) Pop Goes The Weasel works well with Bonnie’s Guitar Strings since it lets Springtrap know which is more important to kick and damage it by 20%. Streamers also help by increasing the travel time from door to door. Finally, Blood Favor helps in chase whenever you injure a survivor. It also wastes the survivors time if they decide to go cleanse it instead of doing generators.
+Meta Builds #3
+Perks: Nowhere to Hide, No Way Out, Pop Goes The Weasel, Scourge Hook: Pain Resonance
+Killers Needed: The Knight, The Clown, The Trickster and The Artist
+Addons: Endo CPU & Bonnie’s Guitar Strings
+Brief Description: Very simple build to help you during the early game to mid game with Pop Goes The Weasel and Pain Res. Pain Res will also aid you to get tokens towards No Way Out if you ever reach the end game to squeeze out that extra kill. Endo CPU combo’s well with Pop Goes the Weasel and Nowhere to Hide due to the increased damage speed.
+Meta Builds #4
+Perks: Pop Goes the Weasel, Scourge Hook: Pain Resonance, Bamboozle, Dead Man’s Switch
+Killers Needed: The Clown, The Artist and The Deathsligher
+Addons: Streamers & Bonnie’s Guitar Strings
+Consistency Rank: ⭐⭐⭐⭐
+Brief Description: Another very simple build to slow down the survivors as much as possible. Bamboozle, belonging to The Clown, helps you deal with windows by blocking them for 16 seconds and increasing your vault speed by 15% (very good on maps with a ton of windows.) Bonnie’s Guitar Strings and Streamers helps you use your Pop Goes the Weasel more effectively when you hook survivors.
+Meta Builds #5
+Perks: Call of Brine, Eruption, Oppression, Nowhere to Hide
+Killers Needed: The Onryo, The Twins, The Nemesis and The Knight
+Addons: Bonnie’s Guitar Strings & Endo CPU
+Consistency Rank: ⭐⭐⭐⭐
+Brief Description: Springtrap excels at gen kicking builds with Bonnie’s Guitar Strings, allowing him to always know which generator to kick and getting the speed increase of damaging generators with Endo CPU. After kicking a generator, you will activate: Call of Brine (from The Onryo,) Eruption (from The Nemesis,) Oppression (from The Twins) and Nowhere to Hide (from The Knight) ; to that generator. Call of Brine will highlight the kicked generators in yellow and start regressing it at 150% of the normal regression speed. This perk will also give you a loud noise notification whenever a survivor starts repairing it. The second perk applied to the generator is Eruption, which goes off after you down a survivor, damaging that generator by 10%. Any survivor that was working on it screams and has their aura revealed to you for 12 seconds (warning: this perk has a 30 second cooldown and lessens the amount of times you can kick that generator till its block.) Oppression will also go off and start regressing 4 random generators. Any survivors working on a generator hit by Oppression will get a difficult skill check. Finally, Nowhere to Hide reveals auras of all survivors 24 meters of your current location for 5 seconds, allowing you to quickly chase away any survivor stealthing to get back on the kicked generator.
+Meta Builds #6
+Perks: Zanshin Tactics, Mindbreaker, Call of Brine, Pop Goes the Weasel
+Killers Needed: The Clown, The Oni, The Onryo and The Demogorgon
+Consistency Rank: ⭐⭐⭐ to ⭐⭐⭐⭐⭐
+Brief Description: Another very strong and simple meta build for Springtrap focusing on kicking generators with Call of Brine and Pop Goes the Weasel. Mindbreaker is an excellent perk for Springtrap, especially when paired with Bonnie’s Guitar Strings, making survivors exhausted whenever repairing generators. This stops survivors from pre-running with Sprint Burst when you come out of your door to kick the generator they were working on. Finally Zanshin Tactics , belonging to The Oni, is one of Springtraps’ strongest information perks. This allows you to see the aura of pallets, breakable walls and windows; making planning your axe throws easier. This gets better whenever survivors drop a pallet; giving you aura reading for 5 seconds.
+Meta Builds #7
+Perks: Deathbound, Pop Goes the Weasel, Eruption, Blood Favor
+Killers Needed: The Executioner, The Clown, The Nemesis and The Blight
+Brief Description: A very simple yet strong meta build that plays into Springtraps strengths perfectly. The classic combo of Pop Goes the Weasel and Eruption makes protecting your generators easier. Especially with the add-on combo Bonnie’s Guitar Strings and Streamers, allowing you to quickly get to important generators you need to kick after hooking. Blood Favor is one of, if not, Springtraps best chase perks and another way to slow the game down while you’re not patrolling generators. A new addition to this build is The Executioner teachable perk, Deathbound , which causes the survivor who heals another survivor to scream. Not only does this give you information of which survivor went for the save, but it also makes that survivor Oblivious if they move away from the survivor they healed. This makes sneaking up on this survivor easier, especially since it only goes away after losing a health state.
+Meme Builds #1 (Exhaustrap)
+Perks: Overwhelming Presence, Languid Touch, Lethal Pursuer, Septic Touch
+Killers Needed: The Doctor, The Dredge, The Lich, and The Nemesis
+Addons: Party Hat & Chica’s Bib
+Brief Description: Survivors used an item within 32 meters of you? Exhausted for 15 seconds due to The Doctor teachable perk, Overwhelming Presence . You will also gain a 4 second aura reading of any survivor becoming exhausted around you, which goes up to 6 seconds thanks to Lethal Pursuer. Survivors scaring crows within 36 meters of you? Exhausted for 10 seconds due to The Lich teachable perk, Languid Touch (warning: you also scare crows.) Survivors healing within your terror radius? Exhausted and Blinded for 10 seconds due to The Dredge teachable perk, Septic Touch . To wrap up the build, your AoE will also always be exhausting survivors thanks to Chica’s Bib and Party Hat extending the range of the AoE.
+Meme Builds #2 (Why Heal?)
+Perks: Coulrophobia, Dark Devotion, Dying Light, Scourge Hook: Weeping Wounds
+Killers Needed: The Clown, The Plague and The Shape
+Addons: Faz-Coin & Ripped Curtain
+Brief Description: Making survivors have a hard time is the main idea of this game to Weeping Wounds and Ripped Curtain giving survivors Hemorrhage and Mangled for 60 to 90 seconds. Healing through this is made harder due to The Clown teachable perk, Coulrophobia , which makes skill checks 50% faster whenever survivors are healing in your terror radius. This also decreases their healing speeds by 50% while in your terror radius (Warning: Faz-Coin doesn’t trigger Terror Radius perks.) Dark Devotion, The Plague teachable perk, activates for 45 seconds whenever the Obsession loses a health state (ie: using For The People or getting hit by an M1) and grants you Undetectable during that time frame. The most important part with this perk is your Obsession carries your terror radius with them and that range is to 40 meters, making Coulrophobia affect more survivors. Finally, Dying Light , belonging to The Shape gives all non Obsessions a stackable 3% penalty for healing, repairing, and sabotage speeds for each non Obsession hooked (up to 9 tokens and up to a 27% penalty with the additional 16% from Weeping Wounds after getting healed.) However, this effect only lasts as long as the Obsession is alive, and they gain a 33% speed boost to unhooking and healing survivors. Though thanks to Coulrophobia and Dark Devotion, the 33% healing speed boost is completely redundant. (Warning: Build can take awhile to get started, and survivors can choose not to heal.)
+Meme Builds #3 (Fast Picks, Fast Hooks)
+Perks: Thrilling Tremors, Fire Up, Forever Entwined, Grim Embrace
+Killers Needed: The Ghostface, The Nightmare, The Artist, The Ghoul
+Consistency Rank: ⭐ to ⭐⭐⭐
+Brief Description: Tired of flashlights? Fire Up and the teachable Ghoul perk Forever Entwined got you covered. You gain a stackable 4% token for picking up, hooking and dropping survivors whenever a survivor takes damage by any means (ie: Plot Twist, Conviction (going down after 30 seconds), For The People) with a maximum of 8 tokens. This also stacks with the 6% Fire Up tokens, making your pick up and drop speed insanely fast (warning: the cap for picking up survivors, hooking survivors and dropping them is 42%.) Thrilling Tremors , The Ghostface teachable perk, blocks all generators not being worked on for 16 seconds after picking up a survivor. This gives you great intel on what generators survivors are currently working on. Finally, Grim Embrace , belonging to The Artist, blocks generators for 10 seconds after hooking a unique survivor and moving 16 meters away from the hook. Once 4 tokens are achieved, after moving 16 meters away from the last survivor hooked, all generators are blocked for 40 seconds and reveal the Obsessions aura for 6 seconds. Afterwards this perk is disabled for the rest of the trial. (Warning: Build suffers with teams that can loop well and get generators done quickly.)
+Meme Builds #4 (Aggressive Nightmare)
+Perks: Bamboozle, Superior Anatomy, Unbound, Dark Arrogance
+Killers Needed: The Clown, The Unknown, The Lich and The Mastermind
+Addons: Celebrate Poster & Greasy Paper Plate
+Consistency Rank: ⭐ to ⭐⭐
+Brief Description: The ultimate vault build, catching up to survivors no matter if they vault with Lithe or have a god window (warning: this build is very very map dependent.) Bamboozle is used to shut down windows for 16 seconds while vaulting 15% faster after survivors. This also stacks with The Lich teachable perk, Dark Arrogance , which increases your vault speed by an additional 25%. The downside being you’re stunned for 15% longer, however Springtrap can play very well around most pallets. After injuring a survivor and vaulting, Unbound gives 7% Haste for 10 seconds, allowing you to catch up to the survivor quickly. Finally, Superior Anatomy , belonging to The Mastermind, activates whenever a survivor fast vaults within 12 meters of you. After vaulting, your vault speed is increased by 40%, then goes on cooldown for 25 seconds. Celebrate Poster is the icing on top since it increases your vault speed by 20% and gives you 12% Haste after embedding a survivor.
+Meme Builds #5 (FNAF3 Jumpscare)
+Perks: Monitor & Abuse, THWACK!, Infectious Fright, Phantom Fear
+Killers Needed: The Doctor, The Skullmerchant, and The Plague
+Addons: You Can Run Whatever
+Consistency Rank: ⭐
+Brief Description: The whole purpose of this build is to constantly cause survivors to scream. Monitor & Abuse , belonging to The Doctor, decreases your terror radius by 25% while not in chase. This helps control when Phantom Fear activates to reveal a survivor and get into chase. And once in chase, your terror radius is increased by 15%. The increased terror radius size helps you trigger Infectious Fright (belonging to The Plague) after putting a survivor to the dying state. This causes survivors in terror radius to scream and reveal their locations to you for 6 seconds (which also activates if you down survivors with your M2.) Finally, THWACK! , belonging to The Skullmerchant, helps you find survivors whenever you break a pallet/breakable wall; causing them to scream if they are within 36 meters and reveal their auras for 6 seconds. You regain these tokens by hooking survivors.
+Meme Builds #6 (Battletrap by theMrHeadache)
+Perks: Forever Entwined, Brutal Strength, Bamboozle, Fire Up
+Killers Needed: The Clown, The Ghoul , The Trapper and The Nightmare
+Addons: Endo CPU & Party Hat
+Brief Description: A build recommended by theMrHeadche, creator of the Xenomorph guide, made this build for Springtrap that allows him to aggressively chase and pick up survivors. Forever Entwined and Fire Up increases your pick up speeds; invalidating any survivors trying to go for saves (ie: pallet saves and flashlight saves.) The Trapper teachable perk, Brutal Strength , pairs well with Endo CPU and Fire Up to create insanely quick break speeds. Finally, Bamboozle ties up the build nicely to make very strong windows unplayable for the survivors.
+Meme Builds #7 (Peek-a-Boo!)
+Perks: Dragon’s Grip, Trail of Torment, Pop Goes the Weasel, Nowhere to Hide
+Killers Needed: The Executioner, The Clown, The Knight and The Blight
+Brief Description: This build focuses on catching survivors off guard with The Blight teachable perk, Dragon’s Grip . For the next 30 seconds, any survivor that touches the affected generator will scream (revealing their location for 4 seconds) and become Exposed for 60 seconds. This pairs well with both Security Guard’s Badge and The Executioner teachable perk, Trail of Torment . After kicking the generator, it will highlight in yellow for survivors and give you Undetectable until the generator stops regressing (ie: fully regressed to zero or survivors repairing it.) Nowhere to Hide will make sneaking up to the exposed survivor a bit easier since they would have possibly run off after either screaming from Dragon’s Grip or hearing your terror radius once they stop the generator from regressing. Finally, Pop Goes the Weasel gives the build some slowdown since you will be kicking generators throughout the match.
+# Map Tierlist + Explanations
+“I can smell the FEAR.”
+This section of the guide will go over what maps are really good and fun for Springtrap to play on and maps that aren’t so much a fun time.
+Map Tierlist
+(Updated Since 9.6.0)
+This Should Be Entertaining:
+These are the best maps that Springtrap performs on due to having easier access to doors and better door spawns, very playable tiles, super holdable 3-gens. These maps are also super open and allow his axe to be fully usable without needing to worry about super bad collision (still expect some due to it being DBD.)
+Great Atmosphere:
+These maps are good maps for Springtrap to perform overall with playable tiles and easy to hold 3-gens. Door spawns can be a bit questionable at times (i.e: Greenville main building) but are otherwise accessible to use. Collision can be a bit questionable as well (i.e Nostromo) but isn’t a big worry for using his axe freely.
+All Will Suffer:
+Overall these maps are playable for Springtrap, but have some glaring issues with door spawns and collision. Some of these maps are also pretty big in size (i.e Suffocation Pit and Ironworks of Misery) making traversing the map with doors more helpful and holding 3-gens a bit harder to manage. The main buildings are also harder to play around compared to the maps in the tiers above.
+Pathetic:
+Updated this section to only include maps that are playable while running Foxys Hook. This add-on is the sole reason why you can play on these maps semi-consistently and perform semi-well on without the survivors severely messing up. Otherwise, these maps have pretty bad collision , bad door spawns, really strong main buildings for survivor and 3-gens that can be hard to defend.
+Darkest Pit of Hell:
+Really bad maps for Springtrap to perform on due to overly strong main buildings for survivor , terrible door spawns, tiles are harder to play around and 3-gens are even harder to defend well. Even if using Foxys Hook on these maps, you will most likely be having a very rough time unless the survivors extremely mess up.
+GAME OVER:
+By far Springtraps worse maps currently in DBD. Collision makes it almost impossible to use the axe, the door spawns are basically completely useless, holding a 3-gen is extremely hard due to lack of mobility, and the tiles that can spawn are rough to play around. Even if you are using Foxys Hook, unless the survivors make multiple mistakes, you will most likely not be having a very fun time on these maps.
+# Basic Counterplay to Generic Tiles
+“Watch the show EVERYONE!”
+Finally the longest section of the guide is how to play around generic tiles as Springtrap. Generic tiles are tiles that spawn in almost every single map (ie: Killer Shack and T-L Walls.) Springtrap can zone survivors with his axe at range to either take control of a pallet, stop a window vault, get a free Basic Attack, or punish survivors into animation locks.
+Faz-Pins!
+Before explaining each tile, I will show a graphic of what each little pin means so you understand the other graphics I will show later.
+The Animatronic/Springtrap Pin: This pin represents the position of where Springtrap should/will be when setting up an Axe to zone or guarantee a hit.
+Survivor Pin: This pin represents the position of where the survivor should/will be getting hit.
+Basic Attack Pin: This pin represents where you’ll get a successful Basic Attack.
+Killer Path Pin: This pin represents the pathing Springtrap should take to guarantee a successful hit.
+Survivor Path Pin: This pin represents the pathing survivors will take around tiles and where they should get hit.
+Fire Axe (Hit/Thrown) Pin: This pin represents where Springtrap should throw his Axe and guarantee a hit.
+Fire Axe (Zoning) Pin: This pin represents when Springtrap should hold up his Axe to zone survivors to guarantee a successful hit easier.
+Fire Axe (Winding Up) Pin: This pin represents when Springtrap should wind up his Axe to zone survivors or get a guaranteed hit with the Axe.
+Successful Hit Pin: This pin represents where you will get a successful hit on the survivor.
+Killer Shack
+Shack is one of the most common tiles that can spawn on almost every map, excluding indoor maps, as another strong tile for survivors besides the main building or as a map's “main” building (ie: Dead Sands.) Shack can be a very difficult tile for Springtrap to play on due to the window being very strong against him if you’re not running vault perks (ie: Bamboozle or Dark Arrogance.) However, he does have ways to play shack that can lead to hits with his Basic Attack or the axe. Here are several examples of how to play shack.
+Survivor Pathing: The graphic I will show is where survivors will be pathing when entering the killer shack from either the back or front door. Their choices being either the god pallet or the window. They can also choose to enter killer shack by vaulting inside instead of entering through the front or back door. They can also ignore the window and run past it to enter through the other side of shack .
+Entering Shack
+Outside Shack
+Zoning the Window (Inside Shack): The best and easiest way to play around the shack's window is by winding up the axe around the back/front door corner to pressure a survivor from vaulting it. Survivors who are looking behind themselves will try and fake the window by either crouching in front of it or moving away to force a whiff. When they do this, walk towards them a bit before putting your axe down and get a Basic Attack. You can also walk towards the window to bodyblock it. If they vault the window still when you get closer, they will most likely try to crouch so aim a bit down or to the right/left to tag them with the axe.
+Gif Example
+Survivors Vaulting: If a survivor continues for the vault even after winding up the axe behind them or made it to the window before you could wind up the axe fully, you can still hit the survivors by throwing your axe during the vault animation. Depending on where you walked into killer shack , you have to aim a bit higher to avoid hitting the window and aim a bit to the right (on the Back Door) or to the left (on the Front Door.)
+Gif Example
+Zoning the Window (Outside Shack): Just like zoning the window inside shack , you will mainly perform the same option if the survivor decides to try and vault into shack . This will always guarantee a free Basic Attack if they try to dodge your axe or or are forced to do a medium vault.
+Gif Example
+Moonwalking the Window: Another way to play around the shack window is by tricking the survivor to think you will enter the shack, hide your red stain and walk backwards. This will trip up survivors not paying attention or panicking as they vault into you.
+Survivor Dropping God Pallet: If the survivor does react to you holding the Axe while attempting to zone you at the window, they also have the option to run towards the God Pallet and drop it. Luckily you can easily throw the axe at the survivor, whether they’re throwing the pallet or not, for an easy injury or down.
+Peek-A-Boo Shot: Peek-A-Boo shots, from what I have found, is really good at catching survivors off guard when they’re running shack . You trick the survivor by winding up the axe when you exit the Back Door of killer shack , forcing them to turn the corner so they don’t get tagged by the axe. When they do, walk back into shack with the axe still readied and throw the axe at the window. You will have to position yourself a bit and depending on when you re-enter shack you need to delay the throw.
+Gif Example
+Trash Pile Gyms
+Trash Pile Gyms are yet another common type of tile that can spawn on nearly every map in the game. They consist of two piles of trash in the middle of the tile, a pallet and a window. These tiles are very strong for survivors, especially since the long walls make it annoying to chase them around. Luckily, Springtrap can play around this tile in unique ways (especially depending on the map.)
+Axe at the Pallet: Springtrap can play around this pallet by turning the corner and either zoning with the axe or throwing it as soon as you round the corner to hit the survivor. Regardless if the pallet is thrown or not, the survivor will get embedded by the axe. Be careful, however, because survivors will either greed the pallet or attempt to avoid it to make you whiff.
+Pallet to Window: If the survivor runs past the pallet to try and make the window, follow behind them with the axe readied to either zone them into a Basic Attack or tag them with the axe.
+Zoning Pallet Side: Another way to get a hit on a survivor is to zone them at the pallet. This forces them to run either around the outside of the wall or around the trash pile.
+Peek Shot at Pallet Side: You can also get a sneaky shot on survivors by doing what I call a “Peek Shot.” This shot usually happens when you tag a survivor right before they try to reposition themselves at the pallet.
+Drive Through Shot: A drive through shot occurs when a survivor runs past a window just as you winded the axe up and ready to throw it. You need to be careful when going for it by adjusting your aim so you don’t hit the window when going for the shot.
+Vaulting After the Survivor: If the survivor vaults in from the outside, vault in after them and follow them to get an axe shot at the pallet.
+T-L Walls
+T-L Walls are another tile that can also spawn on most maps. These tiles only contain two windows, allowing survivors to chain fast vaults easily. However, Springtrap can play around these tiles easily.
+Zoning the Window: One of the more effective ways to make sure survivors cannot fast vault these windows is by zoning the window with the axe. Then you’ll get close for a Basic Attack.
+Zoning Window Basic Attack
+→
+Axe Shot: Another good way to play around these tiles is of course hitting the survivors with the axe as they are vaulting. Just remember to adjust your aim.
+Normal Shots
+Inverse Shots
+Moonwalking: Moonwalking is also very good on these tiles, especially due to the long walls blocking your red stain.
+Top Left
+Bottom Right
+Gif Example
+Peek Shot: Peek shots are also very effective at TL Walls!
+Gif Example
+4-Lane Tiles
+4-Lane Tiles are tiles that contain 4 straight walls with a window and pallet. There’s two different versions of these tiles, being an Inside version (window inside the tile) and an Outside version (window leading outside.)
+Survivor Playing the Pallet: Survivors when playing on the pallet side normally throws the pallet down. When they do, just throw the axe at them during the animation lock.
+Inside Version
+Outside Version
+Greeded the Pallet: If the survivors try to greed the pallet, just turn the corner and throw the axe at the survivor.
+Inside Version
+Outside Version
+Zoning Window into Basic Attack: If the survivor ops to take the window, you can also zone with your axe to get close and Basic Attack.
+→
+Axe Shot: If the survivor decides to ignore your zoning, you are free to throw the axe at them.
+Now onto the window Outside Variation of the 4 Lane tile. The reason I am doing this is because the window side for the Inside Variation forces survivors to medium vault, always ending in a free Basic Attack.
+Zoning Window into Basic Attack: One of the basic ways to play around this window is of course to zone into Basic Attack.
+Zone Window Basic Attack
+→
+Axe Shot: If the survivor vaults into the tile from the outside, you can tag them with your axe.
+Runs Past Window: If the survivor chooses to run past the window instead of vaulting, follow them to get a Basic Attack.
+Running to Pallet: If the survivor was able to vault the window and you weren’t able to ready your axe in time, vaulting the window and you can either zone into a Basic Attack or force the pallet drop for a free Axe Shot.
+Step 1 & 2
+Basic Attack Version
+Axe Shot Version
+Running Around Long Wall: If the survivor ops to keep running around the long instead of going to the pallet, you can cut them off and force them to either medium vault or get an axe shot.
+Long Wall Gyms
+Long Wall Gyms are very strong tiles, coming second behind killer shack, that spawns on almost every map. These tiles have a very safe pallet that survivors can play around as well as a strong window similar to shack .
+Pallet Side: This pallet is genuinely very safe for survivors, but Springtrap can force survivors into throwing the pallet or gree d it with his axe.
+Zoning Window to Basic Attack: Zoning the window is also a good way to confirm getting a hit or down.
+→
+If the survivor chooses to vault the window, you are free to throw the axe.
+Running Around the Pallet: If the survivor chooses to continue to run the pallet, you can follow them and either zone for a free Basic Attack or get an Axe Shot.
+Zoning Basic Attack
+→
+Axe Shot
+Window to Pallet: If the survivor enters the loop from the window vault, they can choose to run to the pallet. There are several ways Springtrap can play around this; being vaulting after the survivor, throwing the axe from the window (risky but possible) and going around the short side of the window to bait the survivor.
+Going Around Short Side
+Looping Long Wall: If the survivor loops the long wall after vaulting, you can either cut them off and zone the window for a Basic Attack or an Axe Shot.
+Axe Shot
+→
+Short Wall Gyms
+Short Wall Gyms (also known as L-Wall Gyms) are the exact same as Long Wall Gyms, but the window and pallet swapped positions . This loop is still very strong for survivors regardless of the side swap.
+Pallet Side: Survivors can choose to play the pallet the same way they can on Long Wall Gyms. They can pre-drop the pallet or greed the pallet.
+Dropped Pallet
+Greeds Pallet
+Running Around the Pallet: If the survivor chooses to not drop the pallet and continues to loop the pallet side, you can follow them and hit them with the axe before they turn the corner. You can also zone them if they’re about to make it back to the pallet.
+Axe Shot
+Zoning Basic Attack
+→
+Window Side: If the survivor opts to play the window side, zoning them will guarantee a Basic Attack.
+→
+If the survivors opt to vault the window anyways, adjust your position and aim before throwing your axe.
+If the survivor gets the vault and continues to run on the right side of the window, you can set up a peek shot to catch them off guard as well.
+Pallet Gyms
+Pallet Gyms (also known as Long Walls Short Walls) are relatively weak tiles for survivors. This tile only contains a pallet, a short wall and a long wall. Since there is no window on this tile, after the pallet is thrown, it's a dead zone.
+Playing Around the Pallet: Since the pallet is the only thing on this tile, I will show off how to play around it.
+Running Around Short Loop
+Running Around Long Loop
+Variant Gyms
+Variant Gyms are tiles that spawn in on almost every map. As the name applies, there are two different versions of this tile, Variant 1 (or Y) and Variant 2 (or C), with both being decently strong tiles for survivors. The reason for them also being called Variant Y and Variant C is due to the wall shapes near the windows. The pallet too is also decently safe for survivors.
+Pallet Side (Y Variant): To make this easier, I will explain the pallet side on Y Variant and then the pallet side of C Variant. Regardless, both pallets play the same way.
+And even if the survivor throws the pallet down, you still get to tag the survivors with the axe.
+Running Around the Pallet (Y Variant): If the survivor is able to run past the pallet, you can follow them and either follow up with rounding the corner and hitting them with the axe.
+Pallet to Window (Y Variant): If the survivor decided to try and run to the window on the pallet side, you can follow them and tag them with the axe as they vault or before they vault. Just be careful if the survivor tries to dodge the axe.
+Window Side (Y Variant): If the survivors vaults into the loop, you can hit them with the axe as they are stuck in the animation lock.
+Vaulting the Window
+If the survivor makes it to the vault safely and tries to run back to the window, you can vault after them and force them to medium vault so you can get a Basic Attack.
+Window to Pallet (Y Variant): If the survivor was able to fast vault from the outside and run towards the pallet, you can proceed to cut them off and go for an axe shot. Or you can zone for a Basic Attack since you are forcing the survivor to attempt to dodge the axe.
+Axe Shot
+Zoning Pallet Basic Attack
+→
+If the survivor proceeds to throw the pallet when you are attempting to zone them, throw the axe during the animation lock.
+Pallet Side (C Variant): The pallet side is played almost exactly like the Y Variant of this tile.
+If the survivors drop the pallet, you can still tag them with the axe as they’re stuck in animation lock.
+Running Around the Pallet (C Variant): Survivors can also choose to run around the pallet side if they made it to the pallet safely. Loop around the corner with the axe readied and throw it before they turn the corner to get to the pallet.
+Pallet to Window (C Variant): Survivors can also choose to run to the window from the pallet side. You can throw the axe as they vault the window.
+Window Side (C Variant): Just like the previous Variant, if the survivor fasts vault into the tile from the window side, you can throw the axe during the animation lock.
+If you zone the survivor before they make it to the vault, however, you can also hit them with a Basic Attack if they attempt to dodge the axe.
+→
+Looping Around Window (C Variant): If the survivor safely vaults the window and loops around the short side, you can round the corner and throw the axe at them before they can vault again. Or they hesitate and you get a Basic Attack.
+If the survivor chooses to run around the long wall, you can cut them off and force them to run back towards the window, allowing you to line up your axe and throw it.
+Window to Pallet (C Variant): If the survivors opts to run to the pallet after vaulting the window, you can follow them around the short wall and intercept them at the pallet with your axe.
+Window Gyms
+Window gyms are tiles that only contain two windows, just like with T-L Walls. However, the placement of the two windows makes this tile pretty weak for survivors.
+Round-A-Bout: If the survivors choose to run around the short wall of the left window, follow them and ready up your axe. That way the moment you round the corner, you can throw the axe as the survivor is vaulting.
+If the survivor decides to run around the long wall of the left window, you can follow behind them and zone them with the axe to deny the window vault and get a Basic Attack.
+Axe Shot: If the survivor opts to run towards the top window, you can tag them with the axe as they vault the window.
+And of course, you can also zone the window to get a Basic Attack if needed.
+→
+Labyrinth Tiles
+Labyrinth tiles are tiles that now can spawn on almost every map in the game (previously only spawned in the Ormond, Yamaoka Estate and Withering Isle realms.) This tile contains two different variations, one being named Wolfpack and the other Lonewolf. These tiles are very confusing to navigate, but hopefully this helps make them less confusing to play on.
+Pallet Side (Wolfpack): Here the survivor has the option to either drop the pallet when they reach it or run around the short wall (right side) of the pallet to greed it. If they drop the pallet, you can tag them with your axe during the animation lock.
+Drops Pallet
+If they decide to run around the short loop, follow them and ready up your axe as you turn the corner to throw it as they reach the pallet.
+If they run around the left wall, you can do the same thing here.
+Pallet to Window (Wolfpack): If the survivor opts to run to the window, you can throw the axe as they’re in the vaulting animation lock.
+If they are looking behind themselves, however, you can zone them and force a medium vault to get a Basic Attack.
+→
+Window Side (Wolfpack): If the survivor enters the tile from the window side, you can tag them with your axe as they are vaulting.
+If the survivor safely vaults the window, you can cut them off by going around the long wall and meeting them with a Basic Attack.
+If the survivor attempts to medium vault back, you can hit them with a peek shot.
+If the survivor decides to run around the long wall to vault, follow them and ready your axe to throw it as you turn the corner.
+Window to Pallet (Wolfpack): If the survivor vaults safely and makes enough distance to get to the pallet, you can cut them off and hit them with the axe.
+Alt Version
+Pallet Side (Lonewolf): Like always, if the survivor makes it to the pallet, you can tag them with the axe regardless if they throw it or not.
+Drops Pallet
+If the survivor makes it to the pallet and decides to run around the long wall, follow them and get ready to hit them with a round-a-bout before they make it to the pallet.
+Of course, if they run the shorter wall you can surprise them with a Basic Attack if they’re not paying attention.
+Pallet to Window (Lonewolf): If the survivor runs past the pallet to get to the window, you can follow them from the shorter wall and get ready to either zone or throw your axe.
+Zoning Basic Attack
+→
+Window Side (Lonewolf): As always if the survivor runs towards the window, you throw the axe during the vaulting animation. Make sure to have your axe aimed slightly high so you don’t hit the window.
+If they vaulted safely, simply follow them around the short wall of the window to force them back through the window and hit them with your axe as they are vaulting.
+Locker Gyms
+As implied by the name, locker gyms are tiles that have lockers at the front of the window and one pallet that can spawn on either end. These tiles are normally spawn in the Ormond (only Mount Ormond Resort), Red Forest, Yamaoka Estate and newly added to Crotus Prenn realms.
+Window Side: As always if the survivor runs towards the window and vault it, throw the axe during the animation lock.
+You can also zone the window before they can vault it to force a medium vault or them to dodge it and get a Basic Attack.
+→
+Pallet Side: If the survivor enters the tile on the pallet side, they really do not have much to do. They either pre-drop the pallet or try and greed the pallet by running around the short wall.
+Drops Pallet
+Greeds Pallet
+Filler Pallets
+And now finally filler pallets (or path pallets.) These tiles spawn on every map as an inbetween the bigger tiles. They come in different ways, but the most basic way they spawn is a pallet between two rocks. These tiles are normally 50’50’s when playing them, but Springtrap can play around these tiles depending on how they spawned.
+A lot of what comes down to getting survivors at these tiles is forcing them to throw the pallet down. When they do that, throw the axe during the animation lock.
+Also looking for gaps between the rocks (or whatever the pallet is against) will also help you tag survivors with the axe. Just be careful going for them due to collision .
+# Tips for The Animatronic
+“This will be entertaining.”
+This section of the guide is to give simple yet very effective tips to use while you are playing as Springtrap. This will be updated as time goes on when I find more useful ways to make playing him less stressful for others.
+Tips:
+- Whenever a survivor drops a pallet in front of you and crouches, you can hold your axe for a few seconds and aim down before throwing your axe. This also works on most short loops (ie: RPD Front Desk.)
+- If the survivor doesn’t crouch and instead starts moving to the left and right (aka shimmying,) hold your axe like before and line up your shot till they either stop moving, crouch down or try to run from the pallet.
+- Another way to hit survivors over short loops or who are standing behind trees/rocks is to shimmy with your axe up before throwing it. I find doing this helps me line up my shot and makes me unpredictable as to when I will throw my axe.
+- If you cannot find survivors, throwing the axe at a Security Door will help you gain a rough idea of where a survivor is if the Tough Luck scoring event appears after disabling the door.
+- Searching multiple lockers with your axes AoE makes it easier to find a survivor you think is hiding in a locker.
+- Throwing your axe at a door you’re about to use to teleport will not only disable the door, but will also give you your axe back automatically.
+- Using line of sight (LoS) blockers will make setting up orbitals easier, since the survivor cannot see where you are aiming your axe.
+- Disabling Security Doors will allow you to travel around the map as a 115 killer while deactivating a door for the survivors.
+- If a survivor is trying to reveal you, disable that door if you can. The survivors knowing your whereabouts can be very bad for you.
+- If you like using Foxy’s Hook, learn how to Height Mog (tech discovered by UnladenCrow ) which allows you to gain Haste from vaulting windows or tall loops while survivors cannot get that Haste.
+- If you believe a survivor will return to a generator you’ve kicked, you can wait in the office door until you hear the survivor running back towards the generator.
+- Hold down M2 when a survivor is removing the axe from them to immediately ready the axe again for an immediate throw.
+- Pay attention to how a survivor is moving when you hold up your axe (unless they aren’t looking behind them, then go for the straight shot.)
+- Go for orbitals or over object shots to disable your doors! This will help you get used to the arc and disable the door.
+- When using the access panel add-on, aiming the axe behind or at the top of the door will disable it instead of going through it.
+- Make sure to follow your axe aura when embedded on a survivor and killer instinct from your AoE to keep track of survivors.
+- If you know you can play around a pallet, DO NOT BREAK IT. Most dropped pallets are favourable for Springtrap.
+- You gain Haste from Batteries Included and Foxy’s Hooking (after tossing it) when teleporting between your doors.
+More will be added soon.
+# Employees of The Month
+“This is the Fazbear SPECIAL.”
+This section of the guide is to recommend Springtrap players to check out! Show the fun ones some love~.
+Twitter:
+Alran
+GhostAnonymous
+Zet_Zen
+Indy
+Apocalynx
+Canatopher
+AWildGoose
+Z0MBI3PANDA
+HeartlessFiend
+GOREJIRA
+Jherkin
+Twitch:
+Alran
+GhostAnonymous
+JRD_CARJAM
+Stalkedd
+Zet_Zen
+Indy
+Apocalynx
+Canatopher
+AWildGoose
+Z0MBI3PANDA
+HeartlessFiend
+YouTube:
+Alran
+JRD_CARJAM
+Stalkedd
+Zet_Zen
+Indy
+The Fake Banette
+Jherkin
+(More will be added as time goes on!)
+# Other Useful Sources
+“Play with fire, and you’ll get burned.”
+Finally here are some videos that I recommend checking out for more help with Springtrap.
+LilithOmen Springtrap Guide
+UnladenCrow Foxy’s Hook Video
+The Fake Banette 10 Builds Video
+The Fake Banette Door Tech Video
+Springtrap Lineups by Jherkin
+(More will be added soon.)
+Thank you for reading!

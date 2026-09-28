@@ -1,0 +1,151 @@
+# 10.0.1 | Bugfix Patch  - BHVR
+Source: https://forums.bhvr.com/dead-by-daylight/kb/articles/551 (consulté le 27/09/2026)
+
+Content
+NEW SURVIVOR: SHANE WIIGWAAS (RELEASED ON JUNE 25TH)
+New Survivor Perks
+Wide Open Throttle
+Whenever you fast-vault a Pallet:
+You gain
+10/12.5/15%
+Haste
+for
+3s
+.
+The Pallet is reset, blocked for
+60s,
+and all Survivors see its Aura for that time.
+Cooldown:
+60s
+.
+Lend a Hand
+Whenever you bless or cleanse 1 Totem, while healing another Survivor and only once per Survivor, use
+"F"
+to give them
+2/3/4
+permanent healing charges.
+Cross-Examination
+While in the Killer's Terror Radius, the Killer leaves Light Marks that lasts for
+10s
+that you can see. While on the Killer's Light Marks, you gain
+Elusive
+. This ends after
+3/4/5s
+.
+Cross-Examination (CHANGE WILL BE IMPLEMENTED IN BUGFIX PATCH 3)
+While in the Killer's Terror Radius and not being chased by the Killer, the Killer leaves Light Marks that lasts for
+10s
+that you can see. While on the Killer's Light Marks, you gain
+Elusive
+. This ends after
+3/4/5s
+.
+Added the "not being chased by the Killer" to perk conditions
+Killer Add-on Updates
+The Slasher's add-ons
+Coroner's Coffee (Uncommon)
+Increases
+the distance Survivors are pushed by Spikes by 25%.
+Gain
+13% haste
+(was 8%) for
+3 seconds
+after injuring a Survivor with a
+Spike
+if they do not collide with the environment.
+Event
+The 10th Anniversary "Black Banquet" event will start Thursday, June 25th at 11:00 AM Eastern.
+You are cordially invited to the Black Banquet, where you are free to experience the finest dining The Fog has to offer. Join our prestigious guests and take your highly coveted seat at the table. A luxurious evening of decadence and gluttony awaits.
+Event Matches feature a Main Course and a Dessert, with each one offering a unique gameplay experience to feast on.
+Main Course: Takes place from the start of the match until 4 Generators are completed OR 1 Survivor remains.
+Dessert: After Main Course until the end of the match
+At the start of each Trial, the
+Menu of the Day
+will be selected and dictate 3 effects that will persist throughout the match:
+A Global Effect that persists through the entire Main Course
+A Personal Effect granted to Survivors dining on Morsels found at Dining Carts
+A Payoff Effect for Survivors that place enough Morsels of food on Banquet Tables in the map
+Killers gain a powerful Poison they can throw at Survivors or secretly poison objects with. Poison limits Survivor Sprinting while it’s active.
+The 3 Menu of the Day with their themes are:
+1. Stuffed Trotters:
+Speed
+2. Creamy Pasta:
+Pallets & Invincibility
+3. Baked Camembert:
+Portals & Invisibility
+See the in-game Gameplay Details for more information.
+Bug Fixes
+Audio
+Fixed an issue causing too much delay between healing end and saved voiceover.
+Fixed an internal issue causing a missing Killer voiceover in certain scenarios.
+Refactored all survivors & killers to say their intended lobby voiceover in the audio system.
+Fixed an issue where killer subtitles were appearing during survivor point of view, whilst the killer is out of visual range.
+Fixed an issue causing muffled environment audio a few seconds after starting a trial.
+Fixed an issue where The Cannibal's Chainsaw SFX was still playing when carrying a Survivor.
+Fixed an issue where Pallet stun stinger SFX was missing for Jason.
+Fixed an issue where the wrong SFX was played during the Trial Intro animation for Trickster.
+Fixed an issue causing the VO grunts of the Spirit to keep being from her Tomie customization after switching outfits.
+Fixed an issue when playing against The Artist, Survivors would not receive the Exposed SFX from the Garden of Rot addon after removing crows
+Fixed an issue where The Dark Lord’s Terror Radius lingered before ending after shapeshifting to Bat Form.
+Fixed an issue where The Slasher’s teleport mist played break audio when aimed at a dropped pallet.
+Characters
+Fixed an issue where The Nurse was missing a fire effect with a specific customization.
+Fixed an issue where The First has a deformed eye and a pointy nose during a Mori in Worldbreaker mode.
+Fixed an issue where as The First, Survivors getting hit with a Vine Attack while dropping a pallet would not enter the floating state
+Fixed an issue where The Knight’s Guards pathing behaved incorrectly around dropped pallets during a chase.
+Fixed an issue where The Knight did not have highlight aura feedback for guard orders on pallets.
+Fixed an issue where The Animatronic was missing flashlight immunity when grabbing a Survivor inside a doorway.
+Fixed an issue where The Dark Lord's wolf form backward movement speed incorrectly remained at 4.6 m/s.
+Fixed an issue where The Mastermind could not freely move the camera between dash buffers.
+Fixed an issue where visual issues occurred when The Slasher performed a Mini Mori near the end of a Spike's duration
+Fixed an issue where Survivors briefly appeared impaled after being unpinned by The Slasher.
+Fixed an issue where The Mastermind’s Virulent Bound dash reset animation played too early.
+Fixed an issue where The Deathslinger performing a basic attack while a Survivor was affected by their power could crash the application.
+Fixed an issue where The Slasher’s Mini Mori animation was misaligned on downed impaled Survivors.
+Environment/Maps
+Badham Preschool, Grim Pantry and Pale Rose Maps have been re-enabled.
+Fixed an issue in Sanctum of Wrath where the players could climb up a rock
+Fixed an issue in Trickster's Delusion where the Legion could not fast vault over a pallet in the market area
+Fixed an issue in Raccoon City Police Station where the Singularity could send Biopod out of the environment
+Fixed an issue in Ormond Lake Mine where projectiles can be blocked over some assets
+Fixed an issue in Raccoon City Police Station where the Nurse can blink out of the environment
+Fixed multiple issues in Trickster's Delusion where the players could climb up little assets on the ground
+Fixed an issue in Dead Dawg Saloon where players jitter when interacting with the clock of The First
+Fixed an issue in Autohaven's realm where the players could climb up a rock
+Fixed an issue in Badham Preschool where the killers would get stuck between hedges
+Fixed an issue in MacMillan's Estate where the players could climb on top of a rock
+Fixed an issue in Ormond Lake Mine where the Nurse cannot blink through the silos
+Fixed an issue in Nostormo where the Nurse can blink and get stuck in the shuttle
+Fixed an issue in Forgotten Ruins where the players could climb on top of assets
+Fixed issue in Toba Landing where players could climb on top of assets
+Fixed an issue in Eyrie of Crows where players would get stuck on hugging the walls of the shack when going down the stairs of the basement
+Fixed issue in Grim Pantry where it was missing projectile collision around Cabin walls
+Fixed an issue where The Lich’s Hand of Vecna failed to teleport Survivors in Badham Preschool lockers.
+Fixed an issue where The Knight’s patrol path extended too far on the bottom floor of the Giddeon Meat Plant map.
+Fixed an issue where The Lich’s Hand of Vecna failed to teleport Survivors in RPD West lockers.
+Fixed an issue where The Lich’s Hand of Vecna failed to teleport Survivors in Treatment Theatre lockers.
+Perks
+Fixed an issue where the scream notification bubble appeared for the last remaining Survivor affected by Hex: Face the Darkness.
+Fixed an issue where the Perk Alert would trigger twice when the Knight used a Guard to Break Pallet.
+Fixed an issue where the perk Hex: The Third Seal would activate incorrectly when The Trickster hit a Survivor with a blade for the first time.
+Fixed an issue where Buckle Up could not activate while recovering with Conviction.
+Fixed an issue where the Perk For the People could not be used a second time.
+Fixed an issue where A Nurse’s Calling incorrectly revealed the auras of Survivors being healed from the dying state.
+Fixed an issue where Wide Open Throttle did not go on cooldown when triggering Dissolution.
+UI
+Fixed an issue where the stamina bar would stay on screen until the end of the match when monitoring the animatronics security terminal while poisoned.
+Fixed an issue where the mending bar would appear and stay on screen when a survivor would interact with a security cameras.
+Fixed an issue where spectators could not see The Slasher’s mist during Omnipresent Evil.
+Fixed an issue where Survivors would incorrectly get the failed skill check animation when restarting work on the Lament Configuration.
+Fixed an issue where Omnipresent Evil red mist was incorrectly visible on other Survivors in spectator view.
+Fixed an issue where Spine Chill duration indicator would flicker when the Survivor stood at the edge of the Killer's line of sight.
+Misc
+Fixed an issue where "Save Game Error" could close the application.
+Fixed an issue causing player controller inputs to register when using the mouse & keyboard.
+Fixed an issue where confetti VFX were missing from two Event Med-Kits.
+Changes from Release
+New Perks
+Lend a Hand:
+Changed the perk so the effect can be used multiple times (still only once per other Survivor) as long as you fulfill the condition again, instead of only once per match.
+Known Issues
+During Regular and Custom Trials, Spectator will not be able to leave until Trial ends (Spectator will leave automatically right after).

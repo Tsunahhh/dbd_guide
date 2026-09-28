@@ -1,0 +1,402 @@
+Titre : Hens' Survivor Builds
+Auteur : Hens333
+URL : https://hens333.com/survivorbuilds
+Date de publication / mise à jour : non affichée (chunk JS Last-Modified 10/09/2026)
+Date de consultation : 28/09/2026
+Méthode : curl + BeautifulSoup (texte brut)
+Note : la page ne donne AUCUNE justification des builds ; les textes de perks affichés sont ceux du site (plusieurs valeurs obsolètes, voir kb/research/batch13_expert_survivor.md).
+======================================================================
+
+Hens' Survivor Builds
+Hens333
+Menu
+Home
+Merch
+NEW!
+FAQ
+Callouts
+YouTube
+Prof. Hens
+YouTube
+Not Hens
+Killer Builds
+Survivor Builds
+Contact
+FAQ
+Merch
+NEW!
+Callouts
+More Hens
+YouTube
+Prof. Hens
+YouTube
+Not Hens
+Best Builds
+Killer Builds
+Survivor Builds
+Contact
+Hens' Survivor Builds
+Welcome to Hens' curated survivor builds!
+Best Overall Build
+Dead Hard
+UNIQUE
+perk from
+David King
+"We were walkin' through t'ginnel one night when a beer bottle flew past me, then another, and another.I thought to myself "Gonna 'ave some fun 'ere lads, let's get stuck in!".It were a right dust up, I swear down!" — David King
+You can take a beating.
+Dead Hard activates after being unhooked or unhooking yourself.
+When you are injured, tap into your adrenaline bank to avoid damage.
+Press the Active Ability button while running to trigger the Endurance Status Effect for
+0.5
+seconds.
+Dead Hard then deactivates.
+Dead Hard causes the Exhausted Status Effect for
+60
+/
+50
+/
+40
+seconds.
+Dead Hard cannot be used when Exhausted.
+Deliverance
+UNIQUE
+perk from
+Adam Francis
+"I was raised by a strict man who taught me how to make the best of a bad situation." — Adam Francis
+After performing a Safe Hook Rescue on another Survivor,
+Causes your next Self-Unhook attempt to always succeed.
+Causes the Broken Status Effect for
+100
+/
+80
+/
+60
+seconds after unhooking yourself.
+Deliverance is not available during the second Hook Stage or if you are hooked as the last living Survivor in the Trial, regardless of your Hook Stage then.
+Decisive Strike
+UNIQUE
+perk from
+Laurie Strode
+"There is nothing to be scared of." — Laurie Strode
+Using whatever is at hand, you stab your aggressor in an ultimate attempt to escape.
+After being unhooked or unhooking yourself, Decisive Strike activates for the next
+40
+/
+50
+/
+60
+seconds:
+When being grabbed or picked up by the Killer, succeed a Skill Check to automatically escape their grasp, stunning them for
+4
+seconds.
+Successfuly stunning the Killer will disable Decisive Strike for the remainder of the Trial and result in you becoming the Obsession.
+While Decisive Strike is active, performing Conspicuous Actions will deactivate it for the remainder of the Trial.
+Decisive Strike deactivates once the Exit Gates are powered.
+Increases the Odds of becoming the initial Obsession of the Killer by
++100
+%.
+The Killer can only be obsessed with one Survivor at a time.
+Unbreakable
+UNIQUE
+perk from
+William "Bill" Overbeck
+"Goddammit, I am seriously FUBAR!" — Bill Overbeck
+Past battles have taught you a thing or two about survival.
+Once per Trial, you can completely recover from the Dying State.
+Your Recovery speed is increased by
+25
+/
+30
+/
+35
+%.
+Best Soloq
+Déjà Vu
+UNIQUE
+perk from
+All
+Unlocks potential in your Aura-reading ability:
+Paranoia paired with your horror of failure helps prepare you from repeating the same mistakes.
+The Auras of the
+3
+Generators, who are currently in closest proximity to one another, are revealed to you at all times.
+Increases your Repair speed on those Generators by
+4
+/
+5
+/
+6
+%.
+If you are holding a Map, all Generators revealed by Déjà Vu are automatically added to it.
+Windows of Opportunity
+UNIQUE
+perk from
+Kate Denson
+"Rise and shine, work hard, carve out your name,Take aim, pull the trigger, hit the bulls eye for fame,Know the value of faith, an' family, and don't you complain,Open wide, your windows of opportunity" — Kate Denson's "Windows of Opportunity"
+Unlocks potential in your Aura-reading ability.
+The Auras of Breakable Walls, Pallets, and Windows are revealed to you within
+24
+/
+28
+/
+32
+metres.
+Lithe
+UNIQUE
+perk from
+Feng Min
+After performing a
+Lithe causes the Exhausted Status Effect for
+60
+/
+50
+/
+40
+seconds.
+Lithe cannot be used when Exhausted.
+Kindred
+UNIQUE
+perk from
+All
+"Be kind to one another, We're all in this together" — Sujan, The Lost Tapes
+Unlocks potential in your Aura-reading ability:
+While you are hooked:
+The Auras of all Survivors are revealed to one another.
+Whenever the Killer is within
+8
+/
+12
+/
+16
+metres of your Hook, their Aura is revealed to all Survivors.
+While any other Survivor is hooked:
+The Auras of all other Survivors are revealed to you.
+Whenever the Killer is within
+8
+/
+12
+/
+16
+metres of the hooked Survivor, their Aura is revealed to you.
+Best Chase Build
+Dramaturgy
+UNIQUE
+perk from
+Nicolas Cage
+"Take the part. It's a good movie, he says. What's the worst that can happen?" — Nicolas Cage
+When people bring you on to their project, they do so because of the unexpected magic you bring to your performance.
+Whenever you are Healthy, Dramaturgy activates:
+While running, press the Active Ability button to run with knees high for
+0.5
+seconds to gain a
++25
+% Haste Status Effect for
+2
+seconds, followed by one of the following effects:
+Suffer from the Exposed Status Effect for
+12
+seconds.
+Extend the duration of the Haste Status Effect for another
+2
+seconds.
+Scream, but without notifying the Killer.
+Receive a random Item of Rare Rarity, with a random selection of Add-ons attached to it, automatically dropping any previously held Item.
+The same effect cannot happen twice in a row.
+Dramaturgy causes the Exhausted Status Effect for
+60
+/
+50
+/
+40
+seconds.
+Dramaturgy cannot be used when Exhausted.
+Finesse
+UNIQUE
+perk from
+undefined
+"Just need to push myself a bit further." — Lara Croft
+The threat of danger can motivate any creature to strengthen its resolve.
+Whenever you are healthy, Finesse activates:
+Increases your Vaulting speed for a Fast Vault by
++20
+%.
+Finesse has a cool-down of
+40
+/
+35
+/
+30
+seconds after performing a Fast Vault.
+Resilience
+UNIQUE
+perk from
+All
+"Focus, even in these desperate times."
+You are motivated in dire situations.
+Increases your Action speeds in Repairing, Healing, Sabotaging, Unhooking, Vaulting, Cleansing, Blessing, Opening, and Unlocking by
+3
+/
+6
+/
+9
+% when in the Injured State.
+Hope
+UNIQUE
+perk from
+All
+The growing odds of a successful escape fill you with hope and give you wings
+Once the Exit Gates are powered, Hope activates:
+Grants a permanent
+5
+/
+6
+/
+7
+% Haste Status Effect.
+Hens' Favorite Build
+Resurgence
+UNIQUE
+perk from
+Jill Valentine
+You have come back from near impossible odds...
+and you will do it again.
+After being unhooked or unhooking yourself, instantly gain
+40
+/
+45
+/
+50
+% to your Healing progress.
+Hope
+UNIQUE
+perk from
+All
+The growing odds of a successful escape fill you with hope and give you wings
+Once the Exit Gates are powered, Hope activates:
+Grants a permanent
+5
+/
+6
+/
+7
+% Haste Status Effect.
+Lithe
+UNIQUE
+perk from
+Feng Min
+After performing a
+Lithe causes the Exhausted Status Effect for
+60
+/
+50
+/
+40
+seconds.
+Lithe cannot be used when Exhausted.
+Dramaturgy
+UNIQUE
+perk from
+Nicolas Cage
+"Take the part. It's a good movie, he says. What's the worst that can happen?" — Nicolas Cage
+When people bring you on to their project, they do so because of the unexpected magic you bring to your performance.
+Whenever you are Healthy, Dramaturgy activates:
+While running, press the Active Ability button to run with knees high for
+0.5
+seconds to gain a
++25
+% Haste Status Effect for
+2
+seconds, followed by one of the following effects:
+Suffer from the Exposed Status Effect for
+12
+seconds.
+Extend the duration of the Haste Status Effect for another
+2
+seconds.
+Scream, but without notifying the Killer.
+Receive a random Item of Rare Rarity, with a random selection of Add-ons attached to it, automatically dropping any previously held Item.
+The same effect cannot happen twice in a row.
+Dramaturgy causes the Exhausted Status Effect for
+60
+/
+50
+/
+40
+seconds.
+Dramaturgy cannot be used when Exhausted.
+Best Anti-Tunnel Build
+Decisive Strike
+UNIQUE
+perk from
+Laurie Strode
+"There is nothing to be scared of." — Laurie Strode
+Using whatever is at hand, you stab your aggressor in an ultimate attempt to escape.
+After being unhooked or unhooking yourself, Decisive Strike activates for the next
+40
+/
+50
+/
+60
+seconds:
+When being grabbed or picked up by the Killer, succeed a Skill Check to automatically escape their grasp, stunning them for
+4
+seconds.
+Successfuly stunning the Killer will disable Decisive Strike for the remainder of the Trial and result in you becoming the Obsession.
+While Decisive Strike is active, performing Conspicuous Actions will deactivate it for the remainder of the Trial.
+Decisive Strike deactivates once the Exit Gates are powered.
+Increases the Odds of becoming the initial Obsession of the Killer by
++100
+%.
+The Killer can only be obsessed with one Survivor at a time.
+Dead Hard
+UNIQUE
+perk from
+David King
+"We were walkin' through t'ginnel one night when a beer bottle flew past me, then another, and another.I thought to myself "Gonna 'ave some fun 'ere lads, let's get stuck in!".It were a right dust up, I swear down!" — David King
+You can take a beating.
+Dead Hard activates after being unhooked or unhooking yourself.
+When you are injured, tap into your adrenaline bank to avoid damage.
+Press the Active Ability button while running to trigger the Endurance Status Effect for
+0.5
+seconds.
+Dead Hard then deactivates.
+Dead Hard causes the Exhausted Status Effect for
+60
+/
+50
+/
+40
+seconds.
+Dead Hard cannot be used when Exhausted.
+Off the Record
+UNIQUE
+perk from
+Zarina Kassir
+"Trust me, I investigate thoroughly and discreetly." — Zarina Kassir
+You have learnt that a quiet approach is sometimes best.
+After being unhooked or unhooking yourself, Off the Record activates for the next
+60
+/
+70
+/
+80
+seconds:
+Prevents your Aura from being revealed to the Killer, if they attempt to read it.
+Suppresses Grunts of Pain when injured.
+Grants the Endurance Status Effect.
+This effect is cancelled prematurely if you perform a Conspicuous Action.
+Off the Record deactivates once the Exit Gates are powered.
+Hope
+UNIQUE
+perk from
+All
+The growing odds of a successful escape fill you with hope and give you wings
+Once the Exit Gates are powered, Hope activates:
+Grants a permanent
+5
+/
+6
+/
+7
+% Haste Status Effect.
+BACK TO TOP

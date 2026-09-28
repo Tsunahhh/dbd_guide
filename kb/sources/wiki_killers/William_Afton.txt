@@ -1,0 +1,2861 @@
+# William Afton
+Source: https://deadbydaylight.wiki.gg/wiki/William_Afton (page complète via API, consultée le 27/09/2026)
+
+The Animatronic
+
+Name
+
+William Afton
+
+Game Alias(es)
+
+"Springtrap"
+
+Gender
+
+Man
+
+Origin
+
+American of English descent
+
+Realm
+
+Withered Isle
+
+Power
+
+Fazbear's Fright
+
+Power 
+Attack
+ Type
+
+Special Attack
+
+(Fire Axe)
+
+Weapon
+
+Pizza Knife
+
+Movement Speed
+
+110 % 
+|
+ 4.4 m/s
+
+Alternate Movement speed
+
+115 % 
+|
+ 4.6 m/s
+(No Axe)
+
+Terror Radius
+
+24 metres
+
+Height 
+
+Average
+
+DLC
+
+Five Nights at Freddy's
+
+Voice Actor
+
+PJ Heywood (Original Voice Actor)
+
+Cost
+
+500 
+Auric Cells
+
+Menu Music
+
+Terror Radius Music
+
+Metadata
+
+CharID
+
+K40
+
+William Afton
+ or 
+"The Animatronic"
+, also known as "
+Springtrap
+", is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+.
+
+He was introduced as the Killer of 
+Five Nights at Freddy's
+, a Chapter DLC released on 17 June 2025.
+
+He originates from the Video Game Franchise 
+Five Nights at Freddy's
+, specifically 
+Five Nights at Freddy's 3 (2015)
+.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: Pizza Knife
+
+3.3
+ 
+Power: Fazbear's Fright
+
+3.3.1
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for Fazbear's Fright
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Base Cosmetics
+
+5.1.1
+ 
+Default
+
+5.1.2
+ 
+Prestige
+
+5.1.2.1
+ 
+Perk Charms
+
+5.1.2.2
+ 
+Prestige Badges
+
+5.2
+ 
+In-Game Store
+
+5.3
+ 
+Alternate Character Models
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+General
+
+8.2
+ 
+Character Memes
+
+8.3
+ 
+Cosmetics
+
+8.4
+ 
+Easter Eggs
+
+8.5
+ 
+Voice Actor
+
+8.6
+ 
+Voice Lines
+
+9
+ 
+Gallery
+
+9.1
+ 
+In-game Assets
+
+9.2
+ 
+Official Art
+
+9.3
+ 
+Outfits
+
+9.4
+ 
+Screenshots
+
+10
+ 
+References
+
+Overview
+
+A monstrosity of flesh and metal, Springtrap’s bloodstained past is littered with the innocent dead. His horrifying innovations are a reminder that beneath the cruelty lies a brilliant inventor, whose creations brought laughter and screams to the same unfortunate audience.
+
+The Animatronic
+ always comes back.
+
+His personal Perks, 
+Help Wanted
+, 
+Phantom Fear
+, and 
+Haywire
+, help him compromise 
+Generators
+, make Survivors scream, and regress 
+Exit Gate Switches
+.
+
+Lore
+
+Deep within the abandoned Freddy Fazbear's Pizza, William Afton ran from the ghosts of his victims. He frantically put on his beloved Spring Bonnie costume, the disguise he wore while committing his heinous crimes, to hide from the pursuing spirits.
+
+But fate had different plans for Afton. Something activated the springlocks within the Spring Bonnie costume. Metal clamped against metal, piercing the murderer and trapping him in his costume. As he screamed, the checkerboard floor rose up to meet him, and everything went black.
+
+Thus was Springtrap born: from the death of a murderer.
+
+He awoke to a familiar sound, his body a pillar of agony. The ghosts that had tormented him were gone. The walls surrounding him were decomposing, the floor beneath him failing away in mouldy patches. How much time had transpired since the springlocks tore through his body and fixed him within his costume? The urge to kill lingered within him still, the thirst long left unquenched.
+
+The sound filled his ears again, Children`s laughter. Were children playing in the kitchen? Springtrap rose to his feet, adjusting to his new body, and marched towards the sounds.
+
+He picked up speed as he moved. Walking turned to running. He rushed into the kitchen and found,
+
+Nothing.
+
+No children, no games, no laughter. Just a swirling mass of black fog enveloping the far wall.
+
+Springtrap examined the fog. Curiosity tightened his grip on him as he stared into the darkness, his distended eyes could see shapes emerge within the fog.
+
+Who were they? It didn`t matter. They were his victims now. Somehow, he knew the hunt could go on forever.
+
+All he had to do was step into the fog.
+
+Load-out
+
+Unique Perks
+
+The Animatronic
+ comes with 
+3
+ 
+Perks
+ that are unique to him:
+
+ 
+
+Haywire
+
+"For some reason, machinery has a habit of failing when you are near."
+
+Whenever a Survivor stops opening an 
+Exit Gate
+ after accumulating at least 
+80 %
+ Progression towards being opened, 
+Haywire
+ causes it to regress:
+
+Regresses
+ at a rate of 
+80
+/
+90
+/
+100
+ 
+%
+ of the normal Gate-Opening speed.
+
+Causes Survivors to see the lights atop the switch flickering randomly while it regresses.
+
+"There will be no redemption for you." — Springtrap
+
+ 
+
+Help Wanted
+
+This description is based on the changes announced for or featured in the upcoming Patch 10.2.0
+"Try as they might, you know how to stay one step ahead of your guests."
+
+After performing the 
+Damage Generator
+ action, 
+Help Wanted
+ activates:
+
+Causes that 
+Generator
+ to become a 
+Compromised Generator
+.
+
+Up to 
+3
+ 
+Generators
+ can be 
+Compromised
+ at a time.
+
+The 
+Auras
+ of all 
+Compromised Generators
+ are highlighted to you in 
+yellow
+.
+
+Once a 
+Compromised Generator
+ is completed, 
+Help Wanted
+ triggers its effects for 
+100
+/
+110
+/
+120
+ 
+seconds
+:
+
+Increases
+ the Recovery speed of successful 
+Basic Attacks
+ by 
++25 %
+.
+
+All 
+Generators
+ not being repaired will automatically regress at 
+150 %
+ of the default Regression rate.
+
+Additionally, all other 
+Generators
+ are no longer 
+Compromised
+.
+
+"You only think you are in control..." — Springtrap
+
+ 
+
+Phantom Fear
+
+"You have always had a reputation for startling unsuspecting guests."
+
+Whenever a Survivor within your 
+Terror Radius
+ looks at you, they suffer from the following effects:
+
+Causes them to scream and reveal their 
+Aura
+ to you for 
+2 seconds
+.
+
+Phantom Fear
+ has a cool-down of 
+80
+/
+70
+/
+60
+ 
+seconds
+.
+
+"Excellent. Your screams please me." — Springtrap
+
+Prestige
+
+Prestiging 
+The Animatronic
+ will automatically add 
+Tier I
+ of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Animatronic
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: Pizza Knife
+
+The 
+Pizza Knife
+ is the Primary Weapon of 
+The Animatronic
+.
+Death was not the end. He was born anew, driven to continue his killing spree.
+
+Power: Fazbear's Fright
+
+"The Animatronic lived to kill, even when his mechanical costume became his tomb."
+SPECIAL ABILITY: FAZBEAR'S FRIGHT
+The Animatronic
+ is armed with a 
+Fire Axe
+, that he can throw, and causes 
+7
+ 
+Security Doors
+ to spawn in the environment.
+SPECIAL ABILITY: FIRE AXE
+Press and hold the 
+Power button
+ to initiate 
+Ready Aim
+.
+Press the 
+Attack button
+ to throw the 
+Fire Axe
+ or release the 
+Power button
+ to cancel the Power.
+If the 
+Fire Axe
+ hits a Survivor, the Survivor is damaged for one health state, and, if Healthy, has the 
+Fire Axe
+ embedded into them.
+Survivors with an embedded 
+Fire Axe
+ are inflicted with the 
+Broken
+ and 
+Oblivious
+ 
+Status Effects
+.
+If the 
+Fire Axe
+ hits the environment, the 
+Fire Axe
+ becomes embedded and creates an 
+Area of Effect
+ of 
+2 metres
+ around it. Any Survivors caught inside the area are revealed by 
+Killer Instinct
+.
+If the 
+Fire Axe
+ hits a 
+Security Door
+, the door becomes disabled for all Survivors until the 
+Fire Axe
+ is removed.
+SPECIAL INTERACTION: RECLAIM AXE
+While the 
+Fire Axe
+ is off cool-down, press the 
+Secondary Power button
+ to retrieve the 
+Fire Axe
+.
+SPECIAL INTERACTION: GRAB AXE
+Press the 
+Power button
+ while infront of a Survivor with an embedded 
+Fire Axe
+ to perform a special sequence that instantly carries the Survivor and returns the 
+Fire Axe
+ to 
+The Animatronic
+.
+SPECIAL MAP FEATURE: SECURITY SYSTEM
+The 
+Security Doors
+ found in the enviroment can be accessed by both Survivors and 
+The Animatronic
+.
+Upon entering a 
+Security Door
+, 
+The Animatronic
+ benefits from the following effect:
+
+Grants the 
+Undetectable
+ 
+Status Effect
+.
+
+This effect lingers for 
+20 seconds
+ after travelling to an another 
+Security Door
+.
+
+SPECIAL INTERACTION: CAMERA VIEW
+Each 
+Security Door
+ has a 
+Camera
+ attached to it.
+Interacting with the door gives a Survivor access to the 
+Camera View
+, allowing them to cycle through every 
+Camera
+:
+
+Survivors are able to travel to the selected 
+Security Door
+ by pressing the 
+Secondary Action button
+
+Survivors are also able to reveal 
+The Animatronic
+ by looking at him through 
+Camera View
+, doing so reveals his aura to all Survivors for 
+10 seconds
+ and removes the 
+Undetectable
+ granted by 
+Security Door
+ travel.
+
+SPECIAL MECHANIC: BATTERY POWER
+Using the 
+Cameras and Security Doors
+ will drain the battery power. Fully depleting the battery power shuts down the 
+Security System
+ for 
+45 seconds
+, forcing Survivors to wait until the system reboots.
+The Animatronic
+ may travel between doors with or without battery power.
+SPECIAL LOCATION: SECURITY ROOM
+If 
+The Animatronic
+ enters a 
+Security Door
+, they may choose to exit from any other door in the environment.
+Moving to a door already in use by a Survivor will cause 
+The Animatronic
+ to grab that Survivor.
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Performing an Axe Throw: 
+2.76 m/s
+
+Winding up an Axe Throw: 
+3.68 m/s
+
+Walking: 
+4.4 m/s
+
+Walking without the Fire Axe equipped: 
+4.6 m/s
+
+If 
+The Animatronic's
+ Fire Axe is embedded on the environment or on a survivor, he will walk at this movement speed.
+
+Fire Axe:
+
+Winding up a Throw: 
+1 second
+
+Winding up grace period: 
+0.15 seconds
+
+The grace period is part of the winding up phase and starts as soon as the input for it is initiated, making the wind up action seem shorter than it actually is.
+
+Cancel Wind up: 
+1 second
+
+Recall Duration: 
+1.5 seconds
+
+Post-Throw Cool-down Duration: 
+2 seconds
+
+This cool-down starts after the projectile launch phase is finished.
+
+Missed Fire Axe Recharge: 
+6 seconds
+
+Successful Fire Axe Recharge: 
+8 seconds
+
+The cooldown starts as soon as the projectile lands on a player or the environment.
+
+Projectile Launch: 
+0.25 seconds
+
+Projectile Speed: 
+30 m/s
+
+Projectile Gravity: 
+68.6 m/s
+2
+
+Projectile Maximum Range: 
+16 metres
+
+Hitboxes:
+
+Environmental Collision Radius: 
+0.05 metres
+
+Survivor Detection Radius: 
+0.55 metres
+
+Grab/Jumpscare:
+
+Grab Survivor Interaction: 
+4.2 seconds
+
+Grab distance: 
+3 metres
+
+Killer look angle tolerance for a valid grab: 
+45°
+
+Area of Effect:
+
+AoE shrinking time: 
+0 seconds
+
+AoE expansion time: 
+0.5 seconds
+
+AoE duration: 
+15 seconds
+
+Initial AoE Radius: 
+1 metre
+
+Final AoE Radius: 
+2 metres
+
+Near-Miss:
+
+Near-Miss Killer Instinct Duration: 
+2 seconds
+
+Near-Miss Radius: 
+1 metre
+
+Security Doors:
+
+Killer Exit Door: 
+1 second
+
+Killer Enter Door: 
+2 seconds
+
+Killer Teleport: 
+3 seconds
+
+Office Jumpscare duration: 
+2.5 seconds
+
+Disabled Security Door linger duration: 
+10 seconds
+
+If 
+The Animatronic
+ embeds the 
+Fire Axe
+ on a 
+Security Door
+ to disable the door and then decides to recall the axe, the affected door will remain disabled for Survivors for this amount of time.
+
+Undetectable lingering effect duration: 
+20 seconds
+
+Distance threshold for generators near Security Doors: 
+16 metres
+
+If an already spawned Security Door is closer than this threshold from the generator being evaluated, a harsher penalty will be applied for spawning another Security Door.
+
+Survivor Interactions:
+
+Fire Axe:
+
+Altruistic Remove Axe Interaction: 
+5 seconds
+
+Self-Remove Axe Interaction: 
+8 seconds
+
+Security Doors:
+
+Maximum Security Door aura reveal distance: 
+16 metres
+
+Killer reveal system:
+
+Look at Killer distance to reveal: 
+18 metres
+
+Look at Killer time to reveal: 
+4 seconds
+
+Look at Killer angle to reveal: 
+25°
+
+Killer reveal to all survivors duration: 
+10 seconds
+
+Security Camera system:
+
+Minimum camera transition time: 
+0.1 seconds
+
+Max security camera pitch: 
+40°
+
+Max security camera yaw: 
+180°
+
+Office Area:
+
+Survivor Enter Door: 
+1 second
+
+Survivor Exit Door: 
+2 seconds
+
+Survivor Teleport: 
+5 seconds
+
+Battery:
+
+Battery consumption on Survivor Door Traversal: 
+-12 charges
+
+Battery maximum charge: 
+100 charges
+
+Battery upon reboot completion: 
+50 charges
+
+Battery threshold to enter reboot phase: 
+0 charges
+
+Battery recharge rate: 
++5 c/s
+
+Battery decharge rate per camera in use: 
+-6 c/s
+
+Battery reboot duration: 
+45 seconds
+
+Add-ons for Fazbear's Fright
+
+Icon
+
+Name
+
+Description
+
+Greasy Paper Plate
+
+"It sticks to everything it touches.
+No amount of soap can wash it off."
+
+While removing the 
+Fire Axe
+ embedded in them, the Survivor suffers from the following effect:
+
+Increases
+ the Removal time by 
++15 %
+.
+
+Help Wanted Ad
+
+"We all need a little help sometimes..."
+
+While winding up an axe throw, you benefit from the following effect:
+
+Shows the starting trajectory of the 
+Fire Axe
+.
+
+Restaurant Menu
+
+"The lamination is peeling and crusty.
+How appetising."
+
+While retrieving the 
+Fire Axe
+ whenever it is embedded in the environment, you benefit from the following effect:
+
+Reduces
+ the minimum Retrieval time by 
+-10 %
+.
+
+Rotten Pizza
+
+"Food poisoning is no laughing matter."
+
+You benefit from the following effect:
+
+Increases
+ the duration of 
+Killer Instinct
+ from the 
+Fire Axe
+ by 
++100 %
+.
+
+Office Phone
+
+"He tried to leave messages as a warning.
+He did not last long, either."
+
+While within 
+24 metres
+ of the Survivor embedded with the 
+Fire Axe
+, the following primary effects are applied to other Survivors:
+
+Decreases
+ the time required to remove the 
+Fire Axe
+ from another Survivor by 
+-50 %
+.
+
+Reveals
+ the 
+Aura
+ of the 
+Fire Axe
+.
+
+Inflicts the 
+Oblivious
+ 
+Status Effect
+.
+
+Additionally, if they are in the 
+Injured State
+, they also suffer from the secondary effect:
+
+Inflicts the 
+Broken
+ 
+Status Effect
+.
+
+Party Hat
+
+"The party never ends, no matter how much they beg."
+
+While the 
+Fire Axe
+ is embedded in the environment, the following effects apply:
+
+Increases
+ the maximum size of the 
+Area of Effect
+ by 
++250 %
+.
+
+Increases
+ the expansion time of the 
+Area of Effect
+ by 
++2.5 seconds
+.
+
+Reduces
+ the duration of the 
+Area of Effect
+ by 
+-20 %
+.
+
+Ripped Curtain
+
+"Taken from Pirates Cove, caught on the animatronic that lived there."
+
+Survivors hit with the 
+Fire Axe
+ suffer from the following effects:
+
+Inflicts the 
+Haemorrhage
+ and 
+Mangled
+ 
+Status Effects
+ for 
+60 seconds
+.
+
+Security Guard's Badge
+
+"The badge comes with certain privileges for whoever carries it."
+
+Upon exiting a 
+Security Door
+ after teleporting to it, the following effect applies:
+
+Extends
+ the duration of the 
+Undetectable
+ 
+Status Effect
+ by 
++25 %
+ to 
+25 seconds
+.
+
+Streamers
+
+"Employees would throw them over the rafters for a quick decoration."
+
+While travelling through the 
+Security Doors
+, you benefit from the following effect:
+
+Increases
+ your Movement Speed by 
++15 %
+.
+
+Bonnie's Guitar Strings
+
+"Worn strings that are off-tune and liable to snap."
+
+Unlocks potential in your Aura-reading ability while moving between 
+Security Doors
+:
+
+The intensity of the 
+Generator
+ 
+Auras
+ reveals their current Repair progress.
+
+Upon exiting a 
+Security Door
+ after teleporting to it, the following effect applies:
+
+Reduces
+ the duration of the 
+Undetectable
+ 
+Status Effect
+ by 
+-100 %
+ to 
+0 seconds
+.
+
+This causes the 
+Status Effect
+ to be removed instantly.
+
+Chica's Bib
+
+"A good way to keep Mr Cupcake from making a mess."
+
+While inside the 
+Area of Effect
+ of the 
+Fire Axe
+, Survivors suffer from the following effect:
+
+Inflicts the 
+Exhausted
+ 
+Status Effect
+.
+
+This effect lingers for 
+5 seconds
+ after leaving the 
+Area of Effect
+.
+
+Foxy's Hook
+
+"A pirate's hook that seems more menacing than playful."
+
+While inside the 
+Area of Effect
+ of the 
+Fire Axe
+, Players benefit from the following effect:
+
+Grants a 
++7 %
+ 
+Haste
+ 
+Status Effect
+.
+
+This effect lingers for 
+6 seconds
+ after leaving the 
+Area of Effect
+.
+
+Freddy's Hat
+
+"Gabriel trusted the wrong grown-up.
+Now he is the star of the show."
+
+Modifies the trajectory of the 
+Fire Axe
+:
+
+Increases
+ the weight of the 
+Fire Axe
+ by 
++100 %
+.
+
+Purple Guy Drawing
+
+"He only takes 10 seconds to draw!"
+
+While a Survivor has the 
+Fire Axe
+ embedded in them, whenever they perform a 
+Rushed
+ action of any kind, 
+Purple Guy Drawing
+ triggers its primary effect:
+
+Their 
+Aura
+ is revealed to you for 
+3 seconds
+.
+
+After removing the 
+Fire Axe
+ by themselves, 
+Purple Guy Drawing
+ triggers its secondary effect:
+
+Their Aura is revealed to you for 
+6 seconds
+.
+
+Access Panel
+
+"Gaining control over the security doors is key to getting the job done."
+
+Unlocks a special ability for the 
+Fire Axe
+:
+
+The 
+Fire Axe
+ can travel through 
+Security Doors
+ and will exit straight through the connected 
+Security Door
+.
+
+While aiming the 
+Fire Axe
+, you benefit from the following effect:
+
+Survivors within 
+6 metres
+ of any 
+Security Door
+ trigger 
+Killer Instinct
+.
+
+Celebrate! Poster
+
+"The celebration lasts all night long, or until no one is left."
+
+After embedding the 
+Fire Axe
+ in a Survivor, all Players benefit from the following effects while within 
+32 metres
+ of that Survivor:
+
+Grants a 
++12 %
+ 
+Haste
+ 
+Status Effect
+.
+
+Increases
+ the Vaulting speed by 
++20 %
+.
+
+Both effects last until the 
+Fire Axe
+ is removed.
+
+Endo CPU
+
+"Greater computing power, for greater efficacy."
+
+While inside the 
+Area of Effect
+ of the embedded 
+Fire Axe
+, you benefit from the following effect:
+
+Increases
+ the Action speeds for Breaking and Damaging by 
++40 %
+.
+
+This effect lingers for 
+5 seconds
+ after leaving the 
+Area of Effect
+.
+
+Loot Bag
+
+"Open the bag, and see what goodies are inside."
+
+While a Survivor has the 
+Fire Axe
+ embedded in them, they suffer from the following effect:
+
+Blocks
+ the 
+Exit Gates
+ for that Survivor and also for all other Survivors within 
+12 metres
+ of them.
+
+Faz-Coin
+
+"Collecting these tokens comes with a price."
+
+Upon throwing the 
+Fire Axe
+, the following effects are applied:
+
+Causes the 
+Fire Axe
+ to emit a copy of your 
+Terror Radius
+ until it is retrieved.
+
+This 
+Terror Radius
+ is set to 
+24 metres
+.
+
+Grants the 
+Undetectable
+ 
+Status Effect
+ for 
+10 seconds
+.
+
+Iridescent Remnant
+
+"Molten metal — in the right hands, it is the key to immortality."
+
+Upon travelling to a 
+Security Door
+, the following effect is applied to it:
+
+Blocks
+ all upright 
+Pallets
+ within 
+32 metres
+ of that 
+Security Door
+ for 
+12 seconds
+.
+
+Achievements
+
+ 
+Main article: 
+Achievements
+ 
+
+There are 
+2
+ Achievements related to 
+The Animatronic
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Animatronic
+
+Playing as The 
+Animatronic
+, achieve a 
+Merciless Victory
+ using only his 
+3
+ Unique Perks: 
+Help Wanted
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+This description is based on the changes announced for or featured in the upcoming Patch 10.2.0
+"Try as they might, you know how to stay one step ahead of your guests."
+
+After performing the 
+Damage Generator
+ action, 
+Help Wanted
+ activates:
+
+Causes that 
+Generator
+ to become a 
+Compromised Generator
+.
+
+Up to 
+3
+ 
+Generators
+ can be 
+Compromised
+ at a time.
+
+The 
+Auras
+ of all 
+Compromised Generators
+ are highlighted to you in 
+yellow
+.
+
+Once a 
+Compromised Generator
+ is completed, 
+Help Wanted
+ triggers its effects for 
+100
+/
+110
+/
+120
+ 
+seconds
+:
+
+Increases
+ the Recovery speed of successful 
+Basic Attacks
+ by 
++25 
+.
+
+All 
+Generators
+ not being repaired will automatically regress at 
+150 
+ of the default Regression rate.
+
+Additionally, all other 
+Generators
+ are no longer 
+Compromised
+.
+
+"You only think you are in control..." — Springtrap
+
+, 
+Phantom Fear
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"You have always had a reputation for startling unsuspecting guests."
+
+Whenever a Survivor within your 
+Terror Radius
+ looks at you, they suffer from the following effects:
+
+Causes them to scream and reveal their 
+Aura
+ to you for 
+2 seconds
+.
+
+Phantom Fear
+ has a cool-down of 
+80
+/
+70
+/
+60
+ 
+seconds
+.
+
+"Excellent. Your screams please me." — Springtrap
+
+, and 
+Haywire
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+"For some reason, machinery has a habit of failing when you are near."
+
+Whenever a Survivor stops opening an 
+Exit Gate
+ after accumulating at least 
+80 
+ Progression towards being opened, 
+Haywire
+ causes it to regress:
+
+Regresses
+ at a rate of 
+80
+/
+90
+/
+100
+ 
+%
+ of the normal Gate-Opening speed.
+
+Causes Survivors to see the lights atop the switch flickering randomly while it regresses.
+
+"There will be no redemption for you." — Springtrap
+
+.
+
+Jump Scared
+
+Playing as The 
+Animatronic
+, successfully interrupt a Survivor moving through the 
+Security Office
+ a total of 
+15 times
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Animatronic
+:
+
+Base Cosmetics
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Rotting Skull
+
+Common
+
+He donned the headpiece, desperate to hide from the spirits of his past.
+
+Activated Springlocks
+
+Common
+
+The internal mechanisms tore through flesh and bone as they snapped into place.
+
+Pizza Knife
+
+Common
+
+Death was not the end.
+He was born anew, driven to continue his killing spree.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Bloodthirsty Skull
+
+Rare
+
+He donned the headpiece, tormented by the horrors of his past.
+
+Visceral Springlocks
+
+Rare
+
+The internal mechanisms ripped him apart as they snapped into place.
+
+Splattered Pizza Knife
+
+Rare
+
+Death could not stop him. He was born anew, driven to shed further blood.
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+A murderer entombed in the costume he wore as he slaughtered his victims.
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Toxic Springtrap
+
+Five Nights at Freddy's
+
+17 June 2025 (Tuesday)
+
+Description
+
+He emerged from the depths of corrosive despair, radiating a newfound evil.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Bubonic Bunny
+
+Five Nights at Freddy's
+
+Engorged cysts emerged from the suit. His mind swam with disturbing sensations.
+
+Piece
+
+Name
+
+Collection
+
+Fuming Fur
+
+Five Nights at Freddy's
+
+Veins coiled around his appendages, organic tissue that brought forth even more cysts.
+
+Piece
+
+Name
+
+Collection
+
+Melted Knife
+
+Five Nights at Freddy's
+
+The corrosion ate away at the blade, sacrificing none of its brutal efficacy.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Clown Springtrap
+
+Five Nights at Freddy's
+
+17 June 2025 (Tuesday)
+
+Description
+
+As the fog settled, he felt himself take on a form he did not recognize.
+
+1080
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Grease Paint Bunny
+
+Five Nights at Freddy's
+
+The makeup did not come off as he rubbed his fingertips against the matted fur.
+
+Piece
+
+Name
+
+Collection
+
+Bowtie & Boutonniere
+
+Five Nights at Freddy's
+
+The sight of a jacket and pants caught him by surprise. His characters often went without clothes.
+
+Piece
+
+Name
+
+Collection
+
+Serrated Party Knife
+
+Five Nights at Freddy's
+
+The blade was something to behold. And he knew many would in their final moments.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Glitchtrap
+
+Five Nights at Freddy's
+
+17 June 2025 (Tuesday)
+
+Description
+
+A mascot from the machine. A virtual manifestation of evil made flesh in the Entity's Realm.
+
+1485
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Grinning Bunny
+
+Five Nights at Freddy's
+
+What lies behind those purple eyes and that malicious smile?
+
+Piece
+
+Name
+
+Collection
+
+Fetching Vest
+
+Five Nights at Freddy's
+
+He was torn apart and reassembled by various beta testers throughout development.
+
+Piece
+
+Name
+
+Collection
+
+Wireframe Knife
+
+Five Nights at Freddy's
+
+Even his weapon of choice was corrupted by untold errors.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Yellow Rabbit
+
+Five Nights at Freddy's
+
+17 June 2025 (Tuesday)
+
+Description
+
+As he was dragged away by his own creations, a black fog took hold and dragged him somewhere else entirely.
+
+1485
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Killer's Sneer
+
+Five Nights at Freddy's
+
+Most knew him as a well-intentioned career counselor, but his facade concealed his true identity.
+
+Piece
+
+Name
+
+Collection
+
+Friendly Costume
+
+Five Nights at Freddy's
+
+He had killed many times before, disposing of the bodies inside the animatronics at a local pizzeria.
+
+Piece
+
+Name
+
+Collection
+
+Final Knife
+
+Five Nights at Freddy's
+
+Any semblance of morality was long gone. Nothing and no one would stop him.
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Blighted Springtrap
+
+Five Nights at Freddy's
+
+31 October 2025 (Friday)
+
+Description
+
+The serum coursed through man and machine, coming to life as it touched the rotting tissue.
+
+1296
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Oozing Headpiece
+
+Five Nights at Freddy's
+
+The rabbit's head glowed from within. The blight bubbled and crept outward ever so slowly.
+
+Piece
+
+Name
+
+Collection
+
+Pustulated Mascot
+
+Five Nights at Freddy's
+
+Serum burned with unnatural vitality as it flowed down the length of his arms and abdomen.
+
+Piece
+
+Name
+
+Collection
+
+Watchful Knife
+
+Five Nights at Freddy's
+
+Injected from the handle, the experiment yielded disturbing results along the length of the blade.
+
+Alternate Character Models
+
+The Animatronic
+ has 
+2
+ alternate Character models available in the in-game Store:
+
+Yellow Rabbit
+
+Glitchtrap
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Animatronic
+ is part of 
+1
+ DLC:
+
+Five Nights at Freddy's
+
+Change Log
+
+Patch 9.0.1
+Patch 9.6.0
+Patch 9.0.1
+
+Survivor Quality of Life
+: adjusted the Aura-colour of the 
+Security Door
+ the 
+The Animatronic
+ is currently at for Survivors viewing him through the 
+Security Cameras
+ to improve the distinction between various Aura-colours.
+Patch 9.6.0
+
+Buff
+: decreased the cool-down of the Fire Axe when hitting the environment from 
+7 seconds
+ to 
+6 seconds
+.
+
+Buff
+: decreased the cool-down of the Fire Axe when hitting a Survivor from 
+10 seconds
+ to 
+8 seconds
+.
+
+Survivor Buff
+: decreased the consumption rate of the battery power per Camera active from 
+-7 %/s
+ to 
+-6 %/s
+.
+
+Survivor Buff
+: decreased the consumption of the battery power when a Survivor uses door travel from 
+15 %
+ to 
+12 %
+.
+
+Change
+: Grab Axe interaction now uses the Power input instead of the Attack input.
+
+Trivia
+
+General
+
+The Animatronic
+ was the fifth video game licensed Killer featured in 
+Dead by Daylight
+.
+
+The Animatronic
+ is the second Killer with a Power that allows him to immediately grab Survivors that is separate from a basic grab.
+
+The Animatronic
+ is the first Killer to feature 2 unique intro animations in the lobby.
+
+The Animatronic's
+ design in 
+Dead by Daylight
+ retains many details from his origin franchise with subtle changes for the game;
+
+On his body, he lacks the original black button on his chest, as well as the darker color patterns on his stomach, ears, waist and legs.
+
+On his head he misses his jaw springlocks that pierced his cheeks, but did return in his 
+Blighted Springtrap
+ cosmetic.
+
+William Afton's
+ decayed corpse is present inside the suit as opposed to in the 
+Five Nights at Freddy's
+ series, where only his head and intestines were visible.
+
+For 
+Dead by Daylight
+, 
+William's
+ arms and legs are severed at the elbow and ankles, respectively.
+
+His lore references multiple different parts of 
+Five Nights at Freddy's 3
+:
+
+The first 3 lines reference his death and rebirth as seen at the end of 
+Night 5
+; being chased by the ghosts of his victims until being forced into a springlock animatronic suit, that then malfunctions and kills him.
+
+The 5th line references the 
+audio lure
+, a gameplay mechanic that involves luring Springtrap around 
+Fazbear's Fright
+ using an audio sample of a child's laughter.
+
+This lure was presumably used by the Entity to lure 
+William
+ to The Fog, as his lore takes place before he was brought to Fazbear's Fright.
+
+Prior to 
+Dead By Daylight
+, 
+William Afton
+ was not depicted with a 
+Fire Axe
+ in any official media, or a 
+Pizza Knife
+, but a standard kitchen knife in the graphic novels and the movie.
+
+The choice for a 
+Fire Axe
+ in 
+Dead By Daylight
+ might be informed design, since the character is associated with burning buildings. The overall visuals of the 
+Fire Axe
+ reflect this.
+
+The 
+Fire Axe
+ could also be a direct reference to fan content, with 
+William Afton
+ wielding a 
+Fire Axe
+ In 
+The Living Tombstone's Five Nights at Freddy's 3
+ music video titled 
+"Die in a fire"
+ in which he uses it to dismember the main 4 
+animatronics
+ in the series. This animation is a more plausible rendition of the 
+Five Nights at Freddy's 3
+ minigame where 
+William Afton
+ dismembers them by hand. This could make sense considering the events of the minigame and animation take place right before 
+William Afton
+ gets springlocked which leads to 
+Afton
+ finding the Fog after waking up, possibly bringing the axe with him.
+
+The pizza knife could very likely be to make his weapon stand out more as 
+Michael Myers
+ and 
+Chucky
+  both use a kitchen knife, as well as to make the kitchen knife exclusive to the 
+Yellow Rabbit
+.
+
+Character Memes
+
+One of his voicelines ("I'm the fun one!") has become very popular and iconic among the community and content creators, and since then has been used in a variety of videos, audios and posts.
+
+Cosmetics
+
+All of Springtrap's skins originate and are inspired by the 
+Five Nights at Freddy's
+ franchise and characters.
+
+Default Outfit
+ is taken directly from 
+Five Nights at Freddy's 3 (2015)
+, although with some changes.
+
+Toxic Springtrap
+ and 
+Clown Springtrap
+ are both from 
+Five Nights at Freddy's AR: Special Delivery
+, a now defunct mobile game.
+
+Toxic Springtrap
+ was given a slight redesign for his appearance in 
+Dead by Daylight
+, featuring a more bloated appearance.
+
+Clown Springtrap
+ features make up in 
+William Afton's
+ face.
+
+The description of the cosmetic piece makes note that Afton does not recognise the make-up or clothes he wears, implying they were forced onto him by The Entity.
+
+Clown Springtrap
+ had his proportions altered so that it would fit Springtrap's rig.
+
+Blighted Springtrap
+ features heavy inspiration from 
+Scraptrap
+ from 
+Freddy Fazbear's Pizzeria Simulator
+ and Burntrap from 
+Five Nights at Freddy's Security Breach
+.
+
+Scraptrap's
+ inspiration can be seen with the skull having an exposed brain and the suit's head featuring a bent jaw.
+
+Burntrap's
+ inspiration can be seen with the more exposed corpse, clawed hands (One of which has growing flesh where Burntrap's hands had flesh attached to it), a metallic spine and the third hand doing the arm crawl that can be seen in his first appearence during his boss fight in 
+Security Breach
+.
+
+Yellow Rabbit
+ is taken directly from 
+William Afton's
+ appearance in the live action 
+Five Nights at Freddy's
+ movie, with 
+Matthew Lillard
+ reprising his role through both voice and likeness in 
+Dead by Daylight
+.
+
+His starting animation is a reference to his entrance in the movie wearing the costume.
+
+When loading into a Trial, one can see him holding his left side of his belly. This is where the springlocks had activated when he was attacked by the Cupcake.
+
+Yellow Rabbit
+ has voice lines towards 
+Nicolas Cage
+, making him the third killer since 
+Chucky
+ to have the voice lines toward the actor.
+
+Glitchtrap
+ originates from 
+Five Nights at Freddy's: Help Wanted
+, serving as the main antagonist.
+
+Glitchtrap
+ intro is a reference to the Pizza Party ending, where he waves at the player and lures them to get stuffed inside Freddy Fazbear, while dancing in the background.
+
+Glitchtrap
+ is the second Legendary since 
+Rize Kamishiro
+ to feature a slightly altered Mori animation as instead of jumpscaring, he shushes at the survivor.
+
+Glitchtrap
+ has unique Grab Axe and Security Door Travel Jumpscare animations.
+
+When he grabs his axe, instead of jumpscaring, he will shush at the Survivor.
+
+When he catches a Survivor while traveling in the office, instead of immediately running towards the survivor he will wave at them and pull out a knife behind his back after grabbing a survivor.
+
+Glitchtrap'
+s current identity is unknown with hints that it is 
+William Afton
+  who returned from his demise in 
+Freddy Fazbear's pizzeria simulator
+ (Or potentially a creature made from his agony) or 
+Mimic1 (F10-N4)/Mimic2 (The Mimic)
+  copying William posthumously (The existence of a third Mimic made to copy William is also possible) or a mix of both (Being that  William Afton or his agony is possessing at least some part of either of the Mimics's programming), but for now none of those theories are confirmed and will be treated as such until direct confirmation of Glitchtrap's identity is given.
+
+Originally a digital manifestation within 
+Five Nights at Freddy's: Help Wanted
+, the flavour text for the cosmetic states that the Entity had transformed 
+Glitchtrap
+ into a physical being.
+
+While sitting idle in the lobby, 
+Glitchtrap
+ will occasionally jumpscare unsuspecting players.
+
+After this sequence ends he teleports back with a glitch effect. Up until 
+9.1.1 Patch
+, the effect would use 
+Toba Landing
+'s colony logo, likely as a placeholder.
+
+Glitchtrap shares voice actor with 
+The Nemesis
+, 
+The Xenomorph
+ 
+Were-Elk
+, 
+Leshen
+ and some of the wailing voices behind 
+The Dredge
+ .
+
+Easter Eggs
+
+The Animatronic
+ features two unique Lobby Animations when selecting him;
+
+The Animatronic
+ may enter the screen from the left before walking out of frame.
+
+The Animatronic
+ will grab the side of the screen, glaring at the player before disappearing.
+
+Both of the above lobby animations are references to 
+Five Nights at Freddy's 3
+, as these are how 
+Springtrap
+ enters the office to kill the player.
+
+The Animatronic's
+ power name, 
+Fazbear's Fright
+, is a direct reference to the location of the same name that 
+Five Nights at Freddy's 3
+ takes place in.
+
+Coincidently, there is a short story book series of a similar name; 
+Fazbear Frights
+.
+
+The perk 
+Phantom Fear
+ may be a reference to a jumpscare mechanic in 
+Five Nights at Freddy's 3
+, in which looking at some of the 
+Phantom Animatronic
+ will jumpscare the player.
+
+The jumpscares in both his Mori and when grabbing the 
+Fire Axe
+ may also reference this, as the 
+Phantom Animatronics
+ will scream in the player's face when jumpscaring them.
+
+The Animatronic's
+ idle animation in both the Lobby and in a Trial is identical to his official render in 
+Five Nights at Freddy's 3
+ after completing the game, where you can view not only 
+Springtrap
+, but the other 
+Phantom Animatronics
+.
+
+While in the Lobby, 
+The Animatronic
+ may convulse and grab his head screaming before returning to his normal idle stance. The way he grabs his head is similar to the hidden screenshots that may appear when starting up a game or dying in 
+Five Nights at Freddy's 3
+.
+
+The Animatronic's
+ official store render in 
+Dead by Daylight
+ is very similar to his official render for his appearance in 
+Five Nights at Freddy's AR: Special Delivery
+.
+
+The Animatronic's
+ weapon clean animation after a 
+Basic Attack
+ is a reference to the same action from the live action 
+Five Nights at Freddy's
+ movie, which in turn was a nod to the 
+Scream
+ franchise, as 
+Matthew Lillard
+ played one of the two original 
+Ghostfaces
+ in addition to 
+William Afton
+.
+
+The 
+Endoskeleton
+ featured in 
+The Animatronic's
+ Mori is a reference to the 
+Five Nights at Freddy's
+ movie, referencing the Freddy head that was modified with sawblades to kill its victims while they were trapped in a chair, and it was later used to attack the protagonist 
+Mike Schmidt
+.
+
+This 
+Endoskeleton
+ is also present in the 
+Parts and Service Room
+ within 
+Freddy Fazbear's Pizza
+ also tied in a chair.
+
+Entering 
+Supply Closet
+ will cause an 
+Endoskeleton
+ to pop out of a vent in the ceiling. This is likely a reference to both 
+Five Nights at Freddy's 2
+ and 
+3
+ where the Animatronics, including 
+Springtrap
+, will traverse the Pizzeria and later 
+Fazbear's Fright
+ through the vents in the buildings.
+
+When sitting in the lobby looking at the Survivors, 
+The Animatronic
+ may turn slightly and look at the screen. The way he does this is similar to the way he looks at the security guard through the cameras in one of the vents in 
+Five Nights at Freddy's 3
+.
+
+The icon for the achievement 
+"None the Wiser"
+ is a direct reference to the graphic novel artwork for the 
+Fazbear Frights
+ story: 
+What We Found
+.
+
+The 
+Horror Attraction
+ Banner features 
+Springtrap
+ appearing in the window of the office in 
+Fazbear's Fright
+ which is a reference to 
+Five Nights at Freddy's 3
+ where 
+Springtrap
+ can stare at the player from the window in the office.
+
+The 
+"Vent Crawl"
+ banner features 
+Springtrap
+ crawling in the ventilations which is a reference to 
+Five Nights at Freddy's 3
+ but also 
+Five Nights at Freddy's: Help Wanted
+ as you could see Springtrap crawling his way through the ventilation to the office before he jumpscares the player.
+
+The 
+Score Event
+ for a Survivor entering the area of effect of the 
+Fire Axe
+ is called 
+"Look at You"
+, which is likely a reference to the monologue 
+William Afton/Yellow Rabbit
+ gives at the end of the first movie when confronted by the main four animatronics.
+
+Voice Actor
+
+The Animatronic
+ is voiced by 
+PJ Heywood
+, who previously voiced the character in other media related to 
+Five Nights at Freddy's
+.
+
+Similarly, 
+Matthew Lillard
+ reprises his role to voice 
+The Yellow Rabbit
+, a Legendary Outfit for 
+The Animatronic
+.
+
+Matthew Lillard
+ was originally going to voice 
+The Animatronic
+, but turned it down, citing he had not acted as 
+Springtrap
+ in the movie series yet.
+
+Voice Lines
+
+Most of 
+The Animatronic'
+s voice lines are references to his quotes in the games 
+Five Nights at Freddy's AR: Special Delivery
+ and 
+Freddy Fazbear's Pizzeria Simulator
+. However, some of his lines are taken from other characters from 
+Ultimate Custom Night
+ and 
+Freddy Fazbear's Pizzeria Simulator.
+
+His iconic catchphrase "I always come back" is a reference to the 
+Five Nights At Freddy's 3
+ teaser trailer, which contains the lines "He will come back; he always does", as well as being a line spoken by him in 
+Freddy Fazbear's Pizzeria Simulator
+, 
+Ultimate Custom Night
+, and the 
+Five Nights at Freddy's
+ movie.
+
+"The darkest pit of hell is open for business" is a reference to a line delivered by 
+Henry Emily
+ in one of the endings of 
+Freddy Fazbear's Pizzeria Simulator
+. ("Although for one of you, the darkest pit of hell has opened to swallow you whole, so don't keep the Devil waiting, old friend.")
+
+"You will not be spared, you will not be saved" and "I am here to claim what is left of you" are taken from his quotes in 
+Five Nights at Freddy's AR: Special Delivery
+, which are in turn directly taken from 
+Nightmare
+ in 
+Ultimate Custom Night
+.
+
+"Play with fire and you'll get burned" is taken and altered from 
+Rockstar Foxy
+ in 
+Ultimate Custom Night
+. ("Y'arr, ya play with fire and sometimes ye get burned!")
+
+This line also serves as a reference to his fate at the end of both 
+Five Nights at Freddy's 3
+ and 
+Freddy Fazbear's Pizzeria Simulator
+, where in both instances he gets lit on fire.
+
+"Lets pull you apart" is taken and slightly altered from 
+Nightmare Fredbear
+ in 
+Ultimate Custom Night
+. ("Let's see how many times you can be pulled apart.")
+
+"It's me" is a recurring phrase in the series that is often associated with 
+Golden Freddy
+, but has also been used by 
+Glitchtrap
+, an alternate version of Springtrap, in 
+Five Nights at Freddy's: Help Wanted
+.
+
+"Don't move." is a line spoken by  
+William Afton
+ in the Silver Eyes novel and its graphic novel after he removes the Spring Bonnie suit to reveal his springlock scars to Carlton.
+
+Voice Line
+
+Audio
+
+Idling in the Menu
+
+"I always come back."
+
+"You. Will. Fear. Me."
+
+"I'm back."
+
+"It is time."
+
+"I am here"
+
+"It is me"
+
+"It's me."
+
+"All will suffer."
+
+"Let's start this party."
+
+"I'm going to enjoy this."
+
+"I’m the fun one."
+
+"Who will suffer first?."
+
+"Great atmosphere."
+
+"I promise a fun time."
+
+"This will be entertaining."
+
+"The darkest pit of hell is open for business."
+
+"Play with fire, and you’ll get burned."
+
+Downing a Survivor.
+
+"There."
+
+"Don't move."
+
+"Lay there and suffer."
+
+"Do you feel that?"
+
+"Yes."
+
+"You will submit."
+
+"There is no escape."
+
+(Laughs)
+
+"Exquisite."
+
+Grabbing a Survivor traveling in a security door.
+
+"Got you!"
+
+Hooking a Survivor.
+
+"Up you go!"
+
+"Farewell."
+
+"Insolent whelp."
+
+"Go on, scream."
+
+"It will end soon."
+
+"You will see."
+
+"Wait there."
+
+"Your struggle will end soon."
+
+"Goodbye."
+
+"You belong here."
+
+Finding a Survivor hiding inside a Locker.
+
+"Come with me."
+
+"There's no hiding."
+
+"I have you now."
+
+"Pathetic."
+
+"You will not be spared."
+
+"Let's go."
+
+"You have failed."
+
+"All for naught."
+
+"Nice try."
+
+"A poor showing."
+
+Killing a Survivor.
+
+"I can taste your fear."
+
+"Let's pull you apart."
+
+"And now, you are mine."
+
+"Your time, is up."
+
+"What a pity."
+
+"No one will save you."
+
+"Pathetic."
+
+"Scream all you want."
+
+"I have claimed you"
+
+(Laughs)
+
+"I can taste the fear."
+
+"I'm so sorry."
+
+"Watch then show everyone!"
+
+"You're mine now."
+
+"Scream louder, please."
+
+"No prize for you."
+
+"Game over."
+
+"No pizza for you."
+
+"Ba-bye."
+
+"Die."
+
+"I know! So fun!"
+
+"Here's a fazbear special."
+
+"Who ordered the special?"
+
+Loading into the Trial.
+
+"Your fear will consume you."
+
+"I am here to claim what is left of you."
+
+"You will not be spared. You will not be saved."
+
+"Suffer now, like all who have stood before me."
+
+"It is not your flesh that sustains me, it is your fear."
+
+"I will make you suffer! Suffer like so many of the others."
+
+"It’s real. It’s happening."
+
+"It is real. It is happening."
+
+"Hide if you wish."
+
+"I know you are near."
+
+"I will find you."
+
+"I smell fear."
+
+"Prepare to suffer."
+
+"Fear will destroy you."
+
+"No one shall be spared."
+
+"I will make you all suffer."
+
+"I love the smell of fear."
+
+"None of you stand a chance."
+
+"Let the fun begin."
+
+"The party begins now."
+
+"This will be fun."
+
+"The fear is palpable."
+
+"Fear and death. Perfect."
+
+Gallery
+
+In-game Assets
+
+The Animatronic
+
+The Animatronic (Portrait render)
+
+The Animatronic (Background image)
+
+Official Art
+
+Outfits
+
+Toxic Springtrap Outfit
+
+Clown Springtrap Outfit
+
+Yellow Rabbit Outfit
+
+Glitchtrap Outfit
+
+Screenshots
+
+References
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter

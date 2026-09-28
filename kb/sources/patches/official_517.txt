@@ -1,0 +1,90 @@
+# 9.1.1 | Bugfix Patch - BHVR
+Source: https://forums.bhvr.com/dead-by-daylight/kb/articles/517 (consulté le 27/09/2026)
+
+Priority Bug Fixes
+Fixed an issue that often caused Killers to be unable to initiate a chase for the rest of the trial.
+Fixed an issue that often caused the chase music not to play when a chase was initiated.
+⁠Fixed an issue impacting chest item charges while using Streetwise.
+Fixed an issue impacting vault speeds while using Last Stand.
+Fixed an issue where The Walking Dead theme was unaffected by the Copyrighted Music Setting.
+Fixed an issue where both Survivors and Killers could be slowed down when running up the right-hand side of any staircase.
+Fixed an issue where the Baermar Uraz's Masquerade Musician outfit had the incorrect name and voice lines.
+Fixed an issue where The Deathslinger’s aiming animation was missing from the Survivor's perspective.
+Fixed an issue where the "Be chased for 20 seconds" quest in "Into the Fog" would not progress.
+Fixed an issue that caused a black screen when attempting to spectate for the second time after returning to the tally screen.
+Content
+The Streetwise and Last Stand perks have been re-enabled.
+SURVIVOR ITEM: FOG VIAL
+Decreased base opacity of the fog cloud to 33%
+(was 40%)
+.
+Decreased the fog cloud volume by 3 dB. (NB this does not refer to audio
+within
+the fog area, only the ambient fog audio)
+FOG VIAL ADD-ONS
+Potent Extract (Visceral):
+Decreases visibility by
+5%
+(was 10%)
+.
+Decreases the fog cloud's maximum size by 25%
+(No change)
+.
+Decreases the fog cloud's maximum lifetime by 50%
+(No change)
+.
+Bug Fixes
+Audio
+Fixed an issue where lobby ambiance audio would occasionally stack.
+Fixed an issue where sound effects were missing when hovering over Match Management options in Custom Game.
+Fixed an issue where scream sound effects occurred while the Survivor had their mouth closed during The Lich's Mori.
+Fixed an issue where Rick and Michonne Grimes were missing certain voiceover lines.
+Characters
+Fixed an issue where shadows in The Nightmare's Dream World were missing.
+Fixed an issue where The Nightmare could use Rupture twice on a Dream Pallet.
+Fixed an issue where The Nightmare could place a Dream Pallet and a Survivor could place a Fragile Pallet using Apocalyptic Ingenuity in the same spot.
+Fixed an issue where The Ghoul's Rize Kamishiro outfit would jitter during her idle animation in the lobby.
+Fixed an issue where Mikaela’s arms to appear distorted in certain outfits.
+Fixed an issue where The Animatronic's model appeared distorted for the spectator when changing camera views while the Killer exited a Security Door.
+Fixed an issue where Survivors were revealed to The Executioner after hitting a Survivor with Punishment of the Damned while using the Burning Man Painting add-on.
+Fixed an issue where the Exhausted status effect would recover while running when affected by the Mannequin Foot add-on.
+Fixed an issue where the game crashed when The Twins opened a locker that Victor was holding shut with a Survivor inside.
+Fixed an issue where The Pig did not lose bloodlust when performing an Ambush attack.
+Environment/Maps
+Fixed an issue where The Knight would encounter invisible collisions on certain vaults while drawing a path for summoned Guards.
+Fixed an issue in the Fallen Refuge map where the prison tower door could be triggered when moving behind it.
+Fixed an issue in the Fallen Refuge map where Victor would not trigger the prison tower door.
+Fixed an issue in the Ormond Lake Mine map where Victor would not trigger the elevator drop.
+Fixed an issue in the Red Forest Realm where The Knight's Guards could not traverse the shack's window.
+Fixed an issue in the Withered Isle Realm where The Singularity could attach biopods above map fences.
+Fixed an issue in the Midwich Elementary School map where Survivors could land on top of an invisible collision.
+Fixed an issue in The Game map where Killer projectiles would go through walls in the control room.
+Fixed an issue in the Ormond Lake Mine map where players could climb on top of a rock which should be inaccessible.
+Fixed an issue where Snug could become stuck on a snow mound in Ormond Lake Mine map
+Perks
+Fixed an issue where combining the Thrilling Tremors and Grim Embrace perks would cause the 4th token effect on Grim Embrace to not trigger.
+Fixed an issue where Overwhelming Presence would not affect Key, Map, and Fog Vial items.
+Fixed an issue where Hex: Two Can Play was unaffected by stun caused by Last Stand.
+Fixed an issue where The Wraith remained invisible when stunned by Last Stand.
+Fixed an issue where cleansing a Totem while Broken would activate Inner Strength once the Broken effect ended.
+Fixed an issue where Survivors were unable to build a Fragile Pallet on pallet locations previously destroyed by vault actions affected by certain add-on and perk effects.
+Fixed an issue where dying Survivors would make grunts of pain while affected by Come and Get Me!.
+Fixed an issue where a Survivor using Conviction could remain in the "trapped" animation if they were in a Bear Trap.
+Fixed an issue where a Survivor using Conviction could become stuck in a locker.
+Fixed an issue where Blast Mine's blind VFX were missing if damaging a generator while the Killer was already blinded.
+Platforms
+Fixed an issue on the Microsoft Store that sometimes caused the game to remain silently open after closing it.
+Quests
+Fixed an issue where progression for the "I Want It, I Got It" challenge was not saved after a Trial was completed.
+UI
+Fixed an issue where the followed quest tooltip would show partial progress for quests that needed to be completed in a single Trial.
+Fixed an issue where audio would be missing from the Match Management screen.
+Fixed an issue where the in-game quest tracker progress animation would begin at the incorrect value.
+Fixed an issue where the mouse cursor would revert to the console cursor on consoles.
+Fixed an issue where the anti-camp meter would disappear after a Survivor was hooked.
+Fixed an issue where the Rift Pass tooltip would show an incorrect subtitle.
+Miscellaneous
+Fixed an issue where the beam of light duration was unchanged when using the Crimson Stamp add-on on the Bloodsense Map.
+Fixed an issue where a Fog Vial's fog cloud would disappear if another Fog Vial was activated.
+Fixed an issue where the Fog Vial's smoke explosion sound effects were missing.
+Fixed an issue where Survivors held the fog vial differently depending on which item was previously held.
