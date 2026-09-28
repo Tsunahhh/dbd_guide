@@ -789,6 +789,24 @@ Détail : notes officielles 9.0.0, 9.3.0, 9.6.0, 10.1.0 ; `kb/research/batch5_it
 
 ---
 
+## 2.13 Passer à la pratique : de la règle à la décision `[Débutant → Avancé]`
+
+Ce chapitre donne les **règles** ; la décision en partie se prend avec un arbre (ch. 13), se corrige avec la base d'erreurs (ch. 13) et s'automatise avec un drill (ch. 14). Correspondances [HEURISTIQUE] :
+
+| Section | Décision en partie | Arbre (ch. 13) | Erreurs typiques | Drill (ch. 14) |
+|---|---|---|---|---|
+| 2.2.4-2.2.5 Gens, 3-gen | Finir, lâcher, tenir le 99 ; quel gen ensuite | Arbre 5 — Gen (13.12) | E-I14, E-I06, E-I08, E-D14 | DR-09, DR-14 |
+| 2.3 Crochets, anti-camp | Qui sauve, quand, et contre un proxy camp | Arbre 3 — Crochet (13.10) | E-D09, E-I03, E-I04, E-I10 | DR-10, DR-16 |
+| 2.4 Protections de décrochage | Que faire des 10 s | Arbre 3 (après le décrochage) | E-I11, E-A06 | DR-10 |
+| 2.5 Soins | Soigner maintenant, plus tard ou jamais | Arbre 4 — Soin (13.11) | E-D10, E-I02, E-T11 | DR-18, DC-10 |
+| 2.6 État mourant | Ramper ou récupérer ; relever ou non | Arbre 7 — Slug (13.14) | E-A10 | DR-17 (compter qui est au sol) |
+| 2.9 Signaux | Ce que le tueur sait de moi | — | E-D13, E-A02 | DR-05, DC-11 |
+| 2.10 Totems, portes, trappe | Purifier ; ouvrir ; trappe ou porte | Arbres 6, 8, 9 (13.13, 13.15, 13.16) | E-I09, E-A09, E-T07 | DR-11 |
+
+> **Erreur fréquente** : apprendre les chiffres de ce chapitre sans jamais les « dire » en partie. Un chiffre ne sert que s'il est lu **au moment** de la décision (« il reste ~40 s de phase », « ce soin coûte 32 s-surv ») : c'est exactement ce que font DR-12, DR-17 et DR-18.
+
+---
+
 ## Sources du chapitre
 
 **Fichiers de la base**

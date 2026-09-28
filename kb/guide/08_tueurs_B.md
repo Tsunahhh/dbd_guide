@@ -8,6 +8,13 @@ Ce chapitre prolonge le chapitre 7 : même format de fiche, pour les tueurs 23 (
 
 Repères chiffrés utilisés partout : survivant **4,0 m/s** en course ; tueur à 115 % = 4,6 m/s (il reprend 0,6 m/s, soit 10 m en ≈ 16,7 s) ; tueur à 110 % = 4,4 m/s (0,4 m/s, 10 m en 25 s) ; 1 générateur solo = **90 s** ; phase de crochet = 70 s ; casse de palette normale ≈ 2,34 s (audit phase 0).
 
+**S'entraîner avec ces fiches** [HEURISTIQUE] : une fiche ne sert que si elle change **trois comportements précis** en partie. Méthode (ch. 14) :
+1. **Avant la session** : relis la fiche d'un seul tueur et écris 3 comportements vérifiables tirés de « Counterplay » et « Add-ons qui changent la décision » (ex. Trickster : couper la LOS plutôt que fuir, surveiller sa jauge de Laceration, s'écarter au rang S) — drill **DR-15**, niveau 5.
+2. **Pendant** : identifie-le avant le reveal (**DR-06**) ; note les add-ons suspectés dès qu'un effet sort du « Données LIVE ».
+3. **En revue** : classe les coups du pouvoir évitables (métrique **M-12**) ; erreurs à chercher : E-D11 (ligne droite contre un tueur à distance), E-A03 (palettes jouées comme contre un M1), E-T10 (add-ons observés ignorés).
+
+**CAS D'ÉCHEC** : appliquer la rubrique « Counterplay » sans lire « Quand le counterplay habituel échoue » — c'est précisément la partie que le tueur expérimenté exploite. Relis-la avant de conclure qu'une fiche « ne marche pas ».
+
 > **À retenir** : le pré-drop n'est **pas** une règle universelle. Il se justifie quand le pouvoir punit l'attente (Nemesis MR2+, Lich avec Mage Hand prêt, Mastermind avec Lab Photo…) et se paie d'une palette. Contre un tueur qui ralentit exprès pour l'obtenir, alterner avec un drop normal ou un départ sans drop (détail : `kb/deliverables/KILLER_COUNTERPLAY_HANDBOOK.md` §2.2).
 
 ## 8.0 Tableau récapitulatif (tueurs 23 à 44)

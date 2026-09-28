@@ -448,6 +448,19 @@ Détail : `kb/research/batch9_macro.md` §2.9-2.10, §7.2.
 - **Rayons d'équipe** : Vigil (16 m), Boons (24 m), Bond, Empathy dictent le placement **si** l'équipe les porte (Match Details).
 - **Proximité des ressources** : réparer un gen **adossé à un tile fort** plutôt qu'en dead zone ; contre les tueurs à mobilité, la LOS haute compte plus que le nombre de palettes.
 
+### Exemple concret : l'accrochage à côté de ton gen [HEURISTIQUE]
+
+- **Situation** : SoloQ. Tu répares le gen le plus proche du crochet où un allié vient d'être accroché (phase 1). Le TR s'est éteint il y a quelques secondes ; deux alliés sont sur des gens éloignés (HUD).
+- **Informations connues** : le tueur sait où est le crochet ; il repart souvent d'abord vers le gen le plus proche (6.9) ; courir laisse 10 s de griffures [FACT] (SS) ; son loadout est caché (Pain Resonance, Nowhere to Hide possibles).
+- **Options** : A. rester sur le gen ; B. courir tout de suite vers le crochet ; C. **marcher** hors de l'axe crochet-gen, se placer à distance de sauvetage (20-30 s de course), attendre qu'il s'engage ailleurs.
+- **Analyse** : A fait de toi la première cible ; B dessine une piste de griffures depuis la zone où il revient ; C coûte quelques secondes de gen mais garde **et** le sauvetage **et** ta santé.
+- **Meilleure logique** : C, sauf si le gen finit avant son arrivée avec 2 s de marge (2.2.5).
+- **Erreur typique** : courir droit vers le crochet, ou rester caché si longtemps que le sauvetage passe en phase 2 (E-I04) ou que les corbeaux AFK te signalent (80/100/120 s, VP).
+
+**CAS D'ÉCHEC** : l'économie d'information poussée trop loin devient du temps mort (E-D07, M-13). Se cacher n'a de valeur que si le tueur **cherche** près de toi.
+
+**EXERCICE** : DC-11 « Qu'est-ce qu'il sait ? », DR-21 (prédiction), DR-16 (HUD SoloQ) ; erreurs E-A08, E-D13.
+
 Détail : `kb/research/batch9_macro.md` §2.12-2.13.
 
 ---
@@ -708,6 +721,10 @@ Détail : `kb/research/batch9_macro.md` §5.
 | 14 | **Tueur avec forte pression** (0-1 réparateur, blessés multiples, crochets enchaînés) | Casser le cycle : **une** chase longue, les autres réparent ; accepter de rester blessé ; éviter la zone du crochet ; viser 1-2 évasions si le tableau de course est perdu | Soins en série ; sauvetages multiples ; groupement ; ignorer le 3-gen ; abandonner trop tôt une partie rattrapable | SoloQ : décisions robustes. SWF : le shot-caller réduit les annonces à l'essentiel |
 
 > **À retenir** — trois transitions décident le plus souvent du résultat [AVIS D'EXPERT] : **3 → 4** (qualité du premier sauvetage), **5 → 6** (géométrie des gens restants), **8 → 9** (moment de l'alimentation).
+
+**Quel arbre sortir dans quel état** (ch. 13) [HEURISTIQUE] : états 2-3 → Arbre 2 — Quitter la tile et Arbre 1 — Palette (13.8-13.9) ; état 4 et 11 → Arbre 3 — Crochet (13.10) ; états 5 et 14 → Arbre 4 — Soin (13.11) ; états 6-8 → Arbre 5 — Gen (13.12) ; état 7 → Arbre 6 — Totem (13.13) ; état 12 → Arbre 7 — Slug (13.14) ; états 9-10 → Arbre 8 — Endgame (13.15) ; dernier survivant → Arbre 9 — Trappe (13.16).
+
+**EXERCICE** (DC-12 « avance / retard », niveau 9) : au début de chaque chase et à chaque accrochage, dis à voix haute le **numéro d'état** et la **priorité** de la ligne correspondante ; en revue, vérifie que ta décision suivante l'a respectée. **CAS D'ÉCHEC** : nommer l'état sans changer d'action (on joue l'état 13 alors qu'on est en 14).
 
 Détail : `kb/research/batch9_macro.md` §8.
 

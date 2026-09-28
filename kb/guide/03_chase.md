@@ -14,6 +14,21 @@
 
 > **À retenir** : une chase ne se juge pas à « ai-je survécu ? » mais à « combien de secondes l'équipe a-t-elle gagnées, et combien a coûté ce qui a suivi ? ». Tout ce chapitre sert à mieux répondre à cette question.
 
+**Des exercices de ce chapitre au programme (ch. 14) et aux arbres (ch. 13)** : les exercices ci-dessous portent le même nom que les drills du catalogue 14.4 ; suis-les avec la métrique et le niveau indiqués là-bas.
+
+| Exercice du chapitre | Drill (ch. 14) | Niveau | Arbre / erreurs (ch. 13) |
+|---|---|---|---|
+| « Drill caméra » (T14), « 10 fast vaults » (T03) | DR-01, DR-02 | 2 | E-D01, E-D02, E-D05 |
+| « Justifier chaque palette » (T05), « Timing de stun » (T04) | DC-01, DR-12 | 3 | Arbre 1 — Palette (13.8) ; E-D04, E-I01, E-T09 |
+| « Horloge de Bloodlust » (T06) | DC-02, DR-17 | 8 | E-A04 |
+| « Tache vs corps » (T08), « Journal de 50/50 » (T10) | DR-05 | 5, 8 | E-A02, E-T04 |
+| « Carte mentale » (T11), « Budget en mètres » (T18), « Premier contact » (T23) | DR-13, DC-03, DC-06 | 4, 8 | Arbre 2 — Quitter la tile (13.9) ; E-D03, E-A01 |
+| « Autopsie de coup » (T21), « 360 mesuré » (T22) | DC-04, DC-05 | 8 | E-T08, E-T03 |
+| « EV à froid », « Prix du coup », « Bilan de chase » (3.8) | DC-07, DC-10, DC-08 | 6, 9 | E-T05 |
+| « Carte des palettes » (3.8), « 8 secondes » (T07) | DC-09, DC-11 | 4, 7 | E-A07, E-A08, E-D13 |
+
+Si tu ne fais **qu'un** exercice de ce chapitre, fais celui qui correspond à ton erreur focus de la semaine (méthode 14.4.5).
+
 ---
 
 ## 3.1 Chiffres de référence [Débutant]

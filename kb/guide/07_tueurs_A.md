@@ -203,7 +203,7 @@ Détail : `kb/research/batch7_tiles.md` §5 (palettes annulées par pouvoir) et 
 
 ## Fiches : tueurs 1 à 7
 
-Format fixe : données LIVE → identification → ce qu'il cherche → tiles → counterplay (mécanique, positionnel, macro, équipe) → erreurs classiques → quand le counterplay habituel échoue → add-ons qui changent la décision. Sauf mention, les consignes sont **[HEURISTIQUE]**.
+Format fixe : données LIVE → identification → ce qu'il cherche → tiles → counterplay (mécanique, positionnel, macro, équipe) → erreurs classiques → quand le counterplay habituel échoue → add-ons qui changent la décision → implications de carte → perks / synergies à anticiper. Sauf mention, les consignes sont **[HEURISTIQUE]**.
 
 ### 1. The Trapper (Evan MacMillan) — zone/piège · M1 [Débutant]
 
@@ -235,6 +235,14 @@ Format fixe : données LIVE → identification → ce qu'il cherche → tiles �
 - **Bloody Coil** (désarmer sain te blesse) → désarme seulement déjà blessé, ou laisse le piège.
 - **Bear Oil** (pose silencieuse) → garde le visuel **au lieu de** compter sur le son.
 
+**Implications de carte** [HEURISTIQUE] :
+- Aidé : herbe haute et maïs (Coldwind), intérieurs sombres à goulets (portes, couloirs, escaliers) où un piège ferme un passage obligé.
+- Gêné : grandes cartes ouvertes à longues boucles : pièges dispersés, trajets longs pour un M1.
+
+**Perks / synergies à anticiper** (fréquences d'usage non vérifiables : effets LIVE, ch. 10 §10.4 et §10.10) :
+- **Agitation** (sa perk : Haste + TR élargi en portant) ou **Iron Grasp** (wiggle lent) → crochet piégé ou de sous-sol atteignable ; signal : TR énorme pendant le portage → save préparé tôt. Les deux sont modifiées au PTB 10.2.0 — non LIVE.
+- **Brutal Strength** (sa perk, casse rapide) → fenêtres plutôt que palettes. Le seed cite aussi Corrupt Intervention et NOED.
+
 Détail : `kb/research/batch4_killers_g1.md` §1.
 
 ### 2. The Wraith (Philip Ojomo) — furtif · mobilité · M1 [Intermédiaire]
@@ -263,6 +271,14 @@ Détail : `kb/research/batch4_killers_g1.md` §1.
 - **Windstorm** (+5/7/9 % occulté) → tiens la boucle en cours **au lieu de** fuir vers une tile éloignée.
 - **Swift Hunt** (désoccultation −8/−10/−12 %, ~2,64 s au max, calcul) → décide le drop un peu plus tôt.
 - **"The Serpent" – Soot** (se désocculte en cassant une palette ou en abîmant un gen, 9.5.0) → moins de surprise sur gen : info gratuite.
+
+**Implications de carte** [HEURISTIQUE] :
+- Aidé : grandes cartes (traversée occultée à 6 m/s) et cartes sombres.
+- Gêné : petites cartes denses en palettes ; cartes lumineuses ou ouvertes (Mount Ormond), où le scintillement se lit mieux.
+
+**Perks / synergies à anticiper** (fréquences d'usage non vérifiables : effets LIVE, ch. 10 §10.4 et §10.10) :
+- **Bamboozle** : fenêtre bloquée après son saut → prévois une sortie par palette. Signal : fenêtre bloquée au 1er vault du tueur.
+- Pain Resonance, Sloppy Butcher (Mangled + Haemorrhage au 1er coup → soin en une fois), Pop, NOED : citées par le seed.
 
 Détail : `kb/research/batch4_killers_g1.md` §2.
 
@@ -296,6 +312,14 @@ Détail : `kb/research/batch4_killers_g1.md` §2.
 - **Counterweight** (virage initial −70 %) → un virage **précoce** suffit ; **Dad's Boots / Spiked Boots** (virage +20/30 %) → esquive **plus tard** et derrière un obstacle.
 - **Cracked Primer Bulb** (tronçonneuse = 1 état de santé) → sain, un coup ne te met pas à terre : ne sacrifie pas tout pour l'esquiver.
 
+**Implications de carte** [HEURISTIQUE] :
+- Aidé : cartes ouvertes (Coldwind hors maïs, Red Forest) et grandes cartes (il compresse les trajets).
+- Gêné : intérieurs à murs et rampes (Lery's, Hawkins, Gideon) : chocs contre obstacles, curves difficiles.
+
+**Perks / synergies à anticiper** (fréquences d'usage non vérifiables : effets LIVE, ch. 10 §10.4 et §10.10) :
+- **Tinkerer** (sa perk : notification + Undetectable quand un gen atteint 70 %) → vers 70 %, garde un guetteur ou la caméra ouverte : TR disparu = il arrive.
+- **Enduring** (stun de palette plus court) et **Lightborn** (pas d'aveuglement, celui qui tente est révélé) → drop pour bloquer puis transition ; arrête les flashs au 1er échec. Le seed cite aussi Pain Resonance, Pop, BBQ, Lethal Pursuer, Bamboozle.
+
 Détail : `kb/research/batch4_killers_g1.md` §3.
 
 ### 4. The Nurse (Sally Smithson) — mobilité (téléportation) · anti-loop total [Avancé]
@@ -326,6 +350,14 @@ Détail : `kb/research/batch4_killers_g1.md` §3.
 - **Matchbox** (**4,4 m/s** mais **1 seul blink**) → pas de chain blink : feinte le 1er blink puis tourne ; en M1, c'est un tueur 4,4.
 - **Kavanagh's Last Breath** (Blindness 60 s à ≤ 8 m pendant sa fatigue) → ne reste pas collé à elle si tu comptes sur des auras.
 - **Catatonic Boy's Treasure** (−65 % de fatigue de chain), **Ataxic Respiration** (fatigue −7 %, pas un add-on de portée), **Dark Cincture** → fenêtre de fatigue plus courte : repositionne plus tôt.
+
+**Implications de carte** [HEURISTIQUE] :
+- Aidée : cartes ouvertes et plates (LOS continue, distances faciles à estimer).
+- Gênée : intérieurs multi-niveaux (The Game, Midwich, RPD) : un blink au mauvais étage lui coûte une fatigue, l'étage aide le survivant qui lit le blink.
+
+**Perks / synergies à anticiper** (fréquences d'usage non vérifiables : effets LIVE, ch. 10 §10.4 et §10.10) :
+- **A Nurse's Calling** (sa perk, voir *Macro*) et **Nowhere to Hide** (auras à ≤ 24 m du gen qu'elle abîme) → après un kick, sors des 24 m au lieu de te cacher derrière un mur. **Distortion** est la réponse anti-aura.
+- **Lethal Pursuer** (auras au début de partie) → spawn : rejoins une structure forte. Le seed cite aussi Pain Resonance, Eruption, BBQ.
 
 Détail : `kb/research/batch4_killers_g1.md` §4.
 
@@ -371,6 +403,14 @@ Détail : `kb/research/batch4_killers_g1.md` §4.
 - **Fragrant Tuft of Hair** (EI : Exposed pour tous, fente +50 %, **pas de SS**) → tout coup met à terre, mais les palettes redeviennent sûres : joue-les **au lieu de** ne jouer que les fenêtres.
 - **Scratched Mirror** (auras à ≤ 32 m pendant le stalk ; bloqué en Stalker) → se cacher derrière un mur ne suffit pas, **mais** il n'a ni EI, ni SS, ni exécution : chase contre un M1 lent.
 
+**Implications de carte** [HEURISTIQUE] :
+- Aidé : intérieurs et cartes à coins (stalk sans être vu).
+- Gêné : cartes lumineuses ou ouvertes, où sa silhouette immobile se repère de loin. Lampkin Lane (Haddonfield) est hors rotation depuis 9.4.0 : pas de « carte maison ».
+
+**Perks / synergies à anticiper** (fréquences d'usage non vérifiables : effets LIVE, ch. 10 §10.4 et §10.10) :
+- Ses perks d'origine sont générales depuis 9.4.0. **Keep Them Waiting** (ex-Save the Best for Last : récupération après un coup raccourcie quand il touche un non-Obsession) → l'Obsession prend les coups protecteurs.
+- Bamboozle, Pain Resonance, Corrupt Intervention, Pop : cités par le seed.
+
 Détail : `kb/research/batch4_killers_g1.md` §5.
 
 ### 6. The Hag (Lisa Sherwood) — zone/piège · téléportation · info [Intermédiaire]
@@ -399,6 +439,14 @@ Détail : `kb/research/batch4_killers_g1.md` §5.
 - **Grandma's Heart** (son TR supprimé pendant un déclenchement ; faux TR du fantôme 24 m) → le TR entendu est celui du fantôme : ne t'en sers pas pour la localiser.
 - **Waterlogged Shoe** (**4,73 m/s**, plus de TP) → M1 plus rapide que d'habitude : évite les longues boucles en zone piégée.
 - **Scarred Hand** (pièges et fantômes **bloquent le passage**, plus de TP) → les marques deviennent des murs : ne t'enferme pas dans une tile piégée.
+
+**Implications de carte** [HEURISTIQUE] :
+- Aidée : petites cartes et intérieurs (réseau dense, goulets).
+- Gênée : grandes cartes ouvertes (pièges dispersés, zones à plus de 48 m de son réseau).
+
+**Perks / synergies à anticiper** (fréquences d'usage non vérifiables : effets LIVE, ch. 10 §10.4 et §10.10) :
+- Build Hex (Ruin, Devour Hope, Third Seal, + Undying) souvent cité. Signaux : gen lâché qui recule sans kick (Ruin), Exposed après des décrochages loin d'elle (Devour Hope), Blindness au coup (Third Seal) → purifier **quand l'effet est observé** (voir *Macro*).
+- Variante citée : Pain Resonance, Grim Embrace, Pop, Sloppy Butcher (build slowdown, sans totem).
 
 Détail : `kb/research/batch4_killers_g1.md` §6.
 
@@ -432,6 +480,14 @@ Détail : `kb/research/batch4_killers_g1.md` §6.
 - **"Discipline" – Carter's Notes / Class III / Class II** (délai 0,55 / 0,57 / 0,59 s, VM ; faux Red Stain/TR en Madness II-III) → pré-drop encore plus tôt, et **ne lis pas la distance au Red Stain** en Madness.
 - **"Order"** (palettes illusoires pour les survivants en Madness) → en Madness, ne planifie pas une chase sur une palette apparue là où tu l'avais vue cassée.
 
+**Implications de carte** [HEURISTIQUE] :
+- Aidé : petites cartes et intérieurs (le Static Blast couvre une plus grande part de la carte).
+- Gêné : grandes cartes : tu restes hors de son TR, et il manque de mobilité pour relancer la Madness partout.
+
+**Perks / synergies à anticiper** (fréquences d'usage non vérifiables : effets LIVE, ch. 10 §10.4 et §10.10) :
+- **Distressing** (TR élargi ; modifiée au PTB 10.2.0 — non LIVE) : si le Static Blast couvre tout le TR, il s'élargit aussi [HYPOTHÈSE : interaction non vérifiée].
+- **Unnerving Presence** / **Coulrophobia** (skill checks plus durs, soins ralentis dans le TR) et **Overcharge** (sa perk : skill check difficile après un kick) → soigne et répare hors TR, surtout en Madness.
+
 Détail : `kb/research/batch4_killers_g1.md` §7.
 
 ## Fiches : tueurs 8 à 15
@@ -461,6 +517,14 @@ Détail : `kb/research/batch4_killers_g1.md` §7.
 - **Wooden Fox** (Undetectable 30 s après une recharge) → après un bruit de casier, surveille visuellement.
 - **Venomous Concoction** (Exhausted 5 s au toucher) / **Weighted Head** (Incapacitated 10 s) → après une hachette, vise une tile **au lieu de** compter sur ta perk d'Exhaustion ou sur une action.
 
+**Implications de carte** [HEURISTIQUE] :
+- Aidée : cartes ouvertes ou lumineuses (Mount Ormond, Coldwind hors maïs) et murs de gyms medium (Autohaven : elle voit ta tête).
+- Gênée : intérieurs et labyrinthes (The Game, Midwich, RPD) : LOS courtes.
+
+**Perks / synergies à anticiper** (fréquences d'usage non vérifiables : effets LIVE, ch. 10 §10.4 et §10.10) :
+- **Beast of Prey** (sa perk : Undetectable en Bloodlust) → berceuse coupée en chase longue : caméra sur elle. **Hex: Huntress Lullaby** → avertissement de skill check de plus en plus tardif : purifier tôt.
+- **Territorial Imperative** (aura de qui entre au sous-sol quand elle est loin). Le seed cite aussi Lethal Pursuer, BBQ, Pain Resonance.
+
 Détail : `kb/research/batch4_killers_g2.md` §8.
 
 ### 9. The Cannibal (Bubba Sawyer) — M1 · anti-loop (insta-down court) [Débutant]
@@ -488,6 +552,14 @@ Détail : `kb/research/batch4_killers_g2.md` §8.
 - **Long Guide Bar / The Grease** (+2/+3 s avant la Tantrum) → ne « attends » pas la Tantrum : pars.
 - **Carburettor Tuning Guide** (un seul long sweep) → casse la LOS derrière un obstacle haut **au lieu de** compter sur la fin du sweep.
 - **Speed Limiter** (tronçonneuse = 1 état de santé) → sain, tu peux encaisser un sweep **au lieu de** tout sacrifier pour l'éviter.
+
+**Implications de carte** [HEURISTIQUE] :
+- Gêné : cartes riches en fenêtres et longues boucles.
+- Intérieurs étroits : sweeps à bout portant plus faciles, mais Tantrums plus probables pour lui [SITUATIONNEL].
+
+**Perks / synergies à anticiper** (fréquences d'usage non vérifiables : effets LIVE, ch. 10 §10.4 et §10.10) :
+- **Barbecue & Chilli** (auras après un hook des survivants loin du crochet) → derrière un obstacle au moment du hook. **Knock Out** (LIVE : léger Hindered si tu t'éloignes d'une palette que tu viens de lâcher ; PTB 10.2.0 — non LIVE : plus fort) → marge avant la tile suivante.
+- **Franklin's Demise** (objet au sol) → ne reviens pas le chercher près de lui. Le seed cite Bamboozle (voir *Quand le counterplay échoue*), Corrupt Intervention, Infectious Fright.
 
 Détail : `kb/research/batch4_killers_g2.md` §9.
 
@@ -522,7 +594,12 @@ Détail : `kb/research/batch4_killers_g2.md` §9.
 - **Red Paint Brush** (auras des endormis au-delà de 32 m ; Microsleep 90 s) → endormi, la cachette à distance est inutile : réveille-toi.
 - **Paint Thinner** (lâcher une Dream Pallet te révèle) → ne tente pas de stun avec ses Dream Pallets.
 
-Perk à connaître : **Fire Up** LIVE +4/5/6 % par gen terminé (6/7/8 % = PTB 10.2.0 — non LIVE) (VP).
+**Implications de carte** [HEURISTIQUE] :
+- Aidé : grandes cartes : sa TP sur les gens compense sa vitesse normale ; un gen isolé et loin n'est pas à l'abri.
+
+**Perks / synergies à anticiper** (fréquences d'usage non vérifiables : effets LIVE, ch. 10 §10.4 et §10.10) :
+- **Fire Up** LIVE +4/5/6 % par gen terminé (6/7/8 % = PTB 10.2.0 — non LIVE) (VP) : casse, vault et ramassage plus rapides en fin de partie → saves préparés plus tôt.
+- **Remember Me** (ouverture des portes allongée, sauf pour l'Obsession) et **Blood Warden** (sorties bloquées au hook) → ouverture lente = l'Obsession ouvre ; sortir **avant** un hook d'endgame (voir *Quand le counterplay échoue*).
 
 Détail : `kb/research/batch4_killers_g2.md` §10.
 
@@ -551,6 +628,14 @@ Détail : `kb/research/batch4_killers_g2.md` §10.
 - **Tampered Timer** (130 s) / **Jigsaw's Annotated Plan** (−10 s sur les pièges actifs à chaque gen) → traite le piège comme une urgence.
 - **Rules Set No.2** (auras des boîtes cachées tant que le piège est inactif) → repère les boîtes à vue avant qu'un gen ne se termine.
 
+**Implications de carte** [HEURISTIQUE] :
+- Grandes cartes : boîtes éloignées, recherche plus longue → Tampered Timer plus dangereux.
+- Intérieurs à coins : embuscade accroupie plus facile (furtif).
+
+**Perks / synergies à anticiper** (fréquences d'usage non vérifiables : effets LIVE, ch. 10 §10.4 et §10.10) :
+- **Make Your Choice** (sa perk : décrocher quand elle est loin rend le sauveteur Exposed) → décroche quand elle est proche mais engagée.
+- **Scourge Hook: Hangman's Trick** (auras près des crochets Fléau en portant, sabotage notifié) et **Surveillance** (gens kickés suivis, réparation audible de plus loin) → reprendre un gen kické puis bouger.
+
 Détail : `kb/research/batch4_killers_g2.md` §11.
 
 ### 12. The Clown (Kenneth Chase) — anti-loop (Hindered) · mobilité (Haste) [Débutant]
@@ -577,6 +662,14 @@ Détail : `kb/research/batch4_killers_g2.md` §11.
 - **Tattoo's Middle Finger** (aura 6 s des survivants touchés par un des deux gaz) → prendre son jaune te révèle : ne le traverse pas pour aller te cacher.
 - **Cigar Box** (auras à 6 m pour les revigorés) → le jaune ne sert pas à se cacher près de lui.
 - **Flask of Bleach** (Hindered −16 %), **Bottle of Chloroform** (nuage +20 %) → contourne plus large **au lieu de** traverser.
+
+**Implications macro** [HEURISTIQUE] : sans Antidote, il n'a aucune mobilité : gens dispersés. Pendant sa recharge (2,5 s à 2,3 m/s), quitte le gen ou la tile ; son jaune accélère aussi les survivants : il peut servir à rejoindre un crochet ou un gen.
+
+**Implications de carte** [HEURISTIQUE] :
+- Aidé : cartes ouvertes (l'Antidote rend ses lignes droites rentables). Gêné : obstacles hauts et intérieurs, qui bloquent les bouteilles.
+
+**Perks / synergies à anticiper** (fréquences d'usage non vérifiables : effets LIVE, ch. 10 §10.4 et §10.10) :
+- **Bamboozle** (sa perk) + Tonic (pas de fast vault) → les fenêtres valent peu : palettes. **Coulrophobia** (soins ralentis dans son TR) → soigner hors TR. **Pop Goes the Weasel** (chute ~20 % au kick post-hook) → finir le gen ou revenir réparer 5 %.
 
 Détail : `kb/research/batch4_killers_g2.md` §12.
 
@@ -605,6 +698,14 @@ Détail : `kb/research/batch4_killers_g2.md` §12.
 - **Dried Cherry Blossom** (Killer Instinct à moins de 3 m pendant la phase) → rester immobile à côté d'elle ne marche plus.
 - **Mother's Glasses** (Killer Instinct si tu passes à moins de 2 m du husk) → ne longe pas le husk.
 - **Kintsugi Teacup / Uchiwa** (recharge instantanée après une casse ou un stun) → un stun ou une palette cassée ne donne plus de répit.
+
+**Implications de carte** [HEURISTIQUE] :
+- Aidée : grandes cartes (mobilité pleinement utile).
+- Herbe haute et maïs ne te cachent pas d'une Spirit en phase : elle voit l'herbe bouger.
+
+**Perks / synergies à anticiper** (fréquences d'usage non vérifiables : effets LIVE, ch. 10 §10.4 et §10.10) :
+- **Spirit Fury** (sa perk : après plusieurs casses, la palette de stun explose), combo connu avec **Enduring** (ch. 10 §10.6) → compte les palettes cassées ; drop pour bloquer, pas pour stun.
+- **Hex: Haunted Ground** (2 totems ; en purifier un rend tout le monde Exposed) → deux Hex allumés dès le début : purifier seulement quand elle est loin. **Rancor** (cris à chaque gen) → l'Obsession sort en priorité, loin d'elle.
 
 Détail : `kb/research/batch4_killers_g2.md` §13.
 
@@ -639,6 +740,14 @@ Détail : `kb/research/batch4_killers_g2.md` §13.
 - **Mural Sketch** (+0,32 m/s par slash) / **Never-Sleep Pills** (Frenzy +10 s) → ne compte pas sur la fin du Frenzy.
 - **Filthy Blade**, **Stylish Sunglasses**, les **Pins** (effets après un mending **seul**) → fais-toi mender par un allié quand c'est possible [HYPOTHÈSE : le mending coopératif n'est pas décrit].
 
+**Implications de carte** [HEURISTIQUE] :
+- Aidé : petites cartes (survivants proches, slashs enchaînés plus facilement).
+- Gêné : grandes cartes quand l'équipe est dispersée : chaque Frenzy touche moins de monde.
+
+**Perks / synergies à anticiper** (fréquences d'usage non vérifiables : effets LIVE, ch. 10 §10.4 et §10.10) :
+- **Discordance** (sa perk : gens à 2 réparateurs ou plus surlignés) → un survivant par gen, cohérent avec « ne pas rester groupés ».
+- **Mad Grit** (frappe en portant) → pas de body block ; **Iron Maiden** (sortie de casier : cri + Exposed) → évite les casiers.
+
 Détail : `kb/research/batch4_killers_g2.md` §14.
 
 ### 15. The Plague (Adiris) — ranged · zone (fontaines) · infection [Intermédiaire]
@@ -669,6 +778,13 @@ Détail : `kb/research/batch4_killers_g2.md` §14.
 - **Blessed Apple / Ashen Apple** (fontaines corrompues en plus au départ) → compte les fontaines corrompues avant de planifier.
 - **Devotee's / Exorcism Amulet** (Corrupt Purge +20/+10 s) → joue la LOS plus longtemps.
 - **Olibanum Incense**, **Incensed Ointment** (auras en purifiant ou quand elle boit) → purifie hors de son TR.
+
+**Implications de carte** [HEURISTIQUE] : (non évaluées par la recherche)
+- En Corrupt Purge, intérieurs et murs hauts la gênent (LOS) ; cartes ouvertes l'aident (portée ~13 m sans obstacle).
+
+**Perks / synergies à anticiper** (fréquences d'usage non vérifiables : effets LIVE, ch. 10 §10.4 et §10.10) :
+- **Corrupt Intervention** (sa perk : 3 gens les plus éloignés bloqués au début) → signal au spawn : tenir la 1re chase.
+- **Infectious Fright** (cri au down d'un coéquipier) → reste hors du TR des chases ; **Dark Devotion** (TR transféré à l'Obsession blessée) → un TR qui suit un coéquipier n'est pas le tueur.
 
 Détail : `kb/research/batch4_killers_g2.md` §15.
 
@@ -702,6 +818,14 @@ Détail : `kb/research/batch4_killers_g2.md` §15.
 - **Night Vision Monocular / Telephoto Lens** (Exhausted 10 s / Oblivious 60 s pour qui le révèle) → ne révèle que si c'est toi qu'il approche.
 - **Driver's License** (marquer un réparateur fait exploser le gen, −20 %, bloqué 15 s) → lâche le gen dès qu'il stalke.
 
+**Implications macro** [HEURISTIQUE] : sans TR, il peut être partout : répare sur des gens éloignés les uns des autres, caméra tournée régulièrement ; un Marked (60 s) quitte le gen défendu. Un reveal coupe son pouvoir 15 s : fenêtre pour soins et décrochages.
+
+**Implications de carte** [HEURISTIQUE] :
+- Aidé : intérieurs à coins (Midwich, Hawkins, Lery's, RPD). Gêné : cartes ouvertes, où le reveal est facile.
+
+**Perks / synergies à anticiper** (fréquences d'usage non vérifiables : effets LIVE, ch. 10 §10.4 et §10.10) :
+- **Furtive Chase** (sa perk : Undetectable après le hook de l'Obsession) → inspecte avant de décrocher. Seed : Pain Resonance, Grim Embrace, Lethal Pursuer. Spine Chill contre Undetectable [INCERTAIN] ; Distortion peu utile (pas d'aura par défaut).
+
 Détail : `kb/research/batch4_killers_g3.md` §16.
 
 ### 17. The Demogorgon — mobilité · anti-loop · info [Intermédiaire]
@@ -732,6 +856,14 @@ Détail : `kb/research/batch4_killers_g3.md` §16.
 - **Lifeguard Whistle / Mews' Guts** (+2/+1 portail) → scelle en priorité près des gens clés **au lieu de** laisser le réseau grandir. **Deer Lung** (4 portails) → chaque scellement pèse plus.
 - **Barb's Glasses** (cooldown −10 % après une casse au Shred) → garde la palette debout.
 - **Sticky Lining** (zone d'Oblivious 6,5 m) → éloigne-toi davantage des portails actifs.
+
+**Implications de carte** [HEURISTIQUE] :
+- Aidé : grandes cartes (portails plus rentables) ; cartes riches en palettes safe, qu'il casse au Shred.
+- Gêné : cartes à nombreux murs hauts (virages serrés, Shred limité).
+
+**Perks / synergies à anticiper** (fréquences d'usage non vérifiables : effets LIVE, ch. 10 §10.4 et §10.10) :
+- **Surge** (sa perk : down au coup de base = recul des gens proches du tueur, sans cri) et perks de régression à distance (TP) → chases loin des gens.
+- **Cruel Limits** (fenêtres bloquées à chaque gen terminé) → prévois la chase avant de finir un gen : les fenêtres sont ta tile clé contre le Shred. **Mindbreaker** (Blindness + Exhausted en réparant).
 
 Détail : `kb/research/batch4_killers_g3.md` §17.
 
@@ -765,6 +897,14 @@ Détail : `kb/research/batch4_killers_g3.md` §17.
 - **Shattered Wakizashi** (+0,2 charge/s passif) → se soigner ne suffit plus à retarder la Fury : joue la distance.
 - **Iridescent Family Crest** (Strike ratée = cri et révélation à ≤ 24 m) → en Fury, éloigne-toi de plus de 24 m d'une chase.
 
+**Implications de carte** [HEURISTIQUE] :
+- Aidé : cartes ouvertes (Coldwind, maïs compris) pour la Fury ; palettes safe cassées en Fury.
+- Gêné : intérieurs à murs hauts.
+
+**Perks / synergies à anticiper** (fréquences d'usage non vérifiables : effets LIVE, ch. 10 §10.4 et §10.10) :
+- **Zanshin Tactics** (auras des palettes et fenêtres ; aura au drop) → change d'axe après un drop. **Blood Echo** (au hook, blessés Exhausted + Haemorrhage) → soigne-toi avant le hook suivant, cohérent avec *Macro*.
+- **Nemesis** (stun → Obsession + Oblivious) → distance après un stun. Seed : Pain Resonance, Corrupt Intervention, Pop, Eruption. Iron Will et orbes : aucune interaction documentée [INCERTAIN].
+
 Détail : `kb/research/batch4_killers_g3.md` §18.
 
 ### 19. The Deathslinger (Caleb Quinn) — ranged · anti-loop [Intermédiaire]
@@ -791,6 +931,14 @@ Détail : `kb/research/batch4_killers_g3.md` §18.
 - **Hellshire Iron** (Undetectable pendant le harpon, puis 10 s) → après le harpon d'un coéquipier, ne te fie pas au TR ~10 s.
 - **Gold Creek Whiskey / Marshal's Badge** (TR −8/−4 m en visée) → l'avertissement arrive plus tard : quitte l'open sans l'attendre.
 - **Bayshore's Cigar** (étourdissement ~1,95 s) → après la casse, vise une LOS immédiate, pas une longue fuite.
+
+**Implications de carte** [HEURISTIQUE] :
+- Aidé : cartes ouvertes à longues lignes de tir ; murs de gyms medium (Autohaven : il voit ta tête).
+- Gêné : intérieurs encombrés (tirs coupés, chaîne cassée vite).
+
+**Perks / synergies à anticiper** (fréquences d'usage non vérifiables : effets LIVE, ch. 10 §10.4 et §10.10) :
+- **Dead Man's Switch** (sa perk : après un hook, le 1er gen lâché est bloqué 25/30/35 s ; PTB 10.2.0 — non LIVE : modifiée) → 1er lâcher sur un gen peu avancé. **Gearhead** (révélé après un Good) → viser les Great.
+- **Hex: Retribution** (Oblivious en purifiant) → purifier quand l'équipe est à l'abri. Côté survivant, Lithe est citée par le seed.
 
 Détail : `kb/research/batch4_killers_g3.md` §19.
 
@@ -825,6 +973,14 @@ Détail : `kb/research/batch4_killers_g3.md` §19.
 - **Tablet of the Oppressor** (Undetectable en traçant) → surveille les traînées à l'œil.
 - **Scarlet Egg** (un Tormented qui court laisse ses propres traînées) → Tormented, ne cours pas à travers le groupe ou près d'un gen partagé.
 
+**Implications de carte** [HEURISTIQUE] :
+- Aidé : intérieurs à murs fins (Midwich, Lery's) : l'onde traverse ; goulets (couloirs) faciles à tracer.
+- Gêné : tiles longues et espaces où tu prends plus de 10 m latéraux. Les traînées s'effacent au sous-sol.
+
+**Perks / synergies à anticiper** (fréquences d'usage non vérifiables : effets LIVE, ch. 10 §10.4 et §10.10) :
+- **Forced Penance** (Broken après un coup protecteur) → body block seulement pour éviter un down. **Trail of Torment** (gen kické en aura jaune, tueur Undetectable) → gen jaune = tueur proche.
+- **Deathbound** (cri du soigneur), **Nowhere to Hide** (LIVE 24 m autour du gen abîmé).
+
 Détail : `kb/research/batch4_killers_g3.md` §20.
 
 ### 21. The Blight (Talbot Grimes) — mobilité · anti-loop [Avancé]
@@ -855,6 +1011,14 @@ Détail : `kb/research/batch4_killers_g3.md` §20.
 - **Compound Thirty-Three / Umbra Salts** (virage +11/+15 %) → moins de dodges tardifs : reste collé aux obstacles hauts.
 - **Rose Tonic / Pustula Dust** (fenêtre de chaîne +1/+0,75 s) → ne pars pas dès le Slam : attends qu'il s'engage.
 - **Vigo's Journal** (Undetectable pendant les Rushes) → écoute les Slams **au lieu du** TR.
+
+**Implications de carte** [HEURISTIQUE] : [SITUATIONNEL]
+- Aidé : cartes à nombreux obstacles « bumpables » (chaînes de Slams) ; grandes cartes (mobilité).
+- Open très plat : vitesse, mais peu de Slams. Depuis 9.6.0, les palettes safe ne sont plus gratuites pour lui (tokens).
+
+**Perks / synergies à anticiper** (fréquences d'usage non vérifiables : effets LIVE, ch. 10 §10.4 et §10.10) :
+- **Dragon's Grip** (sa perk : 30 s après un kick, le 1er qui touche le gen crie et devient Exposed) → attends 30 s sur un gen kické. **Hex: Blood Favour** (palettes debout bloquées autour à la perte de santé) → fuis vers une fenêtre.
+- **Hex: Undying** (sa perk) avec un autre Hex. Seed : Pain Resonance, Pop, Eruption, Corrupt Intervention.
 
 Détail : `kb/research/batch4_killers_g3.md` §21.
 
@@ -893,6 +1057,14 @@ Détail : `kb/research/batch4_killers_g3.md` §21.
 - **Cat's Eye** (bond silencieux) → garde un obstacle entre toi et Victor **au lieu d'**attendre le cri de charge.
 - **Madeleine's Glove / Soured Milk** (rayon de cri +4/+2 m) → accroupis-toi plus tôt.
 
+**Implications de carte** [HEURISTIQUE] :
+- Gênés : intérieurs et cartes encombrées (un obstacle de plus de 80 cm à l'atterrissage détruit Victor).
+- Aidés : l'open (bonds de Victor).
+
+**Perks / synergies à anticiper** (fréquences d'usage non vérifiables : effets LIVE, ch. 10 §10.4 et §10.10) :
+- **Oppression** (sa perk : un kick fait régresser d'autres gens) → plusieurs gens qui reculent sans kick : réparer 5 %. **Coup de Grâce** (fente plus longue après une pop) → marge de distance.
+- **Hoarder** (coffres surveillés) ; build Hex Ruin + Undying cité par le seed : purifier quand l'effet est observé.
+
 Détail : `kb/research/batch4_killers_g3.md` §22.
 
 ## Points incertains à suivre
@@ -905,6 +1077,7 @@ Détail : `kb/research/batch4_killers_g3.md` §22.
 
 - `kb/research/batch4_killers_g1.md` (tueurs 1-7), `kb/research/batch4_killers_g2.md` (8-15), `kb/research/batch4_killers_g3.md` (16-22) : fiches auditées et re-vérifiées le 27/09/2026 sur pages wiki complètes et notes officielles.
 - `kb/ledgers/AUDIT_PHASE0_ERRATA.md` (casseurs de palette, 7 hachettes de la Huntress) ; `kb/seed/audit_phase0.txt` (vitesses survivant, protections de décrochage, anti-facecamp, Deep Wound).
+- `kb/research/batch8_maps.md` §3.0 et §4.1 (profils de cartes × archétypes) ; `kb/deliverables/PERK_DEDUCTION.md` (signaux → perks) ; inventaire ch. 10 §10.10 (effets LIVE des perks citées).
 - `kb/deliverables/KILLER_COUNTERPLAY_HANDBOOK.md` §2-3 (typologie, matrice tile × archétype) ; `kb/research/batch7_tiles.md` §5.2 (palettes annulées par pouvoir) ; `kb/research/batch11_training.md` (DR-15).
 - Pages wiki.gg complètes (copies `kb/sources/wiki_killers/`) : Evan MacMillan, Philip Ojomo, Max Thompson Jr., Sally Smithson, Michael Myers, Lisa Sherwood, Herman Carter, Anna, Bubba Sawyer, Freddy Krueger, Amanda Young, Kenneth Chase, Rin Yamaoka, Frank Julie Susie Joey, Adiris, Danny Johnson, The Demogorgon, Kazan Yamaoka, Caleb Quinn, Pyramid Head, Talbot Grimes, Charlotte & Victor Deshayes ; page Pallets ; page Cages of Atonement.
 - Notes officielles BHVR (copies `kb/sources/patches/official_*.txt`) : 9.1.0 (516), 9.2.0 (523), 9.2.3 (526), 9.5.0 (538), 9.6.0 (544), 9.6.1 (545), 9.6.2 (546), 10.1.0 (556) ; PTB 10.2.0 (559, non LIVE).

@@ -867,6 +867,18 @@ Détail : `kb/research/batch7_tiles.md` §6.6.
 
 **Exercice 4 — Test en temps** : voir 4.2.2 (fast vs medium vault sur la même fenêtre).
 
+**Où ces exercices s'insèrent dans le programme** (ch. 14) [HEURISTIQUE] :
+
+| Exercice | Drill du catalogue 14.4 | Niveau | Arbre et erreurs (ch. 13) |
+|---|---|---|---|
+| 1 — Annonce H3 | DR-13 (route planning) | 4 puis 8 | Arbre 2 — Quitter la tile (13.9) ; E-D03, E-A01, E-I07 |
+| 2 — Chronométrer tes tiles | DR-03 (shack), DR-04 (jungle gym) | 3 | Arbre 1 — Palette (13.8) ; E-I01, E-I12 |
+| 3 — Pre-run | DC-06 (premier contact) | 8 | E-D03 |
+| 4 — Test en temps | DR-02 (fast vault) | 1-2 | E-D05 |
+| Matrice 4.5 (un archétype par session) | DR-15 (un tueur par session) | 5 | E-A03 |
+
+**CAS D'ÉCHEC du travail de tiles** : connaître les fiches 4.4 par cœur mais continuer à mourir **entre** les tiles. Le symptôme se lit dans la revue (ch. 14.5 : M-07 morts en dead zone, M-15 départs sur événement) : si le temps passé sur chaque tile monte sans que la durée totale de chase (M-01) monte, le problème est la transition (4.6), pas la loop.
+
 ---
 
 ## 4.9 Ce que l'ancien guide disait de faux ou d'imprécis
