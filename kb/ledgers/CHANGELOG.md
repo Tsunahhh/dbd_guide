@@ -24,10 +24,16 @@
 - **Audits adversariaux §25-26** (sans web) avec corrections appliquées : lot 6 (36 problèmes, 31 corrigés), lot 9 (43/37), lot 11 (54/51), livrables (53/48). Principaux correctifs : condition de loop sûre (comparer des temps, pas des distances) ; modèle de greed requalifié HYPOTHESIS ; pré-drop contre Blight (tokens de Rush 9.6.0), Mastermind, Lich, Brutal Strength, Fire Up ; définition de « gens restants » et 3-gen ; récupération au sol « à l'arrêt » ; arbre crochet (bande 10-16 m) ; étiquettes surestimées corrigées. Rapports : `kb/audit/pass14_*.md`.
 - **Nouveaux livrables** (consolidés depuis les brouillons audités) : `QUICK_REFERENCE.md`, `DECISION_TREES.md` (9 arbres), `TRAINING_PROGRAM.md` (10 niveaux, 33 drills, 19 métriques).
 
-## Prochaine session — lot exact à lancer
+## 2026-09-27 (soir) → 28/09 — accès web complet, re-vérification, guide v2
+- Environnement passé en accès réseau complet : `curl` vers le wiki (API MediaWiki) et les notes officielles BHVR fonctionne (WebFetch toujours bloqué). **39 notes officielles** archivées (`kb/sources/patches/`), **327 pages de perks** et **46 pages de tueurs** extraites en entier.
+- **Re-vérification complète** : 321 perks et 44 tueurs re-vérifiés sur pages complètes + notes officielles ; nombreux verdicts du lot 2-4 corrigés ; **errata de l'audit de phase 0** (`AUDIT_PHASE0_ERRATA.md` : Eruption 10 % LIVE, Good Guy / Mastermind / Lich / Knight, 7 hachettes, Anti-Exhaustion Syringe…) ; piège du digest PTB documenté.
+- **Lots 5 (objets), 7 (tiles), 8 (44 cartes)** écrits et audités ; audits adversariaux des 44 fiches tueurs ; questions mécaniques tranchées (2 soigneurs en 1v4, rampement 0,7 m/s, temps de remplissage Resolve, Hillbilly casse sans add-on…) dans `batch12_mechanics_open.md`.
+- Livrables re-vérifiés : PERK_DATABASE v2, PERK_DEDUCTION v2, KILLER_COUNTERPLAY_HANDBOOK v2 ; nouveau MAP_LOOP_HANDBOOK (= ch. 4 + 5).
+- **Master guide v2** : 15 chapitres (`kb/guide/`), fact-check final (pass17), audit de couverture (pass13 : 44/44 tueurs, 44/44 cartes, 176/176 + 145/145 perks), audit de profondeur/praticité (pass15) ; PDF `DBD_Guide_Expert_v2.pdf`.
+- Registres finaux : OUTDATED_CONTENT_REPORT partie B (59 erreurs du seed prouvées, 42 points où le seed avait raison), OPEN_QUESTIONS (117 ouvertes), CONFLICT_REGISTER (85/113 résolus), SOURCE_LEDGER, COVERAGE_MATRIX finale.
 
-1. **Vérifier d'abord l'état du jeu** : 10.2.0 est-il sorti en LIVE ? (1re requête de la file P0-A de `BATCH_2_4_SYNTHESIS.md` §5.) Si oui : mettre à jour le registre de version, puis traiter les 58 perks modifiées en priorité.
-2. **Lot 12a — re-vérification** : dérouler la file de `BATCH_2_4_SYNTHESIS.md` §5 dans l'ordre (P0-A notes de patch → P0-B valeurs décisionnelles et erreurs suspectes → P1 perks méta → P2), en mettant à jour les fiches `batch*` concernées (remplacer « NON RE-VÉRIFIÉ » par la valeur + confiance) et les livrables. Budget : ≤ 180 recherches (quota 200/session). **Ne pas lancer plus de 3-4 agents web en parallèle** : ils partagent le quota.
-3. Si l'accès web complet est rétabli (domaines autorisés), relire les pages wiki.gg / notes officielles au lieu des résumés et relever la confiance.
-4. Puis lot 5 (objets/add-ons/offrandes/techniques de save), lot 7 (tiles), lot 8 (cartes), en appliquant `TODO_RESEARCH.md`.
-5. Audits adversariaux (§25-26) des fiches des lots 2-4 (les lots 6, 9, 11 et les livrables sont faits), puis audits de couverture (§28-30) et de praticité (§27).
+## Prochaine session — travail exact à lancer
+
+1. **Vérifier si 10.2.0 est sorti** (article officiel > 559 sur forums.bhvr.com, wiki « Patch 10.2.0 »). Si oui : archiver la note, relancer `python3 kb/tools/wiki_scrape.py perks > kb/sources/wiki_perks.json`, mettre à jour les 58 perks, Abandon/Surrender/End Trial, Survivor Intent System dans les fiches puis le guide (§15.8), rebâtir le PDF.
+2. Traiter les questions encore ouvertes de `OPEN_QUESTIONS.md` partie B et les conflits ouverts de `CONFLICT_REGISTER.md` (priorité : ceux qui changent une décision survivant).
+3. Chercher des sources expertes écrites et des VOD avec transcript (si l'accès le permet) pour transformer des [HEURISTIQUE] en [AVIS D'EXPERT] sourcés ; lot 10 (compétitif) quand dbdleague.com répond.

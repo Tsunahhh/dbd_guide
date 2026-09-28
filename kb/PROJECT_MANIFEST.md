@@ -1,70 +1,68 @@
 # PROJECT_MANIFEST — Base de connaissances experte Dead by Daylight
 
-> **Statut global : NOT READY** (mission §47). Aucun domaine n'est COMPLETE.
-> Référence de version : **patch LIVE 10.1.2a (hotfix serveur du 17/09/2026, chapitre 41 Chorus of Sin)** — état au **27/09/2026**.
-> Le **PTB 10.2.0** (15 → 21/09/2026, 58 perks modifiées, Survivor Intent System, refonte Abandon) **n'est pas LIVE** ; sa sortie est estimée début octobre 2026 (non officiel). Toute valeur PTB est étiquetée comme telle.
+> **Statut global : voir `kb/guide/15_annexes.md` §15.7 (Definition of Done, mission §47).**
+> Référence de version : **patch LIVE 10.1.2a (édition serveur du 17/09/2026, chapitre 41 Chorus of Sin)** — état au **27-28/09/2026**.
+> Le **PTB 10.2.0** (15 → 21/09/2026, 58 perks modifiées, Survivor Intent System, refonte Abandon) **n'est pas LIVE** (wiki : « 10.2.0 TBA » ; aucun article officiel après 559). Toute valeur PTB est étiquetée comme telle.
 
-## 1. Comment reprendre ce projet (nouvelle session)
+## 1. Livrable principal
 
-1. Lire `prompt.md` (la mission complète, 54 sections).
-2. Lire ce manifeste, puis `kb/ledgers/TODO_RESEARCH.md` (le **prochain lot exact** y est indiqué).
-3. Contexte vérifié de la phase 0 : `kb/seed/audit_phase0.txt` (texte extrait du PDF `DBD_Rapport_Audit_Phase0.pdf`, 50 p.) — registre de patchs 9.0.0 → 10.1.2a, tables de mécaniques vérifiées, sources statistiques, compétitif, plan de recherche.
-4. Le guide d'origine (**seed, non fiable**) : `DBD_Guide_Avance_2026.pdf` (140 p.) ; son texte par chapitre est dans `kb/seed/*.txt` (extraction PyMuPDF).
-5. Les agents de recherche suivent `kb/research/AGENT_BRIEF.md`.
+**`DBD_Guide_Expert_v2.pdf`** (racine du dépôt) = MASTER GUIDE (§51-1), généré depuis `kb/guide/00…15_*.md` par `python3 kb/tools/build_pdf.py`. Il remplace `DBD_Guide_Avance_2026.pdf` (seed, non fiable).
 
-## 2. Carte des fichiers
+## 2. Comment reprendre ce projet (nouvelle session)
 
-| Fichier | Rôle | État |
+1. Lire `prompt.md` (la mission, 54 sections), puis ce manifeste, puis `kb/ledgers/CHANGELOG.md` (section « Prochaine session »).
+2. Faits de référence du guide : `kb/guide/CANONICAL_FACTS.md` ; corrections qui priment : `kb/ledgers/AUDIT_PHASE0_ERRATA.md`.
+3. Pour toute mise à jour de valeur : sources primaires archivées `kb/sources/patches/official_*.txt` (notes BHVR 9.0.0 → PTB 10.2.0, index `kb_index.txt`), pages wiki complètes (`kb/sources/wiki_perks.json`, `wiki_perks_digest.md`, `wiki_killers/`), outils `kb/tools/wiki_scrape.py`, `wiki_text.py`.
+4. Règles des agents : `kb/research/AGENT_BRIEF.md` ; règles de rédaction : `kb/guide/WRITING_BRIEF.md`.
+5. **Dès la sortie de 10.2.0** : suivre `kb/guide/15_annexes.md` §15.8 (58 perks, Abandon/Surrender, Intent System), relancer `wiki_scrape.py perks`, archiver la note officielle, mettre à jour les fiches puis le guide, rebâtir le PDF.
+
+## 3. Carte des fichiers
+
+| Emplacement | Contenu | État |
 |---|---|---|
 | `prompt.md` | Mission | référence |
-| `DBD_Guide_Avance_2026.pdf` | Guide seed (26/09/2026) | seed, POSSIBLY STALE |
-| `DBD_Rapport_Audit_Phase0.pdf` | Rapport phase 0 (PASS 0-2 + lot 1) | fait (27/09/2026) |
-| `last_result.md` | Compte rendu de la session précédente (lots 2-4 échoués) | historique |
-| `Assets_outdated/` | Icônes du jeu (version 9.4.0, jusqu'à The First) — **périmé** : manque Trickster rework, Slasher, Judgment, Aurora, Shane… | à ne pas utiliser sans vérification |
-| `kb/seed/` | Textes extraits du guide seed et de l'audit | référence |
-| `kb/research/batch2_perks_surv_p*.md` | Lot 2 : perks survivant (par page du seed) | voir §4 |
-| `kb/research/batch3_perks_kill_p*.md` | Lot 3 : perks tueur vues du survivant | voir §4 |
-| `kb/research/batch4_killers_g*.md` | Lot 4 : 44 tueurs, volet survivant | voir §4 |
-| `kb/ledgers/COVERAGE_MATRIX.md` | Matrice de couverture | tenue à jour |
-| `kb/ledgers/CONFLICT_REGISTER.md` | Contradictions de sources | tenue à jour |
-| `kb/ledgers/OUTDATED_CONTENT_REPORT.md` | Erreurs prouvées du seed | tenue à jour |
-| `kb/ledgers/OPEN_QUESTIONS.md` | Non vérifié | tenue à jour |
-| `kb/ledgers/TODO_RESEARCH.md` | File de lots + prochain lot exact | tenue à jour |
-| `kb/ledgers/SOURCE_LEDGER.md` | Sources | tenue à jour |
-| `kb/ledgers/CHANGELOG.md` | Historique du projet | tenue à jour |
-| `kb/deliverables/` | Livrables §51 : `QUICK_REFERENCE.md` (§51-2), `KILLER_COUNTERPLAY_HANDBOOK.md` (§51-3), `PERK_DATABASE.md` (§51-5), `TRAINING_PROGRAM.md` (§51-6), `DECISION_TREES.md` (§51-7), `PERK_DEDUCTION.md` (§10). Manquent : MASTER GUIDE (§51-1), MAP & LOOP HANDBOOK (§51-4, lots 7-8). SOURCE LEDGER, CHANGELOG, OUTDATED REPORT, OPEN QUESTIONS sont dans `kb/ledgers/` | en construction |
-| `kb/ledgers/BATCH_2_4_SYNTHESIS.md` | Bilan lots 2-4, erreurs du seed PROUVÉ/PROBABLE/SUSPECT, 58 conflits, file de re-vérification | fait |
-| `kb/research/batch6/9/11_*.md` | Brouillons sans web (chase, macro, entraînement) | WRITTEN + AUDITED (sans web) |
-| `kb/audit/pass14_*.md` | Rapports des audits adversariaux §25-26 | fait (27/09) |
-| `kb/tools/summarize_batches.py` | Comptages des lots + `SOURCE_LEDGER_batches.md` | outil |
+| `DBD_Guide_Expert_v2.pdf` (+ `.html`) | Master guide v2 (15 chapitres) | livrable |
+| `DBD_Guide_Avance_2026.pdf` | Guide seed du 26/09/2026 | OBSOLÈTE (voir `OUTDATED_CONTENT_REPORT.md`) |
+| `DBD_Rapport_Audit_Phase0.pdf` | Rapport de phase 0 | historique (corrigé par l'errata) |
+| `kb/guide/` | Chapitres Markdown du guide, faits canoniques, brief de rédaction | final |
+| `kb/deliverables/` | QUICK_REFERENCE (§51-2), KILLER_COUNTERPLAY_HANDBOOK (§51-3), MAP_LOOP_HANDBOOK (§51-4, = ch. 4 + 5), PERK_DATABASE (§51-5), TRAINING_PROGRAM (§51-6), DECISION_TREES (§51-7), PERK_DEDUCTION (§10) | final |
+| `kb/research/` | Fiches de recherche : batch2 (176 perks survivant), batch3 (145 perks tueur), batch4 (44 tueurs), batch5 (objets), batch6 (chase), batch7 (tiles), batch8 (44 cartes), batch9 (macro), batch11 (entraînement), batch12 (questions mécaniques) | re-vérifié / audité |
+| `kb/audit/` | pass13 (couverture), pass14 (adversariaux §25-26), pass15 (profondeur/praticité), pass17 (fact-check final) | fait |
+| `kb/ledgers/` | COVERAGE_MATRIX, CONFLICT_REGISTER, OUTDATED_CONTENT_REPORT (§51-10), OPEN_QUESTIONS (§51-11), SOURCE_LEDGER (§51-8), CHANGELOG (§51-9), TODO_RESEARCH, AUDIT_PHASE0_ERRATA, BATCH_2_4_SYNTHESIS (historique) | final |
+| `kb/sources/` | Notes officielles BHVR archivées, pages wiki complètes, modules de données wiki | archive |
+| `kb/seed/` | Textes extraits du seed et de l'audit de phase 0 | référence |
+| `kb/tools/` | `wiki_scrape.py`, `wiki_text.py`, `build_pdf.py`, `summarize_batches.py` | outils |
+| `Assets_outdated/` | Icônes du jeu (9.4.0) — périmé, non utilisé | à ignorer |
 
-## 3. Contraintes d'accès connues (à relire avant chaque session)
+## 4. Contraintes d'accès connues
 
-| Session | Accès web | Conséquence |
+| Période | Accès | Conséquence |
 |---|---|---|
-| Phase 0 (27/09/2026, app) | Outil web résumant les pages ; wiki.gg, forums BHVR lisibles ; YouTube/X/Liquipedia/DBDL refusés ; infographies officielles illisibles | 239 affirmations vérifiées, pas de VOD |
-| Lots 2-4 (27/09/2026, cloud) | **Seul `WebSearch` fonctionne, avec un quota de 200 recherches par session (atteint)** (liste d'URL + résumé généré). `WebFetch`/`curl` refusés par la politique réseau pour : deadbydaylight.wiki.gg, deadbydaylight.fandom.com, forums.bhvr.com, support.deadbydaylight.com, deadbydaylight.com, store.steampowered.com, nightlight.gg, timesaver.gg, patched.gg, reddit.com, en.wikipedia.org, otzdarva.com, dbd.tricky.lol | Confiance plafonnée à STRONG_SECONDARY pour tout ce qui n'a pas été vérifié en phase 0 ; les valeurs sont à re-vérifier sur page complète quand l'accès le permettra. Pour lever la limite : autoriser ces domaines dans les réglages réseau de l'environnement cloud. |
+| Phase 0 (27/09, app) | Outil web résumant les pages | 239 affirmations vérifiées |
+| Lots 2-4 (27/09, cloud, réseau restreint) | Seul WebSearch (quota 200/session, atteint) | Confiance plafonnée STRONG_SECONDARY — **ensuite levé** |
+| Après passage de l'environnement en accès complet (27/09 soir) | `curl` : wiki.gg (API MediaWiki), forums.bhvr.com (notes officielles), YouTube (pages sans transcript) OK ; reddit, nightlight.gg → 403 ; dbdleague.com → 503 ; WebFetch reste bloqué | Re-vérification complète sur pages entières + notes officielles |
 
-Aucune analyse de VOD n'a été faite ; le guide ne doit jamais prétendre le contraire.
+Jamais d'analyse de VOD ; aucune statistique NightLight/infographie lue ; aucune source experte écrite trouvée.
 
-## 4. État des lots (mission §44 PASS / §46 statuts)
+## 5. État des lots (mission §44 / §46)
 
-| Lot | Périmètre | Statut | Fichiers |
+| Lot / PASS | Périmètre | Statut | Fichiers |
 |---|---|---|---|
-| PASS 0-2 | Audit seed, taxonomie (23 familles, ~200 nœuds T-xxx), matrice, gap analysis | FAIT | `kb/seed/audit_phase0.txt` |
-| 1 | État du jeu, patchs, mécaniques chase/objectifs/statuts, stats, compétitif | FAIT (PARTIALLY_VERIFIED) | idem |
-| 2 | Perks survivant (176) | PARTIALLY_VERIFIED — 176 fiches ; 106 vérifiées via résumé WebSearch, 69 UNCERTAIN | `batch2_*`, `deliverables/PERK_DATABASE.md` |
-| 3 | Perks tueur vue survivant (145) + perk deduction | PARTIALLY_VERIFIED — 145 fiches ; 42 web, 17 audit partiel, 86 UNCERTAIN | `batch3_*`, `deliverables/PERK_DEDUCTION.md`, `PERK_DATABASE.md` |
-| 4 | 44 tueurs, volet survivant | WRITTEN, NON VÉRIFIÉ web (quota) — 44 fiches, 62 claims via audit | `batch4_*`, `deliverables/KILLER_COUNTERPLAY_HANDBOOK.md` |
-| 5 | Objets, add-ons, offrandes, techniques (flash/pallet save, sabo, body block) | NOT_STARTED | — |
-| 6 | Techniques de chase fines + chase theory avancée | WRITTEN + AUDITED (§25-26, 36 pb / 31 corrigés) | `batch6_chase_tech.md`, `audit/pass14_lot6_chase.md` |
-| 7 | Loops et tiles, matrice tile × tueur, connectivité | NOT_STARTED | — |
-| 8 | Cartes (44) : fixe vs RNG, dimensions stratégiques | NOT_STARTED | — |
-| 9 | Macro, SoloQ/SWF, game sense, états de partie, endgame | WRITTEN + AUDITED (§25-26, 43 pb / 37 corrigés) | `batch9_macro.md`, `audit/pass14_lot9_macro.md` |
-| 10 | Compétitif approfondi / VOD | BLOCKED (accès) | — |
-| 11 | Erreurs, arbres de décision, drills, programme, métriques | WRITTEN + AUDITED (§25-26, 54 pb / 51 corrigés) | `batch11_training.md`, `audit/pass14_lot11_training.md` |
-| 12 | Triangulation + freshness (sortie 10.2.0) — **PROCHAIN LOT** : file de 180 requêtes | NOT_STARTED | `ledgers/BATCH_2_4_SYNTHESIS.md` §5 |
-| 13-15 | Audits couverture / adversariaux ×2 / praticité | PARTIEL : audits adversariaux §25-26 faits sur lots 6, 9, 11 et les 3 livrables (sans web) ; audit de couverture et de praticité restants | `kb/audit/pass14_*.md` |
-| 16-17 | Réécriture + fact-check final | NOT_STARTED | — |
-
-(Cette table est mise à jour à la fin de chaque session ; voir `kb/ledgers/CHANGELOG.md`.)
+| PASS 0-2 | Audit seed, taxonomie, matrice, gap analysis | FAIT | `kb/seed/audit_phase0.txt` |
+| 1 | État du jeu, patchs, mécaniques | FAIT (+ errata) | idem, `AUDIT_PHASE0_ERRATA.md` |
+| 2 | Perks survivant (176) | VERIFIED (wiki complet + notes officielles) | `batch2_*` |
+| 3 | Perks tueur (145) + perk deduction | VERIFIED | `batch3_*`, `PERK_DEDUCTION.md` |
+| 4 | 44 tueurs, volet survivant | VERIFIED + AUDITED | `batch4_*`, `audit/pass14_lot4_*` |
+| 5 | Objets, add-ons, offrandes, techniques | WRITTEN + AUDITED | `batch5_items.md` |
+| 6 | Chase fine + chase theory | WRITTEN + AUDITED | `batch6_chase_tech.md` |
+| 7 | Loops, tiles, connectivité | WRITTEN + AUDITED | `batch7_tiles.md` |
+| 8 | 44 cartes | WRITTEN + AUDITED | `batch8_maps.md` |
+| 9 | Macro, SoloQ/SWF, états, endgame | WRITTEN + AUDITED | `batch9_macro.md` |
+| 10 | Compétitif / VOD | PARTIEL — BLOCKED (DBDL 503, VOD sans transcript) | guide ch. 12 |
+| 11 | Erreurs, arbres, drills, programme, métriques | WRITTEN + AUDITED | `batch11_training.md` |
+| 12 | Re-vérification + freshness + questions mécaniques | FAIT (27-28/09) | `batch12_mechanics_open.md`, ledgers |
+| 13 | Audit de couverture | FAIT | `audit/pass13_coverage.md` |
+| 14 | Audits adversariaux §25-26 | FAIT | `audit/pass14_*.md` |
+| 15 | Audit de profondeur / praticité | FAIT | `audit/pass15_depth_practicality.md` |
+| 16 | Réécriture (master guide) | FAIT | `kb/guide/`, PDF |
+| 17 | Fact-check final | FAIT | `audit/pass17_*.md` |

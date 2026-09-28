@@ -1,0 +1,2059 @@
+# Elliot Spencer
+Source: https://deadbydaylight.wiki.gg/wiki/Elliot_Spencer (page complète via API, consultée le 28/09/2026)
+
+The Cenobite
+
+Name
+
+Elliot Spencer
+
+Game Alias(es)
+
+"Pinhead"
+
+"Lead Cenobite"
+
+"Hell Priest"
+
+Gender
+
+Man
+
+Origin
+
+English
+
+Power
+
+Summons of Pain
+
+Power 
+Attack
+ Type
+
+Special Attack
+
+(Possessed Chains)
+
+Weapon
+
+Hook & Chain
+
+Movement Speed
+
+115 % 
+|
+ 4.6 m/s
+
+Terror Radius
+
+32 metres
+
+Height 
+
+Tall
+
+DLC
+
+Hellraiser™
+
+Voice Actor
+
+Doug Bradley (Original Actor)
+
+Breathing
+
+Menu Music
+
+Terror Radius Music
+
+Metadata
+
+CharID
+
+K25
+
+Elliot Spencer
+ or 
+"The Cenobite"
+, also known as "
+Pinhead
+", is one of 
+44
+ 
+Killers
+ currently featured in 
+Dead by Daylight
+. 
+
+He was introduced as the Killer of 
+Hellraiser™
+, a Chapter DLC originally released on 7th of September 2021 which was delisted from platform stores on 4 March 2025 and 13 March 2025 for the Nintendo eShop.
+
+He remains a fully playable and supported Character in Dead by Daylight for all Players who purchased him before his Chapter left the Game.
+
+He originates from the 1987 Horror Movie franchise, 
+Hellraiser
+.
+
+Contents
+
+1
+ 
+Overview
+
+2
+ 
+Lore
+
+3
+ 
+Load-out
+
+3.1
+ 
+Unique Perks
+
+3.1.1
+ 
+Prestige
+
+3.2
+ 
+Weapon: Hook & Chain
+
+3.3
+ 
+Power: Summons of Pain
+
+3.3.1
+ 
+Power Audio
+
+3.3.2
+ 
+Power Trivia
+
+3.4
+ 
+Add-ons for Summons of Pain
+
+4
+ 
+Achievements
+
+5
+ 
+Cosmetic Options
+
+5.1
+ 
+Base Cosmetics
+
+5.1.1
+ 
+Default
+
+5.1.2
+ 
+Prestige
+
+5.1.2.1
+ 
+Perk Charms
+
+5.1.2.2
+ 
+Prestige Badges
+
+5.2
+ 
+In-Game Store
+
+5.3
+ 
+Alternate Character Models
+
+6
+ 
+DLC
+
+7
+ 
+Change Log
+
+8
+ 
+Trivia
+
+8.1
+ 
+General
+
+8.2
+ 
+Memento Mori
+
+8.3
+ 
+Voice-Lines
+
+8.3.1
+ 
+Original Voice-Lines
+
+8.3.2
+ 
+Current Voice-Lines
+
+9
+ 
+Gallery
+
+9.1
+ 
+In-game Assets
+
+9.2
+ 
+Official Art
+
+9.3
+ 
+Old Assets
+
+9.4
+ 
+Concept Art
+
+9.5
+ 
+Screenshots
+
+Overview
+
+The Cenobite, also known as Pinhead, specializes in inflicting map-wide suffering. Survivors must find the Lament Configuration lest a Chain Hunt begin, debilitating their movement with a relentless barrage of otherworldly shackles. The Cenobite can also summon a chain to bind Survivors, allowing him to gain ground and inflict punishment.
+
+The Cenobite
+ is a summoning Killer, able to possess 
+Chain Projectiles
+ and use the 
+Lament Configuration
+ to torture every Survivor at once.
+
+His personal Perks, 
+Deadlock
+, 
+Hex: Plaything
+, and 
+Scourge Hook: Gift of Pain
+, allow him to slow Generator Progression and continue to torment Survivors who have experienced his sweet suffering.
+
+Difficulty Rating: 
+Very Hard
+(
+These Killers require a high amount of practice and understanding, inexperienced Players are likely to find little success when using them
+)
+
+Lore
+
+A demon to some, an angel to others. Pinhead is an explorer in the further regions of experience, indulging in the limitless thrill of pleasure and pain. When the puzzle box known as the Lament Configuration — a key to another dimension — was found in The Entity's Realm, it was only a matter of time before it fell into curious hands. Once opened, he arrived. What came next was sweet suffering that spilled over the Realm.
+
+Load-out
+
+Unique Perks
+
+The Cenobite
+ comes with 
+3
+ 
+Perks
+ that are unique to him:
+
+ 
+
+Deadlock
+
+Identical to 
+No Holds Barred
+.
+
+"Nobody escapes us." — Pinhead
+
+ 
+
+Hex: Plaything
+
+Identical to 
+Hex: Fortune's Fool
+.
+
+"We came. Now you must come with us. Taste our pleasure." — Pinhead
+
+ 
+
+Scourge Hook: Gift of Pain
+
+Identical to 
+Scourge Hook: Weeping Wounds
+.
+
+"We will tear your soul apart." — Pinhead
+
+Prestige
+
+Prestiging 
+The Cenobite
+ will automatically add 
+Tier I
+ of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their 
+Bloodweb
+.
+
+Prestige 
+The Cenobite
+ twice more to automatically add 
+Tier II
+ and 
+Tier III
+ respectively into the other Killers' inventories.
+
+Weapon: Hook & Chain
+
+The 
+Hook & Chain
+ are the Primary Weapon of 
+The Cenobite
+.
+He wields them with thrill.
+
+Power: Summons of Pain
+
+"An extradimensional gateway that leads to pleasure and pain so great it will tear your soul apart."
+SPECIAL ABILITY: SUMMONS OF PAIN
+Press the 
+Power button
+ to conjure a 
+Gateway
+ up to 
+16 metres
+ away in front of 
+The Cenobite
+.
+Release the 
+Power button
+ to open the 
+Gateway
+ and possess it.
+SPECIAL ATTACK: POSSESSED CHAIN
+Press the 
+Attack button
+ while possessing the 
+Gateway
+ to summon forth a guided 
+Possessed Chain
+ under your control.
+
+Hitting a Survivor with the 
+Possessed Chain
+ causes the following effects:
+
+Binds the Survivor with 
+3
+ 
+Chains
+.
+
+Reduces
+ their Movement speed:
+
+1.13 m/s
+ with 
+3 Chains
+.
+
+1.695 m/s
+ with 
+2 Chains
+.
+
+2.26 m/s
+ with 
+1 Chain
+.
+
+Causes them to suffer from the 
+Incapacitated
+ 
+Status Effect
+.
+
+Suppresses
+ their ability to run.
+
+Blocks
+ the 
+Exit Gates
+.
+
+This effect lingers for 
+5 seconds
+ after all 
+Chains
+ are removed.
+
+SPECIAL INTERACTION: BREAKING CHAINS
+Bound Survivors
+ can perform the 
+Break Free
+ interaction to remove one 
+Chain
+ at a time, each taking 
+1 second
+.
+
+Chains
+ are broken upon colliding with the environment, which will spawn a replacement 
+Chain
+ that will attempt to bind the Survivor again.
+Chains
+ are also broken when colliding with other Players, but this will not spawn a replacement 
+Chain
+.
+SPECIAL ITEM: LAMENT CONFIGURATION
+The 
+Lament Configuration
+ spawns in a random location in the environment at the start of the Trial and slowly charges a 
+Chain Hunt
+
+The 
+Aura
+ of the 
+Lament Configuration
+ is revealed to Survivors in 
+white
+ at all times and changes to 
+yellow
+ during an active 
+Chain Hunt
+.
+
+Any Survivor can pick up the 
+Lament Configuration
+ to prevent it from continuing charging a 
+Chain Hunt
+ or ending an on-going one, but not without suffering from the following effects:
+
+Causes the Survivor to suffer from a permanent 
+Oblivious
+ 
+Status Effect
+.
+
+Causes all of their ambient sounds to be replaced with a haunting tune.
+
+Triggers a 
+Chain Hunt
+ targetting only them.
+
+The 
+Lament Configuration
+ cannot be dropped, demanding to be solved to remove it from their possession.
+If they are downed by 
+The Cenobite
+, it is dropped from their grasp and respawns after 
+30 seconds
+.
+SPECIAL ABILITY: CHAIN HUNT
+When left to its own devices, the 
+Lament Configuration
+ charges a 
+Chain Hunt
+ over the course of 
+90 seconds
+.
+
+During a 
+Chain Hunt
+, Survivors are repeatedly targetted by 
+Chains
+ spawning from nearby 
+Gateways
+, which attempt to bind them until 
+3
+ 
+Chains
+ are attached to them.
+This process continues indefinitely until a Survivor picks up the 
+Lament Configuration
+.
+
+If 
+The Cenobite
+ picks it up from the ground himself, or downs a Survivor currently holding it, he instantly starts a 
+Chain Hunt
+ in addition to the following effects: 
+
+Causes all Survivors to be bound by 
+3
+ 
+Chains
+.
+
+Causes all Survivors to scream and reveal their location for 
+3 seconds
+.
+
+Causes the 
+Lament Configuration
+ to respawn after 
+10 seconds
+.
+
+If the condition of the 
+Last Survivor Standing
+ is met, 
+Chain Hunts
+ will still activate, but not spawn any 
+Chains
+, leaving the 
+Last Survivor Standing
+ untouched.
+SPECIAL INTERACTION: SOLVING
+Solving the 
+Lament Configuration
+ takes 
+6 seconds
+ to complete:
+
+Triggers 
+Killer Instinct
+.
+
+Causes it to disappear and respawn in a random location after 
+45 seconds
+ upon success.
+
+SPECIAL LOCOMOTION: TELEPORT
+While a Survivor is solving the 
+Lament Configuration
+, 
+The Cenobite
+ is granted the ability to teleport to within 
+10 to 12 metres
+ of their location.
+
+Interrupts the Solving process and briefly binds the Survivor in place with 
+Chains
+ shooting from the 
+Lament Configuration
+.
+
+Power Audio
+
+Lament Configuration Tune
+
+Plays on a continuous loop for the Survivor carrying the 
+Lament Configuration
+.
+Replaces all other Ambient sounds.
+
+Lament Configuration Spawn Cue
+
+Plays whenever the 
+Lament Configuration
+ respawns.
+Also plays on the first spawn.
+
+Original Lament Configuration Spawn Cue
+
+The first 
+Lament Configuration
+ spawn cue used on the 
+5.2.0 PTB
+.
+This sound was scrapped and replaced with the one above upon 
+The Cenobite's
+ release.
+
+Lament Configuration Escape
+
+Plays after a Survivor escapes with the 
+Lament Configuration
+.
+This prevents the box from respawning for the remainder of the 
+Endgame Collapse
+.
+
+Power Trivia
+
+Movement Speeds:
+
+Main Article
+
+Chain Strike: 
+3.68 m/s
+
+Uncontrolled Projectile: 
+10 m/s
+
+Controlled Projectile (initially): 
+10 m/s
+
+Controlled Projectile (intermittently; after 0.4 seconds): 
+15 m/s
+
+Controlled Projectile (intermittently, after 0.7 seconds): 
+37.5 m/s
+
+Controlled Projectile (eventually, after 4 seconds): 
+40 m/s
+
+Gateway:
+
+The Gateway works the same as The Nurse's Blink indicator when using 
+Plaid Flannel
+
+Minimum Placement distance: 
+1.5 metres
+
+Maximum Placement distance: 
+16 metres
+
+Placement speed: 
+8 m/s
+
+This refers to the speed at which the Gateway is moving away from 
+The Cenobite
+ during the Placement phase.
+
+Placement Cancellation cool-down time: 
+1.5 seconds
+
+Gateway Possession:
+
+Camera Pan time: 
+0.5 seconds
+
+Field of View
+ Change time: 
+0.75 seconds
+
+Possession Cancellation cool-down time: 
+3 seconds
+
+Killer Repossession Fade-in time: 
+0.25 seconds
+
+Maximum Possession duration: 
+6 seconds
+
+After this time elapses, control will revert back to 
+The Cenobite
+.
+
+Gateway Pitch Angles:
+
+Maximum/Minimum Pitch Angle: 
+±45 °
+
+This refers to how high/low 
+The Cenobite
+ can look while possessing the Gateway from an imagined horizon.
+
+Lament Configuration (Chain Hunt):
+
+Chain Hunt
+ Charge time: 
+90 seconds
+
+After spawning the 
+Lament Configuration
+.
+
+Minimum 
+Chain Hunt
+ Attack delay: 
+9 seconds
+
+Maximum 
+Chain Hunt
+ Attack delay: 
+12 seconds
+
+Chain Targeting Cool-down: 
+4 seconds
+
+This applies to the Survivor holding the 
+Lament Configuration
+
+Number of Chains targeting Survivors after Cenobite pick-up: 
+3 Chains
+
+Loud Noise Notification duration: 
+3 seconds
+
+Escape Grasp charge time: 
+2 seconds
+
+Lament Configuration (Respawn Times):
+
+Picked-up by 
+The Cenobite
+: 
+10 seconds
+
+Solved by a Survivor: 
+45 seconds
+
+Removed from a Survivor's grasp: 
+45 seconds
+
+Removed from a Survivor's grasp by 
+The Cenobite
+ attacking: 
+30 seconds
+
+Lament Configuration (Spawn Location):
+
+The 
+Lament Configuration
+ has the following behaviour in regards to choosing its spawn and respawn location:
+
+When running the Spawn Routine, the 
+Lament Configuration
+ first maps all possible Spawn locations in the Trial Grounds and checks their distance to Survivors and 
+The Cenobite
+:
+
+if a spawn location is within 
+16 metres
+ of any Survivor, its chances decrease by 
+-5,000 points
+.
+
+if a spawn location is within 
+40 metres
+ of 
+The Cenobite
+, its chances decrease by 
+-15,000 points
+.
+
+any spawn locations outside of these radii have an equal chance to be picked as the 
+Lament Configuration'
+s spawn location.
+
+Lament Configuration (Solving):
+
+Interaction time: 
+6 seconds
+
+Interaction cool-down: 
+1 second
+
+Skill Check:
+
+Penalty time: 
+1 second
+
+Duration: 
+1.1 seconds
+
+Trigger chance: 
+100 %
+
+Good Success Zone length: 
+15 %
+
+Good Success bonus: 
+0 %
+
+Great Success Zone length: 
+2.5 %
+
+Great Success bonus: 
+2 %
+
+Teleportation:
+
+Charge time: 
+3.25 seconds
+
+Slow-down duration post-teleport: 
+1.25 seconds
+
+Minimum Teleportation distance: to within 
+10 metres
+ of the Survivor
+
+Maximum Teleportation distance: to within 
+12 metres
+ of the Survivor
+
+Chains:
+
+Exit Blocker Linger time: 
+5 seconds
+
+This refers to how long the Exit Gate Blocker lingers after a Survivor is downed while Chained.
+
+Removal duration for Survivors: 
+1 second per Chain
+
+Maximum number of attached Chains: 
+3 Chains
+
+Maximum Length before breaking off: 
+18 metres
+
+Post-Unhook Immunity duration: 
+3 seconds
+
+This is so Survivors are not immediately targeted by 
+Chains
+ after being unhooked.
+
+While chained; Survivors are unable to run and each additional 
+Chain
+ further reduces their Movement speed:
+
+1 
+Chain
+: 
+2.26 m/s
+
+2 
+Chains
+: 
+1.695 m/s
+
+3 
+Chains
+: 
+1.13 m/s
+
+Deep Wound:
+
+The 
+Deep Wound
+ timer is paused while a Survivor is performing the 
+Remove Chains
+ interaction.
+
+Chain Projectiles (General):
+
+Field of View
+ Change time: 
+0.75 seconds
+
+Shot Cool-down time: 
+5 seconds
+
+Reel-Back speed: 
+20 m/s
+
+Chain Projectiles (Controlled):
+
+Initial Projectile speed: 
+10 m/s
+
+Maximum Yaw Turn rate: 
+125 ° per Server Tick
+
+Maximum Pitch Turn Rate: 
+100 ° per Server Tick
+
+Maximum Travel distance: 
+24 metres
+
+Roll Angle speed: 
+3.5 °
+
+Roll Angle Reset speed: 
+10 °
+
+Maximum Roll Angle: 
+25 °
+
+Bonus Chains on Hit: 
++2 Chains
+
+Additional 
+Chains
+ that will instantly grab the Survivor hit by a controlled 
+Chain
+.
+
+Chain Projectiles (Uncontrolled):
+
+Launch delay: 
+1.5 seconds
+
+This refers to how long the Game waits before launching an uncontrolled 
+Chain
+ after its spawn location is revealed.
+
+Spawn buffer: 
+3 seconds
+
+This refers to how long the Game waits before launching another uncontrolled 
+Chain
+.
+
+Minimum Spawn distance to Survivor: 
+2.5 metres
+
+Maximum Spawn distance to Survivor: 
+6 metres
+
+Projectile Speed: 
+10 m/s
+
+Maximum Travel distance: 
+16 metres
+
+Reel-Back Speed: 
+20 m/s
+
+Only applies to 
+Chains
+ that did not hit a Survivor.
+
+Maximum length until Break-off: 
+18 metres
+.
+
+Add-ons for Summons of Pain
+
+Icon
+
+Name
+
+Description
+
+Bent Nail
+
+A simple nail that cut deep into Larry Cotton's hand.
+Though the damage was superficial, it set into motion a horrifying set of events.
+
+Grants 
++100 %
+ bonus Bloodpoints for 
+Chain Bound
+ Score Events.
+
+Reduces
+ the number of bonus 
+Chains
+ spawned when Survivors are hit with a 
+Possessed Chain Attack
+ to 
++1
+.
+
+Burning Candle
+
+A candle lit by Frank Cotton during a fatal summoning ceremony.
+
+Reduces
+ the Timer duration for starting a 
+Chain Hunt
+ by 
+-3 seconds
+.
+
+Leather Strip
+
+Leather strips torn from a Cenobite's uniform, allowing for the mutilation of exposed flesh.
+
+Reduces
+ the Cool-down time of a 
+Possessed Chain Attack
+ by 
+-0.15 seconds
+.
+
+Lively Crickets
+
+Insects which scarcely avoided being eaten by a mysterious drifter.
+
+Increases
+ the Turn rate of the 
+Possessed Chain
+ by 
++10 %
+.
+
+Flickering Television
+
+A television that acted strangely upon the arrival of the Cenobites.
+
+Increases
+ the maximum Casting distance of the 
+Gateway
+ by 
++4 metres
+.
+
+Liquified Gore
+
+The result of summoning the Cenobites.
+There is no telling what part of the human body this belonged to.
+
+Increases
+ the Solving time of the 
+Lament Configuration
+ by 
++1 second
+.
+
+Skewered Rat
+
+A crude solution for the Cotton home's rat problem.
+
+Reduces
+ the Cool-down time of a 
+Possessed Chain Attack
+ by 
+-0.45 seconds
+.
+
+Spoiled Meal
+
+A pile of mould, feasted on by a cockroach.
+Perhaps a sign of Frank Cotton's mysterious disappearance...
+
+Increases
+ the maximum range of the 
+Possessed Chain
+ by 
++2 metres
+.
+
+Wriggling Maggots
+
+Larvae that poured from the mouth of a corpse hidden in the Cotton household.
+
+Increases
+ the Turn rate of the 
+Possessed Chain
+ by 
++15 %
+.
+
+Frank's Heart
+
+The beating heart of Frank, given life from his brother's blood.
+
+Increases
+ the maximum Casting distance of the 
+Gateway
+ by 
++8 metres
+.
+
+"Nobody escapes us." — Pinhead
+
+Larry's Blood
+
+The blood of Larry Cotton, which partially resurrected his brother Frank.
+
+Increases
+ the maximum range of the 
+Possessed Chain
+ by 
++4 metres
+.
+
+Larry's Remains
+
+The skeletal remains of Larry Cotton, covered in a thick, sticky layer of blood.
+
+Increases
+ the Solving time of the 
+Lament Configuration
+ by 
++2 seconds
+.
+
+"We want the man who did this." — Pinhead
+
+Slice of Frank
+
+A slab of Frank's face after his torture at the hand of the Cenobites.
+
+Survivors suffer from the 
+Exhausted
+ 
+Status Effect
+ while carrying the 
+Lament Configuration
+.
+
+"The Cenobites gave me an experience beyond limits. Pain and pleasure, indivisible." — Frank Cotton
+
+Torture Pillar
+
+A dangling slab covered in the gore of past victims.
+
+Reduces
+ the Timer duration for starting a 
+Chain Hunt
+ by 
+-6 seconds
+.
+
+"This isn't for your eyes." — Pinhead
+
+Chatterer's Tooth
+
+A fragment from a Cenobite whose mouth chatters endlessly.
+This tooth, having broken from his jaw, is finally silent.
+
+Grants the ability to see the 
+Aura
+ of the 
+Lament Configuration
+.
+
+Picking up the 
+Lament Configuration
+ deactivates an on-going 
+Chain Hunt
+ and grants the 
+Undetectable
+ 
+Status Effect
+ for 
+25 seconds
+.
+
+Greasy Black Lens
+
+A lens from the sunglasses of an obese Cenobite whose fleshy rolls droop down his face and neck.
+
+The 
+Auras
+ of Survivors are revealed to for 
+6 seconds
+ after hitting them with a 
+Possessed Chain Attack
+.
+
+Impaling Wire
+
+A wire that pierces the cheeks of a Cenobite, while revealing the gaping wound on her neck.
+
+Causes a bonus 
+Chain
+ to spawn on 
+Bound Survivors
+, when they use the environment to break one.
+
+Original Pain
+
+"The first pin pushed into Pinhead's skull.
+Such pleasure and pain."
+
+Survivors breaking free from the 
+Possessed Chain
+ suffer from the following effect:
+
+Their 
+Aura
+ is revealed to you for 
+8 seconds
+.
+
+"No tears, please. It's a waste of good suffering." — Pinhead
+
+Engineer's Fang
+
+A sharp tooth from the maw of a fleshy, scorpion-like creature, known to accompany Cenobites on their grim undertakings.
+
+Causes healthy Survivors to become injured when hit with a 
+Possessed Chain Attack
+, but does not bind them with additional 
+Chains
+.
+
+This 
+increases
+ the Closing time of the 
+Gateway
+ by 
++0.25 seconds
+.
+
+Reduces
+ the number of bonus 
+Chains
+ spawned when injured Survivors are hit with a 
+Possessed Chain Attack
+ to 
++1
+.
+
+"We have such sights to show you." — Pinhead
+
+Iridescent Lament Configuration
+
+A glass-like puzzle box moulded from The Fog itself.
+This replica differs from the original, providing altogether new powers.
+
+Shields
+ the 
+Aura
+ of the 
+Lament Configuration
+ from Survivors who are farther than 
+24 metres
+ from it outside of a 
+Chain Hunt
+.
+
+"You opened it. We came." — Pinhead
+
+Achievements
+
+Main article: 
+Achievements
+
+There are 
+2
+ Achievements related to 
+The Cenobite
+:
+
+Icon
+
+Name
+
+Description
+
+Adept Cenobite
+
+THIS  HAS BEEN RETIRED.
+
+Playing as The 
+Cenobite
+, achieve a 
+Merciless Victory
+ using only his 
+3
+ Unique Perks: 
+Deadlock
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+Identical to 
+No Holds Barred
+.
+
+"Nobody escapes us." — Pinhead
+
+, 
+Hex: Plaything
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+Identical to 
+Hex: Fortune's Fool
+.
+
+"We came. Now you must come with us. Taste our pleasure." — Pinhead
+
+, and 
+Scourge Hook: Gift of Pain
+
+Icon
+
+ 
+
+Cost
+
+2,500
+
+3,250
+
+4,000
+
+Description
+
+Identical to 
+Scourge Hook: Weeping Wounds
+.
+
+"We will tear your soul apart." — Pinhead
+
+.
+
+Tear Their Soul Apart
+
+THIS  HAS BEEN RETIRED.
+
+Playing as The 
+Cenobite
+, bind Survivors using with your 
+Possessed Chain
+ a total of 
+50 times
+.
+
+Cosmetic Options
+
+Players can choose from a variety of Cosmetic options to customise 
+The Cenobite
+:
+
+Base Cosmetics
+
+Default
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Pinhead
+
+Common
+
+The leader of demonic creatures devoted to experimental torture and ruler of Hell, an extra-dimensional realm.
+
+Hell Harness
+
+Common
+
+Leather suit displaying his extreme body modification and ritual scarification.
+
+Hook & Chain
+
+Common
+
+The cruel hook & chain he wields with thrill.
+
+Prestige
+
+Icon
+
+Name
+
+Body
+
+Rarity
+
+Description
+
+Additional Notes
+
+Bloody Pinhead
+
+Rare
+
+Bloodthirsty leader of demonic creatures devoted to experimental torture and ruler of Hell, an extra-dimensional realm.
+
+Prestige Level 6 Reward
+
+Bloodstained Harness
+
+Rare
+
+Leather suit displaying his extreme body modification and ritual scarification.
+
+Prestige Level 5 Reward
+
+Bloodied Hook & Chain
+
+Rare
+
+The blood-dripping hook & chain he wields with thrill.
+
+Prestige Level 4 Reward
+
+Perk Charms
+
+Prestige Level 7 Reward
+
+Prestige Level 8 Reward
+
+Prestige Level 9 Reward
+
+A keepsake gained upon mastery of a particular skill.
+
+Prestige Badges
+
+Prestige Level 25 Reward
+
+Prestige Level 50 Reward
+
+Prestige Level 75 Reward
+
+Prestige Level 100 Reward
+
+A demon to some, an angel to others.
+
+ In-Game Store
+
+Expand to view content
+
+Collapse
+
+Expand
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+The Hell Priest
+
+Hellraiser
+
+07 September 2021 (Tuesday)
+
+Description
+
+Explorer in the further regions of experience. Demons to some, angels to others.
+
+720
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Garment of Torment
+
+Hellraiser
+
+Garment displaying intricate forms of body scarification to experiment with the limits of human sensations.
+
+400
+
+Piece
+
+Name
+
+Collection
+
+Grappling Hook & Chain
+
+Hellraiser
+
+The perverse hook & chain he wields with cruelty and satisfaction.
+
+400
+
+Thumbnail
+
+Contains
+
+Name
+
+Collection Name
+
+Release Date
+
+Price
+
+Chatterer
+
+Hellraiser
+
+07 September 2021 (Tuesday)
+
+Description
+
+An avid servant of Pinhead, dedicated to exploring the limits of human sensations.
+
+1485
+
+⇓ Expand ⇓
+
+Piece
+
+Name
+
+Collection
+
+Exposed Teeth
+
+Hellraiser
+
+His face was severely disfigured. His lips were peeled back to expose his teeth, which he clicks together to communicate.
+
+Piece
+
+Name
+
+Collection
+
+Suit of Sufferance
+
+Hellraiser
+
+Leather suit displaying his rites of extreme scarification.
+
+Piece
+
+Name
+
+Collection
+
+Dented Hook & Chain
+
+Hellraiser
+
+The vicious hook & chain he wields with violence and satisfaction.
+
+Alternate Character Models
+
+The Cenobite
+ has 
+1
+ alternate Character model available in the in-game Store:
+
+The 
+Chatterer
+
+DLC
+
+ 
+Main article: 
+Downloadable Content
+ 
+
+The Cenobite
+ is part of 
+2
+ DLC:
+
+Hellraiser™
+
+Change Log
+
+Patch 5.2.1
+Patch 5.4.0
+Patch 5.5.0
+Patch 6.7.0
+Patch 8.5.0
+Patch 5.2.1
+
+Quality of Life
+: Survivors attempting to solve the 
+Lament Configuration
+ during a Chain Hunt will be attacked by chains should they stop solving the 
+Lament Configuration
+ rather than be attacked while attempting to solve it.
+
+Quality of Life
+: prioritized teleporting mechanic to ensure 
+The Cenobite
+ teleports to the same level as the Survivor on multi-level maps to prevent teleporting to an incorrect level.
+Patch 5.4.0
+
+Rebalancing
+:
+ balance changes to some Add-ons.
+
+This change was motivated by 
+The Cenobite
+ exceeding performance expectations and to reduce his oppressiveness.
+Patch 5.5.0
+
+Change
+:
+ added updated and expanded voice-lines for 
+The Cenobite
+.
+Patch 6.7.0
+
+Nerf
+:
+ the 
+Lament Configuration
+ will now teleport if 
+The Cenobite
+ stands on it for 
+5 seconds
+.
+
+This change was motivated by some 
+Cenobite
+ players standing on the 
+Lament Configuration
+ for long periods of time, which would cause the 
+Chain Hunt
+ to last indefinitely.
+Patch 8.5.0
+
+Quality of Life
+: removed the Progress bar from the 
+Teleport
+ interaction.
+
+Trivia
+
+General
+
+The Cenobite
+ is the first Killer to not physically interact with the environment or Survivors, relying solely on his conjured chains to do his bidding.
+
+This is inspired by how 
+The Cenobite
+ almost never physically interacts with his victims in the 
+Hellraiser
+ films, instead interacting through his chains.
+
+The only exception to this is how 
+The Cenobite
+ carries Survivors over his shoulder.
+
+The Cenobite
+ is the second Killer to interact with Breakables through telekinetic powers, the first being The 
+Nurse
+.
+
+It is possible to stop 
+The Cenobite
+ teleporting by stunning him.
+
+The Cenobite
+ is the second Character added to the Game who was voiced by his original actor.
+
+The Cenobite
+ is one of few Killers who have entered the Trials without the consent of 
+The Entity
+.
+
+The Cenobite
+ is the second of three 
+Killers
+ to be retracted for purchase.
+
+The first was The 
+Demogorgon
+, which returned for purchase nearly 2 years after being retracted for sale.
+
+The third was The 
+Shape
+.
+
+Memento Mori
+
+The Cenobite
+ is one of the few Killers who kidnap the Survivor's body after the Memento Mori, akin to The 
+Dredge
+ and The 
+Unknown
+.
+
+It is implied that the Survivor might be alive and being kept hostage to further torturing.
+
+Voice-Lines
+
+The Cenobite
+ was the second Killer in the Game to actively speak in Trials.
+
+All of his voice-lines are based on quotes from the first 
+Hellraiser
+ film.
+
+While 
+The Chatterer
+ Legendary Outfit is equipped, no voice lines are played, instead 
+The Chatterer
+ will make a chattering noise, which uses sound effects made with actual fake teeth.
+
+Original Voice-Lines
+
+In the Public Test Build for his Release-Chapter, 
+Patch 5.2.0
+, 
+The Cenobite
+ had voice-lines spoken by an unknown Voice Actor, which were removed for the live release without much explanation other than "they weren't quite ready yet".
+
+Action
+
+Voice Line
+
+Audio
+
+Teleporting to the Survivor solving the 
+Lament Configuration
+.
+
+"You opened the Box! I came!"
+
+"The Box, you opened it! I came!
+
+"The Box, you opened it! And I came!"
+
+Performing his Memento Mori.
+
+"I shall tear your soul apart!"
+
+Current Voice-Lines
+
+In the Public Test Build for 
+Patch 5.5.0
+, 
+The Cenobite's
+ voice-lines were reinstated and expanded upon.
+To the Community's great surprise, it was revealed that 
+Pinhead's
+ original actor from the first eight live-action 
+Hellraiser
+ movies, Doug Bradley himself, had reprised his role for 
+Dead by Daylight
+ and voiced the new voice-lines.
+
+In a tweet, Steph Sciullo (Doug Bradley's wife) confirmed that the voice-lines were recorded at a professional studio in Pittsburgh and digitally altered to mimic the pitch and ethereal sound of 
+Pinhead's
+ voice in 
+Hellraiser
+.
+
+Action
+
+Voice Line
+
+Audio
+
+Starting to teleport to the Survivor solving the 
+Lament Configuration
+.
+
+"The Box, you opened it!"
+
+"You summoned me!"
+
+Finishing to teleport to the Survivor solving the 
+Lament Configuration
+.
+
+"I came!"
+
+Hitting the Survivor carrying the 
+Lament Configuration
+.
+
+"Oh no! Don't do that!"
+
+Picking up a downed Survivor.
+
+"What a waste of good suffering!"
+
+"Now you must come with me!"
+
+"You shall not escape me!"
+
+Hooking a Survivor.
+
+"I must be going now!"
+
+"Oh please! No tears, they are a waste of good suffering!"
+
+"I'll tear your soul apart!"
+
+Performing his Memento Mori.
+
+"I have such sights to show you!"
+
+Being stunned by a Pallet.
+
+"Oh no! Don't do that!"
+
+"Hmm!"
+
+Chaining a Survivor in the Exit Gate area.
+
+"You shall not escape me!"
+
+Gallery
+
+In-game Assets
+
+The Cenobite
+
+The Cenobite (Portrait render)
+
+The Cenobite (Background image)
+
+Model render
+
+Official Art
+
+Removed background and edited lighting
+
+DbD Mobile artwork
+
+Old Assets
+
+The Cenobite (Old Portrait render)
+
+Concept Art
+
+'Hell Priest' Early Designs
+
+'Hell Priest' Concept + Head Designs
+
+Screenshots
+
+Felix being assaulted by a barrage of 
+Chains
+.
+
+ditto
+
+ditto
+
+ditto
+
+ditto
+
+CHARACTERS
+ 
+
+THE 
+KILLERS
+
+Trapper
+
+Wraith
+
+Hillbilly
+
+Nurse
+
+Shape
+
+Hag
+
+Doctor
+
+Huntress
+
+Cannibal
+
+Nightmare
+
+Pig
+
+Clown
+
+Spirit
+
+Legion
+
+Plague
+
+Ghost Face
+
+Demogorgon
+
+Oni
+
+Deathslinger
+
+Executioner
+
+Blight
+
+Twins
+
+Trickster
+
+Nemesis
+
+Cenobite
+
+Artist
+
+Onryō
+
+Dredge
+
+Mastermind
+
+Knight
+
+Skull Merchant
+
+Singularity
+
+Xenomorph
+
+Good Guy
+
+Unknown
+
+Lich
+
+Dark Lord
+
+Houndmaster
+
+Ghoul
+
+Animatronic
+
+Krasue
+
+First
+
+Slasher
+
+Judgment
+
+THE 
+SURVIVORS
+
+Dwight Fairfield
+
+Meg Thomas
+
+Claudette Morel
+
+Jake Park
+
+Nea Karlsson
+
+Laurie Strode
+
+Ace Visconti
+
+Bill Overbeck
+
+Feng Min
+
+David King
+
+Quentin Smith
+
+David Tapp
+
+Kate Denson
+
+Adam Francis
+
+Jeff Johansen
+
+Jane Romero
+
+Ash Williams
+
+Nancy Wheeler
+
+Steve Harrington
+
+Yui Kimura
+
+Zarina Kassir
+
+Cheryl Mason
+
+Felix Richter
+
+Élodie Rakoto
+
+Lee Yun-jin
+
+Jill Valentine
+
+Leon Scott Kennedy
+
+Mikaela Reid
+
+Jonah Vasquez
+
+Yoichi Asakawa
+
+Haddie Kaur
+
+Ada Wong
+
+Rebecca Chambers
+
+Vittorio Toscano
+
+Thalita Lyra
+
+Renato Lyra
+
+Gabriel Soma
+
+Nicolas Cage
+
+Ellen Ripley
+
+Alan Wake
+
+Sable Ward
+
+Troupe
+
+Lara Croft
+
+Trevor Belmont
+
+Taurie Cain
+
+Orela Rose
+
+Rick Grimes
+
+Michonne Grimes
+
+Vee Boonyasak
+
+Dustin Henderson
+
+Eleven
+
+Kwon Tae-young
+
+Shane Wiigwaas
+
+Aurora Stardotter
