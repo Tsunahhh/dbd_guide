@@ -1,0 +1,70 @@
+Titre : How to Loop and win every Chase
+Auteur : den (Steam)
+URL : https://steamcommunity.com/sharedfiles/filedetails/?id=3208139129
+Date de publication / mise à jour : Posté 31/03/2024, mis à jour 03/04/2024 ; 4 étoiles, 5 195 visiteurs uniques
+Date de consultation : 28/09/2026
+Méthode : curl + BeautifulSoup (texte brut)
+Statut : guide Steam communautaire ; auteur non identifiable comme expert -> COMMUNITY_OBSERVATION. Images non consultées.
+======================================================================
+
+A simple guide to teach everyone how to loop and waste the killer time.
+
+## #1 Intro
+Are you new to DBD or ur just interested in winning most of ur chases and wasting the killer's time? I'm here to teach you how to loop structures, killer shack, rocks and trees. Firstly, you need to stop being afraid and stop crouching in the corner of the map doing nothing.
+
+Your goal when looping is simple: make the Killer spend as much time as possible chasing you while using as few resources as possible.
+## #2 Vaults
+There are 3 different vaults:
+ The Fast Vault - this vault is the best vault u can take while being chased because it's the quickest one and it's harder for the killer to catch you. This vault will take 0.5 seconds.
+ The Medium Vault - this vault is the second best vault u can take; taking this vault will get your body more exposed and making it easier for the Killer to hit you from a distance. This vault will take 0.9 seconds. The killer can grab you from this vault action. 
+ The Slow Vault - taking this vault will be slower but quiet. This vault will take 1.5 seconds. The killer can grab you from this vault action. 
+Originally posted by author: If a chased Survivor rush vaults the same Window thrice during the same Chase, The Entity will temporarily block it for that Survivor for 30 seconds. Other Survivors and the Killer can still vault the Window and are unaffected by the Blocker.
+Fast or Medium Vaulting is considered a rushed action  and will alert the Killer with a noise notification. This can be suppressed by using the perk Quick & Quiet  from Meg Thomas.
+[1 images]
+## #3 Tight Looping
+When looping the killer you need to 'hug' the structure (hold W and stay as close as you can to the wall with camera positioned at the wall). Not doing so well result in the killer being able to catch up to you faster, decreasing your chase time.
+## #4 How to loop killer shack
+Killer shack is most of the safest place from every map which has it. The pallet is also called 'God pallet'. You don't need to waste this pallet because it's the safest one. Only use it after looping at least 2 times or when you're about to go down. Here's how you should loop the killer shack:
+
+
+
+Green = optimal path
+Light Green = secondary followup path/less optimal
+[1 images]
+## #5 T+L Wall
+L-T Walls or T-L Walls are a type of Maze Tile. They consist of a T-shaped wall and an L-shaped wall. Each wall has a Window attached to it. Here's how you loop T+L walls:
+
+
+
+Green = optimal path
+Light Green = secondary followup path/less optimal
+[1 images]
+## #6 Jungle Gyms
+Jungle Gyms are a type of Maze Tile. They contain both a Window and a Pallet. Here's how you should loop jungle gyms:
+
+
+
+
+
+Green = optimal path
+Light Green = secondary followup path/less optimal
+[2 images]
+## #7 Pallets
+The vaulting speed of a window is similar to vaulting speed of a pallet.
+If you wanna play safe you can predrop pallets.
+Stunning a killer with a pallet will stop him from moving for 2 seconds.
+The killer can grab you while vaulting a pallet.
+
+You can reset a dropped pallet with the perk 'Any Means Necesary'. 
+
+
+Pallets can be BLOCKED by the killer by using the perk Hex: Blood Favour.
+[2 images]
+## #8 Tips to escape Chase faster
+If the killer is breaking a pallet or vaulting a window, you can flashlight/flashbang him, making him harder to find you (not if you're injured and the killer got headphones).
+
+Don't forget, practice makes perfect. So if you wanna get better get chased by the killer and don't forget to get value from your perks. I recommend you using the perk Windows of Oportunitty for the beggining.
+## #9 End of the Guide
+New guide soon.
+If you haven't already, make sure to give this guide a like, add it to your favorites and leave me an award - so more people can see it and enjoy the free stuff! Thank you so much!!! Good luck!!
+[2 images]

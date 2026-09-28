@@ -1,0 +1,244 @@
+Titre : Hens' Callouts
+Auteur : Hens333 (site) ; images par Lethia ; page modifiée par Zexov d'après Broosley et Evo
+URL : https://hens333.com/callouts
+Date de publication / mise à jour : non affichée (images servies avec Last-Modified 10/09/2026 et 21/09/2026)
+Date de consultation : 28/09/2026
+Méthode : curl + BeautifulSoup (texte brut)
+======================================================================
+
+Hens' Callouts
+Hens333
+Menu
+Home
+Merch
+NEW!
+FAQ
+Callouts
+YouTube
+Prof. Hens
+YouTube
+Not Hens
+Killer Builds
+Survivor Builds
+Contact
+FAQ
+Merch
+NEW!
+Callouts
+More Hens
+YouTube
+Prof. Hens
+YouTube
+Not Hens
+Best Builds
+Killer Builds
+Survivor Builds
+Contact
+What's this page all about?
+In short this page is a tool to not just learn the maps of Dead by Daylight, but also
+      communicate effectively and efficiently with your team. You'll find every map of the game here
+      & that they all use the clock system. The clock system divides the map into 12 sections,
+      numbered from 1 to 12, starting from the top middle of the map. This way, players can easily
+      communicate the location of enemies, objectives, and anything else.
+In addition to those maps this page has a few other useful features:
+Sort all maps in various ways
+Change alignment of current map
+Popout current map in a seperate window
+Show all maps for a realm
+Click on any map image to focus that single map image
+Images made by Lethia. This page is Zexov's Modified version of the
+        original build by Broosley and Evo found in Hens' discord.
+Got it!
+Welcome & Heads up!
+This page was not built for mobile devices. It does still work but the sizing of the lists
+      doesn't quite fit.
+Try using the realm buttons to get your desired realm instead of
+      the list.
+Ok
+Controls
+Note that the image alignment & popout controls will only work when displaying any chosen
+          map images, they have no affect on the lists.
+What is this page?
+List All Maps By...
+Group by Realm
+Sort by Realm
+Sort by Name
+Image Alignment & Popout
+Align left
+Align center
+Align right
+Popout current images
+Show Realm
+Autohaven Wreckers
+Badham
+Coldwind Farm
+Crotus Prenn Asylum
+MacMillan Estate
+Red Forest
+Backwater Swamp
+Yamaoka Estate
+Raccoon City
+Forsaken Boneyard
+Grave of Glennvale
+Withered Isle
+Gideon Meat Plant
+Haddonfield
+Silent Hill
+Ormond
+Decimated Borgo
+Léry's Memorial Institute
+Dvarka Deepwood
+Hawkins National Laboratory
+Sleepless District
+Autohaven Wreckers
+Azarov's Resting Place
+Blood Lodge
+Gas Heaven
+Wreckers' Yard
+Wretched Shop
+Badham
+Preschool I
+Preschool II
+Preschool III
+Preschool IIIV
+Preschool V
+Coldwind Farm
+Fractured Cowshed
+Rancid Abbatoir
+Rotten Fields
+The Thompson House
+Torment Creek
+Crotus Prenn Asylum
+Disturbed Ward
+Father Campbells Chapel
+Decimated Borgo
+Shattered Square
+Forgotten Ruins
+Forsaken Boneyard
+Eyrie of Crows
+Dead Sands
+Hawkins National Laboratory
+The Underground Complex
+MacMillan Estate
+Coal Tower
+Coal Tower II
+Groaning Storehouse
+Groaning Storehouse II
+Ironworks Of Misery
+Ironworks Of Misery II
+Shelter Woods
+Shelter Woods II
+Suffocation Pit
+Suffocation Pit II
+Red Forest
+Mother's Dwelling
+Temple of Purgation
+Backwater Swamp
+Grim Pantry
+The Pale Rose
+Yamaoka Estate
+Family Residence
+Family Residence II
+Sanctum of Wrath
+Sanctum of Wrath II
+Raccoon City
+Police Station East Wing
+Police Station West Wing
+Grave of Glennvale
+Dead Dawg Saloon
+Withered Isle
+Garden of Joy
+Greenville Square
+Fallen Refuge
+Freddy Fazbears Pizza
+Gideon Meat Plant
+The Game
+Haddonfield
+Lampkin Lane
+Silent Hill
+Midwich Elementary School
+Ormond
+Mount Ormond Resort
+Mount Ormond Resort II
+Mount Ormond Resort III
+Ormond Lake Mine
+Léry's Memorial Institute
+Treatment Theatre
+Dvarka Deepwood
+Toba Landing
+Nostromo Wreckage
+Sleepless District
+Trickster's Delusion
+
+LISTE DES CARTES (données JS, chunk nodes/4.2b8a9365.js ; préfixe /img/dbd/callouts/) :
+- Azarovs/Azarovs Resting Place.webp  ("Azarov's Resting Place")
+- Azarovs/Blood Lodge.webp  ("Blood Lodge")
+- Azarovs/Gas Heaven.webp  ("Gas Heaven")
+- Azarovs/Wreckers.webp  ("Wreckers' Yard","Wreckers Yard")
+- Azarovs/Wretched Shop.webp  ("Wretched Shop")
+- Badham/Preschool1.webp  ("Preschool I","Preschool 1")
+- Badham/Preschool2.webp  ("Preschool II","Preschool 2")
+- Badham/Preschool3.webp  ("Preschool III","Preschool 3")
+- Badham/Preschool4.webp  ("Preschool IIIV","Preschool 4")
+- Badham/Preschool5.webp  ("Preschool V","Preschool 5")
+- Coldwind/Fractured Cowshed.webp  ("Fractured Cowshed")
+- Coldwind/Rancid Abbatoir.webp  ("Rancid Abbatoir")
+- Coldwind/Rotten Fields.webp  ("Rotten Fields")
+- Coldwind/The Thompson House.webp  ("The Thompson House")
+- Coldwind/Torment Creek.webp  ("Torment Creek")
+- Crotus Pen/Disturbed Ward.webp  ("Disturbed Ward")
+- Crotus Pen/Father Campbells Chapel.webp  ("Father Campbells Chapel")
+- Borgo/Shattered Square.webp  ("Shattered Square")
+- Borgo/Forgotten Ruins.webp  ("Forgotten Ruins")
+- Boneyard/Eyrie of Crows.webp  ("Eyrie of Crows")
+- Boneyard/Dead Sands.webp  ("Dead Sands")
+- Other/Hawkins.webp  ("The Underground Complex")
+- McMillan/Coal Tower.webp  ("Coal Tower")
+- McMillan/Coal Tower II.webp  ("Coal Tower II")
+- McMillan/Groaning Storehouse.webp  ("Groaning Storehouse")
+- McMillan/Groaning Storehouse II.webp  ("Groaning Storehouse II")
+- McMillan/Ironworks Of Misery.webp  ("Ironworks Of Misery")
+- McMillan/Ironworks Of Misery II.webp  ("Ironworks Of Misery II")
+- McMillan/Shelter Woods.webp  ("Shelter Woods")
+- McMillan/Shelter Woods II.webp  ("Shelter Woods II")
+- McMillan/Suffocation Pit.webp  ("Suffocation Pit")
+- McMillan/Suffocation Pit II.webp  ("Suffocation Pit II")
+- Red Forest/Mothers Dwelling.webp  ("Mother's Dwelling","Mothers Dwelling")
+- Red Forest/Temple of Purgation.webp  ("Temple of Purgation")
+- Swamp/Grim Pantry.webp  ("Grim Pantry")
+- Swamp/Pale Rose.webp  ("The Pale Rose")
+- Yamaoka/Family Residence.webp  ("Family Residence")
+- Yamaoka/Family Residence II.webp  ("Family Residence II")
+- Yamaoka/Sanctum of Wrath.webp  ("Sanctum of Wrath")
+- Yamaoka/Sanctum of Wrath II.webp  ("Sanctum of Wrath II")
+- Raccoon City/Rpd East Wing.webp  ("Police Station East Wing")
+- Raccoon City/Rpd West Wing.webp  ("Police Station West Wing")
+- Other/Dead Dawg Saloon.webp  ("Dead Dawg Saloon")
+- Other/Garden of Joy.webp  ("Garden of Joy")
+- Other/Greenville Square.webp  ("Greenville Square")
+- Other/Fallen Refuge.webp  ("Fallen Refuge")
+- Other/Freddy Fazbears Pizza.webp  ("Freddy Fazbears Pizza")
+- Other/The Game.webp  ("The Game")
+- Other/Haddonfield.webp  ("Lampkin Lane")
+- Other/Midwich.gif  ("Midwich Elementary School")
+- Ormond/Ormond.webp  ("Mount Ormond Resort")
+- Ormond/Ormond II.webp  ("Mount Ormond Resort II")
+- Ormond/Ormond III.webp  ("Mount Ormond Resort III")
+- Ormond/Ormond Lake Mine.webp  ("Ormond Lake Mine")
+- Other/Lerys.webp  ("Treatment Theatre","Lerys Memorial Institute: Treatment Theatre")
+- Dvarka Deepwood/Toba Landing.webp  ("Toba Landing","Toba","TB")
+- Dvarka Deepwood/Nostromo Wreckage.webp  ("Nostromo Wreckage","Nostromo","NB")
+- Sleepless District/Tricksters Delusion.webp  ("Trickster's Delusion")
+
+OBSERVATIONS SUR LES IMAGES (8 images consultées sur 58, converties en PNG et lues visuellement par l'agent) :
+- Toutes : carte schématique (polygone), chiffres 1 à 12 disposés en cadran autour du bord, 12 en haut de l'image.
+- Coal Tower : M (main) en haut près de 12 ; WT (légende non expliquée sur la page) près de 8 ; S (shack) en bas près de 6 ; MID au centre.
+- Lampkin Lane (image "Haddonfield") : M en haut entre 11 et 1 ; bandes TOP MID / MID / BOT MID.
+- Rotten Fields : pas de M ; S au centre ; trois cases "C|H" (à 11, à 1 et près de 7-8) = deux structures dans la moitié haute, une dans la moitié basse.
+- Toba Landing : M au centre, 12 juste au-dessus ; S près de 7.
+- Sanctum of Wrath : M au centre ; DEUX cases S (près de 2 et près de 5) ; deux cases P (près de 12 et près de 6) ; TOP MID / BOT MID.
+- Sanctum of Wrath II : M en haut-centre ; un S près de 7-8 ; deux P.
+- The Game : cadran non circulaire : 9-10-11-12 le long du bord haut (12 = coin haut-droit), 1-2 à droite, 3-4-5 en bas, 6 = coin bas-gauche, 7-8 à gauche ; MID au centre.
+- Wreckers' Yard : S au centre ; TOP MID / BOT MID.
+Légendes non expliquées par la page : M, S, MID lisibles ; WT, C|H, P non définis (interprétation de l'agent : C|H = Cow tree | Harvester, P = Patio ? -> HYPOTHÈSE).
+En-têtes HTTP : Last-Modified des images 10/09/2026 et 21/09/2026 (date de déploiement du site, pas forcément du contenu).

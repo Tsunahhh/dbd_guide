@@ -1,0 +1,285 @@
+Titre : All Dead by Daylight Survivor Techs
+Auteur : CΛLLMΣDΛDΛ (Steam)
+URL : https://steamcommunity.com/sharedfiles/filedetails/?id=2792644224
+Date de publication / mise à jour : Posté 13/04/2022, mis à jour 20/06/(2026, année omise par Steam = année courante) ; 399 évaluations (5 étoiles), 12 069 visiteurs uniques
+Date de consultation : 28/09/2026
+Méthode : curl + BeautifulSoup (texte brut)
+Statut : guide Steam communautaire ; auteur non identifiable comme expert -> COMMUNITY_OBSERVATION. Images non consultées.
+======================================================================
+
+The most in-depth Survivor Tech Guide ON THE INTERNET!
+
+## SUPPORT!
+This guide took days to make so a simple thumbs up rating and a favorite would be much appreciated! I will try to keep making updates to this guide as time goes on and more things are discovered! Also let me know in the comments if I missed something important and I'll consider adding it to this guide! 
+
+If you want to see all these techs explained even more in a upcoming video series I'm creating, feel free to subscribe to my YouTube Channel linked below!
+
+YOUTUBE
+[1 images]
+## SURVIVOR TECHNIQUES
+Most Survivor techniques in Dead by Daylight are jukes and little tricks used to make the killer whiff or lose track of the survivor. Some are also just strategical methods that survivors have learned to give them favorable outcomes as well.
+## CJ Tech
+The “CJ Tech” was invented by a guy named CJxCCVI back in 2017. The idea behind it is to force/block the killer from doing an action they originally wanted into picking up a downed survivor.
+
+To perform the CJ Tech, the survivor needs some prerequisites in place to be successful. The first being that they need to have a flashlight, flashbang, firecracker or know that their downed teammate has Decisive Strike active. They can technically do this without those but they would be sandbagging at that point. In addition to that, their teammate needs to be downed underneath a pallet.
+
+Once all those things are in place, the next step is for them to stun the killer on the same side as the downed survivor. Usually this isn’t a problem since the game automatically vacuums the downed survivor to the same side as the killer. Now once the killer’s stun animation has finished, they want to vault the pallet. Doing this forces the game to make the killer pick up the survivor instead of breaking the pallet. This happens because the killer CAN’T break a pallet while a survivor is mid vault animation. Since most killers attempt to break the pallet after the stun, they will be put into the pickup animation because that would be the only available prompt action that they can perform.
+
+Now once they’ve vaulted to the same side as the killer and see that they are picking up the downed survivor, they need to vault back instantly. Once they vault back to the opposite side of the killer, they want to time the flashlight save correctly. 
+
+For firecracker and flashbang saves, survivors don't need vault back but instead time the drop successfully so it stuns the killer at the end of the pick up animation.
+[1 images]
+## Cracked/HeyBlakee CJ Tech
+This is a technique created by a guy named HeyBlakee. This tech is basically the same as a normal CJ, except before a survivor vaults the pallet against a stunned killer, they halfway blind the killer with their flashlight so they are more tempted to break the pallet. This can increase their chances of performing a CJ Tech because killers like to save time while being blinded and break the pallet during that process.
+
+This technique can be beneficial or detrimental to performing a CJ tech depending on the killer. Some killers get so confused that they back away from the pallet altogether while others attempt to break the pallet as quickly as possible. So sensing if a Cracked Tech will work on a killer comes with experience and game knowledge.
+[1 images]
+## Locker CJ Tech
+The Locker CJ Tech, similar to a normal CJ Tech, has the same prerequisites except that the downed survivor is now in front of a locker. Locker CJ Tech requires slightly more communication because the downed survivor needs to be in the perfect position while downed. If they aren’t, when they get picked up they will be vacuumed too close to the locker or a nearby wall.
+
+Now once a survivor's downed teammate is in the right position in front of a locker, they want to bait the killer to chase them. When the killer starts chasing them, they should lead them to the locker that their downed teammate is in front of. Once there they want to quickly hop inside of the locker and wait for the killer to attempt to search the locker. Once the killer is close enough to search their locker, they want to exit the locker as quickly as possible. This will force the killer into picking up the downed survivor because a killer CAN’T search a locker while a survivor is exiting. After that the killer should be mid pick up animation, giving them enough time to relocate and flashlight save their teammate.
+
+Beware that some killers may pre-swing at the locker and try to hit the survivor during the entering locker animation. As a survivor, make sure not to vault out during this lunge and wait to attempt the CJ after the killer recovers from their lunge.
+
+As a killer, the easiest counter is to wait for the survivor to exit the locker and then grab them.
+[1 images]
+## Any Means Necessary/Value CJ Tech
+The Any Means Necessary CJ Tech is a very advanced version of a CJ Tech. This CJ Tech requires 3 teammates and the perk Any Means Necessary on one of the survivors. This CJ Tech is just used for fun and isn’t very practical.
+
+To perform this CJ Tech, you must have a DOWNED survivor underneath a pallet while the SECOND survivor starts getting chased around that same pallet. During this time the THIRD teammate needs to be in the vicinity of the other two teammates so that they can be there to use Any Means Necessary when needed. The SECOND teammate who has been getting chased lets the THIRD lurking teammate know that they are going to drop the pallet and stun the killer. Once the pallet is dropped and the killer is stunned, the THIRD teammate finally comes to the pallet on the SAME side that the killer was stunned. The THIRD survivor runs through the killer's model during the stun animation and begins using the perk Any Means Necessary on the pallet. This is possible because when the killer is stunned by a pallet, they lose all collision momentarily. When the killer recovers from the stun, they will be tempted to break the pallet but they are instead forced into a pick up animation. This happens because a killer CAN’T break a pallet on the SAME side a survivor is using Any Means Necessary on. Once that happens, the SECOND survivor who was getting chased will be able to flashlight save the DOWNED survivor. The THIRD survivor can continue to finish the Any Means Necessary animation and if performed correctly, ALL involved survivors and the pallet should be up.
+
+As a killer, the best suggestion is to back away from the pallet at first and make sure a third survivor is not trailing you. This is all that is needed to prevent this from happening since a survivor can’t go through a killer’s model without them being stuck in an animation.
+[1 images]
+## Generator CJ Tech
+The Generator CJ is a very situational CJ Tech that is all about forcing the killer into picking up the survivor after they attempt to destroy a generator.
+
+This Generator CJ follows the same rules as the other CJ Tech and requires a teammate to be downed in front of a generator. The teammate needs to be downed in front of the area of the generator that the killer attempts to kick. When the killer goes to destroy the generator, another survivor starts to repair the generator. By doing this the killer is forced to pick up the survivor and the survivor that started repairing the generator has time to relocate and save the downed survivor.
+
+As a killer to avoid this from happening, just make sure to not destroy the generator on the same side that the survivor is downed. Also be sure to quickly check for other survivors in the area.
+## Reverse CJ Tech
+A Reverse CJ Tech refers to a survivor performing a CJ Tech from the same side as the killer. This usually can occur after the killer is stunned or can also be done by using Unbreakable at the right moment.
+
+As a killer the best counter is to be patient and don’t instantly attempt to break the pallet if a survivor is underneath you or has been saved recently on the same side as you.
+[1 images]
+## Window CJ Tech
+A Window CJ Tech also follows the same rules as a normal CJ Tech and a Locker CJ Tech. Instead of having the downed survivor under a pallet, they are on the outside of a window/vault.
+
+Once the downed survivor is in position under the window, the other survivor needs to be chased in the direction that will tempt the killer to vault the window from the SAME side as the downed survivor. After the survivor vaults the window and the killer follows, the survivor will pre vault the window back to force the killer to pick up the survivor. This is possible because the killer CAN’T vault a window while the survivor is vaulting which forces the killer to pick up the survivor. And once the killer picks up the survivor, the other survivor needs to quickly vault back and get the flashlight save. The window should be blocked if done correctly because the survivor would have vaulted the window a total of 3 times while in chase. Also using perks such as Resilience and/or Spine Chill can make getting this significantly easier because they increase survivor’s vaulting speed.
+
+As a killer an easy counter is to fake the vault for half a second if you see the downed survivor crawling under the window. This will trick the other survivor into vaulting and give you a free hit/down.
+[1 images]
+## Window Tech
+A Window Tech is basically a technique used to phase through the killer while they are vaulting a window.
+
+To perform a window tech, a survivor vaults the window then they patiently wait for the killer to follow them and vault. While the killer is getting ready to vault the window, the survivor fakes the direction they will go by hugging the wall and going right or left. During the killer's vaulting animation, the survivor will double back and run through the killer. The survivor runs through the killer by timing the end portion of the killer’s vaulting animation. During this point in the animation, the killer has no collision which makes going through them pretty seamless. This causes misdirection and the killer would end up chasing the opposite direction of where the survivor is actually pathing.
+
+This tech used to be more lenient as the killer’s collision while vaulting was non-existent in the past. But nowadays the timing is a lot more strict and having lower ping can make this technique easier to perform.
+
+As a killer the easiest counter to a Window Tech is to perform a moonwalk the same direction you saw the survivor path towards. By doing this you are able to see if a survivor actually did window tech you but if they didn’t you won't waste time chasing them in the wrong direction.
+[1 images]
+## Kek Tech
+A Kek Tech, which is a more advanced version of a window tech, is when a survivor vaults a window through the killer after the killer finishes their vault animation.
+
+To perform a Kek Tech as a survivor, you need to vault the window and make sure the killer follows. Once the killer follows your path and vaults the window after you, you must time the end of the killer's animation so that you can phase through them. This timing is the exact same as a window tech so learning it is fairly simple. Once you are phasing through them, at that moment you need to vault the window. So after you perform the tech, you will be on the other side of the window from the killer.
+
+Faking this tech while running at the killer can also be very deceiving and confusing to some killers.
+
+As a killer the best counter is to try to react to it as fast as possible and get a lunge attack to hit them as they are going through the window.
+[1 images]
+## Key Tech/Flashbang/Clairvoyance/DH Window Tech
+These Techs are grouped together because they are all window techs that are made easy by the use of a perk or item.
+
+Key Tech refers to when someone uses a Key's Mind Channel with aura reading add-ons (Blood Amber, Gold Token or Eroded Token) to completely lose collision with killers while they are performing any animation such as vaulting or destroying pallets.
+
+Flangbang or ItssDucki Tech refers to when someone uses a flashbang drop to lose collision with the killer while they are in the vaulting animation.
+
+Clairvoyance Tech refers to when someone uses the perk Clairvoyance to lose collision with the killer while they are in the vaulting animation.
+
+Dead Hard Tech refers to when someone uses the perk Dead Hard to lose collision with the killer while they are in the vaulting animation.
+[1 images]
+## FOV/Fake Dead Hard Tech
+The FOV Tech/Fake Dead Hard Tech is a tech that can be used to confuse killers based on the fact that they have a limited Field of View. Basically the goal of this tech is to make the killer think that the survivor went behind or around them when they actually didn’t.
+
+To perform this tech is very simple. All that is needed to be done is to spin in the killer's direction and hug their body for a brief second. Since the killer's field of view is limited, they will most likely not be able to see that you are in fact still in front of them. Thus making them turn directions and/or hesitate for a second which can buy the survivor time to make it to another resource or avoid being downed/hit.
+
+As a killer it can be hard to tell if a survivor has used their Dead Hard or simply just used the FOV Tech. So for this technique you have to be a lot more aware of where the survivor is in relation to yourself and react accordingly. But this overall is a very useful tech as even very experienced killers can be confused by it.
+[1 images]
+## Pallet FOV Tech
+The Pallet FOV Tech is a technique used to confuse killers after they break a pallet. This technique takes advantage of the killer having a fixed Field of View while in the process of destroying a pallet.
+
+To perform a Pallet FOV Tech, a survivor must patiently wait for the killer to start breaking the pallet after it’s thrown. Once the killer is locked into the pallet breaking animation, the survivor then closely starts running at the edge of either side of the pallet towards the killer. Once the pallet is fully broken, the survivor then starts to run to the side of the killer. After the survivor reaches the side of the killer out of their Field of View, they need to crouch next to the killer to make the killer believe that they ran fully behind them. This will confuse the killer and make them think that you ran past them and possibly tempt them to swing or even turn around to pursue the survivor.
+
+As a killer the easy counter can be to just swing towards the side that you saw the survivor run to or just back up gradually to track where they actually went. Also running perks like Brutal Strength also helps counter this technique.
+[1 images]
+## Reverse/Proper Reverse Pallet Stun
+The reverse pallet stun is a technique used to stun the killer on the same side that the survivor is on. The developers attempted to remove this technique (Patch 5.2.0) but it is still possible just slightly more difficult than before.
+
+This technique is performed by stunning the killer as they lunge to hit you through a pallet. During the start up frames of their lunge animation, the survivor needs to start running back towards the killer and throw the pallet. If performed correctly, the killer will get pallet stunned but the survivor will be untouched.
+
+The only difference between a normal Reverse Pallet Stun and a Proper Reverse Pallet Stun is that the killer will land on the opposite side of the pallet from the survivor. There is no way to consistently get this as it is based on a few things such as ping and position of the killer.
+[1 images]
+## Pallet/Breakable Wall Vacuum
+The Pallet/Breakable Wall Vacuum Tech is a trick used to force a killer with a dash power to break the pallet instead of attacking the survivor. This works because pallets and breakable walls have an area where they will force the killer to break them with their power instead of attacking the survivor. This technique is extremely powerful on killers like Bubba and Blight especially but can work on some others.
+
+The best way to perform this technique as a survivor is to crouch in front of the pallet or breakable wall as the killer uses their dash attack. If they aim their power directly where the pallet or breakable wall is, their power will be vacuumed to destroy it instead of hitting you.
+[1 images]
+## Left, Right Tech
+The Left, Right Tech was a technique invented by Sweh and is used to misdirect the killer after they break a pallet. This technique works because as the killer is breaking the pallet, their FOV is only facing the ground which makes it easy to go a different direction as they break the pallet.
+
+To perform the Left, Right Tech properly, a survivor must fake one way as the killer starts to break the pallet, then head the opposite direction whilst they are mid pallet break animation.
+
+This tech works extremely well on killers such as Demo and Spirit because they look more down than usual when breaking pallets.
+[1 images]
+## Heal Tech
+The Heal Tech is a technique that survivors can use in certain situations to prevent a killer from performing an action on a downed survivor. This works because killers CAN’T perform actions on downed survivors while they are being healed by other survivors. In most cases this action is used to prevent the killer from picking up the survivor near an exit gate but there may be other scenarios where this tech could be viable.
+
+The proper way to perform a Heal Tech at an exit gate, is to wait for the downed survivor to crawl as far as they can towards the exit without being picked up. Once the killer is in range to pick up the downed survivor, another survivor must start healing them. As I’ve stated before, this works because a killer CAN’T perform an action on a downed survivor who is being healed. So once the killer realizes this, they are forced to hit the survivor who is healing the downed one. This will then injure the survivor who was healing but give the downed survivor time to crawl closer to the exit during the hit recovery. As the downed survivor gets closer to the exit gate, the injured survivor will continue to heal the downed one as the killer approaches to pick them up a second time. Once the killer hits the injured survivor who was healing again, they should both have enough time to crawl out successfully.
+
+Knowing what distances Heal Techs are possible from will come with time and experience. A key thing that ALL survivors MUST KNOW is that the survivor who is healing the downed one CAN be interrupted by the downed survivor if they choose to hold their sprint key/button. This is because a survivor CAN’T heal another survivor while they are holding their sprint key/button. So while being healed as a downed survivor, NEVER press your sprint key while another survivor is performing a heal tech on you. This can let the killer pick you up at any moment and cause the technique to fail.
+
+Also note that as a survivor who is not the obsession, perks like Save the Best For Last that decrease successful hit recovery speeds will make using the Heal Tech impossible.
+[1 images]
+## Item Tech
+The item tech is a technique used by survivors on other survivors to steal their items. This tech can be seen as “toxic” as stealing someone else's item isn’t exactly sportsmanlike.
+
+The way to perform this technique is to obtain an item yourself as a survivor. Once you have an item and want another survivor’s item, you must then get injured and seek them out to heal you. Once the other survivor with the item you want attempts to heal you, you need to instantly drop your item and hold your sprint key/button. You must do both of these steps because while holding your sprint key/button, the other survivor can’t heal you. As I’ve stated before, a survivor CAN’T heal another survivor while they are holding their sprint key/button. This then only gives them the prompt to pick up the item that you dropped. And once they accidentally pick up the item you dropped, you are then free to pick up the item that they had instead.
+
+This can also be done near generators by strategically placing an item at a certain distance. If done correctly, the survivor that attempts to repair the generator, can be vacuumed into picking up the item instead. And as that happens, you can be there to take their item.
+
+As another survivor countering the item tech is pretty easy. You can most likely react to a survivor doing the drop item animation before you even start to heal them. Just be patient and don't fall for this long old trick.
+[1 images]
+## Sladoinki Tech
+The Sladoinki Tech, which was created by a guy named Sladoinki back in 2020, is a technique used to confuse killers by abusing their FOV while turning around corners. This technique makes tracking a survivor as a killer more difficult because you are only able to see the survivor who performs this technique for a few frames.
+
+The proper way to perform this technique as a survivor, is to first start being chased by the killer. Once the killer is chasing the survivor, they need to proceed to run behind a corner of a wall or large object that obstructs the killer’s line of sight on them. As soon as the killer walks around the corner where their line of sight was blocked, the survivor then turns or spins around the killer. This gives the killer very little time to react to the survivor and can cause a whiffed lunge or misdirection by the survivor.
+
+This technique is predominantly used at T and L Wall tiles so as a killer I would be more aware there.
+[1 images]
+## Dumb Tech
+The Dumb Tech is a technique used to confuse killers after they are stunned at a pallet.
+
+To perform a dumb tech as a survivor, you stun the killer with a pallet and then instantly vault the pallet. The killer may become confused and swing at the pallet or behind them. The survivor can either strafe left or right, vault the pallet again or even crouch inside of the killer’s model to confuse them even more.
+
+As a killer the easiest counter to the dumb tech is to slightly look down and back away from the pallet. This will make it alot easier to track the survivor and get a free hit. Beware that survivors can use perks like Smash Hit or Lithe to give them a speed boost making this almost a guarantee that they make another pallet or window.
+[1 images]
+## Ayrun Special
+The Ayrun Special, created by Ayrun, is a technique that is also used to confuse killers after a pallet stun.
+
+To perform a Ayrun Special, you need to stun the killer with a pallet and then fully blind them during their stun animation. If done correctly, the killer should be fully blinded before the end of their stun animation, allowing you to slowly vault the pallet in front of them. Once you’ve completed the vault, you then want to quickly vault back. This works because the killer is blinded while you are slowly vaulting and you make very little noise (Don’t attempt this while injured without Iron Will).
+
+As a killer, the easiest counter to this is to listen closely as survivors do make a slight noise even when slowly vaulting the pallet. Also if you are standing still and can’t break the pallet, just assume they are trying this technique on you and go for the lunge attack while blinded.
+[1 images]
+## Ayrun/LoleriZ/Swerve Tech
+This technique was originally created by a group of players that included Ayrun and LoleriZ. This technique is a movement technique similar to moonwalking but is more viable in chase.
+
+This Tech allows the survivor to moonwalk forwards or backwards while strafing side to side. This technique can’t really be explained how to perform without first visualizing it though. All that can be said here is that it can be very useful to dodge a hit against most ranged killers or even more prominently the Hillbilly’s chainsaw.
+[1 images]
+## Harvester Tech
+The Harvester Tech is a technique used to get onto the hay bales without needing to take the vault on the Harvester tile. The Harvester spawns only on the Coldwind Farm Realm maps so using this tech used to be very useful before it was changed. This technique has recently been nerfed and Harvester Tech now requires the survivor to use a perk with a haste status effect or Dead Hard to consistently get onto the hay bale.
+
+To perform this technique correctly, a survivor must angle there camera at a 90% angle from where the start of the harvester is towards the hay bales. Once they start running towards the edge of the beginning of the harvester, they then want to use Dead Hard at the edge to get to the other side. Alternatively they can use a perk like Sprint Burst to get the same effect although it is very challenging to perform.
+
+As a killer the simplest way to perform this technique is to lunge from the start of the harvester's edge towards the hay bales.
+[1 images]
+## Inside Tech
+The Inside Technique, also known as the P.E.N.I.S Tech, is a trick that is used to confuse killers after they have successfully landed a hit on a survivor. This technique was mainly popularized by The JRM. When the killer hits a survivor with a basic attack, the survivor loses all collision with all other characters and receives a 150% speed boost for 2 seconds. This makes it possible to perform the Inside Tech.
+
+To perform this technique, once you get hit by the killer, you quickly fake the direction you are going while inside the killer’s model. This works because a killer can't see you while you are inside their model. So faking as if you ran through them can be very confusing.
+
+This technique can be made better with using perks like Calm Spirit and Iron Will!
+[1 images]
+## Clinch Tech (REMOVED)
+The Clinch Tech is a simple technique used to make the killer whiff a lunge on a survivor with Dead Hard.
+
+To perform the Clinch Tech properly, the survivor must have Dead Hard available to use and be in a position where they won't make a vault on a pallet or window. Since they won't be able to successfully vault without getting hit, they instead use dead hard as soon as the killer swings. The difference between the Clinch Tech and normally using Dead Hard to dodge a hit, is that the survivor will not move and instead “clinch” in place while hugging the window or pallet. This works because when a survivor uses Dead Hard their hitbox is invincible. So even though the Dead Hard animation doesn’t start, they can still be invincible in place during the duration. This causes the killer to whiff and allows them to then successfully make the vault they were going to attempt.
+
+As a killer, the easiest counter is to make sure you see the survivor enter the vault animation before you swing. This will allow you to prevent swinging at the Clinch Tech. Also there is still a slight initial animation at first where you can tell if they’ve used Dead Hard.
+[1 images]
+## Gesture Tech
+The Gesture Tech is a technique used to cancel a survivor’s downing animation. This tech is used to gain extra distance from the location that a survivor was going to be downed at. Using this tech can grant a survivor distance to crawl to a pallet or through the exit gate as a downed survivor. This can also counter things such as being hit and downed into doing a backflip by the killer. 
+
+This technique can be performed when the killer lunges to down a survivor and the survivor quickly makes a gesture. This gesture can be either the “Point” or “Come Here” gesture as both achieve the same result. As soon as the survivor gets hit, they will continue the gesture animation before they fall down to the ground. During this animation, the survivor can move at normal crawling speeds. This would not be possible if the survivor were to be hit normally because survivors CAN’T move during the downing animation. Performing this technique cancels that animation completely.
+[1 images]
+## Gesture Cancel Tech
+This technique is just used to perform gestures in quick succession or used to fake an action such as a pallet drop or window vault.
+
+To perform this tech, a survivor needs to make a gesture then quickly perform a movement action in any direction to cancel it. Once that is learned, it can be chained to continuously be done without stopping. It can also be quickly used to fake a pallet drop when performed correctly.
+[1 images]
+## Slide Vault (PATCHED)
+This is a technique that is used to get a rushed vaults on windows without having an animation. The tech is mainly used to just to be flashy and has no real usefulness in chases.
+
+To perform this technique, a survivor needs to be running towards a window vault. As they get close to the window while running, they need to release all movement keys before they pressing the vault key/button. It is essential to still be holding sprint though, as the prompt window for activating a running vaulting is larger while the sprint key/button active. Once performed correctly, the survivor should vault the window while appearing to be standing completely still.
+[1 images]
+## Shift Tech
+The Shift Tech is a technique used to prevent a window from becoming entity blocked while being chased by the killer. This is possible because while a survivor isn’t in chase, they are able to vault a window as many times as they like without the vault becoming blocked. So if the killer is chasing the survivor but the game doesn’t recognize this “as a chase”, you can infinitely vault a window.
+
+These are the conditions needed for the game to recognize a chase
+A Survivor enters the Killer's Field of View within 12 meters of them That Survivor is running The Killer is walking 
+If any single one of these three conditions are not met, the Game will NOT initiate a Chase. Knowing all of these things, Shift Teching is taking those game mechanics and abusing them by not allowing the chase to initiate.
+
+So the proper way to Shift Tech, is to only sprint when outside the killer’s Field of View. Otherwise the survivor needs to be walking so that chase isn’t initiated. The survivor needs to have enough distance on the killer so that they won't be in the killer’s FOV (within 12 meters) as they vault the window. Once they’ve vaulted the window and are clear of the killer’s FOV, they are able to begin sprinting again. If performed correctly, the chase should never start and the survivor will be able to perform more vaults or even infinitely vault a window.
+
+This tech has been made easier with the addition of Fixated/Self Aware because it increases survivors walking movement speed. Also this technique is infamously known to work best at Shack so that would be the best place to learn how to do it.
+
+As a killer the best way to counter this is to change directions of the loop that will allow you to see the survivor more easily.
+## Exit Gate Tech
+The Exit Gate technique is used to help the last remaining survivor escape through the exit gate after the hatch has been closed. This technique works because it confuses the killer about what exit gate the survivor is attempting to open. This is possible because when a survivor completes under 25% opening progress of an exit gate, the first red light doesn’t turn on. This allows the survivor to complete the exit gate in less time while the killer goes to patrol the other one. Since an exit gate takes 20 seconds to open excluding the perks Remember Me, Resilience and Wake Up, if you perform this technique right, you could save up to 5 crucial seconds to escape.
+
+To perform the Exit Gate tech correctly, a survivor must start to open an exit gate while the killer isn’t in the vicinity. Once the survivor starts opening the gate, they want to stop opening it at 24% progress and start hiding again. To make sure the survivor doesn’t repair past 24% of the exit gate, they can stop repairing the exit gate before the progress bar reaches the letter A in OPEN ESCAPE. Once the killer patrols the survivor’s area, they should then start opening the gate again and complete it before the killer is able to catch them.
+
+As a killer, you can look out for the sparks that the door makes when a survivor stops trying to open it.
+[1 images]
+## The Borrowed Time Tech
+The Borrowed Time technique is used to help avoid a scenario where the teammate that unhooks a survivor with Borrowed Time goes down. There are 2 different ways to successfully perform this tech based on if the hooked survivor’s teammate has Dead Hard or not.
+
+The first and easiest way to perform this technique involves the UNHOOKING survivor to have Dead Hard along with Borrowed Time. Once they’ve taken the initial hit from the killer before or while unhooking, they want to instantly unhook their teammate during the killer’s successful hit cooldown. After they’ve unhooked their teammate, they can then use Dead Hard to clip through the HOOKED teammate. This forces the killer to hit the HOOKED survivor instead of the one UNHOOKING. Since they’ve unhooked with Borrowed Time, the HOOKED survivor will go into the Deep Wound state instead of being downed. This should allow enough time for both survivors to make it to a resource before the killer can down them again.
+
+The second strategy that can be done to perform the Borrowed Time tech, involves the HOOKED survivor standing still after being unhooked. After the HOOKED survivor gets rescued and stands still, they lose all collision with their UNHOOKING teammate. This allows the survivor who was UNHOOKING to successfully run through them and avoid a second hit from the killer through body blocking.
+
+An even more advanced version of this involves the UNHOOKING survivor standing inside the model of their HOOKED teammate. This works because if the killer attempts to swing at the UNHOOKING survivor that is inside of the HOOKED survivor's model, they will instead hit the survivor that was HOOKED who still has Borrowed Time active. This version of the tech requires great communication and is even used in competitive matches.
+
+As a killer, the best thing to do is to be patient and don't preemptively swing as soon as you see the unhook happening. This will allow you slightly more time to confirm you will down the survivor that unhooked.
+## Quick Switch
+The Quick Switch technique is used to deceive the killer about which items a survivor team is bringing into the match. This technique can be performed by an individual survivor as well as a group of survivors. This technique is mostly used to stop killers from bringing perks like lightborn and franklins, as they cancel the usage of survivor’s items.
+
+The basic mechanic of this technique is to switch to a different character with the desired item or timely equip the item you want on your current character as the countdown time expires. This technique works because a killer CAN’T change their loadout once themselves and everyone else has pressed Ready or the countdown timer hits 5 seconds. There are multiple ways to perform this technique that are based on the lobby’s countdown timer. If everyone is ready besides one survivor before the countdown hits 15 seconds, they can coordinate switching characters or items right before the one survivor presses Ready. They can also just wait to switch characters or items when the countdown timer hits 6 seconds.
+[1 images]
+## Lazy Tech
+The Lazy Tech is a technique used by survivors to do an action without the need to hold down their interact button/key. This tech isn’t as prevalent since Dead by Daylight has since added a toggle action feature, but it is still used because this feature can make certain actions more difficult. These actions include things such as a survivor 99% their recovery bar, an exit gate or generator. This can also make trying to bait a hit from the killer while unhooking another survivor more difficult.
+
+The original way to perform the Lazy Tech involved entering the pause menu while doing an action. This method was unfortunately patched. As a community, we still don't understand why this change was made as it made it impossible for console players to perform this technique.
+
+To perform the Lazy Tech nowadays, a survivor must first start the action they want, then toggle on the overlay of a third party application. These applications usually consist of Reshade or Discord but there may be more. Once the overlay is toggled on and the survivor is continuing to complete the action, the overlay can then be toggled off to complete an action handsfree.
+## Trap Buffer Tech
+The Trap Buffer technique is used to allow other survivors to pass through a Trapper’s trap.
+
+To perform this technique, one survivor must start disarming a trap while another survivor either runs past it or vaults through it. As long as the survivor who is disarming the trap is filling the disarm bar, no survivor can get trapped inside of it.
+
+This technique is most commonly used when a survivor goes to vault a window at shack or even a long wall tile while another survivor uses the trap buffer method
+## ENVIRONMENT TECHS
+These techniques are a group of Techs that involve juking the killer by the use of the environment around you. A survivor can just simply run around a specific object to juke the killer and that represents the tech. Note: Yes it’s stupid
+## Tree Tech
+This technique is used to juke the killer by using trees found on any outdoor map.
+[1 images]
+## Locker Tech
+Not to be confused with a Locker CJ Tech, the Locker Tech is used to juke a killer's lunge or dash attack by quickly hopping inside of a locker. This technique is very effective against killers with a secondary dash/rush power such as Blight, Billy and Bubba.
+[1 images]
+## Fire Barrel Tech
+This technique is used to juke the killer by using the fire barrels that can be found around the map.
+[1 images]
+## Corner Tech
+This technique is used to juke the killer by hiding on the inside corner of a door while a killer is chasing you.
+[1 images]
+## Bush Tech
+This technique is used to juke a killer while hiding in a bush. This tech is most commonly performed by “Blendettes” (Claudettes that wear dark clothing; most notable prestige cosmetics), so be aware and more attentive.
+## SURVIVOR MEME TECHNIQUES
+These aren't really techs but rather memes that have existed in the Dead by Daylight community for while now
+## Bunny Tech
+Bunny Tech was a tech created by a guy named Bunny. This tech is usually used when a survivor rages or becomes extremely bored with the current match and wants to disconnect.
+
+To perform the Bunny Tech, the survivor must disconnect from the match at the exact moment as the killer was going to hit them.
+[1 images]
+## Narnia Tech
+The Narnia Tech, similar to the Bunny Tech, is a technique used when a survivor is bored with the current match and wants to mess with the killer before disconnecting. The technique’s name is a reference to the Novel Series, The Chronicles of Narnia, where the wardrobe/closet was used as a portal to Narnia.
+
+To perform a Narnia Tech, you must hop inside of a locker and make sure the killer sees you enter the locker. When the killer approaches the locker that you are in to search it, you quickly disconnect from the game.

@@ -1,0 +1,308 @@
+Titre : The Dream-Master's Guide to The Nightmare (V2)
+Auteur : Kuhssir
+URL : https://docs.google.com/document/d/1kY9wbd0MSZ6c5y7mXsT_Xw5BbLRJXbWCE12n0YbOigA/edit
+Publication / mise à jour : mise à jour 15/02/2026 (indiquée dans le document)
+Consulté le : 28/09/2026 (curl, Google Docs /mobilebasic ou équivalent ; texte extrait, images non incluses)
+Trouvé via : https://otzdarva.com/dbd/killer-guides
+Statut : EXPERT OPINION (guide de joueur tueur), pas une source primaire
+----------------------------------------------------------------
+The Dream-Master's Guide to The Nightmare (2026)
+The Dream-Master’s Guide to
+The Nightmare (V2)
+(updated 2/15/26).
+Written by Kuhssir, YouTuber & Twitch Streamer that has been a Freddy main since early 2024, while consistently playing him since October of 2018. In collaboration with the MODS & community members of the Kuhssir’s Cutie Club Discord Server , KMD, and Indigo Ninja. Feel free to contact me at ANY of the three mentioned areas if you have additional questions regarding Freddy, or DbD in general.
+# CHAPTERS / INFORMATION
+1). GENERAL KILLER STATS.
+A), Movement Speed.
+B). Terror Radius.
+C). Height & How to Use It.
+2). THE DREAM WORLD & MECHANICS.
+A). How do Survivors enter The Dream World?
+B). Oblivious Status Effect.
+C). Lullaby Effect.
+3). DREAM POWERS.
+A). Dream Snares.
+1A). General Snare Information.
+2A). Freddy Movement Change.
+3A). Ignoring Bodyblocking.
+B). Pallet Rupture.
+1B). General Information.
+2B). Zoning Efficiency.
+3B). Double - Tap Potential.
+C). Dream Projection.
+1C). General Projection Information.
+2C). Teleporting to Generators.
+3C). Teleporting to Healing Survivors.
+4). GENERAL LOOPING.
+A). Filler Tiles.
+B). Dealing W/ Windows.
+C). Dealing W/ Pallets.
+5). ALARM CLOCKS.
+A). What These Do.
+B). How to Counter These.
+6). KILLER SPECIFIC MINDGAMES.
+A). Dream-Projection Mindgames.
+B). Using Height to Your Advantage.
+7). DEALING WITH VIGIL.
+8). ADD-ONS & WHICH TO USE.
+A). In-depth Add-On Breakdown.
+B). Add-On Tier-List.
+9). MAP TIER LIST.
+10). PERK GUIDE.
+A). What is Good on him?
+B). Builds to Try.
+C). AVOID THESE.
+11). KNOWN BUGS.
+12). FAQ.
+# GENERAL KILLER STATS.
+- The Nightmare is a completely average, 4.6 m/s (115%) movement speed killer, making him similar to a lot of the other ‘M1’ Killers in the rest of the game.
+- He also has a 32-Meter Terror Radius that can only be heard by AWAKE survivors. At a range of 16-Meters & further, The Nightmare will intermittently flash in & out of existence for awake survivors. Asleep survivors will see him constantly.
+- While Freddy has the most-base form of general stats in the game, his height puts him as one of the shortest killers in the game, allowing for him to hide himself behind larger objects so that survivors hesitate & potentially make mistakes in chase that Freddy can capitalize on.
+(MOVEMENT SPEED: 4.6 m/s
+TERROR RADIUS: 32 Meters*
+HEIGHT: Short, 8th shortest in the roster).
+# DREAM WORLD MECHANICS.
+## HOW DO SURVIVORS ENTER THE DREAM WORLD?
+A survivor is brought into the Dream World in multiple different ways, either passively OR from The Nightmare himself. Let’s cover each & every way that a survivor can be brought into your world.
+### 1A). PASSIVELY FALLING ASLEEP.
+Survivors in the trial will start AWAKE. After a period of 60-Seconds , survivors will AUTOMATICALLY enter the Dream-World. Survivors can see the progress of their sleep-timers, indicated by the clock effect over their character portrait.
+### 2A). FORCEFUL SLEEP.
+Freddy can forcefully pull survivors into The Dream World in multiple ways.
+A). Simply hitting them with a Basic Attack (‘M1’).
+B). Connecting with up to 2 Dream Snares.
+C). Catching them in the radius of a Dream Pallet to automatically put them to
+sleep.
+D). Being within 8-Meters of Freddy when he teleports to a generator will apply
+15-Seconds to a sleep timer.
+3A). OBLIVIOUS STATUS EFFECT + FREDDY’S LULLABY.
+Once a survivor has fallen asleep, your Terror Radius is completely muted, meaning that survivors are given the OBLIVIOUS status effect, this buffs Freddy in some ways, while also providing him with some unfortunate DOWNSIDES as well. Freddy’s Terror Radius will be replaced by a non-directional lullaby, making his exact position hard to decipher for survivors.
+# DREAM ABILITIES.
+# DREAM SNARES.
+Freddy’s MAIN chase power is the Dream Snare.
+1A). General Snare Stats.
+- This applies a 12% Hinder to any survivor hit with it for 4.5 seconds*.
+- The Dream Snare travels up to 18-Meters before it dissipates into nothing.
+- The Snare can affect up to 4-Survivors at once.
+- The Snare’s Cooldown is a flat, unchanging 7-Seconds.
+- The Snare can travel up & down SURFACES .
+- *The Snare cannot go over holes, if shot ACROSS a staircase, it will dissipate.
+2A). Additional Important Information.
+While CHARGING up a Dream Snare, Freddy moves at 4.0 m/s, which is the same speed as survivors, this means that holding a snare for a long time is detrimental to you.
+While holding a snare, The Nightmare can build Bloodlust, however, will immediately lose it upon release of his Dream Snare.
+If Freddy uses his Dream Snare before he hits a survivor, his hinder is able to carry through the entirety of their off-hit speed burst, causing the survivor to gain MUCH less distance than they would have otherwise.
+3A). Snare-Shoving & How to Use It.
+Freddy’s Dream-Snare offers a very short amount of time where he will lose collision with survivors, he can use this to his advantage, allowing him to essentially ignore & counteract body-blocking.
+This is useful in only a few situations, but these situations are common & strong for you.
+- Allows you to focus on a singular survivor without Body-Blocking preventing it. (known within the community as ‘tunneling’).
+- Getting ahead of a survivor to body-block a pallet, window, exit-gate, or unhook.
+## NOTE: I do not know if this is intended, or a bug. This COULD be patched, anytime now. I will keep this updated as time goes.
+## DREAM PALLETS.
+NOTE: As of writing (2/14/26) these are currently BUGGED , when this is fixed, I will make an update to this!
+1B). General Rupture Stats.
+Aside from the Dream Snares, Freddy has a trap ability called ‘Dream Pallets’ which can be Ruptured, or, exploded to damage a survivor for an immediate health-state if they are asleep & within the radius.
+Dream Pallets have a Rupture radius of 3.5 meters & a detonation timer of 1.5 seconds.
+After rupturing a pallet, there is a 1.5 second cooldown before it can be done again.
+Dream Pallets can be placed & exploded within a 24-Meter Radius.
+Spots that can hold a pallet on the map that is currently not holding a pallet will highlight the area in ORANGE . Once you start the action of placing a Dream Pallet, these orange areas will then be replaced by a YELLOW indicator.
+A Dream Pallet that is currently placed will be highlighted to The Nightmare in WHITE.
+- ORANGE - A Dream Pallet can be put here, but, you aren’t holding M2 (or platform related button) to do it.
+- YELLOW - You are planning to place a Dream Pallet & can put it here.
+- WHITE - A Dream Pallet is already in position in this spot.
+WARNING: Freddy CAN be stunned by his own Dream Pallets!
+2B). Zoning Efficiency.
+While the most exciting part of Dream Pallets is the rupture mechanic connected to them, the most consistently useful part is the inherent zoning value that comes with it.
+Zoning - Forcing survivors to not go into an area of the map, due to the threat of being damaged, or downed.
+A very successful way to utilize your pallets is by forcing survivors to run away from them into the rest of the map,
+Below is an example of forcing survivors to run into an area where they don’t have anything strong to protect themselves from taking an ‘M1’.
+## 3B). Double Tapping Survivors.
+Freddy can quickly down survivors with smart use of his pallets, leading to downs that can only be matched by insta-down killers, while also being able to quickly hook these survivors.
+THIS WORKS ON ASLEEP & AWAKE SURVIVORS.
+STEP BY STEP GUIDE ON HOW TO DO THIS:
+1). Wait for a survivor to be extremely close to a pallet, but still on the same side
+of the pallet as you so they cannot stun you & still need to continue moving
+forward.
+2). Begin the detonation process.
+3). M1 the survivor FIRST, this will injure them & put them to sleep.
+4). The Rupture will then down them before they are able to escape radius.
+NOTE: This can also be performed if the survivor is near a Dream Pallet at all. Dream Pallets can also hit through walls. Experimentation is required to hit the skill-ceiling with these pallets. Do not feel discouraged if you fail at first!
+## DREAM PROJECTION.
+1C). General Projection Stats.
+This is the primary use of the Dream Projection, acting as the main source of mobility for The Nightmare, with a 30-Second Cooldown.
+Dream Projection has a charging time of 2.5 Seconds before it will activate, during this 2.5 second period, The Nightmare’s movement speed will be reduced to 4.0 m/s. Projection can be cancelled at any time, however it will go on cooldown once done.
+While actively charging his teleport, in all cases, Freddy can see the visual of his husk rising out of the ground, highlighted in white, this husk is meant to show the direction he will be facing once the teleport is completed.
+Freddy has a very obvious animation & audio cue to show that he is actively using this ability. This applies to Freddy himself, as well as the teleport target.
+NOTE: The Nightmare has a short buffer after holding down the power-button before Projection will begin! This buffer is .5 seconds long.
+The Nightmare has two situational other forms of Projection, see ‘ADD-ONS’ for additional information on these two!
+2C). Teleporting To Generators.
+Freddy can teleport to finished & unfinished Generators.
+While Freddy can see unfinished generators at all times, the aura of finished generators will be highlighted in an ORANGE color, only when Dream Projection is off cooldown.
+After teleporting to a Generator, the following things will happen…
+NEARBY SURVIVORS THAT ARE AWAKE:
+15-Seconds will be added to their sleep timer if they are within 8-Meters.
+Asleep & Awake survivors that are within 8-Meters will give Freddy a killer instinct effect for three continuous seconds, revealing their location to the killer.
+There is currently a bug that will display the Dream Radius on generators Freddy has teleported to already in the trial. This can occasionally confuse survivors into running back into you. This will be fixed soon without a doubt, but, currently can be done.
+This is a slightly less common way to utilize your teleport, whenever an asleep survivor is being healed or healing, it activates killer instinct & highlights the survivor to The Nightmare, Freddy can use the Projection to teleport to the survivors, and begin a chase.
+Survivors are given a warning that you are able to teleport to them by a dust-like effect coming from their feet, once Freddy begins the teleport, the usual blood splattering audio will play & claws will come from the ground, grabbing at the survivor to indicate that Freddy is inbound.
+Upon a teleport, Freddy will appear anywhere within 8-12 meters from the survivor, facing their direction. If you begin moving near the end of your teleport charging, you will appear next to the survivors already moving. You can ALSO see which direction the survivor is moving, if they noticed you teleporting to them.
+DREAM PROJECTION RECHARGE TIMERS.
+With every asleep survivor, The Nightmare’s Dream Projection will be reduced by 15%, totalling at 60% of his total cooldown.
+1 Asleep Survivor - 25.5 Seconds.
+2 Asleep Survivors - 21 Seconds.
+3 Asleep Survivors - 16.5 Seconds.
+4 Asleep Survivors - 12 Seconds.
+VISUAL AID BELOW.
+GENERAL LOOPING.
+NOTE: This is not meant to tell you how to play
+EVERY tile, it will help you with most generic tiles in the game.
+DEALING WITH WINDOWS.
+Windows are one of the most common tools for survivors to utilize in games, against a lot of killers they can be difficult to deal with. Fortunately, this is not the case for Freddy. His hinder effect applies a specific condition that will force survivors to medium vault through the entire duration of it.
+Pair this with the reduced speed (12%) it allows for Freddy to make most windows in the game completely irrelevant.
+Below will be some visual aid on how to deal with common windows in the game!
+NOTE: These are just meant to be a visual aid, you will need to do this in game to understand EXACT snare-timing, however, this generally should be of assistance.
+ARROWS INDICATE SURVIVOR MOVEMENT.
+T & L WINDOWS.
+T & L Walls are some of the most common tiles in the game & play very well for Freddy, being able to force a medium vault + the slowdown from your Snare paired with forcing survivors to run the tile on the outside will give you ample time to get a hit. Freddy makes this tile extremely weak, almost completely removing the need for a mindgame.
+SHACK WINDOW.
+The Shack is one of the strongest common tiles in the game, fortunately Freddy is able to force the pallet drop fairly quickly. A well-timed snare will either force a medium vault on the window, or make the survivor drop the pallet. Once the pallet is gone, the shack becomes a strong asset for Freddy due to the Dream Pallet spawn & basement spawn.
+JUNK TILE.
+This tile can be deceptively difficult due to how quickly a survivor can rotate around to the pallet again. However, once the pallet is gone, the window becomes very manageable, with only one, or two mindgames, this tile will be neutralized.
+FOUR LANE.
+The Four Lane comes with a fake pallet spawn on the side that doesn’t spawn a pallet. Four Lanes are already very easy to deal with, however your hinder & pallet spawn option makes quick work of these.
+JUNGLE GYM
+This is maybe the most difficult tile to deal with for most killers. Again, though, Freddy’s hinder will force survivors to either drop the pallet or take the hit due to the speed difference. A well-timed snare can make this irrelevant, quickly.
+LABYRINTH GYM
+This is a relatively weak tile with only one window for survivors to use. Once hinder is applied, the hit should come soon after, especially when paired with a mindgame.
+DOUBLE WINDOW TILE.
+This tile is VERY weak in general, however Freddy’s snare should be able to shut down both windows due to the short amount of distance between them, and the duration (4.5 seconds) of your Hinder.
+DEALING WITH PALLETS.
+Unlike our last section, pallets are EXTREMELY easy to explain.
+While Freddy’s snare has a very visible effect on survivors using windows, it’s not as noticeable when you’re dealing with pallets, because the hinder doesn’t get you an immediate hit. Instead the benefit of the hinder comes from forcing an early drop instead of allowing the survivors to continue using the pallet for an extended amount of time.
+AT MOST PALLETS, YOU DO NOT GUARANTEE A HIT, BUT IT WILL FORCE A DROP.
+While most tiles will result in a kick, filler pallets CAN be mind-gamed successfully, leading to potential hits against survivors who don’t simply pre-drop pallets.
+FILLER PALLETS.
+ALARM CLOCKS
+What Do These Do?
+Alarm Clocks are the primary counterplay to Freddy & prevents him from being an incredibly oppressive killer throughout the entire trial. An Alarm Clock will provide survivors with 30-Seconds of sleep immunity. During this time, your Dream Abilities are USELESS against that specific survivor, M1 attacks will also not bring them into the Dream-World.
+THERE IS NO WAY TO PUT THIS SURVIVOR TO SLEEP.
+After the sleep immunity has come to an end, the normal, 60-Second timer will commence once again, meaning that your abilities can once again bring survivors back into the Dream-World.
+How Do You Counter Clocks?
+When it comes to countering the clocks, your best option is connected to your add-ons (see Add-On section). Basekit , your best option is to chase survivors who are NOT immune to your abilities, unless the only option is the immune survivor. If you must chase an immune survivor, you have to simply play as a completely, default, powerless killer.
+Playing killer has a large focus on taking smart chases, this does sometimes mean that you should just leave a chase instead of overly committing to one against someone you literally have no abilities against.
+“IF THEY ARE GOLD, YOU SHOULD FOLD.”
+KILLER SPECIFIC MINDGAMES.
+Note: this section features clips done in custom games meant to
+be used as examples to help you out. While these have been
+done in real matches, this was not a real match,
+DREAM PROJECTION MINDGAMES.
+The Dream Projection’s primary use-case is mobility, however it does provide Freddy with a good tool to mindgame survivors in chases. These are some examples that do work in trials for you to begin trying out in your own matches.
+1). HERDING SURVIVORS INTO YOU.
+This mindgame works incredibly well in situations where survivors are unable to see that you had cancelled your teleport, usually very good inside buildings or on indoor maps.
+2). WAITING AT A DROP-DOWN.
+This is usually something that works only one time, but will consistently get you a hit. Most useful on the Garden of Joy main building & the Two-Story House on Badham Preschool.
+3). CUTTING SURVIVORS OFF.
+Consistently useful. When pairing this with the next mindgame, it will create an incredibly difficult to predict set of chase tools for you to catch survivors off guard with.
+4). FAKING THE TELEPORT
+This usually works better against survivors who panic quickly. Best used in cases when the generator is VERY visible to the survivor, so they realize what you’re attempting to do.
+USING YOUR HEIGHT.
+Due to Freddy’s height, you can hide yourself behind walls, shrubs, or even pallets to make survivors hesitate before you try & throw them off in chase. This is not the most CONSISTENT mindgame but can be used sparingly, or, even often if you change up what you do next.
+DEALING WITH VIGIL
+Vigil is a teachable perk from Quentin Smith, ironically introduced in The Nightmare on Elm Street Chapter. Vigil will provide a 66% reduction in VARIOUS negative status effects, including Hinder.
+This DOES include Freddy’s power (as well as Clown). While Vigil doesn’t affect something like The Shape, or The Ghostface, and the exposed timers tied to their powers … the same cannot be said for our two hinder killers. The reason for this is that Myers & Ghostface have power timers instead of status effect timers.
+This means that Myers & Ghostface technically do not apply exposed, they apply EVIL INCARNATE & MARKED.
+Ideally, this would be changed.
+Clown would apply ‘Intoxication’ & Freddy would apply ‘Sleep Paralysis’ but this is not the case as of right now. Because of this, you will simply have to deal with this perk.
+COMPARISON BETWEEN FREDDY WITH & WITHOUT VIGIL:
+As you can see, the inclusion of Vigil does cause a significant change in power level for Freddy. However, there are a few, small things you can do to slightly alleviate the strength that Vigil does offer to survivors right now.
+1). USE JUMP ROPE.
+This is an add-on that we will discuss soon, however, as you can see above, Vigil is thrown off just a BIT by the inclusion of this add-on. The add-on also makes Freddy a bit stronger against non-Vigil users as well by allowing him to be a bit less precise with his Snare timings while in chase.
+2). USE YOUR SNARE LATER.
+Due to the much, much shorter timer attached to your Dream Snare, survivors will be able to make windows much easier than they would have without the use of the perk. Due to this, you’ll have to be quite a bit more patient than you would have if they didn’t have the perk.
+ADD-ON BREAKDOWN & TIERLIST.
+TIERLIST:
+ADD-ON BREAKDOWN:
+MAP TIER LIST.
+This means very little, in all honesty, however it does give you a general idea of just how well made Freddy is. He can comfortably do well on MOST of the realms in the game, while performing EXCEPTIONALLY well on both RPD maps, Lake Mine, and the Greenville Square.
+This mostly comes down to PALLET SPAWNS, due to that being the dynamically changing part of his power. Snares are consistent, pallets are dependent on the map…
+LERYS MEMORIAL INSTITUTE
+Lery’s Memorial Institute has a plentiful amount of windows on it. However, it also comes with a lack of Dream Pallet spawn positions early on into the match, meaning that during the early stages of the game, you have almost nothing to assist you in downing survivors beyond your Dream Snare.
+Once you get into the late game, the pallet spawns will gradually increase, however, survivors KNOW those are fake due to them having been already dropped by someone beforehand.
+NOSTROMO WRECKAGE.
+This map is actually quite good in terms of pallet spawns. However, it does have notoriously awful collisions. This does mean that Freddy’s snare will get stuck & dissipate on what looks like completely flat ground. This map makes your Snare incredibly unpredictable, and because of that, untrustworthy.
+GRIM PANTRY.
+This mostly comes down to how difficult it is to play the main buildings upstairs windows. The amount of distance a survivor gains from those windows will give them ample time to make it to the OTHER set of windows on the main building, despite being afflicted by your Snare’s Hinder. Upon the rumored rework, this will almost certainly see a massive improvement to how playable these windows are for Freddy.
+SHORT PERK GUIDE
+Note: this will not cover EVERY choice, but will
+cover some Do’s and Dont’s for your builds.
+Freddy has the benefit of being an M1 Killer with an added mobility tool, which is something that MOST killers in this class do not have access to.
+Because of that, he works very well with a LOT of perks in the game.
+Let’s begin with what are undoubtedly his best options…
+GENERATOR PERKS:
+Each of these have good synergy with Freddy, with the exception of Surge, these all have high synergy with your Dream Projection & can be activated over & over again throughout the trial.
+A personal favorite combo to use is Pop Goes The Weasel & Thrilling Tremors. These two perks once paired together will allow for Freddy to not only apply the Pop to a generator, BUT, Thrilling Tremors will show him which generators are actively being worked on. Since Thrilling Tremors has an EXTREMELY short cooldown of only 30-Seconds, this means the perk will always be off cooldown by the time you have Dream-Projection ready.
+Grim Embrace can be activated IMMEDIATELY by teleporting away from the hook. Dead Man’s Switch can be used by either fully teleporting, or, by baiting a survivor to release a generator. Used to be his absolute best perk, but after a rework to DMS & a subsequent nerf, it’s dropped a little bit while still being good for him.
+CHASE PERKS:
+Rapid Brutality & Keep Them Waiting serve a similar purpose, allowing for you to quickly get the chase moving again - though, if you are only using one of these, Rapid Brutality is 100% the superior choice.
+Brutal Strength & Fire Up serve a different purpose, allowing for you to quickly chew through the pallets that survivors drop so you can deal with these fast. Much like we discussed earlier in the pallet section, these are such good choices because survivors simply HAVE to drop them.
+You may be asking yourself “Why is Bamboozle not in this section?”
+Freddy’s snare makes windows much more manageable. Bamboozle is a good pick, but I do believe it’s outperformed on Freddy by other chase perks.
+Sloppy Butcher activates on Basic Attacks (M1s) and will apply the Mangled & Hemorrhage status effects to survivors. This makes healing EXTREMELY long for survivors. This has multiple benefits.
+- Survivors aren’t doing generators.
+- Healing takes a long time.
+- You can interrupt with Dream Projection if they are asleep.
+Friends Till The End and Barbecue & Chill will provide you with an aura reveal upon a hook, so you know exactly where you need to go next in order to get more pressure building during the match.
+Discordance will give you information whenever two survivors are on a generator together, this allows you to pressure multiple people at once. Smart survivors can often tell when someone is using this perk, so be careful.
+HEX PERKS:
+These perks are inherently a bit of a gamble, and while Freddy is nowhere near the best at defending them, he does become quite good IF a generator has spawned near them. Keep in mind though, there will be at least a short amount of time where your totem will be completely unprotected, AT LEAST during the time where your teleport is on cooldown.
+Hex: Devour Hope is the totem he works best with, due to being able to quickly get out of the 24-Meter radius & also being able to quickly get back to the totem, or, pressuring the unhook if the survivors make a mistake.
+He also can get hits extremely fast, making the insta-down effect much more potent for him. A risk, but a risk that is weighted in Freddy’s favor instead of the survivors.
+Pair this perk (or any other hex) with a Hex Defense perk like Undying , or Thrill of The Hunt & you have a very strong combination of perks that will do a LOT of damage.
+Other extremely effective Hex Perks that weren’t shown above are:
+Hex: Face The Darkness, Hex: Haunted Grounds, and Hex: Ruin.
+Face the Darkness has a VERY specific synergy with Freddy. Due to the way the perk works (all survivors outside of your Terror Radius will intermittently scream) this means that if a survivor is asleep, they will begin screaming NO MATTER WHERE THEY ARE ON THE MAP.
+This is some free, consistent value on survivors, no matter how close they are. Lots of potential, held back by being a Hex with an activation condition.
+The other two hexes are much less interesting to use & discuss, however,
+Haunted Grounds has good synergy with him due to him being an M1 Killer with mobility. Ruin is simply good, consistent Generator Defense.
+You need to keep in mind though that these perks & especially builds around these perks are a massive gamble and will require constant monitoring to keep them active all game. When using Hexes, it’s best to keep in mind that you almost certainly will lose them, HOWEVER, they do offer over intrinsic value of AT LEAST 14-Seconds of a survivor doing the totem instead of anything else.
+MY PERSONAL BUILDS:
+This is my Winstreaking Build.
+- It has a strong early game slowdown effect due to Corrupt Intervention .
+- Then relies on HEAVY snowball with Thrilling Tremors, and Pop Goes the Weasel showing you which generators you need to pressure . Finally, we have Rapid Brutality to give you that extra speed after hitting a survivor. This is an incredibly oppressive build.
+This build is very similar, however replaces Corrupt Intervention with the new general perk, Keep Them Waiting.
+- This is still EXTREMELY strong but focuses almost completely on snowballing ahead of the survivors by trading early game slowdown for a stronger chase potential, while keeping the reliability of Pop & Thrilling.
+This build is more of a joke than anything. This build takes ADVANTAGE of survivors trying to stun you with dream pallets & punishes them heavily…
+- Enduring allows you to recover from stuns MUCH faster, Spirit Fury will instantly break pallets upon a stun (after you’ve manually broken two of them). These perks are a staple for a lot of killers in the game…
+HOWEVER, this is where the build becomes Freddy specific.
+- Hex: Two Can Play will blind a survivor after they stun you & Hubris will apply the exposed status effect for the next 30-Seconds.
+When you pair these perks together, you have situations where a survivor will stun you, get blinded, and by the time they aren’t blinded anymore - they are on the ground, downed.  Genuinely very funny, but nowhere near a strong build.
+PERKS TO (mostly) AVOID.
+This section is actually extremely simple. Freddy can use a LOT of the perks in the game extremely well, however, the one section that serves VERY limited use to him is ANYTHING that applies the Undetectable status effect. Due to the way the Dream-World works, survivors will still hear your lullaby while they are asleep.
+NOW, when you become a bit more experienced with Freddy, you can begin mixing in a small handful of these undetectable perks into your builds. The ones I would suggest starting with are ‘Unforeseen’  & ‘Machine Learning’ due to them having Generator related activation conditions that can pair with some of the best perks for the character.
+It’s worth noting that perks that remove your red stain will ALSO do this for survivors in the Dream World, meaning that paired with the darker look of the Dream World, you can become genuinely hard to tell apart from a survivor at a distance when you have no red stain.
+However as a complete beginner, avoid using these perks that offer stealth as large parts of their benefits. You’ll be missing out on a lot of the perks value with this character that you wouldn’t necessarily lose with any other character in the game.
+You should also avoid anything that requires a TERROR RADIUS to get value.
+This includes Dissolution, Phantom Fear, and Disstressing.
+Much like I mentioned above, the Dream World completely removes all Terror Radius interaction from survivors. These perks are completely worthless for Freddy. Never use them under any circumstances.
+Other than this, Freddy has extremely good synergy with the vast majority of perks in the game. The Rule of Thumb is that if it doesn’t require a Terror Radius to get value out of it, you can use the perk well.
+KNOWN BUGS
+(updated 2/15/26)
+- Freddy’s Dream Pallets blood-leaking can be seen map-wide.
+- Dream Projecting to a generator will show the teleport effect on that generator occasionally through the rest of the match.
+- Freddy can phase through survivors if he walks forward while releasing a Dream Snare.
+- Pill Bottle is currently not giving the correct amount of value. It gives 40% instead of the intended 50%.
+FAQ
+(this will be updated as I get more
+questions related to Freddy in my chat).
+Q: How STRONG is Freddy?
+A: Like most things in DBD, it’s hard to determine. However, I’d say that Freddy is currently somewhere in the B+ to A- area.
+Q: Is Freddy accessible to new players?
+A: He definitely isn’t the ideal killer to begin with, however if you are new to the game & want to make him work, you can absolutely do so, it’s just a bit more difficult than it would be for a more experienced player.
+Q: Does it bother you that Freddy gets no cosmetics?
+A: No.
+Q: Does it bother you that Freddy isn’t from the Robert Englund portrayal?
+A: No.
+CLOSING THOUGHTS
+Freddy is a very good killer after his rework last year. However he isn’t a killer that works for everyone. He requires a lot of inputs, and macro game knowledge to work. With enough time dedicated to the character, you’ll find yourself beginning to perform better & better against teams of higher caliber. Use what you learned in this guide to increase the speed at which you improve your Freddy gameplay.
+You can also visit my second YouTube channel where I upload most of my Freddy content & you can check me out on Twitch if you’d like to directly question me about the character. I have dedicated HOURS to Freddy to understand all of his complexities and am more than happy to try & help you take this next step.
+The Nightmare is a killer with an extremely high skill-ceiling that takes a long time to reach. But this gives you a headstart over a lot of people who have tried this character out.
+Good luck on your journey, and make sure to welcome them to your world.
+(Bitch).

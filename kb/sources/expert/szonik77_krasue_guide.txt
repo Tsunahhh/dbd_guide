@@ -1,0 +1,245 @@
+Titre : Complex Krasue guide by Szonik77
+Auteur : Szonik77 (Szon77)
+URL : https://docs.google.com/document/d/1Covn0kPf4XJ-kRTJs4Jyd1SAXF0sM1iLdvc8vEsAovc/edit
+Publication / mise à jour : non datée (postérieure aux nerfs post-sortie de 9.2.x)
+Consulté le : 28/09/2026 (curl, Google Docs /mobilebasic ou équivalent ; texte extrait, images non incluses)
+Trouvé via : https://otzdarva.com/dbd/killer-guides
+Statut : EXPERT OPINION (guide de joueur tueur), pas une source primaire
+----------------------------------------------------------------
+Complex Krasue guide by Szonik77
+Complex Krasue guide
+by Szonik77
+Krasue is a killer released in a chapter called „Sinister Grace” in September, 2025 and called the most broken killer by many YouTubers and streamers. Inevitable nerfs came out as she dominated PTB and early release into live servers, people stopped playing her even when she’s still insanely strong in my opinion! In this guide I’ll show you her best add-ons and perks,
+I will also show some builds that play very well into her power and some that are a little more chill and fun BUT there will also be counters and best perks that you can pick as a survivor against Krasue.
+Index
+1. Basic informations
+1.1. Body form
+1.2. Head form
+1.3. Krasues powers
+2. Advanced informations
+2.1. Regurgitate stats
+2.2. Glands stats
+2.3. Headlong flight
+2.4. Glowing fungi
+2.5. Intestinal whip
+2.6. Corporeal weave
+3. Everything about add-ons
+3.1. All add-ons
+3.2. Add-on combos
+3.3. Add-on tierlist
+4. Everything about perks
+4.1. Everything about perks
+4.2. Builds
+4.3. Is she worth buying
+5. Some in-game tiles (I’m collecting data for it!)
+6. How to counter Krasue
+7. Her problems and how to fix them
+7.1. Power changes
+7.2. Power numbers changes
+7.3. Add-on changes
+8. Streamer opinions about Krasue
+1. Basic informations
+Krasues power is called Unbodied Flesh and it allows her to swap between body form and head form. These forms have different powers that synergize with each other and own a different set of stats. These stats are the first thing we’re gonna talk about here and then go into some details and her powers.
+1. Body Form
+- Body form has a 32 metres terror radius.
+- It has a regular movement speed of 4.6 m/s (like trapper).
+- Allows Krasue to attack with normal M1 lunges.
+- Enables the use of Regurgitate ability.
+2. Head Form
+- Head has a 40 metres terror radius (like wesker).
+- In this form you move really fast, base head movement speed is 4.8 m/s, it’s 120%!
+- It changes your field of view from first person into third person camera allowing you to outplay more loops just like Chucky or Draculas wolf form.
+- Changes your pallet breaking ability into a pallet vaulting one. In head form you vault windows in 1.67 second and pallets in 1.9 second but you need to be careful! Sometimes survivors will try to vault into you and outplay you, you can hold the „S” button to stop them from doing that (it almost always works and forces them to be more precise while doing that).
+- Pallet stuns are more dangerous because they stun you for longer. Head form gets stunned for 2.5 seconds instead of 2.
+- Head form disables your ability to get bloodlust.
+- It swaps your normal M1 attacks with a special one called Intestinal Whip and adds another ability – Headlong flight.
+3. Krasues powers
+- Regurgitate makes you charge a projectile and when it’s fully charged you can press the attack button to shoot your Leeching Gland. If you release the power button it stops charging, putting it on a small cooldown.
+- Leeching Gland is a fast projectile that puts survivors into Leeched 1 when it hits them. You can also spew it into vertical terrain and objects to split it into 4 smaller glands that semi-auto-aim into survivors and it also puts them in Leeched.
+- Leeched Status . When you hit survivors with Leeching Gland or with Intestinal Whip it puts them into Leeched 1. Then they slowly transform into Leeched 2 which makes them injured and broken. Survivors can get rid of Leeched by eating Glowing Fungus or getting hooked.
+- Corporeal Weave allows you to swap forms between your body and head forms.
+- Intestinal Whip hops into your M1 slot when you transform into head form. It counts as M2 (special attack) and slightly ignores obstructions allowing you to slide off them.
+Hitting healthy and not Leeched survivors with this ability applies 1/3 Leeched on them. Hitting survivors who are fully Leeched 1 hurts them, putting them into injured state. Hitting Leeched and injured survivors gets them down.
+- Headlong Flight allows you to get close to the floor and move really fast. You also can bodyblock windows and pallets with ease in this mode.
+- Glowing Fungi spawn at the start of the trial. Leeched survivors can eat Glowing Fungi to cleanse. Every time you use Corporeal Weave you spawn one shroom near your body and every time one is eaten, another spawns after 90 seconds.
+2. Advanced informations
+Every single ability in this game has numbers attached to it and I will talk about them here.
+1. Regurgitate Stats
+- winding up your regurgitate takes 0.33 seconds
+- when you click attack button while regurgitate is fully charged it takes 0.33 seconds to throw leeching gland
+- cooldown after spewing your gland and cancelling it is the same – 1.3 seconds
+- regurgitate has a recharge time that takes 2.5 seconds
+2. Glands Stats
+- when shooting leeching glands with regurgitate their starting speed is 29 m/s (a little faster than unknowns projectile)
+- when shooting at environment it has a 0.11 metres radius
+- when shooting at survivors it has a 0.17 metres radius, it makes hitting survivors easier (remember they can run tho!)
+- when gland hits environment it splits into a cone with 25 degrees radius in which 4 smaller glands (visually there are more, but only 4 actually hit survivors) try to auto-aim into closest survivor with 7 metres of detection radius and speed of 10 m/s, they also have a 0.05 smaller radius than normal glands making it 0.12 metres of survivor hit detection
+3. Headlong Flight
+- it has 12 charges, every 1 second of flight uses 1 charge making it 12 seconds total. Its recharge rate is 0.4 charge per second making it 30 seconds recharge time total.
+- after starting your flight it takes 2 seconds to get to 7.0 m/s speed (maximum speed)
+- you need at least 25% charge (3 seconds) of headlong flight to start flying
+- you can exit your flight after 1 second of flying and it takes 1.35 seconds of being slowed to 3.7 m/s to be able to use other abilities again
+4. Glowing Fungi
+- at the start of the trial 5 of them spawn with maximum of 6 on the map, when survivor eats one, another will spawn after 90 seconds
+- eating fungus takes 3 seconds and slows survivors to 2.832 m/s, after eating interaction it takes 20 seconds to get rid of fully leeched 1 status (40 seconds from full leech 2)
+5. Intestinal Whip
+- it takes 0.3 seconds, of wind-up during which you can’t hit survivors, after that you enter 0.7 seconds duration during which leeched survivors take damage from you
+- first 0.32 seconds of the whole attack duration allows you to slide of off environment, it lets you wind-up your attack a little faster and hit survivor around the loops
+- missed whip cooldown is 3 seconds and hit cooldown is 3.2 seconds
+6. Corporeal Weave
+- cooldown at the start of the match is 5 seconds
+- cooldown after using the ability is 3.5 second
+- transforming from body to head takes 1.3 seconds and reverse takes 2.2 seconds
+- transformation to head slows you down to 3.68 m/s, and transformation from head to body slows you down to 1.15 m/s
+1. Broken Tiara makes survivors oblivious when they are under the glowing fungus effect. This add-on is pretty okay, allowing you to sometimes catch survivors by surprise. It really shines when combined with Pig’s Eye or Defective Metronome.
+2. First Libretto makes you use your headlong flight’s charges 30% slower for 15 seconds after hooking leeched survivor. It’s by far her best brown add-on making her really mobile when she needs it the most. Her flight is already really good and picking Libretto plays into her strength pretty well allowing you to cut off survivors from loops more efficiently.
+3. Luckless Mouse increases headlong flights charges by 2. It allows you to fly for 2 seconds longer making it max 14, really cheap and efficient add-on. You can slap it on any build!
+4. Sticky Lozenge displays a dynamic line showing the trajectory of your leeching gland projectile. It’s just useless and you will be
+a better Krasue if you learn how to shoot with regurgitate without Lozenge.
+5. Chunk of Malai decreases cleansing rate by 8% for each leeched survivor. This add-on is nothing special, you usually won’t have more than 2 survivors affected and 8-16% is just not worth it.
+It goes pretty good with Chicken Head
+or Queen’s Scepter tho.
+6. Crumpled Sheet Music restores 12 seconds of your headlong flight when you hit survivor with leeching gland. This effect is pretty ok but you won’t use it often. I sometimes pair it with Luckless Mouse or First Libretto. It also works with glands shot by Queen’s Scepter so you can restore your flight in head mode when survivors are trying to tank hits!
+7. Defective Metronome makes survivors exhausted when they are under the glowing fungus effect. It’s your typical exhaustion add-on, sitting comfortably with Broken Tiara or Chicken Head
+as decent combos.
+8. Pig’s Eye is a great add-on showing you auras of survivors who eat glowing fungi for 6 seconds when they are at least 40 meters away from you. It’s great, you can use it with Chicken Head as a lethal pursuer or with Queen’s Scepter to see people who tried to take hits earlier.
+9. Wriggling Parasite makes survivors go into leeched 2 16% faster. It changes the leech timer from 60 seconds to 50.4. Honestly? That’s great,
+I love this effect. It also allows you to play headless Krasue – really fun but weaker and challenging playstyle. It also goes great with Chicken Head
+(as usual) and Lorenza’s Remains.
+10. Dulled Knife makes your headlong flight last
+3 seconds longer but gives survivors 10% haste, hides their pools of blood, scratch marks, grunts and aura for 5 seconds after eating a shroom and remember – survivors can see when they get these buffs. It’s bad, you have 4 way better options like Janjira’s Hand or First Libretto. It’s too much risk to pick.
+11. Framed Newspaper is amazing, increases your flight for 6 seconds and it’s recharge rate for 15% for almost no downside – while activating your flight it needs to be at least 50% recharged. It’s great with other flight add-ons or aura reading perks and it is a blue add-on! Not red or purple! Just get your 6 free seconds of flight!
+12. Janjira’s Hand is a late game – stacking add-on. For every completed generator you permanently get 2 seconds of flight and 15 seconds of 25% recharge rate for your flight.
+When survivors complete their last gen your power recharges instantly and 25% recharge is permanent. I am a huge fan of this add-on, it enables all kinds of late game builds!
+13. Spattered Handkerchief is my favorite add-on. Just like Janjira’s Hand it enables your late game potential that Krasue uses perfectly, leeching all survivors, rotting all glowing fungi and your corporeal weave no longer spawns new shrooms on the ground once all gens are done. 4 stacks of no way out or remember me and you are set to go!
+14. Theatre Binoculars shows you auras of survivors within 24 metres of you when you hit your intestinal whip on a survivor who is not leeched. It’s disgustingly bad. You get a huge cooldown and 1/3 of leech progress to see others around you for 5 seconds. We are not talking about binoculars in this household…
+15. Lorenza’s Remains is powering up your leeched to insane level. When survivor has leeched 1 they gain blindness, it stops all kinds of perks like kindred, windows of opportunity, five moves ahead, bond. It also has a second effect – applying 4% hindered on leeched 2 survivors. You can duo it with any other leeched effect add-on and you will be happy with the effects!
+16. Mysterious Elixir is a weird one. It allows you to hit a window with leeching glands making it marked, when you vault that marked window it blocks for 10 seconds. Very strong effect, making this add-on a worse bamboozle while forcing you to use your human form more. In my opinion it’s too much work for a 10 seconds block. I use it in headless Krasue playstyle tho.
+17. Queen’s Scepter makes hitting survivors with intestinal whip resulting in a spatter of glands around them. It’s a great tool against altruistic survivors trying to take hits for others and punishing them for it. It won’t do well in every game but is super useful against survivor friends!
+18. Rotten Swine is another weird one. If you hit your gland on any breakable object (walls, gens, pallets) you kick it 15% faster. Look at this like a little brutal strength. It's the third add-on that allows us to play headless Krasue .
+19. Shredded Gown shows you auras of all survivors who hold or stay in a 8 metre radius around glowing fungi for 5 seconds. It’s a great effect comboing good with Queen’s Scepter or Chicken head. It encourages you to swap forms to keep your shrooms up and makes you think about where you want your shrooms to be. It’s a really complex add-on with huge possibilities that makes map knowledge even more advantageous for you. You still need to remember that placing fungi will not make you win everything, survivors will eat them as fast as possible or pick them up really fast if they notice aura reading effect with their game knowledge or perks like object of obsession, distortion or we see you.
+20. Chicken Head is Krasues best add-on, leeching every survivor from the start and spawning 2 more shrooms at the start of the trial. It goes well with every add-on and makes Krasue an early game beast and possibly getting you a down or two literally seconds into the game. It fits with almost every build and playstyle this character has to offer and that’s why I don't like it at all. Why would I pick Queen’s Scepter, Wriggling Parasite, Mysterious Elixir or any other add-on when I can slap Chicken Head and call it a day. It’s a really strong but also really lazy design for iri/visceral add-on.
+There’s a visible love-hate relationship between me and this chicken.
+3. 2. Add-on combos
+Some of my most used add-on combos!
+1. Lorenza’s Remains and Chicken Head.
+Survivors from the start of the trial are leeched, blind and – if not eating fungi – hindered. This combo allows you to take one or two fast downs at the start making an opening for a tunnel or fast four stacks on Grim Embrace or No Way Out letting you snowball and dominate pretty easily.
+2. Janjira’s Hand and Spattered Handkerchief.
+Makes Krasue a true endgame monster, combined with some endgame perks lets you down survivors really effectively and snowball uncontrollably fast.
+3. Wriggling Parasite, Mysterious Elixir, Lorenza’s Remains and Rotten Swine.
+Any combo of these perks enables you to play headless Krasue , survivors are constantly injured. I love using Lorenza’s Remains to apply blindness and 4% slow effect
+4. Chicken Head and Chunk of Malai.
+I had matches in which I’ve got 3 downs at the start because survivors couldn’t get rid of leeched fast enough.
+5. Luckless Mouse and First Libretto.
+Really solid tool for map traversal consisting of two brown add-ons making it a really affordable great combo.
+3. 3. Add-on tier list
+S – Gamechanging, allowing Krasue to dominate a lot
+A – Making a difference, upgrading her strong sides
+B – Pretty good, not changing a lot but not bad tho
+C – little gimmicks you won’t use or notice often
+F – Don’t pick them please xDD
+4. Everything about perks
+There’s way too many perks for me to talk about every single one, for now I’ll just talk about overall best and my favorites on Krasue ! (Not in any order, they are just great and fun)
+1. Dissolution is arguably her best perk, allowing her to destroy pallets without swapping back to human form. It’s a noob stomper and makes good survivors think more during chases.
+2. Bamboozle blocks windows even while you are in head form disabling a lot of good structures like killer shack, 4walls or T-Ls.
+3. Eruption is a classic gen-kick perk, it’s high cuz it works on gen when kicked in head form.
+4. Friends ‘Till The End lets you locate and fly to your obsession, maybe even instadowning them when they are not careful enough.
+5. Grim Embrace blocks gens when you move away from hook, Krasue is really fast getting 100% value from grim and getting bonus points if obsession wasn’t the last stack.
+6. Hex: Hivemind is just a great perk pairing great with how mobile she is.
+7. Scourge Hook: Pain Resonance ... Do I even need to say anything?
+8. Mindbreaker is super useful, Krasue hates exhaustion perks with a passion, they delay your gland hits and sometimes even force you to swap into head form just to gain distance.
+9. Sloppy Butcher – there will be a lot of M1 hits after you use regurgitate, it doesn't matter if you hit or miss – M1 is always a great way to injure survivors.
+10. Forced Penance stops a lot of bodyblocks and allows you to play into tunnels more consistently.
+11. Rapid Brutality is in the same spot as a sloppy butcher, M1 hits are a part of Krasue and moving at 125% speed as head lets you end chases faster if you hit a survivor with a gland before M1.
+1 2. Enduring , Krasue in head form gets pallet stunned for 2.5 seconds instead of 2 like a normal killer. Enduring makes it 1.25 second instead making it easier to go for riskier hits.
+13. Pop Goes The Weasel is generically good and it’s great on Krasue too.
+14. Turn Back The Clock paired with her mobility makes her a gen regressing machine.
+15. Hex: Plaything hides heads, big 40 metres terror radius allowing her to fly really close to survivors with headlong flight.
+16. Hex: Blood Favor eliminates her biggest enemies – pellets, as long as it’s standing.
+4. 2. Builds
+1. My personal winstreak build (72 wins in a row)
+Scourge hook: pain res , dead man’s switch , enduring and f orced penance with chicken head and first libretto .
+It allows you to control most progressed generator with pain res, DMS and first libretto, lets you swing more freely around pallets with enduring and stops survivors taking hits for longer thanks to forced penance. It enables early aggressive-slugging playstyle due to the chicken head effect.
+2. Endgame build
+No way out , remember me , NOED and hex: hive mind paired with janjira’s hand and spattered handkerchief . Hive mind helps with early game patrolling gens and exploding last gens if it survives to endgame. No way out and remember me are here to make sure you get full value from your add-ons and NOED is here because not a single person expects this hex on Krasue. Janjira’s hand also gives you more flight charges during the trial.
+3. Hex build
+Ruin , thrill of the hunt , undying and blood favor / pentimento with shredded gown and pig’s eye . Classic hex build being similar to Demogorgons old guard whistle build. Thanks to your add-ons, you can see survivors cleansing your totems after placing fungi near them by transforming from body into head form. Sadly this build is not the best but surely can be fun for Krasue enjoyer like me!
+4. Gen control build
+Scourge hooks: pain res and jagged compass , eruption and pop paired with janjira’s hand and luckless mouse . Fast gen controlling build perfect for maps like dead dawg saloon where you want to give main building gen away. You want to establish your 3gen really fast and play around it, the more gens they do the more oppressive you become thanks to janjira’s hand and eruption, jagged compass helps you with creating one or two scourge hooks for pain res near your three gen!
+5. Headless Krasue
+Corrupt intervention , surge , sloppy butcher and brutal strength combined with lorenza’s remains and mysterious elixir make you a plague-like killer. Due to corrupt being in play you can start leeching survivors and wasting shrooms, after some time there will be like one shroom every 90 seconds for four survivors who are hindered and blind. Mysterious elixir working as bamboozle will keep them away from shack or window-favoring loops. It's a really fun build but it’s hard to execute although very rewarding when succeeded and done right!
+4. 3. Is she worth buying
+Krasue is really strong but her perks are a little gimmicky and not fitting into current meta at all, however, I still find them really fun. I’ll show you her perks and some cool builds with them!
+1. Ravenous - The first time you hook each survivor, you earn 1 token. When you have 4 tokens, all survivors scream and become exposed for 60 seconds. Not the best, not the worst, I’m pretty sad that it’s a one time thing and doesn’t reward you with something after every hook like grim embrace.
+2. Wandering Eye - Whenever you start chasing a survivor, for the next 5 seconds, you see the auras of all other injured survivors within 20 metres. It has a 30 seconds cooldown. Wandering eye is a chase-aura wannabe perk combo trying to do everything but results in doing nothing. Really wasted potential in my opinion.
+3. Hex: Overture of Doom - When the trial starts, a dull totem ignites and hexes the furthest generator from it. After s survivor repairs the hexed generator for 5 seconds you gain undetectable for 30 seconds and your terror radius is set to the hexed generator. When this generator gets repaired then the next farthest one gets hexed. It’s pretty fun but survivors know that it’s in play after fixing gen for 5 seconds and they will pay more attention to their surroundings.
+I think that Krasue is totally not worth buying if you only want her perks, they are lackluster, non-meta perks with niche uses here and there. I’ll suggest some builds with them!
+- No way out , Ravenous , grim embrace , pain resonance combined with a spattered handkerchief and framed newspaper makes a beautiful stacking build allowing you to play into mid game with blocking gens, making survivors exposed and showing you obsessions aura during them being exposed. You need to be careful because you have a really limited gen regression with a little ace up your sleeve in the form of blocking gates.
+- Hexes: overture of doom and face the darkness , pop goes the weasel and dying light / cull the weak paired with shredded gown and first libretto is a heavy obsession centered build, your good mobility allows you to leave your obsession alone triggering your undetectable and find other survivors really fast. Pop is here to keep hexed gen as long as you can.
+- Lethal pursuer , wandering eye , forced penance and surge with chicken head and chunk of malai is an early game, hit and run build with a mid game protection in form of small gen regression and option to punish overprotective survivors.
+- Ravenous , deadlock / no holds barred , sloppy butcher and deerstalker with first libretto and luckless mouse is just a generally good build made from free perks adding everything into the mix - gen blocking, slowing heals, showing aura and exposing. It teaches that M1ing is a part of Krasue and it’s ok to M1. Free perks and brown add-ons make for a great starter build for new players who - for whatever reason (probably her great visuals) - want to play Krasue.
+6. How to counter Krasue
+1. Teamplay
+Krasues biggest enemy is teamplay, survivor friends and playing in pairs instead of solo. When one survivor is in chase another should hide and help after leech and first hit in head form happens, it will force Krasue to transform slowly into her body form, hit you with regurgitate and transform back. Do NOT eat shrooms in chase unless you are Knightlight, Zaka or Ayrun – if you are not one of them, you won’t last slowly eating the shroom and being 20 seconds in chase without being hit. Keep the fungus in your hand and eat it when another survivor is here to take hits so you can take turns in defending each other.
+I know that’s easier said than done but it is the way to play around it.
+2. Structures
+Next thing are structures like shack or main buildings with strong pallets. Krasues head form takes 2.5 second stun from pallet stuns (check killers ping) so you should try to go for stuns if you are confident enough or predrop and force her to transform into human, kick pallet and use this time to run away. Using loops with weird edges like tree logs on swamp or desks with meaty goo on Midwich can make her thump into them during intestinal whip attacks making her go into 3 seconds cooldown.
+3. Exhasution perks
+Krasue while being really strong suffers a lot from exhaustion perks. She is not like blight, nurse or spirit and will just hit you 3 seconds after your sprint burst away. She needs to chase you in body form to leech you, so prerunning and making big distances is a really good strategy.
+4. Do not camp pallets
+A lot of players camp pallets before they get hit with gland making them an easy target for her. People camping pallets sometimes forget that her glands bounce off of vertical terrain and objects (YES! It bounces when you spew it on a pallet too!) and give Krasue a free drop and kick after they get infected. Giving her a free pallet kick when she is in her body form is one of the worst things you can do.
+5. Any means necessary and distortion
+One of the best perks you can bring against Krasue is any means necessary, she will often fly above dropped pallets leaving them for you to pick up later. Stunning Krasue is really valuable and can gain you a big distance in chase so recycling used pallets makes a huge difference! Krasue players love aura reading in the form of Pig’s Eye or Shredded Gown, bringing distortion can let you know about one of these add-ons and change your playstyle into more cautious. Perks like we see you, self-preservation or object of obsession/bound by obsession are also great but distortion is the best in my opinion!
+Reworking an already existing and well established character is one of the hardest things you could do in a game. Even for a person like me, who went to school with character design classes and has some knowledge in this field.
+1. Power changes
+Krasue has a really simple power system that feels overcomplicated with fancy names and two different forms with different sets of stats making her look hard to play. For her to be more satisfying and less clunky to play I had to think about changing her power while keeping her identity the same. First of all, her regurgitate and leeching glands need a nerf to make it a more meaningful mechanic rather than a messy, monotonous thing. We will make her regurgitate have a longer cooldown but slow her less while charging and holding it. Hitting a survivor with a leeching gland no longer fully leeches them but rather starts leeching progression while slightly buffing and changing her heads terror radius for every leeched survivor. Small glands from regurgitate hitting terrain are also being changed. Head form can’t start leeching progression anymore and gains a new ability to short lunge on top of her normal lunge, I’ll also adjust her headlong flight a little to not be such an oppressive ability. Glowing fungi are also going to be reworked so there won’t be situations in which four clean survivors can hold four shrooms.
+2. Power numbers changes
+Changing how her power works has to go in pair with number changes. Here I’ll show you how I’d see her rework with details.
+- Regurgitate wind-up duration stays the same at 0.33 seconds but throwing time will be shortened from 0.33 to 0.2 seconds to make it more smooth. Krauses movement speed during wind-up will be changed from 3.8 m/s to 4.4 m/s but shooting and cancelation cooldowns will be changed from 1.3 to 1.5 seconds forcing Krasue to be more precise while making her feel less sluggish. I will also change regurgitates recharge time to be 4.5 seconds but I have a good reason for that!
+- Leeching Glands won’t fill up survivors leech meter to 100% but to 50% instead. Hitting survivors with a second gland will make the meter go up another 50% making them Leeched 1. For every survivor afflicted with any form of leeched , she will gain 0.75 second reduction on her regurgitate recharge time and will make head forms terror radius 2 metres smaller and give it 1.25% haste. It will make leeching survivors more rewarding and meaningful.
+- Small Glands are glands that are created by shooting terrain with your regurgitate. Their number is being reduced from 4 to 3 and there will be a visual change to actually show 3 glands flying and 3 blood stains on the floor. Every small gland that hits a survivor gives them 34% progress in leech meter.
+- Leech Meter still has 2 levels and charges are capped at 100 stacks per level so no changes here. Time to charge the leech meter fully will be reduced from 60 to 40 seconds with a rate of 2.5 c/s. Hooking survivors no longer removes leeched status from them but changes it to 1 stack (just like Weskers worms) making glowing fungi a more important resource. Interacting with leeched survivors directly (unhooking, healing or being healed by them and mending or being mended) will spread leeched status onto you. I am still thinking if spreading would be a good thing tho, I wouldn’t want to make her unbearable for survivors again…
+- Glowing Fungi spawn rate will be reduced from 90 to 70 seconds but timer goes down only when at least one survivor is leeched. The number of shrooms at the start of the trial is lowered from 5 to 2 and the maximum amount that can be spawned in one match is changed from 6 to 8. Eating fungus action forces survivors into walking (2.26 m/s), takes 3 seconds and gives Krasue 1.5 seconds of killer instinct. After finishing eating the fungi, survivors get cleansed from leeched status within 15 seconds resulting in 6.67 c/s depletion time and their aura can’t be revealed for 5 seconds. Fungi also can be eaten only when survivors are leeched 1 or higher.
+- Corporeal Weave initial cool-down (start of the trial) is still 5 seconds but the normal cool-down is changed to 5 from 3.5 seconds. transformation times are left unchanged. Body-to-head transformation spawns a fungus directly on the body from now on.
+- Head Form has its terror radius changed to 38 metres and speed nerfed to 4.6 m/s to make regurgitate and leeched status changes noticeable and reward players for leeching more! Head forms hitbox will be changed to a little bit smaller too, allowing good Krasue players to be more precise with bodyblocking.
+- Headlong Flight maximum charges are nerfed from 12 to 10, usage and recharge rate stay the same. Full flight speed is changed from 175% to 160% and time required to reach its maximum speed is changed from 2 seconds to 1 second.
+- Intestinal Whip Lunge is Krasues normal attack while in head mode, you have to hold the LMB. The only changes I made is that from now on, while she charges her lunge there’s no longer a vertical camera lock and that she can only hit survivors who are fully affected by leeched 1 or above.
+- Intestinal Whip Short Attack (NEW) is a shorter version of her current attack, acting a little like a short swing, you have to click LMB. I’m still figuring out numbers for this one, it’s a little tricky to be honest and adding it is a good way to make her feel less clunky to play.
+3. Add-on changes
+Some add-ons will need a change and some will stay practically the same.
+- Broken Tiara gets an additional effect of making survivors oblivious when they are in leeched 2.
+- First Libretto stays the same, no need to change it.
+- Luckless Mouse doesn’t need changes either.
+- Sticky Lozenge gets a full rework. Instead of the current useless effect it adds 1 additional small gland after hitting her regurgitate on any surface and gives her a 100% BP bonus in the deviousness category for every small gland that hits survivors.
+- Chunk Of Malai for every leeched survivor, there’s a 3.75 second penalty to cleansing with fungi. Making it 30 seconds instead of 15 when all 4 survivors are leeched.
+- Crumpled Sheet Music gives you 10 charges instead of 12.
+- Defective Metronome gets an additional effect of making survivors exhausted when they are in leeched 2.
+- Pig’s Eye now shows auras of survivors who eat fungi for 4 seconds but only when they are outside of your terror radius.
+- Wriggling Parasite will swap from 16% to 12%, that’s literally it.
+- Dulled Knife is awful and needs a rework. It still gives survivors the same buffs (5% haste and elusive for 5 seconds) but now it reduces maximum fungi amount in the trial to 4, makes eating them 2 seconds longer and forces survivors to stand in place to consume them. On top of all of that it makes survivors scream while picking up fungi.
+- Framed Newspaper stay the same.
+- Janjira’s Hand also won’t change
+- Spattered Handkerchief will have an additional effect of spawning 2 more shrooms at the start of the trial.
+- Theatre Binoculars now makes Krasue see her own fungi in the trial and allows her to see the aura of least chased survivor for 3 seconds after using all of her headlong flight charges.
+- Lorenza’s Remains will stay the same.
+- Mysterious Elixir gets all of its effects removed and swapped with a new one. Picking a glowing fungus while healthy and not infected makes survivors start gaining infection, it also makes time to get fully leeched 5 seconds longer. It’s a simple but effective change in my opinion.
+- Queen’s Scepter is getting a small buff, making regurgitate also spatter leeching glands out of survivors in the same way as hitting them with intestinal whip does.
+- Rotten Swine adds an additional stack to her regurgitate but decreases small glands amount by 2 and makes the cooldown longer by 1 second.
+- Shredded Gown stays the same.
+- Chicken Head makes all survivors start the trial leeched and makes leech meter fill up 25% slower. Glowing fungi won’t start spawning until survivors get to leeched 1. Putting any survivor into a dying state will reset the leech meter of all survivors back to 1 charge and will destroy all glowing fungi in the trial. Survivors afflicted by any kind of leeched status will suffer from a 15% slower speed to healing, cleansing, blessing, opening chests, sabotaging hooks, opening exit gates and opening hatch. When any survivor dies, all other survivors get cleansed from leeched status and gain a 10% bonus to all these things until leeched again.
+I’ve asked some streamers about their opinion on Krasue to get a different look at her from a perspective of someone who plays the game more than me. A lot of people said that they don’t play against her much and have nothing crazy to say , I’ve even got some messages from their viewers and in their chats were telling me that they haven't seen her since Behaviour nerfed her! There are some of the best opinions I’ve got (Yes, I asked for permission haha!):
+Hens333 said: „Krasue is very clunky, doesn’t feel satisfying to play. Feels like I should hit everything, I’m not satisfied when I hit something, I am dissatisfied if I missed which means I would never play killer to be honest. I’m rusty on her, I would get angry and I don’t feel satisfaction if I hit anything because, like, everything should be free.”
+Mocieek said: „Krasue? I like her animations for sure, they are beautiful but her gameplay? I like her head form and moving with her head, I really like that speed […] I don’t like pallet vaulting in head form for sure, survivors have a really easy way to outplay that if you are in head form and try to vault a pallet in a shorter loop. Hits with her head form are really satisfying but I think that her hitboxes are slightly not fair for survivors, sometimes it hits through pallets. Generally I think that Krasue is a really strong character and she is really underrated, one of the most underrated characters, people don’t like her cuz she got slight nerfs but she is still really strong.”
+Oddrey said: „I’m trying to think, like, I never see Krasue… I think she’s a little map dependent, I think dissolution is still one of her strongest perks. I don’t know what I think about Krasue! I never see her so when I finally do get her, I’m like „How do I even go against this killer?” because I never see her! […] I don’t even know man, I wish I… I don’t wish I got her more but in a way I wish I did, just so, like, I constantly could remember to do this, do that, do this… but every time I get her it feels like the first time since nobody really plays her on the West Coast.”
+Nytonovz said: „I think they did an amazing job, she looks gorgeous by the way, she is scary, like she was meant to be in DbD, I feel like she’s in a good state right now. I don’t feel like she’s too strong and people know that she can be really strong in good hands and apparently she has the most kill rate in high mmr so she is strong. The thing that I’m a bit disappointed in is that people don’t play her and I don’t feel like she’s that hard to play! […] She was released too strong in my opinion, you couldn’t really counterplay her. But since the nerfs, I think she’s in a good spot right now and I hope that they will give her attention, give her cosmetics cuz she deserves more attention honestly. I hope that people will start playing her cuz she is really fun to play and go against, one of my favorite killers to go against by the way!”
+ZubatLEL said: „She looks cool. The thing I hate most about her tho is the third person camera.”
+Another person in chat asked: „What about the broken status effect?”
+ZubatLEL answered: „I mean it doesn’t really matter much. Like, sure, it is annoying but if you are getting to a point where you’re getting injured for free cuz she’s taking so long to hit you in head form you probably won the game.”
+Always_a_failure_ said: “Krasue is without a doubt a very underrated killer, she’s super underestimated! Never sleep on a good Krasue! I’m not gonna lie, I am pretty scared of good Krasue players . That’s what I like about her - she is a very good killer. I think overreacted with her nerfs that she received when she first released. Secondly, what I don’t like about her… there is not really much to hate about her. The only thing I don’t like is that she doesn’t really receive much love anymore, that’s it!”
+Spitzz said: “So, what I think about Krasue? I think that Krasue is a really, really well designed killer, the micro gameplay that you have to help your teammates, that you can’t really rely only on good pallets or good loops is really niche and good design. The problem here is tho, you need to have a good knowledge, you need to study the killer. It’s kinda like going to university - there is not only yourself but your whole team and that’s where the entire problem is. The killer is like the most toxic and worst designed killer in the game if you play against solo players or duo players or three-man one weakling, therefore, if the killer is going against a four-man, that knows the killer and studied the killer - it’s a really fair matchup. [...] Krasue is the killer like Twins that should be allowed only in custom games because Krasue against solo players, especially against casual solo players is like manslaughter, like it’s illegal bro, like a really hard watch.”
+Everyone has a different opinion about Krasue but there are thing that almost 100% of people I asked are agreeing on:
+- She is really clunky, playing her doesn’t feel satisfying at all and she can hit some bullshit hits while also missing a lot of basic ones due to her clunkiness.
+- She has a really good and beautiful design! She’s scary, cool and has great sound design! People say that she should get more love and cosmetics!
+- She doesn’t feel rewarding to play at all, you either completely dominate or get dominated so it feels like there’s no learning curve to her.
+- A lot of players don’t even know how to play against her or what she really does and they will never learn because Krasue is never picked in their games!
+- She destroys solo teams but feels really balanced against SWF, she may even struggle in some cases where teams are really coordinated and have good comms.

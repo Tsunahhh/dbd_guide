@@ -1,0 +1,527 @@
+Titre : The Dredge Guide by kmd
+Auteur : kmd
+URL : https://docs.google.com/document/d/1oVp9Rz-7Vi_252ufpAaTPFy-5YcvCkSi9l5rMZNJ82k/edit
+Publication / mise à jour : changelog interne jusqu'à 9.6.0 au moins
+Consulté le : 28/09/2026 (curl, Google Docs /mobilebasic ou équivalent ; texte extrait, images non incluses)
+Trouvé via : https://otzdarva.com/dbd/killer-guides
+Statut : EXPERT OPINION (guide de joueur tueur), pas une source primaire
+----------------------------------------------------------------
+The Dredge Guide by kmd
+The Dredge Guide by kmd
+THE FOLD INITIATION
+The definitive guide to the Druanee, better known as The Dredge.
+Written by kmd .
+Guide visuals and composition inspired by TheMrHeadache . Help with visuals from persu and Okiezeme .
+If there is a question that you need to ask me, or I missed something, reach out on Twitch or Twitter . You can also send in a Match Review for feedback by going here . This document is best viewed on PC.
+"Expel malthought from your mind, from your heart, from your mouth, to prevent the darkness from corrupting your truth.
+For to let darkness find seed in your soul is to invite The Druanee ." — Otto Stamper
+Use this quote as a tip from me before we begin. The Dredge is HARD, like, really hard. Do not let your opinion cover the objective truth, I had this happen to me once. This Killer will consume you if you choose to feed the obsession on its shortcomings. Do your best, and if stuff doesn’t go well, just say “oh well” and go next.
+Let’s begin the initiation process.
+This guide now has a video adaptation.
+https://youtu.be/rzADfqRjdxg
+# INDEX
+CHAPTER 1: TERMINOLOGY        4
+CHAPTER 2: THE REMNANT        8
+PART 1: BASICS        8
+PART 2: PEEKING AND 50/50S        10
+PART 3: THE ART OF PREDICTION        14
+PART 4: TEMPORARY REMNANTS        16
+PART 5: TRAP REMNANTS        18
+PART 6: EXTRA NOTES        19
+CHAPTER 3: TELEPORTATION        21
+PART 1: BASICS        21
+PART 2: LATCHES AND LOCKER PRIORITY        23
+PART 3: MELEE TELEPORTATION        24
+PART 4: FAKING        25
+CHAPTER 4: NIGHTFALL        26
+PART 1: BASICS        26
+PART 2: OPTIMIZING NIGHTFALL GAIN        26
+PART 3: KILLER INSTINCT        27
+CHAPTER 5: MACRO AND PLAYSTYLE        28
+CHAPTER 6: TRIVIA AND KNOWN BUGS        31
+SECTION A: TRIVIA        31
+SECTION B: KNOWN BUGS        31
+CHAPTER 7: PERKS, ADD-ONS, BUILDS        32
+PART 1: PERKS        32
+PERK TIER LIST        32
+STEALTH PERKS        33
+STUN PERKS        33
+TERROR RADIUS PERKS        33
+LOCKER PERKS        33
+PART 2: ADD-ONS        34
+ADD-ON TIER LIST        34
+PART 3: BUILDS        42
+ALL-ROUNDED BUILDS:        42
+GUIDE WRITER’S CHOICE        43
+ENDGAME        48
+NA-OCE        51
+SLOWDOWN HEX        55
+SCOURGE        58
+GENERAL PERK/BEGINNER        62
+GIMMICK/FUN BUILDS:        65
+HIT N’ RUN        65
+OVEREXPOSURE        67
+RABID ELDRITCH HORROR THAT MAULS PEOPLE        71
+INFINITE STACKS        74
+I SEE ALL        76
+CHAPTER 8: SKINS        79
+BEST SKINS        79
+GOOD SKINS        81
+MEDIOCRE SKINS        84
+BAD SKINS        87
+CHAPTER 9: MAPS AND COUNTERPLAY        88
+PART 1: MAPS        88
+PART 2: COUNTERPLAY        89
+# CHAPTER 1: TERMINOLOGY
+These are the terms I will be using when referring to specific parts of The Dredge’s kit :
+- REIGN OF DARKNESS:
+- is the Killer Power of The Dredge.
+- THE GLOAMING:
+- is the state in which you are charging your power. It’s activated by holding down the Power button. After charging it for 0.5 seconds, the Gloaming allows you to access THE REMNANT and TELEPORTATION, revealing the aura of all Lockers on the map. We are going to call this state PRIMED . Your movement speed while charging is 4 m/s, the basekit cool-down is 10 seconds, which goes off after you teleport to the Remnant or exit a Locker. It’s essentially the gateway to your entire kit. That’s all you need to know about it, that’s why it’s not getting its own section. Both of your abilities have input buffering, which allows very quick actions.
+- THE REMNANT:
+- is your first power and your chase tool. 0.25 seconds after pressing down the Power button, your Remnant will be fully placed down in the place you started charging the Gloaming in. When the Gloaming is primed, meaning the Remnant and Teleportation are available to use, pressing down the Attack button will cause you to return to the place the Remnant was placed in. Survivors can destroy the Remnant by touching it with their hitbox in any way (so for example, dropping down on it from a hill also destroys it).
+- TELEPORTATION:
+- is your second power and your mobility tool. You start the Trial with 3 Teleportation Tokens. Whenever the Gloaming is primed, pressing the Secondary Power button when hovering over a Locker will cause you to lose control of The Dredge, traversing to the selected Locker at 19 m/s, consuming a token. Pressing the button again while hovering over a different Locker will teleport you to that Locker, consuming another token. Pressing the Interaction button will cause you to exit the Locker you are in, putting Reign of Darkness on cool-down. Pressing the Secondary Power button while in front of a Locker without charging the Gloaming will cause you to enter it without consuming a token.
+- LATCHES/LOCKS:
+- are the direct, built in counterplay to Teleportation. Survivors can use latches to lock down Lockers. Locked Lockers take longer for The Dredge to exit from. Using a Basic Attack on a latch will break the lock.
+- DAYTIME:
+- is when you are outside of…
+- NIGHTFALL:
+- is a passive, special affliction. During Nightfall:
+- You are under the Undetectable Status Effect.
+- Your Teleportation speed is increased to 38 m/s (doubled basekit).
+- The Gloaming’s cool-down is reduced to 4 seconds (-6 seconds).
+- You gain Killer Instinct if a Survivor is within 16 meters of you after using The Gloaming.
+# CHAPTER 2: THE REMNANT
+Buckle up, I mean it .
+## PART 1: BASICS
+Okay, so. Let’s get the basics out. The Remnant is an anti-loop power based on patience, reaction time, prediction and tile denial. While using it you have to keep in mind your speed, the skill level of the Survivor (duh), the cool-down of The Gloaming and your surroundings. There has been a lot of controversy about the concept of “Remnant Logic”, so let me give you a simple mindset to start out with before we go to more in depth looping explanations:
+If I am chasing a Survivor, I will use LADS :
+- L .ook A .round to see what tiles connect to the one the Survivor is looping.
+- D .ecide which scenario is worse: Survivor holds W to tile A or tile B.
+- S .andwich the Survivor with your Remnant if they decide to stay and play the tile.
+In layman’s terms: check what's around you, place the Remnant to block off the more dangerous option, use yourself as the blocker of the second option, and secure the hit.
+IMPORTANT TIPS:
+- Whenever at a loop, don’t directly place your Remnant on a resource, rather a bit to its left or right. This will deny the Survivor the opportunity to instantly break the Remnant, and you will cover more ground, denying holding W.
+- The fundamental of playing most tiles with the Remnant is pallet control . Place it in a way that will deny them the way of escaping, using a window, or use it as a set-up for…
+## PART 2: PEEKING AND 50/50S
+Picture this:
+You are holding your Remnant in the lunge range of a pallet you are leading a Survivor towards. The standoff begins, whoever does the first action is likely going to lose the 50/50. You can increase your chances a bit by trying peeking. “Nudge” yourself into the pallet hitbox. As soon as you see the pallet drop animation begin, like for example the Survivor’s position getting centered for the animation (or if you are epic and chill like that you predict it with perfect timing) , teleport to your Remnant to claim your free hit.
+It’s surprisingly consistent against players with lower counterplay knowledge, but it gets tricky against high skill players. If you see that a perfectly executed peek doesn’t work on a Survivor. you can try:
+- Playing like an M1. Either force them off the tile, mindgame like an M1 Killer, or (not recommended) wait for the cool-down to end and use LADS.
+- Letting go of Remnant and trying to short swing . (less consistent)
+Another thing about peeking is that you can put some spins on it, for example, if the loop is one of the longer ones, when the Survivor reaches the pallet, stand still and then start walking forward. SURPRISINGLY, people fall for peeking way more often when you do that. Maybe they just think you are going to short swing? I don’t know, but it works on a lot of loops, like that one loop in the corner of Jigsaw’s Workshop on The Game.
+A major thing about playing with the Remnant is patience , if you pre-tp without thought or let them walk through your Remnant for free because you were too patient, you will find playing The Dredge very, very frustrating. A lot of things about the Remnant are case-by-case, but one of the most consistent strategies is waiting for the first juke and teleporting on the next one. HOWEVER. Time for another major point:
+If possible, do NOT use the same mindgame on the same Survivor in a row. Make sure to switch it up to make your movement unpredictable.
+They fell for peeking on their recent hit? Pre-tp to the Remnant on another tile. They fell for you teleporting after the first juke? Next time they will likely juke twice.
+And speaking of:
+What the hell is a pre-tp?
+It’s essentially teleporting BEFORE the Survivor enters your Remnant’s lunge range. That way, before they react to your teleportation, they will keep running straight into you for around a half, maybe even a full second. It’s important to mention that you need to verify how aware the Survivor is in chase before you try pre-tp. Do they look behind them during the chase? Do they get mindgamed early? Are they trigger happy with resources? Do they have a medkit for a possible Anti-Haemorrhagic Syringe play?
+I think it’s pretty obvious now that this Killer needs a lot of setup to be played consistently.
+Another thing that you should keep in mind is that, when possible, you can use your Remnant for the Survivor as bait to misposition . For example, placing the Remnant at the edge of the lunge range of the resource you are looping. When the Survivor breaks the Remnant and wants to return to the resource as they think you can be stunned, because of the change of their momentum, they will not make it to the interaction zone and you will be able to hit them. This also works in reverse if they use the resource first.
+## PART 3: THE ART OF PREDICTION
+A major part of learning several Killers in DBD is predicting the movement of the Survivor. It mostly comes with time and experience, so I cannot exactly tell you how to predict 100% of the time, because it’s case by case with who you are facing.
+HOWEVER , there are some techniques and loadout options that will help you learn how to predict.
+So first off, to predict properly, you need to know the basics of M1 mind games. Hiding red stain, double back baits, moonwalking, etc.
+A common pattern I see in my matches is that if I peek my red stain around a corner, it changes the direction the Survivor goes. If you are, for example, on a TnL tile, place your Remnant on the non-window side of the L wall, and start encircling the Survivor. Peek your red stain, and most of the time (depending on your MMR and the Survivor skill), you will gain a hit. Alternatively, you can let go of Remnant whenever they double back, thinking you will teleport to it.
+As for the loadouts, here are some example perks and add-ons that will help you with learning how Survivors react to you placing down Remnant on tall loops:
+FOLLOWER’S COWL
+Returning to the Remnant triggers Killer Instinct during Daytime.
+Helps a lot with reaction time, lowers confusion from the camera and position change.
+I’M ALL EARS
+Whenever a Survivor performs a Rushed Vault action within 48 meters of your location, the Aura of the Survivor is revealed to you for 8 seconds. I'm All Ears has a cool-down of 60/45/30 seconds.
+PREDATOR
+Whenever you lose a Survivor in a Chase, their Aura is revealed to you for 4 seconds. Predator has a cool-down of 60/50/40 seconds.
+THWACK!
+Start the Trial with 3 Tokens. Whenever you break a Breakable Wall or a dropped Pallet, THWACK! consumes -1 Token and causes all Survivors within 32 meters of your location to scream and reveal their Aura for 4/5/6 seconds. Whenever you hook a Survivor, THWACK! is granted +1 Token.
+ZANSHIN TACTICS
+The Auras of Pallets and Windows are revealed to you within 32 meters. Whenever a Survivor drops a Pallet, their Aura is revealed to you for 3/4/5 seconds.
+## PART 4: TEMPORARY REMNANTS
+Fun fact: Not every Remnant you place down has to be used!
+Temporary Remnants are going to be your tool to zone Survivors into bad tiles or positions in a loop BEFORE you use the offensive Remnant. In a lot of instances it’s going to guarantee you pallet control and leave the result of the hit up to you not whiffing the lunge.
+Temp Remnants synchronize really well with LADS knowledge. Look how I prevented Yui from accessing jungle gyms.
+Here for example, I convinced Feng I’ll play the tile, predicting her W hold with a Remnant that I replaced outside her Line of Sight.
+While in closer quarters, for example, a Z wall, you can use the Remnant as a bait for a double back.
+It’s not as consistently useful, but you can attempt to fake picking up a Survivor by pressing M2 once. I didn’t know where to put it and it kinda counts as a temp Remnant.
+## PART 5: TRAP REMNANTS
+The Remnant can be used in the long term. Hiding your Remnants behind walls near hooked Survivors or important vantage points is a good macro strategy to gain some hits, or in a more competitive setting, secure a tunnel-out. This strat is infamous for its synergy with two perks:
+ | 
+DRAGON’S GRIP | MAKE YOUR CHOICE
+Performing the Damage Generator action on a Generator activates Dragon's Grip for the next 30 seconds: The first Survivor interacting with the damaged Generator will scream, revealing their location for 4 seconds, and suffer from the Exposed Status Effect for 60 seconds. Dragon's Grip has a cool-down of 60/50/40 seconds. | Whenever a Survivor is rescued from a Hook, while you are farther than 32 meters away, Make Your Choice activates: Causes the unhooking Survivor to scream and reveal their location to you. Causes them to suffer from the Exposed Status Effect for 40/50/60 seconds. Make Your Choice has a cool-down of 40/50/60 seconds.
+Keep in mind to not leave the Remnant always in the same spot, because as I said earlier, do not use the same mind game on the same Survivor in a row. Also, you know, this is mostly a gimmick. If you are playing seriously, it’s only worth it if you can get a good trade, or you are 3-genning.
+Trap Remnants can also be utilized as bait for potential pickup rescuers. Just lead them away, hide Remnant behind cover, and when they follow you back, teleport to claim your free hit.
+## PART 6: EXTRA NOTES
+- Make sure to flick your mouse when you place down the Remnant in a way that whenever you teleport, your camera will face the Survivor.
+- On tall loops, it’s helpful to use your power outside of Line of Sight.
+- Try to track the Survivor with your camera, especially through walls, using audio.
+- It’s worth it to play things safe. Securing your play by teleporting after a Survivor commits to an action that would put them in danger might waste some seconds, but sometimes, it might prevent the chase from getting extended for another 30 seconds.
+This section now has a video adaptation.
+https://youtu.be/EL91DbGEekE
+# CHAPTER 3: TELEPORTATION
+Nobody and everybody cares about this part of the power at the same time.
+## PART 1: BASICS
+The Dredge’s mobility is (on most of the maps) one of the best mobility abilities in the game. Unlimited range, kickstarts 90% of your first chases in the match, and in Nightfall, allows you to be the fastest Killer in the game, while still being surprisingly fast in Daytime. Teleportation should be used as a tool to find and engage Survivors, as well as a traversal measure to access vantage points, like Generators, Gates and the Hatch.
+Base kit, you have 3 Teleportation tokens. Most of the time, with proper game sense, you will not use all of them, but only 1 or 2, since you will most likely find a Survivor. Most common uses of 3 tokens are in endgame, whenever you are trying to find the last Survivor or the Hatch.
+Whenever the Gloaming is primed, you will see the auras of all of the lockers on the map. Pressing the Secondary Power button will begin the teleportation process. If the locker is red, it’s unlocked. If it’s yellow, it’s locked.
+Teleportation has several cues to pay attention to, but since I have an entire chapter about counterplay, I need to mention only one of them, because there is only one you can realistically and consistently mitigate: The Locker Smash. The Locker Smash occurs when the Teleportation ends, generating a crash sound inside the Locker you teleported to, giving Survivors a window to escape. Exiting the Locker ASAP by spamming the exit button will remove this window. However, I personally only do that when I am certain somebody is going to be next to that Locker, so keep that in mind.
+If a Survivor interacts with the Locker you are in, or you are teleporting to, they get instantly grabbed.
+During Teleportation, you can hear what is going on around you. Make sure to listen for Survivors groaning, footsteps, Generator pistons and the Hatch.
+Sometimes, you can see the glowing Survivor charms while teleporting, so make sure to pay attention after beginning the teleport.
+## PART 2: LATCHES AND LOCKER PRIORITY
+Latches, also known as locks, are the built-in counterplay to Teleportation. Locking a Locker takes around a second and extends your exit time from the Locker to 2.25 seconds, additionally making the Warning Effect that appears 8 seconds after being in a Locker (it’s when a fog starts leaking from the Locker and a screech emits from it) appear instantly. Latches can be broken by using a Basic Attack on them when they have been used. Whenever you are not in a chase, break them the second you see them. This will disrupt the feeling of safety Survivors have, making your macro game easier.
+Locker Clusters is what I refer to Lockers who are connected/both light up when you target them while using The Gloaming. Locker Clusters have prioritised order which will assign which Locker you will enter into. It goes as follows:
+- The Locker with a Survivor inside
+- The Locked Locker
+- The Unlocked Locker
+Locker Priority is important to know, because it will be a giveaway about someone knowing the counterplay to The Dredge, since locking a single Locker in Locker Clusters preserves one latch to use later.
+## PART 3: MELEE TELEPORTATION
+Contrary to popular belief, you actually can use Teleport as a chase tool in Daytime, but it’s not in a way you would expect. Since good Survivors pay more attention, Daytime Teleports being used as a cut-off tool are not consistent enough. That’s why I introduce the concept of Melee Teleportation, which are just pin-point accuracy Locker teleports in chase. This is the skill ceiling of The Dredge.
+As an example, let’s use Shack. Whenever you are cutting a corner, the Survivor is going to run across a Locker and you are slightly further than the range of a Coup de Grâce lunge, teleport to that Locker when OUTSIDE OF THEIR LINE OF SIGHT and exit instantly. This will make you exit the Locker inside the Survivor, pushing them from you, essentially guaranteeing them to misposition and grant you a free M1.  This action must be quick and precise to be consistent, and even a lot of good players fall for it, since nobody expects you to Teleport in Daytime in a combat scenario.
+This strat is like, TRIPLED in effectiveness during Nightfall.
+## PART 4: FAKING
+Against Survivors that don’t pay as much attention, baiting the Survivor to commit to an action by pressing the Gloaming button can give a free hit. Those players are likely very trigger happy whenever they hear the sound of your power being activated, so keep that in mind.
+# CHAPTER 4: NIGHTFALL
+Is Nightfall good? Yes. Should you focus on it? No.
+## PART 1: BASICS
+Nightfall is a state in which Reign of Darkness’ numbers are considerably multiplied, increasing lethality and limiting Survivor visibility. Nightfall effects are active when Survivor portraits have a thick, solid orange ring around them. I personally believe that The Dredge has 2.5 powers. This is the 0.5. It’s a great window of opportunity to gain insane pressure, but creating your loadout, playstyle and strategy around getting Nightfall is going to cost you games. You are not going to gain results from Nightfall without learning Daytime gameplay. That is why there is so little I have to mention when talking about it.
+## PART 2: OPTIMIZING NIGHTFALL GAIN
+Nightfall begins after gaining 300 charges and lasts a minute. They are given to you in several ways:
+- You receive 0.25 charges every second.
+- Hiding inside Lockers grants 6 charges per second. (DON’T DO THAT BEFORE LATEGAME, YOU ARE WASTING YOUR TIME)
+- Each injured Survivor grants you 1 charge per second.
+- Injuring and Hooking a Survivor grants 20 charges.
+- Teleporting to the Remnant grants 10 charges.
+Ideally, you should have at least two Survivors injured at all times, including the one you are chasing.
+## PART 3: KILLER INSTINCT
+Whenever Reign of Darkness goes on a cool-down, you gain a 3 second Killer Instinct on the location of all Survivors within 16 meters. This is crucial during the Hatch standoffs and pickup situations. During Hatch standoffs, spam teleports as much as possible to either find Hatch or the Survivor with the Killer Instinct. During a pickup situation, quickly teleport to the Remnant to scan the nearby surroundings for potential rescuers. Keep in mind you cannot see crouching, hiding in locker and downed Survivors with the Killer Instinct SPECIFICALLY FROM LOCKERS , not Remnant.
+# CHAPTER 5: MACRO AND PLAYSTYLE
+With my experience in playing The Dredge, as well as getting to meet some other wonderful Dredge mains, I came to a conclusion that it has two main playstyles:
+EUROPEAN GAMBIT | NA-OCEANIC GAMBIT
+Coined by me, kmd | Coined by VoidTerror and AguseCannon
+Target audience: Public match players Beginners Casuals Focus: Chase Hooking Tunneling 1v1 Daytime & early game Tips: Make sure to play similarly to The Hag. Go back to hook, doesn’t matter if you want to tunnel or not, it generates pressure on two Survivors. Aggressive daytime teleports during chase are encouraged. Utilize both Remnant and Teleport equally, don’t prioritize one over the other. If you get hit with Decisive Strike/Will to Live, tunnel the Survivor out of the match, they wasted their strongest defense, they have nothing else that can threaten you. Watch out for Dead Hard. | Target audience: Competitive players Win streak players Dredge veterans Focus: Split pressure 3-Genning Slugging 1v4 Nightfall & late game Tips: Use Corrupt Intervention. During the time of effect of the perk, do your best to take injuries, interrupt Generator progress and waste resources like pallets and latches. Do not commit to downs unless they are free. Identify Generators that have Lockers next to them. Those are the ones you HAVE to protect. Dredge can 3-Gen crossmap. Get the most out of engagements with a Survivor. Without an injury, down, or strong pallet destroyed, you completely wasted your time and possibly let a Generator get popped.
+Examples of loadout options (first four perks are a full example build): | Examples of loadout options (first four perks are a full example build):
+The European gambit is for players who want consistency and have a bit more faith in their loadout than adaptability with maps and RNG. The NA-Oceanic gambit is for players who focus primarily on results and are very confident in their Dredge.
+Ideally, previous players of the European gambit eventually will transition into the NA-Oceanic gambit if their goal is to win. The former playstyle is focused on using fun loadouts and general gameplay, the latter is looking at the game from a competitive standpoint. However, EU gambit can still be very lethal, if your tunnel out is very quick.
+A top player of The Dredge masters both playstyles and knows when to adapt between them mid-game.
+# CHAPTER 6: TRIVIA AND KNOWN BUGS
+This chapter is dedicated to specific things about The Dredge that I can’t fit into a specific section, as well as a list of all the bugs I am currently aware of that are in the game.
+## SECTION A: TRIVIA
+- Reign of Darkness has a 12 meter camping penalty range. Within this range, teleporting to the Remnant uses a slower animation, and the Lockers aren’t accessible through Teleportation.
+- The Killer POV has an on-screen effect that shows if the Remnant is active or not.
+- The Dredge is one of the only Killers in the game that change FOV during the match. The in-locker FOV is 120 degrees.
+## SECTION B: KNOWN BUGS
+Bugs with a * at the end are not verified to appear at a current patch, but weren’t mentioned as fixed in patch notes. After 3+ patches, they get removed from the list until reported again.
+- Not necessarily a bug, but an issue. Survivors who lock Lockers that The Dredge is in progress of teleporting to will not get grabbed if the interaction started a few frames before the teleport began. There is no interruption if both interactions are in progress at the same time. (TS PMO)
+- The Dredge can get stuck in the Locker because of the animation “homing” it towards the center of the Locker, forcing another teleport to free itself. It applies to, for example, the RPD locker room Locker and an edgemap Locker on Shattered Square. I don’t know what triggers it specifically, but it doesn't happen consistently.
+- Fog effects sometimes just don’t appear from Survivor POV.
+- Teleporting to The Remnant SOMETIMES delays your ability to start a lunge.
+- The Undetectable (only visually) lingers after exiting a locker after using several tokens..
+# CHAPTER 7: PERKS, ADD-ONS, BUILDS
+## PART 1: PERKS
+### PERK TIER LIST
+### STEALTH PERKS
+Using stealth perks is not a terrible idea, until you realize that whenever you use your mobility power, you get Undetectable, as well as in Nightfall. Avoid perks like Dark Devotion , Trail of Torment and Unforeseen . Perks like Tinkerer and Furtive Chase work however, since they have additional, non-stealth effects alongside them.
+### STUN PERKS
+The only times when you should get stunned as The Dredge is when you are facing pallets you cannot play around consistently, so for example, shack pallet, if the angle the shack was placed at is not optimal to create a deadzone (a good example is Wrecker’s Yard and Dead Sands). Utilizing peeking, pre-tp, and other 50/50 knowledge will make you pretty much unstunnable . Also, you can teleport to Lockers to close distance from the stun.
+### TERROR RADIUS PERKS
+Perks like Infectious Fright will not work well with your power, since you are constantly Undetectable.
+### LOCKER PERKS
+No, Iron Maiden , Darkness Revealed and Ultimate Weapon don’t work on Locker entrances and exits.
+## PART 2: ADD-ONS
+### ADD-ON TIER LIST
+OTTOMARIAN WRITING
+Ottomarian Writing is, in my opinion, the best add-on for The Dredge. It shaves 2 seconds off of Reign of Darkness in Daytime. This allows your Remnant to be available to you pretty much every time you enter a tile. Without this add-on, you will likely wait some extra seconds after you reach the tile with a Survivor after using the Remnant on the previous one. Ottomarian Writing shaves your chase time by a bunch of time, allows you to be more aggressive in chase, and its strength shouldn’t be understated.
+FIELD RECORDER
+Field Recorder is “the sweat add-on”, even considered The Dredge’s best add-on by the general public. It triggers Nightfall at the start of the Trial and when the exit gates are powered, alongside causing Exhausted when Survivors run through the Remnant. It used to be pretty much on par with Haddie’s Calendar, but with the Survivor buffs in Year 9 and 10, you NEED a good earlygame.
+MALTHINKER’S SKULL
+My relationship with this add-on is complicated. I used to dislike it due to the community’s obsession with Nightfall, and then grew to like it a lot more after learning about NA-OCE gambit. It has its uses if you play with split pressure more than EU gambit.
+HADDIE’S CALENDAR
+Haddie’s Calendar decreases Locked Locker exit time by 0.4 seconds. This add-on shortens the amount of time Survivors have to pre-run The Dredge before it exits a Locker, letting you quickly close the distance they gain while you are stuck in the animation.
+BROKEN DOLL
+Broken Doll extends Nightfall by 20 seconds. It’s an add-on exclusively ran with Field Recorder or Malthinker’s Skull. On its own, it’s not as worth the slot as the add-ons higher in the tier list. It’s good against new players though, since Nightfall is really rough for them.
+LAVALIER MICROPHONE
+Lavalier Microphone is an add-on that I used to hate due to being a noob trap and not providing consistent value. However I recently was made aware of its strength in slugging playstyles, which is why it went up on the tier list. It’s actually very strong in ONE playstyle.
+BOAT KEY
+Boat Key increases Daytime teleportation speed by 3 m/s and it causes all locks to break after the gates are powered. Since the 8.2.0 buff, The Dredge’s teleport speed is good enough to not run this add-on, leaving it only to combinations with Field Recorder in endgame builds. Haddie’s Calendar makes it redundant.
+WORRY STONE
+Worry Stone gives you aura reading on a Survivor that locks a Locker. This aura has no cue, so it's purely on you to notice the read. This add-on is not consistent enough to be worth the slot.
+FOLLOWER’S COWL
+Follower’s Cowl grants you Killer Instinct after you return to the Remnant in Daytime. This is probably the best add-on for learning how to play The Dredge properly. You should probably use it for your first 5-10 hours of playing the Killer before switching it off for better add-ons.
+CAFFEINE TABLETS
+Caffeine Tablets shows you which Lockers are locked before teleporting to them while charging Gloaming. Having pocket Lethal Pursuer is pretty neat, and it allows for some niche mid-chase multilocker teleports, but the add-on still isn’t great.
+TILLING BLADE
+Tilling Blade applies 80 seconds of Mangled, Haemorrhage and Blindness on Survivors injured during Nightfall. Blindness is useless while versing Survivors on comms and is a gimmick status effect, while Mangled and Haemorrhage are status effects you need OUTSIDE of Nightfall, not during it, so at best, you will have 80 seconds of Mangled to kickstart the charge rate, but that’s when you are going to chase and down someone anyway, since Nightfall is over. Just run Gift of Pain or Sloppy, you will get more bang for your buck.
+SACRIFICIAL KNIFE
+Sacrificial Knife causes all vaults within 16 meters of the Locker you emerge from in Nightfall to block. This add-on’s main use is forcing out god pallets, however, its true potential is locked off by the Nightfall requirement.
+IRIDESCENT WOODEN PLANK
+Iridescent Wooden Plank causes all Survivors to become Exposed in the last 12 seconds of Nightfall. This effect SCREAMS inconsistent. Unless you throw away everything and start jumping from Locker to Locker, praying whoever you find doesn’t have Sprint Burst or Lithe, you will not get value from this add-on.
+FALLEN SHINGLE
+Fallen Shingle increases Nightfall charge rate by +15% per second when using your power. As I said earlier, do NOT just sit in Lockers and farm Nightfall, you are wasting your time.
+BURNT LETTERS
+Burnt Letters increases the amount of Nightfall charges you gain from injuring a Survivor by 5. Just run Malthinker’s Skull.
+WOODEN PLANK
+Wooden Plank increases the amount of Nightfall charges you gain from hooking a Survivor by 5. Just run Malthinker’s Skull.
+WAR HELMET
+War Helmet extends the time of the Killer Instinct in Nightfall and while using Follower’s Cowl. Even the add-on synergy doesn’t save it from being… kinda bad. It’s only really useful on ambitious long plays, but they are already risky in the first place and the information doesn't change much.
+AIR FRESHENER
+Air Freshener gives you 1 more token. You do not need it. Do not use it.
+DESTROYED PILLOW
+Destroyed Pillow decreases the 4 second cool-down in Nightfall to 1.5 seconds. The reason you don’t need it is that most of the Nightfall cooldown will be consumed by the Successful Basic Attack cooldown, or the “weapon wipe”, leaving only 1 second of the cool-down. This effect is really, really redundant.
+MORTAR AND PESTLE
+Mortar and Pestle makes your camera stay in the same position it was when you started teleporting, rather than the direction it was placed in when placing down the Remnant. This actively works against you. It doesn’t even have a Bloodpoint bonus like other meme add-ons. It’s the worst designed add-on in the game and you should NEVER run it.
+## PART 3: BUILDS
+## ALL-ROUNDED BUILDS:
+A good build for general use consists of:
+- Slowdown Perk
+- Slowdown Perk
+- Chase Perk
+- Utility/Information Perk (depending on how good your game sense is)
+### GUIDE WRITER’S CHOICE
+THRILLING TREMORS
+Thrilling Tremors is a combination of an information perk and a slowdown perk, fulfilling two perk archetypes in one slot of your build. It will show you which Generators you can ignore and which to go towards to proc Dead Man’s Switch.
+Thrilling Tremors can be replaced with Scourge Hook: Pain Resonance .
+DEAD MAN’S SWITCH
+Dead Man’s Switch is going to block Generators for 35 seconds. This is a long time and will allow you to out of sight, out of mind a chunk of the map. This perk also is stronger as the match progresses, popping off in the 3-Gen.
+BRUTAL STRENGTH
+Brutal Strength is gonna help you with zoning Survivors, as well as aid you in dealing with harder tiles where Remnant is harder to use against smarter Survivors.
+Brutal Strength can be replaced with Agitation .
+RAPID BRUTALITY
+Rapid Brutality will make your movement speed while charging the Gloaming ABOVE Survivor speed, letting you get Remnant hits faster, close distance WHILE HOLDING M2 and make Survivors play with Killer Haste in mind. Since charging Reign of Darkness resets the Bloodlust timer, this perk is an excellent choice on The Dredge, and its best chase perk.
+OTTOMARIAN WRITING
+Ottomarian Writing is The Dredge’s best add-on. It will guarantee us a perfect flow between Remnant use and Basic Attack cool-downs.
+FIELD RECORDER
+With the meta shift towards securing the early game, Field Recorder is going to be your new best friend, supporting you in making sure that first down comes through and your slowdown is kicked off before the first Generator is finished, as well as allow for possible clutches in the endgame.
+### ENDGAME
+TURN BACK THE CLOCK
+Turn Back the Clock will be our slowdown perk of choice, as it is the best standalone slowdown perk for it in my opinion, allowing us to delay the gate activation while we set our endgame perks up.
+NO WAY OUT
+No Way Out will basically add a 6th Generator with auto-progress to the match. It's a staple of endgame builds and synergises incredibly well with NOED.
+REMEMBER ME
+Remember Me is INCREDIBLY slept on. 50 seconds of Exit Gate open duration for simply tunneling the obsession is a crazy result, and we will be doing our best to do that while avoiding anti-tunnel perks. The best way to do that is to bounce between two Survivors, which is a strat called “ping-ponging”.
+HEX: NO ONE ESCAPES DEATH
+The piece that glues this build together is NOED, which combined with Field Recorder, creates INSANE snowball potential.
+### NA-OCE
+Turn Back the Clock can be replaced by Dying Light/Cull The Weak or Save the Best for Last/Keep Them Waiting .
+CORRUPT INTERVENTION
+Corrupt Intervention is probably the best slowdown perk in the game right now, as well as a fundamental piece of the NA-OCE strategy. This perk is irreplaceable for this playstyle, as it is used for wasting resources in the early game.
+SLOPPY BUTCHER
+Sloppy will increase our Nightfall generation by decreasing Survivor healing speed. It makes split pressuring 5 times more effective.
+POP GOES THE WEASEL
+Even before its buffs, Pop was doing a great job keeping your 3-Gen in check, but now that it deals total progress, you can pick and choose if you use TBTC or it on a Generator based on its progress, and still does enough slowdown if you are running Dying Light or STBFL.
+MALTHINKER’S SKULL
+This add-on is going to multiply our Nightfall gain for every Survivor that is injured, allowing us to capitalize on the split pressure applied throughout the entire game.
+### SLOWDOWN HEX
+HEX: RUIN
+Ruin is going to regress the Generators when the Survivors are forced to heal, while also acting as a side objective to lead Survivors away from Generators because of your high mobility.
+HEX: THRILL OF THE HUNT
+Thrill is going to be our safety net to increase a chance of intercepting a totem cleanse, while also being a big slowdown to the side objective. The current version of this perk is way more effective than Undying, especially on Killers with map control.
+HEX: WRETCHED FATE
+Wretched will force the Obsession to get off Generators, or be a useless teammate, since Ruin will always out-slowdown their attempts to progress Generators under the effects of this hex.
+HEX: PENTIMENTO
+Pentimento glues this build together, penalizing cleansing Ruin, Thrill and Wretched, and if used in the most effective way of using only one token at all times, it will give you a disgustingly high red bar for most, if not the entire match.
+### SCOURGE
+SCOURGE HOOK: PAIN RESONANCE
+Pain Resonance is a staple of the Killer meta and will allow for easy regression, with Jagged Compass negating its RNG aspect.
+SCOURGE HOOK: GIFT OF PAIN/WEEPING WOUNDS
+Gift of Pain will put Survivors into lose-lose scenarios. They get slowdown , or you gain more Nightfall and faster chases.
+SCOURGE HOOK: JAGGED COMPASS
+Jagged will transform hooks Survivors are unhooked from into Scourge Hooks, allowing us to proc GoP on every unhook, as well as use Pain Res on most hooks on the map.
+LEVERAGE
+Leverage has INSANE synergy with Gift of Pain, allowing it to guarantee that you can tunnel someone out with ease, the Survivors have to be really stacked on healing to get the target to the Healthy State.
+### GENERAL PERK/BEGINNER
+DEADLOCK/NO HOLDS BARRED
+Since The Cenobite’s departure from Dead by Daylight, Deadlock has become a General Perk, and it’s a really good one, extending the game by a total of 100 seconds at best.
+SAVE THE BEST FOR LAST/KEEP THEM WAITING
+Save is going to reduce our M1 cool-down by -40% at max stacks, allowing us to quickly get back into chase, as well as hit & run well with Sloppy.
+SPIES FROM THE SHADOWS
+Most overrated-underrated perk in the game, Spies will show you almost every running Survivor within 36 meters of you every 5 seconds.
+FOLLOWER’S COWL
+This add-on will help you with building your muscle memory, preventing disorientation when you teleport back to your Remnant.
+## GIMMICK/FUN BUILDS:
+### HIT N’ RUN
+MINDBREAKER
+Mindbreaker is going to cancel out most exhaustion perks on engagement while also countering Background Player, Empathy, and other altruistic perks.
+A NURSE’S CALLING
+A Nurse’s Calling works great on The Dredge because of the constant Undetectable you get while teleporting , inside of lockers, and in Nightfall.
+### OVEREXPOSURE
+HEX: DEVOUR HOPE
+Devour will technically act as your slowdown perk, while also being a looming threat over the Trial, possibly ending the game in just 3 hooks.
+FRIENDS ‘TIL THE END
+Friends ‘til the End will give us consistent exposed and information throughout the entire game, letting us gamble for free downs!
+HEX: UNDYING
+Undying will serve us as defense for Devour, and as additional info, which surprisingly occurs more often than you would expect.
+Hex: Undying can be replaced by Make Your Choice .
+### RABID ELDRITCH HORROR THAT MAULS PEOPLE
+HELP WANTED
+Combining with Save, Help Wanted will increase the speed of successful Basic Attack cool-downs by +25%, allowing for near instant return to action, for example, allowing a quick melee teleport.
+MACHINE LEARNING
+Machine Learning and Rapid Brutality will grant us up to 13% Haste for a whopping 45 seconds, negating any meaningful distance a Survivor can make, additionally allowing you to go above 4.0 m/s while holding Remnant.
+### INFINITE STACKS
+CELESTIAL WITNESS
+Celestial Witness will swap our Obsession to the furthest Survivor from us every 30 seconds, GUARANTEEING that we will pretty much never not be able to use our perks.
+DYING LIGHT/CULL THE WEAK
+Dying Light will be our primary slowdown in this build. Celestial Witness will allow us to get its maximum value of 11 tokens.
+THE LAST PERK IN THIS BUILD IS YOUR CHOICE. ANYTHING REALLY WORKS.
+### I SEE ALL
+FRANKLIN’S DEMISE
+Even though it does not remove charges anymore, Franklin’s is going to stall the game if Survivors try to pick their items back up, or allow Weave to get set up. If the items get dropped near single interaction side Generators, they will also act as tripwires due to Hoarder.
+WEAVE ATTUNEMENT
+Weave will allow us insane aura reading from our M1s, allowing us to see auras outside of our Human Greed radius.
+HOARDER
+Hoarder will not only notify us about our Human Greed being sabotaged, but will also tell us if Survivors come back for their items, allowing for quick health states if near Lockers or within close range.
+HUMAN GREED
+This perk’s aura read effect is genuinely insane, often even acting as a mini lethal pursuer. Synergising with Weave Attunement, this combo will also often leave to aura reading MID CHASE, granting free healthstate and automatic mindgame victories.
+# CHAPTER 8: SKINS
+If you care about optimizing what skin you run, there are some outfits that can give you an advantage, and some that you should 100% avoid. MYCOPHOBIA WARNING FOR THIS CHAPTER . All renders done by me :3.
+## BEST SKINS
+TWISTED PLAYTHING
+HEIGHT: SHORT
+FIRST PERSON: CLEAN
+ANIMATION KIT: HAND
+COLORS: MUTED
+CUSTOM SOUNDS?: YES - DOLL JOINTS CRACKING
+I used to not be the biggest fan of Twisted Plaything aesthetically, but after playing with it in competitive scenarios and noticing how well the “hand weapon” animations work on it, I grew to like it a lot!
+MEMORY OF MAURICE
+HEIGHT: SHORT
+FIRST PERSON: SLIGHTLY BIG WEAPON
+ANIMATION KIT: SCYTHE
+COLORS: BROWN
+CUSTOM SOUNDS?: YES - HORSE SOUNDS
+The horse is here. While the weapon is a bit stiff and big, it never causes me any issues, and the third person view of this skin will help you a lot in short tiles.
+THE DREDGE + RECOLORS
+HEIGHT: SHORT
+FIRST PERSON: CLEAN
+ANIMATION KIT: SCYTHE
+COLORS: SHADES OF PINK AND RED/MUTED
+CUSTOM SOUNDS?: N/A (default outfit)
+The Dredge’s base outfit is very optimal competitively. For the most optimal recolor, go for Blistered Muscle to get the smallest amount of colors that can be boosted by red filters.
+## GOOD SKINS
+BLOODY DREDGE
+HEIGHT: SHORT
+FIRST PERSON: CLEAN
+ANIMATION KIT: SCYTHE
+COLORS: RED. LIKE, VERY RED.
+Repeat what I said for the default, but now you are a bright red beacon for anyone running filters.
+MASQUERADE COLORS
+HEIGHT: BELOW AVERAGE
+FIRST PERSON: CLEAN
+ANIMATION KIT: SCYTHE
+COLORS: GOLD, A BIT OF RED, DARKER BLUE
+CUSTOM SOUNDS?: YES - UNIQUE WEAPON SOUNDS
+Masquerade Colors is almost identical to the default, but suffers a lot from its higher color diversity, causing it to be easier to spot.
+UNWANTED TOY + DEEP RIFT
+HEIGHT: BELOW AVERAGE
+ANIMATION KIT: SCYTHE
+COLORS: VERY VIBRANT/NEON BLUE
+CUSTOM SOUNDS?: YES - TOY SQUEAKS
+This skin is a bit bulky and its POV is a bit cluttered, but it is still short and does its job pretty well. The Deep Rift recolor is VERY bright though.
+By the way, the names of the heads are George (snake), Stefan (Quadeye twonose) and Jaime (dragon). It's canon, don’t ask for sources, you won’t get them.
+SKELETAL MASS
+HEIGHT: AVERAGE
+FIRST PERSON: CLEAN
+ANIMATION KIT: SCYTHE
+COLORS: SHADES OF PINK AND RED
+CUSTOM SOUNDS?: YES - WEAPON SWING
+The Dredge’s prototype design is similar to the default outfit, but its hands that increase its height definitely nerf it a lot.
+A HOUSE NOT A HOME
+HEIGHT: AVERAGE
+FIRST PERSON: CLEAN
+ANIMATION KIT: SCYTHE
+COLORS: LIME GREEN, WOOD BROWN
+CUSTOM SOUNDS?: YES - WOOD CREAKING
+Welcome home! This skin is a bit bright and on the taller side, but still works pretty well.
+HALF SPIRITS’ TORMENT
+HEIGHT: AVERAGE
+FIRST PERSON: CLEAN
+ANIMATION KIT: SCYTHE
+COLORS: ALMOST MONOCHROME
+CUSTOM SOUNDS?: NO
+This skin has no back hump, meaning that it will be easier to hide in thinner corners and LoS breakers.
+## MEDIOCRE SKINS
+MYCELLIUM NIGHTMARE + DEEP RIFT 1 & 2
+HEIGHT: SHORT
+FIRST PERSON: CLEAN
+ANIMATION KIT: HAND
+COLORS: VIBRANT
+CUSTOM SOUNDS?: YES - PLANT AND FUNGI SOUNDS
+One of the least accessible skins in the game comes with bright colors, constant VFX to tell Survivors where you are, and probably ruin your or other people’s experience if they have mycophobia!
+AND NOW YOU CAN DO THAT WHILE BEING A BRIGHT BLUE BEACON!
+EDDIE’S TRIBUTE
+HEIGHT: ABOVE AVERAGE
+FIRST PERSON: CLEAN
+ANIMATION KIT: HAND
+COLORS: RED
+CUSTOM SOUNDS?: YES - METAL AND ELECTRIC GUITAR SOUNDS
+My personally least favorite skin for this Killer, purely because of aesthetics, and it isn’t great gameplay wise either, mostly due to height and audio.
+CRUSTACEAN THREAT
+HEIGHT: TALL
+FIRST PERSON: CLEAN
+ANIMATION KIT: SCYTHE
+COLORS: BRIGHT ORANGE WITH GLOWING PARTS
+CUSTOM SOUNDS?: NO
+Crab is pretty funny and adorable, so it gets a pass on being pretty bad gameplay wise.
+WAR IS HELL
+HEIGHT: TALL
+FIRST PERSON: CLEAN
+ANIMATION KIT: SCYTHE
+COLORS: RED
+CUSTOM SOUNDS?: YES - ARMOR CLINKING
+My favorite skin based on pure visuals, however it hurts to notice how tall this skin is with the helmet and sword on its back making you very easy to track above cover.
+DECAYING MISERY
+HEIGHT: TALL
+ANIMATION KIT: SCYTHE
+COLORS: RED, BROWN
+CUSTOM SOUNDS?: NO
+This skin’s only downside is how tall it is, it’s very upsetting, considering how unique this skin is.
+FROSTY THE NIGHTMARE
+HEIGHT: TALL
+FIRST PERSON: WEAPON WAY TOO SHORT
+ANIMATION KIT: SCYTHE
+COLORS: RED, MONOCHROME
+CUSTOM SOUNDS?: YES - BRANCHES RUBBING AGAINST EACH OTHER
+This skin’s design is insanely good, but the swing on it is insanely bad and genuinely might make you whiff more, resetting your muscle memory.
+## BAD SKINS
+FEAR OF REMINISCENCE
+HEIGHT: LIKELY THE TALLEST KILLER IN THE GAME
+FIRST PERSON: CLEAN
+ANIMATION KIT: HAND
+COLORS: YOU HAVE A GLOWING LANTERN
+CUSTOM SOUNDS?: NO
+What do I even have to add that’s not detailed above?
+# CHAPTER 9: MAPS AND COUNTERPLAY
+## PART 1: MAPS
+MAP TIER LIST
+Contrary to the mainstream belief, with the 9.2.0 changes to most maps in the game that added more filler tiles and Lockers, The Dredge has only ONE unplayable map. Family Residence ended so many of my winstreaks that I am struggling to think of a single positive about it. No actually good 3-gen, Lockers are easily pre-runnable, tiles are MASSIVE and the map is insanely big.
+## PART 2: COUNTERPLAY
+The main thing I would like you, Survivor main who learns counterplay to niche Killers, to remember is DISTANCE and LOCKER PRIORITY .
+The best way to counter The Dredge is to avoid it. A good Dredge player will play the Remnant in a way that will force you into mind games and will recognize which tile they can and cannot play with power and need to hold W through. Whenever possible, run to the better tile, pre-run and stealth whenever you see a Locker door slightly twitching. That’s a sign The Dredge is teleporting to that Locker.
+And speaking of Lockers, remember Locker Priority. Never lock all Lockers of a Locker Cluster, that’s what I personally call “double locking”.
+GOOD                                                                         BAD
+After early game, don’t lock Lockers when The Dredge is not chasing someone, you are risking a grab.
+Whenever the last Generator is about to get completed, make sure one person pre-runs the gates to lock the Lockers next to them.
+During Nightfall, try your best to stay 16 meters away from Lockers when The Dredge isn’t in chase, so you don’t trigger Killer Instinct. If necessary, crouch to counter LOCKER Killer Instinct.
+Whenever a Remnant is placed down, try to play weird. Change directions, juke several times, run into the Remnant when The Dredge doesn’t expect you to, exploit the cracks in its encircling movements to escape the tile. Pay attention to your surroundings and recognize strong tiles.
+DO NOT GREED FILLERS. YOU WILL DIE.
+LISTEN TO THE AUDIO WHILE LOOPING.
+Help your teammates by breaking the Remnant during the chase.
+Learn Locker grab Flashbang save timing. Here is a short guide by Otzdarva.
+# YOU ARE NOW AN OTTOMARIAN
+Thank you so much for reading this guide. I always wanted to make something for the community about my favorite Killer in Dead by Daylight and after countless weeks of gathering information and writing, I feel satisfied with the results.
+I will include any new information, changes and strategies as they appear but for now…
+I’ll see you in the Fog.
+kmd
+# CHANGELOG
+11/05/2025 - Release
+09/06/2025 - Updated the perk tier list for Patch 9.0.0
+19/06/2025 - Updated the map tier list for Patch 9.0.0
+24/06/2025 - Adjusted Add-On reasonings, updated Optimizing Nightfall Gain (one survivor injured > two survivors injured)
+09/07/2025 - Updated the build visuals, added two builds: Rabid Eldritch Horror That Mauls People and Gen Kick
+13/07/2025 - Quality of Reading improvements, fixed some errors, described some things better, especially Melee Teleports
+15/08/2025 - Known Bugs section update. Added the * symbol and the 3 patch rule.
+26/08/2025 - Rapid Brutality has been promoted to “best chase perk” status.
+27/09/2025 - Updated the Perk and Map Tier Lists for 9.2.0, added The Forbidden Gen Kick Build.
+10/11/2025 - Updated the Add-On Tier List.
+22/12/2025 - Added a section about faking to the Teleport chapter and fixed some outdated images in the build section. Happy Holidays!
+03/01/2026 - First update of the year! Added a whole new chapter: Macro and playstyle.
+30/01/2026 - Updated Add-On Tier List, fixed chapter numeration.
+28/04/2026 - Build overhaul, implementation of the 9.6.0 Dredge changes to the guide. New section: Skins.

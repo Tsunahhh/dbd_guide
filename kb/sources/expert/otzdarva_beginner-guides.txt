@@ -1,0 +1,57 @@
+Titre : Beginner Guides (otzdarva.com)
+Auteur : Otzdarva
+URL : https://otzdarva.com/dbd/beginner-guides
+Date de publication / mise à jour : non affichée (© 2026)
+Date de consultation : 28/09/2026
+Méthode : curl + BeautifulSoup (texte brut)
+======================================================================
+
+Otzdarva
+Otzdarva
+Dead by Daylight
+Character Info
+Recommended Builds
+Beginner Guides
+Killer-specific Guides
+Tierlists
+Killer Add-ons
+Otz's Opinions
+FAQ
+Channels
+Twitch
+Not Otzdarva
+Otzdarva
+Youtube Streams
+Show Support
+Use Code OTZ in DBD
+Subscribe
+Merch
+Beginner Guides
+This is where my beginner guides section description would go, if I had one!
+All
+Killer
+Survivor
+All Tiles Explained Guide
+All common tiles & map structures explained, useful for both sides.
+Survivor Beginner Guide
+Survivor basics for every Killer & situation
+Survivor Beginner Perks
+Learn how to use the basic Survivor perks
+Beginner Killer Guide
+Learn the basics of playing Killer.
+Intermediate Killer Guide
+Guide with advice for intermediate or returning Killers.
+Otzdarva is a member of the
+DBD Creator Program
+in partnership with BHVR. Using
+code OTZ
+in-game helps to support him and this website at no extra cost.
+©
+2026 Otzdarva
+
+LIENS SUIVIS : les cinq guides sont des VIDÉOS YouTube (chaîne « not Otzdarva »). Titres obtenus par oEmbed seulement ; YouTube a renvoyé 429 sur les pages ; aucune transcription, aucune vidéo analysée. Pointeurs :
+- All Tiles Explained Guide -> https://www.youtube.com/watch?v=E5QWNS14MS0 — titre oEmbed « All Common Tiles Explained | Dead by Daylight » (date inconnue)
+- Survivor Beginner Guide -> https://youtu.be/zbX0b8S9njQ — titre oEmbed « A Survivor's Guide to every Killer in DBD » (date inconnue)
+- Survivor Beginner Perks -> https://youtu.be/9dOJbQeN14w — titre oEmbed « A Survivor's Guide to all Beginner Perks » (date inconnue)
+- Beginner Killer Guide -> https://www.youtube.com/watch?v=4RekOHmFzb4
+- Intermediate Killer Guide -> https://www.youtube.com/watch?v=dKQXO7yFbLA

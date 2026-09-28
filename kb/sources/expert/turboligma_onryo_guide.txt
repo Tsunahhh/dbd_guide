@@ -1,0 +1,280 @@
+Titre : Sadako Guide & FAQ
+Auteur : Turbo Ligma
+URL : https://docs.google.com/document/d/1odRx2ge-ix5yZkb8yZuMeb3Ax3Vgm4StPYL_HtR0zRs/edit
+Publication / mise à jour : non datée dans le document
+Consulté le : 28/09/2026 (curl, Google Docs /mobilebasic ou équivalent ; texte extrait, images non incluses)
+Trouvé via : https://otzdarva.com/dbd/killer-guides
+Statut : EXPERT OPINION (guide de joueur tueur), pas une source primaire
+----------------------------------------------------------------
+Sadako Guide and FAQ
+Sadako Guide & FAQ
+A Guide Made By Turbo Ligma
+Ask a question here : https://forms.gle/b4V5W7vSeAQPfNPM9
+↓ FAQ AND GUIDE ↓
+Basic Knowledge/tips You Should Know
+### What does locking condemned mean?
+This feature was added to incentivise hooking. “Locking” condemned stacks means it's impossible to remove the stacks you had after getting unhooked. As a survivor, if you had 3 stacks and you got hooked, you can’t remove those 3 stacks forever even by inserting tapes. This is counterintuitive because the whole point of condemned moris is to punish survivors that have not been hooked. The max amount that can be locked for the first hook is 3, the second hook is 6.
+### Does holding tapes give you condemned ?
+Holding a tape allows you to turn off other TVs at the cost of gaining 1 stack. Other than that, holding a tape no longer contributes to gaining stacks in any way. They’re now a form of slowdown (by forcing you to go to the furthest TV from you), a way to remove stacks, and a way of turning off TVs.
+### What is there to expect when learning Sadako?
+Sadako has A LOT of abilities in her kit that make her stand out as a killer. Many other killers may only have at least 2 things in their kit and that's it. Sadako has way more than that and they’ll be listed here:
+Mobility (Teleport) | This is her best piece of the kit. Sadako can instantaneously teleport to 1 of 7 pre-placed TVs whenever she wants. She stands out in this category because she can spam her TP. Killers like Freddy and Dredge must wait some time before being able to teleport again. Sadako does not. Although the TV itself does go on a cool-down, she still has other locations that she can TP to.
+Pressure | Early game Sadako lacks any form of pressure. Her pressure shines mostly mid-late game. Her ability to pressure comes in the form of avoiding her Mori. This forces survivors to stay off important objectives just to get rid of some stacks.
+Stealth | Sadako can turn invisible at intervals. A directional ring sound can reveal her location, but this doesn't happen consistently. She also gains the undetectable status effect. There is also an advanced sneak-up tech where you manifest prematurely to use the invis to sneakup.
+Chase | Along with her stealth-invis is her chase-invis. Her invisibility allows her to hide her checkspots to be a few steps closer in chase. This is VERY difficult to learn, but once you fully master it, it turns all loops into 50/50s.
+Mori | The mori itself is great especially if the survivor is fresh hook. You can kill someone without even hooking them. But doing it now isn’t as effective as before.
+### How can I easily differentiate between certain phrases in her power?
+Manifest is “uncloak”
+Demanifest is “cloak”
+Projecting is to “teleport”
+Inexorable stare is a fancy way of saying “mori”
+Manifesting can also be done automatically right after teleporting.
+“Tapes” refers to the VHS tapes survivors interact with
+TVs refers to the object Sadako can teleport to. Attached to the TV is the VCR, which survivors interact with.
+### What are the TV Cool-downs?
+45 seconds on the TV when Sadako TPs
+70 seconds on the TV when a survivor retrieves/inserts a tape.
+30 seconds on the Power at the start of the match.
+No cooldown on the Power after projecting. So you can spam TP, as long as there are remaining TVs activated.
+### Are there benefits to Demanifesting / Demanifest ?
+Yes. Your terror radius turns into a 24m lullaby that gets louder based on distance.
+You passively phase when within 24m meters of a survivor.
+You gain the Undetectable status effect
+You can project (teleport) to TVs.
+You lose collision with survivors.
+You retain bloodlust and chase; unlike Wraith
+You’re immune to pallet stuns.
+Although you do slow down to 4m/s when Manifesting. And you cannot attack.
+### It’s hard to tell whether she's manifested or demanifested .
+Here are some features unique to her manifested (normal) state:
+Red stain
+Terror radius
+Can M1
+Her flickering is frequent (not always a constant indicator)
+Now features unique to her demanifested state:
+Undetectable
+Lullaby (ringing sound) LOUD WARNING
+She duplicates herself
+She goes invisible for longer
+### How do you do those invisibility mind games?
+I Phasing mindgames are best done with addons. It’s better to explain it in the form of videos though. Which I’ve compiled here from other content creators
+Turbo Ligma
+Video 1. | Shows the timing to when you’re invisible/visible.
+Video 2 | Shows great invis use to avoid certain checkspots (macmillan)
+Pequenyalando.
+Video 1. | Shows a compilation of the Old Newspaper addon. This should give an idea on when to doubleback, and where to do the actual mindgame.
+Otzdarva (not)
+Video 1. | Shows a great explanation of the usage of Reiko's watch addon. He shows the strong potential it has, even on strong loops.
+Absynthe Bitters
+Video 1. | Shows great usage of the Reikos watch addon.
+Sirius A
+Video 1. | Shows great usage of the Reikos watch, and Old newspaper addons. Showing that they can be used consistently and can even be used in strong loops.
+### JCglitchmaster
+Video 1. | Perhaps the most informative invisibility guide, shows a comparison of Manifest and Demanifest invisibility; along with an effective perspective in engaging invisibility on tiles.
+### What happens if I take a tape?
+
+Your screen turns into an old tv effect.
+The TV that you took the tape from turns off for 70 sec.
+You gain the ability to place the tape into the furthest TV from your location, in which to turn off and remove up to 3 stacks.
+You gain the ability to quickly turn off other TVs, at the cost of gaining 1 stack.
+Your survivor portrait turns into a distinct static. Which Sadako can see.
+You become immune to the “whispers” of the TV
+You remove 3 stacks of condemned after reinserting the Tape, unless you have locked condemned, which may limit this depletion based on the respective amount locked.
+### Are there quirks to Sadako that make her unique to other killers?
+Yes
+Sadako becomes completely invisible when beyond        24m from a survivor; regardless of her state.
+She’s one of the only 4.6m/s killer to have a base 24m terror radius.
+She’s one of the shortest killers, Shorter than some survivors.
+She’s one of a few killers to have a Mori built in their power.
+She’s one of a few killers that can travel instantaneously.
+She’s one of a few killers to have a limited item .
+She’s the only killer to not touch the survivor. She uses telekinesis.
+She’s one of a few killers to go completely invisible
+She's one of a few killers that can’t get pallet stunned under certain conditions.
+She's the first killer to have her base power tied towards hooks.
+### Can you blind Sadako when she comes out of her TV?
+No. When she’s exiting, she gets a temporary lightborne effect
+But you can still blind her even when she’s demanifested .
+### If you could buff Sadako, what would you give her?
+Many Sadako players have their own ideas. But for me, I’d want her to have a madness effect like The Doctor.
+1 Stack of condemnation | You intermittently see a faint static in your FOV. Similar to what Sadako sees when she’s demanifested .
+2 Stack of condemnation | You intermittently hear a faint static sound.
+3 Stack of condemnation | You intermittently hear a ringing sound as if Onryo was nearby. This effect is disabled when Sadako is within 25m of you (this is so the sounds don’t overlap) This effect is disabled when Sadako is chasing someone.
+4 Stack of condemnation | The sound warning before a skill check appears would play, but it would not actually make a skill check appear. The chances of this happening is 66% per charge
+5 Stack of condemnation | You hear the manifest sound effect as if the Onryo was manifesting nearby. The chances of this happening is 5% every second.
+6 Stack of condemnation | You suffer oblivious.
+7 Stack of condemnation | No debuff
+Make it so you can grab survivors even when you’re demanifested .
+There should be a literal Ring around your character that’s 24m in radius so you’d know how far 24m is. This is so you can see when a survivor is beyond 24m of you.
+The add-on “Clump of hair” should reduce the radius of the lullaby, and the 24m literal ring radius.
+### How do I know if someone has X amount of stacks?
+There are many ways of finding out.
+If their portrait is red, then they have 7 stacks.
+You can estimate how much they have based on the amount of VFX there is around the survivor. The more intense it is, the higher the stacks.
+You’d know they gained a stack if their portraits turns into a cloudy ring; or if the cloudy ring does a faint glow .
+When a survivor is hooked with the ring drawing , addon, all other survivors gain 1 stack
+For each TP, everyone within 16m of you gains 1 stack, and anyone within 16m of any turned-on TV also gains a stack.
+### What’s the difference between Old newspaper and Mothers mirror?
+Watch this infographic video
+Or go to What are the timings for the passive phasing?
+### What is Sadako’s best perk?
+Monitor and Abuse is her best (in my opinion) because she turns to a 16m terror radius killer. This opens unique mind games with her invisibility that couldn’t be done otherwise.
+Here are some examples of MAA value
+Video 1 | Shows great use of pre-manifesting, and using the invisibility to get a few steps closer.
+Video 2 | Shows great use of using Old newspaper mid-chase. The terror radius reduction also confused the survivor.
+Video 3 | Shows great use of pre-manifesting but on the survivor side.
+### Should I buy Sadako?
+There are many reasons why you want to buy a killer. So I’ll explain some possible reasons:
+Perks: Sadako has great generator perks. Call of brine being her best. Kicking a generator with this perk regresses it 25% faster. She also has Merciless storm . The last 10% of a generator continuously spawns difficult skill checks. It’s mediocre but can be paired well with killers like Doctor. And lastly there is Scourge hook: Floods of rage . It's an alright detection perk. It synergizes well for killers that can snipe, or killers with high mobility.
+Gameplay: Sadako is a great killer to learn if you’re new to the game. She uses basic killer functions (M1, hold forward) And her power can greatly confuse newer survivors. Even good players find her confusing. She takes a while to fully master, but learning her basic functions can be enough to guarantee good games.
+Strength/Wins: Her chase, slowdown, mobility, stealth, and mori all add up to make her a good killer. She has anti-stun and invis for chase; the survivors must transport a tape constantly, which forces them off gens; she can TP across the map instantly; she has the best stealth, and grab potential in the game; and her mori can kill survivors without even needing to hook them. If you’re looking for a killer with a high win rate, Sadako is a great choice.
+### What are the timings for the passive phasing?
+After manually manifesting, for a period of 4 seconds, you passively phase in and out for
+.5 + .75 + .5 + .75 + .5 + .75 + .25 = 4 (the light blue number is when you go invisible)
+When demanifested , for an indefinite period, you passively phase in and out for
+1.5 + 1.2 + 1.5 + 1.2 + 1.5 + 1.2 + 1.5 + 1.2 + ……… so on . (Again, the light blue number
+indicates when you go invisible)
+After manually manifesting with Old newspaper
+For a period of 4 seconds, you passively phase in and out for
+.5 + 1 + .5 + 1 + .5 + .5 = 4 (you go invisible less frequently, but for longer)
+After manually manifesting with Mothers mirror
+for a period of 6 seconds, you passively phase in and out for
+.5 + .75 + .5 + .75 + .5 + .75 + .5 + .75 + .5 = 6 (you go invisible more times)
+After manually manifesting with Old newspaper and Mothers mirror
+For a period of 6 seconds, you passively phase in and out for
+.5 + 1 + .5 + 1 + .5 + 1 + .5 + 1 = 6
+When demanifested with Reiko's Watch , for an indefinite period, you passively phase in and out for
+1.5 + 1.5 + 1.5 + 1.5 + 1.5 + 1.5 + 1.5 + 1.5 ……….
+Perk/Addon math, builds .
+For reference, 1 stack = 29 seconds [ WHY ]
+# Addon Math
+Notes                         Addon                                Math
+This addon is good for a brown. It’s decent for getting those last second condemned stacks. |  | Increases the range of which survivors get condemned by +2m
+This add-on is really good to use mid-chase or for sneak-ups. Without any other modifiers, you can go invisible 3 times | Old Newspaper | Increases the invisibility duration after Manifesting by +33 % . .75 x .33 = .2475 .75 + .2475= .9975 invis duration
+This add-on is really good to use mid-chase or for sneak-ups. It increases the amount of times you can go invisible by 1. | Mother's Mirror | Increases the duration of the intermittent visibility phase after Manifesting by +2 seconds . ( ≤ .5 = visible .75 = invisible ) 4 + 2 = 6 .5 + .75 + .5 + .75 + .5 + .75 + .5 + .75 + .5 + .5 = 6 w/o add-on: .5 + .75 + .5 + .75 + .5 + .75 + .25 = 4
+This add-on is good for perks that involve constant generator kicks considering you’ll teleport frequently. | Cabin Sign | Reduces the time it takes for a TV to turn on after Projection by -4.5 seconds . 45-4.5 = 40.5 per TV
+This add-on is worthless. 7 seconds isn’t really enough. | Well Stone | Reduces the time it takes for a TV to turn on after having been turned off by a Survivor by -7 seconds . 70 - 7 = 63
+This addon is really good for sneaking up and catching survivors off guard. Otz did a great video explaining it’s potential | Reiko's Watch | Increases the invisibility duration while Demanifested by +25 % . 1 x 1.25 = 1.5 seconds
+This add-on is good for sneak ups, but Reiko’s watch is a better alternative. | Clump of Hair | Reduces the range at which The Onryō is visible while Demanifested by -6 meters 24m - 6m = 18m
+This add-on is good to use  mid-chase. Being undetectable mid-chase can help with certain terror radius mind games. | Well Water | Increases the duration of the Undetectable Status Effect by +2 seconds when Manifesting by any means. 1 + 2 = 3
+This add-on is mostly good for the condemned playstyle. | Ring Drawing | When hooking someone with a tape, everyone else gains 1 stack
+This is the perfect addon if you want guaranteed hits after projecting. | Bloody Fingernails | Increases the duration of the Post-Projection Movement Speed boost by +50 % (6.9m/s) 2 (1.5) = 3 sec of speed
+With this add-on, you become a step closer when you manifest while chasing a survivor. | Telephone | Survivors witnessing a Manifestation from within 7 meters suffer from the Hindered (-3% or -.12 m/s) Status Effect for 3 seconds .
+This addon is good for a condemned build, and to tunnel someone out. | Tape Editing Deck | Each Survivor starts the Trial with a VHS Tape This addon saves a flat 116 seconds 29(4)= 116 Additionally, survivors don’t need to search for a TV for this add-on to work. So that saves 70 second per survivor. 240 seconds Total = 356 seconds or 5 min 56 sec. Their auras are also revealed for 6 seconds after inserting a tape.
+# Basic Builds (non condemned builds)
+# These builds are unique only to Sadako.
+## Telephone + PWYF
+Addons |  | 
+perks |  |  |  | 
+The Telephone addon decreases the survivors movement speed by 3% for 3 seconds.
+PWYF increases the killer's speed by 5% for each token. 3 tokens at max.
+Game Afoot increases killer movement speed by 5% for 10 seconds
+With this build, looping survivors around pallets becomes easier. And if they end up reaching the pallet, you can use Game Afoot to catch up faster.
+1 token = 115(1.05) = 120.75%
+2 tokens =115(1.1)= 126.5%
+3 tokens =115(1.15)= 132.25%
+100% - 3%= 97%
+If you combine Telephone + PWYF , you will get a pretty big speed difference.
+At 1 stack, the speed difference is 23.75%
+At 2 it’s 29.5%
+At 3 it’s 35.25%
+At 3 stacks with the addon, the speed difference is larger than a base kit Bubba chainsaw. Which is 134.89%
+## Easy grabs build
+Addons |  | OR
+perks |  |  |  | 
+Manifest early, use undetectable to sneak up, grab the survivor on the gen as you are invisible.
+## Comp build/ Chase build
+Addons |  | 
+perks |  |  |  | 
+Great chase potential with Old Newspaer, Well water, and Brutal strength.
+Both the addons have additional uses. Newspaper and well water can be paired well with Monitor for the Invis sneak-up. Deadlock and Sloppy are good slowdowns
+## Super Lunge
+Addons |  | OR
+perks |  |  |  | 
+## Tp tp discordanced Gen, wait for momentum from bonus speed after TP, super lunge your way to the gen. This can even work mid-chase.
+## Mathematical Genius (2nd place)
+Addons |  | 
+perks |  |  |  | 
+This build mathematically saves you the second most time out of any build in the entire game.
+120 sec from Deadlock, 120 sec from corrupt, up to 32.67 sec from pop, 60 from no way out, 356 sec from Tape editing deck, up to 1454 sec (24 min) from Ring drawing. Adding up to 2082.676 sec or up to
+35 minutes.
+Condemned Builds (Still works)
+# These builds work by forcing the condemned meter to increase, which allows you to mori a survivor without needing to hook them. There are many variations to this build. So I’ll go through all of them.
+### META condemned build
+Addons |  | 
+perks |  |  |  | 
+Notes: Hit 1 survivor, foucs on TPs, slug them to get Mori value.
+### Spam TP condemned build
+Addons |  | 
+perks |  |  |  | 
+Spam TPs. Keep an eye on the condemned counter.
+Misc
+# Grudge Concept
+# Movement speed translator
+1 m/s = 25%
+.5m/s = 12.5%
+.25 m/s = 6.25%
+.125 m/s = 3.125%
+.04 m/s = 1%
+.08 m/s = 2%
+.12 m/s = 3%
+.16 m/s = 4%
+.20 m/s = 5%
+.24 m/s = 6%
+.28 m/s = 7%
+.32 m/s = 8%
+.36 m/s = 9%
+.40 m/s = 10%
+.44 m/s = 11%
+.48 m/s = 12%
+.52 m/s = 13%
+.56 m/s = 14%
+.60 m/s = 15%
+.64 m/s = 16%
+.68 m/s = 17%
+.72 m/s = 18%
+.76 m/s = 19%
+.80 m/s = 20%
+.84 m/s = 21%
+.88 m/s = 22%
+.92 m/s = 23%
+.96 m/s = 24%
+1 m/s = 25%
+1.04 m/s = 26%
+1.08 m/s = 27%
+1.12 m/s = 28%
+1.16 m/s = 29%
+1.20 m/s = 30%
+1.24 m/s = 31%
+1.28 m/s = 32%
+1.32 m/s = 33%
+1.36 m/s = 34%
+1.40 m/s = 35%
+1.44 m/s = 36%
+1.48 m/s = 37%
+1.52 m/s = 38%
+1.56 m/s = 39%
+1.60 m/s = 40%
+1.64 m/s = 41%
+1.68 m/s = 42%
+1.72 m/s = 43%
+1.76 m/s = 44%
+1.80 m/s = 45%
+1.84 m/s = 46%
+1.88 m/s = 47%
+1.92 m/s = 48%
+1.96 m/s = 49%
+2 m/s = 50%
+4 m/s = 100%
+4.4 m/s = 110%
+4.6 m/s = 115%
+8 m /s = 200%
+12 m/s = 250%
+14 m/s = 300%
+18 m/s = 350%
+20 m/s = 400%
+22 m/s =  450%
+24 m/s = 500%
+26 m/s = 550%
+28 m/s = 600%
+30 m/s = 650%

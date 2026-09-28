@@ -1,0 +1,802 @@
+Titre : The Ultimate Artist Guide (2025)
+Auteur : FreshPearspective
+URL : https://docs.google.com/document/d/10aziFuVjxMJWsvLRExGQYzojmYeivEHkSBEwGiuXNEs/edit
+Publication / mise à jour : 2025 (titre) ; date précise non indiquée
+Consulté le : 28/09/2026 (curl, Google Docs /mobilebasic ou équivalent ; texte extrait, images non incluses)
+Trouvé via : https://otzdarva.com/dbd/killer-guides
+Statut : EXPERT OPINION (guide de joueur tueur), pas une source primaire
+----------------------------------------------------------------
+Ultimate Artist Guide - 2025
+The Ultimate Artist Guide
+The Ultimate Artist Guide
+Written by: FreshPearspective
+Much love to our wonderful community “The Fruitbowl” and to our wonderful mod team <3.
+If you have any questions regarding the artist or the guide, please stop by the stream to ask, or send your question using the following link: Send a Question HERE
+# Index
+Index        2
+Chapter 1 : Intro        5
+Chapter 2 : Artist Terminology        6
+Chapter 3: Unlockable Perks        8
+Chapter 4: Basic Info        11
+Chapter 5: Crow Stages        13
+Idle        13
+Flight Path        15
+Swarm        16
+Chapter 6: Removing the Murder of Crows        17
+Repel        17
+Locker Hopping        17
+Chapter 7: Setting up your shots        18
+Survivor Pathing        18
+Straight Line Pathing        18
+Erratic pathing        18
+Distance        18
+Map Knowledge        18
+Chapter 8: Crow Facts        19
+How fast do the birds travel        19
+Chapter 9: End Game        19
+Chapter 10: Launching Crows        20
+When to use Short Range Crow:        20
+When to launch long range crows?        20
+Chapter 11: Add-ons        21
+Common Addons        22
+Choclo Corn        22
+Oil Paints        22
+Thick Tar        23
+Vibrant Obituary        24
+Uncommon Addons        25
+Automatic Drawing        25
+Festering Carrion        25
+Still Life Crow        26
+Untitled Agony        27
+Velvet Fabric        28
+Rare Addons        29
+Charcoal Stick        29
+Darkest Ink        30
+O Grief, O Lover        31
+Silver Bell        32
+Thorny Nest        33
+Very Rare Addons        34
+Ink Egg        34
+Mattias’ Baby Shoes        35
+Severed Hands        36
+Severed Tongue        37
+Ultra Rare Addons        38
+Garden of Rot        38
+Iridescent Feather        39
+Chapter 12: Tiles        40
+Killer Shack        42
+Basic Jungle Gym        43
+Short Wall Gym        44
+Four Lane - Inside Wall        45
+Four Lane - Outside Wall        46
+T&L Wall        47
+Pallet Gym        48
+Trash Pile Gym        49
+Labyrinth/Maze Gym        50
+Locker Gym        51
+Double Window Gym        52
+Variant Gym        53
+Dead Dawg Gym        54
+Chapter 13: Maps        55
+MacMillan Estate        56
+Coal Tower        56
+Groaning Storehouse        57
+Ironworks of Misery        58
+Shelter Woods        59
+Suffocation Pit        60
+Coldwind Farms        62
+The Thompson House        62
+Rotten Fields        63
+Rancid Abattoir        63
+Fractured Cowshed        64
+Torment Creek        65
+Crotus Prenn Asylum        65
+Disturbed Ward        65
+Father Campbells Chapel        67
+Autohaven Wreckers        69
+Wreckers Yard        69
+Blood Lodge        69
+Haddonfield        70
+Gideons Meat Plant        71
+Lery’s Memorial Institute        74
+Red Forest        74
+Temple of Purgation        74
+Mothers Dwelling        75
+Badham Preschool 1-5        75
+Backwater Swamp        81
+Pale Rose        81
+Grim Pantry        81
+Yamaoka Estate        82
+Family Residence        82
+Sanctum of Wrath        83
+Ormond        84
+Mount Ormond Resort        84
+Ormond Lake Mine        86
+Hawkins National Laboratory        86
+Dead Dawg Saloon        88
+Midwich Elementary School        90
+Raccoon City        91
+R.P.D East Wing        91
+R.P.D West Wing        91
+Forsaken Boneyard        93
+Eyrie of Crows        93
+Withered Isle        94
+Garden of Joy        94
+Greenville Square        95
+Decimated Borgo        96
+The Shattered Square        96
+Forgotten Ruin        96
+Dvarka Deepwood        97
+Toba Landing        97
+Nostromo Wreckage        99
+Chapter 14: Trickshots & Maneuvers        100
+Slingshot (also called a stagger)        100
+Severed Slingshot        102
+ULTRA SLINGSHOT OF DOOM        104
+Roller Coaster        105
+Idling Shot / Swarm Bait - NEW        107
+Pinned Survivors        108
+Dropshot        109
+Two chases at once        109
+Basement Setup        110
+Chapter 15: Keys to success        111
+Chapter 16: Artist and her weakness’        112
+Chapter 17: Fun Facts        112
+Chapter 18: Frequently Asked Crow Questions        113
+Chapter 19: Who to watch for Artist content?        113
+Chapter 20: More to come        113
+# Chapter 1 : Intro
+The Artist is one of Dead by Daylight’s most efficient and deadliest killers. The ability to simultaneously be in two chases at once, apply a passive slowdown to generators for survivors attempting to remove crows and ease of shutting down a tile puts her high in most tier lists.
+My name is FreshPearspective , Carmina Moras husband of the fog.
+I am a P100 Artist main playing on NA East servers. I’ve spent 1000’s of hours in Dead by Daylight learning the Artist and have even created my own ‘tech’s’ for her. With over 11,000 crow downs, I am here to share with you The Ultimate Artist Guide for Dead by Daylight .
+# Chapter 2 : Artist Terminology
+Some frequent terms that are used throughout the guide as well as on stream.
+Idled Crow:
+- The first stage of summoning a dire crow. The Dire Crow will be stationary and will show the direction the crow will be launched towards.
+Swarmed Survivor:
+- A survivor that has come in contact from a Dire Crow that was stationary or received if the survivor was in the Dire Crows path while in motion. This is represented by a white silhouette circling the survivor as well as the sound of crows.
+Murder of Crows:
+- A group of crows.
+Zoning:
+- The process of controlling the space in a part of the map to force survivors where you’d like them to go.
+Pathing:
+- A survivors running pattern.
+Point of Interest (P.O.I):
+- Key objectives or areas of the map (i.e. hooked survivors, generators, exit gates, exit area)
+Line of Sight:
+- The ability of seeing an object in your view
+Line of Sight blockers
+- Objects that block your view of the target.
+Sniping
+- Single Dire Crow shots
+Shotgun
+- Summoning three Dire Crows near each other and spreading their angle slightly wider than previous. This will cover a large chunk of area and can help pinpoint a survivor.
+Check Spot
+- Survivors use portions of the map to hide themself from view while positioning their camera angle to view their opponent or area.
+Choke point
+- An area of the map that the survivor has to cross and the focal point of zoning where the killer will strike.
+M2 Fake
+- Process of bringing up your secondary power and immediately releasing it. The hope is that the survivor flinches into making a mistake.
+Box Pattern/Formation
+- Process of a survivor looping in a rectangle. This can be achieved running along a particular section of the map (i.e. Looping Lery’s memorial around the outside of the map or Midwich)
+Hop Lock
+- Process of a survivor hopping into a locker
+# Chapter 3: Unlockable Perks
+The Artist has the BEST unlockables in the game.
+Each perk sees a lot of use across different builds and killers. The Artist should be prioritized FIRST when it comes to unlocking perks via prestige. Grim Embrace
+Grade: 4/5 Great Thoughts: Grim Embrace slowly pushes survivors off of their generators which gives the survivors a slight interruption. This perk is perfect to catch survivors rotating in for saves. Once all four tokens have been gained, it halts survivors for 40 seconds providing a giant window to pressure as well as showing the aura of your obsession for six seconds.  Grim Embrace starts to trail off at higher levels as survivors will be more efficient trading for hook states and trying to prevent the full block.
+Hex: Pentimento
+Grade: 3/5 Good Thoughts:  One of the strongest and most consistent ways to reduce survivors' repair speed. Pentimento is a great slowdown perk when used in conjunction with other Hex builds (such as Hex: Plaything). Once the survivor breaks a hex/totem, you can rekindle it. The perk shines even having just keeping one totem rekindled at a time the entire game.. Can suffer against survivors knowing how to counter Pentimento as the Hex will either be broken fairly quickly or survivors will not break other Hex totems to avoid Pentimento.
+Scourge Hook: Pain Resonance
+Grade: 5/5 Excellent Thoughts: Although it has received a number of nerfs it is still the best and most efficient way to regress generators. It removes the need to travel to a generator and kick it saving time to pressure. Extremely useful in scenarios where a generator is nearing completion and buys enough time to protect the generator. It does suffer when scourge hooks are grouped together but can be remedied with Agitation or Scourge Hook: Jagged Compass.
+# Chapter 4: Basic Info
+- Average height killer
+- Movement at 4.6m/s
+- 32m Terror radius.
+- High skill ceiling
+The Artist is an M2 killer.
+- Her ability , Birds of Torment , utilizes a token system which allows her to fire three Dire Crows basekit. This can be reduced to two crows ( Iridescent Feather ) or increased to four crows ( Ink Egg ) by using addons.
+- The more tokens or crows that you use, the longer the cooldown will be.
+- Dire Crows serve two purposes: Attempting to damage survivors or locating survivors via Swarms or Killer Instinct.
+- Killer Instinct will trigger if a crow passes within 1.5m of a survivor but does not result in a swarm.
+- This can be further increased by addons increasing this range to 3m with the use of the Oil Paints addon.
+- Killer instinct will be triggered for 3 seconds but can be increased with the Vibrant Obituary addon to 6 seconds
+- It takes 1 second to charge her power.
+# Chapter 5: Crow Stages
+The Birds of Torment have three different stages:
+- Idle
+- Flight Path
+- swarm.
+## Idle
+- Idle Crows are stationary for 10 seconds once summoned before disintegrating.
+- This can be further extended by Choclo Corn (+2 seconds) and Still Life Crow (+4 seconds).
+- By summoning an additional crow, it will reset the timer before the Idled crow disintegrates.
+- Dire Crows will be summoned 2.5meter from the Artist
+- Dire Crows can be summoned on different levels or objects (i.e. debris or objects can alter the height of the Idle position.)
+- This is useful for reaching areas of a map that would otherwise need Artist to change levels.
+- The Artist will see a white silhouette of each active idle crow that's been summoned anywhere on the map while the survivors may only see a purple outline of the dire crow if it's visible (no line of sight blockers).
+- There are a few restrictions to where you are unable to summon your Idled crows.
+- Artist is unable to camp hooks with her power effectively
+- It will take 1 second to fire an Idle crow after it’s been summoned.
+## Flight Path
+- Dire crows on a “Flight Path” can inflict a damage state during the launch if survivors are on the Flight Path
+- This Flight path is 7.5 metres in length with a width of 1 metre.
+- The Flight Path is represented by a purple cylinder come from the Idled Crow which is only visible The Artist and
+- Flight Paths are not visible for survivors
+- The Flight path will determine the Dire crows Elevation/Depression. Once the Dire Crow reaches the end of the Flight Path or encounters debris prohibiting it from completing the flight path, it will hold its new height consistent. This means that you can summon Dire Crows and fire them up and down staircases and hills.
+## Swarm
+- There are three ways to become swarmed with a Murder of Crows
+- If a survivor comes within 1m of the Idled crow, they will become swarmed and the Idle will disappear.
+- If the Dire Crows travel along the Flight Path and travels further than 8meteres
+- If the Dire crows travels along the Flight path but is interrupted by a tile or debris
+- Swarmed survivors will be represented by a white silhouette of a group of crows or a “Murder of Crows” rotating around the survivor
+- Survivors have a few options to remove the Swarm which are discussed in (Chapter 6)
+- To inflict a damage state, Swarms require the Artist to hit the survivors with an additional swarm
+- There is a short amount of time to inflict a damage state.
+- Survivors are invulnerable from receiving another swarm/damage state for 0.75 seconds
+- This is there to prevent the Artist from stacking a set of crows on top of eachother in order to damage the survivor BUT there is a trickshot you can perform to line up crows to inflict a damage state which will be discussed in the trickshots (Chapter 14) .
+- After swarming a survivor, Artist will have a brief window to aim a follow up shot to inflict a damage state (5 second cooldown after launching one dire crow + 1 second power charge time + 1 second Fire cooldown = 7 total seconds).
+# Chapter 6: Removing the Murder of Crows
+There are two ways to remove a swarm. There was an additional way called Lightburning (shining a flashlight or using a flashbang on a swarm or Idled crow) but was removed as of Patch 6.7
+## Repel
+- “Repel Action” is a prompt given to survivors after receiving a swarm to manually remove the crows anywhere on the map.
+- It takes 8 seconds of uninterrupted “repelling” to remove the Murder of Crows.
+- The swarm aura will be visible to the artist until the survivor repels for a minimum of 2.5 seconds or if a survivor hops into a locker.
+- This aura can be further increased by 1.5 seconds by using the Velvet Fabric addon (totaling 4 seconds).
+- Survivors who let go of their repel will need to restart the 8 seconds.
+- Survivors MUST stop repelling to perform any action.
+- You can force a survivor into unfavorable situations when repelling. If a survivor has been repelling for a few seconds, they will be more inclined to run through a pallet so swing through with the M1 button. Worse case, they break the repel which means we can get ready for another Swarm.
+## Locker Hopping
+- Hopping into a locker (hop lock) will immediately remove a swarm.
+- This is more risky if the survivor does this at short range as the Artist will be able to close distance while also following up with another swarm reapplying it.
+- There are certain tiles where a survivor can safely hop into a locker at short distance (i.e. killer shack with the pallet down)
+- It's always more beneficial for a survivor to fast vault into and out of a locker
+- Artists can counter this by following-up with a swarm aimed on the outside of the noise notification created from the locker hop. If aimed directly at the locker, it will likely miss since survivors have enough time due to cooldowns.
+# Chapter 7: Setting up your shots
+There are three things to think about as you set up your shot:
+- Survivor Pathing
+- Distance
+- Map knowledge/Tiles
+## Survivor Pathing
+Swarming a survivor at distance will cause survivors to run in one of two ways . In a straight Line and Erratically.
+### Straight Line Pathing
+- Easy to hit survivors at distance since we can line up a point of interception.
+- If a survivor uses an exhaustion perk that provides haste (Lithe, Sprint Burst, Dramaturgy, Balanced Landing) a greater lead will be needed.
+- Map knowledge and resource knowledge is very helpful since survivors may be slowed by certain tiles/debris .
+### Erratic pathing
+- Survivors who have erratic pathing change up their speed or double back.
+- If a survivor attempts it once, they will likely attempt it again.
+- Setup a follow up crow in a shotgun formation (multiple Idled crows spaced with minor changes in angles) which will spread your shots across a larger region.
+## Distance
+The further the survivor the sharper the angle you will need to lead your shot. The closer the survivor, the wider the angle needed.
+## Map Knowledge
+Understanding tiles and maps can be extremely beneficial for sniping survivors as you can account for any movement changes due to walls or items and alter the angle needed to land another swarm. This is learned through repetition and muscle memory.
+On this note, some indoor maps provide typical survivor pathing making swarm shots easier to hit since survivors will be confined to a particular space.
+Call out your shots.
+Survivors use the shortest pathing to make it to their next objective. That means they will hug walls tightly to buy themselves as much distance.
+This is why map knowledge plays a crucial role as you will learn survivors pathing over time.
+Aim for corners of your objectives so that you can  zone your survivors into the shot as opposed to having your shot aimed directly at them. Let the swarm do the work for you instead of relying on your opponent.
+# Chapter 8: Crow Facts
+## How fast do the birds travel
+Dire Crows travel at a speed of 20 m/s and increase to 35 m/s after 0.3seconds. This makes the Dire Crows the fourth fastest documented attack in the game behind : 1. Trickster 55 m/s 2. Huntress min 25 m/s hatchet 40 m/s
+3. Gunslinger 40 m/s
+4. Artist 20 m/s crow to 35m/s after 0.3s 5. Demo Shred attack 18.4 m/s
+6. Plague vomit : 10.55 m/s
+7. Blight rush attack  9.2 m/s
+# Chapter 9: End Game
+Exit gates can be monitored with a dire crow. Keep a visual line of sight on one door and walk as far back as you can where you can still view the exit gate lights.
+Continue to launch dire crows at the other exit gate alternating between one dire crow towards the exit gate and two dire crows just on the outsides of the exit gates. This is to catch a survivor attempting to dodge your crows while trying to open the doors.
+# Chapter 10: Launching Crows
+## When to use Short Range Crow:
+Artist is one of the top zoning killers and punishes survivors for using resources such as windows and pallets. Zoning can be accomplished by placing a crow at certain choke points at a tile forcing survivors to leave the tile completely or to be forced into an unfavorable position.
+There are three general setups for Dire Crows at short range:
+- Horizontally
+- Vertically
+- Swarming at survivor check spots/choke points.
+It's preferable to adapt to your survivors playstyle and switch up positioning to keep survivors guessing. A horizontal placement is preferred as it is more difficult for a survivor to bait out an early shot from the Artist and has a higher chance of the survivor wasting a resource..
+If the survivor is within 6 meters of you and doesn’t have a tile to play, you can summon a Dire Crow behind them for an easy hit.
+## When to launch long range crows?
+Whenever you are not in chase, you should be launching Dire Crows towards points of interest. This gives great map awareness and can lead to pressuring certain generators and survivors.
+It is possible to engage with more than one survivor at a time. While chasing a survivor and pressuring with your basic attack (M1) you can use swarms to damage survivors at a distance. This is difficult to pull off and requires some practice as missed attacks will hamper your current chase, lengthening the time it takes to down a survivor.
+# Chapter 11: Builds
+Artist can be broken down into beginner builds, intermediate builds, expert builds and fun niche builds. Addons allow you to play and learn different versions of Artist.
+## Beginner - Close Range
+Addons: Mattias’ Baby Shoes, Festering Carrion Perks: Lethal Pursuer, Barbeque and Chili, Nowhere to Hide, Pop goes the weasel
+## Beginner - Long Range
+Addons: Velvet Fabric, Thick Tar Perks: Lethal Pursuer, Barbeque and Chili, Nowhere to Hide, Pop goes the weasel
+## Intermediate
+Addons: Severed Hands, Festering Carrion Perks: Scourge Hook: Pain Res, Barbeque and Chili, Nowhere to Hide, Pop goes the Weasel
+## Competitive - Versatile
+Addons: Severed Hands, Severed Tongue Perks: Scourge Hook: Pain Res, Dead Man Switch, Corrupt Intervention, Rapid Brutality
+## Pears Build
+Addons: Severed Hands, Automatic Drawing Perks: Scourge Hook: Pain Res, Dead Man Switch, Turn Back the Clock, Rapid Brutality
+# Chapter 12: Add-ons
+Below you will find a tier list in order from Excellent -> Very Good -> Good -> Situational -> Bad -> Terrible. Last Updated: Patch:10.0 - Jason
+Many addons for the artist are situational on a certain outcome, a certain group of survivors or a certain build to make it function consistently.
+This means that there are multiple ways to play Artist as well as different playstyles. Like any tier list, let this give you an idea on what to use but try out each addon. Discussions bring new ideas to the table and this list continuously updates.
+## Common Addons
+### Choclo Corn
+Rating: Terrible
+Thoughts:
+Having an Idled Crow linger for an additional +2 seconds can seem like it provides more time to zone survivors into your crow in theory. In reality, it ends up hurting the Artist as she is unable to reposition poorly summonedd crows or reset at a new tile. Survivors will leave the loop entirely or will be able to sneak pass the Flight Path. Survivors can pressure the Artist with the lingered crows to hold her out of power longer. It's better to have it disintegrate and attempt to swarm. Choclo Corn actively hampers Artists cooldowns turning her into an M1 killer versus W keyers.
+Combine with:
+- Mattias’ Baby Shoes
+- Still Life Crow
+- Ink Egg
+### Oil Paints
+Rating: Bad
+Thoughts:
+An info add-on that provides slightly more range. Can locate survivors on multi-floor maps.
+Oil Paints doubles the detection radius to trigger Killer Instinct from 1.5metres to 3 metres. You will sometimes be able to locate a survivor on another floor by this add-on. It can catch survivors who are trying to get out of range as a swarm approaches. The original 1.5m is plenty but the doubled amount could provide some information on what direction they ran away too. Many Artists bring in Aura focused builds and are less reliant on killer instinct. Killer Instinct does have a hard counter so veteran survivors can negate this add-on by crouching.
+Combine with:
+- Festering Carrion
+- Vibrant Obituary
+### Thick Tar
+Rating: Good
+Thoughts:
+Thick Tar gives a very short increase to the repel duration with an increase of 0.5 seconds. Where this shines is that the Artist will likely be on cooldown and has mere seconds to position and fire a secondary dire crow to inflict damage. For a common addon, you can increase your window of opportunity to inflict a damage state by 33% coming out of cooldowns with Thick Tar. This is a fantastic beginner friendly addon providing you additional time for precision while watching the survivors running patterns. This can be swapped to another addon when you are comfortable with your timing.
+Combine with:
+- Festering Carrion
+- Severed Hands
+- Severed Tongue
+- Velvet Fabric
+- Thorny Nest
+- Silver Bell
+- O Grief, O Lover
+- Darkest Ink
+### Vibrant Obituary
+Rating: Bad
+Thoughts:
+Vibrant Obituary doubles the amount of duration of killer instinct allowing to slightly improve on the survivors tracking. The extra duration showcases the survivors pathing tendencies. For example, survivors narrowly missing a swarm tend to return to the same generator. A survivor recognizing this may opt to leave the generator entirely which the killer instinct will show which direction they run to. Its a small effect and extremely situational. Since Artist generally just want to pester and gain macro knowledge, a few crows with no killer instinct triggers will provide the same type of knowledge.
+Combine with:
+- Oil Paints
+## Uncommon Addons
+### Automatic Drawing
+Rating: Good
+Thoughts:
+When your crows disintegrate from inactivity, they come back near instantly. Providing continuous pressure for Artists engaged in both close and long range. With the addition of the 9.3 Pallet Density update patch, Artist lost alot of her zoning capabilities as the new fillers outnumbered her crows in almost every zone. WIth no cooldown on expiry, Artist can now keep pace with the survivors while gaining bloodlust to always have her crows on hand. M2 faking with Automatic Drawing is especially lethal as it allows to better judge if the survivor will leave the tile. The added bonus is the repositioning of your crows while mid chase. Survivors will be attempting to dodge and avoid close range crows. A surprise stagger at distance requires zoning and a fast cooldown to constantly reposition and spot new areas to stagger.
+Combine with:
+- Festering Carrion
+- Severed Hands
+- Severed Tongue
+- Thorny Nest
+- Ink Egg
+### Festering Carrion
+Rating: Excellent
+Thoughts:
+Festering Carrion is great on multiple builds as you will consistently be launching Dire Crows throughout the match. Any add-on that reduces your cooldown is effective and Festering Carrion is beloved by Artists. This does cut down on your time to injure. Can be added to any build or any combination.
+Combine with:
+- Thick Tar
+- Severed Hands
+- Severed Tongue
+- Velvet Fabric
+- Thorny Nest
+- Garden of Rot
+### Still Life Crow
+Rating: Bad
+Thoughts:
+Still Life Crow is an extremely niche addon. Its a better/worse version of Choclo corn. The added +4 seconds really slows down Artists close range game if the survivor outplays the placement. At range, you can use Still Life crow to give more time place staggers giving some flexibility midchase as you do have more time to zone the survivor into your shot.
+Combine with:
+- Mattias’ Baby Shoes
+- Choclo Corn
+- Ink Egg
+### Untitled Agony
+Rating: Good
+Thoughts:
+Untitled Agony has a large hindrance penalty that is applied to the survivors for a very brief time. Although a good option in short chases when looking to M1, it can throw off the timing of a secondary swarm shot acting like a brief sprint burst to account for. Techniques such as a Swarm bait have replaced this addon in close range when played at tiles. This can be used to close the distance on a survivor.
+I would use it sparingly so that one can practice timing regular survivor motions.
+Combine with:
+- Severed Tongue
+- Darkest Ink
+- Garden of Rot
+### Velvet Fabric
+Rating: Good
+Thoughts:
+Velvet Fabric is a long range Artists best friend. I would highly recommend this add-on for those learning Artist as the added time will teach you survivor pathing at distance. This helps versus survivors who attempt to change their pathing mid repel by a new direction or doubling back. It provides a  37% increase to the aura of a revealed swarm during the repel stage. This allows you to set up a follow up swarm with deadly precision due to the added information on the direction of the survivor. This can be removed from builds once the Artist has become comfortable learning long range placements. With the addition of edge map lockers, Velvet Fabric has seen a lot less use as long range is less effective.
+Combine with:
+- Thick Tar
+- Festering Carrion
+- Severed Hands
+## Rare Addons
+### Charcoal Stick
+Rating: Terrible
+Thoughts:
+Charcoal Stick is a detriment to Artists power in every form. Survivors will see the summoned Dire Crow and the direction it faces for 0.5.
+This gives survivors ample time to reposition and get far enough away from the Dire Crows path as well as its Killer instinct trigger. There is nothing good to say about this addon.
+### Darkest Ink
+Rating: Bad
+Thoughts:
+This effect is best used during short range chases as it is a counter to bond and more importantly, Windows of Opportunities/ 5 moves ahead . Its more beneficial for the Artist if the survivor wants to play at a tile instead of running around aimlessly around edgemap. This is why we don’t want the blindness addon to be applied.
+It has little to no effect at long distance as survivors will have ample time to repel and reset. This addon does require the survivor to fully repel the swarm so hopping into a locker or receiving a damage state will negate the addon.
+Combine with:
+- Thick Tar
+- Untitled Agony
+### O Grief, O Lover
+Rating: Situational
+Thoughts:
+O Grief, O lover provides a very brief state of exhaustion to the survivor that has no lingering effect. This means that the moment they repel or remove their swarm, they will get their exhaustion perks back.
+With Artist ability to injure at long range, Exhaustion perks can be beaten by accounting for the changeup in speed provided. Its more of a comfort add-on than anything if you are tired of exhaustion but you will see alot of perks slip through the effects. Learning to recognize and alter your followup swarm for the haste boost is extremely beneficial.
+This has minimal value in chase but does have the ability to negate Overcome, Lithe, Dead hard, and Balanced Landing before the survivor has a chance to trigger it.
+Combine with:
+- Thick Tar
+- Untitled Agony
+### Silver Bell
+Rating: Situational
+Thoughts:
+Oblivious is great to surprise your survivors on objectives or mid chase by hiding your red stain allowing to catch your survivors off. Once the swarm is removed, it removes the Oblivious status effect. This add-on can keep survivors on their toes but suffers when survivors have visuals on the killer.
+The survivor should be able to pinpoint the Artists location by the direction of where the crows came from and the distance from where they were fired. This will catch survivors who are completely unaware but likely… you would have done that anyway due to their lack of awareness.
+Combine with:
+- Thick Tar
+- Untitled Agony
+- Garden of Rot
+### Thorny Nest
+Rating: Good
+Thoughts:
+Thorny nest applies a temporary status effect to survivors that have been damaged by a Dire crow. The 70 seconds is equivalent to a hook state so survivors coming off the hook should still have this applied. Firing crows towards survivors off hook can consistently reset heals. Playing an aggressive close game can allow the Artist to play a hit and run playstyle if there are multiple survivors in one area. Especially useful for survivors with medkits as a swarm towards a survivor healing themselves will reset the heal or will have survivors holding the swarm trying to finish. Vigil does hurt the overall use of Thorny Nest.
+Combine with:
+- Thick Tar
+- Festering Carrion
+- Velvet Fabric
+- Severed Hands
+- Severed Tongue
+- Iridescent Feather
+## Very Rare Addons
+### Ink Egg
+Rating: Good
+Thoughts:
+Ink Egg provides an additional crow to fire while applying a faster disintegrate timer (from 10 seconds to 8 seconds) .
+This is a zoning Artists favorite add-on locking down an entire area of a section of the map. With the 9.3 pallet density patch this gets more use as you can place more crows down to effectively shut down multiple pallets. Ink Egg also opens up the possibility of complex trickshots providing an opportunity to melt a healthy state into a downed survivor. This add-on is equivalent to the double edged sword. The additional crow doesn’t see a lot of play as the cooldown is horrendous. The reduced timer speeds up the Artists gameplay and will pressure the Artist for faster setups. Many times leading to the crows disintegrating due to the muscle memory. This means that staggers will likely be off the table as the setup + zone time will be too quick. One of the toughest addons to master.
+Combine with:
+- Choclo Corn
+- Still Life Crow
+- Severed Hands
+### Mattias’ Baby Shoes
+Rating: Situational
+Thoughts:
+Mattias’ Baby shoes is a lethal add-on at short range where survivors try to loop any tile with an idle crow present. It is a beginner trap.
+Survivors looping a particular tile try to bait out the Dire Crows on a Flight Path  and Mattias’ Baby Shoes will allow you to outwait them. Artists become too reliant on Mattias’ aura read that it becomes tough to learn the muscle memory required with an efficient zone. At higher levels of play, survivors DO NOT play tiles unless completely zones and a decent survivor will just Shift W away.
+This is an add-on that I would suggest beginner Artists use to learn survivor pathing on how survivors attempt to 360 or crouch before a tile and then immediately swapped off.
+Combine with:
+- Choclo Corn
+- Still Life Crow
+- Severed Tongue
+### Severed Hands
+Rating: Best of the Best
+Thoughts:
+Artists most powerful addon.
+The ability to spread the swarm to other survivors can be incredibly frustrating to survivors. Survivors who are congested will reapply the swarms giving plenty of time to setup a followup. This will also happen at lockers when survivors start to locker hop.
+The Artist can damage multiple survivors at once and punishes survivors who are working on the same generator. This is extremely dangerous for survivors caught healing under the hook and can provide an efficient way to tunnel. Severed Hands shines for the amount of trickshots and the speed of injuries the Artist can cause. A staple to the Artist and Artist should never be caught without it. The only negative is that we are always hunting for more in the bloodweb.
+Combine with:
+- Thick Tar
+- Festering Carrion
+- Velvet Fabric
+- Silver Bell
+- Thorny Nest
+- Severed Tongue
+- Garden of Rot
+### Severed Tongue
+Rating: Excellent
+Thoughts:
+Severed Tongue is definitely a comfort addon for many Artist mains making her feel more fluid while chasing. After the attempted rework of Patch 9.1 of the Artist. Severed Tongue became basekit but never included in the patch notes. It was confirmed by a consultant. Severed hands is suppose to remove the slowdown of movement speed post launch of Dire Crows. Currently, it allows you start another action 0.5s afterwards. This could be breaking a pallet, picking up a survivor or using a basic attack. An extremely powerful shadow buff which opens the door for new plays. Think two tap city. The reduced timer is JUST enough time to hit a basic attack before pallet drops or to lineup a 2 tap if really close to the survivor. Without it, the survivors injury haste will be sufficient to avoid the two tap. Hopefully this is intended and stays
+Combine with:
+- Everything
+## Ultra Rare Addons
+### Garden of Rot
+Rating: Situational
+Thoughts:
+Exposing survivors is a very strong effect and the effects of Garden of Rot (GoR) are fairly brief.
+This will punish any survivor that does not gain distance during chase and could net you some early pressure from unsuspecting survivors as you close in for the down.
+If a survivor makes it to a pallet or window then the expose will wear off. The fact that Vigil exists and is extremely popular hurts this addon. An easy tell for a survivor that GoR is in play is that the Artist is choosing to gain distance without setting up a secondary crow. They can play Artist as an M1 killer, hop into a locker to remove the swarm and negate GoR or allow for the Artist to aim for a secondary shot. Its a shiny toy that punishes casual survivors but will get countered at intermediate and high levels.
+Combine with:
+- Festering Carrion
+- Untitled Agony
+- Velvet Fabric
+- Silver Bell
+- Severed Hands
+### Iridescent Feather
+Rating: Good
+Thoughts:
+Iridescent Feather turns the Artist into a Stealth Killer.
+The Artist will gain the Undetectable Status effect when Birds of Torment is on Cooldowns and has fired all available Dire Crows. You also reduce your available crows by 1.
+Iri Feather fits in some fun builds to provide periodic stealth.
+The downside of losing 1 crow is not really a downside as you want to avoid sending 3 crows as much as possible. Performing a slingshot can provide enough stealth time to sneak in for a two tap. Stealth only goes so far on Artist kit as survivors can still pinpoint her location by the direction and distance her swarm silhouettes are fired from. Swarm Baits are extremely versatile with this addon as the survivor will lose have no terror radius immediate after the move. Iri Feather gets more value the more versed the Artist main is at Swarm Baits.
+Combine with:
+- Severed Tongue
+- Thick Tar
+# Chapter 13: Tiles
+We will go over some basic setups of Dire Crow placements at different tiles. Below you will find a legend of what each icon means, what style of shot this is for and the description of what it accomplishes.
+Image | Type of Shot | Description
+ | Flight Path | The placement of the Dire Crow when summoned at the tile.
+ | Flight Path | The direction that you will be aiming towards.
+ | Idle Shot | The placement of the first Dire Crow when summoned at the tile. This dire crow serves the purpose of the swarm bait .
+ | Idle Shot | The placement of the second Dire Crow when summoned at the tile. This dire crow is placed towards a check spot.
+ | Idle Shot | The direction that you will be aiming towards.
+ | Check Spot | The position of the survivor using the check spot. You will aim towards the survivor to swarm.
+ | Check Spot | The direction that the survivors will be looking towards.
+Disclaimer: There are multiple different setups for each and every tile in the game. I did my best to include the most common setups per tile. Each tile must be played according to your survivors pathing.
+## Killer Shack
+The strongest play is the Flight Path from window to pallet at killer shack.
+If a survivor runs along the back wall, there is a high chance they will throw killer shack pallet to protect themselves from a basic attack while also receiving damage from our setup.
+Some maps such as Garden of Joy and Greenville have objects resting on the window sill from the inside which will make this shot more difficult as it will likely swarm.
+## Basic Jungle Gym
+Idled Shot and swarms towards a check spot seem to work best. Flight Paths are fairly easy to see so survivors will take the tile wide to avoid them.
+## Short Wall Gym
+Attempt Flight Paths on this tile due to the smaller length of the wall allowing you to zone quickly.
+## Four Lane - Inside Wall
+Both four lane plays the same. Stay as close as possible. Swarms towards the pallet, window and check spots work great.
+## Four Lane - Outside Wall
+## T&L Wall
+My favorite spot is to place a Flight path towards the check spot on the T wall. I never place horizontally or vertically as the survivor will typically be behind the long wall of the T corner checking. Any survivor peeking will take damage.
+## Pallet Gym
+Place a Dire Crow horizontal to the pallet against the long wall. If you're close enough, survivors will drop the pallet for distance and you can launch your dire crows for a free hit.
+## Trash Pile Gym
+Idled shots work great on this tile. Setting up vertically through the window can be problematic as you will lose your line of sight when rounding the corners allowing the survivor the opportunity to run past your choke point.
+## Labyrinth/Maze Gym
+Swarm or basic attack at this tile. The tight corners and constant line of sight blockers will make going for setups and Flight Paths much more difficult.
+## Locker Gym
+A single vertical crow through the pallet and towards the window can shut down both with a single Dire Crow. Idle shots can work as well but requires the survivor not to loop behind the lockers.
+## Double Window Gym
+Place your Dire Crow horizontally at a window to shut down one side and zone the survivor back into it.
+## Variant Gym
+This tile is good to swarm. If they did not throw the pallet and are headed to the window, there is a good chance you can aim towards
+## Dead Dawg Gym
+Swarms work best here as survivors will have plenty of time to adjust to crows being summoned for a Flight Path.
+# Chapter 14: Maps
+Below is a tier list of how the Artist performs on each map in no particular order. This section will continuously be updated to provide up to date techniques specific to each map.
+## MacMillan Estate
+### Coal Tower
+You can Idle a crow on these tracks creating a roller coaster shot over tiles.
+Avoid: Main building - The generator that spawns at main is low priority. Survivors will run upstairs inside main if swarmed.
+### Groaning Storehouse
+Main building has check spots along the corner walls from pallet side to the window . These are the corners I would attempt to swarm through while running from the inside. If they get swarmed on the left arrow then they will have to stop their repel to vault the window allowing for an easy follow up.
+### Ironworks of Misery
+Upstairs main is tough due to the elevation change. Placing a Dire Crow along the control room upstairs will allow you to swarm through to the window. A swarm shot could be placed along the same lines afterwards as this is where the survivor will hit a choke point on the outside stairs forcing them to drop down or continue down the stairs. You can usually hit them on that small platform if swarmed at the window.
+### Shelter Woods
+Survivors will use main to run upstairs and jump through the window behind the counter. You can place a crow underneath out of sight of the survivor and force survivors through the window giving yourself a free damage state from the flight of path.
+### Suffocation Pit
+Main building has a few choke points. All sides can be played and have Flight paths through the windows shutting down important areas of the building. There's a pallet that will spawn alongside this window. One crow can shut down both the window and the pallet.
+A crow on this corner can climb the stairs and go through the window.
+## Coldwind Farms
+Some of the hay bales can impede the flight path converting to a swarm.
+### The Thompson House
+Survivors who loop at main and want to run upstairs to play window can have a surprise waiting for them when they hit the ground. As you walk up the stairs, turn around and place an Idle crow at the bottom of the stairs and out of the door to catch survivors taking the leap
+### Rotten Fields
+A flat map with a few generators lined up. Fairly simple.
+### Rancid Abattoir
+Chasing in main can be a little tricky. The rails will cause the survivors to consistently double back and slow speed making long distance snipes through main more difficult. If chasing short range, try to corral the survivors through the rails and place a swarm at a point further on in the corral.
+### Fractured Cowshed
+A well placed crow towards this corner will be our choke point on Fractured Cowshed. Survivors will tend to check spot at this point to see if you're coming from either the entrance or from the pallet.
+### Torment Creek
+Break the door at main and place an Idled Crow horizontally towards the window.
+## Crotus Prenn Asylum
+### Disturbed Ward
+These ramps are dangerous for survivors as a Dire Crow can use the Roller Coaster tech to inflict damage as survivors run up and inside main.
+### Father Campbells Chapel
+Inside Main, you can place an Idled crow from the bottom of stairs and it will travel the L shape all the way to the top.
+There is a window at the back of the trailer of the Circus that survivors like to loop. A Roller Coaster shot can be used here on ground level that will travel above the window and through the trailer.
+## Autohaven Wreckers
+### Wreckers Yard
+Survivors love playing the buses running through the pallet on one bus towards the other bus with the window. The window is close enough to the ground that a Dire Crow can be placed on ground level directed through the window of the bus towards the back of it.
+### Blood Lodge
+There is a small gap on this tile that the bird can travel through. Sometimes even a bag of garbage that can spawn here that the Dire Crow can be placed ontop.
+## Haddonfield
+This is a tough Artist map with three to four gens spawning on two to three different levels meaning we have to move amongst many floors. Best to concentrate on whatever generators are on the ground floor and hold those gens.
+## Gideons Meat Plant
+It is an indoor map. It has a TON of pallets and windows and some strong tiles for the survivors. Survivors will path in a box formation around tiles making swarms deadly. Swarming towards these choke points means we can set up some Dire Crows to intercept them. The Artist can also set up Drop Shots at staircase tiles to trap survivors in a losing situation. Drop shots are a new style of trickshot which will be explained in the Trickshot section of the guide.
+One of the easier spots to swarm a survivor. Aim in the middle of the grinder and wait for the survivor to vault and be airborne before firing your Dire Crows.
+Here are a few spots where you can set up a Drop Shot to shut down a tile:
+There is a small pocket of space where a survivor can avoid the flight path between the railing and up against the pallet. This placement is to catch unsuspecting survivors but they will likely not fall for this one again.
+A difficult shot to pull off. Useful for pressuring generators on the basement level while guarding a generator in this corner or a hook. Sometimes a hook will spawn in this direction allowing for a surprise but survivors will have to be sleeping. This is moreso a show of strength than being 100% useful.
+Leave this pallet down.This is a very common scenario to be in for any type of killer with this exact positioning. If they leave this tile completely to another room, you should be able to inflict a damage state with a basic attack. If they try to mind game the pallet, they will receive damage from the Flight Path. Repeat this step if they stay.
+## Lery’s Memorial Institute
+This map has a lot of walls for survivors to bump into and slow them down. Once a survivor is swarmed, they try to find an open lane to run without having to worry about running into a wall. This will lead the survivors to the outside of the map running usually in a box formation. Locating survivors via swarm is easier as multiple generators are in a line allowing for a single Dire Crow to search multiple points of interest.
+## Red Forest
+### Temple of Purgation
+### Mothers Dwelling
+Each map has one generator that can’t be reached unless the Artist changes her elevation. Its best to pressure survivors on the ground level. If attempting to hold a three gen
+These hills that have generators on them can use a roller coaster tech
+## Badham Preschool 1-5
+Badham Preschool is one of the most frustrating maps for the Artist with three generators constantly spawning across three different levels. Although the map spawns with “one” main building, we treat each of the houses as a main building. Coupled with survivors changing elevation mid chase to avoid a swarm, this can be seen as her worst map.
+Preschool Setup
+These are your choke points. Directing a Dire Crow to swarm a survivor headed to one of these points will allow for an easy spot to aim while providing an easy spot to follow up.
+Setting up Main downstairs
+If the doors remain unbroken, we can force survivors to say hello to our flight path. Place a Dire Crow down the stairs (or horizontally towards the top of the stairs for more experienced Artists) closest to the generator and place another Dire Crow towards the pallet beside the hole in the ground. Fall down the hole and zone the survivor into either of the Dire Crow. This has to be done quickly but should force survivors up the stairs in time to get a Flight Path. For more experienced Artists who may come across a survivor who was swarmed due to stealing a dire crow (from generator side), you can place a third dire crow preemptively aimed from the classroom towards this opening and perform an Idled shot.
+House of Pain
+The most hated house in Dead by Daylight. For Artists its an easy setup. Survivors will be caught downstairs working on the generator or will try to loop the pallet below. Place one Dire Crow at the edge of the car so half the flight path is down the stairs. Place another Dire Crow down the stairs on the other side (you can also place it horizontally towards the top of the stairs in case you're worried they will steal the Idle crow).
+If the survivor is caught outside and is trying to run towards the House of Pain basement from the spot below (running towards the right and along the back); you can place a Dire Crow from the ground level outside towards the window. The window is low enough that it will not interrupt the flight path allowing for a direct flight path from outside to the top of the stairs.
+The actual Artist house of pain.
+This house has many windows, many openings, weird room layouts and furniture to contest with. This house is the reason I dislike the map so much. We will have to rely on a lot of swarms through this house using the windows and doors as a choke point. If fortunate and the survivor runs upstairs, we can place a Flight path:
+- Behind the stairs and out the door
+- Down the stairs and out the door
+- Underneath the front door aimed to the opening in the floor (from upstairs)
+Any survivor that drops down will be faced with a Flight Path and a free damage state from the Artist.
+## Backwater Swamp
+### Pale Rose
+### Grim Pantry
+Ahhhh Swamp. The one I wish stayed away. Throughout the map, the terrain will change causing your Dire Crows to change elevation which will make swarms that much more difficult. The crows will typically trigger killer instinct if attempting to swarm from a different elevation. Try not to chase consistently at main. Its got many corners and different openings as well as different areas where the survivor can move up or down a floor. I will typically drop chase at main if the generator there is already completed. Try to lock down a three gen that's all on one level.
+## Yamaoka Estate
+### Family Residence
+Not the Yamaoka that the Artist wants but its pretty decent. All generators can be reached. The main building requires little setup as a horizontal Idled crow will shut down the windows on the inside allowing you to either injure/down the survivor or have the survivor run outside.
+On these hills, there is a ridge that you can Roller Coaster your Dire Crows up.
+### Sanctum of Wrath
+Sanctum of Wrath's main generator is too high for a Dire Crow to swarm through from the ground level. You will have to climb the stairs each time. Tiles are fairly small. When pushing Main we can set up a trap along the windows on the outer edge. The walls are slanted upwards from the ground to the top allowing us to Roller Coaster our shot along the wall and over the window. This can catch an unsuspecting survivor looping.
+## Ormond
+### Mount Ormond Resort
+Nice flat map for swarms to pass through multiple generators. Main building has two floors that survivors will utilize
+Break down the door on these sides. I prefer to break these at the start of the game. Swarm at the window and swarm a followup crow.
+You can set up a sneaky roller coaster on this small hut. Summon your Dire Crow and aim towards the window to punish a survivor. It looks like itll swarm/miss but in reality they will receive a damage state for attempting a Balanced Landing here.
+### Ormond Lake Mine
+They ruined Ormond for Artists. Many changes of elevation and small craters in the map will cause your dire crows to consistently change elevation which can cause some near misses.
+Survivors may use Main to their advantage due to the many drop downs and staircases to avoid being swarmed multiple times. Add in the factor of multiple objects close together can cause your perfected Flight Path to turn to a swarm.
+I found it best to attempt to swarm on this map.
+## Hawkins National Laboratory
+Lots of clutter. Multitude of rooms with different levels. Bad RNG for generators being on different levels.
+The Artist will want to zone survivors into the corners of these maps as much as possible and try to get damage states in the smaller rooms on survivors attempting to play the pallet. There are changing entrances to rooms which makes it more difficult to predict your survivors' running patterns. I would try to keep your chases in short range on this map.
+Your Dire Crow can reach inside of these chambers.
+You can surprise a survivor working on the top generator who drops down. Place a bird over the debris below and head upstairs. Listen for the audio queue of the survivor falling and hitting the ground and fire your Crow.
+## Dead Dawg Saloon
+Break down both doors of the saloon as soon as possible.
+While chasing at main, summoning a dire crow towards the window to swarm the survivor will allow the Artist to follow up with a followup swarm.
+I find that this area towards the doors works best. Survivors like to try to cut the angle and this stops it.
+You cannot reach the gallows on the top floor or ground floor but will be able to reach the gallows with a swarm by placing a Dire Crow in front of these sandbags. It will ramp up changing the elevation needed.
+Water towers you can place a Dire Crow horizontally covering the pallet but also the corner on the outside.
+## Midwich Elementary School
+Focusing on short range will be the key to winning Midwich.
+Survivors can utilize one of the many staircases or dropdowns to quickly swap levels to avoid getting swarmed multiple times. You will need to focus on winning one on ones and your short range chases. Use inside corners of the match as choke points and swarm away.
+## Raccoon City
+### R.P.D East Wing
+### R.P.D West Wing
+RPD is a multi story map with many changes of elevation and generators spawning on different levels. Survivors will stick to the same routes which makes swarming a little easier. It's not worth it to waste too much time setting up Flight Paths due to tight corners and survivors' ability to chain different tiles . Best to stick to swarms.
+The arms of these chairs can cause a roller coaster towards the pallet.
+If a survivor is caught in the alleyway working on a generator you can set up a slingshot. You will need to zone the survivor and send out your shot once you lose LoS at the hedges.
+Aim towards the inside corner of this stone barrier. The second shot should line up with the outside of the top of the stairs and beside the post. Both shots should line up side by side at the gate.
+If you and the survivor are both on these stairs, you can place a Dire Crow towards the pallet. They will either make the pallet and be forced to throw this pallet, taking damage from the Flight Path or will greed the pallet and be forced into a basic attack.
+## Forsaken Boneyard
+### Eyrie of Crows
+A flat map making generators reachable by all swarms. The generator placement makes it hard to line up multiple generators with one dire crow so we will have to attempt to swarm Main has two floors but survivors tend not to use the upstairs as there is only one pallet and it can spawn on either side making it unsafe.
+## Withered Isle
+This ladder can get in the way to convert the Window to Pallet flight path to a swarm. Much more difficult to pull off this shot on this map in particular but still possible. Its the same layout on both Withered Isle maps.
+### Garden of Joy
+Aiming at the right side of this window will allow you to swarm survivors looking to jump down from the second floor window where the generator is.
+### Greenville Square
+This is one of the few maps where sniping long range feels easier than it does at short range. This is a map with many pallets and small areas for survivors to loop at. Survivors will constantly be pivoting in chase which makes setups easier to dodge. Work with your swarms in the middle of map and try setting up Flight Paths on regular tiles.
+## Decimated Borgo
+### The Shattered Square
+Shattered Square has some nice open areas to set up swarms. Artist can play around most tiles and can prematurely shut down all loops except for main. You can give chase to main due to the size of main. Try to set up a dire crow under the window and zone your survivor towards it. If they fall off the ledges it can be difficult to set up an accurate bird as survivors can change their direction fairly easily.
+### Forgotten Ruin
+This map is garbage.
+Swarm a survivor at distance. They use the portal. Rinse and repeat. Lower elevation on either side of the dungeon which can cause further complications to swarms. You can swarm survivors at portals but you will need to be close enough to immediately follow them and fire a secondary swarm as soon as you pass the portal.
+This is a map that you will have to attempt to play short range and zone. If you can hold the three gen in the dungeon and force your survivors upstairs you will find this map much easier. Hook your survivors inside your three gen.
+You can place a Dire Crow in front of the portal and damage survivors teleporting through.
+## Dvarka Deepwood
+### Toba Landing
+Main can be shut down completely making this a nice setup spot for the Artist. Summon a Dire Crow going down each stair and wait for the survivor to leap down before firing.
+This long loop can be shut down summoning a Dire Crow on the opposite side of the ramp. These ramps at Toba can cause a roller coaster effect allowing you to bypass the loop completely. What may look like a misplaced Dire Crow hidden from survivor eyes will punish any survivor looping this tile.
+This spot is RNG based and sometimes won’t spawn. You can catch your opponent off guard here. There is a pallet behind this tree. Using the Treasure chest, we can create a roller coaster effect over this loop and through to the other side.
+### Nostromo Wreckage
+Nostromo is a difficult map to set up Flight Paths due to the amount of turns and objects at each tile. The rock formations can easily turn a well placed Flight Path into a swarm negating a deadly part of the Artists power This is a map that you want to swarm as much as possible. Main cannot be reached by a Dire Crow so you will have to head to the wreckage to pressure survivors working on these generators. I would not prioritize the two generators at main and would love to see them get completed first in a match.
+# Chapter 15: Trickshots & Maneuvers
+Artist has a ton of tricks up her sleeve. Some are more flashy and niche but all can be useful
+throughout points in the match to keep survivors guessing.
+I have a compilation video here to check out what Artist can look like utilizing her best trickshots. Artist Trickshot Montage
+## Slingshot
+Difficulty: Beginner
+Imagine the Power Gauge as a clock that counts to 0.
+ALL slingshots are useful at least once in a match and upwards of more. At higher levels, survivors will become aware of what you're trying to pull off and should be doing their objectives during your cooldowns.
+Steps:
+- Place your first one and start walking forward/backward without stopping until you fire
+- Place the second Dire Crow at 5 o’clock
+- Fire
+Tips: If you are not using severed hands and you notice (with an aura perk) that survivors are doubling up on a generator, you can aim the shots slightly off center towards a particular survivor to target a specific one.
+Some Artists refer to this as a stagger but Slingshot is more accurately depicting the action.
+### Severed Slingshot
+Difficulty: Beginner
+Severed Hands will be needed as well as two survivors side by side (on a generator,exit gate, healing, unhooking etc.).
+Targeting ONE survivor:
+Steps:
+- Place the second Dire Crow at 9 o’clock
+- Fire
+Tips: If another survivor is near a choke point, you can have them assist on the play by using them as your front target.
+Targeting TWO survivors:
+Steps:
+- Place the third Dire Crow at 5 o’clock
+- Fire
+You can get the same effect using Ink Egg but the cooldowns will be much longer and you will need a MASSIVE amount of room to get this to line up. This is not advised.
+### ULTRA SLINGSHOT OF DOOM
+Difficulty: Expert
+Severed Hands + Ink Egg will be needed.
+Steps:
+- Place the fourth Dire Crow at 9 o’clock
+- Fire
+If survivors are caught off guard we should see one survivor go from healthy to downed and another that becomes injured.
+### Roller Coaster - NEW
+Difficulty: Expert
+A Dire Crow will travel along a flight path and will change elevation until it reaches the head of the flight path. As long as the Dire Crow does not touch any object or debris, it will inflict damage. Since the Artist can place her Dire Crow on top of small objects, we can use anything connected to a ramp OR anything that has a ramp to make the flight path go up and down.
+Downed pallets can also trigger this type of trickshot as long as there is debris on the other side that the Dire Crow can travel down. This is useful for small tiles where you would have to swarm or the survivor is using their check spots effectively.
+Many realms have a corner with a lower area on these little hills allowing for a roller coaster towards the higher point.. This can be useful if survivors are trying for Balanced Landing plays or if survivors are healing under a hook and you’re on the backside.
+### Swarm Bait - NEW
+Difficulty: Beginner
+We will be doing some mind games here. We are going to let survivors think they are stealing our Idled Dire Crow BUT in reality we are setting them up to take advantage of the 0.75 invulnerability for a VERY fast damage state. Place a Dire Crow in an area where the survivor will be running through it and have a follow up crow aimed at a choke point where they will have to run by.
+This is best done at a window. Lets use Killer shack for example.
+Steps:
+- Place Dire Crow directly through the window (the bait)
+- Immediately place a Dire Crow aimed towards one of the corners
+- Survivors will steal the “misplaced” Dire Crow
+- Start zoning walking the opposite side so they are forced to your choke point
+- Fire
+Because survivors will not hear the Artist placing another Dire crow, they will play the tile more aggressively.
+### Pinned Survivors
+Difficulty: Beginner
+Useful for survivors who are camping corners and can be trapped against a wall or object. You can come across them naturally or via aura. These will result in a VERY fast down going from Healthy to Downed in a matter of seconds.
+Steps:
+- Locate Survivor
+- Pin Survivor against wall and provide nodders of domination
+- Place Idle Crows on the survivor causing a swarm
+- Use your basic attack to inflict a damage state and have the survivor lose collision and start the chase
+- Aim a Dire Crow towards the survivor
+- Fire
+### Dropshot - NEW
+Difficulty: Expert
+When a Dire Crow is summoned it will spawn 1.5 meters in front of the Artist. The Artist CAN manipulate what floor it spawns on but there has to be no pixels left on the current floor. This can be done on ANY edge. This makes it so that the Artist can fire a Dire Crow from any level.
+Steps:
+- Go towards the VERY edge of a higher elevation that overlooks another floor (you will notice your summon disappears)
+- Hold your Power button and inch closer to the edge
+- When “Summon” reappears WHILE still being on that top level , summon a Dire Crow
+If done correctly, it will appear below you. Midchase Stagger - NEW
+Difficulty: Grandmaster
+Midchase Stagger works similar to a slingshot. Both use the same mechanic of waiting for the 0.75s iframe to end before a second bird can strike. This is EXTREMELLY useful for survivors who are constantly running to gain distance. By understanding their pathing logic and implementing a perfect zone, Artist can setup two crows at opposing angles and distance to hit a survivor. The reason this is so hard is that the Artist must plan accordingly understanding the tiles infront of her and what the survivor may use. You will have to zone the survivor into your shot with your first bird hitting at one spot, and your second bird aimed at where the survivor will be with their current speed and path.
+### Two chases at once
+Difficulty: Expert This is the ultimate power move of the Artist. Engaging with two survivors at once from across the map. Plain and simple, you M1 the survivor in front of you while firing off swarms in the distance to down a survivor. Fast shoulder checks should be done on both survivors to keep visuals on them both. It will swing the game completely into your favor if successful or it will slow down your current chase to a halt.
+### Basement Setup
+Difficulty: Beginner
+Artists can punish survivors in the basement making it impossible for survivors to save and escape. This two tap maneuver has the Artist to place two to three Dire Crows from the top of the basement stairs down towards the bottom. As soon as the survivors reach the first two to three steps, fire the Idled crows while staying close to the top of the stairs. If performed successfully, you will be able to use your basic attack as they are passing to down them again.
+# Chapter 16: Keys to success
+- PATIENCE
+Patience is KEY. Let the survivors path into your setup. Waiting an extra second can have immense payoffs letting survivors do the work for you.
+This is very useful for survivors looking to bait out an upcoming Flight Path. They will attempt to 360 or crouch before the flight path to catch impatient Artists. Survivors will be forced to choose if they want to be damaged by an M1 attack or by your Flight Path.
+- Bully Squads If you suspect a downed survivor having Decisive strike or about to be rescued, you can summon a crow  behind the downed survivor before you pick them up. If they get saved, they will land on the idle crow becoming swarmed and you can follow up with another crow to place them back into the dying state.
+- Place your bird behind LOS blocker If the survivor can’t see where you placed the bird, they will have a tough time guessing which direction you are aiming for. Don’t go out of your way to do this but if the opportunity presents itself, run with it!
+- Be mindful of elevations Pay attention to the Flight Path direction. Having a crow that has a change in elevation will cause your crow to rise above or fly below the target depending on the .
+- Dont hold your M2 while powers on cooldown
+Artist movement slows from 4.6 m/s down to 3.68 when holding her power. Try to bring up your power as your cooldown to minimize loss of distance.
+- Generators on different floors Some maps have generators that are on different levels. Best to avoid monitoring these and focus on generators at ground level. Some maps are treacherous for having three levels where gens can spawn which means Artist becomes an M1 killer for those generators.
+- M2 Faking
+M2 faking can be an effective way to get survivors to preemptively leave a tile. Its also a useful tool to bait out those pesky Dead Hard gamers.
+- Leave certain pallets down
+Leaving small filler pallets can provide you with an audio queue to launch a dire crow. Its also useful to leave Killer Shack pallet down as there are a couple setups available around Killer Shack that can leave a vaulting survivor in a world of trouble.
+- Three Gen-ing
+The Artist can keep a wider three gen in comparison to other killers since she can fire Dire Crows to swarm or locate survivors from across the map. This is the case as long as the generators are on the same floor level.
+- Use objects in the map to keep elevation for a swarm
+Maps like Swamp or Ormond Lake Mine have consistent changes in elevation from the terrain alone. If you want to keep a dire crow along a particular level near a change in elevation, Idle the crow in front of an object so that it will turn into a swarm immediately. Swarms do not change elevation.
+# Chapter 17: Artist and her weakness’
+- Survivors who have erratic pathing
+- Survivors who hold the W key
+- Theft of your Idled crows from a secondary survivor as you are zoning
+- Lockers
+- Me. She's weak to me <3
+- Multi-story maps
+- Attentive survivors . Survivors can see a Dire Crow being launched for 0.75 seconds giving them ample time from distance to dodge the crow
+- Crouching. Crouching while avoiding her swarm will NOT trigger killer instinct. This tactic is used at higher levels as Artists tend to drop aura from their kit.
+# Chapter 18: Fun Facts
+- Considered one of the darkest and saddest lore in the Dead by Daylight Universe by many in the community.
+- Survivors hiding in a locker will still trigger Killer Instinct
+- Artist has three little crows in her hand. This is a representation of how many Dire Crows you have left to use.
+- One of the only killers to make a sound while she is falling.
+- Artist is the only killer to break a pallet using both her feet.
+- You can place a Dire Crow on top of a chest and create a Roller Coaster style of effect. There are some loops that have treasure chests attached to them which you can get creative with (example given in the Trickshot section - RollerCoaster tech
+# Chapter 19: Frequently Asked Crow Questions
+How many crows should I launch ?
+Typically, you only want to be firing 1-2 dire crows at a time.  There are only rare occasions that you want to be firing more than three birds.
+- You have someone already swarmed and damaged
+- Performing a slingshot
+- It's the end game and you are looking for the last survivor.
+I prefer doing single dire crows to conserve cooldown time and to apply as much pressure as possible.
+Once a dire crow has been launched, the power goes on cooldown for 1.5 second
+# Chapter 19: Who to watch for Artist content?
+Here is a section dedicated to content creators who have achieved P100 as the Artist, who play primarily Artist on Dead by Daylight and who provide thorough information that will help upcoming Artists. Every killer player plays vastly different and it’s important to view and learn from everyone. With over 10,000 + hours in the game, I learn from my peers every day and each is equally good as the next. These creators actively have created content over the past year for Artist and actively play her on stream. FreshPearspective - https://www.twitch.tv/freshpearspective
+Carniveris - https://www.twitch.tv/carniveris
+iCoerce - https://www.twitch.tv/icoerce
+AstralNest (controller) - https://www.twitch.tv/astralnest
+Actuallycambion - https://www.twitch.tv/actuallycambion
+Prion - https://www.twitch.tv/prion_tv
+AlizefromHell - https://www.twitch.tv/alizefromhell

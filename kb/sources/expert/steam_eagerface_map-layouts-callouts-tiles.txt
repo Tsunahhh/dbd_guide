@@ -1,0 +1,226 @@
+Titre : DBD: Map Layouts, Callouts, and Tiles Guide - Update PTB 7.4.0
+Auteur : Eager Face (Steam)
+URL : https://steamcommunity.com/sharedfiles/filedetails/?id=2904838739
+Date de publication / mise à jour : Posté 04/01/2023, mis à jour 05/12/2023 ; 478 évaluations (5 étoiles), 28 456 visiteurs uniques
+Date de consultation : 28/09/2026
+Méthode : curl + BeautifulSoup (texte brut)
+Statut : guide Steam communautaire ; auteur non identifiable comme expert -> COMMUNITY_OBSERVATION. Images non consultées.
+======================================================================
+
+All map layouts with callouts, and tile guide for major jungle gyms.
+
+## Website
+http://dbdmaps.com All maps from this guide are available here to find quicker while playing.
+## Introduction to Tiles
+The key to understanding DBD map layouts is to understand how they are generated and what building blocks they are made from. The most important basic building block in DBD maps is called the "Tile". Tiles are grid squares containing the various structures that all maps are made of. All tiles are pre fabricated, and are then randomly added into maps to give the illusion of procedural generation.
+
+Tiles are grouped into different categories, each with many different variations, the types of tiles and some examples of each are shown below. What's key to map generation in DBD is that the category of tile will always be in the same spot every time you load into that specific map. What is random is which tile is generated within that category, and which way it is rotated. 
+
+For more detail on individual tiles, this guide by Otzdarva is perfect, and will help visualize what these common tiles look like.
+
+
+Main BuildingThe Main Building is the most identifiable structure on a given map, and is unique in each map. A specific main buildings will always have the same layout on its particular map, but may have different pallet and breakable wall locations. They may also be rotated in different orientations, but many maps always have the main building in the same orientation.
+
+Killer ShackKiller Shack is the most common tile and is always the same, except for orientation. It is generally considered one of the strongest tiles against most killers due to having a window with very long walls and a "God pallet" that's almost impossible for the killer to play around without breaking once it's dropped. 
+
+
+
+
+Standard/Filler TilesThese tiles make up the vast majority of most maps. They can generate all types of structures such as small loops with or without pallets, hills, or empty spaces with trees, rocks, or other useless objects. In these tiles you will find "filler pallets", named such because they "fill" the map out with pallets and smaller structures to hide and loop around. Depending on the RNG, you may get several empty or useless tiles grouped together (what's known as a "dead-zone"), or many tiles with loops and filler pallets that make for a relatively strong area.
+
+
+
+Edge TilesEdge tiles are the weakest in the game. As their name implies, they spawn at the edges of maps. The recognizable edge tiles are the "Z Wall" and the "U Wall", and other very small High walls. These provide basically no protection because they are so short that a killer can swing around them and their height does basically nothing to hide you. Edge tiles can also spawn other useless objects such as trees and rocks. While hiding here might be an option sometimes because they're the most out of the way area for the killer to check, running here is dangerous because scratch marks are extremely visible against the outer wall of the map.
+
+
+
+Straight and Corner TilesThese tiles only show up in a fewmaps, but are characterized by having an empty space down the middle that makes a sort of "road", and longer loops on either side. These tiles can be extremely strong for their long loops if they have pallets, or relatively weak and open if they do not.
+
+
+
+Exit GatesWhile exit gates are not strictly considered tiles, they are randomly generated along the edge of the map and can affect the tiles that spawn around the edge. There will always be 2 exit gates and in most maps they can spawn anywhere around the edge. You can usually identify an exit gate from afar by how tall it is.
+[6 images]
+## Maze Tiles
+Maze TilesThese are the most easily identifiable random tiles by their high walls. They are some of the strongest types of tiles for survivors due to almost always having pallets and windows which can be used along with the high walls to break line of sight and put distance between you and the killer. They usually also contain lockers, chests, totems, and generators. 
+
+Most Mazes vary slightly between realms. These maps show the general layout that is the same across all realms. Some realms may have additional lockers, totem, and chest spawns.
+
+Basic Jungle GymThese are the classic gyms that appear in pretty much every map.
+
+Long Wall Gym: named for the long wall with a window, which is very strong against most killers.
+
+
+Short Wall Gym: Named for there being a gap on the right side instead of a window, breaking that wall into 2 short walls.
+
+
+Impostor Jungle GymThese currently only spawn in Garden of Joy. They are called Impostor Gyms because they are almost identical to Basic Jungle Gyms but vary slightly from their originals.
+
+The Impostor Long Wall Gym, which moved the gap on the left wall around the corner. 
+
+
+The Impostor Short Wall Gym, which moved the window on the left wall around the corner. 
+
+
+The Impostor Pallet Gym is a combination of the other Impostor Gyms, with no windows, instead just having gaps in both locations, and a pallet at the top instead of the 2 normal locations.
+
+
+4-Lane WallsThese are defined by having 4 straight walls with various gaps and windows. These Mazes always have one window and one pallet, and they are always on opposite sides from each other.
+
+This is the Inside variant due to the window being on the inside of the tile. 
+
+
+This is the Outside variant due to the window being on the outer wall. This is considered the stronger variant as it can chain into other nearby tiles.
+
+
+T-L WallsThese are named as such for their "T"-shaped and "L"-shaped walls. As a survivor, you want to run this tile clockwise, which will allow you to get consistent fast vaults on both windows. As a killer, you want to chase counter-clockwise to deny those fast vaults.
+
+
+Pallet GymThese are characterized by only having a single pallet and no window. These are relatively weak tiles especially once the pallet is broken.
+
+
+Trash Pile GymThese are named after the 2 piles of "trash" that change depending on the realm. These are one of the strongest Jungle Gyms due to the very long wall with a window which alone offers great protection, but also chains well to other tiles, plus the pallet that has long structures on both sides of it.
+
+
+Labyrinth/Maze GymThese only spawn in Yamaoka Estate and Ormond realms. They are characterized by the maze-like structure that is easy to get lost in. 
+
+The Wolfpack variant is named for having the window and pallet in a line that can be chained very easily.
+
+
+The Lone Wolf variant is considerably weaker for survivor as the pallet and window are separated.
+
+
+Locker GymThese are characterized by 2 aisles, one with a pallet and one with numerous lockers. These only spawn in Red Forest and Ormond realms with varying numbers of lockers in each realm. The only difference between the variants is which side the pallet spawns on.
+
+
+
+
+Double Window GymThese are a newer tile that is characterized by having 2 windows and no pallets. At first it seems similar to T-L walls for that reason, but the orientation of windows makes it much weaker.
+
+
+Variant GymThese are characterized by the "C" and "Y" shaped walls in the middle, and are differentiated by which of these walls the window spawns closest to. In both variants, the pallet is on the opposite side of the window, and in the spot without the window, there's a gap in the wall instead.
+
+The Y Vault Variant Gym, since the window is closer to the "Y"-shaped wall
+
+
+The C Vault Variant Gym, since the window is closer to the "C"-shaped wall
+
+
+Small-Wall Gym/Bad GymThese are by far the worst Gym in the game. They are made of nothing but small walls that are easy to get hit around. The window in both variants is very weak by having almost no walls surround them. For now these only spawn in Autohaven Wreckers.
+
+This is the Basic Variant which has no real defining features other than the window and pallet not being chainable.
+
+
+This is the Line Variant because the pallet and window can be chained in a line.
+
+
+Western Gym/Dead Dawg GymThis Gym in unique to Dead Dawg and contains 2 windows, a pallet, and breakable wall. It is similar to a Long Wall Gym.
+
+
+Sandwhich Gym/Breakable Wall GymThis Gym is unique to Dead Dawg and contains 2 breakable walls with a window between them.
+[21 images]
+## Reading Maps and Clock Callouts
+Map GridEach map is divided into 8x8 meter "Units" that define the grid shown on each map. A map's size is defined by these 8x8 meter Units. Most Tiles are made up of 4 of these units in a square, meaning these Tiles are 16x16 meters. The exception to these are indoor maps such as RPD and Midwhich, which are more true to their source material and do not use the traditional Tiles.
+
+Map Iconography Map Borders are shown by the thick grey and black lines
+ Tile Boundaries are shown with light grey lines. These do not represent physical walls.
+ Physical Walls are shown with solid black lines.
+ Main Building is represented by the big building icon.
+ Shack is represented by the red square.
+ High Wall Jungle Gyms are represented by the 2 "L-shaped" walls icon.
+ Standard Tiles such as low walls, hills, and others are represented by empty light grey boxes.
+ Edge Tiles are the single units around the edge of the map.
+ Straight and Corner Tiles are identified by a grey "path" on the tile, either straight or at a corner for each type respectively.
+ Map/Realm-Specific Tiles are identified on each map legend.
+ Exit Gates are not labeled on maps except when they're fixed, since they can spawn anywhere along the outer edge.
+ Callouts, such as clock callouts, are labeled on the map where appropriate.
+Callouts and Clock CalloutsSince DBD maps are mostly randomly generated, traditional callouts do not work for most parts of a map. This is where Clock callouts come in. The reason we call it a clock callout is because we treat the map itself like a clock, and use the numbers 1-12 that would be on the face of the clock as the callouts. Since there's no true directionality on DBD maps, we need to establish a convention for orienting ourselves and using these callouits. These are the general conventions used for map orientation:
+ Main Building will (usually) be at the "Top" of the map, and will be position "12" on the Clock
+ Shack will (usually) be at the bottom of the map. It is usually around position "6" on the Clock
+ The rest of the numbers on the Clock are spread out evenly or in identifiable locations on the map.
+ Certain maps may need extra callouts for specific locations or open areas. Usually "mid" for the middle of the map, or "top mid" and "bottom mid" for larger open areas.
+ Many realms also have unique structures that can be used as a callout, such as "cow tree" or "bus". These are labelled in a legend on each map.
+ Not all maps can follow these conventions, so a convention is usually chosen arbitrarily in those cases. Using this system effectively allows your entire team to understand where everyone is and keep track of the killer. This allows you to make better informed decisions overall, such as knowing when it's safe to go for a rescue or commit to a generator.
+
+If this explanation was a little confusing, the following video does a great job of giving a brief explanation as well.
+## The MacMillan Estate
+As of Version 7.3.0, there are now 2 variants of each MacMillan Estate map. While some of the variants resemble the original, the only true consistency between them is the main building is the same. They are numbered in this guide (1 for the original, 2 for the new variant), but they are NOT numbered in game. You have to use the layout differences to determine which variant you are on. 
+
+
+
+
+
+Groaning Storehouse is relatively symmetrical, but the "pocket" with the structure is on the right side, and the "pocket" by shack is the bottom.
+[10 images]
+## Coldwind Farm
+In all of the Coldwind Farms maps, there will be corn field tiles which can now contain small debris, pallets, and loops. On some maps, there is always a corn field in the marked spots on the maps below, but most of the standard tiles can also spawn corn field tiles randomly.
+
+
+
+
+
+
+
+Rotten Fields is notoriously difficult to orient on due to shack being in the middle, having no main building, and being almost symmetrical. Just keep in mind the map has 2 halves, where one half has 2 structures (harvester or cow tree) and the other half only has 1, with an extra maze tile. The half with 2 structures is considered the top half of the map.
+[5 images]
+## Autohaven Wreckers
+Wrecker's Yard is difficult to orient on for the same reasons as Rotten Fields, it is relatively symmetrical, has shack in the middle, and no main building. The easiest way I've found to orient is to find one of the "pockets" at the top or bottom of the map. The bottom pocket is much bigger, and has a view of the car pile next to shack, which is the same as the car pile from Gas Heaven. The top pocket has 3 jungle gyms near it.
+[5 images]
+## Crotus Prenn Asylum
+
+[2 images]
+## Haddonfield
+Lampkin Lane is unique in that it has longer 2x4 tiles that make up its map. The Red houses have 2 variants that can switch spots with each other, and both are 2 story houses. The Blue houses have 3 variants, of which 2 will be used. One of them is a 2 story house, one is the "house of pain" basement house, and the last is a closed house that you cannot go inside.
+[1 images]
+## Backwater Swamp
+Edge tiles on swamp maps are very different from all other maps. They all are on a hill which surrounds the map, and they are also larger than other edge tiles. In addition, these tiles separate shack from the rest of the map. Since these tiles are larger, they can spawn generators, loops, totems, and hatch. This means some of these objects can spawn right next to the edge of the map which does not happen in most other realms.
+[2 images]
+## Lery's Memorial Institute
+
+[1 images]
+## Red Forest
+PTB 7.4.0These versions are from the 7.4.0 PTB and will replace the originals once that version goes live
+[4 images]
+## Springwood
+All the Badham maps contain the same 3 structures: the main building, the 2 story house, and the basement house. The main building is fixed on each maps, and the 2 houses can swap spots with each other.
+[5 images]
+## Gideon Meat Plant
+Orienting yourself on this map is very difficult due to how similar everything looks and how much of the map is randomly generated. There are 5 rooms that are always the same in the same spot though, and we will use those to orient ourselves. 
+
+The Control Room upstairs is the largest room and has the Mannequins and CCTV area, below that is always the bathroom which has the stairs to basement. These are the top of the map and 12 on the clock for the upstairs and downstairs areas respectively. 
+
+In the opposite corner is the Vat room. This is the room with the stairs leading to a vault which goes to the room below. The bottom floor of the Vat Room always has the freezer next to it. This is the bottom of the map and 6 on the clock.
+
+The other 2 corners will always be either the corner staircase which has the strong pallet at the top and bottom of the stairs, or the room with a big hole with the pallet, and a T-L walls jungle gym below it. They can swap which corner they are in.
+[1 images]
+## Yamaoka Estate
+Sanctum of Wrath is the only map where the Shack can spawn in multiple locations. This makes orientation a little more tricky. Just remember that both potential shack spawns are on the bottom of the map. One on the left and one on the right. You should always be able to orient yourself just by finding one of the corners and looking in relation to the main building to see which corner you're at.
+[2 images]
+## Ormond
+
+[1 images]
+## Hawkins National Laboratory
+
+[1 images]
+## Grave of Glenvale
+
+[1 images]
+## Silent Hill
+Midwich Elementary SchoolA trick to orient yourself on this map is to remember the side with the bathrooms and reception area is the bottom of the map. If you have played Silent Hill, it matches the orientation of the map from that game.
+[1 images]
+## Raccoon City
+Raccoon City Police Station East Wing
+
+Raccoon City Police Station West Wing
+[4 images]
+## Forsaken Boneyard
+
+[1 images]
+## Withered Isle
+
+[1 images]
+## The Decimated Borgo
+
+[1 images]
+## Dvarka Deepwood
+On Toba Landing, the left half of the map has the more "plant-like" walls in its tiles, and the right half of the map has the "rock-like" walls. Remembering this makes it very easy to orient on at the start of the game.
+[2 images]

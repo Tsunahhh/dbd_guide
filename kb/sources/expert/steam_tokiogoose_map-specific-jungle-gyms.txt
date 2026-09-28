@@ -1,0 +1,39 @@
+Titre : How to Run Map Specific Jungle Gyms
+Auteur : Tokio Goose (Steam)
+URL : https://steamcommunity.com/sharedfiles/filedetails/?id=2709060449
+Date de publication / mise à jour : Posté et mis à jour 05/01/2022 ; 1 273 visiteurs uniques (pas assez d'évaluations)
+Date de consultation : 28/09/2026
+Méthode : curl + BeautifulSoup (texte brut)
+Statut : guide Steam communautaire ; auteur non identifiable comme expert -> COMMUNITY_OBSERVATION. Images non consultées.
+======================================================================
+
+Jungle gyms are the strongest tiles in Dead by Daylight for survivor. Most of them repeat  from map to map and are pretty easy to figure out. However some of them are map specific with quite complicated RNG rules. In this guide you will find some visual tips on how to memorize their layouts once and for all.
+
+## Unique Tiles in DBD
+As a survivor with quite a lot of experience in this game I can say that I know how to use most of the structures optimally. However even after so may hours I still struggle to figure out what to do in some weird map specific tiles that you can see on Ormond, Yamaoka, Red Forest etc. And so I decided to finally put an end to it and learn them once and for all.
+
+For this I went into the custom mode with a friend of mine and drew the layout of every map specific jungle gym in this game with all possible RNG variations. I had to restart every map like 50 times in order to cover all spawns. And what I ended up is 12 schemes I wanna share with you in this guide. Use them to help yourself memorize these tiles easier. And if you want the actual tips on how to run them optimally I suggest you watch the video below.
+
+
+There you will find some common scenarios that you should take into account before you start looping the killer in these weird jungle gyms. And now let's get right into it.
+## "Fake" Jungle Gym
+The reason I called this jungle gym "fake" is because it comes in 4 variations. And in 2 of them there are no windows which turns it into a generic single pallet tile.
+[4 images]
+## "2 Window" Jungle Gym
+This jungle gym spawns only on Dead Dawg Saloon. It's probably common for the entire realm which is called The Grave of Glenvale but since it currently has only 1 map we might as well talk about Dead Dawg Saloon.
+[1 images]
+## "Double L" Jungle Gym
+This structure is also specific for Dead Dawg Saloon but this one actually comes in 2 versions. It reminds me of a generic TL structure but a lot bigger and with a doorway in one of the versions.
+[2 images]
+## "3 Wall" Jungle Gym
+The name "3 Wall" can only be used technically here. That is if we consider that the 2 weird walls on the right side are one wall with a doorway in the middle. We have 2 versions of it.
+[2 images]
+## "H Wall" Jungle Gym
+This is one of the most bizarre and hard to memorize structures in the entire game. The 2 variations differ between each other so much it took me a while to even realize it's one and the same tile.
+[2 images]
+## "Emoji" Jungle Gym
+This one I couldn't even come up with a name for. But when I looked at it from above I realized it's a surprised face lol. So I called it "Emoji" jungle gym.
+
+
+Hopefully you're gonna find these schemes useful and they're actually gonna help you run these tiles more effectively. Let me know if I should also cover other structures in Dead by Daylight. Cheers!
+[1 images]

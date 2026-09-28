@@ -1,0 +1,116 @@
+Titre : COMPLETE GUIDE ON LOOPING
+Auteur : « M » (pseudo Steam, caractère invisible + M)
+URL : https://steamcommunity.com/sharedfiles/filedetails/?id=2371975971
+Date de publication / mise à jour : Posté 23/01/2021, mis à jour 17/02/2024 (« completely remade ») ; 251 évaluations (5 étoiles), 8 291 visiteurs uniques
+Date de consultation : 28/09/2026
+Méthode : curl + BeautifulSoup (texte brut)
+Statut : guide Steam communautaire ; auteur non identifiable comme expert -> COMMUNITY_OBSERVATION. Images non consultées.
+======================================================================
+
+Become a master of Dead by Daylight with this guide that covers strategies for looping.
+
+## Introduction
+Mastering the art of looping is essential, in Dead by Daylight for survivors. It entails maneuvering around obstacles to stall the killers progress granting your teammates time to work on generators and make their escape. Below you'll find a guide outlining effective strategies, for successful looping.
+## Know Your Environment
+Understanding the environment is crucial, for looping in Dead by Daylight. Lets delve deeper into this aspect;
+
+Getting Familiar with a Map;
+ Survivors should spend time getting to know the layout of each map in the game. Knowing the locations of structures, generators and exit gates enables navigation during chases.
+ Having a grasp of the map layout also helps in planning escape routes and predicting choke points where killers might intercept.Recognizing Tiles;
+ Different maps feature tiles with pallets, windows, walls and rocks. Each of these can be used strategically to create distance from the killer.
+ It's important to recognize these tiles and understand their value. For instance knowing when to drop pallets or vault through windows can make a difference between escaping or getting captured.Types of Loops;
+ Maps often have types of loops each with its unique characteristics and strategic implications.
+ Long loops provide extended chase opportunities by allowing survivors to lead killers around structures or obstacles.
+ Short loops are more compact. May involve corners or smaller structures that require quick reflexes and precise movement to effectively evade the killer.
+ Jungle gyms, T walls and L walls are loop structures, with shapes and layouts. It is crucial for our survival to acquire the skills to navigate through these structures effectively.Map Variations;
+ Although some aspects of map layouts stay the same procedural generation brings about changes, in terrain placement of obstacles and configurations of structures.
+ Survivors need to adjust their looping tactics to adapt to these differences being flexible and resourceful, in their efforts to avoid the killer.Observing and Adapting;
+ When playing matches survivors should always be aware of their surroundings taking note of where pallets, windows and possible escape routes located.
+ Being adaptable is crucial; if a loop becomes compromised or unsafe survivors need to find paths or structures to effectively avoid the killer.By becoming masters of your environment survivors can use their knowledge to outsmart the killer give their teammates time and ultimately improve your chances of survival.
+[1 images]
+## Pallet Management
+Pallets play a role, for survivors in Dead by Daylight as they provide safety and opportunities to create space between them and the pursuing killer. Effective management of pallets requires decision making and careful timing. Here is an in depth explanation of this aspect of survivor gameplay;
+
+Being Aware of Resources;
+ Survivors need to be mindful of the number and locations of pallets on the map considering their proximity, to generators exit gates and other objectives. Keeping track of these pallets helps survivors plan their routes and engagements strategically ensuring they have escape options when needed the most.
+Timing and Positioning;
+ Knowing when to drop a pallet is crucial. Dropping it early can waste a resource while dropping it too late may result in getting hit by the killer. Optimal pallet usage involves waiting until the killer's close by maximizing the stun duration and creating distance to prolong the chase.Mind Games;
+ Survivors can use pallets to outsmart and confuse the killer. One strategy involves pretending to drop a pallet enticing the killer into attacking and allowing for an escape.
+ Another tactic is the "pallet fake" where survivors trick the killer by faking a drop and swiftly running in the direction catching them off guard and gaining valuable distance.
+ Preservation;
+ In situations where escape seems unlikely survivors may strategically leave pallets standing to obstruct the killers path. This forces them to break the pallet buying time for teammates. 
+ It's important not to overcommit to deadzoning specific parts of the map as it deplete resources and limit escape options.
+Map Knowledge and Looping;
+ Pallets play a role, in looping strategies enabling survivors to extend chases by maneuvering around structures and dropping pallets to slow down the killer. 
+ Understanding techniques like 360 degree spins and pallet stuns enhances survivability prolonging chases and increasing chances of escape.
+Team Coordination;
+ Effective communication and teamwork among survivors is key, in optimizing usage and management.
+ Working together to strategically place pallets alerting others about areas and offering assistance during pursuits can greatly increase the chances of survival, for the team.
+Survivors who become skilled in managing pallets can make the most out of these assets. By using them they can prolong chases find opportunities to escape and outsmart the most persistent killers in Dead, by Daylight.
+## Window Tactics
+Windows play a role, in survivor gameplay in Dead by Daylight providing opportunities for escapes and creating distance from the pursuing killer. Effective window strategies require decision making, proper timing and an understanding of the surrounding environment. Here's a further explanation of aspects related to window tactics;
+
+Vaulting Mechanics; Survivors can use windows to move between different areas of the map helping them put distance between themselves and the killer.
+ There are two types of vaults; vaults and slow vaults. Fast vaults are quicker. Generate a noise that alerts the killer to the survivors location. Slow vaults are quieter. Take longer to perform potentially giving the killer a chance to catch up.Window Positioning and Accessibility; Survivors should be mindful of where windows are located throughout the map and how close they're to pallets, generators or other objectives.
+ When planning their escape routes or looping paths survivors should prioritize routes that have windows. These windows can be used effectively to break line of sight with the killer and evade them successfully.
+ Mind Games and Jukes; Like, with pallets survivors can utilize windows as part of their strategy to outsmart and confuse the killer.Survivors have the ability to execute vaults or clever "window fakes" by pretending to vault and swiftly changing their direction. This confuses the killer causing them to miss their attack and giving the survivor time.
+ In addition survivors can pull off "window mind games" by approaching a window and suddenly changing direction before vaulting. This unexpected move catches the killer, off guard. Helps create distance, between them.Window Blocking and Dead Zones; In scenarios survivors have the option to "block" or create " zones" at windows preventing the killer from vaulting through them and forcing them to break the window instead.
+ By blocking windows survivors can create areas where they can recover or plan their next moves. This buys time for teammates. Allows for escapes.
+Map Knowledge and Looping; Windows play a role, in looping strategies as they enable survivors to move between structures and obstacles while keeping a distance from the killer.
+ Having a grasp of incorporating windows into looping techniques like window vaults and spins enhances survivability. It helps extend chases ultimately increasing the chances of escape.
+Risk Assessment and Adaptation; Survivors need to evaluate the risks associated with vaulting through windows by considering factors like how close the killer's their line of sight and available escape routes.
+ Being able to adapt to changing circumstances is vital. Survivors should improvise strategies such, as doubling or finding different escape routes when faced with challenging situations.
+By mastering window tactics survivors can effectively use these structures to outmaneuver the killer extend chases and significantly improve their survival odds in Dead by Daylight.
+## Mind Games
+In Dead by Daylight mastering the art of mind games is crucial for survivors. It allows them to outsmart and confuse the killer giving them moments to catch their breath or find a chance to escape. Lets delve deeper into some tactics for playing mind games;
+
+Pallet and Window Fakes; A common strategy is to fake dropping a pallet or vaulting through a window. 
+ This tricks the killer into committing while survivors continue running causing a pause that allows them to create distance.Juking and Dodging; Juking involves making changes in movement direction or speed to confuse the killer and avoid their attacks. 
+ Survivors can pull off 180 degree turns, stops or unpredictable movements that throw off the killers aim, opening up opportunities to break their line of sight.Faking Generators and Distracting; Survivors can use objects or animations as distractions. For example they might start repairing a generator or hide in a locker temporarily to divert the killers attention. 
+ These distractions buy time for teammates set up ambushes or provide chances, for escapes.Looping and Predicting Movement; Looping effectively requires predicting the movements of the killer and responding accordingly to keep a distance and extend chases. 
+ Survivors can anticipate the killers arrival. Adapt their looping strategies to manipulate the killer into committing to a direction or action which enables the survivor to escape in the opposite direction.Environmental Utilization; Survivors have the advantage of using the maps terrain and structures to their benefit. They can strategically position themselves behind objects, crouch, in grass. Make use of obstacles to break the killers line of sight and create confusion.
+ By hiding behind objects staying low in grass or utilizing structures to obstruct vision survivors can create opportunities to avoid detection and successfully escape pursuit.
+ Emotional Manipulation and Psychological Warfare; The realm of mind games extends beyond gameplay mechanics. Survivors can employ tactics aimed at influencing the killers behavior.
+ Provocative gestures, such as teabagging or using flashlight clicks can elicit responses from the killer. This may potentially impact their judgment or decision making during pursuits.By becoming adept at mind games survivors can effectively. Evade the most skilled killers. This increases their chances of survival. Contributes to team success in Dead, by Daylight matches.
+## Teamwork and Bodyblocking
+In Dead by Daylight working together as a team is extremely important for the survivors to succeed, especially when dealing with a killer. The key to success lies in coordinating and using bodyblocking strategies during chases, which can significantly change the outcome and create chances for survival. Here is a detailed explanation of how teamwork and bodyblocking tactics can make a difference;
+
+Communication and Coordination; Teamwork starts with communication among the survivors. Sharing information about the killers whereabouts, actions and ongoing chases allows teammates to make decisions and support each other effectively.
+ Utilize in game or external communication tools, like voice chat or text chat to coordinate actions plan escape routes and assist teammates who're, in need of help.Distraction and Diversion; Teammates play a role, in diverting the killers attention from vulnerable or injured survivors. They can do this by running in the killers line of sight performing acts of kindness or creating distractions with noise. These actions buy time for others to escape or objectives.
+ Coordinated distractions have the power to disrupt the killers patterns creating opportunities for survivors to break free from sight and avoid capture.
+ Rescuing and Support; When a teammate is in danger or being chased by the killer other survivors step up to provide support. They can. Take hits on behalf of their endangered comrade.
+ Bodyblocking means positioning oneself between the killer and the injured survivor absorbing hits or blocking the killers path. This allows the injured survivor to find safety and escape.
+ Successful bodyblocking requires timing and coordination as mistimed attempts could result in both survivors getting hurt or taken down by the killer.Strategic Altruism; Altruistic actions like healing injured teammates or rescuing survivors from hooks significantly contribute to team success and survival.
+ It is vital to prioritize actions based on each situation and assess how urgently a teammate requires assistance. Evaluating risks and rewards before committing to rescue attempts maximizes chances of survival for everyone, on the team.
+ Understanding and Adjusting; To succeed as a team it's crucial to be aware of where your teammatesre what they're doing and their current status. Stay alert. Be ready to offer assistance or support whenever necessary.
+ Be adaptable, to changing situations and modify your teamwork strategies accordingly. Flexibility and cooperation play a role in overcoming obstacles and achieving victory together.
+By mastering the art of working and effectively blocking the paths of danger survivors can significantly increase their chances of survival. They can outmaneuver the determined killers in Dead by Daylight ultimately finding their way, to safety.
+## Perks and Items
+In the game, by Daylight, perks and items play a role in improving survivors abilities and increasing their chances of staying alive. The right combination of perks and items can have an impact on gameplay. Contribute to overall success. Lets dive deeper into the perks and items along with their 
+implications;
+
+Perks;
+
+Second Chance Perks: Second chance perks offer various benefits towards staying alive after being picked up, hit, picking yourself up or unhooking yourself.
+ Perks like Made for This, Dead Hard, Decisive Strike, Unbreakable and Deliverance provide "second chances" to your matches as you would've taken a health stage or hook stage if you didn't have the perks equipped.
+ Boon Perks:
+ Certain perks are designed to facilitate an area of effect around a Hex or dull totem for you and your team with the most useful ones being Boon: Circle of Healing, Boon: Dark Theory and Boon: Exponential.
+ Boon perks encourage survivors to play in a certain field of the map as the Boon has a specific range to it and is better to be placed in a stronger/harder to destroy or locate part of the map to increase its efficiency.Stealth Perks; Perks that prioritize aim to minimize the chances of survivors being noticed by the killer allowing them to escape detection and avoid confrontations when needed. 
+ Perks, like Light Footed and Iron Will improve survivors capacity to move silently and hide effectively making it simpler to elude the killer and stay hidden while in chase.Pallet and Window Perks; Having perks that improve how survivors interact with pallets and windows can really enhance their ability to outmaneuver killers. Increase their odds of escaping without getting hurt.
+ Perks, like Lithe and Balanced Landing offer bonuses when survivors vault through windows giving them an incentive to use window tactics in their escape plans.
+Items;
+
+Toolbox; Toolboxes are useful for repairing generators which speeds up generator progress and helps complete objectives faster. 
+ Some toolboxes even have add ons that provide benefits like increased repair speed or reduced difficulty for skill checks making them more effective.Flashlight; Flashlights can be used to blind the killer disrupting actions such as picking up survivors or breaking pallets. 
+ Timed flashlight saves can rescue teammates from the killers grasp. Create opportunities, for escapes or rescues.Medkit; Medkits allow survivors to heal themselves or their teammates quicker and more effectively reducing downtime and improving survivability. 
+ Advanced medkits may come with add ons that offer healing bonuses or remove status effects providing utility in challenging situations.Maps; Maps provide information, for survivors in Dead by Daylight helping them navigate and prioritize objectives like generators exit gates and other key points of interest. 
+ Some maps even have add ons that offer advantages, such as revealing the killers aura or highlighting nearby items and resources.Offerings; In Dead by Daylight offerings can have an impact, on aspects of a match. They can affect map selection provide bonus bloodpoints or even modify the conditions of the trial itself. 
+ Strategic use of offerings can give survivors an edge by allowing them to choose maps or increasing the chances of encountering conditions during the game.
+Survivors have the opportunity to select perks and items that align with their playstyle and objectives. By choosing they can maximize their effectiveness overcome challenges and improve their chances of survival in Dead by Daylight matches.
+## Practice
+Like any skill, in Dead by Daylight getting good at looping requires practice. Take the time to refine your looping techniques and learn from your mistakes during matches. You can also watch experienced players videos to gain tips and tricks. Observe how they effectively use loops to dodge the killer and escape unharmed.
+
+Remember, looping is one aspect of being a survivor in Dead by Daylight. Always prioritize objectives such as repairing generators and assisting teammates. Don't hesitate to utilize looping strategies when necessary to ensure your survival. With dedication and perseverance you can become an expert, at outmaneuvering killers and enduring against all odds.
+## Support
+If you found this guide helpful, consider providing feedback to help improve its usefulness for others. Your input can shape future revisions and ensure that the guide addresses the most relevant aspects of looping effectively in Dead by Daylight. Additionally, if you have any specific questions or require further assistance, don't hesitate to reach out by commenting or shooting me a friend request. Your feedback and inquiries are valuable in refining this guide and supporting the Dead by Daylight community in mastering looping strategies as this guide was completely remade from the original published in 2021. On top of all that if you would like to support me and this guide, give it a thumbs up rating and favourite it as well as give it an award.
+[1 images]

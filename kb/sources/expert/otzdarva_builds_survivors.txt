@@ -1,0 +1,130 @@
+Titre : Otzdarva Builds — Survivors
+Auteur : Otzdarva (site otzdarva-builds.com)
+URL : https://otzdarva-builds.com/ (données : https://otzdarva-builds.com/data/builds.json)
+Date de publication / mise à jour : builds.json Last-Modified 09/09/2026 ; scrape wiki (scrape.json) du 25/08/2026 (UNIX 1787671671)
+Date de consultation : 28/09/2026
+Méthode : curl + BeautifulSoup (texte brut)
+Note : app JS (Vite/React) ; données lues dans /data/builds.json référencé par assets/index-D700ubQA.js.
+======================================================================
+
+## [survivors] Solo Survivor
+### Beginner Starter Build
+Perks: Kindred | We'll Make It | Déjà Vu | Dark Sense (alts: Will to Live, Down to the Last)
+- Only uses basic perks available to all Survivors in the bloodweb.
+- Kindred & WMI give useful info and healing speed when unhooking others. If you see your team mates safely going for the unhook, then you can stay on gens instead and repair some of them faster with Déjà Vu.
+- Dark Sense ensures you keep an eye on gens and the Killer but it can easily be replaced if you find it redundant. If you're targeted often after being unhooked, you can run the perk Will to Live (also called Decisive Strike) to have some protection while you're most vulnerable.
+- The perk "Down to the Last" (also known as Sole Survivor) can also be a good replacement if you find yourself as the final Survivor and want to improve your chances to open the exit gates when the Killer finds and closes the hatch.
+### Beginner Solo Build
+Perks: Kindred (alts: Bond, Aftercare, Empathy, Quick Gambit) | Windows of Opportunity (alts: Alert, Adrenaline, Dark Sense) | Lithe (alts: Sprint Burst, Resilience) | Will to Live (alts: Dance With Me)
+- This is a simple and beginner-friendly build that is still fantastic for Solo players of any level, since it has a perfect balance of information and tools to help in chase. Pair it with a medkit for extra reliability.
+- Uses a combination of common perks and perks from Feng Min, Kate and/or Meg. These are great characters to start with and you can change and customize this build as you unlock them. 
+- Alert/Windows of Opportunity will help you know which pallets are still available. Will to Live is great if you're being tunneled after you're unhooked, so practice hitting that skill check which will allow you to break free! If you're running Lithe, you can use it on a nearby vault right after escaping the Killer's grasp to have a much better chance at a good chase.
+- If you don't have the four suggested perks already, you can use one of the several alternative perks and your build will still be very solid.
+### Solo Escapist Build
+Perks: Down to the Last (alts: Bond, Aftercare, Empathy, Better Together, Quick Gambit) | Extrasensory Perception (alts: Left Behind, Clairvoyance) | Inner Strength (alts: Plot Twist, Self-Care, Pharmacy, Vigil) | Sprint Burst (alts: Kindred, Windows of Opportunity)
+- Prioritizes survival when you're the last one alive.
+- Find the hatch quickly with Extrasensory Perception / Left Behind / Clairvoyance...
+- ... or let the Killer find the hatch and open gates faster with Down to the Last.
+- Last two perks provide a bit of info, self-heal options or more help in chase if you prefer it.
+### Simple Self-heal Build
+Perks: Self-Care | Botany Knowledge | Déjà Vu (alts: Dark Sense) | Kindred (alts: Empathy)
+- Allows you to reliably heal yourself without a medkit.
+- Only uses teachable perks from Claudette.
+- Use Kindred (or similar) to know if your team currently needs you.
+- If an important gen can be finished safely, prioritize that instead.
+### Gen Rush Solo Build
+Perks: Déjà Vu | Poised | Resurgence (alts: Will to Live) | Built to Last (alts: Adrenaline, Prove Thyself)
+- A build focused on gen speed and efficiency but that still keeps you safe by giving you fast heals and awareness.
+- Remember, you don't leave any scratchmarks for 30 seconds after you (or anyone) completes a generator.
+- Don't have a toolbox or Felix unlocked? Feel free to swap Built to Last for one of the alternative perks.
+- Look up the video "The 2nd Otzdarva Law" on Youtube if you want to see this build explained and in action.
+### Advanced Solo Build
+Perks: Five Moves Ahead (alts: Windows of Opportunity, Alert) | Will to Live (alts: Off the Record) | Lithe | Resurgence (alts: Wiretap, Adrenaline, Finesse, Poised, Self-Preservation, Unbreakable, We're Gonna Live Forever)
+- Slightly more optimized version of the Beginner Solo build. This one assumes that you're slightly more experienced and don't need the info from Kindred as much.
+- Five Moves Ahead is a slightly stronger version of Windows that also helps you move faster after dropping a pallet. Lithe and Will To Live (Decisive Strike) are still a great combo to use if you're being tunneled off hook.
+- Your fourth perk Resurgence helps you get healed very quickly after being unhooked but can be easily replaced by any strong perk of your choice. Check the alternative perks for a few fun suggestions.
+## [survivors] Advanced Builds
+### Anti-Totem Build
+Perks: Extrasensory Perception (alts: Small Game) | Counterforce (alts: Clairvoyance) | Inner Strength | Overzealous (alts: Déjà Vu, Sprint Burst, Resilience)
+- Your first perk helps you find totems easily. If you bring a map with the purple flint add-on that highlights totems, you could replace it for something else.
+- Counterforce speeds up each totem cleanse over time, particularly noticeable against the cleanse slowdown effect of Thrill of the Hunt.
+- Inner Strength allows you to heal later anytime you cleanse a totem, making this build useful even if there's no hex perks in play from the Killer.
+- Overzealous makes you faster at gens, especially if the cleansed totem was a hex. If you prefer something simpler, Déjà Vu or an exhaustion perk is also a good choice.
+### Basement Build
+Perks: Overcome (alts: Sprint Burst, Plunderer's Instinct) | Wicked | Will to Live (alts: Resurgence) | Windows of Opportunity (alts: Unbreakable)
+- Use your first perk to reach (or locate) the basement in chase reliably.
+- If hooked in basement, Wicked allows you to self-unhook 100% consistently, often denying use of strong Scourge Hook perks from the Killer.
+- Then, escape safely with Will to Live or heal quickly with Resurgence.
+- Try telling your team mates that you'll do this!
+### Super Aura Build
+Perks: Open-Handed | Kindred (alts: Vigil) | Sprint Burst | Extrasensory Perception (alts: Still Sight, Bond, Vigil)
+- Open-Handed extends the aura range of other perks.
+- Stop briefly to recharge your Sprint Burst and see generators, Killer and more thanks to Extrasensory Perception or Still Sight.
+### Houdini Stealth Build
+Perks: Lucky Break | Overcome (alts: Iron Will) | Quick & Quiet | Lucky Star (alts: Resurgence, Inner Strength)
+- After being damaged, you'll start leaving no scratchmarks/blood thanks to Lucky Break and create tons of distance with Overcome.
+- Use this opportunity to break line of sight and possibly hop into a locker if possible. You won't make any noise thanks to Quick and Quiet (as long as it's not on cooldown). The Killer will likely have no idea where you are.
+- Thanks to Lucky Star (or Iron Will), you will make zero injured noises while in the locker. You can also quick hop in and out of lockers outside of chase to trigger the really useful information from Lucky Star.
+- Be sure to bring a medkit or some perk to help you get healed fast so that you keep Lucky Break's effects for longer.
+### Chest Specialist Build
+Perks: Moment of Glory (alts: Pharmacy) | Appraisal | Specialist | Plunderer's Instinct (alts: Extrasensory Perception, Streetwise)
+- With Appraisal, you'll be able to search each chest twice and activate Moment of Glory while getting two tokens of Specialist. These tokens are consumed when hitting great skillchecks and permanently reduce a generator's charges.
+- If active, Moment of Glory will start healing you over time mid-chase next time you get injured. If you'd prefer not to have this kind of pressure on you, you can leave a chest search (or rummage) at 99% and quickly tap it when you're injured and safe. You then will heal in 60 seconds.
+- If you want a simpler option, Pharmacy is also great since it will speed up chest searching and give you consistent medkits.
+- You can use your fourth perk to help you find chests or for anything else. Bring a coin offering to spawn extra chests if you want!
+### Fading Scratchmarks Build
+Perks: Sprint Burst | Vigil | Lightweight | Ghost Notes (alts: Fixated, Rapid Response)
+- The classic combination of Sprint Burst and Vigil allows you to constantly have a way to create distance when needed.
+- Lightweight + Ghost Notes makes your scratchmarks fade incredibly quickly, making it very easy for a Killer to lose you.
+- This build is very simple and effective but you can still modify it if you don't mind having longer scratchmark duration. Try one of the alternative perks!
+## [survivors] Team Player
+### All Purpose Team Build
+Perks: Resurgence | Will to Live (alts: Off the Record) | Lithe (alts: Dead Hard, Balanced Landing) | Plot Twist (alts: Unbreakable, Conviction)
+- Versatile build allows you to bounce back from any situation. 
+- Tunneled? Use Lithe on a vault after escaping with Will to Live (Decisive Strike). Not tunneled? Heal in seconds with Resurgence. You can also replace Lithe with any other exhaustion perk of your choice.
+- You can heal yourself with Plot Twist if nobody can help you. If you think the Killer is about to down you, you can use it aggressively in their face to force a difficult decision; leave you there and allow you to fully heal or commit to picking you up (relieving some pressure away from your team mates in doing so). If they pick you up, you can escape their grasp with Will to Live/Decisive if it's available.
+- Conviction/Unbreakable are also good 4th perk alternatives if you die protecting a team mate or if the Killer gets greedy.
+### Tunnel-prevention Build
+Perks: Shoulder the Burden | Will to Live | Lithe (alts: Plot Twist) | Deliverance (alts: Babysitter, No One Left Behind, Borrowed Time, Unbreakable)
+- This builds helps you keep someone alive if they're being focused on.
+- Shoulder the Burden can "steal" a hook stage from them. You also have your own anti-tunnel if the Killer switches onto you.
+- Still solid effects even if the Killer does not tunnel.
+### Chase-Focused Build
+Perks: Five Moves Ahead (alts: Windows of Opportunity) | Lithe (alts: Overcome, Dead Hard, Balanced Landing, Dramaturgy) | Finesse (alts: Troubleshooter) | Resilience (alts: Resurgence, Adrenaline, Quick Gambit)
+- An action-oriented build that assumes your team is already coordinated.
+- Best used if you're comfortable taking the Killer's attention.
+- Five Moves Ahead/Windows + Exhaustion perk = easy way to reach safety.
+- Decisive or Resurgence helps you be less vulnerable after being unhooked.
+### Full Luck Build
+Perks: Slippery Meat | Up the Ante | Will to Live (alts: Off the Record) | Unbreakable (alts: We're Gonna Live Forever, Conviction, Breakdown)
+- Note: Requires a full party using Up the Ante + Luck Offerings to really shine.
+- Gives each Survivor a nearly 100% chance to self-unhook and be relatively safe with the basekit endurance and Will to Live.
+- Meanwhile, everyone else focuses on generators.
+- Strong anti-tunnel & anti-slugging perks prevent the Killer from countering this plan effectively.
+### Aggressive Altruism Build
+Perks: We're Gonna Live Forever | Made for This | Background Player (alts: Power Struggle) | Bond (alts: Flip-Flop)
+- Perfect build to ask your team mates to die under a pallet with (or in the open so they can be flashlight saved easily with Background Player). 
+- Killer hesitates? You can heal them up and protect them with Endurance status effect thanks to WGLF. If injured, MFT will also grant you Endurance too.
+- You can also run the perks Power Struggle and Flip-flop to purposefully die under a pallet. If the Killer hesitates and you recover enough, you'll be able to rescue yourself when they pick you up.
+### Boon Support Build
+Perks: Boon: Circle of Healing | Boon: Exponential (alts: Boon: Shadow Step) | Extrasensory Perception (alts: Overzealous, Small Game) | Aftercare (alts: Déjà Vu, Sprint Burst)
+- Creates a strong healing area where team mates can be quickly healed and self-pick up.
+- Use a map with the Sharpened Flint add-on can replace Extrasensory Perception to find totems.
+- Good choice for a player that wants to stay in the background.
+### "Noob Helper" Build
+Perks: Aftercare (alts: Empathic Connection, Boon: Illumination, Boon: Circle of Healing, Kindred) | Corrective Action (alts: Prove Thyself) | Babysitter | We'll Make It (alts: Botany Knowledge)
+- Focused on effects to help & guide a new player in your team.
+- Kindred (or similar) helps them keep an eye on you.
+- Corrective Action (or possibly Prove Thyself) makes it easier to do gens together and reduce missed skill-checks.
+- With Babysitter, you'll see the Killer's aura after unhooking and be able to determine if it's a good idea to heal quickly with We'll Make It. If the Killer returns, Babysitter provides great stealth and haste to the person unhooked.
+### Background Helper Build
+Perks: Boon: Circle of Healing (alts: Inner Strength, Counterforce) | Lend a Hand | Poised (alts: Overzealous, Boon: Shadow Step, Self-Preservation) | Déjà Vu (alts: Small Game, Extrasensory Perception)
+- A great build to help repair important gens while your friends take the Killer's attention. Poised can help you see where the Killer is and call it out to your friends if possible.
+- After breaking a totem (or better yet, setting up a Boon), you can use Lend a Hand to permanently increase the rate at which someone can be healed. 
+- Your first perk can be a Boon (support), Inner Strength (self-heals) or even Counterforce (to counter hex builds).
+- If you struggle with finding totems, bring a map with the purple flint add-on which can easily detect them -OR- consider using a different 4th perk.
+### Gen-Jockey Build
+Perks: Déjà Vu | Sprint Burst (alts: Poised, Overcome) | Prove Thyself (alts: Vigil, Bond) | Change of Plan (alts: Built to Last)
+- Best used with a strong toolbox to quickly repair the gens highlighted by Déjà Vu and forcing the Killer to defend gens that are really far apart.
+- When your toolbox is depleted, you can turn it into a medkit by hopping into a locker with the perk Change of Plan! You can ask a team mate to drop their toolbox and do it once again with theirs too.
+- Alternatively, you can use Built to Last to refill your empty toolbox and use it multiple times.
