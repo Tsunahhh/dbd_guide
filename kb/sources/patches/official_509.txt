@@ -1,0 +1,308 @@
+# 9.0.0 | PTB Patch Notes - BHVR
+Source: https://forums.bhvr.com/dead-by-daylight/kb/articles/509 (consulté le 28/09/2026)
+
+Important
+Progress & save data information has been copied from the Live game to our PTB servers on
+20 May 2025
+. Please note that players will be able to progress for the duration of the PTB, but none of that progress will make it back to the Live version of the game.
+Players will once again receive 12,500 Auric Cells on the PTB to explore Outfits and Characters in the Store. Both Auric Cells and purchases made on the PTB Build will not transfer to the Live Build.
+Content
+New Killer - The Animatronic
+KILLER POWER: FAZBEAR'S FRIGHT
+The Animatronic lived to kill, even when his mechanical costume became his tomb.
+SPECIAL ABILITY: FIRE AXE
+The Animatronic is armed with a Fire Axe that he can throw at Survivors. If the Axe hits a Survivor, the weapon becomes embedded in them, leaving the Survivor vulnerable. Survivors must remove the Axe before they can be healed.
+MAP FEATURE: SECURITY SYSTEM
+At the start of the trial, 7 Security Doors are spawned randomly throughout the map. These doors can be accessed by both Survivors and The Animatronic.
+Each Security Door has a Camera attached to it. Interacting with the Door gives the Survivor access to the Camera View, allowing the Survivor to cycle through every Camera in the map, travel to the Door they are currently looking through, and potentially reveal The Animatronic's aura to the team.
+Using the Cameras and Doors too often will deplete the limited battery power available, forcing Survivors to wait until the system reboots. The Animatronic may travel between Security Doors with or without battery power.
+If The Animatronic enters a Security Door, they may choose to exit from any other Door in the map. Moving to a Door already in use by a Survivor will cause The Animatronic to grab that Survivor.
+New Killer Perks
+Help Wanted:
+When you damage a generator, it becomes compromised:
+When the compromised generator is completed, your successful basic attack cooldowns are
+25/25/25%
+faster for
+40/50/60 seconds
+.
+Phantom Fear:
+When a Survivor within your Terror Radius looks at you, they scream and you see their aura for
+2/2/2 seconds
+.
+This perk has a
+80/70/60 second
+cooldown.
+Haywire:
+Exit gates switches with at least 50% progress regress at a rate of
+40/45/50%
+of gate opening speed.
+While they are regressing, Survivors see the exit gate lights flicker randomly.
+N
+ew Map - Freddy Fazbear's Pizza
+The rotting brainchild of a sadistic murderer still stands over the grassy plains. A place of joy for some, and unspeakable terror for others. Do not let the bright colors and parlor tricks deceive you; many have died within these walls, and many more will die still.
+Quality of Life Improvements
+AFK Crow System Update
+Survivors are considered AFK when not interacting within the last 10 seconds.
+While AFK, Survivors accrue AFK points, during which crows gradually begin spawning above the Survivor, beginning with 1 and capping at 3.
+AFK points increase more slowly while moving or while in proximity to the Killer.
+After 90 seconds, the Survivor reaches 3 crows and Loud Noises trigger at regular intervals.
+Additionally, the Survivor loses collision with other players for 10 seconds.
+Completing interactions removes AFK points.
+Crows are removed as AFK points decrease.
+This system is disabled when the Hatch spawns or when End Game Collapse is triggered by any means.
+Bloodweb Spending Improvements
+Added an Auto Bloodweb button available after prestiging any one character for the first time, enabling players to automatically progress to a selected character level, Bloodpoints permitting.
+Removed the following pop-ups across all other characters after they have been shown for the first time:
+“The Bloodweb” introductory pop-up
+“Unpredictability” pop-up
+Perk slot unlocks
+Disconnection Penalties
+(not in PTB)
+Disconnection Penalties are now based on your last 20 matches played.
+Each disconnect in this set of 20 matches counts as a disconnection penalty point.
+Disconnection penalty points decrease as you play matches without disconnecting
+(previously decayed at the rate of 1 point per day)
+.
+Gamma Setting
+Upon launch, new gamma calibration popup will be presented to all players.
+This visual setting can be accessed at all times via the Settings menu, under the Graphics tab.
+"Going Next" Prevention
+Added a system to detect Survivors who intentionally die early in the match.
+When a Survivor is determined to be doing this, they receive a disconnection penalty and lose one full grade.
+Note: This is disabled during the PTB.
+The Attempt Unhook ability is now only available in the following circumstances:
+Two Survivors remain in the Trial.
+A Survivor's Luck is increased with an Offering.
+A Survivor has equipped the Slippery Meat or Up the Ante perk.
+When more than two Survivors remain, they may struggle while on a hook, but with no chance of escape or penalty for failure.
+Letting two struggle skill checks pass without any input will no longer instantly kill you.
+The Abandoned score event (given to Survivors when a teammate disconnects) is now also granted when a Survivor gives up via this system.
+Increased the Abandoned score event to 2,000 Bloodpoints
+(was 600)
+.
+Mori Update
+Near the end of a Trial, the Killer can now activate a Mori when at least 2 Survivors are alive
+(up from 1 Survivor alive)
+:
+1 Survivor must be alive
+(Healthy, Injured or Dying)
+1 Survivor or more must be Hooked, and on Struggle Phase
+When the above criteria are met, starting a Mori on a Survivor will now immediately start the Sacrifice of remaining Hooked Survivors in the Struggle Phase.
+Dev note: The change means that you do not need to wait for the hooked Survivor to be Sacrificed to be able to trigger a Mori.
+Offerings Updates
+All Realm/Map offerings now grant a flat 20% chance to be sent the associated Realm/Map.
+Duplicate Realm & Map offerings no longer stack.
+Most gameplay-altering offerings are now treated as secret during the loading screen reveal.
+Spawn Rules
+Survivors now spawn within 12m of each other by default, when possible.
+Survivors now spawn on the same floor as each other by default, when possible.
+The Survivor offering, Shroud of Binding, has been replaced with a new offering, the Shroud of Separation. Its new effect causes Survivors to spawn apart from one another.
+Any owned Shrouds of Binding are converted to Shrouds of Separation.
+The Killer offering, Shroud of Separation, has been replaced with a new offering, the Shroud of Vanishing. Its new effect causes all Survivor spawn offerings to be rejected by The Entity.
+Any owned Shrouds of Separation are converted to Shrouds of Vanishing.
+Spectator Mode
+Increased spectator slots in Custom Game to 5.
+Hotkeys have been assigned in Spectator Mode to make changing between players easier.
+Looping between players using the top bar while in Spectator Mode can now be done via hotkey.
+Added controller support for the above improvements.
+Voiceover Language Setting
+"Voice Language" is a new setting added under the General tab.
+French can now be chosen for voiceovers on select characters:
+Sable Ward, Gabriel Soma, The Good Guy, The Good Gal, Ellen Ripley & Rain are now available.
+Gameplay Features
+Killer Updates
+The Artist Add-Ons
+The Automatic Drawing add-on now reduces the cooldown time of Birds of Torment by 1.75 seconds after idle Dire Crows disintegrate
+(was 1.5 seconds)
+.
+The Untitled Agony add-on now makes swarmed Survivors suffer from a 10% Hindered status effect for 1.5 seconds
+(was 15%).
+The Matias' Baby Shoes add-on now reveals the auras of Survivors within 4 meters of idle Dire Crows for 3 seconds
+(was 5 meters).
+The Ink Egg add-on now reduces the time before idle Dire Crows disintegrate by 1 seconds
+(was 2 seconds).
+The Severed Hands add-on now causes Survivors coming within 2 meters of swarmed Survivors to become swarmed too
+(was 3 meters).
+The Iridescent Feather add-on no longer reduces the number of summonable Dire Crows
+(used to reduce Dire Crow summons by 1).
+The Lich
+All of The Lich's Spells are now available at the start of a Trial
+(was 15 seconds starting cooldown).
+Decreased Dispelling Sphere cooldown to 30 seconds
+(was 35 seconds).
+Decreased Fly cooldown to 20 seconds
+(was 25 seconds).
+Decreased Mage Hand cooldown to 35 seconds
+(was 40 seconds).
+Decreased Flight of the Damned cooldown to 30 seconds
+(was 35 seconds).
+Removed the interaction time locking the Killer's camera when activating Dispelling Sphere
+(was 2 seconds).
+Updated Dispelling Sphere's projectile to move quickly when first cast and slows down over the following 3 seconds, in order to spend less time revealing the area immediately in front of the Killer.
+Increased the Killer Instinct duration once Survivors exit Dispelling Sphere to 5 seconds
+(was 3 seconds).
+Increased the end interaction time of Fly to 2.75 seconds
+(was 2.5 seconds).
+Increased the duration of Fly to 5 seconds
+(was 4 seconds).
+Fixed a bug which prevented The Lich from reaching the intended movement speed (8.0 m/s) when casting Fly.
+Fixed a bug which made the Survivor pallet interaction delay inconsistent for both Killers and Survivors after lifting a pallet with Mage Hand.
+Increased the duration of the Survivor pallet interaction delay after lifting a pallet with Mage Hand to 0.55 second
+(was 0.15 second).
+Increased The Lich's aura reveal duration to 2 seconds when the associated Spell is cast for each Magic Item
+(was 1.5 seconds).
+Increased the duration of Haste to 4 seconds for Survivors equipped with Boots or Gauntlets of the Interloper when The Lich activates Mage Hand
+(was 3.5 seconds).
+The Lich Add-ons
+The Trickster's Glove add-on now increases the time Mage Hand holds a pallet up by 0.3 second
+(was 0.5 second).
+The Crystal Ball add-on now increases the Killer Instinct effect by an additional 1 second when a Survivor is revealed by Dispelling Sphere
+(was 3 seconds).
+The Potion of Speed add-on now decreases the period where you cannot attack after casting Fly by 0.15 seconds
+(was 0.3 seconds).
+The Ring of Telekinesis add-on now increases your vaulting speed by 10% for the next 10 seconds when using the Mage Hand Spell on an upright pallet
+(was 8 seconds).
+The Ring of Spell Storing add-on decreases the cooldown of all spells by 1 second
+(was 2 seconds).
+The Cloak of Elvenkind add-on now decreases Terror Radius by 22 meters when activating the Fly spell
+(was 8 meters).
+The Boots of Speed add-on now grants you 3% Haste for 2 seconds when casting Mage Hand
+(was 5%).
+The Staff of Withering add-on now causes Exhaustion for 30 seconds to Survivors who enter the radius of Dispelling Sphere
+(was 20 seconds).
+The Pearl of Power add-on now decreases the remaining cooldown for your spells by 2 seconds each time you land a basic attack
+(was 3 seconds).
+The Robe of Eyes add-on now reveals the auras of Survivors within 6 meters of a treasure chest for 4 seconds each time you cast a spell
+(was 3 seconds).
+The Dragontooth Dagger add-on now applies Haemorrhage and Mangled status effects to Survivors hit with a basic attack while holding a Magic Item for 60 seconds
+(was 45 seconds).
+The Cloak of Invisibility add-on now activates Undetectable for 20 seconds each time all of your spells are on cooldown at the same time
+(was 10 seconds).
+The Twins
+Victor is now able to trigger chases with Survivors.
+Killer Perks
+Call of Brine
+Increased duration to 70 seconds
+(was 60 seconds).
+Increased bonus Generator regression to 130/140/150%
+(was 115/120/125%).
+Thrilling Tremors
+Reduced cooldown to 40/35/30 seconds
+(was 100/80/60 seconds).
+Superior Anatomy
+Increased area of detection to 12 meters
+(was 8 meters).
+Decreased cooldown to 25 seconds
+(was 30 seconds).
+Dark Devotion
+Increased duration of Terror Radius transfer to Obsession to 35/40/45 seconds
+(was 20/25/30 seconds).
+Increased size of transferred Terror Radius to 40 meters
+(was 32 meters).
+Hex: Retribution
+Increased Oblivious duration caused by Survivor interacting with Dull or Hex Totems to 40/50/60 seconds
+(was 35/40/45 seconds).
+Increased Survivor aura reveal triggered by Hex Totem removal to 20 seconds
+(was 15 seconds).
+Machine Learning
+Decreased Haste value to 8%
+(was 10%).
+Increased duration to 40/50/60 seconds
+(was 30/35/40 seconds).
+Remember Me
+Updated description to more accurately reflect its in-game effect.
+Terminus
+Increased Broken duration once exit gates are open to 35/40/45 seconds
+(was 20/25/30 seconds).
+THWACK!
+Increased reveal area to 36 meters
+(was 24 meters).
+Increased Survivor aura reveal to 4/5/6 seconds
+(was 3/4/5 seconds).
+Survivor Perks
+Botany Knowledge
+Healing item efficiency reduction removed
+(was 20%).
+Champion of Light
+Decreased cooldown to 60/50/40 seconds
+(was 80/70/60 seconds).
+Light-footed
+Decreased cooldown to 14/12/10 seconds
+(was 28/24/20 seconds).
+Desperate Measures
+Increased scaling bonus speed to healing and unhook actions to 16/18/20%
+(was 10/12/14%).
+Exultation
+Increased the item recharge amount for stunning the Killer with a pallet to 75%
+(was 25%).
+Decreased cooldown to 30/25/20 seconds
+(was 40/35/30 seconds).
+Counterforce
+Increased bonus Totem cleansing speed to 25%
+(was 20%).
+Increased furthest Totem aura reveal duration to 10/12/14 seconds
+(was 2/3/4 seconds).
+Increased stackable Totem cleansing speed bonus to 25%
+(was 20%).
+Empathic Connection
+Injured Survivor(s) can now see the aura of Survivor(s) with Empathic Connection anywhere on a map
+(was 32/64/96 meters).
+Updated healing speed bonus to other Survivors to 25/30/35% across Tiers
+(was 30% across all Tiers).
+Emblem Updates
+Lightbringer:
+Performing an Invocation now awards 0.8 Lightbringer points per percent of progress.
+Being chased while a teammate performs an Invocation now awards 0.4 Lightbringer points per percent of progress.
+Blessing a Totem for the first time now awards 50 Lightbringer points.
+Being chased while a teammate blesses a Totem for the first time now awards 25 Lightbringer points.
+Increased Lightbringer points earned when a teammate repairs a Generator while you are being chased to 0.5 per percent of progress
+(was 0.33)
+.
+Decreased Lightbringer points earned for repairing generators to 0.8 per percent of progress
+(was 1)
+.
+Increased Lightbringer points earned when other Survivors cleanse a Dull Totem while you are chased to 10
+(was 5)
+.
+Increased Lightbringer points earned when other Survivors cleanse a Hex Totem while you are chased to 25
+(was 10)
+.
+Evader:
+Increased Evader points earned after a 15 second chase to 60
+(was 25)
+.
+Increased Evader chase multiplier at 10 meters to 1x
+(was 0.6x)
+.
+Decreased Evader chase multiplier at 6 meters to 1x
+(was 1.2x)
+.
+Map Showcase
+Added new Map Game Mode that allows for players to queue up for a single, predetermined map.
+Bug Fixes
+Audio
+Fixed an issue where The Plague's Corrupt Purge activation sound effect would play multiple time in a row when all Pools of Devotion were corrupted.
+Fixed an issue where The Huntress' Were-Elk outfit lullaby was quieter than her other outfits.
+Character
+Fixed an issue where the Madness tier up animation would not trigger on Survivors when playing against The Doctor.
+Fixed an issue where The Nightmare's left hand would snap briefly when aiming at a Dream Pallet.
+Fixed an issue where Rupture could be activated while dropping a pallet as The Nightmare.
+Fixed an issue where Awake Survivors could heal Sleeping Survivors after the "Wake Up" interaction was interrupted.
+Fixed an issue where The Nightmare was unable to use Dream Projection in Trials.
+Fixed an issue where The Trickster did not have a fatigued animation after ending a Main Event.
+Fixed an issue where The Dark Lord could see the lute floating when a Survivor was using Bardic Inspiration while in Bat form.
+Fixed an issue where The Lich's Spell indicator became distorted when changing window modes on an ultra wide monitor.
+Fixed an issue where pallets would shake after lifting a pallet with The Lich's Mage Hand.
+Fixed an issue where the animation for The Lich's Mage Hand would repeat after raising a pallet.
+Fixed an issue where the activation prompt for the Eye of Vecna was not clearly labeled.
+Fixed an issue where the grace period to drop a pallet after it was raised by The Lich's Mage Hand was inconsistent.
+Fixed an issue where The Houndmaster's dog would appear to slide when charging the Chase command while blocked by obstacles.
+Environment/Maps
+Fixed an issue in the Coldwind Farm Realm where players could not vault in the combine harvester.
+Fixed an issue in the Autohaven Wreckers Realm where players could not vault in the crashed bus.
+Fixed an issue in the Toba Landing map where a placeholder tile would appear.
+Perks
+Fixed an issue where the durability icon remained visible after emptying a Toolbox with the Streetwise perk equipped.
+Known Issues
+The Dark Lord has been disabled.
+Several localizations are incomplete.
