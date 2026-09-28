@@ -1,6 +1,6 @@
 # PROJECT_MANIFEST — Base de connaissances experte Dead by Daylight
 
-> **Statut global : voir `kb/guide/15_annexes.md` §15.7 (Definition of Done, mission §47).**
+> **Statut global : COMPLETE au sens du §47 (28/09/2026, LIVE 10.1.2a)** — les 12 conditions sont remplies après la passe 18 (`kb/audit/pass18_final_check.md`) ; motifs, réserves et limites d'accès (aucune VOD, aucune source experte écrite, statistiques non lues, PTB 10.2.0 non intégré, 117 questions ouvertes) : `kb/guide/15_annexes.md` §15.7. Au niveau des nœuds, 49/245 sont COMPLETE (`kb/ledgers/COVERAGE_MATRIX.md`). **Redevient NOT READY à la sortie LIVE de 10.2.0** tant que §15.8.1 n'est pas appliqué.
 > Référence de version : **patch LIVE 10.1.2a (édition serveur du 17/09/2026, chapitre 41 Chorus of Sin)** — état au **27-28/09/2026**.
 > Le **PTB 10.2.0** (15 → 21/09/2026, 58 perks modifiées, Survivor Intent System, refonte Abandon) **n'est pas LIVE** (wiki : « 10.2.0 TBA » ; aucun article officiel après 559). Toute valeur PTB est étiquetée comme telle.
 
@@ -27,7 +27,7 @@
 | `kb/guide/` | Chapitres Markdown du guide, faits canoniques, brief de rédaction | final |
 | `kb/deliverables/` | QUICK_REFERENCE (§51-2), KILLER_COUNTERPLAY_HANDBOOK (§51-3), MAP_LOOP_HANDBOOK (§51-4, = ch. 4 + 5), PERK_DATABASE (§51-5), TRAINING_PROGRAM (§51-6), DECISION_TREES (§51-7), PERK_DEDUCTION (§10) | final |
 | `kb/research/` | Fiches de recherche : batch2 (176 perks survivant), batch3 (145 perks tueur), batch4 (44 tueurs), batch5 (objets), batch6 (chase), batch7 (tiles), batch8 (44 cartes), batch9 (macro), batch11 (entraînement), batch12 (questions mécaniques) | re-vérifié / audité |
-| `kb/audit/` | pass13 (couverture), pass14 (adversariaux §25-26), pass15 (profondeur/praticité), pass17 (fact-check final) | fait |
+| `kb/audit/` | pass13 (couverture), pass14 (adversariaux §25-26), pass15 (profondeur/praticité), pass17 (fact-check final), pass18 (contrôle final avant PDF, verdict §47) | fait |
 | `kb/ledgers/` | COVERAGE_MATRIX, CONFLICT_REGISTER, OUTDATED_CONTENT_REPORT (§51-10), OPEN_QUESTIONS (§51-11), SOURCE_LEDGER (§51-8), CHANGELOG (§51-9), TODO_RESEARCH, AUDIT_PHASE0_ERRATA, BATCH_2_4_SYNTHESIS (historique) | final |
 | `kb/sources/` | Notes officielles BHVR archivées, pages wiki complètes, modules de données wiki | archive |
 | `kb/seed/` | Textes extraits du seed et de l'audit de phase 0 | référence |
@@ -66,3 +66,4 @@ Jamais d'analyse de VOD ; aucune statistique NightLight/infographie lue ; aucune
 | 15 | Audit de profondeur / praticité | FAIT | `audit/pass15_depth_practicality.md` |
 | 16 | Réécriture (master guide) | FAIT | `kb/guide/`, PDF |
 | 17 | Fact-check final | FAIT | `audit/pass17_*.md` |
+| 18 | Contrôle final avant PDF (ajouts du 28/09 aux ch. 7-8, audit §25-26 du ch. 15, registres, verdict §47) | FAIT | `audit/pass18_final_check.md` |

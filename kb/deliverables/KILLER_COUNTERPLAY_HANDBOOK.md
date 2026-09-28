@@ -6,7 +6,7 @@
 - **PTB 10.2.0** (15 → 21/09/2026) : **non LIVE**. Aucune valeur PTB n'est utilisée ; une perk affichée par le wiki en version PTB est signalée « PTB 10.2.0 — non LIVE ». Aucun **pouvoir** des 44 tueurs n'est modifié au PTB 10.2.0 (note 559).
 - **Mode 1v4 uniquement** : les valeurs 2v8 (Innate Skills de Good Guy, Xenomorph, Ghost Face, Executioner ; zombies du Nemesis 9.4.2…) ne sont jamais utilisées.
 - **Sources** : `kb/research/batch4_killers_g1.md` … `g6.md` (fiches auditées puis re-vérifiées), cohérence avec les chapitres `kb/guide/07_tueurs_A.md` et `08_tueurs_B.md` (tableaux récapitulatifs), `kb/research/batch7_tiles.md` §5 (matrice tile × tueur, palettes), `kb/ledgers/AUDIT_PHASE0_ERRATA.md` (prime sur l'audit phase 0). Infobox vitesse / TR / taille des 44 tueurs recontrôlées le 27/09/2026 sur `kb/sources/wiki_killers/*.txt`.
-- **Nœuds couverts** : T-F45 (typologie transversale), T-C11 (matrice tile × archétype, v2). Couverture : **44/44**. Statut du domaine : **NOT READY** (voir `kb/PROJECT_MANIFEST.md`).
+- **Nœuds couverts** : T-F45 (typologie transversale), T-C11 (matrice tile × archétype, v2). Couverture : **44/44**. Statut : voir `kb/guide/15_annexes.md` §15.7 et `kb/ledgers/COVERAGE_MATRIX.md` (famille F : fiches AUDITED, counterplay [HEURISTIQUE]).
 - **Limites qui restent** : aucun guide expert ni aucune VOD n'a été lu ; tout le counterplay est **[HEURISTIQUE]** fondé sur des valeurs vérifiées. Fréquences de perks et d'add-ons : non vérifiables (NightLight inaccessible). Conflits encore ouverts : §6.
 
 ## Légende

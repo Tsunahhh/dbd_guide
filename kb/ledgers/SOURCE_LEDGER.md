@@ -1,6 +1,6 @@
 # SOURCE_LEDGER — registre des sources
 
-Livrable §51-8. État FINAL au 27/09/2026 (soir), après la re-vérification complète des lots 2-12.
+Livrable §51-8. État FINAL au 27/09/2026 (soir), après la re-vérification complète des lots 2-12 ; **mis à jour le 28/09/2026** (9 notes PTB et page wiki du Cenobite archivées ; passe 18).
 Référence de version : **LIVE 10.1.2a** (édition serveur du 17/09/2026). **PTB 10.2.0** (ouvert le 15/09/2026) **non LIVE**.
 
 Ce registre dit **quelles sources ont réellement été lues, comment, et ce qui n'a pas pu l'être**. Le détail URL par URL, fichier par fichier, est dans `kb/ledgers/SOURCE_LEDGER_batches.md`, régénéré par `python3 kb/tools/summarize_batches.py` (346 URL distinctes au 27/09/2026 soir). Attention : l'en-tête de ce fichier généré dit encore « toutes consultées via le résumé de WebSearch » ; c'est vrai pour la **première passe** des lots 2-4 seulement. La colonne « Ligne d'origine » indique pour chaque source si elle a ensuite été lue en entier (« lu en local », « API », `official_<id>.txt`).
@@ -24,49 +24,58 @@ Toutes publiées sur la base de connaissances officielle : `https://forums.bhvr.
 |---:|---|---|---|
 | 503 | Stats \| January - March 2025 | statistiques (texte, infographies non lues) | — (période janv.-mars 2025, titre) |
 | 507 | Developer Update \| May 2025 | annonce de design | — (mai 2025, titre) |
+| 509 | 9.0.0 \| PTB Patch Notes | **PTB 9.0.0, non LIVE** (archivée le 28/09/2026 ; sert à dater un changement ou à montrer qu'il a été annulé) | — (date du PTB non relevée) |
 | 510 | 9.0.0 \| Five Nights at Freddy's | patch 9.0.0 | 17/06/2025 (wiki Patch 9.0.X) |
 | 511 | 9.0.1 \| Bugfix Patch | hotfix | 26/06/2025 (wiki) |
 | 512 | 9.0.2 \| Bugfix Patch | hotfix | 02/07/2025 (wiki) |
 | 513 | Developer Update \| July 2025 | annonce de design | — (juillet 2025, titre) |
+| 514 | 9.1.0 \| PTB Patch Notes | **PTB 9.1.0, non LIVE** (archivée le 28/09/2026 ; sert à dater un changement ou à montrer qu'il a été annulé) | — (date du PTB non relevée) |
 | 516 | 9.1.0 \| The Walking Dead | patch 9.1.0 (avec « Changes from PTB ») | 29/07/2025 (wiki) |
 | 517 | 9.1.1 \| Bugfix Patch | hotfix | 06/08/2025 (wiki) |
 | 519 | 9.1.2 \| Bugfix Patch | hotfix | 14/08/2025 (wiki) |
 | 520 | 9.1.3 \| Bugfix Patch | hotfix | 26/08/2025 (wiki) |
 | 521 | Developer Update \| August 2025 | annonce (design anti-slug / anti-tunnel du PTB 9.2.0) | — (août 2025, titre) |
+| 522 | 9.2.0 \| PTB Patch Notes | **PTB 9.2.0, non LIVE** (archivée le 28/09/2026 ; sert à dater un changement ou à montrer qu'il a été annulé) | — (date du PTB non relevée) |
 | 523 | 9.2.0 \| Sinister Grace | patch 9.2.0 (section « Postponed ») | 23/09/2025 (wiki) |
 | 524 | 9.2.1 \| Bugfix Patch | hotfix | 30/09/2025 (wiki) |
 | 525 | 9.2.2 \| Bugfix Patch | hotfix | 07/10/2025 (wiki) |
 | 526 | 9.2.3 \| Bugfix Patch | hotfix | 21/10/2025 (wiki) |
+| 527 | 9.3.0 \| PTB Patch Notes | **PTB 9.3.0, non LIVE** (archivée le 28/09/2026 ; sert à dater un changement ou à montrer qu'il a été annulé) | PTB du 04/11/2025 |
 | 529 | 9.3.0 \| Mid-Chapter | patch 9.3.0 (« Changes from PTB », reverts) | 25/11/2025 (wiki) |
 | 530 | 9.3.2 \| Bugfix Patch | hotfix (9.3.1 sauté) | 09/12/2025 (wiki) |
 | 531 | FAQ \| THE HALLOWEEN CONTENT | retrait de la licence Halloween | — (retrait le 19/01/2026, texte) |
+| 533 | 9.4.0 \| PTB Patch Notes | **PTB 9.4.0, non LIVE** (archivée le 28/09/2026 ; sert à dater un changement ou à montrer qu'il a été annulé) | PTB du 06/01/2026 |
 | 534 | 9.4.0 \| Stranger Things Chapter 2 | patch 9.4.0 | 27/01/2026 (wiki) |
 | 535 | 9.4.1 \| Bugfix Patch | hotfix | 03/02/2026 (wiki) |
 | 536 | 9.4.2 \| Bugfix Patch | hotfix (section **2v8** en tête : Good Guy, soin à 3) | 10/02/2026 (wiki) |
+| 537 | 9.5.0 \| PTB Patch Notes | **PTB 9.5.0, non LIVE** (archivée le 28/09/2026 ; sert à dater un changement ou à montrer qu'il a été annulé) | — (date du PTB non relevée) |
 | 538 | 9.5.0 \| All-Kill: Comeback | patch 9.5.0 | 17/03/2026 (wiki) |
 | 539 | 9.5.1 \| Bugfix Patch | hotfix | 24/03/2026 (wiki) |
 | 540 | Stats \| First Look at Stats in 2026 | statistiques (texte seulement ; infographies non lues) | — (« already almost April », texte : fin mars 2026 probable) |
 | 541 | 9.5.2 \| Bugfix Patch | hotfix | 31/03/2026 (wiki) |
+| 542 | 9.6.0 \| PTB Patch Notes | **PTB 9.6.0, non LIVE** (archivée le 28/09/2026 ; sert à dater un changement ou à montrer qu'il a été annulé) | PTB du 07/04/2026 |
 | 543 | Stats \| The Trickster | statistiques | — (données jusqu'au 16/03/2026, texte) |
 | 544 | 9.6.0 \| Patch Notes | patch 9.6.0 (Diminishing Returns) | 28/04/2026 (wiki) |
 | 545 | 9.6.1 \| Bugfix Patch | hotfix (manuel DR en jeu) | 05/05/2026 (wiki) |
 | 546 | 9.6.2 \| Bugfix Patch | hotfix | 12/05/2026 (wiki) |
+| 548 | 10.0.0 \| Jason PTB Patch Notes | **PTB 10.0.0, non LIVE** (archivée le 28/09/2026 ; sert à dater un changement ou à montrer qu'il a été annulé) | — (date du PTB non relevée) |
 | 549 | PTB To Live Changes: The Slasher | changements PTB → LIVE du chapitre 10.0.0 | — (avant la sortie du 16/06/2026, texte) |
 | 550 | 10.0.0 \| Jason Patch Notes | patch 10.0.0 | 16/06/2026 (wiki) |
 | 551 | 10.0.1 \| Bugfix Patch | hotfix | 23/06/2026 (wiki) |
 | 552 | 10.0.2 \| Bugfix Patch | hotfix | 06/07/2026 (wiki) |
 | 553 | 10.0.3 \| Bugfix Patch | hotfix | 21/07/2026 (wiki) |
 | 554 | Stats \| Global Stats | statistiques (texte seulement) | — |
+| 555 | 10.1.0 \| PTB Patch Notes | **PTB 10.1.0, non LIVE** (archivée le 28/09/2026 ; sert à dater un changement ou à montrer qu'il a été annulé) | — (date du PTB non relevée) |
 | 556 | 10.1.0 \| Chorus of Sin | patch 10.1.0 | 25/08/2026 (wiki) |
 | 557 | 10.1.1 Bugfix Patch | hotfix | 01/09/2026 (wiki) |
 | 558 | 10.1.2 Bugfix Patch | hotfix 10.1.2 + édition **10.1.2a** | 08/09/2026 (wiki) ; ajout 10.1.2a « Edited to add on the 17th September » (texte) |
 | 559 | 10.2.0 PTB Patch Notes | **PTB, non LIVE** ; lignes « was … » = valeurs LIVE | PTB ouvert le 15/09/2026 (wiki) ; sortie LIVE « TBA » |
 
-Total : **39 articles archivés** (29 notes de patch ou de hotfix LIVE, 1 note PTB, 1 bilan « PTB To Live » (549), 4 articles de statistiques, 3 Developer Updates, 1 FAQ). Les plus cités par les lots : 523 (9.2.0), 559 (PTB 10.2.0), 538 (9.5.0), 510 (9.0.0), 516 (9.1.0), 544 (9.6.0), 556 (10.1.0), 529 (9.3.0), 534 (9.4.0), 550 (10.0.0).
+Total : **48 articles archivés** (29 notes de patch ou de hotfix LIVE, **10 notes PTB** (509, 514, 522, 527, 533, 537, 542, 548, 555, 559), 1 bilan « PTB To Live » (549), 4 articles de statistiques, 3 Developer Updates, 1 FAQ). Les 9 notes PTB 9.0.0 → 10.1.0 ont été archivées le 28/09/2026. Les plus cités par les lots : 523 (9.2.0), 559 (PTB 10.2.0), 538 (9.5.0), 510 (9.0.0), 516 (9.1.0), 544 (9.6.0), 556 (10.1.0), 529 (9.3.0), 534 (9.4.0), 550 (10.0.0).
 
-**Lus en entier mais non archivés** (lot 12, téléchargés par `curl` le 27/09/2026) : 527 (9.3.0 PTB Patch Notes, PTB du 04/11/2025), 533 (9.4.0 PTB Patch Notes, PTB du 06/01/2026), 542 (9.6.0 PTB Patch Notes, PTB du 07/04/2026). Ce sont des notes **PTB** : utilisées seulement pour dater un changement ou montrer qu'il a été annulé.
+**Notes PTB** : 527, 533 et 542, lues en entier au lot 12, sont désormais archivées avec 509, 514, 522, 537, 548 et 555 (28/09/2026). Ce sont des notes **PTB** : utilisées seulement pour dater un changement ou montrer qu'il a été annulé, jamais comme valeur LIVE.
 
-**Non consultés** (présents dans `kb_index.txt`) : 522 (9.2.0 PTB), 528 (Stats Haunted by Daylight), 532 (Stats 2025 Year in Review), 537 (9.5.0 PTB), 547 (Stats Blood Moon 2026), 548 (10.0.0 PTB), 555 (10.1.0 PTB) ; toutes les notes antérieures à l'article 495 (patchs 8.x et avant, dont la **8.6.0** qui fonde plusieurs TR). Les articles 560-565 renvoient « Article not found ».
+**Non consultés** (présents dans `kb_index.txt`) : 528 (Stats Haunted by Daylight), 532 (Stats 2025 Year in Review), 547 (Stats Blood Moon 2026) ; toutes les notes antérieures à l'article 495 (patchs 8.x et avant, dont la **8.6.0** qui fonde plusieurs TR). Les articles 560-565 renvoient « Article not found » (560-562 re-contrôlés le 28/09/2026 : toujours introuvables).
 
 Autres sources officielles vues seulement via résumé WebSearch (1re passe) : discussions du forum BHVR (10 fils, dont « Dev Update: 10.2.0 Perks Update » n° 472297), support.deadbydaylight.com (3 pages), bugreport.deadbydaylight.com (1), page Steam (1).
 
@@ -75,7 +84,7 @@ Autres sources officielles vues seulement via résumé WebSearch (1re passe) : d
 | Lot / usage | Pages | Méthode d'extraction | Stockage |
 |---|---|---|---|
 | Perks (lots 2, 3, 12a) | **327 pages de perks** (321 perks retenues dans `PERK_DATABASE.md`) | `kb/tools/wiki_scrape.py perks` : API MediaWiki `action=parse`, BeautifulSoup ; description courante + drapeau « upcoming Patch 10.2.0 » + onglets d'historique + change log 8.x-10.x | `kb/sources/wiki_perks.json` (brut), `kb/sources/wiki_perks_digest.md` (digest) |
-| Tueurs (lot 4, 12b) | **45 pages de personnages tueurs** (pouvoir, add-ons, perks, trivia) | `kb/tools/wiki_scrape.py killers` | `kb/sources/wiki_killers/*.txt`, `kb/sources/wiki_killers_raw.json` |
+| Tueurs (lot 4, 12b) | **46 pages de personnages tueurs** : 44 tueurs LIVE (The Cenobite = `Elliot_Spencer.txt`, archivée le 28/09/2026) + 2 annoncés (pouvoir, add-ons, perks, trivia) | `kb/tools/wiki_scrape.py killers` | `kb/sources/wiki_killers/*.txt`, `kb/sources/wiki_killers_raw.json` |
 | Modules de données | **7 modules Lua** (`Datatable`, `Datatable/Loadout`, `…/Descriptions`, `…/History`, `Datatable/Various`, `Killers`, `Maps`) + historique des révisions (lot 12) | API MediaWiki | `kb/sources/wiki_modules/` |
 | Pages de patch | **10 pages** « Patch Notes 9.0.X » → « 10.2.X » (dates de sortie, textes des notes) + 6.1.X, 8.6.X lues en ligne (lot 12) | API MediaWiki | `kb/sources/patches/patch_<version>.txt` |
 | Pages thématiques | ≈ 70 pages : objets (Toolboxes, Med-Kits, Flashlights, Maps, Keys, Chests, Luck, Offerings, Hooks, Skill Checks, Instructions, Flashbang…), tiles (Pallets, Windows, Maze Tiles, Killer Shack, School Bus, Crane…), **28 pages de cartes / royaumes** (lot 8), mécaniques (Health States, Movement Speeds, Resolve, Hooks, Elusive, Conspicuous Actions, Hatch, Wiggle, Haste, Bloodlust, Attacks, Pools of Blood, Dead by Daylight Maths) | `kb/tools/wiki_text.py <Page>` (API, ≤ 1-2 requêtes/s) ; historique des révisions pour Resolve, Hooks et la description d'Off the Record | lu à la volée (cité dans chaque lot) |
@@ -116,5 +125,5 @@ Phase 0 (`kb/seed/audit_phase0.txt`) : sources presse sur le reset MMR 10.1.0 (a
 | X (Twitter) | refusé | confirmation primaire du reset MMR 10.1.0 impossible |
 | Manuel en jeu (9.6.1) | hors ligne (client du jeu) | liste itemisée des Diminishing Returns inconnue |
 | Tests en jeu | aucun client disponible | valeurs non publiées (fente en distance, abaissement de palette, ramassage, Bloodlust sur stun…) restent UNRESOLVED |
-| Notes officielles 8.x et avant, PTB 9.2.0 / 9.5.0 / 10.0.0 / 10.1.0 | non téléchargées | TR 8.6.0 (Blight, Ghost Face, Hillbilly, Skull Merchant) en STRONG_SECONDARY ; réductions de cartes 9.2.0 non attribuées |
+| Notes officielles 8.x et avant | non téléchargées | TR 8.6.0 (Blight, Ghost Face, Hillbilly, Skull Merchant) en STRONG_SECONDARY ; réductions de cartes 9.2.0 non attribuées |
 | Guides experts écrits, coachs | aucun identifié ni lu | aucune EXPERT_OPINION sourcée |

@@ -218,7 +218,7 @@ Chaque fois que ce n'est pas évident, le texte dit **de quel type** est l'affir
 | **[FACT]** | Mécanique ou valeur documentée (note officielle et/ou wiki) | Tu peux construire dessus. Vérifie la version si tu lis après 10.2.0. |
 | **[DATA]** | Donnée mesurée, avec période, population et effectif | Rare dans ce guide (voir §1.5.1). Une donnée sans effectif n'est pas une [DATA]. |
 | **[HEURISTIQUE]** | Règle pratique de joueur, vraie « en général », avec exceptions | Applique-la, mais cherche la condition qui la rend fausse (elle est toujours indiquée). |
-| **[AVIS D'EXPERT]** | Opinion répandue chez les bons joueurs, non mesurée | Point de départ, pas vérité. |
+| **[AVIS D'EXPERT]** | Jugement stratégique défendable, **attribué à aucun expert identifié** (aucune source experte lue) : à traiter comme une heuristique forte | Point de départ, pas vérité. |
 | **[HYPOTHÈSE]** | Interprétation plausible, non testée (ex. modèle de greed) | Teste-la toi-même avant d'en faire un réflexe. |
 | **[SITUATIONNEL]** | Dépend du tueur, de la carte, de l'état de partie | Relis les conditions à chaque fois. |
 | **[INCERTAIN]** | Valeur non tranchée (sources contradictoires ou absentes) | Ne base pas une décision serrée dessus ; prévois une marge. |

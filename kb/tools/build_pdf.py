@@ -15,7 +15,7 @@ from playwright.sync_api import sync_playwright
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 GUIDE = os.path.join(ROOT, "kb", "guide")
-OUT = sys.argv[1] if len(sys.argv) > 1 else os.path.join(ROOT, "DBD_Guide_Expert_v2.pdf")
+OUT = os.path.abspath(sys.argv[1]) if len(sys.argv) > 1 else os.path.join(ROOT, "DBD_Guide_Expert_v2.pdf")
 
 CSS = r"""
 @page { size: A4; margin: 18mm 16mm 20mm 16mm; }

@@ -22,6 +22,7 @@ Pendant la partie, **personne ne voit le loadout du tueur** : la déduction est 
 | **calcul** | Arithmétique faite sur des [FACT] (conversion en secondes, surtout) |
 
 **Force du lien signal → perk** [HEURISTIQUE] :
+
 - **Signature** : dans le périmètre des 145 perks, le signal ne correspond qu'à **une** perk. Hypothèse de travail très forte, **jamais une certitude** (un pouvoir, un add-on ou une perk de coéquipier peut produire le même effet ; le périmètre n'a pas été comparé à la liste officielle LIVE).
 - **Fort** : 2 ou 3 candidates, qu'un test simple départage.
 - **Faible** : repose sur le comportement du tueur. Talent, pouvoir ou hasard suffisent souvent à l'expliquer.
@@ -65,6 +66,7 @@ Un jeton de **Distortion** consommé signale aussi une lecture d'aura (SS : fich
 | **Comportement du tueur** | Trajectoire, timing, vitesse de casse ou de vault, fente | **Signal faible** : talent et pouvoir l'expliquent souvent |
 
 **Ce qui n'est pas un signal fiable** :
+
 - **Les auras de gens** (blanc, jaune) décrites par DMS, Eruption, Thrilling Tremors, Surveillance, Machine Learning, Overture of Doom, Jagged Compass sont **côté tueur**. Le survivant voit le **blocage**, pas la couleur. Seule exception : **Trail of Torment** (aura jaune visible par tous).
 - **Les crochets Fléau (Scourge)** : le wiki dit « highlighted in white » (pour le tueur). Leur visibilité côté survivant n'est **pas établie** **[INCERTAIN]** : ne pas en faire un signal de base.
 - **Le rendu exact d'un gen bloqué** n'a pas été décrit par les sources **[INCERTAIN]**.
@@ -162,16 +164,19 @@ Choisir l'action qui reste bonne **contre toutes les candidates** et qui coûte 
 ### Trois raisonnements complets
 
 **Exemple 1 : explosion au hook** `[Intermédiaire]`
+
 - **A** : au moment du hook, je crie en réparant. **B** : mon gen, le plus avancé de la carte, perd une grosse part de sa barre. **C** : le tueur est l'Artist.
 - → **Pain Resonance** (Signature, effet VM). Test : se reproduit-il au 1er hook du survivant suivant, et **pas** au 2e hook du même ?
 - Réponse robuste : ne plus garder un seul gen très avancé au moment des 1ers hooks ; après le cri, **réparer tout de suite 5 %** plutôt que partir et revenir (DMS possible en combo).
 
 **Exemple 2 : cri au down, sans hook** `[Intermédiaire]`
+
 - **A** : un coéquipier tombe. **B** : je crie en réparant un gen que le tueur avait kické il y a 2 minutes, à l'autre bout de la carte. **C** : le gen recule.
 - → **Eruption** (Signature avec le cri, VM). **Surge** est écartée : pas de cri dans son texte LIVE, et elle ne touche que les gens à ≤ 32 m du tueur.
 - Réponse robuste : quand une chase tourne mal, ne pas rester sur un gen kické ; éloigner les chases des gens avancés.
 
 **Exemple 3 : le tueur « disparaît » au crochet** `[Avancé]`
+
 - **A** : plus de heartbeat 3 s après le hook. **B** : le tueur est un tueur sans furtivité naturelle. **C** : j'entends une respiration près d'un mur.
 - → **Insidious** (Fort, VM : Undetectable **tant qu'il reste immobile**), ou Silent Shadow (Undetectable 11/12/13 s à chaque hook, VM).
 - Réponse robuste : « **pas de cœur ≠ tueur parti** ». Inspecter les angles morts avant de décrocher ; en SWF, venir à deux.
@@ -419,6 +424,7 @@ Détail : `kb/deliverables/PERK_DEDUCTION.md` §2.
 ### Phase D : endgame
 
 **Checklist des portes alimentées (5 s)** `[Avancé]` :
+
 1. Exposed **pour tous** → NOED (SS) ; **Obsession seule** → Rancor (SS).
 2. Broken chez les blessés, au sol, accrochés → Terminus (VM, 35/40/45 s après l'ouverture).
 3. Fenêtres **et** palettes bloquées → None Are Free (SS, jusqu'à 48/56/64 s).
@@ -469,6 +475,7 @@ Détail : `kb/deliverables/PERK_DEDUCTION.md` §3.
 **QUAND jouer « anti-combo »** [HEURISTIQUE] : seulement quand **les deux** moitiés ont été vues ou qu'une moitié est confirmée et l'autre est la conséquence la plus coûteuse (ex. Pain Resonance vue → ne pas lâcher le gen au cri, car DMS coûterait 25/30/35 s de blocage). Sur une moitié seule et incertaine, reste sur les réflexes à coût nul de 10.7.
 
 **CAS D'ÉCHEC** :
+
 - **Combo fantôme** : annoncer « Pain Res + DMS » sur un seul cri. Sans blocage observé, la réponse anti-DMS (reprendre tout de suite) est neutre ; mais la réponse anti-Pain Res (répartir la progression) coûte du tempo si la perk n'y est pas (10.5, B4 contre B6).
 - **Casser la mauvaise jonction** : purifier Ruin avant Undying, lâcher un gen kické sans cri d'Eruption. Le coût d'une réponse fausse se paie en secondes-survivant, pas seulement en information.
 - **Hypothèse figée** : continuer à jouer contre un combo que la suite de la partie a infirmé (E-T02).

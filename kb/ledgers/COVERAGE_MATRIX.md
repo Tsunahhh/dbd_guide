@@ -1,7 +1,7 @@
 # COVERAGE_MATRIX — état final après ré-audit de la taxonomie
 
 - **Date** : 28/09/2026. **Référence de jeu** : LIVE 10.1.2a (17/09/2026). PTB 10.2.0 (15-21/09/2026) **non LIVE** ; 2v8 hors périmètre.
-- **Statut global du projet : NOT READY** (mission §47). 43 nœuds sur 245 sont COMPLETE ; les autres sont bloqués par un plafond de vérification (heuristiques sans VOD ni source experte), une valeur non publiée ou un ajout non encore contrôlé.
+- **Statut global du projet (§47) : COMPLETE au 28/09/2026, après la passe 18** (`kb/audit/pass18_final_check.md` ; motifs et réserves : `kb/guide/15_annexes.md` §15.7). La version initiale de cette matrice (28/09, avant la passe 18) concluait NOT READY : chapitre 15 non audité (R-04), ajouts du 28/09 non contrôlés (R-03), registres en retard (R-30, R-31). **Au niveau des nœuds (§46)**, 49 sur 245 sont COMPLETE ; les autres restent plafonnés par la vérification (heuristiques sans VOD ni source experte), une valeur non publiée ou un événement futur (10.2.0). Le verdict redevient NOT READY à la sortie LIVE de 10.2.0 (R-01).
 - **Remplace** la version du 27/09/2026 (fin des lots 2-4), qui affichait encore NOT_STARTED pour la chase, les tiles, la macro et les arbres.
 
 ## 0. Méthode du ré-audit (mission §3, §24, §46 ; condition 1 du §47)
@@ -9,9 +9,10 @@
 1. **Taxonomie de référence** : les 205 nœuds T-A01 … T-W04 de la phase 0 (`kb/seed/audit_phase0.txt`, pages 15-19), familles A à W (mission §3-18).
 2. **Localisation** de chaque nœud dans le guide final `kb/guide/01…15_*.md` (titres de sections, recherche de termes par script), puis dans les livrables `kb/deliverables/` et les fiches `kb/research/batch*.md`.
 3. **Vérification** : niveau de confiance repris des fiches et du guide, avec les registres `CANONICAL_FACTS.md`, `AUDIT_PHASE0_ERRATA.md`, `OPEN_QUESTIONS.md` (partie B, 117 questions) et `CONFLICT_REGISTER.md`.
-4. **Audits pris en compte** : P13 (couverture scriptée, `kb/audit/pass13_coverage.md`) ; P14 (audits adversariaux §25-26 des lots 4, 5, 6, 7, 8, 9, 11 et des livrables, 434 problèmes relevés, faits **sans web**) ; P15 (profondeur §27 et praticité, `pass15_depth_practicality.md`, 28/09) ; P17 (fact-check final des chapitres 1 à 14, `pass17_A…D.md`). **Le chapitre 15 n'a été audité par aucune passe.**
+4. **Audits pris en compte** : P13 (couverture scriptée, `kb/audit/pass13_coverage.md`) ; P14 (audits adversariaux §25-26 des lots 4, 5, 6, 7, 8, 9, 11 et des livrables, 434 problèmes relevés, faits **sans web**) ; P15 (profondeur §27 et praticité, `pass15_depth_practicality.md`, 28/09) ; P17 (fact-check final des chapitres 1 à 14, `pass17_A…D.md`). **Le chapitre 15 n'a été audité par aucune passe** avant la passe 18 (P18, 28/09 : §25-26 + fact-check du ch. 15, fact-check des ajouts du 28/09 aux ch. 7-8).
 5. **Contrôles faits pendant ce ré-audit** (28/09) : (a) les 327 pages de perks de `kb/sources/wiki_perks.json` correspondent aux 321 perks inventoriées plus 6 perks inutilisées du code (UNUSED) : l'inventaire des perks est complet par rapport au wiki ; (b) les 44 fiches tueurs des ch. 7-8 contiennent désormais les rubriques « Implications de carte » et « Perks / synergies » (l'écart de 32 fiches relevé par P13 est comblé), mais The Animatronic et The First n'ont pas de rubrique « Tiles » et The Good Guy garde un format divergent ; (c) les mentions périmées de Knock Out (effet d'aura retiré en 8.6.0), des « 3 soigneurs » et du rampement ne figurent plus dans le guide.
 6. **Ajouts postérieurs aux audits** : les commits du 28/09 (`b8e6821`, `a528b71`, `281ae32`, `d0e84dd`) ont ajouté des rubriques de fiches tueurs, des tables « passer à la pratique » (ch. 2, 3, 4, 6, 11, 13, 14) et la section 1.10. Aucun ne contient de valeur nouvelle, mais aucun n'a été relu par une passe indépendante. Les nœuds concernés sont donc au plus AUDITED.
+7. **Mise à jour P18 (28/09)** : rubriques « Implications de carte », « Perks / synergies », « Implications macro » et « Quand le counterplay habituel échoue » des ch. 7-8 contrôlées (valeurs contre `batch4_killers_g*.md`, perks contre `PERK_DATABASE.md` : 10 perks modifiées au PTB 10.2.0 non signalées, THWACK! et Leverage données à tort comme modifiées, 4 effets reformulés) ; rubriques manquantes ajoutées (Tiles : Animatronic, The First ; cas d'échec : Nurse, Clown, Good Guy) ; renvois des tables « passer à la pratique » et de la §1.10 vérifiés ; ch. 15 audité ; registres mis à jour. Reclassements : T-W01, W02, W03, W05, W06, T-U05 → COMPLETE ; T-W07, W08, T-U09 → AUDITED (écrits ou relus par la seule P18). Les 44 fiches tueurs restent AUDITED : le motif « ajouts non contrôlés » est levé, mais leur counterplay reste [HEURISTIQUE].
 
 ### Légendes
 
@@ -25,7 +26,7 @@
 |---|---|
 | **COMPLETE** | Recherché (fiche `batch*` ou lot 1/12) **+** vérifié (faits centraux VP, VM ou SS sans conflit ouvert qui change une décision) **+** intégré (profondeur ≥ 3, ou inventaire exhaustif) **+** audité (P14, P15 ou P17 sur le texte actuel). Un nœud **surtout heuristique** ne peut pas être COMPLETE : sans VOD ni source experte, il n'est pas vérifiable (§39-41). |
 | **AUDITED** | Intégré et audité, mais une condition de COMPLETE manque : heuristique sans source, valeur centrale INC, profondeur ≤ 2, ou texte ajouté après l'audit. |
-| **WRITTEN** | Intégré au guide, jamais audité (chapitre 15, section 1.10). |
+| **WRITTEN** | Intégré au guide, jamais audité (aucun nœud depuis P18). |
 | **VERIFIED** | Vérifié, pas intégré au guide. |
 | **UNCERTAIN** | Le cœur du nœud reste non tranché après recherche. |
 | **BLOCKED** | Le cœur du nœud dépend d'une source inaccessible (manuel en jeu, DBDLeague, VOD, infographies) ou d'un événement futur. |
@@ -44,7 +45,7 @@ Aucun nœud n'est RESEARCHING ni PARTIALLY_VERIFIED : les lots de recherche sont
 | C. Loops et tiles | 17 (6) | 3-4 | SS + HEURISTIQUE | 4 | 13 | — | AUDITED | 3, 4 | P14 lot 7 ; P17 B |
 | D. Connectivité | 4 (0) | 3-4 | HEURISTIQUE | 0 | 4 | — | AUDITED | 4 | P14 lot 7 ; P17 B |
 | E. Cartes | 12 (4) | 2-3 | SS | 4 | 8 | — | AUDITED (inventaire COMPLETE) | 5 | P13 ; P14 lot 8 ; P17 C |
-| F. Tueurs | 46 (0) | 3-4 | SS/VM + HEURISTIQUE | 1 | 45 | — | AUDITED (ajouts du 28/09 à contrôler) | 7, 8 | P13 ; P14 lot 4 + livrables ; P17 D |
+| F. Tueurs | 46 (0) | 3-4 | SS/VM + HEURISTIQUE | 1 | 45 | — | AUDITED (ajouts du 28/09 contrôlés par P18 ; counterplay [HEURISTIQUE]) | 7, 8 | P13 ; P14 lot 4 + livrables ; P17 D ; P18 |
 | G. Perks survivant | 6 (1) | inv.-4 | VMS/SS | 2 | 2 | 1 UNCERTAIN, 1 VERIFIED | AUDITED (inventaire COMPLETE) | 9 | P13 ; P14 livrables (PDB v1) ; P17 D |
 | H. Perks tueur et déduction | 5 (1) | inv.-4 | VMS/SS + HEURISTIQUE | 2 | 3 | — | AUDITED (inventaire COMPLETE) | 10 | P13 ; P14 livrables ; P17 D |
 | I. Objets et techniques | 12 (2) | 2-4 | SS/VM | 4 | 8 | — | AUDITED | 11 | P14 lot 5 ; P17 C |
@@ -59,19 +60,19 @@ Aucun nœud n'est RESEARCHING ni PARTIALLY_VERIFIED : les lots de recherche sont
 | R. Entraînement | 5 (1) | 3-4 | HEURISTIQUE | 0 | 5 | — | AUDITED | 14 | P14 lot 11 ; P17 C |
 | S. Compétitif | 4 (0) | 2-3 | INCERTAIN | 0 | 1 | 3 BLOCKED | BLOCKED | 12 | P17 A |
 | T. Littératie des données | 4 (0) | 3 | VP + méthode | 4 | 0 | — | COMPLETE | 12, 15 | P17 A |
-| U. Méta-savoir | 9 (4) | 1-4 | VP | 3 | 3 | 2 WRITTEN, 1 NOT_STARTED | AUDITED (réglages absents) | 1, 3, 14, 15 | P17 A, B |
+| U. Méta-savoir | 9 (4) | 1-4 | VP | 4 | 4 | 1 NOT_STARTED | AUDITED (réglages absents) | 1, 3, 14, 15 | P17 A, B ; P18 |
 | V. Côté tueur | 5 (0) | 2 | HEURISTIQUE | 0 | 5 | — | AUDITED (secondaire, P3) | 2, 3, 6, 10, 12 | indirects |
-| W. Annexes et traçabilité | 8 (4) | 3-4 | VP | 1 | 1 | 6 WRITTEN | WRITTEN | 1, 15 | ch. 15 non audité |
+| W. Annexes et traçabilité | 8 (4) | 3-4 | VP | 6 | 2 | — | COMPLETE (sauf statut du projet et maintenance : AUDITED) | 1, 15 | P18 |
 | X. (+) PTB 10.2.0 et contenu annoncé | 4 (4) | 1-3 | VP (PTB) | 0 | 2 | 1 BLOCKED, 1 INVENTORIED | BLOCKED (sortie non confirmée) | 1, 2, 6, 9, 10, 15 | P17 A, D |
-| **Total** | **245 (40)** | | | **43** | **182** | 8 WRITTEN · 5 BLOCKED · 4 UNCERTAIN · 1 VERIFIED · 1 INVENTORIED · 1 NOT_STARTED | **NOT READY** | | |
+| **Total** | **245 (40)** | | | **49** | **184** | 5 BLOCKED · 4 UNCERTAIN · 1 VERIFIED · 1 INVENTORIED · 1 NOT_STARTED | **§47 : COMPLETE (P18)** ; nœuds : voir ci-dessous | | |
 
 **Comptes par statut** (245 nœuds) :
 
 | Statut | Taxonomie phase 0 (205) | Nœuds ajoutés (40) | Total |
 |---|---:|---:|---:|
-| COMPLETE | 32 | 11 | **43** |
-| AUDITED | 164 | 18 | **182** |
-| WRITTEN | 4 | 4 | **8** |
+| COMPLETE | 36 | 13 | **49** |
+| AUDITED | 164 | 20 | **184** |
+| WRITTEN | 0 | 0 | **0** |
 | BLOCKED | 3 | 2 | **5** |
 | UNCERTAIN | 1 | 3 | **4** |
 | VERIFIED | 0 | 1 | **1** |
@@ -79,7 +80,7 @@ Aucun nœud n'est RESEARCHING ni PARTIALLY_VERIFIED : les lots de recherche sont
 | NOT_STARTED | 1 | 0 | **1** |
 | RESEARCHING / PARTIALLY_VERIFIED | 0 | 0 | 0 |
 
-Lecture : 225 nœuds sur 245 (92 %) sont intégrés **et** audités (COMPLETE + AUDITED). Les 182 AUDITED se répartissent ainsi : (1) 44 fiches tueurs, qui ont reçu des ajouts après le fact-check ; (2) 101 nœuds surtout heuristiques ou modélisés, qu'aucune VOD ni source experte n'a pu valider ; (3) 37 nœuds bloqués par une valeur centrale non publiée ou contradictoire (fente, abaissement de palette, Bloodlust, Elusive, trappe, Mori de fin…), une profondeur ≤ 2 ou une valeur PTB non encore LIVE.
+Lecture : 233 nœuds sur 245 (95 %) sont intégrés **et** audités (COMPLETE + AUDITED). Les 184 AUDITED se répartissent ainsi : (1) 44 fiches tueurs, dont les ajouts du 28/09 ont été contrôlés par P18 mais dont le counterplay reste [HEURISTIQUE] ; (2) ≈ 100 nœuds surtout heuristiques ou modélisés, qu'aucune VOD ni source experte n'a pu valider ; (3) ≈ 37 nœuds bloqués par une valeur centrale non publiée ou contradictoire (fente, abaissement de palette, Bloodlust, Elusive, trappe, Mori de fin…), une profondeur ≤ 2 ou une valeur PTB non encore LIVE ; (4) 3 nœuds écrits ou relus par la seule P18 (T-W07, T-W08, T-U09).
 
 ## 2. Matrice de pipeline (mission §24)
 
@@ -249,15 +250,15 @@ Commun aux 44 fiches : valeurs re-vérifiées sur page wiki complète (SS) et no
 | T-F31 | The Skull Merchant | ch. 8 §31 | 4 | SS + HEUR | AUDITED | Perks enseignables affichées en PTB sur le wiki (B1-7) ; retrait de Claw Trap (B7-81) |
 | T-F32 | The Singularity | ch. 8 §32 | 4 | SS + HEUR | AUDITED | Perks enseignables : B1-7 |
 | T-F33 | The Xenomorph | ch. 8 §33 | 4 | SS + HEUR | AUDITED | Queue et palettes (B7-81) ; B1-7 |
-| T-F34 | The Good Guy | ch. 8 §34 | 3 | VP/SS + HEUR | AUDITED | Casse seulement avec Hard Hat (errata) ; « Fenêtre à exploiter » au lieu de « Quand le counterplay échoue » (P15) ; B1-7 |
+| T-F34 | The Good Guy | ch. 8 §34 | 3 | VP/SS + HEUR | AUDITED | Casse seulement avec Hard Hat (errata) ; cas d'échec ajouté par P18 ; B1-7 |
 | T-F35 | The Unknown | ch. 8 §35 | 4 | SS + HEUR | AUDITED | Tirs en cloche en intérieur (B7-81) ; B1-7 |
 | T-F36 | The Lich | ch. 8 §36 | 4 | SS + HEUR | AUDITED | Vorpal Sword 4 s (errata) ; B1-7 |
 | T-F37 | The Dark Lord | ch. 8 §37 | 4 | SS + HEUR | AUDITED | B1-7 |
 | T-F38 | The Houndmaster | ch. 8 §38 | 4 | SS + HEUR | AUDITED | Longueur max de Chase Command (B7-84) |
 | T-F39 | The Ghoul | ch. 8 §39 | 4 | SS + HEUR | AUDITED | Franchit les palettes sans les casser (P17 B) |
-| T-F40 | The Animatronic | ch. 8 §40 | 3 | SS + HEUR | AUDITED | Pas de rubrique « Tiles » dans le guide (P15) ; recharge de batterie (B7-84) |
+| T-F40 | The Animatronic | ch. 8 §40 | 3 | SS + HEUR | AUDITED | « Tiles » ajoutée par P18 ; recharge de batterie (B7-84) |
 | T-F41 | The Krasue | ch. 8 §41 | 4 | SS + HEUR | AUDITED | Ravenous : valeurs PTB à suivre |
-| T-F42 | The First | ch. 8 §42 | 3 | SS + HEUR / INC | AUDITED | Pas de rubrique « Tiles » (P15) ; casse de palettes (Shattered Wrist Rocket) INC ; casier / Undergate, liane, tokens (B7-83) |
+| T-F42 | The First | ch. 8 §42 | 3 | SS + HEUR / INC | AUDITED | « Tiles » ajoutée par P18 ; casse de palettes (Shattered Wrist Rocket) INC ; casier / Undergate, liane, tokens (B7-83) |
 | T-F43 | The Slasher | ch. 8 §43 | 4 | VP/SS + HEUR | AUDITED | — |
 | T-F44 | The Judgment | ch. 8 §44 | 4 | SS/VM + HEUR / INC | AUDITED | Repent, Heresy (B7-82) |
 | T-F45 | Typologie transversale (M1, anti-loop, ranged, mobilité, furtif, zone, info, slug, coup unique) | ch. 7 « Typologie transversale » ; KCH §2 | 4 | HEURISTIQUE | AUDITED | Classement de rédacteur, non sourcé |
@@ -448,11 +449,11 @@ Tous dans la table de ch. 6 §6.10 (priorités, erreurs catastrophiques, SoloQ /
 | T-U02 | Réglages audio / vidéo / accessibilité, casque, FOV | ch. 3 T16 (« casque » seulement) | 1 | — | NOT_STARTED | Aucune recherche |
 | T-U03 | Réseau et latence (ping, région, serveurs) | ch. 3 T21 | 2 | VP (Hit Validation) | AUDITED | Ping, région, choix de serveur non recherchés |
 | T-U04 | Psychologie, tilt, sessions, apprentissage | ch. 1 §1.7 ; ch. 14 §14.2, §14.5.6, §14.6.3, §14.7 | 2 | HEURISTIQUE | AUDITED | Tilt et gestion émotionnelle absents ; biais de résultat / rétrospectif et sessions présents |
-| T-U05 | Historique des versions du guide (changelog) | ch. 1 §1.9 ; ch. 15 §15.4 ; `CHANGELOG.md` | 3 | VP | WRITTEN | §15.4 non audité ; `CHANGELOG.md` arrêté aux lots 2-4 |
+| T-U05 | Historique des versions du guide (changelog) | ch. 1 §1.9 ; ch. 15 §15.4 ; `CHANGELOG.md` | 3 | VP | COMPLETE | §15.4 audité (P18) ; `CHANGELOG.md` à jour au 28/09 |
 | T-U06 (+) | Séparation LIVE / PTB / 2v8 | ch. 1 §1.6 ; ch. 15 §15.4.4 ; tous chapitres | 3 | VP | COMPLETE | Contrôlée par P17 (aucune valeur PTB / 2v8 donnée comme LIVE) |
 | T-U07 (+) | Pièges du wiki pendant un PTB | ch. 1 §1.1 ; ch. 15 §15.6.2 ; `AUDIT_PHASE0_ERRATA.md` | 3 | VP | COMPLETE | — |
 | T-U08 (+) | Étiquettes de nature et de confiance | ch. 1 §1.6 ; légendes ch. 9, 11, 13 | 3 | — | AUDITED | [AVIS D'EXPERT] défini de 3 façons (ch. 1 l. 221, ch. 9 l. 21, ch. 13 l. 24) et employé ≈ 25 fois sans source |
-| T-U09 (+) | Les 13 questions de décision (mission §50) | ch. 1 §1.10 (ajoutée par P15) | 3 | — | WRITTEN | Écrite par l'audit P15 lui-même : non relue par une autre passe |
+| T-U09 (+) | Les 13 questions de décision (mission §50) | ch. 1 §1.10 (ajoutée par P15) | 3 | — | AUDITED | Écrite par P15 ; renvois vérifiés par P18 |
 
 ### V. Côté tueur (secondaire)
 
@@ -468,14 +469,14 @@ Tous dans la table de ch. 6 §6.10 (priorités, erreurs catastrophiques, SoloQ /
 
 | ID | Nœud | Où | Prof. | Vérif. | Statut | Réserve |
 |---|---|---|---|---|---|---|
-| T-W01 | Glossaire FR / EN | ch. 15 §15.2 ; ch. 6 §6.8 (lexique) | 3 | SS | WRITTEN | Ch. 15 jamais audité |
-| T-W02 | Tables de données | ch. 15 §15.1 ; `CANONICAL_FACTS.md` ; `QUICK_REFERENCE.md` | 3 | VP/VM | WRITTEN | idem |
-| T-W03 | Sources | ch. 15 §15.6 ; `SOURCE_LEDGER.md` ; « Sources du chapitre » ×15 | 3 | VP | WRITTEN | Cenobite sans copie locale ; notes PTB 527 / 533 / 542 non archivées ; en-tête de `SOURCE_LEDGER_batches.md` périmé |
+| T-W01 | Glossaire FR / EN | ch. 15 §15.2 ; ch. 6 §6.8 (lexique) | 3 | SS | COMPLETE | Audité par P18 (renvois de section vérifiés) |
+| T-W02 | Tables de données | ch. 15 §15.1 ; `CANONICAL_FACTS.md` ; `QUICK_REFERENCE.md` | 3 | VP/VM | COMPLETE | Audité par P18 (chiffres de §15.1 retrouvés dans les chapitres et `CANONICAL_FACTS.md`) |
+| T-W03 | Sources | ch. 15 §15.6 ; `SOURCE_LEDGER.md` ; « Sources du chapitre » ×15 | 3 | VP | COMPLETE | 48 notes officielles et page du Cenobite archivées ; `SOURCE_LEDGER.md` mis à jour (P18) ; notes 8.x non archivées |
 | T-W04 | Historique des patchs | ch. 1 §1.4 ; ch. 5 §5.5 ; ch. 15 §15.3 | 4 | VP | COMPLETE | §1.4 et §5.5 contrôlés (P17 A, C) |
-| T-W05 (+) | Errata de l'audit phase 0 et erreurs prouvées du seed | ch. 1 §1.9 ; ch. 15 §15.4 ; `AUDIT_PHASE0_ERRATA.md` (8 lignes) ; `OUTDATED_CONTENT_REPORT.md` | 4 | VP/VM | AUDITED | §15.4 non audité |
-| T-W06 (+) | Questions ouvertes et conflits | ch. 15 §15.5 ; `OPEN_QUESTIONS.md` (117) ; `CONFLICT_REGISTER.md` (26 + 4 ouverts) | 3 | — | WRITTEN | Note de §15.5 sur Five Moves Ahead périmée (`CANONICAL_FACTS.md` corrigé depuis) |
-| T-W07 (+) | Statut du projet (Definition of Done §47) | ch. 15 §15.7 | 3 | — | WRITTEN | Condition 9 cite encore « 32 fiches sans rubriques » (comblé le 28/09) ; condition 1 à réviser avec cette matrice |
-| T-W08 (+) | Maintenance (procédure 10.2.0, outils `kb/tools/`) | ch. 15 §15.8 | 3 | — | WRITTEN | Non audité |
+| T-W05 (+) | Errata de l'audit phase 0 et erreurs prouvées du seed | ch. 1 §1.9 ; ch. 15 §15.4 ; `AUDIT_PHASE0_ERRATA.md` (8 lignes) ; `OUTDATED_CONTENT_REPORT.md` | 4 | VP/VM | COMPLETE | §15.4 audité par P18 (décomptes conformes à `OUTDATED_CONTENT_REPORT.md` B6) |
+| T-W06 (+) | Questions ouvertes et conflits | ch. 15 §15.5 ; `OPEN_QUESTIONS.md` (117) ; `CONFLICT_REGISTER.md` (26 + 4 ouverts) | 3 || registres (P18) | COMPLETE | Note Five Moves Ahead retirée (P18) ; décomptes conformes aux registres |
+| T-W07 (+) | Statut du projet (Definition of Done §47) | ch. 15 §15.7 | 3 | — | AUDITED | Réécrit par P18 (verdict COMPLETE au sens du §47) : non relu par une autre passe |
+| T-W08 (+) | Maintenance (procédure 10.2.0, outils `kb/tools/`) | ch. 15 §15.8 | 3 | — | AUDITED | Audité par P18 ; procédure 10.2.0 jamais exercée |
 
 ### X. (+) Suivi du PTB 10.2.0 et du contenu annoncé (famille nouvelle)
 
@@ -498,8 +499,8 @@ Chaque tâche indique les nœuds débloqués, la méthode et les fichiers à met
 |---|---|---|---|---|
 | R-01 | Confirmer la sortie LIVE de 10.2.0 et archiver la note de sortie ; confronter chacune des 58 perks, le Survivor Intent System et la refonte Abandon / Surrender / End Trial à la note PTB 559 (section « Changes from PTB ») | T-X01-X03, T-K02, T-G05, T-U01, T-F31-F37, T-F41 | Index des articles BHVR (560 et suivants), puis `kb/tools/wiki_scrape.py` avec `UPCOMING` changé | fiches `batch2_*`, `batch3_*`, PDB, `CANONICAL_FACTS.md`, ch. 1, 2 §2.6.2, 6 §6.7, 9, 10, 15 |
 | R-02 | Transcrire la liste itemisée des modificateurs soumis aux DR (manuel en jeu, 9.6.1) ; trancher blocages, pertes instantanées, Endurance, effets de base, couples de perks et objets | T-A14b-d, T-G03, T-I08 | Client du jeu (capture du manuel) ; B2-8 à B2-14 | ch. 2 §2.8, 9 §9.2, 10 §10.2, 11 §11.1 |
-| R-03 | Fact-checker les ajouts postérieurs à P17 : rubriques « Implications de carte » et « Perks / synergies » des 44 fiches, « Quand le counterplay échoue » des fiches 31, 32, 36, 37, 41, tables « passer à la pratique » (ch. 2 §2.13, 3.0, 4.8, 6.6, 6.10, 8 intro, 9.5, 10.6, 11.0, 11.3, 13.7, 14.3) et section 1.10 | T-F01-F44, T-U09 et nœuds des ch. 2-14 | Passe P17 bis contre `batch4_killers_g*.md`, `CANONICAL_FACTS.md`, PDB v2 | ch. 1-14 ; `kb/audit/` |
-| R-04 | Auditer le chapitre 15 (§25-26 + fact-check), jamais relu | T-W01-W03, T-W05-W08, T-U05 | Même grille que P17 | ch. 15 |
+| R-03 | **FAIT (P18)** : ch. 7-8 relus en entier ; chiffres et renvois des tables « passer à la pratique » et de la §1.10 vérifiés (aucune valeur nouvelle). Fact-checker les ajouts postérieurs à P17 : rubriques « Implications de carte » et « Perks / synergies » des 44 fiches, « Quand le counterplay échoue » des fiches 31, 32, 36, 37, 41, tables « passer à la pratique » (ch. 2 §2.13, 3.0, 4.8, 6.6, 6.10, 8 intro, 9.5, 10.6, 11.0, 11.3, 13.7, 14.3) et section 1.10 | T-F01-F44, T-U09 et nœuds des ch. 2-14 | Passe P17 bis contre `batch4_killers_g*.md`, `CANONICAL_FACTS.md`, PDB v2 | ch. 1-14 ; `kb/audit/` |
+| R-04 | **FAIT (P18).** Auditer le chapitre 15 (§25-26 + fact-check), jamais relu | T-W01-W03, T-W05-W08, T-U05 | Même grille que P17 | ch. 15 |
 
 ### 4.2 Valeurs non publiées : tests en Custom Game (P1)
 
@@ -530,7 +531,7 @@ Chaque tâche indique les nœuds débloqués, la méthode et les fichiers à met
 | R-17 | Lire les infographies officielles 2024-2026 (kill / escape rates par tueur et par carte, SWF 2024) et NightLight (fréquences de perks et d'add-ons) | T-E06, T-H04, T-F01-F44 (fréquences), T-T01 | Lecture d'image ; nightlight.gg autorisé dans le réseau de l'environnement | ch. 5, 7-8, 10, 12 §12.8 |
 | R-18 | Règlement DBDLeague, pools, résultats 2026 ; 3 à 5 VOD de référence | T-S01, T-S02, T-S04, T-S03 | DBDL, Liquipedia, YouTube / Twitch autorisés | ch. 12 |
 | R-19 | Trouver des sources expertes écrites et datées (guides de chase, hiérarchies de tiles, SoloQ) pour sourcer ou retirer les ≈ 25 [AVIS D'EXPERT] non sourcés | T-C03-C07, T-E04, T-J02, T-N01-N14, T-S03, T-U08 | Recherche web + lecture complète | ch. 4, 5, 6, 9, 11, 12 |
-| R-20 | Archiver les notes 8.x (TR de la Blight 40 m et du Ghost Face 24 m, passés en 8.6.0) et les notes PTB 527, 533, 542 ; copier en local la page wiki du Cenobite | T-F16, T-F21, T-F25, T-W03 | Téléchargement des articles BHVR, `kb/tools/wiki_text.py` | `kb/sources/`, `SOURCE_LEDGER.md` |
+| R-20 | **EN PARTIE FAIT (28/09)** : notes PTB 527, 533, 542 (et 509, 514, 522, 537, 548, 555) et page du Cenobite archivées ; reste les notes 8.x. Archiver les notes 8.x (TR de la Blight 40 m et du Ghost Face 24 m, passés en 8.6.0) et les notes PTB 527, 533, 542 ; copier en local la page wiki du Cenobite | T-F16, T-F21, T-F25, T-W03 | Téléchargement des articles BHVR, `kb/tools/wiki_text.py` | `kb/sources/`, `SOURCE_LEDGER.md` |
 
 ### 4.5 Nœuds absents ou minces dans le guide (P2-P3)
 
@@ -541,7 +542,7 @@ Chaque tâche indique les nœuds débloqués, la méthode et les fichiers à met
 | R-23 | Rédiger le volet tilt / gestion émotionnelle / fatigue de session | T-U04 | Sources de psychologie du jeu compétitif (à trouver) ; sinon [HEURISTIQUE] étiquetée | ch. 14 |
 | R-24 | Ajouter les archétypes de builds « stealth » et « anti-hex » (demandés au §9 de la mission) | T-G04 | Depuis les fiches `batch2_*` (valeurs déjà vérifiées) | ch. 9 §9.4, PDB §5 |
 | R-25 | Développer au-delà d'une ligne d'inventaire les 89 perks survivant et 68 perks tueur citées dans un seul chapitre, ou justifier leur faible pertinence ; audit adversarial dédié des fiches des lots 2-3 | T-G02, T-H02 | Fiches `batch2_*`, `batch3_*` | ch. 9 §9.7, 10 §10.10 |
-| R-26 | Fiches tueurs : ajouter « Tiles » à The Animatronic et The First ; harmoniser The Good Guy (« Fenêtre à exploiter » → cas d'échec) | T-F34, T-F40, T-F42 | `batch4_killers_g5.md`, `g6.md` | ch. 8 |
+| R-26 | **FAIT (P18).** Fiches tueurs : ajouter « Tiles » à The Animatronic et The First ; harmoniser The Good Guy (« Fenêtre à exploiter » → cas d'échec) | T-F34, T-F40, T-F42 | `batch4_killers_g5.md`, `g6.md` | ch. 8 |
 | R-27 | Exemples §31 manquants : plan de début sur une carte à gens fixes, situation de slug, décision de lampe en SWF ; intégrer les drills de carte D1-D6 au catalogue 14.4 ; fusionner 12.7 avec 6.8 | T-E07, T-Q07, T-I03, T-R01, T-K03 | Reprise de P15 (« Manques restants ») | ch. 5, 6 §6.12, 11, 12, 14 |
 | R-28 | Mesurer sur ses propres parties les paramètres des modèles (efficacité des réparateurs, `T_loop`, probabilité de coup, valeur d'un état de santé, délai de confirmation) et valider les seuils du programme | T-L02, T-L04, T-L07, T-J05, T-J08, T-R01-R03 | Protocole ch. 14 §14.5-14.6 ; B11-112 à B11-115 | ch. 3 §3.8, 6, 14 |
 | R-29 | Objets : charges de l'Alex's Toolbox (18 / 24), charges d'une fouille (8 / 10), probabilités de coffre actuelles, cumul des add-ons, soin au kit 1,5 état | T-I01, T-I02, T-I08, T-I11 | Test ; CONFLICT-L5-02 à L5-06 | ch. 11 |
@@ -550,9 +551,9 @@ Chaque tâche indique les nœuds débloqués, la méthode et les fichiers à met
 
 | ID | Tâche | Fichiers |
 |---|---|---|
-| R-30 | Mettre à jour `PROJECT_MANIFEST.md` (lots 5-12, guide, P13-P17), `TODO_RESEARCH.md` et `CHANGELOG.md`, arrêtés aux lots 2-4 ; corriger l'en-tête de `SOURCE_LEDGER_batches.md` | `kb/PROJECT_MANIFEST.md`, `kb/ledgers/*` |
-| R-31 | Ch. 15 : §15.5 (note sur Five Moves Ahead dans `CANONICAL_FACTS.md`, désormais corrigée), §15.7 conditions 1 et 9 (matrice mise à jour ; fiches tueurs complétées ; P15 fait) | `kb/guide/15_annexes.md` |
-| R-32 | Harmoniser la définition de [AVIS D'EXPERT] (3 définitions : ch. 1 l. 221, ch. 9 l. 21, ch. 13 l. 24) | ch. 1, 9, 11, 13 |
+| R-30 | **FAIT (28/09 ; SOURCE_LEDGER complété par P18).** Mettre à jour `PROJECT_MANIFEST.md` (lots 5-12, guide, P13-P17), `TODO_RESEARCH.md` et `CHANGELOG.md`, arrêtés aux lots 2-4 ; corriger l'en-tête de `SOURCE_LEDGER_batches.md` | `kb/PROJECT_MANIFEST.md`, `kb/ledgers/*` |
+| R-31 | **FAIT (P18).** Ch. 15 : §15.5 (note sur Five Moves Ahead dans `CANONICAL_FACTS.md`, désormais corrigée), §15.7 conditions 1 et 9 (matrice mise à jour ; fiches tueurs complétées ; P15 fait) | `kb/guide/15_annexes.md` |
+| R-32 | **FAIT (P18)** : une seule définition (non attribuée) aux ch. 1, 9, 11, 13 ; les ≈ 57 emplois restent à sourcer ou requalifier (R-19). Harmoniser la définition de [AVIS D'EXPERT] (3 définitions : ch. 1 l. 221, ch. 9 l. 21, ch. 13 l. 24) | ch. 1, 9, 11, 13 |
 | R-33 | Retirer l'ancien effet de Knock Out de `kb/research/batch9_macro.md` (l. 280, 396) ; marquer `OPEN_QUESTIONS.md` B11-116 comme tranchée (arbres T-Q04 à T-Q07 rédigés) ; signaler les 6 perks UNUSED en §9.7 / §15 | `kb/research/batch9_macro.md`, `OPEN_QUESTIONS.md`, ch. 9 |
 
 **Ce que la matrice ne dit pas** : un nœud COMPLETE est vérifié **au 27-28/09/2026 pour la LIVE 10.1.2a**. La sortie de 10.2.0 fera repasser en AUDITED tous les nœuds qui citent une des 58 perks modifiées (R-01).

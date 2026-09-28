@@ -1,7 +1,7 @@
 # QUICK REFERENCE : Dead by Daylight, survivant, 1v4 (livrable §51-2)
 
 > **Informations vérifiées jusqu'au patch 10.1.2a / 27/09/2026 ; PTB 10.2.0 non intégré.**
-> Mode **1v4 uniquement** : le 2v8 est exclu. Statut du projet : **NOT READY**. Consolidé sans web ni VOD depuis `kb/seed/audit_phase0.txt` (Référence vérifiée + registre des patchs), les lots 6, 9 et 11 audités, `PERK_DEDUCTION.md`, `KILLER_COUNTERPLAY_HANDBOOK.md` et `OUTDATED_CONTENT_REPORT.md`.
+> Mode **1v4 uniquement** : le 2v8 est exclu. Statut du projet : voir `kb/guide/15_annexes.md` §15.7 (verdict du 28/09/2026). Consolidé sans web ni VOD depuis `kb/seed/audit_phase0.txt` (Référence vérifiée + registre des patchs), les lots 6, 9 et 11 audités, `PERK_DEDUCTION.md`, `KILLER_COUNTERPLAY_HANDBOOK.md` et `OUTDATED_CONTENT_REPORT.md`.
 
 **Légende.** **FACT** : valeur de l'audit phase 0, avec sa confiance (**VP** = notes de patch officielles, **VMS** = plusieurs sources, **SS** = wiki.gg). **CALC** : calcul fait sur des FACT. **HEURISTIC** : règle pratique non sourcée, **jamais absolue**. **†** = **UNCERTAIN** (non documenté, en conflit, ou valeur communautaire) : ne s'enseigne pas comme un fait.
 
@@ -12,7 +12,7 @@
 | Domaine | Valeur LIVE | Patch | Conf. |
 |---|---|---|---|
 | **Vitesses** | Survivant : course 4,0 · marche 2,26 · accroupi 1,13 m/s. Blessé = même vitesse que sain | hist. (accroupi 1.7.0) | VMS / SS |
-| | Ramper 0,7 m/s (1,05 m/s † : valeur d'un PTB annulé) · tueur qui porte 3,68 m/s † | — | VMS / † |
+| | Ramper 0,7 m/s (1,05 m/s : valeur d'un PTB annulé) · tueur qui porte 3,68 m/s | — | VMS / SS |
 | | Tueurs 4,6 ou 4,4 m/s (« à quelques exceptions près ») · Nurse 3,85 · Blight 4,4 (était 4,6) | hist. / **9.6.0** | VMS / SS / VP |
 | **Coups** | Boost au coup 1,8 s (×1,65 selon le wiki) · cooldown du tueur : **2,7 s** après un coup réussi, 1,5 s après un raté ou un coup bloqué par le décor | **6.1.0** | VP / VMS / SS |
 | | Durée et portée de la fente † (~2 m de gain, estimation communautaire) · avec une bonne connexion du tueur, **c'est son client qui décide du coup** | 2020 (validation) | † / VP |
@@ -23,16 +23,16 @@
 | | Auto-décrochage seulement à 2 survivants restants ou via offrande/perk (4 %, 3 tentatives) | **9.0.0** | VP |
 | | À 2 survivants : 2 skill checks de lutte manqués = sacrifice ; tous les survivants restants accrochés en même temps = sacrifice · Mori si l'un est en Struggle et l'autre au sol | **9.1.0** / 9.0.0 | SS / VP |
 | **Anti-camp (Resolve)** | Rayon de **16 m** (**rien** au-delà) · poids selon la distance : 4 m ×2,5 · 10 m ×1 · 15 m ×0,375 · 16 m ×0 | 7.3.0 / 9.3.0 | VMS / SS |
-| | Selon le temps de présence du tueur : **×1** (0-10 s) · **×2** (10-20 s) · **×4** (> 20 s) · **grâce de 7 s** pour tous les accrochés à chaque accrochage · taux de base † | **9.3.0** | VP / † |
+| | Selon le temps de présence du tueur : **×1** (0-10 s) · **×2** (10-20 s) · **×4** (> 20 s) · **grâce de 7 s** pour tous les accrochés à chaque accrochage · taux de base +1 charge/s (face camp ≤ 4 m ≈ 22,5 s de jauge, calc. ±10 %) | **9.3.0** | VP / SS |
 | | Ralenti par les autres survivants à < 16 m · en pause pendant un portage · **coupé une fois les portes alimentées** · jauge pleine = auto-décrochage garanti | — | SS |
 | **Protections de décrochage** | **Endurance + 10 % de Haste 10 s + Elusive 10 s** · une fois les portes alimentées, **seule Elusive disparaît** | **10.1.0** | VP |
 | | Endurance perdue sur action voyante (réparer, soigner…) · Elusive prend fin si tu es frappé ou mis au sol · perte d'Elusive sur action voyante † | — | SS / † |
-| **Soins et état mourant** | Soin : 16 s par état · Mangled +25 % · Deep Wound : 20 s, mending **10 s seul / 6 s par un allié** · soigneurs max : 2 ou 3 † | 8.6.0 (DW) | SS / VP / † |
+| **Soins et état mourant** | Soin : 16 s par état · Mangled +25 % · Deep Wound : 20 s, mending **10 s seul / 6 s par un allié** · soigneurs max : **2 en 1v4** (3 = 2v8) | 8.6.0 (DW) | SS / VP / VMS |
 | | Bleed-out 240 s · récupération auto jusqu'à 95 % en 30,4 s · **aucune auto-relève sans perk** | **9.2.0** | SS / VMS / VP |
 | **Fenêtres** | Vault fast **0,5 s** (garde l'élan) · medium 0,9 s · slow 1,5 s · fast vault = **≥ 2,5 m** de course droite (angle toléré †) · vault du tueur 1,7 s | hist. | SS |
 | | Au **3e vault** de la même fenêtre dans une même poursuite → fenêtre bloquée **30 s, pour toi seulement** | — | SS |
 | **Palettes et murs** | Stun **2 s** (seulement une fois la palette abaissée à ~50 % ; durée d'abaissement †) · casse de palette ou de mur **2,34 s** · tronçonneuse 1 s · vault de palette 1,1 / 2 s · Enduring −40/45/50 % | **6.1.0** (casse) | VMS / SS |
-| | Espacement ≥ 14-20 m · densité revue sur 10 cartes (9.2.0), puis sécurité réduite sur 6 cartes (9.3.0) | 9.2.0 / 9.3.0 | SS / VP |
+| | Espacement ≥ 14-20 m · densité revue sur 10 royaumes (9.2.0), puis sécurité réduite sur 5 royaumes et la carte Mount Ormond Resort (9.3.0) | 9.2.0 / 9.3.0 | SS / VP |
 | **Bloodlust** | 15 / 25 / 35 s de poursuite → **+0,2 / +0,4 / +0,6 m/s** · perdue quand le tueur casse une palette, frappe ou utilise son pouvoir (pouvoirs listés par le wiki) · perdue sur stun ou aveuglement ? † | 6.1.0 | VMS / SS / † |
 | **Poursuite** | Début : tu es dans son champ de vision à **≤ 12 m**, tu cours, il se déplace. Fin : **> 18 m** · 5 s dans un casier · ligne de vue perdue **> 8 s** · hors ±35° de son regard (délai d'application †) | — | SS |
 | | Griffures 10 s (seulement en courant) · Undetectable supprime le TR et la tache rouge · la tache rouge suit la direction de son regard · TR d'origine 32 / 24 m (beaucoup d'exceptions) · Exhausted ne récupère pas en courant · corbeaux AFK à 80 / 100 / 120 s | 9.3.0 (AFK) | SS / VP |

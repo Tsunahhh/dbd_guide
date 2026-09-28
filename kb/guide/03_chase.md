@@ -208,12 +208,14 @@ v_K                       : 4,6 ou 4,4 m/s + Bloodlust        fente utile : ~2-2
 ```
 
 **Traduit en mètres** (multiplier par `v_K`), le trajet du tueur doit dépasser le tien de :
+
 - **+15 %** (4,6) ou **+10 %** (4,4) ;
 - **+ la fente** (~2-2,5 m) ;
 - **+ ~0,2 m par seconde de trajet et par palier de Bloodlust** ;
 - **+ `v_K × t_porte_S`** : ≈ **2,3 m** pour un fast vault (2,2 m contre un 4,4), ≈ 4,1 m pour un medium vault, ≈ **5,1 m** pour un vault de palette (4,8 m contre un 4,4).
 
 **Exemple** : ton trajet 10 m jusqu'à une fenêtre, le sien 13 m (il contourne), fente 2,5 m, tueur 4,6 sans Bloodlust.
+
 - Intuition en mètres : 13 − 10 = 3 m > 2,5 m → « sûr ».
 - En temps : toi 10 / 4,0 + 0,5 = **3,0 s** ; lui (13 − 2,5) / 4,6 ≈ **2,3 s** → **pas sûr**, il est en portée pendant ton vault.
 - Trajet tueur nécessaire : > 3,0 × 4,6 + 2,5 ≈ **16,3 m** (≈ 15,7 m contre un 4,4). Sans compter la porte, on aurait trouvé 14 m : c'est exactement l'écart entre une fenêtre « safe » et une fenêtre où l'on prend le coup en plein vault.
@@ -556,6 +558,7 @@ Détail : `kb/research/batch6_chase_tech.md` T18, T19, T23.
 ### T21 — Hitbox, latence, validation serveur : documenté vs rumeur [Avancé]
 
 **Ce qui est documenté** :
+
 - [FACT] (VP, développeur BHVR) « Hit Validation » depuis août 2020 : si la connexion du tueur est mauvaise, le serveur évalue le coup et le **rejette** si les deux étaient trop éloignés. **Avec une bonne connexion, le coup reste décidé côté client du tueur.**
 - (INC, analyse communautaire non officielle de 2022) : le client du tueur calcule le chevauchement hitbox / hurtbox ; validation générale au-delà de ~300 ms seulement (**non confirmé**) ; validation événementielle pour Dead Hard et les stuns de palette ; latences cumulées favorables au tueur.
 - [INCERTAIN] : forme et taille des hitbox / hurtbox (aucune documentation officielle).
@@ -645,6 +648,7 @@ Le « prix » d'une palette n'est pas 2,34 s mais **2,34 s + 9,4 m offerts + la 
 | 15 s (tile fort) | 0,47 | 0,37 | 0,23 | 0,16 |
 
   Le seuil varie d'un facteur ~8. **Robuste** : l'ordre des situations — blessé, tile faible, peu d'alliés sur les gens → presque aucun risque acceptable ; sain, tile fort, 3 alliés sur les gens → un risque modéré l'est. Blessé, le risque acceptable est environ **deux fois plus bas** que sain. **Fragile** : toute valeur précise de `p*`.
+
 - **COMMENT** : valeur future d'une palette gardée ≈ ce qu'elle rapportera au prochain usage (≈ +9,4 m et reset, ≈ 16-18 s contre un 115 %) × la probabilité qu'elle serve encore (à toi ou à un allié). Plus la zone est pauvre, plus cette valeur monte.
 - **CONTRE** : le tueur augmente ton `p` (pouvoir, mindgame, zoning) ou réduit ton `T_loop` (couper le tile, Bamboozle, casser tôt).
 - **CAS D'ÉCHEC — hypothèses cachées du modèle** : (1) drop immédiat supposé sans risque ; (2) une seule décision, alors que `p` monte à chaque cycle (Bloodlust, tueur qui apprend) : le modèle ne vaut que pour le **prochain** cycle ; (3) `p` n'est pas exogène : un greed prévisible fait cesser le respect ; (4) dans la branche « coup », boost, reset de Bloodlust et palette encore debout **réduisent** `C_hit` sain, rester blessé l'**augmente** : signe net inconnu ; (5) valeur future de la palette supposée identique dans les deux branches ; (6) un état de crochet ne se convertit pas entièrement en secondes : blessé à 2 crochets, `C_hit` est **sous-estimé** ; (7) `p` n'est pas observable en direct. Erreurs de lecture : oublier `C_hit`, surestimer `T_loop` sur un tile faible, ignorer que `p` monte avec la Bloodlust.

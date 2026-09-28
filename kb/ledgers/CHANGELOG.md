@@ -32,6 +32,12 @@
 - **Master guide v2** : 15 chapitres (`kb/guide/`), fact-check final (pass17), audit de couverture (pass13 : 44/44 tueurs, 44/44 cartes, 176/176 + 145/145 perks), audit de profondeur/praticité (pass15) ; PDF `DBD_Guide_Expert_v2.pdf`.
 - Registres finaux : OUTDATED_CONTENT_REPORT partie B (59 erreurs du seed prouvées, 42 points où le seed avait raison), OPEN_QUESTIONS (117 ouvertes), CONFLICT_REGISTER (85/113 résolus), SOURCE_LEDGER, COVERAGE_MATRIX finale.
 
+## 2026-09-28 — Passe 18 : contrôle final avant PDF
+- **Fiches tueurs (ch. 7-8)** : rubriques ajoutées le 28/09 relues contre `batch4_killers_g*.md` et `PERK_DATABASE.md` ; 10 perks modifiées au PTB 10.2.0 citées sans mention « non LIVE » corrigées (Blood Favour, Machine Learning, Unbound, Dark Arrogance, Dominance, Nothing but Misery, Dead Man's Switch, Game Afoot, Dissolution, Spine Chill) ; THWACK! et Leverage n'étaient pas modifiées au PTB ; Dark Arrogance, Dominance, Overture of Doom reformulées ; rubriques « Tiles » (Animatronic, The First) et cas d'échec (Nurse, Clown, Good Guy) ajoutées depuis les fiches de recherche.
+- **Markdown** : 178 listes collées à un paragraphe (rendues comme du texte par le convertisseur du PDF) séparées par une ligne vide dans les ch. 2-14.
+- **Ch. 15** : audit §25-26 + fact-check (48 notes archivées, page du Cenobite, notes Five Moves Ahead périmées retirées, 9.3.0 « 6 royaumes » corrigé) ; §15.7 réécrit : **verdict COMPLETE au sens du §47**, limites d'accès maintenues en 15.7.1.
+- **Registres** : `SOURCE_LEDGER.md` (48 articles, 46 pages de tueurs), `COVERAGE_MATRIX.md` (49 COMPLETE / 184 AUDITED, tâches R-03, R-04, R-26, R-30 à R-32 closes), manifeste, `QUICK_REFERENCE.md` (soigneurs, portage, anti-camp) ; définition unique de [AVIS D'EXPERT] (non attribué) aux ch. 1, 9, 11, 13. Rapport : `kb/audit/pass18_final_check.md`.
+
 ## Prochaine session — travail exact à lancer
 
 1. **Vérifier si 10.2.0 est sorti** (article officiel > 559 sur forums.bhvr.com, wiki « Patch 10.2.0 »). Si oui : archiver la note, relancer `python3 kb/tools/wiki_scrape.py perks > kb/sources/wiki_perks.json`, mettre à jour les 58 perks, Abandon/Surrender/End Trial, Survivor Intent System dans les fiches puis le guide (§15.8), rebâtir le PDF.

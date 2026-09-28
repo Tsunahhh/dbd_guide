@@ -251,6 +251,7 @@ d'engagement ailleurs : chase visible au HUD, kick lointain) ?
 **Contre-jeu du tueur à haut niveau** [HEURISTIQUE] : un tueur qui connaît cet arbre **simule le départ** (sort des 16 m puis revient dès qu'il entend le décrochage) ou reste juste hors de la LOS du crochet. La branche « il part » exige un TR qui s'éloigne **et** un signe d'engagement ailleurs. Un simple silence n'est pas un départ, surtout contre un tueur furtif.
 
 **Contre-indications spéciales** :
+
 - **Sous-sol** : l'insabotabilité ne concerne que le sabotage ; c'est la **géométrie** (peu d'accès, [INCERTAIN] à vérifier en jeu) qui rend le sauvetage exposé → attendre que le tueur parte loin.
 - **Pain Resonance / Grim Embrace suspectés** : c'est l'**accrochage** qui les déclenche (1er de chaque survivant ; crochet Fléau pour Pain Res), pas le décrochage : un trade raté qui fait accrocher le sauveteur pour la première fois peut coûter en plus un gen ou un blocage.
 - **The Judgment** : l'Exile compte comme un état de crochet **sans déclencher les perks de crochet** [FACT] (VP) ; les exilés libérés réapparaissent à **≥ 32 m** (10.1.2) [FACT] (VP) ; chaque Exiled Soul ajoute +0,5 s aux protections de décrochage (10 max) [FACT] (VP). Le sauveteur ne peut pas couvrir un exilé : replanifier la route depuis le point de réapparition. L'application des protections basekit à une sortie d'Exile n'est pas vérifiée [INCERTAIN] : jouer comme si elles ne s'appliquaient pas.
@@ -299,6 +300,7 @@ Détail : `kb/research/batch9_macro.md` §2.4-2.5, §7.1, §9.A.
 **Le coût du camp pour le tueur (calcul)** : chaque seconde de camp immobile = 0 pression ailleurs ; si 3 survivants réparent hors de sa zone, il leur cède **3 s-surv par seconde**. **Un camp de 60 s ≈ 2 gens** de progression. **Contre-cas** [SITUATIONNEL] : si l'accroché est en phase 2, ou si la partie est déjà gagnée pour le tueur, le camp est rentable pour lui.
 
 **Perks qui changent la décision** (voir Match Details avant de décider) :
+
 - **Deliverance** : auto-décrochage 1×/partie après un décrochage sûr d'un allié ; Broken 160/140/120 s [FACT] (VP, 10.1.0).
 - **Reassurance** : à ≤ 6 m de l'accroché, pause du sacrifice 20/25/30 s [FACT] (SS au mieux). Elle achète du temps mais **impose d'entrer à 6 m**, donc dans la zone qui ralentit l'anti-camp et vous expose.
 
@@ -676,6 +678,7 @@ Le game sense n'est pas un don : c'est une **estimation continue** de quelques v
 ### Reconnaître un snowball
 
 Signaux d'une partie qui bascule (seuils indicatifs [HEURISTIQUE]) :
+
 - 1er accrochage **avant** le 1er gen fini, avec un 2e blessé au même moment ;
 - écart au tableau de course ≥ 0,25 (§6.1) ;
 - un mort avant 3 gens finis (−33 % de débit parallèle quand un survivant est en chase) ;
@@ -835,6 +838,7 @@ Format : situation → informations connues → options → analyse → meilleur
 **Options** : A. décrocher tout de suite · B. rester sur le gen, attendre qu'il s'engage, puis y aller · C. rester et laisser les autres gérer.
 
 **Analyse** :
+
 - **A** : trade quasi certain, et risque de piège sur le trajet. Cas probable : vous blessé + Meg (Endurance → Deep Wound au 1er coup) remise au sol puis raccrochée = **1 état** (le même que l'expiration de sa phase) **plus** votre blessure. Pire cas : vous piégé ou au sol aussi → **2 états**.
 - **B** : le proxy lui coûte les gens lointains (3 s-surv/s si les 3 autres réparent). S'il s'engage ailleurs dans les 15-20 s, le sauvetage devient propre. Pire cas : Meg passe en phase 2.
 - **C** : sans Kindred, rien ne garantit qu'un autre y aille : même pire cas que B, **sans** la chance d'un sauvetage propre.
@@ -852,6 +856,7 @@ Format : situation → informations connues → options → analyse → meilleur
 **Options** : A. les 3 sains sur G1 · B. split : duo sain sur G1, 3e sain sur G2, le blessé à distance prêt à reprendre un gen lâché ou à tirer la chase loin · C. soigner d'abord le blessé.
 
 **Analyse** :
+
 - **A** : ~21 s de travail contre ~6-7 s de retour possible : il trouve **3 survivants groupés**, un coup facile, et frappe G1. Ne vaut que s'il est engagé en chase **loin** du triangle.
 - **B** : il ne défend qu'un gen à la fois. S'il va sur G1, le duo se sépare (le plus faible en chase part, l'autre finit si possible) et G2 avance ; s'il va sur G2, G1 tombe en ~26 s. Chaque kick lui coûte 1,8 s, un aller-retour et un de ses 5 events restants.
 - **C** : 32 s-surv pendant que rien n'avance et que G2 régresse. Le soin a de la valeur contre un M1, mais **après** l'alimentation ou pendant une chase longue.
@@ -869,6 +874,7 @@ Format : situation → informations connues → options → analyse → meilleur
 **Options** : A. décrocher tout de suite · B. finir d'ouvrir la porte nord, puis tenter un sauvetage si une fenêtre s'ouvre · C. ouvrir et sortir.
 
 **Analyse** :
+
 - **A** : le tueur à 8 m voit le sauvetage ; Dwight a Endurance mais pas Elusive pour le semer ; seul, vous pouvez finir blessé et Dwight repris. Pire cas : deux morts, aucune porte ouverte.
 - **B** : ouvrir lance l'EGC, mais ralenti tant que Dwight est accroché : le vrai compteur, ce sont ses ~40 s de phase. Une porte ouverte = sortie sûre pour la suite. Nea peut tenter aussi (doublon possible, mais deux survivants peuvent être utiles : un décroche, l'autre prend le coup — pas Nea, blessée).
 - **C** : sûr pour vous, mais abandonne Dwight alors qu'il reste ~40 s.
@@ -886,6 +892,7 @@ Format : situation → informations connues → options → analyse → meilleur
 **Options** : A. sprinter vers la trappe · B. attendre hors de vue (marche, accroupi) qu'il s'éloigne, puis marcher vers la trappe · C. partir vers une porte en anticipant la fermeture.
 
 **Analyse** :
+
 - **A** : griffures et bruit ; il est plus près de la trappe que vous : il vous coupe. Pire cas : fin de partie.
 - **B** : s'il ne connaît pas la trappe, il finira par s'éloigner (il cherche aussi le survivant) ; s'il la ferme, vous êtes hors de vue et pouvez partir vers la porte la plus éloignée de lui.
 - **C** : vous éloigne de votre meilleure sortie tant qu'elle est ouverte.

@@ -175,6 +175,7 @@ Une loop existe quand tu disposes d'un **trajet fermé** autour d'un obstacle op
 **POURQUOI.** Oublier `t_porte_S` surestime la sécurité de toutes les boucles serrées : c'est exactement l'écart entre une fenêtre « safe » et une fenêtre où tu prends le coup **en plein vault**.
 
 **Conversion en mètres** (CALC, multiplier par `v_K`) : le trajet du tueur doit dépasser le tien de :
+
 - **+15 %** (contre un 4,6) ou **+10 %** (contre un 4,4),
 - **plus** la fente,
 - **plus** ≈ 0,2 m par seconde de trajet et par palier de Bloodlust,
@@ -189,6 +190,7 @@ Une loop existe quand tu disposes d'un **trajet fermé** autour d'un obstacle op
 | Trajet tueur requis | — | ≥ 3,0 × 4,6 + 2,5 ≈ **16,3 m** (≈ 15,7 m contre un 4,4) | — |
 
 **QUAND l'utiliser.** Personne ne mesure les trajets au mètre en partie. L'usage réel est **qualitatif** [HEURISTIQUE] :
+
 - un **medium vault** (approche en angle) coûte ≈ 1,8 m de plus qu'un fast : c'est souvent la différence entre sûr et touché ;
 - un **vault de palette** te laisse ≈ 5 m exposé : une palette baissée « serrée » (petit obstacle) ne tient pas contre un tueur qui suit bien ;
 - chaque palier de Bloodlust mange la marge ; une boucle juste à 0 s est perdante à 25 s.
@@ -256,6 +258,7 @@ Distance que tu peux courir avant d'être rattrapé en terrain ouvert : `D_max �
 | 15 m | 83 m | 50 m | 42 m | 125 m | 50 m |
 
 Lecture [HEURISTIQUE] :
+
 - Une zone n'est pas « morte » dans l'absolu : **elle l'est pour toi, maintenant**, si la prochaine ressource est plus loin que `D_max`. Partir vers une zone « morte » avec 15 m d'avance peut être correct.
 - Deux palettes sont à ≥ 14-20 m l'une de l'autre [FACT] (SS) : une transition palette → palette demande au minimum ≈ **6 à 8,5 m** d'écart contre un 4,6 à Bloodlust II-III (CALC). D'où l'intérêt, **quand l'écart manque**, de quitter une tile **pendant** une casse (+9,4 m, Bloodlust à 0) ou un stun. Avec un écart déjà suffisant, partir à un autre moment reste correct — et un départ toujours calé sur la casse devient lisible : un bon tueur peut refuser de casser.
 - **Dead zone structurelle** (vocabulaire) : aucune ressource dans un rayon de ~30-40 m. 9.2.0 a cherché à les réduire [FACT] (VP), la randomisation peut encore en créer.
@@ -290,6 +293,7 @@ Détail : `kb/research/batch7_tiles.md` §3.
 **Comment lire une fiche.** Forme, entrées, fenêtres, palettes = [FACT] (SS) quand le wiki les décrit, sinon [HYPOTHÈSE]. **Tous les autres points (sens, checkspots, pathing, greed, pre-drop, abandon, connexion) sont [HEURISTIQUE]** dérivés du modèle 4.2, sauf mention. Les tueurs cités renvoient à 4.5 et aux chapitres 7-8.
 
 **Vocabulaire des fiches** :
+
 - **Checkspot** : regarder le tueur (par une fenêtre, un trou, un angle) **avant** de décider, sans ralentir.
 - **Red stain** : la tache rouge projetée par la tête du tueur, dans la direction où il regarde et se déplace ; supprimée par Undetectable ; **manipulable** (moonwalk : il marche dans un sens en regardant dans l'autre).
 - **Greed** : garder une ressource (palette levée, vault de plus) pour gagner un cycle gratuit.
@@ -530,6 +534,7 @@ Critères [HEURISTIQUE] (aucun n'est documenté comme tel) :
 | Réutilisation | Cycle qui te ramène à elle | À sens unique (drop-off) |
 
 **Fenêtres à sens unique (drop-offs)** [FACT] (SS) :
+
 - **Crane** (Autohaven) : fenêtre au sommet, le vault fait descendre de la grue.
 - **Car Crusher** (Autohaven) : vault dans la benne, on retombe du camion.
 - **School Bus** (Autohaven) : fenêtre à l'arrière de la moitié arrière.
@@ -591,6 +596,7 @@ Le détail par carte est au chapitre 5. Ici, les principes.
 **QUAND la garder.** L'ancienne règle « une god pallet se garde, sauf dernier crochet ou fin de partie » est **trop absolue**. Règle de remplacement [HEURISTIQUE] : **on garde une palette forte tant que la garder ne coûte pas d'état de santé et qu'une autre ressource travaille à sa place** (fenêtre, LOS).
 
 **CONTRE-EXEMPLES** (la garder est une erreur) :
+
 - la garder te coûte un coup (tueur qui coupe) ;
 - tueur à casse gratuite (la garder = la perdre sans stun) ;
 - une ressource équivalente est à côté (inutile de l'économiser) ;
@@ -624,6 +630,7 @@ Détail : `kb/research/batch7_tiles.md` §4 ; `kb/audit/pass14_lot7_tiles.md` (T
 | **Zone ouverte** | ↓ zone morte | ↓ Houndmaster, Mastermind (portée idéale) | ↓↓ Huntress, Deathslinger, Trickster, Cenobite, Judgment | ↓↓ Hillbilly, Nurse, Oni Fury, Blight, Ghoul, Lich (Fly) | ↑ tu le vois venir | ↑ pièges dispersés (Trapper, Hag faibles en grand open) |
 
 Règles de lecture [HEURISTIQUE] :
+
 - Une case ± signale une **décision propre au tueur** : lire sa fiche (chapitres 7-8) avant de choisir la tile.
 - La même structure peut être excellente puis mauvaise contre **le même** tueur selon sa phase (palettes contre Onryō manifestée / démanifestée ; boucles longues contre The First hors / pendant Worldbreaker ; fenêtres contre Judgment hors / pendant Zealous).
 - **Houndmaster et palettes** : le handbook disait « une palette posée arrête le chien » ; le correctif 9.3.2 parle d'un chien « sent to vault a window **or pallet** » [FACT] (VP). Conflit **non résolu** : **ne compte pas** sur une palette baissée pour arrêter le chien.
@@ -688,6 +695,7 @@ Contre un tueur qui a compris ta réponse par défaut (il attend le pre-drop), *
 | Windows of Opportunity (S) | Auras permanentes des palettes, fenêtres et murs cassables à 24/28/32 m ; **aucun cooldown** en LIVE (le cooldown et la version « fenêtres seulement » affichés par le wiki sont la refonte PTB 10.2.0, non LIVE) | (SS, reconstruit depuis l'historique wiki et le change log 5.3.0) |
 
 Lecture [HEURISTIQUE] :
+
 - **Bamboozle et Crowd Control** transforment les tiles **à fenêtre seule** (L-T, fenêtres à sens unique) en tiles mortes ; contre elles, les tiles à **palette** gardent leur valeur.
 - **Wide Open Throttle retire la porte de la loop pendant 60 s** : la palette revient levée **et bloquée**, tu ne peux plus la baisser, et le tueur passe dans l'ouverture. **Ne l'active pas sur la palette que tu comptes encore boucler.** Usage correct : **transition** (Haste 3 s vers la tile suivante), ou palette qui allait être cassée de toute façon.
 - **Five Moves Ahead** réduit ton temps immobile après un drop (tu repars 50 % plus tôt) : un drop tardif coûte moins de marge dans la condition en temps (4.2.2). Que le stun tombe lui-même plus tôt n'est pas écrit (INC) ; géométrie inchangée ; le CD limite l'effet à un drop toutes les 30-40 s.
@@ -722,6 +730,7 @@ Détail : `kb/research/batch7_tiles.md` §5 ; `kb/ledgers/AUDIT_PHASE0_ERRATA.md
 #### 4.6.3 Planifier 5 à 15 s d'avance : les trois horizons [HEURISTIQUE]
 
 **QUOI.** À chaque tile, trois questions, dans cet ordre :
+
 1. **H1 — maintenant (0-5 s)** : quelle porte j'utilise, où est le tueur (checkspot **avant** la décision), combien de vaults il me reste sur cette fenêtre.
 2. **H2 — la sortie (5-10 s)** : quel **déclencheur** me fera quitter la tile (fenêtre bloquée pour moi, palette baissée qu'il va casser, tueur qui tient le centre, Bloodlust au palier II) et **par où** je sortirai (côté opposé à lui).
 3. **H3 — la destination (10-15 s)** : tile suivante **et** plan B, avec leur distance D et l'écart nécessaire (table ci-dessous). Si aucune destination ne passe le test : rester et étirer la tile actuelle (greed prudent), ou partir **pendant** sa prochaine animation.
@@ -759,6 +768,7 @@ Le « test des 5 secondes » (« où serai-je dans 5 s, pourra-t-il me toucher l
 #### 4.6.4 Checklist de transition [HEURISTIQUE]
 
 Avant de quitter une tile :
+
 1. **Direction** : la tile suivante n'est **pas du côté** du tueur ; sinon, plan B.
 2. **Distance** : écart ≥ table 4.6.3 + fente, pour **ton** palier de Bloodlust estimé.
 3. **Terrain** : trajet couvert (murs hauts, dénivelés) contre ranged et mobilité ; ligne droite acceptable contre un M1 sans pouvoir.
@@ -862,6 +872,7 @@ Détail : `kb/research/batch7_tiles.md` §6.6.
 ### 4.8 Exercices [Intermédiaire → Avancé]
 
 **Exercice 1 — « Annonce H3 »** [HEURISTIQUE]
+
 - **Objectif** : avoir toujours une destination et un plan B.
 - **Méthode** : à l'entrée de chaque tile, annoncer (à voix haute ou mentalement) : « sortie : [déclencheur] ; suivante : [tile] à ~[D] m ; plan B : [tile] ».
 - **Mesures** : % de transitions annoncées ; nombre de transitions vers une dead zone ; part des départs faits pendant une animation du tueur (casse, stun, vault, coup manqué). Cette dernière se **note** mais n'est pas un objectif : un départ anticipé avec assez d'écart vaut autant, et un départ toujours calé sur la casse devient prévisible.
@@ -1143,6 +1154,7 @@ Détail : `kb/research/batch8_maps.md` §1.
 **POURQUOI c'est important** : l'effet « grande carte = mobilité avantagée » est **net aux extrêmes** (Treatment Theatre, Midwich, The Game contre Shelter Woods, Azarov's) et **faible entre cartes moyennes** (132-160 sqT). Là, la position RNG des gens, la densité de palettes (passes 9.2.0-9.3.2) et la forme de la carte pèsent probablement plus que la surface [HYPOTHÈSE, non mesurée].
 
 **CAS D'ÉCHEC de la règle « taille »** :
+
 - carte allongée : le trajet réel dépasse le côté du carré ;
 - gens RNG regroupés : petite distance utile, même sur une grande carte ;
 - surface gonflée par les étages (The Game, Midwich, Forgotten Ruins) ;
@@ -1211,26 +1223,31 @@ La hauteur des murs de maze tiles décide si une tile bloque la ligne de vue. C'
 #### 5.3.6 Les cinq règles de plan communes [HEURISTIQUE]
 
 **R1 — Début : identifier le main, ses gens fixes et ce qui est RNG.**
+
 - POURQUOI : les gens fixes sont connus avant de les voir ; tout le reste est à confirmer.
 - QUAND : pendant le trajet vers le premier gen.
 - CAS D'ÉCHEC : lire la fiche d'une variante ; croire un « contains » du wiki que BHVR a corrigé depuis (le totem de Dead Dawg, 9.3.0).
 
 **R2 — Ne pas démarrer à deux le gen d'un main vertical quand le tueur est proche.**
+
 - POURQUOI : la chase qui commence là consomme d'emblée la meilleure ressource de la zone, et une seule patrouille trouve deux survivants.
 - QUAND : tueur **proche** (Terror Radius, indice de patrouille). Tueur loin et en chase ailleurs : réparer au main est au contraire efficace, la ressource reste à portée.
 - CONTRE : un tueur qui annule le main (Nurse, Blight, casseurs de palettes) → le main vaut moins, le « garder » n'a pas de sens.
 
 **R3 — Milieu : garder une structure forte comme « banque » de chase.**
+
 - POURQUOI : une ressource fixe et connue permet une chase longue au moment où les palettes aléatoires sont consommées.
 - QUAND : tant que la garder ne coûte pas d'état de santé et qu'une autre ressource travaille à sa place.
 - CAS D'ÉCHEC : (a) en SoloQ, un allié la consomme de toute façon ; (b) le tueur casse murs et palettes du main en patrouille ; (c) le main est au cœur d'un 3-gen que le tueur défend : y ramener la chase l'aide ; (d) garder une ressource pendant qu'un allié tombe faute de palettes n'a rien rapporté.
 
 **R4 — Surveiller les gens fixes proches.**
+
 - POURQUOI : 2 gens fixes proches + 1 gen RNG voisin = 3-gen défendable.
 - QUAND : à mi-partie, compter les gens restants et leur voisinage ; agir seulement si les trois derniers sont proches.
 - CONTRE : réparer ailleurs pendant que le tueur protège ce groupe est aussi une réponse ; en SoloQ, choisir le gen le plus isolé du groupe.
 
 **R5 — Fin : anticiper les gates seulement quand c'est documenté.**
+
 - Documenté : Nostromo (largement prévisibles, **pas garanties**), Underground Complex (Exit **Doors**), RPD (3 emplacements décrits sur le RPD original, répartition par aile inconnue). Ailleurs : positions RNG sur le pourtour, **ne rien présumer**.
 - CAS D'ÉCHEC : partir vers « la gate habituelle » sans l'avoir vue.
 
@@ -1538,6 +1555,7 @@ Détail : `kb/research/batch8_maps.md` §3.1-3.3.
 #### 5.4.8 Springwood — Badham Preschool (I) — 144 sqT
 
 Seule Badham I en matchmaking public (II-V en Custom Game).
+
 - **Fixe** : **Preschool** 2 niveaux (RDC + chaufferie à lumière rouge), **3 niveaux s'il contient le sous-sol** ; RDC : **4 entrées**, les **latérales fermées par des murs cassables** par défaut ; **gen fixe** ; plusieurs palettes et casiers. **Pas de maze tiles** ; shack présent. **Crochet garanti dans la chaufferie si le sous-sol est au shack** (2.5.0). Palette du couloir d'entrée côté parking retirée.
 - **RNG** : sous-sol (Preschool ou shack) ; coffre ; disposition des maisons **[INCERTAIN]**.
 - **Verticalité / intérieur** : maisons et rue ; chaufferie en sous-niveau.
@@ -1646,6 +1664,7 @@ Seule Badham I en matchmaking public (II-V en Custom Game).
 #### 5.4.15 Raccoon City — RPD East Wing / RPD West Wing (non mesurées)
 
 Deux cartes distinctes, **toutes deux en rotation** ; le RPD original est réservé au 2v8.
+
 - **Fixe (les deux)** : **Main Hall** (statue) : **gen soit en bas près du comptoir, soit à mi-hauteur au pied de la statue** (RNG entre deux positions) ; **pas de shack, pas de maze tiles** ; **trou dans le sol de la Library vers la Dark Room** ; porte cour → Fire Escape élargie en 7.2.0, **un crochet toujours juste derrière** ; passerelle de la Library bloquée.
 - **East Wing** : moitié ouest bloquée (Operations, Records, S.T.A.R.S., Armurerie…) ; Break Room ouverte ; **toit accessible** par le Fire Escape.
 - **West Wing** : moitié est haute bloquée ; **S.T.A.R.S. Office ouvert sur l'Armurerie** ; zone extérieure agrandie derrière Safety Deposit / Dark Room ; accès au toit bloqué.
@@ -1822,10 +1841,12 @@ Calcul : **27 cartes sur 44** (≈ 61 %) ont eu leurs palettes retouchées au mo
 **QUAND ça compte** : dès que vous appliquez un conseil de placement de palettes, de « loop safe » ou de « dead zone » tiré d'une source.
 
 **COMMENT l'utiliser** [HEURISTIQUE] :
+
 - Sur les **27 cartes retouchées**, un conseil de palette antérieur à 9.2.0 est suspect ; un conseil antérieur à 9.3.2 l'est aussi pour les 7 royaumes de la passe 3.
 - Sur les **17 cartes non retouchées**, un conseil ancien n'est pas périmé **à cause des passes** — mais peut l'être à cause d'un rework (§5.5.3).
 
 **CAS D'ÉCHEC** :
+
 - Croire qu'une passe « ajoute des palettes » partout : 9.3.0 en a **réduit la sûreté** et 9.3.2 a surtout touché la **longueur** des loops.
 - Citer un nombre de palettes par carte : **aucune source** ne donne le nombre de palettes par carte après 9.3.2 **[INCERTAIN]**. C'est à compter soi-même (drill D5).
 

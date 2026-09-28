@@ -9,6 +9,7 @@ Ce chapitre prolonge le chapitre 7 : même format de fiche, pour les tueurs 23 (
 Repères chiffrés utilisés partout : survivant **4,0 m/s** en course ; tueur à 115 % = 4,6 m/s (il reprend 0,6 m/s, soit 10 m en ≈ 16,7 s) ; tueur à 110 % = 4,4 m/s (0,4 m/s, 10 m en 25 s) ; 1 générateur solo = **90 s** ; phase de crochet = 70 s ; casse de palette normale ≈ 2,34 s (audit phase 0).
 
 **S'entraîner avec ces fiches** [HEURISTIQUE] : une fiche ne sert que si elle change **trois comportements précis** en partie. Méthode (ch. 14) :
+
 1. **Avant la session** : relis la fiche d'un seul tueur et écris 3 comportements vérifiables tirés de « Counterplay » et « Add-ons qui changent la décision » (ex. Trickster : couper la LOS plutôt que fuir, surveiller sa jauge de Laceration, s'écarter au rang S) — drill **DR-15**, niveau 5.
 2. **Pendant** : identifie-le avant le reveal (**DR-06**) ; note les add-ons suspectés dès qu'un effet sort du « Données LIVE ».
 3. **En revue** : classe les coups du pouvoir évitables (métrique **M-12**) ; erreurs à chercher : E-D11 (ligne droite contre un tueur à distance), E-A03 (palettes jouées comme contre un M1), E-T10 (add-ons observés ignorés).
@@ -577,7 +578,7 @@ Détail : `kb/research/batch4_killers_g4.md` §30.
 
 **Perks / synergies à anticiper**
 
-- Ses perks : **THWACK!** (cri au bruit d'une palette ou d'un mur cassé, ≤ 36 m, sans Hindered → repérer l'endroit avant de se cacher), **Leverage** (le sauveteur soigne lentement après un décrochage), **Game Afoot** (plus rapide en chassant l'Obsession après une casse ou un kick). La page wiki affiche leurs versions PTB 10.2.0 — non LIVE : valeurs au ch. 10 §10.10.
+- Ses perks : **THWACK!** (cri au bruit d'une palette ou d'un mur cassé, ≤ 36 m, sans Hindered → repérer l'endroit avant de se cacher), **Leverage** (le sauveteur soigne lentement après un décrochage), **Game Afoot** (plus rapide en chassant l'Obsession après une casse ou un kick ; modifiée au PTB 10.2.0 — non LIVE, valeurs LIVE au ch. 10 §10.10).
 - Seed : Pain Resonance, Grim Embrace, Pop, Lethal Pursuer (usage **[INCERTAIN]**) → ch. 10 §10.4.
 
 Détail : `kb/research/batch4_killers_g5.md` §31.
@@ -636,7 +637,7 @@ Détail : `kb/research/batch4_killers_g5.md` §31.
 
 **Perks / synergies à anticiper**
 
-- Ses perks : **Machine Learning** (TR disparu quand tu termines un gen qu'il avait kické, + Haste → s'attendre à une arrivée rapide sans TR), **Genetic Limits** (Exhausted en perdant un état de santé → garder la perk d'exhaustion pour plus tard), **Forced Hesitation** (Hindered quand un coéquipier tombe près de toi → s'écarter de la chase d'un allié).
+- Ses perks : **Machine Learning** (LIVE : TR disparu quand tu termines un gen qu'il avait kické, + Haste → s'attendre à une arrivée rapide sans TR ; modifiée au PTB 10.2.0 — non LIVE), **Genetic Limits** (Exhausted en perdant un état de santé → garder la perk d'exhaustion pour plus tard), **Forced Hesitation** (Hindered quand un coéquipier tombe près de toi → s'écarter de la chase d'un allié).
 - Seed : Pain Resonance, Grim Embrace, Pop, Lethal Pursuer (usage **[INCERTAIN]**) → ch. 10 §10.4.
 
 Détail : `kb/research/batch4_killers_g5.md` §32.
@@ -727,6 +728,8 @@ Détail : `kb/research/batch4_killers_g5.md` §33.
 
 **Fenêtre à exploiter** : après un dash raté, 2,25 s ; ensuite Hidey-Ho met 12 s à revenir : c'est le moment de changer de tile [SITUATIONNEL].
 
+**Quand le counterplay habituel échoue** [SITUATIONNEL] : « la palette reste au sol après le Scamper » échoue avec **Hard Hat** (le Scamper la casse) → la jouer comme une palette unique ; « la distance » échoue en open sans obstacle (un dash reprend ≈ 7 m d'un coup) → aller vers un obstacle qui dévie le dash plutôt que tenir la ligne droite ; « écouter ses pas » échoue pendant Hidey-Ho (faux pas) → checks visuels.
+
 **Implications de carte** [HEURISTIQUE]
 
 - Maps encombrées (hautes herbes, décor dense) = sa petite taille l'avantage ; maps ouvertes = tu le vois venir.
@@ -799,7 +802,7 @@ Détail : `kb/research/batch4_killers_g5.md` §34.
 
 **Perks / synergies à anticiper**
 
-- Ses perks : **Unforeseen** (TR fixe centré sur un gen kické → un TR soudain sur ce gen n'est pas forcément lui ; synergie avec sa téléportation [HEURISTIQUE]), **Unbound**, **Undone** (valeurs LIVE en partie **[INCERTAIN]** ; Undone retravaillée au PTB 10.2.0 — non LIVE : ne retenir que le principe).
+- Ses perks : **Unforeseen** (TR fixe centré sur un gen kické → un TR soudain sur ce gen n'est pas forcément lui ; synergie avec sa téléportation [HEURISTIQUE]), **Unbound** (vault de fenêtre après une blessure → Haste du tueur ; modifiée au PTB 10.2.0 — non LIVE), **Undone** (détail LIVE **[INCERTAIN]** ; retravaillée au PTB 10.2.0 — non LIVE : ne retenir que le principe).
 - Seed : Pain Resonance, Pop, Lethal Pursuer (usage **[INCERTAIN]**) → ch. 10 §10.4.
 
 Détail : `kb/research/batch4_killers_g5.md` §35.
@@ -839,7 +842,7 @@ Détail : `kb/research/batch4_killers_g5.md` §35.
 **Quand le counterplay habituel échoue** :
 
 - « S'accroupir face aux entités » échoue contre **Iridescent Book of Vile Darkness** (entités plus basses) et peut-être sur terrain en pente (le texte dit « terrain plat ») → casser la LOS derrière un obstacle [SITUATIONNEL].
-- Le **pré-drop** échoue contre un Lich qui garde Mage Hand et ralentit pour l'obtenir → alterner départ sans drop, drop normal et fenêtre [HEURISTIQUE].
+- Le **pré-drop** échoue contre un Lich qui garde Mage Hand en réserve et attend ton pré-drop → alterner départ sans drop, drop normal et fenêtre [HEURISTIQUE].
 - « Revenir boucler sur la palette jetée » échoue : Mage Hand la relève (kit de base) ou la casse en 4 s (**Vorpal Sword**) → enchaîner vers une autre ressource [HEURISTIQUE].
 - « Après un Mage Hand, la fenêtre est sûre » échoue si le Lich l'a survolée avec l'Iridescent Book (fenêtre bloquée 45 s) → vérifier avant de s'y engager [SITUATIONNEL].
 - « TR = info » échoue avec **Cloak of Elvenkind** (TR −22 m pendant Fly) ou **Cloak of Invisibility** (Undetectable 20 s après une rafale de sorts) → regarder en l'air, suivre les cooldowns plutôt que le TR [SITUATIONNEL].
@@ -862,8 +865,8 @@ Détail : `kb/research/batch4_killers_g5.md` §35.
 
 **Perks / synergies à anticiper**
 
-- Ses perks : **Weave Attunement** (aura d'objets au sol, Oblivious au ramassage) → synergie avec ses coffres et objets : ignorer les objets au sol ; **Languid Touch** (Exhausted après un envol de corbeaux → marcher autour des corbeaux) ; **Dark Arrogance** (vaults plus rapides mais stuns plus longs ; valeurs LIVE suspectes **[INCERTAIN]**).
-- Seed : Pain Resonance, Surge, Dead Man's Switch, Barbecue & Chilli (usage **[INCERTAIN]**) → ch. 10 §10.4.
+- Ses perks : **Weave Attunement** (aura d'objets au sol, Oblivious au ramassage) → synergie avec ses coffres et objets : ignorer les objets au sol ; **Languid Touch** (Exhausted après un envol de corbeaux → marcher autour des corbeaux) ; **Dark Arrogance** (LIVE : vaults plus rapides, mais stuns de palette et aveuglements plus longs pour lui (VM) → un stun rapporte plus ; modifiée au PTB 10.2.0 — non LIVE).
+- Seed : Pain Resonance, Surge, Dead Man's Switch (modifiée au PTB 10.2.0 — non LIVE), Barbecue & Chilli (usage **[INCERTAIN]**) → ch. 10 §10.4.
 
 Détail : `kb/research/batch4_killers_g5.md` §36.
 
@@ -924,7 +927,7 @@ Détail : `kb/research/batch4_killers_g5.md` §36.
 
 **Perks / synergies à anticiper**
 
-- Ses perks : **Dominance** (1er coffre ou totem touché aussitôt bloqué → ta position est connue : partir), **Human Greed** (coffres refermés), **Hex: Wretched Fate** (réparation lente de l'Obsession seule après le 1er gen → chercher le totem).
+- Ses perks : **Dominance** (LIVE : chaque coffre et chaque totem est bloqué dès son 1er contact, et il en voit l'aura → ta position est connue : partir ; modifiée au PTB 10.2.0 — non LIVE), **Human Greed** (coffres refermés), **Hex: Wretched Fate** (réparation lente de l'Obsession seule après le 1er gen → chercher le totem).
 - Seed : Pain Resonance, Grim Embrace, Pop, Lethal Pursuer (usage **[INCERTAIN]**) → ch. 10 §10.4.
 
 Détail : `kb/research/batch4_killers_g5.md` §37.
@@ -977,7 +980,7 @@ Détail : `kb/research/batch4_killers_g5.md` §37.
 
 **Perks / synergies à anticiper**
 
-- Seed : Pain Resonance, Surge, Dead Man's Switch, Barbecue & Chilli, All-Shaking Thunder (usage **[INCERTAIN]**). Contre DMS **suspecté** : après un hook, lâcher d'abord un gen peu avancé.
+- Seed : Pain Resonance, Surge, Dead Man's Switch, Barbecue & Chilli, All-Shaking Thunder (usage **[INCERTAIN]**). Contre DMS **suspecté** (LIVE ; modifiée au PTB 10.2.0 — non LIVE) : après un hook, lâcher d'abord un gen peu avancé.
 - Ses perks : **All-Shaking Thunder** (fente très longue quand il vient de sauter d'un étage), **Scourge Hook: Jagged Compass** (droit au gen le plus avancé après un hook sur crochet Fléau → ne pas y rester seul), No Quarter (ci-dessous) → ch. 10 §10.4.
 
 **Perk à connaître** : No Quarter (auto-soin à 75 % → skill checks en continu, raté = Broken) → ne lancer un auto-soin que si tu peux le finir.
@@ -1032,7 +1035,7 @@ Détail : `kb/research/batch4_killers_g6.md` §38.
 
 **Perks / synergies à anticiper**
 
-- Ses perks : **Hex: Nothing but Misery** (Hex apparu en cours de partie ; Hindered à chaque coup de base → purifier), **Forever Entwined** (saves au ramassage qui échouent de peu, à répétition), None Are Free (ci-dessous).
+- Ses perks : **Hex: Nothing but Misery** (Hex apparu en cours de partie ; Hindered à chaque coup de base → purifier ; modifiée au PTB 10.2.0 — non LIVE, ch. 10 §10.10), **Forever Entwined** (saves au ramassage qui échouent de peu, à répétition), None Are Free (ci-dessous).
 - Seed : Pain Resonance, Surge, Friends 'til the End, Brutal Strength / Lethal Pursuer (usage **[INCERTAIN]**) → anticiper un repérage dès le spawn et un premier grab rapide (ch. 10 §10.4).
 
 **Perk à connaître** : **None Are Free** (endgame : fenêtres et palettes debout bloquées 12-16 s par token) → en endgame, aller directement aux portes.
@@ -1056,6 +1059,8 @@ Détail : `kb/research/batch4_killers_g6.md` §39.
 **Identification** : portes de sécurité sur la map ; TR court et Undetectable fréquent ; hache plantée dans le décor (zone de Killer Instinct 15 s).
 
 **Ce qu'il cherche** : un lancer à la sortie de tile, puis rejoindre à ≤ 3 m le survivant qui porte la hache : **épaule sans second coup** [FACT].
+
+**Tiles** [HEURISTIQUE] : favorables = tiles hauts qui coupent la LOS (anti-projectile classique, comme contre la Huntress) et zones éloignées des portes ; défavorables = longues lignes droites, tiles bas, zones proches d'une porte (arrivée surprise). Fenêtres et palettes se jouent normalement, mais le lancer punit un vault prévisible en fin de boucle.
 
 **Counterplay par couche**
 
@@ -1147,8 +1152,8 @@ Détail : `kb/research/batch4_killers_g6.md` §40.
 
 **Perks / synergies à anticiper**
 
-- Ses perks : **Wandering Eye** (au début d'une chase, auras des blessés à ≤ 20 m → blessé, s'éloigner de la chase), **Hex: Overture of Doom** (TR qui semble venir du gen le plus éloigné d'un totem), Ravenous (ci-dessous).
-- Seed : **Dissolution**, Pain Resonance, Pop, No Way Out (usage **[INCERTAIN]**) ; Dissolution confirmée → ne pas fast-vaulter une palette près d'elle après un coup (ch. 10 §10.4).
+- Ses perks : **Wandering Eye** (au début d'une chase, auras des blessés à ≤ 20 m → blessé, s'éloigner de la chase), **Hex: Overture of Doom** (après 5 s de réparation sur le gen maudit, le plus éloigné du totem, son TR y est transféré et elle devient Undetectable → un TR sur ton gen n'est pas forcément elle), Ravenous (ci-dessous).
+- Seed : **Dissolution**, Pain Resonance, Pop, No Way Out (usage **[INCERTAIN]**) ; Dissolution confirmée (LIVE : après n'importe quel dégât ; modifiée au PTB 10.2.0 — non LIVE) → ne pas fast-vaulter une palette près d'elle après un coup (ch. 10 §10.4).
 
 **Perk à connaître** : **Ravenous** LIVE = Exposed **40/50/60 s** à 4 tokens (VP) ; le « 80/85/90 s » affiché par le wiki est le **PTB 10.2.0 — non LIVE**.
 
@@ -1173,6 +1178,8 @@ Détail : `kb/research/batch4_killers_g6.md` §41.
 **Identification** : 4,4 m/s ; TR qui disparaît d'un coup (Upside Down) ; anneaux rouges ; horloges sur la map.
 
 **Ce qu'il cherche** : prédire ta sortie de palette ou de fenêtre (zone retardée) ; hors Worldbreaker, il **construit** ses tokens [HEURISTIQUE].
+
+**Tiles** [HEURISTIQUE] : favorables = boucles longues, où ses 4,4 m/s le pénalisent (il reprend 0,4 m/s, 10 m en 25 s, avant Bloodlust), et tiles à **plusieurs sorties**, qui rendent la zone de liane difficile à prédire ; défavorables = tiles à sortie unique et couloirs étroits. En Worldbreaker, préférer un tile à murs hauts à une longue boucle (voir *Quand le counterplay habituel échoue*).
 
 **Counterplay par couche**
 

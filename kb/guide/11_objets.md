@@ -12,7 +12,7 @@
 | **(CALC)** | Arithmétique faite sur des FACT. Hypothèses par défaut : réparation **solo** à 1 charge/s, 1 gen = 90 charges, bonus **additifs**, pas de Great. Aussi fiable que la moins fiable de ses entrées |
 | **[DATA]** | Observation communautaire chiffrée (ici : probabilités de coffre, étude de 2019 = **HISTORICAL**) |
 | **[HEURISTIQUE]** | Règle pratique de joueur, non sourcée |
-| **[AVIS D'EXPERT]** | Conclusion défendable, sans source lue |
+| **[AVIS D'EXPERT]** | Jugement stratégique défendable, **attribué à aucun expert identifié** (aucune source experte lue) : à traiter comme une heuristique forte |
 | **[HYPOTHÈSE]** | Modèle ou interprétation plausible, non confirmé |
 | **[SITUATIONNEL]** | Conseil qui s'inverse selon le contexte |
 | **[INCERTAIN]** / **(INC)** | Valeur non documentée ou sources en désaccord |
@@ -112,6 +112,7 @@ Add-ons de confort (vitesse ou charges brutes, [FACT] (SS)) : Clean Rag (Common,
 > **Note avancée — Grip Wrench** : 30 s de réparation automatique couvrent **déjà** un wiggle complet (16 s). Les 20 s de plus ne servent donc pas au portage normal ; elles servent à **saboter avant le ramassage** (pendant la chase) ou à couvrir un portage long (lâchers, reprise) [HEURISTIQUE].
 
 **Brand New Part** [FACT] (SS) : test « Always (1x) », zone Great de 7 %, pas de zone Good distincte, raté = −10 % de progression. −10 charges = **10 s-s** (11,1 % d'un gen, CALC).
+
 - [HEURISTIQUE] Posez-la sur un **gen peu avancé que l'équipe va vraiment finir** : à 0 %, un raté ne retire aucune progression ; sur un gen à 70 %, il en retire jusqu'à 9 charges pour le même gain.
 - Risques restants : un raté fait **probablement** un bruit fort ([HYPOTHÈSE], non indiqué) ; le bonus est **perdu** si le gen n'est jamais fini (abandonné, gen d'un 3-gen tenu par le tueur).
 
@@ -181,6 +182,7 @@ Add-ons de confort ([FACT] (SS)) : charges (Bandages +8, Self Adherent Wrap +8 e
 > **Note avancée — le nom de la seringue** : le nom LIVE est bien **Anti-Exhaustion Syringe** (renommée **depuis** Anti-Haemorrhagic en 9.3.0) [FACT] (VM). L'audit phase 0 (A-186) avait inversé le sens ; l'errata le corrige.
 
 **Usage de la seringue** ([HYPOTHÈSE] + [HEURISTIQUE]) :
+
 - Elle agit **pendant un soin**. Pour vous-même, il faut donc être **blessé** et lancer un auto-soin. Sain, vous ne pouvez l'utiliser que sur un allié que vous soignez (« affected Survivor » = le survivant soigné : interprétation, [INCERTAIN]).
 - Elle vaut **une activation d'Exhaustion supplémentaire** (Lithe, Sprint Burst, Dead Hard, Overcome…) au prix du kit entier.
 - Utilisez d'abord les charges (soins), gardez la seringue pour quand le kit est presque vide.
@@ -518,6 +520,7 @@ C charges versées en C / (1 + b) s au lieu de C s (C = charges, b = bonus de vi
 | Commodious + Socket Swivels + Brand New Part (réussie) | 32 | 0,80 | 14,2 + 10 = **24,2 s** |
 
 Lecture :
+
 - Une Commodious pleine vaut **≈ 12 % d'un gen**. Le meilleur loadout de réparation vaut **≈ un quart de gen**. C'est réel mais modeste : un seul test raté (−10 %, soit 9 charges) en efface presque tout.
 - **Great avec toolbox** ([HYPOTHÈSE]) : 40 %/s pendant ~21 s (Commodious) ≈ 8,5 tests ; tous en Great = +8,5 % ≈ **+7,7 charges**, contre ~2,3 sur la même progression sans toolbox → **≈ +5 s** de plus. Ce gain suppose **100 %** de Great et baisse vite avec le taux réel ; il y a aussi ≈ 3,3 fois plus de tests à progression égale, donc plus de ratés possibles.
 - **Alex's** : quasi nulle en réparation ; sa valeur est dans les **sabotages** (3 par toolbox, CALC 18 / 6).

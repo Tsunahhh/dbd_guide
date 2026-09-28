@@ -18,7 +18,7 @@ Il ne contient **pas de tier list**. Une tier list classe les perks « en géné
 |---|---|
 | **[FACT]** | Mécanique ou valeur vérifiée. Confiance : **(VP)** note officielle, **(VM)** wiki complet + note officielle, **(SS)** wiki complet seul, **(INC)** incertain |
 | **[HEURISTIQUE]** | Règle de jeu raisonnée à partir de l'effet, **non mesurée** |
-| **[AVIS D'EXPERT]** | Arbitrage proposé par ce guide, sans source |
+| **[AVIS D'EXPERT]** | Jugement stratégique défendable, **attribué à aucun expert identifié** (aucune source experte lue) : à traiter comme une heuristique forte |
 | **[HYPOTHÈSE]** | Modèle plausible, non vérifié (toutes les interactions DR entre perks, sauf mention contraire) |
 | **[SITUATIONNEL]** | S'inverse selon le tueur, la carte ou l'état de la partie |
 | **[INCERTAIN]** | Valeur non tranchée entre sources : ne jamais fonder une décision fine dessus |
@@ -80,6 +80,7 @@ Gain = secondes de gen, secondes de chase, états de santé évités,
 > **Note avancée** : la fiche Sprint Burst retient un gain de « ~1,5 m » [HEURISTIQUE], bien sous la borne de 4 m ci-dessus. L'écart vient de ce que la borne suppose une vitesse atteinte instantanément et une course en ligne droite. Retenez l'**ordre de grandeur** (quelques mètres), pas la valeur exacte.
 
 **Ce que le tableau ne montre pas** :
+
 - **L'information** ne se convertit qu'indirectement : une aura du tueur vaut le temps de la décision qu'elle vous évite (quitter un gen 5 s plus tôt, ne pas amener le tueur sur un allié, ne pas faire deux sauvetages).
 - **La menace** a une valeur même sans déclenchement : un tueur qui soupçonne Will to Live hésite à ramasser le décroché (valeur « perk deduction », fiche Will to Live) [HEURISTIQUE].
 
@@ -112,6 +113,7 @@ Gain = secondes de gen, secondes de chase, états de santé évités,
 **QUOI** : une perk très jouée n'est pas forcément la meilleure pour **votre** partie.
 
 **POURQUOI** [HEURISTIQUE] :
+
 - **Visibilité** : on voit un stun de Will to Live ; on ne voit pas les 5 s gagnées par gen avec Déjà Vu. Les perks spectaculaires sont surestimées.
 - **Confort** : une perk qui réduit le coût d'une erreur (Unbreakable, Deliverance) rassure, même si l'erreur est rare pour vous.
 - **Biais du souvenir** : on retient la partie où la perk a tout sauvé, pas les dix où elle n'a rien fait.
@@ -194,6 +196,7 @@ Botany III seule : 16 s / 1,5 = 10,7 s ; We'll Make It seule : 8 s
 ```
 
 **Ce que cela change** [HEURISTIQUE] :
+
 - Empiler deux perks de **même effet** rapporte la moitié de la seconde. La 2e perk de soin ne gagne ici que ~0,9 s par soin par rapport à We'll Make It seule (8 s → 7,1 s).
 - **Diversifier les axes** (un bonus de soin + une info + une chase + un anti-tunnel) rapporte presque toujours plus que d'empiler un axe.
 - Le **bonus de base d'un objet** peut entrer dans les DR avec une perk ; l'**add-on**, jamais. À bonus égal, un add-on « vaut » plus qu'une perk dans un build empilé (ch. 2).
@@ -268,11 +271,13 @@ Détail : `kb/research/batch2_perks_surv_p23.md`, `p24.md`, `p25.md` ; technique
 **POURQUOI la SoloQ en a besoin** : sans vocal, ces perks remplacent les annonces. Kindred évite le double sauvetage et montre le camp ; Bond et Empathy évitent d'amener le tueur sur un allié ; Inner Focus et Alert localisent le tueur à chaque action (fiches, [HEURISTIQUE]).
 
 **QUAND l'info rapporte le plus** [HEURISTIQUE] :
+
 - contre un tueur qui **tourne entre les gens** (Alert à chaque kick ; Rookie Spirit contre les tueurs à régression) ;
 - au moment des **crochets** (Kindred, Inner Focus, Babysitter, Wicked) ;
 - en **fin de partie** (Dark Sense, Clairvoyance, Wake Up!).
 
 **CONTRE / CAS D'ÉCHEC** :
+
 - **Blindness** empêche de lire **toute** aura, y compris celles des perks (SS, ch. 2).
 - Un tueur **Undetectable** cache son aura et son rayon de terreur (SS) : Alert est probablement bloquée [HYPOTHÈSE, fiche].
 - Les perks d'aura du tueur **déclenchées par ses actions** (Alert) se taisent contre un tueur qui ne casse rien et ne kicke pas.
@@ -330,6 +335,7 @@ Invocation: Weaving Spiders III
 ```
 
 **CONTRE / CAS D'ÉCHEC** :
+
 - les tueurs qui **interrompent souvent** (Hyperfocus perd ses jetons, Potential Energy perd tout à la perte d'un état) ;
 - les **skill checks spéciaux** : Corrective Action et Road Life ne les couvrent pas ;
 - **Shattered Hope** (Boons) ; tueurs qui punissent le groupe sur gen (fiche Prove Thyself) ;
@@ -363,6 +369,7 @@ Détail : `kb/research/batch2_perks_surv_p23.md` (Déjà Vu, Prove Thyself, Hype
 Autres perks à Broken programmé (voir 9.7) : **Second Wind** (28/24/20 s), **Clean Break** (75/60/45 s) ; et **Made for This** (Endurance 6/8/10 s après un soin donné, blessé).
 
 **COMMENT choisir** [HEURISTIQUE] :
+
 - **Un seul** bonus de vitesse de soin « pur » (Botany *ou* Empathic Connection *ou* Circle of Healing) : les suivants sont probablement réduits par les DR (9.2).
 - Préférez ensuite une perk qui **supprime** du temps de soin (Resurgence, Second Wind, Moment of Glory) ou qui vous rend **autonome** (Self-Care, Inner Strength, Solidarity).
 - Posez-vous la question « **faut-il soigner ?** » avant « comment soigner vite ». Contre un tueur qui one-shot ou qui revient vite, un soin de 46 s (Self-Care) coûte la moitié d'un gen.
@@ -422,6 +429,7 @@ Détail : `kb/research/batch2_perks_surv_p24.md` (Reassurance, Shoulder the Burd
 **COMMENT la jouer** : pendant la fenêtre, **aucune action voyante** (ne réparez pas, ne vous soignez pas) ; allez vers des tiles, pas vers un gen ; cassez la ligne de vue (Off the Record retire griffures et aura, pas votre silhouette).
 
 **CAS D'ÉCHEC** :
+
 - le tueur **slugge** au lieu de ramasser (Will to Live ne se déclenche que sur une saisie ou un ramassage) ;
 - vous réparez ou vous soignez « pour ne pas perdre de temps » : la fenêtre se ferme ;
 - tous les gens sont finis : Will to Live est désactivée ;
@@ -639,6 +647,7 @@ Ces perks transforment du **temps de coffre** en objets ou en progression (Plund
 **QUAND revoir le build** : à la fin d'un bloc de 5-10 parties (revue 14.6), ou quand ton **rôle** change (ex. SoloQ → SWF, où la voix remplace une perk d'info) ; pas après une seule défaite.
 
 **CAS D'ÉCHEC** :
+
 - **Mauvais diagnostic** : « je meurs par tunnel » alors que la revue montre des coups évitables avant le premier crochet (M-05) ; l'anti-tunnel ne répare pas une erreur de chase. Classe d'abord tes morts par ID d'erreur (ch. 13), **puis** choisis la perk.
 - **Béquille permanente** : une perk qui compense une lacune de connaissance (tiles, HUD) empêche d'apprendre ; retire-la quand le drill correspondant est réussi (9.4.11, « Retirez une béquille »).
 - **Build de SWF en SoloQ** : perks dont la valeur suppose une coordination (Match Details permet au moins de vérifier ce que portent les alliés).
@@ -690,6 +699,7 @@ Ces perks transforment du **temps de coffre** en objets ou en progression (Plund
 Hors liste : **Head On** n'a qu'un correctif de bug au PTB (un raté contre la Nurse appliquait l'Exhausted), bug probablement encore présent en LIVE [HYPOTHÈSE].
 
 **Ce que cela changerait pour les builds** [HEURISTIQUE, à revoir à la sortie] :
+
 - **Chase** : la note de dev veut spécialiser Windows (fenêtres) et Five Moves Ahead (palettes). L'ancien effet de Windows se retrouverait avec Windows + Five Moves Ahead, ou avec Dark Sense. Spine Chill deviendrait une perk de saut plutôt que de vitesse d'action.
 - **SoloQ** : Kindred (14 m dès le rang I), Empathic Connection, We'll Make It et No One Left Behind gagnent de la valeur ; Self-Preservation en perd (plusieurs exemplaires faisaient revenir le tueur au crochet, selon BHVR).
 - **Anti-tunnel** : Borrowed Time ne prolongerait plus les protections du décroché ; Shoulder the Burden ne pourrait plus s'enchaîner en 4-man.

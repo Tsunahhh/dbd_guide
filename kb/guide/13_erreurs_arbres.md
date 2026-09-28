@@ -21,7 +21,7 @@ Deux outils complémentaires : la **base d'erreurs** (51 erreurs de survivant, d
 | **[HEURISTIQUE]** | Règle pratique de joueur, utile en général, avec exceptions. **Toutes les corrections et toutes les feuilles sont heuristiques sauf mention contraire** |
 | **[SITUATIONNEL]** | S'inverse selon le tueur, la carte ou l'état de partie |
 | **[HYPOTHÈSE]** | Modèle plausible, non testé |
-| **[AVIS D'EXPERT]** | Jugement stratégique repris des brouillons, **attribué à personne** (non sourcé) |
+| **[AVIS D'EXPERT]** | Jugement stratégique défendable, **attribué à aucun expert identifié** (aucune source experte lue) : à traiter comme une heuristique forte |
 | **[INCERTAIN]** | Chiffre ou affirmation sans source vérifiée |
 | `[SoloQ]` / `[SWF]` | Branche propre à un mode ; sans préfixe = valable dans les deux |
 
@@ -102,6 +102,7 @@ Quatorze erreurs. Elles portent sur la caméra, le pathing, la palette gaspillé
 > **À retenir (débutant)** : on agit **au moment où l'on a peur** (palette trop tôt, vault en regardant derrière, décrochage immédiat, cachette) au lieu du moment où l'action rapporte le plus. Question-clé : « que se passe-t-il si j'attends 2 secondes ? »
 
 **Variantes SoloQ / SWF (débutant)** :
+
 - `[SoloQ]` E-D09 + E-D12 : sans information, attendre un signe d'engagement du tueur (icône de chase, TR qui s'éloigne) est la seule protection contre le trade.
 - `[SWF]` L'accroché annonce le tueur (« il reste », « il part nord ») ; E-D14 devient un choix annoncé (« on duo le gen du bas »).
 
@@ -147,6 +148,7 @@ Quatorze erreurs, dont E-I14 ajoutée par l'audit P14. Le joueur sait boucler un
 > **Erreur fréquente** : corriger E-I02 par « je ne me soigne plus jamais ». La bonne question : « cet état servira-t-il dans une chase **avant** qu'un gen ne soit perdu ? »
 
 **Variantes SoloQ / SWF (intermédiaire)** :
+
 - `[SoloQ]` E-I03 et E-I04 coûtent le plus : défaut robuste = un seul sauveteur choisi par CRO-1 à CRO-3, avec vérification en route.
 - `[SWF]` Un shot-caller désigne le sauveteur (ETA) ; E-I05 se règle à voix haute (« je suis à 2, je ne prends pas le save »).
 
@@ -182,6 +184,7 @@ Onze erreurs. Le joueur tient des chases. Il perd maintenant de la valeur par **
 > **Note avancée** [HEURISTIQUE, lot 7] : (1) si **la casse lui coûte** (Blight), le pre-drop reste rentable ; (2) si **son pouvoir punit l'attente** (Doctor, Cannibal, Nemesis MR2+, Mastermind, Lich), pre-drop **puis départ immédiat** ; (3) si **la casse ou le franchissement est gratuit** (Demogorgon, Oni en Fury, Dark Lord ; Ghoul avec tokens, qui franchit sans casser, le vault déclenchant son cooldown), la palette vaut surtout le stun. Contre un casseur par add-on, vérifier l'add-on avant de changer de plan.
 
 **Variantes SoloQ / SWF (avancé)** :
+
 - `[SoloQ]` E-A11 est centrale : choisir la décision qui reste correcte **quoi que fassent les autres**. E-A08 est plus dur : la « palette suivante » a peut-être été utilisée.
 - `[SWF]` E-A08 se règle par callouts (« palette du shack cassée ») ; E-A06 s'annonce (qui prend le coup de protection, quelle direction).
 
@@ -211,6 +214,7 @@ Douze erreurs. Le joueur maîtrise l'exécution. Il perd maintenant de la valeur
 > **À retenir (très avancé)** : E-T01, E-T05 et E-T06 sont la même faute : se demander « comment survivre à cette chase ? » au lieu de « quel usage de mon temps et de mes états rapporte le plus à l'équipe ? ».
 
 **Variantes SoloQ / SWF (très avancé)** :
+
 - `[SoloQ]` E-T05 : par défaut, rester chassable quand tu es sain et que le HUD montre des coéquipiers sur les gens. E-T01 : compter les états **réellement** offerts, personne ne viendra aider.
 - `[SWF]` E-T12 est la seule erreur propre au SWF : lacune connue (§13.17).
 
@@ -270,6 +274,7 @@ Tous les seuils de réussite des drills sont [HEURISTIQUE] / [INCERTAIN]. Ils me
 **Format** : entrée → squelette ASCII (questions dans l'ordre où elles changent la décision, feuilles codées `[XXX-n]`) → table des feuilles → SoloQ / SWF et contre-jeu.
 
 **Trois règles d'usage** [HEURISTIQUE] :
+
 1. **Un arbre ordonne des questions, il ne donne pas « la » réponse.** Aucune feuille ne dit « toujours drop » ou « toujours greed ».
 2. **En jeu, seulement les 3-4 premières questions** ; les suivantes se **préparent avant** (état d'équipe, palettes, perks suspectées) et se **vérifient en revue**. Une décision moyenne à temps vaut mieux qu'une bonne décision 10 s trop tard.
 3. **Règle de conflit.** Si deux questions mènent à des feuilles opposées, **la question la plus haute choisit la feuille, les suivantes règlent le moment**. C'est une convention, pas une règle démontrée.
@@ -734,6 +739,7 @@ Détail (arbres 6 à 9) : `kb/deliverables/DECISION_TREES.md` §6-9 ; `kb/resear
 ## 13.17 Limites et corrections du seed
 
 **Ce que ce chapitre ne sait pas** :
+
 - **Distances non quantifiables** (portée de fente, abaissement de la palette, stun et Bloodlust) et anti-camp seulement estimé (±10 %) : les seuils des arbres 1 à 3 sont des ordres de grandeur.
 - **Branches `[SoloQ]` fondées sur un HUD non vérifié** (icônes d'action, compteur de crochets, indicateur de chase). À revoir après 10.2.0 (Survivor Intent System).
 - **Lacunes de la base d'erreurs** : aucune erreur sur les objets (lampe, toolbox, med-kit), les casiers en chase ou les saves (flash, pallet save, sabotage, body block d'équipe) ; SWF sous-représenté (1 entrée).

@@ -7,6 +7,7 @@
 Ce chapitre transforme le reste du guide en **plan de travail** : un programme en 10 niveaux, un catalogue de drills, un système de métriques et une méthode de revue de partie. Il répond à une question simple : *comment savoir si je progresse, et sur quoi travailler cette semaine ?*
 
 Il s'appuie sur :
+
 - la **base d'erreurs** `E-xx` (E-D débutant, E-I intermédiaire, E-A avancé, E-T très avancé) de `kb/research/batch11_training.md` §1 ;
 - les **arbres de décision** (PALETTE, QUITTER LA TILE, CROCHET, SOIN, GEN, ENDGAME, TRAPPE…) de `kb/deliverables/DECISION_TREES.md` (présentés au chapitre 13) ;
 - les fiches tueurs (chapitres 7 et 8, `kb/deliverables/KILLER_COUNTERPLAY_HANDBOOK.md`) et la perk deduction (chapitre 10, `kb/deliverables/PERK_DEDUCTION.md`).
@@ -71,6 +72,7 @@ Avant ta prochaine session, écris **une seule** phrase : « Cette semaine je tr
 | **Durées** | Ordre de grandeur pour ~4-6 h de jeu par semaine | [INCERTAIN], sans source |
 
 **Contextes des drills** :
+
 - **KYF** = partie personnalisée avec un ami tueur (« Kill Your Friends »). Existence connue ; options (bots, réglages) **non vérifiées** [INCERTAIN].
 - **Public** = partie normale.
 - **Revue** = sur enregistrement (VOD).
@@ -265,6 +267,7 @@ Détail : `kb/research/batch11_training.md` §4.2 ; `kb/deliverables/TRAINING_PR
 ## 14.4 Catalogue des drills
 
 Format : **Objectif · Méthode · Métrique · Erreur typique · Réussite**. Tous les seuils de réussite sont des **[HEURISTIQUE] [INCERTAIN]**. Principes communs :
+
 - **Un seul objectif par session** : le drill définit ce que tu regardes ; tu acceptes de perdre des parties.
 - **Retour immédiat** : chaque drill a une métrique comptable pendant ou juste après la partie.
 - **Réussite d'un drill ≠ résultat de partie.**
@@ -365,6 +368,7 @@ Détail : `kb/research/batch11_training.md` §1 et §3 ; `kb/deliverables/TRAINI
 ### 14.5.1 Définition d'une chase (convention commune)
 
 Une **chase** commence au premier instant où le tueur te poursuit. En VOD : début de la musique de chase, ou premier sprint de fuite avec le tueur en vue (± 2 s). Elle finit à la **première** de ces issues :
+
 - mise au sol ;
 - fin de poursuite (le tueur abandonne, ou tu le sèmes) ;
 - changement de cible du tueur.

@@ -3,7 +3,7 @@
 Mis à jour à chaque fin de session. Le **prochain lot exact** est en tête.
 
 ## État au 28/09/2026
-Les lots 1-9, 11, 12 et les PASS 13-17 sont faits (voir `kb/PROJECT_MANIFEST.md` §5). Le tableau ci-dessous est le plan historique ; ce qui reste est dans `kb/ledgers/CHANGELOG.md` (« Prochaine session »), `OPEN_QUESTIONS.md` et `COVERAGE_MATRIX.md` §4.
+Les lots 1-9, 11, 12 et les PASS 13-18 sont faits (verdict §47 : COMPLETE au 28/09, voir `kb/guide/15_annexes.md` §15.7) (voir `kb/PROJECT_MANIFEST.md` §5). Le tableau ci-dessous est le plan historique ; ce qui reste est dans `kb/ledgers/CHANGELOG.md` (« Prochaine session »), `OPEN_QUESTIONS.md` et `COVERAGE_MATRIX.md` §4.
 
 ## ➜ Prochain lot exact (à la reprise)
 

@@ -13,7 +13,7 @@ Ce chapitre ne t'apprend pas à jouer. Il te sert à **vérifier** : un chiffre,
 | 15.7 Statut du projet | La Definition of Done, condition par condition, et le verdict | Pour savoir jusqu'où faire confiance au guide |
 | 15.8 Maintenance | Quoi re-vérifier à la sortie de 10.2.0, et avec quels outils | Si tu reprends le projet |
 
-> **À retenir** : référence **LIVE 10.1.2a (17/09/2026)**, état au 27/09/2026. Toute valeur du serveur de test porte « PTB 10.2.0 — non LIVE ». Le 2v8 n'entre jamais dans les valeurs du 1v4.
+> **À retenir** : référence **LIVE 10.1.2a (17/09/2026)**, état au 27-28/09/2026 (aucune note officielle après l'article 559 au 28/09). Toute valeur du serveur de test porte « PTB 10.2.0 — non LIVE ». Le 2v8 n'entre jamais dans les valeurs du 1v4.
 
 Légende rapide (détail au §1.6) : **(VP)** note officielle BHVR ; **(VM)** wiki + note officielle concordants ; **(SS)** wiki seul ; **(INC)** incertain. « calc. » = calcul fait à partir de valeurs sourcées.
 
@@ -155,8 +155,6 @@ Toutes les valeurs ci-dessous viennent de `kb/guide/CANONICAL_FACTS.md` et du ch
 **Objets** : **Anti-Exhaustion Syringe** existe bien (renommage 9.3.0, VM) ; **Fog Vial 4 charges** (9.5.0, VP) ; Pharmacy LIVE = ouverture de coffre accélérée seulement (VM).
 
 > **Erreur fréquente** : citer la valeur affichée sur le wiki pendant un PTB. Au 27/09/2026, les pages de Dissolution, Distressing, Do No Harm, Hex: Nothing but Misery, Shattered Hope, Wake Up! et Windows of Opportunity montrent le texte du PTB 10.2.0 sans avertissement. La valeur LIVE se lit dans les lignes « (was …) » de la note officielle 559.
-
-> **Note avancée** : `CANONICAL_FACTS.md` dit encore que le « repartir 50 % plus tôt » de Five Moves Ahead est une valeur PTB. C'est faux (note 9.5.0, KB 538, et `OUTDATED_CONTENT_REPORT.md` B1 n° 8) : le chapitre 9 et ce tableau font foi. Cette ligne du fichier de référence interne reste à corriger (voir 15.8).
 
 Détail : `kb/guide/CANONICAL_FACTS.md` ; chapitre 2 ; `kb/research/batch12_mechanics_open.md` ; `kb/ledgers/AUDIT_PHASE0_ERRATA.md`.
 
@@ -364,7 +362,7 @@ Version condensée du §1.4 (qui détaille chaque hotfix et ce qu'il change pour
 | **9.1.0** (29/07/2025) | À 2 survivants : 2 checks de lutte manqués = sacrifice. Fog Vial. Built to Last 14/12/10 s |
 | **9.2.0** (23/09/2025) | The Krasue. Récupération au sol automatique, **Abandon**. Rework de The Shape. Palettes redistribuées sur 10 royaumes. Ruin, DMS, Oppression LIVE ; **Pop et Eruption reportés** ; anti-tunnel et anti-slug du PTB reportés |
 | 9.2.2 / 9.2.3 (07-21/10/2025) | Off the Record récupère l'Endurance ; Shape : Evil Incarnate 60 s |
-| **9.3.0** (25/11/2025) | Protections du PTB **annulées** ; décrochage : Endurance + Haste 15 s ; anti-camp 16 m, grâce 7 s, ×1/×2/×4. Palettes moins sûres sur 6 royaumes. Anti-Exhaustion Syringe |
+| **9.3.0** (25/11/2025) | Protections du PTB **annulées** ; décrochage : Endurance + Haste 15 s ; anti-camp 16 m, grâce 7 s, ×1/×2/×4. Palettes moins sûres sur 5 royaumes et la carte Mount Ormond Resort. Anti-Exhaustion Syringe |
 | 9.3.2 (09/12/2025) | Loops trop courtes rallongées sur 7 royaumes |
 | **9.4.0** (27/01/2026) | The First. Premier statut Elusive. Licence Halloween retirée : Decisive Strike → Will to Live, etc. Lampkin Lane retirée |
 | **9.5.0** (17/03/2026) | Rework du Trickster ; Sleepless District. Unbreakable restreinte ; Pop réécrite (20 % au total) ; Fog Vial 4 charges |
@@ -385,7 +383,7 @@ Source : note officielle 559 et page wiki du patch. BHVR modifie souvent un PTB 
 | Système | **Survivor Intent System** (roue de 8 messages, sourdine possible) | ch. 6 (SoloQ) |
 | Fin de partie | Surrender quand tous sont au sol ; Abandon et **End Trial** quand il ne reste que des bots | ch. 2 §2.6.2 |
 | Perks (58 : 27 tueur, 31 survivant) | 26 touchées à cause des DR, 23 générales remises à niveau, 9 jugées « oppressives » | ch. 9, 10 |
-| Perks tueur marquantes | Dead Man's Switch (lâcher > 2 s), Dissolution et Blood Favor (coup de base seulement), Distressing (ralentit les gens dans le TR), Dominance, Nothing but Misery (vaults −10 %), Thrill of the Hunt, Insidious, Knock Out (10 m, Hindered 20 %), Ravenous, Monstrous Shrine, Shattered Hope, Undone, Help Wanted / Machine Learning (3 gens) | ch. 1 §1.2.2, ch. 10 §10.9 |
+| Perks tueur marquantes | Dead Man's Switch (lâcher > 2 s), Dissolution et Blood Favour (coup de base seulement), Distressing (ralentit les gens dans le TR), Dominance, Nothing but Misery (vaults −10 %), Thrill of the Hunt, Insidious, Knock Out (10 m, Hindered 20 %), Ravenous, Monstrous Shrine, Shattered Hope, Undone, Help Wanted / Machine Learning (3 gens) | ch. 1 §1.2.2, ch. 10 §10.9 |
 | Perks survivant marquantes | Borrowed Time, Windows of Opportunity (fenêtres seulement), Self-Preservation (13/14/15 s), Shoulder the Burden (Broken), Spine Chill, Stake Out, Down to the Last, Premonition, Kindred (14/15/16 m) | ch. 1 §1.2.2, ch. 9 §9.6 |
 | Bugs connus du PTB | Divine Light qui détecte les survivants en casier, This is Not Happening, Stake Out | — (bugs du PTB, pas du LIVE) |
 
@@ -482,8 +480,6 @@ Ce qui suit **n'est pas enseigné comme un fait** dans le guide. Quand un chapit
 
 > **À retenir** : aucun conflit ouvert ne change une valeur LIVE **centrale** d'une perk ou d'un pouvoir. Les quatre plus utiles à trancher en jeu : Elusive et action voyante, Off the Record aux portes, tokens de la Blight, exclusivités de tiles.
 
-> **Note avancée — incohérence interne connue** : `kb/guide/CANONICAL_FACTS.md` classe le « repartir 50 % plus tôt » de Five Moves Ahead en PTB, alors que la note 538 (9.5.0), `PERK_DATABASE.md` v2 et le chapitre 9 le donnent LIVE. Le guide suit la note officielle (signalé par la passe 17, lot D).
-
 Détail : `kb/ledgers/OPEN_QUESTIONS.md` (partie B) ; `kb/ledgers/CONFLICT_REGISTER.md` (« Conflits des lots 2-11 après re-vérification ») ; chapitre 2 §2.12 ; chapitre 3 §3.11 ; chapitre 4 §4.10.
 
 ---
@@ -492,7 +488,7 @@ Détail : `kb/ledgers/OPEN_QUESTIONS.md` (partie B) ; `kb/ledgers/CONFLICT_REGIS
 
 ### 15.6.1 Notes officielles BHVR
 
-Toutes publiées sur la base de connaissances officielle, à l'adresse `https://forums.bhvr.com/dead-by-daylight/kb/articles/<id>` ; téléchargées le 27/09/2026 et archivées en texte brut dans `kb/sources/patches/official_<id>.txt`. **39 articles archivés** : 29 notes de patch ou de hotfix LIVE, 1 note PTB, 1 bilan « PTB To Live », 4 articles de statistiques (texte seulement), 3 Developer Updates, 1 FAQ.
+Toutes publiées sur la base de connaissances officielle, à l'adresse `https://forums.bhvr.com/dead-by-daylight/kb/articles/<id>` ; téléchargées les 27 et 28/09/2026 et archivées en texte brut dans `kb/sources/patches/official_<id>.txt`. **48 articles archivés** : 29 notes de patch ou de hotfix LIVE, 10 notes PTB (509, 514, 522, 527, 533, 537, 542, 548, 555 et 559), 1 bilan « PTB To Live », 4 articles de statistiques (texte seulement), 3 Developer Updates, 1 FAQ.
 
 | Id | Article | Id | Article |
 |---:|---|---:|---|
@@ -508,31 +504,31 @@ Toutes publiées sur la base de connaissances officielle, à l'adresse `https://
 | 536 | 9.4.2 Bugfix (section 2v8 en tête) | 558 | 10.1.2 Bugfix + édition **10.1.2a** |
 | — | — | **559** | **10.2.0 PTB Patch Notes (non LIVE)** |
 
-Les autres (503, 507, 511, 512, 513, 517, 519, 520, 524, 526, 535, 539, 541, 543, 545, 552, 553, 554) sont des hotfix, statistiques ou annonces de moindre poids ; liste complète et dates dans `kb/ledgers/SOURCE_LEDGER.md` §1. Lus en entier mais non archivés : 527, 533, 542 (notes de PTB 9.3.0, 9.4.0, 9.6.0). Exemple d'URL complète : `https://forums.bhvr.com/dead-by-daylight/kb/articles/556` (10.1.0).
+Les autres (503, 507, 511, 512, 513, 517, 519, 520, 524, 526, 535, 539, 541, 543, 545, 552, 553, 554) sont des hotfix, statistiques ou annonces de moindre poids ; liste complète et dates dans `kb/ledgers/SOURCE_LEDGER.md` §1. Les notes PTB 9.0.0 → 10.1.0 (archivées le 28/09) ne servent qu'à dater un changement ou à montrer qu'il a été annulé : aucune valeur LIVE n'en est tirée. Exemple d'URL complète : `https://forums.bhvr.com/dead-by-daylight/kb/articles/556` (10.1.0).
 
 ### 15.6.2 Wiki officiel (deadbydaylight.wiki.gg)
 
 | Usage | Volume | Stockage |
 |---|---|---|
 | Pages de perks | 327 pages (321 perks retenues) | `kb/sources/wiki_perks.json`, `wiki_perks_digest.md` |
-| Pages de tueurs | 45 pages (dont 2 tueurs non sortis) ; The Cenobite lu via l'outil, sans copie locale | `kb/sources/wiki_killers/` |
+| Pages de tueurs | 46 pages : les 44 tueurs LIVE (dont The Cenobite, archivé le 28/09) et 2 tueurs annoncés | `kb/sources/wiki_killers/` |
 | Modules de données | 7 modules Lua (Datatable, Loadout, Killers, Maps…) | `kb/sources/wiki_modules/` |
 | Pages de patch | 10 pages « Patch Notes 9.0.X » → « 10.2.X » | `kb/sources/patches/patch_*.txt` |
 | Pages thématiques | ≈ 70 (objets, tiles, 28 pages de cartes et royaumes, mécaniques) | lues à la volée, citées dans les lots |
 
-Toutes extraites le 27/09/2026 via l'API MediaWiki (`https://deadbydaylight.wiki.gg/api.php`, `action=parse`) ; adresse d'une page : `https://deadbydaylight.wiki.gg/wiki/<Titre>`. Wiki seul = (SS) ; wiki + note concordante = (VM). Pièges : 51 pages de perks affichent le texte PTB 10.2.0 ; Built to Last affiche la valeur PTB 9.1.0 ; Movement Speeds affiche encore le rampement d'un PTB annulé.
+Toutes extraites les 27-28/09/2026 via l'API MediaWiki (`https://deadbydaylight.wiki.gg/api.php`, `action=parse`) ; adresse d'une page : `https://deadbydaylight.wiki.gg/wiki/<Titre>`. Wiki seul = (SS) ; wiki + note concordante = (VM). Pièges : 51 pages de perks affichent le texte PTB 10.2.0 ; Built to Last affiche la valeur PTB 9.1.0 ; Movement Speeds affiche encore le rampement d'un PTB annulé.
 
 ### 15.6.3 Ce qui n'a pas pu être consulté
 
 | Source | Raison | Conséquence dans le guide |
 |---|---|---|
-| **VOD** (YouTube, Twitch) | Accès refusé | **Aucune VOD analysée** ; tous les counterplays restent [HEURISTIQUE] |
+| **VOD** (YouTube, Twitch) | Aucune vidéo visionnable (pages YouTube lisibles, sans transcript) | **Aucune VOD analysée** ; tous les counterplays restent [HEURISTIQUE] |
 | **Infographies officielles** (images des articles 503, 540, 543, 554 ; SWF 2024) | Images illisibles | Aucun kill rate chiffré par tueur n'est donné comme fait |
 | **NightLight** | 403 | Aucun taux d'usage ni kill rate NightLight |
 | **DBDLeague**, Liquipedia | Refusés | Règlement et résultats compétitifs non vérifiés (lot 10 bloqué) |
 | reddit, X | 403 / refusé | Étude des coffres (2019) et confirmation du reset MMR non lues |
 | Manuel en jeu (9.6.1) | Hors ligne | Liste des DR inconnue |
-| Notes 8.x et antérieures ; PTB 9.2.0, 9.5.0, 10.0.0, 10.1.0 | Non téléchargées | TR fixés en 8.6.0 en (SS) |
+| Notes 8.x et antérieures | Non téléchargées | TR fixés en 8.6.0 en (SS) |
 | Guides experts écrits, coachs | Aucun identifié | Aucune [AVIS D'EXPERT] sourcée |
 | Tests en jeu | Aucun client | Valeurs non publiées restées ouvertes (15.5) |
 
@@ -553,44 +549,49 @@ Détail : `kb/ledgers/SOURCE_LEDGER.md` ; `kb/ledgers/SOURCE_LEDGER_batches.md` 
 
 ## 15.7 Statut du projet (Definition of Done, mission §47) `[Référence]`
 
-La mission ne permet le statut **COMPLETE** que si les **12 conditions** du §47 sont remplies ; sinon le statut est **NOT READY**. Ce tableau donne un statut honnête (**FAIT / PARTIEL / NON**) et la preuve, c'est-à-dire le fichier qui permet de le vérifier.
+La mission ne permet le statut **COMPLETE** que si les **12 conditions** du §47 sont remplies ; sinon le statut est **NOT READY**. Ce tableau donne un statut honnête (**FAIT / PARTIEL / NON**), la preuve (le fichier qui permet de le vérifier) et la réserve qui reste. État au **28/09/2026**, après la passe 18 (`kb/audit/pass18_final_check.md`).
 
 | # | Condition (§47) | Statut | Preuve et réserve |
 |---:|---|---|---|
-| 1 | La taxonomie a été auditée | **PARTIEL** | Taxonomie de phase 0 (23 familles, ~200 nœuds) dans `kb/seed/audit_phase0.txt` ; matrice dans `kb/ledgers/COVERAGE_MATRIX.md`. **Mais** la matrice n'a pas été remise à jour depuis les lots 2-4 (elle affiche encore NOT_STARTED pour la chase, les tiles, la macro, les arbres) et la taxonomie n'a pas été ré-auditée après la rédaction |
-| 2 | Aucune catégorie critique connue n'est absente | **FAIT** | Les familles P0-P1 ont chacune un chapitre (2 à 14) ; `kb/audit/pass13_coverage.md`. Réserve : le compétitif (P2) reste mince faute d'accès (ch. 12, lot 10 bloqué) ; audio, réglages et réseau (P3) ne sont traités que dans le ch. 3 (T16, T21) |
-| 3 | Tous les tueurs pertinents sont inventoriés | **FAIT** | 44/44 présents dans les ch. 7-8 (audit scripté `kb/audit/pass13_coverage.md`) ; Art the Clown et Frank Stone exclus (non sortis) |
+| 1 | La taxonomie a été auditée | **FAIT** | Ré-audit du 28/09 : **245 nœuds** (205 de la phase 0 + 40 découverts pendant le projet), chacun localisé dans le guide et classé selon le §46 (`kb/ledgers/COVERAGE_MATRIX.md` §0-3). Réserve : 49 nœuds COMPLETE et 184 AUDITED ; les nœuds surtout heuristiques ne peuvent pas dépasser AUDITED sans VOD ni source experte (15.7.1) |
+| 2 | Aucune catégorie critique connue n'est absente | **FAIT** | Les 24 familles de la matrice (A à X) ont chacune un chapitre ou une section ; les familles P0-P1 sont toutes traitées en profondeur (`kb/audit/pass13_coverage.md`, matrice §1). Réserve : le compétitif est **présent mais BLOCKED** (ch. 12 : règlements, VOD, méta non lus) ; réglages audio / vidéo (T-U02) et tilt (T-U04) manquent, familles P2-P3 jugées non critiques (tâches R-22, R-23) |
+| 3 | Tous les tueurs pertinents sont inventoriés | **FAIT** | 44/44 dans les ch. 7-8 (pass13) ; Art the Clown et Frank Stone exclus (annoncés, non sortis) |
 | 4 | Toutes les cartes pertinentes sont inventoriées | **FAIT** | 44/44 cartes 1v4 avec une fiche au ch. 5 (pass13) ; cartes retirées, variantes et 2v8 traitées à part |
-| 5 | Les perks sont inventoriées | **FAIT** | 176/176 survivant et 145/145 tueur, chacune avec une ligne d'inventaire (§9.7, §10.10) (pass13) |
-| 6 | Les mécaniques principales sont vérifiées | **FAIT** | Ch. 2 et `CANONICAL_FACTS.md` (VP/VM/SS) ; conflits 001-003 tranchés par `kb/research/batch12_mechanics_open.md`. Réserve : valeurs non publiées listées en 15.5 (fente, abaissement de palette, liste des DR) |
-| 7 | Les informations sensibles aux patches sont vérifiées | **FAIT** (au 27/09/2026) | Re-vérification sur notes 9.0.0 → 10.1.2a et PTB 559, pages wiki complètes ; `AUDIT_PHASE0_ERRATA.md`. Réserve : **périssable** dès la sortie de 10.2.0 ; TR fixés en 8.6.0 en (SS) car les notes 8.x n'ont pas été lues |
-| 8 | Les contradictions importantes sont résolues ou marquées | **FAIT** | `CONFLICT_REGISTER.md` : 85 résolus sur 113, 26 ouverts distincts + 4 de phase 0, tous marqués ; passe 17 (`kb/audit/pass17_A.md` à `pass17_D.md`) : contradictions entre chapitres corrigées. Réserve : une ligne de `CANONICAL_FACTS.md` (Five Moves Ahead) reste à corriger |
-| 9 | Les sections avancées contiennent de la décision | **PARTIEL** | Format QUOI → … → EXERCICE, arbres (ch. 13, `kb/deliverables/DECISION_TREES.md`), situations commentées (ch. 3 §3.9, ch. 6 §6.12). **Mais** l'audit de profondeur (§27) et l'audit de praticité (PASS 15) n'ont pas été faits formellement, et pass13 montre que 32 fiches tueurs condensées sur 44 n'ont pas toutes les rubriques du §28 (surtout carte et perks) |
-| 10 | Au moins deux audits adversariaux ont été réalisés | **FAIT** | Passe 14 : 9 rapports `kb/audit/pass14_*.md`, chacun avec l'audit hostile (§25) **et** l'audit « application à la lettre » (§26) : 434 problèmes relevés (lots 4, 5, 6, 7, 8, 9, 11 et livrables). Passe 17 : fact-check final des chapitres 1 à 14. Réserve : passe 14 faite sans web (avant la re-vérification) ; pas de rapport dédié aux fiches de perks (couvertes par l'audit des livrables et la re-vérification 12a) ; ce chapitre 15 n'a pas été audité |
-| 11 | Les sources sont traçables | **PARTIEL** | `SOURCE_LEDGER.md`, 39 notes officielles archivées, extraits wiki archivés, « Sources du chapitre » partout. **Mais** `PROJECT_MANIFEST.md`, `COVERAGE_MATRIX.md`, `TODO_RESEARCH.md` et `CHANGELOG.md` s'arrêtent aux lots 2-4 (ils ignorent les lots 5-12, l'errata et le guide) ; l'en-tête de `SOURCE_LEDGER_batches.md` est périmé ; la page du Cenobite et 3 notes de PTB lues n'ont pas de copie locale ; le guide cite par fichier, pas affirmation par affirmation |
-| 12 | Les éléments non résolus sont explicitement listés | **FAIT** | `OPEN_QUESTIONS.md` (117 questions), `CONFLICT_REGISTER.md`, §15.5, et une section « ce qui reste incertain » dans les chapitres 2, 3, 4, 6, 7 |
+| 5 | Les perks sont inventoriées | **FAIT** | 176/176 survivant et 145/145 tueur, une ligne chacune (§9.7, §10.10) ; les 327 pages wiki = 321 perks + 6 inutilisées du code (matrice §0) |
+| 6 | Les mécaniques principales sont vérifiées | **FAIT** | Ch. 2 et `CANONICAL_FACTS.md` (VP/VM/SS) ; conflits 001-003 tranchés (`kb/research/batch12_mechanics_open.md`). Réserve : valeurs **non publiées** listées en 15.5 (liste itemisée des DR, Elusive et action voyante, fente, abaissement de palette) : elles demandent le manuel en jeu ou des tests |
+| 7 | Les informations sensibles aux patches sont vérifiées | **FAIT** (au 28/09/2026) | Notes officielles 9.0.0 → 10.1.2a et PTB 559, pages wiki complètes, `AUDIT_PHASE0_ERRATA.md` ; aucun article officiel après 559 au 28/09 (560-562 introuvables). Réserve : **périssable** dès la sortie de 10.2.0 (58 perks, 3 systèmes) ; TR fixés en 8.6.0 en (SS), notes 8.x non lues |
+| 8 | Les contradictions importantes sont résolues ou marquées | **FAIT** | `CONFLICT_REGISTER.md` : 85 résolus sur 113, 26 ouverts distincts + 4 de phase 0, tous marqués (INC) ; contradictions entre chapitres corrigées (passes 17 et 18) ; `CANONICAL_FACTS.md` aligné (Five Moves Ahead) |
+| 9 | Les sections avancées contiennent de la décision | **FAIT** | Grille QUOI → … → EXERCICE, arbres (ch. 13, `DECISION_TREES.md`), situations commentées ; PASS 15 (§27 + praticité, 12 corrections, `kb/audit/pass15_depth_practicality.md`) ; les 44 fiches tueurs ont toutes les rubriques du §28 (pouvoir, counterplay, tiles, carte, macro, add-ons, perks / synergies, erreurs) et un cas d'échec. Réserve : exemples §31 encore absents pour une carte, un slug et une lampe en SWF (R-27) |
+| 10 | Au moins deux audits adversariaux ont été réalisés | **FAIT** | Passe 14 : 9 rapports `kb/audit/pass14_*.md`, chacun avec l'audit hostile (§25) **et** l'audit « application à la lettre » (§26), 434 problèmes relevés ; passe 17 (fact-check des ch. 1-14) ; passe 18 (ch. 15 en §25-26, ajouts du 28/09 aux fiches tueurs). Réserve : passe 14 faite sans web, avant la réécriture ; pas de rapport adversarial dédié aux fiches de perks des lots 2-3 (R-25) |
+| 11 | Les sources sont traçables | **FAIT** | `SOURCE_LEDGER.md` à jour (48 notes officielles et 46 pages de tueurs archivées, page du Cenobite comprise), `SOURCE_LEDGER_batches.md` (346 URL), « Sources du chapitre » partout, sources numérotées affirmation par affirmation dans les fiches `kb/research/` ; manifeste, changelog et file de travail à jour ; [AVIS D'EXPERT] défini partout comme **non attribué**. Réserve : le guide renvoie au fichier et à la section, pas à chaque source ; ≈ 70 pages wiki thématiques citées par URL sans copie locale ; notes 8.x non archivées |
+| 12 | Les éléments non résolus sont explicitement listés | **FAIT** | `OPEN_QUESTIONS.md` (117 questions ouvertes), `CONFLICT_REGISTER.md`, §15.5, matrice §4 (tâches R-01 à R-33), sections « ce qui reste incertain » des chapitres 2, 3, 4, 6, 7 |
 
 ### 15.7.1 Limites qui ne dépendent pas d'une case à cocher
+
+Ces limites restent vraies **quel que soit le verdict** : le §47 vérifie la couverture et la méthode, pas l'accès à des sources qui n'ont pas pu être lues.
 
 | Limite | Effet sur le guide |
 |---|---|
 | **Aucune VOD analysée** | Chase fine, mindgames, greed : [HEURISTIQUE] de joueur, jamais une observation de joueur pro |
-| **Aucune source experte écrite trouvée** (guide, coach, analyste) | Aucune [AVIS D'EXPERT] sourcée ; les hiérarchies de tiles restent des heuristiques |
-| **Statistiques non lues** (infographies officielles, NightLight) | Aucun kill rate par tueur ou par carte donné comme fait |
+| **Aucune source experte écrite trouvée** (guide, coach, analyste) | Aucune [AVIS D'EXPERT] attribuée à un expert ; les hiérarchies de tiles et les counterplays restent des heuristiques (d'où 184 nœuds plafonnés à AUDITED) |
+| **Statistiques non lues** (infographies officielles, NightLight) | Aucun kill rate par tueur ou par carte donné comme fait ; fréquences d'usage des perks non vérifiables |
+| **Compétitif non vérifié** (DBDLeague, Liquipedia, VOD) | Ch. 12 : règles et méta compétitives non sourcées (lot 10 BLOCKED) |
 | **PTB 10.2.0 non intégré** (volontairement : non LIVE) | 58 perks et 3 systèmes à revoir dès la sortie (15.8) |
-| **Aucun test en jeu** | Les valeurs non publiées (fente, ramassage, abaissement de palette) restent ouvertes |
+| **Aucun test en jeu** | Les valeurs non publiées (fente, ramassage, abaissement de palette, liste des DR) restent ouvertes |
+| **117 questions ouvertes** et 26 conflits (+ 4 de phase 0) | Listés en 15.5 ; aucun ne change une valeur LIVE centrale, mais aucun n'est tranché |
 | **Seuils d'entraînement non validés** | Le ch. 14 mesure un progrès par rapport à soi-même, pas un niveau absolu |
 
 ### 15.7.2 Verdict
 
-**Statut final : NOT READY.**
+**Statut final : COMPLETE au sens du §47 (28/09/2026, LIVE 10.1.2a).**
 
-Motif : trois conditions sur douze ne sont que partielles.
-- **Taxonomie (1)** : il faut remettre à jour `COVERAGE_MATRIX.md` et ré-auditer la taxonomie contre le guide rédigé.
-- **Décision dans les sections avancées (9)** : il faut l'audit de profondeur §27 et de praticité (PASS 15), et compléter les fiches tueurs du guide avec les rubriques « carte » et « perks / synergies » qui existent déjà dans `kb/research/batch4_killers_g*.md`.
-- **Traçabilité (11)** : il faut mettre à jour les registres de suivi, archiver les sources lues sans copie locale et corriger l'en-tête du registre généré.
+Motif : les 12 conditions sont remplies. Les trois conditions encore partielles le 27/09 ont été levées : la taxonomie a été ré-auditée (condition 1) ; l'audit de profondeur et de praticité (PASS 15) a été fait et les 44 fiches tueurs ont toutes les rubriques du §28 (condition 9) ; les registres, les archives de sources et l'en-tête du registre généré ont été mis à jour (condition 11). La passe 18 a audité ce chapitre, contrôlé les ajouts du 28/09 et corrigé ce qu'elle a trouvé (perks PTB non signalées, rubriques manquantes, registres en retard).
 
-Aucune de ces lacunes ne rend un chiffre du guide faux. **Le guide reste utilisable** pour jouer en LIVE 10.1.2a : ses valeurs sont sourcées et étiquetées, ses incertitudes sont dites, et le PTB comme le 2v8 sont isolés. Il faut simplement le lire comme un manuel **vérifié à une date**, pas comme un document terminé. Un COMPLETE honnête demanderait aussi, au-delà du §47, de lever les limites de 15.7.1 qui dépendent d'accès (VOD, statistiques, sources expertes).
+Ce que ce verdict **ne dit pas** :
+
+- **COMPLETE ne veut pas dire que chaque nœud est COMPLETE** au sens du §46 : 49 nœuds sur 245 le sont ; 184 plafonnent à AUDITED parce que leur cœur est une heuristique qu'aucune VOD ni source experte n'a validée, ou une valeur non publiée. Les limites de 15.7.1 restent entières.
+- **Le verdict est daté** : il redevient **NOT READY** dès la sortie LIVE de 10.2.0, tant que la procédure du §15.8.1 n'a pas été appliquée (condition 7).
+- **Le guide se lit comme un manuel vérifié à une date** : ses valeurs sont sourcées et étiquetées, ses incertitudes sont dites, et le PTB comme le 2v8 sont isolés ; ses conseils de jeu restent des heuristiques raisonnées, pas des observations de joueurs experts.
 
 ---
 
@@ -601,11 +602,11 @@ Aucune de ces lacunes ne rend un chiffre du guide faux. **Le guide reste utilisa
 1. **Confirmer la sortie** : chercher la note **de sortie** (pas celle du PTB) dans l'index BHVR (au 27/09/2026, les articles 560-565 renvoyaient « Article not found »). L'archiver en `kb/sources/patches/official_<id>.txt` et mettre à jour `kb_index.txt`.
 2. **Comparer PTB → LIVE** : pour chacune des 58 perks, confronter la note 559 à la note de sortie (BHVR publie souvent une section « Changes from PTB »). Ne jamais supposer que la valeur PTB est passée telle quelle.
 3. **Rescraper le wiki** : changer la constante `UPCOMING = "10.2.0"` de `kb/tools/wiki_scrape.py` pour le prochain patch annoncé, puis relancer `wiki_scrape.py perks` et `wiki_scrape.py killers`. Les 51 pages de perks qui affichaient le PTB (dont Dissolution, Distressing, Do No Harm, Nothing but Misery, Shattered Hope, Wake Up!, Windows of Opportunity) redeviennent la référence **seulement si** la note de sortie concorde.
-4. **Mettre à jour les fiches**, dans cet ordre de priorité : `kb/ledgers/AUDIT_PHASE0_ERRATA.md` si une correction change → fiches `kb/research/batch2_*`, `batch3_*`, `batch4_*` concernées → `kb/deliverables/PERK_DATABASE.md` → `kb/guide/CANONICAL_FACTS.md` (en corrigeant au passage la ligne Five Moves Ahead) → chapitres.
+4. **Mettre à jour les fiches**, dans cet ordre de priorité : `kb/ledgers/AUDIT_PHASE0_ERRATA.md` si une correction change → fiches `kb/research/batch2_*`, `batch3_*`, `batch4_*` concernées → `kb/deliverables/PERK_DATABASE.md` → `kb/guide/CANONICAL_FACTS.md` → chapitres.
 5. **Chapitres à revoir en premier** : 1 (§1.1-1.4, version de référence), 2 (§2.6.2 Abandon / Surrender / End Trial), 6 (§6.7 SoloQ si le Survivor Intent System sort), 9 et 10 (inventaires, §9.6, §10.9), 7-8 (perks enseignables des tueurs 31-37, Superior Anatomy du Mastermind, Ravenous du Krasue, The Judgment), 15 (§15.1, 15.3).
 6. **Questions ouvertes** : relire `OPEN_QUESTIONS.md` B1 (Undone, Thrill of the Hunt, bug de Head On, liste des perks « DR »).
 7. **Refaire l'audit de couverture** (méthode de `kb/audit/pass13_coverage.md`) : nouveaux tueurs (Art the Clown annoncé en nov. 2026), nouvelles cartes (The Mall annoncée en déc. 2026), nouvelles perks. Un élément ANNONCÉ n'entre dans l'inventaire qu'une fois LIVE.
-8. **Mettre à jour les registres** : `PROJECT_MANIFEST.md`, `COVERAGE_MATRIX.md`, `TODO_RESEARCH.md`, `CHANGELOG.md` (en retard depuis les lots 2-4), puis régénérer `SOURCE_LEDGER_batches.md`.
+8. **Mettre à jour les registres** : `PROJECT_MANIFEST.md`, `COVERAGE_MATRIX.md`, `TODO_RESEARCH.md`, `CHANGELOG.md`, `SOURCE_LEDGER.md`, puis régénérer `SOURCE_LEDGER_batches.md`. Le verdict du §15.7 redevient **NOT READY** tant que les chapitres touchés par 10.2.0 n'ont pas été re-vérifiés (condition 7).
 9. **Reconstruire le PDF** et relire les tableaux modifiés.
 
 > **Erreur fréquente** : corriger le guide à partir d'une page wiki pendant un PTB. Vérifie d'abord la date de la page et la présence de « upcoming Patch » ou d'un onglet d'historique « PTB ». En cas de doute, la ligne « (was …) » de la note officielle donne la valeur LIVE.
@@ -619,7 +620,7 @@ Aucune de ces lacunes ne rend un chiffre du guide faux. **Le guide reste utilisa
 | `summarize_batches.py` | `python3 kb/tools/summarize_batches.py > résumé.md` : décompte des fiches, verdicts d'écart, niveaux de confiance, conflits | Résumé + réécriture de `kb/ledgers/SOURCE_LEDGER_batches.md` |
 | `build_pdf.py` | `python3 kb/tools/build_pdf.py [sortie.pdf]` : assemble `kb/guide/NN_*.md` en HTML puis PDF (Chromium via playwright) | `DBD_Guide_Expert_v2.pdf` par défaut |
 
-L'audit de couverture de ce chapitre a été fait par un script ad hoc non versionné ; sa méthode (sources des inventaires, normalisation, variantes de noms, contrôles de rubriques) est décrite en tête de `kb/audit/pass13_coverage.md` pour pouvoir le refaire.
+L'audit de couverture du guide (passe 13) a été fait par un script ad hoc non versionné ; sa méthode (sources des inventaires, normalisation, variantes de noms, contrôles de rubriques) est décrite en tête de `kb/audit/pass13_coverage.md` pour pouvoir le refaire.
 
 ### 15.8.3 Règles de maintenance
 
@@ -634,8 +635,8 @@ L'audit de couverture de ce chapitre a été fait par un script ad hoc non versi
 
 - `kb/guide/CANONICAL_FACTS.md` ; chapitres 1 (§1.1-1.5, §1.9) et 2
 - `kb/ledgers/AUDIT_PHASE0_ERRATA.md`, `OUTDATED_CONTENT_REPORT.md` (parties A et B), `OPEN_QUESTIONS.md` (partie B), `CONFLICT_REGISTER.md`, `SOURCE_LEDGER.md`, `PROJECT_MANIFEST.md`, `COVERAGE_MATRIX.md`, `TODO_RESEARCH.md`, `CHANGELOG.md`
-- `kb/audit/pass13_coverage.md` (audit de couverture scripté de ce chapitre), `kb/audit/pass14_*.md`, `kb/audit/pass17_A.md` à `pass17_D.md`
+- `kb/audit/pass13_coverage.md` (audit de couverture scripté), `kb/audit/pass14_*.md`, `kb/audit/pass15_depth_practicality.md`, `kb/audit/pass17_A.md` à `pass17_D.md`, `kb/audit/pass18_final_check.md` (audit de ce chapitre et verdict)
 - `kb/research/batch8_maps.md` §1 (inventaire des cartes), `batch4_killers_g*.md`, `batch2_perks_surv_p*.md`, `batch3_perks_kill_p*.md`, `batch12_mechanics_open.md`
 - `prompt.md` §28-30 et §47 (mission) ; `kb/tools/*.py`
-- Notes officielles BHVR (`https://forums.bhvr.com/dead-by-daylight/kb/articles/<id>`) : 510, 516, 523, 529, 534, 538, 544, 556, 557, 558 et **559 (PTB 10.2.0, non LIVE)** — `kb/sources/patches/`
-- Wiki officiel `https://deadbydaylight.wiki.gg` : pages de perks, de tueurs, Realms et pages de patch (extraites le 27/09/2026)
+- Notes officielles BHVR (`https://forums.bhvr.com/dead-by-daylight/kb/articles/<id>`) : 510, 516, 523, 529, 534, 538, 544, 556, 557, 558 et **559 (PTB 10.2.0, non LIVE)** — `kb/sources/patches/` (48 articles archivés)
+- Wiki officiel `https://deadbydaylight.wiki.gg` : pages de perks, de tueurs, Realms et pages de patch (extraites les 27-28/09/2026)

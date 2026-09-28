@@ -53,6 +53,7 @@ Autres tailles d'équipe au départ (SS) : 6 gens présents / 4 requis avec 3 su
 ### Le « tableau de course » `[Intermédiaire]`
 
 **[HEURISTIQUE]** Toute partie est une course entre deux compteurs :
+
 - les survivants doivent produire **450 s-surv** de réparation utile (5 × 90 ; moins avec Great skill checks, toolbox et perks ; plus avec la régression, les skill checks ratés et les blocages) ;
 - le tueur doit produire **12 états de crochet** (moins si des phases expirent, s'il exile avec The Judgment, s'il fait saigner ou s'il obtient un Mori).
 
@@ -78,6 +79,7 @@ Détail : `kb/research/batch9_macro.md` §1.
 | Coût réel en s-surv | 90 (solo) ; 105,9 (à 2) ; 128,6 (à 3) ; 163,6 (à 4) → +18 % / +43 % / +82 % de gaspillage | calc. | — |
 
 **QUOI** : un gen est une jauge de 90 charges. **POURQUOI** c'est important : la pénalité coop fait que 4 survivants sur un gen « brûlent » ~74 s-surv de plus qu'en solo, presque un gen entier. **QUAND** réparer à plusieurs **[SITUATIONNEL]** :
+
 1. Finir vite un gen avancé quand le tueur arrive : un gen à 80 % (18 charges restantes) se finit en ~18 s seul, **~10,6 s à 2** (calc.). Un gen fini ne peut plus être frappé : on convertit du risque en acquis.
 2. Casser un 3-gen (voir 2.2.4).
 3. Dernier gen, tout le monde libre : l'horloge compte plus que le rendement.
@@ -113,6 +115,7 @@ Détail : `kb/research/batch9_macro.md` §1.
 | Gen bloqué (par l'Entité) | Progression figée ; **aucune perte instantanée** tant que dure le blocage | — | SS |
 
 Conversions (calc.) :
+
 - Stopper la régression = 4,5 charges = **4,5 s solo** (≈ 2,6 s à 2).
 - Gen frappé laissé seul 60 s : 4,5 + 60 × 0,25 = **≈ 19,5 charges ≈ 19,5 s** de réparation solo perdues.
 
@@ -131,6 +134,7 @@ Conversions (calc.) :
 **QUAND il se décide** **[HEURISTIQUE]** : **avant**. À 3 gens restants, il reste 5 gens sur la carte ; le choix des 2 prochains gens finis fixe le triangle final.
 
 **COMMENT le prévenir** **[HEURISTIQUE]** :
+
 - repérer dès le début le groupe de gens le plus serré et en attaquer au moins un tôt ;
 - se demander à chaque gen : « si on finit celui-ci, quels 3 restent ? » ; si c'est un triangle serré, changer de gen ;
 - laisser les gens isolés, en bord de carte, pour la fin.
@@ -142,6 +146,7 @@ Conversions (calc.) :
 ### 2.2.5 Continuer ou lâcher un gen
 
 **[HEURISTIQUE]** Comparer le **temps pour finir** (charges restantes / débit) au **temps d'arrivée du tueur**. Un tueur à 4,6 m/s qui entre dans un rayon de terreur de 32 m vous atteint en ~7 s s'il vient droit sur vous ; ~5 s pour 24 m à 4,4 m/s (calc. ; rayons « d'origine », avec beaucoup d'exceptions, SS).
+
 - Fin < arrivée − 2 s (marge pour un skill check et la fuite) → **finir**.
 - Sinon → **lâcher avant d'être vu**, dans la direction opposée, vers une ressource de chase.
 - Exception : tueur furtif (pas de rayon de terreur fiable) → le TR ne vous protège pas.
@@ -224,6 +229,7 @@ Calcul utile (calc., à partir de 4 % et des offrandes de Luck +1/2/3 %) : avec 
 **QUAND il vous aide** : face camp (tueur immobile à < ~10 m). La jauge accélère (×2 après 10 s, ×4 après 20 s de présence). **Sauf raison précise (sauvetage imminent, perk qui l'exige), ne restez pas dans les 16 m** : votre présence **ralentit** la jauge (SS) et vous offre en cible. Réparez plutôt **[HEURISTIQUE]**.
 
 **QUAND il ne sert à rien** :
+
 - **Proxy camp** (tueur à 16-30 m qui patrouille entre crochet et gens proches) : **zéro remplissage** au-delà de 16 m.
 - **Zone grise 10-16 m** : un tueur qui oscille à 12-15 m obtient l'essentiel d'un face camp en ne payant presque rien (×1 à ×0,375) **[HEURISTIQUE : traitez-le comme un proxy camp]**.
 - **Portes alimentées** : jauge coupée ; un camp de fin de partie est mécaniquement « légitime ».
@@ -254,6 +260,7 @@ Calcul utile (calc., à partir de 4 % et des offrandes de Luck +1/2/3 %) : avec 
 ### 2.3.5 Fins à 2 survivants `[Expert]`
 
 Toutes les règles ci-dessous sont **[FACT] (VP)** :
+
 - auto-décrochage possible (4 %, 3 essais) ;
 - 2 checks de lutte manqués = sacrifice ;
 - tous les survivants restants accrochés en même temps = sacrifice ;
@@ -401,6 +408,7 @@ Détail : `kb/research/batch9_macro.md` §2.10 ; `kb/research/batch6_chase_tech.
 **POURQUOI c'est un arbitrage** : la récupération ne progresse qu'à l'arrêt ; ramper la met en pause (VM : wiki + note 9.3.0 qui rend cette capacité à Tenacity seulement). Le PTB 9.3.0 l'avait écrit en toutes lettres : il faut « choisir entre rester immobile pour récupérer, ou ramper pour que le tueur ne vous trouve pas ».
 
 **QUAND [SITUATIONNEL]** :
+
 - **ramper** vers un coéquipier ou une zone couverte si cela rapproche réellement un sauveteur ou vous sort de la vue du tueur ; évitez en général de ramper vers un gen occupé, un cul-de-sac ou le crochet le plus proche (vous y attirez le tueur) ;
 - **rester immobile** si le tueur est parti loin et qu'un allié arrive déjà : relevé à 95 %, il finit plus vite ;
 - **ne pas alterner au hasard** : chaque changement perd du temps des deux côtés.
@@ -473,6 +481,7 @@ Définitions LIVE, d'après la page wiki.gg « Status Effects » (SS) sauf menti
 ### 2.7.3 Heresy (The Judgment) en détail
 
 **[FACT]** (principe VP, valeurs SS) :
+
 - **Comment on l'obtient** : touché par la Divine Light, ou en provoquant : **3 accroupissements ou gestes à moins de 10 m** du tueur, ou **45 s** dans le seuil d'une porte de sortie.
 - **Effets** : un skill check **Good** sur un gen fait **−3 %** ; porte bloquée **8 s** pour l'hérétique si la Heresy est acquise à moins de 32 m d'une porte.
 - **Purge** : « Repent » à un Shrine (décroissance 30 s).
@@ -504,6 +513,7 @@ Exemple : trois bonus identiques de +20 %, +10 % et +10 % (valeurs fictives)
 ### 2.8.2 Pourquoi la règle de rôle existe
 
 La note de dev officielle donne deux exemples du PTB 9.6.0 (VP) :
+
 - la pénalité volontaire de **−30 %** de vitesse de purification de **Calm Spirit** était réduite de 50 % par la pénalité de **−60 %** de **Hex: Thrill of the Hunt** : le survivant « gagnait » à porter une pénalité ;
 - **ONE-TWO-THREE-FOUR!** (survivant) réduisait l'effet de **Unnerving Presence** (tueur) sur la chance de skill check.
 
@@ -753,6 +763,7 @@ Détail : `kb/research/batch5_items.md` §4, §5.7-5.9 ; `kb/research/batch9_mac
 ### 2.11.4 Ce que vous voyez du loadout (Match Details, 9.6.0)
 
 **[FACT] (VP)** :
+
 - vous voyez le **loadout de vos coéquipiers** (perks, objets et add-ons, offrandes non secrètes), avec descriptions au survol ;
 - le **tueur** est caché au début de la partie et apparaît à tous les survivants dès qu'**un** survivant entre en poursuite ou perd un état de santé ;
 - le **loadout de l'équipe adverse reste caché jusqu'à la fin** de la partie.
@@ -810,6 +821,7 @@ Ce chapitre donne les **règles** ; la décision en partie se prend avec un arbr
 ## Sources du chapitre
 
 **Fichiers de la base**
+
 - `kb/ledgers/AUDIT_PHASE0_ERRATA.md` (corrections prioritaires)
 - `kb/seed/audit_phase0.txt` : tables « Référence vérifiée : objectifs, crochets, soins, statuts » (1.1 à 1.6) et « mouvement, chase, combat » (1.1 à 1.8)
 - `kb/research/batch9_macro.md` (§1, §2, §3.2, §6)
@@ -820,6 +832,7 @@ Ce chapitre donne les **règles** ; la décision en partie se prend avec un arbr
 - `kb/deliverables/QUICK_REFERENCE.md` (cohérence des chiffres clés)
 
 **Notes officielles BHVR** (`kb/sources/patches/`)
+
 - 9.0.0 (510) : auto-décrochage, lutte, Mori de fin, offrandes 20 %, apparition, Abandoned 2 000 BP
 - 9.1.0 (516) : sacrifice à 2 survivants (2 checks manqués, tous accrochés)
 - 9.2.0 (523) : récupération au sol automatique, Abandon, densité de palettes

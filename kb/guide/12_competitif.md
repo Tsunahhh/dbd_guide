@@ -3,6 +3,7 @@
 > **Périmètre** : mode 1v4, référence **LIVE 10.1.2a (17/09/2026)**. Ce chapitre compare deux contextes qu'il ne faut jamais confondre : le **COMPETITIVE DBD** (ligues, tournois, règlements) et le **PUBLIC MATCHMAKING** (les parties que vous jouez). Il se termine par une section de **littératie des données** : comment lire, juger et citer une statistique de DBD.
 
 > **Limites (à lire avant tout)** [FACT] : le site de la DBDLeague (dbdleague.com), YouTube, Twitch, X et Liquipedia étaient **inaccessibles** pendant la recherche. Conséquences :
+>
 > - **aucune VOD n'a été analysée** ; ce chapitre ne tire aucune leçon « vue en match » ;
 > - les **règlements récents** (saison DBDL en cours, page Balancing, barème exact, pool de tueurs, statut de l'anti-facecamp) **n'ont pas été lus** ; seules les règles des Community Cups officielles de 2023 sont vérifiées, le reste vient de relais ;
 > - la partie « ce qui se transfère » est une **analyse** (étiquetée [HYPOTHÈSE] / [AVIS D'EXPERT]) construite à partir des règles connues, pas un constat sourcé.
