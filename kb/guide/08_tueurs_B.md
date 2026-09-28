@@ -552,6 +552,14 @@ Détail : `kb/research/batch4_killers_g4.md` §30.
 
 **Erreurs classiques** [HEURISTIQUE] : tenir une boucle « safe » sous un drone ; compter sur le fast vault ; croire « pas de TR = elle est loin » après un rappel.
 
+**Quand le counterplay habituel échoue** :
+
+- « Chronométrer le passage de la ligne » échoue quand elle **inverse le sens de rotation** (ce qui lui redonne la Haste) ou avec **Low-Power Mode** (faisceau fixe) → ne pas caler sa boucle sur la ligne ; sortir du rayon de 10 m [SITUATIONNEL].
+- « Pré-drop plus tôt » ne suffit plus si tu es **Claw-trapped et scanné** juste après une pose (elle reprend ≈ 1,23 m/s) → quitter la zone du drone **avant** de jouer la palette [SITUATIONNEL].
+- « S'accroupir ou s'immobiliser sous la ligne » échoue en chase : l'arrêt coûte de la distance → en chase, changer de tile ; l'immobilité reste une réponse hors chase [HEURISTIQUE].
+- « Pirater dès qu'on peut » échoue contre **Iridescent Unpublished Manuscript** : Undetectable 15 s et TR leurre de 32 m sur le drone piraté → pirater seulement en sachant où elle est [SITUATIONNEL].
+- En fin de partie, un gen à 3 défendu par des drones ne se finit pas seul sous le Lock-On → y aller à plusieurs, ou changer d'objectif [HEURISTIQUE].
+
 **Implications de carte** [HEURISTIQUE]
 
 - Petites maps et gens proches = zone de drones plus dense ; maps à étages : **aucun scan à travers les planchers** → un main à étage est un refuge contre le Lock-On.
@@ -604,6 +612,13 @@ Détail : `kb/research/batch4_killers_g5.md` §31.
 - **Macro** : ramasser un EMP tôt et le garder pour un vrai Slipstream ou un groupe de pods (SoloQ : en prendre un si personne n'en a visiblement). Ne pas se grouper (propagation 6 m).
 
 **Erreurs classiques** [HEURISTIQUE] : rester dans la LOS d'un pod à < 20 m ; réparer à plusieurs dans la vue d'un pod ; utiliser l'EMP sans rien à nettoyer.
+
+**Quand le counterplay habituel échoue** :
+
+- « Tenir la palette actuelle » échoue pendant l'**Overclock** (5,7 s, casse et vault +75 %) → viser une ressource plus loin, ou jeter la palette sur lui pour l'Overheat plutôt que d'attendre qu'il la franchisse [SITUATIONNEL].
+- « Casser la LOS des pods » ne sert plus une fois **Slipstreamed** : le tag est acquis → seul l'**EMP** (zone 10 m) retire le Slipstream ; partir vers une Supply Case ou un coéquipier équipé [HEURISTIQUE].
+- « Une palette abaissée entre lui et moi » échoue contre la téléportation : il la traverse et la casse → mais il passe en Overheat 3 s : c'est la fenêtre pour partir, pas pour revenir sur le tile [SITUATIONNEL].
+- La « distance sûre de 20 m » échoue avec **Diagnostic Tool (Repair)** (24 m), et casser les LOS n'a aucun sens contre **Denied Requisition Form** (tous Slipstreamed au départ) → EMP d'abord [SITUATIONNEL].
 
 **Implications de carte** [HEURISTIQUE]
 
@@ -821,6 +836,14 @@ Détail : `kb/research/batch4_killers_g5.md` §35.
 
 **Erreurs classiques** [HEURISTIQUE] : attendre à la palette debout jusqu'au dernier moment avec Mage Hand prêt ; courir debout face aux entités ; rester près d'une palette relevée sans la rabaisser. Contre un Lich qui **garde** Mage Hand en attendant ton pré-drop : varier (départ sans drop, fenêtre).
 
+**Quand le counterplay habituel échoue** :
+
+- « S'accroupir face aux entités » échoue contre **Iridescent Book of Vile Darkness** (entités plus basses) et peut-être sur terrain en pente (le texte dit « terrain plat ») → casser la LOS derrière un obstacle [SITUATIONNEL].
+- Le **pré-drop** échoue contre un Lich qui garde Mage Hand et ralentit pour l'obtenir → alterner départ sans drop, drop normal et fenêtre [HEURISTIQUE].
+- « Revenir boucler sur la palette jetée » échoue : Mage Hand la relève (kit de base) ou la casse en 4 s (**Vorpal Sword**) → enchaîner vers une autre ressource [HEURISTIQUE].
+- « Après un Mage Hand, la fenêtre est sûre » échoue si le Lich l'a survolée avec l'Iridescent Book (fenêtre bloquée 45 s) → vérifier avant de s'y engager [SITUATIONNEL].
+- « TR = info » échoue avec **Cloak of Elvenkind** (TR −22 m pendant Fly) ou **Cloak of Invisibility** (Undetectable 20 s après une rafale de sorts) → regarder en l'air, suivre les cooldowns plutôt que le TR [SITUATIONNEL].
+
 **Implications de carte** [HEURISTIQUE]
 
 - Maps ouvertes = Fly et Flight of the Damned plus forts ; sur terrain en pente, l'accroupissement ne protège peut-être pas (le texte dit « terrain plat »).
@@ -875,6 +898,13 @@ Détail : `kb/research/batch4_killers_g5.md` §36.
 - **Équipe** : SWF = annoncer la forme ; SoloQ = berceuse et orbes sont les seuls signaux partagés.
 
 **Erreurs classiques** [HEURISTIQUE] : rester dans l'axe d'un vampire qui charge ; tenir une palette abaissée seule contre un loup au Pounce prêt ; se croire loin parce que la berceuse l'est (une téléportation couvre 32 m).
+
+**Quand le counterplay habituel échoue** :
+
+- L'**esquive latérale** de l'Hellfire échoue contre **Iridescent Ring of Vlad** (piliers guidés) et derrière un obstacle bas (les piliers passent au-dessus) → casser la LOS derrière un mur **haut** [SITUATIONNEL].
+- Le **pré-drop** échoue contre le loup au Pounce prêt (la palette abaissée est détruite) → jouer la palette une fois le Pounce consommé (20 s), ou partir directement vers la suivante [HEURISTIQUE].
+- « Palettes abaissées et fenêtres = sécurité » échoue contre la chauve-souris : ce sont ses **points de téléportation** (2-32 m) ; avec **Pocket Watch**, chaque casse recharge la téléportation → s'éloigner de la ressource où elle peut arriver [SITUATIONNEL].
+- « Se cacher en marchant » ne suffit pas contre la chauve-souris : les Scratch Marks disparaissent, mais tes pas sont 50 % plus forts → s'immobiliser ou quitter la zone plutôt que longer le décor [HEURISTIQUE].
 
 **Implications de carte** [HEURISTIQUE]
 
@@ -1091,6 +1121,14 @@ Détail : `kb/research/batch4_killers_g6.md` §40.
 - **Chase contre la tête** : 4,8 m/s dès le départ, elle reprend 0,8 m/s (10 m en 12,5 s). Faute de Bloodlust, elle ne devient plus lente qu'un tueur à 4,6 m/s qu'après 25 s de chase → **les premières secondes sont les plus dangereuses**, « étirer » ne paie qu'une fois la chase longue installée [HEURISTIQUE fondée sur FACT].
 
 **Erreurs classiques** [HEURISTIQUE] : ignorer la jauge ; boucler une palette contre la tête comme contre un M1 ; courir en ligne droite contre la glande ; oublier qu'un TR de 40 m peut être la tête **loin du corps** ; manger à portée de glande.
+
+**Quand le counterplay habituel échoue** :
+
+- « Jouer les palettes » échoue contre la **Head Form**, qui les vaulte → tiles à murs pleins et gros rochers qu'elle doit contourner ; la palette ne sert que pour un stun ponctuel (2,5 s) [HEURISTIQUE].
+- « Étirer la chase » échoue au début contre la tête (4,8 m/s dès le départ, sans Bloodlust) → les premières secondes sont les plus dangereuses : gagner un obstacle vite, pas de ligne droite [HEURISTIQUE].
+- « Esquiver la glande » échoue si l'on s'arrête à l'esquive initiale : les mini-glandes cherchent à ≤ 7 m → casser la LOS **après** la division ; avec **Queen's Sceptre**, s'attendre à une glande de suivi après un fouet [SITUATIONNEL].
+- « Sain et hors Leech = le fouet ne blesse pas » échoue avec **Chicken Head** (Leeched I dès le départ) et **Spattered Handkerchief** (Leeched I en endgame, champignons détruits) → jouer la distance et éviter la tête au lieu de compter sur un champignon [SITUATIONNEL].
+- « Soigner d'abord » échoue au palier II (**Broken**) → faire baisser la jauge avant tout soin ; manger hors de portée de glande, un coup annule l'effet [HEURISTIQUE].
 
 **Implications de carte** [HEURISTIQUE]
 
