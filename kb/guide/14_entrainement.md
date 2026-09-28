@@ -103,6 +103,21 @@ Détail : `kb/research/batch11_training.md` §4.1 ; `kb/deliverables/TRAINING_PR
 
 > **À retenir** : chaque critère est une [HEURISTIQUE]. Son rôle est de t'obliger à **mesurer**, pas de te certifier. Si un critère te paraît mal calibré pour toi, garde la direction et ajuste le chiffre — mais décide-le **avant** le bloc, pas après.
 
+**Quoi relire avant chaque niveau** (la théorie qui explique le POURQUOI du drill) :
+
+| Niv. | Chapitres et sections | Arbre (ch. 13) | Erreurs à surveiller |
+|---|---|---|---|
+| 1 | 2.1-2.3, 2.9 ; 15.1 (chiffres clés, pour le quiz) | — | E-D06, E-D07, E-D08 |
+| 2 | 3.3 T01-T03, T14 | — | E-D01, E-D02, E-D05 |
+| 3 | 3.3 T04-T05, 4.2-4.4 ; 3.9 situations 1-2 | Arbre 1 — Palette | E-D04, E-I01, E-I12 |
+| 4 | 4.6, 5.3, 5.7 (drills de carte D1-D5), 6.9 (zones épuisées) | Arbre 2 — Quitter la tile | E-D03, E-A07, E-A08 |
+| 5 | 7 (identification, typologie), fiches 7-8, 4.5 | — | E-D11, E-A03, E-T10 |
+| 6 | 2.5, 6.2-6.5, 6.7 ; 11.3 | Arbres 3, 4, 5 | E-I02 à E-I06, E-D09, E-D10 |
+| 7 | 6.6, 6.9, 10.3-10.7 | Arbre 6 — Totem | E-A08, E-T02 |
+| 8 | 3.3 T06-T23, 3.8, 4.7 | Arbres 1 et 2 (versions « difficiles ») | E-A01, E-A02, E-A04, E-T03, E-T04 |
+| 9 | 3.8, 6.10, 6.12, 12.4 | Arbres 7, 8, 9 | E-T01, E-T05, E-T06, E-T07 |
+| 10 | 6.8, 12.5-12.7 | — | E-T12 |
+
 Chaque niveau ci-dessous suit le format : **Compétences · Drills · Critère de passage · Durée · Pourquoi ce critère · Piège du critère**.
 
 ### Niveau 1 — Fondamentaux [Débutant]

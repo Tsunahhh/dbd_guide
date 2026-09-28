@@ -276,6 +276,21 @@ Tous les seuils de réussite des drills sont [HEURISTIQUE] / [INCERTAIN]. Ils me
 
 > **Erreur fréquente** : appliquer une feuille mécaniquement. Un tueur qui a compris ta réponse par défaut (il attend ton pre-drop, simule un départ du crochet) l'exploite. L'arbre sert à savoir **quelle information chercher**.
 
+**D'où vient chaque arbre, et comment l'automatiser** (le POURQUOI des questions est dans le chapitre théorique ; le drill rend l'arbre réflexe) :
+
+| Arbre | Théorie (pourquoi ces questions) | Exemple concret déjà résolu | Drill (ch. 14) |
+|---|---|---|---|
+| 1 Palette (13.8) | 3.3 T04-T05, 3.8 (EV), 4.4 | 3.9 situations 1 et 2 | DR-12, DC-01, DR-03 |
+| 2 Quitter la tile (13.9) | 4.6, 3.3 T18 | 4.7 exemples 1-3 | DR-13, DC-03 |
+| 3 Crochet (13.10) | 2.3-2.4, 6.3 | 6.12 A et C ; 6.6 (accrochage près de ton gen) | DR-10, DR-16 |
+| 4 Soin (13.11) | 2.5.3, 6.5 | 11.3 (auto-soin ou gen ?) | DR-18, DC-10 |
+| 5 Gen (13.12) | 2.2, 6.2 | 6.12 B (3-gen) | DR-09, DR-14 |
+| 6 Totem (13.13) | 2.10, 10.6-10.7 | — | DR-07 |
+| 7 Slug (13.14) | 2.6, 6.4 | — (à écrire) | DR-17 |
+| 8-9 Endgame, Trappe (13.15-13.16) | 6.11, 11.12 T8 | 6.12 C et D | DR-11 |
+
+**EXERCICE** : prends un moment pivot de ta dernière revue (14.6), identifie l'arbre, puis refais le chemin question par question avec **l'information du moment** ; note la question où ta décision a divergé.
+
 ---
 
 ## 13.8 Arbre 1 — Palette [Intermédiaire]

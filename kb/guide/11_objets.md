@@ -21,6 +21,16 @@
 
 **Techniques** (section 11.12) : grille **QUOI → POURQUOI → QUAND → COMMENT → CONTRE → CAS D'ÉCHEC → EXERCICE**. Sauf mention FACT ou CALC, les rubriques POURQUOI à EXERCICE sont des **[HEURISTIQUE]** calibrées sur un tueur « moyen ». Aucune vidéo ni site de statistiques n'a été utilisé.
 
+**Passer à la pratique** : un objet ne change rien s'il n'est pas relié à une décision. Correspondances [HEURISTIQUE] :
+
+| Objet / technique | Décision qu'il modifie | Arbre (ch. 13) | Erreurs | Drill (ch. 14) |
+|---|---|---|---|---|
+| Toolbox (11.2) | Finir ou lâcher ; quel gen du futur 3-gen | Arbre 5 — Gen (13.12) | E-I14, E-I06 | DR-09, DR-14 |
+| Med-Kit (11.3) | Se soigner seul, maintenant ou plus tard | Arbre 4 — Soin (13.11) | E-I02, E-D10 | DR-18, DC-10 |
+| Lampe, pallet save, body block, protection hit (T1, T2, T4, T5) | Suivre ou non un portage ; protéger le décroché | Arbre 3 — Crochet (13.10) | E-I03, E-A06, E-T01 | DR-10 (en SWF : DR-08) |
+| Key, trappe (11.6, T8) | Trappe ou porte, dernier survivant | Arbre 9 — Trappe (13.16) | E-T07 | DR-11 |
+| Coffres (11.10) | Ouvrir ou réparer | — | E-D07 (temps sans objectif) | M-13 (temps inactif) |
+
 > **À retenir** : un objet ne « gagne » pas une partie. Il fait gagner ou perdre **quelques secondes** (toolbox, kit) ou **une décision** (lampe, clé, Fog Vial). Le bon réflexe est de se demander, pour chaque objet et chaque add-on : **est-ce que ça change ce que je fais ?** Si non, c'est du confort.
 
 ---
@@ -188,6 +198,15 @@ Add-ons de confort ([FACT] (SS)) : charges (Bandages +8, Self Adherent Wrap +8 e
 > **Erreur fréquente** : prendre un Ranger pour s'auto-soigner. Son bonus est **altruiste** : inutile sur soi.
 
 **Valeur** [HEURISTIQUE] : SoloQ **haute** (autonomie, erreurs pardonnées). SWF **moyenne-haute** (soins d'équipe, seringue).
+
+### Exemple concret : auto-soin ou gen ? [HEURISTIQUE sur CALC]
+
+- **Situation** : SoloQ, tu es blessé (1 crochet), Med-Kit de base plein. Tu viens de casser la chase ; le tueur a repris une autre cible (musique de chase lointaine). Un gen à ~60 % est à 20 m ; un allié blessé répare un autre gen.
+- **Informations connues** : auto-soin au kit ≈ 24 s, **un seul** par kit de base [FACT] (SS) ; soin mutuel = 32 s-surv + trajet ; un auto-soin coupé sous Haemorrhage se perd en partie ; loadout du tueur inconnu.
+- **Options** : A. auto-soin tout de suite, ici ; B. finir d'abord le gen (≈ 36 s seul, CALC), soigner après ; C. aller soigner l'allié blessé avec le kit (bonus altruiste), et rester blessé.
+- **Analyse** : A coûte 24 s-surv, sans mobiliser personne, pendant que le tueur est **engagé ailleurs** : c'est la fenêtre la moins chère de la partie. B gagne le gen plus tôt mais tu restes à un coup du sol si le tueur revient. C est rentable seulement si l'allié est le prochain en chase (runner).
+- **Meilleure logique** : A si la chase de l'allié dure (tueur loin et occupé) ; B si le gen est le dernier avant les portes, ou contre un tueur à blessure fréquente ou à statut où le soin se reperd vite (2.5.3).
+- **Erreur typique** : lancer l'auto-soin **quand le TR monte** (24 s interrompues, charges brûlées) ; ou garder le kit « pour plus tard » et ne jamais l'utiliser.
 
 Détail : `kb/research/batch5_items.md` §2.2.
 

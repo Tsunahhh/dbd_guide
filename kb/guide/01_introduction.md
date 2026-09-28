@@ -393,6 +393,32 @@ S'y ajoutent les suspicions déjà infirmées en phase 0 : 70 s par phase de cro
 
 ---
 
+## 1.10 Penser comme un excellent joueur : les 13 questions [Débutant → Expert]
+
+Le but du guide n'est pas de te faire **connaître** DBD, mais de te faire **raisonner** comme un excellent joueur (mission §50). Ce raisonnement tient en 13 questions. Aucune n'a de réponse unique ; chacune a un endroit du guide qui t'apprend à y répondre.
+
+| # | Question | Où apprendre à y répondre | Outil pratique |
+|---|---|---|---|
+| 1 | Que sait-on ? | 2.9 (signaux), 2.11 et 6.6 (ce que le jeu te donne : identité du tueur, loadouts alliés) | DR-06, DR-16 |
+| 2 | Que ne sait-on pas ? | 10.1 (loadout du tueur caché), 2.12 et 15.5 (inconnues du jeu), 10.3 (déduire au lieu de supposer) | DR-07 |
+| 3 | Où se trouve probablement le tueur ? | 6.9 « Prédire la position du tueur » (modèle du cône), 3.4 (TR, tache rouge, son), 7 (identification) | DR-21, DR-05 |
+| 4 | Quelle ressource ai-je ? | 3.3 T19 (resource management), 4.6 (carte mentale), 6.9 (zones épuisées), 9 et 11 (perks, objets) | DR-13, DC-09 |
+| 5 | Combien de temps puis-je créer ? | 3.2 (calculateur distance / temps), 4.2-4.3 (temps de loop), 4.6.3 (écart nécessaire) | DC-03 |
+| 6 | Quelle ressource vaut la peine d'être consommée ? | 3.3 T05 et 3.8 (modèle EV), 11.11 (rentabilité d'un objet) | Arbre 1 (13.8), DR-12, DC-01 |
+| 7 | Que fait mon équipe ? | 6.7 (SoloQ : HUD, Match Details), 6.8 (SWF : protocoles, callouts) | DR-16, DR-08 |
+| 8 | Quel est le risque ? | 3.8 (coût d'un coup, `C_hit`), 6.10 (erreurs catastrophiques par état) | DC-10 |
+| 9 | Que gagne-t-on si je réussis ? | 1.7.1 et 6.1 (secondes-survivant), 3.8 (valeur d'une chase) | DC-08 |
+| 10 | Que perd-on si j'échoue ? | 2.5.3 (prix d'un soin), 6.3 (trades), 13.3-13.5 (coût de chaque erreur) | DR-19 |
+| 11 | Quelle est l'option la plus robuste avec l'information disponible ? | 6.7 « Décisions robustes », 6.9 « Décider avec une information incomplète », 10.7 | Arbres 13.8-13.16 |
+| 12 | Comment l'adversaire peut-il punir cette option ? | Rubriques **CONTRE** (ch. 3, 4, 11), « Quand le counterplay habituel échoue » (ch. 7-8), 10.5-10.6 | DR-15, E-T04 |
+| 13 | Quelle adaptation dois-je préparer ? | 6.10 (14 états de partie), 6.9 « Reconnaître un snowball », colonnes « Risque → alternative » des arbres (ch. 13) | DC-12, DR-11 |
+
+**Comment s'en servir** [HEURISTIQUE] : en partie, tu n'as le temps que pour 3 ou 4 questions (règle 2 de 13.7) : en chase, surtout 3, 5, 6 et 12 ; hors chase, 1, 3, 7 et 13. Les autres se **préparent** avant (lecture de Match Details, carte mentale) et se **vérifient** en revue (14.6, moments pivots : « qu'est-ce que je savais, quelles étaient mes options ? »).
+
+> **Erreur fréquente** : répondre à la question 9 (le gain) sans la 10 (la perte) et la 12 (la punition). C'est l'origine de la plupart des greeds et des sauvetages ratés du chapitre 13.
+
+---
+
 ## Sources du chapitre
 
 - `kb/guide/WRITING_BRIEF.md` (règles de rédaction)
